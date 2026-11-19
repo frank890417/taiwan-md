@@ -18,11 +18,13 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-09-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣外貿與全球供應鏈.md'
-sourceCommitSha: '57cdd3ae4'
-sourceContentHash: 'sha256:df07b8f5f0dd46a8'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:84347970279cba9c'
 sourceBodyHash: 'sha256:2f404ef3aa8b254f'
-translatedAt: '2026-10-16T00:53:16+08:00'
+translatedAt: '2026-11-18T23:44:18.065659+00:00'
 ---
 
 # ताइवान का विदेशी व्यापार और वैश्विक आपूर्ति श्रृंखला
@@ -282,9 +284,11 @@ ECFA के शुरुआती लाभों ने कई शुल्क�
 
 [^9]: [Liberty Times — विधायिका ने निकारागुआ के साथ FTA रोकने को मंजूरी दी; विदेश मंत्रालय, आर्थिक मंत्रालय: व्यापार पर प्रभाव सीमित](https://news.ltn.com.tw/news/politics/breakingnews/4166554) — निकारागुआ द्वारा दिसंबर 2021 में एकतरफा समाप्ति के बाद, हमारे पक्ष द्वारा इसे 1 जुलाई, 2022 से लागू नहीं किया गया।
 
-## आगे पढ़ें
+## विस्तारित पठन
 
+- [ताइवान उद्योग विशेष](/industry/) — आधिकारिक आंकड़ों से औद्योगिक संरचना का चित्रण: निर्यात और GDP के सत्तर साल, विज्ञान पार्क, विभिन्न काउंटी-शहरों के कारखाने, वर्षों में शीर्ष 10 बाजार मूल्य, साथ ही छह सार्वजनिक विवादों के विभिन्न पक्षों के दृष्टिकोण
+- [आपूर्ति श्रृंखला मानचित्र](/industry/supply-chain-map/) — अर्धचालक, AI सर्वर, टंगस्टन तीन श्रृंखलाएं, कड़ी दर कड़ी देखें कि कौन सी कंपनियां ताइवान में हैं, कौन सी कड़ी विदेश पर निर्भर है
 - [ताइवान के लघु एवं मध्यम उद्यम और छिपे हुए चैंपियन](/hi/economy/taiwan-smes-and-hidden-champions)
-- [ताइवान की कृषि और ग्रामीण पुनरुद्धार](/hi/economy/taiwan-agriculture-and-rural-revitalization)
+- [ताइवान कृषि और ग्रामीण पुनर्जनन](/hi/economy/taiwan-agriculture-and-rural-revitalization)
 - [स्टार्टअप पारिस्थितिकी तंत्र](/hi/economy/taiwan-startup-ecosystem-overview)
-- [ताइवानी कंपनियां: Foxconn Precision](/hi/economy/foxconn-precision-industry) — 24 देशों में 9 लाख लोगों का वैश्विक विस्तार, ताइवानी विनिर्माण के सीमा पार शासन का सबसे बड़ा प्रयोग स्थल।
+- [ताइवान उद्यम: फॉक्सकॉन प्रिसिजन](/hi/economy/foxconn-precision-industry) — 24 देशों में 9 लाख लोगों का वैश्विक लेआउट, ताइवान के विनिर्माण उद्योग के सीमा-पार शासन का सबसे बड़ा प्रयोगस्थल
