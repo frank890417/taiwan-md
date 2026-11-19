@@ -1,19 +1,19 @@
 ---
 title: 'Die Esskultur der indigenen Völker Taiwans'
-description: 'Von den Flammen von AKAME bis zum Wildkräuter-Universum der Amis – wie die Ernährung der indigenen Völker Taiwans nach drei Jahrtausenden die Welt wieder in ihren Bann zieht.'
+description: 'Von den Flammen des AKAME bis zum Wildgemüse-Universum der Amis – wie die indigene Küche Taiwans nach 3.000 Jahren erneut die Weltöffentlichkeit fasziniert'
 date: 2026-03-29
 category: 'Food'
 tags:
   [
     'Indigene Völker',
     'Esskultur',
-    'Mais',
-    'Wildpflanzen',
+    'Hirse',
+    'Wildgemüse',
     'Paiwan',
-    'Ami',
-    'Atayal',
+    'Amis',
+    'Yami',
     'Stammesküche',
-    'Kulinarische Wiederbelebung',
+    'Kulinarische Renaissance',
   ]
 subcategory: '族群飲食'
 author: 'Taiwan.md'
@@ -23,122 +23,126 @@ featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
 image: '/article-images/food/amis-music-festival-dancers-2016.webp'
-imageAlt: 'Indigene Tänzer beim Ami-Musikfestival im Jahr 2016'
+imageAlt: 'Indigene Tänzerinnen beim Amis Musikfestival 2016'
 imageCredit: 'HaeB / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Indigenous_group_dancers_at_Amis_Music_Festival_2016_IMF0936.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/台灣原住民飲食文化.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:c2e6d8f7560888c4'
-sourceBodyHash: 'sha256:11add6012534def8'
-translatedAt: '2026-09-23T21:18:17+08:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:14687c1f1c43e8dc'
+sourceBodyHash: 'sha256:8d0be243161b86bd'
+translatedAt: '2026-11-19T12:04:40+08:00'
 ---
 
 # Die Esskultur der indigenen Völker Taiwans
 
-Im Jahr 2023 erreichte ein kleines Restaurant mit nur zwei Dutzend Sitzplätzen in Sandimen, Pingtung County, die Rangliste „Asia’s Top 50 Restaurants“ und belegte Platz 39. Das Restaurant heißt **AKAME**, was auf Paiwan bedeutet „Flamme“. Der Küchenchef Peng Tian-en ist Paiwan und sein Menü enthält weder Gänseleber noch Trüffel; es gibt nur Waldspargel, Wildpfeffer, falsche Tomatenblätter und Cinavu, das er von seiner Großmutter gelernt hat. Die Medien berichteten von „dem ersten Mal, dass die Küche der indigenen Völker Taiwans auf die internationale Bühne trat“ – in Wirklichkeit war es der Blick der internationalen Presse. Die Ernährung der indigenen Völker Taiwans ist seit drei Jahrtausenden im Inselwald und an den Küsten akkumuliert.
+Im Jahr 2023 landete ein kleines Restaurant mit nur etwa zwanzig Sitzplätzen in der Gemeinde Sandimen im Landkreis Pingtung auf der Liste der „Asia's 50 Best Restaurants“ auf Platz 39. Das Restaurant trägt den Namen **AKAME**, was in der Paiwan-Sprache „Flamme“ bedeutet. Der Küchenchef Peng Tien-en ist Angehöriger des Volkes der Paiwan. Auf seiner Speisekarte finden sich weder Foie gras noch Trüffel, sondern lediglich wilder Schnittlauch aus den Bergen, Bergpfeffer, Blätter der Schamblume sowie _Cinavu_, ein Gericht, das er von seiner Großmutter gelernt hat. Die Medien schrieben: „Die indigene Küche Taiwans betritt erstmals die internationale Bühne“ – doch eigentlich ist es der Blick der internationalen Medien, der auf sie fällt. Die Ernährung der indigenen Völker Taiwans hat sich über 3.000 Jahre in den Wäldern und an den Küsten der Insel angesammelt.
 
-## Kurzübersicht
+## 30-Sekunden-Überblick
 
-Die 16 offiziell anerkannten indigenen Völker Taiwans verfügen über eine eigenständige kulinarische Sprache: die Cinavu der Paiwan, das Wildkräuterwissen der Ami, die Fischkultur der Atayal und die Maisfeste der Bunun. Diese Ernährungsweisen sind nicht nur Nahrung; sie sind ein Bund mit dem Land, ein Dialog mit den Ahnengeistern und eine tiefste Epistemologie einer Gemeinschaft.
+Die 16 offiziell anerkannten indigenen Völker Taiwans besitzen jeweils eine eigene kulinarische Sprache: das _Cinavu_ der Paiwan, das Wissen um Wildgemüse der Amis, die Fliegenfisch-Kultur der Yami (Tao) und die Hirse-Festivals der Bunun. Diese Ernährung ist nicht bloß Nahrung; sie ist ein Bündnis mit dem Land, ein Dialog mit den Ahnengeistern und die tiefste Epistemologie einer Gemeinschaft.
 
-Im 21. Jahrhundert, nach der doppelten Unterdrückung durch die japanische Kolonialherrschaft und Assimilationspolitik, rekonstruieren junge Köche und Stammesälteste diese zerbrochene kulturelle Nabelschnur mithilfe der Ernährung. Der Küchenchef Peng Tian-en (Paiwan) von AKAME und der Küchenchef Yang Baiwei (Ami) von Sinasera 24 sind Vertreter dieser Wiederbelebungsbewegung und wichtige Treiber dafür, dass die Küche der indigenen Völker Taiwans in das internationale Gastronomiepanorama gelangt ist.
+Im 21. Jahrhundert nutzen eine Gruppe junger Köche und Stammesälteste das Essen als Medium, um nach der doppelten Unterdrückung durch die japanische Kolonialzeit und die Assimilationspolitik das einst unterbrochene kulturelle Nabelschnur wieder aufzubauen. Die Köche Peng Tien-en (Paiwan) vom Restaurant AKAME und Yang Po-wei (Amis) vom Sinasera 24 sind Repräsentanten dieser Renaissancebewegung und entscheidende Akteure, die die indigene Küche Taiwans in die internationale Gastronomiekarte eintragen.
 
-Schlüsselwörter: Maisfeste, Cinavu, Tränen des Liebhabers, Magau, AKAME, Sinasera 24
+Schlüsselbegriffe: Hirsefest, Cinavu, „Tränen der Liebenden“, Magau (Bergpfeffer), AKAME, Sinasera 24
 
 ---
 
-## Die Benennung des Feuers: AKAME und die verlorene Sprache der Lebensmittel
+## Die Benennung des Feuers: AKAME und die verlorene kulinarische Sprache
 
-Bevor Peng Tian-en das Restaurant in Sandimen eröffnete, arbeitete er in einem französischen Restaurant in Taipeh. Er sagte in einem Medieninterview: „Ich habe in Taipeh viel Technik gelernt, aber ich hatte immer das Gefühl, dass etwas fehlte. Erst später merkte ich, dass mir meine eigene Sprache gefehlt hat – die Sprache der Lebensmittel.“
+Bevor Peng Tien-en sein Restaurant in Sandimen eröffnete, arbeitete er in einem französischen Restaurant in Taipeh. In einem Interview erklärte er: „In Taipeh habe ich viel Technik gelernt, aber ich hatte immer das Gefühl, dass etwas fehlte. Später wurde mir klar, dass es meine eigene Sprache war – die Sprache des Essens.“
 
-Die „Sprache“, von der er spricht, existiert konkret in verschiedenen Pflanzen. Der Geruch des Waldspargels (tsiaah auf Paiwan) ist scharf wie ein Messer und dient als Symbol für die Abgrenzung der Nahrung durch die Paiwan; die Schichten des falschen Tomatenblattes, die Cinavu umhüllen, lassen Mais und Schweinefleisch beim Dämpfen langsam verschmelzen; der Wildpfeffer (Magau) ist das Seelenaroma der Bunun und Atayal, mit den dreifachen Noten von Ingwer, Zitronengras und Pfeffer, das man nie vergessen kann.
+Diese „Sprache“, von der er spricht, manifestiert sich konkret in verschiedenen Pflanzen. Der Geruch von wildem Schnittlauch (_tsiaah_ auf Paiwan) ist scharf wie ein Messer und dient den Paiwan als Symbol zur Abgrenzung von Geschmacksrichtungen. Blätter der Schamblume umhüllen die Schichten des _Cinavu_ (cinavu), wodurch Hirse und Schweinefleisch beim Dämpfen langsam miteinander verschmelzen. Bergpfeffer (_magau_) ist das Seelenwürzmittel der Bunun und der Tayal; mit seinem Aroma aus Ingwer, Zitronengras und Pfeffer vergisst man ihn nie.
 
-Das Menü von AKAME ändert sich jede Saison, weil die Sprache des Waldes saisonal wechselt. Peng Tian-en sagt, seine Arbeit sei „Übersetzung“: er übersetzt die Erinnerungen der Stammesältesten auf den heutigen Teller und macht die Grammatik des Waldes zu einer Erzählung, die jeder verstehen kann.
+Die Speisekarte von AKAME wechselt saisonal, da die Sprache der Berge sich mit den Jahreszeiten wandelt. Peng Tien-en beschreibt seine Arbeit als „Übersetzung“: Er übersetzt die Erinnerungen der Ältesten in heutige Teller und macht die Grammatik des Waldes zu einer Erzählung, die für jeden verständlich ist.
 
-Sinasera 24 in Changbin, Taitung, folgt einem ähnlichen Weg. Küchenchef Yang Baiwei basiert auf Wildpflanzen der Ami und nimmt täglich mit seinen Mitarbeitern in den Wald, um Pflanzen zu sammeln, die dann das Tagesmenü bilden. „Sinasera“ bedeutet im Ami „Ort, an dem die Sonne aufgeht“, sagt Yang Baiwei: „Viele Wildkräuter gelten in den Augen der Han-Chinesen als Unkraut, aber die Ami wussten von klein auf, dass sie Nahrung, Medizin oder sogar Geschenke sind. Dieses Wissen ist nicht in Büchern geschrieben; es lebt in den Schritten der Alten und in der Haltung, wenn sie durch das Gras bücken.“
+Ein ähnlichen Weg geht Sinasera 24 in Changbin, Taitung. Küchenchef Yang Po-wei konzentriert sich auf Wildgemüse der Amis. Er führt seine Mitarbeiter täglich in die Wälder, um zu sammeln und die Fundstücke direkt in die Tageskarte zu integrieren. „Sinasera“ bedeutet in der Sprache der Amis „Ort, an dem die Sonne aufgeht“. Yang sagt: „Viele Wildgemüse gelten in den Augen der Han-Chinesen als Unkraut, aber die Amis wissen von klein auf, dass es Nahrung, Medizin oder sogar ein Geschenk ist. Dieses Wissen steht in keinem Buch; es lebt in den Schritten der Ältesten und in der Art, wie sie sich beim Durchqueren des Gebüsches bücken.“
 
 > 📝 **Die Benennung von AKAME**
-> Akame bedeutet auf Paiwan „Feuer“ und impliziert auch den Sinn des „Ursprungs“. Feuer ist eine der ältesten sprachlichen Erinnerungen der Paiwan: Es gart die Nahrung und verbindet Mensch mit Ahnengeistern. Im traditionellen Paiwan-Haus ist der Herd (adju) das spirituelle Zentrum und der Ort des Teilens von Speisen. Peng Tian-en nannte das Restaurant „Flamme“ nicht aus romantischer Wahl.
+> Das Paiwan-Wort _akame_ bedeutet „Feuer“ und impliziert auch einen „Anfang“. Feuer ist eine der ältesten sprachlichen Erinnerungen der Paiwan: Es gart die Nahrung und verbindet Menschen mit den Ahnengeistern. In traditionellen Paiwan-Häusern ist die Feuerstelle (_adju_) das spirituelle Zentrum und der Ort des gemeinsamen Essens. Dass Peng Tien-en sein Restaurant „Flamme“ nannte, war keine rein romantische Entscheidung.
 
 ---
 
-## Mais: Nicht nur Grundnahrung, sondern eine Weltanschauung
+## Hirse: Mehr als ein Grundnahrungsmittel – eine Kosmologie
 
-Im Kontext der indigenen Völker Taiwans gibt es kaum ein Han-Chinesisches Grundnahrungsmittel, das dem Mais (粟) entsprechen könnte. Reis wird gegessen; Mais ist „lebendig“.
+Im Kontext der indigenen Völker Taiwans lässt sich die Bedeutung von Hirse kaum mit den Grundnahrungsmitteln der Han-Chinesen vergleichen. Reis wird gegessen, aber Hirse ist „lebendig“.
 
-Die Paiwan nennen Mais djulis und betrachten ihn als spirituellen Samen. Der Lebenszyklus des Maises jedes Jahr – vom Säen über Unkrautjäten bis zur Lagerung – hat entsprechende Rituale und Tabus. Nach der Ernte darf der Mais nicht achtlos berührt werden, sondern erst nach einem bestimmten Ritual geöffnet und gegessen werden. Die Ami nennen Mais hafay. Die Bunun haben komplexe Festkalender rund um den Mais entwickelt, wobei das „Gebet zum Maiserntesong“ (pasibutbut) von der UNESCO als Beispiel für Welt-Choralmusik aufgezeichnet wurde.
+Die Paiwan nennen Hirse _djulis_ und betrachten sie als spirituelle Saat. Der Lebenszyklus der Hirse – vom Säen über das Jäten und Ernten bis zur Lagerung – ist mit spezifischen Ritualen und Tabus verbunden. Geerntete Hirse darf nicht wahllos berührt werden; erst nach bestimmten Zeremonien darf sie geöffnet und verzehrt werden. Die Amis nennen sie _hafay_. Die Bunun wiederum haben um die Hirse herum einen komplexen Festkalender entwickelt, wobei das „Gebetlied für eine reiche Hirseernte“ (_pasibutbut_) von der UNESCO als bedeutendes Beispiel für polyphone Weltmusik dokumentiert wurde.
 
-Linguisten und Archäologen bestätigen, dass Taiwan die Ursprungsregion der gesamten Austronesischen Sprachfamilie ist. Seefahrer, die von Taiwan ausgingen, verbreiteten sich über Jahrtausende nach Madagaskar, Hawaii, Neuseeland und auf den Philippinen und erstreckten sich über Pazifik und Indischer Ozean. Die Esskulturen dieser Gruppen finden hier ihr ältestes Prototyp.
+Linguisten und Archäologen bestätigen, dass Taiwan die Wiege der gesamten austronesischen Sprachfamilie ist. Von Taiwan aus verbreiteten sich Seefahrer über Jahrtausende bis nach Madagaskar, Hawaii, Neuseeland und die Philippinen und besiedelten den Pazifik und den Indischen Ozean. Die Esskulturen dieser Gruppen finden ihre ältesten Prototypen in Taiwan.
 
-Der Wettbewerb des Maises mit dem Reis begann, als die Han-Chinesen im 17. Jahrhundert Reis brachten. Reis liefert höhere Erträge und ist leichter zu lagern, weshalb er unter staatlicher Förderung den Mais allmählich ersetzte. Die Kolonialpolitik während der japanischen Herrschaft (1895–1945) beschleunigte diesen Prozess. Die Landebangelungspolitik nach dem Krieg gab einen weiteren Schub. Bis in die 1970er Jahre hatten viele Stämme fast den Maisanbau aufgegeben; der indigene Mais, der heute auf dem Markt erhältlich ist, ist meist das Ergebnis einer Wiederbelebung der letzten zwanzig Jahre.
-
----
-
-## Wildpflanzen der Ami: Ökologisches Wissen von über 200 Arten
-
-Die größte indigene Gruppe Taiwans, die Ami (mit rund 236.939 Einwohnern), kennt und nutzt mehr als 200 verschiedene Wildkräuter, viele davon ohne Entsprechung in der Han-Chinesischen Esskultur.
-
-Dies ist kein „willkürliches Essen“, sondern ein präzises System ökologischen Wissens. Jede Wildpflanze hat eine Saison, einen Sammelort, eine Verarbeitungsmethode und strenge mündlich überlieferte Tabus: Welcher Monat ist tabu, welcher Teil muss zuerst blanchiert werden, um Oxalsäure zu entfernen, welche Kombinationen machen den Geschmack bitter? Dieses Wissen steht nicht in Büchern; es lebt im Gedächtnis der Alten.
-
-> **Liste einiger Wildpflanzen der Ami**
-> Tränen des Liebhabers (雨來菇): Rohkost, erscheint erst nach Regen, Textur zwischen Eis und Seeigel
-> Waldspinat (lonot): Gebraten, mit Sammelstufen, junge Knospen und reife Blätter haben unterschiedliche Verwendungszwecke
-> Flugzeuggras (昭和草): Bitter-süß, ein alltäglicher Wildkräuter der Stammesfrauen
-> Faro (過溝菜蕨): Zartschmeidig, genannt Bergspinat
-> Wilder Ingwer (野薑花根): Besitzt einen besonderen Duft und wird zum Würzen verwendet
-
-„Tränen des Liebhabers“ zeigen, wie die indigenen Völker Knappheit wahrnehmen. Dieser schwarze, transparente Algen erscheint nur nach Regen; das Sammelfenster beträgt nur wenige Stunden, und er schrumpft nach dem Trocknen um zwanzigmal. Die Ami haben ihn nicht heiliggesprochen oder als selten bezeichnet, sie gaben ihm einfach einen Namen, der an den Regen erinnert, und aßen ihn genussvoll.
+Der Wettbewerb der Hirse gegen den Reis begann im 17. Jahrhundert mit der Einwanderung der Han-Chinesen. Da Reis höhere Erträge liefert und leichter zu lagern ist, verdrängte er unter staatlicher Förderung schrittweise die Hirse. Die Kolonialpolitik der japanischen Zeit (1895–1945) beschleunigte diesen Prozess, gefolgt von der Politik der Sesshaftmachung nach dem Krieg. In den 1970er Jahren gaben viele Stämme den Hirseanbau fast vollständig auf. Das indigene Hirseangebot, das heute auf dem Markt erhältlich ist, ist größtenteils das Ergebnis von Wiederbelebungsbemühungen der letzten zwanzig Jahre.
 
 ---
 
-## Cinavu, Steinkohlegrillen und Atayal-Fisch: Drei Typen
+## Wildgemüse der Amis: Ökologisches Wissen über 200 Arten
 
-Die Kochtechniken der indigenen Völker Taiwans sind nicht zahlreich, aber jede ist präzise. Präzision bedeutet: Die Korrespondenz zwischen Zutat, Werkzeug und Saison ist das Ergebnis von Jahrhunderten des Ausprobierens, kein Zufall. Diese drei Beispiele stammen aus unterschiedlichen Landschaften und Gruppen, haben jedoch eine Gemeinsamkeit: Der Kochakt ist nicht nur Kochen, sondern eine vollständige Darbietung eines Wissenssystems.
+Das größte indigene Volk Taiwans, die Amis (Gesamtbevölkerung ca. 236.939), kennt über 200 Arten von Wildgemüse, die sie identifizieren, benennen und essen – viele davon haben in der Esskultur der Han-Chinesen keinen entsprechenden Namen.
 
-Cinavu ist ein Festessen der Paiwan und Rukai bei Hochzeiten und Zeremonien. Eingewecktes Schweinefleisch und Mais werden in falsche Tomatenblätter gewickelt und mit Mondblütenblättern noch einmal gebunden und gedämpft. Im Moment des Öffnens strömen die Aromen dreier Pflanzen wie Wellen hervor. Die Zubereitung von Cinavu erfordert die Zusammenarbeit der ganzen Familie; die Technik des Wickelns muss von den Älteren gelernt werden, und die leichte Unterschiede in der Blattfaltenweise variieren je nach Familie. Kulturforscher berichten, dass das Können, Cinavu zu wickeln, ein kulturelles Indiz dafür ist, ob man bereit ist, die Verantwortung eines Erwachsenen zu übernehmen.
+Dies ist kein „planloses Essen“, sondern ein präzises ökologisches Wissenssystem. Jedes Wildgemüse hat eine Saison, einen Sammelort, eine Zubereitungsart und strenge mündlich überlieferte Tabus: in welchem Monat man nicht sammeln darf, welche Teile zuerst blanchiert werden müssen, um Oxalsäure zu entfernen, oder welche Kombinationen den Geschmack bitter machen könnten. Dieses Wissen steht nicht in Büchern, sondern lebt im Gedächtnis der Ältesten.
 
-Das Steinkohlegrillen ist ein direktes Produkt des Lebens in den Bergen der Paiwan und Rukai. Das Schiefergestein im Zentralmassiv ist gleichmäßig erwärmt und zerbricht nicht; es ist eine natürliche Grillplatte. Wildschwein und Hirsch, die erlegt wurden, werden auf dem Stein langsam gegrillt und mit Waldspargel und Wildpfeffer gewürzt, ohne andere Gewürze. Die Beziehung zwischen Nahrung, Geologie und Gewürz ist das Ergebnis des Dialogs der Menschen dieser Region mit diesem Gebirge über Generationen hinweg.
+> **Auszug aus dem Register der Amis-Wildgemüse**
+> _Regenbogenalge_ („Tränen der Liebenden“): Als Salat serviert; erscheint nur nach dem Regen; Textur zwischen Tofu und Seeigel.
+> _Lonot_ (Vogelnesenfarn): Zum Anbraten; es gibt verschiedene Sammelstufen, wobei junge Herzen und reife Blätter unterschiedliche Verwendungszwecke haben.
+> _Shōwa-Gras_ (Fluggras): Bitter mit einer süßen Note; ein alltägliches Wildgemüse, das den Frauen des Stammes am besten bekannt ist.
+> _Faro_ (Wilder Farn): Zart und glatt; wird oft als „Bergspinat“ bezeichnet.
+> _Wilde Ingwerblüte (Wurzel)_: Besitzt ein besonderes Aroma und wird häufig zum Würzen verwendet.
 
-Der Atayal-Fisch ist eine weitere vollständige Ozeanphilosophie. Von März bis Juni ist die Sardinenzeit auf Lan Yu; nach dem Fischfangritual (Mavanuo) kann man aufs Meer hinausfahren und darf nicht zu viel nehmen. Die Atayal haben ein komplettes System zur Konservierung von getrocknetem und gepökeltem Fisch entwickelt, und es gibt Vorschriften bezüglich der Geschlechterverteilung: Was die Männer essen, was die Frauen essen, was die Alten essen, was die Kinder essen – der Fisch wird nach der sozialen Ordnung verteilt. Ökologen analysieren, dass dieses System eine strenge Logik des Ressourcenmanagements aufweist und das ökologische Gleichgewicht auf einer kleinen Insel aufrechterhält. Die Atayal verwenden nicht den Begriff „Nachhaltigkeit“; sie tun einfach, wie es die Vorfahren ihnen gesagt haben.
-
----
-
-## Zwei Wege der Wiederbelebung: Stammesküche und Gourmet-Restaurant
-
-Seit 2014 fördert das indigene Komitee Projekte zur Aufwertung von Stammesindustrien. Bis 2022 wurden über 400 Millionen Yuan investiert, was schätzungsweise fast 2 Milliarden Yuan an Wertschöpfung generierte und fast 5.000 Arbeitsplätze schuf. Dies sind administrative Zahlen; dahinter stehen kulturelle Ereignisse, die schwerer zu quantifizieren sind: Eine Ernährungserinnerung, die jahrzehntelang unterbrochen war, versucht, wieder eine Verbindung herzustellen.
-
-Diese Wiederherstellung folgt zwei parallelen Wegen. Der erste Weg beginnt in den Küchen der Alten. Die Wildpflanzen-Schule von Guangfu in Taitung lehrt Ami-Frauen regelmäßig auf Stammesplätzen; sie lehren nicht das Pflanzen, sondern die Identifizierung. Welche Farnart von welchem Hang gesammelt wird, welche Knospe wann geerntet wird – dieses Wissen wandert zwischen den Lippen der Alten und den Notizbüchern der Jungen. Das Projekt „Stammesküche“ in Taitung ermöglicht es Institutionen, Rezepte der Ältesten zu dokumentieren und sie in Klassenzimmern weiterzugeben. Diese Räume sind manchmal formelle Projekte, manchmal nur eine Entscheidung eines Ältesten, jede Woche traditionelles Essen zu lehren.
-
-Der zweite Weg beginnt im Gourmet-Restaurant. Die Raffinesse von AKAME (Peng Tian-en) und Sinasera 24 (Yang Baiwei) löst innerhalb der Stämme unterschiedliche Stimmen aus: Einige argumentieren, dass es die Lebensmittel vom ursprünglichen sozialen Kontext entkoppelt; andere sehen darin die effektivste Methode, wie junge Mitglieder durch Ernährung wieder Stolz gewinnen können. Dieser Debatte gibt es keine Standardantwort, aber beide Wege tun dasselbe: Sie bewahren das kurz vor dem Verschwinden stehende Lebensmittelwissen.
-
-> 📝 **Wildpflanzen sind kein Zeichen von Armut**
-> Die taiwanesische Gesellschaft hat die Wildkräuterernährung lange mit Mangel an Ressourcen in Verbindung gebracht und angenommen, indigene Völker essen Wildkräuter, weil sie keine bessere Wahl haben. Diese Wahrnehmung kehrt Ursache und Wirkung um. Das Wissen der Ami über Wildpflanzen ist ein ökologisches Wissen, das sich über Jahrtausende aktiv angesammelt hat: Welche Saison, welche Höhe, welche Bodenzusammensetzung ergibt den besten Geschmack; welche Teile essbar sind, welche giftig; wie man sie kombiniert, um Proteine und Mineralien zu ergänzen. Dies ist ein komplexeres Wissenssystem als der Gemüsemarkt, es ist nur in Körpern und Sprachen gespeichert, nicht in Datenbanken.
+Die „Tränen der Liebenden“ verdeutlichen, wie die indigenen Völker mit der Knappheit von Ressourcen umgehen. Diese schwarze, transparente Alge erscheint nur nach dem Regen; das Sammelfenster beträgt nur wenige Stunden, und nach dem Trocknen schrumpft ihr Volumen um das Zwanzigfache. Die Amis heiligen sie nicht, sie sagen auch nicht, dass sie kostbar sei; sie gaben ihr lediglich einen Namen, der an Regentage erinnert, und genossen sie einfach.
 
 ---
 
-## Schlusswort: Die Frage der Geschwindigkeit
+## Cinavu, Steinplatten-Grill und Fliegenfisch: Drei Typen
 
-Peng Tian-en sagte, das Schwierigste bei AKAME sei nicht die Technik, sondern die Überzeugung der Stammesältesten, ihre Gedanken zu äußern. Diese Alten fühlen nicht, dass sie Wissen besitzen, das es wert ist, aufgezeichnet zu werden; für sie ist es nur „die Art und Weise, wie wir essen“.
+Die Kochtechniken der indigenen Völker Taiwans sind nicht zahlreich, aber jede einzelne ist präzise. Präzision bedeutet hier: Die Korrespondenz zwischen Zutat, Werkzeug und Jahreszeit ist das Ergebnis jahrhundertelanger Erfahrung, kein Zufall. Diese drei Beispiele stammen aus unterschiedlichen Landschaften und Kulturen, haben aber eines gemeinsam: Der Akt des Kochens ist nicht bloß Nahrungszubereitung, sondern die vollständige Aufführung eines Wissenssystems.
 
-Dies ist die realste Situation der indigenen Ernährung Taiwans: Die besten Rezepte wurden nie niedergeschrieben; sie leben im Körper des Menschen, in der Wahrnehmung der Jahreszeiten, in der jahrzehntelangen Vertrautheit mit diesem Wald. Wenn diese Person stirbt, geht das Rezept verloren.
+_Cinavu_ ist ein Festtagsgericht der Paiwan und Rukai zu Hochzeiten oder Zeremonien. Geschmacksintensives Schweinefleisch und Hirse werden in Schamblätter eingewickelt, mit einer weiteren Schicht Alantblättern umhüllt und in einem Bambuskörbchen gedämpft. Im Moment des Öffnens entfalten sich die drei pflanzlichen Aromaschichten wie eine Welle. Die Herstellung erfordert die Zusammenarbeit der gesamten Familie; die Technik des Einwickelns wird von den Ältesten gelernt, wobei die Faltweise je nach Familie leicht variiert. Kulturwissenschaftler halten fest, dass die Fähigkeit, _Cinavu_ zu wickeln, als Beweis für das Erlernen des kulinarischen Erbes der Familie gilt – ein kultureller Indikator dafür, ob man bereit ist, die Verantwortung eines Erwachsenen zu tragen.
 
-Die Aufnahme von AKAME in die Rangliste „Asia’s Top 50 Restaurants“ im Jahr 2023 ist ein Signal dafür, dass diese Rezepte wiedergefunden werden müssen. Die Medien neigen dazu, dies durch „internationale Anerkennung“ zu rahmen, aber die Kernfrage liegt nicht international: Wie viele Lebensmittelwissen hat jeder Stammesältester noch? Diese Zahl ist der wahre Countdown. Die übrige Frage ist die Geschwindigkeit.
+Details zur Verwendung der Blätter und den regionalen Bezeichnungen finden Sie unter 〈[Cinavu (cinavu)](/de/food/cinavu)〉.
 
-## Bildquellen
+Das Grillen auf Steinplatten ist ein direktes Produkt des Berglebens der Paiwan und Rukai. Der Gneis aus dem Zentralgebirge leitet die Hitze gleichmäßig und bricht nicht leicht, was ihn zu einer natürlichen Grillplatte macht. Wildschwein oder Hirsch werden langsam auf der Platte gegrillt, gewürzt mit Schnittlauch und Magau, ohne dass andere Gewürze nötig sind. Die Beziehung zwischen Nahrung, Geologie und Gewürzen ist das Ergebnis eines jahrhundertelangen Dialogs der Menschen mit diesem Gebirge.
 
-- Hero: Indigene Tänzer beim Ami-Musikfestival im Jahr 2016, Foto HaeB, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Indigenous_group_dancers_at_Amis_Music_Festival_2016_IMF0936.jpg), CC BY-SA 4.0.
+Der Fliegenfisch der Yami stellt eine eigene maritime Philosophie dar. Von März bis Juni ist auf Lanyu die Fliegenfisch-Saison. Erst nach dem Fischruf-Ritual (_Mavanuo_) darf aufs Meer gefahren werden, und es darf nicht mehr entnommen werden als nötig. Die Yami haben komplexe Methoden zum Trocknen und Pökeln entwickelt und haben Geschlechterregeln für den Verzehr je nach Größe des Fisches: Was Männer essen, was Frauen essen, was Älteste oder Kinder essen – der Fisch wird nach der sozialen Ordnung verteilt. Ökologen analysieren dies als ein strenges Ressourcenmanagement, das das ökologische Gleichgewicht auf einer kleinen Insel mit begrenzten Ressourcen erhält. Die Yami verwenden nicht den Begriff „Nachhaltigkeit“, um ihr Handeln zu beschreiben; sie tun einfach das, was ihre Ahnen sagten.
+
+---
+
+## Zwei Wege der Renaissance: Stammesküche und Fine Dining
+
+Seit 2014 fördert das Council of Indigenous Peoples Programme zur Aufwertung der Stammesindustrie. Bis 2022 wurden über NT$400 Millionen investiert, was schätzungsweise einen Wert von fast NT$2 Milliarden generiert hat und rund 5.000 Arbeitsplätze schuf. Dies sind administrative Zahlen; dahinter steht ein schwerer quantifizierbares kulturelles Ereignis: Eine jahrzehntelang unterbrochene kulinarische Erinnerung versucht, sich neu zu vernetzen.
+
+Dieser Wiederaufbau erfolgt auf zwei parallelen Wegen. Der erste Weg beginnt in den Küchen der Ältesten. Die „Wildgemüse-Schule“ in Guangfu, Hualien, ermöglicht es Amis-Frauen, regelmäßig auf Stammesplätzen Unterricht zu geben. Dabei geht es nicht um das Pflanzen von Gemüse, sondern um das Erkennen. Von welchem Hang man welche Farnart sammelt und in welcher Saison welcher Trieb am besten ist – dieses Wissen wandert zwischen den Lippen der Ältesten und den Notizbüchern der Jugend. Das Projekt der Stammesküchen in Taitung sorgt dafür, dass die Rezepte der Senioren dokumentiert und in Klassenzimmern weitergegeben werden können. Diese Räume sind manchmal formelle Projekte, manchmal nur ein Ort, an dem ein Ältester beschließt, jede Woche traditionelle Gerichte zu lehren.
+
+Der zweite Weg beginnt in der gehobenen Gastronomie. Die Verfeinerung durch AKAME (Peng Tien-en) und Sinasera 24 (Yang Po-wei) löst innerhalb der Stämme unterschiedliche Stimmen aus: Einige glauben, es entfremde das Essen von seinem ursprünglichen Gemeinschaftskontext, andere sehen darin den effektivsten Weg, die junge Generation wieder stolz auf ihre Ernährung zu machen. Es gibt keine Standardantwort auf diese Debatte, aber beide Wege verfolgen dasselbe Ziel: Das drohende Verschwinden des kulinarischen Wissens zu verhindern.
+
+> 📝 **Wildgemüse ist kein Zeichen von Armut**
+> Die taiwanesische Gesellschaft hat Wildgemüse-Ernährung lange mit Ressourcenmangel assoziiert und glaubt, indigene Völker würden Wildgemüse essen, weil sie keine bessere Wahl hätten. Diese Wahrnehmung vertauscht Ursache und Wirkung. Das Wissen der Amis über Wildgemüse ist eine über Jahrtausende aktiv akkumulierte ökologische Weisheit: in welcher Jahreszeit, auf welcher Höhe und bei welchen Bodenbedingungen die Textur am besten ist; welche Teile essbar und welche giftig sind; wie man sie kombiniert, um Proteine und Mineralien zu ergänzen. Es ist ein komplexeres Wissenssystem als jeder Supermarkt, nur dass es im Körper und in der Sprache gespeichert ist, nicht in einer Datenbank.
+
+---
+
+## Fazit: Die Frage des Tempos
+
+Peng Tien-en sagte einmal, das Schwierigste an AKAME sei nicht die Technik, sondern die Ältesten des Stammes davon zu überzeugen, das Wissen aus ihrem Kopf auszusprechen. Diese Ältesten denken nicht, dass sie über ein dokumentationswürdiges Wissen verfügen; für sie ist es einfach nur „die Art, wie wir essen“.
+
+Dies ist die wahrhaftige Situation der indigenen Küche Taiwans: Die brillantesten Rezepte wurden nie aufgeschrieben; sie leben in den Körpern der Menschen, im Gespür für die Jahreszeiten und in der jahrzehntelangen Vertrautheit mit diesen Wäldern. Wenn ein Mensch geht, geht auch das Rezept.
+
+Dass AKAME 2023 auf Platz 39 der „Asia's 50 Best Restaurants“ landete, ist ein Signal, dass diese Rezepte es wert sind, zurückgeholt zu werden. Die Medien nutzen gerne den Rahmen der „internationalen Anerkennung“, aber das Kernproblem liegt nicht im Internationalen: Solange die Stammesältesten noch da sind – wie viel kulinarisches Wissen nehmen sie mit sich? Diese Zahl ist der wahre Countdown. Die verbleibende Frage ist das Tempo.
+
+## Bildquelle
+
+- Hero: Indigene Tänzerinnen beim Amis Musikfestival 2016, Fotografie HaeB, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Indigenous_group_dancers_at_Amis_Music_Festival_2016_IMF0936.jpg), CC BY-SA 4.0.
 
 ## Referenzen
 
-1. [Offizielle Rangliste Asia’s Top 50 Restaurants](https://www.theworlds50best.com/asia/en/)
-2. [Nongchan Media (2021) „Die Erinnerungen der Familie weitergeben: Paiwan Vuvu Geheimrezepte“](https://www.agriharvest.tw/archives/60175)
-3. [Indigenes Komitee Taiwans: Kurzbeschreibung der 16 Stämme](https://www.cip.gov.tw/zh-tw/tribe/grid-list/)
-4. [Digitales Archiv des traditionellen Wissens der indigenen Völker (Naturwissenschaftliches Museum)](https://ethnobotany.biodiv.tw/)
-5. [Gesetz über die Entwicklung der Sprachen der indigenen Völker Taiwans (2017)](https://www.rootlaw.com.tw/LawArticle.aspx?LawID=A040390071017400-1060612)
+1. [Offizielle Liste der Asia's 50 Best Restaurants](https://www.theworlds50best.com/asia/en/)
+2. [Agri-Media (2021) „Erinnerungen der Familie: Die private Hirseküche der Paiwan vuvu“](https://www.agriharvest.tw/archives/60175)
+3. [Council of Indigenous Peoples, Exekutiv-Yuan: Kurze Einführung in die 16 Stämme](https://www.cip.gov.tw/zh-tw/tribe/grid-list/)
+4. [Digitales Archiv zum Schutz des traditionellen Wissens indigener Völker (National Museum of Natural Science)](https://ethnobotany.biodiv.tw/)
+5. [Gesetz zur Entwicklung der Sprachen der indigenen Völker Taiwans (2017)](https://www.rootlaw.com.tw/LawArticle.aspx?LawID=A040390071017400-1060612)
 6. [Taiwan Review: Indigenous Cuisine Revival](https://taiwanreview.nat.gov.tw/)
-7. [UNESCO Aufzeichnung der Bunun-Choralmusik pasibutbut](https://ich.unesco.org/)
+7. [UNESCO-Dokumentation der polyphonen Musik des pasibutbut der Bunun](https://ich.unesco.org/)
 
 ---
 
-_Weiterführende Lektüre: [Geschichte und Namensgebung der indigenen Völker Taiwans](/de/history/indigenous-peoples-history-and-naming-movement/) · [Landgerechtigkeit und traditionelle Gebiete der indigenen Völker Taiwans](/de/society/indigenous-land-justice-and-traditional-territories/) · [Kulturelle Karte der 16 Stämme Taiwans](/de/culture/indigenous-peoples-16-tribes-cultural-map/) · [Bewegung zur Wiederbelebung der Sprachen der indigenen Völker Taiwans](/de/culture/indigenous-language-revitalization-movement/) · Ökologisches Wissen und Umweltschutz der indigenen Völker Taiwans · [Zeitgenössische Kunst der indigenen Völker Taiwans](/de/art/contemporary-indigenous-art-taiwan/)_
+_Weiterführende Literatur: [Die Geschichte und die Namensbewegung der indigenen Völker Taiwans](/de/history/indigenous-peoples-history-and-naming-movement/) · [Landgerechtigkeit und traditionelle Gebiete der indigenen Völker Taiwans](/de/society/indigenous-land-justice-and-traditional-territories/) · [Kulturelle Landkarte der 16 Stämme der indigenen Völker Taiwans](/de/culture/indigenous-peoples-16-tribes-cultural-map/) · [Die Bewegung zur Wiederbelebung der Sprachen der indigenen Völker Taiwans](/de/culture/indigenous-language-revitalization-movement/) · [Ökologische Weisheit und Umweltschutz der indigenen Völker Taiwans](/de/nature/taiwanese-indigenous-ecological-wisdom-conservation/) · [Zeitgenössische indigene Kunst Taiwans](/de/art/contemporary-indigenous-art-taiwan/)_

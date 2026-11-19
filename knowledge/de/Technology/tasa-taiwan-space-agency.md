@@ -32,11 +32,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-06-04'
     url: 'https://x.com/taiwandotmd/status/2062546721742483679'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/國家太空中心.md'
-sourceCommitSha: 'faa905d7'
-sourceContentHash: 'sha256:27a79bac11713a70'
-translatedAt: '2026-10-08T16:48:28.205145+00:00'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:451bca716e820c75'
 sourceBodyHash: 'sha256:e55206c67a0d4344'
+translatedAt: '2026-11-19T09:29:30.314956+00:00'
 ---
 
 Im Musikvideo „Wangu“ (頑固) von Mayday im Jahr 2016 baut ein Mann mittleren Alters in einer Ödnis Raketen. Er wird als Verrückter dargestellt, der Tagträume hegt, und fliegt schließlich mit einer selbstgebauten Rakete in den Himmel. Die meisten Taiwanesen lernten Wu Zongxin zum ersten Mal nicht durch eine staatliche Institution kennen, sondern durch dieses Musikvideo: dieser „Raketenonkel“ [^1].
@@ -270,12 +272,13 @@ Der Mann, der einst als Witz in der Wildnis behandelt wurde und glaubte, er müs
 
 Zeppelin sah Taiwan aus dem Hubschrauber; am Tag des Absturzes war er nicht fertig geworden. Acht Jahre später hat ein Satellit mit seinem Namen diese Insel aus 561 Kilometern Höhe für ihn gesehen – und dabei auch die Organisation, die dreißig Jahre lang behauptete, nur das Wetter zu beobachten, in ihrem wahren Gesicht gezeigt: ein Ort, der für einen nicht anerkannten Staat „Autonomie“ Satellit für Satellit bewiesen hat. Als Nächstes wird sie zum Mond blicken.
 
-## Weiterführende Lektüre
+## Weiterführende Literatur
 
-- [Entwicklung der taiwanesischen Raumfahrtindustrie](/de/technology/taiwan-space-industry-development) — Dieser Artikel beschreibt, wie die Institution selbst gewachsen ist; der andere behandelt die Lieferkette dahinter: Welche Unternehmen stellen Satellitenkomponenten her, wie integrieren Halbleiter den Weltraum und wie entsteht das Startup-Ökosystem.
-- [Halbleiterindustrie](/de/technology/taiwan-semiconductor-industry) — Die industrielle Grundlage für Taiwans „Autonomie“ im Weltraum basiert zu großem Teil auf der bestehenden Halbleiter- und Präzisionsfertigungskapazität dieser Insel.
-- [Chinesisch Taipeh](/de/society/chinese-taipei) — Die Souveränitätslinie, die „Taiwan in den Namen zurückbringt“, auf der anderen Seite des Stadions.
-- [Lin Qier](/de/people/lin-chi-er-astronaut) — Ein Porträt einer Person, die ebenfalls vor Ort für Taiwan arbeitet.
+- [Entwicklung der taiwanischen Raumfahrtindustrie](/de/technology/taiwan-space-industry-development) — Dieser Artikel beschreibt, wie die Institution selbst gewachsen ist, jener Artikel die Lieferkette dahinter: welche Hersteller Satellitenbauteile produzieren, wie die Halbleiterindustrie in den Weltraum vordringt, wie sich das Startup-Ökosystem formiert.
+- [Halbleiterindustrie](/de/technology/taiwan-semiconductor-industry) — Ein grosser Teil der industriellen Basis für Taiwans „autonome“ Raumfahrt baut auf der bestehenden Halbleiter- und Präzisionsfertigungskapazität der Insel auf.
+- [Chinesisch Taipeh](/de/society/chinese-taipei) — Die andere Seite jener Souveränitätslinie, „Taiwan in den Namen zurückzubringen“, auf dem Sportplatz.
+- [Lin Chi-erh](/de/people/lin-chi-er-astronaut) — Ein Porträt einer weiteren Persönlichkeit, die für Taiwan in der Wissenschaft vor Ort wirkt.
+- [Chi Pai-lin](/de/people/chi-po-lin) — Nach ihm ist der erste Satellit von Formosat-8 benannt: Ein ehemaliger Luftbildbeamter des NARLabs, Regisseur von 《看見台灣》, der 2017 bei der Locationsuche für die Fortsetzung ums Leben kam.
 
 ## Videoquellen
 

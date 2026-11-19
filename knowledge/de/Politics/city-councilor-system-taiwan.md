@@ -1,6 +1,6 @@
 ---
-title: 'Das System der Stadträte: Warum sich das SNTV-System in der Lokalpolitik seit 30 Jahren von den Parlamentswahlen unterscheidet'
-description: 'Im Jahr 2008 wurde für die Wahlen zum Legislativ-Yuan auf das Mehrheitswahlrecht mit zwei Stimmen (Single-Member District Two-Vote System) umgestellt, während die Kommunalwahlen im selben Jahr weiterhin nach dem alten SNTV-System der 1980er Jahre durchgeführt wurden. Derselbe Staat, dieselben Wähler und unterschiedliche Ämter auf demselben Stimmzettel – doch zwei völlig verschiedene Spielregeln. Dies ist kein Fehler, sondern eine der größten unvollendeten Aufgaben in der Geschichte der Wahlrechtsreform in Taiwan, hinter der lokale Fraktionen, Parteinteressen und die Kosten für Begleitmaßnahmen stehen. Eine Analyse der Funktionsweise beider Systeme, warum das eine reformiert wurde und das andere nicht, sowie der Auswirkungen auf Kleinstparteien und die repräsentative Vielfalt.'
+title: 'Das System der Stadträte: Was ist der Unterschied zu den Parlamentsabgeordneten und warum wird bei Kommunalwahlen noch das alte SNTV-System verwendet?'
+description: 'Während die 113 Mitglieder des Legislativ-Yuans seit 2008 nach dem Prinzip eines Wahlkreises pro Person plus einer Zweitstimme für Parteien gewählt werden, sitzen in den 22 Stadträten der Landkreise und Städte noch immer Vertreter, die nach dem alten SNTV-System gewählt werden: Mehrere Sitze pro Wahlkreis, bei denen Wähler nur eine Stimme vergeben können und es keine Parteiliste gibt. Obwohl die Verfassungsreform von 2005 das Wahlsystem für die Parlamentsabgeordneten änderte, blieb das System der Stadträte über achtzehn Jahre unverändert. Dahinter stehen lokale Fraktionen, Parteinteressen und die Kosten für Wahlkreisreformen; zudem führt dies dazu, dass es für kleine Parteien in lokalen Räten einfacher ist, Sitze zu gewinnen als im nationalen Parlament.'
 date: 2026-05-27
 category: 'Politics'
 tags:
@@ -8,9 +8,9 @@ tags:
     'Stadtrat',
     'Wahlsystem',
     'SNTV',
-    'Mehrheitswahlrecht mit zwei Stimmen',
+    'Einpersonenwahlkreise mit zwei Stimmen',
     'Legislativ-Yuan',
-    'Wahl 2026',
+    'Wahlen 2026',
   ]
 subcategory: '選舉制度'
 author: 'Taiwan.md'
@@ -18,16 +18,24 @@ featured: false
 lastVerified: 2026-05-27
 lastHumanReview: false
 readingTime: 12
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 3,536 曝光 37 點擊（1.05%），主查詢全是「議員跟立委差別」型（244＋202＋106＋67＋45 曝光）；description 從 179 字縮短，第一句直接講兩者差在哪，拿掉「這不是 bug」'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Politics/議員制度.md'
-sourceCommitSha: '709d2dc03'
-sourceContentHash: 'sha256:4b665d6e2920264b'
-sourceBodyHash: 'sha256:41e02e02e0fbd229'
-translatedAt: '2026-10-23T01:55:05.358470+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:00af5d0f37a777ff'
+sourceBodyHash: 'sha256:9359ef48b07d6033'
+translatedAt: '2026-11-19T08:04:09.503307+00:00'
 ---
 
-# Das System der Stadträte: Warum es sich von den Legislativmitgliedern unterscheidet – 30 Jahre SNTV in der Lokalpolitik
+# Das System der Ratsmitglieder: Was ist der Unterschied zu den Legislativmitgliedern und warum wird bei Lokalwahlen noch das alte SNTV-System verwendet?
 
-> **30-Sekunden-Überblick:** Am 12. Januar 2008 führte Taiwan bei der Wahl zur siebten Legislaturperiode erstmals das „Single-Member District Two-Vote System“ ein – eine Stimme für die Person, eine für die Partei. Die Anzahl der Sitze im Legislativ-Yuan wurde von 225 auf 113 reduziert, und die Wahlmodalitäten wurden grundlegend neu geschrieben. Bei den Wahlen zur sechzehnten Legislaturperiode der Stadträte und Landräte im Dezember desselben Jahres wurde jedoch weiterhin das in den 1980er Jahren etablierte „Single Non-Transferable Vote“-System (SNTV) angewandt – ein System, bei dem in einem Wahlkreis fünf bis zehn Sitze vergeben werden, die Wähler nur eine Person ankreuzen können und überschüssige Stimmen nicht an Parteikollegen übertragen werden können. Zwei Ämter, die im selben Jahr von derselben Wählerschaft auf demselben Wahlbroschüre-Beleg beworben wurden, unterlagen zwei völlig unterschiedlichen Spielregeln. Dies war kein technischer Fehler, sondern das Ergebnis einer Systemreform, die bewusst halbwegs stehen gelassen wurde. Dahinter stecken die Bindung lokaler Fraktionen und der beiden großen Parteien an die SNTV-Struktur, die hohen Kosten begleitender Reformen sowie die Schwierigkeit, einen parteiübergreifenden Konsens zu finden – es ist eine der am meisten unterschätzten unvollendeten Aufgaben auf dem 30-jährigen Weg der Demokratisierung Taiwans.
+> **30-Sekunden-Überblick:** Am 12. Januar 2008 wurde bei der siebten Wahl der Legislativmitglieder in Taiwan erstmals das „Single-Member District Two-Vote System“ (Parallelwahlrecht) eingeführt – eine Stimme für die Person, eine für die Partei. Die Anzahl der Sitze im Legislativ-Yuan wurde von 225 auf 113 reduziert, und die Wahlmodalitäten wurden grundlegend neu geschrieben. Bei den Wahlen der sechzehnten Legislaturperiode der Stadträte und Landräte im Dezember desselben Jahres wurde jedoch weiterhin das in den 1980er Jahren etablierte „Single Non-Transferable Vote“-System (SNTV) angewandt – ein System, bei dem in einem Wahlkreis fünf bis zehn Sitze vergeben werden, die Wähler nur eine Person ankreuzen können und überschüssige Stimmen nicht an Parteikollegen übertragen werden können. Zwei Ämter, die im selben Jahr von derselben Wählerschaft auf demselben Wahlkalender angekreuzt wurden, unterlagen zwei völlig unterschiedlichen Spielregeln. Dies war kein technischer Fehler, sondern das Ergebnis einer Systemreform, die bewusst mitten im Prozess gestoppt wurde. Dahinter standen die Bindung lokaler Fraktionen und der beiden großen Parteien an die SNTV-Struktur, die hohen Kosten begleitender Reformen sowie die Schwierigkeit, einen parteiübergreifenden Konsens zu finden – es bleibt eine der am meisten unterschätzten unvollendeten Aufgaben auf dem 30-jährigen Weg der demokratischen Vertiefung Taiwans.
+
+---
 
 ## Im selben Jahr, zwei Systeme
 
