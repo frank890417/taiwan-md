@@ -1,16 +1,16 @@
 ---
-title: 'Taiwán: La reja de seguridad como autobiografía de una familia'
-description: 'Entre las décadas de 1950 y 1970, las rejas de hierro se popularizaron junto con la vivienda y el suministro de acero en Taiwán. Originalmente diseñadas para la seguridad, terminaron plasmando la profesión, la fe, los viajes y la memoria familiar en las fachadas de las calles. Desde la reja de 48 paneles del Parlamento Provincial de Taiwán en 1958, hasta las ventanas residenciales en Beitou, Taichung, y el contexto urbano de las casas antiguas en Lukang y Anping, estos elementos de hierro permiten comprender cómo las viviendas antiguas protegían la vida al mismo tiempo que la exhibían a la calle y a los lectores posteriores, revelando la tensión entre su conservación y su uso.'
+title: 'Las rejas de hierro de Taiwán: cómo una ventana de seguridad suelda la autobiografía de una familia'
+description: 'Entre los años 1950 y 1970, las rejas de hierro se popularizaron junto con la vivienda y el suministro de acero en Taiwán. Originalmente pensadas para la seguridad, terminaron plasmando en las fachadas la profesión, la fe, los viajes y la memoria familiar de los propietarios. Desde las 48 rejas del Yuan Legislativo en 1958, pasando por los ventanales residenciales de Beitou en Taichung, hasta el tejido urbano de las casas antiguas de Lukang y Anping, estas piezas de hierro muestran cómo las viviendas viejas protegen la vida a la vez que la exhiben a la calle y a los lectores posteriores, revelando la tensión entre preservación y uso.'
 date: 2026-08-20
 category: 'Culture'
 tags:
   [
-    'Rejas de hierro',
-    'Arquitectura',
-    'Casas antiguas',
-    'Artesanía',
-    'Memoria urbana',
-    'Período de dominio japonés',
+    'rejas de hierro',
+    'arquitectura',
+    'casas antiguas',
+    'artesanía',
+    'memoria urbana',
+    'período japonés',
   ]
 subcategory: '工藝與美學'
 author: 'Taiwan.md Contributors'
@@ -23,132 +23,134 @@ rationale:
   where_it_hedges: '公共建築窗花的設計寓意若缺乏原始檔案，只標示為地方流傳，不寫成確定史實。'
   whos_pushing_back: '保存鐵窗花可能與採光、通風、安全、產權和更新需求衝突，文章保留屋主、工匠與修繕者的不同考量。'
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/鐵窗花.md'
-sourceCommitSha: 'ec3d660ca'
-sourceContentHash: 'sha256:1888ffac8016e710'
-sourceBodyHash: 'sha256:30a2135abbfbcd4c'
-translatedAt: '2026-09-11T05:40:15+08:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:def335d4114c8b87'
+sourceBodyHash: 'sha256:fc143e859b0c1c51'
+translatedAt: '2026-11-19T08:53:31+08:00'
 ---
 
-> **Resumen en 30 segundos:** Las rejas de hierro ya aparecían en la arquitectura de Taiwán durante el período de dominio japonés, se interrumpieron durante la guerra debido a la recuperación de metales y se generalizaron en la década de 1960 y 1970 junto con la vivienda y el suministro de acero. Cumplen funciones de seguridad, iluminación y decoración, y dejan la profesión, la fe y la memoria familiar de los propietarios en las calles. Este artículo parte de la reja de 48 paneles del Parlamento Provincial de Taiwán en 1958, avanza hacia los registros de campo de _Old House Face_ (老屋顏), la conservación de casas antiguas e hitos históricos en Lukang, para explicar por qué un elemento de hierro sin firma puede convertirse en una historia de la vida cotidiana.
+> **Resumen en 30 segundos:** Las rejas de hierro ya aparecían en la arquitectura taiwanesa durante el período japonés; la guerra interrumpió su producción por la recolección de metales, y a finales de los años 1960 y durante los 1970 se generalizaron con la vivienda y el suministro de acero. Cumplen funciones de seguridad, iluminación y decoración, y además dejan en la calle la profesión, la fe y la memoria familiar de los dueños. Este artículo recorre desde las 48 rejas de la Asamblea Provincial de Taiwán en 1958, hasta los registros de campo del estudio Lao Wu Yan, la preservación de las casas antiguas de Lukang y los edificios históricos, para explicar por qué un elemento de hierro sin firma puede convertirse en historia de la vida cotidiana.
 
-![Ventana de una vivienda en un callejón de Beitou, Taichung, mostrando cómo la reja se ha convertido en un componente cotidiano de la fachada residencial](https://upload.wikimedia.org/wikipedia/commons/a/a6/Houses_with_window_grills_in_Beitun.jpg)
+![Ventanales de una casa en un callejón de Beitou, Taichung, que muestran cómo las rejas de hierro se volvieron un componente cotidiano de la fachada residencial](https://upload.wikimedia.org/wikipedia/commons/a/a6/Houses_with_window_grills_in_Beitun.jpg)
 
-_Imagen: Ventana de una vivienda en un callejón de Beitou, Taichung. Autora: Dquai, bajo licencia [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [página de archivo en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Houses_with_window_grills_in_Beitun.jpg). La imagen se utiliza para contextualizar la escena urbana y no como evidencia de una época o historia específica del propietario._
+_Imagen: Ventanales de una casa en un callejón de Beitou, Taichung. Autor Dquai, bajo licencia [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [página del archivo en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Houses_with_window_grills_in_Beitun.jpg). La imagen se usa para mostrar el contexto urbano, no como prueba de una época o historia de propietario específica._
 
-En 1958, las ventanas del edificio del Parlamento Provincial de Taiwán estaban equipadas con rejas de hierro de 48 paneles. Cada panel medía aproximadamente 136 cm de largo por 86 cm de ancho, y ningún diseño era idéntico al otro. No se trataba de las mallas de seguridad estandarizadas comunes hoy en día, sino de un conjunto de piezas de hierro que combinaban líneas geométricas, soldadura artesanal y la imponente atmósfera de la arquitectura política en la misma pared. [^1]
+En 1958, las ventanas del edificio de sesiones de la Asamblea Provincial de Taiwán llevaban 48 rejas de hierro. Cada una medía unos 136 cm de alto por 86 cm de ancho, y no había dos diseños idénticos. No eran la típica malla de seguridad estandarizada de hoy, sino un conjunto que ponía en una misma pared líneas geométricas, soldadura artesanal y la solemnidad de la arquitectura política.[^1]
 
-Mirando hacia atrás, las rejas de hierro ya aparecían en la arquitectura de Taiwán durante el período de dominio japonés. Tras la expansión de la guerra en 1937, el gobierno japonés emitió órdenes de recuperación de metales; las rejas y barandillas de hierro de las viviendas fueron desmontadas para convertirse en materiales de guerra. Las rejas de hierro no siempre estuvieron presentes en las calles; desaparecieron de la vida cotidiana debido a la guerra. [^1]
+Si miramos más atrás, la arquitectura en Taiwán ya tenía rejas de hierro durante el período japonés. Tras la ampliación de la guerra en 1937, el gobierno japonés ordenó la recolección de metales, y las rejas y barandillas de las viviendas civiles fueron desmontadas para convertirlas en material de guerra. Las rejas de hierro no siempre estuvieron en las calles; desaparecieron de la vida cotidiana a causa de la guerra.[^1]
 
-Por lo tanto, las rejas de hierro, tan familiares para los taiwaneses, no pueden resumirse simplemente como «decoración de casas antiguas». Son el resultado del crecimiento conjunto de la vivienda de posguerra, el suministro industrial, la seguridad familiar y la artesanía manual. Lo más contraintuitivo es que, mientras originalmente tenían la función de mantener a la gente afuera, terminaron permitiendo que los propietarios mostraran sus propias historias a los transeúntes.
+Por eso, las rejas de hierro que los taiwaneses conocen no pueden resumirse como «decoración de casas viejas». Son el resultado conjunto de la vivienda de posguerra, el suministro industrial, la seguridad familiar y la técnica artesanal. Lo más contraintuitivo es que nacieron para mantener a la gente fuera, pero acabaron mostrando a los transeúntes la historia de quienes viven dentro.
 
-> **📝 Nota de la curadora**
-> Las rejas de hierro en Taiwán no son la última línea que encierra el hogar, sino la primera forma en que la casa se cuenta a sí misma a la calle.
+> **📝 Nota del curador**
+> Las rejas de hierro de Taiwán no son la última línea que cierra la casa, sino la primera forma en que la casa se cuenta a la calle.
 
-## De la escasez de guerra a la cotidianidad de las casas de calle
+## De la escasez de guerra a lo cotidiano en la casa de calle
 
-Los archivos del Parque Democrático del Parlamento Nacional aclaran el punto temporal. Al inicio de la posguerra, el acero se utilizaba principalmente para la reconstrucción y la defensa nacional, limitando su uso civil. A finales de la década de 1960, la industria pasó de la agricultura a la industria; tras la fundación de China Steel Corporation (CSL) en 1971, el suministro de acero se volvió más estable, y las rejas de hierro comenzaron a entrar gradualmente en las viviendas ordinarias. [^1]
+Los datos del Parque Cívico del Yuan Legislativo marcan la cronología con claridad. En la posguerra inmediata, el acero se destinaba principalmente a la reconstrucción y la defensa, y su uso civil estaba restringido. Hacia finales de los años 1960, la industria viró de la agricultura a la manufactura, y tras la fundación de China Steel en 1971 el suministro se estabilizó, permitiendo que las rejas entraran en la vivienda común.[^1]
 
-Esta línea de tiempo explica por qué las rejas de hierro se consideran a menudo un símbolo visual de la «Taiwán de posguerra». Entre las décadas de 1950 y 1970, la vivienda aumentó rápidamente y aparecieron en gran número casas de calle y apartamentos. Un informe de la revista _Taiwan Panorama_ indica que este fue también un período en el que las casas se construían rápidamente, pero los diseños eran muy libres. [^2] La «popularización» aquí no debe entenderse como si todas las viviendas utilizaran el mismo diseño, sino como la progresiva disponibilidad de materiales, la demanda de vivienda y la técnica de los herreros que hicieron de las rejas de hierro un componente doméstico asequible y personalizable.
+Esta línea temporal explica por qué las rejas se consideran un signo visual del «Taiwán de posguerra». Los años 1950-1970 fueron el auge de la construcción residencial, con la proliferación de casas de calle (shophouses) y apartamentos. Un reportaje de _Taiwan Panorama_ señala que fue una época en que las casas se construían rápido, pero los diseños eran muy libres.[^2] Esa «popularización» no significa que cada hogar usara el mismo patrón, sino que la disponibilidad de material, la demanda de vivienda y la técnica de los herreros hicieron de la reja un componente asequible y personalizable.
 
-En aquella época, la instalación de una reja no terminaba con seleccionar un número de catálogo desde un folleto. El manual de renovación de casas antiguas de la Oficina de Desarrollo Urbano de Kaohsiung señala que las rejas tempranas se basaban principalmente en hierro negro, conformándose mediante forja y doblado, sin un estándar fijo; las disposiciones geométricas, flores, plantas y tótems figurativos podían convertirse en materiales de composición para los artesanos. [^3]
+En aquel tiempo no se elegía una reja de un catálogo por número. El manual de renovación de casas antiguas de la Oficina de Desarrollo Urbano de Kaohsiung indica que las rejas tempranas eran principalmente de hierro forjado, moldeadas a golpe y doblez, sin tipología fija: composiciones geométricas, flores y plantas, o totems figurativos podían servir de material compositivo al artesano.[^3]
 
-Este enfoque hacía que las ventanas de una misma calle se parecieran a parientes, pero no a productos de una misma línea de producción. Algunos querían flores, otros paisajes, e incorporaban profesiones, fe o preferencias familiares. La Biblioteca Municipal de Taipéi, al compilar _Old House Face y las rejas de hierro_, también destacó que los paisajes, las flores, la música, la danza, los animales, los insectos y la religión o el fengshui podían aparecer en las rejas. [^4]
+Esta práctica hacía que las ventanas de una misma calle parecieran parientes, pero nunca clones de un mismo producto industrial. Había quien pedía flores, quien quería paisajes, quien plasmaba su oficio, su fe o los gustos familiares. La Biblioteca Pública de Taipéi, al compilar _Lao Wu Yan y las rejas de hierro_, destaca que paisajes florales, música y danza, animales e insectos, y hasta motivos religiosos y de feng shui podían aparecer en las rejas.[^4]
 
-## Un panel de reja, una vida de propietario
+## Una reja, un fragmento de la vida del propietario
 
-![Fachada de una casa antigua en Lukang, proporcionando un contexto visual para comprender la relación entre las casas de calle locales y las puertas/ventanas](https://upload.wikimedia.org/wikipedia/commons/0/02/Old_taiwanese_house_in_Lukang%2C_Taiwan.JPG)
+![Fachada de una casa antigua en Lukang, que da contexto visual a la relación entre casa de calle y vanos](https://upload.wikimedia.org/wikipedia/commons/0/02/Old_taiwanese_house_in_Lukang%2C_Taiwan.JPG)
 
-_Imagen: Casa antigua en Lukang. Autor: Yug, bajo licencia [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), [página de archivo en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Old_taiwanese_house_in_Lukang,_Taiwan.JPG). Esta imagen se utiliza para ilustrar la fachada de la casa antigua y la escala de vida, sin afirmar que cada ventana en la imagen sea una reja de hierro descrita en este artículo._
+_Imagen: Casa antigua en Lukang. Autor Yug, bajo licencia [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), [página del archivo en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Old_taiwanese_house_in_Lukang,_Taiwan.JPG). Esta imagen ilustra la fachada y la escala de vida de la casa antigua; no afirma que cada ventana visible sea una reja de hierro como las descritas en el artículo._
 
-En 2020, _Readmoo Reading Frontier_ entrevistó a Xing Yongsheng y Yang Chaojing del estudio _Old House Face_ (老屋顏). Al principio, solo montaban en moto por los callejones de Tainan fotografiando casas antiguas; al hacerlo, descubrieron que los patrones en las ventanas contaban la personalidad de los residentes mejor que las paredes exteriores de las casas. En seis meses, tomaron entre mil y dos mil fotografías de rejas de hierro. [^5]
+En 2020, _Readmoo_ entrevistó a Hsin Yung-sheng y Yang Chao-ching del estudio Lao Wu Yan. Ambos comenzaron simplemente rodando en moto por los callejones de Tainan para fotografiar casas viejas; al hacerlo, descubrieron que los diseños de las ventanas revelaban la personalidad de los moradores más que los muros exteriores. En medio año capturaron mil o dos mil fotos de rejas.[^5]
 
-Su metodología de trabajo se asemejaba a una investigación de campo. No solo fotografiaban de frente, sino que también conversaban con los propietarios, preguntando por el origen de los patrones y cómo se construyó la casa. En Touliu, Yilan, había una reja de hierro con dragones y fénix; en Lukang, un propietario transformó el recuerdo de un viaje a Europa con su hija en el diseño del Arco del Triunfo. La reja de hierro era originalmente un elemento inorgánico de hierro, pero la historia solo aparecía después de que el propietario abría la puerta y servía bebidas. [^5]
+Su método se asemeja al trabajo de campo. No solo fotografiaban el frente; buscaban al dueño, charlaban, preguntaban por el origen del diseño y por cómo se construyó la casa. En Toucheng, Yilan, hay una reja con dragón y fénix; en Lukang, un propietario convirtió el recuerdo de un viaje a Europa con su hija en un motivo de arco de triunfo. La reja, pieza inorgánica de hierro, cobraba historia solo cuando el dueño abría la puerta y ofrecía una bebida.[^5]
 
-Xing Yongsheng dijo que «lo que buscamos es el sabor de la memoria». Esta frase, originalmente referida al desayuno y a las tiendas antiguas, también se aplica a las rejas de hierro. Las rejas no son obras de arte ajenas a la vida; junto con los suelos de terrazo, los altares de los dioses, la altura de los marcos de las puertas y las ramas de las plantas en maceta, constituyen el espacio que una familia utiliza diariamente. [^5]
+Hsin Yung-sheng dice que buscan «el sabor de la memoria». La frase aludía a desayunos y tiendas viejas, pero vale igual para las rejas. No son obras de arte desligadas de la vida; junto al suelo de terrazo, el altar, la altura del marco, las macetas y las ramas, configuran el espacio que una familia usa cada día.[^5]
 
-Esto también cambia nuestra forma de ver las casas antiguas. Las agencias inmobiliarias llaman a las casas «objetos», pero los propietarios las consideran recipientes donde ha vivido una familia. El valor de las rejas no reside solo en su forma, sino en que permiten que un extraño sepa en qué creyó esta familia, a quién recordaba y qué quería dejar ante los ojos de quienes están fuera de la puerta. [^4] [^5]
+Eso cambia nuestra mirada a la casa antigua. El agente inmobiliario la llama «inmueble»; el dueño la vive como contenedor de una familia. El valor de la reja no está solo en la forma, sino en que permite a un extraño saber en qué creyó esa familia, a quién recuerda, qué quiso mostrar a los ojos de afuera.[^4] [^5]
 
-> **📝 Nota de la curadora**
-> La parte más valiosa de las rejas de hierro a menudo no es lo hermosamente soldadas que están, sino que permiten al propietario hablar cinco minutos más sobre su hogar.
+> **📝 Nota del curador**
+> Lo más valioso de una reja no suele ser lo bien soldada que está, sino que hace que el dueño quiera contarte cinco minutos más de su casa.
 
-## Por qué los 48 paneles del Parlamento Nacional son todos diferentes
+## Las 48 rejas del Yuan Legislativo: ¿por qué todas distintas?
 
-El edificio del Parlamento Provincial de Taiwán ofrece una versión de edificio público de contraste. Esta estructura, completada en 1958, utilizaba grandes rejas de hierro en sus ventanas, cumpliendo simultáneamente funciones de seguridad y decoración. La fachada principal tenía 30 paneles, y cada uno de los lados laterales tenía 8 paneles, sumando 48 en total, y cada panel tenía un diseño diferente. [^1]
+El edificio de la Asamblea Provincial ofrece un contrapunto de arquitectura pública. Finalizado en 1958, sus ventanas usan amplias rejas que cumplen a la vez seguridad y ornamento. La fachada principal tiene 30, y cada lateral 8, totalizando 48, todas de diseño distinto.[^1]
 
-Los archivos indican que en las rejas se pueden ver formas similares a espadas occidentales; existe una explicación local que sostiene que los legisladores provinciales actuaban como la voz del pueblo en el salón de sesiones, sosteniendo debates acalorados con funcionarios u otros legisladores, por lo que incorporaron la imagen del combate de espadas en las rejas. La intención original del diseño de esta interpretación es incierta, por lo que es más apropiado considerarla como memoria local de la arquitectura que como una conclusión definitiva de la historia del diseño. [^1]
+La ficha señala que en algunas rejas se aprecia una forma semejante a una espada occidental; una versión local cuenta que los diputados, como voz del pueblo, cruzaban espadas verbales con funcionarios u otros legisladores en el hemiciclo, y por eso se puso la imagen de la esgrima en las rejas. La intención original del diseño ya no puede verificarse, así que cabe tratarla como memoria local del edificio, no como conclusión definitiva de historia del diseño.[^1]
 
-Este ejemplo es importante no porque demuestre que cada flor tiene un código secreto. Nos recuerda que las rejas de hierro en Taiwán nunca existieron solo en la escala de las viviendas privadas. Pueden ser un pequeño panel de ventana fuera de la cocina, o un lenguaje arquitectónico completo en la fachada de una institución pública. La función y el simbolismo han estado unidos desde el principio.
+Este ejemplo importa no porque demuestre que cada flor tiene un código, sino porque recuerda que en Taiwán la reja nunca tuvo solo la escala de la vivienda privada. Puede ser un pequeño panel en la ventana de la cocina, o todo un vocabulario arquitectónico en la fachada de una institución pública. Función y símbolo van pegados desde el inicio.
 
-## Quién registra estas obras sin firma
+## ¿Quién registra estas obras sin firma?
 
-Los creadores de las rejas de hierro rara vez dejaron su nombre. Los artesanos trabajaban probablemente solo siguiendo la indicación de un propietario de «quiero algo con flores» o un boceto a mano; una vez completada la casa, la obra se convertía en parte del edificio. A diferencia de una escultura con título de exposición o una pintura con firma, generalmente solo las personas que viven dentro saben por qué tiene esa forma.
+Los creadores de las rejas casi nunca dejaron su nombre. El herrero podía trabajar solo con un «quiero algo con flores» del dueño o un boceto a mano; terminada la casa, la obra se fundía con la arquitectura. No es una escultura con título, ni un cuadro con firma; usualmente solo quien vive allí sabe por qué tiene esa forma.
 
-El estudio _Old House Face_ (老屋顏), fundado en 2013, permitió que este tipo de paisaje urbano sin firma se organizara y compartiera por primera vez en gran medida. La Biblioteca Municipal de Taipéi registra cómo Xing Yongsheng y Yang Chaojing comenzaron compartiendo fotografías en internet, construyeron gradualmente una comunidad y publicaron un libro, haciendo que las rejas de hierro pasaran de ser «algo muy común en las casas antiguas» a convertirse en un elemento de Taiwán digno de conservación. [^4]
+El estudio Lao Wu Yan, fundado en 2013, logró que este paisaje urbano anónimo se compilara y compartiera masivamente por primera vez. La Biblioteca Pública de Taipéi registra que Hsin y Yang empezaron subiendo fotos a la red, fueron creando comunidad, publicaron libros y convirtieron la reja —de «algo muy común en casas viejas»— en un elemento taiwanés digno de preservar.[^4]
 
-La página temática del Museo de Arte Nacional de Taiwán registra cómo la artista Wu Qianyi, desde 2015, ha utilizado las rejas de hierro como tema de creación e investigación. Cuando las rejas de hierro se incorporan a la creación artística, ya no son solo un accesorio de las casas antiguas, sino también un medio para observar de nuevo la memoria colectiva. [^6]
+La página temática del Museo Nacional de Bellas Artes de Taiwán documenta a la artista Wu Chien-yi, que desde 2015 toma la reja como tema de creación e investigación. Al entrar en el arte, la reja deja de ser accesorio de la casa antigua y se vuelve medio para reobservar la memoria colectiva.[^6]
 
-En 2026, el Museo de Arte Yuejin en Tainan organizó una conferencia basada en el «Registro de las rejas de hierro de Taiwán» de Yang Chaojing, lo que indica que el tema ha pasado de la fotografía personal a la discusión pública en las instituciones culturales locales. [^7]
+En 2026, el Museo de Arte Yuejin de Tainan programó una charla con el «Registro de rejas de hierro de Taiwán» de Yang Chao-ching, señalando que el tema ha pasado de la fotografía personal a la discusión pública en instituciones culturales locales.[^7]
 
-Esta transformación conlleva una cierta contradicción. La razón por la que las rejas de hierro son conmovedoras es precisamente porque originalmente no tenían como objetivo ser vistas. Al ser organizadas, publicadas y expuestas, Taiwán comienza a ver su propia vida cotidiana, pero también debe tener cuidado de no empaquetar excesivamente las historias de vida de los propietarios como un estilo retro consumible.
+Este giro lleva una contradicción. La reja conmueve precisamente porque no nació para ser mirada. Al ser compilada, publicada, expuesta, Taiwán empieza a verse en su cotidianidad, pero debe cuidar de no empaquetar la vida del dueño como estética retro consumible.
 
-## Conservar no significa convertir cada ventana en una exhibición
+## Preservar no es convertir cada ventana en pieza de museo
 
-Las dificultades en la conservación de casas antiguas suelen provenir de la necesidad simultánea de seguridad, iluminación, ventilación y nuevos usos. Eliminar las ventanas antiguas y reemplazarlas por ventanas de aluminio es rápido y fácil de adaptar a las necesidades modernas. Conservar las rejas de hierro requiere conocer su estructura, el grado de corrosión, el método de fijación y el contexto de uso original.
+La dificultad de preservar casas antiguas viene de que el edificio necesita a la vez seguridad, luz, ventilación y nuevos usos. Cambiar la vieja ventana por una de aluminio es rápido y encaja en demandas modernas. Mantener la reja exige conocer su estructura, su óxido, su fijación y su contexto de uso original.
 
-La página de datos de hitos históricos de la Oficina de Cultura del Condado de Hualian incluye las «Rejas de hierro y paredes blancas» como una de las características reconocibles de los edificios de la residencia de la Oficina Forestal. El gobierno del condado de Pingtung, al presentar el plan de conservación de Xingcun Shengli (Aldea Estelar de la Victoria), también mencionó que las 120 casas históricas conservan las rejas de hierro antiguas, los ladrillos de cemento decorados y las ventanas de vidrio coloreado. Estos casos ilustran que el punto central de la conservación no es mover la decoración sola a un museo, sino mantenerla lo más posible en su relación original con la vivienda. [^8] [^9]
+La ficha de edificios históricos de la Oficina de Cultura del Condado de Hualien enumera «rejas de hierro y muros blancos» como rasgo identificable de los dormitorios de la Oficina Forestal. El gobierno del Condado de Pingtung, al presentar el plan de preservación del Pueblo Victoria (Victory Star Village), menciona que 120 viviendas históricas conservan rejas antiguas, baldosas de cemento y vitrales. Estos casos muestran que preservar no es llevarse el adorno al museo, sino dejarlo en la relación original con la casa.[^8] [^9]
 
-El manual de renovación de casas antiguas de Kaohsiung ofrece otra dirección. Las casas antiguas pueden reutilizarse, y las rejas de hierro pueden convertirse en materiales en nuevos espacios, pero el prerrequisito es comprender los métodos artesanales y las proporciones originales, en lugar de simplemente copiar un patrón que parezca «muy retro». [^3]
+El manual de renovación de Kaohsiung apunta otra vía: la casa antigua puede reusarse, y la reja puede ser material en el nuevo espacio, pero entendiendo la técnica y la proporción originales, no copiando un patrón que solo «se vea retro».[^3]
 
-Un reportaje del Departamento de Periodismo de la Universidad Shih Chien señala que las rejas de hierro se están transformando en artesanía de diseño cultural. Este camino puede proporcionar nuevas fuentes de ingresos para las técnicas artesanales antiguas, pero también puede aplanar el contexto de vida complejo original en un patrón de producto. Lo verdaderamente digno de conservación no incluye solo flores, mariposas o líneas geométricas, sino también cómo las hizo el artesano, por qué las eligió el propietario y con qué tipo de vida estaban unidas estas imágenes. [^10]
+Un reportaje del Departamento de Periodismo de la Universidad Shih Hsin señala que la reja se está transformando en artesanía cultural creativa. Eso da nueva fuente de ingreso a la vieja técnica, pero puede aplastar el complejo tejido vital en un simple patrón de producto. Lo que realmente vale la pena guardar no son solo flores, mariposas o geometrías, sino cómo las hacía el artesano, por qué las eligió el dueño, y con qué vida estuvieron pegados esos diseños.[^10]
 
-> **📝 Nota de la curadora**
-> El estándar mínimo para conservar las rejas de hierro es que, después de limpiarlas, no pierdan la casa que originalmente debían proteger, iluminar y contar historias.
+> **📝 Nota del curador**
+> El estándar mínimo para preservar una reja es que, tras limpiarla, no pierda la casa que originalmente protegía, iluminaba y contaba.
 
-## Lo que vemos hoy puede ser la última capa de pintura
+## Lo que vemos hoy quizá sea la última capa de pintura negra
 
-La renovación urbana y la reforma de casas antiguas en Taiwán continuarán. No todas las rejas de hierro merecen ser dejadas intactas, ni todos los nuevos edificios deben imitar las ventanas de la posguerra. La práctica más honesta es registrar primero y luego juzgar: fotografiar el patrón, entrevistar al propietario, identificar la técnica, confirmar la época de la casa y, finalmente, decidir si reparar, reutilizar o demoler.
+La renovación urbana y la reforma de casas antiguas en Taiwán continuarán. No toda reja merece conservarse intacta, ni todo edificio nuevo debe imitar la reja de posguerra. Lo más honesto es registrar primero, juzgar después: fotografiar el patrón, entrevistar al dueño, identificar la técnica, fechar la casa, y solo entonces decidir restaurar, reutilizar o demoler.
 
-Un reportaje sobre las rejas de hierro, reproducido en el sitio bilingüe de ONG del Ministerio de Asuntos Exteriores, menciona que un propietario en Lukang incorporó el edificio Shiyi Lou y el pozo medio de los lugares famosos locales en la reja. Este tipo de ejemplo permite ver que los paneles de la ventana no son meros marcos decorativos, sino una forma en la que los residentes condensan el mapa local hasta la puerta de su casa. [^11]
+El sitio bilingüe ONG del Ministerio de Relaciones Exteriores reproduce un reportaje que menciona cómo un dueño en Lukang puso en su reja el templo Shiyi Lou y el Pozo Medio (Banbian Jing). Ese ejemplo muestra que el vano no es un marco decorativo, sino la forma en que el vecino reduce el mapa local al umbral de su casa.[^11]
 
-![Fachada urbana de una casa antigua en Anping, Tainan, mostrando cómo el hito histórico conecta la ventana, la pared y la calle en una misma escena de vida](https://upload.wikimedia.org/wikipedia/commons/3/34/Anping_Taiwan_Old-houses-of-Anping-01.jpg)
+![Fachada de calle de una casa antigua del siglo XIX en Anping, Tainan, que muestra cómo la arquitectura histórica une ventana, muro y calle en una misma escena de vida](https://upload.wikimedia.org/wikipedia/commons/3/34/Anping_Taiwan_Old-houses-of-Anping-01.jpg)
 
-_Imagen: Casa antigua del siglo XIX en Anping, Tainan. Autores: CEphoto, Uwe Aranas, bajo licencia [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0). Se conserva la información de autoría y licencia de la [página de archivo en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Anping_Taiwan_Old-houses-of-Anping-01.jpg). Esta imagen es una ilustración del contexto de la casa de calle histórica y no debe utilizarse para inferir la época de la reja de hierro._
+_Imagen: Casa antigua del siglo XIX en Anping, Tainan. Autor CEphoto, Uwe Aranas, bajo licencia [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0). Se conserva la [página del archivo en Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Anping_Taiwan_Old-houses-of-Anping-01.jpg) con autoría y licencia. La imagen ilustra el contexto de la calle histórica; no sirve para inferir la antigüedad de la reja._
 
-Si solo vemos las rejas de hierro como un equipo de seguridad, perderemos su segunda función. Si solo las vemos como una estética retro, olvidaremos que respondían a ansiedades reales de seguridad, escasez de materiales y necesidades familiares. Son simultáneamente protección y exhibición. Bloquean un poco el mundo exterior y muestran un poco la vida interior.
+Si vemos la reja solo como seguridad, perdemos su segunda función. Si la vemos solo como estética retro, olvidamos que respondió a una ansiedad real de seguridad, a la escasez de materiales y a la necesidad familiar. Es a la vez protección y exhibición. Bloquea un poco el mundo de fuera, y deja ver un poco la vida de dentro.
 
-## Al ver las imágenes, hay que distinguir tres cosas
+## Tres claves al mirar las imágenes
 
-Primero, las imágenes pueden ayudar al lector a reconocer la escala de las rejas de hierro, las puertas/ventanas y la fachada de la casa antigua, pero no pueden demostrar por sí solas la época de un patrón. Segundo, la información de autoría y licencia de la página de archivo de Commons y el origen histórico de las rejas de hierro de Taiwán son dos cadenas de evidencia diferentes. La primera responde a «si esta foto se puede usar», y la segunda responde a «cómo se formó esta ventana». Tercero, que aparezcan paneles de ventana en una foto de una casa antigua no significa que la historia del propietario pueda ser completada arbitrariamente por el espectador. Lo que se puede confirmar debe basarse en la página de archivo y la fuente del artículo. Lo que no se pueda confirmar debe保留se como una impresión visual, sin convertir la especulación en hecho histórico.
+Primero, las fotos ayudan a reconocer la escala de la reja, los vanos y la fachada de la casa antigua, pero no prueban por sí solas la época de un diseño. Segundo, la autoría y la licencia en la página de Commons responden a «¿se puede usar esta foto?», mientras que el origen histórico de la reja responde a «¿cómo se formó esta ventana?»; son dos cadenas de evidencia distintas. Tercero, que una foto de casa antigua muestre una reja no autoriza al espectador a inventar la historia del dueño. Lo verificable se apoya en la ficha del archivo y en las fuentes del artículo; lo no verificable queda como impresión visual, sin convertir la conjetura en hecho histórico.
 
-Esta distinción parece conservadora, pero es el respeto básico más fundamental al conservar la arquitectura popular. Las rejas de hierro rara vez tienen firma; una vez que la foto se separa de la descripción original, es muy fácil volver a etiquetar erróneamente el lugar, la época o la identidad del propietario. Por lo tanto, las imágenes no son una decoración del artículo, sino una entrada histórica que debe verificarse conjuntamente.
+Esta distinción puede parecer conservadora, pero es el respeto básico al preservar la arquitectura vernacular. La reja casi nunca tiene firma; una vez separada de su explicación original, la foto fácilmente recibe etiquetas erróneas de lugar, época o identidad del dueño. Por eso la imagen no es adorno del artículo, sino una entrada de fuente histórica que hay que contrastar.
 
-La próxima vez que pases por un callejón en Taiwán, puedes dejar de buscar apresuradamente una casa antigua bonita. Mira primero la ventana. Observa si tiene una esquina asimétrica, un patrón que parezca un recuerdo de viaje, una flor oculta por una planta en maceta, o una pintura negra ya desvanecida. Allí quizás no haya el nombre de un autor, pero alguien hizo gestos frente al artesano, alguien la instaló por seguridad, y alguien puso afuera de la ventana lo que más quería dejar del mundo.
+La próxima vez que camines por un callejón de Taiwán, no te apresures a buscar una casa antigua bonita. Mira primero la ventana. Fíjate si tiene un ángulo asimétrico, un motivo que parece recuerdo de viaje, una flor medio tapada por una maceta, o un tramo de pintura negra ya desteñida. Ahí quizá no haya nombre de autor, pero alguien gesticuló frente al herrero, alguien la instaló por seguridad, y alguien puso en el exterior lo que más quiso dejar de su vida.
 
 ## Lecturas complementarias
 
-Si deseas contextualizar las rejas de hierro en una arquitectura más amplia, puedes continuar leyendo [Arquitectura de Taiwán](/es/art/taiwanese-architecture/) en Taiwan.md, y comparar cómo los barrios históricos, el terrazo y la reutilización de casas antiguas preservan conjuntamente la memoria habitacional.
+Si quieres situar la reja en un marco arquitectónico más amplio, puedes continuar con la [arquitectura taiwanesa](/es/art/taiwanese-architecture/) en Taiwan.md, y comparar cómo los barrios históricos, el terrazo y la reutilización de casas antiguas preservan juntos la memoria del habitar.
 
 ## Referencias
 
-[^1]: [Parque Democrático del Parlamento Nacional, «Rejas de hierro»](https://daap.ly.gov.tw/tw/daap/6-5857.html) — Ver suplemento de datos en el enlace original
+[^1]: [Parque Cívico del Yuan Legislativo, «Rejas de hierro»](https://daap.ly.gov.tw/tw/daap/6-5857.html) — Véase el contenido del enlace original para detalles adicionales
 
-[^2]: [Revista _Taiwan Panorama_, «Paisajes ocultos en los callejones: Salud, rejas de hierro libres y desenfrenadas»](https://www.taiwan-panorama.com/Articles/Details?Guid=5df5d9b4-0870-486a-b156-1ad71d4705ae&CatId=10&postname=%E5%B7%B7%E5%BC%84%E8%A3%A1%E7%9A%84%E9%9A%B1%E7%89%88%E9%A2%A8%E6%99%AF%20%20%20%20-%E6%95%AC%EF%BC%8C%E8%87%AA%E7%94%B1%E5%A5%94%E6%94%BE%E7%9A%84%E9%90%B5%E7%AA%97%E8%8A%B1) — Artículo especializado de la revista _Taiwan Panorama_
+[^2]: [Taiwan Panorama, «El paisaje oculto en los callejones: reverencia a las rejas de hierro libres y desenfadadas»](https://www.taiwan-panorama.com/Articles/Details?Guid=5df5d9b4-0870-486a-b156-1ad71d4705ae&CatId=10&postname=%E5%B7%B7%E5%BC%84%E8%A3%A1%E7%9A%84%E9%9A%B1%E7%89%88%E9%A2%A8%E6%99%AF%20%20%20%20-%E6%95%AC%EF%BC%8C%E8%87%AA%E7%94%B1%E5%A5%94%E6%94%BE%E7%9A%84%E9%90%B5%E7%AA%97%E8%8A%B1) — Artículo especial de Taiwan Panorama
 
-[^3]: [Oficina de Desarrollo Urbano de Kaohsiung, «Manual de renovación de casas antiguas»](https://urban-web.kcg.gov.tw/KDA/web_page/KDA020103.jsp?PK01=KDA080200001008) — Ver suplemento de datos en el enlace original
+[^3]: [Oficina de Desarrollo Urbano de Kaohsiung, «Manual de renovación de casas antiguas»](https://urban-web.kcg.gov.tw/KDA/web_page/KDA020103.jsp?PK01=KDA080200001008) — Véase el contenido del enlace original para detalles adicionales
 
-[^4]: [Biblioteca Municipal de Taipéi, «Old House Face y las rejas de hierro: El «elemento de Taiwán» olvidado»](https://tpml.gov.taipei/News_Content.aspx?n=D4B1C88D10A4B867&sms=E9AF1FF62921019B&s=BE671C6EC0F9313D) — Ver suplemento de datos en el enlace original
+[^4]: [Biblioteca Pública de Taipéi, «Lao Wu Yan y las rejas de hierro: el «elemento taiwanés» olvidado»](https://tpml.gov.taipei/News_Content.aspx?n=D4B1C88D10A4B867&sms=E9AF1FF62921019B&s=BE671C6EC0F9313D) — Véase el contenido del enlace original para detalles adicionales
 
-[^5]: [Readmoo Reading Frontier, «La vida cotidiana dentro de las rejas de hierro es la colección más valiosa de la casa antigua»](https://news.readmoo.com/2020/10/16/window-grilles-interview/) — Ver suplemento de datos en el enlace original
+[^5]: [Readmoo, «Lo cotidiano dentro de la reja: el tesoro más valioso en la casa antigua»](https://news.readmoo.com/2020/10/16/window-grilles-interview/) — Véase el contenido del enlace original para detalles adicionales
 
-[^6]: [Museo de Arte Nacional de Taiwán, «Visión temática del número 009 I»](https://www.ntmofa.gov.tw/News_Content2.aspx?n=3215&s=103906) — Ver suplemento de datos en el enlace original
+[^6]: [Museo Nacional de Bellas Artes de Taiwán, «Tema especial 009: Mirada I»](https://www.ntmofa.gov.tw/News_Content2.aspx?n=3215&s=103906) — Véase el contenido del enlace original para detalles adicionales
 
-[^7]: [Museo de Arte Yuejin, «Serie de salones de febrero #01 Yang Chaojing: Registro de las rejas de hierro de Taiwán»](https://yuejinartmuseum.tainan.gov.tw/index.php?modify=news&nc=3&id=98) — Ver suplemento de datos en el enlace original
+[^7]: [Museo de Arte Yuejin, «Serie de salones de febrero #01 Yang Chao-ching: Registro de rejas de hierro de Taiwán»](https://yuejinartmuseum.tainan.gov.tw/index.php?modify=news&nc=3&id=98) — Véase el contenido del enlace original para detalles adicionales
 
-[^8]: [Oficina de Cultura del Condado de Hualian, «Residencia de la Oficina Forestal en Qinghua Street No. 33 y 33-2»](https://www.hccc.gov.tw/zh-tw/CulturalHeritage/Detail/44) — Ver suplemento de datos en el enlace original
+[^8]: [Oficina de Cultura del Condado de Hualien, «Dormitorios de la Oficina Forestal, n.º 33 y 33-2 de Jinghua Street»](https://www.hccc.gov.tw/zh-tw/CulturalHeritage/Detail/44) — Véase el contenido del enlace original para detalles adicionales
 
-[^9]: [Gobierno del condado de Pingtung, «El parque de ruinas más hermoso del mundo en Pingtung añade un lugar de check-in a la Aldea Xingcun Shengli»](https://www.pthg.gov.tw/plantou/News_Content.aspx?n=3D7FE3A6F999D6C2&sms=6B402F30807E7BB3&s=3DF603634459FA70) — Ver suplemento de datos en el enlace original
+[^9]: [Gobierno del Condado de Pingtung, «El parque de reliquias más bello de Taiwán está en Pingtung: nuevo punto de visita para el Pueblo Victoria»](https://www.pthg.gov.tw/plantou/News_Content.aspx?n=3D7FE3A6F999D6C2&sms=6B402F30807E7BB3&s=3DF603634459FA70) — Véase el contenido del enlace original para detalles adicionales
 
-[^10]: [Departamento de Periodismo de la Universidad Shih Chien, «El epítome de la memoria: la transformación de las rejas de hierro en artesanía de diseño cultural»](https://shuj.shu.edu.tw/blog/2024/12/22/%E8%A8%98%E6%86%B6%E7%9A%84%E7%B8%AE%E5%BD%B1-%E9%90%B5%E7%AA%97%E8%8A%B1%E8%BD%89%E5%9E%8B%E6%96%87%E5%89%B5%E5%B7%A5%E8%97%9D/) — Ver suplemento de datos en el enlace original
+[^10]: [Departamento de Periodismo de la Universidad Shih Hsin, «Silueta de la memoria: las rejas de hierro se transforman en artesanía cultural creativa»](https://shuj.shu.edu.tw/blog/2024/12/22/%E8%A8%98%E6%86%B6%E7%9A%84%E7%B8%AE%E5%BD%B1-%E9%90%B5%E7%AA%97%E8%8A%B1%E8%BD%89%E5%9E%8B%E6%96%87%E5%89%B5%E5%B7%A5%E8%97%9D/) — Véase el contenido del enlace original para detalles adicionales
 
-[^11]: [Sitio bilingüe de ONG del Ministerio de Asuntos Exteriores, «Paisajes ocultos en los callejones: Salud, rejas de hierro libres y desenfrenadas»](https://taiwanngo.tw/Post/82664) — Ver suplemento de datos en el enlace original
+[^11]: [Sitio bilingüe ONG del Ministerio de Relaciones Exteriores, «El paisaje oculto en los callejones: reverencia a las rejas de hierro libres y desenfadadas»](https://taiwanngo.tw/Post/82664) — Véase el contenido del enlace original para detalles adicionales

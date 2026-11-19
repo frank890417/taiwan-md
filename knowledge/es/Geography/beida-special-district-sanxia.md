@@ -5,19 +5,19 @@ date: 2026-04-29
 category: 'Geography'
 tags:
   [
-    Sanxia,
-    Shulin,
-    Universidad Nacional de Taipéi,
-    Avenida del Arte,
-    Línea San-Ying,
-    Zona escolar de prestigio,
-    Estética arquitectónica,
-    Economía del transporte ferroviario,
-    Gentrificación,
-    Identidad selectiva,
-    Recorrido del Señor Ying,
-    Procesión religiosa,
-    Li Mei-shu,
+    'Sanxia',
+    'Shulin',
+    'Universidad Nacional de Taipéi',
+    'Avenida del Arte',
+    'Línea San-Ying',
+    'Zona escolar de prestigio',
+    'Estética arquitectónica',
+    'Economía del transporte ferroviario',
+    'Gentrificación',
+    'Identidad selectiva',
+    'Recorrido del Señor Ying',
+    'Procesión religiosa',
+    'Li Mei-shu',
   ]
 subcategory: '城市與人文地理'
 author: 'idlccp1984'
@@ -25,11 +25,13 @@ featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
 readingTime: 18
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/北大特區.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:a12aeaf066e066f3'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:d1c3a58bde03254b'
 sourceBodyHash: 'sha256:5edd055f43181f0e'
-translatedAt: '2026-06-12T03:51:13+08:00'
+translatedAt: '2026-11-19T00:55:07.118680+00:00'
 ---
 
 > **Panorama en 30 segundos:**
@@ -162,11 +164,12 @@ Desde la aldea Longen de la época del emperador Qianlong, pasando por el campo 
 
 En 2026, cuando los trenes de la línea San-Ying lleguen oficialmente, el Distrito Especial de Beida enfrentará la siguiente fase de su prueba: ¿cómo lograr un equilibrio entre la conveniencia y el impacto externo que trae el metro? ¿cómo conservar la calidez de la tierra en medio de la ola de gentrificación? Esta ciudad despertada tras treinta años se encuentra en un nuevo punto de partida histórico, continuando a escribir su leyenda de superación.
 
-## Lectura adicional
+## Lecturas adicionales
 
-- [Desarrollo urbano y disparidades rurales-urbanas en Taiwán](/es/geography/taiwan-urban-development-and-rural-urban-divide) — Sitúa el Distrito Especial de Beida en el contexto a largo plazo de las zonas de nuevo desarrollo y la expansión urbana de Taiwán.
-- [Nuevo Municipio de Linkou](/es/geography/linkou-new-town) — Compara cómo otro municipio que también fue llamado «ciudad fantasma» maduró.
-- [Té de Sanxia](/es/food/sanxia-tea) — Lectura complementaria sobre el sustrato cultural del casco antiguo de Sanxia y las industrias locales.
+- [Los precios de la vivienda, las hipotecas y la seguridad juvenil en Taiwán](/housing/) — Página especial: el panorama más allá de las zonas de readaptación, tasas de carga hipotecaria por condado y ciudad e índice de precios de la vivienda
+- [Desarrollo urbano y brecha urbano-rural en Taiwán](/es/geography/taiwan-urban-development-and-rural-urban-divide) — Situar el Distrito Especial de Beida en el contexto a largo plazo de las zonas de readaptación y la expansión urbana de Taiwán.
+- [Nueva ciudad de Linkou](/es/geography/linkou-new-town) — Comparar cómo maduró otra nueva ciudad que también fue llamada «ciudad fantasma».
+- [Té de Sanxia](/es/food/sanxia-tea) — Lectura complementaria sobre el trasfondo cultural del casco antiguo de Sanxia y sus industrias locales.
 
 ## Referencias
 
