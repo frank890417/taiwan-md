@@ -1,0 +1,232 @@
+---
+/**
+ * AboutChapterNav — 關於頁的章節錨點（2026-11-19 關於頁進化）。
+ *
+ * 一個 <nav>、兩種長相：
+ *   · 窄於 1440px：貼在站頭下面的一排，橫向可滑（手機第一個螢幕就看得到）
+ *   · 1440px 以上：固定在內容左側留白裡的直列
+ * 都有 scroll-spy：滑到哪一章，那一章亮起來。沒有 JS 時就是一排普通的錨點連結。
+ *
+ * 站頭是 fixed，高度寫在全站的 `--header-h`（Layout 維護），這裡只讀不寫。
+ */
+interface Chapter {
+  /** 目標區塊的 id（不含 #） */
+  id: string;
+  label: string;
+}
+interface Props {
+  label: string;
+  chapters: Chapter[];
+}
+const { label, chapters } = Astro.props;
+---
+
+<nav class="ab-nav" aria-label={label} data-ab-nav>
+  <ol class="ab-nav__list">
+    {
+      chapters.map((c, i) => (
+        <li class="ab-nav__item">
+          <a
+            class="ab-nav__link"
+            href={`#${c.id}`}
+            data-ab-nav-link={c.id}
+            data-ga-section="about_nav"
+            data-ga-label={c.id}
+          >
+            <span class="ab-nav__num" aria-hidden="true">
+              {String(i + 1).padStart(2, '0')}
+            </span>
+            <span class="ab-nav__text">{c.label}</span>
+          </a>
+        </li>
+      ))
+    }
+  </ol>
+</nav>
+
+<script>
+  // scroll-spy：目前讀到哪一章。只改 aria-current，不動版面。
+  function initAboutNav() {
+    const nav = document.querySelector<HTMLElement>('[data-ab-nav]');
+    if (!nav) return;
+    const links = Array.from(
+      nav.querySelectorAll<HTMLAnchorElement>('[data-ab-nav-link]'),
+    );
+    const targets = links
+      .map((a) => document.getElementById(a.dataset.abNavLink || ''))
+      .filter((el): el is HTMLElement => !!el);
+    if (!targets.length) return;
+
+    let current = '';
+    const setCurrent = (id: string) => {
+      if (id === current) return;
+      current = id;
+      for (const a of links) {
+        const on = a.dataset.abNavLink === id;
+        if (on) a.setAttribute('aria-current', 'true');
+        else a.removeAttribute('aria-current');
+        // 橫向那一排：把亮起來的那顆帶進視野（只捲這一排，不捲頁面）
+        if (on && nav.scrollWidth > nav.clientWidth) {
+          const list = nav.querySelector<HTMLElement>('.ab-nav__list');
+          const item = a.parentElement;
+          if (list && item) {
+            const reduce = window.matchMedia(
+              '(prefers-reduced-motion: reduce)',
+            ).matches;
+            // 用畫面上的位置算位移，左到右與右到左都對
+            const lr = list.getBoundingClientRect();
+            const ir = item.getBoundingClientRect();
+            list.scrollBy({
+              left: ir.left + ir.width / 2 - (lr.left + lr.width / 2),
+              behavior: reduce ? 'auto' : 'smooth',
+            });
+          }
+        }
+      }
+    };
+
+    let ticking = false;
+    const measure = () => {
+      ticking = false;
+      // 讀線：畫面上方三分之一處。最後一個「頂端已經過線」的章節就是目前這一章。
+      const line = window.innerHeight * 0.33;
+      let id = '';
+      for (const el of targets) {
+        if (el.getBoundingClientRect().top <= line) id = el.id;
+      }
+      setCurrent(id);
+    };
+    window.addEventListener(
+      'scroll',
+      () => {
+        if (ticking) return;
+        ticking = true;
+        requestAnimationFrame(measure);
+      },
+      { passive: true },
+    );
+    window.addEventListener('resize', measure, { passive: true });
+    measure();
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initAboutNav);
+  } else {
+    initAboutNav();
+  }
+</script>
+
+<style>
+  /* ── 預設：站頭下面的一排，橫向可滑 ─────────────────────────── */
+  .ab-nav {
+    position: sticky;
+    inset-block-start: var(--header-h, 57px);
+    z-index: 30;
+    background: color-mix(in srgb, var(--color-bg) 88%, transparent);
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
+    border-block-end: 1px solid var(--color-border);
+  }
+
+  .ab-nav__list {
+    display: flex;
+    gap: 0.125rem;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 var(--space-page-x);
+    list-style: none;
+    overflow-x: auto;
+    overscroll-behavior-x: contain;
+    scrollbar-width: none;
+    position: relative;
+  }
+  .ab-nav__list::-webkit-scrollbar {
+    display: none;
+  }
+
+  .ab-nav__item {
+    flex: 0 0 auto;
+  }
+
+  .ab-nav__link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    min-block-size: 44px;
+    padding: 0 0.75rem;
+    font-family: var(--font-interface);
+    font-size: 0.875rem;
+    line-height: 1;
+    white-space: nowrap;
+    color: var(--color-ink-soft);
+    text-decoration: none;
+    border-block-end: 2px solid transparent;
+    transition:
+      color 0.2s ease,
+      border-color 0.2s ease;
+  }
+  .ab-nav__link:hover {
+    color: var(--color-ink);
+  }
+  .ab-nav__link[aria-current='true'] {
+    color: var(--ab-brand);
+    border-block-end-color: var(--ab-brand);
+    font-weight: 600;
+  }
+  .ab-nav__link:focus-visible {
+    outline: 2px solid var(--color-accent);
+    outline-offset: -2px;
+    border-radius: 6px;
+  }
+
+  .ab-nav__num {
+    font-size: 0.6875rem;
+    font-variant-numeric: tabular-nums;
+    letter-spacing: 0.04em;
+    opacity: 0.6;
+  }
+
+  /* ── 寬螢幕：固定在內容左側留白裡的直列 ─────────────────────── */
+  @media (min-width: 1440px) and (min-height: 640px) {
+    .ab-nav {
+      position: fixed;
+      inset-block-start: calc(var(--header-h, 57px) + var(--space-5));
+      inset-inline-start: max(
+        1rem,
+        calc((100vw - 1100px) / 2 - 9.5rem - 1.5rem)
+      );
+      inline-size: 9.5rem;
+      background: color-mix(in srgb, var(--color-surface) 86%, transparent);
+      border: 1px solid var(--color-border);
+      border-radius: var(--radius-chip);
+      box-shadow: var(--shadow-soft);
+      padding: 0.5rem;
+    }
+    .ab-nav__list {
+      flex-direction: column;
+      gap: 0;
+      padding: 0;
+      overflow: visible;
+    }
+    .ab-nav__link {
+      display: flex;
+      min-block-size: 44px;
+      padding: 0 0.625rem;
+      border-block-end: 0;
+      border-radius: 10px;
+      white-space: normal;
+      line-height: 1.25;
+    }
+    .ab-nav__link:hover {
+      background: color-mix(in srgb, var(--color-ink) 5%, transparent);
+    }
+    .ab-nav__link[aria-current='true'] {
+      background: var(--ab-brand-soft);
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .ab-nav__link {
+      transition: none;
+    }
+  }
+</style>

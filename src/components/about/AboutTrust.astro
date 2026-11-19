@@ -1,0 +1,446 @@
+---
+/**
+ * AboutTrust — 可信度（2026-11-19 關於頁進化）。
+ *
+ * 三件事：有人看過的文章有多少、讀者勘誤怎麼處理、資料與程式碼在哪裡。
+ *
+ * 數字是活的：
+ *   · 比例  public/api/dashboard-vitals.json → humanReviewedPercent
+ *   · 篇數  public/api/dashboard-organism.json → immune.metrics.humanReviewedCount
+ *           （沒有就用比例 × 總篇數回推）
+ * 兩個都由樣板讀好傳進來。資料缺席時整組數字與格子圖都不畫，只留一句說明。
+ *
+ * 格子圖：100 格，一格是全站的 1%，照比例塗滿（最後一格可以只塗一部分）。
+ */
+import type { Lang } from '../../types';
+import Icon from '../Icon.astro';
+import { useAboutStrings, formatNumber, isEnglishFallback } from './strings';
+
+interface Props {
+  lang: Lang;
+  totalArticles: number;
+  reviewedCount: number | null;
+  reviewedPercent: number | null;
+  hrefs: {
+    dashboard: string;
+    changelog: string;
+    newsroom: string;
+  };
+}
+const { lang, totalArticles, reviewedCount, reviewedPercent, hrefs } =
+  Astro.props;
+const s = useAboutStrings(lang);
+const n = (v: number) => formatNumber(lang, v);
+const fallbackEn = isEnglishFallback(lang, 'about.trust.title');
+const hasReview =
+  reviewedCount !== null && reviewedPercent !== null && totalArticles > 0;
+
+// 100 格：每格 0–1 的填滿程度
+const pct = hasReview
+  ? Math.max(0, Math.min(100, reviewedPercent as number))
+  : 0;
+const cells = Array.from({ length: 100 }, (_, i) =>
+  Math.max(0, Math.min(1, pct - i)),
+);
+
+const REPO = 'https://github.com/frank890417/taiwan-md';
+const sources = [
+  {
+    id: 'knowledge',
+    label: s('about.trust.source.articles'),
+    value: 'GitHub · knowledge/',
+    href: `${REPO}/tree/main/knowledge`,
+    external: true,
+  },
+  {
+    id: 'code',
+    label: s('about.trust.source.code'),
+    value: 'GitHub · MIT',
+    href: REPO,
+    external: true,
+  },
+  {
+    id: 'license',
+    label: s('about.trust.source.license'),
+    value: 'CC BY-SA 4.0',
+    href: 'https://creativecommons.org/licenses/by-sa/4.0/',
+    external: true,
+  },
+  {
+    id: 'editorial',
+    label: s('about.trust.source.editorial'),
+    value: 'EDITORIAL.md',
+    href: `${REPO}/blob/main/docs/editorial/EDITORIAL.md`,
+    external: true,
+  },
+  {
+    id: 'newsroom',
+    label: s('about.trust.source.newsroom'),
+    value: s('about.trust.source.newsroom.value'),
+    href: hrefs.newsroom,
+    external: false,
+  },
+];
+---
+
+<div class="ab-trust" data-fallback-en={fallbackEn ? '' : undefined}>
+  <!-- 一：有人看過的文章 -->
+  <section class="ab-trust__col ab-trust__col--review">
+    <h3 class="ab-trust__h">
+      <Icon name="eye" class="ab-trust__icon" />
+      {s('about.trust.review.title')}
+    </h3>
+    {
+      hasReview ? (
+        <>
+          <p class="ab-trust__figure">
+            <span class="ab-trust__percent">
+              {reviewedPercent}
+              <span class="ab-trust__unit">%</span>
+            </span>
+            <span class="ab-trust__count">
+              {s('about.trust.review.count', {
+                reviewed: n(reviewedCount as number),
+                total: n(totalArticles),
+              })}
+            </span>
+          </p>
+          <div
+            class="ab-waffle"
+            role="img"
+            aria-label={s('about.trust.review.aria', {
+              reviewed: n(reviewedCount as number),
+              total: n(totalArticles),
+              percent: reviewedPercent as number,
+            })}
+          >
+            {cells.map((fill) => (
+              <span
+                class:list={['ab-waffle__cell', { 'is-on': fill > 0 }]}
+                style={
+                  fill > 0 && fill < 1
+                    ? `--fill:${Math.round(fill * 100)}%`
+                    : undefined
+                }
+              />
+            ))}
+          </div>
+          <p class="ab-trust__p">{s('about.trust.review.desc')}</p>
+        </>
+      ) : (
+        <p class="ab-trust__p">{s('about.trust.review.nodata')}</p>
+      )
+    }
+    <a
+      class="ab-trust__link"
+      href={hrefs.dashboard}
+      data-ga-section="about_trust"
+      data-ga-label="dashboard"
+    >
+      {s('about.trust.review.link')}
+      <span class="ab-trust__arrow" aria-hidden="true">→</span>
+    </a>
+  </section>
+
+  <!-- 二：讀者勘誤怎麼處理 -->
+  <section class="ab-trust__col">
+    <h3 class="ab-trust__h">
+      <Icon name="comment" class="ab-trust__icon" />
+      {s('about.trust.errata.title')}
+    </h3>
+    <ol class="ab-steps">
+      <li class="ab-steps__item">{s('about.trust.errata.step1')}</li>
+      <li class="ab-steps__item">{s('about.trust.errata.step2')}</li>
+      <li class="ab-steps__item">{s('about.trust.errata.step3')}</li>
+    </ol>
+    <div class="ab-trust__links">
+      <a
+        class="ab-trust__link no-external-icon"
+        href={`${REPO}/issues`}
+        target="_blank"
+        rel="noopener noreferrer"
+        data-ga-section="about_trust"
+        data-ga-label="issues"
+      >
+        {s('about.trust.errata.link.issues')}
+        <span class="ab-trust__arrow" aria-hidden="true">↗</span>
+      </a>
+      <a
+        class="ab-trust__link"
+        href={hrefs.changelog}
+        data-ga-section="about_trust"
+        data-ga-label="changelog"
+      >
+        {s('about.trust.errata.link.changelog')}
+        <span class="ab-trust__arrow" aria-hidden="true">→</span>
+      </a>
+    </div>
+  </section>
+
+  <!-- 三：資料與程式碼在哪裡 -->
+  <section class="ab-trust__col">
+    <h3 class="ab-trust__h">
+      <Icon name="code" class="ab-trust__icon" />
+      {s('about.trust.source.title')}
+    </h3>
+    <ul class="ab-sources">
+      {
+        sources.map((src) => (
+          <li class="ab-sources__item">
+            <a
+              class="ab-sources__link no-external-icon"
+              href={src.href}
+              target={src.external ? '_blank' : undefined}
+              rel={src.external ? 'noopener noreferrer' : undefined}
+              data-ga-section="about_trust"
+              data-ga-label={`source_${src.id}`}
+            >
+              <span class="ab-sources__label">{src.label}</span>
+              <span class="ab-sources__value">
+                {src.value}
+                <span class="ab-trust__arrow" aria-hidden="true">
+                  {src.external ? '↗' : '→'}
+                </span>
+              </span>
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </section>
+</div>
+
+<style>
+  .ab-trust {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    column-gap: var(--space-7);
+  }
+
+  .ab-trust__col {
+    display: flex;
+    flex-direction: column;
+    padding-block-start: var(--space-4);
+    border-block-start: 2px solid var(--ab-heading);
+  }
+
+  .ab-trust__h {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin: 0 0 var(--space-4);
+    font-family: var(--font-reading);
+    font-size: 1.125rem;
+    font-weight: 700;
+    line-height: 1.4;
+    letter-spacing: 0;
+    color: var(--color-ink);
+  }
+  .ab-trust__icon {
+    display: inline-flex;
+    color: var(--ab-brand);
+  }
+
+  /* ── 數字 ── */
+  .ab-trust__figure {
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 0.25rem 0.875rem;
+    margin: 0 0 var(--ab-gap-s);
+  }
+  .ab-trust__percent {
+    font-family: var(--font-interface);
+    font-size: clamp(2.75rem, 5vw, 3.75rem);
+    font-weight: 800;
+    font-variant-numeric: tabular-nums;
+    letter-spacing: -0.03em;
+    line-height: 1;
+    color: var(--ab-heading);
+  }
+  .ab-trust__unit {
+    margin-inline-start: 0.1em;
+    font-size: 0.45em;
+    font-weight: 700;
+    letter-spacing: 0;
+  }
+  .ab-trust__count {
+    font-family: var(--font-interface);
+    font-size: 0.9375rem;
+    font-variant-numeric: tabular-nums;
+    color: var(--color-ink-soft);
+  }
+
+  /* ── 格子圖：20 × 5 = 100 格 ── */
+  .ab-waffle {
+    display: grid;
+    grid-template-columns: repeat(20, minmax(0, 1fr));
+    gap: 3px;
+    max-inline-size: 20rem;
+    margin: 0 0 var(--space-4);
+  }
+  .ab-waffle__cell {
+    aspect-ratio: 1;
+    border-radius: 2px;
+    background: color-mix(in srgb, var(--color-ink) 10%, transparent);
+  }
+  .ab-waffle__cell.is-on {
+    background: linear-gradient(
+      to right,
+      var(--ab-brand) var(--fill, 100%),
+      color-mix(in srgb, var(--color-ink) 10%, transparent) var(--fill, 100%)
+    );
+  }
+  :global([dir='rtl']) .ab-waffle__cell.is-on {
+    background: linear-gradient(
+      to left,
+      var(--ab-brand) var(--fill, 100%),
+      color-mix(in srgb, var(--color-ink) 10%, transparent) var(--fill, 100%)
+    );
+  }
+
+  .ab-trust__p {
+    margin: 0 0 var(--ab-gap-s);
+    font-size: 0.9375rem;
+    line-height: 1.8;
+    color: var(--color-ink-soft);
+  }
+
+  /* ── 連結 ── */
+  .ab-trust__links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0 var(--space-4);
+    margin-block-start: auto;
+  }
+  .ab-trust__link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    min-block-size: 44px;
+    margin-block-start: auto;
+    padding: 0;
+    border: 0;
+    font-family: var(--font-interface);
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: var(--ab-brand);
+    text-decoration: none;
+  }
+  .ab-trust__link:hover {
+    color: var(--color-ink);
+  }
+  .ab-trust__arrow {
+    display: inline-block;
+    font-family: var(--font-interface);
+  }
+  :global([dir='rtl']) .ab-trust__arrow {
+    scale: -1 1;
+  }
+
+  /* ── 勘誤三步 ── */
+  .ab-steps {
+    margin: 0 0 var(--ab-gap-s);
+    padding: 0;
+    list-style: none;
+    counter-reset: ab-step;
+  }
+  .ab-steps__item {
+    position: relative;
+    counter-increment: ab-step;
+    padding-inline-start: 2.5rem;
+    padding-block-end: var(--space-4);
+    font-size: 0.9375rem;
+    line-height: 1.8;
+    color: var(--color-ink-soft);
+  }
+  .ab-steps__item::before {
+    content: counter(ab-step);
+    position: absolute;
+    inset-inline-start: 0;
+    inset-block-start: 0.05rem;
+    display: grid;
+    place-items: center;
+    inline-size: 1.625rem;
+    block-size: 1.625rem;
+    border: 1px solid var(--ab-brand);
+    border-radius: 50%;
+    background: var(--ab-surface);
+    font-family: var(--font-interface);
+    font-size: 0.75rem;
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+    color: var(--ab-brand);
+  }
+  /* 把三步連起來的那條線 */
+  .ab-steps__item:not(:last-child)::after {
+    content: '';
+    position: absolute;
+    inset-inline-start: calc(0.8125rem - 0.5px);
+    inset-block: 1.9rem 0.2rem;
+    inline-size: 1px;
+    background: var(--ab-rule-strong);
+  }
+  .ab-steps__item:last-child {
+    padding-block-end: 0;
+  }
+
+  /* ── 資料與程式碼 ── */
+  .ab-sources {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  .ab-sources__item {
+    border-block-end: 1px solid var(--ab-rule);
+  }
+  .ab-sources__item:first-child {
+    border-block-start: 1px solid var(--ab-rule);
+  }
+  .ab-sources__link {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem;
+    min-block-size: 48px;
+    padding: 0.375rem 0;
+    border: 0;
+    font-family: var(--font-interface);
+    text-decoration: none;
+  }
+  .ab-sources__label {
+    flex: 0 0 auto;
+    font-size: 0.875rem;
+    color: var(--color-ink-soft);
+  }
+  .ab-sources__value {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    min-inline-size: 0;
+    font-size: 0.875rem;
+    font-weight: 600;
+    text-align: end;
+    color: var(--color-ink);
+    overflow-wrap: anywhere;
+  }
+  .ab-sources__link:hover .ab-sources__value {
+    color: var(--ab-brand);
+  }
+  .ab-sources__value .ab-trust__arrow {
+    color: var(--ab-brand);
+  }
+
+  @media (max-width: 980px) {
+    .ab-trust {
+      grid-template-columns: minmax(0, 1fr);
+      row-gap: var(--ab-gap-m);
+    }
+    .ab-trust__link {
+      margin-block-start: 0;
+    }
+    .ab-trust__links {
+      margin-block-start: 0;
+    }
+  }
+</style>

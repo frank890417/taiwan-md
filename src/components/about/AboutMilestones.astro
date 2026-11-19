@@ -1,0 +1,690 @@
+---
+/**
+ * AboutMilestones — 里程碑時間線（2026-11-19 關於頁進化）。
+ *
+ * 兩層，都用時間軸既有的條目資料（about.ts 的 about.timeline.*，13 語都有），
+ * 不另寫摘要：
+ *
+ *   1. 比例軸   一條照實際日期畫的橫軸。每一條細線是完整時間軸裡的一則紀錄，
+ *               圓點是里程碑。它只負責讓人看見疏密（開站頭三週擠在一起），不能點。
+ *   2. 里程碑卡 橫向可滑的一排（手機改直向）。每張卡是一則條目的日期與標題，
+ *               點下去會展開下面完整的時間軸並捲到那一則。
+ *
+ * 完整時間軸的標記留在樣板（about.template.astro 的 #timeline-full），
+ * 這裡只連過去（#tl-<key>）。展開與捲動的腳本也在樣板。
+ */
+import type { Lang } from '../../types';
+import { useTranslations } from '../../i18n/utils';
+import type { TranslationKey } from '../../i18n/utils';
+import { useAboutStrings, isEnglishFallback } from './strings';
+
+export interface TimelineEntry {
+  /** about.timeline.<key>.* 的 key */
+  key: string;
+  /** ISO 日期；沒有單一日期的條目（2024—2025、持續進行中）給 null */
+  date: string | null;
+  milestone?: boolean;
+  /** 「關於」分類底下對應的長文 */
+  related?: { href: string; label: string };
+}
+
+interface Props {
+  lang: Lang;
+  entries: TimelineEntry[];
+  /** 軸的右端（今天）；ISO 日期 */
+  today: string;
+}
+const { lang, entries, today } = Astro.props;
+const t = useTranslations(lang);
+const s = useAboutStrings(lang);
+const tk = (k: string) => t(k as TranslationKey);
+const fallbackEn = isEnglishFallback(lang, 'about.milestones.caption');
+
+const DAY = 86_400_000;
+const toMs = (iso: string) => Date.parse(`${iso}T00:00:00Z`);
+
+const dated = entries.filter((e) => e.date) as (TimelineEntry & {
+  date: string;
+})[];
+const milestones = dated.filter((e) => e.milestone);
+
+// 軸：從第一則有日期的條目那個月的 1 號，到今天（至少比最後一則多一週）
+const first = new Date(toMs(dated[0].date));
+const axisStart = Date.UTC(first.getUTCFullYear(), first.getUTCMonth(), 1);
+const lastEntry = toMs(dated[dated.length - 1].date);
+const axisEnd = Math.max(toMs(today), lastEntry + 7 * DAY);
+const pos = (ms: number) =>
+  Math.round(((ms - axisStart) / (axisEnd - axisStart)) * 10000) / 100;
+
+// 月份刻度
+const monthFmt = new Intl.DateTimeFormat(lang, {
+  month: 'short',
+  timeZone: 'UTC',
+});
+const months: { left: number; label: string }[] = [];
+for (
+  let d = new Date(axisStart);
+  d.getTime() < axisEnd;
+  d = new Date(Date.UTC(d.getUTCFullYear(), d.getUTCMonth() + 1, 1))
+) {
+  months.push({ left: pos(d.getTime()), label: monthFmt.format(d) });
+}
+const axisYear = first.getUTCFullYear();
+---
+
+<div class="ab-ms" data-ab-ms data-fallback-en={fallbackEn ? '' : undefined}>
+  <!-- 比例軸：看疏密用，不能點 -->
+  <figure class="ab-ms__axis-wrap">
+    <div
+      class="ab-ms__axis"
+      role="img"
+      aria-label={s('about.milestones.caption')}
+    >
+      <span class="ab-ms__year">{axisYear}</span>
+      {
+        months.map((m) => (
+          <span class="ab-ms__month" style={`--x:${m.left}%`}>
+            {m.label}
+          </span>
+        ))
+      }
+      <span class="ab-ms__line"></span>
+      {
+        dated.map((e) => (
+          <span class="ab-ms__tick" style={`--x:${pos(toMs(e.date))}%`} />
+        ))
+      }
+      {
+        milestones.map((e, i) => (
+          <span
+            class="ab-ms__dot"
+            style={`--x:${pos(toMs(e.date))}%`}
+            data-ms-dot={i}
+          />
+        ))
+      }
+      <span class="ab-ms__now" style="--x:100%"></span>
+    </div>
+    <figcaption class="ab-ms__caption">
+      {s('about.milestones.caption')}
+    </figcaption>
+  </figure>
+
+  <div class="ab-ms__controls" data-ms-controls hidden>
+    <button
+      type="button"
+      class="ab-ms__btn"
+      data-ms-prev
+      aria-label={s('about.milestones.prev')}
+      data-ga-section="about_origin"
+      data-ga-label="milestone_prev"
+    >
+      <span class="ab-ms__arrow ab-ms__arrow--back" aria-hidden="true">←</span>
+    </button>
+    <span class="ab-ms__count" aria-hidden="true">
+      <span data-ms-index>1</span> / {milestones.length + 1}
+    </span>
+    <button
+      type="button"
+      class="ab-ms__btn"
+      data-ms-next
+      aria-label={s('about.milestones.next')}
+      data-ga-section="about_origin"
+      data-ga-label="milestone_next"
+    >
+      <span class="ab-ms__arrow ab-ms__arrow--fwd" aria-hidden="true">→</span>
+    </button>
+  </div>
+
+  <!-- 里程碑卡 -->
+  <div class="ab-ms__viewport">
+    <ol
+      class="ab-ms__track"
+      data-ms-track
+      aria-label={s('about.milestones.label')}
+    >
+      {
+        milestones.map((e, i) => (
+          <li class="ab-ms__stop" data-ms-card={i}>
+            <p class="ab-ms__date">
+              <time datetime={e.date}>
+                {tk(`about.timeline.${e.key}.date`)}
+              </time>
+            </p>
+            <h3 class="ab-ms__title">
+              <a
+                class="ab-ms__main"
+                href={`#tl-${e.key}`}
+                data-ga-section="about_origin"
+                data-ga-label={`milestone_${e.key}`}
+              >
+                {tk(`about.timeline.${e.key}.title`)}
+              </a>
+            </h3>
+            <p class="ab-ms__actions">
+              <span class="ab-ms__read" aria-hidden="true">
+                {s('about.milestones.read')}
+                <span class="ab-ms__arrow">↓</span>
+              </span>
+              {e.related && (
+                <a
+                  class="ab-ms__related"
+                  href={e.related.href}
+                  data-ga-section="about_origin"
+                  data-ga-label={`related_${e.key}`}
+                >
+                  {e.related.label}
+                  <span
+                    class="ab-ms__arrow ab-ms__arrow--fwd"
+                    aria-hidden="true"
+                  >
+                    →
+                  </span>
+                </a>
+              )}
+            </p>
+          </li>
+        ))
+      }
+      <li class="ab-ms__stop ab-ms__stop--now">
+        <p class="ab-ms__date">{tk('about.timeline.ongoing.date')}</p>
+        <h3 class="ab-ms__title">
+          <a
+            class="ab-ms__main"
+            href="#tl-ongoing"
+            data-ga-section="about_origin"
+            data-ga-label="milestone_ongoing"
+          >
+            {tk('about.timeline.ongoing.title')}
+          </a>
+        </h3>
+        <p class="ab-ms__actions">
+          <span class="ab-ms__read" aria-hidden="true">
+            {s('about.milestones.read')}
+            <span class="ab-ms__arrow">↓</span>
+          </span>
+        </p>
+      </li>
+    </ol>
+  </div>
+</div>
+
+<script>
+  // 卡片那一排滑到哪張，軸上對應的圓點就亮起來；左右鍵一次滑一張。
+  function initMilestones() {
+    const root = document.querySelector<HTMLElement>('[data-ab-ms]');
+    if (!root) return;
+    const track = root.querySelector<HTMLElement>('[data-ms-track]');
+    const controls = root.querySelector<HTMLElement>('[data-ms-controls]');
+    const prev = root.querySelector<HTMLButtonElement>('[data-ms-prev]');
+    const next = root.querySelector<HTMLButtonElement>('[data-ms-next]');
+    const indexEl = root.querySelector<HTMLElement>('[data-ms-index]');
+    if (!track || !controls || !prev || !next) return;
+    const cards = Array.from(track.children) as HTMLElement[];
+    const dots = Array.from(
+      root.querySelectorAll<HTMLElement>('[data-ms-dot]'),
+    );
+    controls.hidden = false;
+
+    const reduce = () =>
+      window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    const isRow = () => track.scrollWidth > track.clientWidth + 4;
+
+    let active = -1;
+    const setActive = (i: number) => {
+      if (i === active) return;
+      active = i;
+      dots.forEach((d, di) => d.classList.toggle('is-active', di === i));
+      cards.forEach((c, ci) => c.classList.toggle('is-active', ci === i));
+      if (indexEl) indexEl.textContent = String(i + 1);
+    };
+
+    // 目前最靠近那一排起點的卡（RTL 時起點在右邊）
+    const nearest = () => {
+      const tr = track.getBoundingClientRect();
+      const rtl = getComputedStyle(track).direction === 'rtl';
+      const origin = rtl ? tr.right : tr.left;
+      let best = 0;
+      let bestDist = Infinity;
+      cards.forEach((c, i) => {
+        const r = c.getBoundingClientRect();
+        const dist = Math.abs((rtl ? r.right : r.left) - origin);
+        if (dist < bestDist) {
+          bestDist = dist;
+          best = i;
+        }
+      });
+      return best;
+    };
+
+    const update = () => {
+      const row = isRow();
+      controls.hidden = !row;
+      if (!row) {
+        setActive(-1);
+        return;
+      }
+      const i = nearest();
+      setActive(i);
+      const atEnd =
+        Math.abs(track.scrollLeft) + track.clientWidth >= track.scrollWidth - 4;
+      prev.disabled = Math.abs(track.scrollLeft) < 4;
+      next.disabled = atEnd;
+    };
+
+    const go = (delta: number) => {
+      const i = Math.max(0, Math.min(cards.length - 1, nearest() + delta));
+      cards[i].scrollIntoView({
+        behavior: reduce() ? 'auto' : 'smooth',
+        block: 'nearest',
+        inline: 'start',
+      });
+    };
+    prev.addEventListener('click', () => go(-1));
+    next.addEventListener('click', () => go(1));
+
+    let ticking = false;
+    track.addEventListener(
+      'scroll',
+      () => {
+        if (ticking) return;
+        ticking = true;
+        requestAnimationFrame(() => {
+          ticking = false;
+          update();
+        });
+      },
+      { passive: true },
+    );
+    window.addEventListener('resize', update, { passive: true });
+
+    // 滑鼠移到或鍵盤走到哪張卡，就亮哪個點
+    cards.forEach((c, i) => {
+      c.addEventListener('pointerenter', () => {
+        if (isRow()) {
+          dots.forEach((d, di) => d.classList.toggle('is-active', di === i));
+        }
+      });
+      c.addEventListener('pointerleave', () => {
+        dots.forEach((d, di) => d.classList.toggle('is-active', di === active));
+      });
+      c.addEventListener('focusin', () => {
+        if (isRow()) {
+          dots.forEach((d, di) => d.classList.toggle('is-active', di === i));
+        }
+      });
+    });
+
+    update();
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initMilestones);
+  } else {
+    initMilestones();
+  }
+</script>
+
+<style>
+  .ab-ms {
+    --ms-dot: 0.75rem;
+    --ms-card: clamp(14.5rem, 22vw, 16rem);
+    --ms-line: var(--ab-rule-strong);
+  }
+
+  /* ── 比例軸 ─────────────────────────────────────────────── */
+  .ab-ms__axis-wrap {
+    margin: 0;
+  }
+  .ab-ms__axis {
+    position: relative;
+    block-size: 3.75rem;
+  }
+  .ab-ms__year,
+  .ab-ms__month {
+    position: absolute;
+    inset-block-start: 0;
+    font-family: var(--font-interface);
+    font-size: 0.6875rem;
+    font-variant-numeric: tabular-nums;
+    letter-spacing: 0.04em;
+    line-height: 1;
+    color: var(--color-ink-soft);
+    white-space: nowrap;
+  }
+  .ab-ms__year {
+    inset-inline-start: 0;
+    font-weight: 700;
+    color: var(--color-ink);
+  }
+  .ab-ms__month {
+    inset-block-start: 1.125rem;
+    inset-inline-start: var(--x);
+    padding-inline-start: 0.375rem;
+  }
+  /* 月份的分隔線 */
+  .ab-ms__month::before {
+    content: '';
+    position: absolute;
+    inset-inline-start: 0;
+    inset-block-start: -0.125rem;
+    inline-size: 1px;
+    block-size: 2.25rem;
+    background: var(--ab-rule);
+  }
+  .ab-ms__line {
+    position: absolute;
+    inset-inline: 0;
+    inset-block-end: 0.75rem;
+    block-size: 1px;
+    background: var(--ms-line);
+  }
+  .ab-ms__tick {
+    position: absolute;
+    inset-inline-start: var(--x);
+    inset-block-end: calc(0.75rem - 0.375rem);
+    inline-size: 1px;
+    block-size: 0.75rem;
+    background: var(--color-ink-soft);
+    opacity: 0.7;
+  }
+  .ab-ms__dot,
+  .ab-ms__now {
+    position: absolute;
+    inset-inline-start: var(--x);
+    inset-block-end: calc(0.75rem - var(--ms-dot) / 2);
+    inline-size: var(--ms-dot);
+    block-size: var(--ms-dot);
+    margin-inline-start: calc(var(--ms-dot) / -2);
+    border-radius: 50%;
+    background: var(--ab-brand);
+    box-shadow: 0 0 0 2px var(--ab-section-bg);
+    transition:
+      scale 0.25s ease,
+      background-color 0.25s ease;
+  }
+  .ab-ms__dot.is-active {
+    scale: 1.7;
+    background: var(--ab-heading);
+    z-index: 1;
+  }
+  .ab-ms__now {
+    background: var(--ab-section-bg);
+    box-shadow:
+      inset 0 0 0 2px var(--ab-brand),
+      0 0 0 2px var(--ab-section-bg);
+  }
+  .ab-ms__caption {
+    margin: 0.625rem 0 0;
+    max-inline-size: 60%;
+    font-family: var(--font-interface);
+    font-size: 0.75rem;
+    line-height: 1.6;
+    color: var(--color-ink-soft);
+  }
+
+  /* ── 里程碑卡：橫向一排 ─────────────────────────────────── */
+  .ab-ms__viewport {
+    position: relative;
+    margin-block-start: var(--ab-gap-m);
+    margin-inline: calc(var(--ab-inner-pad) * -1);
+  }
+  .ab-ms__controls:not([hidden]) + .ab-ms__viewport {
+    margin-block-start: 0;
+  }
+  .ab-ms__track {
+    position: relative;
+    display: flex;
+    gap: 0;
+    margin: 0;
+    padding: 0.5rem var(--ab-inner-pad) 1rem;
+    list-style: none;
+    overflow-x: auto;
+    overscroll-behavior-x: contain;
+    scroll-snap-type: x mandatory;
+    scroll-padding-inline: var(--ab-inner-pad);
+    scrollbar-width: thin;
+    scrollbar-color: var(--ab-rule-strong) transparent;
+  }
+  .ab-ms__track:focus-visible {
+    outline: 2px solid var(--color-accent);
+    outline-offset: 2px;
+  }
+
+  .ab-ms__stop {
+    position: relative;
+    flex: 0 0 var(--ms-card);
+    display: flex;
+    flex-direction: column;
+    padding-block-start: 1.75rem;
+    padding-inline-end: var(--space-5);
+    scroll-snap-align: start;
+  }
+  /* 每張卡頂上的那一段線：連起來就是一條時間線 */
+  .ab-ms__stop::before {
+    content: '';
+    position: absolute;
+    inset-inline: 0;
+    inset-block-start: calc(var(--ms-dot) / 2);
+    block-size: 1px;
+    background: var(--ms-line);
+  }
+  .ab-ms__stop::after {
+    content: '';
+    position: absolute;
+    inset-inline-start: 0;
+    inset-block-start: 0;
+    inline-size: var(--ms-dot);
+    block-size: var(--ms-dot);
+    border-radius: 50%;
+    background: var(--ab-brand);
+    box-shadow: 0 0 0 3px var(--ab-section-bg);
+    transition: scale 0.25s ease;
+  }
+  .ab-ms__stop.is-active::after {
+    scale: 1.35;
+    background: var(--ab-heading);
+  }
+  .ab-ms__stop--now {
+    padding-inline-end: 0;
+  }
+  .ab-ms__stop--now::before {
+    inset-inline-end: auto;
+    inline-size: 0;
+  }
+  .ab-ms__stop--now::after {
+    background: var(--ab-section-bg);
+    box-shadow:
+      inset 0 0 0 2px var(--ab-brand),
+      0 0 0 3px var(--ab-section-bg);
+  }
+
+  .ab-ms__date {
+    margin: 0 0 0.5rem;
+    font-family: var(--font-interface);
+    font-size: 0.8125rem;
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+    letter-spacing: 0.04em;
+    line-height: 1.4;
+    color: var(--ab-brand);
+  }
+
+  .ab-ms__title {
+    margin: 0;
+    font-family: var(--font-reading);
+    font-size: 1.0625rem;
+    font-weight: 600;
+    line-height: 1.6;
+    letter-spacing: 0;
+    color: var(--color-ink);
+  }
+  .ab-ms__main {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    line-clamp: 3;
+    overflow: hidden;
+    padding: 0;
+    border: 0;
+    color: inherit;
+    text-decoration: none;
+  }
+  /* 整張卡都是這個連結的觸控區 */
+  .ab-ms__main::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+  }
+  .ab-ms__main:focus-visible {
+    outline: none;
+  }
+  .ab-ms__stop:has(.ab-ms__main:focus-visible) {
+    outline: 2px solid var(--color-accent);
+    outline-offset: 4px;
+    border-radius: 8px;
+  }
+  .ab-ms__stop:hover .ab-ms__title {
+    color: var(--ab-brand);
+  }
+
+  .ab-ms__actions {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0 var(--space-4);
+    margin: 0.375rem 0 0;
+    font-family: var(--font-interface);
+    font-size: 0.8125rem;
+    font-weight: 600;
+  }
+  .ab-ms__read {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    min-block-size: 44px;
+    color: var(--color-ink-soft);
+  }
+  .ab-ms__stop:hover .ab-ms__read {
+    color: var(--ab-brand);
+  }
+  .ab-ms__related {
+    position: relative;
+    z-index: 1;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    min-block-size: 44px;
+    padding: 0;
+    border: 0;
+    color: var(--ab-brand);
+    text-decoration: none;
+  }
+  .ab-ms__related:hover {
+    color: var(--color-ink);
+  }
+  .ab-ms__arrow {
+    display: inline-block;
+  }
+  :global([dir='rtl']) .ab-ms__arrow--fwd,
+  :global([dir='rtl']) .ab-ms__arrow--back {
+    scale: -1 1;
+  }
+
+  /* ── 左右鍵 ── */
+  /* 跟圖說同一列，靠在列尾 */
+  .ab-ms__controls {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 0.5rem;
+    margin-block: -1.75rem var(--ab-gap-s);
+  }
+  .ab-ms__controls[hidden] {
+    display: none;
+  }
+  .ab-ms__btn {
+    display: grid;
+    place-items: center;
+    inline-size: 44px;
+    block-size: 44px;
+    border: 1px solid var(--ab-rule-strong);
+    border-radius: 50%;
+    background: var(--ab-surface);
+    color: var(--color-ink);
+    font-size: 1rem;
+    cursor: pointer;
+    transition:
+      border-color 0.2s ease,
+      color 0.2s ease;
+  }
+  .ab-ms__btn:hover:not(:disabled) {
+    border-color: var(--ab-brand);
+    color: var(--ab-brand);
+  }
+  .ab-ms__btn:disabled {
+    opacity: 0.35;
+    cursor: default;
+  }
+  .ab-ms__count {
+    min-inline-size: 3.5rem;
+    font-family: var(--font-interface);
+    font-size: 0.8125rem;
+    font-variant-numeric: tabular-nums;
+    text-align: center;
+    color: var(--color-ink-soft);
+  }
+
+  /* ── 手機：直向 ─────────────────────────────────────────── */
+  @media (max-width: 720px) {
+    .ab-ms__axis-wrap {
+      display: none;
+    }
+    .ab-ms__controls {
+      display: none;
+    }
+    .ab-ms__viewport,
+    .ab-ms__controls:not([hidden]) + .ab-ms__viewport {
+      margin-block-start: 0;
+      margin-inline: 0;
+    }
+    .ab-ms__track {
+      flex-direction: column;
+      padding: 0;
+      overflow: visible;
+      scroll-snap-type: none;
+    }
+    .ab-ms__stop {
+      flex: 0 0 auto;
+      padding-block: 0 var(--space-4);
+      padding-inline: 1.75rem 0;
+    }
+    /* 線改到起始側，直的 */
+    .ab-ms__stop::before {
+      inset-inline: calc(var(--ms-dot) / 2) auto;
+      inset-block: 0.5rem 0;
+      inline-size: 1px;
+      block-size: auto;
+    }
+    .ab-ms__stop::after {
+      inset-block-start: 0.3rem;
+    }
+    .ab-ms__stop--now::before {
+      display: none;
+    }
+    .ab-ms__stop--now {
+      padding-block-end: 0;
+    }
+    .ab-ms__main {
+      -webkit-line-clamp: 3;
+      line-clamp: 3;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .ab-ms__dot,
+    .ab-ms__stop::after,
+    .ab-ms__btn {
+      transition: none;
+    }
+  }
+</style>
