@@ -26,6 +26,10 @@ rationale:
   whos_pushing_back: 'डेमोक्रेटिक प्रोग्रेसिव पार्टी की आधिकारिक कथा पार्टी प्रतिबंध को तोड़ने की नायकता पर अधिक जोर दे सकती है, और संस्था का इतिहास पाठकों को याद दिलाता है कि सत्ता-वृद्धि चुनाव, मार्शल लॉ और हिंसक दमन की कमजोरियाँ तब भी मौजूद थीं। लेख दोनों दृष्टिकोण को एक साथ रखता है, यह बताता है कि दल गठन कैसे राजनीतिक सफलता था, और यह अधूरे संस्थाओं में कानूनी आधार की तलाश में कैसे थी।'
 readingTime: 16
 curation: incubating
+image: '/article-images/society/grand-hotel-taipei.webp'
+imageCredit: 'Bdavis545 / Wikimedia Commons'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_The_Grand_Hotel.jpg'
 translatedFrom: 'Society/民主進步黨成立.md'
 sourceCommitSha: '13c7fbcdb'
 sourceContentHash: 'sha256:5074137d0b0c4812'

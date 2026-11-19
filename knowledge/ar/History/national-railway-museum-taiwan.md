@@ -19,9 +19,13 @@ lastHumanReview: false
 readingTime: 11
 curation: 'incubating'
 curationReason: 'unverified'
+image: '/article-images/history/taipei-railway-workshop-front.webp'
+imageCredit: 'Solomon203 / Wikimedia Commons'
+imageLicense: 'CC BY 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Taipei_Railway_Workshop_front_view_20100618.jpg'
 translatedFrom: 'History/國家鐵道博物館.md'
-sourceCommitSha: 'ef8369eef'
-sourceContentHash: 'sha256:1c8f6297e9dffc4e'
+sourceCommitSha: '9fdf9570'
+sourceContentHash: 'sha256:b5d3f9d97da3ea9e'
 sourceBodyHash: 'sha256:4502c5630968c2b9'
 translatedAt: '2026-11-05T15:29:13+08:00'
 ---

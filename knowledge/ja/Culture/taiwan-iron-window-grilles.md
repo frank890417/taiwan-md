@@ -15,6 +15,10 @@ rationale:
   where_it_hedges: '公共建築窗花的設計寓意若缺乏原始檔案，只標示為地方流傳，不寫成確定史實。'
   whos_pushing_back: '保存鐵窗花可能與採光、通風、安全、產權和更新需求衝突，文章保留屋主、工匠與修繕者的不同考量。'
 readingTime: 8
+image: '/article-images/culture/beitun-houses-window-grills.webp'
+imageCredit: 'Dquai / Wikimedia Commons'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Houses_with_window_grills_in_Beitun.jpg'
 translatedFrom: 'Culture/鐵窗花.md'
 sourceCommitSha: 'ec3d660ca'
 sourceContentHash: 'sha256:1888ffac8016e710'

@@ -1732,6 +1732,11 @@ export interface HeroImageInfo {
   src?: string;
   /** 樣板組好的來源字串（已 i18n、已 escape），只在正文那張沒圖說時掛上 */
   creditHtml?: string;
+  /**
+   * frontmatter.imageSource。封面是收進庫的本地檔、正文卻還是同一張圖的 Wikimedia
+   * 熱連結時，兩邊路徑對不起來，要靠「是不是同一個 Commons 檔案」來認（見 commonsFileKey）。
+   */
+  sourceUrl?: string;
 }
 
 const _HERO_IMG_TAG = /<img\b[^>]*\bsrc\s*=\s*["']([^"']+)["'][^>]*>/gi;
@@ -1781,14 +1786,50 @@ function bodyImageHasOwnCaption(
   return /^\s*<p>\s*<em[\s>]/i.test(html.slice(close + 4, close + 48));
 }
 
+/**
+ * Wikimedia Commons 檔案的身分：檔案頁（File:）、Special:FilePath、upload.wikimedia.org
+ * 的原檔與各種寬度縮圖，指的都是同一個檔案，收成同一個 key（解碼、底線當空白、小寫）。
+ * 不是 Commons 網址回空字串。
+ *
+ * 2026-11-19 封面健檢：133 篇正文裡的圖是 Commons 熱連結，把其中一張收進庫當封面之後，
+ * 封面是 /article-images/…、正文是 upload.wikimedia.org/…，路徑比對認不出是同一張，
+ * 文章開頭會連出兩次。只改 frontmatter（不動正文，譯本才不必重翻），所以在這裡認。
+ */
+export function commonsFileKey(url?: string): string {
+  let s = String(url || '')
+    .trim()
+    .split(/[?#]/)[0];
+  if (!s) return '';
+  let name = '';
+  const page = s.match(
+    /commons\.wikimedia\.org\/wiki\/(?:File:|Image:|Special:FilePath\/|Special:Redirect\/file\/)(.+)$/i,
+  );
+  const upload = s.match(
+    /upload\.wikimedia\.org\/wikipedia\/commons\/(?:thumb\/)?[0-9a-f]\/[0-9a-f]{2}\/([^/]+)/i,
+  );
+  if (page) name = page[1];
+  else if (upload) name = upload[1];
+  if (!name) return '';
+  try {
+    name = decodeURIComponent(name);
+  } catch {
+    /* 壞掉的 escape sequence：維持原字 */
+  }
+  return name.replace(/_/g, ' ').normalize('NFC').toLowerCase();
+}
+
 function dedupeHeroImage(html: string, hero?: HeroImageInfo) {
   const target = normalizeImageSrc(hero?.src);
   if (!target) return { html, heroImageInBody: false };
+  const targetCommons = commonsFileKey(hero?.sourceUrl);
 
   _HERO_IMG_TAG.lastIndex = 0;
   let m: RegExpExecArray | null;
   while ((m = _HERO_IMG_TAG.exec(html)) !== null) {
-    if (normalizeImageSrc(m[1]) !== target) continue;
+    const samePath = normalizeImageSrc(m[1]) === target;
+    const sameCommonsFile =
+      !!targetCommons && commonsFileKey(m[1]) === targetCommons;
+    if (!samePath && !sameCommonsFile) continue;
 
     // 太深就不讓位：這張已經是文章中段的插圖，不是開頭那張的重複
     const blocksAbove = (html.slice(0, m.index).match(_BLOCK_TAG) || []).length;

@@ -17,10 +17,13 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-17
 lastHumanReview: false
-imageNote: '原 Wikimedia 卡片圖（Kazehayashi，CC BY-SA 4.0，File:TRA_E405_with_Future_passenger_cars_at_Taitung_Station_20210117.jpg）2026-09-05 收庫時連續四次 HTTP 429 未抓到，授權已核實可收，待重跑 image-ingest.mjs 補圖'
 curation: 'incubating'
+image: '/article-images/lifestyle/tra-e405-future-train.webp'
+imageCredit: 'Kazehayashi / Wikimedia Commons'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:TRA_E405_with_Future_passenger_cars_at_Taitung_Station_20210117.jpg'
 translatedFrom: 'Lifestyle/台鐵鳴日號.md'
-sourceCommitSha: 'e974b4c9e'
+sourceCommitSha: '9fdf9570'
 sourceContentHash: 'sha256:692645244e391abd'
 sourceBodyHash: 'sha256:28f054608fa81e22'
 translatedAt: '2026-09-08T00:42:59+08:00'

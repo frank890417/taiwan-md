@@ -26,8 +26,12 @@ rationale:
   whos_pushing_back: '民進黨官方敘事可能更強調突破黨禁的英雄性，制度史研究則會提醒讀者當時仍存在增額選舉、戒嚴與動員戡亂限制。文章並置兩種視角，說明組黨既是政治突破，也是在未完成制度中尋找合法性。'
 readingTime: 16
 curation: 'incubating'
+image: '/article-images/society/grand-hotel-taipei.webp'
+imageCredit: 'Bdavis545 / Wikimedia Commons'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_The_Grand_Hotel.jpg'
 translatedFrom: 'Society/民主進步黨成立.md'
-sourceCommitSha: '13c7fbcdb'
+sourceCommitSha: '9fdf9570'
 sourceContentHash: 'sha256:23cebf6a8b8bd2b2'
 sourceBodyHash: 'sha256:35243ed7adf1417f'
 translatedAt: '2026-09-23T04:15:46+08:00'

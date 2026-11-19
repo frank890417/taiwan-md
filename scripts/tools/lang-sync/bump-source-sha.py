@@ -249,6 +249,17 @@ def bump_one(target_md: Path, new_sha: str, new_content_hash: str, new_body_hash
     return True
 
 
+def load_zh_list(path: str) -> set[str]:
+    """--zh-list 的檔案：一行一個 zh 路徑，或 cover-ingest 那種 JSON 清單（每筆有 article）。
+    回傳去掉 `knowledge/` 前綴的路徑集合，跟 status.json 的 byArticle key 同一種寫法。"""
+    text = Path(path).read_text(encoding="utf-8")
+    if text.lstrip().startswith("["):
+        items = [e["article"] for e in json.loads(text)]
+    else:
+        items = [l.strip() for l in text.splitlines() if l.strip() and not l.startswith("#")]
+    return {i.removeprefix("knowledge/") for i in items}
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--apply", action="store_true")
@@ -264,6 +275,11 @@ def main():
                           "fields over (2026-11-19; skips paths dirty in the work tree)")
     ap.add_argument("--limit", type=int, default=0,
                      help="process at most N targets (dry-run sampling before a full apply)")
+    ap.add_argument("--zh-list", default=None,
+                     help="only bump translations of the zh articles listed in this file (one path per "
+                          "line, `knowledge/Food/擂茶.md` or `Food/擂茶.md`; a JSON manifest with "
+                          "`article` keys also works). For a PR that changed only some zh frontmatter "
+                          "(2026-11-19 cover batches): bump those, leave the rest of the backlog alone")
     ap.add_argument("--list-out", default=None,
                      help="write bumped target paths (one per line) to this file")
     args = ap.parse_args()
@@ -278,6 +294,10 @@ def main():
         for t in targets:
             t["via"] = "metadata-stale"
         print(f"📋 {len(targets)} metadata-stale translation(s) to bump")
+    zh_only = load_zh_list(args.zh_list) if args.zh_list else None
+    if zh_only is not None:
+        targets = [t for t in targets if t["zh_path"].removeprefix("knowledge/") in zh_only]
+        print(f"📋 --zh-list：{len(zh_only)} zh article(s) listed → {len(targets)} translation(s) in scope")
     if args.limit > 0:
         targets = targets[: args.limit]
     bumped_paths: list[str] = []
@@ -285,6 +305,8 @@ def main():
     if args.include_punct_only:
         print("🔍 checking `stale` entries for punctuation-only zh diffs (semantic-noop-check.py)...")
         punct_targets = find_punct_only_stale(status, args.lang)
+        if zh_only is not None:
+            punct_targets = [t for t in punct_targets if t["zh_path"].removeprefix("knowledge/") in zh_only]
         print(f"📋 {len(punct_targets)} punct-only-stale translation(s) additionally eligible")
         targets += punct_targets
 

@@ -18,8 +18,12 @@ lastVerified: 2026-08-17
 lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
+image: '/article-images/food/jiuqutang-pineapple-cannery.webp'
+imageCredit: 'Pbdragonwang / Wikimedia Commons'
+imageLicense: 'CC BY 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:%E4%B9%9D%E6%9B%B2%E5%A0%82%E6%B3%B0%E8%8A%B3%E5%95%86%E6%9C%83%E9%B3%B3%E6%A2%A8%E7%BD%90%E8%A9%B0%E5%B7%A5%E5%A0%B4.JPG'
 translatedFrom: 'Food/鳳梨罐頭.md'
-sourceCommitSha: '6886602d6'
+sourceCommitSha: '9fdf9570'
 sourceContentHash: 'sha256:2db6d7675892d196'
 sourceBodyHash: 'sha256:e6375c12b05a0b30'
 translatedAt: '2026-09-11T10:07:11+08:00'

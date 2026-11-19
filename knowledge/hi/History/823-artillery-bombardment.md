@@ -19,9 +19,13 @@ lastHumanReview: false
 readingTime: 12
 curation: 'incubating'
 curationReason: 'unverified'
+image: '/article-images/history/august-23-artillery-battle-museum-2016.webp'
+imageCredit: '翁維德 (Wei-Te Wong) / Wikimedia Commons'
+imageLicense: 'CC BY-SA 2.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Aug.23_Artillery_Battle_Museum_20160620.jpg'
 translatedFrom: 'History/823砲戰.md'
-sourceCommitSha: 'ef8369eef'
-sourceContentHash: 'sha256:ce4c525b32d53370'
+sourceCommitSha: '9fdf9570'
+sourceContentHash: 'sha256:9d19f83707f318f6'
 sourceBodyHash: 'sha256:d4d1f058fca35e5e'
 translatedAt: '2026-11-05T07:56:37.758678+00:00'
 ---

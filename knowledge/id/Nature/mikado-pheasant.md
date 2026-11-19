@@ -19,8 +19,12 @@ lastVerified: 2026-08-14
 lastHumanReview: false
 readingTime: 9
 curation: 'incubating'
+image: '/article-images/nature/mikado-pheasant-male-taiwan.webp'
+imageCredit: 'pondhawk / Wikimedia Commons'
+imageLicense: 'CC BY 2.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Syrmaticus_mikado_male_Taiwan.jpg'
 translatedFrom: 'Nature/帝雉.md'
-sourceCommitSha: '0b38889d6'
+sourceCommitSha: '9fdf9570'
 sourceContentHash: 'sha256:585807acc89b5597'
 sourceBodyHash: 'sha256:f114fc7180bbb45a'
 translatedAt: '2026-09-12T19:57:13+08:00'

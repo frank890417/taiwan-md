@@ -23,8 +23,12 @@ lastVerified: 2026-08-21
 lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
+image: '/article-images/lifestyle/leofoo-village-little-rattler.webp'
+imageCredit: 'Roller Coaster Philosophy / Wikimedia Commons'
+imageLicense: 'CC BY 2.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Little_Rattler_Leofoo_Village_Theme_Park.jpg'
 translatedFrom: 'Lifestyle/六福村.md'
-sourceCommitSha: '13c7fbcdb'
+sourceCommitSha: '9fdf9570'
 sourceContentHash: 'sha256:e4d0887ad2be656b'
 sourceBodyHash: 'sha256:185b659b9a1b47ea'
 translatedAt: '2026-09-11T03:33:24+08:00'

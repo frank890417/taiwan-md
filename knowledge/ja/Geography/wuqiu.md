@@ -10,8 +10,12 @@ featured: false
 lastVerified: 2026-06-25
 lastHumanReview: false
 curation: 'incubating'
+image: '/article-images/geography/wuqiu-lighthouse.webp'
+imageCredit: 'Kechinyuan / Wikimedia Commons'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:%E7%83%8F%E5%9D%B5%E7%99%BE%E5%B9%B4%E7%87%88%E5%A1%941.jpg'
 translatedFrom: 'Geography/烏坵.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: '9fdf9570'
 sourceContentHash: 'sha256:2935ce10538c2b78'
 sourceBodyHash: 'sha256:79946e3edca12d9c'
 translatedAt: '2026-08-06T07:38:32+08:00'

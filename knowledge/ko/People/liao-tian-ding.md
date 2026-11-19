@@ -16,6 +16,10 @@ evolveHistory:
   - date: 2026-11-04
     action: 'seo'
     reason: 'SC 28 天 4,089 曝光 16 點擊（0.39%），主查詢「廖添丁」3,499 曝光排第 1.1 只有 10 點擊；description 只有 66 字，補足長度，前半句先答他是誰、哪個年代、為何被叫義賊。結果頁版位未人工檢視'
+image: '/article-images/people/liao-tianding-wanted-order-1909.webp'
+imageCredit: '臺灣總督府 / Wikimedia Commons'
+imageLicense: 'Public domain'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Liao_Tianding_Wanted_Order.jpg'
 translatedFrom: 'People/廖添丁.md'
 sourceCommitSha: '3b7782fae'
 sourceContentHash: 'sha256:304ddcc5326d0203'

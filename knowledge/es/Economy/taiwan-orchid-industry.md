@@ -19,8 +19,12 @@ lastVerified: 2026-08-20
 lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
+image: '/article-images/economy/phalaenopsis-tainan-orchid-show.webp'
+imageCredit: '阿橋 HQ / Wikimedia Commons'
+imageLicense: 'CC BY-SA 2.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%9D%B4%E8%9D%B6%E8%98%AD_Phalaenopsis_Taisuco_Kobold_-%E5%8F%B0%E5%8D%97%E5%9C%8B%E9%9A%9B%E8%98%AD%E5%B1%95_Taiwan_International_Orchid_Show-_(39129452540).jpg'
 translatedFrom: 'Economy/台灣蘭花.md'
-sourceCommitSha: 'ff8ab4d4d'
+sourceCommitSha: '9fdf9570'
 sourceContentHash: 'sha256:38a4067994051318'
 sourceBodyHash: 'sha256:14e97ff0df91ded4'
 translatedAt: '2026-11-07T00:12:56.079569+00:00'

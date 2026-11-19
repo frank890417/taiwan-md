@@ -19,9 +19,13 @@ lastVerified: 2026-08-16
 lastHumanReview: false
 readingTime: 15
 curation: 'incubating'
+image: '/article-images/culture/truku-people-mori-ushinosuke.webp'
+imageCredit: '森丑之助 / Wikimedia Commons'
+imageLicense: 'Public domain'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Truku_people.jpg'
 translatedFrom: 'Culture/太魯閣族.md'
-sourceCommitSha: 'dac70d5dd'
-sourceContentHash: 'sha256:1130fbcabd739dd6'
+sourceCommitSha: '9fdf9570'
+sourceContentHash: 'sha256:601fbc1440f3599a'
 sourceBodyHash: 'sha256:48f17c615e02c664'
 translatedAt: '2026-09-12T04:16:56+08:00'
 ---

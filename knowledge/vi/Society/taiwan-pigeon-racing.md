@@ -16,8 +16,12 @@ rationale:
   whos_pushing_back: 'Những người yêu thích bồ câu coi trọng công bằng thi đấu và kỹ thuật nuôi dạy, các nhóm bảo vệ động vật yêu cầu giảm rủi ro bay xa và thiết lập cơ chế trách nhiệm. Bài viết duy trì sự căng thẳng giữa hai bên, không sáng tác vị trí cho bên nào.'
 readingTime: 10
 curation: incubating
+image: '/article-images/society/homing-pigeon-portrait.webp'
+imageCredit: 'Andreas Trepte / Wikimedia Commons'
+imageLicense: 'CC BY-SA 2.5'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Homing_pigeon.jpg'
 translatedFrom: 'Society/賽鴿.md'
-sourceCommitSha: 'a7bf511aa'
+sourceCommitSha: '9fdf9570'
 sourceContentHash: 'sha256:f56149ea65f8ae88'
 sourceBodyHash: 'sha256:03d653f96edfb95d'
 translatedAt: '2026-09-09T15:01:50+08:00'

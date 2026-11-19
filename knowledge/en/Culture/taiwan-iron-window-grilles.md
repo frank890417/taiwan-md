@@ -25,8 +25,12 @@ rationale:
 readingTime: 8
 curation: 'incubating'
 curationReason: 'unverified'
+image: '/article-images/culture/beitun-houses-window-grills.webp'
+imageCredit: 'Dquai / Wikimedia Commons'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Houses_with_window_grills_in_Beitun.jpg'
 translatedFrom: 'Culture/鐵窗花.md'
-sourceCommitSha: 'be13f0452'
+sourceCommitSha: '9fdf9570'
 sourceContentHash: 'sha256:def335d4114c8b87'
 sourceBodyHash: 'sha256:fc143e859b0c1c51'
 translatedAt: '2026-11-19T10:32:40+08:00'

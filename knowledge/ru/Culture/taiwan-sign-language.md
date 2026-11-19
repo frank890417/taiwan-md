@@ -18,9 +18,13 @@ lastVerified: 2026-08-16
 lastHumanReview: false
 researchReport: 'reports/research/2026-08/台灣手語.md'
 curation: 'incubating'
+image: '/article-images/culture/sign-language-teaching-taipei-2007.webp'
+imageCredit: 'Rico Shen / Wikimedia Commons'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:2007TaipeiOlympicDayRun_Deaflympics2009_SignLanguage.jpg'
 translatedFrom: 'Culture/台灣手語.md'
-sourceCommitSha: '88c8f03b3'
-sourceContentHash: 'sha256:01678a90a6beb87a'
+sourceCommitSha: '9fdf9570'
+sourceContentHash: 'sha256:b51109d5c425b6fe'
 sourceBodyHash: 'sha256:4eaa3ae985aa0bf5'
 translatedAt: '2026-09-12T02:30:21+08:00'
 ---

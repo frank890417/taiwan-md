@@ -17,8 +17,12 @@ rationale:
   whos_pushing_back: '支持道路優先或質疑單一路線效益的讀者，可從公車替代性與轉乘缺口檢驗本文觀點。'
 readingTime: 8
 curation: 'incubating'
+image: '/article-images/geography/taichung-mrt-train-near-hsr-station-2020.webp'
+imageCredit: 'Cheng-en Cheng / Wikimedia Commons'
+imageLicense: 'CC BY-SA 2.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:2020-11-20_MRT_train_near_HSR_Taichung_Station_(Taichung_Metro).jpg'
 translatedFrom: 'Geography/台中捷運.md'
-sourceCommitSha: 'd9ef16d5e'
+sourceCommitSha: '9fdf9570'
 sourceContentHash: 'sha256:9851afbe3b082508'
 sourceBodyHash: 'sha256:9e4ce2561244c6a9'
 translatedAt: '2026-09-23T02:11:56.993662+00:00'

@@ -18,9 +18,13 @@ lastVerified: 2026-08-15
 lastHumanReview: false
 readingTime: 10
 curation: 'incubating'
+image: '/article-images/politics/presidential-office-building-taipei.webp'
+imageCredit: 'Peellden / Wikimedia Commons'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:TaipeiROCPresidentialOfficeBuilding.jpg'
 translatedFrom: 'Politics/第一次總統直選.md'
-sourceCommitSha: '0939ae849'
-sourceContentHash: 'sha256:3c956f717d68030c'
+sourceCommitSha: '9fdf9570'
+sourceContentHash: 'sha256:ea2ca70c7a97b179'
 sourceBodyHash: 'sha256:086061fa27edc0cb'
 translatedAt: '2026-10-23T15:43:56.064609+00:00'
 ---

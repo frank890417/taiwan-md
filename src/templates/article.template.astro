@@ -278,7 +278,11 @@ const { fullHtml, splitIndex, heroImageInBody } = renderArticleHtml(
   title,
   content,
   lang,
-  { src: frontmatter.image, creditHtml: heroCreditHtml },
+  {
+    src: frontmatter.image,
+    creditHtml: heroCreditHtml,
+    sourceUrl: frontmatter.imageSource,
+  },
 );
 
 const hasSSoDT =

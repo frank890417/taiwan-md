@@ -12,9 +12,13 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 curationReason: 'unverified'
+image: '/article-images/economy/central-bank-roc-main-building-2023.webp'
+imageCredit: 'Yu tptw / Wikimedia Commons'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Central_Bank_of_ROC_Main_Building_20230510.jpg'
 translatedFrom: 'Economy/新台幣.md'
-sourceCommitSha: 'ef8369eef'
-sourceContentHash: 'sha256:62c8b035ec5c889f'
+sourceCommitSha: '9fdf9570'
+sourceContentHash: 'sha256:82ff83a5974bef45'
 sourceBodyHash: 'sha256:f0e09241a66b11bc'
 translatedAt: '2026-11-06T20:29:34.678156+00:00'
 ---

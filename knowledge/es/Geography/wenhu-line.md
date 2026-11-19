@@ -19,8 +19,12 @@ lastVerified: 2026-08-21
 lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
+image: '/article-images/geography/wenhu-line-val256-zhongxiao-fuxing.webp'
+imageCredit: 'Lokseng01 / Wikimedia Commons'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:A_Taipei_Metro_VAL_256_train_on_Wenhu_Line_at_Zhongxiao_Fuxing_Station.jpg'
 translatedFrom: 'Geography/文湖線.md'
-sourceCommitSha: '13c7fbcdb'
+sourceCommitSha: '9fdf9570'
 sourceContentHash: 'sha256:29a9bdcb5a7c80ff'
 sourceBodyHash: 'sha256:e1f4ab46f62a48fb'
 translatedAt: '2026-09-11T04:29:34+08:00'

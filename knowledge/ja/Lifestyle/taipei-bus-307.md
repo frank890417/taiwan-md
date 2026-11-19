@@ -16,8 +16,12 @@ rationale:
   whos_pushing_back: '捷運分流、營運公司更替與路線調整，讓 307 的「公車之王」稱號必須放回年份理解。'
 readingTime: 8
 curation: 'incubating'
+image: '/article-images/lifestyle/capital-bus-route-307.webp'
+imageCredit: '捷利 / Wikimedia Commons'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:%E9%A6%96%E9%83%BD%E5%AE%A2%E9%81%8BEAA-150_307.jpg'
 translatedFrom: 'Lifestyle/307taipeibus.md'
-sourceCommitSha: '13c7fbcdb'
+sourceCommitSha: '9fdf9570'
 sourceContentHash: 'sha256:c1027a26b2054b2e'
 sourceBodyHash: 'sha256:48c6ab2b08ee901b'
 translatedAt: '2026-09-19T00:45:50+08:00'
