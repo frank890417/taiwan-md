@@ -21,8 +21,10 @@ Taiwan.md 用語詞庫交叉驗證工具 (Issue #288 Step 3)
   L3c. 差異太微小（只差一個字，或僅簡繁差異）
 
 使用方式：
-  python3 scripts/tools/terminology-yaml-audit.py [--dry-run]
-  --dry-run : 只報告，不刪除檔案
+  python3 scripts/tools/terminology-yaml-audit.py            # 只報告，不刪檔（預設）
+  python3 scripts/tools/terminology-yaml-audit.py --apply     # 真的刪掉第 1 層機械 cruft
+  --apply   : 執行刪除。沒給這個旗標一律只報告
+  --dry-run : 留給舊的呼叫方式，現在已經是預設，給了等於沒給
 """
 
 import os
@@ -41,7 +43,15 @@ from collections import defaultdict
 BASE_DIR = Path(__file__).resolve().parents[2]
 TERMINOLOGY_DIR = BASE_DIR / "data" / "terminology"
 REVIEW_OUTPUT = Path("/tmp/terminology-yaml-audit-review.md")
-DRY_RUN = "--dry-run" in sys.argv
+# 預設不刪檔（2026-11-19 twmd-maintainer-daily）：本檔原本預設就刪，名字又叫 audit，
+# 於是先後有三個 session 把它當唯讀工具跑下去、刪掉既有詞條——2026-08-30
+# spore-harvest-am 刪 10 筆、2026-11-18 α 一批、2026-11-19 maintainer 刪 19 筆，
+# 三次都當場用 git checkout 復原、三次都寫進 memory，而這一行一直沒有人改。
+# memory 是自律，預設值才是閘門（REFLEXES #15「反覆浮現要儀器化」、
+# #96「知識留在註解層沒有下沉到控制流」）。改成跟 terminology-apply.py、
+# inbox-audit.py、merge-divergence.py、curation-tag.py 同一個約定：要寫就加 --apply。
+APPLY = "--apply" in sys.argv
+DRY_RUN = not APPLY
 
 THUNDERKO_MARKERS = ["ThunderKO", "大陸用語檢索手冊"]
 
@@ -579,7 +589,8 @@ def main():
     
     actually_deleted = 0
     if DRY_RUN:
-        print(f"⚠️  DRY-RUN 模式：不實際刪除（共 {len(deleted_files)} 個）")
+        print(f"🛡️  預設不刪檔：第 1 層有 {len(deleted_files)} 個候選，這次一個都沒刪。")
+        print("    確認過清單真的要刪，才加 --apply 再跑一次。")
     else:
         for yaml_file, layer, reason, tw, cn in deleted_files:
             try:
@@ -620,7 +631,9 @@ def main():
     print()
     print(f"📄 人工審查清單：{REVIEW_OUTPUT}")
     if DRY_RUN:
-        print("⚠️  DRY-RUN 模式：未實際刪除任何檔案")
+        print("🛡️  本次沒有刪除任何檔案（這是預設行為）。要刪請加 --apply")
+    else:
+        print("⚠️  --apply 已指定：上面那些檔案真的被刪掉了，跑 git status 確認一眼")
     print()
 
 
