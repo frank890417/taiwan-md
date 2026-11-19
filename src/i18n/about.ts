@@ -492,10 +492,6 @@ export const aboutUI = {
     'about.faq.a9.html':
       'Content is licensed under <strong>CC BY-SA 4.0</strong> — free to share and adapt, including commercially, but you must give attribution and share derivatives under the same license. Code is under MIT License.',
 
-    'about.faq.q10': 'Does Taiwan.md accept sponsorship?',
-    'about.faq.a10.html':
-      "Monetary sponsorship is not in our current roadmap. We want to solidify the knowledge base's quality and community foundation first, without financial influence on content independence. Current partnership forms include: professional data partners (museums, research institutions), typography partners (e.g., JustFont), and core contributors. The best way to support Taiwan.md right now: write an article, fix an error, or share it with someone who wants to know Taiwan.",
-
     'about.sponsors.reference.note.html':
       'Reference models: <a href="https://coscup.org" target="_blank">COSCUP</a>, <a href="https://mopcon.org" target="_blank">MOPCON</a>, <a href="https://sitcon.org" target="_blank">SITCON</a>, <a href="https://g0v.tw" target="_blank">g0v</a> and other Taiwan tech community sponsorship models',
 
@@ -1080,10 +1076,6 @@ export const aboutUI = {
     'about.faq.a9.html':
       'コンテンツは <strong>CC BY-SA 4.0</strong> ライセンスの下で提供されています——商用利用を含め自由に共有・改変が可能ですが、出典の明記（Attribution）と同一ライセンスでの派生物公開（Share Alike）が必要です。コード部分は MIT License です。',
 
-    'about.faq.q10': 'Taiwan.md はスポンサーを受け付けている？',
-    'about.faq.a10.html':
-      '金銭的なスポンサーシップは現段階の計画に含まれていません。まずはナレッジベースの品質とコミュニティ基盤を固め、資金の介入によるコンテンツの独立性への影響を避けたいと考えています。現在受け入れているコラボレーション形態：専門データパートナー（博物館、研究機関）、タイポグラフィパートナー（例：JustFont）、コアコントリビューター。今 Taiwan.md を支援する最も価値ある方法は：記事を書くこと、誤りを修正すること、台湾を知りたい誰かにシェアすることです。',
-
     'about.sponsors.reference.note.html':
       '参考モデル：<a href="https://coscup.org" target="_blank">COSCUP</a>、<a href="https://mopcon.org" target="_blank">MOPCON</a>、<a href="https://sitcon.org" target="_blank">SITCON</a>、<a href="https://g0v.tw" target="_blank">g0v</a> など台湾テックコミュニティのスポンサーモデル',
 
@@ -1584,10 +1576,6 @@ export const aboutUI = {
     'about.faq.q9': '상업적으로 사용할 수 있나요? 라이선스는 무엇인가요?',
     'about.faq.a9.html':
       'Taiwan.md의 콘텐츠는 <strong>CC BY-SA 4.0</strong> 라이선스입니다 — 자유롭게 공유하고 변형할 수 있으며, 상업적 사용도 가능하지만, 출처를 표기(Attribution)하고 동일한 라이선스로 공유(Share Alike)해야 합니다. 코드는 MIT License입니다.',
-
-    'about.faq.q10': 'Taiwan.md는 후원을 받나요?',
-    'about.faq.a10.html':
-      '금전적 후원은 현재 단계 계획에 없습니다. 지금은 지식 베이스의 품질과 커뮤니티 기반을 먼저 단단히 다지고, 자금 유입이 콘텐츠 독립성에 영향을 주지 않기를 바랍니다. 현재 수용하는 협업 형태: 전문 자료 파트너(박물관, 연구 기관), 서체 파트너(예: JustFont), 핵심 기여자. Taiwan.md를 지원하는 가장 가치 있는 방법은 지금: 문서 하나를 쓰거나, 오류 하나를 수정하거나, 대만을 알고 싶어하는 누군가에게 공유하는 것입니다.',
 
     'about.sponsors.reference.note.html':
       '참고 사례: <a href="https://coscup.org" target="_blank">COSCUP</a>, <a href="https://mopcon.org" target="_blank">MOPCON</a>, <a href="https://sitcon.org" target="_blank">SITCON</a>, <a href="https://g0v.tw" target="_blank">g0v</a> 등 대만 기술 커뮤니티의 후원 모델',
@@ -2098,10 +2086,6 @@ export const aboutUI = {
       'Có thể sử dụng cho mục đích thương mại không? Giấy phép là gì?',
     'about.faq.a9.html':
       'Nội dung của Taiwan.md được cấp phép theo <strong>CC BY-SA 4.0</strong> — có thể tự do chia sẻ và chuyển thể, có thể sử dụng cho mục đích thương mại, nhưng phải ghi rõ nguồn (Attribution) và bản chuyển thể phải được phát hành theo cùng giấy phép (Share Alike). Phần mã nguồn sử dụng MIT License.',
-
-    'about.faq.q10': 'Taiwan.md có tiếp nhận tài trợ không?',
-    'about.faq.a10.html':
-      'Tài trợ bằng tiền hiện chưa nằm trong kế hoạch của giai đoạn này. Trước mắt, chúng tôi mong muốn củng cố chất lượng kho tri thức và nền tảng cộng đồng, không muốn sự can thiệp của nguồn vốn ảnh hưởng đến tính độc lập của nội dung. Các hình thức hợp tác hiện được tiếp nhận gồm: đối tác dữ liệu chuyên môn (bảo tàng, cơ quan nghiên cứu), đối tác phông chữ (như JustFont), cộng tác viên nòng cốt. Nếu bạn muốn ủng hộ Taiwan.md, cách có giá trị nhất lúc này là: viết một bài, sửa một lỗi hoặc chia sẻ dự án với một người muốn tìm hiểu về Đài Loan.',
 
     'about.sponsors.reference.note.html':
       'Các trường hợp tham khảo: mô hình tài trợ của các cộng đồng công nghệ Đài Loan như <a href="https://coscup.org" target="_blank">COSCUP</a>, <a href="https://mopcon.org" target="_blank">MOPCON</a>, <a href="https://sitcon.org" target="_blank">SITCON</a>, <a href="https://g0v.tw" target="_blank">g0v</a>',
@@ -2617,10 +2601,6 @@ export const aboutUI = {
     'about.faq.a9.html':
       'Konten Taiwan.md dilisensikan berdasarkan <strong>CC BY-SA 4.0</strong>—bebas dibagikan dan diadaptasi serta dapat digunakan untuk tujuan komersial, tetapi wajib mencantumkan sumber (Attribution) dan hasil adaptasinya harus dirilis dengan lisensi yang sama (Share Alike). Bagian kode menggunakan MIT License.',
 
-    'about.faq.q10': 'Apakah Taiwan.md menerima sponsor?',
-    'about.faq.a10.html':
-      'Sponsor dalam bentuk dana saat ini belum termasuk dalam rencana tahap ini. Pada tahap sekarang, kami ingin terlebih dahulu memperkuat kualitas basis pengetahuan dan fondasi komunitas, serta tidak ingin keterlibatan dana memengaruhi independensi konten. Bentuk kerja sama yang saat ini diterima meliputi: mitra data profesional (museum, lembaga penelitian), mitra fon (seperti JustFont), dan kontributor inti. Jika Anda ingin mendukung Taiwan.md, cara yang paling bernilai saat ini adalah: menulis sebuah artikel, memperbaiki sebuah kesalahan, atau membagikannya kepada seseorang yang ingin mengenal Taiwan.',
-
     'about.sponsors.reference.note.html':
       'Contoh referensi: model sponsor komunitas teknologi Taiwan seperti <a href="https://coscup.org" target="_blank">COSCUP</a>、<a href="https://mopcon.org" target="_blank">MOPCON</a>、<a href="https://sitcon.org" target="_blank">SITCON</a>、<a href="https://g0v.tw" target="_blank">g0v</a>',
 
@@ -3133,10 +3113,6 @@ export const aboutUI = {
     'about.faq.a9.html':
       'O conteúdo do Taiwan.md é licenciado sob a <strong>CC BY-SA 4.0</strong> — você pode compartilhá-lo, adaptá-lo e usá-lo comercialmente, mas deve indicar a fonte (Atribuição), e as adaptações devem ser publicadas sob a mesma licença (CompartilhaIgual). O código é licenciado sob a MIT License.',
 
-    'about.faq.q10': 'O Taiwan.md aceita patrocínios?',
-    'about.faq.a10.html':
-      'No momento, patrocínios financeiros não fazem parte dos planos. Nesta fase, queremos primeiro consolidar a qualidade da base de conhecimento e os alicerces da comunidade, sem permitir que a entrada de recursos afete a independência do conteúdo. As formas de colaboração aceitas atualmente incluem: parceiros especializados em dados (museus e instituições de pesquisa), parceiros de fontes tipográficas (como a JustFont) e colaboradores principais. Se você quiser apoiar o Taiwan.md, as formas mais valiosas agora são: escrever um artigo, corrigir um erro ou compartilhá-lo com alguém que queira conhecer Taiwan.',
-
     'about.sponsors.reference.note.html':
       'Casos de referência: os modelos de patrocínio de comunidades tecnológicas de Taiwan, como <a href="https://coscup.org" target="_blank">COSCUP</a>, <a href="https://mopcon.org" target="_blank">MOPCON</a>, <a href="https://sitcon.org" target="_blank">SITCON</a> e <a href="https://g0v.tw" target="_blank">g0v</a>',
 
@@ -3647,10 +3623,6 @@ export const aboutUI = {
     'about.faq.a9.html':
       'Taiwan.md की सामग्री <strong>CC BY-SA 4.0</strong> लाइसेंस के तहत उपलब्ध है——इसे स्वतंत्र रूप से साझा और रूपांतरित किया जा सकता है तथा व्यावसायिक उपयोग भी किया जा सकता है, लेकिन स्रोत का उल्लेख (Attribution) करना और रूपांतरित सामग्री को समान लाइसेंस (Share Alike) के तहत जारी करना अनिवार्य है। कोड वाले हिस्से पर MIT License लागू होता है।',
 
-    'about.faq.q10': 'क्या Taiwan.md प्रायोजन स्वीकार करता है？',
-    'about.faq.a10.html':
-      'वित्तीय प्रायोजन फिलहाल हमारी चरणबद्ध योजना में शामिल नहीं है। इस चरण में हम पहले ज्ञानकोश की गुणवत्ता और सामुदायिक आधार को सुदृढ़ करना चाहते हैं और नहीं चाहते कि धन की भागीदारी सामग्री की स्वतंत्रता को प्रभावित करे। वर्तमान में स्वीकार्य सहयोग के रूपों में शामिल हैं：विशेषज्ञ डेटा साझेदार（संग्रहालय、अनुसंधान संस्थान）、फ़ॉन्ट साझेदार（जैसे JustFont）、प्रमुख योगदानकर्ता। यदि आप Taiwan.md का समर्थन करना चाहते हैं, तो अभी सबसे उपयोगी तरीका है：एक लेख लिखें、किसी त्रुटि को सुधारें、या इसे ऐसे व्यक्ति के साथ साझा करें जो ताइवान को जानना चाहता हो।',
-
     'about.sponsors.reference.note.html':
       'संदर्भ उदाहरण：<a href="https://coscup.org" target="_blank">COSCUP</a>、<a href="https://mopcon.org" target="_blank">MOPCON</a>、<a href="https://sitcon.org" target="_blank">SITCON</a>、<a href="https://g0v.tw" target="_blank">g0v</a> जैसे ताइवान के तकनीकी समुदायों के प्रायोजन मॉडल',
 
@@ -4142,10 +4114,6 @@ export const aboutUI = {
     'about.faq.q9': 'هل يمكن الاستخدام التجاري؟ ما هي الترخيص؟',
     'about.faq.a9.html':
       'تستخدم محتوى Taiwan.md ترخيص <strong>CC BY-SA 4.0</strong> — يمكنك المشاركة والتعديل بحرية، واستخدامه تجاريًا، ولكن يجب الإشارة إلى المصدر (Attribution) ويجب إصدار التعديلات بنفس الترخيص (Share Alike). الجزء البرمجي يستخدم ترخيص MIT License.',
-
-    'about.faq.q10': 'هل يقبل Taiwan.md التبرعات؟',
-    'about.faq.a10.html':
-      'التبرعات المالية ليست ضمن الخطط الحالية. في هذه المرحلة، نريد ترسيخ جودة قاعدة المعرفة والأساس المجتمعي أولاً، ولا نريد أن يؤثر التدخل المالي على استقلالية المحتوى. أشكال التعاون المقبولة حاليًا تشمل: شركاء في البيانات المتخصصة (المتاحف، المؤسسات البحثية)، شركاء في الخطوط (مثل JustFont)، المساهمين الأساسيين. إذا كنت تريد دعم Taiwan.md، فإن أكثر الطرق قيمة الآن هي: كتابة مقال، تصحيح خطأ، أو مشاركته مع شخص يريد التعرف على تايوان.',
 
     'about.sponsors.reference.note.html':
       'أمثلة مرجعية: <a href="https://coscup.org" target="_blank">COSCUP</a>، <a href="https://mopcon.org" target="_blank">MOPCON</a>، <a href="https://sitcon.org" target="_blank">SITCON</a>، <a href="https://g0v.tw" target="_blank">g0v</a> وغيرها من نماذج الدعم المجتمعي التقني في تايوان',
@@ -4655,10 +4623,6 @@ export const aboutUI = {
       'Можно ли использовать в коммерческих целях? Какая лицензия?',
     'about.faq.a9.html':
       'Контент Taiwan.md лицензирован по <strong>CC BY-SA 4.0</strong> — его можно свободно распространять и адаптировать, в том числе в коммерческих целях, но необходимо указывать авторство (Attribution), а производные работы должны распространяться на тех же условиях (Share Alike). Исходный код лицензирован по MIT License.',
-
-    'about.faq.q10': 'Принимает ли Taiwan.md спонсорские взносы?',
-    'about.faq.a10.html':
-      'Денежные спонсорские взносы в настоящее время не входят в план развития. На данном этапе мы хотим укрепить качество базы знаний и основу сообщества, не допуская влияния финансовых вливаний на независимость контента. В настоящее время мы принимаем следующие формы сотрудничества: партнёры по профессиональным данным (музеи, исследовательские институты), партнёры по шрифтам (например, JustFont), ключевые участники. Если вы хотите поддержать Taiwan.md, самый ценный способ сейчас — написать статью, исправить ошибку или поделиться этим с тем, кто хочет узнать о Тайване.',
 
     'about.sponsors.reference.note.html':
       'Примеры: <a href="https://coscup.org" target="_blank">COSCUP</a>, <a href="https://mopcon.org" target="_blank">MOPCON</a>, <a href="https://sitcon.org" target="_blank">SITCON</a>, <a href="https://g0v.tw" target="_blank">g0v</a> и другие модели спонсорства тайваньских технологических сообществ',
@@ -5180,10 +5144,6 @@ export const aboutUI = {
     'about.faq.a9.html':
       'Die Inhalte von Taiwan.md stehen unter der Lizenz <strong>CC BY-SA 4.0</strong> – sie dürfen frei geteilt, bearbeitet und kommerziell genutzt werden, sofern die Quelle genannt wird (Attribution) und Bearbeitungen unter derselben Lizenz veröffentlicht werden (Share Alike). Für den Programmcode gilt die MIT License.',
 
-    'about.faq.q10': 'Nimmt Taiwan.md finanzielle Unterstützung an?',
-    'about.faq.a10.html':
-      'Finanzielle Unterstützung ist derzeit nicht vorgesehen. In dieser Phase möchten wir zunächst die Qualität der Wissensdatenbank und das Fundament der Community festigen. Finanzielle Interessen sollen die inhaltliche Unabhängigkeit nicht beeinträchtigen. Derzeit kommen folgende Formen der Zusammenarbeit infrage: professionelle Datenpartner (Museen, Forschungseinrichtungen), Schriftpartner (wie JustFont) und zentrale Mitwirkende. Wenn du Taiwan.md unterstützen möchtest, ist der wertvollste Beitrag derzeit: einen Artikel schreiben, einen Fehler korrigieren oder Taiwan.md mit jemandem teilen, der Taiwan kennenlernen möchte.',
-
     'about.sponsors.reference.note.html':
       'Referenzbeispiele: die Unterstützungsmodelle taiwanischer Technik-Communitys wie <a href="https://coscup.org" target="_blank">COSCUP</a>, <a href="https://mopcon.org" target="_blank">MOPCON</a>, <a href="https://sitcon.org" target="_blank">SITCON</a> und <a href="https://g0v.tw" target="_blank">g0v</a>',
 
@@ -5669,10 +5629,6 @@ export const aboutUI = {
     'about.faq.q9': '可以商業使用嗎？授權是什麼？',
     'about.faq.a9.html':
       'Taiwan.md 的內容採用 <strong>CC BY-SA 4.0</strong> 授權——可以自由分享和改編、可以商業使用，但必須標示來源（Attribution）且改編後必須用相同授權釋出（Share Alike）。程式碼部分採用 MIT License。',
-
-    'about.faq.q10': 'Taiwan.md 接受贊助嗎？',
-    'about.faq.a10.html':
-      '金錢贊助目前不在階段計畫中。現階段我們希望先把知識庫的品質和社群基礎穩固下來，不希望因為資金介入而影響內容的獨立性。目前接受的合作形式包括：專業資料夥伴（博物館、研究機構）、字體夥伴（如 JustFont）、核心貢獻者。如果你想支持 Taiwan.md，現在最有價值的方式是：寫一篇文章、修正一個錯誤、或把它分享給一個想認識台灣的人。',
 
     'about.sponsors.reference.note.html':
       '參考案例：<a href="https://coscup.org" target="_blank">COSCUP</a>、<a href="https://mopcon.org" target="_blank">MOPCON</a>、<a href="https://sitcon.org" target="_blank">SITCON</a>、<a href="https://g0v.tw" target="_blank">g0v</a> 等台灣技術社群的贊助模式',
@@ -6182,9 +6138,6 @@ export const aboutUI = {
       'Puis-je utiliser le contenu commercialement ? Quelle est la licence ?',
     'about.faq.a9.html':
       "Le contenu est sous licence <strong>CC BY-SA 4.0</strong> — libre de partage et d'adaptation, y compris à des fins commerciales, mais vous devez créditer la source et partager les dérivés sous la même licence. Le code est sous licence MIT.",
-    'about.faq.q10': 'Taiwan.md accepte-t-il le parrainage ?',
-    'about.faq.a10.html':
-      "Le parrainage monétaire ne fait pas partie de notre feuille de route actuelle. Nous voulons d'abord consolider la qualité de la base de connaissances et les fondations communautaires, sans influence financière sur l'indépendance du contenu. Les formes de partenariat actuelles incluent : partenaires de données professionnels (musées, institutions de recherche), partenaires typographiques (par ex. JustFont) et contributeurs principaux. La meilleure façon de soutenir Taiwan.md en ce moment : écrire un article, corriger une erreur, ou le partager avec quelqu'un qui veut connaître Taiwan.",
     'about.sponsors.reference.note.html':
       'Modèles de référence : <a href="https://coscup.org" target="_blank">COSCUP</a>, <a href="https://mopcon.org" target="_blank">MOPCON</a>, <a href="https://sitcon.org" target="_blank">SITCON</a>, <a href="https://g0v.tw" target="_blank">g0v</a> et d\'autres modèles de parrainage de la communauté tech taïwanaise',
     'about.timeline.2026-06-01.date': '2026 / 06 / 01',
@@ -6626,9 +6579,6 @@ export const aboutUI = {
       '¿Puedo usar el contenido comercialmente? ¿Cuál es la licencia?',
     'about.faq.a9.html':
       'El contenido está licenciado bajo <strong>CC BY-SA 4.0</strong> — libre para compartir y adaptar, incluyendo comercialmente, pero debes dar atribución y compartir las obras derivadas bajo la misma licencia. El código está bajo Licencia MIT.',
-    'about.faq.q10': '¿Taiwan.md acepta patrocinio?',
-    'about.faq.a10.html':
-      'El patrocinio monetario no está en nuestra hoja de ruta actual. Queremos consolidar primero la calidad de la base de conocimiento y la comunidad, sin influencia financiera en la independencia del contenido. Las formas actuales de asociación incluyen: socios de datos profesionales (museos, instituciones de investigación), socios de tipografía (ej. JustFont), y colaboradores principales. La mejor manera de apoyar Taiwan.md ahora: escribe un artículo, corrige un error, o compártelo con alguien que quiera conocer Taiwán.',
     'about.sponsors.reference.note.html':
       'Modelos de referencia: <a href="https://coscup.org" target="_blank">COSCUP</a>, <a href="https://mopcon.org" target="_blank">MOPCON</a>, <a href="https://sitcon.org" target="_blank">SITCON</a>, <a href="https://g0v.tw" target="_blank">g0v</a> y otros modelos de patrocinio de la comunidad tecnológica de Taiwán',
     'about.timeline.2026-06-01.date': '2026 / 06 / 01',
