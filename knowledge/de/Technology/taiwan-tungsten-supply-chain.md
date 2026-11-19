@@ -38,11 +38,13 @@ sporeLinks:
     date: '2026-07-26'
     url: 'https://x.com/taiwandotmd/status/2081354251016773702'
 relatedDiary: ['2026-07-26-202803-manual']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣鎢供應鏈.md'
-sourceCommitSha: '1ec0df23b'
-sourceContentHash: 'sha256:8cca491527e42676'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:f862d9031f5510e4'
 sourceBodyHash: 'sha256:2a3eeab3f4aa2cb2'
-translatedAt: '2026-11-02T05:40:35.506077+00:00'
+translatedAt: '2026-11-19T03:35:44.353171+00:00'
 ---
 
 # Wolfram: Taiwan besitzt keine Wolframminen, veredelt aber Pulver, das die ganze Welt benötigt – eine Position, die fragiler ist als gedacht
@@ -204,11 +206,12 @@ Ein Wolframdraht muss auf über 2.200 Grad Celsius erhitzt werden, um zu leuchte
 
 ## Weiterführende Literatur
 
-- [Halbleiterindustrie](/de/technology/taiwan-semiconductor-industry) — Die Rolle von Wolfram in Chips: Ein kleiner Abschnitt im 50-jährigen Fluss der Materialrevolution
-- [Taiwanische Unternehmen: TSMC](/de/economy/tsmc) — Wohin das in Pingtung raffinierte Natriumwolframat letztlich fließt
-- [Taiwans Außenhandel und globale Lieferketten](/de/economy/taiwan-foreign-trade-and-global-supply-chain) — Taiwans langfristige Lage als Knotenpunkt und gleichzeitig als Schwachstelle in den Lieferketten anderer Nationen
-- [Stromversorgung und Halbleiter in Taiwan](/de/technology/taiwan-electricity-and-semiconductors) — Eine weitere Ressource auf der Insel, die knapp ist, aber den „Schutzgott der Nation“ stützt
-- [Taiwanische Robotik-Industrie](/de/technology/taiwan-robotics-industry) — Die nächste Station des Präzisionsmaschinen-Clusters in Dadu Mountain
+- [Lieferkettenkarte](/industry/supply-chain-map/) — Halbleiter, KI-Server, Wolfram – drei Ketten, Glied für Glied: welche Unternehmen in Taiwan sitzen, welches Glied auf das Ausland angewiesen ist
+- [Halbleiterindustrie](/de/technology/taiwan-semiconductor-industry) — Wolfram in der Chip-Struktur – ein kleiner Abschnitt in diesem 50-jährigen Strom der Materialrevolution
+- [Taiwanesische Unternehmen: TSMC](/de/economy/tsmc) — Wohin das in Pingtung raffinierte Natriumwolframat am Ende fließt
+- [Taiwans Außenhandel und globale Lieferketten](/de/economy/taiwan-foreign-trade-and-global-supply-chain) — Taiwans langfristige Position als gleichzeitig Knoten und Lücke in fremden Ketten
+- [Taiwans Stromversorgung und Halbleiter](/de/technology/taiwan-electricity-and-semiconductors) — Eine weitere Ressource, die auf der Insel knapp ist, aber den „heiligen Berg der Landesverteidigung“ stützt
+- [Taiwans Robotikindustrie](/de/technology/taiwan-robotics-industry) — Die nächste Station des Präzisionsmaschinen-Clusters am Dadu-Berg
 
 ## Bildquellen
 

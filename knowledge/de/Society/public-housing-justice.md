@@ -53,11 +53,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-06-06'
     url: 'https://x.com/taiwandotmd/status/2063165712261390793'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/國宅與居住正義.md'
-sourceCommitSha: '4ee896bcb'
-sourceContentHash: 'sha256:058a2707437b6293'
-sourceBodyHash: 'sha256:8b7dd2352a89e936'
-translatedAt: '2026-10-13T02:52:20.017790+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:aab8147d38e7da5e'
+sourceBodyHash: 'sha256:72dccf40750266ac'
+translatedAt: '2026-11-19T04:56:09.761066+00:00'
 ---
 
 # Nationalwohnungen und Wohnungsgerechtigkeit: Die billigen Häuser, die der Staat baute, wurden am Ende zu wessen Vermögens-Leiter?
@@ -270,47 +272,48 @@ In der Verordnung für erschwingliche Wohnungen sind drei Anti-Spekulations-Schl
 
 Doch kaum taucht dieser Weg auf, stößt er schon mit der Zentralregierung zusammen.
 
-## Kaufen oder mieten: Der Streit zwischen Zentral- und Lokalregierung
+## Kaufen oder mieten: Der Schlagabtausch zwischen Zentralregierung und Lokalbehörden
 
-Die Haltung des Innenministeriums ist eindeutig: Der Verkauf an sich ist problematisch. Vize-Minister Dong Jianhong zweifelt diese Richtung direkt an. Er sagt: „Wenn erschwingliche Wohnungen als Eigentumswohnungen konzipiert sind, können relativ gesehen weniger Menschen versorgt werden“, und „im Prozess des freien Weiterverkaufs entstehen Eigentumsstreitigkeiten und nachfolgende Verwaltungsprobleme.“[^24] Er fordert eine Rückkehr zum Geist des „Wohnungsgesetzes“, wonach Sozialwohnungen „nur vermietet, nicht verkauft“ werden sollen. In einfacher Sprache bedeutet das: Sobald ein Haus verkauft wird, geht es als öffentlicher Bestand einmalig verloren; anstatt sich Gedanken darüber zu machen, „was nach dem Verkauf passiert“, ist es besser, gar nicht erst zu verkaufen und die Wohnungen für immer in staatlicher Hand zu behalten und zu vermieten.
+Die Haltung des Innenministeriums ist eindeutig: Der Verkauf an sich sei problematisch. Staatssekretär Tung Chien-hung stellte diesen Ansatz direkt infrage. Er sagte: „Wenn bezahlbarer Wohnraum als Verkaufswohnungen konzipiert wird, können im Verhältnis weniger Bürger versorgt werden“, zudem würden „der freie Weiterverkauf zu Streitigkeiten über Eigentumsrechte und nachfolgenden Problemen bei der Verwaltung führen“.[^24] Er plädierte dafür, zum Geist des Wohnungsgesetzes (_Housing Act_) zurückzukehren, wonach Sozialwohnungen „nur zur Miete, nicht zum Verkauf“ bestimmt sind. Einfach ausgedrückt bedeutet dies die Position des Innenministeriums: Sobald Häuser verkauft werden, geht öffentlicher Bestand unwiederbringlich verloren. Anstatt nach Wegen zu suchen, wie man den „Verkauf und das, was danach geschieht“, reglementiert, sollte man den Verkauf von vornherein unterlassen, damit die Immobilien dauerhaft in staatlicher Hand bleiben und vermietet werden können.
 
-Was beide Seiten vortragen, sind im Grunde zwei verschiedene Vorstellungen von Wohnungsgerechtigkeit.
+Beide Seiten sprechen im Grunde über zwei unterschiedliche Konzepte von sozialer Gerechtigkeit beim Wohnen.
 
-Die Antwort aus Taoyuan zielt darauf ab, diesen Entweder-oder-Rahmen zu durchbrechen. Der Leiter des Taoyuaner Stadtentwicklungsbüros, Jiang Nan-zhi, sagt: „Die Förderung von Wohnungsgerechtigkeit sollte nicht in die einseitige Logik einer ‚2-aus-1-Wahl‘ geraten.“[^25] Bürgermeister Zhang Shan-zheng begab sich am 4. Juni 2026 persönlich zum Exekutiv-Yuan, um dafür zu werben, Taoyuans erschwingliche Wohnungen in die Zentralpolitik aufzunehmen. Laut Medienberichten beschrieb er erschwingliche Wohnungen und Sozialwohnungen als die „beiden Flügel“ der Wohnpolitik, die sich ergänzen statt zu konkurrieren: Manche wollen kaufen, andere können nur mieten – beide Bedürfnisse sollten jeweils aufgefangen werden, man sollte nicht zu einer Entweder-oder-Entscheidung zwingen.[^26]
+Die Antwort aus Taoyuan war der Versuch, diesen binären Rahmen aufzubrechen. Jiang Nan-chih, Direktor des Stadtplanungsamtes von Taoyuan, sagte: „Die Förderung der sozialen Gerechtigkeit beim Wohnen sollte nicht in die einseitige Logik eines ‚Entweder-oder‘ verfallen.“[^25] Bürgermeister Chang Shan-cheng reiste am 4. Juni 2026 persönlich zum Exekutiv-Yuan, um zu fordern, dass der bezahlbare Wohnraum in Taoyuan in die Zentralpolitik integriert wird. Medienberichten zufolge beschrieb er bezahlbaren Wohnraum und Sozialwohnungen als die „zwei Flügel“ der Wohnungspolitik – sie ergänzen sich, anstatt miteinander zu konkurrieren: Diejenigen, die kaufen wollen, und diejenigen, die nur mieten können, sollen beide durch unterschiedliche Angebote abgedeckt werden; man dürfe die Menschen nicht zur Entscheidung zwischen beiden Optionen zwingen.[^26]
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/iEEqhfmwEzs" title="承諾13萬戶大縮水！為何社宅政策大轉彎｜天下雜誌 8分鐘看懂天下 Ep.74" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/iEEqhfmwEzs" title="承諾13萬戶大縮水！為何社說政策大轉彎｜天下雜誌 8分鐘看懂天下 Ep.74" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Offizielles Programm von CommonWealth Magazine: Warum die von der Lai-Regierung versprochenen 130.000 direkt gebauten Sozialwohnungen stark geschrumpft sind – ein Blick auf die schwierige Lage der Wohnungsgerechtigkeit in Taiwan._
+_Offizielles Programm von Newsweek Taiwan: Warum das Versprechen der Regierung Lai über den Bau von 130.000 Sozialwohnungen massiv geschrumpft ist – eine Betrachtung der schwierigen Lage der sozialen Gerechtigkeit beim Wohnen in Taiwan._
 
-Der Exekutiv-Yuan lehnte diesmal nicht kategorisch ab. Premier Cho Jung-tai zeigte eine deutlich weichere Haltung, vetierte Taoyuans Vorgehen nicht, sondern hoffte lediglich, dass „die Politik von Zentral- und Lokalregierung aufeinander abgestimmt werden kann“.[^27] Eine vor elf Jahren abgeschaffte Politiklinie – mit der offiziellen Begründung, die „Eigenheimquote von 85 % sei erfüllt“ –, wurde nun von einer Lokalregierung wieder vor die Tür der Zentralregierung gebracht.
+Der Exekutiv-Yuan hat diesmal nicht kategorisch abgelehnt. Die Haltung des Premierministers Cho Jung-tai war sichtlich abgemildert; er lehnte das Vorgehen von Taoyuan nicht ab, sondern hoffte lediglich, dass „die Politik der Zentralregierung und der Lokalregierungen aufeinander abgestimmt werden könne“.[^27] Eine politische Linie, die elf Jahre lang eingestellt worden war und für die die offizielle Begründung bereits feststand – „die Aufgabe einer Eigenheimquote von 85 % ist erfüllt“ –, hat durch eine Lokalregierung plötzlich wieder die Türen der Zentralregierung aufgestoßen.
 
-![Zentraler Teil des Karl-Marx-Hof Sozialwohnbaus im 19. Wiener Bezirk, eine ganze Reihe turmartiger rot-gelber Fassaden, ein kilometerlanges städtisches Wohngebäude](/article-images/society/vienna-karl-marx-hof.webp)
-_Wiens Karl-Marx-Hof, 1933 fertiggestellt, wird bis heute von der Stadtverwaltung gehalten und nur vermietet, nicht verkauft. Hundert Jahre lang nicht verkaufen, und der Bestand bleibt für immer in öffentlicher Hand. Foto: C.Stadler/Bwag, CC BY-SA 4.0 via [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Döbling_(Wien)_-\_Karl-Marx-Hof_(2).JPG>).\_
+![Wiener Karl-Marx-Hof im 19. Bezirk, ein kilometerlanger Block aus städtischen Wohnungen mit einer Reihe von monumentalen rot-gelben Fassaden](/article-images/society/vienna-karl-marx-hof.webp)
+_Der Karl-Marx-Hof in Wien; seit seiner Fertigstellung 1933 im Besitz der Stadt und ausschließlich zur Miete verfügbar. Durch den Verzicht auf Verkauf über ein Jahrhundert hinweg bleibt der Bestand dauerhaft in öffentlicher Hand. Photo: C.Stadler/Bwag, CC BY-SA 4.0 via [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Döbling_(Wien)_-\_Karl-Marx-Hof_(2).JPG>).\_
 
-Bei diesem Zentral-Lokal-Konflikt geht es im Kern um eine Frage, die schon vor fünfzig Jahren beantwortet worden sein sollte, aber immer wieder umgangen wurde: Soll die Regierung den Menschen helfen, „sich kaufen zu können“, oder ihnen helfen, „sich mieten zu können“?
+In diesem Aufeinanderprallen von Zentralregierung und Lokalbehörden geht es im Kern um eine Frage, die eigentlich schon vor fünfzig Jahren hätte beantwortet werden müssen, die aber immer wieder umgangen wurde: Soll die Regierung den Menschen helfen, sich Wohneigentum „leistbar zu kaufen“ oder sich Miete „leistbar zu mieten“?
 
-## Fünfzig Jahre später lernt Taiwan endlich, jenes Tor zu installieren
+## Erst fünfzig Jahre später hat Taiwan gelernt, dieses Tor zu installieren
 
-Zurück zu jener Adresse in Chenggong Guozhai.
+Zurück zur Hausnummer des Chenggong-Sozialwohnprojekts (Guozhai).
 
-1985 gaben der damalige Dorfvorsteher Shi Zhongsheng und seine Frau ihre gesamten Ersparnisse zusammen, um die Anzahlung von NT$400.000 aufzubringen, und kauften ein Haus zu NT$67.000 pro Ping. Damals verkörperte Guozhai ein vollständiges Versprechen auf Wohnungsgerechtigkeit: Der Staat baute günstige Wohnungen, um Menschen, die sich keine leisten konnten, den Einstieg zu ermöglichen. Sein einziger Fehler war, am Ausgang kein Tor einzubauen: Niemand regelte, wie der Wertzuwachs aufgeteilt werden sollte, den das Haus künftig durch öffentliche Subventionen und die Lage erzielen würde. So kam es, dass vierzig Jahre später dieselbe Adresse fast eine Million NT$ pro Ping kostete – jene Anzahlung von damals reichte nicht einmal mehr für einen einzigen Ping. Die Leiter wurde jenen, die als Erste eingestiegen waren, stillschweigend weggezogen.
+Im Jahr 1985 opferten der alte Gemeindevorsteher Shi Zhong-sheng und seine Frau ihre gesamten Ersparnisse, um eine Anzahlung von NT$400.000 zu leisten und ein Haus für NT$67.000 pro Ping zu kaufen. Damals war das Guozhai-System ein vollständiges Versprechen auf soziale Wohnraumgerechtigkeit: Der Staat baute günstigen Wohnraum, um Menschen ohne ausreichendes Kapital den Einstieg in den Immobilienmarkt zu ermöglichen. Sein einziger Fehler war, vergessen zu haben, am Ausgang ein Tor zu installieren: Niemand legte fest, wie die Wertsteigerung dieser Immobilie – jene Differenz, die durch öffentliche Subventionen und die Lage entstand – künftig aufgeteilt werden sollte. So nähert sich der Preis für dieselbe Hausnummer vierzig Jahre später der Marke von einer Million NT$ pro Ping; die damalige Anzahlung würde heute nicht einmal mehr für einen einzigen Ping ausreichen. Die Leiter, die denjenigen half, die als Erste „eingestiegen“ sind, wurde ihnen still und heimlich unter den Füßen weggezogen.
 
-Hongkong nennt jenes Tor „Nachzahlung des Bodenpreises“, Großbritannien lernte um den Preis von 8 Billionen Pfund an Eigenkapital, dass es nicht darauf verzichten kann, und Singapur setzte zwar eine Hürde, doch sie blieb löchrig. Taiwan umging das Problem ganze fünfzig Jahre lang, riss 2002 sogar die einzige halbfertige Mauer eigenhändig nieder, und erst 2026 schaffte es endlich eine Lokalregierung, den Satz „Bei Weiterverkauf darf der Preis den ursprünglichen Kaufpreis nicht überschreiten“ in eine Verordnung namens „Erschwingliche Wohnungen“ zu schreiben. Genau jenes Tor, das Guozhai damals nicht eingebaut hatte und das Hongkong „Nachzahlung des Bodenpreises“ nennt.
+In Hongkong nennt man dieses Tor „Landpreis-Nachzahlung“ (Land Premium), Großbritannien lernte durch den Preis von Billionen an Eigenkapital, dass man es nicht weglassen darf, und Singapur hat zwar Hürden errichtet, doch es gibt immer noch Lücken. Taiwan hat volle fünfzig Jahre gebraucht; im Jahr 2002 wurde sogar die einzige halbierte Mauer eigenhändig eingerissen. Erst im Jahr 2026 hat endlich eine Lokalregierung die Worte „Wiederverkauf darf den ursprünglichen Kaufpreis nicht überschreiten“ in eine Verordnung namens „Bezahlbarer Wohnraum“ aufgenommen. Genau das ist jenes Tor, das beim Guozhai damals fehlte und das die Hongkonger als Landpreis-Nachzahlung bezeichnen.
 
-Das eigentliche Problem dieser Geschichte war also nie die Frage, „ob der Staat sich den Hausbau leisten kann“. Guozhai bewies, dass der Staat es kann, und Taoyuan bereitet sich vor, es erneut zu tun. Die wahre Frage ist: Wem gehört die Wertsteigerung, nachdem man „dir den Kauf ermöglicht hat“? Demjenigen, der als Erster eingestiegen ist, oder der nächsten Generation, die noch immer vor der Tür Schlange steht?
+Die eigentliche Frage dieser Geschichte war also nie: „Kann der Staat Wohnraum bauen?“ Das Guozhai hat bewiesen, dass der Staat es kann, und auch Taoyuan bereitet sich darauf vor, es erneut zu tun. Die wahre Frage ist: Wer erhält nach dem „Helfen beim Kauf“ den Anteil an der Wertsteigerung? Gehört er derjenigen Person, die als Erste eingestiegen ist, oder gehört er der nächsten Generation, die noch vor der Tür Schlange steht?
 
-Vielleicht ahnten jene, die an dem Tag, an dem der Taoyuaner Rat die dritte Lesung verabschiedete, auf den Abstimmungsknopf drückten, nicht, dass sie gleichzeitig den letzten Stein in jene Mauer legten, die fünfzig Jahre zuvor abgerissen worden war. Ob dieser Stein zu einer Rolltreppe wird, die nie wieder die Leiter einzieht, oder ob er erneut im Ringen zwischen Zentralregierung und Lokalregierung steckenbleibt, die der nächsten Adresse in Chenggong Guozhai wird die Antwort liefern.
+Diejenigen, die am Tag der dritten Lesung im Stadtrat von Taoyuan auf die Abstimmungstaste drückten, haben vielleicht nicht realisiert, dass sie gleichzeitig den letzten Stein für jene Mauer setzten, die vor fünfzig Jahren eingerissen wurde. Ob dieser Stein zu einer Rolltreppe wird, die keine Leitern mehr wegzieht, oder ob er erneut im Tauziehen zwischen Zentralregierung und Lokalverwaltung stecken bleibt, wird der Preis der nächsten Hausnummer des Chenggong-Sozialwohnprojekts für uns beantworten.
 
 ---
 
 **Weiterführende Literatur**:
 
-- [Sozialwohnungen und Wohnungsgerechtigkeit](/de/society/social-housing-and-housing-justice) — Der Weg der „nur vermieten, nicht verkaufen“-Sozialwohnungen nach 2016: 200.000 Haushalte in acht Jahren, doppelte Schiene aus Direktbau und Anmietverwaltung, wie gemischtes Wohnen verhindert, dass Sozialwohnungen stigmatisiert werden (Schwesterartikel dieses Textes, setzt die Geschichte nach dem Ende von Guozhai 2015 fort)
-- [Taiwans Geburtenkrise](/de/society/taiwan-low-birth-rate-crisis) — Sich keine Wohnung leisten zu können und keine Kinder bekommen zu können sind die beiden Enden desselben strukturellen Risses, ein weiterer Aspekt der Generationengerechtigkeit
-- [Wellblechhütten](/de/society/taiwan-tin-shed-houses) — Wenn man sich weder kaufen noch stabil mieten kann, wie Taiwaner sich mit der mühsamsten Methode selbst einen Zufluchtsort hinzubauen
-- [Umweltgerechtigkeit und NIMBY-Konflikte in Taiwan](/de/society/taiwan-environmental-justice-nimby-conflicts) — Wo Sozialwohnungen und unbeliebte Einrichtungen hingebaut werden sollen, die Schnittstelle von Wohnungsgerechtigkeit und räumlicher Gerechtigkeit
+- [Immobilienpreise, Hypotheken und das Programm für junge Käufer in Taiwan](/housing/) — Themenseite: Preis-Einkommens-Verhältnis bei Immobilien, Bedingungen für die „Qing'an“-Hypothek über drei Generationen und die Zeitlinie der achtzigjährigen Wohnungspolitik, inklusive Hypothekenrechner.
+- [Sozialer Wohnraum und soziale Wohnraumgerechtigkeit](/de/society/social-housing-and-housing-justice) — Der Kurs des „nur Mieten, nicht Verkaufen“ nach 2016: 200.000 Einheiten in acht Jahren, das Doppelspursystem aus Direktbau und Mietverwaltung sowie Designkonzepte zur Vermeidung der Stigmatisierung von Sozialwohnungen (ein Schwesterartikel zu diesem Text, der die Geschichte nach dem Ende des Guozhai-Systems im Jahr 2015 fortsetzt).
+- [Die Krise der Geburtenrate in Taiwan](/de/society/taiwan-low-birth-rate-crisis) — Unerschwinglicher Wohnraum und die Unfähigkeit, Kinder zu bekommen, sind zwei Enden desselben strukturellen Risses; eine weitere Facette der Generationengerechtigkeit.
+- [Wellblechhütten (Tiepiwu)](/de/society/taiwan-tin-shed-houses) — Wenn man weder kaufen noch sicher mieten kann: Wie Taiwaner auf schwierigste Weise versuchen, sich selbst einen Lebensraum anzubauen.
+- [Umweltgerechtigkeit und NIMBY-Konflikte in Taiwan](/de/society/taiwan-environmental-justice-nimby-conflicts) — Wo Sozialwohnungen oder ungeliebte Infrastruktureinrichtungen gebaut werden sollten; die Schnittstelle zwischen Wohnraumgerechtigkeit und räumlicher Gerechtigkeit.
 
 ## Offene Daten
 

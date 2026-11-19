@@ -1,13 +1,13 @@
 ---
-title: 'Das System der Dorf- und Viertelvorsteher: 7.748 gewählte Amtsträger, die unterste politische Einheit Taiwans'
-description: 'Das Büro um 5:30 Uhr morgens, 54.000 NT$ monatliche Verwaltungshilfe, über 60 % parteilos – Dorf- und Viertelvorsteher sind das „unpolitischste“ Amt Taiwans und zugleich der beste Beweis für die Demokratisierung des Landes.'
+title: 'Das System der Dorf- und Stadtviertelvorsteher: 7.748 gewählte Amtsträger, Taiwans unterste politische Einheit'
+description: 'Dorfvorsteher (Cunzhang) und Stadtviertelvorsteher (Lizhang) sind gewählte Amtsträger auf derselben Ebene, die sich lediglich in ihrem Zuständigkeitsbereich unterscheiden: In Landkreisen und Städten gibt es Dörfer, in regierten Städten und kreisfreien Städten gibt es Stadtviertel. Insgesamt gibt es in ganz Taiwan 7.748 dieser Funktionäre. Gemäß dem „Gesetz über lokale Verwaltungssysteme“ beträgt die Amtszeit vier Jahre; eine Wiederwahl ist ohne Begrenzung der Amtszeiten möglich. Die Wahlen finden alle vier Jahre im Rahmen der Kommunalwahlen statt, wobei der Wahltag für 2026 der 28. November ist. Das Amt des Dorf- oder Stadtviertelvorstehers ist ehrenamtlich; sie erhalten eine monatliche Verwaltungspauschale von NT$54.000, die nicht als Gehalt gilt. Über 60 % der Amtsinhaber gehören keiner politischen Partei an. Diese Position hat sich von dem während der japanischen Kolonialzeit eingeführten Baojia-System zur untersten gewählten Funktion in Taiwan entwickelt.'
 date: 2026-05-27
 category: 'Politics'
 tags:
   [
-    'Dorf- und Viertelvorsteher',
-    'lokale Selbstverwaltung',
-    'Gesetz über die lokale Verwaltung',
+    'Dorf- und Stadtviertelvorsteher',
+    'Lokale Selbstverwaltung',
+    'Gesetz über lokale Verwaltungssysteme',
     'Baojia-System der japanischen Kolonialzeit',
     'Wahlen 2026',
   ]
@@ -17,11 +17,17 @@ featured: false
 lastVerified: 2026-05-27
 lastHumanReview: false
 readingTime: 12
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 4,218 曝光 36 點擊（0.85%），查詢全是問句：「村長可以做幾任」55、「村長跟里長一樣嗎」44、「村長幾年選一次」37 曝光；description 第一句先答村里差別、任期四年連選得連任無上限'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Politics/村里長制度.md'
-sourceCommitSha: 'd7d7c2e30'
+sourceCommitSha: 'be13f0452'
 sourceContentHash: 'sha256:968a60e9d47e825b'
 sourceBodyHash: 'sha256:c77c8cceb31c23cb'
-translatedAt: '2026-11-03T00:30:31+08:00'
+translatedAt: '2026-11-19T03:56:32.183643+00:00'
 ---
 
 # Das System der Dorf- und Viertelvorsteher: 7.748 gewählte Amtsträger, die unterste politische Einheit Taiwans

@@ -28,11 +28,13 @@ imageCredit: 'hinnk'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Tsai_Ming-liang_and_Lee_Kang-sheng_(Days).jpg'
 relatedDiary: ['2026-06-13-183725-深度研究-台灣國片']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/台灣電影.md'
-sourceCommitSha: 'b07b48849'
-sourceContentHash: 'sha256:7bb096d095b41cf1'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:801c0bf77fbb44e8'
 sourceBodyHash: 'sha256:d018fcf42d34d25c'
-translatedAt: '2026-10-14T20:41:23.694580+00:00'
+translatedAt: '2026-11-19T04:31:26.306824+00:00'
 ---
 
 # Taiwanische Filme: Die Sprecher neben dem Film und eine filmische Geschichte des Sterbens und Wiederaufstehens
@@ -287,15 +289,16 @@ Dieser Artikel verwendet 4 Bilder, die alle in `public/article-images/art/` geca
 - [Hou Hsiao-hsien beim Goldenen Löwen in Venedig 1989](https://commons.wikimedia.org/wiki/File:1989_Venice_film_festival_Hou_Hsiao-hsien_winner_of_the_Gold_Lion.jpg) — Foto: Gorup de Besanez, CC BY-SA 4.0
 - [Ang Lee auf der Filmfestspiele von Venedig 2009](https://commons.wikimedia.org/wiki/File:Ang_Lee_-_66%C3%A8me_Festival_de_Venise_%28Mostra%29.jpg) — Foto: nicolas genin, CC BY-SA 2.0
 
-## Weiterführende Lektüre
+## Weiterführende Literatur
 
-- [Hou Hsiao-hsien](/de/people/hou-hsiao-hsien): Der Meister des langen Films, der den Goldenen Löwen von Venedig gewann und das 228er-Ereignis auf die Leinwand brachte.
-- [Yang(de) Chang](/de/people/yang-dechang): Der Beobachter der Stadt in zwei Werken, die in die Sight & Sound Filmgeschichte eingegangen sind.
-- [Tsai Ming-liang](/de/people/tsai-ming-liang): Gewinner des Goldenen Löwen von Venedig, der Slow Cinema ins Louvre filmte.
-- [Ang Lee](/de/people/ang-lee): Von Taiwan zu Hollywood, zweimaliger Oscar für den besten Regisseur.
-- [Wei Te-sheng](/de/people/wei-te-sheng-taiwanese-epic-filmmaker): Derjenige, der mit fünf Sprachen „Sechzehnstraße“ drehte und den nationalen Film wiederbelebte.
-- [Das unsichtbare Land](/de/art/invisible-nation): Eine andere Sicht auf Taiwan in Ge Jeong-muns Dokumentarfilmen.
-- [Taiwanische Sensibilität: Müssen wir zuerst koreanische Likes haben, um unser altes Haus schön nennen zu dürfen?](/de/culture/taiwanese-sensibility): Der Goldene Löwe von „Die tragische Stadt“ im Jahr 1989 und der lokale Kassenerfolg ereigneten sich im selben Jahr; internationale Anerkennung und lokales Echo sind nicht zwingend gegensätzlich.
+- [Hou Hsiao-hsien](/de/people/hou-hsiao-hsien): Gewinner des Goldenen Löwen von Venedig, der die 228-Ereignisse auf die Leinwand brachte – Meister der Langzeitaufnahme
+- [Edward Yang](/de/people/yang-dechang): Stadtbeobachter, dessen zwei Werke in die Sight & Sound-Liste der 100 besten Filme aller Zeiten aufgenommen wurden
+- [Tsai Ming-liang](/de/people/tsai-ming-liang): Gewinner des Goldenen Löwen von Venedig, der das Slow Cinema in den Louvre brachte
+- [Ang Lee](/de/people/ang-lee): Von Taiwan nach Hollywood, zweifacher Oscar-Preisträger für die beste Regie
+- [Wei Te-sheng](/de/people/wei-te-sheng-taiwanese-epic-filmmaker): Der Mann, der mit „Cape No. 7“ in fünf Sprachen den taiwanesischen Film wiederbelebte
+- [Golden Horse Awards](/de/art/golden-horse-awards): Vom reinen Mandarinfilm-Preis zum chinesischsprachigen Filmpreis ohne Nationalitätsbeschränkung – taiwanesische Filme verlieren dadurch oft im eigenen Land, und die Tür wurde nie wieder geschlossen
+- [Invisible Nation](/de/art/invisible-nation): In der Dokumentation von Ge Jingwen – eine andere Art, Taiwan gesehen zu werden
+- [Taiwanesische Sensibilität: Müssen wir erst von Koreanern geliked werden, um zu wagen zu sagen, dass unsere alten Häuser schön sind?](/de/culture/taiwanese-sensibility): „Stadt der Traurigkeit“ – der Goldene Löwe 1989 und der Kassenerfolg in Taipeh ereigneten sich im selben Jahr, internationale Anerkennung und lokale Resonanz müssen nicht zwangsläufig ein Entweder-oder sein
 
 [^1]: [Filmdialogiker – Wikipedia](https://zh.wikipedia.org/wiki/%E9%9B%BB%E5%BD%B1%E8%BE%AF%E5%A3%AB) — In Taiwan gab es 1930 etwa 60 Filmdialogiker, darunter 41 japanische und 19 taiwanesische, die eine Lizenz durch die Polizeibehörde des Präfekturamtes erwerben mussten.
 

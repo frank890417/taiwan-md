@@ -11,11 +11,13 @@ featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Politics/總統的寵物.md'
-sourceCommitSha: 'edae9fc94'
-sourceContentHash: 'sha256:3392858fc71ecf5e'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:85d74441bcd20040'
 sourceBodyHash: 'sha256:a651681f805672fe'
-translatedAt: '2026-09-25T14:32:57+08:00'
+translatedAt: '2026-11-19T04:03:48.622501+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Die Haustiere der ehemaligen Präsidenten Taiwans waren nicht nur Familienmitglieder in der Residenz, sondern oft auch ein Spiegelbild des politischen Images und gesellschaftlicher Werte. Von den majestätischen Wölfen der Ära Chiang Kai-shek über die Golden Retriever von Lee Teng-hui, den Taiwan-Hund „Yongge“ von Chen Shui-bian bis zu Ma Ying-jeous Hund „Ma Xiaojiu“, dem Katzen- und Hunderudel von Tsai Ing-wen und dem streunenden Hund Luke von Lai Ching-te – diese Liste zeigt, wie das „erste Haustier“ von einem bloßen privaten Hobby zu einer politischen Sprache wurde, die den Tierschutz fördert und menschliche Wärme demonstriert.
@@ -72,22 +74,22 @@ Darüber hinaus wurde das Image des „glücklichen Hundes“ der Präsidentenha
 
 ## Referenzen
 
-[^1]: [Chiang Kai-sheks Tagebuch über die spirituelle Loyalität seiner drei Hunde](https://www.youtube.com/watch?v=uj0__fZkZlg) — Taiwan News (YouTube Videoaufzeichnung)
+[^1]: [Chiang Kaischeks drei geliebten Hunde: Spirituelle Begleiter, die in seinen Tagebüchern namentlich erwähnt wurden und sehr geschätzt wurden](https://www.youtube.com/watch?v=uj0__fZkZlg) — TTV News (YouTube-Videoaufzeichnung)
 
-[^2]: [Rückblick auf Lee Teng-hui: Haltung von Hunden, Katzen und Schafen – das Amtshaus war ein Zoo für besondere Tiere](https://www.mirrormedia.mg/story/20200227inv009/) — Mirror Weekly (Beschreibt die Einführung der Golden Retriever durch Lee Teng-hui, die Zucht von über dreißig Tieren und die Schulung einiger als Blindenführhunde)
+[^2]: [Rückblick auf Lee Teng-hui: Er hielt Hunde, Katzen und sogar Schafe; die Residenz von „Ah-hui Bo“ glich einem alternativen Zoo](https://www.mirrormedia.mg/story/20200227inv009/) — Mirror Media (Bericht über die Einführung von Golden Retrievern durch Lee Teng-hui, deren Nachkommen sich auf über 30 Tiere vermehrten, wobei einige zu Blindenführhunden ausgebildet wurden)
 
-[^3]: [Das Schicksal des politischen Stars: Die Katze Xiangxiang wurde zum ersten Haustier des ehemaligen Präsidenten](https://tw.news.yahoo.com/%E5%B8%82%E7%8A%AC%E6%B7%AA%E6%B5%AA%E7%8A%AC2-%E6%94%BF%E6%B2%BB%E6%98%8E%E6%98%9F%E7%8A%AC%E5%91%BD%E9%81%8B%E5%A4%A7%E4%B8%8D%E5%90%8C-%E8%94%A1%E6%83%B3%E6%83%B3%E6%B5%AA%E8%B2%93%E8%AE%8A%E5%89%8D%E7%B8%BD%E7%B5%B1%E7%AC%AC-%E5%AF%B5%E7%89%A9-100500895.html) — Yahoo News
+[^3]: [Unterschiedliche Schicksale politischer Star-Hunde: Wie die Streunerin „Xiangxiang“ zum ersten Haustier des ehemaligen Präsidenten wurde](https://tw.news.yahoo.com/%E5%B8%82%E7%8A%AC%E6%B7%AA%E6%B5%AA%E7%8A%AC2-%E6%94%BF%E6%B2%BB%E6%98%8E%E6%98%9F%E7%8A%AC%E5%91%BD%E9%81%8B%E5%A4%A7%E4%B8%8D%E5%90%8C-%E8%94%A1%E6%83%B3%E6%83%B3%E6%B5%AA%E8%B2%93%E8%AE%8A%E5%89%8D%E7%B8%BD%E7%B5%B1%E7%AC%AC-%E5%AF%B5%E7%89%A9-100500895.html) — Yahoo News
 
-[^4]: [Wikipedia-Eintrag zu Ma Xiaojiu](https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%B0%8F%E4%B9%9D) — Wikipedia (Wikipedia-Eintrag)
+[^4]: [Wikipedia-Eintrag zu Ma Xiao-jiu](https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%B0%8F%E4%B9%9D) — Wikipedia (Wikipedia-Eintrag)
 
-[^5]: [Ma Ying-jeou wird im Amt als Bürgermeister nicht angeklagt wegen Sonderausgaben](https://news.ltn.com.tw/news/society/breakingnews/2009990) — Liberty Times (Die Staatsanwaltschaft von Taipeh legte am 20. März 2017 die Anklage nieder, da die betreffenden Sonderausgaben durch eine Gesetzesänderung zur Entkriminalisierung der Buchhaltung als nicht nachweisbar galten und Ma Ying-jeou bereits vom Obersten Gerichtshof unschuldig befunden worden war)
+[^5]: [Fall der Sonderausgaben während der Amtszeit des Bürgermeisters: Ma Ying-jeou nicht angeklagt](https://news.ltn.com.tw/news/society/breakingnews/2009990) — Liberty Times (Am 20.03.2017 entschied die Bezirksstaatsanwaltschaft Taipei auf Nichtanklage; Sonderausgaben wurden entkriminalisiert, zudem wurde ein früherer Fall bereits rechtskräftig freigesprochen)
 
-[^6]: [Tsai Ing-wen und das erste Haustier: Sie wollte gerne mit Xiangxiang und Acai spielen](https://www.youtube.com/watch?v=jVfgyh2mxVA) — CTV News (YouTube Videoaufzeichnung)
+[^6]: [Tsai Ing-wen zeigt ihr erstes Haustier: Am liebsten möchte ich bei Xiangxiang und A-Cai sein](https://www.youtube.com/watch?v=jVfgyh2mxVA) — FTV News (YouTube-Videoaufzeichnung)
 
-[^7]: [Präsidentin: Adoption pensionierter Rettungshunde gemäß Vorschrift, keine politische Verzerrung nötig](https://www.cna.com.tw/news/aipl/202104290024.aspx) — Central News Agency (Beschreibt die Adoption der pensionierten Blindenführhunde Bella, Bunny und Maru durch Tsai Ing-wen im Jahr 2016 und die anschließende gesetzliche Aufnahme des Rettungshundes)
+[^7]: [Präsidentin: Die Adoption von ausgemusterten Rettungshunden erfolgt nach Gesetz, keine politische Verzerrung nötig](https://www.cna.com.tw/news/aipl/202104290024.aspx) — Central News Agency (Bericht darüber, dass Tsai Ing-wen im Jahr 2016 die ausgemusterten Blindenführhunde Bella, Bunny und Maru adoptierte sowie den Rettungshund Lele gemäß den Vorschriften nach dessen Ausscheiden aus dem Dienst übernahm)
 
-[^8]: [Lai Ching-te enthüllt in neuem Animationsfilm die Geschichte der Adoptions von „Luke“](https://tw.news.yahoo.com/%E8%B3%B4%E6%B8%85%E5%BE%B7%E6%8E%A8%E6%96%B0%E5%8B%95%E7%95%AB%E7%89%87-%E5%90%90%E9%9C%B2%E6%94%B6%E9%A4%8A%E6%B5%81%E6%B5%AA%E7%8B%97-luke-%E7%9A%84%E6%BA%AB%E6%83%85%E6%95%85%E4%BA%8B-063202600.html) — Yahoo News
+[^8]: [Lai Ching-tes neuer Animationsfilm erzählt die Geschichte der Adoption des Straßenhundes „Luke“](https://tw.news.yahoo.com/%E8%B3%B4%E6%B8%85%E5%BE%B7%E6%8E%A8%E6%96%B0%E5%8B%95%E7%95%AB%E7%89%87-%E5%90%90%E9%9C%B2%E6%94%B6%E9%A4%8A%E6%B5%81%E6%B5%AA%E7%8B%97-luke-%E7%9A%84%E6%BA%AB%E6%83%85%E6%95%85%E4%BA%8B-063202600.html) — Yahoo News
 
-[^9]: [Tod des Hundes Luke: Lai Ching-te beachtet weiterhin Haustiere und Streuner](https://www.cna.com.tw/news/aipl/202309110271.aspx) — Central News Agency (11. September 2023, Facebook-Beitrag von Lai Ching-te „Dank für die jahrelange Gesellschaft Ludes“)
+[^9]: [Tod des geliebten Hundes Luke; Lai Ching-te: Ich werde mich weiterhin um Haustiere und Straßenhunde kümmern](https://www.cna.com.tw/news/aipl/202309110271.aspx) — Central News Agency (11.09.2023, Lai Ching-tes Facebook-Post: „Danke, Luke, für die jahrelange Begleitung“)
 
-[^10]: [Was wäre, wenn eine Fangfalle ein Kind oder Ma Xiaojiu fangen würde…](https://news.tvbs.com.tw/life/131330) — TVBS (Siehe ergänzende Materialien im Originallink)
+[^10]: [Was wäre, wenn eine Tierfalle ein Kind oder Ma Xiao-jiu erwischt hätte...](https://news.tvbs.com.tw/life/131330) — TVBS (Details siehe ergänzende Informationen im Original-Link)
