@@ -490,10 +490,12 @@ const today = new Date().toISOString().slice(0, 10);
                   target="_blank"
                   rel="noopener noreferrer"
                   class="contributor-card"
+                  title={c.login}
                 >
+                  {/* 名字由下面的文字念出來，頭像不重複念一次 */}
                   <img
                     src={c.avatarUrl}
-                    alt={c.login}
+                    alt=""
                     class="contributor-avatar"
                     loading="lazy"
                   />
@@ -3036,6 +3038,32 @@ const today = new Date().toISOString().slice(0, 10);
   .contributors-cta :global(a:hover) {
     color: var(--color-ink);
   }
+  /* 窄螢幕：貢獻者牆排成一整面頭像（每個人都在、會換行、不橫向捲動）。
+     名字收進輔助科技與滑鼠提示，畫面上只留頭像，八十個人約佔半個多螢幕。 */
+  @media (max-width: 560px) {
+    .contributors-grid {
+      grid-template-columns: repeat(auto-fill, minmax(2.75rem, 1fr));
+      gap: 0.375rem 0.25rem;
+    }
+    .contributor-card {
+      position: relative;
+      padding: 0;
+      border-radius: 50%;
+    }
+    .contributor-avatar {
+      width: 2.75rem;
+      height: 2.75rem;
+    }
+    .contributor-name,
+    .contributor-types {
+      position: absolute;
+      inline-size: 1px;
+      block-size: 1px;
+      overflow: hidden;
+      clip-path: inset(50%);
+      white-space: nowrap;
+    }
+  }
 
   /* ── 4 為什麼需要 ── */
   .ab-sec--why {
@@ -3692,18 +3720,6 @@ const today = new Date().toISOString().slice(0, 10);
     .team-card,
     .contributors-in-team {
       padding: var(--space-4);
-    }
-    /* 貢獻者牆在手機上是橫向可滑的四列：每個人都在，不佔三個螢幕 */
-    .contributors-grid {
-      grid-template-columns: none;
-      grid-template-rows: repeat(4, auto);
-      grid-auto-flow: column;
-      grid-auto-columns: 4.5rem;
-      margin-inline: calc(var(--space-4) * -1);
-      padding-inline: var(--space-4);
-      overflow-x: auto;
-      overscroll-behavior-x: contain;
-      scrollbar-width: thin;
     }
     .ab-sec--brief {
       padding-block-start: var(--space-4);
