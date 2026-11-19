@@ -161,9 +161,13 @@ const bodyOf = (e: TimelineEntry) => e.body ?? ['desc.html'];
 const k = (e: TimelineEntry, part: string) => `about.timeline.${e.key}.${part}`;
 ---
 
-<div class="ab-ms" data-ab-ms data-fallback-en={fallbackEn ? '' : undefined}>
-  <!-- 比例軸：看疏密用，不能點 -->
-  <figure class="ab-ms__axis-wrap">
+<div class="ab-ms" data-ab-ms>
+  <!-- 比例軸：看疏密用，不能點。補翻前退英文的只有這段圖說，
+       所以 data-fallback-en 只標在這裡，不讓下面已翻好的時間軸跟著改排方向 -->
+  <figure
+    class="ab-ms__axis-wrap"
+    data-fallback-en={fallbackEn ? '' : undefined}
+  >
     <div
       class="ab-ms__axis"
       role="img"
