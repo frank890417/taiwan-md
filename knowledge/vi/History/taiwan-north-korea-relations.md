@@ -22,11 +22,13 @@ lastVerified: 2026-07-17
 lastHumanReview: false
 readingTime: 15
 relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/台灣與北朝鮮關係.md'
-sourceCommitSha: '5af229e1e'
-sourceContentHash: 'sha256:6923220eadde819d'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:710244ec0149acd2'
 sourceBodyHash: 'sha256:4dc13793ac08242f'
-translatedAt: '2026-07-27T09:40:31+08:00'
+translatedAt: '2026-11-19T05:40:35.722406+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Quan hệ giữa Đài Loan và Bắc Kim nhiều khác biệt hơn bạn tưởng. Trước khi cấm vãi hoàn toàn vào năm 2017, Đài Loan từng là đối tượng xuất khẩu lớn thứ tư trên thế giới của Bắc Kim, với thương mại dân sự hai bên rất sôi nổi. Bắc Kim phụ thuộc vào Đài Loan như thể xác, từ máy tính Acer và Asus trong văn phòng chính phủ, đến cà phê Bran và bánh quy Yi Mi trong nhu cầu cao cả. Thương hiệu MIT từng xâm chiếu sâu vào Bắc Kim. Dù mối quan hệ chính phủ đã đông lạnh, nhưng các hoạt động buôn lậu hải quân, xâm chiếu công nghệ cao, rửa tiền tài chính và vụ cáp biển dưới đáy, cho thấy mối quan hệ này đã chuyển sang khu vực xám, vẫn kéo theo những xung đột địa chính trị hạt nhân ở Đông Á. Thêm vào đó, các quan chức Đảng Lao động Bắc Kim đã từng giấu mình đến Đài Loan khảo sát khu vực xuất khẩu chế biến, trong khi tàu cá của Đài Loan cũng từng thuê nhiều công nhân ngư dân Bắc Kim, những mối liên kết sâu xa này hé lộ một mạng lưới tương tác phức tạp hơn giữa hai bên.
@@ -111,8 +113,8 @@ Sự chuyển đổi của Bắc Kim về mô hình "lý thuyết hai quốc gia
 
 ## Đọc thêm
 
-- [Rời Liên Hợp Quốc](/vi/history/withdrawal-from-united-nations) — Vị trí quốc tế của Đài Loan đang trải qua quá trình biến đổi cấu trúc
-- [Thương mại xuất khẩu của Đài Loan và chuỗi cung ứng toàn cầu](/vi/economy/taiwan-foreign-trade-and-global-supply-chain) — Cách thức xuất khẩu định hình các kênh thương mại xám
+- [Rời khỏi Liên Hợp Quốc](/vi/history/withdrawal-from-united-nations) — Cuộc chuyển gãy cấu trúc về vị thế quốc tế của Đài Loan
+- [Ngoại thương Đài Loan và chuỗi cung ứng toàn cầu](/vi/economy/taiwan-foreign-trade-and-global-supply-chain) — Làm thế nào xu hướng xuất khẩu định hình thương mại vùng xám
 
 ## Tài liệu tham khảo
 

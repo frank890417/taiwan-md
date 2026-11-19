@@ -53,11 +53,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-06-06'
     url: 'https://x.com/taiwandotmd/status/2063165712261390793'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/國宅與居住正義.md'
-sourceCommitSha: '4ee896bcb'
-sourceContentHash: 'sha256:058a2707437b6293'
-sourceBodyHash: 'sha256:8b7dd2352a89e936'
-translatedAt: '2026-10-14T04:51:41+08:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:aab8147d38e7da5e'
+sourceBodyHash: 'sha256:72dccf40750266ac'
+translatedAt: '2026-11-19T06:18:01.947740+00:00'
 ---
 
 # Nhà ở quốc gia và công lý cư trú: Những căn nhà giá rẻ do chính phủ xây dựng, cuối cùng trở thành thang máy tài sản cho ai?
@@ -272,47 +274,48 @@ Trong quy định về nhà ở có thể chi trả, ghi rất rõ ba ổ khóa 
 
 Tuy nhiên, ngay khi con đường này vừa mới bắt đầu, nó đã va chạm với chính quyền trung ương.
 
-## Mua được hay thuê được: Cuộc tranh luận giữa Trung ương và Địa phương
+## Có khả năng mua, hay có khả năng thuê: Cuộc tranh luận giữa Trung ương và Địa phương
 
-Thái độ của Bộ Nội vụ rất rõ ràng: Việc bán nhà tự thân nó đã có vấn đề. Thứ trưởng Đổng Kiến Hồng (Dong Jian-hong) trực tiếp nghi ngờ hướng đi này, ông nói: "Khi nhà ở có thể chi trả là loại hình nhà để bán, tương đối mà nói số lượng người dân được chăm sóc sẽ ít hơn", và "quá trình chuyển nhượng tự do sẽ gây ra một số tranh chấp về quyền sở hữu tài sản và các vấn đề quản lý hành chính sau đó". [^24] Ông chủ trương quay lại tinh thần "chỉ cho thuê không bán" của nhà ở xã hội theo Luật Nhà ở. Nói một cách bình dân, ý của Bộ Nội vụ là: Một khi ngôi nhà đã bán đi thì đó là sự thất thoát tồn lượng công cộng một lần, thay vì tìm mọi cách để quản lý "sau khi bán xong thì làm thế nào", chi bằng ngay từ đầu đừng bán, hãy để nó mãi mãi nằm trong tay chính phủ để cho thuê.
+Thái độ của Bộ Nội vụ rất rõ ràng: Việc bán nhà vốn dĩ đã là một vấn đề. Thứ trưởng Đổng Kiến Hồng (Dong Jian-hong) trực tiếp nghi ngờ hướng đi này, ông nói: "Khi nhà ở có khả năng chi trả được thực hiện theo hình thức bán, số lượng người dân được hỗ trợ tương đối sẽ ít hơn", đồng thời "quá trình chuyển nhượng tự do sẽ gây ra một số tranh chấp về quyền sở hữu tài sản và các vấn đề quản lý hành chính sau đó".[^24] Ông chủ trương quay trở lại tinh thần "chỉ cho thuê, không bán" của nhà ở xã hội theo 《Luật Nhà ở》. Nói một cách bình dân, ý của Bộ Nội vụ là: Một khi nhà đã được bán đi, đó sẽ là sự thất thoát một lần đối với nguồn cung công cộng; thay vì tìm mọi cách để quản lý "sau khi bán xong thì làm thế nào", chi bằng ngay từ đầu đừng bán, hãy để nhà luôn nằm trong tay chính phủ và tiếp tục cho thuê mãi mãi.
 
-Hai bên thực chất đang nói về hai loại công lý cư trú khác nhau.
+Thực chất, hai bên đang nói về hai khái niệm khác nhau về công bằng cư trú.
 
-Phía Đào Viên phản hồi rằng họ muốn phá vỡ cái khung lựa chọn "một trong hai" này. Cục trưởng Cục Phát triển Đô thị Đào Viên Giang Nam Chí (Jiang Nan-zhi) nói: "Việc thúc đẩy công lý cư trú không nên rơi vào logic đơn nhất là 'chọn một trong hai'." [^25] Thị trưởng Trương Thiện Chính (Chang Shan-cheng) cũng đã đích thân đến Hành chính viện vào ngày 4 tháng 6 năm 2026 để vận động đưa nhà ở có thể chi trả của Đào Viên vào chính sách trung ương. Theo báo chí, ông ví nhà ở có thể chi trả và nhà ở xã hội như "hai cánh tay" của chính sách cư trú, chúng bổ trợ cho nhau chứ không phải cạnh tranh: Có người muốn mua, có người chỉ có thể thuê, hai nhu cầu này cần được đáp ứng riêng biệt chứ không nên ép buộc chọn một trong hai. [^26]
+Phía Đào Viên phản hồi rằng họ muốn phá bỏ cái khung "chọn một trong hai" này. Cục trưởng Cục Phát triển Đô thị thành phố Đào Viên Giang Nam Chí (Jiang Nan-zhi) cho biết: "Việc thúc đẩy công bằng cư trú không nên rơi vào logic đơn nhất là 'chọn 1 trong 2'."[^25] Thị trưởng Trương Thiện Chính (Chang Shan-cheng) cũng đã đích thân đến Hành chính viện vào ngày 4 tháng 6 năm 2026 để vận động đưa nhà ở có khả năng chi trả của Đào Viên vào chính sách trung ương. Theo báo chí đưa tin, ông ví nhà ở có khả năng chi trả và nhà ở xã hội như "hai cánh tay" của chính sách cư trú, mang tính bổ trợ thay vì cạnh tranh: Có người muốn mua, có người chỉ có thể thuê, hai loại nhu cầu này cần được đáp ứng riêng biệt, chứ không nên ép buộc phải chọn một trong hai.[^26]
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/iEEqhfmwEzs" title="Lời hứa 130.000 căn bị thu hẹp! Tại sao chính sách nhà ở xã hội lại quay ngoắt? | Thiên Hạ tạp chí 8 phút hiểu về Thiên Hạ Ep.74" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/iEEqhfmwEzs" title="承諾13萬戶大縮水！為何社宅政策大轉彎｜天下雜誌 8分鐘看懂天下 Ep.74" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Chương trình chính thức của Thiên Hạ tạp chí: Tại sao 130.000 căn nhà ở xã hội xây dựng trực tiếp mà chính phủ Lại đã hứa lại bị thu hẹp, nhìn từ một khía cạnh về thực trạng trắc trở của công lý cư trú tại Đài Loan._
+_Chương trình chính thức của tạp chí Commonwealth (天下雜誌): Tại sao cam kết xây dựng 130.000 căn nhà ở xã hội của chính quyền Lại (Lai Ching-te) lại bị thu hẹp đáng kể, nhìn từ một khía cạnh khác về thực trạng đầy trắc trở của công bằng cư trú tại Đài Loan._
 
-Hành chính viện lần này không bác bỏ ngay lập tức. Thái độ của Viện trưởng Trác Vinh Thái (Zhuo Rong-tai) rõ ràng là mềm mỏng hơn, ông không phủ nhận cách làm của Đào Viên mà chỉ hy vọng "chính sách trung ương và địa phương có thể đồng bộ với nhau". [^27] Một lộ trình chính sách đã bị bãi bỏ suốt mười một năm, với lý do chính thức được viết sẵn là "nhiệm vụ hoàn thành vì tỷ lệ sở hữu nhà đạt 85%", vậy mà nay lại từ tay một chính quyền địa phương mở ra cánh cửa của trung ương một lần nữa.
+Lần này, Hành chính viện đã không bác bỏ ngay lập tức. Thái độ của Viện trưởng Trác Vinh Thái (Cho Jung-tai) rõ ràng đã mềm mỏng hơn, ông không phủ nhận cách làm của Đào Viên mà chỉ hy vọng "chính sách của Trung ương và địa phương có thể đồng bộ với nhau".[^27] Một lộ trình chính sách vốn đã bị bãi bỏ suốt mười một năm, với lý do chính thức được viết sẵn là "nhiệm vụ đạt tỷ lệ sở hữu nhà ở riêng 85% đã hoàn thành", vậy mà từ tay một chính quyền địa phương, nó đã một lần nữa gõ cửa chính quyền trung ương.
 
-![Đoạn trung tâm của khu nhà ở xã hội Karl-Marx-Hof tại Quận 19, Vienna, một dãy nhà ở thành phố với mặt đứng màu đỏ vàng kiểu tháp kỷ niệm dài cả cây số](/article-images/society/vienna-karl-marx-hof.webp)
-_Khu nhà ở Karl-Marx-Hof tại Vienna, hoàn thành từ năm 1933 và cho đến nay vẫn do chính quyền thành phố nắm giữ, chỉ cho thuê không bán. Không bán trong một trăm năm, tồn lượng sẽ luôn nằm trong tay cộng đồng. Photo: C.Stadler/Bwag, CC BY-SA 4.0 via [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Döbling_(Wien)_-\_Karl-Marx-Hof_(2).JPG>).\_
+![Phần trung tâm của khu nhà ở xã hội Karl-Marx-Hof tại Quận 19, Vienna, với dãy mặt tiền màu đỏ vàng kiểu tháp kỷ niệm dài cả cây số](/article-images/society/vienna-karl-marx-hof.webp)
+_Khu chung cư Karl-Marx-Hof tại Vienna, kể từ khi hoàn thành vào năm 1933 đến nay vẫn do chính quyền thành phố nắm giữ và chỉ cho thuê, không bán. Một trăm năm không bán, nguồn cung sẽ luôn nằm trong tay công cộng. Photo: C.Stadler/Bwag, CC BY-SA 4.0 via [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Döbling_(Wien)_-\_Karl-Marx-Hof_(2).JPG>).\_
 
-Cuộc đối đầu giữa trung ương và địa phương này thực chất đang tranh cãi về một câu hỏi lẽ ra phải được trả lời từ năm mươi năm trước nhưng luôn bị né tránh: Chính phủ rốt cuộc nên giúp người dân "mua được nhà", hay giúp người dân "thuê được nhà"?
+Cuộc va chạm giữa Trung ương và Địa phương này thực chất đang tranh luận về một câu hỏi lẽ ra phải được trả lời từ năm mươi năm trước nhưng luôn bị né tránh: Chính phủ rốt cuộc nên giúp người dân "có khả năng mua", hay giúp người dân "có khả năng thuê"?
 
-## Năm mươi năm sau, Đài Loan mới học được cách lắp cánh cửa đó
+## Năm mươi năm sau, Đài Loan mới học được cách lắp cánh cổng đó
 
-Quay lại với địa chỉ của Nhà ở Thành Công.
+Quay trở lại số nhà của khu Nhà ở Thành Công (Cheng Kung National Housing).
 
-Năm 1985, vợ chồng trưởng thôn lão thành Thạch Trung Thắng đã dốc hết tiền tiết kiệm để gom 400.000 Đài tệ tiền đặt cọc mua một căn nhà giá 67.000 Đài tệ/ping. Nhà ở quốc gia lúc đó là một lời cam kết trọn vẹn về công lý cư trú: Chính phủ xây nhà giá rẻ để giúp những người không đủ khả năng có chỗ ở. Sai lầm duy nhất của nó là đã quên lắp một cánh cửa ở lối ra: Không ai quy định rằng nếu sau này ngôi nhà tăng giá, thì phần chênh lệch được nuôi dưỡng bởi trợ cấp công cộng và vị trí địa lý đó sẽ được phân chia như thế nào. Thế là bốn mươi năm sau, cùng một địa chỉ đó giá mỗi ping đã tiệm cận mốc một triệu Đài tệ, khoản tiền đặt cọc năm xưa thậm chí không mua nổi lấy một ping; chiếc thang đã bị âm thầm thu hồi ngay dưới chân những người đầu tiên bước lên đời.
+Năm 1985, vợ chồng trưởng thôn lão thành Thạch Trung Thắng (Shi Zhong-sheng) đã dốc hết tiền tiết kiệm để gom đủ NT$400.000 tiền đặt cọc, mua được căn nhà với giá NT$67.000 mỗi bình. Vào thời điểm đó, nhà ở quốc gia là một lời cam kết trọn vẹn về công bằng cư trú: Chính phủ xây nhà giá rẻ để giúp những người không đủ khả năng mua nhà có thể "lên xe". Sai sót duy nhất của nó là đã quên lắp một cánh cổng ở lối ra: Không ai quy định rằng khi căn nhà này tăng giá trong tương lai, thì phần chênh lệch giá được nuôi dưỡng nhờ trợ cấp công và vị trí đắc địa đó sẽ được phân chia như thế nào. Thế là bốn mươi năm sau, cùng một số nhà đó, giá mỗi bình đã tiến gần mức một triệu Đài tệ; khoản tiền đặt cọc năm xưa thậm chí không mua nổi một bình, và chiếc thang dưới chân những người đầu tiên "lên xe" đã lặng lẽ bị thu hồi mất.
 
-Hồng Kông gọi cánh cửa đó là bù tiền đất, Anh Quốc dùng cái giá của 8 nghìn tỷ quyền lợi để học được rằng không thể không lắp nó, Singapore dù có thiết lập ngưỡng nhưng vẫn bị rò rỉ. Đài Loan đã xoay vần suốt năm mươi năm, thậm chí vào năm 2002 còn tự tay dỡ bỏ nửa bức tường duy nhất, cho đến tận năm 2026, mới có một chính quyền địa phương viết được cụm từ "không được chuyển nhượng vượt quá giá mua ban đầu" vào một đạo luật mang tên "Nhà ở có thể chi trả". Đó chính là cánh cửa mà nhà ở quốc gia đã bỏ lỡ năm xưa, và cũng là thứ mà người Hồng Kông gọi là bù tiền đất.
+Hồng Kông gọi cánh cổng đó là bù giá đất (premium), Anh quốc đã phải trả cái giá bằng 8 nghìn tỷ quyền lợi mới học được rằng họ không thể không lắp nó, Singapore dù đã thiết lập các ngưỡng rào cản nhưng vẫn để lọt khe hở. Đài Loan đã đi quanh co suốt năm mươi năm, thậm chí vào năm 2002 còn tự tay phá bỏ nửa bức tường ít ỏi còn lại, cho đến tận năm 2026, mới cuối cùng có một chính quyền địa phương đưa cụm từ "không được bán lại với giá cao hơn giá mua ban đầu" vào một điều lệ mang tên "Nhà ở có khả năng chi trả". Đó chính là cánh cổng mà nhà ở quốc gia năm xưa đã không lắp, và cũng chính là thứ người Hồng Kông gọi là bù giá đất.
 
-Vì vậy, vấn đề thực sự của câu chuyện này chưa bao giờ là "chính phủ có xây nổi nhà hay không". Nhà ở quốc gia đã chứng minh chính phủ xây được, và Đào Viên cũng đang chuẩn bị xây lại một lần nữa. Vấn đề thực sự là sau khi "giúp bạn mua được", phần giá trị gia tăng đó sẽ thuộc về ai: Thuộc về người đầu tiên lên đời, hay trả lại cho thế hệ tiếp theo đang đứng xếp hàng ở cửa?
+Vì vậy, vấn đề thực sự của câu chuyện này chưa bao giờ là "Chính phủ có đủ khả năng xây nhà hay không". Nhà ở quốc gia đã chứng minh rằng Chính phủ làm được, và Đào Viên cũng đang chuẩn bị xây dựng lại một lần nữa. Vấn đề thực sự là sau khi đã "giúp bạn mua được", thì phần giá trị tăng thêm đó thuộc về ai: Thuộc về người đầu tiên lên xe, hay thuộc về thế hệ tiếp theo vẫn đang xếp hàng trước cửa?
 
-Những người nhấn nút biểu quyết tại Hội đồng Đào Viên ngày thông qua dự luật có lẽ không nhận ra rằng, họ đồng thời cũng đã đặt viên gạch cuối cùng để bù đắp cho bức tường bị dỡ bỏ của năm mươi năm trước. Còn việc viên gạch này có thể xây thành một chiếc thang máy không bao giờ thu hồi thang hay không, hay lại một lần nữa kẹt trong cuộc giằng co giữa trung ương và địa phương chưa tìm được tiếng nói chung, thì giá nhà ở địa chỉ tiếp theo của Nhà ở Thành Công sẽ thay chúng ta ghi lại câu trả lời.
+Những người nhấn nút biểu quyết vào ngày Hội đồng Đào Viên thông qua lần đọc thứ ba có lẽ không nhận ra rằng, họ đồng thời cũng đang đặt viên gạch cuối cùng để bù đắp cho bức tường đã bị phá bỏ của năm mươi năm trước. Còn việc viên gạch này có thể xây nên một chiếc thang cuốn không bao giờ thu thang lại, hay sẽ lại một lần nữa kẹt trong cuộc giằng co không thể thống nhất giữa Trung ương và địa phương, thì mức giá của số nhà tiếp theo tại khu Nhà ở Thành Công sẽ ghi lại câu trả lời thay cho chúng ta.
 
 ---
 
 **Đọc thêm**:
 
-- [Nhà ở xã hội và Công lý cư trú](/society/社會住宅與居住正義) — Lộ trình nhà ở xã hội "chỉ cho thuê không bán" sau năm 2016: 200.000 căn trong 8 năm, song hành xây dựng trực tiếp và bao thuê quản lý, thiết kế hỗn hợp để tránh dán nhãn tiêu cực (Bài viết chị em của bài này, tiếp nối câu chuyện sau khi nhà ở quốc gia hạ màn năm 2015)
-- [Khủng hoảng tỷ lệ sinh thấp tại Đài Loan](/society/台灣少子化危機) — Không mua nổi nhà và không thể sinh con là hai đầu của cùng một vết nứt cấu trúc, một khía cạnh khác của công bằng thế hệ.
-- [Nhà lán tôn (nhà tạm)](/society/鐵皮屋) — Khi không thể mua cũng chẳng thể thuê ổn định, người Đài Loan dùng cách khó khăn nhất để tự xây cho mình một chốn dung thân.
-- [Công lý môi trường và tranh chấp NIMBY tại Đài Loan](/society/台灣環境正義與鄰避爭議) — Nhà ở xã hội hay các cơ sở gây ô nhiễm nên được xây cạnh nhà ai, ranh giới giữa công lý cư trú và công lý không gian.
+- [Giá nhà, khoản vay mua nhà và gói vay Thanh An tại Đài Loan](/housing/) — Trang chuyên đề: Tỷ lệ giá nhà trên thu nhập, điều kiện vay Thanh An qua ba thế hệ và dòng thời gian chính sách nhà ở 80 năm, kèm công cụ tính toán khoản vay mua nhà.
+- [Nhà ở xã hội và công bằng cư trú](/vi/society/social-housing-and-housing-justice) — Lộ trình "chỉ cho thuê không bán" của nhà ở xã hội sau năm 2016: Mục tiêu 200.000 căn trong 8 năm, mô hình song hành giữa trực tiếp xây dựng và bao thuê quản lý, thiết kế cư trú hỗn hợp để tránh việc nhà ở xã hội bị dán nhãn (Bài viết liên quan, tiếp nối câu chuyện sau khi thời kỳ nhà ở quốc gia khép lại vào năm 2015).
+- [Khủng hoảng tỷ lệ sinh thấp tại Đài Loan](/vi/society/taiwan-low-birth-rate-crisis) — Không mua nổi nhà và không thể sinh con là hai đầu của cùng một vết nứt cấu trúc, một khía cạnh khác của công bằng thế hệ.
+- [Nhà lán tôn](/vi/society/taiwan-tin-shed-houses) — Khi không thể mua cũng chẳng thể thuê ổn định, người Đài Loan đã dùng những cách khó khăn nhất để tự cơi nới cho mình một nơi trú thân như thế nào.
+- [Công bằng môi trường và tranh chấp NIMBY tại Đài Loan](/vi/society/taiwan-environmental-justice-nimby-conflicts) — Nhà ở xã hội hay các cơ sở gây phiền hà nên được xây cạnh nhà ai, điểm giao thoa giữa công bằng cư trú và công bằng không gian.
 
 ## Dữ liệu công khai
 

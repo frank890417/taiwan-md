@@ -1,6 +1,6 @@
 ---
-title: 'Rút khỏi Liên Hợp Quốc: 17 phút quan trọng năm 1971, Đài Loan làm sao trở thành con cái hội nhập?'
-description: 'Ngày 25 tháng 10 năm 1971, Đường Thú Khắc (周書楷) bước xuống sân khấu Hội đồng Liên Hợp Quốc, Chính phủ Nhân Quốc Trung Hoa (Đài Loan) chuyển từ thành viên gốc rễ của Liên Hợp Quốc, trở thành người bị trượt ra ngoài lề từ ngày hôm đó. Năm thập kỷ sau, quyết định "một không thể đồng thời hiện diện" ấy vẫn còn gây xoáy âm mãi — Mỹ năm 2025 qua luật khẳng định: quyết định số 2758 chưa xử lý quyền đại diện cho Đài Loan.'
+title: 'Đài Loan rút khỏi Liên Hợp Quốc: 17 phút năm 1971, quốc gia thành viên sáng lập làm thế nào mà trở thành người ngoài cuộc'
+description: 'Ngày 25 tháng 10 năm 1971, Châu Thư Khải bước xuống bục phát biểu tại hội trường Đại hội đồng, Trung Hoa Dân Quốc từ quốc gia thành viên sáng lập của Liên Hợp Quốc biến thành người bị chặn đứng ngoài cửa. Trên bề mặt là một sự rút lui bi tráng vì "Hán tặc bất lưỡng lập", thực tế Tưởng Giới Thạch sớm từ đầu năm 1971 đã chấp nhận giải pháp dung túng "hai Trung Quốc", chìa khóa thực sự là chuyến thăm bí mật của Ký Tân Cát đến Bắc Kinh vào tháng 7 cùng năm. Nửa thế kỷ sau, Hạ viện Mỹ năm 2025 thông qua dự luật khẳng định lại: Nghị quyết số 2758 từ chưa từng giải quyết vấn đề quyền đại diện của Đài Loan.'
 date: 2026-05-02
 category: 'History'
 tags:
@@ -9,7 +9,7 @@ tags:
     'Lịch sử',
     'Liên Hợp Quốc',
     'Chiến tranh Lạnh',
-    'Quan hệ hai bờ eo biển',
+    'Quan hệ hai bờ',
     'Luật quốc tế',
   ]
 subcategory: '民主與治理'
@@ -17,11 +17,17 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-05-02
 lastHumanReview: false
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 4,629 曝光 68 點擊（1.47%），主查詢「台灣退出聯合國」638、「原因」192、「是哪一年」156 曝光，title 以「退出聯合國」開頭沒有「台灣」；title 前段補「台灣」；description 原本 89 字低於下限，保留首句年份，補上「原因」查詢要的蔣介石折衷與季辛吉密訪北京'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/退出聯合國.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'be13f0452'
 sourceContentHash: 'sha256:84c16f78fb1c8afd'
 sourceBodyHash: 'sha256:e02dfcaef9951112'
-translatedAt: '2026-07-26T14:17:51+08:00'
+translatedAt: '2026-11-19T05:12:32.893205+00:00'
 ---
 
 Đêm nay ngày 25 tháng 10 năm 1971, sân khấu Hội đồng Liên Hợp Quốc ở New York. Khi Bộ trưởng Ngoại giao Nhân Quốc Trung Hoa (Đài Loan) Đường Thú Khắc đọc xong tuyên bố, rồi quay người bước xuống sân khấu bằng đá cẩm thạch xanh lá, cả đội đại diện rời đi. Từ khi vào đến khi rời, chỉ trong vòng 20 phút[^1]. Ba tiếng sau, quyết định số 2758 được thông qua bằng 76 phiếu ủng hộ, 35 phiếu phản đối, 17 phiếu nghiên chếch, 3 phiếu không có mặt — "đại diện của Khảu Giới Thạch" bị xuất khỏi, Nhân dân Nghị hạ Trung Hoa (CHND Trung Hoa) chính thức chiếm chỗ ngồi của Tập đoàn Trung Hoa. Đài Loan, từ thành viên gốc rễ của Liên Hợp Quốc (24 tháng 8 năm 1945, Khảu Trung Chính ký tên thỏa thuận phê chuẩn "Biên bản chữ ký" Cơ quan sử pháp Liên Hợp Quốc tại Trung Quốc cũ[^2]), đột nhiên trở thành người ngoại lai trong tổ chức quốc tế.

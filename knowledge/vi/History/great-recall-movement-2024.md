@@ -1,24 +1,24 @@
 ---
-title: 'Phong trào bãi miễn lớn nhất lịch sử: 33 đề án toàn không đạt, đo lường mỗi độ chia của dân chủ Đài Loan'
-description: 'Đêm 26 tháng 7 năm 2025, một phần ba các khu vực bầu cử trên toàn quốc mở phiếu cùng lúc, 25 đề án bãi miễn hoàn toàn không đạt. Từ phong trào Chim xanh đến yêu cầu hơn 1,3 triệu chữ ký, qua ba làn bỏ phiếu 33 đề án toàn thất bại, phong trào bãi miễn lớn nhất lịch sử Đài Loan không bãi miễn được ai, nhưng đã đo được năng lượng huy động dân chủ, độ cao của ngưỡng, và giá thành của sự phân cực.'
+title: 'Đại bãi miễn: Làn sóng bãi miễn lớn nhất lịch sử với 33 trường hợp đều không thành công, đo lường từng thước đo của nền dân chủ Đài Loan'
+description: 'Đêm muộn ngày 26 tháng 7 năm 2025, việc kiểm phiếu đồng loạt diễn ra tại một phần ba các khu vực bầu cử trên toàn Đài Loan cho thấy cả 25 trường hợp bãi miễn đều không vượt qua ngưỡng quy định. Từ phong trào Bluebird đến các đợt lấy chữ ký tuyên bố đạt hơn 1,3 triệu lượt người, cùng với việc 33 trường hợp trong ba đợt bỏ phiếu đều không thành công, làn sóng bãi miễn có quy mô lớn nhất lịch sử Đài Loan này đã không bãi miễn được bất kỳ ai, nhưng lần đầu tiên đo lường được đồng thời năng lượng huy động dân chủ, độ cao của các ngưỡng rào cản và cái giá của sự cực hóa.'
 date: 2026-04-13
 category: 'History'
 tags:
   [
-    'phong trào bãi miễn',
-    'bãi miễn',
-    'phong trào Chim xanh',
-    'luật bầu cử bãi miễn',
-    'dân chủ trực tiếp',
-    'phong trào công dân',
-    'chính trị phân hóa',
+    'Đại bãi miễn',
+    'Bãi miễn',
+    'Phong trào Bluebird',
+    'Luật Bầu cử và Bãi miễn',
+    'Dân chủ trực tiếp',
+    'Phong trào công dân',
+    'Chính phủ thiểu số, phe đối lập chiếm đa số',
   ]
 subcategory: '民主與治理'
 author: 'Taiwan.md Contributors'
 featured: true
 lastVerified: 2026-07-16
 lastHumanReview: false
-researchReport: reports/research/2026-07/大bãi miễn.md
+researchReport: 'reports/research/2026-07/大罷免.md'
 difficulty: 'intermediate'
 readingTime: 22
 image: '/article-images/history/recall-bluebird-legislative-yuan-2024.webp'
@@ -26,137 +26,140 @@ imageCredit: 'Fujifilmuser Taiwan'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:20240528-8_A_look_in_front_of_the_legislative_yuan.jpg'
 rationale:
-  why_this_hook: 'Không dùng khung "ai thắng ai thua" để viết về chính trị, mà thay bằng "một lần kiểm thử dân chủ trực tiếp" làm trục tổ chức — lấy "25 đề án toàn không đạt" vào tối 726 làm sự tương phản mở đầu, dẫn độc giả đo ba độ: năng lượng huy động, độ cao ngưỡng, giá thành phân cực. Tường thuật trung lập, không đưa ra phán đoán hai bờ eo biển.'
-  whats_excluded: 'Cấu trúc tài chính của nhómbãi miễn (không có nguồn tư liệu, rủi ro lý thuyết âm mưu cao); so sánh chế độbãi miễn giữa các quốc gia (không có tài liệu thẩm quyền); so với luận bạt thừ Hàn Quốc (logic chế độ khác, so sánh không chính xác); tác động kinh tế địa chính trị hai bờ (không có dữ liệu, liên quan dự đoán); tình trạng hiện tại của những cá nhân bị kiện hoặc bị phanh phui (de-center, chỉ giữ lại sự kiện pháp lý công khai).'
-  where_it_hedges: '"Hơn 1,3 triệu chữ ký" được đánh dấu như giá trị cáo buộc, chưa được xác nhận bởi một tài liệu chính thức duy nhất, toàn văn chỉ dùng một lần giới hạn; con số chữ ký chết được phân tích nhiều phiên bản và đánh dấu giai đoạn so sánh với đơn vị "mục/đề án"; "Kha Văn Triết một tay lên kế hoạch" được đánh dấu rõ ràng là sự chuyển thuật từ tuyên bố đối đáp của Từ Ngọc Tâm; phản ứng nước ngoài (Quốc đài ban / Bộ liên hệ Đài-TQ) được đánh dấu độc lập như tuyên bố chính phủ nước ngoài và phản ứng của chúng tôi, không song hành với quan điểm nội bộ Đài Loan; nhómbãi miễn có tư liệu từ thực địa của các nhà báo cụ thể, tiếng nói của những người dân chung khôngbãi miễn thì tư liệu công khai sâu hơn hơi ít, văn bản chính được cân bằng bằng đoạn động cơ phiếu không đồng ý đa dạng và tuyên bố tự kể của người bịbãi miễn.'
-  whos_pushing_back: 'Những người ủng hộ Quốc Dân Đảng (cho rằng kết quả đã là ý kiến dân chúng, nghi ngờ "xử lý Quốc Dân không xử lý Dân chủ"); những người ủng hộbãi miễn (cho rằng bị ngưỡng khóa chặt, bị mất ý kiến dân chúng); những cử tri trung lập mệt mỏi (quan tâm đến chi phí xã hội của phân cực); những độc giả nhạy cảm về chủ quyền (quan tâm vị trí của người kể chuyện AI đối với vấn đề hai bờ eo biển).'
-relatedDiary:
-  - 2026-07-16-171443-recall-workflow
+  why_this_hook: '不用「誰輸誰贏」的藍綠框架寫政治題，改用「一次直接民主的壓力測試」當組織主軸——把 726 開票夜的「25 案全未過」當開場反差，帶讀者去量出動員能量、門檻高度、極化代價三格刻度。中立紀實、不下兩岸判斷。'
+  whats_excluded: '罷團資金結構（查無一手來源，陰謀論風險高）；跨國罷免制度比較（無權威文獻）；韓國彈劾類比（制度邏輯不同，硬比失焦）；兩岸經貿量化衝擊（無數據且涉地緣臆測）；被訴或被起底個人的私人現況（de-center，只保留公共司法事實）。'
+  where_it_hedges: '「逾 130 萬人次連署」標為宣稱值、口徑未經單一官方文件證實，全文只用一次限定語；死亡連署數字攤開多版本並標查對階段與「件／案」單位；柯建銘「一手策畫」明確標為徐巧芯答辯書的轉述指控；境外反應（國台辦／陸委會）獨立標示為境外政府表態與我方回應，不與台灣內部視角並列；罷團志工田野有報導者具名深度素材、反罷方常民聲音的公開深度素材較稀缺，正文以不同意票動機多元段落與被罷方答辯自述平衡敘事溫度。'
+  whos_pushing_back: '藍營支持者（認為結果已是民意肯定、質疑「辦藍不辦綠」）；罷團與支持者（認為是被門檻扼殺的民意）；疲憊的中間選民（在意的是極化的社會成本）；再現主權敏感的讀者（在意 AI 敘事者對兩岸議題的位置）。'
+relatedDiary: ['2026-07-16-171443-recall-workflow']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/大罷免.md'
-sourceCommitSha: '5add39fc8'
-sourceContentHash: 'sha256:1c18939671190740'
-sourceBodyHash: 'sha256:c336900c050cb32f'
-translatedAt: '2026-08-09T10:41:15+08:00'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:029c5b96b80df013'
+sourceBodyHash: 'sha256:695400871e5b12aa'
+translatedAt: '2026-11-19T06:39:10.210401+00:00'
 ---
 
-# Phong tràobãi miễnlớn nhất lịch sử: 33 đề án toàn không đạt, đo lường mỗi độ chia của dân chủ Đài Loan
+# Đại bãi miễn: Làn sóng bãi miễn lớn nhất lịch sử với 33 đề án đều không thông qua, đo lường từng thước đo của nền dân chủ Đài Loan
 
-> **Tóm tắt 30 giây:** Năm 2025, người dân Đài Loan làm một điều hiếm có trên thế giới: sử dụng quyềnbãi miễn do Hiến pháp trao để hỏi trách nhiệm hơn một phần tư số thành viên Viện Lập pháp. Ba làn bỏ phiếu từ tháng 7 đến tháng 8, 33 đề án không có một đề án nào đạt, phong tràobãi miễn lớn nhất lịch sử Đài Loan khôngbãi miễn được ai. Nhưng khi lùi ống kính ra xa: phong trào này giống như một bài kiểm thử áp lực đối với dân chủ trực tiếp. Đêm 726 có tỷ lệ bỏ phiếu 55,83% tạo nên kỷ lục mới lịch sửbãi miễn, đồng thời đo được ngưỡngbãi miễn cao đến mức nào, một xã hội phân cực phải trả bao nhiêu giá. Nóbãi miễn được không, nhưng đo được rất nhiều.
+> **Tóm tắt trong 30 giây:** Năm 2025, người dân Đài Loan đã làm một điều hiếm thấy trên thế giới: sử dụng quyền bãi miễn được Hiến pháp trao cho để thực hiện một cuộc truy cứu trách nhiệm mang tính trưng cầu dân ý đối với hơn một phần tư số nghị sĩ Quốc hội. Qua ba đợt bỏ phiếu từ tháng 7 đến tháng 8, không có một đề án bãi miễn nào trong số 33 đề án được thông qua; làn sóng bãi miễn quy mô lớn nhất lịch sử này đã không bãi miễn được bất kỳ ghế nào. Tuy nhiên, nếu nhìn rộng hơn: phong trào này giống như một cuộc kiểm tra áp lực (stress test) đối với nền dân chủ trực tiếp. Tỷ lệ cử tri đi bỏ phiếu đạt 55,83% vào đêm 26/7 đã xác lập kỷ lục mới trong lịch sử bãi miễn, đồng thời cũng đo lường được ngưỡng cửa bãi miễn cao đến mức nào và một xã hội bị phân cực phải trả giá bao nhiêu. Thứ mà nó bãi miễn là con số không, nhưng thứ mà nó đo lường được lại vô cùng nhiều.
 
-Đêm 26 tháng 7 năm 2025, con số mở phiếu từ khắp nơi trên toàn quốc tập hợp lại. Ngày hôm đó, việc ở lại hay rời đi của hai mươi bốn thành viên Viện Lập pháp Quốc Dân Đảng và thị trưởng Tân Trúc Cao Hồng An được giao cho cử tri quyết định bằng phiếu bầu — hai mươi lăm đề án bỏ phiếu cùng ngày, là phong tràobãi miễn đồng thời quy mô lớn nhất từng có ở Đài Loan. Chiều đó, tỷ số phiếu đồng ý đã đứng đầu ở một số khu vực bầu cử, trong các kênh trực tiếp mở phiếu của nhómbãi miễn có người đã hét lên. Nhưng đến đêm, hai mươi lăm bảng điểm một tờ một tờ được bổ sung đầy đủ, kết luận nhất quán: toàn bộ không đạt[^1].
+Khi màn đêm buông xuống vào ngày 26 tháng 7 năm 2025, các con số kiểm phiếu bắt đầu đổ về từ khắp nơi trên toàn Đài Loan. Vào ngày này, việc giữ hay mất ghế của 24 lập pháp viên thuộc Đảng Quốc dân và Thị trưởng Tân Trúc Cao Hồng An (Kao Hung-an) đã được giao phó một lần cho cử tri quyết định bằng lá phiếu của mình — 25 đề án cùng bỏ phiếu trong một ngày là cuộc bỏ phiếu bãi miễn diễn ra đồng thời nhiều nhất trong lịch sử Đài Loan. Vào buổi chiều tối, có thời điểm số phiếu đồng ý tại một số khu vực bầu cử dẫn trước, khiến những người xem livestream kiểm phiếu của các nhóm vận động bãi miễn phải thốt lên kinh ngạc. Thế nhưng đến đêm muộn, khi từng bảng kết quả trong số 25 bảng được bổ sung đầy đủ, kết luận đều thống nhất: tất cả đều không thông qua[^1].
 
-Tỷ lệ bỏ phiếu tối hôm đó lên tới 55,83%, là kỷ lục mới lịch sửbãi miễn của Đài Loan[^2]. Một phong trào huy động công dân quy mô lớn nhất lịch sử, đổi lấy một kết quả "khôngbãi miễn được ai". Khôngbãi miễn được gì trong một đêm, nhưng đo được những gì lại viết đầy cả một tấm phim.
+Tỷ lệ cử tri đi bỏ phiếu đêm đó đã vọt lên mức 55,83%, xác lập kỷ lục mới trong lịch sử bãi miễn tại Đài Loan[^2]. Một cuộc huy động công dân quy mô lớn nhất lịch sử đã đổi lại kết quả "không bãi miễn được một ghế nào". Một đêm không bãi miễn được gì cả, nhưng những thứ đo lường được lại viết đầy trên toàn bộ thước phim.
 
-Phong trào này sau đó được gọi chung là "phong tràobãi miễn lớn". Để hiểu nó đo được cái gì, phải hiểu trước thước đo trên thước.
+Phong trào này sau đó được gọi chung là "Đại bãi miễn". Để hiểu rõ nó thực sự đã đo lường được điều gì, trước tiên cần phải hiểu rõ các vạch chia trên thước đo.
 
-## Bãi miễn phải vượt qua ba cánh cửa: 1%, 10%, và một phần tư
+## Bãi miễn phải vượt qua ba ngưỡng: 1%, 10% và một phần tư
 
-Tại Đài Loan, việcbãi miễn một công chức dân cử phải lần lượt vượt qua ba ngưỡng số. Cánh cửa thứ nhất là "đề nghị": số người đề nghị phải đạt 1% tổng số cử tri của khu vực bầu cử. Cánh cửa thứ hai là "liên danh": số người liên danh phải đạt 10%. Vượt qua hai cánh cửa này, đề án mới được thành lập và bước vào giai đoạn bỏ phiếu. Cánh cửa thứ ba là bản thân cuộc bỏ phiếu — số phiếu đồng ý phải nhiều hơn số phiếu không đồng ý, và số phiếu đồng ý còn phải đạt một phần tư tổng số cử tri của khu vực bầu cử,bãi miễn mới được coi là thông qua[^3].
+Tại Đài Loan, để bãi miễn một công chức do dân bầu, quy trình phải lần lượt vượt qua ba ngưỡng về con số. Ngưỡng thứ nhất là "đề xuất": số người đề xuất phải đạt 1% tổng số cử tri tại khu vực bầu cử gốc. Ngưỡng thứ hai là "ký tên tập hợp": số người ký tên phải đạt 10%. Chỉ khi vượt qua hai ngưỡng này, đề án mới được thành lập và tiến tới bước bỏ phiếu. Ngưỡng thứ ba chính là bản thân việc bỏ phiếu — số phiếu đồng ý phải nhiều hơn số phiếu không đồng ý, đồng thời số phiếu đồng ý còn phải đạt ít nhất một phần tư tổng số cử tri tại khu vực bầu cử gốc thì việc bãi miễn mới được thông qua[^3].
 
-Ba cánh cửa này cũng quyết định ai có cơ hội bị đưa lên bụcbãi miễn. Các nghị sĩ không theo khu vực bầu cử toàn quốc được phân bổ theo tỷ lệ phiếu của đảng, không có "khu vực bầu cử gốc", về mặt thể chế hoàn toàn không thể bịbãi miễn[^4]. Đó là lý do tại sao 31 nghị sĩ được đưa vào bỏ phiếubãi miễn năm 2025 đều là nghị sĩ khu vực. Người có quyền bầu là công dân từ 20 tuổi trở lên, đã đăng ký hộ khẩu tại khu vực bầu cử đó từ bốn tháng trở lên; học sinh trung học 18 tuổi không được bầu, công dân hải ngoại không có hộ khẩu Đài Loan cũng không được bầu[^5].
+Ba ngưỡng này cũng quyết định ai có cơ hội bị đưa lên "đài bãi miễn". Các lập pháp không phân khu (toàn quốc) được phân bổ dựa trên tỷ lệ phiếu bầu của đảng phái và không có "khu vực bầu cử gốc", nên về mặt chế độ, họ hoàn toàn không thể bị bãi miễn[^4]. Đây chính là lý do tại sao 31 lập pháp bị đưa vào diện bỏ phiếu bãi miễn năm 2025 đều là các lập pháp khu vực. Những người có quyền bỏ phiếu là cử tri đủ 20 tuổi và đã đăng ký hộ khẩu tại khu vực bầu cử đó từ đủ bốn tháng trở lên. Học sinh trung học 18 tuổi không được bỏ phiếu, và những kiều dân đăng ký hộ khẩu ở nước ngoài, không có hộ khẩu Đài Loan cũng không được bỏ phiếu[^5].
 
-Độ cao của cánh cửa thứ ba được điều chỉnh thành hình dạng ngày nay chỉ vào năm 2016. Trước đó,bãi miễn áp dụng ngưỡng "kép hai-một": tỷ lệ bỏ phiếu phải vượt quá 50%, và số phiếu đồng ý phải vượt quá 50% so với số phiếu bầu thì mới thông qua. Năm 2015, hành động "Cắt đuôi lan"bãi miễn nghị sĩ Thái Chính Nguyên, tỷ lệ bỏ phiếu chỉ 24,98%, thậm chí chưa vượt qua cửa tỷ lệ bỏ phiếu,bãi miễn tự động thất bại[^6]. Tháng 11 năm 2016, Viện Lập pháp sửa đổi ngưỡng thành "phiếu đồng ý nhiều hơn phiếu không đồng ý, và đạt một phần tư tổng số cử tri", loại bỏ yêu cầu cứng về tỷ lệ bỏ phiếu vượt quá 50%[^7]. Đề xuất sửa đổi này đến từ các phiên bản của nhóm Đảng Sức mạnh Thời đại và Đảng Dân chủ Tiến bộ, được thông qua sau khi xem xét hợp nhất.
+Độ cao của ngưỡng thứ ba chỉ mới được điều chỉnh thành như hiện nay vào năm 2016. Trước đó, việc bãi miễn áp dụng ngưỡng "Song Nhị Nhất" (hai lần quá bán): tỷ lệ cử tri đi bỏ phiếu phải trên 50%, và số phiếu đồng ý cũng phải trên 50% thì mới được coi là thông qua. Trong chiến dịch "Cắt đuôi cá" (Ge Lan Wei) năm 2015 nhằm bãi miễn lập pháp Thái Chính Nguyên (Tsai Cheng-yuan), tỷ lệ cử tri đi bỏ phiếu chỉ đạt 24,98%, thậm chí còn chưa vượt qua được cửa ải bỏ phiếu, khiến việc bãi miễn tự động thất bại[^6]. Vào tháng 11 năm 2016, Lập pháp viện đã sửa đổi ngưỡng thành "số phiếu đồng ý nhiều hơn số phiếu không đồng ý và đạt 1/4 số cử tri", loại bỏ yêu cầu cứng nhắc về việc tỷ lệ cử tri đi bỏ phiếu phải quá bán[^7]. Đề xuất sửa đổi luật này đến từ nhiều phiên bản của đảng Thời Đại Sức Mạnh (New Power Party) và các lập pháp Đảng Dân Tiến vào thời điểm đó, sau khi được xem xét kết hợp đã chính thức thông qua.
 
-Nghịch lý là, một trong những đảng đề xuất giảm ngưỡng, Đảng Sức mạnh Thời đại, đã khiến đại biểu Hoàng Quốc Chương trở thành nghị sĩ đầu tiên bị đưa vào bỏ phiếubãi miễn sau khi chế độ mới có hiệu lực vào năm 2017. Lần đó, ông nhận được 48.693 phiếu đồng ý, không vượt qua ngưỡng 63.888 phiếu, bảo toàn được ghế[^8]. Người điều chỉnh giảm ngưỡng, trở thành người đầu tiên bị kiểm tra dưới chế độ mới; lần đó, ngưỡng không bị vượt qua. Cuộc tranh luận thể chế về "việc khiến người đương nhiệm dễ bị thách thức hơn như thế nào" đã được tranh cãi một vòng trước Phong tràobãi miễn Lớn, và gieo mầm cho ngưỡng 25% năm 2025 (xem thêm [Bầu cử và Chính trị Đảng phái Đài Loan](/vi/history/taiwan-elections-and-party-politics)).
+Một sự mỉa mai là Hoàng Quốc Xương (Huang Kuo-chang), một nhân vật đại diện của Thời Đại Sức Mạnh — một trong những đảng đưa ra đề xuất hạ thấp ngưỡng bãi miễn — đã trở thành lập pháp đầu tiên bị đưa lên đài bỏ phiếu bãi miễn sau khi chế độ mới có hiệu lực vào năm 2017. Lần đó, ông nhận được 48.693 phiếu đồng ý, không vượt qua ngưỡng 63.888 phiếu và đã giữ vững được ghế của mình[^8]. Người hạ thấp ngưỡng lại trở thành đối tượng đầu tiên bị "thử nghiệm" khi chế độ mới đi vào hoạt động. Kết quả là lần đó, ngưỡng bãi miễn đã không bị vượt qua. Cuộc tranh luận về chế độ liên quan đến việc "làm thế nào để người đương nhiệm dễ bị thách thức hơn" đã diễn ra một vòng trước đợt bãi miễn lớn, và cũng chính là tiền đề cho ngưỡng 25% của năm 2025 (xem thêm [Bầu cử Đài Loan và Chính trị đảng phái](/vi/history/taiwan-elections-and-party-politics)).
 
 ```tw-versus
-Trước sửa đổi 2016 (kép hai-một) | Sau sửa đổi 2016 (chế độ hiện hành)
-Tỷ lệ bỏ phiếu phải đạt 50% trở lên | Không quy định tỷ lệ bỏ phiếu
-Phiếu đồng ý phải vượt quá một nửa số phiếu | Phiếu đồng ý phải nhiều hơn phiếu không đồng ý
-Ngưỡng cao,bãi miễn khó thành lập | Phiếu đồng ý phải đạt cử tri 1/4
-Nguồn: Luật Bầu cử vàbãi miễn Công chức, Mạng lưới Nguồn Luật Pháp
+Trước khi sửa luật năm 2016 (Song Nhị Nhất) | Sau khi sửa luật năm 2016 (Chế độ hiện tại)
+Tỷ lệ cử tri đi bỏ phiếu phải đạt trên 50% | Không đặt ngưỡng tỷ lệ cử tri đi bỏ phiếu
+Phiếu đồng ý phải chiếm hơn một nửa số phiếu bầu | Phiếu đồng ý phải nhiều hơn phiếu không đồng ý
+Ngưỡng cao, việc bãi miễn khó thành lập | Phiếu đồng ý còn phải đạt 1/4 số cử tri
+Nguồn: Luật Bầu cử và Bãi miễn Công chức, Pháp nguyên Luật võng
 ```
 
 ```tw-note
-Lưu ý
-Bài viết này có ba tỷ lệ dễ nhầm lẫn. "Tỷ lệ bỏ phiếu" là số người bỏ phiếu ÷ số cử tri hợp lệ; "tỷ lệ thúc đẩy phiếu đồng ý" là số phiếu đồng ý ÷ số cử tri hợp lệ,bãi miễn có thông qua hay không phụ thuộc vào đây, ngưỡng là 25%; "tỷ lệ phiếu" là một loại phiếu ÷ số phiếu có hiệu lực. Ba tỷ lệ này có mẫu số khác nhau, không thể thay thế.
+Giải thích
+Trong bài viết này có ba tỷ lệ dễ gây nhầm lẫn. "Tỷ lệ cử tri đi bỏ phiếu" là Số người đi bỏ phiếu ÷ Tổng số cử tri đủ điều kiện; "Tỷ lệ phiếu đồng ý" (tỷ lệ vận động phiếu đồng ý) là Số phiếu đồng ý ÷ Tổng số cử tri đủ điều kiện, việc bãi miễn có thông qua hay không dựa vào con số này với ngưỡng là 25%; "Tỷ lệ phiếu bầu" là một loại phiếu nhất định ÷ Tổng số phiếu hợp lệ. Mẫu số của ba đại lượng này khác nhau, không thể hoán đổi cho nhau.
 ```
 
-Thước đo được lập sẵn. Câu hỏi tiếp theo là, tại sao năng lượng lại tích tụ đến mức phải sử dụng thước đo này — điều đó phải từ một ghế chênh lệch trong Viện Lập pháp mà kể đến.
+Thước đo đã được đặt sẵn: Vấn đề tiếp theo là tại sao năng lượng lại tích tụ đến mức phải sử dụng đến cây thước này — điều đó phải bắt đầu từ sự chênh lệch chỉ một ghế duy nhất trong Lập pháp viện.
 
-## Một ghế chênh lệch của Quốc hội
+## Quốc hội chỉ cách biệt một ghế
 
-Cuộc bầu cử Viện Lập pháp tháng 1 năm 2024 bầu ra một viện không có đảng nào đơn độc vượt quá một nửa. Quốc Dân Đảng giành 52 ghế, Dân chủ Tiến Đảng 51 ghế, Đảng Nhân dân Đài Loan 8 ghế, cộng 2 ghế không đảng thiên về phe xanh, tổng cộng 113 ghế[^9]. Quốc Dân Đảng chỉ hơn Dân chủ Tiến Đảng một ghế, nhưng sử dụng hợp tác với Đảng Nhân dân Đài Loan, vào lúc 14 giờ ngày 1 tháng 2, cuộc bầu viện trưởng với tỷ số 54 tối 51 đưa Hàn Quốc Dự vào ghế viện trưởng Viện Lập pháp[^10]. Quốc hội ba đảng không vượt quá nửa, từ ngày đầu tiên đã là một cuộc khum thieng.
+Cuộc bầu cử lập pháp vào tháng 1 năm 2024 đã bầu ra một Viện Lập pháp mà không đảng nào chiếm được đa số quá bán. Đảng Quốc dân giành được 52 ghế, Đảng Dân tiến 51 ghế, Đảng Dân chủ Công dân Đài Loan (TPP) 8 ghế, cộng thêm 2 ghế của các ứng cử viên không đảng phái có xu hướng nghiêng về phe Xanh, tổng cộng là 113 ghế[^9]. Đảng Quốc dân chỉ nhiều hơn Đảng Dân tiến đúng một ghế, nhưng nhờ sự hợp tác với đảng TPP, họ đã đưa Hàn Quốc Du (Han Kuo-yu) lên vị trí Viện trưởng Viện Lập pháp với tỷ lệ phiếu 54 so với 51 trong cuộc bầu cử Viện trưởng vào ngày 1 tháng 2[^10]. Một Quốc hội mà cả ba đảng đều không chiếm quá bán đã trở thành một cuộc giằng co ngay từ ngày đầu tiên.
 
-Khum thieng nhanh chóng từ lĩnh vực nhân sự lan sang pháp án. Tháng 5 năm 2024, hai đảng xanh-trắng thúc đẩy sửa đổi _Luật Thẩm quyền Viện Lập pháp_, mở rộng quyền điều tra, thẩm vấn của quốc hội, và thêm "tội xúc phạm quốc hội". Vào chiều cuối tháng 5, ngày ba lần đọc, hàng ngàn dân chúng tập trung bên ngoài Viện Lập pháp để phản đối, đây là khởi điểm của sau đó được gọi là "Phong trào Chim Xanh". Viện Hành pháp nộp phúc nghị, ngày 21 tháng 6 bị Viện Lập pháp bác bỏ với tỷ số 62 tối 51[^11]. Tranh chấp được đẩy đến Tòa án Hiến pháp, ngày 25 tháng 10 cùng năm, Hiến định tự số 9 xác định nhiều điều khoản (tội xúc phạm quốc hội, các quy định thẩm vấn và điều tra một phần) vi hiến mà mất hiệu lực, nhưng đồng thời xác định thủ tục pháp luật tuy có khiếm khuyết, chưa đạt mức vi hiến. Đây là một phán quyết "vi hiến một phần", không phải lật đổ toàn diện[^12].
+Sự giằng co nhanh chóng lan từ vấn đề nhân sự sang các dự luật: Vào tháng 5 năm 2024, hai đảng Xanh và Trắng đã thúc đẩy sửa đổi 《Luật Thực thi Quyền hạn của Viện Lập pháp》, mở rộng quyền điều tra, quyền chất vấn của Quốc hội và bổ sung thêm "tội coi thường Quốc hội". Vào ngày thông qua lần ba cuối tháng 5, một lượng lớn người dân đã tập trung bên ngoài Viện Lập pháp để phản đối, đây chính là khởi đầu của "Phong trào Chim Xanh" (Bluebird Movement) sau này. Hành chính viện đã đưa ra đề nghị xem xét lại, nhưng vào ngày 21 tháng 6, đề nghị này đã bị Viện Lập pháp bác bỏ với tỷ lệ 62 so với 51[^11]. Tranh cãi kéo dài đến tận Tòa án Hiến pháp; vào ngày 25 tháng 10 cùng năm, Phán quyết số 9 của Tòa án Hiến pháp xác định nhiều điều khoản trong đó (tội coi thường Quốc hội, một số quy định về quyền chất vấn và điều tra) là vi hiến và vô hiệu, nhưng đồng thời cũng nhận định rằng mặc dù quy trình lập pháp có sai sót nhưng chưa đạt đến mức độ vi hiến. Đây là một phán quyết "vi hiến một phần", chứ không phải bác bỏ toàn bộ[^12].
 
-Thực sự phóng lửa to ra, là tối 20 tháng 12 năm 2024. Liên minh Quốc Dân-Đảng Nhân dân ba lần đọc ba luật: _Luật Bầu cửbãi miễn_ yêu cầu liên danhbãi miễn phải kèm theo mặt trước và sau thẻ căn cước, và nâng hình phạt cho liên danh giả mạo lên tối đa năm năm. _Luật Kiến nghị Hiến pháp_ nâng ngưỡng bình chọn của Tòa án Hiến pháp lên mười vị đại pháp gia trở lên. _Luật Phân chia Tài chính_ điều chỉnh lớn sự phân bổ tài chính giữa trung ương và địa phương, theo tính toán Bộ Tài chính, trung ương phải giải phóng 3.753 tỷ đồng cho địa phương[^13][^14]. Một tháng sau, ngày 21 tháng 1 năm 2025, Viện Lập pháp ba lần đọc cắt giảm 2.075 tỷ đồng, đóng băng 2.600 tỷ đồng ngân sách tổng thể chính phủ trung ương (hai cái là những hành động khác nhau, không thể cộng)[^15][^49]. Cả một kỳ hội họp xuống, công kích phòng thủ của những dự luật và ngân sách này đã biến quốc hội thành một nồi áp lực.
+![Trong giai đoạn tranh đấu sửa đổi luật quyền hạn Quốc hội ngày 21 tháng 5 năm 2024, mặt chính của phòng họp Viện Lập pháp treo các biểu ngữ](/article-images/history/recall-legislative-chamber-2024.webp)
+_Ngày 21 tháng 5 năm 2024, phòng họp Viện Lập pháp trong giai đoạn tranh đấu sửa đổi luật quyền hạn Quốc hội. Photo: QuYi96 / Wikimedia Commons, CC BY-SA 4.0._
 
-Thước chưa bắt đầu đọc, các vạch chia đã bắt đầu run rẩy. Áp lực tích tụ một năm trong hội trường tàn dư qua tường bao, trước tiên biến thành Chim Xanh bên ngoài Viện Lập pháp, sau đó biến thành từng lá thư gửi vào hòm thư của những chữ ký liên danh.
+Thứ thực sự thổi bùng ngọn lửa chính là đêm ngày 20 tháng 12 năm 2024, khi liên minh Xanh - Trắng đã cùng thông qua lần ba ba đạo luật: 《Luật Bầu cử》 yêu cầu các đơn kiến nghị bãi miễn phải đính kèm bản sao mặt trước và mặt sau của chứng minh thư, đồng thời nâng mức hình phạt đối với hành vi làm giả chữ ký kiến nghị lên tối đa 5 năm tù. 《Luật Tố tụng Hiến pháp》 nâng ngưỡng hội ý của Tòa án Hiến pháp lên trên 10 thẩm phán hiến pháp. 《Luật Phân bổ Tài chính》 điều chỉnh mạnh mẽ việc phân bổ nguồn thu giữa trung ương và địa phương; theo tính toán của Bộ Tài chính, trung ương sẽ phải giải ngân thêm NT$375,3 tỷ cho địa phương[^13][^14]. Một tháng sau đó, vào ngày 21 tháng 1 năm 2025, Viện Lập pháp lại thông qua lần ba việc cắt giảm NT$207,5 tỷ và đóng băng NT$260 tỷ trong tổng ngân sách Chính phủ Trung ương (đây là hai động thái khác nhau, không thể cộng dồn)[^15][^49]. Suốt cả một nhiệm kỳ, những cuộc tranh đấu về dự luật và ngân sách này đã biến Quốc hội thành một "nồi áp suất".
+
+Khi thước đo còn chưa kịp đọc số, các vạch chia độ đã bắt đầu rung lắc. Áp lực tích tụ suốt một năm trong phòng họp đã tràn qua tường rào, trước tiên biến thành "Chim Xanh" bên ngoài Viện Lập pháp, sau đó trở thành từng tờ đơn kiến nghị gửi vào hòm thư.
 
 ```tw-timeline
-Toàn cảnh thời gian của toàn bộ phong tràobãi miễn lớn (từng phần chi tiết được khai triển sau)
-2024/01 | Bầu cử Viện Lập pháp ba đảng không vượt quá nửa | Quốc Dân Đảng 52, Dân chủ Tiến Đảng 51, Đảng Nhân dân Đài Loan 8, Không đảng 2
-2024/05 | Sửa đổi quyền Viện Lập pháp + Phong trào Chim Xanh | Ngày ba lần đọc hàng ngàn dân chúng tập trung bên ngoài
-2024/10 | Hiến định tự số 9 | Nhiều điều khoản sửa đổi quyền vi hiến một phần
-2024/12 | Ba luật ba lần đọc | Luật Bầu cửbãi miễn, Luật Kiến nghị Hiến pháp, Luật Phân chia Tài chính thông qua
-2025/01 | Ngân sách tổng thể + Liên minh lực lượng tình nguyện thành lập | Cắt 2.075 tỷ đóng 2.600 tỷ; từ 2 tháng khởi động liên danh
-2025/07 | Hai làn bỏ phiếu đầu | 7/13 Nam Đầu 1 vụ, 7/26 hai mươi lăm vụ toàn không đạt
-2025/08 | Làn bỏ phiếu thứ ba | 8/23 bảy vụ + trưng cầu dân ý lõi ba toàn không đạt
-2026/07 | Bế tắc chưa giải quyết | Sửa đổi luậtbãi miễn ngưỡng vẫn chưa vào hội nghị xem xét
-Nguồn: Ủy ban Bầu cử Trung ương, Viện Lập pháp, phối hợp Báo chí
+Toàn cảnh thời gian của đợt bãi miễn lớn (chi tiết từng giai đoạn sẽ được trình bày ở phần sau)
+2024/01 | Bầu cử lập pháp: Ba đảng không chiếm quá bán | Quốc dân 52, Dân tiến 51, TPP 8, Không đảng phái 2
+2024/05 | Sửa luật quyền hạn Quốc hội + Phong trào Chim Xanh | Ngày thông qua lần ba, đông đảo người dân tập trung ngoài Viện Lập pháp
+2024/10 | Phán quyết số 9 của Tòa án Hiến pháp | Nhiều điều khoản sửa đổi quyền hạn bị tuyên vi hiến một phần
+2024/12 | Thông qua ba đạo luật | Luật Bầu cử, Luật Tố tụng Hiến pháp, Luật Phân bổ Tài chính cùng được thông qua
+2025/01 | Thông qua cắt giảm/đóng băng ngân sách + Thành lập liên minh tình nguyện viên | Cắt NT$207,5 tỷ, đóng băng NT$260 tỷ; bắt đầu thu thập chữ ký từ tháng 2
+2025/07 | Hai đợt bỏ phiếu đầu tiên | 13/7: 1 đề án tại Nam Đầu không thông qua; 26/7: 25 đề án đều không thông qua
+2025/08 | Đợt bỏ phiếu thứ ba | 23/8: 7 đề án + Trưng cầu dân ý nhà máy hạt nhân số 3 đều không thông qua
+2026/07 | Bế tắc chưa giải quyết | Việc sửa đổi ngưỡng bãi miễn vẫn chưa được đưa ra thảo luận tại phiên họp toàn thể của Viện
+Nguồn: Ủy ban Bầu cử Trung ương, Viện Lập pháp, tổng hợp bởi Reporter
 ```
 
-![Ngày 21 tháng 5 năm 2024, trong thời kỳ công kích phòng thủ sửa đổi quyền Viện Lập pháp, phía trước hội trường Viện Lập pháp treo tấm biển](/article-images/history/recall-legislative-chamber-2024.webp)
-_Ngày 21 tháng 5 năm 2024, hội trường Viện Lập pháp trong giai đoạn công kích phòng thủ sửa đổi quyền. Photo: QuYi96 / Wikimedia Commons, CC BY-SA 4.0._
+## 1.300 bản kiến nghị trong hòm thư
 
-## Một hòm thư chứa một nghìn ba trăm bức thư liên danh
+Năng lượng từ phong trào "Hành động Chim Xanh" (Bluebird Movement) không trực tiếp biến thành các cuộc bãi miễn. Trần Hiểu Vĩ (Chen Hsiao-wei), người dẫn đầu vụ bãi miễn Ngưu Húc Đình (Niu Hsu-ting) tại Đào Viên, là một mục sư; ông vẫn nhớ như in biểu đồ đó: "Từ tháng 7 năm ngoái, Đào Viên đã bắt đầu thu thập chữ ký bãi miễn, nhưng trong suốt 4 tháng rưỡi, hòm thư chỉ nhận được vỏn vẹn 9 bản kiến nghị của Đồ Quyền Cát (Tu Chuan-chi) và 11 bản của Ngưu Húc Đình. Sau phong trào Chim Xanh vào mùa đông tháng 12, mỗi ngày có thể nhận được từ 100 đến 400 bản; đến đầu tháng 2 năm nay, sau khi kết thúc kỳ nghỉ Tết Nguyên đán, mở hòm thư ra đã thấy đầy ắp hơn 1.300 bản." [^16] Biển ánh sáng điện thoại trên đường phố phải mất gần bảy tháng mới lắng đọng lại thành từng bản kiến nghị kèm theo bản sao chứng minh thư được gửi vào hòm thư.
 
-Năng lượng của Phong trào Chim Xanh, không phải trực tiếp biến thànhbãi miễn. Thủ lĩnh của vụbãi miễn Niu Hú Đình ở Đào Viên là Linh mục Trần Tiểu Sóng Ơi, ông nhớ lại đường cong đó: "Đào Viên từ tháng 7 năm ngoái đã bắt đầu thu thập chữ ký liên danhbãi miễn, nhưng trong bốn tháng rưỡi, hòm thư chỉ nhận được 9 chữ ký của Đô Quyền Cát và 11 chữ ký của Niu Hú Đình. Sau hành động Chim Xanh mùa đông tháng 12, mỗi ngày có thể nhận được 100 đến 400 chữ ký, đầu tháng 2 năm nay, sau kết thúc Tết Nguyên Đán, khi mở hòm thư toàn lên tới hơn 1.300 chữ ký."[^16] Ánh sáng bật từ bao điện thoại trên đường phố, mất gần bảy tháng, mới lắng đọng thành từng bức thư gồm ảnh thẻ căn cước, gửi vào hòm thư.
+Vào ngày 22 tháng 1 năm 2025, nhà sáng lập UMC Cao Hưng Thành (Morris Chang) đã kết nối các nhóm như Nam Xã, Hiệp hội Giáo sư Đài Loan và các tổ chức khác để thành lập "Liên minh Tình nguyện viên Chống Cộng Bảo vệ Đài Loan", tạo ra một tổ chức dạng ô dù cho các nhóm bãi miễn lẻ tẻ ở khắp nơi [^17]. Bản thân ông Cao Hưng Thành đóng hai vai trò trong đó: người triệu tập liên minh, và là người dẫn đầu đội ngũ "Nhổ cỏ đen" (Chǎn chú hēi xīn) trong vụ bãi miễn Từ Xảo Tâm (Hsu Chiao-hsin). Nhóm sau chỉ là một trong hơn ba mươi nhóm bãi miễn, không phải tất cả.
 
-Ngày 22 tháng 1 năm 2025, Tôn Tân Thành người sáng lập Liên Điện Tử, kết nối Cộng đồng Nam, Hội các giáo sư Đài Loan và các tổ chức khác, thành lập "Liên minh Lực lượng Tình nguyện Chống Cộng Bảo vệ Đài Loan", xây dựng một ô che cho những nhómbãi miễn rải rác khắp các địa phương[^17]. Tôn Tân Thành chính bản thân người đóng hai vai trò trong đó: người triệu tập của liên minh, và người dẫn đầu của đội "Cắt đi lõi đen" trong vụbãi miễn Từ Ngọc Tâm. Cái sau chỉ là một trong ba mươi cáibãi miễn nhóm, không phải toàn bộ.
+![Ngày 21 tháng 5 năm 2024, nhà sáng lập UMC Cao Hưng Thành xuất hiện diễn thuyết tại hoạt động phản đối trước Tòa Lập pháp](/article-images/history/recall-tsao-hsing-cheng-rally-2024.webp)
+_Ngày 21 tháng 5 năm 2024, Cao Hưng Thành diễn thuyết tại hoạt động phản đối trước Tòa Lập pháp; tám tháng sau, ông kết nối các nhóm bãi miễn khắp nơi để thành lập liên minh tình nguyện viên. Ảnh: TMYAO / Wikimedia Commons, CC BY-SA 4.0._
 
-![Ngày 21 tháng 5 năm 2024, nhà sáng lập Liên Điện Tử Tôn Tân Thành xuất hiện trong hoạt động mít tinh bên ngoài Viện Lập pháp phát biểu](/article-images/history/recall-tsao-hsing-cheng-rally-2024.webp)
-_Ngày 21 tháng 5 năm 2024, Tôn Tân Thành phát biểu tại hoạt động mít tinh bên ngoài Viện Lập pháp; tám tháng sau, ông kết nối các nhómbãi miễn khắp nơi thành lập liên minh. Photo: TMYAO / Wikimedia Commons, CC BY-SA 4.0._
+Đội ngũ tình nguyện viên tiếp nhận làn sóng năng lượng này có diện mạo khác hẳn trước đây. Quan sát thực địa của phóng viên cho thấy, tỷ lệ tình nguyện viên nữ tại các khu vực bầu cử lên tới 70% đến 90%, trong khi các tình nguyện viên bãi miễn trước đây "chỉ chiếm tối đa 60-70%" [^16]. Độ tuổi cũng thay đổi: từ những học sinh trung học tham gia phong trào Hướng Dương năm 2015, đến những người mới đi làm tham gia vụ bãi miễn Hàn Hàn (Han Kuo-yu) năm 2020, nay đã chuyển sang lực lượng nòng cốt của năm 2025: thế hệ ở độ tuổi 30, 40, mà những người được phỏng vấn mô tả là "gần như đều là quản lý cấp trung trong các lĩnh vực" — từ phong trào Hướng Dương đến Chim Xanh rồi đến các nhóm bãi miễn, có thể thấy rõ một đường cong của thế hệ đường phố đang dần mất đi tính chất sinh viên và dịch chuyển dần sang độ tuổi trung niên (xem thêm về [Phong trào xã hội và sự tham gia của công dân](/vi/society/social-movements-and-civic-participation)). Một số nhóm bãi miễn thực hiện việc thẩm định rất nghiêm ngặt, như nhóm "Sơn Trừ Vi Hại" yêu cầu tình nguyện viên ứng tuyển phải quay video nói trực tiếp câu "Tập Cận Bình từ chức" để lưu trữ làm bằng chứng [^16].
 
-Tình nguyện viên đón lấy làn sóng này, trông có vẻ khác với quá khứ. Quan sát thực địa của Báo chí phát hiện, tỷ lệ tình nguyện viên nữ ở các khu vực bầu cử cao đạt bảy đến chín mươi phần trăm, những người tình nguyệnbãi miễn quá khứ "tối đa 6, 7 mươi phần trăm"[^16]. Độ tuổi cũng từ sinh viên trung học và sinh viên mới tốt nghiệp năm 2015 và 2020, chuyển sang năm 2025 lực lượng chính: ba mươi, bốn mươi tuổi, những người được phỏng vấn mô tả "hầu như đều là quản lý cấp trung các lĩnh vực" thế hệ — từ Hoa Hướng Dương đến Chim Xanh rồi đến nhómbãi miễn, một đường cong thế hệ đường phố mất tính chất sinh viên, tiến tới tuổi trung niên rõ ràng (xem thêm [Phong trào xã hội và Tham gia Công dân](/vi/society/social-movements-and-civic-participation)). Một số nhómbãi miễn kiểm tra rất kỹ, "Sơn trừ Vi hại" yêu cầu những tình nguyện viên ứng tuyển quay lại video nói "Tập Cận Bình xuống cai" rồi lưu trữ để kiểm tra[^16].
+Lực lượng tình nguyện viên mới này mang hai sắc thái. Một là văn hóa tổ chức hướng tới hiệu suất. Cố vấn liên minh Giản Gia Hữu (Chien Chia-yu) mô tả: "Trước đây chúng tôi thường thảo luận về lý luận, cùng mọi người bàn xem 'tại sao phải bãi miễn nghị sĩ này'; nhưng giờ đây các nhóm bãi miễn giống như một công ty, chú trọng vào tư duy KPI." Sắc thái còn lại là niềm tin cá nhân sâu sắc. Một tình nguyện viên hỗ trợ cho chiến dịch "Đại Xóa Nguyên" (Đại xóa bỏ tiền tệ) tại Bản Kiều kể rằng khi cô nói muốn đi làm tình nguyện, chồng cô ban đầu đã hỏi: "Liệu có bãi miễn được không? Một mình em thì thay đổi được gì?". Trong khi đó, Tiểu Thi (Xiao Shi), một người di cư từ Hồng Kông và là phó lãnh đạo nhóm bãi miễn tại Đào Viên, chia sẻ rằng tham gia bãi miễn là lần thứ ba cô cảm thấy mình là người Đài Loan. Câu tiếng Đài đầu tiên cô học được chính là "Bãi miễn cứu Đài Loan" [^16].
 
-Lĩnh vực văn hóa cũng bị cuốn vào. Tác giả Dương Song Tử khởi động liên danh, từ đầu tháng 2 có hơn hai trăm người, một đường chuyển tiến đến một nghìn bốn mươi ba tác giả, tuyên bố liên danh trích dẫn từ Brodsky: "Văn học có quyền can thiệp vào chính trị, cho đến khi chính trị không ngừng can thiệp vào văn học"[^18].
+Giới văn hóa cũng bị cuốn vào làn sóng này. Cuộc vận động ký tên do nhà văn Dương Song Tử (Yang Shuang-tzu) khởi xướng đã tăng từ hơn 200 người hồi đầu tháng 2 lên tới 1.043 nhà văn; bản tuyên bố kiến nghị đã trích dẫn lời của Brodsky: "Văn học có quyền can thiệp vào chính trị, cho đến khi chính trị ngừng can thiệp vào văn học" [^18].
 
-Độ đo thứ nhất đã được đọc ra: năng lượng huy động là thực tế, và tạo thành kỷ lục. Năng lượng lớn, cả hai bên đều bắt đầu cầm chế độ làm vũ khí đánh nhau.
+Vạch đầu tiên trên thước đo đã hiện rõ: năng lượng huy động là có thật, và nó đã lập kỷ lục. Khi năng lượng bùng nổ, cả hai phía đều bắt đầu dùng các quy chế làm vũ khí để tấn công đối phương.
 
-## Ai khởi động phong tràobãi miễn lớn, hai bên đưa ra những câu trả lời hoàn toàn khác nhau
+## Ai là người phát động cuộc đại bãi miễn, hai bên đưa ra câu trả lời khác nhau
 
-Điều cơ bản nhất của phong trào này, nó thực sự do ai khởi động, hai bên phe đưa ra câu trả lời hoàn toàn khác nhau.
+Điều cơ bản nhất trong phong trào này chính là việc ai là người đã phát động nó, và hai phe đối lập đang đưa ra những câu trả lời hoàn toàn khác biệt.
 
-Tự kể của nhómbãi miễn là: đây là hành động công dân tự phát, độc lập với Dân chủ Tiến Đảng, trục chính là "Chống Cộng Bảo vệ Đài Loan". Lập trường này cũng được một số nhà quan sát bên ngoài cộng hưởng, blog học thuật _Taiwan Insight_ của Đại học Nottingham mô tả nó là một phong trào "do công dân khởi động" (citizen-initiated), không chỉ là đối đầu đảng phái[^19].
+Tự sự của các nhóm bãi miễn là: Đây là hành động tự phát của công dân, độc lập với Đảng Dân tiến (DPP), với chủ trục là "phản cộng bảo vệ Đài Loan". Cách nói này cũng nhận được sự đồng tình từ một số quan sát viên bên ngoài; blog học thuật Taiwan Insight của Đại học Nottingham đã mô tả đây là một phong trào "do công dân khởi xướng" (citizen-initiated), chứ không chỉ đơn thuần là sự đối đầu giữa các đảng phái[^19].
 
-Phía đối diện có cách nói khác. Thành viên Viện Lập pháp Quốc Dân Đảng Từ Ngọc Tâm trong thư trả lờibãi miễn của cô tập trung vào đảng cầm quyền, kỷ luật "Tổng triệu tập Dân chủ Tiến Đảng ở Viện Lập pháp Kha Kiến Minh nhiều lần thừa nhận bằng miệng, phong tràobãi miễn lớn được anh ta một tay lên kế hoạch khởi động", và gọi đây là "phong trào công dân giả được Dân chủ Tiến Đảng thao túng"[^20].
+Phía đối diện lại có cách nói khác: Nghị sĩ Quốc dân đảng Từ Xảo Tâm (Hsu Chiao-hsin) trong bản biện hộ bãi miễn của mình đã chĩa mũi dùi vào đảng cầm quyền, cáo buộc rằng "Tổng thư ký nhóm nghị sĩ tại Lập pháp viện của Đảng Dân tiến là Kha Kiến Minh (Ker Chien-ming) đã nhiều lần đích thân thừa nhận rằng hành động đại bãi miễn này do chính ông ta lên kế hoạch và phát động", đồng thời gọi đây là "phong trào công dân giả tạo do Đảng Dân tiến thao túng"[^20].
 
-Những gì cần chú ý là, đây là sự chuyển thuật kỷ luật của Từ Ngọc Tâm tới Kha Kiến Minh trong thư trả lời, thuộc về lập trường phe đối phương. Còn những gì Kha Kiến Minh chính bản thân công khai nói được, có thể tra cứu, chỉ có câu ngày 24 tháng 8 sau khi bỏ phiếu kết thúc "phong tràobãi miễn lớn vẫn là thành công lớn, 1,3 triệu bức thư liên danh chứng minh ý kiến dân chúng đã sôi nổi lên"[^21]. Các thành viên Viện Lập pháp bịbãi miễn thì hầu hết trả lời về thành tích, Phù Côn Kỳ trong thư trả lời liệt kê "Tỷ lệ hài lòng với công việc của chính phủ bảy mươi bảy phần hai", "Tạo ra ngũ tinh chín lần vô địch toàn quốc duy nhất"[^50]. Chủ tịch Quốc Dân Đảng Chu Lập Luân thì định hướng ngày 19 tháng 7 trong cuộc tập hợp động viên ở Bản Triêu: "Trong quá khứ, Đài Loan chưa bao giờ có người cai quản đảng phái khởi độngbãi miễn lớn để đối phó đảng phái đối lập, trên thế giới cũng tìm không được bất kỳ nước dân chủ nào…chỉ có Tổng thống Lại Thanh Đức dám làm thế."[^22]
+Cần lưu ý rằng, đây là lời cáo buộc mang tính thuật lại của Từ Xảo Tâm đối với Kha Kiến Minh trong bản biện hộ, thuộc về quan điểm của phe đối lập. Còn về những phát ngôn liên quan đã được công khai và có thể kiểm chứng của chính ông Kha Kiến Minh, chỉ có câu nói sau khi kết thúc bỏ phiếu vào ngày 24 tháng 8: "Cuộc đại bãi miễn vẫn là một thành công lớn, 1,3 triệu chữ ký đã chứng minh ý chí của dân chúng đã trỗi dậy"[^21]. Các nghị sĩ bị đề nghị bãi miễn thì đa số dùng thành tích chính trị để biện hộ; Phó Căn Kỳ (Fu Kun-chi) trong bản biện hộ đã liệt kê các mục như "đạt mức độ hài lòng về điều hành là 77,2%" hay "tạo nên kỷ lục năm sao liên tiếp duy nhất tại Đài Loan"[^50]. Chủ tịch Quốc dân đảng Chu Lập Luân (Chu Li-luan) trong buổi mít tinh vận động tại Bản Kiều vào ngày 19 tháng 7 đã khẳng định: "Trước đây Đài Loan chưa từng có chính quyền nào phát động đại bãi miễn để đối phó với phe đối lập, trên thế giới cũng không tìm thấy bất kỳ quốc gia dân chủ nào... chỉ có Tổng thống Lại mới dám làm như vậy"[^22].
 
-Những gì có thể chắc chắn, chỉ những sự kiện ở tầng cấu trúc: ba mươi ba vụbãi miễn, người đề nghị và người dẫn đầu theo luật định toàn bộ là cá nhân công dân. Còn "lấybãi miễn chế ngựbãi miễn" mà Quốc Dân Đảng khởi động đối với thành viên Viện Lập pháp Dân chủ Tiến Đảng, thì xuất phát từ quyết định hội họp của nhóm Quốc Dân Đảng[^53]. Hình thức khởi động khác nhau, còn việc đó tính là "đảng phái thao túng hay không", phán đoán dành cho độc giả.
+Điều có thể xác định chắc chắn là sự thật về mặt cấu trúc: Trong 33 đề án bãi miễn, những người đề xuất và người đứng đầu hợp pháp đều là các cá nhân công dân. Trong khi đó, chiến dịch "dùng bãi miễn để đối phó bãi miễn" mà Quốc dân đảng phát động nhắm vào các nghị sĩ Đảng Dân tiến lại xuất phát từ nghị quyết của cuộc họp nhóm nghị sĩ Quốc dân đảng[^53]. Hình thức phát động là khác nhau, còn việc đây có được coi là "đảng phái thao túng" hay không, quyền phán xét thuộc về độc giả.
 
-Đảng Nhân dân Đài Loan đứng ở vị trí riêng của mình. Họ công khai phản đối hành động mà họ gọi là "bãi miễn xấu xa" này, nhưng cũng từ chối hợp tác với Quốc Dân Đảng nâng cao ngưỡngbãi miễn[^23]. Trong giai đoạn bỏ phiếu, chủ tịch đảng Kha Văn Triết bị giam ở nhà tạm giữ Thổ Thành nhận được thông báo bỏ phiếubãi miễn, Hoàng Quốc Chương trên Facebook đặt câu hỏi: "Xin hỏi Lại Thanh Đức: Đây là loại hài kịch đen như thế nào? Thông báo cho Kha Văn Triết anh có quyền bỏ phiếu, nhưng tôi không cho anh bỏ phiếu!"[^24]
+Đảng Dân chủ (TPP) đứng ở một vị thế riêng: Họ công khai phản đối hành động mà họ gọi là "bãi miễn ác ý", nhưng cũng từ chối hợp tác với Quốc dân đảng để nâng cao ngưỡng bãi miễn[^23]. Trong thời gian bỏ phiếu, Chủ tịch đảng là Kha Văn Triết (Ko Wen-je) đang bị tạm giam tại Trại tạm giam Thổ Thành đã nhận được thông báo bỏ phiếu bãi miễn; Hoàng Quốc Xương (Huang Kuo-chang) đã đặt câu hỏi ngược lại trên Facebook: "Xin hỏi Lại Thanh Đức (Lai Ching-te): Đây là kiểu hài hước đen tối gì vậy? Thông báo cho Kha Văn Triết rằng ông có quyền bỏ phiếu, nhưng tôi không cho ông bỏ phiếu!"[^24].
 
-Độ đo thứ hai bắt đầu được đọc từ đây — đo sự sâu sắc của phân cực: cuộc kiểm thử tiến hành được nửa chặng, thậm chí không có sự thống nhất ai bấm nút khởi động. Và chiến trường mà công kích phòng thủ đánh nhất dữ dội, chính là những chữ ký liên danh bản thân.
+Vạch thứ hai của thước đo bắt đầu đọc từ đây — đo lường độ sâu của sự cực hóa: Khi cuộc thử nghiệm mới tiến hành được một nửa, ngay cả việc ai là người nhấn nút bắt đầu cũng chưa có sự đồng thuận. Và chiến trường nơi các cuộc tấn công và phòng thủ diễn ra khốc liệt nhất chính là bản thân các bản chữ ký liên kết.
 
-## Một nghìn bảy trăm tám mươi bốn chữ ký chết, đối tượng lại một trăm sáu mươi chữ ký giả mạo
+## 1.784 chữ ký của người đã mất so với 160 trường hợp giả mạo
 
-Trước tiên nói rõ một điều: chữ ký liên danh của cả hai bên phe đều bị phát hiện có vấn đề, nhưng hai bảng tài khoản ghi không phải cùng một loại thứ.
+Trước hết cần làm rõ một điều: cả hai phe đều bị phát hiện có sai phạm trong việc thu thập chữ ký, nhưng bản chất của các con số này là khác nhau.
 
-Một loại là "chữ ký chết": tên sách liên danh có xuất hiện người đã qua đời, vấn đề nằm ở so sánh kiểm tra số liệu hộ khẩu, không nhất thiết có ai chủ động giả mạo. Loại khác là "giả mạo": có ai lấy thông tin cá nhân của người khác, giả mạo chữ ký để điền chữ ký liên danh, đây là hành vi giả mạo chủ động. Hai loại này có tính chất pháp lý khác nhau, không thể nhầm lẫn.
+Một loại là "chữ ký của người đã mất": Trong danh sách thu thập chữ ký xuất hiện tên của những người đã qua đời, vấn đề nằm ở khâu đối soát dữ liệu hộ tịch, không nhất thiết là có hành vi chủ động làm giả. Loại còn lại là "giả mạo": Có người lấy thông tin cá nhân của người khác hoặc giả mạo chữ ký để điền vào đơn thu thập chữ ký, đây là hành vi làm giả có chủ đích. Tính chất pháp lý của hai loại này khác nhau và không thể đánh đồng.
 
-Tháng 4 năm 2025, Ủy ban Bầu cử Trung ương gửi 41 vụbãi miễn có liên quan đến giả mạo hoặc chữ ký chết cho Viện Công tố tối cao truy tố, trong đó 15 vụ làbãi miễn thành viên Quốc Dân Đảng, 17 vụbãi miễn thành viên Dân chủ Tiến Đảng, 8 vụbãi miễn thành viên hội đồng xã phương Dân chủ Tiến Đảng, 1 vụ là vụ Cao Hồng An[^25]. Ở đây có một cạm bẫy hướng miệng phải mở ra: cùng một việc, ở những giai đoạn so sánh kiểm tra khác nhau, sử dụng những đơn vị tính toán khác nhau, sẽ lăn ra được vài con số. Tính theo "số", 17 vụbãi miễn xanh trong một lần kiểm tra liên danh giai đoạn một tháng 4 liên quan đến 1.784 chữ ký chết, 42 chữ ký giả mạo. Các vụbãi miễn đỏ thì có 12 chữ ký chết, 160 chữ ký giả mạo, trong đó vụ Lâm Bạt Tường có 116 chữ ký giả mạo là nhiều nhất[^26]. Nhưng đến ngày 21 tháng 6 Ủy ban Bầu cử Trung ương chính thức xác định, đơn vị chuyển thành "vụ" — liên quan tới chữ ký chết có 16 vụ, liên quan tới giả mạo có 12 vụ[^27]. "Số" và "vụ" không phải cùng một thứ, bất kỳ con số nào cũng phải ghi rõ là giai đoạn nào, đơn vị loại nào.
+Vào tháng 4 năm 2025, Ủy ban Bầu cử Trung ương đã chuyển 41 vụ bãi miễn liên quan đến việc giả mạo hoặc chữ ký của người đã mất sang Viện Kiểm sát Tối cao để truy tố. Trong đó, có 15 vụ là các đề án bãi miễn lập pháp viên thuộc phe Xanh (pan-blue), 17 vụ bãi miễn lập pháp viên Đảng Dân tiến (DPP), 8 vụ bãi miễn nghị sĩ thuộc phe Xanh lá (pan-green) và 1 vụ liên quan đến Cao Hồng An[^25]. Ở đây có một "bẫy ngôn từ" cần phải làm rõ: Cùng một sự việc, nhưng ở các giai đoạn đối soát khác nhau và do các đơn vị tính toán khác nhau sẽ cho ra những con số khác nhau. Nếu tính theo "số bản chữ ký", trong đợt kiểm tra giai đoạn một vào tháng 4, 17 vụ bãi miễn phe Xanh lá có liên quan đến 1.784 chữ ký của người đã mất và 42 trường hợp giả mạo. Các vụ của phe Xanh có 12 chữ ký của người đã mất và 160 trường hợp giả mạo, trong đó vụ của Lâm Phối Tường có số lượng giả mạo cao nhất với 116 bản[^26]. Tuy nhiên, đến ngày 21 tháng 6 khi Ủy ban Bầu cử Trung ương chính thức thẩm định, đơn vị tính đã chuyển sang "vụ việc" — có 16 vụ liên quan đến chữ ký của người đã mất và 12 vụ liên quan đến giả mạo[^27]. "Số bản" và "số vụ" không phải là một, bất kỳ con số nào cũng cần được ghi chú rõ ràng là thuộc giai đoạn nào và đơn vị tính nào.
 
-Mẫu số cũng phải nhìn cùng lúc: 17 vụbãi miễn xanh toàn bộ đều bị phát hiện chữ ký chết, còn 35 vụbãi miễn đỏ là 15 vụ có liên quan. Những con số này xếp cạnh nhau, độc giả có thể tự phán đoán ý nghĩa của nó, bài này không thay nó dưới kết luận.
+Cần xem xét cả mẫu số: Toàn bộ 17 vụ bãi miễn phe Xanh lá đều bị phát hiện có chữ ký của người đã mất, trong khi trong số 35 vụ của phe Xanh, có 15 vụ liên quan đến vấn đề này. Khi đặt các con số này cạnh nhau, độc giả có thể tự đánh giá ý nghĩa của chúng; bài viết này không đưa ra kết luận thay cho người đọc.
 
-Có một vụ đã đi đến bản án. Mười một công chức đảng Quốc Dân Đảng Đài Nam Trang Chiếm Quỳnh v.v., để trong mười ngày cuốn ra ba nghìn bản kiến nghịbãi miễn Lâm Tuấn Hiến, Vương Định Bảo mỗi cái, dùng danh sách đảng viên, không được phép điền thông tin cá nhân, giả mạo chữ ký, tổng cộng giả mạo 3.663 bản. Ngày 10 tháng 7 năm 2026, Tòa án Địa phương Đài Nam theo Luật Bảo vệ Dữ liệu Cá nhân phán xử Trang Chiếm Quỳnh phải thi hành bản án năm năm, hoãn năm năm, phải trả quỹ nhà nước 600.000 đồng. Mười người còn lại lần lượt bị phạt từ sáu tháng đến một năm bảy tháng, hoãn từ hai đến năm năm không bằng. Lý do phán quyết chỉ ra, hành vi như vậy không chỉ xâm phạm quyền riêng tư thông tin của người bị giả mạo, mà còn phá vỡ tính chính đáng của chế độbãi miễn dân chủ[^28]. Những gì cần phân biệt là, những gì bị buộc tội là hành vi giả mạo, những người dân thường bình thường tham gia liên danh không liên quan đến trách nhiệm hình sự.
+Đã có một vụ việc đi đến giai đoạn kết án: 11 cán bộ Đảng của Đảng Quốc dân, trong đó có Phó Chủ tịch Đảng bộ thành phố Đài Nam của Đảng Quốc dân là Trang Chiếm Khôi (Zhuang Zhan-kui), nhằm gom đủ 3.000 bản đề xuất bãi miễn cho mỗi người gồm Lâm Tuấn Hiến và Vương Định Vũ trong vòng mười ngày, đã sử dụng danh sách đảng viên, điền thông tin cá nhân khi chưa được sự đồng ý và giả mạo chữ ký, tổng cộng làm giả 3.663 bản. Vào ngày 10 tháng 7 năm 2026, Tòa án địa phương Đài Nam đã căn cứ theo Luật Bảo vệ Thông tin Cá nhân để tuyên phạt Trang Chiếm Khôi 2 năm tù giam, cho hưởng án treo 5 năm và phải nộp 600.000 NT$ vào ngân sách công. Mười người còn lại lần lượt nhận mức án từ 6 tháng đến 1 năm 7 tháng tù, với thời gian hưởng án treo từ 2 đến 5 năm. Lý do phán quyết chỉ ra rằng hành vi này không chỉ xâm phạm quyền riêng tư thông tin của những người bị giả mạo mà còn phá hoại tính chính đáng của chế độ bãi miễn dân chủ[^28]. Cần phân biệt rằng, đối tượng bị truy tố là hành vi giả mạo; việc người dân bình thường tham gia thu thập chữ ký một cách đúng đắn sẽ không liên quan đến trách nhiệm hình sự.
 
-Quốc Dân Đảng nghi ngờ Cơ quan Điều tra Tư pháp "xử lý Quốc Dân không xử lý Dân chủ", chỉ rằng các vụbãi miễn thành viên Quốc Dân Đảng giai đoạn liên danh thứ hai tổng cộng có hơn 150.000 chữ ký không hợp lệ, câu hỏi tại sao không được theo dõi cùng một cơ chế[^29]. Phản hồi của Ủy ban Bầu cử Trung ương là: "Chỉ cần có chữ ký chết hoặc giả mạo trước khi liên danh hoặc có vấn đề, sẽ tuân theo luật thông báo công khai cho nhân viên công chứng", nhấn mạnh "không có sự phân biệt đối xử gì cả"[^27]. Cho đến thời điểm bài này kiểm chứng, những vụ bị kết tội, bị công tố tập trung ở phía công chức đảng Quốc Dân Đảng. Nhưng điều này cũng có thể phản ánh đa số những vụbãi miễn xanh bản thân chưa gửi, mẫu cơ số nhỏ hơn, cả hai loại giải thích đều cần những thống kê tư pháp đầy đủ hơn mới có thể định luận được.
+Đảng Quốc dân nghi ngờ cơ quan điều tra "làm việc thiên vị phe Xanh, bỏ qua phe Xanh lá", chỉ ra rằng tổng cộng có hơn 150.000 chữ ký không hợp lệ trong giai đoạn hai của các vụ bãi miễn lập pháp viên phe Xanh, đồng thời chất vấn tại sao không truy cứu với cường độ tương đương[^29]. Phản hồi từ Ủy ban Bầu cử Trung ương là: "Chỉ cần có tình tiết người đã mất hoặc giả mạo trước khi thu thập chữ ký, chúng tôi sẽ tố giác theo chức vụ theo đúng quy định pháp luật", đồng thời nhấn mạnh "không có bất kỳ sự phân biệt đối xử nào"[^27]. Tại thời điểm bài viết này kiểm chứng, các trường hợp đã bị kết án và truy tố tập trung vào phía cán bộ Đảng Quốc dân. Tuy nhiên, điều này cũng có thể phản ánh việc đa số các vụ bãi miễn phe Xanh lá chưa được gửi hồ sơ, dẫn đến quy mô mẫu nhỏ hơn; cả hai cách giải thích đều cần những thống kê tư pháp đầy đủ hơn để đưa ra kết luận cuối cùng.
 
 ```tw-note
-Lưu ý
-"Chữ ký chết"trong báo chí xuất hiện 1.543, 1.737, 1.784 và nhiều con số khác, không phải bất kỳ bên nào giả mạo, mà cùng một việc ở những giai đoạn so sánh kiểm tra khác nhau (đề nghị giai đoạn một → liên danh giai đoạn hai → truy tố chính thức) lăn động cập nhật kết quả, cộng thêm "số (bản liên danh)" và "vụ (vụ việc)" hai loại đơn vị hỗn dụng. Trích dẫn bất kỳ con số nào, đều phải đánh dấu rõ điểm so sánh kiểm tra và đơn vị tính toán.
-Nguồn: Yahoo Tin tức 2025/3 báo cáo (1.543), ETtoday 2025/3/14 (1.737), Tự do Thời báo 2025/4/17 (1.784)
+Giải thích
+"Chữ ký của người đã mất" đã xuất hiện nhiều con số khác nhau trong các báo cáo như 1.543, 1.737, 1.784... Điều này không phải do bất kỳ bên nào làm giả, mà là kết quả của việc cập nhật dữ liệu qua các giai đoạn đối soát khác nhau (Đề xuất giai đoạn một → Thu thập chữ ký giai đoạn hai → Tố giác chính thức), cộng với việc sử dụng lẫn lộn giữa hai đơn vị tính là "bản" (số lượng chữ ký) và "vụ" (số lượng vụ việc). Khi trích dẫn bất kỳ con số nào, đều phải ghi rõ thời điểm đối soát và đơn vị tính.
+Nguồn: Báo cáo của Yahoo News ngày 2025/3 (1.543), ETtoday ngày 14/3/2025 (1.737), Liberty Times ngày 17/4/2025 (1.784)
 ```
 
-Độ đo thứ hai bổ sung xong tại đây — giá thành phân cực: thậm chí con số cũng có hai bảng tài khoản, sự tín tưởng xã hội theo mòn theo đó. Công kích phòng thủ đánh rồi nửa năm, cuối cùng người ủng hộ, người phản đối, người bị chỉ cáo, tất cả mọi người đi vào cùng một phòng bỏ phiếu.
+Số liệu ở cột thứ hai được bổ sung tại đây — cái giá của sự cực đoan: Ngay cả những con số cũng có "hai sổ sách", khiến niềm tin xã hội bị xói mòn theo. Sau nửa năm tranh đấu, cuối cùng thì dù là người ủng hộ, người phản đối hay người bị cáo buộc, tất cả đều sẽ bước vào cùng một phòng bỏ phiếu.
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
   <iframe
     src="https://www.youtube.com/embed/vwIsS8ESqWs"
-    title="726 bãi miễn投票倒數 3 天 正反陣營路口拚聲量｜公視晚間新聞"
+    title="726 罷免投票倒數 3 天 正反陣營路口拚聲量｜公視晚間新聞"
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
     loading="lazy"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -164,194 +167,194 @@ Nguồn: Yahoo Tin tức 2025/3 báo cáo (1.543), ETtoday 2025/3/14 (1.737), T�
   ></iframe>
 </div>
 
-_Tin tức Tối Đài Loan Công khai ngày 23 tháng 7 năm 2025: Chín mươi sáu bỏ phiếu đếm ngược ba ngày, hai phe đang đối tượng ở lề đường thi đua thanh lượng, thúc đẩy phiếu không đồng ý và phiếu đồng ý._
+_Báo cáo của Bản tin Tối PTS ngày 23 tháng 7 năm 2025: Chỉ còn ba ngày nữa là đến cuộc bỏ phiếu ngày 26/7, các phe đối lập đang thay phiên nhau vận động tại các ngã tư để gia tăng tiếng vang cho cả lá phiếu "không đồng ý" và "đồng ý"._
 
-## Phiếu đồng ý vượt qua ngưỡng, vẫn thua phiếu không đồng ý
+## Phiếu đồng ý vượt ngưỡng nhưng vẫn thua phiếu không đồng ý
 
-Bỏ phiếu chia thành ba làn. Làn đầu là ngày 13 tháng 7, vụbãi miễn thành viên hội đồng xã Trần Ngọc Linh ở Nam Đầu — đây là vụbãi miễn duy nhất thành lập dưới chiến lược "lấybãi miễn chế ngựbãi miễn" của Quốc Dân Đảng, vụbãi miễn đối tượng là phần xanh, hướng lệch ngược với hai làn sau. Kết quả phiếu đồng ý 12.160, phiếu không đồng ý 5.867, phiếu đồng ý không đạt ngưỡng cử tri một phần tư, không thông qua[^30].
+Quá trình bỏ phiếu được chia thành ba đợt: Đợt đầu tiên diễn ra vào ngày 13 tháng 7, là đề án bãi miễn nghị sĩ huyện Nam Đầu Trần Ngọc Linh (Chen Yu-ling) — đây là trường hợp duy nhất được hình thành theo chiến lược "dùng bãi miễn để chống bãi miễn" của Đảng Quốc dân, với đối tượng bị bãi miễn thuộc phe Xanh, hướng đi hoàn toàn ngược lại với hai đợt sau. Kết quả ghi nhận 12.160 phiếu đồng ý và 5.867 phiếu không đồng ý; số phiếu đồng ý không đạt ngưỡng một phần tư tổng số cử tri, do đó đề án không được thông qua[^30].
 
-Làn thứ hai là ngày 26 tháng 7 hai mươi lăm vụ: hai mươi bốn thành viên Viện Lập pháp Quốc Dân Đảng, cộng thị trưởng Tân Trúc Cao Hồng An. Tỷ lệ bỏ phiếu toàn quốc 55,83%, là kỷ lục mới lịch sửbãi miễn. Tỷ lệ thúc đẩy phiếu đồng ý 23,75%, không đồng ý 32,08%[^2]. Hai mươi lăm vụ toàn bộ không thông qua.
+Đợt thứ hai diễn ra vào ngày 26 tháng 7 với 25 trường hợp: gồm 24 lập pháp viên thuộc Đảng Quốc dân cộng với Thị trưởng Tân Trúc Cao Hồng An (Kao Hung-an). Tỷ lệ cử tri đi bỏ phiếu toàn quốc đạt 55,83%, mức cao kỷ lục trong lịch sử bãi miễn. Tỷ lệ vận động phiếu đồng ý là 23,75%, trong khi tỷ lệ vận động phiếu không đồng ý là 32,08%[^2]. Cả 25 trường hợp đều không được thông qua.
 
-Những hai triệu 1,8 trăm ngàn phiếu không đồng ý động cơ không đơn nhất: có lực lượng cơ bản ủng hộ thành viên Viện Lập pháp khu vực bầu cử riêng — những khu vực bầu cử này từ đầu đã là những nơi Quốc Dân Đảng thắng năm 2024 — có dự phòng đối vớibãi miễn như một công cụ chính trị, cũng có sự mệt mỏi của muốn trở về với đời sống hằng ngày.
+Động cơ đằng sau 2,18 triệu phiếu không đồng ý đó không hề đơn nhất: có những người muốn bảo vệ nền tảng cử tri ủng hộ lập pháp viên tại khu vực bầu cử của mình — vốn là những địa phương mà Đảng Quốc dân đã giành chiến thắng vào năm 2024; có những người e dè khi bãi miễn bị biến thành công cụ chính trị; cũng có những người mệt mỏi và chỉ muốn cuộc sống trở lại quỹ đạo bình thường.
 
-Trong làn này, có bảy vụ phiếu đồng ý thực sự vượt qua ngưỡng 25%, chỉ là phiếu không đồng ý cao hơn, bảo toàn được ghế. Bảy người này tỷ số khoảng cách kéo thành một tia quang phổ: người bảo toàn chặt nhất là Diễm Nguyên Chi ở Tân Bắc, chỉ hơn 3.560 phiếu. Khoảng cách rộng nhất là Chính Chính Minh ở Tân Trúc, hơn 29.335 phiếu[^31]. Cùng một trường hợp "vượt qua ngưỡng nhưng không bịbãi miễn", vận mệnh lỏng chặt chênh lệch hơn tám lần.
+Trong đợt này, có 7 trường hợp thực tế đã vượt qua ngưỡng 25% phiếu đồng ý, nhưng do số phiếu không đồng ý cao hơn nên họ vẫn giữ được ghế. Chênh lệch phiếu của 7 người này tạo thành một dải quang phổ: người giữ ghế suýt soát nhất là Diệp Nguyên Chi (Yeh Yuan-chih) tại Tân Bắc, chỉ nhiều hơn 3.560 phiếu. Người có khoảng cách lớn nhất là Trịnh Chính Linh (Cheng Cheng-ling) tại Tân Trúc, với mức chênh lệch lên tới 29.335 phiếu[^31]. Cùng chung tình cảnh "vượt ngưỡng nhưng không bị bãi miễn", nhưng mức độ thong dong hay căng thẳng của số phận cách nhau hơn tám lần.
 
 ```tw-stat
-6.799.977 người | Cử tri hợp lệbãi miễn thành viên Viện Lập pháp 726 | Hai mươi lăm vụ tổng hợp
-55,83% | Tỷ lệ bỏ phiếu | Kỷ lục mới lịch sửbãi miễn
-23,75% | Tỷ lệ thúc đẩy phiếu đồng ý | Phiếu đồng ý ÷ cử tri
-32,08% | Tỷ lệ thúc đẩy phiếu không đồng ý | Phiếu không đồng ý ÷ cử tri
-Nguồn: Ủy ban Bầu cử Trung ương, Cơ quan Thông tấn Trung ương
+6.799.977 người | 726 lập pháp viên bị bãi miễn đạt ngưỡng cử tri hợp lệ | Tổng cộng 25 trường hợp
+55,83% | Tỷ lệ cử tri đi bỏ phiếu | Cao kỷ lục trong lịch sử bãi miễn
+23,75% | Tỷ lệ vận động phiếu đồng ý | Phiếu đồng ý ÷ Số cử tri
+32,08% | Tỷ lệ vận động phiếu không đồng ý | Phiếu không đồng ý ÷ Số cử tri
+Nguồn: Ủy ban Bầu cử Trung ương, Trung Xã
 ```
 
 ```tw-dot
-Bảy vụ 726 vượt qua ngưỡng nhưng bị phủ quyết: phạm vi dẫn đầu phiếu không đồng ý (phiếu)
-*Diễm Nguyên Chi | 3560 | Bảo toàn chặt nhất
-Vương Hồng Mỹ | 9848
+726 trường hợp vượt ngưỡng nhưng bị bác bỏ: Biên độ dẫn trước của phiếu không đồng ý (phiếu)
+*Diệp Nguyên Chi | 3560 | Giữ ghế suýt soát nhất
+Vương Hồng Vi | 9848
 La Đình Vĩ | 12410
-Từ Ngọc Tâm | 12768
-Phù Côn Kỳ | 16331
-Lý Diễn Tú | 26609
-Chính Chính Minh | 29335 | Khoảng cách rộng nhất
-Nguồn: Cơ quan Thông tấn Trung ương
+Từ Xảo Tâm | 12768
+Phó Khôn Kỳ | 16331
+Lý Yến Tú | 26609
+Trịnh Chính Linh | 29335 | Chênh lệch lớn nhất
+Nguồn: Trung Xã
 ```
 
-Vụ Cao Hồng An có hai cái đồng hồ chạy. Cô vì vụ tham nhũng giai đoạn đầu bị phạt có lỗi, theo Luật Chế độ Địa phương tạm dừng công việc, lúc bỏ phiếubãi miễn là "thị trưởng tạm dừng công việc". Vụbãi miễn này phiếu đồng ý 86.291, phiếu không đồng ý 124.360, không thông qua[^32]. Nếubãi miễn thông qua, cô sẽ trực tiếp mất chức, và sẽ không vì đó mà phục chức về sau nếu vụ được đảo ngược.bãi miễn không qua, thay vào đó bảo toàn cho cô không gian chờ đợi kết quả tư pháp — ngày 16 tháng 12 năm 2025, giai đoạn hai đảo ngược phần tham nhũng để phạt vô tội, cô có thể xin phục chức[^33]. Đồng hồ chính trị và đồng hồ tư pháp, trên cùng một người xảy ra chỉnh lệch một năm rưỡi.
+Trường hợp của Cao Hồng An có hai chiếc đồng hồ cùng chạy: bà bị kết tội trong phiên sơ thẩm vụ án tham ô và bị đình chỉ chức vụ theo Luật Tổ chức Chính quyền Địa phương, nên tại thời điểm bỏ phiếu bãi miễn, bà là "Thị trưởng đang bị đình chỉ chức vụ". Cuộc bãi miễn này có 86.291 phiếu đồng ý và 124.360 phiếu không đồng ý, không được thông qua[^32]. Nếu cuộc bãi miễn thành công, bà sẽ mất chức ngay lập tức và sẽ không thể phục chức dù sau này có lật lại bản án. Việc bãi miễn không thành công trái lại đã giúp bà giữ được khoảng trống để chờ đợi kết quả tư pháp — vào ngày 16 tháng 12 năm 2025, phiên phúc thẩm đã thay đổi phán quyết về phần tham ô thành vô tội, cho phép bà nộp đơn xin phục chức[^33]. Chiếc đồng hồ chính trị và chiếc đồng hồ tư pháp đã đan xen lên nhau trên cùng một con người trong suốt một năm rưỡi.
 
-Làn thứ ba là ngày 23 tháng 8 bảy vụ, toàn bộ là thành viên Viện Lập pháp Quốc Dân Đảng, cùng ngày bỏ phiếu trưng cầu dân ý nhân luật lõi ba. Phải phân biệt rõ ràng: 726 có "bảy vụ vượt qua ngưỡng vẫn bị phủ quyết", 823 thì lại bảy người khác, bảy vụ "thậm chí ngưỡng cũng không vượt qua", hai nhóm bảy vụ là những người hoàn toàn khác nhau. Cùng ngày trưng cầu dân ý nhân luật lõi ba, phiếu đồng ý hơn 4,34 triệu, chiếm 74,17%, rất nhiều hơn phiếu không đồng ý, nhưng vì không đạt ngưỡng toàn quốc cử tri một phần tư (khoảng 5 triệu phiếu) nên không thông qua, tỷ lệ bỏ phiếu chỉ 29,53%[^34].
+Đợt thứ ba là 7 trường hợp vào ngày 23 tháng 8, tất cả đều là lập pháp viên thuộc Đảng Quốc dân, diễn ra cùng ngày với cuộc trưng cầu dân ý về việc gia hạn nhà máy điện hạt nhân Tam Trọng. Cần phân biệt rõ: nhóm "726" gồm "7 trường hợp vượt ngưỡng nhưng vẫn bị bác bỏ", còn nhóm "823" là 7 người khác thuộc 7 trường hợp "thậm chí không vượt qua được ngưỡng"; hai nhóm 7 trường hợp này là những cá nhân hoàn toàn khác nhau. Cùng ngày hôm đó, cuộc trưng cầu dân ý nhà máy hạt nhân Tam Trọng có hơn 4,34 triệu phiếu đồng ý, chiếm 74,17%, cao hơn nhiều so với số phiếu không đồng ý, nhưng vì không đạt ngưỡng một phần tư tổng số cử tri toàn quốc (khoảng 5 triệu phiếu) nên đã không được thông qua, tỷ lệ cử tri đi bỏ phiếu chỉ đạt 29,53%[^34].
 
-Quá trình mở phiếu tối hôm đó, Đài Tư được thực hiện [phát trực tiếp toàn chương trình](https://www.youtube.com/watch?v=nbVvhSZD1Y8). Độ đo thứ ba hiện hình trên ngày bỏ phiếu: ngưỡng không phải con số trừu tượng, là 2,18 triệu phiếu không đồng ý. Bỏ phiếu xong, hóa đơn và báo cáo mới bắt đầu gửi tới.
+Trong quá trình kiểm phiếu tối hôm đó, Đài Thị (TTV) đã [phát sóng trực tiếp toàn bộ](https://www.youtube.com/watch?v=nbVvhSZD1Y8). Vạch thứ ba trên thước đo đã lộ diện vào ngày bỏ phiếu: ngưỡng không phải là một con số trừu tượng, mà chính là 2,18 triệu phiếu không đồng ý. Sau khi cuộc bỏ phiếu kết thúc, các hóa đơn và báo cáo mới thực sự bắt đầu được gửi đến.
 
-## Chiến trường di chuyển trở lại Viện Lập pháp
+## Chiến trường chuyển về Lập pháp viện
 
-Bỏ phiếu kết thúc, báo cáo kiểm thử áp lực phát hành. Báo cáo này có bốn trang: hóa đơn, bế tắc, luật chưa sửa, và cách đọc bên ngoài.
+Sau khi quá trình bỏ phiếu kết thúc, báo cáo về cuộc kiểm tra áp lực (stress test) đã được công bố. Bản báo cáo này gồm bốn trang: hóa đơn, bế tắc, những đạo luật chưa sửa đổi và cách nhìn nhận từ bên ngoài.
 
-Trang đầu là hóa đơn. Ba mươi mốt vụbãi miễn thành viên Viện Lập pháp chi phí công việc bầu cử tổng hợp khoảng 400 triệu đồng, trưng cầu dân ý nhân luật lõi ba cùng ngày chi thêm khoảng 1,14 tỷ đồng, trường hợp Cao Hồng An của thành phố Tân Trúc khoảng 31,01 triệu đồng thì do ngân sách địa phương thành phố Tân Trúc chi trả[^35]. Một phong trào khôngbãi miễn được ai, trước tiên gửi đến một bảng hóa đơn đầy bàn.
+Trang đầu tiên là hóa đơn: tổng chi phí bầu cử cho 31 đề án bãi miễn lập pháp viên là khoảng NT$400 triệu; cuộc trưng cầu dân ý về Nhà máy điện hạt nhân Tam Trọng diễn ra cùng ngày tiêu tốn thêm khoảng NT$1,14 tỷ; riêng vụ việc của Cao Hồng An tốn khoảng NT$31,01 triệu, khoản này do ngân sách địa phương của chính quyền thành phố Tân Trúc chi trả[^35]. Một phong trào không bãi miễn được bất kỳ ai, nhưng thứ gửi đến đầu tiên lại là một xấp hóa đơn.
 
 ```tw-figure
-Khoảng 400 triệu đồng
-Chi phí công việc bầu cử ba mươi mốt vụbãi miễn thành viên Viện Lập pháp, kết quả là khôngbãi miễn được ai thành công
-Ủy ban Bầu cử Trung ương, Cơ quan Thông tấn Trung ương
+Khoảng NT$400 triệu
+Chi phí bầu cử cho 31 đề án bãi miễn lập pháp viên, kết quả là không có ghế nào bị bãi miễn thành công
+Ủy ban Bầu cử Trung ương, Trung社
 ```
 
-> 📝 **Ghi chép của người cộng tác**: Đọc Phong tràobãi miễn Lớn như "một phong trào huy động thất bại không thay đổi gì", là cách nói thông thường dễ tay nhất — bản đồ không động, ghế không chuyển, nhưng hóa đơn gửi đầy bàn. Nhưng cách đọc này đã đưa "kết quả" làm duy nhất tấm thước đo, lại vừa vặn mở loại "vật lý kiểm thử thực sự đang làm": nó đo một cái cầu có thể chịu bao nhiêu trọng lượng. Không có chiến quả và tỷ lệ bỏ phiếu tạo kỷ lục cùng thành lập, chính là cách đọc số đo trung thực nhất của lần kiểm thử này.
+> 📝 **Ghi chú của người biên tập**: Cách đọc phổ biến và thuận miệng nhất về cuộc đại bãi miễn này là "một cuộc huy động thất bại mà chẳng thay đổi được gì" — bản đồ chính trị không dịch chuyển, ghế ngồi không thay đổi, nhưng hóa đơn thì chất đầy bàn. Tuy nhiên, cách đọc này lại coi "kết quả" là thước đo duy nhất, vô tình bỏ qua việc mà cuộc kiểm tra áp lực thực sự đang làm: nó đo lường xem một cây cầu có thể chịu đựng được trọng lượng bao nhiêu. Việc không có chiến công nhưng tỷ lệ cử tri đi bỏ phiếu lại phá kỷ lục là hai con số tồn tại song hành, và đó chính là những dữ liệu trung thực nhất của cuộc kiểm tra này.
 
-Trang thứ hai là bế tắc. Kha Kiến Minh gọi kết quả này là "Phong tràobãi miễn Lớn vẫn là thành công to lớn"[^21]. Những người phê bình bên trong phần xanh, Chủ tịch Quỹ Giáo dục Ý kiến Nhân dân Đài Loan Du Anh Long, thay vào đó gọi nó là "nội chiến dân chủ thảm họa", yêu cầu đảng cầm quyền xin lỗi xã hội[^36]. Bản đồ chính trị thực sự không thay đổi: Lại Thanh Đức công bố "bốn điều điều chỉnh"[^37], Trác Vinh Thái nội các sửa đổi mười sáu thành viên[^38], Chính Lệ Văn vào tháng 10 đắc cử Chủ tịch Quốc Dân Đảng[^39], Kha Kiến Minh thì trong tiếng nói phản biện hoàn thành nhiệm kỳ, tháng 2 năm 2026 tuân theo quy lệ thay đổi, bàn giao cho Thái Kỳ Xương[^40][^51], nhưng liên minh đối lập vẫn nắm được đa số Viện Lập pháp. Hậu quả bế tắc cụ thể nhất rơi vào đời sống: Dự toán ngân sách tổng thể chính phủ năm 115 lần đầu tiên vượt năm mà vẫn chưa ủy thác, chính sách thực thi chính phủ theo đó mà kẹt[^41].
+Trang thứ hai là sự bế tắc. Ông Kha Kiến Minh (Ker Chien-ming) gọi kết quả này là "đại bãi miễn vẫn là một thành công lớn"[^21]. Ngược lại, nhà phê bình nội bộ phe Xanh, Chủ tịch Quỹ Giáo dục Dân ý Đài Loan Du Doanh Long (Yu Ying-lung), lại mô tả đây là một "cuộc nội chiến dân chủ thảm khốc", đồng thời yêu cầu đảng cầm quyền phải xin lỗi xã hội[^36]. Bản đồ chính trị thực tế không hề thay đổi: Lại Thanh Đức (Lai Ching-te) tuyên bố "bốn điều điều chỉnh"[^37], Nội các Trác Vinh Thái cải tổ 16 thành viên bộ trưởng[^38], Trịnh Lệ Văn (Cheng Li-wen) đắc cử Chủ tịch Đảng Quốc dân vào tháng 10[^39], còn ông Kha Kiến Minh sẽ hoàn thành nhiệm kỳ trong làn sóng chỉ trích, sau đó sẽ tiến hành tái cử theo quy trình vào tháng 2 năm 2026 và bàn giao quyền lực cho Thái Kỳ Xương (Tsai Chi-chang)[^40][^51]; thế nhưng liên minh phe đối lập vẫn nắm giữ đa số tại Quốc hội. Hệ quả cụ thể nhất của sự bế tắc này đã rơi xuống đời sống dân sinh: lần đầu tiên trong lịch sử, tổng ngân sách Chính phủ Trung ương năm 115 (2026) vẫn chưa được phê duyệt dù đã bước sang năm mới, khiến việc thực thi các chính sách của chính phủ bị đình trệ theo[^41].
 
-Trang thứ ba, là những luật chưa sửa. Điều khoản ngưỡng gây tranh cãi thực sự lớn nhất, như là "phiếu đồng ý phải cao hơn số phiếu đắc cử", giai đoạn cuối năm 2024 ấy không xử lý[^42]. Cho đến thời điểm bài này kiểm chứng tháng 7 năm 2026, những dự thảo liên quan vẫn có liên quan trong danh sách chờ xem xét Viện Lập pháp, chưa bước vào hội nghị xem xét[^52]. Học giả Kharis Templeman của Brookings trong lúc bỏ phiếu sau phán đoán, công cụbãi miễn này "hộp Pandora đã lại đóng", tương lai sẽ ít được sử dụng hơn[^23]. Hộp cũng có thể đóng lại, nhưng khoá ngưỡng chưa thay.
+Trang thứ ba là những đạo luật chưa được sửa đổi: các điều khoản về ngưỡng bãi miễn vốn gây tranh cãi lớn nhất, chẳng hạn như "số phiếu đồng ý bãi miễn phải cao hơn số phiếu khi đắc cử", đã không được xử lý trong làn sóng sửa luật cuối năm 2024[^42]. Tính đến thời điểm bài viết này kiểm chứng vào tháng 7 năm 2026, các dự thảo liên quan vẫn nằm trong danh sách chờ thẩm định của Lập pháp viện và chưa được đưa ra thảo luận tại hội nghị toàn thể viện[^52]. Học giả Kharis Templeman từ Brookings nhận định sau cuộc bỏ phiếu rằng "chiếc hộp Pandora của công cụ bãi miễn đã đóng lại một lần nữa", và nó sẽ ít được sử dụng hơn trong tương lai[^23]. Chiếc hộp có lẽ đã đóng, nhưng ổ khóa mang tên "ngưỡng bãi miễn" thì vẫn chưa được thay.
 
-Trang thứ tư, là cách đọc bên ngoài. Phân tích quốc tế đa số tập trung vào "bế tắc giữa chính phủ và quốc hội": chính phủ cơ bản trước và saubãi miễn tương tự bị chia cắt, Templeman nhắc nhở "Đài Loan cấm không được thêm 30 tháng bế tắc chính trị nữa"[^23]. Về phản ứng nước ngoài, phải độc lập nhìn thấy, đánh dấu rõ tính chất — đây là tuyên bố của chính phủ nước ngoài đối với công việc nội bộ Đài Loan, không song hành với quan điểm bên trong Đài Loan. Quốc đài ban Trung Quốc từ ngày 30 tháng 4 nhiều lần gọi Phong tràobãi miễn Lớn tạo ra "khủng bố xanh" trong quần đảo[^43]. Bộ Liên hệ Đài-Trung Quốc ngày 23 tháng 7 phản bác, chỉ rằng Bắc Kinh "bạo lộ công khai can thiệp, không có gì lấp giấu"[^44]. Trang cuối cùng của báo cáo lật xong, còn lại một số thứ không đo lường được bằng con số.
+Trang thứ tư là cách nhìn nhận từ bên ngoài, các phân tích quốc tế đa phần tập trung vào "sự bế tắc giữa hành chính và lập pháp": Chính phủ vẫn bị chia rẽ tương tự như trước và sau cuộc bãi miễn; ông Templeman cảnh báo rằng "Đài Loan không thể chịu đựng thêm 30 tháng bế tắc chính trị nữa"[^23]. Về phản ứng từ bên ngoài, cần phải xem xét độc lập và chỉ rõ tính chất — đây là sự bày tỏ thái độ của chính quyền nước ngoài đối với nội chính Đài Loan, không nên đặt ngang hàng với góc nhìn nội bộ Đài Loan. Người phát ngôn của Văn phòng Công tác Đài Loan và Hồng Kông thuộc Trung Quốc đại lục đã nhiều lần tuyên bố kể từ ngày 30 tháng 4 rằng cuộc đại bãi miễn đang tạo ra "nỗi kinh hoàng xanh" (green terror) trong lòng đảo[^43]. Ủy ban Quan tâm Công việc Đại lục (Hội đồng Ủy viên lục - MAC) đã bác bỏ vào ngày 23 tháng 7, chỉ trích Bắc Kinh "can thiệp công khai một cách trần trụi, không hề che giấu"[^44]. Sau khi lật đến trang cuối cùng của bản báo cáo, vẫn còn lại một số thứ mà các con số không thể đo lường được.
 
-## Trên tấm phim hiển thị được Đài Loan
+## Đài Loan hiện lên trên tấm phim âm bản
 
-Ba làn bỏ phiếu, ba mươi ba vụ, một vụ cũng không thông qua.
+Ba đợt bỏ phiếu, ba mươi ba vụ việc, không một vụ nào được thông qua.
 
-Luận về chiến quả, Phong tràobãi miễn lớn trong lịch sử Đài Loan này gần như trống không. Những người bịbãi miễn thành công trong lịch sử hiến pháp Đài Loan cho đến ngày nay vẫn chỉ có một — năm 2021 Trần Bá Duy[^45]. Tính theo "bãi miễn được mấy người", giới hạn của công cụ này rõ ràng.
+Xét về kết quả chiến đấu, làn sóng bãi miễn quy mô lớn nhất trong lịch sử Đài Loan này gần như là con số không. Trong lịch sử hiến chính Đài Loan, số lượng lập pháp viên bị bãi miễn thành công cho đến nay vẫn chỉ có duy nhất một người — Trần Bách Duy (Chen Po-wei)[^45] vào năm 2021. Nếu tính bằng "bãi miễn được bao nhiêu người", giới hạn của công cụ này đã được thể hiện rõ ràng.
 
-Nhưng trên cùng tấm phim, còn hiển thị được những cái khác. Tỷ lệ bỏ phiếu đêm 726 55,83%, kỷ lục mới lịch sửbãi miễn của Đài Loan. Phòng thí nghiệm Dân chủ Đài Loan quan sát phát hiện, những nhómbãi miễn trong quá trình huy động dần dần khám phá luận điệu "chống Cộng bảo vệ Đài Loan" cách những người dân thường quá xa, vì vậy di chuyển tiêu điểm đối thoại sang tiền trợ cấp nhà ở, chăm sóc dài hạn, giáo dục những vấn đề sống còn lại, chủ động đi tiếp xúc những người khác ý kiến, điều này trên chiến trường bầu cử quá khứ không phải thường xảy ra[^46]. Toàn bộ thế hệ này học được cách tổ chức, cũng học được cách nói chuyện với người lập trường khác, phong trào rời sân khấu sau sẽ đi về đâu, báo chí từ ngày nay vẫn ghi nó xuống như một tiêu chỉ quan sát mở, không ai có thể ghi chết câu trả lời cho họ[^47].
+Tuy nhiên, trên cùng một tấm phim âm bản đó, còn có những thứ khác hiện lên. Tỷ lệ cử tri đi bỏ phiếu đạt 55,83% vào đêm ngày 26/7 là mức cao kỷ lục trong lịch sử bãi miễn. Quan sát từ Taiwan Lab cho thấy, khi huy động lực lượng, các nhóm vận động bãi miễn dần nhận ra rằng luận điểm "kháng Trung bảo Đài" quá xa rời với người dân bình thường, vì vậy họ đã chuyển trọng tâm đối thoại sang các vấn đề đời sống như trợ cấp thuê nhà, chăm sóc dài hạn và giáo dục, chủ động tiếp cận những tầng lớp cử tri có quan điểm khác nhau — một điều không thường thấy trong các chiến dịch bầu cử trước đây[^46]. Thế hệ công dân đã học được cách tổ chức và cũng học được cách trò chuyện với những người có lập trường khác biệt này sẽ đi về đâu sau khi phong trào kết thúc, cho đến nay tờ _The Reporter_ vẫn coi đây là một đề tài quan sát mở, không ai có thể đưa ra một đáp án định sẵn cho họ[^47].
 
-Tác giả _Taiwan Insight_ vay một câu nói cũ từ một trăm bảy mươi năm trước, để tổng kết tâm tư phức tạp ấy. Năm 1848, Tổng thống Mỹ Polk như thế này mô tả sự mở rộng lãnh thổ sau Chiến tranh Mỹ-Mễ: "Everyone was glad with it, but no one was proud of it." (Tất cả mọi người đều vui mừng với nó, nhưng không ai phải vui về nó.) Tác giả nói, câu nói này đặt trên Đài Loan ngày nay, giống như vậy[^48].
+Tác giả của _Taiwan Insight_ đã mượn một câu nói cũ từ hơn 170 năm trước để tóm gọn tâm trạng phức tạp đó. Năm 1848, Tổng thống Hoa Kỳ James K. Polk đã mô tả việc mở rộng lãnh thổ sau cuộc chiến tranh Mỹ-Mexico như sau: "Everyone was glad with it, but no one was proud of it" (Mọi người đều thở phào nhẹ nhõm, nhưng không ai cảm thấy tự hào về nó). Tác giả cho rằng câu nói này cũng hoàn toàn đúng với Đài Loan ngày nay[^48].
 
-Trên màn hình mở phiếu đêm tối, chữ "không thông qua" ba cái liên tiếp sáng lên. Hôm sau, những cái lều liên danh lần lượt được tháo dỡ. Để lại, là những con số tỷ lệ bỏ phiếu tạo kỷ lục ấy, và một toàn bộ thế hệ lần đầu tiên học được làm thế nào tổ chức những người lạ lẫm. Ba mươi ba không thông qua, là kết quả của lần kiểm thử này. Giá trị thực của kiểm thử, nằm ở việc nó đo lường cùng lúc rất nhiều — năng lượng huy động, độ cao ngưỡng, giá thành phân cực. Thứ được đo lường, cuối cùng hơn những gì bịbãi miễn.
+Trên màn hình kiểm phiếu lúc đêm muộn, ba chữ "không thông qua" lần lượt sáng lên. Ngày hôm sau, những chiếc lều lấy chữ ký lần lượt được tháo dỡ. Thứ còn sót lại là con số tỷ lệ cử tri đi bỏ phiếu đã lập kỷ lục, và một thế hệ tình nguyện viên lần đầu tiên học được cách tổ chức những người xa lạ. Ba mươi ba vụ không thông qua chính là kết quả của cuộc thử nghiệm này. Giá trị thực sự của cuộc thử nghiệm nằm ở chỗ nó đã đo lường được quá nhiều thứ cùng một lúc — năng lượng huy động, độ cao của ngưỡng cửa pháp lý, và cái giá của sự cực đoan hóa. Những gì đo lường được, cuối cùng vẫn nhiều hơn so với số người bị bãi miễn.
 
-**Đọc tiếp**:
+**Đọc thêm**:
 
-- [Bầu cử và Chính trị Đảng phái Đài Loan](/vi/history/taiwan-elections-and-party-politics) — Từ Sự kiện Trung Lạc đến ba đảng tam phân, diễn biến lâu dài bầu cử Đài Loan và văn hoá bỏ phiếu
-- [Dân chủ hoá](/vi/history/taiwan-democratization-history) — Trước khi quyềnbãi miễn viết vào đời thường hiến pháp, thế hệ người ấy từ thiết quân luật đi tới bầu cử trực tiếp lịch trình
-- [Chuyển đổi Dân chủ Đài Loan](/vi/history/taiwan-democratization) — Thời kỳ chuyên chế từng bước bàn giao quyền cai trị cho nhân dân như thế nào
-- [Phong trào Xã hội và Tham gia Công dân](/vi/society/social-movements-and-civic-participation) — Từ Hoa Hướng Dương đến Chim Xanh, hệ thống phát triển huy động thế hệ đường phố
-- [Môi trường Chính trị Đài Loan và Chế độ Bầu cử](/vi/society/taiwan-political-landscape-and-electoral-system) — Chiều sâu thể chế thiết kế chế độ bầu cửbãi miễn và ngưỡng
+- [Bầu cử Đài Loan và chính trị đảng phái](/vi/history/taiwan-elections-and-party-politics) — Từ sự kiện Trung Lịch đến thế chân kiềng ba đảng, sự tiến hóa lâu dài của chế độ bầu cử và văn hóa bỏ phiếu tại Đài Loan
+- [Dân chủ hóa](/vi/history/taiwan-democratization-history) — Trước khi quyền bãi miễn được đưa vào đời sống hiến chính thường nhật, hành trình từ thời thiết quân luật đến bầu cử trực tiếp của thế hệ đó
+- [Chuyển đổi dân chủ Đài Loan](/vi/history/taiwan-democratization) — Cách thức chế độ uy quyền từng bước trao trả quyền cai trị lại cho nhân dân
+- [Phong trào xã hội và sự tham gia của công dân](/vi/society/social-movements-and-civic-participation) — Từ phong trào Hoa Hướng Dương đến phong trào Thanh Điểu, phả hệ huy động của thế hệ đường phố
+- [Môi trường chính trị và chế độ bầu cử Đài Loan](/vi/society/taiwan-political-landscape-and-electoral-system) — Chiều sâu thể chế của thiết kế ngưỡng cửa và chế độ bầu cử
 
 ## Nguồn ảnh
 
-Bài này sử dụng 3 bức ảnh có giấy phép CC, toàn bộ cache tại `public/article-images/history/` tránh kết nối nóng nguồn máy chủ:
+Bài viết này sử dụng 3 hình ảnh được cấp phép CC, tất cả đã được lưu bộ nhớ đệm (cache) tại `public/article-images/history/` để tránh tình trạng hotlinking từ máy chủ nguồn:
 
-- [Dòng người Chim Xanh bên ngoài Viện Lập pháp 2024](https://commons.wikimedia.org/wiki/File:20240528-8_A_look_in_front_of_the_legislative_yuan.jpg) — Ảnh: Fujifilmuser Đài Loan, 2024-05-28, CC BY-SA 4.0, Wikimedia Commons
-- [Hội trường Viện Lập pháp 2024-05-21](https://commons.wikimedia.org/wiki/File:%E7%AB%8B%E6%B3%95%E9%99%A2%E8%AD%B0%E5%A0%B42024-05-21T1450.jpg) — Ảnh: QuYi96, 2024-05-21, CC BY-SA 4.0, Wikimedia Commons
-- [Tôn Tân Thành phát biểu tập hợp 521 2024](https://commons.wikimedia.org/wiki/File:%E6%9B%B9%E8%88%88%E8%AA%A0%E5%85%88%E7%94%9F521%E9%9B%86%E6%9C%83%E6%BC%94%E8%AA%AA.jpg) — Ảnh: TMYAO, 2024-05-21, CC BY-SA 4.0, Wikimedia Commons
+- [Đám đông phong trào Chim Xanh bên ngoài Lập pháp viện 2024](https://commons.wikimedia.org/wiki/File:20240528-8_A_look_in_front_of_the_legislative_yuan.jpg) — Ảnh: Fujifilmuser Taiwan, 2024-05-28, CC BY-SA 4.0, Wikimedia Commons
+- [Hội trường họp Lập pháp viện 2024-05-21](https://commons.wikimedia.org/wiki/File:%E7%AB%8B%E6%B3%95%E9%99%A2%E8%AD%B0%E5%A0%B42024-05-21T1450.jpg) — Ảnh: QuYi96, 2024-05-21, CC BY-SA 4.0, Wikimedia Commons
+- [Tào Hưng Thành diễn thuyết tại cuộc mít tinh 521 năm 2024](https://commons.wikimedia.org/wiki/File:%E6%9B%B9%E8%88%88%E8%AA%A0%E5%85%88%E7%94%9F521%E9%9B%86%E6%9C%83%E6%BC%94%E8%AA%AA.jpg) — Ảnh: TMYAO, 2024-05-21, CC BY-SA 4.0, Wikimedia Commons
 
-[^1]: [26 vụbãi miễn thành viên Viện Lập pháp kết quả bỏ phiếu toàn bộ phủ quyết](https://www.cna.com.tw/news/aipl/202507265011.aspx) — Cơ quan Thông tấn Trung ương, 2025/7/26, hai mươi bốn thành viên Quốc Dân Đảng cộng vụ Cao Hồng Anbãi miễn toàn bộ không thông qua kết quả tổng hợp ngày bỏ phiếu.
+[^1]: [Kết quả bỏ phiếu bãi miễn 26 nghị sĩ bị bác bỏ toàn bộ](https://www.cna.com.tw/news/aipl/202507265011.aspx) — Trung ương Xã, ngày 26/7/2025, tổng hợp kết quả vào ngày các đề án bãi miễn 24 nghị sĩ Đảng Quốc dân và Cao Hồng An đều không được thông qua.
 
-[^2]: [【Mở phiếu Phong tràobãi miễn Lớn 2025 xem điểm quan trọng】726bãi miễn toàn quốc tổng hợp](https://www.thenewslens.com/feature/2025recall/256193) — Chủ đề mở phiếu Đánh giá Tin tức Quan trọng, 726 toàn quốc tổng hợp: cử tri 6.799.977, tỷ lệ bỏ phiếu 55,83%, phiếu đồng ý 1.614.772, phiếu không đồng ý 2.181.474.
+[^2]: [【Điểm mấu chốt xem kiểm phiếu bãi miễn lớn năm 2025】Tổng hợp bãi miễn toàn quốc ngày 26/7](https://www.thenewslens.com/feature/2025recall/256193) — Chuyên đề kiểm phiếu của The News Lens, tổng hợp toàn quốc ngày 26/7: Số cử tri 6.799.977, tỷ lệ cử tri đi bỏ phiếu 55,83%, số phiếu đồng ý 1.614.772, số phiếu không đồng ý 2.181.474.
 
-[^3]: [Luật Bầu cửbãi miễn Công chức Chương 13](https://law.moj.gov.tw/LawClass/LawParaDeatil.aspx?pcode=D0020010&bp=13) — Cơ sở dữ liệu Toàn quốc Quy tắc, điều 76, 81, 90 văn bản từng chữ: đề nghị 1%, liên danh 10%, ngưỡng thông qua phiếu đồng ý nhiều hơn phiếu không đồng ý và đạt cử tri 1/4.
+[^3]: [Chương 13 Luật Bầu cử và Bãi miễn Công chức](https://law.moj.gov.tw/LawClass/LawParaDeatil.aspx?pcode=D0020010&bp=13) — Cơ sở dữ liệu pháp luật toàn quốc, văn bản chi tiết các Điều 76, 81, 90: Đề xuất 1%, lấy chữ ký 10%, ngưỡng thông qua là số phiếu đồng ý nhiều hơn không đồng ý và đạt ít nhất 1/4 số cử tri.
 
-[^4]: [Thành viên không theo khu vực bầu cử toàn quốc có thể bịbãi miễn không?](https://plainlaw.me/posts/recall-legislators-20240103) — Phong trào Luật Pháp Bằng chữ Thường, giải thích thành viên không theo khu vực bầu cử không có khu vực bầu cử gốc, về mặt thể chế không áp dụngbãi miễn.
+[^4]: [Nghị sĩ không phân khu có thể bị bãi miễn không?](https://plainlaw.me/posts/recall-legislators-20240103) — Phong trào Ngôn ngữ Pháp luật Bình dân, giải thích rằng các nghị sĩ không phân khu trên toàn quốc không có khu vực bầu cử gốc, nên về mặt chế độ không áp dụng việc bãi miễn.
 
-[^5]: [Luật Bầu cửbãi miễn Công chức](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010) — Cơ sở dữ liệu Toàn quốc Quy tắc, điều 14, 15: từ 20 tuổi có quyền bầu, liên tục cư trú 4 tháng trở lên là cử tri khu vực bầu cử.
+[^5]: [Luật Bầu cử và Bãi miễn Công chức](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010) — Cơ sở dữ liệu pháp luật toàn quốc, Điều 14, 15: Người đủ 20 tuổi có quyền bầu cử, cư trú liên tục từ 4 tháng trở lên là cử tri của khu vực bầu cử đó.
 
-[^6]: [bãi miễn không vượt qua…Cắt đuôi lan: dân chủ mang một khoảng trống](https://www.thenewslens.com/article/12936) — Đánh giá Tin tức Quan trọng, năm 2015 vụbãi miễn Thái Chính Nguyên tỷ lệ bỏ phiếu chỉ 24,98%, không đạt ngưỡng "kép hai-một" cũ.
+[^6]: [Bãi miễn không vượt qua ngưỡng⋯ Cắt đuôi cá: Nền dân chủ với những khiếm khuyết](https://www.thenewslens.com/article/12936) — The News Lens, tỷ lệ bỏ phiếu trong vụ bãi miễn Thái Chính Nguyên năm 2015 chỉ đạt 24,98%, không đạt ngưỡng "Song Nhị Nhất" của chế độ cũ.
 
-[^7]: [Tháng 11 năm 2016 Viện Lập pháp ba lần đọc sửa đổi Luật Bầu cửbãi miễn](https://www.lawbank.com.tw/news/NewsContent.aspx?NID=139983) — Mạng lưới Nguồn Luật Pháp, ngưỡngbãi miễn từ "kép hai-một" đổi thành phiếu đồng ý đạt cử tri một phần tư; do nhóm Đảng Sức mạnh Thời đại và các phiên bản Đảng Dân chủ Tiến bộ hợp nhất xem xét thông qua.
+[^7]: [Tháng 11 năm 2016, Quốc hội thông qua lần ba sửa đổi Luật Bầu cử và Bãi miễn](https://www.lawbank.com.tw/news/NewsContent.aspx?NID=139983) — Pháp Nguyên Pháp Luật, ngưỡng thông qua bãi miễn thay đổi từ "Song Nhị Nhất" thành số phiếu đồng ý đạt 1/4 số cử tri; được thông qua sau khi hợp nhất các phiên thẩm định nhiều phiên bản của nhóm nghị sĩ Thời Đại Lực Lượng và Đảng Dân Tiến.
 
-[^8]: [Phiếu đồng ý không đạt ngưỡng 63888 Hoàng Quốc Chương vụbãi miễn không thông qua](https://news.ltn.com.tw/news/politics/breakingnews/2285172) — Tự do Thời báo, 2017 Hoàng Quốc Chương trở thành thành viên Viện Lập pháp đầu tiên phải bỏ phiếubãi miễn dưới chế độ mới, phiếu đồng ý 48.693 không đạt ngưỡng 63.888, chưa bịbãi miễn.
+[^8]: [Số phiếu đồng ý không đạt ngưỡng 63.888, đề án bãi miễn Hoàng Quốc Xương không được thông qua](https://news.ltn.com.tw/news/politics/breakingnews/2285172) — Tự Do Thời Báo, năm 2017, Hoàng Quốc Xương trở thành nghị sĩ đầu tiên đối mặt với bỏ phiếu bãi miễn theo chế độ mới, với 48.693 phiếu đồng ý không đạt ngưỡng 63.888 phiếu, nên không bị bãi miễn.
 
-[^9]: [2024 bầu cử thành viên Viện Lập pháp ba đảng không vượt quá nửa Quốc Dân Đảng 52 Dân chủ Tiến Đảng 51](https://www.cna.com.tw/news/aipl/202401130361.aspx) — Cơ quan Thông tấn Trung ương, 2024/1/13, phân bổ 113 ghế Viện Lập pháp 52:51:8:2.
+[^9]: [Bầu cử nghị sĩ năm 2024 ba đảng không chiếm quá bán, Đảng Quốc dân 52 ghế, Đảng Dân Tiến 51 ghế](https://www.cna.com.tw/news/aipl/202401130361.aspx) — Trung ương Xã, ngày 13/1/2024, phân bổ 113 ghế tại Quốc hội là 52:51:8:2.
 
-[^10]: [Hàn Quốc Dự đắc cử Viện Lập pháp Viện trưởng vòng hai 54 tối 51 thắng Du Tích Khôn](https://www.cna.com.tw/news/aipl/202402015003.aspx) — Cơ quan Thông tấn Trung ương, 2024/2/1 Viện Lập pháp bầu Viện trưởng phó Viện trưởng mở phiếu từng chữ.
+[^10]: [Hàn Quốc Du đắc cử Viện trưởng Quốc hội, thắng Du Tích Khôn với tỷ lệ 54 so với 51 ở vòng hai](https://www.cna.com.tw/news/aipl/202402015003.aspx) — Trung ương Xã, ngày 1/2/2024, kiểm phiếu chi tiết cuộc bầu cử Viện trưởng và Phó Viện trưởng Quốc hội.
 
-[^11]: [Viện Lập pháp phủ quyết kiến nghị Viện Hành pháp 62 tối 51 duy trì quyết định gốc](https://www.twreporter.org/a/legislature-votes-down-cabinets-request-to-review-controversial-reform-bills) — Báo chí, 2024/6/21 kết quả bỏ phiếu kiến nghị phủ quyết sửa đổi quyền Viện Lập pháp.
+[^11]: [Quốc hội bác bỏ đề án xem xét lại của Hành chính viện, duy trì quyết định ban đầu với tỷ lệ 62 so với 51](https://www.twreporter.org/a/legislature-votes-down-cabinets-request-to-review-controversial-reform-bills) — The Reporter, kết quả biểu quyết đề án xem xét lại sửa đổi thẩm quyền Quốc hội ngày 21/6/2024.
 
-[^12]: [Tòa án Hiến pháp Năm 113 Hiến định tự số 9 Tóm tắt Phán quyết](https://cons.judicial.gov.tw/docdata.aspx?fid=77&id=354002) — Trang chính thức Tòa án Hiến pháp của Viện Tư pháp, 2024/10/25 công bố, sửa đổi quyền nhiều điều khoản vi hiến một phần, thủ tục pháp luật khiếm khuyết chưa đạt vi hiến.
+[^12]: [Tóm tắt phán quyết số 9 năm 113 của Tòa án Hiến pháp](https://cons.judicial.gov.tw/docdata.aspx?fid=77&id=354002) — Trang chính thức của Tòa án Hiến pháp thuộc Tư pháp viện, tuyên bố ngày 25/10/2024, nhiều điều khoản trong sửa đổi thẩm quyền là vi hiến một phần, các sai sót về quy trình lập pháp không đạt mức vi hiến.
 
-[^13]: [Liên minh Quốc Dân-Đảng Nhân dân ba lần đọc Luật Bầu cửbãi miễn, Luật Kiến nghị Hiến pháp, Luật Phân chia Tài chính](https://www.twreporter.org/a/kmt-tpp-lawmakers-pass-three-amendments-include-constitutional-court-procedure-act) — Báo chí, 2024/12/20 ba luật ba lần đọc từng chữ và lập trường phe.
+[^13]: [Phe Xanh và phe Trắng thông qua lần ba Luật Bầu cử và Bãi miễn, Luật Khiếu kiện Hiến pháp, Luật Phân bổ Tài chính](https://www.twreporter.org/a/kmt-tpp-lawmakers-pass-three-amendments-include-constitutional-court-procedure-act) — The Reporter, văn bản chi tiết các điều khoản của ba luật được thông qua lần ba và lập luận của các đảng phái trong quốc hội.
 
-[^14]: [Luật Phân chia Tài chính ba lần đọc Bộ Tài chính: Trung ương sẽ giải phóng thêm 3.753 tỷ](https://www.cna.com.tw/news/aipl/202412210002.aspx) — Cơ quan Thông tấn Trung ương, tính toán chính thức Bộ Tài chính sửa đổi sau trung ương phải giải phóng thêm 3.753 tỷ đồng cho địa phương.
+[^14]: [Luật Phân bổ Tài chính thông qua lần ba, Bộ Tài chính: Trung ương sẽ cấp thêm 375,3 tỷ NT$](https://www.cna.com.tw/news/aipl/202412210002.aspx) — Trung ương Xã, tính toán chính thức từ Bộ Tài chính cho thấy sau khi sửa đổi luật, Trung ương phải cấp thêm NT$375.3 tỷ cho địa phương.
 
-[^15]: [Viện Lập pháp ba lần đọc Dự toán ngân sách tổng thể chính phủ năm 2025](https://www.twreporter.org/a/legislature-passes-2025-government-budget) — Báo chí, quá trình cắt giảm ngân sách 2.075 tỷ, đóng băng 2.600 tỷ và công kích phòng thủ phe.
+[^15]: [Quốc hội thông qua lần ba Tổng ngân sách Chính phủ Trung ương năm 2025](https://www.twreporter.org/a/legislature-passes-2025-government-budget) — The Reporter, quá trình cắt giảm 207,5 tỷ NT$ và đóng băng 260 tỷ NT$ cùng sự tranh đấu giữa các đảng phái trong quốc hội.
 
-[^16]: [Quan sát phong tràobãi miễn lớn: Tại sao công nhân lõi 30 thế hệ và phụ nữ chiếm đa số?](https://www.twreporter.org/a/recall-movement-analysis) — Báo chí báo cáo chuyên sâu, bao gồm đường cong hòm thư Trần Tiểu Sóng Ơi, tình nguyện viên nữ 7–9 mươi phần trăm, Kiến Tính Dũng KPI, Trang giúp đỡ, tiểu thơ v.v. các lập trường lời nói chính xác.
+[^16]: [Quan sát làn sóng bãi miễn lớn: Tại sao tình nguyện viên nòng cốt chủ yếu là thế hệ 30 và phụ nữ?](https://www.twreporter.org/a/recall-movement-analysis) — Phóng sự chuyên sâu của The Reporter, bao gồm biểu đồ hộp thư của Trần Hiểu Vĩ, tỷ lệ tình nguyện viên nữ chiếm từ 7–9 thành phần, KPI của Giản Gia Hữu, cùng các trích dẫn trực tiếp từ Bang Bang Mang, Tiểu Thi, v.v.
 
-[^17]: [Các tổ chức địa phương thành lập Liên minh Lực lượng Tình nguyện Chống Cộng Bảo vệ Đài Loan](https://www.cna.com.tw/news/aipl/202501220087.aspx) — Cơ quan Thông tấn Trung ương, 2025/1/22 Tôn Tân Thành kết nối Cộng đồng Nam, Hội các giáo sư Đài Loan v.v. thành lập liên minh.
+[^17]: [Các hội nhóm bản địa thành lập Liên minh Tình nguyện viên Chống Cộng và Bảo vệ Đài Loan nhằm ủng hộ phong trào bãi miễn lớn](https://www.cna.com.tw/news/aipl/202501220087.aspx) — CNA, ngày 22/01/2025, Tào Hưng Thành kết nối các tổ chức như Nam Xã, Hiệp hội Giáo sư Đài Loan để thành lập liên minh.
 
-[^18]: [Phỏng vấn chuyên đề Dương Song Tử nói chuyện trên một ngàn tác giả liên danhbãi miễn không thích hợp thành viên Viện Lập pháp](https://www.twreporter.org/a/recall-movement-yang-shuang-zi-and-a-thousand-writers-campaign) — Báo chí, liên danh tác giả từ khoảng 200 người lăn tới 1.043 người, tuyên bố liên danh trích dẫn tên ngôn lệnh Brodsky.
+[^18]: [Phỏng vấn độc quyền Dương Song Tử về việc hàng nghìn tác giả ký tên yêu cầu bãi miễn các lập pháp không đủ năng lực](https://www.twreporter.org/a/recall-movement-yang-shuang-zi-and-a-thousand-writers-campaign) — The Reporter, danh sách ký tên của các tác giả đã tăng dần từ khoảng 200 người lên 1.043 người, tuyên bố có trích dẫn câu nói nổi tiếng của Brodessky.
 
-[^19]: [Kiểm thử áp lực Dân chủ: Phong tràobãi miễn Lớn năm 2025 Đài Loan](https://taiwaninsight.org/2025/08/19/stress-testing-democracy-taiwans-2025-recall-and-the-future-of-legislative-credibility/) — Taiwan Insight (Đại học Nottingham), đánh giá phong trào hơn 1,2 triệu liên danh và tổ chức độc lập đối với Dân chủ Tiến Đảng.
+[^19]: [Stress-Testing Democracy: Taiwan's 2025 Recall](https://taiwaninsight.org/2025/08/19/stress-testing-democracy-taiwans-2025-recall-and-the-future-of-legislative-credibility/) — Taiwan Insight (Đại học Nottingham), đánh giá phong trào có hơn 1,2 triệu chữ ký và hoạt động độc lập về mặt tổ chức với Đảng Dân tiến.
 
-[^20]: [Văn lý do và thư trả lời Từ Ngọc Tâm vụbãi miễn toàn văn](https://www.cna.com.tw/news/aipl/202507035007.aspx) — Cơ quan Thông tấn Trung ương chuyển tải thông báo Ủy ban Bầu cử, bao gồm "phong trào công dân giả" của Từ Ngọc Tâm và sự chuyển thuật sự kỷ luật Kha Kiến Minh từng chữ.
+[^20]: [Toàn văn lý do và bản biện hộ trong vụ bãi miễn Từ Xảo Tâm](https://www.cna.com.tw/news/aipl/202507035007.aspx) — CNA đăng tải lại thông báo của Ủy ban Bầu cử Trung ương, bao gồm các trích dẫn trực tiếp về việc Từ Xảo Tâm thực hiện "phong trào công dân giả" và những cáo buộc gián tiếp đối với Kha Kiến Minh.
 
-[^21]: [Kha Kiến Minh: Phong tràobãi miễn lớn vẫn là thành công lớn](https://newtalk.tw/news/view/2025-08-24/989621) — Newtalk Tin tức, 2025/8/24 Kha Kiến Minh phản hồi bỏ phiếu sau từng chữ.
+[^21]: [Kha Kiến Minh: Cuộc bãi miễn lớn vẫn là một thành công vang dội](https://newtalk.tw/news/view/2025-08-24/989621) — Newtalk News, ngày 24/08/2025, trích dẫn trực tiếp phản hồi của Kha Kiến Minh sau khi bỏ phiếu.
 
-[^22]: [Chu Lập Luân Bản Triêu tập hợp: Chỉ có Tổng thống Lại Thanh Đức dám làm thế](https://www.cna.com.tw/news/aipl/202507190188.aspx) — Cơ agency Thông tấn Trung ương, 2025/7/19 "Phản đốibãi miễn xấu xa Chiến đấu độc tài" tập hợp tối Chu Lập Luân phát biểu từng chữ.
+[^22]: [Chu Lập Luân vận động tại Bản Kiều: Chỉ có Tổng thống Lai mới dám làm như vậy](https://www.cna.com.tw/news/aipl/202507190188.aspx) — CNA, ngày 19/07/2025, trích dẫn trực tiếp phát biểu của Chu Lập Luân tại buổi mít tinh "Chống bãi miễn ác ý, chiến đấu chống độc tài".
 
-[^23]: [Đài Loan sau Phong tràobãi miễn Lớn: Hướng tới Cân bằng Chính trị Mới](https://www.brookings.edu/articles/taiwan-after-the-great-recalls-toward-a-new-political-equilibrium/) — Kharis Templeman, Brookings, 2025/8/15, bao gồm Đảng Nhân dân Đài Loan từ chối hợp tác Quốc Dân Đảng nâng cao ngưỡng, "Hộp Pandora đã lại đóng", "Đài Loan cấm không được thêm 30 tháng bế tắc nữa" từng chữ.
+[^23]: [Taiwan after the Great Recalls: Toward a New Political Equilibrium](https://www.brookings.edu/articles/taiwan-after-the-great-recalls-toward-a-new-political-equilibrium/) — Kharis Templeman, Brookings, ngày 15/08/2025, bao gồm các trích dẫn trực tiếp về việc Đảng Nhân dân từ chối hợp tác với Quốc Dân Đảng để nâng cao ngưỡng bãi miễn, "chiếc hộp Pandora đã đóng lại" và "Đài Loan không thể chịu đựng thêm 30 tháng bế tắc".
 
-[^24]: [Hoàng Quốc Chương phê bình Kha Văn Triết nhận thông báo bỏ phiếubãi miễn](https://udn.com/news/story/124323/8885776) — Mạng lưới Tin tức Liên hợp, 2025/7/21 Hoàng Quốc Chương Facebook "Hài kịch đen như thế nào" từng chữ.
+[^24]: [Hoàng Quốc Xương chỉ trích Kha Văn Triết nhận được thông báo bỏ phiếu bãi miễn](https://udn.com/news/story/124323/8885776) — UDN, ngày 21/07/2025, trích dẫn trực tiếp bài đăng trên Facebook của Hoàng Quốc Xương: "Kiểu hài hước đen tối gì thế này".
 
-[^25]: [Ủy ban Bầu cử Trung ương:bãi miễn liên quan chữ ký chết hoặc giả mạo toàn bộ truy tố theo luật](https://www.cna.com.tw/news/aipl/202504160239.aspx) — Cơ agency Thông tấn Trung ương, 2025/4/16, 41 vụ truy tố phân bổ: 15 vụbãi miễn thành viên Quốc Dân Đảng, 17 vụbãi miễn thành viên Dân chủ Tiến Đảng, 8 vụbãi miễn thành viên hội đồng xã phương Dân chủ Tiến Đảng, 1 vụ Cao Hồng An.
+[^25]: [Ủy ban Bầu cử Trung ương: Sẽ truy tố theo pháp luật đối với các trường hợp bãi miễn liên quan đến chữ ký của người đã mất hoặc giả mạo](https://www.cna.com.tw/news/aipl/202504160239.aspx) — CNA, ngày 16/04/2025, phân bổ 41 vụ kiện: 15 vụ bãi miễn lập pháp phe Xanh, 17 vụ bãi miễn lập pháp phe Xanh, 8 vụ bãi miễn nghị sĩ phe Xanh và 1 vụ liên quan đến Cao Hồng An.
 
-[^26]: [Ủy ban Bầu cử Trung ương truy tố 41 vụbãi miễn 1.784 chữ ký chếtbãi miễn xanh vsbãi miễn đỏ chữ ký giả mạo bất cân xứng](https://news.ltn.com.tw/news/politics/paper/1702073) — Tự do Thời báo, 2025/4/17,bãi miễn xanh 17 vụ 1.784 chữ ký chết,bãi miễn đỏ 12 chữ ký chết + 160 chữ ký giả mạo, Lâm Bạt Tường 116 chữ ký (điểm kiểm tra liên danh giai đoạn một).
+[^26]: [Ủy ban Bầu cử Trung ương truy tố 41 vụ bãi miễn: Sự chênh lệch giữa 1.784 chữ ký của người đã mất trong các vụ bãi miễn phe Xanh và các vụ bãi miễn phe Xanh](https://news.ltn.com.tw/news/politics/paper/1702073) — Liberty Times, ngày 17/04/2025, 17 vụ bãi miễn phe Xanh có 1.784 chữ ký của người đã mất; các vụ bãi miễn phe Xanh gồm 12 trường hợp người đã mất + 160 trường hợp giả mạo; vụ Lâm Phối Tường có 116 trường hợp (tại thời điểm kiểm tra chữ ký giai đoạn một).
 
-[^27]: [Ủy ban Bầu cử Trung ương: Liên danh giả mạo không có sự phân biệt đối xử 6/21 xác định kết quả](https://www.cna.com.tw/news/aipl/202506210111.aspx) — Cơ agency Thông tấn Trung ương, 2025/6/21 xác định: liên quan chữ ký chết 16 vụ, liên quan giả mạo 12 vụ; "không có sự phân biệt đối xử gì cả" từng chữ.
+[^27]: [Ủy ban Bầu cử Trung ương: Không có sự phân biệt đối xử trong việc làm giả chữ ký, kết quả thẩm định vào ngày 21/06](https://www.cna.com.tw/news/aipl/202506210111.aspx) — CNA, ngày 21/06/2025, kết quả thẩm định: 16 vụ liên quan đến chữ ký của người đã mất, 12 vụ liên quan đến giả mạo; trích dẫn trực tiếp "không có bất kỳ sự phân biệt đối xử nào".
 
-[^28]: [bãi miễn liên danh liên quan bất pháp Công chức Đảng Quốc Dân Đảng Trang Chiếm Quỳnh v.v. 11 người hoãn hành động một lần](https://www.cna.com.tw/news/asoc/202607100184.aspx) — Cơ agency Thông tấn Trung ương, 2026/7/10, giả mạo 3.663 bản, hoãn năm năm, quỹ công khai 600.000 đồng, lý do phán quyết từng chữ.
+[^28]: [Vi phạm pháp luật trong việc ký tên bãi miễn: Trang Chiêm Khôi cùng 11 người thuộc Đảng bộ Tainan của Quốc Dân Đảng nhận án treo sơ thẩm](https://www.cna.com.tw/news/asoc/202607100184.aspx) — CNA, ngày 10/07/2026, giả mạo 3.663 chữ ký, án treo 5 năm, nộp phạt ngân sách NT$600.000, trích dẫn trực tiếp lý do phán quyết.
 
-[^29]: [Thành viên Quốc Dân Đảng kiểm soátbãi miễn liên danh cao đạt 150.000 bản không hợp lệ Ủy ban Bầu cử Trung ương phản hồi](https://rwnews.tw/article.php?news=21512) — Tạp chí Rhombus, nhóm Quốc Dân Đảng chỉbãi miễn thành viên Quốc Dân Đảng giai đoạn liên danh thứ hai hơn 150.000 chữ ký không hợp lệ, câu hỏi "xử lý Quốc Dân không xử lý Dân chủ", Ủy ban Bầu cử Trung ương phản hồi.
+[^29]: [Lập pháp phe Xanh cáo buộc chữ ký bãi miễn phe Xanh lên tới 150.000 bản không hợp lệ; Ủy ban Bầu cử Trung ương phản hồi](https://rwnews.tw/article.php?news=21512) — Lin Media, nhóm lập pháp Quốc Dân Đảng chỉ trích hơn 150.000 chữ ký giai đoạn hai của các vụ bãi miễn phe Xanh không hợp lệ và nghi ngờ việc "bỏ qua phe Xanh nhưng làm gắt phe Xanh", Ủy ban Bầu cử Trung ương phản hồi rằng việc này không liên quan đến vấn đề ký trùng hoặc giả mạo.
 
-[^30]: [Thành viên hội đồng xã Trần Ngọc Linh Quốc hơn bỏ phiếu kết quả không thông qua](https://www.cna.com.tw/news/aipl/202507130136.aspx) — Cơ agency Thông tấn Trung ương, 2025/7/13 vụ Trần Ngọc Linh phiếu đồng ý 12.160, phiếu không đồng ý 5.867, phiếu đồng ý không đạt ngưỡng.
+[^30]: [Đề nghị bãi miễn Nghị sĩ Huyện lâm Nam Trần Ngọc Linh không được thông qua](https://www.cna.com.tw/news/aipl/202507130136.aspx) — CNA, ngày 13/07/2025, vụ án Trần Ngọc Linh có 12.160 phiếu đồng ý và 5.867 phiếu không đồng ý, số phiếu đồng ý không đạt ngưỡng quy định.
 
-[^31]: [726bãi miễn 25 vụ toàn phủ quyết 7 vụ vượt qua ngưỡng vẫn bị phủ quyết](https://www.cna.com.tw/news/aipl/202507260216.aspx) — Cơ agency Thông tấn Trung ương, bảy vụ vượt quá ngưỡng 25% vẫn bị phủ quyết danh sách và phạm vi khoảng cách quang phổ (Diễm Nguyên Chi 3.560 đến Chính Chính Minh 29.335).
+[^31]: [726 bãi miễn 25 trường hợp đều bị bác bỏ, 7 trường hợp vượt ngưỡng vẫn bị bác bỏ](https://www.cna.com.tw/news/aipl/202507260216.aspx) — CNA, danh sách 7 trường hợp vượt qua ngưỡng 25% nhưng vẫn bị bác bỏ và biên độ chênh lệch phiếu (từ Diệp Nguyên Chi 3.560 đến Trịnh Chính Cầm 29.335).
 
-[^32]: [Thị trưởng Tân Trúc Cao Hồng Anbãi miễn vụ không thông qua hơn 120.000 phiếu không đồng ý](https://www.cna.com.tw/news/aipl/202507260230.aspx) — Cơ agency Thông tấn Trung ương, vụ Cao Hồng An phiếu đồng ý 86.291, phiếu không đồng ý 124.360, tỷ lệ bỏ phiếu 58,84%, ngưỡng 90.078.
+[^32]: [Đề án bãi miễn Thị trưởng Tân Trúc Cao Hồng An không thông qua, hơn 120.000 phiếu không đồng ý](https://www.cna.com.tw/news/aipl/202507260230.aspx) — CNA, vụ việc Cao Hồng An có 86.291 phiếu đồng ý, 124.360 phiếu không đồng ý, tỷ lệ cử tri đi bỏ phiếu là 58,84%, ngưỡng cần thiết là 90.078.
 
-[^33]: [Bộ Nội vụ: Cao Hồng An Tham nhũng đảo ngược phạt vô tội có thể xin phục chức](https://www.cna.com.tw/news/aipl/202512160101.aspx) — Cơ agency Thông tấn Trung ương, 2025/12/16 giai đoạn hai tham nhũng đảo ngược phạt vô tội, có thể xin phục chức.
+[^33]: [Bộ Nội vụ: Cao Hồng An được tuyên vô tội trong án tham ô sau khi xét xử lại, sẽ phục chức theo pháp luật sau khi nhận đơn đăng ký](https://www.cna.com.tw/news/aipl/202512160101.aspx) — CNA, ngày 16/12/2025, phần tham ô được thay đổi phán quyết thành vô tội ở phiên phúc thẩm, có thể xin phục chức.
 
-[^34]: [Trưng cầu dân ý nhân luật lõi ba tỷ lệ bỏ phiếu 29,53% Phiếu đồng ý vượt 70% không đạt ngưỡng](https://www.cna.com.tw/news/aipl/202508230199.aspx) — Cơ agency Thông tấn Trung ương, trưng cầu dân ý nhân luật lõi ba phiếu đồng ý 4.341.432 (74,17%), phiếu không đồng ý 1.511.693, ngưỡng 5.000.523.
+[^34]: [Trưng cầu dân ý về Nhà máy điện hạt nhân Tam Trọng có tỷ lệ cử tri đi bỏ phiếu 29,53%, phiếu đồng ý vượt 70% nhưng không đạt ngưỡng](https://www.cna.com.tw/news/aipl/202508230199.aspx) — CNA, trưng cầu dân ý nhà máy hạt nhân Tam Trọng có 4.341.432 phiếu đồng ý (74,17%), 1.511.693 phiếu không đồng ý, ngưỡng cần thiết là 5.005.203.
 
-[^35]: [Phong tràobãi miễn lớn, trưng cầu dân ý nhân luật lõi ba chi phí công việc bầu cử thống kê](https://www.cna.com.tw/news/aipl/202508230210.aspx) — Cơ agency Thông tấn Trung ương, 31 vụbãi miễn thành viên Viện Lập pháp khoảng 400 triệu đồng, trưng cầu dân ý nhân luật lõi ba khoảng 1.14 tỷ đồng, vụ Cao Hồng An khoảng 31.01 triệu đồng (ngân sách địa phương).
+[^35]: [Thống kê chi phí bầu cử cho đợt bãi miễn lớn và trưng cầu dân ý nhà máy hạt nhân Tam Trọng](https://www.cna.com.tw/news/aipl/202508230210.aspx) — CNA, 31 vụ bãi miễn lập pháp viên khoảng NT$400 triệu, trưng cầu dân ý nhà máy hạt nhân Tam Trọng khoảng NT$1,14 tỷ, vụ Cao Hồng An khoảng NT$31,01 triệu (ngân sách địa phương).
 
-[^36]: [Du Anh Long: Nội chiến dân chủ thảm họa Yêu cầu Dân chủ Tiến Đảng xin lỗi](https://udn.com/news/story/124323/8965188) — Mạng lưới Tin tức Liên hợp, 2025/8/27 nhận xét Du Anh Long từng chữ và ba yêu cầu đối với đảng cầm quyền.
+[^36]: [Du Doanh Long: Nội chiến dân chủ thảm khốc, kêu gọi Đảng Dân tiến xin lỗi](https://udn.com/news/story/124323/8965188) — UDN, ngày 27/8/2025, bản ghi chép lời bình luận của Du Doanh Long và ba yêu cầu đối với đảng cầm quyền.
 
-[^37]: [Lại Thanh Đức công bố bốn điều điều chỉnh](https://udn.com/news/story/124323/8958978) — Mạng lưới Tin tức Liên hợp, 2025/8/24 Lại Thanh Đức "Điều chỉnh thế lực / Thứ tự công việc / Tương tác hành pháp lập pháp / Chất lượng tài chính" bốn điều điều chỉnh.
+[^37]: [Lại Thanh Đức tuyên bố bốn điều điều chỉnh](https://udn.com/news/story/124323/8958978) — UDN, ngày 24/8/2025, bốn điều điều chỉnh của Lại Thanh Đức gồm: "điều chỉnh đội hình / trình tự thực thi chính sách / tương tác giữa hành pháp và lập pháp / thể chất tài chính".
 
-[^38]: [Nội các Trác danh sách cải tổ 16 người](https://udn.com/news/story/124579/8966250) — Mạng lưới Tin tức Liên hợp, Nội các Trác 2.0 mười sáu thành viên thay đổi, bao gồm Olympic Cầu lông vàng Lý Dương được bổ nhiệm Bộ trưởng Thể dục.
+[^38]: [Danh sách 16 nhân sự trong đợt cải tổ Nội các Trác](https://udn.com/news/story/124579/8966250) — UDN, mười sáu thành viên trong Nội các Trác 2.0 có sự thay đổi, bao gồm vận động viên giành huy chương vàng cầu lông Olympic Lý Dương đảm nhiệm chức Bộ trưởng Bộ Thể thao.
 
-[^39]: [Chính Lệ Văn đắc cử Chủ tịch Quốc Dân Đảng](https://www.cna.com.tw/news/aipl/202510180182.aspx) — Cơ agency Thông tấn Trung ương, 2025/10/18 Chính Lệ Văn đắc cử, Lô Tú Yến chưa tham gia.
+[^39]: [Trịnh Lệ Văn đắc cử Chủ tịch Quốc dân Đảng](https://www.cna.com.tw/news/aipl/202510180182.aspx) — CNA, ngày 18/10/2025, Trịnh Lệ Văn đắc cử, Lư Tú Yến không tham gia tranh cử.
 
-[^40]: [Dân chủ Tiến Đảng Viện Lập pháp Đảng Phối hợp nhân sự cải tổ Kha Kiến Minh thành tiêu điểm truy cứu trách nhiệm](https://rti.org.tw/news?pid=160919&uid=3) — Đài Phát thanh Trung ương, 2025/8 làn sóng truy cứu trách nhiệm nội bộ saubãi miễn và tranh chấp Kha Kiến Minh.
+[^40]: [Xem xét lại đợt bãi miễn lớn của Đảng Dân tiến, Kha Kiến Minh trở thành tâm điểm trách nhiệm](https://rti.org.tw/news?pid=160919&uid=3) — RTI, tháng 8/2025, làn sóng truy cứu trách nhiệm trong đảng sau đợt bãi miễn và tranh cãi về việc ở lại hay ra đi của Kha Kiến Minh.
 
-[^41]: [Dự toán ngân sách tổng thể chính phủ năm 115 vượt năm chưa ủy thác chi Trì hoãn gần 300 ngày](https://www.businesstoday.com.tw/article/category/183027/post/202512300062/) — Hôm nay Tuần báo, dự toán ngân sách lần đầu tiên trong lịch sử vượt năm chưa ủy thác chi, trì hoãn thực thi chính sách.
+[^41]: [Ngân sách tổng thể năm 115 chưa được phê duyệt qua năm mới, trì hoãn gần 300 ngày](https://www.businesstoday.com.tw/article/category/183027/post/202512300062/) — Next Magazine, lần đầu tiên trong lịch sử ngân sách tổng thể không được phê duyệt trước khi chuyển năm, gây trì trệ thực thi chính sách.
 
-[^42]: [Viện Lập pháp ba lần đọc siết chặt ngưỡng liên danhbãi miễn](https://focustaiwan.tw/politics/202412200015) — Focus Đài Loan, 2024/12/20 chỉ ba lần đọc điều khoản quy trình liên danh, điều khoản ngưỡng "phiếu đồng ý phải cao hơn phiếu đắc cử" v.v. lúc đó chưa vào xem xét.
+[^42]: [Hạ viện thông qua lần ba việc thắt chặt ngưỡng lấy chữ ký bãi miễn](https://focustaiwan.tw/politics/202412200015) — Focus Taiwan, ngày 20/12/2024, chỉ mới thông qua lần ba các điều khoản về quy trình lấy chữ ký, các điều khoản về ngưỡng như "phiếu đồng ý phải cao hơn số phiếu trúng cử" vào thời điểm đó chưa được đưa vào xem xét.
 
-[^43]: [Quốc đài ban gọi Phong tràobãi miễn Lớn tạo ra khủng bố xanh](https://www.cna.com.tw/news/acn/202504300106.aspx) — Cơ agency Thông tấn Trung ương, từ 2025/4/30 Ban Công tác Quốc đài Chu Phượng Liên nhiều lần dùng "khủng bố xanh" công kích (tuyên bố chính phủ nước ngoài, không phải nguồn sự thật).
+[^43]: [Văn phòng Đài Loan tại Trung Quốc Đại lục cho rằng đợt bãi miễn lớn đang tạo ra nỗi kinh hoàng xanh](https://www.cna.com.tw/news/acn/202504300106.aspx) — CNA, từ ngày 30/4/2025, Chu Phượng Liên của Văn phòng Đài Loan tại Trung Quốc Đại lục đã nhiều lần chỉ trích là "nỗi kinh hoàng xanh" (phát biểu của chính quyền nước ngoài, không phải nguồn sự thật).
 
-[^44]: [Bộ Liên hệ Đài-Trung Quốc: Bắc Kinh bạo lộ công khai can thiệp 726bãi miễn](https://www.voachinese.com/a/taiwan-legislature-china-recall-vote-20250723/8049501.html) — Giọng nói Mỹ Tiếng Trung, 2025/7/23 Bộ Liên hệ Đài-Trung Quốc phản hồi từng chữ (phản hồi của chúng tôi đối cáo buộc can thiệp nước ngoài).
+[^44]: [Ủy ban Hoa kiều: Bắc Kinh can thiệp công khai và trắng trợn vào đợt bãi miễn 726](https://www.voachinese.com/a/taiwan-legislature-china-recall-vote-20250723/8049501.html) — VOA, ngày 23/7/2025, bản ghi chép phản hồi của Ủy ban Hoa kiều (phản hồi của phía chúng ta đối với cáo buộc can thiệp từ nước ngoài).
 
-[^45]: [Trần Bá Duy trở thành thành viên Viện Lập pháp đầu tiên bịbãi miễn trong lịch sử](https://www.cna.com.tw/news/firstnews/202110230226.aspx) — Cơ agency Thông tấn Trung ương, 2021/10/23 Trần Bá Duybãi miễn thông qua, đến nay vẫn là thành viên duy nhất bịbãi miễn thành công trong lịch sử hiến pháp Đài Loan.
+[^45]: [Trần Bách Duy trở thành lập pháp viên đầu tiên trong lịch sử bị bãi miễn](https://www.cna.com.tw/news/firstnews/202110230226.aspx) — CNA, ngày 23/10/2021, lệnh bãi miễn Trần Bách Duy được thông qua, cho đến nay vẫn là lập pháp viên duy nhất bị bãi miễn thành công trong lịch sử hiến định của Đài Loan.
 
-[^46]: [Đối thoại công dân xuyên đồng ấm: Thử nghiệm ban đầu chiến lược giao tiếp Phong tràobãi miễn Lớn 2025](https://medium.com/doublethinklab-tw/%E8%B7%A8%E5%90%8C%E6%BA%AB%E5%B1%A4%E7%9A%84%E5%85%AC%E6%B0%91%E5%B0%8D%E8%A9%B1-2025%E5%A4%A7%E7%BD%B7%E5%85%8D%E7%AD%96%E7%95%A5%E6%BA%9D%E9%80%9A%E5%88%9D%E6%8E%A2-bcf1de43378d) — Phòng thí nghiệm Dân chủ Đài Loan, những nhómbãi miễn trong quá trình huy động dần dần khám phá luận điệu chống Cộng bảo vệ Đài Loan cách người dân thường quá xa, vì vậy di chuyển tiêu điểm đối thoại sang tiền trợ cấp nhà ở, chăm sóc dài hạn, giáo dục những vấn đề sống còn lại, chủ động đi tiếp xúc những người khác ý kiến.
+[^46]: [Đối thoại công dân xuyên tầng lớp dư luận: Thăm dò sơ bộ về chiến lược truyền thông bãi miễn năm 2025](https://medium.com/doublethinklab-tw/%E8%B7%A8%E5%90%8C%E6%BA%AB%E5%B1%A4%E7%9A%84%E5%85%AC%E6%B0%91%E5%B0%8D%E8%A9%B1-2025%E5%A4%A7%E7%BD%B7%E5%85%8D%E7%AD%96%E7%95%A5%E6%BA%9D%E9%80%9A%E5%88%9D%E6%8E%A2-bcf1de43378d) — Phòng thí nghiệm Dân chủ Đài Loan (Taiwan Lab) cho biết các nhóm vận động bãi miễn đã chuyển hướng diễn ngôn từ 'kháng Trung bảo vệ Đài Loan' sang các vấn đề đời sống như thuê nhà, chăm sóc dài hạn và giáo dục, đồng thời chủ động đối thoại xuyên tầng lớp dư luận.
 
-[^47]: [Chuyên đề Phong tràobãi miễn Lớn 2025](https://www.twreporter.org/topics/2025-recall-campaign) — Trang chuyên đề Báo chí, ghi lại "những nhómbãi miễn thể hiện sức mạnh công dân đi về đâu" như tiêu chỉ quan sát mở tiếp tục theo dõi.
+[^47]: [Chuyên đề về cuộc bãi miễn lớn năm 2025](https://www.twreporter.org/topics/2025-recall-campaign) — Trang chuyên đề của The Reporter, liệt kê 'Sức mạnh công dân do các nhóm bãi miễn thể hiện sẽ đi về đâu' là một chỉ số quan sát mở cần được theo dõi liên tục.
 
-[^48]: [A Vote of Gladness, A Moment of Disquiet](https://taiwaninsight.org/2025/08/15/a-vote-of-gladness-a-moment-of-disquiet-taiwans-recall-elections-revisited/) — Taiwan Insight, 2025/8/15 bài viết tổng kết lại; "Everyone was glad with it, but no one was proud of it." là ngôn ngữ năm 1848 Tổng thống Mỹ Polk trích dẫn trong bài, tác giả dùng để so sánh.
+[^48]: [Một lá phiếu hân hoan, một khoảnh khắc bất an](https://taiwaninsight.org/2025/08/15/a-vote-of-gladness-a-moment-of-disquiet-taiwans-recall-elections-revisited/) — Taiwan Insight, bài phân tích hồi cứu ngày 15/08/2025; 'Mọi người đều vui mừng vì điều đó, nhưng không ai tự hào về nó' là câu nói của Tổng thống Hoa Kỳ Polk năm 1848 được trích dẫn trong bài để so sánh.
 
-[^49]: [Dự toán ngân sách tổng thể chính phủ Trung Hoa Dân Quốc năm 2025 bị cắt giảm](https://zh.wikipedia.org/wiki/2025%E5%B9%B4%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E6%94%BF%E5%BA%9C%E7%B8%BD%E9%A0%90%E7%AE%97%E6%A1%88%E5%88%AA%E6%B8%9B) — Wikipedia, 2025/1/21 ba lần đọc: cắt giảm khoảng 2.075 tỷ, đóng băng khoảng 2.600 tỷ, 3/12 kiến nghị bị bác bỏ.
+[^49]: [Việc cắt giảm dự toán ngân sách tổng thể của Chính phủ Trung Hoa Dân Quốc năm 2025](https://zh.wikipedia.org/wiki/2025%E5%B9%B4%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E6%94%BF%E5%BA%9C%E7%B8%BD%E9%A0%90%E7%AE%97%E6%A1%88%E5%88%AA%E6%B8%9B) — Wikipedia, thông tin về việc đọc lần ba ngày 21/01/2025: cắt giảm khoảng NT$ 207,5 tỷ, đóng băng khoảng NT$ 260 tỷ; đề nghị xem xét lại vào ngày 12/03 đã bị bác bỏ.
 
-[^50]: [Văn lý do và thư trả lờibãi miễn Phù Côn Kỳ toàn văn](https://www.cna.com.tw/news/aipl/202507035024.aspx) — Cơ agency Thông tấn Trung ương chuyển tải thông báo Ủy ban Bầu cử, thư trả lời Phù Côn Kỳ "bảy mươi bảy phần hai hài lòng với công việc chính phủ", "năm ngôi sao chín lần vô địch toàn quốc duy nhất" lối nói.
+[^50]: [Toàn văn lý do bãi miễn và bản biện hộ của Phó Khang Kỳ](https://www.cna.com.tw/news/aipl/202507035024.aspx) — Trung ương Xã (CNA) đăng tải thông báo từ Ủy ban Bầu cử Trung ương, bản biện hộ của Phó Khang Kỳ bao gồm nguyên văn các nội dung như 'mức độ hài lòng về 77,2 điểm chính sách' và '5 sao 9 lần liên tiếp nắm quyền'.
 
-[^51]: [Dân chủ Tiến Đảng Viện Lập pháp Đảng Phối hợp nhân sự cải tổ Thái Kỳ Xương đắc cử Tổng triệu tập](https://www.cna.com.tw/news/aipl/202602240101.aspx) — Cơ agency Thông tấn Trung ương, 2026/2/24 Kha Kiến Minh nhận chức, Thái Kỳ Xương tiếp nhận tổng triệu tập nhóm.
+[^51]: [Bầu cử cán bộ nhóm nghị sĩ Đảng Dân tiến tại Lập pháp viện: Thái Kỳ Xương đắc cử Tổng triệu tập](https://www.cna.com.tw/news/aipl/202602240101.aspx) — Trung ương Xã (CNA), ngày 24/02/2026, Kha Kiến Minh từ nhiệm và Thái Kỳ Xương tiếp quản vị trí Tổng triệu tập nhóm nghị sĩ.
 
-[^52]: [Tiến độ xem xét dự thảo sửa đổi Luật Bầu cửbãi miễn Công chức](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=6588&pid=83591) — Khu vực nghị sự Quốc hội, dự thảo sửa đổi liên quan ngưỡngbãi miễn cho đến 2026/7 khi kiểm chứng vẫn chưa vào hội nghị xem xét.
+[^52]: [Tiến độ xem xét dự thảo sửa đổi Luật Bầu cử và Bãi miễn Công chức](https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=6588&pid=83591) — Khu vực chuyên đề kiến nghị của Lập pháp viện, tính đến thời điểm kiểm chứng vào tháng 07/2026, các dự thảo sửa đổi liên quan đến ngưỡng bãi miễn vẫn chưa được đưa ra xem xét tại phiên họp toàn thể của viện.
 
-[^53]: [Dòng thời gian "lấybãi miễn chế ngựbãi miễn"](https://www.cw.com.tw/article/5135873) — Tạp chí Công thương, quá trình quyết nghị nhóm Quốc Dân Đảng đối phó thành viên Viện Lập pháp Dân chủ Tiến Đảng bằngbãi miễn phản công.
+[^53]: [Dòng thời gian của chiến lược 'dùng bãi miễn để chế bãi miễn'](https://www.cw.com.tw/article/5135873) — Tạp chí Thế Thiên (天下雜誌), quá trình nhóm nghị sĩ Quốc dân Đảng quyết nghị tại cuộc họp đảng đoàn nhằm phát động các cuộc bãi miễn phản chế đối với các lập pháp viên Đảng Dân tiến.
