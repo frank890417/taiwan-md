@@ -25,10 +25,10 @@ imageCredit: '行政院珍貴史料展示'
 imageLicense: '政府史料典藏（editorial commentary use）'
 imageSource: 'https://history.ey.gov.tw/en/Items/premier-yen-chia-kan-hosts-the-inauguration-of-the-kaohsiung-export-processing-zone/'
 translatedFrom: 'Economy/經濟奇蹟.md'
-sourceCommitSha: '9c5ad569a'
-sourceContentHash: 'sha256:97768e7e71587490'
-sourceBodyHash: 'sha256:411e4d6f8779c88a'
-translatedAt: '2026-07-28T04:03:52+08:00'
+sourceCommitSha: 'f024e87e7'
+sourceContentHash: 'sha256:a30286fdcb0b3c86'
+sourceBodyHash: 'sha256:d322b1b9c5e6743f'
+translatedAt: '2026-11-19T06:38:50.409237+00:00'
 ---
 
 # Miracle économique : De la tige de patate douce à TSMC, l'histoire de la résilience forgée par vingt millions de personnes
@@ -316,31 +316,32 @@ L'expérience du miracle économique taïwanais reste inspirante aujourd'hui :
 
 > **✦** « Ce qu'il y a de plus précieux dans le miracle économique taïwanais, ce ne sont pas les chiffres de revenu, mais la preuve d'une chose : tant que l'on est prêt à travailler dur, un petit endroit peut créer de grandes réalisations. Mais le prochain miracle doit être un miracle plus durable, plus juste et plus chaleureux. »
 
-## Du miracle à la transformation : Les défis futurs
+## Du miracle à la transformation : les défis de l'avenir
 
-En 2024, Taïwan n'a plus besoin d'un « miracle économique ». Le PIB par habitant dépasse les 30 000 dollars, faisant de la région un pays développé incontestable. Mais de nouveaux défis émergent :
+En 2024, Taïwan n'a plus besoin de « miracle économique ». Avec un PIB par habitant dépassant les 30 000 dollars US, le pays est bel et bien une nation développée. Cependant, de nouveaux défis émergent :
 
-### Pressions de la transformation industrielle
+### La pression de la transformation industrielle
 
-La délocalisation de l'industrie manufacturière, la faible productivité des services, la stagnation de la croissance des salaires — l'économie taïwanaise a besoin d'un nouveau moteur de croissance. Bien que l'industrie des semi-conducteurs soit puissante, elle ne peut pas soutenir l'ensemble de l'économie. Taïwan doit cultiver davantage d'entreprises « champions cachés ».
+Délocalisation de l'industrie manufacturière, faible productivité du secteur des services, stagnation de la croissance des salaires — l'économie taïwanaise a besoin de nouveaux moteurs de croissance. Bien que l'industrie des semi-conducteurs soit puissante, elle ne peut soutenir seule l'ensemble de l'économie. Taïwan doit cultiver davantage d'entreprises dites « champions cachés ».
 
-### Défis du vieillissement démographique
+### Le défi du vieillissement démographique
 
-La faible natalité et le vieillissement de la population créent une pénurie de main-d'œuvre. Le modèle de développement basé sur la « guerre des effectifs » doit changer ; l'automatisation, l'intelligence artificielle et l'attraction de talents internationaux sont des sujets inévitables.
+La baisse de la natalité et le vieillissement de la population confrontent Taïwan à une pénurie de main-d'œuvre. Le modèle de développement passé, fondé sur la « tactique de la mer d'hommes » (_renhai zhanshu_), doit changer ; l'automatisation, l'intelligence artificielle et l'attraction de talents internationaux sont des enjeux incontournables.
 
-### Exigences du développement durable
+### Les impératifs du développement durable
 
-Le changement climatique oblige Taïwan à repenser son modèle de développement. Comment transformer les industries à forte intensité énergétique ? Comment développer les énergies vertes ? Comment établir une économie circulaire ? Ce sont les questions économiques de la nouvelle ère.
+Le changement climatique oblige Taïwan à repenser son modèle de développement. Comment transformer les industries à forte consommation d'énergie ? Comment développer les énergies vertes ? Comment instaurer une économie circulaire ? Ce sont là les enjeux économiques de la nouvelle ère.
 
-L'histoire du miracle économique taïwanais n'est pas terminée. De la réforme agraire à TSMC est le premier chapitre, racontant la transition de la pauvreté à la prospérité. Les chapitres suivants raconteront la transition de la prospérité au bonheur, de la croissance quantitative à l'amélioration qualitative, du miracle économique au progrès social.
+L'histoire du miracle économique taïwanais n'est pas terminée. De la réforme agraire à TSMC constitue le premier chapitre, racontant le passage de la pauvreté à un niveau de vie modeste. Les chapitres suivants devront relater le passage de la prospérité au bonheur, de la croissance quantitative à l'amélioration qualitative, et du miracle économique au progrès social.
 
-Les auteurs de cette histoire restent chaque Taïwanais.
+L'auteur de cette histoire reste chaque citoyen taïwanais.
 
-**Lecture complémentaire** :
+**Lectures complémentaires :**
 
-- [Factures : Le papier de 1951 qui transforma tous les citoyens en agents de contrôle fiscal](/fr/economy/taiwan-uniform-invoice) — La facture unifiée fut une infrastructure fiscale clé contemporaine du miracle économique ; sa première année de lancement en 1951 fit exploser les recettes de la taxe sur les affaires de 75 %.
-- [Dix Grands Projets : Le pari de 200 milliards sur 10 milliards de dollars de réserves de change](/fr/history/ten-major-construction-projects) — Le contexte complet, les controverses et le récit politique de ce pari audacieux des années 1970
-- [Bonnes politiques transpartisans](/fr/history/bipartisan-good-policy) — L'affirmation selon laquelle la réforme agraire a « conduit le miracle économique taïwanais » est en réalité difficile à soutenir, malgré sa popularité
+- [Dossier spécial sur les industries de Taïwan](/industry/) — Une analyse de la structure industrielle via les statistiques officielles : soixante ans d'exportations et de PIB, les parcs scientifiques, les usines par comté et ville, le top 10 des capitalisations boursières historiques, ainsi que les différents points de vue sur six débats publics.
+- [La facture : ce papier de 1951 qui a transformé chaque citoyen en inspecteur fiscal](/fr/economy/taiwan-uniform-invoice) — La facture unique (_统一发票_) a été une infrastructure fiscale clé durant la période du miracle économique ; lors de sa première année de mise en œuvre en 1951, elle a permis une augmentation fulgurante de 75 % des recettes de la taxe sur le chiffre d'affaires.
+- [Les dix grands projets de construction : un pari à 200 milliards sur un milliard de dollars de réserves de change](/fr/history/ten-major-construction-projects) — Le contexte complet, les controverses et le récit politique de ce pari colossal des années 1970.
+- [Des politiques de bon sens par-delà les partis](/fr/history/bipartisan-good-policy) — L'idée largement répandue selon laquelle la réforme agraire aurait « propulsé le miracle économique taïwanais » ne résiste en réalité pas à l'analyse.
 
 ## Sources des images
 
@@ -369,4 +370,4 @@ Cet article utilise 4 images de la base de données des archives officielles / d
 
 [^8]: [Bureau du budget, des comptes et des statistiques du Yuan exécutif : Base de données statistiques du revenu national et de la croissance économique](https://nstatdb.dgbas.gov.tw/dgbasAll/webMain.aspx?sys=100&funid=dgmaind) — Base de données officielle des statistiques annuelles du revenu national et de la croissance économique ; les lecteurs peuvent consulter les chiffres précis annuels ; cet article utilise des expressions de fourchette vérifiables dans la base de données officielle pour les taux de croissance et les points de terminaison du revenu.
 
-[^9]: Banque mondiale, [_Le Miracle asiatique_](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/975081468244550798) — Rapport classique de la Banque mondiale comparant les modèles de développement des Quatre dragons asiatiques, couvrant l'analyse des caractéristiques communs de l'industrialisation orientée vers l'exportation, des politiques industrielles gouvernementales et de l'investissement dans l'éducation.
+[^9]: [_Le Miracle asiatique_](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/975081468244550798) — Banque mondiale

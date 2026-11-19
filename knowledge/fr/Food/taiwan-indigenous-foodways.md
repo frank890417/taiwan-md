@@ -27,11 +27,13 @@ imageAlt: 'Danseurs autochtones lors du festival musical des Amis en 2016'
 imageCredit: 'HaeB / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Indigenous_group_dancers_at_Amis_Music_Festival_2016_IMF0936.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Food/台灣原住民飲食文化.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:c2e6d8f7560888c4'
-sourceBodyHash: 'sha256:11add6012534def8'
-translatedAt: '2026-09-23T22:11:52+08:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:14687c1f1c43e8dc'
+sourceBodyHash: 'sha256:8d0be243161b86bd'
+translatedAt: '2026-11-19T06:01:14.894419+00:00'
 ---
 
 # La culture alimentaire des peuples autochtones de Taïwan
@@ -92,17 +94,17 @@ Les « larmes de l'amante » illustrent la manière dont les autochtones perçoi
 
 ---
 
-## Cinavu, barbecue sur dalle, poisson-vautour : trois exemples typiques
+## Cinavu, viande grillée sur pierre et poisson-volant : trois exemples typiques
 
-Les techniques culinaires des peuples autochtones de Taïwan ne sont pas nombreuses, mais chacune est précise. Précis signifie que la relation entre les ingrédients, les outils et la saison est le résultat d'un essai et erreur de plusieurs siècles, et non un hasard. Ces trois exemples proviennent de différents reliefs et groupes ethniques, mais ils ont un point commun : l'acte de cuisiner n'est pas seulement une préparation alimentaire, c'est une performance complète de savoirs.
+Les techniques culinaires des peuples autochtones de Taïwan ne sont pas nombreuses, mais chacune est d'une précision absolue. Par précision, on entend que la relation entre les ingrédients, les outils et la saison est le résultat de centaines d'années d'essais et d'erreurs, et non un hasard. Ces trois exemples proviennent de reliefs et d'ethnies différents, mais ils partagent un point commun : l'acte de cuisiner n'est pas seulement une préparation de repas, mais une performance complète d'un système de connaissances.
 
-Le _cinavu_ est un plat festif préparé par les Paiwan et les Lukel, lors des mariages ou des cérémonies. Le porc mariné et le millet sont enveloppés dans des feuilles d'acide faux, puis enroulés une couche supplémentaire avec des feuilles de _yuetao_, et cuits à la vapeur dans un panier en bambou. Au moment de l'ouverture, les couches de parfums des trois plantes jaillissent comme des vagues. La préparation du _cinavu_ nécessite la collaboration de toute la famille ; la technique d'enveloppement est apprise des aînés, et la manière de plier les feuilles varie légèrement selon le clan. Les chercheurs culturels notent que savoir faire du _cinavu_ représente l'apprentissage de la transmission alimentaire du clan, un indicateur culturel pour déterminer si l'on est prêt à assumer une responsabilité adulte.
+Le _cinavu_ est un aliment festif préparé par les peuples Paiwan et Rukai lors des mariages ou des cérémonies rituelles. De la viande de porc marinée et du millet sont enveloppés dans des feuilles de _Physalis angulata_, puis liés une seconde fois avec des feuilles de _Kaempferia galanga_ avant d'être cuits à la vapeur dans un panier en bambou. À l'instant où l'on ouvre le paquet, les strates aromatiques des trois plantes se déploient comme une vague. La confection du _cinavu_ nécessite la collaboration de toute la famille ; la technique pour envelopper les feuilles doit être apprise auprès des aînés, et la manière de plier les feuilles présente de subtiles variations selon les familles. Les chercheurs en études culturelles ont noté que savoir préparer le _cinavu_ signifie avoir assimilé l'héritage culinaire familial, constituant ainsi un indicateur culturel de l'aptitude à assumer ses responsabilités d'adulte.
 
-Le barbecue sur dalle est un produit direct de la vie en montagne des Paiwan et des Lukel. Le gneiss central, chauffé uniformément sans se briser, sert de plaque de cuisson naturelle. Les porcs sauvages et les cerfs chassés sont grillés lentement sur ces dalles, assaisonnés avec du césalina et du poivre sauvage, sans autres condiments. La relation entre la nourriture, la géologie et l'épice est le résultat du dialogue des habitants locaux avec cette montagne au fil des générations.
+Pour savoir quelles feuilles sont utilisées pour le _cinavu_ et comment chaque ethnie ou tribu le nomme, veuillez consulter « [Cinavu (cinavu)](/fr/food/cinavu) ».
 
-Le poisson-vautour (_fīyú_) des Atayal représente une autre philosophie marine complète. De mars à juin de chaque année, c'est la saison du poisson-vautour sur Lan Yu ; on ne peut partir en mer qu'après le rituel de pêche (_Mavanuo_), et il faut limiter la prise. Les Atayal ont développé un système complet de conservation du poisson-vautour séché et salé, avec des règles alimentaires basées sur le sexe pour les poissons de différentes tailles : ce que mangent les hommes, ce que mangent les femmes, ce que mangent les anciens, ce que mangent les enfants — le poisson est distribué selon l'ordre social. Les écologistes analysent que ces règles constituent une logique stricte de gestion des ressources, maintenant l'équilibre écologique sur cette petite île aux ressources limitées. Les Atayal ne décrivent pas leur pratique avec le mot « durabilité » ; ils font simplement ce que leurs ancêtres ont dit.
+La viande grillée sur pierre est un produit direct du mode de vie montagnard des peuples Paiwan et Rukai. Le gneiss de la chaîne centrale, qui chauffe uniformément sans se briser, sert de plaque chauffante naturelle. La viande de sanglier ou de cerf rapportée de la chasse est grillée lentement sur la pierre, relevée par l'oignon sauvage (_cìcōng_) et le _makau_ (une variété de poivre sauvage), sans nécessiter d'autres assaisonnements. La relation entre la nourriture, la géologie et les épices est le fruit du dialogue que les populations locales entretiennent avec cette chaîne de montagnes depuis des générations.
 
----
+Le poisson-volant des Tao représente une autre philosophie marine complète. Sur l'île de Lanyu, la saison du poisson-volant s'étend de mars à juin ; on ne peut prendre la mer qu'après le rituel d'invocation des poissons (_Mavanuo_), et il est interdit d'en prélever trop. Les Tao ont développé tout un système de conservation par séchage et salaison, ainsi que des règles de consommation basées sur le sexe et la taille du poisson : ce que mangent les hommes, les femmes, les vieillards ou les enfants ; le poisson est distribué selon l'ordre social. Les écologistes analysent que ces règles suivent une logique rigoureuse de gestion des ressources, maintenant l'équilibre écologique sur cette petite île aux ressources limitées. Les Tao n'utilisent pas le terme « durable » pour décrire leurs pratiques ; ils se contentent de suivre les enseignements de leurs ancêtres.
 
 ## Deux voies de renaissance : cuisine tribale et restaurants raffinés
 
