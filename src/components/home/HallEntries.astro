@@ -113,7 +113,7 @@ const halls = HALL_IDS.map((id) => {
             </Heading>
           </header>
 
-          <HallThumb hall={hall.id} size="card" />
+          <HallThumb hall={hall.id} size="entry" />
 
           <HallProse hall={hall.id} limit={1} picks={false} />
 
@@ -332,6 +332,80 @@ const halls = HALL_IDS.map((id) => {
     .hall-entries {
       grid-template-columns: minmax(0, 1fr);
     }
+  }
+
+  /* ── 深色模式：兩篇精選（ArticleCard row） ──
+     ArticleCard 的顏色是寫死的亮色，深色覆寫在 dark-polish.css 裡是「每個頁面包
+     一層」的寫法，首頁與展廳總覽沒有那一層；另外 dark-polish 會替 class 名帶 card
+     的元素（卡片裡每個子元素都中）鋪一層半透明底。這裡照 RecentUpdates 的做法，
+     只針對入口卡裡這兩列補齊。選擇器寫得長是為了贏過 dark-polish 那條規則的權重。 */
+  :global(
+    :root[data-theme='dark']
+      .hall-entries
+      .hall-entry
+      .article-card.is-row.hall-entry-pick
+  ),
+  :global(
+    :root[data-theme='dark']
+      .hall-entries
+      .hall-entry
+      .article-card.is-row.hall-entry-pick
+      :is(
+        .article-card-body,
+        .article-card-pillgroup,
+        .article-card-title,
+        .article-card-rowmeta,
+        .article-card-stat
+      )
+  ) {
+    background-color: transparent;
+  }
+  :global(
+    :root[data-theme='dark']
+      .hall-entries
+      .hall-entry
+      .article-card.is-row.hall-entry-pick
+  ) {
+    border-inline-color: transparent;
+    border-block-start-color: transparent;
+    border-block-end-color: var(--home-rule);
+  }
+  :global(
+    :root[data-theme='dark']
+      .hall-entries
+      .hall-entry
+      .article-card.is-row.hall-entry-pick:hover
+  ) {
+    background-color: var(--home-faint);
+  }
+  :global(
+    :root[data-theme='dark']
+      .hall-entries
+      .hall-entry
+      .article-card.is-row.hall-entry-pick
+      .article-card-title
+  ) {
+    color: var(--color-ink);
+  }
+  :global(
+    :root[data-theme='dark']
+      .hall-entries
+      .hall-entry
+      .article-card.is-row.hall-entry-pick
+      .article-card-stat
+  ) {
+    color: var(--color-ink-soft);
+  }
+  /* 分類小標：分類色是為亮底調的，深色下往字色靠 */
+  :global(
+    :root[data-theme='dark']
+      .hall-entries
+      .hall-entry
+      .article-card.is-row.hall-entry-pick
+      .article-card-pill
+  ) {
+    background-color: color-mix(in srgb, currentColor 18%, transparent);
+    filter: brightness(1.6) saturate(0.85);
   }
 
   /* 手機上精選文章的標題折成兩行，不要一行就被刪節號截掉 */

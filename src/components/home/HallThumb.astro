@@ -42,9 +42,10 @@ interface Props {
    * 同一張圖的三個尺寸，資料與畫法都一樣：
    *   thumb（預設）散文欄寬的縮圖
    *   hero   展廳頁的頭圖：同一張圖放大
-   *   card   首頁大廳入口卡裡的縮圖：四張圖區同高，卡片才對得齊
+   *   entry  首頁大廳入口卡裡的縮圖：四張圖區同高，卡片才對得齊
+   * （名字不叫 card：dark-polish.css 會替 class 名帶 card 的元素在深色下鋪底色）
    */
-  size?: 'thumb' | 'hero' | 'card';
+  size?: 'thumb' | 'hero' | 'entry';
 }
 
 const { hall, size = 'thumb' } = Astro.props;
@@ -717,53 +718,53 @@ const pct = (n: number) => `${n.toFixed(2)}%`;
   .hall-thumb--hero .h3-bar {
     height: 2.25rem;
   }
-  /* card：大廳入口卡。圖直接坐在卡片上（不再套一層框），四張圖區同高，
+  /* entry：大廳入口卡。圖直接坐在卡片上（不再套一層框），四張圖區同高，
      卡片的標題與段落才對得齊。 */
-  .hall-thumb--card :is(.hall-thumb-link, .hall-thumb-frame) {
+  .hall-thumb--entry :is(.hall-thumb-link, .hall-thumb-frame) {
     border: 0;
     border-radius: 0;
     background: none;
     padding: 0;
     box-shadow: none;
   }
-  .hall-thumb--card .hall-thumb-fig {
+  .hall-thumb--entry .hall-thumb-fig {
     block-size: 164px;
   }
-  .hall-thumb--card .hall-thumb-caption {
+  .hall-thumb--entry .hall-thumb-caption {
     margin-block-start: 0.75rem;
     font-size: 0.8rem;
     line-height: 1.6;
   }
   /* 金門與馬祖那一句在展廳頁的頭圖上看得到，入口卡裡先收起來 */
-  .hall-thumb--card .hall-thumb-note {
+  .hall-thumb--entry .hall-thumb-note {
     display: none;
   }
-  .hall-thumb--card .h1-fig {
+  .hall-thumb--entry .h1-fig {
     height: auto;
   }
   /* 圖小的時候只標比較長的那幾條，數字才不會一列疊一列 */
-  .hall-thumb--card .h1-band:not(.is-major) .h1-count {
+  .hall-thumb--entry .h1-band:not(.is-major) .h1-count {
     display: none;
   }
-  .hall-thumb--card .h1-count {
+  .hall-thumb--entry .h1-count {
     font-size: 0.62rem;
   }
-  .hall-thumb--card .h3-fig {
+  .hall-thumb--entry .h3-fig {
     display: flex;
     flex-direction: column;
     justify-content: center;
   }
-  .hall-thumb--card .h4-fig {
+  .hall-thumb--entry .h4-fig {
     aspect-ratio: auto;
   }
-  .hall-thumb--card .h2-fig {
+  .hall-thumb--entry .h2-fig {
     align-items: flex-end;
   }
-  .hall-thumb--card .h2-dots i {
+  .hall-thumb--entry .h2-dots i {
     width: 5px;
     height: 5px;
   }
-  .hall-thumb--card .h2-dots {
+  .hall-thumb--entry .h2-dots {
     gap: 2px;
   }
 
