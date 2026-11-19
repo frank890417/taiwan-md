@@ -3,13 +3,16 @@ category: proper-noun
 fork_type: orthographic
 
 display:
-  taiwan: 莫桑比克
-  china: 莫三鼻克
+  taiwan: 莫三比克
+  china: 莫桑比克
 
-notes: ''
+notes: |
+  原本台灣與中國兩欄填反了：台灣欄填「莫桑比克」、中國欄填「莫三鼻克」。外交部非洲地區國家頁寫「莫三比克共和國」，同頁 3 處都是「莫三比克」、0 處「莫桑比克」；維基百科條目的轉換標記寫 `zh-hans:莫桑比克; zh-tw:莫三比克`。台灣欄改成外交部現行用字「莫三比克」；本檔 id 沿用舊譯「莫三鼻克」未改檔名，那是台灣的舊用字（維基記「舊譯作莫三鼻給」），不是中國用語。已對調（issue #2025 同型掃描）。
 
 sources:
   - 'fanhuaji-config'
+  - 'https://www.mofa.gov.tw/CountryInfo.aspx?CASN=2&n=163&sms=33&s=191'
+  - 'https://zh.wikipedia.org/wiki/莫桑比克'
 
 added: '2026-03-31'
-updated: '2026-03-31'
+updated: '2026-11-19'

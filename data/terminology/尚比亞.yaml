@@ -3,13 +3,16 @@ category: proper-noun
 fork_type: orthographic
 
 display:
-  taiwan: 贊比亞
-  china: 尚比亞
+  taiwan: 尚比亞
+  china: 贊比亞
 
-notes: ''
+notes: |
+  原本台灣與中國兩欄填反了：台灣欄填「贊比亞」、中國欄填「尚比亞」，照字面自動替換會把台灣的正確用法換成中國用法。外交部非洲地區國家頁寫「尚比亞共和國」，同頁 3 處都是「尚比亞」、0 處「贊比亞」；維基百科 Zambia 條目的各地譯名表記「中國大陸 赞比亚／臺灣 尚比亞」。已對調（issue #2025 同型掃描，讀者 orlys 回報「梵穀」時一併查出）。
 
 sources:
   - 'fanhuaji-config'
+  - 'https://www.mofa.gov.tw/CountryInfo.aspx?CASN=2&n=163&sms=33&s=138'
+  - 'https://zh.wikipedia.org/wiki/赞比亚'
 
 added: '2026-03-31'
-updated: '2026-03-31'
+updated: '2026-11-19'

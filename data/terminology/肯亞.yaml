@@ -3,13 +3,16 @@ category: proper-noun
 fork_type: orthographic
 
 display:
-  taiwan: 肯尼亞
-  china: 肯亞
+  taiwan: 肯亞
+  china: 肯尼亞
 
-notes: ''
+notes: |
+  原本台灣與中國兩欄填反了：台灣欄填「肯尼亞」、中國欄填「肯亞」。外交部非洲地區國家頁寫「肯亞共和國」，同頁 3 處都是「肯亞」、0 處「肯尼亞」；維基百科條目的轉換標記寫 `zh-cn:肯尼亚; zh-tw:肯亞`。已對調（issue #2025 同型掃描）。
 
 sources:
   - 'fanhuaji-config'
+  - 'https://www.mofa.gov.tw/CountryInfo.aspx?CASN=2&n=163&sms=33&s=112'
+  - 'https://zh.wikipedia.org/wiki/肯尼亚'
 
 added: '2026-03-31'
-updated: '2026-03-31'
+updated: '2026-11-19'
