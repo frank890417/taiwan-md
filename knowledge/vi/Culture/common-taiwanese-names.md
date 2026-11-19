@@ -23,18 +23,18 @@ readingTime: 6
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'Culture/菜市場名.md'
-sourceCommitSha: '22286539e'
-sourceContentHash: 'sha256:4f24d54138c9fd30'
-sourceBodyHash: 'sha256:e1adcb11fb9e8afa'
-translatedAt: '2026-11-05T08:35:17.501804+00:00'
+sourceCommitSha: 'f024e87e7'
+sourceContentHash: 'sha256:b43b81907a3c86ea'
+sourceBodyHash: 'sha256:cf68717b49d8561a'
+translatedAt: '2026-11-19T13:49:50.990670+00:00'
 ---
 
-# Tên Chợ Rau
+# Tên chợ rau
 
 > **Tóm tắt 30 giây:**
-> "Tên chợ rau" chỉ những tên mà khi hô vang trên chợ rau sẽ có nhiều người quay lại. Đây không phải là trò cười. Theo thống kê mới nhất của Bộ Nội lực Đài Loan năm 2024, "Thịnh An" trên toàn quốc có hơn 30.000 người, trong khi "Gia Hùng" có hơn 14.000 người. Họ lần lượt chiếm hạng nhất hai bên nam và nữ trong các tên chợ rau kéo dài hơn 10 năm.[^1] Những tên này phản ánh không phải là sự lường biếng của các bậc phụ huynh, mà là tư duy chung của xã hội Đài Loan trong các thời kỳ khác nhau về "tên nào là tốt".
+> 「Tên chợ rau」chỉ những tên mà nếu hô to một tiếng ở chợ rau, sẽ có vô số người cùng quay đầu lại. Đây không phải đùa, theo thống kê mới nhất năm 2024 của Bộ Nội vụ, 「Thục Phân」trên toàn Đài Loan có hơn 3 vạn người, 「Gia Hào」thì có hơn 1 vạn 4 nghìn người, hai tên này lần lượt giữ vững vị trí quán quân và á quân của tên chợ rau nam nữ suốt hơn mười năm.[^1] Những tên này phản ánh không phải sự lười biếng của cha mẹ, mà là sự đồng thuận tập thể của xã hội Đài Loan trong các thập kỷ khác nhau về 「gì là một cái tên hay」.
 
----
+> **Muốn xem toàn cảnh?** Vị trí họ đặt ở đâu, tại sao cùng một họ lại có đến bốn cách viết Latinh, tên người bản địa viết thế nào, tất cả đã được tổng hợp trong chuyên đề[〈Tên người Đài Loan〉](/names/); muốn viết tên tiếng Trung thành dạng Latinh trên hộ chiếu, có thể dùng[Công cụ phiên âm tên](/names/name-romanization/).
 
 ## Thịnh An và Triển Minh: Tên tiêu chuẩn cho lớp 5-6
 
@@ -99,9 +99,10 @@ Tên chợ rau không có ý nghĩa thô lỗ. Đó là bằng chứng về cu�
 
 ## Đọc thêm
 
-- [Phân tích thống kê tên quốc gia của Bộ Nội lực (phiên bản mới nhất 2023)](https://www.ris.gov.tw) — Dữ liệu số quan trọng nhất chính thức của Đài Loan về tên người.
-- ["Chinh An" chiến thắng, "Y Nhi" suy yếu: Phân tích ngôn ngữ học về tên chợ rau (Readmoo)](https://news.readmoo.com/2017/12/07/taiwanese-names/) — Phân tích sâu về ý nghĩa văn hóa của các chữ số trong các thế kỷ khác nhau.
-- [Xích Đu Hỗn Loạn: Nghiên cứu hiện tượng thay đổi tên ở Đài Loan (Wikipedia)](https://zh.wikipedia.org/zh-tw/%E9%AE%AD%E9%AD%9A%E4%B9%8B%E4%BA%82) — Ghi chép về làn sóng thay đổi tên khiến thế giới bất ngờ vào năm 2021.
+- [Tên người Đài Loan (Chuyên đề)](/names/) — Sơ đồ họ, thế hệ, phiên âm và tên dân tộc, kèm công cụ phiên âm tên.
+- [Phân tích thống kê tên quốc gia của Bộ Nội vụ (Phiên bản mới nhất 2023)](https://www.ris.gov.tw) — Dữ liệu lớn tên chính thức nhất của Đài Loan.
+- [「Thừa Ân」 (承恩) vô địch, «Di Quân» (怡君) giảm nhiệt: Ngữ học của tên chợ rau (Readmoo)](https://news.readmoo.com/2017/12/07/taiwanese-names/) — Phân tích sâu ý nghĩa văn hóa chọn chữ các thế hệ khác nhau.
+- [Xích Du Hỗn Loạn: Nghiên cứu hiện tượng đổi tên tại Đài Loan (Wikipedia)](https://zh.wikipedia.org/zh-tw/%E9%AE%AD%E9%AD%9A%E4%B9%8B%E4%BA%82) — Ghi chép làn sóng đổi tên rung chuyển thế giới năm 2021.
 
 ---
 

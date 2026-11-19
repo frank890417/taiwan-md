@@ -25,10 +25,10 @@ rationale:
   where_it_hedges: '文林苑案的時序、法院判決理由與雙方主張採維基百科條目（該條目引用台北高等行政法院 98 年度訴字 2467 號、最高行政法院 100 年度裁字 1582 號判決與市府新聞稿）；釋字 709 的審查客體與違憲結論採司法院解釋原文與立法院議案文書；都更條例的立法與核定案件數採維基百科整理。'
   whos_pushing_back: '認為王家被塑造成受害者、忽略其土地本來就無法改建的讀者；認為大法官過度介入立法政策的讀者；以及認為同意戶的權益在整起事件中被完全忽略的讀者。'
 translatedFrom: 'Society/都市更新爭議.md'
-sourceCommitSha: '4d588c462'
-sourceContentHash: 'sha256:94ff250b0e25855f'
-sourceBodyHash: 'sha256:75a7daaeb80e499b'
-translatedAt: '2026-10-20T00:51:02+08:00'
+sourceCommitSha: 'f024e87e7'
+sourceContentHash: 'sha256:d27aa7a78b691159'
+sourceBodyHash: 'sha256:c44ec23dc468f721'
+translatedAt: '2026-11-19T13:38:48.440150+00:00'
 ---
 
 # Tranh cãi về cải tạo đô thị: Sau vụ Văn Lâm Viên, Đài Loan xử lý các hộ "không đồng ý" như thế nào?
@@ -81,18 +81,19 @@ Ngày 28 tháng 5, Vương Quảng Thụ trong tình cảnh thua mười lần k
 
 Điều đáng chú ý là, trong vụ án này "những hộ bị thiệt hại" không chỉ gia đình Vương. Các hộ đồng ý không thể về nhà trong thời gian đấu tranh, có báo cáo chỉ ra bảy cụ già trong số các hộ đồng ý qua đời trước khi tòa nhà hoàn thành.[^1] Đây cũng là sự khác biệt lớn nhất giữa vụ Văn Lâm Viên và các cuộc đấu tranh tháo dỡ thông thường: nó không phải đối lập hai chiều giữa chính phủ và cư dân, mà là một cộng đồng bị cắt làm đôi sau đó, cả hai bên đều phải trả giá.
 
-## Hệ thống để lại cái gì
+## Chế độ để lại điều gì
 
-Điều lệ Cải tạo Đô thị công bố ngày 11 tháng 11 năm 1998, có hiệu lực ngày 13, là luật đặc biệt về cải tạo đô thị của nước ta.[^4] Theo thống kê của Quỹ Nghiên cứu và Phát triển Cải tạo Đô thị, từ năm 2000 đến cuối năm 2020, toàn đảo theo Điều lệ này phê duyệt các dự án xây dựng lại tích lũy 751 vụ, tổng diện tích 242,70 hecta, phê duyệt các dự án sửa chữa và bảo trì 150 vụ.[^4] Điều lệ đến ngày 13 tháng 11 năm 2024 đã trải qua lần sửa đổi thứ mười hai.[^4]
+《Luật Cải tạo Đô thị》được công bố vào ngày 11 tháng 11 năm 1998 và có hiệu lực từ ngày 13 cùng tháng, là luật đặc biệt về cải tạo đô thị của nước ta. [^4] Theo thống kê từ Quỹ Nghiên cứu và Phát triển Cải tạo Đô thị, từ năm 2000 đến cuối năm 2020, trên toàn Đài Loan đã có tích lũy 751 dự án tái thiết được phê duyệt theo luật này với tổng diện tích 242,70 ha, cùng 150 dự án bảo trì và chỉnh trang toàn diện được phê duyệt. [^4] Tính đến ngày 13 tháng 11 năm 2024, đạo luật này đã trải qua lần sửa đổi thứ mười hai. [^4]
 
-Sau khi sửa đổi luật, xử lý các hộ không đồng ý thêm một quy trình: Hội đồng Xét duyệt Cải tạo Đô thị phải xác nhận tính hợp lý của phạm vi cải tạo, gặp tranh cãi phải tổ chức lắng nghe. Tranh cãi về tháo dỡ thay thế cũng từ "chính quyền thành phố nói là tính" đổi thành do tòa án quyết định.[^1] Những thiết kế này phản hồi mối quan tâm cốt lõi của Giải thích số 709, nhưng không trả lời câu hỏi cơ bản hơn: khi lợi ích tài sản của đa số xung đột với ý chí ở cư của thiểu số, luật pháp nên đứng về phía nào.
+Sau khi sửa đổi luật, việc xử lý các hộ gia đình không đồng thuận đã có thêm một quy trình: Hội đồng Thẩm định Cải tạo Đô thị phải xác nhận tính hợp lý của phạm vi cải tạo, và nếu gặp tranh chấp thì phải tổ chức điều trần. Tranh cãi về việc cưỡng chế tháo dỡ thay thế cũng đã chuyển từ việc "chính quyền thành phố quyết định" sang do tòa án phán quyết. [^1] Những thiết kế này đã đáp ứng được mối quan tâm cốt lõi của Giải thích số 709, nhưng vẫn chưa trả lời được câu hỏi căn bản hơn: Khi lợi ích tài sản của đa số xung đột với nguyện vọng cư trú của thiểu số, luật pháp nên đứng về phía nào.
 
-Câu trả lời của vụ Văn Lâm Viên là "đa số quyết định cộng với bảo vệ quy trình". Câu trả lời này khiến cải tạo đô thị của Đài Loan từ tình trạng đình trệ sau năm 2012 từ từ phục hồi, cũng khiến quy trình xét duyệt mỗi vụ cải tạo đô thị trở nên dài hơn, đắt hơn. Chi phí được chia sẻ bởi tất cả mọi người, bao gồm những người chỉ muốn về nhà, nhưng phải chờ hơn bốn năm.
+Câu trả lời của vụ án Văn Lâm Viên là "quyết định theo đa số kết hợp với bảo đảm quy trình". Câu trả lời này đã giúp các dự án cải tạo đô thị tại Đài Loan dần phục hồi sau tình trạng đình trệ từ sau năm 2012, nhưng cũng khiến quá trình thẩm định của mỗi dự án trở nên dài hơn và tốn kém hơn. Cái giá phải trả được chia sẻ bởi tất cả mọi người, bao gồm cả những hộ gia đình đồng thuận vốn chỉ muốn về nhà nhưng đã phải chờ đợi hơn bốn năm qua.
 
 **Đọc thêm**:
 
-- [Nhà ở xã hội và công lý ở cư](/vi/society/social-housing-and-housing-justice) — một con đường chính sách ở cư khác ngoài thị trường bất động sản
-- [Nhà ở quốc dân và công lý ở cư](/vi/society/public-housing-justice) — lịch sử chính sách nhà ở quốc dân từ xây dựng đến dừng lại
+- [Giá nhà, khoản vay mua nhà và gói hỗ trợ Thanh An tại Đài Loan](/housing/) — Trang chuyên đề: Đặt cải tạo đô thị vào trong toàn bộ hệ thống nhà ở để xem xét, bao gồm các cột về khoản vay, thuế, giao dịch đất đai và cung ứng nhà ở.
+- [Nhà ở xã hội và công bằng cư trú](/vi/society/social-housing-and-housing-justice) — Một lộ trình chính sách cư trú khác nằm ngoài thị trường bất động sản.
+- [Nhà ở quốc gia và công bằng cư trú](/vi/society/public-housing-justice) — Lịch sử của chính sách nhà ở quốc gia từ khi xây dựng đến khi tạm dừng.
 
 ## Tài liệu tham khảo
 
