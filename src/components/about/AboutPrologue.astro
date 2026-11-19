@@ -1,0 +1,365 @@
+---
+/**
+ * AboutPrologue — 關於頁的「序」（2026-11-19 關於頁策展試作）。
+ *
+ * 展覽的入口：頁面唯一的 h1（「為什麼叫 Taiwan.md？」與副標，原文不動）、
+ * 識別的地形行（TerrainRidge）、「今天是第 N 天」（從 2026-03-17 到建置當天，
+ * 台北時間；站上慣例是日期相減，3/24 是第七天）、三個活的數字
+ * （中文篇數、語言數、寫作者數，讀 dashboard-vitals.json，缺哪個就不顯示哪個）。
+ * 三十秒版（AboutBrief）由樣板塞進預設 slot，放在序裡。
+ */
+import type { Lang } from '../../types';
+import TerrainRidge from '../brand/TerrainRidge.astro';
+import { useAboutStrings, formatNumber, isEnglishFallback } from './strings';
+import { ROOM_NUMERALS } from '../../data/about/rooms';
+
+interface Props {
+  lang: Lang;
+  title: string;
+  subtitle: string;
+  /** 第幾天；算不出來給 null */
+  day: number | null;
+  articles: number | null;
+  languages: number | null;
+  writers: number | null;
+}
+const { lang, title, subtitle, day, articles, languages, writers } =
+  Astro.props;
+const s = useAboutStrings(lang);
+const n = (v: number) => formatNumber(lang, v);
+const fallbackEn = isEnglishFallback(lang, 'about.prologue.day.value');
+
+// 「第 {n} 天」拆成前後兩段，數字單獨放大
+const dayTpl = s('about.prologue.day.value');
+const [dayBefore, dayAfter] = dayTpl.includes('{n}')
+  ? dayTpl.split('{n}')
+  : ['', ''];
+
+const stats = [
+  { id: 'articles', value: articles, label: s('about.prologue.stat.articles') },
+  {
+    id: 'languages',
+    value: languages,
+    label: s('about.prologue.stat.languages'),
+  },
+  { id: 'writers', value: writers, label: s('about.prologue.stat.writers') },
+].filter((x) => typeof x.value === 'number' && (x.value as number) > 0);
+// 中文頁的「序」字本身就是名字，不另外印標籤
+const showLabel = lang !== 'zh-TW';
+---
+
+<section
+  id="story"
+  class="ab-pro"
+  data-ga-view="about_prologue"
+  data-fallback-en={fallbackEn ? '' : undefined}
+>
+  <div class="ab-pro__inner">
+    <div class="ab-pro__door">
+      <div class="ab-pro__mark">
+        <p class="ab-pro__numeral" aria-hidden="true">
+          {ROOM_NUMERALS.prologue}
+        </p>
+        <p class={showLabel ? 'ab-pro__label' : 'ab-pro__label sr-only'}>
+          {s('about.prologue.label')}
+        </p>
+      </div>
+
+      <div class="ab-pro__head">
+        <h1 class="ab-pro__title hero-title" dir="auto">{title}</h1>
+        <p class="ab-pro__subtitle" dir="auto">{subtitle}</p>
+
+        <div class="ab-pro__now">
+          {
+            day !== null && (
+              <p class="ab-pro__day">
+                <span class="ab-pro__day-label" dir="auto">
+                  {s('about.prologue.day.label')}
+                </span>
+                <span class="ab-pro__day-value">
+                  {dayBefore && <span dir="auto">{dayBefore.trim()}</span>}
+                  <span class="ab-pro__day-num" dir="ltr">
+                    {n(day)}
+                  </span>
+                  {dayAfter && <span dir="auto">{dayAfter.trim()}</span>}
+                </span>
+                <span class="ab-pro__day-since" dir="auto">
+                  {s('about.prologue.day.since')}
+                </span>
+              </p>
+            )
+          }
+          {
+            stats.length > 0 && (
+              <dl
+                class="ab-pro__stats"
+                aria-label={s('about.prologue.stats.label')}
+              >
+                {stats.map((x) => (
+                  <div class="ab-pro__stat">
+                    <dt class="ab-pro__stat-label" dir="auto">
+                      {x.label}
+                    </dt>
+                    <dd class="ab-pro__stat-value" dir="ltr">
+                      {n(x.value as number)}
+                    </dd>
+                  </div>
+                ))}
+              </dl>
+            )
+          }
+        </div>
+      </div>
+
+      <div class="ab-pro__ridge">
+        <TerrainRidge
+          class="ab-pro__ridge-svg"
+          stroke="color-mix(in srgb, var(--color-ink) 34%, transparent)"
+          accent="var(--ab-brand)"
+          bg="var(--color-bg)"
+          strokeWidth={3.2}
+        />
+      </div>
+    </div>
+
+    <div class="ab-pro__brief" id="brief">
+      <div class="ab-pro__brief-body">
+        <slot />
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  .ab-pro {
+    --ab-rail: 12rem;
+    --ab-rail-gap: var(--space-6);
+    --ab-section-bg: var(--color-bg);
+    background: var(--color-bg);
+    color: var(--color-ink);
+    padding-block: var(--space-7) clamp(var(--space-8), 8vw, 7rem);
+  }
+  .ab-pro__inner {
+    max-width: var(--container-article);
+    margin-inline: auto;
+    padding-inline: var(--space-page-x);
+  }
+
+  .ab-pro__door {
+    display: grid;
+    grid-template-columns: var(--ab-rail) minmax(0, 1fr) minmax(12rem, 22rem);
+    column-gap: var(--ab-rail-gap);
+    align-items: start;
+  }
+
+  .ab-pro__numeral {
+    margin: 0;
+    font-family: var(--font-title);
+    font-size: clamp(4.5rem, 8vw, 7.5rem);
+    font-weight: 600;
+    line-height: 0.95;
+    color: var(--ab-brand);
+  }
+  .ab-pro__label {
+    margin: var(--space-4) 0 0;
+    font-family: var(--font-interface);
+    font-size: 0.875rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    color: var(--color-ink-soft);
+  }
+  .sr-only {
+    position: absolute;
+    inline-size: 1px;
+    block-size: 1px;
+    overflow: hidden;
+    clip-path: inset(50%);
+    white-space: nowrap;
+  }
+
+  .ab-pro__head {
+    padding-block-start: 0.6rem;
+  }
+  .ab-pro__title {
+    margin: 0 0 var(--space-4);
+    font-size: clamp(2.5rem, 5.2vw, 4.25rem);
+    font-weight: 700;
+    line-height: 1.1;
+    letter-spacing: 0;
+    color: var(--color-ink);
+    text-wrap: balance;
+  }
+  .ab-pro__subtitle {
+    max-width: 30em;
+    margin: 0;
+    font-family: var(--font-reading);
+    font-size: clamp(1.125rem, 1.6vw, 1.3125rem);
+    line-height: 1.7;
+    color: var(--color-ink-soft);
+  }
+
+  /* ── 今天：第 N 天＋三個活的數字 ── */
+  .ab-pro__now {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    gap: var(--space-6) var(--space-7);
+    margin-block-start: var(--space-7);
+    padding-block-start: var(--space-5);
+    border-block-start: 1px solid var(--ab-rule-strong);
+  }
+  .ab-pro__day {
+    display: grid;
+    gap: 0.35em;
+    margin: 0;
+  }
+  .ab-pro__day-label,
+  .ab-pro__stat-label {
+    font-family: var(--font-interface);
+    font-size: 0.8125rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    color: var(--color-ink-soft);
+  }
+  .ab-pro__day-value {
+    display: flex;
+    align-items: baseline;
+    gap: 0.3em;
+    font-family: var(--font-interface);
+    font-size: 1.5rem;
+    font-weight: 500;
+    line-height: 1;
+    color: var(--color-ink);
+  }
+  .ab-pro__day-num {
+    font-size: clamp(3.25rem, 6vw, 4.75rem);
+    font-weight: 300;
+    font-variant-numeric: tabular-nums;
+    letter-spacing: -0.02em;
+    color: var(--ab-brand);
+    unicode-bidi: isolate;
+  }
+  .ab-pro__day-since {
+    font-family: var(--font-interface);
+    font-size: 0.8125rem;
+    color: var(--color-ink-soft);
+  }
+
+  .ab-pro__stats {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-4) var(--space-6);
+    margin: 0;
+  }
+  .ab-pro__stat {
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 0.3em;
+    padding-inline-start: var(--space-4);
+    border-inline-start: 1px solid var(--ab-rule-strong);
+  }
+  .ab-pro__stat-value {
+    margin: 0;
+    font-family: var(--font-interface);
+    font-size: clamp(1.75rem, 2.6vw, 2.25rem);
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+    line-height: 1;
+    color: var(--color-ink);
+    unicode-bidi: isolate;
+  }
+
+  /* ── 地形行：台灣本島依真實高程一行一行抬升，北迴歸線那一行是品牌色 ── */
+  .ab-pro__ridge {
+    justify-self: end;
+    inline-size: 100%;
+    max-inline-size: 22rem;
+  }
+  .ab-pro__ridge :global(.ab-pro__ridge-svg) {
+    display: block;
+    inline-size: 100%;
+    block-size: auto;
+    max-block-size: 30rem;
+  }
+
+  /* 三十秒版對齊到內容欄（跟標題同一條起始線），不置中 */
+  .ab-pro__brief {
+    display: grid;
+    grid-template-columns: var(--ab-rail) minmax(0, 1fr);
+    column-gap: var(--ab-rail-gap);
+    margin-block-start: clamp(var(--space-7), 7vw, var(--space-8));
+    scroll-margin-top: var(--space-8);
+  }
+  .ab-pro__brief-body {
+    grid-column: 2;
+    min-inline-size: 0;
+  }
+  .ab-pro__brief-body :global(.ab-brief) {
+    margin-inline: 0;
+  }
+
+  .ab-pro[data-fallback-en] .ab-pro__day-label,
+  .ab-pro[data-fallback-en] .ab-pro__day-since {
+    unicode-bidi: plaintext;
+  }
+
+  @media (max-width: 63.99rem) {
+    .ab-pro__door {
+      grid-template-columns: var(--ab-rail) minmax(0, 1fr);
+    }
+    .ab-pro__ridge {
+      display: none;
+    }
+  }
+  @media (max-width: 47.99rem) {
+    .ab-pro {
+      padding-block-start: var(--space-5);
+    }
+    .ab-pro__door {
+      position: relative;
+      grid-template-columns: minmax(0, 1fr);
+    }
+    .ab-pro__mark {
+      display: flex;
+      align-items: baseline;
+      gap: var(--space-4);
+      margin-block-end: var(--space-4);
+    }
+    .ab-pro__numeral {
+      font-size: 4rem;
+    }
+    .ab-pro__label {
+      margin: 0;
+    }
+    .ab-pro__head {
+      padding-block-start: 0;
+    }
+    .ab-pro__brief {
+      grid-template-columns: minmax(0, 1fr);
+    }
+    .ab-pro__brief-body {
+      grid-column: 1;
+    }
+    /* 手機：地形行縮成右上角一個小島，不佔版面 */
+    .ab-pro__ridge {
+      display: block;
+      position: absolute;
+      inset-block-start: 0;
+      inset-inline-end: 0;
+      inline-size: 5.5rem;
+    }
+    .ab-pro__now {
+      margin-block-start: var(--space-5);
+      gap: var(--space-5);
+    }
+    .ab-pro__stats {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: var(--space-4);
+      inline-size: 100%;
+    }
+    .ab-pro__stat {
+      padding-inline-start: 0.75rem;
+    }
+  }
+</style>

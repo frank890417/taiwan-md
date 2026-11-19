@@ -1,6 +1,5 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import PageHero from '../components/PageHero.astro';
 import ProticoScript from '../components/ProticoScript.astro';
 import SupporterGrid from '../components/SupporterGrid.astro';
 import NewsletterSection from '../components/home/NewsletterSection.astro';
@@ -10,6 +9,10 @@ import AboutTrust from '../components/about/AboutTrust.astro';
 import AboutMilestones from '../components/about/AboutMilestones.astro';
 import type { TimelineEntry } from '../components/about/AboutMilestones.astro';
 import { useAboutStrings } from '../components/about/strings';
+// 2026-11-19 關於頁策展試作：序＋展間「貳　第一個週末」（reports/design-about-curation-2026-11-19.md）
+import AboutPrologue from '../components/about/AboutPrologue.astro';
+import AboutRoom2 from '../components/about/AboutRoom2.astro';
+import { ROOM2_ENTRY_KEYS } from '../data/about/rooms';
 import {
   getLangFromUrl,
   useTranslations,
@@ -224,7 +227,28 @@ const timelineEntries: TimelineEntry[] = [
   { key: '2026-11-07', date: '2026-11-07', milestone: true },
   { key: 'ongoing', date: null },
 ];
-const today = new Date().toISOString().slice(0, 10);
+// 今天（台北時間）。建置當天算一次。
+const today = new Date(Date.now() + 8 * 3_600_000).toISOString().slice(0, 10);
+
+// 展間「貳」已經攤開的條目，舊的「誕生」區（里程碑卡＋完整時間軸）不再重複放。
+const _inRoom = new Set<string>(ROOM2_ENTRY_KEYS);
+const originEntries = timelineEntries.filter((e) => !_inRoom.has(e.key));
+
+// 序：第 N 天（站上慣例是日期相減：3/24 是第七天、11/07 是第二三五天）
+const _born = Date.parse('2026-03-17T00:00:00Z');
+const _todayMs = Date.parse(`${today}T00:00:00Z`);
+const dayNumber =
+  Number.isFinite(_todayMs) && _todayMs >= _born
+    ? Math.round((_todayMs - _born) / 86_400_000)
+    : null;
+// 序的三個活的數字，全部讀 dashboard-vitals.json；缺就不顯示
+const _cov = (vitalsData as { languageCoverage?: Record<string, number> })
+  .languageCoverage;
+const prologueLanguages = _cov
+  ? Object.values(_cov).filter((x) => typeof x === 'number' && x > 0).length
+  : null;
+const prologueArticles = _v.totalArticles || null;
+const prologueWriters = _v.contributors || null;
 ---
 
 <Layout
@@ -244,41 +268,41 @@ const today = new Date().toISOString().slice(0, 10);
       */
     }
 
-    {/* 1 頭：為什麼叫 Taiwan.md？ */}
-    <section id="story" data-ga-view="about_head">
-      <PageHero
-        containerWidth="wide"
-        padding="compact"
-        titleColor="#1a3c34"
-        title={t('about.naming.title')}
-        subtitle={t('about.naming.subtitle')}
-      />
-    </section>
-
     {
       /* 章節列（AboutChapterNav）2026-11-19 v2 起不渲染（哲宇：側邊不需要、版面被擠窄）；元件檔保留 */
     }
 
-    {/* 2 三十秒版 */}
-    <section id="brief" class="ab-sec ab-sec--brief" data-ga-view="about_brief">
-      <div class="section-inner">
-        <AboutBrief
-          lang={lang}
-          totalArticles={totalArticles}
-          languageCount={languageCount}
-          contributorCount={contributorCount}
-          reviewedCount={reviewedCount}
-          reviewedPercent={reviewedPercent}
-          hrefs={{
-            naming: '#naming',
-            people: '#team',
-            how: '/about/文章如何誕生',
-            trust: '#trust',
-            contribute: hrefContribute,
-          }}
-        />
-      </div>
-    </section>
+    {
+      /* 序：為什麼叫 Taiwan.md？（標題與副標原文）＋第 N 天＋三個活的數字＋三十秒版 */
+    }
+    <AboutPrologue
+      lang={lang}
+      title={t('about.naming.title')}
+      subtitle={t('about.naming.subtitle')}
+      day={dayNumber}
+      articles={prologueArticles}
+      languages={prologueLanguages}
+      writers={prologueWriters}
+    >
+      <AboutBrief
+        lang={lang}
+        totalArticles={totalArticles}
+        languageCount={languageCount}
+        contributorCount={contributorCount}
+        reviewedCount={reviewedCount}
+        reviewedPercent={reviewedPercent}
+        hrefs={{
+          naming: '#naming',
+          people: '#team',
+          how: '/about/文章如何誕生',
+          trust: '#trust',
+          contribute: hrefContribute,
+        }}
+      />
+    </AboutPrologue>
+
+    {/* 展間貳：第一個週末（3/17 — 3/24）。其餘展間下一輪才做，先接舊區塊 */}
+    <AboutRoom2 lang={lang} />
 
     {/* 頭的後半：名字的由來（三張卡）＋活的數字＋願景 */}
     <section
@@ -535,7 +559,7 @@ const today = new Date().toISOString().slice(0, 10);
         <h2 class="section-title">{t('about.origin.title')}</h2>
         <p class="section-subtitle">{t('about.origin.subtitle')}</p>
 
-        <AboutMilestones lang={lang} entries={timelineEntries} today={today} />
+        <AboutMilestones lang={lang} entries={originEntries} today={today} />
 
         <details class="timeline-full" id="timeline-full">
           <summary
@@ -546,7 +570,7 @@ const today = new Date().toISOString().slice(0, 10);
             <span class="timeline-full__label" dir="auto">
               {
                 s('about.timeline.full.summary', {
-                  count: timelineEntries.length,
+                  count: originEntries.length,
                 })
               }
             </span>
@@ -590,145 +614,9 @@ const today = new Date().toISOString().slice(0, 10);
               </div>
             </div>
 
-            <div class="timeline-item" id="tl-2026-03-17">
-              <div class="timeline-marker"></div>
-              <div class="timeline-date">
-                {t('about.timeline.2026-03-17.date')}
-              </div>
-              <div class="timeline-content">
-                <h3>{t('about.timeline.2026-03-17.title')}</h3>
-                <p>{t('about.timeline.2026-03-17.p1')}</p>
-                <ul class="timeline-list">
-                  <li>{t('about.timeline.2026-03-17.li1')}</li>
-                  <li>{t('about.timeline.2026-03-17.li2')}</li>
-                  <li>{t('about.timeline.2026-03-17.li3')}</li>
-                  <li>{t('about.timeline.2026-03-17.li4')}</li>
-                  <li>{t('about.timeline.2026-03-17.li5')}</li>
-                </ul>
-              </div>
-            </div>
-
-            <div class="timeline-item" id="tl-2026-03-18-1">
-              <div class="timeline-marker"></div>
-              <div class="timeline-date">
-                {t('about.timeline.2026-03-18-1.date')}
-              </div>
-              <div class="timeline-content">
-                <h3>{t('about.timeline.2026-03-18-1.title')}</h3>
-                <p set:html={t('about.timeline.2026-03-18-1.p1.html')} />
-              </div>
-            </div>
-
-            <div class="timeline-item" id="tl-2026-03-18-2">
-              <div class="timeline-marker"></div>
-              <div class="timeline-date">
-                {t('about.timeline.2026-03-18-2.date')}
-              </div>
-              <div class="timeline-content">
-                <h3>{t('about.timeline.2026-03-18-2.title')}</h3>
-                <p set:html={t('about.timeline.2026-03-18-2.desc.html')} />
-                {/* 整合媒體報導到時間軸內 */}
-                <div class="timeline-press-grid">
-                  <a
-                    href="https://www.cna.com.tw/news/ait/202603195002.aspx"
-                    target="_blank"
-                    class="press-card-mini"
-                  >
-                    <div class="press-source">{t('about.press.cna')}</div>
-                    <h4 class="press-title">{t('about.press.cna.title')}</h4>
-                  </a>
-                  <a
-                    href="https://www.inside.com.tw/article/40877-taiwan-md"
-                    target="_blank"
-                    class="press-card-mini"
-                  >
-                    <div class="press-source">{t('about.press.inside')}</div>
-                    <h4 class="press-title">{t('about.press.inside.title')}</h4>
-                  </a>
-                  <a
-                    href="https://abmedia.io/taiwan-md-github-opensource"
-                    target="_blank"
-                    class="press-card-mini"
-                  >
-                    <div class="press-source">{t('about.press.abmedia')}</div>
-                    <h4 class="press-title">
-                      {t('about.press.abmedia.title')}
-                    </h4>
-                  </a>
-                  <a
-                    href="https://art.ltn.com.tw/article/breakingnews/5374934"
-                    target="_blank"
-                    class="press-card-mini"
-                  >
-                    <div class="press-source">{t('about.press.ltn')}</div>
-                    <h4 class="press-title">{t('about.press.ltn.title')}</h4>
-                  </a>
-                  <a
-                    href="https://www.ftnn.com.tw/news/531960"
-                    target="_blank"
-                    class="press-card-mini"
-                  >
-                    <div class="press-source">{t('about.press.ftnn')}</div>
-                    <h4 class="press-title">{t('about.press.ftnn.title')}</h4>
-                  </a>
-                </div>
-              </div>
-            </div>
-
-            <div class="timeline-item" id="tl-2026-03-19">
-              <div class="timeline-marker"></div>
-              <div class="timeline-date">
-                {t('about.timeline.2026-03-19.date')}
-              </div>
-              <div class="timeline-content">
-                <h3>{t('about.timeline.2026-03-19.title')}</h3>
-                <p set:html={t('about.timeline.2026-03-19.desc.html')} />
-              </div>
-            </div>
-
-            <div class="timeline-item" id="tl-2026-03-20">
-              <div class="timeline-marker"></div>
-              <div class="timeline-date">
-                {t('about.timeline.2026-03-20.date')}
-              </div>
-              <div class="timeline-content">
-                <h3>{t('about.timeline.2026-03-20.title')}</h3>
-                <p set:html={t('about.timeline.2026-03-20.desc.html')} />
-              </div>
-            </div>
-
-            <div class="timeline-item" id="tl-2026-03-22">
-              <div class="timeline-marker"></div>
-              <div class="timeline-date">
-                {t('about.timeline.2026-03-22.date')}
-              </div>
-              <div class="timeline-content">
-                <h3>{t('about.timeline.2026-03-22.title')}</h3>
-                <p set:html={t('about.timeline.2026-03-22.desc.html')} />
-              </div>
-            </div>
-
-            <div class="timeline-item" id="tl-2026-03-22b">
-              <div class="timeline-marker"></div>
-              <div class="timeline-date">
-                {t('about.timeline.2026-03-22b.date')}
-              </div>
-              <div class="timeline-content">
-                <h3>{t('about.timeline.2026-03-22b.title')}</h3>
-                <p set:html={t('about.timeline.2026-03-22b.desc.html')} />
-              </div>
-            </div>
-
-            <div class="timeline-item" id="tl-2026-03-24">
-              <div class="timeline-marker"></div>
-              <div class="timeline-date">
-                {t('about.timeline.2026-03-24.date')}
-              </div>
-              <div class="timeline-content">
-                <h3>{t('about.timeline.2026-03-24.title')}</h3>
-                <p set:html={t('about.timeline.2026-03-24.desc.html')} />
-              </div>
-            </div>
+            {
+              /* 3/17–3/24 的八則搬進展間「貳」（AboutRoom2），全文攤開；這裡不再重複 */
+            }
 
             <div class="timeline-item" id="tl-2026-03-27">
               <div class="timeline-marker"></div>
@@ -1546,9 +1434,13 @@ const today = new Date().toISOString().slice(0, 10);
         }
         d = d.parentElement ? d.parentElement.closest('details') : null;
       }
-      if (el.classList.contains('timeline-item')) {
+      // 舊時間軸的 .timeline-item 與展間裡的條目（[data-entry]）都標起來
+      if (
+        el.classList.contains('timeline-item') ||
+        el.hasAttribute('data-entry')
+      ) {
         page
-          .querySelectorAll('.timeline-item.is-target')
+          .querySelectorAll('.is-target')
           .forEach((x) => x.classList.remove('is-target'));
         el.classList.add('is-target');
       }

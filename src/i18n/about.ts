@@ -588,6 +588,47 @@ export const aboutUI = {
       "Covering {domains} domains, presenting Taiwan's three-dimensional complete picture",
     'about.why.cta.graph': '🔗 Knowledge Graph — Explore article connections',
     'about.why.cta.ssot': '📂 Browse SSOT Source Data ↗',
+    // ── 2026-11-19 About-page curation pilot: prologue + room II ──
+    'about.prologue.label': 'Prologue',
+    'about.prologue.day.label': 'Taiwan.md today',
+    'about.prologue.day.value': 'Day {n}',
+    'about.prologue.day.since':
+      'Counting from the first commit on 17 March 2026',
+    'about.prologue.stats.label': 'Taiwan.md now',
+    'about.prologue.stat.articles': 'articles in Chinese',
+    'about.prologue.stat.languages': 'languages',
+    'about.prologue.stat.writers': 'writers',
+    'about.room.label': 'Room {n}',
+    'about.room2.name': 'The first weekend',
+    'about.room2.lead':
+      'At 3:55 p.m. on 17 March the first commit went into the repo. The next afternoon a Facebook post went out, and for the seven days that followed, stars, articles and pull requests from strangers poured in together.',
+    'about.room2.exhibit.label': 'Three curves from the first eight days',
+    'about.room2.exhibit.note':
+      'All three charts share one time axis, 17 to 24 March. Each point is the figure just before midnight, Taipei time, on that day.',
+    'about.room2.chart.articles.title':
+      'Chinese articles: {start} to {end} in eight days',
+    'about.room2.chart.x': 'Date',
+    'about.room2.chart.articles.series': 'Articles',
+    'about.room2.chart.articles.source':
+      'Taiwan.md git history, the files as of just before midnight each day; data as of {asOf}',
+    'about.room2.chart.stars.title':
+      'GitHub stars: {first} on the first night, {third} by the third',
+    'about.room2.chart.stars.series': 'Stars',
+    'about.room2.chart.stars.source':
+      'GitHub stargazers, dated by when each star still in place today was given; removed stars are not counted; data as of {asOf}',
+    'about.room2.chart.authors.title':
+      'Git authors: {start} to {end} in eight days',
+    'about.room2.chart.authors.series': 'Authors',
+    'about.room2.chart.authors.source':
+      'Taiwan.md git history, each author name counted from the day it first appears, bot accounts excluded (git authors are not the same as people); data as of {asOf}',
+    'about.room2.press.title': 'Covered that week',
+    'about.room2.press.ltn': 'Liberty Times Arts',
+    'about.room2.press.cna': 'Central News Agency',
+    'about.room2.press.wiki': 'Chinese Wikipedia',
+    'about.room2.press.wiki.note': 'An entry started by the community',
+    'about.room2.band.label': 'Figures recorded on the timeline at the time',
+    'about.room2.band.stars': 'stars',
+    'about.room2.band.users': 'users',
   },
   ja: {
     // Meta
@@ -5677,6 +5718,45 @@ export const aboutUI = {
     'about.why.complete.desc': '涵蓋 {domains} 個領域，呈現台灣的立體完整面貌',
     'about.why.cta.graph': '🔗 知識圖譜 — 探索文章之間的連結',
     'about.why.cta.ssot': '📂 瀏覽 SSOT 原始資料 ↗',
+    // ── 2026-11-19 關於頁策展試作：序＋展間「貳」（reports/design-about-curation-2026-11-19.md）──
+    'about.prologue.label': '序',
+    'about.prologue.day.label': 'Taiwan.md 今天',
+    'about.prologue.day.value': '第 {n} 天',
+    'about.prologue.day.since': '從 2026 年 3 月 17 日的第一個 commit 算起',
+    'about.prologue.stats.label': '現在的 Taiwan.md',
+    'about.prologue.stat.articles': '篇中文文章',
+    'about.prologue.stat.languages': '種語言',
+    'about.prologue.stat.writers': '位寫作者',
+    'about.room.label': '第 {n} 展間',
+    'about.room2.name': '第一個週末',
+    'about.room2.lead':
+      '3 月 17 日下午 3 點 55 分，第一個 commit 進了 repo。隔天下午一則臉書貼文發出去，接下來的七天，星星、文章和陌生人的 PR 一起湧進來。',
+    'about.room2.exhibit.label': '開站頭八天的三條曲線',
+    'about.room2.exhibit.note':
+      '三張圖共用同一條時間軸：3 月 17 日到 3 月 24 日，每一點是那一天台北時間午夜前的數字。',
+    'about.room2.chart.articles.title':
+      '中文文章：八天從 {start} 篇長到 {end} 篇',
+    'about.room2.chart.x': '日期',
+    'about.room2.chart.articles.series': '中文篇數',
+    'about.room2.chart.articles.source':
+      'Taiwan.md 的 git 紀錄，每天午夜前那一版的檔案；資料取於 {asOf}',
+    'about.room2.chart.stars.title':
+      'GitHub 星數：第一晚 {first} 顆，第三晚 {third} 顆',
+    'about.room2.chart.stars.series': '星數',
+    'about.room2.chart.stars.source':
+      'GitHub 星標紀錄，依現在還在的星標按下的時間回推，取消過的不在內；資料取於 {asOf}',
+    'about.room2.chart.authors.title': 'git 作者：八天從 {start} 位到 {end} 位',
+    'about.room2.chart.authors.series': '作者',
+    'about.room2.chart.authors.source':
+      'Taiwan.md 的 git 紀錄，每個作者名第一次出現的日期累計，不含機器帳號（git 作者不等於人數）；資料取於 {asOf}',
+    'about.room2.press.title': '這一週的報導',
+    'about.room2.press.ltn': '自由時報藝文網',
+    'about.room2.press.cna': '中央社',
+    'about.room2.press.wiki': '中文維基百科',
+    'about.room2.press.wiki.note': '社群自發建立的條目',
+    'about.room2.band.label': '時間軸當時記下的數字',
+    'about.room2.band.stars': '顆星',
+    'about.room2.band.users': '位使用者',
   },
   fr: {
     'about.meta.title': 'À propos de Taiwan.md',

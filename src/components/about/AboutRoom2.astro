@@ -1,0 +1,757 @@
+---
+/**
+ * AboutRoom2 — 展間「貳　第一個週末」（3/17 — 3/24）。2026-11-19 關於頁策展試作。
+ *
+ * 主展品：開站頭八天的三條曲線（中文篇數、GitHub 星數、git 作者），
+ *         三張單序列 tw-line 並排、共用同一條時間軸。不用 tw-multiples：
+ *         它強制共用 y 值域，三條單位不同、量級差二十倍，第三條會貼平。
+ *         資料：src/data/about/growth.json（scripts/tools/about-growth-data.mjs 產，帶 asOf）。
+ * 報導牆：自由時報藝文網、中央社、中文維基條目（設計報告 §2，日期在這一間的三則）。
+ * 數字帶：3/18–3/22 四則里程碑標題裡的數字，點了捲到那一則。
+ * 條目：about.timeline 裡 3/17–3/24 的八則，全文攤開，文字原樣（跟舊的完整時間軸同一套 t() 呼叫）。
+ */
+import type { Lang } from '../../types';
+import { useTranslations } from '../../i18n/utils';
+import type { TranslationKey } from '../../i18n/utils';
+import { renderVizBlock } from '../../utils/article-render';
+import { useAboutStrings, formatNumber, isEnglishFallback } from './strings';
+import AboutRoom from './AboutRoom.astro';
+import AboutEntry from './AboutEntry.astro';
+import growth from '../../data/about/growth.json';
+import {
+  ROOM_NUMERALS,
+  ROOM2_PRESS,
+  ROOM2_BAND,
+  ROOM2_RANGE,
+} from '../../data/about/rooms';
+
+interface Props {
+  lang: Lang;
+}
+const { lang } = Astro.props;
+const t = useTranslations(lang);
+const tk = (k: string) => t(k as TranslationKey);
+const s = useAboutStrings(lang);
+const n = (v: number) => formatNumber(lang, v);
+const fallbackEn = isEnglishFallback(lang, 'about.room2.name');
+const GA = 'about_room_2';
+
+// ── 主展品的資料 ──
+type Day = {
+  date: string;
+  zhArticles: number | null;
+  gitAuthors: number | null;
+  stars: number | null;
+};
+const days = (growth.daily as Day[]).filter(
+  (d) => d.date >= ROOM2_RANGE.start && d.date <= ROOM2_RANGE.end,
+);
+const asOf = growth.asOf;
+
+// 日期刻度：月/日，數字一律用拉丁數字（跟圖上的值同一套）
+const md = (iso: string) => {
+  try {
+    return (
+      new Intl.DateTimeFormat(lang, {
+        month: 'numeric',
+        day: 'numeric',
+        timeZone: 'UTC',
+        numberingSystem: 'latn',
+      })
+        .format(new Date(`${iso}T00:00:00Z`))
+        // 阿拉伯文等語系會夾方向控制字元（RLM），放進 dir="ltr" 的格子會被重排成「183/」
+        .replace(/[\u200e\u200f\u061c]/g, '')
+    );
+  } catch {
+    return iso.slice(5).replace('-', '/');
+  }
+};
+const xName = s('about.room2.chart.x');
+
+/** 組一張單序列 tw-line；資料缺一天就整張不畫 */
+function lineChart(
+  field: 'zhArticles' | 'stars' | 'gitAuthors',
+  title: string,
+  series: string,
+  source: string,
+): string {
+  if (days.length < 4 || days.some((d) => typeof d[field] !== 'number'))
+    return '';
+  const clean = (x: string) => x.replace(/\|/g, '／');
+  // 數字跟後面的單位綁在一起（「563 顆」不會被拆到兩行）
+  const glue = (x: string) => x.replace(/(\d) (?=\S)/g, '$1\u00a0');
+  const body = [
+    glue(clean(title)),
+    `${clean(xName)} | ${clean(series)}`,
+    ...days.map((d) => `${md(d.date)} | ${d[field]}`),
+    `Source: ${clean(source)}`,
+  ].join('\n');
+  return renderVizBlock('tw-line', body, lang);
+}
+
+const v = (field: 'zhArticles' | 'stars' | 'gitAuthors', i: number) => {
+  const d = i < 0 ? days[days.length + i] : days[i];
+  return d && typeof d[field] === 'number' ? n(d[field] as number) : '';
+};
+const charts = [
+  {
+    id: 'articles',
+    html: lineChart(
+      'zhArticles',
+      s('about.room2.chart.articles.title', {
+        start: v('zhArticles', 0),
+        end: v('zhArticles', -1),
+      }),
+      s('about.room2.chart.articles.series'),
+      s('about.room2.chart.articles.source', { asOf }),
+    ),
+  },
+  {
+    id: 'stars',
+    html: lineChart(
+      'stars',
+      s('about.room2.chart.stars.title', {
+        first: v('stars', 0),
+        third: v('stars', 2),
+      }),
+      s('about.room2.chart.stars.series'),
+      s('about.room2.chart.stars.source', { asOf }),
+    ),
+  },
+  {
+    id: 'authors',
+    html: lineChart(
+      'gitAuthors',
+      s('about.room2.chart.authors.title', {
+        start: v('gitAuthors', 0),
+        end: v('gitAuthors', -1),
+      }),
+      s('about.room2.chart.authors.series'),
+      s('about.room2.chart.authors.source', { asOf }),
+    ),
+  },
+].filter((c) => c.html);
+
+// ── 門口 ──
+const isoDots = (iso: string) => iso.replace(/-/g, ' / ');
+const dates = `${isoDots(ROOM2_RANGE.start)} — ${ROOM2_RANGE.end.slice(5).replace('-', ' / ')}`;
+
+// ── 報導牆 ──
+const outlet: Record<string, string> = {
+  ltn: s('about.room2.press.ltn'),
+  cna: s('about.room2.press.cna'),
+  wiki: s('about.room2.press.wiki'),
+};
+const press = ROOM2_PRESS.map((p) => ({
+  ...p,
+  outletName: outlet[p.id],
+  dateText: md(p.date),
+  glossText: p.gloss && lang !== 'zh-TW' ? tk(p.gloss) : '',
+  note: p.id === 'wiki' ? s('about.room2.press.wiki.note') : '',
+}));
+
+// ── 數字帶 ──
+const bandUnit: Record<string, string> = {
+  stars: s('about.room2.band.stars'),
+  users: s('about.room2.band.users'),
+};
+const band = ROOM2_BAND.map((b) => ({
+  ...b,
+  dateText: md(b.date),
+  valueText: n(b.value),
+  unitText: bandUnit[b.unit],
+}));
+
+// ── 條目 ──
+const entry = (key: string) => ({
+  entryKey: key,
+  dateLabel: tk(`about.timeline.${key}.date`),
+  datetime: key.slice(0, 10),
+  title: tk(`about.timeline.${key}.title`),
+  gaSection: GA,
+});
+---
+
+<AboutRoom
+  id="room-2"
+  gaView={GA}
+  numeral={ROOM_NUMERALS[2]}
+  label={s('about.room.label', { n: 2 })}
+  name={s('about.room2.name')}
+  dates={dates}
+  lead={s('about.room2.lead')}
+  tone="paper-2"
+  fallbackEn={fallbackEn}
+>
+  {
+    charts.length > 0 && (
+      <figure
+        class="r2-exhibit"
+        slot="exhibit"
+        aria-label={s('about.room2.exhibit.label')}
+      >
+        <div class="r2-exhibit__grid" style={`--r2-cols:${charts.length}`}>
+          {charts.map((c) => (
+            <div
+              class="r2-exhibit__panel"
+              data-chart={c.id}
+              set:html={c.html}
+            />
+          ))}
+        </div>
+        <figcaption class="r2-exhibit__note" dir="auto">
+          {s('about.room2.exhibit.note')}
+        </figcaption>
+      </figure>
+    )
+  }
+
+  <div class="r2-press" slot="extra">
+    <h3 class="r2-press__title" dir="auto">{s('about.room2.press.title')}</h3>
+    <ul class="r2-press__list">
+      {
+        press.map((p) => (
+          <li class="r2-press__item">
+            <a
+              class="r2-press__card no-external-icon"
+              href={p.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              data-ga-section={GA}
+              data-ga-label={`press_${p.id}`}
+            >
+              <span class="r2-press__meta">
+                <span class="r2-press__outlet" dir="auto">
+                  {p.outletName}
+                </span>
+                <time class="r2-press__date" datetime={p.date} dir="ltr">
+                  {p.dateText}
+                </time>
+              </span>
+              <h4 class="r2-press__headline" lang="zh-TW" dir="auto">
+                {p.title}
+              </h4>
+              {p.glossText && (
+                <span class="r2-press__gloss" dir="auto">
+                  {p.glossText}
+                </span>
+              )}
+              {p.note && (
+                <span class="r2-press__gloss" dir="auto">
+                  {p.note}
+                </span>
+              )}
+              <span class="r2-press__go" aria-hidden="true">
+                ↗
+              </span>
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </div>
+
+  <nav class="r2-band" aria-label={s('about.room2.band.label')}>
+    <p class="r2-band__label" dir="auto">{s('about.room2.band.label')}</p>
+    <ol class="r2-band__list">
+      {
+        band.map((b) => (
+          <li class="r2-band__item">
+            <a
+              class="r2-band__link"
+              href={`#tl-${b.key}`}
+              data-ga-section={GA}
+              data-ga-label={`band_${b.key}`}
+            >
+              <time class="r2-band__date" datetime={b.date} dir="ltr">
+                {b.dateText}
+              </time>
+              <span class="r2-band__value" dir="ltr">
+                {b.valueText}
+              </span>
+              <span class="r2-band__unit" dir="auto">
+                {b.unitText}
+              </span>
+            </a>
+          </li>
+        ))
+      }
+    </ol>
+  </nav>
+
+  <div class="r2-entries">
+    <AboutEntry
+      {...entry('2026-03-17')}
+      related={{
+        href: '/about/緣起故事',
+        label: s('about.milestones.related.origin'),
+      }}
+    >
+      <p>{t('about.timeline.2026-03-17.p1')}</p>
+      <ul class="timeline-list">
+        <li>{t('about.timeline.2026-03-17.li1')}</li>
+        <li>{t('about.timeline.2026-03-17.li2')}</li>
+        <li>{t('about.timeline.2026-03-17.li3')}</li>
+        <li>{t('about.timeline.2026-03-17.li4')}</li>
+        <li>{t('about.timeline.2026-03-17.li5')}</li>
+      </ul>
+    </AboutEntry>
+
+    <AboutEntry {...entry('2026-03-18-1')}>
+      <p set:html={t('about.timeline.2026-03-18-1.p1.html')} />
+    </AboutEntry>
+
+    <AboutEntry {...entry('2026-03-18-2')}>
+      <p set:html={t('about.timeline.2026-03-18-2.desc.html')} />
+      {/* 原本就在這一則裡的五張報導小卡，連結與文字照舊 */}
+      <ul class="r2-entry-press">
+        <li>
+          <a
+            href="https://www.cna.com.tw/news/ait/202603195002.aspx"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="no-external-icon"
+          >
+            <span class="r2-entry-press__src" dir="auto"
+              >{t('about.press.cna')}</span
+            >
+            <span class="r2-entry-press__title" dir="auto"
+              >{t('about.press.cna.title')}</span
+            >
+          </a>
+        </li>
+        <li>
+          <a
+            href="https://www.inside.com.tw/article/40877-taiwan-md"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="no-external-icon"
+          >
+            <span class="r2-entry-press__src" dir="auto"
+              >{t('about.press.inside')}</span
+            >
+            <span class="r2-entry-press__title" dir="auto"
+              >{t('about.press.inside.title')}</span
+            >
+          </a>
+        </li>
+        <li>
+          <a
+            href="https://abmedia.io/taiwan-md-github-opensource"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="no-external-icon"
+          >
+            <span class="r2-entry-press__src" dir="auto"
+              >{t('about.press.abmedia')}</span
+            >
+            <span class="r2-entry-press__title" dir="auto"
+              >{t('about.press.abmedia.title')}</span
+            >
+          </a>
+        </li>
+        <li>
+          <a
+            href="https://art.ltn.com.tw/article/breakingnews/5374934"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="no-external-icon"
+          >
+            <span class="r2-entry-press__src" dir="auto"
+              >{t('about.press.ltn')}</span
+            >
+            <span class="r2-entry-press__title" dir="auto"
+              >{t('about.press.ltn.title')}</span
+            >
+          </a>
+        </li>
+        <li>
+          <a
+            href="https://www.ftnn.com.tw/news/531960"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="no-external-icon"
+          >
+            <span class="r2-entry-press__src" dir="auto"
+              >{t('about.press.ftnn')}</span
+            >
+            <span class="r2-entry-press__title" dir="auto"
+              >{t('about.press.ftnn.title')}</span
+            >
+          </a>
+        </li>
+      </ul>
+    </AboutEntry>
+
+    <AboutEntry {...entry('2026-03-19')}>
+      <p set:html={t('about.timeline.2026-03-19.desc.html')} />
+    </AboutEntry>
+
+    <AboutEntry {...entry('2026-03-20')}>
+      <p set:html={t('about.timeline.2026-03-20.desc.html')} />
+    </AboutEntry>
+
+    <AboutEntry {...entry('2026-03-22')}>
+      <p set:html={t('about.timeline.2026-03-22.desc.html')} />
+    </AboutEntry>
+
+    <AboutEntry {...entry('2026-03-22b')}>
+      <p set:html={t('about.timeline.2026-03-22b.desc.html')} />
+    </AboutEntry>
+
+    <AboutEntry {...entry('2026-03-24')}>
+      <p set:html={t('about.timeline.2026-03-24.desc.html')} />
+    </AboutEntry>
+  </div>
+</AboutRoom>
+
+<style>
+  /* ── 主展品：三張圖拼成一件，共用一個框、中間細線分隔 ── */
+  .r2-exhibit {
+    margin: 0;
+    padding: var(--space-6) 0 var(--space-4);
+    background: var(--color-surface);
+    border: 1px solid var(--ab-rule);
+    border-radius: var(--radius-chip);
+  }
+  .r2-exhibit__grid {
+    display: grid;
+    grid-template-columns: repeat(var(--r2-cols, 3), minmax(0, 1fr));
+  }
+  /* 三格等寬：每格同樣的內距，分隔線畫在格子的起始側，三張圖的比例尺一樣大 */
+  .r2-exhibit__panel {
+    padding-inline: var(--space-6);
+    border-inline-start: 1px solid var(--ab-rule);
+  }
+  .r2-exhibit__panel:first-child {
+    border-inline-start: 0;
+  }
+  /* 線與點改用這一頁的品牌色（文章模組預設是暖橘），跟展間編號同一個色 */
+  .r2-exhibit__panel :global(.tw-line-path) {
+    stroke: var(--ab-brand);
+  }
+  .r2-exhibit__panel :global(.tw-line-dot),
+  .r2-exhibit__panel :global(.tw-line-slab),
+  .r2-exhibit__panel :global(.tw-line-area) {
+    fill: var(--ab-brand);
+  }
+  .r2-exhibit__panel :global(.tw-line-area) {
+    opacity: 0.1;
+  }
+  .r2-exhibit__panel :global(.tw-line-slab) {
+    font-family: var(--font-interface);
+    font-size: 11px;
+  }
+  /* 文章模組自帶的卡片外框在這裡拿掉：三張圖是同一件展品的三格 */
+  .r2-exhibit__panel :global(.tw-line) {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    background: none;
+    box-shadow: none;
+  }
+  .r2-exhibit__panel :global(.tw-mod-title) {
+    min-height: 2.7em;
+    margin-bottom: var(--space-4);
+    font-family: var(--font-interface);
+    font-size: 1.0625rem;
+    font-weight: 700;
+    line-height: 1.4;
+    /* 中文標題只在標點與空白處換行，不把「第一晚」拆成兩行 */
+    word-break: keep-all;
+    overflow-wrap: anywhere;
+  }
+  .r2-exhibit__panel :global(.tw-line-plot) {
+    max-width: none;
+  }
+  .r2-exhibit__panel :global(.tw-mod-src) {
+    margin: var(--space-4) 0 0;
+    padding: 0;
+    font-size: 0.75rem;
+    line-height: 1.6;
+    color: var(--color-ink-soft);
+  }
+  /* 右到左頁面上退回英文的圖說：方向交給內容自己 */
+  :global([data-fallback-en]) .r2-exhibit__panel :global(.tw-mod-title),
+  :global([data-fallback-en]) .r2-exhibit__panel :global(.tw-mod-src),
+  :global([data-fallback-en]) .r2-exhibit__note,
+  :global([data-fallback-en]) .r2-press__gloss,
+  :global([data-fallback-en]) .r2-band__label,
+  :global([data-fallback-en]) .r2-press__title {
+    unicode-bidi: plaintext;
+  }
+  .r2-exhibit__note {
+    margin-block-start: var(--space-5);
+    padding: var(--space-4) var(--space-6) 0;
+    border-block-start: 1px solid var(--ab-rule);
+    font-family: var(--font-interface);
+    font-size: 0.875rem;
+    line-height: 1.6;
+    color: var(--color-ink-soft);
+  }
+
+  /* ── 報導牆 ── */
+  .r2-press {
+    display: grid;
+    grid-template-columns: var(--ab-rail) minmax(0, 1fr);
+    column-gap: var(--ab-rail-gap);
+  }
+  .r2-press__title {
+    margin: 0;
+    padding-block-start: 0.2em;
+    font-family: var(--font-interface);
+    font-size: 0.875rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    line-height: 1.5;
+    color: var(--color-ink-soft);
+  }
+  .r2-press__list {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: var(--space-4);
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  .r2-press__item {
+    display: flex;
+  }
+  .r2-press__card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 0.6em;
+    inline-size: 100%;
+    padding: var(--space-4) var(--space-4) var(--space-5);
+    background: var(--color-surface);
+    border: 1px solid var(--ab-rule);
+    border-block-start: 2px solid var(--ab-brand);
+    border-radius: 0 0 var(--radius-chip) var(--radius-chip);
+    color: var(--color-ink);
+    text-decoration: none;
+    transition:
+      border-color 0.2s ease,
+      box-shadow 0.2s ease;
+  }
+  .r2-press__card:hover {
+    border-color: var(--ab-rule-strong);
+    border-block-start-color: var(--ab-brand);
+    box-shadow: var(--shadow-soft);
+  }
+  .r2-press__card:focus-visible {
+    outline: 2px solid var(--ab-brand);
+    outline-offset: 3px;
+  }
+  .r2-press__meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25em 0.8em;
+    align-items: baseline;
+    padding-inline-end: 1.5em;
+    font-family: var(--font-interface);
+    font-size: 0.8125rem;
+    font-weight: 600;
+    color: var(--ab-brand);
+  }
+  .r2-press__date {
+    font-weight: 500;
+    font-variant-numeric: tabular-nums;
+    color: var(--color-ink-soft);
+    unicode-bidi: isolate;
+  }
+  .r2-press__headline {
+    margin: 0;
+    font-family: var(--font-reading);
+    font-size: 1.0625rem;
+    font-weight: 600;
+    line-height: 1.6;
+    letter-spacing: 0;
+    color: var(--color-ink);
+  }
+  .r2-press__gloss {
+    font-family: var(--font-interface);
+    font-size: 0.875rem;
+    line-height: 1.55;
+    color: var(--color-ink-soft);
+  }
+  .r2-press__go {
+    position: absolute;
+    inset-block-start: var(--space-4);
+    inset-inline-end: var(--space-4);
+    font-family: var(--font-interface);
+    font-size: 0.875rem;
+    color: var(--color-ink-soft);
+  }
+  :global([dir='rtl']) .r2-press__go {
+    transform: scaleX(-1);
+  }
+
+  /* ── 數字帶 ── */
+  .r2-band {
+    display: grid;
+    grid-template-columns: var(--ab-rail) minmax(0, 1fr);
+    column-gap: var(--ab-rail-gap);
+    margin-block-end: var(--space-5);
+  }
+  .r2-band__label {
+    margin: 0;
+    padding-block-start: 0.2em;
+    font-family: var(--font-interface);
+    font-size: 0.875rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    line-height: 1.5;
+    color: var(--color-ink-soft);
+  }
+  .r2-band__list {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    max-width: 48rem;
+  }
+  .r2-band__item {
+    border-inline-start: 1px solid var(--ab-rule-strong);
+  }
+  .r2-band__link {
+    display: grid;
+    gap: 0.15em;
+    padding: 0.1em var(--space-4) 0.2em;
+    border: 0;
+    color: var(--color-ink);
+    text-decoration: none;
+  }
+  .r2-band__link:hover .r2-band__value {
+    color: var(--ab-brand);
+  }
+  .r2-band__link:focus-visible {
+    outline: 2px solid var(--ab-brand);
+    outline-offset: 2px;
+  }
+  .r2-band__date {
+    font-family: var(--font-interface);
+    font-size: 0.8125rem;
+    font-variant-numeric: tabular-nums;
+    color: var(--color-ink-soft);
+    unicode-bidi: isolate;
+  }
+  .r2-band__value {
+    font-family: var(--font-interface);
+    font-size: clamp(1.5rem, 2.4vw, 2rem);
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+    line-height: 1.15;
+    unicode-bidi: isolate;
+    transition: color 0.2s ease;
+  }
+  .r2-band__unit {
+    font-family: var(--font-interface);
+    font-size: 0.875rem;
+    color: var(--color-ink-soft);
+  }
+
+  /* ── 3/18 那一則原本的五張報導小卡 ── */
+  /* ul.r2-entry-press：比條目內文的 ul 規則多一層，蓋掉它的縮排 */
+  ul.r2-entry-press {
+    display: grid;
+    gap: 0;
+    margin: var(--space-4) 0 0;
+    padding: 0;
+    list-style: none;
+    border-block-start: 1px solid var(--ab-rule);
+  }
+  ul.r2-entry-press li {
+    margin: 0;
+    border-block-end: 1px solid var(--ab-rule);
+  }
+  .r2-entry-press a {
+    display: grid;
+    grid-template-columns: 7.5em minmax(0, 1fr);
+    gap: 0.25em var(--space-4);
+    padding-block: 0.65em;
+    font-family: var(--font-interface);
+    font-size: 0.9375rem;
+    line-height: 1.55;
+    border: 0;
+    color: var(--color-ink);
+    text-decoration: none;
+  }
+  .r2-entry-press a:hover .r2-entry-press__title {
+    color: var(--ab-brand);
+  }
+  .r2-entry-press__src {
+    font-size: 0.8125rem;
+    font-weight: 600;
+    color: var(--color-ink-soft);
+  }
+
+  @media (max-width: 63.99rem) {
+    .r2-exhibit__grid {
+      grid-template-columns: minmax(0, 1fr);
+    }
+    .r2-exhibit {
+      padding-inline: var(--space-5);
+    }
+    .r2-exhibit__panel {
+      padding-inline: 0;
+      border-inline-start: 0;
+    }
+    .r2-exhibit__panel + .r2-exhibit__panel {
+      margin-block-start: var(--space-5);
+      padding-block-start: var(--space-5);
+      border-block-start: 1px solid var(--ab-rule);
+    }
+    .r2-exhibit__panel :global(.tw-mod-title) {
+      min-height: 0;
+    }
+    /* 一欄時圖會被拉得很寬，字也跟著脹；回到文章模組的 520px 上限 */
+    .r2-exhibit__panel :global(.tw-line-plot) {
+      max-width: 520px;
+      margin-inline: 0;
+    }
+    .r2-press__list {
+      grid-template-columns: minmax(0, 1fr);
+    }
+  }
+
+  @media (max-width: 47.99rem) {
+    /* 手機：拿掉展品外框，讓圖吃滿寬度；軸標字級放大到實際約 11px */
+    .r2-exhibit {
+      padding: 0;
+      background: none;
+      border: 0;
+      border-radius: 0;
+    }
+    .r2-exhibit__note {
+      padding-inline: 0;
+    }
+    .r2-exhibit__panel :global(.tw-line-xlab),
+    .r2-exhibit__panel :global(.tw-line-ylab),
+    .r2-exhibit__panel :global(.tw-line-slab) {
+      font-size: 13px;
+    }
+    .r2-press,
+    .r2-band {
+      grid-template-columns: minmax(0, 1fr);
+      row-gap: var(--space-4);
+    }
+    .r2-band__list {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      row-gap: var(--space-4);
+    }
+    .r2-entry-press a {
+      grid-template-columns: minmax(0, 1fr);
+      gap: 0;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .r2-press__card,
+    .r2-band__value {
+      transition: none;
+    }
+  }
+</style>

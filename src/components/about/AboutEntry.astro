@@ -1,0 +1,187 @@
+---
+/**
+ * AboutEntry — 展間裡的一則時間軸條目（2026-11-19 關於頁策展試作）。
+ *
+ * 每一則全文直接攤開，不收合。日期在起始側（RTL 時在右邊），內容在另一側；
+ * 窄螢幕日期移到內容上方。條目的文字由呼叫端照原樣塞進 slot（about.timeline.*，
+ * 一個字都不改），這個元件只負責版面。
+ *
+ * id 仍是 tl-<key>：里程碑卡與外部連結的錨點（/about/#tl-2026-03-17）不會斷。
+ */
+interface Props {
+  /** about.timeline.<key>.* 的 key */
+  entryKey: string;
+  /** 顯示用的日期字串（about.timeline.<key>.date，原文） */
+  dateLabel: string;
+  /** ISO 日期，給 <time datetime> */
+  datetime?: string;
+  title: string;
+  /** 「關於」分類底下對應的長文（原本掛在里程碑卡上的那個連結） */
+  related?: { href: string; label: string };
+  gaSection: string;
+}
+const { entryKey, dateLabel, datetime, title, related, gaSection } =
+  Astro.props;
+---
+
+<article class="ab-entry" id={`tl-${entryKey}`} data-entry>
+  <p class="ab-entry__date" data-entry-date>
+    <time datetime={datetime} dir="auto">{dateLabel}</time>
+  </p>
+  <div class="ab-entry__body" data-entry-body>
+    <h3 class="ab-entry__title" dir="auto">{title}</h3>
+    <div class="ab-entry__text">
+      <slot />
+    </div>
+    {
+      related && (
+        <div class="ab-entry__related">
+          <a
+            href={related.href}
+            data-ga-section={gaSection}
+            data-ga-label={`related_${entryKey}`}
+          >
+            <span dir="auto">{related.label}</span>
+            <span class="ab-entry__arrow" aria-hidden="true">
+              →
+            </span>
+          </a>
+        </div>
+      )
+    }
+  </div>
+</article>
+
+<style>
+  .ab-entry {
+    display: grid;
+    grid-template-columns: var(--ab-rail) minmax(0, 1fr);
+    column-gap: var(--ab-rail-gap);
+    padding-block: var(--space-5);
+    border-block-start: 1px solid var(--ab-rule);
+    scroll-margin-top: var(--space-8);
+  }
+  .ab-entry:last-child {
+    border-block-end: 1px solid var(--ab-rule);
+  }
+
+  .ab-entry__date {
+    margin: 0;
+    padding-block-start: 0.3em;
+    font-family: var(--font-interface);
+    font-size: 0.875rem;
+    font-weight: 500;
+    font-variant-numeric: tabular-nums;
+    letter-spacing: 0.04em;
+    line-height: 1.5;
+    color: var(--color-ink-soft);
+  }
+  .ab-entry__date time {
+    unicode-bidi: isolate;
+  }
+
+  .ab-entry__body {
+    max-width: 36em;
+  }
+  .ab-entry__title {
+    margin: 0 0 0.6em;
+    font-family: var(--font-interface);
+    font-size: 1.1875rem;
+    font-weight: 700;
+    line-height: 1.5;
+    letter-spacing: 0;
+    color: var(--color-ink);
+    text-wrap: pretty;
+  }
+
+  .ab-entry__text {
+    font-family: var(--font-reading);
+    font-size: 1.0625rem;
+    line-height: 1.85;
+    color: var(--color-ink);
+  }
+  .ab-entry__text :global(p) {
+    margin: 0 0 0.75em;
+  }
+  .ab-entry__text :global(p:last-child),
+  .ab-entry__text :global(ul:last-child) {
+    margin-block-end: 0;
+  }
+  .ab-entry__text :global(strong) {
+    font-weight: 700;
+  }
+  .ab-entry__text :global(em) {
+    font-style: normal;
+    font-family: var(--font-quote);
+  }
+  .ab-entry__text :global(ul) {
+    margin: 0 0 0.75em;
+    padding-inline-start: 1.15em;
+  }
+  .ab-entry__text :global(li) {
+    margin-block: 0.15em;
+  }
+  .ab-entry__text :global(li::marker) {
+    color: var(--ab-brand);
+  }
+  /* 內文連結沿用全站的底線樣式（global.css），只換成品牌色 */
+  .ab-entry__text :global(a) {
+    color: var(--ab-brand);
+    border-bottom-color: color-mix(in srgb, var(--ab-brand) 40%, transparent);
+  }
+  .ab-entry__text :global(a:hover) {
+    color: var(--ab-brand);
+    border-bottom-color: currentColor;
+  }
+
+  .ab-entry__related {
+    margin-block-start: var(--space-4);
+    font-family: var(--font-interface);
+    font-size: 0.9375rem;
+    font-weight: 600;
+  }
+  .ab-entry__related a {
+    border: 0;
+    display: inline-flex;
+    gap: 0.4em;
+    align-items: baseline;
+    color: var(--ab-brand);
+    text-decoration: none;
+  }
+  .ab-entry__related a:hover {
+    text-decoration: underline;
+    text-underline-offset: 0.2em;
+  }
+  :global([dir='rtl']) .ab-entry__arrow {
+    display: inline-block;
+    transform: scaleX(-1);
+  }
+
+  /* 從錨點連過來的那一則：起始側一條品牌色細線，不位移版面 */
+  .ab-entry:global(.is-target) {
+    box-shadow: inset 3px 0 0 var(--ab-brand);
+  }
+  :global([dir='rtl']) .ab-entry:global(.is-target) {
+    box-shadow: inset -3px 0 0 var(--ab-brand);
+  }
+  .ab-entry:global(.is-target) .ab-entry__date {
+    padding-inline-start: var(--space-4);
+  }
+
+  @media (max-width: 47.99rem) {
+    .ab-entry {
+      grid-template-columns: minmax(0, 1fr);
+      row-gap: 0.35em;
+      padding-block: var(--space-4);
+    }
+    .ab-entry__date {
+      padding-block-start: 0;
+    }
+    .ab-entry__title {
+      font-size: 1.125rem;
+    }
+    .ab-entry__text {
+      font-size: 1rem;
+    }
+  }
+</style>

@@ -1,0 +1,227 @@
+---
+/**
+ * AboutRoom — 關於頁的一間展間（2026-11-19 關於頁策展試作，方案 A 的共用版型）。
+ *
+ * 一間展間由上到下：
+ *   1. 門口：展間編號（襯線大字）、「第 N 展間・日期區間」、展間名（h2）、一句導語
+ *   2. 主展品（slot="exhibit"）：寬容器，整間只有這一件是大的
+ *   3. 附屬展品（slot="extra"）：報導牆之類，退後一階
+ *   4. 條目（預設 slot）：這段時間的時間軸條目，全部攤開（AboutEntry）
+ *
+ * 版面兩欄共用同一條「軌」：編號、條目日期都落在起始側那一欄（--ab-rail），
+ * 名稱、導語、條目內文落在另一欄，所以整間的字從上到下對齊在同一條線上。
+ * 主展品橫跨兩欄。窄螢幕收成一欄。
+ *
+ * 底色三檔（data-tone）：paper（--color-bg）／paper-2（--color-bg-soft）／dark。
+ * tokens.css 還沒有識別 v2 的 paper 系列，先對應到現有的兩個底色 token。
+ */
+interface Props {
+  id: string;
+  /** data-ga-view 的值，例如 about_room_2 */
+  gaView: string;
+  /** 展間編號字形（壹貳參…），裝飾用 */
+  numeral: string;
+  /** 「第 2 展間」這類可讀的編號 */
+  label: string;
+  name: string;
+  /** 顯示用日期區間 */
+  dates: string;
+  lead: string;
+  tone?: 'paper' | 'paper-2' | 'dark';
+  /** 英文退回時標記（阿拉伯文頁要讓英文句子自己決定方向） */
+  fallbackEn?: boolean;
+}
+const {
+  id,
+  gaView,
+  numeral,
+  label,
+  name,
+  dates,
+  lead,
+  tone = 'paper',
+  fallbackEn = false,
+} = Astro.props;
+const headingId = `${id}-title`;
+---
+
+<section
+  id={id}
+  class="ab-room"
+  data-tone={tone}
+  data-ga-view={gaView}
+  aria-labelledby={headingId}
+  data-fallback-en={fallbackEn ? '' : undefined}
+>
+  <div class="ab-room__inner">
+    <header class="ab-room__door">
+      <p class="ab-room__numeral" aria-hidden="true">{numeral}</p>
+      <div class="ab-room__label-block">
+        <p class="ab-room__meta">
+          <span dir="auto">{label}</span>
+          <span class="ab-room__sep" aria-hidden="true"></span>
+          <span class="ab-room__dates" dir="ltr">{dates}</span>
+        </p>
+        <h2 class="ab-room__name" id={headingId} dir="auto">{name}</h2>
+        <p class="ab-room__lead" dir="auto">{lead}</p>
+      </div>
+    </header>
+
+    {
+      Astro.slots.has('exhibit') && (
+        <div class="ab-room__exhibit">
+          <slot name="exhibit" />
+        </div>
+      )
+    }
+
+    {
+      Astro.slots.has('extra') && (
+        <div class="ab-room__extra">
+          <slot name="extra" />
+        </div>
+      )
+    }
+
+    <div class="ab-room__entries">
+      <slot />
+    </div>
+  </div>
+</section>
+
+<style>
+  .ab-room {
+    /* 軌：起始側那一欄（編號、條目日期） */
+    --ab-rail: 12rem;
+    --ab-rail-gap: var(--space-6);
+    --ab-room-bg: var(--color-bg);
+    --ab-section-bg: var(--ab-room-bg);
+    background: var(--ab-room-bg);
+    color: var(--color-ink);
+    padding-block: clamp(var(--space-8), 9vw, calc(var(--space-8) * 2));
+  }
+  .ab-room[data-tone='paper-2'] {
+    --ab-room-bg: var(--color-bg-soft);
+  }
+  /* 深色展間（巴別塔那一間用）。淺色模式下借頁尾的深色面；字色翻成淺底色。
+     本輪試作沒有用到這一檔，尚未逐一驗過對比。 */
+  .ab-room[data-tone='dark'] {
+    --ab-room-bg: var(--surface-footer);
+    --color-ink: var(--color-bg);
+    --color-ink-soft: color-mix(in srgb, var(--color-bg) 72%, transparent);
+    --ab-rule: color-mix(in srgb, var(--color-bg) 16%, transparent);
+    --ab-brand: color-mix(in srgb, var(--cat-geography) 40%, var(--color-bg));
+  }
+  :global(:root[data-theme='dark']) .ab-room[data-tone='dark'] {
+    --ab-room-bg: var(--color-bg);
+  }
+
+  .ab-room__inner {
+    max-width: var(--container-article);
+    margin-inline: auto;
+    padding-inline: var(--space-page-x);
+  }
+
+  /* ── 門口 ── */
+  .ab-room__door {
+    display: grid;
+    grid-template-columns: var(--ab-rail) minmax(0, 1fr);
+    column-gap: var(--ab-rail-gap);
+    align-items: start;
+  }
+  .ab-room__numeral {
+    margin: 0;
+    font-family: var(--font-title);
+    font-size: clamp(4.5rem, 8vw, 7.5rem);
+    font-weight: 600;
+    line-height: 0.95;
+    color: var(--ab-brand);
+  }
+  .ab-room__label-block {
+    padding-block-start: 0.6rem;
+  }
+  .ab-room__meta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.5em 0.9em;
+    margin: 0 0 var(--space-4);
+    font-family: var(--font-interface);
+    font-size: 0.875rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    color: var(--color-ink-soft);
+  }
+  .ab-room__sep {
+    inline-size: 2.5rem;
+    block-size: 1px;
+    background: var(--ab-rule-strong);
+  }
+  .ab-room__dates {
+    font-variant-numeric: tabular-nums;
+    unicode-bidi: isolate;
+  }
+  .ab-room__name {
+    margin: 0 0 var(--space-4);
+    font-family: var(--font-title);
+    font-size: clamp(2.25rem, 4.4vw, 3.5rem);
+    font-weight: 700;
+    line-height: 1.15;
+    letter-spacing: 0;
+    color: var(--color-ink);
+    text-wrap: balance;
+  }
+  .ab-room__lead {
+    max-width: 30em;
+    margin: 0;
+    font-family: var(--font-reading);
+    font-size: clamp(1.125rem, 1.6vw, 1.3125rem);
+    line-height: 1.85;
+    color: var(--color-ink);
+    text-wrap: pretty;
+  }
+
+  /* ── 主展品：整間唯一的大東西 ── */
+  .ab-room__exhibit {
+    margin-block: var(--space-8) 0;
+  }
+  .ab-room__extra {
+    margin-block: var(--space-8) 0;
+  }
+  .ab-room__entries {
+    margin-block-start: var(--space-8);
+  }
+
+  /* 右到左頁面上退回英文的句子：方向交給內容自己 */
+  .ab-room[data-fallback-en] .ab-room__name,
+  .ab-room[data-fallback-en] .ab-room__lead {
+    unicode-bidi: plaintext;
+  }
+
+  @media (max-width: 47.99rem) {
+    .ab-room__door {
+      grid-template-columns: minmax(0, 1fr);
+    }
+    .ab-room__numeral {
+      font-size: 4rem;
+      margin-block-end: var(--space-4);
+    }
+    .ab-room__label-block {
+      padding-block-start: 0;
+    }
+    .ab-room__exhibit,
+    .ab-room__extra,
+    .ab-room__entries {
+      margin-block-start: var(--space-7);
+    }
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    /* 沒有進場動畫：展間內容一律直接可見。文章模組的捲動進場（0.55 秒）在這裡關掉，
+       關於頁的動態上限是 400 毫秒，寧可不動。 */
+    .ab-room :global(.tw-line),
+    .ab-room :global(.tw-multiples) {
+      animation: none;
+    }
+  }
+</style>
