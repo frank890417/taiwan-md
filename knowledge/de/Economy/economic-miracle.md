@@ -25,10 +25,10 @@ imageCredit: '行政院珍貴史料展示'
 imageLicense: '政府史料典藏（editorial commentary use）'
 imageSource: 'https://history.ey.gov.tw/en/Items/premier-yen-chia-kan-hosts-the-inauguration-of-the-kaohsiung-export-processing-zone/'
 translatedFrom: 'Economy/經濟奇蹟.md'
-sourceCommitSha: '9c5ad569a'
-sourceContentHash: 'sha256:97768e7e71587490'
-sourceBodyHash: 'sha256:411e4d6f8779c88a'
-translatedAt: '2026-09-12T09:12:49+08:00'
+sourceCommitSha: 'f024e87e7'
+sourceContentHash: 'sha256:a30286fdcb0b3c86'
+sourceBodyHash: 'sha256:d322b1b9c5e6743f'
+translatedAt: '2026-11-19T10:40:59.934958+00:00'
 ---
 
 # Wirtschaftswunder: Von der Süßkartoffel bis zu TSMC – die Geschichte, wie 20 Millionen Menschen aufstegen
@@ -318,29 +318,30 @@ Die Erfahrungen des taiwanesischen Wirtschaftswunders sind auch heute noch relev
 
 ## Vom Wunder zur Transformation: Die Herausforderungen der Zukunft
 
-Taiwan im Jahr 2024 braucht kein Wirtschaftswunder mehr. Das Bruttosozialprodukt pro Kopf beträgt mehr als 30.000 US-Dollar und ist ein echtes Industrieland. Aber neue Herausforderungen treten auf:
+Das Taiwan des Jahres 2024 benötigt kein „Wirtschaftswunder“ mehr. Mit einem Pro-Kopf-BIP von über 30.000 US-Dollar ist es zweifellos ein entwickeltes Land. Doch neue Herausforderungen zeichnen sich ab:
 
 ### Druck zur industriellen Transformation
 
-Die Manufaktur wird nach außen verlagert, die Produktivität im Dienstleistungssektor ist niedrig, und das Gehaltswachstum hat sich verlangsamt – Taiwans Wirtschaft braucht neue Wachstumstreiber. Die Halbleiterindustrie ist zwar stark, aber kann die gesamte Wirtschaft nicht allein tragen. Taiwan muss mehr „unsichtbare Championen“ hervorbringen.
+Abwanderung der verarbeitenden Industrie, niedrige Produktivität im Dienstleistungssektor und stagnierende Lohnzuwächse – Taiwans Wirtschaft benötigt neue Wachstumsmotoren. Obwohl die Halbleiterindustrie mächtig ist, kann sie nicht die gesamte Wirtschaft allein tragen. Taiwan muss mehr Unternehmen fördern, die als „Hidden Champions“ agieren.
 
-### Die Herausforderung der Alterung Bevölkerung
+### Herausforderung durch die Überalterung der Gesellschaft
 
-Geringe Geburtenraten und Alterung der Bevölkerung führen zu Arbeitskräftemangel. Die frühere Entwicklungsstrategie der „Massenarbeit“ muss sich ändern, Automatisierung, künstliche Intelligenz und der Import internationaler Arbeitskräfte sind unvermeidbare Themen.
+Die niedrige Geburtenrate und die alternde Bevölkerung führen in Taiwan zu einem Arbeitskräftemangel. Das bisherige Entwicklungsmodell, das auf einer „Strategie der schieren Masse“ basierte, muss sich ändern; Automatisierung, künstliche Intelligenz und die Anwerbung internationaler Talente sind Themen, denen man sich stellen muss.
 
-### Anforderungen an nachhaltige Entwicklung
+### Anforderungen an eine nachhaltige Entwicklung
 
-Der Klimawandel zwingt Taiwan, das Entwicklungsmodell neu zu denken. Wie sollen energieintensive Industrien transformiert werden? Wie kann erneuerbare Energie entwickelt werden? Wie kann eine zirkuläre Wirtschaft aufgebaut werden? Dies sind die Wirtschaftsthemen der neuen Ära.
+Der Klimawandel zwingt Taiwan dazu, sein Entwicklungsmodell neu zu überdenken. Wie können energieintensive Industrien transformiert werden? Wie lässt sich grüne Energie entwickeln? Wie kann eine Kreislaufwirtschaft aufgebaut werden? Dies sind die wirtschaftlichen Themen einer neuen Ära.
 
-Taiwans Geschichte des Wirtschaftswunders ist noch nicht zu Ende. Von der Landreform bis zu TSMC ist nur das erste Kapitel, die Geschichte, wie Taiwan von der Armut zum Wohlstand kam. Das nächste Kapitel wird die Geschichte von Wohlergehen, von quantitativer zu qualitativer Entwicklung, vom Wirtschaftswunder zur sozialen Entwicklung erzählen.
+Die Geschichte des taiwanesischen Wirtschaftswunders ist noch nicht zu Ende. Von der Landreform bis hin zu TSMC war das erste Kapitel – es erzählte den Weg vom Elend zum Wohlstand. Die nächsten Kapitel müssen den Übergang vom Wohlstand zum Glück, von quantitativem Wachstum zu qualitativer Steigerung und vom Wirtschaftswunder zum gesellschaftlichen Fortschritt beschreiben.
 
-Die Autoren dieser Geschichte sind immer noch jeder Einzelne unter uns in Taiwan.
+Die Autoren dieser Geschichte sind nach wie vor alle Menschen in Taiwan.
 
 **Weiterführende Literatur**:
 
-- [Receipt: Das Papier, das 1951 alle Taiwanesen zu Steuerprüfern machte](/de/economy/taiwan-uniform-invoice) — Die einheitliche Rechnung war eine wichtige finanzielle Infrastruktur des Wirtschaftswunders, und die Umsatzsteuer stieg im ersten Jahr um 75%
-- [Zehn große Projekte: Das riskante Investment von einer Milliarde US-Dollar Devisenreserven](/de/history/ten-major-construction-projects) — Der vollständige Kontext, die Debatten und die politischen Erzählungen der mutigen Investition der 1970er
-- [Politik über Parteigrenzen hinweg](/de/history/bipartisan-good-policy) — Ist die Aussage „Landreform hat Taiwans Wirtschaftswunder angetrieben“ wirklich haltbar?
+- [Sonderbericht über die taiwanische Industrie](/industry/) — Zeichnet anhand offizieller Statistiken die Industriestruktur nach: 70 Jahre Exporte und BIP, Wissenschaftsparke, Fabriken in den einzelnen Landkreisen, die zehn wertvollsten Unternehmen der Geschichte sowie die verschiedenen Positionen zu sechs öffentlichen Debatten.
+- [Die Quittung: Das Papier von 1951, das die gesamte Bevölkerung zu Steuerprüfern machte](/de/economy/taiwan-uniform-invoice) — Die einheitliche Rechnung (Uniform Invoice) war eine entscheidende fiskalische Infrastruktur parallel zum Wirtschaftswunder; im ersten Jahr nach ihrer Einführung 1951 stiegen die Umsatzsteuer-Einnahmen um 75 %.
+- [Die zehn großen Bauprojekte: Eine Wette über 200 Milliarden auf einem Fundament von einer Milliarde US-Dollar an Devisen](/de/history/ten-major-construction-projects) — Der vollständige Kontext, die Kontroversen und die politischen Narrative jener riskanten Wette in den 1970er Jahren.
+- [Parteiubergreifende gute Politik](/de/history/bipartisan-good-policy) — Ob die Landreform tatsächlich „das taiwanische Wirtschaftswunder vorangetrieben hat“ – diese weit verbreitete Behauptung hält einer genaueren Prüfung nicht stand.
 
 ## Bildnachweise
 
