@@ -32,11 +32,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-06-04'
     url: 'https://x.com/taiwandotmd/status/2062546721742483679'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/國家太空中心.md'
-sourceCommitSha: 'faa905d7'
-sourceContentHash: 'sha256:27a79bac11713a70'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:451bca716e820c75'
 sourceBodyHash: 'sha256:e55206c67a0d4344'
-translatedAt: '2026-10-08T16:48:28.196036+00:00'
+translatedAt: '2026-11-19T08:43:50.015635+00:00'
 ---
 
 Năm 2016, trong video của Năm Ngày "Cứng Đầu", có một người đàn ông trung niên duy trì tên lửa trong một khu đất hoang vu. Anh ấy bị coi là một kẻ điên mộng tưởng, rồi cuối cùng bay lên trời với một tên lửa tự chế. Lần đầu tiên hầu hết người Đài Loan biết về Ngô Tông Tín (吳宗信), không phải thông qua bất kỳ cơ quan chính phủ nào, mà thông qua video này: ông lão tên lửa[^1].
@@ -270,11 +272,13 @@ Người đàn ông bị coi là trò cười ở khu đất hoang vu, muốn r�
 
 Tề Bạch Lâm từ trực thăng nhìn thấy Đài Loan, năm gặp nạn chưa xem xong. Tám năm sau, một vệ tiến mang tên anh ấy thay anh ấy từ độ cao 561 ki lô mét xem hết hòn đảo này — cũng vô tình xem thành những gì thực sự của tổ chức ba mươi năm nói tôi xem thời tiết: một chỗ thay một quốc gia chưa được công nhận, chứng minh "tự chủ" một vệ tiến một vệ tiến ra nơi: một chỗ, hàng tiếp, nó muốn đi xem mặt trăng.
 
-## Đọc Thêm
+## Đọc thêm
 
-- [Sự Phát Triển Ngành Công Nghiệp Vũ Trụ Đài Loan](/technology/sự-phát-triển-ngành-công-nghiệp-vũ-trụ-đài-loan) — Bài viết này viết về tổ chức lớn lên như thế nào, bài kia viết về chuỗi cung cấp ở sau: công ty nào sản xuất linh kiện vệ tinh, bán dẫn cắt vào vũ trụ như thế nào, hệ sinh thái khởi nghiệp như thế nào.
-- [Ngành Công Nghiệp Bán Dẫn](/technology/ngành-công-nghiệp-bán-dẫn) — Nền tảng công nghiệp của "tự chủ" vũ trụ của Đài Loan, phần lớn xây dựng trên khả năng bán dẫn và chế tạo chính xác sẵn có của hòn đảo này.
-- [Đài Bắc Trung Hoa](/society/đài-bắc-trung-hoa) — Dòng "đặt Đài Loan trở lại tên", trên sân vận động có một mặt khác.
+- [Phát triển ngành công nghiệp vũ trụ Đài Loan](/vi/technology/taiwan-space-industry-development) — Bài này viết về cách chính cơ quan đó lớn lên, bài kia viết về chuỗi cung ứng phía sau nó: những nhà máy nào chế tạo linh kiện vệ tinh, bán dẫn như thế nào cắt nhập vào không gian, hệ sinh thái khởi nghiệp hình thành như thế nào.
+- [Ngành công nghiệp bán dẫn](/vi/technology/taiwan-semiconductor-industry) — Cơ sở công nghiệp cho sự «tự chủ» về không gian của Đài Loan, phần lớn xây dựng trên khả năng bán dẫn và chế tạo chính xác đã có của đảo này.
+- [Đài Bắc Trung Hoa](/vi/society/chinese-taipei) — Dòng chủ quyền «đưa Taiwan trở lại tên gọi», mặt khác của nó trên sân vận động.
+- [Lâm Kì Nhi](/vi/people/lin-chi-er-astronaut) — Hồ sơ nhân vật cũng đang làm việc cho Đài Loan tại hiện trường khoa học.
+- [Tề Bách Lâm](/vi/people/chi-po-lin) — Vệ tinh đầu tiên của Phúc Vệ Tám được đặt tên theo ông: cựu công vụ chụp ảnh từ không của Cục Công nghiệp Quốc gia, đạo diễn 《Nhìn thấy Đài Loan》, năm 2017 qua đời khi đi khảo sát cảnh cho phần tiếp theo.
 
 ## Nguồn Gốc Video
 

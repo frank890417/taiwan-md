@@ -18,11 +18,13 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-09-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣外貿與全球供應鏈.md'
-sourceCommitSha: '57cdd3ae4'
-sourceContentHash: 'sha256:df07b8f5f0dd46a8'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:84347970279cba9c'
 sourceBodyHash: 'sha256:2f404ef3aa8b254f'
-translatedAt: '2026-10-16T07:57:00+08:00'
+translatedAt: '2026-11-19T08:19:50.791282+00:00'
 ---
 
 # Ngoại thương Đài Loan và Chuỗi cung ứng toàn cầu
@@ -284,9 +286,11 @@ Việc tái cấu trúc chuỗi cung ứng không chỉ mang lại rủi ro: Ưu
 
 [^9]: [Liberty Times — Quốc hội thông qua việc ngừng áp dụng FTA với Nicaragua; Bộ Ngoại giao, Bộ Kinh tế: Ảnh hưởng thương mại đối với Đài Loan là hạn chế](https://news.ltn.com.tw/news/politics/breakingnews/4166554) — Phía Nicaragua đơn phương chấm dứt vào tháng 12 năm 2021, phía Đài Loan ngừng áp dụng từ ngày 1 tháng 7 năm 2022.
 
-## Đọc thêm
+## Mở rộng đọc
 
-- [Doanh nghiệp vừa và nhỏ và những nhà vô địch ẩn danh của Đài Loan](/vi/economy/taiwan-smes-and-hidden-champions)
-- [Nông nghiệp và tái thiết nông thôn Đài Loan](/vi/economy/taiwan-agriculture-and-rural-revitalization)
+- [Chuyên đề ngành công nghiệp Đài Loan](/industry/) — Dùng thống kê chính thức vẽ nên cấu trúc ngành: 70 năm xuất khẩu và GDP, khu công nghệ, nhà máy các huyện/thành phố, top 10 vốn hóa thị trường qua các năm, cộng với các quan điểm của các bên trong sáu tranh luận công cộng
+- [Bản đồ chuỗi cung ứng](/industry/supply-chain-map/) — Ba chuỗi bán dẫn, máy chủ AI, volfram, xem từng khâu những công ty nào ở Đài Loan, khâu nào phụ thuộc nước ngoài
+- [Các doanh nghiệp vừa và nhỏ Đài Loan và các Quán quân vô hình](/vi/economy/taiwan-smes-and-hidden-champions)
+- [Nông nghiệp và tái sinh nông thôn Đài Loan](/vi/economy/taiwan-agriculture-and-rural-revitalization)
 - [Hệ sinh thái khởi nghiệp](/vi/economy/taiwan-startup-ecosystem-overview)
-- [Doanh nghiệp Đài Loan: Foxconn Precision (Hồng Hải)](/vi/economy/foxconn-precision-industry) — Với mạng lưới toàn cầu tại 24 quốc gia và 900.000 nhân viên, đây là môi trường thử nghiệm lớn nhất về quản trị xuyên biên giới của ngành sản xuất Đài Loan.
+- [Doanh nghiệp Đài Loan: Hon Hai Precision (Foxconn)](/vi/economy/foxconn-precision-industry) — Bố cục toàn cầu 24 quốc gia, 900 nghìn người, là thử nghiệm lớn nhất về quản trị xuyên biên giới của ngành sản xuất Đài Loan

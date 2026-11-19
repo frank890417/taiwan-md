@@ -1,14 +1,14 @@
 ---
-title: 'Chế độ Trưởng thôn, Trưởng ấp: 7.748 lãnh đạo dân cử, đơn vị chính trị cơ sở nhất của Đài Loan'
-description: 'Văn phòng ấp mở cửa lúc 5 giờ rưỡi sáng, trợ cấp sự vụ 54.000 Đài tệ, hơn 60% không đảng phái — Trưởng thôn, Trưởng ấp là chức danh chính trị ít mang tính "chính trị" nhất trong các cuộc bầu cử tại Đài Loan, đồng thời là minh chứng hoàn chỉnh nhất cho quá trình dân chủ hóa của hòn đảo này. Từ chế độ Bảo giáp thời Nhật thuộc đến việc trực tiếp dân cử từ năm 1950, vị trí có số lượng còn nhiều hơn cả 7-Eleven trên toàn Đài Loan này đã vận hành vai trò đại diện quan hệ địa phương suốt 80 năm qua.'
+title: 'Chế độ Trưởng thôn/Trưởng phường: 7.748 thủ lĩnh dân chọn, đơn vị chính trị cơ sở nhất của Đài Loan'
+description: 'Trưởng thôn và Trưởng phường là những thủ lĩnh dân chọn cùng cấp, khác nhau ở khu vực quản lý: xã và thị trấn thiết lập thôn, thành phố trực thuộc trung ương và thành phố thuộc huyện thiết lập phường, toàn Đài Loan cộng 7.748 người. Theo 《Luật chế độ địa phương》, nhiệm kỳ bốn năm, có thể tái cử, không giới hạn số nhiệm kỳ, mỗi bốn năm tổ chức bầu cử đồng thời theo cuộc bầu cử chín trong một, ngày bỏ phiếu năm 2026 là 28 tháng 11. Trưởng thôn/Trưởng phường là vị trí không lương, mỗi tháng nhận NT$54.000 phụ cấp sự vụ, không tính là tiền lương; hơn 60% không thuộc đảng phái, từ hệ thống bảo giáp thời kỳ Nhật trị dần dần diễn biến thành vị trí dân chọn cơ sở nhất của Đài Loan.'
 date: 2026-05-27
 category: 'Politics'
 tags:
   [
-    'Trưởng thôn Trưởng ấp',
+    'Trưởng thôn/Trưởng phường',
     'Tự trị cơ sở',
-    'Luật Chế độ Địa phương',
-    'Chế độ Bảo giáp thời Nhật thuộc',
+    'Luật chế độ địa phương',
+    'Bảo giáp thời kỳ Nhật trị',
     'Bầu cử 2026',
   ]
 subcategory: '選舉制度'
@@ -17,11 +17,17 @@ featured: false
 lastVerified: 2026-05-27
 lastHumanReview: false
 readingTime: 12
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 4,218 曝光 36 點擊（0.85%），查詢全是問句：「村長可以做幾任」55、「村長跟里長一樣嗎」44、「村長幾年選一次」37 曝光；description 第一句先答村里差別、任期四年連選得連任無上限'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Politics/村里長制度.md'
-sourceCommitSha: 'd7d7c2e30'
+sourceCommitSha: 'be13f0452'
 sourceContentHash: 'sha256:968a60e9d47e825b'
 sourceBodyHash: 'sha256:c77c8cceb31c23cb'
-translatedAt: '2026-11-03T00:30:06+08:00'
+translatedAt: '2026-11-19T08:06:25.780335+00:00'
 ---
 
 # Chế độ Trưởng thôn, Trưởng ấp: 7.748 lãnh đạo dân cử, đơn vị chính trị cơ sở nhất của Đài Loan
