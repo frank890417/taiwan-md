@@ -365,8 +365,9 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **為什麼今天才夠格記**：前兩輪撈到的是一位、三位，而且班次天天都在跑，所以「靠自覺」看起來成本很低。今天本機 routine 飛輪已經沉默十天（上一份 memory 停在 11-07），這班若沒跑或跑了沒想起加大 `--limit`，七位讀者會繼續坐在外面而沒有任何儀器會變紅——`fetched 50` 跟「佇列剛好 50 筆」逐字相同，[REFLEXES #38](REFLEXES.md) 混維度在「窗口滿」這個數字上的形狀。自覺型步驟的失效率不是固定的，它跟飛輪的健康度綁在一起，而飛輪不健康的那幾天正是最需要它的那幾天（跟 `staleness-guard-ships-through-the-artifact-it-guards` 同構：偵測能力跟被偵測的病負相關）。
 - **同一班的第二個面**：甦醒 selftest 正確地叫出「工作樹落後 origin/main 131 個 commit 且兩邊分岔」，但本席位的 routine prompt 第一步只寫 `git pull origin main`，而 `pull` 在真分岔上直接拒絕執行。偵測住 [BECOME §1.4](../../BECOME_TAIWANMD.md)、處置住 [MAINTAINER §Step 1.1b](../pipelines/MAINTAINER-PIPELINE.md)，兩份 canonical 中間靠當班自己想到去讀隔壁 pipeline。這是 [REFLEXES #97](REFLEXES.md)「手上有事實不等於送進要動手的那一層」在 routine prompt 層的形狀：訊號送達了，處置的位址沒有一起送達。
 - **候選機械化（純取數面，不碰閾值）**：(a) `triage.mjs` 收官行在「窗口滿且外面還有 N 筆」且本次執行未帶加大的 `--limit` 時，印一行明確的未完成標記，讓它進 memory 收官 checklist 而不是只進提醒；(b) 非 feedback 席位的 routine prompt 若第一步是 `git pull`，補一句指向 MAINTAINER §1.1b 的分岔處置。兩者都不碰「窗口該開多大」那個閾值，那仍是 [OBSERVER-QUEUE](OBSERVER-QUEUE.md) #119 的 (b)，今天第七天。
+- **instance 2（2026-11-20 twmd-feedback-triage，第十輪）**：這道手動動作今天第二次有實際代價。佇列 82 筆，`comm` 雙向差集指出的唯一新進是一位真讀者（`黃詩匀`，〈黃氏兄弟〉第一部影片勘誤，11-19 23:07 送出），他排在第 82 位——預設 `--limit 50` 的窗口裡沒有他。當班照交接加大窗口才撈到，開成 [issue #2046](https://github.com/frank890417/taiwan-md/issues/2046)。加上 11-06 那位署名醫師（第 82 位、距今 6 小時），「不撈會怎樣」從推論變成兩個實例；而這兩輪都是當班想起來了，沒有任何儀器在量「本輪有沒有撈」。候選機械化 (a) 仍未落地。
 - **相關**：[REFLEXES #15](REFLEXES.md)（memory 是自律，canonical SOP 才是閘門——本例是「儀器寫了提醒但沒寫閘門」的變體，前 16 個 instance 多半是連提醒都沒有）／[#38](REFLEXES.md)（`fetched 50` 混「全部讀到」與「只讀最舊一截」）／[#97](REFLEXES.md)（交接面完整性）／[#82](REFLEXES.md)（提醒的存在是「這件事有人在顧」的替身）
-- **verification_count**: 1
+- **verification_count**: 2
 - **severity**: structural（缺口在讀者送得進來與讀者被看見之間，而它最可能失效的時機跟飛輪停轉重合）
 
 ### 2026-11-06 twmd-maintainer-daily — 腳註形式完美、指向錯的那一篇，而我們用它指控了別人引錯

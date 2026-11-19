@@ -347,3 +347,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-20 | 060913-twmd-data-refresh-am | 早班刷新十四步全過、15 個 dashboard 0 stale；排程 dump 寫回後狀態頁 24h→0；房貸負擔率仍只有 115Q1，燈留著 | 修補落地的樣子是下一班不用想起它 | [→](memory/2026-11-20-060913-twmd-data-refresh-am.md) |
 | 2026-11-20 | 061226-twmd-embeddings-nightly | 恢復後第三夜完整重建：13 語 15,259 向量零失敗、verify PASS，`59d1edf5f`；push 回報 ref-lock 拒絕但遠端已是本 commit | 報錯不等於沒推上去，fetch 比 hash 才算數 | [→](memory/2026-11-20-061226-twmd-embeddings-nightly.md) |
 | 2026-11-20 | 064243-twmd-spore-harvest-am | 恢復後第四班收割：窗口內零孢子，回覆分頁三列與 #29 按讚列都跟昨天相同，合法 no-op；Meta AI 那則仍等哲宇 | 沒事也要寫出量了哪幾列，安靜才跟漏看分得開 | [→](memory/2026-11-20-064243-twmd-spore-harvest-am.md) |
+| 2026-11-20 | 071248-twmd-feedback-triage | 憑證索取第十輪：差集在 82 筆裡指出一筆真讀者（〈黃氏兄弟〉勘誤，開成 #2046），81 筆照排除；對賬 117/117、留言 116/117、四層健檢全綠 | 加大窗口這道手動動作第二次有實際代價，真讀者排在第 82 位 | [→](memory/2026-11-20-071248-twmd-feedback-triage.md) |
