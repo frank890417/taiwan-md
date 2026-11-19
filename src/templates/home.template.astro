@@ -2,10 +2,9 @@
 /**
  * home.template.astro — 統一首頁 template（13 個語言共用）
  *
- * 為什麼是一份樣板：原本每個語言各一份 index.astro，內容幾乎一樣。實際只有兩種
- * 展廳散文：中文一份、其他語言共用一份英文（HomeEnHalls），其餘只差網址前綴。
- * 對照 about.template.astro / dashboard.template.astro 的同一個做法。
- * （2026-05-03 sleepy-colden P2 follow-through unification）
+ * 為什麼是一份樣板：原本每個語言各一份 index.astro，內容幾乎一樣，只差展廳散文
+ * 的語言與網址前綴。對照 about.template.astro / dashboard.template.astro 的同一個
+ * 做法。（2026-05-03 sleepy-colden P2 follow-through unification）
  *
  * ── 2026-11-19 首頁第一期：修補與重排 ──────────────────────────────────
  * 規格：reports/design-homepage-about-implementation-2026-11-19.md 第 2 節。
@@ -16,8 +15,8 @@
  *    2 引語時間軸        cover_story         CoverStory
  *    3 四扇門            reader_doors        ReaderDoors
  *    4 直接能用的        tools_band          ToolsBand（新）
- *    5 分類格            category_grid       CategoryGrid（從頁尾附近上移）
- *    6 四展廳            exhibition_halls    散文全文留在這份樣板，每廳加一張縮圖
+ *    5 分類格            category_grid       CategoryStrip（第二期收斂成一排小卡）
+ *    6 四展廳            exhibition_halls    HallEntries（第二期：四張入口卡，見下）
  *    7 不知道從哪開始？  reading_path        ReadingPath + RandomDiscovery（併成一區）
  *                        random_discovery
  *    8 人                people              PeopleSection（新；內含 community_feedback）
@@ -33,9 +32,16 @@
  * 「為什麼需要 Taiwan.md？」四張價值卡從首頁拿掉，搬去關於頁（另一條線在做）。
  * 它底下的兩顆連結（知識圖譜、原始資料）留在首頁的生命體那一區。
  *
- * ⚠️ 四個展廳的中文策展散文是原味，重排時一個字都不能動，連縮排都不要動
- * （prettier 重新折行時，折在兩個中文字之間會多出一個看得見的空白）。縮圖是插在
- * 每一廳標題底下的獨立元素，沒有碰散文的任何一行。
+ * ── 2026-11-19 首頁第二期：首頁變大廳 ──────────────────────────────────
+ * 規格同一份報告的第 3 節。四篇策展散文搬進展廳頁（/halls/1–4/，
+ * hall.template.astro），首頁的第 6 區改成四張入口卡：展廳名、視覺化縮圖、散文
+ * 第一段原文、兩篇精選、住戶的名字、「走進這一廳」。區塊名 exhibition_halls 不變
+ * （前後數據接得上），入口的點擊是 hall_entry。分類格從 13 張大卡收斂成一排小卡，
+ * 區塊名與點擊標記照舊。其他十個區塊沒有動。
+ *
+ * ⚠️ 四個展廳的策展散文是原味，一個字都不能動。它現在住在
+ * src/data/halls/prose/{語言}.ts（每段一個字串，空格照原樣寫在字串裡），首頁的
+ * 第一段與展廳頁的全文讀同一份。
  *
  * 這份樣板不輸出 HTML 註解：說明都寫成 Astro 註解，不會跟著正式頁送出去
  * （改版前首頁帶著 20 KB 的程式註解）。
@@ -50,9 +56,8 @@ import HeroSection from '../components/home/HeroSection.astro';
 import CoverStory from '../components/home/CoverStory.astro';
 import ReaderDoors from '../components/home/ReaderDoors.astro';
 import ToolsBand from '../components/home/ToolsBand.astro';
-import CategoryGrid from '../components/CategoryGrid.astro';
-import HallThumb from '../components/home/HallThumb.astro';
-import HallProse from '../components/home/HallProse.astro';
+import CategoryStrip from '../components/home/CategoryStrip.astro';
+import HallEntries from '../components/home/HallEntries.astro';
 import ReadingPath from '../components/ReadingPath.astro';
 import RandomDiscovery from '../components/home/RandomDiscovery.astro';
 import PeopleSection from '../components/home/PeopleSection.astro';
@@ -61,14 +66,10 @@ import LanguageStatement from '../components/home/LanguageStatement.astro';
 import OrganismPreview from '../components/home/OrganismPreview.astro';
 import JoinSection from '../components/home/JoinSection.astro';
 import ProticoScript from '../components/ProticoScript.astro';
-import {
-  useTranslations,
-  getLangFromUrl,
-  type TranslationKey,
-} from '../i18n/utils';
-import { useHomeT } from '../components/home/home-i18n';
-import { getHallProse, HALL_IDS } from '../data/halls';
-import { getHallPicks } from '../components/home/hall-data';
+import { useTranslations, getLangFromUrl } from '../i18n/utils';
+import { useHomeT, formatCount } from '../components/home/home-i18n';
+import { countCategoryArticles } from '../components/home/home-data';
+import { getHallPicks, HALL_CATEGORY_LIST } from '../components/home/hall-data';
 
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
@@ -83,14 +84,15 @@ const categoryCount = categoryList.filter(
 // ── Lang-derived helpers ─────────────────────────────────────────────────────
 // langPath: '' for zh-TW (SSOT root), else '{lang}/' for non-default langs.
 // langUrlPrefix: '' for zh, else '/{lang}'. Used for cross-page links.
-// isZh: gate for Chinese-vs-English narrative (zh has bespoke 中文 prose, the
-// other 5 langs all share the same English hall narrative).
 const isZh = lang === 'zh-TW';
 const langUrlPrefix = isZh ? '' : `/${lang}`;
 
 // ── 四展廳的精選文章（挑法在 hall-data.ts，首頁與展廳頁共用） ──
 const topPicks = getHallPicks(lang);
-const hallProse = getHallProse(lang);
+// 四個展廳底下所有分類的篇數（大廳那一區的導語用）
+const hallArticleTotal = Object.values(HALL_CATEGORY_LIST)
+  .flat()
+  .reduce((sum, slug) => sum + countCategoryArticles(lang, slug), 0);
 
 // ── Dynamic reading path: pick top A-grade from different categories ──
 const usedCategories = new Set<string>();
@@ -172,55 +174,41 @@ const readingPathFooterItems = [
             }
           </h2>
         </header>
+        <div data-ga-view="category_grid"><CategoryStrip /></div>
       </div>
-      <div data-ga-view="category_grid"><CategoryGrid /></div>
     </section>
 
-    {
-      /* ===== EXHIBITION HALLS =====
-       Partial Tailwind migration (Phase 6): wrappers moved to inline
-       utilities. The .hall-* / .pick-* / .topic-pill repeating card
-       classes stay in scoped <style> because they repeat × 8 halls;
-       inlining would turn the markup into noise. Same call as Header. */
-    }
-    <section class="home-section" data-ga-view="exhibition_halls">
-      <div class="mb-8 text-center">
-        <h2
-          class="text-center font-['jf-lanyangming','Noto_Serif_TC','Source_Han_Serif_TC',serif] text-[2rem] font-light text-[#1f2937]"
-        >
-          {t('home.categories.heading')}
-        </h2>
-      </div>
-
-      <div
-        class="exhibition-halls mx-auto max-w-[var(--container-prose)] px-8 max-[768px]:px-6 max-[480px]:px-4"
-      >
-        {
-          HALL_IDS.map((id) => (
-            <>
-              {id > 1 && (
-                <div class="hall-bridge">
-                  <div class="hall-bridge-line" />
-                  <em class="hall-bridge-text">
-                    {t(`home.bridge.${id - 1}to${id}` as TranslationKey)}
-                  </em>
-                  <div class="hall-bridge-line" />
-                </div>
-              )}
-              <div class="exhibition-hall">
-                <div class="hall-divider">
-                  <div class="hall-line" />
-                  <span class="hall-label">
-                    {hallProse[id - 1].numeral} — {hallProse[id - 1].title}
-                  </span>
-                  <div class="hall-line" />
-                </div>
-                <HallThumb hall={id} />
-                <HallProse hall={id} />
-              </div>
-            </>
-          ))
-        }
+    <section
+      id="halls"
+      class="home-section home-lobby"
+      aria-labelledby="halls-heading"
+      data-ga-view="exhibition_halls"
+    >
+      <div class="home-wrap">
+        <header class="home-head">
+          <p class="home-eyebrow">{th('home.halls.eyebrow')}</p>
+          <h2 id="halls-heading" class="home-title">
+            {t('home.categories.heading')}
+          </h2>
+          <p class="home-lead">
+            {
+              th('home.halls.lead', {
+                count: formatCount(hallArticleTotal, lang),
+              })
+            }
+          </p>
+        </header>
+        <HallEntries />
+        <p class="home-lobby-more">
+          <a
+            href={`${langUrlPrefix}/halls/`}
+            class="home-link"
+            data-ga-section="hall_entry"
+            data-ga-label="halls_index"
+          >
+            {th('home.lobby.all')}
+          </a>
+        </p>
       </div>
     </section>
 
@@ -263,27 +251,8 @@ const readingPathFooterItems = [
 }
 <ProticoScript lazy />
 
-{
-  /*
-  Phase 6 partial migration — index.astro (zh-TW)
-  ───────────────────────────────────────────────
-  Wrappers (skip-link removed as dead code; section-title,
-  exhibition, exhibition-header, section-divider, divider-line,
-  divider-text, mini-graph-*, features-cta, feature-btn) moved to
-  inline Tailwind. The repeated .hall-* / .pick-* / .topic-pill card classes
-  are intentionally global: non-zh exhibition hall markup lives in the
-  HomeEnHalls child component and must share the zh-TW visual baseline.
-*/
-}
 <style>
   /* ── 首頁第一期（2026-11-19）──────────────────────────────────── */
-
-  /* 分類格：元件自己帶上下邊距與手機的左右邊距；放進有標頭的區塊後，
-     邊距交給區塊，左右跟標頭對齊。 */
-  :global(.home-categories > [data-ga-view] > section) {
-    margin-block: 0;
-    margin-inline: auto;
-  }
 
   /* 手機首頁的浮動按鈕只留意見回饋與閱讀設定：右下角的 .md 在首頁收起
      （它在首頁指向 README，文章頁才是「看這篇的原始檔」）。 */
@@ -291,8 +260,8 @@ const readingPathFooterItems = [
     display: none;
   }
 
-  /* 展廳縮圖放在標題與散文之間：標題原本的下邊距改由縮圖接手 */
-  :global(.exhibition-hall .hall-thumb) {
-    margin-block-start: calc(var(--home-gap-sm) * -0.5);
+  /* 大廳底下那一行「看四個展廳的總覽」 */
+  .home-lobby-more {
+    margin: var(--home-gap-sm) 0 0;
   }
 </style>
