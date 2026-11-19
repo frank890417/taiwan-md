@@ -20,10 +20,10 @@ readingTime: 8
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'Society/社區大學黃武雄.md'
-sourceCommitSha: 'ef8369eef'
-sourceContentHash: 'sha256:06c8d5e7cb10cd52'
+sourceCommitSha: '520de49a5'
+sourceContentHash: 'sha256:cb4d53517588093c'
 sourceBodyHash: 'sha256:054bab1a9a4fb1c2'
-translatedAt: '2026-11-04T23:47:07.206272+00:00'
+translatedAt: '2026-11-19T11:46:37.058427+00:00'
 ---
 
 # Huang Wu-hsiung und Taiwans Gemeinschafts-Universitäten: Demokratie jenseits des Wahlzettels ins Klassenzimmer bringen
@@ -113,9 +113,11 @@ Bild: Ephemeral Days, „Taipei Municipal Wenshan School of Special Education“
 
 ## Weiterführende Literatur
 
-[Gemeeinnütziger Verein der Gemeinschafts-Universitäten: Datenbank und praktische Anwendung](https://www.napcu.org.tw/db_list.html)
+[Gemeinnütziger Verein der Gemeinschafts-Universitäten: Datenbank der Gemeinschafts-Universitäten und gesellschaftliche Praxis](https://www.napcu.org.tw/db_list.html)
 
 [Ministerium für Bildung: Erläuterungen zum Gesetz zur Förderung der Gemeinschafts-Universitäten](https://depart.moe.edu.tw/ed2400/News_Content.aspx?n=15388506A60ACB81&sms=87137EA6056ADFD1&s=12A185F99A60E1F3)
+
+[Yang Wei-zhe: Mathematikprofessor eröffnet zuerst Taiwanisch-Kurse, dann folgt die Debatte](/de/people/yang-wei-cher) — Huang Wu-hsiung, alter Freund und Kollege aus der Mathematikabteilung der Nationaluniversität Taiwan, beide traten gemeinsam der Chen-Wen-cheng-Gedenkstiftung bei; Yang Wei-zhe unterrichtete auch Mathematik auf Taiwanisch an der Gemeinschafts-Universität Keelung.
 
 ## Quellen
 

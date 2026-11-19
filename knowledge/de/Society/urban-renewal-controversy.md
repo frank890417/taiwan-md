@@ -25,10 +25,10 @@ rationale:
   where_it_hedges: '文林苑案的時序、法院判決理由與雙方主張採維基百科條目（該條目引用台北高等行政法院 98 年度訴字 2467 號、最高行政法院 100 年度裁字 1582 號判決與市府新聞稿）；釋字 709 的審查客體與違憲結論採司法院解釋原文與立法院議案文書；都更條例的立法與核定案件數採維基百科整理。'
   whos_pushing_back: '認為王家被塑造成受害者、忽略其土地本來就無法改建的讀者；認為大法官過度介入立法政策的讀者；以及認為同意戶的權益在整起事件中被完全忽略的讀者。'
 translatedFrom: 'Society/都市更新爭議.md'
-sourceCommitSha: '4d588c462'
-sourceContentHash: 'sha256:94ff250b0e25855f'
-sourceBodyHash: 'sha256:75a7daaeb80e499b'
-translatedAt: '2026-10-20T00:51:09+08:00'
+sourceCommitSha: 'f024e87e7'
+sourceContentHash: 'sha256:d27aa7a78b691159'
+sourceBodyHash: 'sha256:c44ec23dc468f721'
+translatedAt: '2026-11-19T11:52:55.419317+00:00'
 ---
 
 # Urbanisierungskonflikte: Wie Taiwan nach dem Fall Wenlinyuan mit „nicht einverstandenen Haushalten“ umgeht
@@ -83,16 +83,17 @@ Bemerkenswert ist, dass die „Betroffenen“ in diesem Fall nicht nur die Famil
 
 ## Was das System hinterlässt
 
-Das „Gesetz über Stadterneuerung“ wurde am 11. November 1998 verkündet und trat am 13. November desselben Jahres in Kraft. Es ist das Sondergesetz für die Stadterneuerung in Taiwan. [^4] Laut Statistiken der Urban Renewal Research and Development Foundation wurden von 2000 bis Ende 2020 landesweit 751 Neubauprojekte gemäß diesem Gesetz genehmigt (Gesamtfläche 242,70 Hektar), sowie 150 Projekte zur Instandhaltung und Erneuerung. [^4] Das Gesetz wurde bis zum 13. November 2024 bereits zwölfmal geändert. [^4]
+Das „Gesetz über Stadterneuerung“ wurde am 11. November 1998 verkündet und trat am 13. in Kraft; es ist Taiwans Sondergesetz für Stadterneuerung.[^4] Laut Statistiken der Stiftung für Stadtplanung und -entwicklung belief sich die Zahl der nach diesem Gesetz genehmigten Sanierungsprojekte von 2000 bis Ende 2020 auf insgesamt 751 Fälle mit einer Gesamtfläche von 242,70 Hektar, während 150 Instandhaltungs- und Erhaltungsprojekte genehmigt wurden.[^4] Bis zum 13. November 2024 hatte das Gesetz bereits zwölf Novellen erfahren.[^4]
 
-Nach der Gesetzesänderung wurde für nicht einverstandene Haushalte ein zusätzliches Verfahren eingeführt: Der Stadterneuerungsausschuss muss die Angemessenheit des Erneuerungsgebiets feststellen und bei Streitigkeiten Anhörungen durchführen. Die Kontroverse um den Ersatzabriss wurde zudem von der alleinigen Entscheidungsgewalt der Stadtverwaltung auf die gerichtliche Entscheidung übertragen. [^1] Diese Änderungen reagieren auf die Kernanliegen der Interpretation Nr. 709, beantworten jedoch nicht die grundlegende Frage: Wenn die Eigentumsinteressen der Mehrheit mit dem Wohnwillen der Minderheit kollidieren, auf welcher Seite sollte das Gesetz stehen?
+Nach der Novelle erhielt die Behandlung nicht zustimmender Eigentümer ein zusätzliches Verfahren: Der Stadterneuerungsprüfungsausschuss muss die Angemessenheit des Erneuerungsgebiets feststellen, und bei Streitigkeiten muss eine Anhörung stattfinden. Streitigkeiten über den Ersatzabriss wurden ebenfalls von „die Stadtregierung hat das letzte Wort“ in eine gerichtliche Entscheidung geändert.[^1] Diese Gestaltungen reagierten auf die Kernanliegen der Interpretation Nr. 709, beantworteten aber nicht die grundlegendere Frage: Auf welcher Seite soll das Gesetz stehen, wenn die Eigentumsinteressen der Mehrheit mit dem Wohnwunsch der Minderheit kollidieren.
 
-Die Antwort des Wenlinyuan-Falls lautet: „Mehrheitsentscheid kombiniert mit verfahrenstechnischen Garantien“. Diese Antwort hat dazu geführt, dass sich die Stadterneuerung in Taiwan nach der Stagnation seit 2012 langsam erholt hat, aber auch, dass die Prüfungsverfahren für jedes Projekt länger und teurer geworden sind. Die Kosten werden von allen getragen – auch von jenen einverstandenen Haushalten, die nur nach Hause wollten, aber über vier Jahre warten mussten.
+Die Antwort im Fall Wenlinyuan lautet „Mehrheitsentscheid plus Verfahrensgarantien“. Diese Antwort ließ Taiwans Stadterneuerung nach dem Stillstand ab 2012 allmählich wieder anlaufen, machte aber auch den Prüfungsprozess jedes Stadterneuerungsfalls länger und teurer. Die Kosten werden von allen geteilt – einschließlich jener, die nur nach Hause wollten, aber über vier Jahre warten mussten.
 
 **Weiterführende Literatur**:
 
-- [Sozialer Wohnungsbau und Wohngerechtigkeit](/de/society/social-housing-and-housing-justice) — Ein alternativer wohnungspolitischer Weg abseits des Immobilienmarktes
-- [Staatlicher Wohnungsbau und Wohngerechtigkeit](/de/society/public-housing-justice) — Die Geschichte der staatlichen Wohnungsbaupolitik von der Errichtung bis zur Einstellung
+- [Taiwans Immobilienpreise, Hypotheken und Jugendwohnungen](/housing/) — Themenseite: Stadterneuerung in das gesamte Wohnsystem einordnen, Kredite, Steuern, Landtransaktionen und Wohnungsangebot jeweils eine Spalte
+- [Sozialer Wohnbau und Wohnrecht](/de/society/social-housing-and-housing-justice) — Ein weiterer wohnpolitischer Pfad jenseits des Immobilienmarkts
+- [Staatswohnungen und Wohnrecht](/de/society/public-housing-justice) — Geschichte der Staatswohnpolitik vom Bau bis zur Einstellung
 
 ## Referenzen
 

@@ -20,10 +20,10 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: true
 translatedFrom: 'Economy/台灣產業轉型升級.md'
-sourceCommitSha: 'd6377e82e'
-sourceContentHash: 'sha256:e6cb5dd5b7d9e8ed'
+sourceCommitSha: 'f024e87e7'
+sourceContentHash: 'sha256:d25d9026ab841b3f'
 sourceBodyHash: 'sha256:ebbc94611dc1b8f9'
-translatedAt: '2026-09-12T12:53:10+08:00'
+translatedAt: '2026-11-19T11:24:23.584187+00:00'
 ---
 
 # Taiwanische Industrielle Transformation: Vom Fertigungsriesen zum Innovationsland
@@ -216,17 +216,16 @@ MediaTek wurde 1997 von United Ocean Electronics (聯華電子) abgespalten und 
 
 ---
 
-## Weiterführende Lektüre
+## Weiterführende Literatur
 
-- [Halbleiterindustrie](/de/technology/taiwan-semiconductor-industry) — Wie die Kernindustrie, die 1976 durch Technologietransfer von RCA begann und im Jahr 2024 60 % des globalen Marktes hält, zum „Schutzschild des Landes“ wurde.
-- [Morris Chang (張忠謀)](/de/people/tsmc-morris-chang) — Die Schlüsselfigur hinter der Gründung von TSMC im Jahr 1987; der treibende Motor der taiwanesischen Halbleiterindustrie vom Nullpunkt aus.
-- [Shih Ching-rong (施振榮)](/de/people/stan-shih) — Der Autor der „Lächelnkurve“: Er zeichnete die Linie, die Taiwan aus der Auftragsfertigung in die mittlere Phase zwang, während sein Vermögen in TSMC investiert ist, das sich auf die „mittlere Fertigung“ konzentriert.
-- [Taiwanischer Handel und globale Lieferketten](/de/economy/taiwan-foreign-trade-and-global-supply-chain) — Die langfristige Entwicklung vom Devisenexport durch Exportprocessing Zones bis zum Halbleiterexportführer im Jahr 2024.
-- [Startup-Ökosystem](/de/economy/taiwan-startup-ecosystem-overview) — Ein anderer Weg von der industriellen Transformation hin zu einem Innovationsland: die Entwicklung von Startups und fabless Halbleitern nach den 1990er Jahren.
-- [KI-Entwicklung Taiwans und zukünftige Strategien](/de/technology/artificial-intelligence-development-strategy) — Die nächste Welle der industriellen Transformation nach 2024: Von der Hardware-Hegemonie zur KI-Anwendung.
-- [SLP Taipei Startup Leadership Program](/de/economy/slp-taipei-startup-leadership-program) — Ein Gründungstrainingsprogramm, dessen Kosten von 6.000 auf 58.000 NTD stiegen; die Kostenkurve selbst ist ein physischer Maßstab für den Aufbau des taiwanischen Startup-Ökosystems vom Anfang bis zur Etablierung.
-
----
+- [Taiwan-Industrie-Special](/industry/) — Darstellung der Industriestruktur mit offiziellen Statistiken: 70 Jahre Exporte und BIP, Wissenschaftsparks, Fabriken in den verschiedenen Landkreisen und Städten, jährliche Top-10-Marktkapitalisierung, plus die Argumente aller Seiten zu sechs öffentlichen Kontroversen
+- [Halbleiterindustrie](/de/technology/taiwan-semiconductor-industry) — Vom RCA-Technologietransfer 1976 bis zu 60 % Weltmarktanteil 2024: Wie die Kernindustrie, die im Hsinchu Science Park entstand, zum „Schutzschild der Nation“ wurde
+- [Morris Chang](/de/people/tsmc-morris-chang) — Schlüsselfigur bei der Gründung von TSMC 1987, treibende Kraft hinter Taiwans Halbleiterindustrie, die von null startete
+- [Stan Shih](/de/people/stan-shih) — Autor der Lächelnkurve selbst: Zeichnete die Linie, um Taiwan aus der mittleren Fertigungsstufe herauszuführen, setzte sein Vermögen aber auf TSMC, das „mittlere Fertigung“ betreibt
+- [Taiwans Außenhandel und globale Lieferketten](/de/economy/taiwan-foreign-trade-and-global-supply-chain) — Die langfristige Entwicklung von Deviseneinnahmen aus den Exportverarbeitungszonen bis zur treibenden Kraft der Halbleiterexporte 2024
+- [Start-up-Ökosystem](/de/economy/taiwan-startup-ecosystem-overview) — Ein weiterer Pfad von der Transformation der Fertigungsindustrie zur Innovationsmacht: Entwicklung von Start-ups und fabless Halbleitern nach den 1990er-Jahren
+- [Taiwans KI-Entwicklung und zukünftige Strategie](/de/technology/artificial-intelligence-development-strategy) — Die nächste Welle der industriellen Transformation nach 2024: Von der Hardware-Vorherrschaft hin zur strategischen Ausrichtung auf KI-Anwendungen
+- [SLP Taipei Entrepreneurship Leadership Program](/de/economy/slp-taipei-startup-leadership-program) — Ein Entrepreneurship-Trainingsprogramm, dessen Einmalgebühr von NT$6.000 auf NT$58.000 stieg; die Gebührenkurve selbst ist der physische Maßstab für den Weg von Taiwans Start-up-Ökosystem aus der Gründungsphase in die Etablierung
 
 ## Referenzen
 
