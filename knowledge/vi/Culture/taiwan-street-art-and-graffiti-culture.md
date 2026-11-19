@@ -16,11 +16,13 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣街頭藝術與塗鴉文化.md'
-sourceCommitSha: '160f6cb59'
-sourceContentHash: 'sha256:17b6d5ecf9a613ef'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:88a622a67eb7ef93'
 sourceBodyHash: 'sha256:bdae339216a98cc2'
-translatedAt: '2026-11-02T01:41:57.719500+00:00'
+translatedAt: '2026-11-19T00:47:45.882249+00:00'
 ---
 
 # Nghệ thuật đường phố và văn hóa Graffiti tại Đài Loan
@@ -77,17 +79,17 @@ Công nghệ kỹ thuật số cũng đang mở ra những khả năng mới. T�
 
 ## Tài liệu tham khảo
 
-[^1]: [Làng Cầu Vồng — Wikipedia](https://zh.wikipedia.org/wiki/%E5%BD%A9%E8%99%B9%E7%9C%B7%E6%9D%91) — Lịch sử Làng Cầu Vồng tại quận Nam Đồn, Đài Trung, quá trình vẽ tranh của Hoàng Vĩnh Phụ và hồ sơ phong trào bảo tồn.
+[^1]: [Làng Rainbow — Wikipedia](https://zh.wikipedia.org/wiki/%E5%BD%A9%E8%99%B9%E7%9C%B7%E6%9D%91) — Lịch sử Làng Rainbow tại quận Nam Đôn, Đài Trung, quá trình vẽ tranh của Hoàng Vĩnh Phúc và ghi chép phong trào bảo tồn.
 
-[^2]: [Đặc khu Nghệ thuật Pier-2 — Wikipedia](https://zh.wikipedia.org/wiki/%E9%A7%812%E8%97%9D%E8%A1%93%E7%89%B9%E5%8D%80) — Quá trình phát triển và giới thiệu không gian triển lãm của Đặc khu Nghệ thuật Pier-2, Cao Hùng.
+[^2]: [Khu Nghệ Thuật Đặc Khu Bố Nhị — Wikipedia](https://zh.wikipedia.org/wiki/%E9%A7%812%E8%97%9D%E8%A1%93%E7%89%B9%E5%8D%80) — Quá trình phát triển và giới thiệu không gian triển lãm của Khu Nghệ Thuật Đặc Khu Bố Nhị tại Cao Hùng.
 
-[^3]: [Cảng cá Chính Bân — Wikipedia](https://zh.wikipedia.org/wiki/%E6%AD%A3%E6%BF%B1%E6%BC%81%E6%B8%AF) — Dự án hồi sinh cảng cá Chính Bân, Cơ Long và bối cảnh hình thành cụm kiến trúc màu sắc.
+[^3]: [Cảng Cá Chính Binh — Wikipedia](https://zh.wikipedia.org/wiki/%E6%AD%A3%E6%BF%B1%E6%BC%81%E6%B8%AF) — Kế hoạch hoạt hóa Cảng Cá Chính Binh tại Cơ Long và bối cảnh hình thành cụm kiến trúc màu sắc.
 
-[^4]: [Bản đồ Nghệ thuật Đường phố Đài Loan — Street Art Taiwan](https://streetarttaiwan.com/) — Cơ sở dữ liệu ghi lại vị trí các tác phẩm nghệ thuật đường phố và thông tin nghệ sĩ tại các thành phố ở Đài Loan.
+[^4]: [Bản Đồ Nghệ Thuật Đường Phố Đài Loan — Street Art Taiwan](https://streetarttaiwan.com/) — Ghi chép vị trí các tác phẩm nghệ thuật đường phố tại các thành phố Đài Loan và cơ sở dữ liệu nghệ sĩ.
 
-[^5]: [Thảo luận về Quy định Quản lý Graffiti Thành phố Đài Bắc — Chính quyền Thành phố Đài Bắc](https://www.gov.taipei/) — Lịch sử chính sách quản lý graffiti đường phố của thành phố Đài Bắc.
+[^5]: [Thảo Luận Về Điều Lệ Tự Trị Quản Lý Vẽ Bậy Phun Màu Tại Thành Phố Đài Bắc — Chính Phủ Thành Phố Đài Bắc](https://www.gov.taipei/) — Quá trình chính sách quản lý vẽ bậy phun màu đường phố của Thành phố Đài Bắc.
 
-[^6]: [Trang web chính thức Pow! Wow! Taiwan](https://powwowtaiwan.com/) — Hồ sơ hoạt động qua các năm của Lễ hội Nghệ thuật Đường phố Quốc tế Đài Loan.
+[^6]: [Trang Chủ Pow! Wow! Taiwan](https://powwowtaiwan.com/) — Ghi chép hoạt động các năm của Lễ Hội Nghệ Thuật Đường Phố Quốc Tế Đài Loan.
 
 ## Đọc thêm
 

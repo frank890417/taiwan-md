@@ -22,25 +22,27 @@ image: '/article-images/culture/austronesian-migration-map.webp'
 imageCredit: 'Kikilipse / Wikimedia Commons (CC BY-SA 4.0)'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Chronological_dispersal_of_Austronesian_people_across_the_Pacific_(per_Benton_et_al,_2012,_adapted_from_Bellwood,_2011).svg'
-translatedFrom: 'Culture/群島思維.md'
-sourceCommitSha: '0c0b16686'
-sourceContentHash: 'sha256:69f8f034dcafc5a6'
-sourceBodyHash: 'sha256:f5fbc7ca5aa903a2'
-translatedAt: '2026-08-09T09:26:48+08:00'
 viewpoint_formed: true
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'Culture/群島思維.md'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:da7a8eb43a26882e'
+sourceBodyHash: 'sha256:3ca31f4ebc8ab851'
+translatedAt: '2026-11-19T00:23:50.359718+00:00'
 ---
 
-> **Tổng quan 30 giây:** Trải một tấm bản đồ Đài Loan, phần lớn mọi người nhìn thấy một hòn đảo nhỏ ở rìa Trung Hoa Đại Lục. Nhưng nếu xoay bản đồ 30 độ theo chiều kim đồng hồ rồi kéo dài về phía nam, bạn sẽ nhìn thấy một bản đồ khác, cũng hoàn toàn thành lập: Đài Loan đồng thời là đầu mút đông bắc của thế giới Malaya (Nusantara), quê hương ngôn ngữ của bốn trăm triệu người nói ngôn ngữ Nam Đảo, và điểm khởi đầu của lịch sử mở rộng Thái Bình Dương. Một cái vòng tai bằng ngọc từ Phú Điền, Hoa Liên được khai thác 3.500 năm trước đã xuất hiện ở các di chỉ khảo cổ tại đảo Batanes, Luzon, Việt Nam, Thái Lan. Nhà ngôn ngữ học Robert Blust từ đa dạng từ vựng suy ra rằng chín trong mười chi nhánh chính của ngôn ngữ Nam Đảo đều ở Đài Loan. Người Tao ở Lam Tự nói một ngôn ngữ có 60% từ vựng tương đồng với người Ivatan ở Batanes. Bài viết này muốn làm gì đó, đó là bổ sung lại bản đồ khác bị bỏ quên, cho phép hai bản đồ này được nhìn thấy cùng lúc để hiểu được Đài Loan thực sự.
+> **Tóm tắt trong 30 giây:** Khi trải một bản đồ Đài Loan ra, đa số mọi người sẽ thấy đó là một hòn đảo nhỏ nằm ở rìa đại lục Trung Hoa. Nhưng nếu xoay bản đồ theo chiều kim đồng hồ 30 độ và mở rộng về phía nam, bạn sẽ thấy một bản đồ khác cũng hoàn toàn hợp lệ: Đài Loan đồng thời là điểm cực đông bắc của thế giới Mã Lai (Nusantara), là quê hương ngôn ngữ của 400 triệu người thuộc ngữ hệ Nam Đảo, và là điểm khởi đầu của lịch sử di cư khắp Thái Bình Dương. Một chiếc ngọc khuyết được khai thác từ Phong Điền (Fengtien), Hoa Liên, đã xuất hiện tại các di chỉ khảo cổ ở đảo Batanes, Luzon (Philippines), Việt Nam và Thái Lan từ 3500 năm trước. Nhà ngôn ngữ học Robert Blust đã dựa trên sự đa dạng của từ vựng để suy luận rằng 9 trong số 10 nhánh chính của ngữ hệ Nam Đảo đều nằm tại Đài Loan. Ngôn ngữ của người Tao ở đảo Lan Dự (Lanyu) có tới 60% sự tương đồng với người Ivatan ở Batanes. Bài viết này muốn thực hiện việc bổ sung lại một bản đồ khác đã bị bỏ lỡ, để hai bản đồ cùng hiển thị một Đài Loan chân thực nhất.
 
-Mở Google Maps, xoay Đài Loan về phía nam 30 độ. Để Eo biển Đài Loan hướng xuống, để dãy núi Trung ương chỉ về phía bắc của đảo Luzon, để Taroko ở Hoa Liên và quần đảo Batanes ở Philippines thẳng hàng với nhau.
+Mở Google Maps và xoay Đài Loan về phía nam 30 độ. Hãy để eo biển Bashi hướng xuống dưới, để đường sống núi của Dãy Trung Ương chỉ về phía cực bắc đảo Luzon, và để hẻm núi Taroko ở Hoa Liên nằm trên một đường thẳng với quần đảo Batanes của Philippines.
 
-Lúc này bạn không nhìn thấy một hòn đảo nhỏ dựa vào rìa phía đông của Trung Hoa Đại Lục, mà là viên đá phía bắc nhất của một chuỗi đảo kéo dài nửa địa cầu. Về phía nam, đảo Lan Tự, Batanes, Luzon, Palawan, Kalimantan, Java, Sumatra, kéo dài cho đến Madagascar; về phía đông, Ryukyu, Kyushu, quần đảo Kuril; về phía đông nam, Micronesia, Polynesia, xa nhất đến Đảo Phục Sinh. Từ vị trí này nhìn ra, Đài Loan là một đầu mút của một thế giới đảo kéo dài nửa quả địa cầu, chứ không phải rìa của bất kỳ lục địa nào.
+Lúc này, thứ bạn nhìn thấy không phải là một hòn đảo nhỏ dựa vào rìa phía đông của đại lục Trung Quốc, mà là viên ngọc nằm ở điểm cực bắc của một chuỗi các đảo. Về phía nam, từ Lan Dự, Batanes, Luzon, Palawan, Borneo, Java, Sumatra, kéo dài mãi đến Madagascar; về phía đông, có Ryukyu, Kyushu, quần đảo Indonesia; về phía đông nam, là Micronesia, Polynesia, và xa nhất là đảo Phục Sinh. Nhìn từ phương vị này, Đài Loan là một điểm mút của thế giới hải đảo trải rộng nửa vòng Trái Đất, chứ không phải là vùng biên viễn của bất kỳ đại lục nào.
 
-3.500 năm trước, một khối ngọc phu điền được khai thác từ Phú Điền, Hoa Liên đã bị các thợ thủ công của nền văn hóa Bắc Nam cắt mài thành một chiếc vòng tai hình lưỡi liềm, tuân theo nhánh của Dòng Hắc Lưới chảy về phía nam, trôi dạt và cuối cùng đến một nơi cư trú ở phía bắc đảo Luzon, tìm thấy ở một di chỉ được các nhà khảo cổ học thế kỷ 21 đặt tên là "Nagsabaran"[^1]. Cùng loại ngọc này, được khai quật ở các bãi chôn cất tiền sử ở Việt Nam, Thái Lan, bán đảo Malaya. Sau khi hoàn thành phân tích đồng vị, các nhà khảo cổ học xác định rằng loại ngọc này đều đến từ cùng một mạch quặng: Phú Điền, Hoa Liên.
+3500 năm trước, một khối ngọc phỉ thúy Đài Loan được khai thác từ Phong Điền, Hoa Liên, đã được các nghệ nhân thuộc văn hóa Biển Nam (Beinan) mài giũa thành hình khuyết để làm trang sức tai. Theo dòng chảy của dòng hải lưu Kuroshio, chúng trôi dần về phía nam, đi qua nhiều nơi để đến một khu định cư ở cực bắc đảo Luzon, và cuối cùng xuất hiện tại một di chỉ mà các nhà khảo cổ học thế kỷ 21 đặt tên là 「Nagsabaran」[^1]. Cùng loại chất liệu ngọc đó cũng lần lượt được khai quật từ các mộ táng tiền sử ở Việt Nam, Thái Lan và bán đảo Mã Lai. Sau khi thực hiện phân tích đồng vị, các nhà khảo cổ đã kết luận rằng những khối ngọc này đều đến từ cùng một mạch khoáng: Phong Điền, Hoa Liên.
 
-Nói cách khác: trước khi khung truyền thống Trung Hoa đến được hòn đảo này 2.000 năm, hòn đảo này đã là trung tâm của một mạng lưới thương mại kéo dài trên Biển Đông.
+Nói cách khác: 2000 năm trước khi khuôn khổ Trung Hoa chạm đến hòn đảo này, nơi đây đã là trung tâm của một mạng lưới thương mại trải rộng khắp Biển Đông.
 
-Điều này không phải để phủ nhận nguồn gốc Trung Hoa của Đài Loan. Kể từ năm 1683 khi Nhật Bản chiếm đóng và sau này khi Trung Hoa Dân Quốc rút ra, những người di cư Hán đã định hình nên ngôn ngữ, tộc tính, tín ngưỡng, ẩm thực của hòn đảo này, thực sự là lớp nền tảng dày nhất hiện nay của hòn đảo. Nhưng dưới lớp nền tảng này, còn có các lớp khác lâu đời hơn. Một bản đồ khác bị khung truyền thống Trung Hoa che khuất trong thời gian dài: **bản đồ Nusantara, bản đồ hải đảo**: là bản đồ mà bài viết này cố gắng bổ sung lại.
+Điều này không nhằm phủ nhận nguồn gốc Trung Hoa của Đài Loan. Kể từ năm 1683 thời nhà Thanh, sự di cư của người Hán đã hình thành nên ngôn ngữ, tông tộc, tín ngưỡng và ẩm thực — đây thực sự là lớp nền dày nhất của hòn đảo đương đại. Tuy nhiên, bên dưới lớp nền đó vẫn còn những lớp khác sớm hơn nữa. Một bản đồ khác vốn bị che khuất bởi khuôn khổ Trung Hoa trong thời gian dài: **Bản đồ Nusantara, bản đồ quần đảo**: chính là điều mà bài viết này đang cố gắng bổ sung lại.
 
 ## Một chiếc vòng tai từ Hoa Liên đến Luzon
 
@@ -92,19 +94,19 @@ Bốn con đường độc lập: đa dạng ngôn ngữ, văn hóa vật chất
 >
 > Cuộc tranh cãi này phản ánh nhiều hơn là những hạn chế của phương pháp luận lịch sử tiền sử, chứ không phải sự suy thoái của kết luận chính nó. Ngay cả khi chấp nhận sửa đổi của Richards, kết luận ngôn ngữ học "ngôn ngữ Nam Đảo tách ra từ Đài Loan" không bị lung lay, câu hỏi thực sự đang mở là "liệu người có theo ngôn ngữ không".
 
-## Nusantara: Một từ thế kỷ 14, một bản đồ của quần đảo
+## Nusantara: Một thuật ngữ từ thế kỷ 14, một bản đồ của quần đảo
 
-Để hiểu "tư duy hải đảo", phải hiểu trước một từ: **Nusantara**.
+Để hiểu được "tư duy quần đảo", trước hết cần phải hiểu một thuật ngữ: **Nusantara**.
 
-Từ này được tạo thành từ hai gốc từ. **Nusa** có nguồn gốc từ tiếng Javanese cổ đại, có nghĩa là "đảo", truy ngược xa hơn, có nguồn gốc từ tiếng Malayo nguyên thủy _nusa_: đây là từ của tổ tiên họ ngôn ngữ Nam Đảo, cũng có nghĩa là khái niệm "đảo" trong ngôn ngữ bản địa Đài Loan vẫn còn sống. **Antara** là một từ vay mượn từ tiếng Phạn, có nghĩa là "giữa", "trung gian". Ghép lại, Nusantara = **"những hòn đảo giữa", "quần đảo phân tán bên trong và bên ngoài"**[^13].
+Từ này được cấu thành từ hai gốc từ. **Nusa** bắt nguồn từ tiếng Java cổ, có nghĩa là "đảo"; truy nguyên xa hơn, nó xuất phát từ \*nusa trong tiếng Proto-Malayo-Polynesian: đây là từ của tổ tiên ngữ hệ Nam Đảo, điều này có nghĩa là khái niệm về "đảo" đồng nguyên trong ngôn ngữ của các dân tộc bản địa Đài Loan vẫn đang tồn tại trong mọi ngôn ngữ Nam Đảo. **Antara** là một từ mượn từ tiếng Phạn (Sanskrit), có nghĩa là "giữa", "trung gian". Kết hợp lại, Nusantara = **"những hòn đảo ở giữa", "quần đảo nằm rải rác giữa các vùng"**[^13].
 
-Từ này xuất hiện lần đầu tiên trong các tài liệu cổ của Java thế kỷ 14 《Pararaton》 và 《Nagarakretagama》. Năm 1336, **Đế chế Majapahit** ở Java phía đông có vị thủ tướng **Gajah Mada** đã phát biểu "**Sơ thệ Palapa**" (Sumpah Palapa) nổi tiếng trong lễ đăng quang: "Trước khi chinh phục toàn bộ Nusantara, tôi sẽ không ăn những thực phẩm thơm có mùi"[^14].
+Thuật ngữ này xuất hiện sớm nhất trong các văn bản cổ của Java thế kỷ 14 là 《Pararaton》 và 《Nagarakretagama》. Vào năm 1336, Thủ tướng của **đế quốc Majapahit** ở Đông Java là **Gajah Mada** đã tuyên bố "Lời thề Palapa" (Sumpah Palapa) nổi tiếng trong lễ nhậm chức: "Trước khi chinh phục toàn bộ Nusantara, ta sẽ không ăn thức ăn có gia vị"[^14].
 
-Lúc đó Nusantara chỉ các hòn đảo ngoài vòng Java: Sumatra, Kalimantan, Sulawesi, bán đảo Malaya, thậm chí xa đến Luzon. Indonesia hiện đại vẫn dùng từ này để gọi chính quần đảo: năm 2022 Indonesia công bố dời thủ đô, tên của thủ đô mới chính là **Nusantara**[^15].
+Nusantara vào thời điểm đó ám chỉ **các đảo ngoại vi nằm ngoài Java**: Sumatra, Borneo, Sulawesi, bán đảo Mã Lai, và thậm chí xa hơn đến Luzon. Indonesia hiện đại vẫn sử dụng thuật ngữ này như một tên gọi cho chính quần đảo của mình: khi Indonesia công bố chuyển thủ đô vào năm 2022, tên của thủ đô mới chính là **Nusantara**[^15].
 
-Nhưng cách dùng Nusantara trong bài viết này khác với tưởng tượng lãnh thổ của các dân tộc chủ nghĩa Indonesia. Chúng ta vay mượn ý nghĩa **trước ngôn ngữ-quốc gia hiện đại, ý nghĩa địa lý văn hóa** của từ này: một thế giới bao gồm hơn 24.000 hòn đảo trải dài qua Biển Đông và Tây Thái Bình Dương, giữa các hòn đảo thì con người, vật thể, ngôn ngữ, tín ngưỡng lưu thông tần tượt hơn giữa đất liền và đảo.
+Tuy nhiên, cách dùng từ Nusantara trong bài viết này khác với hình dung về lãnh thổ của những người theo chủ nghĩa dân tộc Indonesia. Chúng tôi mượn thuật ngữ này ở **ý nghĩa địa lý văn hóa có trước thời đại của các quốc gia dân tộc hiện đại**: một thế giới trải rộng khắp Biển Đông và Tây Thái Bình Dương, được cấu thành từ hơn 24.000 hòn đảo, nơi con người, vật chất, ngôn ngữ và tín ngưỡng giữa các đảo với nhau lưu thông còn thường xuyên hơn cả sự kết nối giữa đất liền và các đảo.
 
-Nếu trải bản đồ này ra, vị trí của Đài Loan không ở rìa, mà ở **đầu mút đông bắc**.
+Khi trải bản đồ này ra, vị trí của Đài Loan không nằm ở vùng biên viễn, mà nằm ở **phía cực Đông Bắc**.
 
 ## Lam Tự: Bằng chứng sống - Hai dân tộc có 60% từ vựng tương đồng
 
@@ -244,54 +246,54 @@ Lần sau có ai hỏi bạn "Đài Loan thực sự thuộc về đâu", bạn 
 
 ## Tài liệu tham khảo
 
-[^1]: [Bí ẩn của nền văn hóa tiền sử Đài Loan: Ngọc Đài Loan lan truyền qua hàng ngàn năm trên toàn biển](https://scitechvista.nat.gov.tw/Article/c000003/detail?ID=845b2ab5-17b8-497b-ad62-81697ae03d0e) — Bài viết chuyên đề trên Science Tech Vistas của Bộ Khoa học và Công nghệ, ghi lại cách ngọc Phú Điền từ Hoa Liên lưu thông qua thương mại xuyên biển đến các di chỉ tiền sử ở Luzon, Palawan, Việt Nam, Campuchia, Thái Lan.
+[^1]: [Bí ẩn văn hóa tiền sử Đài Loan: Ngọc Đài Loan truyền bá vạn dặm qua hàng thiên niên kỷ](https://scitechvista.nat.gov.tw/Article/c000003/detail?ID=845b2ab5-17b8-497b-ad62-81697ae03d0e) — Bài viết chuyên sâu từ Vườn khoa học Công nghệ (Ministry of Science and Technology), ghi chép về việc ngọc vùng Fengtian, Hualien đã thông qua thương mại đường biển lưu thông đến các di chỉ tiền sử tại Luzon, Palawan, Việt Nam, Campuchia và Thái Lan như thế nào.
 
-[^2]: [Di chỉ Bắc Nam](https://zh.wikipedia.org/zh-tw/%E5%8D%91%E5%8D%97%E9%81%BA%E5%9D%80) — Mục Wikipedia về di chỉ Bắc Nam, ghi lại nơi cư trú tiền sử được phát hiện do công trình xây dựng ga tàu Đài Đông vào năm 1980, với niên đại từ 5.300-2.300 năm trước.
+[^2]: [Di chỉ Beinan](https://zh.wikipedia.org/zh-tw/%E5%8D%91%E5%8D%97%E9%81%BA%E5%9D%80) — Mục từ Wikipedia về Di chỉ Beinan, ghi chép về khu định cư tiền sử được phát hiện tình cờ trong quá trình thi công đường sắt Nam Hồi năm 1980, có niên đại cách đây 5300-2300 năm.
 
-[^3]: [Điểm sáng triển lãm di chỉ Bắc Nam: "Thương mại biển ngọc Đài Loan" khai mạc](https://www.moc.gov.tw/News_Content.aspx?n=105&s=230332) — Thông cáo báo chí năm 2024 của Bộ Văn hóa, công bố khởi động đơn vị triển lãm mới "Thương mại biển ngọc Đài Loan" tại công viên di chỉ Bắc Nam.
+[^3]: [Điểm nhấn trưng bày mới tại Di chỉ Beinan: Khởi động chuyên đề "Giao thương hàng hải của Ngọc Đài Loan"](https://www.moc.gov.tw/News_Content.aspx?n=105&s=230332) — Thông cáo báo chí năm 2024 của Bộ Văn hóa, công bố việc triển khai đơn vị trưng bày mới "Giao thương hàng hải của Ngọc Đài Loan" tại Công viên Di chỉ Beinan.
 
-[^4]: [Ngọc "Đài Loan" xuất khẩu ra nước ngoài](https://scitechvista.nat.gov.tw/Article/C000003/detail?ID=3255f20d-b29a-476b-9c3f-d3630ea41eca) — Bài viết chuyên đề trên Science Tech Vistas, chi tiết mô tả các xưởng chế biến ngọc tiền sử khai quật ở di chỉ Tây A Cơ (Cigan), Hoa Liên và kỹ thuật chế tác.
+[^4]: ["Ngọc Đài Loan" xuất khẩu ra nước ngoài](https://scitechvista.nat.gov.tw/Article/C000003/detail?ID=3255f20d-b29a-476b-9c3f-d3630ea41eca) — Bài viết chuyên sâu từ Vườn khoa học Công nghệ, trình bày chi tiết về các cụm xưởng chế tác và kỹ nghệ sản xuất đồ ngọc tiền sử được khai quật tại di chỉ Cigan, Hualien.
 
-[^5]: [The Batanes Archaeological Project and the "Out of Taiwan" Hypothesis for Austronesian Dispersal](https://www.airitilibrary.com/Article/Detail/18151701-200506-201208310020-201208310020-1-33) — Bellwood, Peter, & Dizon, Eusebio. (2005). _Journal of Austronesian Studies_, 1(1), 1-33. — Kết quả dự án khảo cổ hợp tác 2002-2005 của Đại học Quốc gia Úc, Bảo tàng Quốc gia Philippines, Đại học Philippines.
+[^5]: [The Batanes Archaeological Project and the "Out of Taiwan" Hypothesis for Austronesian Dispersal](https://www.airitilibrary.com/Article/Detail/18151701-200506-201208310020-201208310020-1-33) — Bellwood, Peter, & Dizon, Eusebio. (2005). _Journal of Austronesian Studies_, 1(1), 1-33. — Kết quả của dự án khảo cổ hợp tác giữa Đại học Quốc gia Australia, Bảo tàng Quốc gia Philippines và Đại học Philippines trong giai đoạn 2002-2005.
 
-[^6]: [Lapita culture - Wikipedia](https://en.wikipedia.org/wiki/Lapita_culture) — Sự tương tự cao độ giữa gốm Lapita và gốm của di chỉ Nagsabaran ở Luzon, là một trong những bằng chứng văn hóa vật chất của "học thuyết xuất Đài".
+[^6]: [Lapita culture - Wikipedia](https://en.wikipedia.org/wiki/Lapita_culture) — Sự tương đồng cao giữa đồ gốm Lapita và đồ gốm tại di chỉ Nagsabaran, Luzon là một trong những bằng chứng văn hóa vật chất của "Thuyết xuất phát từ Đài Loan".
 
-[^7]: [Lapita culture | Polynesia, Melanesia, Micronesia](https://www.britannica.com/topic/Lapita-culture) — Mục Britannica về nền văn hóa Lapita (từ năm 1600 đến 500 TCN), đường truyền bá của nền văn hóa.
+[^7]: [Lapita culture | Polynesia, Melanesia, Micronesia](https://www.britannica.com/topic/Lapita-culture) — Mục từ tổng hợp của Britannica về lộ trình khuếch tán của văn hóa Lapita (từ năm 1600 TCN đến 500 TCN).
 
-[^8]: [The Austronesian Homeland: A Linguistic Perspective](https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/8ecf4de6-7b99-40aa-b5fe-0d829b68998c/content) — Blust, Robert. (1984). _Asian Perspectives_, 26(1), 45-67. — Bài báo tiên phong của Blust đặt nền tảng ngôn ngữ học cho "học thuyết xuất Đài" của ngôn ngữ Nam Đảo.
+[^8]: [The Austronesian Homeland: A Linguistic Perspective](https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/8ecf4de6-7b99-40aa-b5fe-0d829b68998c/content) — Blust, Robert. (1984). _Asian Perspectives_, 26(1), 45-67. — Luận văn mang tính khai phá của Blust nhằm đặt nền móng ngôn ngữ học cho "Thuyết xuất phát từ Đài Loan" của ngữ hệ Nam Đảo.
 
-[^9]: [An Interview with Professor Robert Blust: "Austronesian Expansion Out of Taiwan is One of the Greatest Chapters in Human History"](https://taiwaninsight.org/2022/02/23/an-interview-with-professor-robert-blust-austronesian-expansion-out-of-taiwan-is-one-of-the-greatest-chapters-in-human-history/) — Cuộc phỏng vấn năm 2022 trên Taiwan Insight, Blust lý giải trực tiếp logic suy luận của mình về chín trong mười chi nhánh chính của ngôn ngữ Nam Đảo ở Đài Loan.
+[^9]: [Phỏng vấn Giáo sư Robert Blust: "Sự bành trướng của người Nam Đảo từ Đài Loan là một trong những chương vĩ đại nhất trong lịch sử nhân loại"](https://taiwaninsight.org/2022/02/23/an-interview-with-professor-robert-blust-austronesian-expansion-out-of-taiwan-is-one-of-the-greatest-chapters-in-human-history/) — Bài phỏng vấn năm 2022 trên Taiwan Insight, trong đó ông Blust trực tiếp giải thích logic lập luận về việc 9 trong số 10 nhánh ngữ hệ Nam Đảo có nguồn gốc từ Đài Loan.
 
-[^10]: Bellwood, Peter. (2017). _First Islanders: Prehistory and Human Migration in Island Southeast Asia_. Wiley-Blackwell. — Tác phẩm đại diện có tính hệ thống của Bellwood lập luận "xuất Đài học" từ góc độ văn hóa vật chất khảo cổ.
+[^10]: Bellwood, Peter. (2017). _First Islanders: Prehistory and Human Migration in Island Southeast Asia_. Wiley-Blackwell. — Tác phẩm tiêu biểu của Bellwood lập luận một cách hệ thống về "Thuyết xuất phát từ Đài Loan" dưới góc độ văn hóa vật chất khảo cổ.
 
-[^11]: [Language Phylogenies Reveal Expansion Pulses and Pauses in Pacific Settlement](https://pmc.ncbi.nlm.nih.gov/articles/PMC2835747/) — Gray, R. D., Drummond, A. J., & Greenhill, S. J. (2009). _Science_, 323(5913), 479-483. — Sử dụng phương pháp phát sinh loài Bayesian để phân tích dữ liệu từ vựng của 400 ngôn ngữ Nam Đảo, tính toán thời gian mở rộng từ Đài Loan vào khoảng 5.230 năm trước.
+[^11]: [Language Phylogenies Reveal Expansion Pulses and Pauses in Pacific Settlement](https://pmc.ncbi.nlm.nih.gov/articles/PMC2835747/) — Gray, R. D., Drummond, A. J., & Greenhill, S. J. (2009). _Science_, 323(5913), 479-483. — Sử dụng phương pháp phát sinh loài Bayes để phân tích 400 ngôn ngữ Nam Đảo, đo lường thời gian khuếch tán từ Đài Loan là khoảng 5230 năm trước.
 
-[^12]: [DNA thực vật thực sự ghi chép lịch sử! Cây Artocarpus kể lên lịch sử di cư của ngôn ngữ Nam Đảo](https://research.sinica.edu.tw/paper-mulberry-dna-austronesian-history-chung-kuo-fang/) — Phỏng vấn chuyên đề trên Research Sharing của Viện Nghiên cứu Academia Sinica, giới thiệu nghiên cứu của nhóm Chung Quốc Phương hỗ trợ "xuất Đài học" từ góc độ địa lý sinh học thông qua DNA cây Artocarpus.
+[^12]: [DNA thực vật ghi lại lịch sử! Lịch sử di cư của ngữ hệ Nam Đảo qua cây dâu tằm](https://research.sinica.edu.tw/paper-mulberry-dna-austronesian-history-chung-kuo-fang/) — Phỏng vấn chuyên sâu trên Nghiên cứu có vật chất (Research Matters) của Academia Sinica, giới thiệu nghiên cứu của nhóm Chung Kuo-fang sử dụng DNA cây dâu tằm để ủng hộ "Thuyết xuất phát từ Đài Loan" dưới góc độ địa lý sinh học.
 
-[^13]: [Nusantara (term) - Wikipedia](https://en.wikipedia.org/wiki/Nusantara_(term) — ) — Giải thích từ nguyên hoàn chỉnh của Nusantara: tiếng Javanese cổ _nusa_ (đảo) + từ vay mượn Phạn _antara_ (giữa)
+[^13]: [Nusantara (thuật ngữ) - Wikipedia](<https://en.wikipedia.org/wiki/Nusantara_(term)>) — Khảo cứu đầy đủ về nguồn gốc từ Nusantara: tiếng Java cổ _nusa_ (đảo) + từ mượn tiếng Phạn _antara_ (giữa).
 
-[^14]: [Majapahit - Wikipedia](https://en.wikipedia.org/wiki/Majapahit) — Mục Wikipedia về Đế chế Majapahit ở Java phía đông thế kỷ 14, bao gồm bối cảnh lịch sử của "Sơ thệ Palapa" của Gajah Mada năm 1336.
+[^14]: [Majapahit - Wikipedia](https://en.wikipedia.org/wiki/Majapahit) — Mục từ về Đế chế Majapahit ở Đông Java thế kỷ 14, bao gồm bối cảnh lịch sử của "Lời thề Palapa" của Gajah Mada năm 1336.
 
-[^15]: [Nusantara and its changing meanings](https://en.antaranews.com/news/211097/nusantara-and-its-changing-meanings) — Báo cáo của tờ thông tấn Indonesia Antara về quá trình tiến hóa của từ Nusantara từ khái niệm lãnh thổ thế kỷ 14 đến tên thủ đô mới năm 2022.
+[^15]: [Nusantara và những ý nghĩa thay đổi](https://en.antaranews.com/news/211097/nusantara-and-its-changing-meanings) — Báo cáo từ Thông tấn xã Indonesia (Antara) về quá trình tiến hóa của thuật ngữ Nusantara từ khái niệm lãnh thổ thế kỷ 14 đến tên gọi thủ đô mới vào năm 2022.
 
-[^16]: [Dân tộc Tao - Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%81%94%E6%82%9F%E6%97%8F) — Mục Wikipedia về dân tộc Tao, ghi lại mức độ tương tự từ vựng khoảng 60% giữa ngôn ngữ Tao và ngôn ngữ cư dân đảo Batanes phía bắc.
+[^16]: [Người Tao (Yami) - Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%81%94%E6%82%9F%E6%97%8F) — Mục từ Wikipedia về người Tao, ghi chép về sự tương đồng khoảng 60% giữa ngôn ngữ Tao và ngôn ngữ của cư dân đảo Bắc Batan.
 
-[^17]: [Câu chuyện giữa Lam Tự và đảo Batanes](https://ihc.cip.gov.tw/EJournal/EJournalCat/78) — Chuyên đề của Ủy ban Tài liệu Dân tộc bản địa, ghi lại hiện vật khảo cổ khai quật ở Lam Tự như vòng tai bằng ngọc, hũ gốm, hạt thủy tinh tương ứng với di chỉ cùng thời ở Batanes.
+[^17]: [Câu chuyện giữa Lanyu và đảo Batan](https://ihc.cip.gov.tw/EJournal/EJournalCat/78) — Chuyên đề của Hội Tài liệu Dân tộc thiểu số, ghi chép về sự tương ứng trong văn hóa vật chất giữa đồ ngọc, bình gốm, hạt thủy tinh khai quật tại Lanyu với các di chỉ cùng thời kỳ tại Batan.
 
-[^18]: [Tổ tiên dân tộc Tao bị chôn vùi ở Philippines hàng ngàn năm, hậu duệ du hành đến Batanes theo dõi dấu chân](https://www.thenewslens.com/article/121265) — Báo cáo của The News Lens về các hoạt động tìm gốc của dân tộc Tao đến Batanes do từ những năm 1990 trở đi.
+[^18]: [Tổ tiên người Tao từng qua đời tại Philippines từ ngàn năm trước, hậu duệ tìm về dấu vết tại đảo Batan](https://www.thenewslens.com/article/121265) — Báo cáo của The News Cop về các hoạt động theo đoàn của người Tao đến tìm về cội nguồn tại Batan nhiều lần kể từ thập niên 1990.
 
-[^19]: [Dân tộc Nam Đảo - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%8D%97%E5%B2%9B%E6%B0%91%E6%97%8F) — Mục Wikipedia về dân tộc Nam Đảo, ngôn ngữ Tao thuộc họ Malayo-Polynesian (Malayo-Polynesian), quan hệ với chín chi nhánh Formosan của Đảo Chính Đài Loan xa hơn.
+[^19]: [Dân tộc Nam Đảo - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%8D%97%E5%B2%9B%E6%B0%91%E6%97%8F) — Mục từ ngữ hệ Nam Đảo, ngôn ngữ Tao thuộc nhóm Malayo-Polynesian, có quan hệ xa hơn với 9 nhánh Formosan tại đảo chính Đài Loan.
 
-[^20]: [Hermeneutics of Nusantara - Giải thích học hải đảo](https://www.heath.tw/nml-issue/hermeneutics-of-nusantara/) — Số 34 của tạp chí Số Hóa Hoang Vu (No Man's Land, NML) tháng 9 năm 2017, ghi chép phòng biên tập của Trịnh Văn Kỳ khi chính thức khởi động dự án "Kho lưu trữ Nusantara".
+[^20]: [Hermeneutics of Nusantara: Thông diễn học về quần đảo](https://www.heath.tw/nml-issue/hermeneutics-of-nusantara/) — Chuyên đề số 34 của Digital Wasteland (No Man's Land, NML) tháng 9 năm 2017, ghi chép biên tập về việc Trịnh Văn Kỳ chính thức khởi động dự án "Cơ sở dữ liệu quần đảo".
 
-[^21]: [Tài liệu đầy đủ số 34 của No Man's Land](https://www.heath.tw/nml-issue/hermeneutics-of-nusantara/) — Trịnh Văn Kỳ, 〈Phòng biên tập Hermeneutics of Nusantara〉, 《Số Hóa Hoang Vu》 số 34, tháng 9 năm 2017. Xem.
+[^21]: [Toàn văn tài liệu Digital Wasteland số 34](https://www.heath.tw/nml-issue/hermeneutics-of-nusantara/) — Trịnh Văn Kỳ, 〈Thông điệp biên tập Hermeneutics of Nusantara〉, 《Digital Wasteland》 số 34, tháng 9 năm 2017. Xem thêm.
 
-[^22]: Uy Nguyệt Bình, 〈Kinh nghiệm Okinawa — quan hệ giữa trí thức và nhân dân〉, được Trịnh Văn Kỳ trích dẫn trong 〈Phòng biên tập Hermeneutics of Nusantara〉, 《Số Hóa Hoang Vu》 số 34.
+[^22]: Ngụy Nguyệt Bình, 〈Kinh nghiệm Okinawa — Mối quan hệ giữa trí thức và quần chúng〉, được Trịnh Văn Kỳ trích dẫn trong 〈Thông điệp biên tập Hermeneutics of Nusantara〉, 《Digital Wasteland》 số 34.
 
-[^23]: Anderson, Benedict. (2016). _A Life Beyond Boundaries: A Memoir_. Verso. — Tự truyện của Benedict Anderson, đề xuất phương pháp luận "so sánh như chiến lược diễn ngôn", Trịnh Văn Kỳ trích dẫn trong số 34 của NML.
+[^23]: Anderson, Benedict. (2016). _A Life Beyond Boundaries: A Memoir_. Verso. — Hồi ký của Benedict Anderson, đưa ra luận điểm phương pháp luận về "so sánh như một chiến lược diễn ngôn", được Trịnh Văn Kỳ trích dẫn trong NML số 34.
 
-[^24]: [Ngoại giao Nam Đảo của Đài Loan](https://www.iia.ndhu.edu.tw/%E5%8F%B0%E7%81%A3%E7%9A%84%E5%8D%97%E5%B3%B6%E6%B0%91%E6%97%8F%E5%A4%96%E4%BA%A4/) — Trung tâm Vấn đề Quốc tế Dân tộc bản địa Đại học Quốc gia Đông Hoa giới thiệu quá trình Đài Loan tham gia Diễn đàn Quần đảo Thái Bình Dương (PIF) kể từ năm 1993.
+[^24]: [Ngoại giao dân tộc Nam Đảo của Đài Loan](https://www.iia.ndhu.edu.tw/%E5%8F%B0%E7%81%A3%E7%9A%84%E5%8D%97%E5%B3%B6%E6%B0%91%E6%97%8F%E5%A4%96%E4%BA%A4/) — Giới thiệu từ Trung tâm Quốc tế về các vấn đề Dân tộc thiểu số thuộc Đại học Quốc gia Đông Hoa về quá trình Đài Loan tham gia Diễn đàn các quốc đảo Thái Bình Dương (PIF) từ năm 1993.
 
-[^25]: [〈Lập kế hoạch và Chiến lược để Áp dụng Tư duy Ngoại giao Tổng hợp Kết hợp Các Quốc gia Họ ngôn ngữ Nam Đảo Phát huy Ngoại giao Giá trị〉 Báo cáo Chuyên đề](https://ppg.ly.gov.tw/ppg/SittingAttachment/download/2025050167/PPGB60500_4100_20723_1140507_0002.pdf) — Cộng hòa Trung Hoa Bộ Ngoại giao, Viện Lập pháp Khóa thứ 11 Kỳ 3 Ủy ban Ngoại giao và Quốc phòng, 7 tháng 5 năm 2025.
+[^25]: [〈Báo cáo chuyên đề: Vận dụng ý tưởng ngoại giao tổng hợp kết hợp với các quốc gia ngữ hệ Nam Đảo nhằm thực hiện tầm nhìn ngoại giao giá trị〉](https://ppg.ly.gov.tw/ppg/SittingAttachment/download/2025050167/PPGB60500_4100_20723_1140507_0002.pdf) — Bộ Ngoại giao Trung Hoa Dân Quốc, Ủy ban Ngoại giao và Quốc phòng, Khóa 11, Kỳ họp thứ 3, ngày 7 tháng 5 năm 2025.
 
-[^26]: [Bảo tàng Văn hóa Tiền sử Quốc gia Đài Loan quay trở lại! Từ góc độ tuyển chọn để sắp xếp lại các vật thể kiến trúc](https://www.wowlavie.com/article/ae2300565) — Báo cáo của tạp chí La Vie năm 2023, ngoài ra Bộ Khang Lạc của Bảo tàng Tiền sử đã hoàn thành xây dựng lại, mở cửa trở lại tháng 5.
+[^26]: [Bảo tàng Văn hóa Tiền sử Quốc gia Đài Loan trở lại! Sắp xếp lại các vật thể kiến trúc từ góc nhìn giám tuyển](https://www.wowlavie.com/article/ae2300565) — Báo cáo của tạp chí La Vie năm 2023, về việc tòa nhà chính của Bảo tàng Tiền sử hoàn tất tái thiết và mở cửa trở lại vào tháng 5.

@@ -7,14 +7,15 @@ tags: ['History', 'Nhà Thanh', 'Mở cảng thương mại', 'Sự kiện Bồ 
 subcategory: '殖民與帝國'
 author: 'Taiwan.md Contributors'
 featured: false
-readingTime: 8
 lastVerified: 2026-03-19
 lastHumanReview: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/清治時期.md'
-sourceCommitSha: '18157ab5'
-sourceContentHash: 'sha256:2b06637d3b9719f29cf4533ad811213001961a07b3ae6b91983b7da3e718c047'
-sourceBodyHash: 'sha256:9b0798be1ffdd5e461918ef080b1bf8296b11a4941d83a16d6cd3be29a4e62cd'
-translatedAt: '2026-07-31T00:00:00Z'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:4e4c9423a96b1316'
+sourceBodyHash: 'sha256:74eb6966230843b2'
+translatedAt: '2026-11-18T23:54:03.713001+00:00'
 ---
 
 # Thời kỳ Thanh trị
@@ -69,15 +70,15 @@ Những cuộc kháng cự này trong lịch sử Đài Loan sau này được d
 
 ## Tài liệu tham khảo
 
-[^1]: [Thời kỳ Thanh trị Đài Loan — Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E6%B8%85%E6%B2%BB%E6%99%82%E6%9C%9F) — Tổng quan giai đoạn Thanh trị Đài Loan, bao gồm hệ thống cai trị, sự kiện năm chính và chính sách từng giai đoạn.
+[^1]: [Thời kỳ Thanh trị Taiwan — Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E6%B8%85%E6%B2%BB%E6%99%82%E6%9C%9F) — Tổng quan thời kỳ Thanh trị Taiwan, bao gồm thể chế thống trị, niên biểu các sự kiện chính và chính sách các giai đoạn.
 
-[^2]: [Lưu Minh Truyền — Wikipedia](https://zh.wikipedia.org/wiki/%E5%8A%89%E9%8A%98%E5%82%B3) — Tiểu sử và kỷ lục xây dựng hiện đại hoá lập tỉnh của Lưu Minh Truyền, tổng đốc Đài Loan thời kỳ đầu.
+[^2]: [Lưu Minh Truyền — Wikipedia](https://zh.wikipedia.org/wiki/%E5%8A%89%E9%8A%98%E5%82%B3) — Tiểu sử và ghi chép về công trình hiện đại hóa xây dựng tỉnh của Lưu Minh Truyền, vị tuần phủ Taiwan đầu tiên.
 
-[^3]: [Chiến tranh Ất Vị — Wikipedia](https://zh.wikipedia.org/wiki/%E4%B9%99%E6%9C%AA%E6%88%B0%E7%88%AD) — Toàn bộ quá trình kháng cự của Nước Dân chủ Đài Loan năm 1895 chống lại sự tiếp quản của Nhật Bản, kể cả chi tiết trốn chạy của Đường Cảnh Tủng.
+[^3]: [Chiến tranh Ất Mùi — Wikipedia](https://zh.wikipedia.org/wiki/%E4%B9%99%E6%9C%AA%E6%88%B0%E7%88%AD) — Toàn trình nước Cộng hòa Dân chủ Taiwan kháng cự việc Nhật Bản tiếp nhận năm 1895, bao gồm cả quá trình Đường Cảnh Tùng trốn thoát.
 
-[^4]: [Sự kiện Tàu La Mẫu — Wikipedia](https://zh.wikipedia.org/wiki/%E7%BE%85%E5%A6%B9%E8%99%9F%E4%BA%8B%E4%BB%B6) — Sự kiện Rover tháng 3 năm 1867, Minh ước Nam Nạp và chi tiết đàm phán của Lý Tiên Đắc.
+[^4]: [Sự kiện tàu Rover — Wikipedia](https://zh.wikipedia.org/wiki/%E7%BE%85%E5%A6%B9%E8%99%9F%E4%BA%8B%E4%BB%B6) — Sự kiện tàu Rover năm 1867, hiệp ước Nam Giáp và toàn trình đàm phán của Lê Tiên Đức.
 
-[^5]: [Sự kiện Thi Cửu Đoàn — Wikipedia](https://zh.wikipedia.org/wiki/%E6%96%BD%E4%B9%9D%E7%B7%9E%E4%BA%8B%E4%BB%B6) — Cuộc nổi dậy ở Chương Hóa năm 1888 do Cải cách Thanh Phú khơi mào, là cuộc nổi dậy kháng thuế lớn nhất thời cuối Thanh Đài Loan.
+[^5]: [Sự kiện Thi Cửu Đảm — Wikipedia](https://zh.wikipedia.org/wiki/%E6%96%BD%E4%B9%9D%E7%B7%9E%E4%BA%8B%E4%BB%B6) — Dân biến tại Tràng Hoa năm 1888 do thuế thanh gây ra, là sự kiện kháng thuế lớn nhất tại Taiwan cuối triều Thanh.
 
 ## Giải thích thuật ngữ: Thanh trị vs. Thanh lãnh
 
