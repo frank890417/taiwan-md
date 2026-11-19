@@ -10,6 +10,7 @@ import AboutTrust from '../components/about/AboutTrust.astro';
 import AboutMilestones from '../components/about/AboutMilestones.astro';
 import type { TimelineEntry } from '../components/about/AboutMilestones.astro';
 import { useAboutStrings } from '../components/about/strings';
+import type { TranslationKey } from '../i18n/utils';
 import {
   getLangFromUrl,
   useTranslations,
@@ -164,23 +165,42 @@ const hrefGraph = tp('/graph/');
 const hrefSemiont = lang === 'en' ? '/en/semiont/' : '/semiont/';
 const hrefNewsroom = '/semiont/newsroom/';
 
-// 時間軸全部條目（順序＝下面完整時間軸的順序）。milestone: true 的預設顯示成
-// 里程碑卡；其餘只在比例軸上是一條細線。挑選原則：對外看得見的事。
+// 時間軸全部條目（順序＝頁面上由上往下的順序），27 則全部直接排出來
+// （2026-11-19 v3，哲宇：不要再讓讀者額外展開）。milestone: true 的圓點比較大、
+// 標題比較重，在比例軸上也是圓點；挑選原則：對外看得見的事。
+// body 寫這一則的本文由哪些子鍵組成（沒寫就是 desc.html），press 是附帶的媒體報導。
+const pressItem = (id: string, href: string) => ({
+  href,
+  source: t(`about.press.${id}` as TranslationKey),
+  title: t(`about.press.${id}.title` as TranslationKey),
+});
 const timelineEntries: TimelineEntry[] = [
-  { key: '2024-2025', date: null },
-  { key: '2026-02-03', date: null },
-  { key: '2026-03-11', date: '2026-03-11' },
+  { key: '2024-2025', date: null, body: ['desc'] },
+  { key: '2026-02-03', date: null, body: ['p1', 'p2.html'] },
+  { key: '2026-03-11', date: '2026-03-11', body: ['p1', 'p2.html'] },
   {
     key: '2026-03-17',
     date: '2026-03-17',
     milestone: true,
+    body: ['p1', ['li1', 'li2', 'li3', 'li4', 'li5']],
     related: {
       href: '/about/緣起故事',
       label: s('about.milestones.related.origin'),
     },
   },
-  { key: '2026-03-18-1', date: '2026-03-18' },
-  { key: '2026-03-18-2', date: '2026-03-18', milestone: true },
+  { key: '2026-03-18-1', date: '2026-03-18', body: ['p1.html'] },
+  {
+    key: '2026-03-18-2',
+    date: '2026-03-18',
+    milestone: true,
+    press: [
+      pressItem('cna', 'https://www.cna.com.tw/news/ait/202603195002.aspx'),
+      pressItem('inside', 'https://www.inside.com.tw/article/40877-taiwan-md'),
+      pressItem('abmedia', 'https://abmedia.io/taiwan-md-github-opensource'),
+      pressItem('ltn', 'https://art.ltn.com.tw/article/breakingnews/5374934'),
+      pressItem('ftnn', 'https://www.ftnn.com.tw/news/531960'),
+    ],
+  },
   { key: '2026-03-19', date: '2026-03-19' },
   { key: '2026-03-20', date: '2026-03-20' },
   { key: '2026-03-22', date: '2026-03-22' },
@@ -470,10 +490,12 @@ const today = new Date().toISOString().slice(0, 10);
                   target="_blank"
                   rel="noopener noreferrer"
                   class="contributor-card"
+                  title={c.login}
                 >
+                  {/* 名字由下面的文字念出來，頭像不重複念一次 */}
                   <img
                     src={c.avatarUrl}
-                    alt={c.login}
+                    alt=""
                     class="contributor-avatar"
                     loading="lazy"
                   />
@@ -525,7 +547,9 @@ const today = new Date().toISOString().slice(0, 10);
       </div>
     </section>
 
-    {/* 6 誕生：里程碑時間線＋完整時間軸（收合，內容留在原始碼裡） */}
+    {
+      /* 6 誕生：比例軸＋完整時間軸（27 則全部直接排出來，見 AboutMilestones） */
+    }
     <section
       id="origin"
       class="ab-sec ab-sec--origin"
@@ -536,377 +560,6 @@ const today = new Date().toISOString().slice(0, 10);
         <p class="section-subtitle">{t('about.origin.subtitle')}</p>
 
         <AboutMilestones lang={lang} entries={timelineEntries} today={today} />
-
-        <details class="timeline-full" id="timeline-full">
-          <summary
-            class="timeline-full__summary"
-            data-ga-section="about_origin"
-            data-ga-label="timeline_toggle"
-          >
-            <span class="timeline-full__label" dir="auto">
-              {
-                s('about.timeline.full.summary', {
-                  count: timelineEntries.length,
-                })
-              }
-            </span>
-            <span class="timeline-full__chevron" aria-hidden="true"></span>
-          </summary>
-
-          {/* Timeline：27 則原樣，只多了每一則的 id */}
-          <div class="timeline">
-            <div class="timeline-item" id="tl-2024-2025">
-              <div class="timeline-marker"></div>
-              <div class="timeline-date">
-                {t('about.timeline.2024-2025.date')}
-              </div>
-              <div class="timeline-content">
-                <h3>{t('about.timeline.2024-2025.title')}</h3>
-                <p>{t('about.timeline.2024-2025.desc')}</p>
-              </div>
-            </div>
-
-            <div class="timeline-item" id="tl-2026-02-03">
-              <div class="timeline-marker"></div>
-              <div class="timeline-date">
-                {t('about.timeline.2026-02-03.date')}
-              </div>
-              <div class="timeline-content">
-                <h3>{t('about.timeline.2026-02-03.title')}</h3>
-                <p>{t('about.timeline.2026-02-03.p1')}</p>
-                <p set:html={t('about.timeline.2026-02-03.p2.html')} />
-              </div>
-            </div>
-
-            <div class="timeline-item" id="tl-2026-03-11">
-              <div class="timeline-marker"></div>
-              <div class="timeline-date">
-                {t('about.timeline.2026-03-11.date')}
-              </div>
-              <div class="timeline-content">
-                <h3>{t('about.timeline.2026-03-11.title')}</h3>
-                <p>{t('about.timeline.2026-03-11.p1')}</p>
-                <p set:html={t('about.timeline.2026-03-11.p2.html')} />
-              </div>
-            </div>
-
-            <div class="timeline-item" id="tl-2026-03-17">
-              <div class="timeline-marker"></div>
-              <div class="timeline-date">
-                {t('about.timeline.2026-03-17.date')}
-              </div>
-              <div class="timeline-content">
-                <h3>{t('about.timeline.2026-03-17.title')}</h3>
-                <p>{t('about.timeline.2026-03-17.p1')}</p>
-                <ul class="timeline-list">
-                  <li>{t('about.timeline.2026-03-17.li1')}</li>
-                  <li>{t('about.timeline.2026-03-17.li2')}</li>
-                  <li>{t('about.timeline.2026-03-17.li3')}</li>
-                  <li>{t('about.timeline.2026-03-17.li4')}</li>
-                  <li>{t('about.timeline.2026-03-17.li5')}</li>
-                </ul>
-              </div>
-            </div>
-
-            <div class="timeline-item" id="tl-2026-03-18-1">
-              <div class="timeline-marker"></div>
-              <div class="timeline-date">
-                {t('about.timeline.2026-03-18-1.date')}
-              </div>
-              <div class="timeline-content">
-                <h3>{t('about.timeline.2026-03-18-1.title')}</h3>
-                <p set:html={t('about.timeline.2026-03-18-1.p1.html')} />
-              </div>
-            </div>
-
-            <div class="timeline-item" id="tl-2026-03-18-2">
-              <div class="timeline-marker"></div>
-              <div class="timeline-date">
-                {t('about.timeline.2026-03-18-2.date')}
-              </div>
-              <div class="timeline-content">
-                <h3>{t('about.timeline.2026-03-18-2.title')}</h3>
-                <p set:html={t('about.timeline.2026-03-18-2.desc.html')} />
-                {/* 整合媒體報導到時間軸內 */}
-                <div class="timeline-press-grid">
-                  <a
-                    href="https://www.cna.com.tw/news/ait/202603195002.aspx"
-                    target="_blank"
-                    class="press-card-mini"
-                  >
-                    <div class="press-source">{t('about.press.cna')}</div>
-                    <h4 class="press-title">{t('about.press.cna.title')}</h4>
-                  </a>
-                  <a
-                    href="https://www.inside.com.tw/article/40877-taiwan-md"
-                    target="_blank"
-                    class="press-card-mini"
-                  >
-                    <div class="press-source">{t('about.press.inside')}</div>
-                    <h4 class="press-title">{t('about.press.inside.title')}</h4>
-                  </a>
-                  <a
-                    href="https://abmedia.io/taiwan-md-github-opensource"
-                    target="_blank"
-                    class="press-card-mini"
-                  >
-                    <div class="press-source">{t('about.press.abmedia')}</div>
-                    <h4 class="press-title">
-                      {t('about.press.abmedia.title')}
-                    </h4>
-                  </a>
-                  <a
-                    href="https://art.ltn.com.tw/article/breakingnews/5374934"
-                    target="_blank"
-                    class="press-card-mini"
-                  >
-                    <div class="press-source">{t('about.press.ltn')}</div>
-                    <h4 class="press-title">{t('about.press.ltn.title')}</h4>
-                  </a>
-                  <a
-                    href="https://www.ftnn.com.tw/news/531960"
-                    target="_blank"
-                    class="press-card-mini"
-                  >
-                    <div class="press-source">{t('about.press.ftnn')}</div>
-                    <h4 class="press-title">{t('about.press.ftnn.title')}</h4>
-                  </a>
-                </div>
-              </div>
-            </div>
-
-            <div class="timeline-item" id="tl-2026-03-19">
-              <div class="timeline-marker"></div>
-              <div class="timeline-date">
-                {t('about.timeline.2026-03-19.date')}
-              </div>
-              <div class="timeline-content">
-                <h3>{t('about.timeline.2026-03-19.title')}</h3>
-                <p set:html={t('about.timeline.2026-03-19.desc.html')} />
-              </div>
-            </div>
-
-            <div class="timeline-item" id="tl-2026-03-20">
-              <div class="timeline-marker"></div>
-              <div class="timeline-date">
-                {t('about.timeline.2026-03-20.date')}
-              </div>
-              <div class="timeline-content">
-                <h3>{t('about.timeline.2026-03-20.title')}</h3>
-                <p set:html={t('about.timeline.2026-03-20.desc.html')} />
-              </div>
-            </div>
-
-            <div class="timeline-item" id="tl-2026-03-22">
-              <div class="timeline-marker"></div>
-              <div class="timeline-date">
-                {t('about.timeline.2026-03-22.date')}
-              </div>
-              <div class="timeline-content">
-                <h3>{t('about.timeline.2026-03-22.title')}</h3>
-                <p set:html={t('about.timeline.2026-03-22.desc.html')} />
-              </div>
-            </div>
-
-            <div class="timeline-item" id="tl-2026-03-22b">
-              <div class="timeline-marker"></div>
-              <div class="timeline-date">
-                {t('about.timeline.2026-03-22b.date')}
-              </div>
-              <div class="timeline-content">
-                <h3>{t('about.timeline.2026-03-22b.title')}</h3>
-                <p set:html={t('about.timeline.2026-03-22b.desc.html')} />
-              </div>
-            </div>
-
-            <div class="timeline-item" id="tl-2026-03-24">
-              <div class="timeline-marker"></div>
-              <div class="timeline-date">
-                {t('about.timeline.2026-03-24.date')}
-              </div>
-              <div class="timeline-content">
-                <h3>{t('about.timeline.2026-03-24.title')}</h3>
-                <p set:html={t('about.timeline.2026-03-24.desc.html')} />
-              </div>
-            </div>
-
-            <div class="timeline-item" id="tl-2026-03-27">
-              <div class="timeline-marker"></div>
-              <div class="timeline-date">
-                {t('about.timeline.2026-03-27.date')}
-              </div>
-              <div class="timeline-content">
-                <h3>{t('about.timeline.2026-03-27.title')}</h3>
-                <p set:html={t('about.timeline.2026-03-27.desc.html')} />
-              </div>
-            </div>
-
-            <div class="timeline-item" id="tl-2026-03-31">
-              <div class="timeline-marker"></div>
-              <div class="timeline-date">
-                {t('about.timeline.2026-03-31.date')}
-              </div>
-              <div class="timeline-content">
-                <h3>{t('about.timeline.2026-03-31.title')}</h3>
-                <p set:html={t('about.timeline.2026-03-31.desc.html')} />
-              </div>
-            </div>
-
-            <div class="timeline-item" id="tl-2026-04-03">
-              <div class="timeline-marker"></div>
-              <div class="timeline-date">
-                {t('about.timeline.2026-04-03.date')}
-              </div>
-              <div class="timeline-content">
-                <h3>{t('about.timeline.2026-04-03.title')}</h3>
-                <p set:html={t('about.timeline.2026-04-03.desc.html')} />
-              </div>
-            </div>
-
-            <div class="timeline-item" id="tl-2026-04-08">
-              <div class="timeline-marker"></div>
-              <div class="timeline-date">
-                {t('about.timeline.2026-04-08.date')}
-              </div>
-              <div class="timeline-content">
-                <h3>{t('about.timeline.2026-04-08.title')}</h3>
-                <p set:html={t('about.timeline.2026-04-08.desc.html')} />
-              </div>
-            </div>
-
-            <div class="timeline-item" id="tl-2026-04-19">
-              <div class="timeline-marker"></div>
-              <div class="timeline-date">
-                {t('about.timeline.2026-04-19.date')}
-              </div>
-              <div class="timeline-content">
-                <h3>{t('about.timeline.2026-04-19.title')}</h3>
-                <p set:html={t('about.timeline.2026-04-19.desc.html')} />
-              </div>
-            </div>
-
-            <div class="timeline-item" id="tl-2026-05-02">
-              <div class="timeline-marker"></div>
-              <div class="timeline-date">
-                {t('about.timeline.2026-05-02.date')}
-              </div>
-              <div class="timeline-content">
-                <h3>{t('about.timeline.2026-05-02.title')}</h3>
-                <p set:html={t('about.timeline.2026-05-02.desc.html')} />
-              </div>
-            </div>
-
-            <div class="timeline-item" id="tl-2026-05-10">
-              <div class="timeline-marker"></div>
-              <div class="timeline-date">
-                {t('about.timeline.2026-05-10.date')}
-              </div>
-              <div class="timeline-content">
-                <h3>{t('about.timeline.2026-05-10.title')}</h3>
-                <p set:html={t('about.timeline.2026-05-10.desc.html')} />
-              </div>
-            </div>
-
-            <div class="timeline-item" id="tl-2026-05-19">
-              <div class="timeline-marker"></div>
-              <div class="timeline-date">
-                {t('about.timeline.2026-05-19.date')}
-              </div>
-              <div class="timeline-content">
-                <h3>{t('about.timeline.2026-05-19.title')}</h3>
-                <p set:html={t('about.timeline.2026-05-19.desc.html')} />
-              </div>
-            </div>
-
-            <div class="timeline-item" id="tl-2026-06-01">
-              <div class="timeline-marker"></div>
-              <div class="timeline-date">
-                {t('about.timeline.2026-06-01.date')}
-              </div>
-              <div class="timeline-content">
-                <h3>{t('about.timeline.2026-06-01.title')}</h3>
-                <p set:html={t('about.timeline.2026-06-01.desc.html')} />
-              </div>
-            </div>
-
-            <div class="timeline-item" id="tl-2026-06-13">
-              <div class="timeline-marker"></div>
-              <div class="timeline-date">
-                {t('about.timeline.2026-06-13.date')}
-              </div>
-              <div class="timeline-content">
-                <h3>{t('about.timeline.2026-06-13.title')}</h3>
-                <p set:html={t('about.timeline.2026-06-13.desc.html')} />
-              </div>
-            </div>
-
-            <div class="timeline-item" id="tl-2026-06-27">
-              <div class="timeline-marker"></div>
-              <div class="timeline-date">
-                {t('about.timeline.2026-06-27.date')}
-              </div>
-              <div class="timeline-content">
-                <h3>{t('about.timeline.2026-06-27.title')}</h3>
-                <p set:html={t('about.timeline.2026-06-27.desc.html')} />
-              </div>
-            </div>
-
-            <div class="timeline-item" id="tl-2026-07-16">
-              <div class="timeline-marker"></div>
-              <div class="timeline-date">
-                {t('about.timeline.2026-07-16.date')}
-              </div>
-              <div class="timeline-content">
-                <h3>{t('about.timeline.2026-07-16.title')}</h3>
-                <p set:html={t('about.timeline.2026-07-16.desc.html')} />
-              </div>
-            </div>
-
-            <div class="timeline-item" id="tl-2026-07-26">
-              <div class="timeline-marker"></div>
-              <div class="timeline-date">
-                {t('about.timeline.2026-07-26.date')}
-              </div>
-              <div class="timeline-content">
-                <h3>{t('about.timeline.2026-07-26.title')}</h3>
-                <p set:html={t('about.timeline.2026-07-26.desc.html')} />
-              </div>
-            </div>
-
-            <div class="timeline-item" id="tl-2026-08-11">
-              <div class="timeline-marker"></div>
-              <div class="timeline-date">
-                {t('about.timeline.2026-08-11.date')}
-              </div>
-              <div class="timeline-content">
-                <h3>{t('about.timeline.2026-08-11.title')}</h3>
-                <p set:html={t('about.timeline.2026-08-11.desc.html')} />
-              </div>
-            </div>
-
-            <div class="timeline-item" id="tl-2026-11-07">
-              <div class="timeline-marker"></div>
-              <div class="timeline-date">
-                {t('about.timeline.2026-11-07.date')}
-              </div>
-              <div class="timeline-content">
-                <h3>{t('about.timeline.2026-11-07.title')}</h3>
-                <p set:html={t('about.timeline.2026-11-07.desc.html')} />
-              </div>
-            </div>
-
-            <div class="timeline-item" id="tl-ongoing">
-              <div class="timeline-marker pulse"></div>
-              <div class="timeline-date">
-                {t('about.timeline.ongoing.date')}
-              </div>
-              <div class="timeline-content">
-                <h3>{t('about.timeline.ongoing.title')}</h3>
-                <p set:html={t('about.timeline.ongoing.desc.html')} />
-              </div>
-            </div>
-          </div>
-        </details>
       </div>
     </section>
 
@@ -1509,7 +1162,8 @@ const today = new Date().toISOString().slice(0, 10);
   //  1. 追蹤：每一區（data-ga-view）裡還沒標的連結，補上 data-ga-section＝那一區的名字。
   //     時間軸、常見問題等文字是 i18n 的 HTML 字串，連結沒辦法在樣板裡逐一加屬性。
   //     EventTracker 在點擊當下才讀屬性，所以載入後補就來得及。
-  //  2. 錨點：連到收合的 <details> 裡面（#tl-…）時，先展開再捲過去。
+  //  2. 錨點：連到收合的 <details> 裡面時，先展開再捲過去；帶著 #tl-…（時間軸的某一則）
+  //     進站時把那一則標出來，字體與圖片載入後再對一次位置。
   function initAboutPage() {
     const page = document.querySelector<HTMLElement>('.about-page');
     if (!page) return;
@@ -1546,9 +1200,9 @@ const today = new Date().toISOString().slice(0, 10);
         }
         d = d.parentElement ? d.parentElement.closest('details') : null;
       }
-      if (el.classList.contains('timeline-item')) {
+      if (el.classList.contains('tl-item')) {
         page
-          .querySelectorAll('.timeline-item.is-target')
+          .querySelectorAll('.tl-item.is-target')
           .forEach((x) => x.classList.remove('is-target'));
         el.classList.add('is-target');
       }
@@ -1739,151 +1393,6 @@ const today = new Date().toISOString().slice(0, 10);
   .vision-emphasis {
     font-weight: 500;
     color: #1f2937 !important;
-  }
-
-  /* Timeline */
-  .timeline {
-    position: relative;
-    margin: 3rem 0 4rem;
-    padding-left: 2rem;
-  }
-
-  .timeline::before {
-    content: '';
-    position: absolute;
-    left: 7px;
-    top: 8px;
-    bottom: 8px;
-    width: 2px;
-    background: linear-gradient(to bottom, #1e40af, #3b82f6, #93c5fd);
-  }
-
-  .timeline-item {
-    position: relative;
-    margin-bottom: 2.5rem;
-    padding-left: 1.5rem;
-  }
-
-  .timeline-item:last-child {
-    margin-bottom: 0;
-  }
-
-  .timeline-marker {
-    position: absolute;
-    left: -2rem;
-    top: 6px;
-    width: 16px;
-    height: 16px;
-    border-radius: 50%;
-    background: #1e40af;
-    border: 3px solid #fff;
-    box-shadow: 0 0 0 2px #1e40af;
-    z-index: 1;
-  }
-
-  .timeline-marker.pulse {
-    background: #3b82f6;
-    box-shadow: 0 0 0 2px #3b82f6;
-    animation: pulse 2s ease-in-out infinite;
-  }
-
-  @keyframes pulse {
-    0%,
-    100% {
-      box-shadow:
-        0 0 0 2px #3b82f6,
-        0 0 0 4px transparent;
-    }
-    50% {
-      box-shadow:
-        0 0 0 2px #3b82f6,
-        0 0 0 8px rgba(59, 130, 246, 0.2);
-    }
-  }
-
-  .timeline-date {
-    font-size: 0.85rem;
-    font-weight: 600;
-    color: #1e40af;
-    letter-spacing: 0.05em;
-    margin-bottom: 0.5rem;
-  }
-
-  .timeline-content h3 {
-    font-size: 1.35rem;
-    font-weight: 600;
-    color: #1f2937;
-    margin-bottom: 0.75rem;
-  }
-
-  .timeline-content p {
-    color: #4b5563;
-    line-height: 1.8;
-    font-size: 1.05rem;
-  }
-
-  .timeline-list {
-    margin-top: 0.75rem;
-    padding-left: 1.25rem;
-    color: #4b5563;
-    line-height: 2;
-  }
-
-  .timeline-list li {
-    font-size: 1rem;
-  }
-
-  .timeline-link {
-    color: #1e40af;
-    text-decoration: none;
-    font-weight: 500;
-    font-style: italic;
-  }
-
-  .timeline-link:hover {
-    text-decoration: underline;
-  }
-
-  /* 時間軸內的媒體報導小卡片 */
-  .timeline-press-grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 0.8rem;
-    margin-top: 1rem;
-  }
-
-  .press-card-mini {
-    display: block;
-    background: rgba(255, 255, 255, 0.9);
-    border: 1px solid #d1d5db;
-    border-radius: 8px;
-    padding: 0.8rem;
-    text-decoration: none;
-    color: inherit;
-    transition: all 0.2s ease;
-    font-size: 0.85rem;
-  }
-
-  .press-card-mini:hover {
-    border-color: #1e40af;
-    box-shadow: 0 2px 8px rgba(30, 64, 175, 0.1);
-  }
-
-  .press-card-mini .press-source {
-    font-size: 0.7rem;
-    font-weight: 600;
-    color: #1e40af;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    margin-bottom: 0.3rem;
-  }
-
-  .press-card-mini .press-title {
-    font-size: 0.8rem;
-    font-weight: 500;
-    color: #1f2937;
-    line-height: 1.4;
-    margin: 0;
   }
 
   /* Project Stats */
@@ -3094,23 +2603,11 @@ const today = new Date().toISOString().slice(0, 10);
       justify-content: center;
       margin-top: 1.5rem;
     }
-
-    .timeline-press-grid {
-      grid-template-columns: 1fr;
-    }
   }
 
   @media (max-width: 480px) {
     .section-title {
       font-size: 1.75rem;
-    }
-
-    .timeline {
-      padding-left: 1.5rem;
-    }
-
-    .timeline-item {
-      padding-left: 1rem;
     }
 
     .founder-links-inline {
@@ -3541,6 +3038,32 @@ const today = new Date().toISOString().slice(0, 10);
   .contributors-cta :global(a:hover) {
     color: var(--color-ink);
   }
+  /* 窄螢幕：貢獻者牆排成一整面頭像（每個人都在、會換行、不橫向捲動）。
+     名字收進輔助科技與滑鼠提示，畫面上只留頭像，八十個人約佔半個多螢幕。 */
+  @media (max-width: 560px) {
+    .contributors-grid {
+      grid-template-columns: repeat(auto-fill, minmax(2.75rem, 1fr));
+      gap: 0.375rem 0.25rem;
+    }
+    .contributor-card {
+      position: relative;
+      padding: 0;
+      border-radius: 50%;
+    }
+    .contributor-avatar {
+      width: 2.75rem;
+      height: 2.75rem;
+    }
+    .contributor-name,
+    .contributor-types {
+      position: absolute;
+      inline-size: 1px;
+      block-size: 1px;
+      overflow: hidden;
+      clip-path: inset(50%);
+      white-space: nowrap;
+    }
+  }
 
   /* ── 4 為什麼需要 ── */
   .ab-sec--why {
@@ -3554,38 +3077,12 @@ const today = new Date().toISOString().slice(0, 10);
     border-block: 1px solid var(--ab-rule);
   }
 
-  /* 「看完整的時間軸」：收合的 <details>，內容一直在原始碼裡 */
-  .timeline-full {
-    margin-top: var(--ab-gap-m);
-    border-block-start: 1px solid var(--ab-rule);
-  }
-  .timeline-full__summary {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 0.625rem;
-    min-height: 56px;
-    font-family: var(--font-interface);
-    font-size: 0.9375rem;
-    font-weight: 600;
-    color: var(--ab-brand);
-    cursor: pointer;
-    list-style: none;
-  }
-  .timeline-full__summary::-webkit-details-marker {
-    display: none;
-  }
-  .timeline-full__summary:hover {
-    color: var(--color-ink);
-  }
-  .timeline-full__summary:focus-visible,
   .supporters-more__summary:focus-visible,
   .organism-more__summary:focus-visible {
     outline: 2px solid var(--color-accent);
     outline-offset: 2px;
     border-radius: 8px;
   }
-  .timeline-full__chevron,
   .supporters-more__chevron,
   .organism-more__chevron {
     inline-size: 0.5rem;
@@ -3596,92 +3093,10 @@ const today = new Date().toISOString().slice(0, 10);
     rotate: 45deg;
     transition: rotate 0.2s ease;
   }
-  .timeline-full[open] .timeline-full__chevron,
   .supporters-more[open] .supporters-more__chevron,
   .organism-more[open] .organism-more__chevron {
     margin-block-start: 0.25rem;
     rotate: -135deg;
-  }
-
-  /* 完整時間軸本身：版面照舊，位置改用邏輯屬性（阿拉伯文線會在右邊），
-     強調色跟著這一頁的品牌綠 */
-  .timeline {
-    max-width: 48rem;
-    margin: var(--ab-gap-m) auto 0;
-    padding-left: 0;
-    padding-inline-start: 2rem;
-    padding-block-end: var(--ab-gap-s);
-  }
-  .timeline::before {
-    left: auto;
-    inset-inline-start: 7px;
-    background: linear-gradient(
-      to bottom,
-      var(--ab-heading),
-      var(--ab-brand),
-      var(--ab-rule-strong)
-    );
-  }
-  .timeline-item {
-    padding-left: 0;
-    padding-inline-start: 1.5rem;
-    scroll-margin-block-start: 0.75rem;
-  }
-  .timeline-marker {
-    left: auto;
-    inset-inline-start: -2rem;
-    background: var(--ab-brand);
-    border-color: var(--ab-section-bg);
-    box-shadow: 0 0 0 2px var(--ab-brand);
-  }
-  .timeline-marker.pulse {
-    background: var(--ab-section-bg);
-    box-shadow: 0 0 0 2px var(--ab-brand);
-    animation: none;
-  }
-  .timeline-date {
-    font-family: var(--font-interface);
-    font-variant-numeric: tabular-nums;
-    color: var(--ab-brand);
-  }
-  .timeline-content h3 {
-    color: var(--color-ink);
-  }
-  .timeline-content p,
-  .timeline-list {
-    color: var(--color-ink-soft);
-  }
-  .timeline-content :global(a) {
-    color: var(--ab-brand);
-  }
-  .timeline-content :global(a:hover) {
-    color: var(--color-ink);
-  }
-  .timeline-link {
-    color: var(--ab-brand);
-  }
-  .press-card-mini {
-    background: var(--ab-surface);
-    border-color: var(--ab-rule);
-  }
-  .press-card-mini:hover {
-    border-color: var(--ab-brand);
-    box-shadow: none;
-  }
-  .press-card-mini .press-source {
-    color: var(--ab-brand);
-  }
-  .press-card-mini .press-title {
-    font-family: var(--font-reading);
-    letter-spacing: 0;
-    color: var(--color-ink);
-  }
-  /* 從里程碑卡跳過來的那一則：標出來 */
-  .timeline-item:global(.is-target) .timeline-content {
-    margin: -0.75rem -1rem;
-    padding: 0.75rem 1rem;
-    border-radius: 12px;
-    background: var(--ab-brand-soft);
   }
 
   /* ── 7 是活的（深色的一帶；顏色從這一帶自己的字色推）── */
@@ -4306,30 +3721,8 @@ const today = new Date().toISOString().slice(0, 10);
     .contributors-in-team {
       padding: var(--space-4);
     }
-    /* 貢獻者牆在手機上是橫向可滑的四列：每個人都在，不佔三個螢幕 */
-    .contributors-grid {
-      grid-template-columns: none;
-      grid-template-rows: repeat(4, auto);
-      grid-auto-flow: column;
-      grid-auto-columns: 4.5rem;
-      margin-inline: calc(var(--space-4) * -1);
-      padding-inline: var(--space-4);
-      overflow-x: auto;
-      overscroll-behavior-x: contain;
-      scrollbar-width: thin;
-    }
     .ab-sec--brief {
       padding-block-start: var(--space-4);
-    }
-    .timeline {
-      padding-inline-start: 1.5rem;
-    }
-    .timeline-item {
-      padding-inline-start: 0.75rem;
-    }
-    .timeline-item:global(.is-target) .timeline-content {
-      margin: -0.5rem -0.625rem;
-      padding: 0.5rem 0.625rem;
     }
     .guide-grid {
       grid-template-columns: 1fr;
@@ -4427,12 +3820,6 @@ const today = new Date().toISOString().slice(0, 10);
   @media (max-width: 480px) {
     .section-title {
       font-size: clamp(1.5rem, 6.8vw, 1.75rem);
-    }
-    .timeline {
-      padding-left: 0;
-    }
-    .timeline-item {
-      padding-left: 0;
     }
     .founder-links-inline {
       flex-direction: row;

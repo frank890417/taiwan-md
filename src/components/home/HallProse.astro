@@ -1,0 +1,94 @@
+---
+/**
+ * HallProse — 一個展廳的策展散文：段落、段落裡的主題藥丸、段落底下的精選文章。
+ *
+ * 2026-11-19 首頁第二期。散文原本行內寫在首頁樣板（中文）與 HomeEnHalls.astro
+ * （其他語言共用的英文）；現在讀 src/data/halls/prose/{語言}.ts，展廳頁渲染全文，
+ * 首頁的入口卡用 `limit={1}` 只取第一段——同一個來源，不是另外抄一份。
+ *
+ * 文字一個字都不改。每段用 set:html 一次輸出（文字先轉義），不讓樣板的排版在
+ * 文字與藥丸之間多塞或少塞空格：藥丸前後有沒有空格，只看資料字串裡怎麼寫。
+ *
+ * 追蹤沿用原名：藥丸 hall_pill、精選 hall_pick。
+ */
+import { getLangFromUrl } from '../../i18n/utils';
+import { getLanguage } from '../../config/languages';
+import {
+  getHallProse,
+  hallProseLang,
+  splitParagraph,
+  type HallId,
+} from '../../data/halls';
+import { getHallPicks } from './hall-data';
+import { useHomeT } from './home-i18n';
+
+interface Props {
+  hall: HallId;
+  /** 只取前幾段（首頁入口卡取 1）。不給就是全文。 */
+  limit?: number;
+  /** 段落底下要不要放精選文章。預設放。 */
+  picks?: boolean;
+}
+
+const { hall, limit, picks = true } = Astro.props;
+const lang = getLangFromUrl(Astro.url);
+const th = useHomeT(lang);
+const langUrlPrefix = lang === 'zh-TW' ? '' : `/${lang}`;
+
+const prose = getHallProse(lang)[hall - 1];
+const proseLang = hallProseLang(lang);
+// 這個語言還沒有自己的散文時，段落是英文：標上語言與方向，阿拉伯文頁面上的英文
+// 段落才會由左到右排（精選文章卡是該語言的文章，不受影響）。
+const foreign = proseLang !== lang;
+const proseDir = getLanguage(proseLang)?.dir === 'rtl' ? 'rtl' : 'ltr';
+const paragraphs =
+  typeof limit === 'number'
+    ? prose.paragraphs.slice(0, limit)
+    : prose.paragraphs;
+const topPicks = picks ? getHallPicks(lang) : {};
+
+const esc = (s: string) =>
+  s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+
+function paragraphHtml(p: { category: string; text: string }): string {
+  const { before, pill, after } = splitParagraph(p.text);
+  if (!pill) return esc(before);
+  return `${esc(before)}<a href="${langUrlPrefix}/${p.category}" data-ga-section="hall_pill" data-ga-label="${p.category}" class="topic-pill">${esc(pill)}</a>${esc(after)}`;
+}
+
+const shorten = (s: string) => (s.length > 80 ? s.slice(0, 77) + '...' : s);
+---
+
+<div class="hall-body">
+  {
+    paragraphs.map((p) => {
+      const list = topPicks[p.category] || [];
+      return (
+        <>
+          <p
+            lang={foreign ? proseLang : undefined}
+            dir={foreign ? proseDir : undefined}
+            set:html={paragraphHtml(p)}
+          />
+          {list.length > 0 && (
+            <div class="hall-picks">
+              {list.map((a) => (
+                <a href={a.href} data-ga-section="hall_pick" class="pick-card">
+                  <span class="pick-head">
+                    <span class="pick-title">{a.title}</span>
+                    <span class="pick-fn">
+                      {th('home.hall.pick.sources', { n: a.footnotes })}
+                    </span>
+                  </span>
+                  {a.description && (
+                    <span class="pick-desc">{shorten(a.description)}</span>
+                  )}
+                </a>
+              ))}
+            </div>
+          )}
+        </>
+      );
+    })
+  }
+</div>

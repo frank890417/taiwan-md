@@ -2,10 +2,9 @@
 /**
  * home.template.astro — 統一首頁 template（13 個語言共用）
  *
- * 為什麼是一份樣板：原本每個語言各一份 index.astro，內容幾乎一樣。實際只有兩種
- * 展廳散文：中文一份、其他語言共用一份英文（HomeEnHalls），其餘只差網址前綴。
- * 對照 about.template.astro / dashboard.template.astro 的同一個做法。
- * （2026-05-03 sleepy-colden P2 follow-through unification）
+ * 為什麼是一份樣板：原本每個語言各一份 index.astro，內容幾乎一樣，只差展廳散文
+ * 的語言與網址前綴。對照 about.template.astro / dashboard.template.astro 的同一個
+ * 做法。（2026-05-03 sleepy-colden P2 follow-through unification）
  *
  * ── 2026-11-19 首頁第一期：修補與重排 ──────────────────────────────────
  * 規格：reports/design-homepage-about-implementation-2026-11-19.md 第 2 節。
@@ -16,8 +15,8 @@
  *    2 引語時間軸        cover_story         CoverStory
  *    3 四扇門            reader_doors        ReaderDoors
  *    4 直接能用的        tools_band          ToolsBand（新）
- *    5 分類格            category_grid       CategoryGrid（從頁尾附近上移）
- *    6 四展廳            exhibition_halls    散文全文留在這份樣板，每廳加一張縮圖
+ *    5 分類格            category_grid       TopicIndex（同大小的主題索引，含一格總覽）
+ *    6 四展廳            exhibition_halls    HallBook（第三期：四章一本書，見下）
  *    7 不知道從哪開始？  reading_path        ReadingPath + RandomDiscovery（併成一區）
  *                        random_discovery
  *    8 人                people              PeopleSection（新；內含 community_feedback）
@@ -33,9 +32,22 @@
  * 「為什麼需要 Taiwan.md？」四張價值卡從首頁拿掉，搬去關於頁（另一條線在做）。
  * 它底下的兩顆連結（知識圖譜、原始資料）留在首頁的生命體那一區。
  *
- * ⚠️ 四個展廳的中文策展散文是原味，重排時一個字都不能動，連縮排都不要動
- * （prettier 重新折行時，折在兩個中文字之間會多出一個看得見的空白）。縮圖是插在
- * 每一廳標題底下的獨立元素，沒有碰散文的任何一行。
+ * ── 2026-11-19 首頁第二期：首頁變大廳 ──────────────────────────────────
+ * 規格同一份報告的第 3 節。四篇策展散文搬進展廳頁（/halls/1–4/，
+ * hall.template.astro），首頁的第 6 區改成四張入口卡：展廳名、視覺化縮圖、散文
+ * 第一段原文、兩篇精選、住戶的名字、「走進這一廳」。區塊名 exhibition_halls 不變
+ * （前後數據接得上），入口的點擊是 hall_entry。分類格從 13 張大卡收斂成一排小卡，
+ * 區塊名與點擊標記照舊。其他十個區塊沒有動。
+ *
+ * ── 2026-11-19 首頁第三期：四廳排成一本書 ────────────────────────────
+ * 哲宇：「我希望首頁本身就是一個書籍，可以打開，然後他看完之後會覺得很感動的感覺。」
+ * 入口卡只放第一段，首頁讀起來像目錄。第 6 區改成 HallBook：扉頁與目次、四章
+ * 散文全文（每段旁邊是那一段的延伸閱讀）、章與章之間的橋段、讀完的落款。
+ * 入口卡 HallEntries 留給展廳總覽頁（/halls/）。整頁的底色節奏見 home-bands.css。
+ *
+ * ⚠️ 四個展廳的策展散文是原味，一個字都不能動。它現在住在
+ * src/data/halls/prose/{語言}.ts（每段一個字串，空格照原樣寫在字串裡），首頁的
+ * 第一段與展廳頁的全文讀同一份。
  *
  * 這份樣板不輸出 HTML 註解：說明都寫成 Astro 註解，不會跟著正式頁送出去
  * （改版前首頁帶著 20 KB 的程式註解）。
@@ -43,15 +55,16 @@
 import { categoryList } from '../utils/categoryConfig';
 import { readingPathLabels } from '../i18n/reading-path';
 import '../styles/home-sections.css';
+import '../styles/home-halls.css';
+import '../styles/home-bands.css';
 import Layout from '../layouts/Layout.astro';
 import HomeDefs from '../components/home/HomeDefs.astro';
 import HeroSection from '../components/home/HeroSection.astro';
 import CoverStory from '../components/home/CoverStory.astro';
 import ReaderDoors from '../components/home/ReaderDoors.astro';
 import ToolsBand from '../components/home/ToolsBand.astro';
-import CategoryGrid from '../components/CategoryGrid.astro';
-import HallThumb from '../components/home/HallThumb.astro';
-import HomeEnHalls from '../components/home/HomeEnHalls.astro';
+import TopicIndex from '../components/home/TopicIndex.astro';
+import HallBook from '../components/home/HallBook.astro';
 import ReadingPath from '../components/ReadingPath.astro';
 import RandomDiscovery from '../components/home/RandomDiscovery.astro';
 import PeopleSection from '../components/home/PeopleSection.astro';
@@ -62,9 +75,8 @@ import JoinSection from '../components/home/JoinSection.astro';
 import ProticoScript from '../components/ProticoScript.astro';
 import { useTranslations, getLangFromUrl } from '../i18n/utils';
 import { useHomeT } from '../components/home/home-i18n';
-import matter from 'gray-matter';
-import { readFileSync, readdirSync } from 'node:fs';
-import { resolve, join, basename } from 'node:path';
+import { countCategoryArticles } from '../components/home/home-data';
+import { getHallPicks, HALL_CATEGORY_LIST } from '../components/home/hall-data';
 
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
@@ -79,96 +91,15 @@ const categoryCount = categoryList.filter(
 // ── Lang-derived helpers ─────────────────────────────────────────────────────
 // langPath: '' for zh-TW (SSOT root), else '{lang}/' for non-default langs.
 // langUrlPrefix: '' for zh, else '/{lang}'. Used for cross-page links.
-// isZh: gate for Chinese-vs-English narrative (zh has bespoke 中文 prose, the
-// other 5 langs all share the same English hall narrative).
 const isZh = lang === 'zh-TW';
 const langUrlPrefix = isZh ? '' : `/${lang}`;
 
-// ── Exhibition: scan A-grade articles for pick cards ──
-interface PickArticle {
-  title: string;
-  href: string;
-  footnotes: number;
-  readingTime: number;
-  description: string;
-  featured?: boolean;
-}
-
-const categoryFolders: Record<string, string> = {
-  history: 'History',
-  geography: 'Geography',
-  culture: 'Culture',
-  food: 'Food',
-  art: 'Art',
-  music: 'Music',
-  technology: 'Technology',
-  nature: 'Nature',
-  people: 'People',
-  society: 'Society',
-  economy: 'Economy',
-  lifestyle: 'Lifestyle',
-};
-
-const topPicks: Record<string, PickArticle[]> = {};
-
-for (const [slug, folder] of Object.entries(categoryFolders)) {
-  // Lang-aware folder: zh reads knowledge/{Cat}/, others knowledge/{lang}/{Cat}/
-  const dir = isZh
-    ? resolve(process.cwd(), 'knowledge', folder)
-    : resolve(process.cwd(), 'knowledge', lang, folder);
-  const picks: PickArticle[] = [];
-  try {
-    const files = readdirSync(dir).filter(
-      (f) => f.endsWith('.md') && !f.startsWith('_'),
-    );
-    for (const file of files) {
-      const raw = readFileSync(join(dir, file), 'utf-8');
-      const { data } = matter(raw);
-      const fnCount = (raw.match(/^\[\^\d+\]:/gm) || []).length;
-      // Two-tier threshold: featured articles at ≥8fn, others at ≥15fn
-      const threshold = data.featured ? 8 : 15;
-      if (fnCount >= threshold) {
-        picks.push({
-          title: data.title || basename(file, '.md'),
-          href: `${langUrlPrefix}/${slug}/${encodeURIComponent(basename(file, '.md'))}`,
-          footnotes: fnCount,
-          readingTime: data.readingTime || 10,
-          description: data.description || '',
-          featured: data.featured || false,
-        });
-      }
-    }
-  } catch {}
-  // Featured first, then by footnotes
-  topPicks[slug] = picks
-    .sort((a, b) => {
-      if (a.featured !== b.featured) return a.featured ? -1 : 1;
-      return b.footnotes - a.footnotes;
-    })
-    .slice(0, 3);
-}
-
-// ── Hall-level dedup: remove near-duplicate titles across categories in same hall ──
-const hallGroups: Record<string, string[]> = {
-  hall1: ['geography', 'nature', 'lifestyle'],
-  hall2: ['history', 'culture', 'society'],
-  hall3: ['people', 'art', 'music'],
-  hall4: ['technology', 'economy', 'food'],
-};
-
-for (const cats of Object.values(hallGroups)) {
-  const seen = new Set<string>();
-  for (const cat of cats) {
-    topPicks[cat] = (topPicks[cat] || [])
-      .filter((p) => {
-        const prefix = p.title.slice(0, 4);
-        if (seen.has(prefix)) return false;
-        seen.add(prefix);
-        return true;
-      })
-      .slice(0, 2); // max 2 per category within a hall
-  }
-}
+// ── 四展廳的精選文章（挑法在 hall-data.ts，首頁與展廳頁共用） ──
+const topPicks = getHallPicks(lang);
+// 四個展廳底下所有分類的篇數（大廳那一區的導語用）
+const hallArticleTotal = Object.values(HALL_CATEGORY_LIST)
+  .flat()
+  .reduce((sum, slug) => sum + countCategoryArticles(lang, slug), 0);
 
 // ── Dynamic reading path: pick top A-grade from different categories ──
 const usedCategories = new Set<string>();
@@ -220,7 +151,7 @@ const readingPathFooterItems = [
   )}
   readerSettings
 >
-  <div class="home-page">
+  <div class="home-page home-page--wide">
     <HomeDefs />
 
     <div data-ga-view="hero"><HeroSection /></div>
@@ -233,583 +164,41 @@ const readingPathFooterItems = [
 
     <div data-ga-view="tools_band"><ToolsBand /></div>
 
-    <section
-      id="categories"
-      class="home-section home-categories"
-      aria-labelledby="categories-heading"
-    >
-      <div class="home-wrap">
-        <header class="home-head">
-          <p class="home-eyebrow">{th('home.categories.eyebrow')}</p>
-          <h2 id="categories-heading" class="home-title">
-            {
-              t('home.categories.divider').replace(
-                '{count}',
-                String(categoryCount),
-              )
-            }
-          </h2>
-        </header>
-      </div>
-      <div data-ga-view="category_grid"><CategoryGrid /></div>
-    </section>
-
-    {
-      /* ===== EXHIBITION HALLS =====
-       Partial Tailwind migration (Phase 6): wrappers moved to inline
-       utilities. The .hall-* / .pick-* / .topic-pill repeating card
-       classes stay in scoped <style> because they repeat × 8 halls;
-       inlining would turn the markup into noise. Same call as Header. */
-    }
-    <section class="home-section" data-ga-view="exhibition_halls">
-      <div class="mb-8 text-center">
-        <h2
-          class="text-center font-['jf-lanyangming','Noto_Serif_TC','Source_Han_Serif_TC',serif] text-[2rem] font-light text-[#1f2937]"
-        >
-          {t('home.categories.heading')}
-        </h2>
-      </div>
-
-      <div
-        class="exhibition-halls mx-auto max-w-[var(--container-prose)] px-8 max-[768px]:px-6 max-[480px]:px-4"
+    <div class="home-band home-band--sage">
+      <section
+        id="categories"
+        class="home-section home-categories"
+        aria-labelledby="categories-heading"
       >
-        {
-          !isZh && (
-            <HomeEnHalls topPicks={topPicks} langUrlPrefix={langUrlPrefix} />
-          )
-        }
-        {
-          isZh && (
-            <>
-              {/* ── 展廳一：這座島長什麼樣 ── */}
-              <div class="exhibition-hall">
-                <div class="hall-divider">
-                  <div class="hall-line" />
-                  <span class="hall-label">壹 — 這座島長什麼樣</span>
-                  <div class="hall-line" />
-                </div>
-                <HallThumb hall={1} />
-                <div class="hall-body">
-                  <p>
-                    這座島嶼只有 36,000 平方公里，卻從海平面堆到 3,952
-                    公尺。菲律賓海板塊每年往歐亞板塊擠 8
-                    公分，把台灣拱成全球山地密度最高的島嶼之一。
-                    <a
-                      href="/geography"
-                      data-ga-section="hall_pill"
-                      class="topic-pill"
-                    >
-                      🗺️ 這裡的地理
-                    </a>
-                    不是風景明信片，是一座還在長高的島。
-                    北回歸線穿過嘉義，同一天你可以從墾丁的熱帶海灘開車到合歡山看霜雪。
-                  </p>
-                  {topPicks.geography && topPicks.geography.length > 0 && (
-                    <div class="hall-picks">
-                      {topPicks.geography.map((a) => (
-                        <a
-                          href={a.href}
-                          data-ga-section="hall_pick"
-                          class="pick-card"
-                        >
-                          <span class="pick-head">
-                            <span class="pick-title">{a.title}</span>
-                            <span class="pick-fn">{a.footnotes} 引用</span>
-                          </span>
-                          {a.description && (
-                            <span class="pick-desc">
-                              {a.description.length > 80
-                                ? a.description.slice(0, 77) + '...'
-                                : a.description}
-                            </span>
-                          )}
-                        </a>
-                      ))}
-                    </div>
-                  )}
+        <div class="home-wrap">
+          <header class="home-head">
+            <p class="home-eyebrow">{th('home.categories.eyebrow')}</p>
+            <h2 id="categories-heading" class="home-title">
+              {
+                t('home.categories.divider').replace(
+                  '{count}',
+                  String(categoryCount),
+                )
+              }
+            </h2>
+          </header>
+          <div data-ga-view="category_grid"><TopicIndex /></div>
+        </div>
+      </section>
+    </div>
 
-                  <p>
-                    比荷蘭還小的島上，擠進了六萬多種生物，佔全球物種的 2.5%。
-                    櫻花鉤吻鮭在大甲溪上游活了一萬五千年，
-                    台灣黑熊的族群數量，林保署 2026 年初估約一千兩百隻。
-                    <a
-                      href="/nature"
-                      data-ga-section="hall_pill"
-                      class="topic-pill"
-                    >
-                      🌿 台灣的自然
-                    </a>
-                    從海底珊瑚礁到 3,000 公尺的雲霧帶，
-                    垂直壓縮了北半球從赤道到寒帶的所有生態系。
-                    這裡是生態學家的天堂，也是開發壓力的前線。
-                  </p>
-                  {topPicks.nature && topPicks.nature.length > 0 && (
-                    <div class="hall-picks">
-                      {topPicks.nature.map((a) => (
-                        <a
-                          href={a.href}
-                          data-ga-section="hall_pick"
-                          class="pick-card"
-                        >
-                          <span class="pick-head">
-                            <span class="pick-title">{a.title}</span>
-                            <span class="pick-fn">{a.footnotes} 引用</span>
-                          </span>
-                          {a.description && (
-                            <span class="pick-desc">
-                              {a.description.length > 80
-                                ? a.description.slice(0, 77) + '...'
-                                : a.description}
-                            </span>
-                          )}
-                        </a>
-                      ))}
-                    </div>
-                  )}
-
-                  <p>
-                    1 萬 4 千多家便利商店，平均每 1,700
-                    人左右共用一家。繳水電費、領包裹、買高鐵票、
-                    影印畢業論文，全在同一個櫃台完成。
-                    <a
-                      href="/lifestyle"
-                      data-ga-section="hall_pill"
-                      class="topic-pill"
-                    >
-                      🏠 台灣人的生活
-                    </a>
-                    被一套極度壓縮的基礎建設包裹著——
-                    但下了班走進巷弄，阿嬤還是會問你那句「你吃飽了沒？」
-                  </p>
-                  {topPicks.lifestyle && topPicks.lifestyle.length > 0 && (
-                    <div class="hall-picks">
-                      {topPicks.lifestyle.map((a) => (
-                        <a
-                          href={a.href}
-                          data-ga-section="hall_pick"
-                          class="pick-card"
-                        >
-                          <span class="pick-head">
-                            <span class="pick-title">{a.title}</span>
-                            <span class="pick-fn">{a.footnotes} 引用</span>
-                          </span>
-                          {a.description && (
-                            <span class="pick-desc">
-                              {a.description.length > 80
-                                ? a.description.slice(0, 77) + '...'
-                                : a.description}
-                            </span>
-                          )}
-                        </a>
-                      ))}
-                    </div>
-                  )}
-                </div>
-              </div>
-
-              {/* ── Bridge 1→2 (A2, Wave 3) ── */}
-              <div class="hall-bridge">
-                <div class="hall-bridge-line" />
-                <em class="hall-bridge-text">{t('home.bridge.1to2')}</em>
-                <div class="hall-bridge-line" />
-              </div>
-
-              {/* ── 展廳二：這座島怎麼來的 ── */}
-              <div class="exhibition-hall">
-                <div class="hall-divider">
-                  <div class="hall-line" />
-                  <span class="hall-label">貳 — 這座島怎麼來的</span>
-                  <div class="hall-line" />
-                </div>
-                <HallThumb hall={2} />
-                <div class="hall-body">
-                  <p>
-                    1624 年荷蘭人在台南築起熱蘭遮城。之後四百年換了八個政權，
-                    平均五十年一次，每次都帶來新的語言、法律和時區。
-                    <a
-                      href="/history"
-                      data-ga-section="hall_pill"
-                      class="topic-pill"
-                    >
-                      📜 台灣的歷史
-                    </a>
-                    最不可思議的一章在 1996 年： 1,088
-                    萬人走進投票所，投出華人社會第一次總統直選。
-                    沒有流血，沒有政變。威權統治了三十八年的島嶼，安靜地把自己變成了民主國家。
-                  </p>
-                  {topPicks.history && topPicks.history.length > 0 && (
-                    <div class="hall-picks">
-                      {topPicks.history.map((a) => (
-                        <a
-                          href={a.href}
-                          data-ga-section="hall_pick"
-                          class="pick-card"
-                        >
-                          <span class="pick-head">
-                            <span class="pick-title">{a.title}</span>
-                            <span class="pick-fn">{a.footnotes} 引用</span>
-                          </span>
-                          {a.description && (
-                            <span class="pick-desc">
-                              {a.description.length > 80
-                                ? a.description.slice(0, 77) + '...'
-                                : a.description}
-                            </span>
-                          )}
-                        </a>
-                      ))}
-                    </div>
-                  )}
-
-                  <p>
-                    17
-                    個原住民族在這裡住了六千年。閩南人帶來了媽祖，客家人帶來了義民爺，
-                    外省人帶來了眷村裡的山東饅頭，東南亞新住民帶來了開齋節。
-                    <a
-                      href="/culture"
-                      data-ga-section="hall_pill"
-                      class="topic-pill"
-                    >
-                      🎭 台灣的文化
-                    </a>
-                    不是熔爐——沒有人被融掉。
-                    大甲媽祖遶境九天有百萬人跟著走，鄒族的戰祭也在春天的阿里山舉行。
-                    兩件事都是台灣，而且不矛盾。
-                  </p>
-                  {topPicks.culture && topPicks.culture.length > 0 && (
-                    <div class="hall-picks">
-                      {topPicks.culture.map((a) => (
-                        <a
-                          href={a.href}
-                          data-ga-section="hall_pick"
-                          class="pick-card"
-                        >
-                          <span class="pick-head">
-                            <span class="pick-title">{a.title}</span>
-                            <span class="pick-fn">{a.footnotes} 引用</span>
-                          </span>
-                          {a.description && (
-                            <span class="pick-desc">
-                              {a.description.length > 80
-                                ? a.description.slice(0, 77) + '...'
-                                : a.description}
-                            </span>
-                          )}
-                        </a>
-                      ))}
-                    </div>
-                  )}
-
-                  <p>
-                    2019 年 5 月 17
-                    日，立法院投票通過同婚專法，台灣成為亞洲第一個同性婚姻合法化的國家。
-                    半年前的公投裡，765 萬人才剛投票反對。
-                    <a
-                      href="/society"
-                      data-ga-section="hall_pill"
-                      class="topic-pill"
-                    >
-                      ⚖️ 台灣社會
-                    </a>
-                    最迷人的地方就在這裡：
-                    公投說不，立法院說是，然後社會繼續運轉。吵完繼續一起排隊買早餐。
-                  </p>
-                  {topPicks.society && topPicks.society.length > 0 && (
-                    <div class="hall-picks">
-                      {topPicks.society.map((a) => (
-                        <a
-                          href={a.href}
-                          data-ga-section="hall_pick"
-                          class="pick-card"
-                        >
-                          <span class="pick-head">
-                            <span class="pick-title">{a.title}</span>
-                            <span class="pick-fn">{a.footnotes} 引用</span>
-                          </span>
-                          {a.description && (
-                            <span class="pick-desc">
-                              {a.description.length > 80
-                                ? a.description.slice(0, 77) + '...'
-                                : a.description}
-                            </span>
-                          )}
-                        </a>
-                      ))}
-                    </div>
-                  )}
-                </div>
-              </div>
-
-              {/* ── Bridge 2→3 ── */}
-              <div class="hall-bridge">
-                <div class="hall-bridge-line" />
-                <em class="hall-bridge-text">{t('home.bridge.2to3')}</em>
-                <div class="hall-bridge-line" />
-              </div>
-
-              {/* ── 展廳三：這座島的人在做什麼 ── */}
-              <div class="exhibition-hall">
-                <div class="hall-divider">
-                  <div class="hall-line" />
-                  <span class="hall-label">參 — 這座島的人在做什麼</span>
-                  <div class="hall-line" />
-                </div>
-                <HallThumb hall={3} />
-                <div class="hall-body">
-                  <p>
-                    嚴長壽高中畢業在美國運通送信，五年後當上總經理。
-                    林書豪坐了兩年板凳，然後用一週改寫了 NBA 的亞裔敘事。
-                    陳樹菊在台東市場賣菜四十八年，捐了一千多萬。
-                    <a
-                      href="/people"
-                      data-ga-section="hall_pill"
-                      class="topic-pill"
-                    >
-                      👥 台灣的人物
-                    </a>
-                    沒有一個是從教科書裡走出來的——
-                    他們的故事之所以值得讀，是因為每一個轉折都有可能不發生。
-                  </p>
-                  {topPicks.people && topPicks.people.length > 0 && (
-                    <div class="hall-picks">
-                      {topPicks.people.map((a) => (
-                        <a
-                          href={a.href}
-                          data-ga-section="hall_pick"
-                          class="pick-card"
-                        >
-                          <span class="pick-head">
-                            <span class="pick-title">{a.title}</span>
-                            <span class="pick-fn">{a.footnotes} 引用</span>
-                          </span>
-                          {a.description && (
-                            <span class="pick-desc">
-                              {a.description.length > 80
-                                ? a.description.slice(0, 77) + '...'
-                                : a.description}
-                            </span>
-                          )}
-                        </a>
-                      ))}
-                    </div>
-                  )}
-
-                  <p>
-                    2009 年，蔡國強在台北市立美術館引爆了九場火藥爆破。
-                    前一年八里排練場付之一炬，這一年，林懷民的雲門舞集在灰燼中重生。
-                    <a
-                      href="/art"
-                      data-ga-section="hall_pill"
-                      class="topic-pill"
-                    >
-                      🎨 台灣的藝術
-                    </a>
-                    從廟口八家將畫到威尼斯雙年展，
-                    從交趾陶燒到數位裝置。這裡的創作者最常問的問題不是「什麼是美」，
-                    是「我們是誰」。
-                  </p>
-                  {topPicks.art && topPicks.art.length > 0 && (
-                    <div class="hall-picks">
-                      {topPicks.art.map((a) => (
-                        <a
-                          href={a.href}
-                          data-ga-section="hall_pick"
-                          class="pick-card"
-                        >
-                          <span class="pick-head">
-                            <span class="pick-title">{a.title}</span>
-                            <span class="pick-fn">{a.footnotes} 引用</span>
-                          </span>
-                          {a.description && (
-                            <span class="pick-desc">
-                              {a.description.length > 80
-                                ? a.description.slice(0, 77) + '...'
-                                : a.description}
-                            </span>
-                          )}
-                        </a>
-                      ))}
-                    </div>
-                  )}
-
-                  <p>
-                    1933 年，鄧雨賢的〈望春風〉問世，九十年後還是 KTV
-                    點播榜常客。 布農族的八部合音被 UNESCO
-                    列入研究對象，因為西方音樂理論解釋不了它。
-                    <a
-                      href="/music"
-                      data-ga-section="hall_pill"
-                      class="topic-pill"
-                    >
-                      🎵 台灣的聲音
-                    </a>
-                    從部落古謠到五月天在小巨蛋讓十萬人合唱，
-                    從校園民歌到金曲獎。這座島上的音樂不只是娛樂，是每個世代辨認自己的方式。
-                  </p>
-                  {topPicks.music && topPicks.music.length > 0 && (
-                    <div class="hall-picks">
-                      {topPicks.music.map((a) => (
-                        <a
-                          href={a.href}
-                          data-ga-section="hall_pick"
-                          class="pick-card"
-                        >
-                          <span class="pick-head">
-                            <span class="pick-title">{a.title}</span>
-                            <span class="pick-fn">{a.footnotes} 引用</span>
-                          </span>
-                          {a.description && (
-                            <span class="pick-desc">
-                              {a.description.length > 80
-                                ? a.description.slice(0, 77) + '...'
-                                : a.description}
-                            </span>
-                          )}
-                        </a>
-                      ))}
-                    </div>
-                  )}
-                </div>
-              </div>
-
-              {/* ── Bridge 3→4 ── */}
-              <div class="hall-bridge">
-                <div class="hall-bridge-line" />
-                <em class="hall-bridge-text">{t('home.bridge.3to4')}</em>
-                <div class="hall-bridge-line" />
-              </div>
-
-              {/* ── 展廳四：這座島往哪裡去 ── */}
-              <div class="exhibition-hall">
-                <div class="hall-divider">
-                  <div class="hall-line" />
-                  <span class="hall-label">肆 — 這座島往哪裡去</span>
-                  <div class="hall-line" />
-                </div>
-                <HallThumb hall={4} />
-                <div class="hall-body">
-                  <p>
-                    全球 90% 的先進晶片在台灣製造。台積電一座晶圓廠造價 200
-                    億美元，裡面的無塵室比手術房乾淨一萬倍。
-                    <a
-                      href="/technology"
-                      data-ga-section="hall_pill"
-                      class="topic-pill"
-                    >
-                      💻 這座科技島
-                    </a>
-                    從 1980 年代新竹科學園區的鐵皮工廠起步，
-                    四十年後成為地球上任何手機、筆電、汽車都繞不開的供應鏈節點。
-                    代價是台積電一家就用掉全島約一成的電，而且還在漲。
-                  </p>
-                  {topPicks.technology && topPicks.technology.length > 0 && (
-                    <div class="hall-picks">
-                      {topPicks.technology.map((a) => (
-                        <a
-                          href={a.href}
-                          data-ga-section="hall_pick"
-                          class="pick-card"
-                        >
-                          <span class="pick-head">
-                            <span class="pick-title">{a.title}</span>
-                            <span class="pick-fn">{a.footnotes} 引用</span>
-                          </span>
-                          {a.description && (
-                            <span class="pick-desc">
-                              {a.description.length > 80
-                                ? a.description.slice(0, 77) + '...'
-                                : a.description}
-                            </span>
-                          )}
-                        </a>
-                      ))}
-                    </div>
-                  )}
-
-                  <p>
-                    1960 年台灣人均 GDP 154 美元，比剛果（金）還低。
-                    六十多年後超過 33,000
-                    美元，中間沒有石油、沒有殖民紅利、沒有大國腹地。
-                    <a
-                      href="/economy"
-                      data-ga-section="hall_pill"
-                      class="topic-pill"
-                    >
-                      📈 台灣的經濟
-                    </a>
-                    是一個沒有天然資源的島嶼把自己變成全球供應鏈核心節點的故事。
-                    方法只有一個：比別人更拼，比別人更快轉彎。
-                  </p>
-                  {topPicks.economy && topPicks.economy.length > 0 && (
-                    <div class="hall-picks">
-                      {topPicks.economy.map((a) => (
-                        <a
-                          href={a.href}
-                          data-ga-section="hall_pick"
-                          class="pick-card"
-                        >
-                          <span class="pick-head">
-                            <span class="pick-title">{a.title}</span>
-                            <span class="pick-fn">{a.footnotes} 引用</span>
-                          </span>
-                          {a.description && (
-                            <span class="pick-desc">
-                              {a.description.length > 80
-                                ? a.description.slice(0, 77) + '...'
-                                : a.description}
-                            </span>
-                          )}
-                        </a>
-                      ))}
-                    </div>
-                  )}
-
-                  <p>
-                    一碗牛肉麵裡有四川紅燒的底、台灣醬油的甘、和 1949
-                    年老兵的鄉愁。
-                    珍珠奶茶從台中一間茶館出發，現在五大洲都有人在嚼那顆 Q
-                    彈的珍珠。
-                    <a
-                      href="/food"
-                      data-ga-section="hall_pill"
-                      class="topic-pill"
-                    >
-                      🍜 台灣的味道
-                    </a>
-                    就是它的移民史——
-                    閩南人的蚵仔煎、客家人的薑絲大腸、原住民的小米酒、新住民的魚露，
-                    四百年份的鄉愁全煮在同一座夜市裡。
-                  </p>
-                  {topPicks.food && topPicks.food.length > 0 && (
-                    <div class="hall-picks">
-                      {topPicks.food.map((a) => (
-                        <a
-                          href={a.href}
-                          data-ga-section="hall_pick"
-                          class="pick-card"
-                        >
-                          <span class="pick-head">
-                            <span class="pick-title">{a.title}</span>
-                            <span class="pick-fn">{a.footnotes} 引用</span>
-                          </span>
-                          {a.description && (
-                            <span class="pick-desc">
-                              {a.description.length > 80
-                                ? a.description.slice(0, 77) + '...'
-                                : a.description}
-                            </span>
-                          )}
-                        </a>
-                      ))}
-                    </div>
-                  )}
-                </div>
-              </div>
-            </>
-          )
-        }
-      </div>
-    </section>
+    <div class="home-band home-band--paper">
+      <section
+        id="halls"
+        class="home-section home-lobby"
+        aria-labelledby="halls-heading"
+        data-ga-view="exhibition_halls"
+      >
+        <div class="home-wrap">
+          <HallBook articleTotal={hallArticleTotal} />
+        </div>
+      </section>
+    </div>
 
     <div id="start-here" data-ga-view="reading_path">
       <ReadingPath
@@ -825,20 +214,38 @@ const readingPathFooterItems = [
         continueLabel={t('home.readingPath.continue')}
       >
         <div slot="after" id="random-discovery" data-ga-view="random_discovery">
-          <RandomDiscovery />
+          {
+            /* 閱讀路徑底部的兩個行動排在同一排：骰子（主要）＋繼續探索（次要）。
+              繼續探索的追蹤標記照舊是 reading_path／continue。 */
+          }
+          <RandomDiscovery>
+            <a
+              slot="secondary"
+              href="#categories"
+              class="rd-more-btn"
+              data-ga-section="reading_path"
+              data-ga-label="continue">{t('home.readingPath.continue')}</a
+            >
+          </RandomDiscovery>
         </div>
       </ReadingPath>
     </div>
 
-    <div data-ga-view="people"><PeopleSection /></div>
+    <div class="home-band home-band--mist" data-ga-view="people">
+      <PeopleSection />
+    </div>
 
     <div data-ga-view="recent_updates"><RecentUpdates /></div>
 
-    <div class="home-section" data-ga-view="language_statement">
-      <LanguageStatement />
+    <div class="home-band home-band--sage">
+      <div class="home-section" data-ga-view="language_statement">
+        <LanguageStatement />
+      </div>
     </div>
 
-    <div data-ga-view="organism_preview"><OrganismPreview /></div>
+    <div class="home-band home-band--night" data-ga-view="organism_preview">
+      <OrganismPreview />
+    </div>
 
     <div data-ga-view="join"><JoinSection /></div>
   </div>
@@ -850,27 +257,8 @@ const readingPathFooterItems = [
 }
 <ProticoScript lazy />
 
-{
-  /*
-  Phase 6 partial migration — index.astro (zh-TW)
-  ───────────────────────────────────────────────
-  Wrappers (skip-link removed as dead code; section-title,
-  exhibition, exhibition-header, section-divider, divider-line,
-  divider-text, mini-graph-*, features-cta, feature-btn) moved to
-  inline Tailwind. The repeated .hall-* / .pick-* / .topic-pill card classes
-  are intentionally global: non-zh exhibition hall markup lives in the
-  HomeEnHalls child component and must share the zh-TW visual baseline.
-*/
-}
 <style>
   /* ── 首頁第一期（2026-11-19）──────────────────────────────────── */
-
-  /* 分類格：元件自己帶上下邊距與手機的左右邊距；放進有標頭的區塊後，
-     邊距交給區塊，左右跟標頭對齊。 */
-  :global(.home-categories > [data-ga-view] > section) {
-    margin-block: 0;
-    margin-inline: auto;
-  }
 
   /* 手機首頁的浮動按鈕只留意見回饋與閱讀設定：右下角的 .md 在首頁收起
      （它在首頁指向 README，文章頁才是「看這篇的原始檔」）。 */
@@ -878,208 +266,12 @@ const readingPathFooterItems = [
     display: none;
   }
 
-  /* 展廳縮圖放在標題與散文之間：標題原本的下邊距改由縮圖接手 */
-  :global(.exhibition-hall .hall-thumb) {
-    margin-block-start: calc(var(--home-gap-sm) * -0.5);
-  }
-
-  /* ── Exhibition hall card pattern (repeats × 8) ──────────────── */
-  :global(.hall-divider) {
-    display: flex;
-    align-items: center;
-    margin: 4rem 0 2.5rem;
-  }
-  :global(.exhibition-hall:first-child .hall-divider) {
-    margin-top: 1rem;
-  }
-  :global(.hall-line) {
-    flex: 1;
-    height: 1px;
-    background: linear-gradient(
-      90deg,
-      transparent,
-      rgba(45, 80, 22, 0.25),
-      transparent
-    );
-  }
-  :global(.hall-label) {
-    padding: 0 1.5rem;
-    font-family:
-      'jf-lanyangming', 'Noto Serif TC', 'Source Han Serif TC', serif;
-    font-size: 1.15rem;
-    font-weight: 300;
-    color: #1a3c34;
-    letter-spacing: 0.15em;
-    white-space: nowrap;
-  }
-
-  /* Hall prose (same as original explore-prose) */
-  :global(.hall-body) {
-    font-family:
-      'jf-jinxuanlatte', 'Noto Sans TC', 'Source Han Sans TC', sans-serif;
-    line-height: 2.2;
-  }
-  :global(.hall-body p) {
-    font-size: 1.1rem;
-    font-weight: 600;
-    color: #1f2937;
-    margin-bottom: 1.5rem;
-    text-align: justify;
-  }
-  :global(.hall-body a) {
-    color: #1f2937;
-    text-decoration: none;
-    transition: all 0.3s ease;
-    font-weight: 700;
-  }
-  :global(.hall-body a.topic-pill) {
-    display: inline-block;
-    background: rgba(45, 80, 22, 0.08);
-    border: 1.5px solid rgba(45, 80, 22, 0.2);
-    border-radius: 6px;
-    padding: 0.15rem 0.6rem;
-    font-weight: 700;
-    color: #2d5016;
-    transition: all 0.25s ease;
-    white-space: nowrap;
-  }
-  :global(.hall-body a.topic-pill:hover) {
-    background: rgba(45, 80, 22, 0.15);
-    border-color: rgba(45, 80, 22, 0.4);
-    transform: translateY(-1px);
-    box-shadow: 0 2px 6px rgba(45, 80, 22, 0.15);
-  }
-  :global(.hall-body a:hover) {
-    color: #2d5016;
-  }
-
-  /* Pick cards (exhibition specimens — 延伸閱讀 style) */
-  :global(.hall-picks) {
-    display: flex;
-    flex-direction: column;
-    gap: 0.4rem;
-    margin: -0.25rem 0 2.5rem 0;
-    padding-inline-start: 0.25rem;
-  }
-  :global(.pick-card) {
-    display: flex;
-    flex-direction: column;
-    gap: 0.2rem;
-    padding: 0.55rem 0.85rem;
-    background: #fafdf7;
-    border: 1px solid rgba(45, 80, 22, 0.12);
-    border-inline-start: 3px solid rgba(45, 80, 22, 0.35);
-    /* Flat side stays glued to the rail in both directions. */
-    border-start-start-radius: 0;
-    border-start-end-radius: 6px;
-    border-end-end-radius: 6px;
-    border-end-start-radius: 0;
-    text-decoration: none;
-    transition: all 0.25s ease;
-  }
-  :global(.pick-card:hover) {
-    background: rgba(45, 80, 22, 0.06);
-    border-color: rgba(45, 80, 22, 0.25);
-    border-inline-start-color: rgba(45, 80, 22, 0.6);
-    transform: translateX(2px);
-    box-shadow: 0 1px 4px rgba(45, 80, 22, 0.08);
-  }
-  /* translateX() has no logical form — in RTL the hover nudge must lean away
-     from the rail, not into it. */
-  :global([dir='rtl'] .pick-card:hover) {
-    transform: translateX(-2px);
-  }
-  :global(.pick-head) {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-  }
-  :global(.pick-title) {
-    font-size: 0.92rem;
-    font-weight: 700;
-    color: #2d5016;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-  }
-  :global(.pick-fn) {
-    font-size: 0.72rem;
-    color: #6b7280;
-    white-space: nowrap;
-    flex-shrink: 0;
-  }
-  :global(.pick-desc) {
-    font-size: 0.82rem;
-    font-weight: 400;
-    color: #4b5563;
-    line-height: 1.5;
-    font-family: 'jf-jinxuanlatte', 'Noto Sans TC', sans-serif;
-  }
-
-  /* ── Hall bridge (A2, Wave 3 — 3 transitions between halls 1-4) ──── */
-  :global(.hall-bridge) {
-    display: flex;
-    align-items: center;
-    gap: 1rem;
-    margin: 3.5rem 0 1rem;
-    opacity: 0.7;
-  }
-  :global(.hall-bridge-line) {
-    flex: 1;
-    height: 1px;
-    background: linear-gradient(
-      90deg,
-      transparent,
-      rgba(45, 80, 22, 0.15),
-      transparent
-    );
-  }
-  :global(.hall-bridge-text) {
-    font-family:
-      'jf-lanyangming', 'Noto Serif TC', 'Source Han Serif TC', serif;
-    font-size: 0.92rem;
-    font-style: italic;
-    color: #6b7280;
-    text-align: center;
-    letter-spacing: 0.02em;
-    white-space: nowrap;
-    max-width: 70%;
-    overflow: hidden;
-    text-overflow: ellipsis;
-  }
-
-  @media (max-width: 768px) {
-    :global(.hall-label) {
-      font-size: 1rem;
-      padding: 0 1rem;
-    }
-    :global(.hall-bridge-text) {
-      font-size: 0.82rem;
-      white-space: normal;
-      text-align: center;
-      max-width: 90%;
-    }
-  }
-  @media (max-width: 480px) {
-    :global(.hall-body p) {
-      font-size: 1rem;
-    }
-    :global(.hall-label) {
-      font-size: 0.9rem;
-      letter-spacing: 0.08em;
-    }
-    :global(.hall-divider) {
-      margin: 3rem 0 2rem;
-    }
-    :global(.pick-card) {
-      width: 100%;
-    }
-    :global(.hall-bridge) {
-      margin: 2.5rem 0 0.5rem;
-      gap: 0.5rem;
-    }
-    :global(.hall-bridge-text) {
-      font-size: 0.78rem;
-    }
+  /* 2026-11-19 哲宇回饋「container 寬度都可以再寬一點，現在很侷限於中間」：
+     首頁的展示型區塊（直接能用的、13 大主題、四展廳、人與留言牆、最近、參與）
+     共用的 .home-wrap 改用 tokens 裡最寬的 --container-wide。只限首頁：
+     展廳頁、總覽頁與 /voices/ 也用 .home-wrap，維持原本的寬度。
+     純閱讀的文字（引語、導語、繁中宣言）各自有行長上限，不跟著變寬。 */
+  :global(.home-page--wide .home-wrap) {
+    max-width: var(--container-wide);
   }
 </style>

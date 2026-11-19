@@ -75,6 +75,8 @@ const DEFAULT_ROUTES = [
   '/exams/',
   '/projects/',
   '/elections/2026/',
+  '/halls/',
+  '/halls/1/',
   '/society/',
   '/society/%E5%8F%B0%E7%81%A3%E5%B0%91%E5%AD%90%E5%8C%96%E5%8D%B1%E6%A9%9F/',
   '/en/data/',

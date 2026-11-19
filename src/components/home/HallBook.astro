@@ -1,0 +1,776 @@
+---
+/**
+ * HallBook — 首頁第 6 區：四個展廳排成一本可以翻開來讀的書。
+ *
+ * 2026-11-19 首頁第三期。哲宇：「我希望首頁本身就是一個書籍，可以打開，然後他看完
+ * 之後會覺得很感動的感覺。」第二期把首頁的四廳收成四張入口卡（只放散文第一段），
+ * 首頁讀起來像目錄，四廳串起台灣立體面貌的那條敘事斷了。這裡把它接回來：
+ *
+ *   扉頁   書名（認識台灣）、一句開場、目次（四章，頁內錨點）
+ *   四章   章首：編號、章名、視覺化縮圖當插圖
+ *          正文：策展散文全文。每一段旁邊是那一段的分類精選，排成書頁邊的
+ *                延伸閱讀（寬螢幕在右側頁邊，窄螢幕接在段落底下）
+ *          章尾：這一廳還有哪些住戶（一行）＋「走進這一廳」
+ *   橋段   章與章之間那一句（home.bridge.NtoM，原本就有，13 語都有）
+ *   落款   讀完的一句、編者、四個展廳的總覽
+ *
+ * 散文來源與展廳頁同一份（src/data/halls/prose/{語言}.ts），一個字都不改；段落
+ * HTML 的組法跟 HallProse.astro 一樣（文字先轉義，藥丸前後的空格只看資料字串）。
+ * 不直接用 HallProse：它的精選是 .pick-card 的方框卡，首頁這裡要的是頁邊註記。
+ *
+ * 追蹤：區塊 exhibition_halls（樣板上）；藥丸 hall_pill、精選 hall_pick，
+ * data-ga-label 都是分類代碼；縮圖 hall_thumb（HallThumb 自帶）；進展廳
+ * hall_entry（hall_1…hall_4）；目次 hall_toc；總覽 hall_entry／halls_index。
+ *
+ * B3（i18n-smoke-test.yml）用 `grep -c "exhibition-hall"` 數行：每一章前面輸出一個
+ * 換行，四章才不會擠在同一行。樣式不要用 .exhibition-hall 當選擇器（開發伺服器
+ * 會把 <style> 內嵌進 HTML，選擇器那幾行也會被數進去，掩蓋真的少了一章）。
+ *
+ * class 名不帶 card（dark-polish.css 的全站規則會在深色下替它鋪底）。
+ */
+import HallThumb from './HallThumb.astro';
+import { getLangFromUrl, type TranslationKey } from '../../i18n/utils';
+import { useTranslations } from '../../i18n/utils';
+import { getLanguage } from '../../config/languages';
+import { getCategoryConfigs } from '../../utils/categoryConfig';
+import { iconSvg } from '../../icons/taiwan-icons.mjs';
+import {
+  getHallProse,
+  hasOwnHallProse,
+  hallProseLang,
+  splitParagraph,
+  HALL_IDS,
+  type HallId,
+} from '../../data/halls';
+import { getHallPicks, HALL_RESIDENTS } from './hall-data';
+import { useHomeT, formatCount } from './home-i18n';
+
+interface Props {
+  /** 四個展廳底下所有分類的篇數（開場那一句用） */
+  articleTotal: number;
+}
+
+const { articleTotal } = Astro.props;
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+const th = useHomeT(lang);
+const langPrefix = lang === 'zh-TW' ? '' : `/${lang}`;
+const arrow = iconSvg('arrow');
+// 每一章前面一個換行，給 B3 的 grep -c 數行（見檔頭）
+const LINE_BREAK = '\n';
+
+const prose = getHallProse(lang);
+const proseLang = hallProseLang(lang);
+// 散文還沒有這個語言的版本時是英文：標上語言與方向
+const foreign = !hasOwnHallProse(lang);
+const proseDir = getLanguage(proseLang)?.dir === 'rtl' ? 'rtl' : 'ltr';
+const textLang = foreign ? proseLang : undefined;
+const textDir = foreign ? proseDir : undefined;
+const picks = getHallPicks(lang);
+// 頁邊註記上標出是哪個分類的延伸閱讀，跟段落裡的藥丸對得起來
+const cats = getCategoryConfigs(t) as Record<string, { name: string }>;
+
+const esc = (s: string) =>
+  s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+
+function paragraphHtml(p: { category: string; text: string }): string {
+  const { before, pill, after } = splitParagraph(p.text);
+  if (!pill) return esc(before);
+  return `${esc(before)}<a href="${langPrefix}/${p.category}" data-ga-section="hall_pill" data-ga-label="${p.category}" class="topic-pill">${esc(pill)}</a>${esc(after)}`;
+}
+
+const chapters = HALL_IDS.map((id: HallId) => {
+  const hall = prose[id - 1];
+  return {
+    id,
+    anchor: `hall-${id}`,
+    href: `${langPrefix}/halls/${id}/`,
+    numeral: hall.numeral,
+    title: hall.title,
+    passages: hall.paragraphs.map((p) => ({
+      category: p.category,
+      categoryName: cats[p.category]?.name || '',
+      html: paragraphHtml(p),
+      picks: picks[p.category] || [],
+    })),
+    residents: HALL_RESIDENTS[id].map((r) =>
+      th(`home.hall.res.${r.id}.name` as TranslationKey),
+    ),
+    bridge:
+      id < HALL_IDS.length
+        ? t(`home.bridge.${id}to${id + 1}` as TranslationKey)
+        : '',
+  };
+});
+---
+
+<div class="home-book exhibition-halls">
+  <header class="book-front">
+    <p class="book-front-eyebrow">{th('home.halls.eyebrow')}</p>
+    <h2 id="halls-heading" class="book-front-title">
+      {t('home.categories.heading')}
+    </h2>
+    <p class="book-front-lead">
+      {th('home.book.lead', { count: formatCount(articleTotal, lang) })}
+    </p>
+    <nav class="book-toc" aria-labelledby="book-toc-label">
+      <p id="book-toc-label" class="book-toc-label">
+        {th('home.book.contents')}
+      </p>
+      <ol class="book-toc-list" lang={textLang} dir={textDir}>
+        {
+          chapters.map((c) => (
+            <li>
+              <a
+                href={`#${c.anchor}`}
+                class="book-toc-link"
+                data-ga-section="hall_toc"
+                data-ga-label={`hall_${c.id}`}
+              >
+                <span class="book-toc-num">{c.numeral}</span>
+                <span class="book-toc-title">{c.title}</span>
+              </a>
+            </li>
+          ))
+        }
+      </ol>
+    </nav>
+  </header>
+
+  {
+    chapters.map((c) => (
+      <>
+        {LINE_BREAK}
+        <article
+          class="exhibition-hall book-chapter"
+          id={c.anchor}
+          aria-labelledby={`${c.anchor}-title`}
+        >
+          <header class="book-chapter-head">
+            <p class="book-chapter-num" aria-hidden="true">
+              {c.numeral}
+            </p>
+            <h3
+              id={`${c.anchor}-title`}
+              class="book-chapter-title"
+              lang={textLang}
+              dir={textDir}
+            >
+              <span class="sr-only">{c.numeral} </span>
+              {c.title}
+            </h3>
+            <div class="book-plate">
+              <HallThumb hall={c.id} />
+            </div>
+          </header>
+
+          {c.passages.map((p, i) => (
+            <div class:list={['book-passage', { 'is-opening': i === 0 }]}>
+              <p
+                class="book-text"
+                lang={textLang}
+                dir={textDir}
+                set:html={p.html}
+              />
+              {p.picks.length > 0 && (
+                <aside
+                  class="book-note"
+                  aria-label={`${th('home.book.further')}: ${p.categoryName}`}
+                >
+                  <p class="book-note-label" aria-hidden="true">
+                    <span>{th('home.book.further')}</span>
+                    {p.categoryName && (
+                      <span class="book-note-cat">{p.categoryName}</span>
+                    )}
+                  </p>
+                  <ul class="book-note-list">
+                    {p.picks.map((a) => (
+                      <li>
+                        <a
+                          href={a.href}
+                          class="book-note-link"
+                          data-ga-section="hall_pick"
+                          data-ga-label={a.category}
+                        >
+                          <span class="book-note-title">{a.title}</span>
+                          <span class="book-note-meta">
+                            {th('home.hall.pick.sources', { n: a.footnotes })}
+                          </span>
+                        </a>
+                      </li>
+                    ))}
+                  </ul>
+                </aside>
+              )}
+            </div>
+          ))}
+
+          <footer class="book-chapter-foot">
+            {c.residents.length > 0 && (
+              <p class="book-residents">
+                <span class="book-residents-label">
+                  {th('home.lobby.residents')}
+                </span>
+                {c.residents.map((name) => (
+                  <span class="book-resident">{name}</span>
+                ))}
+              </p>
+            )}
+            <a
+              href={c.href}
+              class="book-enter"
+              data-ga-section="hall_entry"
+              data-ga-label={`hall_${c.id}`}
+            >
+              {th('home.lobby.enter')}
+              <span class="book-arrow" aria-hidden="true" set:html={arrow} />
+            </a>
+          </footer>
+        </article>
+        {c.bridge && (
+          <p class="book-bridge">
+            <span class="book-bridge-text">{c.bridge}</span>
+          </p>
+        )}
+      </>
+    ))
+  }
+
+  <footer class="book-colophon">
+    <span class="book-ornament" aria-hidden="true"></span>
+    <p class="book-closing">{th('home.book.closing')}</p>
+    <p class="book-signature">{th('home.book.colophon')}</p>
+    <p class="book-more">
+      <a
+        href={`${langPrefix}/halls/`}
+        class="home-link"
+        data-ga-section="hall_entry"
+        data-ga-label="halls_index">{th('home.lobby.all')}</a
+      >
+    </p>
+  </footer>
+</div>
+
+<style>
+  /* ── 書的版心 ──────────────────────────────────────────────────────
+     一欄正文置中，行長用 rem 定（根字級 118%，再乘閱讀設定的倍率，em／rem 都
+     跟著縮放）：正文字級 1.12rem 時 37rem 約是中文 33 個字。寬螢幕上精選文章
+     坐在右側頁邊（RTL 自動鏡像到左側），窄螢幕接在段落底下。 */
+  .home-book {
+    container: book / inline-size;
+    --book-col: 37rem;
+    --book-side: minmax(0, 1fr);
+    --book-gap: clamp(2rem, 4vw, 3.5rem);
+    --book-ink: var(--color-ink);
+    --book-soft: var(--color-ink-soft);
+    --book-rule: var(--home-rule);
+    /* 小標的字距：中日韓文字一字一格，拉開像書的扉頁；阿拉伯文、天城文的字母
+       彼此相連，拉開字距會把字拆斷，其他語言也不加 */
+    --book-track-wide: 0;
+    --book-track-mid: 0;
+    color: var(--book-ink);
+  }
+
+  :global(:root:is(:lang(zh-TW), :lang(ja), :lang(ko))) .home-book {
+    --book-track-wide: 0.32em;
+    --book-track-mid: 0.24em;
+  }
+
+  /* ── 扉頁 ─────────────────────────────────────────────────────── */
+  .book-front {
+    margin-inline: auto;
+    max-inline-size: var(--book-col);
+    padding-block: clamp(1rem, 3vw, 2.5rem) clamp(3rem, 7vw, 5.5rem);
+    text-align: center;
+  }
+
+  .book-front-eyebrow {
+    margin: 0 0 1.4rem;
+    font-family: var(--font-interface);
+    font-size: 0.78rem;
+    font-weight: 600;
+    letter-spacing: var(--book-track-wide);
+    color: var(--book-soft);
+  }
+
+  .book-front-title {
+    margin: 0;
+    font-family: var(--font-quote);
+    font-size: clamp(2.4rem, 5.4vw, 3.9rem);
+    font-weight: 300;
+    line-height: 1.2;
+    letter-spacing: 0.04em;
+    color: var(--book-ink);
+    text-wrap: balance;
+  }
+
+  .book-front-title::after {
+    content: '';
+    display: block;
+    inline-size: 2.75rem;
+    block-size: 1px;
+    margin: clamp(1.5rem, 3vw, 2.25rem) auto;
+    background: var(--home-rule-strong);
+  }
+
+  .book-front-lead {
+    margin: 0 auto;
+    max-inline-size: 30rem;
+    font-family: var(--font-reading);
+    font-size: 1.05rem;
+    font-weight: 600;
+    line-height: 2;
+    color: var(--book-soft);
+    text-wrap: pretty;
+  }
+
+  /* 目次：四行，編號、章名，中間一條點線。點了跳到那一章。 */
+  .book-toc {
+    margin-block-start: clamp(2.5rem, 5vw, 3.5rem);
+    text-align: start;
+  }
+
+  .book-toc-label {
+    margin: 0 0 0.75rem;
+    font-family: var(--font-interface);
+    font-size: 0.74rem;
+    font-weight: 600;
+    letter-spacing: var(--book-track-wide);
+    text-align: center;
+    color: var(--book-soft);
+  }
+
+  .book-toc-list {
+    margin: 0 auto;
+    max-inline-size: 24rem;
+    padding: 0;
+    list-style: none;
+    border-block-start: 1px solid var(--book-rule);
+  }
+
+  .book-toc-list > li {
+    border-block-end: 1px solid var(--book-rule);
+  }
+
+  :global(.home-page) a.book-toc-link {
+    display: flex;
+    align-items: baseline;
+    gap: 1.1rem;
+    min-block-size: 44px;
+    border-bottom: 0;
+    padding: 0.7rem 0.25rem;
+    font-family: var(--font-quote);
+    font-size: 1.12rem;
+    font-weight: 300;
+    line-height: 1.5;
+    color: var(--book-ink);
+    text-decoration: none;
+    transition: color 0.2s ease;
+  }
+
+  :global(.home-page) a.book-toc-link:hover {
+    color: var(--home-accent);
+  }
+
+  .book-toc-num {
+    flex-shrink: 0;
+    min-inline-size: 1.6em;
+    color: color-mix(in srgb, var(--book-ink) 66%, transparent);
+  }
+
+  /* ── 章 ──────────────────────────────────────────────────────── */
+  .book-chapter {
+    scroll-margin-block-start: 5rem;
+    padding-block: clamp(3.5rem, 8vw, 6.5rem) 0;
+    border-block-start: 1px solid var(--book-rule);
+  }
+
+  .book-chapter-head {
+    margin-inline: auto;
+    max-inline-size: calc(var(--book-col) + 4rem);
+    text-align: center;
+  }
+
+  /* 章號：大而淡，像書的章首頁 */
+  .book-chapter-num {
+    margin: 0;
+    font-family: var(--font-quote);
+    font-size: clamp(3.2rem, 7vw, 5.25rem);
+    font-weight: 300;
+    line-height: 1;
+    color: color-mix(in srgb, var(--book-ink) 56%, transparent);
+  }
+
+  .book-chapter-title {
+    margin: clamp(1.1rem, 2.4vw, 1.6rem) 0 0;
+    font-family: var(--font-quote);
+    font-size: clamp(1.85rem, 3.8vw, 2.75rem);
+    font-weight: 300;
+    line-height: 1.3;
+    letter-spacing: 0.03em;
+    color: var(--book-ink);
+    text-wrap: balance;
+  }
+
+  /* 插圖：章名底下一張圖，像書裡另外印上去的圖版 */
+  .book-plate {
+    margin-block: clamp(2.25rem, 4.5vw, 3.25rem) clamp(2.75rem, 5vw, 3.75rem);
+    text-align: start;
+  }
+
+  .book-plate :global(.hall-thumb) {
+    margin: 0;
+  }
+
+  /* 正文與頁邊註記：每一段一列，三欄（頁邊、正文、頁邊），註記坐在後面那一側 */
+  .book-passage {
+    display: grid;
+    grid-template-columns: var(--book-side) minmax(0, var(--book-col)) var(
+        --book-side
+      );
+    column-gap: var(--book-gap);
+    align-items: start;
+  }
+
+  .book-passage + .book-passage {
+    margin-block-start: clamp(1.75rem, 3vw, 2.25rem);
+  }
+
+  :global(.home-page) .book-text {
+    grid-column: 2;
+    margin: 0;
+    font-family: var(--font-reading);
+    font-size: 1.12rem;
+    font-weight: 600;
+    line-height: 2.05;
+    letter-spacing: 0.01em;
+    color: var(--book-ink);
+    text-align: start;
+    text-wrap: pretty;
+    hanging-punctuation: allow-end;
+  }
+
+  /* 每章第一段：字大一級，當作開章的那一口氣 */
+  :global(.home-page) .book-passage.is-opening .book-text {
+    font-size: 1.24rem;
+    line-height: 2;
+  }
+
+  /* 段落裡的主題藥丸：延用展廳散文的樣子（home-halls.css 寫在 .hall-body 底下，
+     首頁這裡沒有那一層，照抄一份到書裡） */
+  .book-text :global(a.topic-pill) {
+    position: relative;
+    display: inline-block;
+    border: 1.5px solid color-mix(in srgb, var(--home-accent) 28%, transparent);
+    border-radius: 6px;
+    background: color-mix(in srgb, var(--home-accent) 8%, transparent);
+    padding: 0.08rem 0.55rem;
+    font-weight: 700;
+    line-height: 1.6;
+    color: var(--home-accent);
+    text-decoration: none;
+    white-space: nowrap;
+    transition:
+      background-color 0.25s ease,
+      border-color 0.25s ease;
+  }
+
+  .book-text :global(a.topic-pill::after) {
+    content: '';
+    position: absolute;
+    inset-block: -0.4rem;
+    inset-inline: 0;
+  }
+
+  .book-text :global(a.topic-pill:hover) {
+    border-color: color-mix(in srgb, var(--home-accent) 50%, transparent);
+    background: color-mix(in srgb, var(--home-accent) 15%, transparent);
+    color: var(--home-accent);
+  }
+
+  .book-text :global(a.topic-pill .twmd-icon) {
+    vertical-align: -0.12em;
+  }
+
+  /* 頁邊註記：小字、細線，安靜地站在正文旁邊 */
+  .book-note {
+    grid-column: 3;
+    max-inline-size: 16rem;
+    margin-block-start: 0.55rem;
+    border-block-start: 1px solid var(--home-rule-strong);
+    padding-block-start: 0.7rem;
+  }
+
+  .book-note-label {
+    margin: 0 0 0.35rem;
+    font-family: var(--font-interface);
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: var(--book-track-mid);
+    color: var(--book-soft);
+  }
+
+  .book-note-cat::before {
+    content: '·';
+    margin-inline: 0.5em;
+  }
+
+  .book-note-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  :global(.home-page) a.book-note-link {
+    display: block;
+    min-block-size: 44px;
+    border-bottom: 0;
+    padding-block: 0.45rem;
+    color: var(--book-ink);
+    text-decoration: none;
+  }
+
+  .book-note-title {
+    display: block;
+    font-family: var(--font-interface);
+    font-size: 0.88rem;
+    font-weight: 600;
+    line-height: 1.55;
+    text-decoration: underline;
+    text-decoration-color: transparent;
+    text-underline-offset: 0.28em;
+    transition: text-decoration-color 0.2s ease;
+  }
+
+  :global(.home-page) a.book-note-link:hover .book-note-title {
+    color: var(--home-accent);
+    text-decoration-color: currentColor;
+  }
+
+  .book-note-meta {
+    display: block;
+    margin-block-start: 0.15rem;
+    font-family: var(--font-interface);
+    font-size: 0.72rem;
+    font-weight: 400;
+    letter-spacing: 0.04em;
+    color: var(--book-soft);
+  }
+
+  /* ── 章尾 ─────────────────────────────────────────────────────── */
+  .book-chapter-foot {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5rem 2rem;
+    margin: clamp(2.5rem, 5vw, 3.5rem) auto 0;
+    max-inline-size: var(--book-col);
+    border-block-start: 1px solid var(--book-rule);
+    padding-block-start: 0.85rem;
+  }
+
+  .book-residents {
+    flex: 1 1 18rem;
+    margin: 0;
+    font-family: var(--font-interface);
+    font-size: 0.82rem;
+    line-height: 1.8;
+    color: var(--book-soft);
+    text-wrap: pretty;
+  }
+
+  .book-residents-label {
+    margin-inline-end: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+  }
+
+  .book-resident {
+    white-space: nowrap;
+    color: var(--book-ink);
+  }
+
+  .book-resident:not(:last-child)::after {
+    content: '·';
+    margin-inline: 0.45rem;
+    color: var(--book-soft);
+  }
+
+  :global(.home-page) a.book-enter {
+    display: inline-flex;
+    flex-shrink: 0;
+    align-items: center;
+    gap: 0.45rem;
+    min-block-size: 44px;
+    border-bottom: 0;
+    padding: 0;
+    font-family: var(--font-interface);
+    font-size: 0.92rem;
+    font-weight: 600;
+    color: var(--home-accent);
+    text-decoration: none;
+  }
+
+  .book-arrow {
+    display: inline-flex;
+    font-size: 0.9em;
+    transition: transform 0.2s ease;
+  }
+
+  :global([dir='rtl']) .book-arrow {
+    transform: scaleX(-1);
+  }
+
+  :global(.home-page) a.book-enter:hover .book-arrow {
+    transform: translateX(3px);
+  }
+
+  :global([dir='rtl'] .home-page) a.book-enter:hover .book-arrow {
+    transform: scaleX(-1) translateX(3px);
+  }
+
+  /* ── 章與章之間的那一句 ────────────────────────────────────────── */
+  .book-bridge {
+    margin: clamp(4rem, 9vw, 7rem) auto clamp(0.5rem, 2vw, 1.5rem);
+    max-inline-size: 30rem;
+    text-align: center;
+  }
+
+  .book-bridge-text {
+    font-family: var(--font-quote);
+    font-size: clamp(1.15rem, 2vw, 1.4rem);
+    font-weight: 300;
+    font-style: normal;
+    line-height: 1.8;
+    color: var(--book-soft);
+    text-wrap: balance;
+  }
+
+  .book-bridge::before {
+    content: '';
+    display: block;
+    inline-size: 1px;
+    block-size: clamp(2.5rem, 5vw, 3.5rem);
+    margin: 0 auto 1.5rem;
+    background: var(--home-rule-strong);
+  }
+
+  /* 橋段底下接的那一章不再畫頂線：線已經由橋段那一筆豎線接上了 */
+  .book-bridge + .book-chapter {
+    border-block-start: 0;
+    padding-block-start: clamp(2rem, 5vw, 3.5rem);
+  }
+
+  /* ── 落款 ─────────────────────────────────────────────────────── */
+  .book-colophon {
+    margin: clamp(5rem, 10vw, 8rem) auto 0;
+    max-inline-size: 30rem;
+    text-align: center;
+  }
+
+  /* 三個小點，書末的花飾 */
+  .book-ornament {
+    display: block;
+    inline-size: 0.3rem;
+    block-size: 0.3rem;
+    margin: 0 auto clamp(2rem, 4vw, 2.75rem);
+    border-radius: 50%;
+    background: var(--home-rule-strong);
+    box-shadow:
+      -1rem 0 0 var(--home-rule-strong),
+      1rem 0 0 var(--home-rule-strong);
+  }
+
+  .book-closing {
+    margin: 0;
+    font-family: var(--font-quote);
+    font-size: clamp(1.3rem, 2.4vw, 1.65rem);
+    font-weight: 300;
+    line-height: 1.95;
+    color: var(--book-ink);
+    text-wrap: balance;
+  }
+
+  .book-signature {
+    margin: clamp(1.75rem, 3vw, 2.25rem) 0 0;
+    font-family: var(--font-interface);
+    font-size: 0.82rem;
+    font-weight: 600;
+    letter-spacing: var(--book-track-mid);
+    color: var(--book-soft);
+  }
+
+  .book-more {
+    margin: 1.25rem 0 0;
+  }
+
+  /* ── 版心不夠寬：頁邊註記收到段落底下 ─────────────────────────────
+     看的是書本身的寬度（容器查詢），單位用 rem：正文欄 37rem＋兩側各一個至少
+     12rem 的頁邊與欄距，約 67rem。閱讀設定把字放大時 rem 跟著變大，頁邊註記
+     會提早收到段落底下，不會被擠成一欄六七個字。 */
+  @container book (max-width: 67rem) {
+    .book-passage {
+      grid-template-columns: minmax(0, var(--book-col));
+      justify-content: center;
+    }
+
+    :global(.home-page) .book-text {
+      grid-column: 1;
+    }
+
+    .book-note {
+      grid-column: 1;
+      max-inline-size: none;
+      margin-block-start: 1.1rem;
+      border-block-start: 0;
+      border-inline-start: 1px solid var(--home-rule-strong);
+      padding-block-start: 0;
+      padding-inline-start: 1rem;
+    }
+
+    :global(.home-page) a.book-note-link {
+      min-block-size: 0;
+      padding-block: 0.35rem;
+    }
+
+    .book-note-title,
+    .book-note-meta {
+      display: inline;
+    }
+
+    .book-note-meta {
+      margin-inline-start: 0.6rem;
+    }
+  }
+
+  @media (max-width: 640px) {
+    :global(.home-page) .book-text {
+      font-size: 1.04rem;
+      line-height: 2;
+    }
+
+    :global(.home-page) .book-passage.is-opening .book-text {
+      font-size: 1.12rem;
+    }
+
+    .book-front-eyebrow,
+    .book-toc-label {
+      letter-spacing: var(--book-track-mid);
+    }
+
+    :global(.home-page) a.book-note-link {
+      padding-block: 0.5rem;
+    }
+
+    .book-chapter-foot {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    /* 直排時 flex-basis 會變成高度，住戶那一行不要被撐成 18rem 高 */
+    .book-residents {
+      flex: none;
+    }
+  }
+</style>

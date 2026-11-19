@@ -2,10 +2,14 @@
 /**
  * AboutChapterNav — 關於頁的章節錨點（2026-11-19 關於頁進化）。
  *
+ * 目前樣板沒有渲染這個元件（2026-11-19 v2 哲宇決定拿掉），檔案保留。
+ *
  * 一個 <nav>、兩種長相：
- *   · 窄於 1440px：貼在站頭下面的一排，橫向可滑（手機第一個螢幕就看得到）
+ *   · 窄於 1440px：頁首下面的一份小目錄，放不下就換行（2026-11-19 v3：
+ *     哲宇說橫向滾動在電腦版跟手機版都不是好的 UI/UX，不再做成可橫滑的一排；
+ *     也不黏在畫面上，換行後好幾列黏著會擋住閱讀）
  *   · 1440px 以上：固定在內容左側留白裡的直列
- * 都有 scroll-spy：滑到哪一章，那一章亮起來。沒有 JS 時就是一排普通的錨點連結。
+ * 都有 scroll-spy：滑到哪一章，那一章亮起來。沒有 JS 時就是普通的錨點連結。
  *
  * 站頭是 fixed，高度寫在全站的 `--header-h`（Layout 維護），這裡只讀不寫。
  */
@@ -67,23 +71,6 @@ const { label, chapters } = Astro.props;
         const on = a.dataset.abNavLink === id;
         if (on) a.setAttribute('aria-current', 'true');
         else a.removeAttribute('aria-current');
-        // 橫向那一排：把亮起來的那顆帶進視野（只捲這一排，不捲頁面）
-        if (on && nav.scrollWidth > nav.clientWidth) {
-          const list = nav.querySelector<HTMLElement>('.ab-nav__list');
-          const item = a.parentElement;
-          if (list && item) {
-            const reduce = window.matchMedia(
-              '(prefers-reduced-motion: reduce)',
-            ).matches;
-            // 用畫面上的位置算位移，左到右與右到左都對
-            const lr = list.getBoundingClientRect();
-            const ir = item.getBoundingClientRect();
-            list.scrollBy({
-              left: ir.left + ir.width / 2 - (lr.left + lr.width / 2),
-              behavior: reduce ? 'auto' : 'smooth',
-            });
-          }
-        }
       }
     };
 
@@ -118,35 +105,25 @@ const { label, chapters } = Astro.props;
 </script>
 
 <style>
-  /* ── 預設：站頭下面的一排，橫向可滑 ─────────────────────────── */
+  /* ── 預設：頁首下面的一份小目錄，放不下就換行 ───────────────── */
   .ab-nav {
-    position: sticky;
-    inset-block-start: var(--header-h, 57px);
-    z-index: 30;
-    background: color-mix(in srgb, var(--color-bg) 88%, transparent);
-    -webkit-backdrop-filter: blur(12px);
-    backdrop-filter: blur(12px);
     border-block-end: 1px solid var(--color-border);
   }
 
   .ab-nav__list {
     display: flex;
-    gap: 0.125rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0 0.125rem;
     max-width: 1100px;
     margin: 0 auto;
-    padding: 0 var(--space-page-x);
+    padding: 0.25rem var(--space-page-x);
     list-style: none;
-    overflow-x: auto;
-    overscroll-behavior-x: contain;
-    scrollbar-width: none;
-    position: relative;
-  }
-  .ab-nav__list::-webkit-scrollbar {
-    display: none;
   }
 
   .ab-nav__item {
-    flex: 0 0 auto;
+    flex: 0 1 auto;
+    min-inline-size: 0;
   }
 
   .ab-nav__link {

@@ -1,0 +1,489 @@
+/**
+ * hall-page.css — 展廳頁（/halls/N/）與展廳總覽（/halls/）的版面。
+ *
+ * 2026-11-19 首頁第二期。這一頁當成一篇排好的長文：頭（置中的展廳名與頭圖）、
+ * 文（一欄散文，中文一行 34 個字上下）、然後三個安靜的區塊（住戶、分類、走廊）。
+ *
+ * 沿用 home-sections.css 的語彙（.home-head、.home-title、.home-tile、--home-*），
+ * 這裡只寫這一頁自己的東西。紀律同 home-sections.css：顏色只從 tokens.css 的變數
+ * 來、方向用邏輯屬性、動態只有 hover，減少動態時由 home-sections.css 檔尾那一條
+ * 全部關掉（這一頁的最外層也帶 .home-page）。
+ */
+
+.hall-page {
+  padding-block-end: var(--home-gap-lg);
+  /* 散文欄：字級 1.1rem 時 34em 約等於中文 34 個字、英文 70 個字元上下 */
+  --hall-measure: 34em;
+}
+
+.hall-wrap {
+  margin-inline: auto;
+  max-width: var(--container-prose);
+  padding-inline: clamp(1.25rem, 4vw, 2rem);
+}
+
+/* 全站 base 層的連結樣式（底線、顏色、transition: all）不套到這一頁自己排的連結 */
+.hall-page :is(.hall-crumbs a, .hall-cat, .hall-door, .hall-resident),
+.halls-index a.hall-entry-title-link {
+  border-bottom: 0;
+  padding-bottom: 0;
+  text-decoration: none;
+}
+
+/* ── 頭 ─────────────────────────────────────────────────────────────── */
+
+.hall-head {
+  padding-block-start: clamp(1.5rem, 4vw, 3rem);
+  text-align: center;
+}
+
+.hall-crumbs {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4rem;
+  font-family: var(--font-interface);
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  color: var(--color-ink-soft);
+}
+
+.hall-page .hall-crumbs a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-inline-size: 44px;
+  min-height: 44px;
+  color: var(--color-ink-soft);
+  transition: color 0.2s ease;
+}
+
+.hall-page .hall-crumbs a:hover {
+  color: var(--home-accent);
+}
+
+.hall-heading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: clamp(1rem, 3vw, 2rem) 0 0;
+  font-family: var(--font-quote);
+  font-weight: 300;
+  letter-spacing: 0;
+  color: var(--color-ink);
+}
+
+/* 展廳編號：大而淡，底下一小段橫線，像展牆上的廳號 */
+.hall-numeral {
+  font-size: clamp(2.6rem, 6vw, 4.25rem);
+  line-height: 1;
+  color: color-mix(in srgb, var(--color-ink) 38%, transparent);
+}
+
+.hall-numeral::after {
+  content: '';
+  display: block;
+  inline-size: 2.5rem;
+  block-size: 1px;
+  margin: clamp(1rem, 2vw, 1.5rem) auto;
+  background: var(--home-rule-strong);
+}
+
+.hall-name {
+  font-size: clamp(2rem, 4.6vw, 3.25rem);
+  line-height: 1.25;
+  text-wrap: balance;
+}
+
+.hall-lede {
+  margin: 1.25rem auto 0;
+  max-width: 34em;
+  font-family: var(--font-reading);
+  font-size: 1.02rem;
+  font-weight: 400;
+  line-height: 1.8;
+  color: var(--color-ink-soft);
+  text-wrap: pretty;
+}
+
+.hall-head .hall-thumb {
+  margin-block: var(--home-gap-md) 0;
+  text-align: start;
+}
+
+/* ── 文 ─────────────────────────────────────────────────────────────── */
+
+.hall-prose {
+  margin-block-start: var(--home-gap-lg);
+}
+
+.hall-prose .hall-body,
+.hall-prose-note {
+  margin-inline: auto;
+  max-inline-size: calc(var(--hall-measure) * 1.1);
+}
+
+.hall-prose-note {
+  margin-block: 0 var(--home-gap-sm);
+  border-inline-start: 2px solid var(--home-rule-strong);
+  padding-inline-start: 1rem;
+  font-family: var(--font-interface);
+  font-size: 0.86rem;
+  line-height: 1.7;
+  color: var(--color-ink-soft);
+}
+
+.hall-page .hall-body p {
+  margin-block-end: 1.75rem;
+  text-wrap: pretty;
+}
+
+/* 靠起始邊對齊，不做兩端對齊：主題藥丸不能斷行，它換到下一行的時候，兩端對齊會
+   把上一行的字距整行拉開（拉丁文字更明顯）。 */
+.hall-page .hall-body p {
+  text-align: start;
+}
+
+/* 精選文章接在它那一段底下：跟上一段靠近、跟下一段拉開，讀起來是「這一段的延伸」 */
+.hall-page .hall-picks {
+  gap: 0.6rem;
+  margin-block: 0 clamp(3rem, 6vw, 4.25rem);
+  padding-inline-start: 0;
+}
+
+.hall-page .hall-picks:last-child {
+  margin-block-end: 0;
+}
+
+.hall-page .pick-card {
+  padding: 0.8rem 1.05rem 0.9rem;
+}
+
+.hall-page .pick-title {
+  font-size: 0.98rem;
+}
+
+.hall-page .pick-desc {
+  font-size: 0.86rem;
+  line-height: 1.6;
+}
+
+/* ── 住戶、分類、走廊共用的區塊間距 ─────────────────────────────────── */
+
+.hall-block {
+  margin-block-start: var(--home-gap-lg);
+}
+
+.hall-arrow {
+  display: inline-flex;
+  flex-shrink: 0;
+  font-size: 0.9em;
+  transition: transform 0.2s ease;
+}
+
+[dir='rtl'] .hall-arrow {
+  transform: scaleX(-1);
+}
+
+.hall-arrow--back {
+  transform: scaleX(-1);
+}
+
+[dir='rtl'] .hall-arrow--back {
+  transform: none;
+}
+
+/* ── 住戶 ───────────────────────────────────────────────────────────── */
+
+.hall-residents {
+  display: grid;
+  grid-template-columns: repeat(var(--cols, 3), minmax(0, 1fr));
+  gap: 1rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.hall-residents > li {
+  display: flex;
+}
+
+.home-page a.hall-resident {
+  gap: 0.5rem;
+  inline-size: 100%;
+  padding: 1.1rem 1.15rem 1.25rem;
+}
+
+.hall-resident-top {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-family: var(--font-interface);
+  font-size: 0.74rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  color: var(--color-ink-soft);
+}
+
+.hall-resident-icon {
+  display: inline-flex;
+  font-size: 1.2rem;
+  color: var(--home-accent);
+}
+
+.hall-resident-lang {
+  margin-inline-start: auto;
+  border: 1px solid var(--home-rule-strong);
+  border-radius: 999px;
+  padding: 0.1rem 0.5rem;
+  font-size: 0.7rem;
+  letter-spacing: 0.04em;
+}
+
+.hall-resident-name {
+  font-family: var(--font-interface);
+  font-size: 1.06rem;
+  font-weight: 700;
+  line-height: 1.35;
+  color: var(--color-ink);
+}
+
+.hall-resident-desc {
+  font-family: var(--font-interface);
+  font-size: 0.88rem;
+  font-weight: 400;
+  line-height: 1.65;
+  color: var(--color-ink-soft);
+  text-wrap: pretty;
+}
+
+/* ── 分類 ───────────────────────────────────────────────────────────── */
+
+.hall-cats {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.hall-page a.hall-cat {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr) auto auto;
+  align-items: center;
+  column-gap: clamp(0.85rem, 2.4vw, 1.5rem);
+  min-height: 44px;
+  border-block-end: 1px solid var(--home-rule);
+  padding: 1.15rem 0.25rem;
+  color: var(--color-ink);
+  transition: background-color 0.2s ease;
+}
+
+.hall-cats > li:first-child .hall-cat {
+  border-block-start: 1px solid var(--home-rule);
+}
+
+.hall-page a.hall-cat:hover {
+  background: var(--home-faint);
+  color: var(--color-ink);
+}
+
+.hall-cat-icon {
+  display: inline-flex;
+  font-size: 1.6rem;
+  color: var(--home-accent);
+}
+
+.hall-cat-text {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  min-inline-size: 0;
+}
+
+.hall-cat-name {
+  font-family: var(--font-interface);
+  font-size: 1.12rem;
+  font-weight: 700;
+  line-height: 1.35;
+}
+
+.hall-cat-desc {
+  font-family: var(--font-interface);
+  font-size: 0.88rem;
+  font-weight: 400;
+  line-height: 1.6;
+  color: var(--color-ink-soft);
+  text-wrap: pretty;
+}
+
+.hall-cat-count {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.3rem;
+  white-space: nowrap;
+  font-family: var(--font-interface);
+  color: var(--color-ink-soft);
+}
+
+.hall-cat-num {
+  font-size: 1.35rem;
+  font-weight: 300;
+  font-variant-numeric: tabular-nums;
+  color: var(--color-ink);
+}
+
+.hall-cat-unit {
+  font-size: 0.78rem;
+}
+
+.hall-cat .hall-arrow {
+  color: var(--home-accent);
+}
+
+.hall-cat:hover .hall-arrow {
+  transform: translateX(3px);
+}
+
+[dir='rtl'] .hall-cat:hover .hall-arrow {
+  transform: scaleX(-1) translateX(3px);
+}
+
+/* ── 走廊 ───────────────────────────────────────────────────────────── */
+
+/* 區塊標題在這裡是通往下一廳的那句橋段：引語，用襯線，字級比一般區塊標小一級 */
+.hall-corridor .home-title {
+  font-size: clamp(1.35rem, 2.4vw, 1.8rem);
+  line-height: 1.5;
+}
+
+.hall-doors {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1.4fr);
+  gap: 1rem;
+}
+
+.home-page a.hall-door {
+  justify-content: space-between;
+  gap: 1.5rem;
+  min-height: 7.5rem;
+  padding: 1.15rem 1.3rem 1.3rem;
+}
+
+.hall-door--next {
+  align-items: flex-end;
+  text-align: end;
+}
+
+.hall-door-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-family: var(--font-interface);
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  color: var(--color-ink-soft);
+}
+
+.hall-door-name {
+  font-family: var(--font-quote);
+  font-size: clamp(1.1rem, 1.9vw, 1.3rem);
+  font-weight: 300;
+  line-height: 1.4;
+  color: var(--color-ink);
+  text-wrap: balance;
+}
+
+.hall-door--next .hall-door-name {
+  font-size: clamp(1.4rem, 3vw, 2.1rem);
+}
+
+.hall-door-name {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6em;
+  text-align: start;
+}
+
+.hall-door-numeral {
+  flex-shrink: 0;
+  color: color-mix(in srgb, var(--color-ink) 45%, transparent);
+}
+
+.hall-door--next:hover .hall-arrow {
+  transform: translateX(3px);
+}
+
+[dir='rtl'] .hall-door--next:hover .hall-arrow {
+  transform: scaleX(-1) translateX(3px);
+}
+
+.hall-door--prev:hover .hall-arrow {
+  transform: scaleX(-1) translateX(3px);
+}
+
+[dir='rtl'] .hall-door--prev:hover .hall-arrow {
+  transform: translateX(3px);
+}
+
+.hall-corridor-more {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 1.75rem;
+  margin: 0.75rem 0 0;
+}
+
+/* ── 窄螢幕 ─────────────────────────────────────────────────────────── */
+
+@media (max-width: 860px) {
+  .hall-residents {
+    grid-template-columns: repeat(min(var(--cols, 3), 2), minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 640px) {
+  /* 手機上精選文章的標題可以折成兩行，不要一行就被刪節號截掉 */
+  .hall-page .pick-head {
+    align-items: baseline;
+  }
+
+  .hall-page .pick-title {
+    display: -webkit-box;
+    overflow: hidden;
+    white-space: normal;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+  }
+}
+
+@media (max-width: 560px) {
+  .hall-residents,
+  .hall-doors {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .hall-page a.hall-cat {
+    grid-template-columns: auto minmax(0, 1fr) auto;
+    row-gap: 0.35rem;
+  }
+
+  /* 手機上篇數移到名稱那一行的右邊，說明獨佔下一行，箭頭收起來 */
+  .hall-cat .hall-arrow {
+    display: none;
+  }
+
+  .hall-cat-desc {
+    display: -webkit-box;
+    overflow: hidden;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+  }
+
+  .home-page a.hall-door {
+    min-height: 6rem;
+  }
+
+  .hall-door--next {
+    order: -1;
+  }
+}
