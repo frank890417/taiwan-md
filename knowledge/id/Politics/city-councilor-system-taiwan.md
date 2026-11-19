@@ -1,6 +1,6 @@
 ---
-title: 'Sistem Anggota Dewan: Mengapa Berbeda dengan Legislator, 30 Tahun SNTV Bertahan di Politik Lokal'
-description: 'Pada tahun 2008, pemilihan legislator beralih ke sistem distrik tunggal dua suara, namun pemilihan anggota dewan tingkat kota dan kabupaten pada tahun yang sama masih menggunakan sistem lama SNTV dari era 1980-an — negara yang sama, kelompok pemilih yang sama, jabatan berbeda di surat suara yang sama, tetapi menggunakan dua aturan main yang sepenuhnya berbeda. Ini bukanlah sebuah kesalahan teknis, melainkan isu reformasi sistem pemilihan terbesar di Taiwan yang belum terselesaikan, yang melibatkan faksi lokal, kepentingan partai politik, dan biaya pendukung. Sebuah peta sistem yang mengurai bagaimana kedua sistem tersebut bekerja, mengapa satu sisi berubah sementara sisi lainnya tidak, serta apa artinya bagi partai kecil dan representasi yang beragam.'
+title: 'Sistem Anggota Dewan: Apa Perbedaannya dengan Legislator Nasional, Mengapa Pemilihan Lokal Masih Menggunakan Sistem Lama SNTV'
+description: 'Legislator nasional masuk ke Legislatif dengan total 113 kursi di seluruh negeri; sejak tahun 2008, satu daerah pemilihan hanya memilih satu orang dan pemilih mendapatkan satu suara tambahan untuk partai politik. Sebaliknya, anggota dewan kota/kabupaten masuk ke 22 dewan kota/kabupaten, namun hingga kini masih menggunakan sistem di mana satu daerah pemilihan menghasilkan beberapa kursi, pemilih hanya dapat mencoblos satu orang, dan tidak ada suara untuk partai politik; sistem lama ini disebut SNTV. Meskipun konstitusi telah diamandemen pada tahun 2005 untuk mengubah sistem pemilihan legislator nasional, sistem pemilihan anggota dewan lokal belum mengikuti perubahan tersebut selama delapan belas tahun. Hal ini terkait erat dengan faksi lokal, kepentingan partai politik, dan biaya penataan ulang daerah pemilihan, serta menentukan bahwa partai kecil lebih mudah mendapatkan kursi di dewan lokal dibandingkan di parlemen nasional.'
 date: 2026-05-27
 category: 'Politics'
 tags:
@@ -8,8 +8,8 @@ tags:
     'Anggota Dewan',
     'Sistem Pemilihan',
     'SNTV',
-    'Sistem Distrik Tunggal Dua Suara',
-    'Legislator',
+    'Sistem Dua Suara di Daerah Pemilihan Tunggal',
+    'Legislator Nasional',
     'Pemilihan 2026',
   ]
 subcategory: '選舉制度'
@@ -18,16 +18,24 @@ featured: false
 lastVerified: 2026-05-27
 lastHumanReview: false
 readingTime: 12
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 3,536 曝光 37 點擊（1.05%），主查詢全是「議員跟立委差別」型（244＋202＋106＋67＋45 曝光）；description 從 179 字縮短，第一句直接講兩者差在哪，拿掉「這不是 bug」'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Politics/議員制度.md'
-sourceCommitSha: '709d2dc03'
-sourceContentHash: 'sha256:4b665d6e2920264b'
-sourceBodyHash: 'sha256:41e02e02e0fbd229'
-translatedAt: '2026-10-23T01:22:55.110628+00:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:00af5d0f37a777ff'
+sourceBodyHash: 'sha256:9359ef48b07d6033'
+translatedAt: '2026-11-19T03:33:46.748386+00:00'
 ---
 
-# Sistem Anggota Dewan: Mengapa Berbeda dengan Legislator Nasional, dan 30 Tahun SNTV Bertahan di Politik Lokal
+# Sistem Anggota Dewan: Apa Perbedaannya dengan Legislator, Mengapa Pemilihan Lokal Masih Menggunakan Sistem Lama SNTV?
 
-> **Ringkasan 30 Detik:** Pada 12 Januari 2008, pemilihan Anggota Legislatif ketujuh di Taiwan untuk pertama kalinya menerapkan "sistem dua suara dalam satu daerah pemilihan"—satu suara untuk kandidat, satu suara untuk partai. Jumlah kursi legislatif dipangkas dari 225 menjadi 113, dan metode pemilihan ditulis ulang sepenuhnya. Namun, pada pemilihan Anggota Dewan tingkat kabupaten/kota ke-16 yang diadakan sebelum Desember tahun yang sama, sistem "Single Non-Transferable Vote" (SNTV) yang diwarisi sejak era 1980-an masih tetap digunakan—di mana satu daerah pemilihan memilih lima hingga sepuluh kursi, pemilih hanya dapat mencoblos satu orang, dan suara berlebih tidak dapat dialihkan ke rekan separtai. Dalam tahun yang sama, bagi kelompok pemilih yang sama, dan pada buletin pemilu yang sama, terdapat dua jabatan yang menjalankan dua aturan permainan yang sepenuhnya berbeda. Ini bukanlah sebuah kesalahan teknis (_bug_), melainkan hasil dari reformasi sistem yang sengaja terhenti di tengah jalan. Di balik hal ini terdapat keterikatan faksi lokal dan dua partai besar terhadap struktur SNTV, tingginya biaya reformasi pendukung, serta sulitnya mencapai konsensus lintas partai—yang juga merupakan salah satu urusan yang belum terselesaikan dan paling diremehkan dalam perjalanan pendalaman demokrasi Taiwan selama 30 tahun terakhir.
+> **Ringkasan 30 Detik:** Pada 12 Januari 2008, Pemilihan Anggota Legislatif Ketujuh di Taiwan untuk pertama kalinya menerapkan "sistem dua suara dalam satu daerah pemilihan tunggal"—satu suara untuk kandidat, satu suara untuk partai. Jumlah kursi legislator dipangkas dari 225 menjadi 113, dan metode pemilihan ditulis ulang secara total. Namun, pada Pemilihan Anggota Dewan Kabupaten dan Kota ke-16 yang berlangsung sebelum Desember tahun yang sama, sistem "Single Non-Transferable Vote" (SNTV) yang diwarisi sejak era 1980-an masih tetap digunakan—di mana satu daerah pemilihan menghasilkan lima hingga sepuluh kursi, pemilih hanya boleh mencoblos satu orang, dan suara berlebih tidak dapat dialihkan ke anggota partai yang sama. Dalam tahun yang sama, bagi kelompok pemilih yang sama, dan pada lembar informasi pemilu yang sama, terdapat dua jabatan yang menjalankan dua set aturan permainan yang sepenuhnya berbeda. Ini bukanlah sebuah kesalahan teknis (_bug_), melainkan hasil dari reformasi sistem yang sengaja terhenti di tengah jalan. Di baliknya terdapat keterikatan faksi lokal dan dua partai besar terhadap struktur SNTV, tingginya biaya reformasi pendukung, serta sulitnya mencapai konsensus lintas partai—yang juga merupakan salah satu tugas belum terselesaikan yang paling diremehkan dalam perjalanan pendalaman demokrasi Taiwan selama 30 tahun terakhir.
+
+---
 
 ## Tahun yang Sama, Dua Sistem Berbeda
 

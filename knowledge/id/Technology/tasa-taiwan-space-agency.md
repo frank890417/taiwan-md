@@ -32,11 +32,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-06-04'
     url: 'https://x.com/taiwandotmd/status/2062546721742483679'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/國家太空中心.md'
-sourceCommitSha: 'faa905d7'
-sourceContentHash: 'sha256:27a79bac11713a70'
-translatedAt: '2026-10-08T16:48:28.199178+00:00'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:451bca716e820c75'
 sourceBodyHash: 'sha256:e55206c67a0d4344'
+translatedAt: '2026-11-19T04:20:08.529876+00:00'
 ---
 
 Pada tahun 2016, dalam video musik 〈頑固〉 dari Mayday, seorang pria paruh baya membuat roket di tanah tandus. Ia dianggap sebagai orang gila yang melamun, dan akhirnya terbang ke langit dengan membawa roket buatan sendiri. Kebanyakan orang Taiwan pertama kali mengenal Wu Zongxin bukan melalui lembaga negara mana pun, tetapi melalui video musik ini: Pria Roket itu [^1].
@@ -270,12 +272,13 @@ Pria yang dulunya dianggap lelucon di padang gurun, yang ingin meninggalkan Bumi
 
 Zeppelin melihat Taiwan dari helikopter; ia gagal menyelesaikannya saat kecelakaan itu. Delapan tahun kemudian, sebuah satelit dengan namanya menyelesaikan pemandangan pulau ini untuknya dari ketinggian 561 kilometer—dan juga menunjukkan kepada lembaga yang selama tiga puluh tahun mengklaim hanya melihat cuaca, wujud sejatinya: tempat di mana sebuah negara yang tidak diakui membuktikan "otonomi" satu per satu melalui satelit. Stasiun berikutnya adalah Bulan.
 
-## Bacaan Lebih Lanjut
+## Bacaan Lanjutan
 
-- [Perkembangan Industri Antariksa Taiwan](/id/technology/taiwan-space-industry-development) — Artikel ini membahas bagaimana institusi tersebut berkembang, sedangkan artikel itu membahas rantai pasokan di belakangnya: perusahaan mana yang membuat komponen satelit, bagaimana semikonduktor masuk ke antariksa, dan bagaimana ekosistem _startup_ terbentuk.
-- [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry) — Basis industri dari "kemandirian" antariksa Taiwan; sebagian besar dibangun di atas kemampuan manufaktur presisi dan semikonduktor yang sudah ada di pulau ini.
-- [Taipei Tionghoa](/id/society/chinese-taipei) — Garis kedaulatan dalam upaya "mengembalikan Taiwan ke dalam nama".
-- [Lin Chi-er](/id/people/lin-chi-er-astronaut) — Profil tokoh lain yang bekerja untuk Taiwan di bidang sains.
+- [Pengembangan Industri Antariksa Taiwan](/id/technology/taiwan-space-industry-development) — Artikel ini membahas bagaimana institusi tersebut berkembang, sementara artikel lainnya membahas rantai pasokan di belakangnya: produsen mana saja yang membuat komponen satelit, bagaimana semikonduktor merambah ke sektor antariksa, dan bagaimana ekosistem startup terbentuk.
+- [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry) — Fondasi industri bagi "otonomi" antariksa Taiwan; sebagian besar dibangun di atas kemampuan semikonduktor dan manufaktur presisi yang sudah ada di pulau ini.
+- [Chinese Taipei](/id/society/chinese-taipei) — Garis kedaulatan mengenai "memasukkan kembali nama Taiwan ke dalam nama resmi", yang terlihat di sisi lain, yakni di arena olahraga.
+- [Lin Chi-er](/id/people/lin-chi-er-astronaut) — Profil tokoh lain yang bekerja demi Taiwan di garis depan sains.
+- [Zeppelin](/id/people/chi-po-lin) — Satelit pertama dari seri Fuwei 8 dinamai berdasarkan beliau: mantan pegawai negeri bagian pemotretan udara di National Space Center, sutradara film 《Melihat Taiwan》, yang wafat pada tahun 2017 saat melakukan survei lokasi untuk film sekuelnya.
 
 ## Sumber Video
 

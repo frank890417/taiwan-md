@@ -28,11 +28,13 @@ rationale:
   whats_excluded: '砍掉華視開獎特別節目的人名與精確日期（安鵬／連漪／1973 開播），因為唯一來源是無引註維基、兩份官方一手史料反證沉默，只保留「集體記憶 vs 官方沉默」的落差本身；砍掉宣傳歌旋律取自迪士尼《小小世界》的說法（該曲 1962 年才存在、與 1951 年時序矛盾），只用可驗證的歌詞；砍掉「2029 年全面取消免用發票」（已被事實查核判為誇大）、「新加坡香港也有消費稅抽獎」（前提錯誤，香港根本沒消費稅）、感熱紙化學細節、任顯群學經歷（會稀釋第三段核心張力）、委辦費爭議的政黨攻防細節（只留「法定該給的錢每年可能被裁量刪減」）；Step 2.5-R 結構主編審回後再砍掉寫手自行加入的 2026 詐騙簡訊冒名案例（原第五段末段、原註 25）——藍圖 v2 明訂該段只承載集點樹演算法爭議＋創世弊案兩則材料（委辦費已於同一輪審稿移出），這則材料未經投影審查即由寫手加入，重新湊成三則陰影材料扎堆核心轉折段，正是 v2 才修掉的 SSODT 疊加風險；且案件本質是外部歹徒冒名詐騙，與該段「官方公平性」命題的貼合度也弱於前兩則，故整段連同該註一併移除，收尾「我相信」句式相應由三分句收回兩分句。'
   where_it_hedges: '任顯群出獄寫「1958 年 1 月保釋」（官方檔案），不寫維基自承缺來源的「1959 年張群求情」；入獄真因改寫三種流傳說法（蔣經國心結／派系鬥爭／救國團經費，見想想論壇）並列，不押單一敘事；檢舉成功率兩版並陳（自媒體轉述台北市不到一成 vs TVBS 全類型約兩成）；千萬富翁用最新的 957 位不用過時的 870；Joana Naritomi 只寫「同一類行為經濟學機制」不暗示她研究了台灣；防偽暗記寫「透過媒體證實」不寫官網證實；集點樹調查分行政（「尚符合本活動抽獎條件」）與司法（媒體簡化「查無不法」，中央社正文原文是「尚無涉及不法情事」）兩階段用語；國際比較不寫「世界第一」只寫查證範圍內最早；1950 年頒布兩辦法的具體日期只寫「年底」不主張「12 月 12 日」（查無一手支撐）；坦尚尼亞案例改引 CMI 田野研究（原引註誤植成一份無關的大學生實驗室研究）；千萬得主案例只保留可查證的「花 2 元中千萬」，砍掉查無實據的「正本遺失」個案。Stage 2.5 source-fidelity 由主 session 親自 live-fetch 6 條高風險 footnote + 獨立 fact-check agent 查核其餘 19 條，共修正 7 處來源問題（1 處嚴重引註誤植、1 處虛構個案、2 處引註掛錯集數/年份範圍、2 處引語誤植出處、1 處未驗證日期）。Stage 3.6.1 五路 adversarial verifier 逐原子重驗全文，另修正約 20 處：**最嚴重一處**是把陳國樑 2025-01 對財政部的批評誤植為「法律明明白紙黑字寫『應』訂定給獎辦法」——三方交叉查證（現行法條、Wayback Machine 舊版法條、他本人原文）確認他批評當時法條寫的是「得」非「應」，「應」是他發文三個月後（2025-05）才修法出現的字，他實際論證依據是政府自己的預算分類文件；其餘修正含 2 處虛構精確數字（「303 張已屆期充公」查無來源、創世捐贈「1.14 億張」原文僅為「1 億 1 千多萬張」的模糊值）、1 處虛構場景細節（任顯群「聽任方旭談過往事」）、1 處遺漏來源實際敘事主線（入獄真因想想論壇原文以顧正秋三角戀為主、非與其餘兩說並列互斥）、2 處國際比較與來源脫節（喬治亞「成效不彰」是官方說法、ISET 智庫自己的分析認為真因是預算不足；韓國廢止後留下的是檢舉獎金非報稅扣抵）、1 處圖表量錯尺（坦尚尼亞僅一次三個月區域試點、無法支撐與韓國喬治亞同軸比較的「4 年」數字，已移出 tw-bars 圖表）、2 處具體事實缺引註（九萬多人參加集點樹活動＋iPhone/iPad 品項、宣傳歌歌詞）、1 處時序壓縮（創世弊案 2020 年即被國稅局發現異常、2025 年才是案件曝光年）、其餘為日期精確度（稅捐稽徵法修正日期、愛國獎券 37 年起訖日）與過度精確措辭（「整整一年」）修正。'
 relatedDiary: ['2026-07-18-105326-manual']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/發票.md'
-sourceCommitSha: 'e80217d19'
-sourceContentHash: 'sha256:ac044c6ba9c6ce5c'
-sourceBodyHash: 'sha256:54db8d12b45ad9b3'
-translatedAt: '2026-09-25T16:58:24+08:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:3dd86d4390d8efbd'
+sourceBodyHash: 'sha256:971a1a8aa9b5930a'
+translatedAt: '2026-11-19T04:43:12.719565+00:00'
 ---
 
 # Faktur: Kertas Tahun 1951 yang Mengubah Seluruh Rakyat Menjadi Pemeriksa Pajak
@@ -155,35 +157,36 @@ _Tutorial aplikasi resmi Departemen Pajak Keuangan. Ketika faktur menjadi serang
 
 Jika semua ini dilihat bersama, Anda akan menemukan sesuatu yang terjadi untuk pertama kalinya dalam tujuh puluh lima tahun. Selama sistem ini dapat berjalan, itu didasarkan pada kesepakatan yang tidak terungkap: saya percaya serangkaian nomor ini ditarik secara acak, dan saya percaya faktur yang saya masukkan ke kotak akan ditangani dengan jujur. Tetapi ketika "siapa yang akan menang" menjadi kode yang dapat diatur bobotnya, dan ketika "kebajikan" juga harus didukung oleh mekanisme pencegahan kecurangan untuk eksis, sistem yang hidup selama tujuh puluh lima tahun berdasarkan "saya percaya" ini dipaksa untuk menjawab secara spesifik: mengapa Anda masih membiarkan saya percaya?
 
-## Taiwan Menjalankan Desain Ini Sebagai Maraton Terpanjang di Dunia
+## Taiwan Menjadikan Desain Ini Lari Marathon Terlama di Seluruh Dunia
 
-Untuk bisa ditanyai seperti itu, ia harus bertahan cukup lama. Taiwan bukan satu-satunya tempat yang terpikirkan trik ini, tetapi sejauh penyelidikan menunjukkan, belum ada kasus kedua yang menjalankannya sebagai rutinitas selama tujuh puluh tahun. Ekonom perilaku Joana Naritomi meneliti mekanisme serupa di São Paulo, Brasil, dan menemukan bahwa nilai penjualan yang dilaporkan oleh produsen meningkat setidaknya dua puluh satu persen dalam empat tahun: mengubah konsumen menjadi pengawas pajak memang efektif[^20]. Tetapi "efektif" berbeda dengan "bertahan lama."
+Mampu bertahan hingga layak ditanya seperti ini, sendiri sudah memerlukan ketahanan yang cukup lama. Taiwan bukan satu-satunya tempat yang memikirkan trik ini, tetapi sejauh yang diverifikasi, belum ada yang kedua menjadikannya rutina selama puluhan tahun. Ekonom perilaku Joana Naritomi mempelajari mekanisme struktural serupa di São Paulo, Brasil, dan menemukan bahwa penjualan yang dilaporkan oleh produsen meningkat minimal 21% dalam empat tahun: mengubah konsumen menjadi pengawas pajak, memang efektif[^20]. Tetapi "efektif" dan "bertahan lama" adalah dua hal yang berbeda.
 
-Georgia membawa ide serupa pada tahun 2012, dan alasan resmi untuk mengakhirinya adalah "kinerja yang tidak memuaskan," tetapi lembaga think tank yang mengajukan penelitian itu sendiri mengatakan bahwa frasa tersebut tidak pernah dianalisis secara publik—alasan sebenarnya tampaknya adalah uang: volume pelaporan harian kuitansi yang memenuhi syarat turun dari lebih dari dua juta menjadi hanya tiga ratus ribu sebelum ditutup, dan pemerintah baru tidak menginvestasikan anggaran untuk mempertahankan peluang kemenangan yang menarik, sehingga ditutup kurang dari setahun[^21]; Korea Selatan pada tahun 2005 hingga 2011 juga menyerah pada undian, hanya menyisakan mekanisme hadiah untuk pedagang yang tidak mengeluarkan kuitansi berdasarkan pelaporan[^22]; sementara Tanzania di Afrika jauh lebih lambat, baru memulai uji coba pada tahun 2022 dan berencana meluncurkan versi nasional pada tahun 2026[^23]. Tempat lain sering kali tidak bertahan lama; Taiwan adalah tujuh puluh lima tahun, tanpa satu pun jeda.
+Georgia pada 2012 membawa ide serupa pulang, alasan resmi penghentiannya adalah "tidak menunjukkan hasil", tetapi think tank yang mengajukan penelitian itu sendiri mengatakan kalimat itu tidak pernah didukung analisis publik—sebenarnya alasannya tampaknya adalah uang: volume laporan harian bukti sah dari puncak lebih dari dua juta lembar, turun hingga hanya tersisa tiga puluh ribu lembar sebelum ditutup, pemerintah baru tidak menaruhkan anggaran untuk mempertahankan peluang menang yang menarik, kurang dari setahun sudah ditutup[^21]; Korea Selatan dari 2005 hingga 2011, akhirnya juga menyerahkan undian, hanya menyisakan mekanisme hadiah melaporkan pedagang yang tidak menerbitkan struk[^22]; Sementara di Afrika jauh, Tanzania baru memulai pilot pada 2022, dan 2026 masih bersiap meluncurkan versi nasional[^23]. Tempat lain sering tidak tahan lama, Taiwan sudah 75 tahun, tidak satu pun periode terputus.
 
 ```tw-bars
-Taiwan: Tujuh Puluh Lima Tahun Tanpa Jeda, Tidak Ada Kasus Kedua yang Bertahan Selama Ini
-*Taiwan | 75 | Sejak 1951, Tanpa Jeda
-Korea Selatan | 6 | 2005–2011, Ditutup dan Menyisakan Hadiah Pelaporan
-Georgia | 1 | Mulai Tahun 2012, Ditutup Kurang dari Setahun
-Sumber: Departemen Keuangan, Institut Kebijakan ISET, Biro Pajak Korea Selatan
+Taiwan 75 tahun tanpa periode terputus, tidak ada kasus kedua yang bertahan begitu lama
+*Taiwan | 75 | 1951 hingga kini, tanpa periode terputus
+Korea Selatan | 6 | 2005–2011, ditutup beralih ke hadiah pelaporan
+Georgia | 1 | 2012 dimulai, kurang setahun ditutup
+Sumber: Departemen Keuangan, ISET Policy Institute, Kantor Pajak Nasional Korea Selatan
 ```
 
-Tanzania tidak dimasukkan dalam tabel ini—saat ini hanya ada catatan uji coba regional selama tiga bulan pada tahun 2022; apakah itu beroperasi, ditangguhkan, atau dimulai kembali di tahun-tahun berikutnya tidak diketahui secara publik, dan angka tersebut tidak dapat dibandingkan dengan siklus hidup lengkap "mulai hingga tutup" seperti Korea Selatan dan Georgia.
+Tanzania tidak dimasukkan ke grafik ini—saat ini hanya ditemukan catatan satu kali pilot wilayah selama tiga bulan pada 2022, apakah beberapa tahun tengah itu beroperasi terus, dihentikan, atau dimulai ulang, tidak ada data publik, berbeda dengan Korea Selatan, Georgia yang memiliki angka siklus hidup lengkap "mulai hingga tutup", bukan ukuran yang sama, tidak cocok dimasukkan ke diagram batang perbandingan yang sama.
 
-Apa yang terakumulasi selama tujuh puluh lima tahun adalah serangkaian angka. Hingga Juni 2026, total dua ribu enam ratus empat belas hadiah spesial sepuluh juta telah ditarik, tetapi tiga ratus tujuh hadiah tidak pernah diklaim, dan setelah melewati batas waktu penukaran, mereka selamanya tidak dapat diambil[^11]. Sebagian besar dari sepuluh juta yang tidak diklaim itu hanyalah karena orang sudah lupa untuk menunduk dan mengundi—tetapi ada juga orang yang sangat beruntung: pemenang terbaru pada tahun 2026, salah satu yang paling beruntung, memenangkan hadiah utama sepuluh juta hanya dengan menghabiskan dua dolar untuk kantong belanja di McDonald's Tucheng, Taipei Baru[^24].
+75 tahun akumulasi menghasilkan deretan angka panjang. Hingga Juni 2026, deretan nomor ini total mengeluarkan 1.264 lembar hadiah khusus sepuluh juta, di antaranya 307 lembar tidak pernah diklaim, melewati batas waktu penukuran ditentukan maka tidak bisa diklaim selamanya[^11]. Puluhan juta yang tidak diklaim itu, sebagian besar hanya karena orang sudah lupa mengecek hadiah—tetapi ada juga yang beruntung luar biasa: di antara pemenang terbaru 2026, yang paling beruntung hanya beli tas belanja NT$2 di sebuah McDonald's di Tucheng, Kota New Taipei, sudah menang hadiah besar sepuluh juta[^24].
 
-Jadi, lain kali ketika Anda membayar di minimarket dan staf bertanya "Mau dicatat?", Anda mengulurkan tangan menerima kertas tipis yang masih terasa hangat, atau membiarkannya terbang ke awan—Anda tidak hanya menyelesaikan sebuah transaksi. Anda melanjutkan refleks yang telah hidup selama tujuh puluh lima tahun, lebih lama daripada siapa pun yang mendorongnya, bahkan lebih lama dari rezim yang melahirkannya. Hanya saja kali ini, tindakan itu secara diam-diam ditambahkan satu pertanyaan yang sebelumnya tidak perlu dijawab: apakah serangkaian nomor itu akan memenangkan Anda, murni keberuntungan, atau sudah dihitung oleh seseorang?
+Jadi lain kali, saat kamu di minimarket bayar, kasir menanyakan "mau pakai carrier", kamu mengulurkan tangan menerima kertas tipis yang masih hangat, atau membiarkannya langsung terbang ke awan—kamu menyelesaikan bukan sekadar satu transaksi. Kamu melanjutkan satu refleks yang sudah hidup 75 tahun, lebih lama dari siapapun yang mendorongnya, bahkan lebih lama dari rezim yang melahirkannya. Hanya kali ini, gerakan ini diam-diam menambah satu pertanyaan yang dulu tidak perlu dijawab: apakah deretan nomor itu akan menang untukmu, murni keberuntungan, atau sudah lama ada yang menghitungkannya untukmu?
 
 ---
 
-**Bacaan Lanjutan**:
+**Baca Lanjutan**:
 
-- [Keajaiban Ekonomi](/id/economy/economic-miracle) — Tahun 1950 ketika Faktur Terpadu lahir adalah periode mobilisasi yang sama saat Taiwan beralih dari jurang keuangan menuju lepas landas ekonomi.
-- [Budaya Minimarket Taiwan](/id/lifestyle/convenience-store-culture) — Adegan di mana paling banyak orang menukarkan hadiah faktur dan mengatakan "919" berada di kasir empat minimarket besar.
-- [Teror Putih Taiwan](/id/history/taiwan-white-terror) — Pada era ketika perancang faktur Ren Hsien-ch'un dipenjara atas tuduhan "mengetahui mata-mata tetapi tidak melaporkannya," satu tuduhan saja bisa berakibat fatal.
-- [Keadilan Transisi Taiwan](/id/history/taiwan-transitional-justice) — Pemulihan yang dilakukan oleh Ren Hsien-ch'un melintasi dua pemerintahan dan memakan waktu bertahun-tahun adalah bagian konkret dari perjalanan Taiwan menghadapi sejarah otoriter.
-- [Mekanisme Harga Minyak Taiwan dan CPC](/id/economy/taiwan-fuel-pricing-and-cpc) — Menggunakan satu dokumen sistem sebagai penggaris: bagaimana rilis berita harga minyak membagi satu liter menjadi tiga bagian, meminta CPC untuk menanggungnya, membaginya secara merata per liter, sementara siapa yang paling banyak menggunakannya tidak pernah dihitung.
+- [Gaji, Pajak & Pensiun](/income/) — Faktur mengatur pajak penjualan, sisi gaji pajak penghasilan komprehensif dihitung siapa yang bayar, ada di topik ini.
+- [Keajaiban Ekonomi](/id/economy/economic-miracle) — Dekade 1950 saat Faktur Terpadu lahir, adalah periode mobilisasi yang sama ketika Taiwan dari krisis keuangan menuju take-off ekonomi.
+- [Budaya Minimarket Taiwan](/id/lifestyle/convenience-store-culture) — Hari ini paling banyak orang menukar hadiah faktur, mulut berkata "919" donasi faktur, ada di kasir empat minimarket besar.
+- [Teror Putih Taiwan](/id/history/taiwan-white-terror) — Era perancang faktur Ren Hsien-ch'un dipenjara karena "tahu komUNIS tapi tidak melapor", satu label cukup mematikan.
+- [Keadilan Transisional Taiwan](/id/history/taiwan-transitional-justice) — Ren Hsien-ch'un yang melintasi dua pemerintahan, memakan waktu bertahun-tahun baru dibebaskan, adalah rangkaian konkret Taiwan menghadapi sejarah otoriter.
+- [Mekanisme Harga Bensin Taiwan & CPC](/id/economy/taiwan-fuel-pricing-and-cpc) — Sama saja menjadikan satu dokumen sistem sebagai penggaris: satu rilis pers harga bensin bagaimana memotong satu liter jadi tiga bagian, suruh CPC tahan dulu, murah dibagi rata per liter, siapa pakai paling banyak tidak pernah distatistik.
 
 ## Sumber Gambar
 
