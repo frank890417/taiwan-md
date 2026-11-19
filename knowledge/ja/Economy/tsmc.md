@@ -19,9 +19,14 @@ author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-09
 factCorrectionLog:
-  [
-    "{'date': datetime.date(2026, 5, 9), 'triggered_by': '讀者社群指證', 'corrections': ['1987 第一座 fab 製程：「0.8 微米」→「6 吋 150mm 晶圓 + 2 微米」(TSMC 官網 + 瞿宛文獨評 + FundingUniverse 三源 verify) / 算術「跟 2 奈米差 400 倍」→「差 1000 倍」(2µm/2nm = 1000x)', 'Fab 編號：「Fab 5 是第一座 8 吋廠」→「Fab 3 是第一座 8 吋廠（1995 量產爬升）；Fab 5 是第三座（1995-11 開工 / 1997-10 落成 / 1998 量產 0.35µm）」(TSMC 官網 PR Top Fab 2000)', '1985 timing：「1985-08-21 回台...八個月後他剛從美國德州儀器卸下副總裁」timing 倒置 → 重寫為「1983 年離開 TI 後又在 General Instrument 待了兩年；那年八月他結束美國的一切」(維基百科張忠謀 + 多源 confirm 1983 leave TI / 1985 leave GI / 1985-08-21 回台)']}",
-  ]
+  - date: 2026-05-09
+    triggered_by: '讀者社群指證'
+    corrections:
+      [
+        '1987 第一座 fab 製程：「0.8 微米」→「6 吋 150mm 晶圓 + 2 微米」(TSMC 官網 + 瞿宛文獨評 + FundingUniverse 三源 verify) / 算術「跟 2 奈米差 400 倍」→「差 1000 倍」(2µm/2nm = 1000x)',
+        'Fab 編號：「Fab 5 是第一座 8 吋廠」→「Fab 3 是第一座 8 吋廠（1995 量產爬升）；Fab 5 是第三座（1995-11 開工 / 1997-10 落成 / 1998 量產 0.35µm）」(TSMC 官網 PR Top Fab 2000)',
+        '1985 timing：「1985-08-21 回台...八個月後他剛從美國德州儀器卸下副總裁」timing 倒置 → 重寫為「1983 年離開 TI 後又在 General Instrument 待了兩年；那年八月他結束美國的一切」(維基百科張忠謀 + 多源 confirm 1983 leave TI / 1985 leave GI / 1985-08-21 回台)',
+      ]
 lastHumanReview: false
 readingTime: 14
 researchReport: 'reports/research/2026-05/台灣企業：台積電.md'
@@ -30,15 +35,21 @@ imageCredit: '曾成訓 (Tseng Cheng-Hsun) via Wikimedia Commons'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:TSMC_fabs_in_Hsinchu_01.jpg'
 sporeLinks:
-  [
-    "{'id': 68, 'platform': 'threads', 'date': '2026-05-09', 'url': 'https://www.threads.com/@taiwandotmd/post/DYHoQtCE-5Z'}",
-    "{'id': 69, 'platform': 'x', 'date': '2026-05-09', 'url': 'https://x.com/taiwandotmd/status/2053100425730269544'}",
-  ]
+  - id: 68
+    platform: 'threads'
+    date: '2026-05-09'
+    url: 'https://www.threads.com/@taiwandotmd/post/DYHoQtCE-5Z'
+  - id: 69
+    platform: 'x'
+    date: '2026-05-09'
+    url: 'https://x.com/taiwandotmd/status/2053100425730269544'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣企業：台積電.md'
-sourceCommitSha: '6ffd92f94'
-sourceContentHash: 'sha256:e8afc225ea9e0107'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:0052f66a7d8738c5'
 sourceBodyHash: 'sha256:6bdb1c40d1477a30'
-translatedAt: '2026-08-04T06:18:07+08:00'
+translatedAt: '2026-11-19T01:42:44.229652+00:00'
 ---
 
 # 台湾企業：TSMC（台積電）
@@ -234,15 +245,17 @@ NVIDIAのAI学習チップ、アップルのスマホプロセッサ、AMDのサ
 
 誰もこの規模の移転を計画していなかった。だが56年ぶりの大干ばつの中で、給水車は宝山へ走り続け、アリゾナの建設現場では第3ファブが着工し、ホワイトハウスのレッドカーペットの上で、トランプは56歳でテキサス・インスツルメンツを去ったあの男を「この部屋で最も重要な男だ」と称えた——けれど、あの56歳の男は、もうこの部屋にはいない。
 
-## 延伸閲讀
+## 関連記事
 
-- [台湾企業：聯發科技](/ja/economy/mediatek) — 世界第3位のスマホチップ設計企業、ファブレスモデルの台湾代表、TSMCとは相補関係にある双子のような存在
-- [台湾企業：日月光半導體](/ja/economy/taiwan-enterprise-ase-semiconductor) — 世界最大のOSAT（封止・検査）企業、TSMCと同じサプライチェーンの下流重要ノード
-- [台湾股市與資本市場](/ja/economy/taiwan-stock-market) — TSMCの時価総額は台湾株式市場総時価総額の約35%を占め、台湾株を理解するにはまずTSMCを理解する必要がある
-- [台湾產業轉型升級](/ja/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMCは台湾が「受託製造の島」から「科学技術の島」へ転身した具体的事例
-- [施振榮](/ja/people/stan-shih) — TSMCの取締役を21年務め、個人資産の最大部分をTSMC株に賭けたエイサー創業者、しかし「台湾は受託製造をするな」と説いた「スマイルカーブ」の提唱者でもある
-- [半導体産業](/ja/technology/taiwan-semiconductor-industry/) — RCA技術導入から窒化ガリウム・量子封止までの50年材料革命、TSMCが属する材料科学の戦場全体
-- [黄崇仁](/ja/people/frank-huang-psmc) — 力晶／力積電創業者、同じ島で別の道を歩んだ男：同じくウェハー製造、一度は千億単位の負債で上場廃止、9年後にようやく再上場
+- [台湾産業特集](/industry/) — 公式統計に基づき、輸出とGDPの70年史、科学園区（サイエンスパーク）、各都市の工場、歴年の時価総額トップ10、そして6つの公共論争における各方面の見解をまとめています。
+- [サプライチェーン・マップ](/industry/supply-chain-map/) — 半導体、AIサーバー、タングステンの3つのチェーンについて、どの企業が台湾にあり、どの工程が海外に依存しているのかを詳しく解説しています。
+- [台湾企業：メディアテック（聯發科技／MediaTek）](/ja/economy/mediatek) — 世界第3位のモバイルチップ設計会社であり、ファブレス・モデルの国内代表格として、TSMCと互いに補完し合う双子のような関係にあります。
+- [台湾企業：日月光半導体（ASE Group）](/ja/economy/taiwan-enterprise-ase-semiconductor) — 世界最大のOSAT（半導体後工程）メーカーであり、TSMCと同じサプライチェーンにおける下流工程の重要拠点です。
+- [台湾の株式市場と資本市場](/ja/economy/taiwan-stock-market) — TSMCの時価総額は台湾株式市場全体の約35%を占めており、台湾株を理解するにはまずTSMCを理解する必要があります。
+- [台湾産業の構造転換と高度化](/ja/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMCは、台湾が「受託製造の島」から「テクノロジーの島」へと変貌を遂げた具体的な事例です。
+- [施振榮（し・しんえい／Shi Chen-rong）](/ja/people/stan-shih) — TSMCの取締役を21年間務め、資産の大部分をTSMC株に投じたAcerの創業者。しかし、彼はまさに「台湾は受託製造に留まるな」と説いた「微笑曲線（スマイルカーブ）」の提唱者でもあります。
+- [半導体産業](/ja/technology/taiwan-semiconductor-industry) — RCAからの技術移転から、窒化ガリウムや量子パッケージングに至る50年の材料革命、TSMCが身を置く材料科学という戦場全体について。
+- [黄崇仁（こう・すうじん／Huang Chung-jen）](/ja/people/frank-huang-psmc) — 力晶／力積電（PSMC）の創業者。同じ島におけるもう一つの道：同じくウェハー製造を行いながら、かつては1,000億元もの負債を抱えて上場廃止となり、9年を経てようやく株式市場に復帰しました。
 
 ## 画像出典
 
