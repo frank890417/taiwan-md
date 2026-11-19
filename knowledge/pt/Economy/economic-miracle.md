@@ -2,7 +2,7 @@
 title: 'Milagre econômico: das tiras de batata-doce à TSMC, a história da virada construída por 20 milhões de pessoas'
 description: 'No início da década de 1950, a renda média por pessoa em Taiwan mal passava de cem dólares, e, para a filha de uma família de agricultores, um “dia de fartura” significava comer tiras de batata-doce com 30% de arroz branco. Quarenta anos depois, a renda per capita taiwanesa superou dez mil dólares, e o país passou a integrar os “Quatro Tigres Asiáticos”. Mas o ponto de partida dessa história de transformação não foi uma zona de processamento para exportação, e sim uma reforma agrária que converteu títulos de propriedade em oportunidades — no caminho, houve ainda operárias que trabalhavam 12 horas por dia, empresários que apostaram todas as economias da família em pequenas fábricas e uma aposta de NT$ 200 bilhões quando as reservas cambiais eram de apenas US$ 1 bilhão.'
 date: 2026-03-23
-category: 'pt'
+category: 'Economy'
 tags:
   [
     'Economia',
@@ -19,15 +19,16 @@ featured: false
 lastVerified: 2026-07-18
 lastHumanReview: true
 readingTime: 15
+researchReport: 'reports/research/2026-07/經濟奇蹟.md'
 image: '/article-images/economy/kaohsiung-epz-inauguration-1966.webp'
 imageCredit: '行政院珍貴史料展示'
 imageLicense: '政府史料典藏（editorial commentary use）'
 imageSource: 'https://history.ey.gov.tw/en/Items/premier-yen-chia-kan-hosts-the-inauguration-of-the-kaohsiung-export-processing-zone/'
 translatedFrom: 'Economy/經濟奇蹟.md'
-sourceCommitSha: '9c5ad569a'
-sourceContentHash: 'sha256:97768e7e71587490'
-sourceBodyHash: 'sha256:411e4d6f8779c88a'
-translatedAt: '2026-07-18T18:57:47+08:00'
+sourceCommitSha: 'f024e87e7'
+sourceContentHash: 'sha256:a30286fdcb0b3c86'
+sourceBodyHash: 'sha256:d322b1b9c5e6743f'
+translatedAt: '2026-11-19T09:18:28.633823+00:00'
 ---
 
 # Milagre econômico: das tiras de batata-doce à TSMC, a história da virada construída por 20 milhões de pessoas
@@ -317,29 +318,30 @@ A experiência do milagre econômico de Taiwan continua oferecendo lições:
 
 ## Do milagre à transformação: os desafios do futuro
 
-Em 2024, Taiwan já não precisava de um “milagre econômico”. Com um PIB per capita superior a US$ 30 mil, era inequivocamente um país desenvolvido. Novos desafios, contudo, começavam a surgir:
+Em 2024, Taiwan já não precisa de um "milagre econômico". Com o PIB per capita acima de US$ 30.000, é, sem dúvida, um país desenvolvido. No entanto, novos desafios estão a surgir:
 
 ### Pressão pela transformação industrial
 
-Transferência da indústria de transformação para o exterior, baixa produtividade no setor de serviços e estagnação do crescimento salarial: a economia taiwanesa precisa de novos motores de crescimento. Embora poderosa, a indústria de semicondutores não consegue sustentar toda a economia. Taiwan precisa desenvolver mais empresas “campeãs ocultas”.
+A migração da indústria manufatureira para o exterior, a baixa produtividade do setor de serviços e o estagnação dos salários — a economia de Taiwan precisa de novos motores de crescimento. Embora a indústria de semicondutores seja poderosa, ela não consegue sustentar toda a economia sozinha. Taiwan precisa cultivar mais empresas "campeãs ocultas".
 
 ### O desafio do envelhecimento populacional
 
-A baixa natalidade e o envelhecimento da população fazem Taiwan enfrentar escassez de mão de obra. O antigo modelo de desenvolvimento baseado em grandes contingentes de trabalhadores precisa mudar. Automação, inteligência artificial e atração de profissionais internacionais são questões que terão de ser enfrentadas.
+A baixa taxa de natalidade e o envelhecimento da população fazem com que Taiwan enfrente problemas de escassez de mão de obra. O modelo de desenvolvimento baseado na "tática do mar de pessoas" do passado precisa mudar; automação, inteligência artificial e a atração de talentos internacionais são questões que devem ser enfrentadas.
 
-### Exigências do desenvolvimento sustentável
+### Exigências de desenvolvimento sustentável
 
-A mudança climática obriga Taiwan a repensar seu modelo de desenvolvimento. Como transformar as indústrias de alto consumo energético? Como desenvolver a energia verde? Como construir uma economia circular? Essas são as questões econômicas da nova era.
+As mudanças climáticas obrigam Taiwan a repensar o seu modelo de desenvolvimento. Como transformar indústrias de alto consumo de energia? Como desenvolver energias renováveis? Como estabelecer uma economia circular? Estas são as questões econômicas da nova era.
 
-A história do milagre econômico de Taiwan ainda não terminou. Da reforma agrária à TSMC foi apenas o primeiro capítulo, a passagem da pobreza ao bem-estar. Os próximos capítulos precisarão narrar a passagem do bem-estar à felicidade, do crescimento quantitativo ao avanço qualitativo e do milagre econômico ao progresso social.
+A história do milagre econômico de Taiwan ainda não terminou. Da reforma agrária à TSMC, este foi o primeiro capítulo, que narrou a transição da pobreza para a classe média. Os próximos capítulos devem narrar a passagem da classe média para o bem-estar, do crescimento quantitativo para a melhoria qualitativa e do milagre econômico para o progresso social.
 
-Os autores dessa história continuam sendo todos os taiwaneses.
+O autor desta história continua sendo cada cidadão de Taiwan.
 
-**Leituras adicionais**:
+**Leituras complementares**:
 
-- [Fatura: o papel que transformou toda a população em fiscal tributário em 1951](/pt/economy/taiwan-uniform-invoice) — a fatura uniforme foi uma infraestrutura fiscal decisiva no mesmo período do milagre econômico; em seu primeiro ano, iniciado em 1951, fez a arrecadação do imposto sobre vendas aumentar 75%
-- [Dez Grandes Projetos de Infraestrutura: uma aposta de NT$ 200 bilhões sobre US$ 1 bilhão em reservas cambiais](/pt/history/ten-major-construction-projects) — o contexto completo, as controvérsias e a narrativa política daquela grande aposta da década de 1970
-- [Boas políticas que atravessaram os partidos](/pt/history/bipartisan-good-policy) — a afirmação amplamente difundida de que a reforma agrária “impulsionou o milagre econômico de Taiwan” não resiste, na verdade, a um exame rigoroso
+- [Especial sobre as indústrias de Taiwan](/industry/) — Utilizando estatísticas oficiais para traçar a estrutura industrial: 70 anos de exportações e PIB, parques científicos, fábricas por condado/cidade, o top 10 de valor de mercado histórico, além das visões de todos os lados em seis debates públicos.
+- [Faturas: O papel de 1951 que transformou todos os cidadãos em auditores fiscais](/pt/economy/taiwan-uniform-invoice) — A fatura unificada (uniform invoice) foi uma infraestrutura fiscal crucial durante o período do milagre econômico; no seu primeiro ano de implementação, em 1951, a receita do imposto sobre vendas disparou 75%.
+- [As Dez Grandes Construções: Uma aposta de NT$ 200 bilhões sobre US$ 1 bilhão em divisas](/pt/history/ten-major-construction-projects) — O contexto completo, as controvérsias e a narrativa política daquela grande aposta na década de 1970.
+- [Boas políticas interpartidárias](/pt/history/bipartisan-good-policy) — A afirmação mais difundida de que a reforma agrária "impulsionou o milagre econômico de Taiwan" é, na verdade, insustentável.
 
 ## Fontes das imagens
 
@@ -368,4 +370,4 @@ Este artigo utiliza quatro imagens de acervos históricos oficiais ou de domíni
 
 [^8]: [Diretoria-Geral de Orçamento, Contabilidade e Estatística do Yuan Executivo: banco de dados de renda nacional e crescimento econômico](https://nstatdb.dgbas.gov.tw/dgbasAll/webMain.aspx?sys=100&funid=dgmaind) — Banco de dados oficial com estatísticas históricas de renda nacional e crescimento econômico, no qual os leitores podem consultar os números exatos de cada ano. Este artigo apresenta as taxas de crescimento e a renda ao fim do período como faixas verificáveis nessa base oficial.
 
-[^9]: Banco Mundial, [_The East Asian Miracle_](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/975081468244550798) — Estudo comparativo clássico do Banco Mundial sobre os modelos de desenvolvimento dos Quatro Tigres Asiáticos, abrangendo suas características comuns: industrialização orientada para as exportações, políticas industriais governamentais e investimento em educação.
+[^9]: [_The East Asian Miracle_](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/975081468244550798) — Banco Mundial

@@ -20,10 +20,10 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: true
 translatedFrom: 'Economy/台灣產業轉型升級.md'
-sourceCommitSha: 'd6377e82e'
-sourceContentHash: 'sha256:e6cb5dd5b7d9e8ed'
+sourceCommitSha: 'f024e87e7'
+sourceContentHash: 'sha256:d25d9026ab841b3f'
 sourceBodyHash: 'sha256:ebbc94611dc1b8f9'
-translatedAt: '2026-07-26T23:53:49+08:00'
+translatedAt: '2026-11-19T08:06:54.848424+00:00'
 ---
 
 # Transformação e modernização industrial de Taiwan: de potência manufatureira a potência inovadora
@@ -216,17 +216,16 @@ A MediaTek separou-se da UMC em 1997, entrando no mercado com chips de armazenam
 
 ---
 
-## Leitura complementar
+## Leitura adicional
 
-- [Indústria de semicondutores](/pt/technology/taiwan-semiconductor-industry) — Da transferência de tecnologia RCA em 1976 aos 60% de quota global em 2024, como a indústria nuclear nascida no Parque Científico de Hsinchu se tornou a "Montanha Sagrada Protetora da Nação"
-- [Morris Chang](/pt/people/tsmc-morris-chang) — Figura-chave que fundou a TSMC em 1987, impulsionador nuclear da indústria de semicondutores de Taiwan do zero
-- [Stan Shih](/pt/people/stan-shih) — Autor da Curva do Sorriso: traçou a linha para Taiwan sair do meio da subcontratação, mas a sua fortuna apostou na TSMC que faz "fabricação do meio"
-- [Comércio externo de Taiwan e cadeia global de abastecimento](/pt/economy/taiwan-foreign-trade-and-global-supply-chain) — Das divisas das zonas de processamento às exportações de semicondutores em 2024, a longa trajetória
-- [Ecossistema de startups](/pt/economy/taiwan-startup-ecosystem-overview) — Outro caminho da transformação manufatureira para potência inovadora: desenvolvimento de startups e semicondutores fabless pós-1990
-- [Desenvolvimento de inteligência artificial em Taiwan e estratégia futura](/pt/technology/artificial-intelligence-development-strategy) — A próxima vaga da transformação industrial pós-2024: da hegemonia de hardware à estratégia de aplicações IA
-- [Programa de Liderança Empreendedora SLP Taipei](/pt/economy/slp-taipei-startup-leadership-program) — Programa de formação empreendedora cuja taxa única subiu de 6.000 para 58.000 elementos; a curva de custos é ela própria a escala física do ecossistema de startups de Taiwan da fase inicial à institucionalização
-
----
+- [Tema especial da indústria de Taiwan](/industry/) — Desenha a estrutura industrial com estatísticas oficiais: exportações e PIB de setenta anos, parques científicos, fábricas por condado/cidade, top 10 de capitalização de mercado ao longo dos anos, mais os argumentos de ambos os lados de seis debates públicos
+- [Indústria de semicondutores](/pt/technology/taiwan-semiconductor-industry) — Da transferência de tecnologia da RCA em 1976 à participação de mercado global de 60% em 2024, como a indústria nuclear nascida no Parque Científico de Hsinchu se tornou a "montanha sagrada de proteção do país"
+- [Morris Chang](/pt/people/tsmc-morris-chang) — Figura-chave que fundou a TSMC em 1987, o principal impulsionador da indústria de semicondutores de Taiwan partindo do zero
+- [Stan Shih](/pt/people/stan-shih) — O próprio autor da Curva do Sorriso: traçou a linha para Taiwan sair do meio do segmento de fabricação por encomenda, mas apostou a sua fortuna na TSMC que faz "fabricação do segmento médio"
+- [Comércio externo de Taiwan e cadeia de abastecimento global](/pt/economy/taiwan-foreign-trade-and-global-supply-chain) — Da divisa das zonas de processamento de exportação à posição principal das exportações de semicondutores em 2024, a trajetória de longo prazo
+- [Ecossistema de startups](/pt/economy/taiwan-startup-ecosystem-overview) — Outro caminho da transformação da indústria transformadora para potência de inovação: desenvolvimento de startups e semicondutores fabless após os anos 1990
+- [Desenvolvimento de inteligência artificial de Taiwan e estratégia futura](/pt/technology/artificial-intelligence-development-strategy) — A próxima onda de transformação industrial pós-2024: da hegemonia de hardware estendendo-se ao posicionamento estratégico de aplicações de IA
+- [Programa de Liderança Empreendedora SLP Taipé](/pt/economy/slp-taipei-startup-leadership-program) — Programa de formação empreendedora cuja taxa única subiu de NT$6.000 para NT$58.000, a própria curva de custos é a régua física do ecossistema de startups de Taiwan do início à institucionalização
 
 ## Referências
 

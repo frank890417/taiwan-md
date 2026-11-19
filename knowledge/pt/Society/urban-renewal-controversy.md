@@ -25,10 +25,10 @@ rationale:
   where_it_hedges: '文林苑案的時序、法院判決理由與雙方主張採維基百科條目（該條目引用台北高等行政法院 98 年度訴字 2467 號、最高行政法院 100 年度裁字 1582 號判決與市府新聞稿）；釋字 709 的審查客體與違憲結論採司法院解釋原文與立法院議案文書；都更條例的立法與核定案件數採維基百科整理。'
   whos_pushing_back: '認為王家被塑造成受害者、忽略其土地本來就無法改建的讀者；認為大法官過度介入立法政策的讀者；以及認為同意戶的權益在整起事件中被完全忽略的讀者。'
 translatedFrom: 'Society/都市更新爭議.md'
-sourceCommitSha: '4d588c462'
-sourceContentHash: 'sha256:94ff250b0e25855f'
-sourceBodyHash: 'sha256:75a7daaeb80e499b'
-translatedAt: '2026-10-20T00:51:05+08:00'
+sourceCommitSha: 'f024e87e7'
+sourceContentHash: 'sha256:d27aa7a78b691159'
+sourceBodyHash: 'sha256:c44ec23dc468f721'
+translatedAt: '2026-11-19T09:37:00.607104+00:00'
 ---
 
 # Controvérsia da renovação urbana: como Taiwan lida com os "proprietários dissidentes" após o caso Wenlin Yuan
@@ -81,18 +81,19 @@ Em 28 de maio, Wang Guangshu, após perder dez ações judiciais e enfrentar aç
 
 Vale notar que os "afetados" neste caso não eram apenas a família Wang. Os proprietários que consentiram não puderam voltar para casa durante a luta; relatos indicam que sete idosos entre os proprietários que consentiram faleceram antes da conclusão do edifício.[^1] Essa é também a maior diferença entre o caso Wenlin Yuan e conflitos de demolição comuns: não é uma confrontação binária entre governo e residentes, mas uma comunidade dividida ao meio, com ambos os lados pagando um preço.
 
-## O que o sistema deixou
+## O que o sistema deixa
 
-A Lei de Renovação Urbana foi promulgada em 11 de novembro de 1998 e entrou em vigor em 13 de novembro, sendo a lei especial de renovação urbana de Taiwan.[^4] Conforme estatísticas da Fundação de Pesquisa e Desenvolvimento de Renovação Urbana, de 2000 até o final de 2020, acumularam-se 751 casos de projetos de reconstrução aprovados sob essa lei em todo Taiwan, com área total de 242,70 hectares; 150 casos de projetos de reforma e manutenção foram aprovados.[^4] A lei passou por sua décima segunda alteração até 13 de novembro de 2024.[^4]
+A 《Lei de Renovação Urbana》 foi promulgada em 11 de novembro de 1998 e entrou em vigor no dia 13; é a lei especial de renovação urbana de Taiwan.[^4] Segundo as estatísticas da Fundação de Investigação e Desenvolvimento de Renovação Urbana, de 2000 até o final de 2020, os casos de reconstrução aprovados sob essa lei em todo Taiwan totalizam 751, com área total de 242,70 hectares, e 150 casos de renovação e manutenção aprovados.[^4] Até 13 de novembro de 2024, a lei já passou pela décima segunda emenda.[^4]
 
-Após a alteração legal, o tratamento de proprietários dissidentes ganhou um procedimento adicional: a Comissão de Revisão de Renovação Urbana deve reconhecer a razoabilidade da área de renovação, e audiências públicas devem ser realizadas em caso de controvérsia. A controvérsia sobre demolição compulsória também mudou de "a prefeitura decide" para decisão judicial.[^1] Esses desenhos responderam à preocupação central da Interpretação nº 709, mas não responderam à questão mais fundamental: quando os interesses de propriedade da maioria entram em conflito com a vontade habitacional da minoria, de que lado a lei deve estar.
+Após a emenda, o tratamento dos proprietários discordantes ganhou um procedimento adicional: o Conselho de Deliberação de Renovação Urbana deve reconhecer a razoabilidade do âmbito de renovação; em caso de controvérsia, deve realizar audiência pública. As controvérsias sobre demolição por procuração também mudaram de "a prefeitura decide" para serem decididas pelo tribunal.[^1] Esses desenhos responderam às preocupações centrais da Interpretação nº 709, mas não responderam à questão mais fundamental: quando os interesses de propriedade da maioria entram em conflito com a vontade de moradia da minoria, de que lado a lei deve estar?
 
-A resposta do caso Wenlin Yuan é "maioria com salvaguardas procedimentais". Essa resposta permitiu que a renovação urbana de Taiwan se recuperasse lentamente da paralisação pós-2012, e também tornou o processo de revisão de cada caso de renovação urbana mais longo e mais caro. O custo é compartilhado por todos, incluindo aqueles que apenas queriam voltar para casa, mas esperaram mais de quatro anos.
+A resposta do caso Wenlin Yuan é "maioria com garantias processuais". Essa resposta fez com que a renovação urbana de Taiwan se recuperasse lentamente da paralisação pós-2012, e também tornou o processo de deliberação de cada caso de renovação urbana mais longo e mais caro. O custo é dividido por todos, incluindo aqueles que só queriam voltar para casa, mas esperaram mais de quatro anos — os proprietários concordantes.
 
 **Leitura complementar**:
 
-- [Habitação social e justiça habitacional](/pt/society/social-housing-and-housing-justice) — outra linha de política habitacional além do mercado imobiliário
-- [Habitação estatal e justiça habitacional](/pt/society/public-housing-justice) — história da política de habitação estatal, desde sua construção até seu encerramento
+- [Preços de imóveis, empréstimos habitacionais e habitação jovem em Taiwan](/housing/) — Página especial: colocar a renovação urbana de volta no sistema habitacional como um todo, com colunas para empréstimos, impostos, transações de terra e oferta habitacional
+- [Habitação social e justiça habitacional](/pt/society/social-housing-and-housing-justice) — Outra linha de política habitacional fora do mercado imobiliário
+- [Habitação pública e justiça habitacional](/pt/society/public-housing-justice) — História da política de habitação pública, da construção à descontinuação
 
 ## Referências
 
