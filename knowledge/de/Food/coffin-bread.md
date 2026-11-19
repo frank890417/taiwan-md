@@ -1,15 +1,15 @@
 ---
-title: 'Koffinbrot: Vom unheilvollen Namen zum taiwanesischen Kultgericht'
-description: 'Ende der 1940er entstand in Tainan Sakuraba ein ungewöhnliches Gericht namens „Hühnerleberbrot“, dessen Form so sehr an eine Grabkiste erinnerte, dass es später als „Koffinbrot“ bekannt wurde. Dieses von Xu Liùyī (Hsi Lui-i) erfundene Gericht, bestehend aus frittiertem Brot mit Hühnerleber und Sahne, war nicht nur eine nährwürdige Ergänzung in den knappen Nachkriegsjahren, sondern wurde sogar von CNN berichtet und etablierte sich als internationales Symbol der „mischigen“ taiwanesischen Küche.'
+title: 'Sargbrot: Vom Unglücksnamen zur tainanischen Delikatesse mit ost-westlicher Fusion'
+description: 'Ende der 1940er Jahre tauchte in Sakariba in Tainan ein Snack namens „Hühnerleber-Brot“ auf, der aufgrund seiner einzigartigen Form scherzhaft „Sargbrot“ genannt wurde. Dieses von Herrn Hsu Liu-i erfundene Gericht, bei dem knusprig frittiertes Toastbrot Hühnerleber und Sahne-Teig umhüllt, war nicht nur eine nahrhafte Ergänzung in der Nachkriegszeit knapper Ressourcen, sondern wurde auch von CNN berichtet und wurde so zur internationalen Visitenkarte der „ost-westlichen Fusion“ der Esskultur Tainans.'
 date: 2026-06-16
 category: 'Food'
 tags:
   [
-    'Tainan Snacks',
-    'Koffinbrot',
-    'Xu Liùyī',
-    'Sakuraba',
-    'Hühnerleberbrot',
+    'Tainan-Snacks',
+    'Sargbrot',
+    'Hsu Liu-i',
+    'Sakariba',
+    'Hühnerleber-Brot',
     'CNN-Bericht',
   ]
 subcategory: '經典小吃'
@@ -18,60 +18,62 @@ featured: false
 lastVerified: 2026-06-16
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/棺材板.md'
-sourceCommitSha: 'b7f6ebf9b'
-sourceContentHash: 'sha256:2019e39a8477f086'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:c1a6f8a2f2e30ae7'
 sourceBodyHash: 'sha256:d70608d1aa149287'
-translatedAt: '2026-09-23T04:15:47+08:00'
+translatedAt: '2026-11-19T21:54:22+08:00'
 ---
 
-> **30-Sekunden-Überblick:** Ende der 1940er erfand Xu Lui-i in Tainans Sakuraba (heute bekannt als Kanglü Markt) das „Hühnerleberbrot“, das wegen seiner Ähnlichkeit mit einer ausgegrabenen Grabkiste später „Koffinbrot“ hieß. Ein scheinbar abschreckender, aber dennoch kreativer Speise, der mit knusprigem Brot umschlossen ist und nicht nur ein Bild der nachkriegszeitlichen Mischkultur der taiwanesischen Küche ist, sondern sogar von internationalen Medien wie CNN thematisiert wurde. Von den Anfängen mit Hühnerleber bis zur modernen Meeresfrüchte-Sahne-Soße hat es sich von einem lokalen Snack zu einem der bekanntesten internationalen Gerichten von Tainan entwickelt.
+> **30-Sekunden-Überblick:** Ende der 1940er Jahre wurde Herrn Hsu Liu-i in Sakariba, Tainan, seine eigens kreierte „Hühnerleber-Brot“ aufgrund ihrer einem Steinsarg ähnlichen Form von einem Professor scherzhaft „Sargbrot“ genannt. Dieses scheinbar unglückliche, doch kreative Gericht, bei dem knusprig frittiertes Toastbrot eine reichhaltige Füllung umhüllt, ist nicht nur ein Abbild der „ost-westlichen Fusion“ der taiwanischen Nachkriegs-Esskultur, sondern wurde auch von internationalen Medien wie CNN berichtet. Von der ursprünglichen Hühnerleber-Füllung bis hin zur heutigen Meeresfrüchte-Weißsoße hat es sich von einem lokalen Snack zu Tainans repräsentativster internationaler kulinarischer Visitenkarte entwickelt.
 
-Ende der 1940er erholte sich Taiwan langsam vom Krieg, und in Tainans lebendigem Sakuraba-Markt (heute Kanglü Markt) wurde ein neues, ungewöhnliches Gericht erfunden [^1]. Es besteht aus dicken Scheiben Brot, die frittiert sind und mit einer füllenden Füllung gefüllt sind, doch wegen seines markanten Namens „Koffinbrot“ wurde es berühmt. Ein scheinbar abscheuliches, aber dennoch hochschätzes Gericht aus Tainan, das die Entwicklung der taiwanesischen Küche nach dem Krieg widerspiegelt und die Kreativität eines Küchenchefs zeigt.
+Ende der 1940er Jahre erholte sich Taiwan langsam von der Nachkriegs-Ressourcenknappheit, und in Tainans lebhaftem „Sakariba“ (dem heutigen Kang-Le-Markt) wurde still und leise ein neuartiger Snack geboren [^1]. Er verwendete dick geschnittenes, knusprig frittiertes Toastbrot als Träger, war reich gefüllt, wurde aber wegen seines gewagten Namens – „Sargbrot“ – weithin bekannt. Dieser auf den ersten Blick unglückliche, doch den Appetit anregende Tainan-Snack trägt in Wirklichkeit die einzigartige Entwicklung der taiwanischen Nachkriegs-Esskultur sowie die Kreativität und Beharrlichkeit eines Kochs in sich.
 
-### Entstehung des Hühnerleberbrots und der Name „Koffinbrot“
+### Die Geburt des Hühnerleber-Brots und der Name „Sarg“
 
-Der Erfinder des Koffinbrots ist Xu Lui-i (Hsi Lui-i), der Gründer des Chiqan-Restaurants (ursprünglich bekannt als Chiqan Snack Bar oder Shenchang Laociqan) [^2]. Bereits um 1935 eröffnete er eine Snack-Bude in Sakuraba (Shenchang), wo er während der japanischen Kolonialzeit in Südostasien als Soldatenkoch dienend, japanische und westliche Kochtechniken erlernte [^3]. Nach der Befreiung kehrte Xu Lui-i nach Tainan zurück und kombinierte seine westlichen Kochfertigkeite mit lokalen Zutaten, wodurch das ursprüngliche „Hühnerleberbrot“ entstand. Gleichzeitig popularisierte er das „Lunch“ (eine westliche Schnellimbissspeise), was beide Gerichte zu den typischen Mischkreationen der Nachkriegszeit machte.
+Der Erfinder des „Sargbrots“ ist Herr Hsu Liu-i, Gründer des Chihkan-Restaurants (ursprünglich „Chihkan-Snack-Laden“ oder „Altes Chihkan im Blütefeld“) [^2]. Bereits um 1935 eröffnete er in Sakariba (dem Blütefeld) einen Snack-Stand. Während der japanischen Kolonialzeit wurde er zum Dienst in den Südseeinseln als Militärträger eingezogen, wo er japanische und westliche Kochkünste erlernte [^3]. Nach der „Rückkehr“ (1945) kam Hsu Liu-i nach Tainan zurück, verband westliche Kochtechniken mit lokalen taiwanischen Zutaten und schuf das ursprüngliche „Hühnerleber-Brot“; gleichzeitig führte er „Lunch“ (westliches Schnellgericht) ein – beides waren repräsentative Beispiele der damaligen Nachkriegs-Fusionsküche.
 
-Was den Namen betrifft, so ist die weit verbreitete Version, dass Ende der 1950er (ungefähr 1959) ein Professor von der Nationalen Taiwan Universität (manche sagen auch ein Professor von der Nationalen Sun Yat-sen Universität oder ein Freund der Xu-Familie) in das Geschäft kam, das Gericht probierte und bemerkte, dass die Form des aufgeschlagenen Brots an eine ausgegrabene Grabkiste erinnerte. Er sagte scherzhaft: „Dieses Hühnerleberbrot sieht genauso aus wie die Grabkisten, die wir gerade ausgraben!“ [^1] [^5]. Xu Lui-i hörte dies und fand, dass der Name sowohl einprägsam als auch leicht zu merken ist, weshalb er das Gericht offiziell in „Koffinbrot“ umbenannte und das Geschäftsschild entsprechend anpasste – und von da an wurde es berühmt [^2].
+Zur Namensherkunft kursiert die meistverbreitete Version: Angeblich Ende der 1950er Jahre (ca. 1959) kam ein Professor des Archäologie-Teams der Taihoku-Universität (andere Quellen nennen einen Professor der Chengkung-Universität oder einen befreundeten Professor von Hsu) in den Laden, um zu kosten. Als er die Form des aufgedeckten Toasts sah, die einem ausgegrabenen Steinsarg glich, scherzte er spontan: „Dieses Hühnerleber-Brot ähnelt den Steinsärgen, die wir ausgraben!“ [^1] [^5]. Herr Hsu Liu-i fand den Namen besonders und einprägsam, benannte das Gericht offiziell in „Sargbrot“ um, hängte das Schild auf, und es wurde schlagartig berühmt [^2].
 
-📝 Museumsnotiz: Ein scheinbar unheilvoller Name kann dank seiner Einzigartigkeit sehr beliebt sein – dies spiegelt vielleicht wider, wie Taiwaner mit Humor und Kreativität auf Lebensherausforderungen reagieren.
+📝 Kuratorennotiz: Ein scheinbar unglücklicher Name, der gerade wegen seiner Einzigartigkeit große Beliebtheit erlangt – dies spiegelt vielleicht die Resilienz der Taiwaner wider, die Lebensherausforderungen stets mit Humor und Kreativität zu transformieren vermögen.
 
-### Von Hühnerleber zu Meeresfrüchten: Entwicklung der Füllung und internationale Aufmerksamkeit
+### Von Hühnerleber zu Meeresfrüchten: Die Entwicklung der Füllung und internationale Aufmerksamkeit
 
-Ursprünglich bestand das Koffinbrot aus Hühnerleber, kombiniert mit Wurst, Sahne, Erbsen und Karotten – eine wertvolle nährwürdige Ergänzung in Zeiten knapper Ressourcen [^4]. Um die Textur zu verbessern, wurde manchmal auch Tintenfisch hinzugefügt. Mit der Entwicklung der Zeit wurde die Füllung jedoch allmählich zu einer modernen Variante mit Meeresfrüchten und Hühnerfleisch in Sahnesoße.
+Das ursprüngliche Sargbrot hatte eine Füllung hauptsächlich aus Hühnerleber, kombiniert mit chinesischer Wurst (Lapcheong), Sahne-Teig, Erbsen und Karotten – ein äußerst wertvolles Nahrungsergänzungsmittel in der damaligen Ressourcenknappheit [^4]. Früher wurde zur Geschmacksvertiefung auch Tintenfisch hinzugefügt. Doch mit dem Wandel der Zeit entwickelte sich die Füllung, um dem allgemeinen Geschmack gerecht zu werden, allmählich zur heute üblichen Version mit Meeresfrüchten und Hühnerfleisch in Weißsoße.
 
-Dieser einzigartige Geschmack zog auch internationale Aufmerksamkeit auf sich. CNN berichtete unter dem Titel „Coffin Bread“ über dieses Gericht und machte es zu einem weltweit bekannten Symbol der taiwanesischen Küche [^6]. Allerdings äußerten einige traditionelle Liebhaber ihre Besorgnis darüber, dass die moderne Variante oft wässriger und weniger intensiv im Geschmack ist als die ursprüngliche Version – ein Phänomen, das als „Form vor Seele“ kritisch betrachtet wird.
+Dieser einzigartige taiwanische Geschmack zog auch internationale Aufmerksamkeit auf sich: CNN berichtete in einem Feature unter dem Namen „Coffin Bread“ über diesen Snack, was ihn zu einem international bekannten kulinarischen Wahrzeichen Tainans machte [^6]. Doch mit der Touristifizierung bedauern manche Feinschmecker, dass die moderne Füllung tendenziell verwässert, der Geschmack heller geworden sei, nicht mehr so dick und substanzreich wie früher – sie sprechen von der Herausforderung „Form über Inhalt“.
 
-### Traditionelle Zubereitung und Tipps für den Eigenversuch zu Hause
+### Die authentische Essart und Tipps für die heimische Zubereitung
 
-Die traditionelle Zubereitung im Chiqan-Restaurant ist ziemlich anspruchsvoll: Zuerst wird das knusprige Brot mit Messer und Gabel aufgeschlagen, dann wird die dicke Sahnesoße darüber gegossen, sodass die knusprige Kruste und die cremige Füllung im Mund eine starke Kontraste schaffen [^3]. Ein Koffinbrot kostet etwa 70 New Taiwan Dollar.
+Die authentische Essart im Chihkan-Restaurant ist recht anspruchsvoll: Man schneidet zunächst mit Messer und Gabel den knusprigen Toastdeckel auf, gießt dann die reichhaltige Weißsoße auf das Toastbrot und genießt beides zusammen, sodass die Knusprigkeit der Kruste und die Geschmeidigkeit der Füllung im Mund einen starken Kontrast bilden [^3]. Derzeit kostet eine Portion Sargbrot etwa NT$70.
 
-Für den Selbstaufbau zu Hause kann man dickes Brot (idealerweise Milchbrot) verwenden und es bei exakt richtiger Öltemperatur goldbraun frittieren. Eine vereinfachte Version kann auch im Ofen oder in einer Pfanne zubereitet werden, um die Menge an Öl zu reduzieren. Die Füllung besteht aus Sahne, Zwiebeln, Huhn, Meeresfrüchten und Gemüse, die in Butter angebraten werden, dann mit Milch und Maisstärke zu einer dicken Soße verfeinert wird. Im Winter ist dies eine besonders tröstliche Mahlzeit, wobei man aufgrund des hohen Kaloriengehalts nicht zu viel davon essen sollte.
+Wer es zu Hause probieren möchte, bereitet dicke Toastscheiben vor (Milchtoast empfohlen) und frittiert sie bei präziser Öltemperatur goldgelb. Für die hausgemachte Simple-Version kann man statt Frittieren den Backofen oder eine Pfanne zum Braten des Toasts verwenden, um Öl zu reduzieren; die Füllung wird hergestellt, indem man in Butter Zwiebeln anbrät, Hühnerfleisch, Meeresfrüchte und Gemüse hinzufügt, und schließlich Milch und Maisstärke für eine leichte Andickung einrührt. Im Winter ist eine Portion besonders wohltuend, doch wegen des höheren Kaloriengehalts empfiehlt sich maßvolles Kosten.
 
-### Vererbung und kulturelles Gedächtnis: Empfehlungen von Geschäften
+### Überlieferung und kulturelles Gedächtnis: Restaurant-Empfehlungen
 
-Das Chiqan-Restaurant hat sich bis heute auf die dritte Generation übertragen und behält stets den Ruf „Das beste Brot der Welt“ bei [^2] [^8]. Neben dem Ursprungsstandort im Kanglü-Markt gibt es in Tainan auch einige andere empfehlenswerte Lokale:
+Das Chihkan-Restaurant wird mittlerweile in dritter Generation weitergeführt und bewahrt weiterhin den Ruf als „Weltbestes Brot“ [^2] [^8]. Neben dem Ursprungsort am Kang-Le-Markt gibt es in Tainan noch mehrere alteingesessene Läden, die einen Versuch wert sind:
 
-- **Wangchen Koffinbrot**: In der Altstadt von Anping, bietet Mini-Koffinbrote an, die sich für Besucher eignen, die viele Snacks ausprobieren möchten.
-- **Umgebung von Chiqan-Turm**: Bietet günstigere, lokalere Optionen, die viele Tainener täglich essen.
+- **Wangcheng-Sargbrot**: Liegt in der Anping-Altstadt, bietet Mini-Versionen des Sargbrots an, geeignet für Reisende, die mehrere Snacks probieren möchten.
+- **Stände rund um den Chihkan-Turm**: Bieten günstigere und stärker lokal geprägte Optionen, sind der tägliche Snack vieler Tainaner.
 
-Dieses Gericht hat sich von der Erfindung eines einzelnen Geschäfts zu einem kollektiven kulturellen Gedächtnis der taiwanesischen Küche entwickelt und steht für die Leidenschaft und Kreativität der Menschen in Tainan.
+Dieser Snack hat sich von der Erfindung eines einzelnen Ladens zu einem kollektiven Gedächtnis der Tainaner Esskultur entwickelt und repräsentiert die Leidenschaft und Kreativität der Tainaner für gutes Essen.
 
-### Referenzen
+### Literaturverzeichnis
 
-[^1]: [https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=326048](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=326048) — Nationales Kulturerbearchiv. (ohne Datum). Koffinbrot. Abgerufen von
+[^1]: [https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=326048](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=326048) — Nationale Kulturgedächtnis-Datenbank. (o. D.). Sargbrot. Abgerufen von
 
-[^2]: [https://www.agriharvest.tw/archives/93920/](https://www.agriharvest.tw/archives/93920/) — Agrar-Medien. (8. Dezember 2022). 【Essen】Chiqan Restaurant – Das Koffinbrot, ein Mix aus traditioneller und moderner Küche. Abgerufen von
+[^2]: [https://www.agriharvest.tw/archives/93920/](https://www.agriharvest.tw/archives/93920/) — Agriharvest Media. (8. Dezember 2022). 【Essen auf dem Markt】Chihkan-Restaurant – Erfinderladen des Sargbrots, ost-westliche Fusionsküche seit 80 Jahren im Trend. Abgerufen von
 
-[^3]: [https://www.ocac.gov.tw/OCAC/SubSites/Pages/Detail.aspx?site=fb1ffee6-07bd-491b-a73f-f07d372fcbfd&nodeid=1288&pid=82711652](https://www.ocac.gov.tw/OCAC/SubSites/Pages/Detail.aspx?site=fb1ffee6-07bd-491b-a73f-f07d372fcbfd&nodeid=1288&pid=82711652) — Auslandsbeziehungen Komitee. (4. Januar 2026). Eröffnung des TCML-Frühjahrskurses an der Tianpo-Chinesisch-Schule – Eine Diskussion über die Geschichte der taiwanesischen Küche anhand des Koffinbrots. Abgerufen von
+[^3]: [https://www.ocac.gov.tw/OCAC/SubSites/Pages/Detail.aspx?site=fb1ffee6-07bd-491b-a73f-f07d372fcbfd&nodeid=1288&pid=82711652](https://www.ocac.gov.tw/OCAC/SubSites/Pages/Detail.aspx?site=fb1ffee6-07bd-491b-a73f-f07d372fcbfd&nodeid=1288&pid=82711652) — Auslands-Chinesen-Amt (OCAC). (4. Januar 2026). Tianbo-Chinesischschule TCML Frühjahrskurs Eröffnung: Analyse des Namens „Sargbrot“ und taiwanische Esskulturgeschichte. Abgerufen von
 
-[^4]: [https://www.kindomliving.com.tw/?p=12754](https://www.kindomliving.com.tw/?p=12754) — Wohlfahrtsleben. (6. Dezember 2021). 【Selbstgemacht】Knuspriges Koffinbrot. Abgerufen von
+[^4]: [https://www.kindomliving.com.tw/?p=12754](https://www.kindomliving.com.tw/?p=12754) — Kindom Living. (6. Dezember 2021). 【Kochen】Selbstgemachter Snack Sargbrot goldgelb und knusprig. Abgerufen von
 
-[^5]: [https://taiwan-rotary.org/article/detail.php?id=225](https://taiwan-rotary.org/article/detail.php?id=225) — Taiwan-Rotary-Verlag. (ohne Datum). Kulinarik-Wunder – Tainens berühmte Snacks: Koffinbrot. Abgerufen von
+[^5]: [https://taiwan-rotary.org/article/detail.php?id=225](https://taiwan-rotary.org/article/detail.php?id=225) — Taiwan Rotary Verlag. (o. D.). Gourmet-Geschichten: Tainans Aushängeschild-Snack Sargbrot. Abgerufen von
 
-[^6]: [https://www.laihao.com.tw/blog/posts/-know-more-about-tainan-coffin-bread](https://www.laihao.com.tw/blog/posts/-know-more-about-tainan-coffin-bread) — Laihao. (23. April 2026). Vom nachkriegszeitlichen Mix-Gericht zum Klassiker der taiwanesischen Küche: Das Koffinbrot und seine 80-jährige Geschichte der taiwanesischen Küche. Abgerufen von
+[^6]: [https://www.laihao.com.tw/blog/posts/-know-more-about-tainan-coffin-bread](https://www.laihao.com.tw/blog/posts/-know-more-about-tainan-coffin-bread) — Laihao. (23. April 2026). Von der Nachkriegs-Fusionsküche zum klassischen Tainan-Snack: Die Füllung des Sargbrots birgt 80 Jahre taiwanische Esskulturgeschichte. Abgerufen von
 
-[^7]: [https://www.instagram.com/p/DSpaewuj7-x/](https://www.instagram.com/p/DSpaewuj7-x/) — Instagram Haoxu. (24. Dezember 2025). Hühnerleber als nahrhafter Energiespender – die Grundlage dieses Gerichts. Abgerufen von
+[^7]: [https://www.instagram.com/p/DSpaewuj7-x/](https://www.instagram.com/p/DSpaewuj7-x/) — Instagram Haoyu. (24. Dezember 2025). Mit Hühnerleber als kraftspendender Nahrungszutat wurde der Prototyp dieses Gerichts geschaffen. Abgerufen von
 
-[^8]: [https://www.youtube.com/watch?v=3HKK44t68GA](https://www.youtube.com/watch?v=3HKK44t68GA) — YouTube Taiwan 1001 Geschichten. (27. Juli 2016). Koffinbrot – 76 Jahre altes Gericht, das süchtig macht – Rückkehr ins Heimatdorf, Episode 178, Teil 5 【Taiwan 1001 Geschichten】. Abgerufen von
+[^8]: [https://www.youtube.com/watch?v=3HKK44t68GA](https://www.youtube.com/watch?v=3HKK44t68GA) — YouTube Taiwan 1001 Geschichten. (27. Juli 2016). Altmodisches Sargbrot – ein Biss und süchtig: 76 Jahre alter Laden, Heimkehrer schwelgen in Erinnerungen, Folge 178 Teil 5 【Taiwan 1001 Geschichten】. Abgerufen von

@@ -27,11 +27,13 @@ imageAlt: 'Satellitenbild aus dem Weltraum mit Blick auf die Hauptinsel Taiwans,
 imageCredit: 'NASA'
 imageLicense: 'Public domain（NASA）'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Taiwan_Main_Island_Mosaic_NASA_2020.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/用數據看台灣22縣市.md'
-sourceCommitSha: '756ab2957'
-sourceContentHash: 'sha256:a86ba6869bf4f80d'
+sourceCommitSha: 'be13f04522'
+sourceContentHash: 'sha256:db3262e3722e67ea'
 sourceBodyHash: 'sha256:4da0398520125992'
-translatedAt: '2026-10-23T16:35:03.398531+00:00'
+translatedAt: '2026-11-19T16:49:05.946510+00:00'
 ---
 
 # Taiwan in Zahlen: 22 Landkreise und Städte – Die Kluft zwischen Überfüllung und Leere beträgt das 151-Fache; Verhältnis von Senioren zu Kindern verschiebt sich von 1:1 auf fast 3:1
@@ -221,11 +223,12 @@ Die Anerkennung dieser extremen Heterogenität Taiwans dient dazu, die wahren He
 
 ## Weiterführende Literatur
 
-- [Taipeh City](/de/geography/taipei-city) — Die am dichtesten besiedelte Stadt Taiwans (8.975 Personen pro km²) und gleichzeitig die Stadt mit dem höchsten Anteil an über 65-Jährigen (24,18 %) im ganzen Land; sie ist das zentrale Subjekt in den beiden Tabellen zu Bevölkerungsdichte und Überalterung in diesem Artikel.
-- [Land Taitung](/de/geography/taitung-county) — Das andere Extrem, die am dünnsten besiedelte Region Taiwans (59 Personen pro km²). Mit einer Fläche von 3.515 km² ist sie die drittgrößte Verwaltungseinheit des Landes und umfasst auch die Inseln Green Island und Lanyu.
-- [Land Chiayi](/de/geography/chiayi-county) — Weist mit einem Alterungsindex von 291,69 den höchsten Wert in ganz Taiwan auf; auf jedes Kind kommen fast drei ältere Menschen. Der Anteil der über 65-Jährigen liegt bei 24,11 % und ist damit nur höher als in Taipeh City.
-- [Land Hsinchu](/de/geography/hsinchu-county) — Mit einer Überalterungsrate von 15,08 % die jüngste Region Taiwans; das Gebiet, in dem der Hsinchu Science Park die Bevölkerungsstruktur in Richtung einer jüngeren Demografie zieht.
-- [Die Krise der niedrigen Geburtenraten in Taiwan](/de/society/taiwan-low-birth-rate-crisis) — Die Ursache dieses demografischen Porträts: Die Zahl der Neugeborenen ist unter 110.000 gefallen – die Kehrseite der Medaille des Überlebenskampfes auf der gesamten Insel.
+- [Immobilienpreise, Hypotheken und das „Qing'an“-Programm in Taiwan](/housing/) — Themenseite: Die Verschuldungsquote bei Immobilienkrediten und das Verhältnis von Immobilienpreisen zum Einkommen für 22 Landkreise und Städte in einer Grafik, ergänzt um die vierstufigen Standards des Innenministeriums sowie das Datum des Datenabschlusses.
+- [Taipeh City](/de/geography/taipei-city) — Die am dichtesten besiedelte Stadt Taiwans (8.975 Personen pro km²) mit dem landesweit höchsten Anteil an über 65-Jährigen (24,18 %); das zentrale Subjekt der beiden Tabellen zu Bevölkerungsdichte und Alterung in diesem Artikel.
+- [Landkreis Taitung](/de/geography/taitung-county) — Das andere Extrem, die am dünnsten besiedelte Region Taiwans (59 Personen pro km²). Mit 3.515 km² ist sie der drittgrößte Landkreis des Landes und umfasst zudem die Inseln Green Island und Lanyu.
+- [Landkreis Chiayi](/de/geography/chiayi-county) — Mit einem Alterungsindex von 291,69 der höchste in ganz Taiwan; auf jedes Kind kommen fast drei ältere Menschen. Der Anteil der über 65-Jährigen liegt mit 24,11 % nur knapp hinter Taipeh City.
+- [Landkreis Hsinchu](/de/geography/hsinchu-county) — Mit einer Überalterungsrate von 15,08 % die jüngste Region Taiwans; das Gebiet, in dem der Hsinchu Science Park die Bevölkerungsstruktur in Richtung einer jüngeren Demografie zieht.
+- [Die Krise der niedrigen Geburtenraten in Taiwan](/de/society/taiwan-low-birth-rate-crisis) — Die Geburtsseite dieses Porträts: Die Zahl der Neugeborenen ist unter 110.000 gefallen – die Kehrseite des demografischen Wandels auf der Insel.
 
 ## Bildquellen
 

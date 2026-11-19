@@ -1,6 +1,6 @@
 ---
-title: '309 Dorfvorsteher-Kassenbücher: Herausforderer mit 30.000 und 120.000 Ausgaben haben beide eine Gewinnrate von 30 %'
-description: 'Ein frisch graduierter Quereinsteiger im Dorf Taifeng in Changhua erhielt 2022 732 Stimmen und musste am Ende 3.275 NT$ selbst zuzahlen. Von 13.988 Dorfvorsteher-Kandidaten landesweit hinterließen nur 309 ihre politischen Spendenbücher bei der Kontrollbehörde. Wird man diese 309 Bücher mit den Wahlergebnissen abgleichen, zeigt sich: Bei Herausforderern ohne Amtsbonus liegt die Gewinnrate sowohl bei Ausgaben unter 30.000 als auch über 120.000 bei rund 30 % – Geld misst, wie lange jemand im Dorf verwurzelt ist, macht aber einen Herausforderer nur schwer zum Dorfvorsteher.'
+title: '309 Dorfvorsteher-Bücher: Herausforderer, die 30.000 und 120.000 ausgaben, haben beide eine Siegrate von rund 30 %'
+description: 'Ein frisch graduierter politischer Neuling im Dorf Taifeng in der Stadt Changhua erhielt 2022 732 Stimmen und musste am Ende 3.275 NT$ selbst zuschießen. Von 13.988 Dorfvorsteher-Kandidaten in ganz Taiwan legten nur 309 ihre politischen Spendenbücher beim Kontrollamt offen. Wird man diese 309 Bücher mit den Wahlergebnissen abgleichen, zeigt sich: Bei Herausforderern ohne Amtsbonus liegt die Siegrate sowohl bei Ausgaben unter 30.000 NT$ als auch bei über 120.000 NT$ bei rund 30 % — Geld misst, wie lange jemand im Dorf verwurzelt ist, macht aber einen Herausforderer nur schwer zum Dorfvorsteher.'
 date: 2026-09-28
 category: 'Politics'
 tags:
@@ -8,8 +8,8 @@ tags:
     'Dorfvorsteher',
     'politische Spenden',
     'Wahlkosten',
-    'Quereinsteiger-Kandidatur',
-    'Kontrollbehörde',
+    'politische Neulinge',
+    'Kontrollamt',
     'Wahl 2022',
     'Wahl 2026',
   ]
@@ -22,139 +22,139 @@ difficulty: 'intermediate'
 readingTime: 9
 curation: 'incubating'
 translatedFrom: 'Politics/309本里長帳簿.md'
-sourceCommitSha: '5a9cd9398'
-sourceContentHash: 'sha256:9ce152768ea44921'
-sourceBodyHash: 'sha256:60bb46f6e4722d51'
-translatedAt: '2026-09-30T09:24:01+08:00'
+sourceCommitSha: 'd7d7c2e30'
+sourceContentHash: 'sha256:9da6ac74278aa12e'
+sourceBodyHash: 'sha256:f6dc7e3946b055ef'
+translatedAt: '2026-11-19T21:54:22+08:00'
 ---
 
-# 309 Dorfvorsteher-Kassenbücher: Herausforderer mit 30.000 und 120.000 Ausgaben haben beide eine Gewinnrate von 30 %
+# 309 Dorfvorsteher-Bücher: Herausforderer, die 30.000 und 120.000 ausgaben, haben beide eine Siegrate von rund 30 %
 
-> **30-Sekunden-Überblick:** Am 26. November 2022 erhielt ein frisch graduierter Quereinsteiger im Dorf Taifeng in Changhua 732 Stimmen und belegte unter drei Kandidaten den zweiten Platz. Sein bei der Kontrollbehörde eingereichtes Kassenbuch weist aus: Einnahmen 46.977 NT$, Ausgaben 50.252 NT$, Eigenanteil 3.275 NT$. In jenem Jahr hatten sich landesweit 13.988 Personen als Dorfvorsteher-Kandidaten registriert; nur 309 von ihnen – also jene, die ein politisches Spendenkonto eröffneten und jeden Cent offenlegten – hinterließen ihre Bücher bei der Kontrollbehörde. Werden diese 309 Bücher mit den Wahlergebnissen abgeglichen, tritt ein gegenintuitives Muster zutage: Unter den Herausforderern ohne Amtsbonus liegt die Gewinnrate sowohl beim ausgabenschwächsten als auch beim ausgabenstärksten Viertel bei fast identischen 30 %.
+> **30-Sekunden-Überblick:** Am 26. November 2022 erhielt ein politischer Neuling, der kurz zuvor die Universität verlassen hatte, im Dorf Taifeng der Stadt Changhua 732 Stimmen und belegte unter drei Kandidaten den zweiten Platz. Sein beim Kontrollamt eingereichtes Buch weist aus: Einnahmen 46.977 NT$, Ausgaben 50.252 NT$, Eigenanteil 3.275 NT$. In jenem Jahr hatten sich in ganz Taiwan 13.988 Personen als Dorfvorsteher-Kandidaten registriert; nur 309 von ihnen eröffneten wie er ein politisches Spendenkonto und legten jeden Cent offen. Werden diese 309 Bücher mit den Wahlergebnissen abgeglichen, tritt ein gegen die Intuition verstoßendes Muster zutage: Bei Herausforderern ohne Amtsbonus liegt die Siegrate sowohl im untersten als auch im obersten Ausgabenquartil bei nahezu identischen 30 %.
 
 ---
 
 ## Die Auszählstimmen im ersten Wahllokal
 
-In der Wahlnacht harrte er im ersten Wahllokal des Dorfs aus. Die Wahlhelfer breiteten Stimmzettel für Stimmzettel aus und riefen die Namen der Kandidaten: „Kandidat A eine Stimme, Kandidat B eine Stimme.“
+In der Wahlnacht harrte er im ersten Wahllokal des Dorfes aus. Die Wahlhelfer breiteten Stimmzettel für Stimmzettel aus und riefen die Namen der Kandidaten: „Soundso eine Stimme, Soundso eine Stimme.“
 
-Diesem Rhythmus lag eine Logik zugrunde. Er erinnerte sich später: Sobald man wusste, welchen Anteil ein Wahlkasten historisch etwa lieferte, und hörte, wie oft der eigene Name im Auszählchor fiel, hatte man ein ziemlich genaues Gefühl. Das war das objektivste Signal.
+Diesem Klang lag ein Rhythmus zugrunde. Er erinnerte sich später: Sobald man wisse, welches Verhältnis ein Wahlkasten historisch etwa liefere, und man höre, wie oft der eigene Name in der Auszählung falle, habe man im Grunde schon ein Gefühl für das Ergebnis. Das sei das objektivste Signal.
 
-Ein früheres Signal kam am Vorabend. Das _Gesetz über Wahlen und Abberufung öffentlicher Ämter_ verbietet öffentliche Wahlkampfaktivitäten nach 22 Uhr während der Wahlkampfzeit und ganztags am Wahltag[^3]. Die wenigen Stunden vor 22 Uhr am letzten Wahlkampfabend sind die finale Anstrengung der Kandidaten; er sagte, die Reaktion der Leute auf der Straße lasse damals schon erahnen, wie es ausgehe.
+Ein früheres Signal gab es bereits am Vorabend. Das „Gesetz über Wahlen und Abberufungen öffentlicher Ämter“ verbietet öffentliche Wahlkampfaktivitäten nach 22 Uhr während des Wahlkampfs und ganztags am Wahltag[^3]. Die wenigen Stunden vor 22 Uhr am letzten Wahlkampfabend seien die Zeit des endgültigen Ringens, sagte er; wie die Menschen auf der Straße auf einen reagierten, lasse sich da bereits spüren.
 
-Das Endergebnis: Gewählter 1.339 Stimmen, er 732 Stimmen, ein weiterer, von einer Partei empfohlener Kandidat 532 Stimmen, Wahlbeteiligung 63,3 %[^4].
+Das Endergebnis lautete: Gewählter 1.339 Stimmen, er 732 Stimmen, ein weiterer, von einer Partei empfohlener Kandidat 532 Stimmen, Wahlbeteiligung 63,3 %[^4].
 
-## Ein Kassenbuch mit 3.275 NT$ Eigenanteil
+## Ein Buch mit 3.275 NT$ Eigenanteil
 
-Sein Antreten hatte einen direkten Grund: Er hatte andere Vorstellungen für die Gemeinde, Eingaben brachten nichts – also wollte er selbst antreten und schauen.
+Sein Grund zu kandidieren war direkt: Er hatte eine andere Vorstellung für die Gemeinde, Eingaben brachten nichts — also wollte er selbst antreten.
 
-Darunter lag noch mehr Neugier. Er wollte wissen, was ein Dorfvorsteher konkret tut. Er hatte gehört, dass Chinas Einheitsfrontarbeit gegen Taiwan Tempel und Dorfvorsteher als Basisziele nutze. Er wollte selbst hingehen und sehen. Später listete das Forschungsteam von Gu Ming-jun, Associate Professor am Institut für Soziologie der Tsing-Hua-Universität, basierend auf chinesischen Staatsmedien genau diese – Tempel, Bauern- und Fischereivereine, Dorfvorsteher – als Hauptziele der Einheitsfrontarbeit auf[^13]. Er dachte auch an Gemeinde-Unternehmertum: Wenn das Dorfvorsteher-Amt ein Beruf sei, könne er tun, was er mag, und dabei Einkommen haben.
+Darunter lagen noch ein paar Schichten Neugier. Er wollte wissen, was ein Dorfvorsteher konkret tue. Er hatte gehört, dass die chinesische Einheitsfrontarbeit Tempel und Dorfvorsteher als Basisziele behandele. Er wollte selbst hingehen und schauen. Später listete das Forschungsteam von Associate Professor Ku Ming-chun (古明君) vom Institut für Soziologie der Nationalen Tsing-Hua-Universität, basierend auf chinesischen offiziellen Berichten, Tempel, Landwirte- und Fischereigenossenschaften sowie Dorfvorsteher als Hauptziele der Einheitsfrontarbeit auf[^13]. Er dachte auch an Gemeinde-Unternehmertum und nahm an, das Amt des Dorfvorstehers sei ein Beruf, mit dem er nebenbei tun könne, was er mag, und dabei Einkommen habe.
 
-Die gesetzliche Realität sah anders aus. Artikel 61 des _Gesetzes über lokale Systeme_ stellt klar: Dorfvorsteher sind **ehrenamtlich**, die Gemeinde stellt eine „Sachkostenpauschale“[^5] – 2022 monatlich 45.000 NT$, 2024 per Gesetzesnovelle auf 50.000 NT$ angehoben[^6]. Dieses Geld deckt die Bürokosten des Dorfs; rechtlich gilt es nicht als Gehalt.
+Die gesetzliche Ausgestaltung entsprach seiner Vorstellung nicht. Artikel 61 des „Lokalsystemgesetzes“ stellt klar, dass Dorfvorsteher **ehrenamtlich** tätig sind; die Gemeindeämter stellen eine „Sachkostenpauschale“[^5] bereit. Diese wurde 2022 von monatlich 45.000 NT$ auf 50.000 NT$ angehoben und trat am 25. Dezember desselben Jahres in Kraft; das Innenministerium gab 2026 im Juli eine weitere Anhebung auf 54.000 NT$ bekannt (in indigenen Gebieten 64.800 NT$)[^6]. Dieses Geld dient der Finanzierung der Dorfbüros und gilt rechtlich nicht als Gehalt.
 
-Er eröffnete ein Spendenkonto und erhielt zehn Privatspenden. Spender waren eine im anderen Landkreis lebende Cousine mit Ehemann, Uni- und Oberschulfreunde sowie zwei, drei Dorfbewohner. Letztere hatten früher den Amtsinhaber herausgefordert und sahen in dem jungen Mann den Staffelstab-Träger – unabhängig von den Siegchancen wollten sie Flagge zeigen. Hinzu kamen 6.000 NT$ anonyme Spende; Gesamteinnahmen 46.977 NT$[^1].
+Er eröffnete ein spezielles Konto und erhielt zehn private Spenden. Unter den Spendern waren eine in einem anderen Landkreis lebende Cousine und deren Mann, Universitäts- und Oberschulkommilitonen sowie zwei bis drei Dorfbewohner. Letztere hatten früher den amtierenden Dorfvorsteher herausgefordert und sahen in dem jungen Mann einen Staffelstabübernehmer — unabhängig von den Siegchancen wollten sie ein Zeichen der Unterstützung setzen. Hinzu kamen 6.000 NT$ anonyme Spenden, Gesamteinnahmen 46.977 NT$[^1].
 
-Von den ausgewiesenen 50.252 NT$ Ausgaben entfielen 49.252 NT$ auf Werbung, 1.000 NT$ auf Benzingeld[^1]. Größter Posten: 17.000 NT$ für Aufnahme-Mikrofon und Audio-Interface, gefolgt von 10.763 NT$ für Rucksackballons, dann Plakate, Handmegaphone und Imagefotos. Dazu 2.820 NT$ für Siebdruck – mit dem Sieb druckte er eigene Wahl-T-Shirts.
+In den ausgewiesenen 50.252 NT$ Ausgaben machten Wahlwerbekosten 49.252 NT$ aus, die restlichen 1.000 NT$ waren Benzingeld[^1]. Der größte Posten im Buch waren 17.000 NT$ für ein Aufnahme-Mikrofon und ein Audio-Interface, gefolgt von 10.763 NT$ für Rucksackballons, dann Plakate, tragbare Funkmegaphone und Imagefotos. Weitere 2.820 NT$ fielen für einen Siebdruckrahmen an, mit dem er selbst Wahl-T-Shirts bedruckte.
 
-2022 betrug die Kaution für die Kandidatur 50.000 NT$, die verfällt, wenn die Stimmenzahl unter 10 % der Wahlberechtigten liegt[^3]. Taifeng hatte 4.195 Wahlberechtigte, die Hürde lag bei ca. 420 Stimmen. Mit 732 Stimmen bekam er die Kaution zurück. In der Buchhaltung dieser Wahl belief sich sein Eigenanteil auf 3.275 NT$.
+2022 musste man für die Registrierung als Dorfvorsteher-Kandidat 50.000 NT$ Kaution hinterlegen; wer weniger als ein Zehntel der Wahlberechtigten erhielt, verlor sie[^3]. In Taifeng gab es 4.195 Wahlberechtigte, die Hürde lag also bei rund 420 Stimmen. Er erhielt 732 Stimmen, die Kaution wurde zurückerstattet. In der Buchhaltung dieser Wahl belief sich sein Eigenanteil auf 3.275 NT$.
 
-## 13.988 Kandidaten, nur 309 Kassenbücher
+## 13.988 Kandidaten, nur 309 Bücher
 
-Sein Buch ist einsehbar, weil er ein Spendenkonto eröffnete.
+Sein Buch ist einsehbar, weil er ein Konto eröffnet hatte.
 
-Artikel 10 des _Gesetzes über politische Spenden_ verlangt, dass designierte Kandidaten vor Annahme politischer Spenden bei einer Bank ein Sonderkonto eröffnen und die Genehmigung der Kontrollbehörde einholen[^2]. Umgekehrt: Wer alle Kosten selbst trägt und keinen Cent annimmt, braucht kein Konto – und hinterlässt kein Buch.
+Artikel 10 des „Politischen Spendengesetzes“ schreibt vor, dass angehende Kandidaten zunächst bei einer Bank ein spezielles Konto eröffnen und die Genehmigung des Kontrollamts einholen müssen, bevor sie politische Spenden annehmen dürfen[^2]. Umgekehrt: Wenn ein Kandidat alle Kosten selbst trägt und kein Geld annimmt, braucht er kein Konto zu eröffnen — und hinterlässt kein Buch.
 
-Unter den 7.731 Dörfern Taiwans und 13.988 Kandidaten 2022[^4] finden sich auf der öffentlichen Plattform der Kontrollbehörde lediglich 309 Wahlkassenbücher – rund 2,2 %[^1]. Was die übrigen 97,8 % ausgaben und wofür, ist aus öffentlichen Daten nicht ersichtlich.
+Unter den 7.731 Dörfern Taiwans und 13.988 Kandidaten 2022[^4] hinterließen lediglich 309 Personen Wahlbücher auf der öffentlichen Einsichtsplattform des Kontrollamts — etwa 2,2 %[^1]. Was die übrigen 97,8 % ausgaben und wofür, ist in öffentlichen Daten nicht ersichtlich.
 
-Im selben Jahr hatten 3.058 Dörfer nur einen einzigen Kandidaten – 40 % aller Dörfer[^4].
+Im selben Jahr hatten 3.058 Dörfer nur einen einzigen registrierten Kandidaten — 40 % aller Dörfer[^4].
 
-Zehn dieser 309 Bücher stammen aus einem zivilgesellschaftlichen Projekt. Das Social Enterprise „Realize Society“ startete im Oktober 2021 die „Akademie für unabhängige Dorfvorsteher“, veröffentlichte ein komplettes Handbuch, veranstaltete sechs Workshops landesweit, ermutigte über 30 Personen zur Kandidatur und half zehn von ihnen bei der Spendensammlung[^8][^9]. Der junge Mann aus Taifeng war der Changhua-Vertreter unter diesen zehn.
+Unter diesen 309 Büchern stammen 10 aus demselben zivilgesellschaftlichen Projekt. Das Sozialunternehmen „Jitsugen Kaisha“ (実現会社) startete im Oktober 2021 die „Unabhängige Dorfvorsteher-Akademie“, verfasste ein vollständiges Handbuch für Dorfvorsteher, veranstaltete landesweit sechs Workshops, ermutigte über 30 Personen zur Kandidatur und half 10 von ihnen bei der Spendensammlung[^8][^9]. Der junge Mann aus Taifeng war der Changhua-Vertreter unter diesen 10.
 
-> 📝 **Kuratorennotiz:** Das Publizitätssystem für politische Spenden ist ums „Geldnehmen“ herum konstruiert. Es lässt Wähler sehen, wem ein Kandidat verpflichtet ist – aber ein Kandidat, der alles selbst zahlt, hinterlässt in diesem System gar keine Spur. Folge: Diejenigen, die ihre Bücher am bereitwilligsten öffnen, sind oft die Ressourcenlosesten, die bei Freunden und Familie betteln müssen.
+> 📝 **Kuratorennotiz:** Das Publizitätssystem für politische Spenden ist um das „Geldnehmen“ herum konstruiert. Es ermöglicht Wählern zu sehen, wem ein Kandidat verpflichtet ist — aber ein Kandidat, der alles selbst finanziert, hinterlässt in diesem System keinerlei Spur. Die Folge: Wer die Bücher am offensten legt, sind oft gerade die ressourcenlosesten politischen Neulinge, die bei Freunden und Familie um Spenden bitten müssen.
 
 ## Wohin das Geld floss
 
-Klassifiziert man die Ausgabeposten der 309 Bücher nach Verwendungszweck neu[^10], summieren sie sich auf ca. 28,46 Mio. NT$. Die Top vier: Bewirtung 20,5 %, Druckerzeugnisse 16,5 %, Büro- und Veranstaltungsräume 15,9 %, Plakate/Transparente/Fahnen 15,0 %. Geschenke 11,8 %, Personalkosten 5,7 %.
+Werden die Ausgabepositionen der 309 Bücher nach Verwendungszweck neu klassifiziert[^10], summieren sie sich auf rund 28,46 Mio. NT$. Die Top vier: Bewirtung 20,5 %, Druckwerbung 16,5 %, Büro- und Veranstaltungsräume 15,9 %, Plakate, Banner und Fahnen 15,0 %. Geschenke 11,8 %, Personalkosten 5,7 %.
 
-Video, Facebook-Anzeigen, Imagefotos – digitale Ausgaben also – machen nur 1,2 % aus; unter den 309 Kandidaten investierten lediglich 21 in digitale Kanäle.
+Video, Facebook-Werbung, Imagefotos und ähnliche digitale Ausgaben machen nur 1,2 % aus; unter den 309 Personen investierten lediglich 21 in diesen Bereich.
 
-Die individuellen Beträge streuen stark. Median der Einnahmen: 45.314 NT$, Median der Ausgaben: 54.500 NT$. 237 von 309 (77 %) gaben mehr aus als sie einnahmen – die Differenz deckten sie privat. Im Median kostete jede gewonnene Stimme 62 NT$.
+Die individuellen Beträge streuen stark. Der Median der eingeworbenen Spenden liegt bei 45.314 NT$, der Median der Ausgaben bei 54.500 NT$; 237 der 309 Personen (77 %) gaben mehr aus, als sie einnahmen — die Differenz musste selbst gedeckt werden[^1]. Im Durchschnitt kostete jede gewonnene Stimme median 62 NT$.
 
-Auf Dorfvorsteher-Ebene besteht ein Wahlkampf weiterhin aus Tisch für Tisch Reis, Fahne für Fahne.
+Auf der Ebene der Dorfvorsteher besteht ein Wahlkampf weiterhin aus Tisch für Tisch Reis, Flagge für Flagge.
 
-## Viel oder wenig ausgeben – Gewinnrate bleibt 30 %
+## Ob viel oder wenig ausgegeben — die Siegrate bleibt bei 30 %
 
 Der interessanteste Befund zeigt sich, wenn man Bücher und Wahlergebnisse übereinanderlegt[^4].
 
-Betrachtet man das Gesamtbild: Gewählte haben einen Median-Ausgaben von 82.765 NT$, Unterlegene 45.787 NT$. Auf den ersten Blick: Mehr Geld = mehr Sieg.
+Betrachtet man das Gesamtbild: Der Median der Ausgaben der Gewählten liegt bei 82.765 NT$, der der Unterlegenen bei 45.787 NT$. Auf den ersten Blick scheint mehr Geld den Sieg wahrscheinlicher zu machen.
 
-Trennt man Amtsinhaber und Herausforderer, dreht sich das Bild. 73 Personen, die 2018 bereits Dorfvorsteher waren, schafften 2022 bei 61 die Wiederwahl – Gewinnrate 84 %, Median-Ausgaben 106.842 NT$. Die 229 Herausforderer ohne Amtsbonus erreichten nur 27 % Gewinnrate.
+Trennt man Amtsinhaber und Herausforderer, ändert sich das Bild. 73 Personen, die bereits 2018 Dorfvorsteher waren, traten 2022 erneut an; 61 wurden wiedergewählt, Siegrate 84 %, Median der Ausgaben 106.842 NT$. Die 229 Herausforderer ohne Amtsbonus erreichten nur 27 % Siegrate.
 
-Teilt man diese 229 Herausforderer nach Ausgabenhöhe in vier Quartile:
+Teilt man diese 229 Herausforderer nach Ausgabenhöhe in vier gleich große Gruppen:
 
-| Ausgabenbereich (NT$) | Gewählt / Anzahl | Gewinnrate |
-| :-------------------- | :--------------- | :--------- |
-| 1.233 – 32.000        | 13 / 46          | 28 %       |
-| 32.349 – 63.000       | 14 / 47          | 30 %       |
-| 64.444 – 122.665      | 13 / 47          | 28 %       |
-| 123.600 – 869.890     | 14 / 47          | 30 %       |
+| Ausgabenspanne (NT$) | Gewählt / Anzahl | Siegrate |
+| :------------------- | :--------------- | :------- |
+| 1.233 – 32.000       | 13 / 46          | 28 %     |
+| 32.349 – 63.000      | 14 / 47          | 30 %     |
+| 64.444 – 122.665     | 13 / 47          | 28 %     |
+| 123.600 – 869.890    | 14 / 47          | 30 %     |
 
-Wer ein paar Tausend und wer fast 870.000 NT$ ausgab, landet in derselben Tabelle mit nahezu identischer Gewinnrate. Der Gesamteindruck „Gewinner geben mehr aus“ speist sich hauptsächlich aus den Amtsinhabern: Die gewinnen ohnehin häufiger – und geben auch freier aus.
+Wer ein paar Tausend ausgab und wer fast 870.000 ausgab, landet in derselben Tabelle mit nahezu identischer Siegrate. Der Gesamteindruck „Gewinner geben mehr aus“ stammt hauptsächlich von den Amtsinhabern: Sie gewinnen ohnehin häufiger und geben auch bereitwilliger mehr aus.
 
-Unter den 21 Kandidaten mit digitalen Ausgaben wurden 11 gewählt. Die Stichprobe ist zu klein, mischt Amtsinhaber und Herausforderer – ein Kausalzusammenhang lässt sich nicht ableiten.
+Unter den 21 Kandidaten mit digitalen Ausgaben wurden 11 gewählt. Die Stichprobe ist zu klein und mischt Amtsinhaber und Herausforderer — ein Kausalzusammenhang lässt sich daraus nicht ableiten.
 
-> 📝 **Kuratorennotiz:** „Wahl ist Geldvergleich“ – auf Dorfvorsteher-Ebene muss man die Frage neu stellen. Geld wirkt eher wie ein Thermometer: Es misst, wie lange ein Kandidat im Dorf schon verwurzelt ist, wie viele bereit sind, für ihn zu zahlen. Aber es verwandelt einen Herausforderer nur schwer in einen Dorfvorsteher. In einer Wahl alle vier Jahre, in der 40 % der Dörfer kampflos bleiben, ist die wirklich knappe Ressource Zeit.
+> 📝 **Kuratorennotiz:** Der Satz „Wahlen sind Geldvergleiche“ muss auf der Dorfvorsteher-Ebene neu gefragt werden. Geld wirkt eher wie ein Thermometer: Es misst, wie lange ein Kandidat im Dorf schon verwurzelt ist und wie viele Menschen bereit sind, für ihn zu zahlen — aber es vermag einen Herausforderer nur schwer zum Dorfvorsteher zu machen. In einer alle vier Jahre stattfindenden Wahl, in der 40 % der Dörfer nur einen Kandidaten haben, ist die wirklich knappe Ressource Zeit.
 
 ## Die unsichtbaren 97,8 %
 
-Diese Analyse hat eine unvermeidbare Beschränkung: Die 309 sind eine selbstselektierte Minderheit.
+Diese Analyse hat eine unvermeidliche Beschränkung: Die 309 Personen sind eine selbstselektierte Minderheit.
 
-Wer ein Konto eröffnet, legt vielleicht ohnehin Wert auf Transparenz – oder wurde von einem Projekt begleitet – oder brauchte wirklich Fremdgelder. Die 13.679 Kandidaten ohne Buch könnten mehr ausgegeben haben, könnten weniger. Daher gelten die obigen Schlüsse nur „innerhalb derer, die Bücher hinterließen“, nicht für alle Kandidaten.
+Wer ein Konto eröffnet, legt vielleicht ohnehin Wert auf Transparenz, wird vielleicht von einem Projekt unterstützt oder braucht tatsächlich Spenden. Die 13.679 Kandidaten ohne Bücher haben vielleicht mehr ausgegeben, vielleicht weniger. Die obigen Schlussfolgerungen gelten also nur „unter denen, die Bücher hinterließen“, nicht für alle Kandidaten.
 
-Eine weitere Beschränkung liegt im Gesetz selbst. Das _Gesetz über politische Spenden_ regelt die Situation, dass Kandidaten sich selbst oder Familienangehörigen Geld leihen, an einer relativ unklaren Stelle; der Taiwan.md-Artikel über **Politische Spendentransparenz (政治獻金透明度)** hat dieses Loch bereits aufbereitet. Der „Eigenanteil“ im Buch muss nicht die gesamten Wahlkosten abbilden.
+Eine weitere Beschränkung liegt im Gesetz selbst. Das „Politische Spendengesetz“ regelt die Situation, dass Kandidaten sich selbst oder von Familienangehörigen Geld leihen, an einer relativ unklaren Stelle; der Taiwan.md-Artikel zur [Politischen Spendentransparenz](/de/politics/political-donation-transparency/) hat dieses Loch bereits systematisiert. Der im Buch ausgewiesene „Eigenanteil“ spiegelt nicht notwendigerweise die Gesamtkosten einer Wahl wider.
 
-Das System justiert nach. Im Juli 2026 senkte die Zentrale Wahlkommission die Kaution für Dorfvorsteher-Kandidaten von 50.000 auf 30.000 NT$[^7]. Für einen Kandidaten mit Median-Ausgaben von etwas über 50.000 NT$ senkt das die Einstiegshürde um 20.000 NT$.
+Das System wird justiert. Im Juli 2026 senkte die Zentrale Wahlkommission die Kaution für Dorfvorsteher-Kandidaten von 50.000 NT$ auf 30.000 NT$[^7]. Für einen Kandidaten mit einem Median-Ausgaben von über 50.000 NT$ senkt das die Einstiegshürde um 20.000 NT$.
 
-## 2026 – die nächste Buch-Generation
+## 2026 — die nächste Buch-Generation
 
-Jene zehn Kandidaten der Akademie für unabhängige Dorfvorsteher: Am Ende wurden vier gewählt, darunter ein Amtsinhaber, der auch zu den Initiatoren der Akademie gehörte. Laut der Registrierungszusammenstellung der Zentralen Wahlkommission vom September 2026 haben sich drei der zehn erneut registriert – zwei davon waren 2022 erfolgreich[^11].
+Jene 10 Kandidaten der Unabhängigen Dorfvorsteher-Akademie von damals: Am Ende wurden 4 gewählt, darunter ein Amtsinhaber, der auch zu den Initiatoren der Akademie gehörte. Laut der Registrierungszusammenstellung der Zentralen Wahlkommission vom September 2026 haben sich 3 der 10 erneut registriert, darunter zwei Gewählte von 2022[^11].
 
 Der junge Mann aus Taifeng steht nicht auf der Liste.
 
-Ab 20. August 2026 dürfen Dorfvorsteher-Kandidaten der Wahl 2026 politische Spenden annehmen[^12]. Gesetzlich müssen sie binnen drei Monaten nach dem Wahltag berichten, die Kontrollbehörde veröffentlicht spätestens sechs Monate nach Fristablauf[^2]. Nach der Wahl am 28. November werden die nächsten Dorfvorsteher-Bücher also spätestens Ende August 2027 auf der Plattform auftauchen. Dann kann man erneut prüfen: Liegen die Gewinnraten bei 30.000 und 120.000 NT$ immer noch gleich?
+Ab dem 20. August 2026 dürfen Dorfvorsteher-Kandidaten für die Wahl 2026 politische Spenden annehmen[^12]. Gesetzlich müssen Kandidaten binnen drei Monaten nach dem Wahltag berichten, das Kontrollamt veröffentlicht die Daten binnen sechs Monaten nach Fristende[^2]. Nach der Wahl am 28. November wird die nächste Buch-Generation spätestens Ende August 2027 auf der Plattform erscheinen. Dann lässt sich erneut prüfen: Haben die, die 30.000 und 120.000 ausgaben, immer noch dieselbe Siegrate?
 
 ---
 
 ## Weiterführende Lektüre
 
-- [Dorfvorsteher-System](/de/politics/village-chief-system) — 7.748 direkt gewählte Ortsvorsteher: Wie Taiwans basale politische Zelle funktioniert
-- [Politische Spendentransparenz (政治獻金透明度)](/de/politics/political-donation-transparency/) — Das Design des Meldesystems und das Loch „Selbstkredit“
-- [Neun-in-eins-Wahl 2026](/de/politics/2026-local-elections-taiwan) — Die nächste Buch-Generation entsteht aus dieser Wahl
+- [Dorfvorsteher-System](/de/politics/village-chief-system) — 7.748 direkt gewählte Ortsvorsteher: Wie funktioniert Taiwans grundlegendste politische Einheit
+- [Politische Spendentransparenz](/de/politics/political-donation-transparency) — Die Konstruktion des Meldesystems und jenes „Sich-selbst-Geld-leihen“-Lochs
+- [Neun-in-eins-Wahl 2026](/de/politics/2026-local-elections-taiwan) — Die nächste Buch-Generation wird aus dieser Wahl hervorgehen
 
 ## Quellen
 
-[^1]: [Kontrollbehörde – Plattform für öffentliche Einsicht in politische Spenden](https://ardata.cy.gov.tw/) — Rechnungsberichte der designierten Kandidaten zur Dorfvorsteherwahl 111. Jahr. Die Statistik dieses Textes basiert auf dem API-Download der 309 Erstanträge in der jeweils neuesten Korrekturfassung, ohne Überschussberichte.
+[^1]: [Kontrollamt — Öffentliche Einsichtsplattform für politische Spenden](https://ardata.cy.gov.tw/) — Rechnungsberichte der angehenden Kandidaten der Dorfvorsteherwahl 2022. Die Statistik dieses Artikels basiert auf dem Download von 309 Erstanträgen in der jeweils neuesten Korrekturversion über die Plattform-API, ohne Überschussberichte.
 
-[^2]: [Gesetz über politische Spenden](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020049) — Nationale Rechtsdatenbank, Art. 10 (Sonderkonto), Art. 12 (Annahmezeitraum), Art. 21 (Bericht und Veröffentlichung).
+[^2]: [Politisches Spendengesetz](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020049) — Nationale Rechtsdatenbank, Artikel 10 (Spezialkonto), Artikel 12 (Annahmezeitraum), Artikel 21 (Berichterstattung und Veröffentlichung).
 
-[^3]: [Gesetz über Wahlen und Abberufung öffentlicher Ämter](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010) — Nationale Rechtsdatenbank, Art. 32 (Kaution und Rückgabehürde), Art. 56 (tägliche Wahlkampfzeitbeschränkung).
+[^3]: [Gesetz über Wahlen und Abberufungen öffentlicher Ämter](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010) — Nationale Rechtsdatenbank, Artikel 32 (Kaution und Rückerstattungsschwelle), Artikel 56 (tägliche Zeitbeschränkung für Wahlkampfaktivitäten).
 
-[^4]: [Wahldatenbank der Zentralen Wahlkommission](https://db.cec.gov.tw/) — Wahlergebnisse der Dorfvorsteherwahl 2022 nach Dorf. Kandidatenzahl, kampflose Dörfer und Herausforderer-Gewinnrate vom Autor durch Dorfsummierung der Wahlergebnisse und Abgleich mit den 309 Büchern ermittelt (302 erfolgreiche Abgleiche).
+[^4]: [Wahldatenbank der Zentralen Wahlkommission](https://db.cec.gov.tw/) — Wahlergebnisse der Dorfvorsteherwahl 2022 nach Dorf. Kandidatenzahl, Einer-Kandidat-Dörfer und Herausforderer-Siegrate wurden vom Autor durch dorfweise Summierung der Wahlergebnisse und Abgleich mit den 309 Büchern ermittelt (302 erfolgreiche Abgleiche).
 
-[^5]: [Gesetz über lokale Systeme](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0040003) — Nationale Rechtsdatenbank, Art. 61: Dorfvorsteher sind ehrenamtlich.
+[^5]: [Lokalsystemgesetz](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0040003) — Nationale Rechtsdatenbank, Artikel 61: Dorfvorsteher sind ehrenamtlich tätig.
 
-[^6]: [Gesetz über Kostenerstattung für lokale Volksvertreter und Sachkostenpauschale für Dorfvorsteher](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020039) — Nationale Rechtsdatenbank, Art. 7, aktuell monatlich 50.000 NT$ (Novelle Juni 2024 / 113. Jahr).
+[^6]: [Gesetz über Kostenerstattung für lokale Volksvertreter und Sachkostenpauschale für Dorfvorsteher](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020039) — Nationale Rechtsdatenbank, Artikel 7: monatlich 50.000 NT$, in indigenen Gebieten plus 20 %, mit der Regelung, dass Erhöhungen im selben Verhältnis angepasst und vom Innenministerium per Bekanntmachung in Kraft gesetzt werden; der Betrag von 50.000 NT$ stammt aus der am 4. Mai 2022 geänderten, am 25. Dezember 2022 in Kraft getretenen Fassung; die 54.000 NT$ ab Juli 2026 sind die vom Innenministerium gemäß diesem Artikel bekanntgemachte Anpassung.
 
-[^7]: [Zentrale Wahlkommission senkt Kaution für Bürgermeister und Dorfvorsteher auf mindestens 30.000](https://www.cna.com.tw/news/aipl/202607220329.aspx) — Zentrale Nachrichtenagentur, 22.07.2026.
+[^7]: [Zentrale Wahlkommission senkt Kaution für Bürgermeister und Dorfvorsteher auf mindestens 30.000](https://www.cna.com.tw/news/aipl/202607220329.aspx) — Zentrale Nachrichtenagentur, 22. Juli 2026.
 
-[^8]: [„Die Kandidaturwelle der 318-Sonnenblumen-Generation an der Basis ebbt ab? Dilemma und Ausbruch junger Dorfvorsteher“](https://www.twreporter.org/a/2022-local-elections-318-movement-youth-participation-chief-of-village) — The Reporter, Kong De-lian, 05.09.2022.
+[^8]: [„Die Kandidaturwelle der 318-Bewegungsgeneration an der Basis“ im Rückzug? Die Nöte und Ausbrüche junger Dorfvorsteher](https://www.twreporter.org/a/2022-local-elections-318-movement-youth-participation-chief-of-village) — The Reporter, Kong De-lian (孔德廉), 5. September 2022.
 
-[^9]: [【Beim ersten Mal Dorfvorsteher gleich durchstarten】 Eintägiger Workshop](https://captain-village.a-sociate.tw/2022-workshop/) — Realize Society · Akademie für unabhängige Dorfvorsteher.
+[^9]: [【Beim ersten Mal Dorfvorsteher direkt durchstarten】 Eintägiger Workshop](https://captain-village.a-sociate.tw/2022-workshop/) — Jitsugen Kaisha · Unabhängige Dorfvorsteher-Akademie.
 
-[^10]: Klassifizierungsmethode: Basierend auf den Feldern „Ausgabenzweck“ und „Ausgabeempfänger“ der Rechnungsberichte wurden Posten in acht Kategorien eingeordnet: Bewirtung, Druckerzeugnisse, Plakate, Geschenke, Räume, Personal, Digital/Audio, Sonstiges. Digital nur erfasst, wenn Zweckfeld explizit Video, Anzeige, Fotografie nennt oder Empfänger Meta, Google, Digital-Marketing-Firma ist. Diese Klassifizierung ist autordefiniert und unterscheidet sich von den gesetzlichen Kategorien nach Art. 20 des _Gesetzes über politische Spenden_.
+[^10]: Klassifizierungsmethode: Basierend auf den Feldern „Verwendungszweck“ und „Empfänger“ der Rechnungsberichte wurden die Posten in acht Kategorien eingeteilt: Bewirtung, Druckwerbung, Plakate, Geschenke, Räume, Personal, digitale Audio/Video, Sonstiges. Die digitale Kategorie erfasst nur Positionen, bei denen der Verwendungszweck explizit Video, Werbung, Fotografie nennt, oder der Empfänger Meta, Google, Digitalmarketing-Firmen sind. Diese Klassifizierung ist vom Autor definiert und unterscheidet sich von den gesetzlichen Kategorien nach Artikel 20 des Politischen Spendengesetzes.
 
-[^11]: [Registrierungszusammenstellung der Kandidaten für lokale öffentliche Ämter 115. Jahr der Zentralen Wahlkommission](https://web.cec.gov.tw/central/article/64709) — Dorfvorsteher-Registrierungsliste, Erstellungsdatum 07.09.115. Jahr, 14.039 Einträge.
+[^11]: [Registrierungszusammenstellung der Kandidaten für lokale öffentliche Ämter 2026 der Zentralen Wahlkommission](https://web.cec.gov.tw/central/article/64709) — Dorfvorsteher-Registrierungsliste, Erstellungsdatum 7. September 2026 (Jahr 115 der Republik), insgesamt 14.039 Einträge.
 
-[^12]: [115. Jahr Lokalwahlen stehen an! Innenministerium lüftet „4 Kniffe“ zu politischen Spenden](https://www.moi.gov.tw/News_Content.aspx?n=4&s=338525) — Innenministerium, Erinnerungen zu Annahmezeitraum und Berichtspflicht für designierte Kandidaten der Lokalwahlen 2026.
+[^12]: [Lokale Wahlen 2026 stehen bevor! Innenministerium nennt „4 Kniffe“ für politische Spenden](https://www.moi.gov.tw/News_Content.aspx?n=4&s=338525) — Innenministerium, Hinweise zu Annahmezeitraum und Berichterstattung für angehende Kandidaten der lokalen Wahlen 2026.
 
-[^13]: [Tsing-Hua-Forscherin Gu Ming-jun deckt Chinas Einheitsfrontnetz gegen Taiwan auf: Erfasst Tempel, Straßenhändler, Bauern- und Fischereivereine, Dorfvorsteher, Schulen, Medien, indigene Stämme](https://watchout.tw/reports/8kwlM6VZnUzT7CbWVCV4) — Watchout, Zhu Nai-ying, 22.01.2024.
+[^13]: [Tsing-Hua-Forscherin Ku Ming-chun deckt chinesisches Einheitsfrontnetz gegen Taiwan auf: Umfasst Tempel, Straßenhändler, Landwirte- und Fischereigenossenschaften, Dorfvorsteher, Schulen, Medien, Stämme](https://watchout.tw/reports/8kwlM6VZnUzT7CbWVCV4) — Watchout, Zhu Nai-ying (朱乃瑩), 22. Januar 2024.
