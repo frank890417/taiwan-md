@@ -1,0 +1,83 @@
+---
+import { getLangFromUrl, useTranslations } from '../../i18n/utils';
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+const entryField = lang === 'zh-TW' ? 'entry.1578963213' : 'entry.1746160086';
+---
+
+<!--
+  Phase 7.6 — NewsletterSection.astro (Tier 1 home component)
+  All scoped CSS inlined. The success banner is initially hidden
+  via inline `style="display:none"` (not Tailwind `hidden`) so the
+  existing JS `element.style.display = 'flex'` override continues
+  to work without a classList switch.
+-->
+<iframe name="newsletter-iframe" style="display:none;"></iframe>
+<section
+  class="relative mb-0 mt-24 overflow-hidden bg-[#2d5016] px-8 py-16 text-center max-[768px]:px-4 max-[768px]:py-12"
+>
+  <div class="relative z-[2] mx-auto max-w-[600px]">
+    <h2
+      class="mb-4 font-['jf-lanyangming','Noto_Serif_TC','Source_Han_Serif_TC',serif] text-[2rem] font-light text-white max-[768px]:text-[1.6rem]"
+    >
+      {t('home.newsletter.heading')}
+    </h2>
+    <p class="mb-8 text-[1.1rem] font-medium text-white/90">
+      {t('home.newsletter.description')}
+    </p>
+    <form
+      id="newsletter-form"
+      class="mb-4"
+      action="https://docs.google.com/forms/d/e/1FAIpQLSfNY5y6p8xM0oVL4PSOmOYoPZDTSNykZtMDLNmQnQrSr5-59w/formResponse"
+      method="POST"
+      target="newsletter-iframe"
+      data-ga-form="newsletter"
+      data-ga-label="subscribe"
+    >
+      <div
+        class="mx-auto flex max-w-[400px] flex-wrap gap-2 max-[768px]:max-w-[300px] max-[768px]:flex-col"
+      >
+        <input
+          type="email"
+          name={entryField}
+          placeholder="your@email.com"
+          required
+          class="min-w-[200px] flex-1 rounded-lg border-2 border-white/30 bg-white/10 px-5 py-[0.875rem] text-base font-medium text-white [backdrop-filter:blur(10px)] placeholder:text-white/70 focus:border-white/80 focus:bg-white/15 focus:outline-none max-[768px]:min-w-0"
+        />
+        <button
+          type="submit"
+          data-ga-section="newsletter"
+          data-ga-label="subscribe"
+          class="cursor-pointer whitespace-nowrap rounded-lg border-none bg-white/95 px-8 py-[0.875rem] font-['jf-jinxuanlatte','Noto_Sans_TC','Source_Han_Sans_TC',sans-serif] text-base font-bold text-[#2d5016] transition-all duration-300 hover:-translate-y-px hover:bg-white hover:shadow-[0_4px_12px_rgba(0,0,0,0.15)] disabled:transform-none disabled:cursor-not-allowed disabled:bg-white/50 disabled:shadow-none"
+          >{t('home.newsletter.submit')}</button
+        >
+      </div>
+    </form>
+    <div
+      id="newsletter-success"
+      class="mb-4 flex items-center justify-center gap-2 text-[1.1rem] font-semibold text-white"
+      style="display: none;"
+    >
+      <span class="text-2xl">🎉</span>
+      <span>{t('home.newsletter.success')}</span>
+    </div>
+    <p class="m-0 text-[0.9rem] font-normal text-white/70">
+      {t('home.newsletter.note')}
+    </p>
+  </div>
+</section>
+
+<script is:inline>
+  document.addEventListener('DOMContentLoaded', function () {
+    var form = document.getElementById('newsletter-form');
+    if (form) {
+      form.addEventListener('submit', function () {
+        setTimeout(function () {
+          form.style.display = 'none';
+          document.getElementById('newsletter-success').style.display = 'flex';
+        }, 500);
+      });
+    }
+  });
+</script>
