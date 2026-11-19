@@ -23,16 +23,18 @@ readingTime: 6
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'Culture/菜市場名.md'
-sourceCommitSha: '22286539e'
-sourceContentHash: 'sha256:4f24d54138c9fd30'
-sourceBodyHash: 'sha256:e1adcb11fb9e8afa'
-translatedAt: '2026-11-05T08:36:03.471472+00:00'
+sourceCommitSha: 'f024e87e7'
+sourceContentHash: 'sha256:b43b81907a3c86ea'
+sourceBodyHash: 'sha256:cf68717b49d8561a'
+translatedAt: '2026-11-19T10:11:41.803224+00:00'
 ---
 
 # Nomes de feira
 
 > **Visão geral em 30 segundos:**
-> \"Nomes de feira\" refere-se àqueles nomes que, se você gritar numa feira tradicional, farão incontáveis pessoas virar a cabeça ao mesmo tempo. Não é piada: segundo as estatísticas mais recentes do Ministério do Interior de 2024, \"Shufen\" conta com mais de 30 mil pessoas em toda Taiwan, enquanto \"Jiahao\" tem mais de 14 mil; eles lideram respectivamente os rankings feminino e masculino de nomes de feira há mais de uma década.[^1] Esses nomes não refletem preguiça dos pais, mas o consenso coletivo da sociedade taiwanesa, em diferentes épocas, sobre \"o que é um bom nome\".
+> "Nomes de feira" são aqueles nomes que, se você gritar numa feira, fazem inúmeras pessoas virar a cabeça ao mesmo tempo. Não é brincadeira: segundo as estatísticas mais recentes do Ministério do Interior de 2024, "Shufen" tem mais de 30 mil pessoas em todo Taiwan, enquanto "Jiahao" tem mais de 14 mil; eles ocupam respectivamente o topo dos nomes de feira femininos e masculinos há mais de dez anos.[^1] Esses nomes não refletem preguiça dos pais, mas sim o consenso coletivo da sociedade taiwanesa em diferentes épocas sobre "o que é um bom nome".
+
+> **Quer ver o panorama completo?** Onde colocar o sobrenome, por que um mesmo sobrenome tem quatro grafias diferentes, como se escrevem os nomes dos povos indígenas — tudo isso está reunido no dossiê [〈Nomes dos taiwaneses〉](/names/); para converter nomes chineses para a grafia do passaporte, use a [ferramenta de romanização de nomes](/names/name-romanization/).
 
 ---
 
@@ -97,11 +99,12 @@ Nomes de feira não têm vergonha nenhuma; são a prova de que vivemos juntos.
 
 ---
 
-## Leitura complementar
+## Leitura adicional
 
-- [Análise estatística nacional de nomes do Ministério do Interior (versão 2023 mais recente)](https://www.ris.gov.tw) — O big data oficial mais autoritativo sobre nomes em Taiwan.
-- [\"Chengen\" assume a liderança, \"Yijun\" esfria: a linguística dos nomes de feira (Readmoo)](https://news.readmoo.com/2017/12/07/taiwanese-names/) — Análise profunda do significado cultural das escolhas de caracteres em diferentes épocas.
-- [Caos do salmão: estudo sobre o fenômeno de mudança de nome em Taiwan (Wikipédia)](https://zh.wikipedia.org/zh-tw/%E9%AE%AD%E9%AD%9A%E4%B9%8B%E4%BA%82) — Registro da onda de mudanças de nome que abalou o mundo em 2021.
+- [Nomes dos taiwaneses (especial)](/names/) — Sobrenomes, gerações, romanização e nomes em línguas indígenas ilustrados, com ferramenta de romanização de nomes.
+- [Análise estatística nacional de nomes do Ministério do Interior (versão 2023 mais recente)](https://www.ris.gov.tw) — O big data oficial mais autoritativo de Taiwan sobre nomes.
+- [「承恩」 vence, 「怡君」 arrefece: a filologia dos nomes de feira (Readmoo)](https://news.readmoo.com/2017/12/07/taiwanese-names/) — Análise aprofundada do significado cultural da escolha de caracteres em diferentes gerações.
+- [Caos do salmão: estudo sobre o fenômeno de mudança de nome em Taiwan (Wikipédia)](https://zh.wikipedia.org/zh-tw/%E9%AE%AD%E9%AD%9A%E4%B9%8B%E4%BA%82) — Registro da onda de mudanças de nome de 2021 que chocou o mundo.
 
 ---
 

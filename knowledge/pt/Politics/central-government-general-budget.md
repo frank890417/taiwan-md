@@ -24,10 +24,10 @@ rationale:
   where_it_hedges: '114 年度與 115 年度的編列、刪減、三讀日期採中央社報導；國防經費的組成與 115 年度編列數採行政院主計總處的預算案簡報；114 年度決算數採行政院主計總處的總決算報告。決算報告的「預算數」與立法院三讀的法定數不同，文中並列而不代為調和。'
   whos_pushing_back: '認為在野黨刪減是履行監督職責的讀者；認為預算被刪到影響施政的讀者；以及認為這篇仍迴避了「刪得對不對」這個價值判斷的讀者。'
 translatedFrom: 'Politics/中央政府總預算.md'
-sourceCommitSha: '3cde84550'
-sourceContentHash: 'sha256:1043cee6548e861b'
-sourceBodyHash: 'sha256:aeec9cd01b2c05ff'
-translatedAt: '2026-10-21T00:46:52+08:00'
+sourceCommitSha: 'f024e87e7'
+sourceContentHash: 'sha256:8536bdbfcd25d3aa'
+sourceBodyHash: 'sha256:8a6346928cbffe9c'
+translatedAt: '2026-11-19T09:50:08.764219+00:00'
 ---
 
 # Orçamento central do governo: como se dividem os 3 trilhões e onde o Legislativo corta
@@ -105,20 +105,21 @@ A execução de despesa de 2025 foi de NT$2,934 trilhões, comparada com o orça
 
 Este conjunto de números ilustra um ponto: cortes orçamentários não significam necessariamente que menos dinheiro foi gasto; orçamentos maiores não significam necessariamente que todo o dinheiro foi gasto. Os cortes ocorrem na fase de revisão, a taxa de execução ocorre na fase de execução orçamentária — são problemas diferentes.
 
-## Quatro metodologias, quatro perguntas
+## Quatro perspectivas, quatro tipos de questões
 
-Reunindo os parágrafos acima, ler o orçamento central do governo requer distinguir pelo menos quatro metodologias.
+Ao reunir os parágrafos anteriores, para ler o orçamento geral do governo central, é necessário distinguir pelo menos quatro perspectivas.
 
-O número proposto pergunta "quanto o Executivo quer", o número legal pergunta "quanto o Legislativo aprova", o número de execução pergunta "quanto foi gasto no final", e o orçamento especial pergunta "quanto não está no orçamento central". Os quatro números podem ser "3 trilhões", mas nenhum sozinho pode responder "o governo gasta demais ou de menos".
+O valor **proposto** pergunta "quanto o Executivo quer"; o valor **legal** pergunta "quanto o Legislativo concede"; o valor **liquidado** pergunta "quanto foi gasto ao final"; e o **orçamento especial** pergunta "quais verbas não estão no orçamento geral". Todos os quatro números podem ser de "3 trilhões", mas nenhum deles consegue responder sozinho se "o governo está gastando demais ou de menos".
 
-Esta também é a razão pela qual notícias sobre orçamento anual frequentemente não geram debate: um lado cita NT$949,5 bilhões de defesa, o outro cita NT$697,3 bilhões de defesa, ambos estão corretos, apenas ninguém está conversando na mesma metodologia.
+Esta é também a razão pela qual as notícias sobre o orçamento costumam gerar discussões sem conclusão todos os anos: um lado apresenta NT$945 bilhões para a defesa, enquanto o outro apresenta NT$697,3 bilhões; nenhum dos dois lados está errado, apenas não estão dialogando sob a mesma perspectiva.
 
-**Leitura complementar**:
+**Leituras complementares**:
 
-- [Orçamento central em dez anos](/budget) — Gráficos interativos de histórico de agências, categorias funcionais e registros de cortes e congelamentos, página de dados irmã deste artigo
-- [Defesa e modernização militar de Taiwan](/pt/society/taiwan-defense-modernization) — Orçamento de defesa por trás da construção militar e aquisições
-- [Mecanismo de preço de petróleo de Taiwan e Taiwan Oil Corporation](/pt/economy/taiwan-fuel-pricing-and-cpc) — Outro mecanismo de preço determinado por fórmula legal e comissão de revisão
-- [Taiwan Cultural Content Agency](/pt/economy/taiwan-creative-content-agency) — Caso de orçamento cultural e corporatização
+- [Orçamento Geral em Dez Anos](/budget) — Gráficos interativos com registros históricos por órgão, por política pública e de cortes/congelamentos; página de dados complementar a este artigo.
+- [Salários, Impostos e Aposentadoria](/income/) — O outro lado do orçamento: como os impostos são calculados a partir de um salário, com simulador de imposto de renda.
+- [Defesa de Taiwan e Modernização Militar](/pt/society/taiwan-defense-modernization) — Construção militar e aquisições por trás do orçamento de defesa.
+- [Mecanismo de Preços de Combustível em Taiwan e CPC](/pt/economy/taiwan-fuel-pricing-and-cpc) — Outro mecanismo de preços determinado por fórmulas legais e comitês de revisão.
+- [Taiwan Film & Audiovisual Institute](/pt/economy/taiwan-creative-content-agency) — Um caso de orçamento cultural e institucionalização jurídica.
 
 ## Referências
 
