@@ -16,7 +16,7 @@
  *    3 四扇門            reader_doors        ReaderDoors
  *    4 直接能用的        tools_band          ToolsBand（新）
  *    5 分類格            category_grid       TopicIndex（同大小的主題索引，含一格總覽）
- *    6 四展廳            exhibition_halls    HallEntries（第二期：四張入口卡，見下）
+ *    6 四展廳            exhibition_halls    HallBook（第三期：四章一本書，見下）
  *    7 不知道從哪開始？  reading_path        ReadingPath + RandomDiscovery（併成一區）
  *                        random_discovery
  *    8 人                people              PeopleSection（新；內含 community_feedback）
@@ -39,6 +39,12 @@
  * （前後數據接得上），入口的點擊是 hall_entry。分類格從 13 張大卡收斂成一排小卡，
  * 區塊名與點擊標記照舊。其他十個區塊沒有動。
  *
+ * ── 2026-11-19 首頁第三期：四廳排成一本書 ────────────────────────────
+ * 哲宇：「我希望首頁本身就是一個書籍，可以打開，然後他看完之後會覺得很感動的感覺。」
+ * 入口卡只放第一段，首頁讀起來像目錄。第 6 區改成 HallBook：扉頁與目次、四章
+ * 散文全文（每段旁邊是那一段的延伸閱讀）、章與章之間的橋段、讀完的落款。
+ * 入口卡 HallEntries 留給展廳總覽頁（/halls/）。整頁的底色節奏見 home-bands.css。
+ *
  * ⚠️ 四個展廳的策展散文是原味，一個字都不能動。它現在住在
  * src/data/halls/prose/{語言}.ts（每段一個字串，空格照原樣寫在字串裡），首頁的
  * 第一段與展廳頁的全文讀同一份。
@@ -57,7 +63,7 @@ import CoverStory from '../components/home/CoverStory.astro';
 import ReaderDoors from '../components/home/ReaderDoors.astro';
 import ToolsBand from '../components/home/ToolsBand.astro';
 import TopicIndex from '../components/home/TopicIndex.astro';
-import HallEntries from '../components/home/HallEntries.astro';
+import HallBook from '../components/home/HallBook.astro';
 import ReadingPath from '../components/ReadingPath.astro';
 import RandomDiscovery from '../components/home/RandomDiscovery.astro';
 import PeopleSection from '../components/home/PeopleSection.astro';
@@ -67,7 +73,7 @@ import OrganismPreview from '../components/home/OrganismPreview.astro';
 import JoinSection from '../components/home/JoinSection.astro';
 import ProticoScript from '../components/ProticoScript.astro';
 import { useTranslations, getLangFromUrl } from '../i18n/utils';
-import { useHomeT, formatCount } from '../components/home/home-i18n';
+import { useHomeT } from '../components/home/home-i18n';
 import { countCategoryArticles } from '../components/home/home-data';
 import { getHallPicks, HALL_CATEGORY_LIST } from '../components/home/hall-data';
 
@@ -185,30 +191,7 @@ const readingPathFooterItems = [
       data-ga-view="exhibition_halls"
     >
       <div class="home-wrap">
-        <header class="home-head">
-          <p class="home-eyebrow">{th('home.halls.eyebrow')}</p>
-          <h2 id="halls-heading" class="home-title">
-            {t('home.categories.heading')}
-          </h2>
-          <p class="home-lead">
-            {
-              th('home.halls.lead', {
-                count: formatCount(hallArticleTotal, lang),
-              })
-            }
-          </p>
-        </header>
-        <HallEntries />
-        <p class="home-lobby-more">
-          <a
-            href={`${langUrlPrefix}/halls/`}
-            class="home-link"
-            data-ga-section="hall_entry"
-            data-ga-label="halls_index"
-          >
-            {th('home.lobby.all')}
-          </a>
-        </p>
+        <HallBook articleTotal={hallArticleTotal} />
       </div>
     </section>
 
@@ -279,10 +262,5 @@ const readingPathFooterItems = [
      純閱讀的文字（引語、導語、繁中宣言）各自有行長上限，不跟著變寬。 */
   :global(.home-page--wide .home-wrap) {
     max-width: var(--container-wide);
-  }
-
-  /* 大廳底下那一行「看四個展廳的總覽」 */
-  .home-lobby-more {
-    margin: var(--home-gap-sm) 0 0;
   }
 </style>

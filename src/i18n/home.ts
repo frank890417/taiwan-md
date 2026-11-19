@@ -237,6 +237,14 @@ export const homeUI = {
     'home.lobby.enter': 'Enter this hall',
     'home.lobby.residents': 'Also in this hall',
     'home.lobby.all': 'See all four halls',
+    // ── 首頁第三期（2026-11-19）：四展廳排成一本書 ──
+    'home.book.lead':
+      "Four chapters of prose thread together {count} articles. They begin with the island's mountains and end with where it is heading; beside every passage are a few articles to read next.",
+    'home.book.contents': 'Contents',
+    'home.book.further': 'Further reading',
+    'home.book.closing':
+      "That was the last chapter. The mountains are still rising, people who argued last night still queue together for breakfast, and the folding table at the night market has made room for one more chair. The island's story is still being written, and so is this book.",
+    'home.book.colophon': 'Compiled by Taiwan.md',
     'home.hall.res.taiwan_shape.name': 'The shape of Taiwan',
     'home.hall.res.taiwan_shape.desc':
       'A correctly drawn outline of Taiwan, with SVG and geodata files free to reuse.',
@@ -532,6 +540,14 @@ export const homeUI = {
     'home.lobby.enter': 'この展示室に入る',
     'home.lobby.residents': 'この展示室にはほかにも',
     'home.lobby.all': '四つの展示室の一覧を見る',
+    // ── 首頁第三期（2026-11-19）：四展廳排成一本書 ──
+    'home.book.lead':
+      '四つの章の散文が、{count} 本の記事をつないでいます。この島の山から読みはじめて、島がこれからどこへ向かうのかまで。どの段落のそばにも、続けて読める記事を何本か置いています。',
+    'home.book.contents': '目次',
+    'home.book.further': 'あわせて読む',
+    'home.book.closing':
+      '四つの章を読み終えました。山はいまも高くなりつづけ、言い争った人たちも翌朝には同じ列に並んで朝ごはんを買い、夜市の折りたたみテーブルには椅子がもう一脚増えました。この島の物語はまだ書かれている途中で、この本もそうです。',
+    'home.book.colophon': 'Taiwan.md 編',
     'home.hall.res.taiwan_shape.name': '台湾のかたち',
     'home.hall.res.taiwan_shape.desc':
       '正しく描いた台湾の輪郭。SVGと地理データをそのまま使えます。',
@@ -829,6 +845,14 @@ export const homeUI = {
     'home.lobby.enter': '이 전시관으로 들어가기',
     'home.lobby.residents': '이 전시관에는 이런 것도 있습니다',
     'home.lobby.all': '네 개 전시관 전체 보기',
+    // ── 首頁第三期（2026-11-19）：四展廳排成一本書 ──
+    'home.book.lead':
+      '네 개의 장으로 된 산문이 {count}편의 글을 잇습니다. 이 섬의 산에서 시작해 섬이 앞으로 어디로 가는지까지 읽어 갑니다. 문단마다 곁에 이어서 읽을 글을 몇 편 놓아 두었습니다.',
+    'home.book.contents': '차례',
+    'home.book.further': '함께 읽기',
+    'home.book.closing':
+      '네 장을 다 읽었습니다. 산은 지금도 자라고, 다툰 사람들도 다음 날 아침이면 같은 줄에 서서 아침을 사고, 야시장의 접이식 테이블에는 의자가 하나 더 놓였습니다. 이 섬의 이야기는 아직 쓰이는 중이고, 이 책도 그렇습니다.',
+    'home.book.colophon': 'Taiwan.md 엮음',
     'home.hall.res.taiwan_shape.name': '대만의 모양',
     'home.hall.res.taiwan_shape.desc':
       '제대로 그린 대만의 윤곽. SVG와 지리 데이터 파일을 그대로 가져다 쓸 수 있습니다.',
@@ -1136,6 +1160,14 @@ export const homeUI = {
     'home.lobby.enter': 'Bước vào gian này',
     'home.lobby.residents': 'Trong gian này còn có',
     'home.lobby.all': 'Xem tổng quan bốn gian trưng bày',
+    // ── 首頁第三期（2026-11-19）：四展廳排成一本書 ──
+    'home.book.lead':
+      'Bốn chương văn xuôi nối kết {count} bài viết. Bắt đầu từ những ngọn núi của hòn đảo, đọc đến nơi hòn đảo đang hướng tới; bên cạnh mỗi đoạn văn là vài bài viết để đọc tiếp.',
+    'home.book.contents': 'Mục lục',
+    'home.book.further': 'Đọc thêm',
+    'home.book.closing':
+      'Bạn đã đọc hết bốn chương. Núi vẫn đang cao lên, những người vừa cãi nhau vẫn cùng xếp hàng mua bữa sáng, và chiếc bàn gấp ở chợ đêm lại kê thêm một chiếc ghế. Câu chuyện của hòn đảo vẫn đang được viết, cuốn sách này cũng vậy.',
+    'home.book.colophon': 'Taiwan.md biên soạn',
     'home.hall.res.taiwan_shape.name': 'Hình dạng Đài Loan',
     'home.hall.res.taiwan_shape.desc':
       'Đường viền Đài Loan được vẽ đúng; tệp SVG và dữ liệu địa lý có thể dùng thẳng.',
@@ -1441,6 +1473,14 @@ export const homeUI = {
     'home.lobby.enter': 'Masuk ke ruang ini',
     'home.lobby.residents': 'Di ruang ini juga ada',
     'home.lobby.all': 'Lihat ringkasan keempat ruang pamer',
+    // ── 首頁第三期（2026-11-19）：四展廳排成一本書 ──
+    'home.book.lead':
+      'Empat bab prosa merangkai {count} artikel. Dimulai dari pegunungan pulau ini hingga ke mana pulau ini melangkah; di samping setiap paragraf ada beberapa artikel untuk dibaca berikutnya.',
+    'home.book.contents': 'Daftar isi',
+    'home.book.further': 'Bacaan lanjutan',
+    'home.book.closing':
+      'Keempat bab sudah selesai dibaca. Gunung-gunung masih terus meninggi, orang-orang yang semalam berdebat tetap antre sarapan bersama, dan meja lipat di pasar malam kembali menambah satu kursi. Kisah pulau ini masih terus ditulis, begitu pula buku ini.',
+    'home.book.colophon': 'Disusun oleh Taiwan.md',
     'home.hall.res.taiwan_shape.name': 'Bentuk Taiwan',
     'home.hall.res.taiwan_shape.desc':
       'Garis bentuk Taiwan yang digambar dengan benar; berkas SVG dan data geografisnya bisa langsung dipakai.',
@@ -1746,6 +1786,14 @@ export const homeUI = {
     'home.lobby.enter': 'Entrar neste salão',
     'home.lobby.residents': 'Também neste salão',
     'home.lobby.all': 'Ver a visão geral dos quatro salões',
+    // ── 首頁第三期（2026-11-19）：四展廳排成一本書 ──
+    'home.book.lead':
+      'Quatro capítulos de prosa costuram {count} artigos. Começam pelas montanhas da ilha e terminam no rumo que ela está tomando; ao lado de cada trecho, há alguns artigos para ler em seguida.',
+    'home.book.contents': 'Sumário',
+    'home.book.further': 'Para continuar lendo',
+    'home.book.closing':
+      'Os quatro capítulos chegaram ao fim. As montanhas continuam crescendo, quem discutiu na véspera ainda entra junto na fila do café da manhã, e a mesa dobrável do mercado noturno ganhou mais uma cadeira. A história da ilha ainda está sendo escrita, e este livro também.',
+    'home.book.colophon': 'Organizado por Taiwan.md',
     'home.hall.res.taiwan_shape.name': 'A forma de Taiwan',
     'home.hall.res.taiwan_shape.desc':
       'O contorno de Taiwan desenhado corretamente, com arquivos SVG e geográficos de uso livre.',
@@ -2050,6 +2098,14 @@ export const homeUI = {
     'home.lobby.enter': 'इस कक्ष में जाएँ',
     'home.lobby.residents': 'इस कक्ष में और भी',
     'home.lobby.all': 'चारों कक्षों का सारांश देखें',
+    // ── 首頁第三期（2026-11-19）：四展廳排成一本書 ──
+    'home.book.lead':
+      'चार अध्यायों का गद्य {count} लेखों को एक सूत्र में पिरोता है। यह द्वीप के पहाड़ों से शुरू होकर वहाँ तक जाता है जहाँ यह द्वीप आगे बढ़ रहा है; हर अनुच्छेद के पास आगे पढ़ने के लिए कुछ लेख रखे हैं।',
+    'home.book.contents': 'विषय-सूची',
+    'home.book.further': 'आगे पढ़ें',
+    'home.book.closing':
+      'चारों अध्याय पूरे हुए। पहाड़ अब भी ऊँचे हो रहे हैं, रात को बहस करने वाले लोग सुबह फिर साथ कतार में नाश्ता खरीदते हैं, और रात के बाज़ार की फ़ोल्डिंग मेज़ पर एक और कुर्सी लग गई है। इस द्वीप की कहानी अभी लिखी जा रही है, और यह किताब भी।',
+    'home.book.colophon': 'संकलन: Taiwan.md',
     'home.hall.res.taiwan_shape.name': 'ताइवान का आकार',
     'home.hall.res.taiwan_shape.desc':
       'ताइवान की सही खींची गई रूपरेखा, SVG और भौगोलिक फ़ाइलें सीधे इस्तेमाल के लिए।',
@@ -2349,6 +2405,14 @@ export const homeUI = {
     'home.lobby.enter': 'ادخل هذه القاعة',
     'home.lobby.residents': 'وفي هذه القاعة أيضًا',
     'home.lobby.all': 'عرض نظرة شاملة على القاعات الأربع',
+    // ── 首頁第三期（2026-11-19）：四展廳排成一本書 ──
+    'home.book.lead':
+      'أربعة فصول من النثر تنظم {count} مقالًا في خيط واحد. تبدأ من جبال الجزيرة وتنتهي إلى حيث تمضي؛ وبجانب كل فقرة بضع مقالات لمواصلة القراءة.',
+    'home.book.contents': 'المحتويات',
+    'home.book.further': 'للمزيد من القراءة',
+    'home.book.closing':
+      'انتهت الفصول الأربعة. ما زالت الجبال ترتفع، وما زال من تجادلوا بالأمس يقفون معًا في طابور الفطور، وأُضيف كرسي آخر إلى الطاولة القابلة للطي في السوق الليلي. قصة الجزيرة ما زالت تُكتب، وهذا الكتاب كذلك.',
+    'home.book.colophon': 'إعداد Taiwan.md',
     'home.hall.res.taiwan_shape.name': 'شكل تايوان',
     'home.hall.res.taiwan_shape.desc':
       'مخطط صحيح لحدود تايوان، وملفات SVG والملفات الجغرافية متاحة لإعادة الاستخدام.',
@@ -2651,6 +2715,14 @@ export const homeUI = {
     'home.lobby.enter': 'Войти в этот зал',
     'home.lobby.residents': 'Ещё в этом зале',
     'home.lobby.all': 'Обзор всех четырёх залов',
+    // ── 首頁第三期（2026-11-19）：四展廳排成一本書 ──
+    'home.book.lead':
+      'Четыре главы прозы связывают {count} статей. Они начинаются с гор острова и доходят до того, куда он движется; рядом с каждым абзацем лежит несколько статей, чтобы читать дальше.',
+    'home.book.contents': 'Содержание',
+    'home.book.further': 'Читать дальше',
+    'home.book.closing':
+      'Четыре главы прочитаны. Горы всё ещё растут, вчерашние спорщики по-прежнему вместе стоят в очереди за завтраком, а за складным столиком на ночном рынке поставили ещё один стул. История острова ещё пишется, и эта книга тоже.',
+    'home.book.colophon': 'Составлено Taiwan.md',
     'home.hall.res.taiwan_shape.name': 'Контур Тайваня',
     'home.hall.res.taiwan_shape.desc':
       'Правильно нарисованный контур Тайваня; файлы SVG и геоданные можно свободно использовать.',
@@ -2957,6 +3029,14 @@ export const homeUI = {
     'home.lobby.enter': 'Diese Halle betreten',
     'home.lobby.residents': 'Außerdem in dieser Halle',
     'home.lobby.all': 'Übersicht über die vier Hallen ansehen',
+    // ── 首頁第三期（2026-11-19）：四展廳排成一本書 ──
+    'home.book.lead':
+      'Vier Kapitel Prosa verbinden {count} Artikel. Sie beginnen bei den Bergen der Insel und enden dort, wohin sie unterwegs ist; neben jedem Absatz liegen ein paar Artikel zum Weiterlesen.',
+    'home.book.contents': 'Inhalt',
+    'home.book.further': 'Weiterlesen',
+    'home.book.closing':
+      'Alle vier Kapitel sind gelesen. Die Berge wachsen noch immer, wer gestern gestritten hat, steht heute früh trotzdem gemeinsam fürs Frühstück an, und am Klapptisch auf dem Nachtmarkt ist noch ein Stuhl dazugekommen. Die Geschichte der Insel wird noch geschrieben, und dieses Buch auch.',
+    'home.book.colophon': 'Herausgegeben von Taiwan.md',
     'home.hall.res.taiwan_shape.name': 'Die Form Taiwans',
     'home.hall.res.taiwan_shape.desc':
       'Ein korrekt gezeichneter Umriss Taiwans, mit SVG- und Geodaten-Dateien zur freien Wiederverwendung.',
@@ -3234,6 +3314,14 @@ export const homeUI = {
     'home.lobby.enter': '走進這一廳',
     'home.lobby.residents': '這一廳還有',
     'home.lobby.all': '看四個展廳的總覽',
+    // ── 首頁第三期（2026-11-19）：四展廳排成一本書 ──
+    'home.book.lead':
+      '四章散文，串起 {count} 篇文章。從這座島的山讀起，一路讀到它往哪裡去；每一段旁邊，都留著幾篇可以接著讀的文章。',
+    'home.book.contents': '目次',
+    'home.book.further': '延伸閱讀',
+    'home.book.closing':
+      '四章讀完了。山還在長高，吵完架的人還是一起排隊買早餐，夜市的摺疊桌又多擺了一張椅子。這座島的故事還在寫，這本書也是。',
+    'home.book.colophon': 'Taiwan.md 編',
     'home.hall.res.taiwan_shape.name': '台灣的形狀',
     'home.hall.res.taiwan_shape.desc':
       '畫對的台灣輪廓，SVG 與地理檔可以直接拿去用。',
@@ -3538,6 +3626,14 @@ export const homeUI = {
     'home.lobby.enter': 'Entrer dans cette salle',
     'home.lobby.residents': 'Aussi dans cette salle',
     'home.lobby.all': "Voir l'aperçu des quatre salles",
+    // ── 首頁第三期（2026-11-19）：四展廳排成一本書 ──
+    'home.book.lead':
+      "Quatre chapitres de prose relient {count} articles. Ils partent des montagnes de l'île et vont jusqu'à l'endroit où elle se dirige ; à côté de chaque passage, quelques articles attendent d'être lus.",
+    'home.book.contents': 'Sommaire',
+    'home.book.further': 'Pour aller plus loin',
+    'home.book.closing':
+      "Les quatre chapitres sont lus. Les montagnes continuent de grandir, ceux qui se sont disputés la veille font encore la queue ensemble pour le petit-déjeuner, et la table pliante du marché de nuit a gagné une chaise de plus. L'histoire de l'île s'écrit encore, et ce livre aussi.",
+    'home.book.colophon': 'Édité par Taiwan.md',
     'home.hall.res.taiwan_shape.name': 'La forme de Taïwan',
     'home.hall.res.taiwan_shape.desc':
       'Un contour de Taïwan correctement dessiné, avec des fichiers SVG et géographiques librement réutilisables.',
@@ -3844,6 +3940,14 @@ export const homeUI = {
     'home.lobby.enter': 'Entrar en este salón',
     'home.lobby.residents': 'También en este salón',
     'home.lobby.all': 'Ver el resumen de los cuatro salones',
+    // ── 首頁第三期（2026-11-19）：四展廳排成一本書 ──
+    'home.book.lead':
+      'Cuatro capítulos de prosa enhebran {count} artículos. Empiezan en las montañas de la isla y llegan hasta el rumbo que está tomando; junto a cada pasaje hay algunos artículos para seguir leyendo.',
+    'home.book.contents': 'Índice',
+    'home.book.further': 'Para seguir leyendo',
+    'home.book.closing':
+      'Los cuatro capítulos han terminado. Las montañas siguen creciendo, quienes discutieron anoche todavía hacen fila juntos para el desayuno y la mesa plegable del mercado nocturno sumó una silla más. La historia de la isla se sigue escribiendo, y este libro también.',
+    'home.book.colophon': 'Edición de Taiwan.md',
     'home.hall.res.taiwan_shape.name': 'La forma de Taiwán',
     'home.hall.res.taiwan_shape.desc':
       'El contorno de Taiwán bien dibujado, con archivos SVG y geográficos que puedes reutilizar libremente.',
