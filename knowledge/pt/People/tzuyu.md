@@ -1,17 +1,17 @@
 ---
-title: 'Tzuyu'
-description: 'Uma garota de Tainan que nunca havia falado de política foi transformada, por oito segundos segurando uma bandeira, em um ponto de inflexão no destino de Taiwan. Dez anos depois, ela leu no Taipei Dome uma carta escrita à mão: “Eu não fui embora. Não porque fosse obediente, mas porque realmente queria e ansiava por isso”.'
+title: 'Chou Tzu-yu'
+description: 'Uma garota de Tainan que nunca havia falado sobre política, teve sua vida transformada por um momento de 8 segundos com a bandeira nacional. Dez anos depois, em Kaohsiung, ela leu uma carta escrita à mão: "Eu não fui embora, não porque fui obediente, mas porque eu realmente desejava estar aqui".'
 date: 2026-04-14
-category: 'pt'
+category: 'People'
 tags:
   [
-    'Tzuyu',
+    'Chou Tzu-yu',
     'TWICE',
     'Coreia do Sul',
-    'K-pop',
-    'incidente da bandeira',
-    'identidade taiwanesa',
-    'música popular',
+    'K-POP',
+    'Incidente da Bandeira Nacional',
+    'Identidade Taiwanesa',
+    'Música Pop',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
@@ -19,11 +19,15 @@ featured: true
 lastVerified: 2026-04-14
 lastHumanReview: true
 readingTime: 16
+evolveHistory:
+  - date: 2026-11-04
+    action: 'fix'
+    reason: 'description 寫「十年後她在大巨蛋念出親筆信」，內文記載手寫信是 2025 年 11 月 22 日在高雄世運主場館念的（大巨蛋是 2026 年 3 月的三場），地點改回高雄。其餘不動'
 translatedFrom: 'People/周子瑜.md'
-sourceCommitSha: 'd520299ba'
+sourceCommitSha: '0a6f7f667'
 sourceContentHash: 'sha256:08c9b5bb374704b8'
 sourceBodyHash: 'sha256:4b373fac57d731f0'
-translatedAt: '2026-07-18T18:57:47+08:00'
+translatedAt: '2026-11-19T14:39:17.161017+00:00'
 ---
 
 > **Visão geral em 30 segundos:** Tzuyu nasceu em Tainan em 1999 e saiu de casa aos 13 anos para se tornar trainee da JYP. Apenas 47 dias após sua estreia, ela segurou uma bandeira da República da China (Taiwan) em um programa de variedades sul-coreano. O plano, de oito segundos, foi capturado por internautas chineses. Dois meses depois, um vídeo de desculpas com 90 segundos de duração foi divulgado na véspera da eleição presidencial de Taiwan; acadêmicos estimam que ele tenha influenciado a decisão de 1,34 milhão de jovens eleitores[^8]. Desde então, ela nunca disse uma única palavra sobre aqueles 90 segundos. Apenas continuou dançando, lançando álbuns e atuando como dançarina principal e integrante mais jovem do TWICE. Dez anos depois, finalmente retornou a Kaohsiung e leu diante de 55 mil pessoas uma carta escrita à mão: “Eu não fui embora. Não porque fosse obediente ou fizesse o que me mandavam, mas porque realmente queria e ansiava por isso”. Todo o público chorou com ela.
