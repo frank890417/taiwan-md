@@ -30,11 +30,13 @@ rationale:
   whats_excluded: '未展開完整獎項表、近年補助爭議與每張專輯曲目，保留給後續更完整研究。'
   where_it_hedges: '出生年份、NBA 場館事件與《舌粲蓮花》的全饒舌專輯定位皆採軟化語氣或留在研究筆記。'
   whos_pushing_back: '對大支政治立場或公共發聲有異議的讀者，可能期待更多爭議時間線。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/大支.md'
-sourceCommitSha: '498649feb'
-sourceContentHash: 'sha256:2e7abe81d37d5763'
-sourceBodyHash: 'sha256:42bdb5d4361f8a68'
-translatedAt: '2026-09-18T00:53:11+08:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:ad16e5b275d77c2c'
+sourceBodyHash: 'sha256:dec7b7071831ec71'
+translatedAt: '2026-11-19T08:26:50.989189+00:00'
 ---
 
 # داجوي (Dwagie): مدير مدرسة الراب التايواني القادم من ورشات تدريب التايلو
@@ -153,8 +155,8 @@ _الأغنية الرسمية لداجوي: 〈人〉، حيث تمت دعوة 
 
 ## مصادر الصور
 
-- صورة داجوي (Hero): بلدية تشياي، Wikimedia Commons، تصريح باسم (إعلان البيانات المفتوحة للمواقع الحكومية). الملف الأصلي: [مهرجان الاحتفال بالعام الجديد الثلاثي في تشانغتشي يدعو مضيفين مزدوجين من جوائز الكلاسيكية (داجوي)](<https://commons.wikimedia.org/wiki/File:全國獨嘉三日跨年祭_力邀金鐘雙主持(大支)(cropped).jpg>).
-- صورة MC HotDog عام 2012: Qiu Yufeng، Wikimedia Commons، CC BY-SA 4.0. الملف الأصلي: [Super Slipper 2012](https://commons.wikimedia.org/wiki/File:MC_HotDog_at_2012_Super_Slipper.jpg).
+- صورة البطل "داجي" (Da Zhi): بلدية مدينة جيايي، Wikimedia Commons، ترخيص الإسناد (إعلان البيانات المفتوحة للمواقع الحكومية). الملف الأصلي: [مهرجان رأس السنة لثلاثة أيام في جيايي على المستوى الوطني، بدعوة المضيفين المزدوجين من جوائز جين-تشونغ (داجي)](<https://commons.wikimedia.org/wiki/File:全國獨嘉三日跨年祭_力邀金鐘雙主持(大支)(cropped).jpg>).
+- صورة أداء MC HotDog عام 2012: تشيو يو-فينغ، Wikimedia Commons، CC BY-SA 4.0. الملف الأصلي: [2012 Super Slipper](https://commons.wikimedia.org/wiki/File:MC_HotDog_at_2012_Super_Slipper.jpg).
 
 ## المراجع
 
