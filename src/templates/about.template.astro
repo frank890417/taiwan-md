@@ -117,7 +117,8 @@ const reviewedCount =
       : Math.round((reviewedPercent / 100) * totalArticles);
 
 // 贊助卡右欄：cta.desc.html 在第一個 <br /> 處分成「短標」與「說明」兩段（文字不變）。
-// 沒有 <br /> 的語言（hi／ru）整段放說明，短標那一列留空，按鈕照樣對齊。
+// 13 語目前都有 <br />（2026-11-19 查過）；萬一以後有語言沒有，整段放說明、短標那一列留空，
+// 三列在樣式裡釘死，按鈕照樣對齊。
 const _ctaParts = t('about.sponsors.cta.desc.html').split(/<br\s*\/?>/i);
 const ctaLead = _ctaParts.length > 1 ? _ctaParts[0].trim() : '';
 const ctaBody = (_ctaParts.length > 1 ? _ctaParts.slice(1) : _ctaParts)
@@ -3989,7 +3990,7 @@ const today = new Date().toISOString().slice(0, 10);
     background: var(--ab-surface);
     text-align: start;
   }
-  .scta__title {
+  .sponsor-cta .scta__title {
     grid-column: 1 / -1;
     margin: 0 0 var(--space-5);
     font-family: var(--font-title);
@@ -4010,14 +4011,16 @@ const today = new Date().toISOString().slice(0, 10);
     padding-inline: var(--space-6) 0;
     border-inline-start: 1px solid var(--ab-rule);
   }
-  .scta__lead {
+  .sponsor-cta .scta__lead {
+    grid-row: 1;
     margin: 0 0 0.625rem;
     font-size: 1.0625rem;
     font-weight: 600;
     line-height: 1.6;
     color: var(--color-ink);
   }
-  .scta__body {
+  .sponsor-cta .scta__body {
+    grid-row: 2;
     max-inline-size: 32em;
     margin: 0 0 var(--space-4);
     font-size: 0.9375rem;
@@ -4025,6 +4028,7 @@ const today = new Date().toISOString().slice(0, 10);
     color: var(--color-ink-soft);
   }
   .scta__btn {
+    grid-row: 3;
     align-self: end;
     justify-self: start;
     display: inline-flex;
@@ -4362,8 +4366,13 @@ const today = new Date().toISOString().slice(0, 10);
       grid-template-rows: none;
       padding: var(--space-5) var(--space-4) var(--space-4);
     }
-    .scta__title {
+    .sponsor-cta .scta__title {
       margin-bottom: var(--space-4);
+    }
+    .sponsor-cta .scta__lead,
+    .sponsor-cta .scta__body,
+    .scta__btn {
+      grid-row: auto;
     }
     .scta__col,
     .scta__col + .scta__col {
