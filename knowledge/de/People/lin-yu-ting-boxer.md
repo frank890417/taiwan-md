@@ -21,13 +21,9 @@ lastVerified: 2026-10-23
 lastHumanReview: false
 curation: 'incubating'
 readingTime: 8
-image: '/article-images/people/lin-yu-ting-portrait.webp'
-imageCredit: '宋育廷 / Wikimedia Commons'
-imageLicense: 'CC BY-SA 4.0'
-imageSource: 'https://commons.wikimedia.org/wiki/File:Yu-Ting,_Lin.jpg'
 translatedFrom: 'People/林郁婷.md'
-sourceCommitSha: '9fdf9570'
-sourceContentHash: 'sha256:09760565d9bd5a64'
+sourceCommitSha: 'df33f3cbd'
+sourceContentHash: 'sha256:9e1b5b650e967399'
 sourceBodyHash: 'sha256:985c4de8119ecefa'
 translatedAt: '2026-10-24T01:37:26.566633+00:00'
 ---
