@@ -2,9 +2,7 @@
 title: 'Takeshi Kaneshiro : du « passant » que personne ne reconnaissait à l’icône asiatique qui voudrait seulement être oubliée du monde'
 description: 'Une interview de rue diffusée en 2025 l’a identifié comme un simple « passant » : c’était peut-être le moment auquel Takeshi Kaneshiro aspirait le plus. Depuis sa première publicité à 17 ans pour s’acheter une moto jusqu’à son statut de star internationale entre Taïwan, le Japon et Hong Kong, il n’a cessé, au sommet du milieu du spectacle, de s’exercer à « disparaître ».'
 date: 2026-06-19
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '電影與戲劇'
 tags:
   [
     'Takeshi Kaneshiro',
@@ -15,15 +13,19 @@ tags:
     'Onimusha',
     'The Crossing',
   ]
-readingTime: 15
+subcategory: '電影與戲劇'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-19
 lastHumanReview: false
-featured: false
+readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/金城武.md'
-sourceCommitSha: '98251c6e6'
-sourceContentHash: 'sha256:55178af9281f4694'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:6eed6bfbb091aeed'
 sourceBodyHash: 'sha256:17690ed615ebe1ca'
-translatedAt: '2026-06-20T00:37:14+08:00'
+translatedAt: '2026-11-18T23:45:37.822815+00:00'
 ---
 
 > **Vue d’ensemble en trente secondes :**

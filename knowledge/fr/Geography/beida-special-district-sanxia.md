@@ -2,34 +2,36 @@
 title: "Le secteur Beida : trente ans d'urbanisme et une expérience de vie universitaire"
 description: "Du champ de bataille historique de Longenpu en 1895 à la station de métro Daxuecheng en 2026, ceci est une encyclopédie approfondie sur la terre, l'esthétique et l'identité sélective."
 date: 2026-04-29
-author: 'idlccp1984'
 category: 'Geography'
-subcategory: '城市與人文地理'
 tags:
   [
-    Sanxia,
-    Shulin,
-    Université de Taipei,
-    Boulevard de l'Art,
-    Ligne Sanying,
-    District scolaire prestigieux,
-    Esthétique architecturale,
-    Économie du rail,
-    Gentrification,
-    Identité sélective,
-    Procession du Wanggong,
-    Parade religieuse,
-    Li Meishu,
+    'Sanxia',
+    'Shulin',
+    'Université de Taipei',
+    "Boulevard de l'Art",
+    'Ligne Sanying',
+    'District scolaire prestigieux',
+    'Esthétique architecturale',
+    'Économie du rail',
+    'Gentrification',
+    'Identité sélective',
+    'Procession du Wanggong',
+    'Parade religieuse',
+    'Li Meishu',
   ]
-readingTime: 18
+subcategory: '城市與人文地理'
+author: 'idlccp1984'
+featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
-featured: false
+readingTime: 18
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/北大特區.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:a12aeaf066e06f3'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:d1c3a58bde03254b'
 sourceBodyHash: 'sha256:5edd055f43181f0e'
-translatedAt: '2026-05-09T14:29:10+08:00'
+translatedAt: '2026-11-19T00:03:48.214685+00:00'
 ---
 
 > **Aperçu en 30 secondes :**
@@ -162,11 +164,12 @@ Du village de Longen sous Qianlong, au champ de bataille anti-japonais de 1895, 
 
 En 2026, lorsque les trains de la ligne Sanying entreront officiellement en service, le secteur Beida sera confronté au prochain test de la nouvelle étape : comment trouver un équilibre entre la commodité apportée par le métro et les chocs extérieurs ? Comment préserver la chaleur de la terre dans la vague de gentrification ? Cette ville éveillée depuis trente ans se tient à un nouveau point de départ historique, continuant d'écrire sa légende de résilience.
 
-## Pour aller plus loin
+## Lectures complémentaires
 
-- [Développement urbain et disparités rurales-urbaines à Taïwan](/fr/geography/taiwan-urban-development-and-rural-urban-divide) — Replacer le secteur Beida dans le contexte à long terme des secteurs de réaménagement et de l'expansion urbaine à Taïwan.
-- [Nouvelle ville de Linkou](/fr/geography/linkou-new-town) — Comparer avec la manière dont une autre nouvelle ville autrefois qualifiée de « ville fantôme » a atteint sa maturité.
-- [Le thé de Sanxia](/fr/food/sanxia-tea) — Approfondir la lecture des couches culturelles du vieux centre-ville de Sanxia et des industries locales.
+- [Prix de l'immobilier, prêts hypothécaires et programme « Jeunesse sereine » à Taïwan](/housing/) — Page thématique : une vue d'ensemble au-delà des zones de réaménagement, incluant les taux de charge hypothécaire par municipalité et l'indice des prix du logement.
+- [Développement urbain et écart ville-campagne à Taïwan](/fr/geography/taiwan-urban-development-and-rural-urban-divide) — Replacer le secteur de Beida dans le contexte à long terme du réaménagement des zones et de l'expansion urbaine à Taïwan.
+- [Nouvelle ville de Linkou](/fr/geography/linkou-new-town) — Comparaison avec la nouvelle ville de Linkou, qui fut également qualifiée de « ville fantôme », pour observer son processus de maturation.
+- [Thé de Sanxia](/fr/food/sanxia-tea) — Pour approfondir les fondements culturels du vieux quartier de Sanxia et de ses industries locales.
 
 ## Références
 

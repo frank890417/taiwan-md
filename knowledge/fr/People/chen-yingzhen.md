@@ -22,11 +22,13 @@ lastHumanReview: false
 why_this_hook: '陳映真是台灣文學史上少數明確主張中國統一立場的左翼作家，其人生軌跡橫跨白色恐怖、鄉土文學論戰、報告文學運動，最終定居北京，是觀察戰後台灣左翼知識分子分歧路徑的關鍵個案。'
 whats_excluded: '本文聚焦陳映真的文學成就與政治立場。未深入處理：(1) 中國大陸方面對其逝世的悼念（告別式在北京八寶山殯儀館舉行），(2) 台灣本土派陣營對其統派立場的批判（如與陳芳明的長期論戰），(3) 1968 年民主台灣聯盟案其他被告（李作成、吳耀忠、陳述孔、丘延亮等共 36 人）的後續際遇。讀者若需理解陳映真的爭議性，需另行閱讀台灣本土派立場的評論材料。'
 where_it_hedges: '陳映真的政治立場（中國統一）與台灣多數民意有顯著分歧，本文以陳映真自身的言行與作品為敘述軸線，呈現其思想脈絡與創作軌跡，不評價其立場的對錯。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/陳映真.md'
-sourceCommitSha: '1e1fa6d8b'
-sourceContentHash: 'sha256:3831859a15865550'
-sourceBodyHash: 'sha256:f7b35c999a33373c'
-translatedAt: '2026-10-25T00:44:31+08:00'
+sourceCommitSha: '8ddc02a73'
+sourceContentHash: 'sha256:064dcaa12aa42249'
+sourceBodyHash: 'sha256:b78451f3df5fa83f'
+translatedAt: '2026-11-18T23:21:42.102940+00:00'
 ---
 
 # Chen Yingzhen : de Zhunan à Pékin, la conscience littéraire de l'unificationnisme
@@ -75,13 +77,13 @@ Le 31 décembre 1968, Chen Yingzhen écope de 10 ans de réclusion. Il est succe
 
 Cette expérience carcérale consolide sa position de gauche et son engagement pour l'« unification de la Chine ». Il approfondit son analyse de la place de Taïwan dans la configuration de la guerre froide et du destin commun des peuples opprimés d'Asie, d'Afrique et d'Amérique latine. Après sa libération, il revient sur la scène littéraire avec une pensée plus mûre et un style plus affirmé. Des œuvres comme « Le Chemin de montagne » ou la série _L'Immeuble Washington_ témoignent de sa lucidité sur le réel social et de sa sollicitude pour le sort des humbles.
 
-## Théoricien du mouvement pour la littérature nativiste
+## Théoricien du mouvement de la littérature _xiangtu_
 
-Dans les années 1970, Taïwan voit s'élever le mouvement pour la littérature nativiste. En 1976, Chen Yingzhen assure la rédaction de la revue _Chao d'été_ (夏潮). Lors du grand débat de 1977-78, il publie « Établir le style d'une littérature nationale », « La littérature vient de la société et lui reflète », « Les Angles morts de la littérature nativiste » et d'autres textes, réfutant les critiques de Yu Guangzhong et al. qui accusaient la littérature nativiste de verser dans la littérature « ouvriers-paysans-soldats ». Il devient ainsi l'un des principaux porte-parole du camp nativiste.[^5]
+Dans les années 1970, le mouvement de la littérature _xiangtu_ (littérature de terroir) a émergé à Taïwan. En 1976, Chen Yingzhen est devenu éditeur pour la revue 《Xia Chao》 (夏潮). Lors des débats sur la littérature _xiangtu_ de 1977-1978, il a publié des articles tels que 〈Établir un style de littérature nationale〉, 〈La littérature vient de la société et reflète la société〉 et 〈Les angles morts de la littérature _xiangtu_〉. Par ces écrits, il a réfuté les critiques d'auteurs comme Yu Kwang-chung, qui considéraient que la littérature _xiangtu_ tendait vers une littérature ouvrière, paysanne et militaire ; il est ainsi considéré comme l'un des principaux représentants de l'école _xiangtu_.[^5]
 
-« Xu Nancun » (許南村) est l'un de ses pseudonymes, utilisé par exemple pour « Nouvel espoir de l'art réaliste » (現實主義藝術的新希望), paru dans le troisième numéro de _Chao de la poésie_ (詩潮) en 1978. Les essais polémiques susmentionnés, en revanche, sont signés Chen Yingzhen.
+« Xu Nancun » était l'un de ses pseudonymes, utilisé par exemple pour l'article 〈Nouvel espoir pour l'art réaliste〉 publié en 1978 dans le troisième numéro de 《Shi Chao》 (詩潮). Les articles de polémique mentionnés précédemment ont été publiés sous le nom de Chen Yingzhen.
 
-Dans les années 1980, il continue de participer à la rédaction de _Wenji_ et _Chao d'été_, et s'engage dans la polémique du « Nœud chinois » contre le « Nœud taïwanais » face aux tenants du courant nativiste taïwanais, notamment Chen Fangming.
+Dans les années 1980, il a continué à participer à la gestion éditoriale des revues 《Wen Ji》 (文季) et 《Xia Chao》, et s'est opposé aux partisans du courant localiste taïwanais lors des débats entre le « Nœud de Chine » et le « Nœud de Taïwan », affrontant notamment Chen Fang-ming.
 
 ## Édition de revues et promotion culturelle
 

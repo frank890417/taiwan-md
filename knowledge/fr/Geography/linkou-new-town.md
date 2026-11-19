@@ -2,8 +2,7 @@
 title: 'Linkou New Town : de la « ville fantôme » à la métropole émergente du nord de Taïwan, entre transformation et défis'
 description: "Dans les années 1970, le gouvernement taïwanais a planifié une nouvelle ville sur le plateau de Linkou pour soulager la pression démographique de Taipei. Après plusieurs décennies de développement, cette zone autrefois surnommée « ville fantôme » en raison de son isolement et de ses infrastructures insuffisantes a connu une croissance démographique rapide et une modernisation industrielle après l'inauguration de l'aérotrain en 2017, devenant l'une des métropoles les plus jeunes et les plus dynamiques du nord de Taïwan. Néanmoins, les embouteillages et le climat humide et froid restent des défis à surmonter."
 date: 2026-04-29
-author: 'Taiwan.md Contributors'
-category: Geography
+category: 'Geography'
 tags:
   [
     'Linkou New Town',
@@ -21,15 +20,19 @@ tags:
     'microclimat',
     'culture du café',
   ]
-readingTime: 15
+subcategory: '城市與人文地理'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
+readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/林口新市鎮.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:bdae42ffe0d36150'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:150fe6a0199d610e'
 sourceBodyHash: 'sha256:57cdd81fe5d56c02'
-translatedAt: '2026-05-01T20:54:17+08:00'
-featured: false
+translatedAt: '2026-11-19T00:20:26.527609+00:00'
 ---
 
 > **Aperçu en 30 secondes :** Autrefois surnommée « ville fantôme », Linkou New Town a connu, en un demi-siècle, une transformation spectaculaire, passant des plantations de terre et des briqueteries à un parc technologique intelligent. Avec l'inauguration de l'aérotrain, cette zone la plus jeune de la ville de New Taipei a vu sa population augmenter de plus de 14 000 habitants en cinq ans, devenant un pôle d'attraction pour les nouveaux résidents du nord de Taïwan. Cependant, les embouteillages sur les autoroutes et le climat humide et froid restent des défis majeurs à ne pas négliger.
@@ -80,11 +83,12 @@ Bien que Linkou New Town ait réussi à se débarrasser du surnom de « ville fa
 
 À l'avenir, Linkou New Town continuera d'attirer talents et ressources grâce à la modernisation industrielle et à l'amélioration des infrastructures. Par exemple, l'implantation en 2025 des premières Archives nationales du pays apportera une richesse de connaissances humaines et culturelles à Linkou[^1]. Comment continuer à optimiser les transports, améliorer la qualité de vie et préserver le charme unique de la ville tout en poursuivant un développement rapide sera un enjeu majeur pour l'avenir de Linkou New Town.
 
-## Pour aller plus loin
+## Lectures complémentaires
 
-- [Développement urbain et disparités rurales-urbaines à Taïwan](/fr/geography/taiwan-urban-development-and-rural-urban-divide) — Comprendre la courbe de développement de Linkou New Town du point de vue de la planification régionale.
-- [Zone de réaménagement de Beida](/fr/geography/beida-special-district-sanxia) — Comparer avec une autre zone de réaménagement émergente portée par les transports, les districts scolaires et le marché immobilier.
-- [Système de transport taïwanais](/fr/lifestyle/transportation-system) — En savoir plus sur la façon dont l'aérotrain, les autoroutes et les trajets domicile-travail façonnent les nouvelles villes.
+- [Prix de l'immobilier, prêts hypothécaires et programme « Qing'an » à Taïwan](/housing/) — Page thématique : rapport entre les prix de l'immobilier et les revenus ainsi que taux d'endettement par municipalité, pour comprendre quelle part de la demande la nouvelle ville de Linkou absorbe.
+- [Développement urbain et écart ville-campagne à Taïwan](/fr/geography/taiwan-urban-development-and-rural-urban-divide) — Comprendre la courbe de développement de la nouvelle ville de Linkou sous l'angle de la planification régionale.
+- [Zone spéciale de l'Université nationale de Taïwan](/fr/geography/beida-special-district-sanxia) — Comparaison avec une autre zone de réaménagement émergente portée par les transports, les zones scolaires et le marché immobilier.
+- [Systèmes de transport à Taïwan](/fr/lifestyle/transportation-system) — Lectures complémentaires sur la manière dont l'Airport MRT, les autoroutes nationales et les transports pendulaires façonnent les nouvelles villes.
 
 ## Références
 

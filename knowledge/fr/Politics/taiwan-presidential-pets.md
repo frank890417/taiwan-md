@@ -2,9 +2,7 @@
 title: 'Les animaux de compagnie des présidents taïwanais : des chiens-loups autoritaires de la résidence officielle à la résonance sociale du « premier chat »'
 description: "En 1951, un chien-loup entra dans la résidence de Shilin pour devenir le gardien de Tchang Kaï-chek ; soixante-dix ans plus tard, Tsai Ing-wen s'installa dans la résidence avec « Think Think », une chatte errante. Du chien militaire symbolisant la garde autoritaire aux chiens errants et chats incarnant l'attention sociale, la succession des animaux de compagnie présidentiels à Taïwan esquisse incidemment la trajectoire démocratique de cette île, passée de la politique des hommes forts à une démocratie pluraliste et égalitaire."
 date: 2026-06-01
-author: 'Taiwan.md Contributors'
 category: 'Politics'
-subcategory: '政治文化'
 tags:
   [
     'résidence présidentielle',
@@ -12,15 +10,19 @@ tags:
     'protection animale',
     'démocratie taïwanaise',
   ]
-readingTime: 8
+subcategory: '政治文化'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-01
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Politics/總統的寵物.md'
-sourceCommitSha: 'edae9fc94'
-sourceContentHash: 'sha256:3392858fc71ecf5e'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:85d74441bcd20040'
 sourceBodyHash: 'sha256:a651681f805672fe'
-translatedAt: '2026-06-02T00:40:00+08:00'
+translatedAt: '2026-11-18T23:37:21.977318+00:00'
 ---
 
 > **Aperçu en 30 secondes :** Les animaux de compagnie des présidents successifs de Taïwan ne sont pas seulement des membres de la famille au sein de la résidence officielle ; ils sont souvent aussi le condensé d’une image politique et de valeurs sociales. Du majestueux chien-loup de l’époque de Tchang Kaï-chek aux groupes de golden retrievers de Lee Teng-hui, du chien taïwanais Yong-ge de Chen Shui-bian à Ma Xiaojiu de Ma Ying-jeou, aux chats et chiens de Tsai Ing-wen, puis au chien errant Luke de Lai Ching-te, cette liste retrace la manière dont le « premier animal de compagnie » est progressivement passé d’un simple goût privé à un langage politique servant à promouvoir la protection animale et à manifester une chaleur ordinaire.
@@ -77,22 +79,22 @@ En outre, l’image de « belle vie de chien » des animaux présidentiels est s
 
 ## Références
 
-[^1]: [蔣介石3愛犬護主有靈性日記留名備受寵愛](https://www.youtube.com/watch?v=uj0__fZkZlg) — TTV News (document vidéo YouTube)
+[^1]: [Les trois chiens de Chiang Kai-shek : des animaux spirituels dont les noms figurent dans son journal et qui étaient très aimés](https://www.youtube.com/watch?v=uj0__fZkZlg) — TTV News (enregistrement vidéo YouTube)
 
-[^2]: [回看李登輝：養狗養貓還養羊 阿輝伯官邸像另類動物園](https://www.mirrormedia.mg/story/20200227inv009/) — Mirror Media (mentionne l’importation de golden retrievers par Lee Teng-hui, la naissance de plus de trente chiots et la formation d’une partie d’entre eux comme chiens-guides)
+[^2]: [Retour sur Lee Teng-hui : il élevait des chiens, des chats et même des moutons ; la résidence de l'Oncle Ah-hui ressemblait à un zoo alternatif](https://www.mirrormedia.mg/story/20200227inv009/) — Mirror Media (mentionne que Lee Teng-hui a introduit des Golden Retrievers, en a fait élever plus de trente, dont certains ont été formés comme chiens guides)
 
-[^3]: [政治明星犬命運大不同，蔡想想浪貓變前總統第一寵物](https://tw.news.yahoo.com/%E5%B8%82%E7%8A%AC%E6%B7%AA%E6%B5%AA%E7%8A%AC2-%E6%94%BF%E6%B2%BB%E6%98%8E%E6%98%9F%E7%8A%AC%E5%91%BD%E9%81%8B%E5%A4%A7%E4%B8%8D%E5%90%8C-%E8%94%A1%E6%83%B3%E6%83%B3%E6%B5%AA%E8%B2%93%E8%AE%8A%E5%89%8D%E7%B8%BD%E7%B5%B1%E7%AC%AC-%E5%AF%B5%E7%89%A9-100500895.html) — Yahoo News
+[^3]: [Destins très différents pour les chiens stars de la politique : Xiangxiang, le chat errant, est devenu l'animal de compagnie numéro un de l'ancienne présidente](https://tw.news.yahoo.com/%E5%B8%82%E7%8A%AC%E6%B7%AA%E6%B5%AA%E7%8A%AC2-%E6%94%BF%E6%B2%BB%E6%98%8E%E6%98%9F%E7%8A%AC%E5%91%BD%E9%81%8B%E5%A4%A7%E4%B8%8D%E5%90%8C-%E8%94%A1%E6%83%B3%E6%83%B3%E6%B5%AA%E8%B2%93%E8%AE%8A%E5%89%8D%E7%B8%BD%E7%B5%B1%E7%AC%AC-%E5%AF%B5%E7%89%A9-100500895.html) — Yahoo News
 
-[^4]: [馬小九維基百科條目](https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%B0%8F%E4%B9%9D) — Wikipédia (entrée Wikipédia)
+[^4]: [Entrée Wikipédia sur Ma Xiao-jiu](https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%B0%8F%E4%B9%9D) — Wikipédia (entrée Wikipédia)
 
-[^5]: [北市長任內特別費案 馬英九獲不起訴](https://news.ltn.com.tw/news/society/breakingnews/2009990) — Liberty Times (20 mars 2017 : non-lieu du parquet de Taipei ; les fonds spéciaux avaient été dépénalisés et l’affaire précédente avait déjà abouti à un acquittement définitif)
+[^5]: [Affaire des frais spéciaux durant le mandat du maire de Taipei : non-lieu pour Ma Ying-jeou](https://news.ltn.com.tw/news/society/breakingnews/2009990) — Liberty Times (le 20-03-2017, le bureau du procureur de Taipei a prononcé un non-lieu ; les frais spéciaux ont été dépénalisés et une affaire précédente avait déjà été définitivement jugée non coupable)
 
-[^6]: [秀第一寵物蔡英文：最想陪想想、阿才玩](https://www.youtube.com/watch?v=jVfgyh2mxVA) — FTV News (document vidéo YouTube)
+[^6]: [La première animal de compagnie de Tsai Ing-wen : elle veut surtout passer du temps avec Xiangxiang et Ah-tsai](https://www.youtube.com/watch?v=jVfgyh2mxVA) — FTV News (enregistrement vidéo YouTube)
 
-[^7]: [總統：依法申請領養退役搜救犬 無須為政治扭曲](https://www.cna.com.tw/news/aipl/202104290024.aspx) — Central News Agency (mentionne l’adoption par Tsai Ing-wen en 2016 des chiens-guides retraités Bella, Bunny et Maru, ainsi que du chien de recherche et de sauvetage Lele, adopté conformément aux règles après son départ à la retraite)
+[^7]: [Le Président : demander l'adoption de chiens de sauvetage retraités conformément à la loi, sans distorsion politique](https://www.cna.com.tw/news/aipl/202104290024.aspx) — CNA (mentionne que Tsai Ing-wen a adopté en 2016 les chiens guides retraités Bella, Bunny et Maru, ainsi que le chien de sauvetage Lele, adopté selon les règles après son retrait)
 
-[^8]: [賴清德新動畫片吐露收養流浪狗「Luke」的故事](https://tw.news.yahoo.com/%E8%B3%B4%E6%B8%85%E5%BE%B7%E6%8E%A8%E6%96%B0%E5%8B%95%E7%95%AB%E7%89%87-%E5%90%90%E9%9C%B2%E6%94%B6%E9%A4%8A%E6%B5%81%E6%B5%AA%E7%8B%97-luke-%E7%9A%84%E6%BA%AB%E6%83%85%E6%95%85%E4%BA%8B-063202600.html) — Yahoo News
+[^8]: [Un nouveau film d'animation de Lai Ching-te révèle l'histoire de l'adoption du chien errant « Luke »](https://tw.news.yahoo.com/%E8%B3%B4%E6%B8%85%E5%BE%B7%E6%8E%A8%E6%96%B0%E5%8B%95%E7%95%AB%E7%89%87-%E5%90%90%E9%9C%B2%E6%94%B6%E9%A4%8A%E6%B5%81%E6%B5%AA%E7%8B%97-luke-%E7%9A%84%E6%BA%AB%E6%83%85%E6%95%85%E4%BA%8B-063202600.html) — Yahoo News
 
-[^9]: [愛犬Luke離世 賴清德：持續關注毛小孩與浪浪](https://www.cna.com.tw/news/aipl/202309110271.aspx) — Central News Agency (11 septembre 2023 ; sur Facebook, Lai Ching-te « remercie Luke pour toutes ces années de compagnie »)
+[^9]: [Décès du chien Luke ; Lai Ching-te : continuer à porter attention aux animaux de compagnie et aux chiens errants](https://www.cna.com.tw/news/aipl/202309110271.aspx) — CNA (le 11-09-2023, page Facebook de Lai Ching-te : « Merci à Luke pour sa compagnie durant toutes ces années »)
 
-[^10]: [如果捕獸夾夾到小孩、馬小九…](https://news.tvbs.com.tw/life/131330) — TVBS (voir les compléments dans le texte du lien original)
+[^10]: [Si un piège à animaux attrapait un enfant ou Ma Xiao-jiu...](https://news.tvbs.com.tw/life/131330) — TVBS (voir les informations complémentaires dans le lien original)

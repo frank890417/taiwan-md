@@ -2,9 +2,7 @@
 title: "Taïwan et la Corée du Nord : De la quatrième puissance d'exportation au combat grisé de la flotte fantôme"
 description: "La Taïwan était autrefois la quatrième puissance d'exportation de la Corée du Nord, les ordinateurs Acer et les sanitaires HCG étant visibles dans les bureaux de Pyongyang. Cette histoire, qui va d'un commerce florissant à un embargo total, entrelace l'aide agricole secrète, la contrebande maritime et les luttes profondes du renseignement de sécurité nationale."
 date: 2026-07-17
-author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: '民主與治理'
 tags:
   [
     'Taïwan',
@@ -17,15 +15,20 @@ tags:
     'Pêche',
     'Inspection',
   ]
-readingTime: 15
+subcategory: '民主與治理'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-07-17
 lastHumanReview: false
-featured: false
+readingTime: 15
+relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/台灣與北朝鮮關係.md'
-sourceCommitSha: '5af229e1e'
-sourceContentHash: 'sha256:6923220eadde819d'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:710244ec0149acd2'
 sourceBodyHash: 'sha256:4dc13793ac08242f'
-translatedAt: '2026-07-25T21:33:44+08:00'
+translatedAt: '2026-11-19T00:26:57.852229+00:00'
 ---
 
 > **En trente secondes :** Les relations entre la Taïwan et la Corée du Nord sont bien plus complexes qu'il n'y paraît. Avant l'embargo total de 2017, la Taïwan était la quatrième destination d'exportation mondiale de la Corée du Nord, les échanges commerciaux civils étant extrêmement florissants. La Corée du Nord présentait une forte dépendance à l'égard des produits taïwanais, des ordinateurs Acer et Asus dans les bureaux gouvernementaux aux beignets Beifong et aux beignets de la marque Yih Wei appréciés par les hauts fonctionnaires ; les marques « Made in Taïwan » (MIT) avaient profondément pénétré Pyongyang. Bien que les relations officielles soient aujourd'hui gelées, la contrebande maritime, la pénétration de haute technologie, le blanchiment d'argent financier souterrain et l'affaire des câbles sous-marins indiquent que ces relations sont entrées dans une zone grise, continuant de mobiliser les nerfs géopolitiques d'Asie de l'Est. Par ailleurs, des fonctionnaires du Parti des travailleurs de Corée du Nord ont effectué des inspections secrètes à Taïwan dans les zones de traitement pour l'exportation, et les bateaux de pêche taïwanais ont également employé massivement des pêcheurs nord-coréens ; ces liens profonds et méconnus révèlent un réseau d'interactions plus complexe entre les deux régions.
@@ -108,10 +111,10 @@ Ces dernières années, les changements stratégiques nationaux de la Corée du 
 
 Le passage du paradigme de la Corée du Nord vers la « théorie des deux États » a prouvé que les « sentiments de sang » sont extrêmement fragiles face à la stratégie nationale des États autoritaires. Cela oblige la Taïwan à accélérer son virage vers une pensée stratégique fondée uniquement sur la souverainité substantielle et la dissuasion de la défense nationale. Les analyses des think tanks indiquent qu'avec le changement de la Corée du Nord, la Taïwan devrait élaborer tôt des réglementations sur les investissements en Corée du Nord, éviter de répéter les fuites de technologie lors de la première pénétration en Chine, et maintenir la sécurité nationale et les intérêts économiques[^19].
 
-## Pour aller plus loin
+## Lectures complémentaires
 
-- [Retrait de l'ONU](/fr/history/withdrawal-from-united-nations) — Le tournant structurel du statut international de la Taïwan
-- [Commerce extérieur de la Taïwan et chaîne d'approvisionnement mondiale](/fr/economy/taiwan-foreign-trade-and-global-supply-chain) — Comment l'exportation a façonné le commerce de la zone grise
+- [Le retrait de l'ONU](/fr/history/withdrawal-from-united-nations) — Un tournant structurel dans le statut international de Taïwan
+- [Le commerce extérieur de Taïwan et les chaînes d'approvisionnement mondiales](/fr/economy/taiwan-foreign-trade-and-global-supply-chain) — Comment l'orientation vers l'exportation façonne le commerce dans les zones grises
 
 ## Références
 

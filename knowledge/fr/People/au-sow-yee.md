@@ -2,9 +2,7 @@
 title: "Au Sow Yee : la curatrice malaisienne qui a fait entrer l'« archipel » dans le milieu artistique taïwanais"
 description: "En 2003, elle quitte Kuala Lumpur pour Taipei afin d'étudier à l'Université nationale des arts de Taipei, pensant n'être que de passage ; quatorze ans plus tard, elle commence à Taipei à employer « l'archipel » (Nusantara) à la place de « l'Asie du Sud-Est », désignation issue de la guerre froide, et introduit dans le discours curatorial taïwanais une auto-désignation du monde malais. De la trilogie du toponyme fictif Mengkerang à l'entrée du Kris Project dans la collection du Singapore Art Museum, jusqu'aux entretiens menés en 2024 avec Chen Yow-Ruu auprès d'enfants apatrides de Malaisie, elle a prononcé dans un entretien avec NML une phrase décisive : « C'est précisément parce que je n'étais pas là que j'ai pu faire cette œuvre. »"
 date: 2026-05-17
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '策展與當代藝術'
 tags:
   [
     'Au Sow Yee',
@@ -19,18 +17,23 @@ tags:
     'Rumah Attap Library',
     'No Man’s Land numérique',
   ]
+subcategory: '策展與當代藝術'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-17
 lastHumanReview: false
-featured: false
-translatedFrom: 'People/區秀詒.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:4e807297f5dfcc70'
-sourceBodyHash: 'sha256:9bd8f0aa157f38ef'
-translatedAt: '2026-06-16T16:54:51Z'
+researchReport: 'reports/research/2026-05/區秀詒.md'
 image: '/article-images/people/au-sow-yee-prelude-interstellar-still-2024.webp'
 imageCredit: 'Au Sow Yee'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://ausowyee.cargo.site/'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'People/區秀詒.md'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:5b9dbf1e0550a936'
+sourceBodyHash: 'sha256:a89b940ae652fb14'
+translatedAt: '2026-11-18T23:07:32.234076+00:00'
 ---
 
 # Au Sow Yee : la curatrice malaisienne qui a fait entrer l'« archipel » dans le milieu artistique taïwanais
@@ -167,19 +170,19 @@ Cette œuvre connaît aussi une version théâtrale, **Nanyang Intelligence Exch
 
 Elle commence alors à déployer ses œuvres au-delà de l'« œuvre vidéo unique », sous la forme de **projets globaux transmédiatiques, transinstitutionnels et transtemporels**.
 
-## STILL ALIVE : Kris Project II et les guerriers silencieux de l'océan
+## STILL ALIVE : le Chris Project II et les silencieux guerriers de l'océan
 
-Le 28 novembre 2019, **TheCube Project Space**, à Liuzhangli, Taipei, inaugure son exposition personnelle **STILL ALIVE**[^25], présentée jusqu'au 19 janvier 2020.
+Le 28 novembre 2019, l'**espace TheCube Project Space** de Liuzhangli à Taipei a inauguré son exposition personnelle « STILL ALIVE »[^25], qui s'est tenue jusqu'au 19 janvier 2020.
 
-Trois œuvres y sont montrées :
+Trois œuvres :
 
-1. **Kris Project II: If the Party Goes On**, qui prolonge le Kris Project de 2016 en creusant plus profondément
-2. **Palaces, Valleys, Islands and Their Lunar Journey**, qui relie le monde malais aux mythes lunaires
-3. **Silver Noise: The Extreme Journey of Ocean's Silent Warriors (Prelude: Song of the Voyage)**, une mnémotechnique sonore de l'océan
+1. **« Chris Project II : If the Party Goes On »** (《克里斯計畫 II：派對如常》), qui prolonge le Chris Project de 2016 en creusant plus profondément
+2. **« Palaces, Valleys, Islands and Their Lunar Journey »**, qui relie le monde malais aux mythes lunaires
+3. **« Silver Noise : The Extreme Journey of the Silent Warriors of the Ocean (Prelude: Song of Navigation) »** (《銀色噪音：海洋的沉默勇士之極端旅程（序曲：航行之歌）》), une mnémotechnique des sons de l'océan
 
-TheCube Project Space est fondé en 2010 par Amy Cheng et Jeph Lo. Situé dans un ancien appartement d'une ruelle de Liuzhangli, à Taipei, il est l'un des espaces non commerciaux les plus importants du milieu taïwanais de l'art contemporain. Il n'est pas fortuit qu'Au Sow Yee y présente une exposition personnelle : depuis des années, TheCube soutient en profondeur les commissariats liés à l'« archipel », et constitue, en dehors de NML, un autre nœud du monde malais dans le milieu artistique taïwanais.
+L'espace TheCube Project Space, fondé en 2010 par Cheng Hui-hua et Lo Yueh-chuan, est situé dans un vieil immeuble d'une ruelle de Liuzhangli à Taipei ; c'est l'un des espaces non commerciaux les plus importants de la scène artistique contemporaine de Taïwan. Le fait qu'Au Sow Yee y présente une exposition personnelle n'est pas fortuit : depuis des années, TheCube soutient en profondeur des commissariats liés à l'« archipel » ; c'est un autre nœud du monde malais dans le milieu artistique taïwanais, en dehors de NML.
 
-En 2021, elle reçoit le prix d'honneur du **Taipei Art Awards** pour un prolongement de cette série[^26]. C'est également à partir de cette année-là qu'elle est invitée successivement par des biennales internationales : la Biennale de Busan en 2022, puis la 15e Biennale de Sharjah, aux Émirats arabes unis, Thinking Historically in the Present, en 2023[^27].
+En 2021, elle a remporté le **prix d'honneur des Taipei Art Awards**[^26] avec une création dérivée de cette série. C'est également cette année-là qu'elle a commencé à être invitée de manière consécutive par des biennales internationales : la Biennale de Busan en 2022, la 15e édition de la Biennale de Sharjah aux Émirats arabes unis, « Thinking Historically in the Present »[^27], en 2023.
 
 ## Re-raconter Si Tanggang avec des enfants apatrides
 
