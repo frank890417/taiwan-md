@@ -18,17 +18,17 @@ featured: false
 lastVerified: 2026-06-16
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Art/首映創意.md'
-sourceCommitSha: '088a688b2'
-sourceContentHash: 'sha256:24d3c436839c65a5'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:f37d78947560bdb3'
 sourceBodyHash: 'sha256:952b491f965877b0'
-translatedAt: '2026-08-09T10:41:15+08:00'
+translatedAt: '2026-11-19T15:02:26.215626+00:00'
 ---
 
 > **Tóm tắt 30 giây:**
-> "First Image Creative" (SOFA Studio) thành lập năm 2004 từng là ngôi sao của ngành hoạt hình Đài Loan, mang theo tham vọng tài chính và sáng tạo gốc của Quách Đài Minh, chinh phục khắp 80 quốc gia với "Mumu Hug". Tuy nhiên, chi phí nghiên cứu phát triển cao ngất và thời kỳ thu hồi lâu dài đã biến cuộc đánh bạc lớn lao này thành ngoặt. Câu chuyện chưa kết thúc, nhân viên cốt lõi Cầu Lập Vĩ tại Đài Nam thành lập studio2 và tiếp tục ngọn lửa, từ "Mèo con Bác Kỳ" đến "Tám Giới", họ trong những tòa nhà cũ ở Đài Nam đã dùng hai mươi năm cô đơn để đổi lấy một thẩm mỹ hoạt hình thuộc về Đài Loan.
-
----
+> Năm 2004 thành lập "Đầu Hình Sáng Tạo" (SOFA Studio) từng là ngôi sao của ngành hoạt hình Đài Loan, gánh vác vốn của Quách Đài Cường và giấc mơ sáng tạo gốc, chinh phục 80 quốc gia trên toàn cầu với "Mumu Hug". Tuy nhiên, chi phí cao và kỳ thu hồi vốn kéo dài của nghiên cứu phát triển hoạt hình đã khiến cuộc cược lớn này cuối cùng rẽ hướng. Câu chuyện chưa kết thúc, thành viên cốt lõi Khâu Lập Vĩ thành lập studio2 tại Đài Nam đã tiếp nhận ngọn đuốc, từ "Mèo con Bakri" đến "Tám Giới", họ trong những tòa nhà cũ tại Đài Nam, dùng hai mươi năm cô đơn để đổi lấy thẩm mỹ hoạt hình thuộc về Đài Loan.
 
 ## Ánh sáng bình minh biến mất: Khi con trai ông chủ giàu nhất gặp giấc mơ hoạt hình
 
