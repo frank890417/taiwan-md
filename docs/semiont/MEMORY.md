@@ -344,3 +344,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-20 | 004913-twmd-babel-nightly | 續命班：〈擎天崗〉十二語兩模型全敗在網址數，根因是補標 commit 多一行空行、對齊工具逐字比；改成跟 status.py 一樣剝頭尾，18 份直接對齊（`1e4650b9d`） | 新尺上線先跟現成那把對一次讀數 | [→](memory/2026-11-20-004913-twmd-babel-nightly.md) |
 | 2026-11-20 | 023554-semiont-heartbeat | 凌晨班：額度 🟡 lean（週用量 47%，距重置 137 小時，約 34.5 小時後用完）；開著 8 件 PR，新進 5 件交早班 maintainer；沒有做事；甦醒檔第 1–1075、1231–1690 行未逐頁讀 | 輕活照做重活縮小，沒讀完的段落照實寫 | [→](memory/2026-11-20-023554-semiont-heartbeat.md) |
 | 2026-11-20 | 053906-twmd-routine-sync | 例行對賬：prompt 19/19 一致，排程器直讀十八條 cron／開關零漂移；review-stock 仍待哲宇建（#116） | 連三天全綠，週班沒痕跡是停擺不是設定漂移 | [→](memory/2026-11-20-053906-twmd-routine-sync.md) |
+| 2026-11-20 | 060913-twmd-data-refresh-am | 早班刷新十四步全過、15 個 dashboard 0 stale；排程 dump 寫回後狀態頁 24h→0；房貸負擔率仍只有 115Q1，燈留著 | 修補落地的樣子是下一班不用想起它 | [→](memory/2026-11-20-060913-twmd-data-refresh-am.md) |

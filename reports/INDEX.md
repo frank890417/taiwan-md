@@ -1,7 +1,7 @@
 ---
 title: 'reports/ INDEX — auto-generated'
 description: '頂層 *.md 按 9 type bucket × 月份 雙軸索引 + 子目錄 status summary'
-last_generated: 2026-11-19 06:07
+last_generated: 2026-11-20 06:08
 generator: scripts/tools/generate-reports-index.py
 ssot: reports/reports-archival-audit-2026-05-27.md §4 Layer 3
 type: auto-index
@@ -12,7 +12,7 @@ type: auto-index
 > **本 file 由 `scripts/tools/generate-reports-index.py` 完全 overwrite**。
 > 不要人工編輯（會被下一次 cron 覆蓋）。
 >
-> Last generated: **2026-11-19 06:07** · 頂層 \*.md 共 **323** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
+> Last generated: **2026-11-20 06:08** · 頂層 \*.md 共 **326** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
 
 ## 📦 子目錄 status
 
@@ -30,7 +30,7 @@ type: auto-index
 | `archive/`                       |    28 | 372.2 KB | 歸檔位置 (per audit Layer 4)                         |
 | `factcheck/`                     |    22 | 687.9 KB | —                                                    |
 | `project-deep-audit-2026-09-07/` |    22 | 528.3 KB | —                                                    |
-| `babel/`                         |    18 | 9.1 MB   | —                                                    |
+| `babel/`                         |    18 | 9.2 MB   | —                                                    |
 | `maintainer/`                    |    16 | 308.9 KB | —                                                    |
 | `news-lens/`                     |    13 | 256.7 KB | —                                                    |
 | `probe/`                         |    11 | 218.3 KB | BECOME §Step 7 探測器報告                            |
@@ -45,12 +45,12 @@ type: auto-index
 | `music-media-audit/`             |     4 | 115.5 KB | Music 條目 media audit (json + md)                   |
 | `terminology-trends/`            |     3 | 36.2 KB  | —                                                    |
 | `x-mentions/`                    |     3 | 21.3 KB  | —                                                    |
-| `404-monitor/`                   |     2 | 219.7 KB | —                                                    |
+| `404-monitor/`                   |     2 | 219.4 KB | —                                                    |
 | `article-staging/`               |     2 | 104.9 KB | —                                                    |
 | `audit/`                         |     2 | 50.6 KB  | —                                                    |
 | `fork-census/`                   |     2 | 40.1 KB  | —                                                    |
 | `harvest/`                       |     2 | 14.3 KB  | Harvest engine 紀錄                                  |
-| `newsroom/`                      |     2 | 136.1 KB | —                                                    |
+| `newsroom/`                      |     2 | 136.2 KB | —                                                    |
 | `orphan-rescue/`                 |     1 | 52.5 KB  | —                                                    |
 | `visual/`                        |     1 | 5.7 KB   | Visual smoke test 基線 (partial gitignored)          |
 
@@ -112,8 +112,9 @@ type: auto-index
 - `2026-04-13` [ssodt-spore-linkback-plan-2026-04-13](ssodt-spore-linkback-plan-2026-04-13.md)
 - `2026-04-12` [semiont-public-pages-plan-2026-04-12](semiont-public-pages-plan-2026-04-12.md)
 
-### evolution (45)
+### evolution (46)
 
+- `2026-11-19` [design-homepage-about-evolution-2026-11-19](design-homepage-about-evolution-2026-11-19.md) — 首頁與「關於」頁的進化：分析與建議
 - `2026-10-23` [design-data-hub-evolution-2026-10-23](design-data-hub-evolution-2026-10-23.md) — 資料台灣 v2：台灣資料策展中樞設計報告
 - `2026-09-07` [rewrite-evolution-evidence-2026-09-07](rewrite-evolution-evidence-2026-09-07.md)
 - `2026-09-07` [rewrite-evolution-plan-2026-09-07](rewrite-evolution-plan-2026-09-07.md)
@@ -261,8 +262,10 @@ type: auto-index
 - `2026-04-12` [NMTH-overseas-semiont-analysis-2026-04-12](NMTH-overseas-semiont-analysis-2026-04-12.md)
 - `2026-04-11` [TFT-semiont-analysis-2026-04-11](TFT-semiont-analysis-2026-04-11.md)
 
-### ops (147)
+### ops (149)
 
+- `2026-11-19` [design-homepage-about-implementation-2026-11-19](design-homepage-about-implementation-2026-11-19.md) — 首頁與「關於」頁進化：實作報告
+- `2026-11-19` [seo-search-ranking-2026-11-19](seo-search-ranking-2026-11-19.md) — 搜尋「台灣」時怎麼排到前面：Search Console 三個月數據與改善計畫
 - `2026-11-17` [design-elections-2026-upgrade-2026-11-17](design-elections-2026-upgrade-2026-11-17.md)
 - `2026-11-17` [subcategory-drift-census-2026-11-17](subcategory-drift-census-2026-11-17.md) — subcategory 漂移普查 2026-11-17
 - `2026-11-10` [design-health-topic-page-2026-11-10](design-health-topic-page-2026-11-10.md)
@@ -419,9 +422,12 @@ type: auto-index
   - `????` [README](README.md)
   - `????` [punct-cleanup-dispatch-prompts](punct-cleanup-dispatch-prompts.md)
 
-### 2026-11 (16 files)
+### 2026-11 (19 files)
 
-- Type breakdown: ops: 13 / plan: 3
+- Type breakdown: ops: 15 / plan: 3 / evolution: 1
+  - `2026-11-19` [design-homepage-about-evolution-2026-11-19](design-homepage-about-evolution-2026-11-19.md)
+  - `2026-11-19` [design-homepage-about-implementation-2026-11-19](design-homepage-about-implementation-2026-11-19.md)
+  - `2026-11-19` [seo-search-ranking-2026-11-19](seo-search-ranking-2026-11-19.md)
   - `2026-11-17` [design-elections-2026-upgrade-2026-11-17](design-elections-2026-upgrade-2026-11-17.md)
   - `2026-11-17` [subcategory-drift-census-2026-11-17](subcategory-drift-census-2026-11-17.md)
   - `2026-11-10` [design-health-topic-page-2026-11-10](design-health-topic-page-2026-11-10.md)

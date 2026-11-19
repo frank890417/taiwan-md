@@ -1,23 +1,23 @@
 {
-  "_generated": "2026-11-18T22:06:55.622Z",
+  "_generated": "2026-11-19T22:08:05.207Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
+      {
+        "title": "投保薪資的天花板：36,095 元、45,800 元，與那條看不見的截斷線",
+        "desc": "114 年 12 月，勞保平均投保薪資 36,095 元，主計總處的受僱員工總薪資平均是每月 63,386 元。差距有四個來源：年終等非經常性給與不列入投保薪資、45,800 元的上限從 105 年起沒調過、勞保名單多了職業工會，以及違法的高薪低報。就保被保險人有 42.7% 卡在上限，另有 13% 落在最低一級，這一級分不出誰真的領最低工資、誰被低報。",
+        "category": "economy",
+        "href": "/economy/%E6%8A%95%E4%BF%9D%E8%96%AA%E8%B3%87%E7%9A%84%E5%A4%A9%E8%8A%B1%E6%9D%BF",
+        "date": "2026-11-19T08:55:33+08:00",
+        "readingTime": 11,
+        "image": ""
+      },
       {
         "title": "兩次登陸：道明會在台灣的 1626 與 1859",
         "desc": "1626 年 5 月，道明會士隨西班牙艦隊登上基隆和平島，十六年間至少 31 位會士在北部傳教，約四千人受洗；1642 年荷蘭攻下基隆，傳教中止。二百三十三年後，郭德剛與洪保祿在 1859 年 5 月 18 日抵達打狗，從前金的一間茅草傳教所開始，長出玫瑰聖母聖殿與萬金天主堂。這篇寫一個修會兩次登陸之間的空窗、奉旨碑的來歷，以及傳教與帝國條約體系的關係。",
         "category": "history",
         "href": "/history/%E9%81%93%E6%98%8E%E6%9C%83%E5%9C%A8%E5%8F%B0%E7%81%A3",
         "date": "2026-11-17T22:25:53+08:00",
-        "readingTime": 11,
-        "image": ""
-      },
-      {
-        "title": "投保薪資的天花板：36,095 元、45,800 元，與那條看不見的截斷線",
-        "desc": "114 年 12 月，勞保平均投保薪資 36,095 元，投保人數 1,048 萬。同一年主計總處的全體受僱員工每人總薪資平均是每月 63,386 元。兩個數字差 27,291 元，原因有三：投保薪資只算本薪、不含獎金與加班費，45,800 元的上限截斷了右尾，以及勞保的投保人數還包含職業工會與部分工時。這篇拆開兩套薪資統計的口徑，以及行業、縣市與投保身分之間的差距。",
-        "category": "economy",
-        "href": "/economy/%E6%8A%95%E4%BF%9D%E8%96%AA%E8%B3%87%E7%9A%84%E5%A4%A9%E8%8A%B1%E6%9D%BF",
-        "date": "2026-11-17T21:53:37+08:00",
         "readingTime": 11,
         "image": ""
       },
@@ -429,8 +429,8 @@
         "image": ""
       },
       {
-        "title": "CPBL: Thirty-seven years of a league that almost died twice and came back to life",
-        "desc": "On October 23, 1989, four corporations announced the establishment of the Chinese Professional Baseball League at the Brother Hotel, with games commencing on March 17 of the following year. Over the past thirty-seven years, it has faced dissolution twice: first in 1996 following the Black Eagle incident, which saw the departure of the Brother Elephants, Wei Chuan Dragons, and Saica Tigers; and again after the 2008 Black Rice incident involving the Sinon Whales, followed by the Black Elephant scandal the next year. Having persevered, the Taipei Dome has now seen single-game attendance reach 40,000, and in 2025, the regular season average attendance surpassed 10,000 for the first time.",
+        "title": "CPBL: Thirty-Seven Years, a League That Nearly Died Twice and Came Back",
+        "desc": "On October 26, 2026, the Wei Chuan Dragons shut out the CTBC Brothers 6-0 in Game 6 at the Taipei Dome, clinching their sixth franchise championship, as 38,178 fans threw red streamers onto the field. This article traces back from that title-clinching game, passing through the 1989 founding meeting at the Brothers Hotel, the first pitch on March 17, 1990, the 1999 disbandment of Wei Chuan, the two near-death experiences of the 2008 \"Black Mi\" and 2009 \"Black Elephant\" scandals, then forward to the 2003 merger of the two leagues, Wei Chuan's 2021 return to the top tier, their 2023 fifth championship, the six-team scale, and today's 2025 regular-season average attendance surpassing 10,000. In thirty-seven years, this league nearly vanished twice.",
         "category": "culture",
         "href": "/en/culture/chinese-professional-baseball-league",
         "date": "2026-11-16T22:03:47+08:00",
@@ -447,8 +447,8 @@
         "image": ""
       },
       {
-        "title": "Common Taiwanese Names",
-        "desc": "Shout 'Shu-Fen' or 'Jia-Hao' on a Taiwanese street and watch how many heads turn. These names are a cross-section of Taiwanese society, recording each generation's collective imagination of what a good life looks like.",
+        "title": "Wet Market Names",
+        "desc": "If you shouted \"Shufen\" or \"Jia-hao\" on a street in Taiwan, how many people would turn around? These names are a microcosm of Taiwanese society, recording the collective imagination of different generations regarding a \"beautiful life.\"",
         "category": "culture",
         "href": "/en/culture/common-taiwanese-names",
         "date": "2026-11-10T14:40:47+08:00",
@@ -456,8 +456,8 @@
         "image": ""
       },
       {
-        "title": "Indigenous Names: From Personal Names to \"Dou\" and \"Feng,\" How Names Record Relationships",
-        "desc": "Indigenous names are not composed solely of personal names; they may also include patronymics/matronymics, clan names, house names, and titles that change with life stages. Rare Han surnames among the Saisiyat, such as \"Dou\" and \"Feng,\" preserve clues where clan names, historical registration, and family memory intersect.",
+        "title": "Indigenous Names in Taiwan: From Personal Names to \"Dou\" and \"Feng\" — How Names Write Relationships",
+        "desc": "Indigenous names consist not only of personal names but may also link to parental names, clan names, house names, and life stages. The rare Saisiyat surnames \"Dou\" and \"Feng\" preserve clues from the intersection of clan names, historical registration, and family memory.",
         "category": "culture",
         "href": "/en/culture/indigenous-naming-taiwan",
         "date": "2026-11-10T14:40:47+08:00",
@@ -602,8 +602,8 @@
         "image": ""
       },
       {
-        "title": "原住民族の姓名：親名から「豆」「風」へ、名字がどう関係を記述するか",
-        "desc": "原住民族の姓名は個人名だけでなく、親名・氏族名・家屋名・人生の段階と結びついていることがあります。賽夏族の「豆」「風」といった珍しい漢姓は、氏族名・歴史的登記・家族の記憶が交わった後の手がかりを残しています。",
+        "title": "原住民族の姓名：親名から「豆」「風」へ、名前がいかに関係を記録するか",
+        "desc": "原住民族の姓名は個人名だけでなく、親名・氏族名・家屋名・人生の段階と結びついている。賽夏族の「豆」「風」といった珍しい漢字姓は、氏族名・歴史的登記・家族の記憶が交わった痕跡を残している。",
         "category": "culture",
         "href": "/ja/culture/indigenous-naming-taiwan",
         "date": "2026-11-10T14:40:47+08:00",
@@ -2133,12 +2133,12 @@
         "image": "/article-images/economy/taicca-inauguration-2019.webp"
       },
       {
-        "title": "Platform Pengiriman: Satu Tombol Antar ke Rumah, Siapa yang Mengejar Waktu untuk Kota",
-        "desc": "Sejak 2019, pengiriman makanan berubah dari layanan baru menjadi infrastruktur harian kota-kota Taiwan: restoran menggunakannya untuk menjangkau pelanggan baru, konsumen menggunakannya untuk mempersingkat waktu tunggu, namun kurir justru menanggung waktu dan risiko tak terlihat di antara ponsel, motor, dan jalan raya.",
+        "title": "Platform Pengiriman: Satu Tombol Menuju Rumah, Siapa yang Sedang Mengejar Waktu untuk Kota?",
+        "desc": "Setelah 2019, pengiriman makanan menjadi infrastruktur harian di kota-kota Taiwan: restoran menggunakannya untuk menjangkau pelanggan baru, konsumen menggunakannya untuk memperpendek waktu tunggu, dan kurir menanggung risiko serta waktu yang tak terlihat di antara ponsel, sepeda motor, dan jalan raya. Pada 21 Oktober 2026, Komisi Perdagangan Adil (FTC) memutuskan untuk melarang akuisisi senilai NT$19,3 miliar oleh Grab terhadap foodpanda berdasarkan empat alasan utama terkait kepemilikan saham Uber sebesar 13,1% di Grab; foodpanda tetap menggunakan merek aslinya, dan pasar mempertahankan struktur dominasi ganda. FTC juga menyatakan bahwa pengajuan dapat diajukan kembali di masa depan.",
         "category": "lifestyle",
         "href": "/id/lifestyle/food-delivery-platforms-taiwan",
         "date": "2026-10-31T08:37:45+08:00",
-        "readingTime": 8,
+        "readingTime": 18,
         "image": ""
       },
       {
@@ -2252,8 +2252,8 @@
         "image": ""
       },
       {
-        "title": "Cadeia de abastecimento de hardware de IA no exterior: a capacidade de Taiwan solicitada pelo mundo",
-        "desc": "A expansão da cadeia de abastecimento de hardware de IA no exterior não se limita à TSMC nos EUA, Japão e Alemanha; inclui também Foxconn, Wistron, Delta, embalagem/teste e fornecedores de servidores atraídos por clientes, tarifas, subsídios e geopolítica para EUA, Japão, Europa, Índia, Sudeste Asiático e México. Este artigo explica, a partir da globalização, desrisking e jogo da cadeia de abastecimento: a internacionalização das empresas taiwanesas é uma extensão de capacidade e também um movimento do mundo para reduzir dependência de ponto único, não uma simples mudança de empresa.",
+        "title": "Instalação de fábricas no exterior na cadeia de suprimentos de IA: a capacidade de Taiwan é convidada pelo mundo",
+        "desc": "A expansão da cadeia de hardware de IA para o exterior não envolve apenas a TSMC; inclui Foxconn, Wistron e Delta, impulsionadas pela geopolítica.",
         "category": "technology",
         "href": "/pt/technology/ai-supply-chain-overseas-manufacturing",
         "date": "2026-11-17T10:10:52+08:00",
@@ -2668,8 +2668,8 @@
         "image": "/article-images/people/caodong-the-servile-2016.webp"
       },
       {
-        "title": "सान माओ: भागने को आज़ादी के रूप में लिखने वाली महिला",
-        "desc": "असली नाम चेन पिंग, जिनका जन्म चोंगकिंग में 1943 में हुआ था और 1948 में परिवार के साथ ताइवान चली गईं। कॉलेज में शिक्षक द्वारा सार्वजनिक अपमान के कारण पढ़ाई छोड़ने के बाद सात साल तक एकांतवास रहने के बाद उन्होंने फिर से लिखना शुरू किया। 1973 में, उन्होंने स्पेनिश व्यक्ति होसी से शादी की, जिससे उनकी गद्य रचनाएँ प्रसिद्ध हुईं और वह दमनकारी युग के ताइवानवासियों के लिए दूर की दुनिया की एक खिड़की बन गईं। 1979 में, होसी का कैनरी द्वीप समूह के ला पाल्मा में गोताखोरी दुर्घटना में निधन हो गया। 1990 में, उनकी एकमात्र पटकथा 'गोलगुल होंगचिन' को गोल्डनमा पुरस्कारों में आठ पुरस्कार मिले। 4 जनवरी, 1991 को ताइपे हॉस्पिटल्स में आत्महत्या कर लिया, जिनकी आयु 47 वर्ष थी।",
+        "title": "सान माओ: वह व्यक्ति जिसने पलायन को स्वतंत्रता में बदल दिया",
+        "desc": "सान माओ का असली नाम चेन पिंग था, जो सहारा रेगिस्तान के जीवन पर लिखने वाली एक ताइवानी लेखिका थीं, जिनकी कृतियाँ 1.5 करोड़ से अधिक प्रतियाँ बिक चुकी हैं। जब वह आठवीं कक्षा में थीं, तब उनके गणित शिक्षक ने ब्रश से उनकी आँखों के चारों ओर दो शून्य बना दिए थे, जिसके बाद उन्होंने पढ़ाई छोड़ दी और उनके पास कोई माध्यमिक शिक्षा नहीं थी। सात साल बाद, चित्रकार गु फुसेंग के मार्गदर्शन में उन्होंने फिर से लिखना शुरू किया। 1973 में उन्होंने स्पेनिश सहारा में होसे से शादी की, और मार्शल लॉ के दौर के ताइवानी लोगों के लिए दूर की दुनिया देखने की एक खिड़की खोल दी। 1979 में गोताखोरी के दौरान होसे की मृत्यु हो गई, जिसके बाद उन्होंने अपने जीवन के पलायन को स्वतंत्रता की कहानी बना दिया।",
         "category": "people",
         "href": "/hi/people/san-mao",
         "date": "2026-10-31T08:41:46+08:00",
@@ -2832,8 +2832,8 @@
         "image": ""
       },
       {
-        "title": "شركة أسوس (ASUS) - عملاق تقني بدأ من تصنيع اللوحات الأم",
-        "desc": "أسوس علامة تجارية تايوانية، أسسها أربعة مهندسين في تايبيه عام 1989، وانطلقت من تصنيع اللوحات الأم لتصبح خامس أكبر مورد للحواسيب الشخصية في العالم.",
+        "title": "أسوس (ASUS): علامة تجارية تايوانية انطلقت من شقة في تايبيه لتصبح الأولى عالميًا في اللوحات الأم",
+        "desc": "تعد أسوس (ASUS) علامة تجارية تايوانية تأسست عام 1989 على يد أربعة مهندسين سابقين من شركة إيسر (Acer) في شقة بشارع مينشانغ دونغ في تايبيه، برأس مال قدره 10 ملايين دولار تايواني فقط. بدأت الشركة من اللوحات الأم، وتستحوذ اليوم على أكثر من 40% من حصة السوق العالمية للوحات الأم، محتلة المركز الأول لمدة 15 عامًا متتالية، كما تحتل المرتبة الخامسة عالميًا في شحن أجهزة الكمبيوتر الشخصية. وخلافًا للعديد من شركات التكنولوجيا التايوانية، قررت أسوس مبكرًا التركيز على علامتها التجارية الخاصة بدلاً من التصنيع التعاقدي الصرف، حيث قامت في عام 2008 بفصل أعمال التصنيع التعاقدي لتأسيس شركة \"هوسون\" (Pegatron)، لتتفرغ منذ ذلك الحين لإدارة علامتها التجارية.",
         "category": "economy",
         "href": "/ar/economy/asus-computer",
         "date": "2026-11-04T08:24:26+08:00",
@@ -2940,13 +2940,13 @@
         "image": ""
       },
       {
-        "title": "وان وان: الوجه الأصلع الذي منح جيلًا من الموظفين صوتًا، وهو جيا وي التي جعلته «يصبح شخصية تاريخية»",
-        "desc": "في عصر كان التواصل في المكاتب يتم عبر إم إس إن مسنجر، استبدل الموظفون الذين لا يجرؤون على مخاطبة رؤسائهم صورهم الرمزية بشخصية أصلع عارية الرأس إلا من خصلة شعر معوجة، لتقول نيابة عنهم: «أريد أن أترك العمل». رسامتها هو جيا وي، التي بدأت كمساعدة تصميم براتب 9,000 دولار تايواني شهريًا، أصبحت بالصدفة أول مدونة تايوانية تتجاوز مشاهداتها المئة مليون، ورائدة فن القصص المصورة. الشخصية الأصلع تظل بريئة لا تشيخ، أما رسامتها فتكبر؛ لذا اختارت أن تجعل الشخصية تنسحب معها، «لتصبح شخصية تاريخية».",
+        "title": "وان وان: الشخصية الأصلع التي رسمتها هو جيا-وي لجيل MSN، والقرار الذي جعلها \"شخصية تاريخية\"",
+        "desc": "وان وان (Wan Wan)، واسمها الحقيقي هو هو جيا-وي، هي رائدة في مجال إنشاء المحتوى المصور عبر الإنترنت في تايوان. في أوائل العقد الأول من القرن الحادي والعشرين، استخدم الموظفون الشخصية الأصلع التي رسمتها كصور رمزية على MSN للتعبير عن رغبتهم في \"الانتهاء من العمل\"؛ وفي عام 2007، أصبحت مدونتها أول مدونة في تايوان تتجاوز عدد زياراتها مائة مليون، ثم انتقلت لاحقاً إلى ملصقات LINE وWEBTOON. بعد أن أصبحت أماً، تحول إبداعها نحو الحياة اليومية للوالدين والطفل، وقررت جعل الشخصية الأصلع التي لا تشيخ تغادر الساحة معها لتصبح \"شخصية تاريخية\".",
         "category": "people",
         "href": "/ar/people/wanwan-taiwan-blog-cartoonist",
         "date": "2026-10-31T08:40:59+08:00",
         "readingTime": 13,
-        "image": ""
+        "image": "/article-images/people/wanwan-2008-book-fair.webp"
       },
       {
         "title": "طلاب الصف الخامس إلى التاسع في تايوان: \"جيل الفراولة\" الذي تعرض للشتائم ثلاثين عامًا وتغيرت فيه الأجيال، بينما مال السلم المتحرك تحت أقدامهم",
@@ -3385,8 +3385,8 @@
         "image": ""
       },
       {
-        "title": "Die 20:00 Uhr-Sendung: Ein Feuerwerk, das in Taiwan Wohnzimmern Kult und Nostalgie entfachtete",
-        "desc": "Von den melodramatischen Dramen der 1990er bis zu den Memes der 2000er Jahre war die 20:00 Uhr-Sendung nicht nur Hintergrundgeräusch für Taiwanesen, sondern ein industrielles Wunderwerk des „Sofort drehen, sofort senden“.",
+        "title": "Primetime-Soapoperas: Ein Feuerwerk aus Kult und Nostalgie in den Wohnzimmern Taiwans",
+        "desc": "Von den Melodramen der 1990er Jahre bis zu den Meme-Phänomenen der 2000er – die Primetime-Soapoperas sind nicht nur Hintergrundrauschen, sondern ein industrielles Wunderwerk der Echtzeit-Produktion.",
         "category": "culture",
         "href": "/de/culture/taiwan-prime-time-drama",
         "date": "2026-10-31T08:41:23+08:00",

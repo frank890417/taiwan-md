@@ -8998,6 +8998,17 @@
     "city": "桃園"
   },
   {
+    "title": "إي مين تاينان بالأنقليس: نضوب الأنقليس من جداول الحقول، واللهب القوي أمام القدر يُورّث جيلًا بعد جيل",
+    "lat": 22.995302,
+    "lng": 120.234031,
+    "category": "food",
+    "region": "south",
+    "link": "/food/eel-noodles",
+    "lang": "zh-TW",
+    "desc": "في عام 2013، ذكرت مقالة مدونة أن على جدار مطعم عريق لإي مين بالأنقليس في ساكاريبا بتاينان كُتب: \"قلي الأنقليس السريع في سبع وعشرين ثانية\". دوّن الكاتب يو فو أن الأخوين لياو تعلما مهارة \"السكين\" على يد معلم من فوتشو. وسجل المدون ماو دايه أن آ يوان الأصغر بدأ في الرابعة عشرة يبيع الأنقليس المقلي مع والده، وأن ابن الأخ آ جيانغ تعلم في السابعة عشرة على يد عمه الثالث. قلّ الأنقليس في جداول الحقول، لكن مقدار اللهب، وكمية الصلصة، ومدى كثافة التسميك، لا تزال أسرارًا محفوظة لدى بضع عائلات أمام مواقدها.",
+    "city": "台南"
+  },
+  {
     "title": "معكوس ميني ميل: صناعة تُصنع بين الرياح والشمس، ووزن اسم واحد",
     "lat": 24.798994,
     "lng": 120.971305,
@@ -9040,17 +9051,6 @@
     "lang": "zh-TW",
     "desc": "في عام 1895، وضع هونغ يو تو (洪芋頭) معيشة موسم صيد الأسماك الكاسد على كتفيه؛ وبعد أكثر من مائة عام، لا تزال دانتساي نودلز (擔仔麵) تحفظ إيقاع حياة ميناء تاينان (台南) والمهاجرين وأكشاك الطعام بوعاء صغير من النودلز القلوية (鹼麵) ومرق الجمبري (蝦湯) ولحم الرو تساو (肉燥).",
     "city": "台南"
-  },
-  {
-    "title": "سكة حديد أليشان الحرجية: 71.6 كيلومترًا صعدت من أجل الخشب وبقيت من أجل الثقافة",
-    "lat": 23.507859,
-    "lng": 120.707899,
-    "category": "geography",
-    "region": "south",
-    "link": "/geography/alishan-forest-railway",
-    "lang": "zh-TW",
-    "desc": "سكة حديد أليشان الحرجية، التي بدأ إنشاؤها عام 1906 واكتمل تشغيلها عام 1912، نقلت خشب السرو من الجبل إلى تشياي، وتوقفت 15 عامًا بعد إعصاري موراكوت ودوجوان. في عام 2024 عاد الخط بالكامل إلى العمل، وتحوّلت من خط لنقل الأخشاب إلى مشهد ثقافي. بعد عودة القطارات إلى الجبل، لم يعد السؤال الحقيقي هو كيف نُخضع الغابة، بل كيف نواصل التشغيل بين الكوارث والسياحة والحفاظ على التراث.",
-    "city": "嘉義"
   },
   {
     "title": "خط بانون (板南線): 26.5 كيلومتراً تخيط مدينتين تحت الأرض",
@@ -9548,14 +9548,14 @@
     "city": "台北"
   },
   {
-    "title": "Guling Street: Die Buchstraße der Japaner, Yangs Jugend und der Palast der Nationalregierung",
+    "title": "Guling-Straße: die von Japanern hinterlassene Buchstraße, Edward Yangs Jugendlicher, der Palast der Nationalregierung",
     "lat": 25.037295,
     "lng": 121.563804,
     "category": "geography",
     "region": "north",
     "link": "/geography/guling-street",
     "lang": "zh-TW",
-    "desc": "Am Samstagmittag stehen Schüler vor dem roten Backsteintheater am Ende von Guling Street 5. Daneben befinden sich das 1955 erbaute Nationale Historische Museum und der Lotuspool des 1921 umgestalteten Taipei Botanical Garden. Diese 1,2 Kilometer lange Straße hieß 1922 Sakuma-cho und wurde 1947 in Guling Street umbenannt, benannt nach dem Lushan-Gebirge in Jiangxi. Nach 1945 hinterließen die Japaner beim Rückzug Bücher, die am Straßenrand zu Taiwans erster Antiquariatsbuchstraße wurden. In den 1960er Jahren war sie mit über 200 Ständen auf ihrem Höhepunkt. Nach der Eröffnung der Guanghua-Brücke im April 1973 wurden die Händler unter die Guanghua-Überführung verlegt. Am 15. Juni 1961 tötete der 16-jährige Mao Wu auf dieser Straße die 15-jährige Liu Min mit einem Pfadfindermesser. 1991 verfilmte Yang De-chang dies in einem 237 Minuten langen Film. Die Buchstraße wurde abgerissen, die Stände zogen um, Schüler kauften Bücher woanders, übrig blieben das rote Backsteingebäude der japanischen Polizeiwache, das chinesische Palastmuseum der Nachkriegszeit und der Lotuspool von 1921.",
+    "desc": "Die Guling-Straße ist eine 1,2 Kilometer lange Straße in Taipeh. 1922 hieß sie Sakuma-chō, 1947 wurde sie nach dem Guling des Lushan in Jiangxi umbenannt. Nach dem Krieg wurden die von Japanern hinterlassenen Bücher am Straßenrand ausgelegt, wodurch sie zur ersten Antiquariatsstraße Taiwans wurde; auf ihrem Höhepunkt gab es über zweihundert Buchstände. 1961 erstach der 16-jährige Mao Wu auf dieser Straße die 15-jährige Liu Min; Edward Yang verfilmte den Fall. Die Buchstände sind verschwunden, doch der palastartige Historische Museum und der 1921 angelegte Lotus-Teich sind noch vorhanden.",
     "city": "台北"
   },
   {
@@ -9977,6 +9977,17 @@
     "city": "台北"
   },
   {
+    "title": "Taiwan Railway Undergrounding: The Real Reckoning Begins After the Tracks Go Underground",
+    "lat": 22.632962,
+    "lng": 120.298479,
+    "category": "geography",
+    "region": "south",
+    "link": "/en/geography/taiwan-rail-undergrounding",
+    "lang": "en",
+    "desc": "Taipei took four projects and over twenty years to put its urban railways underground; Kaohsiung did it in twelve years and nearly NT$100 billion in a single construction phase; Tainan's first phase opened in October 2026. From the 34-minute delay of Kaohsiung's inaugural train to the Taipei Twin Towers beside Taipei Main Station waiting over thirty years to break ground, this article draws on official data and reporting from Taipei, Kaohsiung, and Tainan to examine what accounts remain unsettled on the surface after the tracks go underground.",
+    "city": "高雄"
+  },
+  {
     "title": "Taoyuan City: Taiwan's Gateway, Home to the Most Hakka, the Most Migrant Workers — All on This Patch of Tableland",
     "lat": 24.995166,
     "lng": 121.296148,
@@ -10107,17 +10118,6 @@
     "lang": "en",
     "desc": "Born in Longtan, Taoyuan in 1925, Chung Chao-cheng had his studies in the Chinese Department of National Taiwan University interrupted by a Japanese-language education and illness, yet he went from elementary school teacher to novelist, editor, and Hakka activist. With _Lubinghua_ he wrote about rural Taiwan, and with two trilogies he preserved the historical memory of the Taiwanese people. His literature lives not only on the bookshelf but also in a life-and-literature park in Longtan.",
     "city": "桃園"
-  },
-  {
-    "title": "Fu Kun-chi: The Spiral of Power from the East Coast's 'Hualien King' to Legislative Caucus Convener",
-    "lat": 23.984226,
-    "lng": 121.604946,
-    "category": "people",
-    "region": "east",
-    "link": "/en/people/fu-kun-chi",
-    "lang": "en",
-    "desc": "From the 1990s stock-market magnate known as 'Kai Ju Little Fu,' to entering the legislature in 2001 and taking control of Hualien in 2009, Fu Kun-chi built on Taiwan's east coast a two-decade 'Fu family dynasty' that even the central government found difficult to shake. From serving prison time while still holding office in a stock-manipulation case and staging a sham divorce to appoint his wife as deputy county magistrate, to returning to the Legislative Yuan in 2024 as Kuomintang caucus convener and leading a delegation to China, he has embodied one of the most extreme cases of resilience and controversy in Taiwanese politics.",
-    "city": "花蓮"
   },
   {
     "title": "Lu Hsiu-yan: From 10,000 Bottles of Guguan Air to the 'Arms Procurement as Insurance' Doctrine — The Undefeated Queen",
@@ -10954,6 +10954,17 @@
     "lang": "zh-TW",
     "desc": "Explorez la structure géographique unique de Taïwan, de la Chaîne centrale aux plaines occidentales, et découvrez la diversité géomorphologique de cette île.",
     "city": "南投"
+  },
+  {
+    "title": "L'enfouissement des voies ferrées à Taïwan : une fois les rails sous terre, le véritable bilan commence en surface",
+    "lat": 22.629373,
+    "lng": 120.307842,
+    "category": "geography",
+    "region": "south",
+    "link": "/geography/taiwan-rail-undergrounding",
+    "lang": "zh-TW",
+    "desc": "Taipei a mis plus de vingt ans pour enterrer ses voies via quatre projets ; Kaohsiung a investi près de 100 milliards de NT$ en douze ans ; Tainan ouvrira en octobre 2026. Entre retards et délais de développement, découvrez les défis urbains après l'enfouissement.",
+    "city": "高雄"
   },
   {
     "title": "Ximending : le quartier de divertissement aménagé par les Japonais en 1896 reste, 130 ans plus tard, le plus jeune de Taipei",
@@ -11924,6 +11935,17 @@
     "city": "高雄"
   },
   {
+    "title": "Kereta Api Kehutanan Alishan: Sebuah Jalur 71,6 Kilometer yang Dibangun untuk Mengangkut Kayu ke Gunung dan Ditinggalkan sebagai Warisan Budaya",
+    "lat": 23.517165,
+    "lng": 120.692584,
+    "category": "geography",
+    "region": "south",
+    "link": "/geography/alishan-forest-railway",
+    "lang": "zh-TW",
+    "desc": "Kereta Api Kehutanan Alishan yang mulai dibangun pada 1906 dan resmi beroperasi pada 1912, pernah mengangkut kayu sipris ke Chiayi, dan juga pernah terhenti selama 15 tahun pasca bencana angin Morakot dan Dujuan. Pada 2024 seluruh jalur kembali beroperasi, ia berubah dari jalur transportasi penebangan menjadi lanskap budaya. Setelah kereta kembali naik ke gunung, masalah sebenarnya bukan bagaimana menaklukkan hutan, melainkan bagaimana terus beroperasi di antara bencana, pariwisata, dan pelestarian.",
+    "city": "嘉義"
+  },
+  {
     "title": "Kabupaten Chiayi: 490.000 orang meminjamkan wajah mereka kepada Alishan, dan bahkan ibu kota kabupaten di Taibao tidak diingat siapa pun",
     "lat": 23.472952,
     "lng": 120.451154,
@@ -12496,15 +12518,15 @@
     "city": "宜蘭"
   },
   {
-    "title": "笠詩社：日本語を強制的に忘れさせられた人々が支えた、台湾最古参の中国語詩誌",
-    "lat": 22.624587,
-    "lng": 120.305009,
+    "title": "笠詩社：日本語を忘れることを余儀なくされた人々が支えた、台湾で最も長寿な中国語詩刊",
+    "lat": 24.081905,
+    "lng": 120.538599,
     "category": "art",
-    "region": "south",
+    "region": "central",
     "link": "/ja/art/li-poetry-society",
     "lang": "ja",
-    "desc": "1958年、36歳の台湾籍日本兵が「桓夫」の筆名で戦後初の中国語詩を発表したのは、日本語を筆にすることをやめてから11年後のことだった。6年後、彼と他の11人が台湾中部の居間で集まり、この世代の失語の経験を「笠」という詩社へと変貌させた——60年間休刊することなく、本土詩学を辺縁から中学の教科書へと書き込んでいった。",
-    "city": "高雄"
+    "desc": "1958年、ある36歳の台籍日本兵が「桓夫」という筆名で戦後初の中国語詩を発表しました。それは彼が日本語での執筆を止めてから11年後のことでした。その6年後、彼は他の11人と共に台湾中部の居間で、この世代の失語体験を「笠」という詩社へと昇華させました。60年間休刊することなく、本土の詩学を辺境から中学校の教科書へと書き入れてきました。",
+    "city": "彰化"
   },
   {
     "title": "林経堯：太極の雲手からアルゴリズムへ――「存在するが見えないもの」で答える",
@@ -12881,14 +12903,14 @@
     "city": "台北"
   },
   {
-    "title": "中華職業棒球：37年、リーグが2度の存亡の危機を乗り越えて復活",
+    "title": "中華職棒：37年、一つのリーグが二度の消滅の危機を乗り越えて生き残った",
     "lat": 25.031906,
     "lng": 121.572597,
     "category": "culture",
     "region": "north",
     "link": "/ja/culture/chinese-professional-baseball-league",
     "lang": "ja",
-    "desc": "1989年10月23日、4社の企業が兄弟大飯店で中華職業棒球聯盟の設立を発表し、翌年3月17日に開幕しました。37年間で2度解散の危機に瀕しました：1996年の黒鷹事件発覚後、時報イーグルス、三商タイガース、味全ドラゴンズが相次いで撤退；2008年の黒米事件後、中信クジラが消滅し、翌年また黒象事件が勃発。それらを乗り越えた後、台北大巨蛋により1試合の観客が4万人に達し、2025年レギュラーシーズンの平均観客動員が初めて1万人を突破しました。",
+    "desc": "2026年10月26日、味全ドラゴンズが台北ドームの第6戦で中信ブラザーズを6対0で完封し、球団史上6度目の優勝を果たし、3万8,178人の観客が赤いテープをグラウンドに投げ入れた。この記事はその優勝決定戦から遡り、1989年のブラザーズホテルでの設立総会、1990年3月17日のファーストピッチ、1999年の味全解散、2008年の「黒米」と2009年の「黒象」という二度の存亡の危機、さらに2003年の二リーグ合併、2021年の味全一軍復帰、2023年の5度目の優勝、6球団体制、そして2025年のレギュラーシーズン平均観客動員1万人突破という現在へと続く。37年間で、このリーグは二度消滅の危機に見舞われた。",
     "city": "台北"
   },
   {
@@ -14289,14 +14311,14 @@
     "city": "屏東"
   },
   {
-    "title": "棺材板：縁起の悪い名前から台南の和洋折衷の珍味へ",
+    "title": "棺材板（コッカイバン）：不吉な名前から台南の和洋折衷グルメへ",
     "lat": 22.997846,
     "lng": 120.227468,
     "category": "food",
     "region": "south",
     "link": "/ja/food/coffin-bread",
     "lang": "ja",
-    "desc": "1940年代末、台南の沙卡里巴に「雞肝板」と呼ばれる軽食が登場し、その独特な形から「棺材板」と冗談めかして呼ばれるようになりました。許六一氏が考案したこの料理は、カリッと揚げたトーストで鶏レバーとクリーム状のルーを包むもので、戦後の物資不足下における栄養補給であっただけでなく、CNNにも取り上げられ、台南の「和洋折衷」食文化を示す国際的な名刺となりました。",
+    "desc": "1940年代末、台南の沙卡里巴に「鶏レバー板」という点心が誕生しました。その独特な形状から「棺材板（棺桶パン）」と揶揄されるようになりました。許六一氏によって考案されたこの料理は、厚切りトーストで鶏レバーとバターのペーストを包んで揚げたもので、戦後の物資不足における貴重な栄養源となっただけでなく、CNNでも紹介され、台南の「和洋折衷」食文化を象徴する国際的な名物となりました。",
     "city": "台南"
   },
   {
@@ -14344,14 +14366,14 @@
     "city": "台北"
   },
   {
-    "title": "台南の鱔魚意麵：田んぼの溝の鱔魚が減り、鍋前の大火が代々受け継がれる",
+    "title": "台南の鳝魚意麺：田溝の鰻は減っても、鍋の前で受け継がれる強火の技",
     "lat": 23.001626,
     "lng": 120.222814,
     "category": "food",
     "region": "south",
     "link": "/ja/food/eel-noodles",
     "lang": "ja",
-    "desc": "2013年のブログ記事で、台南沙卡里巴の老舗鱔魚意麵の壁に「快炒鱔魚二十七秒」と書かれていたことが紹介される。作家の魚夫は廖家の兄弟が福州の師匠から「刀子」の技を学んだと記録し、ブロガーの猫大爺は么兒阿源が14歳から父と炒鱔魚を売り、甥の阿江が17歳から三叔に学んだと記す。田んぼの溝の鱔魚が減る中、火加減・調味料の量・とろみの強さは、いくつかの家族の鍋前で今も調整され続けている。",
+    "desc": "2013年のあるブログ記事によると、台南の沙卡里巴にある老舗の鳝魚意麺の壁には「鳝魚を炒める時間は27秒」と記されていました。作家の魚夫氏は、廖兄弟が福州出身の師匠から「包丁捌き」の技を学んだことを記録しています。また、ブロガーの猫大爺氏は、么兒阿源氏が14歳から父と共に鳝魚炒めを売り、甥の阿江氏が17歳から三叔から学んだことを記しています。田溝の鰻は少なくなりましたが、どれほど強火にするか、タレをどれほど入れるか、とろみをどれほどつけるかは、今もいくつかの家族の鍋の前で受け継がれています。",
     "city": "台南"
   },
   {
@@ -15026,14 +15048,14 @@
     "city": "台北"
   },
   {
-    "title": "北大特区：三十年の都市計画と大学街の生活実験",
+    "title": "北大特区：30年の都市計画と大学街の生活実験",
     "lat": 25.017215,
     "lng": 121.472918,
     "category": "geography",
     "region": "north",
     "link": "/ja/geography/beida-special-district-sanxia",
     "lang": "ja",
-    "desc": "1895年の隆恩埔古戦場から2026年の捷運（MRT）大学街へ――土地、美学、選択的アイデンティティに関する深層的百科事典。",
+    "desc": "1895年の隆恩埔古戦場から2026年のMRT大学城駅まで、土地、美学、そして選択的アイデンティティを巡る深い百科事典です。",
     "city": "新北"
   },
   {
@@ -15114,14 +15136,14 @@
     "city": "台北"
   },
   {
-    "title": "データで見る台湾22県市：最も密と最も疎は151倍の差、高齢者と子どもが1対1からほぼ3対1へ",
+    "title": "データで見る台湾の22県市：最も密と最も疎の151倍差、高齢者と子どもが1対1からほぼ3対1へ",
     "lat": 25.027311,
     "lng": 121.557108,
     "category": "geography",
     "region": "north",
     "link": "/ja/geography/data-taiwan-22-cities",
     "lang": "ja",
-    "desc": "同じ島で、台北市は1平方キロメートルあたり8,975人、台東県はわずか59人、151倍の開きがある。内政部戸政司2025年末のデータで22県市の検証可能な肖像を描く：7割の人が3割の土地に集中し、高齢者比率が最も高いのは最も密な台北市、高齢者対子ども比率が最も高い嘉義県はほぼ3対1。22県市すべてで死亡が出生を上回っている。",
+    "desc": "同じ島で、台北市は1平方キロメートルあたり8,975人、台東県はわずか59人、その差151倍。内政部戸政司2025年末のデータで22県市の検証可能な肖像を描く：7割の人が3割の土地に集中し、高齢者比率が最も高いのは最も密な台北市、高齢者対子ども比率が最も高い嘉義県はほぼ3対1。22県市すべてで死亡が出生を上回っている。",
     "city": "台北"
   },
   {
@@ -15618,6 +15640,17 @@
     "lang": "ja",
     "desc": "「魔女の湯」から世界トップ15の温泉王国へ——プレート衝突がこの島の癒しの密码をいかに煮出したか",
     "city": "台東"
+  },
+  {
+    "title": "台湾鉄道地下化：線路を地下に送った後、地上での勘定が始まる",
+    "lat": 25.039151,
+    "lng": 121.568073,
+    "category": "geography",
+    "region": "north",
+    "link": "/ja/geography/taiwan-rail-undergrounding",
+    "lang": "ja",
+    "desc": "台北は4つの事業に分け20年以上かけて市街地鉄道を地下化し、高雄は12年・約1000億円で一括施工、台南は2026年10月に開業。高雄開業初日の始発列車が34分遅延したことから、台北駅隣の「台北双星」が30年以上経ってから着工するまで、3都市の公式資料と報道から、線路を地下に送った後に地上に残された課題を読み解く。",
+    "city": "台北"
   },
   {
     "title": "台湾のダムと水資源管理",
@@ -16247,14 +16280,14 @@
     "city": "金門"
   },
   {
-    "title": "清治時期",
+    "title": "清治時代",
     "lat": 24.084019,
     "lng": 120.536135,
     "category": "history",
     "region": "central",
     "link": "/ja/history/qing-dynasty-rule",
     "lang": "ja",
-    "desc": "1683年から1895年までの約212年間、清朝が台湾を統治した時代である。消極的な統治から積極的な建設へと転換し、現代台湾の行政区画と漢人社会の基礎を築いた。",
+    "desc": "1683年から1895年にかけて清朝が台湾を統治した約212年間、消極的な統治から積極的な建設へと移り、現代台湾の行政区画と漢人社会の基礎を築いた。",
     "city": "彰化"
   },
   {
@@ -17365,7 +17398,7 @@
     "region": "north",
     "link": "/ja/nature/endemic-species",
     "lang": "ja",
-    "desc": "台湾に豊富な固有種生物：島嶼地理学、垂直気候帯と長期的な隔離進化の共通産物であり、世界の生物多様性研究における重要なフィールドでもある",
+    "desc": "台湾の豊かな固有種生物：島嶼地理学、垂直気候帯、長期的な隔離進化の共同産物であり、世界の生物多様性研究における重要なフィールドである。",
     "city": "新北"
   },
   {
@@ -17424,14 +17457,14 @@
     "city": "南投"
   },
   {
-    "title": "ズグロミゾゴイ（黒冠麻鷺）：バードウォッチャーの夢幻の種、キャンパスの「大笨鳥（だいべんちょう）」",
+    "title": "クロカンアオサギ：バードウォッチャーの夢の種、キャンパスの「おバカ鳥」であり「サツマイモ鳥」",
     "lat": 25.02552,
     "lng": 121.557366,
     "category": "nature",
     "region": "north",
     "link": "/ja/nature/malayan-night-heron",
     "lang": "ja",
-    "desc": "1985年から1992年にかけての中華民国野鳥学会の約4,000件の鳥類記録において、ズグロミゾゴイはわずか25件しか占めず、図鑑上では「稀有留鳥（きゆうりゅうちょう）」とされていた。しかし30年後には、台大の椰林大道や大安森林公園で毎日見られる存在となっている。一般的な説明は「人を恐れなくなった」というものだが、台大の袁孝維（えん・こうい／ユエン・シャオウェイ）氏が2010年から行っている標識放鳥（ひょうしょくほうちょう）研究は別の答えを示している：台湾の都市における密林化したキャンパスと農薬を撒かない芝生が、本来の低標高森林の生息地をたまたま複製していたのだ——鳥は変わっていない、土地が変わったのだ。",
+    "desc": "クロカンアオサギは、キャンパスで誰もが「サツマイモ鳥」「おバカ鳥」と呼ぶ鳥です。1985年から1992年にかけて、中華鳥類学会の4,000件の記録のうちわずか25件しかなく、図鑑では希少な留鳥とされていました。しかし30年後、今では台湾大学の椰子並木道や大安森林公園で毎日見かけることができます。一般には「人慣れした」と言われていますが、台湾大学の袁孝維（エン・コウイ／ユエン・シャオウェイ）氏の研究は別の答えを示しています。密林化したキャンパスと農薬を使わない芝生が、かつての低地森林を再現したのです。鳥が変わったのではなく、環境が変わったのです。",
     "city": "台北"
   },
   {
@@ -17490,25 +17523,25 @@
     "city": "台東"
   },
   {
-    "title": "バラカウ：馬太鞍湿地の三階建て魚類マンションと生態契約",
+    "title": "パラカウ：マータイアン湿地の三層構造の魚類アパートと生態契約",
     "lat": 23.986536,
     "lng": 121.59985,
     "category": "nature",
     "region": "east",
     "link": "/ja/nature/palakaw",
     "lang": "ja",
-    "desc": "花蓮の馬太鞍湿地において、アミ族は自然界の「廃棄物」を利用して魚やエビのために三層構造の棲家を伝えます。この「バラカウ」と呼ばれる伝統的な漁法は、魚を追いかけて捕獲するのではなく、「与える」ことで自然の恵みを受け取るという、千年以上受け継がれてきた生態知恵を体現しています。",
+    "desc": "花蓮マータイアン湿地において、アミ族の人々が自然界の「廃棄物」を利用して魚介類のために三層構造の住処を作っています。「パラカウ」と呼ばれるこの伝統漁法は、追いかけて捕獲するのではなく、「与える」ことで自然の恵みを得るもので、千年受け継がれてきた生態学的知恵を体現しています。",
     "city": "花蓮"
   },
   {
-    "title": "杉林渓：一つの滝が伐採跡地をどう森に戻したか",
+    "title": "杉林溪：一つの滝が、いかにして伐採場を森へと戻したか",
     "lat": 23.750036,
     "lng": 120.693274,
     "category": "nature",
     "region": "central",
     "link": "/ja/nature/shanlinxi-forest",
     "lang": "ja",
-    "desc": "南投県竹山の「渓底」、木材運搬、九二一大地震から、松瀧岩瀑布、タイワンツツジ、自然教育まで——杉林渓の谷はどのようにして水と共に生きる術を学び直したのか。",
+    "desc": "南投県竹山市の「渓底」、伐採と木材運搬、そして九二一地震から、松瀧岩瀑布、台湾ツツジ、自然教育に至るまで。杉林溪の谷がいかにして再び水と共に生きる術を学んだのかを描きます。",
     "city": "南投"
   },
   {
@@ -17809,14 +17842,14 @@
     "city": "桃園"
   },
   {
-    "title": "区秀詒：「群島」を台湾芸術界にもたらしたマレーシアのキュレーター",
+    "title": "区秀詒：台湾のアートシーンに「群島」をもたらしたマレーシア人キュレーター",
     "lat": 25.039371,
     "lng": 121.567231,
     "category": "people",
     "region": "north",
     "link": "/ja/people/au-sow-yee",
     "lang": "ja",
-    "desc": "2003 年、彼女はクアラルンプールから台北へ渡り、台北芸術大学で学びました。当初はただの通過者だと思っていましたが、14 年後、台北で「東南アジア」という冷戦期の命名に代えて「群島」（Nusantara）を用い始め、マレー世界の自己命名を台湾のキュレーション言説へ持ち込みました。架空の地名をめぐる「メンケラン」三部作、《Kris Project》のシンガポール美術館コレクション入り、そして 2024 年に陳侑汝と協働してマレーシアの無国籍児童にインタビューしたことまで、彼女は NML のインタビューでこう語っています。「正因為我的『不在場』，才會做出這個作品。」",
+    "desc": "2003年にクアラルンプールから台北へ渡り、北華藝大学で学んだ彼女は、当初は単なる通過点と考えていました。しかし14年後、彼女は台北において「東南アジア」という冷戦時代の呼称に代わり、「群島」（Nusantara）という言葉を使い始め、マレー世界の自己命名を台湾のキュレーション論述へと導入しました。ムンタン（棉佳蘭）の架空地名三部作や、Kris Projectがシンガポール美術館のコレクションに収蔵されたこと、そして2024年に陳侑汝と協力して行ったマレーシアの無国籍児へのインタビューに至るまで――彼女はNMLのインタビューでこう語っています。「私の『不在』があるからこそ、この作品を生み出すことができたのです」。",
     "city": "台北"
   },
   {
@@ -19316,6 +19349,17 @@
     "city": "屏東"
   },
   {
+    "title": "沈文程（シェン・ウェンチョン）：清泉崗の整備士から「ダブル金賞」の歌王へ",
+    "lat": 24.149501,
+    "lng": 120.673455,
+    "category": "people",
+    "region": "central",
+    "link": "/ja/people/shen-wencheng",
+    "lang": "ja",
+    "desc": "音楽と司会で活躍する台湾の「ダブル金賞」アーティスト、沈文程。ベトナム戦争末期の航空整備士から、全台を席巻した『心事誰人知』のヒットメーカーへと至る軌跡。",
+    "city": "台中"
+  },
+  {
     "title": "施琅：鄭氏の部将から清軍の主将へ、台湾の去就を独断で決めることはできなかった",
     "lat": 23.564724,
     "lng": 119.58552,
@@ -19701,6 +19745,17 @@
     "city": "台北"
   },
   {
+    "title": "楊維哲：数学教授がまず台湾語の授業を開講したことで、議論が巻き起こった",
+    "lat": 24.142048,
+    "lng": 120.680313,
+    "category": "people",
+    "region": "central",
+    "link": "/ja/people/yang-wei-cher",
+    "lang": "ja",
+    "desc": "1996年の秋、台湾大学の数学教授である楊維哲は、教養科目として台湾語による授業を編成しました。教務長からは「授業に方言を用いるのは不適切である」と批判されましたが、彼はそのまま開講しました。翌年、新党の立法委員が国会でこの授業は違憲であると主張し、本人に直接電話で勧告まで行いました。彼は3年間の医学部を経て数学を再受験した経歴を持ち、陳文成氏の教え手でもありました。86歳になっても台湾大学で潮汐力について講義を行っています。2018年に立法院で国家語言発展法が審議された際、主張する側と疑問を呈する側の双方が、彼の台湾語による授業を例として挙げました。",
+    "city": "台中"
+  },
+  {
     "title": "楊右任（ヤン・ヨウレン）",
     "lat": 24.9873,
     "lng": 121.294738,
@@ -19910,14 +19965,14 @@
     "city": "彰化"
   },
   {
-    "title": "村里長制度：7,748人の民選首長、台湾で最も基層にある政治単位",
+    "title": "村里長制度：7,748人の民選首長、台湾で最も基層の政治単位",
     "lat": 25.030356,
     "lng": 121.55739,
     "category": "politics",
     "region": "north",
     "link": "/ja/politics/village-chief-system",
     "lang": "ja",
-    "desc": "午前5時半の里事務所、月額5万4千元の事務補助費、6割を超える無党籍 — 村里長は台湾の選挙において最も「政治」らしくない政治職であり、民主化の最も完全な証拠でもある。日本統治時代の保甲制度から1950年の直選へ。セブンイレブンよりも多い全台7,748のポストが、80年にわたり地域の関係性を代行している。",
+    "desc": "村長と里長は同一レベルの民選首長であり、違いは管轄区域にあります：郷鎮には村を置き、直轄市と県轄市には里を置き、全台湾で計7,748人です。「地方制度法」に基づき、任期は4年で、立候補すれば再選可能、任期制限はなく、4年ごとに九合一選挙で改選され、2026年の投票日は11月28日です。村里長は無給職で、毎月NT$54,000の事務補助を受け取りますが、これは給与とはみなされません。6割以上が無所属で、日治時代の保甲制度から発展し、台湾で最も基層の民選職となりました。",
     "city": "台北"
   },
   {
@@ -19932,14 +19987,14 @@
     "city": "台北"
   },
   {
-    "title": "中央研究院：中国の研究のために生まれた機関が、いかにしてこの島に根付いたか",
+    "title": "中央研究院：中国研究のために生まれた機関が、いかにしてこの島に根を下ろしたか",
     "lat": 25.038242,
     "lng": 121.572393,
     "category": "society",
     "region": "north",
     "link": "/ja/society/academia-sinica",
     "lang": "ja",
-    "desc": "1948年の冬、全国最高学術機関が台湾に上陸しましたが、移住したのは50人ほどのわずかな人々でした。歴史研究所の文化財箱は楊梅駅のそばの倉庫に積み上げられていました。70年以上経ち、同機関には24の研究所と9の研究センターができましたが、それは珍しい長さの変化を遂げました。遺跡の発掘に10年、研究所の設立に11年というようなものでした。教えることも、学生を受け入れることもなく、大統領府直属であるというその設計は、同時に大統領によって長が任命され、予算が年々精査され、名称を変えるべきかどうかも国家的な課題となっていました。",
+    "desc": "1948年冬、全国最高学術機関が台湾に着任し、随行者はわずか五十数名でした。歴史語言研究所の文物の箱が、楊梅駅そばの倉庫に積まれていました。七十数年後には、二十四の研究所と九つの研究センターを擁し、そこから得られたのは稀有な時間の長さです：十年かけて一つの遺跡を発掘し、十一年かけて一つの研究所を設立するというものです。それを可能にした設計――教育を行わず、学生を募集せず、大統領府に直属する――は、同時に院長が大統領によって任命され、予算が毎年審議され、名称を変えるかどうかさえが国家の定位問題となることをも意味していました。",
     "city": "台北"
   },
   {
@@ -20163,14 +20218,14 @@
     "city": "高雄"
   },
   {
-    "title": "台湾の長期ケア制度の発展",
+    "title": "台湾の長期介護制度の発展",
     "lat": 25.038578,
     "lng": 121.564343,
     "category": "society",
     "region": "north",
     "link": "/ja/society/long-term-care-system-development",
     "lang": "ja",
-    "desc": "台湾は制度設計によりアジアで最も先進的な介護体系を構築し、政府は毎年多額の予算を投入して広範な市民にサービスを提供しています。しかし同時に、数十万人の外国人家庭ヘルパーが各家庭で目に見えない巨大なケアネットワークを支えており、これら2つの並行する体系はほとんど交流がなく、制度設計、社会的価値、そして現実的な妥協が交錯する深刻な矛盾の物語を描き出しています。",
+    "desc": "台湾は制度設計によりアジアで最も先進的な長期介護体制を構築し、政府が毎年巨額の予算を投じて広範な国民にサービスを提供している。しかし同時に、数十万人の外国家庭介護労働者が家庭内で黙々と、より大規模な不可視の介護ネットワークを支えており、二つの並行体制がほぼ交わることなく、制度設計・社会的価値・現実的妥協の深い矛盾を織りなしている。",
     "city": "台北"
   },
   {
@@ -20559,14 +20614,14 @@
     "city": "台北"
   },
   {
-    "title": "台湾の公衆衛生と防疫体系",
+    "title": "台湾の公衆衛生と防疫体制",
     "lat": 25.040976,
     "lng": 121.559529,
     "category": "society",
     "region": "north",
     "link": "/ja/society/taiwan-public-health-epidemic-response",
     "lang": "ja",
-    "desc": "2003年、和平病院の封鎖で30人が死亡。17年後、COVID-19が世界的に大流行した際、台湾はその教訓により18か月間、地域感染ゼロを維持した。一つのトラウマがいかにして一島の免疫記憶となったか。",
+    "desc": "2003年に和平病院が封鎖され、30人が亡くなりました。それから17年後、COVID-19が世界的に大流行した際、台湾はその災厄の教訓を糧に、18ヶ月もの間、コミュニティ感染を防ぎ続けました。一つのトラウマがいかにして島全体の免疫記憶へと変わったのか。",
     "city": "台北"
   },
   {
@@ -20933,14 +20988,14 @@
     "city": "台北"
   },
   {
-    "title": "台湾科学園区：稈の上に賭けた一枚の賭け、世界の命脈を賭け、命門を賭けた",
+    "title": "台湾科学園区：一帯の田んぼに賭けた命運、世界の生命線となり、同時に急所ともなる",
     "lat": 24.809982,
     "lng": 120.96655,
     "category": "technology",
     "region": "north",
     "link": "/ja/technology/science-park-development",
     "lang": "ja",
-    "desc": "1979年、新竹金山面の稈の上に、IBMから帰ってきたエンジニア、ホ・イチー（何宜慈）がアジア初の科学園区を建設した。45年後、竹科・南科・中科の3園区の年間売上は580兆円を突破し、世界最先端の半導体がここで量産されている。しかし、この島の最強の守護符は同時に、最も脆弱な命門でもある。1日の干ばつ、1回の停電、1枚の地政学的カードで、世界のサプライチェーンは息を止める。",
+    "desc": "1979年、新竹金山面。IBMから台湾へ戻ったエンジニア、何宜慈（ホー・イーツ）は、田んぼの上にアジア初の科学園区を築いた。45年後、竹科・南科・中科の年間売上高はNT$5.8兆を超え、世界最先端のチップが量産されている。しかし、この島最強の護身符は、最も脆弱な急所でもある。",
     "city": "新竹"
   },
   {
@@ -21087,14 +21142,14 @@
     "city": "台北"
   },
   {
-    "title": "半導体産業：RCA技術移転から窒化ガリウム・量子封止への50年材料革命",
+    "title": "半導体産業：RCAからの技術移転からGaN、量子封止へと続く50年の材料革命",
     "lat": 24.798965,
     "lng": 120.971443,
     "category": "technology",
     "region": "north",
     "link": "/ja/technology/taiwan-semiconductor-industry",
     "lang": "ja",
-    "desc": "台湾の「護国神山」は受託製造で世界最先端プロセスを制覇したが、急速充電器内の窒化ガリウム、AIチップ下のCoWoS、量子ビット上の希釈冷凍機――次の50年の材料科学戦場はまさに幕を開けたばかりだ。",
+    "desc": "台湾の「護国神山」はファウンドリとして世界の先端プロセスを制覇したが、急速充電器のGaN、AIチップ下のCoWoS、量子ビット上の希釈冷凍機など、次の50年の材料科学の戦場は幕を開けたばかりである。",
     "city": "新竹"
   },
   {
@@ -21153,14 +21208,14 @@
     "city": "新北"
   },
   {
-    "title": "国家宇宙センター：三十二年をかけ、まだ名前をそろえきれていない国のために宇宙庁をそろえる",
+    "title": "国家宇宙センター：32年をかけて、まだ名前が揃っていない国のために宇宙局を揃える",
     "lat": 23.986116,
     "lng": 121.595652,
     "category": "technology",
     "region": "east",
     "link": "/ja/technology/tasa-taiwan-space-agency",
     "lang": "ja",
-    "desc": "1991年、それは「準備処」と呼ばれ、名前も、ロケットも、自分の土地もありませんでした。三十二年後、それは Taiwan を名前の中に戻し、いま新竹の管制センターは24時間、九機の衛星の鼓動を追っています。0403花蓮地震の日には、地震発生から六分後に任務を再設定し、三時間で撮像しました。いま最後の部品を補おうとしています。それは自前の軌道投入ロケットであり、すでに承認され、最速で2028年に始動する月探査任務でもあります。",
+    "desc": "1991年、それは「籌備処」と呼ばれ、名前もロケットも自分の土地もなかった。32年後、それは名前にTaiwanを取り戻し、今や新竹の管制センターが24時間体制で9基の衛星の鼓動を追っている。4月3日の花蓮地震の日、それは地震後6分で任務を再設定し、3時間で撮像した。それは最後のピースである自前の打ち上げロケットを補うとともに、すでに承認され、最速で2028年に始動する月探査ミッションを控えている。",
     "city": "花蓮"
   },
   {
@@ -21362,6 +21417,17 @@
     "city": "新北"
   },
   {
+    "title": "타이난 장어 이면: 논두렁의 장어가 줄고, 솥 앞의 센 불은 대대로 전해진다",
+    "lat": 23.00177,
+    "lng": 120.228969,
+    "category": "food",
+    "region": "south",
+    "link": "/ko/food/eel-noodles",
+    "lang": "ko",
+    "desc": "2013년 블로그 글에 타이난 사카리바의 한 노포 장어 이면 가게 벽에 '장어 볶음 27초'라 적혀 있었다. 작가 위푸(魚夫)는 랴오(廖) 씨 형제가 푸저우(福州) 스승에게 '칼질(刀子)' 공부를 배웠다고 기록했다. 블로거 머다예(貓大爺)는 막내아들 아위안(阿源)이 열네 살부터 아버지와 장어 볶음을 팔았고, 조카 아장(阿江)이 열일곱 살에 삼촌에게 배웠다고 적었다. 논두렁의 장어는 줄었지만, 불 세기, 양념 양, 걸쭉함은 여전히 몇 가문의 솥 앞 손에 달려 있다.",
+    "city": "台南"
+  },
+  {
     "title": "후즈장(鬍鬚張): 명사가들의 비난으로 탄생한 한 그릇의 루러우판(루육반)",
     "lat": 24.445787,
     "lng": 118.376422,
@@ -21447,17 +21513,6 @@
     "link": "/ko/geography/chiayi-county",
     "lang": "ko",
     "desc": "새벽 다섯 시, 둥스 앞바다의 굴 양식장은 아직 물속에 있고, 전국 굴의 절반이 이 바다에서 나온다. 100킬로미터 떨어진 아리산에서는 1912년 얼완핑까지 개통한 삼림철도의 총연장이 66.6킬로미터다. 그 중간, 타이바오 고속철도역 옆의 고궁 남원은 15년을 지은 뒤에야 개관했고, 2018년 방문객은 76만 명이었다. 1991년 자이현청이 자이시에서 타이바오로 이전했을 때, 전국은 자이라고 하면 곧 자이시라고 여겼다. 35년이 지난 지금, 이 현의 49만 명은 잘려 나간 27만 명의 시를 둘러싸고 있으며, 노령화지수 174%로 대만 1위다.",
-    "city": "嘉義"
-  },
-  {
-    "title": "데이터로 보는 타이완 22개 현시: 가장 밀집된 곳과 가장 한적한 곳의 151배 차이, 노인과 아이의 비율은 1:1에서 3:1까지",
-    "lat": 23.486032,
-    "lng": 120.446016,
-    "category": "geography",
-    "region": "south",
-    "link": "/ko/geography/data-taiwan-22-cities",
-    "lang": "ko",
-    "desc": "같은 섬 안에서도 타이베이시는 km²당 8,975명인 반면 타이둥현은 59명에 불과해 151배 차이가 난다. 내정부 호정사의 2025년 말 데이터를 바탕으로 22개 현시의 초상을 그려본다: 인구의 70%가 30%의 토지에 밀집해 있으며, 노인 비율이 가장 높은 곳은 가장 밀집된 타이베이시이고, 노인 대 아이 비율이 가장 높은 가오슝현은 약 3:1에 달한다. 22개 현시 모두 예외 없이 사망자 수가 출생아 수를 넘어섰다.",
     "city": "嘉義"
   },
   {
@@ -22088,6 +22143,17 @@
     "city": "屏東"
   },
   {
+    "title": "텅스텐: 대만에는 광산이 없지만, 전 세계가 필요로 하는 분말을 정련해내다, 생각보다 취약한 위치",
+    "lat": 22.683907,
+    "lng": 120.47974,
+    "category": "technology",
+    "region": "south",
+    "link": "/ko/technology/taiwan-tungsten-supply-chain",
+    "lang": "ko",
+    "desc": "2026년 7월 1일, 전 세계 6불화텅스텐 생산량의 약 4분의 1을 차지하던 일본 공장 두 곳이 영구 가동 중단에 들어갔다. 그 시작은 8개월 전 대만 관련 국회 답변 한 마디였다. 대만은 텅스텐을 생산하지 않지만, 60년 전 폐가전 시대에 연마한 정련 기술을 바탕으로 반도체와 칼날 제조에서 결코 빠질 수 없는 핵심 고리를 이어가고 있다. 기술력은 실재하지만, 원료와 시장, 그리고 용도 중 어느 하나 대만이 단독으로 결정할 수 있는 것은 없다.",
+    "city": "屏東"
+  },
+  {
     "title": "Ilha Internacional de Arte de Matsu: um museu de arte sem edifício, que toma todo o arquipélago como espaço expositivo",
     "lat": 26.155477,
     "lng": 119.950297,
@@ -22174,6 +22240,17 @@
     "lang": "zh-TW",
     "desc": "Em 2012, um grupo de pessoas que podiam ter-se reformado sentou-se numa pequena sala em Taipé, comprometendo-se a acompanhar um empreendedor durante dois anos: sem tomar participação, sem interferir no dia a dia, apenas transmitindo o ofício. Treze anos, quinze turmas, a lista inclui Appier, Social Enterprise Insights, Portaly; os fundadores ainda dizem que o caminho só vai a meio. A transmissão mais lenta está escrita no sistema, atalhos não se copiam — os nomes na parede, a maioria ainda está a caminho.",
     "city": "台北"
+  },
+  {
+    "title": "Novo Dólar de Taiwan: após quarenta mil por um, só em 2000 tornou-se moeda nacional",
+    "lat": 24.447923,
+    "lng": 118.371753,
+    "category": "economy",
+    "region": "islands",
+    "link": "/economy/new-taiwan-dollar",
+    "lang": "zh-TW",
+    "desc": "Em 15 de junho de 1949, quarenta mil velhos dólares de Taiwan foram trocados por um novo dólar de Taiwan. Esta cédula que compra o café da manhã todos os dias, porém, só em 2000 se tornou, na regulamentação, a moeda da República da China (Taiwan). Ela atravessou hiperinflação, cédulas de circulação restrita de Kinmen (金門) e a assumida gestão do Banco Central, e também colocou na carteira as memórias de montanhas e florestas, do Palácio Presidencial (總統府) e de uma ilha. A história do Novo Dólar de Taiwan é a de como uma crise se transformou lentamente em confiança cotidiana.",
+    "city": "金門"
   },
   {
     "title": "Zhongli: a outra cidade dentro de Taoyuan, por que dizem que Zhongli não é Taoyuan?",
@@ -22339,6 +22416,17 @@
     "lang": "zh-TW",
     "desc": "A bacia de Taipé abriga três épocas lado a lado: o Templo Longshan (1738), o comércio de chá de Daodaochang (1860) e o Taipei 101 (2004). Uma análise da complexidade histórica da metrópole.",
     "city": "台北"
+  },
+  {
+    "title": "Ferrovia subterrânea de Taiwan: o verdadeiro acerto de contas começa depois que os trilhos vão para o subsolo",
+    "lat": 22.630962,
+    "lng": 120.295718,
+    "category": "geography",
+    "region": "south",
+    "link": "/geography/taiwan-rail-undergrounding",
+    "lang": "zh-TW",
+    "desc": "Taipé dividiu em quatro projetos e levou mais de vinte anos para enviar a ferrovia urbana para o subsolo; Kaohsiung fez em doze anos, com quase cem bilhões, em uma única obra; Tainan inaugura em outubro de 2026. Do atraso de 34 minutos no primeiro trem de Kaohsiung à espera de mais de trinta anos para o início das obras das Torres Gêmeas de Taipé junto à Estação de Taipé, este artigo examina, a partir de dados oficiais e reportagens das três cidades, quais contas permanecem por acertar no nível do solo depois que os trilhos vão para o subsolo.",
+    "city": "高雄"
   },
   {
     "title": "Taipé: A fronteira mais diversa de Taiwan, com os maiores números de Hakka e trabalhadores migrantes",
@@ -22559,17 +22647,6 @@
     "lang": "zh-TW",
     "desc": "Em setembro de 2026, a Comissão de Segurança Nuclear, seguindo o procedimento de renovação de licença da Lei de Controle de Instalações de Reatores Nucleares, apresentou 589 opiniões de revisão e aprovou o plano de reoperação da Usina Nuclear 3 da Taipower. Das três condições para a reativação, a legislação não define o que conta como consenso social. Em 28 de novembro, a Proposta 22 foi votada no mesmo dia das eleições \"nove em um\"; o livro de justificativas do Kuomintang (KMT) diz querer transformar em política a vontade de quase 80% da população, o secretário-geral do grupo parlamentar do Partido Democrático Progressista (DPP) afirmou que, se aprovada, a reativação seria \"um salto demasiado rápido\", e 34 organizações declararam que não se deve usá-la como autorização política para a reativação.",
     "city": "屏東"
-  },
-  {
-    "title": "As casas de chapa metálica de Taiwan: 716.000 construções irregulares sustentam o horizonte",
-    "lat": 25.036713,
-    "lng": 121.565948,
-    "category": "society",
-    "region": "north",
-    "link": "/society/taiwan-tin-shed-houses",
-    "lang": "zh-TW",
-    "desc": "Em agosto de 2024, o incêndio na loja de equipamentos agrícolas Liujia, Tainan, matou uma família de cinco pessoas que estava presa no terceiro andar de um teto de chapa metálica. Até julho de 2023, Taiwan tinha 716.372 construções irregulares, com New Taipei adicionando 32.000 a cada ano, enquanto o governo anuncia demolições, mas adiciona mais 10.000 a cada ano — essa camada de metal laranja e prateado é ao mesmo tempo a paisagem urbana mais feia de Taiwan e a lenda de segurança mais citada.",
-    "city": "台北"
   },
   {
     "title": "Тайваньский национальный театр оперы и балета в Тайчуне: «Голос в пещере» и революция изогнутых стен без колонн от Ито Тойо",
@@ -22836,6 +22913,17 @@
     "city": "台南"
   },
   {
+    "title": "Гаюй Нуньлинь: как команда, ставшая вице-чемпионом, открыла Тайваню дорогу в Косьен",
+    "lat": 23.486522,
+    "lng": 120.446772,
+    "category": "history",
+    "region": "south",
+    "link": "/history/kano-chiayi-agriculture-forestry",
+    "lang": "zh-TW",
+    "desc": "В августе 1931 года Гаюй Нуньлинь отплыла из Кэйлуна в японский Косьен. Эта школьная команда, состоявшая из ханьцзю, коренных народов и японских учеников, дошла до финала и завоевала серебро. Она оставила не просто «Тянься Гаюнь», а историю о том, как колония смогла проявить себя на чужом стадионе и превратить его в свою память.",
+    "city": "嘉義"
+  },
+  {
     "title": "Морияма Матносукэ: три префектурных здания и один суд, которые нарисовали официальное лицо Тайваня",
     "lat": 24.142714,
     "lng": 120.681773,
@@ -23089,17 +23177,6 @@
     "city": "彰化"
   },
   {
-    "title": "Hoá đơn thống nhất: Cái giấy năm 1951 biến toàn bộ dân số thành cán bộ kiểm tra thuế",
-    "lat": 25.039748,
-    "lng": 121.561654,
-    "category": "economy",
-    "region": "north",
-    "link": "/economy/taiwan-uniform-invoice",
-    "lang": "zh-TW",
-    "desc": "Năm 1951, trưởng Sở Tài chính Nhâm Hiển Quần in mã trúng thưởng lên các hoá đơn, khiến tham vọng của người tiêu dùng thay thế cho quyền lực nhà nước để giám sát xem các cửa hàng có khai báo thuế hay không—chỉ trong một năm, doanh thu thuế kinh doanh tăng vọt 75%. Hơn 70 năm sau đó, hệ thống này sống lâu hơn người sáng chế, thậm chí còn lâu hơn cả chính quyền độc tài thời kỳ đó — cho tới khi 2024, một cuộc tranh cãi về thuật toán mới lần đầu tiên buộc mọi người phải hỏi to: vì sao hệ thống này còn đáng tin cậy?",
-    "city": "台北"
-  },
-  {
     "title": "Thân nhiệt lúc năm giờ sáng: Chuỗi cung ứng và độ tươi của canh bò Đài Nam",
     "lat": 23.000328,
     "lng": 120.22676,
@@ -23274,17 +23351,6 @@
     "lang": "zh-TW",
     "desc": "Năm 1624, người Hà Lan tái thiết một pháo đài tại Đại Viên, Đài Nam, ban đầu gọi là Fort Oranje, hai năm sau đổi tên thành Fort Zeelandia. Năm 1662, sau khi Trịnh Thành Công bao vây thành suốt chín tháng, thống đốc Hà Lan buộc phải bàn giao chìa khóa, nơi đây trở thành vương thành của nhà Minh Trịnh. Dưới thời nhà Thanh, tường thành bị dỡ bỏ để xây dựng Ức Tái Kim Thành; thời Nhật Bản, nội thành bị san phẳng; đến năm 2022, Bộ Văn hóa đã hợp nhất các di tích và đổi tên thành \"Di tích pháo đài Zeelandia\". Bốn cái tên, bốn giai đoạn cai trị.",
     "city": "台南"
-  },
-  {
-    "title": "Gia Nghĩa Nông Lâm: Một đội bóng á quân, làm thế nào để mở cửa Koshien cho Taiwan",
-    "lat": 23.479391,
-    "lng": 120.453998,
-    "category": "history",
-    "region": "south",
-    "link": "/history/kano-chiayi-agriculture-forestry",
-    "lang": "zh-TW",
-    "desc": "Tháng 8 năm 1931, Gia Nghĩa Nông Lâm từ Cơ Long lên tàu đi Koshien Nhật Bản. Đội bóng trường học này gồm người Hán, đồng bào bản địa và học sinh Nhật Bản đã liên tục thắng để vào chung kết, cuối cùng giành á quân. Điều nó để lại không chỉ là «Thiên hạ Gia Nông», mà là một thuộc địa làm sao để được nhìn thấy trên sân bóng của người khác, và làm sao biến sân bóng đó thành ký ức của riêng mình.",
-    "city": "嘉義"
   },
   {
     "title": "Cảng Thạch Phong: Làm sao một mảnh đá có thể đẩy Wufan ra biển, đồng thời viết lại bờ biển",

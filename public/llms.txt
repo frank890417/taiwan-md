@@ -15,8 +15,8 @@ Taiwan.md self-describes as a **Semiont** (Semantic + Symbiont) — a digital li
 
 ## Content Statistics (auto-refreshed by refresh-data.sh)
 
-- Total articles: **1189** Chinese (SSOT), translated into 12 languages (en 1183 / ja 1182 / ko 1182 / es 1183 / fr 1181 / vi 1178 / id 1182 / pt 1183 / hi 1175 / ar 1179 / ru 1183 / de 1181) = 15,361 across 13 languages
-- 12 non-Chinese languages, real freshPct (share of translations matching the current Chinese source version): en 94% / ja 94% / ko 94% / es 94% / fr 94% / vi 92% / id 93% / pt 94% / hi 92% / ar 93% / ru 95% / de 92%
+- Total articles: **1189** Chinese (SSOT), translated into 12 languages (en 1184 / ja 1183 / ko 1185 / es 1184 / fr 1183 / vi 1180 / id 1183 / pt 1184 / hi 1177 / ar 1180 / ru 1183 / de 1182) = 15,377 across 13 languages
+- 12 non-Chinese languages, real freshPct (share of translations matching the current Chinese source version): en 98% / ja 99% / ko 99% / es 98% / fr 99% / vi 97% / id 98% / pt 99% / hi 96% / ar 98% / ru 99% / de 96%
 - Categories: 14 (About, Art, Culture, Economy, Food, Geography, History, Lifestyle, Music, Nature, People, Politics, Society, Technology)
 - People profiles: 290+
 - Contributors: 80

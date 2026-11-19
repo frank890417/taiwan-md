@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-19",
+  "generated": "2026-11-20",
   "generator": "scripts/tools/article-census.py",
-  "head": "6640b020b",
+  "head": "b0bbab959",
   "scope": "knowledge/{Category}/*.md（中文 SSOT；不含 knowledge/{lang}/ 譯文與 _ hub）",
   "n": 1189,
   "thresholds": {
@@ -24,8 +24,8 @@
   "traffic_sources": {
     "ga": {
       "file": "public/api/dashboard-analytics.json:ga.topArticles7d",
-      "start": "2026-10-22",
-      "end": "2026-11-19",
+      "start": "2026-10-23",
+      "end": "2026-11-20",
       "days": 28,
       "rows": 20,
       "metric": "views",
@@ -38,7 +38,7 @@
     "C": "沒有可用封面圖",
     "D": "內文簡陋（該進 REWRITE），依流量排序"
   },
-  "tier_counts": { "A": 5, "B": 3, "C": 912, "D": 248 },
+  "tier_counts": { "A": 5, "B": 3, "C": 912, "D": 247 },
   "curation_counts": { "none": 141, "incubating": 1046, "verified": 2 },
   "curation_reason_counts": { "none": 366, "unverified": 568, "thin": 112 },
   "cover_counts": { "local": 277, "none": 912 },
@@ -48,20 +48,20 @@
       "n": 1180,
       "cjk": {
         "p5": 1261,
-        "p10": 1486,
-        "p25": 2018,
+        "p10": 1496,
+        "p25": 2019,
         "p33": 2390,
         "p50": 3131,
         "p75": 4624,
         "p90": 6018,
         "n": 1180,
-        "mean": 3545.3
+        "mean": 3546.1
       },
       "fn_defs": {
         "p5": 0,
         "p10": 0,
         "p25": 7,
-        "p33": 8,
+        "p33": 9,
         "p50": 11,
         "p75": 20,
         "p90": 36,
@@ -98,14 +98,14 @@
       "n": 605,
       "cjk": {
         "p5": 1216,
-        "p10": 1357,
-        "p25": 1786,
-        "p33": 1986,
+        "p10": 1363,
+        "p25": 1788,
+        "p33": 1994,
         "p50": 2657,
         "p75": 3765,
         "p90": 4707,
         "n": 605,
-        "mean": 2902.8
+        "mean": 2904.4
       },
       "fn_defs": {
         "p5": 0,
@@ -116,21 +116,21 @@
         "p75": 14,
         "p90": 20,
         "n": 605,
-        "mean": 10.8
+        "mean": 10.9
       }
     },
     "incubating": {
       "n": 1046,
       "cjk": {
         "p5": 1247,
-        "p10": 1447,
-        "p25": 1948,
+        "p10": 1457,
+        "p25": 1951,
         "p33": 2315,
         "p50": 3114,
         "p75": 4626,
         "p90": 6046,
         "n": 1046,
-        "mean": 3537.6
+        "mean": 3538.5
       },
       "fn_defs": {
         "p5": 0,
@@ -149,13 +149,13 @@
       "cjk": {
         "p5": 999,
         "p10": 1141,
-        "p25": 1296,
-        "p33": 1499,
-        "p50": 1685,
-        "p75": 2211,
+        "p25": 1297,
+        "p33": 1502,
+        "p50": 1694,
+        "p75": 2256,
         "p90": 3009,
         "n": 67,
-        "mean": 2249.6
+        "mean": 2263.9
       },
       "fn_defs": {
         "p5": 1,
@@ -166,7 +166,7 @@
         "p75": 9,
         "p90": 21,
         "n": 67,
-        "mean": 11.1
+        "mean": 11.3
       }
     }
   },
@@ -265,17 +265,6 @@
     ],
     "D": [
       {
-        "path": "knowledge/People/黃聲遠.md",
-        "title": "黃聲遠：把宜蘭當成一座慢慢修的城，蓋沒有圍牆的建築",
-        "category": "People",
-        "curation": "incubating",
-        "curationReason": null,
-        "reason": "3 軸弱：字數 1998、腳註 3、零媒體",
-        "cover": "none",
-        "cjk": 1998,
-        "fn": 3
-      },
-      {
         "path": "knowledge/People/陳樹菊.md",
         "title": "陳樹菊：一個台東菜販，用五十年菜錢捐出數千萬的慈善人生",
         "category": "People",
@@ -285,6 +274,17 @@
         "cover": "none",
         "cjk": 1504,
         "fn": 13
+      },
+      {
+        "path": "knowledge/People/黃聲遠.md",
+        "title": "黃聲遠：把宜蘭當成一座慢慢修的城，蓋沒有圍牆的建築",
+        "category": "People",
+        "curation": "incubating",
+        "curationReason": null,
+        "reason": "3 軸弱：字數 1998、腳註 3、零媒體",
+        "cover": "none",
+        "cjk": 1998,
+        "fn": 3
       },
       {
         "path": "knowledge/People/蕭上農.md",
@@ -879,17 +879,6 @@
         "cover": "none",
         "cjk": 1171,
         "fn": 1
-      },
-      {
-        "path": "knowledge/Economy/投保薪資的天花板.md",
-        "title": "投保薪資的天花板：36,095 元、45,800 元，與那條看不見的截斷線",
-        "category": "Economy",
-        "curation": "incubating",
-        "curationReason": null,
-        "reason": "3 軸弱：字數 1296、腳註 3、段落 29 段／中位 38 字",
-        "cover": "none",
-        "cjk": 1296,
-        "fn": 3
       },
       {
         "path": "knowledge/Economy/照護連續性.md",
@@ -3133,15 +3122,15 @@
     "knowledge/Technology/台灣顯示器產業.md",
     "knowledge/Technology/地震預警系統.md",
     "knowledge/Technology/報禁解除.md",
-    "knowledge/People/黃聲遠.md",
-    "knowledge/People/陳菊.md",
     "knowledge/People/陳樹菊.md",
+    "knowledge/People/黃聲遠.md",
     "knowledge/People/徐巧芯.md",
     "knowledge/People/蕭上農.md",
-    "knowledge/People/魏哲家.md",
+    "knowledge/People/陳菊.md",
     "knowledge/People/三毛.md",
-    "knowledge/People/施明德.md",
+    "knowledge/People/魏哲家.md",
     "knowledge/Technology/雪山隧道.md",
+    "knowledge/People/施明德.md",
     "knowledge/Lifestyle/夜生活與KTV文化.md",
     "knowledge/About/台灣官方網站資源.md",
     "knowledge/About/台灣官方網站資源重寫.md",

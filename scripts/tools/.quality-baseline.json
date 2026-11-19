@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-11-18T22:06:21Z",
+  "timestamp": "2026-11-19T22:07:27Z",
   "total": 1191,
-  "flagged": 743,
+  "flagged": 742,
   "files": [
     {
       "file": "music/台灣KTV文化.md",
@@ -263,11 +263,6 @@
       "file": "economy/台灣企業：聯發科技.md",
       "score": 7,
       "reasons": "未人工審核; 破折號13個; 後段清單堆砌43%; 無腳註"
-    },
-    {
-      "file": "economy/投保薪資的天花板.md",
-      "score": 7,
-      "reasons": "年份僅0個; 未人工審核; 塑膠句2個; 分號5個; 英式短句開場3處"
     },
     {
       "file": "economy/三商.md",
