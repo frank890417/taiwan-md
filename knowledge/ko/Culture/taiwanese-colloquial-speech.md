@@ -1,20 +1,22 @@
 ---
 title: "타이완 구어 암호: '부끄럽다'에서 'D를 돼지로 읽기'까지, 네 가지 일상적 표현이 어떻게 정체성을 형성하는가"
 description: "타이완에서 '부끄럽다(부하오이쓰)'는 실제 사과보다 먼저 올 수 있으며, '하(하)'는 이해하지 못한 듯 보이지만 교차 언어적으로 존재하는 대화 복구 수단이다. @는 '작은 쥐'로 불리고, D는 시험지 교환 시 '돼지/주'로 읽힌다. 네 가지 표현은 예의, 오해, 이메일, 대만어 음운을 일상에 숨기며, 우리가 말하는 '타이완 발음'이 단순한 발음 규칙이 아니라 함께 사는 사람들이 남긴 식별 방법임을 일깨워준다."
-category: 'Culture'
-subcategory: '語言與文字'
-tags: ['타이완 화어', '화용론', '타이완 대만어', '이메일', '캠퍼스 문화']
-author: 'Taiwan.md Contributors'
 date: 2026-08-20
-readingTime: 8
+category: 'Culture'
+tags: ['타이완 화어', '화용론', '타이완 대만어', '이메일', '캠퍼스 문화']
+subcategory: '語言與文字'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
-featured: false
+readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/台灣口語特色.md'
-sourceCommitSha: '1791349e1'
-sourceContentHash: 'sha256:15d6246d744f90bf'
-sourceBodyHash: 'sha256:227017306bf0c999'
-translatedAt: '2026-09-12T20:54:26+08:00'
+sourceCommitSha: 'ef8369eef'
+sourceContentHash: 'sha256:267464e4c001cd84'
+sourceBodyHash: 'sha256:fa65c73af916289a'
+translatedAt: '2026-11-19T13:46:54.747736+00:00'
 ---
 
 > **30초 요약:** 타이완에서 '부하오이쓰(不好意思, 부끄럽다/실례합니다)'라는 한 마디는 반드시 큰 실수를 저질렀음을 의미하지 않으며, 지나가 달라고 요청하거나, 말을 걸거나, 대화를 가까워지게 하는 용도로 쓰일 수 있다. 2022년 대만대학(NTU) 학생 90명을 대상으로 한 연구에 따르면, 이 표현은 '더이퀴(對不起, 죄송합니다)'보다 일반적이거나 심각도가 낮은 상황에서 더 자주 나타난다. [^1] '하(蛤, 하?/뭐?)'라는 한 마디도 타이완만의 소리가 아니라, 인간이 명확히 듣지 못할 때 발동시키는 대화 복구용 짧은 문장이다. 타이완은 @를 '작은 쥐(소래서)'라고 부르고, D를 시험지 교환 시 '돼지(주)/주(朱)'라고 읽는다. [^2] [^3] [^4] 이 네 가지 표현은 공통적으로 한 가지 사실을 가리킨다: 언어는 내용을 전달하는 것뿐만 아니라 사람들의 거리를 관리하고 동료를 식별하며, 설명하는 시간을 단축한다는 것이다.
@@ -51,25 +53,25 @@ translatedAt: '2026-09-12T20:54:26+08:00'
 
 '하'는 또한 우리가 구어 문화를 사전에서만 답을 찾을 수 없음을 일깨워준다. 사전은 문자의 표준 독음과 어의를 기록하지만, 상호작용은 하나의 글자가 새로운 기능을 갖도록 한다. '하'가 문두에 나타날 때, 그것이 하는 일은 사전의 항목보다 버튼에 더 가까울 수 있다: 누르면, 상대방은 방금 한 말을 다시 조립해야 한다.
 
-## @가 '작은 쥐'가 되면서, 기술 기호가 교실로 들어오다
+## @가 '작은 생쥐'가 되다, 기술 기호가 교실에 들어온 방식
 
-![공공 도메인의 @ 기호 SVG, 기술 기호가 타이완에서 '작은 쥐'라는 이름을 얻는 과정을 상징함](https://upload.wikimedia.org/wikipedia/commons/8/88/At_sign.svg)
+![공공 영역의 @ 기호 SVG, 기술 기호가 타이완에서 어떻게 '작은 생쥐'라는 이름을 갖게 되었는지 상징함](https://upload.wikimedia.org/wikipedia/commons/8/88/At_sign.svg)
 
-_사진 출처: [Wikimedia Commons: At sign.svg](https://commons.wikimedia.org/wiki/File:At_sign.svg), 공공 도메인. 이미지는 외부 핫링크로만 삽입됨._
+_이미지 출처: [Wikimedia Commons: At sign.svg](https://commons.wikimedia.org/wiki/File:At_sign.svg), Public domain. 이미지는 외부 핫링크로만 삽입됨._
 
-RFC 5322의 이메일 형식에서 @의 작업은 매우 정확하다. 그것은 local-part와 Internet domain을 분리하며, 앞부분은 계정 부분의 일부이고, 뒷부분은 도메인 부분의 일부이다. 표준 문서는 이를 at-sign이라고 부르며, ASCII 값 64로 정의한다. [^4]
+RFC 5322의 이메일 형식에서 @의 역할은 매우 정밀하다. @는 local-part와 Internet domain을 분리하며, 앞부분은 계정의 일부이고 뒷부분은 도메인의 일부다. 표준 문서에서는 이를 at-sign이라 부르며 ASCII 값 64로 정의한다. [^4]
 
-엔지니어가 필요한 것은 구분 기호이다. 학교의 아이들이 필요한 것은 기억할 수 있는 무언가이다. BBC 중국어 보도는 @의 호칭에 대해 다양한 언어를 정리할 때, 타이완의 '작은 쥐', 중국 본토의 '圈 A(원 A)', 그리고 이탈리아의 달팽이, 그리스의 작은 오리 등 다양한 호칭을 나열했다. 기호의 기술적 기능은 동일하지만, 문화적 기억은 각각 그 모양을 찾았다. [^5]
+엔지니어에게 필요한 것은 구분 기호였다. 하지만 학교 아이들에게 필요한 것은 기억하기 쉬운 무언가였다. BBC 중국어 보도에서 다양한 언어가 @를 어떻게 부르는지 정리했을 때, 타이완의 「작은 생쥐(小老鼠)」, 중국 대륙의 「圈 A」, 그리고 이탈리아의 달팽이, 그리스의 아기 오리 등의 표현을 나열했다. 기호의 기술적 기능은 동일하지만, 문화적 기억은 저마다 그 기호에 어울리는 형태를 찾아주었다. [^5]
 
-레이 톰린슨(Ray Tomlinson)은 1971년에 @를 네트워크 이메일 주소 형식에 넣음으로써, 원래 일반 텍스트에서 자주 나타나지 않던 이 기호를 계정과 도메인 사이의 다리로 만들었다. [^5] [^6] 타이완인들은 나중에 이를 '작은 쥐'라고 불렀다. 이는 RFC를 수정하는 것이 아니며, 기호에 공식 표준을 추가하는 것도 아니다. 이는 추상적인 도구를 주변의 동물로 번역하는 교수법이다.
+Ray Tomlinson은 1971년 네트워크 이메일 주소 형식에 @를 도입하여, 본래 일반 텍스트에서 자주 등장하지 않던 이 기호를 계정과 도메인 사이의 다리로 만들었다. [^5] [^6] 타이완 사람들이 나중에 이를 「작은 생쥐」라고 부르게 된 것은 RFC를 수정하거나 기호에 공식 표준을 추가하기 위함이 아니었다. 이는 추상적인 도구를 주변에서 볼 수 있는 동물로 치환하는 교육 방식의 일종이다.
 
-![타이완 키보드 위의 주음부호와 영문자 배치](https://commons.wikimedia.org/wiki/Special:FilePath/Taiwan_keyboard.png)
+![타이완 키보드의 주음부호와 영문자 배치](https://commons.wikimedia.org/wiki/Special:FilePath/Taiwan_keyboard.png)
 
-_사진 출처: [Wikimedia Commons: Taiwan keyboard.png](https://commons.wikimedia.org/wiki/File:Taiwan_keyboard.png), 저자 정중북로711(中正北路711), CC BY-SA 3.0 라이선스. 이미지는 외부 핫링크로만 삽입되며, 사용 시 저자 표시와 라이선스 링크를 유지해야 함._
+_이미지 출처: [Wikimedia Commons: Taiwan keyboard.png](https://commons.wikimedia.org/wiki/File:Taiwan_keyboard.png), 저자 중정북로711, CC BY-SA 3.0 적용. 이미지는 외부 핫링크로만 삽입되며, 사용 시 저자 표시와 라이선스 링크를 유지해야 함._
 
-'작은 쥐'의 흥미로운 점은 초기 컴퓨터 교육의 촉감을 보존한다는 것이다. 아이들은 도메인, 계정 및 네트워크 프로토콜을 먼저 이해할 필요가 없으며, 쥐처럼 생긴 고리를 먼저 기억하면 키보드에서 그것을 찾을 수 있다. 기술이 생활로 들어오는 첫 단계는 종종 전체 시스템을 이해하는 것이 아니라, 낯선 기호에 식별할 수 있는 이름을 찾는 것이다.
+「작은 생쥐」의 흥미로운 점은 초기 컴퓨터 교육의 촉감을 간직하고 있다는 것이다. 아이들은 도메인, 계정, 네트워크 프로토콜을 먼저 이해할 필요 없이, 쥐를 닮은 그 동그라미를 기억하는 것만으로 키보드에서 해당 기호를 찾아낼 수 있었다. 기술이 삶에 스며드는 첫 단계는 흔히 전체 시스템을 이해하는 것이 아니라, 낯선 기호에 지칭할 수 있는 이름을 붙여주는 것이다.
 
-이 이름은 세대 차이를 남기기도 한다. 초기 email 교육을 잘 아는 사람은 '작은 쥐로 보내주세요'라고 말하면 친구들이 즉시 @를 찾을 수 있다. 네트워크에 나중에 접한 사람은 'at'을 더 자주 말하거나, 전체 주소를 직접 읽는 경우가 많다. 두 가지 말 모두 임무를 완수할 수 있지만, 전자는 타이완 캠퍼스와 가정 컴퓨터 수업의 기억을 한 층 더 포함한다.
+이 이름에는 세대 차이도 담겨 있다. 초기 이메일 교육에 익숙한 사람들은 "작은 생쥐(小老鼠)로 보내줘"라고 말하면 동료들이 즉시 @를 찾을 수 있게 한다. 인터넷을 나중에 접한 사람들은 'at'이라고 말하거나 주소 전체를 그대로 읽는 경우가 더 많다. 두 방식 모두 목적을 달성할 수 있지만, 전자의 표현에는 타이완의 학교 교실과 가정용 컴퓨터 수업에 대한 기억이 한 조각 담겨 있다.
 
 ## D가 왜 '돼지'나 '주(朱)'로 변하는가
 
@@ -99,28 +101,28 @@ _사진 출처: [Wikimedia Commons: Taiwan keyboard.png](https://commons.wikimed
 [Wikimedia Commons: At sign.svg](https://commons.wikimedia.org/wiki/File:At_sign.svg)은 본문의 사용된 공공 도메인 @ 기호 이미지를 제공한다.
 [Wikimedia Commons: Taiwan keyboard.png](https://commons.wikimedia.org/wiki/File:Taiwan_keyboard.png)은 타이완 키보드 이미지와 CC BY-SA 3.0 라이선스 정보를 제공한다.
 
-## 참고 자료
+## 참고 문헌
 
-[^1]: [타이완 상용 사과어 사용 및 심각도 인식 탐구](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22110NTU05612012%22.&searchmode=basic) — 대만대학 2022년 석사 논문, 90부의 대만대학 학생 설문지를 사용하여 '더이퀴', '바오치엔' 및 '부하오이쓰'가 다양한 사회적 상황에서 어떻게 선택되는지 분석한다.
+[^1]: [대만 상용 사과 표현의 사용 및 심각도 인지에 관한 탐구](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22110NTU05612012%22.&searchmode=basic) — 국립 대만대학교 2022년 석사 학위 논문으로, 90부의 대만대학교 학생 설문조사를 통해 다양한 사회적 상황에서 '對不起(duìbuqǐ)', '抱歉(bàoqiàn)', '不好意思(bù hǎoyìsi)'가 어떻게 선택되는지 분석함.
 
-[^2]: [교육부 《중편국어사전수정본》: 하(蛤)](https://dict.revised.moe.edu.tw/dictView.jsp?ID=4726) — 교육부 공식 사전 페이지, '하'의 주음 ㄍㄜˊ, ㄏㄚˊ와 조개, 문어, 개구리 등 표준 어의를 수록하여, 본문의 문자 형태와 구어 용법을 구분하는 데 제공한다.
+[^2]: [교육부 《중편국어사전 개정본》: 蛤](https://dict.revised.moe.edu.tw/dictView.jsp?ID=4726) — 교육부 공식 사전 페이지로, '蛤'의 주음부호 ㄍㄜˊ, ㄏㄚˊ 및 조개(蛤蜊), 문합(文蛤), 두꺼비(蛤蟆) 등의 표준적 의미를 수록하여 본문에서 글자 형태와 구어적 용법을 구분하는 근거로 활용함.
 
-[^3]: [Is “Huh?” a Universal Word?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0078273) — PLOS ONE의 교차 언어 연구, 'huh?'가 대화 수정 개시어로서의 형식과 기능을 분석하며, 독자가 '하'를 타이완만의 현상으로 오해하지 않도록 주의한다.
+[^3]: [Is “Huh?” a Universal Word?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0078273) — PLOS ONE의 교차 언어 연구로, 대화 복구를 위한 시작어로서 'huh?'의 형식과 기능을 분석하여 독자가 '蛤(ha)'을 대만만의 독특한 현상으로 오해하지 않도록 주의를 환기함.
 
-[^4]: [RFC 5322: Internet Message Format](https://datatracker.ietf.org/doc/html/rfc5322) — IETF 이메일 형식 표준, 제 3.4.1 절은 @가 addr-spec에서 local-part와 Internet domain을 분리하는 기술적 역할을 정의한다.
+[^4]: [RFC 5322: Internet Message Format](https://datatracker.ietf.org/doc/html/rfc5322) — IETF 이메일 형식 표준으로, 제3.4.1절에서 addr-spec 내의 local-part와 Internet domain을 구분하는 @의 기술적 역할을 정의함.
 
-[^5]: [BBC 중국어: 다양한 언어는 '@' 기호를 어떻게 부르는가?](https://www.bbc.com/ukchina/trad/vert-fut-38691175) — BBC Future 중국어 보도, 타이완이 '작은 쥐'라고 부르는 것과 전 세계가 동물이나 모양으로 @를 부르는 문화적 차이를 정리하며, 기호가 이메일에 들어온 역사도 소개한다.
+[^5]: [BBC 중국어: 언어마다 '@' 기호를 어떻게 부를까?](https://www.bbc.com/ukchina/trad/vert-fut-38691175) — BBC Future 중국어 보도로, 대만에서 '소쥐(小老鼠)'라고 부르는 것과 세계 각지에서 동물이나 모양으로 @를 부르는 문화적 차이를 정리하였으며, 이 기호가 이메일에 도입된 역사도 소개함.
 
-[^6]: [Raymond Tomlinson — Internet Hall of Fame](https://www.internethalloffame.org/inductee/raymond-tomlinson/) — Internet Hall of Fame의 공식 인물 자료, 레이 톰린슨의 네트워크 이메일과 초기 메일 표준에 대한 공헌을 기록한다.
+[^6]: [Raymond Tomlinson — Internet Hall of Fame](https://www.internethalloffame.org/inductee/raymond-tomlinson/) — Internet Hall of Fame의 공식 인물 자료로, 레이 톰린슨(Ray Tomlinson)이 인터넷 이메일 및 초기 메일 표준에 기여한 바를 기록함.
 
-[^7]: [교육부 타이완 대만어 상용어사전: 돼지(豬)](https://sutian.moe.edu.tw/und-hani/tshiau/?lui=tai_su&tsha=%E8%B1%AC) — 교육부 공식 타이완 대만어 사전, '돼지'를 ti/tu로 등재하여, D와 대만어 음근 관계의 언어학적 기초를 제공한다.
+[^7]: [교육부 대만어 상용어 사전: 돼지](https://sutian.moe.edu.tw/und-hani/tshiau/?lui=tai_su&tsha=%E8%B1%AC) — 교육부 공식 대만어(Taiwanese) 사전으로, '돼지'를 ti／tu로 등재하여 D와 대만어의 음성적 유사성에 대한 언어학적 기초를 제공함.
 
-[^8]: [삼립 뉴스: 외국인이 답을 읽을 때 D를 어떻게 읽는가? 절대 '돼지'가 아니다](https://www.setn.com/news/868195) — 2020년 뉴스, PTT와 캠퍼스 교환 교정 시험지의 온라인 토론을 정리하며, 본문의 일부 사용과 유행을 지지하기 위해만 사용하며, 전 타이완의 표준으로 확대하지 않는다.
+[^8]: [Sanli News: 외국인은 알파벳 D를 어떻게 읽을까? 절대 '돼지'가 아니다](https://www.setn.com/news/868195) — 2020년 뉴스 보도로, PTT 및 캠퍼스 교환학생 시험 채점 관련 인터넷 토론을 정리함. 본문에서는 일부 사용 사례와 전래 양상을 뒷받침하기 위해서만 인용하며, 이를 대만 전체의 통일된 표준으로 확장하여 해석하지 않음.
 
-[^9]: [글로벌 화어망: ABC 개가 돼지를 물다](https://biweekly.huayuworld.org/Material/372/Text) — 중화민국 교무위원회의 고전 동요 교재, 완전한 타이완 구절시 텍스트를 수록하고 타이완 대만어를 표기하여, 캠퍼스 구전의 원천 교재 맥락을 제공한다.
+[^9]: [전구화문망: ABC 개가 돼지를 물다](https://biweekly.huayuworld.org/Material/372/Text) — 중화민국 교무위원회의 고전 동요 교재로, 대만어 발음이 표기된 완전한 대만 전래 놀이 텍스트를 수록하여 학교 현장에서 구전되는 원형적 맥락을 제공함.
 
-[^10]: [Taiwan.md: 타이완 캠퍼스 구절시](https://taiwan.md/en/culture/schoolyard-rhymes/) — Taiwan.md의 기존 캠퍼스 구절시 기사, 'ABC Dog Bites Pig'와 세대 간 구전을 이미 정리했으며, 본문의 D 답 식별 기능으로 중복을 피한다.
+[^10]: [Taiwan.md: Taiwan Schoolyard Rhymes](https://taiwan.md/en/culture/schoolyard-rhymes/) — Taiwan.md의 기존 캠퍼스 전래 동요 문서로, 'ABC Dog Bites Pig'와 세대 간 구전 내용을 정리하였음. 본문에서는 D의 답변 식별 기능과 중복을 피하기 위해 이를 인용함.
 
-[^11]: [Wikimedia Commons: At sign.svg](https://commons.wikimedia.org/wiki/File:At_sign.svg) — 공공 도메인의 @ 기호 SVG 파일 페이지, 기사는 `upload.wikimedia.org` 핫링크로 삽입하며, 이미지를 다운로드하지 않는다.
+[^11]: [Wikimedia Commons: At sign.svg](https://commons.wikimedia.org/wiki/File:At_sign.svg) — 퍼블릭 도메인 @ 기호 SVG 파일 페이지로, 본문에서는 이미지를 다운로드하지 않고 `upload.wikimedia.org`의 웹 주소를 직접 임베딩함.
 
-[^12]: [Wikimedia Commons: Taiwan keyboard.png](https://commons.wikimedia.org/wiki/File:Taiwan_keyboard.png) — 타이완 키보드 이미지 파일 페이지, 정중북로711이 제공하며, Creative Commons Attribution-ShareAlike 3.0을 따르며, 사용 시 저자 표시와 라이선스 링크를 유지해야 한다.
+[^12]: [Wikimedia Commons: Taiwan keyboard.png](https://commons.wikimedia.org/wiki/File:Taiwan_keyboard.png) — 대만 키보드 이미지 파일 페이지로, 중정베이루 711에서 제공하며 Creative Commons Attribution-ShareAlike 3.0 라이선스를 따름. 사용 시 저작자 표시 및 라이선스 링크를 유지해야 함.

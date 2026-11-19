@@ -43,11 +43,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-05-09'
     url: 'https://x.com/taiwandotmd/status/2053100425730269544'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Economy/台灣企業：台積電.md'
-sourceCommitSha: '6ffd92f94'
-sourceContentHash: 'sha256:e8afc225ea9e0107'
+sourceCommitSha: 'b1a5fea00'
+sourceContentHash: 'sha256:0052f66a7d8738c5'
 sourceBodyHash: 'sha256:6bdb1c40d1477a30'
-translatedAt: '2026-10-22T17:12:47.218964+00:00'
+translatedAt: '2026-11-19T13:16:33.006402+00:00'
 ---
 
 # 타이완 기업: TSMC
@@ -243,15 +245,17 @@ NVIDIA의 AI 학습용 칩, 애플의 모바일 프로세서, AMD의 서버용 �
 
 이 정도 규모의 전환을 계획한 사람은 아무도 없었다. 하지만 56년 만에 찾아온 최대 가뭄 속에서도 용수차는 계속해서 바오산(寶山)으로 진입하고 있으며, 애리조나 공사 현장에서는 제3공장이 막 착공되었다. 백악관의 레드카펫 위에서 트럼프는 56세에 TSMC를 떠난 그 사람이 「이 방에서 가장 중요한 사람」이라고 치켜세웠다. 비록 56세의 그 사람은 이미 이 방에 없지만 말이다.
 
-## 연장 읽기
+## 연관 읽을거리
 
-- [타이완 기업: 미디어텍](/ko/economy/mediatek) — 세계 3위의 모바일 칩 설계 기업으로, 팹리스(fabless) 모델의 타이완 대표 주자이며 TSMC와 상호 보완적인 관계를 맺고 있는 쌍둥이 같은 존재이다.
-- [타이완 기업: ASE 그룹](/ko/economy/taiwan-enterprise-ase-semiconductor) — 세계 최대의 반도체 후공정(OSAT) 기업으로, TSMC와 동일한 공급망 내 하류 단계의 핵심 거점이다.
-- [타이완 주식 시장과 자본 시장](/ko/economy/taiwan-stock-market) — TSMC의 시가총액은 타이완 증시 전체 시가총액의 약 35%를 차지하며, 타이완 주식을 이해하려면 먼저 TSMC를 이해해야 한다.
-- [타이완 산업의 전환 및 업그레이드](/ko/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMC는 타이완이 단순 위탁 생산 중심의 섬에서 기술 중심의 섬으로 변모한 구체적인 사례이다.
-- [스전룽(施振榮)](/ko/people/stan-shih) — 21년 동안 TSMC 이사로 재직했으며, 자산 중 가장 큰 비중을 TSMC 주식에 투자한 에이서(Acer) 창업자이다. 그는 바로 "타이완은 위탁 생산만 해서는 안 된다"라고 역설한 '스마일 커브' 이론의 저자이기도 하다.
-- [반도체 산업](/ko/technology/taiwan-semiconductor-industry) — RCA 기술 이전부터 질화갈륨(GaN) 및 양자 패키징에 이르기까지 50년간 이어진 재료 혁명, 즉 TSMC가 속해 있는 재료 과학 전장 전체를 의미한다.
-- [황충런(黃崇仁)](/ko/people/frank-huang-psmc) — 리코닉(PSMC) 및 PICON(力積電)의 창업자로, 같은 섬 위에서 걸어간 또 다른 길을 보여준다. 마찬가지로 웨이퍼를 제조하지만, 한때 천억 대 NT$의 부채로 상장 폐지되었다가 9년 만에 다시 주식 시장으로 복귀하였다.
+- [타이완 산업 특집](/industry/) — 공식 통계로 그려낸 산업 구조: 수출과 GDP 70년, 과학기술단지, 각 현·시별 공장, 역대 시가총액 상위 10개 기업, 그리고 6가지 공공 논쟁에 대한 각계의 입장
+- [공급망 지도](/industry/supply-chain-map/) — 반도체, AI 서버, 텅스텐 세 가지 공급망: 단계별로 어떤 기업이 타이완에 있고, 어느 단계가 해외에 의존하는지 확인하기
+- [타이완 기업: 미디어텍(MediaTek)](/ko/economy/mediatek) — 세계 3위 모바일 칩 설계 기업이자 팹리스(Fabless) 모델의 타이완 대표 주자, TSMC와 상호 보완적인 관계를 맺고 있는 쌍둥이 기업
+- [타이완 기업: ASE 그룹](/ko/economy/taiwan-enterprise-ase-semiconductor) — 세계 최대 반도체 패키징 및 테스트(OSAT) 기업으로, TSMC와 동일한 공급망 내 하류 공정의 핵심 노드
+- [타이완 주식 시장과 자본 시장](/ko/economy/taiwan-stock-market) — TSMC의 시가총액은 타이완 주식 시장 전체 시가총액의 약 35%를 차지함. 타이완 주식을 이해하려면 먼저 TSMC를 이해해야 함
+- [타이완 산업 전환 및 업그레이드](/ko/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMC는 타이완이 단순 위탁 생산 중심의 섬에서 기술 중심의 섬으로 변모한 구체적인 사례
+- [스전룽(施振榮)](/ko/people/stan-shih) — 21년간 TSMC 이사를 역임했으며, 자신의 자산 중 가장 큰 부분을 TSMC 주식에 투자한 에이서(Acer) 창업자. 하지만 그는 바로 「타이완은 위탁 생산만 해서는 안 된다」고 말한 '스마일 커브'의 저자이기도 함
+- [반도체 산업](/ko/technology/taiwan-semiconductor-industry) — RCA 기술 이전부터 질화갈륨(GaN) 및 양자 패키징에 이르기까지 50년간의 재료 혁명, TSMC가 속해 있는 재료 과학 전장 전체
+- [황충런(黃崇仁)](/ko/people/frank-huang-psmc) — PSMC/VIS의 창업자. 같은 섬 위에서의 또 다른 길: 마찬가지로 웨이퍼를 제조하지만, 한때 NT$1,000억의 부채로 상장 폐지되었다가 9년 만에 주식 시장으로 복귀함
 
 ## 이미지 출처
 
