@@ -95,10 +95,12 @@ const rows = [
       rows.map((row, i) => (
         <div class="ab-brief__row">
           <dt class="ab-brief__label">
-            <span class="ab-brief__num" aria-hidden="true">
+            <span class="ab-brief__num" dir="ltr" aria-hidden="true">
               {i + 1}
             </span>
-            {row.label}
+            <span class="ab-brief__label-text" dir="auto">
+              {row.label}
+            </span>
           </dt>
           <dd class="ab-brief__body">
             <p class="ab-brief__text">{row.text}</p>
@@ -156,6 +158,10 @@ const rows = [
     border-block-end: 1px solid var(--ab-rule);
   }
 
+  .ab-brief__num,
+  .ab-brief__label-text {
+    unicode-bidi: isolate;
+  }
   .ab-brief__label {
     display: flex;
     align-items: baseline;

@@ -72,7 +72,7 @@ const reasons = [
     {
       reasons.map((r, i) => (
         <li class="ab-why__item">
-          <span class="ab-why__num" aria-hidden="true">
+          <span class="ab-why__num" dir="ltr" aria-hidden="true">
             {String(i + 1).padStart(2, '0')}
           </span>
           <div class="ab-why__body">
@@ -143,6 +143,7 @@ const reasons = [
   }
 
   .ab-why__num {
+    unicode-bidi: isolate;
     padding-block-start: 0.3rem;
     font-family: var(--font-interface);
     font-size: 0.8125rem;

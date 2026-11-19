@@ -147,7 +147,7 @@ const axisYear = first.getUTCFullYear();
         milestones.map((e, i) => (
           <li class="ab-ms__stop" data-ms-card={i}>
             <p class="ab-ms__date">
-              <time datetime={e.date}>
+              <time datetime={e.date} dir="auto">
                 {tk(`about.timeline.${e.key}.date`)}
               </time>
             </p>
@@ -498,6 +498,9 @@ const axisYear = first.getUTCFullYear();
       0 0 0 3px var(--ab-section-bg);
   }
 
+  .ab-ms__date time {
+    unicode-bidi: isolate;
+  }
   .ab-ms__date {
     margin: 0 0 0.5rem;
     font-family: var(--font-interface);

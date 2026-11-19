@@ -33,10 +33,12 @@ const { label, chapters } = Astro.props;
             data-ga-section="about_nav"
             data-ga-label={c.id}
           >
-            <span class="ab-nav__num" aria-hidden="true">
+            <span class="ab-nav__num" dir="ltr" aria-hidden="true">
               {String(i + 1).padStart(2, '0')}
             </span>
-            <span class="ab-nav__text">{c.label}</span>
+            <span class="ab-nav__text" dir="auto">
+              {c.label}
+            </span>
           </a>
         </li>
       ))
@@ -178,6 +180,12 @@ const { label, chapters } = Astro.props;
     border-radius: 6px;
   }
 
+  /* 編號與標籤各自獨立排方向：標籤退回英文（如「30 seconds」）時，
+     不會在右到左頁面被前面的編號或外層方向黏住而顯示成「seconds 30」 */
+  .ab-nav__num,
+  .ab-nav__text {
+    unicode-bidi: isolate;
+  }
   .ab-nav__num {
     font-size: 0.6875rem;
     font-variant-numeric: tabular-nums;
