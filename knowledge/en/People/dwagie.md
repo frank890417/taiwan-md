@@ -30,11 +30,13 @@ rationale:
   whats_excluded: '未展開完整獎項表、近年補助爭議與每張專輯曲目，保留給後續更完整研究。'
   where_it_hedges: '出生年份、NBA 場館事件與《舌粲蓮花》的全饒舌專輯定位皆採軟化語氣或留在研究筆記。'
   whos_pushing_back: '對大支政治立場或公共發聲有異議的讀者，可能期待更多爭議時間線。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/大支.md'
-sourceCommitSha: '498649feb'
-sourceContentHash: 'sha256:2e7abe81d37d5763'
-sourceBodyHash: 'sha256:42bdb5d4361f8a68'
-translatedAt: '2026-07-27T22:12:14+08:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:ad16e5b275d77c2c'
+sourceBodyHash: 'sha256:dec7b7071831ec71'
+translatedAt: '2026-11-19T01:51:39.056699+00:00'
 ---
 
 # Dwagie: The Taiwanese Rap "Principal" Emerging from Tainan's Training Studio
@@ -153,8 +155,8 @@ Therefore, looking back at Dwagie, the best entry point remains the music. Polit
 
 ## Image Sources
 
-- Hero photo of Dwagie: Chiayi City Government, Wikimedia Commons, attribution required (Government website open data declaration). Original file: [National Chihyi Three-day New Year Festival invites Golden Bell hosts (Dwagie)](<https://commons.wikimedia.org/wiki/File:全國獨嘉三日跨年祭_力邀金鐘雙主持(大支)(cropped).jpg>).
-- MC HotDog 2012 performance photo: Chiu Yu-feng, Wikimedia Commons, CC BY-SA 4.0. Original file: [2012 Super Slipper](https://commons.wikimedia.org/wiki/File:MC_HotDog_at_2012_Super_Slipper.jpg).
+- Hero image: Dwagie photo — Chiayi City Government, Wikimedia Commons, Attribution License (Government Website Data Open Declaration). Original file: [全國獨嘉三日跨年祭 力邀金鐘雙主持（大支）](<https://commons.wikimedia.org/wiki/File:全國獨嘉三日跨年祭_力邀金鐘雙主持(大支)(cropped).jpg>).
+- MC HotDog 2012 performance photo — Chiu Yu-feng, Wikimedia Commons, CC BY-SA 4.0. Original file: [2012 Super Slipper](https://commons.wikimedia.org/wiki/File:MC_HotDog_at_2012_Super_Slipper.jpg).
 
 ## References
 

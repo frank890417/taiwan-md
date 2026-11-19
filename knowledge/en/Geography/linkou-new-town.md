@@ -1,35 +1,38 @@
 ---
 title: 'Linkou New Town: From "Ghost City" to Northern Taiwan''s Emerging Metropolis — Transformation and Challenges'
 description: 'In the 1970s, the Taiwanese government planned a "garden city" new town on the Linkou plateau to ease population pressure on Taipei. After decades of development, this once mocked-as-"ghost city" area saw rapid population growth and industrial upgrading following the opening of the Airport MRT in 2017, becoming one of the youngest and most dynamic metropolitan areas in northern Taiwan. But challenges remain — most notably traffic congestion and a damp, chilly climate.'
-category: Geography
+date: 2026-04-29
+category: 'Geography'
 tags:
   [
-    linkou-new-town,
-    regional-development,
-    taiwan-geography,
-    urban-planning,
-    transportation,
-    housing-market,
-    healthcare,
-    education,
-    film-and-tv,
-    leisure,
-    hwa-ya-technology-park,
-    social-housing,
-    microclimate,
-    coffee-culture,
+    'linkou-new-town',
+    'regional-development',
+    'taiwan-geography',
+    'urban-planning',
+    'transportation',
+    'housing-market',
+    'healthcare',
+    'education',
+    'film-and-tv',
+    'leisure',
+    'hwa-ya-technology-park',
+    'social-housing',
+    'microclimate',
+    'coffee-culture',
   ]
+subcategory: '城市與人文地理'
 author: 'Taiwan.md Contributors'
-date: 2026-04-29
-readingTime: 15
+featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
+readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/林口新市鎮.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:bdae42ffe0d36150'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:150fe6a0199d610e'
 sourceBodyHash: 'sha256:57cdd81fe5d56c02'
-translatedAt: '2026-04-30T22:28:43+08:00'
-featured: false
+translatedAt: '2026-11-19T02:56:39.125586+00:00'
 ---
 
 > **30-second overview:** Once mockingly called a "ghost city," Linkou New Town has undergone enormous transformation over the past half century — from tea fields and brick kilns to AI-smart industrial parks. Following the opening of the Airport MRT, this youngest district of New Taipei City added more than 14,000 residents in five years and became a relocation hotspot in northern Taiwan. Yet freeway congestion and a cold, damp climate remain challenges that cannot be ignored.
@@ -80,11 +83,12 @@ Although Linkou New Town has shed its "ghost city" reputation and risen to becom
 
 Looking ahead, Linkou New Town will continue to attract talent and resources through industrial upgrading and infrastructure improvements. The arrival of Taiwan's first National Archives building in 2025, for instance, will inject rich humanistic and intellectual depth into Linkou [^1]. How to keep optimizing transport, improving housing quality, and preserving the city's unique charm amid rapid growth will be key questions for Linkou New Town's future.
 
-## Further reading
+## Further Reading
 
-- Taiwan urban development and the rural-urban divide ([台灣都市發展與城鄉差距](/en/geography/taiwan-urban-development-and-rural-urban-divide/)) — situating Linkou New Town's development curve within a regional planning framework.
-- [Beida Special District](/en/geography/beida-special-district-sanxia/) — for a parallel reading of another emerging redevelopment zone driven by transportation, school districts, and the housing market.
-- Taiwan transportation system ([台灣交通系統](/en/lifestyle/transportation-system/)) — extended reading on how the Airport MRT, freeways, and urban commutes shape new towns.
+- [Taiwan's Housing Prices, Mortgages, and Youth Housing Security](/housing/) — Special feature: price-to-income ratios and mortgage burden rates by county and city, examining which demand segments new towns absorb
+- [Taiwan's Urban Development and Urban-Rural Disparities](/en/geography/taiwan-urban-development-and-rural-urban-divide) — Understanding Linkou New Town's development trajectory from a regional planning perspective
+- [Beida Special District](/en/geography/beida-special-district-sanxia) — A comparison with another emerging land readjustment area driven by transit, school districts, and the housing market
+- [Taiwan's Transportation System](/en/lifestyle/transportation-system) — Further reading on how the Airport MRT, national freeways, and urban commuting shape new towns
 
 ## References
 

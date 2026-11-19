@@ -1,19 +1,22 @@
 ---
-title: 'Qing Dynasty Rule'
-description: "From 1683 to 1895, the Qing dynasty ruled Taiwan for approximately 212 years, transitioning from passive governance to active development, laying the foundation for modern Taiwan's administrative divisions and Han Chinese society."
+title: 'Qing Rule Period'
+description: "From 1683 to 1895, the Qing Dynasty ruled Taiwan for about 212 years, transitioning from passive governance to active development, laying the foundation for modern Taiwan's administrative divisions and Han Chinese society."
 date: 2026-03-17
-author: 'Taiwan.md Contributors'
 category: 'History'
+tags:
+  ['History', 'Qing Dynasty', 'Opening of Ports for Trade', 'Mudan Incident']
 subcategory: '殖民與帝國'
-tags: ['History', '清朝', '開港通商', '牡丹社事件']
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'History/清治時期.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:dca863d69b937e0a'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:4e4c9423a96b1316'
 sourceBodyHash: 'sha256:74eb6966230843b2'
-translatedAt: '2026-05-17T05:34:48+08:00'
+translatedAt: '2026-11-19T02:16:42.864046+00:00'
 ---
 
 # Qing Dynasty Rule
@@ -68,15 +71,15 @@ This resistance has been interpreted in later Taiwanese history as the first att
 
 ## References
 
-[^1]: [Taiwan under Qing rule — Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E6%B8%85%E6%B2%BB%E6%99%82%E6%9C%9F) — Overview of Qing-era Taiwan, including the governing system, chronology of major events, and policies of each phase.
+[^1]: [Taiwan under Qing Rule — Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E6%B8%85%E6%B2%BB%E6%99%82%E6%9C%9F) — Overview of Taiwan under Qing rule, including governance system, timeline of major events, and policies of each period.
 
-[^2]: [Liu Mingchuan — Wikipedia](https://zh.wikipedia.org/wiki/%E5%8A%89%E9%8A%98%E5%82%B3) — Biography of Liu Mingchuan, the first governor of Taiwan Province, and records of his modernization and provincial construction efforts.
+[^2]: [Liu Mingchuan — Wikipedia](https://zh.wikipedia.org/wiki/%E5%8A%89%E9%8A%98%E5%82%B3) — Biography of Liu Mingchuan, first Governor of Taiwan, and records of his provincial modernization projects.
 
-[^3]: [Japanese invasion of Taiwan (1895) — Wikipedia](https://zh.wikipedia.org/wiki/%E4%B9%99%E6%9C%AA%E6%88%B0%E7%88%AD) — The complete course of the Republic of Formosa's resistance to the Japanese takeover in 1895, including Tang Jing-song's flight.
+[^3]: [Yiwei War — Wikipedia](https://zh.wikipedia.org/wiki/%E4%B9%99%E6%9C%AA%E6%88%B0%E7%88%AD) — Full account of the 1895 Republic of Formosa's resistance against Japanese takeover, including Tang Jingsong's flight.
 
-[^4]: [Rover Incident — Wikipedia](https://zh.wikipedia.org/wiki/%E7%BE%85%E5%A6%B9%E8%99%9F%E4%BA%8B%E4%BB%B6) — The 1867 _Rover_ incident, the South Cape Accord, and the full account of Charles Le Gendre's negotiations.
+[^4]: [Rover Incident — Wikipedia](https://zh.wikipedia.org/wiki/%E7%BE%85%E5%A6%B9%E8%99%9F%E4%BA%8B%E4%BB%B6) — The 1867 Rover incident, the South Cape Alliance, and the full story of negotiations with Charles Le Gendre.
 
-[^5]: [Shi Jiuduan Incident — Wikipedia](https://zh.wikipedia.org/wiki/%E6%96%BD%E4%B9%9D%E7%B7%9E%E4%BA%8B%E4%BB%B6) — The 1888 Zhanghua popular uprising triggered by the Land Tax Reform, the largest tax-resistance incident in late Qing Taiwan.
+[^5]: [Shi Jiuduan Incident — Wikipedia](https://zh.wikipedia.org/wiki/%E6%96%BD%E4%B9%9D%E7%B7%9E%E4%BA%8B%E4%BB%B6) — The 1888 Changhua popular uprising triggered by Qing taxes, the largest anti-tax incident in Taiwan during the late Qing dynasty.
 
 ## Terminology Note: _Qing Zhi_ vs. _Qing Ling_
 

@@ -1,35 +1,37 @@
 ---
-title: 'Beida Special District: Three Decades of Urban Planning and the University Town Living Experiment'
-description: 'From the 1895 Longenpu Battlefield to the 2026 MRT University Town, this is an in-depth encyclopedia about land, aesthetics, and selective identity.'
+title: 'Beida Special Zone: Thirty Years of Urban Planning and University Town Life Experiments'
+description: 'From the historic Longenpu battlefield in 1895 to the University City MRT station in 2026, this is an in-depth encyclopedia about land, aesthetics, and selective identity.'
 date: 2026-04-29
-author: 'idlccp1984'
 category: 'Geography'
-subcategory: '城市與人文地理'
 tags:
   [
-    三峽,
-    樹林,
-    台北大學,
-    藝術大道,
-    三鶯線,
-    明星學區,
-    建築美學,
-    軌道經濟,
-    仕紳化,
-    選擇性認同,
-    迎尪公,
-    遶境,
-    李梅樹,
+    'Sanxia',
+    'Shulin',
+    'National Taipei University',
+    'Art Avenue',
+    'Sanguang Line',
+    'Star School District',
+    'Architectural Aesthetics',
+    'Rail Transit Economy',
+    'Gentrification',
+    'Selective Identity',
+    'Ying Wang Gong',
+    'Religious Procession',
+    'Plumeria',
   ]
-readingTime: 18
+subcategory: '城市與人文地理'
+author: 'idlccp1984'
+featured: false
 lastVerified: 2026-04-29
 lastHumanReview: false
-featured: false
+readingTime: 18
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/北大特區.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:a12aeaf066e066f3'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:d1c3a58bde03254b'
 sourceBodyHash: 'sha256:5edd055f43181f0e'
-translatedAt: '2026-05-09T14:29:09+08:00'
+translatedAt: '2026-11-19T02:33:28.924261+00:00'
 ---
 
 > **30-Second Overview:**
@@ -164,9 +166,10 @@ In 2026, as Sanying Line trains officially begin service, Beida Special District
 
 ## Further Reading
 
-- [Taiwan's Urban Development and the Urban-Rural Divide](/en/geography/taiwan-urban-development-and-rural-urban-divide) — Placing Beida Special District back into the long-term context of Taiwan's rezoning areas and urban expansion.
-- [Linkou New Town](/en/geography/linkou-new-town) — A comparison of how a new town also once called a "ghost town" matured.
-- [Sanxia Tea](/en/food/sanxia-tea) — Further reading on the cultural underpinnings of Sanxia's old urban area and local industry.
+- [Housing Prices, Mortgages, and Youth Home Loans in Taiwan](/housing/) — Special feature page: A comprehensive overview beyond rezoned districts, including mortgage burden rates and housing price indices across various cities and counties.
+- [Urban Development and the Urban-Rural Gap in Taiwan](/en/geography/taiwan-urban-development-and-rural-urban-divide) — Placing the Beida Special District within the long-term context of Taiwan's rezoned districts and urban expansion.
+- [Linkou New Town](/en/geography/linkou-new-town) — A comparison with Linkou New Town, which was also once referred to as a "ghost town," regarding its process of maturation.
+- [Sanxia Tea](/en/food/sanxia-tea) — Further reading on the cultural foundations of the old Sanxia urban area and local industries.
 
 ## References
 
