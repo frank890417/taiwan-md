@@ -1,18 +1,18 @@
 ---
-title: '¿Qué son las elecciones nueve en uno? Nueve cargos, cuatro ascensos de categoría, treinta años de evolución de la autonomía local'
-description: 'El término "nueve en uno" se usó ampliamente por primera vez en 2014; detrás están cuatro reorganizaciones geográficas urbanas — 1967 ascenso de Taipéi y Kaohsiung, 1979 ascenso de Kaohsiung, 2010 ascenso de las cinco metrópolis, 2014 ascenso de Taoyuan — y tres hitos institucionales — 1994 primera elección popular de alcaldes de municipios especiales, 1999 integración de la Ley de Sistemas Locales, 2014 creación del cargo de jefe de distrito indígena de montaña. Ese mismo día se votan nueve cargos — alcalde de municipio especial, concejal de municipio especial, alcalde de condado/ciudad, concejal de condado/ciudad, alcalde de township/ciudad condal, representante de township/ciudad condal, jefe de distrito indígena de montaña, representante de distrito indígena de montaña, jefe de aldea/barrio — que son el resultado acumulado de treinta años de evolución de la autonomía local en Taiwán.'
+title: '¿Qué son las elecciones nueve en uno? Nueve cargos, cuatro ascensos, treinta años de evolución de la autonomía local'
+description: 'Las elecciones nueve en uno son la votación simultánea de nueve cargos públicos locales: alcaldes de municipios especiales, concejales de municipios especiales, alcaldes de condados y ciudades, concejales de condados y ciudades, alcaldes de municipios y ciudades, representantes de municipios y ciudades, alcaldes de distritos indígenas de montaña, representantes de distritos y jefes de aldeas y barrios; todos tienen un mandato de cuatro años. El día de votación de 2026 es el sábado 28 de noviembre, se abre a las 8:00 a.m., el horario de votación se rige por el anuncio de la Comisión Electoral Central. Este formato solo se consolidó en 2014, como resultado de treinta años de acumulación desde la elección popular de alcaldes de municipios especiales y la elevación de Taipéi, Kaohsiung, las cinco metrópolis y Taoyuán.'
 date: 2026-05-27
 category: 'Politics'
 tags:
   [
-    'elecciones nueve en uno',
-    'funcionarios públicos locales',
-    'alcalde de municipio especial',
-    'alcalde de condado/ciudad',
-    'concejal',
-    'jefe de aldea/barrio',
-    'ley de sistemas locales',
-    'elecciones 2026',
+    'Elecciones nueve en uno',
+    'Funcionarios públicos locales',
+    'Alcaldes de municipios especiales',
+    'Alcaldes de condados y ciudades',
+    'Concejales',
+    'Jefes de aldeas y barrios',
+    'Ley de sistema local',
+    'Elecciones 2026',
   ]
 subcategory: '選舉制度'
 author: 'Taiwan.md'
@@ -20,11 +20,17 @@ featured: false
 lastVerified: 2026-05-27
 lastHumanReview: false
 readingTime: 13
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 9,088 曝光 86 點擊（0.95%），查詢「為什麼叫九合一選舉」109、「市長幾年選一次」52 曝光；description 從 228 字升格年份串改成第一句先答九種職位同日投票、任期四年，並放內文已寫的 11 月 28 日投票日'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Politics/九合一選舉是什麼.md'
-sourceCommitSha: 'd7d7c2e30'
+sourceCommitSha: 'be13f0452'
 sourceContentHash: 'sha256:d01e4dc65a504478'
 sourceBodyHash: 'sha256:42ff4d82e10867fc'
-translatedAt: '2026-11-03T20:21:59+08:00'
+translatedAt: '2026-11-19T06:00:40.773514+00:00'
 ---
 
 # ¿Qué son las elecciones nueve en uno?

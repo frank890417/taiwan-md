@@ -28,16 +28,22 @@ imageCredit: 'VSchagow'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Gl%C3%BChwendel_einer_60-Watt-Gl%C3%BChlampe.jpg'
 sporeLinks:
-  [
-    "{'id': 161, 'platform': 'threads', 'date': '2026-07-26', 'url': 'https://www.threads.com/@taiwandotmd/post/DbQXZI_E3Zb'}",
-    "{'id': 162, 'platform': 'x', 'date': '2026-07-26', 'url': 'https://x.com/taiwandotmd/status/2081354251016773702'}",
-  ]
+  - id: 161
+    platform: 'threads'
+    date: '2026-07-26'
+    url: 'https://www.threads.com/@taiwandotmd/post/DbQXZI_E3Zb'
+  - id: 162
+    platform: 'x'
+    date: '2026-07-26'
+    url: 'https://x.com/taiwandotmd/status/2081354251016773702'
 relatedDiary: ['2026-07-26-202803-manual']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Technology/台灣鎢供應鏈.md'
-sourceCommitSha: '1ec0df23'
-sourceContentHash: 'sha256:8cca491527e42676'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:f862d9031f5510e4'
 sourceBodyHash: 'sha256:2a3eeab3f4aa2cb2'
-translatedAt: '2026-07-31T04:48:15+08:00'
+translatedAt: '2026-11-19T04:36:22.258671+00:00'
 ---
 
 # El tungsteno: Taiwán no tiene minas, pero refina el polvo que el mundo necesita; su posición es más frágil de lo que se imagina
@@ -199,11 +205,12 @@ El filamento de tungsteno debe calentarse a más de 2.200 °C para brillar. Esa 
 
 ## Lecturas adicionales
 
-- [Industria de Semiconductores](/es/technology/taiwan-semiconductor-industry) — La posición del tungsteno en los chips pertenece a una pequeña sección de este largo río de 50 años de revolución de materiales
-- [Taiwan Enterprise: TSMC](/es/economy/tsmc) — ¿A dónde fluye finalmente el tungstato de sodio refinado en Pingtung?
-- [Comercio Exterior de Taiwán y la Cadena de Suministro Global](/es/economy/taiwan-foreign-trade-and-global-supply-chain) — La posición a largo plazo de Taiwán como nodo y vacío en la cadena de otros
-- [Electricidad de Taiwán y Semiconductores](/es/technology/taiwan-electricity-and-semiconductors) — Otro recurso insuficiente en la isla, pero que sostiene a la "Montaña Divina Protectora"
-- [Industria de Robots de Taiwán](/es/technology/taiwan-robotics-industry) — La siguiente parada de la agrupación de maquinaria de precisión en la montaña Dada
+- [Mapa de la cadena de suministro](/industry/supply-chain-map/) — Tres cadenas: semiconductores, servidores de IA y tungsteno; un análisis paso a paso de qué empresas están en Taiwán y qué eslabones dependen del extranjero.
+- [Industria de los semiconductores](/es/technology/taiwan-semiconductor-industry) — El lugar que ocupa el tungsteno en los chips: un pequeño fragmento en el largo río de esta revolución de materiales de 50 años.
+- [Empresas taiwanesas: TSMC](/es/economy/tsmc) — Hacia quién fluye finalmente el tungstato de sodio refinado en Pingtung.
+- [Comercio exterior y cadenas de suministro globales de Taiwán](/es/economy/taiwan-foreign-trade-and-global-supply-chain) — La situación a largo plazo de Taiwán, que actúa simultáneamente como nodo y como brecha en las cadenas ajenas.
+- [Electricidad y semiconductores en Taiwán](/es/technology/taiwan-electricity-and-semiconductors) — Otro recurso que escasea en la isla, pero que sostiene al «Dios guardián de la nación».
+- [Industria de la robótica en Taiwán](/es/technology/taiwan-robotics-industry) — La próxima parada del clúster de maquinaria de precisión de Dadushan.
 
 ## Fuentes de imágenes
 
