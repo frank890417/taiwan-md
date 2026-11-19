@@ -161,6 +161,8 @@ export const homeUI = {
     'home.cover.axis.aria':
       'Eras of the eight voices. Pick an era to read its quote.',
     'home.cover.axis.scale': 'Each small tick on the line is 25 years',
+    'home.cover.autoplay.pause': 'Pause the quotes',
+    'home.cover.autoplay.play': 'Play the quotes',
     'home.tools.eyebrow': 'Tools and special sections',
     'home.tools.heading': 'Ready to use',
     'home.tools.lead':
@@ -1803,6 +1805,8 @@ export const homeUI = {
     'home.live.writers': '位寫作者',
     'home.cover.axis.aria': '八句引語的年代，選一個年代看那一句',
     'home.cover.axis.scale': '線上的小刻度，一格 25 年',
+    'home.cover.autoplay.pause': '暫停自動換句',
+    'home.cover.autoplay.play': '繼續自動換句',
     'home.tools.eyebrow': '工具與專區',
     'home.tools.heading': '直接能用的',
     'home.tools.lead': '這幾樣不用先讀文章，打開就能查、能換、能下載。',

@@ -12,6 +12,14 @@
  *     方向鍵移到哪個年代，下面就顯示那一句。八句疊在同一格裡，所以切換時高度
  *     不會跳。
  *
+ * 2026-11-19 哲宇回饋：橫向時間線每 6 秒自動換到下一句（規格 1.4 原本寫「不做
+ * 自動輪播」，這一條由哲宇推翻）。換句只用淡入淡出。下列情況暫停：滑鼠在年代線或
+ * 引語上、鍵盤焦點在這一區、這一區不在畫面裡、分頁在背景。讀者點了某個年代或用
+ * 方向鍵換句，就不再自動換（按鈕變成「繼續」）。時間線旁有一顆暫停／播放鈕
+ * （WCAG 2.2.2）。開啟「減少動態」時不自動換、按鈕也不出現。自動換句時引語區的
+ * aria-live 是 off（不每 6 秒朗讀一次），讀者手動換句後才是 polite。
+ * 直向（手機、沒有 JavaScript）照舊八句全部展開，沒有輪播。
+ *
  * 刻度怎麼畫：八個點是等距的（各語言的年代標籤長短差很多，照真實年份排的話
  * 2013、當代、2026 會疊在一起）。時間的疏密改用兩點之間的小刻度表示，一格
  * 25 年：1584 到 1697 之間有四格，1697 到 1920 年代之間有九格。沒有確切年份的
@@ -172,9 +180,37 @@ const quotes = rawQuotes.map((q, i) => {
       }
     </div>
 
-    <p class="cs-scale">{th('home.cover.axis.scale')}</p>
+    <div class="cs-controls">
+      <button
+        type="button"
+        class="cs-play"
+        hidden
+        aria-pressed="false"
+        data-label-pause={th('home.cover.autoplay.pause')}
+        data-label-play={th('home.cover.autoplay.play')}
+        aria-label={th('home.cover.autoplay.pause')}
+        data-ga-section="cover_story"
+        data-ga-label="autoplay_toggle"
+      >
+        <svg class="cs-play-ring" viewBox="0 0 36 36" aria-hidden="true">
+          <circle class="cs-play-track" cx="18" cy="18" r="16"></circle>
+          <circle class="cs-play-progress" cx="18" cy="18" r="16"></circle>
+        </svg>
+        <svg class="cs-play-glyph" viewBox="0 0 16 16" aria-hidden="true">
+          <g class="cs-glyph-pause">
+            <rect x="4" y="3.5" width="2.4" height="9" rx="0.6"></rect>
+            <rect x="9.6" y="3.5" width="2.4" height="9" rx="0.6"></rect>
+          </g>
+          <path
+            class="cs-glyph-play"
+            d="M5 3.4v9.2a.6.6 0 0 0 .9.5l7.3-4.6a.6.6 0 0 0 0-1L5.9 2.9a.6.6 0 0 0-.9.5z"
+          ></path>
+        </svg>
+      </button>
+      <p class="cs-scale">{th('home.cover.axis.scale')}</p>
+    </div>
 
-    <ol class="cs-voices">
+    <ol class="cs-voices" aria-live="off">
       {
         quotes.map((q, i) => (
           <li
@@ -222,7 +258,72 @@ const quotes = rawQuotes.map((q, i) => {
     const voices = Array.from(root.querySelectorAll<HTMLElement>('.cs-voice'));
     if (tabs.length === 0 || tabs.length !== voices.length) return;
     const mq = window.matchMedia(WIDE);
+    const reduce = window.matchMedia('(prefers-reduced-motion: reduce)');
+    const list = root.querySelector<HTMLElement>('.cs-voices');
+    const playBtn = root.querySelector<HTMLButtonElement>('.cs-play');
+    const stage = Array.from(
+      root.querySelectorAll<HTMLElement>('.cs-axis, .cs-voices'),
+    );
     let current = 0;
+
+    // ── 自動換句 ──
+    // stopped：讀者自己選了一句，或按了暫停（按播放可以恢復）。
+    // 其餘四個是暫時的：滑鼠在年代線或引語上、鍵盤焦點在這一區、
+    // 這一區不在畫面裡、分頁在背景。任何一個成立就不計時。
+    const INTERVAL = 6000;
+    let timer = 0;
+    let stopped = false;
+    let hovering = false;
+    let keyboardInside = false;
+    let onScreen = false;
+
+    function canAuto() {
+      return mq.matches && !reduce.matches;
+    }
+    function running() {
+      return (
+        canAuto() &&
+        !stopped &&
+        !hovering &&
+        !keyboardInside &&
+        onScreen &&
+        !document.hidden
+      );
+    }
+    function schedule() {
+      window.clearTimeout(timer);
+      timer = 0;
+      const on = running();
+      root.toggleAttribute('data-autoplaying', on);
+      if (!on) return;
+      // 進度環從頭跑一圈（重新掛上 class 讓 CSS 動畫重來）
+      root.removeAttribute('data-tick');
+      void root.offsetWidth;
+      root.setAttribute('data-tick', '');
+      timer = window.setTimeout(() => {
+        select(current + 1);
+        schedule();
+      }, INTERVAL);
+    }
+    function syncButton() {
+      if (!playBtn) return;
+      playBtn.hidden = !canAuto();
+      playBtn.setAttribute('aria-pressed', stopped ? 'true' : 'false');
+      playBtn.setAttribute(
+        'aria-label',
+        (stopped ? playBtn.dataset.labelPlay : playBtn.dataset.labelPause) ||
+          '',
+      );
+      root.toggleAttribute('data-stopped', stopped);
+      // 自動換句時不朗讀；讀者自己在讀的時候才通報換了哪一句
+      list?.setAttribute('aria-live', stopped || !canAuto() ? 'polite' : 'off');
+    }
+    function stopByReader() {
+      if (stopped) return;
+      stopped = true;
+      syncButton();
+      schedule();
+    }
 
     function select(index: number, focus = false) {
       current = (index + tabs.length) % tabs.length;
@@ -249,10 +350,60 @@ const quotes = rawQuotes.map((q, i) => {
           voice.removeAttribute('aria-labelledby');
         }
       });
+      syncButton();
+      schedule();
     }
 
+    playBtn?.addEventListener('click', () => {
+      stopped = !stopped;
+      if (!stopped) select(current + 1);
+      syncButton();
+      schedule();
+    });
+
+    stage.forEach((el) => {
+      el.addEventListener('pointerenter', (e) => {
+        if (e.pointerType !== 'mouse') return;
+        hovering = true;
+        schedule();
+      });
+      el.addEventListener('pointerleave', (e) => {
+        if (e.pointerType !== 'mouse') return;
+        hovering = false;
+        schedule();
+      });
+    });
+
+    // 只算鍵盤帶進來的焦點（滑鼠按暫停鈕時按鈕也會拿到焦點，那不算）
+    root.addEventListener('focusin', (e) => {
+      const target = e.target as HTMLElement;
+      keyboardInside = target !== playBtn && target.matches(':focus-visible');
+      schedule();
+    });
+    root.addEventListener('focusout', (e) => {
+      if (root.contains(e.relatedTarget as Node | null)) return;
+      keyboardInside = false;
+      schedule();
+    });
+
+    new IntersectionObserver(
+      (entries) => {
+        onScreen = entries.some((entry) => entry.isIntersecting);
+        schedule();
+      },
+      { threshold: 0.35 },
+    ).observe(root);
+    document.addEventListener('visibilitychange', schedule);
+    reduce.addEventListener('change', () => {
+      syncButton();
+      schedule();
+    });
+
     tabs.forEach((tab, i) => {
-      tab.addEventListener('click', () => select(i));
+      tab.addEventListener('click', () => {
+        select(i);
+        stopByReader();
+      });
       tab.addEventListener('pointerenter', (e) => {
         if (e.pointerType === 'mouse') select(i);
       });
@@ -272,12 +423,15 @@ const quotes = rawQuotes.map((q, i) => {
         if (step !== 0) {
           e.preventDefault();
           select(current + step, true);
+          stopByReader();
         } else if (e.key === 'Home') {
           e.preventDefault();
           select(0, true);
+          stopByReader();
         } else if (e.key === 'End') {
           e.preventDefault();
           select(tabs.length - 1, true);
+          stopByReader();
         }
       });
     });
@@ -386,6 +540,10 @@ const quotes = rawQuotes.map((q, i) => {
     color: var(--color-ink-soft);
   }
   .cs-scale {
+    display: none;
+  }
+  /* 暫停／播放鈕與刻度說明那一列：只有橫向時間線用得到 */
+  .cs-controls {
     display: none;
   }
 
@@ -522,19 +680,15 @@ const quotes = rawQuotes.map((q, i) => {
       text-align: center;
       visibility: hidden;
       opacity: 0;
-      transform: translateY(6px);
       transition:
-        opacity 0.3s ease,
-        transform 0.3s ease,
-        visibility 0s linear 0.3s;
+        opacity 0.35s ease,
+        visibility 0s linear 0.35s;
     }
     [data-enhanced] .cs-voice.is-active {
       visibility: visible;
       opacity: 1;
-      transform: none;
       transition:
-        opacity 0.3s ease,
-        transform 0.3s ease,
+        opacity 0.35s ease 0.05s,
         visibility 0s;
     }
     [data-enhanced] .cs-voice::before,
@@ -552,15 +706,103 @@ const quotes = rawQuotes.map((q, i) => {
       margin-block-start: 1rem;
       font-size: 0.88rem;
     }
+    [data-enhanced] .cs-controls {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      margin-block-start: 0.6rem;
+      /* 刻度說明靠尾端，暫停鈕排在它後面、中心對齊最後一個年代點
+         （軸線左右各留 4.5rem，點在那條邊上） */
+      padding-inline: 4.5rem calc(4.5rem - 22px);
+    }
+    [data-enhanced] .cs-play {
+      order: 2;
+    }
     [data-enhanced] .cs-scale {
       display: block;
-      margin: 1.1rem 0 0;
-      padding-inline: 4.5rem;
+      margin-block: 0;
+      margin-inline-start: auto;
       text-align: end;
       font-family: var(--font-interface);
       font-size: 0.72rem;
       letter-spacing: 0.04em;
       color: var(--color-ink-soft);
+    }
+
+    /* 暫停／播放：安靜的小圓鈕，44px 可點範圍，外圈是這一句還剩多久 */
+    .cs-play {
+      position: relative;
+      display: inline-grid;
+      place-items: center;
+      flex: 0 0 auto;
+      width: 44px;
+      height: 44px;
+      border: 0;
+      border-radius: 50%;
+      background: none;
+      padding: 0;
+      color: var(--color-ink-soft);
+      cursor: pointer;
+      transition: color 0.2s ease;
+    }
+    .cs-play[hidden] {
+      display: none;
+    }
+    .cs-play:hover {
+      color: var(--color-ink);
+    }
+    .cs-play-ring {
+      position: absolute;
+      inset: 7px;
+      width: 30px;
+      height: 30px;
+      transform: rotate(-90deg);
+      overflow: visible;
+    }
+    .cs-play-track {
+      fill: none;
+      stroke: var(--home-rule);
+      stroke-width: 1.5;
+    }
+    .cs-play-progress {
+      fill: none;
+      stroke: var(--home-mark);
+      stroke-width: 1.5;
+      stroke-linecap: round;
+      stroke-dasharray: 100.53;
+      stroke-dashoffset: 100.53;
+      opacity: 0;
+    }
+    [data-autoplaying][data-tick] .cs-play-progress {
+      opacity: 1;
+      animation: cs-countdown 6s linear forwards;
+    }
+    @keyframes cs-countdown {
+      from {
+        stroke-dashoffset: 100.53;
+      }
+      to {
+        stroke-dashoffset: 0;
+      }
+    }
+    .cs-play-glyph {
+      position: relative;
+      width: 12px;
+      height: 12px;
+      fill: currentColor;
+    }
+    .cs-glyph-play {
+      display: none;
+    }
+    [data-stopped] .cs-glyph-pause {
+      display: none;
+    }
+    [data-stopped] .cs-glyph-play {
+      display: inline;
+    }
+    /* 播放三角形在阿拉伯文版也朝「下一句」的方向 */
+    :global([dir='rtl']) .cs-play-glyph {
+      transform: scaleX(-1);
     }
   }
 </style>
