@@ -24,10 +24,10 @@ rationale:
   where_it_hedges: '114 年度與 115 年度的編列、刪減、三讀日期採中央社報導；國防經費的組成與 115 年度編列數採行政院主計總處的預算案簡報；114 年度決算數採行政院主計總處的總決算報告。決算報告的「預算數」與立法院三讀的法定數不同，文中並列而不代為調和。'
   whos_pushing_back: '認為在野黨刪減是履行監督職責的讀者；認為預算被刪到影響施政的讀者；以及認為這篇仍迴避了「刪得對不對」這個價值判斷的讀者。'
 translatedFrom: 'Politics/中央政府總預算.md'
-sourceCommitSha: '3cde84550'
-sourceContentHash: 'sha256:1043cee6548e861b'
-sourceBodyHash: 'sha256:aeec9cd01b2c05ff'
-translatedAt: '2026-10-21T00:46:51+08:00'
+sourceCommitSha: 'f024e87e7'
+sourceContentHash: 'sha256:8536bdbfcd25d3aa'
+sourceBodyHash: 'sha256:8a6346928cbffe9c'
+translatedAt: '2026-11-19T09:49:41.638869+00:00'
 ---
 
 # Anggaran Pusat Pemerintah: Bagaimana Tiga Triliun Dibagi, Di Mana Legislatif Memotong
@@ -105,20 +105,21 @@ Penyelesaian pengeluaran tahun 114 NT$2,934 triliun, dibandingkan dengan angka a
 
 Serangkaian angka ini menjelaskan satu hal: anggaran dipotong, tidak berarti uang pasti dihabiskan lebih sedikit; anggaran ditetapkan lebih banyak, juga tidak berarti uang pasti dihabiskan habis. Pemotongan terjadi pada tahap peninjauan, tingkat pelaksanaan terjadi pada tahap penyelesaian, keduanya adalah pertanyaan yang berbeda.
 
-## Empat Metrik, Empat Pertanyaan
+## Empat Perspektif, Empat Pertanyaan
 
-Mengumpulkan beberapa bagian di atas, membaca anggaran pusat pemerintah setidaknya harus membedakan empat metrik.
+Jika merangkum paragraf-paragraf di atas, setidaknya Anda harus membedakan empat perspektif saat membaca anggaran umum pemerintah pusat.
 
-Angka penetapan menanyakan "berapa banyak yang diinginkan Dewan Eksekutif", angka penetapan hukum menanyakan "berapa banyak yang diberikan Legislatif", angka penyelesaian menanyakan "berapa banyak yang akhirnya dihabiskan", anggaran khusus menanyakan "uang mana yang tidak dalam anggaran pusat". Keempat angka dapat menjadi "tiga triliun", tetapi tidak ada satu pun yang dapat sendiri menjawab "pemerintah mengeluarkan terlalu banyak atau terlalu sedikit".
+Angka penyusunan menanyakan "berapa banyak yang diinginkan Dewan Eksekutif", angka hukum menanyakan "berapa banyak yang diberikan oleh Legislatif", angka realisasi menanyakan "berapa banyak yang akhirnya dibelanjakan", dan anggaran khusus menanyakan "uang mana saja yang tidak termasuk dalam anggaran umum". Keempat angka tersebut bisa saja sama-sama berjumlah "3 triliun", namun tidak ada satu pun yang dapat menjawab secara mandiri apakah "pemerintah membelanjakan terlalu banyak atau terlalu sedikit".
 
-Ini juga alasan mengapa berita anggaran tahunan mudah tidak menjadi perdebatan: satu pihak mengeluarkan pertahanan NT$949,5 miliar, pihak lain mengeluarkan pertahanan NT$697,3 miliar, kedua belah pihak tidak salah, hanya saja tidak ada orang yang berbicara pada metrik yang sama.
+Inilah alasan mengapa berita anggaran setiap tahunnya sering kali berakhir tanpa kesimpulan: satu pihak menyodorkan angka pertahanan sebesar NT$949,5 miliar, sementara pihak lain menyodorkan angka pertahanan sebesar NT$697,3 miliar. Kedua belah pihak tidak ada yang salah; mereka hanya tidak sedang berdialog dalam perspektif yang sama.
 
 **Bacaan Lanjutan**:
 
-- [Anggaran Pusat Sepuluh Tahun](/budget) — Grafik interaktif catatan penghapusan menurut lembaga, kategori kebijakan, dan pembekuan selama bertahun-tahun, halaman data saudara artikel ini
-- [Pertahanan dan Modernisasi Militer Taiwan](/id/society/taiwan-defense-modernization) — Di balik anggaran pertahanan adalah pembangunan militer dan pengadaan
-- [Mekanisme Harga Minyak Taiwan dan Taiwan Power Company](/id/economy/taiwan-fuel-pricing-and-cpc) — Mekanisme harga lain yang ditentukan oleh formula hukum dan komite peninjauan
-- [Badan Promosi Konten Budaya](/id/economy/taiwan-creative-content-agency) — Kasus anggaran budaya dan korporatisasi
+- [Anggaran Umum Sepuluh Tahun](/budget) — Grafik interaktif mengenai catatan pemotongan dan pembekuan anggaran berdasarkan instansi dan urusan pemerintahan dari tahun ke tahun, halaman data pendamping artikel ini
+- [Gaji, Pajak, dan Pensiun](/income/) — Sisi lain dari anggaran: bagaimana pajak dihitung dari sebuah gaji, dilengkapi dengan simulasi pajak penghasilan
+- [Pertahanan Taiwan dan Modernisasi Militer](/id/society/taiwan-defense-modernization) — Pembangunan militer dan pengadaan di balik anggaran pertahanan
+- [Mekanisme Harga Minyak Taiwan dan CPC](/id/economy/taiwan-fuel-pricing-and-cpc) — Mekanisme harga lain yang ditentukan oleh formula hukum dan dewan peninjau
+- [Taiwan Creative Content Agency](/id/economy/taiwan-creative-content-agency) — Kasus anggaran budaya dan badan hukum mandiri
 
 ## Referensi
 

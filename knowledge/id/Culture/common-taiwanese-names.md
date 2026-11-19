@@ -23,16 +23,18 @@ readingTime: 6
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'Culture/菜市場名.md'
-sourceCommitSha: '22286539e'
-sourceContentHash: 'sha256:4f24d54138c9fd30'
-sourceBodyHash: 'sha256:e1adcb11fb9e8afa'
-translatedAt: '2026-11-05T05:44:16.850558+00:00'
+sourceCommitSha: 'f024e87e7'
+sourceContentHash: 'sha256:b43b81907a3c86ea'
+sourceBodyHash: 'sha256:cf68717b49d8561a'
+translatedAt: '2026-11-19T10:10:28.580574+00:00'
 ---
 
 # Nama Pasar Tradisional
 
-> **Ringkasan 30 Detik:**
-> "Nama pasar tradisional" merujuk pada nama-nama yang jika dipanggil di pasar tradisional, akan membuat tak terhitung jumlah orang menoleh sekaligus. Ini bukan lelucon, berdasarkan statistik terbaru Kementerian Dalam Negeri tahun 2024, "Shu-fen" di seluruh Taiwan berjumlah lebih dari 30 ribu orang, sedangkan "Chia-hao" berjumlah lebih dari 14 ribu orang, masing-masing menduduki peringkat pertama dan kedua nama pasar tradisional untuk wanita dan pria selama lebih dari sepuluh tahun.[^1] Nama-nama ini mencerminkan bukan kemalasan orang tua, melainkan konsensus kolektif masyarakat Taiwan di era yang berbeda tentang "apa itu nama yang baik".
+> **Ringkasan 30 Detik：**
+> «Nama Pasar Tradisional» merujuk pada nama-nama yang jika dipanggil keras di pasar tradisional, akan membuat tak terhitung jumlah orang menoleh sekaligus. Ini bukan lelucon, berdasarkan statistik terbaru Kementerian Dalam Negeri tahun 2024, «Shu-fen» (淑芬) di seluruh Taiwan ada lebih dari 30 ribu orang, «Chia-hao» (家豪)则有 lebih dari 14 ribu orang, mereka berturut-turut menduduki peringkat satu dan dua nama pasar tradisional wanita dan pria selama lebih dari sepuluh tahun.[^1] Nama-nama ini mencerminkan bukan kemalasan orang tua, melainkan konsensus kolektif masyarakat Taiwan di era yang berbeda mengenai «apa yang disebut nama yang baik».
+
+> **Ingin melihat gambaran utuhnya?** Di mana letak nama marga, mengapa satu nama marga yang sama memiliki empat cara ejaan, bagaimana nama orang asli Taiwan ditulis, semuanya terkumpul dalam topik khusus [«Nama Orang Taiwan»](/names/); untuk mengeja nama berbahasa Tionghoa menjadi format paspor, dapat menggunakan [Alat Pinyin Nama](/names/name-romanization/).
 
 ---
 
@@ -97,13 +99,12 @@ Nama pasar tradisional tidak memalukan, ia adalah bukti kita pernah hidup bersam
 
 ---
 
-## Bacaan Lanjutan
+## Bacaan Lebih Lanjut
 
-- [Analisis Statistik Nama Nasional Kementerian Dalam Negeri (Versi Terbaru 2023)](https://www.ris.gov.tw) — Data besar nama paling resmi Taiwan.
-- [「Cheng-en」Juara, 「I-chun」Mati: Teksologi Nama Pasar Tradisional (Readmoo)](https://news.readmoo.com/2017/12/07/taiwanese-names/) — Analisis mendalam makna budaya pemilihan karakter generasi berbeda.
+- [Nama Orang Taiwan (Khusus)](/names/) — Marga, generasi, pinyin, dan nama bahasa suku divisualisasikan dalam grafik, dilengkapi alat pinyin nama.
+- [Analisis Statistik Nama Nasional Kementerian Dalam Negeri (Versi 2023 Terbaru)](https://www.ris.gov.tw) — Data besar nama paling berwenang Taiwan.
+- [「Cheng-en」Juara, 「Yi-chun」Mati: Teksologi Nama Pasar Tradisional (Readmoo)](https://news.readmoo.com/2017/12/07/taiwanese-names/) — Analisis mendalam makna budaya pemilihan karakter di era berbeda.
 - [Kacau Balau Salmon: Penelitian Fenomena Ganti Nama Taiwan (Wikipedia)](https://zh.wikipedia.org/zh-tw/%E9%AE%AD%E9%AD%9A%E4%B9%8B%E4%BA%82) — Mencatat gelombang ganti nama 2021 yang menggemparkan dunia.
-
----
 
 ## Referensi
 
