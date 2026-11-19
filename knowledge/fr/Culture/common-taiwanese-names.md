@@ -23,16 +23,18 @@ readingTime: 6
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'Culture/菜市場名.md'
-sourceCommitSha: '22286539e'
-sourceContentHash: 'sha256:4f24d54138c9fd30'
-sourceBodyHash: 'sha256:e1adcb11fb9e8afa'
-translatedAt: '2026-11-05T16:47:23+08:00'
+sourceCommitSha: 'f024e87e7'
+sourceContentHash: 'sha256:b43b81907a3c86ea'
+sourceBodyHash: 'sha256:cf68717b49d8561a'
+translatedAt: '2026-11-19T10:01:15.922339+00:00'
 ---
 
-# Noms de marché
+# Les noms de marché
 
 > **Aperçu en 30 secondes :**
-> Les « noms de marché » désignent ces noms qui, criés dans un marché, font se retourner d'innombrables personnes simultanément. Ce n'est pas une plaisanterie : selon les dernières statistiques du Ministère de l'Intérieur datant de 2024, « Shu-fen » (淑芬) compte plus de 30 000 porteurs à Taïwan, tandis que « Chia-hao » (家豪) en compte plus de 14 000 ; ils occupent respectivement la première et la deuxième place des noms de marché masculins et féminins depuis plus de dix ans.[^1] Ces noms ne reflètent pas la paresse des parents, mais bien le consensus collectif de la société taïwanaise, à différentes époques, sur ce qui constitue un « bon nom ».
+> L'expression « nom de marché » (菜市場名, _càishìchǎng míng_) désigne ces prénoms que, si vous criiez dans un marché, feraient se retourner un nombre incalculable de personnes simultanément. Ce n'est pas une plaisanterie : selon les dernières statistiques de 2024 du ministère de l'Intérieur, plus de 30 000 personnes à Taïwan s'appellent « Shu-fen » (淑芬) et plus de 14 000 se nomment « Chia-hao » (家豪). Ils occupent respectivement les première et deuxième places des prénoms les plus courants pour les femmes et les hommes depuis plus de dix ans. [^1] Ces noms ne reflètent pas la paresse des parents, mais plutôt le consensus collectif de la société taïwanaise sur ce qui constitue un « bon prénom » à différentes époques.
+
+> **Pour une vue d'ensemble :** Où placer le nom de famille, pourquoi un même nom peut-il avoir quatre orthographes différentes ou comment s'écrivent les noms des peuples autochtones ? Retrouvez tout cela dans le dossier spécial [« Les noms des Taïwanais »](/names/). Pour transcrire un nom chinois selon la graphie utilisée sur un passeport, vous pouvez utiliser cet [outil de pinyin pour les noms](/names/name-romanization/).
 
 ---
 
@@ -99,9 +101,10 @@ Les noms de marché n'ont rien d'honteux, ils sont la preuve que nous avons véc
 
 ## Lectures complémentaires
 
-- [Analyse statistique des noms nationaux par le Ministère de l'Intérieur (version 2023 la plus récente)](https://www.ris.gov.tw) — Les mégadonnées officielles les plus autorisées sur les noms à Taïwan.
-- [« Ch'eng-en » remporte la couronne, « I-chün » retombe : la philologie des noms de marché (Readmoo)](https://news.readmoo.com/2017/12/07/taiwanese-names/) — Analyse approfondie de la signification culturelle du choix des caractères selon les générations.
-- [L'affaire du saumon : étude sur le phénomène du changement de nom à Taïwan (Wikipédia)](https://zh.wikipedia.org/zh-tw/%E9%AE%AD%E9%AD%9A%E4%B9%8B%E4%BA%82) — Relation de la vague de changements de noms qui a secoué le monde en 2021.
+- [Les noms des Taïwanais (Dossier spécial)](/names/) — Les noms de famille, les générations, la romanisation et les noms en langues autochtones illustrés sous forme de graphiques, avec un outil de transcription des noms.
+- [Analyse statistique des noms nationaux (dernière version 2023)](https://www.ris.gov.tw) — Les données statistiques les plus faisant autorité à Taïwan concernant les noms.
+- [« Ch'eng-en » au sommet, « Yi-chun » en déclin : la philologie des noms de marché (Readmoo)](https://news.readmoo.com/2017/12/07/taiwanese-names/) — Une analyse approfondie de la signification culturelle du choix des caractères selon les époques.
+- [L'affaire du saumon : étude du phénomène de changement de nom à Taïwan (Wikipédia)](https://zh.wikipedia.org/zh-tw/%E9%AE%AD%E9%AD%9A%E4%B9%8B%E4%BA%82) — Un compte rendu de cette vague de changements de noms qui a marqué le monde en 2021.
 
 ---
 

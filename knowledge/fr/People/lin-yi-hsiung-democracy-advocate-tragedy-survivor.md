@@ -1,26 +1,28 @@
 ---
-title: 'Lin Yi-hsiung : du conseiller provincial taïwanais au symbole moral du mouvement antinucléaire'
-description: "Lin Yi-hsiung est né en 1941 à Yilan. Diplômé en droit de l'Université nationale de Taïwan (NTU), il exerce comme avocat. En 1977, il est élu conseiller provincial de Taïwan. En 1979, il rejoint le magazine *Formosa*. Le 28 février 1980, le massacre de la maison Lin (林宅血案) tue sa mère et ses deux filles jumelles ; l'affaire n'a jamais été élucidée. Sorti de prison en 1984, il obtient un MPA à la Harvard Kennedy School. Le 7 juin 1998, il est élu huitième président du Parti démocrate progressiste (DPP), premier président élu au suffrage direct. Le 24 janvier 2006, il quitte le DPP. En 2014, une grève de la faim illimitée conduit à l'arrêt et au scellement de la centrale nucléaire de Lungmen (核四). Il fonde la fondation Tzulin pour l'éducation civique (慈林教育基金會). C'est l'une des figures morales les plus marquantes du mouvement démocratique taïwanais. En 2026, il est toujours en vie à 84 ans."
+title: 'Lin Yi-hsiung : de conseiller provincial de Taïwan à symbole moral du mouvement anti-nucléaire'
+description: "Né en 1941 à Yilan, Lin Yi-hsiung est un avocat diplômé de la faculté de droit de l'Université nationale de Taïwan. Élu conseiller provincial de Taïwan en 1977, il rejoint le magazine « Formosa » en 1979. Le 28 février 1980, lors du massacre de sa résidence, sa mère et ses deux filles jumelles sont assassinées, un crime jamais résolu à ce jour. Après sa sortie de prison en 1984, il obtient un MPA à la Harvard Kennedy School. Le 7 juin 1998, il est élu huitième président du Parti démocratique progressiste (le premier président élu au suffrage direct). Il quitte le DPP le 24 janvier 2006. En 2014, sa grève de la faim à durée indéterminée a conduit à l'arrêt et à la mise en veille de la centrale nucléaire de quatrième unité. Fondateur de la Fondation éducative Ci-Lin, il est l'une des figures les plus respectées moralement du mouvement démocratique taïwanais. En 2026, il est âgé de 84 ans et est toujours en vie."
 date: 2026-03-19
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '政治與民主'
 tags:
   [
-    'Mouvement démocratique',
-    'Massacre de la maison Lin',
-    'Mouvement antinucléaire',
-    'Victime politique',
-    "Fondation Tzulin pour l'éducation civique",
+    'mouvement démocratique',
+    'massacre de la résidence Lin',
+    'mouvement anti-nucléaire',
+    'victime politique',
+    'Fondation éducative Ci-Lin',
   ]
+subcategory: '政治與民主'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-13
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'People/林義雄.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:3847058fd0c4df1f'
+sourceCommitSha: '22286539e'
+sourceContentHash: 'sha256:41769610b3ca612a'
 sourceBodyHash: 'sha256:d277949bee5011bb'
-translatedAt: '2026-05-16T05:07:56+08:00'
+translatedAt: '2026-11-19T09:48:48.346284+00:00'
 ---
 
 # Lin Yi-hsiung : du conseiller provincial taïwanais au symbole moral du mouvement antinucléaire
@@ -75,19 +77,19 @@ Les jugements sur sa personne restent partagés : ses partisans le considèrent 
 
 ## Références
 
-[^1]: [Lin Yi-hsiung — Wikipédia](https://zh.wikipedia.org/wiki/%E6%9E%97%E7%BE%A9%E9%9B%84) — Aperçu biographique, mandat de conseiller provincial en 1977, huitième président du DPP (premier élu au suffrage direct) en 1998, diplôme MPA de Harvard en 1987. Voir aussi le [Taiwan FactCheck Center : rectification sur le départ de Lin Yi-hsiung du DPP en 2006](https://tfc-taiwan.org.tw/fact-check-reports/lin-yihsiung-left-dpp-in-2006-unrelated-to-recall-campaign/).
+[^1]: [Lin Yi-hsiung — Wikipédia](https://zh.wikipedia.org/wiki/%E6%9E%97%E7%BE%A9%E9%9B%84) — Aperçu de sa vie, membre de l'assemblée provinciale de Taïwan en 1977, premier président du DPP élu au suffrage direct lors de la 8e législature en 1998, et record de MPA à Harvard en 1987. Voir aussi [Taiwan FactCheck Center : Rumeurs sur le départ de Lin Yi-hsiung du parti en 2006](https://tfc-taiwan.org.tw/fact-check-reports/lin-yihsiung-left-dpp-in-2006-unrelated-to-recall-campaign/).
 
-[^2]: [Incident de Kaohsiung — Musée national des droits humains](https://www.nhrm.gov.tw/) — Chronologie de l'incident de Kaohsiung en 1979, liste des personnes arrêtées et documents du procès militaire.
+[^2]: [Incident de Formose — Musée national des droits de l'homme](https://www.nhrm.gov.tw/) — Déroulement de l'incident de Formose en 1979, liste des personnes arrêtées et documents sur le tribunal militaire.
 
-[^3]: [Massacre de la maison Lin — Musée national des droits humains](https://www.nhrm.gov.tw/w/nhrm/home) — Archives de l'affaire du massacre de la maison Lin et état des lieux de l'enquête non résolue.
+[^3]: [Affaire du meurtre de la résidence Lin — Musée national des droits de l'homme](https://www.nhrm.gov.tw/w/nhrm/home) — Archives de l'affaire du meurtre de la résidence Lin et explications sur l'état actuel de l'enquête non résolue.
 
-[^4]: [Histoire du Parti démocrate progressiste — Site officiel du DPP](https://www.dpp.org.tw/) — Historique de la fondation du parti et archives de la période de présidence de Lin Yi-hsiung (1998-2000). Voir aussi [Taipei Times: Former DPP chairman leaves party (2006/1/25)](https://www.taipeitimes.com/News/front/archives/2006/01/25/2003290603) pour le récit du départ du 24 janvier 2006.
+[^4]: [Histoire du Parti démocratique progressiste — Site officiel du DPP](https://www.dpp.org.tw/) — Processus de fondation du parti et registres des affaires du parti durant le mandat de Lin Yi-hsiung en tant que président de 1998 à 2000. Voir aussi [Taipei Times: Former DPP chairman leaves party (2006/1/25)](https://www.taipeitimes.com/News/front/archives/2006/01/25/2003290603) relatant les circonstances de son départ du parti le 24/01/2006.
 
-[^5]: [Site officiel de la fondation Tzulin pour l'éducation civique](https://www.tzlin.org.tw/) — Mission de la fondation, présentation du campus Tzulin et informations sur les activités.
+[^5]: [Site officiel de la Fondation éducative Ci-Lin](https://www.tzlin.org.tw/) — Mission de la fondation, présentation du campus Ci-Lin et informations sur les activités.
 
-[^6]: [Couverture de la grève de la fumi antinucléaire de 2014 — Liberty Times](https://news.ltn.com.tw/) — Chronologie de l'action de grève de la faim de Lin Yi-hsiung en avril 2014 et décision d'arrêt et de scellement de la centrale de Lungmen.
+[^6]: [Reportage sur la grève de la faim contre le projet de centrale nucléaire n°4 en 2014 — Liberty Times](https://news.ltn.com.tw/) — Confirmation du déroulement de l'action de grève de la faim de Lin Yi-hsiung en avril 2014 et de la décision d'arrêt et de scellage des travaux de la centrale nucléaire n°4.
 
-[^7]: [Documents sur le mouvement antinucléaire — Alliance citoyenne pour l'action verte](https://gcaa.org.tw/) — Contexte historique du mouvement antinucléaire taïwanais et rôle de Lin Yi-hsiung.
+[^7]: [Documents historiques sur le mouvement anti-nucléaire — Green Citizen Action League](https://gcaa.org.tw/) — Contexte historique du mouvement anti-nucléaire à Taïwan et enregistrement du rôle de Lin Yi-hsiung.
 
 ## Pour aller plus loin
 

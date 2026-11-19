@@ -17,24 +17,26 @@ featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/社區大學黃武雄.md'
-sourceCommitSha: '097c838b2'
-sourceContentHash: 'sha256:ee2c6b428739de29'
-sourceBodyHash: 'sha256:56a4506a2e90295b'
-translatedAt: '2026-09-11T11:32:10+08:00'
+sourceCommitSha: '520de49a5'
+sourceContentHash: 'sha256:cb4d53517588093c'
+sourceBodyHash: 'sha256:054bab1a9a4fb1c2'
+translatedAt: '2026-11-19T09:33:22.263607+00:00'
 ---
 
-# Huang Wu-xiong et les universités communautaires taïwanaises : intégrer la démocratie au-delà du scrutin dans les salles de classe
+# Huang Wu-xiong et les universités communautaires de Taïwan : faire entrer la démocratie au-delà du bulletin de vote dans la salle de classe
 
-> **En bref (30 secondes) :** En 1994, Huang Wu-xiong propose l'idée d'universités communautaires accessibles à tous. En 1998, la première université communautaire de Taïwan est fondée dans le district de Wenshan, à Taipei. Cet article retrace comment un mouvement éducatif, qui visait initialement à intégrer l'apprentissage des adultes dans la vie publique, est devenu, à travers les cours, les clubs, la recherche locale et le cadre juridique, une pratique quotidienne de la société civile taïwanaise.
+> **Aperçu en 30 secondes :** En 1994, Huang Wu-xiong propose l'idée d'universités communautaires accessibles à tous. En 1998, la première université communautaire de Taïwan est établie dans le district de Wenshan à Taipei. Cet article retrace comment un mouvement éducatif visant à introduire l'apprentissage des adultes dans la vie publique est devenu, par le biais de cours, d'associations, de recherches locales et de cadres juridiques, une pratique quotidienne de la société civile taïwanaise.
 
-En 1994, Huang Wu-xiong, professeur de mathématiques à l'Université nationale de Taïwan, propose l'idée d'universités communautaires populaires. En 1998, la première université communautaire de Taïwan voit le jour dans le district de Wenshan, à Taipei. Le 20 septembre 1999, l'Université communautaire de Yonghe tient sa cérémonie de fondation au collège Fuhé, Huang Wu-xiong en étant le directeur fondateur. [^1] [^2]
+En 1994, le professeur de mathématiques de l'Université nationale de Taïwan, Huang Wu-xiong, propose le concept d'universités communautaires accessibles à tous. En 1998, la première université communautaire de Taïwan est fondée dans le district de Wenshan à Taipei. Le 20 septembre 1999, l'Université communautaire de Yonghe tient sa cérémonie d'inauguration au collège Fuhe, avec Huang Wu-xiong comme directeur fondateur. [^1] [^2]
 
-Ces trois années ressemblent à une chronologie du système éducatif, mais la véritable question ne réside pas dans « le nombre d'universités communautaires à Taïwan ». La question est la suivante : pourquoi une école sans seuil de diplôme et dont l'objectif principal n'est pas la poursuite d'études supérieures intègre-t-elle ses cours dans les rivières, les vieilles rues, les journaux communautaires et les questions locales ?
+Ces trois dates ressemblent à une chronologie du système éducatif, mais la vraie question n'est pas « combien d'universités communautaires compte Taïwan ? ». La question est : pourquoi une école sans condition de diplôme et dont le but principal n'est pas la poursuite d'études supérieures emmène-t-elle ses cours dans les rivières, les vieilles rues, les journaux communautaires et les enjeux locaux ?
 
-La réponse de Huang Wu-xiong est directe. Il ne conçoit pas les universités communautaires comme des universités moins chères, ni comme un tremplin vers les universités traditionnelles. Il cherche à combler un autre vide apparu après la levée de la loi martiale : les citoyens ont le droit de vote, mais ne disposent pas nécessairement d'une expérience suffisante de débat public pour traiter ensemble les problèmes de leur quotidien. [^3]
+La réponse de Huang Wu-xiong est directe. Il ne conçoit pas les universités communautaires comme des universités moins chères, ni comme un tremplin vers les universités classiques. Il veut combler un autre vide laissé par la levée de la loi martiale : le peuple a obtenu le droit de vote, mais pas nécessairement l'expérience suffisante du débat public pour gérer collectivement les problèmes de son quotidien. [^3]
 
-> **📝 Note du curateur :** La caractéristique la plus contre-intuitive des universités communautaires est qu'elles ressemblent à des écoles, mais transforment en réalité la question « une école doit-elle seulement enseigner ? » en un problème démocratique.
+> **📝 Note du curateur :** Ce qui est le plus contre-intuitif avec les universités communautaires, c'est qu'elles ressemblent à des écoles, mais transforment en réalité la question « une école doit-elle seulement donner des cours ? » en un problème démocratique.
 
 ## Une école, commence par définir ce qu'elle n'est pas
 
@@ -60,26 +62,26 @@ L'autoprésentation de l'Université communautaire de Yonghe fournit un autre ex
 
 > **📝 Note du curateur :** Lorsqu'un cours commence à mesurer les rivières, à consulter les gazette locales et à demander aux résidents comment ils vivent, l'école n'est plus seulement un bâtiment « fournissant des services », mais devient un outil de réflexion commune pour la communauté.
 
-## La véritable préoccupation de Huang Wu-xiong n'est pas le manque d'étudiants
+## Ce qui inquiète vraiment Huang Wu-hsiung, ce n'est pas l'absence d'élèves
 
-Dans les articles publiés dans le bulletin de l'Université communautaire de Wenshan, Huang Wu-xiong situe les universités communautaires dans le contexte social de l'après-levée de la loi martiale en 1987. Il estime que la démocratisation a apporté la liberté et l'espace d'association, mais que les problèmes laissés par une longue période de régime autoritaire émergeront progressivement. Pour lui, l'apprentissage social et la démocratisation doivent avancer de pair, sinon le bulletin de vote ne se transformera pas automatiquement en jugement public. [^3]
+Dans un article publié par l'université communautaire de Wenshan, Huang Wu-hsiung replace l'université communautaire dans le contexte social qui a suivi la levée de la loi martiale en 1987. Selon lui, la démocratisation a apporté la liberté et un espace d'association, mais les problèmes laissés par un long régime autoritaire refont également surface. Pour lui, l'apprentissage social et la démocratisation doivent aller de pair, sinon les bulletins de vote ne se transforment pas automatiquement en discernement public.[^3]
 
-Il s'agit d'une affirmation forte, qui ne constitue pas une conclusion historique que tout le monde doit accepter. Sa valeur réside dans le fait qu'elle ramène l'« éducation » du langage de la promotion individuelle à la vie citoyenne : comment les gens comprennent les questions publiques, comment ils discutent avec des personnes aux positions différentes, comment ils organisent des actions lorsque les politiciens ne parlent pas pour eux.
+C'est une affirmation fortement marquée, pas une conclusion historique que tout le monde doit accepter. Sa valeur réside dans le fait de ramener l'« éducation » du langage de la promotion personnelle vers la vie civique : comment comprendre les enjeux publics, comment discuter avec des personnes d'opinions différentes, comment organiser l'action quand aucun homme politique ne parle pour vous.
 
-En 2006, l'article académique de Cai Hung-cheng a synthétisé cette idée en « libérer les connaissances, faire naître la société civile ». L'article indique que les fondements philosophiques des universités communautaires incluent la distinction entre « connaissances en kit » et « connaissances empiriques », et affinent cette distinction en utilisant la connaissance tacite, discutant des problèmes pratiques auxquels l'université communautaire, en tant que mouvement d'illumination culturelle, est confrontée. Il s'agit de l'analyse des chercheurs, pas d'une citation littérale de Huang Wu-xiong. [^7]
+En 2006, l'article académique de Tsai Hung-cheng structure cette idée en « libérer le savoir, faire naître la société civile ». L'article souligne que les fondements philosophiques de l'université communautaire incluent la distinction entre les « connaissances préemballées » et les « connaissances expérientielles », et affine davantage cette distinction à l'aide des « connaissances tacites », en discutant des problèmes concrets auxquels l'université communautaire fait face en tant que mouvement d'éveil culturel. Il s'agit de l'analyse du chercheur, pas d'une citation textuelle de Huang Wu-hsiung.[^7]
 
-Cet avertissement est important. L'histoire des universités communautaires ne peut pas être écrite uniquement comme une victoire de l'idéalisme. Pour maintenir la nature publique des cours, une collaboration à long terme entre enseignants, personnel administratif, apprenants et organisations locales est nécessaire. La quantité de ressources, la division du travail organisationnelle, les modes de délégation gouvernementale et les concepts de gestion scolaire modifieront ce qu'une université communautaire peut faire.
+Ce rappel est important. L'histoire des universités communautaires ne peut pas se réduire à une histoire de triomphe de l'idéalisme. Pour que les cursus conservent leur dimension publique, il faut une collaboration de long terme entre enseignants, personnel administratif, participants et organisations locales. L'abondance ou la rareté des ressources, la division du travail organisationnel, les modes de délégation gouvernementale et la philosophie de gestion de l'école déterminent tous ce qu'une université communautaire peut accomplir.
 
-Une étude de 2013, prenant pour objet trois universités communautaires ayant obtenu l'agrément de l'Association nationale de promotion pour leur « gestion scolaire et participation publique », a identifié trois modèles : le modèle de division du travail professionnel, le modèle d'illumination idéologique et le modèle d'alliance stratégique des OBN. L'étude énumère également différentes méthodes telles que la formation administrative, l'accompagnement des cours, l'accompagnement des clubs, la construction communautaire et les alliances stratégiques. [^8]
+Une étude de 2013 portant sur trois universités communautaires certifiées par l'Association nationale pour la « gestion scolaire et la participation publique » identifie trois modèles : le type à division professionnelle du travail, le type d'éveil de la conscience et le type d'alliance stratégique NPO. L'étude répertorie également diverses méthodes : renforcement des capacités administratives, accompagnement curriculaire, accompagnement des associations, développement communautaire et alliance stratégique.[^8]
 
-| Temps | Tournant                                                                  | Impact de ce tournant                                                                                                                     |
-| ----- | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1994  | Huang Wu-xiong propose l'idée d'universités communautaires populaires     | L'apprentissage communautaire est intégré aux questions de démocratie et de réforme sociale                                               |
-| 1998  | Fondation de l'Université communautaire de Wenshan                        | La première université communautaire taïwanaise commence à transformer l'idéal en gestion scolaire quotidienne                            |
-| 1999  | Ouverture progressive des universités communautaires à Yonghe et ailleurs | Collaboration entre préparation civile et gouvernements locaux, permettant la diffusion du modèle                                         |
-| 2018  | Publication de la Loi sur le développement des universités communautaires | Les universités communautaires obtiennent un statut juridique plus clair, mais font face à de nouvelles exigences d'institutionnalisation |
+| Année | Tournant                                                                       | Ce que ce tournant a changé                                                                                                                     |
+| ----- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1994  | Huang Wu-hsiung propose l'idée d'une université communautaire popularisée      | L'apprentissage communautaire est inscrit dans les enjeux de la démocratie et de la réforme sociale                                             |
+| 1998  | Fondation de l'université communautaire de Wenshan                             | La première université communautaire de Taïwan commence à transformer l'idéal en gestion quotidienne                                            |
+| 1999  | Ouverture successive d'universités communautaires à Yonghe et ailleurs         | La préparation par la société civile et la coopération avec les gouvernements locaux permettent la diffusion du modèle                          |
+| 2018  | Promulgation de la 《Loi sur le développement des universités communautaires》 | Les universités communautaires acquièrent un statut juridique plus clair, mais font aussi face à de nouvelles exigences d'institutionnalisation |
 
-> **📝 Note du curateur :** La difficulté des universités communautaires ne réside pas dans « qui gagnera entre l'idéal et la réalité », mais dans le fait que, dès que l'idéal entre dans le budget, les locaux et l'évaluation, il doit être renégocié chaque jour.
+> **📝 Note du commissaire :** La difficulté des universités communautaires n'est pas de savoir « qui gagnera entre l'idéal et la réalité », mais le fait qu'une fois que l'idéal entre dans le budget, les locaux et l'évaluation, il doit être renégocié chaque jour.
 
 ## Du mouvement civil aux articles de loi
 
@@ -109,11 +111,13 @@ Huang Wu-xiong a écrit dans un article de plaidoyer : « Promouvoir les univers
 
 Image : Ephemeral Days, « Taipei Municipal Wenshan School of Special Education », Wikimedia Commons, CC BY-SA 4.0. Page du fichier image : [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taipei_Municipal_Wenshan_School_of_Special_Education.jpg).
 
-## Pour aller plus loin
+## Lectures complémentaires
 
-[Association des universités communautaires de Taïwan : Base de données des universités communautaires et pratique sociale](https://www.napcu.org.tw/db_list.html)
+[Association nationale pour la promotion des universités communautaires : Base de données des universités communautaires et pratique sociale](https://www.napcu.org.tw/db_list.html)
 
-[Ministère de l'Éducation : Explications relatives à la Loi sur le développement des universités communautaires](https://depart.moe.edu.tw/ed2400/News_Content.aspx?n=15388506A60ACB81&sms=87137EA6056ADFD1&s=12A185F99A60E1F3)
+[Ministère de l'Éducation : Explications relatives à la loi sur le développement des universités communautaires](https://depart.moe.edu.tw/ed2400/News_Content.aspx?n=15388506A60ACB81&sms=87137EA6056ADFD1&s=12A185F99A60E1F3)
+
+[Yang Wei-che : Le professeur de mathématiques ouvre d'abord un cours de taïwanais, le débat ne vient qu'ensuite](/fr/people/yang-wei-cher) — Vieux ami et collègue de Huang Wu-xiong au département de mathématiques de l'Université nationale de Taïwan, tous deux ont rejoint la Fondation commémorative Chen Wen-cheng ; Yang Wei-che a également enseigné les mathématiques en taïwanais à l'Université communautaire de Keelung.
 
 ## Références
 
