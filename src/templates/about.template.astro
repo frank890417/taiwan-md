@@ -4277,9 +4277,9 @@ const today = new Date().toISOString().slice(0, 10);
 
   /* ── 減少動態 ─────────────────────────────────────────────────── */
   @media (prefers-reduced-motion: reduce) {
-    .about-page *,
-    .about-page *::before,
-    .about-page *::after {
+    .about-page :global(*),
+    .about-page :global(*)::before,
+    .about-page :global(*)::after {
       animation: none !important;
       transition: none !important;
       scroll-behavior: auto !important;

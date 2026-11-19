@@ -313,17 +313,17 @@ const sources = [
     gap: 0 var(--space-4);
     margin-block-start: auto;
   }
+  /* 行內區塊：文字換行時箭頭跟著最後一個字；上下留白把觸控區撐到 44px */
   .ab-trust__link {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.35rem;
-    min-block-size: 44px;
+    display: inline-block;
+    align-self: flex-start;
     margin-block-start: auto;
-    padding: 0;
+    padding: 0.75rem 0;
     border: 0;
     font-family: var(--font-interface);
     font-size: 0.875rem;
     font-weight: 600;
+    line-height: 1.4;
     color: var(--ab-brand);
     text-decoration: none;
   }
@@ -333,6 +333,9 @@ const sources = [
   .ab-trust__arrow {
     display: inline-block;
     font-family: var(--font-interface);
+  }
+  .ab-trust__link .ab-trust__arrow {
+    margin-inline-start: 0.3rem;
   }
   :global([dir='rtl']) .ab-trust__arrow {
     scale: -1 1;
