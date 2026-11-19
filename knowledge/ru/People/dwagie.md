@@ -30,11 +30,13 @@ rationale:
   whats_excluded: '未展開完整獎項表、近年補助爭議與每張專輯曲目，保留給後續更完整研究。'
   where_it_hedges: '出生年份、NBA 場館事件與《舌粲蓮花》的全饒舌專輯定位皆採軟化語氣或留在研究筆記。'
   whos_pushing_back: '對大支政治立場或公共發聲有異議的讀者，可能期待更多爭議時間線。'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/大支.md'
-sourceCommitSha: '498649feb'
-sourceContentHash: 'sha256:2e7abe81d37d5763'
-sourceBodyHash: 'sha256:42bdb5d4361f8a68'
-translatedAt: '2026-09-13T05:56:53+08:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:ad16e5b275d77c2c'
+sourceBodyHash: 'sha256:dec7b7071831ec71'
+translatedAt: '2026-11-19T04:54:26.482984+00:00'
 ---
 
 # Дзаги (Dwagie): из тренировочной комнаты в Тяньчжэне — директор тайваньского рэпа на тайваньском диалекте
@@ -153,8 +155,8 @@ _Официальный МВ Дзаги: «Жэнь», в МВ снялся XIV 
 
 ## Источники изображений
 
-- Главное фото Дзаги: Правительство города Цзяи, Wikimedia Commons, лицензия указания имени (заявление об открытии данных правительственного сайта). Оригинальный файл: [Вся страна уникальна Цзяи трёхдневный кросс-イヤ фестиваль сила приглашает золотых колокольчиков двойных ведущих (Дзаги)](<https://commons.wikimedia.org/wiki/File:全國獨嘉三日跨年祭_力邀金鐘雙主持(大支)(cropped).jpg>).
-- Фото выступления МС ХотДог 2012: Цюй Юйфэн, Wikimedia Commons, CC BY-SA 4.0. Оригинальный файл: [2012 Super Slipper](https://commons.wikimedia.org/wiki/File:MC_HotDog_at_2012_Super_Slipper.jpg).
+- Главное фото (Дзаги): Правительство города Цзяи, Wikimedia Commons, лицензия с указанием авторства (декларация об открытых данных правительственных сайтов). Оригинальный файл: [Национальный фестиваль «Уникальная Цзяи» в течение трех дней на Новый год, приглашение ведущих премии «Золотой колокол» (Дзаги)](<https://commons.wikimedia.org/wiki/File:全國獨嘉三日跨年祭_力邀金鐘雙主持(大支)(cropped).jpg>).
+- Фото выступления MC HotDog в 2012 году: Цю Юфэн, Wikimedia Commons, CC BY-SA 4.0. Оригинальный файл: [2012 Super Slipper](https://commons.wikimedia.org/wiki/File:MC_HotDog_at_2012_Super_Slipper.jpg).
 
 ## Ссылки
 
