@@ -4,7 +4,6 @@ import PageHero from '../components/PageHero.astro';
 import ProticoScript from '../components/ProticoScript.astro';
 import SupporterGrid from '../components/SupporterGrid.astro';
 import NewsletterSection from '../components/home/NewsletterSection.astro';
-import AboutChapterNav from '../components/about/AboutChapterNav.astro';
 import AboutBrief from '../components/about/AboutBrief.astro';
 import AboutWhy from '../components/about/AboutWhy.astro';
 import AboutTrust from '../components/about/AboutTrust.astro';
@@ -36,6 +35,9 @@ import vitalsData from '../../public/api/dashboard-vitals.json';
 import organismData from '../../public/api/dashboard-organism.json';
 // 個人支持者人數（收合名單的標題用）；同 SupporterGrid 讀的那一份。
 import supportersData from '../../public/api/about-supporters.json';
+// MonoLab 官方標誌（2026-11-19 哲宇：團隊卡用 MonoLab 的 logo）。行內輸出，
+// 根元素 fill="currentColor"，淺色與深色模式都跟著文字顏色。
+import monolabLogo from '../assets/monolab-logo.svg?raw';
 
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
@@ -114,6 +116,38 @@ const reviewedCount =
       ? _immune.humanReviewedCount
       : Math.round((reviewedPercent / 100) * totalArticles);
 
+// 贊助卡右欄：cta.desc.html 在第一個 <br /> 處分成「短標」與「說明」兩段（文字不變）。
+// 13 語目前都有 <br />（2026-11-19 查過）；萬一以後有語言沒有，整段放說明、短標那一列留空，
+// 三列在樣式裡釘死，按鈕照樣對齊。
+const _ctaParts = t('about.sponsors.cta.desc.html').split(/<br\s*\/?>/i);
+const ctaLead = _ctaParts.length > 1 ? _ctaParts[0].trim() : '';
+const ctaBody = (_ctaParts.length > 1 ? _ctaParts.slice(1) : _ctaParts)
+  .join(' ')
+  .trim();
+
+// 個人支持者（2026-11-19 哲宇：名字要露在外面）。收合前就列出所有「不匿名」的人，
+// 順序跟展開後的 SupporterGrid 一致（依 tier_config 的等級順序，同一級照資料檔順序）；
+// 匿名的只在外面說一句「另有 N 位」，完整名單（含匿名與留言）在展開後。
+// 判斷一律看 anonymous 欄位，不比對名字。
+type _Sup = {
+  display_name: string;
+  anonymous: boolean;
+  tier: { id: string; emoji: string; label: string; label_en: string } | null;
+};
+const _supData = supportersData as {
+  tier_config?: Array<{ id: string }>;
+  supporters?: _Sup[];
+};
+const _supAll = _supData.supporters || [];
+const _tierOrder = (_supData.tier_config || []).map((c) => c.id);
+const namedSupporters = _tierOrder
+  .flatMap((id) => _supAll.filter((x) => x.tier?.id === id))
+  .filter((x) => !x.anonymous && x.display_name);
+const anonSupporterCount = _supAll.filter((x) => x.anonymous).length;
+const supInitial = (name: string) => Array.from(name.trim())[0] || '';
+const supTierLabel = (x: _Sup) =>
+  x.tier ? (lang === 'zh-TW' ? x.tier.label : x.tier.label_en) : '';
+
 const supporterCount =
   (supportersData as { supporter_count?: number }).supporter_count || 0;
 
@@ -129,19 +163,6 @@ const hrefChangelog = tp('/changelog/');
 const hrefGraph = tp('/graph/');
 const hrefSemiont = lang === 'en' ? '/en/semiont/' : '/semiont/';
 const hrefNewsroom = '/semiont/newsroom/';
-
-// 章節錨點（順序＝頁面順序）
-const chapters = [
-  { id: 'brief', label: s('about.nav.brief') },
-  { id: 'naming', label: s('about.nav.naming') },
-  { id: 'team', label: s('about.nav.people') },
-  { id: 'why', label: s('about.nav.why') },
-  { id: 'trust', label: s('about.nav.trust') },
-  { id: 'origin', label: s('about.nav.origin') },
-  { id: 'organism', label: s('about.nav.alive') },
-  { id: 'sponsors', label: s('about.nav.support') },
-  { id: 'faq', label: s('about.nav.faq') },
-];
 
 // 時間軸全部條目（順序＝下面完整時間軸的順序）。milestone: true 的預設顯示成
 // 里程碑卡；其餘只在比例軸上是一條細線。挑選原則：對外看得見的事。
@@ -234,7 +255,9 @@ const today = new Date().toISOString().slice(0, 10);
       />
     </section>
 
-    <AboutChapterNav label={s('about.nav.label')} chapters={chapters} />
+    {
+      /* 章節列（AboutChapterNav）2026-11-19 v2 起不渲染（哲宇：側邊不需要、版面被擠窄）；元件檔保留 */
+    }
 
     {/* 2 三十秒版 */}
     <section id="brief" class="ab-sec ab-sec--brief" data-ga-view="about_brief">
@@ -412,7 +435,18 @@ const today = new Date().toISOString().slice(0, 10);
           </div>
 
           <div class="team-card">
-            <div class="team-icon">{t('about.team.monolab.icon')}</div>
+            {
+              /* MonoLab 官方標誌（src/assets/monolab-logo.svg，填色跟著文字色走） */
+            }
+            <div
+              class="team-icon team-icon--logo"
+              role="img"
+              aria-label="MonoLab"
+              set:html={monolabLogo.replace(
+                '<svg ',
+                '<svg aria-hidden="true" focusable="false" ',
+              )}
+            />
             <h3>{t('about.team.monolab.name')}</h3>
             <p class="team-role">{t('about.team.monolab.role')}</p>
             <div class="team-description">
@@ -1235,7 +1269,45 @@ const today = new Date().toISOString().slice(0, 10);
               {t('about.sponsors.tier.individual.perks')}
             </p>
             {
-              /* 名單預設收合（內容仍在原始碼裡）；沒有名單資料時照舊直接顯示元件的空狀態 */
+              /* 具名支持者直接列在外面；匿名的只說人數 */
+              (namedSupporters.length > 0 || anonSupporterCount > 0) && (
+                <div class="sup-names">
+                  {namedSupporters.length > 0 && (
+                    <ul
+                      class="sup-names__list"
+                      aria-label={s('about.sponsors.supporters.named')}
+                    >
+                      {namedSupporters.map((x) => (
+                        <li class="sup-names__item">
+                          <span class="sup-names__initial" aria-hidden="true">
+                            {supInitial(x.display_name)}
+                          </span>
+                          <span class="sup-names__name" dir="auto">
+                            {x.display_name}
+                          </span>
+                          {x.tier && (
+                            <span class="sup-names__tier" dir="auto">
+                              {x.tier.emoji} {supTierLabel(x)}
+                            </span>
+                          )}
+                        </li>
+                      ))}
+                    </ul>
+                  )}
+                  {anonSupporterCount > 0 && (
+                    <p class="sup-names__anon" dir="auto">
+                      {anonSupporterCount === 1
+                        ? s('about.sponsors.supporters.anon.one')
+                        : s('about.sponsors.supporters.anon', {
+                            count: anonSupporterCount,
+                          })}
+                    </p>
+                  )}
+                </div>
+              )
+            }
+            {
+              /* 完整名單（含匿名與留言）預設收合，內容仍在原始碼裡；沒有名單資料時照舊直接顯示元件的空狀態 */
               supporterCount > 0 ? (
                 <details class="supporters-more">
                   <summary
@@ -1259,11 +1331,19 @@ const today = new Date().toISOString().slice(0, 10);
           </div>
         </div>
 
-        <div class="sponsor-cta">
-          <h3>{t('about.sponsors.cta.title')}</h3>
-          <div class="portaly-donate">
-            <p class="portaly-label">
+        {
+          /* 行動區（2026-11-19 哲宇：按鈕位置與文字排版要整齊）：兩欄同一個結構，
+             短標 → 說明 → 按鈕；三列用 subgrid 對齊，兩顆按鈕在同一條水平線上。
+             文字一字未改：右欄的短標與說明是 cta.desc.html 在 <br /> 處分成兩段。 */
+        }
+        <div class="sponsor-cta scta">
+          <h3 class="scta__title">{t('about.sponsors.cta.title')}</h3>
+          <div class="scta__col">
+            <p class="scta__lead" dir="auto">
               {t('about.sponsors.portaly.label')}
+            </p>
+            <p class="scta__body" dir="auto">
+              {t('about.sponsors.portaly.note')}
             </p>
             <a
               href="https://portaly.cc/taiwanmd/support?utm_source=taiwan.md&utm_medium=about_sponsors&utm_campaign=support"
@@ -1271,19 +1351,20 @@ const today = new Date().toISOString().slice(0, 10);
               rel="noopener noreferrer"
               data-ga-section="about_sponsors"
               data-ga-label="sponsor"
-              class="portaly-link"
+              class="scta__btn scta__btn--primary"
             >
-              {t('about.sponsors.portaly.cta')} →
+              <span dir="auto">{t('about.sponsors.portaly.cta')}</span>
+              <span class="scta__arrow" aria-hidden="true">→</span>
             </a>
-            <p class="portaly-note">{t('about.sponsors.portaly.note')}</p>
           </div>
-          <p set:html={t('about.sponsors.cta.desc.html')} />
-          <div class="sponsor-contact">
+          <div class="scta__col">
+            {ctaLead && <p class="scta__lead" dir="auto" set:html={ctaLead} />}
+            <p class="scta__body" dir="auto" set:html={ctaBody} />
             <a
               href={`mailto:taiwanmd@monoame.com?subject=Taiwan.md 贊助合作詢問`}
-              class="btn btn-primary"
+              class="scta__btn scta__btn--secondary"
             >
-              {t('about.sponsors.cta.contact')}
+              <span dir="auto">{t('about.sponsors.cta.contact')}</span>
             </a>
           </div>
         </div>
@@ -3173,11 +3254,8 @@ const today = new Date().toISOString().slice(0, 10);
     --ab-inner-pad: var(--space-5);
   }
 
-  /* 錨點跳轉：站頭的高度全站已經用 scroll-padding-top 讓開了，
-     這裡只再讓出貼在站頭下面的那一排章節列 */
-  .about-page :is(section[id], div[id], details[id]) {
-    scroll-margin-block-start: 3.25rem;
-  }
+  /* 錨點跳轉：站頭的高度全站已經用 scroll-padding-top 讓開了；
+     章節列不再渲染，這裡不用再多讓 */
 
   /* ── 區塊節奏 ─────────────────────────────────────────────────── */
   .ab-sec {
@@ -3355,6 +3433,19 @@ const today = new Date().toISOString().slice(0, 10);
     margin: 0;
     font-size: 2.25rem;
     line-height: 1;
+  }
+  /* MonoLab 標誌：橫式字標，字高跟旁邊 Muse 的圖示差不多（約 2.25rem 的方塊裡
+     字母約佔一半高），所以標誌寬 6rem、高約 1.6rem */
+  .team-icon--logo {
+    display: flex;
+    align-items: center;
+    inline-size: 6rem;
+    color: var(--color-ink);
+  }
+  .team-icon--logo :global(svg) {
+    display: block;
+    inline-size: 100%;
+    block-size: auto;
   }
   .team-card h3 {
     align-self: end;
@@ -3534,7 +3625,7 @@ const today = new Date().toISOString().slice(0, 10);
   .timeline-item {
     padding-left: 0;
     padding-inline-start: 1.5rem;
-    scroll-margin-block-start: 4rem;
+    scroll-margin-block-start: 0.75rem;
   }
   .timeline-marker {
     left: auto;
@@ -3801,6 +3892,66 @@ const today = new Date().toISOString().slice(0, 10);
     grid-template-columns: minmax(0, 1fr);
     grid-template-rows: none;
   }
+  /* 具名支持者：名牌一排，後面接一句匿名人數 */
+  .sup-names {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.625rem 0.75rem;
+    margin-block-start: var(--space-4);
+  }
+  .sup-names__list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.625rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  .sup-names__item {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.625rem;
+    min-block-size: 44px;
+    padding-block: 0.3125rem;
+    padding-inline: 0.3125rem 1rem;
+    border: 1px solid var(--ab-rule);
+    border-radius: 999px;
+    background: var(--ab-surface);
+  }
+  .sup-names__initial {
+    display: grid;
+    place-items: center;
+    inline-size: 2.125rem;
+    block-size: 2.125rem;
+    border-radius: 50%;
+    background: var(--ab-brand-soft);
+    font-family: var(--font-interface);
+    font-size: 0.9375rem;
+    font-weight: 700;
+    line-height: 1;
+    color: var(--ab-heading);
+  }
+  .sup-names__name {
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1.3;
+    color: var(--color-ink);
+    unicode-bidi: isolate;
+  }
+  .sup-names__tier {
+    font-family: var(--font-interface);
+    font-size: 0.8125rem;
+    line-height: 1.3;
+    color: var(--color-ink-soft);
+    unicode-bidi: isolate;
+  }
+  .sup-names__anon {
+    margin: 0;
+    padding-inline-start: 0.25rem;
+    font-size: 0.9375rem;
+    color: var(--color-ink-soft);
+  }
   .supporters-more {
     margin-top: var(--ab-gap-s);
   }
@@ -3825,46 +3976,106 @@ const today = new Date().toISOString().slice(0, 10);
   .supporters-more[open] .supporters-more__summary {
     margin-bottom: var(--ab-gap-s);
   }
-  /* 行動區：左邊贊助，右邊洽談合作 */
-  .sponsor-cta {
+  /* 行動區（2026-11-19 v2）：標題置中；底下兩欄同一個結構「短標 → 說明 → 按鈕」。
+     兩欄用 subgrid 共用列線：短標、說明、按鈕各自對齊，按鈕貼齊欄底、在同一條水平線上。
+     說明靠起始側對齊（右到左語言自動靠右），行長約 30 字。 */
+  .scta {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
-    column-gap: var(--space-7);
-    align-items: center;
-    padding: var(--space-5);
-    border-color: var(--ab-rule);
+    grid-template-rows: auto auto 1fr auto;
+    column-gap: 0;
+    padding: var(--space-6) var(--space-6) var(--space-5);
+    border: 1px solid var(--ab-rule);
     border-radius: var(--radius-chip);
     background: var(--ab-surface);
+    text-align: start;
   }
-  .sponsor-cta h3 {
+  .sponsor-cta .scta__title {
     grid-column: 1 / -1;
-    margin-bottom: var(--space-4);
-    font-size: 1.375rem;
+    margin: 0 0 var(--space-5);
+    font-family: var(--font-title);
+    font-size: clamp(1.375rem, 2.4vw, 1.625rem);
+    line-height: 1.4;
+    text-align: center;
+    text-wrap: balance;
     color: var(--color-ink);
   }
-  .portaly-donate {
-    grid-column: 1;
-    grid-row: 2 / span 2;
-    margin-top: 0;
-    padding-top: 0;
-    border-top: 0;
+  .scta__col {
+    grid-row: 2 / span 3;
+    display: grid;
+    grid-template-rows: subgrid;
+    align-items: start;
+    padding-inline-end: var(--space-6);
   }
-  .sponsor-cta > p {
-    grid-column: 2;
-    align-self: end;
-    margin-bottom: var(--ab-gap-s);
+  .scta__col + .scta__col {
+    padding-inline: var(--space-6) 0;
+    border-inline-start: 1px solid var(--ab-rule);
+  }
+  .sponsor-cta .scta__lead {
+    grid-row: 1;
+    margin: 0 0 0.625rem;
+    font-size: 1.0625rem;
+    font-weight: 600;
+    line-height: 1.6;
+    color: var(--color-ink);
+  }
+  .sponsor-cta .scta__body {
+    grid-row: 2;
+    max-inline-size: 32em;
+    margin: 0 0 var(--space-4);
+    font-size: 0.9375rem;
+    line-height: 1.85;
     color: var(--color-ink-soft);
   }
-  .sponsor-contact {
-    grid-column: 2;
-    align-self: start;
+  .scta__btn {
+    grid-row: 3;
+    align-self: end;
+    justify-self: start;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    min-block-size: 48px;
+    min-inline-size: 13rem;
+    padding: 0 1.5rem;
+    border: 1.5px solid var(--ab-heading);
+    border-radius: 10px;
+    font-family: var(--font-interface);
+    font-size: 0.9375rem;
+    font-weight: 600;
+    line-height: 1.3;
+    text-decoration: none;
+    transition:
+      background-color 0.2s ease,
+      color 0.2s ease,
+      border-color 0.2s ease;
   }
-  .portaly-link {
-    min-height: 44px;
+  .scta__btn--primary {
+    background: var(--ab-heading);
+    color: var(--color-bg);
   }
-  .portaly-link:hover {
-    transform: none;
-    box-shadow: none;
+  .scta__btn--primary:hover {
+    border-color: var(--ab-brand);
+    background: var(--ab-brand);
+    color: var(--color-bg);
+  }
+  .scta__btn--secondary {
+    background: transparent;
+    color: var(--ab-heading);
+  }
+  .scta__btn--secondary:hover {
+    background: var(--ab-brand-soft);
+    color: var(--ab-heading);
+  }
+  .scta__btn:focus-visible {
+    outline: 2px solid var(--color-accent);
+    outline-offset: 3px;
+  }
+  .scta__arrow {
+    display: inline-block;
+  }
+  :global([dir='rtl']) .scta__arrow {
+    scale: -1 1;
   }
 
   /* 按鈕：跟著品牌綠，深色模式自己翻面 */
@@ -4149,15 +4360,35 @@ const today = new Date().toISOString().slice(0, 10);
       width: 8.75rem;
       max-width: 8.75rem;
     }
-    .sponsor-cta {
-      display: block;
-      padding: var(--space-4);
-      text-align: center;
+    /* 贊助卡：兩欄改上下兩塊，中間一條線；按鈕全寬 */
+    .scta {
+      grid-template-columns: minmax(0, 1fr);
+      grid-template-rows: none;
+      padding: var(--space-5) var(--space-4) var(--space-4);
     }
-    .portaly-donate {
+    .sponsor-cta .scta__title {
       margin-bottom: var(--space-4);
-      padding-bottom: var(--space-4);
-      border-bottom: 1px dashed var(--ab-rule-strong);
+    }
+    .sponsor-cta .scta__lead,
+    .sponsor-cta .scta__body,
+    .scta__btn {
+      grid-row: auto;
+    }
+    .scta__col,
+    .scta__col + .scta__col {
+      grid-row: auto;
+      grid-template-rows: none;
+      padding: 0;
+      border: 0;
+    }
+    .scta__col + .scta__col {
+      margin-block-start: var(--space-4);
+      padding-block-start: var(--space-4);
+      border-block-start: 1px solid var(--ab-rule);
+    }
+    .scta__btn {
+      justify-self: stretch;
+      min-inline-size: 0;
     }
     .contact-grid {
       grid-template-columns: 1fr;
@@ -4253,6 +4484,61 @@ const today = new Date().toISOString().slice(0, 10);
     .organism-section
     .guide-card-cta {
     background: none;
+  }
+  /* 個人支持者完整名單（SupporterGrid，共用元件、樣式寫死淺色）：
+     關於頁的深色模式在這裡蓋掉卡片與留言泡泡的白底，元件本身不動 */
+  :global(:root[data-theme='dark'])
+    .about-page
+    .supporters-more
+    :global(.supporter-card),
+  :global(:root[data-theme='dark'])
+    .about-page
+    .supporters-more
+    :global(.supporter-card[data-anonymous='true']) {
+    border-color: var(--ab-rule);
+    border-inline-start-color: var(--tier-accent, var(--ab-rule));
+    background: var(--color-surface);
+  }
+  :global(:root[data-theme='dark'])
+    .about-page
+    .supporters-more
+    :global(.supporter-bubble),
+  :global(:root[data-theme='dark'])
+    .about-page
+    .supporters-more
+    :global(.supporter-card[data-anonymous='true'] .supporter-bubble) {
+    background: color-mix(in srgb, var(--color-ink) 7%, transparent);
+    color: var(--color-ink-soft);
+  }
+  :global(:root[data-theme='dark'])
+    .about-page
+    .supporters-more
+    :global(.supporter-name),
+  :global(:root[data-theme='dark'])
+    .about-page
+    .supporters-more
+    :global(.supporter-tier-heading) {
+    color: var(--color-ink);
+  }
+  :global(:root[data-theme='dark'])
+    .about-page
+    .supporters-more
+    :global(
+      :is(.supporter-tier-legend, .supporter-legend-desc, .supporter-tier-count)
+    ) {
+    color: var(--color-ink-soft);
+  }
+  :global(:root[data-theme='dark'])
+    .about-page
+    .supporters-more
+    :global(.supporter-avatar) {
+    border-color: var(--ab-rule);
+  }
+  :global(:root[data-theme='dark'])
+    .about-page
+    .supporters-more
+    :global(.supporter-monthly-badge) {
+    border-color: var(--color-surface);
   }
   /* dark-polish.css 的規則還指著舊標籤（h4）；標題階層修正後補在這裡 */
   :global(:root[data-theme='dark']) .about-page .naming-card h3,
