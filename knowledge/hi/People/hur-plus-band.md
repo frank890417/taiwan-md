@@ -22,11 +22,13 @@ featured: false
 lastVerified: 2026-04-23
 lastHumanReview: false
 readingTime: 14
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/HUR-plus.md'
-sourceCommitSha: '9cef725ce'
-sourceContentHash: 'sha256:3078ad444665414d6751fe430d478b4baaa49ab9'
-sourceBodyHash: 'sha256:0ec3077c12a841a12c2fdf47876000e1d2d4c17f'
-translatedAt: '2026-09-10T12:00:00+08:00'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:7b6f1e2f33e3f99d'
+sourceBodyHash: 'sha256:396a9fed148c94a2'
+translatedAt: '2026-11-19T02:00:30.690502+00:00'
 ---
 
 > **30 सेकंड का सारांश:** HUR+ (मूलतः HUR), 2020 के 《菱格世代 DD52》 से उप-विजेता "Thunder Black Spade" की छह-सदस्यीय टीम, निर्माता Felipe.Z (斐立普) द्वारा AOA Entertainment Lab स्थापित। फाइनल में 2.5 अंक से हारे, लेकिन विजेता G.O.F की ध्वनि एक साल में गायब हो गई, वहीं HUR+ अभी भी नए एल्बम जारी कर रहा है। तीन एल्बम (《REVELATION》《Crimzon》《9OF9 ARCANA》), दस मिनट में 1.5 मिलियन टीडब्ल्यूडी एकत्रित कर कोरिया जाना, सदस्यों की राष्ट्रीयता मंगोलिया, इंग्लैंड, इंडोनेशिया, वियतनाम तक फैली। Felipe.Z कहते हैं: "अगर हम कोरिया की वही रेसिपी इस्तेमाल करें, ताइवान कैसे जीत सकता है?"
