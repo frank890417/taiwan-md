@@ -117,6 +117,14 @@ const reviewedCount =
       ? _immune.humanReviewedCount
       : Math.round((reviewedPercent / 100) * totalArticles);
 
+// 贊助卡右欄：cta.desc.html 在第一個 <br /> 處分成「短標」與「說明」兩段（文字不變）。
+// 沒有 <br /> 的語言（hi／ru）整段放說明，短標那一列留空，按鈕照樣對齊。
+const _ctaParts = t('about.sponsors.cta.desc.html').split(/<br\s*\/?>/i);
+const ctaLead = _ctaParts.length > 1 ? _ctaParts[0].trim() : '';
+const ctaBody = (_ctaParts.length > 1 ? _ctaParts.slice(1) : _ctaParts)
+  .join(' ')
+  .trim();
+
 const supporterCount =
   (supportersData as { supporter_count?: number }).supporter_count || 0;
 
@@ -1273,11 +1281,19 @@ const today = new Date().toISOString().slice(0, 10);
           </div>
         </div>
 
-        <div class="sponsor-cta">
-          <h3>{t('about.sponsors.cta.title')}</h3>
-          <div class="portaly-donate">
-            <p class="portaly-label">
+        {
+          /* 行動區（2026-11-19 哲宇：按鈕位置與文字排版要整齊）：兩欄同一個結構，
+             短標 → 說明 → 按鈕；三列用 subgrid 對齊，兩顆按鈕在同一條水平線上。
+             文字一字未改：右欄的短標與說明是 cta.desc.html 在 <br /> 處分成兩段。 */
+        }
+        <div class="sponsor-cta scta">
+          <h3 class="scta__title">{t('about.sponsors.cta.title')}</h3>
+          <div class="scta__col">
+            <p class="scta__lead" dir="auto">
               {t('about.sponsors.portaly.label')}
+            </p>
+            <p class="scta__body" dir="auto">
+              {t('about.sponsors.portaly.note')}
             </p>
             <a
               href="https://portaly.cc/taiwanmd/support?utm_source=taiwan.md&utm_medium=about_sponsors&utm_campaign=support"
@@ -1285,19 +1301,20 @@ const today = new Date().toISOString().slice(0, 10);
               rel="noopener noreferrer"
               data-ga-section="about_sponsors"
               data-ga-label="sponsor"
-              class="portaly-link"
+              class="scta__btn scta__btn--primary"
             >
-              {t('about.sponsors.portaly.cta')} →
+              <span dir="auto">{t('about.sponsors.portaly.cta')}</span>
+              <span class="scta__arrow" aria-hidden="true">→</span>
             </a>
-            <p class="portaly-note">{t('about.sponsors.portaly.note')}</p>
           </div>
-          <p set:html={t('about.sponsors.cta.desc.html')} />
-          <div class="sponsor-contact">
+          <div class="scta__col">
+            {ctaLead && <p class="scta__lead" dir="auto" set:html={ctaLead} />}
+            <p class="scta__body" dir="auto" set:html={ctaBody} />
             <a
               href={`mailto:taiwanmd@monoame.com?subject=Taiwan.md 贊助合作詢問`}
-              class="btn btn-primary"
+              class="scta__btn scta__btn--secondary"
             >
-              {t('about.sponsors.cta.contact')}
+              <span dir="auto">{t('about.sponsors.cta.contact')}</span>
             </a>
           </div>
         </div>
@@ -3371,7 +3388,7 @@ const today = new Date().toISOString().slice(0, 10);
     line-height: 1;
   }
   /* MonoLab 標誌：橫式字標，字高跟旁邊 Muse 的圖示差不多（約 2.25rem 的方塊裡
-     字母約佔一半高），所以標誌寬 6.5rem、高約 1.7rem */
+     字母約佔一半高），所以標誌寬 6rem、高約 1.6rem */
   .team-icon--logo {
     display: flex;
     align-items: center;
@@ -3852,46 +3869,103 @@ const today = new Date().toISOString().slice(0, 10);
   .supporters-more[open] .supporters-more__summary {
     margin-bottom: var(--ab-gap-s);
   }
-  /* 行動區：左邊贊助，右邊洽談合作 */
-  .sponsor-cta {
+  /* 行動區（2026-11-19 v2）：標題置中；底下兩欄同一個結構「短標 → 說明 → 按鈕」。
+     兩欄用 subgrid 共用列線：短標、說明、按鈕各自對齊，按鈕貼齊欄底、在同一條水平線上。
+     說明靠起始側對齊（右到左語言自動靠右），行長約 30 字。 */
+  .scta {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
-    column-gap: var(--space-7);
-    align-items: center;
-    padding: var(--space-5);
-    border-color: var(--ab-rule);
+    grid-template-rows: auto auto 1fr auto;
+    column-gap: 0;
+    padding: var(--space-6) var(--space-6) var(--space-5);
+    border: 1px solid var(--ab-rule);
     border-radius: var(--radius-chip);
     background: var(--ab-surface);
+    text-align: start;
   }
-  .sponsor-cta h3 {
+  .scta__title {
     grid-column: 1 / -1;
-    margin-bottom: var(--space-4);
-    font-size: 1.375rem;
+    margin: 0 0 var(--space-5);
+    font-family: var(--font-title);
+    font-size: clamp(1.375rem, 2.4vw, 1.625rem);
+    line-height: 1.4;
+    text-align: center;
+    text-wrap: balance;
     color: var(--color-ink);
   }
-  .portaly-donate {
-    grid-column: 1;
-    grid-row: 2 / span 2;
-    margin-top: 0;
-    padding-top: 0;
-    border-top: 0;
+  .scta__col {
+    grid-row: 2 / span 3;
+    display: grid;
+    grid-template-rows: subgrid;
+    align-items: start;
+    padding-inline-end: var(--space-6);
   }
-  .sponsor-cta > p {
-    grid-column: 2;
-    align-self: end;
-    margin-bottom: var(--ab-gap-s);
+  .scta__col + .scta__col {
+    padding-inline: var(--space-6) 0;
+    border-inline-start: 1px solid var(--ab-rule);
+  }
+  .scta__lead {
+    margin: 0 0 0.625rem;
+    font-size: 1.0625rem;
+    font-weight: 600;
+    line-height: 1.6;
+    color: var(--color-ink);
+  }
+  .scta__body {
+    max-inline-size: 32em;
+    margin: 0 0 var(--space-4);
+    font-size: 0.9375rem;
+    line-height: 1.85;
     color: var(--color-ink-soft);
   }
-  .sponsor-contact {
-    grid-column: 2;
-    align-self: start;
+  .scta__btn {
+    align-self: end;
+    justify-self: start;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    min-block-size: 48px;
+    min-inline-size: 13rem;
+    padding: 0 1.5rem;
+    border: 1.5px solid var(--ab-heading);
+    border-radius: 10px;
+    font-family: var(--font-interface);
+    font-size: 0.9375rem;
+    font-weight: 600;
+    line-height: 1.3;
+    text-decoration: none;
+    transition:
+      background-color 0.2s ease,
+      color 0.2s ease,
+      border-color 0.2s ease;
   }
-  .portaly-link {
-    min-height: 44px;
+  .scta__btn--primary {
+    background: var(--ab-heading);
+    color: var(--color-bg);
   }
-  .portaly-link:hover {
-    transform: none;
-    box-shadow: none;
+  .scta__btn--primary:hover {
+    border-color: var(--ab-brand);
+    background: var(--ab-brand);
+    color: var(--color-bg);
+  }
+  .scta__btn--secondary {
+    background: transparent;
+    color: var(--ab-heading);
+  }
+  .scta__btn--secondary:hover {
+    background: var(--ab-brand-soft);
+    color: var(--ab-heading);
+  }
+  .scta__btn:focus-visible {
+    outline: 2px solid var(--color-accent);
+    outline-offset: 3px;
+  }
+  .scta__arrow {
+    display: inline-block;
+  }
+  :global([dir='rtl']) .scta__arrow {
+    scale: -1 1;
   }
 
   /* 按鈕：跟著品牌綠，深色模式自己翻面 */
@@ -4176,15 +4250,30 @@ const today = new Date().toISOString().slice(0, 10);
       width: 8.75rem;
       max-width: 8.75rem;
     }
-    .sponsor-cta {
-      display: block;
-      padding: var(--space-4);
-      text-align: center;
+    /* 贊助卡：兩欄改上下兩塊，中間一條線；按鈕全寬 */
+    .scta {
+      grid-template-columns: minmax(0, 1fr);
+      grid-template-rows: none;
+      padding: var(--space-5) var(--space-4) var(--space-4);
     }
-    .portaly-donate {
+    .scta__title {
       margin-bottom: var(--space-4);
-      padding-bottom: var(--space-4);
-      border-bottom: 1px dashed var(--ab-rule-strong);
+    }
+    .scta__col,
+    .scta__col + .scta__col {
+      grid-row: auto;
+      grid-template-rows: none;
+      padding: 0;
+      border: 0;
+    }
+    .scta__col + .scta__col {
+      margin-block-start: var(--space-4);
+      padding-block-start: var(--space-4);
+      border-block-start: 1px solid var(--ab-rule);
+    }
+    .scta__btn {
+      justify-self: stretch;
+      min-inline-size: 0;
     }
     .contact-grid {
       grid-template-columns: 1fr;
