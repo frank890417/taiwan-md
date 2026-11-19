@@ -1,21 +1,24 @@
 ---
-title: '杉林渓：一つの滝が伐採跡地をどう森に戻したか'
-description: '南投県竹山の「渓底」、木材運搬、九二一大地震から、松瀧岩瀑布、タイワンツツジ、自然教育まで——杉林渓の谷はどのようにして水と共に生きる術を学び直したのか。'
+title: '杉林溪：一つの滝が、いかにして伐採場を森へと戻したか'
+description: '南投県竹山市の「渓底」、伐採と木材運搬、そして九二一地震から、松瀧岩瀑布、台湾ツツジ、自然教育に至るまで。杉林溪の谷がいかにして再び水と共に生きる術を学んだのかを描きます。'
 date: 2026-08-15
 category: 'Nature'
-tags: ['杉林渓', '南投', '竹山', '森林', '滝', '環境教育']
+tags: ['杉林溪', '南投', '竹山', '森林', '滝', '環境教育']
 subcategory: '生態系統'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-15
 lastHumanReview: false
+image: '/article-images/nature/sun-link-sea-forest-valley.webp'
+imageCredit: 'lienyuan lee'
+imageLicense: 'CC BY 3.0'
 readingTime: 10
-curation: incubating
+curation: 'incubating'
 translatedFrom: 'Nature/杉林溪.md'
-sourceCommitSha: 'c4c68308d'
+sourceCommitSha: '67c4c72fc4'
 sourceContentHash: 'sha256:bc1981684ea96389'
 sourceBodyHash: 'sha256:8fca360e2bf80295'
-translatedAt: '2026-09-26T23:27:09+08:00'
+translatedAt: '2026-11-19T15:35:53.473588+00:00'
 ---
 
 ![杉林渓の森と谷の景観](/article-images/nature/sun-link-sea-forest-valley.webp)
