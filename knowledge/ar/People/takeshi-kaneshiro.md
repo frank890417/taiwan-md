@@ -1,8 +1,8 @@
 ---
 title: 'تاكيشي كانيشيرو: من «مواطن» لا يتعرف عليه أحد، إلى نجم آسيا الذي لا يرغب سوى في أن ينساه العالم'
 description: 'في عام 2025، أورد تقرير إخباري في الشارع أنه «مواطن»، وهذه ربما كانت اللحظة التي طالما تمناها تاكيشي كانيشيرو. من فتى في السابعة عشرة يصور إعلانًا لشراء دراجة نارية، إلى نجم دولي يعبر تايوان واليابان وهونغ كونغ، ظل يمارس «فن الاختفاء» في ذروة مجده الفني.'
+date: 2026-06-19
 category: 'People'
-subcategory: '電影與戲劇'
 tags:
   [
     'تاكيشي كانيشيرو',
@@ -13,17 +13,19 @@ tags:
     'أونيموشا',
     'ذا كروسينغ',
   ]
-date: 2026-06-19
+subcategory: '電影與戲劇'
 author: 'Taiwan.md Contributors'
 featured: false
-readingTime: 15
 lastVerified: 2026-06-19
 lastHumanReview: false
+readingTime: 15
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/金城武.md'
-sourceCommitSha: '98251c6e6'
-sourceContentHash: 'sha256:55178af9281f4694'
+sourceCommitSha: 'be13f0452'
+sourceContentHash: 'sha256:6eed6bfbb091aeed'
 sourceBodyHash: 'sha256:17690ed615ebe1ca'
-translatedAt: '2026-08-10T09:48:24+08:00'
+translatedAt: '2026-11-19T02:22:45.233406+00:00'
 ---
 
 > **نظرة عامة في ثلاثين ثانية:**
