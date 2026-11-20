@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-20T10:01:26+08:00",
-    "zhCommitHead": "e518c57431",
+    "lastUpdated": "2026-11-20T10:03:08+08:00",
+    "zhCommitHead": "aec7f26ace",
     "totalZh": 1192,
     "activeLanguages": [
       "en",
@@ -76,10 +76,10 @@
       },
       "pt": {
         "total_zh": 1192,
-        "fresh": 1178,
+        "fresh": 1179,
         "stale": 11,
         "metadata_stale": 1,
-        "missing": 2,
+        "missing": 1,
         "orphan": 0
       },
       "hi": {
@@ -18252,7 +18252,20 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/taiwan-solar-power.md",
+          "translatedFrom": "Economy/太陽光電.md",
+          "sourceCommitSha": "24f563e646",
+          "sourceContentHash": "sha256:f5a4019a85575efd",
+          "sourceBodyHash": "sha256:84909ece10eb2627",
+          "translatedAt": "2026-11-20T03:57:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 1,
+          "bytes": 10135,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Economy/taiwan-solar-power.md",
@@ -67285,8 +67298,8 @@
           "sourceContentHash": "sha256:32772071ae1ab735",
           "sourceBodyHash": "sha256:694eda8fc7232fe6",
           "translatedAt": "2026-11-20T03:57:02+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "aec7f26a",
+          "translationLastModified": "2026-11-20T10:01:26+08:00",
           "inferred": false,
           "footnoteDefs": 3,
           "bytes": 10873,
@@ -187102,8 +187115,8 @@
           "sourceContentHash": "sha256:1bd7703941e67723",
           "sourceBodyHash": "sha256:15228d1d82684e84",
           "translatedAt": "2026-11-20T03:57:02+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "aec7f26a",
+          "translationLastModified": "2026-11-20T10:01:26+08:00",
           "inferred": false,
           "footnoteDefs": 3,
           "bytes": 14312,
