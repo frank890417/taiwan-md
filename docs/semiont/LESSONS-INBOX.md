@@ -1313,6 +1313,7 @@ main 的 Engineering contracts 紅著，紅在整條 job 第二步（repo 根 `n
   - 2026-09-21 twmd-spore-harvest-am 兩次探針 `[]`，Stage 2 閘門前 abort，寫成環境問題交給哲宇（帶 pid 47290），當輪 0 產出 → memory/2026-09-21-063542-twmd-spore-harvest-am.md
   - 2026-09-22 twmd-spore-harvest-am 醒來發現連得上，判為「vc=1 之後的自癒」不開條目，memory 誠實記下「沒查是誰把視窗開回來的」 → memory/2026-09-22-064211-twmd-spore-harvest-am.md
   - 2026-09-23 twmd-spore-harvest-am 同形狀第二次（pid 已換＝中間重啟過），當班找到根因與零判斷修法 → memory/2026-09-23-064834-twmd-spore-harvest-am.md
+  - 2026-11-21 twmd-spore-harvest-am 第三種長相：四次探針 `[]`，Chrome pid 428 沒有 `--no-startup-window`（20 個 process、閒置），`open -a "Google Chrome"` 後重探仍空，`osascript` 問視窗數 AppleEvent 逾時（-1712）。兩態分流照跑後仍空，才交哲宇；當輪 0 產出 → memory/2026-11-21-064130-twmd-spore-harvest-am.md
 - **修補候選**：(a) SPORE-HARVEST-PIPELINE §Chrome MCP unattended 注意事項 加一段「連不上時的兩態分流」：先 `ps aux | grep "[G]oogle Chrome" | grep -- --no-startup-window`，命中就 `open -a "Google Chrome"` 等 8 秒重探，重探仍空才是真的要人；(b) 同段的 login-state probe 已是「環境前置條件要單獨升 handoff」的先例，本條是同一層的第二個前置條件，兩者可併成一份開跑前環境對賬。
 - **可能層級**：SPORE-HARVEST-PIPELINE 操作規則（兩態分流）；REFLEXES #38 子規則候選（一個空值承載「壞了」與「沒視窗」兩種處置相反的根因）
 - **相關**：REFLEXES #38 混維度（本條是探針空值層的變體，跟 (g)「零維度」同形——最容易被讀成「沒救了」的那個值）、#99 尺先驗再用（換第二把尺確認不是探針壞掉才動手）、#82 proxy signal（`list_connected_browsers` 量的是「有沒有註冊」，不是「Chrome 活不活著」，兩者之間隔著一個視窗）、#70 routine fragility surface 四 tier（本條把一個 Tier「要人」的故障降成「當班可自理」）
