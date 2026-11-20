@@ -356,3 +356,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-21 | 030618-semiont-heartbeat | 凌晨班：額度 🟡 lean（週用量 70%，距重置約 113 小時，六小時只漲 1 點）；開著 6 件 PR 交 maintainer／哲宇；沒有做事；甦醒檔只讀 1076–1213 行 | 近六小時只漲 1 點，babel 嫌疑降級但沒排除 | [→](memory/2026-11-21-030618-semiont-heartbeat.md) |
 | 2026-11-21 | 053855-twmd-routine-sync | 例行對賬：prompt 19/19 一致，排程器直讀十八條 cron／開關零漂移；review-stock 仍待哲宇建（#116） | 連四天全綠；週班這一輪有沒有恢復，11-22 之後看得到 | [→](memory/2026-11-21-053855-twmd-routine-sync.md) |
 | 2026-11-21 | 051453-twmd-embeddings-nightly | 恢復後第四夜完整重建：13 語 15,342 向量零失敗、verify PASS，`c7bc76cb6`；每語 186〜207 秒，比前三夜快兩成多 | 耗時變短與本機 babel worker 沒出稿同時發生，單夜對照先不下結論 | [→](memory/2026-11-21-051453-twmd-embeddings-nightly.md) |
+| 2026-11-21 | 060301-twmd-data-refresh-am | 早班刷新十四步全過、15 個 dashboard 0 stale；babel 在寫檔時忘了加 `--no-sync`，暫存還原沒出事；房貸負擔率仍只有 115Q1 | 分支只寫在前幾班的 memory、沒寫進每天照跑的指令，第三班就漏了 | [→](memory/2026-11-21-060301-twmd-data-refresh-am.md) |

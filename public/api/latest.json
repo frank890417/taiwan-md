@@ -1,8 +1,53 @@
 {
-  "_generated": "2026-11-19T22:08:05.207Z",
+  "_generated": "2026-11-20T22:06:53.932Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
+      {
+        "title": "台灣原住民族織布文化：把家族記憶織回身上",
+        "desc": "從泰雅族苧麻、賽夏族百年服飾到卑南族夾織技藝，理解台灣原住民族織布如何連結女性生命、家族紋路、族群身分、祭儀秩序與當代文化復振，也檢視博物館典藏、部落傳習與文化資產制度在保存傳統技藝時的責任與限制。",
+        "category": "culture",
+        "href": "/culture/%E5%8E%9F%E4%BD%8F%E6%B0%91%E7%B9%94%E5%B8%83",
+        "date": "2026-11-19T22:21:58+08:00",
+        "readingTime": 16,
+        "image": ""
+      },
+      {
+        "title": "國家圖書館：一座圖書館如何把島嶼的出版物保存成國家的記憶",
+        "desc": "國家圖書館不只是安靜的閱覽室，而是台灣出版品從發行、送存、編目、保存到數位再利用的公共基礎設施。本文從法定送存制度、戰時遷徙、臺灣記憶、古籍與政府出版品典藏，以及電子書和學位論文的數位保存出發，說明一座國家圖書館如何把每天看似短暫的出版行為轉成可被後人查證的集體記憶，也處理保存、公開、版權與數位格式之間沒有簡單答案的拉扯。",
+        "category": "culture",
+        "href": "/culture/%E5%9C%8B%E5%AE%B6%E5%9C%96%E6%9B%B8%E9%A4%A8",
+        "date": "2026-11-19T22:21:58+08:00",
+        "readingTime": 16,
+        "image": "/article-images/culture/roc-national-central-library-building-2009.webp"
+      },
+      {
+        "title": "台灣捷運發展史：一部用血與錢寫成的城市進化論",
+        "desc": "209 噸鋼梁從天而降奪走 4 條人命，16.4 億賠款，連運量最高的台北捷運，票箱收入都付不起營運成本——全台捷運背後的真實代價",
+        "category": "lifestyle",
+        "href": "/lifestyle/%E5%8F%B0%E7%81%A3%E6%8D%B7%E9%81%8B%E7%99%BC%E5%B1%95%E5%8F%B2",
+        "date": "2026-11-19T22:21:58+08:00",
+        "readingTime": 15,
+        "image": ""
+      },
+      {
+        "title": "台灣選舉造勢文化與舞台車美學：從「凍蒜」到民主嘉年華的社會學觀察",
+        "desc": "每逢選舉，台灣街頭便會化身為巨大的民主劇場。從舞台車的變形金剛美學、民主香腸的煙燻味，到 30 元便當的法律界線，這場獨特的選舉造勢文化，不僅是政治動員的工具，更是台灣庶民生命力與社會變遷的深刻縮影。",
+        "category": "politics",
+        "href": "/politics/%E9%81%B8%E8%88%89%E9%80%A0%E5%8B%A2",
+        "date": "2026-11-19T22:21:58+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "3.8 兆的稅：53.4% 來自所得稅，與那個從 505 億縮小到 143 億的缺口",
+        "desc": "114 年全國賦稅收入最終統計 3 兆 7,879 億元，較預算數短少 143 億元；1 月公布的初步統計則是 3 兆 7,515 億元、短少 505 億元，兩個總數差在跨年整理期間入帳的稅款。這篇拆開 3.8 兆的來源：營所稅與綜所稅合占 53.4%，營業稅 16.3%，證交稅 2,928 億元、日均成交 4,894 億元；土增稅與貨物稅則分別因房市、車市降溫而落後。18 個稅目中 11 個達標，最後回到 13.2% 的賦稅負擔率。",
+        "category": "economy",
+        "href": "/economy/%E7%A8%85%E6%94%B6%E7%B5%90%E6%A7%8B",
+        "date": "2026-11-19T22:03:11+08:00",
+        "readingTime": 11,
+        "image": ""
+      },
       {
         "title": "投保薪資的天花板：36,095 元、45,800 元，與那條看不見的截斷線",
         "desc": "114 年 12 月，勞保平均投保薪資 36,095 元，主計總處的受僱員工總薪資平均是每月 63,386 元。差距有四個來源：年終等非經常性給與不列入投保薪資、45,800 元的上限從 105 年起沒調過、勞保名單多了職業工會，以及違法的高薪低報。就保被保險人有 42.7% 卡在上限，另有 13% 落在最低一級，這一級分不出誰真的領最低工資、誰被低報。",
@@ -225,51 +270,6 @@
         "category": "lifestyle",
         "href": "/lifestyle/%E8%AD%B7%E7%90%86%E4%BA%BA%E5%8A%9B%E8%88%87%E4%B8%89%E7%8F%AD%E8%AD%B7%E7%97%85%E6%AF%94",
         "date": "2026-11-16T22:00:35+08:00",
-        "readingTime": 11,
-        "image": ""
-      },
-      {
-        "title": "手術傷口感染：1.21% 的整體，與一半零感染的醫院",
-        "desc": "113 年住院手術傷口感染率 1.21%，比 112 年的 1.19% 微幅上升；109 到 113 年的區間是 1.19% 到 1.26%。437 家醫院裡有 232 家全年零感染，但院所間標準差在疫情期間一度衝到 4.39 個百分點，113 年才降到 1.18，極大值也從 50% 以上降到 14.9%。感染不只延長住院，也可能需要再手術。這篇用健保會監理指標拆開這個負向指標的五年變化，以及疫情如何影響分子與分母。",
-        "category": "lifestyle",
-        "href": "/lifestyle/%E6%89%8B%E8%A1%93%E5%82%B7%E5%8F%A3%E6%84%9F%E6%9F%93",
-        "date": "2026-11-16T22:00:32+08:00",
-        "readingTime": 9,
-        "image": ""
-      },
-      {
-        "title": "觀光產業：一千八百九十四萬人次出國，八百五十七萬人次來台",
-        "desc": "114 年國人出國 1,894 萬 4,436 人次，來台旅客 857 萬 4,547 人次，出國是來台的 2.21 倍；來台來源以日本 148.3 萬最多，其次港澳 131 萬、韓國 101.7 萬。來台旅客日均消費 185.14 美元、平均停留 6.95 夜，全年來台觀光支出 3,439 億元；國旅 2.48 億旅次、總消費 181.06 億美元，整體觀光收入 291.39 億美元、占 GDP 3.16%。出國目的地則以日本 673 萬人次最多，其次中國大陸 323.8 萬、韓國 183.5 萬。這篇用觀光署 114 年報拆開三組數字。",
-        "category": "economy",
-        "href": "/economy/%E8%A7%80%E5%85%89%E7%94%A2%E6%A5%AD",
-        "date": "2026-11-16T22:00:16+08:00",
-        "readingTime": 11,
-        "image": ""
-      },
-      {
-        "title": "照護連續性：0.405 的指數，與疫情那三年意外的高點",
-        "desc": "113 年平均每人門診照護連續性（COCI）是 0.405，接近 108 年的 0.400；109 到 111 年疫情期間一度升到 0.436，防疫降級後回落。這個 0 到 1 的指數衡量病人是否固定在少數院所就醫，以 Bice 與 Boxerman 的方法計算，排除一年就醫 3 次以下與 100 次以上者。這篇用健保會監理指標說明它怎麼算、為什麼疫情會推高它，以及連續性與急診、住院的關係和政策如何用家庭醫師制度提升它。",
-        "category": "economy",
-        "href": "/economy/%E7%85%A7%E8%AD%B7%E9%80%A3%E7%BA%8C%E6%80%A7",
-        "date": "2026-11-16T22:00:09+08:00",
-        "readingTime": 9,
-        "image": ""
-      },
-      {
-        "title": "分級醫療：基層就醫占九成，醫學中心卻還在看輕症",
-        "desc": "113 年西醫基層門診就醫人數比例達 92.01%、申報件數占率 64.09%，醫院降到 35.91%，分級醫療看似成功。但區域醫院以上的初級門診照護率同期從 17.21% 升到 18.37%，醫學中心從 14.40% 升到 15.56%，健保會指出兩者關係宜再探究。健保署推 81 個策略聯盟、6,844 家院所，並在 114 年 9 月調升下轉點數。這篇拆開這兩條曲線與政策工具。",
-        "category": "lifestyle",
-        "href": "/lifestyle/%E5%88%86%E7%B4%9A%E9%86%AB%E7%99%82",
-        "date": "2026-11-16T21:59:56+08:00",
-        "readingTime": 10,
-        "image": ""
-      },
-      {
-        "title": "糖尿病：兩百一十六萬人，與那三分之一沒被接住的人",
-        "desc": "113 年健保署統計，全台高血糖病人約 216 萬人，其中符合糖尿病照護方案收案條件的有 177 萬人，實際接受照護 113.7 萬人，照護率 64.0%；區域醫院達 70.8%，基層診所只有 53.5%。慢性病照護計畫另收案約 159 萬人，照護率 73.4%。這篇用健保會監理指標報告拆開照護率、住院率與 115 年的整合規劃，也說明為什麼符合收案條件者中約三分之一仍在照護網外，以及它與洗腎的接口。",
-        "category": "lifestyle",
-        "href": "/lifestyle/%E7%B3%96%E5%B0%BF%E7%97%85",
-        "date": "2026-11-16T21:59:55+08:00",
         "readingTime": 11,
         "image": ""
       }
@@ -501,8 +501,8 @@
         "image": ""
       },
       {
-        "title": "Tzuyu and the 2016 Flag Incident: A TWICE Member From Tainan and Ten Years of Silence",
-        "desc": "Tzuyu (Chou Tzu-yu) of TWICE was born in Tainan, Taiwan, in 1999. In November 2015 she held a Republic of China flag on Korean TV for 8 seconds; in January 2016, on the eve of Taiwan's presidential election, JYP released her 90-second apology video. She never said a word about those 90 seconds. Ten years later, in Kaohsiung, she read 55,000 fans a handwritten letter about why she stayed.",
+        "title": "Tzuyu Chou",
+        "desc": "A girl from Tainan who never spoke of politics, whose fate was turned by an 8-second flag incident. Ten years later, in Kaohsiung, she read a handwritten letter: \"I didn't leave because I was obedient; I left because I truly desired it.\"",
         "category": "people",
         "href": "/en/people/tzuyu",
         "date": "2026-11-04T08:24:26+08:00",
@@ -1335,8 +1335,8 @@
         "image": ""
       },
       {
-        "title": "Pequeño Norte Department Store: El rey de los artículos generales de Taiwán en las luces nocturnas, de puesto de mariscos a \"salvavidas de los padres\" durante treinta años",
-        "desc": "Fundado en 1994 en el Mercado Nocturno Pequeño Norte de Tainan, Pequeño Norte Department Store, gracias a su estrategia de \"apertura las 24 horas\" y \"vender lo que otros no venden\", se transformó de una tienda de mariscos al borde de la quiebra en el líder de ferretería con más de 190 sucursales en todo el país. Es el salvavidas nocturno de los padres, la estación de reabastecimiento del nostalgia para los trabajadores migrantes y el milagro de supervivencia más resistente de la industria minorista de Taiwán.",
+        "title": "Xiao Bei Department Store: el rey de los artículos variados de Taiwán entre las luces de la medianoche, treinta años desde un puesto de mariscos hasta el «salvavidas de los padres»",
+        "desc": "Originado en 1994 en el mercado nocturno Xiao Bei de Tainan, Xiao Bei Department Store, gracias a su estrategia de «operación 24 horas» y «vender lo que otros no venden», se transformó de una tienda de mariscos al borde de la quiebra en el líder de ferretería con más de 190 sucursales en toda Taiwán. Es el salvavidas nocturno de los padres, la estación de abastecimiento contra la nostalgia de los trabajadores migrantes y el milagro de supervivencia más tenaz del comercio minorista de Taiwán.",
         "category": "lifestyle",
         "href": "/es/lifestyle/xiaobei-department-store",
         "date": "2026-10-31T08:41:15+08:00",

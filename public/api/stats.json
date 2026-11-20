@@ -1,16 +1,16 @@
 {
-  "totalArticles": 15403,
+  "totalArticles": 15485,
   "totalCategories": 15,
-  "estimatedContributors": 80,
-  "totalTags": 9150,
+  "estimatedContributors": 81,
+  "totalTags": 9159,
   "categories": [
     {
       "name": "people",
-      "count": 3873
+      "count": 3874
     },
     {
       "name": "society",
-      "count": 1663
+      "count": 1677
     },
     {
       "name": "culture",
@@ -18,19 +18,19 @@
     },
     {
       "name": "history",
-      "count": 1207
+      "count": 1220
     },
     {
       "name": "food",
-      "count": 1167
-    },
-    {
-      "name": "geography",
-      "count": 1103
+      "count": 1169
     },
     {
       "name": "economy",
-      "count": 1103
+      "count": 1150
+    },
+    {
+      "name": "geography",
+      "count": 1105
     },
     {
       "name": "technology",
@@ -38,7 +38,7 @@
     },
     {
       "name": "lifestyle",
-      "count": 750
+      "count": 753
     },
     {
       "name": "art",
@@ -148,39 +148,39 @@
     }
   ],
   "languageDistribution": {
-    "vi": 1182,
-    "es": 1186,
-    "ko": 1187,
-    "hi": 1179,
-    "en": 1186,
-    "ja": 1185,
-    "de": 1184,
-    "fr": 1185,
-    "ru": 1185,
-    "zh-TW": 1191,
-    "id": 1185,
-    "ar": 1182,
-    "pt": 1186
+    "vi": 1189,
+    "es": 1192,
+    "ko": 1192,
+    "hi": 1187,
+    "en": 1192,
+    "ja": 1192,
+    "de": 1192,
+    "fr": 1191,
+    "ru": 1192,
+    "zh-TW": 1192,
+    "id": 1192,
+    "ar": 1190,
+    "pt": 1192
   },
-  "lastUpdated": "2026-11-19T22:07:13.902Z",
-  "stars": 1250,
+  "lastUpdated": "2026-11-20T22:06:11.760Z",
+  "stars": 1252,
   "forks": 190,
-  "zhPages": 1189,
+  "zhPages": 1190,
   "languagePages": {
-    "zh-TW": 1189,
-    "en": 1186,
-    "ja": 1185,
-    "ko": 1187,
-    "es": 1186,
-    "fr": 1185,
-    "vi": 1182,
-    "id": 1185,
-    "pt": 1186,
-    "hi": 1179,
-    "ar": 1182,
-    "ru": 1185,
-    "de": 1184
+    "zh-TW": 1190,
+    "en": 1192,
+    "ja": 1192,
+    "ko": 1192,
+    "es": 1192,
+    "fr": 1191,
+    "vi": 1189,
+    "id": 1192,
+    "pt": 1192,
+    "hi": 1187,
+    "ar": 1190,
+    "ru": 1192,
+    "de": 1192
   },
-  "enPages": 1186,
-  "totalPages": 1189
+  "enPages": 1192,
+  "totalPages": 1190
 }

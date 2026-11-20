@@ -1,9 +1,9 @@
 {
-  "generated": "2026-11-20",
+  "generated": "2026-11-21",
   "generator": "scripts/tools/article-census.py",
-  "head": "b0bbab959",
+  "head": "25de1c067",
   "scope": "knowledge/{Category}/*.md（中文 SSOT；不含 knowledge/{lang}/ 譯文與 _ hub）",
-  "n": 1189,
+  "n": 1190,
   "thresholds": {
     "a_fn_floor": 5,
     "a_cjk_floor": 2000,
@@ -24,8 +24,8 @@
   "traffic_sources": {
     "ga": {
       "file": "public/api/dashboard-analytics.json:ga.topArticles7d",
-      "start": "2026-10-23",
-      "end": "2026-11-20",
+      "start": "2026-10-24",
+      "end": "2026-11-21",
       "days": 28,
       "rows": 20,
       "metric": "views",
@@ -38,34 +38,34 @@
     "C": "沒有可用封面圖",
     "D": "內文簡陋（該進 REWRITE），依流量排序"
   },
-  "tier_counts": { "A": 5, "B": 3, "C": 912, "D": 247 },
-  "curation_counts": { "none": 141, "incubating": 1046, "verified": 2 },
-  "curation_reason_counts": { "none": 366, "unverified": 568, "thin": 112 },
-  "cover_counts": { "local": 277, "none": 912 },
-  "c_subtypes": { "C3": 774, "C2": 133, "C1": 5 },
+  "tier_counts": { "A": 5, "B": 3, "C": 913, "D": 248 },
+  "curation_counts": { "none": 141, "incubating": 1047, "verified": 2 },
+  "curation_reason_counts": { "none": 367, "unverified": 568, "thin": 112 },
+  "cover_counts": { "local": 277, "none": 913 },
+  "c_subtypes": { "C3": 775, "C2": 133, "C1": 5 },
   "distribution": {
     "all": {
-      "n": 1180,
+      "n": 1181,
       "cjk": {
         "p5": 1261,
         "p10": 1496,
-        "p25": 2019,
-        "p33": 2390,
-        "p50": 3131,
+        "p25": 2018,
+        "p33": 2387,
+        "p50": 3119,
         "p75": 4624,
         "p90": 6018,
-        "n": 1180,
-        "mean": 3546.1
+        "n": 1181,
+        "mean": 3544.7
       },
       "fn_defs": {
         "p5": 0,
         "p10": 0,
         "p25": 7,
-        "p33": 9,
+        "p33": 8,
         "p50": 11,
         "p75": 20,
         "p90": 36,
-        "n": 1180,
+        "n": 1181,
         "mean": 15.8
       }
     },
@@ -95,7 +95,7 @@
       }
     },
     "no_evidence": {
-      "n": 605,
+      "n": 606,
       "cjk": {
         "p5": 1216,
         "p10": 1363,
@@ -103,9 +103,9 @@
         "p33": 1994,
         "p50": 2657,
         "p75": 3765,
-        "p90": 4707,
-        "n": 605,
-        "mean": 2904.4
+        "p90": 4704,
+        "n": 606,
+        "mean": 2902.5
       },
       "fn_defs": {
         "p5": 0,
@@ -115,22 +115,22 @@
         "p50": 10,
         "p75": 14,
         "p90": 20,
-        "n": 605,
+        "n": 606,
         "mean": 10.9
       }
     },
     "incubating": {
-      "n": 1046,
+      "n": 1047,
       "cjk": {
         "p5": 1247,
         "p10": 1457,
         "p25": 1951,
-        "p33": 2315,
+        "p33": 2311,
         "p50": 3114,
-        "p75": 4626,
+        "p75": 4625,
         "p90": 6046,
-        "n": 1046,
-        "mean": 3538.5
+        "n": 1047,
+        "mean": 3536.9
       },
       "fn_defs": {
         "p5": 0,
@@ -140,22 +140,22 @@
         "p50": 12,
         "p75": 20,
         "p90": 36,
-        "n": 1046,
+        "n": 1047,
         "mean": 16.0
       }
     },
     "recent_45d": {
-      "n": 67,
+      "n": 68,
       "cjk": {
         "p5": 999,
         "p10": 1141,
-        "p25": 1297,
+        "p25": 1309,
         "p33": 1502,
-        "p50": 1694,
-        "p75": 2256,
+        "p50": 1776,
+        "p75": 2211,
         "p90": 3009,
-        "n": 67,
-        "mean": 2263.9
+        "n": 68,
+        "mean": 2257.3
       },
       "fn_defs": {
         "p5": 1,
@@ -165,8 +165,8 @@
         "p50": 3,
         "p75": 9,
         "p90": 21,
-        "n": 67,
-        "mean": 11.3
+        "n": 68,
+        "mean": 11.2
       }
     }
   },
@@ -276,17 +276,6 @@
         "fn": 13
       },
       {
-        "path": "knowledge/People/黃聲遠.md",
-        "title": "黃聲遠：把宜蘭當成一座慢慢修的城，蓋沒有圍牆的建築",
-        "category": "People",
-        "curation": "incubating",
-        "curationReason": null,
-        "reason": "3 軸弱：字數 1998、腳註 3、零媒體",
-        "cover": "none",
-        "cjk": 1998,
-        "fn": 3
-      },
-      {
         "path": "knowledge/People/蕭上農.md",
         "title": "蕭上農：從遊戲 PM 到 INSIDE 創辦人，台灣網路圈的里長伯",
         "category": "People",
@@ -307,6 +296,17 @@
         "cover": "none",
         "cjk": 1322,
         "fn": 5
+      },
+      {
+        "path": "knowledge/Geography/地形與地質.md",
+        "title": "地形與地質",
+        "category": "Geography",
+        "curation": "incubating",
+        "curationReason": "unverified",
+        "reason": "3 軸弱：腳註 0、零媒體、段落 38 段／中位 19 字",
+        "cover": "none",
+        "cjk": 2637,
+        "fn": 0
       },
       {
         "path": "knowledge/Art/EEWH綠建築標章.md",
@@ -892,6 +892,17 @@
         "fn": 1
       },
       {
+        "path": "knowledge/Economy/稅收結構.md",
+        "title": "3.8 兆的稅：53.4% 來自所得稅，與那個從 505 億縮小到 143 億的缺口",
+        "category": "Economy",
+        "curation": "incubating",
+        "curationReason": null,
+        "reason": "3 軸弱：字數 1816、腳註 2、段落 42 段／中位 38 字",
+        "cover": "none",
+        "cjk": 1816,
+        "fn": 2
+      },
+      {
         "path": "knowledge/Economy/觀光產業.md",
         "title": "觀光產業：一千八百九十四萬人次出國，八百五十七萬人次來台",
         "category": "Economy",
@@ -1032,17 +1043,6 @@
         "reason": "3 軸弱：腳註 0、零媒體、段落 59 段／中位 31 字",
         "cover": "none",
         "cjk": 3306,
-        "fn": 0
-      },
-      {
-        "path": "knowledge/Geography/地形與地質.md",
-        "title": "地形與地質",
-        "category": "Geography",
-        "curation": "incubating",
-        "curationReason": "unverified",
-        "reason": "3 軸弱：腳註 0、零媒體、段落 38 段／中位 19 字",
-        "cover": "none",
-        "cjk": 2637,
         "fn": 0
       },
       {
@@ -1383,7 +1383,7 @@
         "curationReason": "unverified",
         "reason": "3 軸弱：腳註 0、零媒體、段落 69 段／中位 54 字",
         "cover": "none",
-        "cjk": 5363,
+        "cjk": 5364,
         "fn": 0
       },
       {
@@ -2553,6 +2553,17 @@
         "fn": 10
       },
       {
+        "path": "knowledge/People/黃聲遠.md",
+        "title": "黃聲遠：把宜蘭當成一座慢慢修的城，蓋沒有圍牆的建築",
+        "category": "People",
+        "curation": "incubating",
+        "curationReason": null,
+        "reason": "3 軸弱：字數 1998、腳註 3、零媒體",
+        "cover": "none",
+        "cjk": 1998,
+        "fn": 3
+      },
+      {
         "path": "knowledge/People/黃震南.md",
         "title": "黃震南",
         "category": "People",
@@ -3123,14 +3134,15 @@
     "knowledge/Technology/地震預警系統.md",
     "knowledge/Technology/報禁解除.md",
     "knowledge/People/陳樹菊.md",
-    "knowledge/People/黃聲遠.md",
     "knowledge/People/徐巧芯.md",
     "knowledge/People/蕭上農.md",
-    "knowledge/People/陳菊.md",
+    "knowledge/Technology/數位身分證與數位政府.md",
     "knowledge/People/三毛.md",
-    "knowledge/People/魏哲家.md",
     "knowledge/Technology/雪山隧道.md",
-    "knowledge/People/施明德.md",
+    "knowledge/People/陳菊.md",
+    "knowledge/People/魏哲家.md",
+    "knowledge/People/吳百福.md",
+    "knowledge/Geography/地形與地質.md",
     "knowledge/Lifestyle/夜生活與KTV文化.md",
     "knowledge/About/台灣官方網站資源.md",
     "knowledge/About/台灣官方網站資源重寫.md",
@@ -3317,6 +3329,7 @@
     "knowledge/Economy/旺旺.md",
     "knowledge/Economy/照護連續性.md",
     "knowledge/Economy/生活市集.md",
+    "knowledge/Economy/稅收結構.md",
     "knowledge/Economy/紡織業.md",
     "knowledge/Economy/羊奶.md",
     "knowledge/Economy/萊爾富.md",
@@ -3383,7 +3396,6 @@
     "knowledge/Geography/台灣行政區劃.md",
     "knowledge/Geography/台灣農業地景與產業分布.md",
     "knowledge/Geography/台灣都市發展與城鄉差距.md",
-    "knowledge/Geography/地形與地質.md",
     "knowledge/Geography/城市特色與區域文化.md",
     "knowledge/Geography/安坑輕軌.md",
     "knowledge/Geography/擎天崗.md",
@@ -3575,7 +3587,6 @@
     "knowledge/People/吳哲宇.md",
     "knowledge/People/吳大猷.md",
     "knowledge/People/吳寶春.md",
-    "knowledge/People/吳百福.md",
     "knowledge/People/呂捷.md",
     "knowledge/People/呂秀蓮.md",
     "knowledge/People/周子瑜.md",
@@ -3603,6 +3614,7 @@
     "knowledge/People/徐熙媛.md",
     "knowledge/People/戴資穎.md",
     "knowledge/People/方序中.md",
+    "knowledge/People/施明德.md",
     "knowledge/People/明華園.md",
     "knowledge/People/曹興誠.md",
     "knowledge/People/曾博恩.md",
@@ -3751,6 +3763,7 @@
     "knowledge/People/黃春明.md",
     "knowledge/People/黃氏兄弟.md",
     "knowledge/People/黃玉嬌.md",
+    "knowledge/People/黃聲遠.md",
     "knowledge/People/黃震南.md",
     "knowledge/People/黑貓老師.md",
     "knowledge/People/龍應台.md",
@@ -3885,7 +3898,6 @@
     "knowledge/Technology/台灣音響產業發展.md",
     "knowledge/Technology/國家文化記憶庫.md",
     "knowledge/Technology/均一教育平台.md",
-    "knowledge/Technology/數位身分證與數位政府.md",
     "knowledge/Technology/東亞文字輸入法.md",
     "knowledge/Technology/活俠傳.md",
     "knowledge/Technology/海底電纜.md",

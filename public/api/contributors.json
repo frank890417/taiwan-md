@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-11-19T22:07:14.412Z",
+  "lastUpdated": "2026-11-20T22:06:09.884Z",
   "totals": {
-    "contributors": 80,
+    "contributors": 81,
     "activeWindow": "last 30d"
   },
   "leaderboard": [
     {
       "login": "frank890417",
-      "commits": 10738,
+      "commits": 10748,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-11-20 02:36:20 +0800",
+      "lastCommitAt": "2026-11-21 03:13:13 +0800",
       "primaryArea": "system",
       "breakdown": {
         "content": 1838,
-        "system": 5459,
+        "system": 5463,
         "translation": 2519
       }
     },
@@ -35,21 +35,21 @@
     },
     {
       "login": "tboydar",
-      "commits": 210,
+      "commits": 212,
       "avatarUrl": "https://avatars.githubusercontent.com/u/169805?v=4",
       "profileUrl": "https://github.com/tboydar",
       "firstCommitAt": "2026-03-23 22:51:19 +0800",
-      "lastCommitAt": "2026-11-17 22:25:53 +0800",
+      "lastCommitAt": "2026-11-19 22:21:58 +0800",
       "primaryArea": "content",
       "breakdown": {
-        "content": 107,
+        "content": 109,
         "system": 21,
         "translation": 101
       }
     },
     {
       "login": "aminzai",
-      "commits": 133,
+      "commits": 137,
       "avatarUrl": "https://avatars.githubusercontent.com/u/71848?v=4",
       "profileUrl": "https://github.com/aminzai",
       "firstCommitAt": null,
@@ -666,6 +666,13 @@
       "types": ["💻", "🖋️"]
     },
     {
+      "login": "kafulai1111",
+      "name": "kafulai1111",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/355646281?v=4",
+      "profileUrl": "https://github.com/kafulai1111",
+      "types": ["💻"]
+    },
+    {
       "login": "ycku",
       "name": "ycku",
       "avatarUrl": "https://avatars.githubusercontent.com/u/20721473?v=4",
@@ -865,14 +872,14 @@
     },
     {
       "login": "tboydar",
-      "commits": 210,
+      "commits": 212,
       "avatarUrl": "https://avatars.githubusercontent.com/u/169805?v=4",
       "profileUrl": "https://github.com/tboydar",
       "firstCommitAt": "2026-03-23 22:51:19 +0800",
-      "lastCommitAt": "2026-11-17 22:25:53 +0800",
+      "lastCommitAt": "2026-11-19 22:21:58 +0800",
       "primaryArea": "content",
       "breakdown": {
-        "content": 107,
+        "content": 109,
         "system": 21,
         "translation": 101
       }
@@ -923,15 +930,15 @@
   "topSystem": [
     {
       "login": "frank890417",
-      "commits": 10738,
+      "commits": 10748,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-11-20 02:36:20 +0800",
+      "lastCommitAt": "2026-11-21 03:13:13 +0800",
       "primaryArea": "system",
       "breakdown": {
         "content": 1838,
-        "system": 5459,
+        "system": 5463,
         "translation": 2519
       }
     },
@@ -1064,23 +1071,9 @@
       }
     }
   ],
-  "weeklyActive": 2,
-  "monthlyActive": 6,
+  "weeklyActive": 3,
+  "monthlyActive": 7,
   "recentlyJoined": [
-    {
-      "login": "weiso",
-      "commits": 5,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/19347412?v=4",
-      "profileUrl": "https://github.com/weiso",
-      "firstCommitAt": "2026-10-21 08:02:47 +0000",
-      "lastCommitAt": "2026-11-01 14:36:01 +0800",
-      "primaryArea": "content",
-      "breakdown": {
-        "content": 4,
-        "system": 0,
-        "translation": 1
-      }
-    },
     {
       "login": "CKS40660",
       "commits": 6,
@@ -1091,6 +1084,20 @@
       "primaryArea": "content",
       "breakdown": {
         "content": 6,
+        "system": 0,
+        "translation": 0
+      }
+    },
+    {
+      "login": "kafulai1111",
+      "commits": 1,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/355646281?v=4",
+      "profileUrl": "https://github.com/kafulai1111",
+      "firstCommitAt": "2026-11-14 23:25:42 +0800",
+      "lastCommitAt": "2026-11-14 23:25:42 +0800",
+      "primaryArea": "other",
+      "breakdown": {
+        "content": 0,
         "system": 0,
         "translation": 0
       }

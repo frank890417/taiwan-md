@@ -1,99 +1,95 @@
 {
-  "total_zh": 14217,
-  "total_en": 1186,
+  "total_zh": 14293,
+  "total_en": 1192,
   "coverage_en": 8.3,
   "categories": {
-    "Nature": {
-      "zh": 41,
-      "en": 41
-    },
-    "ru": {
-      "zh": 1185,
-      "en": 0
-    },
-    "fr": {
-      "zh": 1185,
-      "en": 0
-    },
-    "People": {
-      "zh": 298,
-      "en": 298
-    },
-    "ar": {
-      "zh": 1182,
-      "en": 0
-    },
-    "de": {
-      "zh": 1184,
-      "en": 0
-    },
-    "ko": {
+    "hi": {
       "zh": 1187,
       "en": 0
     },
-    "ja": {
-      "zh": 1185,
-      "en": 0
-    },
-    "hi": {
-      "zh": 1179,
-      "en": 0
-    },
     "id": {
-      "zh": 1185,
+      "zh": 1192,
       "en": 0
     },
-    "vi": {
-      "zh": 1182,
+    "ja": {
+      "zh": 1192,
       "en": 0
     },
-    "es": {
-      "zh": 1186,
+    "ar": {
+      "zh": 1190,
       "en": 0
     },
     "pt": {
-      "zh": 1186,
+      "zh": 1192,
       "en": 0
     },
     "History": {
       "zh": 94,
-      "en": 93
+      "en": 94
     },
-    "Culture": {
-      "zh": 118,
-      "en": 118
+    "de": {
+      "zh": 1192,
+      "en": 0
     },
-    "Society": {
-      "zh": 129,
-      "en": 128
-    },
-    "Music": {
-      "zh": 37,
-      "en": 37
-    },
-    "Technology": {
-      "zh": 69,
-      "en": 69
-    },
-    "Geography": {
-      "zh": 85,
-      "en": 85
-    },
-    "Food": {
-      "zh": 90,
-      "en": 90
+    "vi": {
+      "zh": 1189,
+      "en": 0
     },
     "Lifestyle": {
       "zh": 58,
       "en": 58
     },
-    "Economy": {
-      "zh": 88,
+    "fr": {
+      "zh": 1191,
+      "en": 0
+    },
+    "ru": {
+      "zh": 1192,
+      "en": 0
+    },
+    "es": {
+      "zh": 1192,
+      "en": 0
+    },
+    "ko": {
+      "zh": 1192,
+      "en": 0
+    },
+    "Music": {
+      "zh": 37,
+      "en": 37
+    },
+    "Society": {
+      "zh": 129,
+      "en": 129
+    },
+    "Food": {
+      "zh": 90,
+      "en": 90
+    },
+    "Geography": {
+      "zh": 85,
       "en": 85
     },
-    "Politics": {
-      "zh": 21,
-      "en": 21
+    "Nature": {
+      "zh": 41,
+      "en": 41
+    },
+    "People": {
+      "zh": 298,
+      "en": 298
+    },
+    "Culture": {
+      "zh": 118,
+      "en": 118
+    },
+    "Technology": {
+      "zh": 69,
+      "en": 69
+    },
+    "Economy": {
+      "zh": 89,
+      "en": 89
     },
     "Art": {
       "zh": 52,
@@ -103,10 +99,14 @@
       "zh": 9,
       "en": 9
     },
+    "Politics": {
+      "zh": 21,
+      "en": 21
+    },
     "resources": {
       "zh": 2,
       "en": 2
     }
   },
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
 }
