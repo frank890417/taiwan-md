@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-20T19:14:21+08:00",
-    "zhCommitHead": "40fa83125e",
+    "lastUpdated": "2026-11-20T19:44:04+08:00",
+    "zhCommitHead": "3c1ee78d2d",
     "totalZh": 1192,
     "activeLanguages": [
       "en",
@@ -44,10 +44,10 @@
       },
       "es": {
         "total_zh": 1192,
-        "fresh": 1176,
+        "fresh": 1177,
         "stale": 11,
         "metadata_stale": 4,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       },
       "fr": {
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1192,
-        "fresh": 1178,
-        "stale": 8,
+        "fresh": 1180,
+        "stale": 7,
         "metadata_stale": 4,
-        "missing": 2,
+        "missing": 1,
         "orphan": 0
       },
       "pt": {
@@ -92,8 +92,8 @@
       },
       "ar": {
         "total_zh": 1192,
-        "fresh": 1176,
-        "stale": 9,
+        "fresh": 1177,
+        "stale": 8,
         "metadata_stale": 4,
         "missing": 3,
         "orphan": 0
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1192,
-        "fresh": 1158,
+        "fresh": 1159,
         "stale": 24,
         "metadata_stale": 8,
-        "missing": 2,
+        "missing": 1,
         "orphan": 0
       }
     },
@@ -9065,7 +9065,20 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Economy/national-debt-clock.md",
+          "translatedFrom": "Economy/國債鐘.md",
+          "sourceCommitSha": "cd9d99cf71",
+          "sourceContentHash": "sha256:804cb929e49d0000",
+          "sourceBodyHash": "sha256:c90510ae0ea9b7ac",
+          "translatedAt": "2026-11-20T16:47:05+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 3,
+          "bytes": 10609,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Economy/national-debt-clock.md",
@@ -17699,7 +17712,20 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/tax-revenue-structure.md",
+          "translatedFrom": "Economy/稅收結構.md",
+          "sourceCommitSha": "7d5fb3745f",
+          "sourceContentHash": "sha256:e67421aeb01e9408",
+          "sourceBodyHash": "sha256:8127980ebbc69258",
+          "translatedAt": "2026-11-20T16:47:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 2,
+          "bytes": 13929,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/tax-revenue-structure.md",
@@ -17740,7 +17766,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/tax-revenue-structure.md",
+          "translatedFrom": "Economy/稅收結構.md",
+          "sourceCommitSha": "7d5fb3745f",
+          "sourceContentHash": "sha256:e67421aeb01e9408",
+          "sourceBodyHash": "sha256:8127980ebbc69258",
+          "translatedAt": "2026-11-20T16:47:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 2,
+          "bytes": 17941,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -20733,20 +20772,18 @@
         "ar": {
           "path": "ar/Economy/taiwan-stock-market.md",
           "translatedFrom": "Economy/台灣股市與資本市場.md",
-          "sourceCommitSha": "9c5ad569a",
-          "sourceContentHash": "sha256:b978d4b2bf9bc301",
-          "sourceBodyHash": "sha256:c34c5e10c2fbc812",
-          "translatedAt": "2026-08-09T03:51:07.771385+00:00",
+          "sourceCommitSha": "b1a5fea00e",
+          "sourceContentHash": "sha256:05af3274e03b254d",
+          "sourceBodyHash": "sha256:c641c2a8bf14fd32",
+          "translatedAt": "2026-11-20T16:47:15+08:00",
           "translationLastCommit": "a1e2b6fc",
           "translationLastModified": "2026-10-10T23:41:04+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "bytes": 45990,
+          "bytes": 43807,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+4 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Economy/taiwan-stock-market.md",
@@ -167835,8 +167872,8 @@
           "sourceContentHash": "sha256:dd1dd6c92c65eddb",
           "sourceBodyHash": "sha256:33bbf00febca421e",
           "translatedAt": "2026-11-20T09:43:20.527711+00:00",
-          "translationLastCommit": "f3425b4b",
-          "translationLastModified": "2026-11-07T20:01:45+08:00",
+          "translationLastCommit": "3c1ee78d",
+          "translationLastModified": "2026-11-20T19:14:21+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "bytes": 45339,
@@ -229236,18 +229273,18 @@
         "id": {
           "path": "id/Culture/chinese-professional-baseball-league.md",
           "translatedFrom": "Culture/中華職棒.md",
-          "sourceCommitSha": "02ca87bad",
-          "sourceContentHash": "sha256:e51c494d0dd60536",
-          "sourceBodyHash": "sha256:14343c2d821c678c",
-          "translatedAt": "2026-11-04T00:29:15.281746+00:00",
+          "sourceCommitSha": "4aa7893f0d",
+          "sourceContentHash": "sha256:fd4b2234f650988d",
+          "sourceBodyHash": "sha256:4190f802fd8b497d",
+          "translatedAt": "2026-11-20T11:10:09.958505+00:00",
           "translationLastCommit": "6f0900dc",
           "translationLastModified": "2026-11-04T10:12:03+08:00",
           "inferred": false,
-          "footnoteDefs": 31,
-          "bytes": 23671,
+          "footnoteDefs": 32,
+          "bytes": 26188,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (32→31)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/chinese-professional-baseball-league.md",
