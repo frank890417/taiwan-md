@@ -43,6 +43,9 @@ MAG = (r"(?:ribu|juta|miliar|triliun|mil|millones|millón|milliards?|millions?|"
        r"ألف|آلاف|مليون|مليار|हज़ार|लाख|करोड़|अरब|nghìn|triệu|tỷ|"
        r"Tausend|Millionen|Milliarden)")
 
+# 金額數字：千分位／小數點可以在中間，但要收在數字上（尾巴的逗號句號是標點不是金額）
+NUM = r"[0-9](?:[0-9.,]*[0-9])?"
+
 CURRENCY = {
     "id": r"yuan", "es": r"yuan(?:es)?", "fr": r"yuans?", "pt": r"yuan(?:es)?",
     "en": r"yuan", "de": r"Yuan", "ru": r"юан\w*", "ar": r"يوان",
@@ -118,7 +121,11 @@ def scan(path: Path) -> list[str]:
     # 文章本身就在講人民幣（中國公司、中國市場）→ 那裡的 yuan 是對的
     if "人民幣" in zh.read_text(encoding="utf-8"):
         return []
-    pat = re.compile(rf"[0-9][0-9.,]*[0-9]?\s?(?:{MAG}\s)?{CURRENCY[lang]}\b", re.I)
+    # 數字必須收在數字上：「2010, Yuan began…」的逗號是子句邊界，不是金額的一部分。
+    # 2026-11-21 babel-nightly：〈黑冠麻鷺〉en/es/pt 每次重譯都被「Starting in 2010, Yuan
+    # （袁孝維）began systematic banding」擋成 currency[1]，跨兩種模型同一理由直到被判
+    # cascade exhausted；同族還有「2016, Yuan de Controle」（監察院）、「n.º 1, Yuan-shan」（圓山）。
+    pat = re.compile(rf"{NUM}\s?(?:{MAG}\s)?{CURRENCY[lang]}\b", re.I)
     hits = []
     for m in pat.finditer(text):
         if PROPER_NOUN.match(text[m.end():m.end() + 12]):
@@ -132,7 +139,7 @@ def scan(path: Path) -> list[str]:
     loc = LOCAL_CURRENCY.get(lang)
     if loc:
         # 數字前面緊貼字母或連字號是代碼的一部分（ISO 3166-1），不是金額
-        lpat = re.compile(rf"(?<![\w\-])[0-9][0-9.,]*[0-9]?\s?(?:{MAG}\s)?(?:{loc})\b", re.I)
+        lpat = re.compile(rf"(?<![\w\-]){NUM}\s?(?:{MAG}\s)?(?:{loc})\b", re.I)
         ok = re.compile(LOCAL_OK[lang], re.I)
         gen = GENERIC_UNIT.get(lang)
         for m in lpat.finditer(text):
