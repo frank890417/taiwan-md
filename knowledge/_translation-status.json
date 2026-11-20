@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-20T08:19:23+08:00",
-    "zhCommitHead": "a440670df7",
+    "lastUpdated": "2026-11-20T08:24:53+08:00",
+    "zhCommitHead": "a8e2546e94",
     "totalZh": 1191,
     "activeLanguages": [
       "en",
@@ -100,10 +100,10 @@
       },
       "ru": {
         "total_zh": 1191,
-        "fresh": 1185,
+        "fresh": 1186,
         "stale": 4,
         "metadata_stale": 0,
-        "missing": 2,
+        "missing": 1,
         "orphan": 0
       },
       "de": {
@@ -2820,8 +2820,8 @@
           "sourceContentHash": "sha256:3b3422dc3e5660c1",
           "sourceBodyHash": "sha256:c40d04f82db2ee2c",
           "translatedAt": "2026-11-19T22:47:42.430915+00:00",
-          "translationLastCommit": "00e311c9",
-          "translationLastModified": "2026-09-08T20:23:19+08:00",
+          "translationLastCommit": "a8e2546e",
+          "translationLastModified": "2026-11-20T08:19:23+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "bytes": 29658,
@@ -16571,8 +16571,8 @@
           "sourceContentHash": "sha256:945474d4c297700a",
           "sourceBodyHash": "sha256:f7975ef2c038bd34",
           "translatedAt": "2026-11-19T23:40:27.178753+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a8e2546e",
+          "translationLastModified": "2026-11-20T08:19:23+08:00",
           "inferred": false,
           "footnoteDefs": 19,
           "bytes": 27620,
@@ -18113,7 +18113,20 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Economy/taiwan-solar-power.md",
+          "translatedFrom": "Economy/太陽光電.md",
+          "sourceCommitSha": "24f563e646",
+          "sourceContentHash": "sha256:f5a4019a85575efd",
+          "sourceBodyHash": "sha256:84909ece10eb2627",
+          "translatedAt": "2026-11-20T03:57:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 1,
+          "bytes": 16698,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"

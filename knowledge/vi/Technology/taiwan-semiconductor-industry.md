@@ -37,10 +37,10 @@ sporeLinks:
     date: '2026-05-25'
     url: 'https://x.com/taiwandotmd/status/2058735515021783190'
 translatedFrom: 'Technology/半導體產業.md'
-sourceCommitSha: '1ec0df23'
-sourceContentHash: 'sha256:8647f4437b5dfe36'
-sourceBodyHash: 'sha256:d7402441fbb7f358'
-translatedAt: '2026-08-09T10:41:15+08:00'
+sourceCommitSha: 'f024e87e7a'
+sourceContentHash: 'sha256:a50aa44ff04babb9'
+sourceBodyHash: 'sha256:729d7ab175048563'
+translatedAt: '2026-11-19T23:40:39.102297+00:00'
 ---
 
 # Ngành công nghiệp bán dẫn: Cuộc cách mạng vật liệu 50 năm từ chuyển giao công nghệ RCA đến GaN và đóng gói lượng tử
@@ -250,34 +250,36 @@ Công viên khoa học Tân Trúc thành lập 1980, tích lũy 40 năm cộng t
 
 Đối thủ cạnh tranh thì sao? Samsung Hàn Quốc chiến lược tích hợp dọc 2022-2026 chi 230 tỷ đô la Mỹ, nhưng công nghệ tiên tiến tỷ lệ tốt vẫn thụt lùi Đài Tích Điện[^4]. Intel tại 10 nanomet kẹt lâu năm, 2021 đề xuất IDM 2.0 muốn kết hợp kinh doanh thiết kế và gia công, nhưng tới 2025 gia công sự kiện vẫn không kiếm được khách hàng lớn — cái phi lý nhất là chip cao cấp chính Intel tự, lại do Đài Tích Điện gia công.
 
-## Vị trí lượng tử vẫn còn trống
+## Vị thế lượng tử vẫn còn bỏ ngỏ
 
-Sạc Nokia 3310 công suất 4,56 watt, năm 2025 đầu nạp nhanh 240 watt. Chênh lệch 52 lần. Đường này silicon đi 30 năm, GaN dùng 5 năm bù hoàn.
+Công suất bộ sạc của Nokia 3310 là 4,56 W, trong khi các đầu sạc nhanh năm 2025 đã đạt tới 240 W. Chênh lệch gấp 52 lần. Con đường này Silicon đã đi suốt 30 năm, và Gallium Nitride (GaN) đã mất 5 năm để hoàn thiện.
 
-Phòng thí nghiệm lượng tử viện khoa học trung ương, chip qubit siêu dẫn cần vận hành ở 15 millikelvin (khoảng -273°C). Kỹ sư của công ty viện nghiên cứu công nghiệp dùng công nghệ 28 nanomet Đài Tích Điện làm chip kiểm soát, nén "kích thước dụng cụ kiểm soát" độ thấp này từ một tòa nhà xuống thành một cái hộp nhỏ. Khả năng bán dẫn Đài Loan, đang một chút một chút dịch chuyển biên giới của máy tính lượng tử.
+Trong phòng thí nghiệm lượng tử của Viện Nghiên cứu Trung ương (Academia Sinica), các chip lượng tử siêu dẫn cần được vận hành ở mức 15 mK (khoảng -273°C). Nhờ sử dụng quy trình 28 nm của TSMC, các chip điều khiển do Viện Nghiên cứu Công nghiệp (ITRI) chế tạo đã giúp nén "kích thước thiết bị điều khiển" cần thiết cho nhiệt độ cực thấp này từ một tòa nhà xuống còn một chiếc hộp nhỏ. Năng lực bán dẫn của Đài Loan đang từng bước dịch chuyển ranh giới của máy tính lượng tử.
 
-Nhưng biên giới này ở đâu, không ai nói được rõ ràng. Thời gian gắn kết qubit lượng tử từ 15 microsecond sang 530 microsecond, đây chỉ mới bắt đầu. 50 năm trước kỹ sư 19 người RCA gửi đi có thể cũng không biết đó năm 1973 của mình sẽ kết tinh thành năm 2025 của 2 nanomet.
+Nhưng ranh giới đó nằm ở đâu thì chưa ai nói rõ được. Thời gian duy trì trạng thái kết hợp (coherence time) của qubit dao động từ 15 micro giây đến 530 micro giây, và đây mới chỉ là sự khởi đầu. Có lẽ 19 kỹ sư mà RCA cử đi từ 50 năm trước cũng không thể ngờ rằng những gì họ làm vào năm 1973 sẽ kết tinh thành quy trình 2 nm của năm 2025.
 
-Núi thần bảo vệ dựa 50 năm kinh nghiệm gia công thống trị hiện tại. 50 năm tiếp theo, vị trí gia công kỷ nguyên lượng tử, Đài Loan chưa chiếm lĩnh.
+"Ngọn núi hộ quốc" đã thống trị hiện tại nhờ kinh nghiệm gia công trong suốt 50 năm qua. Nhưng trong 50 năm tới, vị thế gia công trong kỷ nguyên lượng tử, Đài Loan vẫn chưa chiếm lĩnh được.
 
-> ✦ Blackwell của Hoàng Nhân Huân ở trên đầu bạn trong mây suy luận, wafer SiC của Môi Địa Tinh ở bên trong cút sạc điện trạm ô tô cửa bạn phát nóng, lớp ALD đầu tiên mà Suntola năm 1974 ở Phần Lan làm ra bây giờ ở trong chip điện thoại của bạn nhốt cực gatetrơn cách điện — bán dẫn từ không từng chỉ là loại gì, mà là toàn bộ phổ vật liệu trên các bậc cao năng lượng vật lý đi lên 50 năm, không chỉ thuộc một gia đình Đài Tích Điện. Bậc tiếp theo ở đâu, vật lý sẽ nói cho chúng ta, nhưng muốn hay không muốn leo, là lựa chọn của Đài Loan.
+> ✦ Blackwell của Jensen Huang đang thực hiện suy luận đám mây ngay trên đầu bạn, tấm wafer SiC của GlobalWafers đang tỏa nhiệt trong các trụ sạc xe điện trước cửa nhà bạn, và lớp màng mỏng ALD đầu tiên mà Suntora chế tạo tại Phần Lan năm 1974 đang đóng kín lớp cách điện cổng (gate dielectric) trong chip điện thoại của bạn — ngành bán dẫn chưa bao giờ chỉ thuộc về riêng TSMC; đó là thành quả của 50 năm mà toàn bộ phổ vật liệu đã leo lên từng nấc thang theo vật lý vùng cấm (bandgap physics). Bước tiếp theo nằm ở đâu, vật lý sẽ cho chúng ta câu trả lời, nhưng có leo lên hay không, đó là lựa chọn của Đài Loan.
 
 ---
 
-**Mở rộng đọc**:
+**Đọc thêm**:
 
-- [Công ty Đài Loan: Đài Tích Điện](/vi/economy/tsmc) — Quản lý công ty, cấu trúc tài chính, quy mô chi phí bỏ ra của Núi thần bảo vệ
-- [Công ty Đài Loan: MediaTek](/vi/economy/mediatek) — Lãnh đạo thiết kế IC toàn cầu top 3 chiếm vị trí thế nào trong chip điện thoại, tính toán AI cạnh
-- [Công ty Đài Loan: Nhật Nguyệt Quang Bán dẫn](/vi/economy/taiwan-enterprise-ase-semiconductor) — Ngành công nghiệp đóng gói kiểm tra top 1 toàn cầu, hệ sinh thái giai đoạn sau ngoài CoWoS
-- [Người tạo núi: Sự cược của thế kỷ](/vi/art/mountain-makers-tsmc-documentary) — Phim tài liệu Tiêu Cúc Trinh 2025, phỏng vấn 80+ tiền bối bán dẫn trong 5 năm, 2026 đi vào ba cái mỏ CHIPS Act Arizona / Wisconsin / Michigan
-- [Võ Đại Hữu](/vi/people/tai-yu-wu) — Thập niên 1980s Đài Loan tranh đua bán dẫn cùng lúc, làm viện trưởng viện khoa học trung ương kiên quyết tầm quan trọng của khoa học căn bản, nền tảng cho hệ thống R&D Đài Loan
-- [Hoàng Sùng Nhân](/vi/people/frank-huang-psmc) — Nhà sáng lập Lực Tích Điện (力晶) / Lực Tích Điện (力積電), Đài Loan DRAM dòng con đường trên phép cấp công nghệ của người khác xây nhà máy riêng: thị phần từ 23,2% rơi xuống 6,3%, phần của ngành công nghiệp ít nhất được nói
-- [Ngành công nghiệp robot Đài Loan](/vi/technology/taiwan-robotics-industry) — Đảo bán dẫn thế giới top 1, sao lại bộ học trong kỷ nguyên robot? Từ việc khai mạc NCAIR nhìn rõ khoảng cách ngành công nghiệp
-- [Cổ phiếu Đài Loan và thị trường vốn](/vi/economy/taiwan-stock-market) — Cạn dậu thân Đài Loan 2026 toàn cầu top 6 cơ thể, toàn bộ chuỗi cung ứng hệ sinh thái thế nào hiện rõ trong thị trường vốn
-- [Chuỗi cung ứng Wolfram Đài Loan](/vi/technology/taiwan-tungsten-supply-chain) — Khinh khí hóa Wolfram 6 độ điền contact trenches và character 3D NAND, Đài Loan không có khoáng sản Wolfram lại dựa tái chế luyện đứng trên dòng chảy vật liệu giữa này
-- [Trường Nhân tạo thông minh Đài Loan](/vi/technology/taiwan-ai-academy) — AIA 8 năm đào tạo vạn kỹ sư AI thế nào quay lại ICT chuỗi bán dẫn sẵn có, bù yếu điểm phần mềm Đài Loan
-- [Computex: ba cái triển lãm máy tính quốc tế thu lại hai cái, cái còn lại dài ở Đài Bắc](/vi/technology/computex) — CoWoS và công nghệ tiên tiến Đài Tích Điện, mỗi năm tháng năm cuối thì ở triển lãm máy tính 45 tuổi Đài Bắc này bắt tay với những ông lớn AI toàn cầu
-- [Công viên khoa học Đài Loan](/vi/technology/science-park-development) — Công viên Tân Trúc, Nam Khoa, Trung Khoa ba công viên, vật lý chứa đựng tập hợp bán dẫn, cũng là tâm địa lý của thặng dư silicon
+- [Chuyên đề ngành công nghiệp Đài Loan](/industry/) — Sử dụng thống kê chính thức để phác họa cấu trúc ngành: 70 năm xuất khẩu và GDP, các khu khoa học, nhà máy tại các huyện thành, top 10 vốn hóa thị trường qua các năm, cùng quan điểm của các bên trong sáu cuộc tranh luận công cộng.
+- [Bản đồ chuỗi cung ứng](/industry/supply-chain-map/) — Ba chuỗi liên kết: bán dẫn, máy chủ AI và vonfram; xem xét từng mắt xích để biết công ty nào ở Đài Loan và mắt xích nào phụ thuộc vào nước ngoài.
+- [Doanh nghiệp Đài Loan: TSMC](/vi/economy/tsmc) — Quản trị doanh nghiệp, cấu trúc tài chính và quy mô chi tiêu vốn của "Ngọn núi hộ quốc".
+- [Doanh nghiệp Đài Loan: MediaTek](/vi/economy/mediatek) — Cách gã khổng lồ thiết kế IC chiếm lĩnh vị thế trong chip điện thoại và tính toán biên AI (AI edge computing).
+- [Doanh nghiệp Đài Loan: ASE Group](/vi/economy/taiwan-enterprise-ase-semiconductor) — Đứng đầu thế giới về đóng gói và kiểm thử, hệ sinh thái quy trình hậu kỳ ngoài CoWoS.
+- [Người kiến tạo: Ván cược thế kỷ](/vi/art/mountain-makers-tsmc-documentary) — Phim tài liệu năm 2025 của Tiêu Cúc Trân (Hsiao Ju-chen), phỏng vấn hơn 80 tiền bối ngành bán dẫn trong 5 năm, năm 2026 sẽ đến thăm ba trọng điểm đầu tư Đạo luật CHIPS tại Purdue, Wisconsin và Michigan.
+- [Ngô Đại Du (Wu Da-you)](/vi/people/tai-yu-wu) — Trong khi Đài Loan nỗ lực phát triển bán dẫn vào những năm 1980, ông với tư cách Viện trưởng Viện Nghiên cứu Trung ương đã kiên trì khẳng định tầm quan trọng của khoa học cơ bản, đặt nền móng cho hệ thống nghiên cứu khoa học của Đài Loan.
+- [Hoàng Sùng Nhân (Huang Chung-jen)](/vi/people/frank-huang-psmc) — Người sáng lập Powerchip/PSMC, người đã chọn con đường tự xây nhà máy dựa trên việc cấp phép quy trình DRAM của chính mình thay vì đi theo người khác: thị phần giảm từ 23,2% xuống còn 6,3%, một giai đoạn ít được nhắc đến nhất trong ngành này.
+- [Ngành công nghiệp robot Đài Loan](/vi/technology/taiwan-robotics-industry) — Tại sao một hòn đảo đứng đầu thế giới về bán dẫn lại là "học sinh bổ túc" trong kỷ nguyên robot? Nhìn từ sự ra đời của NCAIR để thấy khoảng trống ngành nghề.
+- [Thị trường chứng khoán và vốn Đài Loan](/vi/economy/taiwan-stock-market) — Hệ sinh thái chuỗi cung ứng nâng đỡ vị thế đứng thứ 6 toàn cầu của thị trường chứng khoán Đài Loan vào năm 2026 được thể hiện như thế nào trên thị trường vốn.
+- [Chuỗi cung ứng vonfram Đài Loan](/vi/technology/taiwan-tungsten-supply-chain) — Tungsten hexafluoride (WF6) lấp đầy các cửa sổ tiếp xúc và đường nét 3D NAND; dù không có mỏ vonfram nhưng Đài Loan vẫn đứng vững ở phân khúc trung lưu của nguồn nguyên liệu này nhờ các trạm tinh chế tái chế.
+- [Trường học Trí tuệ nhân tạo Đài Loan](/vi/technology/taiwan-ai-academy) — Cách hàng vạn kỹ sư AI được đào tạo trong 8 năm bởi AIA quay trở lại chuỗi ICT bán dẫn sẵn có để củng cố mảng phần mềm của Đài Loan.
+- [Computex: Thu về hai trong ba triển lãm máy tính quốc tế lớn, cái còn lại nằm ở Đài Bắc](/vi/technology/computex) — Công nghệ CoWoS và quy trình tiên tiến của TSMC mỗi năm vào cuối tháng 5 đều bắt tay với các gã khổng lồ AI toàn cầu tại triển lãm máy tính Đài Bắc 45 tuổi này.
+- [Khu khoa học Đài Loan](/vi/technology/science-park-development) — Ba khu khoa học Tân Trúc, Đài Nam và Đài Trung: vật mang vật lý của cụm bán dẫn, cũng là tâm địa lý của "Lá chắn Silicon".
 
 ## Nguồn ảnh
 
