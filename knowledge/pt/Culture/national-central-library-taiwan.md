@@ -32,10 +32,10 @@ rationale:
   whos_pushing_back: '國家圖書館的官方敘事強調完整保存與知識服務，出版者和數位典藏研究則提醒，電子出版格式、授權、永久保存成本與使用權並不會因為送存制度存在而自動解決。本文並列兩邊的制度事實。'
 curation: 'incubating'
 translatedFrom: 'Culture/國家圖書館.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:b188920097cf9184'
-sourceBodyHash: 'sha256:bf6baa44f84e7aa1'
-translatedAt: '2026-09-09T19:34:16+08:00'
+sourceCommitSha: '650297302f'
+sourceContentHash: 'sha256:9bb0d26fbfa502a7'
+sourceBodyHash: 'sha256:a2db633578f86780'
+translatedAt: '2026-11-20T07:57:25.287204+00:00'
 ---
 
 # Biblioteca Nacional: como uma biblioteca transforma as publicações de uma ilha na memória de um país
@@ -114,29 +114,29 @@ O que realmente sustenta a Biblioteca Nacional é o sistema de depósito dos edi
 
 A Biblioteca Nacional também, por meio do Centro de Pesquisa Sinológica, do Centro de Recursos de Sinologia de Taiwan no Exterior e da cooperação em recursos documentais chineses, faz com que as publicações de Taiwan e a documentação chinesa não fiquem só num prédio de Taipé. Essa cooperação internacional não é embalar a cultura de Taiwan como produto de exportação, mas permitir que diferentes instituições de acervo compartilhem catálogos, imagens e portais de pesquisa. A escala da preservação nacional, portanto, não se mede só pelo volume do acervo, mas também pela capacidade de se encontrar e se calibrar com outras instituições.
 
-## O serviço ao leitor é a saída da preservação
+## Os serviços ao leitor são a saída da preservação
 
-O sistema de preservação, no fim, tem de voltar a como o leitor entra no dado. O portão controlado e o balcão de credenciamento do salão de leitura da sede da Biblioteca Nacional, à primeira vista os lugares mais cotidianos do prédio, na verdade conectam o sistema de bastidor da documentação nacional ao usuário. O leitor obtém primeiro a habilitação de acesso, depois, via consulta ao acervo, dados bibliográficos e regras de leitura, aproxima-se de uma publicação que pode ter saído de mercado há muitos anos.[^3] [^17]
+O sistema de preservação, no fim, ainda precisa voltar a como o leitor acessa os dados. O ponto de controle e o balcão de credenciamento do salão de leitura da sede principal da Biblioteca Nacional, à primeira vista os lugares mais cotidianos do edifício, na verdade conectam o sistema de bastidores dos documentos nacionais ao usuário. O leitor primeiro obtém a credencial de acesso e, depois, por meio da consulta ao acervo, dos dados bibliográficos e das regras de leitura, aproxima-se de uma publicação que pode ter saído do mercado há muitos anos.[^3] [^17]
 
-Essa entrada também lembra que a digitalização não substitui todo serviço presencial. Recursos eletrônicos permitem busca remota, mas o bibliotecário segue precisando lidar com identificação de versão, uso de coleções especiais, restrições de direito autoral e contextualização do dado. O boletim de 2025 aponta a ascensão da letramento digital e a operação em duas pistas dos serviços de biblioteca, o que não significa que o papel vai desaparecer, mas que o leitor precisa simultaneamente de dois caminhos: descoberta online e confirmação física.[^14]
+Esta entrada também nos lembra que a digitalização não substitui todos os serviços presenciais. Recursos eletrônicos permitem a busca remota, mas os bibliotecários ainda precisam lidar com a identificação de versões, o uso de coleções especiais, restrições de direitos autorais e a contextualização dos dados. O boletim da biblioteca de 2025 aponta a ascensão do letramento digital e o funcionamento em duas frentes dos serviços da biblioteca, o que não significa que o impresso esteja prestes a desaparecer, mas que os leitores precisam simultaneamente de dois caminhos: a descoberta online e a confirmação presencial.[^14]
 
-![Salão de leitura da sede da Biblioteca Nacional, onde o serviço de credenciamento e o portão controlado dão acesso ao acervo.](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Interior_of_National_Central_Library_ROC_-_01._2024_-_01_-_11.jpg/500px-Interior_of_National_Central_Library_ROC_-_01._2024_-_01_-_11.jpg)
+![Salão de leitura da sede principal da Biblioteca Nacional, acesso ao acervo a partir do serviço de credenciamento e da entrada controlada.](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Interior_of_National_Central_Library_ROC_-_01._2024_-_01_-_11.jpg/500px-Interior_of_National_Central_Library_ROC_-_01._2024_-_01_-_11.jpg)
 
-_Imagem: Salão de leitura da sede da Biblioteca Nacional. Foto de 阿道 (Ādào), 2024-01-11, CC BY-SA 4.0. Detalhes na página da imagem._
+_Imagem: Salão de leitura da sede principal da Biblioteca Nacional. Foto de A-do, 2024-01-11, CC BY-SA 4.0. Créditos das imagens listados no rodapé._
 
 ## Da lista de depósito à interface do editor
 
-A mais recente mudança institucional faz o depósito legal parecer mais uma interface do editor do que apenas enviar uma caixa de papel. O boletim de 2025 da Biblioteca Nacional registra que o sistema de depósito de publicações entrou em operação e foi integrado ao serviço de solicitação da Rede Nacional de Novas Publicações. Isso significa que o fluxo enfrentado pelo editor inclui registro de dados, informação bibliográfica, lista de depósito e gestão posterior; o depósito deixa de ser mero complemento administrativo ao fim do fluxo editorial.[^13] [^14]
+A mais recente mudança no sistema faz com que o depósito legal se assemelhe mais a uma interface do editor, e não apenas ao envio de uma caixa de papelão. O boletim de 2025 da Biblioteca Nacional registra que o sistema de depósito de publicações entrou em operação e foi integrado ao serviço de solicitação da Rede Nacional de Informações de Novos Livros. Isso significa que o fluxo enfrentado pelos editores inclui registro de dados, informações bibliográficas, lista de depósito e gestão subsequente; o depósito não é mais apenas uma etapa administrativa complementar ao final do processo editorial.[^13] [^14]
 
-O boletim de 2025 da Biblioteca Nacional também coloca letramento digital, cooperação transfronteiriça de digitalização de livros antigos chineses e difusão internacional de resultados de pesquisa de Taiwan na mesma edição. Vistos em conjunto, percebe-se que o trabalho da Biblioteca Nacional avança em duas linhas simultâneas: uma recolhe as publicações de Taiwan ao sistema nacional, a outra leva o material já preservado a redes de pesquisa maiores. Preservação e difusão não são relação de antes-depois, mas serviços que precisam ser desenhados ao mesmo tempo.[^14]
+O boletim de 2025 da Biblioteca Nacional também coloca, na mesma edição, a alfabetização digital, a cooperação transfronteiriça na digitalização de antigos textos chineses e a divulgação internacional dos resultados de pesquisa da academia de Taiwan. Vistos em conjunto, esses itens revelam duas frentes de trabalho simultâneas da Biblioteca Nacional: uma recolhe as publicações de Taiwan para o sistema nacional; a outra leva os materiais já preservados a redes de pesquisa mais amplas. Preservação e divulgação não são etapas sequenciais, mas serviços que precisam ser projetados em conjunto.[^14]
 
-O manual de operação de gestão de autorização do sistema de depósito, bem como os formulários de adiamento de publicação, substituição e autorização de teses, expõem com mais clareza as frestas institucionais entre preservação e publicidade. A publicação pode ser primeiro depositada e catalogada; a abertura do texto integral depende então das condições de autorização do autor, editor ou da tese. Não é ineficiência do sistema, é resultado de o preservador ter de respeitar diferentes estados de direito.[^1]
+O manual de operação de gestão de autorizações do sistema de depósito, bem como os formulários de adiamento de divulgação, substituição e autorização de teses e dissertações, expõem com mais clareza as lacunas institucionais entre preservação e acesso público. As publicações podem ser primeiro depositadas e catalogadas; a divulgação do texto integral, por sua vez, deve ser tratada conforme as condições de autorização do autor, do editor ou da tese/dissertação. Não se trata de ineficiência do sistema, mas do resultado de os preservadores terem de respeitar diferentes estados de direitos.[^1]
 
-A reunião de construção e compartilhamento de memórias municipais da Memória de Taiwan leva a questão da sede central para o local. A Biblioteca Nacional já convocou o Ministério da Cultura, o Museu Nacional de História de Taiwan, os vinte e dois departamentos de cultura de municípios e bibliotecas locais para discutir cooperação, enfrentando explicitamente recursos audiovisuais, contexto original e cláusulas de licença Creative Commons. Para que a digitalização local entre na plataforma comum, não basta mover arquivos; é preciso dizer quem forneceu, como descrever, o que pode ser reutilizado.[^15]
+A reunião de construção e compartilhamento municipais da Memória de Taiwan, por sua vez, leva a questão da sede central para o nível local. A Biblioteca Nacional já havia convidado o Ministério da Cultura, o Museu Nacional de História de Taiwan, as secretarias de cultura dos vinte e dois municípios e condados e as bibliotecas locais para discutir a cooperação, enfrentando explicitamente os recursos audiovisuais, o contexto original e os termos de licença Creative Commons. Para que acervos digitais locais entrem na plataforma comum, não basta transferir os arquivos; é preciso informar quem forneceu, como descrever e quais itens podem ser reutilizados.[^15]
 
-![Sala de leitura da Biblioteca Nacional, onde o sistema de preservação afinal retorna a como o leitor usa o dado.](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Interior_of_National_Central_Library_ROC_-_04._2024_-_01_-_11.jpg/500px-Interior_of_National_Central_Library_ROC_-_04._2024_-_01_-_11.jpg)
+![Salão de leitura da Biblioteca Nacional, onde o sistema de preservação, em última análise, retorna a como os leitores usam os dados.](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Interior_of_National_Central_Library_ROC_-_04._2024_-_01_-_11.jpg/500px-Interior_of_National_Central_Library_ROC_-_04._2024_-_01_-_11.jpg)
 
-_Imagem: Sala de leitura da Biblioteca Nacional. Foto de 阿道 (Ādào), 2024-01-11, CC BY-SA 4.0. Detalhes na página da imagem._
+_Imagem: Salão de leitura da Biblioteca Nacional. Foto de A-do, 2024-01-11, CC BY-SA 4.0. Fontes das imagens listadas no rodapé._
 
 ## A próxima questão da memória editorial de Taiwan
 
