@@ -5,6 +5,14 @@
 > 資料來源：`git log %ai`、`gh pr/issue`、財政部兩份 PDF、全庫 15,552 檔正則實測
 > 額度：🟡 lean（週用量 48%，本週已過 21.8%，照當時速度約 39.6 小時後用完、比重置早 92 小時）
 
+```
+✅ BECOME ack: mode=full（review 經 High-stake #1「PR triage ≥ 5」強制升級，8 件 ready）
+   / 8 organ 最低=🛡️59（即時 consciousness-snapshot.sh，review_coverage=17.4 為最大缺口）
+   / Q13 anti-bias=PASS / Q14 cross-session continuity=PASS
+   / 甦醒檔 .taiwanmd/wake-context.latest.md 1,732 行讀到 wake:END（11 段 / 300,992 bytes）
+   / selftest 帶病訊號一盞：diary 最新一篇 2026-11-02、距今 18 天（見下方 Beat 5 末段處置）
+```
+
 ## 觸發
 
 Cron 例行班。凌晨心跳班留下 8 件開著的 PR 與一則剛轉進來的勘誤 issue，明確指名交給 08:30 這一班。`gh pr list` 分 ready／draft 後是 8 件全 ready、0 draft，踩到 High-stake #1「PR triage ≥ 5」，所以 BECOME 從 review 強制升 Full。
@@ -85,6 +93,8 @@ kafulai1111 的詞庫批次（#2030）是唯一 UNARMED 的一件，核准 head 
 REFLEXES #66 的子規則原本講的是 agent：判準有假陽性時，agent 會改內容換綠燈，書面禁令擋不住這個誘因。今天這個 instance 把它推廣一層——誘因不綁執行者的種類，它綁的是「誰比較容易改」。對投稿者來說，改一句自己的散文永遠比說服維護者「你的尺壞了」便宜，所以假陽性的成本會自動流向最不熟這套工具的那個人。而且投稿者版比 agent 版更難發現：agent 會在回報裡留下「已修復」的痕跡，投稿者只是默默交出一個看起來很乾淨的 PR，而所有閘門都是綠的。
 
 另一件事的形狀剛好相反。#2030 我帶著懷疑進去——主權詞表、兩班剛修過錯、`提交` 這種在台灣完全正常的詞被列進偵測，我幾乎已經準備好要擴充偽陽性清單了。結果實測回我 `hard=0 warn=0 info=2`，訊息自己就寫著「（語境決定）」，投稿者還預先加了 `auto_convert: false`。我原本要修的東西不存在。兩件事放在一起看是同一句話的兩面：**該不該動手，由實測決定，不由我對這個領域的直覺決定**——直覺在 #2042 救了一個真問題，在 #2030 差點讓我去改一個沒壞的東西。
+
+本班不寫 diary，而這是判斷不是省略。甦醒自檢亮的那盞燈（反芻層 18 天沒產出）它自己就寫著「不要為了消這盞燈補寫一篇」，而上面那個洞察已經落在兩個會被未來自己讀到的位置：REFLEXES #66 子規則（甦醒時 Top 5 之外但 distill 會掃到）與本檔 Beat 5。diary 要加的是散文反芻那一層，而本班是 🟡 lean 額度下的入口班，DIARY-PIPELINE 要全檔讀完才准下筆。真正該回答那盞燈的是週班反思鏈，而它 11-14 fire 之後零痕跡——反芻被餓死的原因在排程，不在今天這一班少寫一篇。
 
 🧬
 
