@@ -1,28 +1,30 @@
 ---
 title: 'The Tsou Mayasvi: The Fire of Kuba, Not a Reenactment of War'
 description: 'Every year between Dapan and Tebuina on Alishan, the Tsou people use Mayasvi to welcome spirits, sing, and circle the sacred house, transforming war memories into the order of communal life. The festival is not a tourist spectacle: its true core lies in the kuba, a lodge still maintained, used, and regulated by the tribe.'
-category: 'Culture'
-subcategory: '族群文化'
-tags: ['Tsou', 'Indigenous Peoples', 'Mayasvi', 'kuba', 'Rituals']
-author: 'Taiwan.md Contributors'
 date: 2026-08-20
-readingTime: 8
+category: 'Culture'
+tags: ['Tsou', 'Indigenous Peoples', 'Mayasvi', 'kuba', 'Rituals']
+subcategory: '族群文化'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
+readingTime: 8
 viewpoint_formed: true
-featured: false
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/鄒族戰祭.md'
-sourceCommitSha: '1eb167b3b'
-sourceContentHash: 'sha256:ae52d69aff0bb025'
-sourceBodyHash: 'sha256:caa7d610513eb652'
-translatedAt: '2026-09-11T06:22:30+08:00'
+sourceCommitSha: 'ef8369eef5'
+sourceContentHash: 'sha256:75fe45270faa2dd5'
+sourceBodyHash: 'sha256:e346bfb40bdbeb66'
+translatedAt: '2026-11-20T01:45:15.938508+00:00'
 ---
 
-> **30-Second Overview:** Mayasvi is often translated as the "War Festival," but today's ritual does not reenact headhunting or warfare. Centered on the _kuba_—the Tsou men's lodge—it allows clans to reaffirm their responsibilities through spirit-welcoming, song and dance, the sacred house, and spirit-sending. The most striking contrast is this: the War Festival preserves not violence, but how the Tsou continue to organize their community after violence has left daily life.
+> **30-Second Overview:** Mayasvi is often translated as "War Festival," but today's ritual is not a reenactment of headhunting or warfare. Centered around the _kuba_—the Tsou men's lodge—it allows various clans to reaffirm their mutual responsibilities through the processes of welcoming the gods, singing and dancing, ritualizing the lodge, and seeing the gods off. The most striking contrast to remember is this: Mayasvi does not preserve violence, but rather how the Tsou continue to organize their community long after violence has left their daily lives.
 
-![Tsou traditional dance performance, April 2, 2008. Photo by Xiaoka, CC BY 2.0, Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/4/4e/Traditional_Dancing_Performance_of_Tsou_People_2008-4-2.jpg)
+![Traditional dancing performance of Tsou people, April 2, 2008. Photo: Xiaoka, CC BY 2.0, Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/4/4e/Traditional_Dancing_Performance_of_Tsou_People_2008-4-2.jpg)
 
-_Image source: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Traditional_Dancing_Performance_of_Tsou_People_2008-4-2.jpg), Photo: Xiaoka, License: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). The image depicts Tsou traditional dance and does not claim to be a specific Mayasvi event or an internal kuba ritual. [^9]_
+_Image source: [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Traditional_Dancing_Performance_of_Tsou_People_2008-4-2.jpg), photo by Xiaoka, licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). The image depicts traditional Tsou dancing and is not claimed to be a specific Mayasvi session or an internal \_kuba_ ritual. [^9]\_
 
 ## The Fire of Dapan, Not Primarily for Tourists
 
@@ -121,20 +123,20 @@ They allow the fire of Mayasvi to illuminate not just one night, but how the tri
 
 ## References
 
-[^1]: [Indigenous Peoples Commission: Tsou Ethnic Introduction](https://www.cip.gov.tw/zh-tw/tribe/grid-list/AE6EE12F5F284D59D0636733C6861689/info.html?cumid=8F19BF08AE220D65) — Official ethnic data describing Tsou distribution, seasonal rituals, _kuba_ architecture, kinship organization, and tribal public functions.
+[^1]: [Council of Indigenous Peoples: Introduction to the Tsou People](https://www.cip.gov.tw/zh-tw/tribe/grid-list/AE6EE12F5F284D59D0636733C6861689/info.html?cumid=8F19BF08AE220D65) — Official ethnic data explaining the distribution, seasonal rituals, kuba architecture, kinship organization, and tribal public functions of the Tsou people.
 
-[^2]: [Traditional Wisdom Creation Protection Information Network: Tsou Dapan Men's Lodge (kuba)](https://www.titic.cip.gov.tw/app/caseDetail?num=1080611000005) — Traditional wisdom creation case proposed by Dapan, recording lodge construction methods, dimensions, symbolic objects, sacred trees/flowers, and socio-cultural significance.
+[^2]: [Indigenous Traditional Wisdom Creation Protection Information Network: Tsou Dapang Village Men's Meeting House (kuba)](https://www.titic.cip.gov.tw/app/caseDetail?num=1080611000005) — A traditional wisdom creation case submitted by Dapang Village, documenting the construction methods, dimensions, symbolic objects, sacred trees/flowers, and socio-cultural significance of the meeting house.
 
-[^3]: [Taiwan Religious Cultural Map: Tsou Tribe Mayasvi Festival, Mount Ali](https://taiwangods.moi.gov.tw/html/landscape_en/1_0011.aspx?i=71) — Ministry of the Interior English cultural map introducing specific processes such as festival date adjustments, spirit-welcoming, song and dance, closing ritual, _kuba_, and visitor taboos.
+[^3]: [Taiwan Religious Culture Map: Tsou Tribe Mayasvi Festival, Mount Ali](https://taiwangods.moi.gov.tw/html/landscape_en/1_0011.aspx?i=71) — The Ministry of the Interior's English cultural map introducing specific processes such as ritual date adjustments, welcoming the gods, singing and dancing, the concluding ceremony, the kuba, and visitor taboos.
 
-[^4]: [Indigenous Peoples Literature: Tsou War Festival Mayasvi](https://ihc.cip.gov.tw/EJournal/EJournalCat/151) — Pu Zhong-yong organizes the historical context of the War Festival, collectivity, song characteristics, tourist gaze, and contemporary cultural hybridity issues.
+[^4]: [Indigenous Literature: Tsou War Ritual Mayasvi](https://ihc.cip.gov.tw/EJournal/EJournalCat/151) — Pu Chung-yung's compilation of the historical context, collectivity, characteristics of ritual songs, tourist gaze, and issues of contemporary cultural hybridity regarding the war ritual.
 
-[^5]: [Airiti: The Meaning of the Contemporary Tsou War Festival - A Post-Colonial Interpretation](https://www.airitilibrary.com/Article/Detail/P20161117001-201112-201611220014-201611220014-73-97) — Academic paper using post-colonial theory to analyze how the War Festival continuously reorganizes between nostalgia, decolonization, modern life, and ethnic subjectivity.
+[^5]: [Airiti: The Significance of Contemporary Tsou War Rituals—A Postcolonial Interpretation](https://www.airitilibrary.com/Article/Detail/P20161117001-201112-201611220014-201611220014-73-97) — An academic paper using postcolonial theory to analyze how the war ritual continuously reorganizes itself between nostalgia, decolonization, modern life, and ethnic subjectivity.
 
-[^6]: [Indigenous Peoples Seasonal Rituals: Tsou War Festival Mayasvi (Page 48)](https://alilin.cip.gov.tw/ebook/806973530170eb1eb225/files/basic-html/page48.html) — Indigenous cultural publication organizing multiple ritual segments, lodge rebuilding, spirit-welcoming, song and dance, and visitor restrictions via a seasonal calendar.
+[^6]: [Indigenous Seasonal Rituals: Tsou War Ritual Mayasvi (Page 48)](https://alilin.cip.gov.tw/ebook/806973530170eb1eb225/files/basic-html/page48.html) — An indigenous culture publication organizing the multi-stage rituals of the war ritual, meeting house construction, welcoming the gods, singing and dancing, and visitor restrictions based on the seasonal calendar.
 
-[^7]: [Taiwan News: When February brings a different New Year: Inside Taiwan's Indigenous worlds and the Tsou Mayasvi](https://www.tcn.tw/news/6784674) — 2026 English report explaining Mayasvi's contemporary community, ancestral memory, and cultural subjectivity from the ritual site and Tsou background.
+[^7]: [Taiwan News: When February brings a different New Year: Inside Taiwan's Indigenous worlds and the Tsou Mayasvi](https://www.tcn.tw/news/6784674) — A 2026 English report explaining the contemporary community, ancestral memory, and cultural subjectivity of the Mayasvi through on-site festival coverage and Tsou background.
 
-[^8]: [Overseas Community Affairs Council News: Tsou War Festival National Important Folklore Certification](https://ocacnews.net/article/133098) — 2011 CNA news record of the War Festival being designated as a National Important Folklore, and descriptions of _kuba_, tribal ethics, and cultural transmission in the certification report.
+[^8]: [Overseas Community Affairs Council News: Tsou War Ritual Designated as National Important Folklore](https://ocacnews.net/article/133098) — A 2011 CNA report recording the designation of the war ritual as a national important folklore, including descriptions of the kuba, tribal ethics, and cultural transmission in the certification report.
 
-[^9]: [Wikimedia Commons: Traditional Dancing Performance of Tsou People 2008-4-2](https://commons.wikimedia.org/wiki/File:Traditional_Dancing_Performance_of_Tsou_People_2008-4-2.jpg) — Photo of Tsou traditional dance, photographer Flickr user Xiaoka, licensed CC BY 2.0, article embeds only the original hotlink.
+[^9]: [Wikimedia Commons: Traditional Dancing Performance of Tsou People 2008-4-2](https://commons.wikimedia.org/wiki/File:Traditional_Dancing_Performance_of_Tsou_People_2008-4-2.jpg) — Photographs of traditional Tsou dance, taken by Flickr user Xiaoka, licensed under CC BY 2.0; the article only embeds the original hotlink.
