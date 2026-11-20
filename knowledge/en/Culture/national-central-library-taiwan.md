@@ -32,10 +32,10 @@ rationale:
   whos_pushing_back: '國家圖書館的官方敘事強調完整保存與知識服務，出版者和數位典藏研究則提醒，電子出版格式、授權、永久保存成本與使用權並不會因為送存制度存在而自動解決。本文並列兩邊的制度事實。'
 curation: 'incubating'
 translatedFrom: 'Culture/國家圖書館.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:b188920097cf9184'
-sourceBodyHash: 'sha256:bf6baa44f84e7aa1'
-translatedAt: '2026-09-14T04:11:16+08:00'
+sourceCommitSha: '650297302f'
+sourceContentHash: 'sha256:9bb0d26fbfa502a7'
+sourceBodyHash: 'sha256:a2db633578f86780'
+translatedAt: '2026-11-20T07:46:33.595023+00:00'
 ---
 
 # National Central Library: How a Library Preserves an Island’s Publications as National Memory
@@ -114,29 +114,29 @@ What truly supports the National Central Library is the publisher deposit system
 
 The National Central Library also uses the Sinology Research Center, the Overseas Taiwan Sinology Resource Center, and Chinese literature resource cooperation to ensure Taiwan’s publishing and Chinese literature do not remain confined to a single Taipei building. This international cooperation is not about packaging Taiwan culture as an export commodity, but about sharing bibliographic, image, and research entry points across different collection units. The scale of national-level archiving is therefore determined not only by collection volume, but by its ability to mutually find and correct other institutions.
 
-## Reader Services as the Exit of Preservation
+## Reader Services Are the Access Point for Preservation
 
-Preservation systems ultimately return to how readers access data. The control gates and card-issuing counters in the National Central Library headquarters reading hall are, on the surface, the most mundane parts of the building, but they actually connect the backend system of national documents to users. Readers first obtain access qualifications, then approach a publication that may have left the market years ago through collection queries, bibliographic data, and reading rules. [^3] [^17]
+Preservation systems ultimately come back to how readers access materials. The controlled entrance and card-issuance counter in the National Central Library main library reading hall may appear to be the most ordinary places in the building, but they actually connect the backend systems of national documents to users. Readers first obtain access qualifications, then approach a publication that may have left the market years ago through collection search, bibliographic data, and reading rules.[^3] [^17]
 
-This entrance also reminds us that digitization cannot replace all physical services. Electronic resources allow remote searching, but librarians still need to handle version identification, special collection use, copyright restrictions, and data context. The 2025 Library News highlighted the rise of digital reading literacy and the parallel operation of library services, which does not mean paper books are disappearing; rather, readers simultaneously need online discovery and physical confirmation. [^14]
+This entry point also reminds us that digitization cannot replace all physical services. Electronic resources allow remote searching, but librarians still need to handle version identification, special collections use, copyright restrictions, and data context. The rise of digital literacy and the dual-track operation of library services listed in the 2025 Library Bulletin does not mean print is about to disappear, but rather that readers simultaneously need both online discovery and physical verification paths.[^14]
 
-![National Central Library Headquarters Reading Hall, approaching collections from the card service and control entrance.](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Interior_of_National_Central_Library_ROC_-_01._2024_-_01_-_11.jpg/500px-Interior_of_National_Central_Library_ROC_-_01._2024_-_01_-_11.jpg)
+![National Central Library main library reading hall, approaching the collection from card-issuance services and controlled entrance.](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Interior_of_National_Central_Library_ROC_-_01._2024_-_01_-_11.jpg/500px-Interior_of_National_Central_Library_ROC_-_01._2024_-_01_-_11.jpg)
 
-_Figure: National Central Library Headquarters Reading Hall. Photo by Adao, 2024-01-11, CC BY-SA 4.0. See image source page for details._
+_Figure: National Central Library main library reading hall. Photographed by Adao, 2024-01-11, CC BY-SA 4.0. Image source listed at page bottom._
 
-## From Deposit Lists to Publisher Interfaces
+## From Deposit Lists to a Publisher Interface
 
-The latest institutional changes make legal deposit more like a publisher interface, rather than just sending a cardboard box. The National Central Library’s 2025 Library News records that the publication deposit system has gone live and is integrated with the application services of the National New Book Information Network. This means the process publishers face includes data entry, bibliographic information, deposit lists, and subsequent management; deposit is no longer just administrative paperwork after the publishing process ends. [^13] [^14]
+The latest institutional changes make legal deposit more like a publisher interface than simply shipping a box. The National Central Library's 2025 Library News reports that the Publication Deposit System has gone live and is integrated with the application services of the National New Book Information Network. This means the process publishers face now includes data registration, bibliographic information, deposit lists, and subsequent management; deposit is no longer merely an administrative supplement after the publishing process ends.[^13] [^14]
 
-The National Central Library’s 2025 Library News also places digital reading literacy, cross-border Chinese ancient book digitization cooperation, and the international dissemination of Taiwan studies research results in the same issue. Viewing these matters together reveals two simultaneous lines of work for the National Central Library: one line collects Taiwan publications into the national system; the other delivers already preserved materials to broader research networks. Preservation and dissemination are not sequential; they are services that must be designed simultaneously. [^14]
+The National Central Library's 2025 Library News also places digital literacy, cross-border Chinese rare book digitization cooperation, and international dissemination of Taiwan academic research results in the same issue. Viewed together, these items reveal two simultaneous tracks in the National Central Library's work: one bringing Taiwan publications into the national system, the other delivering preserved materials into broader research networks. Preservation and dissemination are not sequential but are services that must be designed simultaneously.[^14]
 
-The deposit system’s licensing management operation manual, along with forms for delaying public access, replacing, and licensing theses, more clearly exposes the institutional gaps between preservation and access. Publications can be deposited and cataloged first; full-text public access must then be handled according to author, publisher, or thesis licensing conditions. This is not a lack of system efficiency, but a result of the preserver respecting different rights statuses. [^1]
+The deposit system's authorization management manual, along with provisions for delayed release, substitution, and authorization forms for theses and dissertations, more clearly expose the institutional gaps between preservation and public access. Publications can be deposited and cataloged first, while full-text public access is handled according to the authorization conditions of the author, publisher, or thesis/dissertation. This is not a matter of system inefficiency but a result of the preserver's obligation to respect different rights statuses.[^1]
 
-The Taiwan Memory county-city co-construction and sharing symposiums bring the issue from the central library to the local level. The National Central Library once invited the Ministry of Culture, the National Taiwan History Museum, twenty-two county/city cultural bureaus, and local libraries to discuss cooperation, explicitly addressing audiovisual resources, original context, and Creative Commons licensing terms. For local digital archives to enter a common platform, they cannot simply move files over; they must explain who provided them, how they are described, and what can be reused. [^15]
+The Taiwan Memory County-City Co-construction and Sharing Symposium brings the issue from the central library to the local level. The National Central Library has invited the Ministry of Culture, the National Museum of Taiwan History, the cultural bureaus of the 22 counties and cities, and local libraries to discuss cooperation, explicitly addressing audiovisual resources, original context, and Creative Commons licensing terms. For local digital archives to enter a shared platform, it is not enough to simply transfer the files; one must also specify who provided them, how they are described, and what can be reused.[^15]
 
-![National Central Library Reading Room, where preservation systems ultimately return to how readers use data.](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Interior_of_National_Central_Library_ROC_-_04._2024_-_01_-_11.jpg/500px-Interior_of_National_Central_Library_ROC_-_04._2024_-_01_-_11.jpg)
+![National Central Library reading room; the preservation system ultimately comes down to how readers use the materials.](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Interior_of_National_Central_Library_ROC_-_04._2024_-_01_-_11.jpg/500px-Interior_of_National_Central_Library_ROC_-_04._2024_-_01_-_11.jpg)
 
-_Figure: National Central Library Reading Room. Photo by Adao, 2024-01-11, CC BY-SA 4.0. See image source page for details._
+_Figure: National Central Library reading room. Photographed by Adao, 2024-01-11, CC BY-SA 4.0. Image source listed at page bottom._
 
 ## The Next Question for Taiwan’s Publishing Memory
 

@@ -24,10 +24,10 @@ rationale:
   where_it_hedges: '原住民族織布的族名、語詞、禁忌與技法具有部落和家族差異。本文依各來源的族群、地點、訪談年份與出版脈絡敘述，不把不同族群的織紋、工具與儀式混成一套全台灣原住民族共同規則。'
   whos_pushing_back: '反對把織布浪漫化成女性天生的美德，也反對只用商品銷售、展覽件數或技藝認證衡量傳承。真正需要追問的是，誰可以學、誰可以記錄、哪些知識應被公開，以及部落如何決定傳統在當代生活中的位置。'
 translatedFrom: 'Culture/原住民織布.md'
-sourceCommitSha: '7c99cd4b7'
-sourceContentHash: 'sha256:d6b33427d383d025'
-sourceBodyHash: 'sha256:d806fd1fb93df2e0'
-translatedAt: '2026-09-11T04:57:58+08:00'
+sourceCommitSha: '650297302f'
+sourceContentHash: 'sha256:e56ce4cd86cc45fe'
+sourceBodyHash: 'sha256:0221e0902ecca787'
+translatedAt: '2026-11-20T08:01:57.470604+00:00'
 ---
 
 > **30-Second Overview:** Taiwan Indigenous weaving is not about adding a pretty pattern to a piece of cloth; it is about weaving materials, the body, family, and local order into daily life. For the Atayal, ramie is a crucial material, and every step—from planting, stripping, and scraping the fiber, to spinning, dyeing, and warping—requires time and memory. Saisiyat weavers spent three years relearning a technique that had been interrupted to analyze garments collected by museums nearly a century ago, ensuring their families could wear the proper attire for the Pasta’i (Bashadai) ritual. Paiwan weaving displays ethnic aesthetics and social relationships through interlocking weave techniques, diamond patterns, and the hierarchical order of clothing. These stories collectively indicate that weaving is not just a craft, but also a language, a kinship system, a gendered practice, a ritual order, and land-based knowledge. Today’s revitalization is not merely about making ancient-looking clothes; it is about allowing tribes to decide which knowledge can be transmitted, how it is transmitted, and to whom.
@@ -74,15 +74,15 @@ For schools and general audiences, the most basic learning ethics are to clarify
 
 The Commons archive page identifies this historical photo as Atayal women of the Slamaw tribe and Tetsu Koizumi, circa 1932, listed as public domain according to old Japanese copyright law. The image allows readers to observe figures and clothing in early photos, but one cannot deduce the weaver’s identity, tribal name, or wearing occasion solely from the photo. When using historical images, retaining the source and public domain statement from the archive page is more important than attaching an unverified story to the photo. [^13]
 
-## Relearning a Tribe from Lost Garments
+## Relearning a Tribe Through Lost Garments
 
-The Saisiyat case makes "revitalization" concrete. Records from the Anthropology Museum of National Taiwan University note that Saisiyat weavers in Miaoli relearned traditional garment weaving to allow their families to participate in the 2016 Pasta’i (Bashadai) Decennial Grand Ritual. In 2015, they visited the museum to view and analyze Saisiyat long garments collected from the Nanzhuang and Shitan areas nearly a century ago. They also compared these with family heirloom textiles, finally spending three years reproducing ten traditional long and short garments. [^7]
+The Saisiyat case makes "revitalization" concrete. According to records from the National Taiwan University Museum of Anthropology, Saisiyat weavers in Miaoli relearned traditional garment weaving to ensure their families could participate in the 2016 Badasiao Decennial Festival. In 2015, they visited the museum to view and analyze Saisiyat long coats collected nearly a century ago from the Nanžhuang and Shitan areas; by comparing these with family heirlooms, they spent three years recreating ten traditional long coats and short coats. [^7]
 
-This process was not simply photocopying old clothes into new ones. Weavers had to identify materials, deconstruct patterns, understand warping methods, and compare museum collections with family memories. The traditional process recorded in sources includes planting hemp, extracting thread, spinning, framing, bleaching, dyeing, waxing, warping, and weaving. Looking only at the finished product, it is difficult to know which steps were once broken, or how the reproducers made judgments between incomplete memories and physical objects.
+This process is not simply photocopying old clothes into new ones. Weavers must identify materials, deconstruct weave patterns, and understand warping methods, while cross-referencing museum collections with familial memory. The traditional workflow recorded in sources includes growing hemp, extracting hemp fibers, spinning thread, warping, bleaching, dyeing, waxing, preparing the warp, and weaving. Looking only at the finished product, it is difficult to know which steps were once broken, or how the recreators made judgments between incomplete memories and physical artifacts.
 
-The patterns on Saisiyat long garments also have ritual positions. Data indicates that in the Pasta’i ritual, clan members dance and sing in a circle; the patterns on the back of the garments face inward, becoming part of the interaction with the矮靈 (Pasta’i spirits). The front and back of the clothes are not a front-and-back relationship for display design, but a meaning formed jointly by the wearer, dance direction, and ritual objects. Hanging these garments in the front of an exhibition hall for viewers to see patterns is certainly good, but it does not equate to fully understanding their original position in the ritual. [^7]
+The patterns of Saisiyat long coats also dictate their ritual positioning. Data indicates that during the Badasiao festival, tribespeople dance in a circle; the woven patterns on the back of the garments face toward the center of the circle, thus becoming part of the interaction with the _Ebu_ (ancestral spirits). The front and back of the clothing do not represent a design hierarchy of "front" versus "back," but rather a meaning co-created by the wearer, the direction of the dance, and the ritual subject. While hanging these garments facing forward in an exhibition allows viewers to see the patterns, it does not equate to a full understanding of their original role within the ceremony. [^7]
 
-This is also the key to museum-tribe cooperation. Museums preserve older objects; tribal weavers hold the vocabulary, memory, and usage context still alive in daily life. Cooperation between the two is not the museum unilaterally adding a placard to a textile, but making the collection material for the tribe to relearn, verify, and discuss.
+This is also the key to collaboration between museums and tribes. Museums preserve older objects, while tribal weavers hold the vocabulary, memories, and contexts of use that remain part of living life. Collaboration between the two is not about the museum unilaterally adding an explanatory plaque to a textile, but rather allowing the collection to serve as material for the tribe to relearn, verify, and discuss.
 
 ## Paiwan Interlocking Weave and the Institutional Language of Cultural Heritage
 

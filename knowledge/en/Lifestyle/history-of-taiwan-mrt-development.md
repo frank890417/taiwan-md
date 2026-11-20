@@ -25,10 +25,10 @@ readingTime: 15
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'Lifestyle/台灣捷運發展史.md'
-sourceCommitSha: 'b1a5fea00'
-sourceContentHash: 'sha256:fa054e970fa0164b'
-sourceBodyHash: 'sha256:8a8a123d1183a1a8'
-translatedAt: '2026-11-18T12:13:51.307204+00:00'
+sourceCommitSha: '650297302f'
+sourceContentHash: 'sha256:a2625abf2f2c9ac6'
+sourceBodyHash: 'sha256:be7ef9d711a97133'
+translatedAt: '2026-11-20T08:18:53.226291+00:00'
 ---
 
 # The History of Taiwan's MRT: A Theory of Urban Evolution Written in Blood and Money
@@ -55,20 +55,20 @@ Beyond the lawsuit, the Muzha Line itself proceeded with bumps and stumbles. In 
 
 Was this NT$1.64 billion lesson worth it? Looking back today, the Muzha Line (now the Wenhu Line) proved one crucial thing: **Taiwanese people can build an MRT.** Despite its bumpy journey, it is running, and it has been for 30 years.
 
-## The Tamsui Miracle: The True Starting Point of MRT Culture
+## The Tamsui Line Miracle: The True Starting Point of MRT Culture
 
-In 1997, the Tamsui Line opened, marking the real takeoff of Taipei MRT.
+In 1997, the Tamsui Line opened, and the Taipei MRT truly took flight.
 
-Unlike the French technology used on the Muzha Line, the Tamsui Line was built by renovating the old Taiwan Railway Tamsui branch line. With existing rights-of-way and the learning achievements of Taiwanese engineers, people finally experienced the taste of a "world-class MRT"—air-conditioned cars, electronic signage, punctual arrivals, and accessibility design.
+Unlike the French technology used for the Muzha Line, the Tamsui Line was built by repurposing the existing Taiwan Railways Administration (TRA) Tamsui Branch Line. The combination of ready-made right-of-way and the learning achievements of Taiwanese engineers finally allowed people in Taiwan to experience a "world-class MRT"—air-conditioned carriages, electronic displays, punctual arrivals, and barrier-free design.
 
-More importantly, the Tamsui Line established a unique "MRT civilization" in Taiwan. Eating or drinking was prohibited throughout the entire carriage, with fines up to NT$7,500 for violations; standing on the right side of escalators was mandatory; and carriages were as quiet as libraries. These rules, which seem natural today, were revolutionary social experiments in the 1990s.
+More importantly, the Tamsui Line established a uniquely Taiwanese "MRT civilization." Eating and drinking are prohibited throughout the entire train, with fines of up to NT$7,500 for violators; passengers must stand on the right when using escalators; and the carriages are as quiet as a library. These rules, which seem like common sense today, were revolutionary social experiments in the 1990s.
 
-> **💡 Did You Know**
-> The prohibition of eating and drinking on Taipei MRT is one of the strictest subway regulations globally. According to Article 50 of the _Mass Transit Law_, fines ranging from NT$1,500 to NT$7,500 are issued for consuming food in prohibited areas, with the boundary drawn at the yellow line before the entrance gate. Yet, it is this insistence that has made Taipei MRT's carriage cleanliness a profound impression on international travelers.
+> **💡 Did You Know?**
+> The ban on eating and drinking in the Taipei MRT is one of the strictest subway regulations in the world. According to Article 50 of the Mass Rapid Transit Act, consuming food or drink in prohibited areas carries a fine between NT$1,500 and NT$7,500; the boundary is marked by the yellow line before the station gates. Yet, it is precisely this persistence that has made the cleanliness of Taipei MRT carriages one of the most lasting impressions for international travelers.
 
-The success of the Tamsui Line rests on a key factor: it connected Taipei's most densely populated residential areas (Beitou, Shilin, Datong) with the city center, creating massive commuting demand. With only the Muzha Line, Taipei MRT carried only 40,000 people per day; after the Tamsui Line joined, this rose to 85,000, and as more lines were connected, ridership truly grew.
+There is a key piece of data regarding the success of the Tamsui Line: it connected Taipei's most densely populated residential areas (Beitou, Shilin, and Datong) with the city center, creating massive commuting demand. When only the Muzha Line was operational, the Taipei MRT carried only 40,000 people per day; after the Tamsui Line joined, that number rose to 85,000. It was only as more lines were connected into the network that passenger volume truly began to scale.
 
-**Geographical Advantage + Technological Learning + Cultural Construction = The Tamsui Miracle.** This formula has been imitated by countless cities, but few have succeeded in replicating it.
+**Geographic Advantage + Technical Learning + Cultural Construction = The Tamsui Line Miracle.** This formula has since been imitated by countless cities, but few have successfully replicated it.
 
 ## Bannan Line Cross-Network: A Strategic Turning Point for Taipei MRT
 
