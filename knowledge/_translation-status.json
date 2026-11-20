@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-20T10:18:37+08:00",
-    "zhCommitHead": "ec5ec82bb8",
+    "lastUpdated": "2026-11-20T11:15:27+08:00",
+    "zhCommitHead": "885cfbcf9d",
     "totalZh": 1192,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1192,
-        "fresh": 1175,
+        "fresh": 1178,
         "stale": 11,
         "metadata_stale": 1,
-        "missing": 5,
+        "missing": 2,
         "orphan": 0
       },
       "ja": {
@@ -44,10 +44,10 @@
       },
       "es": {
         "total_zh": 1192,
-        "fresh": 1169,
+        "fresh": 1170,
         "stale": 15,
         "metadata_stale": 5,
-        "missing": 3,
+        "missing": 2,
         "orphan": 0
       },
       "fr": {
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1192,
-        "fresh": 1169,
+        "fresh": 1170,
         "stale": 13,
         "metadata_stale": 4,
-        "missing": 6,
+        "missing": 5,
         "orphan": 0
       },
       "pt": {
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1192,
-        "fresh": 1164,
+        "fresh": 1165,
         "stale": 15,
         "metadata_stale": 4,
-        "missing": 9,
+        "missing": 8,
         "orphan": 0
       },
       "ru": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1192,
-        "fresh": 1146,
+        "fresh": 1148,
         "stale": 30,
         "metadata_stale": 9,
-        "missing": 7,
+        "missing": 5,
         "orphan": 0
       }
     },
@@ -8370,7 +8370,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/tourism-industry.md",
+          "translatedFrom": "Economy/觀光產業.md",
+          "sourceCommitSha": "28c9d54586",
+          "sourceContentHash": "sha256:41026d66967b92b9",
+          "sourceBodyHash": "sha256:668ec588580a9dc2",
+          "translatedAt": "2026-11-20T03:57:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 2,
+          "bytes": 11792,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -8991,7 +9004,20 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Economy/national-debt-clock.md",
+          "translatedFrom": "Economy/國債鐘.md",
+          "sourceCommitSha": "cd9d99cf71",
+          "sourceContentHash": "sha256:804cb929e49d0000",
+          "sourceBodyHash": "sha256:c90510ae0ea9b7ac",
+          "translatedAt": "2026-11-20T03:56:56+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 3,
+          "bytes": 9209,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/national-debt-clock.md",
@@ -9656,8 +9682,8 @@
           "sourceContentHash": "sha256:d25d9026ab841b3f",
           "sourceBodyHash": "sha256:ebbc94611dc1b8f9",
           "translatedAt": "2026-11-20T03:57:19+08:00",
-          "translationLastCommit": "f1daf600",
-          "translationLastModified": "2026-10-10T23:14:31+08:00",
+          "translationLastCommit": "885cfbcf",
+          "translationLastModified": "2026-11-20T10:18:37+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "bytes": 48611,
@@ -16685,7 +16711,20 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Economy/insured-salary-ceiling.md",
+          "translatedFrom": "Economy/投保薪資的天花板.md",
+          "sourceCommitSha": "8e7036ddb5",
+          "sourceContentHash": "sha256:945474d4c297700a",
+          "sourceBodyHash": "sha256:f7975ef2c038bd34",
+          "translatedAt": "2026-11-20T03:57:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "bytes": 34857,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Economy/insured-salary-ceiling.md",
@@ -18214,7 +18253,20 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Economy/taiwan-solar-power.md",
+          "translatedFrom": "Economy/太陽光電.md",
+          "sourceCommitSha": "24f563e646",
+          "sourceContentHash": "sha256:f5a4019a85575efd",
+          "sourceBodyHash": "sha256:84909ece10eb2627",
+          "translatedAt": "2026-11-20T03:57:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 1,
+          "bytes": 11041,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Economy/taiwan-solar-power.md",
@@ -67257,7 +67309,20 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Society/indigenous-language-policy.md",
+          "translatedFrom": "Society/原住民族語言政策.md",
+          "sourceCommitSha": "bc37ed4d8c",
+          "sourceContentHash": "sha256:32772071ae1ab735",
+          "sourceBodyHash": "sha256:694eda8fc7232fe6",
+          "translatedAt": "2026-11-20T03:56:56+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 3,
+          "bytes": 10506,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Society/indigenous-language-policy.md",
@@ -67340,7 +67405,20 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/indigenous-language-policy.md",
+          "translatedFrom": "Society/原住民族語言政策.md",
+          "sourceCommitSha": "bc37ed4d8c",
+          "sourceContentHash": "sha256:32772071ae1ab735",
+          "sourceBodyHash": "sha256:694eda8fc7232fe6",
+          "translatedAt": "2026-11-20T03:57:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 3,
+          "bytes": 11339,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Society/indigenous-language-policy.md",
@@ -67394,7 +67472,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Society/indigenous-language-policy.md",
+          "translatedFrom": "Society/原住民族語言政策.md",
+          "sourceCommitSha": "bc37ed4d8c",
+          "sourceContentHash": "sha256:32772071ae1ab735",
+          "sourceBodyHash": "sha256:694eda8fc7232fe6",
+          "translatedAt": "2026-11-20T03:57:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 3,
+          "bytes": 11393,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -98494,8 +98585,8 @@
           "sourceContentHash": "sha256:00af5d0f37a777ff",
           "sourceBodyHash": "sha256:9359ef48b07d6033",
           "translatedAt": "2026-11-20T00:35:10.016365+00:00",
-          "translationLastCommit": "e244b98b",
-          "translationLastModified": "2026-10-23T10:28:35+08:00",
+          "translationLastCommit": "885cfbcf",
+          "translationLastModified": "2026-11-20T10:18:37+08:00",
           "inferred": false,
           "footnoteDefs": 31,
           "bytes": 57253,
@@ -187074,7 +187165,20 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/History/dominican-order-taiwan.md",
+          "translatedFrom": "History/道明會在台灣.md",
+          "sourceCommitSha": "24f563e646",
+          "sourceContentHash": "sha256:1bd7703941e67723",
+          "sourceBodyHash": "sha256:15228d1d82684e84",
+          "translatedAt": "2026-11-20T03:56:56+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 3,
+          "bytes": 13561,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/History/dominican-order-taiwan.md",
