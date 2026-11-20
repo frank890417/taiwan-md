@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-20T09:58:02+08:00",
-    "zhCommitHead": "bbc411a00b",
+    "lastUpdated": "2026-11-20T10:01:26+08:00",
+    "zhCommitHead": "e518c57431",
     "totalZh": 1192,
     "activeLanguages": [
       "en",
@@ -68,8 +68,8 @@
       },
       "id": {
         "total_zh": 1192,
-        "fresh": 1168,
-        "stale": 14,
+        "fresh": 1169,
+        "stale": 13,
         "metadata_stale": 4,
         "missing": 6,
         "orphan": 0
@@ -18204,8 +18204,8 @@
           "sourceContentHash": "sha256:f5a4019a85575efd",
           "sourceBodyHash": "sha256:84909ece10eb2627",
           "translatedAt": "2026-11-20T03:57:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e518c574",
+          "translationLastModified": "2026-11-20T09:58:02+08:00",
           "inferred": false,
           "footnoteDefs": 1,
           "bytes": 8399,
@@ -107353,20 +107353,18 @@
         "id": {
           "path": "id/People/froggy-chiu.md",
           "translatedFrom": "People/呱吉.md",
-          "sourceCommitSha": "b1ce053ac",
-          "sourceContentHash": "sha256:c94a65d34db3fe04",
-          "sourceBodyHash": "sha256:8811d54bcacf4b19",
-          "translatedAt": "2026-09-12T02:30:18+08:00",
+          "sourceCommitSha": "67c4c72fc4",
+          "sourceContentHash": "sha256:14b3fdc10f7aebe5",
+          "sourceBodyHash": "sha256:c809a24a3b6ba0e4",
+          "translatedAt": "2026-11-20T03:57:10+08:00",
           "translationLastCommit": "1ca7e953",
           "translationLastModified": "2026-10-10T23:17:53+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "bytes": 19064,
+          "bytes": 25318,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/froggy-chiu.md",
