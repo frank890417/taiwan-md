@@ -26,10 +26,10 @@ readingTime: 15
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'Lifestyle/台灣捷運發展史.md'
-sourceCommitSha: 'b1a5fea00'
-sourceContentHash: 'sha256:fa054e970fa0164b'
-sourceBodyHash: 'sha256:8a8a123d1183a1a8'
-translatedAt: '2026-11-18T12:23:59.846732+00:00'
+sourceCommitSha: '650297302f'
+sourceContentHash: 'sha256:a2625abf2f2c9ac6'
+sourceBodyHash: 'sha256:be7ef9d711a97133'
+translatedAt: '2026-11-20T08:23:50.027305+00:00'
 ---
 
 # Historia del desarrollo del metro de Taiwán: una evolución urbana escrita con sangre y dinero
@@ -59,18 +59,18 @@ Al margen del pleito, la propia línea Muzha tropezó. En mayo y septiembre de 1
 
 ## El milagro de la línea Tamsui: el verdadero punto de partida de la cultura del metro
 
-1997: abre la línea Tamsui y el metro de Taipéi despega de verdad.
+En 1997, la línea Tamsui entró en servicio y el metro de Taipéi despegó de verdad.
 
-A diferencia de la tecnología francesa de la línea Muzha, la línea Tamsui reaprovechó el antiguo ramal Tamsui del ferrocarril TRA, con derecho de vía ya existente y la experiencia acumulada por los ingenieros taiwaneses; por fin los taiwaneses probaron el sabor de un «metro de clase mundial»: vagones climatizados, paneles electrónicos, puntualidad, accesibilidad.
+A diferencia de la tecnología francesa de la línea Muzha, la línea Tamsui se reconstruyó sobre la antigua línea secundaria Tamsui del ferrocarril de Taiwán (TRA), y el derecho de vía ya existente sumado a la experiencia acumulada por los ingenieros taiwaneses permitió por fin a los taiwaneses probar el sabor de un «metro de clase mundial» —vagones con aire acondicionado, paneles electrónicos, puntualidad en las llegadas, diseño sin barreras.
 
-Pero lo más importante: la línea Tamsui estableció la única «civilización del metro» de Taiwán. Prohibición total de comer y beber en todo el tren, multa máxima de 7.500 NT$; en las escaleras mecánicas todos se apegan a la derecha; el interior del vagón es silencioso como una biblioteca. Reglas que hoy parecen obvias, en los 90 fueron un experimento social revolucionario.
+Lo más importante, la línea Tamsui estableció la singular «civilización del metro» de Taiwán. Prohibición de comer y beber en todos los vagones, con multas de hasta NT$7,500 para los infractores; en las escaleras mecánicas todos se paran a la derecha; el interior de los vagones es tan silencioso como una biblioteca. Estas reglas que hoy parecen obvias fueron en los años 90 un experimento social revolucionario.
 
-> **💡 ¿Sabías que?**
-> La prohibición de comer y beber del metro de Taipéi es una de las más estrictas del mundo. Según el artículo 50 de la «Ley de Tránsito Masivo», comer o beber en zona prohibida conlleva multa de 1.500 a 7.500 NT$; la línea divisoria es la línea amarilla frente a los torniquetes de entrada. Pero es precisamente esa insistencia la que hace de la limpieza de los vagones la impresión más profunda para los visitantes internacionales.
+> **💡 ¿Sabías que...**
+> La prohibición de comer y beber en el metro de Taipéi es una de las normativas más estrictas del mundo en metro. Según el artículo 50 de la 《大眾捷運法》 (Ley de Tránsito Rápido Masivo), quien coma o beba en zona prohibida se enfrenta a una multa de entre NT$1,500 y NT$7,500; el límite está marcado por la línea amarilla frente a los torniquetes de entrada. Pero es precisamente esa firmeza la que ha convertido la limpieza de los vagones del metro de Taipéi en la impresión más duradera para los visitantes internacionales.
 
-El éxito de la línea Tamsui tuvo un dato clave: conectaba las zonas residenciales más densas de Taipéi (Beitou, Shilin, Datong) con el centro, con una enorme demanda de desplazamiento. Cuando solo existía la línea Muzha, el metro llevaba 40.000 personas/día; con la Tamsui subió a 85.000, y al ir sumándose líneas la red despegó de verdad.
+Un dato clave del éxito de la línea Tamsui: conectaba las zonas residenciales más densas de Taipéi (Beitou, Shilin, Datong) con el centro, generando una enorme demanda de desplazamientos. Cuando solo existía la línea Muzha, el metro de Taipéi transportaba apenas 40 000 personas al día; con la incorporación de la línea Tamsui la cifra subió a 85 000, y solo cuando la red fue añadiendo líneas una tras otra el volumen de pasajeros despegó de verdad.
 
-**Ventaja geográfica + aprendizaje técnico + construcción cultural = milagro de la línea Tamsui.** Fórmula que luego imitaron muchas ciudades, pero pocas replicaron con éxito.
+**Ventaja geográfica + aprendizaje técnico + construcción cultural = milagro de la línea Tamsui.** Esta fórmula fue imitada después por incontables ciudades, pero muy pocas lograron replicarla con éxito.
 
 ## La red en cruz de la línea Bannan: el giro estratégico del metro de Taipéi
 
