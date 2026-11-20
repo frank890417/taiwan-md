@@ -25,10 +25,10 @@ readingTime: 15
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'Lifestyle/台灣捷運發展史.md'
-sourceCommitSha: 'b1a5fea0'
-sourceContentHash: 'sha256:fa054e970fa0164b'
-sourceBodyHash: 'sha256:8a8a123d1183a1a8'
-translatedAt: '2026-10-08T04:17:07+08:00'
+sourceCommitSha: '650297302f'
+sourceContentHash: 'sha256:a2625abf2f2c9ac6'
+sourceBodyHash: 'sha256:be7ef9d711a97133'
+translatedAt: '2026-11-20T08:24:46.619620+00:00'
 ---
 
 # Sejarah Pengembangan MRT Taiwan: Sebuah Teori Evolusi Kota yang Ditulis dengan Darah dan Uang
@@ -56,20 +56,20 @@ Di luar kasus hukum, Jalur Muzha sendiri berjalan tersandung. Pada Mei dan Septe
 
 Apakah pelajaran sebesar NT$1,64 miliar ini sepadan? Melihat ke belakang hari ini, Jalur Muzha (sekarang Jalur Wenhu) membuktikan satu hal penting: **orang Taiwan mampu membangun MRT.** Meskipun prosesnya tersandung-sandung, ia tetap berjalan, dan telah beroperasi selama 30 tahun.
 
-## Keajaiban Jalur Tamsui: Titik Awal Sejati dari Budaya MRT
+## Keajaiban Jalur Tamsui: Titik Awal Sejati Budaya MRT
 
-Pada tahun 1997, Jalur Tamsui dibuka, menandai lepas landas sesungguhnya bagi Taipei MRT.
+Pada tahun 1997, Jalur Tamsui mulai beroperasi, dan MRT Taipei benar-benar terbang.
 
-Berbeda dengan teknologi Prancis pada Jalur Muzha, Jalur Tamsui menggunakan jalur cabang lama Taiwan Railways yang direnovasi. Dengan hak jalan yang sudah ada dan hasil pembelajaran para insinyur Taiwan, akhirnya orang Taiwan merasakan cita rasa "MRT kelas dunia"—gerbong ber-AC, papan iklan elektronik, ketepatan waktu kedatangan, dan desain aksesibilitas.
+Berbeda dengan teknologi Prancis Jalur Muzha, Jalur Tamsui dibangun dengan memanfaatkan jalur cabang Tamsui TRA lama, hak jalan yang sudah ada ditambah hasil pembelajaran insinyur Taiwan, akhirnya memungkinkan orang Taiwan merasakan "MRT kelas dunia" — gerbong ber-AC, papan informasi elektronik, kedatangan tepat waktu, desain aksesibel.
 
-Yang lebih penting, Jalur Tamsui membangun "peradaban MRT" khas Taiwan. Dilarang makan di seluruh gerbong, dengan denda maksimal NT$7.500 bagi pelanggar; eskalator selalu digunakan di sisi kanan; suasana di dalam gerbong sehening perpustakaan. Aturan-aturan yang tampak biasa ini pada tahun 1990-an adalah eksperimen sosial yang revolusioner.
+Yang lebih penting, Jalur Tamsui membangun "peradaban MRT" khas Taiwan. Seluruh gerbong dilarang makan-minum, pelanggar dikenai denda maksimal NT$7.500; naik escalator wajib berdiri di kanan; dalam gerbong sunyi seperti perpustakaan. Aturan-aturan yang hari ini terlihat wajar, pada 1990-an merupakan eksperimen sosial revolusioner.
 
 > **💡 Tahukah Anda**
-> Larangan makan di Taipei MRT adalah salah satu peraturan kereta bawah tanah paling ketat di dunia. Menurut Pasal 50 Undang-Undang MRT Publik, denda untuk makan di area terlarang berkisar antara NT$1.500 hingga NT$7.500, dengan garis batas ditarik sebelum gerbang masuk. Namun, justru penekanan inilah yang membuat kebersihan gerbong Taipei MRT menjadi kesan mendalam bagi wisatawan internasional.
+> Larangan makan-minum MRT Taipei adalah salah satu aturan metro paling ketat di dunia. Berdasarkan Pasal 50 Undang-Undang Mass Rapid Transit, makan-minum di area dilarang dikenai denda NT$1.500 hingga NT$7.500, batasnya ditarik di garis kuning di depan gerbang masuk stasiun. Tetapi justru keteguhan itulah yang membuat kebersihan gerbong MRT Taipei menjadi kesan paling mendalam bagi penumpang internasional.
 
-Kesuksesan Jalur Tamsui memiliki data kunci: ia menghubungkan area pemukiman paling padat di Taipei (Beitou, Shilin, Datong) dengan pusat kota, sehingga permintaan komuter sangat besar. Ketika hanya ada Jalur Muzha, Taipei MRT hanya mengangkut 40.000 orang per hari; setelah Jalur Tamsui bergabung, angka itu menjadi 85.000, dan seiring jaringan yang terus terhubung, volume penumpang baru benar-benar berkembang.
+Keberhasilan Jalur Tamsui didasarkan pada data kunci: ia menghubungkan kawasan perumahan paling padat Taipei (Beitou, Shilin, Datong) dengan pusat kota, kebutuhan komuter sangat besar. Saat hanya ada Jalur Muzha, MRT Taipei hanya mengangkut 40.000 orang per hari, setelah Jalur Tamsui bergabung menjadi 85.000, dan baru setelah jaringan rute bertambah satu per satu, volume penumpang benar-benar tumbuh.
 
-**Keunggulan Geografis + Pembelajaran Teknologi + Konstruksi Budaya = Keajaiban Jalur Tamsui.** Rumus ini ditiru oleh banyak kota setelahnya, tetapi sangat sedikit yang berhasil mereplikasinya.
+**Keuntungan geografis + pembelajaran teknis + pembentukan budaya = Keajaiban Jalur Tamsui.** Rumus ini kemudian ditiru oleh tak terhitung kota, tetapi jarang yang berhasil mereplikasi keberhasilannya.
 
 ## Jaringan Persimpangan Jalur Bannan: Titik Balik Strategis Taipei MRT
 

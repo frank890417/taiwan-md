@@ -32,10 +32,10 @@ rationale:
   whos_pushing_back: '國家圖書館的官方敘事強調完整保存與知識服務，出版者和數位典藏研究則提醒，電子出版格式、授權、永久保存成本與使用權並不會因為送存制度存在而自動解決。本文並列兩邊的制度事實。'
 curation: 'incubating'
 translatedFrom: 'Culture/國家圖書館.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:b188920097cf9184'
-sourceBodyHash: 'sha256:bf6baa44f84e7aa1'
-translatedAt: '2026-09-13T00:44:03+08:00'
+sourceCommitSha: '650297302f'
+sourceContentHash: 'sha256:9bb0d26fbfa502a7'
+sourceBodyHash: 'sha256:a2db633578f86780'
+translatedAt: '2026-11-20T07:56:20.375392+00:00'
 ---
 
 # Perpustakaan Nasional: Bagaimana Sebuah Perpustakaan Mengabadikan Publikasi Pulau Menjadi Memori Bangsa
@@ -114,29 +114,29 @@ Yang benar-benar menopang Perpustakaan Nasional adalah sistem deposisi penerbit,
 
 Perpustakaan Nasional juga bekerja sama dengan pusat penelitian Sinologi, pusat sumber daya Tionghoa di Taiwan di luar negeri, dan sumber daya naskah Tionghoa untuk memastikan bahwa publikasi Taiwan dan naskah Tionghoa tidak hanya terbatas pada satu bangunan di Taipei. Kerja sama internasional semacam ini bukanlah mengemas budaya Taiwan sebagai komoditas ekspor, melainkan memungkinkan berbagai unit koleksi berbagi katalog, gambar, dan pintu masuk penelitian. Oleh karena itu, skala koleksi nasional tidak hanya ditentukan oleh kuantitas koleksi, tetapi juga oleh kemampuannya untuk saling mencari dan saling mengoreksi dengan institusi lain.
 
-## Layanan Pembaca Adalah Keluaran dari Preservasi
+## Layanan Pembaca Adalah Keluaran Preservasi
 
-Sistem preservasi pada akhirnya kembali ke bagaimana pembaca mengakses data. Area baca di gedung utama Perpustakaan Nasional, serta meja pendaftaran, secara permukaan adalah tempat yang paling biasa di dalam bangunan, tetapi sebenarnya menghubungkan sistem _back-end_ naskah nasional dengan pengguna. Pembaca pertama-tama harus mendapatkan kualifikasi masuk, dan kemudian mendekati publikasi yang mungkin sudah lama meninggalkan pasar melalui pencarian koleksi, data bibliografi, dan aturan penggunaan.[^3] [^17]
+Sistem preservasi pada akhirnya tetap kembali ke bagaimana pembaca mengakses data. Gerbang kontrol dan meja pendaftaran di ruang baca utama Perpustakaan Nasional, di permukaan hanyalah tempat paling sehari-hari di bangunan tersebut, sebenarnya menghubungkan sistem belakang dokumen nasional ke pengguna. Pembaca terlebih dahulu memperoleh hak akses, lalu melalui pencarian koleksi, data bibliografi, dan aturan ruang baca mendekati sebuah publikasi yang mungkin sudah lama keluar dari pasar.[^3] [^17]
 
-Pintu masuk ini juga mengingatkan kita bahwa digitalisasi tidak dapat menggantikan semua layanan fisik. Sumber daya elektronik memungkinkan pencarian jarak jauh, tetapi pustakawan masih perlu menangani identifikasi versi, penggunaan sumber daya khusus, batasan hak cipta, dan konteks data. Peningkatan literasi digital dan layanan perpustakaan yang disajikan dalam buletin tahun 2025 menunjukkan bahwa ini bukan berarti buku fisik akan menghilang, melainkan pembaca memerlukan dua jalur: penemuan daring dan konfirmasi fisik.[^14]
+Pintu masuk ini juga mengingatkan kita bahwa digitalisasi tidak dapat menggantikan semua layanan fisik. Sumber daya elektronik memungkinkan pencarian jarak jauh, namun pustakawan tetap perlu menangani identifikasi edisi, penggunaan koleksi khusus, batasan hak cipta, dan konteks data. Berita Perpustakaan 2025 yang mencatat bangkitnya literasi digital dan layanan perpustakaan berjalan dua jalur, bukan berarti cetakan akan segera hilang, melainkan pembaca memerlukan kedua jalur: penemuan daring dan verifikasi fisik.[^14]
 
-![Area baca gedung utama Perpustakaan Nasional, mendekati koleksi melalui layanan pendaftaran.](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Interior_of_National_Central_Library_ROC_-_01._2024_-_01_-_11.jpg/500px-Interior_of_National_Central_Library_ROC_-_01._2024_-_01_-_11.jpg)
+![國家圖書館總館閱覽大廳，從辦證服務與管制入口接近館藏。](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Interior_of_National_Central_Library_ROC_-_01._2024_-_01_-_11.jpg/500px-Interior_of_National_Central_Library_ROC_-_01._2024_-_01_-_11.jpg)
 
-_Gambar: Area baca gedung utama Perpustakaan Nasional. Difoto oleh A Dao, 2024-01-11, CC BY-SA 4.0. Lihat sumber gambar untuk detail halaman._
+_Gambar: Ruang baca utama Perpustakaan Nasional. Foto A-do, 2024-01-11, CC BY-SA 4.0. Sumber gambar tercantum di akhir halaman._
 
-## Dari Daftar Deposisi ke Antarmuka Penerbit
+## Dari Daftar Serah Simpan ke Antarmuka Penerbit
 
-Perubahan sistem terbaru membuat Deposisi Wajib lebih menyerupai antarmuka penerbit daripada sekadar mengirim satu kotak kardus. Buletin Perpustakaan Nasional tahun 2025 mencatat bahwa sistem deposisi publikasi telah diaktifkan dan terintegrasi dengan layanan pendaftaran jaringan informasi buku nasional. Ini berarti proses yang dihadapi penerbit mencakup pendaftaran data, informasi bibliografi, daftar deposisi, dan manajemen lanjutan; deposisi tidak lagi hanya lampiran administratif setelah proses penerbitan selesai.[^13] [^14]
+Perubahan sistem terbaru membuat serah simpan wajib lebih menyerupai antarmuka penerbit, bukan sekadar mengirimkan sebuah kotak karton. Berita Perpustakaan Nasional 2025 mencatat bahwa Sistem Serah Simpan Publikasi telah diluncurkan dan diintegrasikan dengan layanan pendaftaran Jaringan Informasi Buku Baru Nasional. Hal ini berarti alur kerja yang dihadapi penerbit mencakup pendaftaran data, informasi bibliografi, daftar serah simpan, dan manajemen lanjutan; serah simpan tidak lagi hanyalah kelengkapan administrasi di akhir proses penerbitan.[^13] [^14]
 
-Buletin Perpustakaan Nasional tahun 2025 juga menempatkan literasi digital, kolaborasi digitalisasi naskah kuno lintas negara, dan penyebaran hasil penelitian akademis Taiwan internasional dalam satu edisi. Melihat hal-hal ini bersama-sama menunjukkan bahwa pekerjaan Perpustakaan Nasional bergerak di dua jalur secara simultan: satu adalah memasukkan publikasi Taiwan ke sistem nasional, dan yang lainnya adalah mengirimkan materi yang telah disimpan ke jaringan penelitian yang lebih besar. Preservasi dan diseminasi bukanlah hubungan sebab-akibat, melainkan layanan yang harus dirancang bersama.[^14]
+Berita Perpustakaan Nasional 2025 juga menempatkan literasi digital, kerja sama digitalisasi naskah kuno Tionghoa lintas negara, dan penyebaran internasional hasil penelitian akademisi Taiwan dalam edisi yang sama. Melihat hal-hal tersebut bersama-sama, terlihat bahwa pekerjaan Perpustakaan Nasional memiliki dua jalur yang berjalan bersamaan: satu mengumpulkan publikasi Taiwan ke dalam sistem nasional, yang lain mengirimkan materi yang sudah disimpan ke jaringan penelitian yang lebih luas. Preservasi dan penyebaran bukanlah hubungan berurutan, melainkan layanan yang perlu dirancang secara bersamaan.[^14]
 
-Manual manajemen lisensi sistem deposisi, serta formulir penundaan publikasi tesis, pertukaran, dan lisensi, secara lebih jelas mengungkapkan celah kelembagaan antara preservasi dan aksesibilitas. Publikasi dapat diserahkan dan dikatalogkan terlebih dahulu; tetapi publikasi teks lengkap harus ditangani sesuai dengan persyaratan hak penulis, penerbit, atau tesis. Ini bukan karena inefisiensi sistem, melainkan karena pemelihara harus menghormati hasil dari berbagai status hak.[^1]
+Manual operasi manajemen otorisasi sistem serah simpan, serta formulir penundaan publikasi, penggantian, dan otorisasi tesis disertasi, semakin jelas mengungkap kesenjangan sistem antara preservasi dan publikasi. Publikasi dapat diserah simpan dan dikatalogkan terlebih dahulu, sedangkan publikasi teks penuh ditangani sesuai kondisi otorisasi penulis, penerbit, atau tesis disertasi. Ini bukan ketidakefisienan sistem, melainkan konsekuensi dari kewajiban pelestar untuk menghormati berbagai status hak yang berbeda.[^1]
 
-Lokakarya berbagi bersama "Memori Taiwan" di tingkat kota juga membawa masalah dari gedung pusat ke daerah. Perpustakaan Nasional pernah mengundang Kementerian Kebudayaan, Museum Sejarah Nasional Taiwan, Biro Budaya 22 Kota, dan perpustakaan lokal untuk berdiskusi tentang kolaborasi, sambil secara eksplisit membahas sumber daya audiovisual, konteks asli, dan ketentuan lisensi CC _Creative Commons_. Koleksi digital daerah tidak bisa hanya memindahkan berkas ke platform bersama; ia juga harus menjelaskan siapa yang menyediakan, bagaimana mendeskripsikannya, dan apa yang dapat digunakan kembali.[^15]
+Rapat diskusi pembangunan dan berbagi bersama kota/kabupaten Memori Taiwan kemudian membawa isu ini dari gedung pusat ke tingkat daerah. Perpustakaan Nasional pernah mengundang Kementerian Kebudayaan, Museum Sejarah Nasional Taiwan, dua puluh dua dinas kebudayaan kota/kabupaten, dan perpustakaan daerah untuk mendiskusikan kerja sama, serta secara eksplisit menghadapi sumber daya audiovisual, konteks asli, dan ketentuan lisensi Creative Commons. Agar arsip digital daerah dapat masuk ke platform bersama, tidak cukup hanya memindahkan berkas; harus juga menjelaskan siapa penyedia, bagaimana deskripsinya, dan bagian mana yang dapat digunakan kembali.[^15]
 
-![Area baca Perpustakaan Nasional, preservasi pada akhirnya kembali ke cara pembaca menggunakan data.](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Interior_of_National_Central_Library_ROC_-_04._2024_-_01_-_11.jpg/500px-Interior_of_National_Central_Library_ROC_-_04._2024_-_01_-_11.jpg)
+![Ruang baca Perpustakaan Nasional, sistem preservasi pada akhirnya tetap kembali ke bagaimana pembaca menggunakan data.](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Interior_of_National_Central_Library_ROC_-_04._2024_-_01_-_11.jpg/500px-Interior_of_National_Central_Library_ROC_-_04._2024_-_01_-_11.jpg)
 
-_Gambar: Area baca Perpustakaan Nasional. Difoto oleh A Dao, 2024-01-11, CC BY-SA 4.0. Lihat sumber gambar untuk detail halaman._
+_Gambar: Ruang baca Perpustakaan Nasional. Foto A-do, 2024-01-11, CC BY-SA 4.0. Sumber gambar tercantum di akhir halaman._
 
 ## Masalah Berikutnya dalam Memori Penerbitan Taiwan
 

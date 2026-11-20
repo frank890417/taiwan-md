@@ -17,17 +17,17 @@ featured: false
 lastVerified: 2026-08-21
 lastHumanReview: false
 readingTime: 16
-curation: incubating
+curation: 'incubating'
 rationale:
-  why_this_hook: 'Tidak menganggap pertenunan masyarakat adat Taiwan sebagai pola pakaian atau souvenir pariwisata, tetapi memulai dari rami, alat tenun, teknik keluarga, disiplin tubuh, dan aksi revitalisasi, menjelaskan bagaimana kain membawa pengetahuan etnis dan pilihan kontemporer.'
-  whats_excluded: 'Tidak menulis pertenunan enam belas etnis sebagai tradisi tunggal, tidak menggantikan teknik satu etnis dengan semua masyarakat adat, juga tidak melebih-lebihkan upaya individu pengrajin sebagai pemulihan budaya menyeluruh. Artikel berfokus pada kasus Atayal, Saisiyat, Puyuma, dan Rukai yang dapat diverifikasi sumbernya, membedakan transmisi lisan, reproduksi museum, dan pendaftaran cagar budaya.'
-  where_it_hedges: 'Pertenunan masyarakat adat Taiwan memiliki nama etnis, istilah bahasa, tabu, dan teknik yang berbeda per kampung dan keluarga. Teks ini menggambarkan sesuai konteks etnis, lokasi, tahun wawancara, dan latar publikasi setiap sumber, tidak mencampurkan pola, alat, dan ritual kelompok etnis berbeda menjadi satu aturan universal untuk semua masyarakat adat Taiwan.'
-  whos_pushing_back: 'Menolak romantisasi pertenunan sebagai kebajikan bawaan perempuan; juga menolak pengukuran transmisi hanya dari penjualan barang, jumlah pameran, atau sertifikasi keterampilan. Yang sungguh perlu ditanyakan adalah siapa yang bisa belajar, siapa yang bisa merekam, pengetahuan mana yang seharusnya dibuka untuk publik, dan bagaimana kampung memutuskan posisi tradisi dalam kehidupan kontemporer.'
-translatedFrom: Culture/原住民織布.md
-sourceCommitSha: '7c99cd4b7'
-sourceContentHash: 'sha256:d6b33427d383d025'
-sourceBodyHash: 'sha256:d806fd1fb93df2e0'
-translatedAt: 2026-09-10T00:00:00+08:00
+  why_this_hook: '不把原住民族織布當成服飾圖案或觀光紀念品，而是從苧麻、織機、家族技法、身體規訓與復振行動切入，說明布料如何承載族群知識與當代選擇。'
+  whats_excluded: '不把十六族織布寫成單一傳統，不以一族的技法代替所有原住民族，也不把工藝師個人努力誇張成整體文化已經復原。文章集中於泰雅、賽夏、卑南與魯凱等來源可核實的案例，並區分口述傳承、博物館重製與文化資產登錄。'
+  where_it_hedges: '原住民族織布的族名、語詞、禁忌與技法具有部落和家族差異。本文依各來源的族群、地點、訪談年份與出版脈絡敘述，不把不同族群的織紋、工具與儀式混成一套全台灣原住民族共同規則。'
+  whos_pushing_back: '反對把織布浪漫化成女性天生的美德，也反對只用商品銷售、展覽件數或技藝認證衡量傳承。真正需要追問的是，誰可以學、誰可以記錄、哪些知識應被公開，以及部落如何決定傳統在當代生活中的位置。'
+translatedFrom: 'Culture/原住民織布.md'
+sourceCommitSha: '650297302f'
+sourceContentHash: 'sha256:e56ce4cd86cc45fe'
+sourceBodyHash: 'sha256:0221e0902ecca787'
+translatedAt: '2026-11-20T08:10:08.652032+00:00'
 ---
 
 > **Ikhtisar 30 detik:** Pertenunan masyarakat adat Taiwan bukan sekadar menambahkan pola indah ke permukaan kain, melainkan menenun bahan, tubuh, keluarga, dan tatanan tempat ke dalam kehidupan sehari-hari. Atayal menggunakan rami sebagai material utama, dari penanaman, pengupasan, pengikisan, pemintal, pencelupan hingga persiapan lusi, setiap langkah membutuhkan waktu dan memori. Penenun Saisiyat, untuk membuat keluarga mengenakan pakaian ritual Pastaai, menganalisis ulang kaus panjang Saisiyat yang dikoleksi museum hampir seratus tahun lalu, dan menghabiskan tiga tahun mempelajari kembali teknik yang telah terputus. Pertenunan Puyuma menampilkan teknik interlocking, pola berlian, dan tatanan identitas pakaian untuk mengekspresikan estetika dan hubungan sosial etnis. Cerita-cerita ini bersama menunjukkan bahwa pertenunan adalah kerajinan sekaligus bahasa, hubungan keluarga, gender, pengetahuan ritual dan tanah. Revitalisasi hari ini bukan hanya membuat pakaian kuno terlihat sama, tetapi membiarkan kampung memutuskan ulang pengetahuan mana yang bisa diteruskan, bagaimana cara meneruskannya, dan untuk siapa.
@@ -74,15 +74,15 @@ Bagi sekolah dan penonton umum, etika pembelajaran paling dasar adalah jelaskan 
 
 Commons mendaftarkan foto sejarah ini sebagai perempuan kampung Slamaw dan Tetsu Koizumi, sekitar tahun 1932, dan menurut peraturan hak cipta Jepang lama tercatat sebagai domain publik. Gambar memungkinkan pembaca mengamati orang dan pakaian dalam foto awal, tetapi tidak boleh membuat inferensi dari foto tentang penenun, nama etnis, atau kesempatan mengenakan. Saat memakai gambar sejarah, simpan keterangan halaman file dan penjelasan domain publik dari repositori, jauh lebih penting daripada menulis cerita tak terverifikasi untuk foto.[^13]
 
-## Belajar kembali sebuah kampung dari pakaian yang hilang
+## Belajar Kembali dari Pakaian yang Telah Hilang
 
-Kasus Saisiyat membuat "revitalisasi" menjadi konkret. Catatan Musium Antropologi Universitas Nasional Taiwan menunjukkan bahwa penenun Saisiyat dari Miaoli, untuk membuat keluarga ambil bagian dalam Festival Pastaai Sepuluh Tahun 2016, mempelajari kembali pertenunan pakaian tradisional. Mereka pada 2015 pergi ke museum mengamati dan menganalisis pakaian panjang Saisiyat yang dikoleksi hampir seratus tahun lalu dari area Nanzhuang dan Shitan, juga banding dengan kerajinan warisan keluarga kampung; akhirnya menghabiskan tiga tahun mereproduksi sepuluh pakaian panjang dan pendek tradisional.[^7]
+Kasus masyarakat Saisiyat membuat konsep "revitalisasi" menjadi lebih nyata. Museum Antropologi Universitas Nasional Taiwan mencatat bahwa para penenun perempuan Saisiyat di Miaoli mempelajari kembali pembuatan pakaian tradisional agar keluarga mereka dapat berpartisipasi dalam Perayaan Sepuluh Tahunan Pasda'ai pada tahun 2016. Pada tahun 2015, mereka mengunjungi museum untuk melihat dan menganalisis jubah panjang suku Saisiyat yang dikoleksi hampir seratus tahun lalu dari wilayah Nanzhuang dan Shitan, serta membandingkannya dengan kain tenun warisan keluarga di suku tersebut. Akhirnya, mereka menghabiskan waktu tiga tahun untuk membuat kembali sepuluh buah jubah panjang dan pakaian pendek tradisional. [^7]
 
-Proses ini bukan salinan pakaian lama menjadi pakaian baru. Penenun harus membedakan bahan, membongkar pola tenun, memahami metode persiapan lusi, lalu banding koleksi museum dan memori keluarga. Catatan proses tradisional yang direkam termasuk tanam rami, serat rami, pemintal, garis kerangka, pemutihan, pencelupan, pemberian lilin, persiapan lusi, dan pertenunan. Hanya melihat produk akhir, sulit tahu langkah mana yang pernah terputus, juga sulit tahu cara pereproduktor menilai di antara memori tidak lengkap dan benda nyata.
+Proses ini bukanlah sekadar menyalin pakaian lama menjadi pakaian baru. Para penenun harus mengidentifikasi bahan, membedah pola tenun, memahami metode pengaturan benang lungsin (_warping_), lalu membandingkan koleksi museum dengan ingatan keluarga. Catatan mengenai proses tradisional mencakup penanaman rami, penarikan serat rami, pemintalan benang, penyusunan benang pada bingkai, pemutihan, pewarnaan, pelapisan lilin, pengaturan benang lungsin, hingga penenunan. Jika hanya melihat produk jadi, akan sulit untuk mengetahui langkah mana yang sempat terputus, dan juga sulit untuk memahami bagaimana pembuatnya melakukan penilaian di antara ingatan yang tidak lengkap dan benda fisik yang ada.
 
-Pola pakaian panjang Saisiyat juga punya posisi ritual. Data menunjukkan bahwa dalam festival Pastaai, anggota suku mengelilingi dan menari dalam lingkaran; pola permukaan belakang kerajinan menghadap ke dalam lingkaran, menjadi bagian dari interaksi dengan roh pendek. Permukaan depan dan belakang pakaian bukan hubungan depan-belakang desain pameran, melainkan makna yang dibentuk bersama oleh pemakai, arah tari, dan objek ritual. Menggantung pakaian-pakaian ini di pameran menghadap depan, memang dapat membuat penonton melihat pola, tetapi tidak sama dengan pemahaman lengkap posisi asli dalam ritual.[^7]
+Pola pada jubah panjang Saisiyat juga memiliki posisi dalam ritual. Data menunjukkan bahwa dalam upacara Pasda'ai, anggota suku menari dan bernyanyi dalam lingkaran; pola tenun pada bagian belakang pakaian akan menghadap ke arah dalam lingkaran, sehingga menjadi bagian dari interaksi dengan roh leluhur (_Ayi_). Bagian depan dan belakang pakaian bukanlah sekadar hubungan desain antara sisi depan dan belakang, melainkan sebuah makna yang terbentuk bersama oleh pemakainya, arah tarian, dan objek ritual. Memajang pakaian ini di bagian depan ruang pameran memang memungkinkan pengunjung untuk melihat polanya, namun itu tidak sama dengan memahami sepenuhnya posisi asli pakaian tersebut dalam upacara ritual. [^7]
 
-Ini juga kunci kolaborasi museum dan kampung. Museum simpan objek bertahun-tahun yang lebih lama; penenun kampung kuasai kosa kata, memori, dan konteks pakai masih hidup. Dua pihak bekerja sama, bukan museum satu sisi menambah label penjelasan pada kerajinan, melainkan biarkan koleksi menjadi bahan kampung untuk mempelajari ulang, verifikasi, dan diskusi.
+Inilah kunci dari kolaborasi antara museum dan suku. Museum menyimpan objek-objek yang sudah berusia tua, sementara para penenun suku menguasai kosakata, ingatan, dan konteks penggunaan yang masih hidup dalam keseharian mereka. Kerja sama keduanya bukanlah tentang pihak museum secara sepihak menambahkan papan penjelasan pada kain tenun, melainkan menjadikan koleksi tersebut sebagai materi bagi suku untuk belajar kembali, memverifikasi, dan mendiskusikannya.
 
 ## Interlocking dan bahasa sistem cagar budaya Puyuma
 
