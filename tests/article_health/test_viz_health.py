@@ -116,3 +116,47 @@ def test_source_label_is_derived_from_the_renderer_not_hardcoded(tmp_path):
 def test_matcher_is_multiline():
     """直接盯住那個 flag——它是這整個家族的單點故障。"""
     assert viz_health._src_re().flags & re.MULTILINE
+
+
+# ── 規則：AI-blind 圖片指示語（如上圖 / 見下圖 …）────────────────────────────
+#
+# 誕生 2026-11-20（twmd-maintainer-daily）：審 PR #2042 時發現，投稿者改掉的四處
+# 有三處是本規則的假陽性——`安靜如圖書館`、`看見圖案`、`詳見圖片來源`。全庫 15,552
+# 檔實測，本規則當時 8 處命中有 4 處是這種「圖」被當詞頭吃掉的複合名詞。投稿者為了
+# 讓閘門閉嘴改寫了本來正確的中文，而那正是 LESSONS
+# `gate-triggers-content-degradation-incentive` 講的成本。
+#
+# 兩邊都斷言：真指示語要抓到，複合名詞不准抓——只斷言「對的有抓到」會讓下一次放寬
+# 正則時假陽性靜悄悄回來（LESSONS
+# `third-state-reaches-the-data-but-not-the-verdict-sentence` 的測試紀律）。
+
+_AIBLIND_SHOULD_MATCH = [
+    "如圖所示",
+    "如上圖所示",
+    "如上圖所呈現的畫面",
+    "如圖 2 所示",
+    "見下圖",
+    "參見上圖",
+    "如圖表所示",
+    "下圖顯示",
+    "上圖中",
+]
+
+_AIBLIND_SHOULD_NOT_MATCH = [
+    "車廂內安靜如圖書館",
+    "固然能讓觀眾看見圖案",
+    "圖片頁詳見圖片來源",
+    "可見圖像細節",
+    "圖騰與織紋",
+    "參見圖例說明",
+]
+
+
+def test_aiblind_catches_real_image_pointers():
+    for s in _AIBLIND_SHOULD_MATCH:
+        assert viz_health._AIBLIND_RE.search(s), f"真指示語漏抓：{s}"
+
+
+def test_aiblind_does_not_fire_on_compound_nouns_starting_with_tu():
+    for s in _AIBLIND_SHOULD_NOT_MATCH:
+        assert not viz_health._AIBLIND_RE.search(s), f"假陽性：{s}"
