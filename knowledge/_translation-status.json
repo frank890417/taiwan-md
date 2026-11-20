@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-20T09:56:10+08:00",
-    "zhCommitHead": "6086dbba73",
+    "lastUpdated": "2026-11-20T09:58:02+08:00",
+    "zhCommitHead": "bbc411a00b",
     "totalZh": 1192,
     "activeLanguages": [
       "en",
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1192,
-        "fresh": 1145,
+        "fresh": 1146,
         "stale": 30,
         "metadata_stale": 9,
-        "missing": 8,
+        "missing": 7,
         "orphan": 0
       }
     },
@@ -9000,8 +9000,8 @@
           "sourceContentHash": "sha256:804cb929e49d0000",
           "sourceBodyHash": "sha256:c90510ae0ea9b7ac",
           "translatedAt": "2026-11-20T03:56:58+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bbc411a0",
+          "translationLastModified": "2026-11-20T09:56:10+08:00",
           "inferred": false,
           "footnoteDefs": 3,
           "bytes": 10427,
@@ -18188,8 +18188,8 @@
           "sourceContentHash": "sha256:f5a4019a85575efd",
           "sourceBodyHash": "sha256:84909ece10eb2627",
           "translatedAt": "2026-11-20T03:56:58+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bbc411a0",
+          "translationLastModified": "2026-11-20T09:56:10+08:00",
           "inferred": false,
           "footnoteDefs": 1,
           "bytes": 10784,
@@ -67253,8 +67253,8 @@
           "sourceContentHash": "sha256:32772071ae1ab735",
           "sourceBodyHash": "sha256:694eda8fc7232fe6",
           "translatedAt": "2026-11-20T03:56:58+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bbc411a0",
+          "translationLastModified": "2026-11-20T09:56:10+08:00",
           "inferred": false,
           "footnoteDefs": 3,
           "bytes": 9762,
@@ -187174,7 +187174,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/History/dominican-order-taiwan.md",
+          "translatedFrom": "History/道明會在台灣.md",
+          "sourceCommitSha": "24f563e646",
+          "sourceContentHash": "sha256:1bd7703941e67723",
+          "sourceBodyHash": "sha256:15228d1d82684e84",
+          "translatedAt": "2026-11-20T03:57:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 3,
+          "bytes": 13789,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
