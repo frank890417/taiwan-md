@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-20T11:21:02+08:00",
-    "zhCommitHead": "532e7b4211",
+    "lastUpdated": "2026-11-20T11:56:37+08:00",
+    "zhCommitHead": "f5455b069c",
     "totalZh": 1192,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1192,
-        "fresh": 1178,
+        "fresh": 1179,
         "stale": 11,
         "metadata_stale": 1,
-        "missing": 2,
+        "missing": 1,
         "orphan": 0
       },
       "ja": {
@@ -60,18 +60,18 @@
       },
       "vi": {
         "total_zh": 1192,
-        "fresh": 1154,
-        "stale": 25,
+        "fresh": 1156,
+        "stale": 23,
         "metadata_stale": 5,
         "missing": 8,
         "orphan": 0
       },
       "id": {
         "total_zh": 1192,
-        "fresh": 1171,
+        "fresh": 1172,
         "stale": 13,
         "metadata_stale": 4,
-        "missing": 4,
+        "missing": 3,
         "orphan": 0
       },
       "pt": {
@@ -92,10 +92,10 @@
       },
       "ar": {
         "total_zh": 1192,
-        "fresh": 1165,
-        "stale": 15,
+        "fresh": 1167,
+        "stale": 14,
         "metadata_stale": 4,
-        "missing": 8,
+        "missing": 7,
         "orphan": 0
       },
       "ru": {
@@ -108,10 +108,10 @@
       },
       "de": {
         "total_zh": 1192,
-        "fresh": 1148,
-        "stale": 30,
+        "fresh": 1150,
+        "stale": 29,
         "metadata_stale": 9,
-        "missing": 5,
+        "missing": 4,
         "orphan": 0
       }
     },
@@ -9096,8 +9096,8 @@
           "sourceContentHash": "sha256:804cb929e49d0000",
           "sourceBodyHash": "sha256:c90510ae0ea9b7ac",
           "translatedAt": "2026-11-20T03:57:12+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f5455b06",
+          "translationLastModified": "2026-11-20T11:21:02+08:00",
           "inferred": false,
           "footnoteDefs": 3,
           "bytes": 9837,
@@ -18231,7 +18231,20 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Economy/taiwan-solar-power.md",
+          "translatedFrom": "Economy/太陽光電.md",
+          "sourceCommitSha": "24f563e646",
+          "sourceContentHash": "sha256:f5a4019a85575efd",
+          "sourceBodyHash": "sha256:84909ece10eb2627",
+          "translatedAt": "2026-11-20T03:56:56+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 1,
+          "bytes": 9361,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/taiwan-solar-power.md",
@@ -18314,7 +18327,20 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/taiwan-solar-power.md",
+          "translatedFrom": "Economy/太陽光電.md",
+          "sourceCommitSha": "24f563e646",
+          "sourceContentHash": "sha256:f5a4019a85575efd",
+          "sourceBodyHash": "sha256:84909ece10eb2627",
+          "translatedAt": "2026-11-20T03:57:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 1,
+          "bytes": 9854,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/taiwan-solar-power.md",
@@ -18323,8 +18349,8 @@
           "sourceContentHash": "sha256:f5a4019a85575efd",
           "sourceBodyHash": "sha256:84909ece10eb2627",
           "translatedAt": "2026-11-20T03:57:12+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f5455b06",
+          "translationLastModified": "2026-11-20T11:21:02+08:00",
           "inferred": false,
           "footnoteDefs": 1,
           "bytes": 10135,
@@ -18368,7 +18394,20 @@
           "reason": "same-commit"
         },
         "de": {
-          "status": "missing"
+          "path": "de/Economy/taiwan-solar-power.md",
+          "translatedFrom": "Economy/太陽光電.md",
+          "sourceCommitSha": "24f563e646",
+          "sourceContentHash": "sha256:f5a4019a85575efd",
+          "sourceBodyHash": "sha256:84909ece10eb2627",
+          "translatedAt": "2026-11-20T03:57:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 1,
+          "bytes": 10487,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -57502,18 +57541,18 @@
         "vi": {
           "path": "vi/Lifestyle/food-delivery-platforms-taiwan.md",
           "translatedFrom": "Lifestyle/外送平台.md",
-          "sourceCommitSha": "62194c6e6",
-          "sourceContentHash": "sha256:4fcef48a4fb87a46",
-          "sourceBodyHash": "sha256:13fc2011ed2fd336",
-          "translatedAt": "2026-09-14T00:53:30+08:00",
+          "sourceCommitSha": "d0d78ae506",
+          "sourceContentHash": "sha256:e9fe365d20b93673",
+          "sourceBodyHash": "sha256:79a48da3f8317992",
+          "translatedAt": "2026-11-20T03:57:07+08:00",
           "translationLastCommit": "f4892bab",
           "translationLastModified": "2026-09-19T11:51:58+08:00",
           "inferred": false,
-          "footnoteDefs": 14,
-          "bytes": 32313,
+          "footnoteDefs": 17,
+          "bytes": 40861,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (17→14)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Lifestyle/food-delivery-platforms-taiwan.md",
@@ -98526,20 +98565,18 @@
         "vi": {
           "path": "vi/Politics/city-councilor-system-taiwan.md",
           "translatedFrom": "Politics/議員制度.md",
-          "sourceCommitSha": "709d2dc03",
-          "sourceContentHash": "sha256:4b665d6e2920264b",
-          "sourceBodyHash": "sha256:41e02e02e0fbd229",
-          "translatedAt": "2026-10-23T01:19:18.472706+00:00",
+          "sourceCommitSha": "be13f04522",
+          "sourceContentHash": "sha256:00af5d0f37a777ff",
+          "sourceBodyHash": "sha256:9359ef48b07d6033",
+          "translatedAt": "2026-11-20T03:30:12.519203+00:00",
           "translationLastCommit": "3bf93e68",
           "translationLastModified": "2026-10-23T10:40:07+08:00",
           "inferred": false,
           "footnoteDefs": 31,
-          "bytes": 43836,
+          "bytes": 44649,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 3,
-          "diffSummary": "+9 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Politics/city-councilor-system-taiwan.md",
@@ -151002,20 +151039,18 @@
         "ar": {
           "path": "ar/People/tony-hsiao-inside-founder.md",
           "translatedFrom": "People/蕭上農.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:0c7501412dac27dc",
-          "sourceBodyHash": "sha256:9108cdc7ca125f4b",
-          "translatedAt": "2026-07-25T19:27:06+08:00",
+          "sourceCommitSha": "160f6cb590",
+          "sourceContentHash": "sha256:cf3dd21873bec862",
+          "sourceBodyHash": "sha256:ba8d5bb97d38e74d",
+          "translatedAt": "2026-11-20T03:27:27.863676+00:00",
           "translationLastCommit": "f1daf600",
           "translationLastModified": "2026-10-10T23:14:31+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 18599,
+          "bytes": 18634,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/tony-hsiao-inside-founder.md",
@@ -187283,7 +187318,20 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/History/dominican-order-taiwan.md",
+          "translatedFrom": "History/道明會在台灣.md",
+          "sourceCommitSha": "24f563e646",
+          "sourceContentHash": "sha256:1bd7703941e67723",
+          "sourceBodyHash": "sha256:15228d1d82684e84",
+          "translatedAt": "2026-11-20T03:57:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 3,
+          "bytes": 17779,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/History/dominican-order-taiwan.md",
@@ -240276,20 +240324,18 @@
         "de": {
           "path": "de/Culture/common-taiwanese-names.md",
           "translatedFrom": "Culture/菜市場名.md",
-          "sourceCommitSha": "22286539e",
-          "sourceContentHash": "sha256:4f24d54138c9fd30",
-          "sourceBodyHash": "sha256:e1adcb11fb9e8afa",
-          "translatedAt": "2026-11-05T15:10:16.970583+00:00",
+          "sourceCommitSha": "f024e87e7a",
+          "sourceContentHash": "sha256:b43b81907a3c86ea",
+          "sourceBodyHash": "sha256:cf68717b49d8561a",
+          "translatedAt": "2026-11-20T03:28:19.196503+00:00",
           "translationLastCommit": "b052c632",
           "translationLastModified": "2026-11-06T00:40:47+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 8872,
+          "bytes": 9663,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
