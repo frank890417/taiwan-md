@@ -1,179 +1,187 @@
 ---
-title: 'Sự phát triển của hệ thống chăm sóc dài hạn tại Đài Loan'
-description: 'Đài Loan đã xây dựng được hệ thống chăm sóc dài hạn tiên tiến nhất châu Á thông qua thiết kế chính sách với ngân sách khổng lồ hàng năm; tuy nhiên, song song đó là mạng lưới chăm sóc vô hình từ hàng trăm nghìn hộ gia đình thuê giúp việc nước ngoài, tạo nên sự mâu thuẫn sâu sắc giữa thiết kế thể chế và thực tế xã hội.'
+title: 'Phát triển chế độ chăm sóc dài hạn tại Đài Loan'
+description: 'Đài Loan nhờ thiết kế chế độ đã xây dựng nên hệ thống chăm sóc dài hạn tiên tiến nhất châu Á, chính quyền hàng năm đầu tư ngân sách khổng lồ phục vụ đông đảo nhân dân; nhưng đồng thời, hàng trăm nghìn công nhân chăm sóc gia đình nước ngoài thầm lặng gánh vác một mạng lưới chăm sóc ẩn hình quy mô lớn hơn trong các hộ gia đình, hai hệ thống song song gần như không giao thoa, xen kẽ nhau tạo nên câu chuyện mâu thuẫn sâu sắc về thiết kế chế độ, giá trị xã hội và sự thỏa hiệp thực tế.'
 date: 2026-03-22
 category: 'Society'
 tags:
   [
     'Chăm sóc dài hạn',
     'Già hóa dân số',
-    'Người giúp việc nước ngoài',
+    'Người chăm sóc nước ngoài',
     'Chăm sóc dài hạn 2.0',
-    'Mâu thuẫn thể chế',
+    'Mâu thuẫn chế độ',
   ]
 subcategory: '社會福利'
 author: 'Taiwan.md'
 featured: false
-lastVerified: 2026-03-22
+lastVerified: 2026-11-08
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣長期照顧制度發展.md'
-sourceCommitSha: '0471d07ff'
-sourceContentHash: 'sha256:c735ef0db3cd23ac'
-sourceBodyHash: 'sha256:738376ef61832978'
-translatedAt: '2026-10-16T00:53:02+08:00'
+sourceCommitSha: 'be13f04522'
+sourceContentHash: 'sha256:f21c4242e07fa46d'
+sourceBodyHash: 'sha256:296647c16e0407ac'
+translatedAt: '2026-11-20T05:09:30.123684+00:00'
 ---
 
-# Sự phát triển của hệ thống chăm sóc dài hạn tại Đài Loan
+# Phát triển chế độ chăm sóc dài hạn Đài Loan
 
-> **Tóm tắt trong 30 giây:** Đài Loan sở hữu hệ thống chăm sóc dài hạn hoàn thiện nhất châu Á, với dịch vụ Chăm sóc dài hạn 2.0 phục vụ 360.000 người và tỷ lệ hài lòng lên tới 85%. Tuy nhiên, đồng thời cũng có 214.000 người giúp việc nước ngoài đang âm thầm duy trì một hệ thống chăm sóc khác lớn hơn. Đây là câu chuyện về sự giằng co giữa thiết kế thể chế, giá trị xã hội và sự thỏa hiệp với thực tế.
+> **Tóm tắt 30 giây:** Đài Loan sở hữu chế độ chăm sóc dài hạn hoàn chỉnh nhất châu Á, Chăm sóc dài hạn 2.0 phục vụ 360.000 người, tỷ lệ bao phủ dịch vụ tăng từ 20,30% năm 2017 lên 89,9% tháng 6 năm 2025; Nguyễn viện đã phê duyệt Chăm sóc dài hạn 3.0 vào ngày 31 tháng 12 năm 2025, triển khai từ năm 2026.[^1] Tuy nhiên, đồng thời còn có 214.000 công nhân chăm sóc người nước ngoài thầm lặng đỡ đầu một hệ thống chăm sóc lớn hơn nữa. Đây là một câu chuyện về thiết kế chế độ, giá trị xã hội và sự thỏa hiệp thực tế.[^2]
 
-Năm 2017, chính quyền Thái Anh Văn (Cai Yingwen) đã khởi động chương trình Chăm sóc dài hạn 2.0, tuyên bố xây dựng một "hệ thống dịch vụ chăm sóc dài hạn mang tính liên tục và phổ quát". Cùng năm đó, số lượng người giúp việc gia đình nước ngoài được thuê tại Đài Loan lần đầu tiên vượt mốc 200.000 người.
+Năm 2017, chính phủ Thái Anh Văn (Tsai Ing-wen) khởi động Chăm sóc dài hạn 2.0, tuyên bố xây dựng «hệ thống dịch vụ chăm sóc dài hạn liên tục, phổ cập». Cùng năm đó, số lượng công nhân chăm sóc gia đình người nước ngoài mà Đài Loan tuyển dụng lần đầu tiên vượt quá 200.000 người.
 
-Đây không phải là sự trùng hợp, mà chính là mâu thuẫn lớn nhất trong hệ thống chăm sóc dài hạn của Đài Loan: một bên là hệ thống chính thức của chính phủ với ngân sách hàng năm lên tới 65 tỷ NT$, một bên là hệ thống vô hình gồm 214.000 hộ gia đình tự thuê người giúp việc nước ngoài. Hệ thống trước phục vụ 360.000 người, hệ thống sau phục vụ khoảng 210.000 người — hai thế giới chăm sóc song hành này gần như không có sự giao thoa.
+Đây không phải là trùng hợp, đây là mâu thuẫn lớn nhất của chế độ chăm sóc dài hạn Đài Loan: một bên là hệ thống chính thức với ngân sách NT$65 tỷ hàng năm mà chính phủ đầu tư, bên kia là hệ thống vô hình của 214.000 hộ gia đình tự tuyển dụng công nhân chăm sóc người nước ngoài. Hệ thống trước phục vụ 360.000 người, hệ thống sau phục vụ khoảng 210.000 người — hai thế giới chăm sóc song song, gần như không giao thoa.
 
-> **📝 Ghi chú của biên tập viên**
-> Điểm nghịch lý nhất trong chính sách chăm sóc dài hạn của Đài Loan: Một mặt chúng ta xây dựng hệ thống chăm sóc đẳng cấp thế giới, mặt khác lại nuôi dưỡng một xã hội phụ thuộc vào người giúp việc nước ngoài nhất thế giới.
+> **📝 Ghi chú người biên soạn**
+> Điều phi trực giác nhất của chính sách chăm sóc dài hạn Đài Loan: chúng ta một bên xây dựng chế độ chăm sóc dài hạn đẳng cấp thế giới, một bên nuôi dưỡng xã hội phụ thuộc vào công nhân chăm sóc người nước ngoài nhiều nhất trên toàn cầu.
 
-## Sự ra đời của thể chế: Chạy đua trước ngưỡng cửa siêu già hóa
+## Sự ra đời của chế độ: Kịp khởi động trước siêu cao tuổi
 
-Năm 1993, tỷ lệ dân số trên 65 tuổi tại Đài Loan đạt 7%, chính thức bước vào xã hội già hóa. Tuy nhiên, phản ứng của các chính trị gia chậm đến mức đáng ngạc nhiên — phải đến năm 2007, tức là 14 năm sau khi bắt đầu già hóa, "Kế hoạch mười năm chăm sóc dài hạn" mới chính thức được triển khai.
+Năm 1993, tỷ lệ dân số 65 tuổi trở lên của Đài Loan đạt 7%, chính thức bước vào xã hội già hóa. Nhưng phản ứng của các chính trị gia lại chậm kỳ lạ — cho đến năm 2007, sau 14 năm già hóa, "Kế hoạch 10 năm Dài hạn chăm sóc" mới chính thức khởi động.
 
-Kế hoạch muộn màng này ngay từ đầu đã không được kỳ vọng cao. Với ngân sách 81,7 tỷ NT$ trong 10 năm, con số nghe có vẻ lớn nhưng trung bình mỗi năm chỉ có 8 tỷ NT$ — chưa bằng 2% ngân sách Bảo hiểm Y tế lúc bấy giờ. Tệ hơn nữa, đối tượng phục vụ chỉ khoảng 20.000 người, với tỷ lệ bao phủ chỉ đạt 1,5%.
+Kế hoạch đến muộn này từ đầu đã không được coi trọng. Ngân sách 10 năm NT$81,7 tỷ, trông có vẻ nhiều, nhưng trung bình mỗi năm chỉ NT$8 tỷ — chưa tới 2% ngân sách Bảo hiểm y tế lúc bấy giờ. Tệ hơn, đối tượng dịch vụ chỉ khoảng 2 vạn người, tỷ lệ bao phủ chỉ 1,5%.
 
-Trong cuộc bầu cử Tổng thống năm 2016, chăm sóc dài hạn đã trở thành vấn đề mà cả ba ứng cử viên đều không thể né tránh. Thái Anh Văn đã cam kết nâng cấp lên "Chăm sóc dài hạn 2.0", chuyển đổi hình thức ngân sách từ lập dự toán hàng năm sang sử dụng nguồn thu chuyên biệt từ thuế thuốc lá, đẩy mức ngân sách hàng năm lên trên 30 tỷ NT$.
+Cuộc bầu cử tổng thống năm 2016, Dài hạn chăm sóc trở thành đề tài ba cặp ứng viên không dám tránh né. Thái Anh Văn cam kết nâng cấp thành "Dài hạn chăm sóc 2.0", ngân sách từ 편성 hàng năm chuyển thành thuế thuốc lá chuyên khoản chuyên dụng, một mạch nâng lên trên NT$30 tỷ/năm.
 
-> **⚠️ Quan điểm tranh luận**
-> Giới y khoa chỉ trích: Tại Nhật Bản, nguồn tài chính cho bảo hiểm chăm sóc dài hạn được chia đều giữa thuế và phí bảo hiểm nhưng vẫn thiếu hụt trầm trọng; trong khi Đài Loan chỉ dựa vào thuế để chi trả, điều này gây lo ngại về tính bền vững tài chính.
+> **⚠️ Góc nhìn tranh议**
+> Y giới phê bình: Nguồn tài chính bảo hiểm Dài hạn chăm sóc Nhật Bản, thuế thu và bảo hiểm mỗi bên nửa đều thiếu hụt nghiêm trọng, Đài Loan chỉ nhờ thuế thu ứng phó, tính bền vững tài chính khiến người ta lo ngại.
 
-| Năm 2017: 29.000 người                             | Năm 2024: 360.000 người                             |
-| :------------------------------------------------- | :-------------------------------------------------- |
-| Số người được phục vụ năm đầu Chăm sóc dài hạn 2.0 | Số người được phục vụ hiện tại (tăng trưởng 12 lần) |
+| Năm 2017: 2,9 vạn người                            | Năm 2024: 36 vạn người                       |
+| -------------------------------------------------- | -------------------------------------------- |
+| Số người được phục vụ năm đầu Dài hạn chăm sóc 2.0 | Số người được phục vụ hiện tại (tăng 12 lần) |
 
-Nhưng những con số đẹp đẽ đó lại đối lập với thực tế nghiệt ngã.
+Nhưng con số đẹp, thực tế gầy gò.
 
-## Thời đại thiếu hụt lao động: 7 nhân viên chăm sóc mới lo được cho 1 người
+## Thời đại thiếu hụt lao động trầm trọng: 7 nhân viên dịch vụ tại nhà luân phiên chăm sóc 1 người
 
-"Không tìm được người" là điểm yếu lớn nhất của hệ thống chăm sóc dài hạn. Ông Đồ Tâm Ninh (Tu Xinning), Chủ tịch Liên minh Chiến lược Dịch vụ tại gia, chỉ ra rằng quy mô nhân lực của các đơn vị dịch vụ tại gia đang rơi vào tình trạng sụp đổ cấu trúc: Năm 2016, toàn Đài Loan có 186 đơn vị dịch vụ tại gia, trung bình mỗi đơn vị thuê 47,9 nhân viên; đến năm 2024, số lượng đơn vị tăng lên 2.235 nhưng trung bình mỗi đơn vị chỉ có 24,3 nhân viên.
+「Tìm không thấy người」 là điểm đau lớn nhất của hệ thống chăm sóc dài hạn. Chủ tịch Liên minh Chiến lược Dịch vụ Tại nhà Đài Loan Đổ Tâm Ninh chỉ ra rằng quy mô nhân lực của các đơn vị dịch vụ tại nhà đang gặp sụp đổ cấu trúc: năm 2016 cả Đài Loan có 186 đơn vị dịch vụ tại nhà, trung bình mỗi đơn vị tuyển dụng 47,9 nhân viên dịch vụ tại nhà; đến năm 2024, số lượng đơn vị tăng lên 2.235, nhưng mỗi đơn vị trung bình chỉ còn 24,3 người.[^2]
 
-Số lượng đơn vị tăng lên nhưng nhân lực bị phân tán, dẫn đến việc không thể sắp xếp ca làm linh hoạt. Bà Trần Uyển Du (Chen Wanyu), quản lý trường hợp tại cơ sở chăm sóc tại gia Quân Úy ở thành phố Đài Bắc, đã gặp tình huống trớ trêu nhất: một bệnh nhân cần tới 7 nhân viên thay phiên nhau chăm sóc, đôi khi trong một ngày có nhiều nhân viên khác nhau đến vào các khung giờ khác nhau — người thì tắm, người thì đi dạo, người thì hỗ trợ thay đổi tư thế nằm.
+Đơn vị nhiều lên, nhân lực phân tán, kết quả là không thể sắp xếp ca linh hoạt. Quản lý trường hợp Trần Vân Vũ của Cơ quan Chăm sóc Dài hạn Tại nhà Quân Vĩ tại Thành phố Đài Bắc từng gặp tình huống cực đoan nhất: một trường hợp cần 7 nhân viên dịch vụ tại nhà luân phiên chăm sóc, đôi khi trong một ngày các khung giờ khác nhau đến các nhân viên khác nhau — một người tắm rửa, một người đi dạo, một người thay đổi tư thế.
 
-> **💡 Bạn có biết**
-> Dịch vụ chăm sóc ban đêm gần như không thể tìm được người. Ngay cả khi chính phủ cung cấp khoản phụ cấp ban đêm là 385 NT$, số lượng nhân viên sẵn sàng làm việc đêm vẫn cực kỳ ít ỏi. Những người thân trong gia đình vốn là người đi làm, sau khi về nhà rất khó có được "một chút thời gian nghỉ ngơi".
+> **💡 Bạn có biết không**
+> Dịch vụ tại nhà ban đêm gần như không tìm thấy người. Dù chính phủ cung cấp phụ cấp ban đêm 385 NT$, nhân viên dịch vụ tại nhà sẵn sàng làm việc ban đêm vẫn cực hiếm. Người chăm sóc gia đình là người đi làm về nhà sau đó rất khó 「thở một chút」.
 
-Nghiêm trọng hơn là sự thất thoát lớn của đội ngũ quản lý trường hợp (case manager) ở phân khúc trung lưu của chuỗi cung ứng nhân lực. Bộ Y tế và Phúc lợi quy định mỗi quản lý trường hợp chỉ nên phụ trách tối đa 120 ca, nhưng thực tế thường xuyên vượt quá 150 ca. Ông Thi Thắng Mậu (Shi Shengmao), quản lý trường hợp kỳ cựu tại Hội Chữ thập Đỏ Hồng Tâm ở Đài Bắc, cho biết: "Nhân viên công tác xã hội dành cho người già neo đơn có thể làm dịch vụ chuyên sâu cho 30-60 ca, nhưng với 150 ca thì hoàn toàn không thể thực hiện chăm sóc toàn diện được."
+Nghiêm trọng hơn là sự chảy máu nhân lực lớn của các quản lý trường hợp ở giữa chuỗi nhân lực. Bộ Y tế quy định mỗi quản lý trường hợp chịu tải tối đa 120 trường hợp, nhưng thực tế thường vượt quá 150 trường hợp. Quản lý trường hợp cấp cao Thư Thắng Mậu của Hội Chữ Đỏ Thành phố Đài Bắc nói: 「Công tác xã hội cho người cao tuổi độc cư có thể làm 30–60 trường hợp dịch vụ sâu, 150 trường hợp từ gốc không thể làm chăm sóc toàn diện。」
 
-Trong giới chăm sóc dài hạn thường truyền tai nhau một câu đùa đen tối: "Sau này chăm sóc dài hạn của chúng ta chỉ có thể dựa vào hai loại người — người nước ngoài và robot!"
+Trong giới chăm sóc dài hạn lưu hành một câu đen đủi: 「Sau này chăm sóc dài hạn của chúng ta, chỉ có thể dựa vào hai loại người — người nước ngoài và robot!」
 
-## Nửa kia vô hình: 240.000 người giúp việc nước ngoài duy trì thế giới song hành
+## Một nửa vô hình: 240.000 y tá ngoại quốc gánh vác thế giới song song
 
-Trong khi Chăm sóc dài hạn 2.0 đang tỏa sáng trên các phương tiện truyền thông, một hệ thống chăm sóc khác còn đồ sộ hơn đang âm thầm lớn mạnh.
+Khi Dài hạn chăm sóc 2.0 đang tỏa sáng trên truyền thông, một hệ thống chăm sóc lớn hơn nữa đang lặng lẽ phát triển mạnh mẽ.
 
-Năm 1992, Đài Loan bắt đầu cho phép thuê người giúp việc gia đình nước ngoài, khi đó chỉ có 306 người. Đến năm 2024, con số này là 214.514 người — trong đó 80% đến từ Indonesia, 10,8% từ Philippines và 8,9% từ Việt Nam. Nếu xếp họ thành một hàng dài, hàng đó có thể kéo từ Đài Bắc đến tận Cao Hùng.
+Năm 1992 Đài Loan mở cửa cho y tá gia đình ngoại quốc, năm đó chỉ có 306 người. Năm 2024 con số này là 214.514 người — trong đó 80% đến từ Indonesia, 10,8% từ Philippines, 8,9% từ Việt Nam. Nếu xếp họ thành một hàng, có thể từ Đài Bắc đến Cao Hùng.
 
 > **📊 Nguồn dữ liệu**
-> Theo thống kê của Bộ Lao động, tính đến tháng 3 năm 2024, Đài Loan có 910.000 người trên 80 tuổi, trong đó 41,7% gặp phải các tình trạng mất khả năng vận động ở mức độ nhất định.
+> Theo thống kê Bộ Lao động, tính đến tháng 3 năm 2024, Đài Loan có 910.000 người từ 80 tuổi trở lên, trong đó 41,7% có mức độ mất năng lực nào đó.
 
-214.000 hộ gia đình thuê giúp việc nước ngoài này đã tạo nên một thế giới chăm sóc hoàn toàn song hành với Chăm sóc dài hạn 2.0. Chi phí thuê một người giúp việc nước ngoài khoảng 30.000 NT$ mỗi tháng để được chăm sóc 24/24; trong khi đó, mức trợ cấp cao nhất hàng tháng của Chăm sóc dài hạn 2.0 dành cho người mất khả năng vận động nặng chỉ là 32.340 NT$, và thời gian phục vụ cũng bị giới hạn.
+214.000 gia đình thuê y tá ngoại quốc này hình thành một thế giới chăm sóc hoàn toàn song song với Dài hạn chăm sóc 2.0. Thuê một y tá ngoại quốc tốn khoảng NT$30.000 mỗi tháng, cung cấp chăm sóc 24 giờ; ngược lại, Dài hạn chăm sóc 2.0 đối với người mất năng lực nặng chỉ cấp tối đa NT$32.340 mỗi tháng, và giờ dịch vụ có hạn.
 
-Điều quan trọng hơn cả là hai hệ thống này gần như không liên quan đến nhau. Theo quy định hiện hành, về nguyên tắc, các gia đình đã thuê người giúp việc nước ngoài không được đăng ký dịch vụ Chăm sóc dài hạn 2.0 (ngoại trừ hỗ trợ dụng cụ và cải thiện môi trường không rào cản tại nhà). Điều khoản loại trừ này đã biến 210.000 hộ gia đình trở thành những "ốc đảo" của hệ thống.
+Quan trọng hơn, hai hệ thống gần như không liên lạc gì với nhau. Theo quy định hiện hành, gia đình có thuê y tá ngoại quốc về nguyên tắc không được xin dịch vụ Dài hạn chăm sóc 2.0 (trừ phụ cụ và cải tạo môi trường nhà ở vô chướng ngại). Điều khoản loại trừ này biến 210.000 gia đình thành những hòn đảo thể chế.
 
-> **⚠️ Quan điểm tranh luận**
-> Từ năm 2026, Chăm sóc dài hạn 3.0 sẽ cho phép các gia đình có người giúp việc nước ngoài sử dụng dịch vụ chăm sóc cộng đồng, nhưng Bộ Y tế và Phúc lợi lo ngại điều này có thể khiến nhu cầu lao động di cư tăng đột biến thêm 160.000 người, gây mất cân bằng cung cầu.
+> **⚠️ Góc nhìn tranh议**
+> Từ năm 2026 Dài hạn chăm sóc 3.0 sẽ đưa gia đình có y tá ngoại quốc vào sử dụng dịch vụ chăm sóc cộng đồng, nhưng Bộ Y tế lo ngại điều này có thể khiến nhu cầu người lao động di trú tăng vọt 160.000 người, gây mất cân cung cầu.
 
-## 24 giờ so với 8 giờ: Cuộc đối đầu giữa hai triết lý chăm sóc
+## 24 giờ vs 8 giờ: Đối quyết giữa hai triết lý chăm sóc
 
-Tại sao các gia đình Đài Loan thà chi 30.000 NT$ thuê người giúp việc nước ngoài còn hơn là dùng Chăm sóc dài hạn 2.0?
+Tại sao gia đình Đài Loan宁愿花 NT$30.000 thuê hộ trợ người nước ngoài, cũng không dùng Dài hạn chăm sóc 2.0?
 
-Bà Liên Kim Anh (Lian Jinying) ở Hoa Liên đang chăm sóc người mẹ 98 tuổi bị mất trí nhớ, đồng thời phải chăm lo cho người chồng 76 tuổi. Bà nói: "Nhân viên chăm sóc tại gia chỉ đến mỗi ngày 2 tiếng, tôi phải tranh thủ lúc đó chạy về nấu cơm cho chồng, trước 1 giờ chiều là phải có mặt ở nhà. Buổi tối về cơ bản là không tìm được ai."
+Liên Kim Anh tại Hoa Liên đang chăm sóc mẹ 98 tuổi bị mất trí, đồng thời phải chăm sóc chồng 76 tuổi. Bà nói: «Dài hạn chăm sóc (nhân viên dịch vụ tại nhà) mỗi ngày chỉ đến 2 giờ, tôi phải tận dụng lúc đó vội về nhà nấu cơm cho chồng, trước 1 giờ chiều phải vội quay lại. Ban đêm cơ bản không tìm thấy người.»
 
-Đây chính là sự khác biệt căn bản giữa hai hệ thống: Chăm sóc dài hạn 2.0 cung cấp "chăm sóc chuyên nghiệp theo phân đoạn", còn người giúp việc nước ngoài cung cấp "sự đồng hành trong cuộc sống suốt ngày đêm". Hệ thống trước phù hợp với các tiêu chuẩn quốc tế về chăm sóc chuyên nghiệp, hệ thống sau lại đáp ứng nhu cầu thực tế của các gia đình Đông Á.
+Đây chính là sự khác biệt căn bản giữa hai chế độ: Dài hạn chăm sóc 2.0 cung cấp «chăm sóc chuyên nghiệp theo đoạn», hộ trợ người nước ngoài cung cấp «đồng hành cuộc sống toàn thời gian». Cái trước phù hợp với tiêu chuẩn quốc tế về chăm sóc chuyên nghiệp, cái sau phù hợp với nhu cầu thực tế của gia đình Đông Á.
 
-> **📝 Ghi chú của biên tập viên**
-> Sự lựa chọn mô hình chăm sóc tại Đài Loan thực chất là sự giằng co giữa hai giá trị: Mô hình "chuyên nghiệp hóa, cộng đồng hóa" kiểu Bắc Âu đối lập với mô hình "gia đình hóa, toàn diện hóa" kiểu Đông Á.
+> **📝 Ghi chú người biên soạn**
+> Lựa chọn mô hình chăm sóc của Đài Loan, thực chất là sự giằng xé giữa hai hệ giá trị: kiểu Bắc Âu «chuyên nghiệp hóa, cộng đồng hóa» vs kiểu Đông Á «gia đình hóa, toàn nhân hóa».
 
-Học giả Lynn Yu Ling Ng từ Đại học Quốc gia Singapore sau khi so sánh các mô hình chăm sóc tại Đài Loan và Singapore đã nhận thấy: Người giúp việc nước ngoài tại Đài Loan giống như "người hỗ trợ cho người chăm sóc trong gia đình" hơn là "người thay thế người chăm sóc trong gia đình". Điều này bắt nguồn từ ngưỡng đăng ký khắt khe của Đài Loan — phải thông qua đánh giá y tế mới được thuê, buộc các chủ hộ Đài Loan phải học các kỹ năng chăm sóc cơ bản, và ngay cả khi đã thuê người giúp việc nước ngoài, họ vẫn tiếp tục tham gia vào công việc chăm sóc.
+Học giả Lynn Yu Ling Ng của Đại học Quốc gia Singapore sau khi so sánh mô hình chăm sóc của Đài Loan và Singapore phát hiện: hộ trợ người nước ngoài của Đài Loan giống hơn là «hỗ trợ người chăm sóc gia đình», chứ không phải «thay thế người chăm sóc gia đình». Điều này xuất phát từ ngưỡng cửa xin việc khắt khe của Đài Loan — phải qua đánh giá y tế mới được thuê, khiến người tuyển dụng Đài Loan bị buộc phải học kỹ năng chăm sóc cơ bản, ngay cả khi đã thuê hộ trợ người nước ngoài vẫn tiếp tục tham gia công việc chăm sóc.[^4]
 
-Ngược lại, các dịch vụ chăm sóc chuyên nghiệp của Chăm sóc dài hạn 2.0 thường vắng mặt vào những thời điểm cần thiết nhất. Ngụy Lực Hổ (Wei Lihu), một nhân viên chăm sóc tại gia, là số ít người chuyên làm ca đêm, ông nói: "Đa số mọi người vẫn không muốn làm việc ban đêm, ngay cả khi có khoản phụ cấp 385 NT$."
+Ngược lại, dịch vụ chăm sóc chuyên nghiệp của Dài hạn chăm sóc 2.0 thường vắng mặt ở những khung giờ cần thiết nhất. Nhân viên dịch vụ tại nhà Ngụy Lực Hổ là một trong số ít chuyên làm ca đêm, anh nói: «Đa số mọi người vẫn không muốn làm việc ban đêm, ngay cả khi có 385 NT$ phụ cấp.»
 
-## Phẩm giá trên dây chuyền sản xuất: Khi chăm sóc trở thành chạy đua với thời gian
+## Sự tôn nghiêm trên dây chuyền: Khi chăm sóc biến thành việc vội vã
 
-Cái giá của sự thiếu hụt nhân lực không chỉ là khó khăn trong sắp xếp ca trực, mà còn là sự thỏa hiệp về chất lượng chăm sóc.
+Thiếu hụt nhân lực không chỉ khiến xếp ca khó khăn, mà còn là sự thỏa hiệp về chất lượng chăm sóc.
 
-Trương Khải Kiệt (Zhang Kaijie - tên giả), một nhân viên công tác xã hội tại các cơ sở lưu trú, quan sát thấy: Ngay cả những dịch vụ cơ bản như tắm rửa cũng trở thành công việc dây chuyền. "8 giờ sáng là giờ tắm, mùa đông nhiệt độ chỉ khoảng 10 độ C, họ phải rời khỏi chăn ấm để đi tắm. Người dân xếp hàng dài trước cửa phòng tắm, 3 nhân viên chia việc: một người cởi đồ, một người đỡ cơ thể, một người xối nước."
+Công tác xã hội tại cơ sở lưu trú Trương Khải Kiệt (giả danh) quan sát thấy: ngay cả dịch vụ cơ bản như tắm rửa cũng biến thành công việc dây chuyền. 「Tắm lúc 8 giờ sáng, mùa đông 10 và vài độ, phải bò ra khỏi chăn ấm để tắm. Người ở xếp hàng dài trước cửa phòng tắm, 3 nhân viên chăm sóc phân công: một người cởi quần áo, một người đỡ người, một người tưới nước.」
 
-Trợ lý giáo sư Lý Thiếu Phân (Li Shaofen) từ Viện Nghiên cứu Y tế và Phúc lợi thuộc Đại học Giao thông Dương Minh cho rằng hiện tượng này gọi là "chăm sóc chạy đua" — những người làm công tác chăm sóc chỉ có thể làm việc trong trạng thái tê liệt cảm quan ngày qua ngày để hoàn thành nhiệm vụ lao động, tính chủ động trong chăm sóc bị thu hẹp, và rủi ro sẽ do chính người dân phải gánh chịu.
+Trợ lý giáo sư Viện Phúc lợi Dương Minh Giao Thông Lý Tiều Phân gọi hiện tượng này là 「chăm sóc vội vã」—— người lao động chăm sóc chỉ có thể ngày après ngày tê liệt giác quan, nghĩ cách hoàn thành nhiệm vụ lao động, tính chủ động của chăm sóc bị hạn chế, rủi ro do người ở gánh chịu.
 
-> **💡 Bạn có biết**
-> Đa số cư dân tại các cơ sở lưu trú chỉ được tắm hai lần một tuần vào mùa đông, vì thiếu nhân lực nên không thể cung cấp dịch vụ vào thời điểm thích hợp.
+> **💡 Bạn có biết không**
+> Đa số người ở tại cơ sở lưu trú mùa đông một tuần chỉ tắm hai lần, vì thiếu nhân lực không thể cung cấp dịch vụ vào thời điểm thích hợp.
 
-Tiểu Thi (Xiao Shi - tên giả), một người chăm sóc từng làm việc tại cơ sở lưu trú, chia sẻ: "Mỗi ca tắm phải làm cho hơn 10 giường, cứ hai ba tiếng lại một vòng, liên tục vệ sinh, cho ăn, tắm rửa, mọi thứ rất giống dây chuyền và rất vội. Tắm xong là tôi mồ hôi nhễ nhại."
+Nhân viên chăm sóc từng làm việc tại cơ sở lưu trú Tiểu Thư (giả danh) nói: 「Ca tắm mỗi ngày phải tắm 10 giường, mỗi hai ba giờ một vòng, không ngừng dọn dẹp cho ăn tắm rửa, rất dây chuyền, rất vội. Tắm xong tôi toàn mồ hôi nhễ nhại.」
 
-Mô hình chăm sóc "ưu tiên hiệu suất" này chính là một trong những lý do khiến các gia đình Đài Loan chọn người giúp việc nước ngoài: Ít nhất ở nhà, họ vẫn có thể giữ được phẩm giá cơ bản.
+Chính mô hình chăm sóc 「ưu tiên hiệu quả」 này, là một trong những lý do gia đình Đài Loan chọn y tá nước ngoài: ở nhà, ít nhất vẫn còn giữ được sự tôn nghiêm cơ bản.
 
-## Góc nhìn quốc tế: Tính độc đáo của mô hình Đài Loan
+## Góc nhìn quốc tế: Đặc thù của mô hình Đài Loan
 
-Hệ thống chăm sóc hai lộ trình của Đài Loan là duy nhất trên thế giới.
+Chế độ chăm sóc song song của Đài Loan trên trường quốc tế là độc đáo.
 
-Đức thiết lập bảo hiểm chăm sóc dài hạn vào năm 1994, áp dụng mô hình "chọn một trong hai: tiền mặt hoặc dịch vụ" — có thể chọn nhận tiền mặt để tự sắp xếp chăm sóc hoặc tiếp nhận dịch vụ chuyên nghiệp. Bảo hiểm chăm sóc (Kaigo) của Nhật Bản lấy các trung tâm dịch vụ tích hợp cộng đồng làm trục chính, nhấn mạnh sự nhất thể hóa giữa y tế, chăm sóc và nhà ở. Hà Lan đã thiết lập bảo hiểm chăm sóc từ năm 1968, hiện cung cấp dịch vụ tiêu chuẩn hóa thông qua hệ thống "gói chăm sóc".
+Đức năm 1994 thành lập bảo hiểm chăm sóc dài hạn, áp dụng mô hình «chọn một trong hai: tiền mặt hoặc dịch vụ»——có thể chọn nhận tiền mặt tự lo liệu chăm sóc, hoặc tiếp nhận dịch vụ chuyên nghiệp. Bảo hiểm chăm sóc (Kaigo) của Nhật Bản lấy trung tâm dịch vụ tích hợp cộng đồng làm trụ cột, nhấn mạnh tích hợp y tế, chăm sóc, nhà ở. Hà Lan từ năm 1968 đã thành lập bảo hiểm chăm sóc dài hạn, hiện nay cung cấp dịch vụ tiêu chuẩn hóa thông qua chế độ «gói chăm sóc».[^3]
 
-Nhưng không có quốc gia nào giống như Đài Loan: Vận hành đồng thời hai hệ thống chăm sóc có quy mô tương đương nhưng lại không tương thích với nhau.
+Nhưng không một quốc gia nào như Đài Loan: đồng thời vận hành hai hệ thống chăm sóc quy mô tương đương, không tương thích lẫn nhau.
 
-> **📝 Ghi chú của biên tập viên**
-> Mâu thuẫn trong hệ thống chăm sóc dài hạn của Đài Loan phản ánh sự giằng co của xã hội Đông Á trong quá trình hiện đại hóa: Chúng ta muốn mô hình Bắc Âu chuyên nghiệp hóa, hay mô hình gia đình nhân văn hóa? Câu trả lời là muốn cả hai, nhưng lại không làm tốt được cái nào.
+> **📝 Ghi chú người biên soạn**
+> Mâu thuẫn của chế độ chăm sóc dài hạn Đài Loan phản ánh sự giãy giụa của xã hội Đông Á trong quá trình hiện đại hóa: chúng ta muốn mô hình Bắc Âu chuyên nghiệp hóa, hay mô hình gia đình nhân văn hóa? Câu trả lời là cả hai đều muốn, nhưng cả hai đều làm không tốt.
 
-Học giả Lương Lệ Phương (Liang Lifang) từ Singapore chỉ ra: "Người giúp việc nước ngoài tại Đài Loan chưa bao giờ nhằm mục đích thay thế vai trò của gia đình, mà là để bổ sung cho những thiếu hụt trong việc chăm sóc của gia đình. Điều này phù hợp với kỳ vọng về trách nhiệm gia đình trong văn hóa Nho giáo."
+Học giả Singapore Liang Li-fang chỉ ra: «Người chăm sóc ngoại quốc của Đài Loan từ trước đến nay không phải để thay thế vai trò gia đình, mà là để bổ sung những thiếu hụt của gia đình trong chăm sóc. Điều này phù hợp với kỳ vọng của văn hóa Nho về trách nhiệm gia đình.»
 
-Tuy nhiên, cái giá của mô hình này là sự phân mảnh thể chế. 210.000 hộ gia đình thuê người giúp việc nước ngoài không thể tận hưởng các nguồn lực cộng đồng, dịch vụ nghỉ ngơi (respite care) hay hỗ trợ dụng cụ của Chăm sóc dài hạn 2.0. Họ sống bên ngoài tầm mắt của hệ thống, tự sinh tự diệt.
+Nhưng chi phí của mô hình này là sự phân chia chế độ. 210.000 hộ gia đình thuê người chăm sóc ngoại quốc không thể hưởng các nguồn lực cộng đồng, dịch vụ nghỉ ngơi, hỗ trợ phụ cụ của Chăm sóc dài hạn 2.0. Họ sống ngoài tầm nhìn của chế độ, tự lo liệu tự sinh tồn.
 
-## Ba mũi tên cứu trợ: Chính phủ phản ứng thế nào trước tình trạng thiếu lao động?
+## Ba mũi tên cứu viện: Chính phủ phản ứng thế nào trước khủng hoảng thiếu hụt lao động
 
-Đối mặt với cuộc khủng hoảng nhân lực chăm sóc, Bộ Y tế và Phúc lợi đã đưa ra ba mũi tên chính sách:
+Đối mặt với khủng hoảng thiếu hụt nhân lực dài hạn chăm sóc, Bộ Y tế đã triển khai ba mũi tên chính sách:
 
-**Mũi tên thứ nhất: Dự án thí điểm dịch vụ chăm sóc đồng hành đa dạng**
-Cho phép người dân tự chi trả để mua các dịch vụ chăm sóc tạm thời, ngắn hạn. Sau 3 tháng triển khai vào năm 2025, 15 huyện thành đã phục vụ lũy kế 485 lượt người, cho thấy nhu cầu là có thật.
+**Mũi tên thứ nhất: Kế hoạch thử điểm dịch vụ chăm sóc đồng hành đa dạng**
+Cho phép người dân tự chi trả mua dịch vụ chăm sóc tạm thời, ngắn hạn. Sau 3 tháng triển khai năm 2025, 15 tỉnh/thành đã tích lũy phục vụ 485 lượt người, cho thấy xác thực có nhu cầu.
 
-**Mũi tên thứ hai: Dự án thu hút và giữ chân nhân tài thông qua hợp tác giữa nhà trường và doanh nghiệp**
-Tuyển sinh sinh viên Việt Nam, Indonesia theo học các khóa đào tạo nghề ngắn hạn về chăm sóc dài hạn, sau khi tốt nghiệp sẽ cam kết làm việc trong 3 năm. 22 sinh viên khóa đầu tiên đã được các doanh nghiệp đặt chỗ toàn bộ, khóa thứ hai sẽ mở rộng lên 40 người.
+**Mũi tên thứ hai: Kế hoạch thu hút và giữ chân nhân tài qua chương trình chuyên biệt hợp tác sản-học quốc tế**
+Tuyển sinh viên Việt Nam, Indonesia học cao đẳng dài hạn chăm sóc, sau tốt nghiệp ký hợp đồng gắn bó 3 năm. Khóa đầu tiên 22 người đã được doanh nghiệp đặt trước hết, khóa hai sẽ mở rộng đến 40 người.
 
-**Mũi tên thứ ba: Mở cửa cho nhân lực kỹ thuật nước ngoài cấp trung**
-Những người giúp việc nước ngoài làm việc trên 6 năm với mức lương tháng đạt 29.000 NT$ có thể chuyển sang thành "nhân lực kỹ thuật cấp trung", không còn bị giới hạn bởi thời gian làm việc. Tính đến tháng 2 năm 2024, đã có 15.000 người đạt được tư cách này.
+**Mũi tên thứ ba: Mở cửa cho nhân tài kỹ thuật trung cấp người nước ngoài**
+Người nước ngoài làm hộ lý trên 6 năm, thu nhập tháng đạt 2,9 vạn nguyên (NT$29.000), có thể chuyển thành "nhân lực kỹ thuật trung cấp", không bị giới hạn năm làm việc. Tính đến tháng 2 năm 2024, đã có 1,5 vạn người đạt được tư cách này.
 
-> **⚠️ Quan điểm tranh luận**
-> Ba mũi tên nghe có vẻ nhiều, nhưng so với nhu cầu hàng trăm nghìn nhân lực, 22 sinh viên Việt Nam bị chỉ trích là "muối bỏ bể". Giải pháp thực sự có thể nằm ở việc nâng cao địa vị xã hội và mức lương cho ngành dịch vụ chăm sóc.
+> **⚠️ Góc nhìn tranh cãi**
+> Ba mũi tên trông có vẻ nhiều, nhưng 22 sinh viên Việt Nam so với nhu cầu nhân lực hàng chục vạn người, bị chỉ trích là "cốc nước trước ngọn lửa". Giải pháp thực sự có thể là nâng cao vị thế xã hội và mức lương của dịch vụ chăm sóc.
 
-## Canh bạc Chăm sóc dài hạn 3.0: Tích hợp hay phân mảnh hơn?
+## Cược của Dài hạn chăm sóc 3.0: Hội nhập hay càng thêm chia rẽ?
 
-Từ năm 2026, Chăm sóc dài hạn 3.0 sẽ được triển khai theo từng giai đoạn, thay đổi lớn nhất là đưa các gia đình có người giúp việc nước ngoài vào sử dụng dịch vụ cộng đồng. Chính sách này sẽ giải quyết mâu thuẫn của hệ thống hai lộ trình, hay sẽ làm vấn đề trở nên phức tạp hơn?
+Nguyên chính viện vào ngày 31 tháng 12 năm 2025 phê duyệt 《長期照顧十年計畫 3.0》, kỳ hạn 115 đến 124 năm (2026 đến 2035), thực hiện từ năm 2026. Kế hoạch lấy 「健康老化、在地安老、安寧善終」 làm tầm nhìn, tám phương diện bao gồm: Hội nhập y tế chăm sóc, Chuẩn bị xuất viện và Phục năng, Năng lực cơ sở, Hỗ trợ gia đình, Chăm sóc thông minh, An nhàn thiện chung và Đào tạo nhân lực, riêng thiết lập ba chuyên chương về Chứng mất trí, Dân tộc nguyên dân và Người khuyết tật. [^1] Trong đó, mục liên quan nhất đến gia đình có hộ chiếu chăm sóc người nước ngoài là Bộ Y tế quy hoạch chia ba giai đoạn đưa nhân lực nước ngoài vào hệ thống dài hạn chăm sóc, bổ sung nhân lực chăm sóc ban đêm và nghỉ ngơi, nhưng vẫn chờ sửa đổi 《長期照顧服務法》。 [^5] Chính sách này có giải quyết được mâu thuẫn của chế độ hai đường ray, hay làm vấn đề phức tạp hơn?
 
-Thứ trưởng Bộ Y tế và Phúc lợi Lữ Kiến Đức (Lu Jiande) nói: "Lao động nước ngoài là nhân lực bổ sung, lao động bản địa không muốn làm thì người nước ngoài làm." Nhưng thực tế là, 214.000 người giúp việc nước ngoài đã không còn là "bổ sung" nữa, mà đã trở thành lực lượng chủ chốt của hệ thống chăm sóc dài hạn Đài Loan.
+Thứ trưởng Bộ Y tế Lữ Kiến Đức (Lu Chien-te) nói: 「外勞是補充性人力，本勞不願意做，外籍來做。」 Nhưng thực tế là, 21,4 vạn hộ chiếu chăm sóc người nước ngoài đã không còn là 「補充」, mà là lực lượng chủ lực của hệ thống dài hạn chăm sóc Đài Loan.
 
-Nếu Chăm sóc dài hạn 3.0 tích hợp thành công hai hệ thống, Đài Loan có thể tạo ra một "mô hình chăm sóc hỗn hợp" độc nhất trên thế giới — kết hợp tiêu chuẩn chất lượng của dịch vụ chuyên nghiệp với sự ấm áp nhân văn của việc chăm sóc gia đình.
+Nếu Dài hạn chăm sóc 3.0 thành công hội nhập hai hệ thống, Đài Loan có thể tạo ra 「混合式照顧模式」 độc nhất trên thế giới — kết hợp tiêu chuẩn chất lượng dịch vụ chuyên nghiệp với nhiệt độ nhân văn của chăm sóc gia đình.
 
-Nếu thất bại, Đài Loan có thể đối mặt với sự phân mảnh thể chế nghiêm trọng hơn: Những gia đình có tiền thuê người giúp việc nước ngoài được hưởng dịch vụ kép, còn những gia đình không có tiền chỉ biết xếp hàng chờ đợi nguồn lực chính phủ, khoảng cách giai cấp bị phóng đại ngay tại thời điểm nhu cầu chăm sóc trở nên cấp thiết nhất.
+Nếu thất bại, Đài Loan có thể đối mặt với sự chia rẽ thể chế nghiêm trọng hơn: gia đình có tiền thuê hộ chiếu chăm sóc người nước ngoài hưởng dịch vụ kép, gia đình không tiền chỉ能 xếp hàng chờ nguồn lực chính quyền, khoảng cách giai cấp tại lúc nhu cầu chăm sóc cấp bách nhất bị phóng to.
 
-> **📝 Ghi chú của biên tập viên**
-> Tương lai của hệ thống chăm sóc dài hạn Đài Loan thực chất là đang trả lời một câu hỏi sâu sắc hơn: Chúng ta muốn trở thành một xã hội như thế nào? Một xã hội chuyên nghiệp ưu tiên hiệu suất, hay một xã hội nhân văn coi trọng tình người?
+> **📝 Ghi chú người bảo tàng**
+> Tương lai của chế độ dài hạn chăm sóc Đài Loan, thực chất đang trả lời một vấn đề sâu xa hơn: Chúng ta hy vọng trở thành xã hội như thế nào? Một xã hội chuyên nghiệp ưu tiên hiệu quả, hay một xã hội nhân tình đặt nhiệt độ lên trên hết?
 
-## Lời kết: Hai cách để yêu thương
+## Hậu ký: Hai cách yêu thương
 
-Ông Đồng Phú Kiền (Tong Fu-chien), 86 tuổi tại Đài Nam, bị bệnh thận và mất trí nhớ. Người giúp việc Indonesia của ông, Astuti, mỗi ngày đều xay đậu phụ và nấu mì sợi cho ông vì "ông không nhai được đồ cứng, nhưng rất thích ăn mì". Astuti nói ông là "yi ji bang" (tuyệt vời nhất), còn con trai ông nói Astuti giống như "một người con gái khác".
+86 tuổi ông già Đài Nam Tong Fu-chien (Đồng Phúc Kiến) mắc bệnh thận và sa sút trí tuệ, người chăm sóc người Indonesia Astuti mỗi ngày xay nhuyễn đậu phụ và mì sợi cho ông, vì "ông già không nhai được, nhưng thích ăn mì". Astuti nói ông già là "yi ji bang" (一級棒, nghĩa là "tuyệt vời"), con trai ông nói Astuti như "một người con gái khác".
 
-Ở một phía khác, bà Liên Kim Anh, 69 tuổi tại Hoa Liên, đang chăm sóc người mẹ 98 tuổi bị mất trí nhớ. Bà sử dụng nhân viên Chăm sóc dài hạn 2.0 để hỗ trợ chuẩn bị bữa ăn, nhưng buổi tối vẫn phải tự trải chiếu ngủ trong phòng mẹ. Bà nói: "Đây là mẹ tôi mà! Tôi không thể không lo được."
+Phía kia, Hoa Liên's Liên Kim Anh (Lián Jīnyīng) 69 tuổi, chăm sóc mẹ 98 tuổi bị sa sút trí tuệ, sử dụng nhân viên dịch vụ tại nhà của Dài hạn chăm sóc 2.0 hỗ trợ chuẩn bị bữa ăn, nhưng ban đêm vẫn phải tự trải chăn ngủ xuống sàn trong phòng mẹ. Bà nói: "Đây là mẹ của con ah! Con không thể không lo."
 
-Hai câu chuyện này đại diện cho hai cách hiểu về "chăm sóc" trong xã hội Đài Loan: Một là mua sắm dịch vụ có phân công chuyên môn và kiểm soát được chất lượng; hai là sự mở rộng của gia đình với sự đồng hành toàn diện và gắn kết về cảm xúc.
+Hai câu chuyện này đại diện cho hai cách hiểu về "chăm sóc" của xã hội Đài Loan: một là mua dịch vụ với phân công chuyên nghiệp, chất lượng kiểm soát được; một là sự đồng hành trọn vẹn, cộng sinh cảm xúc như sự mở rộng của gia đình.
 
-Sự phát triển của hệ thống chăm sóc dài hạn tại Đài Loan chính là việc tìm kiếm sự cân bằng giữa hai cách yêu thương này. Chúng ta vẫn đang học cách làm thế nào để vừa đảm bảo chất lượng chuyên nghiệp, vừa giữ được hơi ấm nhân văn; làm thế nào để theo đuổi hiệu suất mà không quên rằng bản chất của chăm sóc chính là sự kết nối giữa người với người.
+Sự phát triển của chế độ dài hạn chăm sóc Đài Loan chính là tìm kiếm sự cân bằng giữa hai cách yêu thương này. Chúng ta vẫn đang học cách vừa giữ được nhiệt độ nhân văn, vừa đảm bảo chất lượng chuyên nghiệp; vừa theo đuổi hiệu quả, vừa không quên bản chất của chăm sóc là sự kết nối giữa người và người.
 
-Quá trình học hỏi này sẽ còn kéo dài rất lâu. Nhưng ít nhất, chúng ta đã bắt đầu.
+Quá trình học tập này còn sẽ kéo dài. Nhưng ít nhất, chúng ta đã bắt đầu.
+
+**Mở rộng đọc**：
+
+- [Chuyên đề Y tế và Dài hạn chăm sóc](/health/) — Biểu đồ thu chi quỹ dài hạn chăm sóc, số người sử dụng dịch vụ và dự báo già hóa dân số, kèm theo thử tính mức trợ cấp và tự chi trả dài hạn chăm sóc
+- [Y tế Đài Loan và Bảo hiểm Y tế Toàn dân](/vi/lifestyle/taiwan-healthcare-and-national-health-insurance) — Khám bệnh dùng bảo hiểm y tế, chăm sóc dùng dài hạn chăm sóc, cuốn sổ kia của hai cuốn sổ
 
 ## Tài liệu tham khảo
 
-- [Phóng viên: Trong thời đại thiếu hụt lao động, ai sẽ gánh vác Chăm sóc dài hạn 3.0?](https://www.twreporter.org/a/long-term-care-plan-3-labor-shortage)
-- [Sea Times: Taiwan is hiring more foreigners to care for its elderly](https://www.straitstimes.com/multimedia/graphics/2025/05/elders-taiwan-insight/index.html)
-- [iCare: Tham khảo chế độ chăm sóc dài hạn của 7 quốc gia như Hà Lan, Đức, Áo...](https://www.ilong-termcare.com/articles/2pK)
-- [Khu vực chuyên đề Chăm sóc dài hạn của Bộ Y tế và Phúc lợi](https://1966.gov.tw/)
-- [Báo cáo ước tính dân số của Ủy ban Phát triển Quốc gia](https://pop-proj.ndc.gov.tw/)
-- [Trang web dịch vụ thuê mướn người nước ngoài của Bộ Lao động](https://www.wda.gov.tw/)
-- [Taiwan News: Taiwan on track to be super-aged society](https://www.taiwannews.com.tw/news/5954295)
-- [Sea Times: Taiwan further eases curbs on foreign caregivers](https://www.straitstimes.com/asia/se-asia/faster-ageing-taiwan-further-eases-curbs-on-foreign-caregivers)
+[^1]: [Kế hoạch 10 năm Dài hạn chăm sóc 3.0 (Chuyên khu Dài hạn chăm sóc Bộ Y tế 1966)](https://1966.gov.tw/LTC/cp-6572-85008-207.html) — Trang chính sách chính thức, ghi rõ Viện Hành chính phê duyệt ngày 31-12-2025, kỳ hạn 115–124 năm (theo niên hiệu Dân quốc), triển khai từ năm 2026, các điểm ABC Dài hạn chăm sóc đạt 15.051 điểm đến cuối năm 2024, tỷ lệ phủ sóng dịch vụ tăng từ 20,30% năm 2017 lên 89,9% vào tháng 6 năm 2025, cũng như tám phương diện lớn và ba chuyên chương.
+
+[^2]: [The Reporter: Trong thời đại thiếu hụt lao động lớn, ai sẽ gánh vác Dài hạn chăm sóc 3.0?](https://www.twreporter.org/a/long-term-care-plan-3-labor-shortage) — Báo cáo điều tra, ghi nhận số lượng đơn vị dịch vụ tại nhà và biến động nhân lực trung bình, khó khăn xếp ca của 7 nhân viên dịch vụ tại nhà, lượng vụ việc quá tải của chuyên viên quản lý cá nhân, cũng như hiện trạng song hành giữa hộ chiếu ngoại quốc và hệ thống dài hạn chăm sóc.
+
+[^3]: [Yêu Dài hạn chăm sóc: Tham khảo chế độ dài hạn chăm sóc của bảy quốc gia như Hà Lan, Đức, Áo, v.v.](https://www.ilong-termcare.com/articles/2pK) — Tổng hợp chế độ bảo hiểm dài hạn chăm sóc Đức lựa chọn tiền mặt hoặc dịch vụ, bảo hiểm chăm sóc Nhật Bản dạng dịch vụ tích hợp cộng đồng, và chế độ gói chăm sóc Hà Lan.
+
+[^4]: [Báo Hải峽: Taiwan tuyển dụng thêm người nước ngoài để chăm sóc người cao tuổi](https://www.straitstimes.com/multimedia/graphics/2025/05/elders-taiwan-insight/index.html) — Trích dẫn so sánh mô hình chăm sóc của Đài Loan và Singapore bởi học giả Đại học Quốc gia Singapore, cũng như bối cảnh chính sách Đài Loan nới lỏng việc thu hút hộ chiếu ngoại quốc.
+
+[^5]: [Dài hạn chăm sóc 3.0 dự kiến đưa lực lượng lao động ngoại quốc vào hệ thống — Bộ Y tế: Sẽ chia 3 giai đoạn bổ sung nhân lực chăm sóc ban đêm và nghỉ ngơi (Báo Liên hợp, 01-07-2026)](https://udn.com/news/story/7266/9600948) — Báo đạo Bộ Y tế giải thích sau hội thảo công khai tại Viện Lập pháp, sẽ theo giai đoạn đưa nhân lực ngoại quốc vào hệ thống dài hạn chăm sóc, và chỉ ra kế hoạch liên quan vẫn chờ sửa đổi 《Luật Dịch vụ Dài hạn chăm sóc》.
