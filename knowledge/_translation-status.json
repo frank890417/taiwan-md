@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-21T01:49:08+08:00",
-    "zhCommitHead": "cefa6b0ac6",
+    "lastUpdated": "2026-11-21T02:58:45+08:00",
+    "zhCommitHead": "21740d466b",
     "totalZh": 1192,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1192,
-        "fresh": 1187,
-        "stale": 4,
+        "fresh": 1188,
+        "stale": 3,
         "metadata_stale": 1,
         "missing": 0,
         "orphan": 0
@@ -44,18 +44,18 @@
       },
       "es": {
         "total_zh": 1192,
-        "fresh": 1181,
-        "stale": 8,
+        "fresh": 1182,
+        "stale": 7,
         "metadata_stale": 3,
         "missing": 0,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1192,
-        "fresh": 1181,
+        "fresh": 1182,
         "stale": 6,
         "metadata_stale": 3,
-        "missing": 2,
+        "missing": 1,
         "orphan": 0
       },
       "vi": {
@@ -10051,20 +10051,18 @@
         "es": {
           "path": "es/Economy/taiwan-uniform-invoice.md",
           "translatedFrom": "Economy/發票.md",
-          "sourceCommitSha": "e80217d19",
-          "sourceContentHash": "sha256:ac044c6ba9c6ce5c",
-          "sourceBodyHash": "sha256:54db8d12b45ad9b3",
-          "translatedAt": "2026-09-26T11:45:53+08:00",
+          "sourceCommitSha": "be13f04522",
+          "sourceContentHash": "sha256:3dd86d4390d8efbd",
+          "sourceBodyHash": "sha256:971a1a8aa9b5930a",
+          "translatedAt": "2026-11-20T18:09:45.781069+00:00",
           "translationLastCommit": "94cb2bd7",
           "translationLastModified": "2026-10-10T23:13:48+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "bytes": 67582,
+          "bytes": 66697,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+3 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Economy/taiwan-uniform-invoice.md",
@@ -113106,8 +113104,8 @@
           "sourceContentHash": "sha256:5b92c4093f7fa736",
           "sourceBodyHash": "sha256:7b3ecc631545bac9",
           "translatedAt": "2026-11-20T16:47:05+08:00",
-          "translationLastCommit": "afdf727a",
-          "translationLastModified": "2026-07-27T19:00:44+08:00",
+          "translationLastCommit": "21740d46",
+          "translationLastModified": "2026-11-21T01:49:08+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "bytes": 10103,
@@ -186905,7 +186903,20 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/History/nativist-literature-debate.md",
+          "translatedFrom": "History/鄉土文學論戰.md",
+          "sourceCommitSha": "fcf85cd76e",
+          "sourceContentHash": "sha256:6fe4100e4991cfd3",
+          "sourceBodyHash": "sha256:86c3a63ca1392544",
+          "translatedAt": "2026-11-20T18:38:53.143266+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 33,
+          "bytes": 56783,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/History/nativist-literature-debate.md",
@@ -240144,20 +240155,18 @@
         "en": {
           "path": "en/Culture/golden-bell-awards.md",
           "translatedFrom": "Culture/金鐘獎.md",
-          "sourceCommitSha": "ff39af227",
-          "sourceContentHash": "sha256:bbab8ee22f168103",
-          "sourceBodyHash": "sha256:02baeff9cbce935a",
-          "translatedAt": "2026-09-26T11:58:58.983013+00:00",
+          "sourceCommitSha": "be13f04522",
+          "sourceContentHash": "sha256:1c2ced1aaf70624b",
+          "sourceBodyHash": "sha256:5e774c69559104df",
+          "translatedAt": "2026-11-20T17:59:18.887209+00:00",
           "translationLastCommit": "a5f8c5d0",
           "translationLastModified": "2026-10-10T22:57:56+08:00",
           "inferred": false,
           "footnoteDefs": 59,
-          "bytes": 59371,
+          "bytes": 59479,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+3 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Culture/golden-bell-awards.md",
