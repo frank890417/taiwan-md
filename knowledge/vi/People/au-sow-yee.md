@@ -1,35 +1,39 @@
 ---
-title: 'Au Sow Yee: Cô gái từ Malaysia mang Nusantara vào vòng nghệ thuật đương đại Đài Loan'
-description: 'Năm 2003 cô bay từ Kuala Lumpur sang Đài Bắc học tại Trường Nghệ thuật Đài Bắc (Taipei National University of the Arts), lúc đó cô tưởng rằng chỉ là qua khách; mười bốn năm sau, cô bắt đầu ở Đài Bắc dùng từ "Nusantara" (群島) trong tiếng Mã Lai để thay thế "Đông Nam Á", đưa cách tự gọi của thế giới Mã Lai vào luận thuyết tổ chức triển lãm ở Đài Loan. Từ bộ ba phần kỳ ảo về địa danh Mengkerang, The Kris Project được Bảo tàng Nghệ thuật Singapore lưu giữ, đến 2024 khi hợp tác với Trần Hữu Nhạn phỏng vấn trẻ em vô quốc tịch Malaysia—cô từng nói trong một cuộc phỏng vấn: "Chính vì sự ''vắng mặt'' của tôi mới làm nên tác phẩm này."'
+title: 'Khu Tú Di: Người mang "quần đảo" vào làng nghệ thuật Đài Loan — người tổ chức triển lãm đến từ Malaysia'
+description: 'Năm 2003, bà từ Kuala Lumpur đến Taipei học tại Đại học Quốc gia Nghệ thuật Taipei, ban đầu tưởng chỉ là khách qua đường; mười bốn năm sau, bà tại Taipei bắt đầu dùng "Quần đảo" (Nusantara) thay cho "Đông Nam Á" — tên gọi thời Chiến tranh Lạnh — mang tự xưng của thế giới Malay vào ngôn luận tổ chức triển lãm tại Đài Loan. Từ bộ ba tên địa danh hư cấu Menjalara, Dự án Kris nhập tuyển tập Bảo tàng Nghệ thuật Singapore, đến năm 2024 hợp tác với Trần Hữu Như phỏng vấn trẻ em không quốc tịch tại Malaysia — bà từng nói trong phỏng vấn NML: "Chính vì ''sự vắng mặt'' của tôi, mới làm ra tác phẩm này."'
 date: 2026-05-17
 category: 'People'
 tags:
   [
+    'Khu Tú Di',
     'Au Sow Yee',
-    'Cô gái Malaysia',
-    'Nghệ thuật đương đại',
-    'Tổ chức triển lãm',
-    'Nusantara Archive (Kho lưu trữ Nusantara)',
-    'Cài đặt hình ảnh',
-    'Quan điểm Nam phương',
-    'Rumah Attap Library (Thư viện Rumah Attap)',
-    'Hoang vu kỹ thuật số',
+    'Malaysia',
+    'nghệ thuật đương đại',
+    'tổ chức triển lãm',
+    'Kho lưu trữ Quần đảo',
+    'Nusantara Archive',
+    'trang trí video',
+    'góc nhìn phương Nam',
+    'Rumah Attap Library',
+    'hoang nguyên số',
   ]
 subcategory: '策展與當代藝術'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-17
 lastHumanReview: false
-researchReport: reports/research/2026-05/區秀詒.md
+researchReport: 'reports/research/2026-05/區秀詒.md'
 image: '/article-images/people/au-sow-yee-prelude-interstellar-still-2024.webp'
 imageCredit: 'Au Sow Yee'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://ausowyee.cargo.site/'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'People/區秀詒.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:4e807297f5dfcc70'
-sourceBodyHash: 'sha256:9bd8f0aa157f38ef'
-translatedAt: '2026-08-09T10:41:15+08:00'
+sourceCommitSha: 'be13f04522'
+sourceContentHash: 'sha256:5b9dbf1e0550a936'
+sourceBodyHash: 'sha256:a89b940ae652fb14'
+translatedAt: '2026-11-20T01:47:59.425450+00:00'
 ---
 
 # Au Sow Yee: Cô gái từ Malaysia mang Nusantara vào vòng nghệ thuật đương đại Đài Loan
@@ -166,19 +170,19 @@ Tác phẩm này còn có một phiên bản sân khấu "**Trạm Trao Đổi T
 
 Cô bắt đầu phát triển tác phẩm từ "tác phẩm hình ảnh đơn nhất" thành toàn bộ dự án **đa phương tiện, đa không gian triển lãm, đa dòng thời gian**.
 
-## STILL ALIVE: Dự án Chris II Và Những Chiến Sĩ Đại Dương Im Lặng
+## STILL ALIVE: Dự Án Kris II Và Những Chiến Binh Thầm Lặng Của Đại Dương
 
-Tháng 11 ngày 28 năm 2019, không gian **Dự án Lập Phương** (TheCube Project Space) tại Lục Trương Ly, Đài Bắc mở triển lãm cá nhân "STILL ALIVE" của cô[^25], diễn ra tới ngày 19 tháng 1 năm 2020.
+Ngày 28 tháng 11 năm 2019, tại **Không Gian Dự Án Lập Phương (TheCube Project Space)** ở Lục Trang Lê, Đài Bắc, khai mạc triển lãm cá nhân 《STILL ALIVE》[^25] của cô, kéo dài đến ngày 19 tháng 1 năm 2020.
 
 Ba tác phẩm:
 
-1. "**Dự án Chris II: Nếu Bữa Tiệc Tiếp Tục**" (Chris Project II: If the Party Goes On), tiếp nối năm 2016 Dự án Chris nhưng đào sâu hơn một tầng
-2. "**Palaces, Valleys, Islands and Their Lunar Journey**", nối thế giới Mã Lai với thần thoại mặt trăng
-3. "**Tiếng Ồn Bạc: Hành Trình Cực Đoan Của Những Chiến Sĩ Im Lặng Đại Dương (Lời Nói Đầu: Bài Hát Hành Trình)**", kỹ thuật trí nhớ âm thanh của đại dương
+1. 《**Dự Án Kris II: Buổi Tiệc Tiếp Diễn**》（Chris Project II: If the Party Goes On），tiếp nối Dự Án Kris năm 2016 nhưng đào sâu hơn một lớp
+2. 《**Palaces, Valleys, Islands and Their Lunar Journey**》，liên kết thế giới Ma Lai với thần thoại mặt trăng
+3. 《**Nhiễu Bạc: Hành Trình Cực Hạn Của Những Chiến Binh Thầm Lặng Của Đại Dương (Tiền Khúc: Ca Khúc Hành Trình)**》，kỹ thuật ghi nhớ âm thanh của đại dương
 
-Không gian Dự án Lập Phương (TheCube Project Space) được sáng lập năm 2010 bởi Trịnh Huệ Hoa và La Vui Toàn, nằm trong một căn hộ cũ trong ngõ Lục Trương Ly ở Đài Bắc, là một trong những không gian không lợi nhuận quan trọng nhất trong vòng nghệ thuật đương đại Đài Loan. Au Sow Yee có triển lãm cá nhân ở đây không phải ngẫu nhiên, không gian Dự án Lập Phương nhiều năm nay hỗ trợ sâu sắc những triển lãm liên quan "quần đảo", đây là nút khác của thế giới Mã Lai trong vòng nghệ thuật Đài Loan bên ngoài NML.
+Không Gian Dự Án Lập Phương (TheCube Project Space) được thành lập năm 2010 bởi Trịnh Huệ Hoa và La Nguyệt Toàn, tọa lạc trong một căn chung cư cũ ngõ Lục Trang Lê, Đài Bắc, là một trong những không gian phi thương mại quan trọng nhất cho nghệ thuật đương đại tại Đài Loan. Khu Tú Di tổ chức triển lãm cá nhân tại đây không phải ngẫu nhiên, Lập Phương nhiều năm qua hỗ trợ sâu sắc các dự án triển lãm liên quan đến "quần đảo", đây là một nút kết nối thế giới Ma Lai khác trong giới nghệ thuật Đài Loan bên cạnh NML.
 
-Năm 2021 cô nhận được **Giải Đặc Biệt Biennale Đài Bắc** với loạt tác phẩm mở rộng của dự án này[^26]. Cũng năm này, cô bắt đầu được các biennale quốc tế liên tiếp mời: Biennale Busan 2022, Biennale Sharjah 15 "Thinking Historically in the Present" của Tiểu Vương Quốc Tiếp Giáp Ả Rập năm 2023[^27].
+Năm 2021, nhờ các sáng tác mở rộng từ chuỗi tác phẩm này, cô giành **Giải Danh Dự Mỹ Thuật Đài Bắc**[^26]. Cũng năm đó, cô bắt đầu được liên tục mời tham gia các biennale quốc tế: Biennale Busan 2022, Biennale Sharjah lần thứ 15 tại Các Tiểu Vương Quốc Ả Rập Thống Nhất năm 2023 với chủ đề "Thinking Historically in the Present"[^27].
 
 ## Kể Lại Si Tanggang Với Trẻ Em Vô Quốc Tịch
 
