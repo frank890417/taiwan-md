@@ -358,3 +358,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-21 | 051453-twmd-embeddings-nightly | 恢復後第四夜完整重建：13 語 15,342 向量零失敗、verify PASS，`c7bc76cb6`；每語 186〜207 秒，比前三夜快兩成多 | 耗時變短與本機 babel worker 沒出稿同時發生，單夜對照先不下結論 | [→](memory/2026-11-21-051453-twmd-embeddings-nightly.md) |
 | 2026-11-21 | 060301-twmd-data-refresh-am | 早班刷新十四步全過、15 個 dashboard 0 stale；babel 在寫檔時忘了加 `--no-sync`，暫存還原沒出事；房貸負擔率仍只有 115Q1 | 分支只寫在前幾班的 memory、沒寫進每天照跑的指令，第三班就漏了 | [→](memory/2026-11-21-060301-twmd-data-refresh-am.md) |
 | 2026-11-21 | 064130-twmd-spore-harvest-am | 收割在第一道閘門中止：Chrome 擴充功能四探皆空、`open -a` 自修無效；登出態只補看 Meta AI 那則，沒長新回覆；兩個動態頁今天沒掃 | 沒量到的零要寫成沒量到，明天那班要對一天半的列 | [→](memory/2026-11-21-064130-twmd-spore-harvest-am.md) |
+| 2026-11-21 | 071252-twmd-feedback-triage | 憑證索取第十一輪：81 筆差集兩向皆空、零新讀者，照排除；#2046 兩則留言首次 sync 進 git；對賬 117/117、留言 116/117、四層健檢全綠 | 差集證明身分沒變，證明不了內容沒變，所以全文照讀 | [→](memory/2026-11-21-071252-twmd-feedback-triage.md) |
