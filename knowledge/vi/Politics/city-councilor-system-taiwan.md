@@ -1,6 +1,6 @@
 ---
-title: 'Hệ thống nghị sĩ: Tại sao khác với lập pháp ủy viên, SNTV tồn tại trong chính trị địa phương 30 năm'
-description: 'Năm 2008, lập pháp ủy viên chuyển sang chế độ một circonscription hai phiếu, nhưng cuộc bầu cử nghị sĩ huyện/thành phố cùng năm vẫn áp dụng chế độ SNTV cũ từ thập niên 1980 — cùng một quốc gia, cùng một nhóm cử tri, các vị trí khác nhau trên cùng một phiếu bầu, lại áp dụng hai bộ quy tắc chơi hoàn toàn khác nhau. Điều này không phải là lỗi, mà là việc chưa hoàn thành lớn nhất trong lịch sử cải cách chế độ bầu cử của Đài Loan, phía sau gắn liền với phe phái địa phương, lợi ích đảng phái, chi phí đi kèm. Một bài phân tích hai chế độ hoạt động như thế nào, tại sao một bên cải cách một bên không, và bản đồ chế độ về ý nghĩa đối với đảng nhỏ và đại diện đa nguyên.'
+title: 'Chế độ nghị sĩ: Sự khác biệt so với lập pháp viên là gì, tại sao bầu cử địa phương vẫn dùng chế độ cũ SNTV'
+description: 'Lập pháp viên tiến vào Viện Lập pháp với tổng cộng 113 ghế trên toàn quốc; từ năm 2008, mỗi khu vực chỉ bầu một người và cử tri được bầu thêm một phiếu cho đảng phái. Trong khi đó, nghị sĩ các huyện, thành phố tiến vào 22 hội đồng địa phương vẫn đang áp dụng chế độ cũ: một khu vực bầu ra nhiều ghế, cử tri chỉ được khoanh tròn một người và không có phiếu cho đảng phái; chế độ này gọi là SNTV. Năm 2005, Hiến pháp đã sửa đổi chế độ bầu lập pháp viên, nhưng chế độ bầu nghị sĩ vẫn chưa theo kịp suốt 18 năm qua. Điều này liên quan mật thiết đến các phe phái địa phương, lợi ích đảng phái và chi phí phân chia lại khu vực bầu cử, đồng thời quyết định việc các đảng nhỏ dễ dàng giành được ghế tại hội đồng địa phương hơn là tại Quốc hội.'
 date: 2026-05-27
 category: 'Politics'
 tags:
@@ -8,8 +8,8 @@ tags:
     'Nghị sĩ',
     'Chế độ bầu cử',
     'SNTV',
-    'Chế độ một circonscription hai phiếu',
-    'Lập pháp ủy viên',
+    'Hệ thống bầu cử đơn nhất hai phiếu',
+    'Lập pháp viên',
     'Bầu cử 2026',
   ]
 subcategory: '選舉制度'
@@ -18,16 +18,22 @@ featured: false
 lastVerified: 2026-05-27
 lastHumanReview: false
 readingTime: 12
+evolveHistory:
+  - date: 2026-11-04
+    action: 'seo'
+    reason: 'SC 28 天 3,536 曝光 37 點擊（1.05%），主查詢全是「議員跟立委差別」型（244＋202＋106＋67＋45 曝光）；description 從 179 字縮短，第一句直接講兩者差在哪，拿掉「這不是 bug」'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Politics/議員制度.md'
-sourceCommitSha: '709d2dc03'
-sourceContentHash: 'sha256:4b665d6e2920264b'
-sourceBodyHash: 'sha256:41e02e02e0fbd229'
-translatedAt: '2026-10-23T01:19:18.472706+00:00'
+sourceCommitSha: 'be13f04522'
+sourceContentHash: 'sha256:00af5d0f37a777ff'
+sourceBodyHash: 'sha256:9359ef48b07d6033'
+translatedAt: '2026-11-20T03:30:12.519203+00:00'
 ---
 
-# Hệ thống nghị sĩ: Tại sao khác với Ủy viên Lập pháp, SNTV tồn tại trong chính trị địa phương 30 năm
+# Chế độ Nghị sĩ: Khác gì với Ủy viên Lập pháp, và tại sao bầu cử địa phương vẫn dùng chế độ SNTV cũ
 
-> **Tóm tắt 30 giây:** Ngày 12 tháng 1 năm 2008, bầu cử Ủy viên Lập pháp khóa thứ 7 của Đài Loan lần đầu áp dụng "chế độ đơn nhất khu vực bầu cử hai phiếu" — một phiếu bầu người, một phiếu bầu đảng, số ghế Ủy viên Lập pháp giảm từ 225 xuống 113, phương thức bầu cử được viết lại hoàn toàn. Bầu cử Nghị sĩ huyện/thành phố khóa thứ 16 vào tháng 12 cùng năm, vẫn tiếp tục áp dụng "chế độ đa số khu vực bầu cử đơn ký không chuyển nhượng" (SNTV) kế thừa từ những năm 1980 — một khu vực bầu cử ra 5 đến 10 ghế, cử tri chỉ được khoanh một người, phiếu dư không thể chuyển nhượng cho đồng đảng. Cùng một năm, cùng một nhóm cử tri, cùng một bản công báo bầu cử ghi hai chức danh, lại chạy theo hai bộ quy tắc hoàn toàn khác biệt. Đây không phải lỗi kỹ thuật, mà là kết quả của cải cách thể chế cố ý dừng lại giữa chừng. Phía sau là sự gắn bó của phe phái địa phương và hai đảng lớn với cấu trúc SNTV, chi phí cao của các cải cách đi kèm, sự khó khăn trong đạt được đồng thuận liên đảng — cũng là việc chưa hoàn thành bị đánh giá thấp nhất trên con đường làm sâu sắc dân chủ 30 năm của Đài Loan.
+> **Tóm tắt trong 30 giây:** Vào ngày 12 tháng 1 năm 2008, cuộc bầu cử Ủy viên Lập pháp Đài Loan lần thứ 7 đã lần đầu tiên áp dụng "chế độ đơn nhất khu vực bầu cử hai lá phiếu" — một lá phiếu cho ứng cử viên, một lá phiếu cho đảng, khiến số ghế Ủy viên Lập pháp bị cắt giảm từ 225 xuống còn 113, viết lại hoàn toàn phương thức bầu cử. Tuy nhiên, cuộc bầu cử Nghị sĩ Hội đồng huyện/thành phố khóa 16 diễn ra trước tháng 12 cùng năm đó vẫn tiếp tục duy trì "chế độ bỏ phiếu đơn không chuyển nhượng tại khu vực bầu cử đa số" (SNTV) vốn được kế thừa từ những năm 1980 — một chế độ mà mỗi khu vực bầu cử sẽ bầu ra từ năm đến mười ghế, cử tri chỉ có thể chọn một người và số phiếu dư thừa không thể chuyển nhượng cho thành viên cùng đảng. Cùng một năm, cùng một nhóm cử tri, nhưng hai chức danh trên cùng một tờ cáo thị bầu cử lại vận hành theo hai bộ quy tắc trò chơi hoàn toàn khác biệt. Đây không phải là một lỗi kỹ thuật (bug), mà là kết quả của việc cải cách thể chế đã bị cố tình dừng lại giữa chừng. Đằng sau đó là sự ràng buộc của các phe phái địa phương và hai đảng lớn vào cấu trúc SNTV, chi phí cao cho các cải cách đi kèm, cùng sự khó khăn trong việc đạt được đồng thuận liên đảng — đây cũng là một trong những việc chưa hoàn tất bị đánh giá thấp nhất trên con đường làm sâu sắc thêm nền dân chủ suốt 30 năm qua của Đài Loan.
 
 ---
 
