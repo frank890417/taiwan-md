@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-20T13:01:13+08:00",
-    "zhCommitHead": "e525be6c54",
+    "lastUpdated": "2026-11-20T13:42:26+08:00",
+    "zhCommitHead": "966f0e813b",
     "totalZh": 1192,
     "activeLanguages": [
       "en",
@@ -36,9 +36,9 @@
       },
       "ko": {
         "total_zh": 1192,
-        "fresh": 1176,
+        "fresh": 1177,
         "stale": 11,
-        "metadata_stale": 4,
+        "metadata_stale": 3,
         "missing": 1,
         "orphan": 0
       },
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1192,
-        "fresh": 1159,
-        "stale": 22,
+        "fresh": 1161,
+        "stale": 21,
         "metadata_stale": 4,
-        "missing": 7,
+        "missing": 6,
         "orphan": 0
       },
       "id": {
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1192,
-        "fresh": 1151,
-        "stale": 28,
+        "fresh": 1155,
+        "stale": 25,
         "metadata_stale": 5,
-        "missing": 8,
+        "missing": 7,
         "orphan": 0
       },
       "ar": {
@@ -16705,8 +16705,8 @@
           "sourceContentHash": "sha256:945474d4c297700a",
           "sourceBodyHash": "sha256:f7975ef2c038bd34",
           "translatedAt": "2026-11-20T03:57:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "966f0e81",
+          "translationLastModified": "2026-11-20T13:01:13+08:00",
           "inferred": false,
           "footnoteDefs": 19,
           "bytes": 30713,
@@ -16747,7 +16747,20 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Economy/insured-salary-ceiling.md",
+          "translatedFrom": "Economy/投保薪資的天花板.md",
+          "sourceCommitSha": "8e7036ddb5",
+          "sourceContentHash": "sha256:945474d4c297700a",
+          "sourceBodyHash": "sha256:f7975ef2c038bd34",
+          "translatedAt": "2026-11-20T03:57:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "bytes": 48782,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Economy/insured-salary-ceiling.md",
@@ -35345,8 +35358,8 @@
           "sourceContentHash": "sha256:aefff77e9ff213d8",
           "sourceBodyHash": "sha256:814f9eb8b97792cf",
           "translatedAt": "2026-11-20T03:57:07+08:00",
-          "translationLastCommit": "a3ec9a54",
-          "translationLastModified": "2026-10-10T23:43:08+08:00",
+          "translationLastCommit": "966f0e81",
+          "translationLastModified": "2026-11-20T13:01:13+08:00",
           "inferred": false,
           "footnoteDefs": 4,
           "bytes": 31766,
@@ -52528,7 +52541,20 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Lifestyle/nurse-staffing-ratios.md",
+          "translatedFrom": "Lifestyle/護理人力與三班護病比.md",
+          "sourceCommitSha": "c28899bced",
+          "sourceContentHash": "sha256:7337bd7c10671e85",
+          "sourceBodyHash": "sha256:e2329f0decf05477",
+          "translatedAt": "2026-11-20T03:57:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 4,
+          "bytes": 18425,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Lifestyle/nurse-staffing-ratios.md",
@@ -57582,8 +57608,8 @@
           "sourceContentHash": "sha256:e9fe365d20b93673",
           "sourceBodyHash": "sha256:79a48da3f8317992",
           "translatedAt": "2026-11-20T03:57:07+08:00",
-          "translationLastCommit": "f4892bab",
-          "translationLastModified": "2026-09-19T11:51:58+08:00",
+          "translationLastCommit": "966f0e81",
+          "translationLastModified": "2026-11-20T13:01:13+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "bytes": 40861,
@@ -70718,8 +70744,8 @@
           "sourceContentHash": "sha256:997d7b4d1eaa5fa3",
           "sourceBodyHash": "sha256:5ca208b092a24109",
           "translatedAt": "2026-11-20T03:57:07+08:00",
-          "translationLastCommit": "456f4352",
-          "translationLastModified": "2026-10-10T23:34:36+08:00",
+          "translationLastCommit": "966f0e81",
+          "translationLastModified": "2026-11-20T13:01:13+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "bytes": 27610,
@@ -77623,20 +77649,18 @@
         "hi": {
           "path": "hi/Society/taiwan-public-health-epidemic-response.md",
           "translatedFrom": "Society/台灣公共衛生與防疫體系.md",
-          "sourceCommitSha": "29ff6f481",
-          "sourceContentHash": "sha256:eca9dd4ad2636bc6",
-          "sourceBodyHash": "sha256:bbdf3516f36f033d",
-          "translatedAt": "2026-08-09T08:02:16.021553+00:00",
+          "sourceCommitSha": "be13f04522",
+          "sourceContentHash": "sha256:e51f10ebc811063a",
+          "sourceBodyHash": "sha256:c05673b5d97e7a66",
+          "translatedAt": "2026-11-20T05:20:01.745562+00:00",
           "translationLastCommit": "0e249950",
           "translationLastModified": "2026-10-10T23:16:36+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "bytes": 28378,
+          "bytes": 29045,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+3 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/taiwan-public-health-epidemic-response.md",
@@ -77779,18 +77803,18 @@
         "vi": {
           "path": "vi/Society/long-term-care-system-development.md",
           "translatedFrom": "Society/台灣長期照顧制度發展.md",
-          "sourceCommitSha": "0471d07ff",
-          "sourceContentHash": "sha256:c735ef0db3cd23ac",
-          "sourceBodyHash": "sha256:738376ef61832978",
-          "translatedAt": "2026-10-16T00:53:02+08:00",
+          "sourceCommitSha": "be13f04522",
+          "sourceContentHash": "sha256:f21c4242e07fa46d",
+          "sourceBodyHash": "sha256:296647c16e0407ac",
+          "translatedAt": "2026-11-20T05:09:30.123684+00:00",
           "translationLastCommit": "1692361d",
           "translationLastModified": "2026-10-16T07:36:00+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 23948,
+          "footnoteDefs": 5,
+          "bytes": 25231,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (5→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Society/long-term-care-system-development.md",
@@ -77827,18 +77851,18 @@
         "hi": {
           "path": "hi/Society/long-term-care-system-development.md",
           "translatedFrom": "Society/台灣長期照顧制度發展.md",
-          "sourceCommitSha": "0471d07ff",
-          "sourceContentHash": "sha256:c735ef0db3cd23ac",
-          "sourceBodyHash": "sha256:738376ef61832978",
-          "translatedAt": "2026-10-16T00:53:16+08:00",
+          "sourceCommitSha": "be13f04522",
+          "sourceContentHash": "sha256:f21c4242e07fa46d",
+          "sourceBodyHash": "sha256:296647c16e0407ac",
+          "translatedAt": "2026-11-20T03:57:15+08:00",
           "translationLastCommit": "736f3989",
           "translationLastModified": "2026-10-16T01:29:07+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 40948,
+          "footnoteDefs": 5,
+          "bytes": 45829,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (5→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/long-term-care-system-development.md",
@@ -83387,20 +83411,18 @@
         "ko": {
           "path": "ko/Society/academia-sinica.md",
           "translatedFrom": "Society/中央研究院.md",
-          "sourceCommitSha": "6fbe01217",
-          "sourceContentHash": "sha256:718e4da0518930ba",
+          "sourceCommitSha": "be13f04522",
+          "sourceContentHash": "sha256:4379f24fd051c302",
           "sourceBodyHash": "sha256:4d2bd2c6c8f39bfa",
-          "translatedAt": "2026-09-24T17:25:22.601374+00:00",
+          "translatedAt": "2026-11-20T05:28:46.316868+00:00",
           "translationLastCommit": "e3d29692",
           "translationLastModified": "2026-10-10T22:59:55+08:00",
           "inferred": false,
           "footnoteDefs": 57,
-          "bytes": 71908,
+          "bytes": 78416,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Society/academia-sinica.md",
@@ -98617,8 +98639,8 @@
           "sourceContentHash": "sha256:00af5d0f37a777ff",
           "sourceBodyHash": "sha256:9359ef48b07d6033",
           "translatedAt": "2026-11-20T03:30:12.519203+00:00",
-          "translationLastCommit": "3bf93e68",
-          "translationLastModified": "2026-10-23T10:40:07+08:00",
+          "translationLastCommit": "966f0e81",
+          "translationLastModified": "2026-11-20T13:01:13+08:00",
           "inferred": false,
           "footnoteDefs": 31,
           "bytes": 44649,
@@ -101715,20 +101737,18 @@
         "hi": {
           "path": "hi/Politics/central-government-general-budget.md",
           "translatedFrom": "Politics/中央政府總預算.md",
-          "sourceCommitSha": "3cde84550",
-          "sourceContentHash": "sha256:1043cee6548e861b",
-          "sourceBodyHash": "sha256:aeec9cd01b2c05ff",
-          "translatedAt": "2026-10-21T00:46:53+08:00",
+          "sourceCommitSha": "f024e87e7a",
+          "sourceContentHash": "sha256:8536bdbfcd25d3aa",
+          "sourceBodyHash": "sha256:8a6346928cbffe9c",
+          "translatedAt": "2026-11-20T05:18:12.121719+00:00",
           "translationLastCommit": "b0d77e7c",
           "translationLastModified": "2026-10-21T01:12:22+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "bytes": 31653,
+          "bytes": 31818,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Politics/central-government-general-budget.md",
