@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-20T08:24:53+08:00",
-    "zhCommitHead": "a8e2546e94",
+    "lastUpdated": "2026-11-20T08:32:17+08:00",
+    "zhCommitHead": "6fbb083275",
     "totalZh": 1191,
     "activeLanguages": [
       "en",
@@ -28,34 +28,34 @@
       },
       "ja": {
         "total_zh": 1191,
-        "fresh": 1180,
+        "fresh": 1181,
         "stale": 6,
         "metadata_stale": 2,
-        "missing": 3,
+        "missing": 2,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1191,
-        "fresh": 1179,
+        "fresh": 1180,
         "stale": 7,
         "metadata_stale": 4,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       },
       "es": {
         "total_zh": 1191,
-        "fresh": 1171,
+        "fresh": 1172,
         "stale": 11,
         "metadata_stale": 5,
-        "missing": 4,
+        "missing": 3,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1191,
-        "fresh": 1178,
+        "fresh": 1179,
         "stale": 8,
         "metadata_stale": 3,
-        "missing": 2,
+        "missing": 1,
         "orphan": 0
       },
       "vi": {
@@ -68,8 +68,8 @@
       },
       "id": {
         "total_zh": 1191,
-        "fresh": 1170,
-        "stale": 11,
+        "fresh": 1171,
+        "stale": 10,
         "metadata_stale": 4,
         "missing": 6,
         "orphan": 0
@@ -18076,13 +18076,39 @@
           "status": "missing"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Economy/taiwan-solar-power.md",
+          "translatedFrom": "Economy/太陽光電.md",
+          "sourceCommitSha": "24f563e646",
+          "sourceContentHash": "sha256:f5a4019a85575efd",
+          "sourceBodyHash": "sha256:84909ece10eb2627",
+          "translatedAt": "2026-11-20T03:57:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 1,
+          "bytes": 8399,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Economy/taiwan-solar-power.md",
+          "translatedFrom": "Economy/太陽光電.md",
+          "sourceCommitSha": "24f563e646",
+          "sourceContentHash": "sha256:f5a4019a85575efd",
+          "sourceBodyHash": "sha256:84909ece10eb2627",
+          "translatedAt": "2026-11-20T03:57:04+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 1,
+          "bytes": 10819,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Economy/taiwan-solar-power.md",
@@ -18091,8 +18117,8 @@
           "sourceContentHash": "sha256:f5a4019a85575efd",
           "sourceBodyHash": "sha256:84909ece10eb2627",
           "translatedAt": "2026-11-19T22:50:03.565616+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6fbb0832",
+          "translationLastModified": "2026-11-20T08:24:53+08:00",
           "inferred": false,
           "footnoteDefs": 1,
           "bytes": 10150,
@@ -22488,18 +22514,18 @@
         "id": {
           "path": "id/Economy/taiwan-electricity-pricing-and-taipower.md",
           "translatedFrom": "Economy/台灣電價機制與台電.md",
-          "sourceCommitSha": "32789bc38",
-          "sourceContentHash": "sha256:aa6da6e0a6abe0a2",
-          "sourceBodyHash": "sha256:4960f809ab64a615",
-          "translatedAt": "2026-10-23T08:48:40+08:00",
+          "sourceCommitSha": "2e1fef4f3e",
+          "sourceContentHash": "sha256:cb89a17fa1adb070",
+          "sourceBodyHash": "sha256:49187558c601365f",
+          "translatedAt": "2026-11-20T03:57:10+08:00",
           "translationLastCommit": "ff9ca65a",
           "translationLastModified": "2026-10-23T10:17:49+08:00",
           "inferred": false,
-          "footnoteDefs": 18,
-          "bytes": 24876,
+          "footnoteDefs": 21,
+          "bytes": 30710,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (21→18)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/taiwan-electricity-pricing-and-taipower.md",
@@ -36847,8 +36873,8 @@
           "sourceContentHash": "sha256:a50aa44ff04babb9",
           "sourceBodyHash": "sha256:729d7ab175048563",
           "translatedAt": "2026-11-19T23:40:39.102297+00:00",
-          "translationLastCommit": "78437db0",
-          "translationLastModified": "2026-11-02T16:08:30+08:00",
+          "translationLastCommit": "6fbb0832",
+          "translationLastModified": "2026-11-20T08:24:53+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "bytes": 64694,
@@ -67036,7 +67062,20 @@
           "status": "missing"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Society/indigenous-language-policy.md",
+          "translatedFrom": "Society/原住民族語言政策.md",
+          "sourceCommitSha": "bc37ed4d8c",
+          "sourceContentHash": "sha256:32772071ae1ab735",
+          "sourceBodyHash": "sha256:694eda8fc7232fe6",
+          "translatedAt": "2026-11-20T03:56:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 3,
+          "bytes": 9762,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Society/indigenous-language-policy.md",
@@ -186819,7 +186858,20 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/History/dominican-order-taiwan.md",
+          "translatedFrom": "History/道明會在台灣.md",
+          "sourceCommitSha": "24f563e646",
+          "sourceContentHash": "sha256:1bd7703941e67723",
+          "sourceBodyHash": "sha256:15228d1d82684e84",
+          "translatedAt": "2026-11-20T03:57:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 3,
+          "bytes": 14312,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/History/dominican-order-taiwan.md",
