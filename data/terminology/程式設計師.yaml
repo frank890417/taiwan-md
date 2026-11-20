@@ -4,13 +4,34 @@ subcategory: 軟體與程式開發
 fork_type: B
 
 display:
-  taiwan: 程式設計師
-  china: 程序編寫員
+  taiwan: '程式設計師 / 軟體工程師'
+  china: 程序員
 
-notes: ''
+english: 'programmer / software engineer'
+
+etymology:
+  origin: 以撰寫、維護電腦程式為業的人。
+  taiwan_path: 台灣譯詞強調專業性：通用職稱「程式設計師」，產業職缺常用「軟體工程師」，日常簡稱「工程師」。
+  china_path: 中國當代通行「程序員」，由「程序」（程式）＋「員」構成，口語自嘲稱「碼農」；「程序編寫員」是《大陸用語檢索手冊》(1997) 時代的舊譯。
+  fork_point: '~1970s（兩岸資訊業譯詞分流）'
+  fork_cause: 譯詞分流：台灣譯 program 為「程式」，中國譯為「程序」，職業名稱跟著主詞走。
+
+usage:
+  taiwan_formal: true
+  taiwan_casual: true
+  exceptions: ''
+
+status: stable
+
+detection:
+  severity: A
+
+notes: 台灣媒體與勞動統計多用「程式設計師」「軟體工程師」；「程序員」在台灣語料中幾乎不出現。
 
 sources:
+  - '國家教育研究院雙語詞彙'
   - 'ThunderKO C2T / 《大陸用語檢索手冊》1997'
+  - '人力銀行職缺慣用職稱'
 
 added: '2026-03-30'
-updated: '2026-03-30'
+updated: '2026-11-14'
