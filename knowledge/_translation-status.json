@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-20T11:56:37+08:00",
-    "zhCommitHead": "f5455b069c",
+    "lastUpdated": "2026-11-20T12:30:33+08:00",
+    "zhCommitHead": "e6f5677f6d",
     "totalZh": 1192,
     "activeLanguages": [
       "en",
@@ -84,18 +84,18 @@
       },
       "hi": {
         "total_zh": 1192,
-        "fresh": 1148,
-        "stale": 30,
+        "fresh": 1149,
+        "stale": 29,
         "metadata_stale": 6,
         "missing": 8,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1192,
-        "fresh": 1167,
+        "fresh": 1169,
         "stale": 14,
         "metadata_stale": 4,
-        "missing": 7,
+        "missing": 5,
         "orphan": 0
       },
       "ru": {
@@ -8351,7 +8351,20 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Economy/tourism-industry.md",
+          "translatedFrom": "Economy/觀光產業.md",
+          "sourceCommitSha": "28c9d54586",
+          "sourceContentHash": "sha256:41026d66967b92b9",
+          "sourceBodyHash": "sha256:668ec588580a9dc2",
+          "translatedAt": "2026-11-20T03:57:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 2,
+          "bytes": 15212,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Economy/tourism-industry.md",
@@ -16730,8 +16743,8 @@
           "sourceContentHash": "sha256:945474d4c297700a",
           "sourceBodyHash": "sha256:f7975ef2c038bd34",
           "translatedAt": "2026-11-20T03:57:19+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e6f5677f",
+          "translationLastModified": "2026-11-20T11:56:38+08:00",
           "inferred": false,
           "footnoteDefs": 19,
           "bytes": 34857,
@@ -67505,7 +67518,20 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/indigenous-language-policy.md",
+          "translatedFrom": "Society/原住民族語言政策.md",
+          "sourceCommitSha": "bc37ed4d8c",
+          "sourceContentHash": "sha256:32772071ae1ab735",
+          "sourceBodyHash": "sha256:694eda8fc7232fe6",
+          "translatedAt": "2026-11-20T03:57:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 3,
+          "bytes": 14323,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/indigenous-language-policy.md",
@@ -105109,18 +105135,18 @@
         "hi": {
           "path": "hi/People/yang-wei-cher.md",
           "translatedFrom": "People/楊維哲.md",
-          "sourceCommitSha": "22286539e",
-          "sourceContentHash": "sha256:33dd9f5420593489",
-          "sourceBodyHash": "sha256:dbdac5a6701910e0",
-          "translatedAt": "2026-11-04T20:31:00.609435+00:00",
+          "sourceCommitSha": "520de49a5d",
+          "sourceContentHash": "sha256:7efd573816451b59",
+          "sourceBodyHash": "sha256:e4b1b1d6bc7c9a2b",
+          "translatedAt": "2026-11-20T03:57:06.697548+00:00",
           "translationLastCommit": "5e6bb2d6",
           "translationLastModified": "2026-11-05T04:55:15+08:00",
           "inferred": false,
-          "footnoteDefs": 13,
-          "bytes": 27581,
+          "footnoteDefs": 37,
+          "bytes": 125639,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (37→13)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/yang-wei-cher.md",
@@ -151043,8 +151069,8 @@
           "sourceContentHash": "sha256:cf3dd21873bec862",
           "sourceBodyHash": "sha256:ba8d5bb97d38e74d",
           "translatedAt": "2026-11-20T03:27:27.863676+00:00",
-          "translationLastCommit": "f1daf600",
-          "translationLastModified": "2026-10-10T23:14:31+08:00",
+          "translationLastCommit": "e6f5677f",
+          "translationLastModified": "2026-11-20T11:56:38+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 18634,
@@ -187324,8 +187350,8 @@
           "sourceContentHash": "sha256:1bd7703941e67723",
           "sourceBodyHash": "sha256:15228d1d82684e84",
           "translatedAt": "2026-11-20T03:57:19+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e6f5677f",
+          "translationLastModified": "2026-11-20T11:56:38+08:00",
           "inferred": false,
           "footnoteDefs": 3,
           "bytes": 17779,
