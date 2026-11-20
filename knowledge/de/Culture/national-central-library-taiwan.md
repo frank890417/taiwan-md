@@ -32,10 +32,10 @@ rationale:
   whos_pushing_back: '國家圖書館的官方敘事強調完整保存與知識服務，出版者和數位典藏研究則提醒，電子出版格式、授權、永久保存成本與使用權並不會因為送存制度存在而自動解決。本文並列兩邊的制度事實。'
 curation: 'incubating'
 translatedFrom: 'Culture/國家圖書館.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:b188920097cf9184'
-sourceBodyHash: 'sha256:bf6baa44f84e7aa1'
-translatedAt: '2026-09-18T00:53:15+08:00'
+sourceCommitSha: '650297302f'
+sourceContentHash: 'sha256:9bb0d26fbfa502a7'
+sourceBodyHash: 'sha256:a2db633578f86780'
+translatedAt: '2026-11-20T08:01:28.335464+00:00'
 ---
 
 # Nationale Bibliothek: Wie eine Bibliothek die Publikationen der Insel in das Gedächtnis einer Nation verwandelt
@@ -114,29 +114,29 @@ Was die Nationale Bibliothek wirklich stützt, ist das System der Einlieferung v
 
 Die Nationale Bibliothek arbeitet auch mit dem Zentrum für chinesische Studien und dem Zentrum für chinesische Studien in Taiwan zusammen, um taiwanesische Publikationen und chinesische Literatur nicht nur auf ein Gebäude in Taipeh zu beschränken. Diese internationale Zusammenarbeit ist kein Versuch, die Kultur Taiwans als Exportgut zu verpacken, sondern ermöglicht es verschiedenen Institutionen, Kataloge, Bilder und Forschungseingänge zu teilen. Der Maßstab der nationalen Erhaltung wird daher nicht nur durch die Menge des Bestandes bestimmt, sondern auch dadurch, ob sie mit anderen Institutionen suchen und korrigieren kann.
 
-## Lesedienste als Ausgangspunkt der Bewahrung
+## Leserdienste sind das Tor zur Bewahrung
 
-Das Bewahrungssystem muss letztlich beim Leser ankommen. Die Schalter und Kontrollpunkte in der Hauptlesehalle der Nationalen Bibliothek sind oberflächlich die alltäglichsten Orte im Gebäude, aber sie verbinden das Backend des nationalen Archivsystems mit dem Nutzer. Der Leser erhält zuerst Zugangsberechtigung und greift dann über die Bestandsrecherche, bibliografische Daten und Nutzungsregeln auf eine Publikation zu, die möglicherweise seit vielen Jahren nicht mehr am Markt ist. [^3] [^17]
+Das System der Erhaltung muss letztlich darauf zurückgeführt werden, wie Leser Zugang zu den Daten erhalten. Die Kontrollschleusen und die Schalter für die Ausweisverwaltung in der Lesesaal-Halle des Hauptsitzes der Nationalen Bibliothek wirken oberflächlich betrachtet wie die alltäglichsten Orte des Gebäudes; tatsächlich verbinden sie jedoch das Backend-System der nationalen Dokumente mit den Nutzern. Leser erlangen zuerst die Zugangsberechtigung, um sich dann über Bestandsabfragen, bibliografische Daten und Leseregeln einer Publikation zu nähern, die möglicherweise schon seit Jahren nicht mehr auf dem Markt erhältlich ist. [^3] [^17]
 
-Dieser Eingang erinnert uns auch daran, dass Digitalisierung alle physischen Dienste ersetzen kann. Elektronische Ressourcen ermöglichen Fernsuchen; Mitarbeiter müssen jedoch Versionen identifizieren, Sonderbestände nutzen, Lizenzbeschränkungen und den Datenkontext verwalten. Die „Zwei-Spurigkeit“ der digitalen Lesekompetenz und des Bibliotheksdienstes, wie sie in der Jahresmitteilung von 2025 beschrieben wird, bedeutet nicht, dass das gedruckte Buch verschwindet, sondern dass Leser sowohl online entdecken als auch physisch bestätigen müssen. [^14]
+Dieser Zugang erinnert uns auch daran, dass Digitalisierung nicht alle physischen Dienste ersetzen kann. Während digitale Ressourcen eine Fernsuche ermöglichen, müssen Bibliothekare weiterhin die Identifizierung von Ausgaben, die Nutzung von Sonderbeständen, Urheberrechtsbeschränkungen und den Kontext der Daten handhaben. Der im Bibliotheksnachrichten-Bericht 2025 aufgeführte Aufstieg der digitalen Lesekompetenz bei gleichzeitiger Fortführung der Bibliotheksdienste auf zwei Schienen bedeutet nicht, dass das gedruckte Format bald verschwinden wird; vielmehr benötigen Leser gleichzeitig zwei Wege: die Online-Entdeckung und die physische Verifizierung. [^14]
 
-![Hauptlesesaal der Nationalen Bibliothek, Zugang über Registrierungs- und Kontrollpunkte zu den Beständen.](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Interior_of_National_Central_Library_ROC_-_01._2024_-_01_-_11.jpg/500px-Interior_of_National_Central_Library_ROC_-_01._2024_-_01_-_11.jpg)
+![Die Lesesaal-Halle des Hauptsitzes der Nationalen Bibliothek, der Zugang zum Bestand erfolgt über den Ausweisdienst und die Kontrollschleusen.](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Interior_of_National_Central_Library_ROC_-_01._2024_-_01_-_11.jpg/500px-Interior_of_National_Central_Library_ROC_-_01._2024_-_01_-_11.jpg)
 
-_Bild: Hauptlesesaal der Nationalen Bibliothek. Gefangen am 2024-01-11 durch Adao. CC BY-SA 4.0. Details zum Bild in der Bildquelle._
+_Bild: Die Lesesaal-Halle des Hauptsitzes der Nationalen Bibliothek. Foto von A-Dao, 11.01.2024, CC BY-SA 4.0. Bildquelle am Ende der Seite aufgeführt._
 
-## Vom Einlieferungsplan zur Verlegeroberfläche
+## Von der Einlieferungsliste zur Schnittstelle für Verleger
 
-Die neuesten Systemänderungen machen die gesetzliche Einlieferung zu einer Art Verlegeroberfläche und nicht nur zum Versenden eines Kartons. Die Jahresmitteilung von 2025 der Nationalen Bibliothek berichtet, dass das System für die Einlieferung von Publikationen online geschaltet wurde und mit dem Antragsdienst des nationalen Neuigkeitsnetzwerks integriert ist. Dies bedeutet, dass der Verleger einen Prozess durchläuft, der Datenregistrierung, bibliografische Informationen, Einlieferungslisten und nachfolgendes Management umfasst; die Einlieferung ist nicht mehr nur ein administrativer Zusatz am Ende des Publikationsprozesses. [^13] [^14]
+Die jüngsten systemischen Veränderungen lassen die gesetzliche Einlieferung eher wie eine Schnittstelle für Verleger erscheinen, statt nur das Versenden eines Kartons zu sein. Laut dem Jahresbericht 2025 der Nationalen Bibliothek wurde das System zur Einlieferung von Publikationen bereits in Betrieb genommen und mit den Antragsdiensten des landesweiten Informationsnetzes für neue Bücher integriert. Dies bedeutet, dass der Prozess für Verleger nun die Datenerfassung, bibliografische Informationen, Einlieferungslisten und das anschließende Management umfasst; die Einlieferung ist nicht mehr nur eine administrative Nacharbeit am Ende des Publikationsprozesses. [^13] [^14]
 
-Die Jahresmitteilung von 2025 der Nationalen Bibliothek behandelt auch digitale Lesekompetenz, internationale Zusammenarbeit bei der Digitalisierung alter chinesischer Bücher und die Verbreitung wissenschaftlicher Ergebnisse aus Taiwan in internationalen Kreisen. Wenn man diese Punkte zusammen betrachtet, sieht man zwei parallele Entwicklungslinien der Arbeit der Nationalen Bibliothek: Eine ist die Aufnahme taiwanesischer Publikationen in das nationale System; die andere ist die Bereitstellung des bewahrten Materials für ein größeres Forschungskontext. Bewahrung und Verbreitung sind keine Abfolge, sondern müssen gleichzeitig gestaltet werden. [^14]
+Der Jahresbericht 2025 der Nationalen Bibliothek behandelt zudem digitale Lesekompetenz, die grenzüberschreitende Zusammenarbeit bei der Digitalisierung klassischer chinesischer Texte sowie die internationale Verbreitung von Forschungsergebnissen aus der Taiwan-Wissenschaft in derselben Ausgabe. Betrachtet man diese Themen zusammen, wird deutlich, dass die Arbeit der Nationalen Bibliothek auf zwei gleichzeitig voranschreitenden Linien basiert: Die eine besteht darin, taiwanesische Publikationen in das nationale System aufzunehmen, die andere darin, das bereits erhaltene Material in ein größeres Forschungsnetzwerk einzubinden. Erhaltung und Verbreitung sind keine aufeinanderfolgenden Prozesse, sondern Dienstleistungen, die simultan konzipiert werden müssen. [^14]
 
-Das Handbuch zur Lizenzverwaltung des Einlieferungssystems sowie Formulare für die verzögerte Veröffentlichung, den Austausch und die Lizenzierung von Dissertationen legen die institutionellen Lücken zwischen Bewahrung und Zugänglichkeit klar offen. Publikationen können zuerst eingereicht und katalogisiert werden; die vollständige Veröffentlichung muss jedoch gemäß den Lizenzbedingungen des Autors, Verlags oder der Dissertation erfolgen. Dies ist kein Mangel an Systemeffizienz, sondern eine Notwendigkeit für den Bewahrer, verschiedene Rechtszustände zu respektieren. [^1]
+Das Handbuch zur Berechtigungsverwaltung des Einlieferungssystems sowie die Regelungen für den aufgeschobenen Zugang, den Austausch und die Lizenzierung von Dissertationen legen die institutionellen Lücken zwischen Erhaltung und öffentlicher Zugänglichkeit offen. Publikationen können zunächst eingereicht und katalogisiert werden, während die vollständige Veröffentlichung gemäß den Lizenzbedingungen der Autoren, Verleger oder Dissertationsträger erfolgt. Dies ist kein Zeichen mangelnder Systemeffizienz, sondern das Ergebnis der Notwendigkeit, dass Bewahrer die unterschiedlichen Rechtsstatus respektieren müssen. [^1]
 
-Die Workshops zur gemeinsamen Nutzung von „Taiwanesisches Gedächtnis“ auf kommunaler Ebene bringen das Problem vom zentralen Gebäude in die lokale Ebene. Die Nationale Bibliothek lud Ministerien der Kultur, Museen und lokale Bibliotheken ein, um über digitale Ressourcen, den ursprünglichen Kontext und Creative Commons-Lizenzen zu diskutieren. Lokale digitale Erhaltung bedeutet nicht nur, Dateien hochzuladen, sondern auch anzugeben, wer sie bereitgestellt hat, wie sie beschrieben wurden und welche Teile wiederverwendet werden können. [^15]
+Der Symposium zur gemeinsamen Erstellung und Nutzung des „Taiwanesischen Gedächtnisses“ auf Kreisebene verlagerte die Problematik von den zentralen Bibliotheksgebäuden hin zu den lokalen Ebenen. Die Nationale Bibliothek lud das Kulturministerium, das Nationalen Taiwan-Museum, die Kulturämter von 22 Landkreisen und Städten sowie lokale Bibliotheken zur Diskussion über Kooperationen ein. Dabei wurden Themen wie audiovisuelle Ressourcen, der ursprüngliche Kontext und Creative-Commons-Lizenzbedingungen explizit thematisiert. Wenn lokale digitale Archive in eine gemeinsame Plattform integriert werden sollen, dürfen Dateien nicht einfach nur übertragen werden; es muss auch geklärt werden, wer sie bereitstellt, wie sie beschrieben werden und welche davon wiederverwendet werden dürfen. [^15]
 
-![Lesesaal der Nationalen Bibliothek, die Bewahrung muss letztlich beim Leser ankommen.](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Interior_of_National_Central_Library_ROC_-_04._2024_-_01_-_11.jpg/500px-Interior_of_National_Central_Library_ROC_-_04._2024_-_01_-_11.jpg)
+![Lesesaal der Nationalen Bibliothek; am Ende muss das Erhaltungssystem darauf ausgerichtet sein, wie Leser die Daten nutzen.](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Interior_of_National_Central_Library_ROC_-_04._2024_-_01_-_11.jpg/500px-Interior_of_National_Central_Library_ROC_-_04._2024_-_01_-_11.jpg)
 
-_Bild: Lesesaal der Nationalen Bibliothek. Gefangen am 2024-01-11 durch Adao. CC BY-SA 4.0. Details zum Bild in der Bildquelle._
+_Bild: Lesesaal der Nationalen Bibliothek. Foto von A-Dao, 11.01.2024, CC BY-SA 4.0. Bildquelle am Ende der Seite aufgeführt._
 
 ## Die nächste Frage des taiwanesischen Gedächtnisses
 

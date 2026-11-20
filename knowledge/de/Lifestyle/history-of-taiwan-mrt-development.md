@@ -26,10 +26,10 @@ readingTime: 15
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'Lifestyle/台灣捷運發展史.md'
-sourceCommitSha: 'b1a5fea00'
-sourceContentHash: 'sha256:fa054e970fa0164b'
-sourceBodyHash: 'sha256:8a8a123d1183a1a8'
-translatedAt: '2026-11-18T11:23:28.714263+00:00'
+sourceCommitSha: '650297302f'
+sourceContentHash: 'sha256:a2625abf2f2c9ac6'
+sourceBodyHash: 'sha256:be7ef9d711a97133'
+translatedAt: '2026-11-20T08:26:27.223868+00:00'
 ---
 
 # Taiwans MRT-Entwicklungsgeschichte: Eine Stadtentwicklung, geschrieben mit Blut und Geld
@@ -57,20 +57,20 @@ Abseits des Prozesses stolperte die Muzha-Linie selbst. Im Mai und September 199
 
 Ob sich diese 1,64 Milliarden Lehrgeld lohnten? Rückblickend bewies die Muzha-Linie (heute Wenhu-Linie) eines Entscheiden: **Taiwaner können MRT bauen.** Trotz holprigem Verlauf fährt sie – und das seit 30 Jahren.
 
-## Das Wunder der Tamsui-Linie: Der wahre Startpunkt der MRT-Kultur
+## Das Wunder der Tamsui-Linie: Der wahre Beginn der MRT-Kultur
 
-1997 ging die Tamsui-Linie in Betrieb, und die Taipei-MRT hob wirklich ab.
+Mit der Eröffnung der Tamsui-Linie im Jahr 1997 nahm die Taipei MRT erst richtig Fahrt auf.
 
-Anders als die französische Technik der Muzha-Linie nutzte die Tamsui-Linie die alte Tamsui-Streckenführung der TRA, vorhandenes Trassenrecht plus das gelernte Know-how taiwanischer Ingenieure ließen Taiwaner endlich „weltklasse MRT“ erleben: klimatisierte Wagen, elektronische Anzeigen, Pünktlichkeit, Barrierefreiheit.
+Im Gegensatz zur französischen Technologie der Wuzhi-Linie wurde die Tamsui-Linie durch den Umbau der ehemaligen Tamsui-Nebenstrecke der Taiwan Railways (TRA) realisiert. Die vorhandenen Wegerechte kombiniert mit dem Lernfortschritt taiwanesischer Ingenieure ermöglichten es den Menschen in Taiwan schließlich, das Erlebnis einer „Weltklasse-MRT“ zu genießen – klimatisierte Waggons, elektronische Anzeigen, pünktliche Ankünfte und barrierefreies Design.
 
-Noch wichtiger: Die Tamsui-Linie etablierte Taiwans einzigartige „MRT-Zivilisation“. Im ganzen Zug essen und trinken verboten, Verstöße bis 7.500 NT$ Strafe; auf Rolltreppen rechts stehen; im Wagen so still wie in einer Bibliothek. Was heute selbstverständlich wirkt, war in den 1990ern ein revolutionäres Gesellschaftsexperiment.
+Was noch wichtiger war: Die Tamsui-Linie etablierte die für Taiwan einzigartige „MRT-Zivilisation“. Das Essen und Trinken im gesamten Zug war verboten; bei Verstößen drohten Bußgelder von bis zu NT$7.500. Auf Rolltreppen wurde konsequent rechts gestanden, und in den Waggons war es so leise wie in einer Bibliothek. Diese Regeln, die heute als selbstverständlich gelten, waren in den 1990er Jahren ein revolutionäres soziales Experiment.
 
 > **💡 Wussten Sie schon?**
-> Das Ess- und Trinkverbot der Taipei-MRT zählt zu den strengsten U-Bahn-Regeln weltweit. Nach Art. 50 des „Mass Rapid Transit Act“ drohen in verbotenen Zonen 1.500 bis 7.500 NT$ Bußgeld; die Grenze verläuft an der gelben Linie vor den Einlassgates. Gerade diese Konsequenz macht die Sauberkeit der Taipei-MRT zum bleibendsten Eindruck internationaler Reisender.
+> Das Ess- und Trinkverbot der Taipei MRT gehört zu den strengsten U-Bahn-Regeln weltweit. Gemäß Artikel 50 des „Mass Rapid Transit Act“ (大眾捷運法) werden bei Verstößen in den Verbotszonen Bußgelder zwischen NT$1.500 und NT$7.500 verhängt; die Grenze ist die gelbe Linie vor den Fahrgastschranken. Doch genau diese Konsequenz hat dazu geführt, dass die Sauberkeit der Waggons in der Taipei MRT bei internationalen Reisenden einen bleibenden Eindruck hinterlässt.
 
-Der Erfolg der Tamsui-Linie hatte einen entscheidenden Datengrund: Sie verband Taipehs dichteste Wohngebiete (Beitou, Shilin, Datong) mit dem Zentrum, gewaltiger Pendlerbedarf. Mit der alleinigen Muzha-Linie beförderte die Taipei-MRT täglich nur 40.000 Fahrgäste; mit der Tamsui-Linie stiegen es auf 85.000, und mit jedem weiteren Netzanschluss wuchs das Volumen erst richtig.
+Der Erfolg der Tamsui-Linie lässt sich durch eine entscheidende Kennzahl belegen: Sie verband die am dichtesten besiedelten Wohngebiete Taipeis (Beitou, Shilin, Datong) mit dem Stadtzentrum, was zu einem enormen Pendleraufkommen führte. Während die Taipei MRT allein mit der Wuzhi-Linie nur 40.000 Fahrgäste pro Tag beförderte, stieg diese Zahl nach der Inbetriebnahme der Tamsui-Linie auf 85.000 an. Erst durch das sukzessive Ausbauen des Streckennetzes konnte das Passagieraufkommen massiv gesteigert werden.
 
-**Geografischer Vorteil + Technologisches Lernen + Kulturaufbau = Tamsui-Linien-Wunder.** Diese Formel wurde seither unzählig nachgeahmt, aber selten erfolgreich kopiert.
+**Geografische Vorteile + technisches Lernen + kulturelle Formung = Das Wunder der Tamsui-Linie.** Diese Formel wurde später von unzähligen Städten imitiert, doch nur wenige konnten sie erfolgreich replizieren.
 
 ## Die Bannan-Linie als Kreuzungsnetz: Der strategische Wendepunkt der Taipei-MRT
 
