@@ -26,10 +26,10 @@ readingTime: 15
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'Lifestyle/台灣捷運發展史.md'
-sourceCommitSha: 'b1a5fea0'
-sourceContentHash: 'sha256:fa054e970fa0164b'
-sourceBodyHash: 'sha256:8a8a123d1183a1a8'
-translatedAt: '2026-10-08T04:43:41+08:00'
+sourceCommitSha: '650297302f'
+sourceContentHash: 'sha256:a2625abf2f2c9ac6'
+sourceBodyHash: 'sha256:be7ef9d711a97133'
+translatedAt: '2026-11-20T08:29:27.142737+00:00'
 ---
 
 # L'histoire du métro de Taïwan : une théorie de l'évolution urbaine écrite avec le sang et l'argent
@@ -57,20 +57,20 @@ En dehors du procès, la ligne Xindian elle-même a connu des hauts et des bas. 
 
 Cette leçon de 1,64 milliard de NT$ en valait-elle la peine ? En regardant en arrière aujourd'hui, la ligne Xindian (maintenant la ligne Wenhu) a prouvé une chose essentielle : **les Taïwanais savent construire des métros.** Bien que le processus ait été mouvementé, elle fonctionne et cela fait 30 ans.
 
-## Le miracle de Tamsui : le véritable point de départ de la culture du métro
+## Le miracle de la ligne Tamsui : le véritable point de départ de la culture du métro
 
-En 1997, la ligne Tamsui a été inaugurée, marquant le véritable décollage des métros de Taipei.
+En 1997, l'ouverture de la ligne Tamsui a marqué le véritable essor du métro de Taipei (Taipei MRT).
 
-Contrairement à la technologie française de la ligne Xindian, la ligne Tamsui a réutilisé et rénové la branche de Taïwan Railways à Tamsui. La voie existante, combinée aux acquis des ingénieurs taïwanais, a finalement permis aux Taïwanais de goûter au « métro de classe mondiale » — cabines climatisées, panneaux électroniques, ponctualité, conception accessible.
+Contrairement à la technologie française utilisée pour la ligne Wuzhi, la ligne Tamsui a été aménagée en utilisant l'emprise existante de l'ancienne ligne de branchement de Tamsui de la Taiwan Railways Administration. La combinaison de cette emprise déjà disponible et des acquis techniques des ingénieurs taïwanais a enfin permis aux Taïwanais de goûter à un « métro de classe mondiale » : voitures climatisées, panneaux d'affichage électroniques, ponctualité exemplaire et conception accessible aux personnes à mobilité réduite.
 
-Plus important encore, la ligne Tamsui a établi une « civilisation du métro » propre à Taïwan. Il est interdit de manger dans toutes les cabines (amende maximale de 7 500 NT$ pour infraction) ; on doit toujours se tenir à droite sur les escalators ; le silence en cabine est comparable à celui d'une bibliothèque. Ces règles, considérées comme naturelles aujourd'hui, étaient des expériences sociales révolutionnaires dans les années 1990.
+Plus important encore, la ligne Tamsui a instauré une « civilisation du métro » propre à Taïwan. Il est interdit de manger ou de boire dans l'ensemble des rames, sous peine d'une amende pouvant atteindre NT$7 500 ; on se tient systématiquement à droite sur les escalators ; et l'intérieur des voitures est aussi silencieux qu'une bibliothèque. Ces règles, qui semblent aujourd'hui être des évidences, constituaient une expérience sociale révolutionnaire dans les années 1990.
 
-> **💡 Saviez-vous que**
-> L'interdiction de manger dans le métro de Taipei est l'une des réglementations de métro les plus strictes au monde. Selon l'article 50 du _Loi sur le métro public_, une amende allant de 1 500 NT$ à 7 500 NT$ est appliquée pour manger dans une zone interdite, la ligne étant tracée devant le portique d'entrée. C'est cette persévérance qui fait de la propreté des cabines du métro de Taipei l'impression la plus marquante pour les voyageurs internationaux.
+> **💡 Le saviez-vous ?**
+> L'interdiction de manger et de boire dans le métro de Taipei est l'une des réglementations les plus strictes au monde pour un réseau de transport souterrain. Conformément à l'article 50 de la _Loi sur le transport de masse par métro_ (大眾捷運法), toute personne consommant de la nourriture ou des boissons dans une zone interdite s'expose à une amende comprise entre NT$1 500 et NT$7 500 ; la limite est marquée par la ligne jaune située juste avant les portillons d'accès. C'est précisément cette rigueur qui fait de la propreté des rames du métro de Taipei l'une des impressions les plus marquantes pour les voyageurs internationaux.
 
-Le succès de la ligne Tamsui repose sur un élément clé : elle connecte les zones résidentielles les plus denses de Taipei (Beitou, Shilin, Datong) au centre-ville, créant une demande de transport énorme. Avec seulement la ligne Xindian, le métro de Taipei ne transportait que 40 000 personnes par jour ; après l'arrivée de Tamsui, ce chiffre est passé à 85 000, et lorsque les réseaux ont été connectés un par un, le volume a réellement commencé à augmenter.
+Le succès de la ligne Tamsui repose sur une donnée clé : elle relie les zones résidentielles les plus denses de Taipei (Beitou, Shilin, Datong) au centre-ville, générant ainsi une demande de transport pendulaire massive. À l'époque où seule la ligne Wuzhi était en service, le métro de Taipei ne transportait que 40 000 personnes par jour ; après l'ajout de la ligne Tamsui, ce chiffre est passé à 85 000, avant que la capacité de transport ne croisse réellement avec l'extension successive du réseau.
 
-**Avantage géographique + apprentissage technologique + construction culturelle = Miracle de la ligne Tamsui.** Cette formule a été imitée par d'innombrables villes, mais peu ont réussi à la reproduire.
+**Avantage géographique + apprentissage technique + construction culturelle = le miracle de la ligne Tamsui.** Cette formule a été imitée par d'innombrables villes par la suite, mais peu ont réussi à la reproduire avec autant de succès.
 
 ## Le réseau en croix de Bannan : un tournant stratégique pour le métro de Taipei
 
