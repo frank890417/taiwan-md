@@ -16,26 +16,30 @@ author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-18
 lastHumanReview: false
+image: '/article-images/people/chiang-ching-kuo-portrait.webp'
+imageCredit: '阿道'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Portrait_of_Chiang_Ching-kuo.jpg'
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/蔣經國.md'
-sourceCommitSha: '0d2389cec'
-sourceContentHash: 'sha256:47672068ff2f222b'
+sourceCommitSha: '67c4c72fc4'
+sourceContentHash: 'sha256:f9a8cbc00c40313a'
 sourceBodyHash: 'sha256:6f49b2d59aaa9fe7'
-translatedAt: '2026-09-10T20:24:58+08:00'
+translatedAt: '2026-11-20T00:32:54.161261+00:00'
 ---
 
-> **Visão geral em 30 segundos:** Chiang Ching-kuo tornou-se presidente em 1978 e, a 15 de julho de 1987, anunciou a revogação dos 38 anos de lei marcial em Taiwan; estes dois factos fazem dele, simultaneamente, o timoneiro do regime autoritário e o decisor da abertura política. Este artigo não escreve a democratização como a dádiva de um só homem, mas coloca as suas reformas, a violência de Estado e a sociedade que continuou a agir após o incidente de Formosa numa mesma cadeia causal.
+> **Resumo de 30 segundos:** Chiang Ching-kuo tornou-se presidente em 1978 e, em 15 de julho de 1987, anunciou o fim de 38 anos de lei marcial em Taiwan. Esses dois eventos fizeram dele, simultaneamente, o timoneiro do regime autoritário e o tomador de decisão da abertura política. Este artigo não apresenta a democratização como um presente concedido por um único homem, mas coloca suas reformas, a violência estatal e os movimentos sociais que persistiram após o Incidente Formosa dentro de uma mesma cadeia de causalidade.
 
-A 20 de maio de 1978, Chiang Ching-kuo tomou posse como presidente da República da China (Taiwan) em Taipé; a 15 de julho de 1987, Taiwan revogou a lei marcial que durava há 38 anos; a 13 de janeiro de 1988, faleceu no exercício da presidência.[^1] Estas três datas alinhadas parecem uma linha do tempo progressista bem arrumada. Contudo, Chiang Ching-kuo não estava fora do regime de lei marcial a abrir a porta para Taiwan; ele próprio era um dos guardas dessa porta.
+Em 20 de maio de 1978, Chiang Ching-kuo tomou posse como presidente da República da China (Taiwan) em Taipé; em 15 de julho de 1987, Taiwan levantou a lei marcial que durava 38 anos; em 13 de janeiro de 1988, ele faleceu durante seu mandato presidencial. [^1] Essas três datas colocadas em sequência parecem uma linha do tempo de progresso bem organizada. No entanto, Chiang Ching-kuo não era alguém que estava fora do sistema da lei marcial para abrir as portas de Taiwan; ele próprio era um dos guardiões dessas portas.
 
-O enigma histórico que deixa não é, portanto, a questão de votação «Chiang Ching-kuo foi bom ou mau», mas: por que razão alguém que operou o Estado autoritário começou, nos últimos anos de vida, a desmantelar alguns dos pilares que sustentavam o seu poder? Mais espinhoso ainda: esta demolição não começou do zero. A fresta foi aberta por ele, mas foram os corpos daqueles que, durante os anos de lei marcial, arriscaram falar, que se espremeram porta adentro e a impediram de se fechar de novo.
+Por isso, o dilema histórico que ele deixa não é uma questão de "se Chiang Ching-kuo foi bom ou mau", mas sim: por que alguém que outrora utilizou um Estado autoritário começou, nos últimos anos de sua vida, a derrubar os próprios pilares em que se baseava para governar? O mais complexo é que essa demolição não começou do zero. Ele abriu uma fresta na porta, mas quem empurrou o corpo para dentro e impediu que ela se fechasse novamente foram as sucessivas ondas de pessoas que arriscaram dar voz à sociedade durante os anos da lei marcial.
 
-![Retrato de Chiang Ching-kuo nos anos 1970](/article-images/people/chiang-ching-kuo-portrait.webp)
-_Imagem: Ado／Wikimedia Commons, CC BY-SA 4.0._
+![Retrato de Chiang Ching-kuo na década de 1970](/article-images/people/chiang-ching-kuo-portrait.webp)
+_Imagem: Ado / Wikimedia Commons, CC BY-SA 4.0._
 
-> **📝 Nota do curador**
-> A revogação da lei marcial merece ser lembrada, não porque um homem forte se tornou subitamente bondoso, mas porque até o homem forte teve de enfrentar uma sociedade que já tinha crescido.
+> **📝 Nota do Curador**
+> O fim da lei marcial merece ser lembrado não porque um homem forte subitamente se tornou bondoso, mas porque até mesmo um líder autoritário foi forçado a encarar uma sociedade que já havia crescido.
 
 ## Alguém que assumiu o comando no meio de uma crise
 

@@ -23,24 +23,26 @@ imageCredit: 'Kikilipse / Wikimedia Commons (CC BY-SA 4.0)'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Chronological_dispersal_of_Austronesian_people_across_the_Pacific_(per_Benton_et_al,_2012,_adapted_from_Bellwood,_2011).svg'
 viewpoint_formed: true
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/群島思維.md'
-sourceCommitSha: '0c0b16686'
-sourceContentHash: 'sha256:69f8f034dcafc5a6'
-sourceBodyHash: 'sha256:f5fbc7ca5aa903a2'
-translatedAt: '2026-09-12T09:12:49+08:00'
+sourceCommitSha: 'b1a5fea00e'
+sourceContentHash: 'sha256:da7a8eb43a26882e'
+sourceBodyHash: 'sha256:3ca31f4ebc8ab851'
+translatedAt: '2026-11-19T23:34:49.920030+00:00'
 ---
 
-> **30-Sekunden-Überblick:** Wenn man eine Karte von Taiwan betrachtet, sieht die meisten Menschen nur eine kleine Insel am Rande des chinesischen Festlandes. Aber dreht man die Karte um 30 Grad im Uhrzeigersinn und streckt sie nach Süden, sieht man eine andere, ebenso gültige Landkarte: Taiwan ist gleichzeitig der Nordostrand des Malaysischen Weltgebietes (Nusantara), die Ursprungsregion von vierhundert Millionen Austronesiern und ein Ausgangspunkt der pazifischen Expansionsgeschichte. Ein Jade-Scheibe, gesammelt in Fengtian, Hualien, tauchte vor 3500 Jahren bereits in archäologischen Stätten auf Batanes, Luzon, Vietnam und Thailand auf. Der Linguist Robert Blust leitete aus der lexikalischen Vielfalt ab, dass neun der zehn primären Zweige der Austronesier in Taiwan ansässig sind. Die Sprache der Atayal (Lanyu) ist zu 60 % mit der von den Ivatan auf Batanes verständlich. Dieser Artikel versucht, diese übersehene Karte wiederherzustellen, damit die beiden Karten das wahre Taiwan gemeinsam sehen können.
+> **30-Sekunden-Überblick:** Breitet man eine Karte von Taiwan aus, sehen die meisten Menschen ein kleines Eiland am Rande des chinesischen Festlands. Dreht man die Karte jedoch um 30 Grad im Uhrzeigersinn und erweitert den Blick nach Süden, offenbart sich eine weitere, ebenso gültige Karte: Taiwan ist gleichzeitig der nordöstliche Rand der malaiischen Welt (Nusantara), die sprachliche Heimat von 400 Millionen Austronesiern und der Ausgangspunkt der Ausbreitung im Pazifik. Ein vor 3500 Jahren in Fengtian, Hualien, gefundener Jade-Ring (Jue) tauchte bereits in archäologischen Stätten auf den Batanes-Inseln, Luzon, in Vietnam und in Thailand auf. Der Linguist Robert Blust leitete aus der lexikalischen Vielfalt ab, dass neun der zehn großen austronesischen Sprachfamilien in Taiwan beheimatet sind. Die Sprache der Tao auf Lanyu weist eine 60-prozentige Ähnlichkeit mit der Sprache der Ivatan auf den Batanes-Inseln auf. Dieser Artikel versucht, die andere, übersehene Karte wieder sichtbar zu machen, damit beide Karten gemeinsam das wahre Taiwan zeigen.
 
-Öffne Google Maps und drehe Taiwan um 30 Grad nach Süden. Lasse die Straße von Taiwan (Taiwanstraße) nach unten zeigen, lasse die Hauptkammlinie in Richtung des nördlichen Endes von Luzon weisen, und ordne Taroko in Hualien und die Batanes-Inselgruppe auf den Philippinen entlang einer Linie an.
+Öffnet man Google Maps und dreht Taiwan um 30 Grad nach Süden, sodass die Bashi-Straße nach unten zeigt, die Gebirgskämme des Zentralgebirges auf das nördliche Ende von Luzon deuten und die Taroko-Schlucht in Hualien auf eine Linie mit den Batanes-Inseln der Philippinen gebracht werden, ergibt sich ein neues Bild.
 
-Was man dann sieht, ist nicht eine kleine Insel am östlichen Rand Chinas, sondern der nördlichste Punkt einer Ketteninseln. Nach Süden erstrecken sich Lanyu, Batanes, Luzon, Palawan, Borneo, Java und Sumatra bis zu Madagaskar; nach Osten die Ryukyu-Inseln, Kyushu und die Inselgruppen; nach Südosten Mikronesien und Polynesien, bis zu den Osterinseln. Aus dieser Perspektive ist Taiwan kein Randgebiet irgendeines Kontinents, sondern ein Endpunkt einer inselartigen Welt, die einen halben Globus überspannt.
+Man sieht dann nicht mehr eine kleine Insel am östlichen Rand des chinesischen Festlands, sondern das nördlichste Glied einer Inselkette. Nach Süden hin erstreckt sich die Kette über Lanyu, Batanes, Luzon, Palawan, Borneo, Java und Sumatra bis nach Madagaskar; nach Osten hin über Ryūkyū, Kyūshū und die Molukken; nach Südosten über Mikronesien und Polynesien bis hin zur Osterinsel. Aus dieser Perspektive betrachtet, ist Taiwan ein Endpunkt einer Inselwelt, die sich über einen halben Erdball erstreckt, und nicht der Rand eines Kontinents.
 
-Vor 3500 Jahren wurde eine Jade aus Fengtian in Hualien geschnitzt und zu einem Ohrschmuck der Beinan-Kultur verarbeitet. Dieser wanderte südwärts entlang eines Nebenflusses des Schwarzen Meeres und erreichte schließlich eine Siedlung am nördlichen Ende von Luzon, wo sie in einer Stätte gefunden wurde, die ein Archäologe des 21. Jahrhunderts als „Nagsabaran“ bezeichnete [^1]. Das gleiche Jade-Material wurde auch in prähistorischen Gräbern in Vietnam, Thailand und auf der malaiischen Halbinsel ausgegraben. Nach Isotopenanalysen kamen die Archäologen zu dem Schluss, dass diese Jaden aus demselben Erzvorkommen stammten: Fengtian.
+Vor 3500 Jahren wurde ein Stück taiwanesische Blaschimmer-Jade aus Fengtian, Hualien, von Handwerkern der Beinan-Kultur zu einem ringförmigen Ohrschmuck (Jue) geschliffen. Getrieben von den Strömungen des Kuroshio-Stroms gelangte dieses Schmuckstück nach Süden, erreichte eine Siedlung am nördlichen Ende von Luzon und tauchte schließlich in einer Ausgrabungsstätte auf, die Archäologen im 21. Jahrhundert „Nagsabaran“ nannten[^1]. Das gleiche Jade-Material wurde sukzessive in prähistorischen Gräbern in Vietnam, Thailand und auf der malaiischen Halbinsel ausgegraben. Nach Isotopenanalysen kamen Archäologen zu dem Schluss, dass dieses Jade-Material aus derselben Ader stammt: Fengtian, Hualien.
 
-Anders ausgedrückt: 2000 Jahre bevor dieser Inselrahmen überhaupt existierte, war diese Insel bereits das Zentrum eines Handelsnetzes, das sich über das Südchinesische Meer erstreckte.
+Mit anderen Worten: 2000 Jahre bevor das chinesische Rahmenwerk diese Insel erreichte, war sie bereits ein Zentrum eines Handelsnetzes, das das Südchinesische Meer durchquerte.
 
-Dies leugnet nicht die chinesischen Wurzeln Taiwans. Die Sprachen, Clans, Glaubensvorstellungen und Esskulturen, die seit der Qing-Dynastie (ab 1683) durch Einwanderer geformt wurden, bilden tatsächlich die dickste Schicht dieser Insel in der Gegenwart. Aber unter dieser Basis gibt es noch frühere Schichten. Die andere Karte, die lange vom chinesischen Rahmen verdeckt wurde: **die Nusantara-Karte, die Archipelkarte**, ist das, was dieser Artikel zu rekonstruieren versucht.
+Dies soll die chinesischen Wurzeln Taiwans nicht leugnen. Die Sprache, die Clans, der Glaube und die Ernährungsgewohnheiten, die seit der Qing-Herrschaft ab 1683 durch die Einwanderung von Han-Chinesen geprägt wurden, bilden in der Tat die tiefste Schicht des zeitgenössischen Fundaments dieser Insel. Doch unter dieser Schicht liegen noch ältere Ebenen. Die andere Karte, die lange Zeit vom chinesischen Rahmenwerk verdeckt wurde – die **Nusantara-Karte, die Archipel-Karte** –, ist das, was dieser Artikel zu ergänzen versucht.
 
 ## Die Reise eines Jadeobjekts: Von Hualien nach Luzon
 
@@ -92,19 +94,19 @@ Vier unabhängige Wege: Sprachliche Diversität, archäologische materielle Kult
 >
 > Diese Debatte spiegelt eher die methodischen Einschränkungen der prähistorischen Geschichte wider als den Zusammenbruch einer festen Tatsache. Selbst wenn Richards’ Korrektur akzeptiert wird, ist die linguistische Schlussfolgerung, dass sich die Austronesier von Taiwan abgespalten haben, nicht erschüttert; die wirklich offene Frage ist: „Sind die Menschen der Sprache gefolgt?“
 
-## Nusantara: Ein Begriff aus dem 14. Jahrhundert, eine Kartenwelt
+## Nusantara: Ein Begriff des 14. Jahrhunderts, eine Karte der Inselwelt
 
-Um das „Archipel-Denken“ zu verstehen, muss man zuerst den Begriff **Nusantara** verstehen.
+Um das „Insel-Denken“ zu verstehen, muss man zunächst einen Begriff begreifen: **Nusantara**.
 
-Dieser Begriff setzt sich aus zwei Wurzeln zusammen. **Nusa** stammt aus dem alten Javanischen und bedeutet „Insel“. Rückverfolgt weiter, geht es auf _nusa_ im Proto-Malaiischen zurück: dies ist ein Wort der Vorfahren der Austronesier; das Konzept der „Insel“ in den indigenen Sprachen Taiwans lebt in jeder Austronesischen Sprache. **Antara** ist ein Lehnwort aus dem Sanskrit und bedeutet „zwischen“, „intermediär“. Zusammen ergibt Nusantara = **„die Inseln dazwischen“, „die verstreuten Inselgruppen“** [^13].
+Dieses Wort setzt sich aus zwei Wurzeln zusammen. **Nusa** stammt aus dem Altjavanesischen und bedeutet „Insel“. Geht man noch weiter zurück, findet sich die Wurzel \*nusa im Proto-Malayo-Polynesischen: Dies ist ein Begriff der austronesischen Vorfahren. Das bedeutet, dass das Konzept von „Insel“, das in den Sprachen der indigenen Völker Taiwans verwurzelt ist, in jeder einzelnen austronesischen Sprache weiterlebt. **Antara** ist ein Lehnwort aus dem Sanskrit und bedeutet „zwischen“ oder „intermediär“. Zusammen ergibt Nusantara = **„Die Inseln dazwischen“ oder „die verstreuten Inseln zwischen den Grenzen“**[^13].
 
-Dieser Begriff tauchte erstmals im 14. Jahrhundert in den alten Texten Javas, _Pararaton_ und _Nagarakretagama_, auf. Im Jahr 1336 erklärte der Premierminister **Gajah Mada** des **Majapahit-Reiches** in Ostjava bei seiner Krönung das berühmte „Palapa-Eid“ (Sumpah Palapa): „Bevor ich ganz Nusantara erobert habe, werde ich kein speziertes Essen essen“ [^14].
+Der Begriff tauchte erstmals im 14. Jahrhundert in den altjavanesischen Dokumenten 《Pararaton》 und 《Nagarakretagama》 auf. Im Jahr 1336 sprach **Gajah Mada**, der Premierminister des ostjavanesischen **Majapahit-Reiches**, bei seiner Amtseinführung den berühmten „**Palapa-Schwur**“ (Sumpah Palapa): „Bevor ich ganz Nusantara erobere, werde ich keine Speisen mit Gewürzen zu mir nehmen“[^14].
 
-Das Nusantara dieser Zeit bezeichnete **die Außinseln jenseits von Java**: Sumatra, Borneo, Sulawesi, die malaiische Halbinsel und sogar Luzon. Die heutige Indonesien verwendet diesen Begriff immer noch als Bezeichnung für die Inselgruppen: Als Indonesien 2022 seine Hauptstadt verlegte, hieß der neue Hauptsitz **Nusantara** [^15].
+Damals bezog sich Nusantara auf die **peripheren Inseln außerhalb von Java**: Sumatra, Borneo, Sulawesi, die Malaiische Halbinsel und sogar bis weit nach Luzon. Das heutige Indonesien verwendet diesen Begriff immer noch als Bezeichnung für das Archipel selbst: Als Indonesien 2022 den Umzug der Hauptstadt bekannt gab, erhielt die neue Hauptstadt den Namen **Nusantara**[^15].
 
-Aber die Verwendung von Nusantara in diesem Artikel unterscheidet sich von der territorialen Vorstellung des indonesischen Nationalismus. Wir leihen uns die **kulturgeographische Bedeutung dieses Begriffs**, die älter ist als moderne Nationalstaaten: eine Welt, die das Südchinesische Meer und den Westpazifik überspannt und aus über 24.000 Inseln besteht, in der Menschen, Objekte, Sprachen und Glaubensvorstellungen zwischen Inseln und Land häufiger zirkulierten als innerhalb des Landes.
+Die Verwendung von Nusantara in diesem Artikel unterscheidet sich jedoch von der territorialen Vorstellung indonesischer Nationalisten. Wir leihen uns die **kulturgeografische Bedeutung des Begriffs aus einer Zeit vor den modernen Nationalstaaten**: Eine Welt, die das Südchinesische Meer und den Westpazifik überspannt und aus mehr als 24.000 Inseln besteht, in der der Austausch von Menschen, Gütern, Sprachen und Glaubensvorstellungen zwischen den Inseln intensiver ist als zwischen dem Festland und den Inseln.
 
-Wenn man diese Karte entrollt, ist Taiwans Position nicht am Rand, sondern am **Nordostrand**.
+Breitet man diese Karte aus, liegt Taiwan nicht am Rande, sondern am **nordöstlichen Ende**.
 
 ## Lebendige Zeugnisse von Lanyu: Zwei Völker mit 60 % Gemeinsamkeiten
 
@@ -244,54 +246,54 @@ Wenn dir das nächste Mal jemand fragt: „Wo gehört Taiwan eigentlich hin?“,
 
 ## Referenzen
 
-[^1]: [Das Geheimnis der prähistorischen Kultur Taiwans: Die Jade, die Jahrtausende überbrachte](https://scitechvista.nat.gov.tw/Article/c000003/detail?ID=845b2ab5-17b8-497b-ad62-81697ae03d0e) — Spezialartikel des Ministry of Science and Technology (Kaohsiung), der dokumentiert, wie Fengtian-Jade durch den transozeanischen Handel nach Luzon, Palawan, Vietnam, Kambodscha und Thailand gelangte.
+[^1]: [Geheimnisse der prähistorischen Kultur Taiwans: Taiwan-Jade, die über Jahrtausende Tausende von Kilometern verbreitet wurde](https://scitechvista.nat.gov.tw/Article/c000003/detail?ID=845b2ab5-17b8-497b-ad62-81697ae03d0e) — Ein Fachartikel des Ministry of Science and Technology (MOST) Science Garden, der dokumentiert, wie Jade aus Fengtian, Hualien, über den Seehandel zu prähistorischen Stätten auf Luzon, Palawan, Vietnam, Kambodscha und Thailand gelangte.
 
-[^2]: [Beinan-Stätte](https://zh.wikipedia.org/zh-tw/%E5%8D%91%E5%8D%97%E9%81%BA%E5%9D%80) — Wikipedia-Eintrag zur Beinan-Stätte, die die prähistorische Siedlung dokumentiert, die 1980 bei Bau der Nanhuai Eisenbahn zufällig entdeckt wurde (Alter: 5300–2300 Jahre).
+[^2]: [Beinan-Fundstätte](https://zh.wikipedia.org/zh-tw/%E5%8D%91%E5%8D%97%E9%81%BA%E5%9D%80) — Wikipedia-Eintrag zur Beinan-Fundstätte, die eine prähistorische Siedlung beschreibt, die 1980 während der Bauarbeiten für die Nantou-Eisenbahn zufällig entdeckt wurde und etwa 5300 bis 2300 Jahre alt ist.
 
-[^3]: [Beinan-Stätten-Ausstellung enthüllt neue Highlights: „Seehandel von Taiwan-Jade“ startet](https://www.moc.gov.tw/News_Content.aspx?n=105&s=230332) — Pressemitteilung des Kulturministeriums, die den Start der neuen Ausstellungseinheit „Seetransport von Taiwanesischer Jade“ ankündigt.
+[^3]: [Neue Highlights in der Beinan-Fundstätte: „Der Seehandel mit Taiwan-Jade“ startet](https://www.moc.gov.tw/News_Content.aspx?n=105&s=230332) — Pressemitteilung des Kulturministeriums aus dem Jahr 2024, die den Start der neuen Ausstellungseinheit „Der Seehandel mit Taiwan-Jade“ im Beinan Archaeological Park ankündigt.
 
-[^4]: [„Taiwanesische Jade“ exportiert ins Ausland](https://scitechvista.nat.gov.tw/Article/C000003/detail?ID=3255f20d-b29a-476b-9c3f-d3630ea41eca) — Spezialartikel des Ministry of Science and Technology (Kaohsiung), der die prähistorischen Werkstätten und Herstellungstechniken in der Cigan-Stätte in Hualien detailliert beschreibt.
+[^4]: [„Taiwan-Jade“ im Export ins Ausland](https://scitechvista.nat.gov.tw/Article/C000003/detail?ID=3255f20d-b29a-476b-9c3f-d3630ea41eca) — Ein Fachartikel des Science Garden, der die prähistorischen Jade-Werkstätten und Herstellungstechniken detailliert beschreibt, die in der Cigan-Fundstätte in Hualien ausgegraben wurden.
 
-[^5]: [The Batanes Archaeological Project and the "Out of Taiwan" Hypothesis for Austronesian Dispersal](https://www.airitilibrary.com/Article/Detail/18151701-200506-201208310020-201208310020-1-33) — Bellwood, Peter, & Dizon, Eusebio. (2005). _Journal of Austronesian Studies_, 1(1), 1-33. — Ergebnisse des archäologischen Projekts, das von der National University of Australia, dem National Museum of the Philippines und der University of the Philippines zwischen 2002 und 2005 durchgeführt wurde.
+[^5]: [The Batanes Archaeological Project and the "Out of Taiwan" Hypothesis for Austronesian Dispersal](https://www.airitilibrary.com/Article/Detail/18151701-200506-201208310020-201208310020-1-33) — Bellwood, Peter, & Dizon, Eusebio. (2005). _Journal of Austronesian Studies_, 1(1), 1-33. — Ergebnisse eines archäologischen Projekts der Australian National University, des Nationalen Museums der Philippinen und der University of the Philippines im Zeitraum 2002–2005.
 
-[^6]: [Lapita culture - Wikipedia](https://en.wikipedia.org/wiki/Lapita_culture) — Die hohe Ähnlichkeit zwischen Lapita-Keramik und den Keramiken der Nagsabaran-Stätte auf Luzon ist ein materieller Beweis für die „Ausgangshypothese von Taiwan“.
+[^6]: [Lapita-Kultur - Wikipedia](https://en.wikipedia.org/wiki/Lapita_culture) — Die hohe Ähnlichkeit zwischen Lapita-Keramik und Keramik aus der Nagsabaran-Fundstätte auf Luzon ist eines der materiell-kulturellen Beweise für die „Out of Taiwan“-Hypothese.
 
-[^7]: [Lapita culture | Polynesia, Melanesia, Micronesia](https://www.britannica.com/topic/Lapita-culture) — Ein zusammenfassender Eintrag in Britannica über die Ausbreitungswege der Lapita-Kultur (ca. 1600 v. Chr. bis 500 v. Chr.).
+[^7]: [Lapita-Kultur | Polynesien, Melanesien, Mikronesien](https://www.britannica.com/topic/Lapita-culture) — Ein umfassender Britannica-Eintrag über die Ausbreitungswege der Lapita-Kultur (ca. 1600 v. Chr. bis 500 v. Chr.).
 
-[^8]: [The Austronesian Homeland: A Linguistic Perspective](https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/8ecf4de6-7b99-40aa-b5fe-0d829b68998c/content) — Blust, Robert. (1984). _Asian Perspectives_, 26(1), 45-67. — Der wegweisende Aufsatz von Blust, der die linguistische Grundlage für die „Taiwan-Ursprungshypothese“ der Austronesier legte.
+[^8]: [The Austronesian Homeland: A Linguistic Perspective](https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/8ecf4de6-7b99-40aa-b5fe-0d829b68998c/content) — Blust, Robert. (1984). _Asian Perspectives_, 26(1), 45-67. — Ein bahnbrechender Aufsatz von Blust, der die linguistische Grundlage für die „Out of Taiwan“-Hypothese der austronesischen Sprachfamilie legte.
 
-[^9]: [An Interview with Professor Robert Blust: "Austronesian Expansion Out of Taiwan is One of the Greatest Chapters in Human History"](https://taiwaninsight.org/2022/02/23/an-interview-with-professor-robert-blust-austronesian-expansion-out-of-taiwan-is-one-of-the-greatest-chapters-in-human-history/) — Ein Interview von Taiwan Insight im Jahr 2022, in dem Blust die Argumentation darlegt, dass neun der zehn primären Zweige der Austronesier in Taiwan ansässig sind.
+[^9]: [Ein Interview mit Professor Robert Blust: „Die austronesische Expansion aus Taiwan ist eines der bedeutendsten Kapitel der Menschheitsgeschichte"](https://taiwaninsight.org/2022/02/23/an-interview-with-professor-robert-blust-austronesian-expansion-out-of-taiwan-is-one-of-the-greatest-chapters-in-human-history/) — Ein Interview von Taiwan Insight aus dem Jahr 2022, in dem Blust die Argumentationslogik erläutert, warum neun der zehn großen austronesischen Sprachfamilien in Taiwan beheimatet sind.
 
-[^10]: Bellwood, Peter. (2017). _First Islanders: Prehistory and Human Migration in Island Southeast Asia_. Wiley-Blackwell. — Das Hauptwerk von Bellwood, das die „Ausgangshypothese von Taiwan“ aus der materiellen Kultur beleuchtet.
+[^10]: Bellwood, Peter. (2017). _First Islanders: Prehistory and Human Migration in Island Southeast Asia_. Wiley-Blackwell. — Ein repräsentatives Werk von Bellwood, das die „Out of Taiwan“-Hypothese aus der Perspektive der materiellen prähistorischen Kultur systematisch untermauert.
 
-[^11]: [Language Phylogenies Reveal Expansion Pulses and Pauses in Pacific Settlement](https://pmc.ncbi.nlm.nih.gov/articles/PMC2835747/) — Gray, R. D., Drummond, A. J., & Greenhill, S. J. (2009). _Science_, 323(5913), 479-483. — Die Bayes’sche phylogenetische Analyse von 400 Austronesischen Sprachen ergab eine Expansionszeit von etwa 5230 Jahren vor Taiwan.
+[^11]: [Language Phylogenies Reveal Expansion Pulses and Pauses in Pacific Settlement](https://pmc.ncbi.nlm.nih.gov/articles/PMC2835747/) — Gray, R. D., Drummond, A. J., & Greenhill, S. J. (2009). _Science_, 323(5913), 479-483. — Eine Analyse von 400 austronesischen Sprachen mittels bayesianischer phylogenetischer Methoden, die eine Ausbreitung von Taiwan vor etwa 5230 Jahren misst.
 
-[^12]: [Pflanzen-DNA schreibt Geschichte! Die Migrationsgeschichte der Austronesier, erzählt durch die Baumpflanze](https://research.sinica.edu.tw/paper-mulberry-dna-austronesian-history-chung-kuo-fang/) — Ein Spezialinterview vom Academia Sinica, das die Forschung des Teams von Chung Kuo-fang zur Unterstützung der „Taiwan-Ursprungshypothese“ aus einer biogeographischen Perspektive mittels Baumpflanzen-DNA vorstellt.
+[^12]: [Pflanzen-DNA schreibt Geschichte! Die Migrationsgeschichte der austronesischen Völker anhand des Papierholzes](https://research.sinica.edu.tw/paper-mulberry-dna-austronesian-history-chung-kuo-fang/) — Ein Interview von Academia Sinica „Yan Zhi You Wu“, das vorstellt, wie das Team von Zhong Guo-fang die „Out of Taiwan“-Hypothese aus biogeographischer Sicht mithilfe der DNA des Papierholzes (Broussonetia papyrifera) stützt.
 
-[^13]: [Nusantara (Begriff) - Wikipedia](https://en.wikipedia.org/wiki/Nusantara_(term) — Eine vollständige etymologische Untersuchung des Begriffs Nusantara: _nusa_ (Insel) aus dem alten Javanischen + Lehnwort _antara_ (zwischen) aus dem Sanskrit.
+[^13]: [Nusantara (Begriff) - Wikipedia](<https://en.wikipedia.org/wiki/Nusantara_(term)>) — Vollständige Etymologie von Nusantara: Altes Javanisch _nusa_ (Insel) + Sanskrit-Lehnwort _antara_ (zwischen).
 
-[^14]: [Majapahit - Wikipedia](https://en.wikipedia.org/wiki/Majapahit) — Der Eintrag zum Majapahit-Reich in Ostjava im 14. Jahrhundert, der den historischen Hintergrund des „Palapa-Eids“ von Gajah Mada im Jahr 1336 enthält.
+[^14]: [Majapahit - Wikipedia](https://en.wikipedia.org/wiki/Majapahit) — Wikipedia-Eintrag zum Majapahit-Reich in Ostjava im 14. Jahrhundert, einschließlich des historischen Hintergrunds von Gajah Madas „Palapa-Schwur“ im Jahr 1336.
 
-[^15]: [Nusantara and its changing meanings](https://en.antaranews.com/news/211097/nusantara-and-its-changing-meanings) — Ein Bericht der staatlichen Nachrichtenagentur Antara über die Entwicklung des Begriffs Nusantara vom territorialen Konzept im 14. Jahrhundert bis zum Namen der neuen Hauptstadt im Jahr 2022.
+[^15]: [Nusantara und seine wechselnden Bedeutungen](https://en.antaranews.com/news/211097/nusantara-and-its-changing-meanings) — Ein Bericht der indonesischen Nachrichtenagentur Antara über die Entwicklung des Begriffs Nusantara von einem territorialen Konzept im 14. Jahrhundert bis hin zum Namen der neuen Hauptstadt im Jahr 2022.
 
-[^16]: [Tao - Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%81%94%E6%82%9F%E6%97%8F) — Der Wikipedia-Eintrag zu den Tao dokumentiert die lexikalische Ähnlichkeit von etwa 60 % zwischen der Sprache der Tao und der Sprache der Bewohner von Batanes.
+[^16]: [Yami (Tao) - Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%81%94%E6%82%9F%E6%97%8F) — Wikipedia-Eintrag über das Volk der Yami, der eine Ähnlichkeit von etwa 60 % zwischen der Yami-Sprache und den Sprachen der Bewohner der nördlichen Batanes-Inseln dokumentiert wird.
 
-[^17]: [Die Geschichte von Lanyu und Batanes](https://ihc.cip.gov.tw/EJournal/EJournalCat/78) — Ein Spezialwerk des indigenen Volkskomitees, das die materielle Kultur korreliert, die in prähistorischen Gräbern auf Lanyu und den gleichzeitigen Stätten auf Batanes gefunden wurde.
+[^17]: [Die Geschichte von Lanyu und den Batanes-Inseln](https://ihc.cip.gov.tw/EJournal/EJournalCat/78) — Ein Thema des Literaturarchivs für indigene Völker, das die Korrespondenz zwischen in Lanyu ausgegrabenen Jadeobjekten, Tontöpfen und Glasperlen und der materiellen Kultur zeitgenössischer Fundstätten auf den Batanes dokumentiert.
 
-[^18]: [Die Vorfahren der Tao wurden vor tausend Jahren auf den Philippinen beerdigt; Nachkommen suchen Spuren auf Batanes](https://www.thenewslens.com/article/121265) — Ein kritischer Bericht von einer Online-Plattform über die Reisen der Tao nach Batanes in den 1990er Jahren.
+[^18]: [Vorfahren der Yami starben vor tausend Jahren auf den Philippinen; Nachfahren suchen ihre Spuren auf den Batanes-Inseln](https://www.thenewslens.com/article/121265) — Ein Bericht von The News Net über die Aktivitäten der Yami, die seit den 1990er Jahren mehrfach Gruppenreisen zur Rückbesinnung auf ihre Wurzeln nach Batanes unternommen haben.
 
-[^19]: [Indigene Völker des Austronesischen Raumes - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%8D%97%E5%B2%9B%E6%B0%91%E6%97%8F) — Der Eintrag zu den indigenen Völkern der Austronesier zeigt, dass die Sprache der Tao zum Malayo-Polynesischen gehört und eine fernere Beziehung zu den neun Formosan-Zweigen auf dem Festland Taiwans hat.
+[^19]: [Austronesier - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%8D%97%E5%B2%9B%E6%B0%91%E6%97%8F) — Wikipedia-Eintrag zur austronesischen Sprachfamilie; die Yami-Sprache gehört zur malayo-polynesischen Sprachfamilie und steht in entfernter Beziehung zu den neun Formosa-Sprachgruppen des taiwanesischen Festlands.
 
-[^20]: [Hermeneutics of Nusantara Archipel-Hermeneutik](https://www.heath.tw/nml-issue/hermeneutics-of-nusantara/) — Das Editorial von Ausgabe 34 von _No Man's Land_ (September 2017), in dem Cheng Wen-chi das Projekt „Archipels-Datenbank“ offiziell initiierte.
+[^20]: [Hermeneutics of Nusantara: Inselhermeneutik](https://www.heath.tw/nml-issue/hermeneutics-of-nusantara/) — Redaktionsnotiz zur 34. Ausgabe von „No Man's Land“ (NML, September 2017), in der Zheng Wen-qi offiziell das Projekt „Archipel-Datenbank“ initiiert.
 
-[^21]: [Vollständiges Dokument von No Man's Land, Ausgabe 34](https://www.heath.tw/nml-issue/hermeneutics-of-nusantara/) — Cheng Wen-chi, „Editorial of Hermeneutics of Nusantara“, _No Man's Land_, Ausgabe 34, September 2017. Siehe.
+[^21]: [Vollständiges Dokument der 34. Ausgabe von No Man's Land](https://www.heath.tw/nml-issue/hermeneutics-of-nusantara/) — Zheng Wen-qi, „Hermeneutics of Nusantara Redaktionsnotiz“, in _No Man's Land_, 34. Ausgabe, September 2017. Siehe.
 
-[^22]: Wei Yueping, „Die Erfahrung von Okinawa – die Beziehung zwischen Wissenselite und Bevölkerung“, zitiert in Cheng Wen-chis Editorial _Hermeneutics of Nusantara_, _No Man's Land_, Ausgabe 34.
+[^22]: Wei Yue-ping, „Okinawa-Erfahrung – Das Verhältnis zwischen Intellektuellen und der Bevölkerung“, zitiert von Zheng Wen-qi in „Hermeneutics of Nusantara Redaktionsnotiz“, _No Man's Land_, 34. Ausgabe.
 
-[^23]: Anderson, Benedict. (2016). _A Life Beyond Boundaries: A Memoir_. Verso. — Die Autobiografie von Benedict Anderson, die das methodische Argument „Vergleich als diskursive Strategie“ enthält und in NML Ausgabe 34 zitiert wurde.
+[^23]: Anderson, Benedict. (2016). _A Life Beyond Boundaries: A Memoir_. Verso. — Die Autobiografie von Benedict Anderson, in der er die methodische Position des „Vergleichs als Diskursstrategie“ vertritt; zitiert von Zheng Wen-qi in NML Ausgabe 34.
 
-[^24]: [Die Austronesische Diplomatie Taiwans](https://www.iia.ndhu.edu.tw/%E5%8F%B0%E7%81%A3%E7%9A%84%E5%8D%97%E5%B3%B6%E6%B0%91%E6%97%8F%E5%A4%96%E4%BA%A4/) — Das Internationale Zentrum für indigeneswesen der National Taiwan University stellt den Prozess vor, wie Taiwan seit 1993 am Pacific Islands Forum (PIF) teilnimmt.
+[^24]: [Taiwans Austronesische Ethnische Diplomatie](https://www.iia.ndhu.edu.tw/%E5%8F%B0%E7%81%A3%E7%9A%84%E5%8D%97%E5%B3%B6%E6%B0%91%E6%97%8F%E5%A4%96%E4%BA%A4/) — Vorstellung des Internationalen Zentrums für Angelegenheiten indigener Völker der Nationalen Dong Hwa Universität über den Prozess Taiwans seit 1993 bei der Teilnahme am Pacific Islands Forum (PIF).
 
-[^25]: [„Planung und Strategie zur Nutzung des Wertediplomatie-Ansatzes in Verbindung mit Austronesischen Nationen“](https://ppg.ly.gov.tw/ppg/SittingAttachment/download/2025050167/PPGB60500_4100_20723_1140507_0002.pdf) — Außenministerium der Republik China, Diplomatische und Verteidigungskommission des Parlaments, 11. Legislaturperiode, 3. Sitzungsperiode, 7. Mai 2025.
+[^25]: [Sonderbericht: „Verbindung der Konzepte der integrierten Gesamtdiplomatie mit austronesischen Sprachländern zur Umsetzung der Vision einer Wertediplomatie“](https://ppg.ly.gov.tw/ppg/SittingAttachment/download/2025050167/PPGB60500_4100_20723_1140507_0002.pdf) — Außenministerium der Republik China (Taiwan), Ausschuss für Außenpolitik und Verteidigung des 11. Legislativ-Yuan, 3. Sitzungsperiode, 7. Mai 2025.
 
-[^26]: [National Taiwan Museum of Prasejarah kehrt zurück! Neubewertung der Objekte aus kuratorischer Sicht](https://www.wowlavie.com/article/ae2300565) — Bericht von _La Vie_ im Jahr 2023 über die Fertigstellung der Renovierung des Museums und die Wiedereröffnung im Mai.
+[^26]: [Rückkehr des Nationalen Museums für prähistorische Kultur Taiwans! Neustrukturierung von Architektur und Objekten aus kuratorischer Sicht](https://www.wowlavie.com/article/ae2300565) — Ein Bericht der Zeitschrift La Vie aus dem Jahr 2023, wonach das Hauptgebäude des prähistorischen Museums nach einer architektonischen Neugestaltung im Mai wieder für die Öffentlichkeit geöffnet wurde.

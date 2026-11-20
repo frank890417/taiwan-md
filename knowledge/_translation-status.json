@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-20T08:32:17+08:00",
-    "zhCommitHead": "6fbb083275",
-    "totalZh": 1191,
+    "lastUpdated": "2026-11-20T09:33:02+08:00",
+    "zhCommitHead": "948473d962",
+    "totalZh": 1192,
     "activeLanguages": [
       "en",
       "ja",
@@ -19,99 +19,99 @@
     ],
     "summary": {
       "en": {
-        "total_zh": 1191,
-        "fresh": 1176,
-        "stale": 9,
+        "total_zh": 1192,
+        "fresh": 1174,
+        "stale": 12,
         "metadata_stale": 1,
         "missing": 5,
         "orphan": 0
       },
       "ja": {
-        "total_zh": 1191,
-        "fresh": 1181,
-        "stale": 6,
-        "metadata_stale": 2,
-        "missing": 2,
-        "orphan": 0
-      },
-      "ko": {
-        "total_zh": 1191,
-        "fresh": 1180,
-        "stale": 7,
-        "metadata_stale": 4,
-        "missing": 0,
-        "orphan": 0
-      },
-      "es": {
-        "total_zh": 1191,
-        "fresh": 1172,
-        "stale": 11,
-        "metadata_stale": 5,
-        "missing": 3,
-        "orphan": 0
-      },
-      "fr": {
-        "total_zh": 1191,
+        "total_zh": 1192,
         "fresh": 1179,
-        "stale": 8,
-        "metadata_stale": 3,
+        "stale": 10,
+        "metadata_stale": 2,
         "missing": 1,
         "orphan": 0
       },
+      "ko": {
+        "total_zh": 1192,
+        "fresh": 1176,
+        "stale": 11,
+        "metadata_stale": 4,
+        "missing": 1,
+        "orphan": 0
+      },
+      "es": {
+        "total_zh": 1192,
+        "fresh": 1168,
+        "stale": 15,
+        "metadata_stale": 5,
+        "missing": 4,
+        "orphan": 0
+      },
+      "fr": {
+        "total_zh": 1192,
+        "fresh": 1175,
+        "stale": 12,
+        "metadata_stale": 3,
+        "missing": 2,
+        "orphan": 0
+      },
       "vi": {
-        "total_zh": 1191,
-        "fresh": 1156,
-        "stale": 22,
+        "total_zh": 1192,
+        "fresh": 1153,
+        "stale": 26,
         "metadata_stale": 5,
         "missing": 8,
         "orphan": 0
       },
       "id": {
-        "total_zh": 1191,
-        "fresh": 1171,
-        "stale": 10,
+        "total_zh": 1192,
+        "fresh": 1167,
+        "stale": 14,
         "metadata_stale": 4,
-        "missing": 6,
+        "missing": 7,
         "orphan": 0
       },
       "pt": {
-        "total_zh": 1191,
-        "fresh": 1178,
-        "stale": 7,
-        "metadata_stale": 2,
-        "missing": 4,
+        "total_zh": 1192,
+        "fresh": 1177,
+        "stale": 11,
+        "metadata_stale": 1,
+        "missing": 3,
         "orphan": 0
       },
       "hi": {
-        "total_zh": 1191,
-        "fresh": 1149,
-        "stale": 26,
+        "total_zh": 1192,
+        "fresh": 1148,
+        "stale": 30,
         "metadata_stale": 6,
-        "missing": 10,
+        "missing": 8,
         "orphan": 0
       },
       "ar": {
-        "total_zh": 1191,
-        "fresh": 1165,
-        "stale": 12,
-        "metadata_stale": 5,
+        "total_zh": 1192,
+        "fresh": 1164,
+        "stale": 15,
+        "metadata_stale": 4,
         "missing": 9,
         "orphan": 0
       },
       "ru": {
-        "total_zh": 1191,
-        "fresh": 1186,
-        "stale": 4,
+        "total_zh": 1192,
+        "fresh": 1182,
+        "stale": 8,
         "metadata_stale": 0,
-        "missing": 1,
+        "missing": 2,
         "orphan": 0
       },
       "de": {
-        "total_zh": 1191,
-        "fresh": 1147,
-        "stale": 28,
+        "total_zh": 1192,
+        "fresh": 1144,
+        "stale": 31,
         "metadata_stale": 9,
-        "missing": 7,
+        "missing": 8,
         "orphan": 0
       }
     },
@@ -8994,7 +8994,20 @@
           "status": "missing"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Economy/national-debt-clock.md",
+          "translatedFrom": "Economy/國債鐘.md",
+          "sourceCommitSha": "cd9d99cf71",
+          "sourceContentHash": "sha256:804cb929e49d0000",
+          "sourceBodyHash": "sha256:c90510ae0ea9b7ac",
+          "translatedAt": "2026-11-20T03:56:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 3,
+          "bytes": 10427,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Economy/national-debt-clock.md",
@@ -9626,20 +9639,18 @@
         "ar": {
           "path": "ar/Economy/industrial-transformation-from-manufacturing-to-innovation.md",
           "translatedFrom": "Economy/台灣產業轉型升級.md",
-          "sourceCommitSha": "d6377e82e",
-          "sourceContentHash": "sha256:e6cb5dd5b7d9e8ed",
+          "sourceCommitSha": "f024e87e7a",
+          "sourceContentHash": "sha256:d25d9026ab841b3f",
           "sourceBodyHash": "sha256:ebbc94611dc1b8f9",
-          "translatedAt": "2026-07-27T01:41:54+08:00",
+          "translatedAt": "2026-11-20T03:57:19+08:00",
           "translationLastCommit": "f1daf600",
           "translationLastModified": "2026-10-10T23:14:31+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "bytes": 48778,
+          "bytes": 48611,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Economy/industrial-transformation-from-manufacturing-to-innovation.md",
@@ -12846,7 +12857,20 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Economy/natural-gas.md",
+          "translatedFrom": "Economy/天然氣.md",
+          "sourceCommitSha": "9735c8f0fc",
+          "sourceContentHash": "sha256:c4142cf41e8ce62a",
+          "sourceBodyHash": "sha256:bcff4dd1bdc63d15",
+          "translatedAt": "2026-11-20T03:57:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 1,
+          "bytes": 21067,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -16530,7 +16554,20 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Economy/insured-salary-ceiling.md",
+          "translatedFrom": "Economy/投保薪資的天花板.md",
+          "sourceCommitSha": "8e7036ddb5",
+          "sourceContentHash": "sha256:945474d4c297700a",
+          "sourceBodyHash": "sha256:f7975ef2c038bd34",
+          "translatedAt": "2026-11-20T03:56:56+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "bytes": 23732,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/insured-salary-ceiling.md",
@@ -17453,6 +17490,52 @@
         }
       }
     },
+    "Economy/稅收結構.md": {
+      "zh": {
+        "lastCommit": "7d5fb374",
+        "lastModified": "2026-11-19T22:03:11+08:00",
+        "contentHash": "sha256:e67421aeb01e9408",
+        "bodyHash": "sha256:8127980ebbc69258"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        },
+        "de": {
+          "status": "missing"
+        }
+      }
+    },
     "Economy/台灣企業：台塑集團.md": {
       "zh": {
         "lastCommit": "be13f045",
@@ -18073,7 +18156,20 @@
           "status": "missing"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Economy/taiwan-solar-power.md",
+          "translatedFrom": "Economy/太陽光電.md",
+          "sourceCommitSha": "24f563e646",
+          "sourceContentHash": "sha256:f5a4019a85575efd",
+          "sourceBodyHash": "sha256:84909ece10eb2627",
+          "translatedAt": "2026-11-20T03:56:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 1,
+          "bytes": 10784,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Economy/taiwan-solar-power.md",
@@ -18133,7 +18229,20 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Economy/taiwan-solar-power.md",
+          "translatedFrom": "Economy/太陽光電.md",
+          "sourceCommitSha": "24f563e646",
+          "sourceContentHash": "sha256:f5a4019a85575efd",
+          "sourceBodyHash": "sha256:84909ece10eb2627",
+          "translatedAt": "2026-11-20T03:57:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 1,
+          "bytes": 19675,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -23962,7 +24071,20 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Economy/nhi-expenditure-structure.md",
+          "translatedFrom": "Economy/健保支出結構.md",
+          "sourceCommitSha": "f5ae38566",
+          "sourceContentHash": "sha256:7db2e846643ff4a7",
+          "sourceBodyHash": "sha256:92955c90c705f71b",
+          "translatedAt": "2026-11-20T02:23:20+08:00",
+          "translationLastCommit": "14231963",
+          "translationLastModified": "2026-11-20T02:32:37+08:00",
+          "inferred": false,
+          "footnoteDefs": 1,
+          "bytes": 17756,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Economy/nhi-expenditure-structure.md",
@@ -54688,7 +54810,20 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Lifestyle/balance-billing-for-medical-devices.md",
+          "translatedFrom": "Lifestyle/自付差額特材.md",
+          "sourceCommitSha": "98c5886d3",
+          "sourceContentHash": "sha256:b5166c871cfd0348",
+          "sourceBodyHash": "sha256:a219f86ea43c10af",
+          "translatedAt": "2026-11-20T02:23:20+08:00",
+          "translationLastCommit": "2f503675",
+          "translationLastModified": "2026-11-20T02:35:23+08:00",
+          "inferred": false,
+          "footnoteDefs": 1,
+          "bytes": 16820,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Lifestyle/balance-billing-for-medical-devices.md",
@@ -54726,10 +54861,10 @@
     },
     "Lifestyle/台灣捷運發展史.md": {
       "zh": {
-        "lastCommit": "b1a5fea0",
-        "lastModified": "2026-11-17T08:06:27+08:00",
-        "contentHash": "sha256:fa054e970fa0164b",
-        "bodyHash": "sha256:8a8a123d1183a1a8"
+        "lastCommit": "65029730",
+        "lastModified": "2026-11-19T22:21:58+08:00",
+        "contentHash": "sha256:a2625abf2f2c9ac6",
+        "bodyHash": "sha256:be7ef9d711a97133"
       },
       "translations": {
         "en": {
@@ -54745,8 +54880,10 @@
           "footnoteDefs": 0,
           "bytes": 27546,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/Lifestyle/history-of-taiwan-mrt-development.md",
@@ -54761,8 +54898,10 @@
           "footnoteDefs": 0,
           "bytes": 31877,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/Lifestyle/history-of-taiwan-mrt-development.md",
@@ -54777,8 +54916,10 @@
           "footnoteDefs": 0,
           "bytes": 30589,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/Lifestyle/history-of-taiwan-mrt-development.md",
@@ -54793,8 +54934,10 @@
           "footnoteDefs": 0,
           "bytes": 26919,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/Lifestyle/history-of-taiwan-mrt-development.md",
@@ -54809,8 +54952,10 @@
           "footnoteDefs": 0,
           "bytes": 32534,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "vi": {
           "path": "vi/Lifestyle/history-of-taiwan-mrt-development.md",
@@ -54825,8 +54970,10 @@
           "footnoteDefs": 0,
           "bytes": 37266,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "id": {
           "path": "id/Lifestyle/history-of-taiwan-mrt-development.md",
@@ -54841,8 +54988,10 @@
           "footnoteDefs": 0,
           "bytes": 28992,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "pt": {
           "path": "pt/Lifestyle/history-of-taiwan-mrt-development.md",
@@ -54857,8 +55006,10 @@
           "footnoteDefs": 0,
           "bytes": 28268,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "hi": {
           "path": "hi/Lifestyle/history-of-taiwan-mrt-development.md",
@@ -54873,8 +55024,10 @@
           "footnoteDefs": 0,
           "bytes": 62012,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ar": {
           "path": "ar/Lifestyle/history-of-taiwan-mrt-development.md",
@@ -54889,8 +55042,10 @@
           "footnoteDefs": 0,
           "bytes": 37355,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ru": {
           "path": "ru/Lifestyle/history-of-taiwan-mrt-development.md",
@@ -54905,8 +55060,10 @@
           "footnoteDefs": 0,
           "bytes": 47824,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "de": {
           "path": "de/Lifestyle/history-of-taiwan-mrt-development.md",
@@ -54921,8 +55078,10 @@
           "footnoteDefs": 0,
           "bytes": 26407,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
@@ -66183,8 +66342,8 @@
           "sourceContentHash": "sha256:6b50bf67263d4e35",
           "sourceBodyHash": "sha256:86034c4bd0638cb8",
           "translatedAt": "2026-11-20T03:57:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "63f24437",
+          "translationLastModified": "2026-11-20T08:32:18+08:00",
           "inferred": false,
           "footnoteDefs": 1,
           "bytes": 23675,
@@ -67132,7 +67291,20 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Society/indigenous-language-policy.md",
+          "translatedFrom": "Society/原住民族語言政策.md",
+          "sourceCommitSha": "bc37ed4d8c",
+          "sourceContentHash": "sha256:32772071ae1ab735",
+          "sourceBodyHash": "sha256:694eda8fc7232fe6",
+          "translatedAt": "2026-11-20T03:57:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 3,
+          "bytes": 10964,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Society/indigenous-language-policy.md",
@@ -67141,8 +67313,8 @@
           "sourceContentHash": "sha256:32772071ae1ab735",
           "sourceBodyHash": "sha256:694eda8fc7232fe6",
           "translatedAt": "2026-11-20T03:57:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "63f24437",
+          "translationLastModified": "2026-11-20T08:32:18+08:00",
           "inferred": false,
           "footnoteDefs": 3,
           "bytes": 20890,
@@ -74532,7 +74704,20 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Society/taiwan-life-expectancy.md",
+          "translatedFrom": "Society/台灣平均餘命.md",
+          "sourceCommitSha": "04eecf4c4",
+          "sourceContentHash": "sha256:13ad9f4bddf2a29a",
+          "sourceBodyHash": "sha256:834d3f803cfd3af2",
+          "translatedAt": "2026-11-20T02:23:20+08:00",
+          "translationLastCommit": "83912eb1",
+          "translationLastModified": "2026-11-20T02:33:13+08:00",
+          "inferred": false,
+          "footnoteDefs": 4,
+          "bytes": 17135,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Society/taiwan-life-expectancy.md",
@@ -98253,20 +98438,18 @@
         "ar": {
           "path": "ar/Politics/city-councilor-system-taiwan.md",
           "translatedFrom": "Politics/議員制度.md",
-          "sourceCommitSha": "709d2dc03",
-          "sourceContentHash": "sha256:4b665d6e2920264b",
-          "sourceBodyHash": "sha256:41e02e02e0fbd229",
-          "translatedAt": "2026-10-23T01:39:37.927217+00:00",
+          "sourceCommitSha": "be13f04522",
+          "sourceContentHash": "sha256:00af5d0f37a777ff",
+          "sourceBodyHash": "sha256:9359ef48b07d6033",
+          "translatedAt": "2026-11-20T00:35:10.016365+00:00",
           "translationLastCommit": "e244b98b",
           "translationLastModified": "2026-10-23T10:28:35+08:00",
           "inferred": false,
           "footnoteDefs": 31,
-          "bytes": 56318,
+          "bytes": 57253,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 3,
-          "diffSummary": "+9 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Politics/city-councilor-system-taiwan.md",
@@ -99920,10 +100103,10 @@
     },
     "Politics/選舉造勢.md": {
       "zh": {
-        "lastCommit": "6226eb6a",
-        "lastModified": "2026-08-20T09:09:31+08:00",
-        "contentHash": "sha256:0f10426fa5e4f016",
-        "bodyHash": "sha256:f73fed3867526ad3"
+        "lastCommit": "65029730",
+        "lastModified": "2026-11-19T22:21:58+08:00",
+        "contentHash": "sha256:45c314ceb6ecba1a",
+        "bodyHash": "sha256:b2c8d53ba9aeeef9"
       },
       "translations": {
         "en": {
@@ -99939,8 +100122,10 @@
           "footnoteDefs": 20,
           "bytes": 20023,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+24 -4"
         },
         "ja": {
           "path": "ja/Politics/taiwan-campaign-rallies.md",
@@ -99955,8 +100140,10 @@
           "footnoteDefs": 20,
           "bytes": 21252,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+24 -4"
         },
         "ko": {
           "path": "ko/Politics/taiwan-campaign-rallies.md",
@@ -99971,8 +100158,10 @@
           "footnoteDefs": 20,
           "bytes": 20213,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+24 -4"
         },
         "es": {
           "path": "es/Politics/taiwan-campaign-rallies.md",
@@ -99987,8 +100176,10 @@
           "footnoteDefs": 20,
           "bytes": 23754,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+24 -4"
         },
         "fr": {
           "path": "fr/Politics/taiwan-campaign-rallies.md",
@@ -100003,8 +100194,10 @@
           "footnoteDefs": 20,
           "bytes": 24223,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+24 -4"
         },
         "vi": {
           "path": "vi/Politics/taiwan-campaign-rallies.md",
@@ -100019,8 +100212,10 @@
           "footnoteDefs": 20,
           "bytes": 25646,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+24 -4"
         },
         "id": {
           "path": "id/Politics/taiwan-campaign-rallies.md",
@@ -100035,8 +100230,10 @@
           "footnoteDefs": 20,
           "bytes": 19873,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+24 -4"
         },
         "pt": {
           "path": "pt/Politics/taiwan-campaign-rallies.md",
@@ -100051,8 +100248,10 @@
           "footnoteDefs": 20,
           "bytes": 20872,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+24 -4"
         },
         "hi": {
           "path": "hi/Politics/taiwan-campaign-rallies.md",
@@ -100067,8 +100266,10 @@
           "footnoteDefs": 20,
           "bytes": 43718,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+24 -4"
         },
         "ar": {
           "path": "ar/Politics/taiwan-campaign-rallies.md",
@@ -100083,8 +100284,10 @@
           "footnoteDefs": 20,
           "bytes": 29117,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+24 -4"
         },
         "ru": {
           "path": "ru/Politics/taiwan-campaign-rallies.md",
@@ -100099,8 +100302,10 @@
           "footnoteDefs": 20,
           "bytes": 34520,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+24 -4"
         },
         "de": {
           "path": "de/Politics/taiwan-campaign-rallies.md",
@@ -100115,8 +100320,10 @@
           "footnoteDefs": 20,
           "bytes": 21527,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+24 -4"
         }
       }
     },
@@ -113195,20 +113402,18 @@
         "pt": {
           "path": "pt/People/chiang-ching-kuo.md",
           "translatedFrom": "People/蔣經國.md",
-          "sourceCommitSha": "0d2389cec",
-          "sourceContentHash": "sha256:47672068ff2f222b",
+          "sourceCommitSha": "67c4c72fc4",
+          "sourceContentHash": "sha256:f9a8cbc00c40313a",
           "sourceBodyHash": "sha256:6f49b2d59aaa9fe7",
-          "translatedAt": "2026-09-10T20:24:58+08:00",
+          "translatedAt": "2026-11-20T00:32:54.161261+00:00",
           "translationLastCommit": "8baf7661",
           "translationLastModified": "2026-09-17T02:29:24+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 22132,
+          "bytes": 22488,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/chiang-ching-kuo.md",
@@ -141375,20 +141580,18 @@
         "de": {
           "path": "de/People/su-chiao-hui.md",
           "translatedFrom": "People/蘇巧慧.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:eb7e3bede251836b",
-          "sourceBodyHash": "sha256:8ae89739a53e0a1f",
-          "translatedAt": "2026-09-23T20:37:55+08:00",
+          "sourceCommitSha": "a3153ed166",
+          "sourceContentHash": "sha256:c8915f917f9448a9",
+          "sourceBodyHash": "sha256:e4d35852f02ecd0f",
+          "translatedAt": "2026-11-20T03:57:24+08:00",
           "translationLastCommit": "7f7799f0",
           "translationLastModified": "2026-09-23T20:50:39+08:00",
           "inferred": false,
           "footnoteDefs": 21,
-          "bytes": 19016,
+          "bytes": 25832,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 3,
-          "diffSummary": "+97 -82"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -160217,11 +160420,11 @@
           "sourceContentHash": "sha256:9e1b5b650e967399",
           "sourceBodyHash": "sha256:985c4de8119ecefa",
           "translatedAt": "2026-10-24T00:46:40.381611+00:00",
-          "translationLastCommit": "2d4d982a",
-          "translationLastModified": "2026-10-25T00:46:57+08:00",
+          "translationLastCommit": "c18cd9f1",
+          "translationLastModified": "2026-11-20T09:09:57+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "bytes": 30717,
+          "bytes": 30697,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -160393,11 +160596,11 @@
           "sourceContentHash": "sha256:9e1b5b650e967399",
           "sourceBodyHash": "sha256:985c4de8119ecefa",
           "translatedAt": "2026-10-24T01:37:26.566633+00:00",
-          "translationLastCommit": "2d4d982a",
-          "translationLastModified": "2026-10-25T00:46:57+08:00",
+          "translationLastCommit": "c18cd9f1",
+          "translationLastModified": "2026-11-20T09:09:57+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "bytes": 32735,
+          "bytes": 32720,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -186896,7 +187099,20 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/History/dominican-order-taiwan.md",
+          "translatedFrom": "History/道明會在台灣.md",
+          "sourceCommitSha": "24f563e646",
+          "sourceContentHash": "sha256:1bd7703941e67723",
+          "sourceBodyHash": "sha256:15228d1d82684e84",
+          "translatedAt": "2026-11-20T03:57:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 3,
+          "bytes": 13635,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -196836,20 +197052,18 @@
         "en": {
           "path": "en/History/kano-chiayi-agriculture-forestry.md",
           "translatedFrom": "History/嘉義農林.md",
-          "sourceCommitSha": "7147bb94b",
-          "sourceContentHash": "sha256:3dc0c353cf547397",
-          "sourceBodyHash": "sha256:01899a9de634067d",
-          "translatedAt": "2026-09-11T07:19:37+08:00",
+          "sourceCommitSha": "ef8369eef5",
+          "sourceContentHash": "sha256:7c8bc6c7b2870cad",
+          "sourceBodyHash": "sha256:c2c6980616f215c7",
+          "translatedAt": "2026-11-20T03:56:56+08:00",
           "translationLastCommit": "e64212f1",
           "translationLastModified": "2026-09-27T00:53:11+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 22076,
+          "bytes": 22088,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+16 -7"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/History/kano-chiayi-agriculture-forestry.md",
@@ -220861,10 +221075,10 @@
     },
     "Culture/原住民織布.md": {
       "zh": {
-        "lastCommit": "7c99cd4b",
-        "lastModified": "2026-08-21T19:24:54+08:00",
-        "contentHash": "sha256:d6b33427d383d025",
-        "bodyHash": "sha256:d806fd1fb93df2e0"
+        "lastCommit": "65029730",
+        "lastModified": "2026-11-19T22:21:58+08:00",
+        "contentHash": "sha256:e56ce4cd86cc45fe",
+        "bodyHash": "sha256:0221e0902ecca787"
       },
       "translations": {
         "en": {
@@ -220880,8 +221094,10 @@
           "footnoteDefs": 13,
           "bytes": 29847,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/Culture/indigenous-weaving-taiwan.md",
@@ -220896,8 +221112,10 @@
           "footnoteDefs": 13,
           "bytes": 33376,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/Culture/indigenous-weaving-taiwan.md",
@@ -220912,8 +221130,10 @@
           "footnoteDefs": 13,
           "bytes": 30022,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/Culture/indigenous-weaving-taiwan.md",
@@ -220928,8 +221148,10 @@
           "footnoteDefs": 13,
           "bytes": 34102,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/Culture/indigenous-weaving-taiwan.md",
@@ -220944,8 +221166,10 @@
           "footnoteDefs": 13,
           "bytes": 34951,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "vi": {
           "path": "vi/Culture/indigenous-weaving-taiwan.md",
@@ -220960,8 +221184,10 @@
           "footnoteDefs": 13,
           "bytes": 38348,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "id": {
           "path": "id/Culture/indigenous-weaving-taiwan.md",
@@ -220976,8 +221202,10 @@
           "footnoteDefs": 13,
           "bytes": 29312,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "pt": {
           "path": "pt/Culture/indigenous-weaving-taiwan.md",
@@ -220992,8 +221220,10 @@
           "footnoteDefs": 13,
           "bytes": 31819,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "hi": {
           "path": "hi/Culture/indigenous-weaving-taiwan.md",
@@ -221008,8 +221238,10 @@
           "footnoteDefs": 13,
           "bytes": 63634,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ar": {
           "path": "ar/Culture/indigenous-weaving-taiwan.md",
@@ -221024,8 +221256,10 @@
           "footnoteDefs": 13,
           "bytes": 41298,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ru": {
           "path": "ru/Culture/indigenous-weaving-taiwan.md",
@@ -221040,8 +221274,10 @@
           "footnoteDefs": 13,
           "bytes": 51126,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "de": {
           "path": "de/Culture/indigenous-weaving-taiwan.md",
@@ -221056,8 +221292,10 @@
           "footnoteDefs": 13,
           "bytes": 31441,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
@@ -228941,10 +229179,10 @@
     },
     "Culture/國家圖書館.md": {
       "zh": {
-        "lastCommit": "e974b4c9",
-        "lastModified": "2026-09-05T21:34:09+08:00",
-        "contentHash": "sha256:b188920097cf9184",
-        "bodyHash": "sha256:bf6baa44f84e7aa1"
+        "lastCommit": "65029730",
+        "lastModified": "2026-11-19T22:21:58+08:00",
+        "contentHash": "sha256:9bb0d26fbfa502a7",
+        "bodyHash": "sha256:a2db633578f86780"
       },
       "translations": {
         "en": {
@@ -228960,8 +229198,10 @@
           "footnoteDefs": 17,
           "bytes": 30460,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "ja": {
           "path": "ja/Culture/national-central-library-taiwan.md",
@@ -228976,8 +229216,10 @@
           "footnoteDefs": 17,
           "bytes": 34981,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "ko": {
           "path": "ko/Culture/national-central-library-taiwan.md",
@@ -228992,8 +229234,10 @@
           "footnoteDefs": 17,
           "bytes": 31572,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "es": {
           "path": "es/Culture/national-central-library-taiwan.md",
@@ -229008,8 +229252,10 @@
           "footnoteDefs": 17,
           "bytes": 35104,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "fr": {
           "path": "fr/Culture/national-central-library-taiwan.md",
@@ -229024,8 +229270,10 @@
           "footnoteDefs": 17,
           "bytes": 35864,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "vi": {
           "path": "vi/Culture/national-central-library-taiwan.md",
@@ -229040,8 +229288,10 @@
           "footnoteDefs": 17,
           "bytes": 41718,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "id": {
           "path": "id/Culture/national-central-library-taiwan.md",
@@ -229056,8 +229306,10 @@
           "footnoteDefs": 17,
           "bytes": 30893,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "pt": {
           "path": "pt/Culture/national-central-library-taiwan.md",
@@ -229072,8 +229324,10 @@
           "footnoteDefs": 17,
           "bytes": 31437,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "hi": {
           "path": "hi/Culture/national-central-library-taiwan.md",
@@ -229088,8 +229342,10 @@
           "footnoteDefs": 17,
           "bytes": 71557,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "ar": {
           "path": "ar/Culture/national-central-library-taiwan.md",
@@ -229104,8 +229360,10 @@
           "footnoteDefs": 17,
           "bytes": 42686,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "ru": {
           "path": "ru/Culture/national-central-library-taiwan.md",
@@ -229120,8 +229378,10 @@
           "footnoteDefs": 17,
           "bytes": 55175,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "de": {
           "path": "de/Culture/national-central-library-taiwan.md",
@@ -229136,8 +229396,10 @@
           "footnoteDefs": 17,
           "bytes": 33494,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         }
       }
     },
