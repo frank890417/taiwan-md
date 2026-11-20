@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-20T19:54:03+08:00",
-    "zhCommitHead": "2c6f9dc9dc",
+    "lastUpdated": "2026-11-20T19:58:32+08:00",
+    "zhCommitHead": "856957a07e",
     "totalZh": 1192,
     "activeLanguages": [
       "en",
@@ -92,8 +92,8 @@
       },
       "ar": {
         "total_zh": 1192,
-        "fresh": 1177,
-        "stale": 8,
+        "fresh": 1178,
+        "stale": 7,
         "metadata_stale": 4,
         "missing": 3,
         "orphan": 0
@@ -77967,18 +77967,18 @@
         "ar": {
           "path": "ar/Society/long-term-care-system-development.md",
           "translatedFrom": "Society/台灣長期照顧制度發展.md",
-          "sourceCommitSha": "0471d07ff",
-          "sourceContentHash": "sha256:c735ef0db3cd23ac",
-          "sourceBodyHash": "sha256:738376ef61832978",
-          "translatedAt": "2026-10-15T20:18:05+08:00",
+          "sourceCommitSha": "be13f04522",
+          "sourceContentHash": "sha256:f21c4242e07fa46d",
+          "sourceBodyHash": "sha256:296647c16e0407ac",
+          "translatedAt": "2026-11-20T16:47:15+08:00",
           "translationLastCommit": "51115654",
           "translationLastModified": "2026-10-15T23:01:55+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 27486,
+          "footnoteDefs": 5,
+          "bytes": 30856,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (5→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/long-term-care-system-development.md",
@@ -105203,8 +105203,8 @@
           "sourceContentHash": "sha256:7efd573816451b59",
           "sourceBodyHash": "sha256:e4b1b1d6bc7c9a2b",
           "translatedAt": "2026-11-20T10:10:32.445807+00:00",
-          "translationLastCommit": "b549d326",
-          "translationLastModified": "2026-11-07T07:09:59+08:00",
+          "translationLastCommit": "856957a0",
+          "translationLastModified": "2026-11-20T19:54:03+08:00",
           "inferred": false,
           "footnoteDefs": 37,
           "bytes": 71144,
@@ -186879,8 +186879,8 @@
           "sourceContentHash": "sha256:6fe4100e4991cfd3",
           "sourceBodyHash": "sha256:86c3a63ca1392544",
           "translatedAt": "2026-11-20T11:04:02.312357+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "856957a0",
+          "translationLastModified": "2026-11-20T19:54:03+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "bytes": 66517,
