@@ -53,11 +53,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-06-06'
     url: 'https://x.com/taiwandotmd/status/2063165712261390793'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/國宅與居住正義.md'
-sourceCommitSha: '4ee896bcb'
-sourceContentHash: 'sha256:058a2707437b6293'
-sourceBodyHash: 'sha256:8b7dd2352a89e936'
-translatedAt: '2026-10-13T01:59:02.272722+00:00'
+sourceCommitSha: 'be13f04522'
+sourceContentHash: 'sha256:aab8147d38e7da5e'
+sourceBodyHash: 'sha256:72dccf40750266ac'
+translatedAt: '2026-11-20T05:44:17.548689+00:00'
 ---
 
 # Logements nationaux et justice résidentielle : les logements bon marché construits par l'État ont-ils fini par servir d'ascenseur patrimonial à qui ?
@@ -272,47 +274,48 @@ Le règlement sur les logements abordables énonce très clairement trois verrou
 
 Cependant, à peine cette voie réapparue, elle s'est heurtée à l'État central.
 
-## Pouvoir acheter ou pouvoir louer : la dispute à distance entre centre et collectivités
+## Acheter ou louer : le bras de fer entre le gouvernement central et les autorités locales
 
-La position du ministère de l'Intérieur est très claire : le problème tient à la vente elle-même. Le vice-ministre Tung Chien-hung a directement mis en doute cette orientation : « Lorsque le logement abordable est un logement destiné à la vente, le nombre de personnes qu'il peut aider est relativement plus limité », et « le processus de revente libre entraîne des litiges de droits réels et des problèmes de gestion administrative ultérieure ».[^24] Il défend un retour à l'esprit de la _Loi sur le logement_ : le logement social doit être « loué seulement, non vendu ». En clair, le ministère de l'Intérieur dit ceci : dès qu'un logement est vendu, le stock public est perdu en une fois ; plutôt que d'imaginer comment gérer ce qui se passe après la vente, mieux vaut ne pas vendre dès le départ et conserver le logement entre les mains du gouvernement pour le louer en permanence.
+La position du ministère de l'Intérieur est très claire : la vente en elle-même pose problème. Le vice-ministre Tung Chien-hung a directement remis en question cette orientation, affirmant que « lorsque le logement abordable prend la forme de logements destinés à la vente, le nombre de citoyens pouvant en bénéficier sera relativement plus restreint », et que « le processus de revente libre entraînera des litiges relatifs aux droits de propriété ainsi que des problèmes de gestion administrative ultérieurs ».[^24] Il préconise un retour à l'esprit du 《Loi sur le logement》, qui stipule que les logements sociaux sont destinés à la location et non à la vente. En d'autres termes, selon le ministère de l'Intérieur, une fois qu'un logement est vendu, il représente une perte définitive du stock public ; plutôt que de chercher des moyens de gérer « ce qu'il advient après la vente », il vaudrait mieux ne pas vendre dès le départ et conserver les biens sous contrôle gouvernemental pour une location permanente.
 
-Les deux camps parlent en réalité de deux formes différentes de justice résidentielle.
+Les deux parties défendent, en réalité, deux visions différentes de la justice résidentielle.
 
-La réponse de Taoyuan consiste à refuser ce cadre binaire. Chiang Nan-chih, directeur du Bureau du développement urbain de Taoyuan, a déclaré : « La promotion de la justice résidentielle ne doit pas tomber dans une logique unique de “choisir l'un ou l'autre”. »[^25] Le maire Chang San-cheng s'est quant à lui rendu personnellement au Yuan exécutif le 4 juin 2026 pour demander que les logements abordables de Taoyuan soient intégrés à la politique nationale. Selon les médias, il a décrit les logements abordables et les logements sociaux comme les « deux ailes » de la politique du logement, complémentaires plutôt que concurrentes : certaines personnes veulent acheter, d'autres ne peuvent que louer ; les deux besoins doivent être pris en charge, sans forcer un choix exclusif.[^26]
+De son côté, Taoyuan tente de briser ce dilemme binaire. Jiang Nan-chih, directeur du Bureau du développement urbain de la ville de Taoyuan, a déclaré : « La promotion de la justice résidentielle ne devrait pas s'enfermer dans la logique unique d'un choix entre deux options. »[^25] Le maire Chang Shan-cheng s'est personnellement rendu au Yuan exécutif le 4 juin 2026 pour plaider l'intégration des logements abordables de Taoyuan dans les politiques centrales. Selon les médias, il a comparé les logements abordables et les logements sociaux aux « deux ailes » de la politique du logement : ils sont complémentaires et non concurrents. Certains souhaitent acheter, d'autres ne peuvent que louer ; ces deux besoins doivent être satisfaits respectivement sans forcer les citoyens à choisir l'un ou l'autre.[^26]
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
   <iframe src="https://www.youtube.com/embed/iEEqhfmwEzs" title="承諾13萬戶大縮水！為何社宅政策大轉彎｜天下雜誌 8分鐘看懂天下 Ep.74" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Émission officielle du magazine CommonWealth : pourquoi la promesse de 130 000 logements sociaux directement construits par le gouvernement Lai a-t-elle fortement rétréci ? Un angle pour comprendre la situation difficile de la justice résidentielle à Taïwan._
+_Programme officiel de la revue \_Commonwealth_ : Pourquoi la promesse du gouvernement Lai de construire 130 000 logements sociaux a-t-elle subi une telle réduction ? Une analyse d'un angle mort de la situation précaire de la justice résidentielle à Taïwan.\_
 
-Cette fois, le Yuan exécutif n'a pas rejeté l'idée d'emblée. Le Premier ministre Cho Jung-tai a nettement adouci sa position : il n'a pas refusé la démarche de Taoyuan et a seulement exprimé le souhait que « les politiques de l'État central et des collectivités locales puissent être alignées ».[^27] Une ligne politique abrogée onze ans plus tôt, et dont la justification officielle était déjà écrite — « taux de propriétaires occupants de 85 %, mission accomplie » — a ainsi, par la main d'une collectivité locale, rouvert la porte de l'État central.
+Cette fois, le Yuan exécutif n'a pas opposé un refus catégorique. L'attitude du président du Yuan, Cho Jung-tai, s'est nettement assouplie ; il n'a pas invalidé l'approche de Taoyuan, espérant simplement que « les politiques centrales et locales puissent s'aligner ».[^27] Une ligne politique qui avait été abandonnée pendant onze ans, avec pour justification officielle que « la mission d'atteindre un taux de propriété de 85 % était accomplie », vient de rouvrir les portes du gouvernement central grâce à l'initiative d'un gouvernement local.
 
-![Segment central du Karl-Marx-Hof, logement social du 19e arrondissement de Vienne, longue façade monumentale rouge et jaune avec tours commémoratives, ensemble municipal long d'un kilomètre](/article-images/society/vienna-karl-marx-hof.webp)
-_Le Karl-Marx-Hof de Vienne, achevé en 1933, appartient toujours à la municipalité et reste destiné à la location seulement. Ne pas vendre pendant cent ans permet au stock de rester dans les mains du public. Photo : C.Stadler/Bwag, CC BY-SA 4.0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Döbling_(Wien)_-\_Karl-Marx-Hof_(2).JPG).\_
+![Karl-Marx-Hof dans le 19e arrondissement de Vienne, une rangée de façades rouges et jaunes de style mémorial, un complexe de logements municipaux s'étendant sur un kilomètre](/article-images/society/vienna-karl-marx-hof.webp)
+_Le Karl-Marx-Hof à Vienne, achevé en 1933, est toujours détenu par la municipalité et proposé uniquement à la location. En ne vendant pas pendant cent ans, le stock reste entre les mains du secteur public. Photo : C.Stadler/Bwag, CC BY-SA 4.0 via [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Döbling_(Wien)_-\_Karl-Marx-Hof_(2).JPG>).\_
 
-Ce choc entre centre et collectivités porte au fond sur une question qui aurait dû recevoir une réponse il y a cinquante ans, mais qui a constamment été contournée : le gouvernement doit-il aider la population à « pouvoir acheter » ou à « pouvoir louer » ?
+Ce choc entre le pouvoir central et les autorités locales porte sur une question qui aurait dû être tranchée il y a cinquante ans, mais qui a été systématiquement éludée : l'État doit-il aider les citoyens à « pouvoir acheter » ou à « pouvoir louer » ?
 
-## Cinquante ans plus tard, Taïwan apprend enfin à installer ce sas
+## Cinquante ans plus tard, Taïwan apprend enfin à installer cette barrière
 
 Revenons à l'adresse des logements nationaux de Chenggong.
 
-En 1985, l'ancien chef de quartier Shih Chung-sheng et son épouse vidèrent leurs économies pour réunir 400 000 dollars taïwanais d'apport initial et acheter un logement à 67 000 dollars le _ping_. À cet instant, le logement national était une promesse complète de justice résidentielle : le gouvernement construisait des logements bon marché pour aider ceux qui ne pouvaient pas acheter à monter dans le train. Sa seule négligence fut d'oublier d'installer un sas à la sortie : personne ne disait comment répartir, si le logement prenait de la valeur, l'écart de prix créé par la subvention publique et par l'emplacement. Quarante ans plus tard, la même adresse approche le million de dollars taïwanais le _ping_, l'apport initial de l'époque ne permet même plus d'acheter un _ping_, et l'échelle a été discrètement retirée sous les pieds des premiers passagers.
+En 1985, le vieux chef de quartier Shi Chung-sheng et son épouse ont épuisé toutes leurs économies pour réunir un apport de NT$400 000 afin d'acheter un logement dont le prix était de NT$67 000 par *ping*. À cette époque, les logements nationaux représentaient une promesse complète de justice résidentielle : l'État construisait des logements abordables pour permettre à ceux qui n'en avaient pas les moyens d'entrer sur le marché. Sa seule omission fut d'oublier d'installer une barrière à la sortie : personne ne stipulait comment répartir, une fois la valeur du bien augmentée, la plus-value générée par les subventions publiques et l'emplacement. Ainsi, quarante ans plus tard, pour cette même adresse, le prix avoisine le million de NT$ par _ping_ ; l'apport initial de l'époque ne permettrait même plus d'acheter un seul _ping_. L'échelle qui permettait aux premiers arrivés de monter sur le marché a été discrètement retirée sous leurs pieds.
 
-Hong Kong appelle ce sas la prime foncière ; le Royaume-Uni a appris au prix de 8 000 milliards de dollars taïwanais de droits qu'il ne fallait pas s'en passer ; Singapour a fixé des seuils, mais continue de laisser fuir de la valeur. Taïwan a tourné autour du problème pendant cinquante ans, allant même jusqu'à démolir de ses propres mains, en 2002, le demi-mur qui existait encore ; ce n'est qu'en 2026 qu'une collectivité locale a enfin inscrit les mots « le prix de revente ne peut pas dépasser le prix d'achat initial » dans un règlement sur les « logements abordables ». C'est précisément le sas qui manquait aux logements nationaux d'autrefois, celui que les Hongkongais appellent prime foncière.
+À Hong Kong, on appelle cette barrière la « prime foncière » (_pui dei gaa_) ; le Royaume-Uni a appris, au prix d'un droit de 8 billions, qu'il ne pouvait s'en passer ; Singapour a instauré des seuils, mais les fuites persistent. Taïwan a erré pendant cinquante ans entiers, allant même jusqu'à démolir de ses propres mains le demi-mur qui lui restait en 2002. Ce n'est qu'en 2026 qu'un gouvernement local a enfin inscrit la mention « la revente ne peut excéder le prix d'achat initial » dans un règlement intitulé « Logements abordables ». C'est précisément cette barrière que les logements nationaux n'avaient pas installée et que les Hongkongais appellent la prime foncière.
 
-La vraie question de cette histoire n'a donc jamais été : « Le gouvernement peut-il construire des logements ? » Le logement national a prouvé qu'il le pouvait, et Taoyuan se prépare à le faire à nouveau. La vraie question est : après vous avoir aidé à acheter, à qui doit revenir la plus-value ? À la première personne montée dans le train, ou à la génération suivante qui attend encore à la porte ?
+Par conséquent, le véritable problème de cette histoire n'a jamais été de savoir si « l'État est capable de construire des logements ». Les logements nationaux ont prouvé que l'État en était capable, et Taoyuan s'apprête à recommencer. Le véritable problème est le suivant : une fois qu'on vous a « aidé à acheter », à qui doit revenir la plus-value ? À la première personne qui est entrée sur le marché, ou à la génération suivante qui attend encore devant la porte ?
 
-Les élus qui ont appuyé sur le bouton de vote le jour de la troisième lecture au conseil municipal de Taoyuan n'en avaient peut-être pas conscience, mais ils ajoutaient en même temps la dernière brique au mur démoli cinquante ans plus tôt. Reste à savoir si cette brique permettra de bâtir un escalator qui ne retire plus jamais l'échelle, ou si elle se retrouvera une fois encore bloquée dans le bras de fer entre un État central et des collectivités incapables d'aligner leurs politiques. Le prochain prix à l'adresse des logements nationaux de Chenggong consignera la réponse pour nous.
+Ceux qui ont appuyé sur le bouton de vote lors de la troisième lecture au conseil municipal de Taoyuan n'ont peut-être pas réalisé qu'ils posaient, en même temps, la dernière brique pour réparer le mur démoli il y a cinquante ans. Quant à savoir si cette brique permettra de construire un escalator qui ne retire plus l'échelle, ou si elle restera une fois de plus coincée dans les luttes de pouvoir entre le gouvernement central et les autorités locales, le prix du prochain logement à l'adresse de Chenggong nous donnera la réponse.
 
 ---
 
-**Pour aller plus loin** :
+**Lectures complémentaires** :
 
-- [Logement social et justice résidentielle](/fr/society/social-housing-and-housing-justice) — la voie du logement social « louer seulement, ne pas vendre » après 2016 : 200 000 logements en huit ans, double voie de la construction directe et de l'intermédiation locative avec gestion déléguée, et manière dont la mixité résidentielle tente d'éviter la stigmatisation du logement social (article jumeau de celui-ci, qui prolonge l'histoire après la sortie de scène du logement national en 2015)
-- [La crise de la faible natalité à Taïwan](/fr/society/taiwan-low-birth-rate-crisis) — ne pas pouvoir acheter un logement et ne pas pouvoir avoir d'enfants sont les deux extrémités d'une même fracture structurelle, autre facette de la justice intergénérationnelle
-- [Maisons en tôle](/fr/society/taiwan-tin-shed-houses) — lorsque l'on ne peut ni acheter ni louer de façon stable, comment les Taïwanais ajoutent avec les moyens du bord un abri où vivre
-- [Justice environnementale et controverses NIMBY à Taïwan](/fr/society/taiwan-environmental-justice-nimby-conflicts) — où faut-il construire les logements sociaux et les équipements indésirables ? La zone de contact entre justice résidentielle et justice spatiale
+- [Les prix de l'immobilier, les prêts hypothécaires et le prêt « Qing'an » à Taïwan](/housing/) — Page thématique : ratio prix de l'immobilier/revenu, conditions du prêt « Qing'an » sur trois générations et chronologie de la politique de logement sur quatre-vingts ans, avec simulateur de prêt.
+- [Logements sociaux et justice résidentielle](/fr/society/social-housing-and-housing-justice) — La voie du « louer sans vendre » après 2016 : 200 000 unités en huit ans, le double système entre construction directe et gestion déléguée, et comment la conception de la mixité sociale évite la stigmatisation des logements sociaux (article complémentaire à celui-ci, faisant suite à l'histoire après la fin de l'ère des logements nationaux en 2015).
+- [La crise de la dénatalité à Taïwan](/fr/society/taiwan-low-birth-rate-crisis) — L'incapacité d'acheter un logement et l'impossibilité d'avoir des enfants sont les deux extrémités d'une même fracture structurelle, une autre facette de la justice générationnelle.
+- [Les maisons en tôle (_tiepiwu_)](/fr/society/taiwan-tin-shed-houses) — Quand on ne peut ni acheter ni louer sereinement, comment les Taïwanais utilisent-ils des moyens précaires pour s'agrandir et se créer un toit.
+- [Justice environnementale et conflits de voisinage à Taïwan](/fr/society/taiwan-environmental-justice-nimby-conflicts) — Où construire les logements sociaux ou les installations indésirables ? À la frontière entre justice résidentielle et justice spatiale.
 
 ## Données ouvertes
 
