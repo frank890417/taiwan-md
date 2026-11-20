@@ -23,16 +23,18 @@ readingTime: 6
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'Culture/菜市場名.md'
-sourceCommitSha: '22286539e'
-sourceContentHash: 'sha256:4f24d54138c9fd30'
-sourceBodyHash: 'sha256:e1adcb11fb9e8afa'
-translatedAt: '2026-11-05T15:10:16.970583+00:00'
+sourceCommitSha: 'f024e87e7a'
+sourceContentHash: 'sha256:b43b81907a3c86ea'
+sourceBodyHash: 'sha256:cf68717b49d8561a'
+translatedAt: '2026-11-20T03:28:19.196503+00:00'
 ---
 
 # Marktnamen
 
 > **30-Sekunden-Überblick:**
-> „Marktnamen“ sind jene Namen, die auf einem Markt gerufen werden und unzählige Menschen gleichzeitig umdrehen lassen. Das ist kein Scherz: Laut der neuesten Statistik des Innenministeriums von 2024 gibt es in ganz Taiwan über 30.000 Personen namens „Shu-fen“ (淑芬) und über 14.000 namens „Chia-hao“ (家豪). Sie belegen seit über zehn Jahren ununterbrochen die Spitzenplätze der männlichen und weiblichen Marktnamen. [^1] Diese Namen spiegeln nicht die Faulheit der Eltern wider, sondern den gesellschaftlichen Konsens in Taiwan darüber, was in verschiedenen Epochen ein „guter Name“ ist.
+> Mit „Marktnamen“ (菜市場名) sind jene Namen gemeint, bei denen man auf einem Wochenmarkt nur einmal laut ruft und unzählige Menschen gleichzeitig zurückblicken. Das ist kein Scherz: Laut der neuesten Statistik des Innenministeriums aus dem Jahr 2024 gibt es in ganz Taiwan über 30.000 Personen namens „Shu-fen“ (淑芬) und über 14.000 Personen namens „Chia-hao“ (家豪). Sie halten jeweils seit über zehn Jahren die Plätze eins und zwei der populärsten männlichen bzw. weiblichen Marktnamen. [^1] Diese Namen spiegeln nicht etwa die Faulheit der Eltern wider, sondern den kollektiven Konsens der taiwanesischen Gesellschaft darüber, „was ein guter Name ist“, in verschiedenen Jahrzehnten.
+
+> **Möchten Sie das Gesamtbild sehen?** Wo Nachnamen platziert werden, warum derselbe Nachname vier verschiedene Schreibweisen haben kann und wie die Namen der indigenen Völker geschrieben werden, finden Sie in der Sonderreihe [〈Namen der Taiwaner〉](/names/); um chinesische Namen so zu transkribieren, wie sie im Reisepass stehen, können Sie das [Namens-Pinyin-Tool](/names/name-romanization/) verwenden.
 
 ---
 
@@ -99,9 +101,10 @@ Marktnamen sind nicht peinlich – sie sind der Beweis, dass wir gemeinsam geleb
 
 ## Weiterführende Literatur
 
-- [Innenministerium: Landesweite Namensstatistik-Analyse (neueste Version 2023)](https://www.ris.gov.tw) — Taiwans offizielle, autoritativste Namens-Großdaten.
-- [„Cheng-en“ erobert Spitzenplatz, „Yi-chun“ kühlt ab: Die Philologie der Marktnamen (Readmoo)](https://news.readmoo.com/2017/12/07/taiwanese-names/) — Tiefgehende Analyse der kulturellen Bedeutung der Zeichenwahl in verschiedenen Epochen.
-- [Lachs-Chaos: Studie zum taiwanesischen Namensänderungsphänomen (Wikipedia)](https://zh.wikipedia.org/zh-tw/%E9%AE%AD%E9%AD%9A%E4%B9%8B%E4%BA%82) — Dokumentation der 2021 die Welt erschütternden Namensänderungswelle.
+- [Namen der Taiwaner (Sonderbericht)](/names/) — Grafische Darstellung von Nachnamen, Generationen, Umschrift und Namen in indigenen Sprachen, inklusive eines Tools zur Namensumschrift.
+- [Landesweite Namensstatistik-Analyse des Innenministeriums (neueste Version 2023)](https://www.ris.gov.tw) — Die offiziellsten und umfassendsten Big-Data-Ergebnisse zu Namen in Taiwan.
+- [„Cheng-en“ führt, „Yi-chun“ verliert an Popularität: Die Philologie der „Marktnamen“ (Readmoo)](https://news.readmoo.com/2017/12/07/taiwanese-names/) — Eine tiefgehende Analyse der kulturellen Bedeutung der Wortwahl in verschiedenen Epochen.
+- [Das Lachs-Chaos: Eine Studie über das Phänomen der Namensänderungen in Taiwan (Wikipedia)](https://zh.wikipedia.org/zh-tw/%E9%AE%AD%E9%AD%9A%E4%B9%8B%E4%BA%82) — Dokumentation der weltweiten Aufmerksamkeit, die die Welle der Namensänderungen im Jahr 2021 erregte.
 
 ---
 

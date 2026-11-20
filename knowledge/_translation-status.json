@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-20T12:47:13+08:00",
-    "zhCommitHead": "b59c49890f",
+    "lastUpdated": "2026-11-20T12:59:41+08:00",
+    "zhCommitHead": "0c55821543",
     "totalZh": 1192,
     "activeLanguages": [
       "en",
@@ -60,9 +60,9 @@
       },
       "vi": {
         "total_zh": 1192,
-        "fresh": 1157,
+        "fresh": 1158,
         "stale": 23,
-        "metadata_stale": 5,
+        "metadata_stale": 4,
         "missing": 7,
         "orphan": 0
       },
@@ -84,18 +84,18 @@
       },
       "hi": {
         "total_zh": 1192,
-        "fresh": 1149,
-        "stale": 29,
-        "metadata_stale": 6,
+        "fresh": 1151,
+        "stale": 28,
+        "metadata_stale": 5,
         "missing": 8,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1192,
-        "fresh": 1170,
+        "fresh": 1171,
         "stale": 13,
         "metadata_stale": 4,
-        "missing": 5,
+        "missing": 4,
         "orphan": 0
       },
       "ru": {
@@ -18311,8 +18311,8 @@
           "sourceContentHash": "sha256:f5a4019a85575efd",
           "sourceBodyHash": "sha256:84909ece10eb2627",
           "translatedAt": "2026-11-20T03:57:02+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0c558215",
+          "translationLastModified": "2026-11-20T12:47:13+08:00",
           "inferred": false,
           "footnoteDefs": 1,
           "bytes": 11041,
@@ -18401,7 +18401,20 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Economy/taiwan-solar-power.md",
+          "translatedFrom": "Economy/太陽光電.md",
+          "sourceCommitSha": "24f563e646",
+          "sourceContentHash": "sha256:f5a4019a85575efd",
+          "sourceBodyHash": "sha256:84909ece10eb2627",
+          "translatedAt": "2026-11-20T03:57:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 1,
+          "bytes": 13777,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Economy/taiwan-solar-power.md",
@@ -35328,20 +35341,18 @@
         "vi": {
           "path": "vi/Technology/taiwan-electricity-and-semiconductors.md",
           "translatedFrom": "Technology/台灣的電力與半導體.md",
-          "sourceCommitSha": "250410eae",
-          "sourceContentHash": "sha256:739eb8c857d7b377",
+          "sourceCommitSha": "be13f04522",
+          "sourceContentHash": "sha256:aefff77e9ff213d8",
           "sourceBodyHash": "sha256:814f9eb8b97792cf",
-          "translatedAt": "2026-07-24T15:52:20+08:00",
+          "translatedAt": "2026-11-20T03:57:07+08:00",
           "translationLastCommit": "a3ec9a54",
           "translationLastModified": "2026-10-10T23:43:08+08:00",
           "inferred": false,
           "footnoteDefs": 4,
-          "bytes": 32383,
+          "bytes": 31766,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Technology/taiwan-electricity-and-semiconductors.md",
@@ -98652,20 +98663,18 @@
         "hi": {
           "path": "hi/Politics/city-councilor-system-taiwan.md",
           "translatedFrom": "Politics/議員制度.md",
-          "sourceCommitSha": "709d2dc03",
-          "sourceContentHash": "sha256:4b665d6e2920264b",
-          "sourceBodyHash": "sha256:41e02e02e0fbd229",
-          "translatedAt": "2026-10-23T01:38:34.212918+00:00",
+          "sourceCommitSha": "be13f04522",
+          "sourceContentHash": "sha256:00af5d0f37a777ff",
+          "sourceBodyHash": "sha256:9359ef48b07d6033",
+          "translatedAt": "2026-11-20T04:57:38.294935+00:00",
           "translationLastCommit": "b0b945b2",
           "translationLastModified": "2026-10-23T10:18:19+08:00",
           "inferred": false,
           "footnoteDefs": 31,
-          "bytes": 89829,
+          "bytes": 90813,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 3,
-          "diffSummary": "+9 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Politics/city-councilor-system-taiwan.md",
@@ -199875,20 +199884,18 @@
         "hi": {
           "path": "hi/Geography/beida-special-district-sanxia.md",
           "translatedFrom": "Geography/北大特區.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:a12aeaf066e066f3",
+          "sourceCommitSha": "be13f04522",
+          "sourceContentHash": "sha256:d1c3a58bde03254b",
           "sourceBodyHash": "sha256:5edd055f43181f0e",
-          "translatedAt": "2026-07-25T12:45:43+08:00",
+          "translatedAt": "2026-11-20T04:47:32.407272+00:00",
           "translationLastCommit": "66b619dd",
           "translationLastModified": "2026-10-10T23:41:36+08:00",
           "inferred": false,
           "footnoteDefs": 45,
-          "bytes": 79724,
+          "bytes": 78683,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+3 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Geography/beida-special-district-sanxia.md",
