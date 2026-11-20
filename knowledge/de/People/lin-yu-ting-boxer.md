@@ -131,7 +131,7 @@ Bei den Asienspielen 2026 in Aichi-Nagoya stieg sie in die Gewichtsklasse bis 60
 
 ## Die „Vier goldenen Haarnadeln“ im Boxen
 
-TVBS berichtete, dass das Boxteam von Chinese Taipei bei den Olympischen Spielen in Paris sechs Startplätze (vier Frauen, zwei Männer) erhielt; die Athletinnen waren Lin Yu-ting, Chen Nien-chin, Huang Hsiao-wen und Wu Shih-yi, die von den Medien als „Vier goldene Haarnadeln“ bezeichnet wurden[^33]. Nach ihrer Niederlage bei den Olympischen Spielen in Tokio blieb Lin Yu-ting, um Huang Hsiao-wen beim Training zu begleiten; letztere gewann später die erste olympische Medaille im Boxen für Taiwan[^12]. In einem Videoanruf sagte Lai Ching-te, dass Huang Hsiao-wen bei den Olympischen Spielen in Paris durch einen Fehlentscheid der Kampfrichter eine Chance verloren habe, dennoch in Paris geblieben sei, um als Sparringspartnerin beim Training zu helfen, während Chen Nien-chin die Bronzemedaille gewann[^7].
+TVBS berichtete, dass Taiwans Boxteam bei den Olympischen Spielen in Paris sechs Startplätze (vier Frauen, zwei Männer) erhielt; die Athletinnen waren Lin Yu-ting, Chen Nien-chin, Huang Hsiao-wen und Wu Shih-yi, die von den Medien als „Vier goldene Haarnadeln“ bezeichnet wurden[^33]. Nach ihrer Niederlage bei den Olympischen Spielen in Tokio blieb Lin Yu-ting, um Huang Hsiao-wen beim Training zu begleiten; letztere gewann später die erste olympische Medaille im Boxen für Taiwan[^12]. In einem Videoanruf sagte Lai Ching-te, dass Huang Hsiao-wen bei den Olympischen Spielen in Paris durch einen Fehlentscheid der Kampfrichter eine Chance verloren habe, dennoch in Paris geblieben sei, um als Sparringspartnerin beim Training zu helfen, während Chen Nien-chin die Bronzemedaille gewann[^7].
 
 ## Quellen
 

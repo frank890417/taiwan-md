@@ -131,7 +131,7 @@ At the 2026 Aichi-Nagoya Asian Games, she moved up to the women's 60kg weight cl
 
 ## The Four Golden Girls of Boxing
 
-TVBS reported that the Chinese Taipei boxing team secured six spots (4 women, 2 men) at the Paris Olympics. The female athletes were Lin Yu-ting, Chen Nien-chin, Huang Hsiao-wen, and Wu Shih-yi, whom the media dubbed the "Four Golden Girls of Boxing"[^33]. After her defeat at the Tokyo Olympics, Lin Yu-ting stayed behind to support Huang Hsiao-wen's training; Huang later won Taiwan's first Olympic boxing medal[^12]. In a video message, Lai Ching-te noted that although Huang Hsiao-wen lost an opportunity during the Paris Olympics due to a refereeing error, she remained in Paris to assist as a sparring partner, while Chen Nien-chin secured a bronze medal[^7].
+TVBS reported that Taiwan's boxing team secured six spots (4 women, 2 men) at the Paris Olympics. The female athletes were Lin Yu-ting, Chen Nien-chin, Huang Hsiao-wen, and Wu Shih-yi, whom the media dubbed the "Four Golden Girls of Boxing"[^33]. After her defeat at the Tokyo Olympics, Lin Yu-ting stayed behind to support Huang Hsiao-wen's training; Huang later won Taiwan's first Olympic boxing medal[^12]. In a video message, Lai Ching-te noted that although Huang Hsiao-wen lost an opportunity during the Paris Olympics due to a refereeing error, she remained in Paris to assist as a sparring partner, while Chen Nien-chin secured a bronze medal[^7].
 
 ---
 
@@ -201,4 +201,4 @@ TVBS reported that the Chinese Taipei boxing team secured six spots (4 women, 2 
 
 [^32]: [UDN — Boxing / After Failing to Match North Korea's Asian Games Silver, Lin Yu-ting Wins Bronze at Asian Championships in First Post-Olympic Bout](https://udn.com/news/story/7001/9424587) — In her first match after the Olympics, Lin Yu-ting won a bronze medal at the 2026 Asian Boxing Championships.
 
-[^33]: [TVBS News — Paris Olympics / The 'Four Golden Girls' of Boxing Aim for a Medal Grand Slam; Lin Yu-ting Seeks to Erase the Resentment from the Tokyo Olympics](https://news.tvbs.com.tw/sports/2558979) — Lin Yu-ting, Chen Nien-chin, Huang Hsiao-wen, and Wu Shih-yi are collectively known as the 'Four Golden Girls' of boxing; the Chinese Taipei boxing team has secured 6 Olympic spots.
+[^33]: [TVBS News — Paris Olympics / The 'Four Golden Girls' of Boxing Aim for a Medal Grand Slam; Lin Yu-ting Seeks to Erase the Resentment from the Tokyo Olympics](https://news.tvbs.com.tw/sports/2558979) — Lin Yu-ting, Chen Nien-chin, Huang Hsiao-wen, and Wu Shih-yi are collectively known as the 'Four Golden Girls' of boxing; Taiwan's boxing team has secured 6 Olympic spots.
