@@ -26,11 +26,13 @@ image: '/article-images/society/leopard-cat-specimen-2026.webp'
 imageCredit: '丘崈 (Wikimedia Commons)'
 imageLicense: 'CC0 1.0 公有領域'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E8%8F%AF%E7%9F%B3%E8%99%8E%E6%A8%99%E6%9C%AC%EF%BC%882%EF%BC%89.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Society/台灣流浪動物文化.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:6b2ce60c50966bdc'
-sourceBodyHash: 'sha256:6f79d66a90a09b62'
-translatedAt: '2026-09-23T05:53:47+08:00'
+sourceCommitSha: 'b1a5fea00e'
+sourceContentHash: 'sha256:d73033c3d023379b'
+sourceBodyHash: 'sha256:452ee75046f1da55'
+translatedAt: '2026-11-20T10:01:55.904413+00:00'
 ---
 
 # Taiwan und die Streunertiere: Vom Film „Zwölf Nächte“ zum Tod des Steinbären – die ungelöste Zwickmühlen-Frage von Tierschutz und Naturschutz
@@ -97,31 +99,29 @@ Ein Film, zwei Jahre der Reform, ein Gesetz. Taiwans Geschichte mit Streunertier
 
 ---
 
-## Die Ohrfeige der Straße: Ein Zeichen der Gemeinschaft
+## Fanfans Ohren: Zeichen auf der Straße
 
-Wenn du in Taiwan eine Straße entlangläufst und einen Hund oder eine Katze siehst, deren Ohr fehlt, dann ist das ein Zeichen – ein Zeichen von **TNR**, nicht von Verletzungen.
+Wenn Sie in den Straßen Taiwans einen Hund oder eine Katze sehen, dem oder der ein kleines Stück am Ohr fehlt, ist das kein Zeichen einer Verletzung, sondern die Spur einer Geschichte – ein Markierung durch **TNR**.
 
-TNR steht für Trap (Falle), Neuter (Kastration) und Return (Zurücklassen): Fangen, kastrieren, das Ohr abschneiden als Kennzeichen und wieder freilassen. In den meisten Städten wurde später auch die Impfung hinzugefügt, was zu **TNvR** (mit einem zusätzlichen „v“ für Impfung) führte. Die Logik ist einfach: Du kannst sie nicht töten, also lass sie nicht mehr nachkommen. Nach einer, zwei, drei Generationen sinkt die Zahl natürlich.
+TNR steht für Trap (Fangen), Neuter (Kastrieren) und Return (Zurückbringen): Streuner werden gefangen, kastriert, mit einer Ohrmarkierung versehen und an ihren ursprünglichen Ort zurückgebracht. In der offiziellen Version der meisten Landkreise und Städte wurde später die Impfung hinzugefügt, woraus **TNvR** wurde (das „v“ steht für Vaccinate/Impfen). Die Logik ist simpel: Da man sie nicht alle töten kann, lässt man sie zumindest nicht mehr nachkommen. Nach einer, zwei oder drei Generationen sinkt die Population ganz natürlich.
 
-![Ein nahaufnahmäßiger Blick einer gestreuten Katze mit abgeschnittenem Ohr, Hintergrund ein unscharfer Stadtstraße](/article-images/society/tnr-cat-clipped-ear-2016.webp)
-_Eine nach TNR-Behandlung gestrichene Katze. Das abgeschnittene Ohr dient als Kennzeichen, damit Helfer und Tierschützer aus der Ferne erkennen können, ob ein Tier bereits kastriert wurde. Foto: Yu Tae-wook, 2016. [Lizenz via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cat_with_clipped_ear_(cropped).jpg).\_
+![Nahaufnahme einer gestreiften Streunerkatze mit Ohrmarkierung; die Spitze des linken Ohres wurde als Zeichen der Kastration in einem kleinen Dreieck abgeschnitten, im Hintergrund eine unscharfe Straßenszene](/article-images/society/tnr-cat-clipped-ear-2016.webp)
+_Bei TNR-Operationen wird bei Streunern die Ohrspitze als Markierung abgeschnitten. Dieses Zeichen ermöglicht es Freiwilligen und Tierschützern, schon aus der Ferne zu erkennen: „Dieses Tier ist bereits kastriert“, um eine erneute Gefangennahme zu vermeiden. Photo: Yu Tae-wook, 2016. [License via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cat_with_clipped_ear_(cropped).jpg).\_
 
-Taiwans TNR-Programm wurde zunächst von privaten Tierschutzorganisationen eigenständig vorangetrieben und existierte in einer Grauzone des Gesetzes. Nach der Gesetzesänderung 2015 wurde TNR schließlich offiziell als politisches Instrument integriert[^4]. Verschiedene Stadtverwaltungen begannen, Budgets bereitzustellen und mit Tierschutzorganisationen zusammenzuarbeiten, um groß angelegte TNR-Aktionen durchzuführen.
+Das TNR-Verfahren wurde in Taiwan ursprünglich von zivilen Tierschutzgruppen eigenständig vorangetrieben und bewegte sich dabei oft in einer rechtlichen Grauzone. Erst nach der Novellierung des „Tierschutzgesetzes“ im Jahr 2015 wurde TNR offiziell als politisches Instrument anerkannt[^4]. In der Folge begannen die Stadt- und Kreisverwaltungen, Budgets bereitzustellen und mit Tierschutzorganisationen bei der Durchführung groß angelegter TNR-Programme zusammenzuarbeiten.
 
-### Die Regeln der Gemeinschaft
+### Die ungeschriebenen Regeln der Gemeinschaft für Hunde und Katzen
 
-Hinter TNR steht ein ganzes System der örtlichen Sozialökologie – die Kastration ist nur der Anfang.
+Hinter TNR steht ein ganzes System des ökologischen Managements in den Gemeinden; die Operation ist dabei nur der Anfang.
 
-In vielen taiwanesischen Nachbarschaften gibt es sogenannte **Fütterer** – Bewohner, die regelmäßig Straßentiere füttern. Sie stellen zu bestimmten Zeiten zu bestimmten Orten Futter aus. Diese Fütterer und die TNR-Helfer arbeiten nach einem informellen, aber funktionierenden System:
+In vielen Wohngebieten Taiwans gibt es sogenannte „Fütterer“ – Anwohner, die Streunertiere regelmäßig mit Futter versorgen. Sie stellen das Essen jeden Tag zur gleichen Zeit an denselben Orten bereit. Zwischen diesen Fütterern und den TNR-Freiwilligen hat sich ein informelles, aber seit langem etabliertes Kooperationssystem entwickelt:
 
-- Die Fütterer beobachten und melden neue Tiere
-- Die Helfer bringen Fallen und fangen die Tiere
-- Nach der Kastration setzt man die Tiere zurück, die Fütterer kümmern sich weiterhin
-- Wenn ein Tier sich gut genug anpasst, wird ein Foto online gestellt, um eine Familie zu finden
+- Die Fütterer sind für die Beobachtung zuständig und melden neue Tiere.
+- Freiwillige bringen Lebendfallen zum Einfangen und bringen die Tiere zur Kastration.
+- Nach der Kastration werden sie wieder ausgesetzt, woraufhin die Fütterer die weitere Versorgung übernehmen.
+- Falls ein Tier geeignet ist, wird es fotografiert und online zur Adoption angeboten.
 
-Dieses System hat keine offiziellen Dokumente, doch es funktioniert in unzähligen taiwanesischen Nachbarschaften – angetrieben von der Bereitschaft vieler „Töchter der Gemeinschaft“, die nicht tatenlos zusehen können.
-
----
+Dieses System existiert in keiner offiziellen Dokumentation, läuft aber in unzähligen Gemeinden Taiwans stillschweigend weiter – angetrieben durch das Mitgefühl jeder einzelnen „Ayi“ (Tante).
 
 ## Nach der Nullstich-Politik: Das Problem beginnt erst wirklich
 
@@ -456,51 +456,51 @@ Komplexe Probleme haben keine einfachen Antworten. Aber die Fragen sind gestellt
 
 ---
 
-## Bildnachweise
+## Bildquellen
 
-Dieser Artikel verwendet 4 Bilder mit Public-Domain- oder CC-Lizenzen, alle zwischengespeichert unter `public/article-images/society/`, um Hotlinking zu vermeiden:
+Dieser Artikel verwendet 4 Bilder aus der Public Domain / unter CC-Lizenz, die alle in `public/article-images/society/` gecacht wurden, um direkte Verlinkungen auf die Quellserver zu vermeiden:
 
-- [Taiwan-Steinbär-Muster](https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E8%8F%AF%E7%9F%B3%E8%99%8E%E6%A8%99%E6%9C%AC%EF%BC%882%EF%BC%89.jpg) — Foto: Chiu Hsien, 15. Februar 2026, CC0 1.0 Public Domain, im Besitz des Nationalen Museums Taiwans
-- [TNR-Streuhauskatze mit abgeschnittenem Ohr](<https://commons.wikimedia.org/wiki/File:Cat_with_clipped_ear_(cropped).jpg>) — Foto: Yu Tae-wook, 18. November 2016 (beschnitten 18. Juni 2021), CC0 1.0 Public Domain
-- [Taiwan-Schwarzbär im Profil](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear01.jpg) — Foto: smartneddy, 5. August 2007, CC BY-SA 3.0
-- [Yushan-Gipfel](https://commons.wikimedia.org/wiki/File:Yushan_Summit_2024.jpg) — Foto: PirateTseng, 29. Oktober 2024, CC BY-SA 4.0
+- [Präparat eines Formosana-Leopardenkatzen-Exemplars](https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E8%8F%AF%E7%9F%B3%E8%99%8E%E6%A8%99%E6%9C%AC%EF%BC%882%EF%BC%89.jpg) — Foto: Qiu Wei, 15.02.2026, CC0 1.0 Public Domain, Präparat des Formosana-Leopardenkatzen-Exemplars in der Sammlung des National Taiwan Museum
+- [Streunende Katze nach TNR-Eingriff mit Ohrvermerkung](<https://commons.wikimedia.org/wiki/File:Cat_with_clipped_ear_(cropped).jpg>) — Foto: Yu Tae-wook, 18.11.2016 (zugeschnitten am 18.06.2021), CC0 1.0 Public Domain
+- [Frontalaufnahme eines Taiwan-Schwarzbären](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear01.jpg) — Foto: smartneddy, 05.08.2007, CC BY-SA 3.0
+- [Hauptgipfel des Yushan](https://commons.wikimedia.org/wiki/File:Yushan_Summit_2024.jpg) — Foto: PirateTseng, 29.10.2024, CC BY-SA 4.0
 
 ---
 
 ## Referenzen
 
-[^1]: [Agrarministerium, Informationsnetz für Tierschutz — Erklärung zur Nullstich-Politik](https://animal.moa.gov.tw/) — Offizielle Erklärung des taiwanesischen Nullstich-Programms 2017, einschließlich des Kontexts der Gesetzesänderung des Tierschutzgesetzes und der begleitenden Maßnahmen.
+[^1]: [Informationsnetzwerk für Tierschutz des Landwirtschaftsministeriums — Erläuterung zur Null-Tötungs-Politik](https://animal.moa.gov.tw/) — Offizielle politische Erläuterung zur Umsetzung der Null-Tötungs-Politik in Taiwan im Jahr 2017, einschließlich des Kontextes der Änderung von Artikel 12 des Tierschutzgesetzes und begleitender Maßnahmen.
 
-[^2]: [Agrarministerium — Bericht über die Untersuchung der streunenden Hunde in Taiwan 2022](https://www.moa.gov.tw/) — Ergebnisse der Stichprobenuntersuchung 2022: 159.697 streunende Hunde in ganz Taiwan, die neueste groß angelegte statistische Untersuchung.
+[^2]: [Landwirtschaftsministerium — Bericht zur landesweiten Untersuchung der Population streunender Hunde im Jahr 111 (2022)](https://www.moa.gov.tw/) — Ergebnisse der landesweiten Stichprobenerhebung im Jahr 2022: Die Zahl der streunenden Hunde in ganz Taiwan wird auf 159.697 geschätzt; dies ist die jüngste groß angelegte offizielle Statistik zu diesem Thema.
 
-[^3]: [„Zwölf Nächte“ — Wikipedia](<https://zh.wikipedia.org/wiki/%E5%8D%81%E4%BA%8C%E5%A4%9C_(%E8%87%BA%E7%81%A3%E9%9B%BB%E5%BD%B1)>) — Dokumentarfilm von 2013, inszeniert von Raye und produziert von Jiǔ Bǎo Dāo, der die 12 Tage-Countdown-Geschichte der Hunde im Tierheim erzählt und die Gesetzesänderung 2015 und die Nullstich-Politik 2017 ermöglichte.
+[^3]: [„Twelve Nights“ — Wikipedia](<https://zh.wikipedia.org/wiki/%E5%8D%81%E4%BA%8C%E5%A4%9C_(%E8%87%BA%E7%81%A3%E9%9B%BB%E5%BD%B1)>) — Ein 2013 von Raye inszenierter und von Giddens Ko (九把刀) produzierter Dokumentarfilm, der die Geschichte des 12-tägigen Countdowns von streunenden Hunden in einem Tierheim dokumentiert und direkt die Änderung des Tierschutzgesetzes im Jahr 2015 vorangetrieben hat.
 
-[^4]: [Nationales Gesetzdatenbank — Tierschutzgesetz (überarbeitet 2015)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0060027) — Die im Januar 2015 verabschiedete überarbeitete Fassung des Tierschutzgesetzes, die in Artikel 12 ausdrücklich festlegt, dass ab 2017 keine Tötung mehr in staatlichen Tierheimen erfolgen darf.
+[^4]: [Nationale Datenbank für Gesetze und Vorschriften — Tierschutzgesetz (geändert 2015)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0060027) — Die am 23. Januar 2015 in der dritten Lesung verabschiedete Änderung des Tierschutzgesetzes, wobei Artikel 12 festlegt, dass öffentliche Tierheime ab 2017 die humanitäre Tötung einstellen müssen.
 
-[^5]: [Erklärung des Vereins für den Schutz streunender Hunde in Nantou](https://www.east.org.tw/) — Zitiert vom Verein für Tierschutz, der dauerhaft überlastete Kapazitäten und die regelmäßige Abschaltung neuer Eingänge in Nantou beschreibt und die Probleme der Nullstich-Politik offenlegt.
+[^5]: [Erklärung der Association for Animal Social Research Nantou County Stray Dog Care](https://www.east.org.tw/) — Von der Animal Social Research Society zitiert; beschreibt den Zustand der langfristigen Überbelegung in Tierheimen in Nantou und die Normalisierung der Einstellung von Aufnahmestopps für neue Hunde und Katzen, was die Kapazitätsprobleme nach Einführung der Null-Tötungs-Politik aufzeigt.
 
-[^6]: [Agrarministerium, Informationsnetz für Tierschutz — Auswahl der besten Schulen mit Schulhunden](https://animal.moa.gov.tw/) — Eine Initiative des Bildungsministeriums und des Agrarministeriums (früher Vereinigung für Landwirtschaft), die etwa 700 Schulen in ganz Taiwan unterstützt, die Schulhunde- und Schulkatzen-Programme betreiben.
+[^6]: [Informationsnetzwerk für Tierschutz des Landwirtschaftsministeriums — Auswahl exzellenter Schulen mit Schulhunden](https://animal.moa.gov.tw/) — Ein gemeinsam vom Bildungsministerium und dem ehemaligen Landwirtschaftlichen Komitee (heute Landwirtschaftsministerium) geförderter Wettbewerb zur Lebensbildung auf dem Campus; etwa über 700 Schulen in ganz Taiwan haben Schulhunde oder Schulkatzen.
 
-[^7]: [WuoWuo — Unterschätzte Bedrohung: Das Thema der Hundetötung von Steinbären](https://wuo-wuo.com/topics/widlife/dogkill) — Eine Serie von WuoWuo 2023, die die Daten des Shuangdong-Instituts, Interviews mit Forschern (Lin Yu Hsiu, Chen Zhen Zhi, Chen Mei Ting, Zhang Jun Yi, Zhang Yi Hao) integriert und die konkreten Fälle von Qiu Ge, An Bo, Xi Hu Ge und Yong Ge sowie die Durchsetzungskapazität in Mamenzu abdeckt.
+[^7]: [WuoWuo — Unterschätzte Bedrohung: Sonderbericht über die Gefahr für Schuppenschwanzmakaken (Sika-Tiger)](https://wuo-wuo.com/topics/widlife/dogkill) — Eine tiefgreifende Berichterstattung von WuoWuo aus dem Jahr 2023, die Daten der Abteilung für Biodiversität des Landwirtschaftsministeriums und Experteninterviews (u. a. Lin Yu-hsiu, Chen Zhen-zhi, Chen Mei-ting, Chang Chun-yi, Chang Yi-hao) integriert. Sie deckt konkrete Fälle wie Qiu-ge, An-ber, Xi-hu-ge und Yong-ge sowie die Durchsetzungskapazitäten in Miaoli ab.
 
-[^8]: [PanSci — In welchem Maße ist das Problem der streunenden Hunde und Katzen komplex? Wie können wir streunende Hunde und Katzen und gefährdete Wildtiere retten?](https://pansci.asia/archives/371491) — Ein 7.114 Wort langer tiefgehender Bericht, der am 12. November 2023 in PanSci veröffentlicht wurde, und der die Kernreferenzen für die Abschnitte „Der Tod des Steinbären“, „91 % der Aktivitätszonen“, „TNR ist kein Allheilmittel“, „Die Grauzone der Politik“ und „Die Zwickmühlen-Frage“ liefert. Dieses Zitat erfolgt gemäß dem Taiwan.md × PanSci Content Curation MOU vom 5. Mai 2026, einschließlich direkter Zitate.
+[^8]: [PanSci — Warum ist das Thema streunende Hunde und Katzen so komplex? Wie können wir sie und gefährdete Wildtiere retten?](https://pansci.asia/archives/371491) — Ein am 12. November 2023 auf PanSci veröffentlichter, 7.114 Wörter umfassender Tiefenbericht. Dieser dient als Kernreferenz für die Abschnitte §Tod des Schuppenschwanzmakaken, §91% Aktivitätspunkte, §TNR ist kein Allheilmittel, §Das politische Dreieck und §Das U-Bahn-Dilemma. Diese Zitierung erfolgt unter der Lizenz Taiwan.md × PanSci Content Curation MOU 2026-05-05 und enthält direkte Wortlaut-Zitate.
 
-[^9]: [Forschung von Chen Zhen Zhi, Universität von Pingtung — Bewertung der Auswirkungen streunender Hunde auf die Steinbärenpopulation](https://wuo-wuo.com/topics/widlife/dogkill) — Zitiert im PanSci-Bericht, die Forschung enthält die wichtigsten Erkenntnisse: Hundennukleus-Positivrate (lebend 30,6 % / tot 59,2 %), das 25-fache Risiko eines Straßenunfalls nach Infektion, und die 52,9 % der Hunde, die innerhalb eines Zeitraums verschwanden.
+[^9]: [Studie von Chen Zhen-zhi (National Pingtung University of Science and Technology) — Bewertung der Auswirkungen von Hunden auf die Schuppenschwanzmakaken-Population](https://wuo-wuo.com/topics/widlife/dogkill) — Wird im WuoWuo-Sonderbericht zitiert. Die Forschungsergebnisse umfassen Kernpunkte wie die Positivrate für Canine Parvovirus (30,6 % bei lebenden Tieren / 59,2 % bei Kadavern), ein um das 25-Fache erhöhtes Risiko durch Verkehrstote nach einer Infektion und eine Populationsdynamik, bei der 52,9 % der Individuen in einem Zeitraum verschwanden.
 
-[^10]: [Automatisierte Kamerasichtung des Taiwan-Steinbären-Schutzvereins](https://www.facebook.com/LeopardCatTaiwan/) — Zitiert im PanSci-Bericht, die Ergebnisse der automatisierten Kamerasichtung zeigen, dass 91 % der Orte, an denen Steinbären gesehen wurden, ebenfalls von Hunden besetzt sind, und nur 9 % der Orte sicher sind.
+[^10]: [Wildkamera-Untersuchung der Taiwan Formosan Clouded Leopard Association](https://www.facebook.com/LeopardCatTaiwan/) — Wird im WuoWuo-Sonderbericht zitiert; Ergebnisse einer Wildkamera-Netzwerkuntersuchung zeigen, dass an 91 % der Orte, an denen Schuppenschwanzmakaken aufgenommen wurden, gleichzeitig streunende Hunde zu sehen waren, während nur 9 % als sichere Punkte gelten.
 
-[^11]: [Zentrales Nachrichtenbüro — Forstschutzamt: Die Population der taiwanesischen Schwarzbären ist angestiegen, und es besteht keine Gefahr des Aussterbens](https://www.cna.com.tw/news/ahel/202504230093.aspx) — Erklärung des Forstschutzamts am 23. April 2025, die erwähnt, dass die Population der taiwanesischen Schwarzbären „im Vergleich zu vor 20 Jahren um ein Vielfaches angestiegen ist“ und „die Häufigkeit unter 1.200 Metern Höhe ebenfalls deutlich zugenommen hat“.
+[^11]: [CNA — Forstbehörde: Anzahl der Taiwan-Schwarzbären gestiegen; Population nicht mehr vom Aussterben bedroht](https://www.cna.com.tw/news/ahel/202504230093.aspx) — Erklärung der Forst- und Naturschutzbehörde des Landwirtschaftsministeriums vom 23. April 2025: Die Population der Taiwan-Schwarzbären hat sich „im Vergleich zu vor 20 Jahren um ein Vielfaches erhöht“, wobei die Häufigkeit unterhalb von 1200 Metern über dem Meeresspiegel deutlich zugenommen hat.
 
-[^12]: [Academica Sinica — Taxonomische Liste der taiwanesischen Arten TaiBNET](https://taibnet.sinica.edu.tw/) — 2022 von der Academica Sinica aktualisiert, die offiziell Hunde und Katzen von „eingeführte Arten“ zu „invasive Arten“ reklassifiziert hat, ein erster rechtlicher Schritt, um Begleitungstiere in die Kategorie der invasiven Arten einzubeziehen.
+[^12]: [Academia Sinica — Taiwan Species List TaiBNET](https://taibnet.sinica.edu.tw/) — Im Jahr 2022 von der Academia Sinica aktualisiert; Hunde und Katzen wurden offiziell von „exotischen Arten“ zu „invasiven gebietsfremden Arten“ umklassifiziert. Dies ist das erste Mal, dass Haustiere im offiziellen Klassifizierungssystem Taiwans in die Kategorie der invasiven Arten aufgenommen wurden.
 
-[^13]: [Bericht über den Jian Zhi Cheng-Vorfall — Vereinigung für Tierschutz](https://www.east.org.tw/) — Der Vorfall im Mai 2016, in dem der Tierarzt Jian Zhi Cheng im Tierheimpark für Bildung in New Taipei City durch Selbstmord starb und die psychischen Wunden der Tierheimmitarbeiter offenbarte, was zur Einführung von psychologischen Beratungsressourcen für Tierärzte führte.
+[^13]: [Berichterstattung über den Vorfall um Jian Zhi-cheng — Animal Social Research Society](https://www.east.org.tw/) — Der Fall des Tierarztes Jian Zhi-cheng im Tierschutzpark Xinwu im Mai 2016 deckte die langfristigen psychischen Traumata des Personals in Tierheimen auf und führte zur Einführung von psychologischen Beratungsressourcen für Tierheimtierärzte.
 
-[^14]: [Doherty et al. (2017), "The global impacts of domestic dogs on threatened vertebrates," Biological Conservation 210: 56–59](https://www.sciencedirect.com/journal/biological-conservation) — Originalwissenschaftlicher Artikel im internationalen Journal, der feststellt, dass streunende Hunde bereits eine Bedrohung für mindestens 188 gefährdete Arten weltweit darstellen, die ursprüngliche wissenschaftliche Quelle, die von PanSci zitiert wird.
+[^14]: [Doherty et al. (2017), "The global impacts of domestic dogs on threatened vertebrates," Biological Conservation 210: 56–59](https://www.sciencedirect.com/journal/biological-conservation) — Originalquelle aus einer internationalen Fachzeitschrift; streunende Hunde wurden als Hauptbedrohung für mindestens 188 weltweit gefährdete Tierarten identifiziert. Dies ist die akademische Primärquelle, auf die sich PanSci bezieht.
 
-[^15]: [Yen et al. (2019), "Pets and pests: A meta-analysis of the influence of free-ranging domestic dogs on wildlife populations," Scientific Reports 9: 15314](https://www.nature.com/articles/s41598-019-51743-3) — Der von Yan Shi Qing et al. veröffentlichte Artikel in Scientific Reports über die Auswirkungen freilebender Haushunde auf die Wildtierpopulationen in der Region Nord-Taiwan (einschließlich des Nationalparks Yangmingshan).
+[^15]: [Yen et al. (2019), "Pets and pests: A meta-analysis of the influence of free-ranging domestic dogs on wildlife populations," Scientific Reports 9: 15314](https://www.nature.com/articles/s41598-019-51743-3) — Eine in Scientific Reports veröffentlichte Studie von Yen et al. über die Auswirkungen streunender Hunde auf die Wildtierdiversität im Großraum Taipeh (einschließlich des Yangmingshan-Nationalparks).
 
-[^16]: [Offizielle Website der Vereinigung für Tierschutz](https://www.east.org.tw/) — Die Positionen von Chen Yu Man (Stellvertretende Geschäftsführerin) und anderen zur TNR- und TNvR-Politik und zur Verantwortung der Halter.
+[^16]: [Offizielle Website der Taiwan Animal Social Research Society](https://www.east.org.tw/) — Positionen von Chen Yu-min (stellvertretende Exekutivdirektorin) u. a. zu TNR/TNvR und der Verantwortung der Besitzer; sie plädieren dafür, dass sich die Politik auf das Management der Besitzer konzentrieren sollte anstatt auf die Entfernung von Hotspots.
 
-[^17]: [Informationsnetz für Tierschutz — Sonderthema: Kultur der Adoption von Mischlingen](https://animal.moa.gov.tw/) — Politische Förderung und soziale Bildung für die Kultur der Adoption von Mischlingen und gemischten Rassen in Taiwan.
+[^17]: [Informationsnetzwerk für Tierschutz — Sonderprojekt zur Adoption von Mischlingshunden (Mixes)](https://animal.moa.gov.tw/) — Zusammenstellung der politischen Förderung und der Bildungsressourcen der taiwanesischen Tierschutzpolitik bezüglich der Adoptionskultur für Mischlingshunde.
 
-[^18]: [Bildungsministerium — Programm für den Tierschutz an Schulen](https://animal.moa.gov.tw/) — Die Grundlage für etwa 700 Schulen in ganz Taiwan, die Schulhunde- und Schulkatzen-Programme betreiben, seit 2019 jährlich die „Ausgezeichneten Schulen mit Schulhunden“ auswählen.
+[^18]: [Bildungsministerium — Tierschutzprogramme auf dem Campus](https://animal.moa.gov.tw/) — Die politische Grundlage für die Schulhund- und Schulkatzen-Programme an über 700 Schulen in ganz Taiwan; seit 2019 wird die Auszeichnung „Exzellente Schulen mit Schulhunden“ vergeben.
