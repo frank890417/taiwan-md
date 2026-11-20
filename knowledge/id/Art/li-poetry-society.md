@@ -1,20 +1,20 @@
 ---
-title: 'Komunitas Puisi Li: Sekelompok Orang yang Dipaksa Melupakan Bahasa Jepang, Menopang Majalah Puisi Berbahasa Mandarin Paling Langgeng di Taiwan'
-description: 'Pada tahun 1958, seorang mantan tentara Jepang berketurunan Taiwan berusia 36 tahun menerbitkan puisi berbahasa Mandarin pertama pasca perang di bawah nama samaran "Huan-fu", 11 tahun setelah ia berhenti menulis dalam bahasa Jepang. Enam tahun kemudian, ia bersama sebelas orang lain di ruang tamu di Taiwan Tengah, mengubah pengalaman kebisuan generasi itu menjadi sebuah komunitas puisi bernama "Li" — terbit tanpa henti selama 60 tahun, membawa puisi lokal dari pinggiran ke buku pelajaran SMP.'
+title: 'Lishi Society: Sekelompok Orang yang Terpaksa Melupakan Bahasa Jepang, Menopang Publikasi Puisi Mandarin Tertua di Taiwan'
+description: 'Pada tahun 1958, seorang mantan tentara Jepang keturunan Taiwan berusia 36 tahun menerbitkan puisi bahasa Mandarin pertama pasca-perang dengan nama pena "Huanfu", setelah ia berhenti menulis dalam bahasa Jepang selama 11 tahun. Enam tahun kemudian, ia bersama sebelas orang lainnya di sebuah ruang tamu di tengah Taiwan mengubah pengalaman hilangnya bahasa generasi tersebut menjadi sebuah perkumpulan puisi bernama "Lishi"—yang tidak pernah berhenti menerbitkan karya selama 60 tahun, membawa estetika puisi lokal dari pinggiran hingga masuk ke dalam buku teks sekolah menengah pertama.'
 date: 2026-06-20
 category: 'Art'
 tags:
   [
-    'Komunitas Puisi Li',
+    'Lishi Society',
     'Puisi Modern Taiwan',
-    'Generasi yang Melampaui Bahasa',
+    'Generasi Lintas Bahasa',
     'Chen Qianwu',
     'Lin Hengtai',
-    'Bai Qiu',
+    'Bai Hu',
     'Wu Sheng',
     'Xiang Yang',
     'Sastra Lokal',
-    'Debat Sastra Nusantara',
+    'Debat Sastra Tanah Air',
   ]
 subcategory: '文學'
 author: 'Taiwan.md'
@@ -23,375 +23,379 @@ lastVerified: 2026-06-20
 lastHumanReview: false
 researchReport: 'reports/research/2026-06/笠詩社.md'
 image: '/article-images/art/li-poetry-wu-sheng-2016.webp'
-imageAlt: 'Penyair Wu Sheng pada Pameran Buku Internasional Taipei 2016, orang Xi Zhou Changhua, penyair tanah, karyanya "Beban" tercatat dalam buku pelajaran SMP selama 40+ tahun'
+imageAlt: 'Penyair Wu Sheng di Taipei International Book Exhibition tahun 2016, berasal dari Xizhou, Changhua, penyair tanah, karyanya "Beban" telah dimuat dalam buku teks sekolah menengah pertama selama lebih dari 40 tahun'
 imageCredit: 'Rico Shen via Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:2016TIBE_D3_Wu_Sheng.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Art/笠詩社.md'
-sourceCommitSha: '21298a7ae'
-sourceContentHash: 'sha256:28d7ec6ba7695699'
-sourceBodyHash: 'sha256:a39fc5d7615c6869'
-translatedAt: '2026-09-26T16:41:34.863495+00:00'
+sourceCommitSha: '8ddc02a734'
+sourceContentHash: 'sha256:c0db8ad58cb81cc3'
+sourceBodyHash: 'sha256:8474e7f850a1b02b'
+translatedAt: '2026-11-19T22:16:50.151104+00:00'
 ---
 
-# Komunitas Puisi Li: Seorang Kelompok yang Dipaksa Melupakan Bahasa Jepang, Menopang Majalah Puisi Bahasa Tionghoa Paling Langgeng di Taiwan
+# Kelompok Puisi Li: Sekelompok Orang yang Terpaksa Melupakan Bahasa Jepang, Menopang Publikasi Puisi Berbahasa Mandarin Paling Panjang Umur di Taiwan
 
-> **Ringkasan 30 Detik:** Pada 10 Januari 1958, seorang pemuda berusia 36 tahun, keturunan Taiwan, yang pernah dikerahkan ke Nanyang untuk berperang selama masa perang, menggunakan nama pena "Huan-fu" menerbitkan sebuah puisi berbahasa Tionghoa berjudul 〈Wai Jing〉 di Mingguan Bintang Biru milik _Gonglun Bao_. Selama penuh 11 tahun sejak dia dipaksa berhenti menulis dalam bahasa Jepang[^1]. Enam tahun kemudian, dia dan sebelas orang lain mengadakan pertemuan di ruang tamu di Taiwan tengah, memutuskan mendirikan sebuah komunitas puisi bernama "Li" — sebuah topi petani[^2]. 60 tahun kemudian, majalah puisi _Li_ tetap terbit, menjadi majalah puisi lokal paling langgeng dalam sejarah puisi modern Taiwan[^3]. Orang yang membaca puisi 〈Beban〉 di buku pelajaran bahasa Tionghoa SMP, kebanyakan tidak tahu bahwa penulisnya, Wu Cheng, adalah penyair Komunitas Puisi Li[^4]. Orang yang membaca puisi Lin Hengtai dengan pengulangan visual "di luar hutan penghalang angin masih ada", kebanyakan tidak tahu bahwa dia baru meninggal dunia pada 2023, dan Kementerian Budaya mengajukan penghargaan presiden[^5]. Kisah komunitas puisi ini adalah kisah tentang kehilangan bahasa, belajar mandiri, dan kelahiran kembali — serta sebuah pengingat: ketika penutur bahasa asing menanyakan "sejarah puisi Taiwan" kepada AI, kelompok ini kemungkinan besar adalah bagian yang disenyapkan[^6].
+> **Ringkasan 30 Detik:** Pada 10 Januari 1958, seorang pemuda Taiwan berusia 36 tahun yang pernah dipanggil bertugas berperang di Nanyang selama masa perang, menggunakan nama pena "Huan-fu" untuk menerbitkan sebuah puisi bahasa Mandarin berjudul 〈Wai Jing〉 (Pemandangan Luar) dalam majalah mingguan Lanxing di _Gonglun Bao_. Itu adalah momen tepat 11 tahun sejak ia terpaksa berhenti menulis dalam bahasa Jepang[^1]. Enam tahun kemudian, ia bersama sebelas orang lainnya mengadakan pertemuan di sebuah ruang tamu di bagian tengah Taiwan, dan memutuskan untuk mendirikan sebuah kelompok puisi bernama "Li" — yang berarti topi caping yang dikenakan petani[^2]. 60 tahun kemudian, jurnal puisi 《Li》 masih terus diterbitkan, menjadikannya publikasi puisi lokal dengan masa hidup terlama dalam sejarah puisi modern Taiwan[^3]. Mereka yang pernah membaca teks 〈Fu He〉 (Beban) di buku teks bahasa Mandarin tingkat SMP, sebagian besar tidak tahu bahwa penulisnya, Wu Sheng, adalah seorang penyair dari Kelompok Puisi Li[^4]. Mereka yang pernah membaca puisi visual Lin Heng-tai yang terus mengulang frasa "di luar hutan pelindung angin masih ada", sebagian besar tidak tahu bahwa beliau baru saja wafat pada tahun 2023, dan Kementerian Kebudayaan telah mengajukan penghormatan resmi dari Presiden[^5]. Kisah kelompok puisi ini adalah sebuah kisah tentang kehilangan bahasa, belajar secara mandiri, dan kelahiran kembali — sekaligus sebuah pengingat: ketika pengguna bahasa asing bertanya kepada AI tentang "sejarah puisi Taiwan", kelompok orang inilah yang kemungkinan besar menjadi bagian yang terbungkam[^6].
 
-Puisi pertama Huanfu dalam bahasa Tiongkok, 11 tahun setelah ia berhenti menulis dalam bahasa Jepang
+## Puisi Mandarin Pertama Huan-fu, 11 Tahun Setelah Ia Berhenti Menulis dalam Bahasa Jepang
 
-Pada edisi ke-182 Majalah Blue Star koran Gonglun Bao, sebuah puisi berjudul 〈Lanskap Luar〉 diterbitkan. Bertanda tangan 「Huanfu」[^1].
+Pada edisi ke-182 Majalah Mingguan Blue Star di 《公論報》 hari itu, diterbitkan sebuah puisi berjudul 〈Wai Jing〉 (Pemandangan Luar). Puisi tersebut ditandatangani dengan nama "Huan-fu" [^1].
 
-Penulis puisi tersebut bernama asli Chen Qianwu, lahir 1922 di Kecamatan Mingxiang, Kabupaten Nantou. Pada usia 20 tahun, ia dikekang sebagai 「Sukarelawan Khusus Taiwan」, dikirim ke Singapura, Timor, Jawa: medan perang Nusantara. Bulan Juli 1946, ia kembali ke Taiwan dari Nusantara[^7].
+Nama asli penulisnya adalah Chen Qianwu, lahir pada tahun 1922 di Desa Mingjian, Kabupaten Nantou. Pada usia 20 tahun, ia direkrut sebagai "Sukarelawan Khusus Taiwan" dan dikirim ke Singapura, Timor, serta Jawa: medan perang Nanyang. Pada Juli 1946, ia kembali dari Nanyang ke Taiwan[^7].
 
-Kembali ke Taiwan, ia menyadari dirinya sudah tidak bisa menulis lagi.
+Sekembalinya ke Taiwan, ia menyadari bahwa dirinya tidak lagi bisa menulis.
 
-Bukan karena trauma perang: meskipun itu juga ada. Alasannya adalah Pemerintah Nasional menghapuskan bahasa Jepang.
+Bukan karena trauma perang: meskipun itu juga berpengaruh. Melainkan karena Pemerintah Nasional telah menghapuskan penggunaan bahasa Jepang.
 
-Chen Qianwu menerima pendidikan Jepang dari sekolah dasar hingga menengah, ia menulis puisi dalam bahasa Jepang, membaca buku dalam bahasa Jepang, berkirim surat dengan teman dalam bahasa Jepang. Setelah 1946, bahasa yang pernah membuka dunia baginya, tiba-tiba menjadi area terlarang di ranah publik. Ia harus belajar tulisan baru: saat itu berusia 24 tahun. Belajar menulis puisi dalam bahasa Tiongkok dari nol, bukanlah hal sebanding dengan belajar makan menggunakan tangan kiri[^8].
+Chen Qianwu menerima pendidikan Jepang sejak sekolah dasar hingga menengah; ia menulis puisi dalam bahasa Jepang, membaca buku dalam bahasa Jepang, dan berkorespondensi dengan teman-temannya dalam bahasa Jepang. Setelah tahun 1946, bahasa yang pernah membukakan dunia baginya itu tiba-tiba menjadi zona terlarang di ranah publik. Ia harus mempelajari jenis tulisan yang baru: saat itu ia berusia 24 tahun. Memulai penulisan puisi dalam bahasa Mandarin dari nol bukanlah hal yang setara dengan belajar makan menggunakan tangan kiri[^8].
 
-Ia berhenti menulis selama 10 tahun lebih. Puisi 〈Lanskap Luar〉 pada 10 Januari 1958, adalah puisi pasca-perang pertamanya yang diterbitkan dengan nama pena baru 「Huanfu」[^1]. Bulan September tahun yang sama, terjadi tragedi konstruksi di jalur barat Jalan Lintas, ia menulis sebuah puisi 〈Ratap Suram〉 terbit di 《Koran Buruh》. Tahun itu ia total menerbitkan tujuh puisi.
+Ia berhenti menulis selama lebih dari 10 tahun. Puisi 〈Wai Jing〉 pada tanggal 10 Januari 1958 adalah puisi Mandarin pertama pasca-perang yang ia terbitkan dengan nama pena barunya, "Huan-fu" [^1]. Pada bulan September di tahun yang sama, terjadi tragedi konstruksi di jalur barat jalan raya lintas pulau (Cross-Island Highway), dan ia menulis sebuah puisi berjudul 〈Ai Yun〉 (Rima Ratapan) yang diterbitkan dalam 《工人報》. Pada tahun tersebut, ia total menerbitkan tujuh buah puisi.
 
-Enam tahun kemudian, ia bersama sebelas orang lain memutuskan mendirikan sebuah komunitas puisi.
+Enam tahun kemudian, ia bersama sebelas orang lainnya memutuskan untuk mendirikan sebuah perkumpulan puisi.
 
-> 📝 **Catatan Kurator**: 「Generasi Melampaui Bahasa」 istilah ini, diajukan secara retrospektif pada 1967 oleh penyair Lin Hengtai[^9] — merujuk pada sekelompok orang seperti Chen Qianwu: lahir akhir masa pendudukan Jepang (sekitar rentang 1915-1928), masa remaja menerima pendidikan dalam bahasa Jepang, pasca-perang karena Pemerintah Pusat menghapuskan bahasa Jepang terpaksa belajar ulang bahasa Tiongkok, penyair lokal Taiwan[^10]. Taiwan bukan satu-satunya tempat di dunia yang pernah mengalami hal seperti ini, tetapi di Taiwan generasi ini nantinya menopang sebuah majalah puisi yang selama 60 tahun tidak pernah berhenti terbit. Akademisi Barat baru pada 2024 secara resmi memasukkan generasi ini ke dalam nama bahasa Inggris 「Translingual Poets」（Penyair Translingual）[^11] — setengah abad kemudian, posisi mereka baru terlihat oleh dunia bahasa asing.
+> 📝 **Catatan Kurator**: Istilah "Generasi Lintas Bahasa" adalah istilah yang diajukan secara retrospektif oleh penyair Lin Heng-tai pada tahun 1967[^9]—merujuk pada kelompok seperti Chen Qianwu: para penyair lokal yang lahir di akhir masa penjajahan Jepang (sekitar rentang tahun 1915-1928), menerima pendidikan dalam bahasa Jepang pada masa remaja, dan terpaksa mempelajari kembali bahasa Mandarin pasca-perang karena penghapusan bahasa Jepang oleh Pemerintah Nasional[^10]. Taiwan bukanlah satu-satunya tempat di dunia di mana hal ini terjadi, namun generasi di Taiwan inilah yang kemudian menopang sebuah jurnal puisi yang tidak pernah berhenti terbit selama 60 tahun. Akademisi Barat baru secara resmi memasukkan generasi ini ke dalam istilah bahasa Inggris "Translingual Poets" pada tahun 2024[^11]—setengah abad kemudian, posisi mereka baru terlihat oleh dunia luar melalui bahasa asing.
 
-## Dua Belas Orang di Bawah Topi Conis
+## Dua Belas Orang di Bawah Caping
 
-![1964 年笠詩刊社經理合影，創社當年的歷史紀錄](/article-images/art/li-poetry-shikan-1964.webp)
-_Foto bersama manajer Li Shikan-she tahun 1964. Di antara dua belas pendiri, setengahnya adalah 'generasi lintas bahasa' yang terpaksa belajar bahasa Tionghoa dari nol. Sumber gambar: Wikimedia Commons (CC BY-SA / Domain Publik)._
+![Foto bersama pengelola majalah puisi Li tahun 1964, catatan sejarah pada tahun pendirian](/article-images/art/li-poetry-shikan-1964.webp)
+_Foto bersama pengelola majalah puisi Li tahun 1964. Dari dua belas orang pendiri, setengahnya adalah generasi lintas bahasa yang terpaksa belajar bahasa Mandarin dari nol. Sumber gambar: Wikimedia Commons (CC BY-SA / Public domain)._
 
-Awal musim semi 1964, di sebuah pertemuan kecil di wilayah tengah, dua belas orang memutuskan untuk membuat majalah puisi baru.
+Pada awal musim semi tahun 1964, dalam sebuah pertemuan kecil di bagian tengah Taiwan, dua belas orang memutuskan untuk menerbitkan sebuah majalah puisi baru.
 
-Dua belas pendirinya adalah: **Wu Ying-tao, Chen Chien-wu (Huan-fu), Chan Ping, Lin Heng-tai, Chin Lien, Pai Chiu, Chao Tien-i, Huang Ho-sheng, Hsueh Po-ku, Wang Hsien-yang, Ku Pei, Tu Kuo-ching**[^12]. Yang paling tua, Chan Ping, lahir 1921, adalah apoteker keturunan Hakka dari Cholan, Miaoli[^13]. Yang paling muda, Pai Chiu, lahir 1937 di Taichung[^14].
+Dua belas pendiri tersebut adalah: **Wu Ying-tao, Chen Qian-wu (Huan-fu), Zhan Bing, Lin Heng-tai, Jin Lian, Bai Zhu, Chao Tien-yi, Huang Ho-sheng, Hsueh Po-ku, Wang Hsien-yang, Ku Pei, dan Du Kuo-ching**[^12]. Yang tertua, Zhan Bing, lahir pada tahun 1921, seorang apoteker keturunan Hakka dari Zhuolan, Miaoli[^13]. Yang termuda, Bai Zhu, lahir di Taichung pada tahun 1937[^14].
 
-Nama "Li" (笠) diusulkan oleh Lin Heng-tai: topi conis yang dipakai petani di ladang[^15]. Saat menggelar pameran tahun 2024, Museum Sastra Nasional Taiwan mendeskripsikannya: "Topi conis Taiwan melambangkan kehendak Taiwan yang sederhana, rajin, tabah, dan bebas"[^16]. Pada 15 Juni 1965, majalah puisi _Li_ terbit perdana, dengan sampul berupa pahlawan mitologi Yunani Herakles[^17].
+Nama komunitas "Li" (笠) disarankan oleh Lin Heng-tai: merujuk pada caping yang dikenakan petani di ladang[^15]. Dalam kurasi Museum Sastra Nasional Taiwan tahun 2024, dijelaskan sebagai berikut: "Caping Taiwan melambangkan kehendak Taiwan yang sederhana, rajin, gigih, dan bebas"[^16]. Pada 15 Juni 1965, edisi pertama majalah puisi 《Li》 diterbitkan dengan sampul pahlawan mitologi Yunani, Hercules[^17].
 
-Kombinasi ini bukan kebetulan. Di antara dua belas orang, setengahnya adalah "generasi lintas bahasa":
+Kelompok ini bukanlah sebuah kebetulan. Dari dua belas orang tersebut, setengahnya adalah "generasi lintas bahasa":
 
-- **Chen Chien-wu** (1922-2012): Puisi berbahasa Tionghoa pertamanya setelah berhenti menulis 10 tahun, "Xin Ge" (信鴿), diterbitkan pada Juli 1964 di edisi ke-5 _Hsin Hsiang_ (新象). "Terpendam di Nanyang mati aku, aku lupa membawa pulang / Di sana ada pulau-pulau dengan kelapa yang subur" — menuliskan tragedi identitas ganda tentara Taiwan yang menjadi tentara Jepang ke dalam puisi[^18].
-- **Lin Heng-tai** (1924-2023): Orang Peitou, Changhua. Tahun 1942 menulis puisi berbahasa Jepang di "Yinlinghui" (銀鈴會) dengan nama pena "Heng-jen" (亨人); pasca-perang sejak 1947 beralih ke bahasa Tionghoa, pertama masuk aliran "Modernis" (現代派) milik Chi Hsien (紀弦), 1964 berpartisipasi mendirikan Li Shishe (笠詩社) dan menjabat sebagai penyunting pertama[^19].
-- **Chan Ping** (1921-2004): Identitas ganda sebagai apoteker dan guru kimia/fisika, disebut "Penyair Farmasi". Tahun 1948 bergabung dengan Yinlinghui menulis puisi berbahasa Jepang, rapat pendirian Li Shishe tahun 1964 diadakan di rumahnya[^13].
-- **Chin Lien** (1928-2013): Orang Changhua, lulus sekolah kereta api lalu bekerja di ruang telegraf Kereta Api Taiwan hampir 38 tahun. Sebelum dan sesudah Perang Dunia II menulis lebih dari 400 puisi berbahasa Jepang, pasca-perang lama diam dari penulisan, 1964 berpartisipasi mendirikan Li Shishe lalu kembali aktif. Tahun 2002 ia sendiri menerjemahkan puisi-puisi berbahasa Jepang yang ditulisnya pada 1952-1957 ke bahasa Tionghoa, menerbitkan _Shou Ye De Bi Hu_ (守夜的壁虎)[^20].
+- **Chen Qian-wu** (1922-2012): Puisi Mandarin pertamanya setelah berhenti menulis selama lebih dari 10 tahun, 〈Xun Ge〉 (Merpati Pos), diterbitkan pada Juli 1964 dalam edisi ke-5 majalah 《Xin Xiang》. "Kematianku terkubur di Nanyang, aku lupa membawanya kembali / Di sana ada pulau dengan pohon kelapa yang rimbun" — ia menuliskan tragedi identitas ganda tentara Taiwan berpangkat Jepang ke dalam puisinya[^18].
+- **Lin Heng-tai** (1924-2023): Orang Beidou, Changhua. Pada tahun 1942, ia menggunakan nama pena "Heng-ren" untuk menulis puisi bahasa Jepang di kelompok "Yin Ling Hui"; setelah perang, mulai tahun 1947 ia beralih ke bahasa Mandarin, awalnya bergabung dengan aliran "modernis" Ji Xian, lalu berpartisipasi dalam pendirian Komunitas Puisi Li pada tahun 1964 dan menjabat sebagai editor utama pertama[^19].
+- **Zhan Bing** (1921-2004): Memiliki identitas ganda sebagai apoteker dan guru fisika-kimia, ia dijuluki "Penyair Farmasi". Pada tahun 1948, ia bergabung dengan Yin Ling Hui untuk menulis puisi dalam bahasa Jepang; rapat pendirian Komunitas Puisi Li pada tahun 1964 diadakan di rumahnya[^13].
+- **Jin Lian** (1928-2013): Orang Changhua, lulusan sekolah kereta api dan bekerja di ruang telegraf Perusahaan Kereta Api Taiwan selama hampir 38 tahun. Ia menulis lebih dari 400 puisi bahasa Jepang sebelum dan sesudah Perang Dunia II, namun sempat vakum dalam berkarya setelah perang, hingga akhirnya kembali aktif setelah ikut mendirikan Komunitas Puisi Li pada tahun 1964. Pada tahun 2002, ia menerjemahkan sendiri puisi-puisi bahasa Jepang yang ditulisnya antara tahun 1952-1957 ke dalam bahasa Mandarin dan menerbitkan 《Shou Ye De Bi Hu》 (Cicak Penjaga Malam)[^20].
 
-"Yinlinghui" (銀鈴會) adalah titik koneksi kunci. Tahun 1942 didirikan oleh Chu Shih (朱實), Chang Yen-hsun (張彥勳), Hsu Ching-shih (許清世), menerbitkan majalah _Yuan Tsao_ (緣草)[^21]. Di antara dua belas pendiri Li Shishe tahun 1964, setidaknya Chan Ping, Lin Heng-tai, dan Chin Lien adalah kenalan lama dari Yinlinghui: dari pertemuan penyair muda berbahasa Jepang ke komunitas puisi nativis penulisan bahasa Tionghoa, garis keturunan 22 tahun ini bukan kebetulan, melainkan satu generasi yang merakit kembali pengalaman kehilangan suara mereka sendiri menjadi sebuah majalah puisi baru.
+"Yin Ling Hui" adalah titik temu yang krusial. Didirikan pada tahun 1942 oleh Chu Shih, Chang Yen-hsun, dan Hsu Ching-shih, kelompok ini menerbitkan publikasi 《Yuan Cao》[^21]. Di antara dua belas pendiri Komunitas Puisi Li pada tahun 1964, setidaknya Zhan Bing, Lin Heng-tai, dan Jin Lian adalah kenalan lama dari Yin Ling Hui: dari komunitas puisi pemuda yang menulis dalam bahasa Jepang hingga komunitas puisi lokal yang menulis dalam bahasa Mandarin, garis keturunan selama 22 tahun ini bukanlah kebetulan, melainkan sebuah generasi yang menyusun kembali pengalaman "kehilangan bahasa" mereka menjadi sebuah majalah puisi yang baru.
 
-![詩人林亨泰肖像，笠詩社首任主編](/article-images/art/li-poetry-lin-hengtai-portrait.webp)
-_Penyair Lin Heng-tai, penyunting pertama Li Shishe. Muda dulu menulis puisi berbahasa Jepang di Yinlinghui, kemudian masuk aliran Modernis Chi Hsien, 1964 berpartisipasi mendirikan Li Shishe; 2023 meninggal dunia berusia 100 tahun, Kementerian Budaya mengajukan penghargaan presiden. Sumber gambar: Wikimedia Commons (CC BY-SA / Domain Publik)._
+![Potret penyair Lin Heng-tai, editor utama pertama Komunitas Puisi Li](/article-images/art/li-poetry-lin-hengtai-portrait.webp)
+_Penyair Lin Heng-tai, editor utama pertama Komunitas Puisi Li. Di masa muda ia menulis puisi dalam bahasa Jepang di Yin Ling Hui, kemudian bergabung dengan aliran modernis Ji Xian, dan berpartisipasi mendirikan Komunitas Puisi Li pada tahun 1964; wafat pada usia 100 tahun pada tahun 2023, dan menerima penghormatan resmi dari Presiden melalui Kementerian Kebudayaan. Sumber gambar: Wikimedia Commons (CC BY-SA / Public domain)._
 
-## Di Luar Hutan Lindung, Masih Ada Hutan Lindung
+## Di Luar Hutan Penahan Angin, Masih Ada Hutan Penahan Angin
 
-Lin Hengtai pada 1955 menulis sebuah puisi berjudul 〈Pemandangan No.2〉:
+Lin Heng-tai menulis sebuah puisi berjudul 〈Pemandangan No. 2〉 pada tahun 1955:
 
-> Hutan lindung　punya
-> 　　di luarnya　masih ada
-> hutan lindung　punya
-> 　　di luarnya　masih ada
-> hutan lindung　punya
-> 　　di luarnya　masih ada
+> Di luar
+> 　　hutan penahan angin
+> masih ada
+> 　　di luar
+> hutan penahan angin
+> masih ada
+> 　　di luar
+> hutan penahan angin
 >
-> Namun laut　serta deretan ombak
-> Namun laut　serta deretan ombak
+> Namun laut dan deretan ombak
+> Namun laut dan deretan ombak
 
-Dibacakan terasa seperti teka-teki lidah, dilihat seperti eksperimen visual. Lin Hengtai sendiri pernah menjelaskan latar penulisannya: dia naik mobil dari Xihu ke Erlin, pemandangan sepanjang jalan memang begitu: «Barisan-barisan hutan lindung tersusun rapi, dan setelah lewat Erlin langsung laut, ombak bergulung-gulung»[^22].
+Saat diucapkan, puisi ini terdengar seperti permainan kata (_tongue twister_), dan secara visual tampak seperti sebuah eksperimen. Lin Heng-tai sendiri pernah menjelaskan latar belakang penulisannya: saat ia naik bus dari Xihu menuju Erlin, pemandangan yang ia lihat adalah seperti ini: "Barisan hutan penahan angin berjajar rapi, dan setelah melewati Erlin adalah laut dengan ombak yang bergulung-gulung"[^22].
 
-Puisi ini adalah karya representatif **«Objektivisme Baru» (New Objectivism)** dalam sejarah puisi modern Taiwan[^23]. Objektivisme Baru ini berlawanan dengan komunitas puisi modernis di bagian utara (Aliran Modern, Bintang Biru, Genesis): yang terakhir menekankan retorika tinggi, imaji yang rumit, kenangan pengungsian, metafisika; kecenderungan Komunitas Puisi Li justru sederhana, dekat dengan bahasa lisan, realisme tanah air, kesaksian sosial[^24].
+Puisi ini merupakan karya representatif dari "Neo-Objektivisme" dalam sejarah puisi modern Taiwan[^23]. Apa yang disebut sebagai Neo-Objektivisme ini berlawanan dengan kelompok penyair Modernis di bagian utara (Modernist, Blue Star, Genesis): kelompok terakhir menekankan retorika tinggi, citraan yang kompleks, memori pengasingan, dan metafisika; sementara kecenderungan Kelompok Puisi Li adalah kesederhanaan yang merakyat, dekat dengan bahasa lisan, realisme tanah air, dan kesaksian sosial[^24].
 
-Perlawanan ini bukan sekadar pilihan estetika, melainkan perbedaan posisi struktural:
+Pertentangan ini bukan sekadar pilihan estetika, melainkan perbedaan posisi struktural:
 
-| Dimensi                | Komunitas Puisi Modernis／Bintang Biru／Genesis                 | Komunitas Puisi Li                                       |
-| ---------------------- | --------------------------------------------------------------- | -------------------------------------------------------- |
-| Latar anggota          | Mayoritas penyair waisheng (Ji Xian, Qin Zihao, Ya Xian, Lo Fu) | Mayoritas penyair bensheng translingual                  |
-| Kecenderungan estetika | Modernisme Barat／Surrealisme／Puisi murni                      | Objektivisme Baru／Realisme／Intelektual／Realisme lokal |
-| Fokus tema             | Kenangan pengungsian, rindu kampung halaman, metafisika         | Tanah Taiwan, realitas sosial, kesaksian sejarah         |
-| Strategi bahasa        | Retorika tinggi, imaji rumit                                    | Sederhana, dekat dengan bahasa lisan                     |
-| Posisi politik         | Dekat dengan otoritas resmi                                     | Pinggiran, lama ditekan                                  |
+| Dimensi                | Kelompok Puisi Modern / Blue Star / Genesis                         | Kelompok Puisi Li                                          |
+| ---------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------- |
+| Latar Belakang Anggota | Mayoritas penyair Waisheng (Ji Xian, Tan Tzu-hao, Yeh Hsien, Lo Fu) | Didominasi oleh penyair lintas bahasa asli Taiwan          |
+| Kecenderungan Estetika | Modernisme Barat / Surealisme / Puisi Murni                         | Neo-Objektivisme / Realisme / Intelektual / Realisme Lokal |
+| Fokus Tema             | Memori pengasingan, nostalgia, metafisika                           | Tanah Taiwan, realitas sosial, kesaksian sejarah           |
+| Strategi Bahasa        | Retorika tinggi, citraan kompleks                                   | Sederhana dan merakyat, dekat dengan bahasa lisan          |
+| Posisi Politik         | Lebih dekat dengan pihak resmi                                      | Marjinal, lama ditekan                                     |
 
-> 💡 **Tahukah Anda**: Lin Hengtai awalnya sebenarnya anggota «Aliran Modern» milik Ji Xian, baru kemudian bergabung ke Komunitas Puisi Li dan menjadi ketua redaksi pertama. Sejarah puisi modern Taiwan bukan dua blok yang tidak pernah berkomunikasi, melainkan sekelompok penyair yang di fase berbeda memilih berdiri di posisi berbeda——Lin Hengtai dari mengejar «transplantasi horizontal» modernisme Barat, berjalan menuju poetika lokal yang memakai topi kerucut (Li) sebagai metafora «kesederhanaan dan ketekunan», perubahan ini sendiri sudah menjadi catatan kaki dalam sejarah puisi Taiwan[^25].
+> 💡 **Tahukah Anda**: Pada masa awal, Lin Heng-tai sebenarnya adalah anggota kelompok "Modernist" pimpinan Ji Xian, sebelum akhirnya beralih ke Kelompok Puisi Li dan menjabat sebagai editor pertama. Sejarah puisi modern Taiwan bukanlah tentang dua kubu yang tidak pernah berkomunikasi, melainkan tentang sekelompok penyair yang sama yang memilih untuk berdiri di posisi berbeda pada tahap yang berbeda pula—perubahan Lin Heng-tai dari mengejar "transplantasi horizontal" Modernisme Barat menuju puitika lokal yang menggunakan topi caping sebagai metafora bagi "kesederhanaan dan ketekunan", adalah sebuah catatan penting dalam sejarah puisi Taiwan[^25].
 
-Posisi Komunitas Puisi Li ini——selatan, bensheng, sederhana, realisme: pada era 1960-an hingga 1980-an adalah pinggiran, adalah yang ditekan. Tapi mereka tidak berhenti. 1964 sampai 2024, Majalah Puisi 《Li》 terbit lebih dari 361 edisi, tidak pernah henti terbit sekali pun[^26].
+Posisi Kelompok Puisi Li—di selatan, asli Taiwan, sederhana, dan realistis—merupakan posisi marjinal dan ditekan selama periode 1960-an hingga 1980-an. Namun mereka tidak berhenti. Dari tahun 1964 hingga 2024, jurnal puisi 《Li》 telah menerbitkan lebih dari 361 edisi tanpa pernah berhenti terbit sekalipun[^26].
 
-## Hari Serigala Datang, Mereka Tak Menyembunyikan Diri
+## Hari Ketika "Serigala Datang", Mereka Tidak Bersembunyi
 
-1977 adalah sebuah titik balik.
+Tahun 1977 merupakan sebuah titik balik.
 
-April tahun itu, Majalah Kaktus (《仙人掌雜誌》) yang diedit oleh Wang Jianqiang memuat tiga artikel karya Wang Tuo, Yin Zhengxiong, dan Zhu Xining, memicu "Perdebatan Sastra Nativis"[^27]. 17 Agustus, Peng Ge di _United Daily News_ (《聯合報》) menerbitkan "Tanpa Membicarakan Kemanusiaan, Di Mana Ada Sastra?" (〈不談人性，何有文學？〉), menamakan dan mengkritik Wang Tuo, Wei Tianchong, dan Chen Yingzhen[^28].
+Pada bulan April tahun itu, majalah 《仙人掌雜誌》 yang disunting oleh Wang Chien-chuang menerbitkan tiga artikel karya Wang To, Yin Cheng-hsiung, dan Chu Hsi-ning, yang memicu [perdebatan sastra nativisme](/id/history/nativist-literature-debate/)[^27]. Pada 17 Agustus, Peng Ke menerbitkan esai 〈Tanpa Membahas Kemanusiaan, Bagaimana Ada Sastra?〉 di _United Daily News_, yang secara spesifik mengkritik Wang To, Wei Tien-lung, dan Chen Ying-zhen[^28].
 
-Tiga hari kemudian, 20 Agustus 1977, Yu Guangzhong di _United Daily News_ menerbitkan artikel yang nantinya berulang kali dibahas, "Serigala Datang" (〈狼來了〉): menuduh sastra nativis Taiwan "dengan sastra pekerja-petani-tentara yang menekankan perjuangan kelas di Tiongkok daratan, tampak memiliki persamaan tersembunyi"[^29].
+Tiga hari kemudian, pada 20 Agustus 1977, Yu Kwang-chung menerbitkan esai 〈Serigala Datang〉 di _United Daily News_ yang kemudian dibahas berulang kali: ia menuduh bahwa sastra nativisme Taiwan "ternyata memiliki kemiripan dengan sastra buruh-petani-prajurit di Tiongkok daratan yang menekankan perjuangan kelas"[^29].
 
-Di masa hukum darurat, "sastra pekerja-petani-tentara" adalah tuduhan yang bisa membunuh. _Liberty Times_ mengingat suasana saat itu: "Sekali waktu, tuduhan besar yang dilambangkan sebagai 'tetesan darah' (血滴子) menghebohkan dunia sastra, penuh dengan nuansa suram berbau darah"[^30].
+Pada masa darurat militer, label "sastra buruh-petani-prajurit" adalah tuduhan fatal yang bisa merenggut nyawa seseorang. _Liberty Times_ mengenang suasana saat itu: "Dalam sekejap, label berat yang diibaratkan sebagai 'tetesan darah' membuat dunia sastra diliputi ketakutan dan kecemasan, serta dipenuhi aura berdarah yang mencekam"[^30].
 
-Sembilan hari kemudian, 29 Agustus 1977, KMT menggelar "Pertemuan Sastra dan Seni Kedua" (「第二次文藝會談」), dengan Ding Maoshi, Li Yuancu, Wang Sheng, Li Huan sebagai wakil pemerintah/partai/militer, bersama Yu Guangzhong, Yin Xue-man, dan lain-lain, mengundang lebih dari 270 orang[^31]. Akhirnya perdebatan berakhir di bawah strategi pengambilalihan resmi: "Sastra Nativis" didefinisikan ulang secara lebih luas menjadi "Sastra Patriotik" (「愛國文學」), "Sastra Bangsa" (「民族文學」)[^32].
+Sembilan hari kemudian, pada 29 Agustus 1977, Kuomintang mengadakan "Pertemuan Sastra Kedua". Perwakilan dari pemerintah, partai, dan militer seperti Ting Mao-shih, Li Yuan-tsu, Wang Sheng, dan Li Huan, bersama dengan Yu Kwang-chung, Yin Hsueh-man, dan lainnya, mengumpulkan lebih dari 270 orang[^31]. Akhirnya, perdebatan tersebut berakhir di bawah strategi kooptasi resmi: "sastra nativisme" diperluas dan didefinisikan ulang sebagai "sastra patriotik" dan "sastra nasional"[^32].
 
-Medan utama perdebatan adalah novel (Chen Yingzhen, Wang Tuo, Huang Chunming, Wang Zhenhe, Ye Shitao, Yang Qingchu). Namun dunia puisi bergerak serentak: gugus Komunitas Puisi Li (Chen Qianwu, Bai Qiu, Zhao Tianyi, Li Minyong) sepenuhnya berpihak pada aliran nativis[^33]. Pada periode yang sama, tuntutan "kembali ke realitas" dari komunitas puisi generasi baru seperti Longzu, Ziuli, Houlang juga dilegitimasi[^34].
+Medan tempur utama perdebatan ini adalah novel (Chen Ying-zhen, Wang To, Huang Chun-ming, Wang Chen-ho, Yeh Shih-tao, Yang Ching-chu). Namun, dunia puisi juga bergerak secara sinkron: faksi Kelompok Puisi Li (Chen Chien-wu, Pai Chu, Chao Tien-yi, Li Min-yung) sepenuhnya berdiri di sisi kaum nativis[^33]. Tuntutan "kembali ke realitas" dari kelompok penyair generasi baru seperti Longzu, Mainstream, dan Houlang juga menjadi masuk akal pada saat itu[^34].
 
-Posisi Komunitas Puisi Li tidak lagi hanya soal "konfrontasi utara-selatan", melainkan keberadaan konkret "berdiri di sisi lokal (Taiwan)".
+Posisi Kelompok Puisi Li tidak lagi sekadar "pertentangan Utara-Selatan", melainkan sebuah eksistensi konkret yang "berdiri di sisi lokal".
 
-> ⚠️ **Pandangan Kontroversial**: Perdebatan ini meninggalkan luka kenangan jangka panjang. Ketika Yu Guangzhong meninggal dunia pada 2017, sejarah ini ditinjau kembali; dunia sastra Taiwan hingga kini masih terbagi soal "Serigala Datang"[^35]. Ada komentator yang menilai, konfrontasi dalam perdebatan bukan sekadar "aliran Tiongkok vs aliran Taiwan" begitu sederhana, melainkan tercampur "nasionalisme etnis Tiongkok kanan vs nasionalisme etnis Tiongkok kiri vs aliran lokal Taiwan" tiga sumbu[^36]. Posisi Komunitas Puisi Li dalam struktur segitiga ini jelas: mereka berdiri di sisi aliran lokal Taiwan.
+> ⚠️ **Pandangan Kontroversial**: Perdebatan ini meninggalkan luka memori jangka panjang. Ketika Yu Kwang-chung wafat pada tahun 2017, sejarah ini ditinjau kembali; pandangan dunia sastra Taiwan terhadap "Serigala Datang" masih terbelah hingga saat ini[^35]. Beberapa komentator juga menunjukkan bahwa pertentangan dalam debat tersebut tidak sesederhana "faksi Tiongkok vs faksi Taiwan", melainkan melibatkan tiga poros: "nasionalisme Tiongkok sayap kanan vs nasionalisme Tiongkok sayap kiri vs teori lokalitas Taiwan"[^36]. Posisi Kelompok Puisi Li dalam struktur segitiga ini sangat jelas: mereka berdiri di sisi teori lokalitas Taiwan.
 
-## Anak membuka kotak bekal, tidak ada setengah butir telur pun
+## Anak Membuka Kotak Bekal, Tak Ada Sebutir Telur Pun
 
-Januari 1976, Xiangyang: nama aslinya Lin Qiluo, saat itu berusia 21 tahun, mahasiswa tahun ketiga di Akademi Budaya: menerbitkan empat puisi bahasa Taiwan di edisi ke-71 Majalah Puisi 《笠》, di antaranya berjudul 〈阿爹的飯包〉[^37]：
+Pada Januari 1976, Xiang Yang: nama aslinya Lin Chi-ying, saat itu seorang mahasiswa tahun ketiga di College of Liberal Arts berusia 21 tahun, menerbitkan empat puisi bahasa Tai dalam majalah _Li_ edisi ke-71. Salah satunya berjudul 〈Bekal Ayah〉[^37]:
 
-> Setiap hari bangun pagi, langit belum terang
-> Ayah sudah membawa bekal
-> Mengayuh sepeda tua, meninggalkan rumah
-> Pergi ke tepi sungai membantu orang memindahkan pasir batu
-> （dipotong）
-> Suatu hari bangun pagi, langit masih gelap gulita
-> Kami diam-diam masuk ke dapur, membuka
-> Bekal ayah:
-> Tidak ada setengah butir telur pun
-> Tiga potong menu poh, nasi campur irisan kentang manis
+> Setiap hari saat bangun pagi, ketika langit belum terang
+> Ayah sudah membawa bekalnya
+> Mengendarai sepeda tua, meninggalkan rumah
+> Pergi ke tepian sungai untuk mengangkut pasir dan batu bagi orang lain
+> (bagian tengah diringkas)
+> Suatu hari saat bangun pagi, langit masih gelap gulita
+> Kami menyelinap masuk ke dapur, lalu membuka
+> Bekal Ayah:
+> Tak ada sebutir telur pun
+> Hanya tiga potong sayur asin, dengan nasi campuran potongan ubi jalar.
 
-Anak membuka kotak bekal ayah: tidak ada setengah butir telur, tiga potong menu poh ditambah nasi campur irisan kentang manis. Satu adegan memadatkan martabat dan kemiskinan keluarga buruh.
+Anak itu membuka kotak bekal ayahnya: tidak ada sebutir telur pun, hanya tiga potong sayur asin ditambah nasi campuran potongan ubi jalar. Sebuah gambaran yang membekukan martabat dan kemiskinan keluarga pekerja.
 
-Lebih dari 40 tahun kemudian, September 2024, Xiangyang dalam wawancara dengan CNA berkata: "Saya ingat 4 puisi bahasa Taiwan pertama kali saya terbitkan…… diterbitkan oleh Majalah Puisi 《笠》, hari penerbitannya, saya tidak bisa tidur semalaman! Sangat bahagia sekali."[^38]
+Lebih dari 40 tahun kemudian, pada September 2024, saat diwawancarai oleh Central News Agency (CNA), Xiang Yang berkata: "Saya ingat empat puisi bahasa Tai pertama yang saya terbitkan... diterbitkan oleh majalah _Li_. Pada hari penerbitan itu, saya tidak bisa tidur semalaman! Saya merasa sangat senang."[^38]
 
-Alasannya menulis puisi dengan bahasa Taiwan, dia menjelaskan dengan jelas dalam wawancara yang sama:
+Alasan dia menulis puisi dalam bahasa Tai dijelaskan dengan sangat jelas dalam wawancara yang sama:
 
-> "Sebagai seorang penyair, jika tidak bisa menulis puisi dengan bahasa ibunya sendiri, saya tidak berhak disebut penyair. Jika suatu hari bahasa Taiwan hilang, tidak ada lagi yang berbicara bahasa Taiwan, dan tidak tahu cara membacanya, maka setidaknya puisi yang saya tulis, bisa menjadi batu nisan."[^39]
+> "Sebagai seorang penyair, jika saya tidak dapat menulis puisi menggunakan bahasa ibu saya sendiri, saya tidak layak disebut sebagai penyair. Jika suatu hari nanti bahasa Tai menghilang, tidak ada lagi orang yang berbicara bahasa Tai, dan tidak ada yang tahu cara melafalkannya, maka setidaknya puisi yang saya tulis dapat dijadikan sebagai batu nisan."[^39]
 
-Xiangyang saat ini menjabat Ketua Yayasan Nasional Kebudayaan dan Seni. Dari mahasiswa tahun ketiga yang tidak bisa tidur semalaman pada 1976, hingga orang yang mengelola mekanisme hibah tertinggi sektor publik seni dan budaya Taiwan pada 2024: busur waktu 50 tahun.
+Xiang Yang saat ini menjabat sebagai Ketua Dewan di National Culture and Arts Foundation. Dari seorang mahasiswa tahun ketiga yang tidak bisa tidur semalaman pada tahun 1976, hingga menjadi orang yang mengelola mekanisme subsidi dengan jumlah terbesar bagi sektor seni dan budaya Taiwan pada tahun 2024: sebuah garis lengkung selama 50 tahun.
 
-Praktik multibahasa internal Komunitas Puisi 《笠》 tidak pernah semudah "penulisan bahasa Tionghoa" saja. Jinlian pada 2002 menerbitkan terjemahan mandiri puisi bahasa Jepang, [Du Pan Fangge](/id/people/tu-pan-fangke/) (penyair wanita keturunan Hakka multibahasa yang bergabung kemudian) pada era 2000-an menyunting 《台灣客語詩選》 memuat 24 penyair[^40], Xiangyang pada 1976 menulis puisi bahasa Taiwan: dalam konteks komunitas puisi ini, "lokal" selalu didefinisikan dalam ketegangan multibahasa.
+Praktik multibahasa di dalam Kelompok Puisi Li tidak pernah sesederhana "penulisan dalam bahasa Mandarin". Jin Lian menerbitkan terjemahan mandiri dari puisi Jepang pada tahun 2002, [Du Panfangge](/id/people/tu-pan-fangke/) (seorang penyair perempuan lintas bahasa keturunan Hakka yang bergabung kemudian) menyusun 《Antologi Puisi Hakka Taiwan》 yang memuat 24 penyair setelah tahun 2000[^40], dan Xiang Yang menulis puisi bahasa Tai pada tahun 1976: dalam konteks kelompok puisi ini, konsep "lokal" selalu didefinisikan di tengah ketegangan multibahasa.
 
-## Puisi Masuk Buku Pelajaran SMP: Beban
+## Puisi yang Masuk ke Buku Teks SMP: Beban
 
-Wu Cheng lahir 1944 di Desa Zhenliao, Kecamatan Xizhou, Kabupaten Changhua, lulus dari Akademi Pertanian Pingtung 1971 lalu mengajar biologi di SMP Xizhou, sambil bertani dan menulis puisi, hingga pensiun[^41]. Ia dijuluki "penyair tanah liat"——"topi robek, kaki telanjang, penyair pedesaan yang keluar dari ladang"[^42].
+Wu Sheng lahir pada tahun 1944 di Desa Zhenliao, Kecamatan Xizhou, Kabupaten Changhua. Setelah lulus dari Sekolah Pertanian Pingtung pada tahun 1971, ia bekerja sebagai guru biologi di SMP Xizhou, sambil mengajar, bertani, dan menulis puisi hingga masa pensiunnya[^41]. Ia dijuluki sebagai "Penyair Tanah"—"penyair pedesaan yang berjalan dari ladang dengan kaki telanjang dan topi caping yang usang"[^42].
 
-1971, saat Wu Cheng masih muda, penyair senior Ya Xian memuat 13 puisi rangkaian 〈吾鄉印象〉 penuh di majalah 《幼獅文藝》。 Dinas Kebudayaan Kabupaten Changhua memperkenalkannya begini: "Ini adalah satu-satunya karya sastra dalam sejarah sastra modern Taiwan yang mencerminkan dualitas posisi petani di masa penindasan pertanian"[^43].
+Pada tahun 1971, saat Wu Sheng masih sangat muda, majalah 《幼獅文藝》 yang disunting oleh penyair senior Ya Hsien menerbitkan seluruh rangkaian puisinya yang berjudul 〈吾鄉印象〉 (Kesan Kampung Halamanku) yang terdiri dari 13 puisi. Biro Kebudayaan Kabupaten Changhua memperkenalkannya dengan menulis: "Ini adalah satu-satunya karya sastra dalam sejarah sastra modern Taiwan yang mencerminkan dualitas kondisi petani pada masa tekanan sektor pertanian"[^43].
 
-1977 ia menulis 〈負荷〉：
+Pada tahun 1977, ia menulis 〈負荷〉 (Beban):
 
-> Bel tanda istirahat berbunyi sekali dan lagi
-> Keputusasaan selalu hadir
-> Saat dingin, paling tajam
-> Datang bersama angin gugur.
+> Bel sekolah berbunyi berkali-kali
+> Rasa frustrasi selalu hadir
+> Di saat dingin, menjadi paling tajam
+> Datang menerjang bersama angin musim gugur.
 
-Puisi ini sekitar 1980-an dipilih masuk buku pelajaran bahasa nasional SMP, hingga kini 40 lebih tahun tak diganti[^44]."Perasaan Ayah" jadi kenangan bersama dua generasi pembaca[^4]。
+Puisi ini terpilih masuk ke dalam buku teks Bahasa Mandarin tingkat SMP sekitar tahun 1980, dan hingga kini selama lebih dari 40 tahun tidak pernah diganti[^44]. "Perasaan Ayah" telah menjadi memori kolektif bagi dua generasi pembaca[^4].
 
-> 📝 **Catatan Kurator**: Kamu pasti pernah baca 〈負荷〉. Tapi mungkin tak tahu Wu Cheng adalah penyair Komunitas Puisi Li——ini salah satu pencapaian paling diam Komunitas Puisi Li 60 tahun ini: puisi mereka masuk buku pelajaran SMP, tapi jarang orang mengkreditkan prestasi itu ke Komunitas Puisi Li. Buku teks jarang membahas "asal-usul" puisi ini, hanya membahas teksnya saja. Pembaca membaca 〈負荷〉, bukan "〈負荷〉 karya Wu Cheng dari Komunitas Puisi Li".
+> 📝 **Catatan Kurator**: Anda mungkin pernah membaca 〈Beban〉. Namun, Anda mungkin tidak tahu bahwa Wu Sheng adalah penyair dari Kelompok Puisi Li—ini adalah salah satu pencapaian paling sunyi dari Kelompok Puisi Li selama 60 tahun terakhir: puisi mereka masuk ke buku teks SMP, namun sangat sedikit orang yang mengaitkan prestasi ini dengan Kelompok Puisi Li. Buku teks jarang membahas "asal-usul" puisi ini, hanya membahas teks itu sendiri. Pembaca membaca 〈Beban〉, bukan "〈Beban〉 yang ditulis oleh Wu Sheng dari Kelompok Puisi Li".
 
-Wu Cheng lama terlibat anti-nuklir, perlindungan air, perlindungan tanah, menamakan diri "penyair tidak berguna"[^45]. Juni 2020 menerima gelar Doktor Kehormatan Sastra dari Universitas Nasional Dong Hwa. 〈負荷〉 hingga kini tetap di buku teks: ini salah satu kemenangan paling diam Komunitas Puisi Li.
+Wu Sheng telah lama terlibat dalam gerakan anti-nuklir, perlindungan air, dan perlindungan tanah, serta menyebut dirinya sebagai "penyair yang tidak berguna"[^45]. Pada Juni 2020, ia dianugerahi gelar Doktor Kehormatan Sastra oleh Universitas Nasional Dong Hwa. 〈Beban〉 masih ada di dalam buku teks hingga saat ini: ini adalah salah satu kemenangan paling sunyi dari Kelompok Puisi Li.
 
-Penyair Komunitas Puisi Li sekunder atau sedikit lebih tua dari Wu Cheng, antara lain:
+Penyair Kelompok Puisi Li yang sezaman atau sedikit lebih senior dari Wu Sheng antara lain:
 
-- **Cheng Chiung-ming**（1948-）：bekas dokter internis Akademi Kedokteran Kaohsiung. 1982 kumpulan puisi 《蕃薯之歌》 meraih Penghargaan Puisi Li ke-2; "Ubi" adalah salah satu simbol inti identitas diri Taiwan[^46]。
-- **Li Min-yung**（1947-）：orang Kaohsiung Qishan. Pernah jadi penyunting majalah puisi 《笠》, mewakili "puisi lirik politik era hukum darurat" Komunitas Puisi Li. Kumpulan puisi 《戒嚴風景》（1990) menembak realitas di bawah sistem partai-negara. 2007 meraih Hadiah Sastra Nasional[^47]。
+- **Cheng Jiong-ming** (1948-): Pensiunan dokter spesialis penyakit dalam dari Universitas Kedokteran Kaohsiung. Kumpulan puisinya 《蕃薯之歌》 (Lagu Ubi Jalar) memenangkan Penghargaan Puisi Li ke-2 pada tahun 1982; "ubi jalar" adalah salah satu simbol inti identitas diri Taiwan[^46].
+- **Li Min-yung** (1947-): Asal Qishan, Kaohsiung. Pernah menjabat sebagai editor utama majalah puisi 《笠》, dan merupakan perwakilan dari "puisi lirik politik era darurat militer" Kelompok Puisi Li. Kumpulan puisinya 《戒嚴風景》 (Pemandangan Darurat Militer) (1990) menunjuk langsung pada realitas di bawah sistem partai-negara. Ia menerima Penghargaan Seni Nasional pada tahun 2007[^47].
 
-Barisan "penyair dokter" di Komunitas Puisi Li: Cheng Chiung-ming, Tseng Kuei-hai, Chiang Tzu-te, Chuang Po-lin: fenomena budaya khusus pasca-perang Taiwan: menulis puisi di ruang praktik.
+Jajaran "penyair dokter" dalam Kelompok Puisi Li: Cheng Jiong-ming, Tseng Kuei-hai, Chiang Tzu-te, dan Chuang Po-lin, merupakan fenomena budaya yang unik di Taiwan pasca-perang: menuliskan puisi ke dalam ruang praktik medis.
 
-## Awan Dingin Mengamati Kita dengan Dingin
+## Awan Kelabu yang Dingin Menatap Kami dengan Dingin
 
-Pada 11 Januari 2023, Bai Qiu meninggal dunia dengan tenang di Kaohsiung, berusia 86 tahun[^48].
+Pada 11 Januari 2023, Bai Ju wafat dengan tenang di Kaohsiung pada usia 86 tahun[^48].
 
-Bai Qiu lahir pada 1937 di Taichung, dan adalah anggota termuda di antara dua belas orang Penyair Li. Dia menguasai tiga bahasa: Taiwan, Jepang, dan Tionghoa: karena lahirnya sedikit lebih muda, pengaruh bahasa Jepang sudah lebih kecil, namun dia tetap berada dalam konteks lintas bahasa. Di awal kariernya, dia bergabung dengan Komunitas Puisi Bintang Biru dan Komunitas Puisi Kejadian, dan setelah berpartisipasi mendirikan Komunitas Puisi Li pada 1964, dia menjadi kekuatan intinya[^14].
+Lahir di Taichung pada tahun 1937, Bai Ju adalah anggota termuda dari dua belas pendiri Kelompok Puisi Li. Ia menguasai tiga bahasa: Taiwan (bahasa Hokkien), Jepang, dan Tionghoa. Meskipun pengaruh bahasa Jepang mulai berkurang karena ia lahir di era yang sedikit lebih lambat, ia tetap berada dalam konteks lintas bahasa tersebut. Di masa mudanya, ia bergabung dengan Kelompok Puisi Blue Star dan Kelompok Puisi Genesis, lalu menjadi kekuatan inti setelah ikut mendirikan Kelompok Puisi Li pada tahun 1964[^14].
 
-Karyanya yang mewakili, 〈Angsa〉:
+Karya representatifnya, 〈Yan〉 (Angsa Liar):
 
-> Kita tetap hidup. Tetap harus terbang
-> Di langit tanpa batas
-> Garis horizon lama di kejauhan menarik kita sambil mundur
+> Kami masih hidup. Masih harus terbang
+> Di langit yang tanpa batas
+> Cakrawala di kejauhan terus menarik kami dengan godaan yang menjauh
 > Hidup. Terus mengejar
-> Merasa sudah dekat, mengangkat kepala ternyata masih jauh sekali
+> Merasa ia telah dekat, namun saat mendongak, ia tetap begitu jauh
 >
-> Langit tetap langit yang dilewati nenek moyang kita.
-> Luasnya kekosongan seperti satu pesan yang tak berubah
-> Kita tetap seperti sayap nenek moyang. Berdengung di atas angin
-> Meneruskan satu kehendak terjebak dalam satu mimpi buruk yang tak berakhir
-> (dipotong)
-> Awan dingin mengamati kita dengan dingin[^49]
+> Langit ini masih langit yang pernah diterbangi leluhur kami.
+> Luas dan hampa bagaikan sebuah pesan yang tak berubah
+> Kami tetaplah seperti sayap para leluhur. Genderang di atas angin
+> Melanjutkan sebuah kehendak yang terperosok dalam mimpi buruk yang tak usai
+> (Bagian tengah diringkas)
+> Awan kelabu yang dingin menatap kami dengan dingin[^49]
 
-Kawanan angsa terbang membentuk huruf "人" (ren): karakter "人" ini merujuk baik pada bentuk kawanan burung maupun pada kondisi keberadaan manusia. "Awan dingin mengamati kita dengan dingin" adalah salah satu kalimat terkenal eksistensialisme yang paling sering dikutip dalam sejarah puisi modern Taiwan.
+Kawanan angsa terbang dalam formasi berbentuk huruf "人" (manusia): "人" tidak hanya merujuk pada citra kawanan burung, tetapi juga pada kondisi eksistensi manusia. "Awan kelabu yang dingin menatap kami dengan dingin" adalah salah satu kutipan eksistensialisme yang paling sering dikutip dalam sejarah puisi modern Taiwan.
 
-Kumpulan esai puisi 《Kebatuan yang Sendirian》 adalah salah satu wacana poetika paling penting Komunitas Puisi Li pada era 1960-1970-an[^50]. Penyair Ye Di menggambarkan Bai Qiu sebagai 「Kebatuan yang Sendirian」——seumur hidup mengejar keaslian, tidak mengikuti arus.
+Kumpulan teori puisi 《Keberadaan Batu Karang yang Terisolasi》 merupakan salah satu diskursus poetika terpenting dari Kelompok Puisi Li pada era 1960-an hingga 1970-an[^50]. Penyair Ye Di menggambarkan Bai Ju sebagai "keberadaan batu karang yang terisolasi"—seumur hidupnya ia mengejar orisinalitas dan tidak mengikuti arus umum.
 
-Pada Januari 2023, setelah Bai Qiu meninggal, Li Minyong menerbitkan 「Kebatuan yang Sendirian — Mengenang Penyair Bai Qiu」 di 《Suplemen Kebebasan》, menuliskan tentang dia:
+Pada Januari 2023, setelah wafatnya Bai Ju, Li Min-yung menerbitkan 〈Keberadaan Batu Karang yang Terisolasi — Elegi untuk Penyair Bai Ju〉 di 《Liberty Times Supplement》, menulis tentangnya sebagai berikut:
 
-> "Bai Qiu adalah orang yang sendirian, puisi adalah kerajaannya yang tersembunyi dalam kehidupan sehari-hari⋯⋯ Kesepirannya juga memiliki sisi angkuh, keberadaan sebagai batu karang sendirian adalah gambarannya⋯⋯ Jarang sekali menilai puisi dengan pujian berlebihan atau omong kosong, mempraktikkan 'mengkritik puisi secara puisi' yang langka di dunia puisi Taiwan⋯⋯ Bai Qiu adalah keberadaan khusus dalam sejarah puisi modern pasca-perang Taiwan, adalah tanda penting di halaman sejarah puisi."[^51]
+> "Bai Ju adalah sosok yang kesepian; puisi adalah negeri yang ia sembunyikan dalam keseharian hidupnya... Kesepiannya juga memiliki sisi keangkuhan; keberadaan batu karang yang terisolasi adalah gambaran dari hal itu... Dalam mengulas dan mendiskusikan puisi, ia jarang melakukan pujian kosong atau omong kosong, melainkan mempraktikkan diskusi puisi yang langka di dunia puisi Taiwan... Bai Ju adalah eksistensi khusus dalam sejarah puisi modern Taiwan pasca-perang, sebuah jejak penting dalam lembaran sejarah puisi."[^51]
 
-Pada 23 September tahun yang sama, Lin Hengtai meninggal dunia pada usia 100 tahun, dan Kementerian Budaya mengajukan penghargaan presiden[^52]. Menteri Budaya Shih Che berkata: Kematian Lin Hengtai 「melambangkan berakhirnya era gemilang dalam sejarah sastra Taiwan」[^53].
+Pada 23 September tahun yang sama, Lin Heng-tai wafat pada usia 100 tahun, dan Kementerian Kebudayaan mengajukan perintah penghargaan resmi dari Presiden[^52]. Menteri Kebudayaan Shieh Shih-shen menyatakan bahwa wafatnya Lin Heng-tai "menyimbolkan berakhirnya sebuah era gemilang dalam sejarah sastra Taiwan"[^53].
 
-![Dokumen resmi surat penghargaan Chen Qianwu, 2012 年陳千武辭世後總統明令褒揚之原件](/article-images/art/li-poetry-chen-qianwu-pra.webp)
-_Dokumen resmi surat penghargaan Chen Qianwu. Asli surat penghargaan presiden setelah Chen Qianwu meninggal pada 2012: mencatat posisi historis penyair lintas bahasa ini + ketua editor Komunitas Puisi Li selama 30 tahun. Sumber gambar: dokumen pemerintah publik (Public domain)._
+![Dokumen resmi perintah penghargaan Chen Qian-wu, dokumen asli perintah penghargaan Presiden setelah wafatnya Chen Qian-wu pada tahun 2012](/article-images/art/li-poetry-chen-qianwu-pra.webp)
+_Dokumen resmi perintah penghargaan Chen Qian-wu. Dokumen asli perintah penghargaan Presiden setelah wafatnya Chen Qian-wu pada tahun 2012: mencatat posisi sejarah penyair lintas bahasa ini + sebagai editor utama Kelompok Puisi Li selama 30 tahun. Sumber gambar: Dokumen pemerintah (Public domain)._
 
-Dari 2004 Zhan Bing, 2012 Chen Qianwu, 2013 Jinlian, 2020 Zhao Tanyi: hingga 2023 Bai Qiu dan Lin Hengtai yang meninggal berturut-turut, generasi pendiri Komunitas Puisi Li secara resmi bubar. Di antara dua belas orang, yang masih bisa bicara sudah tidak banyak lagi.
+Dimulai dari Zhan Bing pada 2004, Chen Qian-wu pada 2012, Jin Lian pada 2013, Zhao Tian-yi pada 2020; hingga wafatnya Bai Ju dan Lin Heng-tai secara berturut-turut pada 2023, generasi pendiri Kelompok Puisi Li secara resmi telah menutup tirai. Dari dua belas orang tersebut, tidak banyak lagi yang tersisa untuk menyuarakan sejarah mereka.
 
 ## Mungkin Beratnya Sebuah Puisi
 
-28 Mei 2024, Museum Sastra Nasional Taiwan membuka «Enam Puluh Tahun Li . Pameran Khusus 60 Tahun Li Shishe»[^54]. Pameran dibagi menjadi tiga tema: «多語混聲交響», «多國詩潮譯介», «現實關懷»[^55].
+Pada 28 Mei 2024, pameran khusus "Enam Puluh Tahun Menjadi Caping: Pameran Khusus 60 Tahun Kelompok Puisi Li" di Museum Sastra Nasional Taiwan resmi dibuka[^54]. Pameran ini dibagi menjadi tiga tema utama: "Simfoni Polifonik Multibahasa", "Pengenalan Tren Puisi Global", dan "Kepedulian terhadap Realitas"[^55].
 
-Perputaran keempat lokasi di seluruh Taiwan:
+Tur di empat lokasi di seluruh Taiwan:
 
-- Museum Sastra Nasional (Tainan) mulai 2024-05-28
-- Basis Sastra Taipei mulai 2024-05-31
-- Perpustakaan Kota Kaohsiung 2024-06-04 hingga 2024-10-27 (27 Juli mengadakan ceramah bertema «《笠》的南部活動與現實詩學»)[^56]
+- Museum Sastra Nasional (Tainan) mulai 28 Mei 2024
+- Taipei Literature Base mulai 31 Mei 2024
+- Perpustakaan Kota Kaohsiung dari 4 Juni 2024 hingga 27 Oktober 2024 (pada 27 Juli diadakan kuliah bertema "Kegiatan Bagian Selatan 《Li》 dan Estetika Puisi Realitas")[^56]
 - Taichung
 
-Dalam tulisan kurator terdapat sebuah kontras: sampul majalah puisi 《笠》 edisi pertama tahun 1964 menampilkan pahlawan mitos Yunani Hercules; edisi ke-361 tahun 2024 menampilkan «也許是一首詩的重量»[^57]. Dari totem penaklukan menuju berat puisi itu sendiri: 60 tahun penentuan diri terbalik.
+Terdapat sebuah paralelisme dalam narasi kuratorialnya: sampul edisi pertama majalah puisi 《Li》 pada tahun 1964 menampilkan pahlawan mitologi Yunani, Heracles; sedangkan sampul edisi ke-361 pada tahun 2024 bertajuk "Mungkin Beratnya Sebuah Puisi"[^57]. Dari totem peperangan menuju beratnya puisi itu sendiri: penentuan jati diri selama 60 tahun ini telah mengalami transformasi yang menyeluruh.
 
-Judul laporan CNA: «以詩見證本土價值»[^58]. Tulisan kurator Museum Sastra Nasional Taiwan menyatakan: «Melalui karya puisi dan teori puisi, membangun poetika modern Taiwan, menjadi ranah penting wacana nativis Taiwan»[^59].
+Judul laporan dari Central News Agency (CNA) adalah: "Menyaksikan Nilai Lokal Melalui Puisi"[^58]. Narasi kuratorial Museum Sastra Nasional Taiwan menuliskan: "Melalui karya puisi dan teori puisi, [kelompok ini] membangun estetika puisi modern Taiwan, serta menjadi ruang penting bagi diskursus lokal Taiwan"[^59].
 
-> ✦ 60 tahun tidak pernah berhenti terbit, adalah sebuah fakta sederhana, tapi juga pencapaian yang tidak mudah. Sebagian besar majalah puisi di dunia tidak bertahan 10 tahun. Li Shishe bertahan hingga 60 tahun, bukan berkat sumber daya institusi manapun—pada 1960-an hingga 1980-an mereka berada di pinggiran, eksistensi di bawah tekanan politik. Yang mereka andalkan adalah dua belas orang dan orang-orang yang bergabung setelahnya—ruang tamu Zhan Bing, topi kerucut Lin Hengtai, kenangan Nanyang Chen Qianwu, batu karang terpencil Bai Qiu, kekurangan tidur Xiangyang, kotak nasi Wu Cheng—orang-orang nyata, pilihan nyata, ketidakmenyerahan nyata, menopang sebuah komunitas puisi yang dibangun dari pengalaman kebisuan hingga hari ini.
+> ✦ Fakta bahwa mereka tidak pernah berhenti menerbitkan selama 60 tahun adalah hal yang sederhana, namun juga merupakan pencapaian yang tidak mudah. Mayoritas majalah puisi di dunia tidak mampu bertahan lebih dari 10 tahun. Kelompok Puisi Li berhasil bertahan hingga 60 tahun bukan karena bantuan sumber daya sistem apa pun—pada era 1960-an hingga 1980-an, mereka berada di pinggiran, eksis di bawah tekanan politik. Mereka bertahan berkat dua belas orang pertama dan mereka yang bergabung setelahnya—ruang tamu Zhan Bing, topi caping Lin Heng-tai, memori Nanyang Chen Qianwu, batu karang terisolasi Bai Zhu, insomnia Xiang Yang, kotak bekal Wu Sheng—orang-orang nyata, pilihan nyata, dan keteguhan nyata inilah yang menyokong kelompok puisi yang dirakit dari pengalaman keterbungkaman hingga mencapai hari ini.
 
-## Kedaulatan Potongan Terakhir: Ketika AI Asing Tidak Mengenal Manusia Ini
+## Potongan Terakhir Kedaulatan: Ketika AI Bahasa Asing Tidak Mengenali Tokoh-Tokoh Ini
 
-Pertanyaan paling diam dari Li Shishe selama 60 tahun ini adalah: ketika seorang mahasiswa asing, peneliti, atau editor Wikipedia bahasa asing ingin mengetahui "sejarah puisi modern Taiwan", dan bertanya pada model AI asal RRT: apakah mereka akan mendengar tentang Li Shishe?
+Pertanyaan paling sunyi dalam 60 tahun sejarah Kelompok Puisi Li adalah: ketika seorang pelajar asing, peneliti, atau editor Wikipedia bahasa asing ingin mengetahui tentang "sejarah puisi modern Taiwan" dan bertanya kepada model AI yang berasal dari RRT: apakah mereka akan mendengar tentang Kelompok Puisi Li?
 
-Pada 2024, akademisi Barat secara resmi memasukkan para penyair generasi melampaui bahasa ini — Chen Qianwu, Lin Hengtai, Zhan Bing, Jinlian, Ye Shitao, Du Pan Fangge — ke dalam kategori penelitian bahasa Inggris "Translingual Poets in Colonial and Postcolonial Taiwan"[^60]. Buku _The Columbia Sourcebook of Literary Taiwan_ yang diterbitkan oleh Columbia University mencatat nama-nama mereka[^61].
+Pada tahun 2024, dunia akademik Barat secara resmi memasukkan tokoh-tokoh penyair lintas bahasa seperti Chen Qianwu, Lin Heng-tai, Zhan Bing, Jin Lian, Ye Shitao, dan Du Panfangge ke dalam kategori penelitian bahasa Inggris "Translingual Poets in Colonial and Postcolonial Taiwan" [^60]. Buku 《The Columbia Sourcebook of Literary Taiwan》 yang diterbitkan oleh Universitas Columbia juga mencantumkan nama-nama ini [^61].
 
-Namun pencarian di Baidu Baike asal RRT: tidak ada entri khusus untuk "Li Shishe"[^6]. Sistem akademik Tiongkok tidak secara sistematis membahas generasi "translingual" ini: celah yang diam ini sendiri adalah isu kedaulatan.
+Namun, jika mencari di Baidu Baike milik RRT: tidak ada entri khusus untuk "Kelompok Puisi Li" [^6]. Sistem akademik Tiongkok belum membahas generasi "lintas bahasa" secara sistematis: celah yang dibungkam ini, pada dirinya sendiri, adalah sebuah isu kedaulatan (_sovereignty_).
 
-Kedaulatan bukan hanya bendera, bukan hanya hubungan diplomatik. **Kedaulatan juga berarti "ketika orang lain memilih untuk tidak menyebut namamu, apakah kau bisa membuat suaramu terus ada dengan beralih ke bahasa lain?"**[^62]. Selama 60 tahun, Li Shishe justru terus melakukan hal ini: mengubah "lokal" menjadi fakta budaya yang dapat diverifikasi. Dari Yinlinghui yang menulis dalam bahasa Jepang, hingga Li Shishe yang bertahan dengan bahasa Tionghoa, hingga Xiangyang yang menulis puisi dalam bahasa Taiwan, hingga Du Pan Fangge yang menyunting dalam bahasa Hakka: ini adalah praktik kedaulatan polylinguality (keberadaan multi-bahasa), bukan narasi bangsa berbahasa tunggal.
+Kedaulatan bukan hanya soal bendera negara, bukan pula sekadar hubungan diplomatik. **Kedaulatan juga berarti "ketika orang lain memilih untuk tidak menyebut namamu, mampukah kau membiarkan suaramu terus ada dalam bahasa yang berbeda"** [^62]. Selama 60 tahun ini, Kelompok Puisi Li sebenarnya terus melakukan hal tersebut: mengubah "lokalitas" menjadi fakta budaya yang dapat diverifikasi. Mulai dari penggunaan bahasa Jepang oleh Yinling Hui, kegigihan menggunakan bahasa Mandarin oleh Kelompok Puisi Li, penulisan puisi dalam bahasa Tai oleh Xiang Yang, hingga penyusunan karya dalam bahasa Hakka oleh Du Panfangge: ini adalah praktik kedaulatan _polylinguality_ (keberagaman bahasa), bukan narasi nasionalisme satu bahasa tunggal.
 
-Taiwan.md menerjemahkan Li Shishe ke dalam bahasa Inggris, Jepang, Korea, Spanyol, dan Prancis, agar Li Shishe memiliki catatan first-person dalam lima bahasa: mengelakkan lapisan perantara yang memilih diam. Setiap tambahan versi bahasa, menambah satu jalur mengelakkan keheningan.
+Taiwan.md menerjemahkan Kelompok Puisi Li ke dalam bahasa Inggris, Jepang, Korea, Spanyol, dan Prancis, bertujuan agar Kelompok Puisi Li memiliki catatan orang pertama (_first-person_) dalam lima bahasa tersebut: melewati lapisan perantara yang memilih untuk bungkam. Setiap tambahan versi bahasa berarti satu lagi jalan untuk menghindari kebungkaman.
 
-Li Shishe 60 tahun tidak pernah berhenti terbit. Taiwan.md baru saja memulai.
+Kelompok Puisi Li tidak pernah berhenti menerbitkan jurnal selama 60 tahun. Taiwan.md baru saja dimulai.
 
 ---
 
 **Bacaan Lanjutan**:
 
-- [Puisi Modern Taiwan](/id/art/taiwanese-modern-poetry) — Eksperimen modernisme dari tiga ruang belajar, berdialog dengan tradisi realisme lokal Li Shishe
-- [Sastra Pasca-Perang Taiwan](/id/art/postwar-taiwanese-literature) — Jalan Ye Shitao, Chen Yingzhen, dan rombongan novelis: kebisuan, penjara, perdebatan, mereka adalah sekutu generasi penyair Li Shishe
-- [Sejarah Sastra Taiwan](/id/art/history-of-taiwanese-literature) — Hub lengkap alur sejarah sastra Taiwan
-- [Sastra Masa Pendudukan Jepang](/id/art/taiwanese-literature-during-japanese-rule) — Latar belakang tumbuhnya generasi melampaui bahasa Li Shishe
-- [Du Pan Fangge](/id/people/tu-pan-fangke) — Penyair perempuan Hakka generasi melampaui bahasa yang bergabung 1965; _Ping'an Xi_ dan garis puisi bahasa Hakka
+- [Puisi Modern Taiwan](/id/art/taiwanese-modern-poetry) — Eksperimen modernisme yang lahir dari tiga ruang kerja, berdialog dengan tradisi realisme lokal Kelompok Puisi Li
+- [Sastra Taiwan Pasca-Perang](/id/art/postwar-taiwanese-literature) — Perjalanan para novelis seperti Ye Shitao dan Chen Ying-zhen dalam menghadapi pembungkaman, penjara, dan perdebatan sastra; mereka adalah rekan sezaman dengan para penyair Kelompok Puisi Li
+- [Sejarah Sastra Taiwan](/id/art/history-of-taiwanese-literature) — Hub pusat untuk konteks sejarah sastra Taiwan yang lengkap
+- [Sastra Era Penjajahan Jepang](/id/art/taiwanese-literature-during-japanese-rule) — Latar belakang pertumbuhan generasi lintas bahasa dari Kelompok Puisi Li
+- [Du Panfangge](/id/people/tu-pan-fangke) — Penyair perempuan lintas bahasa keturunan Hakka yang bergabung pada tahun 1965; karya 〈Ping'an Xi〉 dan garis puisi bahasa Hakka
 
 ## Sumber Gambar
 
-Artikel ini menggunakan 4 gambar domain publik / berlisensi CC, semuanya di-cache di `public/article-images/art/` untuk menghindari hotlink ke server sumber:
+Artikel ini menggunakan 4 gambar domain publik / lisensi CC, yang semuanya telah di-cache ke dalam `public/article-images/art/` untuk menghindari hotlinking ke server sumber:
 
-- [Penyair Wu Cheng di Taipei International Book Expo 2016](https://commons.wikimedia.org/wiki/File:2016TIBE_D3_Wu_Sheng.jpg) — Foto: Rico Shen，2016，CC BY-SA 4.0 (hero)
-- [Foto bersama manajer Li Poetry Society 1964](https://commons.wikimedia.org/wiki/File:1964%E5%B9%B4%E7%AC%A0%E8%A9%A9%E5%88%8A%E7%A4%BE%E7%B6%93%E7%90%86.jpg) — Catatan sejarah tahun berdiri Li Poetry Society，Wikimedia Commons CC BY-SA / Public domain
-- [Potret penyair Lin Hengtai](https://commons.wikimedia.org/wiki/File:%E6%9E%97%E4%BA%A8%E6%B3%B0%E8%82%96%E5%83%8F.jpg) — Wikimedia Commons CC BY-SA / Public domain
-- [Surat penghargaan Chen Qianwu](https://commons.wikimedia.org/wiki/File:%E9%99%B3%E5%8D%83%E6%AD%A6%E8%A4%92%E6%8F%9A%E4%BB%A4.jpg) — Dokumen pemerintah terbuka，Public domain
+- [Penyair Wu Sheng pada Taipei International Book Fair tahun 2016](https://commons.wikimedia.org/wiki/File:2016TIBE_D3_Wu_Sheng.jpg) — Foto: Rico Shen, 2016, CC BY-SA 4.0 (hero)
+- [Foto bersama manajer majalah Li Poetry tahun 1964](https://commons.wikimedia.org/wiki/File:1964%E5%B9%B4%E7%AC%A0%E8%A9%A9%E5%88%8A%E7%A4%BE%E7%B6%93%E7%90%86.jpg) — Rekaman sejarah pada tahun pendirian Kelompok Puisi Li, Wikimedia Commons CC BY-SA / Public domain
+- [Potret penyair Lin Heng-tai](https://commons.wikimedia.org/wiki/File:%E6%9E%97%E4%BA%A8%E6%B3%B0%E8%82%96%E5%83%8F.jpg) — Wikimedia Commons CC BY-SA / Public domain
+- [Dekrit Penghormatan Chen Qianwu](https://commons.wikimedia.org/wiki/File:%E9%99%B3%E5%8D%83%E6%AD%A6%E8%A4%92%E6%8F%9A%E4%BB%A4.jpg) — Dokumen pemerintah publik, Public domain
 
-Manifest media detail dan catatan negative finding tercatat di [laporan penelitian §Matriks Lisensi Media](../../reports/research/2026-06/笠詩社.md)。Rencana EVOLVE mendatang: potret Bai Qiu、Xiangyang、Zhan Bing、Jinlian + gambar resmi pameran NMTL「Enam Puluh Tahun Li」+ iframe video program sastra TVRI（menunggu suplemen Wikimedia dan verifikasi lisensi）。
+Manifest media terperinci dan catatan temuan negatif tercatat dalam [laporan riset §matriks lisensi media](../../reports/research/2026-06/笠詩社.md). Untuk pembaruan EVOLVE di masa mendatang: potret Bai Zhu, Xiang Yang, Zhan Bing, Jin Lian + citra pameran resmi NMTL 「Enam Puluh Tahun Menjadi Caping」 + iframe video terkait program sastra PTS (menunggu tambahan dari Wikimedia dan verifikasi lisensi).
 
 ## Referensi
 
-[^1]: [Chen Qianwu — Majalah Taiwan Panorama](https://www.taiwan-panorama.com/Articles/Details?Guid=4630fcf9-2e3d-4875-9c8c-1f50a1b3c7d1) — Mencatat sepenuhnya momen kelahiran kembali Chen Qianwu pasca-perang: pada 10 Januari 1958 dengan nama pena 'Huanfu' menerbitkan puisi berbahasa Cina pertama pasca-perang 'Wai Jing' (外景) di edisi ke-182 Mingguan Bintang Biru (藍星週刊) harian 'Gonglun Bao' (公論報), pada bulan September tahun yang sama membuat 'Ai Yun' (哀韻), total 7 puisi diterbitkan sepanjang tahun tersebut.
+[^1]: [Chen Qianwu — Majalah Guanghua Taiwan](https://www.taiwan-panorama.com/Articles/Details?Guid=4630fcf9-2e3d-4875-9c8c-1f50a1b3c7d1) — Kumpulan lengkap momen kebangkitan pascaperang Chen Qianwu: Pada 10 Januari 1958, ia menerbitkan puisi bahasa Mandarin pertama pascaperang berjudul 〈Waijing〉 (Pemandangan Luar) di edisi ke-182 majalah mingguan Lanxing milik 《Gonglun Bao》 dengan nama pena 「Huanfu」; pada September tahun yang sama ia menulis 〈Aiyun〉, dan total menerbitkan 7 puisi sepanjang tahun tersebut.
 
-[^2]: [Museum Sastra Nasional Taiwan 'Enam Puluh Tahun Li . Pameran Khusus 60 Tahun Li Shishe'](https://www.nmtl.gov.tw/News_Content.aspx?n=3891&s=217806) — Tulisan kurasi 2024 menyatakan secara tegas Li Shishe (笠詩社) didirikan pada 1964 oleh Zhan Bing (詹冰), Chen Qianwu (陳千武), Lin Hengtai (林亨泰), Jin Lian (錦連), Wu Yingtao (吳瀛濤) dan 12 orang lainnya; nama 'Li' (笠) diusulkan oleh Lin Hengtai, melambangkan 'keinginan Taiwan yang sederhana rajin, tabah dan bebas'.
+[^2]: [Museum Sastra Nasional Taiwan 「Pameran Khusus 60 Tahun Kelompok Puisi Li: Enam Puluh Tahun Menjadi Caping」](https://www.nmtl.gov.tw/News_Content.aspx?n=3891&s=217806) — Narasi kuratorial tahun 2024 menyatakan bahwa Kelompok Puisi Li didirikan pada tahun 1964 oleh 12 orang termasuk Zhan Bing, Chen Qianwu, Lin Hengtai, Jin Lian, dan Wu Yingtao; nama kelompok 「Li」 diusulkan oleh Lin Hengtai, yang melambangkan "kehendak Taiwan yang sederhana, rajin, tabah, dan bebas".
 
-[^3]: [Menyaksikan Nilai Lokal Lewat Puisi Pameran 60 Tahun Li Shishe Tour Seluruh Taiwan — CNA 2024-06-22](https://www.cna.com.tw/news/acul/202406220181.aspx) — Melaporkan 'Majalah puisi "Li" sejak diterbitkan 1964 hingga kini tidak pernah berhenti terbit (60+ tahun), adalah majalah puisi lokal paling langgeng di Taiwan' + jadwal pameran tour 4 lokasi seluruh Taiwan 2024.
+[^3]: [Menjadi Saksi Nilai Lokal Melalui Puisi: Tur Pameran Khusus 60 Tahun Kelompok Puisi Li di Seluruh Taiwan — CNA 2024-06-22](https://www.cna.com.tw/news/acul/202406220181.aspx) — Laporan mengenai "Majalah Puisi 《Li》 tidak pernah berhenti terbit sejak pendiriannya pada tahun 1964 (lebih dari 60 tahun), menjadikannya majalah puisi lokal dengan masa terbit terlama di Taiwan" + jadwal pameran tur empat lokasi di seluruh Taiwan tahun 2024.
 
-[^4]: [Termasuk dalam Buku Pelajaran Bahasa Nasional 40 Tahun Penyair Wu Cheng 'Beban yang Manis' — ETtoday 2019](https://www.ettoday.net/news/20190309/1395120.htm) — Melaporkan Wu Cheng menciptakan 'Fuhe' (負荷) pada 1977 sekitar 1980 masuk buku pelajaran SMP, hingga 2019 sudah 40 tahun; 'Beban yang Manis' menjadi kenangan bersama dua generasi pembaca di Taiwan.
+[^4]: [Dimasukkan ke Buku Teks Bahasa Mandarin Selama 40 Tahun: Penyair Wu Sheng 《Beban yang Manis》 — ETtoday 2019](https://www.ettoday.net/news/20190309/1395120.htm) — Laporan mengenai karya Wu Sheng berjudul 〈Fuzhu〉 (Beban) yang diciptakan pada tahun 1977 dan dimasukkan ke dalam buku teks SMP sekitar tahun 1980, sehingga telah mencapai 40 tahun hingga tahun 2019; "Beban yang Manis" telah menjadi memori bersama bagi dua generasi pembaca di Taiwan.
 
-[^5]: [Penyair Generasi Translingual Lin Hengtai Meninggal Dunia Usia 100 Tahun Kementerian Budaya Ajukan Penghargaan Presiden — UDN 2023](https://udn.com/news/story/6885/7461236/) — Melaporkan Lin Hengtai meninggal 23 September 2023 usia 100 tahun, Kementerian Budaya mengajukan penghargaan presiden; mengutip ucapan Menteri Budaya Shi Zhe 'melambangkan berakhirnya era gemilang dalam sejarah sastra Taiwan'.
+[^5]: [Penyair Lintas Generasi Bahasa Lin Hengtai Wafat pada Usia 100 Tahun, Kementerian Kebudayaan Mengajukan Penghormatan Resmi dari Presiden — United News Agency 2023](https://udn.com/news/story/6885/7461236/) — Laporan mengenai wafatnya Lin Hengtai pada 23 September 2023 di usia 100 tahun, di mana Kementerian Kebudayaan mengajukan permohonan kepada Presiden untuk memberikan penghormatan resmi; mengutip pernyataan Menteri Kebudayaan Shi Zhe bahwa hal ini "melambangkan berakhirnya sebuah era gemilang dalam sejarah sastra Taiwan".
 
-[^6]: Berdasarkan verifikasi lintas sumber 2026-06-20: pencarian Baidu Baike tidak memperoleh entri independen 'Li Shishe'; dalam sumber akademik Tiongkok tidak ditemukan pembahasan sistematis tentang 'Generasi Translingual' (Translingual Generation). Kesenjangan ini dengan akademisi Barat yang sudah secara resmi memasukkannya sebagai kategori penelitian (lihat [^11]) membentuk kontras tidak simetris. Temuan negatif dicatat dalam laporan penelitian §G 'Korespondensi Menara Babel Kedaulatan'.
+[^6]: Melalui verifikasi lintas sumber pada 20-06-2026: Pencarian di Baidu Baike tidak menemukan entri khusus untuk 「Kelompok Puisi Li」; dalam sumber akademik Tiongkok, tidak ditemukan pembahasan sistematis mengenai "Generasi Lintas Bahasa" (Translingual Generation). Kesenjangan ini membentuk kontras asimetris dengan akademisi Barat yang telah secara resmi memasukkannya ke dalam kategori penelitian (lihat [^11]). Temuan negatif dicatat dalam laporan riset artikel ini §G "Korespondensi Menara Babel Berdaulat".
 
-[^7]: [Setengah Jiwa yang Hilang di Medan Perang Nanyang: Novelis Chen Qianwu, dan Para 'Sukarelawan Khusus Taiwan' — StoryStudio](https://storystudio.tw/article/gushi/tan-tshian-bu) — Mencatat rinci Chen Qianwu pada 1942 dikekang sebagai 'Sukarelawan Khusus Taiwan', dikirim ke Singapura, Timor, Jawa, dll; setelah Jepang menyerah pada Juli 1946 kembali ke Taiwan.
+[^7]: [Separuh Tubuh yang Hilang di Medan Perang Nanyang: Novelis Chen Qianwu, dan Para "Relawan Khusus Taiwan" — StoryStudio](https://storystudio.tw/article/gushi/tan-tshian-bu) — Mencatat secara rinci bahwa pada tahun 1942 Chen Qianwu dipanggil sebagai "Relawan Khusus Taiwan" dan dikirim ke Singapura, Timor, Jawa, dan tempat lainnya; ia kembali ke Taiwan pada Juli 1946 setelah Jepang menyerah.
 
-[^8]: [Chen Qianwu — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%99%B3%E5%8D%83%E6%AD%A6) — Riwayat hidup lengkap: pasca-perang karena larangan penulisan bahasa Jepang dan belum lancar bahasa Cina 'lama diam berkreasi', berhenti menulis 10+ tahun, baru 1958 menerbitkan puisi berbahasa Cina; 1964 berpartisipasi mendirikan Li Shishe dan menjabat ketua editor 30 tahun.
+[^8]: [Chen Qianwu — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%99%B3%E5%8D%83%E6%AD%A6) — Biografi lengkap: Pasca-perang, ia mengalami "masa hening kreatif yang panjang" karena larangan menulis bahasa Jepang dan belum fasih berbahasa Mandarin, berhenti menulis selama lebih dari 10 tahun, hingga mulai menerbitkan karya puisi dalam bahasa Mandarin pada tahun 1958; pada tahun 1964 ia ikut mendirikan Kelompok Puisi Li dan menjabat sebagai editor utama selama 30 tahun.
 
-[^9]: [Penyair Generasi Translingual Lin Hengtai Meninggal Dunia Usia 100 Tahun — UDN 2023](https://udn.com/news/story/6885/7461236/) — Lin Hengtai pada 1967 secara retrospektif mengemukakan istilah 'Penyair Generasi Melampaui Bahasa', menggambarkan generasi penyair yang 'menghadapi kehilangan medium bahasa', 'kembali belajar bahasa Cina, menembus kemampuan ekspresi bahasa Cina'.
+[^9]: [Penyair Lintas Generasi Bahasa Lin Hengtai Wafat pada Usia 100 Tahun — United News Agency 2023](https://udn.com/news/story/6885/7461236/) — Lin Hengtai secara retrospektif mengusulkan istilah "generasi penyair lintas bahasa" pada tahun 1967, untuk mendeskripsikan generasi penyair yang "menghadapi hilangnya media bahasa" dan "kembali menghadapi pembelajaran bahasa Mandarin serta upaya menembus kemampuan ekspresi dalam bahasa Mandarin".
 
-[^10]: [Generasi Melampaui Bahasa — Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%B7%A8%E8%B6%8A%E8%AA%9E%E8%A8%80%E7%9A%84%E4%B8%80%E4%BB%A3) — Mendetailkan 'Generasi Melampaui Bahasa' merujuk pada penyair benda asli (本省) yang lahir akhir masa penjajahan Jepang (sekitar 1915-1928), masa remaja menerima pendidikan dan menulis berbahasa Jepang, pasca-perang karena Pemerintah Nasional (國府) menghapuskan bahasa Jepang terpaksa belajar mandiri bahasa Cina.
+[^10]: [Generasi Lintas Bahasa — Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%B7%A8%E8%B6%8A%E8%AA%9E%E8%A8%80%E7%9A%84%E4%B8%80%E4%BB%A3) — Menjelaskan secara rinci bahwa "Generasi Lintas Bahasa" merujuk pada penyair asli provinsi yang lahir pada akhir masa penjajahan Jepang (sekitar tahun 1915-1928), menerima pendidikan dan menulis dalam bahasa Jepang pada masa remaja, namun terpaksa belajar mandiri bahasa Mandarin setelah pemerintah nasional menghapuskan penggunaan bahasa Jepang pasca-perang.
 
-[^11]: [Wong, "Translingual Poets in Colonial and Postcolonial Taiwan" — Polylinguality 2024 (Springer/RUDN)](https://journals.rudn.ru/polylinguality/article/view/30492/en_US) — Makalah akademik internasional 2026 secara resmi memasukkan penyair generasi translingual ke kategori penelitian bahasa Inggris 'Translingual Poets', mencantumkan anggota di antaranya Zhan Bing (詹冰), Chen Qianwu (陳千武), Lin Hengtai (林亨泰), Jin Lian (錦連), Tu Pan Fang-ko (杜潘芳格) dll.
+[^11]: [Wong, "Translingual Poets in Colonial and Postcolonial Taiwan" — Polylinguality 2024 (Springer/RUDN)](https://journals.rudn.ru/polylinguality/article/view/30492/en_US) — Pada tahun 2026, makalah akademik internasional secara resmi memasukkan penyair generasi lintas bahasa ke dalam kategori penelitian bahasa Inggris "Translingual Poets", dengan anggota yang disebutkan meliputi Zhan Bing, Chen Qianwu, Lin Hengtai, Jin Lian, Tu Pan Fang-ko, dan lainnya.
 
-[^12]: [Li Shishe — Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%AC%A0%E8%A9%A9%E7%A4%BE) — Daftar lengkap 12 pendiri: Wu Yingtao (吳瀛濤), Chen Qianwu (Huanfu) (陳千武（桓夫）), Zhan Bing (詹冰), Lin Hengtai (林亨泰), Jin Lian (錦連), Bai Qiu (白萩), Zhao Tiany (趙天儀), Huang He-sheng (黃荷生), Xue Bai-gu (薛柏谷), Wang Xian-yang (王憲陽), Gu Bei (古貝), Du Guo-qing (杜國清). Multi-sumber (NMTL + Surat Kabar Gereja) konsisten.
+[^12]: [Kelompok Puisi Li — Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%AC%A0%E8%A9%A9%E7%A4%BE) — Daftar lengkap dua belas pendiri: Wu Yingtao, Chen Qianwu (Huanfu), Zhan Bing, Lin Hengtai, Jin Lian, Bai Zhu, Zhao Tianyi, Huang Hesheng, Xue Baigu, Wang Xianyang, Gu Bei, dan Du Guoqing. Konsisten dari berbagai sumber (NMTL + Buletin Gereja).
 
-[^13]: [Zhan Bing — Basis Data Sastra Taiwan NMTL](https://db.nmtl.gov.tw/site4/s6/writerinfo?id=2071) — Zhan Bing nama asli Zhan Yichuan, lahir 1921 di Zhuolan Miaoli keturunan Hakka; apoteker sekaligus guru fisika-kimia, disebut 'Penyair Farmasi'; 1948 bergabung dengan Yinlinghui menerbitkan puisi di 'Chaoliu' (潮流); 1964 bersama Lin Hengtai dll mendirikan Li Shishe.
+[^13]: [Zhan Bing — Database Sastra Taiwan NMTL](https://db.nmtl.gov.tw/site4/s6/writerinfo?id=2071) — Zhan Bing memiliki nama asli Zhan Yichuan, lahir tahun 1921 di Zhuolan, Miaoli, dari etnis Hakka; seorang apoteker sekaligus guru kimia-fisika yang dijuluki "Penyair Farmasi"; pada tahun 1948 ia berpartisipasi dalam pertemuan Yinlinghui dan menerbitkan puisi serta tulisan di 《Chaoliu》; pada tahun 1964 ia bersama Lin Hengtai dan lainnya mendirikan Kelompok Puisi Li.
 
-[^14]: [Bai Qiu — Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%99%BD%E8%90%A9) — Nama asli He Jinrong, lahir 1937 di Taichung. Awal bergabung dengan Lanxing Shishe (藍星詩社), Chuangshi Shishe (創世紀詩社), 1964 berpartisipasi mendirikan Li Shishe menjadi kekuatan inti. Melintasi tiga bentuk bahasa Taiwan, Jepang, Cina.
+[^14]: [Bai Zhu — Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%99%BD%E8%90%A9) — Nama asli He Jinrong, lahir tahun 1937 di Taichung. Pada masa mudanya bergabung dengan Kelompok Puisi Lanxing dan Kelompok Puisi Chuangshiji, kemudian menjadi kekuatan inti setelah ikut mendirikan Kelompok Puisi Li pada tahun 1964. Ia menguasai tiga bentuk bahasa: Taiwan, Jepang, dan Tionghoa.
 
-[^15]: [Melalui 60 Tahun Li Shishe Membangun Subjektivitas Taiwan Lewat Puisi — Portal Berita Surat Kabar Gereja Taiwan](https://tcnn.org.tw/archives/212280) — Mencatat Lin Hengtai mengusulkan nama 'Li' (斗笠 Taiwan), melambangkan semangat inti Li Shishe 'keinginan Taiwan yang sederhana rajin, tabah dan bebas'.
+[^15]: [Melewati 60 Tahun: Kelompok Puisi Li Membangun Subjektivitas Taiwan Melalui Puisi — Situs Berita Buletin Gereja Taiwan](https://tcnn.org.tw/archives/212280) — Mencatat bahwa Lin Hengtai mengusulkan nama kelompok 「Li」 (caping Taiwan), yang melambangkan semangat inti Kelompok Puisi Li yaitu "kehendak Taiwan yang sederhana, rajin, tabah, dan bebas".
 
-[^16]: [Enam Puluh Sambil Berpengheningan — Museum Virtual Sastra Taiwan](https://tlvm.nmtl.gov.tw/zh/Theme/ExhibitionCont1?LLid=82) — Teks lengkap argumentasi kurasi "Enam Puluh Sambil Berpengheningan" Museum Sastra Nasional Taiwan, mengutip "Topi bambu Taiwan melambangkan kehidupan sederhana dan rajin, kehendak Taiwan yang tabah dan bebas".
+[^16]: [Liu Shi Er Li — Museum Virtual Sastra Taiwan](https://tlvm.nmtl.gov.tw/zh/Theme/ExhibitionCont1?LLid=82) — Teks lengkap narasi kuratorial "Liu Shi Er Li" dari Museum Nasional Sastra Taiwan, yang mengutip bahwa "topi bambu Taiwan melambangkan kehendak Taiwan yang bersahaja, rajin, tabah, dan bebas".
 
-[^17]: [Menyaksikan Nilai Lokal Melalui Puisi — CNA 2024-06-22](https://www.cna.com.tw/news/acul/202406220181.aspx) — Melaporkan sampul edisi pertama 1964 menampilkan pahlawan mitos Yunani "Hercules", berlawanan dengan sajak di sampul edisi ke-361 tahun 2024 berjudul "Mungkin Beratnya Sebuah Puisi".
+[^17]: [Menyaksikan Nilai Lokal Melalui Puisi — CNA 2024-06-22](https://www.cna.com.tw/news/acul/202406220181.aspx) — Laporan mengenai sampul edisi pertama tahun 1964 yang menampilkan pahlawan mitologi Yunani "Hercules", yang membentuk kontras dengan lampiran puisi pada sampul edisi ke-361 tahun 2024 berjudul "Mungkin Beratnya Sebuah Puisi".
 
-[^18]: [Merpati Pos ◎ Chen Qianwu — Membaca Sebuah Puisi untukmu Setiap Hari](http://cendalirit.blogspot.com/2017/06/20170614.html) — Mencakup puisi lengkap "Merpati Pos" karya Chen Qianwu, pertama kali diterbitkan di "Sin Xiang" edisi ke-5 (25 Juli 1964), kemudian dikutip dalam antologi puisi 1965 "Mata yang Tak Tidur". Baris "Terkubur di Nanyang, kematianku, aku lupa membawa pulang" adalah metafora inti tragedi identitas ganda prajurit Taiwan berkebangsaan Jepang.
+[^18]: [Merpati Pos ◎ Chen Qian-wu — Membacakan Satu Puisi Untuk Anda Setiap Hari](http://cendalirit.blogspot.com/2017/06/20170614.html) — Memuat teks lengkap puisi "Merpati Pos" karya Chen Qian-wu, yang pertama kali diterbitkan dalam majalah "Xin Xiang" edisi ke-5 (25 Juli 1964), dan kemudian dimasukkan ke dalam kumpulan puisi tahun 1965 berjudul "Mata yang Tidak Tidur". Ungkapan "Kematianku terkubur di Nanyang, aku lupa membawanya kembali" dalam puisi ini merupakan metafora inti dari tragedi identitas ganda tentara Jepang asal Taiwan.
 
-[^19]: [Lin Hengtai — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%9E%97%E4%BA%A8%E6%B3%B0) — Asalnya dari Kecamatan Beidou, Kabupaten Changhua, pada 1942 bergabung dengan Yinlinghui menulis puisi bahasa Jepang dengan nama pena "Heng Ren"; pasca perang 1947 beralih ke bahasa China; awalnya anggota aliran "Modernis" Jixian, 1964 berpartisipasi mendirikan Komunitas Puisi Li dan menjabat sebagai ketua editor pertama.
+[^19]: [Lin Heng-tai — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%9E%97%E4%BA%A8%E6%B3%B0) — Penduduk Kota Beidou, Kabupaten Changhua; pada tahun 1942 bergabung dengan Ginrei-kai dan menulis puisi bahasa Jepang dengan nama pena "Heng Ren"; beralih menggunakan bahasa Mandarin sejak tahun 1947 setelah perang; merupakan anggota aliran "Modernis" Chih弦 pada masa awal, serta ikut mendirikan komunitas puisi Li (笠詩社) pada tahun 1964 dan menjabat sebagai editor pertama.
 
-[^20]: [Jinlian — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%8C%A6%E9%80%A3) — Nama asli Jinlian adalah Chen Jinlian, lahir 1928 di Changhua, lulus sekolah kereta api lalu bekerja di ruang telegraf Kereta Api Taiwan hampir 38 tahun. Sebelum dan sesudah perang menulis lebih dari 400 puisi bahasa Jepang, 1964 menjadi salah satu pendiri majalah puisi "Li"; 2002 menerjemahkan sendiri puisi Jepang 1952-1957 diterbitkan sebagai "Tokay yang Menjaga Malam".
+[^20]: [Jin Lian — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%8C%A6%E9%80%A3) — Nama asli Chen Jin-lian, lahir di Changhua pada tahun 1928; setelah lulus dari sekolah kereta api, ia bekerja di ruang telegraf Perusahaan Kereta Api Taiwan selama hampir 38 tahun. Ia menulis lebih dari 400 puisi bahasa Jepang sebelum dan sesudah perang; merupakan salah satu pendiri jurnal puisi "Li" pada tahun 1964; pada tahun 2002 menerbitkan "Cicak yang Menjaga Malam", hasil terjemahan mandiri dari karya-karya puisi bahasa Jepang yang ditulisnya antara tahun 1952-1957.
 
-[^21]: [Yinlinghui — Wikipedia](https://zh.m.wikipedia.org/zh-hant/%E9%8A%80%E9%88%B4%E6%9C%83) — Komunitas puisi yang didirikan 1942 oleh Zhu Shi, Zhang Yanxun, Xu Qingshi, menerbitkan majalah "Yuan Cao", Lin Hengtai dengan nama pena "Heng Ren" menerbitkan banyak puisi bahasa Jepang. Anggota Yinlinghui kemudian disebut inti generasi lintas bahasa.
+[^21]: [Ginrei-kai — Wikipedia](https://zh.m.wikipedia.org/zh-hant/%E9%8A%80%E9%88%B4%E6%9C%83) — Kelompok puisi kolektif yang didirikan oleh Zhu Shi, Zhang Yan-xun, dan Xu Qing-shi pada tahun 1942, menerbitkan publikasi "Yuan Cao"; Lin Heng-tai menerbitkan banyak puisi bahasa Jepang dengan nama pena "Heng Ren". Anggota Ginrei-kai kemudian dikenal sebagai inti dari generasi lintas bahasa.
 
-[^22]: [Mengejar Ranah Puisi Musik dan Lukisan — Wawancara Penyair Lin Hengtai — Yayasan Sejarah Taiwan Wu Sanlian](https://www.twcenter.org.tw/thematic_series/character_series/taiwan_litterateur_interview/b01_8001/b01_8001_1) — Lin Hengtai sendiri menceritakan latar penulisan "Pemandangan No.2": "Di rute dari Xihu ke Erlin, saya menatap pemandangan jauh yang melesat lewat jendela kereta, barisan hutan penahan angin berjajar, dan setelah Erlin adalah laut, gelombang bergulung... melengkapi dua puisi pemandangan ini".
+[^22]: [Mengejar Alam Musik dan Lukisan dalam Puisi—Wawancara Penyair Lin Heng-tai — Yayasan Data Sejarah Taiwan Wu San-lien](https://www.twcenter.org.tw/thematic_series/character_series/taiwan_litterateur_interview/b01_8001/b01_8001_1) — Lin Heng-tai menceritakan latar belakang penulisan "Pemandangan No. 2": "Dalam rute dari Xihu ke Erlin, saya melihat pemandangan yang melintas cepat di balik jendela kereta, melihat deretan hutan pelindung angin yang berbaris, dan setelah melewati Erlin adalah laut dengan ombak yang bergulung... dengan demikian selesailah dua puisi pemandangan ini".
 
-[^23]: [Pemandangan No.2 ◎ Lin Hengtai — Membaca Sebuah Puisi untukmu Setiap Hari](https://cendalirit.blogspot.com/2016/07/20160727.html) — Mencatat penuh puisi dan apresiasi "Pemandangan No.2" karya Lin Hengtai; menjelaskan puisi ini sebagai mewakili "Neo-Imagisme" dalam sejarah puisi modern Taiwan, "hutan penahan angin" baik sebagai objek kalimat sebelumnya maupun subjek kalimat sesudahnya, kompresi dan tumpang tindih menciptakan kesan visual lapisan demi lapisan, berkelanjutan tanpa henti.
+[^23]: [Pemandangan No. 2 ◎ Lin Heng-tai — Membacakan Satu Puisi Untuk Anda Setiap Hari](https://cendalirit.blogspot.com/2016/07/20160727.html) — Memuat teks lengkap dan analisis puisi "Pemandangan No. 2" karya Lin Heng-tai; menjelaskan bahwa puisi ini adalah karya representatif dari "Objektivisme Baru" dalam sejarah puisi modern Taiwan, di mana "hutan pelindung angin" berfungsi sebagai objek pada kalimat sebelumnya sekaligus subjek pada kalimat berikutnya, menciptakan kesan visual yang berlapis dan berkelanjutan melalui teknik kompresi dan penumpukan.
 
-[^24]: [Komunitas Puisi Li — Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%AC%A0%E8%A9%A9%E7%A4%BE) — Menguraikan struktur estetika kontradiktif antara Komunitas Puisi Li dengan Komunitas Puisi Modern Utara / Bintang Biru / Kejadian Baru, mencakup lima dimensi: latar anggota, kecenderungan estetika, fokus tema, strategi bahasa, dan posisi politik.
+[^24]: [Komunitas Puisi Li (笠詩社) — Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%AC%A0%E8%A9%A9%E7%A4%BE) — Menjelaskan secara rinci struktur estetika yang kontras antara Komunitas Puisi Li dengan komunitas puisi modern di utara seperti Northern Modern Poetry Society/Blue Star/Genesis, mencakup lima dimensi: latar belakang anggota, kecenderungan estetika, fokus tema, strategi bahasa, dan posisi politik.
 
-[^25]: [Lin Hengtai — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%9E%97%E4%BA%A8%E6%B3%B0) — Mencatat penuh perjalanan Lin Hengtai dari anggota aliran "Modernis" Jixian menjadi ketua editor pertama Komunitas Puisi Li, merupakan kasus penting pergeseran blok estetika dalam sejarah puisi modern Taiwan.
+[^25]: [Lin Heng-tai — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%9E%97%E4%BA%A8%E6%B3%B0) — Mencatat secara lengkap jejak Lin Heng-tai dari anggota aliran "Modernis" Chih弦 menjadi editor pertama Komunitas Puisi Li, yang merupakan kasus penting dalam pergeseran faksi estetika sejarah puisi modern Taiwan.
 
-[^26]: [Menyaksikan Nilai Lokal Melalui Puisi — CNA 2024-06-22](https://www.cna.com.tw/news/acul/202406220181.aspx) — Laporan 2024 mencatat majalah puisi "Li" telah terbit hingga edisi ke-361, 60 tahun tidak pernah berhenti terbit, menjadi majalah puisi lokal paling langgeng di Taiwan.
+[^26]: [Menyaksikan Nilai Lokal Melalui Puisi — CNA 2024-06-22](https://www.cna.com.tw/news/acul/202406220181.aspx) — Laporan tahun 2024 mencatat bahwa jurnal puisi "Li" telah mencapai edisi ke-361 dan tidak pernah berhenti terbit selama 60 tahun, menjadikannya jurnal puisi lokal tertua di Taiwan.
 
-[^27]: [Perdebatan Sastra Nativis Taiwan — Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E7%81%A3%E9%84%89%E5%9C%9F%E6%96%87%E5%AD%B8%E8%AB%96%E6%88%B0) — April 1977 Wang Jianzhuang mengedit "Majalah Kaktus" memuat artikel Wang Tuo "Ini Sastra "Realisme", Bukan "Sastra Nativis"", Yin Zhengxiong, dan Zhu Xining, memicu perang debat sastra nativis.
+[^27]: [Debat Sastra Lokal Taiwan — Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E7%81%A3%E9%84%89%E5%9C%9F%E6%96%87%E5%AD%B8%E8%AB%96%E6%88%B0) — Pada April 1977, editor utama Wang Jian-zhuang dalam majalah "Cactus" menerbitkan tiga artikel oleh Wang Tuo ("Ini adalah sastra 'Realisme', bukan 'Sastra Lokal'"), Yin Zheng-xiong, dan Zhu Xi-ning, yang memicu debat besar mengenai sastra lokal.
 
-[^28]: [Perdebatan Sastra Nativis Taiwan — Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E7%81%A3%E9%84%89%E5%9C%9F%E6%96%87%E5%AD%B8%E8%AB%96%E6%88%B0) — 17 Agustus 1977 Peng Ge di "United Daily News" menerbitkan "Tanpa Bicara Kemanusiaan, Di Mana Ada Sastra?", menyingkirkan nama Wang Tuo, Wei Tiangong, Chen Yingzhen.
+[^28]: [Debat Sastra Lokal Taiwan — Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E7%81%A3%E9%84%89%E5%9C%9F%E6%96%87%E5%AD%B8%E8%AB%96%E6%88%B0) — Pada 17 Agustus 1977, Peng Ge menerbitkan artikel "Jika Tidak Membahas Kemanusiaan, Bagaimana Bisa Ada Sastra?" di United Daily News, yang secara spesifik mengkritik Wang Tuo, Wei Tian-cong, dan Chen Ying-zhen.
 
-[^29]: [Satu Artikel "Serigala Datang" Yu Guangzhong Pernah Memicu Perang Debat Sastra Nativis — Liberty Times](https://news.ltn.com.tw/news/life/breakingnews/2283014) — 20 Agustus 1977 Yu Guangzhong di "United Daily News" menerbitkan "Serigala Datang", menuduh sastra nativis Taiwan "ternyata memiliki kesamaan tersembunyi dengan sastra pekerja-petani yang menekankan perjuangan kelas di Daratan Tiongkok".
+[^29]: [Sebuah Tulisan "Serigala Datang" Pernah Memicu Debat Sastra Lokal oleh Yu Kwang-chung — Liberty Times](https://news.ltn.com.tw/news/life/breakingnews/2283014) — Pada 20 Agustus 1977, Yu Kwang-chung menerbitkan artikel "Serigala Datang" di United Daily News, menuduh bahwa sastra lokal Taiwan "ternyata memiliki kemiripan dengan sastra buruh-petani-prajurit di Tiongkok Daratan yang menekankan perjuangan kelas".
 
-[^30]: [Satu Artikel "Serigala Datang" Yu Guangzhong Pernah Memicu Perang Debat Sastra Nativis — Liberty Times](https://news.ltn.com.tw/news/life/breakingnews/2283014) — Liberty Times mengutip suasana saat itu: "Saat itu, topi besar yang disebut 'tetesan darah' membuat dunia sastra gemetar, penuh dengan nuansa kekerasan yang mengerikan".
+[^30]: [Sebuah Tulisan "Serigala Datang" Pernah Memicu Debat Sastra Lokal oleh Yu Kwang-chung — Liberty Times](https://news.ltn.com.tw/news/life/breakingnews/2283014) — Liberty Times mengutip suasana pada saat itu: "Dalam sekejap, label yang diibaratkan sebagai 'Si Pembunuh Berdarah' (Xue Di Zi) menimbulkan kegemparan di dunia sastra, dipenuhi dengan aura berdarah yang mencekam".
 
-[^31]: [Debat Sastra Nativis Taiwan — Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E7%81%A3%E9%84%89%E5%9C%9F%E6%96%87%E5%AD%B8%E8%AB%96%E6%88%B0) — Pada akhir Agustus 1977, KMT mengadakan 'Pertemuan Sastra dan Seni Kedua', dengan Ding Maoshi, Li Yuan-zu, Wang Sheng, Li Huan sebagai wakil pemerintah/partai/militer, bersama Yu Guangzhong, Yin Xueman, dan lainnya, mengundang lebih dari 270 orang terkait untuk berdiskusi.
+[^31]: [Perdebatan Sastra Nativisme Taiwan — Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E7%81%A3%E9%84%89%E5%9C%9F%E6%96%87%E5%AD%B8%E8%AB%96%E6%88%B0) — Pada akhir Agustus 1977, Kuomintang mengadakan "Pertemuan Sastra Kedua", di mana perwakilan pemerintah/partai/militer seperti Ding Maoshi, Li Yuancu, Wang Sheng, dan Li Huan, bersama tokoh-tokoh seperti Yu Kwang-chung dan Yin Xue-man, mengumpulkan lebih dari 270 orang terkait untuk berdiskusi.
 
-[^32]: [Di Antara Halus dan Tajam: Posisi Ye Shitao, Chen Yingzhen, Yu Guangzhong dalam Debat Sastra Nativis — Up Media](https://www.upmedia.mg/news_info.php?SerialNo=31998) — Menguraikan proses pengambilalihan strategis oleh otoritas: 'Sastra Nativis' didefinisikan ulang secara luas menjadi 'Sastra Patriotik', 'Sastra Nasional', dan debat berakhir di bawah campur tangan otoritas resmi.
+[^32]: [Antara Halus dan Tajam: Posisi Ye Shitao, Chen Ying-zhen, dan Yu Kwang-chung dalam Perdebatan Sastra Nativisme — Upperside](https://www.upmedia.mg/news_info.php?SerialNo=31998) — Menjelaskan secara rinci proses kooptasi strategis oleh pihak resmi: "Sastra Nativisme" diperluas dan didefinisikan ulang sebagai "Sastra Patriotik" dan "Sastra Nasional", yang mengakhiri perdebatan melalui intervensi otoritas resmi.
 
-[^33]: Berdasarkan penelitian baseline broad-theme ([`reports/research/2026-05/taiwan-poets-3-bamboo-hat-nativism.md §六`](../2026-05/taiwan-poets-3-bamboo-hat-nativism.md)): Kelompok Penyair Li (Chen Qianwu, Bai Qiu, Zhao Tianyu, Li Minyong) sepenuhnya berpihak pada kubu nativis; meskipun debat utamanya di bidang novel, dunia puisi juga bergerak secara bersamaan.
+[^33]: Disintesis dari baseline broad-theme research ([`reports/research/2026-05/taiwan-poets-3-bamboo-hat-nativism.md §六`](../2026-05/taiwan-poets-3-bamboo-hat-nativism.md)): Kubu Lashi Society (Chen Qian-wu, Bai Zhu, Zhao Tian-yi, Li Min-yong) sepenuhnya berdiri di sisi faksi nativisme; meskipun perdebatan utamanya terjadi di medan novel, dunia puisi juga bergerak secara bersamaan.
 
-[^34]: [Kelompok Puisi Longzu — Wikipedia](https://zh.wikipedia.org/wiki/%E9%BE%8D%E6%97%8F%E8%A9%A9%E7%A4%BE) — Kelompok Puisi Longzu didirikan pada 1 Januari 1971 oleh Xin Mu, Shi Shanji, Xiao Xiao, Chen Fangming, kemudian bergabung Lin Huanchang, Su Shaolian, Lin Fo'er, Jing Xiang, Qiao Lin, total 9 orang. 'Deklarasi Longzu': 'Kita membunyikan gong kita sendiri, memukul kendang kita sendiri', mengadvokasi kembali ke realitas.
+[^34]: [Longzu Poetry Society — Wikipedia](https://zh.wikipedia.org/wiki/%E9%BE%8D%E6%97%8F%E8%A9%A9%E7%A4%BE) — Didirikan pada Tahun Baru 1971 oleh Xin Mu, Shi Shan-ji, Xiao Xiao, dan Chen Fang-ming, kemudian diikuti oleh Lin Huan-chang, Su Shao-lian, Lin Fo-er, Jing Xiang, Qiao Lin, dan total 9 orang lainnya. <Manifesto Longzu>: "Kami memukul gong kami sendiri dan menabuh genderang kami sendiri", yang mengadvokasi kembalinya ke realitas.
 
-[^35]: [Satu Karangan 'Serigala Datang' Yu Guangzhong Pernah Memicu Debat Sastra Nativis — Liberty Times](https://news.ltn.com.tw/news/life/breakingnews/2283014) — Saat Yu Guangzhong meninggal pada 2017, sejarah ini ditinjau kembali, pandangan dunia sastra Taiwan terhadap 'Serigala Datang' hingga kini masih berbedaan.
+[^35]: [Sebuah Artikel "Serigala Datang" — Yu Kwang-chung Pernah Memicu Perdebatan Sastra Nativisme — Liberty Times](https://news.ltn.com.tw/news/life/breakingnews/2283014) — Sejarah ini ditinjau kembali saat Yu Kwang-chung wafat pada tahun 2017, dan pandangan dunia sastra Taiwan terhadap "Serigala Datang" tetap terbagi hingga kini.
 
-[^36]: [Di Antara Halus dan Tajam — Up Media](https://www.upmedia.mg/news_info.php?SerialNo=31998) — Up Media menganalisis tiga sumbu debat sastra nativis: 'Nasionalisme Tiongkok Kanan vs. Nasionalisme Tiongkok Kiri vs. Teori Taiwan Asli'.
+[^36]: [Antara Halus dan Tajam — Upperside](https://www.upmedia.mg/news_info.php?SerialNo=31998) — Upperside menganalisis tiga poros perdebatan sastra nativisme: "Nasionalisme Tiongkok Sayap Kanan vs. Nasionalisme Tiongkok Sayap Kiri vs. Teori Lokal Taiwan".
 
-[^37]: [Xiangyang — Wikipedia](<https://zh.wikipedia.org/zh-tw/%E5%90%91%E9%99%BD_(%E8%A9%A9%E4%BA%BA)>) — Xiangyang nama aslinya Lin Qiyi, lahir 7 Mei 1955 di Desa Guangxing, Kecamatan Lugu, Kabupaten Nantou; mulai menulis puisi bahasa Taiwan sejak 1976, karyanya yang mewakili 'Bungkus Nasi Ayah' diterbitkan pertama kali di 'Majalah Puisi Li' edisi ke-71.
+[^37]: [Xiang Yang — Wikipedia](<https://zh.wikipedia.org/zh-tw/%E5%90%91%E9%99%BD_(%E8%A9%A9%E4%BA%BA)>) — Xiang Yang, nama asli Lin Qi-quan, lahir pada 7 Mei 1955 di Desa Guangxing, Kota Lugu, Kabupaten Nantou; sejak tahun 1976 ia menulis puisi bahasa Tai, dan karya representatifnya "Bungkus Nasi Ayah" pertama kali diterbitkan dalam majalah 《笠詩刊》 edisi ke-71.
 
-[^38]: [Karena Puisi Bahasa Taiwan Dua Kali Kehilangan Tidur Xiangyang: 'Jika Tidak Bisa Menulis Puisi dengan Bahasa Ibu, Saya Tidak Berhak Jadi Penyair' — CNA 2024-09-10](https://www.cna.com.tw/culture/article/20240910w001) — Mencatat sepenuhnya wawancara Xiangyang: 'Saya ingat 4 puisi bahasa Taiwan pertama saya diterbitkan... oleh Majalah Puisi Li, malam hari diterbitkan, saya tidak bisa tidur seharian! Sangat gembira sekali'.
+[^38]: [Dua Kali Insomnia Demi Puisi Bahasa Tai, Xiang Yang: Jika Tidak Bisa Menulis Puisi dengan Bahasa Ibu, Saya Tidak Layak Menjadi Penyair — CNA 2024-09-10](https://www.cna.com.tw/culture/article/20240910w001) — Memuat wawancara lengkap dengan Xiang Yang: "Saya ingat 4 puisi bahasa Tai pertama yang saya publikasikan... diterbitkan oleh majalah 《笠》; pada hari penerbitan itu, saya tidak bisa tidur semalaman! Saya sangat senang".
 
-[^39]: [Karena Puisi Bahasa Taiwan Dua Kali Kehilangan Tidur Xiangyang — CNA 2024-09-10](https://www.cna.com.tw/culture/article/20240910w001) — Kutipan lengkap Xiangyang: 'Sebagai seorang penyair, jika tidak bisa menulis puisi dengan bahasa ibunya sendiri, saya tidak layak disebut penyair... Jika suatu hari bahasa Taiwan hilang, tidak ada lagi yang bicara bahasa Taiwan, juga tidak tahu cara membacanya, maka setidaknya puisi yang saya tulis bisa menjadi batu nisan'.
+[^39]: [Dua Kali Insomnia Demi Puisi Bahasa Tai, Xiang Yang — CNA 2024-09-10](https://www.cna.com.tw/culture/article/20240910w001) — Kutipan lengkap Xiang Yang: "Sebagai seorang penyair, jika saya tidak bisa menulis puisi dengan bahasa ibu saya sendiri, saya tidak layak disebut sebagai penyair... Jika suatu hari bahasa Tai menghilang, tidak ada lagi orang yang berbicara bahasa Tai atau tahu cara mengucapkannya, maka setidaknya puisi yang saya tulis dapat dijadikan sebagai batu nisan".
 
-[^40]: [Du Pan Fangge — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%9D%9C%E6%BD%98%E8%8A%B3%E6%A0%BC) — Du Pan Fangge (1927-2016) adalah penyair wanita keturunan Hakka generasi melintasi bahasa, salah satu anggota penting Kelompok Puisi Li; kemudian menyunting 'Antologi Puisi Hakka Taiwan' mencatat 24 penyair Hakka.
+[^40]: [Du Panfangge — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%9D%9C%E6%BD%98%E8%8A%B3%E6%A0%BC) — Du Panfangge (1927-2016) adalah penyair perempuan suku Hakka dari generasi lintas bahasa dan salah satu anggota penting Lashi Society; ia kemudian menyunting 《Antologi Puisi Hakka Taiwan》 yang memuat karya 24 penyair Hakka.
 
-[^41]: [Wu Cheng — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%90%B3%E6%99%9F) — Wu Cheng nama aslinya Wu Shengxiong, lahir 1944 di Desa Zhenliao, Kecamatan Xizhou, Kabupaten Changhua; lulus Sekolah Pertanian Lanjutan Pingtung 1971, menjabat guru biologi SMP Xizhou hingga pensiun, lama mengajar, bertani, menulis puisi di pedesaan dataran Changhua.
+[^41]: [Wu Sheng — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%90%B3%E6%99%9F) — Wu Sheng, nama asli Wu Sheng-xiong, lahir pada tahun 1944 di Desa Zhenliao, Kota Xizhou, Kabupaten Changhua; setelah lulus dari Sekolah Kejuruan Pertanian Pingtung pada tahun 1971, ia bekerja sebagai guru biologi di SMP Xizhou hingga pensiun, dan telah lama mengajar, bertani, serta menulis puisi di pedesaan dataran Changhua.
 
-[^42]: [Bagaimana Tanah Taiwan Menghasilkan Penulis Sastra Nativis Wu Cheng? — Majalah Tianxia](https://www.cw.com.tw/article/5122654) — Majalah Tianxia mewawancarai Wu Cheng, menggambarkannya sebagai 'penyair pedesaan yang keluar dari ladang dengan topi bambu sobek dan kaki telanjang'.
+[^42]: [Bagaimana Tanah Taiwan Membesarkan Penulis Sastra Nativisme Wu Sheng? — Commonwealth Magazine](https://www.cw.com.tw/article/5122654) — Wawancara eksklusif Commonwealth Magazine dengan Wu Sheng, yang menggambarkannya sebagai "penyair pedesaan yang melepas sandal dan berjalan langsung dari ladang".
 
-[^43]: [Perkenalan Penyair Wu Cheng — Dinas Kebudayaan Kabupaten Changhua](https://www.bocach.gov.tw/) — Dinas Kebudayaan Kabupaten Changhua memperkenalkan Wu Cheng, menempatkan seri 'Kesan Kampung Halamanku' sebagai 'satu-satunya karya sastra dalam sejarah sastra modern Taiwan yang mencerminkan dualitas kedudukan petani di era tekanan pertanian'. Tahun 1971 diedarkan penuh oleh 'Sastra Pemuda' yang disunting oleh Ya Xian, memberikan dorongan besar bagi penyair muda.
+[^43]: [Profil Penyair Wu Sheng — Biro Kebudayaan Kabupaten Changhua](https://www.bocach.gov.tw/) — Biro Kebudayaan Kabupaten Changhua memperkenalkan Wu Sheng, menempatkan seri 〈Kesan Kampung Halaman Saya〉 sebagai "satu-satunya karya sastra dalam sejarah sastra modern Taiwan yang mencerminkan dualitas kondisi petani selama periode tekanan agraris". Pada tahun 1971, karyanya diterbitkan secara penuh di majalah 《幼獅文藝》 yang disunting oleh Yu Hsien, memberikan dorongan besar bagi para penyair muda.
 
-[^44]: [Wu Cheng / Beban — Pusat Informasi Lingkungan](https://erf.org.tw/) — Mencatat sepenuhnya puisi 'Beban' dan latar belakangnya, mencatat puisi ini sekitar 1980 dipilih ke dalam buku teks bahasa Tiongkok SMP, 'Perasaan Ayah' menjadi kenangan bersama dua generasi pembaca.
+[^44]: [Wu Sheng / Beban — Pusat Informasi Lingkungan](https://erf.org.tw/) — Memuat teks puisi 〈Beban〉 beserta latar belakangnya, mencatat bahwa puisi ini dipilih ke dalam buku teks Bahasa Mandarin SMP sekitar tahun 1980, di mana "perasaan Ayah" menjadi memori bersama bagi dua generasi pembaca.
 
-[^45]: [Bagaimana Tanah Taiwan Menghasilkan Penulis Sastra Nativis Wu Cheng? — Majalah Tianxia](https://www.cw.com.tw/article/5122654) — Melaporkan Wu Cheng lama terlibat gerakan anti-nuklir, perlindungan air, perlindungan tanah, menyebut dirinya 'penyair tidak berguna'; Juni 2020 menerima gelar Doktor Kehormatan Sastra dari Universitas Nasional Donghua.
+[^45]: [Bagaimana Tanah Taiwan Membesarkan Penulis Sastra Nativisme Wu Sheng? — Commonwealth Magazine](https://www.cw.com.tw/article/5122654) — Laporan mengenai keterlibatan jangka panjang Wu Sheng dalam gerakan anti-nuklir, perlindungan air, dan perlindungan tanah, serta menyebut dirinya sebagai "penyair yang tidak berguna"; pada Juni 2020, ia dianugerahi gelar Doktor Kehormatan Sastra oleh Universitas Nasional Dong Hwa.
 
-[^46]: [Zheng Jiongming — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%84%AD%E7%83%B1%E6%98%8E) — Zheng Jiongming lahir pada 1948 di Tainan, lulus dari Akademi Medis Kaohsiung dan pensiun sebagai dokter spesialis internal di Rumah Sakit Umum Datong Kaohsiung; bergabung dengan Komunitas Puisi Li pada 1968 dan pernah menjabat ketua; kumpulan puisi 'Nyanyian Ubi' pada 1982 memenangkan Penghargaan Puisi Li ke-2.
+[^46]: [Zheng Jiong-ming — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%84%AD%E7%83%B1%E6%98%8E) — Zheng Jiong-ming lahir pada tahun 1948 di Tainan; setelah lulus dari College of Medicine, Kaohsiung Medical University, ia menjabat sebagai dokter spesialis penyakit dalam di Rumah Sakit Datong Kota Kaohsiung hingga pensiun; bergabung dengan Lishi Society pada tahun 1968 dan pernah menjabat sebagai presiden; kumpulan puisinya "Lagu Ubi" memenangkan Penghargaan Puisi Lishi ke-2 pada tahun 1982.
 
-[^47]: [Li Minyong — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%9D%8E%E6%95%8F%E5%8B%87) — Li Minyong lahir pada 1947 di Kecamatan Qishan, Kabupaten Kaohsiung (sekarang Distrik Qishan, Kota Kaohsiung), pernah menjabat editor utama majalah puisi 'Li'; pada 2007 menerima Penghargaan Seni Nasional; kumpulan puisi representatifnya 'Lanskap Hukum Militer' (1990) menunjuk langsung realitas di bawah sistem partai-negara.
+[^47]: [Li Min-yong — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%9D%8E%E6%95%8F%E5%8B%87) — Li Min-yong lahir pada tahun 1947 di Kota Qishan, Kabupaten Kaohsiung (sekarang Distrik Qishan, Kota Kaohsiung), dan pernah menjabat sebagai editor utama jurnal puisi "Li"; menerima Penghargaan Seni Budaya Nasional pada tahun 2007; kumpulan puisi perwakilannya "Pemandangan Darurat Militer" (1990) menyoroti realitas di bawah sistem partai-negara.
 
-[^48]: [Penyair Bai Hao Meninggal Dunia pada Usia 87 Tahun — CNA 2023-01-13](https://www.cna.com.tw/news/acul/202301130237.aspx) — Melaporkan Bai Hao meninggal pada 11 Januari 2023; Kementerian Kebudayaan mengeluarkan surat keghormatan untuk menghargai kontribusi luar biasanya bagi sastra pribumi Taiwan.
+[^48]: [Penyair Bai Hu Wafat pada Usia 87 Tahun — CNA 2023-01-13](https://www.cna.com.tw/news/acul/202301130237.aspx) — Laporan mengenai wafatnya Bai Hu pada 11 Januari 2023; Kementerian Kebudayaan mengeluarkan sertifikat penghargaan untuk menghormati kontribusi luar biasanya terhadap sastra lokal Taiwan.
 
-[^49]: [Makna Eksistensi — Bai Hao: Angsa (Teks Asli + Analisis) — Pembelajaran Bahasa Nasional Qiaoke](https://rueylin0119.pixnet.net/blog/post/88462410) — Mencatat sepenuhnya puisi dan analisis 'Angsa' karya Bai Hao; baris terakhir 'awan dingin menatap kita dengan dingin' adalah salah satu kalimat eksistensialisme paling sering dikutip dalam sejarah puisi modern Taiwan.
+[^49]: [Makna Eksistensi—Bai Hu: Angsa (Teks Asli + Analisis)—Pengajaran Bahasa Mandarin Qiaoke](https://rueylin0119.pixnet.net/blog/post/88462410) — Berisi teks lengkap puisi "Angsa" karya Bai Hu beserta analisisnya; kalimat terakhir "Awan yang dingin menatap kita dengan dingin" adalah salah satu kutipan eksistensialisme yang paling sering dikutip dalam sejarah puisi modern Taiwan.
 
-[^50]: [Eksistensi Batu Karang Terpencil: Mengingat Penyair Bai Hao — UDN](https://udn.com/news/story/6965/7106021) — Kumpulan esai puisi 'Eksistensi Batu Karang Terpencil' adalah salah satu diskursus puisi terpenting Komunitas Puisi Li pada era 1960-1970; penyair Ye Di menggambarkan Bai Hao sebagai 'Eksistensi Batu Karang Terpencil' — seumur hidup mengejar keaslian, tidak mengikuti arus.
+[^50]: [Eksistensi Batu Karang Terisolasi: Mengenang Penyair Bai Hu — UDN](https://udn.com/news/story/6965/7106021) — Kumpulan teori puisi "Eksistensi Batu Karang Terisolasi" adalah salah satu diskursus poetika terpenting dari Lishi Society pada era 1960-an dan 70-an; penyair Ye Di menggambarkan Bai Hu sebagai "eksistensi batu karang yang terisolasi"—seumur hidup mengejar orisinalitas dan tidak mengikuti arus umum.
 
-[^51]: [(Suplemen Merdeka) Li Minyong / Eksistensi Batu Karang Terpencil — Mengingat Penyair Bai Hao — Situs Seni Merdeka 2023-01](https://art.ltn.com.tw/article/paper/1563463) — Mencatat sepenuhnya teks ratapan Li Minyong verbatim: "Bai Hao adalah orang yang kesepian, puisi adalah negaranya yang tersembunyi dalam kehidupan sehari-hari... Kesepiannya juga memiliki sisi angkuh, Eksistensi Batu Karang Terpencil adalah gambarannya... Jarang ada pujian berlebihan dalam kritik puisi, mempraktikkan 'mengkritik puisi dengan puisi' yang langka di dunia puisi Taiwan... Bai Hao adalah keberadaan khusus dalam sejarah puisi modern Taiwan pasca-perang, adalah tanda penting dalam halaman sejarah puisi".
+[^51]: [【Suplemen Bebas】Li Min-yong / Eksistensi Batu Karang Terisolasi — Mengenang Penyair Bai Hu — Liberty Arts & Culture Web 2023-01](https://art.ltn.com.tw/article/paper/1563463) — Berisi teks lengkap tulisan peringatan Li Min-yong: "Bai Hu adalah sosok yang kesepian, puisi adalah negeri yang ia sembunyikan dalam keseharian hidupnya... kesepiannya juga memiliki sisi keangkuhan, eksistensi batu karang yang terisolasi adalah gambaran dari hal tersebut... jarang ada kritik puisi yang sekadar memuji atau omong kosong, ia mempraktikkan diskusi puisi yang langka di dunia puisi Taiwan... Bai Hu adalah eksistensi khusus dalam sejarah puisi modern pasca-perang Taiwan, sebuah jejak penting dalam lembaran sejarah puisi".
 
-[^52]: [Penyair Generasi Translingual Lin Hengtai Meninggal Dunia pada Usia 100 Tahun, Kementerian Kebudayaan Ajukan Penghargaan Presiden — UDN 2023](https://udn.com/news/story/6885/7461236/) — Melaporkan Lin Hengtai meninggal pada 23 September 2023 pada usia 100 tahun, Kementerian Kebudayaan mengajukan penghargaan presiden.
+[^52]: [Penyair Lintas Generasi Lin Heng-tai Wafat pada Usia 100 Tahun, Kementerian Kebudayaan Mengajukan Penghargaan dari Presiden — UDN 2023](https://udn.com/news/story/6885/7461236/) — Laporan mengenai wafatnya Lin Heng-tai pada 23 September 2023 di usia 100 tahun; Kementerian Kebudayaan mengajukan permohonan kepada Presiden untuk memberikan penghargaan resmi.
 
-[^53]: [Penyair Generasi Translingual Lin Hengtai Meninggal Dunia pada Usia 100 Tahun — UDN 2023](https://udn.com/news/story/6885/7461236/) — Komentar Menteri Kebudayaan Shi Zhe verbatim: Kematian Lin Hengtai 'melambangkan berakhirnya era gemilang dalam sejarah sastra Taiwan'.
+[^53]: [Penyair Lintas Generasi Lin Heng-tai Wafat pada Usia 100 Tahun — UDN 2023](https://udn.com/news/story/6885/7461236/) — Pidato Menteri Kebudayaan Shi Zhe secara verbatim: wafatnya Lin Heng-tai "melambangkan berakhirnya sebuah era yang gemilang dalam sejarah sastra Taiwan".
 
-[^54]: [Pameran Khusus 60 Tahun Komunitas Puisi Li di Museum Sastra Nasional Taiwan](https://www.nmtl.gov.tw/News_Content.aspx?n=3891&s=217806) — Pengumuman resmi pembukaan pameran oleh Museum Sastra Nasional pada 28 Mei 2024.
+[^54]: [Museum Sastra Nasional Taiwan "Enam Puluh Tahun Lishi: Pameran Khusus 60 Tahun Lishi Society"](https://www.nmtl.gov.tw/News_Content.aspx?n=3891&s=217806) — Pengumuman resmi pameran yang dimulai pada 28 Mei 2024 oleh Museum Sastra Nasional.
 
-[^55]: [60 Tahun Li — Museum Sastra Virtual Taiwan](https://tlvm.nmtl.gov.tw/zh/Theme/ExhibitionCont1?LLid=82) — Tulisan kurator mencatat tiga tema pameran utama: 'Simfoni Campuran Multibahasa', 'Penerjemahan dan Pengenalan Aliran Puisi Multinasional', 'Kepedulian Realitas'.
+[^55]: [Enam Puluh Tahun Lishi — Museum Virtual Sastra Taiwan](https://tlvm.nmtl.gov.tw/zh/Theme/ExhibitionCont1?LLid=82) — Narasi kuratorial mencatat tiga tema utama pameran: "Simfoni Multibahasa yang Bercampur", "Pengenalan Tren Puisi Multinasional", dan "Kepedulian terhadap Realitas".
 
-[^56]: [Museum Sastra Kaohsiung — Perpustakaan Kota Kaohsiung](https://www.ksml.edu.tw/lib/content/index.aspx?Parser=1,83,1395,1384) — Pameran '60 Tahun Li' di Kaohsiung berlangsung 4 Juni 2024 hingga 27 Oktober 2024; pada 27 Juli diselenggarakan kuliah bertema 'Aktivitas Selatan Majalah Li dan Poetik Realitas'.
+[^56]: [Museum Sastra Kaohsiung — Perpustakaan Kota Kaohsiung](https://www.ksml.edu.tw/lib/content/index.aspx?Parser=1,83,1395,1384) — Stasiun Kaohsiung untuk pameran "Enam Puluh Tahun Lishi" berlangsung dari 04-06-2024 hingga 27-10-2024; pada 27 Juli diadakan kuliah tematik "Aktivitas di Selatan dan Poetika Realitas dalam 'Li'".
 
-[^57]: [Menyaksikan Nilai Pribumi dengan Puisi — CNA 2024-06-22](https://www.cna.com.tw/news/acul/202406220181.aspx) — Laporan kurator CNA mencatat: 'Edisi pertama 1964 menampilkan pahlawan mitos Yunani "Hercules" di sampul, edisi 2024 ke-361 menampilkan lembar puisi "Mungkin Ini Beratnya Sebuah Puisi" di sampul'.
+[^57]: [Menjadi Saksi Nilai Lokal Melalui Puisi — CNA 2024-06-22](https://www.cna.com.tw/news/acul/202406220181.aspx) — Laporan kuratorial CNA mencatat: "Sampul edisi pertama tahun 1964 menampilkan pahlawan mitologi Yunani 'Hercules', sedangkan sampul edisi ke-361 tahun 2024 menampilkan kartu puisi 'Mungkin Ini Adalah Berat Sebuah Puisi'".
 
-[^58]: [Menyaksikan Nilai Pribumi dengan Puisi, Pameran 60 Tahun Komunitas Puisi Li Tour Seluruh Taiwan — CNA 2024-06-22](https://www.cna.com.tw/news/acul/202406220181.aspx) — Judul laporan CNA adalah 'Menyaksikan Nilai Pribumi dengan Puisi'.
+[^58]: [Menjadi Saksi Nilai Lokal Melalui Puisi: Tur Pameran Khusus 60 Tahun Lishi Society di Seluruh Taiwan — CNA 2024-06-22](https://www.cna.com.tw/news/acul/202406220181.aspx) — Judul laporan CNA adalah "Menjadi Saksi Nilai Lokal Melalui Puisi".
 
-[^59]: [Tulisan Kurator Pameran '60 Tahun Li' Museum Sastra Nasional Taiwan](https://www.nmtl.gov.tw/News_Content.aspx?n=3891&s=217806) — Tulisan kurator resmi NMTL: 'Melalui karya puisi dan kritik puisi membangun poetika modern Taiwan, menjadi ranah penting wacana pribumi Taiwan'; 'Karya para penyair Li peduli pada pribumi, menyaksikan denyut masyarakat, dengan karya dan teori membangun kesadaran subjek dan identitas budaya Taiwan'.
+[^59]: [Narasi Kuratorial "Enam Puluh Tahun Lishi" Museum Sastra Nasional Taiwan](https://www.nmtl.gov.tw/News_Content.aspx?n=3891&s=217806) — Narasi kuratorial resmi NMTL: "Membangun poetika modern Taiwan melalui karya dan teori puisi, menjadi ruang penting bagi diskursus lokal Taiwan"; "Karya penyair Lishi peduli pada lokalitas, menjadi saksi denyut sosial, serta membangun kesadaran subjektivitas dan identitas budaya Taiwan melalui karya dan teori puisi".
 
-[^60]: [Wong, "Translingual Poets in Colonial and Postcolonial Taiwan" — Polylinguality 2024](https://journals.rudn.ru/polylinguality/article/view/30492/en_US) — Penelitian akademik Barat 2024 secara formal memasukkan penyair generasi translingual ke dalam kategori penelitian bahasa Inggris 'Translingual Poets', mencantumkan anggota termasuk Zhan Bing, Chen Xiuxi, Chen Qianwu, Lin Hengtai, Ye Shitao, Du Panfangge, Jin Lian, dll.
+[^60]: [Wong, "Translingual Poets in Colonial and Postcolonial Taiwan" — Polylinguality 2024](https://journals.rudn.ru/polylinguality/article/view/30492/en_US) — Akademisi Barat secara resmi memasukkan penyair lintas generasi ke dalam kategori studi bahasa Inggris "Translingual Poets" pada tahun 2024, dengan anggota yang disebutkan meliputi Zhan Bing, Chen Xiu-xi, Chen Qian-wu, Lin Heng-tai, Ye Shi-tao, Du Pan Fang-ge, Jin Lian, dan lainnya.
 
-[^61]: [The Columbia Sourcebook of Literary Taiwan — Columbia University Press](https://cup.columbia.edu/book/the-columbia-sourcebook-of-literary-taiwan/9780231165761/) — Antologi sastra Taiwan yang diterbitkan oleh Columbia University Press mencakup terjemahan bahasa Inggris karya penyair generasi translingual.
+[^61]: [The Columbia Sourcebook of Literary Taiwan — Columbia University Press](https://cup.columbia.edu/book/the-columbia-sourcebook-of-literary-taiwan/9780231165761/) — Antologi sastra Taiwan yang diterbitkan oleh Columbia University Press ini memuat terjemahan bahasa Inggris dari karya-karya penyair lintas generasi.
 
-[^62]: [`docs/semiont/MANIFESTO.md §Hubungan dengan Taiwan`](https://github.com/frank890417/taiwan-md/blob/main/docs/semiont/MANIFESTO.md) — Kalimat ini diadaptasi dari proposisi inti Taiwan.md MANIFESTO §Menara Babel Kedaulatan: "Kedaulatan bukanlah hal abstrak. Apakah ketika orang lain memilih untuk tidak menyebut namamu, kamu bisa membuat suaramu terus ada dalam bahasa lain?" Rujuk.
+[^62]: [`docs/semiont/MANIFESTO.md §Hubungan dengan Taiwan`](https://github.com/frank890417/taiwan-md/blob/main/docs/semiont/MANIFESTO.md) — Kalimat ini diadaptasi dari proposisi inti MANIFESTO Taiwan.md §Menara Babel Kedaulatan, yaitu "Kedaulatan bukanlah sesuatu yang abstrak. Kedaulatan adalah ketika orang lain memilih untuk tidak menyebut namamu, apakah Anda dapat membuat suara Anda terus ada dalam bahasa lain". Lihat.

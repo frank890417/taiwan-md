@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-20T07:47:17+08:00",
-    "zhCommitHead": "36b7cb6918",
+    "lastUpdated": "2026-11-20T08:09:19+08:00",
+    "zhCommitHead": "76fca5e4e5",
     "totalZh": 1191,
     "activeLanguages": [
       "en",
@@ -28,10 +28,10 @@
       },
       "ja": {
         "total_zh": 1191,
-        "fresh": 1179,
+        "fresh": 1180,
         "stale": 6,
         "metadata_stale": 2,
-        "missing": 4,
+        "missing": 3,
         "orphan": 0
       },
       "ko": {
@@ -52,10 +52,10 @@
       },
       "fr": {
         "total_zh": 1191,
-        "fresh": 1177,
+        "fresh": 1178,
         "stale": 8,
         "metadata_stale": 3,
-        "missing": 3,
+        "missing": 2,
         "orphan": 0
       },
       "vi": {
@@ -68,9 +68,9 @@
       },
       "id": {
         "total_zh": 1191,
-        "fresh": 1169,
+        "fresh": 1170,
         "stale": 11,
-        "metadata_stale": 5,
+        "metadata_stale": 4,
         "missing": 6,
         "orphan": 0
       },
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1191,
-        "fresh": 1148,
+        "fresh": 1149,
         "stale": 26,
         "metadata_stale": 6,
-        "missing": 11,
+        "missing": 10,
         "orphan": 0
       },
       "ar": {
@@ -100,17 +100,17 @@
       },
       "ru": {
         "total_zh": 1191,
-        "fresh": 1184,
+        "fresh": 1185,
         "stale": 4,
         "metadata_stale": 0,
-        "missing": 3,
+        "missing": 2,
         "orphan": 0
       },
       "de": {
         "total_zh": 1191,
-        "fresh": 1146,
+        "fresh": 1147,
         "stale": 28,
-        "metadata_stale": 10,
+        "metadata_stale": 9,
         "missing": 7,
         "orphan": 0
       }
@@ -9016,7 +9016,20 @@
           "status": "missing"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Economy/national-debt-clock.md",
+          "translatedFrom": "Economy/國債鐘.md",
+          "sourceCommitSha": "cd9d99cf71",
+          "sourceContentHash": "sha256:804cb929e49d0000",
+          "sourceBodyHash": "sha256:c90510ae0ea9b7ac",
+          "translatedAt": "2026-11-20T03:57:04+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 3,
+          "bytes": 10550,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -9034,7 +9047,20 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Economy/national-debt-clock.md",
+          "translatedFrom": "Economy/國債鐘.md",
+          "sourceCommitSha": "cd9d99cf71",
+          "sourceContentHash": "sha256:804cb929e49d0000",
+          "sourceBodyHash": "sha256:c90510ae0ea9b7ac",
+          "translatedAt": "2026-11-20T03:57:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 3,
+          "bytes": 16687,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "status": "missing"
@@ -16561,8 +16587,8 @@
           "sourceContentHash": "sha256:945474d4c297700a",
           "sourceBodyHash": "sha256:f7975ef2c038bd34",
           "translatedAt": "2026-11-20T03:57:04+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "76fca5e4",
+          "translationLastModified": "2026-11-20T07:47:18+08:00",
           "inferred": false,
           "footnoteDefs": 19,
           "bytes": 26000,
@@ -67025,8 +67051,8 @@
           "sourceContentHash": "sha256:32772071ae1ab735",
           "sourceBodyHash": "sha256:694eda8fc7232fe6",
           "translatedAt": "2026-11-20T03:57:04+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "76fca5e4",
+          "translationLastModified": "2026-11-20T07:47:18+08:00",
           "inferred": false,
           "footnoteDefs": 3,
           "bytes": 11365,
@@ -67057,7 +67083,20 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/indigenous-language-policy.md",
+          "translatedFrom": "Society/原住民族語言政策.md",
+          "sourceCommitSha": "bc37ed4d8c",
+          "sourceContentHash": "sha256:32772071ae1ab735",
+          "sourceBodyHash": "sha256:694eda8fc7232fe6",
+          "translatedAt": "2026-11-20T03:57:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 3,
+          "bytes": 20890,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -69008,20 +69047,18 @@
         "id": {
           "path": "id/Society/who-counts-as-low-wage.md",
           "translatedFrom": "Society/誰算低薪.md",
-          "sourceCommitSha": "b10ec653b",
-          "sourceContentHash": "sha256:7abbe410b7f9a4d8",
+          "sourceCommitSha": "be13f04522",
+          "sourceContentHash": "sha256:27a706024e76921c",
           "sourceBodyHash": "sha256:3232aa3ffbbe2f4d",
-          "translatedAt": "2026-09-26T04:17:34.164581+00:00",
+          "translatedAt": "2026-11-19T23:41:00.142423+00:00",
           "translationLastCommit": "1ca7e953",
           "translationLastModified": "2026-10-10T23:17:53+08:00",
           "inferred": false,
           "footnoteDefs": 30,
-          "bytes": 45802,
+          "bytes": 49454,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+4 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Society/who-counts-as-low-wage.md",
@@ -160908,20 +160945,18 @@
         "de": {
           "path": "de/People/sixvfx-lu-tzu-yuan.md",
           "translatedFrom": "People/六指淵.md",
-          "sourceCommitSha": "768afaf0f",
-          "sourceContentHash": "sha256:95e79e3879d5de81",
+          "sourceCommitSha": "ef8369eef5",
+          "sourceContentHash": "sha256:dd7e1a46eeb41eff",
           "sourceBodyHash": "sha256:37f56e84be16a425",
-          "translatedAt": "2026-09-15T06:51:35+08:00",
+          "translatedAt": "2026-11-20T03:57:24+08:00",
           "translationLastCommit": "4bd82ef6",
           "translationLastModified": "2026-09-22T01:04:31+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 27223,
+          "bytes": 28189,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+9 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -186739,7 +186774,20 @@
           "status": "missing"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/History/dominican-order-taiwan.md",
+          "translatedFrom": "History/道明會在台灣.md",
+          "sourceCommitSha": "24f563e646",
+          "sourceContentHash": "sha256:1bd7703941e67723",
+          "sourceBodyHash": "sha256:15228d1d82684e84",
+          "translatedAt": "2026-11-20T03:56:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 3,
+          "bytes": 13367,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/History/dominican-order-taiwan.md",
@@ -186767,8 +186815,8 @@
           "sourceContentHash": "sha256:1bd7703941e67723",
           "sourceBodyHash": "sha256:15228d1d82684e84",
           "translatedAt": "2026-11-20T03:57:04+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "76fca5e4",
+          "translationLastModified": "2026-11-20T07:47:18+08:00",
           "inferred": false,
           "footnoteDefs": 3,
           "bytes": 15034,
