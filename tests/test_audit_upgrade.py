@@ -27,7 +27,7 @@ def test_crawler_statuses_survive_conversion():
 
 def test_manual_decision_cannot_be_reenabled():
     import pytest
-    text=(ROOT/'docs/semiont/ROUTINE.md').read_text()
+    text=(ROOT/'docs/semiont/ROUTINE.md').read_text(encoding="utf-8")
     tasks={x:{'enabled':False} for x in ['twmd-rewrite-daily','twmd-spore-pick-daily','twmd-spore-publish-daily']}
     assert all(v['decision']['due_date'] is None for v in enforce_decisions(tasks,text).values())
     tasks['twmd-rewrite-daily']['enabled']=True

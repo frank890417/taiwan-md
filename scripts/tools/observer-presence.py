@@ -44,6 +44,11 @@ import sys
 from datetime import date, timedelta
 from pathlib import Path
 
+# Windows cp950 console 強制 UTF-8（不影響 Linux/macOS）
+if sys.stdout.encoding and sys.stdout.encoding.lower() not in ("utf-8", "utf8"):
+    sys.stdout.reconfigure(encoding="utf-8")
+    sys.stderr.reconfigure(encoding="utf-8")
+
 REPO = Path(__file__).resolve().parents[2]
 ROUTINE_MD = REPO / "docs" / "semiont" / "ROUTINE.md"
 MEMORY_DIR = REPO / "docs" / "semiont" / "memory"
@@ -124,7 +129,7 @@ def signal_git(since_days):
                 "git", "log", f"--since={since}", "--date=format:%Y-%m-%d",
                 "--pretty=format:%h\x1f%aN\x1f%ad\x1f%s",
             ],
-            cwd=REPO, capture_output=True, text=True, timeout=30, check=True,
+            cwd=REPO, capture_output=True, text=True, encoding="utf-8", errors="replace", timeout=30, check=True,
         )
     except Exception as e:  # noqa: BLE001 — git 不可用要現形，不能靜默回報「無訊號」
         fail(f"git log 執行失敗：{e}")

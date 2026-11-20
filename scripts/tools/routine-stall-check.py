@@ -96,6 +96,11 @@ import sys
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
+# Windows cp950 console 強制 UTF-8（不影響 Linux/macOS）
+if sys.stdout.encoding and sys.stdout.encoding.lower() not in ("utf-8", "utf8"):
+    sys.stdout.reconfigure(encoding="utf-8")
+    sys.stderr.reconfigure(encoding="utf-8")
+
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 ROUTINE_SSOT = "docs/semiont/ROUTINE.md"
 MEMORY_DIR = "docs/semiont/memory"
@@ -159,6 +164,8 @@ def check_rule1(now: datetime, since_days: int) -> dict:
         cwd=REPO_ROOT,
         capture_output=True,
         text=True,
+        encoding="utf-8",
+        errors="replace",
         check=False,
     )
     if r.returncode != 0:
@@ -368,6 +375,8 @@ def list_rescue_branches() -> list[str] | None:
         cwd=REPO_ROOT,
         capture_output=True,
         text=True,
+        encoding="utf-8",
+        errors="replace",
         check=False,
         timeout=60,
     )
@@ -392,6 +401,8 @@ def rescue_branch_memory_files(branch: str) -> list[str] | None:
         cwd=REPO_ROOT,
         capture_output=True,
         text=True,
+        encoding="utf-8",
+        errors="replace",
         check=False,
         timeout=300,
     )
@@ -402,6 +413,8 @@ def rescue_branch_memory_files(branch: str) -> list[str] | None:
         cwd=REPO_ROOT,
         capture_output=True,
         text=True,
+        encoding="utf-8",
+        errors="replace",
         check=False,
         timeout=60,
     )
