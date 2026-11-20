@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-20T22:39:25+08:00",
-    "zhCommitHead": "357568f387",
+    "lastUpdated": "2026-11-20T23:57:23+08:00",
+    "zhCommitHead": "090b3921f8",
     "totalZh": 1192,
     "activeLanguages": [
       "en",
@@ -44,8 +44,8 @@
       },
       "es": {
         "total_zh": 1192,
-        "fresh": 1178,
-        "stale": 10,
+        "fresh": 1179,
+        "stale": 9,
         "metadata_stale": 4,
         "missing": 0,
         "orphan": 0
@@ -68,10 +68,10 @@
       },
       "id": {
         "total_zh": 1192,
-        "fresh": 1180,
+        "fresh": 1181,
         "stale": 7,
         "metadata_stale": 4,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       },
       "pt": {
@@ -84,8 +84,8 @@
       },
       "hi": {
         "total_zh": 1192,
-        "fresh": 1164,
-        "stale": 18,
+        "fresh": 1165,
+        "stale": 17,
         "metadata_stale": 5,
         "missing": 5,
         "orphan": 0
@@ -9173,8 +9173,8 @@
           "sourceContentHash": "sha256:804cb929e49d0000",
           "sourceBodyHash": "sha256:c90510ae0ea9b7ac",
           "translatedAt": "2026-11-20T16:47:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "090b3921",
+          "translationLastModified": "2026-11-20T22:39:25+08:00",
           "inferred": false,
           "footnoteDefs": 3,
           "bytes": 11460,
@@ -41907,8 +41907,8 @@
           "sourceContentHash": "sha256:0b0677a39358cf6e",
           "sourceBodyHash": "sha256:34138e3612701ce3",
           "translatedAt": "2026-11-20T16:47:18+08:00",
-          "translationLastCommit": "77172bdf",
-          "translationLastModified": "2026-10-10T23:15:27+08:00",
+          "translationLastCommit": "090b3921",
+          "translationLastModified": "2026-11-20T22:39:25+08:00",
           "inferred": false,
           "footnoteDefs": 26,
           "bytes": 42477,
@@ -61156,20 +61156,18 @@
         "es": {
           "path": "es/Lifestyle/xiaobei-department-store.md",
           "translatedFrom": "Lifestyle/小北百貨.md",
-          "sourceCommitSha": "69b3afd91",
-          "sourceContentHash": "sha256:93955fe44e7691af",
-          "sourceBodyHash": "sha256:08eacf8247ffcb10",
-          "translatedAt": "2026-08-09T21:15:02+08:00",
+          "sourceCommitSha": "e2e11f4050",
+          "sourceContentHash": "sha256:467f31dc16bf0585",
+          "sourceBodyHash": "sha256:e7e9b90b62c01f0a",
+          "translatedAt": "2026-11-20T16:47:05+08:00",
           "translationLastCommit": "53b91cc8",
           "translationLastModified": "2026-10-31T08:41:15+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "bytes": 12429,
+          "bytes": 12252,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+21 -21"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Lifestyle/xiaobei-department-store.md",
@@ -74170,20 +74168,18 @@
         "hi": {
           "path": "hi/Society/public-housing-justice.md",
           "translatedFrom": "Society/國宅與居住正義.md",
-          "sourceCommitSha": "4ee896bcb",
-          "sourceContentHash": "sha256:058a2707437b6293",
-          "sourceBodyHash": "sha256:8b7dd2352a89e936",
-          "translatedAt": "2026-10-18T09:33:26+08:00",
+          "sourceCommitSha": "be13f04522",
+          "sourceContentHash": "sha256:aab8147d38e7da5e",
+          "sourceBodyHash": "sha256:72dccf40750266ac",
+          "translatedAt": "2026-11-20T15:02:53.851551+00:00",
           "translationLastCommit": "7facb50f",
           "translationLastModified": "2026-10-18T11:31:59+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "bytes": 118922,
+          "bytes": 120765,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+4 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/public-housing-justice.md",
@@ -187529,7 +187525,20 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/dominican-order-taiwan.md",
+          "translatedFrom": "History/道明會在台灣.md",
+          "sourceCommitSha": "24f563e646",
+          "sourceContentHash": "sha256:1bd7703941e67723",
+          "sourceBodyHash": "sha256:15228d1d82684e84",
+          "translatedAt": "2026-11-20T16:47:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 3,
+          "bytes": 12242,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/History/dominican-order-taiwan.md",
