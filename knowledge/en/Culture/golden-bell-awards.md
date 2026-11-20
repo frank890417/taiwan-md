@@ -31,11 +31,13 @@ imageCredit: '☼ うみ 目覚めたら / Wikimedia Commons'
 imageLicense: 'CC BY-SA 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:45th_TV_Golden_Bell_Awards_Presentation_main_stage_20101022.jpg'
 relatedDiary: ['2026-09-19-003000-news-radar']
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Culture/金鐘獎.md'
-sourceCommitSha: 'ff39af227'
-sourceContentHash: 'sha256:bbab8ee22f168103'
-sourceBodyHash: 'sha256:02baeff9cbce935a'
-translatedAt: '2026-09-26T11:58:58.983013+00:00'
+sourceCommitSha: 'be13f04522'
+sourceContentHash: 'sha256:1c2ced1aaf70624b'
+sourceBodyHash: 'sha256:5e774c69559104df'
+translatedAt: '2026-11-20T17:59:18.887209+00:00'
 ---
 
 # Golden Bell Awards: After Seventeen Years of Three-Network Rotation, Taiwan Draws a Line for "Our Television" Each Year
@@ -158,35 +160,36 @@ In 2020, another group of people stepped outside the line themselves: that year'
 
 One line is drawn, people inside the line take the stage, people outside the line speak up. The Golden Bell stirs controversy every year, and it's always about this. Of the three major awards, the other two—the [Golden Melody Awards](/en/music/pop-music-and-golden-melody-awards/) for music and the Golden Horse Awards for film—each have their own line.
 
-## This Year's Line, Drawn on the Evening of October 24
+## This Year's Line Won't Be Drawn Until the Evening of October 24
 
-All three ceremonies of the 61st Golden Bell Awards were held at Taipei Nangang Software Park. Broadcasting was awarded on October 17, programs on October 23, and drama on October 24.[^52] The lists were already printed: _We and the Evil Distance II_ and _Forget Me, Remember Me_ each tied with thirteen nominations—one from the Public Television Service system, the other from Netflix.[^53] Netflix's five Taiwan dramas totaled forty nominations across all categories; the PR statement called it a historic high, though the 58th edition three years ago also had forty.[^54][^55]
+All three ceremonies of the 61st edition are at Taipei Flow: radio on October 17, program categories on October 23, drama categories on October 24.[^52] The nomination list is already printed: _The World Between Us II_ and _Lost Memory_ are tied with 13 nominations each, one from the PTS camp, the other from Netflix.[^53] Netflix's five Taiwan dramas total 40 nominations; the press release claims a historic high, but the 58th edition three years ago also had 40.[^54][^55]
 
-On drama night last year, the official YouTube livestream had nearly 170,000 concurrent viewers.[^56] The night before, at the programs ceremony, Barbie Hsu won the variety show host award and said: "Mom, even though my sister isn't here, I'm still here." That same night, Tsai Kang-yung said that no matter how times change, people always need companionship.[^57] You were probably one of those 170,000, waiting on your phone for a name to be called.
+On last year's drama ceremony night, the official YouTube livestream had nearly 170,000 concurrent viewers.[^56] The night before at the program categories ceremony, Little S won Best Host for a Variety Show and said, "Mom, even though my sister is gone, I'm still here." That same night Kevin Tsai said that no matter how times change, people always need companionship.[^57] You were probably one of those 170,000, waiting on your phone for a name to be called.
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
   <iframe src="https://www.youtube.com/embed/4wPnqGZdB90" title="2025第60屆金鐘獎－戲劇類 頒獎典禮現場LIVE直播" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Golden Bell Awards Official Channel: 60th Golden Bell Awards Drama Category Awards Ceremony livestream archive, 2025. Nearly 170,000 people watched simultaneously that night, when Lien Ping and Yang Jing-hua each took home the male and female lead acting awards._
+_Golden Bell Awards official channel: 2025 60th Golden Bell Awards Drama Categories Ceremony livestream archive. This ceremony had nearly 170,000 concurrent viewers; Lien Ping and Yang Chin-hua won Best Actor and Best Actress respectively that night._
 
-Around the time of last year's ceremony, the Film and Audiovisual Industry Bureau held a "60/60" exhibition at Huashan, turning the list of names called across sixty editions into something visible. The original dragon-head guillotine prop from _Bao Zheng_ sat on display in the exhibition hall.[^58] Thirty years earlier, in the era when Jin Chaoqun won an award for that series, the list still rotated among three names.
+Around last year's ceremony, the Film and Audiovisual Industry Bureau held a "60/60" special exhibition at Huashan, turning the lists of names read over sixty editions into something visible — the original prop of the dragon-head guillotine from _Justice Bao_ was displayed there.[^58] Thirty years ago, when Chin Ch'ao-ch'ün won for this drama, the nominee list still rotated among just three names.
 
-One award was already presented this year: the Special Contribution Award went to Wu Jin-cheng. In an era without computer graphics, he hand-drew set design and construction drawings stroke by stroke for over forty years, earning the nickname "director on paper." He served as art director for _Dragon Brothers, Tiger Brothers_ and also for Yang Li-hua's _gezaixi_ opera television productions.[^59]
+One award has already been given this year: the Special Contribution Award went to Wu Chin-cheng. In the era before computer graphics, he hand-drew every scene design and construction drawing for over forty years, earning the nickname "Director on Paper." He served as art director for _Dragon Brothers_ and for Yang Li-hua's _koa-á-hì_ (Taiwanese opera) productions.[^59]
 
-In the era when Yang Li-hua performed _gezaixi_ opera on television, the drama program award still rotated among three names, and Wu Jin-cheng was drawing sets for her shows. Decades later, her student took home the male lead acting award, and the last words on stage were "I love Taiwan, I love my fans, I love you all, I love _gezaixi_ opera," then called her backstage.[^1] The set designer received the Special Contribution Award. The same bell recorded two people—one in front of the curtain, one behind it.
+In the era when Yang Li-hua performed _koa-á-hì_ on television, the Best Television Series award still rotated among just three names, and Wu Chin-cheng was painting sets for her productions. Decades later, her student took home Best Actor; his final words on stage were "I love Taiwan, I love my fans, I love you all, I love _koa-á-hì_," and the moment he stepped off stage he called her.[^1] The set painter received the Special Contribution Award. One bell, recording two people — one on stage, one behind it.
 
-That night at Sun Yat-sen Memorial Hall in 1965, Yan Jia-gan presented eight Golden Bells, and there was no television at all. On the evening of October 24, 2026, the lights at Taipei Nangang Software Park haven't yet come on. Where this year's line will be drawn, who will be inside it and who still outside, won't be known until that night when the names are called.
+On that night in 1965 at Zhongshan Hall, Yen Chia-kan presented eight Golden Bells, and there wasn't a single television set in the venue. On the evening of October 24, 2026, the lights at Taipei Flow have yet to come on. Where this year's line is drawn, who's inside it and who's still outside — we'll have to wait for that night to hear the names read out.
 
 ---
 
-**Further Reading:**
+**Further reading**:
 
-- [Public Television Service](/en/society/pts-public-television-service) — How the public broadcasting group that went on air in 1998 went from _Once_ to 61st edition with 60 nominations, the most frequently appearing names on this list
-- [Theatrical Plays Project](/en/art/qseries-drama-platform) — That initiative that won the drama program award in both 2017 and 2018, the first time "Good Scenery" appeared in the award-winning unit column
-- [Taiwan Television Industry History](/en/technology/taiwan-television-industry-history) — How the industrial structure of the old three networks' seventeen-year monopoly formed and how it was opened up by cable and streaming platforms
-- [Prime Time Slot](/en/culture/taiwan-prime-time-drama) — What Taiwanese people watched at 8 p.m. in the era of _Stars Know My Heart_ and _Bao Zheng_
-- [Golden Melody Awards](/en/music/pop-music-and-golden-melody-awards) — Another of the three major awards, where Taiwan presents awards for its own music and records what sounds deserve to be remembered
+- [PTS](/en/society/pts-public-television-service) — How the public broadcasting group that launched in 1998 went from _Once Upon a Time_ to 60 nominations at the 61st edition, the name that appears most often on this list
+- [Qseries](/en/art/qseries-drama-platform) — The project that won Best Television Series two years running in 2017 and 2018, where "Good Wind Light" first appeared in the winning organization column
+- [History of Taiwan's Television Industry](/en/technology/taiwan-television-industry-history) — How the industry structure dominated by the "Old Three Stations" for seventeen years formed, and how cable and platforms broke it open
+- [8 PM Prime Time](/en/culture/taiwan-prime-time-drama) — In the era of _Stars Know My Heart_ and _Justice Bao_, what were Taiwanese people watching at 8 PM?
+- [Golden Melody Awards](/en/music/pop-music-and-golden-melody-awards) — Another of the Three Golden Awards: where Taiwan awards its own music, recording which sounds deserve to be remembered
+- [Golden Horse Awards](/en/art/golden-horse-awards) — The film award among the Three Golden Awards: edition by edition expanding who can enter, from accepting only Mandarin-language films to no longer asking about nationality
 
 ## Image sources
 
