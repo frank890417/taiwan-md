@@ -1,0 +1,35 @@
+id: 避雷
+category: internet
+subcategory: 網路流行語
+fork_type: C
+
+display:
+  taiwan: '避雷 / 避地雷'
+  china: 避坑
+
+english: 'avoid pitfalls'
+
+etymology:
+  origin: 與「踩坑」成對：事前避開名不符實的商品、店家或內容。
+  taiwan_path: 台灣沿用「雷」系：避雷、避地雷——PTT 美食板、電影板「地雷片」「地雷店」的延伸，2000 年代即有用法。
+  china_path: 中國評測文化的高頻詞，「避坑指南」幾乎是攻略內容的標準標題，與「排雷」「拔草」連用。
+  fork_point: '~2015s'
+  fork_cause: 中國評測內容平台規格化「坑」系用語；台灣「雷」系自成一脈。
+
+usage:
+  taiwan_formal: false
+  taiwan_casual: true
+  exceptions: ''
+
+status: stable
+
+detection:
+  severity: A
+
+notes: 與「踩坑」成對。台灣讀者看到「避坑」多半能從語境猜懂，但「避雷／避地雷」才是台灣原生說法。
+
+sources:
+  - 'PTT 地雷店／地雷片用法（2000s）'
+
+added: '2026-11-14'
+updated: '2026-11-14'

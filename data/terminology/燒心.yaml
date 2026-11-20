@@ -1,0 +1,36 @@
+id: 燒心
+category: internet
+subcategory: 網路流行語
+fork_type: E
+
+auto_convert: false # 同詞共感，無可轉換對象
+
+display:
+  taiwan: '燒心（梗語，進行中）'
+  china: 燒心
+
+english: 'heartburn (meme usage)'
+
+etymology:
+  origin: 原義是胃食道逆流時的灼燒感——教育部《重編國語辭典修訂本》即收「胃部燒灼難受」，另作「非常焦急、憂慮」；華北方言的日常用詞。
+  taiwan_path: 台灣原本低頻，且說 heartburn 慣用「火燒心」。2026 年秋隨中國 AI 短劇梗傳入：台灣網友在 Threads 玩梗（「這貓貓摸著不燒心」「英語試卷用料扎實，寫著不燒心」），萬事萬物皆可不燒心，台媒形容「大燒心時代到來」。
+  china_path: 2026 年 10 月，AI 市井短劇的「良心老闆」題材帶火模板台詞「貴是貴了點，但吃了不燒心」——擺攤的良心老闆堅持好食材、價格貴一點，老顧客回流說出這句；「不燒心」變成「靠譜、不挖坑、不套路」的戲謔說法，反用「燒心」表達鬧心、糟心、踩雷、膈應的悶。抖音話題「不燒心」至 10 月 16 日突破 28.4 億次觀看。
+  fork_point: '2026-10（AI 短劇梗起飛）'
+  fork_cause: 短劇工業的模板化台詞經演算法推播放大，再經兩岸社群（Threads）二創回流台灣。
+
+usage:
+  taiwan_formal: false
+  taiwan_casual: true
+  exceptions: 台灣說 heartburn 慣用「火燒心」，醫學正式名稱「胃食道逆流」。
+
+status: emerging
+
+notes: 正在分歧中的活案例：詞還在兩岸同步演化，台灣尚未長出自己的固定替代說法（「靠得住」「吃了很安心」是目前台灣語感的對應，但梗語本身直接用「燒心」）。收錄目的：記錄這個詞進入台灣的時間點與語感座標。
+
+sources:
+  - 'https://www.sinicapodcast.com/p/it-doesnt-give-you-heartburn-phrase'
+  - 'https://www.hkcna.hk/hk/content/s6ad01fc4e4b000eb857935ee.html'
+  - '教育部《重編國語辭典修訂本》燒心條'
+
+added: '2026-11-14'
+updated: '2026-11-14'

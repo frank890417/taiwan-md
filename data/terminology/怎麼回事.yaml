@@ -1,0 +1,34 @@
+id: 怎麼回事
+category: daily
+subcategory: 日常生活
+fork_type: F
+
+auto_convert: false # 同詞，無可轉換對象
+
+display:
+  taiwan: 怎麼回事
+  china: 怎麼回事
+
+english: "what's going on"
+
+etymology:
+  origin: 疑問句式，對眼前狀況的追問。
+  taiwan_path: 台灣口語的原生用法：「這是怎麼回事？」「你怎麼回事？」——語感直白，帶當面對質或疑惑的溫度。
+  china_path: 中國口語同形同用（常兒化為「怎麼回事兒」），語感差異主要在兒化與語調，不在詞彙本身。
+  fork_point: '—（同源詞，無實質分歧）'
+  fork_cause: 兩岸共用。收錄目的是保存「台灣自然用法」的座標：讀者或檢測工具若懷疑它是支語，答案是——台灣自己就這麼說。
+
+usage:
+  taiwan_formal: true
+  taiwan_casual: true
+  exceptions: ''
+
+status: stable
+
+notes: F 型（同詞不同語感）的弱差異案例，收錄理由參照「踩雷」條：讀者常查「這是不是中國用語」，答案是台灣原生自然用法，無須替換。
+
+sources:
+  - '教育部《重編國語辭典修訂本》'
+
+added: '2026-11-14'
+updated: '2026-11-14'

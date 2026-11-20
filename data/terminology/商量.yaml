@@ -1,0 +1,34 @@
+id: 商量
+category: daily
+subcategory: 日常生活
+fork_type: F
+
+auto_convert: false # 同詞，無可轉換對象
+
+display:
+  taiwan: 商量
+  china: 商量
+
+english: 'to discuss / to consult'
+
+etymology:
+  origin: 針對事情彼此交換意見、尋求共識。
+  taiwan_path: 台灣日常高頻原生用法：「跟你商量一下」「再商量看看」——語感平輩、對等、有轉圜餘地；正式一點用「討論」「研議」。
+  china_path: 中國同形同用，語感接近；「研究研究」的官僚語感是中國特有的變體（「這事我們再研究研究」＝拖）。
+  fork_point: '—（同源詞，無實質分歧）'
+  fork_cause: 兩岸共用。收錄目的是標記台灣語感座標：「商量」在台灣是對等溝通的自然說法，不是支語，無須迴避。
+
+usage:
+  taiwan_formal: true
+  taiwan_casual: true
+  exceptions: ''
+
+status: stable
+
+notes: F 型弱差異案例，收錄理由同「怎麼回事」條：保存台灣自然用法，供讀者查證與檢測工具降噪。
+
+sources:
+  - '教育部《重編國語辭典修訂本》'
+
+added: '2026-11-14'
+updated: '2026-11-14'

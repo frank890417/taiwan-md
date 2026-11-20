@@ -1,0 +1,37 @@
+id: 踩坑
+category: internet
+subcategory: 網路流行語
+fork_type: C
+
+auto_convert: false # 台灣口語「坑」（坑人、被坑錢）本就正當，盲目取代會改壞正確文字
+
+display:
+  taiwan: '踩雷 / 中招 / 走冤枉路'
+  china: 踩坑
+
+english: 'step into a pit (trap)'
+
+etymology:
+  origin: 「坑」在中國網路語感中是「挖給別人跳的陷阱」，取名坑、填坑、坑人一族詞彙皆由此生。
+  taiwan_path: 台灣網路的同義表達走「雷」系：踩雷、踩到地雷、地雷店（名不符實的店家），另有「中招」「走冤枉路」。「坑」在台灣口語是動詞（坑人）多於名詞（一個坑）。
+  china_path: 中國網路（知乎、小紅書、B站評測文化）發展出「坑」系：踩坑、避坑、避坑指南、填坑、神坑，近十年高度產品化，「避坑」幾乎成為評測內容的標準標題字。
+  fork_point: '~2015s'
+  fork_cause: 中國評測／攻略內容平台把「坑」系用語規格化；台灣社群同期的「雷」系用法（地雷片、地雷店）自成一脈。
+
+usage:
+  taiwan_formal: false
+  taiwan_casual: true
+  exceptions: 台灣口語「坑人」「被坑錢」是正當用法，非支語。
+
+status: emerging
+
+detection:
+  severity: B
+
+notes: 「坑」與「雷」兩岸平行發展（參見「踩雷」條）：台灣承接踩地雷（Minesweeper）的比喻走「雷」，中國評測文化走「坑」。台灣讀者近年常在中國轉載內容看到「踩坑」，語感正在滲透中。
+
+sources:
+  - 'https://github.com/frank890417/taiwan-md/blob/main/data/terminology/踩雷.yaml（同源論述）'
+
+added: '2026-11-14'
+updated: '2026-11-14'

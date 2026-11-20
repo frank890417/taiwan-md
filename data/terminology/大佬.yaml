@@ -1,12 +1,35 @@
 id: 大佬
-category: daily
+category: internet
+subcategory: 網路流行語
 fork_type: E
+
 display:
-  taiwan: 高手 / 大大
+  taiwan: 高手 / 大大 / 大神
   china: 大佬
+
+english: 'big shot / expert'
+
 etymology:
   origin: 對有經驗之人的尊稱，有時用於調侃對方永遠都比自己厲害。
-notes: 來源：caris-events/invade (CC0)
+  taiwan_path: 台灣對高手的說法走「高手／大大／大神」：「大大」是論壇時代（2000s BBS）的尊稱，「大神」是遊戲與技術社群的高頻用法；「大佬」在台灣帶江湖味（黑道大哥語感），用來稱技術高手是隨中國網路文化滲入的新用法。
+  china_path: 中國網路高頻：行業大佬、大佬們——從黑道語感擴散成對各行業頂尖者的泛稱。
+  fork_point: '~2010s（中國網路擴散）'
+  fork_cause: 中國網路把「大佬」去江湖化成通用敬稱；台灣同期的敬稱系統是「大大／大神」。
+
+usage:
+  taiwan_formal: false
+  taiwan_casual: true
+  exceptions: 台灣講黑道或江湖脈絡的「大佬」是正當用法。
+
+status: emerging
+
+notes: 來源：caris-events/invade (CC0)。2026-11-14 台灣側補「大神」並補全語感論述與偵測。
+
+detection:
+  severity: B
+
 sources:
   - https://github.com/caris-events/invade
+
 added: 2026-03-30
+updated: 2026-11-14

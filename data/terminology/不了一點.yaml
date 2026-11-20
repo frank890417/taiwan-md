@@ -1,0 +1,38 @@
+id: 不了一點
+category: internet
+subcategory: 網路流行語
+fork_type: C
+
+auto_convert: false # 句式模板（×不了一點），無單一轉換對象
+
+display:
+  taiwan: 一點都不〜 / 完全無法〜
+  china: 不了一點
+
+english: "can't ... even a bit (meme pattern)"
+
+etymology:
+  origin: 「×不了一點」句式：變項×（多為動詞，微博語料占 89.57%）＋常項「不了一點」，整體語義「連很少的一部分都做不到」，實際功能是誇飾式的自我否定與自嘲（「上不了一點班」＝完全不想上班）。語料研究歸納六種義項：不想做、不會做、不能做、沒法做、很困難、不可能。
+  taiwan_path: 台灣原生講「一點都不〜」「根本〜不了」「完全無法」；「不了一點」句式隨中國短影音與社群內容進入台灣年輕人口語。
+  china_path: 2022-2023 前後於微博、小紅書等平台成型，2025 年已有語言學論文專文分析（沈陽師範大學張思彤，700 條微博語料）。
+  fork_point: '~2022（微博／小紅書成型）'
+  fork_cause: 短影音與社群平台的句式模因化——「×不了一點」作為可填空的模板快速複製。
+
+usage:
+  taiwan_formal: false
+  taiwan_casual: true
+  exceptions: ''
+
+status: emerging
+
+detection:
+  severity: B # 台灣直述用法（「吃不了一點辣」）自然存在，只提示不擋
+
+notes: 與中性直述「一點都不×」的差別在誇飾與自嘲的感情色彩（論文分析重點）。台灣讀者看到「理解不了一點」多半能猜懂，屬正在滲透中的句式。
+
+sources:
+  - '張思彤《網絡用語「×不了一點」的結構語義探析》（漢字文化 2025 年第 24 期，DOI 10.20024/j.cnki.CN42-1911/I.2025.24.036）'
+  - 'https://zh.wikiversity.org/zh-tw/中國大陸網路用語列表'
+
+added: '2026-11-14'
+updated: '2026-11-14'

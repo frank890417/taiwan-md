@@ -1,0 +1,34 @@
+id: 貢獻
+category: daily
+subcategory: 日常生活
+fork_type: F
+
+auto_convert: false # 同詞，無可轉換對象
+
+display:
+  taiwan: 貢獻
+  china: 貢獻
+
+english: 'to contribute / contribution'
+
+etymology:
+  origin: 把自己的力量、才能或成果交付給群體或公眾。
+  taiwan_path: 台灣用法自然多樣：貢獻所長、貢獻一己之力、對社會有貢獻——語感中性，個人主體性強。
+  china_path: 中國高頻搭配「為⋯貢獻力量」「貢獻一份力量」，長期出現在動員與宣傳語境，語感帶集體主義色彩；近年網路用法「貢獻了笑點」「貢獻表情包」則回到中性。
+  fork_point: '~1950s（動員語境的頻率差）'
+  fork_cause: 政治動員語言在中國的高頻使用，讓同一個詞帶上不同的語感重量。
+
+usage:
+  taiwan_formal: true
+  taiwan_casual: true
+  exceptions: ''
+
+status: stable
+
+notes: F 型案例：詞同、語感異。台灣寫作者無須迴避「貢獻」；引用中國語境文本時，留意「為⋯貢獻力量」的宣傳腔在台灣語感裡的違和。
+
+sources:
+  - '教育部《重編國語辭典修訂本》'
+
+added: '2026-11-14'
+updated: '2026-11-14'

@@ -1,12 +1,29 @@
 id: 難繃
-category: daily
+category: internet
+subcategory: 網路流行語
 fork_type: E
 display:
-  taiwan: 難受
+  taiwan: 忍不住（笑）／笑到不行
   china: 難繃
+
+english: "can't keep a straight face"
 etymology:
-  origin: 表示某件事情讓人感到困難、無法忍受。
-notes: 來源：caris-events/invade (CC0)
+  origin: 「繃住」的反義衍生——「難以繃住（面部肌肉／情緒）」的縮語：原本想繃住端著，被極其搞笑、荒謬或離譜的內容擊中，忍不住笑出來、無法保持嚴肅表情。
+  taiwan_path: 台灣講「忍不住（笑）」「笑到不行」「憋不住」；「難繃」隨中國直播與短影音文化傳入，遊戲實況圈的年輕使用者可懂。
+  china_path: 中國網路流行語，常見搭配「難繃住了」「難繃爆了」，多見於遊戲實況、短影音評論與社群留言。
+  fork_point: '~2023s'
+  fork_cause: 中國直播／短影音文化把「繃」（繃住面部表情）單字化，衍生難繃、繃不住、蚌埠住了（諧音）一族。
+usage:
+  taiwan_formal: false
+  taiwan_casual: true
+  exceptions: ''
+status: emerging
+detection:
+  severity: A
+notes: 原條目（invade, CC0）對照「難受」係誤譯——「難繃」是「繃不住」的變體（忍笑失敗），不是難受。2026-11-14 依語料研究修正。
 sources:
   - https://github.com/caris-events/invade
+  - 'https://www.slangzone.net/zh/word/難繃'
+  - '萌娘百科「陰陽怪氣」條（繃不住了/蚌埠住了/難繃同族）'
 added: 2026-03-30
+updated: 2026-11-14
