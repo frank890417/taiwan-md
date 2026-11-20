@@ -1,33 +1,35 @@
 ---
-title: 'Pan de manzana: en una isla sin manzanas, alimentar la ilusión de la modernización'
-description: 'Esto no es solo un trozo de pan, sino también un experimento de modernización en el Taiwán de la década de 1960, bajo el trasfondo de la ayuda estadounidense, tejido con harina, símbolos y resiliencia para sobrevivir. El mayor retirado Liu Zheji, mediante la metáfora lujosa de la «manzana» y la tecnología japonesa de deshidratación, transformó una ración militar originalmente árida en una memoria nacional que atraviesa generaciones, revelando cómo la sociedad taiwanesa de posguerra utilizó sustitutos para llenar la brecha entre la realidad y sus aspiraciones.'
+title: 'Pan de manzana: en una isla sin manzanas, alimentar una ilusión de modernidad'
+description: 'No es solo un pan, sino un experimento de modernidad tejido en los años 60 en Taiwán bajo el telón de la ayuda estadounidense, con harina, símbolos y resiliencia. El mayor retirado Liu Che-chi transformó una ración militar insípida en una memoria nacional transgeneracional, valiéndose de la metáfora del lujo de la «manzana» y la tecnología japonesa de deshidratación, revelando cómo la sociedad taiwanesa de posguerra usó sustitutos para cubrir el vacío de la realidad.'
 date: 2026-05-30
-author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: '烘焙與甜點'
 tags:
   [
-    'pan de manzana',
-    'Liu Zheji',
+    'Pan de manzana',
+    'Liu Che-chi',
     'gastronomía de Taichung',
     'Taiwán de posguerra',
     'cultura de la ayuda estadounidense',
     'pan deshidratado',
-    'promoción de alimentos de trigo',
+    'promoción de productos de trigo',
   ]
+subcategory: '烘焙與甜點'
+author: 'Taiwan.md Contributors'
+featured: false
 readingTime: 15
 lastVerified: 2026-05-30
 lastHumanReview: false
-featured: false
+curation: 'incubating'
+curationReason: 'thin'
 translatedFrom: 'Food/蘋果麵包.md'
-sourceCommitSha: 'a0314c6e3'
-sourceContentHash: 'sha256:1a92c24eb1a7d8cf'
-sourceBodyHash: 'sha256:4f26d4508afc31e5'
-translatedAt: '2026-06-02T00:40:00+08:00'
+sourceCommitSha: '22286539e8'
+sourceContentHash: 'sha256:b06690b268b54ec0'
+sourceBodyHash: 'sha256:a66665969d20b08f'
+translatedAt: '2026-11-20T16:47:05+08:00'
 ---
 
 > **Resumen en 30 segundos:**
-> El pan de manzana es la «implantación semántica errónea» más exitosa de la historia de la panadería taiwanesa. Nació en Taichung en la década de 1960 y fue desarrollado por el mayor retirado Liu Zheji, quien había rondado el borde de la muerte. El nombre de este pan no proviene de su sabor, sino de una crisis de supervivencia posterior a la ruptura de relaciones diplomáticas entre Taiwán y Estados Unidos en 1978 y a la retirada de las tropas estadounidenses de Taiwán: Liu tomó prestado el valor simbólico de la «manzana», entonces un artículo de lujo, y de la popular bebida «Apple Sidra», y transformó la tecnología japonesa del pan deshidratado en un producto local. Alimentó el estómago de los estudiantes y también dejó el testimonio de la resiliencia de un veterano que, en medio de un cambio histórico, se negó a retirarse.
+> El pan de manzana es el «error semántico» más exitoso de la historia de la panadería taiwanesa. Nació en los años 60 en Taichung, creado por el mayor retirado Liu Che-chi, que había rondado la muerte. Su nombre no proviene del sabor, sino de la crisis de supervivencia tras la ruptura diplomática entre Taiwán y EE. UU. y la retirada de las tropas estadounidenses en 1978: tomó el valor simbólico del bien de lujo «manzana» y la popular bebida «refresco de manzana», y convirtió la tecnología japonesa de pan deshidratado en un producto local. Llenó el estómago de los estudiantes y dejó el testimonio de un veterano que, en medio del cambio, nunca se rindió.
 
 ---
 
@@ -35,92 +37,92 @@ translatedAt: '2026-06-02T00:40:00+08:00'
 
 En la memoria colectiva de Taiwán existe un sabor llamado «pan de manzana sin manzana».
 
-En el Taiwán de la década de 1960, la manzana era un producto de alta gama importado de Japón; el precio de una sola manzana alcanzaba para comprar decenas de panes [^1]. Liu Zheji, mayor retirado que entonces administraba una fábrica de pan en Taichung, vio la aspiración popular asociada a los dos caracteres de «manzana» y decidió bautizar el pan cuadrado que había desarrollado como «pan de manzana». No hubo en esa denominación una intención deliberada de engañar; más bien contenía una especie de filosofía humorística de la supervivencia.
+En el Taiwán de los años 60, la manzana era un artículo de lujo importado de Japón; una sola manzana costaba lo mismo que decenas de panes [^1]. Liu Che-chi, que regentaba una panadería en Taichung, vio el anhelo del público por la palabra «manzana» y decidió bautizar su pan rectangular como «pan de manzana». Este bautismo no tenía mala fe engañosa, sino una filosofía de supervivencia cargada de humor.
 
-«En esa época las manzanas eran muy raras; la gente no podía comprarlas. Llamarlo pan de manzana era darle a la gente una esperanza», recordó Liu Zheji, hoy ya centenario, en varias entrevistas [^6]. La receta de este pan era extremadamente simple: harina de fuerza media, azúcar, leche y levadura. No llevaba la cebolla de verdeo ni el cerdo desmenuzado que eran comunes en el pan taiwanés de la época, ni tampoco las grasas refinadas de la repostería occidental; sin embargo, con una textura compacta y masticable, imitaba el pan deshidratado que consumían entonces las tropas estadounidenses estacionadas en Taiwán [^4].
+«En aquella época la manzana era rara, la gente no podía comprarla; llamarlo pan de manzana era dar una esperanza.» Liu Che-chi, ya centenario, lo recuerda así en múltiples entrevistas [^6]. La receta es extremadamente simple: harina de fuerza media, azúcar, leche y levadura. No lleva la cebolla picada ni la carne desmenuzada típicas del pan taiwanés de entonces, ni la grasa refinada de la repostería occidental, pero su textura compacta y masticable imitaba el pan deshidratado que consumían los militares estadounidenses destinados en Taiwán [^4].
 
-📝 **Nota del curador:** El éxito del pan de manzana fue un milagro de mercadotecnia, pero también un caso clásico de cómo la sociedad taiwanesa de posguerra, en una época de escasez material, recurrió al valor simbólico para llenar la distancia entre deseo y realidad.
-
----
-
-## Del depósito de cadáveres al horno de pan: el milagro de supervivencia de Liu Zheji
-
-El nacimiento del pan de manzana tuvo su origen en un sufrimiento casi fatal.
-
-En 1949, Liu Zheji llegó a Taiwán con la retirada del Gobierno Nacionalista y, poco después, fue ingresado en el Hospital de la Universidad Nacional de Taiwán por una tuberculosis pulmonar grave con complicaciones de hemorragia gástrica [^3]. Con las condiciones médicas de la época, sus dos pulmones ennegrecidos llevaron a los médicos a declararlo «sin cura»; incluso fue trasladado temporalmente a una cama junto al depósito de cadáveres para esperar la muerte [^2]. Sin embargo, en la víspera del Año Nuevo lunar de 1950, fue bautizado bajo la guía del anciano pastor Chen Weiping y, durante los seis años siguientes, se recuperó de manera milagrosa.
-
-Esta experiencia de «volver de entre los muertos» hizo que Liu Zheji, tras retirarse del ejército en 1959, mostrara una resiliencia excepcional. Al principio recorría las calles de Taichung en bicicleta vendiendo pan comprado al por mayor, con un jornal de apenas 10 dólares taiwaneses [^3]. En 1962, por sugerencia de la misionera canadiense Flora, decidió establecer su propia fábrica. En aquel momento, las unidades de las tropas estadounidenses en Taichung se negaban a comprar a las fábricas locales de alimentos porque no cumplían con los estándares sanitarios. Con orientación técnica de médicos y especialistas estadounidenses, Liu Zheji fundó la «Fábrica de Pan Liu», que cumplía plenamente con normas internacionales de higiene [^1][^13].
-
-En su época, esta fábrica podía considerarse un «laboratorio del mundo panadero». Desde la gestión sanitaria del personal hasta los dispositivos contra roedores, todo seguía los estándares militares estadounidenses; esto convirtió a la Fábrica de Pan Liu en uno de los pocos proveedores locales capaces de abastecer directamente de alimentos básicos a las tropas estadounidenses estacionadas en Taiwán y a los residentes extranjeros [^3].
+📝 **Nota de la curadora:** El éxito del pan de manzana es un milagro del marketing y un caso clásico de cómo la Taiwán de posguerra, en tiempos de escasez, usó el valor simbólico para cubrir el hueco de la realidad.
 
 ---
 
-## La doble crisis de la década de 1970: deuda y ruptura diplomática
+## De la morgue al horno: el milagro de supervivencia de Liu Che-chi
 
-El camino empresarial de Liu Zheji no fue en absoluto tranquilo. En 1970, una expansión demasiado rápida le provocó problemas de liquidez y lo dejó cargado con una enorme deuda [^13]. Pero no huyó: mantuvo una actitud de disciplina militar, negoció con los proveedores para saldar lo adeudado y finalmente superó la crisis [^3].
+El nacimiento del pan de manzana brota de un sufrimiento casi mortal.
 
-Sin embargo, una prueba aún mayor llegó en diciembre de 1978. La noticia de la ruptura de relaciones diplomáticas entre Taiwán y Estados Unidos estremeció a toda la isla; las tropas estadounidenses se retiraron de Taiwán, y Liu Zheji perdió de golpe a su clientela más estable. Ante esta crisis de supervivencia por la pérdida de clientes, tuvo una idea repentina: introducir desde Japón la tecnología del «pan deshidratado», de textura firme y fácil conservación [^8][^9].
+En 1949, Liu Che-chi llegó a Taiwán con el gobierno nacionalista; poco después, una tuberculosis severa complicada con hemorragia gástrica lo ingresó en el Hospital de la Universidad Nacional de Taiwán [^3]. Con ambos pulmones ennegrecidos, los médicos lo declararon «incurable» e incluso lo trasladaron a una cama junto a la morgue para que esperara la muerte [^2]. Sin embargo, en la Nochevieja de 1950, recibió el bautismo de la mano del pastor Chen Wei-ping y, en los seis años siguientes, se recuperó milagrosamente.
 
-Al comienzo, llamó directamente al producto «pan deshidratado», pero la respuesta del mercado fue tibia. Solo después de observar el auge de la bebida popular «Apple Sidra», y considerando que la manzana seguía siendo un símbolo de prosperidad en la sociedad taiwanesa de la época, lo rebautizó oficialmente como «pan de manzana» [^8][^10].
+Esa experiencia de «volver de la muerte» dotó a Liu Che-chi, tras su retiro en 1959, de una resiliencia extraordinaria. Al principio vendía panes al por mayor recorriendo Taichung en bicicleta, ganando apenas 10 dólares al día [^3]. En 1962, por sugerencia de la misionera canadiense Flora, decidió montar su propia fábrica. Entonces, la unidad militar estadounidense destinada en Taichung se negaba a comprar a las fábricas locales por deficiencias higiénicas; bajo la guía técnica de médicos y expertos del ejército estadounidense, Liu fundó la «Fábrica de Pan Liu», que cumplía plenamente los estándares internacionales de higiene [^1][^13].
 
-| Etapa de desarrollo         | Tiempo         | Acontecimiento clave                                                                       | Significado social                                                                                                       |
-| :-------------------------- | :------------- | :----------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------- |
-| **Etapa inicial**           | 1962           | Fundación de la Fábrica de Pan Liu                                                         | Introducción de estándares sanitarios estadounidenses y abastecimiento a tropas de EE. UU. y residentes extranjeros [^3] |
-| **Etapa de crisis**         | 1970           | Problemas de liquidez y crisis de deuda                                                    | Demostración de resiliencia basada en la honestidad para pagar deudas [^13]                                              |
-| **Etapa de transformación** | 1978           | Ruptura diplomática entre Taiwán y Estados Unidos y retirada de las tropas estadounidenses | Introducción de la tecnología japonesa de pan deshidratado y denominación como «pan de manzana» [^8]                     |
-| **Etapa de auge**           | Década de 1980 | Ingreso a las cooperativas escolares de todo Taiwán                                        | Conversión en una coordenada gustativa colectiva intergeneracional [^11]                                                 |
-| **Etapa cultural**          | 2026           | Centenario del fundador y visita de un astronauta                                          | Transformación en símbolo cultural y testimonio de la amistad taiwano-estadounidense [^14]                               |
+Aquella fábrica era todo un «laboratorio de panadería». Desde la higiene del personal hasta los dispositivos anti-roedores, todo se ajustaba a los estándares militares estadounidenses, lo que convirtió a la Fábrica Liu en uno de los pocos proveedores locales autorizados para abastecer de pan a las tropas y expatriados estadounidenses [^3].
 
 ---
 
-## El acento de Shandong entre callejones: impulsor de la cultura de las cooperativas escolares
+## La doble crisis de los años 70: deudas y ruptura diplomática
 
-Para sobrevivir tras perder los pedidos de las tropas estadounidenses, Liu Zheji adoptó una estrategia de «salir activamente al mercado». Con su esposa, conducía una camioneta de reparto de pan por las avenidas y callejones de Taichung, vendiendo de puerta en puerta [^1]. Su marcado acento de Shandong resonaba por los altavoces en los callejones de la tarde y se convirtió en una memoria auditiva compartida por los habitantes de Taichung.
+El camino emprendedor de Liu Che-chi no fue llano. En 1970, una expansión demasiado rápida provocó un colapso de liquidez y una deuda enorme [^13]. No huyó, sino que, con espíritu militar, negoció con los acreedores y saldó la deuda [^3].
 
-Como el pan de manzana no contenía agua gracias a la tecnología de deshidratación, se conservaba bien y daba una fuerte sensación de saciedad, era muy adecuado para las cooperativas escolares, que entonces operaban en entornos relativamente simples. Este «lujo popular» se expandió rápidamente desde Taichung a todo Taiwán y se convirtió, para quienes nacieron en las décadas de 1960 y 1970, en el disfrute más barato y a la vez más lujoso después de clases.
+Pero la prueba mayor llegó en diciembre de 1978. La noticia de la ruptura Taiwán-EE. UU. conmocionó la isla; las tropas estadounidenses se marcharon y Liu perdió de golpe a su cliente más estable. Ante la crisis de supervivencia por la fuga de clientes, tuvo un golpe de inspiración: importó de Japón la tecnología del «pan deshidratado», de textura compacta y larga conservación [^8][^9].
 
-📝 **Nota del curador:** La cualidad «deshidratada» del pan de manzana fue tanto un método técnico de conservación como una estética de supervivencia en tiempos de cambio: conservar el núcleo y eliminar lo superfluo.
+Al principio la vendió directamente como «pan deshidratado», pero el mercado respondió con frialdad. Al notar el furor de la entonces popular bebida «refresco de manzana» y que la manzana seguía siendo símbolo de riqueza en la sociedad taiwanesa, la rebautizó oficialmente «pan de manzana» [^8][^10].
+
+| Fase de desarrollo | Año     | Hecho clave                                       | Significado social                                                                            |
+| :----------------- | :------ | :------------------------------------------------ | :-------------------------------------------------------------------------------------------- |
+| **Incubación**     | 1962    | Fundación de la Fábrica Liu                       | Introducción de estándares higiénicos estadounidenses; suministro a tropas y expatriados [^3] |
+| **Crisis**         | 1970    | Colapso de liquidez y deuda                       | Demostración de resiliencia y honradez al pagar [^13]                                         |
+| **Transformación** | 1978    | Ruptura Taiwán-EE. UU. y retirada de tropas       | Importación de tecnología japonesa de pan deshidratado; bautismo «pan de manzana» [^8]        |
+| **Apogeo**         | años 80 | Entrada en cooperativas escolares de toda la isla | Referente gustativo colectivo transgeneracional [^11]                                         |
+| **Cultural**       | 2026    | Centenario del fundador; visita de astronauta     | Conversión en símbolo cultural y testigo de la amistad Taiwán-EE. UU. [^14]                   |
 
 ---
 
-## Medio siglo de aroma a trigo: de la cooperativa escolar a la estación espacial
+## Acento de Shandong recorriendo callejones: el impulso de la cultura de cooperativas
 
-En abril de 2026, el primer astronauta de origen taiwanés, el Dr. Kjell Lindgren, visitó Taichung, y su primera parada fue la calle Xiangshang para visitar a Liu Zheji, de 101 años [^5][^12]. Lindgren nació en Taipéi, creció en una familia de la Fuerza Aérea estadounidense y vivió en Taichung durante su infancia. Al probar el clásico pan de manzana, bromeó diciendo que «seguro de niño comí pan de manzana; por eso crecí tan fuerte y llegué a ser astronauta» [^12].
+Para sobrevivir tras perder los pedidos militares, Liu Che-chi adoptó una estrategia de «ataque directo». Recorría con su esposa las calles y callejones de Taichung en una furgoneta de pan, voceando por megáfono [^1]. Su fuerte acento de Shandong resonaba en los callejones vespertinos, convirtiéndose en una memoria auditiva compartida por los taichungueses.
 
-Este encuentro no solo evocó los recuerdos de infancia de muchas personas, sino que también convirtió al pan de manzana en testimonio de la amistad entre Taiwán y Estados Unidos y de los vínculos entre generaciones. Hoy, la Fábrica de Pan Liu sigue en pie en su ubicación original en Taichung, administrada por descendientes de Liu Zheji, y ha desarrollado productos como el «pan de manzana real» (con verdadero relleno de manzana) o «Neng Wei Kang», un alimento saludable elaborado con germen de trigo [^1][^4].
+Como el pan de manzana no contiene humedad (tecnología de deshidratación), se conserva bien y sacia mucho, encajaba perfectamente en las cooperativas escolares de entonces, de instalaciones modestas. Este «lujo popular» se extendió pronto de Taichung a toda la isla, convirtiéndose en el capricho más barato y a la vez más lujoso de los alumnos de quinto y sexto curso tras la clase.
 
-El encanto del pan de manzana no reside en la complejidad de sus sabores, sino en ese «puro aroma a trigo». Prueba una cosa: en tiempos de escasez material, un nombre podía ser una forma de consuelo; y en tiempos de abundancia, el almidón y la levadura más sencillos se han convertido, paradójicamente, en la nostalgia más difícil de encontrar.
+📝 **Nota de la curadora:** El carácter «deshidratado» del pan de manzana es tanto una técnica de conservación como una estética de supervivencia que, en medio del cambio, preserva lo esencial y descarta lo superfluo.
+
+---
+
+## Medio siglo de aroma a trigo: de la cooperativa a la estación espacial
+
+En abril de 2026, el primer astronauta taiwanés-estadounidense, la Dra. Kjell Lindgren, visitó Taichung y su primera parada fue la calle Xiangshang para ver a Liu Che-chi, ya de 101 años [^5][^12]. Lindgren nació en Taipéi, creció en una familia de la Fuerza Aérea estadounidense y pasó su infancia en Taichung. Mientras probaba el clásico pan de manzana, bromeó: «De pequeño seguro que comí pan de manzana, por eso crecí tan fuerte y me hice astronauta» [^12].
+
+Este encuentro no solo despertó recuerdos infantiles de muchos, sino que elevó el pan de manzana a testigo de la amistad Taiwán-EE. UU. y del vínculo intergeneracional. Hoy la Fábrica Liu sigue en pie en su ubicación original de Taichung, gestionada por los descendientes de Liu Che-chi, que han desarrollado el «pan de manzana de verdad» (con auténtico relleno de manzana) y el producto saludable «Neng Wei Kang» a base de germen de trigo [^1][^4].
+
+El encanto del pan de manzana no reside en la complejidad de su sabor, sino en ese «puro aroma a trigo». Demuestra una cosa: en tiempos de escasez, un nombre puede ser un consuelo; y en tiempos de abundancia, el simple almidón y la levadura se convierten en la nostalgia más preciada.
 
 ---
 
 ## Referencias
 
-[^1]: [Sitio web oficial de la Fábrica de Pan Liu](https://www.nutricom.com.tw/about.html) — Vida del fundador Liu Zheji y origen del pan de manzana.
+[^1]: [Sitio web oficial de la Fábrica Liu](https://www.nutricom.com.tw/about.html) — Biografía del fundador Liu Che-chi y origen del pan de manzana.
 
-[^2]: [Christian Daily](https://cdn-news.org/news/2283) — «Convertir el pan en maná: Liu Zheji de la Fábrica de Pan Liu», registro detallado de su fe y trayectoria empresarial.
+[^2]: [Christian Today](https://cdn-news.org/news/2283) — «Convertir el pan en maná: Liu Che-chi de la Fábrica Liu», relato detallado de su fe y trayectoria emprendedora.
 
-[^3]: [Udn Time](https://time.udn.com/udntime/story/122390/6757063) — «¡El pan de manzana tiene una historia de veterano! Un bocadillo nostálgico originado en la cultura militar estadounidense de los años sesenta».
+[^3]: [Reporter Time](https://time.udn.com/udntime/story/122390/6757063) — «El pan de manzana tiene historia de veterano: dulce nostálgico nacido de la cultura militar estadounidense de los 60».
 
-[^4]: [Supertaste](https://supertaste.tvbs.com.tw/food/354966) — «¡La primera tienda fundadora del “pan de manzana” de Taiwán está en Taichung! Proceso de elaboración al descubierto».
+[^4]: [Foodie](https://supertaste.tvbs.com.tw/food/354966) — «¡La primera tienda creadora del pan de manzana en toda Taiwán está en Taichung! Proceso de elaboración al descubierto».
 
-[^5]: [Radio Taiwán Internacional](https://www.rti.org.tw/news?uid=3&pid=204586) — «Taiwán desde la perspectiva espacial: Kjell Lindgren visita la Fábrica de Pan Liu en Taichung».
+[^5]: [Radio Taiwan International](https://www.rti.org.tw/news?uid=3&pid=204586) — «Taiwán visto desde el espacio: Kjell Lindgren visita la Fábrica Liu en Taichung».
 
-[^6]: [Yahoo Noticias](https://tw.news.yahoo.com/%E8%98%8B%E6%9E%9C%E9%BA%B5%E5%8C%85%E5%8F%96%E5%90%8D%E5%8E%9F%E5%9B%A0%E6%9B%9D%E5%8C%85-102803018.html) — «¡Sale a la luz el origen del nombre del pan de manzana! El inventor Liu Zheji lo explica en persona».
+[^6]: [Yahoo News](https://tw.news.yahoo.com/%E8%98%8B%E6%9E%9C%E9%BA%B5%E5%8C%85%E5%8F%96%E5%90%8D%E5%8E%9F%E5%9B%A0%E6%9B%9D%E5%8C%85-102803018.html) — «¡Se revela el motivo del nombre del pan de manzana! El inventor Liu Che-chi comparece en persona».
 
-[^7]: [Vocus](https://vocus.cc/article/64c217edfd897800011ceec5) — «El “pan de manzana” sin manzana: una historia de supervivencia y resiliencia».
+[^7]: [The News Lens](https://vocus.cc/article/64c217edfd897800011ceec5) — «El “pan de manzana” sin manzana: una historia sobre supervivencia y resiliencia».
 
-[^8]: [Agencia Central de Noticias](https://www.cna.com.tw/newsworld/article/20220531n001/) — «El pan de manzana sin manzana: un sabor nostálgico que lleva décadas transmitiéndose».
+[^8]: [Central News Agency](https://www.cna.com.tw/newsworld/article/20220531n001/) — «El pan de manzana sin manzana: sabor nostálgico que perdura desde hace décadas».
 
-[^9]: [LINE TODAY](https://today.line.me/tw/v3/article/2DZ5L8N) — «El pan de manzana sin manzana: un sabor nostálgico que lleva décadas transmitiéndose».
+[^9]: [LINE TODAY](https://today.line.me/tw/v3/article/2DZ5L8N) — «El pan de manzana sin manzana: sabor nostálgico que perdura desde hace décadas».
 
-[^10]: [MSN Noticias](https://www.msn.com/zh-tw/news/world/%E5%BF%AB%E8%A8%8A-%E5%8F%B0%E8%A3%94%E5%A4%AA%E7%A9%BA%E4%BA%BA%E6%9E%97%E7%90%AA%E5%85%92%E8%A8%AA%E5%8F%B0%E4%B8%AD-%E5%A4%AB%E5%A6%BB%E8%81%AF%E8%A2%82%E7%8F%BE%E8%BA%AB%E4%B8%80%E5%8F%A5%E8%A9%B1%E9%80%97%E7%AC%91%E5%85%A8%E5%A0%B4/ar-AA21wczU) — «Origen de la invención del pan de manzana y contexto de la ruptura diplomática entre Taiwán y Estados Unidos».
+[^10]: [MSN News](https://www.msn.com/zh-tw/news/world/%E5%BF%AB%E8%A8%8A-%E5%8F%B0%E8%A3%94%E5%A4%AA%E7%A9%BA%E4%BA%BA%E6%9E%97%E7%90%AA%E5%85%92%E8%A8%AA%E5%8F%B0%E4%B8%AD-%E5%A4%AB%E5%A6%BB%E8%81%AF%E8%A2%82%E7%8F%BE%E8%BA%AB%E4%B8%80%E5%8F%A5%E8%A9%B1%E9%80%97%E7%AC%91%E5%85%A8%E5%A0%B4/ar-AA21wczU) — «Origen del pan de manzana y trasfondo de la ruptura Taiwán-EE. UU.».
 
-[^11]: [Instagram @nutricom](https://www.instagram.com/reel/C4wt_invNtD/) — «El sabor de la cooperativa escolar que acompañó el crecimiento de todos».
+[^11]: [Instagram @nutricom](https://www.instagram.com/reel/C4wt_invNtD/) — «El sabor de la cooperativa que nos acompañó al crecer».
 
-[^12]: [Instagram @kjelllindgren](https://www.instagram.com/p/DXeMRlVArIZ/) — «Registro de la visita del astronauta Kjell Lindgren a la Fábrica de Pan Liu».
+[^12]: [Instagram @kjelllindgren](https://www.instagram.com/p/DXeMRlVArIZ/) — «Registro de la visita del astronauta Kjell Lindgren a la Fábrica Liu».
 
-[^13]: [Yahoo Noticias](https://tw.news.yahoo.com/50%E5%B9%B4%E8%80%81%E5%BA%97%E5%8A%89%E9%BA%B5%E5%8C%85%E5%BB%A0-85%E6%AD%B2%E5%8A%89%E5%93%B2%E5%9F%BA%E7%8F%BE%E8%BA%AB%E8%AA%AA%E6%B3%95%E5%90%83%E5%87%BA%E5%81%A5%E5%BA%B7.html) — «Liu Zheji lo explica en persona: detalles de los problemas de liquidez de la década de 1970».
+[^13]: [Yahoo News](https://tw.news.yahoo.com/50%E5%B9%B4%E8%80%81%E5%BA%97%E5%8A%89%E9%BA%B5%E5%8C%85%E5%BB%A0-85%E6%AD%B2%E5%8A%89%E5%93%B2%E5%9F%BA%E7%8F%BE%E8%BA%AB%E8%AA%AA%E6%B3%95%E5%90%83%E5%87%BA%E5%81%A5%E5%BA%B7.html) — «Liu Che-chi comparece en persona: detalles del colapso de liquidez de los 70».
 
-[^14]: [Comunicado de prensa del Gobierno de la Ciudad de Taichung](https://news.pchome.com.tw/society/focus586/20260424/index-77703923502665289002.html) — «Astronauta de la NASA regresa a Taichung, su ciudad de infancia, y visita la Fábrica de Pan Liu».
+[^14]: [Comunicado del Gobierno de Taichung](https://news.pchome.com.tw/society/focus586/20260424/index-77703923502665289002.html) — «El astronauta de la NASA regresa a su ciudad natal Taichung y visita la Fábrica Liu».
 
-[^15]: [Udn Time](https://time.udn.com/udntime/story/122390/6757063) — «Detalles de la marca del tigre y de la asociación de promoción de alimentos de harina y trigo».
+[^15]: [Reporter Time](https://time.udn.com/udntime/story/122390/6757063) — «Detalles de la marca Tigre y la Asociación de Promoción de Alimentos de Trigo».
