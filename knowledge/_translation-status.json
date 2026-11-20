@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-20T20:04:44+08:00",
-    "zhCommitHead": "4bf15a4e45",
+    "lastUpdated": "2026-11-20T20:15:02+08:00",
+    "zhCommitHead": "4b545977ef",
     "totalZh": 1192,
     "activeLanguages": [
       "en",
@@ -60,10 +60,10 @@
       },
       "vi": {
         "total_zh": 1192,
-        "fresh": 1167,
-        "stale": 17,
+        "fresh": 1169,
+        "stale": 16,
         "metadata_stale": 3,
-        "missing": 5,
+        "missing": 4,
         "orphan": 0
       },
       "id": {
@@ -84,18 +84,18 @@
       },
       "hi": {
         "total_zh": 1192,
-        "fresh": 1159,
-        "stale": 21,
+        "fresh": 1160,
+        "stale": 20,
         "metadata_stale": 5,
         "missing": 7,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1192,
-        "fresh": 1178,
+        "fresh": 1180,
         "stale": 7,
-        "metadata_stale": 4,
-        "missing": 3,
+        "metadata_stale": 3,
+        "missing": 2,
         "orphan": 0
       },
       "ru": {
@@ -12951,7 +12951,20 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Economy/natural-gas.md",
+          "translatedFrom": "Economy/天然氣.md",
+          "sourceCommitSha": "9735c8f0fc",
+          "sourceContentHash": "sha256:c4142cf41e8ce62a",
+          "sourceBodyHash": "sha256:bcff4dd1bdc63d15",
+          "translatedAt": "2026-11-20T16:47:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 1,
+          "bytes": 14667,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Economy/natural-gas.md",
@@ -16814,8 +16827,8 @@
           "sourceContentHash": "sha256:945474d4c297700a",
           "sourceBodyHash": "sha256:f7975ef2c038bd34",
           "translatedAt": "2026-11-20T16:47:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4b545977",
+          "translationLastModified": "2026-11-20T20:04:44+08:00",
           "inferred": false,
           "footnoteDefs": 19,
           "bytes": 25861,
@@ -17772,8 +17785,8 @@
           "sourceContentHash": "sha256:e67421aeb01e9408",
           "sourceBodyHash": "sha256:8127980ebbc69258",
           "translatedAt": "2026-11-20T16:47:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4b545977",
+          "translationLastModified": "2026-11-20T20:04:44+08:00",
           "inferred": false,
           "footnoteDefs": 2,
           "bytes": 17941,
@@ -57754,18 +57767,18 @@
         "hi": {
           "path": "hi/Lifestyle/food-delivery-platforms-taiwan.md",
           "translatedFrom": "Lifestyle/外送平台.md",
-          "sourceCommitSha": "62194c6e6",
-          "sourceContentHash": "sha256:4fcef48a4fb87a46",
-          "sourceBodyHash": "sha256:13fc2011ed2fd336",
-          "translatedAt": "2026-09-14T00:53:33+08:00",
+          "sourceCommitSha": "d0d78ae506",
+          "sourceContentHash": "sha256:e9fe365d20b93673",
+          "sourceBodyHash": "sha256:79a48da3f8317992",
+          "translatedAt": "2026-11-20T16:47:12+08:00",
           "translationLastCommit": "f4892bab",
           "translationLastModified": "2026-09-19T11:51:58+08:00",
           "inferred": false,
-          "footnoteDefs": 14,
-          "bytes": 56191,
+          "footnoteDefs": 17,
+          "bytes": 70349,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (17→14)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Lifestyle/food-delivery-platforms-taiwan.md",
@@ -62758,20 +62771,18 @@
         "vi": {
           "path": "vi/Society/taiwan-grid-resilience.md",
           "translatedFrom": "Society/電網韌性.md",
-          "sourceCommitSha": "e80217d19",
-          "sourceContentHash": "sha256:b47bd1e69ecf0593",
-          "sourceBodyHash": "sha256:57a68bead4c3e5e8",
-          "translatedAt": "2026-09-20T00:52:41+08:00",
+          "sourceCommitSha": "795b092421",
+          "sourceContentHash": "sha256:8afab7fd2baefe89",
+          "sourceBodyHash": "sha256:6f5dfd62ce507bbd",
+          "translatedAt": "2026-11-20T16:47:08+08:00",
           "translationLastCommit": "12f09560",
           "translationLastModified": "2026-10-10T23:20:50+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 40196,
+          "bytes": 41827,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Society/taiwan-grid-resilience.md",
@@ -172598,20 +172609,18 @@
         "ar": {
           "path": "ar/Food/heysong-soft-drinks.md",
           "translatedFrom": "Food/黑松.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "22286539e8",
           "sourceContentHash": "sha256:764c87b479e4e9af",
           "sourceBodyHash": "sha256:6c2df9f7c1f07744",
-          "translatedAt": "2026-07-25T10:53:27+08:00",
+          "translatedAt": "2026-11-20T12:05:17.756838+00:00",
           "translationLastCommit": "cdab7825",
           "translationLastModified": "2026-07-25T11:20:59+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "bytes": 17315,
+          "bytes": 17290,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+3 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Food/heysong-soft-drinks.md",
@@ -201590,7 +201599,20 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Geography/taiwan-rail-undergrounding.md",
+          "translatedFrom": "Geography/台灣鐵路地下化.md",
+          "sourceCommitSha": "6bbb6641a2",
+          "sourceContentHash": "sha256:cecc446cb4be661b",
+          "sourceBodyHash": "sha256:9a992e638062095a",
+          "translatedAt": "2026-11-20T16:47:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "bytes": 29632,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Geography/taiwan-rail-undergrounding.md",
@@ -201679,8 +201701,8 @@
           "sourceContentHash": "sha256:cecc446cb4be661b",
           "sourceBodyHash": "sha256:9a992e638062095a",
           "translatedAt": "2026-11-20T16:47:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4b545977",
+          "translationLastModified": "2026-11-20T20:04:44+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "bytes": 24564,
