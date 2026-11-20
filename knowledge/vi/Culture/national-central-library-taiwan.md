@@ -26,16 +26,16 @@ imageCredit: '玄史生 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:ROC_National_Central_Library_headquarters_20090801.jpg'
 rationale:
-  why_this_hook: 'Taiwan.md đã có các bài viết về các tổ chức xuất bản hoặc văn hóa như Báo Tân Dân Quốc Dân, Bưu điện, Bảo tàng Cung điện và Bảo tàng Lịch sử Đài Loan, nhưng chưa có chuyên bài với trục tâm là gửi lưu bắt buộc của Thư viện Quốc gia Trung ương, ký ức xuất bản quốc gia, bảo tồn kỹ thuật số của Ký ức Đài Loan và quản lý xuất bản điện tử.'
-  whats_excluded: 'Không viết Thư viện Quốc gia Trung ương như một kiến trúc du lịch hay phòng đọc đơn thuần, không viết các số lượng vật thể động của Ký ức Đài Loan thành các con số cố định vĩnh viễn, cũng không viết sai gửi lưu bắt buộc là tất cả các ấn phẩm đều có thể công khai toàn bộ nội dung ngay lập tức.'
-  where_it_hedges: 'Gửi lưu bắt buộc, đúc mục bộ sưu tập, số hóa, công khai toàn bộ và sử dụng nghiên cứu là các lớp khác nhau. Bài viết xử lý riêng biệt nghĩa vụ bảo tồn, khả năng nhìn thấy thư mục, ủy quyền bản quyền và điều kiện xem thực tế, không sử dụng một con số bộ sưu tập để đại diện cho toàn bộ hệ thống tri thức.'
-  whos_pushing_back: 'Tường thuật chính thức của Thư viện Quốc gia Trung ương nhấn mạnh bảo tồn hoàn chỉnh và dịch vụ kiến thức, trong khi các nhà xuất bản và nghiên cứu bảo tồn kỹ thuật số nhắc nhở rằng định dạng xuất bản điện tử, ủy quyền, chi phí bảo tồn vĩnh viễn và quyền sử dụng sẽ không tự động được giải quyết chỉ vì chế độ gửi lưu bắt buộc tồn tại. Bài viết liệt kê các sự kiện chế độ từ cả hai phía.'
-curation: incubating
+  why_this_hook: 'Taiwan.md 已有臺灣民報、郵局、故宮與臺灣歷史博物館等出版或文化機構文章，但沒有以國家圖書館的法定送存、國家出版記憶、臺灣記憶數位典藏和電子出版治理為主軸的專文。'
+  whats_excluded: '不把國家圖書館寫成單純的觀光建築或閱覽室，不把臺灣記憶的動態物件數寫成永久固定數字，也不把法定送存誤寫成所有出版品都能立即公開全文。'
+  where_it_hedges: '法定送存、館藏編目、數位化、全文公開和研究利用是不同層次。本文分開處理保存義務、書目可見性、版權授權和實際閱覽條件，不用一個館藏數字代表整座知識系統。'
+  whos_pushing_back: '國家圖書館的官方敘事強調完整保存與知識服務，出版者和數位典藏研究則提醒，電子出版格式、授權、永久保存成本與使用權並不會因為送存制度存在而自動解決。本文並列兩邊的制度事實。'
+curation: 'incubating'
 translatedFrom: 'Culture/國家圖書館.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:b188920097cf9184'
-sourceBodyHash: 'sha256:bf6baa44f84e7aa1'
-translatedAt: '2026-09-09T15:01:50+08:00'
+sourceCommitSha: '650297302f'
+sourceContentHash: 'sha256:9bb0d26fbfa502a7'
+sourceBodyHash: 'sha256:a2db633578f86780'
+translatedAt: '2026-11-20T07:55:07.064448+00:00'
 ---
 
 # Thư viện Quốc gia Trung ương: Làm thế nào một thư viện bảo tồn các ấn phẩm của hòn đảo thành ký ức quốc gia
@@ -114,29 +114,29 @@ Những gì thực sự hỗ trợ Thư viện Quốc gia Trung ương là hệ 
 
 Thư viện Quốc gia Trung ương cũng thông qua trung tâm Hán học, trung tâm tài nguyên Hán học Đài Loan nước ngoài và hợp tác tài nguyên văn liệu Trung Quốc, cho phép xuất bản Đài Loan và văn liệu Trung Quốc không chỉ dừng lại ở một tòa nhà Đài Bắc. Loại hợp tác quốc tế này không phải là đóng gói văn hóa Đài Loan thành hàng hóa xuất khẩu, mà là để cho phép các đơn vị sưu tập khác nhau chia sẻ thư mục, hình ảnh và cửa vào nghiên cứu. Quy mô của bộ sưu tập cấp quốc gia do đó không chỉ được quyết định bởi số lượng bộ sưu tập, mà còn được quyết định bởi liệu nó có thể tìm kiếm lẫn nhau với các tổ chức khác, tự chỉnh sửa lẫn nhau.
 
-## Dịch vụ đọc là cửa ra của bảo tồn
+## Dịch vụ độc giả là lối ra của việc bảo tồn
 
-Chế độ bảo tồn cuối cùng vẫn phải quay lại cách độc giả vào dữ liệu. Cửa ra kiểm soát và quầy đăng ký trong hội trường đọc tổng thư viện của Thư viện Quốc gia Trung ương, có vẻ là nơi hàng ngày nhất trong tòa nhà, nhưng thực tế lại nối hệ thống nền tảng của văn liệu quốc gia với người dùng. Độc giả trước tiên lấy tài cấp vào, sau đó thông qua tìm kiếm bộ sưu tập, dữ liệu thư mục và quy tắc đọc để tiếp cận một ấn phẩm có thể đã rời khỏi thị trường nhiều năm. [^3] [^17]
+Hệ thống bảo tồn cuối cùng vẫn phải quay về việc độc giả như thế nào tiếp cận dữ liệu. Cổng kiểm soát và quầy cấp thẻ tại sảnh đọc Thư viện Quốc gia Trung ương, bề ngoài là những nơi quen thuộc nhất trong tòa nhà, thực tế lại kết nối hệ thống hậu trường của văn kiện quốc gia đến người sử dụng. Độc giả trước hết đạt được quyền truy cập, sau đó thông qua tra cứu bộ sưu tập, thông tin thư mục và quy định đọc để tiếp cận một ấn phẩm có thể đã rời khỏi thị trường nhiều năm.[^3] [^17]
 
-Cửa vào này cũng nhắc chúng ta, số hóa không thể thay thế tất cả dịch vụ thực thể. Tài nguyên điện tử có thể cho phép người tìm kiếm từ xa, nhân viên thư viện vẫn cần xử lý nhận dạng phiên bản, sử dụng sưu tập đặc biệt, giới hạn bản quyền và bối cảnh dữ liệu. Năm 2025 theo như được liệt kê trong tin tức thư viện về sự trỗi dậy của lực lượng đọc kỹ thuật số và dịch vụ thư viện song song hai bộ, không phải có nghĩa là giấy sắp biến mất, mà là độc giả đồng thời cần cả hai con đường khám phá trực tuyến và xác nhận thực thể. [^14]
+Cái lối vào này cũng nhắc nhở chúng ta, số hóa không thể thay thế tất cả dịch vụ thực thể. Tài nguyên điện tử cho phép tìm kiếm từ xa, thủ thư vẫn cần xử lý nhận diện phiên bản, sử dụng đặc藏, hạn chế bản quyền và ngữ cảnh tài liệu. Tin tức thư viện năm 2025 ghi nhận sự trỗi dậy của năng lực đọc số và dịch vụ thư viện hai tuyến song hành, không có nghĩa là bản in sắp biến mất, mà là độc giả cùng lúc cần hai con đường: khám phá trực tuyến và xác thực trực tiếp.[^14]
 
-![Hội trường đọc tổng thư viện của Thư viện Quốc gia Trung ương, tiếp cận bộ sưu tập từ dịch vụ đăng ký và cửa ra kiểm soát.](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Interior_of_National_Central_Library_ROC_-_01._2024_-_01_-_11.jpg/500px-Interior_of_National_Central_Library_ROC_-_01._2024_-_01_-_11.jpg)
+![Sảnh đọc Thư viện Quốc gia Trung ương, từ dịch vụ cấp thẻ và cổng kiểm soát tiếp cận bộ sưu tập.](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Interior_of_National_Central_Library_ROC_-_01._2024_-_01_-_11.jpg/500px-Interior_of_National_Central_Library_ROC_-_01._2024_-_01_-_11.jpg)
 
-_Hình: Hội trường đọc tổng thư viện của Thư viện Quốc gia Trung ương. Anh Đạo chụp ảnh, 2024-01-11, CC BY-SA 4.0. Xem chi tiết trang hình ảnh trong phần Nguồn hình ảnh._
+_Ảnh: Sảnh đọc Thư viện Quốc gia Trung ương. A Đạo chụp, 2024-01-11, CC BY-SA 4.0. Nguồn ảnh liệt kê ở cuối trang._
 
-## Từ danh sách gửi lưu đến giao diện nhà xuất bản
+## Từ danh sách gửi lưu đến giao diện người xuất bản
 
-Thay đổi chế độ mới nhất, làm cho gửi lưu bắt buộc giống hơn một giao diện nhà xuất bản, chứ không chỉ là gửi hộp giấy. Tin tức thư viện của Thư viện Quốc gia Trung ương năm 2025 ghi lại rằng hệ thống gửi lưu ấn phẩm đã được trực tuyến và kích hoạt, và được tích hợp với dịch vụ xin phép của mạng thông tin sách mới toàn quốc. Điều này cho thấy quy trình mà nhà xuất bản phải đối mặt bao gồm đăng nhập dữ liệu, thông tin thư mục, danh sách gửi lưu và quản lý sau này, gửi lưu không còn chỉ là bổ sung hành chính sau khi quá trình xuất bản kết thúc. [^13] [^14]
+Thay đổi chế độ mới nhất khiến việc gửi lưu bắt buộc giống hơn một giao diện người xuất bản, chứ không chỉ là gửi đi một thùng carton. Theo Thư viện Quốc gia Trung ương tin tức năm 2025, hệ thống gửi lưu ấn phẩm đã chính thức vận hành và tích hợp với dịch vụ đăng ký của Mạng thông tin sách mới toàn quốc. Điều này có nghĩa là quy trình mà người xuất bản đối mặt bao gồm đăng ký dữ liệu, thông tin thư mục, danh sách gửi lưu và quản lý tiếp theo; gửi lưu không còn đơn thuần là việc bổ sung hành chính sau khi quy trình xuất bản kết thúc.[^13] [^14]
 
-Tin tức thư viện của Thư viện Quốc gia Trung ương năm 2025 cũng đặt lực lượng đọc kỹ thuật số, hợp tác số hóa tài liệu cổ Trung Quốc xuyên quốc gia và phổ biến quốc tế kết quả nghiên cứu học viện Đài Loan trong cùng một kỳ. Khi những vấn đề này được xem xét cùng nhau, có thể phát hiện rằng công việc của Thư viện Quốc gia Trung ương có hai dòng cùng tiến hành: một dòng là tổng hợp ấn phẩm Đài Loan vào hệ thống quốc gia, dòng khác là gửi tài liệu đã bảo tồn đến mạng nghiên cứu lớn hơn. Bảo tồn và phổ biến không phải là mối quan hệ sau đó, mà cần được thiết kế cùng lúc là dịch vụ. [^14]
+Thư viện Quốc gia Trung ương tin tức năm 2025 cũng đặt năng lực đọc viết số, hợp tác số hóa cổ tịch Hán văn quốc gia và phổ biến thành quả nghiên cứu của học giới Đài Loan ra quốc tế trong cùng một kỳ. Xem các mục này cùng nhau, có thể thấy công việc của Thư viện Quốc gia Trung ương có hai đường song song tiến lên: một đường là đưa ấn phẩm Đài Loan vào hệ thống quốc gia, đường kia là đưa tài liệu đã bảo tồn vào mạng lưới nghiên cứu lớn hơn. Bảo tồn và truyền播 không phải là quan hệ trước sau, mà là dịch vụ cần được thiết kế đồng thời.[^14]
 
-Sách hướng dẫn hoạt động quản lý ủy quyền hệ thống gửi lưu, cũng như luận văn học vị trì hoãn công khai, trao đổi và biểu mẫu ủy quyền, tiết lộ rõ ràng hơn những lỗ hổng chế độ giữa bảo tồn và công khai hóa. Ấn phẩm có thể được gửi lưu và đúc mục trước, công khai toàn bộ nội dung sau đó phụ thuộc vào điều kiện ủy quyền của tác giả, nhà xuất bản hoặc luận văn học vị. Đây không phải là thiếu hiệu quả hệ thống, mà là kết quả của những người bảo tồn phải tôn trọng các trạng thái quyền khác nhau. [^1]
+Sổ tay thao tác quản lý ủy quyền của hệ thống gửi lưu, cũng như việc công khai muộn, thay đổi và các biểu mẫu ủy quyền của luận văn học vị, tiết lộ rõ hơn khe hở thể chế giữa bảo tồn và công khai. Ấn phẩm có thể được gửi lưu và lập mục lục trước, còn công khai toàn văn thì phải xử lý theo điều kiện ủy quyền của tác giả, người xuất bản hoặc luận văn học vị. Đây không phải do hệ thống thiếu hiệu quả, mà là kết quả người bảo tồn phải tôn trọng các trạng thái quyền lợi khác nhau.[^1]
 
-Hội thảo xây dựng và chia sẻ chung theo địa phương của Ký ức Đài Loan sau đó đưa vấn đề từ tòa nhà trung ương đến địa phương. Thư viện Quốc gia Trung ương từng mời Bộ Văn hóa, Bảo tàng Lịch sử Đài Loan Quốc lập, hai mươi hai văn phòng văn hóa hạt/thành phố và thư viện địa phương thảo luận hợp tác, và rõ ràng đối mặt với tài nguyên hình ảnh âm thanh, bối cảnh ban đầu và điều khoản giấy phép Creative Commons. Để bảo tồn kỹ thuật số địa phương vào nền tảng chung, không chỉ có thể di chuyển tệp, mà còn phải giải thích ai cung cấp, cách mô tả, những thứ nào có thể được sử dụng lại. [^15]
+Hội thảo xây dựng và chia sẻ chung "Ký ức Đài Loan" cùng các tỉnh/thành thì lại đưa vấn đề từ thư viện trung ương ra địa phương. Thư viện Quốc gia Trung ương từng mời Bộ Văn hóa, Bảo tàng Lịch sử Quốc gia Đài Loan, hai mươi hai cục văn hóa tỉnh/thành và thư viện địa phương thảo luận hợp tác, và trực diện đối mặt với tài nguyên âm thanh hình ảnh, bối cảnh gốc và điều khoản cấp phép Creative Commons. Để kho số địa phương vào nền tảng chung, không thể chỉ chuyển file qua, còn phải nêu rõ ai cung cấp, mô tả như thế nào, và những gì có thể tái sử dụng.[^15]
 
-![Phòng đọc của Thư viện Quốc gia Trung ương, chế độ bảo tồn cuối cùng vẫn phải quay lại cách độc giả sử dụng dữ liệu.](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Interior_of_National_Central_Library_ROC_-_04._2024_-_01_-_11.jpg/500px-Interior_of_National_Central_Library_ROC_-_04._2024_-_01_-_11.jpg)
+![Phòng đọc Thư viện Quốc gia Trung ương, chế độ bảo tồn cuối cùng vẫn phải quay về người đọc sử dụng dữ liệu như thế nào.](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Interior_of_National_Central_Library_ROC_-_04._2024_-_01_-_11.jpg/500px-Interior_of_National_Central_Library_ROC_-_04._2024_-_01_-_11.jpg)
 
-_Hình: Phòng đọc của Thư viện Quốc gia Trung ương. Anh Đạo chụp ảnh, 2024-01-11, CC BY-SA 4.0. Xem chi tiết trang hình ảnh trong phần Nguồn hình ảnh._
+_Ảnh: Phòng đọc Thư viện Quốc gia Trung ương. A Đạo chụp, 2024-01-11, CC BY-SA 4.0. Nguồn ảnh liệt kê ở cuối trang._
 
 ## Vấn đề tiếp theo của ký ức xuất bản Đài Loan
 

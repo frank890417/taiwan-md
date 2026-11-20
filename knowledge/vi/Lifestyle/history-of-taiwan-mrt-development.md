@@ -26,10 +26,10 @@ readingTime: 15
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'Lifestyle/台灣捷運發展史.md'
-sourceCommitSha: 'b1a5fea0'
-sourceContentHash: 'sha256:fa054e970fa0164b'
-sourceBodyHash: 'sha256:8a8a123d1183a1a8'
-translatedAt: '2026-10-08T04:43:41+08:00'
+sourceCommitSha: '650297302f'
+sourceContentHash: 'sha256:a2625abf2f2c9ac6'
+sourceBodyHash: 'sha256:be7ef9d711a97133'
+translatedAt: '2026-11-20T08:30:00.384433+00:00'
 ---
 
 # Lịch sử phát triển hệ thống tàu điện ngầm Đài Loan: Một luận thuyết tiến hóa đô thị được viết bằng máu và tiền bạc
@@ -57,20 +57,20 @@ Ngoài vụ kiện, bản thân tuyến Mộc Sách cũng trải qua nhiều l�
 
 Liệu bài học 1.64 tỷ NTD này có đáng giá? Nhìn lại ngày hôm nay, tuyến Mộc Sách (nay là tuyến Văn Hồ) đã chứng minh một điều quan trọng: **người Đài Loan có thể xây dựng tàu điện ngầm.** Mặc dù quá trình đầy trắc trở, nhưng nó đã vận hành được và đã hoạt động trong 30 năm.
 
-## Phép màu Tuyến Tam Thủy: Điểm khởi đầu thực sự của văn hóa tàu điện ngầm
+## Kỳ tích Tuyến Đạm Thủy: Điểm khởi đầu thực sự của văn hóa MRT
 
-Vào năm 1997, tuyến Tam Thủy đi vào hoạt động, và Tàu điện ngầm Đài Bắc thực sự cất cánh.
+Năm 1997, tuyến Đạm Thủy thông xe, đánh dấu bước cất cánh thực sự của hệ thống Tàu điện ngầm Đài Bắc (Taipei Metro).
 
-Khác với công nghệ Pháp ở tuyến Mộc Sách, tuyến Tam Thủy được cải tạo từ tuyến nhánh Tam Thủy cũ của Đường sắt Đài Loan; việc tận dụng quyền sử dụng đường ray sẵn có cùng thành quả học tập của các kỹ sư Đài Loan cuối cùng đã mang lại cho người dân trải nghiệm về "tàu điện ngầm đẳng cấp thế giới"—toa xe máy lạnh, bảng điện tử, đúng giờ và thiết kế không rào cản.
+Khác với công nghệ Pháp được sử dụng ở tuyến Mộc Trạch, tuyến Đạm Thủy được cải tạo dựa trên nền tảng của nhánh phụ đường sắt Đài Loan (TRA) đi Đạm Thủy cũ. Việc tận dụng quyền sử dụng đất sẵn có kết hợp với thành quả học hỏi của các kỹ sư Đài Loan cuối cùng đã giúp người dân trải nghiệm hương vị của một "hệ thống MRT đẳng cấp thế giới" — toa tàu máy lạnh, bảng điện tử, dừng đỗ đúng giờ và thiết kế không rào cản.
 
-Quan trọng hơn, tuyến Tam Thủy đã xây dựng nên một "văn minh tàu điện ngầm" độc đáo của Đài Loan. Cấm ăn uống trong toàn bộ toa xe, vi phạm phạt tối đa 7.500 NTD; thang cuốn luôn đứng bên phải; bên trong toa xe yên tĩnh như thư viện. Những quy tắc này, thoạt nhìn có vẻ hiển nhiên ngày nay, lại là một thí nghiệm xã hội mang tính cách mạng vào những năm 1990.
+Quan trọng hơn, tuyến Đạm Thủy đã thiết lập nên một "văn minh MRT" đặc trưng của Đài Loan. Cấm ăn uống trong toàn bộ toa tàu, vi phạm sẽ bị phạt tối đa NT$7,500; đứng bên phải khi đi thang cuốn; không gian trong toa tàu yên tĩnh như một thư viện. Những quy tắc mà ngày nay chúng ta coi là hiển nhiên này, thực chất đã là một cuộc thử nghiệm xã hội mang tính cách mạng vào những năm 1990.
 
-> **💡 Bạn có biết không**
-> Lệnh cấm ăn uống của Tàu điện ngầm Đài Bắc là một trong những quy định nghiêm ngặt nhất trên thế giới. Theo Điều 50 của Luật Tàu điện ngầm Đại chúng, hành vi ăn uống tại khu vực cấm sẽ bị phạt từ 1.500 NTD đến 7.500 NTD, ranh giới được đánh dấu bằng vạch vàng trước cổng soát vé. Nhưng chính sự kiên trì này đã khiến độ sạch sẽ của toa xe Tàu điện ngầm Đài Bắc trở thành ấn tượng sâu sắc nhất đối với du khách quốc tế.
+> **💡 Bạn có biết?**
+> Lệnh cấm ăn uống của Tàu điện ngầm Đài Bắc là một trong những quy định tàu điện nghiêm ngặt nhất thế giới. Theo Điều 50 của 《Luật MRT Công cộng》, hành vi ăn uống tại khu vực cấm sẽ bị phạt từ NT$1,500 đến NT$7,500; ranh giới chính là vạch vàng trước cổng soát vé vào ga. Nhưng cũng chính nhờ sự kiên trì này mà độ sạch sẽ của các toa tàu Đài Bắc đã trở thành ấn tượng sâu sắc nhất đối với du khách quốc tế.
 
-Thành công của tuyến Tam Thủy có một dữ liệu then chốt: nó kết nối các khu dân cư đông đúc nhất của Đài Bắc (Bắc Đầu, Sĩ Lâm, Đại Đồng) với trung tâm thành phố, nhu cầu đi lại rất lớn. Nếu chỉ có tuyến Mộc Sách, Tàu điện ngầm Đài Bắc mỗi ngày chỉ chở được 40.000 người; sau khi tuyến Tam Thủy tham gia, con số này tăng lên 85.000, và sau đó mạng lưới dần mở rộng, lượng hành khách mới thực sự tăng trưởng.
+Thành công của tuyến Đạm Thủy có một dữ liệu then chốt: nó kết nối các khu dân cư đông đúc nhất Đài Bắc (Bắc Đầu, Sĩ Lâm, Đại Đồng) với trung tâm thành phố, tạo ra nhu cầu đi lại cực lớn. Vào thời điểm chỉ mới có tuyến Mộc Trạch, Tàu điện ngầm Đài Bắc mỗi ngày chỉ chở được 40.000 lượt người, nhưng sau khi tuyến Đạm Thủy gia nhập, con số này đã tăng lên 85.000 lượt; và chỉ khi các tuyến trong mạng lưới đường sắt dần được kết nối nối tiếp nhau, năng lực vận tải mới thực sự bùng nổ.
 
-**Lợi thế địa lý + Học tập công nghệ + Xây dựng văn hóa = Phép màu Tuyến Tam Thủy.** Công thức này đã được vô số thành phố mô phỏng sau này, nhưng rất ít nơi tái tạo thành công.
+**Lợi thế địa lý + Học hỏi công nghệ + Xây dựng văn hóa = Kỳ tích Tuyến Đạm Thủy.** Công thức này sau đó đã được vô số thành phố khác mô phỏng theo, nhưng rất ít nơi có thể sao chép thành công.
 
 ## Mạng lưới giao cắt Tuyến Bản Nam: Bước ngoặt chiến lược của Tàu điện ngầm Đài Bắc
 

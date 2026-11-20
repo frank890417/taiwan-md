@@ -24,10 +24,10 @@ rationale:
   where_it_hedges: '原住民族織布的族名、語詞、禁忌與技法具有部落和家族差異。本文依各來源的族群、地點、訪談年份與出版脈絡敘述，不把不同族群的織紋、工具與儀式混成一套全台灣原住民族共同規則。'
   whos_pushing_back: '反對把織布浪漫化成女性天生的美德，也反對只用商品銷售、展覽件數或技藝認證衡量傳承。真正需要追問的是，誰可以學、誰可以記錄、哪些知識應被公開，以及部落如何決定傳統在當代生活中的位置。'
 translatedFrom: 'Culture/原住民織布.md'
-sourceCommitSha: '7c99cd4b7'
-sourceContentHash: 'sha256:d6b33427d383d025'
-sourceBodyHash: 'sha256:d806fd1fb93df2e0'
-translatedAt: '2026-09-16T11:57:32+08:00'
+sourceCommitSha: '650297302f'
+sourceContentHash: 'sha256:e56ce4cd86cc45fe'
+sourceBodyHash: 'sha256:0221e0902ecca787'
+translatedAt: '2026-11-20T08:24:13.657321+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Nghề dệt của các dân tộc bản địa Đài Loan không chỉ là việc thêm một hoa văn đẹp lên bề mặt vải, mà là việc dệt vật liệu, cơ thể, dòng tộc và trật tự địa phương vào cuộc sống. Người Thái Nhã lấy cây gai dầu làm nguyên liệu chính; từ trồng trọt, tách sợi, chải sợi, xoắn sợi, nhuộm màu đến dệt toàn bộ khung cửi, mỗi công đoạn đều cần thời gian và ký ức. Các thợ dệt người Xa Hạ đã dành ba năm để học lại kỹ thuật vốn bị gián đoạn, nhằm làm trang phục lễ hội cho gia đình dựa trên các hiện vật được bảo tàng thu thập cách đây gần một trăm năm. Nghề dệt của người Bê Nam thể hiện thẩm mỹ và quan hệ xã hội thông qua kỹ thuật dệt xen kẽ (夾織 - _jiāzhī_) và hoa văn hình thoi, cùng với trật tự thân phận trong trang phục. Những câu chuyện này đều chỉ ra rằng nghề dệt không chỉ là một thủ công, mà còn là ngôn ngữ, quan hệ họ hàng, giới tính, nghi lễ và tri thức về đất đai. Sự hồi sinh ngày nay không chỉ là làm lại những bộ quần áo cổ xưa, mà là để bộ lạc tự quyết định kiến thức nào có thể được truyền, cách thức truyền đạt, và truyền cho ai.
@@ -74,15 +74,15 @@ Ngày nay, khi nam giới hoặc thành viên ngoài gia đình bắt đầu h�
 
 Trang thông tin tệp Commons đánh dấu bức ảnh lịch sử này là phụ nữ bộ lạc Slamaw và Tiểu Tuyền Thiết, khoảng năm 1932, và liệt kê nó trong phạm vi công cộng theo luật bản quyền cũ của Nhật Bản. Hình ảnh cho phép người đọc quan sát nhân vật và trang phục trong bức ảnh thời kỳ đầu, nhưng không thể suy đoán về thợ dệt, tên dân tộc hay bối cảnh mặc chỉ dựa vào bức ảnh. Khi sử dụng hình ảnh lịch sử, việc giữ lại nguồn gốc và mô tả phạm vi công cộng của trang tệp còn quan trọng hơn là gắn cho bức ảnh một câu chuyện chưa được kiểm chứng. [^13]
 
-## Học lại một bộ lạc từ những bộ quần áo thất truyền
+## Học lại từ những bộ trang phục đã thất truyền
 
-Trường hợp của người Xa Hạ làm cho sự "hồi sinh" trở nên cụ thể. Bảo tàng Nhân chủng học Đại học Quốc gia Đài Loan ghi nhận, các thợ dệt người Xa Hạ ở Miêu Lịch đã học lại nghề dệt trang phục truyền thống để tham gia đại lễ mười năm của Ba Tư Đại vào năm 2016. Họ đã xem và phân tích những bộ áo choàng người Xa Hạ được bảo tàng thu thập từ Nam Trang, Sư Đàm cách đây gần một trăm năm vào năm 2015, đồng thời đối chiếu với các sản phẩm dệt truyền thống của gia đình trong bộ lạc, cuối cùng dành ba năm để làm lại mười chiếc áo choàng và áo ngắn. [^7]
+Trường hợp của người Saisia (Saisiyat) đã khiến khái niệm "phục hưng" trở nên cụ thể hơn. Theo ghi chép từ Bảo tàng Nhân học thuộc Đại học Quốc gia Đài Loan, để chuẩn bị cho đại lễ mười năm Pasutai vào năm 2016, các nữ thợ dệt người Saisia tại Miêu Lật đã bắt đầu học lại cách dệt may trang phục truyền thống. Vào năm 2015, họ đã đến bảo tàng để quan sát và phân tích những chiếc áo dài của người Saisia được thu thập từ khu vực Nam Trang và Sư Đàm gần một trăm năm trước, đồng thời đối chiếu với các sản phẩm dệt gia truyền trong bộ lạc; cuối cùng, sau ba năm, họ đã tái chế thành công mười bộ áo dài và áo ngắn truyền thống. [^7]
 
-Quá trình này không phải là sao chép cũ thành mới. Các thợ dệt phải nhận diện vật liệu, tháo gỡ hoa văn, hiểu phương pháp dệt toàn bộ khung cửi, sau đó đối chiếu giữa hiện vật trong bảo tàng và ký ức gia đình. Quy trình truyền thống được ghi lại bao gồm trồng gai, rút sợi, kéo sợi, đóng khung, tẩy trắng, nhuộm màu, đánh sáp, dệt toàn bộ khung cửi và dệt vải. Chỉ nhìn vào thành phẩm thì rất khó để biết công đoạn nào đã bị đứt gãy, cũng rất khó để biết người làm lại đã đưa ra phán đoán như thế nào giữa ký ức chưa hoàn chỉnh và hiện vật thực tế.
+Quá trình này không đơn thuần là sao chép những bộ quần áo cũ thành đồ mới. Các nữ thợ dệt phải nhận diện chất liệu, phân tách các hoa văn dệt, hiểu phương pháp chuẩn bị sợi dọc, rồi đặt những hiện vật lưu trữ của bảo tàng bên cạnh ký ức gia đình để đối chiếu. Quy trình truyền thống được ghi chép lại bao gồm: trồng gai, tách sợi, kéo sợi, lên khung, tẩy trắng, nhuộm màu, đánh sáp, chuẩn bị sợi dọc và dệt vải. Nếu chỉ nhìn vào thành phẩm, rất khó để biết bước nào trong quy trình từng bị đứt quãng, cũng như khó có thể biết người tái chế đã đưa ra những phán đoán như thế nào giữa những ký ức không trọn vẹn và hiện vật thực tế.
 
-Hoa văn trên áo choàng của người Xa Hạ còn mang ý nghĩa nghi lễ. Tài liệu chỉ ra rằng trong Lễ hội Ba Tư Đại, dân làng vây quanh ca múa; hoa văn dệt ở mặt sau trang phục sẽ hướng vào bên trong vòng tròn, do đó trở thành một phần tương tác với linh hồn nhỏ bé (_ài líng_). Mặt trước và mặt sau của bộ quần áo không chỉ là mối quan hệ thiết kế trước-sau, mà còn là ý nghĩa được hình thành bởi người mặc, hướng múa và đối tượng nghi lễ. Việc treo những bộ trang phục này ở phía trước triển lãm có thể giúp khán giả nhìn thấy hoa văn, nhưng không đồng nghĩa với việc họ hiểu trọn vẹn vị trí của nó trong buổi lễ. [^7]
+Hoa văn trên áo dài của người Saisia còn gắn liền với vị trí trong các nghi lễ. Các tài liệu chỉ ra rằng, trong lễ hội Pasutai, khi tộc nhân vừa hát vừa nhảy múa theo vòng tròn, các hoa văn dệt ở mặt sau của trang phục sẽ hướng vào phía trong vòng tròn, từ đó trở thành một phần của sự tương tác với các linh hồn lùn (矮靈 - Ai-ling). Mặt trước và mặt sau của trang phục không phải là mối quan hệ trước sau của việc trình diễn thiết kế, mà là ý nghĩa được hình thành bởi sự kết hợp giữa người mặc, hướng nhảy múa và đối tượng của nghi lễ. Việc treo những bộ trang phục này ở mặt trước của khu trưng bày để khách tham quan chiêm ngưỡng hoa văn tuy giúp họ nhìn thấy họa tiết, nhưng không đồng nghĩa với việc hiểu trọn vẹn vị trí nguyên bản của chúng trong các buổi tế lễ. [^7]
 
-Đây cũng là chìa khóa hợp tác giữa bảo tàng và bộ lạc. Bảo tàng lưu giữ các hiện vật cổ hơn, còn thợ dệt bộ lạc nắm giữ ngôn ngữ, ký ức và bối cảnh sử dụng vẫn đang tồn tại trong cuộc sống. Sự hợp tác này không phải là phía bảo tàng đơn phương gắn thêm một tấm biển giải thích cho sản phẩm; mà là biến tài liệu lưu trữ thành vật liệu để bộ lạc học lại, xác minh và thảo luận.
+Đây cũng chính là điểm mấu chốt trong sự hợp tác giữa bảo tàng và bộ lạc. Bảo tàng lưu giữ những hiện vật có niên đại lâu đời, còn các nữ thợ dệt của bộ lạc nắm giữ ngôn ngữ, ký ức và bối cảnh sử dụng vẫn đang tồn tại trong đời sống. Sự hợp tác giữa hai bên không phải là việc phía bảo tàng đơn phương gắn thêm một tấm bảng chú thích cho hiện vật, mà là biến các tài liệu lưu trữ trở thành chất liệu để bộ lạc học hỏi lại, kiểm chứng và thảo luận.
 
 ## Dệt xen kẽ của người Bê Nam và ngôn ngữ hệ thống văn hóa
 
