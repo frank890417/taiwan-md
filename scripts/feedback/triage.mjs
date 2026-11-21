@@ -55,6 +55,7 @@ export function parseArgs(argv) {
     commit: false,
     seed: null,
     limit: 50,
+    limitExplicit: false,
     exclude: [],
     show: [],
     intakeStats: false,
@@ -65,7 +66,10 @@ export function parseArgs(argv) {
     if (v === '--commit') a.commit = true;
     else if (v === '--dry-run') a.commit = false;
     else if (v === '--seed') a.seed = argv[++i];
-    else if (v === '--limit') a.limit = parseInt(argv[++i], 10) || 50;
+    else if (v === '--limit') {
+      a.limit = parseInt(argv[++i], 10) || 50;
+      a.limitExplicit = true;
+    }
     // 可重複,也接受逗號串（--exclude a,b）。
     else if (v === '--exclude')
       a.exclude.push(
@@ -136,6 +140,35 @@ export function formatQueueWindow({ fetched, limit, total = null } = {}) {
   if (beyond <= 0)
     return `[triage] 取數窗口：讀進 ${fetched} 筆已到 --limit ${limit} 上限 · 佇列 status=new 共 ${total} 筆 · 窗口外沒有剩餘`;
   return `[triage] 取數窗口：讀進 ${fetched} 筆已到 --limit ${limit} 上限 · 佇列 status=new 共 ${total} 筆 · ⚠️ 窗口外還有 ${beyond} 筆這一輪沒看到（最舊優先排序,新讀者排在窗口外）`;
+}
+
+/**
+ * 收官行的「這一輪沒看完」標記。
+ *
+ * `formatQueueWindow` 在報表開頭說「窗口外還有 N 筆」,那是提醒:它讓知道要撈的人
+ * 知道該撈,而撈不撈仍掛在當班記不記得交接裡那句話。11-17 窗口外坐了七位讀者、最久
+ * 六天,11-20 真讀者排在第 82 位（issue #2046）,兩輪都靠當班想起來（REFLEXES #15 第 17 次
+ * 驗證:提醒是給知道的人看的,閘門是給忘記的人設的）。
+ *
+ * 這一行長在 `[triage] done` 旁邊——當班宣告「跑完了」時讀的那一行。窗口外還有人,
+ * 或者窗口滿了而總數查不到,這一輪就不是「完成」,並且直接給出下一個指令。
+ * **仍不自己加大 `--limit`、不改預設值、不改 exit code**:窗口開多大是閾值
+ * （OBSERVER-QUEUE #119）,這裡只把「沒看完」從開頭的事實搬到結論的位置。
+ */
+export function formatWindowUnfinished({
+  fetched,
+  limit,
+  total = null,
+  limitExplicit = false,
+} = {}) {
+  if (!Number.isFinite(fetched) || !Number.isFinite(limit)) return null;
+  if (fetched < limit) return null;
+  const how = limitExplicit ? `這次帶的 --limit ${limit}` : `預設窗口 ${limit}`;
+  if (total === null || !Number.isFinite(total))
+    return `[triage] ⛔ 未完成：${how} 已滿而佇列總數查不到,窗口外有沒有讀者這一輪沒量到 —— 加大 --limit 再跑一次才算看完`;
+  const beyond = total - fetched;
+  if (beyond <= 0) return null;
+  return `[triage] ⛔ 未完成：${how} 只讀進 ${fetched}/${total} 筆,窗口外 ${beyond} 筆這一輪沒有人看過 —— 用 --limit ${total} 重跑一次才算看完（HG14）`;
 }
 
 /**
@@ -1132,6 +1165,16 @@ async function main() {
   );
   console.log(`[triage] ${reconLine}`);
   console.log(`[triage] ${commentLine}`);
+  // HG14：窗口外還有人時,結論的位置要說「沒看完」（seed 模式沒有窗口,不印）。
+  const unfinishedLine = args.seed
+    ? null
+    : formatWindowUnfinished({
+        fetched: fetchedCount,
+        limit: args.limit,
+        total: queueTotal,
+        limitExplicit: args.limitExplicit,
+      });
+  if (unfinishedLine) console.log(unfinishedLine);
   return summary;
 }
 

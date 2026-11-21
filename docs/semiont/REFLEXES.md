@@ -4,9 +4,9 @@ description: '跨 session 程序記憶 catalog — 104 條 #N 反射（last #104
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v5.47'
+current_version: 'v5.48'
 last_updated: 2026-11-22
-last_session: '2026-11-22-031422-twmd-distill-weekly：加 #104 紅燈後面的每一步都沒跑過；零新編號 fold 十一處（#15 第 17 次、#38×2、#80、#96、#99 (j)(k)、#100×2、#102×2）'
+last_session: '2026-11-22-040840-twmd-self-evolve-weekly：零新編號，#15 第 18 次驗證、#104 與 #96 的候選各落地一件'
 sister_docs:
   - 'DNA.md'
   - 'LESSONS-INBOX.md'
@@ -439,7 +439,7 @@ Taiwan.md 實戰累積的反射——**跟模型無關**，任何 AI agent 做�
 
 - **觸發**：2026-04 起反覆浮現 → [DIARY §反覆出現的思考](DIARY.md#反覆出現的思考跨日記萃取)
 - **操作**：思考反覆 ≥ 3 次 → 升 canonical（dashboard 欄位 / cron / pre-commit hook / pipeline gate），不只記 memory/diary
-- **驗證**：17 次（每次 detail 不在此 inline，分散 memory / 對應 pipeline canonical）
+- **驗證**：18 次（每次 detail 不在此 inline，分散 memory / 對應 pipeline canonical）
   - #8（2026-04-18 δ-late）工具包升級 canonical 邊界重審 → SENSES v2 + REFLEXES #26 v2
   - #9（2026-04-18 ζ）觀察者 scaffolding 三句 → HEARTBEAT Beat 1 §0b + SPORE-LOG schema + HARVEST-PIPELINE 誕生
   - #10（2026-04-30 δ）批次任務 antipattern → TRANSLATION-PIPELINE v3.2 §平行 sub-agent SOP
@@ -449,6 +449,7 @@ Taiwan.md 實戰累積的反射——**跟模型無關**，任何 AI agent 做�
   - #15（2026-09-27 self-evolve-weekly，四條同週點名給本 routine 的交接，三條 vc≥3）intake 層的時效變體——探測器的建議登記進 ARTICLE-INBOX 後，INBOX 只有優先序沒有期限，過期切角跟常青題躺同一層（DIARY「里程碑≠兌現」vc=3：09-20 七條登記原地、09-27 李灝宇與拔河窗口無人決定地關掉）→ `Angle-expires` 欄＋`inbox-audit.py --angles`＋`inbox-signal.sh` ⌛ 行＋EVOLVE §news-lens-probe-output Step 7/8 hard gate（`25363705f`）。同班另三件把「寫了但沒接上」的東西接上：#100 未落地的 `prettier-url-stability` 檢查（`6c70b17f1`）、#100 (e) 索引殘影清理進 `verify-commit-scope.sh --head`（`9842dc4e6`）、news-lens CF per-path 缺口 vc=6（同一支查詢一直有 path 維度，只是聚合時丟了，`6b0d39249`）。四件的共同形狀：儀器缺的不是資料，是最後一段聚合或接線，缺口被記錄了六週都沒人回頭看那支查詢自己回傳了什麼
   - #16（2026-10-11 self-evolve-weekly，上週本 routine 沉默死亡，指名本席位的交接累積兩週）交接層的工具變體——四件 1-file 的工具改動各被原樣帶了八到十六班：`routine-sync.py` 先 fetch 比 origin 並印鏡像齡（十六輪、手動補驗十三次，`ff57f8815`；改的時候發現鏡像鍵名是 `cronExpression`、工具讀 `cron`，cron 漂移從誕生起沒比過）、`check-parallel-actor.sh` 看隔壁工作樹（09-25 起八班，`d95963c9c`）、心臟分開記新進庫（10-02 起九班，`64728864c`＋佇列 #99）、待決佇列編號唯一（`4cb858107`）。形狀跟 #13／#14 的雙峰一致：做得掉的一碰就做掉，四件合計不到兩小時；差別在這批全指名給同一個週班，週班停一次，整串就再等一週。每班照實寫「第 N 輪往下傳」本身是誠實的，它只是沒有讓任何一班把它做掉
   - #17（2026-11-22 twmd-distill-weekly fold，源 LESSONS `three-honest-instruments-leave-the-same-manual-step-ungated`，vc=2 structural）提醒層變體：站上回報的取數窗口預設 50 筆，10-30 那批 80 筆假回報長期佔住最舊的一截，真讀者排在窗口外。儀器連三輪進化（v1.16／v1.17／v1.18）都明寫「這一行讓當班知道該撈，不代替當班去撈」，界線劃得對（窗口開多大是閾值，OBSERVER-QUEUE #119），但「不改預設值」被當成「這個動作不需要閘門」一起處理了。11-17 窗口外積了七位讀者、最久坐六天，11-20 真讀者排在第 82 位（issue #2046），兩輪都靠當班想起交接裡那句話。前十六次驗證多半是連提醒都沒有，這次是有提醒、沒閘門：提醒是給知道的人看的，閘門是給忘記的人設的。自覺型步驟的失效率跟飛輪健康度綁在一起，飛輪停轉的那幾天正是最需要它的那幾天。候選（純取數面，未落地）：`triage.mjs` 收官行在窗口滿、外面還有 N 筆、且本次沒帶加大的 `--limit` 時印未完成標記
+  - #18（2026-11-22 self-evolve-weekly，本席位連三週沉默後第一班）#17 的候選當班落地：`triage.mjs` 收官行在窗口外還有人時印 `⛔ 未完成` 並給重跑指令（FEEDBACK-TRIAGE v1.19 HG14，`1eb5193e28`）。同班另兩件同形狀：#104 的步驟讀數進 `ci-main-health.sh`（`a6b6f88ec8`）、#96 第四 instance 的教訓改寫成 pytest（`227b7144be`，首跑掃到 `verify-batch.py` 一個給不給都一樣的刪檔旗標）。三件的規則在落地前都已寫清楚，缺的是把句子搬到收工時會讀的那一行或改寫成會紅的測試。HG14 仍是印出來的字，量得到的後續是下一次窗口外的讀者有沒有隔班才被看到
 - **元規則**：pipeline 自身會 silent inflate，需 meta-pipeline 維護 — 這是 #15 對 pipeline 結構層的 self-apply
 
 **#32 批次任務 antipattern：分散探索 → 集中預處理 + 分散執行** — 平行 N 個 sub-agent 跑同一份 prompt 處理同類任務 = 重複工作 ×N 且不累積。正確設計：主 session 預處理一次（產 batch manifest 寫死 slug / target map / placeholder 模板），sub-agent 只負責執行。
@@ -1204,7 +1205,7 @@ codex → openrouter:owl-alpha → openrouter:openai/gpt-oss-120b:free → gemin
 - **修法已驗證**：(1) 0 頁或 0 連結時判 `NOT-MEASURED`、exit 2（跟 FAIL 的 1 分開），印出該去跑 build，真 dist 回歸測試不變。(2) 命中後查最後一筆之後有沒有拿到活著的正面證據才降級，不因為沒看到證據而降級（窗口內沒排程 fire 時維持 critical）。
 - **操作**：任何 gate／checker／watchdog 的 review 加一問——「這支的註解裡寫了什麼失敗模式？那個失敗模式有對應的 early-exit 嗎？」沒有就補。可機械化的起點：grep `scripts/` 裡註解含「錯」「假」「坑」「不完整」「誤報」的檢查器，逐支確認有沒有對應出口。
 - **第三 instance：發現了、記錄了，但記錄的載體是註解，而註解不會傳話（2026-09-09 babel-vortex fold，源 LESSONS `documented-gate-never-wired-to-the-line` 的驗證段，vc=2）**：`openai/gpt-oss-120b:free` 已下架這件事早在 2026-07-24 就被寫進 `research-fleet.py` 的註解，原話還點名「(lang-sync's own default)」；發現它的那支工具自己撞到、自己記下、自己換掉 `DEFAULT_MODEL`，六週沒傳到 `translate.py` 那一行真正拿它當 cascade tier 2 預設的程式碼。比未接線更難察覺，因為它連「有一件事待辦」的痕跡都沒留，讀起來像已處理完的知識；放大係數來自同一個 slug 硬寫在七個檔案各一份。修法 `aa44c5990`：`backends/openrouter.py` 立 `DEFAULT_FREE_MODEL` 單一來源＋`openrouter-model-audit.py` 現查對賬（exit 1＝有 slug 下架）；造這支對賬器時第一版 regex 只掃 `:free` 字尾，漏掉引用最多的 `openrouter/owl-alpha`，閘門射程只蓋一半受災面，跟沒有閘門的差別只是它會給你綠燈。
-- **第四 instance：寫進 memory 三次，沒有人改那一行預設值（2026-11-22 twmd-distill-weekly fold，源 LESSONS `memory-records-the-landmine-three-times-and-nobody-moves-it`，vc=3 structural）**：`terminology-yaml-audit.py` 名字叫 audit，不給旗標就直接刪檔。08-30、11-18、11-19 三個 session 先後把它當唯讀工具跑，各刪掉 10 到 19 個詞條檔，三次都當場 `git checkout --` 救回、三次都寫進當天 memory（08-30 那份還寫了「名字帶 audit 的腳本不一定只是讀」），三次都沒進 LESSONS-INBOX，所以從沒累積 vc、從沒走到「該改哪一行」。第三班才改成預設只報告（`1d5a6ae5f`，照 repo 既有的 `--apply` 約定）。兩層：(1) memory 是個人日誌，只有剛好讀到那一天那一檔的人看得到，知識留在 memory 層跟留在註解層是同一件事；(2) 當場救回來的事故，結論永遠是「有驚無險，記一筆」，代價低到不值得修，於是每次都不修、每次都再來。判準改看它會不會再發生、下次有沒有人在場，不看損害大小；下一次可能落在一條用 `| tail` 讀輸出的無人 cron 裡。候選（確定性檢查，未落地）：全掃 `scripts/tools/` 找有 `unlink`／`os.remove`／`shutil.rmtree` 卻沒有 `--apply` 旗標的腳本，做成一條 pytest。
+- **第四 instance：寫進 memory 三次，沒有人改那一行預設值（2026-11-22 twmd-distill-weekly fold，源 LESSONS `memory-records-the-landmine-three-times-and-nobody-moves-it`，vc=3 structural）**：`terminology-yaml-audit.py` 名字叫 audit，不給旗標就直接刪檔。08-30、11-18、11-19 三個 session 先後把它當唯讀工具跑，各刪掉 10 到 19 個詞條檔，三次都當場 `git checkout --` 救回、三次都寫進當天 memory（08-30 那份還寫了「名字帶 audit 的腳本不一定只是讀」），三次都沒進 LESSONS-INBOX，所以從沒累積 vc、從沒走到「該改哪一行」。第三班才改成預設只報告（`1d5a6ae5f`，照 repo 既有的 `--apply` 約定）。兩層：(1) memory 是個人日誌，只有剛好讀到那一天那一檔的人看得到，知識留在 memory 層跟留在註解層是同一件事；(2) 當場救回來的事故，結論永遠是「有驚無險，記一筆」，代價低到不值得修，於是每次都不修、每次都再來。判準改看它會不會再發生、下次有沒有人在場，不看損害大小；下一次可能落在一條用 `| tail` 讀輸出的無人 cron 裡。~~候選（確定性檢查，未落地）：全掃 `scripts/tools/` 找有 `unlink`／`os.remove`／`shutil.rmtree` 卻沒有 `--apply` 旗標的腳本，做成一條 pytest。~~ → **已落地（2026-11-22 self-evolve）**：[`tests/test_readonly_named_tools_do_not_delete.py`](../../tests/test_readonly_named_tools_do_not_delete.py)，檔名讀起來像唯讀（audit／check／verify…）的 Python 工具有刪檔呼叫時必須有明確旗標或進帶理由的豁免清單。首跑就掃到同型的第二支：`verify-batch.py` 的 `--purge-empty` 是 `store_true` 配 `default=True`，給不給都刪、沒有任何方式叫它只報告，改成 `--no-purge-empty` 真的存在（預設行為不變）。射程：只看 Python 與檔名訊號，shell 工具與 `git rm` 不在內。
 - **相關**：#24（第 8 種，驗證器空輸出假 PASS）／#82（proxy signal）／#85（「不知道」需要自己的符號）／LESSONS `scaffold-window-has-no-qa`（造閘門當下能想到的邊界就是那一刻腦子裝得下的全部）
 
 **#97 交接面完整性 — 手上有事實不等於送進要動手的那一層（held-fact-never-crosses-into-the-layer-that-acts-on-it）**（2026-09-20 twmd-distill-weekly 升 canonical，vc=5 同一條 routine 五個載體，severity=structural；源 LESSONS `held-fact-never-crosses-into-the-layer-that-acts-on-it`＋subsume `mandatory-read-step-has-no-tool`）— 一條轉錄線可以完整保存某個事實（資料庫有、歸檔有、報表印得出來），卻沒把它送進下游真正要拿它動手的那一份產物裡。缺席的那塊不報錯、不變紅、不出現在任何對賬，因為所有對賬問的都是「該有幾份」，沒有一道在問「送到動手的人面前的那份，夠不夠他動手」。它只在有人真的要用時現形，而那個人通常是下一條 routine 或幾小時後的另一個 session，發現時上下文已經不在。
@@ -1289,11 +1290,13 @@ codex → openrouter:owl-alpha → openrouter:openai/gpt-oss-120b:free → gemin
 - **三個 instance（2026-10-10 → 10-24，同一條 routine）**：(1) 8 個投稿 PR 的 contracts 從 10-06 紅起，前兩班診斷成「繼承 main 上 `harvest/ui` 的公告紅，等 OBSERVER-QUEUE #94」。診斷有證據、方向也對，只是指錯位置：真正紅在第五步，`harvest/ui` 排第六步從沒輪到；`test:contracts`／`pytest`／`check:types` 四道真正檢查投稿者程式碼的閘門在這 8 個 PR 上四天沒跑過一次。改在乾淨 main 的 worktree 逐篇量，才抓到 #1797 有一題真的紅。(2) 10-23 `check:types && audit×4`，型別紅二十小時，四道 `npm audit` 全 skipped，本機 audit 全綠差點被讀成 CI 那層也綠。(3) 10-24 repo 根 audit 紅讓同一條 job 後面十一步 skipped，`cli` 的 vitest 自 10-08 掛上後一次都沒在 CI 跑過；互相獨立的步驟已加 `if: ${{ !cancelled() }}`，閘門強度不變，變的是一次看得到幾件事。
 - **規則**：(a) 讀到串行鏈上的紅，先問兩題再解釋它：紅在第幾步、它後面有幾步沒跑。`gh pr checks` 只給 job 層結論，要看 `actions/runs/<id>/jobs` 的 `.steps[].conclusion`。(b) 紅燈有一個聽起來正確的外部歸因（上游公告、別人的目錄、等一格待決）時特別小心：歸屬在庫外不代表後果在庫外，也不代表那是唯一的後果。(c) 往已經紅著的鏈尾端加新閘門，那道新閘門是 skipped，不算綠。(d) 不等 CI 也能量：站在乾淨基準線上把被蓋住的閘門逐道本機跑一次。(e) 互相獨立的檢查不要串成「前一個過了才跑」。
 - **跟鄰居的差別**：#103 是檢查器主動把一類對象排除出觀察；本條是鏈的結構讓後面的檢查沒機會執行，沒有任何一支檢查器做錯事。#85 講輸出符號分不出安全與不知道，本條的 skipped 有自己的符號，只是摘要層不呈現。#82 的說法是「有紅」被當成「已知道為什麼紅」的替身。#38 的說法是一個 job 結論同時承載「我的程式碼有問題」與「別人的目錄有問題」。
-- **未落地的候選**：`ci-main-health.sh` 對每條 job 多印「紅在第幾步、後面幾步 skipped」，skipped > 0 用獨立符號；`pr-ci-armed.sh` 加第四態「有 check-run、跑了、關鍵步驟是 skipped」；每個 workflow 的 `push` paths 是否包含自己的檔名（10-24 同日第三種形狀：改閘門定義的 commit 不會重跑那道閘門）。三者都是機械對賬，席位 `twmd-self-evolve-weekly`。
+- **已落地（2026-11-22 self-evolve）**：`ci-main-health.sh` 的 RED 列現在多印「job 紅在第幾步／共幾步」，後面被跳過的步驟用 ⏭ 列名並計進尾端統計，步驟層取數失敗印 ❔ 沒量到（[`tests/test_ci_main_health_steps.py`](../../tests/test_ci_main_health_steps.py)）。首跑拿真實失敗 run 抽驗時抓到新讀數自己的假陽性：被跳過的三步全是 `Post Run actions/…` 收尾清理，已排除（#99）。射程：只到 step 層，同一步裡的 `&&` 鏈仍看不進去（MAINTAINER §Step 1.5c）。
+- **未落地的候選**：`pr-ci-armed.sh` 加第四態「有 check-run、跑了、關鍵步驟是 skipped」；每個 workflow 的 `push` paths 是否包含自己的檔名（10-24 同日第三種形狀：改閘門定義的 commit 不會重跑那道閘門）。三者都是機械對賬，席位 `twmd-self-evolve-weekly`。
 - **相關**：#103／#85／#82／#52／#38／#67（「已在 CI 跑過」要帶時間戳，10-21 為真、10-23 又不是）／[MAINTAINER-PIPELINE §Step 1.5c](../pipelines/MAINTAINER-PIPELINE.md)（`&&` 鏈那一半）／LESSONS `type-gate-lived-only-in-ci-while-routines-push-straight-to-main`（仍在 inbox，另一半教訓：閘門只響在沒人經過的房間）
 
 ---
 
+_v5.48 | 2026-11-22 twmd-self-evolve-weekly — 零新編號：#15 第 18 次驗證（回報窗口未完成標記 HG14）、#104 步驟讀數落地 `ci-main-health.sh`（剩 `pr-ci-armed.sh` 第四態與 workflow 自身 paths 兩個候選）、#96 第四 instance 的 pytest 落地並掃到 `verify-batch.py`。_
 _v5.47 | 2026-11-22 twmd-distill-weekly — 加 #104 紅燈後面的每一步都沒跑過（vc=3，串行閘門鏈的 skipped，fold 一條同族 entry）；零新編號 fold 十一處：#15 第 17 次驗證（有提醒沒閘門）、#38 兩處（「查不到」混兩種根因／metadata-stale 第 2 例查證標記）、#80 儀器輸出側、#96 第四 instance（memory 記了三次沒人改預設值）、#99 (j) 臨時尺誤差指向別人與 (k) 正控制跑在工具不檢查的地方、#100 兩個載體（Markdown 表格列／自己產線的接線）、#102 兩處（正確引用了錯的那一篇／閘門的射程）。週班連三週沉默後第一次 distill，§未消化 148→134。_
 _v5.44 | 2026-10-25 twmd-distill-weekly — 加 #103 把一類對象排除出判定不等於排除出觀察（vc=4，fold 家族層一例）；零新編號 fold 十處：#16 交接選項層、#24 極值會長大、#38 時間軸標籤＋分類器新狀態漏結論句、#52 pre-commit 讀不到這次訊息（08-28 變體的根因）、#58 產能變體、#85 UA 認不出算真人＋寫入端蓋章、#99 (i) 新儀器只被看過綠燈、#100 排程器設定檔載體。_
 _v5.42 | 2026-10-11 twmd-self-evolve-weekly — 零新編號：#15 第 16 次驗證（四件指名本席位、帶了八到十六班的工具改動落地：routine-sync 先問 origin＋cron 鍵名修正、平行偵測看隔壁工作樹、心臟新進庫欄位＋佇列 #99、待決佇列編號唯一）_
