@@ -34,11 +34,13 @@ image: '/article-images/geography/hsinchu-east-gate-2015.webp'
 imageCredit: 'Jiang / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Hsinchu_East_Gate_(0421).JPG'
+curation: 'incubating'
+curationReason: 'unverified'
 translatedFrom: 'Geography/新竹市.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:5b1e9a773d6dbaca'
+sourceCommitSha: 'be13f04522'
+sourceContentHash: 'sha256:a080d46f3075a396'
 sourceBodyHash: 'sha256:c9f1ea2022062b04'
-translatedAt: '2026-09-08T00:42:51+08:00'
+translatedAt: '2026-11-20T22:54:52.126989+00:00'
 ---
 
 # Thành Tân Trúc: Từ thành bằng tre năm 1733 đến cái nôi của TSMC năm 1980
@@ -204,17 +206,17 @@ Lần tới khi đến Tân Trúc, đừng chỉ nhìn vào các nhà máy bán 
 
 ## Đọc thêm
 
-- [Thành phố Cao Hùng](/vi/geography/keelung-city) — Chuỗi 22 thành phố pilot: Ký ức của thủ phủ cảng từ khi người Tây Ban Nha cắm cờ vào năm 1626 đến bến container lớn thứ bảy thế giới năm 1984, cũng có căn cứ mặt trận Chiến tranh Lạnh (Hiệp Hòa Đảo vs Không quân Tân Trúc) và vận mệnh thành phố cấp tỉnh.
-- [Thành phố Gia Nghĩa](/vi/geography/chiayi-city) — Chuỗi 22 thành phố: Thành phố cấp tỉnh cũng bị di dời khỏi thủ phủ (thành phố Gia Nghĩa chuyển đến Thái Bảo năm 1991 vs Tân Trúc chuyển đến Trúc Bắc năm 1989), so sánh hậu quả của việc phân chia thành phố và huyện.
-- [Huyện Miêu Lật](/vi/geography/miaoli-county) — Chuỗi 22 thành phố: Huyện lân cận tách ra từ Huyện Tân Trúc vào năm 1887, các khu công nghệ Sau Long và Đồng La đều ở Miêu Lật, sự lan tỏa ngành công nghiệp của Tân Trúc.
-- [Huyện Nam Đầu](/vi/geography/nantou-county) — Chuỗi 22 thành phố: Huyện duy nhất không giáp biển, có cấu trúc địa lý "quy mô $\neq$ tầm quan trọng" giống như Tân Trúc (Nam Đầu chống đỡ toàn bộ hệ thống núi miền Trung / Tân Trúc chống đỡ cụm bán dẫn).
-- [Thành phố Đào Viên](/vi/geography/taoyuan-city) — Hàng xóm phía bắc của Tân Trúc, ban đầu Viện Nghiên cứu Công nghiệp dự định thành lập ở Long Đàm, Đào Viên vào năm 1973, sau đó chọn Tân Trúc; khu công nghệ Chu Kho Long Đàm nằm giữa Đào Viên và Tân Trúc.
-- [Huyện Tân Trúc](/vi/geography/hsinchu-county) — Tách ra độc lập khỏi Thành phố Tân Trúc vào năm 1982, chuyển thủ phủ đến Trúc Bắc năm 1989, Hương Bảo Sơn là huyện lân cận nơi có nhà máy 2 nanomet của TSMC.
-- [Ngành công nghiệp bán dẫn Đài Loan](/technology/台灣半導體產業) — Lịch sử ngành công nghiệp hoàn chỉnh từ Viện Nghiên cứu Công nghiệp năm 1973 đến TSMC 2 nanomet năm 2025, Tân Trúc là tọa độ vật lý của tất cả các dòng thời gian này.
-- [TSMC](/companies/台積電) — Thành lập vào Khu Công nghệ Khoa học Tân Trúc năm 1987, bắt đầu sản xuất hàng loạt quy trình 2 nanomet tại nhà máy Bảo Sơn vào quý 4 năm 2025.
-- [Đài Loan trong Chiến tranh Lạnh](/history/冷戰時期的台灣) — Lịch sử hoạt động trinh sát của Đội Chim Dơi Đen và Đội Mèo Đen, căn cứ không quân Tân Trúc là trung tâm của lịch sử này.
-- [Khu Công nghệ Khoa học Đài Loan](/geography/台灣科學園區) — Lịch sử khu công nghệ hoàn chỉnh từ Tân Trúc năm 1980, Nam Kho năm 1996, Trung Kho năm 2003 đến siêu khu công nghệ Cao Hùng năm 2025.
-- [Lễ hội linh hồn Cửu Giáng ở Khê Lung](/culture/雞籠中元祭) — Thuộc hệ thống tín ngưỡng địa phương thời nhà Thanh cùng với Miếu Thành Hoàng Tân Trúc, so sánh nghi thức "thu nhận người chết" (Khê Lung thu linh hồn Pháp năm 1884 / Miếu Thành Hoàng Tân Trúc quản lý thần quỷ toàn đảo).
+- [Cơ Long](/vi/geography/keelung-city) — Pilot series 22 tỉnh/thành: ký ức thành phố cảng từ khi người Tây Ban Nha cắm cờ năm 1626 đến cảng container lớn thứ 7 thế giới năm 1984, giống như Tân Trúc cũng có căn cứ tiền tuyến Chiến tranh Lạnh (Hòa Bình Đảo Cơ Long vs căn cứ không quân Tân Trúc) và số phận thành phố trực thuộc tỉnh
+- [Ca Di](/vi/geography/chiayi-city) — Series 22 tỉnh/thành: cũng là thành phố trực thuộc tỉnh bị chia cắt do chính quyền huyện dời ra ngoài (1991 chính quyền huyện Ca Di dời đến Thái Bảo vs 1989 chính quyền huyện Tân Trúc dời đến Trúc Bắc), so sánh hậu quả của hai mô hình phân trị huyện-thành
+- [Miao Li](/vi/geography/miaoli-county) — Series 22 tỉnh/thành: huyện láng giềng tách ra từ huyện Tân Trúc năm 1887, cả khu vực Hậu Long và Đồng La của Khoa học園區 Tân Trúc đều ở Miao Li, sự lan tỏa công nghiệp từ Tân Trúc
+- [Nam Đầu](/vi/geography/nantou-county) — Series 22 tỉnh/thành: huyện duy nhất không giáp biển, giống như Tân Trúc cũng có cấu trúc địa lý "quy mô ≠ tầm quan trọng" (Nam Đầu gánh vác toàn bộ hệ thống dãy núi Trung Bộ / Tân Trúc gánh vác toàn bộ cụm tập trung bán dẫn)
+- [Đào Viên](/vi/geography/taoyuan-city) — Hàng xóm phía Bắc của Tân Trúc, khi Viện Nghiên cứu Công nghiệp thành lập năm 1973 ban đầu cân nhắc đặt tại Long Đàm Đào Viên, sau chọn Tân Trúc; khu vực Long Đàm của Khoa học園區 Tân Trúc nằm ngang qua giữa Đào Viên và Tân Trúc
+- [Huyện Tân Trúc](/vi/geography/hsinchu-county) — Tách độc lập từ thành phố Tân Trúc năm 1982, chính quyền huyện dời đến Trúc Bắc năm 1989, xã Bảo Sơn là nơi đặt nhà máy quy trình 2 nm của TSMC
+- [Ngành bán dẫn Đài Loan](/vi/technology/taiwan-semiconductor-industry) — Toàn bộ lịch sử ngành từ Viện Nghiên cứu Công nghiệp năm 1973 đến quy trình 2 nm của TSMC năm 2025, Tân Trúc là tọa độ vật lý của tất cả các trục thời gian đó
+- [TSMC](/vi/economy/tsmc) — Thành lập năm 1987 tại Khoa học園區 Tân Trúc, quý 4 năm 2025 quy trình 2 nm tại nhà máy Bảo Sơn khởi động sản xuất đại trà
+- [Đài Loan thời kỳ Chiến tranh Lạnh](/history/冷戰時期的台灣) — Lịch sử hành động trinh sát của Đội Chim Dơi Đen và Đội Mèo Đen, căn cứ không quân Tân Trúc là trung tâm của lịch sử này
+- [Khu công nghệ khoa học Đài Loan](/vi/technology/science-park-development) — Toàn bộ lịch sử khoa học園區: 1980 Tân Trúc, 1996 Nam Khoa, 2003 Trung Khoa, 2025 khu vực siêu lớn Cao Hùng
+- [Kê Lồng Trung Nguyên Tế](/culture/雞籠中元祭) — Cùng thuộc hệ thống tín ngưỡng địa phương thời Thanh với Miếu Thành Hoàng Tân Trúc, so sánh hai nghi thức "tiếp nhận người chết" (Cơ Long thu hồn lính Pháp năm 1884 / Miếu Thành Hoàng Tân Trúc quản thần quỷ toàn Đài)
 
 ## Nguồn hình ảnh
 
