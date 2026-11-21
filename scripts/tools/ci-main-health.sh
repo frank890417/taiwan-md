@@ -20,6 +20,8 @@
 #                    （只掛 pull_request，或 push 只綁 tag）→ 預期內，不是缺口
 #   BLOCKED          最後一次是 action_required／stale：沒跑成，不是跑壞了
 #   UNKNOWN(x)       GitHub 回了本工具不認得的 conclusion → 不假裝知道
+#   RED 底下的 ⏭    紅在第幾步、它後面幾步是 skipped（沒跑過，不算綠）；
+#                    步驟層取數失敗印 ❔ 沒量到，不印成「後面 0 步」
 #   NEVER-ON-MAIN ⚠️ 從沒在 main 上跑過，但它宣告了 push／schedule／
 #                    workflow_dispatch 這類 main 跑得到的觸發 → 接線可能斷了
 #
@@ -114,6 +116,56 @@ print("no")
 PY
 }
 
+# 一次 run 的 jobs JSON（stdin）→ 每條紅的 job 印「紅在第幾步／共幾步、後面幾步沒跑」。
+# 最後一行 `SKIPPED_TOTAL=N` 給呼叫端累計。輸入不是合法 JSON 就什麼都不印，
+# 呼叫端據此印「沒量到」。抽成函式是為了能離線測（tests/test_ci_main_health_steps.py）。
+red_step_report() {
+  python3 -c '
+import json, sys
+try:
+    doc = json.load(sys.stdin)
+    jobs = doc["jobs"]
+except Exception:
+    sys.exit(0)
+RED = {"failure", "cancelled", "timed_out", "startup_failure"}
+total_skipped = 0
+for job in jobs:
+    if job.get("conclusion") not in RED:
+        continue
+    steps = job.get("steps") or []
+    name = job.get("name", "?")
+    first = next((i for i, st in enumerate(steps) if st.get("conclusion") in RED), None)
+    if first is None:
+        concl = job.get("conclusion")
+        print(f"        ↳ job「{name}」{concl}，但 {len(steps)} 步裡沒有一步標成失敗（可能死在步驟之外）")
+        continue
+    after = steps[first + 1:]
+    # `Post Run actions/…` 是 action 的收尾清理，不是檢查；它們被跳過不代表有閘門沒跑
+    # （2026-11-22 首跑拿真實失敗 run 44187715701 抽驗時抓到：三步「沒跑過」全是收尾）。
+    skipped = [
+        st for st in after
+        if st.get("conclusion") == "skipped" and not st.get("name", "").startswith("Post ")
+    ]
+    also_red = [st for st in after if st.get("conclusion") in RED]
+    total_skipped += len(skipped)
+    red_name = steps[first].get("name", "?")
+    print(f"        ↳ job「{name}」紅在第 {first + 1}/{len(steps)} 步「{red_name}」")
+    if also_red:
+        print(f"          另有 {len(also_red)} 步也紅（帶 if 條件照跑的獨立檢查）：" + "、".join(st.get("name", "?")[:40] for st in also_red[:4]))
+    if skipped:
+        names = "、".join(st.get("name", "?") for st in skipped[:6])
+        more = f" …等 {len(skipped)} 步" if len(skipped) > 6 else ""
+        print(f"          ⏭ 它後面 {len(skipped)} 步沒跑過，不算綠：{names}{more}")
+print(f"SKIPPED_TOTAL={total_skipped}")
+'
+}
+
+# 給測試用：只把 stdin 的 jobs JSON 過一次 red_step_report，不打任何 API。
+if [ "${1:-}" = "--steps-from-stdin" ]; then
+  red_step_report
+  exit 0
+fi
+
 printf '%s\n' "════════ $BRANCH CI 健康 — $REPO ════════"
 
 red=0
@@ -122,6 +174,7 @@ blocked=0
 unknown=0
 stalepage=0
 offbranch_failed=0
+skipped_behind=0
 total=0
 
 while IFS=$'\t' read -r wid wname wpath; do
@@ -299,7 +352,24 @@ print(f'{h:.0f}h' if h < 48 else f'{h/24:.1f}d')
       "$BRANCH" "$filt_newest"
     stalepage=$((stalepage + 1))
   fi
-  [ "$state" = "RED            " ] && printf '        %s (%s)\n' "$url" "$concl"
+  if [ "$state" = "RED            " ]; then
+    printf '        %s (%s)\n' "$url" "$concl"
+    # 紅在第幾步、它後面有幾步沒跑（REFLEXES #104，2026-11-22 self-evolve）。
+    # job 層結論只有一個 fail，讀的人會去解釋那個紅；而串行鏈在第一個紅之後每一步
+    # 都是 skipped——10-06 起四天把「紅在第五步」診斷成排在第六步的上游公告、10-24
+    # 一個 audit 紅讓後面十一步（含 cli 的 vitest）一次都沒在 CI 跑過。skipped 用
+    # 自己的符號 ⏭ 並計進尾端統計，不折進 RED 那一個數字。取數失敗就說沒量到，
+    # 不印成「後面 0 步」（#85）。
+    steps_out=$(gh api "repos/$REPO/actions/runs/$runid/jobs?per_page=100" 2>/dev/null \
+      | red_step_report)
+    if [ -z "$steps_out" ]; then
+      printf '        ❔ 步驟層沒量到（jobs 取數失敗）— 紅在第幾步、後面蓋住幾步，這一列不知道\n'
+    else
+      printf '%s\n' "$steps_out" | sed '/^SKIPPED_TOTAL=/d'
+      n=$(printf '%s\n' "$steps_out" | sed -n 's/^SKIPPED_TOTAL=//p')
+      skipped_behind=$((skipped_behind + ${n:-0}))
+    fi
+  fi
 done < <(gh api "repos/$REPO/actions/workflows?per_page=100" \
   --jq '.workflows[] | select(.state=="active") | select(.path | startswith(".github/")) | "\(.id)\t\(.name)\t\(.path)"' 2>/dev/null)
 
@@ -312,6 +382,10 @@ fi
 if [ "$red" -gt 0 ]; then
   echo "  ⚠️ main 上有東西紅著。紅在 main 不會自己叫，它會等下一個路過的投稿 PR 替它背黑鍋"
   echo "     （2026-09-03 #1662 就是這樣中的）→ 本班 Stage 3.5 第一個 polish item。"
+fi
+if [ "$skipped_behind" -gt 0 ]; then
+  printf '  ⏭ 紅燈後面共 %s 步沒跑過。那些步驟的狀態是「沒執行」，修掉前面的紅之前，它們量的東西沒有人量。\n' "$skipped_behind"
+  echo "     不等 CI 也能量：站在乾淨 main 上把被蓋住的那幾道逐道本機跑一次（REFLEXES #104 (d)）。"
 fi
 if [ "$never" -gt 0 ]; then
   echo "  ⚠️ 有 workflow 宣告了 main 跑得到的觸發卻從沒在 main 上跑過 — 先查 paths filter 與分支條件。"

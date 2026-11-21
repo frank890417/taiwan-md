@@ -546,7 +546,7 @@ bash scripts/tools/ci-main-health.sh --strict # 有 RED 就 exit 1
 
 #### Step 1.5c: 紅在 `npm audit` 時，一次看完四道而不是一個個撞（v2.16，2026-10-08）
 
-`ci-main-health.sh` 會告訴你 **Engineering contracts 紅了**，不會告訴你紅在哪一道 audit、後面還有幾道同型的在排隊。那條 job 有**四道** `npm audit --audit-level=high`（repo 根＋`harvest/ui`＋`harvest/backend`＋`workers/mcp`），用 `&&` 串著：**第一道紅了後面三道根本沒跑**，所以修好第一個看到的那個，紅燈只是移到下一格，讀起來像沒修好。10-02 那班踩過一次（修了 root，紅燈移到 `harvest/ui`）。
+`ci-main-health.sh` 會告訴你 **Engineering contracts 紅了**，2026-11-22 起也會印「紅在第幾步、後面幾步被跳過（⏭）」；它看得到 step 層，看不進同一步裡的 `&&` 鏈，所以不會告訴你紅在哪一道 audit、後面還有幾道同型的在排隊。那條 job 有**四道** `npm audit --audit-level=high`（repo 根＋`harvest/ui`＋`harvest/backend`＋`workers/mcp`），用 `&&` 串著：**第一道紅了後面三道根本沒跑**，所以修好第一個看到的那個，紅燈只是移到下一格，讀起來像沒修好。10-02 那班踩過一次（修了 root，紅燈移到 `harvest/ui`）。
 
 ```bash
 bash scripts/tools/npm-audit-sweep.sh            # 四道一次報完，永遠 exit 0
