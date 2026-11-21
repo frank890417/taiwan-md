@@ -32,6 +32,7 @@ import {
   partitionExcluded,
   shouldPrintIntakeDisambiguation,
   formatQueueWindow,
+  formatWindowUnfinished,
   formatShowMissing,
   selectForShow,
   formatForShow,
@@ -1022,4 +1023,64 @@ test('formatIntakeHealth: 登入這條路沒量到時,OAuth 不准從未涵蓋�
     layers: [{ name: '登入這條路', state: 'unknown', detail: '戳不到' }],
   });
   assert.match(out, /OAuth/);
+});
+
+// ── HG14：收官行的「沒看完」標記（REFLEXES #15 第 17 次驗證:有提醒沒閘門）──────────
+
+test('formatWindowUnfinished: 窗口沒滿 → 不印（整批讀進來了,這一輪看完了）', () => {
+  assert.equal(
+    formatWindowUnfinished({ fetched: 3, limit: 50, total: 3 }),
+    null,
+  );
+  assert.equal(
+    formatWindowUnfinished({ fetched: 0, limit: 50, total: 0 }),
+    null,
+  );
+});
+
+test('formatWindowUnfinished: 預設窗口滿且外面還有 → ⛔ 未完成 + 直接給重跑的 --limit（11-20 真讀者排第 82 位）', () => {
+  const line = formatWindowUnfinished({ fetched: 50, limit: 50, total: 82 });
+  assert.match(line, /⛔ 未完成/);
+  assert.match(line, /預設窗口 50/);
+  assert.match(line, /50\/82/);
+  assert.match(line, /窗口外 32 筆/);
+  assert.match(line, /--limit 82/);
+});
+
+test('formatWindowUnfinished: 帶了 --limit 仍不夠大 → 照樣未完成（加大過不等於看完）', () => {
+  const line = formatWindowUnfinished({
+    fetched: 60,
+    limit: 60,
+    total: 82,
+    limitExplicit: true,
+  });
+  assert.match(line, /⛔ 未完成/);
+  assert.match(line, /這次帶的 --limit 60/);
+  assert.match(line, /--limit 82/);
+});
+
+test('formatWindowUnfinished: 窗口剛好等於總數 → 不印（外面沒有人,不製造假警報）', () => {
+  assert.equal(
+    formatWindowUnfinished({
+      fetched: 82,
+      limit: 82,
+      total: 82,
+      limitExplicit: true,
+    }),
+    null,
+  );
+});
+
+test('formatWindowUnfinished: 窗口滿而總數查不到 → 未完成,而且不假裝知道外面幾筆（#85）', () => {
+  const line = formatWindowUnfinished({ fetched: 50, limit: 50, total: null });
+  assert.match(line, /⛔ 未完成/);
+  assert.match(line, /總數查不到/);
+  assert.ok(!/窗口外 \d+ 筆/.test(line));
+});
+
+test('parseArgs: --limit 有帶才算 limitExplicit（預設 50 不算當班加大過）', () => {
+  assert.equal(parseArgs(['node', 'triage.mjs']).limitExplicit, false);
+  const a = parseArgs(['node', 'triage.mjs', '--limit', '200']);
+  assert.equal(a.limit, 200);
+  assert.equal(a.limitExplicit, true);
 });

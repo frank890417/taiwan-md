@@ -3,9 +3,9 @@ title: 'FEEDBACK-TRIAGE-PIPELINE'
 description: '讀者站上回報（Supabase）→ 分類/反 spam/去重 → GitHub issue（對齊既有 template）→ 接 MAINTAINER 飛輪。cron routine twmd-feedback-triage 的 canonical SOP。'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.18'
-last_updated: 2026-11-07
-last_session: '2026-11-07-twmd-feedback-triage（`--show` 讀不到窗口外的人時不再說「根本沒查到這筆」——HG13 的讀取入口自己也被窗口擋著）'
+current_version: 'v1.19'
+last_updated: 2026-11-22
+last_session: '2026-11-22-twmd-self-evolve-weekly（HG14：窗口外還有人時收官行印「未完成」並給重跑指令）'
 sister_docs:
   - 'MAINTAINER-PIPELINE.md'
 upstream_canonical:
@@ -472,23 +472,24 @@ justfont 共同創辦人 21 連勘誤（consolidated 進 [issue #1145](https://g
 
 ## Hard gate 總表
 
-| #     | Gate                                                                                 | Stage |
-| ----- | ------------------------------------------------------------------------------------ | ----- |
-| HG1   | BECOME review mode ACK                                                               | 0     |
-| HG2   | issue body 無 email（PII）                                                           | 3     |
-| HG3   | 讀者文字 verbatim,不改寫                                                             | 3     |
-| HG4   | 每 issue 帶 feedback id provenance                                                   | 3     |
-| HG5   | spam reject 不開 issue                                                               | 2     |
-| HG6   | dedupe（batch + 既有 issue）                                                         | 2     |
-| HG7   | status 回寫正確（filed/rejected/skip 不動）                                          | 4     |
-| HG8   | 不以維護者身份回覆/close/merge（留人類 gate）                                        | all   |
-| HG9   | 讀者自由文字淨化 + tilde fence（隱形字元剝除；可見文字一字不改）                     | 2-3   |
-| HG10  | suspected injection → `security-review` label + banner + 人類 gate，不 auto-act      | 2-3   |
-| HG11  | 機器身份：`GH_TOKEN` 必須是 `ghs_` 開頭的 App installation token（空值/缺失停手）    | 0-3   |
-| HG12  | git archive 主權層：filed 紀錄落進 `docs/feedback/archive/`（收官前 `git add`）      | 4.5   |
-| HG12b | 對賬 filed 筆數 vs git 紀錄份數（`archive-reconcile=N/M`）；unavailable ≠ 對得起來   | 4.5   |
-| HG12c | 對賬 §溝通紀錄 則數 vs 線上留言則數（`comment-reconcile=N/M`）；抓不到 ≠ 對得起來    | 4.5   |
-| HG13  | 讀全文（`--show <id>`）才判斷；攔一筆用 `--exclude <id>` 跑完 `--commit`，不整條不跑 | 1-4.5 |
+| #     | Gate                                                                                            | Stage |
+| ----- | ----------------------------------------------------------------------------------------------- | ----- |
+| HG1   | BECOME review mode ACK                                                                          | 0     |
+| HG2   | issue body 無 email（PII）                                                                      | 3     |
+| HG3   | 讀者文字 verbatim,不改寫                                                                        | 3     |
+| HG4   | 每 issue 帶 feedback id provenance                                                              | 3     |
+| HG5   | spam reject 不開 issue                                                                          | 2     |
+| HG6   | dedupe（batch + 既有 issue）                                                                    | 2     |
+| HG7   | status 回寫正確（filed/rejected/skip 不動）                                                     | 4     |
+| HG8   | 不以維護者身份回覆/close/merge（留人類 gate）                                                   | all   |
+| HG9   | 讀者自由文字淨化 + tilde fence（隱形字元剝除；可見文字一字不改）                                | 2-3   |
+| HG10  | suspected injection → `security-review` label + banner + 人類 gate，不 auto-act                 | 2-3   |
+| HG11  | 機器身份：`GH_TOKEN` 必須是 `ghs_` 開頭的 App installation token（空值/缺失停手）               | 0-3   |
+| HG12  | git archive 主權層：filed 紀錄落進 `docs/feedback/archive/`（收官前 `git add`）                 | 4.5   |
+| HG12b | 對賬 filed 筆數 vs git 紀錄份數（`archive-reconcile=N/M`）；unavailable ≠ 對得起來              | 4.5   |
+| HG12c | 對賬 §溝通紀錄 則數 vs 線上留言則數（`comment-reconcile=N/M`）；抓不到 ≠ 對得起來               | 4.5   |
+| HG13  | 讀全文（`--show <id>`）才判斷；攔一筆用 `--exclude <id>` 跑完 `--commit`，不整條不跑            | 1-4.5 |
+| HG14  | 收官行出現 `⛔ 未完成`（窗口外還有人／總數查不到）＝本輪沒看完，照行內 `--limit N` 重跑才准收官 | 1-5   |
 
 > **健檢自己的正控制（2026-10-12 v1.14）**：`--intake-health` 的 `⚠️`／`❔` 兩態平常不出現在線上，用 `FEEDBACK_HEALTH_SITE` 把出貨的程式碼指向刻意壞掉的目標驗一次（§讀者送不送得進來）。四條分支 2026-10-12 全部確認會叫。
 
@@ -497,6 +498,8 @@ justfont 共同創辦人 21 連勘誤（consolidated 進 [issue #1145](https://g
 完整 script：[scripts/feedback/triage.mjs](../../scripts/feedback/triage.mjs) + [lib/classify.mjs](../../scripts/feedback/lib/classify.mjs)。測試：`node --test scripts/feedback/triage.test.mjs`。
 
 ---
+
+_v1.19 | 2026-11-22 twmd-self-evolve-weekly — **窗口外還有人時，結論的位置要說「沒看完」（HG14）**。v1.16／v1.17／v1.18 三輪都把「窗口外還有 N 筆」印在報表開頭並明寫「這一行讓當班知道該撈，不代替當班去撈」；界線劃得對（窗口開多大是閾值，[OBSERVER-QUEUE](../semiont/OBSERVER-QUEUE.md) #119），但加大窗口這個動作本身從此沒有閘門。11-17 窗口外坐了七位讀者、最久六天，11-20 真讀者排在第 82 位（issue #2046），兩輪都靠當班想起交接裡那句話（[REFLEXES #15](../semiont/REFLEXES.md) 第 17 次驗證）。`formatWindowUnfinished()` 純函式＋6 unit test：窗口滿且外面還有人，或窗口滿而總數查不到，`[triage] done` 之後多印一行 `⛔ 未完成` 並直接給出重跑用的 `--limit N`；帶了 `--limit` 仍不夠大照樣印，窗口剛好等於總數不印。不自己加大窗口、不改預設值、不改 exit code、不碰判準，HG8 不動；預設值仍是 #119 的 (b)。**量得到的後續**：之後若仍有窗口外的讀者隔班才被看到，量的是 `⛔` 這一行有沒有人讀，那時候再談 exit code。_
 
 _v1.18 | 2026-11-07 twmd-feedback-triage routine — **HG13 的讀取入口自己也被窗口擋著**。v1.17 昨天讓 dry-run 報表說出「窗口外還有 N 筆」，今天照那條交接加大 `--limit` 撈窗口外，撈到三筆真實讀者（第 82-84 位，同一位 `菜國人`）。把那三個 id 丟給 `--show` 讀全文時，回的是「**根本沒查到這筆**」——而那句話是 v1.7 為「id 打錯」寫的。`--show` 跟 dry-run 共用同一個 `--limit`，所以排在窗口外的人它讀不到，兩種根因在輸出上逐字相同而處置相反。這一格最尖銳的地方是它長在 HG13 身上：那道閘門存在的理由就是「讀完全文才准判」，而它對窗口外的讀者說的是「這個人不存在」（[REFLEXES #38](../semiont/REFLEXES.md) 混維度在「查不到」三個字上的形狀；[#16](../semiont/REFLEXES.md) 否定式結論無法被自己的失敗證偽——肯定式斷言讀了原文，否定式斷言只用了一個被截斷的窗口）。`formatShowMissing()` 純函式 + 4 unit test（98/98 綠），四種讀數分開：窗口沒滿（整批讀進來了，所以真的是 id 不在）／窗口滿且外面還有（可能就排在外面，叫人加大 `--limit`）／窗口滿但總數查不到（分不出哪一種，不替任一根因背書）／窗口剛好等於總數（外面沒有剩餘）。**先驗再用**（[#99](../semiont/REFLEXES.md)）：落地後兩條分支各跑一次真實讀數——窗口外的真 id 回「可能排在外面」、`--limit 200` 讀完整批時假 id 回「這個 id 不在 status=new」；同一個真 id 加大窗口後確實印出全文（正控制，證明那句「可能排在外面」不是空話）。這道 wiring 檢查是 11-05 那條 LESSONS `dry-run-gate-catches-the-pipelines-own-edit` 的直接套用：單元測試測得到判準，測不到判準有沒有被接上（[#100](../semiont/REFLEXES.md)）；本輪落地在 `--commit` 之後，之後不再跑 `--commit`。純讀取面、不改預設值、不自己加大窗口、不碰判準、不碰閾值、不對外開口，HG8 不動。**沒做到的誠實記下**：偵測器欄位射程與 pattern 族、那 81 筆怎麼收尾仍是 #119 的 (a)(b)，第六天。_
 _v1.17 | 2026-11-06 twmd-feedback-triage routine — **取數窗口滿了會自己說窗口外還有幾筆**。v1.16 昨天讓「這一輪沒有東西要轉錄」時印出消歧三行，於是報表第一次自己說出「門沒壞，是佇列被塞住」。今天這句話的第二半現形：佇列被塞住的時候，**被塞在外面的是真實讀者**。第五輪照交接加大 `--limit` 撈窗口外，撈到〈台北吸菸室〉一位署名醫師（臺大醫院家庭醫學部）的勘誤，排在第 82 位、送出距今 6 小時——他指出我們把拒菸聯盟記者會引用的論文認錯成同一作者另一篇（2023 年閉鎖型 vs 2024 年屋外喫煙所），並附了 PDF 與記者會原文。前一輪的報告寫「今天沒有新讀者被擋住，但那是運氣，不是機制」，運氣隔一天就用完。預設窗口 50 筆、排序最舊優先、攻擊列永久佔住最舊 50 筆，三件事湊起來讓新讀者結構性地排在窗口外，而 `fetched 50` 跟「佇列剛好 50 筆」逐字相同（[REFLEXES #38](../semiont/REFLEXES.md) 混維度在「窗口滿」這個數字上的形狀——它同時是「全部讀到了」與「只讀到最舊的一截」）。`formatQueueWindow()` 純函式 + 5 unit test（94/94 綠），總數由同一請求的 `Prefer: count=exact` 帶回，不多打一次 Supabase；查不到就說查不到。**先驗再用**（[REFLEXES #99](../semiont/REFLEXES.md)）：落地後兩種窗口各跑一次真實讀數——預設 50 印「共 81 筆 · 窗口外還有 31 筆」、`--limit 200` 讀進 81 筆整行不印。這道 wiring 檢查是昨天那條 LESSONS `dry-run-gate-catches-the-pipelines-own-edit` 的直接套用：單元測試測得到判準，測不到判準有沒有被接上（[#100](../semiont/REFLEXES.md)）。純讀取面、不改預設值、不自己加大窗口、不碰判準、不碰閾值、不對外開口，HG8 不動。**沒做到的誠實記下**：窗口該開多大、那 80 筆怎麼收尾仍是 #119 的 (b)，這一行只讓當班知道該撈，不代替當班去撈。_
