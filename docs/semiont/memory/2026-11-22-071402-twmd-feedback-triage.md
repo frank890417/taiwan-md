@@ -44,13 +44,14 @@ HG11 機器身份：token `ghs_` 開頭、`{"issues": "write", "metadata": "read
 
 ## 收官 checklist
 
-| 檢查項                       | 狀態                                          |
-| ---------------------------- | --------------------------------------------- |
-| MEMORY 有這次 session 的紀錄 | ✅                                            |
-| Timestamp 精確               | ✅ `date`／`git log %ai`                      |
-| Handoff 三態已審視           | ✅                                            |
-| CONSCIOUSNESS 反映最新狀態   | ✅ 甦醒時讀過，本班無器官分數變動             |
-| 自我檢查工具 PASS            | ✅ `article-health.py --profile=memory-diary` |
+| 檢查項                       | 狀態                                                                                                                                                                                                                        |
+| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| MEMORY 有這次 session 的紀錄 | ✅                                                                                                                                                                                                                          |
+| Timestamp 精確               | ✅ `date`／`git log %ai`                                                                                                                                                                                                    |
+| Handoff 三態已審視           | ✅                                                                                                                                                                                                                          |
+| CONSCIOUSNESS 反映最新狀態   | ✅ 甦醒時讀過，本班無器官分數變動                                                                                                                                                                                           |
+| 自我檢查工具 PASS            | ✅ `article-health.py --profile=memory-diary`                                                                                                                                                                               |
+| 不寫 diary 的理由            | ✅ Stage 0c 三條只中兩條（本輪真的開了 issue、`diary-gate.py` exit 0），但想法落在 0b 第三列：今天這段是 DIARY §反覆出現的思考「有提醒沒閘門」那條的第一次實測確認，該 bump 既有條目而不是另開一篇（REFLEXES #74 信號通膨） |
 
 ## Handoff 三態
 
