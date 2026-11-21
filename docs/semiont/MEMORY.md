@@ -324,3 +324,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-22 | 040840-twmd-self-evolve-weekly | 連三週沒跑後補上：回報窗口外還有人時收官行印未完成、CI 紅燈印紅在第幾步與後面幾步沒跑、唯讀名字的工具刪檔由測試看著，三件上 main | 新讀數的假陽性只有真實失敗 run 抓得到，自造測試資料帶著自己的想像 | [→](memory/2026-11-22-040840-twmd-self-evolve-weekly.md) |
 | 2026-11-22 | 053914-twmd-routine-sync | 例行對賬：prompt 19/19 一致，排程器直讀十八條 cron／開關零漂移，連五天；週日鏈四條起跑，weekly-report 02:03 後無痕跡 | 起跑時間戳四條長得一樣，只有 commit 分得出誰做完 | [→](memory/2026-11-22-053914-twmd-routine-sync.md) |
 | 2026-11-22 | 060305-twmd-data-refresh-am | 早班刷新十四步全過、15 個 dashboard 0 stale；`refresh-data.sh` 改成自己偵測 babel 寫手、不落後 origin 時自動跳過暫存；房貸負擔率仍只有 115Q1 | 只住在 memory 裡的分支第三班就漏，搬進腳本才不靠人記得 | [→](memory/2026-11-22-060305-twmd-data-refresh-am.md) |
+| 2026-11-22 | 051505-twmd-embeddings-nightly | 恢復後第五夜完整重建：13 語 15,362 向量零失敗、verify PASS，`f765c94943`；每語 252〜285 秒，回到前三夜水準；甦醒時先併掉落後的 4 個 commit | 交接寫在哪份 memory，就只有讀那份的席位看得到 | [→](memory/2026-11-22-051505-twmd-embeddings-nightly.md) |
