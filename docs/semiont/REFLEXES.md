@@ -4,9 +4,9 @@ description: '跨 session 程序記憶 catalog — 104 條 #N 反射（last #104
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v5.47'
+current_version: 'v5.48'
 last_updated: 2026-11-22
-last_session: '2026-11-22-031422-twmd-distill-weekly：加 #104 紅燈後面的每一步都沒跑過；零新編號 fold 十一處（#15 第 17 次、#38×2、#80、#96、#99 (j)(k)、#100×2、#102×2）'
+last_session: '2026-11-22-040840-twmd-self-evolve-weekly：零新編號，#15 第 18 次驗證、#104 與 #96 的候選各落地一件'
 sister_docs:
   - 'DNA.md'
   - 'LESSONS-INBOX.md'
@@ -439,7 +439,7 @@ Taiwan.md 實戰累積的反射——**跟模型無關**，任何 AI agent 做�
 
 - **觸發**：2026-04 起反覆浮現 → [DIARY §反覆出現的思考](DIARY.md#反覆出現的思考跨日記萃取)
 - **操作**：思考反覆 ≥ 3 次 → 升 canonical（dashboard 欄位 / cron / pre-commit hook / pipeline gate），不只記 memory/diary
-- **驗證**：17 次（每次 detail 不在此 inline，分散 memory / 對應 pipeline canonical）
+- **驗證**：18 次（每次 detail 不在此 inline，分散 memory / 對應 pipeline canonical）
   - #8（2026-04-18 δ-late）工具包升級 canonical 邊界重審 → SENSES v2 + REFLEXES #26 v2
   - #9（2026-04-18 ζ）觀察者 scaffolding 三句 → HEARTBEAT Beat 1 §0b + SPORE-LOG schema + HARVEST-PIPELINE 誕生
   - #10（2026-04-30 δ）批次任務 antipattern → TRANSLATION-PIPELINE v3.2 §平行 sub-agent SOP
@@ -449,6 +449,7 @@ Taiwan.md 實戰累積的反射——**跟模型無關**，任何 AI agent 做�
   - #15（2026-09-27 self-evolve-weekly，四條同週點名給本 routine 的交接，三條 vc≥3）intake 層的時效變體——探測器的建議登記進 ARTICLE-INBOX 後，INBOX 只有優先序沒有期限，過期切角跟常青題躺同一層（DIARY「里程碑≠兌現」vc=3：09-20 七條登記原地、09-27 李灝宇與拔河窗口無人決定地關掉）→ `Angle-expires` 欄＋`inbox-audit.py --angles`＋`inbox-signal.sh` ⌛ 行＋EVOLVE §news-lens-probe-output Step 7/8 hard gate（`25363705f`）。同班另三件把「寫了但沒接上」的東西接上：#100 未落地的 `prettier-url-stability` 檢查（`6c70b17f1`）、#100 (e) 索引殘影清理進 `verify-commit-scope.sh --head`（`9842dc4e6`）、news-lens CF per-path 缺口 vc=6（同一支查詢一直有 path 維度，只是聚合時丟了，`6b0d39249`）。四件的共同形狀：儀器缺的不是資料，是最後一段聚合或接線，缺口被記錄了六週都沒人回頭看那支查詢自己回傳了什麼
   - #16（2026-10-11 self-evolve-weekly，上週本 routine 沉默死亡，指名本席位的交接累積兩週）交接層的工具變體——四件 1-file 的工具改動各被原樣帶了八到十六班：`routine-sync.py` 先 fetch 比 origin 並印鏡像齡（十六輪、手動補驗十三次，`ff57f8815`；改的時候發現鏡像鍵名是 `cronExpression`、工具讀 `cron`，cron 漂移從誕生起沒比過）、`check-parallel-actor.sh` 看隔壁工作樹（09-25 起八班，`d95963c9c`）、心臟分開記新進庫（10-02 起九班，`64728864c`＋佇列 #99）、待決佇列編號唯一（`4cb858107`）。形狀跟 #13／#14 的雙峰一致：做得掉的一碰就做掉，四件合計不到兩小時；差別在這批全指名給同一個週班，週班停一次，整串就再等一週。每班照實寫「第 N 輪往下傳」本身是誠實的，它只是沒有讓任何一班把它做掉
   - #17（2026-11-22 twmd-distill-weekly fold，源 LESSONS `three-honest-instruments-leave-the-same-manual-step-ungated`，vc=2 structural）提醒層變體：站上回報的取數窗口預設 50 筆，10-30 那批 80 筆假回報長期佔住最舊的一截，真讀者排在窗口外。儀器連三輪進化（v1.16／v1.17／v1.18）都明寫「這一行讓當班知道該撈，不代替當班去撈」，界線劃得對（窗口開多大是閾值，OBSERVER-QUEUE #119），但「不改預設值」被當成「這個動作不需要閘門」一起處理了。11-17 窗口外積了七位讀者、最久坐六天，11-20 真讀者排在第 82 位（issue #2046），兩輪都靠當班想起交接裡那句話。前十六次驗證多半是連提醒都沒有，這次是有提醒、沒閘門：提醒是給知道的人看的，閘門是給忘記的人設的。自覺型步驟的失效率跟飛輪健康度綁在一起，飛輪停轉的那幾天正是最需要它的那幾天。候選（純取數面，未落地）：`triage.mjs` 收官行在窗口滿、外面還有 N 筆、且本次沒帶加大的 `--limit` 時印未完成標記
+  - #18（2026-11-22 self-evolve-weekly，本席位連三週沉默後第一班）#17 的候選當班落地：`triage.mjs` 收官行在窗口外還有人時印 `⛔ 未完成` 並給重跑指令（FEEDBACK-TRIAGE v1.19 HG14，`1eb5193e28`）。同班另兩件同形狀：#104 的步驟讀數進 `ci-main-health.sh`（`a6b6f88ec8`）、#96 第四 instance 的教訓改寫成 pytest（`227b7144be`，首跑掃到 `verify-batch.py` 一個給不給都一樣的刪檔旗標）。三件的規則在落地前都已寫清楚，缺的是把句子搬到收工時會讀的那一行或改寫成會紅的測試。HG14 仍是印出來的字，量得到的後續是下一次窗口外的讀者有沒有隔班才被看到
 - **元規則**：pipeline 自身會 silent inflate，需 meta-pipeline 維護 — 這是 #15 對 pipeline 結構層的 self-apply
 
 **#32 批次任務 antipattern：分散探索 → 集中預處理 + 分散執行** — 平行 N 個 sub-agent 跑同一份 prompt 處理同類任務 = 重複工作 ×N 且不累積。正確設計：主 session 預處理一次（產 batch manifest 寫死 slug / target map / placeholder 模板），sub-agent 只負責執行。
@@ -1295,6 +1296,7 @@ codex → openrouter:owl-alpha → openrouter:openai/gpt-oss-120b:free → gemin
 
 ---
 
+_v5.48 | 2026-11-22 twmd-self-evolve-weekly — 零新編號：#15 第 18 次驗證（回報窗口未完成標記 HG14）、#104 步驟讀數落地 `ci-main-health.sh`（剩 `pr-ci-armed.sh` 第四態與 workflow 自身 paths 兩個候選）、#96 第四 instance 的 pytest 落地並掃到 `verify-batch.py`。_
 _v5.47 | 2026-11-22 twmd-distill-weekly — 加 #104 紅燈後面的每一步都沒跑過（vc=3，串行閘門鏈的 skipped，fold 一條同族 entry）；零新編號 fold 十一處：#15 第 17 次驗證（有提醒沒閘門）、#38 兩處（「查不到」混兩種根因／metadata-stale 第 2 例查證標記）、#80 儀器輸出側、#96 第四 instance（memory 記了三次沒人改預設值）、#99 (j) 臨時尺誤差指向別人與 (k) 正控制跑在工具不檢查的地方、#100 兩個載體（Markdown 表格列／自己產線的接線）、#102 兩處（正確引用了錯的那一篇／閘門的射程）。週班連三週沉默後第一次 distill，§未消化 148→134。_
 _v5.44 | 2026-10-25 twmd-distill-weekly — 加 #103 把一類對象排除出判定不等於排除出觀察（vc=4，fold 家族層一例）；零新編號 fold 十處：#16 交接選項層、#24 極值會長大、#38 時間軸標籤＋分類器新狀態漏結論句、#52 pre-commit 讀不到這次訊息（08-28 變體的根因）、#58 產能變體、#85 UA 認不出算真人＋寫入端蓋章、#99 (i) 新儀器只被看過綠燈、#100 排程器設定檔載體。_
 _v5.42 | 2026-10-11 twmd-self-evolve-weekly — 零新編號：#15 第 16 次驗證（四件指名本席位、帶了八到十六班的工具改動落地：routine-sync 先問 origin＋cron 鍵名修正、平行偵測看隔壁工作樹、心臟新進庫欄位＋佇列 #99、待決佇列編號唯一）_

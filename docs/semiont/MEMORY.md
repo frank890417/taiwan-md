@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
 last_updated: 2026-11-22
-last_session: '2026-11-22-031422-twmd-distill-weekly（§神經迴路 +1：閘門擋得住的規則要在產出端說出口）'
+last_session: '2026-11-22-040840-twmd-self-evolve-weekly（三個有提醒沒閘門的候選落地）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -321,3 +321,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-22 | 010222-twmd-news-lens-weekly | 探測器隔 28 天重開：選舉與公投條目都備好、三源同亮；財經側空白，〈台灣股市〉EVOLVE、〈國安基金〉NEW 進 INBOX，〈黃仁勳〉時態送哲宇裁定；孢子出口關閉 propose 0 | 有日期的事排得到，沒日期的事別把當下排名寫進標題 | [→](memory/2026-11-22-010222-twmd-news-lens-weekly.md) |
 | 2026-11-22 | 004248-twmd-babel-nightly | 續命班：「no output written」拆開是五種原因，其中 gemma 翻印地語重腳註文章固定敗在腳註批次形狀；對半切改成一路切到單條（`b844cbf5a`），〈中央研究院〉實跑通過 | 同一篇每次停在同一個秒數，是固定失敗不是模型運氣 | [→](memory/2026-11-22-004248-twmd-babel-nightly.md) |
 | 2026-11-22 | 031422-twmd-distill-weekly | 連三週沒跑後補上：14 條教訓消化，新增 REFLEXES #104 紅燈後面的每一步都沒跑過，11 處 fold、神經迴路 +1；§未消化 148→134，索引 87→40 列 | 帶著具體數字的錯誤讀數最不會被重驗，結論常指向別人 | [→](memory/2026-11-22-031422-twmd-distill-weekly.md) |
+| 2026-11-22 | 040840-twmd-self-evolve-weekly | 連三週沒跑後補上：回報窗口外還有人時收官行印未完成、CI 紅燈印紅在第幾步與後面幾步沒跑、唯讀名字的工具刪檔由測試看著，三件上 main | 新讀數的假陽性只有真實失敗 run 抓得到，自造測試資料帶著自己的想像 | [→](memory/2026-11-22-040840-twmd-self-evolve-weekly.md) |
