@@ -30,7 +30,16 @@ REPO = Path(__file__).resolve().parent.parent.parent.parent
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("manifest", nargs="?", default=None)
-    ap.add_argument("--purge-empty", action="store_true", default=True)
+    # 預設照舊清掉 0-byte 檔（agent 被中斷的指紋，TRANSLATION-PIPELINE v3.3 的既定行為）。
+    # 2026-11-22 前這裡是 `store_true` 配 `default=True`：旗標給不給都一樣，沒有任何方式
+    # 能叫它「只報告不刪」，而下面那句「use --purge-empty to delete」永遠走不到。
+    # 現在 `--no-purge-empty` 是真的（tests/test_readonly_named_tools_do_not_delete.py）。
+    ap.add_argument(
+        "--purge-empty",
+        action=argparse.BooleanOptionalAction,
+        default=True,
+        help="刪掉 manifest 裡的 0-byte 譯文（預設開；--no-purge-empty 只報告不刪）",
+    )
     ap.add_argument("--quiet", action="store_true")
     args = ap.parse_args()
 
@@ -56,7 +65,7 @@ def main():
                 p.unlink()
                 purged.append(a["en_path"])
             else:
-                errors.append(f"FAIL: 0-byte file (use --purge-empty to delete): {a['en_path']}")
+                errors.append(f"FAIL: 0-byte file（--no-purge-empty：只報告，沒刪）: {a['en_path']}")
     if purged:
         log(f"   Purged {len(purged)} 0-byte file(s):")
         for p in purged:
