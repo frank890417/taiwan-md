@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-21T08:39:21+08:00",
-    "zhCommitHead": "347825f85e",
-    "totalZh": 1192,
+    "lastUpdated": "2026-11-21T09:50:43+08:00",
+    "zhCommitHead": "e554a9e743",
+    "totalZh": 1193,
     "activeLanguages": [
       "en",
       "ja",
@@ -19,99 +19,99 @@
     ],
     "summary": {
       "en": {
-        "total_zh": 1192,
-        "fresh": 1188,
-        "stale": 3,
+        "total_zh": 1193,
+        "fresh": 1187,
+        "stale": 4,
         "metadata_stale": 1,
-        "missing": 0,
+        "missing": 1,
         "orphan": 0
       },
       "ja": {
-        "total_zh": 1192,
-        "fresh": 1185,
-        "stale": 5,
+        "total_zh": 1193,
+        "fresh": 1184,
+        "stale": 6,
         "metadata_stale": 2,
-        "missing": 0,
+        "missing": 1,
         "orphan": 0
       },
       "ko": {
-        "total_zh": 1192,
-        "fresh": 1183,
-        "stale": 6,
-        "metadata_stale": 3,
-        "missing": 0,
-        "orphan": 0
-      },
-      "es": {
-        "total_zh": 1192,
+        "total_zh": 1193,
         "fresh": 1182,
         "stale": 7,
         "metadata_stale": 3,
-        "missing": 0,
+        "missing": 1,
+        "orphan": 0
+      },
+      "es": {
+        "total_zh": 1193,
+        "fresh": 1182,
+        "stale": 8,
+        "metadata_stale": 2,
+        "missing": 1,
         "orphan": 0
       },
       "fr": {
-        "total_zh": 1192,
+        "total_zh": 1193,
         "fresh": 1182,
-        "stale": 6,
+        "stale": 7,
         "metadata_stale": 3,
         "missing": 1,
         "orphan": 0
       },
       "vi": {
-        "total_zh": 1192,
+        "total_zh": 1193,
         "fresh": 1172,
-        "stale": 15,
+        "stale": 16,
         "metadata_stale": 2,
         "missing": 3,
         "orphan": 0
       },
       "id": {
-        "total_zh": 1192,
-        "fresh": 1181,
-        "stale": 7,
+        "total_zh": 1193,
+        "fresh": 1180,
+        "stale": 8,
         "metadata_stale": 4,
-        "missing": 0,
+        "missing": 1,
         "orphan": 0
       },
       "pt": {
-        "total_zh": 1192,
-        "fresh": 1187,
-        "stale": 4,
+        "total_zh": 1193,
+        "fresh": 1186,
+        "stale": 5,
         "metadata_stale": 1,
-        "missing": 0,
+        "missing": 1,
         "orphan": 0
       },
       "hi": {
-        "total_zh": 1192,
+        "total_zh": 1193,
         "fresh": 1167,
-        "stale": 16,
+        "stale": 17,
         "metadata_stale": 4,
         "missing": 5,
         "orphan": 0
       },
       "ar": {
-        "total_zh": 1192,
+        "total_zh": 1193,
         "fresh": 1182,
-        "stale": 5,
+        "stale": 6,
         "metadata_stale": 3,
         "missing": 2,
         "orphan": 0
       },
       "ru": {
-        "total_zh": 1192,
-        "fresh": 1189,
-        "stale": 3,
+        "total_zh": 1193,
+        "fresh": 1188,
+        "stale": 4,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 1,
         "orphan": 0
       },
       "de": {
-        "total_zh": 1192,
-        "fresh": 1161,
-        "stale": 23,
+        "total_zh": 1193,
+        "fresh": 1160,
+        "stale": 24,
         "metadata_stale": 8,
-        "missing": 0,
+        "missing": 1,
         "orphan": 0
       }
     },
@@ -9148,7 +9148,20 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Economy/national-debt-clock.md",
+          "translatedFrom": "Economy/國債鐘.md",
+          "sourceCommitSha": "cd9d99cf71",
+          "sourceContentHash": "sha256:804cb929e49d0000",
+          "sourceBodyHash": "sha256:c90510ae0ea9b7ac",
+          "translatedAt": "2026-11-20T19:05:00+00:00",
+          "translationLastCommit": "db3c9d08",
+          "translationLastModified": "2026-11-21T02:48:40+08:00",
+          "inferred": false,
+          "footnoteDefs": 3,
+          "bytes": 14655,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Economy/national-debt-clock.md",
@@ -17743,7 +17756,20 @@
           "reason": "same-commit"
         },
         "fr": {
-          "status": "missing"
+          "path": "fr/Economy/tax-revenue-structure.md",
+          "translatedFrom": "Economy/稅收結構.md",
+          "sourceCommitSha": "7d5fb3745f",
+          "sourceContentHash": "sha256:e67421aeb01e9408",
+          "sourceBodyHash": "sha256:8127980ebbc69258",
+          "translatedAt": "2026-11-21T05:59:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 2,
+          "bytes": 20452,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -52761,7 +52787,20 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Lifestyle/nurse-staffing-ratios.md",
+          "translatedFrom": "Lifestyle/護理人力與三班護病比.md",
+          "sourceCommitSha": "c28899bced",
+          "sourceContentHash": "sha256:7337bd7c10671e85",
+          "sourceBodyHash": "sha256:e2329f0decf05477",
+          "translatedAt": "2026-11-20T18:50:00+00:00",
+          "translationLastCommit": "abc30082",
+          "translationLastModified": "2026-11-21T02:48:07+08:00",
+          "inferred": false,
+          "footnoteDefs": 4,
+          "bytes": 31414,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Lifestyle/nurse-staffing-ratios.md",
@@ -105561,10 +105600,10 @@
     },
     "People/黃氏兄弟.md": {
       "zh": {
-        "lastCommit": "22286539",
-        "lastModified": "2026-11-04T08:33:28+08:00",
-        "contentHash": "sha256:09c03ef57cbece0a",
-        "bodyHash": "sha256:3bfd8aa37bf0451b"
+        "lastCommit": "7d41e6f6",
+        "lastModified": "2026-11-21T08:52:43+08:00",
+        "contentHash": "sha256:1016352970b6d5c8",
+        "bodyHash": "sha256:68b9398b0dec02a8"
       },
       "translations": {
         "en": {
@@ -105580,8 +105619,8 @@
           "footnoteDefs": 13,
           "bytes": 11788,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (14→13)"
         },
         "ja": {
           "path": "ja/People/huang-brothers-youtubers.md",
@@ -105596,8 +105635,8 @@
           "footnoteDefs": 13,
           "bytes": 14387,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (14→13)"
         },
         "ko": {
           "path": "ko/People/huang-brothers-youtubers.md",
@@ -105612,8 +105651,8 @@
           "footnoteDefs": 13,
           "bytes": 12893,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (14→13)"
         },
         "es": {
           "path": "es/People/huang-brothers-youtubers.md",
@@ -105628,8 +105667,8 @@
           "footnoteDefs": 13,
           "bytes": 13336,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (14→13)"
         },
         "fr": {
           "path": "fr/People/huang-brothers-youtubers.md",
@@ -105644,8 +105683,8 @@
           "footnoteDefs": 13,
           "bytes": 13909,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (14→13)"
         },
         "vi": {
           "path": "vi/People/huang-brothers-youtubers.md",
@@ -105660,8 +105699,8 @@
           "footnoteDefs": 13,
           "bytes": 14962,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (14→13)"
         },
         "id": {
           "path": "id/People/huang-brothers-youtubers.md",
@@ -105676,8 +105715,8 @@
           "footnoteDefs": 13,
           "bytes": 12077,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (14→13)"
         },
         "pt": {
           "path": "pt/People/huang-brothers-youtubers.md",
@@ -105692,8 +105731,8 @@
           "footnoteDefs": 13,
           "bytes": 12278,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (14→13)"
         },
         "hi": {
           "path": "hi/People/huang-brothers-youtubers.md",
@@ -105708,8 +105747,8 @@
           "footnoteDefs": 13,
           "bytes": 24441,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (14→13)"
         },
         "ar": {
           "path": "ar/People/huang-brothers-youtubers.md",
@@ -105724,8 +105763,8 @@
           "footnoteDefs": 13,
           "bytes": 15978,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (14→13)"
         },
         "ru": {
           "path": "ru/People/huang-brothers-youtubers.md",
@@ -105740,8 +105779,8 @@
           "footnoteDefs": 13,
           "bytes": 17523,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (14→13)"
         },
         "de": {
           "path": "de/People/huang-brothers-youtubers.md",
@@ -105756,8 +105795,8 @@
           "footnoteDefs": 13,
           "bytes": 13087,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (14→13)"
         }
       }
     },
@@ -107436,20 +107475,18 @@
         "es": {
           "path": "es/People/zheng-nanrong.md",
           "translatedFrom": "People/鄭南榕.md",
-          "sourceCommitSha": "18157ab5d",
-          "sourceContentHash": "sha256:97d9bc4f07653a81",
+          "sourceCommitSha": "b1a5fea00e",
+          "sourceContentHash": "sha256:8c5f343cec62a07b",
           "sourceBodyHash": "sha256:91b4c7638f35fd2f",
-          "translatedAt": "2026-05-20T05:08:32+08:00",
+          "translatedAt": "2026-11-21T05:59:18+08:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "bytes": 15788,
+          "bytes": 14796,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+7 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/People/zheng-nanrong.md",
@@ -125366,6 +125403,52 @@
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "People/張峻.md": {
+      "zh": {
+        "lastCommit": "2ce1ef70",
+        "lastModified": "2026-11-21T08:49:43+08:00",
+        "contentHash": "sha256:e07144ca7ec7d09a",
+        "bodyHash": "sha256:2d7c745b2d69fe20"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        },
+        "de": {
+          "status": "missing"
         }
       }
     },
@@ -150408,8 +150491,8 @@
           "sourceContentHash": "sha256:015dd447dc8ae669",
           "sourceBodyHash": "sha256:9ab8023205bdc033",
           "translatedAt": "2026-11-20T22:58:50.546632+00:00",
-          "translationLastCommit": "5b0f4129",
-          "translationLastModified": "2026-10-10T23:03:20+08:00",
+          "translationLastCommit": "ee2d5e51",
+          "translationLastModified": "2026-11-21T08:39:21+08:00",
           "inferred": false,
           "footnoteDefs": 44,
           "bytes": 66816,
@@ -187523,7 +187606,20 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/History/dominican-order-taiwan.md",
+          "translatedFrom": "History/道明會在台灣.md",
+          "sourceCommitSha": "24f563e646",
+          "sourceContentHash": "sha256:1bd7703941e67723",
+          "sourceBodyHash": "sha256:15228d1d82684e84",
+          "translatedAt": "2026-11-21T02:25:00+08:00",
+          "translationLastCommit": "5ae6046a",
+          "translationLastModified": "2026-11-21T02:47:10+08:00",
+          "inferred": false,
+          "footnoteDefs": 3,
+          "bytes": 16723,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/History/dominican-order-taiwan.md",
