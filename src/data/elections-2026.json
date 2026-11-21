@@ -865,6 +865,10 @@
           "number": 2,
           "registeredOn": "2026-09-03",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
+          "article": {
+            "zh": "張峻",
+            "slug": "chang-chun"
+          },
           "numberSource": "https://www.cec.gov.tw/hlec/article/65438"
         },
         {
