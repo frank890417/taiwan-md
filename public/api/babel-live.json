@@ -1,223 +1,219 @@
 {
- "generated_at": "2026-10-09T01:01:08+08:00",
+ "generated_at": "2026-11-22T01:10:55+08:00",
  "producer": "scripts/tools/lang-sync/babel-pulse.py (launchd, 15min)",
- "snapshot_ts": "2026-10-09T01:00:59+08:00",
- "total_zh": 1125,
+ "snapshot_ts": "2026-11-22T01:10:46+08:00",
+ "total_zh": 1193,
  "langs": [
   {
    "lang": "en",
    "name": "English",
-   "fresh": 1125,
-   "stale": 0,
+   "fresh": 1189,
+   "stale": 4,
    "missing": 0,
    "coverage_pct": 100.0,
-   "fresh_delta": 1
+   "fresh_delta": 0
   },
   {
    "lang": "ja",
    "name": "日本語",
-   "fresh": 1125,
-   "stale": 0,
+   "fresh": 1187,
+   "stale": 6,
    "missing": 0,
    "coverage_pct": 100.0,
-   "fresh_delta": 1
+   "fresh_delta": 0
   },
   {
    "lang": "ko",
    "name": "한국어",
-   "fresh": 1125,
-   "stale": 0,
+   "fresh": 1185,
+   "stale": 8,
    "missing": 0,
    "coverage_pct": 100.0,
-   "fresh_delta": 1
+   "fresh_delta": 0
   },
   {
    "lang": "es",
    "name": "Español",
-   "fresh": 1125,
-   "stale": 0,
+   "fresh": 1185,
+   "stale": 8,
    "missing": 0,
    "coverage_pct": 100.0,
-   "fresh_delta": 1
+   "fresh_delta": 0
   },
   {
    "lang": "fr",
    "name": "Français",
-   "fresh": 1125,
-   "stale": 0,
+   "fresh": 1184,
+   "stale": 9,
    "missing": 0,
    "coverage_pct": 100.0,
-   "fresh_delta": 1
+   "fresh_delta": 0
   },
   {
    "lang": "vi",
    "name": "Tiếng Việt",
-   "fresh": 1125,
-   "stale": 0,
-   "missing": 0,
-   "coverage_pct": 100.0,
-   "fresh_delta": 1
+   "fresh": 1179,
+   "stale": 13,
+   "missing": 1,
+   "coverage_pct": 99.9,
+   "fresh_delta": 0
   },
   {
    "lang": "id",
    "name": "Indonesia",
-   "fresh": 1125,
-   "stale": 0,
+   "fresh": 1185,
+   "stale": 8,
    "missing": 0,
    "coverage_pct": 100.0,
-   "fresh_delta": 1
+   "fresh_delta": 0
   },
   {
    "lang": "pt",
    "name": "Português",
-   "fresh": 1125,
-   "stale": 0,
+   "fresh": 1188,
+   "stale": 5,
    "missing": 0,
    "coverage_pct": 100.0,
-   "fresh_delta": 1
+   "fresh_delta": 0
   },
   {
    "lang": "hi",
    "name": "हिन्दी",
-   "fresh": 1125,
-   "stale": 0,
-   "missing": 0,
-   "coverage_pct": 100.0,
-   "fresh_delta": 1
+   "fresh": 1177,
+   "stale": 14,
+   "missing": 2,
+   "coverage_pct": 99.8,
+   "fresh_delta": 0
   },
   {
    "lang": "ar",
    "name": "العربية",
-   "fresh": 1125,
-   "stale": 0,
-   "missing": 0,
-   "coverage_pct": 100.0,
-   "fresh_delta": 1
+   "fresh": 1186,
+   "stale": 6,
+   "missing": 1,
+   "coverage_pct": 99.9,
+   "fresh_delta": 0
   },
   {
    "lang": "ru",
    "name": "Русский",
-   "fresh": 1125,
-   "stale": 0,
+   "fresh": 1190,
+   "stale": 3,
    "missing": 0,
    "coverage_pct": 100.0,
-   "fresh_delta": 1
+   "fresh_delta": 0
   },
   {
    "lang": "de",
    "name": "de",
-   "fresh": 1125,
-   "stale": 0,
+   "fresh": 1162,
+   "stale": 31,
    "missing": 0,
    "coverage_pct": 100.0,
-   "fresh_delta": 1
+   "fresh_delta": 0
   }
  ],
- "gap_total": 0,
- "gap_delta": -12,
+ "gap_total": 119,
+ "gap_delta": 0,
  "rate_1h": {
-  "delta": 12,
-  "span_h": 24.29,
-  "per_hour": 0.5
+  "delta": 46,
+  "span_h": 24.26,
+  "per_hour": 1.9
  },
  "rate_24h": {
-  "delta": 12,
-  "span_h": 24.29,
-  "per_hour": 0.5
+  "delta": 46,
+  "span_h": 24.26,
+  "per_hour": 1.9
  },
- "eta_days": 0.0,
+ "eta_days": 2.6,
  "nodes": {
-  "worker:macm4max3": {
-   "ok": 24,
-   "fail": 26,
-   "avg_s": 505.6,
+  "worker:haiku3": {
+   "ok": 0,
+   "fail": 6,
+   "avg_s": null,
    "top_fail": [
     [
-     "currency[7]",
-     12
+     "no output written by tra",
+     5
     ],
     [
-     "no output written by tra",
-     8
+     "?",
+     1
     ]
    ],
-   "last_activity": "2026-10-09T00:49:40+08:00"
+   "last_activity": "2026-11-20T03:57:28+08:00"
   },
-  "worker:macm4max1": {
-   "ok": 25,
-   "fail": 36,
-   "avg_s": 504.3,
+  "worker:haiku2": {
+   "ok": 0,
+   "fail": 5,
+   "avg_s": null,
    "top_fail": [
     [
-     "leak",
-     13
-    ],
-    [
      "no output written by tra",
-     9
+     5
     ]
    ],
-   "last_activity": "2026-10-09T00:57:45+08:00"
+   "last_activity": "2026-11-20T03:57:33+08:00"
   },
-  "worker:macm4max2": {
-   "ok": 25,
-   "fail": 32,
-   "avg_s": 447.4,
+  "worker:haiku1": {
+   "ok": 0,
+   "fail": 6,
+   "avg_s": null,
    "top_fail": [
     [
-     "currency[8]",
-     13
+     "no output written by tra",
+     5
     ],
     [
-     "no output written by tra",
-     8
+     "?",
+     1
     ]
    ],
-   "last_activity": "2026-10-09T00:50:16+08:00"
+   "last_activity": "2026-11-20T03:57:34+08:00"
   },
-  "worker:lagunas": {
-   "ok": 34,
-   "fail": 37,
-   "avg_s": 234.4,
+  "worker:macm4max": {
+   "ok": 1514,
+   "fail": 230,
+   "avg_s": 108.3,
    "top_fail": [
     [
      "no output written by tra",
-     9
+     80
     ],
     [
-     "currency[6]",
-     8
+     "verify=1 [tags ASCII]",
+     27
     ]
    ],
-   "last_activity": "2026-10-09T00:49:51+08:00"
+   "last_activity": "2026-11-21T23:10:51+08:00"
   },
   "worker:nemo": {
-   "ok": 20,
-   "fail": 31,
-   "avg_s": 739.0,
+   "ok": 831,
+   "fail": 245,
+   "avg_s": 147.5,
    "top_fail": [
     [
      "no output written by tra",
-     11
+     79
     ],
     [
-     "currency[3]",
-     7
+     "magnitude[1]",
+     34
     ]
    ],
-   "last_activity": "2026-10-09T00:51:02+08:00"
+   "last_activity": "2026-11-22T00:47:21+08:00"
   },
   "worker:?": {
    "ok": 0,
-   "fail": 11,
+   "fail": 20,
    "avg_s": null,
    "top_fail": [
     [
      "?",
-     11
+     20
     ]
    ],
-   "last_activity": "2026-10-08T22:40:33+08:00"
+   "last_activity": "2026-11-22T00:18:52+08:00"
   },
   "endpoint:local": {
    "alive": true
@@ -238,10 +234,10 @@
  "dispatchers": [
   {
    "kind": "unified",
-   "pid": "6903",
-   "uptime": "02:55",
+   "pid": "47089",
+   "uptime": "01-21:14:11",
    "langs": "",
-   "workers": 12
+   "workers": 5
   }
  ],
  "uncommitted": {
@@ -250,84 +246,90 @@
  },
  "leftover_staged": [],
  "language_mismatch": {
-  "wrong_language": 51,
+  "wrong_language": 0,
   "foreign_script": 0,
-  "total": 51,
+  "total": 0,
+  "by_lang": {},
+  "sample": []
+ },
+ "truncated": {
+  "count": 24,
   "by_lang": {
-   "ja": 17,
-   "ko": 12,
-   "es": 11,
-   "fr": 9,
-   "id": 1,
-   "hi": 1
+   "en": 2,
+   "ja": 2,
+   "ko": 2,
+   "es": 2,
+   "fr": 2,
+   "vi": 2,
+   "id": 2,
+   "pt": 2,
+   "hi": 2,
+   "ar": 2,
+   "ru": 2,
+   "de": 2
   },
   "sample": [
    {
-    "path": "knowledge/ja/Art/post-martial-law-taiwanese-literature.md",
-    "kind": "wrong_language",
-    "detected": "en"
+    "path": "knowledge/en/People/puma-shen.md",
+    "h2": "21→12",
+    "length": 0.31
    },
    {
-    "path": "knowledge/ja/Art/taiwan-new-media-art.md",
-    "kind": "wrong_language",
-    "detected": "en"
+    "path": "knowledge/en/People/chiang-wan-an.md",
+    "h2": "24→13",
+    "length": 0.3
    },
    {
-    "path": "knowledge/ja/Art/tehching-hsieh-performance-artist.md",
-    "kind": "wrong_language",
-    "detected": "en"
+    "path": "knowledge/ja/People/puma-shen.md",
+    "h2": "21→12",
+    "length": 0.37
    },
    {
-    "path": "knowledge/ja/History/psychological-warfare.md",
-    "kind": "wrong_language",
-    "detected": "en"
+    "path": "knowledge/ja/People/chiang-wan-an.md",
+    "h2": "24→13",
+    "length": 0.31
    },
    {
-    "path": "knowledge/ja/History/taiwan-democratization.md",
-    "kind": "wrong_language",
-    "detected": "en"
+    "path": "knowledge/ko/People/puma-shen.md",
+    "h2": "21→12",
+    "length": 0.36
    },
    {
-    "path": "knowledge/ja/People/cheng-li-wun.md",
-    "kind": "wrong_language",
-    "detected": "en"
+    "path": "knowledge/ko/People/chiang-wan-an.md",
+    "h2": "24→14",
+    "length": 0.28
    },
    {
-    "path": "knowledge/ja/People/chia-yung-chieh.md",
-    "kind": "wrong_language",
-    "detected": "en"
+    "path": "knowledge/es/People/puma-shen.md",
+    "h2": "21→10",
+    "length": 0.28
    },
    {
-    "path": "knowledge/ja/People/hebe-tien-singer.md",
-    "kind": "wrong_language",
-    "detected": "en"
+    "path": "knowledge/es/People/chiang-wan-an.md",
+    "h2": "24→13",
+    "length": 0.3
    },
    {
-    "path": "knowledge/ja/People/huang-shan-liao.md",
-    "kind": "wrong_language",
-    "detected": "en"
+    "path": "knowledge/fr/People/puma-shen.md",
+    "h2": "21→12",
+    "length": 0.33
    },
    {
-    "path": "knowledge/ja/Society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion.md",
-    "kind": "wrong_language",
-    "detected": "en"
+    "path": "knowledge/fr/People/chiang-wan-an.md",
+    "h2": "24→13",
+    "length": 0.3
    },
    {
-    "path": "knowledge/ja/Society/chinese-taipei.md",
-    "kind": "wrong_language",
-    "detected": "en"
+    "path": "knowledge/vi/People/puma-shen.md",
+    "h2": "21→12",
+    "length": 0.34
    },
    {
-    "path": "knowledge/ja/Society/complex-life-festival.md",
-    "kind": "wrong_language",
-    "detected": "en"
+    "path": "knowledge/vi/People/chiang-wan-an.md",
+    "h2": "24→13",
+    "length": 0.31
    }
   ]
- },
- "truncated": {
-  "count": 0,
-  "by_lang": {},
-  "sample": []
  },
  "no_sources": {
   "count": 0,
@@ -335,38 +337,28 @@
   "sample": []
  },
  "url_mismatch": {
-  "count": 563,
+  "count": 167,
   "by_lang": {
-   "en": 47,
-   "ja": 82,
-   "ko": 53,
-   "es": 67,
-   "fr": 58,
-   "vi": 51,
-   "id": 43,
-   "pt": 37,
-   "hi": 45,
-   "ar": 25,
-   "ru": 28,
-   "de": 27
+   "en": 16,
+   "ja": 13,
+   "ko": 10,
+   "es": 9,
+   "fr": 8,
+   "vi": 26,
+   "id": 10,
+   "pt": 8,
+   "hi": 20,
+   "ar": 7,
+   "ru": 7,
+   "de": 33
   },
-  "missing": 1092,
-  "extra": 609,
+  "missing": 4551,
+  "extra": 472,
   "sample": [
    {
-    "path": "knowledge/en/Music/choir.md",
-    "missing": 1,
-    "extra": 1
-   },
-   {
-    "path": "knowledge/en/Music/indigenous-music-traditions.md",
-    "missing": 1,
-    "extra": 1
-   },
-   {
-    "path": "knowledge/en/Music/taiwan-music-festival-culture.md",
-    "missing": 3,
-    "extra": 0
+    "path": "knowledge/en/Music/chthonic.md",
+    "missing": 0,
+    "extra": 2
    },
    {
     "path": "knowledge/en/Economy/evergreen-marine.md",
@@ -374,62 +366,72 @@
     "extra": 0
    },
    {
-    "path": "knowledge/en/Economy/taiwan-shipbuilding-industry.md",
-    "missing": 1,
+    "path": "knowledge/en/Society/remote-area-schools-education-act.md",
+    "missing": 0,
+    "extra": 2
+   },
+   {
+    "path": "knowledge/en/Society/i-am-from.md",
+    "missing": 0,
     "extra": 1
    },
    {
-    "path": "knowledge/en/Technology/taiwan-audio-industry-development.md",
+    "path": "knowledge/en/People/shen-sheng-po.md",
     "missing": 2,
     "extra": 0
    },
    {
-    "path": "knowledge/en/Art/taiwanese-cinema.md",
+    "path": "knowledge/en/People/fujui-wang.md",
     "missing": 2,
-    "extra": 2
+    "extra": 0
    },
    {
-    "path": "knowledge/en/Art/wang-hsin-jen-artist.md",
+    "path": "knowledge/en/People/yoga-lin.md",
     "missing": 5,
-    "extra": 5
+    "extra": 0
    },
    {
-    "path": "knowledge/en/Art/new-ecological-art-environment.md",
-    "missing": 1,
-    "extra": 1
+    "path": "knowledge/en/People/puma-shen.md",
+    "missing": 163,
+    "extra": 24
    },
    {
-    "path": "knowledge/en/Lifestyle/taiwan-scooter-culture.md",
+    "path": "knowledge/en/People/lin-liang-childrens-literature.md",
     "missing": 1,
     "extra": 0
    },
    {
-    "path": "knowledge/en/Lifestyle/tour-bus.md",
-    "missing": 2,
-    "extra": 2
+    "path": "knowledge/en/People/chiang-wan-an.md",
+    "missing": 179,
+    "extra": 4
    },
    {
-    "path": "knowledge/en/Lifestyle/transportation-system.md",
-    "missing": 1,
-    "extra": 1
+    "path": "knowledge/en/People/ko-wen-je.md",
+    "missing": 7,
+    "extra": 3
+   },
+   {
+    "path": "knowledge/en/People/vh-band.md",
+    "missing": 3,
+    "extra": 0
    }
   ]
  },
  "name_substitution": {
-  "count": 180,
+  "count": 171,
   "by_lang": {
-   "en": 11,
+   "en": 14,
    "ja": 1,
-   "ko": 4,
-   "es": 7,
+   "ko": 7,
+   "es": 9,
    "fr": 9,
-   "vi": 68,
-   "id": 19,
-   "pt": 14,
-   "hi": 13,
+   "vi": 57,
+   "id": 14,
+   "pt": 13,
+   "hi": 14,
    "ar": 3,
-   "ru": 5,
-   "de": 26
+   "ru": 7,
+   "de": 23
   },
   "sample": [
    {
@@ -446,15 +448,21 @@
     }
    },
    {
-    "path": "knowledge/id/Geography/yongkang-street.md",
+    "path": "knowledge/de/Geography/yongkang-street.md",
     "names": {
-     "馬英九": 19
+     "馬英九": 17
     }
    },
    {
-    "path": "knowledge/de/Geography/yongkang-street.md",
+    "path": "knowledge/id/Geography/yongkang-street.md",
     "names": {
-     "馬英九": 16
+     "馬英九": 15
+    }
+   },
+   {
+    "path": "knowledge/ko/People/lee-hao-yu.md",
+    "names": {
+     "李登輝": 14
     }
    },
    {
@@ -500,71 +508,10 @@
      "河內": 1,
      "胡志明市": 8
     }
-   },
-   {
-    "path": "knowledge/de/People/yang-shen-keng-educator.md",
-    "names": {
-     "孫中山": 9
-    }
    }
   ]
  },
  "history": [
-  {
-   "ts": "2026-09-26T20:53:21+08:00",
-   "fresh_total": 13323,
-   "gap_total": 165
-  },
-  {
-   "ts": "2026-09-26T21:31:42+08:00",
-   "fresh_total": 13344,
-   "gap_total": 144
-  },
-  {
-   "ts": "2026-09-26T21:44:27+08:00",
-   "fresh_total": 13365,
-   "gap_total": 123
-  },
-  {
-   "ts": "2026-09-26T22:26:18+08:00",
-   "fresh_total": 13392,
-   "gap_total": 96
-  },
-  {
-   "ts": "2026-09-26T23:20:52+08:00",
-   "fresh_total": 13393,
-   "gap_total": 95
-  },
-  {
-   "ts": "2026-09-27T00:44:27+08:00",
-   "fresh_total": 13421,
-   "gap_total": 67
-  },
-  {
-   "ts": "2026-09-27T00:55:05+08:00",
-   "fresh_total": 13422,
-   "gap_total": 66
-  },
-  {
-   "ts": "2026-09-27T11:57:09+08:00",
-   "fresh_total": 13485,
-   "gap_total": 3
-  },
-  {
-   "ts": "2026-09-27T12:41:37+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
-  {
-   "ts": "2026-09-27T12:43:45+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
-  {
-   "ts": "2026-09-27T13:28:56+08:00",
-   "fresh_total": 13488,
-   "gap_total": 0
-  },
   {
    "ts": "2026-09-27T14:28:57+08:00",
    "fresh_total": 13488,
@@ -989,6 +936,61 @@
    "ts": "2026-10-09T01:00:59+08:00",
    "fresh_total": 13500,
    "gap_total": 0
+  },
+  {
+   "ts": "2026-11-06T00:45:14+08:00",
+   "fresh_total": 13045,
+   "gap_total": 899
+  },
+  {
+   "ts": "2026-11-07T00:45:49+08:00",
+   "fresh_total": 13342,
+   "gap_total": 602
+  },
+  {
+   "ts": "2026-11-19T00:47:09+08:00",
+   "fresh_total": 8657,
+   "gap_total": 5635
+  },
+  {
+   "ts": "2026-11-19T01:26:55+08:00",
+   "fresh_total": 13190,
+   "gap_total": 1102
+  },
+  {
+   "ts": "2026-11-20T00:44:14+08:00",
+   "fresh_total": 13930,
+   "gap_total": 362
+  },
+  {
+   "ts": "2026-11-20T00:49:41+08:00",
+   "fresh_total": 13950,
+   "gap_total": 342
+  },
+  {
+   "ts": "2026-11-21T00:44:07+08:00",
+   "fresh_total": 14148,
+   "gap_total": 156
+  },
+  {
+   "ts": "2026-11-21T00:53:13+08:00",
+   "fresh_total": 14151,
+   "gap_total": 153
+  },
+  {
+   "ts": "2026-11-21T00:55:01+08:00",
+   "fresh_total": 14151,
+   "gap_total": 153
+  },
+  {
+   "ts": "2026-11-22T00:43:49+08:00",
+   "fresh_total": 14197,
+   "gap_total": 119
+  },
+  {
+   "ts": "2026-11-22T01:10:46+08:00",
+   "fresh_total": 14197,
+   "gap_total": 119
   }
  ]
 }
