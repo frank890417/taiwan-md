@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-22T03:41:12+08:00",
-    "zhCommitHead": "9acdc75649",
+    "lastUpdated": "2026-11-22T06:45:25+08:00",
+    "zhCommitHead": "f4628c1bc9",
     "totalZh": 1193,
     "activeLanguages": [
       "en",
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1193,
-        "fresh": 1179,
-        "stale": 12,
+        "fresh": 1180,
+        "stale": 11,
         "metadata_stale": 1,
         "missing": 1,
         "orphan": 0
@@ -84,9 +84,9 @@
       },
       "hi": {
         "total_zh": 1193,
-        "fresh": 1178,
+        "fresh": 1179,
         "stale": 11,
-        "metadata_stale": 2,
+        "metadata_stale": 1,
         "missing": 2,
         "orphan": 0
       },
@@ -42657,18 +42657,18 @@
         "vi": {
           "path": "vi/Art/chiang-hsien-yi.md",
           "translatedFrom": "Art/江賢二.md",
-          "sourceCommitSha": "31a05c44b",
-          "sourceContentHash": "sha256:872c1259e15043c2",
-          "sourceBodyHash": "sha256:ae43b98131d02326",
-          "translatedAt": "2026-08-09T10:41:15+08:00",
+          "sourceCommitSha": "e81a52046f",
+          "sourceContentHash": "sha256:d0617b9871f95eb3",
+          "sourceBodyHash": "sha256:13e0356c3da61611",
+          "translatedAt": "2026-11-21T20:54:53.078100+00:00",
           "translationLastCommit": "a3ec9a54",
           "translationLastModified": "2026-10-10T23:43:08+08:00",
           "inferred": false,
-          "footnoteDefs": 42,
-          "bytes": 52833,
+          "footnoteDefs": 44,
+          "bytes": 64751,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (44→42)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Art/chiang-hsien-yi.md",
@@ -55031,8 +55031,8 @@
           "sourceContentHash": "sha256:592d319a9839fc8f",
           "sourceBodyHash": "sha256:dc4852cc6c6703f8",
           "translatedAt": "2026-11-21T18:41:44.301639+00:00",
-          "translationLastCommit": "d01f262e",
-          "translationLastModified": "2026-09-26T22:22:30+08:00",
+          "translationLastCommit": "9033e617",
+          "translationLastModified": "2026-11-22T03:41:12+08:00",
           "inferred": false,
           "footnoteDefs": 43,
           "bytes": 138670,
@@ -83711,20 +83711,18 @@
         "hi": {
           "path": "hi/Society/academia-sinica.md",
           "translatedFrom": "Society/中央研究院.md",
-          "sourceCommitSha": "6fbe01217",
-          "sourceContentHash": "sha256:718e4da0518930ba",
+          "sourceCommitSha": "be13f04522",
+          "sourceContentHash": "sha256:4379f24fd051c302",
           "sourceBodyHash": "sha256:4d2bd2c6c8f39bfa",
-          "translatedAt": "2026-09-26T08:16:25.121837+00:00",
+          "translatedAt": "2026-11-21T21:35:52.728007+00:00",
           "translationLastCommit": "a1355f5a",
           "translationLastModified": "2026-10-31T08:41:46+08:00",
           "inferred": false,
           "footnoteDefs": 57,
-          "bytes": 161225,
+          "bytes": 160061,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/academia-sinica.md",
