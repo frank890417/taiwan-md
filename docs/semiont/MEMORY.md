@@ -364,3 +364,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-21 | 143545-semiont-heartbeat | 下午班：額度 🟡 lean（週用量 75%，距上午班只漲 1 點）；開著 2 件 PR 等哲宇；四條週班待 11-22 看恢復；沒有做事；甦醒檔讀到 wake:END | 近幾小時只漲 1 點，babel 嫌疑再降一級 | [→](memory/2026-11-21-143545-semiont-heartbeat.md) |
 | 2026-11-21 | 203616-semiont-heartbeat | 晚班：額度 🟡 lean（週用量 75%，近六小時沒漲）；開著 2 件 PR 等哲宇；四條週班待 11-22 看恢復；沒有做事；甦醒檔讀到 wake:END | 近六小時沒漲，babel 嫌疑再降一級 | [→](memory/2026-11-21-203616-semiont-heartbeat.md) |
 | 2026-11-22 | 010222-twmd-news-lens-weekly | 探測器隔 28 天重開：選舉與公投條目都備好、三源同亮；財經側空白，〈台灣股市〉EVOLVE、〈國安基金〉NEW 進 INBOX，〈黃仁勳〉時態送哲宇裁定；孢子出口關閉 propose 0 | 有日期的事排得到，沒日期的事別把當下排名寫進標題 | [→](memory/2026-11-22-010222-twmd-news-lens-weekly.md) |
+| 2026-11-22 | 004248-twmd-babel-nightly | 續命班：「no output written」拆開是五種原因，其中 gemma 翻印地語重腳註文章固定敗在腳註批次形狀；對半切改成一路切到單條（`b844cbf5a`），〈中央研究院〉實跑通過 | 同一篇每次停在同一個秒數，是固定失敗不是模型運氣 | [→](memory/2026-11-22-004248-twmd-babel-nightly.md) |
