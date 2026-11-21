@@ -84,7 +84,7 @@ issue #2011 的根因 11-17 那班已經查到底（Supabase 設定端點回 `em
 
 黃氏兄弟那筆是反過來的：讀者說了一句話，兩輪查證都沒推翻她，第三輪打開頻道按「最舊」她是對的。而文章裡那句錯的，**沒有任何腳註**——它是整段裡唯一一個沒有來源卻最具體的細節。具體到沒有人想去查，這正是 MANIFESTO §10 六型幻覺的形狀。
 
-LESSONS 候選不在此 inline，走 LESSONS-INBOX（本班未新增，兩條都命中既有條目：`gate-triggers-content-degradation-incentive` 的語言變體、REFLEXES #100 的第 N 次）。
+LESSONS 候選不在此 inline，走 LESSONS-INBOX：新增 `positive-control-run-where-the-tool-cannot-tell-which-language`（正控制跑在工具推不出語言的路徑下，三個控制一起印空的 ✅）。幣別閘門那條命中既有族系（`gate-triggers-content-degradation-incentive` 的語言變體），不另開條目。
 
 ## Handoff 三態
 

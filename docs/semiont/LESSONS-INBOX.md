@@ -332,6 +332,19 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-11-21 twmd-maintainer-daily — positive-control-run-where-the-tool-cannot-tell-which-language：正控制跑在工具推不出語言的路徑下，三個控制一起印出空的 ✅
+
+- **pattern**: `positive-control-run-where-the-tool-cannot-tell-which-language`
+- **事實**：本班修 `currency-identity-check.py` 的越南文假陽性（把 1859 年的「龍銀」讀成越南盾）之後，照 [REFLEXES #99](REFLEXES.md)「尺先驗再用」寫了三個正控制：裸 `62 đồng` 要擋、`giá 500 đồng` 要擋、`đồng bạc rồng` 要放行。三個全印 ✅——**包含那兩個「必須擋」的**。差一點就據此宣布修好了。真因是控制檔寫在 scratchpad 路徑下，而 `lang_of()` 只認 `REPO/knowledge` 之下的路徑（`path.resolve().relative_to(REPO / "knowledge")`，推不出來就回 `None`），語言是 `None` 時整個 `LOCAL_CURRENCY` 規則表根本不會被套用。把控制檔搬回 `knowledge/vi/History/` 重跑，三個控制才給出真讀數（擋、擋、放行）。
+- **形狀**：[REFLEXES #100](REFLEXES.md)「驗證對象要等於落地對象」的鏡像面。#100 講的是「commit 路徑上有會改寫檔案的元件時，在它之外量到的都是替身」——本例沒有改寫元件，是**工具的輸入前提**（路徑→語言）在測試環境裡不成立，於是它安靜地什麼都不檢查。差別在這裡：#100 量到的是別的東西，本例量到的是**什麼都沒有**，而「什麼都沒有」在這支工具的輸出裡長得跟「全部通過」一模一樣。
+- **為什麼特別危險**：這是在**驗證自己的修補**那一刻發生的。前一秒我才剛證明這道閘門會誤判、會把成本推給投稿者；後一秒我用一個不會檢查任何東西的控制，替自己的修補發了合格證。如果沒有停下來問「為什麼連該擋的那兩個也過了」，這次修補會帶著一組假的正控制進 canonical，而下一個讀測試的人會以為它被驗過。
+- **跟 [#85](REFLEXES.md) 的關係**：「不知道」需要自己的符號。這支工具對「我推不出語言所以沒有檢查」沒有符號，它借用了「沒事」那一個。
+- **候選機械化**：(a) `lang_of()` 回 `None` 時印一行 `⏭️ 跳過（推不出語言：<path>）`，而不是靜默納入「全部通過」的計數——純取數面、不碰判準，1-file；(b) 同一支檔裡 `scan()` 的 early-return 路徑（缺 `translatedFrom`、zh 原稿不存在）也共用這個症狀，一起處理；(c) 更一般的：`scripts/tools/lang-sync/` 底下凡是從路徑推語言的工具（grep `relative_to(REPO / "knowledge")`）都有同一個洞，值得一次掃完。
+- **instances**：2026-11-21 twmd-maintainer-daily（修 `đồng bạc` 假陽性時的正控制）
+- **verification_count**: 1
+- **severity**: structural（vc=1 但形狀明確且可機械化；它命中的是「驗證層自己失效而不叫」，不是某一條判準的對錯）
+- **相關**：[REFLEXES #99](REFLEXES.md)（尺先驗再用，0 命中先過正控制）／[#100](REFLEXES.md)（驗證對象要等於落地對象）／[#85](REFLEXES.md)（「不知道」要有自己的符號）／[#65](REFLEXES.md)（awareness instrument 自身要 cross-verify）
+
 ### 2026-11-19 twmd-maintainer-daily — memory-records-the-landmine-three-times-and-nobody-moves-it：三個 session 把同一個地雷寫進 memory，沒有人改那一行預設值
 
 - **pattern**: `memory-records-the-landmine-three-times-and-nobody-moves-it`
