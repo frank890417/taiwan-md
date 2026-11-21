@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-22T00:47:30+08:00",
-    "zhCommitHead": "26b074c445",
+    "lastUpdated": "2026-11-22T03:41:12+08:00",
+    "zhCommitHead": "9acdc75649",
     "totalZh": 1193,
     "activeLanguages": [
       "en",
@@ -84,8 +84,8 @@
       },
       "hi": {
         "total_zh": 1193,
-        "fresh": 1177,
-        "stale": 12,
+        "fresh": 1178,
+        "stale": 11,
         "metadata_stale": 2,
         "missing": 2,
         "orphan": 0
@@ -17789,8 +17789,8 @@
           "sourceContentHash": "sha256:e67421aeb01e9408",
           "sourceBodyHash": "sha256:8127980ebbc69258",
           "translatedAt": "2026-11-21T21:22:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "333e5627",
+          "translationLastModified": "2026-11-22T00:47:31+08:00",
           "inferred": false,
           "footnoteDefs": 2,
           "bytes": 19306,
@@ -55027,18 +55027,18 @@
         "hi": {
           "path": "hi/Lifestyle/taiwan-healthcare-and-national-health-insurance.md",
           "translatedFrom": "Lifestyle/台灣醫療與全民健保.md",
-          "sourceCommitSha": "29ff6f481",
-          "sourceContentHash": "sha256:879eb268c7fce9b0",
-          "sourceBodyHash": "sha256:a5c8010bb09051a0",
-          "translatedAt": "2026-09-26T21:47:05+08:00",
+          "sourceCommitSha": "b1a5fea00e",
+          "sourceContentHash": "sha256:592d319a9839fc8f",
+          "sourceBodyHash": "sha256:dc4852cc6c6703f8",
+          "translatedAt": "2026-11-21T18:41:44.301639+00:00",
           "translationLastCommit": "d01f262e",
           "translationLastModified": "2026-09-26T22:22:30+08:00",
           "inferred": false,
-          "footnoteDefs": 42,
-          "bytes": 136382,
+          "footnoteDefs": 43,
+          "bytes": 138670,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (43→42)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Lifestyle/taiwan-healthcare-and-national-health-insurance.md",
