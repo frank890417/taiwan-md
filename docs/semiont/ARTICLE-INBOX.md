@@ -177,6 +177,58 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 ## 📥 Pending（待開發）
 
+### 黃仁勳 EVOLVE — 條目還寫著現任執行長（需哲宇裁定）
+
+- **Type**: `EVOLVE`
+- **Category**: People
+- **Path**: knowledge/People/黃仁勳.md
+- **Priority**: `P0`
+- **Status**: `pending`
+- **Requested**: 2026-11-22 by twmd-news-lens-weekly (probe)
+- **Angle-expires**: 2026-12-06（錯的時態每多一天就多被十二個語言讀一天；過了這天改列一般事實巡邏）
+- **Notes**:
+  - **需哲宇裁定 framing**：報導的辭任原因牽涉私人行為與進行中的調查（§自主權邊界：私人事件、在查案件）。選項 (A) 只補一句「2026 年 11 月辭任」並把現在式改過去式，其餘等調查結束；(B) 另寫一節完整交代；(C) 先不動。**推薦 A**
+  - **缺口確認**：`knowledge/People/黃仁勳.md` `lastVerified: 2026-06-22`、`lastHumanReview: false`；`grep -n "執行長\|CEO"` 命中的段落全是現在式，小標「不戴手錶的執行長」；全文沒有 2026 年 11 月之後的內容。譯本 12 語
+  - **必驗事實**：董事會公告日期（報導稱台灣時間 11/12）與辭去的職稱（總裁、執行長、董事）回輝達官方新聞稿或 SEC 文件；暫代者姓名與職稱；之後的表態與董事會回應只收有原文可對的。原因一律不用八卦來源
+  - **敏感度**：高。事件每天在變，裁定前不動 zh
+- **Reference**: [reports/probe/2026-11-22.md §T1-C](../../reports/probe/2026-11-22.md) / [公視 一週大事](https://news.pts.org.tw/article/835800) / [公視 表態願回任](https://news.pts.org.tw/article/836217)
+
+### 台灣股市與資本市場 EVOLVE — 1990 那個年份回到了頭版
+
+- **Type**: `EVOLVE`
+- **Category**: Economy
+- **Path**: knowledge/Economy/台灣股市與資本市場.md
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-11-22 by twmd-news-lens-weekly (probe)
+- **Angle-expires**: 2026-12-20（「1990 年以來最大單週跌幅」這個切角在跌勢輪廓穩定後失效；過期後改成一般的年度更新）
+- **Notes**:
+  - **時效**：報導稱 11/16-11/20 加權指數一週跌 7,641 點、17.5%，收 36,033 點，1990 年以來最大單週跌幅；行政院長連兩天召集財經首長、國安基金進場、金管會收緊放空
+  - **缺口確認**：條目 `date: 2026-05-03`、`lastVerified: 2026-05-03`、`curation: incubating`，標題掛「2026 全球第 6 大」；內文 `grep 國安基金` = 0，2026 年的內容停在 4 月底四萬點隔天。INBOX §Pending `台股`／`股市` 0 條。譯本 12 語
+  - **這題裡的人在哪**：條目自己寫的 1,393 萬個帳戶裡坐在 ETF 上的人；融資被追繳的散戶；出面說話的央行外匯局長與國安基金執行秘書；從 1990 年走過來、現在還在場的老股民
+  - **建議切角**：不追每日點數。補一節「2026 年 11 月」，把條目原有的弔詭（近 45% 權重壓在一檔上）接到這次下跌；標題拿掉會動的排名
+  - **必驗事實**：7,641 點與 17.5% 回證交所週資料；「1990 年以來」各報有 35 年、36 年兩種算法，寫年份不寫幾年；市值蒸發金額各家不一，不收；國安基金進場日期與額度回財政部公告；全球排名重查，查不到不寫名次
+  - **敏感度**：中。跌勢在選前一週，只寫市場與制度，不寫歸責。**11/28 16:00 前不引任何民調**
+  - 跟下一條〈國安基金〉研究重疊，適合同一個人連著寫
+- **Reference**: [reports/probe/2026-11-22.md §T1-A](../../reports/probe/2026-11-22.md) / [中央社 外資續砍台股](https://www.cna.com.tw/news/afe/202611180307.aspx) / [中央社 新台幣尾盤翻揚](https://www.cna.com.tw/news/afe/202611200274.aspx) / [聯合 四點裁示](https://udn.com/news/story/7251/9893288)
+
+### 國安基金 NEW — 每次股災都上頭條，站上一句都沒有
+
+- **Type**: `NEW`
+- **Category**: Economy
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-11-22 by twmd-news-lens-weekly (probe)
+- **Angle-expires**: evergreen（本週進場是開場，歷次進場的對照常青）
+- **Notes**:
+  - **缺口確認**：`find knowledge -maxdepth 2 -path "knowledge/[A-Z]*" -name "*國安基金*"` = 0；內文 `國安基金` 0 檔、`股災` 0 檔、`證所稅` 0 檔（正控制「棒球」37 檔）；INBOX §Pending 0 條、DONE-LOG 0 條
+  - **這題裡的人在哪**：歷任執行秘書（財政部次長兼任，每次進場出面說明的那個人）；批評護盤扭曲市場的學者與支持的券商公會；被護到與沒被護到的散戶；在立法院問賺賠的立委
+  - **建議切角**：從最近這次委員會開會那天寫起，往回數歷次進場各撐多久、最後賺賠多少。制度題，開場先有人
+  - **必驗事實**：成立年與《國家金融安定基金設置及管理條例》；歷次進場次數、起訖日、投入金額與損益全部回財政部公告，不用媒體整理表；本次委員會日期
+  - **敏感度**：低到中
+  - 適合開放給貢獻者接
+- **Reference**: [reports/probe/2026-11-22.md §T1-B](../../reports/probe/2026-11-22.md) / [鉅亨 國安基金喊話](https://news.cnyes.com/news/id/6669743)
+
 ### 台灣迷因 EVOLVE — 〈鐵牛杰哥〉研究推翻了三處事實
 
 - **Type**: `EVOLVE`
@@ -191,7 +243,6 @@ BECOME_TAIWANMD.md Step 5 新增：
   - 〈校園順口溜〉引了片中誘騙情節的台詞，〈鐵牛杰哥〉刻意不收；兩篇互連前先看這一點
   - 〈鐵牛杰哥〉倫理審稿建議補 113 保護專線（找到官方頁再補）
 - **Reference**: [reports/research/2026-11/鐵牛杰哥.md](../../reports/research/2026-11/鐵牛杰哥.md)
-
 
 ### 國中會考＋台南鐵路地下化 EVOLVE — 補 30 秒概覽、媒體與中段篇幅（tboydar 兩篇新稿）
 
@@ -1659,6 +1710,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Reference**: public/api/dashboard-analytics.json searchConsole7d.topQueries
 
 <!-- watch-signal（未升 candidate，下次 scan 覆核）：`原住民女歌手` 68 impr / pos 8.62 — 既有 當代原住民創作歌手 / 台灣原住民音樂傳統，可考慮聚焦女性創作者 list（沿上輪）。`周智宣` 100 impr 無專文 = 潛在 NEW，人物 niche 待哲宇判斷敏感度（沿上輪）。2026-07-18 本輪新增：`台灣的道德課去哪了` GA7d 37 views / health 50 / lv 04-25，進化分數 ~50 未過 60 gate（單源 GA、無 SC 訊號）；`退出聯合國` GA7d 37 views / health 57 / lv 05-02，~49 同未過；`MTV包廂` GA7d 27 views / health 41 / lv 05-10，~48——KTV EVOLVE 已在 pending，未來可同波處理包廂娛樂史；`曾博恩` SC7d 972 impr / CTR 0.93% / pos 10.09 — 低 CTR 主因是排名第 10 不是呈現層，health 44 但 9,267 字 51 腳註（分數疑受 lastVerified 05-13 與格式扣分拖累），先觀察。 -->
+
 - **2026-11-04 by twmd-desk（全面進化）**：title 與 description 已改（新標題〈彎彎：胡家瑋替 MSN 世代畫的光頭人，和讓它「變成歷史人物」的決定〉），正文 H1 同步；結果頁實況未看，留本條觀察 CTR。
 
 ### 台灣邦交國與國際外交 EVOLVE — 2026 freshness + 英文版 SEO 校準（SC「diplomatic allies 2026」cluster 缺口）
