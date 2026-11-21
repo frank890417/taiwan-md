@@ -84,7 +84,27 @@ echo -e "${GRN}[1/14]${RST} Git sync..."
 # auto-stash 會把它寫到一半的檔案收走。10-03／10-08／10-09／10-10 四班都靠手拼
 # runner（本檔 1–76 行接 117 行之後）跳過這一步；改成旗標。只在本機不落後
 # origin/main 時才准跳，落後就停，免得在舊底座上產儀表板。
-if [ "${1:-}" = "--no-sync" ]; then
+#
+# 自動偵測（2026-11-22 data-refresh-am）：這個分支原本只靠當班記得加旗標，
+# 11-21 那班照排程 prompt 字面跑預設模式就漏了。現在沒給旗標時自己看有沒有
+# babel／lang-sync 寫手（跟 check-parallel-actor.sh 同一組 pattern）：有寫手且
+# 本機不落後 origin → 自動走 --no-sync；有寫手但落後 → 照舊 stash＋pull
+# （舊底座上刷新比暫存還原的風險大），並印一行說明。
+NO_SYNC=0
+[ "${1:-}" = "--no-sync" ] && NO_SYNC=1
+if [ "$NO_SYNC" = "0" ]; then
+  WRITER_PIDS="$(pgrep -f "lang-sync|babel-handoff|i18n-translate|fleet-endpoint|remote-ollama" 2>/dev/null | tr '\n' ' ' || true)"
+  if [ -n "${WRITER_PIDS// /}" ]; then
+    git fetch -q origin main 2>/dev/null
+    if [ "$(git rev-list --count HEAD..origin/main 2>/dev/null || echo '?')" = "0" ]; then
+      NO_SYNC=1
+      echo -e "${DIM}   偵測到平行寫手（pid ${WRITER_PIDS}），自動改走 --no-sync${RST}"
+    else
+      echo -e "${YEL}⚠️ 有平行寫手但本機落後 origin/main — 仍走 stash＋pull（還原若衝突看 git stash list）${RST}"
+    fi
+  fi
+fi
+if [ "$NO_SYNC" = "1" ]; then
   git fetch -q origin main 2>/dev/null
   BEHIND=$(git rev-list --count HEAD..origin/main 2>/dev/null || echo "?")
   if [ "$BEHIND" != "0" ]; then

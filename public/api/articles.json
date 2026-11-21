@@ -1567,19 +1567,6 @@
     "categorySlug": "history"
   },
   {
-    "title": "27 Detik Presisi: Asal-Usul Masa Pendudukan Jepang dan Warisan Keluarga Liao dari Mie Belut Tainan",
-    "description": "Teknik inti mie belut Tainan adalah sebuah angka: 27 detik. Jika belut berada di wajan lebih dari waktu ini, dagingnya jadi keras, bau amis keluar, seluruh wajan sia-sia. Hidangan ini lahir di pasar Sakariba masa pendudukan Jepang, bersaudara Liao Ping-nan (廖炳南) dan Liao Huo-tu (廖火土) belajar dari guru Fuzhou, menggunakan belut liar dari kolam Tainan menggantikan unagi orang Jepang, membangun reputasi ratusan tahun.",
-    "category": "Food",
-    "tags": [],
-    "url": "https://taiwan.md/id/food/eel-noodles",
-    "readingTime": 7,
-    "featured": false,
-    "date": "2026-07-02",
-    "path": "id/Food/eel-noodles.md",
-    "lang": "id",
-    "categorySlug": "food"
-  },
-  {
     "title": "27 секунд точности: происхождение тяньаньского яйца с унгрем в японский колониальный период и традиции семьи Ляо",
     "description": "Ядром тяньаньского яйца с унгрем является одно число: 27 секунд. Если унгрь проводит в кастрюле больше этого времени, мясо становится сухим, появляется привкус, вся кастрюля портится. Это блюдо родилось на рынке сакариба в японский колониальный период, братья Ляо Биньнань и Ляо Хоту изучили мастерство у мастера из Фучжоу, заменили японский угорь диким унгрем из тяньаньских водоёмов и завоевали вековую славу.",
     "category": "Food",
@@ -1635,6 +1622,19 @@
     "date": "2026-11-19",
     "path": "es/Economy/tax-revenue-structure.md",
     "lang": "es",
+    "categorySlug": "economy"
+  },
+  {
+    "title": "3,8 nghìn tỷ NT$: 53,4% đến từ thuế thu nhập, và khoản thâm hụt giảm từ 50,5 tỷ xuống còn 14,3 tỷ",
+    "description": "Thống kê cuối cùng về thu ngân sách quốc gia năm 114 đạt 3.787,9 tỷ NT$, thấp hơn 14,3 tỷ NT$ so với dự toán; số liệu sơ bộ công bố vào tháng 1 là 3.751,5 tỷ NT$, thiếu hụt 50,5 tỷ NT$. Sự khác biệt nằm ở các khoản thuế nộp trong giai đoạn quyết toán cuối năm. Bài viết phân tích nguồn gốc của 3,8 nghìn tỷ này: thuế thu nhập doanh nghiệp và thuế thu nhập cá nhân chiếm 53,4%, thuế kinh doanh 16,3%, thuế giao dịch chứng khoán đạt 292,8 tỷ NT$ với giá trị giao dịch trung bình ngày là 489,4 tỷ NT$; trong khi thuế gia tăng giá trị đất và thuế hàng hóa sụt giảm do thị trường bất động sản và ô tô hạ nhiệt. Trong 18 danh mục thuế, có 11 danh mục đạt mục tiêu, đưa tỷ lệ gánh nặng thuế về mức 13,2%.",
+    "category": "Economy",
+    "tags": [],
+    "url": "https://taiwan.md/vi/economy/tax-revenue-structure",
+    "readingTime": 11,
+    "featured": false,
+    "date": "2026-11-19",
+    "path": "vi/Economy/tax-revenue-structure.md",
+    "lang": "vi",
     "categorySlug": "economy"
   },
   {
@@ -27896,6 +27896,46 @@
     "categorySlug": "people"
   },
   {
+    "title": "張峻：從光復鄉議員到花蓮議長，地方權力與個人爭議交會的政治路徑",
+    "description": "花蓮縣議長張峻的政治路徑，從光復鄉出身、四屆縣議員與兩屆議長，到 2022 年退黨及 2026 年縣長參選，以公開職務記錄、司法程序、選戰攻防、政策主張與各方回應為主軸，區分可確認事實、案件程序及未經證實的競選說法。資料更新至 2026 年 11 月 20 日，避免把選戰指控與司法判決混為一談。",
+    "category": "People",
+    "tags": [
+      "人物",
+      "花蓮",
+      "地方政治",
+      "縣議會",
+      "張峻",
+      "花蓮縣長選舉"
+    ],
+    "url": "https://taiwan.md/people/%E5%BC%B5%E5%B3%BB",
+    "readingTime": 7,
+    "featured": false,
+    "date": "2026-11-20",
+    "path": "People/張峻.md",
+    "lang": "zh-TW",
+    "categorySlug": "people"
+  },
+  {
+    "title": "張峻（ちょう・しゅん）：光復郷の議員から花蓮県議長へ、地方権力と個人的論争が交差する政治的軌跡",
+    "description": "花蓮県議長、張峻氏の政治的歩みを辿る。光復郷出身、4期連続の県議会議員および2期の議長経験から、2022年の離党、2026年の県知事選出馬に至るまで、公開された職務記録、司法手続き、選挙戦での攻防、政策主張、各方面の反応を軸に記述。確認された事実、事件の手続き、未確認の選挙キャンペーン上の主張を区別して整理している。資料は2026年11月20日時点のものであり、選挙における告発と司法判決を混同しないよう配慮している。",
+    "category": "People",
+    "tags": [
+      "人物",
+      "花蓮",
+      "地方政治",
+      "県議会",
+      "張峻",
+      "花蓮県知事選挙"
+    ],
+    "url": "https://taiwan.md/ja/people/chang-chun",
+    "readingTime": 7,
+    "featured": false,
+    "date": "2026-11-20",
+    "path": "ja/People/chang-chun.md",
+    "lang": "ja",
+    "categorySlug": "people"
+  },
+  {
     "title": "張惠妹：卑南族歌手，1996《姊妹》到2024大巨蛋五場",
     "description": "1972年8月9日生於台東縣卑南鄉，張惠妹是台灣卑南族歌手，華語流行音樂史上最成功的女歌手之一。1996年首專《姊妹》在台灣銷售121萬張、亞洲400萬張。2015年「烏托邦」台北小巨蛋連辦10場。2024年12月大巨蛋 ASMeiR MAXXX 5場，製作費2億、現場施放熱氣球。生涯累計銷量逾5000萬張。",
     "category": "People",
@@ -28820,12 +28860,12 @@
     "categorySlug": "lifestyle"
   },
   {
-    "title": "這群人：一緒に有名になった7人、なぜ別れの日を迎えることになったのか",
-    "description": "2011年、展榮と展瑞ら5人の仲間が演技の阿吽の呼吸をYouTubeに持ち込みました。『超瞎翻唱』から357万登録者まで、彼らは日常を共同の記憶として撮影し、チャンネルを分業・収益分配・管理が必要な小さな会社に育て上げました。2023年に更新停止を発表した後、お金、疲労、プラットフォームの方向転換、個人のキャリアが同時に表面化しました。これは共同創作がいかに職業へと成長し、再び分割を余儀なくされたかという台湾のインターネット史の一幕です。",
+    "title": "這群人：7人のメンバーが13年間一度も脱退せず、更新停止はしたものの解散はしていない",
+    "description": "這群人（TGOP）は、展榮、展瑞、茵聲、木星、董仔、尼克、石頭の7人で構成されており、その多くは演劇学院の同級生です。2016年に『超瞎翻唱』でチャンネル登録者数100万人を達成し、翌年には台湾で初めて登録者数200万人を突破したYouTuberグループとなりました。2024年2月の更新停止の日、展榮はメディアに対し「解散するのですか？」と問いかけました。一つの会社、月に2本の動画、7人で一緒に撮影すること。それが彼らが有名になった方法であり、最後に手放すこととなった重みでもあります。",
     "category": "People",
     "tags": [],
     "url": "https://taiwan.md/ja/people/tgop",
-    "readingTime": 10,
+    "readingTime": 14,
     "featured": false,
     "date": "2026-08-17",
     "path": "ja/People/tgop.md",
@@ -31679,8 +31719,8 @@
     "categorySlug": "people"
   },
   {
-    "title": "黄氏兄弟：清新というラベルの背後にあった、強制的に広げられた真実と優しさ",
-    "description": "2017 年の一本のドッキリ動画から始まり、黄氏兄弟は「清新で、ポジティブ」というイメージで YouTube 界に頭角を現しました。しかし 2020 年の強制アウティング報道により、この兄弟はチャンネル登録者数 100 万人超の頂点にいた時期に、カメラの前でプライバシーを解体することを余儀なくされました。それは同時に、台湾社会がジェンダー平等に対して示した、最も優しい集団的応答の一つを思いがけず描き出すことにもなりました。",
+    "title": "黄氏兄弟：清新なラベルの裏側で、強制的に広げられた真実と優しさ",
+    "description": "2017年の一本のドッキリ動画から始まり、黄氏兄弟は「清新（さわやか）・正向（ポジティブ）」でYouTube界で頭角を現しました。しかし2020年、強制的なカミングアウト報道により、この兄弟は百万登録者の頂点で、カメラの前でプライバシーを剥き出しにすることを強いられました。それが意図せず、台湾社会におけるジェンダー平権への最も優しい集団的反応を描き出すことになりました。",
     "category": "People",
     "tags": [],
     "url": "https://taiwan.md/ja/people/huang-brothers-youtubers",
@@ -40436,6 +40476,19 @@
     "categorySlug": "society"
   },
   {
+    "title": "Academia Sinica: एक संस्थान जो चीन के अध्ययन के लिए बना था, उसने खुद को इस द्वीप में कैसे स्थापित किया",
+    "description": "1948 की सर्दियों में, देश का सर्वोच्च शैक्षणिक संस्थान ताइवान पहुँचा, जिसके साथ केवल पचास से अधिक लोग आए थे; ऐतिहासिक भाषा संस्थान के सांस्कृतिक अवशेष यांगमे रेलवे स्टेशन के पास एक गोदाम में रखे हुए थे। सत्तर से अधिक वर्षों के बाद, इसमें चौबीस संस्थान और नौ अनुसंधान केंद्र हैं, जो एक दुर्लभ निरंतरता को दर्शाता है: एक दशक में एक स्थल की खुदाई, ग्यारह साल में एक नया संस्थान। वह संरचना जिसने इसे ऐसा करने में सक्षम बनाया—कोई शिक्षण नहीं, कोई छात्र नामांकन नहीं, सीधे राष्ट्रपति कार्यालय के अधीन—उसने इसके प्रमुख की नियुक्ति राष्ट्रपति द्वारा सुनिश्चित की, बजट हर साल विस्तृत रूप से खोला गया, और यहाँ तक कि इसका नाम बदलना भी राष्ट्रीय पहचान का प्रश्न बन गया।",
+    "category": "Society",
+    "tags": [],
+    "url": "https://taiwan.md/hi/society/academia-sinica",
+    "readingTime": 18,
+    "featured": false,
+    "date": "2026-08-18",
+    "path": "hi/Society/academia-sinica.md",
+    "lang": "hi",
+    "categorySlug": "society"
+  },
+  {
     "title": "Academia Urso Negro: uma escola de defesa civil que espera um dia não precisar mais existir",
     "description": "Em 2021, cinco voluntários conversaram por cinco horas num café e decidiram ensinar os taiwaneses a enfrentar a guerra — após realizar alguns eventos, ficaram endividados em 210 mil. No ano seguinte, a Rússia invadiu a Ucrânia, e Cao Hsing-cheng doou 600 milhões, lançando a meta de \"três anos, três milhões de Guerreiros Urso Negro\". Ensina torniquetes, evacuação, prevenção de fraudes, e afirma categoricamente: \"absolutamente não é treinamento de milícia\". Quanto mais a sério ensinam, mais a China os coloca em listas de \"independência de Taiwan\" e mais servem de bola política na ilha. Uma escola nascida da guerra, mas que anseia por um dia não ser mais necessária.",
     "category": "Society",
@@ -42201,8 +42254,8 @@
     "categorySlug": "culture"
   },
   {
-    "title": "Anh em họ Hoàng: Sự thật và dịu dàng bị ép phơi bày đằng sau nhãn mác \"trong sáng\"",
-    "description": "Bắt đầu từ một video tổng thể năm 2017, anh em họ Hoàng đã nổi lên với hình ảnh \"trong sáng, tích cực\" trên YouTube. Tuy nhiên, một vụ báo chí buộc công khai vào năm 2020 đã buộc cặp anh em này phải tự bóc trần đời tư trước ống kính, nhưng cũng vô tình phác họa nên phản ứng tập thể dịu dàng nhất của xã hội Đài Loan đối với bình đẳng giới.",
+    "title": "Anh em nhà Huang: Đằng sau những nhãn dán tươi mới là sự thật và lòng trắc ẩn bị cưỡng ép phơi bày",
+    "description": "Bắt đầu từ một video troll vào năm 2017, anh em nhà Huang đã bứt phá trong giới YouTube với phong cách \"tươi mới và tích cực\". Tuy nhiên, một bản tin cưỡng ép công khai xu hướng tính dục vào năm 2020 đã buộc cặp anh em này phải phơi bày sự riêng tư trước ống kính ngay tại đỉnh cao triệu lượt đăng ký, nhưng cũng vô tình vẽ nên một phản ứng tập thể dịu dàng nhất của xã hội Đài Loan đối với bình đẳng giới.",
     "category": "People",
     "tags": [],
     "url": "https://taiwan.md/vi/people/huang-brothers-youtubers",
@@ -45693,6 +45746,19 @@
     "featured": false,
     "date": "2026-05-13",
     "path": "id/People/bernard-tseng.md",
+    "lang": "id",
+    "categorySlug": "people"
+  },
+  {
+    "title": "Bersaudara Huang: Di Balik Label \"Segar\", Kisah Keaslian dan Kelembutan yang Terpaksa Terbuka",
+    "description": "Bermula dari video pegadahan 2017, Bersaudara Huang menembus lingkaran YouTube dengan citra \"segar, positif\". Namun laporan paksa coming out 2020 memaksa saudara ini di puncak jutaan pelanggan untuk membongkar privasi di depan kamera, yang tak terduga justru menggambarkan respons kolektif paling lembut masyarakat Taiwan terhadap kesetaraan gender.",
+    "category": "People",
+    "tags": [],
+    "url": "https://taiwan.md/id/people/huang-brothers-youtubers",
+    "readingTime": 12,
+    "featured": false,
+    "date": "2026-06-01",
+    "path": "id/People/huang-brothers-youtubers.md",
     "lang": "id",
     "categorySlug": "people"
   },
@@ -49591,6 +49657,84 @@
     "categorySlug": "people"
   },
   {
+    "title": "Chang Chun : du conseiller de Guangfu à la présidence du conseil de Hualien, un parcours politique entre pouvoir local et controverses personnelles",
+    "description": "Le parcours politique de Chang Chun, président du conseil de Hualien : de ses origines à Guangfu à son élection au conseil, sa rupture avec le KMT en 2022 et sa candidature au poste de magistrat en 2026. Ce texte distingue les faits établis des allégations de campagne, mis à jour au 20 novembre 2026.",
+    "category": "People",
+    "tags": [],
+    "url": "https://taiwan.md/fr/people/chang-chun",
+    "readingTime": 7,
+    "featured": false,
+    "date": "2026-11-20",
+    "path": "fr/People/chang-chun.md",
+    "lang": "fr",
+    "categorySlug": "people"
+  },
+  {
+    "title": "Chang Chun: Dari Anggota Dewan Kecamatan Guangfu ke Ketua Dewan Hualien, Jalur Politik di Mana Kekuasaan Daerah dan Kontroversi Pribadi Bertemu",
+    "description": "Jalur politik Ketua Dewan Kabupaten Hualien Chang Chun, dari asal Kecamatan Guangfu, empat periode anggota dewan kabupaten dan dua periode ketua dewan, hingga keluar partai pada 2022 dan mencalonkan diri bupati pada 2026, dengan landasan catatan jabatan publik, proses yudisial, dinamika kampanye, kebijakan yang diusung, dan tanggapan berbagai pihak, membedakan fakta terverifikasi, prosesi perkara, dan tuduhan kampanye yang belum terbukti. Data diperbarui hingga 20 November 2026, menghindari pencampuran tuduhan kampanye dengan putusan pengadilan.",
+    "category": "People",
+    "tags": [],
+    "url": "https://taiwan.md/id/people/chang-chun",
+    "readingTime": 7,
+    "featured": false,
+    "date": "2026-11-20",
+    "path": "id/People/chang-chun.md",
+    "lang": "id",
+    "categorySlug": "people"
+  },
+  {
+    "title": "Chang Chun: de concejal del municipio de Kuangfu a presidente del Concejo de Hualien, la trayectoria política donde se cruzan el poder local y las controversias personales",
+    "description": "La trayectoria política de Chang Chun, presidente del Concejo del Condado de Hualien: desde sus orígenes en el municipio de Kuangfu, cuatro mandatos como concejal y dos como presidente, hasta su salida del partido en 2022 y su candidatura a la magistratura en 2026, estructurada en torno a registros públicos, procesos judiciales, ofensiva electoral, propuestas de política y respuestas de las partes, distinguiendo hechos verificables, estado procesal y afirmaciones de campaña no comprobadas. Datos actualizados al 20 de noviembre de 2026, evitando confundir acusaciones electorales con sentencias judiciales.",
+    "category": "People",
+    "tags": [],
+    "url": "https://taiwan.md/es/people/chang-chun",
+    "readingTime": 7,
+    "featured": false,
+    "date": "2026-11-20",
+    "path": "es/People/chang-chun.md",
+    "lang": "es",
+    "categorySlug": "people"
+  },
+  {
+    "title": "Chang Chun: De vereador de Guangfu a presidente da Assembleia de Hualien, uma trajetória política entre o poder local e controvérsias pessoais",
+    "description": "A trajetória política de Chang Chun, presidente da Assembleia de Hualien, desde sua origem em Guangfu até as eleições para governador em 2026, detalhando fatos, processos judiciais e disputas eleitorais. Dados atualizados até 20 Novembro de 2026.",
+    "category": "People",
+    "tags": [],
+    "url": "https://taiwan.md/pt/people/chang-chun",
+    "readingTime": 7,
+    "featured": false,
+    "date": "2026-11-20",
+    "path": "pt/People/chang-chun.md",
+    "lang": "pt",
+    "categorySlug": "people"
+  },
+  {
+    "title": "Chang Chun: From Guangfu Township Councilor to Hualien Speaker, a Political Path Where Local Power and Personal Controversy Intersect",
+    "description": "The political trajectory of Hualien County Speaker Chang Chun—from his origins in Guangfu Township through four terms as county councilor and two terms as speaker, to his 2022 departure from the KMT and 2026 candidacy for county magistrate. This article distinguishes between confirmed facts, legal proceedings, election campaign rhetoric, policy stances, and various responses, with data updated to November 20, 2026, to avoid conflating campaign allegations with judicial rulings.",
+    "category": "People",
+    "tags": [],
+    "url": "https://taiwan.md/en/people/chang-chun",
+    "readingTime": 7,
+    "featured": false,
+    "date": "2026-11-20",
+    "path": "en/People/chang-chun.md",
+    "lang": "en",
+    "categorySlug": "people"
+  },
+  {
+    "title": "Chang Chun: Vom Gemeinderat von Guangfu zum Sprecher des Landtags von Hualien – Ein politischer Weg zwischen lokaler Macht und persönlichen Kontroversen",
+    "description": "Der politische Werdegang von Chang Chun, Sprecher des Landtags von Hualien: Von seinen Wurzeln in Guangfu über vier Amtszeiten als Landtagsabgeordneter und zwei als Sprecher bis hin zu seinem Parteiaustritt 2022 und der Kandidatur für das Gouverneursamt 2026. Der Artikel unterscheidet zwischen belegbaren Fakten, Gerichtsverfahren und unbestätigten Wahlkampfbehauptungen (Stand: 20. November 2026).",
+    "category": "People",
+    "tags": [],
+    "url": "https://taiwan.md/de/people/chang-chun",
+    "readingTime": 7,
+    "featured": false,
+    "date": "2026-11-20",
+    "path": "de/People/chang-chun.md",
+    "lang": "de",
+    "categorySlug": "people"
+  },
+  {
     "title": "Chang Chung-jen and Chang Chung-yi: Life Begins After the Body Is Separated",
     "description": "Born in Kaohsiung in 1976, Chang Chung-jen and Chang Chung-yi spent their first three years at Chung Shan Medical Hospital. In 1979, a 36-person team from National Taiwan University Hospital completed a 12-hour separation surgery. The true, long story began only after they left the operating table: pain, prosthetics, work, family, and media scrutiny transformed two names into distinct lives over 40 years, prompting Taiwan to reconsider the distance between medical breakthroughs and individual autonomy.",
     "category": "People",
@@ -52034,6 +52178,19 @@
     "date": "2026-03-25",
     "path": "pt/People/zheng-nanrong.md",
     "lang": "pt",
+    "categorySlug": "people"
+  },
+  {
+    "title": "Cheng Nan-jung: un \"hijo de forasteros\" que pagó con su vida la libertad de expresión",
+    "description": "En 1947, durante el 228, su padre se salvó al ser escondido por vecinos taiwaneses; 41 años después, Cheng Nan-jung se inmoló en su revista. Fundó \"La Era de la Libertad\" en 1984, obtuvo 24 licencias y sufrió 18 prohibiciones; en 1988 publicó el borrador de constitución de la República de Taiwán de Hsu Hsin-liang, y el 7 de abril de 1989 se quemó a sí mismo. Su viuda, Yeh Chu-lan, entró en política y llegó a ser vicepresidenta del Yuan Ejecutivo y secretaria general de la Presidencia. Su elección sigue generando debate: mártir para unos, acto extremo para otros. La libertad de expresión en Taiwán es hoy tan cotidiana que muchos olvidan que costó vidas.",
+    "category": "People",
+    "tags": [],
+    "url": "https://taiwan.md/es/people/zheng-nanrong",
+    "readingTime": 26,
+    "featured": true,
+    "date": "2026-03-25",
+    "path": "es/People/zheng-nanrong.md",
+    "lang": "es",
     "categorySlug": "people"
   },
   {
@@ -54944,6 +55101,19 @@
     "path": "de/Music/loh-tsui-kang-commune.md",
     "lang": "de",
     "categorySlug": "music"
+  },
+  {
+    "title": "Chuỗi cung ứng phần cứng AI thiết lập nhà máy ở hải ngoại: Năng lực Taiwan được thế giới mời gọi",
+    "description": "Việc chuỗi cung ứng phần cứng AI thiết lập nhà máy ở hải ngoại không chỉ dừng lại ở TSMC sang Mỹ, Nhật, Đức, mà còn bao gồm Foxconn, Wistron, Delta Electronics, các nhà cung cấp đóng gói kiểm tra và máy chủ bị khách hàng, thuế quan, trợ cấp và địa chính trị kéo về Mỹ, Nhật, Châu Âu, Ấn Độ, Đông Nam Á và Mexico. Bài viết này từ góc độ toàn cầu hóa, khử rủi ro và chiến lược chuỗi cung ứng giải thích: Doanh nghiệp Taiwan ra khơi là sự mở rộng năng lực, cũng là hành động của thế giới giảm bớt sự phụ thuộc đơn điểm, không phải là một cuộc di dời doanh nghiệp đơn thuần.",
+    "category": "Technology",
+    "tags": [],
+    "url": "https://taiwan.md/vi/technology/ai-supply-chain-overseas-manufacturing",
+    "readingTime": 55,
+    "featured": false,
+    "date": "2026-07-11",
+    "path": "vi/Technology/ai-supply-chain-overseas-manufacturing.md",
+    "lang": "vi",
+    "categorySlug": "technology"
   },
   {
     "title": "Chuỗi cung ứng phần cứng AI: Đài Loan — nơi biến đám mây thành máy móc",
@@ -58869,19 +59039,6 @@
     "path": "vi/Technology/taiwan-ai-in-daily-life.md",
     "lang": "vi",
     "categorySlug": "technology"
-  },
-  {
-    "title": "Cuộc thảo luận hạt nhân tại Đài Loan: Phản đối hạt nhân từng là ngôn ngữ chung của phong trào dân chủ, nhưng cuộc khủng hoảng khí hậu đã thay đổi tất cả",
-    "description": "Tháng 8 năm 2025, 4,34 triệu người bỏ phiếu đồng ý \"khôi phục hoạt động nhà máy hạt nhân thứ ba\", chiếm 74%, nhưng vì tỷ lệ tham gia bỏ phiếu chưa vượt ngưỡng đã được quyết định nên vẫn bị coi là thất bại. Ba lần cuộc bỏ phiếu công dân trong bốn mươi năm, Đài Loan từ đó sự đồng thuận phản đối hạt nhân, tới hướng tới gia đình phi hạt nhân, rồi trong ba tháng lại thúc đẩy khôi phục lò phản ứng mới đóng cửa. Cuộc tranh luận này đã vượt ra ngoài câu hỏi \"liệu hạt nhân có tốt không\" mà trở thành vấn đề xã hội: làm thế nào để một quốc gia quyết định về những vấn đề với những bộ đếm ngược thời gian hoàn toàn khác nhau: chất thải hạt nhân cần an toàn mười vạn năm, giảm khí thải phải hoàn tất trong mười năm, và thiếu điện đang xảy ra ngay bây giờ.",
-    "category": "Society",
-    "tags": [],
-    "url": "https://taiwan.md/vi/society/taiwan-nuclear-debate",
-    "readingTime": 115,
-    "featured": false,
-    "date": "2026-06-07",
-    "path": "vi/Society/taiwan-nuclear-debate.md",
-    "lang": "vi",
-    "categorySlug": "society"
   },
   {
     "title": "Cuộc vận động phục hồi ngôn ngữ người bản địa Đài Loan",
@@ -63284,19 +63441,6 @@
     "path": "de/Nature/taiwan-alpine-ecosystems-glacial-relicts.md",
     "lang": "de",
     "categorySlug": "nature"
-  },
-  {
-    "title": "Die Huang-Gebrüder: Hinter dem frischen Etikett liegt die gezwungen offengelegte Wahrheit und die Sanftmut",
-    "description": "Beginnend mit einem Streichvideo im Jahr 2017 stiegen die Huang-Gebrüder mit „frisch und positiv“ in der YouTube-Szene erfolgreich vor. Doch ein Bericht 2020, der sie gezwungen hat, ihre Privatsphäre vor der Kamera preiszugeben, zwang sie inmitten von einer Million Abonnenten, ihre Privatsphäre zu zerlegen und zeichnete dabei zufällig das sanfteste kollektive Echo Taiwans auf die Themen Gleichstellung und Geschlechtergerechtigkeit nach.",
-    "category": "People",
-    "tags": [],
-    "url": "https://taiwan.md/de/people/huang-brothers-youtubers",
-    "readingTime": 12,
-    "featured": false,
-    "date": "2026-06-01",
-    "path": "de/People/huang-brothers-youtubers.md",
-    "lang": "de",
-    "categorySlug": "people"
   },
   {
     "title": "Die Insel, die den Müllwagen hinterherjagt: Taiwans Weg von der Müllkrise zum Recycling-Wunder",
@@ -74052,12 +74196,12 @@
     "categorySlug": "technology"
   },
   {
-    "title": "Giang Hiền Nhị: Trốn khỏi Đài Loan bốn mươi lăm năm, trở về nhà mới vẽ được bức tranh tốt nhất đời mình",
-    "description": "Năm 1967 mùa đông, hai mươi lăm tuổi, Giang Hiền Nhị chạy tới Paris tìm Giacometti, nhưng biết được idol đã qua đời năm trước. Bốn mươi lăm năm tiếp theo, anh sống tại Paris, Tân Ước, Đài Bắc với cửa sổ được khóa kín, tìm ánh sáng trong trái tim; năm 1975 triển lãm đầu tiên tại New York Lamagna Gallery không bán được bức tranh nào. Những năm 1990, khi cha ngã, anh trở về Đài Bắc, vẽ bộ sưu tập \"trăm năm chùa\" giữa khí hương Long Sơn. 2008 định cư ở Đài Đông Kimpun lúc sáu mươi lăm tuổi, 2025 công viên nghệ thuật Giang Hiền Nhị khai mạc lúc tám mươi ba tuổi.",
+    "title": "Giang Hiền Nhị: Rời khỏi Đài Loan bốn mươi lăm năm, sau khi trở về mới vẽ được những tác phẩm tuyệt vời nhất cuộc đời",
+    "description": "Mùa đông năm 1967, Giang Hiền Nhị ở tuổi hai mươi lăm đã lên đường tới Paris tìm gặp Giả Kha Mai Đệ (Jacques Méthot), nhưng phát hiện thần tượng của mình đã qua đời từ một năm trước. Trong bốn mươi lăm năm tiếp theo, ông đóng kín cửa sổ tại SoHo, New York để đi tìm ánh sáng trong tâm hồn; năm 1975, phòng triển lãm Lamagna không bán được một bức tranh nào. Vào năm 1990 khi cha ông bị ngã, ông đã trở về giữa làn khói hương của chùa Long Sơn và vẽ nên tác phẩm \"Bách Niên Miếu\". Năm 2008, ông định cư tại Kim Tôn, Đài Đông ở tuổi sáu mươi lăm, và đến năm 2025 khi Khu nghệ thuật Giang Hiền Nhị khai trương, ông đã tám mươi ba tuổi.",
     "category": "Art",
     "tags": [],
     "url": "https://taiwan.md/vi/art/chiang-hsien-yi",
-    "readingTime": 80,
+    "readingTime": 97,
     "featured": true,
     "date": "2026-05-25",
     "path": "vi/Art/chiang-hsien-yi.md",
@@ -75690,6 +75834,19 @@
     "categorySlug": "society"
   },
   {
+    "title": "Hai lần đổ bộ: Dòng Đa Minh tại Đài Loan năm 1626 và 1859",
+    "description": "Tháng 5 năm 1626, các tu sĩ Dòng Đa Minh theo hạm đội Tây Ban Nha đổ bộ lên Đảo Hòa Bình ở Cát Lồng; trong mười sáu năm, ít nhất 31 tu sĩ truyền giáo ở miền Bắc Đài Loan, khoảng bốn nghìn người được rửa tội, cho đến khi quân Hà Lan chiếm Cát Lồng năm 1642 và việc truyền giáo phải dừng lại. Hai trăm ba mươi ba năm sau, Cha Quách Đức Cương (郭德剛) và Cha Hồng Bảo Lộc (洪保祿, Angel Bofurull) đến Takao vào ngày 18 tháng 5 năm 1859, khởi đầu từ một nhà truyền giáo lợp rạ ở Tiền Kim, để rồi lớn lên thành Vương cung thánh đường Đức Mẹ Mân Côi và Nhà thờ Vạn Kim. Bài viết này kể về khoảng trống giữa hai lần đổ bộ của cùng một dòng tu, nguồn gốc của tấm bia \"Phụng Chỉ\", và quan hệ giữa việc truyền giáo với hệ thống hiệp ước của các đế quốc.",
+    "category": "History",
+    "tags": [],
+    "url": "https://taiwan.md/vi/history/dominican-order-taiwan",
+    "readingTime": 11,
+    "featured": false,
+    "date": "2026-11-17",
+    "path": "vi/History/dominican-order-taiwan.md",
+    "lang": "vi",
+    "categorySlug": "history"
+  },
+  {
     "title": "Hai mặt của đường Thắng Lợi: Ký ức Hồ Khẩu từ quân sự hóa đến \"bãi đỗ xe lớn\"",
     "description": "Trên đường Thắng Lợi, Hồ Khẩu, một bên là doanh trại với xe tăng và bão chính trị, một bên là khu dân cư, hội phúc lợi và rạp chiếu phim đã biến mất. Đây là lịch sử địa phương về tình làng nghĩa xóm, tai nạn và công lý xã hội.",
     "category": "History",
@@ -76622,19 +76779,6 @@
     "featured": false,
     "date": "2026-03-29",
     "path": "es/People/henry-lee-forensic.md",
-    "lang": "es",
-    "categorySlug": "people"
-  },
-  {
-    "title": "Hermanos Huang: detrás de la etiqueta de frescura, la verdad y la ternura obligadas a quedar expuestas",
-    "description": "A partir de un video de broma publicado en 2017, los Hermanos Huang se abrieron paso en el ecosistema de YouTube con una imagen “fresca y positiva”. Sin embargo, en 2020, un reportaje que forzó una salida del clóset llevó a estos dos hermanos, en la cima del millón de suscriptores, a desarmar su intimidad frente a la cámara; al mismo tiempo, delineó de manera inesperada una de las respuestas colectivas más amables de la sociedad taiwanesa ante la igualdad de género.",
-    "category": "People",
-    "tags": [],
-    "url": "https://taiwan.md/es/people/huang-brothers-youtubers",
-    "readingTime": 12,
-    "featured": false,
-    "date": "2026-06-01",
-    "path": "es/People/huang-brothers-youtubers.md",
     "lang": "es",
     "categorySlug": "people"
   },
@@ -79753,8 +79897,8 @@
     "categorySlug": "geography"
   },
   {
-    "title": "Huang Brothers: Behind the Fresh-Faced Label, the Reality and Tenderness Forced into the Open",
-    "description": "Beginning with a prank video in 2017, the Huang Brothers broke through Taiwan's YouTube scene with a “fresh, positive” image. Yet a forced-outing report in 2020 pushed the brothers, then at the peak of one million subscribers, to dissect their privacy before the camera, while unexpectedly tracing one of Taiwanese society's gentlest collective responses to gender equality.",
+    "title": "Huang Brothers: Behind the Fresh Labels, a Forced Exposure of Truth and Tenderness",
+    "description": "Starting from a 2017 prank video, the Huang Brothers rose to fame with a \"fresh and positive\" image on YouTube, only to face a forced outing in 2020 that tested media ethics and revealed Taiwan''s collective compassion.",
     "category": "People",
     "tags": [],
     "url": "https://taiwan.md/en/people/huang-brothers-youtubers",
@@ -79763,6 +79907,19 @@
     "date": "2026-06-01",
     "path": "en/People/huang-brothers-youtubers.md",
     "lang": "en",
+    "categorySlug": "people"
+  },
+  {
+    "title": "Huang Brothers: Por trás dos rótulos refrescantes, a verdade e a ternura forçadas à luz",
+    "description": "De um vídeo de pegadinha em 2017 ao impacto de uma exposição não consensual em 2020, conheça a trajetória dos Huang Brothers e sua influência na igualdade de gênero em Taiwan.",
+    "category": "People",
+    "tags": [],
+    "url": "https://taiwan.md/pt/people/huang-brothers-youtubers",
+    "readingTime": 12,
+    "featured": false,
+    "date": "2026-06-01",
+    "path": "pt/People/huang-brothers-youtubers.md",
+    "lang": "pt",
     "categorySlug": "people"
   },
   {
@@ -80620,6 +80777,19 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "de/People/huang-zhen-nan-book-collector-historian.md",
+    "lang": "de",
+    "categorySlug": "people"
+  },
+  {
+    "title": "Huang-Brüder: Hinter dem frischen Label die erzwungene Entfaltung von Wahrheit und Zärtlichkeit",
+    "description": "Ausgehend von einem Prank-Video 2017 durchbrachen die Huang-Brüder mit „frisch, positiv“ die YouTube-Szene. Doch ein 2020er Bericht, der einen von ihnen zwangsoutete, zwang das Brüderpaar auf dem Höhepunkt ihrer Millionen-Abonnenten, ihre Privatsphäre vor der Kamera offenzulegen – und skizzierte unerwartet die zärtlichste kollektive Reaktion der taiwanischen Gesellschaft auf Geschlechtergerechtigkeit.",
+    "category": "People",
+    "tags": [],
+    "url": "https://taiwan.md/de/people/huang-brothers-youtubers",
+    "readingTime": 12,
+    "featured": false,
+    "date": "2026-06-01",
+    "path": "de/People/huang-brothers-youtubers.md",
     "lang": "de",
     "categorySlug": "people"
   },
@@ -82653,19 +82823,6 @@
     "path": "en/Economy/taiwan-uniform-invoice.md",
     "lang": "en",
     "categorySlug": "economy"
-  },
-  {
-    "title": "Irmãos Huang: Por trás do rótulo \"refrescante\", a verdade e a ternura forçadas a se revelar",
-    "description": "A partir de um vídeo de pegadinha em 2017, os Irmãos Huang se destacaram no YouTube com uma imagem \"refrescante e positiva\". No entanto, uma reportagem de 2020 que os forçou a sair do armário fez com que a dupla, no auge de milhões de inscritos, fosse obrigada a expor sua privacidade diante das câmeras — mas também acabou por delinear a resposta coletiva mais gentil da sociedade taiwanesa sobre igualdade de gênero.",
-    "category": "People",
-    "tags": [],
-    "url": "https://taiwan.md/pt/people/huang-brothers-youtubers",
-    "readingTime": 12,
-    "featured": false,
-    "date": "2026-06-01",
-    "path": "pt/People/huang-brothers-youtubers.md",
-    "lang": "pt",
-    "categorySlug": "people"
   },
   {
     "title": "Iron Ox Wu Chia-wei: \"Jie-ge, Don''t\" Viral for 13 Years, the Actor Who Played Jie-ge Went from Declining to Accepting Calmly",
@@ -86207,8 +86364,8 @@
     "categorySlug": "society"
   },
   {
-    "title": "Kesehatan Taiwan dan Jaminan Kesehatan Nasional: Nomor Satu Dunia dengan 99,6% di Atas 12,61%",
-    "description": "Kartu jaminan kesehatan yang dikeluarkan pada tanggal 1 Maret 1995 dibuat terburu-buru: kartu bahkan belum tercetak enam hari sebelumnya. Tiga puluh tahun kemudian, hak berobat bagi 23 juta orang ditopang oleh tingkat biaya 5,17%, tingkat pengunduran diri perawat tertinggi dalam 10 tahun sebesar 12,61%, dan tabu politik yang tidak berani disentuh selama 30 tahun.",
+    "title": "Kesehatan Taiwan dan Jaminan Kesehatan Nasional: 99,6% Bertahan di Atas 12,61% sebagai Peringkat Pertama Dunia",
+    "description": "Kartu Jaminan Kesehatan tanggal 1 Maret 1995 dikeluarkan dengan terburu-buru: enam hari sebelumnya kartu tersebut belum selesai dicetak. 30 tahun kemudian, hak akses perawatan kesehatan 23 juta orang didukung oleh tingkat premi 5,17%, tingkat turnover perawat 12,61%, dan tingkat cakupan 99,6%. Artikel ini mencakup dari kartu IC, total budget dan nilai poin, hingga indikator pengawasan Dewan Jaminan Kesehatan Tahun 113 (2024): persentase pasien IGD yang ditahan lebih dari 24 jam 3,68%, perawatan paliatif kanker stadium akhir sekitar 60%, rawat inap tempat tidur akut 7,3 hari, tingkat perawatan primer di rumah sakit tipe regional ke atas 18,37%, serta evaluasi tahunan dengan 10 indikator membaik dan 8 indikator menurun, menggunakan 23 angka untuk mengevaluasi posisi sistem ini saat ini.",
     "category": "Lifestyle",
     "tags": [],
     "url": "https://taiwan.md/id/lifestyle/taiwan-healthcare-and-national-health-insurance",
@@ -96321,19 +96478,6 @@
     "categorySlug": "lifestyle"
   },
   {
-    "title": "Les frères Huang : derrière l’étiquette de fraîcheur, cette vérité et cette douceur exposées de force",
-    "description": "Depuis une vidéo de canular publiée en 2017, les frères Huang se sont imposés dans l’univers YouTube par une image « fraîche et positive ». Mais en 2020, un article relevant de l’outing forcé a contraint les deux frères, alors au sommet avec plus d’un million d’abonnés, à disséquer leur intimité devant la caméra ; il a aussi, de façon inattendue, esquissé l’une des réponses collectives les plus bienveillantes de la société taïwanaise en faveur de l’égalité de genre.",
-    "category": "People",
-    "tags": [],
-    "url": "https://taiwan.md/fr/people/huang-brothers-youtubers",
-    "readingTime": 12,
-    "featured": false,
-    "date": "2026-06-01",
-    "path": "fr/People/huang-brothers-youtubers.md",
-    "lang": "fr",
-    "categorySlug": "people"
-  },
-  {
     "title": "Les gardiens de l'écran : l'évolution du système de classification des films et séries à Taïwan",
     "description": "Le système de classification taïwanais incarne le passage de la \"censure d''État\" sous la loi martiale à la \"protection de l''enfance\" à l''ère démocratique. De l''abolition de la loi sur la censure cinématographique en 1983 à la naissance de la catégorie \"Protégé\" inspirée par Jurassic Park en 1993, jusqu''à l''harmonisation complète au système à cinq niveaux en 2026, cet article retrace une longue évolution entre droit du spectateur et responsabilité sociale.",
     "category": "Society",
@@ -96358,6 +96502,19 @@
     "path": "fr/Culture/taiwan-iron-window-grilles.md",
     "lang": "fr",
     "categorySlug": "culture"
+  },
+  {
+    "title": "Les Huang Brothers : derrière l'étiquette de la fraîcheur, une vérité et une tendresse imposées",
+    "description": "D'une vidéo de canular en 2017 à un coming-out forcé en 2020, découvrez le parcours des Huang Brothers, entre éthique médiatique et égalité des genres à Taïwan.",
+    "category": "People",
+    "tags": [],
+    "url": "https://taiwan.md/fr/people/huang-brothers-youtubers",
+    "readingTime": 12,
+    "featured": false,
+    "date": "2026-06-01",
+    "path": "fr/People/huang-brothers-youtubers.md",
+    "lang": "fr",
+    "categorySlug": "people"
   },
   {
     "title": "Les huit voix en un : le fossile vivant qui défie l'histoire de la musique occidentale",
@@ -100544,6 +100701,19 @@
     "categorySlug": "culture"
   },
   {
+    "title": "Los hermanos Huang: tras la etiqueta de frescura, una verdad y ternura forzadas a la luz",
+    "description": "Desde un vídeo de bromas en 2017, los hermanos Huang destacaron en YouTube por su contenido \"fresco y positivo\". Sin embargo, un reportaje sobre su salida del armario en 2020 les obligó a desmantelar su privacidad ante millones de suscriptores, revelando la respuesta más tierna de la sociedad taiwanesa hacia la igualdad de género.",
+    "category": "People",
+    "tags": [],
+    "url": "https://taiwan.md/es/people/huang-brothers-youtubers",
+    "readingTime": 12,
+    "featured": false,
+    "date": "2026-06-01",
+    "path": "es/People/huang-brothers-youtubers.md",
+    "lang": "es",
+    "categorySlug": "people"
+  },
+  {
     "title": "Los kavalan: el tejido de fibra de banano y el nombre recuperado",
     "description": "Desde los asentamientos fluviales y costeros de la llanura de Lanyang, la batalla de Kalawan en 1878 hasta la restauración de su nombre en 2002, los kavalan han tejido su identidad de vuelta al hogar, a las aldeas y a la memoria pública a través de la lengua, los rituales, la vida costera y el tejido de fibra de banano. Este artículo distingue tres niveles —reconocimiento oficial, identidad étnica y revitalización cultural— para explicar que la lucha por la identidad y la transmisión continúa incluso después de la restauración del nombre.",
     "category": "Culture",
@@ -104021,6 +104191,19 @@
     "path": "pt/Society/media-and-press-freedom-in-taiwan.md",
     "lang": "pt",
     "categorySlug": "society"
+  },
+  {
+    "title": "Mie Eel Tainan: Ikan Eel di Parit Tanaman Berkurang, Api Besar di Depan Wajan Diturunkan Generasi ke Generasi",
+    "description": "Pada 2013, sebuah blog mencatat di dinding warung mie eel legendaris di Sakhariba Tainan tertulis \"tumis eel 27 detik\". Penulis Yu Fu mencatat bersaudara Liao belajar \"pisau\" dari guru Fuzhou. Blogger Mao Daye mencatat An Yuan mulai menjual eel tumis bersama ayahnya sejak 14 tahun, keponakan An Jiang belajar dari paman ketiganya sejak 17 tahun. Ikan eel di parit tanaman berkurang, seberapa besar api, berapa banyak bumbu, seberapa kental kuah, semuanya tetap di tangan orang-orang di depan wajan beberapa keluarga.",
+    "category": "Food",
+    "tags": [],
+    "url": "https://taiwan.md/id/food/eel-noodles",
+    "readingTime": 14,
+    "featured": false,
+    "date": "2026-07-02",
+    "path": "id/Food/eel-noodles.md",
+    "lang": "id",
+    "categorySlug": "food"
   },
   {
     "title": "Mie Kering Hsinchu: Industri yang Dikeringkan oleh Angin Sepanjang Sembilan Bulan, dan Berat Sejenis Nama",
@@ -108589,19 +108772,6 @@
     "categorySlug": "art"
   },
   {
-    "title": "Nhà máy AI ở nước ngoài: Khả năng Đài Loan được thế giới yêu cầu",
-    "description": "Nhà máy AI ở nước ngoài không chỉ là TSMC tới Mỹ, Nhật, Đức; nó bao gồm cả Foxconn, Wistron, Delta, công ty đóng gói và cung cấp máy chủ bị kéo tới Mỹ, Nhật, châu Âu, Ấn Độ, Đông Nam Á và Mexico. Bài viết này giải thích từ toàn cầu hóa, giảm rủi ro và cuộc chơi chuỗi cung ứng: các doanh nghiệp Đài Loan ra nước ngoài là sự mở rộng khả năng, cũng là hành động của thế giới để giảm sự phụ thuộc vào một điểm, không phải chỉ một cuộc di chuyển công ty.",
-    "category": "Technology",
-    "tags": [],
-    "url": "https://taiwan.md/vi/technology/ai-supply-chain-overseas-manufacturing",
-    "readingTime": 53,
-    "featured": false,
-    "date": "2026-07-11",
-    "path": "vi/Technology/ai-supply-chain-overseas-manufacturing.md",
-    "lang": "vi",
-    "categorySlug": "technology"
-  },
-  {
     "title": "Nhà ở quốc gia và công lý cư trú: Những căn nhà giá rẻ do chính phủ xây dựng, cuối cùng trở thành thang máy tài sản cho ai?",
     "description": "Năm 1985, nhà ở quốc gia Thành Công (Sheng-chong) có giá 67.000 Đài tệ/ping không ai mua, một trưởng thôn đã gom góp 400.000 Đài tệ tiền đặt cọc để mua; bốn mươi năm sau, cùng một địa chỉ đó giá đã tiệm cận 1 triệu Đài tệ/ping. Nhà ở quốc gia vốn là công cụ \"giúp người dân mua được nhà\", nhưng chưa từng lắp đặt cơ chế thu hồi giá trị gia tăng, khiến trợ cấp công cộng cuối cùng biến thành tài sản cá nhân của những người mua sớm. Năm 2026, Đào Viên đã lắp lại cơ chế đó, coi như một sự thừa nhận sai lầm cho chính sách nhà ở quốc gia.",
     "category": "Society",
@@ -109483,7 +109653,7 @@
   },
   {
     "title": "Nombres de mercado",
-    "description": "¿Cuántas personas se giran al escuchar un grito de «Shufen» o «Jiahao» en las calles de Taiwán? Estos nombres son un reflejo de la sociedad taiwanesa, registrando la imaginación colectiva de distintas generaciones sobre una «vida hermosa».",
+    "description": "Si gritas «Shufen» o «Chia-hao» en una calle de Taiwán, ¿cuántas personas se darían la vuelta? Estos nombres son un microcosmos de la sociedad taiwanesa.",
     "category": "Culture",
     "tags": [],
     "url": "https://taiwan.md/es/culture/common-taiwanese-names",
@@ -109726,6 +109896,19 @@
     "date": "2026-11-19",
     "path": "pt/Economy/tax-revenue-structure.md",
     "lang": "pt",
+    "categorySlug": "economy"
+  },
+  {
+    "title": "NT$3 800 milliards d'impôts : 53,4 % proviennent de l'impôt sur le revenu, et cet écart réduit de NT$50,5 milliards à NT$14,3 milliards",
+    "description": "Les statistiques finales des recettes fiscales nationales de l'année 114 (2025) s'élèvent à NT$3 787,9 milliards, soit un manque de NT$14,3 milliards par rapport au budget ; les statistiques préliminaires publiées en janvier indiquaient NT$3 751,5 milliards, avec un manque de NT$50,5 milliards, la différence entre les deux totaux provenant des rentrées fiscales comptabilisées pendant la période de régularisation de fin d'année. Cet article décompose les sources de ces NT$3 800 milliards : l'impôt sur les bénéfices des entreprises et l'impôt sur le revenu des personnes physiques représentent ensemble 53,4 %, la taxe sur les ventes 16,3 %, la taxe sur les transactions de valeurs mobilières NT$292,8 milliards avec un volume quotidien moyen de NT$489,4 milliards ; la taxe sur la plus-value foncière et la taxe sur les marchandises sont quant à elles en retrait en raison du refroidissement des marchés immobilier et automobile. Sur 18 postes fiscaux, 11 ont atteint leur objectif, pour aboutir à un taux de pression fiscale de 13,2 %.",
+    "category": "Economy",
+    "tags": [],
+    "url": "https://taiwan.md/fr/economy/tax-revenue-structure",
+    "readingTime": 11,
+    "featured": false,
+    "date": "2026-11-19",
+    "path": "fr/Economy/tax-revenue-structure.md",
+    "lang": "fr",
     "categorySlug": "economy"
   },
   {
@@ -110005,6 +110188,19 @@
     "date": "2026-06-22",
     "path": "ru/Technology/nvidia-in-taiwan.md",
     "lang": "ru",
+    "categorySlug": "technology"
+  },
+  {
+    "title": "NVIDIA ताइवान में: दुनिया की सबसे महंगी कंपनी, जिसका एक भी चिप खुद का नहीं बना है",
+    "description": "मई 2025 के Computex में, जब जेनसन हुआंग चमड़े की जैकेट पहने मंच पर आए, तो बैकबोर्ड पर एक साथ 55 ताइवानी कंपनियों के लोगो चमक उठे—एक अमेरिकी कंपनी ने सार्वजनिक रूप से पूरे द्वीप के उद्योग को अपना शरीर बना लिया। 1996 में मॉरिस चांग को लिखे गए उस पत्र से लेकर, 5 ट्रिलियन डॉलर के बाजार पूंजीकरण तक, और ताइपे शहर सरकार द्वारा इसके लिए NT$4.434 बिलियन खर्च करके जमीन खाली कराने तक, NVIDIA ने अपना पूरा अस्तित्व ताइवान के पास जमा कर दिया है। इस वजह से ताइवान के पास दुनिया का वह स्विच है जिसे कोई बंद नहीं कर सकता, लेकिन सकल लाभ मार्जिन केवल 5% है, बिजली और पानी की खपत बढ़ गई है, और युद्ध का जोखिम इस द्वीप पर टिका है: इससे अलग न हो पाना, इसका मतलब यह नहीं है कि ताइवान के पास नियंत्रण है।",
+    "category": "Technology",
+    "tags": [],
+    "url": "https://taiwan.md/hi/technology/nvidia-in-taiwan",
+    "readingTime": 135,
+    "featured": true,
+    "date": "2026-06-22",
+    "path": "hi/Technology/nvidia-in-taiwan.md",
+    "lang": "hi",
     "categorySlug": "technology"
   },
   {
@@ -120862,19 +121058,6 @@
     "categorySlug": "lifestyle"
   },
   {
-    "title": "Saudara Huang: Di Balik Label Segar, Realitas dan Kelembutan yang Dipaksa Terbuka",
-    "description": "Dimulai dari sebuah video prank tahun 2017, Saudara Huang menembus lingkaran YouTube dengan \"kesegaran dan kepositian\". Namun pada 2020, sebuah laporan pemaksaan coming out membuat pasangan saudara ini, di puncak jutaan pelanggan, terpaksa mengungkap privasi di depan kamera, sekaligus secara tak terduga melukis respons kolektif yang paling lembut Taiwan terhadap kesetaraan gender.",
-    "category": "People",
-    "tags": [],
-    "url": "https://taiwan.md/id/people/huang-brothers-youtubers",
-    "readingTime": 12,
-    "featured": false,
-    "date": "2026-06-01",
-    "path": "id/People/huang-brothers-youtubers.md",
-    "lang": "id",
-    "categorySlug": "people"
-  },
-  {
     "title": "Saúde e Seguro de Saúde Nacional em Taiwan: O número um do mundo com 99,6% de cobertura sustentada por 12,61%",
     "description": "O cartão do seguro de saúde de 1 de março de 1995 foi lançado às pressas: seis dias antes, nem sequer tinham sido impressos. 30 anos depois, o direito médico de 23 milhões de pessoas sustenta-se sobre uma taxa de contribuição de 5,17%, uma taxa de rotatividade de enfermagem de 12,61% e uma cobertura de 99,6%. Este artigo percorre desde os cartões IC, o sistema de orçamento global e valores de pontos até aos indicadores de monitoramento do Conselho Nacional de Seguro de Saúde para o ano de 123 (2024): retenção em emergências por mais de 24 horas a 3,68%, cuidados paliativos para câncer terminal em cerca de 60%, internação em leitos agudos por 7,3 dias, taxa de cuidados primários em hospitais regionais ou superiores de 18,37%, além de uma avaliação anual com 10 avanços e 8 retrocessos, utilizando 23 indicadores numéricos para examinar o estado atual deste sistema.",
     "category": "Lifestyle",
@@ -123521,6 +123704,19 @@
     "categorySlug": "people"
   },
   {
+    "title": "Six Fingers Abyss: Mengubah Antarmuka After Effects Berbahasa Inggris Menjadi Gerbang bagi Kreator Taiwan",
+    "description": "Pada 2011, Lu Tzu-yuan mulai belajar mandiri dari antarmuka After Effects berbahasa Inggris, kemudian melalui video efek visual, situs pembelajaran, dan Akademi Desain Tanpa Batas, membawa teknik di balik layar yang sering tak terlihat ke YouTube Taiwan. Dari 100 ribu langganan pada 2019 hingga 1 juta langganan pada 2024, ia menempatkan kreasi, pengajaran, proyek klien, tim, dan kewirausahaan di meja kerja yang sama, membiarkan penonton melihat bagaimana seorang kreator digital Taiwan mengubah ambang batas perangkat lunak menjadi gerbang publik.",
+    "category": "People",
+    "tags": [],
+    "url": "https://taiwan.md/id/people/sixvfx-lu-tzu-yuan",
+    "readingTime": 9,
+    "featured": false,
+    "date": "2026-08-20",
+    "path": "id/People/sixvfx-lu-tzu-yuan.md",
+    "lang": "id",
+    "categorySlug": "people"
+  },
+  {
     "title": "Six Fingers Abyss: Turning the All-English After Effects Interface into an Entry Point for Taiwan Creators",
     "description": "In 2011, Lu Tzu-yuan began self-learning from the all-English After Effects interface, later bringing a behind-the-scenes technique often unseen into Taiwan YouTube through VFX videos, a tutorial website, and the Infinite Design Academy. From 100,000 subscribers in 2019 to 1 million in 2024, he placed creation, teaching, freelance work, team management, and entrepreneurship on the same desk, letting audiences see how a Taiwan digital creator turned a software barrier into a public entry point.",
     "category": "People",
@@ -123531,19 +123727,6 @@
     "date": "2026-08-20",
     "path": "en/People/sixvfx-lu-tzu-yuan.md",
     "lang": "en",
-    "categorySlug": "people"
-  },
-  {
-    "title": "Six Fingers Cliff: Menjadikan Antarmuka After Effects yang Sepenuhnya Berbahasa Inggris sebagai Pintu Masuk bagi Kreator Taiwan",
-    "description": "Pada 2011, Lan Tzu-yuan belajar Adobe After Effects secara mandiri dari antarmuka yang sepenuhnya berbahasa Inggris. Kemudian ia mengembangkan proses belajar dan eksperimen visual ke dalam video, situs web kursus, dan akademi desain tak terbatas. Dari 100.000 langganan pada 2019 hingga satu juta pada 2024, ia menempatkan kreatifitas, pengajaran, pekerjaan proyek, tim, dan kewirausahaan pada satu meja kerja yang sama, sekaligus memperlihatkan kepada penonton bagaimana seorang kreator digital Taiwan mengubah hambatan perangkat lunak menjadi pintu masuk umum.",
-    "category": "People",
-    "tags": [],
-    "url": "https://taiwan.md/id/people/sixvfx-lu-tzu-yuan",
-    "readingTime": 9,
-    "featured": false,
-    "date": "2026-08-20",
-    "path": "id/People/sixvfx-lu-tzu-yuan.md",
-    "lang": "id",
     "categorySlug": "people"
   },
   {
@@ -138110,6 +138293,19 @@
     "categorySlug": "technology"
   },
   {
+    "title": "Thảo luận về hạt nhân tại Đài Loan: Sau 589 ý kiến thẩm định của Nhà máy điện hạt nhân số 3, xã hội vẫn chưa có một thước đo cho sự đồng thuận",
+    "description": "Vào tháng 9 năm 2026, Hội đồng An toàn Hạt nhân đã đưa ra 589 ý kiến thẩm định theo quy trình gia hạn giấy phép dựa trên Luật Kiểm soát Cơ sở Phản ứng Hạt nhân, nhằm phê duyệt kế hoạch tái vận hành Nhà máy điện hạt nhân số 3 của Taipower. Trong ba điều kiện để khởi động lại, pháp luật không quy định cụ thể thế nào mới được coi là có sự đồng thuận xã hội. Vào ngày 28 tháng 11, khi phương án thứ 22 cùng ngày bỏ phiếu với chín đề án khác, bản lý do của Quốc dân đảng cho rằng cần chuyển hóa gần 80% ý chí dân cư thành chính sách, trong khi cán bộ trưởng nhóm của Đảng Dân tiến tuyên bố việc thông qua để tái vận hành là \"nhảy quá nhanh\", và 34 tổ chức khẳng định không nên dùng điều này làm sự ủy quyền chính trị cho việc khởi động lại.",
+    "category": "Society",
+    "tags": [],
+    "url": "https://taiwan.md/vi/society/taiwan-nuclear-debate",
+    "readingTime": 182,
+    "featured": false,
+    "date": "2026-06-07",
+    "path": "vi/Society/taiwan-nuclear-debate.md",
+    "lang": "vi",
+    "categorySlug": "society"
+  },
+  {
     "title": "Tháo Tượng Thành: Từ Siêu Sao Về Vật Liệu Bán Dẫn Đến Người Hùng Kháng Chống Chung Bảo Vệ Đài Loan — Bát Không Nhân Tử",
     "description": "Năm 1984, Tháo Tượng Thành đề xuất chuyển đổi Liên Điện thành công ty công nghiệp vật liệu bán dẫn thay thế nhưng bị bỏ lại phía sau, năm 1995, ông sử dụng mô hình hợp tác để thách thức TSMIC. Người sáng lập Liên Điện, từng đẩy mạnh \"biểu quyền thống nhất\", sau khi trải qua thất bại xuất khẩu và biến động ở Hồng Kông, vào năm 2022, ông đã bỏ ra 30 tỷ tiền Đài Loan hỗ trợ quốc phòng, hoàn thành quá trình chuyển đổi từ nhà sản xuất công nghệ siêu phong đến lính trường kháng chống chung.",
     "category": "People",
@@ -142692,6 +142888,19 @@
     "categorySlug": "people"
   },
   {
+    "title": "Trương Tuấn: Từ nghị viên hương Quang Phục đến Chủ tịch Hội đồng Hoa Liên, lộ trình chính trị giao thoa giữa quyền lực địa phương và tranh cãi cá nhân",
+    "description": "Lộ trình chính trị của Chủ tịch Hội đồng huyện Hoa Liên Trương Tuấn (Zhang Jun), từ xuất thân tại hương Quang Phục, qua bốn nhiệm kỳ nghị viên và hai nhiệm kỳ Chủ tịch Hội đồng, đến việc rời đảng năm 2022 và tranh cử Huyện trưởng năm 2026; bài viết phân biệt giữa sự thật đã xác nhận, quy trình pháp lý và các cáo buộc tranh cử chưa được kiểm chứng. Dữ liệu cập nhật đến ngày 20 tháng 11 năm 2026.",
+    "category": "People",
+    "tags": [],
+    "url": "https://taiwan.md/vi/people/chang-chun",
+    "readingTime": 7,
+    "featured": false,
+    "date": "2026-11-20",
+    "path": "vi/People/chang-chun.md",
+    "lang": "vi",
+    "categorySlug": "people"
+  },
+  {
     "title": "Trường Văn Kỷ: 12 năm thúc đẩy vòng tròn nghệ thuật Đài Loan đến các đảo ngư",
     "description": "Vào tháng 5 năm 2017, nghệ sĩ kiêm nhà văn Malaysia Okui Lala đến Đài Nội, trở thành nghệ sĩ lưu động đầu tiên của “Sa Land số”. Bối cảnh này phản ánh quá trình 12 năm của Trường Văn Kỷ với dự án “Cơ sở dữ liệu Các đảo ngư” — một cách tiếp cận độc lập với khung “Trung Hoa” và “Tây phương” trong vòng tròn nghệ thuật Đài Loan.",
     "category": "People",
@@ -145214,19 +145423,12 @@
     "categorySlug": "culture"
   },
   {
-    "title": "Văn hóa vận động tranh cử và thẩm mỹ xe rước tại Đài Loan: Quan sát xã hội học từ \"Đông Toại\" đến Lễ hội Dân chủ",
-    "description": "Mỗi khi diễn ra bầu cử, đường phố Đài Loan biến thành một nhà hát dân chủ khổng lồ. Từ thẩm mỹ kim cương biến hình của các xe rước, mùi hun khói của xúc xích dân chủ, cho đến giới hạn pháp lý của suất cơm trưa 30 đồng, văn hóa vận động tranh cử độc đáo này không chỉ là công cụ huy động chính trị mà còn là một lát cắt sâu sắc về sức sống và biến đổi xã hội của người dân Đài Loan.",
+    "title": "Văn hóa vận động tranh cử và thẩm mỹ xe sân khấu tại Đài Loan: Quan sát xã hội học từ \"Đông toán\" đến lễ hội dân chủ",
+    "description": "Mỗi kỳ bầu cử, đường phố Đài Loan lại biến thành một nhà hát dân chủ khổng lồ. Từ thẩm mỹ \"Transformers\" của xe sân khấu, hương vị xông khói của xúc xích dân chủ, đến ranh giới pháp lý của hộp cơm 30 NT$, văn hóa vận động tranh cử độc đáo này không chỉ là công cụ huy động chính trị mà còn là hình ảnh thu nhỏ sâu sắc về sức sống bình dân và sự biến đổi xã hội tại Đài Loan.",
     "category": "Politics",
-    "tags": [
-      "Xã hội",
-      "Chính trị",
-      "Văn hóa",
-      "Bầu cử",
-      "Xe rước",
-      "Đồ ăn dân chủ"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/vi/politics/taiwan-campaign-rallies",
-    "readingTime": 38,
+    "readingTime": 39,
     "featured": false,
     "date": "2026-08-20",
     "path": "vi/Politics/taiwan-campaign-rallies.md",
@@ -145278,12 +145480,12 @@
     "categorySlug": "lifestyle"
   },
   {
-    "title": "Văn học Đài Loan sau chiến tranh: Học cách nói những điều không thể nói (1945-1987)",
-    "description": "Tháng 8 năm 1945, Diệp Thạch Thào 20 tuổi xuất ngũ từ quân đội Nhật Bản trở về Đài Nam, mở tờ giấy nháp không viết được một chữ Hán nào. Tờ giấy trắng này phải chờ 42 năm của ông. Ở giữa là mất giọng, vào tù, tranh luận, và học biết cách nói gián tiếp. Tháng 2 năm 1987, ông xuất bản một cuốn sách 232 trang, chỉ có hai chữ \"Đài Loan\" trong tên sách.",
+    "title": "Văn học Đài Loan hậu chiến: Từ những việc không thể nói, học cách nói (1945-1987)",
+    "description": "Tháng 8 năm 1945, Diệp Thạch Thao 20 tuổi từ quân đội Nhật Bản xuất ngũ trở về Tainan, mở trang giấy ra không viết được một chữ nào. Trang giấy trắng này phải đợi ông 42 năm. Giữa đó là mất ngôn, nhập ngục, tranh luận, học cách uốn lượn. Tháng 2 năm 1987, ông xuất bản một cuốn sách 232 trang, tiêu đề chỉ có hai chữ \"Đài Loan\".",
     "category": "Art",
     "tags": [],
     "url": "https://taiwan.md/vi/art/postwar-taiwanese-literature",
-    "readingTime": 67,
+    "readingTime": 68,
     "featured": true,
     "date": "2026-04-26",
     "path": "vi/Art/postwar-taiwanese-literature.md",
@@ -152440,19 +152642,6 @@
     "categorySlug": "people"
   },
   {
-    "title": "Zheng Nanrong: la ecuación de un hijo de inmigrante continental que cambió su vida por la libertad de expresión",
-    "description": "En 1947, durante el Incidente del 28 de Febrero, el padre de Zheng, Zheng Musen, fue escondido por sus vecinos taiwaneses y así sobrevivió. Cuarenta y un años después, el hijo mayor de aquella pareja, Zheng Nanrong, encendió gasolina en su propia oficina editorial. En 1984 fundó la revista *Era de la Libertad*, operó con 24 licencias y fue censurada 18 veces sin dejar de publicarse; en 1988 publicó el *Proyecto de Constitución de la República de Taiwán* redactado por Xu Shikai, y el 7 de abril de 1989 se inmoló. A partir de entonces, Ye Julán ingresó en la política, desempeñándose sucesivamente como legisladora, ministra de Transportes, presidenta del Consejo de Asuntos Hakka, viceprimera ministra del Yuan Ejecutivo y secretaria general de la Oficina Presidencial. La decisión de Zheng sigue siendo objeto de controversia: sus partidarios la consideran un martirio por una causa, mientras que sus críticos la juzgan una elección personal extrema. La libertad de expresión en Taiwán es hoy algo tan cotidiano que muchos han olvidado que alguna vez hubo que pagarla con la vida.",
-    "category": "People",
-    "tags": [],
-    "url": "https://taiwan.md/es/people/zheng-nanrong",
-    "readingTime": 27,
-    "featured": true,
-    "date": "2026-03-25",
-    "path": "es/People/zheng-nanrong.md",
-    "lang": "es",
-    "categorySlug": "people"
-  },
-  {
     "title": "Zheng Wenqi: Mendorong Dunia Seni Taiwan ke Kepulauan Melayu Selama 12 Tahun",
     "description": "Pada Mei 2017, seniman Malaysia Zhou Yingzhen tiba di Taipei, menjadi seniman residensi pertama di \"Digital Wasteland\". Adegan ini adalah cerminan dari inisiatif Zheng Wenqi yang didirikan pada 2011 — 12 tahun kemudian, ia telah mengumpulkan 56 edisi, 384 artikel, dan 10 volume \"Nusantara Archive\". Ia mengganti \"Asia Tenggara\" dengan \"Kepulauan\", mendorong dunia seni Taiwan ke dunia Melayu, namun juga menabrak batas pandangan pinggiran.",
     "category": "People",
@@ -153847,8 +154036,8 @@
     "categorySlug": "lifestyle"
   },
   {
-    "title": "Братья Хуан: за ярлыком «свежести» — принудительно раскрытая правда и нежность",
-    "description": "Начиная с ролика-розыгрыша 2017 года, братья Хуан пробились на YouTube под брендом «свежесть и позитив», но в 2020 году принудительный аутинг младшего брата заставил их на глазах у миллионов разбирать свою приватность — и случайно выявило самое нежное коллективное реакцию тайваньского общества на вопросы гендерного равенства.",
+    "title": "Братья Хуан: за свежим имиджем — вынужденная правда и нежность",
+    "description": "Начиная с пранка в 2017 году, братья Хуан завоевали популярность на YouTube благодаря «позитивному контенту». Однако репортаж 2020 года о принудительном каминг-ауте заставил братьев с миллионами подписчиков обнажить свою частную жизнь перед камерами, что стало моментом коллективного проявления нежности тайваньского общества к вопросам гендерного равенства.",
     "category": "People",
     "tags": [],
     "url": "https://taiwan.md/ru/people/huang-brothers-youtubers",
@@ -166361,6 +166550,19 @@
     "categorySlug": "people"
   },
   {
+    "title": "Чжан Цзюнь: от депутата волости Гуанфу до председателя совета Хуаляня — политический путь на стыке власти и личных споров",
+    "description": "Политическая биография председателя совета уезда Хуалянь Чжан Цзюня: от депутата четырех созывов до выхода из партии в 2022 году и участия в выборах губернатора в 2026 году. Статья разграничивает подтвержденные факты, судебные процессы и предвыборную риторику сторон. Данные актуальны на 20 ноября 2026 года.",
+    "category": "People",
+    "tags": [],
+    "url": "https://taiwan.md/ru/people/chang-chun",
+    "readingTime": 7,
+    "featured": false,
+    "date": "2026-11-20",
+    "path": "ru/People/chang-chun.md",
+    "lang": "ru",
+    "categorySlug": "people"
+  },
+  {
     "title": "Чжан Чжици: от «Тувэнь буьфу» до «Чжици цыцзы», в поисках «куратора информации» для диалога в эпоху поляризации",
     "description": "Информационный дизайнер, известный каналом «Чжици цыцзы» с ежедневными выпусками в течение семи лет и 1,65 млн подписчиков, переводит сложные социальные вопросы на язык простых справочников. В эпоху поляризации он продолжает искать возможность диалога в тайваньском обществе.",
     "category": "People",
@@ -168983,8 +169185,8 @@
     "categorySlug": "lifestyle"
   },
   {
-    "title": "الأخوان هوانغ: خلف ملصق \"النضارة\"، تلك الحقيقة واللطف اللذين فُرض عليهما الانكشاف",
-    "description": "بدءًا من فيديو مزحة عام 2017، برز الأخوان هوانغ في عالم يوتيوب بملصق \"النضارة والإيجابية\". غير أن تقريرًا عام 2020 أجبر أحدهما على كشف ميوله الجنسية، فأُجبر الأخوان في ذروة ملايين المشتركين على تفكيك خصوصيتهما أمام الكاميرا، غير أن ذلك رسم بشكل غير متوقع أرقى استجابة جماعية من المجتمع التايواني لقضية المساواة الجندرية.",
+    "title": "الأخوان هوانغ: خلف الملصقات البراقة، حقيقة ورقة فُرضت قسرًا",
+    "description": "بدءًا من فيديو مقالب في عام 2017، برز الأخوان هوانغ في عالم يوتيوب بصورة \"منعشة وإيجابية\". لكن تقريرًا في عام 2020 أجبر أحدهما على كشف ميوله الجنسية علنًا، مما جعل الأخوين يواجهان انتهاك الخصوصية أمام الملايين، ليتحول الأمر إلى استجابة مجتمعية تايوانية دافئة تجاه المساواة بين الجنسين.",
     "category": "People",
     "tags": [],
     "url": "https://taiwan.md/ar/people/huang-brothers-youtubers",
@@ -169311,19 +169513,6 @@
     "path": "ar/Art/no-mans-land-art-platform.md",
     "lang": "ar",
     "categorySlug": "art"
-  },
-  {
-    "title": "البطاقة: الورقة التي حوّلت كل مواطن إلى مدقّق ضريبي في عام 1951",
-    "description": "في عام 1951، وعندما كان يبلغ رأس اليوم 38 عاماً، وضع وزير المالية راين شين تيشو أرقام اليانصيب على الإيصالات، مما جعل طمع المستهلكين يراقبان ما إذا كان التاجر يُبلّغ عن مبيعاته بصدق. خلال عام واحد فقط، ارتفعت إيرادات ضريبة المبيعات بنسبة 75%. وبعد أكثر من 70 عاماً، ما زالت هذه الخطة أطول عمراً من مخترعها، وأطول من النظام الاستبدادي الذي أنشئها — حتى أن ثورة الشيفرة البرمجية في عام 2024 أجبرت الناس أخيراً على طرح السؤال: ما الذي يجعل هذه النظم لا تزال تستحق الثقة؟",
-    "category": "Economy",
-    "tags": [],
-    "url": "https://taiwan.md/ar/economy/taiwan-uniform-invoice",
-    "readingTime": 14,
-    "featured": false,
-    "date": "2026-05-01",
-    "path": "ar/Economy/taiwan-uniform-invoice.md",
-    "lang": "ar",
-    "categorySlug": "economy"
   },
   {
     "title": "البنسل: من ثمرة مقدسة إلى مادة مسرطنة، في ثمرة واحدة تكمن صورة طبق الأصل للطبقة والأرض",
@@ -170652,6 +170841,19 @@
     "path": "ar/Geography/gongguan.md",
     "lang": "ar",
     "categorySlug": "geography"
+  },
+  {
+    "title": "الفاتورة: ورقة 1951 التي جعلت من كل مواطن مدققًا ضريبيًا",
+    "description": "في أول يناير 1951، قام مدير المالية البالغ من العمر 38 عامًا، رين شيانغتشون، بطباعة أرقام السحب على الإيصالات، مما جعل جشع المستهلكين يراقب نيابة عن الدولة ما إذا كانت المتاجر تبلغ عن ضرائبها، فارتفعت إيرادات ضريبة المبيعات بنسبة 75% في عام واحد. وبعد أكثر من سبعين عامًا، ظل هذا التصميم حيًا أطول من مخترعه، وأطول من الحكم الاستبدادي الذي وُلد فيه — حتى عام 2024، عندما أثارت فضيحة برمجية تساؤلًا لأول مرة: على أي أساس لا يزال هذا النظام جديرًا بالثقة؟",
+    "category": "Economy",
+    "tags": [],
+    "url": "https://taiwan.md/ar/economy/taiwan-uniform-invoice",
+    "readingTime": 14,
+    "featured": false,
+    "date": "2026-05-01",
+    "path": "ar/Economy/taiwan-uniform-invoice.md",
+    "lang": "ar",
+    "categorySlug": "economy"
   },
   {
     "title": "الفرق الذي يدفعه المريض على المستلزمات الطبية: فئتان تجاوزتا 70%، والمنحنى الذي انخفض من 70.5% إلى 9.2%",
@@ -172969,6 +173171,19 @@
     "categorySlug": "people"
   },
   {
+    "title": "تشانغ جون: من عضو مجلس بلدة قوانغ فو إلى رئيس مجلس محافظة هوالين، مسار سياسي يلتقي فيه نفوذ السلطة المحلية والجدل الشخصي",
+    "description": "المسار السياسي لرئيس مجلس محافظة هوالين تشانغ جون، من أصول في بلدة قوانغ فو، وعضو مجلس محافظة لأربع دورات ورئيس مجلس لدورتين، وصولاً إلى استقالته من الحزب عام 2022 وترشحه لمنصب المحافظ عام 2026؛ يستعرض السجلات الوظيفية العامة، والإجراءات القضائية، والمنافسات الانتخابية، والسياسات المقترحة، مع التمييز بين الحقائق المؤكدة والإجراءات القانونية والادعاءات الانتخابية غير المثبتة. البيانات محدثة حتى 20 نوفمبر 2026، لتجنب الخلط بين الاتهامات الانتخابية والأحكام القضائية.",
+    "category": "People",
+    "tags": [],
+    "url": "https://taiwan.md/ar/people/chang-chun",
+    "readingTime": 7,
+    "featured": false,
+    "date": "2026-11-20",
+    "path": "ar/People/chang-chun.md",
+    "lang": "ar",
+    "categorySlug": "people"
+  },
+  {
     "title": "تشانغ جونجين وتشانغ جونيي: الحياة تبدأ بعد الانفصال الجسدي",
     "description": "تشانغ جونجين وتشانغ جونيي، اللذان وُلدَا في كاوشيون عام 1976، نشآ معًا قبل ثلاثة أعوام في مستشفى تايوان الوطني. وفي عام 1979، أكمل فريق من جامعة تايوان عملية فصل استغرقت 12 ساعة. القصة الحقيقية الطويلة بدأت بعد طاولة الجراحة: المرض، الأطراف الصناعية، العمل، العائلة ونظرات الإعلام، مما جعل الاسمين يتطوران إلى حياتين منفصلتين على مدى 40 عامًا، وأجبر تايوان على إعادة التفكير في العلاقة بين الإنجاز الطبي والاستقلالية الفردية.",
     "category": "People",
@@ -174197,12 +174412,12 @@
     "categorySlug": "art"
   },
   {
-    "title": "تييه نيو: كيف أصبح \"جييه جييه\" من فيلم توعوي ضد الاعتداء الجنسي قصة حياة استمرت عشر سنوات",
-    "description": "شارك وو جيا وي عام 2012 بصفته هاويًا في فيلم وزارة التعليم التوعوي ضد الاعتداء الجنسي \"لو عرفت مبكرًا أن الأولاد أيضًا يُعتدى عليهم جنسيًا\" بدور \"جييه جييه\" وحقق شهرة غير متوقعة؛ فبعد أن نبذ هذا الدور وفكّر في قيادة حفارات، أصبح الميم (المحتوى المتداول) مصدر رزقه، وصعد بـ\"جييه جييه\" إلى خشبة أول مسرحية موسيقية مبنية على ميم في تايوان. درس لم يكمله الفيلم التوعوي، أكمله الميم على مدى عشر سنوات.",
+    "title": "تييه نيو وو جياوي: «جي جي، لا» اشتهرت لثلاث عشرة عاماً، وممثل دور جي جي انتقل من الرفض المهذب إلى القبول الهادئ",
+    "description": "في عام 2013، قال وو جياوي، الذي كان يعمل في صناعة النشر، للكاميرا: «جي جي هو من أدائي». لقد قام بدور الجاني في فيلم تعليمي عن المساواة بين الجنسين من الأكاديمية الوطنية للبحوث التربوية، وأصبحت تلك العبارة في الفيلم «جي جي، لا» مشهورة لمدة ثلاث عشرة عاماً. لقد رفض بأدب جميع الدعوات ليعيد تمثيل دور جي جي، وندم مرة واحدة، ثم قال لاحقاً إنه يريد «أن يقبل بهدوء أنه هو جي جي»، وقبل الإعلانات، ووقف على مسرح الموسيقية الميمية. كان الهدف الأصلي من هذا الفيلم هو إخبار الطلاب بأن: الأولاد أيضاً يمكن أن يتعرضوا للاعتداء الجنسي.",
     "category": "People",
     "tags": [],
     "url": "https://taiwan.md/ar/people/tieniu-jie-ge",
-    "readingTime": 11,
+    "readingTime": 13,
     "featured": false,
     "date": "2026-08-19",
     "path": "ar/People/tieniu-jie-ge.md",
@@ -176696,6 +176911,26 @@
     "path": "ar/People/su-chiao-hui.md",
     "lang": "ar",
     "categorySlug": "people"
+  },
+  {
+    "title": "ساعة الدين الوطني: 5.84 تريليون، و253,000 دولار للفرد، والخط الذي قفز ثم تراجع في عام 2026",
+    "description": "حتى 6 نوفمبر من عام 115 (2026)، بلغ الرصيد المتبقي من ديون الحكومة المركزية التي تزيد مدتها على سنة 5.8364 تريليون دولار تايواني، بينما بلغت الديون التي تقل مدتها عن سنة 35 مليار دولار تايواني، بمتوسط عبء 253,000 دولار تايواني للفرد. في الفترة من يناير إلى أبريل من هذا العام، قفزت الديون التي تزيد مدتها على سنة إلى 5.9929 تريليون دولار تايواني، بمتوسط 273,000 دولار للفرد، قبل أن تتراجع شهريًا بعد ذلك. يستعرض هذا المقال، بالاستناد إلى السلاسل الشهرية لمكتب الخزانة الوطنية بوزارة المالية، طريقة حساب \"ساعة الدين الوطني\"، والطابع الموسمي للديون قصيرة المدى، وعقدًا كاملاً من التطور منذ عام 104 (2015) حين كانت الديون 5.3129 تريليون دولار، إضافة إلى سوء فهم رقم \"253,000 دولار للفرد\"، وعبء الفوائد، ومعايير سقف الدين.",
+    "category": "Economy",
+    "tags": [
+      "الدين الوطني",
+      "ساعة الدين الوطني",
+      "الدين العام",
+      "المالية العامة",
+      "الحكومة المركزية",
+      "وزارة المالية"
+    ],
+    "url": "https://taiwan.md/ar/economy/national-debt-clock",
+    "readingTime": 10,
+    "featured": false,
+    "date": "2026-11-17",
+    "path": "ar/Economy/national-debt-clock.md",
+    "lang": "ar",
+    "categorySlug": "economy"
   },
   {
     "title": "سانماو: من حول الهروب إلى حرية",
@@ -179494,19 +179729,6 @@
     "categorySlug": "history"
   },
   {
-    "title": "كان أول مرة لكرة القاعد التايوانية في بوابة كيو، فريقاً من المدرسة الزراعية في تشياي: كيف افتتحت الباب أمام تايوان؟",
-    "description": "في أغسطس 1931، سافرت مدرسة تشياي الزراعية إلى بوابة كيو اليابانية. هذه الفريق المكوّن من الصينيين والسكان الأصليين والطلاب اليابانيين وصل إلى النهائي وحصل على المركز الثاني. ما تركه ليس فقط \"شعلة تشياي\"، بل هو كيف رأت إحدى المستعمرات المنظور في ملعب غير ملكه، ثم حوّلته إلى ذاكرة خاصة بها.",
-    "category": "History",
-    "tags": [],
-    "url": "https://taiwan.md/ar/history/kano-chiayi-agriculture-forestry",
-    "readingTime": 8,
-    "featured": false,
-    "date": "2026-08-18",
-    "path": "ar/History/kano-chiayi-agriculture-forestry.md",
-    "lang": "ar",
-    "categorySlug": "history"
-  },
-  {
     "title": "كاوين كو: نشأ عبر البحر، لا يغني إلا لمن يرغب في الجلوس والاستماع",
     "description": "في عام 2013، سجّل طالب جامعي اسمه في مسابقة غناء بمزحة من زملائه، وغنّى وعزف أغنيتين لـ Coldplay، وفاز بالمركز الأول. اسمه كاوين كو، بصوته العميق الذي وُصف بـ \"صوت العمّ\"، وببطئه غير المستعجل، حفر لنفسه مكاناً صغيراً وعميقاً في الموسيقى المستقلة في تايوان. نشأ عبر البحر، وكتب الأغاني في مومباي باستخدام غيتار مكسور، وغنى أمام متجر بقالة عمره مائة عام في تايتشونغ لسكان الشارع المقابل. أنتج تشين جيان-تشي ثلاث ألبومات له على مدى تسع سنوات دون أن يستعجله مرة واحدة؛ وفي عام 2025، أعاد كتابة وأداء أغنية \"ردّ الله\" لمسلسل تلفزيوني بلغة الهاكا، فحاز بها جائزة الجرس الذهبي.",
     "category": "People",
@@ -181177,6 +181399,19 @@
     "path": "ar/Technology/taiwan-ai-academy.md",
     "lang": "ar",
     "categorySlug": "technology"
+  },
+  {
+    "title": "مدرسة جياوي الزراعية والغابية: كيف فتح فريق وصيف البطولة أبواب كوشين في اليابان لتايوان",
+    "description": "في أغسطس 1931، توجه فريق مدرسة جياوي الزراعية والغابية من كيلون إلى ملعب كوشين باليابان. نجح هذا الفريق المدرسي، المكون من هنود صينيين وسكان أصليين وطلاب يابانيين، في الوصول إلى المباراة النهائية وحصد المركز الثاني. لم يترك خلفه مجرد لقب \"جياوي الزراعية العظيمة\"، بل ترك قصة حول كيفية ظهور مستعمرة على ملعب الآخرين، وكيف حوّلت ذلك الملعب إلى جزء من ذاكرتها الخاصة.",
+    "category": "History",
+    "tags": [],
+    "url": "https://taiwan.md/ar/history/kano-chiayi-agriculture-forestry",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-08-18",
+    "path": "ar/History/kano-chiayi-agriculture-forestry.md",
+    "lang": "ar",
+    "categorySlug": "history"
   },
   {
     "title": "مدرسة زا (ZA SHARE): معرض مجاني أكل مدخرات مؤسسه، وبعد 11 عامًا افتتحه نائب الرئيس",
@@ -184651,19 +184886,6 @@
     "categorySlug": "people"
   },
   {
-    "title": "एनवीडिया ताइवान में: दुनिया की सबसे महंगी कंपनी, जिसके पास कोई चिप खुद नहीं है",
-    "description": "मई 2025 के कंप्यूटेक्स में, जेह यन-शू ने चमड़े की जैकेट पहनी और अपनी पीठ पर 55 ताइवानी कंपनियों के लोगो रोशन किए - एक अमेरिकी कंपनी ने सार्वजनिक रूप से पूरे द्वीप के उद्योग को अपने शरीर के रूप में नामित किया। 1996 में जियांग चोंग-मौ को लिखे पत्र से लेकर, पांच ट्रिलियन डॉलर का बाजार मूल्य हासिल करने और शंघाई नगर पालिका द्वारा इसके लिए 4.434 बिलियन ताइवान डॉलर की जमीन साफ करने तक, एनवीडिया ने अपना पूरा अस्तित्व ताइवान में जमा कर दिया है। नतीजतन, ताइवान दुनिया के एक ऐसे स्विच को अपने पास रखता है जिसे बंद नहीं किया जा सकता है; लाभ केवल 5% है, पानी और बिजली खत्म हो गई है, और युद्ध का जोखिम द्वीप पर टिका हुआ है: इससे अलग होना मतलब यह नहीं कि ताइवान बोलता है।",
-    "category": "Technology",
-    "tags": [],
-    "url": "https://taiwan.md/hi/technology/nvidia-in-taiwan",
-    "readingTime": 133,
-    "featured": true,
-    "date": "2026-06-22",
-    "path": "hi/Technology/nvidia-in-taiwan.md",
-    "lang": "hi",
-    "categorySlug": "technology"
-  },
-  {
     "title": "एनो चेंग (Enno Cheng): सबसे अनजान भाषा में सबसे ईमानदार गीत लिखना — 2016 में पहचान सार्वजनिक करने से 2023 गोल्डन मेलोडी ताइवानी भाषा के दोहरे पुरस्कार तक के सात साल",
     "description": "1987 में जन्मी एनो चेंग (Enno Cheng), पिता हैं न्यू वेव निर्देशक चेंग वेन-तांग (鄭文堂)। 2007 में अभिनेत्री के रूप में डेब्यू, गोल्डन हॉर्स नामांकन; 2016 में फेसबुक पर समलैंगिक पहचान सार्वजनिक की, उसी महीने तलाक; 2022 में पहला पूर्ण ताइवानी भाषा एल्बम \"शुई नी\" (Mercury Retrograde); 2023 में 34वें गोल्डन मेलोडी पुरस्कारों में सर्वश्रेष्ठ ताइवानी भाषा गायिका + सर्वश्रेष्ठ ताइवानी भाषा एल्बम का दोहरा पुरस्कार। उन्होंने कहा: \"तो मैंने सीधे एक ऐसी भाषा का उपयोग किया जिससे मैं इतनी परिचित नहीं थी, खुद को बहुत कठिन बना दिया।\"",
     "category": "People",
@@ -184837,19 +185059,6 @@
     "path": "hi/Lifestyle/taiwan-recycling-and-circular-living-culture.md",
     "lang": "hi",
     "categorySlug": "lifestyle"
-  },
-  {
-    "title": "कम वेतन की गणना कौन करता है: न्यूनतम वेतन मूल वेतन को बनाए रखता है, कम वेतन वार्षिक बोनस में चला गया",
-    "description": "समाज में छह साल के बाद एक जनसंपर्क योजनाकार का शुरुआती वेतन 28,000 है, ऑक्टोपस बॉल 45 से 70 तक बढ़ गया है, अगले साल न्यूनतम वेतन 30,000 को तोड़ देगा, फर्श उसके बराबर हो गया है। सितंबर 2026 में मुख्य बजट कार्यालय ने कहा कि मासिक वेतन के अनुसार ताइवान में कोई कम वेतन नहीं है, पूरे साल के हिसाब से 1.26 मिलियन लोग हैं, अंतर वार्षिक बोनस कॉलम में है: न्यूनतम वेतन कानून मूल वेतन की रक्षा करता है, वार्षिक बोनस के लिए कोई कानून नहीं है। दस साल की लगातार वृद्धि ने फर्श को अंतर्राष्ट्रीय कम वेतन रेखा से आगे धकेल दिया है, कम वेतन गायब नहीं हुआ है, यह बोनस न देने वाले उद्योगों में चला गया है।",
-    "category": "Society",
-    "tags": [],
-    "url": "https://taiwan.md/hi/society/who-counts-as-low-wage",
-    "readingTime": 14,
-    "featured": false,
-    "date": "2026-09-18",
-    "path": "hi/Society/who-counts-as-low-wage.md",
-    "lang": "hi",
-    "categorySlug": "society"
   },
   {
     "title": "काउंसिलर प्रणाली: विधायकों से इसमें क्या अंतर है, और स्थानीय चुनावों में अभी भी पुराने SNTV सिस्टम का उपयोग क्यों किया जाता है",
@@ -185419,6 +185628,19 @@
     "path": "hi/Art/koa-a-hi-taiwanese-opera.md",
     "lang": "hi",
     "categorySlug": "art"
+  },
+  {
+    "title": "कौन माना जाता है कम वेतन वाला: न्यूनतम मजदूरी ने मूल वेतन को बचाए रखा, कम वेतन सालाना बोनस के खाते में चला गया",
+    "description": "छह साल पहले कार्यबल में आए एक पीआर प्लानर का शुरुआती वेतन NT$28,000 था, ताकोयाकी NT$45 से बढ़कर NT$70 हो गया, अगले साल न्यूनतम मजदूरी NT$30,000 को पार कर जाएगी, फर्श उसके बराबर पहुंच गया। सितंबर 2026 में मुख्य लेखा कार्यालय ने कहा, मासिक वेतन के अनुसार ताइवान में कोई कम वेतन वाला नहीं है, लेकिन पूरे साल की गणना के अनुसार 12.6 लाख लोग हैं, अंतर सालाना बोनस के कॉलम में है: न्यूनतम मजदूरी कानून मूल वेतन की रक्षा करता है, सालाना बोनस की रक्षा के लिए कोई कानून नहीं है। दस साल की लगातार वृद्धि ने फर्श को अंतरराष्ट्रीय कम वेतन रेखा से ऊपर धकेल दिया, कम वेतन गायब नहीं हुआ, यह उन उद्योगों में चला गया जो बोनस नहीं देते।",
+    "category": "Society",
+    "tags": [],
+    "url": "https://taiwan.md/hi/society/who-counts-as-low-wage",
+    "readingTime": 14,
+    "featured": false,
+    "date": "2026-09-18",
+    "path": "hi/Society/who-counts-as-low-wage.md",
+    "lang": "hi",
+    "categorySlug": "society"
   },
   {
     "title": "क्यू सीरीज़ (प्लांट थिएटर): एक लैपटॉप बनाने वाले ने कैसे बोए ताइवानी नाटक पुनरुत्थान के बीज",
@@ -187266,6 +187488,19 @@
     "categorySlug": "people"
   },
   {
+    "title": "झांग जुन: गुआंगफू टाउनशिप पार्षद से हुआलिन विधानसभा अध्यक्ष तक, स्थानीय सत्ता और व्यक्तिगत विवादों का राजनीतिक पथ",
+    "description": "हुआलिन काउंटी विधानसभा अध्यक्ष झांग जुन का राजनीतिक सफर: गुआंगफू से शुरुआत, चार बार काउंटी पार्षद और दो बार अध्यक्ष के रूप में कार्यकाल, 2022 में पार्टी छोड़ने और 2026 में काउंटी मजिस्ट्रेट चुनाव लड़ने तक। यह लेख सार्वजनिक रिकॉर्ड, न्यायिक प्रक्रिया और चुनावी दावों को स्पष्ट करता है। डेटा 20 नवंबर, 2026 तक अद्यतन है।",
+    "category": "People",
+    "tags": [],
+    "url": "https://taiwan.md/hi/people/chang-chun",
+    "readingTime": 7,
+    "featured": false,
+    "date": "2026-11-20",
+    "path": "hi/People/chang-chun.md",
+    "lang": "hi",
+    "categorySlug": "people"
+  },
+  {
     "title": "झांग शुआन से अनपू तक—दो नाम, एक ही सवाल",
     "description": "ज्याओ आनपू ने 13 साल की उम्र में 'बेबी' लिखा था, और 'झांग शुआन' के कला नाम से वह ताइवान के इंडी संगीत की प्रतिनिधि आवाज़ बनीं। 2013 में ब्रिटेन में एक कॉन्सर्ट के दौरान उन्होंने रिपब्लिक ऑफ चाइना का झंडा लहराया, जिसके कारण उन्हें चीनी बाजार में प्रतिबंधित कर दिया गया; 2015 में उन्होंने स्वेच्छा से अपने कला नाम को अलविदा कह दिया, और तीन साल तक गायब रहने के बाद अपने असली नाम 'अनपू' के साथ वापसी की, और 2022 में '9522' एल्बम पेश किया। वुचु दुकान (Witch House) के उस दौर से जब वहां केवल दो मेज पर ग्राहक होते थे, आज तक के उनके सफर के ये दो जीवन खंड नाम और विचारधारा से जुड़े एक ही कठिन प्रश्न का उत्तर देते हैं।",
     "category": "Music",
@@ -187409,19 +187644,6 @@
     "categorySlug": "culture"
   },
   {
-    "title": "टायवान एकेडेमी: एक संस्थान जो चीन के अध्ययन के लिए पैदा हुआ, वह खुद को इस द्वीप में कैसे स्थापित कर पाया",
-    "description": "1948 की सर्दियों में, राष्ट्रीय सर्वोच्च शैक्षणिक संस्थान ताइवान पहुंचा, और केवल पचास से अधिक लोग चले गए; ऐतिहासिक साहित्य विभाग के कलाकृतियों के बक्से यांगमेई रेलवे स्टेशन के पास गोदामों में रखे थे। सत्तर से अधिक वर्षों बाद, इसमें चौबीस संस्थान और नौ अनुसंधान केंद्र हैं, जो एक दुर्लभ लंबाई का बदलाव है: दस साल में एक पुरातात्विक स्थल की खुदाई, ग्यारह साल में एक संस्थान की स्थापना। वह डिजाइन जिसने इसे ऐसा करने दिया - पढ़ाना नहीं, छात्रों को भर्ती नहीं करना, राष्ट्रपति भवन के सीधे अधीन होना - साथ ही इसके प्रमुख का राष्ट्रपति द्वारा नियुक्त होना, वार्षिक बजट का पलटना, और नाम बदलना भी राष्ट्रीय स्थिति का मुद्दा बनना।",
-    "category": "Society",
-    "tags": [],
-    "url": "https://taiwan.md/hi/society/academia-sinica",
-    "readingTime": 18,
-    "featured": false,
-    "date": "2026-08-18",
-    "path": "hi/Society/academia-sinica.md",
-    "lang": "hi",
-    "categorySlug": "society"
-  },
-  {
     "title": "टिकटॉक",
     "description": "15 सेकंड की खुशी से लेकर अदृश्य संज्ञानात्मक युद्ध तक, टिकटॉक कैसे अत्यधिक व्यक्तिगत अनुशंसा और \"शैडो सी टैक्टिक्स\" के माध्यम से चुपचाप ताइवान के किशोरों के विश्वदृष्टिकोण और राजनीतिक पहचान को नया आकार दे रहा है।",
     "category": "Society",
@@ -187524,6 +187746,19 @@
     "path": "hi/People/ting-jih-chang.md",
     "lang": "hi",
     "categorySlug": "people"
+  },
+  {
+    "title": "डिगुआक्यू (地瓜球) की उत्पत्ति: झोंगझेंग ब्रिज के नीचे की एक कहानी, और तेल की कड़ाही के सामने विक्रेताओं द्वारा दबाकर बनाई गई खोखली बनावट",
+    "description": "डिगुआक्यू की उत्पत्ति से जुड़ी सबसे प्रसिद्ध कहानी यह है: नई ताइपे में झोंगझेंग ब्रिज के नीचे, एक सेवानिवृत्त बुजुर्ग के शकरकंद के खेत को खुदाई मशीन ने खराब कर दिया, जिसके बाद उन्होंने शकरकंद तलकर नाइट मार्केट में बेचना शुरू किया, जिसे \"बाद में सुधारा गया\" और वह डिगुआक्यू बन गया। कहानी यहीं तक है, लेकिन तेल की कड़ाही के सामने का काम अभी भी जारी है: 2019 के आसपास काम शुरू करने वाले लियू ज़ै-होंग (Liu Zai-hong) शुरुआत में केवल सात या आठ बार दबाते थे, लेकिन काम के दौरान दोस्तों ने उन्हें सुधारते हुए बीस से तीस बार दबाने की सलाह दी। वहीं शेज़ी नाइट मार्केट के प्रवेश द्वार पर एक स्टाल है, जहाँ हर दाने को दबाकर ठोस बनाया जाता है।",
+    "category": "Food",
+    "tags": [],
+    "url": "https://taiwan.md/hi/food/sweet-potato-balls",
+    "readingTime": 12,
+    "featured": false,
+    "date": "2026-07-29",
+    "path": "hi/Food/sweet-potato-balls.md",
+    "lang": "hi",
+    "categorySlug": "food"
   },
   {
     "title": "डिजिटल पहचान पत्र और डिजिटल सरकार",
@@ -188078,12 +188313,12 @@
     "categorySlug": "society"
   },
   {
-    "title": "ताइवान और परमाणु ऊर्जा की बहस: परमाणु-विरोध कभी लोकतंत्र आंदोलन की साझी भाषा थी, जलवायु संकट ने हर पक्ष को फिर से फेंट दिया",
-    "description": "अगस्त 2025 में, 43.4 लाख लोगों ने \"न्यूक्लियर थ्री को फिर से शुरू करने\" के पक्ष में मतदान किया, 74% समर्थन मिला, फिर भी मतदान दर दहलीज पार न कर पाने के कारण हार गए। चालीस साल में तीन जनमत संग्रह, ताइवान परमाणु-विरोधी सहमति से परमाणु-मुक्त मातृभूमि तक पहुंचा, फिर तीन महीने में खुद बंद किए गए रिएक्टर को पुनः आरंभ की ओर धकेल दिया। यह बहस अब \"परमाणु अच्छा या बुरा\" के सरल प्रश्न से आगे निकल चुकी है — यह एक समाज द्वारा उस मसले पर फैसला लेने की कहानी है जिसके समय-दबाव विरोधाभासी हैं: परमाणु कचरे को एक लाख साल स्थिर रहना है, कार्बन कटौती दस साल में पूरी करनी है, बिजली संकट अभी है।",
+    "title": "ताइवान और परमाणु ऊर्जा पर चर्चा: परमाणु संयंत्र संख्या 3 की 589 समीक्षा टिप्पणियों के बाद, सामाजिक सहमति का कोई मानक नहीं है",
+    "description": "सितंबर 2026 में, परमाणु सुरक्षा आयोग ने परमाणु रिएक्टर सुविधा नियंत्रण अधिनियम की लाइसेंस नवीनीकरण प्रक्रिया के तहत 589 समीक्षा टिप्पणियाँ प्रस्तुत कीं, जिससे ताइवान पावर कंपनी की परमाणु संयंत्र संख्या 3 की पुनरारंभ योजना को मंजूरी मिली। पुनरारंभ करने की तीन शर्तों में से, सामाजिक सहमति के लिए क्या मानक होने चाहिए, इसका कानून में उल्लेख नहीं है। 28 नवंबर को मामला संख्या 22 का नौ अन्य प्रस्तावों के साथ एक ही दिन मतदान होना है; कुओमिन्तांग पार्टी का तर्क है कि लगभग 80% जनमत को नीति में बदलना चाहिए, जबकि डेमोक्रेटिक प्रोग्रेसिव पार्टी के संसदीय समूह के महासचिव ने कहा कि पारित होने का अर्थ पुनरारंभ करना \"बहुत जल्दबाजी\" होगी, और 34 समूहों का कहना है कि इसे पुनरारंभ के लिए राजनीतिक जनादेश नहीं माना जाना चाहिए।",
     "category": "Society",
     "tags": [],
     "url": "https://taiwan.md/hi/society/taiwan-nuclear-debate",
-    "readingTime": 102,
+    "readingTime": 150,
     "featured": false,
     "date": "2026-06-07",
     "path": "hi/Society/taiwan-nuclear-debate.md",
@@ -190242,8 +190477,8 @@
     "categorySlug": "society"
   },
   {
-    "title": "ताइवान की स्वास्थ्य सेवा और राष्ट्रीय स्वास्थ्य बीमा: 12.61% के ऊपर टिका 99.6% वाला विश्व नंबर एक",
-    "description": "1995 की 1 मार्च वाला स्वास्थ्य बीमा कार्ड आख़िरी घड़ी की अफ़रा-तफ़री में जारी हुआ था — छह दिन पहले तक कार्ड छपे तक नहीं थे। 30 साल बाद, 2.3 करोड़ लोगों के इलाज के अधिकार का आधार है 5.17% की प्रीमियम दर, नर्सों की 10 साल में सबसे ऊँची 12.61% छोड़ने की दर, और 30 साल से किसी ने न छुई राजनैतिक वर्जना।",
+    "title": "ताइवान की स्वास्थ्य सेवा और राष्ट्रीय स्वास्थ्य बीमा: 12.61% के ऊपर टिके 99.6% कवरेज के साथ विश्व में प्रथम",
+    "description": "1 मार्च 1995 का स्वास्थ्य बीमा कार्ड आनन-फानन में जारी किया गया था: छह दिन पहले तो कार्ड छपे तक नहीं थे। 30 साल बाद, 2.3 करोड़ लोगों के इलाज के अधिकार 5.17% प्रीमियम दर, 12.61% नर्सिंग छोड़ने की दर और 99.6% कवरेज दर पर टिके हुए हैं। यह लेख IC कार्ड, कुल बजट और पॉइंट मूल्य से शुरू होकर स्वास्थ्य बीमा परिषद के 113वें वर्ष के निगरानी संकेतकों तक जाता है: आपातकालीन वार्ड में 24 घंटे से अधिक रुकने की दर 3.68%, अंतिम चरण के कैंसर रोगियों के लिए उपशामक देखभाल लगभग 60%, तीव्र देखभाल बिस्तर पर औसत अस्पताल में रहने की अवधि 7.3 दिन, क्षेत्रीय अस्पतालों और उससे ऊपर के स्तर पर प्राथमिक देखभाल दर 18.37%, साथ ही 10 संकेतकों में सुधार और 8 में गिरावट का वार्षिक समग्र मूल्यांकन — 23 आंकड़ों के जरिए यह जांचता है कि यह प्रणाली आज कहां खड़ी है।",
     "category": "Lifestyle",
     "tags": [],
     "url": "https://taiwan.md/hi/lifestyle/taiwan-healthcare-and-national-health-insurance",
@@ -190340,7 +190575,7 @@
   },
   {
     "title": "ताइवान के उद्यम: TSMC",
-    "description": "54 साल में टेक्सास इन्स्‍्रुमेंट्स छोड़कर और 56 साल में TSMC की स्थापना करने वाले झांग ज़ॉन-ची, पिछले अठारह साल में तीन बार से बच गए और छह शहरों में रहे। अब तीन सौ बीस के बाद, 3 मार्च 2025 को, अमेरिकी राष्ट्रपति ट्रंप ने सफेद घर के बहाने झांग ज़ॉन-ची के उत्तराधिकारी वी झे-जिया को कहा: 'वह इस कमरा में सबसे महत्वपूर्ण आदमी हैं।' 2026 के पहले क्वार्टर में TSMC की एकक वार्षिक आय 3590 करोड़ अमेरिकी डॉलर थी। एक ऐसे द्वीप पर जहाँ आम तौर पर तूफान घिरा रहता है और पानी और बिजली की कमी होती है, उस पर संपूर्ण मानव ज्ञान के अंगों का एक दिल बनाया गया है—लेकिन जितना यह दिल बड़ा होता है, उतना ही इस द्वीप के लिए उसकी लागत से पहुँचना अधिक अस्पष्ट हो जाता है।",
+    "description": "54 वर्ष की आयु में टेक्सस इंस्ट्रूमेंट्स छोड़ने और 56 वर्ष की आयु में TSMC की स्थापना करने वाले मॉरिस चांग, अपने जीवन के पहले अठारह वर्षों में तीन बड़ी कठिनाइयों से बचे और छह शहरों में रहे। छत्तीस साल बाद, 3 मार्च 2025 को, अमेरिकी राष्ट्रपति ट्रंप ने व्हाइट हाउस में चांग के उत्तराधिकारी वेई जेचिया की ओर इशारा करते हुए कहा: \"वह इस कमरे का सबसे महत्वपूर्ण व्यक्ति है।\" 2026 की पहली तिमाही में TSMC का एकल तिमाही राजस्व 35.9 बिलियन अमेरिकी डॉलर रहा। एक ऐसा द्वीप जहाँ बार-बार तूफान आते हैं और पानी व बिजली की कमी रहती है, उसने पूरी मानवता की डिजिटल सभ्यता का हृदय निर्मित किया है—लेकिन यह हृदय जितना बड़ा होगा, यह द्वीप उसकी कीमत चुकाने में सक्षम होगा या नहीं, यह कहना उतना ही कठिन है।",
     "category": "Economy",
     "tags": [],
     "url": "https://taiwan.md/hi/economy/tsmc",
@@ -190545,8 +190780,8 @@
     "categorySlug": "geography"
   },
   {
-    "title": "ताइवान के टिन शेड: 7.16 लाख अवैध निर्माणों पर टिका क्षितिज",
-    "description": "अगस्त 2024 में ताइनान के लिउजिया में कृषि मशीनरी की दुकान में आग, एक परिवार के पांच सदस्य तीसरी मंजिल के टिन शेड में फंसे और सभी की मौत। जुलाई 2023 तक पूरे ताइवान में 716,372 अवैध निर्माण, नया ताइपे में सालाना 32,000 नए मामले, सरकार हर साल ध्वस्त करने की घोषणा करती है फिर भी हर साल दस हजार और बढ़ जाते हैं—वह नारंगी और चांदी की धातु की परत, एक साथ ताइवान का सबसे बदसूरत शहर का नजारा और सबसे ज्यादा उद्धृत कानून-व्यवस्था की किंवदंती।",
+    "title": "ताइवान के टिन के घर: 7.16 लाख अवैध निर्माणों पर टिकी स्काईलाइन",
+    "description": "अगस्त 2024 में ताइनान के लिउजिया में कृषि मशीनरी की दुकान में आग, एक परिवार के पांच सदस्य तीसरी मंजिल के टिन की छत वाले हिस्से में फंसकर मारे गए। जुलाई 2023 तक पूरे ताइवान में 716,372 अवैध निर्माण, अकेले न्यू ताइपे में सालाना 32,000 नए मामले, सरकार हर साल तोड़ने की घोषणा करती है फिर भी हर साल दस हजार और बढ़ जाते हैं — वह नारंगी और चांदी की धातु की परत एक साथ ताइवान का सबसे बदसूरत शहर-दृश्य और सबसे ज्यादा उद्धृत सुरक्षा मिथक है।",
     "category": "Society",
     "tags": [],
     "url": "https://taiwan.md/hi/society/taiwan-tin-shed-houses",
@@ -192456,6 +192691,19 @@
     "categorySlug": "geography"
   },
   {
+    "title": "ताइवान: फलों का साम्राज्य - यह द्वीप हर फल को जीवन और स्मृति मानकर उगाता है",
+    "description": "युजिंग की पहाड़ियों की सुबह, मादौ के पुराने वेंडन संतरे के पेड़, नदी किनारे भोर में होने वाली नीलामी, फल छीलती दादी माँ से लेकर लीची के कीटों और विदेशी श्रमिकों के बागानों तक: यह उपोष्णकटिबंधीय द्वीप फलों को भूमि, पीढ़ियों और दुनिया के साथ संवाद करने का एक माध्यम बनाता है।",
+    "category": "Food",
+    "tags": [],
+    "url": "https://taiwan.md/hi/food/taiwan-fruit-kingdom",
+    "readingTime": 16,
+    "featured": true,
+    "date": "2026-07-08",
+    "path": "hi/Food/taiwan-fruit-kingdom.md",
+    "lang": "hi",
+    "categorySlug": "food"
+  },
+  {
     "title": "ताइवान.एमडी की उत्पत्ति — जन्म की कहानी",
     "description": "सड़क पर टहलने से मिली प्रेरणा से, दुनिया के लिए ताइवान के पूर्ण प्रवेश द्वार की क्यूरेशन तक",
     "category": "About",
@@ -192601,19 +192849,6 @@
     "path": "hi/Art/taiwan-travelogue.md",
     "lang": "hi",
     "categorySlug": "art"
-  },
-  {
-    "title": "ताईवान का फल राज्य: यह द्वीप हर एक फल को जीवन और स्मृति के रूप में समझता है",
-    "description": "यूलिंग शांत में सुबह की शुरुआत से, माडो के पुराने मैंगो पेड़ से, पिंगजिएंग के रात में एकर्ज में से, गिरे हुए फल की छील निकालने वाली दादी से, लिची के तीतर और विदेशी मजदूरों की खेती तक: यह एक उष्णकटाभी घाटी वाला द्वीप फलों को एक तरीके से बदल देता है जिससे इसे ज़मीन, पीढ़ी और दुनिया से बात करने का तरीका हो सकता है।",
-    "category": "Food",
-    "tags": [],
-    "url": "https://taiwan.md/hi/food/taiwan-fruit-kingdom",
-    "readingTime": 16,
-    "featured": true,
-    "date": "2026-07-08",
-    "path": "hi/Food/taiwan-fruit-kingdom.md",
-    "lang": "hi",
-    "categorySlug": "food"
   },
   {
     "title": "ताईवान के इंटरनेट समुदाय के तीन दशक — पता पाए गए, तस्वीरें न पाई गईं: एक विदाई की कहानी",
@@ -193294,6 +193529,19 @@
     "categorySlug": "about"
   },
   {
+    "title": "दो बार लैंडिंग: ताइवान में डोमिनिकन ऑर्डर का 1626 और 1859",
+    "description": "मई 1626 में, डोमिनिकन मिशनरी स्पेनिश बेड़े के साथ कीलुंग के हॉपिंग द्वीप पर उतरे, सोलह वर्षों में कम से कम 31 मिशनरियों ने उत्तर में प्रचार किया, लगभग चार हज़ार लोगों ने बपतिस्मा लिया; 1642 में डचों ने कीलुंग पर कब्ज़ा कर लिया, मिशन रुक गया। दो सौ तैंतीस साल बाद, कुओ ते-कांग और होंग पाओ-लू 18 मई 1859 को ताकाओ पहुंचे, च्येनचिन के एक घास-फूस मिशन स्टेशन से शुरुआत की, जिससे रोज़री की माता का बेसिलिका और वानचिन कैथेड्रल विकसित हुए। यह लेख मठ के दो लैंडिंग के बीच के अंतराल, \"फेंग-चिह\" बी की उत्पत्ति, और मिशन व साम्राज्यवादी संधि प्रणाली के संबंध का वर्णन करता है।",
+    "category": "History",
+    "tags": [],
+    "url": "https://taiwan.md/hi/history/dominican-order-taiwan",
+    "readingTime": 11,
+    "featured": false,
+    "date": "2026-11-17",
+    "path": "hi/History/dominican-order-taiwan.md",
+    "lang": "hi",
+    "categorySlug": "history"
+  },
+  {
     "title": "दोनों सभागार: सत्तावादी प्रतीक से जन-कला मंदिर तक की रूपांतरण यात्रा",
     "description": "1987 में पूरा होने पर, दोनों सभागार चियांग काई-शेक की याद में बने महलनुमा वास्तुकला थे, लोहे के फाटक ने नागरिकों को बाहर रखा। 2003 में चू त्सुंग-चिंग ने वह फाटक तोड़ दिया, 2004 में यह ताइवान का पहला प्रशासनिक निगम बना। डच फ्लेंट्रॉप पाइप ऑर्गन के 4,172 पाइप दीवार के पीछे दबे हैं, कला निदेशक लियू यी-रू कहती हैं कि कला स्थलों को \"अदृश्य बाधाओं\" को देखना चाहिए।",
     "category": "Culture",
@@ -193414,6 +193662,26 @@
     "path": "hi/Art/new-taipei-city-museum-of-art.md",
     "lang": "hi",
     "categorySlug": "art"
+  },
+  {
+    "title": "नर्सिंग जनशक्ति: तीन-शिफ्ट नर्स-रोगी अनुपात कानून में शामिल, और मेडिकल सेंटर की वह रेखा जो 42.7% से 8.5% तक गिर गई",
+    "description": "8 मई, 2026 को, 《मेडिकल लॉ》 की तीसरी रीडिंग में तीन-शिफ्ट नर्स-रोगी अनुपात को कानून में शामिल किया गया, जिसमें वर्ष 113 (2024) के मार्च महीने के मानक को आधार बनाया गया है और इसे वर्ष 117 (2028) की 1 मई से लागू करने की योजना है। राष्ट्रीय स्वास्थ्य बीमा समिति (健保會) की निगरानी रिपोर्ट के अनुसार, मेडिकल सेंटरों में पूरे दिन का नर्स-रोगी अनुपात 7.0 से कम रहने वाले महीनों का अनुपात वर्ष 111 (2022) के 42.7% से घटकर वर्ष 113 (2024) में केवल 8.5% रह गया है, जिसका अर्थ है कि प्रत्येक नर्स को अब अधिक मरीजों की देखभाल करनी पड़ती है। वर्ष 2023 में नर्सिंग इस्तीफ़ा दर 12.61% और रिक्तता दर 9.05% रही, जो महामारी-पूर्व वर्ष 108 (2019) से भी अधिक है; जबकि तीन-शिफ्ट मानक को पूरा करने वाली दर 5 से बढ़कर 7 में से 10 तक पहुँच गई है। यह लेख सरकारी आँकड़ों के सहारे मानक, जनशक्ति के पलायन और 27.5 अरब न्यू ताइवान डॉलर की योजना को अलग-अलग करके समझाता है।",
+    "category": "Lifestyle",
+    "tags": [
+      "नर्सिंग जनशक्ति",
+      "नर्स-रोगी अनुपात",
+      "तीन-शिफ्ट नर्स-रोगी अनुपात",
+      "मेडिकल लॉ",
+      "स्वास्थ्य बीमा",
+      "अस्पताल"
+    ],
+    "url": "https://taiwan.md/hi/lifestyle/nurse-staffing-ratios",
+    "readingTime": 11,
+    "featured": false,
+    "date": "2026-11-10",
+    "path": "hi/Lifestyle/nurse-staffing-ratios.md",
+    "lang": "hi",
+    "categorySlug": "lifestyle"
   },
   {
     "title": "नाइटलाइफ़ और KTV संस्कृति",
@@ -195972,6 +196240,19 @@
     "categorySlug": "nature"
   },
   {
+    "title": "राष्ट्रीय ऋण घड़ी: 5.84 ट्रिलियन, प्रति व्यक्ति 2.53 लाख, और 2026 की वह रेखा जो पहले उछली फिर गिरी",
+    "description": "115वें वर्ष 11 महीने 6 दिन तक, केंद्र सरकार का 1 वर्ष से अधिक का ऋण बकाया 5 ट्रिलियन 8,364 बिलियन NTD, 1 वर्ष से कम का ऋण 35 बिलियन NTD, औसत प्रति व्यक्ति बोझ 2.53 लाख NTD। इस वर्ष जनवरी से अप्रैल तक, 1 वर्ष से अधिक का ऋण एक बार 5 ट्रिलियन 9,929 बिलियन NTD, प्रति व्यक्ति 2.73 लाख NTD तक पहुंचा, फिर मासिक गिरावट आई। यह लेख वित्त मंत्रालय के राष्ट्रीय खजाना कार्यालय के मासिक क्रम से राष्ट्रीय ऋण घड़ी के एल्गोरिदम, अल्पकालिक ऋण की मौसमी प्रकृति, 104वें वर्ष से 5 ट्रिलियन 3,129 बिलियन NTD से आए दस वर्ष, और \"प्रति व्यक्ति 2.5 लाख\" इस संख्या की गलत व्याख्या, ब्याज बोझ और ऋण सीमा के दायरे को अलग करता है।",
+    "category": "Economy",
+    "tags": [],
+    "url": "https://taiwan.md/hi/economy/national-debt-clock",
+    "readingTime": 10,
+    "featured": false,
+    "date": "2026-11-17",
+    "path": "hi/Economy/national-debt-clock.md",
+    "lang": "hi",
+    "categorySlug": "economy"
+  },
+  {
     "title": "राष्ट्रीय केंद्रीय पुस्तकालय: एक पुस्तकालय द्वीप के प्रकाशनों को राष्ट्र की स्मृति में कैसे बदलता है",
     "description": "राष्ट्रीय केंद्रीय पुस्तकालय केवल शांत वाचनालय नहीं है, बल्कि यह ताइवान के प्रकाशनों के प्रकाशन, जमा, सूचीकरण, संरक्षण से लेकर डिजिटल पुनर्उपयोग तक का सार्वजनिक बुनियादी ढांचा है। यह लेख कानूनी जमा व्यवस्था, युद्धकालीन स्थानांतरण, ताइवान मेमोरी, प्राचीन पुस्तकों और सरकारी प्रकाशनों के संग्रह, साथ ही ई-पुस्तकों और शोध प्रबंधों के डिजिटल संरक्षण से शुरू होकर बताता है कि एक राष्ट्रीय पुस्तकालय कैसे रोजमर्रा के प्रतीत होने वाले क्षणिक प्रकाशन कार्यों को भावी पीढ़ियों द्वारा सत्यापन योग्य सामूहिक स्मृति में बदलता है, साथ ही संरक्षण, पहुंच, कॉपीराइट और डिजिटल प्रारूपों के बीच के उन तनावों को भी संभालता है जिनके सरल उत्तर नहीं हैं।",
     "category": "Culture",
@@ -197691,19 +197972,6 @@
     "categorySlug": "food"
   },
   {
-    "title": "शकरकंद बॉल्स: तांग राजदरबार से च्यांग च्यांग ब्रिज तक, एक खोखली गेंद में ताइवान की जिजीविषा",
-    "description": "इस सुनहरी छोटी गेंद का इतिहास हजार वर्षों तक फैला है, तांग राजवंश के \"लुदुई\" से विकसित होकर 1970 के दशक में ताइवान की वस्तु-संरक्षण दुर्घटना बना। यह न केवल नाइट मार्केट का नाश्ता है, बल्कि 130°C सटीक तेल तापमान और स्टार्च जिलेटिनाइजेशन से जुड़ा एक भौतिक प्रयोग भी है।",
-    "category": "Food",
-    "tags": [],
-    "url": "https://taiwan.md/hi/food/sweet-potato-balls",
-    "readingTime": 12,
-    "featured": false,
-    "date": "2026-07-29",
-    "path": "hi/Food/sweet-potato-balls.md",
-    "lang": "hi",
-    "categorySlug": "food"
-  },
-  {
     "title": "शहरी नवीकरण विवाद: वेनलिन यूआन के बाद, ताइवान \"असहमत घरों\" को कैसे संभालता है",
     "description": "28 मार्च 2012 को, ताइपे शहर सरकार ने शिलिन वेनलिन यूआन में वांग परिवार के दो कानूनी घरों को ध्वस्त किया, जो सैकड़ों समर्थकों के सामने गिर गए — ताइवान के शहरी नवीकरण इतिहास में सबसे बड़ा विवाद। वांग परिवार ने ग्यारह बार अपील और मुकदमे दायर किए, दस बार हार गए; अदालत ने माना कि वांग की जमीन निर्माण सीमा के सामने नहीं थी, अकेले पुनर्निर्माण नहीं हो सकता था। 2013 में, संवैधानिक न्यायालय ने व्याख्या संख्या 709 जारी की, शहरी नवीकरण अधिनियम की सारांश समीक्षा और सुनवाई प्रक्रिया को असंवैधानिक घोषित किया। मामला समझौते से समाप्त हुआ, लेकिन \"क्या बहुमत अल्पसंख्यकों की संपत्ति का निपटान कर सकता है\" — यह सवाल आज तक बिना जवाब है।",
     "category": "Society",
@@ -199280,8 +199548,8 @@
     "categorySlug": "people"
   },
   {
-    "title": "हुआंग ब्रदर्स: स्पष्ट लेबल के पीछे, वह बलपूर्वक खुली सच्चाई और कोमलता",
-    "description": "2017 में एक प्रैंक वीडियो से शुरुआत करते हुए, हुआंग ब्रदर्स ने YouTube दृश्य में \"स्पष्ट और सकारात्मक\" के साथ तोड़कर प्रवेश किया। लेकिन 2020 में एक बलपूर्वक आउटिंग की खबर ने इस भाई जोड़ी को दस लाख सदस्यों की चोटी पर अपनी गोपनीयता कैमरे के सामने खोलने के लिए मजबूर किया, फिर भी ताइवान के समाज की लैंगिक समानता के प्रति सबसे कोमल सामूहिक प्रतिक्रिया को आकार दिया।",
+    "title": "हुआंग ब्रदर्स: ताज़ा लेबल के पीछे, जबरन खोल दी गई वो सच्चाई और कोमलता",
+    "description": "2017 के एक प्रैंक वीडियो से शुरू होकर, हुआंग ब्रदर्स ने \"ताज़ा, सकारात्मक\" छवि के साथ यूट्यूब जगत में अपनी जगह बनाई। लेकिन 2020 में जबरन आउटिंग की एक रिपोर्ट ने इस जोड़ी को लाखों सब्सक्राइबर्स के शिखर पर कैमरे के सामने अपनी निजता बिखेरने को मजबूर कर दिया, फिर भी इसने ताइवान समाज की लैंगिक समानता के प्रति सबसे कोमल सामूहिक प्रतिक्रिया को अनायास ही उजागर कर दिया।",
     "category": "People",
     "tags": [],
     "url": "https://taiwan.md/hi/people/huang-brothers-youtubers",
@@ -206985,27 +207253,6 @@
     "categorySlug": "people"
   },
   {
-    "title": "시장 이름",
-    "description": "타이완 거리에서 '淑芬(숙분)'이나 '家豪(가호)'를 크게 부르면 몇 명이 돌아볼까? 이 이름들은 타이완 사회의 축소판으로, 각 세대가 '좋은 삶'에 대해 가졌던 집단적 상상을 기록하고 있다.",
-    "category": "Culture",
-    "tags": [
-      "사회문화",
-      "내정부",
-      "작명문화",
-      "연어 소동",
-      "淑芬",
-      "家豪",
-      "雅婷"
-    ],
-    "url": "https://taiwan.md/ko/culture/common-taiwanese-names",
-    "readingTime": 6,
-    "featured": false,
-    "date": "2026-04-19",
-    "path": "ko/Culture/common-taiwanese-names.md",
-    "lang": "ko",
-    "categorySlug": "culture"
-  },
-  {
     "title": "신강 사탕: 비 오는 날의 우연에서 사원 앞 백 년의 문화적 기억으로",
     "description": "1891년, 자이 민슝의 소상인 루치터우(盧欺頭)가 연일 이어지는 비로 땅콩 사탕이 눅눅해지자, 이를 맥아당 및 밀가루와 버무려 쥐 모양을 닮은 '조서자탕(鳥鼠仔糖)'을 우연히 만들어냈다. 물건을 아끼는 마음에서 탄생한 이 부드러운 사탕은 자이 신강 펑톈궁(奉天宮) 사원 앞에서 뿌리를 내렸으며, 서민의 간식에서 일제강점기 박람회 수상 명산으로 거듭나 타이완 참배 문화의 빼놓을 수 없는 달콤한 기억이 되었다.",
     "category": "Food",
@@ -209663,6 +209910,26 @@
     "categorySlug": "people"
   },
   {
+    "title": "장쥔(張峻): 광푸(光復)향 의원에서 화롄(花蓮) 의장까지, 지방 권력과 개인 논란이 교차하는 정치 경로",
+    "description": "화롄현(花蓮縣) 의장 장쥔(張峻)의 정치 경로, 광푸향(光復鄉) 출신·4선 현의원·2선 의장에서 2022년 탈당 및 2026년 현장(縣長) 출마까지, 공개 직무 기록·사법 절차·선거전 공방·정책 주장·각계 반응을 축으로 삼아 확인 가능 사실·사건 절차·미검증 선거 주장을 구분함. 자료 갱신일 2026년 11월 20일, 선거전 비난과 사법 판결을 혼동하지 않게 함.",
+    "category": "People",
+    "tags": [
+      "인물",
+      "화롄",
+      "지방정치",
+      "현의회",
+      "장쥔",
+      "화롄현장선거"
+    ],
+    "url": "https://taiwan.md/ko/people/chang-chun",
+    "readingTime": 7,
+    "featured": false,
+    "date": "2026-11-20",
+    "path": "ko/People/chang-chun.md",
+    "lang": "ko",
+    "categorySlug": "people"
+  },
+  {
     "title": "장쥔강: 바비 인형 옷장부터 교실까지, 누구든 무엇을 좋아할 수 있는가",
     "description": "1982년 타이베이에서 태어난 장쥔강은 5세부터 인형 옷을 만들어 주었고, 2009년에는 미셸 오바마가 그의 흰색 드레스를 입었다. 대만 교실에서는 그의 이야기를 통해 성별 고정관념을 논하지만, 더 중요한 질문은 무엇인가: 아이들은 왜 인형을 좋아하는 것조차 성공해야 허용되는가?",
     "category": "People",
@@ -211315,6 +211582,27 @@
     "path": "ko/People/tsai-pei-huo.md",
     "lang": "ko",
     "categorySlug": "people"
+  },
+  {
+    "title": "채소시장 이름 (菜市場名)",
+    "description": "타이완의 거리에서 \"수펀\"이나 \"자하오\"라고 크게 외치면 몇 명이나 돌아볼까? 이 이름들은 타이완 사회의 축소판이며, 서로 다른 세대가 꿈꿨던 ''아름다운 삶''에 대한 집단적 상상을 기록하고 있다.",
+    "category": "Culture",
+    "tags": [
+      "사회문화",
+      "내정부",
+      "작명 문화",
+      "연어 소동",
+      "수펀",
+      "자하오",
+      "야팅"
+    ],
+    "url": "https://taiwan.md/ko/culture/common-taiwanese-names",
+    "readingTime": 6,
+    "featured": false,
+    "date": "2026-04-19",
+    "path": "ko/Culture/common-taiwanese-names.md",
+    "lang": "ko",
+    "categorySlug": "culture"
   },
   {
     "title": "천등(天燈): 1820년 평안을 알리는 신호, 2019년 326킬로그램의 산림 쓰레기, 같은 평계(平溪) 사람들이 짊어진 두 개의 정체성",
@@ -216885,16 +217173,16 @@
     "categorySlug": "people"
   },
   {
-    "title": "황씨 형제: 산뜻함이라는 표식 뒤, 강제로 펼쳐진 진실과 다정함",
-    "description": "2017년 한 편의 장난 영상에서 시작한 황씨 형제는 ‘산뜻하고 긍정적인’ 이미지로 YouTube 생태계에서 두각을 나타냈다. 그러나 2020년 한 강제 아웃팅 보도는 백만 구독자의 정점에 있던 이 형제가 카메라 앞에서 사생활을 해부당하도록 만들었고, 동시에 대만 사회가 성평등에 대해 보여 준 가장 다정한 집단적 응답을 뜻밖에도 그려 냈다.",
+    "title": "황씨 형제: 신선한 라벨 뒤에 숨겨진, 강제로 드러나야 했던 진실과 다정함",
+    "description": "2017년 한 장난 영상으로 시작해 '신선하고 긍정적인' 이미지로 유튜브 생태계에서 두각을 나타낸 황씨 형제. 그러나 2020년 발생한 강제 커밍아웃 보도는 백만 구독자의 정점에서 그들의 사생활을 카메라 앞에 해체시켰으나, 역설적으로 타이완 사회의 성평등에 대한 가장 다정한 집단적 응답을 이끌어냈다.",
     "category": "People",
     "tags": [
-      "유튜버",
+      "YouTuber",
       "황씨 형제",
       "웨이웨이",
       "저저",
       "성평등",
-      "대만 문화"
+      "타이완 문화"
     ],
     "url": "https://taiwan.md/ko/people/huang-brothers-youtubers",
     "readingTime": 12,

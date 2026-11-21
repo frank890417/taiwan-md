@@ -1039,3 +1039,6 @@
 {"ts": "2026-11-17T22:07:47Z", "slug": "陳致中", "stage": "ship", "status": "done", "source": "observed", "sha": "df6a5d23c276"}
 {"ts": "2026-11-17T22:07:47Z", "slug": "中央研究院", "stage": "ship", "status": "done", "source": "observed", "sha": "e74b272d436a"}
 {"ts": "2026-11-17T22:07:47Z", "slug": "台灣新冠疫情與疫苗", "stage": "ship", "status": "done", "source": "observed", "sha": "551bb5b8a179"}
+{"ts": "2026-11-21T22:06:35Z", "slug": "黃仁勳", "stage": "inbox", "status": "pending", "source": "observed"}
+{"ts": "2026-11-21T22:06:35Z", "slug": "台灣股市與資本市場", "stage": "inbox", "status": "pending", "source": "observed"}
+{"ts": "2026-11-21T22:06:35Z", "slug": "inbox:國安基金 NEW — 每次股災都上頭條，站上一句都沒有", "stage": "inbox", "status": "pending", "source": "observed"}

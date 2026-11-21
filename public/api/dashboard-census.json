@@ -1,9 +1,9 @@
 {
-  "generated": "2026-11-21",
+  "generated": "2026-11-22",
   "generator": "scripts/tools/article-census.py",
-  "head": "25de1c067",
+  "head": "272ff93d4",
   "scope": "knowledge/{Category}/*.md（中文 SSOT；不含 knowledge/{lang}/ 譯文與 _ hub）",
-  "n": 1190,
+  "n": 1191,
   "thresholds": {
     "a_fn_floor": 5,
     "a_cjk_floor": 2000,
@@ -24,8 +24,8 @@
   "traffic_sources": {
     "ga": {
       "file": "public/api/dashboard-analytics.json:ga.topArticles7d",
-      "start": "2026-10-24",
-      "end": "2026-11-21",
+      "start": "2026-10-25",
+      "end": "2026-11-22",
       "days": 28,
       "rows": 20,
       "metric": "views",
@@ -38,49 +38,49 @@
     "C": "沒有可用封面圖",
     "D": "內文簡陋（該進 REWRITE），依流量排序"
   },
-  "tier_counts": { "A": 5, "B": 3, "C": 913, "D": 248 },
-  "curation_counts": { "none": 141, "incubating": 1047, "verified": 2 },
-  "curation_reason_counts": { "none": 367, "unverified": 568, "thin": 112 },
-  "cover_counts": { "local": 277, "none": 913 },
-  "c_subtypes": { "C3": 775, "C2": 133, "C1": 5 },
+  "tier_counts": { "A": 5, "B": 3, "C": 914, "D": 248 },
+  "curation_counts": { "none": 141, "incubating": 1048, "verified": 2 },
+  "curation_reason_counts": { "none": 368, "unverified": 568, "thin": 112 },
+  "cover_counts": { "local": 277, "none": 914 },
+  "c_subtypes": { "C3": 775, "C2": 133, "C1": 6 },
   "distribution": {
     "all": {
-      "n": 1181,
+      "n": 1182,
       "cjk": {
         "p5": 1261,
         "p10": 1496,
         "p25": 2018,
-        "p33": 2387,
-        "p50": 3119,
+        "p33": 2390,
+        "p50": 3114,
         "p75": 4624,
         "p90": 6018,
-        "n": 1181,
-        "mean": 3544.7
+        "n": 1182,
+        "mean": 3543.9
       },
       "fn_defs": {
         "p5": 0,
         "p10": 0,
         "p25": 7,
-        "p33": 8,
+        "p33": 9,
         "p50": 11,
         "p75": 20,
         "p90": 36,
-        "n": 1181,
+        "n": 1182,
         "mean": 15.8
       }
     },
     "walked_rewrite": {
-      "n": 407,
+      "n": 408,
       "cjk": {
         "p5": 1672,
         "p10": 2020,
-        "p25": 3140,
-        "p33": 3719,
+        "p25": 3110,
+        "p33": 3692,
         "p50": 4668,
         "p75": 6082,
         "p90": 7355,
-        "n": 407,
-        "mean": 4797.2
+        "n": 408,
+        "mean": 4791.6
       },
       "fn_defs": {
         "p5": 4,
@@ -90,7 +90,7 @@
         "p50": 22,
         "p75": 36,
         "p90": 54,
-        "n": 407,
+        "n": 408,
         "mean": 26.6
       }
     },
@@ -99,13 +99,13 @@
       "cjk": {
         "p5": 1216,
         "p10": 1363,
-        "p25": 1788,
+        "p25": 1796,
         "p33": 1994,
         "p50": 2657,
         "p75": 3765,
         "p90": 4704,
         "n": 606,
-        "mean": 2902.5
+        "mean": 2902.6
       },
       "fn_defs": {
         "p5": 0,
@@ -120,17 +120,17 @@
       }
     },
     "incubating": {
-      "n": 1047,
+      "n": 1048,
       "cjk": {
         "p5": 1247,
         "p10": 1457,
         "p25": 1951,
-        "p33": 2311,
+        "p33": 2315,
         "p50": 3114,
         "p75": 4625,
         "p90": 6046,
-        "n": 1047,
-        "mean": 3536.9
+        "n": 1048,
+        "mean": 3536.0
       },
       "fn_defs": {
         "p5": 0,
@@ -140,22 +140,22 @@
         "p50": 12,
         "p75": 20,
         "p90": 36,
-        "n": 1047,
+        "n": 1048,
         "mean": 16.0
       }
     },
     "recent_45d": {
-      "n": 68,
+      "n": 69,
       "cjk": {
         "p5": 999,
         "p10": 1141,
         "p25": 1309,
         "p33": 1502,
         "p50": 1776,
-        "p75": 2211,
+        "p75": 2256,
         "p90": 3009,
-        "n": 68,
-        "mean": 2257.3
+        "n": 69,
+        "mean": 2261.3
       },
       "fn_defs": {
         "p5": 1,
@@ -165,7 +165,7 @@
         "p50": 3,
         "p75": 9,
         "p90": 21,
-        "n": 68,
+        "n": 69,
         "mean": 11.2
       }
     }
@@ -296,17 +296,6 @@
         "cover": "none",
         "cjk": 1322,
         "fn": 5
-      },
-      {
-        "path": "knowledge/Geography/地形與地質.md",
-        "title": "地形與地質",
-        "category": "Geography",
-        "curation": "incubating",
-        "curationReason": "unverified",
-        "reason": "3 軸弱：腳註 0、零媒體、段落 38 段／中位 19 字",
-        "cover": "none",
-        "cjk": 2637,
-        "fn": 0
       },
       {
         "path": "knowledge/Art/EEWH綠建築標章.md",
@@ -1043,6 +1032,17 @@
         "reason": "3 軸弱：腳註 0、零媒體、段落 59 段／中位 31 字",
         "cover": "none",
         "cjk": 3306,
+        "fn": 0
+      },
+      {
+        "path": "knowledge/Geography/地形與地質.md",
+        "title": "地形與地質",
+        "category": "Geography",
+        "curation": "incubating",
+        "curationReason": "unverified",
+        "reason": "3 軸弱：腳註 0、零媒體、段落 38 段／中位 19 字",
+        "cover": "none",
+        "cjk": 2637,
         "fn": 0
       },
       {
@@ -2997,6 +2997,7 @@
   "tier_C_paths": [
     "knowledge/Geography/彰化縣.md",
     "knowledge/History/1935新竹臺中地震.md",
+    "knowledge/People/張峻.md",
     "knowledge/People/李宗盛.md",
     "knowledge/Politics/歡樂無法黨.md",
     "knowledge/Society/電網韌性.md",
@@ -3134,15 +3135,14 @@
     "knowledge/Technology/地震預警系統.md",
     "knowledge/Technology/報禁解除.md",
     "knowledge/People/陳樹菊.md",
+    "knowledge/Technology/數位身分證與數位政府.md",
     "knowledge/People/徐巧芯.md",
     "knowledge/People/蕭上農.md",
-    "knowledge/Technology/數位身分證與數位政府.md",
-    "knowledge/People/三毛.md",
     "knowledge/Technology/雪山隧道.md",
-    "knowledge/People/陳菊.md",
-    "knowledge/People/魏哲家.md",
+    "knowledge/People/三毛.md",
     "knowledge/People/吳百福.md",
-    "knowledge/Geography/地形與地質.md",
+    "knowledge/People/傅崐萁.md",
+    "knowledge/People/魏哲家.md",
     "knowledge/Lifestyle/夜生活與KTV文化.md",
     "knowledge/About/台灣官方網站資源.md",
     "knowledge/About/台灣官方網站資源重寫.md",
@@ -3396,6 +3396,7 @@
     "knowledge/Geography/台灣行政區劃.md",
     "knowledge/Geography/台灣農業地景與產業分布.md",
     "knowledge/Geography/台灣都市發展與城鄉差距.md",
+    "knowledge/Geography/地形與地質.md",
     "knowledge/Geography/城市特色與區域文化.md",
     "knowledge/Geography/安坑輕軌.md",
     "knowledge/Geography/擎天崗.md",
@@ -3575,7 +3576,6 @@
     "knowledge/People/何飛鵬.md",
     "knowledge/People/侯孝賢.md",
     "knowledge/People/傅兆玄.md",
-    "knowledge/People/傅崐萁.md",
     "knowledge/People/八田與一.md",
     "knowledge/People/凹與山.md",
     "knowledge/People/劉安婷.md",
@@ -3748,6 +3748,7 @@
     "knowledge/People/陳水扁.md",
     "knowledge/People/陳澄波.md",
     "knowledge/People/陳玉勳.md",
+    "knowledge/People/陳菊.md",
     "knowledge/People/陽岱鋼.md",
     "knowledge/People/韓國瑜.md",
     "knowledge/People/馬偕.md",

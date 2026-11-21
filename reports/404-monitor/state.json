@@ -1,73 +1,6 @@
 {
   "days": [
     {
-      "date": "2026-08-23",
-      "total_404": 3806,
-      "truncated": false,
-      "families": {
-        "scanner": {
-          "count": 538,
-          "bot": 7,
-          "browser": 165,
-          "empty": 366
-        },
-        "stale-asset": {
-          "count": 200,
-          "bot": 7,
-          "browser": 193,
-          "empty": 0
-        },
-        "probe-wellknown": {
-          "count": 99,
-          "bot": 26,
-          "browser": 73,
-          "empty": 0
-        },
-        "unknown": {
-          "count": 2309,
-          "bot": 1548,
-          "browser": 761,
-          "empty": 0
-        },
-        "missing-asset": {
-          "count": 25,
-          "bot": 1,
-          "browser": 24,
-          "empty": 0
-        },
-        "md-extension": {
-          "count": 150,
-          "bot": 91,
-          "browser": 59,
-          "empty": 0
-        },
-        "slug-variant": {
-          "count": 391,
-          "bot": 313,
-          "browser": 78,
-          "empty": 0
-        },
-        "untranslated-demand": {
-          "count": 56,
-          "bot": 51,
-          "browser": 5,
-          "empty": 0
-        },
-        "bad-encoding": {
-          "count": 16,
-          "bot": 2,
-          "browser": 14,
-          "empty": 0
-        },
-        "renamed-or-truncated": {
-          "count": 22,
-          "bot": 13,
-          "browser": 9,
-          "empty": 0
-        }
-      }
-    },
-    {
       "date": "2026-08-24",
       "total_404": 6130,
       "truncated": false,
@@ -4337,7 +4270,80 @@
           "empty": 0
         }
       }
+    },
+    {
+      "date": "2026-11-20",
+      "total_404": 3731,
+      "truncated": false,
+      "families": {
+        "probe-wellknown": {
+          "count": 80,
+          "bot": 0,
+          "browser": 80,
+          "empty": 0
+        },
+        "unknown": {
+          "count": 1663,
+          "bot": 1005,
+          "browser": 658,
+          "empty": 0
+        },
+        "scanner": {
+          "count": 575,
+          "bot": 0,
+          "browser": 575,
+          "empty": 0
+        },
+        "missing-asset": {
+          "count": 62,
+          "bot": 16,
+          "browser": 46,
+          "empty": 0
+        },
+        "bad-encoding": {
+          "count": 87,
+          "bot": 78,
+          "browser": 9,
+          "empty": 0
+        },
+        "stale-asset": {
+          "count": 24,
+          "bot": 2,
+          "browser": 22,
+          "empty": 0
+        },
+        "md-extension": {
+          "count": 66,
+          "bot": 50,
+          "browser": 16,
+          "empty": 0
+        },
+        "duplicated-lang-prefix": {
+          "count": 726,
+          "bot": 95,
+          "browser": 631,
+          "empty": 0
+        },
+        "slug-variant": {
+          "count": 437,
+          "bot": 210,
+          "browser": 227,
+          "empty": 0
+        },
+        "renamed-or-truncated": {
+          "count": 9,
+          "bot": 5,
+          "browser": 4,
+          "empty": 0
+        },
+        "untranslated-demand": {
+          "count": 2,
+          "bot": 2,
+          "browser": 0,
+          "empty": 0
+        }
+      }
     }
   ],
-  "updated": "2026-11-20T22:03:37.401144+00:00"
+  "updated": "2026-11-21T22:03:39.445290+00:00"
 }

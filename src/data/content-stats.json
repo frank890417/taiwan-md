@@ -3,14 +3,14 @@
     "About": 108,
     "Art": 624,
     "Culture": 1416,
-    "Economy": 1061,
+    "Economy": 1065,
     "Food": 1079,
     "Geography": 1020,
-    "History": 1126,
-    "Lifestyle": 695,
+    "History": 1128,
+    "Lifestyle": 696,
     "Music": 444,
     "Nature": 492,
-    "People": 3576,
+    "People": 3588,
     "Politics": 252,
     "Society": 1548,
     "Technology": 828,
@@ -883,12 +883,16 @@
     },
     {
       "date": "2026-11-20",
-      "count": 47
+      "count": 48
     },
     {
       "date": "2026-11-21",
-      "count": 2
+      "count": 20
+    },
+    {
+      "date": "2026-11-22",
+      "count": 1
     }
   ],
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
 }

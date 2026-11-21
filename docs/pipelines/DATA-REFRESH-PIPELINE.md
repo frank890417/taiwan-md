@@ -164,7 +164,7 @@ bash scripts/tools/refresh-data.sh
 - cwd 不在 git toplevel → auto cd（防 worktree vs main repo 混淆）
 - working tree dirty → auto-stash + pop（不再 silent skip pull）
 - git pull 真失敗 → hard abort（人類介入）
-- **平行寫手（babel 等）正在寫工作樹** → `bash scripts/tools/refresh-data.sh --no-sync`：跳過 stash＋pull，只在本機不落後 origin/main 時放行，落後就 exit 2。groundtruth 印 `ACTOR_BUSY` 時用它；10-03～10-10 四班手拼 runner 跳 Step 1 後收成旗標（v2.4）
+- **平行寫手（babel 等）正在寫工作樹** → `bash scripts/tools/refresh-data.sh --no-sync`（2026-11-22 起沒給旗標也會自己偵測寫手、不落後 origin 時自動走這條）：跳過 stash＋pull，只在本機不落後 origin/main 時放行，落後就 exit 2。groundtruth 印 `ACTOR_BUSY` 時用它；10-03～10-10 四班手拼 runner 跳 Step 1 後收成旗標（v2.4）
 - 任何資料源失敗 → soft skip，心跳繼續用昨天的 cache
 
 **Step 11（verify dashboard freshness）** 是 2026-05-02 γ-late 加的閘門 — 跑完後檢查每個 `public/api/dashboard-*.json` 都有今天的 mtime；`dashboard-analytics.json` 另驗 `lastUpdated` 的齡（≤ 24h，含時區換算；2026-09-18 起不再跟本機日期字串比對——`lastUpdated` 是 UTC，台北 00:00–08:00 跑的每一輪都會撞「昨天」的假警報，09-08／09-09／09-18 三次確認後改尺），若內容被後段流程覆回舊快照就從 fresh sense cache 當場重生。mtime 只能證明檔案被碰過，不能單獨證明內容新鮮。任何 stale 表示有 generator 漏跑或後段覆寫（REFLEXES #43）。`dashboard-build-perf.json` 另讀 `status`（2026-09-30 起）：GitHub API 偶爾回一頁幾週前的舊 run，generator 自驗最新成功 run 超過 2 天就換查詢重抓，仍舊就寫 `stale-source`，Step 11 把非 `ok` 算進 stale。這之前 08-21／09-02／09-18／09-19／09-30 五次舊內容都以今天的 mtime 過關。
