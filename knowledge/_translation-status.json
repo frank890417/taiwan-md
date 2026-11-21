@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-21T14:25:57+08:00",
-    "zhCommitHead": "1fadcb2185",
+    "lastUpdated": "2026-11-21T14:49:05+08:00",
+    "zhCommitHead": "a90836ff32",
     "totalZh": 1193,
     "activeLanguages": [
       "en",
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1193,
-        "fresh": 1176,
-        "stale": 13,
+        "fresh": 1177,
+        "stale": 12,
         "metadata_stale": 2,
         "missing": 2,
         "orphan": 0
@@ -105685,18 +105685,18 @@
         "vi": {
           "path": "vi/People/huang-brothers-youtubers.md",
           "translatedFrom": "People/黃氏兄弟.md",
-          "sourceCommitSha": "22286539e",
-          "sourceContentHash": "sha256:09c03ef57cbece0a",
-          "sourceBodyHash": "sha256:3bfd8aa37bf0451b",
-          "translatedAt": "2026-11-04T21:05:30.224570+00:00",
+          "sourceCommitSha": "7d41e6f686",
+          "sourceContentHash": "sha256:1016352970b6d5c8",
+          "sourceBodyHash": "sha256:68b9398b0dec02a8",
+          "translatedAt": "2026-11-21T14:31:16+08:00",
           "translationLastCommit": "14f30307",
           "translationLastModified": "2026-11-05T05:22:14+08:00",
           "inferred": false,
-          "footnoteDefs": 13,
-          "bytes": 14962,
+          "footnoteDefs": 14,
+          "bytes": 16432,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (14→13)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/huang-brothers-youtubers.md",
@@ -125513,8 +125513,8 @@
           "sourceContentHash": "sha256:e07144ca7ec7d09a",
           "sourceBodyHash": "sha256:2d7c745b2d69fe20",
           "translatedAt": "2026-11-21T04:45:20.332156+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a90836ff",
+          "translationLastModified": "2026-11-21T14:25:57+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "bytes": 20431,
