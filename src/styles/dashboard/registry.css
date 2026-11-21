@@ -65,6 +65,13 @@
   white-space: nowrap;
   border-bottom: 2px solid rgba(0, 0, 0, 0.08);
 }
+/* 深色模式：表頭原本寫死淺灰底，白字落在淺底上看不見 */
+:root[data-theme='dark'] .registry-table thead {
+  background: rgba(24, 24, 24, 0.95);
+}
+:root[data-theme='dark'] .registry-table th {
+  border-bottom-color: rgba(255, 255, 255, 0.12);
+}
 .registry-table td {
   padding: 0.55rem 0.8rem;
   border-bottom: 1px solid rgba(0, 0, 0, 0.04);
@@ -191,4 +198,111 @@
 .lang-dot.missing {
   background: rgba(0, 0, 0, 0.04);
   color: rgba(0, 0, 0, 0.2);
+}
+
+/* ── 封面／圖／模組欄位與統計 ──
+   顏色走 token（--status-*、--surface-glass、--color-border），深色模式自動翻轉；
+   ✓ / ✗ / ! 靠符號與 title 傳達，不單靠顏色。 */
+.cover-yes {
+  color: var(--status-tier-excellent);
+  font-weight: 700;
+}
+.cover-no {
+  color: var(--status-tier-poor);
+  font-weight: 700;
+}
+.cover-credit-gap {
+  display: inline-block;
+  min-width: 1.1em;
+  text-align: center;
+  font-size: 0.7rem;
+  font-weight: 700;
+  line-height: 1.1rem;
+  border-radius: 999px;
+  color: var(--status-tier-fair);
+  border: 1px solid currentColor;
+  cursor: help;
+}
+.media-unknown {
+  opacity: 0.4;
+}
+.registry-media-stats {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1.4fr);
+  gap: 1rem;
+  margin-bottom: 1.2rem;
+}
+.media-stat-row {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.6rem;
+  align-content: start;
+}
+.media-stat-card {
+  background: var(--surface-glass);
+  border: 1px solid var(--color-border, rgba(0, 0, 0, 0.06));
+  border-radius: 12px;
+  padding: 0.8rem 0.7rem;
+  text-align: center;
+}
+.media-stat-value {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2;
+  font-variant-numeric: tabular-nums;
+}
+.media-stat-label {
+  font-size: 0.78rem;
+  font-weight: 600;
+  margin-top: 0.2rem;
+}
+.media-stat-frac {
+  font-size: 0.72rem;
+  opacity: 0.55;
+  margin-top: 0.15rem;
+  font-variant-numeric: tabular-nums;
+}
+.media-stat-note {
+  grid-column: 1 / -1;
+  margin: 0;
+  font-size: 0.75rem;
+  opacity: 0.6;
+}
+.media-cat-chart {
+  background: var(--surface-glass);
+  border: 1px solid var(--color-border, rgba(0, 0, 0, 0.06));
+  border-radius: 12px;
+  padding: 0.7rem 0.9rem;
+}
+.media-cat-title {
+  font-size: 0.78rem;
+  font-weight: 600;
+  margin-bottom: 0.4rem;
+}
+.media-cat-row {
+  display: grid;
+  grid-template-columns: 4.5rem minmax(0, 1fr) 6.5rem;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.75rem;
+  padding: 0.1rem 0;
+}
+.media-cat-bar {
+  height: 0.5rem;
+  border-radius: 999px;
+  background: var(--color-border, rgba(0, 0, 0, 0.08));
+  overflow: hidden;
+}
+.media-cat-fill {
+  display: block;
+  height: 100%;
+  border-radius: 999px;
+  background: var(--status-vital-cells, #3b82f6);
+}
+.media-cat-num {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+.media-cat-num small {
+  opacity: 0.55;
 }

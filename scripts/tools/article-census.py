@@ -404,6 +404,22 @@ def dashboard_payload(payload: dict) -> dict:
                          for k, v in payload["distribution"].items()},
         "tiers": {t: [slim(r, t) for r in tier_paths(rows, t)] for t in "ABD"},
         "tier_C_paths": [r["path"] for r in tier_paths(rows, "C")],
+        # 每篇的媒體讀數，監測頁文章總覽用（generate-dashboard-data.js 依 path join）。
+        # 欄位短名省體積：c 封面狀態｜cr 授權三欄齊不齊｜i 內文圖（il 本地／ir 外站）｜
+        # m 全部 tw-* 模組｜d 資料類模組｜f iframe 嵌入。定義在 lib/article_health/census.py。
+        "media": {
+            r["path"]: {
+                "c": r["cover"],
+                "cr": all(r["cover_fields"].values()),
+                "i": r["metrics"]["images"],
+                "il": r["metrics"]["images_local"],
+                "ir": r["metrics"]["images_remote"],
+                "m": r["metrics"]["tw_modules"],
+                "d": r["metrics"]["tw_data_modules"],
+                "f": r["metrics"]["iframes"],
+            }
+            for r in rows
+        },
     }
 
 

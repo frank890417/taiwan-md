@@ -90,7 +90,10 @@ def test_a_batches_and_exclude(tmp_path):
 
 def test_dashboard_payload_shape():
     row = {"path": "knowledge/People/a.md", "title": "a", "category": "People", "curation": None,
-           "curationReason": None, "cover": "none", "metrics": {"cjk": 1, "fn_defs": 0},
+           "curationReason": None, "cover": "none",
+           "cover_fields": {"credit": True, "license": True, "source": False},
+           "metrics": {"cjk": 1, "fn_defs": 0, "images": 3, "images_local": 1, "images_remote": 2,
+                       "tw_modules": 4, "tw_data_modules": 3, "iframes": 1},
            "tiers": {"A": ["A1 零查證證據"], "C": ["C3 無封面、正文也沒圖"]}, "featured": False,
            "evidence": {"hold": None}, "traffic": {"ga_views": 0, "sc_impressions": 0, "ga_views_translations": 0}}
     payload = {k: None for k in ("generated", "generator", "head", "scope", "n", "thresholds", "health_profile",
@@ -101,3 +104,25 @@ def test_dashboard_payload_shape():
     assert d["tiers"]["A"][0]["path"] == "knowledge/People/a.md"
     assert d["tier_C_paths"] == ["knowledge/People/a.md"] and d["c_subtypes"] == {"C3": 1}
     assert "articles" not in d  # 輕量版不帶全列
+    # 監測頁文章總覽 join 用的每篇媒體讀數；授權三欄缺一欄就不算齊
+    assert d["media"]["knowledge/People/a.md"] == {
+        "c": "none", "cr": False, "i": 3, "il": 1, "ir": 2, "m": 4, "d": 3, "f": 1}
+
+
+def test_tw_modules_split_data_from_text_helpers():
+    """資訊模組的定義只住 census.py：全部 tw-* 與資料類分開數，code fence 裡的圖不算圖。"""
+    from lib.article_health import census
+
+    body = "\n".join([
+        "正文一段。", "", "![圖](/article-images/x/a.webp)", "",
+        "```tw-timeline", "1990｜事件", "```", "",
+        "```tw-bars", "標題", "甲｜10", "```", "",
+        "```tw-quote", "一句話", "```", "",
+        "```tw-article", "/people/a", "```", "",
+        "```python", "![不是圖](http://example.com/x.png)", "```",
+    ])
+    m = census.body_metrics(body)
+    assert m["tw_modules"] == 4 and m["tw_data_modules"] == 2
+    assert m["tw_types"] == {"article": 1, "bars": 1, "quote": 1, "timeline": 1}
+    assert m["images"] == 1 and m["images_local"] == 1 and m["images_remote"] == 0
+    assert {"quote", "note", "source", "article"}.isdisjoint(census.TW_DATA_MODULES)
