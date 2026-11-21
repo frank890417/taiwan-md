@@ -981,43 +981,46 @@ def translate_footnotes(defs: list[dict], lang: str, backend, metrics: dict) -> 
             f"- {money_rule(lang_name)}"
         )
         user = json.dumps(payload, ensure_ascii=False)
-        try:
-            data = call_json(
-                backend,
-                system,
-                user,
-                max_tokens=8000,
-                timeout=240,
-                max_attempts=2,
-                metrics=metrics,
-                label=f"phase-N-batch{bi}",
-                accept_data=lambda d, b=batch: is_footnote_batch_response(d, b),
-            )
-        except RuntimeError as error:
-            # v1.45 實績：15 筆 batch 的兩次同尺寸重播都可能只留下尾端單筆
-            # object。只有明確 shape failure 才換一次較小路徑；backend error、
-            # timeout 與內容 gate 不在此擴張，避免把容量故障放大。
-            if "JSON shape fail" not in str(error) or len(batch) < 2:
-                raise
-            midpoint = len(batch) // 2
-            split_data = []
+        def call_batch(sub_batch: list[dict], label: str, user_json: str):
+            """一批腳註送一次；形狀不對就對半切再送，一路切到單條為止。
+
+            v1.45 的二分只切一層。2026-11-22 babel-nightly：本機 gemma4:26b 翻印地語
+            的重腳註文章，對半之後的半批（7、8 條）仍然只回尾端單筆 object，整篇
+            exit=1，report 只寫「no output written」——〈台灣新冠疫情與疫苗〉hi 三次
+            都停在 1,040 秒上下、〈中央研究院〉hi 三次、〈台灣醫療與全民健保〉hi 兩次，
+            一個 run 九次裡八次是同一個模型×語言。切到單條時，裸 object 本來就是
+            完整答案（`_is_single_footnote_record`），所以遞迴一定有底。收件判準沒有
+            放寬：每一層照樣過 `is_footnote_batch_response` 與長度檢查；backend error、
+            逾時與內容閘門照舊不在這裡擴張。
+            """
+            try:
+                return call_json(
+                    backend,
+                    system,
+                    user_json,
+                    max_tokens=8000,
+                    timeout=240,
+                    max_attempts=2,
+                    metrics=metrics,
+                    label=label,
+                    accept_data=lambda d, b=sub_batch: is_footnote_batch_response(d, b),
+                )
+            except RuntimeError as error:
+                if "JSON shape fail" not in str(error) or len(sub_batch) < 2:
+                    raise
+            midpoint = len(sub_batch) // 2
+            merged = []
             for split_index, split_batch in enumerate(
-                (batch[:midpoint], batch[midpoint:])
+                (sub_batch[:midpoint], sub_batch[midpoint:])
             ):
                 split_payload = [
                     {"n": item["n"], "title": item["title"], "desc": item["desc"]}
                     for item in split_batch
                 ]
-                part = call_json(
-                    backend,
-                    system,
+                part = call_batch(
+                    split_batch,
+                    f"{label}-split{split_index}",
                     json.dumps(split_payload, ensure_ascii=False),
-                    max_tokens=8000,
-                    timeout=240,
-                    max_attempts=2,
-                    metrics=metrics,
-                    label=f"phase-N-batch{bi}-split{split_index}",
-                    accept_data=lambda d, b=split_batch: is_footnote_batch_response(d, b),
                 )
                 part = normalize_footnote_batch(part, split_batch)
                 if not isinstance(part, list) or len(part) != len(split_batch):
@@ -1026,8 +1029,10 @@ def translate_footnotes(defs: list[dict], lang: str, backend, metrics: dict) -> 
                         f"(want {len(split_batch)}, got "
                         f"{len(part) if isinstance(part, list) else type(part).__name__})"
                     )
-                split_data.extend(part)
-            data = split_data
+                merged.extend(part)
+            return merged
+
+        data = call_batch(batch, f"phase-N-batch{bi}", user)
         # 模型常把正確陣列包成 `{"footnotes": [...]}` / `{"translations": [...]}`。
         # v1.6 fallback 實績 4 篇在這裡被判成「got dict」，但內容沒有機會進入
         # 後面的長度與 ID 驗證。只接受「物件內恰好一個 list」這個高信心形狀；

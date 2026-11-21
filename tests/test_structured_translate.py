@@ -742,3 +742,64 @@ def test_footnote_prompt_carries_bare_yuan_money_rule():
         pass
 
     assert systems and "New Taiwan dollars" in systems[0]
+
+
+def test_translate_footnotes_keeps_bisecting_until_single_records():
+    """2026-11-22：對半之後的半批仍只回尾端單筆 object 時，要繼續往下切。
+
+    四條腳註：整批兩次、前半（1、2）兩次都回單筆，切到單條後裸 object 是完整
+    答案；後半（3、4）一次就回陣列。只切一層的舊版會在前半就整篇 exit=1。
+    """
+    class Backend:
+        def __init__(self):
+            self.responses = [
+                '{"n":"4","title":"tail","desc":"t"}',
+                '{"n":"4","title":"tail","desc":"t"}',
+                '{"n":"2","title":"tail","desc":"t"}',
+                '{"n":"2","title":"tail","desc":"t"}',
+                '{"n":"1","title":"One","desc":"D1"}',
+                '{"n":"2","title":"Two","desc":"D2"}',
+                '[{"n":"3","title":"Three","desc":"D3"},{"n":"4","title":"Four","desc":"D4"}]',
+            ]
+
+        def translate(self, *_args, **_kwargs):
+            return self.responses.pop(0)
+
+    defs = [
+        {"n": str(i), "title": "題", "desc": "述", "_link_restore": []}
+        for i in range(1, 5)
+    ]
+    metrics = {}
+
+    assert MODULE.translate_footnotes(defs, "hi", Backend(), metrics) == {
+        "1": {"title": "One", "desc": "D1"},
+        "2": {"title": "Two", "desc": "D2"},
+        "3": {"title": "Three", "desc": "D3"},
+        "4": {"title": "Four", "desc": "D4"},
+    }
+    assert [call["label"] for call in metrics["calls"]] == [
+        "phase-N-batch0",
+        "phase-N-batch0",
+        "phase-N-batch0-split0",
+        "phase-N-batch0-split0",
+        "phase-N-batch0-split0-split0",
+        "phase-N-batch0-split0-split1",
+        "phase-N-batch0-split1",
+    ]
+
+
+def test_translate_footnotes_single_record_with_wrong_id_still_fails():
+    """負面斷言：切到單條後 ID 對不上的裸 object 仍然拒收，遞迴沒有放寬收件。"""
+    import pytest
+
+    class Backend:
+        def translate(self, *_args, **_kwargs):
+            return '{"n":"9","title":"wrong","desc":"id"}'
+
+    defs = [
+        {"n": "1", "title": "一", "desc": "甲", "_link_restore": []},
+        {"n": "2", "title": "二", "desc": "乙", "_link_restore": []},
+    ]
+
+    with pytest.raises(RuntimeError, match="JSON shape fail"):
+        MODULE.translate_footnotes(defs, "hi", Backend(), {})
