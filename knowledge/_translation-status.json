@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-21T19:47:25+08:00",
-    "zhCommitHead": "dee9ddbd5e",
+    "lastUpdated": "2026-11-21T21:05:53+08:00",
+    "zhCommitHead": "6e0e5b106f",
     "totalZh": 1193,
     "activeLanguages": [
       "en",
@@ -60,9 +60,9 @@
       },
       "vi": {
         "total_zh": 1193,
-        "fresh": 1177,
+        "fresh": 1178,
         "stale": 12,
-        "metadata_stale": 2,
+        "metadata_stale": 1,
         "missing": 2,
         "orphan": 0
       },
@@ -10164,8 +10164,8 @@
           "sourceContentHash": "sha256:3dd86d4390d8efbd",
           "sourceBodyHash": "sha256:971a1a8aa9b5930a",
           "translatedAt": "2026-11-21T10:02:45.660673+00:00",
-          "translationLastCommit": "5fce2646",
-          "translationLastModified": "2026-11-17T10:17:48+08:00",
+          "translationLastCommit": "6e0e5b10",
+          "translationLastModified": "2026-11-21T19:47:25+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "bytes": 85861,
@@ -26841,20 +26841,18 @@
         "vi": {
           "path": "vi/Technology/ai-supply-chain-overseas-manufacturing.md",
           "translatedFrom": "Technology/AI供應鏈海外設廠.md",
-          "sourceCommitSha": "fd01d452a",
-          "sourceContentHash": "sha256:7fa246cf8f0f5c00",
+          "sourceCommitSha": "be13f04522",
+          "sourceContentHash": "sha256:1f66d74cd10a1fe4",
           "sourceBodyHash": "sha256:453d3851b08255ad",
-          "translatedAt": "2026-08-09T09:26:48+08:00",
+          "translatedAt": "2026-11-21T12:28:47.076573+00:00",
           "translationLastCommit": "12f09560",
           "translationLastModified": "2026-10-10T23:20:50+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "bytes": 36750,
+          "bytes": 38022,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+22 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Technology/ai-supply-chain-overseas-manufacturing.md",
@@ -197924,8 +197922,8 @@
           "sourceContentHash": "sha256:7c8bc6c7b2870cad",
           "sourceBodyHash": "sha256:c2c6980616f215c7",
           "translatedAt": "2026-11-21T17:16:08+08:00",
-          "translationLastCommit": "5b0f4129",
-          "translationLastModified": "2026-10-10T23:03:20+08:00",
+          "translationLastCommit": "6e0e5b10",
+          "translationLastModified": "2026-11-21T19:47:25+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 31233,
