@@ -66,7 +66,11 @@ LOCAL_CURRENCY = {
     "id": r"rupiah", "hi": r"रुपये|रुपए|रुपया", "ru": r"рубл\w*",
     # 越南文 đồng 也是一串常用複合詞的首字（đồng thời 同時、đồng ý 同意、đồng bộ 同步…），
     # 2026-09-27 vi〈台灣在國際標準中的標示問題〉的「ISO 3166-1 đồng thời」被當成 1 越南盾。
-    "vi": r"đồng(?!\s+(?:thời|ý|bộ|nghĩa|loạt|đều|hành|bằng|minh|tâm|chí|nhất|hương|nghiệp|thuận|dạng|đẳng|cảm|lòng|hồ)\b)",
+    # 「đồng bạc」是銀元／銀圓的通稱，講的是歷史上的銀幣不是今天的錢：2026-11-21 投稿者
+    # aminzai 的 vi〈道明會在台灣〉把母稿「以龍銀六十二圓購置土地」譯成「62 đồng bạc rồng」
+    # （龍銀＝silver dragon dollar），被判成裸幣別。他翻對了，是尺讀錯了——同族還有
+    # 「đồng bạc hoa xòe」（花邊銀元）。1859 年的銀元不可能寫成 NT$，排除不會漏掉真錯。
+    "vi": r"đồng(?!\s+(?:thời|ý|bộ|nghĩa|loạt|đều|hành|bằng|minh|tâm|chí|nhất|hương|nghiệp|thuận|dạng|đẳng|cảm|lòng|hồ|bạc)\b)",
     "ar": r"ريال|درهم|دينار",
 }
 # 越南文的 đồng 是「貨幣單位」的通稱不是專有名詞，`đồng Đài Loan` 正是台幣的標準

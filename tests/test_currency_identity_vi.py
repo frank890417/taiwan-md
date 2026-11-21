@@ -32,6 +32,17 @@ def test_real_vnd_amount_is_still_caught(tmp_path):
     assert len(_scan(tmp_path, "Vé vào cửa giá 350 đồng mỗi người.")) == 1
 
 
+def test_dong_bac_is_a_silver_dollar_not_vnd(tmp_path):
+    # 2026-11-21：投稿 PR #2048 的 vi〈道明會在台灣〉把母稿「以龍銀六十二圓購置土地」
+    # 譯成「62 đồng bạc rồng」（龍銀），被判成裸幣別；同族存量 vi〈艋舺〉的
+    # 「25.000 đồng bạc」出自母稿「募款 25,000 銀元」。兩處都是十九世紀的銀元，
+    # 不可能寫成 NT$，譯者沒錯，是尺讀錯了。
+    assert _scan(tmp_path, "Tháng 12 cùng năm, họ dùng 62 đồng bạc rồng mua đất.") == []
+    assert _scan(tmp_path, "Dân An Tích tự tài trợ 25.000 đồng bạc để trùng tu.") == []
+    # 負面斷言：排除的是「đồng bạc」這個複合詞，不是它前面的數字——裸 đồng 照樣要擋
+    assert len(_scan(tmp_path, "Họ dùng 62 đồng mua đất ở ven biển.")) == 1
+
+
 def _scan_lang(tmp_path, lang, text):
     MODULE.REPO = tmp_path.resolve()
     k = MODULE.REPO / "knowledge"
