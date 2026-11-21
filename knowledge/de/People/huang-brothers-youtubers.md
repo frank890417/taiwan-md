@@ -1,16 +1,16 @@
 ---
-title: 'Die Huang-Gebrüder: Hinter dem frischen Etikett liegt die gezwungen offengelegte Wahrheit und die Sanftmut'
-description: 'Beginnend mit einem Streichvideo im Jahr 2017 stiegen die Huang-Gebrüder mit „frisch und positiv“ in der YouTube-Szene erfolgreich vor. Doch ein Bericht 2020, der sie gezwungen hat, ihre Privatsphäre vor der Kamera preiszugeben, zwang sie inmitten von einer Million Abonnenten, ihre Privatsphäre zu zerlegen und zeichnete dabei zufällig das sanfteste kollektive Echo Taiwans auf die Themen Gleichstellung und Geschlechtergerechtigkeit nach.'
+title: 'Huang-Brüder: Hinter dem frischen Label die erzwungene Entfaltung von Wahrheit und Zärtlichkeit'
+description: 'Ausgehend von einem Prank-Video 2017 durchbrachen die Huang-Brüder mit „frisch, positiv“ die YouTube-Szene. Doch ein 2020er Bericht, der einen von ihnen zwangsoutete, zwang das Brüderpaar auf dem Höhepunkt ihrer Millionen-Abonnenten, ihre Privatsphäre vor der Kamera offenzulegen – und skizzierte unerwartet die zärtlichste kollektive Reaktion der taiwanischen Gesellschaft auf Geschlechtergerechtigkeit.'
 date: 2026-06-01
 category: 'People'
 tags:
   [
     'YouTuber',
-    'Huang-Gebrüder',
-    'Wei-Wei',
-    'Zhe-Zhe',
+    'Huang-Brüder',
+    'Weiwei',
+    'Zhezhe',
     'Geschlechtergerechtigkeit',
-    'taiwanesische Kultur',
+    'Taiwan-Kultur',
   ]
 subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
@@ -21,91 +21,93 @@ readingTime: 12
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/黃氏兄弟.md'
-sourceCommitSha: '22286539e'
-sourceContentHash: 'sha256:09c03ef57cbece0a'
-sourceBodyHash: 'sha256:3bfd8aa37bf0451b'
-translatedAt: '2026-11-04T19:09:14.139046+00:00'
+sourceCommitSha: '7d41e6f686'
+sourceContentHash: 'sha256:1016352970b6d5c8'
+sourceBodyHash: 'sha256:68b9398b0dec02a8'
+translatedAt: '2026-11-21T10:48:09+08:00'
 ---
 
 > **30-Sekunden-Überblick:**
-> Die Huang-Gebrüder (Huang Brothers) bestehen aus dem Bruder Zhe-Zhe (Huang Yong-Ze) und dem jüngeren Bruder Wei-Wei (Huang Ting-Wei) und zählen zu den einflussreichsten YouTubern Taiwans. Sie sind bekannt für ihre äußerst disziplinierte Arbeitsweise und hielten den Rekord von 20 Monaten ohne echte Pause. Im Jahr 2020 wurde Wei-Wei Opfer eines medialen „Ausstiegs unter Zwang“, als ein Video, in dem er unter Tränen seine Mutter anrief, um seine sexuelle Orientierung zu bekennen, nicht nur zum emotional starken Moment Taiwans wurde, sondern auch eine tiefgehende Auseinandersetzung mit Medienethik und digitaler Privatsphäre auslöste. Von Influencer zu Musiker, von Streichern zu Wohltätigkeit – die zehnjährige Karriere dieser Brüder spiegelt die Entwicklung der taiwanesischen Kreatorszene von „Laien, die versuchen, Aufmerksamkeit zu erlangen“ bis hin zu „Verantwortung für die Öffentlichkeit“ wider.
+> Die Huang-Brüder (Huang Brothers) bestehen aus dem älteren Bruder Zhezhe (Huang Yung-che) und dem jüngeren Bruder Weiwei (Huang Ting-wei) und gehören zu den repräsentativsten Millionen-YouTubern Taiwans. Sie sind für ihre extreme Inhaltsproduktionsdisziplin bekannt und stellten einst einen Rekord von „20 Monaten ohne Urlaub“ auf. 2020 wurde der jüngere Bruder Weiwei von Medien „zwangsgeoutet“; jenes Video, in dem er vor der Kamera in Tränen ausbrach und seine Mutter anrief, um sich zu seiner sexuellen Orientierung zu bekennen, wurde nicht nur zum erschütterndsten Moment des taiwanischen Internets jenes Jahres, sondern löste auch tiefe Reflexionen über Medienethik und digitale Privatsphäre aus. Vom Internet-Star zum Sänger, vom Prank zum Gemeinwohl – der zehnjährige Werdegang dieses Brüderpaars spiegelt die Evolution des taiwanischen Creator-Ökosystems wider: von „Laien, die ihr Glück versuchen“ hin zur „Übernahme öffentlicher Verantwortung“.
 
 ---
 
-## Vom Alltäglichen zum Extremen: Die 24-Stunden-Challenge der Brüder
+## Vom „Leben“ zum „Extremen“: Die 24-Stunden-Nonstop-Arbeit zweier Brüder
 
-Am 4. April 2017 wurde ein Video mit dem Titel „Die Unterwäsche meines Bruders gefrieren“ hochgeladen. Zu dieser Zeit herrschte in der taiwanesischen YouTube-Szene ein Krieg zwischen Vlogs und Streichvideos. Die Huang-Gebrüder begannen nicht mit großem Aufwand, doch bald fanden sie ihren einzigartigen Weg: **Sie hoben das Alltägliche zur Extremform**.
+Am 4. April 2017 wurde still ein Video mit dem Titel „Japanische Convenience-Stores: Muss man kaufen! Ist Matcha-Ramen nun salzig oder süß....? Eine unglaublich magische Textur“ hochgeladen. Zwei Personen sitzen vor einer Schüssel Matcha-Geschmacks-Instantnudeln, die sie aus einem japanischen Convenience-Store mitgebracht haben, und diskutieren ernsthaft, ob sie nun als salzig oder süß einzustufen sind. Zwei Minuten vierundvierzig Sekunden – das ist das älteste Video auf dem Hauptkanal.[^14] Damals befand sich die taiwanische YouTube-Szene in einer Ära der Vlogs und Prank-Videos. Der Start der Huang-Brüder war nicht glamourös, doch sie fanden schnell einen einzigartigen Weg: **Alltägliche Lebensherausforderungen ins Extreme zu treiben**.
 
-„Wenn man etwas tut, muss man es richtig gut machen“[^4], war die Devise der Brüder. Obwohl ihre Inhalte von außen vielleicht wie lockeres Öffnen oder Spiele schienen, steckte hinter der Kamera eine nahezu strenggehaltene Disziplin. Im Jahr 2018 stieg ihre Abonnentenzahl von 100.000 auf 800.000 – zu diesem Preis, dass beide zwei Jahre und zwanzig Monate keinen einzigen Tag wirklich ruhten[^2].
+„Will man es machen, muss man es am besten machen“[^4] ist der Grundsatz, den beide Brüder teilen. Nach außen hin mögen ihre Inhalte wie lockere Unboxings oder Spiele wirken, doch hinter der Kamera herrscht eine fast strenge Disziplin. 2018 schnellte ihre Abonnentenzahl von 100.000 auf 800.000 hoch – der Preis dafür war, dass die beiden ganze 20 Monate keinen einzigen echten Ruhetag hatten[^2].
 
-Dieses „Extrem“ zeigte sich in ihrer Kontrolle über den Inhalt. Anders als viele andere Content-Ersteller, die nach ihrem Durchbruch die Bearbeitung outsourcieren, bearbeiteten die Huang-Gebrüder selbst jeden Schnitt und jeden Soundeffekt in den Anfangsjahren, um sicherzustellen, dass jede Sekunde ihrem festgelegten Markenimage von „frisch und positiv“ entspricht. Diese präzise Selbstpositionierung[^6] brachte ihnen große Loyalität bei jungen Zuschauern ein, und die Abonnentenzahl ihres Hauptkanals stieg letztendlich über 2,3 Millionen[^1].
+Dieses „Extreme“ zeigt sich in ihrem Kontrollbedürfnis über die Inhalte. Anders als viele Creator, die nach dem Durchbruch das Schneiden auslagern, bestanden die Huang-Brüder in der Anfangsphase darauf, jeden Übergang und jeden Soundeffekt selbst zu bearbeiten, um sicherzustellen, dass jede Sekunde der von ihnen definierten „frischen, positiven“ Marken-Tonalität entspricht. Diese präzise Selbstpositionierung[^6] bescherte ihnen enorme Loyalität in der Studentengruppe; die Abonnentenzahl des Hauptkanals durchbrach später 2,3 Millionen[^1].
 
-📝 **Redaktionsnotiz:** Der Aufstieg der Huang-Gebrüder markierte den Wendepunkt, an dem taiwanesische YouTuber von „Laien, die einfach so filmen“ zu „professionellen, markenspezifischen Unternehmen“ wurden. Ihr Erfolg beruhte nicht nur auf Glück, sondern auch darauf, digitale Inhalte wie eine präzise Industrie zu betreiben.
+📝 **Kuratorische Anmerkung:** Der Aufstieg der Huang-Brüder markiert einen Wendepunkt taiwanischer YouTuber: vom „Laien, der drauflos filmt“ hin zur „Professionalisierung und Markenbildung“. Ihr Erfolg beruht nicht nur auf Glück, sondern darauf, dass sie digitale Inhalte wie eine Präzisionsindustrie betrieben.
 
-## Die gezwungen enthüllte Privatsphäre: Wei-Weis Tränen und die „Ich wusste es schon lange“-Antwort seiner Mutter
+## Jene gewaltsam geöffnete Privatsphäre: Weiweis Tränen und Mamas „Ich habe es schon lange gewusst“
 
-Am 3. Juni 2020 durchbrach eine überraschende Meldung diese Frische. Ein Wochenmagazin enthüllte mit der Methode der „Zwangsenthüllung“ Wei-Weis Privatleben auf einer Dating-App und kam praktisch für ihn mit dem Thema sexuelle Orientierung raus[^7].
+Am 3. Juni 2020 brach ein plötzlich erschienener Bericht diese Frische. Eine Wochenzeitung deckte mit „zwangsweiser Veröffentlichung“ Weiweis Privatleben auf einer Dating-App auf und „outete“ ihn faktisch[^7].
 
-In der Nacht des Ereignisses veröffentlichte Wei-Wei ein Video mit dem Titel „Über die Berichterstattung – ich möchte zu meiner Familie sprechen“. Im Video bat er nicht um Gewinn, sondern weinte und rief seine Mutter an. Seine Mutter antwortete mit der sanftesten Stimme: „Hast du schon darüber nachgedacht, dass ich es schon lange gewusst habe?“ Sie fuhr fort: „Am Anfang war es für mich schwieriger zu akzeptieren, aber egal wie, du bist mein Sohn, und du warst und bist immer etwas, worauf ich stolz bin.“[^9]
+Noch am selben Abend lud Weiwei auf dem Kanal ein Video mit dem Titel „Zum Bericht: Ich möchte mit der Familie sprechen“ hoch. Im Video schaltete er die Monetarisierung aus, rief nur weinend und stammelnd seine Mutter an. Am anderen Ende der Leitung antwortete die Mutter mit der sanftesten Stimme: „Hast du nicht daran gedacht, dass ich es schon lange weiß?“ Sie fuhr fort: „Am Anfang war es mir schwer, das zu akzeptieren, aber egal wie – du bist mein Sohn, du warst immer, immer mein Sohn, auf den ich sehr stolz bin.“[^9]
 
-Dieses Gespräch löste eine Welle der sozialen Resonanz in Taiwan aus. Es war nicht länger nur eine Geschichte über eine Influencer-Beziehung, sondern ein Thema über „digitale Gewalt“ und „Familienakzeptanz“. Schwule und lesbische Organisationen sowie zahlreiche Internetnutzer äußerten sich solidarisch, und die taiwanesische Schwulenberatungs-Hotline erinnerte die Gesellschaft daran, dass niemand gezwungen werden sollte, seine sexuelle Orientierung zu einem bestimmten Zeitpunkt oder vor bestimmten Personen preiszugeben[^9].
+Dieses Gespräch löste sofort ein Beben in der gesamten taiwanischen Social-Media-Landschaft aus. Es war nicht mehr nur ein Klatsch über Internet-Stars, sondern ein öffentliches Thema über „digitale Gewalt“ und „familiäre Akzeptanz“. LGBT-Organisationen und unzählige Nutzer meldeten sich solidarisierend zu Wort; die Taiwan Gay Consultation Hotline mahnte die Gesellschaft, einem Menschen nicht das Recht zu nehmen, selbst zu entscheiden, wann und vor wem er sich outet – nur um Klickzahlen willen[^9].
 
-In dem Video bat Wei-Wei zitternd seine Eltern, seine Familie und seine Freunde um Entschuldigung für die Unannehmlichkeiten, die dieser Bericht für sie alle verursacht hatte[^8]. Eine Person, die gezwungen wurde, sich zu äußern, entschuldigte sich letztendlich bei den Menschen, die dadurch betroffen wurden – ein Bild, das bis heute eines der traurigsten Kapitel in der taiwanesischen Debatte über digitale Privatsphäre darstellt.
+In jenem Video schluchzte Weiwei eine Entschuldigung an Papa, Mama, die Familie und Freunde für die Unannehmlichkeiten, die dieser nie gewählte Bericht verursacht hatte[^8]. Ein Mensch, der gezwungen wurde, sich zu zeigen, entschuldigt sich umgekehrt bei den hineingezogenen Angehörigen – dieses Bild bleibt bis heute einer der herzzerreißendsten Momente in der Diskussion um digitale Privatsphäre in Taiwan.
 
-📝 **Redaktionsnotiz:** Wei-Weis „Ausstieg unter Zwang“ war ein kollektives Versäumnis der taiwanesischen Medienethik, aber gleichzeitig auch ein unerwarteter Test der taiwanesischen Gesellschaft für die Themen Geschlechtergerechtigkeit. Die kollektive Unterstützung in dieser Nacht bewies, dass Taiwans Konsens über „Sanftmut“ weit über die Absichten böser Medien hinausreicht.
+📝 **Kuratorische Anmerkung:** Weiweis „Zwangsouting“ war ein kollektiver Fehlschlag der taiwanischen Medienethik, zugleich aber ein unangekündigter Test des Geschlechtergerechtigkeitsbewusstseins der taiwanischen Gesellschaft. Die kollektive Solidarität jener Nacht bewies, dass der Konsens der Taiwaner über „Zärtlichkeit“ bereits die Bosheit traditioneller Medien übertroffen hatte.
 
-## Vom Bildschirm zum Auftritt: Kreative Experimente jenseits der Etiketten
+## Vom Bildschirm auf die Bühne: Grenzüberschreitende Experimente jenseits der Labels
 
-Nach dem „Ausstieg unter Zwang“ zogen die Huang-Gebrüder sich zurück und kehrten später mit einer reiferen Einstellung zurück. Sie begannen, verschiedene Kreative Experimente zu wagen, insbesondere im Musikbereich. Wei-Wei veröffentlichte unter seinem Namen „Wei-Wei Huang Ting-Wei“ mehrere Singles und brachte 2023 seine erste EP „Pull n' Push“ heraus[^10].
+Nach dem „Outing-Vorfall“ wählten die Huang-Brüder eine Phase der Ruhe, um dann mit reiferer Haltung zurückzukehren. Sie begannen, mehr grenzüberschreitende Experimente zu wagen, insbesondere im Musikbereich. Weiwei veröffentlichte unter dem Namen „Weiwei Huang Ting-wei“ mehrere Singles und brachte 2023 seine erste Solo-EP _Pull n' Push_ heraus[^10].
 
-Dies war nicht nur eine Transformation von Influencer zu Musiker, sondern auch eine Neudeutung seiner selbst gesetzten Etiketten. Die EP enthält Lieder wie „Mögen wir uns morgen treffen“, „Der Winkel des Lächelns“ und „Vollkommene Dankbarkeit“[^10], in denen man oft seine Aufmerksamkeit auf Wachstum und emotionale Feinheiten hört.
+Das ist nicht nur ein Influencer-Karrierewechsel, sondern eine Neudefinition der eigenen Labels. Die EP enthält Tracks wie „Bis morgen“, „Winkel des Lächelns“, „Volle Punktzahl Dankbarkeit“[^10]; in den leichten Melodien hört man oft seine feinfühlige Erfassung von Wachstumsängsten und Emotionen.
 
-„Auch wenn die Gesellschaft relativ tolerante ist, glaube ich, dass Mobbing und Diskriminierung weiterhin existieren werden. Daher ist es wichtig, dass wir alle verstehen, was schwule und lesbische Menschen sind, und dass wir weiterhin anstrengen müssen, die nächste Generation zu unterrichten.“[^5] sagte Zhe-Zhe in einem Interview. Von Streichern zu Meinungsführern, die die Emotionen der Gesellschaft tragen können – diese Brüder haben sich von jungen Streichern zu verantwortungsvollen Öffentlichkeitsfiguren entwickelt.
+„Auch wenn die Gesellschaft relativ offen ist, glaube ich, dass Mobbing und Diskriminierung immer existieren werden. Deshalb ist es notwendig, sich weiter anzustrengen und die nächste Generation weiterzubilden, damit alle Homosexuelle verstehen.“[^5] So äußerte sich Zhezhe in einem Interview. Dieses Brüderpaar wuchs vom Prank-Jungen zu Meinungsführern heran, die gesellschaftliche Emotionen tragen können.
 
-## Wohltätigkeit und gesellschaftliche Verantwortung: Das Gewicht von einer Million Abonnenten
+## Gemeinwohl und soziale Verantwortung: Das Gewicht der Millionen-Abonnenten
 
-Mit wachsender Einflusskraft wandten die Huang-Gebrüder ihre Aufmerksamkeit auch der Wohltätigkeit zu. Sie mieteten einmal einen ganzen Tag für eine ländliche Grundschule und organisierten dort Aktivitäten wie Bogenschießen und Ballspiele für die Kinder sowie Spenden von Materialien[^3]. 2025 wurden sie zudem Botschafter der Rothschild-Organisation und setzten sich aktiv im Hintergrund für die Förderung benachteiligter Kinder ein[^11].
+Mit wachsendem Einfluss richteten die Huang-Brüder ihren Blick auf das Gemeinwohl. Sie mieteten einst eine ländliche Grundschule für einen ganzen Tag, um Schülern Bogenschießen, Völkerball und andere Aktivitäten zu ermöglichen, und spendeten Materialien[^3]. 2025 wurden sie zudem zu Botschaftern der Red-Heart-Foundation bestellt und engagieren sich langfristig privat in Förderprojekten für benachteiligte Kinder[^11].
 
-Während der Pandemie im Jahr 2020 nahmen sie auch an dem Chor der 22 YouTuber teil, der von Xiao Mhao organisiert wurde, mit dem Song „Möge ein besserer Tag kommen“, und versuchten, in einer unsicheren sozialen Atmosphäre positive Energie zu verbreiten[^13]. Diese Aktionen zeigen, dass sie versuchen, über das reine „Klicken“ hinauszugehen und nach etwas mit mehr Tiefe in der Gesellschaft zu suchen.
+Während der Pandemie 2020 beteiligten sie sich auch an dem von Hsiao Hsiao M initiierten Großchor von 22 YouTuber-Gruppen mit dem Lied „Morgen wird es besser sein“, um in der beunruhigten gesellschaftlichen Atmosphäre positive Energie einzuspeisen[^13]. Diese Aktionen zeigen ihren Versuch, jenseits von „Traffic“ einen tieferen gesellschaftlichen Wert zu finden.
 
-## Streiche und Grenzen: Die Linie zwischen den Brüdern
+## Prank und Maß: Jene Grundlinie zwischen den Brüdern
 
-Angesichts ihrer Herkunft in Streichvideos war es unvermeidbar, dass sie manchmal zwischen Witz und Übertretung suchten. Zhe-Zhe gab in einem Interview zu, dass er einmal absichtlich den Ausgang von Wei-Wei für ein Date verzögerte, was dazu führte, dass Wei-Wei zu spät kam und seine Freundin verärgert war – dies war wirklich eine Grenze, die Wei-Wei verletzt hatte und ihn wütend machte[^12].
+Als Prank-Urgesteine konnten sie nicht vermeiden, zwischen Scherz und Überschreitung die Grenze auszuloten. Zhezhe erzählte einst in einem Interview, er habe Weiwei einmal mit einem Vorwand aufgehalten, sodass dieser zu einem Essensdate mit jemandem stark zu spät kam – das war ein echtes Überschreiten von Weiweis Grundlinie, der daraufhin wirklich wütend wurde[^12].
 
-Solche kleinen Zwischenfälle mögen unbedeutend erscheinen, doch sie sind die wahre Realität aller „Bruder-Paare“-Content-Ersteller: Vor der Kamera sind sie ein harmonisches Duo, doch hinter den Kulissen sind sie zwei Menschen, die miteinander streiten und sich gegenseitig tolerieren müssen. Wie man sowohl die ursprüngliche Absicht als auch das Markenimage bewahrt, während man zunehmend komplexe öffentliche Aufmerksamkeit meistert – diese Frage begleitete sie auf ihrem Weg vom „Bruder-Paar“ zum „Unternehmen“.
+Solche Episoden mögen trivial klingen, doch sie sind der authentischste Alltag aller „Brüder-Duos“ als Creator: Vor der Kamera ein perfekt eingespieltes Duo, hinter der Kamera zwei Menschen, die streiten, lachen und sich gegenseitig einschleifen müssen. Wie man bei wachsender öffentlicher Beobachtung den „ursprünglichen Geist“ und die Marken-Tonalität bewahrt, ist eine Frage, die sie auf dem Weg vom „Brüder-Duo“ zum „Unternehmenskörper“ ständig neu beantworten müssen.
 
-## Schlussfolgerung: Der unprofessionelle Moment, der der Wahrheit nahekommt
+## Schlusswort: Jene sich der Wahrheit annähernde „Unprofessionalität“
 
-Die emotionalsten Momente der Huang-Gebrüder waren selten die perfekt geschnittenen Effekte, sondern diese „unprofessionellen“ Augenblicke: Wei-Weis zitternde Stimme während des Telefonats, Zhe-Zhes stummer Besuch, als Wei-Wei verletzt war.
+Die berührendsten Momente der Huang-Brüder sind oft nicht jene präzise geschnittenen Spezialeffekte, sondern jene „unprofessionellen“ Augenblicke: Weiweis Zittern, als er am Telefon vor Schluchzen nicht mehr konnte; Zhezhes schweigendes Beistehen, als sein Bruder verletzt war.
 
-In einer taiwanesischen Gesellschaft, die voller Etiketten ist, bewiesen die Huang-Gebrüder in zehn Jahren, dass Etiketten angebracht werden können, aber auch entfernt. Doch die echten Tränen, die vor der Kamera fließen, sind das Einzige, was kein Algorithmus je ersetzen kann.
+In dieser labelvollen Gesellschaft Taiwans haben die Huang-Brüder in zehn Jahren eines bewiesen: Labels kann man aufkleben, man kann sie auch abreißen – aber jene echten Tränen, die vor der Kamera flossen, sind das Gewicht, das kein Algorithmus ersetzen kann.
 
 ---
 
 ## Referenzen
 
-[^1]: [Interview mit den YouTubern Huang Brothers: Der kreative Prozess des gemeinsamen Wachstums mit dem Publikum](https://www.techbang.com/posts/122518-huang-brothers-youtube-interview-content-management) — T-Koban (siehe ergänzende Informationen im Original-Link)
+[^1]: [Interview mit YouTuber Huang-Brüder: Der kreative Werdegang des gemeinsamen Wachstums mit dem Publikum](https://www.techbang.com/posts/122518-huang-brothers-youtube-interview-content-management) — T客邦 (siehe Original-Link für ergänzende Textdaten)
 
-[^2]: [Seit 20 Monaten ohne Urlaub! Die Huang Brothers erinnern sich an die Entbehrungen ihrer kreativen Arbeit](https://capsuleinc.co/news-list/news/20) — CAPSULE
+[^2]: [20 Monate lang keinen Urlaub! Huang-Brüder blicken auf leidvolle Schaffensgeschichte zurück](https://capsuleinc.co/news-list/news/20) — CAPSULE
 
-[^3]: [[Brüder tun Gutes] Eine Grundschule in einer abgelegenen Region für einen ganzen Tag gemietet](https://www.youtube.com/channel/UCV_S2S-Zs8LeuJxK-T3RQQg) — Huang Brothers YouTube-Kanal
+[^3]: [【Brüder tun Gemeinwohl】 Mieten ländliche Grundschule für einen ganzen Tag](https://www.youtube.com/channel/UCV_S2S-Zs8LeuJxK-T3RQQg) — YouTube-Kanal der Huang-Brüder
 
-[^4]: [Wenn man es macht, dann richtig! YouTuber Huang Brothers probieren vieles aus und streben nach Perfektion](https://www.kolr.ai/trend-sharing/kol-interview/huangbrotherss-interview/) — KOL Radar
+[^4]: [Will man es machen, muss man es am besten machen! YouTuber Huang-Brüder probieren vielfältig, streben nach Perfektion](https://www.kolr.ai/trend-sharing/kol-interview/huangbrotherss-interview/) — KOL Radar
 
-[^5]: [Wie entsteht ein YouTuber mit Millionen von Abonnenten? Ein Interview mit den Huang Brothers](https://www.heavenraven.com/2020/07/16/youtuber-huangs-bro-interview/) — Heaven Raven
+[^5]: [Wie werden Millionen-Influencer gemacht? Exklusiv-Interview mit den Huang-Brüdern](https://www.heavenraven.com/2020/07/16/youtuber-huangs-bro-interview/) — Heaven Raven
 
-[^6]: [Lernen Sie von den Huang Brothers über Umsetzungskraft | Hinter der grenzenlosen Fantasie steckt eine präzise Selbstpositionierung](https://premium.parenting.com.tw/article/5087793) — Parenting (siehe ergänzende Informationen im Original-Link)
+[^6]: [Ausführungsstärke von den Huang-Brüdern lernen | Hinter wilden Ideen verbirgt sich präzise Selbstpositionierung](https://premium.parenting.com.tw/article/5087793) — 親子天下 (siehe Original-Link für ergänzende Textdaten)
 
-[^7]: [Weiwei wurde zum Coming-out gezwungen, er ist wütend: Das war ein gewaltsames Outing](https://tw.news.yahoo.com/%E7%91%8B%E7%91%8B%E8%A2%AB%E8%BF%AB%E5%87%BA%E6%AB%83-%E4%BB%96%E6%80%92-%E6%A0%B9%E6%9C%AC%E5%BC%B7%E6%9A%B4%E5%BC%8F%E5%85%AC%E9%96%8B-073003270.html) — Yahoo News
+[^7]: [Weiwei zwangsgeoutet, er ist wütend: Das ist geradezu vergewaltigungsartige Veröffentlichung](https://tw.news.yahoo.com/%E7%91%8B%E7%91%8B%E8%A2%AB%E8%BF%AB%E5%87%BA%E6%AB%83-%E4%BB%96%E6%80%92-%E6%A0%B9%E6%9C%AC%E5%BC%B7%E6%9A%B4%E5%BC%8F%E5%85%AC%E9%96%8B-073003270.html) — Yahoo News
 
-[^8]: [Bezüglich der Berichterstattung möchte ich zu meiner Familie sagen: [Huang Brothers]](https://www.youtube.com/watch?v=jo7ggR1f54s) — Huang Brothers YouTube-Video
+[^8]: [Zum Bericht: Ich möchte mit der Familie sprechen【Huang-Brüder】](https://www.youtube.com/watch?v=jo7ggR1f54s) — YouTube-Video der Huang-Brüder
 
-[^9]: [Huang Brothers Weiwei „gezwungen zum Coming-out“ – Du musst dich nicht entschuldigen](https://newslab.pts.org.tw/news/216) — PTS News
+[^9]: [Huang-Brüder Weiwei „zwangsgeoutet“ – Du musst dich nicht entschuldigen](https://newslab.pts.org.tw/news/216) — PTS News
 
-[^10]: [Der YouTuber mit 2 Millionen Abonnenten, Weiwei (Huang Ting-wei), veröffentlicht seine erste EP als „Singer-Songwriter“](https://www.mtv.com.tw/news/newsdetail/10063) — MTV Taiwan
+[^10]: [2-Millionen-YouTuber Weiwei Huang Ting-wei wird zum „Kreativsänger“ – erste Solo-EP](https://www.mtv.com.tw/news/newsdetail/10063) — MTV Taiwan
 
-[^11]: [Die Huang Brothers rufen die Öffentlichkeit dazu auf, benachteiligte Schüler zu unterstützen, und werden Botschafter der Red Heart Society](https://money.udn.com/money/story/5723/8957929) — Economic Daily News (Bericht der Economic Daily News)
+[^11]: [Huang-Brüder mobilisieren Öffentlichkeit, für benachteiligte Schüler Mut zu machen, als Botschafter der Red-Heart-Foundation](https://money.udn.com/money/story/5723/8957929) — Wirtschaftszeitung (Bericht der Wirtschaftszeitung)
 
-[^12]: [[KOL im Geschäft] Die Huang Brothers gestehen, dass ihre Streiche einmal eine Grenze überschritten haben](https://tw.news.yahoo.com/%E3%80%90kol%E7%87%9F%E6%A5%AD%E4%B8%AD%E3%80%91%E9%BB%83%E6%B0%8F%E5%85%84%E5%BC%9F%E8%87%AA%E7%88%86%E3%80%8C%E7%88%B8%E5%AA%BD%E7%AC%AC%E4%B8%80%E5%80%8B%E5%B0%81%E9%8E%96%E4%BB%96%E5%80%91%E3%80%8D-%E8%AA%8D%E6%95%B4%E4%BA%BA%E6%9B%BE%E8%B8%A9%E5%88%B0%E7%91%8B%E7%91%8B%E5%BA%95%E7%B7%9A-044006725.html) — Yahoo News
+[^12]: [【KOL im Einsatz】 Huang-Brüder gestehen: Prank überschritt einmal die Grundlinie](https://tw.news.yahoo.com/%E3%80%90kol%E7%87%9F%E6%A5%AD%E4%B8%AD%E3%80%91%E9%BB%83%E6%B0%8F%E5%85%84%E5%BC%9F%E8%87%AA%E7%88%86%E3%80%8C%E7%88%B8%E5%AA%BD%E7%AC%AC%E4%B8%80%E5%80%8B%E5%B0%81%E9%8E%96%E4%BB%96%E5%80%91%E3%80%8D-%E8%AA%8D%E6%95%B4%E4%BA%BA%E6%9B%BE%E8%B8%A9%E5%88%B0%E7%91%8B%E7%91%8B%E5%BA%95%E7%B7%9A-044006725.html) — Yahoo News
 
-[^13]: [Nicht nur lustige Videos drehen: YouTuber nutzen ihren Einfluss für soziale Verantwortung](https://csr.cw.com.tw/article/41369) — 天下 CSR
+[^13]: [Nicht nur lustige Videos: YouTuber entfalten Einfluss, übernehmen soziale Verantwortung](https://csr.cw.com.tw/article/41369) — 天下 CSR
+
+[^14]: [Japanische Convenience-Stores: Muss man kaufen! Ist Matcha-Ramen nun salzig oder süß....? Eine unglaublich magische Textur【Huang-Brüder】](https://www.youtube.com/watch?v=b-UjRrbCVdc) — Erstes Video nach Upload-Datum auf dem Hauptkanal der Huang-Brüder, Kanal-Seite „Videos“ nach „älteste“ sortiert, erstes gelistetes Video, Upload-Datum auf Videoseite angegeben als 4. April 2017
