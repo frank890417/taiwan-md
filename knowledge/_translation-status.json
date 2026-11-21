@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-21T19:12:40+08:00",
-    "zhCommitHead": "3688ab42ac",
+    "lastUpdated": "2026-11-21T19:47:25+08:00",
+    "zhCommitHead": "dee9ddbd5e",
     "totalZh": 1193,
     "activeLanguages": [
       "en",
@@ -84,9 +84,9 @@
       },
       "hi": {
         "total_zh": 1193,
-        "fresh": 1172,
-        "stale": 15,
-        "metadata_stale": 3,
+        "fresh": 1174,
+        "stale": 14,
+        "metadata_stale": 2,
         "missing": 3,
         "orphan": 0
       },
@@ -69749,20 +69749,18 @@
         "hi": {
           "path": "hi/Society/who-counts-as-low-wage.md",
           "translatedFrom": "Society/誰算低薪.md",
-          "sourceCommitSha": "b10ec653b",
-          "sourceContentHash": "sha256:7abbe410b7f9a4d8",
+          "sourceCommitSha": "be13f04522",
+          "sourceContentHash": "sha256:27a706024e76921c",
           "sourceBodyHash": "sha256:3232aa3ffbbe2f4d",
-          "translatedAt": "2026-09-26T05:01:58.790432+00:00",
+          "translatedAt": "2026-11-21T11:30:38.359190+00:00",
           "translationLastCommit": "0e249950",
           "translationLastModified": "2026-10-10T23:16:36+08:00",
           "inferred": false,
           "footnoteDefs": 30,
-          "bytes": 91071,
+          "bytes": 90241,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+4 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/who-counts-as-low-wage.md",
@@ -178508,18 +178506,18 @@
         "hi": {
           "path": "hi/Food/sweet-potato-balls.md",
           "translatedFrom": "Food/地瓜球.md",
-          "sourceCommitSha": "03b3aaae8",
-          "sourceContentHash": "sha256:31bbf088964cc84c",
-          "sourceBodyHash": "sha256:41b23df405c1e58d",
-          "translatedAt": "2026-08-09T15:02:44+08:00",
+          "sourceCommitSha": "be13f04522",
+          "sourceContentHash": "sha256:605ba99da79b7435",
+          "sourceBodyHash": "sha256:2a3df7318f5c52b6",
+          "translatedAt": "2026-11-21T17:16:06+08:00",
           "translationLastCommit": "5367f0f0",
           "translationLastModified": "2026-08-09T17:35:13+08:00",
           "inferred": false,
-          "footnoteDefs": 14,
-          "bytes": 23575,
+          "footnoteDefs": 24,
+          "bytes": 72650,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (24→14)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Food/sweet-potato-balls.md",
@@ -240656,8 +240654,8 @@
           "sourceContentHash": "sha256:b43b81907a3c86ea",
           "sourceBodyHash": "sha256:cf68717b49d8561a",
           "translatedAt": "2026-11-21T17:16:01+08:00",
-          "translationLastCommit": "995f1458",
-          "translationLastModified": "2026-06-12T05:24:32+08:00",
+          "translationLastCommit": "dee9ddbd",
+          "translationLastModified": "2026-11-21T19:12:40+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "bytes": 10019,
