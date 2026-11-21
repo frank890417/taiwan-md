@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-21T11:56:32+08:00",
-    "zhCommitHead": "9e27642424",
+    "lastUpdated": "2026-11-21T11:59:04+08:00",
+    "zhCommitHead": "f35c647a71",
     "totalZh": 1193,
     "activeLanguages": [
       "en",
@@ -20,10 +20,10 @@
     "summary": {
       "en": {
         "total_zh": 1193,
-        "fresh": 1188,
+        "fresh": 1189,
         "stale": 3,
         "metadata_stale": 1,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       },
       "ja": {
@@ -47491,8 +47491,8 @@
           "sourceContentHash": "sha256:fa0d1b0fa9b12911",
           "sourceBodyHash": "sha256:1ff1fa1158f19022",
           "translatedAt": "2026-11-21T01:53:55.307418+00:00",
-          "translationLastCommit": "12f09560",
-          "translationLastModified": "2026-10-10T23:20:50+08:00",
+          "translationLastCommit": "f35c647a",
+          "translationLastModified": "2026-11-21T11:56:33+08:00",
           "inferred": false,
           "footnoteDefs": 36,
           "bytes": 45085,
@@ -100635,8 +100635,8 @@
           "sourceContentHash": "sha256:45c314ceb6ecba1a",
           "sourceBodyHash": "sha256:b2c8d53ba9aeeef9",
           "translatedAt": "2026-11-21T10:48:03+08:00",
-          "translationLastCommit": "f4892bab",
-          "translationLastModified": "2026-09-19T11:51:58+08:00",
+          "translationLastCommit": "f35c647a",
+          "translationLastModified": "2026-11-21T11:56:33+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "bytes": 26330,
@@ -125411,7 +125411,20 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/People/chang-chun.md",
+          "translatedFrom": "People/張峻.md",
+          "sourceCommitSha": "2ce1ef70c9",
+          "sourceContentHash": "sha256:e07144ca7ec7d09a",
+          "sourceBodyHash": "sha256:2d7c745b2d69fe20",
+          "translatedAt": "2026-11-21T11:13:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "bytes": 20452,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
