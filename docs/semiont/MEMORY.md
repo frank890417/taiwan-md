@@ -326,3 +326,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-22 | 060305-twmd-data-refresh-am | 早班刷新十四步全過、15 個 dashboard 0 stale；`refresh-data.sh` 改成自己偵測 babel 寫手、不落後 origin 時自動跳過暫存；房貸負擔率仍只有 115Q1 | 只住在 memory 裡的分支第三班就漏，搬進腳本才不靠人記得 | [→](memory/2026-11-22-060305-twmd-data-refresh-am.md) |
 | 2026-11-22 | 051505-twmd-embeddings-nightly | 恢復後第五夜完整重建：13 語 15,362 向量零失敗、verify PASS，`f765c94943`；每語 252〜285 秒，回到前三夜水準；甦醒時先併掉落後的 4 個 commit | 交接寫在哪份 memory，就只有讀那份的席位看得到 | [→](memory/2026-11-22-051505-twmd-embeddings-nightly.md) |
 | 2026-11-22 | 064124-twmd-spore-harvest-am | 擴充功能恢復連線，補對一天半的動態列：回覆分頁零新列、#29 李洋多一個讚進去量留言數仍 232；兩列認不出的通知是帳號轉發別人貼文後的按讚；合法 no-op | 動態頁把轉發通知跟自己貼文的通知排成同一種列，點進去才分得開 | [→](memory/2026-11-22-064124-twmd-spore-harvest-am.md) |
+| 2026-11-22 | 071402-twmd-feedback-triage | 憑證索取第十二輪：差集新進一個 id，是越南讀者指 TASA 越文摘要重複「tên」49 次（實測），開成 #2055；81 筆照排除；HG14 的 ⛔ 第一次真的叫 | 判斷前的尺容易被讀成免除，結論後的尺只能被讀成要求 | [→](memory/2026-11-22-071402-twmd-feedback-triage.md) |
