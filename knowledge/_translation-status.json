@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-22T07:30:00+08:00",
-    "zhCommitHead": "bec97b2c41",
+    "lastUpdated": "2026-11-22T09:38:34+08:00",
+    "zhCommitHead": "c7709638e3",
     "totalZh": 1193,
     "activeLanguages": [
       "en",
@@ -84,10 +84,10 @@
       },
       "hi": {
         "total_zh": 1193,
-        "fresh": 1179,
+        "fresh": 1180,
         "stale": 11,
         "metadata_stale": 1,
-        "missing": 2,
+        "missing": 1,
         "orphan": 0
       },
       "ar": {
@@ -17831,7 +17831,20 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Economy/tax-revenue-structure.md",
+          "translatedFrom": "Economy/稅收結構.md",
+          "sourceCommitSha": "7d5fb3745f",
+          "sourceContentHash": "sha256:e67421aeb01e9408",
+          "sourceBodyHash": "sha256:8127980ebbc69258",
+          "translatedAt": "2026-11-22T06:45:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 2,
+          "bytes": 28058,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -27477,11 +27490,11 @@
           "sourceContentHash": "sha256:451bca716e820c75",
           "sourceBodyHash": "sha256:e55206c67a0d4344",
           "translatedAt": "2026-11-19T08:43:50.015635+00:00",
-          "translationLastCommit": "0eac2b64",
-          "translationLastModified": "2026-11-19T17:38:26+08:00",
+          "translationLastCommit": "07935506",
+          "translationLastModified": "2026-11-22T08:54:34+08:00",
           "inferred": false,
           "footnoteDefs": 72,
-          "bytes": 102456,
+          "bytes": 102264,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -83715,8 +83728,8 @@
           "sourceContentHash": "sha256:4379f24fd051c302",
           "sourceBodyHash": "sha256:4d2bd2c6c8f39bfa",
           "translatedAt": "2026-11-21T21:35:52.728007+00:00",
-          "translationLastCommit": "a1355f5a",
-          "translationLastModified": "2026-10-31T08:41:46+08:00",
+          "translationLastCommit": "b85730ec",
+          "translationLastModified": "2026-11-22T07:30:01+08:00",
           "inferred": false,
           "footnoteDefs": 57,
           "bytes": 160061,
