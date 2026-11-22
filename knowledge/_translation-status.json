@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-22T15:35:01+08:00",
-    "zhCommitHead": "2f4392694b",
+    "lastUpdated": "2026-11-22T23:35:54+08:00",
+    "zhCommitHead": "548dcb5b5c",
     "totalZh": 1193,
     "activeLanguages": [
       "en",
@@ -20,37 +20,77 @@
     "summary": {
       "en": {
         "total_zh": 1193,
-        "fresh": 1190,
-        "stale": 2,
+        "fresh": 1188,
+        "stale": 4,
         "metadata_stale": 1,
         "missing": 0,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1193,
-        "fresh": 1187,
-        "stale": 4,
+        "fresh": 1185,
+        "stale": 6,
         "metadata_stale": 2,
         "missing": 0,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1193,
-        "fresh": 1185,
-        "stale": 5,
+        "fresh": 1183,
+        "stale": 7,
         "metadata_stale": 3,
         "missing": 0,
         "orphan": 0
       },
       "es": {
         "total_zh": 1193,
-        "fresh": 1186,
-        "stale": 5,
+        "fresh": 1185,
+        "stale": 6,
         "metadata_stale": 2,
         "missing": 0,
         "orphan": 0
       },
       "fr": {
+        "total_zh": 1193,
+        "fresh": 1181,
+        "stale": 9,
+        "metadata_stale": 3,
+        "missing": 0,
+        "orphan": 0
+      },
+      "vi": {
+        "total_zh": 1193,
+        "fresh": 1177,
+        "stale": 15,
+        "metadata_stale": 1,
+        "missing": 0,
+        "orphan": 0
+      },
+      "id": {
+        "total_zh": 1193,
+        "fresh": 1183,
+        "stale": 7,
+        "metadata_stale": 3,
+        "missing": 0,
+        "orphan": 0
+      },
+      "pt": {
+        "total_zh": 1193,
+        "fresh": 1186,
+        "stale": 6,
+        "metadata_stale": 1,
+        "missing": 0,
+        "orphan": 0
+      },
+      "hi": {
+        "total_zh": 1193,
+        "fresh": 1177,
+        "stale": 15,
+        "metadata_stale": 1,
+        "missing": 0,
+        "orphan": 0
+      },
+      "ar": {
         "total_zh": 1193,
         "fresh": 1184,
         "stale": 6,
@@ -58,58 +98,18 @@
         "missing": 0,
         "orphan": 0
       },
-      "vi": {
-        "total_zh": 1193,
-        "fresh": 1180,
-        "stale": 11,
-        "metadata_stale": 1,
-        "missing": 1,
-        "orphan": 0
-      },
-      "id": {
-        "total_zh": 1193,
-        "fresh": 1185,
-        "stale": 5,
-        "metadata_stale": 3,
-        "missing": 0,
-        "orphan": 0
-      },
-      "pt": {
-        "total_zh": 1193,
-        "fresh": 1189,
-        "stale": 3,
-        "metadata_stale": 1,
-        "missing": 0,
-        "orphan": 0
-      },
-      "hi": {
-        "total_zh": 1193,
-        "fresh": 1180,
-        "stale": 11,
-        "metadata_stale": 1,
-        "missing": 1,
-        "orphan": 0
-      },
-      "ar": {
-        "total_zh": 1193,
-        "fresh": 1186,
-        "stale": 3,
-        "metadata_stale": 3,
-        "missing": 1,
-        "orphan": 0
-      },
       "ru": {
         "total_zh": 1193,
-        "fresh": 1191,
-        "stale": 2,
+        "fresh": 1188,
+        "stale": 5,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "de": {
         "total_zh": 1193,
-        "fresh": 1162,
-        "stale": 23,
+        "fresh": 1158,
+        "stale": 27,
         "metadata_stale": 8,
         "missing": 0,
         "orphan": 0
@@ -6799,24 +6799,24 @@
     },
     "Music/金曲獎.md": {
       "zh": {
-        "lastCommit": "be13f045",
-        "lastModified": "2026-11-17T07:30:44+08:00",
-        "contentHash": "sha256:8cf05677c93164ad",
-        "bodyHash": "sha256:89d2f2476f597f2c"
+        "lastCommit": "f775f983",
+        "lastModified": "2026-11-21T22:58:41+08:00",
+        "contentHash": "sha256:80f8aab1d6d15909",
+        "bodyHash": "sha256:b43a1be5b105403a"
       },
       "translations": {
         "en": {
           "path": "en/Music/pop-music-and-golden-melody-awards.md",
           "translatedFrom": "Music/金曲獎.md",
-          "sourceCommitSha": "be13f045",
-          "sourceContentHash": "sha256:8cf05677c93164ad",
-          "sourceBodyHash": "sha256:89d2f2476f597f2c",
-          "translatedAt": "2026-11-02T18:49:05.366063+00:00",
+          "sourceCommitSha": "f775f9835c",
+          "sourceContentHash": "sha256:80f8aab1d6d15909",
+          "sourceBodyHash": "sha256:b43a1be5b105403a",
+          "translatedAt": "2026-11-22T21:58:08+08:00",
           "translationLastCommit": "b0337d93",
           "translationLastModified": "2026-11-19T01:15:49+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "bytes": 47369,
+          "bytes": 45779,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -6824,15 +6824,15 @@
         "ja": {
           "path": "ja/Music/pop-music-and-golden-melody-awards.md",
           "translatedFrom": "Music/金曲獎.md",
-          "sourceCommitSha": "be13f045",
-          "sourceContentHash": "sha256:8cf05677c93164ad",
-          "sourceBodyHash": "sha256:89d2f2476f597f2c",
-          "translatedAt": "2026-11-03T10:23:01.474865+00:00",
+          "sourceCommitSha": "f775f9835c",
+          "sourceContentHash": "sha256:80f8aab1d6d15909",
+          "sourceBodyHash": "sha256:b43a1be5b105403a",
+          "translatedAt": "2026-11-22T21:58:10+08:00",
           "translationLastCommit": "2101a31b",
           "translationLastModified": "2026-11-19T01:20:34+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "bytes": 54261,
+          "bytes": 48492,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -6840,15 +6840,15 @@
         "ko": {
           "path": "ko/Music/pop-music-and-golden-melody-awards.md",
           "translatedFrom": "Music/金曲獎.md",
-          "sourceCommitSha": "be13f045",
-          "sourceContentHash": "sha256:8cf05677c93164ad",
-          "sourceBodyHash": "sha256:89d2f2476f597f2c",
-          "translatedAt": "2026-11-02T18:17:34.972993+00:00",
+          "sourceCommitSha": "f775f9835c",
+          "sourceContentHash": "sha256:80f8aab1d6d15909",
+          "sourceBodyHash": "sha256:b43a1be5b105403a",
+          "translatedAt": "2026-11-22T21:58:11+08:00",
           "translationLastCommit": "46eb28b9",
           "translationLastModified": "2026-11-19T01:21:25+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "bytes": 50743,
+          "bytes": 48498,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -6856,15 +6856,15 @@
         "es": {
           "path": "es/Music/pop-music-and-golden-melody-awards.md",
           "translatedFrom": "Music/金曲獎.md",
-          "sourceCommitSha": "be13f045",
-          "sourceContentHash": "sha256:8cf05677c93164ad",
-          "sourceBodyHash": "sha256:89d2f2476f597f2c",
-          "translatedAt": "2026-11-03T09:13:02.359759+00:00",
+          "sourceCommitSha": "f775f9835c",
+          "sourceContentHash": "sha256:80f8aab1d6d15909",
+          "sourceBodyHash": "sha256:b43a1be5b105403a",
+          "translatedAt": "2026-11-22T21:58:12+08:00",
           "translationLastCommit": "c535adc1",
           "translationLastModified": "2026-11-19T01:16:32+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "bytes": 51132,
+          "bytes": 46135,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -6872,15 +6872,15 @@
         "fr": {
           "path": "fr/Music/pop-music-and-golden-melody-awards.md",
           "translatedFrom": "Music/金曲獎.md",
-          "sourceCommitSha": "be13f045",
-          "sourceContentHash": "sha256:8cf05677c93164ad",
-          "sourceBodyHash": "sha256:89d2f2476f597f2c",
-          "translatedAt": "2026-11-03T03:57:41.590800+00:00",
+          "sourceCommitSha": "f775f9835c",
+          "sourceContentHash": "sha256:80f8aab1d6d15909",
+          "sourceBodyHash": "sha256:b43a1be5b105403a",
+          "translatedAt": "2026-11-22T21:58:14+08:00",
           "translationLastCommit": "e7bbd175",
           "translationLastModified": "2026-11-19T01:17:21+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "bytes": 54155,
+          "bytes": 50210,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -6898,21 +6898,23 @@
           "footnoteDefs": 20,
           "bytes": 60114,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+17 -17"
         },
         "id": {
           "path": "id/Music/pop-music-and-golden-melody-awards.md",
           "translatedFrom": "Music/金曲獎.md",
-          "sourceCommitSha": "be13f045",
-          "sourceContentHash": "sha256:8cf05677c93164ad",
-          "sourceBodyHash": "sha256:89d2f2476f597f2c",
-          "translatedAt": "2026-11-03T04:33:09.161647+00:00",
+          "sourceCommitSha": "f775f9835c",
+          "sourceContentHash": "sha256:80f8aab1d6d15909",
+          "sourceBodyHash": "sha256:b43a1be5b105403a",
+          "translatedAt": "2026-11-22T21:58:17+08:00",
           "translationLastCommit": "d72e19d8",
           "translationLastModified": "2026-11-19T01:19:26+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "bytes": 48867,
+          "bytes": 53216,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -6920,15 +6922,15 @@
         "pt": {
           "path": "pt/Music/pop-music-and-golden-melody-awards.md",
           "translatedFrom": "Music/金曲獎.md",
-          "sourceCommitSha": "be13f045",
-          "sourceContentHash": "sha256:8cf05677c93164ad",
-          "sourceBodyHash": "sha256:89d2f2476f597f2c",
-          "translatedAt": "2026-11-02T19:06:05.249669+00:00",
+          "sourceCommitSha": "f775f9835c",
+          "sourceContentHash": "sha256:80f8aab1d6d15909",
+          "sourceBodyHash": "sha256:b43a1be5b105403a",
+          "translatedAt": "2026-11-22T21:58:18+08:00",
           "translationLastCommit": "2639f9bd",
           "translationLastModified": "2026-11-19T01:22:19+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "bytes": 47506,
+          "bytes": 46188,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -6946,21 +6948,23 @@
           "footnoteDefs": 20,
           "bytes": 100939,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+17 -17"
         },
         "ar": {
           "path": "ar/Music/pop-music-and-golden-melody-awards.md",
           "translatedFrom": "Music/金曲獎.md",
-          "sourceCommitSha": "be13f045",
-          "sourceContentHash": "sha256:8cf05677c93164ad",
-          "sourceBodyHash": "sha256:89d2f2476f597f2c",
-          "translatedAt": "2026-11-03T04:49:37.632414+00:00",
+          "sourceCommitSha": "f775f9835c",
+          "sourceContentHash": "sha256:80f8aab1d6d15909",
+          "sourceBodyHash": "sha256:b43a1be5b105403a",
+          "translatedAt": "2026-11-22T21:58:21+08:00",
           "translationLastCommit": "59bf6b68",
           "translationLastModified": "2026-11-19T01:13:18+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "bytes": 61223,
+          "bytes": 60324,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -6968,15 +6972,15 @@
         "ru": {
           "path": "ru/Music/pop-music-and-golden-melody-awards.md",
           "translatedFrom": "Music/金曲獎.md",
-          "sourceCommitSha": "be13f045",
-          "sourceContentHash": "sha256:8cf05677c93164ad",
-          "sourceBodyHash": "sha256:89d2f2476f597f2c",
-          "translatedAt": "2026-11-02T19:13:52.315001+00:00",
+          "sourceCommitSha": "f775f9835c",
+          "sourceContentHash": "sha256:80f8aab1d6d15909",
+          "sourceBodyHash": "sha256:b43a1be5b105403a",
+          "translatedAt": "2026-11-22T21:58:23+08:00",
           "translationLastCommit": "be84dc2a",
           "translationLastModified": "2026-11-19T01:23:30+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "bytes": 70054,
+          "bytes": 70604,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -6994,8 +6998,10 @@
           "footnoteDefs": 20,
           "bytes": 47986,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+17 -17"
         }
       }
     },
@@ -8348,7 +8354,20 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Economy/tourism-industry.md",
+          "translatedFrom": "Economy/觀光產業.md",
+          "sourceCommitSha": "28c9d54586",
+          "sourceContentHash": "sha256:e3e3e6db71f007e0",
+          "sourceBodyHash": "sha256:11c2f0f4eb74eab6",
+          "translatedAt": "2026-11-22T11:20:00+08:00",
+          "translationLastCommit": "a13624f9",
+          "translationLastModified": "2026-11-22T02:42:04+08:00",
+          "inferred": false,
+          "footnoteDefs": 2,
+          "bytes": 20184,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Economy/tourism-industry.md",
@@ -11030,10 +11049,10 @@
     },
     "Economy/全聯福利中心.md": {
       "zh": {
-        "lastCommit": "be13f045",
-        "lastModified": "2026-11-17T07:30:44+08:00",
-        "contentHash": "sha256:ad67e5c5d381f448",
-        "bodyHash": "sha256:cf4e3b7d187326d2"
+        "lastCommit": "f775f983",
+        "lastModified": "2026-11-21T22:58:41+08:00",
+        "contentHash": "sha256:65944a1be853255b",
+        "bodyHash": "sha256:7d2d9d3a94fccac0"
       },
       "translations": {
         "en": {
@@ -11049,8 +11068,10 @@
           "footnoteDefs": 5,
           "bytes": 10676,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -5"
         },
         "ja": {
           "path": "ja/Economy/pxmart-supermarket.md",
@@ -11065,8 +11086,10 @@
           "footnoteDefs": 5,
           "bytes": 11523,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -5"
         },
         "ko": {
           "path": "ko/Economy/pxmart-supermarket.md",
@@ -11081,8 +11104,10 @@
           "footnoteDefs": 5,
           "bytes": 11443,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -5"
         },
         "es": {
           "path": "es/Economy/pxmart-supermarket.md",
@@ -11097,8 +11122,10 @@
           "footnoteDefs": 5,
           "bytes": 11364,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -5"
         },
         "fr": {
           "path": "fr/Economy/pxmart-supermarket.md",
@@ -11113,8 +11140,10 @@
           "footnoteDefs": 5,
           "bytes": 12423,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -5"
         },
         "vi": {
           "path": "vi/Economy/pxmart-supermarket.md",
@@ -11129,8 +11158,10 @@
           "footnoteDefs": 5,
           "bytes": 13675,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -5"
         },
         "id": {
           "path": "id/Economy/pxmart-supermarket.md",
@@ -11145,8 +11176,10 @@
           "footnoteDefs": 5,
           "bytes": 10613,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -5"
         },
         "pt": {
           "path": "pt/Economy/pxmart-supermarket.md",
@@ -11161,8 +11194,10 @@
           "footnoteDefs": 5,
           "bytes": 11107,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -5"
         },
         "hi": {
           "path": "hi/Economy/pxmart-supermarket.md",
@@ -11177,8 +11212,10 @@
           "footnoteDefs": 5,
           "bytes": 22757,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -5"
         },
         "ar": {
           "path": "ar/Economy/pxmart-supermarket.md",
@@ -11193,8 +11230,10 @@
           "footnoteDefs": 5,
           "bytes": 14795,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -5"
         },
         "ru": {
           "path": "ru/Economy/pxmart-supermarket.md",
@@ -11209,8 +11248,10 @@
           "footnoteDefs": 5,
           "bytes": 17361,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -5"
         },
         "de": {
           "path": "de/Economy/pxmart-supermarket.md",
@@ -11225,8 +11266,10 @@
           "footnoteDefs": 5,
           "bytes": 10661,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -5"
         }
       }
     },
@@ -17837,7 +17880,7 @@
           "sourceContentHash": "sha256:e67421aeb01e9408",
           "sourceBodyHash": "sha256:8127980ebbc69258",
           "translatedAt": "2026-11-22T06:45:50+08:00",
-          "translationLastCommit": "8a4e7fb3",
+          "translationLastCommit": "d086bdfe",
           "translationLastModified": "2026-11-22T09:38:34+08:00",
           "inferred": false,
           "footnoteDefs": 2,
@@ -17847,7 +17890,20 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Economy/tax-revenue-structure.md",
+          "translatedFrom": "Economy/稅收結構.md",
+          "sourceCommitSha": "7d5fb3745f",
+          "sourceContentHash": "sha256:87c930c76996979a",
+          "sourceBodyHash": "sha256:d1a2d3d123051c0d",
+          "translatedAt": "2026-11-22T14:30:00+08:00",
+          "translationLastCommit": "3388e3ef",
+          "translationLastModified": "2026-11-22T02:33:31+08:00",
+          "inferred": false,
+          "footnoteDefs": 2,
+          "bytes": 25344,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Economy/tax-revenue-structure.md",
@@ -27490,7 +27546,7 @@
           "sourceContentHash": "sha256:451bca716e820c75",
           "sourceBodyHash": "sha256:e55206c67a0d4344",
           "translatedAt": "2026-11-19T08:43:50.015635+00:00",
-          "translationLastCommit": "07935506",
+          "translationLastCommit": "bd42cf9c",
           "translationLastModified": "2026-11-22T08:54:34+08:00",
           "inferred": false,
           "footnoteDefs": 72,
@@ -37126,7 +37182,7 @@
           "sourceContentHash": "sha256:de4034d0f1ced753",
           "sourceBodyHash": "sha256:e882a4d70eacae0a",
           "translatedAt": "2026-11-22T09:38:56+08:00",
-          "translationLastCommit": "af761d7a",
+          "translationLastCommit": "ac82fad4",
           "translationLastModified": "2026-11-22T11:17:04+08:00",
           "inferred": false,
           "footnoteDefs": 7,
@@ -61365,24 +61421,24 @@
     },
     "Lifestyle/台鐵鳴日號.md": {
       "zh": {
-        "lastCommit": "e974b4c9",
-        "lastModified": "2026-09-05T21:34:09+08:00",
-        "contentHash": "sha256:692645244e391abd",
-        "bodyHash": "sha256:28f054608fa81e22"
+        "lastCommit": "f775f983",
+        "lastModified": "2026-11-21T22:58:41+08:00",
+        "contentHash": "sha256:ab11b395c6923e7b",
+        "bodyHash": "sha256:96f21cbf7e1ee69e"
       },
       "translations": {
         "en": {
           "path": "en/Lifestyle/tra-mingri-express.md",
           "translatedFrom": "Lifestyle/台鐵鳴日號.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:692645244e391abd",
-          "sourceBodyHash": "sha256:28f054608fa81e22",
-          "translatedAt": "2026-09-08T15:54:33+08:00",
+          "sourceCommitSha": "f775f9835c",
+          "sourceContentHash": "sha256:ab11b395c6923e7b",
+          "sourceBodyHash": "sha256:96f21cbf7e1ee69e",
+          "translatedAt": "2026-11-22T21:58:08+08:00",
           "translationLastCommit": "ebec2f88",
           "translationLastModified": "2026-09-09T00:07:39+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "bytes": 15338,
+          "bytes": 15128,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -61390,15 +61446,15 @@
         "ja": {
           "path": "ja/Lifestyle/tra-mingri-express.md",
           "translatedFrom": "Lifestyle/台鐵鳴日號.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:928aabb44491a861",
-          "sourceBodyHash": "sha256:28f054608fa81e22",
-          "translatedAt": "2026-09-09T13:51:51.070105+00:00",
+          "sourceCommitSha": "f775f9835c",
+          "sourceContentHash": "sha256:ab11b395c6923e7b",
+          "sourceBodyHash": "sha256:96f21cbf7e1ee69e",
+          "translatedAt": "2026-11-22T21:58:10+08:00",
           "translationLastCommit": "5662fa47",
           "translationLastModified": "2026-10-10T23:40:42+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "bytes": 16680,
+          "bytes": 16003,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -61406,15 +61462,15 @@
         "ko": {
           "path": "ko/Lifestyle/tra-mingri-express.md",
           "translatedFrom": "Lifestyle/台鐵鳴日號.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:692645244e391abd",
-          "sourceBodyHash": "sha256:28f054608fa81e22",
-          "translatedAt": "2026-09-08T00:42:47+08:00",
+          "sourceCommitSha": "f775f9835c",
+          "sourceContentHash": "sha256:ab11b395c6923e7b",
+          "sourceBodyHash": "sha256:96f21cbf7e1ee69e",
+          "translatedAt": "2026-11-22T21:58:11+08:00",
           "translationLastCommit": "e1127059",
           "translationLastModified": "2026-09-08T06:09:55+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "bytes": 15047,
+          "bytes": 15344,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -61422,15 +61478,15 @@
         "es": {
           "path": "es/Lifestyle/tra-mingri-express.md",
           "translatedFrom": "Lifestyle/台鐵鳴日號.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:692645244e391abd",
-          "sourceBodyHash": "sha256:28f054608fa81e22",
-          "translatedAt": "2026-09-09T19:34:15+08:00",
+          "sourceCommitSha": "f775f9835c",
+          "sourceContentHash": "sha256:ab11b395c6923e7b",
+          "sourceBodyHash": "sha256:96f21cbf7e1ee69e",
+          "translatedAt": "2026-11-22T21:58:12+08:00",
           "translationLastCommit": "89e5cb0d",
           "translationLastModified": "2026-09-10T06:15:18+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "bytes": 18078,
+          "bytes": 16765,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -61448,8 +61504,10 @@
           "footnoteDefs": 15,
           "bytes": 17889,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+19 -19"
         },
         "vi": {
           "path": "vi/Lifestyle/tra-mingri-express.md",
@@ -61464,8 +61522,10 @@
           "footnoteDefs": 15,
           "bytes": 19645,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+19 -19"
         },
         "id": {
           "path": "id/Lifestyle/tra-mingri-express.md",
@@ -61480,8 +61540,10 @@
           "footnoteDefs": 15,
           "bytes": 16425,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+19 -19"
         },
         "pt": {
           "path": "pt/Lifestyle/tra-mingri-express.md",
@@ -61496,8 +61558,10 @@
           "footnoteDefs": 15,
           "bytes": 16742,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+19 -19"
         },
         "hi": {
           "path": "hi/Lifestyle/tra-mingri-express.md",
@@ -61512,8 +61576,10 @@
           "footnoteDefs": 15,
           "bytes": 33651,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+19 -19"
         },
         "ar": {
           "path": "ar/Lifestyle/tra-mingri-express.md",
@@ -61528,8 +61594,10 @@
           "footnoteDefs": 15,
           "bytes": 22271,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+19 -19"
         },
         "ru": {
           "path": "ru/Lifestyle/tra-mingri-express.md",
@@ -61544,8 +61612,10 @@
           "footnoteDefs": 15,
           "bytes": 23348,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+19 -19"
         },
         "de": {
           "path": "de/Lifestyle/tra-mingri-express.md",
@@ -61560,8 +61630,10 @@
           "footnoteDefs": 15,
           "bytes": 16453,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+19 -19"
         }
       }
     },
@@ -81161,10 +81233,10 @@
     },
     "Society/水道頭.md": {
       "zh": {
-        "lastCommit": "015d1a9c",
-        "lastModified": "2026-08-18T18:48:22+08:00",
-        "contentHash": "sha256:d584a485050631e9",
-        "bodyHash": "sha256:5fb85b385727325b"
+        "lastCommit": "f775f983",
+        "lastModified": "2026-11-21T22:58:41+08:00",
+        "contentHash": "sha256:e5ee5e2296d7b18d",
+        "bodyHash": "sha256:5131c3db231d9988"
       },
       "translations": {
         "en": {
@@ -81180,8 +81252,10 @@
           "footnoteDefs": 8,
           "bytes": 25704,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+31 -30"
         },
         "ja": {
           "path": "ja/Society/shuidaotou-waterworks.md",
@@ -81196,8 +81270,10 @@
           "footnoteDefs": 8,
           "bytes": 28908,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+31 -30"
         },
         "ko": {
           "path": "ko/Society/shuidaotou-waterworks.md",
@@ -81212,21 +81288,23 @@
           "footnoteDefs": 8,
           "bytes": 25885,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+31 -30"
         },
         "es": {
           "path": "es/Society/shuidaotou-waterworks.md",
           "translatedFrom": "Society/水道頭.md",
-          "sourceCommitSha": "015d1a9c9",
-          "sourceContentHash": "sha256:d584a485050631e9",
-          "sourceBodyHash": "sha256:5fb85b385727325b",
-          "translatedAt": "2026-09-22T14:22:24+08:00",
+          "sourceCommitSha": "f775f9835c",
+          "sourceContentHash": "sha256:e5ee5e2296d7b18d",
+          "sourceBodyHash": "sha256:5131c3db231d9988",
+          "translatedAt": "2026-11-22T21:58:12+08:00",
           "translationLastCommit": "b4c5f9e5",
           "translationLastModified": "2026-09-22T17:52:37+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 30376,
+          "bytes": 24035,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -81244,8 +81322,10 @@
           "footnoteDefs": 8,
           "bytes": 29979,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+31 -30"
         },
         "vi": {
           "path": "vi/Society/shuidaotou-waterworks.md",
@@ -81260,21 +81340,23 @@
           "footnoteDefs": 8,
           "bytes": 33273,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+31 -30"
         },
         "id": {
           "path": "id/Society/shuidaotou-waterworks.md",
           "translatedFrom": "Society/水道頭.md",
-          "sourceCommitSha": "015d1a9c9",
-          "sourceContentHash": "sha256:d584a485050631e9",
-          "sourceBodyHash": "sha256:5fb85b385727325b",
-          "translatedAt": "2026-09-22T08:09:29+08:00",
+          "sourceCommitSha": "f775f9835c",
+          "sourceContentHash": "sha256:e5ee5e2296d7b18d",
+          "sourceBodyHash": "sha256:5131c3db231d9988",
+          "translatedAt": "2026-11-22T15:15:42.976748+00:00",
           "translationLastCommit": "cd5bfcde",
           "translationLastModified": "2026-09-22T11:37:12+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 27090,
+          "bytes": 27158,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -81292,8 +81374,10 @@
           "footnoteDefs": 8,
           "bytes": 25165,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+31 -30"
         },
         "hi": {
           "path": "hi/Society/shuidaotou-waterworks.md",
@@ -81308,8 +81392,10 @@
           "footnoteDefs": 8,
           "bytes": 58261,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+31 -30"
         },
         "ar": {
           "path": "ar/Society/shuidaotou-waterworks.md",
@@ -81324,8 +81410,10 @@
           "footnoteDefs": 8,
           "bytes": 35546,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+31 -30"
         },
         "ru": {
           "path": "ru/Society/shuidaotou-waterworks.md",
@@ -81340,8 +81428,10 @@
           "footnoteDefs": 8,
           "bytes": 48529,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+31 -30"
         },
         "de": {
           "path": "de/Society/shuidaotou-waterworks.md",
@@ -81356,8 +81446,10 @@
           "footnoteDefs": 8,
           "bytes": 23913,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+31 -30"
         }
       }
     },
@@ -83726,7 +83818,7 @@
           "sourceContentHash": "sha256:4379f24fd051c302",
           "sourceBodyHash": "sha256:4d2bd2c6c8f39bfa",
           "translatedAt": "2026-11-21T21:35:52.728007+00:00",
-          "translationLastCommit": "b85730ec",
+          "translationLastCommit": "74578a5e",
           "translationLastModified": "2026-11-22T07:30:01+08:00",
           "inferred": false,
           "footnoteDefs": 57,
@@ -84116,7 +84208,7 @@
           "sourceContentHash": "sha256:b9d1a42aadf87af2",
           "sourceBodyHash": "sha256:4db5c97b15ab8480",
           "translatedAt": "2026-11-22T04:50:32.890427+00:00",
-          "translationLastCommit": "2f439269",
+          "translationLastCommit": "c533824c",
           "translationLastModified": "2026-11-22T14:49:45+08:00",
           "inferred": false,
           "footnoteDefs": 91,
@@ -163540,7 +163632,20 @@
           "reason": "hash-match-sha-lost"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Food/cinavu.md",
+          "translatedFrom": "Food/奇拿富.md",
+          "sourceCommitSha": "be13f04522",
+          "sourceContentHash": "sha256:758fe83e869801fb",
+          "sourceBodyHash": "sha256:78a865d528a7c98e",
+          "translatedAt": "2026-11-22T02:30:25+08:00",
+          "translationLastCommit": "66efea03",
+          "translationLastModified": "2026-11-22T02:51:13+08:00",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "bytes": 49857,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Food/cinavu.md",
@@ -168259,8 +168364,8 @@
           "sourceContentHash": "sha256:dd1dd6c92c65eddb",
           "sourceBodyHash": "sha256:33bbf00febca421e",
           "translatedAt": "2026-11-22T12:44:30+08:00",
-          "translationLastCommit": "79729a92",
-          "translationLastModified": "2026-08-04T21:00:05+08:00",
+          "translationLastCommit": "136f0f93",
+          "translationLastModified": "2026-11-22T15:35:01+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "bytes": 53629,
@@ -178053,7 +178158,7 @@
           "sourceContentHash": "sha256:9d679c3b9e055699",
           "sourceBodyHash": "sha256:71b357541a22d4f7",
           "translatedAt": "2026-11-22T01:39:37.866884+00:00",
-          "translationLastCommit": "88215b1c",
+          "translationLastCommit": "3a3dc30a",
           "translationLastModified": "2026-11-22T11:59:46+08:00",
           "inferred": false,
           "footnoteDefs": 40,
