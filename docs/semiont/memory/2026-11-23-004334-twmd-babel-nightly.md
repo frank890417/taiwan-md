@@ -86,6 +86,7 @@ missing 4 → 0，十二語覆蓋率都是 100%。fresh 合計少 4，是四篇�
 本 session 新 handoff：
 
 - [ ] pending（收件席位：下一班 babel）：讀 `.babel-quarantine/rejected/knowledge/*/Society/shuidaotou-waterworks.md.*` 與 master.log 裡 `↳ URL count` 那一行，判定〈水道頭〉是閘門誤判還是模型真的動了網址。先確認 dispatcher 已經重生成新程式碼（log 有 `🧾 被拒產出留底`）；樣本目錄是空的而失敗還在累積，就是留底沒生效
+- [ ] pending（收件席位：下一班 babel）：`/tmp/babel-push-every.out` 顯示 11-22 推送迴圈被一個未追蹤的 memory 檔擋住合併，最舊的未推送譯文等了 13.6 小時（到 21:06 才通）。本班收官時 ahead 10、behind 0，手動推上去了；它被擋的那段時間 pulse 與 preflight 都沒有叫
 - [ ] pending（收件席位：下一班 babel）：preflight 的弱適配表不知道 `--worker-skip-langs` 已經把那一格切走，連著幾班會一直印同兩格直到兩日窗口滾過；要不要讓表扣掉已切軌的組合
 
 ## Beat 5 — 反芻
