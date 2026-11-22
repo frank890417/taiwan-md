@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-22T23:35:54+08:00",
-    "zhCommitHead": "548dcb5b5c",
+    "lastUpdated": "2026-11-22T23:36:06+08:00",
+    "zhCommitHead": "125ff88ff2",
     "totalZh": 1193,
     "activeLanguages": [
       "en",
@@ -6816,7 +6816,7 @@
           "translationLastModified": "2026-11-19T01:15:49+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "bytes": 45779,
+          "bytes": 45781,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
