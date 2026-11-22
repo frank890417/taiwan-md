@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
 last_updated: 2026-11-23
-last_session: '2026-11-23-060253-twmd-data-refresh-am（早班刷新全過，自動 --no-sync 分支第一次實跑）'
+last_session: '2026-11-23-064122-twmd-spore-harvest-am（零新留言，#29 聚合按讚進去量留言數仍 232，合法 no-op）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -338,3 +338,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-23 | 053940-twmd-routine-sync | 例行對賬：prompt 19/19 一致，排程器直讀十八條 cron／開關零漂移，連六天；上週日六條週班五條留痕，週報死因已知，數數交接收掉 | 起跑時間分不出的事，要讀得到 log 的席位才給得出原因 | [→](memory/2026-11-23-053940-twmd-routine-sync.md) |
 | 2026-11-23 | 060736-twmd-embeddings-nightly | 恢復後第六夜完整重建：13 語 15,366 向量零失敗、verify PASS，`2ad9a6308a`；十三語同數各 1,182；傳了五班的過時耗時交接照前例自己改成 pipeline v1.5 | 權限的證據在那份文件自己的版本註腳裡 | [→](memory/2026-11-23-060736-twmd-embeddings-nightly.md) |
 | 2026-11-23 | 060253-twmd-data-refresh-am | 早班刷新十四步全過、15 個 dashboard 0 stale；腳本自己偵測 babel 寫手改走 --no-sync 第一次實跑成功；房貸負擔率仍只有 115Q1；GA 欄位交接範圍改寫 | 沒看程式碼就寫進交接的工作量，讀起來像量過的 | [→](memory/2026-11-23-060253-twmd-data-refresh-am.md) |
+| 2026-11-23 | 064122-twmd-spore-harvest-am | 回覆分頁仍是同三列、零新留言；#29 李洋四小時內多八個讚，進 permalink 量留言數仍 232、四格跟昨天相同；最新孢子停在 08-23；合法 no-op | 聚合按讚不代表有新留言，重抓條件照留言數走 | [→](memory/2026-11-23-064122-twmd-spore-harvest-am.md) |
