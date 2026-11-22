@@ -1567,19 +1567,6 @@
     "categorySlug": "history"
   },
   {
-    "title": "27 секунд точности: происхождение тяньаньского яйца с унгрем в японский колониальный период и традиции семьи Ляо",
-    "description": "Ядром тяньаньского яйца с унгрем является одно число: 27 секунд. Если унгрь проводит в кастрюле больше этого времени, мясо становится сухим, появляется привкус, вся кастрюля портится. Это блюдо родилось на рынке сакариба в японский колониальный период, братья Ляо Биньнань и Ляо Хоту изучили мастерство у мастера из Фучжоу, заменили японский угорь диким унгрем из тяньаньских водоёмов и завоевали вековую славу.",
-    "category": "Food",
-    "tags": [],
-    "url": "https://taiwan.md/ru/food/eel-noodles",
-    "readingTime": 7,
-    "featured": false,
-    "date": "2026-07-02",
-    "path": "ru/Food/eel-noodles.md",
-    "lang": "ru",
-    "categorySlug": "food"
-  },
-  {
     "title": "3 Degrees C: Cutting the Cold Shower Experience into a Million-Subscriber Path",
     "description": "The story of Hsieh Meng-hang, from a cosmetology student to a million-subscriber YouTuber, who merges memes, challenges, and video production into a single creative practice.",
     "category": "People",
@@ -1661,6 +1648,32 @@
     "date": "2026-11-19",
     "path": "Economy/稅收結構.md",
     "lang": "zh-TW",
+    "categorySlug": "economy"
+  },
+  {
+    "title": "3.8 تريليون من الضرائب: 53.4% من ضريبة الدخل، والفجوة التي تقلّصت من 50.5 مليار إلى 14.3 مليار",
+    "description": "الإحصاء النهائي لإيرادات الضرائب الوطنية لعام 114 (2025) بلغ 3.7879 تريليون دولار تايواني، أي أقل من الميزانية المقدَّرة بمقدار 14.3 مليار دولار؛ أما الإحصاء الأولي المعلن في يناير فكان 3.7515 تريليون دولار، بنقص قدره 50.5 مليار دولار — والفرق بين الرقمين يعود إلى الضرائب المسجَّلة خلال فترة التسوية بين السنتين. يفصّل هذا المقال مصادر الـ 3.8 تريليون: ضريبة دخل الشركات وضريبة الدخل الشخصي الموحد تشكلان معًا 53.4%، وضريبة الأعمال 16.3%، وضريبة تداول الأوراق المالية 292.8 مليار دولار بمتوسط تداول يومي 489.4 مليار دولار؛ بينما تراجعت ضريبة زيادة قيمة الأراضي وضريبة السلع بسبب تباطؤ سوقي العقارات والسيارات على التوالي. من بين 18 بندًا ضريبيًا، حقق 11 منها المستهدف، وانتهى الأمر بمعدل عبء ضريبي نسبته 13.2%.",
+    "category": "Economy",
+    "tags": [],
+    "url": "https://taiwan.md/ar/economy/tax-revenue-structure",
+    "readingTime": 11,
+    "featured": false,
+    "date": "2026-11-19",
+    "path": "ar/Economy/tax-revenue-structure.md",
+    "lang": "ar",
+    "categorySlug": "economy"
+  },
+  {
+    "title": "3.8 लाख करोड़ का कर: 53.4% आयकर से, और वह अंतर जो NT$5,050 करोड़ से घटकर NT$1,430 करोड़ रह गया",
+    "description": "114 वर्ष का राष्ट्रव्यापी कर राजस्व अंतिम आंकड़ा NT$3.7879 लाख करोड़, बजट अनुमान से NT$1,430 करोड़ कम; जनवरी में घोषित प्रारंभिक आंकड़ा NT$3.7515 लाख करोड़, NT$5,050 करोड़ कम था, दोनों कुलों का अंतर वर्षांत समाधान अवधि में दर्ज कर राशि में है। यह लेख NT$3.8 लाख करोड़ के स्रोत को अलग करता है: लाभ-उद्यम आयकर और समग्र आयकर मिलकर 53.4%, कारोबार कर 16.3%, प्रतिभूति लेनदेन कर NT$29,280 करोड़, दैनिक औसत कारोबार NT$48,940 करोड़; भूमि मूल्यवृद्धि कर और वस्तु कर क्रमशः आवास बाजार और वाहन बाजार के ठंडे पड़ने से पिछड़े। 18 कर मदों में 11 लक्ष्य पर पहुंचे, अंत में 13.2% कर भार अनुपात पर लौटे।",
+    "category": "Economy",
+    "tags": [],
+    "url": "https://taiwan.md/hi/economy/tax-revenue-structure",
+    "readingTime": 11,
+    "featured": false,
+    "date": "2026-11-19",
+    "path": "hi/Economy/tax-revenue-structure.md",
+    "lang": "hi",
     "categorySlug": "economy"
   },
   {
@@ -7854,19 +7867,6 @@
     "categorySlug": "food"
   },
   {
-    "title": "台湾鉄路鳴日号：鉄道美学の災難から移動する五つ星の殿堂へ",
-    "description": "70年間の莒光号の慢性的な問題を改造することから始まり、柏成設計と雄獅トラベルが「秋の風」をコンセプトに、控えめな贅沢な黒橙色の塗装と減法美学を台湾鉄道に導入し、さらにドイツiF金賞を受賞した移動レストラン「鳴日キッチン」を生み出し、台湾の高級鉄道旅行を再定義した。",
-    "category": "Lifestyle",
-    "tags": [],
-    "url": "https://taiwan.md/ja/lifestyle/tra-mingri-express",
-    "readingTime": 14,
-    "featured": false,
-    "date": "2026-08-17",
-    "path": "ja/Lifestyle/tra-mingri-express.md",
-    "lang": "ja",
-    "categorySlug": "lifestyle"
-  },
-  {
     "title": "台湾鉄道史：肺病鉄道、黒頭仔、そして外国名を失った系譜",
     "description": "日本人に「肺病鉄道」と罵られた粗末な路線は、一世紀余りのあいだに、毎日二十万人を運ぶ高速動脈へと変わりました。劉銘伝が招いたドイツ人・英国人技師の仕事は、のちに日本人によっていったん白紙に戻され、長谷川謹介の縦貫線も戦後の台湾鉄路によって改名・改番されました。どの世代も前の世代の記録を脚注へ押しやり、外国名はしだいに剥がれ落ちていきました。残ったのは台湾語の「黒頭仔」「火車仔」、莒光・自強・復興という政治スローガン、そしてようやくプユマ・タロコの世代になって、先住民族の地名が再びレールの上に敷き戻されたのです。",
     "category": "History",
@@ -11647,6 +11647,26 @@
     "path": "ja/About/seeing-taiwan-quotes.md",
     "lang": "ja",
     "categorySlug": "about"
+  },
+  {
+    "title": "台鉄鳴日号：鉄道美学の災難から移動する五つ星殿堂へ",
+    "description": "70年にわたる莒光号の慢性的な問題を改造することから始まり、柏成設計と雄獅旅遊が「秋の風」をコンセプトに、控えめな贅沢な黒とオレンジの塗装と減法美学を台湾鉄路に導入し、さらにドイツiF金賞を受賞した移動レストラン「鳴日厨房」を生み出し、台湾の高級鉄道旅行を再定義した。",
+    "category": "Lifestyle",
+    "tags": [
+      "鳴日号",
+      "鳴日厨房",
+      "台鉄美学",
+      "鉄道旅行",
+      "柏成設計",
+      "雄獅旅遊"
+    ],
+    "url": "https://taiwan.md/ja/lifestyle/tra-mingri-express",
+    "readingTime": 13,
+    "featured": false,
+    "date": "2026-08-17",
+    "path": "ja/Lifestyle/tra-mingri-express.md",
+    "lang": "ja",
+    "categorySlug": "lifestyle"
   },
   {
     "title": "台糖：外貨収入の74%を支えた甘味帝国から、2025年に利益新高を記録する「本業離れ」の大地主へ",
@@ -23709,19 +23729,6 @@
     "categorySlug": "geography"
   },
   {
-    "title": "金曲奨：台湾が自らの音楽に賞を贈り、三十五年にわたり一生記憶に残る瞬間を刻んできた場所",
-    "description": "2024 年の台北アリーナで、草東沒有派對は二度目の伝説をつくり、マネージャーが代理で受賞し、会場全体が亡くなったドラマーのために沈黙しました。三十五年にわたり、金曲奨は蔡琴の一通の手書きの手紙から国家級の式典へと成長し、周杰倫の『范特西』、張恵妹の 14 回ノミネートを戴冠させ、台湾語、客語、原住民族語の歌にも最高栄誉を授けてきました。ここは台湾が自らの音楽に賞を贈り、どの声が記憶されるべきかを決める場所です。",
-    "category": "Music",
-    "tags": [],
-    "url": "https://taiwan.md/ja/music/pop-music-and-golden-melody-awards",
-    "readingTime": 16,
-    "featured": false,
-    "date": "2026-06-28",
-    "path": "ja/Music/pop-music-and-golden-melody-awards.md",
-    "lang": "ja",
-    "categorySlug": "music"
-  },
-  {
     "title": "金曲獎：台灣替自己的音樂頒獎，和三十五年來那些記一輩子的時刻",
     "description": "2024 年小巨蛋，草東二度封神，經紀人代領，全場為一個離世的鼓手靜默。三十五年來，金曲獎從蔡琴一封手寫信長成國家級典禮，加冕過周杰倫的范特西、張惠妹的入圍 14 次，也把最高榮譽給了台語、客語、原住民語的歌。這是台灣替自己的音樂頒獎、決定什麼聲音值得被記住的地方。",
     "category": "Music",
@@ -23732,6 +23739,19 @@
     "date": "2026-06-28",
     "path": "Music/金曲獎.md",
     "lang": "zh-TW",
+    "categorySlug": "music"
+  },
+  {
+    "title": "金曲賞：台湾が自らの音楽に贈る賞、そして35年間にわたる一生忘れられない瞬間たち",
+    "description": "2024年台北アリーナ、草東沒有派對が二度の栄冠、マネージャーが代理受賞、故人のドラマーのために会場全体が静寂に包まれた。35年間、金曲賞は蔡琴の一通の手紙から国家級の授賞式へと成長し、周杰倫の『范特西』、張恵妹の14度のノミネートを戴冠し、台湾語・客家語・原住民語の楽曲に最高栄誉を与えてきた。ここは台湾が自らの音楽に贈る賞、どの声が記憶に値するかを決める場所だ。",
+    "category": "Music",
+    "tags": [],
+    "url": "https://taiwan.md/ja/music/pop-music-and-golden-melody-awards",
+    "readingTime": 16,
+    "featured": false,
+    "date": "2026-06-28",
+    "path": "ja/Music/pop-music-and-golden-melody-awards.md",
+    "lang": "ja",
     "categorySlug": "music"
   },
   {
@@ -41120,12 +41140,12 @@
     "categorySlug": "society"
   },
   {
-    "title": "AI Enters the Classroom: 300 Agents to Catch Teachers Left Alone After Training",
-    "description": "In 2026, Hsiao Bi-khim placed 300 AI agents designed by approximately 80 teachers into a shared marketplace. Two different surveys in Taiwan show that while 90% of teachers have been exposed to AI, 95.6% still have learning needs. From the three-hour workshop at Dajia Elementary School, the 'ouke' (picky customer) test at Neihu High School, to the Ministry of Education's Talent Ark Project, this article asks: The tools have entered the classroom; who will catch the teachers when they return? This is a more difficult educational project after the popularization of tools.",
+    "title": "AI Enters the Classroom: Three Hundred Agents to Catch Lonely Teachers After Training",
+    "description": "In 2026, Hsu Tai-ping placed three hundred AI agents designed by eighty teachers into a shared marketplace. While surveys show 90% of teachers have used AI and 95.6% need more training, the real challenge is supporting them after they return to school.",
     "category": "Technology",
     "tags": [],
     "url": "https://taiwan.md/en/technology/taiwan-teachers-and-ai-education",
-    "readingTime": 53,
+    "readingTime": 54,
     "featured": false,
     "date": "2026-07-20",
     "path": "en/Technology/taiwan-teachers-and-ai-education.md",
@@ -41475,24 +41495,6 @@
     "path": "id/Geography/taiwan-tap-water.md",
     "lang": "id",
     "categorySlug": "geography"
-  },
-  {
-    "title": "Air Ledung: Taiwan Menyalurkan Air Bersih Melalui Bangunan yang Dapat Dilihat",
-    "description": "Sebelum air mengalir dari keran, kota Taiwan harus menarik air ke atas, mengendapkan, dan mensterilkan — baru kemudian air mengalir ke rum-rum warga melalui gravitasi. Air Ledung mencatat bukan hanya sejarah teknik, tetapi juga pertemuan antara keamanan kesehatan umum, kota kolonial, kebutuhan industri, hak atas air, dan ingatan lokal. Dari Puzi, Huwei, Beigang hingga Taipei, menara air ini memungkinkan kita melihat bagaimana air bersih dibangun bersama.",
-    "category": "Society",
-    "tags": [
-      "Infrastruktur dasar",
-      "Kesehatan umum",
-      "Arsitek",
-      "Warisan budaya"
-    ],
-    "url": "https://taiwan.md/id/society/shuidaotou-waterworks",
-    "readingTime": 10,
-    "featured": false,
-    "date": "2026-08-16",
-    "path": "id/Society/shuidaotou-waterworks.md",
-    "lang": "id",
-    "categorySlug": "society"
   },
   {
     "title": "Air Mengalir ke Atas: Membaca Sejarah Pembukaan Lahan Suku Amis dan Batas Kognisi Otak dari Sebuah Ilusi Optik",
@@ -48226,7 +48228,7 @@
   },
   {
     "title": "Cabeças de água: Taiwan transformou água limpa numa cidade visível",
-    "description": "Antes de a água sair da torneira, as cidades de Taiwan tinham de bombear a água para torres, decantá-la, desinfetá-la e deixá-la fluir pela gravidade até às ruas e casas. As cabeças de água registam não apenas a história da engenharia, mas também a forma como se entrelaçam a saúde pública, a cidade colonial, as necessidades industriais, o poder de acesso à água e a memória local. De Puzihu, Hwee-bé, Pe̍h-káng a Taipé, estas torres mostram como a água limpa foi construída em conjunto.",
+    "description": "Antes de a água sair da torneira, as cidades de Taiwan tinham de a bombear para torres, decantá-la, desinfetá-la e deixá-la fluir pela gravidade até às ruas e casas. As cabeças de água registam não só a história da engenharia, mas também a forma como a saúde pública, a cidade colonial, a procura industrial, o poder de acesso à água e a memória local se sobrepõem. De Puzihu, Hwei, Beigang a Taipé, estas torres mostram como a água limpa foi construída em conjunto.",
     "category": "Society",
     "tags": [
       "infraestrutura",
@@ -48240,6 +48242,19 @@
     "date": "2026-08-16",
     "path": "pt/Society/shuidaotou-waterworks.md",
     "lang": "pt",
+    "categorySlug": "society"
+  },
+  {
+    "title": "Cabezas de acueducto: Taiwán convirtió el agua limpia en una ciudad visible",
+    "description": "Antes de que el agua salga del grifo, las ciudades de Taiwán debían bombearla a torres, decantarla, desinfectarla y dejar que la gravedad la llevara a calles y hogares. Las cabezas de acueducto registran no solo historia de ingeniería, sino la forma superpuesta de salud pública, ciudad colonial, demanda industrial, derechos de conexión y memoria local. Desde Putzu, Huwei, Beigang hasta Taipéi, estas torres de agua muestran cómo el agua limpia se construyó colectivamente.",
+    "category": "Society",
+    "tags": [],
+    "url": "https://taiwan.md/es/society/shuidaotou-waterworks",
+    "readingTime": 10,
+    "featured": false,
+    "date": "2026-08-16",
+    "path": "es/Society/shuidaotou-waterworks.md",
+    "lang": "es",
     "categorySlug": "society"
   },
   {
@@ -55129,19 +55144,6 @@
     "categorySlug": "technology"
   },
   {
-    "title": "Chuỗi siêu thị PX Mart: Cuộc phục hưng từ cửa hàng phúc lợi \"xấu xí\" đến ông trùm bán lẻ Đài Loan",
-    "description": "Năm 1998, Lâm Mẫn Hùng tiếp quản 66 cơ sở cung cấp phúc lợi quân đội và giáo dục vốn bị thua lỗ triền miên. Với kỷ luật sắt đá \"giá rẻ 20%, lợi nhuận 2%\", ông đã mở rộng lên 1.200 cửa hàng trong hai mươi lăm năm. Đây không chỉ là một cuộc cách mạng bán lẻ, mà còn là câu chuyện về cách một đại gia bất động sản biến siêu thị thành nền tảng sinh hoạt tần suất cao của người dân Đài Loan bằng logic \"giảm giá\".",
-    "category": "Economy",
-    "tags": [],
-    "url": "https://taiwan.md/vi/economy/pxmart-supermarket",
-    "readingTime": 8,
-    "featured": false,
-    "date": "2026-04-21",
-    "path": "vi/Economy/pxmart-supermarket.md",
-    "lang": "vi",
-    "categorySlug": "economy"
-  },
-  {
     "title": "Chương trình bóng: Từ \"Hang của chương trình bóng\" Mì Đại đến Cuộc chiến của các kỵ sư và cạn trong quá trình hoá họa dân tộc",
     "description": "Nguồn gốc của chương trình bóng ở Mì Đại, Kaohsiung, kể câu chuyện thần kỳ rằng A Vạn Thầy đã để lại nghệ thuật này khi đến Taiwan cùng với Zheng Chenggong trước ba trăm năm. Vào năm 1937, quá trình hoá họa dân tộc bắt buộc các nghệ sĩ phải biểu diễn bằng tiếng Nhật bài \"Cuộc chiến của các kỵ sư và cạn\", do đó đội đoàn được chọn làm \"Đội phục vụ chính phủ đầu tiên\" và tồn tại đến ngày nay. Đội bóng Đông Hương kế thừa sáu thế hệ, là chương trình bóng gia đình lâu đời nhất vẫn biểu diễn tại Taiwan.",
     "category": "Culture",
@@ -55373,6 +55375,19 @@
     "date": "2026-11-04",
     "path": "fr/Food/cinavu.md",
     "lang": "fr",
+    "categorySlug": "food"
+  },
+  {
+    "title": "Cinavu (奇拿富): kê gói lá của người Paiwan, và lớp lá giả toan tương (假酸漿) phải ăn cùng",
+    "description": "Năm 2019, đoàn hợp xướng nhi đồng người Paiwan Taiwu Ancient Ballads Troupe mang một công thức cinavu sang Úc; từ giả toan tương trong danh sách nguyên liệu không được dịch sang tiếng Anh mà viết thẳng theo bính âm jiasuanjiang. Cinavu (còn viết là jinafu, 吉拿富) là món của người Paiwan dùng kê hoặc bột khoai môn gói thịt heo, bọc hai lớp lá rồi hấp hoặc nấu chín, mỗi bộ lạc có cách gọi và cách làm riêng. Người ngoài thường gọi nó là \"bánh chưng của người bản địa\", nhưng điểm khác với bánh chưng chính là lớp lá giả toan tương áp sát hạt kê phải ăn luôn cùng.",
+    "category": "Food",
+    "tags": [],
+    "url": "https://taiwan.md/vi/food/cinavu",
+    "readingTime": 13,
+    "featured": false,
+    "date": "2026-11-04",
+    "path": "vi/Food/cinavu.md",
+    "lang": "vi",
     "categorySlug": "food"
   },
   {
@@ -55668,8 +55683,8 @@
     "categorySlug": "geography"
   },
   {
-    "title": "Cơ Quan Vũ Trụ Đài Loan: Ba Mươi Hai Năm Để Tổ Chức Vũ Trụ Cho Một Quốc Gia Chưa Hoàn Toàn Có Tên",
-    "description": "Năm 1991 nó gọi là \"Phòng Chuẩn Bị\", không có tên chính thức, không có tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên. Ba Mươi Hai Năm Sau, Nó Đã Đặt Đài Loan Trở Lại Tên Của Nó. Trung Tâm Điều Khiển Ở Tân Trúc Hiện Theo Dõi Nhịp Tim Của Chín Vệ Tinh 24 Giờ Mỗi Ngày. Khi Xảy Ra Động Đất Ở Hoa Liên Vào Ngày 0403, Nó Đã Cập Nhật Lại Lệnh Trong Sáu Phút Sau Chấn Động, Và Chụp Ảnh Trong Ba Giờ. Nó Hiện Đang Hoàn Thành Mảnh Ghép Cuối Cùng - Một Tên Lửa Đưa Vệ Tinh Vào Quỹ Đạo Của Riêng Nó, Và Một Nhiệm Vụ Mặt Trăng Đã Được Phê Duyệt, Sớm Nhất Là 2028.",
+    "title": "Cơ quan Vũ trụ Đài Loan: ba mươi hai năm để tổ chức vũ trụ cho một quốc gia chưa hoàn toàn có tên",
+    "description": "Năm 1991 nó được gọi là \"Phòng Chuẩn Bị\", không có tên chính thức, không có tên lửa, không có đất riêng. Ba mươi hai năm sau, nó đã đặt Đài Loan trở lại tên của nó. Trung tâm điều khiển ở Tân Trúc hiện theo dõi nhịp tim của chín vệ tinh 24 giờ mỗi ngày. Khi xảy ra động đất ở Hoa Liên vào ngày 0403, nó đã cập nhật lại lệnh trong sáu phút sau chấn động, và chụp ảnh trong ba giờ. Nó hiện đang hoàn thành mảnh ghép cuối cùng — một tên lửa đưa vệ tinh vào quỹ đạo của riêng nó, và một nhiệm vụ Mặt Trăng đã được phê duyệt, sớm nhất là 2028.",
     "category": "Technology",
     "tags": [],
     "url": "https://taiwan.md/vi/technology/tasa-taiwan-space-agency",
@@ -55887,19 +55902,6 @@
     "path": "vi/Food/bamboo-tube-rice.md",
     "lang": "vi",
     "categorySlug": "food"
-  },
-  {
-    "title": "Comboio Mingrihao da Taiwan Railways: do desastre estético ferroviário ao palácio móvel de cinco estrelas",
-    "description": "A partir da transformação dos males crónicos do Chu-kuang Express de 70 anos, como a JC. Architecture e a Lion Travel introduziram o conceito do \"vento de outono\", trazendo a pintura preto-laranja de luxo discreto e a estética subtrativa para as ferrovias de Taiwan, e gerando ainda o restaurante móvel \"Mingri Kitchen\", vencedor do iF Gold Award alemão, redefinindo o turismo ferroviário de alto padrão em Taiwan.",
-    "category": "Lifestyle",
-    "tags": [],
-    "url": "https://taiwan.md/pt/lifestyle/tra-mingri-express",
-    "readingTime": 29,
-    "featured": false,
-    "date": "2026-08-17",
-    "path": "pt/Lifestyle/tra-mingri-express.md",
-    "lang": "pt",
-    "categorySlug": "lifestyle"
   },
   {
     "title": "Come on, Come on, What Now, What Now: How a Slogan Switched Sides in the Great Recall and Entered the Taipei Mayoral Race",
@@ -57501,8 +57503,8 @@
     "categorySlug": "culture"
   },
   {
-    "title": "COVID-19 e Vacinação em Taiwan: Os Dezoito Meses Conquistados e a Dose que Não Chegou a Tempo",
-    "description": "Em 15 de fevereiro de 2020, um motorista de táxi sem histórico de viagens internacionais faleceu — a primeira morte por COVID-19 em Taiwan. Com controle de fronteiras rigoroso e um cartão de seguro de saúde, Taiwan manteve a pandemia afastada por quase dezoito meses, registrando apenas 799 casos confirmados e 7 mortes em 2020. Porém, a primeira remessa de vacinas chegou apenas em março de 2021, com apenas 117 mil doses; quando a Ômicron entrou em 2022, a terceira dose para idosos ainda estava atrasada. A idade mediana de morte naquele ano foi 82 anos, dez anos a mais que no ano anterior. Outros grupos que arcaram com o custo — aqueles cujos pedidos de indenização foram rejeitados, os que deixaram hospitais, os confinados em dormitórios — muitos até hoje não foram contabilizados em nenhuma estatística.",
+    "title": "COVID-19 e Vacinas em Taiwan: Os dezoito meses que compramos e a dose que não alcançamos",
+    "description": "Em 15 de fevereiro de 2020, um motorista de táxi que nunca tinha saído do país faleceu, marcando o primeiro caso de morte por COVID-19 em Taiwan. Graças ao controlo de fronteiras e ao cartão de saúde, Taiwan manteve a pandemia à distância por quase dezoito meses; em todo o ano de 2020, houve apenas 799 casos confirmados e 7 mortes. No entanto, o primeiro lote de vacinas só chegou em março de 2021, com apenas 117 mil doses; quando a variante Omicron entrou em 2022, a terceira dose para os idosos ainda estava atrasada. Naquele ano, a mediana da idade de morte foi de 82 anos, dez anos a mais do que no ano anterior. Outros grupos que pagaram o preço — aqueles com pedidos de indemnização rejeitados, os que deixaram os hospitais e os que ficaram confinados em dormitórios — muitos ainda hoje não foram incluídos em qualquer estatística.",
     "category": "Society",
     "tags": [],
     "url": "https://taiwan.md/pt/society/taiwan-covid-pandemic-and-vaccines",
@@ -66183,19 +66185,6 @@
     "categorySlug": "lifestyle"
   },
   {
-    "title": "Đường sắt Đài Loan Minh Nhật Hào: Từ thảm họa thẩm mỹ đường sắt đến điện đài năm sao di động",
-    "description": "Khởi đầu từ việc cải tạo những bệnh tích lâu năm của tàu Chí Quang Hào 70 năm, Bách Thành Thiết Kế và Hùng Sư Du Lịch đã như thế nào đưa khái niệm \"Gió mùa thu\" vào thực tế, dẫn nhập trang bị màu cam đen sang trọng tinh tế cùng thẩm mỹ trừ bớt vào đường sắt Đài Loan, và tiến một bước tạo ra nhà hàng di động \"Minh Nhật Th Phòng\" vinh dự giành giải iF Gold Award của Đức, định nghĩa lại du lịch đường sắt cao cấp tại Đài Loan.",
-    "category": "Lifestyle",
-    "tags": [],
-    "url": "https://taiwan.md/vi/lifestyle/tra-mingri-express",
-    "readingTime": 28,
-    "featured": false,
-    "date": "2026-08-17",
-    "path": "vi/Lifestyle/tra-mingri-express.md",
-    "lang": "vi",
-    "categorySlug": "lifestyle"
-  },
-  {
     "title": "Đường sắt Đài Loan ngầm hóa: Khi đường ray đã xuống lòng đất, các bài toán trên mặt đất mới thực sự bắt đầu",
     "description": "Đài Bắc triển khai bốn dự án trong hơn 20 năm để đưa đường sắt nội đô xuống ngầm; Cao Hùng dùng 12 năm với kinh phí gần 100 tỷ NT$; Đài Nam dự kiến thông xe vào tháng 10/2026. Từ việc chuyến tàu đầu tiên tại Cao Hùng bị trễ 34 phút, đến việc dự án \"Song Tinh\" cạnh ga Đài Bắc phải chờ hơn 30 năm mới khởi công, bài viết dựa trên dữ liệu chính thức từ Đài Bắc, Cao Hùng và Đài Nam để phân tích những thách thức còn tồn đọng sau khi đường ray đã được ngầm hóa.",
     "category": "Geography",
@@ -68729,12 +68718,12 @@
     "categorySlug": "lifestyle"
   },
   {
-    "title": "El Tren Rising Star: De la catástrofe estética ferroviaria al palacio móvil de cinco estrellas",
-    "description": "Partiendo de la transformación de las crónicas enfermedades del Kuo-Kuang de 70 años, el estudio de diseño Paicheng y Lion Travel introducen la estética del \"viento de otoño\" mediante una pintura negra y naranja discreta y lujosa, culminando en el \"Kitchen Rising Star\", un restaurante móvil galardonado con el Oro iF de Alemania, redefiniendo el turismo ferroviario de alta gama en Taiwán.",
+    "title": "El tren Mingri Hao de TRA: de desastre estético ferroviario a salón de cinco estrellas móvil",
+    "description": "Partiendo de la transformación de la dolencia de setenta años del tren Chu-kuang, cómo JC. Architecture y Lion Travel introdujeron la estética de la \"reducción\" y una discreta y lujosa librea negro-naranja con el concepto del \"viento de otoño\" en el ferrocarril de Taiwán, y además dieron origen al restaurante móvil \"Cocina Mingri\", galardonado con el iF Gold Award alemán, redefiniendo el turismo ferroviario de alta gama en Taiwán.",
     "category": "Lifestyle",
     "tags": [],
     "url": "https://taiwan.md/es/lifestyle/tra-mingri-express",
-    "readingTime": 32,
+    "readingTime": 30,
     "featured": false,
     "date": "2026-08-17",
     "path": "es/Lifestyle/tra-mingri-express.md",
@@ -74144,19 +74133,6 @@
     "categorySlug": "people"
   },
   {
-    "title": "Giải Âm nhạc Vàng: Đài Loan tự trao giải cho âm nhạc của mình, và những khoảnh khắc đáng nhớ suốt ba mươi lăm năm",
-    "description": "Năm 2024 tại Nhà thi đấu Tiểu Cự Nhôm, nhóm Căo Đông lần thứ hai vinh danh, kinh tế người đại diện nhận lãnh, toàn hội dành lặng lẽ cho một tay trống đã khuất. Ba mươi lăm năm nay, Giải Âm nhạc Vàng từ một bức thư viết tay của Thái Cầm phát triển thành một lễ trao giải cấp quốc gia, đã trao vương miện cho Chu Kiệt Luân và album Phạm Tuyên Tây của anh, Trương Huệ Mẫu đã bị đề cử 14 lần, và cũng trao vinh dự cao nhất cho những ca sĩ hát bằng tiếng Đài, tiếng Khách Gia, và ngôn ngữ Nam Đảo bản địa. Đây là nơi Đài Loan tự trao giải cho âm nhạc của mình, quyết định tiếng nào xứng đáng được ghi nhớ.",
-    "category": "Music",
-    "tags": [],
-    "url": "https://taiwan.md/vi/music/pop-music-and-golden-melody-awards",
-    "readingTime": 16,
-    "featured": false,
-    "date": "2026-06-28",
-    "path": "vi/Music/pop-music-and-golden-melody-awards.md",
-    "lang": "vi",
-    "categorySlug": "music"
-  },
-  {
     "title": "Giải Kim Chung: Sau mười bảy năm luân phiên giữa ba đài, mỗi năm Đài Loan lại vạch một đường ranh cho \"truyền hình của chúng ta\"",
     "description": "Ngày 22 tháng 10 năm 2022, Trần Á Lan mặc âu phục bước lên sân khấu Đài tưởng niệm Tôn Trung Sơn, dùng vai kép nam hát hí giành giải Nam diễn viên chính chương trình kịch, người phụ nữ đầu tiên trong năm mươi bảy năm. Chiếc chuông đúc năm 1965 cho ngành phát thanh này, suốt mười bảy năm chỉ luân phiên giữa ba cái tên TTV, CTV, CTS; sau đó Đài Loan Công cộng, kịch tiếng Khách, diễn viên người Việt lần lượt bước vào danh sách. Mỗi năm Kim Chung trao cho diễn xuất, nhưng thứ nó thật sự vạch ra là một đường ranh: ai được tính là truyền hình của Đài Loan, ai vẫn còn đứng ngoài đường ranh đó.",
     "category": "Culture",
@@ -74194,6 +74170,19 @@
     "path": "vi/Technology/lifting-of-press-ban.md",
     "lang": "vi",
     "categorySlug": "technology"
+  },
+  {
+    "title": "Giải thưởng Kim Khúc: Nơi Đài Loan vinh danh âm nhạc của chính mình, và những khoảnh khắc ghi dấu cả đời suốt 35 năm qua",
+    "description": "Tại Nhà thi đấu Tiểu Cự Đàm năm 2024, nhóm No Party For Cao Dong lần thứ hai chạm đến đỉnh cao khi người quản lý thay mặt nhận giải, cả khán phòng lặng đi vì một tay trống đã khuất. Suốt 35 năm, từ lá thư tay của Thái Cầm (Tsai Chin), Kim Khúc đã lớn mạnh thành một lễ trao giải cấp quốc gia, từng vinh danh Châu Kiệt Luân (Jay Chou), Trương Huệ Muội (A-Mei), cũng như tôn vinh âm nhạc tiếng Đài, tiếng Khách và ngôn ngữ bản địa. Đây là nơi Đài Loan tự trao giải cho âm nhạc của chính mình, quyết định xem thanh âm nào xứng đáng được lưu giữ.",
+    "category": "Music",
+    "tags": [],
+    "url": "https://taiwan.md/vi/music/pop-music-and-golden-melody-awards",
+    "readingTime": 16,
+    "featured": false,
+    "date": "2026-06-28",
+    "path": "vi/Music/pop-music-and-golden-melody-awards.md",
+    "lang": "vi",
+    "categorySlug": "music"
   },
   {
     "title": "Giang Hiền Nhị: Rời khỏi Đài Loan bốn mươi lăm năm, sau khi trở về mới vẽ được những tác phẩm tuyệt vời nhất cuộc đời",
@@ -74523,47 +74512,8 @@
     "categorySlug": "art"
   },
   {
-    "title": "Golden Melody Awards : Taïwan récompense sa propre musique et trente-cinq ans de moments inoubliables",
-    "description": "En 2024, à la Taipei Arena, No Party for Cao Dong est sacré une deuxième fois ; leur manager reçoit les prix à leur place, et toute la salle garde le silence pour une batteuse disparue. En trente-cinq ans, les Golden Melody Awards sont passés d'une lettre manuscrite de Tsai Chin à une cérémonie nationale ; ils ont couronné Fantasy de Jay Chou, les 14 nominations d'A-Mei, et ont aussi attribué les plus hautes distinctions à des chansons en taïwanais, en hakka et en langues autochtones. C'est là que Taïwan récompense sa propre musique et décide quelles voix méritent d'être retenues.",
-    "category": "Music",
-    "tags": [],
-    "url": "https://taiwan.md/fr/music/pop-music-and-golden-melody-awards",
-    "readingTime": 16,
-    "featured": false,
-    "date": "2026-06-28",
-    "path": "fr/Music/pop-music-and-golden-melody-awards.md",
-    "lang": "fr",
-    "categorySlug": "music"
-  },
-  {
-    "title": "Golden Melody Awards: Taiwan a premiar a sua própria música, e os momentos que se guardam para a vida toda ao longo de trinta e cinco anos",
-    "description": "No Taipei Arena em 2024, os No Party for Cao Dong consagram-se pela segunda vez, o empresário recebe o prémio em seu nome, a arena inteira faz silêncio por um baterista falecido. Há trinta e cinco anos, os Golden Melody Awards cresceram a partir de uma carta manuscrita de Tsai Chin até se tornarem uma cerimónia nacional, consagraram o \"Fantasy\" de Jay Chou, as 14 nomeações de A-mei, e deram a maior honra a canções em taiwanês, hakka e línguas indígenas. Este é o lugar onde Taiwan premia a sua própria música, decidindo que vozes merecem ser lembradas.",
-    "category": "Music",
-    "tags": [],
-    "url": "https://taiwan.md/pt/music/pop-music-and-golden-melody-awards",
-    "readingTime": 16,
-    "featured": false,
-    "date": "2026-06-28",
-    "path": "pt/Music/pop-music-and-golden-melody-awards.md",
-    "lang": "pt",
-    "categorySlug": "music"
-  },
-  {
-    "title": "Golden Melody Awards: Taiwan ehrt seine eigene Musik und die Momente, die ein Leben lang bleiben",
-    "description": "Im Taipei Arena 2024 feierte No Party for Cao Dong eine zweite göttliche Ära; das Management nahm stellvertretend entgegen, während das Publikum einer verstorbenen Schlagzeugerin schweigend gedachte. In 35 Jahren entwickelte sich der Preis von einem handgeschriebenen Brief der Sängerin Tsai Chin zu einer nationalen Zeremonie, die Größen wie Jay Chou und A-Mei krönte sowie die Stimmen der taiwanischen, Hakka- und indigenen Sprachen würdigte.",
-    "category": "Music",
-    "tags": [],
-    "url": "https://taiwan.md/de/music/pop-music-and-golden-melody-awards",
-    "readingTime": 16,
-    "featured": false,
-    "date": "2026-06-28",
-    "path": "de/Music/pop-music-and-golden-melody-awards.md",
-    "lang": "de",
-    "categorySlug": "music"
-  },
-  {
-    "title": "Golden Melody Awards: Taiwan Honors Its Own Music, and the Moments Remembered for a Lifetime Across Thirty-Five Years",
-    "description": "In 2024 at Taipei Arena, No Party for Cao Dong ascended for a second time, their manager accepted the awards, and the entire hall fell silent for a drummer who had died. Across thirty-five years, the Golden Melody Awards have grown from a handwritten letter by Tsai Chin into a national ceremony, crowned Jay Chou's Fantasy, A-Mei's 14 nominations, and given top honors to songs in Taiwanese, Hakka, and Indigenous languages. This is where Taiwan honors its own music and decides which voices deserve to be remembered.",
+    "title": "Golden Melody Awards: Taiwan Awarding Its Own Music, and the Moments to Remember for a Lifetime",
+    "description": "At the 2024 Taipei Arena, No Party For Cao Dong achieved legendary status again; a manager accepted on behalf of a deceased drummer, followed by a moment of silence. Over 35 years, the Golden Melody Awards (GMA) grew from a handwritten letter by Tsai Chin into a national ceremony that crowned Jay Chou and A-Mei, while honoring Taiwanese, Hakka, and Indigenous languages. It is where Taiwan awards its own music and decides which voices deserve to be remembered.",
     "category": "Music",
     "tags": [],
     "url": "https://taiwan.md/en/music/pop-music-and-golden-melody-awards",
@@ -74572,6 +74522,32 @@
     "date": "2026-06-28",
     "path": "en/Music/pop-music-and-golden-melody-awards.md",
     "lang": "en",
+    "categorySlug": "music"
+  },
+  {
+    "title": "Golden Melody Awards: Taiwan Memberikan Penghargaan untuk Musiknya Sendiri, dan Momen-Momen yang Tak Terlupakan Selama Tiga Puluh Lima Tahun",
+    "description": "Taipei Arena 2024, No Party for Cao Dong kembali berjaya dengan manajer yang menerima penghargaan atas nama mereka, sementara seluruh penonton terdiam demi seorang drummer yang telah wafat. Selama 35 tahun, Golden Melody Awards berkembang dari sebuah surat tulisan tangan Tsai Chin menjadi upacara tingkat nasional; telah menobatkan Jay Chou dan A-Mei, serta memberikan kehormatan tertinggi bagi lagu berbahasa Taiwan, Hakka, dan bahasa penduduk asli. Inilah tempat di mana Taiwan memberikan penghargaan untuk musiknya sendiri dan menentukan suara mana yang layak untuk diingat.",
+    "category": "Music",
+    "tags": [],
+    "url": "https://taiwan.md/id/music/pop-music-and-golden-melody-awards",
+    "readingTime": 16,
+    "featured": false,
+    "date": "2026-06-28",
+    "path": "id/Music/pop-music-and-golden-melody-awards.md",
+    "lang": "id",
+    "categorySlug": "music"
+  },
+  {
+    "title": "Goldene Melodie-Preise: Taiwan vergibt seine eigenen Musikpreise und die unvergesslichen Momente von 35 Jahren",
+    "description": "2024 in der Taipei Arena: No Party for Cao Dong gewinnt zum zweiten Mal die Hauptpreise, der Manager nimmt stellvertretend entgegen, das gesamte Publikum schweigt für einen verstorbenen Schlagzeuger. Seit 35 Jahren ist der Golden Melody Award von Cai Qins handgeschriebenem Brief zur nationalen Zeremonie herangewachsen, krönte Jay Chous \"Fantasy\", A-meis 14 Nominierungen und verlieh die höchste Ehre auch Liedern in taiwanesisch, hakka und indigenen Sprachen. Dies ist der Ort, an dem Taiwan seine eigene Musik auszeichnet und entscheidet, welche Stimmen es wert sind, in Erinnerung zu bleiben.",
+    "category": "Music",
+    "tags": [],
+    "url": "https://taiwan.md/de/music/pop-music-and-golden-melody-awards",
+    "readingTime": 16,
+    "featured": false,
+    "date": "2026-06-28",
+    "path": "de/Music/pop-music-and-golden-melody-awards.md",
+    "lang": "de",
     "categorySlug": "music"
   },
   {
@@ -86299,19 +86275,6 @@
     "categorySlug": "geography"
   },
   {
-    "title": "Kereta Api Kekalangan Hokkaido: Dari Bencana Estetika pada Rel ke Istana Bergerak Bintang Lima",
-    "description": "Dari modifikasi kereta lama Kuo Kuang yang berusia tujuh puluh tahun, bagaimana Berkshire Design dan Lion Travel merevolusi estetika rel dengan konsep \"Angin Musim Gugur\", menggabungkan warna hitam dan oranye yang elegan serta estetika pengurangan, sekaligus melahirkan restoran bergerak bergengsi internasional \"Dapur Hokkaido\" yang memenangkan penghargaan iF Gold dari Jerman, mendefinisikan kembali pariwisata rel kelas atas Taiwan.",
-    "category": "Lifestyle",
-    "tags": [],
-    "url": "https://taiwan.md/id/lifestyle/tra-mingri-express",
-    "readingTime": 29,
-    "featured": false,
-    "date": "2026-08-17",
-    "path": "id/Lifestyle/tra-mingri-express.md",
-    "lang": "id",
-    "categorySlug": "lifestyle"
-  },
-  {
     "title": "Kertas Taiwan: Dari Perebutan Ampas Tebu ke Siklus Kertas Daur Ulang, Bagaimana Kertas Menulis Sejarah Industri",
     "description": "Pada 1917 seseorang mulai meneliti pembuatan kertas dari ampas tebu, pada 1935 Pabrik Kertas Zhongxing di Yilan mulai beroperasi. Dari ampas tebu, pulp kayu impor, hingga kertas batu kalsium karbonat, sebuah pulau yang kekurangan kayu pulp mandiri, bagaimana terus menulis ulang jalur industri kertasnya sendiri?",
     "category": "Economy",
@@ -93350,19 +93313,6 @@
     "categorySlug": "technology"
   },
   {
-    "title": "Las fuentes de agua: Taiwán convierte el agua limpia en una torre visible en la ciudad",
-    "description": "Antes de que salga el agua por el grifo, las ciudades de Taiwán deben extraer el agua, sedimentarla, desinfectarla y dejar que fluya por gravedad hacia las casas. Las fuentes de agua registran no solo la historia de la ingeniería, sino también la superposición de la salud pública, la ciudad colonial, las necesidades industriales, el derecho al agua y la memoria local. Desde Puzi, Huwei, Beigang hasta Taipéi, estas torres permiten ver cómo se construye colectivamente el agua limpia.",
-    "category": "Society",
-    "tags": [],
-    "url": "https://taiwan.md/es/society/shuidaotou-waterworks",
-    "readingTime": 10,
-    "featured": false,
-    "date": "2026-08-16",
-    "path": "es/Society/shuidaotou-waterworks.md",
-    "lang": "es",
-    "categorySlug": "society"
-  },
-  {
     "title": "Las mascotas de los presidentes de Taiwán: del perro lobo autoritario de la residencia oficial a la resonancia social de la «primera gata»",
     "description": "En 1951, un perro lobo ingresó a la residencia oficial de Shilin como guardián de Chiang Kai-shek; setenta años después, Tsai Ing-wen llegó a la residencia con Think Think, una gata callejera. Del perro militar que simbolizaba la vigilancia autoritaria a los perros rescatados y gatos que representan la preocupación social, la sucesión de mascotas presidenciales en Taiwán traza, de manera involuntaria, la trayectoria democrática de esta isla: de la política de hombres fuertes hacia una democracia plural e igualitaria.",
     "category": "Politics",
@@ -94191,6 +94141,19 @@
     "categorySlug": "food"
   },
   {
+    "title": "Le Mingri Hao de la TRA : du désastre esthétique ferroviaire au palais cinq étoiles mobile",
+    "description": "Partant de la refonte des maladies chroniques du Chu-kuang vieux de soixante-dix ans, comment JC. Architecture et Lion Travel ont-ils introduit l'esthétique de la sobriété et une livrée noir-orangé d'un luxe discret dans le chemin de fer taïwanais avec le concept du « vent d'automne », et fait naître le restaurant mobile « Mingri Kitchen » couronné du prix iF Gold Award allemand, redéfinissant ainsi le voyage ferroviaire haut de gamme à Taïwan.",
+    "category": "Lifestyle",
+    "tags": [],
+    "url": "https://taiwan.md/fr/lifestyle/tra-mingri-express",
+    "readingTime": 31,
+    "featured": false,
+    "date": "2026-08-17",
+    "path": "fr/Lifestyle/tra-mingri-express.md",
+    "lang": "fr",
+    "categorySlug": "lifestyle"
+  },
+  {
     "title": "Le miracle du don de sang à Taïwan : Le taux de don le plus élevé au monde et le réseau d'entraide civique",
     "description": "Explorer comment Taïwan est passé du chaos des « vaches à sang » (vendeurs de sang professionnels) des années 1970 à une société d'entraide où le taux de don de sang des citoyens atteint 8 %, le plus élevé au monde. À travers le fonctionnement de la Fondation du sang de Taïwan et la pratique culturelle du « Donnez un sac de sang, sauvez une vie », analyser le modèle réussi d'autosuffisance en sang médical de Taïwan et ses défis futurs.",
     "category": "Society",
@@ -94831,19 +94794,6 @@
     "path": "fr/Politics/taiwan-referendum-system.md",
     "lang": "fr",
     "categorySlug": "politics"
-  },
-  {
-    "title": "Le Taï-fan : du désastre esthétique ferroviaire à la salle à manger à ciel ouvert cinq étoiles",
-    "description": "À partir de la remise en condition du célèbre train Juguang des années 1970, le cabinet de design Pei-cheng (JC. Architecture) et le tour-opérateur Lion Travel ont introduit, sous le concept de « vent d'automne », une peinture sobres noire et orange et une esthétique par soustraction dans le réseau ferroviaire taïwanais, donnant naissance au restaurant mobile primé iF de Germany « La Cuisine du Matin », redéfinissant ainsi le tourisme ferroviaire haut de gamme à Taïwan.",
-    "category": "Lifestyle",
-    "tags": [],
-    "url": "https://taiwan.md/fr/lifestyle/tra-mingri-express",
-    "readingTime": 31,
-    "featured": false,
-    "date": "2026-08-17",
-    "path": "fr/Lifestyle/tra-mingri-express.md",
-    "lang": "fr",
-    "categorySlug": "lifestyle"
   },
   {
     "title": "Le Tai-p'ing-lun : Avant d'arriver à Keelung, Taïwan a reçu un tombeau sans nom",
@@ -96491,6 +96441,19 @@
     "categorySlug": "society"
   },
   {
+    "title": "Les Golden Melody Awards : Taïwan décerne ses propres prix musicaux, et ces moments inoubliables de trente-cinq ans d'histoire",
+    "description": "À l''Arena de Taipei en 2024, No Party for Cao Dong remporte à nouveau la consécration, leur manager reçoit le prix à leur place, et la salle entière observe un silence pour un batteur disparu. Depuis trente-cinq ans, les Golden Melody Awards sont passés d''une lettre manuscrite de Tsai Chin à une cérémonie nationale, couronnant le \"Fantasy\" de Jay Chou, les 14 nominations d''A-Mei, et décernant les plus hautes distinctions à des chansons en taïwanais, hakka et langues autochtones. C''est l''endroit où Taïwan récompense sa propre musique et décide quelles voix méritent d''être retenues.",
+    "category": "Music",
+    "tags": [],
+    "url": "https://taiwan.md/fr/music/pop-music-and-golden-melody-awards",
+    "readingTime": 16,
+    "featured": false,
+    "date": "2026-06-28",
+    "path": "fr/Music/pop-music-and-golden-melody-awards.md",
+    "lang": "fr",
+    "categorySlug": "music"
+  },
+  {
     "title": "Les grilles en fer de Taïwan : comment une fenêtre anti-effraction a soudé l'autobiographie d'un foyer",
     "description": "Des années 1950 aux années 1970, les grilles en fer se sont répandues avec l'essor du logement et de l'approvisionnement en acier à Taïwan. Conçues à l'origine pour la sécurité, elles ont fini par inscrire sur les façades le métier, la foi, les voyages et les souvenirs familiaux des propriétaires. Des 48 panneaux du Yuan législatif en 1958 aux grilles résidentielles de Beitou à Taichung, en passant par le tissu urbain des vieilles maisons de Lukang et d'Anping, ces pièces de fer montrent comment les demeures anciennes protègent la vie tout en l'exposant à la rue et aux lecteurs futurs, révélant la tension entre préservation et usage.",
     "category": "Culture",
@@ -96844,6 +96807,19 @@
     "featured": false,
     "date": "2026-03-31",
     "path": "fr/Society/taiwan-provincial-tensions.md",
+    "lang": "fr",
+    "categorySlug": "society"
+  },
+  {
+    "title": "Les têtes de réseau d'eau : Taïwan a transformé l'eau potable en une infrastructure urbaine visible",
+    "description": "Avant que l'eau ne jaillisse du robinet, les villes de Taïwan devaient d'abord la pomper vers les tours, la décanter, la désinfecter, puis la laisser s'écouler par gravité dans les rues et les maisons. Les têtes de réseau d'eau ne racontent pas seulement une histoire d'ingénierie, mais aussi la superposition de la santé publique, de la ville coloniale, des besoins industriels, du pouvoir d'accès à l'eau et de la mémoire locale. De Puzihu à Beigang, en passant par Huwei et Taipei, ces châteaux d'eau montrent comment l'eau potable a été construite collectivement.",
+    "category": "Society",
+    "tags": [],
+    "url": "https://taiwan.md/fr/society/shuidaotou-waterworks",
+    "readingTime": 10,
+    "featured": false,
+    "date": "2026-08-16",
+    "path": "fr/Society/shuidaotou-waterworks.md",
     "lang": "fr",
     "categorySlug": "society"
   },
@@ -103837,6 +103813,24 @@
     "categorySlug": "history"
   },
   {
+    "title": "Menara Air: Taiwan Membangun Air Bersih Menjadi Sebuah Kota yang Terlihat",
+    "description": "Sebelum air keluar dari keran, kota-kota di Taiwan harus terlebih dahulu memompa air ke menara, mengendapkannya, mendisinfeksikannya, lalu membiarkannya mengalir melalui gravitasi ke rumah-rumah. Menara air mencatat tidak hanya sejarah teknik, tetapi juga bentuk tumpang tindih kesehatan masyarakat, kota kolonial, kebutuhan industri, kekuasaan akses air, dan kenangan lokal. Dari Puzi, Huwei, Beigang ke Taipei, menara air ini memungkinkan orang melihat bagaimana air bersih dibangun bersama.",
+    "category": "Society",
+    "tags": [
+      "Infrastruktur",
+      "Kesehatan Masyarakat",
+      "Arsitektur",
+      "Aset Budaya"
+    ],
+    "url": "https://taiwan.md/id/society/shuidaotou-waterworks",
+    "readingTime": 10,
+    "featured": false,
+    "date": "2026-08-16",
+    "path": "id/Society/shuidaotou-waterworks.md",
+    "lang": "id",
+    "categorySlug": "society"
+  },
+  {
     "title": "Mengajar untuk Taiwan: Seorang Mahasiswi Princeton Pulang ke Negeri, Meyakinkan Empat Ratus Muda Masuk ke Kelas Terpencil",
     "description": "Pada 2014, Liu An-ting memulai dengan dua ribu yuan dan sembilan orang. Sebelas tahun kemudian, lebih dari empat ratus guru TFT masuk ke sekolah dasar paling terpencil Taiwan, mendampingi lebih dari tujuh ribu anak yang dilupakan sistem. Ini bukan kisah inspiratif amal pendidikan—ini perdebatan berkelanjutan tentang \"siapa yang bertanggung jawab atas ketidakadilan\".",
     "category": "Society",
@@ -104567,6 +104561,19 @@
     "path": "en/Food/mingjian-puchung-tea.md",
     "lang": "en",
     "categorySlug": "food"
+  },
+  {
+    "title": "Mingrihao KA Taiwan: Dari Bencana Estetika Perkeretaapian ke Istana Bintang Lima Bergerak",
+    "description": "Berawal dari transformasi masalah kronis Ju Guang Hao yang berusia 70 tahun, bagaimana Bai Cheng Design dan Lion Travel dengan konsep 'Angin Musim Gugur' memperkenalkan cat hitam-oranye mewah namun tenang serta estetika pengurangan ke perkeretaapian Taiwan, dan lebih lanjut melahirkan restoran bergerak 'Mingri Kitchen' yang memenangkan Penghargaan Emas iF Jerman, mendefinisikan ulang perjalanan kereta api mewah Taiwan.",
+    "category": "Lifestyle",
+    "tags": [],
+    "url": "https://taiwan.md/id/lifestyle/tra-mingri-express",
+    "readingTime": 28,
+    "featured": false,
+    "date": "2026-08-17",
+    "path": "id/Lifestyle/tra-mingri-express.md",
+    "lang": "id",
+    "categorySlug": "lifestyle"
   },
   {
     "title": "Minh bạch tài chính chính trị: Nền tảng Viện Kiểm sát, Hình ảnh hoá g0v, 22 năm xây dựng cơ sở hạ tầng công khai",
@@ -113600,19 +113607,6 @@
     "categorySlug": "technology"
   },
   {
-    "title": "Penghargaan Musik Golden Melody: Taiwan memberi penghargaan untuk musik sendiri, dan tiga puluh lima tahun momen yang tak terlupakan",
-    "description": "Di tahun 2024, di dalam gedung besar, musik indie Cao Dong kembali menakjubkan, penghubung mewakili, seluruh penonton sunyi untuk seorang drum seniman yang telah meninggal. Selama tiga puluh lima tahun, Penghargaan Golden Melody berkembang dari sepucuk surat tangan penulis lagu Cai Qin menjadi sebuah upacara nasional. Ia menjadi saksi rekor Fantasia Zhou Zeyu, serta rekor 14 kali nominasi Hua Chengyu, dan memberikan penghargaan tertinggi kepada penyanyi berbahasa Taiwan, Hakka, dan bahasa pribumi. Ini adalah tempat di mana Taiwan memberi penghargaan untuk musik sendiri, menentukan suara mana yang layak diingat.",
-    "category": "Music",
-    "tags": [],
-    "url": "https://taiwan.md/id/music/pop-music-and-golden-melody-awards",
-    "readingTime": 16,
-    "featured": false,
-    "date": "2026-06-28",
-    "path": "id/Music/pop-music-and-golden-melody-awards.md",
-    "lang": "id",
-    "categorySlug": "music"
-  },
-  {
     "title": "Penghu County: Twice It Said No to Casinos, and Chrysanthemum Island Did Not Choose Poverty",
     "description": "On September 26, 2009, the public vote was cast: 17,359 against, 3,962 for the casino. Seven years later, in 2016, another vote was held, with 81.07% opposing. This offshore island, with an annual rainfall of only 1,000 mm and a registered population of 108,000 but only 80,000 residents, held the nation's first local gambling referendum, and then held it again. In the same waters, in 1604, Shen Yourong forced the Dutch to retreat; in 1622, the Dutch moved from Fengchwei to Tainan; in 1885, French Admiral Courbet died of illness in Magong Harbor. The 17.4-million-year-old basalt columns remain; 89 islands are made of black volcanic rock, and one is of older andesite. In the winter's vegetable stone walls, crops grow in the leeward areas.",
     "category": "Geography",
@@ -116834,6 +116828,19 @@
     "categorySlug": "politics"
   },
   {
+    "title": "Prémio Golden Melody: Taiwan premia a sua própria música e os momentos que se guardam para a vida toda há trinta e cinco anos",
+    "description": "No Taipei Arena em 2024, os No Party for Cao Dong conquistam o topo pela segunda vez, o empresário sobe ao palco em seu nome e a plateia faz silêncio por um baterista que partiu. Há trinta e cinco anos, o Golden Melody nasceu de uma carta manuscrita de Tsai Chin e cresceu até se tornar uma cerimónia de nível nacional, consagrando o \"Fantasy\" de Jay Chou, as 14 nomeações de A-Mei e dando a maior honra a canções em taiwanês, hakka e línguas indígenas. É o lugar onde Taiwan premia a sua própria música e decide que vozes merecem ser lembradas.",
+    "category": "Music",
+    "tags": [],
+    "url": "https://taiwan.md/pt/music/pop-music-and-golden-melody-awards",
+    "readingTime": 16,
+    "featured": false,
+    "date": "2026-06-28",
+    "path": "pt/Music/pop-music-and-golden-melody-awards.md",
+    "lang": "pt",
+    "categorySlug": "music"
+  },
+  {
     "title": "Premios Caballo de Oro: de aceptar solo cine en mandarín a no preguntar la nacionalidad, el cine taiwanés pierde a menudo en casa sin que la puerta vuelva a cerrarse",
     "description": "En 1963, la actriz hongkonesa Ivy Ling Po vino a Taipéi a recoger su premio por interpretar, vestida de hombre, a Liang Shanbo; el jurado, sin decidir entre Mejor Actor y Mejor Actriz, le creó otro premio aparte. Este galardón que en 1962 solo aceptaba cine en mandarín y debía «alinearse con la política nacional» fue ampliando, edición tras edición, quién podía inscribirse: en 1996 entraron las películas de China continental, y desde 2007 incluso las que no son mayoritariamente en chino pueden competir si el director y la mitad de su equipo son de etnia china. Por eso el propio cine taiwanés pierde a menudo en casa el premio a Mejor Película, y la puerta nunca volvió a cerrarse. La 63.ª edición se revela el 22 de noviembre.",
     "category": "Art",
@@ -116860,8 +116867,8 @@
     "categorySlug": "culture"
   },
   {
-    "title": "Premios Golden Melody: Taiwán premia su propia música y los momentos de treinta y cinco años que quedan para toda la vida",
-    "description": "En 2024, en el Taipei Arena, No Party for Cao Dong volvió a consagrarse; su mánager recibió los premios en su nombre, y todo el recinto guardó silencio por una baterista fallecida. En treinta y cinco años, los Premios Golden Melody pasaron de una carta manuscrita de Tsai Chin a una ceremonia de escala nacional: coronaron el Fantasy de Jay Chou, las 14 nominaciones de A-mei, y también otorgaron los máximos honores a canciones en taiwanés, hakka y lenguas indígenas. Es el lugar donde Taiwán premia su propia música y decide qué sonidos merecen ser recordados.",
+    "title": "Premios Golden Melody: Taiwán premia su propia música y los momentos que se recuerdan toda la vida",
+    "description": "En el Taipei Arena 2024, No Party for Cao Dong se corona por segunda vez, el mánager recoge el premio y el público guarda silencio por un baterista fallecido. En treinta y cinco años, los Golden Melody crecieron desde una carta manuscrita de Tsai Chin hasta convertirse en ceremonia nacional, coronaron el *Fantasy* de Jay Chou, las 14 nominaciones de A-mei y dieron el máximo honor a canciones en taiwanés, hakka y lenguas indígenas. Este es el lugar donde Taiwán premia su propia música y decide qué voces merecen ser recordadas.",
     "category": "Music",
     "tags": [],
     "url": "https://taiwan.md/es/music/pop-music-and-golden-melody-awards",
@@ -117699,8 +117706,8 @@
     "categorySlug": "people"
   },
   {
-    "title": "PX Mart : De l'hypermarché social délabré au roi taïwanais de la grande distribution, une reprise spectaculaire",
-    "description": "En 1998, le magnat de l'immobilier **Lin Min-hsiung** reprend 66 « points de vente sociaux » militaires et publics en déclin. Avec une discipline de fer — « 20 % moins cher, 2 % de marge » — il transforme ce réseau en une machine de 1 200 points de vente en 25 ans. Ce n’est pas seulement une révolution du commerce de détail, c’est aussi l’histoire d’un entrepreneur qui a su transformer l’épicerie en une plateforme de vie incontournable pour les Taïwanais.",
+    "title": "PX Mart : de coopérative insalubre au roi de la vente au détail à Taïwan",
+    "description": "En 1998, Lin Min-hsiung reprend 66 centres de services vétustes et les transforme en un empire de 1 200 magasins grâce à une discipline de fer : « 20 % moins cher, 2 % de profit ».",
     "category": "Economy",
     "tags": [],
     "url": "https://taiwan.md/fr/economy/pxmart-supermarket",
@@ -117712,34 +117719,8 @@
     "categorySlug": "economy"
   },
   {
-    "title": "PX Mart: del maloliente centro de bienestar al rey del comercio minorista de Taiwán, una historia de remontada",
-    "description": "En 1998, Lin Min-hsiung tomó las riendas de 66 \"oscuros y malolientes\" centros de bienestar para militares, funcionarios y docentes; con la disciplina de acero de \"20 % más barato, 2 % de margen\", se expandió a 1200 locales en veinticinco años. No es solo una revolución del comercio minorista, sino la leyenda de cómo un magnate de la construcción transformó el supermercado en la plataforma de alta frecuencia de los taiwaneses mediante la lógica de \"ceder beneficios\".",
-    "category": "Economy",
-    "tags": [],
-    "url": "https://taiwan.md/es/economy/pxmart-supermarket",
-    "readingTime": 8,
-    "featured": false,
-    "date": "2026-04-21",
-    "path": "es/Economy/pxmart-supermarket.md",
-    "lang": "es",
-    "categorySlug": "economy"
-  },
-  {
-    "title": "PX Mart: do centro de bem-estar \"escuro e malcheiroso\" ao rei do varejo de Taiwan",
-    "description": "Em 1998, Lin Min-hsiung assumiu 66 \"escuras e malcheirosas\" estações de bem-estar militar, público e docente; com a disciplina de ferro de \"20% mais barato, 2% de lucro\", expandiu para 1.200 lojas em vinte e cinco anos. Não é apenas uma revolução no varejo, mas a lenda de como um magnata da construção usou a lógica de \"repassar a economia\" para transformar o supermercado na plataforma de alta frequência dos taiwaneses.",
-    "category": "Economy",
-    "tags": [],
-    "url": "https://taiwan.md/pt/economy/pxmart-supermarket",
-    "readingTime": 8,
-    "featured": false,
-    "date": "2026-04-21",
-    "path": "pt/Economy/pxmart-supermarket.md",
-    "lang": "pt",
-    "categorySlug": "economy"
-  },
-  {
-    "title": "PX Mart: Kebangkitan dari Koperasi Suram Menjadi Raja Ritel Taiwan",
-    "description": "Pada tahun 1998, Lin Min-hsiung mengambil alih 66 toko koperasi militer dan pegawai negeri yang \"suram\", dan dengan disiplin baja \"murah 20%, laba 2%\", ia memperluasnya hingga 1.200 gerai dalam dua puluh lima tahun. Ini bukan hanya revolusi ritel, tetapi kisah seorang taipan properti mengubah supermarket menjadi platform kehidupan sehari-hari masyarakat Taiwan melalui logika \"memberi keuntungan\".",
+    "title": "PX Mart: Dari Koperasi yang Kumuh Menjadi Raja Ritel Taiwan",
+    "description": "Pada 1998, Lin Min-hsiung mengambil alih 66 pos kesejahteraan yang \"kotor dan bau\". Dengan disiplin baja \"20% lebih murah, 2% margin keuntungan\", ia berekspansi menjadi 1.200 gerai dalam 25 tahun.",
     "category": "Economy",
     "tags": [],
     "url": "https://taiwan.md/id/economy/pxmart-supermarket",
@@ -117751,8 +117732,34 @@
     "categorySlug": "economy"
   },
   {
-    "title": "PX Mart: The Counterattack from a \"Grungy Welfare Store\" to Taiwan''s Retail King",
-    "description": "In 1998, Lin Min-hsiung took over 66 \"grungy welfare stations,\" relying on the iron discipline of \"20% cheaper, 2% profit\" to expand to 1,200 stores within twenty-five years. This was not just a retail revolution, but the legend of how an real estate tycoon turned a supermarket into Taiwan''s high-frequency living platform through a logic of \"giving concessions.\"",
+    "title": "PX Mart: Do centro de bem-estar \"escuro e malcheiroso\" ao rei do varejo de Taiwan — uma reviravolta",
+    "description": "Em 1998, Lin Min-hsiung assumiu 66 estações de bem-estar militar/civil/educacional \"escuras e malcheirosas\" e, com a disciplina de ferro de \"20% mais barato, 2% de lucro\", expandiu para 1.200 lojas em vinte e cinco anos. Não é apenas uma revolução no varejo, mas a lenda de como um magnata da construção usou a lógica de \"repassar a economia\" para transformar supermercados na plataforma de alta frequência dos taiwaneses.",
+    "category": "Economy",
+    "tags": [],
+    "url": "https://taiwan.md/pt/economy/pxmart-supermarket",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-04-21",
+    "path": "pt/Economy/pxmart-supermarket.md",
+    "lang": "pt",
+    "categorySlug": "economy"
+  },
+  {
+    "title": "PX Mart: El contraataque de un centro de bienestar oscuro al rey del sector minorista en Taiwán",
+    "description": "En 1998, Lin Min-hsiung tomó el mando de 66 centros de bienestar \"sucios y oscuros\". Con una disciplina férrea de \"20% más barato, 2% de beneficio\", expandió la cadena a 1.200 tiendas en 25 años.",
+    "category": "Economy",
+    "tags": [],
+    "url": "https://taiwan.md/es/economy/pxmart-supermarket",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-04-21",
+    "path": "es/Economy/pxmart-supermarket.md",
+    "lang": "es",
+    "categorySlug": "economy"
+  },
+  {
+    "title": "PX Mart: From a Dingy Welfare Co-op to Taiwan's Retail King — A Counterattack",
+    "description": "In 1998, Lin Min-hsiung took over 66 \"dingy and foul-smelling\" military/civil servant/teacher welfare stations. With the iron discipline of \"20% cheaper, 2% margin,\" he expanded to 1,200 stores in twenty-five years. This was not just a retail revolution, but the legend of how a construction tycoon used a \"pass-on-savings\" logic to turn a supermarket into a high-frequency life platform for Taiwan''s people.",
     "category": "Economy",
     "tags": [],
     "url": "https://taiwan.md/en/economy/pxmart-supermarket",
@@ -117764,8 +117771,21 @@
     "categorySlug": "economy"
   },
   {
-    "title": "PX Mart: Vom schmutzigen Sozialkaufhaus zum König des taiwanesischen Einzelhandels",
-    "description": "1998 übernahm Immobilienmogul Lin Min-hsiung 66 „schmutzige“ Militär- und Beamten-Wohlfahrtsgeschäfte und setzte dank „20 % günstiger, 2 % Gewinn“-Regel in 25 Jahren auf 1.200 Filialen um. Das war nicht nur eine Retail-Revolution, sondern die Sage eines Bauunternehmers, der mit „Mehrwert“-Logik aus dem Supermarkt eine tägliche Lebensplattform für Taiwanesen machte.",
+    "title": "PX Mart: Từ trung tâm phúc lợi tồi tàn đến cuộc lội ngược dòng trở thành \"vua bán lẻ\" Đài Loan",
+    "description": "Năm 1998, Lâm Mẫn Hùng (Lin Min-hsiung) tiếp quản 66 trạm phúc lợi quân đội và công chức \"tối tăm, hôi hám\". Bằng kỷ luật thép \"rẻ hơn 20%, lợi nhuận 2%\", ông đã mở rộng lên 1.200 cửa hàng trong 25 năm, biến siêu thị thành nền tảng đời sống thiết yếu của người Đài Loan.",
+    "category": "Economy",
+    "tags": [],
+    "url": "https://taiwan.md/vi/economy/pxmart-supermarket",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-04-21",
+    "path": "vi/Economy/pxmart-supermarket.md",
+    "lang": "vi",
+    "categorySlug": "economy"
+  },
+  {
+    "title": "PX Mart: Vom heruntergekommenen Wohlfahrtszentrum zum König des taiwanischen Einzelhandels",
+    "description": "1998 übernahm Lin Min-hsiung 66 „dreckige und stinkende“ Wohlfahrtsstationen für Beamte. Mit der eisernen Disziplin „20 % günstiger, 2 % Gewinn“ expandierte er in 25 Jahren auf 1.200 Filialen.",
     "category": "Economy",
     "tags": [],
     "url": "https://taiwan.md/de/economy/pxmart-supermarket",
@@ -117777,8 +117797,8 @@
     "categorySlug": "economy"
   },
   {
-    "title": "PX Mart: путь от грязных магазинов для льготников до короля розничной торговли Тайваня",
-    "description": "В 1998 году Линь Миньсюн принял 66 «грязных и запущенных» магазинов для госслужащих. Благодаря железной дисциплине «цены на 20% ниже, прибыль 2%», за 25 лет сеть разрослась до 1200 точек. Это не просто революция в ритейле, а легенда о том, как девелопер с помощью логики «передачи выгоды клиенту» превратил супермаркеты в платформу повседневной жизни тайваньцев.",
+    "title": "PX Mart: от зловонного кооператива к королю тайваньской розничной торговли",
+    "description": "В 1998 году Линь Миньсяо взял под управление 66 «грязных и зловонных» станций социального обеспечения для военных, чиновников и учителей, и благодаря стальной дисциплине «дешевле на 20%, прибыль 2%» расширился до 1200 магазинов за 25 лет. Это не просто розничная революция, но и легенда о том, как магнат стройки логикой «уступки выгод» превратил супермаркет в высокочастотную жизненную платформу тайваньцев.",
     "category": "Economy",
     "tags": [],
     "url": "https://taiwan.md/ru/economy/pxmart-supermarket",
@@ -117790,27 +117810,8 @@
     "categorySlug": "economy"
   },
   {
-    "title": "PX Mart: من محطات رفاهية \"سوداء كريهة\" إلى ملك التجزئة في تايوان — قصة انتفاضة",
-    "description": "في عام 1998، تسلم لين مين شيونغ 66 محطة رفاهية \"سوداء كريهة\" للعسكريين والموظفين العموميين والمعلمين، وبانضباط فولاذي يقوم على \"أرخص بنسبة 20%، هامش ربح 2%\"، توسع إلى 1,200 فرع خلال خمسة وعشرين عامًا. هذا ليس مجرد ثورة تجزئة، بل أسطورة عن كيف حول قطب عقارات سوبرماركت إلى منصة حياة عالية التردد للتايوانيين بمنطق \"التنازل عن الأرباح\".",
-    "category": "Economy",
-    "tags": [
-      "PX Mart",
-      "لين مين شيونغ",
-      "صناعة التجزئة",
-      "بيكس باي",
-      "اقتصاد تايوان"
-    ],
-    "url": "https://taiwan.md/ar/economy/pxmart-supermarket",
-    "readingTime": 8,
-    "featured": false,
-    "date": "2026-04-21",
-    "path": "ar/Economy/pxmart-supermarket.md",
-    "lang": "ar",
-    "categorySlug": "economy"
-  },
-  {
-    "title": "PX Mart: एक गंदी कल्याण केंद्र से ताइवान के रिटेल किंग बनने तक का सफर",
-    "description": "1998 में लिन मिन-श्योंग ने 66 \"गंदे और बदबूदार\" सैन्य एवं सरकारी कल्याण केंद्रों का कार्यभार संभाला। \"20% सस्ता, 2% लाभ\" के कठोर अनुशासन के साथ, उन्होंने 25 वर्षों में 1,200 स्टोर तक विस्तार किया। यह केवल एक रिटेल क्रांति नहीं है, बल्कि एक रियल एस्टेट टाइकून द्वारा \"लाभ साझा करने\" के तर्क से सुपरमार्केट को ताइवान के दैनिक जीवन का प्लेटफॉर्म बनाने की गाथा है।",
+    "title": "PX Mart: एक बदबूदार कल्याण केंद्र से ताइवान के रिटेल किंग बनने तक का सफर",
+    "description": "1998 में लिन मिन-श्योंग ने 66 \"गंदे और बदबूदार\" सैन्य-सरकारी कल्याण केंद्रों का कार्यभार संभाला और \"20% सस्ता, 2% लाभ\" के कड़े अनुशासन के दम पर 25 वर्षों में 1,200 स्टोर तक विस्तार किया।",
     "category": "Economy",
     "tags": [],
     "url": "https://taiwan.md/hi/economy/pxmart-supermarket",
@@ -117822,33 +117823,14 @@
     "categorySlug": "economy"
   },
   {
-    "title": "PX Mart(全聯福利中心): 칙칙한 복지점에서 타이완 소매업의 왕으로 거듭나다",
-    "description": "1998년 린민슝(林敏雄)이 66개 '칙칙하고 지저분한' 군공교 복지점들을 인수한 후, '20% 저렴, 2% 이윤'이라는 강철 같은 규율로 25년 만에 1,200개 매장으로 확장했다. 이는 단순한 소매 혁명이 아니라, 한 건축 거물이 '할인' 논리로 슈퍼마켓을 타이완 국민의 고빈도 생활 플랫폼으로 만든 전설이다.",
-    "category": "Economy",
-    "tags": [
-      "PX Mart",
-      "린민슝",
-      "소매업",
-      "PX Pay(全支付)",
-      "타이완 경제"
-    ],
-    "url": "https://taiwan.md/ko/economy/pxmart-supermarket",
-    "readingTime": 8,
-    "featured": false,
-    "date": "2026-04-21",
-    "path": "ko/Economy/pxmart-supermarket.md",
-    "lang": "ko",
-    "categorySlug": "economy"
-  },
-  {
-    "title": "PX Mart（全聯福利中心）：不評如潮的福利社から台湾小売業の王者への逆襲",
-    "description": "1998年に林敏雄が引き継いだ66軒の「古臭い」軍公教福利販売所は、「20%安く、利益は2%」という鉄の規律により、25年間で1,200店舗まで拡大しました。これは単なる小売革命ではなく、一人のビジネスリーダーがいかにして「利益を還元する」論理を用い、スーパーマーケットを台湾人の生活に密着したプラットフォームへと変貌させたかという伝説です。",
+    "title": "PX Mart（全聯福利中心）：薄利多売の精神で「不衛生な組合」から台湾小売の王者へ",
+    "description": "1998年に林敏雄（リン・ミンシュン）氏が引き継いだ66店舗の「暗くて臭い」福利厚生施設は、「20%安く、利益は2%」という鉄の規律により、25年間で1,200店舗へと拡大した。これは単なる小売革命ではなく、不動産王がいかにして「利益還元」の論理を用い、スーパーを台湾人の生活プラットフォームへと変貌させたかを描く伝説である。",
     "category": "Economy",
     "tags": [
       "PX Mart",
       "林敏雄",
       "小売業",
-      "全支付",
+      "PX Pay Plus",
       "台湾経済"
     ],
     "url": "https://taiwan.md/ja/economy/pxmart-supermarket",
@@ -119376,19 +119358,6 @@
     "path": "pt/History/tungning-kingdom.md",
     "lang": "pt",
     "categorySlug": "history"
-  },
-  {
-    "title": "Reino de las frutas de Taiwán: esta isla cultiva cada fruta como vida y memoria",
-    "description": "Desde la mañana en las colinas de Yujing, los viejos manzanos de Mandau, la subasta de Binhang al amanecer, hasta las abuelas pelando cáscaras, pasando por los escarabajos de lichi y las granjas con trabajadores extranjeros: esta isla subtropical convierte la fruta en una forma de diálogo con la tierra, con generaciones y con el mundo.",
-    "category": "Food",
-    "tags": [],
-    "url": "https://taiwan.md/es/food/taiwan-fruit-kingdom",
-    "readingTime": 16,
-    "featured": true,
-    "date": "2026-07-08",
-    "path": "es/Food/taiwan-fruit-kingdom.md",
-    "lang": "es",
-    "categorySlug": "food"
   },
   {
     "title": "Reino del Banano: Cómo un fruto llevó a Qishan a Tokio y devolvió la globalización al campo",
@@ -123078,19 +123047,6 @@
     "path": "vi/Culture/shopping-design.md",
     "lang": "vi",
     "categorySlug": "culture"
-  },
-  {
-    "title": "Shuidaotou (水道頭) : comment Taïwan a bâti une ville visible autour de l'eau potable",
-    "description": "Avant que l'eau ne jaillisse du robinet, les villes de Taïwan devaient d'abord pomper l'eau dans des tours, la laisser décanter, la désinfecter, puis la laisser s'écouler par gravité vers les rues et les maisons. Le Shuidaotou ne raconte pas seulement une histoire d'ingénierie, c'est aussi la forme superposée de la santé publique, de la ville coloniale, des besoins industriels, du pouvoir d'accès à l'eau et de la mémoire locale. De Puzi, Huwei, Beigang à Taipei, ces tours d'eau montrent comment l'eau potable a été construite collectivement.",
-    "category": "Society",
-    "tags": [],
-    "url": "https://taiwan.md/fr/society/shuidaotou-waterworks",
-    "readingTime": 10,
-    "featured": false,
-    "date": "2026-08-16",
-    "path": "fr/Society/shuidaotou-waterworks.md",
-    "lang": "fr",
-    "categorySlug": "society"
   },
   {
     "title": "Shulin Red Yeast Rice: The Distillery is Gone, but the Microbes Remain in the Sausages",
@@ -129748,19 +129704,6 @@
     "categorySlug": "geography"
   },
   {
-    "title": "Taiwan Railway's Mingrihao: From Railway Aesthetic Disaster to Moving Five-Star Palace",
-    "description": "Starting from the transformation of the 70-year-old Chu-kuang Express''s deep-rooted ailments, how JC. Architecture and Lion Travel introduced the \"autumn wind\" concept, bringing understated luxury black-orange livery and subtractive aesthetics to Taiwan''s railways, and further giving birth to the German iF Gold Award-winning moving restaurant \"Mingri Kitchen,\" redefining high-end railway travel in Taiwan.",
-    "category": "Lifestyle",
-    "tags": [],
-    "url": "https://taiwan.md/en/lifestyle/tra-mingri-express",
-    "readingTime": 27,
-    "featured": false,
-    "date": "2026-08-17",
-    "path": "en/Lifestyle/tra-mingri-express.md",
-    "lang": "en",
-    "categorySlug": "lifestyle"
-  },
-  {
     "title": "Taiwan Railways Bento: Ein Rippchen, das die lange Reise zum gemeinsamen Gedächtnis der Taiwanesen machte",
     "description": "Die Verkaufsstellen von 1914, die Schnellzüge ohne Speisewagen ab 1956, die geräucherten Rippchen ab 1961 und die wiederbelegten Bento-Boxen von 2000: Ein Gericht, das für die Bewegung geschaffen wurde, wurde durch Geschwindigkeit, Haltbarkeit, lokale Geschmäcker und die Hände der Handwerker zum Geschmack der Reise und Heimat für die Taiwanesen.",
     "category": "Food",
@@ -130905,6 +130848,19 @@
     "path": "fr/Society/taiwan-marriage-equality-lgbtq-rights.md",
     "lang": "fr",
     "categorySlug": "society"
+  },
+  {
+    "title": "Taiwán, reino de la fruta: esta isla cultiva cada fruta como vida y memoria",
+    "description": "Desde las mañanas en las laderas de Yujing, los viejos árboles de pomelo de Madou, las subastas al amanecer en Binjiang, las abuelas pelando fruta, hasta los chinches de la lichi y los huertos de trabajadores migrantes extranjeros: esta isla subtropical convierte la fruta en una forma de dialogar con la tierra, con las generaciones y con el mundo.",
+    "category": "Food",
+    "tags": [],
+    "url": "https://taiwan.md/es/food/taiwan-fruit-kingdom",
+    "readingTime": 16,
+    "featured": true,
+    "date": "2026-07-08",
+    "path": "es/Food/taiwan-fruit-kingdom.md",
+    "lang": "es",
+    "categorySlug": "food"
   },
   {
     "title": "Taiwán: 261 años de capital, 400 años de patrimonio histórico, chips del siglo XXI, superpuestos en la misma tierra",
@@ -136475,6 +136431,19 @@
     "categorySlug": "food"
   },
   {
+    "title": "Tàu hỏa Rising Star của Đường sắt Đài Loan: Từ thảm họa thẩm mỹ đến cung điện di động năm sao",
+    "description": "Từ việc cải tạo những khiếm khuyết của dòng tàu Juguang suốt 70 năm, JC. Architecture và Lion Travel đã sử dụng ý tưởng \"Gió mùa thu\", đưa tông màu đen-cam sang trọng cùng triết lý thiết kế tối giản vào đường sắt Đài Loan, khai sinh ra nhà hàng di động \"Rising Star Kitchen\" đạt giải Vàng iF Đức, tái định nghĩa du lịch đường sắt cao cấp tại Đài Loan.",
+    "category": "Lifestyle",
+    "tags": [],
+    "url": "https://taiwan.md/vi/lifestyle/tra-mingri-express",
+    "readingTime": 29,
+    "featured": false,
+    "date": "2026-08-17",
+    "path": "vi/Lifestyle/tra-mingri-express.md",
+    "lang": "vi",
+    "categorySlug": "lifestyle"
+  },
+  {
     "title": "Tàu tàn phá: Trước khi tới Đài Bắc, Đài Loan đã nhận được một khu nghĩa không tên",
     "description": "Năm 1949, tàu Tàu Phong đi từ Thượng Hải về Đài Bắc, chìm ở vùng biển Trùng Sơn; những gì nó để lại không chỉ là thảm họa hàng hải mà còn là câu hỏi về việc người nhập cư đến, ký ức gia đình và kỷ niệm công cộng như thế nào được đặt xuống tại Đài Loan.",
     "category": "History",
@@ -141607,6 +141576,19 @@
     "categorySlug": "culture"
   },
   {
+    "title": "TRA Mingrihao (The Rising Star): From Railway Aesthetic Disaster to Moving Five-Star Palace",
+    "description": "Starting from the transformation of the 70-year-old Chu-kuang Express''s deep-rooted ailments, how JC. Architecture and Lion Travel introduced the \"autumn wind\" concept, bringing understated luxury black-orange livery and subtractive aesthetics to Taiwan''s railways, and further giving birth to the German iF Gold Award-winning moving restaurant \"Mingri Kitchen,\" redefining high-end railway travel in Taiwan.",
+    "category": "Lifestyle",
+    "tags": [],
+    "url": "https://taiwan.md/en/lifestyle/tra-mingri-express",
+    "readingTime": 27,
+    "featured": false,
+    "date": "2026-08-17",
+    "path": "en/Lifestyle/tra-mingri-express.md",
+    "lang": "en",
+    "categorySlug": "lifestyle"
+  },
+  {
     "title": "Trà Puchung tại Nam Chiến: Những anh hùng tên không giúp Đài Loan chiếm 80% thị phần ly rượu vang di động",
     "description": "Năm 2025 tranh cãi nhà khói tại Nam Chiến, ngầm khám phá 80% nguyên liệu chính cho trà sữa Đài Loan đến từ Nam Đảo Nam Chiến. Từ danh vọng 'Tam Phú Trung' thế kỷ 18 đến năm 1975 đổi tên thành 'Trà xanh đồng bão', đất liền chỉ cao 400 mét này đang trải qua một cuộc chiến bảo vệ quyền sống bảo vệ vùng trà.",
     "category": "Food",
@@ -142365,6 +142347,19 @@
     "featured": false,
     "date": "2026-08-20",
     "path": "pt/Lifestyle/taiwan-high-speed-rail.md",
+    "lang": "pt",
+    "categorySlug": "lifestyle"
+  },
+  {
+    "title": "Trem Rising Star da Taiwan Railway: de um desastre estético ferroviário a um salão de cinco estrelas sobre trilhos",
+    "description": "A partir da renovação dos antigos vagões Chu-kuang, como a JC. Architecture e a Lion Travel usaram o conceito \"Vento de Outono\" para introduzir uma estética minimalista e luxuosa em Taiwan, criando a premiada \"Rising Star Kitchen\".",
+    "category": "Lifestyle",
+    "tags": [],
+    "url": "https://taiwan.md/pt/lifestyle/tra-mingri-express",
+    "readingTime": 28,
+    "featured": false,
+    "date": "2026-08-17",
+    "path": "pt/Lifestyle/tra-mingri-express.md",
     "lang": "pt",
     "categorySlug": "lifestyle"
   },
@@ -147781,14 +147776,14 @@
     "categorySlug": "geography"
   },
   {
-    "title": "Wassertürme: Wie Taiwan sauberes Wasser in eine sichtbare Stadt verwandelte",
-    "description": "Bevor Wasser aus dem Hahn fliesst, mussten Taiwans Städte es in Türme pumpen, sedimentieren, desinfizieren und schliesslich per Schwerkraft in die Haushalte leiten. Die Wassertürme dokumentieren nicht nur Ingenieursgeschichte, sondern auch die Überschneidung von öffentlicher Gesundheit, Kolonialstadt, Industriebedarf, Wasseranschluss-Rechten und lokaler Erinnerung. Von Putzu über Huwei und Beigang bis Taipeh zeigen diese Wassertürme, wie sauberes Wasser gemeinsam erbaut wurde.",
+    "title": "Wasserwerksköpfe: Wie Taiwan sauberes Wasser in eine sichtbare Stadt verwandelte",
+    "description": "Bevor Wasser aus dem Hahn fliesst, mussten Taiwans Städte es erst in Türme pumpen, sedimentieren, desinfizieren und dann der Schwerkraft überlassen, in Strassen und Häuser zu fliessen. Wasserwerksköpfe dokumentieren nicht nur Ingenieursgeschichte, sondern die Überlagerung von öffentlicher Gesundheit, Kolonialstadt, Industriebedarf, Wasseranschlussrechten und lokalem Gedächtnis. Von Putzu über Huwei und Beigang bis Taipeh machen diese Wassertürme sichtbar, wie sauberes Wasser gemeinsam gebaut wurde.",
     "category": "Society",
     "tags": [
       "Infrastruktur",
       "öffentliche Gesundheit",
       "Architektur",
-      "Kulturerbe"
+      "Kulturgüter"
     ],
     "url": "https://taiwan.md/de/society/shuidaotou-waterworks",
     "readingTime": 10,
@@ -147904,7 +147899,7 @@
   },
   {
     "title": "Waterworks Heads: How Taiwan Built Clean Water into a Visible City",
-    "description": "Before water flows from the tap, Taiwan's cities had to pump water up into towers, let it settle, disinfect it, and then let gravity carry it into streets and homes. Waterworks heads record not just engineering history, but the overlapping shapes of public health, colonial cities, industrial demand, water-access power, and local memory. From Puzi, Huwei, Beigang to Taipei, these water towers let us see how clean water was collectively built.",
+    "description": "Before water flows from the tap, Taiwan's cities had to pump water up into towers, let it settle, disinfect it, and then let gravity carry it into streets and homes. Waterworks heads record not just engineering history, but the overlapping shape of public health, colonial cities, industrial demand, water-access power, and local memory. From Puzi, Huwei, Beigang to Taipei, these water towers let us see how clean water was collectively built.",
     "category": "Society",
     "tags": [
       "Infrastructure",
@@ -154428,8 +154423,8 @@
     "categorySlug": "history"
   },
   {
-    "title": "Водопроводная головка: Тайвань строит чистую воду в видимый город",
-    "description": "Прежде чем вода потечёт из крана, тайваньские города должны сначала откачать её в башню, отстоять, продезинфицировать, а затем позволить ей под действием силы тяжести течь в дома. История водопроводной головки — это не только история инженерии, но и переплетение общественного здравоохранения, колониальной урбанизации, производственных потребностей, прав на водоснабжение и местной памяти. От Пучжы, Хувэя, Бэйгана до Тайбэя эти водонапорные башни показывают, как чистая вода была построена совместно.",
+    "title": "Водоразводная башня: Тайвань построил видимый город из чистой воды",
+    "description": "Прежде чем вода потечёт из крана, городам Тайваня нужно было поднять её в башни, осадить, обеззаразить и пустить по гравитации в дома. Водоразводные башни фиксируют не только историю инженерии, но и форму, в которой переплетаются общественное здравоохранение, колониальный город, промышленные потребности, право на подключение к воде и местная память. От Пьцзы, Худуэя, Бэйган до Тайбэя эти башни показывают, как чистая вода строилась сообща.",
     "category": "Society",
     "tags": [],
     "url": "https://taiwan.md/ru/society/shuidaotou-waterworks",
@@ -155828,6 +155823,19 @@
     "path": "ru/Society/earthquakes-in-taiwan.md",
     "lang": "ru",
     "categorySlug": "society"
+  },
+  {
+    "title": "Золотой Мелодий: Тайвань награждает свою музыку и те моменты за тридцать пять лет, которые запоминаются навсегда",
+    "description": "В 2024 году в «Маленьком гиганте» группа «Цаодун мэй юй дуй» во второй раз триумфовала, агент получил награду от их имени, весь зал замер в минуте молчания за ушедшего барабанщика. За тридцать пять лет «Золотой Мелодий» выросла из одного рукописного письма Цай Цин в государственную церемонию, короновала «Фантазию» Чжоу Цзэлюня, 14 номинаций Чжан Хуэймэй, а также вручила высшие награды песням на тайваньском, хаккейском и языках коренных народов. Это место, где Тайвань награждает свою музыку и решает, какие голоса заслуживают быть запомненными.",
+    "category": "Music",
+    "tags": [],
+    "url": "https://taiwan.md/ru/music/pop-music-and-golden-melody-awards",
+    "readingTime": 16,
+    "featured": false,
+    "date": "2026-06-28",
+    "path": "ru/Music/pop-music-and-golden-melody-awards.md",
+    "lang": "ru",
+    "categorySlug": "music"
   },
   {
     "title": "Золотой рог: случайность на самолёте и душа китайского пирога в тайваньском круасане",
@@ -157695,6 +157703,19 @@
     "path": "ru/People/lai-ho-father-of-taiwanese-literature.md",
     "lang": "ru",
     "categorySlug": "people"
+  },
+  {
+    "title": "Лапша с угрём в Тайнане: угря в канавах становится меньше, но жар огня у котла передается из поколения в поколение",
+    "description": "В блоге 2013 года упоминалось, что на стене старой закусочной «Шакариба» в Тайнане было написано: «Обжарка угря — 27 секунд». Писатель Юйфу отметил, что братья Ляо обучались мастерству владения ножом у мастера из Фучжоу. Блогер Мао Дае записал: младший сын А-Юань начал продавать жареного угря с отцом в 14 лет, а племянник А-Цзян обучался у третьего дяди в 17. Угря в канавах становится всё меньше, но сила огня, количество соуса и густота подливы по-прежнему зависят от рук нескольких семейств.",
+    "category": "Food",
+    "tags": [],
+    "url": "https://taiwan.md/ru/food/eel-noodles",
+    "readingTime": 14,
+    "featured": false,
+    "date": "2026-07-02",
+    "path": "ru/Food/eel-noodles.md",
+    "lang": "ru",
+    "categorySlug": "food"
   },
   {
     "title": "Ле Жандр: тот, кто заключил договор, и тот, кто предал — один и тот же человек",
@@ -160489,12 +160510,12 @@
     "categorySlug": "geography"
   },
   {
-    "title": "Поезд TRA «Минжихао»: от железнодорожной эстетической катастрофы к движущемуся пятизвездному дворцу",
-    "description": "Начиная с переделки семидесятилетней хронической болезни поездов «Цюгуанхао», как Байчэнь шэжи (JC. Architecture) и Сюньшь люю (Lion Travel) с концепцией «Осенний ветер» ввели в тайваньские железные дороги скромный роскошный чёрно-оранжевый дизайн и эстетику вычитания, а затем породили подвижный ресторан «Минжичуфан», удостоенный немецкой золотой медали iF, переопределив высококлассное железнодорожное путешествие на Тайване.",
+    "title": "Поезд «Минжи» (The Rising Star): от эстетической катастрофы железных дорог до передвижного пятизвездочного зала",
+    "description": "От реновации устаревших вагонов серии «Цзюйгуан» до концепции «Осенний ветер»: как JC. Architecture и Lion Travel внедрили эстетику минимализма и роскошную черно-оранжевую гамму в тайваньские железные дороги, создав проект «Кухня Минжи», отмеченный золотой наградой iF Design Award.",
     "category": "Lifestyle",
     "tags": [],
     "url": "https://taiwan.md/ru/lifestyle/tra-mingri-express",
-    "readingTime": 25,
+    "readingTime": 26,
     "featured": false,
     "date": "2026-08-17",
     "path": "ru/Lifestyle/tra-mingri-express.md",
@@ -160708,19 +160729,6 @@
     "path": "ru/Art/presidential-office-building-taipei.md",
     "lang": "ru",
     "categorySlug": "art"
-  },
-  {
-    "title": "Премия «Золотые мелодии»: Тайвань награждает свою музыку и тридцать пять лет моментов, которые запоминаются навсегда",
-    "description": "В 2024 году на стадионе «Малый стадион» в Тайбэе группа «No Party for Cao Dong» во второй раз triunfировала, награду забирает менеджер, весь зал молчит в память об ушедшем барабанщике. За тридцать пять лет «Золотые мелодии» выросли из одного рукописного письма Цай Цин в государственную церемонию, вручали высшую честь «Фантазии» Чжоу Цзелуня, 14 номинациям Чжан Хуэймэй, а также песням на тайваньском, хакка и языках коренных народов. Это место, где Тайвань награждает свою музыку и решает, какие голоса достойны памяти.",
-    "category": "Music",
-    "tags": [],
-    "url": "https://taiwan.md/ru/music/pop-music-and-golden-melody-awards",
-    "readingTime": 16,
-    "featured": false,
-    "date": "2026-06-28",
-    "path": "ru/Music/pop-music-and-golden-melody-awards.md",
-    "lang": "ru",
-    "categorySlug": "music"
   },
   {
     "title": "Премия Золотой конек: от приема только мандаринских фильмов до игнорирования гражданства — не закрывая двери, даже когда собственные фильмы проигрывают",
@@ -175369,8 +175377,8 @@
     "categorySlug": "art"
   },
   {
-    "title": "جوائز الغولدن ميلودي: تايوان تمنح جوائز لموسيقاها الخاصة، وتلك اللحظات التي لا تُنسى على مدى خمسة وثلاثين عاماً",
-    "description": "في صالة تايبيه أرينا عام 2024، فرقة \"نودونغ\" تفوز للمرة الثانية، والمدير الفني يتسلم الجائزة نيابة عنهم، والصالة بأكملها تصمت حداداً على طبال رحل. على مدى خمسة وثلاثين عاماً، نمت جوائز الغولدن ميلودي من رسالة بخط يد تساي تشين لتصبح حفلاً وطنياً، وتوجت \"فانتسي\" جاي تشو، وترشيحات تشانغ هوي-مي الـ 14، ومنحت أعلى الشرف للأغاني باللهجات التايوانية والهاكا ولغات السكان الأصليين. هذا هو المكان الذي تمنح فيه تايوان جوائز لموسيقاها الخاصة، وتقرر أي الأصوات تستحق أن تُذكر.",
+    "title": "جوائز غوجين (Golden Melody Awards): تايوان تُكرم موسيقاها الخاصة، ولحظات من خمسة وثلاثين عامًا لا تُنسى",
+    "description": "في قاعة \"شياو جودين\" لعام 2024، حققت فرقة \"تساو دونغ ميهوي يو باي\" (No Party for Cao Dong) مجدًا ثانياً؛ تسلم الوكيل الجائزة، وساد الصمت في القاعة ترحمًا على عازفة طبول رحلت. على مدار 35 عامًا، تطورت جوائز غوجين من رسالة مكتوبة بخط اليد من \"تساي تشين\" لتصبح حفلًا وطنيًا؛ توجت ألبومات \"تشو جيه لون\" و\"جانغ هوي مي\"، ومنحت أعلى الأوسمة لأغاني لغات تايوان الأصلية، الهكا، والتايوانية. إنه المكان الذي تُكرم فيه تايوان موسيقاها وتحدد الأصوات التي تستحق الخلود.",
     "category": "Music",
     "tags": [],
     "url": "https://taiwan.md/ar/music/pop-music-and-golden-melody-awards",
@@ -181518,6 +181526,25 @@
     "categorySlug": "lifestyle"
   },
   {
+    "title": "مركز رفاهية PxMart: من مراكز رفاهية متهالكة إلى صعود ملك التجزئة في تايوان",
+    "description": "في عام 1998، تسلم لين مين-شيونغ 66 مركزًا للرفاهية \"مظلمًا ومتهالكًا\" لخدمة العسكريين والموظفين الحكوميين، وبفضل انضباط حديدي شعاره \"خصم 20%، ربح 2%\"، توسع خلال 25 عامًا ليصل إلى 1,200 فرع. ليست هذه مجرد ثورة تجزئة، بل هي أسطورة حول كيف استخدم أحد أباطرة العقارات منطق \"التنازل عن الربح\" لتحويل السوبر ماركت إلى منصة حياة يومية لتايوانيين.",
+    "category": "Economy",
+    "tags": [
+      "PxMart",
+      "لين مين-شيونغ",
+      "قطاع التجزئة",
+      "PXPay Plus",
+      "اقتصاد تايوان"
+    ],
+    "url": "https://taiwan.md/ar/economy/pxmart-supermarket",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-04-21",
+    "path": "ar/Economy/pxmart-supermarket.md",
+    "lang": "ar",
+    "categorySlug": "economy"
+  },
+  {
     "title": "مركز ويووينغ الوطني للفنون والثقافة: كيف تحولت ثكنة عسكرية إلى مسرح بلا أسوار",
     "description": "في عام 1992، أعادت حركة مدنية مصير قاعدة ويووينغ العسكرية في كاوهسيونغ إلى النقاش العام؛ وفي 13 أكتوبر 2018، افتتح المجمع بعد 15 عامًا وتكلفة 107.5 مليار دولار تايواني. تختبئ أربع قاعات عرض تحت سقف يشبه شجرة البنغالية، لكن السؤال الحقيقي الذي تطرحه هذه المنشأة هو: هل يمكن للفن أن يصبح جزءًا من الحياة اليومية في المدينة قبل أن يشتري المرء تذكرة؟",
     "category": "Art",
@@ -185832,6 +185859,19 @@
     "categorySlug": "geography"
   },
   {
+    "title": "गोल्डन कर्ल अवार्ड्स: ताइवान का अपने संगीत के लिए स्वयं को दिया सम्मान, और तीस वर्षों के वे क्षण जिन्हें जीवन भर याद रखा जाएगा",
+    "description": "2024 का शियाओ जुडाओ (Taipei Arena), 'काओ डोंग नो पार्टी' (No Party for Cao Dong) का दोबारा देवत्व प्राप्त करना, मैनेजर द्वारा पुरस्कार स्वीकार करना, और एक दिवंगत ड्रमर के लिए पूरे हॉल का मौन हो जाना। तीस वर्षों में, गोल्डन कर्ल अवार्ड्स त्साई चिन (Tsai Chin) के एक हस्तलिखित पत्र से शुरू होकर एक राष्ट्रीय स्तर के समारोह में बदल गया है; इसने झोउ जे-लुअन (Jay Chou), चांग हुई-मेई (A-mei) जैसे दिग्गजों को ताज पहनाया है, और ताइवानी, हक्का तथा स्वदेशी भाषाओं के गीतों को सर्वोच्च सम्मान दिया है। यह वह स्थान है जहाँ ताइवान अपने संगीत को पुरस्कृत करता है और तय करता है कि कौन सी आवाज़ याद रखने योग्य है।",
+    "category": "Music",
+    "tags": [],
+    "url": "https://taiwan.md/hi/music/pop-music-and-golden-melody-awards",
+    "readingTime": 16,
+    "featured": false,
+    "date": "2026-06-28",
+    "path": "hi/Music/pop-music-and-golden-melody-awards.md",
+    "lang": "hi",
+    "categorySlug": "music"
+  },
+  {
     "title": "गोल्डन बेल अवार्ड्स: तीन चैनलों में सत्रह साल की बारी के बाद, ताइवान हर साल \"हमारे टेलीविज़न\" के लिए एक रेखा खींचता है",
     "description": "22 अक्टूबर 2022 को, चेन या-लान सूट पहनकर सन यात-सेन स्मारक भवन के मंच पर चढ़ीं और गीत-नाट्य के पुरुष पात्र की भूमिका में नाटक श्रेणी सर्वश्रेष्ठ अभिनेता पुरस्कार जीता — सत्तावन साल में पहली महिला विजेता। 1965 में रेडियो प्रसारण के लिए ढाला गया यह घंटा, सत्रह साल तक केवल तीन नामों के बीच घूमता रहा; बाद में सार्वजनिक टेलीविज़न, हक्का नाटक, वियतनामी अभिनेता एक-एक कर सूची में शामिल होते गए। गोल्डन बेल हर साल अभिनय को पुरस्कृत करता है, पर असल में जो खींचा जाता है वह एक रेखा है: कौन ताइवान के टेलीविज़न में गिना जाता है, और कौन अब भी उस रेखा के बाहर है।",
     "category": "Culture",
@@ -185843,19 +185883,6 @@
     "path": "hi/Culture/golden-bell-awards.md",
     "lang": "hi",
     "categorySlug": "culture"
-  },
-  {
-    "title": "गोल्डन मेलोडी अवार्ड्स: जहाँ ताइवान अपने ही संगीत को पुरस्कृत करता है, और पैंतीस साल के वे पल जो ज़िंदगी भर याद रहते हैं",
-    "description": "2024 में ताइपे एरिना में नो पार्टी फॉर काओ दोंग दूसरी बार शिखर पर पहुंचा, पुरस्कार उनके मैनेजर ने लिया, पूरा हॉल एक दिवंगत ड्रमर के लिए मौन हो गया। पैंतीस सालों में गोल्डन मेलोडी अवार्ड्स त्साई चिन की एक हस्तलिखित चिट्ठी से राष्ट्रीय स्तर के समारोह में बदल गया, इसने जे चाउ के एल्बम \"फैंटेसी\" को, आ-मेई के 14 नामांकनों को ताज पहनाया, और ताइवानी, हक्का, मूलनिवासी भाषाओं के गीतों को भी सर्वोच्च सम्मान दिया। यह वह जगह है जहाँ ताइवान अपने ही संगीत को पुरस्कृत करता है, यह तय करता है कि कौन सी आवाज़ याद रखने लायक है।",
-    "category": "Music",
-    "tags": [],
-    "url": "https://taiwan.md/hi/music/pop-music-and-golden-melody-awards",
-    "readingTime": 16,
-    "featured": false,
-    "date": "2026-06-28",
-    "path": "hi/Music/pop-music-and-golden-melody-awards.md",
-    "lang": "hi",
-    "categorySlug": "music"
   },
   {
     "title": "गोल्डन हॉर्स अवार्ड्स: सिर्फ़ मंदारिन फ़िल्मों से लेकर राष्ट्रीयता-निरपेक्ष तक, अपनी ही फ़िल्में अक्सर हारती हैं मगर दरवाज़ा बंद नहीं होता",
@@ -192290,19 +192317,6 @@
     "categorySlug": "geography"
   },
   {
-    "title": "ताइवान रेलवे का 'मिंग-निचो' (鳴日號): रेल सौंदर्यशास्त्र की आपदा से गतिशील पांच सितारा हॉल तक",
-    "description": "सात दशकों पुराने जुगुआंग नंबर के जीर्णोद्धार से शुरू होकर, कैसे बोर्स्टे डिज़ाइन और श्योंगशी टूरिज्म ने \"पतझड़ की हवा\" की अवधारणा का उपयोग करके ताइवान रेलवे में कम-प्रोफ़ाइल लक्जरी काले-नारंगी रंग योजना और घटाव सौंदर्यशास्त्र पेश किया, जिससे गतिशील रेस्तरां ''मिंग-निचो किचन'' का जन्म हुआ, जिसने ताइवान के उच्च स्तरीय रेल पर्यटन को फिर से परिभाषित किया।",
-    "category": "Lifestyle",
-    "tags": [],
-    "url": "https://taiwan.md/hi/lifestyle/tra-mingri-express",
-    "readingTime": 27,
-    "featured": false,
-    "date": "2026-08-17",
-    "path": "hi/Lifestyle/tra-mingri-express.md",
-    "lang": "hi",
-    "categorySlug": "lifestyle"
-  },
-  {
     "title": "ताइवान रेलवे का इतिहास: फेफड़ों की बीमारी वाली रेल, काले सिर वाले और वह वंश जिसने विदेशी नाम खो दिया",
     "description": "एक बदसूरत पटरी जिसे जापानी लोग \"फेफड़ों की बीमारी वाली रेल\" कहते थे, कैसे सौ वर्षों में प्रतिदिन 2 लाख यात्रियों को ले जाने वाली एक उच्च गति धमनी बन गई। लियु मिंगचुआन द्वारा नियुक्त डच-ब्रिटिश इंजीनियरों को बाद में जापानी लोगों ने पुन: प्रशिक्षण के लिए काट दिया; हसेगावा किंसके की मुख्य लाइन का युद्ध के बाद ताइवान रेलवे (TRA) द्वारा नाम और संख्या बदली गई, जिससे हर पीढ़ी पिछली पीढ़ी के रिकॉर्ड को फुटनोट तक धकेल देती है; विदेशी नाम फीका पड़ गए, केवल ताइयुआन के \"हेईथौज़ाई\" और \"हुआचैज़ाई\" बचे, और फिर जुगोंग ज़ीचियांग फुकिंग राजनीतिक नारा बचा, जो अंततः पुयुआमा और तालुकाओ की पीढ़ी में मूल आदिवासी स्थान के नाम से पटरी पर वापस आया।",
     "category": "History",
@@ -192327,6 +192341,19 @@
     "path": "hi/Geography/taiwan-rail-undergrounding.md",
     "lang": "hi",
     "categorySlug": "geography"
+  },
+  {
+    "title": "ताइवान रेलवे की 'मिन्गी हाओ' (The Rising Star): सौंदर्य संबंधी आपदा से चलते-फिरते फाइव-स्टार वैभव तक का सफर",
+    "description": "70 साल पुराने जुगुआंग (Ju-guang) कोच के कायाकल्प से शुरू होकर, जेसी आर्किटेक्चर और लिटिल रेड बस टूरिज्म ने कैसे 'पतझड़ की हवा' की अवधारणा के साथ ताइवान रेलवे में काले और नारंगी रंगों के सूक्ष्म वैभव को पेश किया और जर्मनी के iF गोल्ड अवार्ड विजेता 'मिन्गी किचन' (The Moving Kitchen) का निर्माण कर प्रीमियम रेल पर्यटन को पुनरिभाषित किया।",
+    "category": "Lifestyle",
+    "tags": [],
+    "url": "https://taiwan.md/hi/lifestyle/tra-mingri-express",
+    "readingTime": 27,
+    "featured": false,
+    "date": "2026-08-17",
+    "path": "hi/Lifestyle/tra-mingri-express.md",
+    "lang": "hi",
+    "categorySlug": "lifestyle"
   },
   {
     "title": "ताइवान रेलवे बेंटो: एक पसली का टुकड़ा, कैसे लंबी यात्रा को ताइवानी लोगों की साझी स्मृति में बदल दिया",
@@ -193876,6 +193903,19 @@
     "path": "hi/Society/taiwan-tv-content-rating-system.md",
     "lang": "hi",
     "categorySlug": "society"
+  },
+  {
+    "title": "पर्यटन उद्योग: 1.89 करोड़ विदेश-यात्राएं, 85.7 लाख आगमन पर्यटक",
+    "description": "2025 में ताइवानी नागरिकों की 1,89,44,436 (1.89 करोड़) विदेश यात्राएं हुईं, जबकि ताइवान आने वाले पर्यटक 85,74,547 (85.75 लाख) रहे; विदेश यात्राएं आगमन पर्यटकों से 2.21 गुना अधिक हैं। आगमन स्रोत में जापान 14.83 लाख सबसे आगे, इसके बाद हांगकांग-मकाउ 13.10 लाख और दक्षिण कोरिया 10.17 लाख। आगमन पर्यटकों का औसत दैनिक खर्च US$185.14, औसत ठहराव 6.95 रातें, वार्षिक आगमन पर्यटन खर्च NT$343.9 अरब; घरेलू पर्यटन 24.8 करोड़ यात्राएं, कुल खर्च US$18.106 अरब, समग्र पर्यटन आय US$29.139 अरब जो GDP का 3.16% है। विदेश यात्रा के गंतव्यों में जापान 67.31 लाख यात्राओं के साथ सबसे आगे, इसके बाद चीन मुख्यभूमि 32.38 लाख और दक्षिण कोरिया 18.35 लाख। यह लेख पर्यटन प्रशासन की 2025 वार्षिक रिपोर्ट से तीन आंकड़ों के समूह को अलग करता है।",
+    "category": "Economy",
+    "tags": [],
+    "url": "https://taiwan.md/hi/economy/tourism-industry",
+    "readingTime": 11,
+    "featured": false,
+    "date": "2026-11-11",
+    "path": "hi/Economy/tourism-industry.md",
+    "lang": "hi",
+    "categorySlug": "economy"
   },
   {
     "title": "पर्यटन बसें: ताइवान के लोगों को पहाड़ों और समुद्रों तक ले जाने वाले ये लोहे के बक्से पिछले साठ वर्षों से चल रहे हैं, लेकिन इनमें दुर्घटनाएं क्यों होती रहती हैं?",
@@ -200869,8 +200909,8 @@
     "categorySlug": "technology"
   },
   {
-    "title": "금곡장: 타이완이 자기 음악에 상을 주고, 35년 동안 평생 기억될 순간들",
-    "description": "2024년 타이베이 아레나에서 차오둥메이유파이두이는 두 번째로 정상에 올랐고, 매니저가 대리 수상했으며, 장내는 세상을 떠난 한 드러머를 위해 침묵했다. 35년 동안 금곡장은 차이친의 손편지 한 통에서 국가급 시상식으로 성장했고, 저우제룬의 판터시, 장후이메이의 14회 후보 지명에 왕관을 씌웠으며, 타이완어, 하카어, 원주민어 노래에도 최고 영예를 안겼다. 이곳은 타이완이 자기 음악에 상을 주고, 어떤 소리가 기억될 가치가 있는지를 결정하는 자리이다.",
+    "title": "금곡장: 타이완이 스스로의 음악에 수여하는 상, 그리고 35년간 평생 기억될 순간들",
+    "description": "2024년 타이베이 시드니(小巨蛋), 츠둥마이파티(草東沒有派對)의 두 번째 신화와 매니저의 대리 수상, 그리고 세상을 떠난 드러머를 위한 침묵. 35년간 차이쥔(蔡琴)의 편지 한 통에서 시작해 국가급 시상식으로 성장한 금곡장은 저우제룬(周杰倫), 장후이메이(張惠妹) 등 거장들을 배출하고 타이완어, 객가어, 원주민어의 가치를 높여왔다. 이곳은 타이완이 스스로의 음악에 상을 주고, 어떤 목소리가 기억될 가치가 있는지 결정하는 곳이다.",
     "category": "Music",
     "tags": [],
     "url": "https://taiwan.md/ko/music/pop-music-and-golden-melody-awards",
@@ -210116,6 +210156,25 @@
     "categorySlug": "society"
   },
   {
+    "title": "전련복리중심: '흑취 복리사'에서 타이완 소매업 왕으로의 역습",
+    "description": "1998년 린민슝(林敏雄)이 '흑흑 취취'한 66개 군공교 복리점을 인수해 '20% 더 싸게, 이익 2%'라는 강철 같은 규율로 25년 만에 1,200개 점포로 확장했다. 이는 단순한 소매 혁명을 넘어, 한 건설 재벌이 '이익 환원' 논리로 슈퍼마켓을 타이완인의 고빈도 생활 플랫폼으로 탈바꿈시킨 전설이다.",
+    "category": "Economy",
+    "tags": [
+      "전련",
+      "린민슝",
+      "소매업",
+      "전즈푸",
+      "타이완 경제"
+    ],
+    "url": "https://taiwan.md/ko/economy/pxmart-supermarket",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-04-21",
+    "path": "ko/Economy/pxmart-supermarket.md",
+    "lang": "ko",
+    "categorySlug": "economy"
+  },
+  {
     "title": "전륜병(車輪餅) : 일제강점기 「이마가와야키(今川燒)」에서 만단(萬丹) 팥으로 이어진 대만 정체성의 궤적",
     "description": "2026년 일어난 「팥빵(紅豆餅) 논쟁」이 언어 정체성 갈등을 촉발했다. 에도시대에 기원을 두고 일제강점기에 전래된 고급 간식이 1960년대 핑둥(屏東) 만단에서 팥 재배에 성공한 후, 「이마가와야키」에서 대만 거리에서 가장 서민적인 동전 간식으로 거듭나기까지의 여정을 조명한다.",
     "category": "Food",
@@ -214273,12 +214332,12 @@
     "categorySlug": "nature"
   },
   {
-    "title": "타이완 철도 명일호: 철도 미학의 재앙에서 이동하는 5성 전당으로",
-    "description": "70년 거광호의 고질적 병폐를 개조하는 것에서 출발해, 백성설계와 웅사여행이 '가을바람'을 컨셉으로 절제된 사치의 흑주황 도장과 감법 미학을 타이완 철도에 도입하고, 나아가 독일 iF 금상 수상 이동식 레스토랑 '명일주방'을 탄생시켜 타이완 고급 철도 여행을 재정의하다.",
+    "title": "타이완 철도 명일호: 철도 미학의 재난에서 이동하는 5성 전당으로",
+    "description": "70년 거광호(莒光號)의 고질적 병폐를 개조하는 것에서 시작해, 백성설계(柏成設計)와 웅사여행(雄獅旅遊)이 '가을의 바람'을 컨셉으로 어떻게 절제된 럭셔리의 흑주황 색상 도장과 감산 미학을 타이완 철도에 도입했으며, 나아가 독일 iF 금상을 수상한 이동식 레스토랑 '명일주방(鳴日廚房)'을 탄생시켜 타이완 고급 철도 여행을 재정의했는지 다룬다.",
     "category": "Lifestyle",
     "tags": [],
     "url": "https://taiwan.md/ko/lifestyle/tra-mingri-express",
-    "readingTime": 14,
+    "readingTime": 15,
     "featured": false,
     "date": "2026-08-17",
     "path": "ko/Lifestyle/tra-mingri-express.md",

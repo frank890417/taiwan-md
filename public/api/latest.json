@@ -1,8 +1,44 @@
 {
-  "_generated": "2026-11-21T22:06:51.124Z",
+  "_generated": "2026-11-22T22:06:47.242Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
+      {
+        "title": "金曲獎：台灣替自己的音樂頒獎，和三十五年來那些記一輩子的時刻",
+        "desc": "2024 年小巨蛋，草東二度封神，經紀人代領，全場為一個離世的鼓手靜默。三十五年來，金曲獎從蔡琴一封手寫信長成國家級典禮，加冕過周杰倫的范特西、張惠妹的入圍 14 次，也把最高榮譽給了台語、客語、原住民語的歌。這是台灣替自己的音樂頒獎、決定什麼聲音值得被記住的地方。",
+        "category": "music",
+        "href": "/music/%E9%87%91%E6%9B%B2%E7%8D%8E",
+        "date": "2026-11-21T22:58:41+08:00",
+        "readingTime": 16,
+        "image": "/article-images/music/golden-melody-awards-2021.webp"
+      },
+      {
+        "title": "水道頭：台灣把乾淨的水，蓋成一座看得見的城市",
+        "desc": "在水龍頭出水以前，台灣的城市必須先把水抽上塔、沉澱、消毒，再讓它靠重力走進街屋。水道頭記錄的不只是工程史，也是公共衛生、殖民城市、產業需求、接水權力與地方記憶交疊的形狀。從朴子、虎尾、北港到臺北，這些水塔讓人看見乾淨的水如何被共同建造。",
+        "category": "society",
+        "href": "/society/%E6%B0%B4%E9%81%93%E9%A0%AD",
+        "date": "2026-11-21T22:58:41+08:00",
+        "readingTime": 10,
+        "image": "/article-images/society/water-tower-puzih-official.webp"
+      },
+      {
+        "title": "全聯福利中心：從黑臭福利社到台灣零售之王的逆襲",
+        "desc": "1998 年林敏雄接手 66 家「黑黑臭臭」的軍公教福利站，靠著「便宜 20%、利潤 2%」的鋼鐵紀律，在二十五年內擴張至 1,200 家門市。這不只是一場零售革命，更是一個建築大亨如何用「讓利」邏輯，將超市變成台灣人高頻生活平台的傳奇。",
+        "category": "economy",
+        "href": "/economy/%E5%85%A8%E8%81%AF%E7%A6%8F%E5%88%A9%E4%B8%AD%E5%BF%83",
+        "date": "2026-11-21T22:58:41+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "台鐵鳴日號：從鐵道美學災難到移動的五星殿堂",
+        "desc": "從七十年莒光號的沉痾改造出發，柏成設計與雄獅旅遊如何以「秋天的風」為概念，將低調奢華的黑橘色塗裝與減法美學導入台灣鐵道，並進一步催生榮獲德國 iF 金質獎的移動餐廳「鳴日廚房」，重新定義台灣高端鐵道旅遊。",
+        "category": "lifestyle",
+        "href": "/lifestyle/%E5%8F%B0%E9%90%B5%E9%B3%B4%E6%97%A5%E8%99%9F",
+        "date": "2026-11-21T22:58:41+08:00",
+        "readingTime": null,
+        "image": ""
+      },
       {
         "title": "張峻：從光復鄉議員到花蓮議長，地方權力與個人爭議交會的政治路徑",
         "desc": "花蓮縣議長張峻的政治路徑，從光復鄉出身、四屆縣議員與兩屆議長，到 2022 年退黨及 2026 年縣長參選，以公開職務記錄、司法程序、選戰攻防、政策主張與各方回應為主軸，區分可確認事實、案件程序及未經證實的競選說法。資料更新至 2026 年 11 月 20 日，避免把選戰指控與司法判決混為一談。",
@@ -236,42 +272,6 @@
         "date": "2026-11-16T22:01:26+08:00",
         "readingTime": 9,
         "image": ""
-      },
-      {
-        "title": "自付差額特材：兩類超過七成，與那條從 70.5% 掉到 9.2% 的曲線",
-        "desc": "113 年健保自付差額特材整體申報占率 0.0569%，三年來微幅上升；10 大類中有 4 類逐年上升，冠狀動脈塗藥支架 73.1%、髓內釘組 79.3%，兩類已超過七成。腦脊髓液分流系統在 111 年納入全額給付後，從 70.5% 掉到 9.2%。健保會要求占比逾五成且上升者啟動評估，髓內釘轉全額的財務推估約 4.5 億元。這篇拆開自付差額的制度與那條下降曲線，並比較十類特材的分布。",
-        "category": "lifestyle",
-        "href": "/lifestyle/%E8%87%AA%E4%BB%98%E5%B7%AE%E9%A1%8D%E7%89%B9%E6%9D%90",
-        "date": "2026-11-16T22:01:23+08:00",
-        "readingTime": 10,
-        "image": ""
-      },
-      {
-        "title": "技職教育：近五年少了 11.5 萬人，高中職比來到 1 比 1",
-        "desc": "近 5 年（107 到 112 學年），高中選讀技職群別的學生減少約 11.5 萬人（-38.09%），高中職比來到 49.56% 比 50.44%；技專校院學生同期減少 19.48%，專業群科畢業生升學率則達 82.64%。監察院調查報告推估，高一學生數將從 102 學年 30.2 萬降到 128 學年 14.9 萬，並直指專案輔導學校以技職占多數、證能合一未落實；技職教育法則自 104 年施行。這篇拆開技職體系的縮減、升學化與政策清單。",
-        "category": "society",
-        "href": "/society/%E6%8A%80%E8%81%B7%E6%95%99%E8%82%B2",
-        "date": "2026-11-16T22:01:05+08:00",
-        "readingTime": 11,
-        "image": ""
-      },
-      {
-        "title": "醫療滿意度：醫院停在 94.1%，不滿意度卻從 1.6% 走到 3.1%",
-        "desc": "113 年民眾對醫院醫療結果的滿意度是 94.1%，與 111、112 年完全相同；西醫基層從 94.2% 升到 96.4%，牙醫 96.3%、中醫 95.3%。但醫院的不滿意度從 1.6% 升到 3.1%，理由以醫師技術、看診草率、病情講解不詳細居多。調查有效樣本醫院 2,075 份、抽樣誤差約 ±3 個百分點，且 106 年起改問就醫經驗。這篇用健保會監理指標拆開四部門（醫院、西醫基層、牙醫、中醫）的滿意度差異與方法限制。",
-        "category": "lifestyle",
-        "href": "/lifestyle/%E9%86%AB%E7%99%82%E6%BB%BF%E6%84%8F%E5%BA%A6",
-        "date": "2026-11-16T22:00:54+08:00",
-        "readingTime": 9,
-        "image": ""
-      },
-      {
-        "title": "偏鄉醫療：都市與偏鄉的醫師比，總計九倍、醫院部門八十三倍",
-        "desc": "113 年健保會監理指標顯示，都市化程度最高與最低兩組鄉鎮的醫師人力比是 8.94 倍；醫院部門 82.95 倍，每萬人口醫師數分別是 21.93 人與 0.26 人。就醫率則是另一回事：醫院與西醫基層在山地離島反而最高，牙醫與中醫卻明顯偏低。這篇用官方指標拆開醫師分布與就醫可近性。",
-        "category": "lifestyle",
-        "href": "/lifestyle/%E5%81%8F%E9%84%89%E9%86%AB%E7%99%82",
-        "date": "2026-11-16T22:00:53+08:00",
-        "readingTime": 10,
-        "image": ""
       }
     ],
     "en": [
@@ -483,8 +483,8 @@
         "image": ""
       },
       {
-        "title": "PX Mart: The Counterattack from a \"Grungy Welfare Store\" to Taiwan's Retail King",
-        "desc": "In 1998, Lin Min-hsiung took over 66 \"grungy welfare stations,\" relying on the iron discipline of \"20% cheaper, 2% profit\" to expand to 1,200 stores within twenty-five years. This was not just a retail revolution, but the legend of how an real estate tycoon turned a supermarket into Taiwan's high-frequency living platform through a logic of \"giving concessions.\"",
+        "title": "PX Mart: From a Dingy Welfare Co-op to Taiwan's Retail King — A Counterattack",
+        "desc": "In 1998, Lin Min-hsiung took over 66 \"dingy and foul-smelling\" military/civil servant/teacher welfare stations. With the iron discipline of \"20% cheaper, 2% margin,\" he expanded to 1,200 stores in twenty-five years. This was not just a retail revolution, but the legend of how a construction tycoon used a \"pass-on-savings\" logic to turn a supermarket into a high-frequency life platform for Taiwan's people.",
         "category": "economy",
         "href": "/en/economy/pxmart-supermarket",
         "date": "2026-11-04T08:27:45+08:00",
@@ -919,8 +919,8 @@
         "image": ""
       },
       {
-        "title": "PX Mart(全聯福利中心): 칙칙한 복지점에서 타이완 소매업의 왕으로 거듭나다",
-        "desc": "1998년 린민슝(林敏雄)이 66개 '칙칙하고 지저분한' 군공교 복지점들을 인수한 후, '20% 저렴, 2% 이윤'이라는 강철 같은 규율로 25년 만에 1,200개 매장으로 확장했다. 이는 단순한 소매 혁명이 아니라, 한 건축 거물이 '할인' 논리로 슈퍼마켓을 타이완 국민의 고빈도 생활 플랫폼으로 만든 전설이다.",
+        "title": "전련복리중심: '흑취 복리사'에서 타이완 소매업 왕으로의 역습",
+        "desc": "1998년 린민슝(林敏雄)이 '흑흑 취취'한 66개 군공교 복리점을 인수해 '20% 더 싸게, 이익 2%'라는 강철 같은 규율로 25년 만에 1,200개 점포로 확장했다. 이는 단순한 소매 혁명을 넘어, 한 건설 재벌이 '이익 환원' 논리로 슈퍼마켓을 타이완인의 고빈도 생활 플랫폼으로 탈바꿈시킨 전설이다.",
         "category": "economy",
         "href": "/ko/economy/pxmart-supermarket",
         "date": "2026-11-04T08:27:45+08:00",
@@ -1508,8 +1508,8 @@
         "image": ""
       },
       {
-        "title": "PX Mart : De l'hypermarché social délabré au roi taïwanais de la grande distribution, une reprise spectaculaire",
-        "desc": "En 1998, le magnat de l'immobilier **Lin Min-hsiung** reprend 66 « points de vente sociaux » militaires et publics en déclin. Avec une discipline de fer — « 20 % moins cher, 2 % de marge » — il transforme ce réseau en une machine de 1 200 points de vente en 25 ans. Ce n’est pas seulement une révolution du commerce de détail, c’est aussi l’histoire d’un entrepreneur qui a su transformer l’épicerie en une plateforme de vie incontournable pour les Taïwanais.",
+        "title": "PX Mart : de coopérative insalubre au roi de la vente au détail à Taïwan",
+        "desc": "En 1998, Lin Min-hsiung reprend 66 centres de services vétustes et les transforme en un empire de 1 200 magasins grâce à une discipline de fer : « 20 % moins cher, 2 % de profit ».",
         "category": "economy",
         "href": "/fr/economy/pxmart-supermarket",
         "date": "2026-11-04T08:27:45+08:00",
@@ -1735,8 +1735,8 @@
         "image": ""
       },
       {
-        "title": "Chuỗi siêu thị PX Mart: Cuộc phục hưng từ cửa hàng phúc lợi \"xấu xí\" đến ông trùm bán lẻ Đài Loan",
-        "desc": "Năm 1998, Lâm Mẫn Hùng tiếp quản 66 cơ sở cung cấp phúc lợi quân đội và giáo dục vốn bị thua lỗ triền miên. Với kỷ luật sắt đá \"giá rẻ 20%, lợi nhuận 2%\", ông đã mở rộng lên 1.200 cửa hàng trong hai mươi lăm năm. Đây không chỉ là một cuộc cách mạng bán lẻ, mà còn là câu chuyện về cách một đại gia bất động sản biến siêu thị thành nền tảng sinh hoạt tần suất cao của người dân Đài Loan bằng logic \"giảm giá\".",
+        "title": "PX Mart: Từ trung tâm phúc lợi tồi tàn đến cuộc lội ngược dòng trở thành \"vua bán lẻ\" Đài Loan",
+        "desc": "Năm 1998, Lâm Mẫn Hùng (Lin Min-hsiung) tiếp quản 66 trạm phúc lợi quân đội và công chức \"tối tăm, hôi hám\". Bằng kỷ luật thép \"rẻ hơn 20%, lợi nhuận 2%\", ông đã mở rộng lên 1.200 cửa hàng trong 25 năm, biến siêu thị thành nền tảng đời sống thiết yếu của người Đài Loan.",
         "category": "economy",
         "href": "/vi/economy/pxmart-supermarket",
         "date": "2026-11-04T08:27:45+08:00",
@@ -2007,8 +2007,8 @@
         "image": ""
       },
       {
-        "title": "PX Mart: Kebangkitan dari Koperasi Suram Menjadi Raja Ritel Taiwan",
-        "desc": "Pada tahun 1998, Lin Min-hsiung mengambil alih 66 toko koperasi militer dan pegawai negeri yang \"suram\", dan dengan disiplin baja \"murah 20%, laba 2%\", ia memperluasnya hingga 1.200 gerai dalam dua puluh lima tahun. Ini bukan hanya revolusi ritel, tetapi kisah seorang taipan properti mengubah supermarket menjadi platform kehidupan sehari-hari masyarakat Taiwan melalui logika \"memberi keuntungan\".",
+        "title": "PX Mart: Dari Koperasi yang Kumuh Menjadi Raja Ritel Taiwan",
+        "desc": "Pada 1998, Lin Min-hsiung mengambil alih 66 pos kesejahteraan yang \"kotor dan bau\". Dengan disiplin baja \"20% lebih murah, 2% margin keuntungan\", ia berekspansi menjadi 1.200 gerai dalam 25 tahun.",
         "category": "economy",
         "href": "/id/economy/pxmart-supermarket",
         "date": "2026-11-04T08:27:45+08:00",
@@ -2270,8 +2270,8 @@
         "image": ""
       },
       {
-        "title": "PX Mart: do centro de bem-estar \"escuro e malcheiroso\" ao rei do varejo de Taiwan",
-        "desc": "Em 1998, Lin Min-hsiung assumiu 66 \"escuras e malcheirosas\" estações de bem-estar militar, público e docente; com a disciplina de ferro de \"20% mais barato, 2% de lucro\", expandiu para 1.200 lojas em vinte e cinco anos. Não é apenas uma revolução no varejo, mas a lenda de como um magnata da construção usou a lógica de \"repassar a economia\" para transformar o supermercado na plataforma de alta frequência dos taiwaneses.",
+        "title": "PX Mart: Do centro de bem-estar \"escuro e malcheiroso\" ao rei do varejo de Taiwan — uma reviravolta",
+        "desc": "Em 1998, Lin Min-hsiung assumiu 66 estações de bem-estar militar/civil/educacional \"escuras e malcheirosas\" e, com a disciplina de ferro de \"20% mais barato, 2% de lucro\", expandiu para 1.200 lojas em vinte e cinco anos. Não é apenas uma revolução no varejo, mas a lenda de como um magnata da construção usou a lógica de \"repassar a economia\" para transformar supermercados na plataforma de alta frequência dos taiwaneses.",
         "category": "economy",
         "href": "/pt/economy/pxmart-supermarket",
         "date": "2026-11-04T08:27:45+08:00",
@@ -2497,8 +2497,8 @@
         "image": ""
       },
       {
-        "title": "PX Mart: एक गंदी कल्याण केंद्र से ताइवान के रिटेल किंग बनने तक का सफर",
-        "desc": "1998 में लिन मिन-श्योंग ने 66 \"गंदे और बदबूदार\" सैन्य एवं सरकारी कल्याण केंद्रों का कार्यभार संभाला। \"20% सस्ता, 2% लाभ\" के कठोर अनुशासन के साथ, उन्होंने 25 वर्षों में 1,200 स्टोर तक विस्तार किया। यह केवल एक रिटेल क्रांति नहीं है, बल्कि एक रियल एस्टेट टाइकून द्वारा \"लाभ साझा करने\" के तर्क से सुपरमार्केट को ताइवान के दैनिक जीवन का प्लेटफॉर्म बनाने की गाथा है।",
+        "title": "PX Mart: एक बदबूदार कल्याण केंद्र से ताइवान के रिटेल किंग बनने तक का सफर",
+        "desc": "1998 में लिन मिन-श्योंग ने 66 \"गंदे और बदबूदार\" सैन्य-सरकारी कल्याण केंद्रों का कार्यभार संभाला और \"20% सस्ता, 2% लाभ\" के कड़े अनुशासन के दम पर 25 वर्षों में 1,200 स्टोर तक विस्तार किया।",
         "category": "economy",
         "href": "/hi/economy/pxmart-supermarket",
         "date": "2026-11-04T08:27:45+08:00",
@@ -2823,8 +2823,8 @@
         "image": ""
       },
       {
-        "title": "PX Mart: من محطات رفاهية \"سوداء كريهة\" إلى ملك التجزئة في تايوان — قصة انتفاضة",
-        "desc": "في عام 1998، تسلم لين مين شيونغ 66 محطة رفاهية \"سوداء كريهة\" للعسكريين والموظفين العموميين والمعلمين، وبانضباط فولاذي يقوم على \"أرخص بنسبة 20%، هامش ربح 2%\"، توسع إلى 1,200 فرع خلال خمسة وعشرين عامًا. هذا ليس مجرد ثورة تجزئة، بل أسطورة عن كيف حول قطب عقارات سوبرماركت إلى منصة حياة عالية التردد للتايوانيين بمنطق \"التنازل عن الأرباح\".",
+        "title": "مركز رفاهية PxMart: من مراكز رفاهية متهالكة إلى صعود ملك التجزئة في تايوان",
+        "desc": "في عام 1998، تسلم لين مين-شيونغ 66 مركزًا للرفاهية \"مظلمًا ومتهالكًا\" لخدمة العسكريين والموظفين الحكوميين، وبفضل انضباط حديدي شعاره \"خصم 20%، ربح 2%\"، توسع خلال 25 عامًا ليصل إلى 1,200 فرع. ليست هذه مجرد ثورة تجزئة، بل هي أسطورة حول كيف استخدم أحد أباطرة العقارات منطق \"التنازل عن الربح\" لتحويل السوبر ماركت إلى منصة حياة يومية لتايوانيين.",
         "category": "economy",
         "href": "/ar/economy/pxmart-supermarket",
         "date": "2026-11-04T08:27:45+08:00",
@@ -3041,8 +3041,8 @@
         "image": ""
       },
       {
-        "title": "PX Mart: путь от грязных магазинов для льготников до короля розничной торговли Тайваня",
-        "desc": "В 1998 году Линь Миньсюн принял 66 «грязных и запущенных» магазинов для госслужащих. Благодаря железной дисциплине «цены на 20% ниже, прибыль 2%», за 25 лет сеть разрослась до 1200 точек. Это не просто революция в ритейле, а легенда о том, как девелопер с помощью логики «передачи выгоды клиенту» превратил супермаркеты в платформу повседневной жизни тайваньцев.",
+        "title": "PX Mart: от зловонного кооператива к королю тайваньской розничной торговли",
+        "desc": "В 1998 году Линь Миньсяо взял под управление 66 «грязных и зловонных» станций социального обеспечения для военных, чиновников и учителей, и благодаря стальной дисциплине «дешевле на 20%, прибыль 2%» расширился до 1200 магазинов за 25 лет. Это не просто розничная революция, но и легенда о том, как магнат стройки логикой «уступки выгод» превратил супермаркет в высокочастотную жизненную платформу тайваньцев.",
         "category": "economy",
         "href": "/ru/economy/pxmart-supermarket",
         "date": "2026-11-04T08:27:45+08:00",
@@ -3322,8 +3322,8 @@
         "image": ""
       },
       {
-        "title": "PX Mart: Vom schmutzigen Sozialkaufhaus zum König des taiwanesischen Einzelhandels",
-        "desc": "1998 übernahm Immobilienmogul Lin Min-hsiung 66 „schmutzige“ Militär- und Beamten-Wohlfahrtsgeschäfte und setzte dank „20 % günstiger, 2 % Gewinn“-Regel in 25 Jahren auf 1.200 Filialen um. Das war nicht nur eine Retail-Revolution, sondern die Sage eines Bauunternehmers, der mit „Mehrwert“-Logik aus dem Supermarkt eine tägliche Lebensplattform für Taiwanesen machte.",
+        "title": "PX Mart: Vom heruntergekommenen Wohlfahrtszentrum zum König des taiwanischen Einzelhandels",
+        "desc": "1998 übernahm Lin Min-hsiung 66 „dreckige und stinkende“ Wohlfahrtsstationen für Beamte. Mit der eisernen Disziplin „20 % günstiger, 2 % Gewinn“ expandierte er in 25 Jahren auf 1.200 Filialen.",
         "category": "economy",
         "href": "/de/economy/pxmart-supermarket",
         "date": "2026-11-04T08:27:45+08:00",

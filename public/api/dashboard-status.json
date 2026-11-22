@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-21T22:07:30.870Z",
+  "generated_at": "2026-11-22T22:08:13.246Z",
   "routines": {
-    "fetched_at": "2026-11-22T06:07:29+08:00",
+    "fetched_at": "2026-11-23T06:08:11+08:00",
     "stale_hours": 0,
     "items": [
       {
@@ -10,12 +10,8 @@
         "cadence_human": "每天 07:00",
         "enabled": true,
         "status": "operational",
-        "last_fire": "2026-11-21T07:12:52+08:00",
+        "last_fire": "2026-11-22T07:14:02+08:00",
         "grid14": [
-          {
-            "date": "2026-11-09",
-            "state": "missed"
-          },
           {
             "date": "2026-11-10",
             "state": "missed"
@@ -66,6 +62,10 @@
           },
           {
             "date": "2026-11-22",
+            "state": "fired"
+          },
+          {
+            "date": "2026-11-23",
             "state": "idle"
           }
         ]
@@ -76,12 +76,8 @@
         "cadence_human": "每天 00:30",
         "enabled": true,
         "status": "operational",
-        "last_fire": "2026-11-22T00:42:48+08:00",
+        "last_fire": "2026-11-23T00:43:34+08:00",
         "grid14": [
-          {
-            "date": "2026-11-09",
-            "state": "missed"
-          },
           {
             "date": "2026-11-10",
             "state": "missed"
@@ -132,6 +128,10 @@
           },
           {
             "date": "2026-11-22",
+            "state": "fired"
+          },
+          {
+            "date": "2026-11-23",
             "state": "fired"
           }
         ]
@@ -142,12 +142,8 @@
         "cadence_human": "每天 06:00",
         "enabled": true,
         "status": "operational",
-        "last_fire": "2026-11-21T06:03:01+08:00",
+        "last_fire": "2026-11-22T06:03:05+08:00",
         "grid14": [
-          {
-            "date": "2026-11-09",
-            "state": "missed"
-          },
           {
             "date": "2026-11-10",
             "state": "missed"
@@ -198,6 +194,10 @@
           },
           {
             "date": "2026-11-22",
+            "state": "fired"
+          },
+          {
+            "date": "2026-11-23",
             "state": "idle"
           }
         ]
@@ -211,10 +211,6 @@
         "last_fire": "2026-11-22T03:14:22+08:00",
         "grid14": [
           {
-            "date": "2026-11-09",
-            "state": "idle"
-          },
-          {
             "date": "2026-11-10",
             "state": "idle"
           },
@@ -265,6 +261,10 @@
           {
             "date": "2026-11-22",
             "state": "fired"
+          },
+          {
+            "date": "2026-11-23",
+            "state": "idle"
           }
         ]
       },
@@ -274,12 +274,8 @@
         "cadence_human": "每天 05:00",
         "enabled": true,
         "status": "operational",
-        "last_fire": "2026-11-21T05:14:53+08:00",
+        "last_fire": "2026-11-22T05:15:05+08:00",
         "grid14": [
-          {
-            "date": "2026-11-09",
-            "state": "missed"
-          },
           {
             "date": "2026-11-10",
             "state": "missed"
@@ -330,6 +326,10 @@
           },
           {
             "date": "2026-11-22",
+            "state": "fired"
+          },
+          {
+            "date": "2026-11-23",
             "state": "idle"
           }
         ]
@@ -343,10 +343,6 @@
         "last_fire": null,
         "grid14": [
           {
-            "date": "2026-11-09",
-            "state": "idle"
-          },
-          {
             "date": "2026-11-10",
             "state": "idle"
           },
@@ -396,6 +392,10 @@
           },
           {
             "date": "2026-11-22",
+            "state": "idle"
+          },
+          {
+            "date": "2026-11-23",
             "state": "idle"
           }
         ]
@@ -406,12 +406,8 @@
         "cadence_human": "每天 08:30",
         "enabled": true,
         "status": "operational",
-        "last_fire": "2026-11-21T08:59:22+08:00",
+        "last_fire": "2026-11-22T09:09:07+08:00",
         "grid14": [
-          {
-            "date": "2026-11-09",
-            "state": "missed"
-          },
           {
             "date": "2026-11-10",
             "state": "missed"
@@ -462,6 +458,10 @@
           },
           {
             "date": "2026-11-22",
+            "state": "fired"
+          },
+          {
+            "date": "2026-11-23",
             "state": "idle"
           }
         ]
@@ -475,10 +475,6 @@
         "last_fire": "2026-11-22T01:02:22+08:00",
         "grid14": [
           {
-            "date": "2026-11-09",
-            "state": "idle"
-          },
-          {
             "date": "2026-11-10",
             "state": "idle"
           },
@@ -529,6 +525,10 @@
           {
             "date": "2026-11-22",
             "state": "fired"
+          },
+          {
+            "date": "2026-11-23",
+            "state": "idle"
           }
         ]
       },
@@ -541,10 +541,6 @@
         "last_fire": "2026-07-18T19:09:26+08:00",
         "grid14": [
           {
-            "date": "2026-11-09",
-            "state": "missed"
-          },
-          {
             "date": "2026-11-10",
             "state": "missed"
           },
@@ -594,6 +590,10 @@
           },
           {
             "date": "2026-11-22",
+            "state": "missed"
+          },
+          {
+            "date": "2026-11-23",
             "state": "idle"
           }
         ]
@@ -603,13 +603,9 @@
         "cron": "0 21 * * 0",
         "cadence_human": "每週日 21:00",
         "enabled": true,
-        "status": "down",
-        "last_fire": "2026-10-25T21:12:49+08:00",
+        "status": "operational",
+        "last_fire": "2026-11-22T21:07:39+08:00",
         "grid14": [
-          {
-            "date": "2026-11-09",
-            "state": "idle"
-          },
           {
             "date": "2026-11-10",
             "state": "idle"
@@ -660,6 +656,10 @@
           },
           {
             "date": "2026-11-22",
+            "state": "fired"
+          },
+          {
+            "date": "2026-11-23",
             "state": "idle"
           }
         ]
@@ -670,12 +670,8 @@
         "cadence_human": "每天 05:30",
         "enabled": true,
         "status": "operational",
-        "last_fire": "2026-11-22T05:39:14+08:00",
+        "last_fire": "2026-11-23T05:39:40+08:00",
         "grid14": [
-          {
-            "date": "2026-11-09",
-            "state": "missed"
-          },
           {
             "date": "2026-11-10",
             "state": "missed"
@@ -726,6 +722,10 @@
           },
           {
             "date": "2026-11-22",
+            "state": "fired"
+          },
+          {
+            "date": "2026-11-23",
             "state": "fired"
           }
         ]
@@ -739,10 +739,6 @@
         "last_fire": "2026-11-22T04:08:40+08:00",
         "grid14": [
           {
-            "date": "2026-11-09",
-            "state": "idle"
-          },
-          {
             "date": "2026-11-10",
             "state": "idle"
           },
@@ -793,6 +789,10 @@
           {
             "date": "2026-11-22",
             "state": "fired"
+          },
+          {
+            "date": "2026-11-23",
+            "state": "idle"
           }
         ]
       },
@@ -802,12 +802,8 @@
         "cadence_human": "每天 06:30",
         "enabled": true,
         "status": "operational",
-        "last_fire": "2026-11-21T06:41:30+08:00",
+        "last_fire": "2026-11-22T06:41:24+08:00",
         "grid14": [
-          {
-            "date": "2026-11-09",
-            "state": "missed"
-          },
           {
             "date": "2026-11-10",
             "state": "missed"
@@ -858,6 +854,10 @@
           },
           {
             "date": "2026-11-22",
+            "state": "fired"
+          },
+          {
+            "date": "2026-11-23",
             "state": "idle"
           }
         ]
@@ -871,10 +871,6 @@
         "last_fire": "2026-06-14T08:03:52+08:00",
         "grid14": [
           {
-            "date": "2026-11-09",
-            "state": "missed"
-          },
-          {
             "date": "2026-11-10",
             "state": "missed"
           },
@@ -924,6 +920,10 @@
           },
           {
             "date": "2026-11-22",
+            "state": "missed"
+          },
+          {
+            "date": "2026-11-23",
             "state": "idle"
           }
         ]
@@ -937,10 +937,6 @@
         "last_fire": "2026-06-14T17:40:39+08:00",
         "grid14": [
           {
-            "date": "2026-11-09",
-            "state": "missed"
-          },
-          {
             "date": "2026-11-10",
             "state": "missed"
           },
@@ -990,6 +986,10 @@
           },
           {
             "date": "2026-11-22",
+            "state": "missed"
+          },
+          {
+            "date": "2026-11-23",
             "state": "idle"
           }
         ]
@@ -999,13 +999,9 @@
         "cron": "0 1 * * 1",
         "cadence_human": "每週一 01:00",
         "enabled": true,
-        "status": "down",
-        "last_fire": "2026-10-26T01:16:23+08:00",
+        "status": "operational",
+        "last_fire": "2026-11-23T01:15:22+08:00",
         "grid14": [
-          {
-            "date": "2026-11-09",
-            "state": "missed"
-          },
           {
             "date": "2026-11-10",
             "state": "idle"
@@ -1057,6 +1053,10 @@
           {
             "date": "2026-11-22",
             "state": "idle"
+          },
+          {
+            "date": "2026-11-23",
+            "state": "fired"
           }
         ]
       },
@@ -1069,10 +1069,6 @@
         "last_fire": "2026-11-05T11:00:53+08:00",
         "grid14": [
           {
-            "date": "2026-11-09",
-            "state": "idle"
-          },
-          {
             "date": "2026-11-10",
             "state": "idle"
           },
@@ -1122,6 +1118,10 @@
           },
           {
             "date": "2026-11-22",
+            "state": "idle"
+          },
+          {
+            "date": "2026-11-23",
             "state": "idle"
           }
         ]
@@ -1135,10 +1135,6 @@
         "last_fire": "2026-10-25T02:06:42+08:00",
         "grid14": [
           {
-            "date": "2026-11-09",
-            "state": "idle"
-          },
-          {
             "date": "2026-11-10",
             "state": "idle"
           },
@@ -1189,13 +1185,17 @@
           {
             "date": "2026-11-22",
             "state": "missed"
+          },
+          {
+            "date": "2026-11-23",
+            "state": "idle"
           }
         ]
       }
     ]
   },
   "babel": {
-    "snapshot_ts": "2026-11-22T01:10:46+08:00",
+    "snapshot_ts": "2026-11-23T00:48:31+08:00",
     "total_zh": 1193,
     "langs": [
       {
@@ -1207,38 +1207,38 @@
       },
       {
         "lang": "ja",
-        "fresh": 1187,
-        "stale": 6,
+        "fresh": 1186,
+        "stale": 7,
         "missing": 0,
         "coverage_pct": 100
       },
       {
         "lang": "ko",
-        "fresh": 1185,
-        "stale": 8,
-        "missing": 0,
-        "coverage_pct": 100
-      },
-      {
-        "lang": "es",
-        "fresh": 1185,
-        "stale": 8,
-        "missing": 0,
-        "coverage_pct": 100
-      },
-      {
-        "lang": "fr",
         "fresh": 1184,
         "stale": 9,
         "missing": 0,
         "coverage_pct": 100
       },
       {
+        "lang": "es",
+        "fresh": 1186,
+        "stale": 7,
+        "missing": 0,
+        "coverage_pct": 100
+      },
+      {
+        "lang": "fr",
+        "fresh": 1183,
+        "stale": 10,
+        "missing": 0,
+        "coverage_pct": 100
+      },
+      {
         "lang": "vi",
-        "fresh": 1179,
-        "stale": 13,
-        "missing": 1,
-        "coverage_pct": 99.9
+        "fresh": 1178,
+        "stale": 15,
+        "missing": 0,
+        "coverage_pct": 100
       },
       {
         "lang": "id",
@@ -1256,17 +1256,17 @@
       },
       {
         "lang": "hi",
-        "fresh": 1177,
+        "fresh": 1179,
         "stale": 14,
-        "missing": 2,
-        "coverage_pct": 99.8
+        "missing": 0,
+        "coverage_pct": 100
       },
       {
         "lang": "ar",
-        "fresh": 1186,
-        "stale": 6,
-        "missing": 1,
-        "coverage_pct": 99.9
+        "fresh": 1185,
+        "stale": 8,
+        "missing": 0,
+        "coverage_pct": 100
       },
       {
         "lang": "ru",
@@ -1277,50 +1277,50 @@
       },
       {
         "lang": "de",
-        "fresh": 1162,
-        "stale": 31,
+        "fresh": 1160,
+        "stale": 33,
         "missing": 0,
         "coverage_pct": 100
       }
     ],
-    "gap_total": 119,
+    "gap_total": 123,
     "gap_delta_vs_prev": 0,
-    "fresh_delta_24h": 0,
+    "fresh_delta_24h": -4,
     "nodes": [
       {
         "name": "worker:haiku3",
         "ok": 0,
-        "fail": 6,
+        "fail": 8,
         "avg_s": null
       },
       {
         "name": "worker:haiku2",
         "ok": 0,
-        "fail": 5,
+        "fail": 6,
         "avg_s": null
       },
       {
         "name": "worker:haiku1",
         "ok": 0,
-        "fail": 6,
+        "fail": 11,
         "avg_s": null
       },
       {
         "name": "worker:macm4max",
-        "ok": 1514,
-        "fail": 230,
-        "avg_s": 108.3
+        "ok": 1534,
+        "fail": 301,
+        "avg_s": 111.5
       },
       {
         "name": "worker:nemo",
-        "ok": 831,
-        "fail": 245,
-        "avg_s": 147.5
+        "ok": 852,
+        "fail": 298,
+        "avg_s": 154.1
       },
       {
         "name": "worker:?",
         "ok": 0,
-        "fail": 20,
+        "fail": 27,
         "avg_s": null
       },
       {
@@ -1349,25 +1349,13 @@
     {
       "ts": "2026-11-01",
       "level": "yellow",
-      "text": "routine twmd-routine-audit-weekly 沉默死亡：2026-11-15T14:12 fire 後 151.9h 零 git 痕跡（fire≠完成，收屍看 working tree）；下次排程 11-22 21:04（台北），還有 15 小時",
-      "source": "routine-live-state.json × git log"
-    },
-    {
-      "ts": "2026-11-01",
-      "level": "yellow",
-      "text": "routine twmd-supporters-weekly 沉默死亡：2026-11-15T18:18 fire 後 147.8h 零 git 痕跡（fire≠完成，收屍看 working tree）；下次排程 11-23 01:13（台北），還有 19 小時",
-      "source": "routine-live-state.json × git log"
-    },
-    {
-      "ts": "2026-11-01",
-      "level": "yellow",
-      "text": "routine twmd-weekly-report-sun 沉默死亡：2026-11-21T18:03 fire 後 4.1h 零 git 痕跡（fire≠完成，收屍看 working tree）；下次排程 11-29 02:03（台北），還有 6.8 天",
+      "text": "routine twmd-weekly-report-sun 沉默死亡：2026-11-21T18:03 fire 後 28.1h 零 git 痕跡（fire≠完成，收屍看 working tree）；下次排程 11-29 02:03（台北），還有 5.8 天",
       "source": "routine-live-state.json × git log"
     },
     {
       "ts": "2026-10-23",
       "level": "yellow",
-      "text": "資料台灣 1/66 個指標的數字過期：mortgage-burden（季資料，期間到 2026-03-31，已 236 天） — 照出處網址找新一期，改 src/data/data-hub/indicators.json；清單 python3 scripts/tools/data-hub-check.py --stale",
+      "text": "資料台灣 1/66 個指標的數字過期：mortgage-burden（季資料，期間到 2026-03-31，已 237 天） — 照出處網址找新一期，改 src/data/data-hub/indicators.json；清單 python3 scripts/tools/data-hub-check.py --stale",
       "source": "data-hub-check.py × src/data/data-hub/indicators.json"
     },
     {
@@ -1379,29 +1367,29 @@
   ],
   "deploys": [
     {
-      "ts": "2026-11-21T21:41:11Z",
-      "conclusion": "success",
-      "title": "Deploy to GitHub Pages: 🧬 [routine] memory: twmd-routine-sync 例行對賬全綠，十九份 prompt 與排程器都一致，連五天"
+      "ts": "2026-11-22T22:07:27Z",
+      "conclusion": "in_progress",
+      "title": "Deploy to GitHub Pages: 🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-11-23 06:05"
     },
     {
-      "ts": "2026-11-21T20:17:28Z",
-      "conclusion": "success",
-      "title": "Deploy to GitHub Pages: 🧬 [routine] memory: twmd-self-evolve-weekly 隔三週恢復，三個早就寫清楚卻沒有東西會叫的候選落地"
+      "ts": "2026-11-22T22:07:27Z",
+      "conclusion": "in_progress",
+      "title": "Engineering contracts: 🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-11-23 06:05"
     },
     {
-      "ts": "2026-11-21T20:15:19Z",
+      "ts": "2026-11-22T21:41:43Z",
+      "conclusion": "success",
+      "title": "Deploy to GitHub Pages: 🧬 [routine] memory: twmd-routine-sync 收官時間照實際的 05:41 改正"
+    },
+    {
+      "ts": "2026-11-22T21:41:01Z",
       "conclusion": "cancelled",
-      "title": "Deploy to GitHub Pages: 🧬 [routine] twmd-self-evolve: 名字像唯讀的工具不給旗標就刪檔，這件事現在由測試看著"
+      "title": "Deploy to GitHub Pages: 🧬 [routine] memory: twmd-routine-sync 例行對賬全綠，十九份 prompt 與排程器都一致，連六天"
     },
     {
-      "ts": "2026-11-21T20:15:19Z",
+      "ts": "2026-11-22T20:33:59Z",
       "conclusion": "success",
-      "title": "Python tests: 🧬 [routine] twmd-self-evolve: 名字像唯讀的工具不給旗標就刪檔，這件事現在由測試看著"
-    },
-    {
-      "ts": "2026-11-21T20:15:19Z",
-      "conclusion": "success",
-      "title": "Engineering contracts: 🧬 [routine] twmd-self-evolve: 名字像唯讀的工具不給旗標就刪檔，這件事現在由測試看著"
+      "title": "Deploy to GitHub Pages: Merge remote-tracking branch 'origin/main'"
     }
   ]
 }

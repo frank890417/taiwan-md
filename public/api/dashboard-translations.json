@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-21T22:06:27.533Z",
+  "lastUpdated": "2026-11-22T22:06:24.248Z",
   "languages": [
     "zh-TW",
     "en",
@@ -27,50 +27,50 @@
     "en": {
       "total": 1193,
       "percentage": 100,
-      "fresh": 1189,
+      "fresh": 1190,
       "metadataStale": 1,
-      "stale": 3,
+      "stale": 2,
       "missing": 0,
       "orphan": 0,
       "deficit": 0,
       "freshPct": 99.7,
-      "bodyFreshPct": 99.7
+      "bodyFreshPct": 99.8
     },
     "ja": {
       "total": 1193,
       "percentage": 100,
-      "fresh": 1187,
+      "fresh": 1186,
       "metadataStale": 2,
-      "stale": 4,
-      "missing": 0,
-      "orphan": 0,
-      "deficit": 0,
-      "freshPct": 99.5,
-      "bodyFreshPct": 99.7
-    },
-    "ko": {
-      "total": 1193,
-      "percentage": 100,
-      "fresh": 1185,
-      "metadataStale": 3,
       "stale": 5,
       "missing": 0,
       "orphan": 0,
       "deficit": 0,
-      "freshPct": 99.3,
+      "freshPct": 99.4,
       "bodyFreshPct": 99.6
     },
-    "es": {
+    "ko": {
       "total": 1193,
       "percentage": 100,
-      "fresh": 1185,
-      "metadataStale": 2,
+      "fresh": 1184,
+      "metadataStale": 3,
       "stale": 6,
       "missing": 0,
       "orphan": 0,
       "deficit": 0,
-      "freshPct": 99.3,
+      "freshPct": 99.2,
       "bodyFreshPct": 99.5
+    },
+    "es": {
+      "total": 1193,
+      "percentage": 100,
+      "fresh": 1186,
+      "metadataStale": 2,
+      "stale": 5,
+      "missing": 0,
+      "orphan": 0,
+      "deficit": 0,
+      "freshPct": 99.4,
+      "bodyFreshPct": 99.6
     },
     "fr": {
       "total": 1193,
@@ -85,14 +85,14 @@
       "bodyFreshPct": 99.5
     },
     "vi": {
-      "total": 1192,
-      "percentage": 99.9,
+      "total": 1193,
+      "percentage": 100,
       "fresh": 1180,
       "metadataStale": 1,
-      "stale": 11,
-      "missing": 1,
+      "stale": 12,
+      "missing": 0,
       "orphan": 0,
-      "deficit": 1,
+      "deficit": 0,
       "freshPct": 98.9,
       "bodyFreshPct": 99
     },
@@ -111,44 +111,8 @@
     "pt": {
       "total": 1193,
       "percentage": 100,
-      "fresh": 1188,
+      "fresh": 1189,
       "metadataStale": 1,
-      "stale": 4,
-      "missing": 0,
-      "orphan": 0,
-      "deficit": 0,
-      "freshPct": 99.6,
-      "bodyFreshPct": 99.7
-    },
-    "hi": {
-      "total": 1191,
-      "percentage": 99.8,
-      "fresh": 1179,
-      "metadataStale": 1,
-      "stale": 11,
-      "missing": 2,
-      "orphan": 0,
-      "deficit": 2,
-      "freshPct": 98.8,
-      "bodyFreshPct": 98.9
-    },
-    "ar": {
-      "total": 1192,
-      "percentage": 99.9,
-      "fresh": 1186,
-      "metadataStale": 3,
-      "stale": 3,
-      "missing": 1,
-      "orphan": 0,
-      "deficit": 1,
-      "freshPct": 99.4,
-      "bodyFreshPct": 99.7
-    },
-    "ru": {
-      "total": 1193,
-      "percentage": 100,
-      "fresh": 1190,
-      "metadataStale": 0,
       "stale": 3,
       "missing": 0,
       "orphan": 0,
@@ -156,17 +120,53 @@
       "freshPct": 99.7,
       "bodyFreshPct": 99.7
     },
-    "de": {
+    "hi": {
       "total": 1193,
       "percentage": 100,
-      "fresh": 1162,
-      "metadataStale": 8,
-      "stale": 23,
+      "fresh": 1180,
+      "metadataStale": 1,
+      "stale": 12,
       "missing": 0,
       "orphan": 0,
       "deficit": 0,
-      "freshPct": 97.4,
-      "bodyFreshPct": 98.1
+      "freshPct": 98.9,
+      "bodyFreshPct": 99
+    },
+    "ar": {
+      "total": 1193,
+      "percentage": 100,
+      "fresh": 1185,
+      "metadataStale": 3,
+      "stale": 5,
+      "missing": 0,
+      "orphan": 0,
+      "deficit": 0,
+      "freshPct": 99.3,
+      "bodyFreshPct": 99.6
+    },
+    "ru": {
+      "total": 1193,
+      "percentage": 100,
+      "fresh": 1191,
+      "metadataStale": 0,
+      "stale": 2,
+      "missing": 0,
+      "orphan": 0,
+      "deficit": 0,
+      "freshPct": 99.8,
+      "bodyFreshPct": 99.8
+    },
+    "de": {
+      "total": 1193,
+      "percentage": 100,
+      "fresh": 1161,
+      "metadataStale": 8,
+      "stale": 24,
+      "missing": 0,
+      "orphan": 0,
+      "deficit": 0,
+      "freshPct": 97.3,
+      "bodyFreshPct": 98
     }
   },
   "matrix": {
@@ -490,18 +490,18 @@
         "deficit": 0
       },
       "hi": {
-        "count": 87,
-        "fresh": 86,
+        "count": 89,
+        "fresh": 88,
         "stale": 1,
-        "missing": 2,
-        "deficit": 2
+        "missing": 0,
+        "deficit": 0
       },
       "ar": {
-        "count": 87,
-        "fresh": 87,
+        "count": 88,
+        "fresh": 88,
         "stale": 0,
-        "missing": 1,
-        "deficit": 2
+        "missing": 0,
+        "deficit": 1
       },
       "ru": {
         "count": 89,
@@ -543,8 +543,8 @@
       },
       "es": {
         "count": 90,
-        "fresh": 89,
-        "stale": 1,
+        "fresh": 90,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
@@ -556,11 +556,11 @@
         "deficit": 0
       },
       "vi": {
-        "count": 89,
-        "fresh": 88,
+        "count": 90,
+        "fresh": 89,
         "stale": 1,
-        "missing": 1,
-        "deficit": 1
+        "missing": 0,
+        "deficit": 0
       },
       "id": {
         "count": 88,
@@ -592,8 +592,8 @@
       },
       "ru": {
         "count": 90,
-        "fresh": 89,
-        "stale": 1,
+        "fresh": 90,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
@@ -846,8 +846,8 @@
       },
       "ar": {
         "count": 58,
-        "fresh": 58,
-        "stale": 0,
+        "fresh": 57,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
@@ -860,8 +860,8 @@
       },
       "de": {
         "count": 58,
-        "fresh": 57,
-        "stale": 1,
+        "fresh": 56,
+        "stale": 2,
         "missing": 0,
         "deficit": 0
       }
@@ -1225,15 +1225,15 @@
       },
       "ja": {
         "count": 129,
-        "fresh": 129,
-        "stale": 0,
+        "fresh": 128,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "ko": {
         "count": 129,
-        "fresh": 129,
-        "stale": 0,
+        "fresh": 128,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
@@ -1253,8 +1253,8 @@
       },
       "vi": {
         "count": 129,
-        "fresh": 128,
-        "stale": 1,
+        "fresh": 127,
+        "stale": 2,
         "missing": 0,
         "deficit": 0
       },
@@ -1267,22 +1267,22 @@
       },
       "pt": {
         "count": 129,
-        "fresh": 128,
-        "stale": 1,
+        "fresh": 129,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
       "hi": {
         "count": 128,
-        "fresh": 127,
-        "stale": 1,
+        "fresh": 126,
+        "stale": 2,
         "missing": 0,
         "deficit": 1
       },
       "ar": {
         "count": 129,
-        "fresh": 129,
-        "stale": 0,
+        "fresh": 128,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
@@ -1305,8 +1305,8 @@
       "zh-TW": 69,
       "en": {
         "count": 68,
-        "fresh": 67,
-        "stale": 1,
+        "fresh": 68,
+        "stale": 0,
         "missing": 0,
         "deficit": 1
       },
@@ -1389,18 +1389,7 @@
       }
     }
   },
-  "missing": {
-    "vi": [
-      "Food/奇拿富（cinavu）：排灣族的葉包小米，和那層要一起吃下去的假酸漿葉.md"
-    ],
-    "hi": [
-      "Economy/3.8 兆的稅：53.4% 來自所得稅，與那個從 505 億縮小到 143 億的缺口.md",
-      "Economy/觀光產業：一千八百九十四萬人次出國，八百五十七萬人次來台.md"
-    ],
-    "ar": [
-      "Economy/3.8 兆的稅：53.4% 來自所得稅，與那個從 505 億縮小到 143 億的缺口.md"
-    ]
-  },
+  "missing": {},
   "statusSource": "translation-status.json",
   "orphans": {
     "en": [],

@@ -17347,14 +17347,14 @@
     "city": "高雄"
   },
   {
-    "title": "金曲奨：台湾が自らの音楽に賞を贈り、三十五年にわたり一生記憶に残る瞬間を刻んできた場所",
+    "title": "金曲賞：台湾が自らの音楽に贈る賞、そして35年間にわたる一生忘れられない瞬間たち",
     "lat": 25.031857,
     "lng": 121.558612,
     "category": "music",
     "region": "north",
     "link": "/ja/music/pop-music-and-golden-melody-awards",
     "lang": "ja",
-    "desc": "2024 年の台北アリーナで、草東沒有派對は二度目の伝説をつくり、マネージャーが代理で受賞し、会場全体が亡くなったドラマーのために沈黙しました。三十五年にわたり、金曲奨は蔡琴の一通の手書きの手紙から国家級の式典へと成長し、周杰倫の『范特西』、張恵妹の 14 回ノミネートを戴冠させ、台湾語、客語、原住民族語の歌にも最高栄誉を授けてきました。ここは台湾が自らの音楽に賞を贈り、どの声が記憶されるべきかを決める場所です。",
+    "desc": "2024年台北アリーナ、草東沒有派對が二度の栄冠、マネージャーが代理受賞、故人のドラマーのために会場全体が静寂に包まれた。35年間、金曲賞は蔡琴の一通の手紙から国家級の授賞式へと成長し、周杰倫の『范特西』、張恵妹の14度のノミネートを戴冠し、台湾語・客家語・原住民語の楽曲に最高栄誉を与えてきた。ここは台湾が自らの音楽に贈る賞、どの声が記憶に値するかを決める場所だ。",
     "city": "台北"
   },
   {
@@ -23405,6 +23405,17 @@
     "link": "/food/chishang-bento",
     "lang": "zh-TW",
     "desc": "Từ hai cơm nắp lá tre trên sân ga cuối thời Nhật trị, đến mở rộng thành các thương hiệu chuỗi, hộp cơm Chishang đã dùng tám mươi năm để biến tên một ga tàu Đông Đài Loan thành tiêu chuẩn cao nhất của cơm Đài Loan. Hộp gỗ mỏng là một hệ thống quản lý độ ẩm; sự kiện cột năm 1982 là mốc chuyển tiếp quyền cơm từ sông Trưỡng Thủy sang thung lũng dọc Hoa-Đông; và sự giả mạo năm 1996 đã buộc nảy sinh nhãn hiệu chứng minh địa lý đầu tiên toàn Đài Loan.",
+    "city": "台東"
+  },
+  {
+    "title": "Cinavu (奇拿富): kê gói lá của người Paiwan, và lớp lá giả toan tương (假酸漿) phải ăn cùng",
+    "lat": 22.762317,
+    "lng": 121.151087,
+    "category": "food",
+    "region": "east",
+    "link": "/food/cinavu",
+    "lang": "zh-TW",
+    "desc": "Năm 2019, đoàn hợp xướng nhi đồng người Paiwan Taiwu Ancient Ballads Troupe mang một công thức cinavu sang Úc; từ giả toan tương trong danh sách nguyên liệu không được dịch sang tiếng Anh mà viết thẳng theo bính âm jiasuanjiang. Cinavu (còn viết là jinafu, 吉拿富) là món của người Paiwan dùng kê hoặc bột khoai môn gói thịt heo, bọc hai lớp lá rồi hấp hoặc nấu chín, mỗi bộ lạc có cách gọi và cách làm riêng. Người ngoài thường gọi nó là \"bánh chưng của người bản địa\", nhưng điểm khác với bánh chưng chính là lớp lá giả toan tương áp sát hạt kê phải ăn luôn cùng.",
     "city": "台東"
   },
   {

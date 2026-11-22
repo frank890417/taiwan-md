@@ -103,11 +103,11 @@ a human — that boundary is the design, not a limitation. The full contract is
 | 🇰🇷 한국어 (ko)                 | 1193  |
 | 🇪🇸 Español (es)                | 1193  |
 | 🇫🇷 Français (fr)               | 1193  |
-| 🇻🇳 Tiếng Việt (vi)             | 1192  |
+| 🇻🇳 Tiếng Việt (vi)             | 1193  |
 | 🇮🇩 Bahasa Indonesia (id)       | 1193  |
 | 🇵🇹 Português (pt)              | 1193  |
-| 🇮🇳 हिन्दी (hi)                 | 1191  |
-| 🇸🇦 العربية (ar)                | 1192  |
+| 🇮🇳 हिन्दी (hi)                 | 1193  |
+| 🇸🇦 العربية (ar)                | 1193  |
 | 🇷🇺 Русский (ru)                | 1193  |
 | 🌐 Deutsch (de)                | 1193  |
 | 📂 Categories                  | 14    |
@@ -115,9 +115,9 @@ a human — that boundary is the design, not a limitation. The full contract is
 | 🔗 Resource websites           | 146+  |
 | 👥 Contributors                | 81    |
 | ⭐ GitHub Stars                | 1252  |
-| 🍴 Forks                       | 190   |
-| 📅 Articles last 7 days        | 39    |
-| 📅 Articles last 30 days       | 112   |
+| 🍴 Forks                       | 191   |
+| 📅 Articles last 7 days        | 43    |
+| 📅 Articles last 30 days       | 111   |
 
 <!-- STATS:END -->
 

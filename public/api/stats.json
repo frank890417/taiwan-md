@@ -1,8 +1,8 @@
 {
-  "totalArticles": 15505,
+  "totalArticles": 15509,
   "totalCategories": 15,
   "estimatedContributors": 81,
-  "totalTags": 9181,
+  "totalTags": 9187,
   "categories": [
     {
       "name": "people",
@@ -22,11 +22,11 @@
     },
     {
       "name": "food",
-      "count": 1169
+      "count": 1170
     },
     {
       "name": "economy",
-      "count": 1154
+      "count": 1157
     },
     {
       "name": "geography",
@@ -148,10 +148,10 @@
     }
   ],
   "languageDistribution": {
-    "vi": 1192,
+    "vi": 1193,
     "es": 1193,
     "ko": 1193,
-    "hi": 1191,
+    "hi": 1193,
     "en": 1193,
     "ja": 1193,
     "de": 1193,
@@ -159,12 +159,12 @@
     "ru": 1193,
     "zh-TW": 1193,
     "id": 1193,
-    "ar": 1192,
+    "ar": 1193,
     "pt": 1193
   },
-  "lastUpdated": "2026-11-21T22:06:04.759Z",
+  "lastUpdated": "2026-11-22T22:06:00.673Z",
   "stars": 1252,
-  "forks": 190,
+  "forks": 191,
   "zhPages": 1191,
   "languagePages": {
     "zh-TW": 1191,
@@ -173,11 +173,11 @@
     "ko": 1193,
     "es": 1193,
     "fr": 1193,
-    "vi": 1192,
+    "vi": 1193,
     "id": 1193,
     "pt": 1193,
-    "hi": 1191,
-    "ar": 1192,
+    "hi": 1193,
+    "ar": 1193,
     "ru": 1193,
     "de": 1193
   },

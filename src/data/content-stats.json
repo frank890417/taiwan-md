@@ -3,8 +3,8 @@
     "About": 108,
     "Art": 624,
     "Culture": 1416,
-    "Economy": 1065,
-    "Food": 1079,
+    "Economy": 1068,
+    "Food": 1080,
     "Geography": 1020,
     "History": 1128,
     "Lifestyle": 696,
@@ -891,8 +891,8 @@
     },
     {
       "date": "2026-11-22",
-      "count": 1
+      "count": 5
     }
   ],
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
 }

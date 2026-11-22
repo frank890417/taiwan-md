@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
 last_updated: 2026-11-23
-last_session: '2026-11-23-060736-twmd-embeddings-nightly（第六夜完整重建，順手更新 pipeline 過時耗時）'
+last_session: '2026-11-23-060253-twmd-data-refresh-am（早班刷新全過，自動 --no-sync 分支第一次實跑）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -337,3 +337,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-23 | 011522-twmd-supporters-weekly | 隔四週補上：三封贊助信全是每月定額（Anton Lee 100、匿名 200、沈宗杰 200），累積 NT$8,800→9,300；隱私檢查寫入前後都過；Anton Lee 缺三個週期後回來 | 摘要只寫「贊助支持」，內文才寫「每月定額」，三封全中 | [→](memory/2026-11-23-011522-twmd-supporters-weekly.md) |
 | 2026-11-23 | 053940-twmd-routine-sync | 例行對賬：prompt 19/19 一致，排程器直讀十八條 cron／開關零漂移，連六天；上週日六條週班五條留痕，週報死因已知，數數交接收掉 | 起跑時間分不出的事，要讀得到 log 的席位才給得出原因 | [→](memory/2026-11-23-053940-twmd-routine-sync.md) |
 | 2026-11-23 | 060736-twmd-embeddings-nightly | 恢復後第六夜完整重建：13 語 15,366 向量零失敗、verify PASS，`2ad9a6308a`；十三語同數各 1,182；傳了五班的過時耗時交接照前例自己改成 pipeline v1.5 | 權限的證據在那份文件自己的版本註腳裡 | [→](memory/2026-11-23-060736-twmd-embeddings-nightly.md) |
+| 2026-11-23 | 060253-twmd-data-refresh-am | 早班刷新十四步全過、15 個 dashboard 0 stale；腳本自己偵測 babel 寫手改走 --no-sync 第一次實跑成功；房貸負擔率仍只有 115Q1；GA 欄位交接範圍改寫 | 沒看程式碼就寫進交接的工作量，讀起來像量過的 | [→](memory/2026-11-23-060253-twmd-data-refresh-am.md) |

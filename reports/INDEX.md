@@ -1,7 +1,7 @@
 ---
 title: 'reports/ INDEX — auto-generated'
 description: '頂層 *.md 按 9 type bucket × 月份 雙軸索引 + 子目錄 status summary'
-last_generated: 2026-11-22 06:07
+last_generated: 2026-11-23 06:07
 generator: scripts/tools/generate-reports-index.py
 ssot: reports/reports-archival-audit-2026-05-27.md §4 Layer 3
 type: auto-index
@@ -12,7 +12,7 @@ type: auto-index
 > **本 file 由 `scripts/tools/generate-reports-index.py` 完全 overwrite**。
 > 不要人工編輯（會被下一次 cron 覆蓋）。
 >
-> Last generated: **2026-11-22 06:07** · 頂層 \*.md 共 **326** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
+> Last generated: **2026-11-23 06:07** · 頂層 \*.md 共 **327** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
 
 ## 📦 子目錄 status
 
@@ -45,12 +45,12 @@ type: auto-index
 | `music-media-audit/`             |     4 | 115.5 KB | Music 條目 media audit (json + md)                   |
 | `terminology-trends/`            |     3 | 36.2 KB  | —                                                    |
 | `x-mentions/`                    |     3 | 21.3 KB  | —                                                    |
-| `404-monitor/`                   |     2 | 214.4 KB | —                                                    |
+| `404-monitor/`                   |     2 | 216.2 KB | —                                                    |
 | `article-staging/`               |     2 | 104.9 KB | —                                                    |
 | `audit/`                         |     2 | 50.6 KB  | —                                                    |
 | `fork-census/`                   |     2 | 40.1 KB  | —                                                    |
 | `harvest/`                       |     2 | 14.3 KB  | Harvest engine 紀錄                                  |
-| `newsroom/`                      |     2 | 136.8 KB | —                                                    |
+| `newsroom/`                      |     2 | 136.9 KB | —                                                    |
 | `orphan-rescue/`                 |     1 | 52.5 KB  | —                                                    |
 | `visual/`                        |     1 | 5.7 KB   | Visual smoke test 基線 (partial gitignored)          |
 
@@ -197,8 +197,9 @@ type: auto-index
 - `2026-04-17` [cron-schedule-snapshot-2026-04-17](cron-schedule-snapshot-2026-04-17.md)
 - `2026-04-12` [i18n-qa-audit-2026-04-12](i18n-qa-audit-2026-04-12.md)
 
-### audit-routine (34)
+### audit-routine (35)
 
+- `2026-11-22` [routine-audit-2026-11-22](routine-audit-2026-11-22.md) — Routine audit 2026-11-22 (W47)
 - `2026-10-25` [routine-audit-2026-10-25](routine-audit-2026-10-25.md) — Routine audit 2026-10-25 (W43)
 - `2026-10-18` [routine-audit-2026-10-18](routine-audit-2026-10-18.md) — Routine audit 2026-10-18 (W42)
 - `2026-10-11` [routine-audit-2026-10-11](routine-audit-2026-10-11.md) — Routine audit 2026-10-11 (W41)
@@ -422,9 +423,10 @@ type: auto-index
   - `????` [README](README.md)
   - `????` [punct-cleanup-dispatch-prompts](punct-cleanup-dispatch-prompts.md)
 
-### 2026-11 (19 files)
+### 2026-11 (20 files)
 
-- Type breakdown: ops: 15 / plan: 3 / evolution: 1
+- Type breakdown: ops: 15 / plan: 3 / audit-routine: 1 / evolution: 1
+  - `2026-11-22` [routine-audit-2026-11-22](routine-audit-2026-11-22.md)
   - `2026-11-19` [design-homepage-about-evolution-2026-11-19](design-homepage-about-evolution-2026-11-19.md)
   - `2026-11-19` [design-homepage-about-implementation-2026-11-19](design-homepage-about-implementation-2026-11-19.md)
   - `2026-11-19` [seo-search-ranking-2026-11-19](seo-search-ranking-2026-11-19.md)

@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-22T06:07:29+08:00",
+  "fetched_at": "2026-11-23T06:08:11+08:00",
   "fetched_by": "twmd-data-refresh-am",
   "source": "mcp scheduled-tasks list_scheduled_tasks",
   "note": "S1 根治第一塊磚（dna-audit 2026-07-05）：live scheduler 狀態 git 可見化。只含 twmd-/taiwanmd- 任務（私人 routine 已過濾），消費者 = routine-sync-check.py v3 三層比對。",
@@ -11,24 +11,24 @@
       "description": "（每天 07:00 Asia/Taipei = 23:00 UTC）。把讀者站上回報轉成 GitHub issue 接 MAINTAINER 飛輪，並把 canonical 紀錄落進 git（主權層）。",
       "cronExpression": "0 7 * * *",
       "enabled": true,
-      "lastRunAt": "2026-11-20T23:07:46.458Z",
-      "nextRunAt": "2026-11-21T23:07:23.000Z"
+      "lastRunAt": "2026-11-21T23:07:48.910Z",
+      "nextRunAt": "2026-11-22T23:07:23.000Z"
     },
     {
       "taskId": "twmd-babel-nightly",
       "description": "TWMD babel (nightly) — 00:30 多語同步，義務跑到 stale=0；語言數以 registry 為準不寫死（v4.0 薄殼化 + Stage 0 算力自檢 + 統一調度器）",
       "cronExpression": "30 0 * * *",
       "enabled": true,
-      "lastRunAt": "2026-11-21T16:41:52.214Z",
-      "nextRunAt": "2026-11-22T16:41:27.000Z"
+      "lastRunAt": "2026-11-22T16:41:54.732Z",
+      "nextRunAt": "2026-11-23T16:41:27.000Z"
     },
     {
       "taskId": "twmd-data-refresh-am",
       "description": "TWMD data refresh (am) — daytime 06:00 dashboard 14-step sync (v3.0 inline + STRICT BECOME, main-direct)",
       "cronExpression": "0 6 * * *",
       "enabled": true,
-      "lastRunAt": "2026-11-21T22:01:40.746Z",
-      "nextRunAt": "2026-11-22T22:01:15.000Z"
+      "lastRunAt": "2026-11-22T22:01:43.220Z",
+      "nextRunAt": "2026-11-23T22:01:15.000Z"
     },
     {
       "taskId": "twmd-distill-weekly",
@@ -43,8 +43,8 @@
       "description": "TWMD embeddings (nightly @ 05:00) — bge-m3 semantic index rebuild → src/data/related (reader related-articles) + public/api/rag (RAG vectors). Local mac-m4max primary + fleet fallback (v1.1 2026-07-05). Sovereignty-preserving, graceful-skip if embed host down. Canonical EMBEDDING-PIPELINE, thin shell, sonnet.",
       "cronExpression": "0 5 * * *",
       "enabled": true,
-      "lastRunAt": "2026-11-21T21:13:54.760Z",
-      "nextRunAt": "2026-11-22T21:13:29.000Z"
+      "lastRunAt": "2026-11-22T21:13:57.199Z",
+      "nextRunAt": "2026-11-23T21:13:29.000Z"
     },
     {
       "taskId": "twmd-founder-lens-weekly",
@@ -59,8 +59,8 @@
       "description": "TWMD maintainer (am @ 08:30) — daytime contributor PR review (v4.0 薄殼化 2026-09-05 + STRICT BECOME + 空場 ≥3 cycle LESSONS escalate, main-direct, opus)",
       "cronExpression": "30 8 * * *",
       "enabled": true,
-      "lastRunAt": "2026-11-21T00:30:54.646Z",
-      "nextRunAt": "2026-11-22T00:30:31.000Z"
+      "lastRunAt": "2026-11-22T00:30:57.105Z",
+      "nextRunAt": "2026-11-23T00:30:31.000Z"
     },
     {
       "taskId": "twmd-news-lens-weekly",
@@ -83,16 +83,16 @@
       "description": "TWMD routine audit (sun) — Sunday 21:00 cross-routine 7-day pattern detection + 4 lens framework + LESSONS vc 累積 (v4.0 薄殼化 2026-09-05 + STRICT BECOME, main-direct, opus)",
       "cronExpression": "0 21 * * 0",
       "enabled": true,
-      "lastRunAt": "2026-11-15T14:12:45.727Z",
-      "nextRunAt": "2026-11-22T13:04:41.000Z"
+      "lastRunAt": "2026-11-22T13:05:08.325Z",
+      "nextRunAt": "2026-11-29T13:04:41.000Z"
     },
     {
       "taskId": "twmd-routine-sync",
       "description": "（每天 05:30 Asia/Taipei = 21:30 UTC）。讓這台機器上的 routine prompt 與排程設定，跟 git 裡的 routine SSOT 對齊；對不上就修，修不了就報。",
       "cronExpression": "30 5 * * *",
       "enabled": true,
-      "lastRunAt": "2026-11-21T21:38:01.764Z",
-      "nextRunAt": "2026-11-22T21:37:36.000Z"
+      "lastRunAt": "2026-11-22T21:38:04.122Z",
+      "nextRunAt": "2026-11-23T21:37:36.000Z"
     },
     {
       "taskId": "twmd-self-evolve-weekly",
@@ -107,8 +107,8 @@
       "description": "TWMD spore harvest (am) — daily 06:30 full-auto Chrome MCP audience flywheel cycle + Pitfall 6 max 1 retry (v3.0 inline + STRICT BECOME, main-direct, opus)",
       "cronExpression": "30 6 * * *",
       "enabled": true,
-      "lastRunAt": "2026-11-20T22:40:11.365Z",
-      "nextRunAt": "2026-11-21T22:39:48.000Z"
+      "lastRunAt": "2026-11-21T22:40:13.902Z",
+      "nextRunAt": "2026-11-22T22:39:48.000Z"
     },
     {
       "taskId": "twmd-spore-pick-daily",
@@ -131,8 +131,8 @@
       "description": "TWMD supporters sync (mon @ 01:00) — Portaly donation notification emails (Gmail) → transactions.json SSOT → two privacy-partitioned derived views for /about#sponsors. Canonical SUPPORTERS-PIPELINE, thin shell, sonnet.",
       "cronExpression": "0 1 * * 1",
       "enabled": true,
-      "lastRunAt": "2026-11-15T18:18:46.182Z",
-      "nextRunAt": "2026-11-22T17:13:44.000Z"
+      "lastRunAt": "2026-11-22T17:14:11.737Z",
+      "nextRunAt": "2026-11-29T17:13:44.000Z"
     },
     {
       "taskId": "twmd-terminology-trends-monthly",

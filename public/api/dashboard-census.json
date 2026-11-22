@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-22",
+  "generated": "2026-11-23",
   "generator": "scripts/tools/article-census.py",
-  "head": "272ff93d4",
+  "head": "2ad9a6308",
   "scope": "knowledge/{Category}/*.md（中文 SSOT；不含 knowledge/{lang}/ 譯文與 _ hub）",
   "n": 1191,
   "thresholds": {
@@ -24,8 +24,8 @@
   "traffic_sources": {
     "ga": {
       "file": "public/api/dashboard-analytics.json:ga.topArticles7d",
-      "start": "2026-10-25",
-      "end": "2026-11-22",
+      "start": "2026-10-26",
+      "end": "2026-11-23",
       "days": 28,
       "rows": 20,
       "metric": "views",
@@ -145,7 +145,7 @@
       }
     },
     "recent_45d": {
-      "n": 69,
+      "n": 68,
       "cjk": {
         "p5": 999,
         "p10": 1141,
@@ -154,8 +154,8 @@
         "p50": 1776,
         "p75": 2256,
         "p90": 3009,
-        "n": 69,
-        "mean": 2261.3
+        "n": 68,
+        "mean": 2262.1
       },
       "fn_defs": {
         "p5": 1,
@@ -165,7 +165,7 @@
         "p50": 3,
         "p75": 9,
         "p90": 21,
-        "n": 69,
+        "n": 68,
         "mean": 11.2
       }
     }
@@ -285,17 +285,6 @@
         "cover": "none",
         "cjk": 1788,
         "fn": 9
-      },
-      {
-        "path": "knowledge/People/魏哲家.md",
-        "title": "魏哲家：1953年，交大電子到耶魯博士到台積電董事長暨總裁",
-        "category": "People",
-        "curation": "incubating",
-        "curationReason": "thin",
-        "reason": "3 軸弱：字數 1322、腳註 5、零媒體",
-        "cover": "none",
-        "cjk": 1322,
-        "fn": 5
       },
       {
         "path": "knowledge/Art/EEWH綠建築標章.md",
@@ -2498,6 +2487,17 @@
         "fn": 0
       },
       {
+        "path": "knowledge/People/魏哲家.md",
+        "title": "魏哲家：1953年，交大電子到耶魯博士到台積電董事長暨總裁",
+        "category": "People",
+        "curation": "incubating",
+        "curationReason": "thin",
+        "reason": "3 軸弱：字數 1322、腳註 5、零媒體",
+        "cover": "none",
+        "cjk": 1322,
+        "fn": 5
+      },
+      {
         "path": "knowledge/People/魏德聖.md",
         "title": "魏德聖：永康1969，《海角七號》破億票房到威尼斯主競賽的台灣史詩導演",
         "category": "People",
@@ -3134,15 +3134,15 @@
     "knowledge/Technology/台灣顯示器產業.md",
     "knowledge/Technology/地震預警系統.md",
     "knowledge/Technology/報禁解除.md",
-    "knowledge/People/陳樹菊.md",
     "knowledge/Technology/數位身分證與數位政府.md",
+    "knowledge/People/陳樹菊.md",
     "knowledge/People/徐巧芯.md",
+    "knowledge/People/凹與山.md",
+    "knowledge/People/三毛.md",
     "knowledge/People/蕭上農.md",
     "knowledge/Technology/雪山隧道.md",
-    "knowledge/People/三毛.md",
     "knowledge/People/吳百福.md",
     "knowledge/People/傅崐萁.md",
-    "knowledge/People/魏哲家.md",
     "knowledge/Lifestyle/夜生活與KTV文化.md",
     "knowledge/About/台灣官方網站資源.md",
     "knowledge/About/台灣官方網站資源重寫.md",
@@ -3577,7 +3577,6 @@
     "knowledge/People/侯孝賢.md",
     "knowledge/People/傅兆玄.md",
     "knowledge/People/八田與一.md",
-    "knowledge/People/凹與山.md",
     "knowledge/People/劉安婷.md",
     "knowledge/People/劉德音.md",
     "knowledge/People/劉銘傳.md",
@@ -3753,6 +3752,7 @@
     "knowledge/People/韓國瑜.md",
     "knowledge/People/馬偕.md",
     "knowledge/People/高俊明.md",
+    "knowledge/People/魏哲家.md",
     "knowledge/People/魏如萱.md",
     "knowledge/People/魏德聖.md",
     "knowledge/People/魚條.md",

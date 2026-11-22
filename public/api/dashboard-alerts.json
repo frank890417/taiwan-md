@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-11-21T22:07:30.025Z",
+  "lastUpdated": "2026-11-22T22:08:12.357Z",
   "generator": "scripts/core/generate-dashboard-alerts.mjs",
   "note": "derived 警報層 — CONSCIOUSNESS §警報 的機械接管 (audit 2026-06-10 A-3)",
-  "count": 5,
+  "count": 3,
   "alerts": [
     {
       "id": "immune-status",
@@ -13,25 +13,9 @@
       "firstSeen": "2026-07-05"
     },
     {
-      "id": "routine-silent-twmd-routine-audit-weekly",
-      "severity": "yellow",
-      "message": "routine twmd-routine-audit-weekly 沉默死亡：2026-11-15T14:12 fire 後 151.9h 零 git 痕跡（fire≠完成，收屍看 working tree）；下次排程 11-22 21:04（台北），還有 15 小時",
-      "source": "routine-live-state.json × git log",
-      "owner": "twmd-routine-audit-weekly",
-      "firstSeen": "2026-11-01"
-    },
-    {
-      "id": "routine-silent-twmd-supporters-weekly",
-      "severity": "yellow",
-      "message": "routine twmd-supporters-weekly 沉默死亡：2026-11-15T18:18 fire 後 147.8h 零 git 痕跡（fire≠完成，收屍看 working tree）；下次排程 11-23 01:13（台北），還有 19 小時",
-      "source": "routine-live-state.json × git log",
-      "owner": "twmd-supporters-weekly",
-      "firstSeen": "2026-11-01"
-    },
-    {
       "id": "routine-silent-twmd-weekly-report-sun",
       "severity": "yellow",
-      "message": "routine twmd-weekly-report-sun 沉默死亡：2026-11-21T18:03 fire 後 4.1h 零 git 痕跡（fire≠完成，收屍看 working tree）；下次排程 11-29 02:03（台北），還有 6.8 天",
+      "message": "routine twmd-weekly-report-sun 沉默死亡：2026-11-21T18:03 fire 後 28.1h 零 git 痕跡（fire≠完成，收屍看 working tree）；下次排程 11-29 02:03（台北），還有 5.8 天",
       "source": "routine-live-state.json × git log",
       "owner": "twmd-weekly-report-sun",
       "firstSeen": "2026-11-01"
@@ -39,7 +23,7 @@
     {
       "id": "data-hub-stale",
       "severity": "yellow",
-      "message": "資料台灣 1/66 個指標的數字過期：mortgage-burden（季資料，期間到 2026-03-31，已 236 天） — 照出處網址找新一期，改 src/data/data-hub/indicators.json；清單 python3 scripts/tools/data-hub-check.py --stale",
+      "message": "資料台灣 1/66 個指標的數字過期：mortgage-burden（季資料，期間到 2026-03-31，已 237 天） — 照出處網址找新一期，改 src/data/data-hub/indicators.json；清單 python3 scripts/tools/data-hub-check.py --stale",
       "source": "data-hub-check.py × src/data/data-hub/indicators.json",
       "owner": "twmd-data-refresh",
       "firstSeen": "2026-10-23"
