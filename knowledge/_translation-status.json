@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-22T11:59:46+08:00",
-    "zhCommitHead": "af761d7aa0",
+    "lastUpdated": "2026-11-22T14:49:45+08:00",
+    "zhCommitHead": "88215b1c2b",
     "totalZh": 1193,
     "activeLanguages": [
       "en",
@@ -76,8 +76,8 @@
       },
       "pt": {
         "total_zh": 1193,
-        "fresh": 1188,
-        "stale": 4,
+        "fresh": 1189,
+        "stale": 3,
         "metadata_stale": 1,
         "missing": 0,
         "orphan": 0
@@ -100,8 +100,8 @@
       },
       "ru": {
         "total_zh": 1193,
-        "fresh": 1190,
-        "stale": 3,
+        "fresh": 1191,
+        "stale": 2,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -84112,20 +84112,18 @@
         "pt": {
           "path": "pt/Society/taiwan-covid-pandemic-and-vaccines.md",
           "translatedFrom": "Society/台灣新冠疫情與疫苗.md",
-          "sourceCommitSha": "fa44ba5a9",
-          "sourceContentHash": "sha256:1533ad6bc4336b4a",
-          "sourceBodyHash": "sha256:40600aa18fa8f8d1",
-          "translatedAt": "2026-09-26T11:13:28.332277+00:00",
+          "sourceCommitSha": "be13f04522",
+          "sourceContentHash": "sha256:b9d1a42aadf87af2",
+          "sourceBodyHash": "sha256:4db5c97b15ab8480",
+          "translatedAt": "2026-11-22T04:50:32.890427+00:00",
           "translationLastCommit": "2a13170e",
           "translationLastModified": "2026-10-10T23:18:58+08:00",
           "inferred": false,
           "footnoteDefs": 91,
-          "bytes": 153300,
+          "bytes": 155767,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+16 -14"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Society/taiwan-covid-pandemic-and-vaccines.md",
@@ -168257,18 +168255,18 @@
         "ru": {
           "path": "ru/Food/eel-noodles.md",
           "translatedFrom": "Food/鱔魚意麵.md",
-          "sourceCommitSha": "03b3aaae8",
-          "sourceContentHash": "sha256:81213e22c8b81c39",
-          "sourceBodyHash": "sha256:7eb60f7eb1751d17",
-          "translatedAt": "2026-08-04T17:42:37+08:00",
+          "sourceCommitSha": "be13f04522",
+          "sourceContentHash": "sha256:dd1dd6c92c65eddb",
+          "sourceBodyHash": "sha256:33bbf00febca421e",
+          "translatedAt": "2026-11-22T12:44:30+08:00",
           "translationLastCommit": "79729a92",
           "translationLastModified": "2026-08-04T21:00:05+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 14203,
+          "footnoteDefs": 24,
+          "bytes": 53629,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (24→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Food/eel-noodles.md",
@@ -178055,11 +178053,11 @@
           "sourceContentHash": "sha256:9d679c3b9e055699",
           "sourceBodyHash": "sha256:71b357541a22d4f7",
           "translatedAt": "2026-11-22T01:39:37.866884+00:00",
-          "translationLastCommit": "94cb2bd7",
-          "translationLastModified": "2026-10-10T23:13:48+08:00",
+          "translationLastCommit": "88215b1c",
+          "translationLastModified": "2026-11-22T11:59:46+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "bytes": 59124,
+          "bytes": 59126,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
