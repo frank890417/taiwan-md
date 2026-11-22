@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-23T00:01:43+08:00",
-    "zhCommitHead": "b19f7d5e9c",
+    "lastUpdated": "2026-11-23T01:05:45+08:00",
+    "zhCommitHead": "f5c0233f19",
     "totalZh": 1193,
     "activeLanguages": [
       "en",
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1193,
-        "fresh": 1177,
-        "stale": 15,
+        "fresh": 1178,
+        "stale": 14,
         "metadata_stale": 1,
         "missing": 0,
         "orphan": 0
@@ -92,8 +92,8 @@
       },
       "ar": {
         "total_zh": 1193,
-        "fresh": 1184,
-        "stale": 6,
+        "fresh": 1185,
+        "stale": 5,
         "metadata_stale": 3,
         "missing": 0,
         "orphan": 0
@@ -6974,11 +6974,11 @@
           "sourceContentHash": "sha256:80f8aab1d6d15909",
           "sourceBodyHash": "sha256:b43a1be5b105403a",
           "translatedAt": "2026-11-22T21:58:23+08:00",
-          "translationLastCommit": "be84dc2a",
-          "translationLastModified": "2026-11-19T01:23:30+08:00",
+          "translationLastCommit": "7d3c4ccc",
+          "translationLastModified": "2026-11-23T00:01:44+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "bytes": 70604,
+          "bytes": 70606,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -11136,20 +11136,18 @@
         "vi": {
           "path": "vi/Economy/pxmart-supermarket.md",
           "translatedFrom": "Economy/全聯福利中心.md",
-          "sourceCommitSha": "be13f045",
-          "sourceContentHash": "sha256:ad67e5c5d381f448",
-          "sourceBodyHash": "sha256:cf4e3b7d187326d2",
-          "translatedAt": "2026-11-02T01:59:44.818164+00:00",
+          "sourceCommitSha": "f775f9835c",
+          "sourceContentHash": "sha256:65944a1be853255b",
+          "sourceBodyHash": "sha256:7d2d9d3a94fccac0",
+          "translatedAt": "2026-11-22T21:58:15+08:00",
           "translationLastCommit": "ba7c8ab4",
           "translationLastModified": "2026-11-19T01:24:48+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 13675,
+          "bytes": 13851,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Economy/pxmart-supermarket.md",
@@ -11204,20 +11202,18 @@
         "ar": {
           "path": "ar/Economy/pxmart-supermarket.md",
           "translatedFrom": "Economy/全聯福利中心.md",
-          "sourceCommitSha": "be13f045",
-          "sourceContentHash": "sha256:ad67e5c5d381f448",
-          "sourceBodyHash": "sha256:cf4e3b7d187326d2",
-          "translatedAt": "2026-11-02T02:02:21.368389+00:00",
+          "sourceCommitSha": "f775f9835c",
+          "sourceContentHash": "sha256:65944a1be853255b",
+          "sourceBodyHash": "sha256:7d2d9d3a94fccac0",
+          "translatedAt": "2026-11-22T21:58:21+08:00",
           "translationLastCommit": "59bf6b68",
           "translationLastModified": "2026-11-19T01:13:18+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 14795,
+          "bytes": 14691,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Economy/pxmart-supermarket.md",
@@ -61578,8 +61574,8 @@
           "sourceContentHash": "sha256:ab11b395c6923e7b",
           "sourceBodyHash": "sha256:96f21cbf7e1ee69e",
           "translatedAt": "2026-11-22T21:58:23+08:00",
-          "translationLastCommit": "e2292176",
-          "translationLastModified": "2026-09-08T07:49:54+08:00",
+          "translationLastCommit": "7d3c4ccc",
+          "translationLastModified": "2026-11-23T00:01:44+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "bytes": 22986,
