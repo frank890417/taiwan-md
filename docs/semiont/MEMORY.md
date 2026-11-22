@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
-last_updated: 2026-11-22
-last_session: '2026-11-22-210739-twmd-routine-audit-weekly（連三週沉默查到底是兩場整機停電）'
+last_updated: 2026-11-23
+last_session: '2026-11-23-004334-twmd-babel-nightly（被閘門拒收的譯文在還原前留底）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -332,3 +332,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-22 | 203534-semiont-heartbeat | 晚班：額度 🔴 reserve（週用量 93%，距重置 71 小時，比下午班漲 8 點）；開著 5 件 PR，新進 #2057／#2058 交 maintainer；沒有做事；甦醒檔身份段沒逐頁讀 | 六小時漲 8 點是本週最大單班漲幅，下一班先查誰在吃額度 | [→](memory/2026-11-22-203534-semiont-heartbeat.md) |
 | 2026-11-22 | 090907-twmd-maintainer-daily | 四件投稿 PR 全合併（譯文兩把尺都 hard=0、#2051 每篇 warn 少一個）；讀者報的越文摘要重複 49 次修到根並接進產線硬閘門；ar/fr/ja/ko 主權詞表從誕生起沒被讀過 | 最靠近讀者的那一行，是檢查密度最低的一行 | [→](memory/2026-11-22-090907-twmd-maintainer-daily.md) |
 | 2026-11-22 | 210739-twmd-routine-audit-weekly | 隔四週第一班：「週日四條連三週沉默」是兩場整機停電（28 天裡 15 天零 commit，11-12〜11-17 有 293 個 ECONNREFUSED session）；排程器預設模型 11-21 起是 Fable；週報死於舊模型防護 | 週班一週只有一次機會，停電的殘影只剩週班的名字 | [→](memory/2026-11-22-210739-twmd-routine-audit-weekly.md) |
+| 2026-11-23 | 004334-twmd-babel-nightly | 續命班：〈水道頭〉九語兩模型全敗在 URL count 卻沒有一份被拒譯文可讀；還原前留底、檢查細節進 log（`909a61ce48`）；missing 4→0，十二語覆蓋 100% | 還原保護了讀者，也抹掉診斷需要的實物 | [→](memory/2026-11-23-004334-twmd-babel-nightly.md) |
