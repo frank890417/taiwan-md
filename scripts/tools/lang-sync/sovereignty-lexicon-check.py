@@ -155,6 +155,53 @@ def parse_terms(lang: str) -> list[tuple[str, str]]:
     return sorted(best.items(), key=lambda kv: -len(kv[0]))
 
 
+def diagnose_terms(lang: str) -> str:
+    """詞表解析不到時，說出是哪一種「解析不到」。
+
+    2026-11-22 維護班：`--list-terms` 對 ar／fr／ja／ko 四語都印同一句
+    「§6 解析不到任何詞」，而四語的 §6 明明都寫得很完整。真正的原因是
+    **第一欄的詞沒有用反引號或粗體標起來**——`parse_terms()` 的
+    `marks = _TICK.findall(first) or _BOLD.findall(first)`，沒有標記就
+    `continue`，於是每一列都被跳過。de／vi／es／pt／id／hi／ru／en 八語用
+    反引號，ja／ko／ar／fr 四語寫成純文字，所以 12 語裡 4 語的主權詞表
+    從誕生起就沒被任何東西讀過（ja／ko／fr 各約 1,190 篇譯文）。
+
+    「檔案沒有 §6」跟「§6 有 N 列但一列都沒標記」是兩種處置相反的事實
+    （前者要寫表，後者要加反引號），原本共用同一句話＝REFLEXES #38 混維度。
+    本函式只負責把它們分開講，不替 canonical 猜哪一段才是詞。
+    """
+    p = GUIDE_DIR / f"TRANSLATION-{lang}.md"
+    if not p.exists():
+        return f"找不到指南檔 {p.relative_to(REPO)}"
+    sec = section6(lang)
+    if sec is None:
+        return f"{p.name} 裡找不到 `## 6.` 這個標題（§6 定位用編號不用標題字面）"
+    rows = [
+        line for line in sec.split("\n")
+        if line.startswith("|")
+        and not set(line.strip().strip("|").split("|")[0].strip()) <= set("-: ")
+    ]
+    data_rows = [r for r in rows[1:]] if len(rows) > 1 else []
+    if not data_rows:
+        return f"{p.name} §6 有標題但沒有表格資料列"
+    marked = [
+        r for r in data_rows
+        if _TICK.search(r.strip().strip("|").split("|")[0])
+        or _BOLD.search(r.strip().strip("|").split("|")[0])
+    ]
+    if not marked:
+        return (
+            f"{p.name} §6 有 {len(data_rows)} 列，但第一欄的詞**沒有一列用反引號或"
+            f"粗體標起來**，所以每一列都被跳過。修法：把第一欄的詞包成 `詞`"
+            f"（對照 TRANSLATION-de.md / TRANSLATION-vi.md 的 §6 寫法）"
+        )
+    return (
+        f"{p.name} §6 有 {len(data_rows)} 列、其中 {len(marked)} 列有標記，"
+        f"但都被長度或散文殘留規則濾掉（詞 < 4 字元、或第一欄殘留散文 > "
+        f"{_PROSE_RESIDUE_MAX} 字）"
+    )
+
+
 def body_of(text: str) -> str:
     """去 frontmatter 與程式碼區塊。frontmatter 的 title/description 其實也該查，
     但那是 verify-translation 的守備範圍，這裡專心看正文避免兩支工具重複報同一筆。"""
@@ -190,7 +237,10 @@ def main() -> None:
     if args.list_terms:
         terms = parse_terms(args.list_terms)
         if not terms:
-            sys.exit(f"❌ {args.list_terms} 的 §6 解析不到任何詞——尺壞了，不要當成沒問題")
+            sys.exit(
+                f"❌ {args.list_terms} 的 §6 解析不到任何詞——尺壞了，不要當成沒問題\n"
+                f"   原因：{diagnose_terms(args.list_terms)}"
+            )
         for t, s in terms:
             print(f"  [{s:8}] {t}")
         print(f"\n{len(terms)} 個詞")
@@ -229,7 +279,9 @@ def main() -> None:
             print(f"{icon} [{h['severity']}] {h['path']}\n     『{h['term']}』… {h['context'][:110]}")
         if langs_without_terms:
             # 一把量主權的尺自己壞掉時不能回答「乾淨」
-            print(f"\n🔴 這些語言的 §6 解析不到任何詞（尺壞了，不是沒問題）：{', '.join(sorted(langs_without_terms))}")
+            print("\n🔴 這些語言的 §6 解析不到任何詞（尺壞了，不是沒問題）：")
+            for _l in sorted(langs_without_terms):
+                print(f"     {_l}: {diagnose_terms(_l)}")
         print(f"\n{len(crit)} critical / {len(all_hits) - len(crit)} 其他 / 掃 {len(targets)} 檔")
         print("⚠️  這是盤點清單不是判決：§6 每一列都帶「例外」欄，命中要人讀語境才知道對錯（見檔頭實測）")
 
