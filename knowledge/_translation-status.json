@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-22T23:45:00+08:00",
-    "zhCommitHead": "211bef8601",
+    "lastUpdated": "2026-11-22T23:47:17+08:00",
+    "zhCommitHead": "ac64054053",
     "totalZh": 1193,
     "activeLanguages": [
       "en",
@@ -68,8 +68,8 @@
       },
       "id": {
         "total_zh": 1193,
-        "fresh": 1183,
-        "stale": 7,
+        "fresh": 1184,
+        "stale": 6,
         "metadata_stale": 3,
         "missing": 0,
         "orphan": 0
@@ -100,16 +100,16 @@
       },
       "ru": {
         "total_zh": 1193,
-        "fresh": 1188,
-        "stale": 5,
+        "fresh": 1189,
+        "stale": 4,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "de": {
         "total_zh": 1193,
-        "fresh": 1158,
-        "stale": 27,
+        "fresh": 1159,
+        "stale": 26,
         "metadata_stale": 8,
         "missing": 0,
         "orphan": 0
@@ -6844,11 +6844,11 @@
           "sourceContentHash": "sha256:80f8aab1d6d15909",
           "sourceBodyHash": "sha256:b43a1be5b105403a",
           "translatedAt": "2026-11-22T21:58:11+08:00",
-          "translationLastCommit": "46eb28b9",
-          "translationLastModified": "2026-11-19T01:21:25+08:00",
+          "translationLastCommit": "ac640540",
+          "translationLastModified": "2026-11-22T23:45:01+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "bytes": 48498,
+          "bytes": 48500,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -61464,8 +61464,8 @@
           "sourceContentHash": "sha256:ab11b395c6923e7b",
           "sourceBodyHash": "sha256:96f21cbf7e1ee69e",
           "translatedAt": "2026-11-22T21:58:11+08:00",
-          "translationLastCommit": "e1127059",
-          "translationLastModified": "2026-09-08T06:09:55+08:00",
+          "translationLastCommit": "ac640540",
+          "translationLastModified": "2026-11-22T23:45:01+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "bytes": 15344,
@@ -61528,20 +61528,18 @@
         "id": {
           "path": "id/Lifestyle/tra-mingri-express.md",
           "translatedFrom": "Lifestyle/台鐵鳴日號.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:692645244e391abd",
-          "sourceBodyHash": "sha256:28f054608fa81e22",
-          "translatedAt": "2026-09-08T15:54:46+08:00",
+          "sourceCommitSha": "f775f9835c",
+          "sourceContentHash": "sha256:ab11b395c6923e7b",
+          "sourceBodyHash": "sha256:96f21cbf7e1ee69e",
+          "translatedAt": "2026-11-22T15:40:27.711352+00:00",
           "translationLastCommit": "d79f70f4",
           "translationLastModified": "2026-09-09T00:20:30+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "bytes": 16425,
+          "bytes": 15834,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+19 -19"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Lifestyle/tra-mingri-express.md",
@@ -61598,20 +61596,18 @@
         "ru": {
           "path": "ru/Lifestyle/tra-mingri-express.md",
           "translatedFrom": "Lifestyle/台鐵鳴日號.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:692645244e391abd",
-          "sourceBodyHash": "sha256:28f054608fa81e22",
-          "translatedAt": "2026-09-08T00:42:58+08:00",
+          "sourceCommitSha": "f775f9835c",
+          "sourceContentHash": "sha256:ab11b395c6923e7b",
+          "sourceBodyHash": "sha256:96f21cbf7e1ee69e",
+          "translatedAt": "2026-11-22T21:58:23+08:00",
           "translationLastCommit": "e2292176",
           "translationLastModified": "2026-09-08T07:49:54+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "bytes": 23348,
+          "bytes": 22986,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+19 -19"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Lifestyle/tra-mingri-express.md",
@@ -81432,20 +81428,18 @@
         "de": {
           "path": "de/Society/shuidaotou-waterworks.md",
           "translatedFrom": "Society/水道頭.md",
-          "sourceCommitSha": "015d1a9c9",
-          "sourceContentHash": "sha256:d584a485050631e9",
-          "sourceBodyHash": "sha256:5fb85b385727325b",
-          "translatedAt": "2026-09-23T13:51:53+08:00",
+          "sourceCommitSha": "f775f9835c",
+          "sourceContentHash": "sha256:e5ee5e2296d7b18d",
+          "sourceBodyHash": "sha256:5131c3db231d9988",
+          "translatedAt": "2026-11-22T21:58:24+08:00",
           "translationLastCommit": "c549b26c",
           "translationLastModified": "2026-09-23T15:53:54+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 23913,
+          "bytes": 24227,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+31 -30"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
