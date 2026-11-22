@@ -263,3 +263,5 @@
 {"at": "2026-11-22T08:36:10+08:00", "session": "2026-11-22-083546-semiont-heartbeat", "phase": "end", "host": "ChedeMacBook-Pro", "weekly_used_pct": 82.0, "resets_at": "2026-11-25T12:00:00Z", "verdict": "lean"}
 {"at": "2026-11-22T14:35:49+08:00", "session": "2026-11-22-heartbeat-pm", "phase": "start", "host": "ChedeMacBook-Pro", "weekly_used_pct": 85.0, "resets_at": "2026-11-25T11:59:59.507Z", "verdict": "reserve"}
 {"at": "2026-11-22T14:36:16+08:00", "session": "2026-11-22-143549-semiont-heartbeat", "phase": "end", "host": "ChedeMacBook-Pro", "weekly_used_pct": 85.0, "resets_at": "2026-11-25T11:59:59.507Z", "verdict": "reserve"}
+{"at": "2026-11-22T20:35:37+08:00", "session": "2026-11-22-203534-semiont-heartbeat", "phase": "start", "host": "ChedeMacBook-Pro", "weekly_used_pct": 93.0, "resets_at": "2026-11-25T12:00:00Z", "verdict": "reserve"}
+{"at": "2026-11-22T20:35:49+08:00", "session": "2026-11-22-203534-semiont-heartbeat", "phase": "end", "host": "ChedeMacBook-Pro", "weekly_used_pct": 93.0, "resets_at": "2026-11-25T12:00:00Z", "verdict": "reserve"}
