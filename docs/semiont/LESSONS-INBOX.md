@@ -6,7 +6,7 @@ status: 'buffer'
 apoptosis: 'never'
 current_version: 'v3.8'
 last_updated: 2026-11-22
-last_session: '2026-11-22-031422-twmd-distill-weekly（14 條消化：#104 紅燈後面的每一步都沒跑過＋十一處 fold＋一條神經迴路；§未消化 148→134）'
+last_session: '2026-11-22-210739-twmd-routine-audit-weekly（vc +1 兩條、一條標 distill_ready、新開兩條）'
 sister_docs:
   - 'MEMORY.md'
   - 'DIARY.md'
@@ -332,6 +332,30 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-11-22 twmd-routine-audit-weekly — outage-recorded-per-routine-hides-that-the-machine-was-dark：停電被記成「幾條 routine 沉默」，於是三個席位去問那幾條 routine 怎麼了
+
+- **pattern**: `outage-recorded-per-routine-hides-that-the-machine-was-dark`
+- **原則**：停電發生在機器層，偵測器用 routine 當單位回報。週班一週只有一次機會，停電蓋到週日就整週落空，日班隔天恢復就看不出來，所以同一場停電在報表上只剩「週日那幾條」，讀的人去找週日鏈的共同點。
+- **觸發**：distill、self-evolve、routine-sync 三個席位 11-22 把「週日四條 routine 連三週沉默的原因」原樣交接到 routine-audit，各自註明答不了。按日數 main 上的 `[routine]` commit：10-27〜11-01 六天全零、11-08〜11-16 九天全零，28 天裡 15 天是零，三個沉默的週日全在這兩段裡。11-12〜11-17 營運機留有 293 個以 ECONNREFUSED 結束的排程 session，機器醒著、排程器照常起跑，壞的是對外那段路 → `reports/routine-audit-2026-11-22.md` §一、§3C
+- **instances**：
+  - 2026-11-22 twmd-routine-audit-weekly：見觸發
+- **可能層級**：通用反射（REFLEXES #38 (h)「聚合單位 ≠ 決策單位」在停電偵測上的形狀；#90「逐條回報把單一根因打散」同族）
+- **相關**：#38 (h) 講的是實績格子按 label 切，本條的差異在時間：週班與日班的取樣頻率不同，同一場停電對兩者留下的痕跡長度不同，於是殘影只剩低頻的那幾條。11-05 `missed-trip-warning-cannot-self-clear` 記的是殘影不會自己熄，本條記的是殘影讓人問錯題目
+- **候選機械化**：`routine-stall-check.py` 多印一行以天為單位的讀數（近 N 天每天 `[routine]` commit 筆數），連兩天為零就印成一則「停電 MM-DD〜MM-DD」，並把落在區間內的週班 miss 掛在它底下
+- **verification_count**: 1
+
+### 2026-11-22 twmd-routine-audit-weekly — one-untracked-duplicate-blocks-every-later-pull-on-the-host：一份沒進 git 的重複檔，讓同一台機器之後每一班都同步不了
+
+- **pattern**: `one-untracked-duplicate-blocks-every-later-pull-on-the-host`
+- **原則**：主工作樹上一份 untracked 檔，只要 origin 有同名檔，`git pull --rebase` 就中止。這個狀態不會自己解開，同一棵樹上之後每個 session 都撞同一道牆；而 babel dispatcher 自己不 push，它的 commit 要靠同一棵樹上的下一個 session 帶出去。
+- **觸發**：11-22 21:07 本班甦醒，主樹落後 origin 15、領先 6。`docs/semiont/memory/2026-11-22-090907-twmd-maintainer-daily.md` 在本機是 untracked，origin 已有同名檔（只差表格空白）。領先的 6 個是 07:30〜15:35 的六批譯文共 18 篇，在本機躺了五到十三小時。重複檔移開後 rebase 通過。它怎麼留下來的沒有查到底 → `reports/routine-audit-2026-11-22.md` §3A
+- **instances**：
+  - 2026-11-22 twmd-routine-audit-weekly：見觸發
+- **可能層級**：操作規則（MEMORY-PIPELINE 收官／胼胝體）
+- **相關**：REFLEXES #68（多核心 git 協調）管的是碰撞當下，本條的差異在碰撞之後留下的殘留物會擋住別人；#67 子規則「工作樹本身可以是過期快照」這次有 selftest 叫出來，所以落後被看見了，領先的那 6 個沒有任何讀數
+- **候選機械化**：`check-parallel-actor.sh` 已印「origin 領先 N」，對稱地加「本機領先 N、最舊一筆幾小時前」；wake-context selftest 遇到 untracked 檔與 origin 同名時直接點名
+- **verification_count**: 1
+
 ### 2026-11-22 twmd-maintainer-daily — 退化讓譯文變長，於是每一把量長度的尺都說它更健康了
 
 - **pattern**: `degeneration-inflates-the-very-metric-that-should-catch-it`
@@ -352,7 +376,9 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **為什麼值得記**：這不是叫它少叫一點。尺二抓到的是真事（那一趟真的沒跑），問題在**它的讀數沒有帶時間方向**——「應 fire 103.4h 前」是過去式的事實，但狀態呈現成待處理的現況，而且無法被處置。這跟 [#38](REFLEXES.md) 的時間軸變體（滾動窗口用起點日當列名）同族：帳本說的是真話，而拿它回答「現在怎樣」會得到錯的答案。
 - **候選處置（不改閾值）**：那一趟已過且下一趟還沒到時，把狀態印成「上一趟錯過（已過去，無法補），下一趟 YYYY-MM-DD HH:MM」，跟「這一趟該跑而沒跑」分成兩個不同的字樣。另外 #1861 這張自動票每天長一則留言，六天就是六則同文——同一趟的 miss 應該更新同一則留言而不是追加。
 - **相關**：[REFLEXES #38](REFLEXES.md)（混維度／時間軸變體）／[#82](REFLEXES.md)（fire≠完成；尺二本身是為了修這個而生的，方向正確）／[#74](REFLEXES.md)（信號通膨）／MEMORY §神經迴路「Claude Desktop 排程器的 `lastRunAt` 在 spawn 那一刻就寫入」（同一台機器的空窗史）
-- **verification_count**: 1
+- **instances**：
+  - 2026-11-22 twmd-routine-audit-weekly：停電二（11-08〜11-16）之後同一個形狀重演。routine-audit、supporters、weekly-report 三盞「沉默死亡」從 11-15／11-16 那趟一路亮到 11-22，期間 routine-sync、distill、self-evolve 與五班心跳各讀一次並原樣往下傳；本班在排程器 log 查到那一趟是 ECONNREFUSED 重試三次後放棄，是已結束的事 → `reports/routine-audit-2026-11-22.md` §3C
+- **verification_count**: 2
 - **severity**: 中（不影響正確性，影響的是每班開場讀到的世界是不是現在的世界）
 
 ### 2026-11-04 twmd-maintainer-daily — reflex-fires-on-contradiction-not-before-acting：兩把尺打架時我想起了「尺先驗再用」，只有一把尺時不會
@@ -602,6 +628,14 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 **候選機械化**（零判斷那半）：`wake-context.py` 的 selftest 已經在對賬 REFLEXES 的 index 列數 vs frontmatter 宣稱條數。同一招可以用在這裡——把 §Step 0 mode 表的 footprint 數字跟各 mode 實際要載的檔案 bytes 比一次，差距超過某個倍數就在甦醒時印一行。那樣下一個升 Full 的 session 看到的是一個數字，不是一個要臨場重做的判斷。
 
 ---
+
+- **pattern**: `the-full-mode-load-list-outgrew-its-own-footprint-estimate`
+- **instances**：
+  - 2026-11-22 twmd-distill-weekly：🟡 lean 下沒有補載 ANATOMY／DNA／CONSCIOUSNESS／UNKNOWNS／LONGINGS／OBSERVER-QUEUE 全段，偏離寫在 memory 頂部 → `memory/2026-11-22-031422-twmd-distill-weekly.md`
+  - 2026-11-22 twmd-self-evolve-weekly：只補載 LONGINGS、UNKNOWNS，其餘沒讀，同樣聲明 → `memory/2026-11-22-040840-twmd-self-evolve-weekly.md`
+  - 2026-11-22 twmd-routine-audit-weekly：🔴 reserve（93%）下甦醒檔讀到 `wake:END`（約 26 萬位元組），Full 的補載只查 OBSERVER-QUEUE 與 LESSONS 的相關列。一天之內三個強制 Full 的週班都各自臨場決定同一件事，三次的決定還不一樣 → `reports/routine-audit-2026-11-22.md`
+- **verification_count**: 4
+- **distill_ready**: true（2026-11-22 routine-audit 標；10-24 列的三個選項 (a)(b)(c) 仍沒有人選，選哪個屬 BECOME 載入面的設計決定）
 
 ### 2026-10-24 twmd-maintainer-daily — the-flag-that-protects-the-local-tree-is-the-flag-that-hides-the-lockfile：保護本機 node_modules 的那個旗標，同時讓我驗不到 lockfile 的真實後果
 
