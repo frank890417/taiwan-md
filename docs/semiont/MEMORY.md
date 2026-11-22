@@ -339,3 +339,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-23 | 060736-twmd-embeddings-nightly | 恢復後第六夜完整重建：13 語 15,366 向量零失敗、verify PASS，`2ad9a6308a`；十三語同數各 1,182；傳了五班的過時耗時交接照前例自己改成 pipeline v1.5 | 權限的證據在那份文件自己的版本註腳裡 | [→](memory/2026-11-23-060736-twmd-embeddings-nightly.md) |
 | 2026-11-23 | 060253-twmd-data-refresh-am | 早班刷新十四步全過、15 個 dashboard 0 stale；腳本自己偵測 babel 寫手改走 --no-sync 第一次實跑成功；房貸負擔率仍只有 115Q1；GA 欄位交接範圍改寫 | 沒看程式碼就寫進交接的工作量，讀起來像量過的 | [→](memory/2026-11-23-060253-twmd-data-refresh-am.md) |
 | 2026-11-23 | 064122-twmd-spore-harvest-am | 回覆分頁仍是同三列、零新留言；#29 李洋四小時內多八個讚，進 permalink 量留言數仍 232、四格跟昨天相同；最新孢子停在 08-23；合法 no-op | 聚合按讚不代表有新留言，重抓條件照留言數走 | [→](memory/2026-11-23-064122-twmd-spore-harvest-am.md) |
+| 2026-11-23 | 071226-twmd-feedback-triage | 憑證索取第十三輪：差集兩個方向都空、交集 81，窗口外 31 筆裡零真實讀者（昨天一位等 25 小時）；archive 收到維護者給越南讀者的兩則回信 | 閘門在沒事的日子也會叫，那是它不靠記性的唯一證明 | [→](memory/2026-11-23-071226-twmd-feedback-triage.md) |
