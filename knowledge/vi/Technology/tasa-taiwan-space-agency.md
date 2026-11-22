@@ -1,6 +1,6 @@
 ---
-title: 'Cơ Quan Vũ Trụ Đài Loan: Ba Mươi Hai Năm Để Tổ Chức Vũ Trụ Cho Một Quốc Gia Chưa Hoàn Toàn Có Tên'
-description: 'Năm 1991 nó gọi là "Phòng Chuẩn Bị", không có tên chính thức, không có tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên tên. Ba Mươi Hai Năm Sau, Nó Đã Đặt Đài Loan Trở Lại Tên Của Nó. Trung Tâm Điều Khiển Ở Tân Trúc Hiện Theo Dõi Nhịp Tim Của Chín Vệ Tinh 24 Giờ Mỗi Ngày. Khi Xảy Ra Động Đất Ở Hoa Liên Vào Ngày 0403, Nó Đã Cập Nhật Lại Lệnh Trong Sáu Phút Sau Chấn Động, Và Chụp Ảnh Trong Ba Giờ. Nó Hiện Đang Hoàn Thành Mảnh Ghép Cuối Cùng - Một Tên Lửa Đưa Vệ Tinh Vào Quỹ Đạo Của Riêng Nó, Và Một Nhiệm Vụ Mặt Trăng Đã Được Phê Duyệt, Sớm Nhất Là 2028.'
+title: 'Cơ quan Vũ trụ Đài Loan: ba mươi hai năm để tổ chức vũ trụ cho một quốc gia chưa hoàn toàn có tên'
+description: 'Năm 1991 nó được gọi là "Phòng Chuẩn Bị", không có tên chính thức, không có tên lửa, không có đất riêng. Ba mươi hai năm sau, nó đã đặt Đài Loan trở lại tên của nó. Trung tâm điều khiển ở Tân Trúc hiện theo dõi nhịp tim của chín vệ tinh 24 giờ mỗi ngày. Khi xảy ra động đất ở Hoa Liên vào ngày 0403, nó đã cập nhật lại lệnh trong sáu phút sau chấn động, và chụp ảnh trong ba giờ. Nó hiện đang hoàn thành mảnh ghép cuối cùng — một tên lửa đưa vệ tinh vào quỹ đạo của riêng nó, và một nhiệm vụ Mặt Trăng đã được phê duyệt, sớm nhất là 2028.'
 date: 2026-06-04
 category: 'Technology'
 tags:

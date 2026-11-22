@@ -473,10 +473,16 @@ def git_lock_commit(lang: str, worker_labels: set, files: list, log: Logger) -> 
 # ────────────────────────── verify trio + HEAD-restore (ported + amended) ──────────────────────────
 
 def verify_one(zh_path: str, trans_path: str, log: Logger) -> tuple[bool, Optional[str]]:
-    """The hard gate: target-language-check.py + verify-translation.py +
-    cjk-leak-check.py + article-health.py --profile=pre-commit. Ported from
-    dispatch-node-v3.sh verify_group() (per-article body), minus the unlink
-    side effect — the caller decides disposition via restore_head_or_quarantine().
+    """The hard gate, in execution order: target-language-check.py →
+    verify-translation.py → cjk-leak-check.py → article-health.py
+    --profile=pre-commit → currency-identity-check.py → numeral-magnitude-check.py
+    → degenerate-repetition-check.py. Ported from dispatch-node-v3.sh
+    verify_group() (per-article body), minus the unlink side effect — the caller
+    decides disposition via restore_head_or_quarantine().
+
+    這份清單 2026-11-22 補齊：此前它停在前四道，而 currency（2026-09-26）與
+    magnitude（2026-10-08）早就接上來了，讀 docstring 的人會少看到兩道正在守的閘門
+    （宣告與實作漂移，REFLEXES #56）。加新閘門時這一行跟 `ok = (...)` 一起改。
 
     Why target-language-check runs first (2026-09-09): a delegated agent wrote an
     English translation into knowledge/de/ and every gate here passed it —
@@ -550,8 +556,23 @@ def verify_one(zh_path: str, trans_path: str, log: Logger) -> tuple[bool, Option
         cwd=REPO, capture_output=True, text=True,
     )
     magnitude_fail = r5.returncode == 1 and "處量級可疑" in r5.stdout
+    # 退化重複閘門（2026-11-22 維護班，issue #2055）：讀者 Jasi Duy Nguyễn 回報
+    # 〈國家太空中心〉越南文版開頭摘要「重複 tên 約 60 次」（實測 49 次）。那一行是
+    # description，原樣印在搜尋結果裡。退化迴圈穿過上面每一道閘門：verify 19/19 全過
+    # （腳註數、章節數、網址 multiset、passthrough 欄位都對），health 只有 seo-meta
+    # 的「太長」warn（不是 hard），ratio 還因為變長而更「健康」。而它同時吃掉內容——
+    # 中文寫「沒有名字、沒有火箭、沒有自己的地」三件事，譯文只剩第一件。
+    # 上面的閘門量結構與長度，沒有一支在問「這串字還是人話嗎」。
+    # 本篇是 7a750b2eb7（越南語首批）留下的，所以病在產線不在投稿端。
+    # exit 1 = 有退化；其他非零是尺自己壞了（掃 0 檔回 2），不擋。
+    r6 = subprocess.run(
+        ["python3", "scripts/tools/lang-sync/degenerate-repetition-check.py",
+         "--files", trans_path, "--quiet"],
+        cwd=REPO, capture_output=True, text=True,
+    )
+    degenerate_fail = r6.returncode == 1
     ok = (out1.get("fails", 1) == 0 and not leak_fail and not health_fail
-          and not currency_fail and not magnitude_fail)
+          and not currency_fail and not magnitude_fail and not degenerate_fail)
     if ok:
         return True, None
     # 失敗原因要帶「是哪幾項」不只「有幾項」——2026-07-27 診斷 verify 類失敗時
@@ -578,6 +599,9 @@ def verify_one(zh_path: str, trans_path: str, log: Logger) -> tuple[bool, Option
     elif magnitude_fail and out1.get("fails", 1) == 0:
         n = re.search(r"(\d+) 處量級可疑", r5.stdout)
         reason = f"magnitude[{n.group(1) if n else '?'}]"
+    elif degenerate_fail and out1.get("fails", 1) == 0:
+        n = re.search(r"(\d+) 處退化重複", r6.stdout)
+        reason = f"degenerate[{n.group(1) if n else '?'}]"
     else:
         failed_names = [c.get("name", "?") for c in (out1.get("checks") or [])
                         if c.get("level") == "FAIL"]
