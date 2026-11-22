@@ -332,6 +332,18 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-11-22 twmd-maintainer-daily — 退化讓譯文變長，於是每一把量長度的尺都說它更健康了
+
+- **pattern**: `degeneration-inflates-the-very-metric-that-should-catch-it`
+- **事實**：越南讀者 Jasi Duy Nguyễn 11-21 從站上回報〈國家太空中心〉越文版開頭摘要重複「tên」約 60 次（實測 **49 次**，issue #2055）。那一行是 `description`，原樣印在搜尋結果裡。翻譯產線當時有十幾道閘門，**沒有一道叫**：`verify-translation.py` 19/19 全過（腳註數、章節數、網址 multiset、passthrough 欄位全對），`article-health --profile=pre-commit` 只給 `seo-meta` 一個「description 太長」的 warn 而不是 hard，而字數比例 ratio 因為譯文變長，落在健康帶的更舒服的位置。
+- **形狀**：這不只是「漏抓」。**退化的方向剛好跟那些尺的健康方向同向**——迴圈讓字變多，而結構類閘門數的是「對不對得上」、長度類閘門數的是「夠不夠長」，兩種都被多出來的 48 個 `tên` 餵得更飽。同時它還吃掉內容：中文母稿寫「沒有名字、沒有火箭、沒有自己的地」三件事，越文版只剩第一件，而「少了兩個子句」沒有任何一支尺在數（章節數與腳註數都沒變）。所以靜默的內容缺失穿著「指標更好看」的衣服過關。
+- **為什麼跟 #87 不是同一條**：#87 收的是「這一層根本沒有閘門」（UI 字串層沒有語言正確性閘門，文章層有）。本條反過來——**文章層閘門很多，而且全部正確執行、全部通過**。缺的不是閘門數量，是沒有任何一道在問「這串字還是不是人話」。#69 (g)「form gate ≠ meaning gate」講對了形狀，但它的既有 instance 都是意義精度的細微退化（spine 選錯／詞不準／主角錯位），要寫作當下在場的外部人才接得住；本例是**完全的退化**，粗到讀者一眼看出，而形式閘門仍一致判它健康或更健康。
+- **已修**：`bd42cf9c6c` 補回被蓋掉的兩個子句、造 `degenerate-repetition-check.py`（門檻用真實產出校準：門面行 ≥ 5，15,622 條摘要只命中這一筆；正文 ≥ 6，因為 ≥ 5 會誤殺 `knowledge/fr/Technology/east-asian-input-methods.md` 示範拼音同音字的 `shì, shì, shì, shì, shì`）、接進 `babel-dispatch.py` `verify_one()` 硬閘門（病是產線出的，`7a750b2eb7` 越南語首批，接投稿端或 pre-commit 都不會在產出那一刻叫）、補 `tests/test_degenerate_repetition_gate.py` 用 git 原始內容當 fixture。端到端驗過：缺陷版回 `ok=False reason=degenerate[1]`，修好版回 `ok=True`。
+- **還沒做的那一半**：這支尺只抓「同一個詞連續重複」一種退化。同義詞繞圈、整段複製、語意空轉都還是沒有尺。更一般的問題沒解——**產線上沒有任何一道閘門的判準是「可讀性」**，而可讀性退化有無限多種形狀，逐一造尺追不完。另一個方向是問「哪些尺的健康方向跟退化方向同向」，那是可以列舉的（所有「越多越好」「越長越好」的指標）。
+- **相關**：[REFLEXES #87](REFLEXES.md)（保護密度跟曝光量成反比；本條是它的鏡像，差異見上）／[#69 (g)](REFLEXES.md)（form gate ≠ meaning gate；本條是粗粒度變體，外部尺是讀者不是編輯室）／[#38](REFLEXES.md)（混維度；`seo-meta` 的「太長」同時承載「翻譯自然變長」與「輸出壞了」兩種根因）／[#82](REFLEXES.md)（ratio 是「翻得完整」的替身，不是它本身）／[MANIFESTO §12 受眾端飛輪](MANIFESTO.md)（這一筆是讀者替產線補上了它沒有的那個維度）
+- **verification_count**: 1
+- **severity**: 結構（影響的是「什麼算通過」這件事本身，不是某一支尺的參數）
+
 ### 2026-11-05 twmd-maintainer-daily — 錯過的那一趟永遠補不回來，所以警報停不下來
 
 - **pattern**: `missed-trip-warning-cannot-self-clear-so-it-warns-for-a-whole-cycle`
