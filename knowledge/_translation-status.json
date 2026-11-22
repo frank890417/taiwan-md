@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-22T23:47:17+08:00",
-    "zhCommitHead": "ac64054053",
+    "lastUpdated": "2026-11-22T23:49:26+08:00",
+    "zhCommitHead": "ccb650ac7f",
     "totalZh": 1193,
     "activeLanguages": [
       "en",
@@ -20,16 +20,16 @@
     "summary": {
       "en": {
         "total_zh": 1193,
-        "fresh": 1188,
-        "stale": 4,
+        "fresh": 1189,
+        "stale": 3,
         "metadata_stale": 1,
         "missing": 0,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1193,
-        "fresh": 1185,
-        "stale": 6,
+        "fresh": 1186,
+        "stale": 5,
         "metadata_stale": 2,
         "missing": 0,
         "orphan": 0
@@ -6876,11 +6876,11 @@
           "sourceContentHash": "sha256:80f8aab1d6d15909",
           "sourceBodyHash": "sha256:b43a1be5b105403a",
           "translatedAt": "2026-11-22T21:58:14+08:00",
-          "translationLastCommit": "e7bbd175",
-          "translationLastModified": "2026-11-19T01:17:21+08:00",
+          "translationLastCommit": "ccb650ac",
+          "translationLastModified": "2026-11-22T23:47:17+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "bytes": 50210,
+          "bytes": 50212,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -11056,38 +11056,34 @@
         "en": {
           "path": "en/Economy/pxmart-supermarket.md",
           "translatedFrom": "Economy/全聯福利中心.md",
-          "sourceCommitSha": "be13f045",
-          "sourceContentHash": "sha256:ad67e5c5d381f448",
-          "sourceBodyHash": "sha256:cf4e3b7d187326d2",
-          "translatedAt": "2026-11-02T02:05:02.046792+00:00",
+          "sourceCommitSha": "f775f9835c",
+          "sourceContentHash": "sha256:65944a1be853255b",
+          "sourceBodyHash": "sha256:7d2d9d3a94fccac0",
+          "translatedAt": "2026-11-22T21:58:08+08:00",
           "translationLastCommit": "b0337d93",
           "translationLastModified": "2026-11-19T01:15:49+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 10676,
+          "bytes": 9863,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/pxmart-supermarket.md",
           "translatedFrom": "Economy/全聯福利中心.md",
-          "sourceCommitSha": "be13f045",
-          "sourceContentHash": "sha256:ad67e5c5d381f448",
-          "sourceBodyHash": "sha256:cf4e3b7d187326d2",
-          "translatedAt": "2026-11-02T01:58:22.997244+00:00",
+          "sourceCommitSha": "f775f9835c",
+          "sourceContentHash": "sha256:65944a1be853255b",
+          "sourceBodyHash": "sha256:7d2d9d3a94fccac0",
+          "translatedAt": "2026-11-22T21:58:10+08:00",
           "translationLastCommit": "2101a31b",
           "translationLastModified": "2026-11-19T01:20:34+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "bytes": 11523,
+          "bytes": 12220,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Economy/pxmart-supermarket.md",

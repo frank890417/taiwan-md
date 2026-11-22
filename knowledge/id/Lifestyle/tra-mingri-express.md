@@ -1,15 +1,15 @@
 ---
-title: 'Kereta Api Kekalangan Hokkaido: Dari Bencana Estetika pada Rel ke Istana Bergerak Bintang Lima'
-description: 'Dari modifikasi kereta lama Kuo Kuang yang berusia tujuh puluh tahun, bagaimana Berkshire Design dan Lion Travel merevolusi estetika rel dengan konsep "Angin Musim Gugur", menggabungkan warna hitam dan oranye yang elegan serta estetika pengurangan, sekaligus melahirkan restoran bergerak bergengsi internasional "Dapur Hokkaido" yang memenangkan penghargaan iF Gold dari Jerman, mendefinisikan kembali pariwisata rel kelas atas Taiwan.'
+title: 'Mingrihao KA Taiwan: Dari Bencana Estetika Perkeretaapian ke Istana Bintang Lima Bergerak'
+description: "Berawal dari transformasi masalah kronis Ju Guang Hao yang berusia 70 tahun, bagaimana Bai Cheng Design dan Lion Travel dengan konsep 'Angin Musim Gugur' memperkenalkan cat hitam-oranye mewah namun tenang serta estetika pengurangan ke perkeretaapian Taiwan, dan lebih lanjut melahirkan restoran bergerak 'Mingri Kitchen' yang memenangkan Penghargaan Emas iF Jerman, mendefinisikan ulang perjalanan kereta api mewah Taiwan."
 date: 2026-08-17
 category: 'Lifestyle'
 tags:
   [
-    'Kereta Hokkaido',
-    'Dapur Hokkaido',
-    'Estetika Kereta Api',
-    'Pariwisata Rel',
-    'Berkshire Design',
+    'Mingrihao',
+    'Mingri Kitchen',
+    'Estetika KA Taiwan',
+    'Wisata Kereta Api',
+    'Bai Cheng Design',
     'Lion Travel',
   ]
 subcategory: '交通與美學'
@@ -20,93 +20,95 @@ lastHumanReview: false
 imageNote: '原 Wikimedia 卡片圖（Kazehayashi，CC BY-SA 4.0，File:TRA_E405_with_Future_passenger_cars_at_Taitung_Station_20210117.jpg）2026-09-05 收庫時連續四次 HTTP 429 未抓到，授權已核實可收，待重跑 image-ingest.mjs 補圖'
 curation: 'incubating'
 translatedFrom: 'Lifestyle/台鐵鳴日號.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:692645244e391abd'
-sourceBodyHash: 'sha256:28f054608fa81e22'
-translatedAt: '2026-09-08T15:54:46+08:00'
+sourceCommitSha: 'f775f9835c'
+sourceContentHash: 'sha256:ab11b395c6923e7b'
+sourceBodyHash: 'sha256:96f21cbf7e1ee69e'
+translatedAt: '2026-11-22T15:40:27.711352+00:00'
 ---
 
-![Interior dan eksterior kereta api listrik E405 yang ditarik oleh Kereta Hokkaido pada sore hari, berhenti di Stasiun Takao](https://upload.wikimedia.org/wikipedia/commons/2/27/TRA_E405_with_Future_passenger_cars_at_Taitung_Station_20210117.jpg)
-_17 Januari 2021, kereta api listrik E405 yang ditarik oleh Hokkaido berhenti di Stasiun Takao. Foto: Kazehayashi / Wikimedia Commons. [Lisensi melalui Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TRA_E405_with_Future_passenger_cars_at_Taitung_Station_20210117.jpg)._
+![Lokomotif listrik E405 Administrasi Kereta Api Taiwan menarik kereta Meiritsu dengan cat sunset, berhenti di Stasiun Taitung](https://upload.wikimedia.org/wikipedia/commons/2/27/TRA_E405_with_Future_passenger_cars_at_Taitung_Station_20210117.jpg)
+_17 Januari 2021, lokomotif listrik E405 menarik kereta Meiritsu cat sunset berhenti di Stasiun Taitung. Foto: Kazehayashi / Wikimedia Commons. [Lisensi via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TRA_E405_with_Future_passenger_cars_at_Taitung_Station_20210117.jpg)._
 
-> **Ringkasan 30 detik:** Hokkaido (The Rising Star) adalah kereta api wisata kelas atas yang dikembangkan atas kolaborasi antara Taiwan Railway Administration (sebelumnya dikenal sebagai Taiwan Railway Administration) dan Lion Travel, dengan desain yang dipimpin oleh Berkshire Design (JC. Architecture) oleh Chiu Po-wen. Desain ini berasal dari refleksi masyarakat terhadap "bencana estetika" jangka panjang di jaringan kereta api Taiwan, yang secara tegas mengabaikan pola visual tradisional yang berantakan, menggunakan konsep "Angin Musim Gugur" sebagai landasannya, menggabungkan warna hitam mewah dan oranye klasik Kuo Kuang untuk menciptakan tampilan luar yang sederhana namun mewah [3] [4]. Pada tahun 2020, Hokkaido segera memenangkan penghargaan Japan Good Design Award [5]. Pada tahun 2022, versi yang lebih canggih "Dapur Hokkaido" (The Moving Kitchen) diluncurkan, yang menggabungkan tim katering tingkat tinggi seperti Hotel Regent, menyajikan hidangan bergaya Michelin di dalam gerbong kereta api yang bergerak, dan pada tahun 2023 memenangkan penghargaan tertinggi dari iF Design Award Jerman, yaitu "iF Gold Award" dan "Service Experience Design Award" [6] [7]. Kehadiran Hokkaido melambangkan transformasi transportasi rel Taiwan dari sekadar alat mobilitas menjadi era estetika mobilitas yang menggabungkan desain, budaya, dan pengalaman tingkat tinggi.
+> **Ringkasan 30 detik:** Meiritsu (The Rising Star) adalah kereta wisata premium hasil kolaborasi antara Perusahaan Kereta Api Taiwan (dahulu Administrasi Kereta Api Taiwan) dengan Lion Travel, dengan transformasi estetika dipimpin oleh Chiu Po-wen dari JC. Architecture [^1] [^2]. Desainnya berakar pada refleksi publik dan kebutuhan transformasi mendasar atas "bencana estetika" Kereta Api Taiwan yang berlangsung lama, dengan berani meninggalkan visual kacau merah-hijau tradisional, beralih ke konsep inti "angin musim gugur", menggunakan hitam bangsawan dan oranye Chu-kuang tradisional yang saling berjalin menciptakan penampilan bodi yang tenang namun mewah [^3] [^4]. Pada peluncuran pertamanya 2020, langsung meraih penghargaan Good Design Award Jepang [^5]. Selanjutnya pada 2022 meluncurkan versi lanjutan "Meiritsu Kitchen" (The Moving Kitchen), menggabungkan tim kuliner kelas atas seperti Hotel The Regent, menyajikan jamuan bergengsi Michelin di gerbong kereta yang bergerak, dan pada 2023 meraih penghargaan tertinggi iF Design Award Jerman yaitu "iF Gold Award" dan "Service Experience Design Award" [^6] [^7]. Kelahiran Meiritsu melambangkan transportasi rel Taiwan resmi memasuki era estetika bergerak yang memadukan desain, budaya, dan pengalaman premium, melampaui sekadar alat transportasi.
 
-Transformasi sebuah bisnis lama yang telah berdiri selama seabad, seringkali berdampingan dengan ingatan kolektif dan sejarah.
+Jalur transformasi Kereta Api Taiwan yang berusia seratus tahun, sering disertai kenangan kolektif dan luka sejarah yang mendalam.
 
-Selama bertahun-tahun, meskipun jaringan kereta api Taiwan telah menjadi tulang punggung energi dinamis dari seluruh pulau, interior gerbongnya yang berisik, pencahayaan yang menyilaukan, dan cat yang berantakan seringkali menjadi bahan candaan publik dan komunitas desainer sebagai "bencana estetika" [8]. Kesenjangan estetika ini bertemu titik balik penting pada awal tahun 2020. Kementerian Transportasi dan Administrasi Kereta Api Taiwan memutuskan untuk memperkenalkan energi desain, melalui "Program Peningkatan Estetika Kereta Api Taiwan", memberikan gerbong yang sudah ditinggalkan atau direnovasi kepada tim profesional swasta, berupaya untuk memecahkan kerangka kementerian yang membosankan selama puluh tahun [2] [9].
+Selama waktu yang lama, Kereta Api Taiwan meski mengangkut dinamika padat pergerakan utara-selatan pulau, namun indikator kacau di dalam gerbong, pencahayaan menyilaukan, dan cat yang dipaksakan, sering dijuluki "bencana estetika" oleh masyarakat dan desainer [^8]. Dilema estetika ini baru menemukan titik balik krusial pada awal 2020. Kementerian Perhubungan dan Biro Kereta Api Taiwan bertekad memasukkan kekuatan desain, melalui "Program Peningkatan Estetika Kereta Api Taiwan", menyerahkan gerbong Chu-kuang yang dipensionkan atau direnovasi ke tim profesional swasta, berusaha memecahkan kerangka kaku sektor publik puluhan tahun [^2] [^9].
 
-Inti dari perubahan ini adalah tim yang dipimpin oleh Chiu Po-wen, pendiri Berkshire Design [2]. Mereka tidak menghadapi lembaran kosong, melainkan sebuah gerbong lama yang telah berjalan di atas rel selama puluh tahun.
+Inti transformasi ini, adalah tim yang dipimpin oleh pendiri JC. Architecture, Chiu Po-wen [^2]. Yang mereka hadapi bukan kertas putih, melainkan rangkaian gerbong tua yang sudah berlari di rel selama puluhan tahun.
 
-## Dari "Bencana Estetika" ke "Angin Musim Gugur": Lahirnya Desain Pengurangan
+## Dari "Bencana Estetika" ke "Angin Musim Gugur": Kelahiran Desain Pengurangan
 
-"Kami tidak menciptakan sesuatu yang benar-benar baru, melainkan membersihkan jiwa sebenarnya dari Kereta Api Taiwan." Chiu Po-wen menekankan dalam beberapa wawancara [2].
+「Kami tidak menciptakan sesuatu yang benar-bar baru, melainkan menggosokkan jiwa yang sudah dimiliki TRA sejak awal.」Chiu Po-wen menegaskan dalam berbagai wawancara [^2].
 
-Langkah pertama tim redesign adalah "mengurangi". Dalam gerbong lama, biasanya dipenuhi dengan berbagai stiker promosi, tipografi kasar, dan palet warna yang tidak harmonis. Tim desain memutuskan untuk menghilangkan semua kebisingan ini, mengecat seluruh gerbong dengan palet warna hitam dan oranye yang melambangkan musim gugur — hitam yang tenang dan elegan, oranye yang mengingatkan pada kenangan hangat dari Kuo Kuang klasik [3] [10]. Kombinasi ini yang dikenal sebagai "Kuo Kuang Orange" dan "Black Tie", di bawah cahaya matahari terlihat tidak lujo, melainkan mengeluarkan kesan mewah yang sederhana [3].
+Langkah pertama tim transformasi adalah "pengurangan". Dahulu penampilan luar gerbong TRA sering ditutupi berbagai stiker propaganda, font kasar, dan warna-warna yang tidak harmonis. Tim desain memutuskan untuk menghapus kebisingan visual tersebut, mengecat seluruh badan kereta dengan warna hitam dan oranye yang melambangkan imaji musim gugur—hitam yang tenang dan tertutup, oranye yang mewarisi kenangan hangat paling representatif dari generasi lama Chu-kuang Express [^3] [^10]. Kombinasi yang disebut "Chu-kuang Orange" dan "Noble Black" ini di bawah sinar matahari tidak terkesan murah, justru memancarkan rasa mewah yang rendah hati [^3].
 
-Di bagian depan lokomotif, dipasangkan pelat nama khusus dari titanium dengan permukaan cermin yang memantulkan pemandangan pegunungan dan laut di sepanjang jalur Taiwan. Garis senyum halus yang terukir halus di piring nama ini, dengan cerdas merujuk pada pola V yang tersisa pada cat lokomotif, menggabungkan warisan sejarah dengan makna teknik modern [11].
+Di bagian depan lokomotif dipasang plak khas berbahan titanium yang memantulkan pemandangan gunung dan laut di sepanjang perjalanan Taiwan melalui permukaan cerminnya, kurva senyum tipis yang diukir pada plak itu dengan cerdas merespons pola V yang dipertahankan pada cat lokomotif, menyatukan warisan sejarah dan makna kerajinan modern [^11].
 
-Di dalam gerbong, tim desain melepas lampu neon yang sudah usang, menggantinya dengan pencahayaan tidak langsung yang menciptakan suasana akomodasi yang nyaman; kerangka jendela dan konfigurasi kursi dihitung secara presisi, sehingga pemandangan sawah padi, laut, dan pegunungan di luar tidak lagi terputus oleh jendela, melainkan menjadi lukisan panorama yang mengalir [6]. Pendekatan yang memasukkan pemandangan ke dalam bagian interior ini, dengan cepat mendapatkan resonansi kuat di kalangan masyarakat Taiwan. Pada Oktober 2020, Hokkaido resmi memenangkan salah satu dari empat penghargaan desain terkemuka dunia, Japan Good Design Award, menjadi tonggak penting dalam transformasi estetika kereta api umum [5].
+Di dalam gerbong, tim desain membongkar kotak lampu fluoresen usang, beralih ke pencahayaan tidak langsung untuk menciptakan suasana penginapan yang hangat; bingkai jendela dan tata kursi dihitung dengan presisi sehingga gelombang padi, pemandangan laut, dan pegunungan di luar jendela tidak lagi terpotong oleh gradasi jendela, melainkan menjadi lukisan pemandangan raksasa yang mengalir [^6]. Teknik yang menjadikan lanskap sebagai bagian dari desain interior ini dengan cepat mendapat resonansi di masyarakat Taiwan. Oktober 2020, Meiritsu resmi meraih salah satu empat penghargaan desain dunia, Good Design Award Jepang, menjadi tonggak sejarah transformasi estetika kereta api milik negara [^5].
 
-| Item                          | Kereta Kuo Kuang Tradisional                                                       | Hokkaido (The Rising Star)                                                                  |
-| :---------------------------- | :--------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------ |
-| **Desainer Utama**            | Departemen teknis internal yang bertanggung jawab atas pemeliharaan dan pengecatan | Berkshire Design (JC. Architecture) mengambil alih [2]                                      |
-| **Estetika Warna**            | Berlapis-lapis dari berbagai periode, palet warna yang berantakan                  | Kombinasi hitam elegan dan oranye klasik Kuo Kuang, menetapkan tema "Angin Musim Gugur" [3] |
-| **Pengalaman Ruang**          | Kursi penumpang tradisional, pencahayaan putih terang                              | Pencahayaan tidak langsung yang nyaman, jendela lebar, estetika pengurangan [6]             |
-| **Penghargaan Internasional** | Tidak ada                                                                          | Japan Good Design Award, iF Gold Award Jerman [5] [7]                                       |
+| Item                          | Kereta Chu-kuang Tradisional                          | Meiritsu (The Rising Star)                                                             |
+| :---------------------------- | :---------------------------------------------------- | :------------------------------------------------------------------------------------- |
+| **Pemimpin Desain**           | Pemeliharaan dan cat ulang internal oleh instansi     | JC. Architecture (柏成設計) melintas disiplin [^2]                                     |
+| **Estetika Warna**            | Bertumpuk tiap periode, warna kacau                   | Noble Black dan Chu-kuang Orange tradisional, menetapkan nada "Angin Musim Gugur" [^3] |
+| **Pengalaman Ruang**          | Kursi penumpang tradisional, pencahayaan putih terang | Pencahayaan tidak langsung hangat, pemandangan jendela luas, estetika pengurangan [^6] |
+| **Penghargaan Internasional** | Tidak ada                                             | Good Design Award Jepang, iF Gold Award Jerman [^5] [^7]                               |
 
-## Dapur Hokkaido: Ketika Perjalanan Rel Bertemu dengan Makanan Bintang Michelin
+## Meiritsu Kitchen: Ketika Perjalanan Kereta Api Bertemu Jamuan Berbintang Michelin
 
-Jika Hokkaido menyelesaikan "estetika visual yang bergerak", maka "Dapur Hokkaido" (The Moving Kitchen) yang resmi diluncurkan pada tahun 2022, memperluas estetika tersebut ke indra paling sensitif manusia — lidah [12].
+Jika Meiritsu menyelesaikan "estetika visual yang bergerak", maka "Meiritsu Kitchen" (The Moving Kitchen) yang resmi beroperasi pada 2022, memperluas estetika tersebut ke indera paling sensitif manusia—selera rasa [^12].
 
-Dapur Hokkaido diposisikan sebagai "restoran bintang lima yang bergerak". Untuk mempertahankan kualitas makanan tingkat tinggi di lingkungan rel yang bergetar saat bergerak, Lion Travel dan Taiwan Railway Administration mengeluarkan biaya besar untuk merefashion gerbong khusus, tidak hanya mendesain ulang alur dapur, sistem asap, dan stabilitas pasokan listrik, tetapi juga mengundang hotel internasional kelas atas untuk bergabung [6] [12].
+Meiritsu Kitchen diposisikan sebagai "restoran bintang lima yang bergerak". Demi mempertahankan kualitas hidangan mewah di lingkungan kereta yang berguncang saat berjalan, Lion Travel dan TRA menginvestasikan dana masif untuk mengubah gerbong khusus, tidak hanya mendesain ulang alur dapur, sistem pengasapan, dan stabilitas pasokan listrik, tetapi juga mengundang hotel-hotel internasional terkemuka untuk bergabung [^6] [^12].
 
-![Interior restoran gerbong Hokkaido, menampilkan desain kayu dan ruang makan yang elegan](https://upload.wikimedia.org/wikipedia/commons/3/36/%E9%B3%B4%E6%97%A5%E5%88%97%E8%BB%8A_03.jpg)
-_Interior gerbong restoran Hokkaido, menggabungkan estetika timur dan meja makan kayu modern. Foto: Taiwan Railway Administration (Atribusi diperlukan). Lisensi melalui Wikimedia Commons._
+![Interior gerbong makan Meiritsu TRA, menampilkan nuansa kayu dan ruang makan mewah](https://upload.wikimedia.org/wikipedia/commons/3/36/%E9%B3%B4%E6%97%A5%E5%88%97%E8%BB%8A_03.jpg)
+_Ruang internal gerbong makan Meiritsu TRA, memadukan estetika Timur dengan desain meja makan kayu kontemporer. Foto: Administrasi Kereta Api Taiwan (Attribution required). Lisensi via Wikimedia Commons._
 
-[Lisensi melalui Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E9%B3%B4%E6%97%A5%E5%88%97%E8%BB%8A_03.jpg)
+[Lisensi via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E9%B3%B4%E6%97%A5%E5%88%97%E8%BB%8A_03.jpg)
 
-Kolaborasi pertama pun langsung dilakukan bersama Regent Hotel International, dengan tim katering kelas atas seperti Regent House yang menempati gerbong ini, menggabungkan esensi kuliner Kantonis dengan bahan makanan lokal Taiwan (seperti produk khusus Ilan dan seafood Hualien), menyajikan hidangan istimewa seperti "Crab Sister Soup Rice" [13]. Ketika lokomotif perlahan melintasi Laut Pasifik di sepanjang pantai, para penumpang duduk di dalam gerbong yang dihiasi dengan tekstur kayu dan kulit sintetis, menikmati hidangan yang disajikan langsung oleh chef sementara memandang pemandangan laut yang luas di jendela, pengalaman sensori penuh ini benar-benar mengubah bayangan orang Taiwan tentang makan siang kereta dan pariwisata rel. [6]
+Kolaborasi pertama langsung bermitra dengan Grup Hotel Internasional Regent, dengan tim kuliner tertinggi seperti Crystal Pavilion menduduki tempat, memadukan inti masakan Kanton dengan bahan lokal Taiwan (seperti produk khas Yilan, seafood Hualien), menyajikan hidangan mewah seperti nasi timbak kepiting Xishi [^13]. Saat kereta perlahan melintasi Tebing Qingshui di tepi Samudra Pasifik, penumpang duduk di dalam gerbong makan yang anyaman kayu sandal dan kulitnya saling berkelit, sesekali menikmati hidangan berbintang yang dimasak langsung oleh koki utama, sesekali menatap ke luar jendela hamparan laut dan langit tanpa halangan, pengalaman sensorik menyeluruh ini sepenuhnya menulis ulang imajinasi orang Taiwan tentang bento kereta dan wisata kereta api [^6].
 
-Inovasi ini tidak hanya berhasil mendapatkan apresiasi pasar, tetapi juga bersinar di panggung internasional. Pada tahun 2023, "Dapur Hokkaido" berhasil memenangkan penghargaan tertinggi dari iF Design Award Jerman (iF Design Award), yaiti "iF Gold Award" dan "Service Experience Design Award" [7]. Para hakim memberikan penilaian yang sangat tinggi: "Melalui penggabungan yang berhasil antara pariwisata, katering, dan desain layanan transportasi serta standar hotel, pengalaman ini akhirnya menjadi gaya hidup mewah di atas gerbong kereta api yang bergerak." [14]
+Terobosan ini tidak hanya memenangkan reputasi pasar, tetapi juga bersinar di panggung internasional. Pada 2023, "Meiritsu Kitchen" meraih penghargaan tertinggi iF Design Award Jerman, yaitu "iF Gold Award" dan "Service Experience Design Award" [^7]. Juri memberikan penilaian sangat tinggi: "Melalui desain layanan yang berhasil menggabungkan pariwisata, kuliner, dan transportasi serta standar hotel, pengalaman ini akhirnya menjadi gaya hidup mewah di atas kereta yang bergerak." [^14]
 
-## Pergeseran Model Pariwisata Rel Kelas Atas Taiwan
+## Pergeseran Paradigma Pariwisata Kereta Api Tinggi Taiwan
 
-Keberhasilan Hokkaido dan Dapur Hokkaido, melampaui sekadar operasional bisnis sebuah kereta api, memiliki makna yang jauh lebih dalam bagi masyarakat Taiwan.
+Keberhasilan Meiritsu dan Meiritsu Kitchen, bagi masyarakat Taiwan, bermakna jauh melampaui operasional komersial sekadar satu kereta.
 
-Dalam waktu lama, budaya rel Taiwan lebih fokus pada sejarah teknis kereta api oleh penggemar, pelestarian stasiun lama, atau makan siang nostalgia. Namun, Hokkaido membuktikan bahwa Taiwan mampu menggunakan desain kontemporer, kolaborasi antar industri (seperti perencanaan rute Lion Travel, layanan katering Regent Hotel, estetika ruang Berkeley Design), untuk mengubah infrastruktur publik menjadi pembawa budaya dan ekonomi kelas atas [1] [6].
+Masa lalu, budaya kereta api Taiwan mayoritas berfokus pada verifikasi sejarah kereta api oleh pecinta kereta, pelestarian stasiun lama, atau bento nostalgia. Namun, Meiritsu membuktikan bahwa Taiwan mampu, melalui desain kontemporer dan aliansi industri lintas sektor (seperti perencanaan perjalanan Lion Travel, layanan kuliner The Regent Hotel, estetika ruang Bao Cheng Design), mengupgrade infrastruktur publik menjadi wadah tinggi budaya dan ekonomi [^1] [^6].
 
-Ini memaksa perusahaan BUMN yang sudah lama untuk kembali memikirkan nilai "detail". Mulai dari seragam yang elegan untuk penjaga gerbong dan staf pelayanan (diberi gelar "Staf Estetika"), hingga musik ambient eksklusif yang diputar di dalam gerbong dan panduan lokal, setiap aspek ini sedang membentuk sebuah narasi estetika mobilitas yang modern dan khas Taiwan [15]. Ketika warga asing dan generasi lokal naik kembali ke gerbong hitam dan oranye ini, yang mereka lihat bukan hanya gerbong yang telah direnovasi, tetapi jiwa pulau yang ingin menemukan keseimbangan yang elegan antara modernitas dan kenangan lokal.
+Hal ini memaksa BUMN yang sudah tua untuk memikirkan ulang nilai "detail". Mulai dari seragam elegan kepala kereta dan petugas layanan di kereta (yang diberi gelar "petugas layanan estetika"), hingga musik lingkungan eksklusif dan panduan lokal yang diputar di dalam kereta, setiap tahap membangun satu wacana estetika bergerak yang khas Taiwan kontemporer [^15].
+
+Saat wisatawan asing dan generasi lokal kembali naik ke kereta hitam-oranye ini, yang mereka lihat bukan hanya gerbong kereta yang direnovasi, melainkan jiwa pulau yang merindukan keseimbangan elegan antara modernitas dan kenangan lokal.
 
 ---
 
-## Referensi
+## Daftar Pustaka (References)
 
-[^1]: [Wikipedia: Kereta Hokkaido](https://zh.wikipedia.org/zh-hant/%E9%B3%B4%E6%97%A5%E8%99%9F%E5%88%97%E8%BB%8A) — Mencatat posisi, konfigurasi, model operasional, dan sejarah evolusi Hokkaido.
+[^1]: [Wikipedia: Kereta Meiritsu](https://zh.wikipedia.org/zh-hant/%E9%B3%B4%E6%97%A5%E8%99%9F%E5%88%97%E8%BB%8A) — Mencatat posisi tipe kereta, susunan, mode operasi, dan sejarah perkembangan Meiritsu.
 
-[^2]: [Shopping Design: Diskusi Estetika Rel Taiwan-Jepang! Desainer Taiwan Chiu Po-wen X JR Kagawa](https://www.shoppingdesign.com.tw/post/view/9915) — Wawancara langsung dengan pendiri Berkeley Design, Chiu Po-wen, membahas konsep desain Hokkaido, estetika pengurangan, dan proses komunikasi dengan sektor publik.
+[^2]: [Shopping Design: Dialog Estetika Kereta Taiwan-Jepang! Desainer TRA Chiu Po-wen X JR Shikoku](https://www.shoppingdesign.com.tw/post/view/9915) — Wawancara eksklusif pendiri Bo Cheng Design Chiu Po-wen, membahas filosofi desain Meiritsu, estetika pengurangan, dan proses komunikasi dengan sektor publik.
 
-[^3]: [Shopping Design: Memenangkan Japan Good Design! Kereta Api Wisata Baru Taiwan "Hokkaido" Menggunakan Konsep "Angin Musim Gugur"](https://www.shoppingdesign.com.tw/post/view/5961) — Penjelasan rinci tentang Hokkaido yang menggunakan "Angin Musim Gugur" sebagai konsep inti, menggabungkan warna hitam dan oranye untuk mengubah kenangan 70 tahun Kuo Kuang.
+[^3]: [Shopping Design: Menang Good Design Jepang! Kereta Wisata Baru TRA 'Meiritsu' Bernuansa 'Angin Musim Gugur'](https://www.shoppingdesign.com.tw/post/view/5961) — Menguraikan detail Meiritsu yang berpusat pada 'Angin Musim Gugur', menggunakan skema warna hitam-oranye untuk membentuk ulang kenangan 70 tahun Kereta Chukuang.
 
-[^4]: [Traveler Luxe Journal: Estetika Hitam dan Oranye yang Sederhana dan Eksklusif dari "Hokkaido·Dapur Hokkaido" Taiwan](https://www.travelerluxe.com/article/desc/230009798) — Analisis mendalam tentang estetika warna, pemilihan material, dan orientasi mewah sederhana dari Hokkaido dan Dapur Hokkaido.
+[^4]: [Traveler Luxe: Desain Hitam-Oranye Rendah Hati Berkelas 'Meiritsu·Meiritsu Kitchen' Taiwan, Memilih Keanggunan Tersembunyi Meiritsu](https://www.travelerluxe.com/article/desc/230009798) — Menganalisis mendalam teori warna, pemilihan material, dan posisi mewah rendah hati Meiritsu dan Meiritsu Kitchen.
 
-[^5]: [Newsmedia: Kepuasan Estetika Desain, Kereta Api Taiwan Hokkaido Memenangkan Japan 2020 Good Design Award](https://newsmedia.today/%E7%BE%8E%E5%AD%B8%E8%A8%AD%E8%A8%88%E5%8F%97%E8%82%AF%E5%AE%9A-%E8%87%BA%E9%90%B5%E9%B3%B4%E6%97%A5%E8%99%9F%E7%8D%B2%E6%97%A5%E6%9C%AC%E8%A8%AD%E8%A8%88%E5%A4%A7%E7%8D%8E/) — Laporan tentang penghargaan Hokkaido sebagai pemenang internasional Japan Good Design Award 2020 dan maknanya.
+[^5]: [Newsmedia: Desain Estetika Diakui, Meiritsu TRA Raih Good Design Award Jepang 2020](https://newsmedia.today/%E7%BE%8E%E5%AD%B8%E8%A8%AD%E8%A8%88%E5%8F%97%E8%82%AF%E5%AE%9A-%E8%87%BA%E9%90%B5%E9%B3%B4%E6%97%A5%E8%99%9F%E7%8D%B2%E6%97%A5%E6%9C%AC%E8%A8%AD%E8%A8%88%E5%A4%A7%E7%8D%8E/) — Meliput pengakuan dan makna penghargaan internasional Good Design Award Jepang 2020 yang diraih Meiritsu.
 
-[^6]: [ELLE: Hokkaido Bermitra dengan Chef Regent! Restoran Bergerak Bintang Lima Naik Kelas](https://www.elle.com/tw/life/foodie/g61850534/the-future-kitchen/) — Pengenalan rinci tentang desain interior restoran gerbong Hokkaido, jendela panorama yang luas, dan integrasi dengan katering tingkat tinggi.
+[^6]: [ELLE: Meiritsu Bermitra dengan Koki Terkenal The Regent! Dapur Lima Bintang Bergerak Tingkatkan Kualitas](https://www.elle.com/tw/life/foodie/g61850534/the-future-kitchen/) — Memperkenalkan detail modifikasi gerbong Meiritsu Kitchen, desain jendela pemandangan besar, dan kolaborasi kuliner kelas atas.
 
-[^7]: [Taiwan News / Xinzhong Media: Usaha "Dapur Hokkaido" oleh Lion Travel Berhasil Kembali! Setelah iF Gold Award, Memenangkan IIDA Amerika](https://www.xinmedia.com/article/211773) — Laporan tentang Dapur Hokkaido yang memenangkan penghargaan tertinggi dari iF Design Award Jerman 2023, "iF Gold Award" dan "Service Experience Design Award".
+[^7]: [Taiwan News / Xin Media: Lion Travel 'Meiritsu Kitchen' Raih Kabar Gembira Lagi! Pasca iF Gold Award Jerman, Menang IIDA AS](https://www.xinmedia.com/article/211773) — Meliput Meiritsu Kitchen meraih penghargaan tertinggi iF Design Award Jerman 2023 'iF Gold Award' dan 'Service Experience Design Award'.
 
-[^8]: [Komentar Kunci / Laporan Terkait: Titik Awal Transformasi Estetika Kereta Api Taiwan](https://www.trjourney.org.tw/zh-tw/content) — Diskusi tentang kesenjangan estetika jangka panjang yang dihadapi oleh Kereta Api Taiwan dan latar belakang sejarah upaya desainer dalam mempromosikan transformasi estetika.
+[^8]: [Jaringan Tinjauan Kritis / Liputan Terkait: Titik Awal Transformasi Estetika TRA](https://www.trjourney.org.tw/zh-tw/content) — Membahas penyakit estetika jangka panjang yang dihadapi TRA dan latar sejarah desainer mendorong transformasi estetika.
 
-[^9]: [Kementerian Pendidikan / Cloud Education PDF: Desain Menambahkan Inovasi pada Kereta Api Taiwan](https://vtedu.k12ea.gov.tw/uploads/1672283646641FWoy072t.pdf) — Dokumen edukasi resmi yang merangkum konteks kebijakan desain yang diterapkan pada berbagai jenis kereta api baru dan kereta api wisata di Kereta Api Taiwan.
+[^9]: [Kementerian Pendidikan / PDF Cloud Pendidikan: Desain Masuk ke Taiwan, Kereta Api Tambah Baru](https://vtedu.k12ea.gov.tw/uploads/1672283646641FWoy072t.pdf) — Dokumen pendidikan resmi merangkum konteks kebijakan penerapan kekuatan desain ke berbagai kereta baru dan kereta wisata TRA.
 
-[^10]: [Lion Travel: Rute Hokkaido - Rekomendasi Pariwisata Rel Kelas Atas](https://www.liontravel.us/zh-tw/campaign/taiwan/rail/future/) — Pengenalan rute resmi dan konsep desain, mencatat konsep "Angin Musim Gugur" dan detail eksterior gerbong.
+[^10]: [Lion Travel: Perjalanan Meiritsu - Rekomendasi Wisata Kereta Api Taiwan Kelas Lima Bintang](https://www.liontravel.us/zh-tw/campaign/taiwan/rail/future/) — Memperkenalkan rute resmi dan filosofi desain, mencatat konsep 'angin musim gugur' dan detail penampilan bodi kereta.
 
-[^11]: [Situs Resmi Kereta Api Taiwan: Pengenalan Hokkaido/Dapur Hokkaido](https://www.railway.gov.tw/tra-tip-web/tip/tip00N/tipN01/sun/index?lang=zh_TW) — Penjelasan resmi dari Kereta Api Taiwan tentang pelat nama titanium Hokkaido, struktur dasar berlapis delapan, dan garis senyum.
+[^11]: [Situs Resmi Perusahaan Kereta Api Taiwan: Pengenalan Kereta Meiritsu/Meiritsu Kitchen](https://www.railway.gov.tw/tra-tip-web/tip/tip00N/tipN01/sun/index?lang=zh_TW) — Definisi resmi TRA mengenai plak lokomotif logam titanium Meiritsu, struktur dasar cincin 10 lapis, dan kurva senyum.
 
-[^12]: [Reportase: Dapur Hokkaido Bermitra dengan Regent Hotel untuk Menyajikan Menu Premium! "Crab Sister Soup Rice" dari Regent House](https://www.upmedia.mg/tw/lifestyle/travel/208850) — Laporan tentang spesifikasi katering Dapur Hokkaido sebagai "restoran bintang lima yang bergerak" dan kolaborasi chef.
+[^12]: [Up Media: Meiritsu Kitchen Bermitra The Regent Hotel Luncurkan Menu Tingkatkan! The Regent 'Nasi Timbak Ikan Dara Kepiting'](https://www.upmedia.mg/tw/lifestyle/travel/208850) — Meliput spesifikasi kuliner Meiritsu Kitchen sebagai 'restoran lima bintang bergerak' dan susunan kolaborasi koki.
 
-[^13]: [Postingan Resmi Facebook: Regent Hotel Taipei Bermitra dengan Lion Travel untuk Membuat Dapur Hokkaido](https://www.facebook.com/RegentTaipei/posts/%F0%9D%9F%8F%F0%9D%9F%8E%F0%9D%9F%92-%E6%9C%80%E5%BE%8C%E5%B8%AC%EC%AC%A1%E9%82%80%E6%82%A8%E6%90%AD%E4%B9%98%E5%8F%B0%E9%90%B5%E6%9C%80%E7%BE%8E%E8%A7%80%E5%85%89%E5%88%97%E8%BB%8Bu-%E9%B3%B4%E6%97%A5%E5%BB%9A%E6%88%BF%E7%94%B1-%E5%8F%B0%E5%8C%97%E6%99%B6%E8%8F%AF%E9%85%92%E5%BA%94%E4%B8%AD%E9%A4%90%E5%BB%9A%E6%88%DSP933532978802783/) — Catatan resmi dari Regent Hotel tentang kepala koki departemen makan siang, Wu Hai-ming, yang secara pribadi turun ke Dapur Hokkaido untuk memasak.
+[^13]: [Pos Resmi Facebook: The Regent Hotel Taipei Bermitra Lion Travel Bangun Meiritsu Kitchen](https://www.facebook.com/RegentTaipei/posts/%F0%9D%9F%8F%F0%9D%9F%8E%F0%9D%9F%92-%E6%9C%80%E5%BE%8C%E5%B8%AC%EC%AC%A1%E9%82%80%E6%82%A8%E6%90%AD%E4%B9%98%E5%8F%B0%E9%90%B5%E6%9C%80%E7%BE%8E%E8%A7%80%E5%85%89%E5%88%97%E8%BB%8Bu-%E9%B3%B4%E6%97%A5%E5%BB%9A%E6%88%BF%E7%94%B1-%E5%8F%B0%E5%8C%97%E6%99%B6%E8%8F%AF%E9%85%92%E5%BA%94%E4%B8%AD%E9%A4%90%E5%BB%9A%E6%88%DSP933532978802783/) — Catatan resmi The Regent Hotel mengenai Kepala Koki Tiongkok Wu Hai-ming secara pribadi memasak di Meiritsu Kitchen.
 
-[^14]: [TTN Travel Report: Hokkaido dan Biru Poppy Memenangkan "Service Experience Design Award" dari iF Jerman](https://www.ttnmedia.com/?p=84005) — Kutipan penilaian tinggi dari hakim iF Design Award Jerman terhadap Dapur Hokkaido dalam menggabungkan layanan pariwisata, katering, dan transportasi.
+[^14]: [TTN Travel News: Meiritsu Kitchen, 'Blue Skin Solve Worries' Raih 'Service Experience Design Award' iF Jerman](https://www.ttnmedia.com/?p=84005) — Mengutip penghargaan tinggi juri resmi iF Design Award Jerman atas fus layanan pariwisata, kuliner, dan transportasi Meiritsu Kitchen.
 
-[^15]: [La Vie: Memulai! Kereta Api Wisata Taiwan "Hokkaido"](https://www.wowlavie.com/article/ae1902361) — Laporan tentang peluncuran pertama Hokkaido dan inovasi komprehensif dari Berkeley Design dalam keras dan lunak, staf pelayanan, serta pengalaman keseluruhan.
+[^15]: [La Vie: Kereta Wisata TRA 'Meiritsu' Beroperasi!](https://www.wowlavie.com/article/ae1902361) — Meliput peluncuran perdana Meiritsu dan inovasi menyeluruh Bo Cheng Design pada perangkat keras/lunak, estetika pramugari, dan pengalaman keseluruhan.
