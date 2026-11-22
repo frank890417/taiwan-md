@@ -1,16 +1,16 @@
 ---
-title: 'Đường sắt Đài Loan Minh Nhật Hào: Từ thảm họa thẩm mỹ đường sắt đến điện đài năm sao di động'
-description: 'Khởi đầu từ việc cải tạo những bệnh tích lâu năm của tàu Chí Quang Hào 70 năm, Bách Thành Thiết Kế và Hùng Sư Du Lịch đã như thế nào đưa khái niệm "Gió mùa thu" vào thực tế, dẫn nhập trang bị màu cam đen sang trọng tinh tế cùng thẩm mỹ trừ bớt vào đường sắt Đài Loan, và tiến một bước tạo ra nhà hàng di động "Minh Nhật Th Phòng" vinh dự giành giải iF Gold Award của Đức, định nghĩa lại du lịch đường sắt cao cấp tại Đài Loan.'
+title: 'Tàu hỏa Rising Star của Đường sắt Đài Loan: Từ thảm họa thẩm mỹ đến cung điện di động năm sao'
+description: 'Từ việc cải tạo những khiếm khuyết của dòng tàu Juguang suốt 70 năm, JC. Architecture và Lion Travel đã sử dụng ý tưởng "Gió mùa thu", đưa tông màu đen-cam sang trọng cùng triết lý thiết kế tối giản vào đường sắt Đài Loan, khai sinh ra nhà hàng di động "Rising Star Kitchen" đạt giải Vàng iF Đức, tái định nghĩa du lịch đường sắt cao cấp tại Đài Loan.'
 date: 2026-08-17
 category: 'Lifestyle'
 tags:
   [
-    'Minh Nhật Hào',
-    'Minh Nhật Th Phòng',
-    'Thẩm mỹ đường sắt Đài Loan',
-    'Du lịch đường sắt',
-    'Bách Thành Thiết Kế',
-    'Hùng Sư Du Lịch',
+    'Rising Star',
+    'Rising Star Kitchen',
+    'thẩm mỹ Đường sắt Đài Loan',
+    'du lịch đường sắt',
+    'JC. Architecture',
+    'Lion Travel',
   ]
 subcategory: '交通與美學'
 author: 'Taiwan.md Contributors'
@@ -20,89 +20,93 @@ lastHumanReview: false
 imageNote: '原 Wikimedia 卡片圖（Kazehayashi，CC BY-SA 4.0，File:TRA_E405_with_Future_passenger_cars_at_Taitung_Station_20210117.jpg）2026-09-05 收庫時連續四次 HTTP 429 未抓到，授權已核實可收，待重跑 image-ingest.mjs 補圖'
 curation: 'incubating'
 translatedFrom: 'Lifestyle/台鐵鳴日號.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:928aabb44491a861'
-sourceBodyHash: 'sha256:28f054608fa81e22'
-translatedAt: '2026-09-07T21:17:13.957967+00:00'
+sourceCommitSha: 'f775f9835c'
+sourceContentHash: 'sha256:ab11b395c6923e7b'
+sourceBodyHash: 'sha256:96f21cbf7e1ee69e'
+translatedAt: '2026-11-23T01:35:02+08:00'
 ---
 
-![臺灣鐵路管理局電力機車E405牽引鳴日號列車夕景塗裝，停靠臺東車站](https://upload.wikimedia.org/wikipedia/commons/2/27/TRA_E405_with_Future_passenger_cars_at_Taitung_Station_20210117.jpg)
-_Ngày 17 tháng 1 năm 2021, đầu máy điện E405 kéo tàu Minh Nhật với trang phục hoàng hôn đỗ tại ga Đài Đông. Photo: Kazehayashi / Wikimedia Commons. [License via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TRA_E405_with_Future_passenger_cars_at_Taitung_Station_20210117.jpg)._
+![Đầu máy điện E405 của Cục Đường sắt Đài Loan kéo đoàn tàu Rising Star phiên bản hoàng hôn, dừng tại ga Đài Đông](https://upload.wikimedia.org/wikipedia/commons/2/27/TRA_E405_with_Future_passenger_cars_at_Taitung_Station_20210117.jpg)
+_Ngày 17 tháng 1 năm 2021, đầu máy điện E405 kéo đoàn tàu Rising Star phiên bản hoàng hôn dừng tại ga Đài Đông. Ảnh: Kazehayashi / Wikimedia Commons. [Giấy phép qua Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TRA_E405_with_Future_passenger_cars_at_Taitung_Station_20210117.jpg)._
 
-> **Tóm tắt 30 giây:** Minh Nhật (The Rising Star) là tàu du lịch cao cấp do Công ty Đường sắt Đài Loan (cũ là Cục Quản lý Đường sắt Đài Loan) hợp tác cùng Hùng Sư Du lịch, dưới sự chủ đạo về mặt thẩm mỹ của Kiều Bá Văn từ Bách Thành Thiết kế (JC. Architecture) [1] [2]. Thiết kế của nó bắt nguồn từ sự phản tư và nhu cầu "đổi da đổi thịt" của công chúng trước "thảm họa thẩm mỹ" kéo dài của đường sắt Đài Loan, dứt khoát loại bỏ hình ảnh lộn xộn với đỏ xanh truyền thống, chuyển về lấy "gió mùa thu" làm khái niệm cốt lõi, dung hòa đen quý tộc với cam Cổ quang truyền thống để tạo nên vẻ đẹp ngoại hình nội liêm, sang trọng [3] [4]. Năm 2020, ngay chuyến đầu tiên đã vinh dự đoạt giải Good Design Award Nhật Bản [5]. Tiếp đó, năm 2022 ra mắt phiên bản nâng cấp "Nhà bếp Minh Nhật" (The Moving Kitchen), liên hand cùng Khách sạn Ching Hoa và các đội ngũ ẩm thực hàng đầu, trình làng tiệc ngon cấp Michelin ngay trên toa tàu di chuyển, và năm 2023 giành giải iF Vàng (iF Gold Award) — danh hiệu cao quý nhất của giải thiết kế iF Đức — cùng "Giải Thiết kế Trải nghiệm Dịch vụ" [6] [7]. Sự ra đời của Minh Nhật tượng trưng cho việc vận tải đường sắt Đài Loan chính thức bước từ đơn thuần công cụ di chuyển, sang kỷ nguyên thẩm mỹ di động dung hòa thiết kế, văn hóa và trải nghiệm cao cấp.
+> **Tóm tắt trong 30 giây:** Rising Star (鳴日號) là đoàn tàu du lịch cao cấp do Công ty Đường sắt Đài Loan (tiền thân là Cục Đường sắt Đài Loan) hợp tác với Lion Travel, dưới sự dẫn dắt cải tạo thẩm mỹ của Qiu Bo-wen (Khâu Bách Văn) thuộc JC. Architecture [^1] [^2]. Thiết kế này bắt nguồn từ sự phản tỉnh và nhu cầu thay đổi diện mạo trước tình trạng "thảm họa thẩm mỹ" kéo dài của Đường sắt Đài Loan; bằng cách táo bạo loại bỏ những màu sắc sặc sỡ, hỗn loạn truyền thống, thiết kế đã lấy ý tưởng cốt lõi là "Gió mùa thu", sử dụng sự kết hợp giữa sắc đen tôn quý và màu cam đặc trưng của dòng tàu Juguang cũ để tạo nên vẻ ngoài sang trọng và tinh tế [^3] [^4]. Ngay từ chuyến hành trình đầu tiên vào năm 2020, đoàn tàu đã được vinh danh tại giải thưởng Good Design của Nhật Bản [^5]. Sau đó, vào năm 2022, phiên bản nâng cấp "Rising Star Kitchen" (鳴日廚房 - Nhà hàng di động) đã ra đời, kết hợp với các đội ngũ ẩm thực hàng đầu như khách sạn Regent để phục vụ những bữa tiệc đẳng cấp Michelin ngay trong toa tàu, và đã xuất sắc giành giải thưởng cao quý nhất "Giải Vàng iF" cùng "Giải Thiết kế Trải nghiệm Dịch vụ" tại Đức vào năm 2023 [^6] [^7]. Sự ra đời của Rising Star biểu trưng cho việc vận tải đường sắt Đài Loan chính thức bước vào kỷ nguyên thẩm mỹ di động, kết hợp giữa thiết kế, văn hóa và trải nghiệm cao cấp thay vì chỉ là một phương tiện di chuyển thuần túy.
 
-Con đường chuyển đổi của đường sắt Đài Loan trăm năm tuổi, thường đi kèm với ký ức tập thể và những vết thương lịch sử.
+Con đường chuyển mình của "lão làng" Đường sắt Đài Loan thường đi kèm với những ký ức tập thể và những khiếm khuyết lịch sử.
 
-Trong một thời gian rất dài, dù đường sắt Đài Loan gánh vác động năng dày đặc nối liền nam bắc đảo quốc, nhưng các chỉ dẫn lộn xộn bên trong toa, ánh sáng chói mắt, trang sơn ghép nối, thường bị công chúng và giới thiết kế đùa cợt là "thảm họa thẩm mỹ" [8]. Cuộc khủng hoảng thẩm mỹ này chỉ đến đầu năm 2020 mới đón nhận điểm ngoặt quan trọng. Bộ Giao thông và Cục Đường sắt Đài Loan quyết tâm dẫn nhập năng lượng thiết kế, thông qua "Kế hoạch Nâng cao Thẩm mỹ Đường sắt Đài Loan", giao các toa Cổ quang đã nghỉ hưu hoặc được cải tạo翻新 cho các nhóm chuyên nghiệp dân sự thực hiện, cố gắng phá vỡ khung cảnh nhàm chán của cơ quan công suốt mấy chục năm [2] [9].
+Trong một thời gian dài, dù hệ thống đường sắt Đài Loan đảm nhận vai trò kết nối mạng lưới giao thông dày đặc giữa hai miền Nam - Bắc của hòn đảo, nhưng nội thất toa tàu với các biển chỉ dẫn lộn xộn, ánh sáng chói mắt và lớp sơn phối hợp thiếu đồng nhất thường bị công chúng và giới thiết kế gọi vui là "thảm họa thẩm mỹ" [^8]. Tình trạng này chỉ thực sự bước sang bước ngoặt quan trọng vào đầu năm 2020. Bộ Giao thông và Cục Đường sắt Đài Loan đã quyết tâm đưa sức mạnh thiết kế vào vận hành thông qua "Kế hoạch Nâng cao Thẩm mỹ Đường sắt Đài Loan", giao các toa tàu Juguang đã nghỉ hưu hoặc được cải tạo cho các đội ngũ chuyên nghiệp tư nhân, nhằm phá vỡ khuôn mẫu trì trệ của khu vực công suốt nhiều thập kỷ [^2] [^9].
 
-Cốt lõi của cuộc chuyển biến này, là đội nhóm do người sáng lập Bách Thành Thiết kế Kiều Bá Văn lãnh đạo [2]. Đối mặt với họ không phải là một tờ giấy trắng, mà là một đoàn tàu đã chạy trên đường ray mấy chục năm.
+Trọng tâm của cuộc lật đổ này là đội ngũ do người sáng lập JC. Architecture, ông Qiu Bo-wen (Khâu Bách Văn), dẫn dắt [^2]. Họ không đối mặt với một tờ giấy trắng, mà là những toa tàu cũ kỹ đã lăn bánh trên đường ray suốt hàng chục năm qua.
 
-## Từ «thảm họa thẩm mỹ» đến «gió mùa thu»: Sự ra đời của thiết kế trừ pháp
+## Từ "thảm họa thẩm mỹ" đến "Gió mùa thu": Sự ra đời của thiết kế tối giản
 
-«Chúng tôi không tạo ra một thứ hoàn toàn mới, mà là đánh bóng cái linh hồn mà Đài Thiết vốn đã có.» Khưu Bách Văn nhấn mạnh trong nhiều lần phỏng vấn [2].
+"Chúng tôi không tạo ra một thứ gì đó hoàn toàn mới, mà là đang đánh bóng linh hồn vốn có của Đường sắt Đài Loan," ông Qiu Bo-wen đã nhấn mạnh trong nhiều cuộc phỏng vấn [^2].
 
-Bước đầu tiên của đội ngũ cải tạo là «trừ pháp». Trước đây, ngoại hình toa tàu Đài Thiết thường dán đầy các loại tem tuyên truyền, font chữ thô ráp và màu sắc thiếu hài hòa. Đội ngũ thiết kế quyết định xóa bỏ những nhiễu loạn này, sơn thống nhất thân tàu với gam màu đen, cam tượng trưng cho ý tượng mùa thu — màu đen trầm ổn nội liễm, màu cam thì kế thừa ký ức ôn nhu điển hình nhất của lão Cự Quang hào [3] [10]. Cặp đôi được gọi là «Cự Quang cam» và «Tôn Quý đen» này, dưới ánh nắng mặt trời không hề sặc sỡ, ngược lại tỏa ra một cảm giác sang trọng khéo léo [3].
+Bước đầu tiên của đội ngũ cải tạo là "phép trừ". Trước đây, ngoại thất các toa tàu Đường sắt Đài Loan thường dán đầy các loại nhãn dán tuyên truyền, sử dụng phông chữ thô kệch và màu sắc không ăn nhập. Đội ngũ thiết kế quyết định tẩy sạch những "nhiễu loạn" này, sơn đồng nhất thân tàu bằng tông màu đen và cam tượng trưng cho hình ảnh mùa thu — màu đen mang lại sự trầm ổn, tinh tế, còn màu cam kế thừa ký ức ấm áp đặc trưng nhất của dòng tàu Juguang cũ [^3] [^10]. Sự kết hợp giữa "cam Juguang" và "đen tôn quý" này không hề lòe loẹt dưới ánh nắng, mà ngược lại toát lên một vẻ sang trọng đầy kín đáo [^3].
 
-Phần đầu tàu còn được trang bị biển hiệu đầu tàu chuyên dụng bằng vật liệu titan, dùng mặt gương phản chiếu phong cảnh núi biển dọc tuyến đường Đài Loan, đường cong mỉm cười khắc nhẹ trên mặt biển hiệu khéo léo tương ứng với họa tiết sơn hình V được giữ lại ở mũi tàu, vừa thể hiện sự kế thừa lịch sử vừa mang ý nghĩa thủ công nghệ hiện đại [11].
+Phía trước đầu tàu còn được lắp đặt bảng tên chuyên dụng bằng chất liệu titan, phản chiếu phong cảnh núi non và biển cả dọc đường đi của Đài Loan qua hiệu ứng gương. Đường cong mỉm cười khắc nhẹ trên bảng tên kết hợp khéo léo với họa tiết chữ V ở đầu tàu, vừa mang ý nghĩa kế thừa lịch sử, vừa đậm chất thủ công hiện đại [^11].
 
-Bên trong toa tàu, đội ngũ thiết kế tháo dỡ các hộp đèn huỳnh quang lỗi thời, chuyển sang dùng ánh sáng gián tiếp tạo nên không gian ấm cúng như khách sạn; khung cửa và bố trí ghế ngồi được tính toán tỉ mỉ, khiến làn sóng lúa, biển cảnh và dãy núi bên ngoài cửa sổ không còn bị chia cắt bởi khung cửa, mà trở thành những bức tranh phong cảnh khổng lồ đang chuyển động [6]. Kỹ pháp đưa cảnh quan thiên nhiên vào như một phần của thiết kế nội thất này nhanh chóng gây cộng hưởng mạnh mẽ trong xã hội Đài Loan. Tháng 10 năm 2020, Minh Nhật hào chính thức giành giải Good Design Award của Nhật Bản — một trong bốn giải thưởng thiết kế lớn nhất thế giới — trở thành cột mốc trong lịch sử cải tạo thẩm mỹ đường sắt công cộng [5].
+Bên trong toa tàu, đội ngũ thiết kế đã dỡ bỏ các hộp đèn huỳnh quang lỗi thời, thay bằng ánh sáng gián tiếp để tạo ra bầu không khí ấm cúng như tại một khu nghỉ dưỡng; khung cửa sổ và cách bố trí ghế ngồi được tính toán tỉ mỉ để những sóng lúa, cảnh biển và dãy núi bên ngoài không còn bị chia cắt bởi các thanh khung, mà trở thành một bức tranh phong cảnh khổng lồ đang chuyển động [^6]. Phương pháp đưa cảnh quan thiên nhiên vào một phần của thiết kế nội thất này đã nhanh chóng tạo được sự đồng cảm lớn trong xã hội Đài Loan. Vào tháng 10 năm 2020, Rising Star chính thức giành giải thưởng Good Design của Nhật Bản — một trong bốn giải thưởng thiết kế lớn nhất thế giới, trở thành cột mốc cho việc cải tạo thẩm mỹ đường sắt công cộng [^5].
 
-| Mục                        | Tàu Cự Quang hào truyền thống                     | Tàu Minh Nhật hào (The Rising Star)                                     |
-| :------------------------- | :------------------------------------------------ | :---------------------------------------------------------------------- |
-| **Chủ đạo thiết kế**       | Cơ quan nội bộ tự sửa chữa và sơn trang           | Thiết kế Bách Thành (JC. Architecture) phối hợp liên ngành [2]          |
-| **Thẩm mỹ màu sắc**        | Chồng chất qua các giai đoạn, màu sắc hỗn loạn    | Tôn Quý đen với Cự Quang cam truyền thống, định hướng «gió mùa thu» [3] |
-| **Trải nghiệm không gian** | Ghế khách truyền thống, ánh sáng trắng chói chang | Ánh sáng gián tiếp ấm cúng, cửa sổ toàn cảnh, thẩm mỹ trừ pháp [6]      |
-| **Danh dự quốc tế**        | Không                                             | Good Design Award Nhật Bản, Giải vàng iF Đức [5] [7]                    |
+| Mục                        | Tàu Juguang truyền thống                       | Rising Star (鳴日號)                                               |
+| :------------------------- | :--------------------------------------------- | :----------------------------------------------------------------- |
+| **Chủ trì thiết kế**       | Bảo trì và sơn bởi cơ quan nội bộ              | Thiết kế đa ngành bởi JC. Architecture [^2]                        |
+| **Thẩm mỹ màu sắc**        | Chồng chất qua nhiều thời kỳ, màu sắc hỗn loạn | Đen tôn quý và cam Juguang truyền thống, chủ đề "Gió mùa thu" [^3] |
+| **Trải nghiệm không gian** | Ghế khách truyền thống, ánh sáng trắng mạnh    | Ánh sáng gián tiếp ấm áp, cửa sổ lớn, thẩm mỹ tối giản [^6]        |
+| **Danh hiệu quốc tế**      | Không có                                       | Good Design Award (Nhật Bản), Giải Vàng iF (Đức) [^5] [^7]         |
 
-## Minh Nhật Nhà bếp: Khi hành trình đường sắt gặp gỡ tiệc ngon cấp sao Michelin
+## Rising Star Kitchen: Khi du lịch đường sắt gặp gỡ ẩm thực sao Michelin
 
-Nếu nói tàu Minh Nhật đã giải quyết "thẩm mỹ thị giác di động", thì "Minh Nhật Nhà bếp" (The Moving Kitchen) chính thức khởi hành năm 2022 đã mở rộng thẩm mỹ đó tới giác quan nhạy cảm nhất của con người — vị giác [12].
+Nếu nói Rising Star đã giải quyết được "thẩm mỹ thị giác di động", thì "Rising Star Kitchen" (鳴日廚房 - Nhà hàng di động) ra mắt năm 2022 đã mở rộng thẩm mỹ đến giác quan nhạy cảm nhất của con người — vị giác [^12].
 
-Minh Nhật Nhà bếp được định vị là "nhà hàng năm sao di động". Để duy trì chất lượng ẩm thực cao cấp trong môi trường đường sắt rung lắc khi di chuyển, Hùng Sư Du lịch và Đường sắt Đài Loan đã đầu tư số tiền lớn cải tạo toa tàu chuyên dụng, không chỉ thiết kế lại động tuyến nhà bếp, hệ thống thoát khói và độ ổn định cung điện, mà còn mời các khách sạn quốc tế hàng đầu tham gia [6] [12].
+Rising Star Kitchen được định vị là "nhà hàng năm sao di động". Để duy trì chất lượng ẩm thực cao cấp trong môi trường đường sắt rung lắc khi di chuyển, Lion Travel và Đường sắt Đài Loan đã đầu tư lớn để cải tạo toa tàu chuyên dụng. Họ không chỉ thiết kế lại luồng vận hành bếp, hệ thống hút khói và độ ổn định của nguồn điện, mà còn mời các khách sạn hàng đầu quốc tế tham gia [^6] [^12].
 
-![Nội thất toa ăn tàu Minh Nhật Đường sắt Đài Loan, trưng bày phong cách gỗ và không gian ẩm thực tinh tế](https://upload.wikimedia.org/wikipedia/commons/3/36/%E9%B3%B4%E6%97%A5%E5%88%97%E8%BB%8A_03.jpg)
-_Không gian nội bộ toa ăn tàu Minh Nhật Đường sắt Đài Loan, dung hợp thẩm mỹ phương Đông với thiết kế bàn gỗ đương đại. Photo: Cục Quản lý Đường sắt Đài Loan (Attribution required). License via Wikimedia Commons._
+![Nội thất toa ẩm thực Rising Star của Đường sắt Đài Loan, hiển thị tông màu gỗ và không gian ẩm thực tinh tế](https://upload.wikimedia.org/wikipedia/commons/3/36/%E9%B3%B4%E6%97%A5%E5%88%97%E8%BB%8A_03.jpg)
+_Không gian bên trong toa ẩm thực của tàu Rising Star (Đường sắt Đài Loan), kết hợp thẩm mỹ phương Đông và thiết kế bàn ăn bằng gỗ hiện đại. Ảnh: Cục Đường sắt Đài Loan (Yêu cầu ghi công). Giấy phép qua Wikimedia Commons._
 
 [Giấy phép qua Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E9%B3%B4%E6%97%A5%E5%88%97%E8%BB%8A_03.jpg)
 
-Đợt hợp tác đầu tiên ngay lập tức liên thủ cùng Tập đoàn Khách sạn Ching Hoa Quốc tế, với sự tham gia của các đội ngũ ẩm thực hàng đầu như Nhà hàng Ching Hoa, kết hợp tinh hoa ẩm thực Quảng Đông với nguyên liệu địa phương Đài Loan (như đặc sản Giê Lan, hải sản Hoa Liên), trình bày những món ăn tinh tế như Cơm ngâm tuyết cá đũa cua [13]. Khi đoàn tàu chậm rãi chạy qua vách núi Thanh Thủy bên bờ Thái Bình Dương, hành khách ngồi trong toa ăn với vân gỗ đàn hương và da thuộc xen kẽ, một bên thưởng thức các món ăn hạng sao do chủ bếp亲自 nấu, một bên ngắm nhìn biển trời trọn vẹn bên ngoài cửa sổ, trải nghiệm cảm giác toàn diện này đã hoàn toàn viết lại hình dung của người Đài Loan về hộp cơm tàu hỏa và du lịch đường sắt [6].
+Sự hợp tác đầu tiên là bắt tay với Tập đoàn Khách sạn Quốc tế Regent, với sự góp mặt của các đội ngũ ẩm thực đỉnh cao như nhà hàng Regent Kitchen. Họ kết hợp tinh hoa ẩm thực Quảng Đông với nguyên liệu địa phương Đài Loan (như đặc sản Nghi Lan, hải sản Hoa Liên) để phục vụ những món ăn tinh tế như cháo cua thượng hạng [^13]. Khi đoàn tàu chậm rãi lướt qua vách đá Qingshui bên bờ Thái Bình Dương, hành khách ngồi trong toa tàu đan xen giữa vân gỗ đàn hương và da cao cấp, vừa thưởng thức món ăn sao Michelin do chính tay đầu bếp chế biến, vừa ngắm nhìn đường chân trời biển trời không vật cản, trải nghiệm đa giác quan này đã hoàn toàn viết lại trí tưởng tượng của người Đài Loan về cơm hộp tàu hỏa và du lịch đường sắt [^6].
 
-Đột phá này không chỉ giành được uy tín thị trường, mà còn tỏa sáng trên sân khấu quốc tế. Năm 2023, 「Nhà bếp Minh Nhật」 một lần giành được giải thưởng cao quý nhất của Giải iF Thiết kế Đức (iF Design Award) là 「Giải iF Vàng」 và 「Giải Thiết kế Trải nghiệm Dịch vụ」 [7]. Ban giám khảo đánh giá rất cao: 「Thông qua thiết kế dịch vụ thành công kết hợp du lịch, ẩm thực và giao thông cùng tiêu chuẩn khách sạn, trải nghiệm này cuối cùng trở thành một lối sống xa xỉ trên những chuyến tàu đang chạy.」 [14]
+Bước đột phá này không chỉ giành được uy tín trên thị trường mà còn tỏa sáng rực rỡ trên đấu trường quốc tế. Năm 2023, "Rising Star Kitchen" đã xuất sắc đoạt giải thưởng cao quý nhất của Giải thưởng Thiết kế iF Đức (iF Design Award) là "Giải Vàng iF" và "Giải Thiết kế Trải nghiệm Dịch vụ" [^7]. Hội đồng giám khảo đánh giá rất cao: "Thông qua việc kết hợp thành công thiết kế dịch vụ và tiêu chuẩn khách sạn giữa du lịch, ẩm thực và giao thông, trải nghiệm này cuối cùng đã trở thành một lối sống xa hoa trên những chuyến tàu di động." [^14]
 
-## Điển phạm chuyển dịch du lịch đường sắt cao cấp Đài Loan
+## Sự chuyển dịch mô hình du lịch đường sắt cao cấp tại Đài Loan
 
-Sự thành công của tàu Minh Nhật và Nhà bếp Minh Nhật, đối với xã hội Đài Loan có ý nghĩa xa vượt ra khỏi việc vận hành thương mại của một chuyến tàu.
+Thành công của Rising Star và Rising Star Kitchen mang ý nghĩa đối với xã hội Đài Loan vượt xa khỏi hoạt động kinh doanh của một đoàn tàu.
 
-Trước đây, văn hóa đường sắt của Đài Loan phần lớn tập trung vào việc khảo chứng lịch sử đường sắt của người yêu đường sắt, bảo tồn ga cũ hay các hộp cơm truyền thống mang tính hoài niệm. Tuy nhiên, tàu Minh Nhật đã chứng minh Đài Loan có khả năng thông qua thiết kế đương đại, liên minh đa ngành (như Hùng Sư Du lịch lo kế hoạch hành trình, Khách sạn Ching Hoa phụ trách dịch vụ ẩm thực, Bách Thành Thiết kế lo thẩm mỹ không gian), nâng cấp cơ sở hạ tầng công cộng thành đòn bẩy cao cấp cho văn hóa và kinh tế [1] [6].
+Trước đây, văn hóa đường sắt Đài Loan đa phần tập trung vào việc nghiên cứu lịch sử của những người đam mê tàu hỏa, bảo tồn các nhà ga cũ hoặc những hộp cơm hoài cổ. Tuy nhiên, Rising Star đã chứng minh rằng Đài Loan có khả năng thông qua thiết kế đương đại và liên minh giữa các ngành công nghiệp (như lập kế hoạch hành trình của Lion Travel, dịch vụ ẩm thực của khách sạn Regent, thẩm mỹ không gian của JC. Architecture) để nâng cấp cơ sở hạ tầng công cộng thành một phương tiện cao cấp mang tính văn hóa và kinh tế [^1] [^6].
 
-Nó buộc doanh nghiệp nhà nước lâu đời phải suy nghĩ lại giá trị của "chi tiết". Từ bộ đồng phục thanh lịch của trưởng tàu và nhân viên phục vụ trên tàu (được trao danh hiệu "nhân viên phục vụ thẩm mỹ"), đến nhạc nền môi trường chuyên biệt và hướng dẫn viên địa phương phát trên tàu, mọi khâu đều đang xây dựng một hệ luận述 thẩm mỹ di động đương đại thuộc về Đài Loan [15]. Khi khách du lịch nước ngoài và thế hệ bản địa lần lượt lên tàu chiếc xe lửa đen cam xen kẽ này, những gì họ thấy không chỉ là toa tàu đường sắt đã được翻新, mà là linh hồn một đảo quốc khao khát tìm thấy sự cân bằng thanh lịch giữa tính hiện đại và ký ức在地.
+Nó buộc các doanh nghiệp nhà nước cũ kỹ phải suy nghĩ lại về giá trị của "chi tiết". Từ bộ đồng phục thanh lịch của trưởng tàu và nhân viên phục vụ (được trao danh hiệu "nhân viên phục vụ thẩm mỹ"), đến âm nhạc môi trường chuyên dụng và hướng dẫn viên địa phương phát trên tàu, mỗi mắt xích đều đang xây dựng một hệ thống luận thuyết về thẩm mỹ di động thuộc về Đài Loan đương đại [^15]. Khi du khách nước ngoài và các thế hệ người bản địa bước lên đoàn tàu đan xen sắc đen-cam này, thứ họ nhìn thấy không chỉ là những toa tàu được làm mới, mà là linh hồn của một hòn đảo đang khao khát tìm kiếm sự cân bằng thanh lịch giữa tính hiện đại và ký ức địa phương.
 
-[^1]: [Wikipedia: Tàu Minh Nhật](https://zh.wikipedia.org/zh-hant/%E9%B3%B4%E6%97%A5%E8%99%9F%E5%88%97%E8%BB%8A) — Ghi lại định vị loại xe, tổ hợp, chế độ vận hành và lịch sử biến thiên của tàu Minh Nhật.
+---
 
-[^2]: [Shopping Design: Đối thoại thẩm mỹ tàu Đài-Nhật! Nhà thiết kế Đài Thiết Kiều Bá Văn X JR Shikoku](https://www.shoppingdesign.com.tw/post/view/9915) — Phỏng vấn độc quyền người sáng lập Thiết Kế Bách Thành Kiều Bá Văn, thảo luận triết lý thiết kế Minh Nhật, thẩm mỹ trừ pháp và quá trình giao tiếp với cơ quan công.
+## Tài liệu tham khảo (References)
 
-[^3]: [Shopping Design: Vinh dự Good Design Nhật Bản! Tàu du lịch mới của Đài Thiết 'Minh Nhật' lấy gió thu làm khái niệm cốt lõi](https://www.shoppingdesign.com.tw/post/view/5961) — Chi tiết giới thiệu Minh Nhật lấy 'gió thu' làm trung tâm, vận dụng phối màu đen, cam tái tạo ký ức 70 năm tàu Cổ Quang.
+[^1]: [Wikipedia: Tàu Rising Star](https://zh.wikipedia.org/zh-hant/%E9%B3%B4%E6%97%A5%E8%99%9F%E5%88%97%E8%BB%8A) — Ghi chép về phân loại dòng tàu, cấu hình, mô hình vận hành và lịch sử phát triển của Rising Star.
 
-[^4]: [Traveler Luxe Nhật ký hành trình: 'Minh Nhật·Nhà bếp Minh Nhật' tại Đài Loan thiết kế đen, cam khiêm tốn quý tộc, tuyển chọn Minh Nhật nội liễm xa hoa](https://www.travelerluxe.com/article/desc/230009798) — Phân tích sâu sắc lý thuyết màu sắc, lựa chọn vật liệu và định vị xa hoa khiêm tốn của Minh Nhật và Nhà bếp Minh Nhật.
+[^2]: [Shopping Design: Đối thoại thẩm mỹ đường sắt Đài - Nhật! Nhà thiết kế Đường sắt Đài Loan Qiu Bo-wen X JR Shikoku](https://www.shoppingdesign.com.tw/post/view/9915) — Phỏng vấn người sáng lập JC. Architecture, thảo luận về triết lý thiết kế, thẩm mỹ tối giản và quá trình giao tiếp với khu vực công của Rising Star.
 
-[^5]: [Newsmedia: Thiết kế thẩm mỹ được khẳng định, tàu Minh Nhật Đài Thiết giành Good Design Award Nhật Bản 2020](https://newsmedia.today/%E7%BE%8E%E5%AD%B8%E8%A8%AD%E8%A8%88%E5%8F%97%E8%82%AF%E5%AE%9A-%E8%87%BA%E9%90%B5%E9%B3%B4%E6%97%A5%E8%99%9F%E7%8D%B2%E6%97%A5%E6%9C%AC%E8%A8%AD%E8%A8%88%E5%A4%A7%E7%8D%8E/) — Báo đạo Minh Nhật vinh dự giải thưởng quốc tế Good Design Award Nhật Bản năm 2020 và ý nghĩa của nó.
+[^3]: [Shopping Design: Giành giải Good Design Nhật Bản! Tàu du lịch phiên bản mới của Đường sắt Đài Loan "Rising Star" lấy ý tưởng từ Gió mùa thu](https://www.shoppingdesign.com.tw/post/view/5961) — Giới thiệu chi tiết về việc Rising Star dùng "Gió mùa thu" làm cốt lõi, sử dụng phối màu đen-cam để tái hiện ký ức tàu Juguang suốt 70 năm.
 
-[^6]: [ELLE: Minh Nhật hợp tác đầu bếp danh tiếng Nhà hàng Ching Hoa! Nâng cấp nhà bếp năm sao di động](https://www.elle.com/tw/life/foodie/g61850534/the-future-kitchen/) — Giới thiệu chi tiết cải tạo toa tàu Nhà bếp Minh Nhật, thiết kế cửa sổ ngắm cảnh rộng lớn và sự kết hợp ẩm thực đỉnh cao.
+[^4]: [Traveler Luxe: Thiết kế đen-cam sang trọng kín đáo của "Rising Star · Rising Star Kitchen" tại Đài Loan](https://www.travelerluxe.com/article/desc/230009798) — Phân tích sâu về học thuyết màu sắc, lựa chọn chất liệu và định vị sang trọng tinh tế của Rising Star và Rising Star Kitchen.
 
-[^7]: [Taiwan News / Hân Truyền Thông: Hùng Sư điều hành 'Nhà bếp Minh Nhật' lại có tin vui! Sau giải iF Vàng Đức giành giải IIDA Mỹ](https://www.xinmedia.com/article/211773) — Báo đạo Nhà bếp Minh Nhật vinh dự giải thưởng thiết kế iF Đức năm 2023 cao quý nhất 'Giải iF Vàng' và 'Giải Thiết kế Trải nghiệm Dịch vụ'.
+[^5]: [Newsmedia: Thiết kế thẩm mỹ được công nhận, tàu Rising Star của Đường sắt Đài Loan giành giải Good Design Award 2020 tại Nhật Bản](https://newsmedia.today/%E7%BE%8E%E5%AD%B8%E8%A8%AD%E8%A8%88%E5%8F%97%E8%82%AF%E5%AE%9A-%E8%87%BA%E9%90%B5%E9%B3%B4%E6%97%A5%E8%99%9F%E7%8D%B2%E6%97%A5%E6%9C%AC%E8%A8%AD%E8%A8%88%E5%A4%A7%E7%8D%8E/) — Đưa tin về việc Rising Star nhận được sự công nhận từ giải thưởng quốc tế Good Design Award 2020.
 
-[^8]: [Mạng Báo Phê Bình Then Chốt / Chuyển dẫn báo đạo liên quan: Điểm khởi đầu cải tạo thẩm mỹ Đài Thiết](https://www.trjourney.org.tw/zh-tw/content) — Thảo luận về bệnh lý thẩm mỹ lâu dài mà Đài Thiết đối mặt và bối cảnh lịch sử giới thiết kế thúc đẩy cải tạo thẩm mỹ.
+[^6]: [ELLE: Rising Star hợp tác cùng đầu bếp danh tiếng Regent Kitchen! Nâng cấp mạnh mẽ nhà hàng năm sao di động](https://www.elle.com/tw/life/foodie/g61850534/the-future-kitchen/) — Giới thiệu chi tiết cải tạo toa tàu, thiết kế cửa sổ quan sát lớn và sự kết hợp ẩm thực cao cấp của Rising Star Kitchen.
 
-[^9]: [Cục Giáo dục Quốc gia / PDF Đám mây Giáo dục: Dẫn nhập thiết kế, đường sắt Đài tăng thêm ý mới](https://vtedu.k12ea.gov.tw/uploads/1672283646641FWoy072t.pdf) — Văn kiện giáo dục chính thức tổng hợp bối cảnh chính sách dẫn nhập lực lượng thiết kế vào các tàu mới và tàu du lịch của Đài Thiết.
+[^7]: [Taiwan News / Xin Chuan Mei: Lion Travel điều hành "Rising Star Kitchen" tiếp tục đón tin vui! Sau giải Vàng iF Đức đã đoạt giải IIDA Mỹ](https://www.xinmedia.com/article/211773) — Đưa tin về việc Rising Star Kitchen giành giải thưởng cao quý nhất "Giải Vàng iF" và "Giải Thiết kế Trải nghiệm Dịch vụ" tại Đức năm 2023.
 
-[^10]: [Hùng Sư Du lịch: Hành trình Minh Nhật – Khuyến nghị du lịch đường sắt Đài Loan cấp năm sao](https://www.liontravel.us/zh-tw/campaign/taiwan/rail/future/) — Giới thiệu hành trình chính thức và triết lý thiết kế, ghi lại khái niệm gió thu và chi tiết ngoại hình thân tàu.
+[^8]: [Critical Watch / Trích dẫn báo cáo liên quan: Điểm khởi đầu của cuộc cải tạo thẩm mỹ Đường sắt Đài Loan](https://www.trjourney.org.tw/zh-tw/content) — Thảo luận về những khiếm khuyết thẩm mỹ kéo dài của Đường sắt Đài Loan và bối cảnh lịch sử thúc đẩy giới thiết kế cải tạo.
 
-[^11]: [Trang web chính thức Công ty Đường sắt Đài Loan: Giới thiệu tàu Minh Nhật/ Nhà bếp Minh Nhật](https://www.railway.gov.tw/tra-tip-web/tip/tip00N/tipN01/sun/index?lang=zh_TW) — Giải thích chính thức của Đài Thiết về biển đầu tàu titan, cấu trúc nền tảng vòng tròn mười lớp và đường cong nụ cười của Minh Nhật.
+[^9]: [Cục Giáo dục Quốc gia / Giáo dục Cloud PDF: Đưa thiết kế vào đường sắt Đài Loan để tăng thêm ý nghĩa mới](https://vtedu.k12ea.gov.tw/uploads/1672283646641FWoy072t.pdf) — Tài liệu giáo dục chính thức tổng hợp bối cảnh chính sách đưa sức mạnh thiết kế vào các loại tàu mới và tàu du lịch của Đường sắt Đài Loan.
 
-[^12]: [Báo Thượng: Nhà bếp Minh Nhật cùng Khách sạn Ching Hoa tung menu nâng cấp! Nhà hàng Ching Hoa 'Cơm ngâm tuyết cá đũa cua'](https://www.upmedia.mg/tw/lifestyle/travel/208850) — Báo đạo Nhà bếp Minh Nhật với tư cách 'nhà hàng năm sao di động' về tiêu chuẩn ẩm thực và đội ngũ đầu bếp hợp tác.
+[^10]: [Lion Travel: Hành trình Rising Star - Gợi ý du lịch đường sắt Đài Loan năm sao](https://www.liontravel.us/zh-tw/campaign/taiwan/rail/future/) — Giới thiệu hành trình chính thức và triết lý thiết kế, ghi lại khái niệm gió mùa thu và chi tiết ngoại thất tàu.
 
-[^13]: [Bài đăng chính thức Facebook: Khách sạn Ching Hoa Taipei liên thủ Hùng Sư Du lịch xây dựng Nhà bếp Minh Nhật](https://www.facebook.com/RegentTaipei/posts/%F0%9D%9F%8F%F0%9D%9F%8E%F0%9D%9F%92-%E6%9C%80%E5%BE%8C%E5%B8%AC%EC%AC%A1%E9%82%80%E6%82%A8%E6%90%AD%E4%B9%98%E5%8F%B0%E9%90%B5%E6%9C%80%E7%BE%8E%E8%A7%80%E5%85%89%E5%88%97%E8%BB%8Bu-%E9%B3%B4%E6%97%A5%E5%BB%9A%E6%88%BF%E7%94%B1-%E5%8F%B0%E5%8C%97%E6%99%B6%E8%8F%AF%E9%85%92%E5%BA%94%E4%B8%AD%E9%A4%90%E5%BB%9A%E6%88%DSP933532978802783/) — Khách sạn Ching Hoa chính thức ghi lại chi tiết Giám đốc nghệ thuật ẩm thực Trung Hoa Ngô Hải Minh亲自 lên Nhà bếp Minh Nhật nắm bếp.
+[^11]: [Website chính thức Công ty Đường sắt Đài Loan: Giới thiệu tàu Rising Star / Rising Star Kitchen](https://www.railway.gov.tw/tra-tip-web/tip/tip00N/tipN01/sun/index?lang=zh_TW) — Giải thích chính thức của Đường sắt Đài Loan về bảng tên titan, cấu trúc nền tảng vòng tròn mười lớp và đường cong mỉm cười của tàu Rising Star.
 
-[^14]: [TTN Báo Du lịch: Nhà bếp Minh Nhật, tàu Da Xanh Giải Ưu giành giải 'Thiết kế Trải nghiệm Dịch vụ' iF Đức](https://www.ttnmedia.com/?p=84005) — Trích dẫn hội đồng thẩm định chính thức iF Đức đánh giá cao sự融合 du lịch, ẩm thực và dịch vụ giao thông tại Nhà bếp Minh Nhật.
+[^12]: [Up Media: Rising Star Kitchen hợp tác với khách sạn Regent nâng cấp thực đơn! Món "Cháo cua thượng hạng" của Regent Kitchen](https://www.upmedia.mg/tw/lifestyle/travel/208850) — Đưa tin về tiêu chuẩn ẩm thực và đội ngũ đầu bếp hợp tác của Rising Star Kitchen với tư cách là "nhà hàng năm sao di động".
 
-[^15]: [La Vie: Tàu du lịch Đài Thiết 'Minh Nhật' khởi động!](https://www.wowlavie.com/article/ae1902361) — Báo đạo chuyến đầu tiên của Minh Nhật và Bách Thành Thiết Kế thực hiện cải cách toàn diện về phần mềm, phần cứng, thẩm mỹ nhân viên phục vụ trên tàu và trải nghiệm tổng thể.
+[^13]: [Bài đăng chính thức trên Facebook: Khách sạn Regent Taipei hợp tác với Lion Travel tạo nên Rising Star Kitchen](https://www.facebook.com/RegentTaipei/posts/%F0%9D%9F%8F%F0%9D%9F%8E%F0%9D%9F%92-%E6%9C%80%E5%BE%8C%E5%B8%AC%EC%AC%A1%E9%82%80%E6%82%A8%E6%90%AD%E4%B9%98%E5%8F%B0%E9%90%B5%E6%9C%80%E7%BE%8E%E8%A7%80%E5%85%89%E5%88%97%E8%BB%8Bu-%E9%B3%B4%E6%97%A5%E5%BB%9A%E6%88%BF%E7%94%B1-%E5%8F%B0%E5%8C%97%E6%99%B6%E8%8F%AF%E9%85%92%E5%BA%94%E4%B8%AD%E9%A4%90%E5%BB%9A%E6%88%DSP933532978802783/) — Ghi chép chính thức từ khách sạn Regent về chi tiết Giám đốc ẩm thực Wu Hai-ming trực tiếp đứng bếp tại Rising Star Kitchen.
+
+[^14]: [TTN Travel News: Rising Star Kitchen và tàu Blue Skin Giải Ưu được trao "Giải Thiết kế Trải nghiệm Dịch vụ" của iF Đức](https://www.ttnmedia.com/?p=84005) — Trích dẫn đánh giá cao từ hội đồng giám khảo giải thưởng thiết kế iF Đức về sự kết hợp giữa du lịch, ẩm thực và dịch vụ giao thông của Rising Star Kitchen.
+
+[^15]: [La Vie: Tàu du lịch Đường sắt Đài Loan "Rising Star" chính thức khởi hành!](https://www.wowlavie.com/article/ae1902361) — Đưa tin về chuyến hành trình đầu tiên của Rising Star và sự đổi mới toàn diện về phần cứng, phần mềm, thẩm mỹ nhân viên phục vụ và trải nghiệm tổng thể từ JC. Architecture.

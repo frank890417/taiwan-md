@@ -1,17 +1,17 @@
 ---
-title: 'Giải Âm nhạc Vàng: Đài Loan tự trao giải cho âm nhạc của mình, và những khoảnh khắc đáng nhớ suốt ba mươi lăm năm'
-description: 'Năm 2024 tại Nhà thi đấu Tiểu Cự Nhôm, nhóm Căo Đông lần thứ hai vinh danh, kinh tế người đại diện nhận lãnh, toàn hội dành lặng lẽ cho một tay trống đã khuất. Ba mươi lăm năm nay, Giải Âm nhạc Vàng từ một bức thư viết tay của Thái Cầm phát triển thành một lễ trao giải cấp quốc gia, đã trao vương miện cho Chu Kiệt Luân và album Phạm Tuyên Tây của anh, Trương Huệ Mẫu đã bị đề cử 14 lần, và cũng trao vinh dự cao nhất cho những ca sĩ hát bằng tiếng Đài, tiếng Khách Gia, và ngôn ngữ Nam Đảo bản địa. Đây là nơi Đài Loan tự trao giải cho âm nhạc của mình, quyết định tiếng nào xứng đáng được ghi nhớ.'
+title: 'Giải thưởng Kim Khúc: Nơi Đài Loan vinh danh âm nhạc của chính mình, và những khoảnh khắc ghi dấu cả đời suốt 35 năm qua'
+description: 'Tại Nhà thi đấu Tiểu Cự Đàm năm 2024, nhóm No Party For Cao Dong lần thứ hai chạm đến đỉnh cao khi người quản lý thay mặt nhận giải, cả khán phòng lặng đi vì một tay trống đã khuất. Suốt 35 năm, từ lá thư tay của Thái Cầm (Tsai Chin), Kim Khúc đã lớn mạnh thành một lễ trao giải cấp quốc gia, từng vinh danh Châu Kiệt Luân (Jay Chou), Trương Huệ Muội (A-Mei), cũng như tôn vinh âm nhạc tiếng Đài, tiếng Khách và ngôn ngữ bản địa. Đây là nơi Đài Loan tự trao giải cho âm nhạc của chính mình, quyết định xem thanh âm nào xứng đáng được lưu giữ.'
 date: 2026-06-28
 category: 'Music'
 tags:
   [
-    'giải-âm-nhạc-vàng',
-    'âm-nhạc-phổ-thông',
-    'âm-nhạc-đài-loan',
-    'lễ-trao-giải',
-    'âm-nhạc-bản-địa',
-    'ca-khúc-tiếng-đài',
-    'chính-sách-văn-hóa',
+    'Giải thưởng Kim Khúc',
+    'Nhạc Pop',
+    'Âm nhạc Đài Loan',
+    'Lễ trao giải',
+    'Âm nhạc bản địa',
+    'Nhạc tiếng Đài',
+    'Chính sách văn hóa',
   ]
 subcategory: '音樂產業與獎項'
 author: 'Taiwan.md'
@@ -30,290 +30,292 @@ relatedDiary: ['2026-06-28-080352-manual']
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'Music/金曲獎.md'
-sourceCommitSha: 'be13f045'
-sourceContentHash: 'sha256:8cf05677c93164ad'
-sourceBodyHash: 'sha256:89d2f2476f597f2c'
-translatedAt: '2026-11-03T03:58:11.529663+00:00'
+sourceCommitSha: 'f775f9835c'
+sourceContentHash: 'sha256:80f8aab1d6d15909'
+sourceBodyHash: 'sha256:b43a1be5b105403a'
+translatedAt: '2026-11-23T01:35:02+08:00'
 ---
 
-# Giải Âm nhạc Vàng: Đài Loan tự trao giải cho âm nhạc của mình, và những khoảnh khắc đáng nhớ suốt ba mươi lăm năm
+# Giải thưởng Kim Khúc: Nơi Đài Loan vinh danh âm nhạc của chính mình, và những khoảnh khắc ghi dấu cả đời suốt 35 năm qua
 
-> **Tóm tắt 30 giây:** Giải Âm nhạc Vàng là nơi Đài Loan tự trao giải cho âm nhạc của mình, được tổ chức lần đầu tiên vào năm 1990, cho đến năm 2026 đã có ba mươi bảy kỳ. Điểm bắt đầu của nó là từ một lá thư của ca sĩ Thái Cầm gửi cho Cục trưởng Cơ quan Tuyên truyền; các ban giám khảo bị khóa trong một căn phòng nhỏ và bỏ phiếu, cố ý không nhìn vào doanh số bán hàng; nó đã trao vương miện cho <a href="/people/周杰倫" target="_blank" rel="noopener">Chu Kiệt Luân</a>, <a href="/people/張惠妹" target="_blank" rel="noopener">Trương Huệ Mẫu</a>, <a href="/people/蔡依林" target="_blank" rel="noopener">Thái Y Lâm</a> những cái tên lớn nhất trong âm nhạc Hoa ngữ, và cũng trao vinh dự cao nhất cho những người hát bằng tiếng Đài, tiếng Khách Gia, ngôn ngữ Nam Đảo bản địa. Qua ba mươi lăm năm, nó ghi lại cách đất nước này lắng nghe chính mình.
+> **Tóm tắt trong 30 giây:** Giải thưởng Kim Khúc là nơi Đài Loan tự trao giải cho nền âm nhạc của chính mình. Tổ chức kỳ đầu tiên vào năm 1990, đến năm 2026 đã bước sang kỳ thứ 37. Khởi nguồn của nó là một lá thư ca sĩ Thái Cầm (Tsai Chin) gửi Cục trưởng Cục Báo chí; các giám khảo được đóng kín trong phòng để bỏ phiếu và cố ý không xem doanh số bán đĩa; giải thưởng đã vinh danh những cái tên lớn nhất làng nhạc Hoa ngữ như <a href="/people/周杰倫" target="_blank" rel="noopener">Châu Kiệt Luân</a> (Jay Chou), <a href="/people/張惠妹" target="_blank" rel="noopener">Trương Huệ Muội</a> (A-Mei), <a href="/people/蔡依林" target="_blank" rel="noopener">Thái Y Lâm</a> (Jolin Tsai), đồng thời trao vinh quang cao quý nhất cho những người hát bằng tiếng Đài, tiếng Khách và ngôn ngữ bản địa. Qua 35 năm, giải thưởng đã ghi lại cách hòn đảo này lắng nghe chính mình.
 
-Tối ngày 29 tháng 6 năm 2024 tại Nhà thi đấu Tiểu Cự Nhôm Đài Bắc, <a href="/people/草東沒有派對" target="_blank" rel="noopener">nhóm Căo Đông Không Có Bữa Tiệc</a> liên tiếp giành ba giải thưởng lớn: album của năm, album Hoa ngữ xuất sắc nhất, ban nhạc xuất sắc nhất. Đây là một trường hợp hiếm gặp trong lịch sử Giải Âm nhạc Vàng — cùng một ban nhạc lần thứ hai quét ba hạng mục lớn trong cùng một kỳ. Mọi người đang chờ họ lên sân khấu.
+Ngày 29 tháng 6 năm 2024 tại Nhà thi đấu Tiểu Cự Đàm (Taipei Arena), <a href="/people/草東沒有派對" target="_blank" rel="noopener">No Party For Cao Dong</a> (草東沒有派對) đã thắng liền ba giải lớn: Album của năm, Album Hoa ngữ xuất sắc nhất và Ban nhạc xuất sắc nhất. Đây là một sự kiện hiếm hoi trong lịch sử Kim Khúc khi cùng một ban nhạc lần thứ hai quét sạch ba giải lớn trong cùng một kỳ trao giải[^17]. Khán giả bên dưới đều nín thở chờ họ bước lên sân khấu.
 
-Nhưng người lên sân khấu không phải là thành viên ban nhạc, mà là người đại diện kinh tế. Tay trống Thái Ức Phàn (mọi người gọi cô ấy là Phàn Phàn) đã khuất ba năm trước, mới 26 tuổi. Người đại diện kinh tế nói với microphone, nói xong những lời phải nói, cuối cùng nói ba chữ: "Cảm ơn Phàn Phàn."
+Nhưng người đứng trên bục không phải thành viên nhóm, mà là người quản lý. Tay trống Thái Ức Phàm (Cai Yifan, thường gọi là Fan Fan) đã qua đời ba năm trước ở tuổi 26[^19]. Người quản lý cầm mic, nói hết những lời cần nói, và cuối cùng chỉ thốt lên ba chữ: "Cảm ơn Fan Fan."
 
-Toàn hội dành lặng lẽ vài giây.
+Cả khán phòng lặng đi trong vài giây.
 
-Vài giây đó nói lên rất nhiều về Giải Âm nhạc Vàng. Đó không phải là một bảng xếp hạng "ai nổi tiếng nhất thì được giải", nó là nơi Đài Loan tự trao giải cho âm nhạc của mình, quyết định tiếng nào xứng đáng được ghi nhớ tốt đẹp. Một ban nhạc không còn tay trống nữa, nhưng tiếng trống cô ấy đánh vẫn còn lại trên album tên là _Tẩu Nô Nhân_; ba năm sau ban nhạc của cô ấy lần thứ hai lên bục cao nhất, toàn bộ ngành công nghiệp sẵn sàng dừng lại, để im lặng vài giây cho một cái tên. Trọng lượng như vậy, là tích lũy từ ba mươi lăm năm.
-
-<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/HqmpIQ9l-uA" title="Nhóm Căo Đông Không Có Bữa Tiệc — &#039;Gió Lớn Thổi&#039;" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-_Nhóm Căo Đông Không Có Bữa Tiệc — "Gió Lớn Thổi". Bài hát này đã giúp họ chiến thắng ba giải thưởng tại kỳ 28 Giải Âm nhạc Vàng năm 2017: Ca khúc xuất sắc nhất của năm, Nghệ sĩ mới xuất sắc nhất, Ban nhạc xuất sắc nhất, được phát hiện trong vòng bầu chọn đầu tiên với những số phiếu áp đảo là 18, 19 phiếu. Tiếng trống của Phàn Phàn nằm ở đó._
-
-Bài viết tiếp theo muốn giới thiệu cho bạn những điều sâu sắc về giải thưởng này: cách nó phát triển từ một bức thư, điều gì xảy ra trong căn phòng bỏ phiếu kín cửa, nó đã trao vương miện cho những vị vua và hoàng hậu nào, cách nó cho phép bốn ngôn ngữ mỗi ngôn ngữ có sân khấu riêng của mình, và cách ngay cả những người chỉ trích nó cũng đã lên sân khấu của nó. Ba mươi lăm năm, này, bạn có biết không, thực ra là một câu chuyện rất dài.
-
-## Một bức thư, và một ông cục trưởng mà toàn gia đình đều là người hâm mộ
-
-Giải Âm nhạc Vàng bắt nguồn từ một bức thư viết bởi một nghệ sĩ dân ca hai mươi mấy tuổi vào năm 1982.
-
-Năm đó Thái Cầm đang nổi tiếng, bài "Như Sự Ấm Áp Của Em" hầu như ai cũng biết hát. Cô cảm nhận được rằng nước ngoài có những lễ trao giải nhạc phổ thông lớn, như Grammy, Giải Âm nhạc Toàn Mỹ, và Đài Loan là một thế lực trong âm nhạc phổ thông Hoa ngữ, nhưng lại không có một giải thưởng âm nhạc cấp quốc gia. Vì thế cô ngồi xuống, viết tám trang giấy thư, gửi cho Cục trưởng Cơ quan Tuyên truyền lúc đó là Tống Sở Du, gợi ý Đài Loan nên tổ chức một "lễ trao giải dành riêng cho các ca sĩ Hoa ngữ".
-
-Cô kể lại sau này, bức thư đó viết rất tỉ mỉ, thậm chí còn liệt kê sẵn những hạng mục giải thưởng nào sẽ có. Nhiều năm sau cô kể chuyện này trên một chương trình truyền hình, người dẫn chương trình Mã Thế Phương nghe xong cười nói: "Thậm chí cái đại cương xây dựng đất nước cũng viết sẵn rồi!"
-
-> 💡 **Bạn biết không**: Bản gốc bức thư của Thái Cầm chưa bao giờ được công khai, vì vậy "cô ấy đã liệt kê chính xác những hạng mục giải nào" không ai có thể kiểm chứng lại từng chữ từng câu. Những gì chúng ta biết, là cô ấy kể về lại trên chương trình truyền hình công khai _Âm nhạc Vô Vạn Tuế_ của Công ty phát hành công khai: cô ấy đã liệt kê sẵn cả các loại giải thưởng. Một ca sĩ ở độ tuổi hai mươi mấy, nghiêm túc đến mức đã suy nghĩ sẵn khung sườn cho toàn bộ lễ trao giải — việc này nói lên điều gì đó rất Đài Loan.
-
-Điều thú vị hơn là phản ứng của Tống Sở Du. Theo lời kể lại của Thái Cầm, ông cục trưởng nhận được thư, thấy chữ ký, trả lời một câu: "Cô Thái Cầm, em nói trong thư như thế nào, tự giới thiệu là cô ấy với chiếc kính, hát 'Như Sự Ấm Áp Của Em' đấy? Em không cần tự giới thiệu, toàn gia đình chúng tôi đều là người hâm mộ em!" Hai ngày sau, ông ấy đã mời Thái Cầm vào Cơ quan Tuyên truyền.
+Vài giây đó đã nói lên tất cả về giải thưởng Kim Khúc. Nó không phải là một bảng xếp hạng kiểu "ai nổi tiếng nhất thì thắng", mà là nơi Đài Loan tự trao giải cho âm nhạc của chính mình, quyết định xem thanh âm nào xứng đáng được ghi nhớ một cách trân trọng. Một tay trống của ban nhạc đã ra đi, nhưng tiếng trống cô từng đánh vẫn còn đó trong album mang tên _Châu Nô Nhi_ (_Ugly Slave_); ba năm sau, ban nhạc của cô lần thứ hai đứng trên sân khấu cao nhất, và cả ngành công nghiệp âm nhạc sẵn sàng dừng lại để dành vài giây tĩnh lặng cho một cái tên. Sức nặng đó được tích lũy qua suốt 35 năm.
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/0OhHf7FfdC0" title="Thái Cầm — &#039;Thời Gian Bị Lãng Quên&#039;" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/HqmpIQ9l-uA" title="草東沒有派對〈大風吹〉" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Thái Cầm — "Thời Gian Bị Lãng Quên". Người gửi thư cho Tống Sở Du để gợi ý tổ chức Giải Âm nhạc Vàng, chính là "cô ấy với chiếc kính, hát ca khúc đó"._
+_No Party For Cao Dong 〈Đại Phong Xuy〉. Ca khúc này đã giúp họ giành ba giải lớn tại kỳ Kim Khúc thứ 28 năm 2017: Bài hát của năm, Tân binh xuất sắc nhất và Ban nhạc xuất sắc nhất, với chiến thắng áp đảo 18, 19 phiếu ngay vòng đầu tiên. Tiếng trống của Fan Fan nằm chính trong đó._
 
-Một ý tưởng muốn trở thành một lễ trao giải cấp quốc gia, cần phải đi qua một quãng đường nữa. Cơ quan Tuyên truyền trước hết tổ chức ba kỳ gọi là "Những Bài Hát Tốt Cho Ai Cũng Hát" vào năm 1986 để làm nóng lên, năm 1988 mới chính thức bắt đầu lên kế hoạch cho Giải Âm nhạc Vàng. Đăng ký diễn ra vào tháng 8 năm 1989, danh sách vào chung kết công bố tháng 9, lễ trao giải ban đầu định tổ chức sớm hơn, nhưng vì Nhà tưởng niệm Tôn Trung Sơn phải đóng cửa để tu sửa, nên phải kéo đến ngày 6 tháng 1 năm 1990.
+Bài viết tiếp theo này muốn đưa bạn đi tìm hiểu kỹ hơn về giải thưởng này: Nó đã lớn lên từ một lá thư như thế nào, điều gì xảy ra bên trong căn phòng bỏ phiếu đóng kín kia, nó đã vinh danh những thiên vương thiên hậu nào, làm sao để bốn ngôn ngữ đều có sân khấu riêng, và tại sao ngay cả những người chỉ trích nó cũng đứng trên sân khấu của giải thưởng này. 35 năm, bạn biết không, thực sự là một câu chuyện rất dài.
 
-Đêm đó, ở Nhà tưởng niệm Tôn Trung Sơn Đài Bắc, Thôi Tái Thanh diện trang phục lễ phục, trong âm thanh của khúc nhạc nổi tiếng khi cô ra mắt "Thần Tình Yêu", cô dẫn chương trình. Hai mươi lăm thành viên ban giám khảo, hai mươi tám công ty đĩa than, bốn trăm mười một tác phẩm được đăng ký, cuối cùng chọn ra mười một giải. Vua nhạc là Ân Chính Dương, hoàng hậu nhạc là Giang Hỷ, giải nghệ sĩ mới cho Ngũ Tư Khải, ca khúc xuất sắc nhất của năm là "Tôi Rất Xấu, Nhưng Tôi Rất Ấm Áp" của Triệu Truyền.
+## Một lá thư, và một vị Cục trưởng có cả gia đình là người hâm mộ của cô ấy
 
-![Nhà tưởng niệm Tôn Trung Sơn Đài Bắc — Nơi tổ chức kỳ đầu tiên Giải Âm nhạc Vàng năm 1990, hôm đó phải đóng cửa để tu sửa, lễ trao giải kéo dài đến ngày 6 tháng 1](/article-images/music/sun-yat-sen-hall-1990-gma-venue.webp)
+Khởi nguồn của Kim Khúc là một lá thư được viết bởi một ca sĩ nhạc dân ca ở độ tuổi đôi mươi vào năm 1982.
 
-Kỳ đầu tiên thực ra khá soạn sơ: không có con đường sao sáng, không có những buổi biểu diễn lớn kiểu sau này, thậm chí giải "Album Biểu diễn Xuất Sắc Nhất" cũng chưa có, phải đến kỳ thứ hai mới có. Nhưng khung sườn đã được dựng lên. Một bức thư, một ông cục trưởng mà toàn gia đình đều là người hâm mộ, cộng với vài năm chuẩn bị, Đài Loan từ đó mỗi năm có một đêm, dành riêng để quyết định "những tiếng nào trong năm nay xứng đáng được ghi nhớ tốt đẹp".
+Năm đó Thái Cầm đang rất nổi tiếng, bài _Chính Như Sự Dịu Dàng Của Bạn_ (恰似你的溫柔) gần như ai cũng có thể ngân nga. Cô cảm thấy rằng ở Âu Mỹ đều có các lễ trao giải âm nhạc lớn như Grammy hay American Music Awards, trong khi Đài Loan với tư cách là trọng điểm của nhạc Pop Hoa ngữ lại chưa có lấy một giải thưởng âm nhạc cấp quốc gia. Thế là cô ngồi xuống, viết tám trang giấy gửi cho Cục trưởng Cục Báo chí lúc bấy giờ là Tống Sở Du (Sung Chu-yu), đề xuất Đài Loan tổ chức một "lễ trao giải chuyên biệt dành cho các ca sĩ Hoa ngữ"[^2].
 
-## Phòng Nguyên Tắc Bí Mật
+Sau này cô nhớ lại rằng lá thư đó được viết rất chi tiết, thậm chí liệt kê từng hạng mục giải thưởng một. Nhiều năm sau khi kể lại chuyện cũ trên truyền hình, người dẫn chương trình Mã Thế Phương (Ma Shih-fang) nghe xong đã cười nói: "Đến cả đề cương xây dựng quốc gia cũng viết sẵn rồi!"
 
-Để hiểu vì sao một giải âm nhạc lại được coi trọng như vậy, trước tiên cần nhìn thấy cách nó được chấm gióng.
+> 💡 **Bạn có biết**: Bản gốc lá thư của Thái Cầm chưa bao giờ được công bố, vì vậy không ai có thể kiểm chứng chính xác "cô ấy đã liệt kê những giải thưởng nào trong thư". Những gì chúng ta biết là lời cô tự kể trên chương trình _Âm Nhạc Vạn Vạn Tuế_ của đài PTS: Ngay cả các hạng mục giải thưởng cũng được liệt kê sẵn. Một ca sĩ ở tuổi đôi mươi đã nghiêm túc đến mức nghĩ ra cả khung sườn cho một buổi lễ — bản thân điều này đã mang đậm chất Đài Loan.
 
-Hệ thống chấm gióng của Giải Âm nhạc Vàng, nói cho cùng chỉ là một nhóm người ngồi lại trong một căn phòng, nghe kỹ lưỡng từng tác phẩm rồi bỏ phiếu. Nghe có vẻ đơn giản, nhưng khó khăn nằm ở chữ "thật sự" và "đóng cửa".
-
-Toàn bộ quy trình được chia thành ba vòng: Vòng sơ khảo, các phán giả nghe qua hệ thống trực tuyến và tự điệp điểm độc lập; vòng phục khảo và quyết định sẽ được họp kín. Vòng quyết định cuối cùng, quyết định giải thưởng, được tổ chức vào sáng sớm ngày tổ chức lễ trao giải, các phán giả bỏ phiếu qua máy tính ẩn danh, chọn ra người thắng cuộc sẽ được công bố vào buổi tối đó.
-
-> 📝 **Ghi chú của người biên tập**: Nhiều người phản ứng tự nhiên với "chấm gióng kín" là "hộp đen, vòng tròn nhỏ". Nhưng việc khóa cửa phòng của Giải Âm nhạc Vàng, thực chất là để ngă chặn một loại lực lượng khác — thị trường. Khi tất cả các phán giả bị cô lập, không được xem doanh số bán hàng, không được bị thuyết phục bởi bên thứ ba, thì duy nhất họ chỉ có thể dựa vào tai mình và phán đoán chuyên môn. Nói cách khác, cái cửa đã đóng lại, ngăn cản được "ai bán được nhiều thì đáng được giải thưởng" dòng tư duy thông thường. Uy tín của một giải âm nhạc vàng, một nửa đến từ cái cửa này.
-
-Mức độ bảo mật như thế nào? Những người từng tham gia báo chí như Blow đã mô tả cảnh quan tại chỗ của vòng quyết định: Các phán giả vào một căn phòng nhỏ được cách ly, "thuốc lá, nhà vệ sinh đều có người đồng hành suốt đường", trên đường không được trò chuyện với bất kỳ ai, bỏ phiếu qua máy tính ẩn danh cho đến khi kết quả xuất hiện. Thậm chí điện thoại di động cũng sẽ được thu giữ đồng loạt, chỉ được trả lại khi giải thưởng cuối cùng kết thúc.
-
-Đây không phải là truyền thuyết. Khi đăng nhập lên sân khấu tại lễ trao giải lần thứ 37 năm 2026, người thắng cuộc Chen Hien Thanh cũng đã từng nói đùa rằng: "Tôi đã chuẩn bị bài nói trước, nhưng thật tiếp tục là điện thoại bị thu giữ" — vì vậy chỉ có thể nói linh hoạt. Điện thoại di động lăn tăn giữa các phán giả và người thắng cuộc, chính là minh chứng tốt nhất cho toàn bộ cơ chế bảo mật này.
-
-Vậy các phán giả chấm gióng thế nào? Lời giải thích chính thức là họ cần xem xét "tính tiên phong", đánh giá các tác phẩm có giá trị nghệ thuật thực sự, không cần phải đi theo xu hướng thị trường thương mại. Nhân viên của Dila, người từng là phán giả ba kỳ, từng nêu ra một tiêu chí dễ hiểu hơn. Anh ta nói, khi gặp khó khăn trong việc lựa chọn, hai album đều rất tốt, anh sẽ tự hỏi mình một câu hỏi:
-
-> "Tôi có muốn mua album này không?"
-
-Điều đặc biệt của câu nói này, là nó rút gọn tiêu chí của một giải thưởng công nghiệp lớn thành một cơn bối cảm chân thành nhất của một người nghe nhạc: Chính tôi, có sẵn sàng bỏ tiền ra để mua album này không? Dila cũng từng nói thêm một câu, dành cho những người nghĩ rằng "không giành giải thưởng là thua cuộc": "Được đề cử chính là sự công nhận, thật sự đấy."
-
-Tất nhiên, hệ thống này cũng không thiếu ý kiến. Có người nói rằng nó thiếu các chuẩn mực đánh giá rõ rệt, quá phụ thuộc vào đạo đức nghề nghiệp của từng cá nhân phán giả; có người nói rằng khi một người được đề cử nhiều hạng mục, các phán giả sẽ có xu hướng phân phát giải thưởng để tránh tập trung. Những cuộc thảo luận này vẫn đi liên tục: Nhưng cũng chính vì có người quan tâm, có người thảo luận, những gì xảy ra trong căn phòng này mới thực sự đáng được quan sát một cách nghiêm túc.
-
-## Vua và Hoàng Hậu Âm Nhạc Vàng
-
-Giải Âm nhạc Vàng tất nhiên cũng là bục trao vương miện cho những ngôi sao lớn nhất của nhạc phổ thông Hoa ngữ. Những cái tên bạn nghe từ nhỏ đến lớn, hầu như ai cũng để lại một khoảnh khắc đỉnh cao trên sân khấu này.
-
-Trước hết là những người giữ kỷ lục. Chu Kiệt Luân một mình đã giành mười lăm giải Âm nhạc Vàng, là kỷ lục cao nhất của các ca sĩ nam. Đêm thực sự anh vinh danh là năm 2002 kỳ thứ 13: nhờ album _Phạm Tuyên Tây_, anh một mình bỏ túi bốn giải: Album Biểu Diễn Nhạc Phổ Thông Xuất Sắc Nhất, Nhạc Sĩ Xuất Sắc Nhất ("Tình Yêu Trước Thập Niên Thứ Nhất"), Nhà Sản Xuất Album Xuất Sắc Nhất, không tính đến những gì của Phương Văn Sơn với "Nhạc Sĩ Từ Lời Xuất Sắc Nhất" với bài "Lâu Đài Uilliam", Chung Hưng Dân với bài "Chuỗi Lưỡi Đôi" lấy "Nhà Sắp Xếp Nhạc Xuất Sắc Nhất". Một album, hầu như quét toàn bộ các hạng mục kỹ thuật của năm đó. Đối với một tay trẻ mới phát hành vài năm, đêm đó cơ bản là tuyên bố một thời đại mới sắp bắt đầu.
+Điều thú vị hơn là phản ứng của Tống Sở Du. Theo lời kể của Thái Cầm, khi Cục trưởng nhận được thư và thấy tên người gửi, ông đã đáp lại: "Cô Thái Cầm, trong thư cô nói sao, cô tự nhận mình là cô Thái Cầm đeo kính và hát bài 'Chính Như Sự Dịu Dàng Của Bạn' à?! Cô không cần giới thiệu đâu, cả nhà tôi đều là người hâm mộ của cô đấy!" Hai ngày sau, ông đã mời Thái Cầm đến làm việc tại Cục Báo chí.
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/mLk61pfiHQ0" title="Trương Huệ Mẫu — &#039;Lắng Nghe Biển&#039;" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/0OhHf7FfdC0" title="蔡琴〈被遺忘的時光〉" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Trương Huệ Mẫu — "Lắng Nghe Biển". Giải Nữ Ca Sĩ Xuất Sắc Nhất, cô ấy được đề cử tham gia 14 lần: đây là kỷ lục của lịch sử Giải Âm nhạc Vàng. Cô ấy bốn lần đội vương miện, lần lượt năm 2002 \_Sự Thật_, năm 2010 _Ô Mật Đặc_, năm 2015 _Thiên Hạ Phiến Chính_.\_
+_Thái Cầm 〈Thời Quang Bị Lãng Quên〉. Người viết thư cho Tống Sở Du đề xuất tổ chức Kim Khúc chính là "cô Thái Cầm đeo kính hát ca" đó. Ý tưởng của một ca sĩ sau này đã phát triển thành một trong những lễ trao giải âm nhạc quan trọng nhất thế giới Hoa ngữ._
 
-Ở phía nữ ca sĩ, câu chuyện cũng rất hấp dẫn. Trương Huệ Mẫu giữ một kỷ lục rất khó bị phá vỡ: Giải Nữ Ca Sĩ Xuất Sắc Nhất được đề cử mười bốn lần. Cô bốn lần đội vương miện của cô, năm 2010 cái lần đó đặc biệt thú vị: cô dùng "Ô Mật Đặc" — cái nhân vật này mang máu Bình Nam, để tranh thủ, với _Ô Mật Đặc_ giành Nữ Ca Sĩ Quốc Ngữ Xuất Sắc Nhất, bằng cách một cá nhân sống thành hai tiếng nói.
+Để một ý tưởng trở thành lễ trao giải cấp quốc gia còn cả một chặng đường dài. Cục Báo chí trước tiên tổ chức ba đợt hoạt động mang tên "Hát Chung Những Bài Hát Hay" vào năm 1986 để khởi động, mãi đến cuối năm 1988 mới chính thức bắt đầu lên kế hoạch cho Kim Khúc. Việc đăng ký diễn ra vào tháng 8 năm 1989, danh sách đề cử được công bố vào tháng 9. Lễ trao giải vốn định tổ chức sớm hơn, nhưng do Nhà tưởng niệm Quốc phụ phải đóng cửa để tu sửa nên đã lùi đến ngày 6 tháng 1 năm 1990[^1].
 
-Nói về "người thắng nhiều nhất", Thái Kiện Ngoại là một huyền thoại khác. Cô bốn lần chiến thắng Nữ Ca Sĩ Xuất Sắc Nhất: _Sinh Vật Kép_, _Tạm Biệt và Xin Chào_, _Nói Tới Tình Yêu_, _DEPART_: là kỷ lục giữ của hạng mục giải thưởng này. Và, này, bạn có biết không, Thái Kiện Ngoại là người Singapore. Giải Âm nhạc Vàng chưa bao giờ chỉ trao cho những ca sĩ có hộ chiếu Đài Loan, nó trao cho những người hát bằng tiếng Hoa ra những tác phẩm tốt nhất, Thái Kiện Ngoại bốn giải hoàng hậu chính là bằng chứng tốt nhất.
+Đêm đó, tại Nhà tưởng niệm Quốc phụ ở Đài Bắc, Thôi Đài Thanh (Tsui Tai-ching) trong bộ lễ phục đã bước vào sân khấu dẫn chương trình trên nền nhạc dạo của ca khúc làm nên tên tuổi _Ái Thần_ (Love God) do dàn nhạc lớn của Đài Truyền hình Hoa Thị biểu diễn. 25 giám khảo, 28 công ty thu âm, 410 tác phẩm đăng ký, cuối cùng chọn ra 11 giải thưởng. Ca vương là Ân Chính Dương (Yin Cheng-yang), ca hậu là Giang Hối (Jiang Hui), giải Tân binh thuộc về Ngũ Tư Khải (Wu Ssu-kai), và bài hát của năm là _Tôi Rất Xấu, Nhưng Tôi Rất Dịu Dàng_ của Triệu Truyền (Chao Chuan) [^3].
+
+![Nhà tưởng niệm Quốc phụ ở Đài Bắc — Địa điểm tổ chức kỳ Kim Khúc thứ nhất năm 1990, do nhà tưởng niệm đóng cửa tu sửa nên lễ trao giải đã lùi đến ngày 6 tháng 1](/article-images/music/sun-yat-sen-hall-1990-gma-venue.webp)
+
+Kỳ đầu tiên thực sự rất giản dị: không có thảm đỏ, không có những màn trình diễn quy mô lớn như sau này, ngay cả giải "Album trình diễn xuất sắc nhất" cũng chưa được thiết lập, phải đến kỳ thứ hai mới có. Nhưng khung sườn đã được dựng lên. Một lá thư, một vị Cục trưởng có cả gia đình là người hâm mộ, cộng với vài năm chuẩn bị, kể từ đó Đài Loan mỗi năm sẽ có một đêm dành riêng để quyết định "Năm nay, những thanh âm nào xứng đáng được ghi nhớ".
+
+## Căn phòng bỏ phiếu đóng kín
+
+Để hiểu tại sao một giải Kim Khúc lại được coi trọng đến vậy, trước tiên phải xem cách nó được đánh giá.
+
+Chế độ giám khảo của Kim Khúc, nói thẳng ra là một nhóm người bị nhốt trong một căn phòng, chăm chú nghe hết tất cả các tác phẩm, rồi bỏ phiếu. Nghe thì đơn giản, nhưng cái khó nằm ở sự "chăm chú" và việc "bị nhốt".
+
+Toàn bộ quy trình chia làm ba vòng thẩm định: Ở vòng sơ khảo, các giám khảo nghe nhạc riêng biệt trên hệ thống trực tuyến và chấm điểm độc lập; đến vòng tái khảo sát và quyết thảo thì sẽ bước vào các cuộc họp kín. Vòng quyết thảo cuối cùng được sắp xếp vào sáng ngày diễn ra lễ trao giải, các giám khảo bỏ phiếu ẩn danh qua máy tính để chọn ra người thắng giải sẽ được công bố vào tối hôm đó.
+
+> 📝 **Ghi chú của giám tuyển:** Nhiều người có phản ứng trực giác với "giám khảo họp kín" là "hộp đen, nhóm lợi ích". Nhưng việc Kim Khúc đóng cửa căn phòng chính là để ngăn chặn một loại sức mạnh khác — thị trường. Khi tất cả các giám khảo được cách ly, không được xem doanh số, không được vận động hành lang, thứ duy nhất họ có thể dựa vào là đôi tai và sự phán đoán chuyên môn của mình. Nói cách khác, cánh cửa đóng lại đó chính là để ngăn chặn quán tính "ai bán chạy thì người đó phải thắng". Uy tín của một giải Kim Khúc một nửa đến từ cánh cửa này.
+
+Sự bảo mật này được thực hiện ở mức độ nào? Tạp chí Blow (吹音樂) từng tham gia đưa tin đã mô tả cảnh tượng tại buổi quyết thảo: Các giám khảo vào phòng nhỏ cách ly, "có người chuyên trách đi cùng suốt quãng đường hút thuốc hay đi vệ sinh", trên đường không được trò chuyện với bất kỳ ai, bỏ phiếu ẩn danh qua máy tính cho đến khi có kết quả. Ngay cả điện thoại di động cũng bị thu giữ tập trung và chỉ trả lại sau khi giải thưởng cuối cùng được trao[^4].
+
+Đây không phải là truyền thuyết. Khi Trần Hiến Tĩnh (Chen Hsien-ching) — người thắng giải năm 2026 (kỳ thứ 37) — lên sân khấu đã cười nói rằng cô vốn đã chuẩn bị sẵn bài phát biểu nhưng "ngặt nỗi điện thoại bị thu mất" — nên chỉ có thể ứng biến. Việc điện thoại ra vào giữa giám khảo và người thắng giải chính là minh chứng rõ nhất cho cơ chế bảo mật này.
+
+Vậy các giám khảo được chọn như thế nào? Cách nói chính thức là phải xem xét "tính tiên phong", những tác phẩm chắc chắn có giá trị nghệ thuật thì không cần chạy theo thị trường thương mại. Di La (Dila), người điều hành hãng đĩa Yan She, từng làm giám khảo ba kỳ, đã nói về một tiêu chuẩn bình dân hơn. Ông cho biết khi gặp trường hợp khó lựa chọn giữa hai album đều rất hay, ông sẽ tự hỏi mình một câu:
+
+> "Mình có muốn mua đĩa này không?"
+
+Điểm hấp dẫn của câu nói này nằm ở chỗ nó thu hẹp tiêu chuẩn của một giải thưởng công nghiệp lớn thành sự thôi thúc trung thực nhất của một người yêu nhạc: Chính bản thân mình, liệu có bỏ tiền ra mua không? Di La còn nói một câu dành cho những người nghĩ rằng "không đoạt giải nghĩa là thua": "Được đề cử đã là một sự khẳng định, đó là sự thật."[^5]
+
+Tất nhiên, chế độ này không phải là không có ý kiến. Có người nói nó thiếu tiêu chuẩn bình chọn rõ ràng bằng văn bản, quá phụ thuộc vào đạo đức nghề nghiệp cá nhân của giám khảo; có người nói khi cùng một người được đề cử nhiều hạng mục, giám khảo sẽ có xu hướng chia đều các giải thưởng. Những cuộc thảo luận này vẫn luôn tồn tại: Nhưng cũng chính vì có người quan tâm, có người thảo luận, nên những gì xảy ra trong căn phòng đó mới xứng đáng được nhìn nhận một cách nghiêm túc.
+
+## Những bản Kim Khúc của Thiên vương Thiên hậu
+
+Kim Khúc dĩ nhiên cũng là bục vinh danh của những ngôi sao lớn nhất làng nhạc Hoa ngữ. Những cái tên mà bạn nghe từ nhỏ đến lớn hầu như đều đã để lại khoảnh khắc đỉnh cao trên sân khấu này.
+
+Nói về người giữ kỷ lục trước. Một mình Châu Kiệt Luân đã giành 15 giải Kim Khúc, là kỷ lục cao nhất trong số các nam ca sĩ. Đêm thực sự "phong thần" của anh là kỳ thứ 13 năm 2002: Nhờ album _Phạm Fantasy_ (_Fan Ten Fantasy_), cá nhân anh đã ôm về 4 giải: Album trình diễn nhạc Pop xuất sắc nhất, Nhà soạn nhạc xuất sắc nhất (bài _Ái Tại Tây Nguyên Tiền_), Nhà sản xuất album xuất sắc nhất; đó là chưa kể Phương Văn Sơn (Fang Wen-shan) giành giải Lời bài hát xuất sắc nhất với bài _Uy Liêm Cổ Bảo_, và Chung Hưng Dân (Chung Hsing-min) giành giải Hòa âm xuất sắc nhất với bài _Song Tiết Côn_. Một album gần như quét sạch các giải kỹ thuật năm đó. Đối với một người trẻ mới ra mắt vài năm, đêm đó tương đương với việc tuyên bố sự bắt đầu của một kỷ nguyên.
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/K27Y_f6BXVs" title="Thái Kiện Ngoại — &#039;Ô Trắng&#039;" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/mLk61pfiHQ0" title="張惠妹〈聽海〉" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Thái Kiện Ngoại — "Ô Trắng". Cô ấy là người Singapore, bốn lần bốc Giải Nữ Ca Sĩ Xuất Sắc Nhất của Giải Âm nhạc Vàng, là người giữ kỷ lục của hạng mục này. Giải Âm nhạc Vàng trao cho những tác phẩm Hoa ngữ tốt nhất, không quan tâm đến hộ chiếu._
+_Trương Huệ Muội 〈Thính Hải〉. Với giải Nữ ca sĩ xuất sắc nhất, cô đã được đề cử 14 lần: Đây là kỷ lục trong lịch sử Kim Khúc: Ba lần đăng quang ca hậu, lần lượt vào năm 2002 với album 《Chân Thực》, năm 2010 với 《Amit》, và năm 2015 với 《Thiên Chấp Diện》._
 
-Thái Y Lâm thì giữ một thành tựu được chứng nhận bởi cả Kỷ Lục Thế Giới Guinness: người chắp cánh cho Ca Khúc Xuất Sắc Nhất của Năm nhiều lần nhất. "Hôm Nay Em Sẽ Kết Hôn Với Em", "Đại Nghệ Sĩ", "Thiếu Nữ Hoa Hồng", ba lần giành lấy giải thưởng cao nhất của toàn hội, Kỷ Lục Thế Giới Guinness vì thế đã trao cho cô "Nhiều lần nhất chiến thắng Ca Khúc Xuất Sắc Nhất Giải Âm nhạc Vàng" của chứng nhận. Từ vũ điệu thiếu nữ cho đến "Thiếu Nữ Hoa Hồng" — một bài hát như vậy nói lên vấn đề giới tính — Giải Âm nhạc Vàng đã đi kèm với cô một đoạn đường dài.
+Ở phía nữ ca sĩ, câu chuyện cũng đặc sắc không kém. Trương Huệ Muội giữ một kỷ lục rất khó bị phá vỡ: được đề cử giải Nữ ca sĩ xuất sắc nhất 14 lần[^7]. Với ba lần đăng quang, kỳ năm 2010 của cô đặc biệt thú vị: Cô sử dụng nhân cách "Amit" mang dòng máu người dân tộc Binin để tranh tài, giành giải Nữ ca sĩ nhạc Hoa ngữ xuất sắc nhất với album 《Amit》, giống như một người sống với hai bản sắc âm thanh khác nhau.
+
+Nói về "người giỏi thắng nhất", Thái Kiện Nhã (Kit Chan) là một huyền thoại khác. Cô bốn lần giành giải Nữ ca sĩ xuất sắc nhất: 《Song Thủy Động Vật》, 《Goodbye & Hello》, 《Thuyết Đáo Ái》, 《DEPART》: là người giữ kỷ lục của hạng mục này. Và bạn biết không, Thái Kiện Nhã là người Singapore. Kim Khúc chưa bao giờ chỉ trao giải cho những ca sĩ có hộ chiếu Đài Loan, nó trao cho những người dùng tiếng Hoa để hát nên những tác phẩm hay nhất, và bốn lần ca hậu của Thái Kiện Nhã chính là minh chứng rõ nhất.
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/-wIHmPAvMBo" title="Thái Y Lâm — &#039;Lạ Đẹp&#039;" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/K27Y_f6BXVs" title="蔡健雅〈空白格〉" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Thái Y Lâm — "Lạ Đẹp". Cô giữ chứng nhận của Kỷ Lục Thế Giới Guinness về "Nhiều lần nhất chiến thắng Ca Khúc Xuất Sắc Nhất" — ba lần, lần lượt là "Hôm Nay Em Sẽ Kết Hôn Với Em", "Đại Nghệ Sĩ", "Thiếu Nữ Hoa Hồng"._
+_Thái Kiện Nhã 〈Không Bạch Cách〉. Là người Singapore, cô bốn lần giành giải Nữ ca sĩ xuất sắc nhất Kim Khúc, giữ kỷ lục của hạng mục này. Kim Khúc trao giải cho những tác phẩm Hoa ngữ hay nhất, không phân biệt hộ chiếu._
 
-Cũng có người chọn quay lưng lại ở nơi cao nhất. <a href="/people/江蕙" target="_blank" rel="noopener">Giang Hỷ</a> là một huyền thoại trong số những nữ ca sĩ tiếng Đài, suốt đời giành mười ba giải Âm nhạc Vàng, giải Nữ Ca Sĩ Tiếng Đài Xuất Sắc Nhất liên tục giữ từ kỳ thứ 11 cho đến kỳ thứ 14. Nhưng năm 2003 cô lần nữa đội vương miện với _Sợi Dây Đỏ_, cô đã làm một quyết định khiến mọi người ngạc nhiên: công bố sẽ không còn tranh thủ giải Nữ Ca Sĩ Xuất Sắc Nhất nữa. Để sân khấu cho các lứa sau: thái độ này, cũng động lòng như lên sân khấu nhận giải.
-
-Các câu chuyện về vua hoàng hậu còn có thể kể tiếp: <a href="/music/五月天" target="_blank" rel="noopener">Năm Tháng Ngày</a> từ dưới lên sân vận động, <a href="/people/蔡依林" target="_blank" rel="noopener">Thái Y Lâm</a> mỗi lần thay đổi, <a href="/people/張惠妹" target="_blank" rel="noopener">Trương Huệ Mẫu</a> kỷ lục được đề cử kéo dài hơn hai chục năm. Danh sách người chiến thắng mà Giải Âm nhạc Vàng để lại cho nhạc phổ thông Hoa ngữ, sau này đều trở thành điểm tham chiếu tuổi trẻ của cả một thế hệ.
-
-## Bốn tiếng nói, bốn sân khấu
-
-Nếu chỉ nhớ vua hoàng hậu, sẽ bỏ lỡ điều đặc biệt nhất của Giải Âm nhạc Vàng: nó để cho bốn tiếng nói mỗi tiếng nói có chính đặc riêng của nó. Cách thiết kế này, trong tất cả các giải thưởng âm nhạc trên thế giới, hầu như là duy nhất.
-
-Câu chuyện phải bắt đầu từ một bài rock tiếng Đài. Năm 1991 kỳ thứ 3, <a href="/people/林強" target="_blank" rel="noopener">Lâm Cường</a> "Đi Về Phía Trước" giành Ca Khúc Xuất Sắc Nhất Năm. Trước đó, ấn tượng mọi người về ca khúc tiếng Đài chủ yếu là khổ sâu, bài hát buồn; "Đi Về Phía Trước" dùng nhịp rock hát một cô chàng thôn quê cõng hành lý lên thành phố để kiếm sống, toàn bộ tính chất của ca khúc tiếng Đài được lật ngược lại, album bán vượt bốn mươi vạn bản, được xem là tác phẩm đại diện của "phong trào ca khúc tiếng Đài mới". (Điều thú vị là, giải Nhà Sản Xuất Album Biểu Diễn Xuất Sắc Nhất mà nó đoạt được cùng kỳ, người được giải là Trần Thăng, <a href="/people/李宗盛" target="_blank" rel="noopener">Lý Tông Thịnh</a> và những người khác, không phải Lâm Cường.)
+Thái Y Lâm (Jolin Tsai) thì nắm giữ một thành tựu được cả Kỷ lục Guinness công nhận: Người giành giải Bài hát của năm nhiều nhất. _Hôm nay em muốn gả cho anh_, _Đại Nghệ Thuật Gia_, _Hoa Hồng Thiếu Nữ_, ba lần giành lấy giải thưởng cao quý nhất này, và Kỷ lục Guinness đã công nhận cô là "Người giành giải Bài hát của năm Kim Khúc nhiều nhất". Từ nhạc nhảy thiếu nữ đến những tác phẩm lên tiếng cho vấn đề giới tính như _Hoa Hồng Thiếu Nữ_, Kim Khúc đã đồng hành cùng sự trưởng thành của cô.
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/gD14iiXq7Xw" title="Lâm Cường — &#039;Đi Về Phía Trước&#039;" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/-wIHmPAvMBo" title="蔡依林〈怪美的〉" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Lâm Cường — "Đi Về Phía Trước", kỳ 3 năm 1991 Ca Khúc Xuất Sắc Nhất Giải Âm nhạc Vàng. Một bài rock hát bằng tiếng Đài, lật ngược ấn tượng chỉ có khổ sâu của ca khúc tiếng Đài, bán vượt bốn mươi vạn bản._
+_Thái Y Lâm 〈Quái Mỹ Đích〉. Cô giữ kỷ lục Guinness về "Người giành giải Bài hát của năm nhiều nhất" — ba lần, với các ca khúc 〈Hôm nay em muốn gả cho anh〉, 〈Đại Nghệ Thuật Gia〉 và 〈Hoa Hồng Thiếu Nữ〉._
 
-Giải Âm nhạc Vàng ban đầu thực ra không phân loại theo tiếng nói, hai kỳ đầu chỉ có "Ca Sĩ Nam Biểu Diễn Xuất Sắc Nhất" "Ca Sĩ Nữ Biểu Diễn Xuất Sắc Nhất". Năm 1991 kỳ thứ 3 mới phân ra "Quốc Ngữ" và "Phương Ngôn"; tới năm 2003 kỳ thứ 14, lại chia phương ngôn thêm thành tiếng Đài, tiếng Khách Gia, ngôn ngữ bản địa mỗi loại một giải riêng. Tại sao lại chia tiếp? Bởi vì vài năm trước người chiến thắng "Ca Sĩ Phương Ngôn Xuất Sắc Nhất" toàn bộ là ca sĩ tiếng Đài, những người tạo ra tiếng Khách Gia và ngôn ngữ bản địa lâu nay bị ép ra khỏi cửa. Năm đó quy mô đăng ký lên tới một trăm hai mươi tám công ty đĩa than, bốn nghìn tám trăm bài tác phẩm, trong đó có hàng trăm bài đến từ album gia đình Khách Gia hay bản địa: Giải Âm nhạc Vàng cơ bản là mở riêng một cửa cho mỗi loại.
+Cũng có những người chọn dừng lại ở đỉnh cao. <a href="/people/江蕙" target="_blank" rel="noopener">Giang Hối</a> (Jiang Hui) là một huyền thoại trong số các ca hậu nhạc tiếng Đài, cả đời giành 13 giải Kim Khúc, giải Nữ ca sĩ nhạc tiếng Đài xuất sắc nhất thắng liên tiếp từ kỳ thứ 11 đến kỳ thứ 14. Nhưng sau khi đăng quang lần nữa với album 《Hồng Tuyến》 vào năm 2003, cô đã đưa ra một quyết định bất ngờ: tuyên bố không tranh giải Nữ ca sĩ xuất sắc nhất nữa. Nhường lại sân khấu cho hậu bối: phong thái này cũng xúc động không kém gì lúc đứng trên bục nhận giải.
 
-Mở cửa một lần, lại mở ra những khoảnh khắc đẫm xúc động nhất của nhạc phổ thông Hoa ngữ.
+Câu chuyện về các thiên vương thiên hậu có thể kể mãi không hết: <a href="/music/五月天" target="_blank" rel="noopener">Ngũ Nguyệt Thiên</a> (Mayday) từ nhạc underground tiến ra sân vận động, mỗi lần chuyển mình của <a href="/people/蔡依林" target="_blank" rel="noopener">Thái Y Lâm</a>, hay kỷ lục đề cử kéo dài hơn 20 năm của <a href="/people/張惠妹" target="_blank" rel="noopener">Trương Huệ Muội</a>. Danh sách những người đoạt giải mà Kim Khúc để lại cho làng nhạc Hoa ngữ sau này đã trở thành tọa độ thanh xuân của cả một thế hệ.
 
-Năm 2000 kỳ thứ 11, một ông cảnh sát từ Đài Đông dân tộc Bình Nam đã lên sân khấu cao nhất. <a href="/people/陳建年" target="_blank" rel="noopener">Trần Kiến Năm</a> với album _Biển_ giành Ca Sĩ Nam Quốc Ngữ Biểu Diễn Xuất Sắc Nhất: chú ý, là "Quốc Ngữ" ca sĩ nam, không phải ngôn ngữ bản địa — anh đánh bại là Trương Học Hữu, Vương Lực Hoành, Đào Sướng, Cho Thành Khánh, bốn ông vua lúc đó nhất. Một ông cảnh sát ban ngày làm việc ở địa phương công an, hát bằng tiếng mình viết, về biển và núi, thắng cả ngành công nghiệp nhạc phổ thông Hoa ngữ những cái tên nóng hổi. Ngoại của anh là danh sĩ ca khúc dân tộc Bình Nam Lục Tôn Bảo, dòng máu âm nhạc đó, cháu lấy ba mươi năm để tiếp nhận.
+## Bốn ngôn ngữ, bốn sân khấu
+
+Nếu chỉ nhớ về các thiên vương thiên hậu, bạn sẽ bỏ lỡ điều đặc biệt nhất của Kim Khúc: Nó cho phép bốn ngôn ngữ đều có vinh quang cao quý nhất của riêng mình. Đây gần như là một thiết kế độc nhất vô nhị trong số các giải thưởng âm nhạc trên thế giới.
+
+Câu chuyện bắt đầu từ một bản Rock tiếng Đài. Năm 1991, tại kỳ thứ 3, ca khúc _Hướng Tiền Bước_ (向前走) của <a href="/people/林強" target="_blank" rel="noopener">Lâm Cường</a> (Lin Chiang) đã giành giải Bài hát của năm. Trước đó, nhạc tiếng Đài thường mang ấn tượng bi lụy, buồn bã; nhưng _Hướng Tiền Bước_ dùng nhịp điệu Rock để kể về một thanh niên nông thôn xách vali lên hướng Bắc lập nghiệp, đã đảo ngược hoàn toàn khí chất của nhạc tiếng Đài, album bán được hơn 400.000 bản và được coi là tác phẩm đại diện cho "Phong trào Nhạc tiếng Đài mới" [^8]. (Điều thú vị là năm đó giải Nhà sản xuất Album trình diễn xuất sắc nhất lại thuộc về Trần Thăng (Chen Sheng), <a href="/people/李宗盛" target="_blank" rel="noopener">Lý Tông Thịnh</a> (Lee宗盛) và những người khác, chứ không phải bản thân Lâm Cường.)
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/zDjRtY0xqr0" title="Trần Kiến Năm — &#039;Biển&#039;" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/gD14iiXq7Xw" title="林強〈向前走〉" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Trần Kiến Năm — "Biển". Năm 2000 kỳ 11, ông cảnh sát Bình Nam từ Đài Đông này với \_Biển_ đã đánh bại Trương Học Hữu, Vương Lực Hoành, Đào Sướng, Cho Thành Khánh, chiến thắng Ca Sĩ Nam Quốc Ngữ Biểu Diễn Xuất Sắc Nhất.\_
+_Lâm Cường 〈Hướng Tiền Bước〉, Bài hát của năm tại kỳ Kim Khúc thứ 3 năm 1991. Một ca khúc tiếng Đài hát theo phong cách Rock đã đảo ngược ấn tượng nhạc tiếng Đài chỉ có sự bi lụy, bán được hơn 400.000 bản._
 
-Nếu Trần Kiến Năm chứng minh người tạo tác bản địa có thể thắng vua, thì năm 2020 kỳ thứ 31 <a href="/people/阿爆" target="_blank" rel="noopener">A Bốc</a> (A Nhưỡng Nhưỡng), lại chứng minh một album toàn bộ hát bằng tiếng bản địa, có thể lấy được giải cao nhất của toàn hội. Album của cô _kinakaian Lưỡi Mẹ_ — một album toàn bộ tiếng Paiwan — đêm đó liên tiếp đốt ba giải: Album Ngôn Ngữ Bản Địa Xuất Sắc Nhất, "Cảm Ơn Cảm Tạ" lấy Ca Khúc Xuất Sắc Nhất Năm, cuối cùng Album Xuất Sắc Nhất Năm cũng đi tới nó. Một album bạn có thể không hiểu một chữ dòng ca từ, được ban giám khảo chọn là album tốt nhất của Đài Loan năm đó.
+Ban đầu Kim Khúc không phân chia ngôn ngữ, hai kỳ đầu chỉ có "Nam ca sĩ xuất sắc nhất" và "Nữ ca sĩ xuất sắc nhất". Đến kỳ thứ 3 năm 1991 mới tách ra "tiếng Quan thoại" và "phương ngôn"; đến kỳ thứ 14 năm 2003, lại chia nhỏ phương ngôn thành các giải riêng cho tiếng Đài, tiếng Khách và ngôn ngữ bản địa [^18]. Tại sao phải chia nhỏ như vậy? Bởi vì những năm trước đó, người thắng giải "Ca sĩ phương ngôn xuất sắc nhất" hầu hết đều là ca sĩ tiếng Đài, khiến các nghệ sĩ sáng tác tiếng Khách và ngôn ngữ bản địa bị gạt ra ngoài lề trong thời gian dài. Quy mô đăng ký năm đó đã vọt lên 128 công ty thu âm với hơn 4.800 tác phẩm, trong đó có hàng trăm album tiếng Khách hoặc ngôn ngữ bản địa: Kim Khúc quyết định mở ra những cánh cửa riêng cho họ.
 
-A Bốc lên sân khấu nhận album xuất sắc nhất của năm nói một câu rất Giải Âm nhạc Vàng: "Nếu bạn không biết tại sao album này lại trở thành album xuất sắc nhất của năm, vui lòng nghe một lần, nếu không thích thì nghe lần thứ hai!" Cô còn nói cái gì với đứa trẻ bản địa trước mắt camera: "Đừng lãng phí tài năng của bạn, cũng đừng lệ thuộc vào tài năng."
+Và khi cánh cửa ấy mở ra, nó cũng mở ra những khoảnh khắc cảm động nhất của làng nhạc Hoa ngữ.
+
+Năm 2000, tại kỳ thứ 11, một cảnh sát người dân tộc Binin ở Đài Đông đã bước lên sân khấu cao nhất. <a href="/people/陳建年" target="_blank" rel="noopener">Trần Kiến Niên</a> (Chen Chien-nien) với album _Đại Dương_ (_Ocean_) đã giành giải Nam ca sĩ nhạc Quan thoại xuất sắc nhất: Lưu ý, là nam ca sĩ "nhạc Quan thoại", không phải ngôn ngữ bản địa — anh đã đánh bại những thiên vương đang ở thời kỳ đỉnh cao cùng năm là Trương Học Hữu (Jacky Cheung), Vương Lực Hoành (Leon Lai), Đào Triết (David Tao) và Dữu Trừng Khánh (庾澄慶). Một người cảnh sát ban ngày làm việc tại đồn, hát những ca khúc do chính mình viết về biển và núi, đã chiến thắng những ngôi sao đang lên của cả nền công nghiệp Pop Hoa ngữ. Ông ngoại anh là bậc thầy dân ca Binin Lục Sâm Bảo (Lu Sen-pao), dòng máu âm nhạc đó đã được người cháu tiếp nối suốt 30 năm [^9].
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/4cAp_IdqOuM" title="A Bốc — &#039;Cảm Ơn Cảm Tạ&#039;" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/zDjRtY0xqr0" title="陳建年〈海洋〉" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_A Bốc — "Cảm Ơn Cảm Tạ", kỳ 31 năm 2020 Ca Khúc Xuất Sắc Nhất Năm. Album toàn tiếng Paiwan \_kinakaian Lưỡi Mẹ_ đêm đó chiến thắng ba giải lớn: Album Ngôn Ngữ Bản Địa Xuất Sắc Nhất, Ca Khúc Xuất Sắc Nhất Năm, Album Xuất Sắc Nhất Năm.\_
+_Trần Kiến Niên 〈Đại Dương〉. Năm 2000 tại kỳ thứ 11, người cảnh sát dân tộc Binin ở Đài Đông này đã đánh bại Trương Học Hữu, Vương Lực Hoành, Đào Triết, Dữu Trừng Khánh để giành giải Nam ca sĩ nhạc Quan thoại xuất sắc nhất với album 《Đại Dương》._
 
-> 💡 **Bạn biết không**: Toàn thế giới hầu như không có giải thưởng âm nhạc thứ hai, sẽ để cho bốn tiếng nói khác nhau nằm trong lãnh thổ của nó, mỗi tiếng nội có một bức vương miện cao nhất. Bạn có thể dùng tiếng Đài, tiếng Khách Gia, ngôn ngữ bản địa, làm ra một album tốt nhất trong tiếng nói của mình, rồi ở cùng một lễ trao giải bị đội vương miện. Với những người sử dụng tiếng Khách Gia và ngôn ngữ bản địa mà số lượng ngày càng ít đi, sân khấu Giải Âm nhạc Vàng ngoài vinh dự, còn cho những tiếng nói này một lý do để toàn quốc lắng nghe, để thế hệ mới sẵn lòng học xuống.
+Nếu nói Trần Kiến Niên chứng minh rằng các nghệ sĩ bản địa có thể thắng được các thiên vương, thì <a href="/people/阿爆" target="_blank" rel="noopener">A Bao</a> (A-po, tên thật là A-jung-jung) tại kỳ thứ 31 năm 2020 đã chứng minh rằng một album hát hoàn toàn bằng ngôn ngữ dân tộc có thể giành được giải thưởng cao nhất. Album _kinakaian: Lưỡi của mẹ_ — một album hoàn toàn bằng tiếng Paiwan — đêm đó đã ôm trọn ba giải: Album ngôn ngữ bản địa xuất sắc nhất, bài _Thank You 感謝_ giành Bài hát của năm, và cuối cùng là cả giải Album của năm [^10]. Một album mà có thể bạn chẳng hiểu nổi một lời ca nào, lại được giám khảo chọn làm album hay nhất Đài Loan trong năm đó.
 
-Đây là những điểm khiến Giải Âm nhạc Vàng đáng tự hào. Nó không bao giờ giả vờ Đài Loan chỉ có một tiếng nói duy nhất. Quốc Ngữ, tiếng Đài, tiếng Khách Gia, ngôn ngữ bản địa, bốn tiếng nói, bốn sân khấu, vào cùng một đêm lần lượt được thắp sáng.
-
-## Ngay cả những người chỉ trích nó, cũng lên sân khấu của nó
-
-Một giải thưởng đủ lớn, phải chứa được những người chỉ trích nó. Điểm quyến rũ nhất của Giải Âm nhạc Vàng, là nó vài lần đã đưa microphone cho những người chỉ trích sắc nhất — và những khoảnh khắc đó, lại là những hình ảnh được nhớ nhất.
-
-Năm 2007 kỳ thứ 18, Lâm Sinh Tường xuất thân từ <a href="/music/交工樂隊" target="_blank" rel="noopener">Ban Nhạc Giao Công</a>, với album _Trồng Cây_ vào danh sách và chiến thắng Ca Sĩ Khách Gia Xuất Sắc Nhất, Album Khách Gia Xuất Sắc Nhất hai hạng giải thưởng. Rồi anh làm một việc chưa ai làm trong mười tám năm lịch sử Giải Âm nhạc Vàng: từ chối nhận giải tại chỗ.
-
-Anh lên sân khấu chỉ mất ba mươi giây, nhưng ba mươi giây đó đã được lên kế hoạch trong hai năm. Anh nói, hai hạng giải thưởng này là cái anh "nhất quyết không muốn nhận". Anh muốn chỉ trích chính cơ chế nó, không phải bất kỳ ai: anh cảm thấy dùng tiếng nói để phân loại âm nhạc là đảo ngược thứ tự "tại sao Nhà Sản Xuất Xuất Sắc Nhất có thể vượt qua tiếng nói, nhưng album không được". Anh còn nói, "một giải thưởng âm nhạc của nhân loại Hoa này lại rất quan trọng, nhưng lại phân loại theo tiếng nói, cách này những quốc gia khác cơ bản không thể bước vào được." Hai hạng giải thưởng đó anh nhân địa từ chối, hai mươi lăm vạn tiền thưởng lại ngoài, được chia để hỗ trợ đội ngũ trồng cây ở Mỹ Nông, hai tờ tạp chí địa phương, và "Bom Cơm Trắng" Dương Nho Môn.
+Khi lên nhận giải Album của năm, A Bao đã nói một câu rất "Kim Khúc": "Nếu không biết tại sao album này lại trở thành Album của năm, xin hãy nghe thử một lần, nếu không thích, hãy nghe lần thứ hai!" Cô còn nói với những trẻ em bản địa đang xem qua ống kính: "Đừng lãng phí thiên phú của các em, nhưng cũng đừng chỉ dựa dẫm vào nó."
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/E4BWUug3eRw" title="Lâm Sinh Tường — &#039;Trồng Cây&#039;" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/4cAp_IdqOuM" title="阿爆〈Thank You 感謝〉" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Lâm Sinh Tường — "Trồng Cây". Năm 2007 kỳ 18, với \_Trồng Cây_ anh chiến thắng hai hạng giải Khách Gia nhưng lại từ chối nhận giải tại chỗ, cảm thấy phân loại theo tiếng nói làm âm nhạc đảo ngược. Đó là lần đầu tiên trong mười tám năm lịch sử Giải Âm nhạc Vàng có ai từ chối.\_
+_A Bao 〈Thank You 感謝〉, Bài hát của năm tại kỳ thứ 31 năm 2020. Album hoàn toàn bằng tiếng Paiwan 《kinakaian: Lưỡi của mẹ》 đêm đó đã ôm trọn ba giải lớn: Album ngôn ngữ bản địa, Bài hát của năm và Album của năm._
 
-Điều đáng chơi vị là, Giải Âm nhạc Vàng không vì bị chỉ trích tại chỗ mà bỏ đi cơ chế thiết kế này. Nó nghe được, tiếp tục thảo luận, nhưng phân loại theo tiếng nói lại được giữ lại. Một giải thưởng có thể, trên sân khấu riêng của nó, trấn tĩnh đón nhận "cách bạn làm giải thưởng này có vấn đề" tiếng nói, trong nó, đã là một thứ tự lực.
+> 💡 **Bạn có biết**: Gần như không có giải thưởng âm nhạc thứ hai trên thế giới nào lại thiết lập các vinh quang cao nhất riêng biệt cho bốn ngôn ngữ khác nhau trong lãnh thổ của mình. Bạn có thể dùng tiếng Đài, tiếng Khách hay ngôn ngữ bản địa để tạo ra một album hay nhất trong chính ngôn ngữ đó, rồi được vinh danh tại cùng một lễ trao giải. Đối với tiếng Khách và ngôn ngữ bản địa vốn có số người sử dụng ngày càng ít, sân khấu Kim Khúc ngoài vinh quang còn cho những thanh âm này một lý do để được cả nước lắng nghe và được thế hệ mới sẵn lòng học hỏi.
 
-Phân loại tiếng nói như thế nào, cho đến hôm nay vẫn là một cuộc thảo luận sống động. Học giả Quách Lực Tuyên đã chỉ trích trước đây, phân loại theo quốc ngữ, tiếng Đài, tiếng Khách Gia, ngôn ngữ bản địa "trông như bảo vệ từng tiếng nói, thực ra lại cố định tiếp tục biên ngoài hoá quần thể tiếng nói yếu",he cho rằng với ngược lại là lấy ra nguồn tài nguyên giáo dục quảng bá cụ thể, không phải vào Giải Âm nhạc Vàng để lập vài hạng giải "riêng" đặc biệt đẩy các ngôn ngữ nguyên khác vào chỗ lạnh lẽo.
+Đó chính là điều khiến Kim Khúc trở nên đáng tự hào. Nó không bao giờ giả vờ rằng Đài Loan chỉ có một loại thanh âm duy nhất. Tiếng Hoa, tiếng Đài, tiếng Khách, ngôn ngữ bản địa — bốn ngôn ngữ, bốn sân khấu, lần lượt được thắp sáng trong cùng một đêm.
 
-> ⚠️ **Quan điểm gây tranh cãi**: Phân loại theo tiếng nói cũng tạo ra một sự ngượng ngùng — các tác phẩm trộn lẫn nhiều tiếng nói, thường thì không có chỗ để đi. Năm 2022 kỳ 33, album _MEmento·MORI_ của Khả La Kỳ, một nửa tiếng Đài, một nửa tiếng Ama (và còn chứa rất nhiều tiếng Nhật), kết quả không tiếng nào cũng công bố vào được, vì nó không phù hợp với điều luật "chủ yếu hát bằng một tiếng nào", cuối cùng chỉ có thể đi tranh hạng giải năm không phân biệt theo tiếng nói. Một album hát bằng nhiều tiếng nói trên đất này, lại trở thành điều bất thường trong cơ chế phân loại. Bài toán khó này, Giải Âm nhạc Vàng vẫn còn suy nghĩ cách tìm.
+## Ngay cả những người chỉ trích nó cũng đứng trên sân khấu của nó
+
+Một giải thưởng đủ lớn phải chứa đựng được cả những người chỉ trích nó. Điểm hấp dẫn nhất của Kim Khúc là nhiều lần nó đã trao micro cho những người chỉ trích sắc bén nhất — và chính những khoảnh khắc đó lại trở thành những hình ảnh được ghi nhớ sâu đậm nhất.
+
+Năm 2007, tại kỳ thứ 18, Lâm Sinh Tường (Lin Sheng-hsiang) đến từ nhóm Giao Công Nhạc Đội (交工樂隊) đã được đề cử và giành hai giải: Ca sĩ nhạc tiếng Khách xuất sắc nhất và Album nhạc tiếng Khách xuất sắc nhất với album _Trồng Cây_ (_Planting Trees_). Sau đó, anh đã làm một việc mà chưa ai làm trong 18 năm lịch sử Kim Khúc: Từ chối nhận giải ngay tại chỗ.
+
+Anh chỉ đứng trên sân khấu 30 giây, nhưng 30 giây đó đã được chuẩn bị suốt hai năm[^11]. Anh nói rằng đây là hai giải mà anh "không muốn nhận nhất". Điều anh muốn chỉ trích là chính hệ thống, chứ không phải bất kỳ cá nhân nào: Anh cảm thấy việc dùng ngôn ngữ để phân loại âm nhạc là sự đảo lộn bản chất, "Tại sao Nhà sản xuất xuất sắc nhất có thể vượt qua rào cản ngôn ngữ, nhưng Album thì không?". Anh còn nói, "Một giải thưởng âm nhạc Hoa ngữ quan trọng như vậy mà lại phân loại theo ngôn ngữ, như thế các quốc gia khác sẽ không thể tham gia được." Anh đã khước từ hai giải thưởng đó, và số tiền thưởng 250.000 Đài tệ đã được anh đem đi quyên góp cho đội trồng cây ở Mỹ Ninh (Meinong), hai ấn phẩm địa phương và "kẻ đánh bom gạo trắng" Dương Nho Môn (Yang Ju-men) [^12].
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/kkUWlcjmOew" title="Khả La Kỳ — &#039;Vạn Nghìn Cánh Hoa Từ Câm Mẫu&#039;" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/E4BWUug3eRw" title="林生祥〈種樹〉" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Khả La Kỳ — "Vạn Nghìn Cánh Hoa Từ Câm Mẫu". Tiếng Đài, tiếng Ama (Amis), tiếng Nhật trộn lẫn lại, không thể bước vào lộ trình ngôn ngữ nào của Giải Âm nhạc Vàng, cuối cùng chỉ có thể với \_MEmento·MORI_ lấy Nghệ Sĩ Mới Xuất Sắc Nhất kỳ 33 năm 2022.\_
+_Lâm Sinh Tường 〈Trồng Cây〉. Năm 2007 tại kỳ thứ 18, anh giành hai giải tiếng Khách với 《Trồng Cây》 nhưng đã từ chối nhận ngay tại chỗ vì cho rằng việc phân loại âm nhạc theo ngôn ngữ là sai lầm. Đó là lần đầu tiên trong 18 năm Kim Khúc có người từ chối nhận giải._
 
-Những tranh cãi này, không phải khuyết điểm của Giải Âm nhạc Vàng, là bằng chứng nó vẫn còn sống. Một giải thưởng ba mươi lăm tuổi, vẫn còn tranh luận với chính nó "tiếng nói nên phân loại thế nào", "các tác phẩm trộn tiếng nây sao xử" — cái này đại diện nó chưa bị đông cứng, vẫn còn lớn cùng với âm nhạc Đài Loan.
+Điều đáng suy ngẫm là Kim Khúc không hề thay đổi thiết kế này chỉ vì bị chỉ trích công khai. Nó đã lắng nghe, tiếp tục thảo luận, nhưng việc phân loại ngôn ngữ vẫn được duy trì. Một giải thưởng có thể bình thản đón nhận tiếng nói "cách tổ chức của các bạn có vấn đề" ngay tại lễ trao giải của mình, bản thân điều đó đã là một sự tự tin.
 
-## Giải Âm Nhạc Vàng cũng ghi lại thời đại của Đài Loan
+Việc phân chia ngôn ngữ như thế nào vẫn là một cuộc thảo luận sống động cho đến tận ngày nay. Học giả Quách Lực Hân (Guo Li-xin) từng chỉ trích rằng việc phân loại theo bốn ngôn ngữ Quan thoại, Đài, Khách và Bản địa "nhìn thì có vẻ bảo vệ các ngôn ngữ, nhưng thực chất lại củng cố hệ thống văn hóa khiến các nhóm ngôn ngữ yếu thế tiếp tục bị gạt ra lề". Ông cho rằng thay vì thiết lập vài giải thưởng "đặc thù" trong Kim Khúc để đẩy tiếng Khách và bản địa vào thế yếu, thì nên đưa ra các nguồn lực quảng bá giáo dục thực chất hơn [^13].
 
-Giải Âm nhạc Vàng vì là sân khấu âm nhạc lớn nhất của Đài Loan, nên có những khoảnh khắc chiến thắng không chỉ liên quan đến âm nhạc, mà còn mang theo cảm xúc xã hội của thời điểm đó. Phần này, lưu lại sự kiện là được.
-
-Năm 2015 kỳ 26, <a href="/music/滅火器樂團" target="_blank" rel="noopener">Ban Nhạc Dập Lửa</a> bài "Đảo Thiêu Quang" chiến thắng Ca Khúc Xuất Sắc Nhất Năm. Bài hát này được sinh ra từ phong trào Hoa Mặt Trời năm 2014: chủ ca tế Dương Đại Chính nhận lời mời từ sinh viên Bắc Nghệ thuật Đại học sáng tác, mất hai ngày để viết, một ngày để ghi âm, ngày 27 tháng 3 lần đầu tiên dạy hát tại chỗ ở Viện Lập pháp. Lúc nhận giải Dương Đại Chính nói: "thành lập ban nhạc 15 năm, giải Âm nhạc Vàng đầu tiên! ⋯⋯ tặng cho Đài Loan yêu thích nhất của chúng tôi." và hô một câu "Trời phước lành Đài Loan". Đoạn quay chiến thắng này, trong phiên bản phát sóng Tencent Trung Quốc đã bị bỏ qua.
+> ⚠️ **Quan điểm tranh luận:** Việc phân loại ngôn ngữ cũng tạo ra một sự khó xử — những tác phẩm pha trộn nhiều ngôn ngữ thường không có nơi để đi. Năm 2022, tại kỳ thứ 33, album _MEmento·MORI_ của nhóm Colas (珂拉琪) có một nửa là tiếng Đài, một nửa là tiếng Amis (trong đó còn xen lẫn nhiều tiếng Nhật), kết quả là không thể đăng ký vào bất kỳ hạng mục ngôn ngữ nào vì không phù hợp quy định "chủ yếu hát bằng một ngôn ngữ nhất định", cuối cùng chỉ có thể tranh giải ở các hạng mục năm không phân biệt ngôn ngữ. Một tác phẩm hát lên những ngôn ngữ của vùng đất này lại trở thành một "biến số" trong hệ thống phân loại. Bài toán khó này, Kim Khúc vẫn đang tìm cách giải quyết.
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/-w24iJG28qI" title="Ban Nhạc Dập Lửa — &#039;Đảo Thiêu Quang&#039;" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/kkUWlcjmOew" title="珂拉琪〈萬千花蕊慈母悲哀〉" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Ban Nhạc Dập Lửa — "Đảo Thiêu Quang", kỳ 26 năm 2015 Ca Khúc Xuất Sắc Nhất Năm. Bài hát được sinh ra trong phong trào Hoa Mặt Trời, đoạn quay chiến thắng bị bỏ qua trong phiên bản Tencent Trung Quốc._
+_Colas 〈Vạn Thiên Hoa Nhụy Từ Mẫu Bi Ai〉. Tiếng Đài, tiếng Amis và tiếng Nhật trộn lẫn vào nhau, không thể đi theo bất kỳ quỹ đạo ngôn ngữ nào của Kim Khúc, cuối cùng với 《MEmento·MORI》 đã giành giải Tân binh xuất sắc nhất tại kỳ thứ 33 năm 2022._
 
-Năm 2024 kỳ 35, Bà Nài với album tiếng Đài _Đêm Bà_ chiến thắng hạng Album Tiếng Đài Xuất Sắc Nhất. Cô mặc "Không ai là người ngoài cuộc" chiếc lụa vàng lên sân khấu, trong bài phát biểu có một đoạn như vậy: "Giải Âm nhạc Vàng 35 năm, bạn có biết không? Sự kiện Thiên An Môn cũng đúng 35 năm, chúng tôi đều không quên, Đài Loan cố lên." Cô cũng nói, "đảo Đài Loan là mẹ của chúng tôi", và đề cập tới chính mình vừa kết thúc bảy năm ở Nước Đại Lộ, để cầu xin cho lãnh thổ truyền thống của dân tộc bản địa. Bài phát biểu tương tự "Giải Âm nhạc Vàng 35 năm" cắt ghép "Thiên An Môn 35 năm" của cô ấy, những ghi chép trên Weibo, Tiểu Hồng Thư được xóa sau. Cũng là kỳ này, những ca sĩ Trung Quốc được đề cử trên sân khấu lễ trao giải toàn bộ vắng mặt.
+Những tranh luận này không phải là khiếm khuyết của Kim Khúc, mà là minh chứng cho thấy nó vẫn đang sống. Một giải thưởng 35 tuổi vẫn đang tự tranh luận với chính mình về việc "ngôn ngữ rốt cuộc nên phân chia thế nào" hay "tác phẩm đa ngôn ngữ thì phải làm sao" — điều đó có nghĩa là nó không hề xơ cứng, mà vẫn đang cùng lớn lên với âm nhạc Đài Loan.
+
+## Kim Khúc cũng ghi lại thời đại của Đài Loan
+
+Vì Kim Khúc là sân khấu âm nhạc lớn nhất Đài Loan, nên có những khoảnh khắc đoạt giải không chỉ nói về âm nhạc, mà còn mang theo cả tâm trạng xã hội lúc bấy giờ. Phần này, chúng ta chỉ cần ghi chép lại sự việc.
+
+Năm 2015, tại kỳ thứ 26, ca khúc _Đảo Thứ Thiên Quang_ (Đảo Ánh Sáng) của <a href="/music/滅火器樂團" target="_blank" rel="noopener">Fire EX.</a> (滅火器樂團) đã giành giải Bài hát của năm. Ca khúc này ra đời từ phong trào Hướng Dương năm 2014: Ca sĩ chính Dương Đại Chính (Yang Ta-cheng) được sinh viên Đại học Nghệ thuật Bắc (Taipei National University of the Arts) mời sáng tác, mất hai ngày viết nhạc và một ngày thu âm, rồi lần đầu tiên dạy hát trực tiếp tại Nghị viện vào ngày 27 tháng 3. Khi nhận giải, Dương Đại Chính nói: "Thành lập 15 năm, giải Kim Khúc đầu tiên! ... Xin dành sự cống hiến này cho Đài Loan mà chúng tôi yêu nhất." Và anh đã hô vang một câu "Thiên hữu Đài Loan" (Trời phù hộ Đài Loan) [^15]. Đoạn hình ảnh nhận giải này đã bị cắt bỏ trong phiên bản phát sóng của Tencent tại Trung Quốc.
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/lCFh_8ZrCOo" title="Bà Nài — &#039;Đêm Bà&#039;" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/-w24iJG28qI" title="滅火器〈島嶼天光〉" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Bà Nài — "Đêm Bà", kỳ 35 năm 2024 Album Tiếng Đài Xuất Sắc Nhất. Cô trong bài phát biểu cắt ghép "Giải Âm nhạc Vàng 35 năm" và "Thiên An Môn 35 năm", đoạn này sau được xóa trên Weibo và Tiểu Hồng Thư._
+_Fire EX. 〈Đảo Thứ Thiên Quang〉, Bài hát của năm tại kỳ thứ 26 năm 2015. Ca khúc ra đời trong phong trào Hướng Dương này đã bị cắt bỏ trong phiên bản phát sóng của Tencent tại Trung Quốc._
 
-Giải Âm nhạc Vàng cũng từng là sân khấu chung của ca sĩ Hoa ngữ hai bờ. Nà Anh năm 2001 kỳ 12 với _Lãng Mạn Bước Chân Đau Buồn_ trở thành ca sĩ nữ Trung Quốc đầu tiên nhận Giải Âm nhạc Vàng ca sĩ nữ, kỳ đó còn nhận Nhạc Sĩ Từ Lời Xuất Sắc Nhất; Suy Kiến thì năm 2022 kỳ 33 là ca sĩ nam Trung Quốc đầu tiên nhận vương miện Giải Âm nhạc Vàng vua nhạc. Nhưng ở giữa hai mươi mốt năm ấy, chỉ có hai người Trung Quốc chiến thắng Vua Hoàng Hậu Giải Âm nhạc Vàng — Giải Âm nhạc Vàng cùng thị trường Trung Quốc thực sự chồng chéo thời kỳ vàng, thực sự là giai đoạn hai ngàn năm số không thế kỷ khi âm nhạc Đài Loan lớn mạnh dẫn đầu thị trường Hoa ngữ bản đĩa than Trung Quốc, không phải ca sĩ Trung Quốc chiến thắng giải Âm nhạc Vàng nhiều.
-
-Những khoảnh khắc này là được đặt ở đây, không bình luận nhiều. Giải Âm nhạc Vàng là sân khấu Đài Loan, những năm này Đài Loan trải qua cái gì, quan tâm cái gì, và ai gần gũi lại kéo giãn cách thế nào, tự nhiên sẽ để lại dấu vết trên sân khấu này. Bạn đọc nó cho tới đây, giờ bạn lẽ ra tự tưởng tượng được ảnh mà rồi.
-
-## Con rắn hổ mang cái mở đầu, và hai người đã chờ đợi rất lâu
-
-Ba mươi mấy năm nghe có vẻ như là từ xưa xưa, nhưng Giải Âm nhạc Vàng luôn lớn trong quá trình hiện tại. Tới tháng trước, ngày 27 tháng 6 năm 2026, Giải Âm nhạc Vàng lần thứ 37 kết thúc ở Nhà thi đấu Tiểu Cự Nhôm Đài Bắc.
-
-Đêm đó do A-Lin dẫn chương trình lần đầu tiên. Cô ấy mở đầu cái chân trên đầu một con trăn khổng lồ lên sân khấu, tôn vinh sân khấu kinh điển của <a href="/people/蔡依林" target="_blank" rel="noopener">Thái Y Lâm</a>, khí thế sợ nhất; và cô ấy cũng là người chiến thắng, bài nhạc phim chủ đề "Hạnh Phúc Trong Ca Hát" nhận Ca Khúc Xuất Sắc Nhất Năm.
-
-Đêm đó hai người chiến thắng lớn nhất, mỗi người đều là những người đã chờ đợi rất lâu. Thái Y Lâm lần này với album _Niềm Vui_ lần thứ năm tranh thủ ca sĩ nữ vương, cuối cùng như ý muốn, mười chín năm sau lần thứ hai đội vương miện, một mình kéo Ra Album Xuất Sắc Nhất Năm, Nữ Ca Sĩ Quốc Ngữ Xuất Sắc Nhất, Biểu Diễn Ghi Âm Xuất Sắc Nhất ba hạng giải, chín hạng được đề cử. Phía vua nhạc là chuyện chờ đợi khác: Trương Chấn Tuyệt phát hành ba mươi ba năm, lần đầu tiên nhận Đàn Ông Quốc Ngữ Ca Sĩ Xuất Sắc Nhất, cùng chỗ còn kéo ra Album Quốc Ngữ Xuất Sắc Nhất và Nhạc Sĩ Xuất Sắc Nhất. Người chờ mười chín năm, người chờ ba mươi ba năm, Giải Âm nhạc Vàng không bao giờ vội vàng để cho giải tới với những người nhanh nhất.
-
-Sân khấu bốn tiếng nói đêm đó cũng sáng: Vua nhạc tiếng Đài là <a href="/people/蕭煌奇" target="_blank" rel="noopener">Tiêu Hoàng Kỳ</a>, hoàng hậu tiếng Đài là PiA Ngô Bích Ngoại, ca sĩ tiếng Khách Gia là Trần Dĩ Nạp, ca sĩ ngôn ngữ bản địa là Suming <a href="/music/當代原住民創作歌手" target="_blank" rel="noopener">Thư Mi Ân</a>. Ban nhạc xuất sắc nhất trao cho <a href="/music/落日飛車" target="_blank" rel="noopener">Lạc Nhật Phi Xe</a> của Đài Bắc, lại một đoàn ban nhạc từ cảnh độc lập, tránh xa công nghiệp chủ lưu lên sân khấu cao nhất. Còn cái "điện thoại bị thu giữ", chỉ có thể tức thời bài phát biểu, người Nghệ Sĩ Mới Xuất Sắc Nhất, chính là <a href="/music/陳嫺靜" target="_blank" rel="noopener">Trần Nhàn Tĩnh</a> chúng tôi thấy ở phần ban giám khảo.
+Năm 2024, tại kỳ thứ 35, Ba Nại (Panai) với album tiếng Đài 《Dạ Bà》 (_Night Lady_) đã giành giải Album tiếng Đài xuất sắc nhất. Cô bước lên sân khấu với dải băng vàng có dòng chữ "Không ai là người ngoài cuộc", và trong bài phát biểu có đoạn: "Kim Khúc 35 năm, các bạn biết không? Sự kiện Thiên An Môn cũng vừa vặn tròn 35 năm, chúng ta đều đừng quên, Đài Loan cố lên." Cô cũng nói, "Hòn đảo Đài Loan này chính là mẹ của chúng ta", và nhắc đến việc mình vừa kết thúc 7 năm biểu tình tại đường Kaohsiung để bảo vệ lãnh thổ truyền thống của người bản địa. Bài phát biểu đặt "35 năm Kim Khúc" cạnh "35 năm Thiên An Môn" này sau đó đã bị xóa trên Weibo và Xiaohongshu [^14]. Cũng trong kỳ này, các ca sĩ Trung Quốc có tên trong danh sách đề cử đã đồng loạt vắng mặt tại lễ trao giải [^16].
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-  <iframe src="https://www.youtube.com/embed/aKbdJYjZ6EQ" title="Lễ khai mạc Giải Âm nhạc Vàng lần 37" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/lCFh_8ZrCOo" title="巴奈〈夜婆〉" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Lễ khai mạc Giải Âm nhạc Vàng lần 37 (năm 2026). A-Lin dẫn chương trình lần đầu, mặc chuỗi trăn khổng lồ, lên sân khấu Tiểu Cự Nhôm; bài "Hạnh Phúc Trong Ca Hát" cô ấy hát cũng chiến thắng Ca Khúc Xuất Sắc Nhất Năm._
+_Ba Nại 〈Dạ Bà〉, Album tiếng Đài xuất sắc nhất tại kỳ thứ 35 năm 2024. Cô đã đặt "35 năm Kim Khúc" cạnh "35 năm Thiên An Môn" trong bài phát biểu, đoạn này sau đó bị xóa trên Weibo và Xiaohongshu._
 
-Ba mươi bảy năm rồi, giải thưởng bắt đầu từ một bức thư, vẫn còn rồi rộn và buồn cười, lại có khả năng để cho mọi người nhớ một đêm dài.
+Kim Khúc cũng từng là sân khấu chung của các ca sĩ Hoa ngữ hai bờ. Na Anh (Na Ying) vào năm 2001 tại kỳ thứ 12 đã trở thành ca sĩ Trung Quốc đầu tiên giành giải Ca hậu Kim Khúc với album 《Tâm Toan Đích Lãng Mạn》, đồng thời cũng giành giải Lời bài hát xuất sắc nhất cùng năm; Trình Kiện (Chiu Chien) vào năm 2022 tại kỳ thứ 33 đã trở thành ca sĩ quốc tịch Trung Quốc đầu tiên giành giải Ca vương Kim Khúc. Tuy nhiên trong suốt 21 năm qua, chỉ có hai người này là ca vương và ca hậu mang quốc tịch Trung Quốc — thời kỳ hoàng kim thực sự mà Kim Khúc giao thoa với thị trường Trung Quốc chính là những năm 2000 khi âm nhạc Đài Loan chiếm lĩnh doanh số đĩa nhạc Hoa ngữ tại Trung Quốc, chứ không phải việc các ca sĩ Trung Quốc đoạt giải hàng loạt tại Kim Khúc.
 
-## Ba mươi vài năm, hòn đảo này nghe thế nào
+Những khoảnh khắc này được đặt ở đây mà không đưa ra phán xét. Kim Khúc là sân khấu của Đài Loan, những gì Đài Loan đã trải qua, những gì Đài Loan quan tâm, những người Đài Loan xích lại gần hay rời xa, tự nhiên cũng sẽ để lại dấu vết trên sân khấu này. Đọc đến đây, có lẽ trong lòng bạn đã tự có hình ảnh rồi.
 
-Quay lại khoảnh khắc im lặng ấy.
+## Màn khai mạc trên lưng trăn và hai con người chờ đợi rất lâu
 
-Năm 2024, nhà thi đấu nhỏ bên cạnh, khu vực cỏ mới một lần đứng về đầu, người đại diện nói: "Cảm ơn Fanfan." Fanfan đã rời đi, nhưng nhịp trống cô ấy đã chơi vẫn còn lại trong 《Châu Như》 — mỗi khi ai đó nhấn nút phát, nhịp trống ấy lại vang lên một lần. Một nghệ sĩ đã rời đi, nhờ Giải Âm nhạc Vàng mà cả một ngành công nghiệp không quên; một album cách đây ba năm, nhờ nó mà cả thế hệ trẻ lại nghe lại từ đầu.
+Hơn ba mươi năm nghe có vẻ như chuyện của rất lâu về trước, nhưng Kim Khúc luôn lớn lên trong dòng chảy của hiện tại. Ngay tháng trước, ngày 27 tháng 6 năm 2026, kỳ Kim Khúc thứ 37 đã khép lại tại Nhà thi đấu Tiểu Cự Đàm ở Đài Bắc.
 
-Đó chính là điều Giải Âm nhạc Vàng đang làm: từ năm 1990, khi kỳ thi đầu tiên còn đơn sơ, cho đến hôm nay — kỳ thứ 37 — nó mỗi năm một lần trả lời cho Đài Loan câu hỏi sau: Trong năm này, trên hòn đảo này có những âm thanh nào đáng để ghi nhớ?
+Đêm đó, A-Lin lần đầu tiên đảm nhận vai trò người dẫn chương trình. Màn khai mạc cô bước lên sân khấu bằng cách giẫm lên một chiếc đầu trăn khổng lồ để tri ân sân khấu kinh điển của <a href="/people/蔡依林" target="_blank" rel="noopener">Thái Y Lâm</a>, khí thế vô cùng mạnh mẽ; bản thân cô cũng là người đoạt giải, ca khúc chủ đề phim 〈Hạnh Phúc Đang Ca Hát〉 mà cô trình diễn đã giành giải Bài hát của năm.
 
-Những gì nó ghi nhớ, có cả đêm thi thắng trọng thức của Châu Nguyên Vân, có sự kiên trì của Trần Hồi Nhật đề cử tới mười bốn lần, cũng có tiếng hát của một đồng chí cảnh sát ở Tây Nam, một album hoàn toàn bằng tiếng Trường Sa, một ca sĩ tiếng Kinh bài khỏi nhận giải, và một bài hát sinh ra trên phố. Những tiếng hát bằng tiếng Quốc Ngữ, tiếng Đài Loan, tiếng Kinh, tiếng bản địa, từ những bản hit bán hàng triệu cho đến những gì không hiểu gì cả, từ những ngôi sao đương thời cho đến những người viết bài âm thầm — nó để tất cả chúng ở trên cùng một sân khấu.
+Hai người chiến thắng lớn nhất đêm đó đều là những người đã chờ đợi rất lâu. Thái Y Lâm lần này với album 《Pleasure》 đã tranh giải Ca hậu lần thứ năm, và cuối cùng cũng toại nguyện, sau 19 năm lại một lần nữa đăng quang ca hậu, một mình ôm trọn ba giải: Album của năm, Nữ ca sĩ Hoa ngữ xuất sắc nhất và Thu âm trình diễn xuất sắc nhất, với tổng cộng 9 đề cử. Phía Ca vương là một sự chờ đợi khác: Trương Chấn Ngạc (Chang Chen-yue) sau 33 năm ra mắt đã lần đầu tiên giành giải Nam ca sĩ Hoa ngữ xuất sắc nhất, đồng thời cũng ôm về giải Album Hoa ngữ xuất sắc nhất và Nhà soạn nhạc xuất sắc nhất. Một người chờ 19 năm, một người chờ 33 năm, Kim Khúc chưa bao giờ vội vàng trao giải cho những người nhanh nhất.
 
-Ba mươi vài năm rồi, Giải Âm nhạc Vàng thực ra không phải đang tổ chức lễ vinh dự. Nó đang thay mặt Đài Loan, từng năm một lần, ghi lại cách mà hòn đảo này lắng nghe chính mình.
+Sân khấu của bốn ngôn ngữ đêm đó cũng đều tỏa sáng: Ca vương nhạc tiếng Đài là <a href="/people/蕭煌奇" target="_blank" rel="noopener">Tiêu Hoàng Kỳ</a> (Hsiao Huang-chi), ca hậu nhạc tiếng Đài là PiA Ngô Bối Nhã (Wu Pei-ya), ca sĩ nhạc tiếng Khách là Trần Dĩ Nặc (Chen Yi-nuo), và ca sĩ ngôn ngữ bản địa là Suming <a href="/music/當代原住民創作歌手" target="_blank" rel="noopener">Thư Mễ Ân</a> (Shumi En). Giải Ban nhạc xuất sắc nhất thuộc về nhóm <a href="/music/落日飛車" target="_blank" rel="noopener">Sunset Rollercoaster</a> (落日飛車) từ Đài Bắc, một ban nhạc khác lớn lên từ cảnh giới độc lập, đi vòng qua nền công nghiệp chính thống để bước lên sân khấu cao nhất. Còn về người thắng giải Tân binh xuất sắc nhất — người đã phải "ứng biến vì điện thoại bị thu mất" mà chúng ta đã gặp ở phần giám khảo — chính là <a href="/music/陳嫺靜" target="_blank" rel="noopener">Trần Hiến Tĩnh</a>.
+
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/aKbdJYjZ6EQ" title="第 37 屆金曲獎典禮開場" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+_Màn khai mạc lễ trao giải Kim Khúc thứ 37 (2026). A-Lin lần đầu dẫn chương trình, bước lên sân khấu Tiểu Cự Đàm trên lưng trăn khổng lồ; ca khúc 〈Hạnh Phúc Đang Ca Hát〉 cô hát đêm đó cũng giành giải Bài hát của năm._
+
+Đã 37 kỳ rồi, buổi lễ bắt đầu từ một lá thư này vẫn vừa trang trọng, vừa hài hước, lại có thể khiến người ta ghi nhớ suốt cả một đêm dài.
+
+## Hơn ba mươi năm, hòn đảo này lắng nghe chính mình như thế nào
+
+Quay trở lại với vài giây tĩnh lặng đó.
+
+Tại Tiểu Cự Đàm năm 2024, No Party For Cao Dong lần thứ hai chạm đến đỉnh cao, người quản lý thay mặt nhận giải và nói "Cảm ơn Fan Fan". Fan Fan đã đi rồi, nhưng tiếng trống cô từng đánh vẫn còn trong _Châu Nô Nhi_. Mỗi khi có ai đó nhấn nút phát, tiếng trống ấy lại vang lên một lần nữa. Một tay trống đã ra đi, nhờ Kim Khúc mà cả một ngành công nghiệp ghi nhớ; một album từ ba năm trước, nhờ nó mà cả một thế hệ được nghe thấy lại.
+
+Đó có lẽ chính là điều mà Kim Khúc đang làm: Từ kỳ đầu tiên giản dị năm 1990 đến kỳ thứ 37 ngày nay, mỗi năm một lần, nó thay Đài Loan trả lời cùng một câu hỏi — Năm nay, trên hòn đảo này, những thanh âm nào xứng đáng được ghi nhớ một cách trân trọng.
+
+Những gì nó ghi nhớ: có sự quét sạch của Châu Kiệt Luân trong đêm _Phạm Fantasy_, có sự kiên trì 14 lần đề cử của Trương Huệ Muội, cũng có tiếng biển của một người cảnh sát Đài Đông, một album hoàn toàn bằng tiếng Paiwan, một ca sĩ nhạc tiếng Khách từ chối nhận giải, và một bài hát ra đời từ đường phố. Tiếng Hoa, tiếng Đài, tiếng Khách, ngôn ngữ bản địa; những người bán được hàng triệu bản và những người chẳng thể hiểu nổi một câu; những thiên vương đang nổi tiếng và những người lặng lẽ viết nhạc — nó đã để tất cả những thanh âm đó cùng đứng trên một sân khấu.
+
+Qua hơn ba mươi năm, Kim Khúc thực chất không phải là đang trao giải. Nó đang thay Đài Loan, từng năm một, ghi lại cách hòn đảo này lắng nghe chính mình.
+
+---
 
 ## Đọc thêm
 
-- [Nhạc đại chúng Đài Loan](/vi/music/golden-melodies-legacy-taiwan-pop-music) — Từ công nghiệp đĩa đến thời đại phát trực tuyến, toàn bộ sử sự trỗi dậy và suy tàn của ngành, Giải Âm nhạc Vàng là thước đo chính thức trên đường線 này
-- [Sự演進 của bài hát tiếng Đài Loan](/vi/music/taiwanese-hokkien-song-evolution) — Từ ca khúc bi thương đến bước chuyển hướng rock của Lâm Cường "Đi Về Phía Trước", bài hát tiếng Đài Loan làm sao bước vào dòng chính
-- [Truyền thống âm nhạc người bản địa Đài Loan](/vi/music/indigenous-music-traditions) — Từ ca dao bộ lạc đến Trần Kiến Năm, A Bốc, gốc rễ và đương đại của âm nhạc người bản địa
-- [Ca sĩ sáng tác người bản địa đương đại](/vi/music/contemporary-indigenous-singer-songwriters) — Giọng nói và hoàn cảnh của dòng sáng tác này: Kỷ Hiếu Quân, Ba Nai, A Bốc
-- [Âm nhạc độc lập Đài Loan](/vi/music/indie-music-scene) — Thế hệ Cảo Đông, StreetVoice làm sao vòng qua công nghiệp đĩa, lên đến đỉnh cao Giải Âm nhạc Vàng
-- [Giải Chuông Vàng](/vi/culture/golden-bell-awards) — Cổ nhất trong "Tam Kim": năm 1965 đúc chuông cho phát thanh, sáu mươi mốt năm danh sách得獎 ghi lại truyền hình Đài Loan ở tay ai
-- [Giải Mã Vàng](/art/金馬獎) — Giải phim trong "Tam Kim": từng屆 mở rộng đối tượng báo danh, từ chỉ nhận phim tiếng Quốc ngữ đến không hỏi quốc tịch
+- [Âm nhạc Pop Đài Loan](/vi/music/golden-melodies-legacy-taiwan-pop-music) — Lịch sử thăng trầm của toàn bộ ngành công nghiệp từ thời đại đĩa nhạc đến kỷ nguyên streaming, Kim Khúc là thước đo chính thức trên dòng chảy này.
+- [Sự tiến hóa của nhạc tiếng Đài](/vi/music/taiwanese-hokkien-song-evolution) — Từ những bản nhạc bi lụy đến bước chuyển mình sang Rock của Lâm Cường 〈Hướng Tiền Bước〉, cách nhạc tiếng Đài tiến vào dòng chính lưu.
+- [Truyền thống âm nhạc bản địa Đài Loan](/vi/music/indigenous-music-traditions) — Từ dân ca bộ lạc đến Trần Kiến Niên, A Bao, cội nguồn và hơi thở đương đại của âm nhạc bản địa.
+- [Nghệ sĩ sáng tác bản địa đương đại](/vi/music/contemporary-indigenous-singer-songwriters) — Tiếng nói và vị thế của những người sáng tác thuộc dòng chảy Kỷ Hiểu Quân, Ba Nại, A Bao.
+- [Âm nhạc độc lập Đài Loan](/vi/music/indie-music-scene) — Cách No Party For Cao Dong hay thế hệ Street Voice vượt qua ngành công nghiệp đĩa nhạc để bước lên đỉnh cao Kim Khúc.
+- [Giải Kim Chung](/vi/culture/golden-bell-awards) — Giải lâu đời nhất trong "Tam Kim": Chiếc chuông đúc cho phát thanh năm 1965, danh sách đoạt giải suốt 61 năm ghi lại lịch sử truyền hình Đài Loan nằm trong tay ai.
+- [Giải Kim Mã](/vi/art/golden-horse-awards) — Giải điện ảnh trong "Tam Kim": Từng kỳ một nới lỏng điều kiện đăng ký, từ chỉ nhận phim tiếng Quan thoại đến không phân biệt quốc tịch.
 
 ## Nguồn ảnh
 
-Bài viết này sử dụng 2 bức ảnh được phép CC, cache tại `public/article-images/music/`, tránh liên kết nóng tới máy chủ nguồn; 12 đoạn video đều là nhúng YouTube chuẩn từ kênh chính thức.
+Bài viết sử dụng 2 ảnh có bản quyền CC, được lưu trữ tại `public/article-images/music/` để tránh liên kết nóng tới máy chủ nguồn; 12 đoạn video đều là nhúng tiêu chuẩn từ các kênh YouTube chính thức.
 
-- [Máy quay phát sóng kỳ 32 Giải Âm nhạc Vàng (hero)](https://commons.wikimedia.org/wiki/File:SET_News_and_CTI_News_cameras_at_GMA_20210821.jpg) — Photo: Solomon203, 2021, CC BY-SA 4.0
-- [Nhà tưởng niệm Tôn Trung Sơn Đài Bắc (nơi tổ chức kỳ đầu tiên)](https://commons.wikimedia.org/wiki/File:National_Dr._Sun_Yat-sen_Memorial_Hall_09.jpg) — Photo: Emcc83, CC BY-SA 4.0
-- Video (kênh chính thức): Lâm Cường "Đi Về Phía Trước" (Rồng Thạch唱片), Ban Nhạc Dập Lửa "Đảo Thiêu Quang" (Fire EX.), A Bốc "Cảm Ơn Cảm Tạ" (ABAO A Bốc), Bà Nài "Đêm Bà" (Bà Nài Panai), Căo Đông "Gió Lớn Thổi" (Căo Đông Không Có Bữa Tiệc), Trần Kiến Năm "Biển" (Góc Đầu Âm Nhạc), Lâm Sinh Tường "Trồng Cây", Khả La Kỳ "Vạn Nghìn Cánh Hoa Từ Câm Mẫu" (Khả La Kỳ), Thái Cầm "Thời Gian Bị Lãng Quên", Trương Huệ Mẫu "Lắng Nghe Biển", Thái Kiện Ngoại "Ô Trắng", Thái Y Lâm "Lạ Đẹp"
+- [Máy quay phát sóng giải Kim Khúc thứ 32 (hero)](https://commons.wikimedia.org/wiki/File:SET_News_and_CTI_News_cameras_at_GMA_20210821.jpg) — Photo: Solomon203, 2021, CC BY-SA 4.0
+- [Nhà tưởng niệm Quốc phụ (Địa điểm kỳ đầu tiên)](https://commons.wikimedia.org/wiki/File:National_Dr._Sun_Yat-sen_Memorial_Hall_09.jpg) — Photo: Emcc83, CC BY-SA 4.0
+- Video (Kênh chính thức): Lâm Cường 〈Hướng Tiền Bước〉 (Rock Records), Fire EX. 〈Đảo Thứ Thiên Quang〉, A Bao 〈Thank You 感謝〉, Ba Nại 〈Dạ Bà〉, No Party For Cao Dong 〈Đại Phong Xuy〉, Trần Kiến Niên 〈Đại Dương〉 (Corner Music), Lâm Sinh Tường 〈Trồng Cây〉, Colas 〈Vạn Thiên Hoa Nhụy Từ Mẫu Bi Ai〉, Thái Cầm 〈Thời Quang Bị Lãng Quên〉, Trương Huệ Muội 〈Thính Hải〉, Thái Kiện Nhã 〈Không Bạch Cách〉, Thái Y Lâm 〈Quái Mỹ Đích〉
 
 ## Tài liệu tham khảo
 
-[^1]: [Bộ Văn hoá - Cục Ngành Công Nghiệp Điện Ảnh và Âm nhạc Phổ thông — Lịch sử Giải Âm nhạc Vàng](https://www.bamid.gov.tw/cp.aspx?n=3538) — Dữ liệu chính thức một tay từ cơ quan tổ chức chủ yếu, ghi lại "Những Bài Hát Tốt Cho Ai Cũng Hát" ba kỳ, tháng 12 năm 1988 bắt đầu lên kế hoạch, kỳ đầu tiên ngày 6 tháng 1 năm 1990, thay đổi cơ quan tổ chức mỗi kỳ v.v. lịch sử.
+[^1]: [Cục Công nghiệp Điện ảnh và Âm nhạc Pop - Bộ Văn hóa — Lịch sử phát triển Kim Khúc](https://www.bamid.gov.tw/cp.aspx?n=3538) — Tài liệu chính thức từ cơ quan tổ chức, ghi chép về 3 kỳ "Hát Chung Những Bài Hát Hay", việc chuẩn bị cuối năm 1988, kỳ đầu tiên ngày 6/1/1990 và sự thay đổi các cơ quan chủ quản qua các kỳ.
 
-[^2]: [Trung Ưng Xã — Thái Cầm viết thư dài cho Tống Sở Du thúc đẩy ra đời Giải Âm nhạc Vàng](https://www.cna.com.tw/news/amov/202009040156.aspx) — Báo đơn vị tin tức về Thái Cầm viết tám trang thư năm 1982, Tống Sở Du phản ứng "toàn gia đình đều là người hâm mộ", sáu năm sau bắt đầu lên kế hoạch chi tiết lịch sử thúc đẩy.
+[^2]: [Trung ương Xã (CNA) — Thái Cầm viết thư dài cho Tống Sở Du thúc đẩy ra đời Kim Khúc](https://www.cna.com.tw/news/amov/202009040156.aspx) — Bản tin về chi tiết lịch sử: Thái Cầm viết 8 trang thư năm 1982, phản hồi "cả nhà là người hâm mộ" của Tống Sở Du, và việc chính thức chuẩn bị sau 6 năm.
 
-[^3]: [Wikipedia — Kỳ 1 Giải Âm nhạc Vàng](https://zh.wikipedia.org/zh-tw/%E7%AC%AC1%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E) — Danh sách chiến thắng kỳ đầu hoàn chỉnh (Ân Chính Dương, Giang Hỷ, Ngũ Tư Khải, Triệu Truyền), hai mươi lăm thành viên ban giám khảo, chủ tịch Đào Tiểu Thanh, quy mô đăng ký và địa điểm v.v. sự kiện cơ bản.
+[^3]: [Wikipedia — Kỳ Kim Khúc thứ 1](https://zh.wikipedia.org/zh-tw/%E7%AC%AC1%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E) — Danh sách đoạt giải đầy đủ kỳ đầu tiên (Ân Chính Dương, Giang Hối, Ngũ Tư Khải, Triệu Truyền), 25 giám khảo, Chủ nhiệm Ủy ban Đào Hiểu Thanh, quy mô đăng ký và địa điểm.
 
-[^4]: [Blow thổi âm nhạc — Cái gì xảy ra trong căn phòng nhỏ: làm thế nào để đánh giá Giải Âm nhạc Vàng](https://blow.streetvoice.com/11367/) — Viết phóng sự một tay quy trình ban giám khảo, ghi lại cách giữ bí mật quy trình quyết tuyển cách ly kín cửa, nhà vệ sinh có người bồi hành, bỏ phiếu ẩn danh bằng máy tính v.v. chi tiết lời nói.
+[^4]: [Blow (吹音樂) — Điều gì xảy ra trong căn phòng nhỏ: Kim Khúc được đánh giá như thế nào](https://blow.streetvoice.com/11367/) — Mô tả thực tế về chế độ giám khảo, ghi chép chi tiết về việc cách ly quyết thảo, có người đi cùng khi đi vệ sinh, bỏ phiếu ẩn danh qua máy tính.
 
-[^5]: [Tin tức Công khai Công ty phát hành — 3 lần phân tích ban giám khảo tiết lộ quy trình chọn lựa](https://news.pts.org.tw/article/757447) — Người chủ yếu Nhan Xã Đích La được hỏi về tiêu chí ban giám khảo, "Tôi có muốn mua album này không", "Được đề cử là xác nhận" v.v. các trích dẫn lời nói chính xác từ nguồn gốc.
+[^5]: [Tin tức PTS — Giải mã quá trình lựa chọn của giám khảo 3 kỳ Kim Khúc](https://news.pts.org.tw/article/757447) — Nguồn trích dẫn trực tiếp từ Di La (người điều hành Yan She) về tiêu chuẩn giám khảo: "Mình có muốn mua đĩa này không", "Được đề cử đã là một sự khẳng định".
 
-[^6]: [Wikipedia — Kỳ 13 Giải Âm nhạc Vàng](https://zh.wikipedia.org/zh-tw/%E7%AC%AC13%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E) — Chu Kiệt Luân bốn hạng cá nhân _Phạm Tuyên Tây_, hạng Nhạc Sĩ Từ Lời của Phương Văn Sơn, hạng Sắp Xếp Nhạc của Chung Hưng Dân v.v. danh sách chiến thắng năm 2002, nguồn gốc xác minh.
+[^6]: [Wikipedia — Kỳ Kim Khúc thứ 13](https://zh.wikipedia.org/zh-tw/%E7%AC%AC13%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E) — Nguồn kiểm chứng danh sách đoạt giải năm 2002: Châu Kiệt Luân thắng 4 giải cá nhân với album _Phạm Fantasy_, Phương Văn Sơn thắng giải Lời bài hát, Chung Hưng Dân thắng giải Hòa âm.
 
-[^7]: [Wikipedia — Hạng Nữ Ca Sĩ Quốc Ngữ Xuất Sắc Nhất Giải Âm nhạc Vàng](<https://zh.wikipedia.org/zh-tw/%E6%9C%80%E4%BD%B3%E8%8F%AF%E8%AA%9E%E5%A5%B3%E6%AD%8C%E6%89%8B%E7%8D%8E_(%E9%87%91%E6%9B%B2%E7%8D%8E)>) — )) — Thái Kiện Ngoại bốn lần đội vương miện, Trương Huệ Mẫu đề cử mười bốn lần và ba lần đội vương miện, các kỷ lục ca sĩ nữ vương qua các kỳ, nguồn gốc tra cứu
+[^7]: [Wikipedia — Giải Nữ ca sĩ Hoa ngữ xuất sắc nhất](<https://zh.wikipedia.org/zh-tw/%E6%9C%80%E4%BD%B3%E8%8F%AF%E8%AA%9E%E5%A5%B3%E6%AD%8C%E6%89%8B%E7%8D%8E_(%E9%87%91%E6%9B%B2%E7%8D%8E)>) — Nguồn về kỷ lục Thái Kiện Nhã 4 lần đăng quang, Trương Huệ Muội 14 lần đề cử và 3 lần đăng quang, cùng lịch sử các nữ ca sĩ qua các kỳ.
 
-[^8]: [Báo Thời Gian (Liên Hợp Báo) — Lâm Cường "Đi Về Phía Trước" và Phong Trào Ca Khúc Tiếng Đài Mới](https://time.udn.com/udntime/story/122834/7791726) — "Đi Về Phía Trước" chiến thắng Ca Khúc Xuất Sắc Nhất kỳ 3 năm 1991, album bán vượt bốn mươi vạn bản, khung cảnh phong trào ca khúc tiếng Đài mới xác minh.
+[^8]: [Bao Shi Guang (United Daily News) — Lâm Cường 〈Hướng Tiền Bước〉 và Phong trào Nhạc tiếng Đài mới](https://time.udn.com/udntime/story/122834/7791726) — Kiểm chứng về việc bài _Hướng Tiền Bước_ thắng giải Bài hát của năm tại kỳ thứ 3 năm 1991, album bán hơn 400.000 bản và bối cảnh phong trào nhạc tiếng Đài mới.
 
-[^9]: [Fount Media — Trần Kiến Năm _Biển_ và Giải Âm nhạc Vàng Kỳ 11](https://www.fountmedia.io/article/67037) — Trần Kiến Năm năm 2000 đánh bại Trương Học Hữu, Vương Lực Hoành, Đào Sướng, Cho Thành Khánh chiến thắng Ca Sĩ Nam Quốc Ngữ Xuất Sắc Nhất, nền tảng Bình Nam và gia đình mục Lục Tôn Bảo chuyên luận.
+[^9]: [Fount Media — Trần Kiến Niên 《Đại Dương》 và kỳ Kim Khúc thứ 11](https://www.fountmedia.io/article/67037) — Bài viết chuyên sâu về việc Trần Kiến Niên đánh bại Trương Học Hữu, Vương Lực Hoành, Đào Triết, Dữu Trừng Khánh năm 2000 để giành giải Nam ca sĩ nhạc Quan thoại, cùng bối cảnh gia tộc Binin và Lục Sâm Bảo.
 
-[^10]: [Trung Ưng Xã — A Bốc _kinakaian_ Kỳ 31 chiến thắng ba giải](https://www.cna.com.tw/news/firstnews/202010030253.aspx) — Năm 2020 album tiếng Paiwan toàn bộ chiến thắng Album Ngôn Ngữ Bản Địa Xuất Sắc Nhất, Ca Khúc Xuất Sắc Nhất Năm, Album Xuất Sắc Nhất Năm ba hạng, và A Bốc bài phát biểu nhận giải lời nói chính xác.
+[^10]: [Trung ương Xã (CNA) — A Bao đoạt ba giải với 《kinakaian》 tại kỳ thứ 31](https://www.cna.com.tw/news/firstnews/202010030253.aspx) — Thông tin về việc album hoàn toàn bằng tiếng Paiwan giành Album ngôn ngữ bản địa, Bài hát của năm và Album của năm năm 2020, cùng lời phát biểu nhận giải của A Bao.
 
-[^11]: [Trang Cực Khổ — Từ chối nhận Giải Âm nhạc Vàng Khách Gia, lên sân khấu ba mươi giây được lên kế hoạch hai năm, Lâm Sinh Tường hoàn toàn](https://www.coolloud.org.tw/node/4022) — Báo chí một tay năm 2007 kỳ 18 Lâm Sinh Tường từ chối nhận hai hạng Khách Gia, ghi lại thời gian lên sân khấu, lý do từ chối và số phận tiền thưởng.
+[^11]: [Kulaowang — Từ chối giải Kim Khúc tiếng Khách, chuẩn bị 2 năm lên đài 30 giây, Lâm Sinh Tường phản kháng](https://www.coolloud.org.tw/node/4022) — Bản tin trực tiếp về việc Lâm Sinh Tường từ chối hai giải tiếng Khách tại kỳ thứ 18 năm 2007, bao gồm thời gian trên sân khấu, lý do từ chối và nơi quyên góp tiền thưởng.
 
-[^12]: [Tự Do Giải Trí — Giải Âm nhạc Vàng 18 năm lần đầu tiên, Lâm Sinh Tường tay gập từ chối nhận giải](https://ent.ltn.com.tw/news/paper/136087) — Xác nhận Lâm Sinh Tường là người từ chối nhận giải đầu tiên trong lịch sử Giải Âm nhạc Vàng, hai mươi lăm vạn tiền thưởng chia tặng bốn phía (bao gồm Dương Nho Môn) báo chí sự kiện.
+[^12]: [Liberty Entertainment — Lần đầu tiên trong 18 năm Kim Khúc, Lâm Sinh Tường cùng nhau từ chối nhận giải](https://ent.ltn.com.tw/news/paper/136087) — Bản tin xác nhận Lâm Sinh Tường là người đầu tiên từ chối giải trong lịch sử Kim Khúc, và việc quyên góp 250.000 Đài tệ cho bốn bên (bao gồm Dương Nho Môn).
 
-[^13]: [Khóa Luận Nhân Vật — Tranh Cãi Phân Loại Ngôn Ngữ Giải Âm nhạc Vàng và Khó Khăn Khả La Kỳ](https://www.thenewslens.com/article/137875) — Quách Lực Tuyên chỉ trích phân loại ngôn ngữ "cố định tiếp tục biên ngoài hoá quần thể tiếng nói yếu" trích dẫn lời nói chính xác, và tổng hợp tranh luận hai phía tranh cãi phân loại ngôn ngữ.
+[^13]: [Komology — Tranh cãi về phân loại ngôn ngữ tại Kim Khúc và bài toán của Colas](https://www.thenewslens.com/article/137875) — Trích dẫn trực tiếp của Quách Lực Hân về việc phân loại ngôn ngữ "củng cố sự gạt ra lề các nhóm yếu thế", cùng tổng hợp các lập luận hai chiều về tranh cãi phân loại ngôn ngữ.
 
-[^14]: [Khóa Luận Nhân Vật — Bà Nài _Đêm Bà_ và Bài Phát Biểu Giải Âm nhạc Vàng Kỳ 35](https://www.thenewslens.com/article/204605) — Năm 2024 Bà Nài Album Tiếng Đài Xuất Sắc Nhất chiến thắng, bài phát biểu cắt ghép "Giải Âm nhạc Vàng 35 năm" và "Thiên An Môn 35 năm", bị xóa ở Trung Quốc sau này ghi chép.
+[^14]: [Komology — Ba Nại 《Dạ Bà》 và bài phát biểu tại kỳ Kim Khúc thứ 35](https://www.thenewslens.com/article/204605) — Ghi chép về việc Ba Nại đoạt giải Album tiếng Đài năm 2024, bài phát biểu đặt "35 năm Kim Khúc" cạnh "35 năm Thiên An Môn", và việc bị xóa trên mạng xã hội Trung Quốc.
 
-[^15]: [Tin tức Công khai Công ty phát hành — Ban Nhạc Dập Lửa "Đảo Thiêu Quang" Kỳ 26 Ca Khúc Xuất Sắc Nhất](https://news.pts.org.tw/article/300580) — Năm 2015 "Đảo Thiêu Quang" chiến thắng, Dương Đại Chính bài phát biểu "Trời phước lành Đài Loan", bài hát bắt nguồn từ phong trào Hoa Mặt Trời xác minh nguồn gốc.
+[^15]: [Tin tức PTS — Fire EX. 〈Đảo Thứ Thiên Quang〉 giành giải Bài hát của năm tại kỳ thứ 26](https://news.pts.org.tw/article/300580) — Nguồn kiểm chứng về việc bài hát đoạt giải năm 2015, lời phát biểu "Thiên hữu Đài Loan" của Dương Đại Chính và nguồn gốc ca khúc từ phong trào Hướng Dương.
 
-[^16]: [Trung Ưng Xã — Giải Âm nhạc Vàng Ca Sĩ Trung Quốc Người Được Đề Cử Toàn Bộ Vắng Mặt](https://www.cna.com.tw/news/amov/202406290209.aspx) — Năm 2024 kỳ 35 ca sĩ Trung Quốc người được đề cử toàn bộ vắng mặt tại lễ trao giải báo chí sự kiện.
+[^16]: [Trung ương Xã (CNA) — Các ca sĩ Trung Quốc được đề cử tại Kim Khúc đồng loạt vắng mặt](https://www.cna.com.tw/news/amov/202406290209.aspx) — Bản tin về việc các ca sĩ quốc tịch Trung Quốc vắng mặt tập thể tại lễ trao giải kỳ thứ 35 năm 2024.
 
-[^17]: [Variety — Những Chiến Sĩ Rock Đài Loan Căo Đông Được Vinh Danh Ba Giải](https://variety.com/2024/music/news/golden-melody-awards-no-party-for-cao-dong-triple-prizes-1236059896/) — Báo chí quốc tế Variety về năm 2024 Căo Đông lần thứ hai quét ba hạng giải lớn báo chí, thể hiện khả năng tầm nhìn quốc tế của Giải Âm nhạc Vàng.
+[^17]: [Variety — Nhóm Rock Đài Loan No Party For Cao Dong được tôn vinh với ba giải lớn](https://variety.com/2024/music/news/golden-melody-awards-no-party-for-cao-dong-triple-prizes-1236059896/) — Bản tin của truyền thông quốc tế Variety về việc No Party For Cao Dong quét sạch ba giải lớn tại kỳ 2024, thể hiện tầm ảnh hưởng quốc tế của Kim Khúc.
 
-[^18]: [Wikipedia — Kỳ 14 Giải Âm nhạc Vàng](https://zh.wikipedia.org/zh-tw/%E7%AC%AC14%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E) — Năm 2003 bỏ hạng Ca Sĩ Phương Ngôn Xuất Sắc Nhất, thêm tiếng Đài / Khách Gia / Ngôn Ngữ Bản Địa hạng độc lập lịch sử phân loại ngôn ngữ nguồn gốc.
+[^18]: [Wikipedia — Kỳ Kim Khúc thứ 14](https://zh.wikipedia.org/zh-tw/%E7%AC%AC14%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E) — Nguồn về lịch sử phân loại ngôn ngữ: hủy bỏ giải Ca sĩ phương ngôn và thiết lập các giải độc lập cho tiếng Đài/Khách/Bản địa năm 2003.
 
-[^19]: [Wikipedia — Căo Đông Không Có Bữa Tiệc](https://zh.wikipedia.org/zh-hant/%E8%8D%89%E6%9D%B1%E6%B2%92%E6%9C%89%E6%B4%BE%E5%B0%8D) — Căo Đông hai kỳ quét ba giải, tay trống Thái Ức Phàn (Phàn Phàn) năm 2021 khuất trong phòng, mười sáu tuổi xác minh nguồn gốc tra cứu.
+[^19]: [Wikipedia — No Party For Cao Dong](https://zh.wikipedia.org/zh-hant/%E8%8D%89%E6%9D%B1%E6%B2%92%E6%9C%89%E6%B4%BE%E5%B0%8D) — Nguồn kiểm chứng về việc nhóm thắng ba giải hai kỳ, tay trống Thái Ức Phàm (Fan Fan) qua đời trong phòng vào năm 2021 ở tuổi 26.
 
-[^20]: [Wikipedia — Giải Âm Nhạc Kim Âm](https://zh.wikipedia.org/zh-hant/%E9%87%91%E9%9F%B3%E5%89%B5%E4%BD%9C%E7%8D%8E) — Năm 2010 được thành lập, theo phong cách âm nhạc phân loại, hướng tới âm nhạc độc lập, sự khác biệt định vị so với Giải Âm nhạc Vàng phân loại theo ngôn ngữ nguồn gốc đối chiếu.
+[^20]: [Wikipedia — Giải Sáng tạo Kim Âm (Golden Indie Music Awards)](https://zh.wikipedia.org/zh-hant/%E9%87%91%E9%9F%B3%E5%89%B5%E4%BD%9C%E7%8D%8E) — Nguồn đối chiếu giữa giải được thiết lập năm 2010 dựa trên phong cách âm nhạc dành cho nhạc độc lập với việc phân loại theo ngôn ngữ của Kim Khúc.
