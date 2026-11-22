@@ -3,9 +3,9 @@ title: 'EMBEDDING-PIPELINE'
 description: 'bge-m3 semantic index rebuild — the keystone build that feeds reader related-articles (src/data/related) + RAG vectors (public/api/rag). Steady-state v1.2: local mac-m4max nightly rebuild with fleet fallback, sovereignty-preserving (embeddings computed in-house, never outsourced).'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.4'
-last_updated: 2026-09-29
-last_session: '2026-09-29-twmd-embeddings-nightly'
+current_version: 'v1.5'
+last_updated: 2026-11-23
+last_session: '2026-11-23-060736-twmd-embeddings-nightly'
 sister_docs:
   - 'REMOTE-GPU-PIPELINE.md'
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
@@ -72,7 +72,7 @@ curl -s -m 20 "$EMBED_HOST/api/embeddings" -H 'Content-Type: application/json' \
 - 回 `dim 1024` → 繼續 Stage 1。
 - 不可達（節點關機 / Tailscale 斷）→ **skip，不是失敗**。committed 的 `src/data/related` 留著、fallback 照常運作。finale memory 記「fleet down, skipped, 索引維持前一版」。連 3 天 skip 才 escalate LESSONS（節點長期離線）。
 
-### Stage 1 — Rebuild（~13 分鐘，6 語 4640 向量）
+### Stage 1 — Rebuild（13 語約 15,000 向量，實測 43〜58 分鐘）
 
 ```bash
 cd "$(git rev-parse --show-toplevel)"   # 不寫死 home 路徑：指揮部是 /Users/cheyuwu、營運機是 /Users/musebase
@@ -80,7 +80,7 @@ git checkout main && git pull origin main
 EMBED_HOST="$EMBED_HOST" node scripts/core/build-embeddings.mjs --langs all
 ```
 
-每語 ~136s（fr 較少 ~118s）。輸出 `🧬 done — N article vectors across 6 langs`。
+每語約 190〜290 秒（2026-11-18〜23 六夜實測；耗時跟著文章數與語言數長大，以當晚 build log 為準）。輸出 `🧬 done — N article vectors across M langs`。
 
 > **本機與 origin 真分岔時**（營運機上常態：babel dispatcher 在本機不停 commit，心跳巡邏在 origin 側 commit）：`git pull` 走 merge，唯一會衝突的多半是 `knowledge/_translation-status.json`——按 [`merge-divergence.py`](../../scripts/tools/merge-divergence.py) 的 THEIRS 政策 `git checkout --theirs` 取 origin，再跑 `scripts/tools/lang-sync/status.py` 重生後 `git add`，零判斷。工作樹裡 dispatcher 正在寫的 dirty 檔不碰；merge 前先 `git merge-tree --write-tree origin/main HEAD` 看衝突清單，出現 `_translation-status.json` 以外的衝突就 abort 回到本機 HEAD 重建（索引照樣可用，差的只是 origin 側那幾篇的文字改動），把衝突留給 maintainer Step 1.1b。
 
@@ -139,7 +139,7 @@ git push origin main
 
 ### Stage 4 — 收官
 
-`/twmd-finale` chain。memory 必含：fleet endpoint + Stage 0 可達性 + 6 語向量數 + fail rate + verify PASS/FAIL + commit hash（或 no-change skip）+ Handoff 三態。
+`/twmd-finale` chain。memory 必含：fleet endpoint + Stage 0 可達性 + 各語向量數（語言清單以 `ENABLED_LANGUAGE_CODES` 為準）+ fail rate + verify PASS/FAIL + commit hash（或 no-change skip）+ Handoff 三態。
 
 ---
 
@@ -156,6 +156,8 @@ git push origin main
 ROUTINE.md SSOT 一行登記在排程表。修排程先改 ROUTINE.md 再 sync 任務檔。
 
 ---
+
+_v1.5 | 2026-11-23 twmd-embeddings-nightly session | **Stage 1 耗時與規模敘述更新**：標題與內文還寫著 6 語 4,640 向量、約 13 分鐘、每語 ~136 秒，站上已是 13 語約 15,000 向量，六夜實測全程 43〜58 分鐘、每語 186〜285 秒；Stage 4 的「6 語向量數」改成各語。只改描述，門檻與指令不動。觸發：這條交接從 11-18 起在本 routine 的 memory 裡原樣傳了五班，指名的週班讀不到這份 memory（REFLEXES #97），第六班照 v1.2〜v1.4 的前例由本 routine 自己改文件。_
 
 _v1.4 | 2026-09-29 twmd-embeddings-nightly session | **Stage 3 改路徑式 commit**：原本 `git add src/data/related/` 後不帶路徑 commit，`git diff --cached --quiet` 量的是整個 index；營運機 index 常有 babel dispatcher staged 的譯文，照字面跑會把別人的檔捲進 embeddings commit，也會把「別人有暫存」誤讀成「索引有變」。09-27、09-28 兩班靠交接用路徑式 commit 繞過，文件沒改，交接連帶兩班；本班照根因改文件本身。_
 

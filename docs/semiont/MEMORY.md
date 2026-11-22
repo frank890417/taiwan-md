@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
 last_updated: 2026-11-23
-last_session: '2026-11-23-053940-twmd-routine-sync（例行對賬全綠連六天）'
+last_session: '2026-11-23-060736-twmd-embeddings-nightly（第六夜完整重建，順手更新 pipeline 過時耗時）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -336,3 +336,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-23 | 004334-twmd-babel-nightly | 續命班：〈水道頭〉九語兩模型全敗在 URL count 卻沒有一份被拒譯文可讀；還原前留底、檢查細節進 log（`909a61ce48`）；missing 4→0，十二語覆蓋 100% | 還原保護了讀者，也抹掉診斷需要的實物 | [→](memory/2026-11-23-004334-twmd-babel-nightly.md) |
 | 2026-11-23 | 011522-twmd-supporters-weekly | 隔四週補上：三封贊助信全是每月定額（Anton Lee 100、匿名 200、沈宗杰 200），累積 NT$8,800→9,300；隱私檢查寫入前後都過；Anton Lee 缺三個週期後回來 | 摘要只寫「贊助支持」，內文才寫「每月定額」，三封全中 | [→](memory/2026-11-23-011522-twmd-supporters-weekly.md) |
 | 2026-11-23 | 053940-twmd-routine-sync | 例行對賬：prompt 19/19 一致，排程器直讀十八條 cron／開關零漂移，連六天；上週日六條週班五條留痕，週報死因已知，數數交接收掉 | 起跑時間分不出的事，要讀得到 log 的席位才給得出原因 | [→](memory/2026-11-23-053940-twmd-routine-sync.md) |
+| 2026-11-23 | 060736-twmd-embeddings-nightly | 恢復後第六夜完整重建：13 語 15,366 向量零失敗、verify PASS，`2ad9a6308a`；十三語同數各 1,182；傳了五班的過時耗時交接照前例自己改成 pipeline v1.5 | 權限的證據在那份文件自己的版本註腳裡 | [→](memory/2026-11-23-060736-twmd-embeddings-nightly.md) |
