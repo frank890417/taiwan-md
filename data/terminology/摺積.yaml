@@ -1,0 +1,46 @@
+id: 'zhe-ji'
+category: tech
+subcategory: 人工智慧
+fork_type: E
+auto_convert: false # 台灣 AI 文本普遍寫「卷積」，盲目取代會改壞既有正確寫法；訊號處理語境才該用「摺積」
+
+display:
+  taiwan: '摺積'
+  china: '卷積'
+  hongkong: '卷積'
+
+english: 'convolution'
+
+etymology:
+  origin: 'convolution 的字面意思是捲起、折疊。兩岸各取一個字來譯：台灣用「摺積」（摺是折疊），中國用「卷積」（卷是捲起）。同一個運算，兩個譯名各自抓到「把兩個函數疊在一起」的不同動作意象。'
+  taiwan_path: '台灣的訊號與系統、通訊工程與數學界長期用「摺積」。國家教育研究院樂詞網收錄 convolution 為「摺積」（物理學名詞－聲學、通訊工程、數學名詞），《兩岸學術名詞對照表》數學類把台灣譯名記為「摺積；疊積；捲積」。台大訊號與系統課程講義、中山大學數位訊號處理教材都寫「摺積」。同一個樂詞網在電子計算機名詞與化學術語另收「卷積」，海洋與通訊辭書收「捲積」——台灣內部本來就有三種寫法，隨領域不同。'
+  china_path: '中國以「卷積」為規範譯名，數學、電腦與工程教材一致使用。2010 年代深度學習熱潮後，簡體教材、框架文件與線上課程大量流入台灣，「卷積神經網路」（CNN）幾乎成了台灣 AI 圈的預設寫法。'
+  fork_point: '~2010s'
+  fork_cause: '譯名傳統的分流（台灣摺積、中國卷積）在深度學習時代被網路平台重新洗牌：簡中教材與技術文件成為台灣工程師的主要學習材料，「卷積」隨之進入台灣 AI 語境，與訊號處理界仍沿用的「摺積」並行。'
+
+usage:
+  taiwan_formal: true
+  taiwan_casual: true
+  exceptions: '台灣 AI／深度學習文本普遍寫「卷積神經網路」；訊號與系統、通訊、數學領域仍以「摺積」為正式用語。氣象學的「卷積雲」（cirrocumulus）是另一個詞，與此無關。'
+
+status: 'shifting'
+
+detection:
+  severity: B
+  false_positives:
+    - pattern: '卷積雲'
+      note: '氣象名詞 cirrocumulus，與 convolution 無關'
+
+notes: '這個詞的分岔不只在兩岸之間，也在台灣內部：學術界的「摺積」與 AI 圈的「卷積」同時存在。本庫既有文章〈台灣人工智慧發展與未來策略〉寫「卷積神經網路」，屬 AI 領域慣例；寫訊號處理主題則應寫「摺積」。轉換器不應盲目把「卷積」換成「摺積」。'
+
+sources:
+  - '國家教育研究院樂詞網：convolution＝摺積（物理學名詞－聲學、通訊工程、數學名詞），https://terms.naer.edu.tw/search/?match_type=phrase&query_op=&query_field=title&query_term=摺積'
+  - '國家教育研究院《兩岸學術名詞對照表》數學 1256690：convolution 台灣「摺積；疊積；捲積」／中國「卷積」'
+  - '國立臺灣大學連豊力「訊號與系統」課程講義：連續摺積、摺積積分，https://homepage.ntu.edu.tw/~fengli/Teaching/SignalsSystems/PDF/Y15-2-2_2.pdf'
+  - '國立中山大學陳嘉平「離散時間訊號與系統」講義：摺積 convolution，http://slpl.cse.nsysu.edu.tw/cpchen/courses/dsp/basic.pdf'
+  - '中文維基百科 Module:CGroup/Math：convolution 大陸譯「卷積」、臺灣譯「摺積」，https://zh.wikipedia.org/wiki/Module:CGroup/Math'
+  - '《初探深度學習｜使用TensorFlow》繁中譯本（碁峰）目錄：第六章 摺積神經網路，https://www.oreilly.com/library/view/chu-tan-shen-du-xue-xi-shi-yong-tensorflow/9789864769056/chapter-87.html'
+  - '國立政治大學 113-1 課程「卷積神經網路與進階神經網路」，https://newdoc.nccu.edu.tw/teaschm/1131/schmPrv.jsp-yy=113&smt=1&num=306718&gop=00&s=1.html'
+
+added: '2026-11-22'
+updated: '2026-11-22'
