@@ -608,8 +608,54 @@ def verify_one(zh_path: str, trans_path: str, log: Logger) -> tuple[bool, Option
         reason = f"verify={out1.get('fails')}"
         if failed_names:
             reason += f" [{', '.join(failed_names[:4])}]"
+        # 理由欄維持原樣（下游按字串分族），細節另印一行。2026-11-23：〈水道頭〉九語
+        # 兩種模型全敗在 URL count，log 只有檢查名，是少一條、多一條還是改了一個字元
+        # 都看不出來，而被拒的譯文當下就還原掉了。
+        for c in (out1.get("checks") or []):
+            if c.get("level") == "FAIL":
+                log(f"   ↳ {c.get('name', '?')}: {str(c.get('detail', ''))[:300]}")
     log(f"❌ GATE FAIL {trans_path} ({reason})")
     return False, reason
+
+
+REJECTED_SAMPLES_KEPT = 3  # 每個路徑留最近幾份被拒的產出
+
+
+def keep_rejected_sample(path_str: str, head_bytes: bytes, log) -> Optional[Path]:
+    """還原成 HEAD 之前，把這次被閘門拒收的產出留一份在 `.babel-quarantine/rejected/`。
+
+    2026-11-23：〈水道頭〉重翻在九個語言、兩種模型上全敗在 `URL count`，report 只有
+    檢查名。同一篇跨模型敗在同一個理由時要先查閘門與母稿（REFLEXES #38 (d)），但
+    有 HEAD 版本的路徑一失敗就被還原，被拒的那份不留底，閘門誤判與模型真錯分不開。
+    HEAD 沒有的路徑本來就會搬進隔離區，缺的只有這一格。
+
+    只在工作樹內容真的跟 HEAD 不同時才留（沒產出的失敗不會留下一份 HEAD 的複本），
+    每個路徑只留最近 REJECTED_SAMPLES_KEPT 份。留底失敗不擋還原。
+    """
+    p = REPO / path_str
+    try:
+        cur = p.read_bytes()
+    except OSError:
+        return None
+    if cur == head_bytes:
+        return None
+    qdir = REPO / ".babel-quarantine" / "rejected" / Path(path_str).parent
+    name = Path(path_str).name
+    try:
+        qdir.mkdir(parents=True, exist_ok=True)
+        dest = qdir / f"{name}.{int(time.time())}"
+        dest.write_bytes(cur)
+        old = sorted(
+            (f for f in qdir.glob(name + ".*") if f.suffix[1:].isdigit()),
+            key=lambda f: int(f.suffix[1:]),
+        )
+        for f in old[:-REJECTED_SAMPLES_KEPT]:
+            f.unlink(missing_ok=True)
+    except OSError as e:
+        log(f"⚠️  {path_str}: 被拒產出留底失敗（{e}），照常還原")
+        return None
+    log(f"🧾 被拒產出留底 → {dest.relative_to(REPO)}")
+    return dest
 
 
 def restore_head_or_quarantine(path_str: str, log: Logger) -> str:
@@ -653,6 +699,7 @@ def restore_head_or_quarantine(path_str: str, log: Logger) -> str:
         )
         if show.returncode == 0:
             p.parent.mkdir(parents=True, exist_ok=True)
+            keep_rejected_sample(path_str, show.stdout, log)
             p.write_bytes(show.stdout)
             log(f"♻️  restored {path_str} to HEAD version (寧可 stale 也不要 missing)")
             return "restored"
