@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-23T04:12:05+08:00",
-    "zhCommitHead": "7d91d549da",
+    "lastUpdated": "2026-11-23T05:59:49+08:00",
+    "zhCommitHead": "3a29424e3d",
     "totalZh": 1193,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1193,
-        "fresh": 1189,
-        "stale": 3,
+        "fresh": 1190,
+        "stale": 2,
         "metadata_stale": 1,
         "missing": 0,
         "orphan": 0
@@ -52,8 +52,8 @@
       },
       "fr": {
         "total_zh": 1193,
-        "fresh": 1183,
-        "stale": 7,
+        "fresh": 1184,
+        "stale": 6,
         "metadata_stale": 3,
         "missing": 0,
         "orphan": 0
@@ -6892,11 +6892,11 @@
           "sourceContentHash": "sha256:80f8aab1d6d15909",
           "sourceBodyHash": "sha256:b43a1be5b105403a",
           "translatedAt": "2026-11-23T01:35:02+08:00",
-          "translationLastCommit": "ba7c8ab4",
-          "translationLastModified": "2026-11-19T01:24:48+08:00",
+          "translationLastCommit": "80c92d5e",
+          "translationLastModified": "2026-11-23T04:12:06+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "bytes": 59651,
+          "bytes": 59653,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -61484,8 +61484,8 @@
           "sourceContentHash": "sha256:ab11b395c6923e7b",
           "sourceBodyHash": "sha256:96f21cbf7e1ee69e",
           "translatedAt": "2026-11-23T01:35:02+08:00",
-          "translationLastCommit": "a3ec9a54",
-          "translationLastModified": "2026-10-10T23:43:08+08:00",
+          "translationLastCommit": "80c92d5e",
+          "translationLastModified": "2026-11-23T04:12:06+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "bytes": 20003,
@@ -81200,20 +81200,18 @@
         "en": {
           "path": "en/Society/shuidaotou-waterworks.md",
           "translatedFrom": "Society/水道頭.md",
-          "sourceCommitSha": "015d1a9c9",
-          "sourceContentHash": "sha256:d584a485050631e9",
-          "sourceBodyHash": "sha256:5fb85b385727325b",
-          "translatedAt": "2026-09-25T16:58:19+08:00",
+          "sourceCommitSha": "f775f9835c",
+          "sourceContentHash": "sha256:e5ee5e2296d7b18d",
+          "sourceBodyHash": "sha256:5131c3db231d9988",
+          "translatedAt": "2026-11-23T04:30:34+08:00",
           "translationLastCommit": "6cbcbaa6",
           "translationLastModified": "2026-09-26T03:17:54+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 25704,
+          "bytes": 25191,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+31 -30"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Society/shuidaotou-waterworks.md",
@@ -81270,20 +81268,18 @@
         "fr": {
           "path": "fr/Society/shuidaotou-waterworks.md",
           "translatedFrom": "Society/水道頭.md",
-          "sourceCommitSha": "015d1a9c9",
-          "sourceContentHash": "sha256:d584a485050631e9",
-          "sourceBodyHash": "sha256:5fb85b385727325b",
-          "translatedAt": "2026-09-22T08:09:28+08:00",
+          "sourceCommitSha": "f775f9835c",
+          "sourceContentHash": "sha256:e5ee5e2296d7b18d",
+          "sourceBodyHash": "sha256:5131c3db231d9988",
+          "translatedAt": "2026-11-23T04:30:38+08:00",
           "translationLastCommit": "94ada449",
           "translationLastModified": "2026-09-22T11:26:56+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 29979,
+          "bytes": 27928,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+31 -30"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Society/shuidaotou-waterworks.md",
