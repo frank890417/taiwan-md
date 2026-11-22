@@ -1,23 +1,24 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-21T22:05:57.915Z",
-  "last_fetched": "2026-10-18T17:15:46Z",
+  "last_updated": "2026-11-22T17:15:55.092Z",
+  "last_fetched": "2026-11-22T17:15:55Z",
   "totals": {
-    "total_received_twd": 8800,
-    "transaction_count": 18,
-    "supporter_count": 14,
-    "monthly_subscriptions": 12,
+    "total_received_twd": 9300,
+    "transaction_count": 21,
+    "supporter_count": 15,
+    "monthly_subscriptions": 15,
     "one_time": 6,
-    "anonymous_ratio": 0.6111111111111112
+    "anonymous_ratio": 0.5714285714285714
   },
   "first_date": "2026-04-19",
-  "latest_date": "2026-10-16",
+  "latest_date": "2026-11-15",
   "by_month": {
     "2026-04": 2700,
     "2026-05": 700,
     "2026-06": 4000,
     "2026-07": 1000,
-    "2026-10": 400
+    "2026-10": 400,
+    "2026-11": 500
   },
   "timeline": [
     {
@@ -181,6 +182,33 @@
       "type": "monthly",
       "anonymous": false,
       "running_total": 8800
+    },
+    {
+      "date": "2026-11-11",
+      "timestamp": "2026-11-11T00:01:03Z",
+      "amount": 100,
+      "currency": "TWD",
+      "type": "monthly",
+      "anonymous": false,
+      "running_total": 8900
+    },
+    {
+      "date": "2026-11-13",
+      "timestamp": "2026-11-13T00:01:20Z",
+      "amount": 200,
+      "currency": "TWD",
+      "type": "monthly",
+      "anonymous": true,
+      "running_total": 9100
+    },
+    {
+      "date": "2026-11-15",
+      "timestamp": "2026-11-15T00:01:09Z",
+      "amount": 200,
+      "currency": "TWD",
+      "type": "monthly",
+      "anonymous": false,
+      "running_total": 9300
     }
   ]
 }

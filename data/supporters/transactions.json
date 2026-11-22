@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_fetched": "2026-10-18T17:15:46Z",
+  "last_fetched": "2026-11-22T17:15:55Z",
   "notes": "Layer 1 SSOT — append-only 流水帳，每筆 transaction 為基本單位。id = Portaly 支持編號（stable dedupe key）。Derived views 由 scripts/core/generate-supporters-data.js 從本檔聚合。禁止手動編輯 id / gmail_message_id。privacy：絕不存 email / 付款方式 / 信用卡資訊。",
   "transactions": [
     {
@@ -272,6 +272,51 @@
       "subscription_id": null,
       "status": "received",
       "gmail_message_id": "1a142033e672c69a"
+    },
+    {
+      "id": "70IvTnKl6hgUo1TjfRDx",
+      "source": "portaly",
+      "timestamp": "2026-11-11T00:01:03Z",
+      "date": "2026-11-11",
+      "name": "Anton Lee",
+      "anonymous": false,
+      "amount": 100,
+      "currency": "TWD",
+      "type": "monthly",
+      "message": "無",
+      "subscription_id": null,
+      "status": "received",
+      "gmail_message_id": "1a1c7e887fd3165e"
+    },
+    {
+      "id": "dKimimrKvQodrmd3iiJK",
+      "source": "portaly",
+      "timestamp": "2026-11-13T00:01:20Z",
+      "date": "2026-11-13",
+      "name": "匿名",
+      "anonymous": true,
+      "amount": 200,
+      "currency": "TWD",
+      "type": "monthly",
+      "message": "無",
+      "subscription_id": null,
+      "status": "received",
+      "gmail_message_id": "1a1d2358177ce49a"
+    },
+    {
+      "id": "Rwc3JADr45nS1LaFZ7ey",
+      "source": "portaly",
+      "timestamp": "2026-11-15T00:01:09Z",
+      "date": "2026-11-15",
+      "name": "沈宗杰",
+      "anonymous": false,
+      "amount": 200,
+      "currency": "TWD",
+      "type": "monthly",
+      "message": "無",
+      "subscription_id": null,
+      "status": "received",
+      "gmail_message_id": "1a1dc820b73e2267"
     }
   ]
 }

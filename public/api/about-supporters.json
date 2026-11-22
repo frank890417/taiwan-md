@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-21T22:05:57.917Z",
-  "last_fetched": "2026-10-18T17:15:46Z",
-  "supporter_count": 14,
+  "last_updated": "2026-11-22T17:15:55.093Z",
+  "last_fetched": "2026-11-22T17:15:55Z",
+  "supporter_count": 15,
   "tier_counts": {
     "canopy": 0,
     "grove": 3,
-    "sprout": 11
+    "sprout": 12
   },
   "tier_config": [
     {
@@ -36,8 +36,8 @@
       "display_name": "沈宗杰",
       "anonymous": false,
       "first_date": "2026-04-19",
-      "last_date": "2026-10-16",
-      "transaction_count": 5,
+      "last_date": "2026-11-15",
+      "transaction_count": 6,
       "active_monthly": true,
       "messages": [
         {
@@ -62,6 +62,11 @@
         },
         {
           "date": "2026-10-16",
+          "text": "無",
+          "type": "monthly"
+        },
+        {
+          "date": "2026-11-15",
           "text": "無",
           "type": "monthly"
         }
@@ -118,6 +123,53 @@
     {
       "display_name": "匿名支持者",
       "anonymous": true,
+      "first_date": "2026-11-13",
+      "last_date": "2026-11-13",
+      "transaction_count": 1,
+      "active_monthly": true,
+      "messages": [
+        {
+          "date": "2026-11-13",
+          "text": "無",
+          "type": "monthly"
+        }
+      ],
+      "tier": {
+        "id": "sprout",
+        "emoji": "🌱",
+        "label": "新芽",
+        "label_en": "Sprout"
+      }
+    },
+    {
+      "display_name": "Anton Lee",
+      "anonymous": false,
+      "first_date": "2026-07-14",
+      "last_date": "2026-11-11",
+      "transaction_count": 2,
+      "active_monthly": true,
+      "messages": [
+        {
+          "date": "2026-07-14",
+          "text": "用一點點的力氣讓自己生活島嶼被記憶",
+          "type": "monthly"
+        },
+        {
+          "date": "2026-11-11",
+          "text": "無",
+          "type": "monthly"
+        }
+      ],
+      "tier": {
+        "id": "sprout",
+        "emoji": "🌱",
+        "label": "新芽",
+        "label_en": "Sprout"
+      }
+    },
+    {
+      "display_name": "匿名支持者",
+      "anonymous": true,
       "first_date": "2026-10-14",
       "last_date": "2026-10-14",
       "transaction_count": 1,
@@ -147,27 +199,6 @@
         {
           "date": "2026-07-16",
           "text": "無",
-          "type": "monthly"
-        }
-      ],
-      "tier": {
-        "id": "sprout",
-        "emoji": "🌱",
-        "label": "新芽",
-        "label_en": "Sprout"
-      }
-    },
-    {
-      "display_name": "Anton Lee",
-      "anonymous": false,
-      "first_date": "2026-07-14",
-      "last_date": "2026-07-14",
-      "transaction_count": 1,
-      "active_monthly": true,
-      "messages": [
-        {
-          "date": "2026-07-14",
-          "text": "用一點點的力氣讓自己生活島嶼被記憶",
           "type": "monthly"
         }
       ],
