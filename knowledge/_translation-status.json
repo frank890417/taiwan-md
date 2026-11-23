@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-23T13:45:26+08:00",
-    "zhCommitHead": "188bd7aac4",
+    "lastUpdated": "2026-11-23T15:39:18+08:00",
+    "zhCommitHead": "2c00953351",
     "totalZh": 1194,
     "activeLanguages": [
       "en",
@@ -28,8 +28,8 @@
       },
       "ja": {
         "total_zh": 1194,
-        "fresh": 1187,
-        "stale": 5,
+        "fresh": 1188,
+        "stale": 4,
         "metadata_stale": 2,
         "missing": 0,
         "orphan": 0
@@ -76,26 +76,26 @@
       },
       "pt": {
         "total_zh": 1194,
-        "fresh": 1189,
+        "fresh": 1190,
         "stale": 3,
         "metadata_stale": 1,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1194,
-        "fresh": 1181,
-        "stale": 11,
+        "fresh": 1183,
+        "stale": 10,
         "metadata_stale": 1,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1194,
-        "fresh": 1188,
+        "fresh": 1189,
         "stale": 4,
         "metadata_stale": 1,
-        "missing": 1,
+        "missing": 0,
         "orphan": 0
       },
       "ru": {
@@ -108,8 +108,8 @@
       },
       "de": {
         "total_zh": 1194,
-        "fresh": 1160,
-        "stale": 26,
+        "fresh": 1161,
+        "stale": 25,
         "metadata_stale": 8,
         "missing": 0,
         "orphan": 0
@@ -2294,8 +2294,8 @@
           "sourceContentHash": "sha256:11a00f9eaecab146",
           "sourceBodyHash": "sha256:d2d458106329d932",
           "translatedAt": "2026-11-23T11:07:41+08:00",
-          "translationLastCommit": "935c3925",
-          "translationLastModified": "2026-11-19T02:42:34+08:00",
+          "translationLastCommit": "2c009533",
+          "translationLastModified": "2026-11-23T13:45:27+08:00",
           "inferred": false,
           "footnoteDefs": 1,
           "bytes": 32393,
@@ -2540,18 +2540,18 @@
         "de": {
           "path": "de/Music/indie-music-scene.md",
           "translatedFrom": "Music/台灣獨立音樂.md",
-          "sourceCommitSha": "b1a5fea0",
-          "sourceContentHash": "sha256:cd1df8dc4931d5ab",
-          "sourceBodyHash": "sha256:c54c3768ed377e41",
-          "translatedAt": "2026-09-23T08:41:09+08:00",
+          "sourceCommitSha": "b93c68757e",
+          "sourceContentHash": "sha256:88bdd9265e767c1e",
+          "sourceBodyHash": "sha256:b695b6de4e086708",
+          "translatedAt": "2026-11-23T11:07:44+08:00",
           "translationLastCommit": "07de0011",
           "translationLastModified": "2026-11-19T01:14:38+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 41418,
+          "footnoteDefs": 10,
+          "bytes": 42157,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (10→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -81214,20 +81214,18 @@
         "ja": {
           "path": "ja/Society/shuidaotou-waterworks.md",
           "translatedFrom": "Society/水道頭.md",
-          "sourceCommitSha": "015d1a9c9",
-          "sourceContentHash": "sha256:d584a485050631e9",
-          "sourceBodyHash": "sha256:5fb85b385727325b",
-          "translatedAt": "2026-09-22T14:22:23+08:00",
+          "sourceCommitSha": "f775f9835c",
+          "sourceContentHash": "sha256:e5ee5e2296d7b18d",
+          "sourceBodyHash": "sha256:5131c3db231d9988",
+          "translatedAt": "2026-11-23T14:30:37+08:00",
           "translationLastCommit": "86cc7c87",
           "translationLastModified": "2026-09-22T17:25:19+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 28908,
+          "bytes": 25416,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+31 -30"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Society/shuidaotou-waterworks.md",
@@ -124178,18 +124176,18 @@
         "hi": {
           "path": "hi/People/tgop.md",
           "translatedFrom": "People/這群人.md",
-          "sourceCommitSha": "e974b4c9e",
-          "sourceContentHash": "sha256:18c213bcb30e6393",
-          "sourceBodyHash": "sha256:8f9570ec5e03bedf",
-          "translatedAt": "2026-09-10T07:58:51+08:00",
+          "sourceCommitSha": "be13f04522",
+          "sourceContentHash": "sha256:8480ea87d83796bf",
+          "sourceBodyHash": "sha256:e0560a69303d3715",
+          "translatedAt": "2026-11-23T06:48:07.202580+00:00",
           "translationLastCommit": "8752e849",
           "translationLastModified": "2026-09-22T00:56:34+08:00",
           "inferred": false,
-          "footnoteDefs": 9,
-          "bytes": 51597,
+          "footnoteDefs": 56,
+          "bytes": 118000,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (56→9)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/tgop.md",
@@ -168841,13 +168839,52 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/aiyu.md",
+          "translatedFrom": "Food/愛玉.md",
+          "sourceCommitSha": "9d2957096d",
+          "sourceContentHash": "sha256:5f892d97eb093a4a",
+          "sourceBodyHash": "sha256:5fee3e8672eae145",
+          "translatedAt": "2026-11-23T14:30:42+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "bytes": 21640,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Food/aiyu.md",
+          "translatedFrom": "Food/愛玉.md",
+          "sourceCommitSha": "9d2957096d",
+          "sourceContentHash": "sha256:5f892d97eb093a4a",
+          "sourceBodyHash": "sha256:5fee3e8672eae145",
+          "translatedAt": "2026-11-23T14:30:43+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "bytes": 40948,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Food/aiyu.md",
+          "translatedFrom": "Food/愛玉.md",
+          "sourceCommitSha": "9d2957096d",
+          "sourceContentHash": "sha256:5f892d97eb093a4a",
+          "sourceBodyHash": "sha256:5fee3e8672eae145",
+          "translatedAt": "2026-11-23T14:30:44+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "bytes": 27849,
+          "armorResidue": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Food/aiyu.md",
