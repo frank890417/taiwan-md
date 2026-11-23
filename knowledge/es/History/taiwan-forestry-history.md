@@ -1,16 +1,16 @@
 ---
-title: 'Historia de la explotación forestal en Taiwán: un giro secular de la extracción de recursos a la seguridad territorial'
-description: 'Desde el humo del alcanfor durante el dominio Qing y el estruendo de los raíles en la era colonial japonesa, hasta la era de la gran tala que sacudió los valles tras la guerra. Este artículo analiza la lógica geopolítica global detrás de las políticas forestales de Taiwán y clarifica la verdadera historia de un siglo de silvicultura mediante datos.'
+title: 'Historia del desarrollo forestal de Taiwán: el giro centenario de la extracción de recursos a la seguridad territorial'
+description: 'Desde la niebla de alcanfor de la época Qing, hasta el rugido de los rieles de la era colonial japonesa, y la era de la gran tala que estremeció montañas y valles en la posguerra. Este artículo analiza la lógica geopolítica global detrás de las políticas de desarrollo forestal de Taiwán y aclara la verdad real de un siglo de silvicultura mediante datos.'
 date: 2026-03-25
 category: 'History'
 tags:
   [
-    'política forestal',
+    'Política forestal',
     'ferrocarril forestal',
-    'gestión forestal para el desarrollo político',
+    'política de sostener la política con bosques',
     'alcanfor',
     'política de prohibición de tala',
-    'historia mundial',
+    'visión de historia mundial',
     'geopolítica',
   ]
 subcategory: '殖民與帝國'
@@ -21,103 +21,107 @@ lastHumanReview: false
 readingTime: 15
 curation: 'incubating'
 translatedFrom: 'History/台灣森林開發史.md'
-sourceCommitSha: '69b3afd91'
-sourceContentHash: 'sha256:8069998f1aa354c8'
-sourceBodyHash: 'sha256:55bbc4efed5f30a9'
-translatedAt: '2026-08-04T16:32:38+08:00'
+sourceCommitSha: '9d2957096d'
+sourceContentHash: 'sha256:ed8b698bf0896e42'
+sourceBodyHash: 'sha256:909c299bc2ff5f8b'
+translatedAt: '2026-11-23T08:46:40+08:00'
 ---
 
-> ¿Quién se llevó nuestros valiosos bosques? La respuesta podría ser distinta a lo que imaginas.
-
----
-
-## Final del periodo Qing: la mecha de la Revolución Industrial y el monopolio del alcanfor
-
-La explotación moderna de la silvicultura en Taiwán no comenzó por la sed de madera, sino por el monopolio del «alcanfor».
-
-### La industria global del celuloide y la pacificación de las montañas
-
-A mediados del siglo XIX, Occidente atravesaba la Segunda Revolución Industrial. La invención del **celuloide** (una materia prima plástica temprana) y de la **pólvora sin humo** convirtió al alcanfor en un recurso estratégico. En aquel entonces, Taiwán suministraba aproximadamente el 70% del alcanfor mundial.
-
-- **Lógica política**: Para fortalecer el tesoro estatal, la corte Qing promovió la política de «abrir las montañas y pacificar a los aborígenes» (_kaishan fufan_). Bajo la apariencia de una labor de civilización, el objetivo real era penetrar en las zonas montañosas para establecer hornos de destilación de alcanfor (_naozhao_).
-- **Evidencia histórica mundial**: Esto coincidía con el colonialismo de recursos que las potencias de la época ejercían sobre materias primas especiales a nivel global.
-- **Impacto profundo**: La explotación forestal de este periodo fue de tipo «extractivo», lo que provocó la tala total de los bosques de cedro en las montañas bajas y rompió las fronteras ecológicas de los pueblos indígenas, causando conflictos étnicos que duraron un siglo.
+> ¿Quién se llevó nuestros preciosos bosques? La respuesta puede ser distinta a lo que imaginas.
 
 ---
 
-## Periodo de dominio japonés: modernización imperial y la civilización del raíl de acero
+## Finales de la época Qing: el detonante de la Revolución Industrial y el monopolio del alcanfor
 
-En 1895, tras la ocupación japonesa de Taiwán, la política forestal pasó de una «explotación periférica» a un «sistema estatal organizado».
+El desarrollo forestal moderno de Taiwán no comenzó por la ansia de madera, sino por el monopolio del «alcanfor».
 
-### Estrategia imperial y los tres grandes bosques estatales
+### La industria global del celuloide y la «apertura de montañas para pacificar aborígenes»
 
-La construcción modernizadora de Japón tras la Restauración Meiji requería grandes cantidades de madera de alta calidad; los bosques de ciprés en las profundidades de Taiwán eran, a ojos del Imperio, el material de infraestructura ideal.
+A mediados del siglo XIX, Occidente atravesaba la Segunda Revolución Industrial. La invención del **celuloide (Celluloid)** (materia prima de los primeros plásticos) y de la **pólvora sin humo** convirtió al alcanfor en un recurso estratégico. En aquel entonces, Taiwán proveía aproximadamente el 70 % del alcanfor mundial.
 
-- **Inferencia técnica**: El gobierno japonés invirtió enormes sumas en construir los tres grandes ferrocarriles forestales de **Alishan**, **Taipingshan** y **Baxianshan** porque consideraba a Taiwán como un territorio permanente y buscaba una «gestión a largo plazo».
-- **Detalles técnicos del ferrocarril**: Se introdujeron las locomotoras estadounidenses tipo **Shay** (de engranajes de cono), cuya tecnología de cilindros verticales y transmisión por engranajes permitía superar las pendientes extremas y el terreno fragmentado de las montañas taiwanesas.
-- **Perspectiva histórica mundial**: Esto refleja la ambición del Imperio del Japón a principios del siglo XX de imitar a las potencias occidentales mediante la creación de una «silvicultura imperial», utilizando el ciprés de Taiwán para construir santuarios (como el Santuario Meiji) y buques de guerra, simbolizando la legitimidad y el poder del régimen.
+- **Lógica de la política**: Para engrosar el tesoro imperial, la corte Qing impulsó la «apertura de montañas para pacificar aborígenes» (開山撫番), que en la superficie era una labor civilizadora, pero en la práctica servía para adentrarse en la montaña y establecer «hornos de alcanfor» (腦灶).
+- **Corroboración desde la historia mundial**: Esto coincidió con el colonialismo de recursos (Resource Colonialism) mediante el cual las potencias saqueaban cultivos especiales en todo el orbe.
+- **Impacto profundo**: La explotación forestal de este período fue de tipo «depredador», lo que llevó a la tala total de los bosques de alcanfor en las montañas bajas, y rompió al mismo tiempo las fronteras ecológicas de los pueblos originarios de la montaña, generando conflictos étnicos que durarían un siglo.
 
 ---
 
-## Transformación de posguerra: la isla de la Guerra Fría y la «gestión forestal para el desarrollo político»
+## Época colonial japonesa: modernización imperial y civilización del acero
 
-Tras 1945, hubo un cambio de régimen. La situación que enfrentaba el gobierno nacionalista era completamente distinta a la de la era japonesa, lo que provocó un giro drástico en el destino de los bosques.
+En 1895, tras recibir Taiwán, Japón transformó la política forestal: de «saqueo fronterizo» a «sistematización de gestión oficial».
 
-### El fin de la ayuda estadounidense y la urgencia de supervivencia
+### Estrategia imperial y tres grandes bosques oficiales
 
-Entre las décadas de 1950 y 1960, Taiwán se situó en la primera línea de defensa de la Guerra Fría. Con el cese de la ayuda estadounidense en 1965, el régimen necesitaba urgentemente generar sus propios recursos para mantener un enorme gasto militar.
+La modernización posterior a la Restauración Meiji exigía ingentes cantidades de madera de alta calidad, y los bosques de ciprés (檜木) de la alta montaña taiwanesa eran, a ojos del imperio, el mejor material para infraestructura.
 
-- **Motivación política**: Se promovió una política industrial de «fomento de la industria y la agricultura mediante la silvicultura» (Yao He-nian, 1993), tratando al bosque como un «cajero automático verde». En este momento, los recursos forestales eran mercancías para obtener divisas en dólares.
-  - En 1956, se expandió la explotación a trece zonas forestales bajo la política de «tres multiplicaciones»: más plantación, más tala y más recaudación fiscal (Jiao Guo-mo, 1993).
-  - En 1958, se publicaron las directrices de gestión forestal de Taiwán, ordenando que, salvo para fines de investigación, observación o paisajismo, los cipreses debían ser renovados en un plazo de 80 años y el resto en 4 de 40 años, transformando gradualmente los bosques naturales en plantaciones artificiales (Yao He-nian, 1993).
-- **Giro técnico: la revolución de los caminos forestales**: Para maximizar los beneficios, el gobierno abandonó los costosos ferrocarriles y adoptó el altamente destructivo **«sistema de caminos forestales»**. Los camiones pesados penetraron directamente en las montañas; esto no solo permitió una velocidad de tala asombrosa, sino que el corte inadecuado de las carreteras generó graves riesgos de deslizamientos de tierra para las generaciones posteriores.
+- **Inferencia técnica**: El gobierno japonés estuvo dispuesto a invertir capitales ingentes en la construcción de los **tres grandes ferrocarriles forestales de Alishan, Taipingshan y Basianshan**, porque consideraba Taiwán un territorio permanente y buscaba una «gestión a largo plazo».
+- **Detalles técnicos del ferrocarril forestal**: Se introdujeron las locomotoras **Shay de engranajes cónicos** estadounidenses, cuyos cilindros verticales y transmisión por engranajes cónicos estaban diseñados para vencer las pendientes extremas y el terreno fragmentado de las cordilleras taiwanesas.
+- **Perspectiva de historia mundial**: Esto reflejaba la ambición del Imperio japonés a principios del siglo XX de imitar a las potencias occidentales estableciendo una «silvicultura imperial», usando el ciprés taiwanés para construir santuarios sintoístas (como el Meiji Jingū) y buques de guerra, simbolizando la legitimidad y el poder del régimen.
+
+---
+
+## Transformación de posguerra: isla aislada de la Guerra Fría y «sostener la política con bosques»
+
+Tras 1945, el cambio de régimen trajo una coyuntura totalmente distinta a la época colonial, lo que provocó un giro dramático en el destino de los bosques.
+
+### Cese de la ayuda estadounidense y urgencia de supervivencia
+
+Entre los años 1950 y 1960, Taiwán fue empujado a la primera línea del frente de la Guerra Fría. Con el fin de la ayuda estadounidense en 1965, el régimen necesitó urgentemente autofinanciarse para sostener su enorme gasto militar.
+
+- **Motivación de la política**: Se impulsó la política industrial de «usar la agricultura y la silvicultura para fomentar la industria y el comercio» (Yao He-nien, 1993), tratando al bosque como un «cajero automático verde». En ese momento, el recurso forestal era una mercancía para obtener divisas en dólares.
+  - En 1956 se amplió el desarrollo a trece distritos forestales aplicando la «política forestal de las tres multiplicidades»: «más reforestación, más tala, más ingresos al erario» (Chiao Kuo-mo, 1993).
+  - En 1958 se publicó la Directriz de Gestión Forestal de Taiwán, ordenando que, salvo los bosques reservados para investigación, observación o paisaje, los de ciprés tuvieran un plazo de liquidación de 80 años y los demás de 40 años, para convertirlos por etapas en plantaciones artificiales (Yao He-nien, 1993).
+- **Giro técnico: revolución de los caminos forestales**: Para maximizar el beneficio, el gobierno abandonó los costosos ferrocarriles y adoptó el **«sistema de caminos forestales»** (Forest Road), de impacto destructivo enorme. Los camiones pesados entraban directo a la montaña; no solo la velocidad de tala era asombrosa, sino que el corte inadecuado de las vías dejó como herencia graves riesgos de deslaves para las generaciones futuras.
 
 ### Comparación de datos históricos
 
-- **Análisis de datos**: Según las estadísticas de Yao He-nian (1993), entre 1912 y 1945, los tres grandes bosques estatales japoneses (Alishan, Baxianshan y Taipingshan) talaron un área total de aproximadamente 18,432 hectáreas, con un volumen de madera de unos 6.63 millones de metros cúbicos. Cabe aclarar que esta cifra solo cubre los bosques estatales y no incluye a los operadores privados de la época, por lo que el volumen total real debería ser superior. En el periodo de posguerra (1946-1990), el volumen talado alcanzó los 44,567,000 metros cúbicos en más de 344,000 hectáreas, aproximadamente 6.7 veces la cifra de la era japonesa (Peng Kuo-tung, 1989; Oficina Forestal, 1991; citado en Lin Kuo-chuan, 1993).
-- **Diferencias de interpretación**: En 1972, el año del pico de tala, las crónicas de la Oficina Forestal (1997) registran 1.8 millones de metros cúbicos, mientras que Jiao Guo-mo (1993) estima más de 2 millones. Esto indica que la historia forestal de la era de la gran tala aún requiere mayor apertura de fuentes y aclaración académica (Li Gen-zheng, 2016). Sin embargo, todas las fuentes apuntan a la misma narrativa.
-- **Inferencia de la época**: Esto refleja una estrategia de desgaste a corto plazo, viendo a Taiwán como un lugar de residencia temporal bajo la mentalidad de «reconquista del continente», en lugar de una planificación territorial a largo plazo. No obstante, la «gestión» desde la perspectiva histórica del gobierno nacionalista transformó una extracción de recursos a mayor escala, menor coste y menor sostenibilidad, en una epopeya nacional sobre la «supervivía» y el «desarrollo».
+- **Análisis de datos**: Según las estadísticas de Yao He-nien (1993), los tres grandes bosques oficiales coloniales (Alishan, Basianshan, Taipingshan) talaron entre 1912 y 1945 una superficie total de unas 18 432 hectáreas y un volumen de unos 6,63 millones de m³. Cabe precisar que esta cifra solo cubre los bosques oficiales, sin incluir a los taladores privados de la misma época, por lo que el volumen real de tala debió ser superior. Entre 1946 y 1990, el volumen talado alcanzó 44,567 millones de m³ y la superficie superó las 344 000 hectáreas, aproximadamente 6,7 veces la cifra de los bosques oficiales coloniales (Peng Kuo-tung, 1989; Buró Forestal, 1991; citados en Lin Kuo-chuan, 1993).
+- **Diferencias de interpretación**: En el pico maderero de 1972, los Anales del Buró Forestal (1997) registran 1,8 millones de m³, mientras que Chiao Kuo-mo (1993) estima más de 2 millones de m³. Ello muestra que la historia forestal de la era de la gran tala aún espera mayor apertura de archivos y clarificación académica (Li Ken-cheng, 2016)[^1]. No obstante, todas las fuentes apuntan a la misma narrativa.[^2]
+- **Inferencia de época**: Esto refleja que, bajo la mentalidad de «recuperar el continente», el régimen trató a Taiwán como morada temporal, aplicando una estrategia de desgaste a corto plazo en lugar de una planificación territorial de largo plazo. Pero la «gestión» de la historiografía del gobierno nacionalista consistió en transformar una extracción de recursos de mayor escala, menor costo y carente de consideración sostenible, en una epopeya nacional sobre la «supervivencia» y el «desarrollo».
 
-### La construcción de una dicotomía
+### Una dicotomía construida
 
-En las décadas pasadas de educación y propaganda, el gobierno nacionalista logró establecer una fórmula de oposición:
+Durante décadas de educación y propaganda, el gobierno nacionalista logró instalar una fórmula dicotómica:
 
-- **Periodo japonés = Explotación**: Se definió el desarrollo japonés como «el saqueo de los recursos de la colonia para servir a la metrópoli», enfatizando que los árboles sagrados de Alishan fueron talados para construir el Santuario Meiji, reforzando el sentimiento de víctima. El uso del ferrocarril forestal dejó rastros fijos y visibles; los tocones de «árboles sagrados» que vemos hoy en Alishan son, en su mayoría, restos de la tala de la era japonesa. Estos legados permanecen como recordatorios constantes de aquella explotación.
-- **Periodo de posguerra = Construcción**: Se presentó la gran tala bajo un ideal nacionalista de «reconstrucción de la base», «desarrollo económico» y «asentamiento de veteranos». Además, el gobierno vinculó estrechamente la explotación forestal con la apertura de la **Carretera Trans-montañosa Este (Zhongheng)**, creando una narrativa heroica de la época. El desarrollo de posguerra introdujo el sistema estadounidense de **«caminos forestales»** (_Forest Road_), utilizando camiones pesados para penetrar en las montañas. Estos caminos se construían rápido y a bajo coste, pero a menudo desaparecían o se cerraban tras la tala debido a los derrumbes.
+- Época colonial japonesa = saqueo: se definió el desarrollo japonés como «apropiación de recursos coloniales para la metrópoli», enfatizando que el árbol sagrado de Alishan fue talado para construir el Meiji Jingū, reforzando la emoción de víctima. La época colonial dependía del ferrocarril forestal, cuyo trazado fijo y visible deja hoy en Alishan los «tocones de árboles sagrados» residuales, mayoritariamente restos de la tala colonial. Esos vestigios recuerdan constantemente el desarrollo de aquel entonces.
+- Posguerra = construcción: la gran tala se empaquetó bajo las grandes causas étnicas de «base de reconquista», «desarrollo económico» y «reubicación de veteranos». Además, el gobierno vinculó estrechamente el desarrollo forestal con la apertura de la **Carretera Transversal Central (中橫)**, creando un relato heroico de la época. La posguerra introdujo el **«sistema de caminos forestales» (Forest Road)** de estilo estadounidense, usando camiones pesados para penetrar la montaña. Los caminos se abrían rápido, a bajo costo, y a menudo colapsaban o se cerraban tras la tala.
 
-**Punto de error**: Esto causó que el público ignorara la continuidad en la gestión forestal. De hecho, en los inicios de la posguerra, la Oficina Forestal heredó casi por completo el sistema y la técnica de los bosques estatales de la era japonesa, pero su intensidad de ejecución superó con creces a la anterior.
-
----
-
-## Transformación secular: del «conquista» a la «reconciliación»
-
-A partir de la década de 1980, la conciencia ambiental despertó globalmente, y Taiwán experimentó movimientos civiles como el de «salvaguardar los bosques de árboles sagrados de Qilan».
-
-- **Prohibición total de la tala en 1991**: Este fue el punto de inflexión en la historia forestal de Taiwación. El gobierno anunció oficialmente la prohibición total de la tala de bosques naturales, cambiando la política de gestión de «extracción económica» a «seguridad territorial».
-- **Contexto de Asia Oriental**: Esto coincide con la tendencia de otros países de Asia Oriental (como China y Tailandia) en la década de 1990, que implementaron prohibiciones de tala tras sufrir inundaciones masivas.
-- **Impacto para el futuro**: La prohibición provocó que la tasa de autosuficiencia de madera en Taiwán cayera por debajo del 1%, haciendo que la industria dependiera extremadamente de las importaciones. Esto ha impulsado una reflexión contemporánea sobre el equilibrio entre el «uso de bosques privados» y la «explotación sostenible de madera nacional».
+**Punto engañoso**: Esto ha hecho que el público ignore la continuidad de la gestión forestal. De hecho, el Buró Forestal de posguerra heredó casi intacto el sistema de bosques oficiales y la tecnología colonial, pero la intensidad de ejecución superó con creces a la anterior.
 
 ---
 
-## Resumen: La trayectoria de la explotación forestal
+## Giro centenario: de la «conquista» a la «reconciliación»
 
-Al observar la línea de tiempo completa, los bosques de Taiwán han experimentado tres desplazamientos en su definición de valor:
+Desde los años 1980, la conciencia ambiental despertó globalmente y Taiwán vivió movimientos cívicos como el de «salvar el grupo de árboles sagrados de Chilan».
 
-- **Antes del siglo XIX**: El bosque era «naturaleza salvaje», un obstáculo para el cultivo.
-- **Principios y mediados del siglo XX**: El bosque era un «activo», una moneda de cambio por poder nacional y divisas.
-- **Siglo XXI**: El bosque es un «hogar», una barrera de resiliencia frente al clima extremo.
-
-Las políticas forestales de estos trescientos años son, en esencia, la evolución de la definición humana del «valor natural». Al caminar hoy por Alishan, no deberíamos ver solo paisajes hermosos, sino también las profundas huellas grabadas en los anillos de los árboles sobre la geopolítica global y la lucha por la supervivencia.
+- **1991: prohibición total de tala**: Hito divisor de la historia forestal taiwanesa. El gobierno anunció la prohibición total de talar bosque natural, virando la directriz de «extracción económica» a «seguridad territorial».
+- **Corroboración en el contexto de Asia Oriental**: Coincidió con la tendencia de los años 1990 en varios países de Asia Oriental (como China y Tailandia) de decretar vetas tras sufrir grandes inundaciones.
+- **Consecuencias posteriores**: La veda redujo la autosuficiencia maderera de Taiwán por debajo del 1 %, volviendo a la industria extremadamente dependiente de importaciones. Esto impulsa hoy la búsqueda de un equilibrio entre el «aprovechamiento de bosques privados» y el «desarrollo sostenible de madera nacional».
 
 ---
 
-## Referencias
+## Resumen: la trayectoria temporal del desarrollo forestal
 
-- Li Gen-zheng, 2016, 〈¿Cuántos árboles se talaron realmente durante la era de la gran tala en Taiwán?〉, incluido en el sitio web de Qifeng Lake, Monte Dayuan. 20 de julio de 2016. URL: http://www.taiwanland.tw/06Dah-yuan/discussion/word27.html
-- Oficina Forestal de la Provincia de Taiwán, 1997, _Crónicas de la Oficina Forestal de la Provincia de Taiwán_. Taipéi: Oficina Forestal de la Provincia de Taiwán.
-- Agencias de Noticias Agrícolas, 2019, 〈Escuchando el origen del bosque, revelando la belleza y la tragedia de la era de la gran tala en Taiwán〉, https://www.agriharvest.tw/archives/8214/.
-- Yao He-nian, 1993, 〈La silvicultura durante el periodo de ocupación japonesa〉, pp. 9–30; 〈La silvicultura tras la recuperación nacional〉, pp. 31–64, incluido en _Crónicas de los Bosques de Taiwán, República de China_, editado por el Comité de Compilación de las Crónicas Forestales de Taiwán, República de China. Taipéi: Sociedad de Ciencias Forestales de la República de China.
-- Jiao Guo-mo, 1993, 〈Política forestal〉, pp. 175–193, incluido en _Crónicas de los Bosques de Taiwán, República de China_. Taipéi: Sociedad de Ciencias Forestales de la República de China.
-- Lin Kuo-chuan, 1993, 〈Pasado y presente de los recursos forestales〉, pp. 1–29, incluido en _Gestión Sostenible de los Recursos Forestales_, editado por Xia Yu-jiu, Wang Li-zhi y Jin Heng-biao. Taipéi: Instituto de Experimentación Forestal de la Provincia de Taiwán.
-- Peng Kuo-tung, 1989, 〈Problemas ecológicos que enfrenta la gestión forestal en Taiwán〉, ponencia presentada en «Gestión forestal bajo problemas ecológicos». Taipéi: Instituto de Experimentación Forestal.
-- Oficina Forestal, 1991, _Estadísticas Forestales de la Provincia de Taiwán_. Taipéi: Oficina Forestal.
+Visto en el eje temporal completo, el bosque taiwanés ha sufrido tres desplazamientos en su definición de valor:
+
+- **Antes del siglo XIX**: el bosque era «tierra baldía», obstáculo para la colonización agrícola.
+- **Principios a mediados del siglo XX**: el bosque era «activo», ficha de cambio para obtener poder nacional y dólares.
+- **Siglo XXI**: el bosque es «hogar», barrera de resiliencia que amortigua el clima extremo.
+
+Estos tres siglos de política forestal son, en esencia, la historia del cambio en la definición humana del «valor de la naturaleza». Cuando hoy entramos en Alishan, no deberíamos ver solo paisaje, sino también esas huellas profundas grabadas en los anillos de crecimiento, sobre la geopolítica global y la lucha por la supervivencia.
+
+---
+
+## Referencias bibliográficas
+
+- Li Ken-cheng, 2016, «La era de la gran tala en Taiwán, ¿cuántos árboles se talaron realmente?», publicado en el sitio web Dayuan Shan Cuifeng Hu. 20 de julio de 2016.[^1]
+- Buró Forestal de la Provincia de Taiwán, 1997, _Anales del Buró Forestal de la Provincia de Taiwán_. Taipéi: Buró Forestal de la Provincia de Taiwán.
+- Agri Media, 2019, «Escuchar la historia del bosque, desvelar la belleza y la desolación de la era de la gran tala en Taiwán».[^2]
+- Yao He-nien, 1993, «Silvicultura durante la ocupación japonesa», pp. 9–30; «Silvicultura en los primeros años de la recuperación», pp. 31–64, en Comité Editorial de la Historia Forestal de Taiwán de la República de China (ed.), _Historia Forestal de Taiwán de la República de China_. Taipéi: Sociedad Forestal China.
+- Chiao Kuo-mo, 1993, «Política forestal», pp. 175–193, en _Historia Forestal de Taiwán de la República de China_. Taipéi: Sociedad Forestal China.
+- Lin Kuo-chuan, 1993, «Pasado y presente de los recursos forestales», pp. 1–29, en Hsia Yu-chiu, Wang Li-chih, Chin Heng-piao (eds.), _Gestión sostenible de recursos forestales_. Taipéi: Estación Experimental Forestal de la Provincia de Taiwán.
+- Peng Kuo-tung, 1989, «Problemas ecológicos que enfrenta la gestión forestal en Taiwán», ponencia presentada en «Gestión forestal bajo problemas ecológicos». Taipéi: Estación Experimental Forestal.
+- Buró Forestal, 1991, _Estadísticas Forestales de la Provincia de Taiwán_. Taipéi: Buró Forestal.
+
+[^1]: [La era de la gran tala en Taiwán, ¿cuántos árboles se talaron realmente? - Sitio web Dayuan Shan Cuifeng Hu](http://www.taiwanland.tw/06Dah-yuan/discussion/word27.html) - Artículo de Li Ken-cheng de 2016, publicado en el sitio web Dayuan Shan Cuifeng Hu, examina la escala de tala en la era de posguerra en Taiwán
+
+[^2]: [Escuchar la historia del bosque, desvelar la belleza y la desolación de la era de la gran tala en Taiwán - Agri Media](https://www.agriharvest.tw/archives/8214/) - Reportaje especial de Agri Media de 2019, repasa la historia forestal y la desolación de la era de la gran tala en Taiwán
