@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-24T05:37:51+08:00",
-    "zhCommitHead": "5b150e9743",
+    "lastUpdated": "2026-11-24T07:56:25+08:00",
+    "zhCommitHead": "f22b1a9ee8",
     "totalZh": 1194,
     "activeLanguages": [
       "en",
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1194,
-        "fresh": 1182,
-        "stale": 11,
+        "fresh": 1183,
+        "stale": 10,
         "metadata_stale": 0,
         "missing": 1,
         "orphan": 0
@@ -41882,20 +41882,18 @@
         "vi": {
           "path": "vi/Art/no-mans-land-art-platform.md",
           "translatedFrom": "Art/數位荒原.md",
-          "sourceCommitSha": "a74c440b3",
-          "sourceContentHash": "sha256:f8ec8d5fb97942ca",
-          "sourceBodyHash": "sha256:7bfa784449cb0cb6",
-          "translatedAt": "2026-07-25T15:19:33+08:00",
+          "sourceCommitSha": "be13f04522",
+          "sourceContentHash": "sha256:0b0677a39358cf6e",
+          "sourceBodyHash": "sha256:34138e3612701ce3",
+          "translatedAt": "2026-11-24T05:43:29+08:00",
           "translationLastCommit": "a3ec9a54",
           "translationLastModified": "2026-10-10T23:43:08+08:00",
           "inferred": false,
           "footnoteDefs": 26,
-          "bytes": 52950,
+          "bytes": 57162,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Art/no-mans-land-art-platform.md",
@@ -55114,8 +55112,8 @@
           "sourceContentHash": "sha256:592d319a9839fc8f",
           "sourceBodyHash": "sha256:dc4852cc6c6703f8",
           "translatedAt": "2026-11-23T19:28:11.099637+00:00",
-          "translationLastCommit": "77172bdf",
-          "translationLastModified": "2026-10-10T23:15:27+08:00",
+          "translationLastCommit": "576d9e62",
+          "translationLastModified": "2026-11-24T05:37:51+08:00",
           "inferred": false,
           "footnoteDefs": 43,
           "bytes": 71151,
