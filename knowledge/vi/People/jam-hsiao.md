@@ -1,16 +1,16 @@
 ---
-title: 'Tiêu Kính Đằng'
-description: '17 tuổi bắt đầu hát thường trực tại nhà hàng dân ca, năm 2007 nhờ phần thi thách đấu của "Siêu sao sao đường" (超級星光大道) mà bùng nổ, 2008 phát hành album đầu tay. Năm 2013 giành Giải nhạc vàng (金曲獎) Nam ca sĩ tiếng Quốc ngữ xuất sắc nhất với "Dân yêu chi danh" (以愛之名), sau đó phát triển trên ban nhạc, điện ảnh và sân khấu hai bờ.'
+title: 'Tiêu Kính Đằng (Jam Hsiao)'
+description: 'Bắt đầu hát tại các phòng trà từ năm 17 tuổi, trở nên nổi tiếng nhờ chương trình "Super Star Avenue" năm 2007 và phát hành album đầu tay vào năm 2008. Năm 2013, anh giành giải Nam ca sĩ nhạc Phổ thông xuất sắc nhất tại Giải Kim Khúc.'
 date: 2026-03-23
 category: 'People'
 tags:
   [
     'Âm nhạc',
-    'Nhạc phổ thông',
-    'Jazz',
-    'Siêu sao sao đường',
-    'Giải nhạc vàng',
-    'Thần mưa',
+    'Nhạc Pop',
+    'Nhạc Jazz',
+    'Super Star Avenue',
+    'Giải Kim Khúc',
+    'Vũ Thần',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
@@ -20,45 +20,45 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/蕭敬騰.md'
-sourceCommitSha: 'be13f045'
-sourceContentHash: 'sha256:34eda1e3ae5a437e'
-sourceBodyHash: 'sha256:2d407dbe15a09820'
-translatedAt: '2026-10-24T02:59:39+08:00'
+sourceCommitSha: 'b93c68757e'
+sourceContentHash: 'sha256:355b524dbf4c0a8b'
+sourceBodyHash: 'sha256:ece7571131b43018'
+translatedAt: '2026-11-23T10:50:20+08:00'
 ---
 
-> **Tóm tắt 30 giây:** Tiêu Kính Đằng sinh năm 1987 tại Hoa Liên, 17 tuổi bắt đầu hát thường trực tại nhà hàng dân ca, năm 2007 nhờ phần thi thách đấu của "Siêu sao sao đường" mà bùng nổ, năm sau ký hợp đồng với hãng Warner Records phát hành album đầu tay. Năm 2013 anh giành Giải nhạc vàng Nam ca sĩ tiếng Quốc ngữ xuất sắc nhất nhờ "Dân yêu chi danh", sau đó thành lập ban nhạc, đóng phim, làm huấn luyện viên chương trình, và thường xuyên tổ chức turné diễn唱會 (巡迴演唱會) tại hai bờ.
+> **Tóm tắt trong 30 giây:** Tiêu Kính Đằng (Jam Hsiao) sinh năm 1987 tại Hoa Liên, bắt đầu hát tại các phòng trà dân ca từ năm 17 tuổi. Anh trở nên nổi tiếng nhờ chuyên mục "Thách đấu" trong chương trình "Super Star Avenue" vào năm 2007, và ký hợp đồng với Warner Music để phát hành album đầu tay vào năm sau đó. Năm 2013, anh giành giải Nam ca sĩ nhạc Phổ thông xuất sắc nhất tại Giải Kim Khúc với ca khúc "Nhân danh tình yêu" (以愛之名). Sau đó, anh tiếp tục phát triển sự nghiệp với ban nhạc, điện ảnh, làm giám khảo truyền hình và tổ chức nhiều chuyến lưu diễn xuyên eo biển.
 
 ## Niên biểu
 
-- **1987**: 30 tháng 3 sinh tại xã Phong Bình, huyện Hoa Liên, lai người Hán và người A-mei (阿美族).
-- **Thành trưởng và học vấn**: Học trường tiểu học Đại Lý (大理國小), trung học cơ sở Song Viên (雙園國中), trung học phổ thông Hổ Giang khoa Thiết kế không gian nội thất (滬江高中室內空間設計科), sau đó học viện Kỹ thuật Sáng tạo Á-Đài (亞太創意技術學院) khoa Ứng dụng và Quản lý mỹ phẩm, Đại học Công nghệ Vạn Néng (萬能科技大學) khoa Quản lý Du lịch và Nghỉ dưỡng.
-- **Khởi đầu âm nhạc**: 15 tuổi bắt đầu học trống jazz, 16 tuổi dạy trẻ em đánh trống tại phòng nhạc, và thành lập ban nhạc với bạn bè. 17 tuổi bắt đầu hát thường trực tại nhà hàng dân ca, đến tháng 7 năm 2007 mới kết thúc.
-- **2007**: Tham gia phần thi thách đấu của "Siêu sao sao đường" bùng nổ. Tháng 8 hợp ca "Nhìn nhau một thoáng" (一眼瞬間) với Trương Huyệ Mị (張惠妹).
-- **2008**: Tháng 3 ký hợp đồng với Warner Records, phát hành album đầu tay "Tiêu Kính Đằng đồng tên chuyên輯" (蕭敬騰同名專輯), nhập圍 Giải nhạc vàng lần thứ 20 hạng mục Tân nhân xuất sắc nhất.
-- **2009**: Phát hành "Nữ vương" (王妃) và album cover "Tự tuyển khắc yêu" (愛的時刻自選輯). Tổ chức buổi diễn bán vé đầu tiên "Ông Lốc Mr. Rock" tại Nhà thi đấu nhỏ Đài Bắc (台北小巨蛋).
-- **2011**: Phát hành "Cuồng tưởng khúc" (狂想曲). Diễn chính phim "Killer Ô Dương Bồn Cây" (殺手歐陽盆栽), năm sau giành Giải hình ảnh vàng Hồng Kông (香港電影金像獎) Tân diễn viên xuất sắc nhất.
-- **2012**: Phát hành album cover toàn tiếng Anh "Mr. Jazz A Song For You" và "Dân yêu chi danh" (以愛之名).
-- **2013**: Nhờ "Dân yêu chi danh" giành Giải nhạc vàng lần thứ 24 Nam ca sĩ tiếng Quốc ngữ xuất sắc nhất. Năm 2013–2015 làm huấn luyện viên mùa 1–3 của "Hòa thanh đẹp nhất" (最美和聲). Từ 2011–2013 turnê "Có một tinh thần gọi là Tiêu Kính Đằng" (有一種精神叫蕭敬騰) khắp thế giới 27 suất.
-- **2014–2015**: Tuần "TRIPLE JAM" khắp thế giới 18 suất. Phát hành album "The Song" và album cover "Reminiscence".
-- **2016–2019**: Cùng ban nhạc Sư tử LION phát hành "LION" (2016), "Replay" (2017), "Mỹ lệ, xấu xí và tôi" (美麗、醜與我，2019). "LION" nhập圍 Giải nhạc vàng lần thứ 28 hạng mục Ban nhạc xuất sắc nhất. Năm 2017 tham gia "Ca sĩ 2017" (歌手2017).
-- **2018–2019**: Phát hành "Dục vọng phản quang" (欲望反光), tuần "Ông giải trí" (娛樂先生) khắp thế giới 19 suất.
-- **2021–2023**: Phát hành "Phòng cách ly 2827" (隔離套房2827，2021) và "Dã sinh" (野生，2023). Giữa 2021–2024 nhiều lần phát biểu liên quan đến nhận diện Trung Quốc, gây bàn tán tại hai bờ.
-- **2023–2024**: Cùng người quản lý Lâm Hữu Huệ (林有慧) tháng 6/2023 công bố cầu hôn thành công, tháng 10 đăng ký kết hôn, tháng 10/2024 tổ chức đám cưới tại Đài Bắc.
-- **2024–2026**: Tuần "Dã sinh" (野生) khắp thế giới đang diễn ra.
+- **1987**: Sinh ngày 30 tháng 3 tại xã Phong Binh, huyện Hoa Liên, là con lai giữa người Hán và người Amis (阿美族). [^1]
+- **Quá trình trưởng thành và học vấn**: Từng theo học tại Tiểu học Đại Lý, Trung học cơ sở Song Viên và Khoa Thiết kế không gian nội thất trường Trung học phổ thông Hỗ Giang tại Đài Bắc; sau đó theo học Khoa Quản lý và Ứng dụng mỹ phẩm tại Học viện Công nghệ Sáng tạo Á Thái (Asia Pacific Open College) và Khoa Quản trị Du lịch và Giải trí tại Đại học Khoa học Kỹ thuật Vạn Năng (Mandarin Wu Chien).
+- **Khởi đầu âm nhạc**: Bắt đầu học trống jazz từ năm 15 tuổi, đến năm 16 tuổi đã dạy trống cho trẻ em tại các lớp nhạc và thành lập ban nhạc cùng bạn bè. Từ năm 17 tuổi, anh bắt đầu hát tại các phòng trà dân ca cho đến tháng 7 năm 2007.
+- **2007**: Trở nên nổi tiếng nhờ tham gia chuyên mục "Thách đấu" của chương trình "Super Star Avenue". Tháng 8, anh song ca cùng Trương Huệ M妹 (A-Mei) trong ca khúc 〈Nhất nhãn thuận gian〉 (一眼瞬間).
+- **2008**: Tháng 3 ký hợp đồng với Warner Music, phát hành album đầu tay mang tên 《Album cùng tên Tiêu Kính Đằng》, được đề cử giải Tân binh xuất sắc nhất tại Giải Kim Khúc lần thứ 20.
+- **2009**: Phát hành ca khúc 〈Vương phi〉 (王妃) và album nhạc cover 《Tuyển tập khoảnh khắc tình yêu》. Tổ chức buổi hòa nhạc cá nhân có bán vé đầu tiên mang tên "Mr. Rock" tại Nhà thi đấu Tiểu Cự Đàm, Đài Bắc.
+- **2011**: Phát hành album 《Cuồng tưởng khúc》 (狂想曲). Đóng chính trong phim điện ảnh 《Sát thủ Âu Dương Bồn Tài》 (殺手歐陽盆栽), năm sau giành giải Nam diễn viên mới xuất sắc nhất tại Giải Kim Tượng điện ảnh Hồng Kông.
+- **2012**: Phát hành album cover tiếng Anh hoàn toàn 《Mr. Jazz A Song For You》 và album 《Nhân danh tình yêu》.
+- **2013**: Giành giải Nam ca sĩ nhạc Phổ thông xuất sắc nhất tại Giải Kim Khúc lần thứ 24 với album 《Nhân danh tình yêu》. Từ năm 2013 đến 2015, anh đảm nhận vai trò giám khảo mùa 1 đến mùa 3 của chương trình "Hòa thanh đẹp nhất" (最美和聲). Chuyến lưu diễn thế giới "Có một loại tinh thần gọi là Tiêu Kính Đằng" từ năm 2011 đến 2013 bao gồm tổng cộng 27 đêm diễn.
+- **2014 đến 2015**: Thực hiện chuyến lưu diễn thế giới "TRIPLE JAM" với 18 đêm diễn. Phát hành album 《The Song》 và album cover 《Reminiscence》.
+- **2016 đến 2019**: Cùng ban nhạc LION phát hành các album 《LION》 (2016), 《Replay》 (2017) và 《Mỹ lệ, xúy dữ ngã》 (美麗、醜與我) (2019). Album 《LION》 được đề cử giải Ban nhạc xuất sắc nhất tại Giải Kim Khúc lần thứ 28. Năm 2017, anh tham gia chương trình "Singer 2017".
+- **2018 đến 2019**: Phát hành album 《Dục vọng phản quang》 (欲望反光), thực hiện chuyến lưu diễn thế giới "Entertainment Mr." với 19 đêm diễn.
+- **2021 đến 2023**: Phát hành album 《Phòng cách ly 2827》 (隔離套房2827) (2021) và 《Dã sinh》 (野生) (2023). Trong giai đoạn từ năm 2021 đến 2024, anh nhiều lần đưa ra các phát ngôn liên quan đến nhận thức về Trung Quốc, gây ra nhiều tranh luận ở hai bờ eo biển.
+- **2023 đến 2024**: Cùng người quản lý Lâm Hữu Tuệ (Lin Youhui) thông báo cầu hôn thành công vào tháng 6 năm 2023 và đăng ký kết hôn vào tháng 10 cùng năm; tổ chức đám cưới tại Đài Bắc vào tháng 10 năm 2024.
+- **2024 đến 2026**: Đang thực hiện chuyến lưu diễn thế giới "Dã sinh".
 
-## Lịch sử Giải nhạc vàng
+## Thành tích tại Giải Kim Khúc
 
-- Lần thứ 19: "Nhìn nhau một thoáng" (hợp tác với Trương Huyệ Mị) nhập圍 Bài hát năm xuất sắc nhất.
-- Lần thứ 20: "Tiêu Kính Đằng đồng tên chuyên輯" nhập圍 Tân nhân xuất sắc nhất.
-- Lần thứ 21: "Nữ vương" nhập圍 Nam ca sĩ tiếng Quốc ngữ xuất sắc nhất.
-- Lần thứ 23: "Cuồng tưởng khúc" nhập圍 Nam ca sĩ tiếng Quốc ngữ xuất sắc nhất.
-- Lần thứ 24: "Dân yêu chi danh" **giành** Nam ca sĩ tiếng Quốc ngữ xuất sắc nhất.
-- Lần thứ 28: Sư tử LION album "LION" nhập圍 Ban nhạc xuất sắc nhất.
+- Lần thứ 19: Ca khúc 〈Nhất nhãn thuận gian〉 (hợp tác với Trương Huệ M妹) được đề cử Bài hát của năm.
+- Lần thứ 20: 《Album cùng tên Tiêu Kính Đằng》 được đề cử Tân binh xuất sắc nhất.
+- Lần thứ 21: Ca khúc 〈Vương phi〉 được đề cử Nam ca sĩ nhạc Phổ thông xuất sắc nhất.
+- Lần thứ 23: Album 《Cuồng tưởng khúc》 được đề cử Nam ca sĩ nhạc Phổ thông xuất sắc nhất.
+- Lần thứ 24: Giành giải Nam ca sĩ nhạc Phổ thông xuất sắc nhất với album 《Nhân danh tình yêu》.
+- Lần thứ 28: Ban nhạc LION với album 《LION》 được đề cử Ban nhạc xuất sắc nhất.
 
 ## Tranh cãi và sự kiện
 
-Năm 2013 xe nanny của anh bị ném phân, tài xế bị dính phải, thủ phạm sau bị bắt và xử phạt. Năm 2014 các địa phương liên tiếp xuất hiện khoảng 27 thư dọa nạt, thủ phạm Lại Cẩm Hiền (賴錦賢) bị bắt cùng năm tháng 3.
+Năm 2013, xe chuyên dụng của anh bị tạt phân, tài xế cũng bị ảnh hưởng; nghi phạm sau đó đã bị bắt và chịu án tù. Năm 2014, khoảng 27 bức thư đe dọa đã xuất hiện tại nhiều nơi, nghi phạm Lại Cẩm Hiền (Lai Jinxian) đã bị bắt vào tháng 3 cùng năm.
 
 ## Tài liệu tham khảo
 
-- [Wikipedia: Tiêu Kính Đằng](https://zh.wikipedia.org/zh-tw/%E8%95%AD%E6%95%AC%E9%A8%B0) — Tiểu sử, album, nhập圍 và giành giải Giải nhạc vàng, lịch sử diễn唱會 và điện ảnh
+[^1]: [Tiêu Kính Đằng - Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%95%AD%E6%95%AC%E9%A8%B0) - Tiểu sử, album, các đề cử và giải thưởng Kim Khúc, cũng như hồ sơ lưu diễn và điện ảnh của Tiêu Kính Đằng.

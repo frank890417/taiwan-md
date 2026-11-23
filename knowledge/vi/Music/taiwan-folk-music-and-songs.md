@@ -1,18 +1,18 @@
 ---
-title: 'Dân ca và nhạc phổ thông Đài Loan: Từ bị đánh cắp đến được thế giới lắng nghe'
-description: 'Năm 1996, giọng hát cổ xưa của một người lão Amis ở Đài Loan vang lên trong lễ khai mạc Thế vận hội Atlat, nhưng Quách Anh Nam mới biết được về điều này qua vụ kiện năm 1998. Câu chuyện cả nước nghe thấy tiếng hát anh mà anh không biết phản ánh số phận của dân ca Đài Loan—từ bị lặng tiếng đến tự định nghĩa lại tiếng nói của mình'
+title: 'Dân ca và ca khúc Đài Loan: Từ bị đánh cắp đến khi được thế giới lắng nghe'
+description: 'Năm 1996, tiếng hát cổ xưa của một trưởng lão người Amis đã vang lên tại lễ khai mạc Olympic, nhưng chính Guo Ying-nan (Quách Anh Nam) phải thông qua kiện tụng mới biết mình đã được cả thế giới lắng nghe. Câu chuyện trớ trêu này phản ánh số phận của dân ca Đài Loan — từ việc bị làm cho im lặng đến khi tự định nghĩa lại tiếng nói của chính mình.'
 date: 2026-03-23
 category: 'Music'
 tags:
   [
-    'âm nhạc',
-    'dân ca',
-    'nhạc phổ thông',
-    'bản địa',
-    'tiếng Đài',
-    'Quách Anh Nam',
-    'Thuần Thuần',
-    'Bố Nông',
+    'Âm nhạc',
+    'Dân ca',
+    'Ca khúc',
+    'Thổ dân',
+    'Tiếng Đài',
+    'Guo Ying-nan',
+    'Chun-chun',
+    'Tộc Bunun',
   ]
 subcategory: '傳統音樂'
 author: 'Taiwan.md'
@@ -23,99 +23,99 @@ readingTime: 8
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'Music/台灣民謠與歌謠.md'
-sourceCommitSha: 'be13f045'
-sourceContentHash: 'sha256:b219ae0c22f1ce55'
-sourceBodyHash: 'sha256:943159c3ad5fba6c'
-translatedAt: '2026-08-09T12:06:28+08:00'
+sourceCommitSha: 'b93c68757e'
+sourceContentHash: 'sha256:11a00f9eaecab146'
+sourceBodyHash: 'sha256:d2d458106329d932'
+translatedAt: '2026-11-23T10:50:20+08:00'
 ---
 
-> **Tóm tắt 30 giây:** Năm 1996, tại lễ khai mạc Thế vận hội Atlat, toàn bộ thế giới nghe thấy giọng hát cổ xưa của một người lão Amis từ Đài Loan, nhưng Quách Anh Nam chỉ biết được rằng giọng hát của anh đã được 65 triệu người nghe nhờ một vụ kiện quốc tế vào năm 1998. Câu chuyện kỳ lạ này về việc "bị đánh cắp rồi được thế giới lắng nghe" chính là phiên bản thu nhỏ của số phận dân ca Đài Loan trong suốt một thế kỷ—từ tiếng hát của Thuần Thuần tạo ra kỳ tích bán 80.000 đĩa vào năm 1930, đến bị sắp đặt thành nhạc quân đội, rồi cuối cùng vào những năm 1990 tìm lại tiếng nói của chính mình.
+> **Tóm tắt trong 30 giây:** Tại lễ khai mạc Olympic Atlanta năm 1996, cả thế giới đã được nghe tiếng hát cổ xưa của một trưởng lão người Amis (A Mỹ) tại Đài Loan, nhưng chính ông Guo Ying-nan (Quách Anh Nam) phải đến năm 1998, thông qua một vụ kiện, mới biết giọng hát của mình đã được 65 triệu người lắng nghe. Câu chuyện trớ trêu về việc "bị đánh cắp rồi sau đó mới được thế giới biết đến" này chính là hình ảnh thu nhỏ cho số phận trăm năm của dân ca Đài Loan — từ kỷ lục doanh số 80.000 bản của Chun-chun (Thuần Thuần) vào những năm 1930, đến việc bị cải biên thành quân ca, và rồi tìm lại tiếng nói của chính mình vào những năm 1990.
 
-Tối ngày 19 tháng 7 năm 1996, khi ban nhạc Enigma phát bài "Return to Innocence" (Quay về Vô tội) tại lễ khai mạc Thế vận hội Atlat, 65 triệu khán giả trên toàn thế giới nghe được giọng hát cổ xưa của một người lão Amis từ bộ tộc Mã Lan ở Đài Đông—đó là Quách Anh Nam (郭英男). Nhưng chính Quách Anh Nam chỉ biết được điều này hai năm sau, thông qua một vụ kiện bản quyền quốc tế.
+Tối ngày 19 tháng 7 năm 1996, khi bản nhạc 〈Return to Innocence〉 của nhóm Enigma vang lên tại lễ khai mạc Olympic Atlanta, 65 triệu khán giả trên toàn thế giới đã nghe thấy tiếng hát cổ xưa của một trưởng lão người Amis đến từ bộ lạc Malan, Đài Đông — ông Guo Ying-nan. Tuy nhiên, phải hai năm sau, thông qua vụ kiện bản quyền quốc tế, chính ông Guo mới biết giọng hát của mình đã vang vọng khắp toàn cầu.
 
-Câu chuyện kỳ lạ này về "bị đánh cắp tiếng hát rồi được cả thế giới nghe thấy" chính là một phiên dụ hoàn hảo cho số phận của dân ca Đài Loan suốt một thế kỷ—bị lặng tiếng nhiều lần dưới chính sách áp bức của các nhà thực dân, nhưng vẫn liên tục được nghe thấy ở những nơi không ngờ đến, cho đến khi cuối cùng làm cho toàn thế giới nghe được tiếng hát cổ xưa và kiên cường nhất của Đài Loan.
+Câu chuyện trớ trêu về việc "bị đánh cắp rồi sau đó mới được thế giới biết đến" này là một ẩn dụ hoàn hảo cho số phận của dân ca Đài Loan trong suốt trăm năm qua — dù nhiều lần bị làm cho im lặng dưới áp lực chính sách của những kẻ thực dân, nhưng tiếng hát ấy luôn có thể vang lên trở lại ở những nơi không ngờ tới, cuối cùng để cả thế giới được nghe thấy âm thanh cổ xưa và kiên cường nhất của Đài Loan.
 
-## Quách Anh Nam: Chiến thắng pháp lý của âm nhạc bản địa Đài Loan trên đấu trường quốc tế
+## Vụ án Guo Ying-nan: Thắng lợi quốc tế của âm nhạc thổ dân Đài Loan
 
-Năm 1988, Đài Loan gửi đi "Đoàn biểu diễn nhạc dân gian và múa truyền thống Đất Hứa Dân Quốc" đến Paris thăm Tòa nhà Văn hoá Thế giới. Quách Anh Nam, một người lão Amis 67 tuổi, đã hát bài "Bài ca uống rượu vui vẻ" (Nhạc uống rượu của người lão) trên sân khấu. Công ty xuất bản âm nhạc Pháp Maison des Cultures du Monde ghi âm và phát hành buổi biểu diễn này. Ban nhạc điện tử Đức Enigma sau đó lấy đoạn giọng hát của Quách Anh Nam từ bản ghi âm đó, trộn lấn nó vào bài "Return to Innocence".
+Năm 1988, Đài Loan đã cử "Đoàn văn nghệ truyền thống núi rừng Trung Hoa Dân Quốc sang châu Âu" đến Nhà Văn hóa Thế giới tại Paris. Tại đây, trưởng lão người Amis 67 tuổi Guo Ying-nan đã hát bài 〈Khán lạc ẩm tửu ca〉 (Bài hát uống rượu của người già) truyền thống trên sân khấu. Nhà xuất bản âm nhạc Pháp Maison des Cultures du Monde đã ghi âm và phát hành buổi biểu diễn này; sau đó, nhóm nhạc điện tử Đức Enigma đã trích xuất một đoạn giọng hát của ông Guo để phối khí thành bản 〈Return to Innocence〉.
 
-Năm 1993, bài hát được phát hành, năm 1996 nó được chọn làm bài quảng cáo cho Thế vận hội Atlat và vang lên khắp toàn cầu. Nhưng chính Quách Anh Nam hoàn toàn không biết điều này, cho đến khi năm 1996 khi có một người trong bộ tộc anh nghe thấy bài hát này trên đài phát thanh Đài Loan và nói "Này, giọng hát của người lão từ bộ tộc chúng ta đó mà!"
+Bài hát được phát hành vào năm 1993 và được chọn làm ca khúc quảng bá cho Olympic Atlanta năm 1996, vang danh khắp thế giới. Tuy nhiên, chính ông Guo hoàn toàn không hay biết gì, cho đến khi một người trong bộ lạc nghe thấy bài hát này trên đài phát thanh tại Đài Loan và thốt lên: "Ơ, đây là giọng của trưởng lão bộ lạc mình mà!"
 
-> **📝 Ghi chú của người sắp xếp**
-> Điều kỳ lạ nhất của vụ việc này là: lần đầu tiên âm nhạc bản địa Đài Loan "chinh phục thế giới", nhưng chính người liên quan hoàn toàn không biết gì. Quách Anh Nam phải nghe bài hát trên đài phát thanh mới phát hiện ra rằng giọng hát của anh đã được 65 triệu người nghe.
+> **📝 Ghi chú của giám tuyển**
+> Điểm trớ trêu nhất của vụ án này là: Âm nhạc thổ dân Đài Loan lần đầu tiên "chinh phục thế giới" nhưng chính chủ nhân của nó lại hoàn toàn không biết. Phải đến khi nghe đài phát thanh, ông Guo mới nhận ra giọng hát của mình đã được 65 triệu người lắng nghe.
 
-Tháng 3 năm 1998, với sự hỗ trợ của Trương Bồi Nhân, tổng giám đốc công ty âm nhạc Ma Nhạc, vợ chồng Quách Anh Nam đã kiện các công ty đĩa than liên quan, bao gồm Enigma. Sau ba năm tranh tụng, cuối cùng họ đã đạt được thỏa thuận ngoài tòa, Enigma đã bồi thường một số tiền và trả phí bản quyền, công ty EMI đã công nhận vợ chồng Quách Anh Nam là các nghệ sĩ biểu diễn và ghi tên họ trên toàn cầu trong bản phát hành bài hát.
+Tháng 3 năm 1998, với sự hỗ trợ của Tổng giám đốc hãng đĩa Magic Stone Trương Bồi Nhân (Zhang Peiren), vợ chồng ông Guo đã khởi kiện các công ty thu âm liên quan, bao gồm cả Enigma vì vi phạm bản quyền. Sau 3 năm theo đuổi pháp lý, cuối cùng hai bên đã hòa giải ngoài tòa án. Enigma đã bồi thường một khoản tiền và trả tiền bản quyền; hãng đĩa EMI cũng thừa nhận vợ chồng ông Guo là người thể hiện và ghi danh họ trong các phiên bản phát hành toàn cầu của ca khúc này.
 
-Đây là lần đầu tiên âm nhạc bản địa Đài Loan được công nhận quyền phát biểu chính thể trên tòa án quốc tế. Ý nghĩa thực sự không nằm ở chiến thắng, mà nằm ở chỗ thế giới lần đầu tiên nghe thấy tiếng hát của người bản địa Đài Loan không phải từ "âm nhạc thế giới" đơn thuần là sự tò mò về văn hoá, mà là vì nó thực sự có giá trị âm nhạc phổ quát—giọng hát xuyên qua mọi rào cản văn hoá, chạm trực tiếp vào trái tim con người.
+Đây là lần đầu tiên âm nhạc thổ dân Đài Loan giành được quyền lên tiếng với tư cách chủ thể trên tòa án quốc tế. Ý nghĩa thực sự không nằm ở việc thắng kiện, mà là lần đầu tiên thế giới nghe thấy rằng âm thanh của người thổ dân Đài Loan không phải đến từ sự hiếu kỳ văn hóa về "âm nhạc thế giới" (world music), mà bởi vì nó thực sự mang giá trị âm nhạc phổ quát — một thứ âm thanh xuyên thấu mọi rào cản văn hóa để chạm đến trái tim con người.
 
-## Bộ tộc Bố Nông: Kỳ tích của giọng hát—viết lại học thuyết về nguồn gốc âm nhạc
+## Kỳ tích âm thanh của tộc Bunun: Viết lại lịch sử âm nhạc học
 
-Sớm hơn Quách Anh Nam, người được chú ý bởi giới nhạc học quốc tế là bộ tộc Bố Nông với bài "Bài ca cầu lúa mì bội thu" (_Pasibutbut_). Vào ngày 25 tháng 3 năm 1943, học giả Nhật Bản Kurosawa Takao (Hắc Trạch Long Triều) ghi âm được bài hát này ở làng Khằn Đỉnh, huyện Hải Đoan, tỉnh Đài Đông, và ông rất bị sốc. Năm 1952, ông gửi bản ghi âm đến Tổ chức Giáo dục, Khoa học và Văn hoá Liên Hợp Quốc (UNESCO), và các học giả âm nhạc hàng đầu của phương Tây khi nghe xong đều bị shock—làm sao một bộ tộc cổ xưa lại có hòa thanh phức tạp đến thế?
+Trước cả Guo Ying-nan, giới âm nhạc học quốc tế đã chú ý đến bài 〈Pasibutbut〉 (Bài hát cầu nguyện mùa màng bội thu của tộc Bunun). Ngày 25 tháng 3 năm 1943, học giả Nhật Bản Kurosawa Takatomo (Hắc Trạch Long Triều) đã ghi lại được bài hát này tại làng Kan-ding, xã Hai-duan, huyện Đài Đông và vô cùng chấn động. Năm 1952, ông gửi tệp ghi âm đến UNESCO. Các học giả uy tín của giới âm nhạc học phương Tây lúc bấy giờ đã kinh ngạc — làm thế nào một bộ lạc cổ xưa lại có thể sở hữu những hòa thanh phức tạp đến vậy?
 
-Bài hát này được gọi thông tục là "hòa thanh tám phần", nhưng thực ra là một bài hát bốn phần, vì lý do xuất hiện các âm bội tự nhiên nên nghe có vẻ như là tám phần. Vào những năm 1990, nhạc học gia Ngô Vinh Thuận đã dùng thiết bị phân tích sóng âm tại Pháp để phân tích 25 bản ghi âm _pasibutbut_, chứng minh rằng các phần hòa thanh của bản nhạc sẽ thay đổi linh hoạt theo hiện tượng âm bội, đây là "hòa thanh âm bội tự nhiên" thực sự.
+Bài hát này thường được gọi là "hòa thanh tám phần", nhưng thực tế là hát bốn bè, vì sự xuất hiện của các bồi âm tự nhiên khiến nó nghe như có tám phần. Vào những năm 1990, nhà âm nhạc học Ngô Vinh Thuận (Wu Rong-shun) đã sử dụng máy phân tích phổ âm tại Pháp để phân tích 25 bản ghi âm Pasibutbut, chứng minh rằng các bè đa âm của nó thay đổi động theo hiện tượng bồi âm, đây thực sự là "hòa thanh bồi âm tự nhiên".
 
-> **⚠️ Quan điểm gây tranh cãi**
-> Tên gọi "hòa thanh tám phần" thực ra là một khái niệm được tạo ra vào những năm 1990 để dễ hiểu hơn cho người phương Tây. Chính người Bố Nông gọi nó là _pasibutbut_, có nghĩa là "kéo co với nhau", nhấn mạnh sự tương tác giữa các giọng người, chứ không phải là số lượng phần hòa thanh.
+> **⚠️ Quan điểm tranh luận**
+> Cái tên "hòa thanh tám phần" thực chất được tạo ra vào những năm 1990 để giúp người phương Tây dễ hiểu hơn. Người tộc Bunun gọi nó là _pasibutbut_, có nghĩa là "kéo đẩy lẫn nhau", nhấn mạnh vào sự tương tác giữa các giọng hát chứ không phải số lượng bè.
 
-Điều quan trọng hơn là, điều này đã phủ nhận một giả định cơ bản của nhạc học phương Tây: âm nhạc phát triển từ âm đơn đến âm kép rồi đến hòa âm. Bài _pasibutbut_ của Bố Nông chứng minh rằng hòa âm đa phần phức tạp có thể là một trong những dạng âm nhạc nguyên thủy nhất của con người.
+Quan trọng hơn, điều này đã bác bỏ một giả định cơ bản của âm nhạc học phương Tây: rằng âm nhạc phát triển từ đơn âm đến song âm rồi mới đến hòa âm. Pasibutbut của tộc Bunun chứng minh rằng, hòa thanh đa âm phức tạp có thể là một trong những hình thức âm nhạc nguyên thủy nhất của nhân loại.
 
-Năm 2019, bậc thầy nhạc sĩ Nhật Bản Sakamotos Ryūichi đến thăm huyện Trác Khê ở Hoa Liên nói rằng bài "Bài ca cầu lúa mì bội thu" của Bố Nông là giọng hát yêu thích nhất mà ông từng nghe ở Đài Loan. Đối với một nhạc sĩ có tâm huyết khám phá ranh giới của tiếng hát, câu nói này có trọng lượng không nhẹ.
+Năm 2019, khi bậc thầy âm nhạc Nhật Bản Sakamoto Ryuichi (坂本龍一) ghé thăm huyện Trác Khê, Hoa Liên, ông đã nói rằng bài 〈Pasibutbut〉 của tộc Bunun là âm thanh mà ông yêu thích nhất từng nghe tại Đài Loan. Đối với một nghệ sĩ luôn nỗ lực khám phá các ranh giới của âm thanh, sức nặng của câu nói này là không hề nhỏ.
 
-## Sự bùng nổ vàng của nhạc phổ thông Đài Loan thập niên 1930
+## Sự bùng nổ vàng của ca khúc tiếng Đài những năm 1930
 
-Quay về tháng 8 năm 1933, dưới mái hiên cửa trước công ty đĩa than Columbia của Đài Bắc, luôn có một nhóm người Đài Loan tập trung—họ mua không được máy phát âm thanh, nhưng không cưỡng lại được sự cố gắng chạy tới nghe những bài hát mới được phát trong cửa hàng, chẳng hạn như bài "Mong Mơ Xuân Sương". Bài hát này do Lý Lâm Thu sáng tác lời, Đặng Vũ Hiền sáng tác nhạc, Thuần Thuần hát, và năm 1934 nó đã tạo ra một kỳ tích bán hàng kinh ngạc.
+Quay trở lại tháng 8 năm 1933, dưới hiên nhà của công ty đĩa hát Columbia (Cổ Luân Mỹ Á) tại Đài Bắc, luôn có một nhóm người Đài Loan tụ tập — họ không đủ tiền mua máy hát nhưng không thể cưỡng lại việc đến nghe những bài hát mới như 〈Vọng Xuân Phong〉 được phát tại cửa hàng. Bài hát do Lý Lâm Thu (Li Lin-qiu) viết lời, Đặng Vũ Hiền (Deng Yu-xian) soạn nhạc và Chun-chun làm ca sĩ chính, đã tạo nên một kỳ tích doanh số kinh ngạc vào năm 1934.
 
-Để hiểu được mức độ kinh ngạc của con số này: ca sĩ Thuần Thuần hát bài "Hoa Đào Khóc Máu Kỷ" năm 1932 đã bán được "bảy, tám chục ngàn đĩa", các bài hát phổ biến khác của cô như "Mong Mơ Xuân Sương" cũng bán được "bốn, năm chục ngàn đĩa". Vào thời điểm đó, dân số Đài Loan chưa đến 5 triệu người, điều này tương đương với việc cứ 60-80 người thì có người mua một đĩa.
+Để hiểu được mức độ kinh khủng của con số này: bản 〈Đào Hoa Khấp Huyết Ký〉 mà Chun-chun hát năm 1932 đã bán được "70.000 đến 80.000 bản", và các ca khúc hot khác như 〈Vọng Xuân Phong〉 cũng đạt doanh số "40.000 đến 50.000 bản". Trong bối cảnh dân số Đài Loan lúc đó chưa tới 5 triệu người, điều này tương đương với việc cứ 60-80 người thì có một người mua một đĩa nhạc.
 
-> **💡 Bạn có biết không**
-> Thuần Thuần (Lưu Thanh Hương) vào lúc 13 tuổi đã gia nhập một đoàn ca kịch, và sử dụng các nghệ danh khác nhau khi biểu diễn các loại âm nhạc khác nhau. Cô sử dụng "Thuần Thuần" khi ghi âm các bài hát phổ thông Đài Loan, "Thanh Hương" khi hát ca kịch, và các nghệ danh khác như Mỹ Anh, Cầm Linh, Ái Khánh, Bách Hoa Hương, Mãn Đài Đỏ, vân vân, số lượng khó ai sánh được vào thời đó.
+> **💡 Bạn có biết**
+> Chun-chun (Lưu Thanh Hương - Liu Qing-xiang) gia nhập đoàn hát kịch từ năm 13 tuổi và sử dụng các nghệ danh khác nhau khi hát các thể loại âm nhạc khác nhau. Khi thu âm nhạc pop tiếng Đài, cô dùng tên "Chun-chun"; khi hát kịch truyền thống, cô dùng tên thật là "Thanh Hương"; ngoài ra còn có các nghệ danh khác như Mai Anh, Cầm Linh, Ái Khanh, Bách Hoa Hương, Mãn Đài Hồng... số lượng nhiều đến mức không ai sánh kịp thời bấy giờ.
 
-Thời đại "vàng của nhạc phổ thông Đài Loan" này có một bối cảnh thú vị: người nắm quyền là doanh nhân Nhật Bản Hakuya Seijirō. Năm 1932, ông quyết định cược lên thị trường âm nhạc phổ thông Đài Loan, thành lập Bộ phận Văn nghệ tại tầng ba công ty Columbia, tiếp nạp các tác giả lời nhạc như Lý Lâm Thu, Đặng Vũ Hiền, Chu Thiêm Vương, và các ca sĩ chuyên thuộc như Thuần Thuần, Ái Ái.
+"Thời đại hoàng kim của ca khúc tiếng Đài" này có một bối cảnh thú vị: người dẫn dắt là thương nhân Nhật Bản Kanno Masajiro (栢野正次郎). Năm 1932, ông quyết định đặt cược vào thị trường nhạc pop tiếng Đài, thành lập bộ phận văn nghệ tại tầng ba của công ty Columbia, chiêu mộ các nhạc sĩ như Lý Lâm Thu, Đặng Vũ Hiền, Chu Thiêm Vượng (Zhou Tian-wang), cùng các ca sĩ độc quyền như Chun-chun và Ái Ái.
 
-Điều đặc biệt nhất là chiến lược của Hakuya: ông không tìm các nhân vật văn nhân, mà "rộng rãi tuyển dụng lời nhạc từ dân gian". Cho dù họ là những người đi hát lưu thông, nhân viên công ty hay thợ nhà máy, miễn là họ có hứng thú, tất cả đều được khuyến khích sáng tác những bài hát phổ thông. Chiến lược "theo con đường dân gian" này đã tạo nên sức sáng tạo nguyên gốc của nhạc phổ thông Đài Loan.
+Điểm đặc biệt nhất trong chiến lược của Kanno là: ông không tìm kiếm giới văn nhân nhã sĩ, mà "mở rộng tìm kiếm người viết lời từ dân gian". Dù là những người hát rong lưu động, nhân viên công ty, hay thậm chí là thợ cơ khí tại các nhà máy, chỉ cần có hứng thú, ông đều khuyến khích sáng tác lời ca bình dân. Chính "con đường dân gian" này đã tạo nên sức sống nguyên bản cho các ca khúc tiếng Đài.
 
-## Hai lần lặng tiếng văn hoá: Từ phong trào thân Nhật đến chính sách ngôn ngữ quốc gia
+## Hai lần bị xóa sổ văn hóa: Từ Phong trào Hoàng dân hóa đến Chính sách Quốc ngữ
 
-Nhạc phổ thông Đài Loan đã trải qua hai lần tuyệt diệt văn hoá trong vòng 100 năm, mỗi lần bị lặng tiếng vì lý do khác nhau:
+Trong vòng vỏn vẹn 100 năm, ca khúc tiếng Đài đã trải qua hai lần diệt chủng văn hóa, mỗi lần đều bị làm cho im lặng vì những lý do khác nhau:
 
-| Phong trào thân Nhật (1937-1945)       | Chính sách ngôn ngữ quốc gia (1945-1987)             |
-| -------------------------------------- | ---------------------------------------------------- |
-| "Mong Mơ Xuân Sương" → "Đất Hứa Gọi"   | Ca sĩ Đài Loan bị buộc hát những bài hát quốc ngữ    |
-| "Hoa Mưa Đêm" → "Vinh Dự Lính Quân Sự" | Thiết lập "Hệ thống kiểm duyệt nhạc Đài Loan"        |
-| "Buồn Đêm Trăng" → "Vợ Lính Quân Sự"   | Đài phát thanh cấm phát sóng nhạc phổ thông Đài Loan |
+| Phong trào Hoàng dân hóa (1937-1945)                         | Chính sách Quốc ngữ (1945-1987)                            |
+| :----------------------------------------------------------- | :--------------------------------------------------------- |
+| 〈Vọng Xuân Phong〉 $\rightarrow$ 〈Đại địa tại triệu hoán〉 | Ca sĩ tiếng Đài bị buộc phải chuyển sang hát nhạc Quốc ngữ |
+| 〈Vũ dạ hoa〉 $\rightarrow$ 〈Vinh dự đích quân phu〉        | Thiết lập "Chế độ kiểm duyệt ca khúc tiếng Đài"            |
+| 〈Nguyệt dạ sầu〉 $\rightarrow$ 〈Quân phu chi thê〉         | Đài phát thanh cấm phát sóng các ca khúc tiếng Đài         |
 
-Sau khi Chiến tranh Trung-Nhật nổ ra vào năm 1937, nhạc phổ thông Đài Loan lần đầu tiên đối mặt với nguy hiểm tuyệt diệt. Chính phủ Nhật Bản tiến hành phong trào thân Nhật, các bài hát phổ thông Đài Loan được yêu thích nhất bị cưỡng chế sắp đặt lại thành nhạc quân đội tiếng Nhật, lời bài hát từ tình yêu lãng mạn trở thành tuyên truyền chiến tranh. Năm 1944, "cha đẻ của nhạc phổ thông Đài Loan" Đặng Vũ Hiền qua đời ở làng Khung Lâm, huyện Tân Trúc, chỉ ở tuổi 37, đã đổi thành tên Nhật là "Đông Điền Hiểu Vũ".
+Sau khi chiến tranh Trung-Nhật bùng nổ vào năm 1937, ca khúc tiếng Đài lần đầu tiên đối mặt với nguy cơ diệt vong. Chính quyền Nhật Bản thực hiện phong trào Hoàng dân hóa, những bài hát tiếng Đài được yêu thích nhất bị cưỡng ép cải biên thành quân ca tiếng Nhật, lời bài hát từ lãng mạn tình yêu trở thành tuyên truyền chiến tranh. Năm 1944, "cha đẻ của ca khúc tiếng Đài" Đặng Vũ Hiền qua đời tại Hùng Lâm, Tân Trúc khi mới 37 tuổi, dưới tên Nhật là Higashida Akia (東田曉雨).
 
-Chính sách ngôn ngữ quốc gia sau chiến tranh là lần lặng tiếng thứ hai. Sau khi sắc lệnh thiết quân luật được ban hành vào năm 1949, "Bốn tháng của Đặng Vũ Hiền" đáng kinh ngạc bị liệt vào danh sách nhạc cấm—"Bốn Mùa Đỏ" vì khiến mọi người liên tưởng đến Đảng Cộng sản nên đã được đổi tên thành "Bốn Mùa Thi Thoại", ba bài còn lại vì từng được sắp đặt lại thành nhạc quân đội nên "có điều gì đó nhạy cảm".
+Chính sách Quốc ngữ sau chiến tranh là lần xóa sổ thứ hai. Sau khi lệnh thiết quân luật được ban bố vào năm 1949, bài 〈Tứ nguyệt vọng vũ〉 của Đặng Vũ Hiền thậm chí bị liệt vào danh sách nhạc cấm — ca khúc 〈Tứ quý hồng〉 vì gợi liên tưởng đến Đảng Cộng sản nên đã bị đổi tên thành 〈Tứ quý dao〉, ba bài còn lại cũng bị "kiêng dè" vì từng được cải biên thành quân ca.
 
-> **📝 Ghi chú của người sắp xếp**
-> Năm 1996, khi Trường Trung học Chương Hóa muốn đặt tên Bảo tàng âm nhạc là "Bảo tàng Vũ Hiền", một giáo viên âm nhạc tốt nghiệp từ Đại học Sư phạm lại hỏi: "Đặng Vũ Hiền là ai?" Bộ phim này cho thấy mức độ trầm trọng của sự gãy đứt văn hoá.
+> **📝 Ghi chú của giám tuyển**
+> Năm 1996, khi nhà âm nhạc của Trường Trung học Cao cấp Chương Hóa muốn đặt tên là "Vũ Hiền Quán", một giáo viên âm nhạc tốt nghiệp Đại học Sư phạm lúc đó đã hỏi: "Đặng Vũ Hiền là ai?". Sự việc này cho thấy mức độ nghiêm trọng của sự đứt gãy văn hóa.
 
-Dưới áp lực kép kéo dài gần 40 năm, truyền thống sáng tác nhạc phổ thông Đài Loan gần như bị đứt gãy. Thuần Thuần qua đời vì bệnh lao năm 1943, chỉ sống được 29 năm; nhiều ca sĩ phải tản mát, một số kết hôn ở Nhật Bản, một số chạy sang Hồng Kông, một số thu lại đàn vĩ về quê làm nông.
+Dưới áp lực kép kéo dài gần 40 năm, truyền thống sáng tác ca khúc tiếng Đài gần như bị đứt đoạn. Chun-chun qua đời vì bệnh lao vào năm 1943 khi mới 29 tuổi; nhiều nhạc sĩ phải ly tán khắp nơi, người lấy chồng xa sang Nhật, người trốn sang Hồng Kông, người cất nhạc cụ về quê làm ruộng.
 
-## Sự phục hưng giọng hát những năm 1990: Tái định nghĩa tiếng hát của Đài Loan
+## Sự phục hưng âm thanh những năm 1990: Định nghĩa lại tiếng nói Đài Loan
 
-Sau khi dỡ bỏ thiết quân luật năm 1987, văn hoá bản địa bị áp bức bắt đầu hồi phục. Vào đầu những năm 1990, một loạt tác phẩm âm nhạc tiếng Đài mang tính bước ngoặt xuất hiện: "Bài Hát Điên Cuồng" của Nghiên Cứu Danh Sách Đen, "Tiến Lên" của Lâm Cường, "Một Vở Kịch Buổi Chiều" của Trần Minh Chương. Các nhạc sĩ này bắt đầu sáng tác những bài hát mới bằng tiếng Đài, không còn chỉ mãn với việc tái hiện các bài hát kinh điển cũ.
+Sau khi bãi bỏ thiết quân luật vào năm 1987, nền văn hóa bản địa bị kìm nén bắt đầu phục hồi. Đầu những năm 1990, một loạt tác phẩm âm nhạc tiếng Đài mang tính biểu tượng đã xuất hiện: _Grab Song_ của Blacklist Studio, _Tiến thượng hành_ (Hướng về phía trước) của Lâm Cường (Lin Qiang), _Một vở kịch buổi chiều_ của Trần Minh Chương (Chen Ming-zhang). Những nghệ sĩ này bắt đầu dùng tiếng Đài để sáng tác nhạc mới, không còn thỏa mãn với việc hát lại các ca khúc kinh điển cũ.
 
-"Tiến Lên" của Lâm Cường được phát hành vào tháng 12 năm 1990, bán được 400.000 bản, trở thành "người tiên phong của phong trào nhạc phổ thông Đài Loan mới". Nhưng quan trọng hơn là, những người sáng tác này bắt đầu dùng tiếng Đài để diễn tả trải nghiệm cuộc sống thành thị hiện đại—không phải nỗi nhớ quê hương lãng mạn, mà là hiện thực sống động của ngày hôm nay.
+Bản 〈Tiến thượng hành〉 của Lâm Cường phát hành vào tháng 12 năm 1990 đã bán được 400.000 bản, trở thành "người tiên phong của phong trào nhạc tiếng Đài mới". Nhưng quan trọng hơn, những người sáng tạo này bắt đầu dùng tiếng Đài để diễn tả trải nghiệm cuộc sống đô thị hiện đại — không phải là nỗi nhớ quê hương hoài cổ, mà là thực tại đang sống động.
 
 > **📊 Nguồn dữ liệu**
-> Theo ghi chép của Bảo tàng Âm nhạc Phổ biến Đài Loan, ba album tiếng Đài năm 1990 của công ty Rolling Stone đã thành công trong việc ảnh hưởng đến phong cách nhạc phổ thông Đài Loan và hướng phát triển thị trường âm nhạc phổ biến.
+> Theo ghi chép từ Wikipedia Âm nhạc Pop Đài Loan, ba album tiếng Đài thành công của Rock Records vào năm 1990 đã ảnh hưởng mạnh mẽ đến hướng phát triển phong cách nhạc tiếng Đài và thị trường nhạc pop. [^1]
 
-Đáng chú ý hơn là năm 1997, ca sĩ R&B Tào Triết đã tái diễn giải "Mong Mơ Xuân Sương" theo cách của anh, thêm vào bản tiếng Đài gốc những ca từ tiếng Trung, gây ra thảo luận liên thế hệ. Sự tái diễn giải qua ngôn ngữ và thế hệ này biểu trưng rằng âm nhạc Đài Loan bắt đầu tìm lại tiếng nói đa dạng và phức tạp của chính nó.
+Đáng chú ý hơn là vào năm 1997, ca sĩ R&B Đào Triết (David Tao) đã diễn giải lại bài 〈Vọng Xuân Phong〉 bằng cách thêm lời tiếng Trung vào bản gốc tiếng Đài, gây ra những cuộc thảo luận xuyên thế hệ. Sự diễn giải lại xuyên ngôn ngữ và xuyên thế hệ này tượng trưng cho việc âm nhạc Đài Loan bắt đầu tìm lại được tiếng nói đa dạng và phức tạp của chính mình.
 
-## Sửa chữa ký ức: Từ lặng tiếng đến được thế giới lắng nghe
+## Phục hồi ký ức: Từ im lặng đến khi được thế giới lắng nghe
 
-Quay lại câu chuyện của Quách Anh Nam. Ông lão Amis sinh năm 1921 ở Đài Đông này không bao giờ nghĩ rằng giọng hát của mình sẽ vang vọng khắp toàn thế giới. Nhưng khi ông tranh dành lại bản quyền tại tòa án vào năm 1998, nó biểu trưng không chỉ là chiến thắng của sở hữu trí tuệ, mà còn là lần đầu tiên âm nhạc bản địa Đài Loan được công nhận quyền phát biểu chính thể trên đấu trường quốc tế.
+Quay trở lại câu chuyện của Guo Ying-nan. Vị trưởng lão người Amis sinh năm 1921 tại Đài Đông này chưa bao giờ nghĩ rằng tiếng hát của mình sẽ vang xa khắp thế giới. Nhưng khi ông đòi lại bản quyền tại tòa án vào năm 1998, điều đó không chỉ tượng trưng cho chiến thắng về sở hữu trí tuệ, mà còn là lần đầu tiên âm nhạc thổ dân Đài Loan giành được quyền lên tiếng với tư cách chủ thể trên đấu trường quốc tế.
 
-Quách Anh Nam qua đời năm 2002, nhưng trường hợp của ông đã mở ra một hình mẫu mới: tiếng hát của Đài Loan không còn là đối tượng bị "khám phá" hoặc "săn tìm kỳ lạ", mà là một lực lượng âm nhạc chủ động bước vào đấu trường thế giới.
+Ông Guo qua đời vào năm 2002, nhưng vụ án của ông đã mở ra một mô hình mới: âm thanh của Đài Loan không còn là đối tượng để "khám phá" hay "hiếu kỳ", mà là một sức mạnh âm nhạc chủ động tiến ra sân khấu thế giới.
 
-> **✦** "Giọng hát của một dân tộc chính là linh hồn của cô ta đang nói chuyện."
+> **✦** "Tiếng hát của một dân tộc chính là lời nói từ linh hồn của họ."
 
-Ngày hôm nay, khi chúng ta nghe thấy "Đại Dương" của Trần Kiến Niên, giọng trời của Kỷ Hiểu Quân, hoặc bất kỳ bài hát phổ thông Đài Loan cũ nào khác, thực ra chúng ta đang nghe một câu chuyện về cách mà giọng hát sống sót giữa sự áp bức và cuối cùng tái định nghĩa chính nó.
+Ngày nay, khi chúng ta nghe thấy _Đại dương_ của Trần Kiến Niên (Chen Jian-nian), giọng hát thiên phú của Kỷ Hiểu Quân (Ji Xiao-jun), hay bất kỳ bài hát tiếng Đài cũ nào, thực chất chúng ta đang nghe một câu chuyện về việc âm thanh đã tồn tại như thế nào trong sự áp bức, và cuối cùng đã tự định nghĩa lại chính mình ra sao.
 
-Dân ca và nhạc phổ thông Đài Loan không bao giờ chỉ là âm nhạc—chúng là ký ức giọng hát của đảo đất này, là chứng tích của sức chống chịu văn hoá, và cũng là một chỉ số quan trọng để chúng ta hiểu "Đài Loan là gì". Khi Quách Anh Nam hát "Bài Ca Uống Rượu Vui Vẻ" trong đêm đêm ở bộ tộc Mã Lan, ông không biết rằng giọng hát này một ngày nào đó sẽ vang vọng khắp toàn thế giới. Nhưng hôm nay chúng ta biết, những giọng hát cổ xưa và kiên cường này chính là tài sản văn hoá quý báu nhất của Đài Loan—chúng nói cho thế giới biết ai là những người sống trên đảo này, họ từ đâu mà đến, và sẽ đi về đâu.
+Dân ca và ca khúc của Đài Loan chưa bao giờ chỉ là âm nhạc — chúng là ký ức âm thanh của hòn đảo này, là minh chứng cho sức bền văn hóa, và cũng là một chỉ mục quan trọng để chúng ta hiểu "Đài Loan là gì". Khi ông Guo Ying-nan hát bài 〈Khán lạc ẩm tửu ca〉 trong đêm tối tại bộ lạc Malan, ông không biết rằng âm thanh đó một ngày nào đó sẽ vang vọng khắp thế giới. Nhưng hôm nay chúng ta biết rằng, những âm thanh cổ xưa và kiên cường này chính là tài sản văn hóa quý giá nhất của Đài Loan — chúng nói với thế giới biết rằng con người trên hòn đảo này là ai, họ đến từ đâu, và họ đang hướng về đâu.
 
 ## Tài liệu tham khảo
 
-- [Thuần Thuần - Bảo tàng Âm nhạc Phổ biến Đài Loan](http://www.tpmw.org.tw/index.php/純純)
+[^1]: [Chun-chun - Wikipedia Âm nhạc Pop Đài Loan](http://www.tpmw.org.tw/index.php/純純) - Mục riêng về Chun-chun trên Wikipedia Âm nhạc Pop Đài Loan, bao gồm tiểu sử, nghệ danh và hồ sơ doanh số đĩa hát.
