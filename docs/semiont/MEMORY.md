@@ -350,3 +350,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-24 | 060455-twmd-embeddings-nightly | 第七夜完整重建：13 語 15,378 向量零失敗、verify PASS，`fe07f5805c`；甦醒時真分岔，merge-tree 零衝突照 v1.3 併入；vi 差一篇 1,182 | 進度通知會漏一則，對數回 build log | [→](memory/2026-11-24-060455-twmd-embeddings-nightly.md) |
 | 2026-11-24 | 060739-twmd-data-refresh-am | 早班刷新十四步全過、15 個 dashboard 0 stale；〈愛玉〉讓頁數到 1192；房貸負擔率第六天查過仍只有 115Q1；排程 dump 三層零漂移 | 手抄避不掉時先縮小抄的範圍，再找一把尺驗抄本 | [→](memory/2026-11-24-060739-twmd-data-refresh-am.md) |
 | 2026-11-24 | 064240-twmd-spore-harvest-am | 回覆分頁連四班同三列、零新留言；一個新帳號追蹤並按讚 #53 黑冠麻鷺；#29 李洋四格仍 232 留言；合法 no-op | 出口關著時，舊孢子仍在帶新讀者進來，只看得到按讚這一層 | [→](memory/2026-11-24-064240-twmd-spore-harvest-am.md) |
+| 2026-11-24 | 071223-twmd-feedback-triage | 憑證索取第十四輪：差集兩個方向都空、交集 81，窗口外 31 筆連兩天零讀者；archive 零變動所以沒東西可 stage | 留言層那個零能被讀懂，靠旁邊一道真去問線上則數的帳 | [→](memory/2026-11-24-071223-twmd-feedback-triage.md) |
