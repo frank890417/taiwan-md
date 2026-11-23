@@ -42,7 +42,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 _verify = import_module("verify-translation")  # URL_PATTERN：跟閘門第 11 檢查同一把尺
 
 # 網址的終止字元（閘門 URL_PATTERN 的否定字元類別）與尾端句讀
-_URL_STOPS = _verify.URL_PATTERN[len("https?://[^"):-2]
+_URL_STOPS = _verify.URL_STOP_CHARS
 _URL_TRAIL = ".,;:!?*_\\"
 
 

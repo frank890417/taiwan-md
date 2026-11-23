@@ -278,12 +278,25 @@ def source_sha_history_check(zh_rel: str, sha: str) -> tuple[str, str]:
                     "這個值指不到這篇中文的任何一版。跑 `recover-source-sha.py` 找回真正翻譯的那一版")
 
 
-URL_PATTERN = (
-    r"https?://[^\s<>\)\"\]`"
+# 網址的終止字元（否定字元類別的內容，不含外層 `[^` `]`）。restore-footnote-urls.py
+# 直接 import 這個常數組自己的前瞻，不再切 URL_PATTERN 的字串。
+URL_STOP_CHARS = (
+    r"\s<>\)\"\]`"
     r"，。；：！？、（）〔〕【】《》「」『』…"      # 中日韓全形
     r"،؛؟«»"                                    # 阿拉伯／波斯
     r"।॥"                                       # 天城體 danda
-    r"]+"
+)
+
+# 2026-11-24 babel-nightly：網址內成對的半形括號要算進網址。Wikimedia／維基的
+# 檔名與條目常帶 `_(Taiwan)`、`_(cropped)`（zh 母稿 33 篇有這種裸網址）。舊的
+# 字元類別把 `)` 一律當終止字元，於是 `…Beigang_Water_Tower_(Taiwan).jpg` 被切成
+# `…(Taiwan`：URL 裝甲（translate.py 借同一把尺）只藏到 `(Taiwan`，`).jpg` 露在
+# 散文裡，模型看見孤零零的 `)` 就丟掉；閘門兩側也拿殘缺的網址比。〈水道頭〉七語
+# 兩種模型 15 份被拒譯文全部是 `(Taiwan.jpg`——確定性缺陷，不是模型能力（#38 (d)）。
+# 交替式先試「一對括號」再退回單一字元：沒有收尾 `)` 的 `(` 照舊算網址的一部分，
+# 括號外的 `)` 照舊收尾（`(見 https://x.org/a)` 抽出的仍是 `https://x.org/a`）。
+URL_PATTERN = (
+    r"https?://(?:\([^" + URL_STOP_CHARS + r"(]*\)|[^" + URL_STOP_CHARS + r"])+"
 )
 
 

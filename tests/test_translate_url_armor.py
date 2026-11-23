@@ -53,3 +53,20 @@ def test_armor_spans_equal_gate_urls():
     gate = verify.extract_urls(body)
     assert sorted(u.rstrip(".,;:!?*\\") for u in urls) == sorted(gate)
     assert all(re.search(r"[一-鿿]", u) for u in urls)
+
+
+def test_bare_url_with_balanced_parens_is_armored_whole():
+    """2026-11-24：〈水道頭〉圖說的裸網址 `…_(Taiwan).jpg`。舊尺在 `)` 截斷，裝甲只藏到
+    `(Taiwan`，`).jpg` 露在散文裡被模型丟掉；七語兩種模型 15 份被拒譯文全是 `(Taiwan.jpg`。"""
+    url = "https://commons.wikimedia.org/wiki/File:Beigang_Water_Tower_(Taiwan).jpg"
+    body = f"_北港自來水廠八角水塔。原始檔案頁：{url}。圖片由 Taiwan.md 快取。_\n"
+    tokenized, urls = _roundtrip(body)
+    assert urls == [url]
+    assert ").jpg" not in tokenized
+    assert verify.extract_urls(body) == [url]
+
+
+def test_paren_outside_url_still_closes_it():
+    body = "(見 https://example.org/a) 與 https://example.org/b(c 結尾\n"
+    _, urls = _roundtrip(body)
+    assert urls == ["https://example.org/a", "https://example.org/b(c"]
