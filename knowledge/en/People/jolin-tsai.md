@@ -1,6 +1,6 @@
 ---
 title: 'Jolin Tsai'
-description: 'Winner of the 1998 "New Voice Battle" singing competition, she became a Mandopop queen through successive albums and tours; "Rose Boy" earned her three Golden Melody Awards for Song of the Year.'
+description: 'Won the singing category championship at "New Voice Battle" in 1998, subsequently became the Mandarin pop diva through albums and tours; "Womxnly" won her the Golden Melody Award for Song of the Year for the third time.'
 date: 2026-03-24
 category: 'People'
 tags:
@@ -19,43 +19,43 @@ lastVerified: 2026-10-23
 lastHumanReview: false
 curation: 'incubating'
 translatedFrom: 'People/蔡依林.md'
-sourceCommitSha: 'b8a8d446b'
-sourceContentHash: 'sha256:345d4b4b29007280'
-sourceBodyHash: 'sha256:6048e5ad66169502'
-translatedAt: '2026-10-23T20:40:11+08:00'
+sourceCommitSha: 'b93c68757e'
+sourceContentHash: 'sha256:398062ea81af2d60'
+sourceBodyHash: 'sha256:d5c1056d26e4744b'
+translatedAt: '2026-11-23T08:46:36+08:00'
 ---
 
-> **30-Second Overview:** In 1998, she won the singing category of "New Voice Battle." The following year, she signed with Universal Music and released _1019_. Over the next two decades, she released album after album, with tours spanning from _J1_ to _Pleasure_. In 2019, "Rose Boy" earned her the Golden Melody Award for Song of the Year for the third time.
+> **30-second overview:** In 1998 she won the singing category championship at "New Voice Battle," signed with Universal Music the following year, and released _1019_. Over the next two decades, she released album after album, with tours progressing from _J1_ to _Pleasure_. In 2019, "Womxnly" won her the Golden Melody Award for Song of the Year for the third time.
 
 ## Timeline
 
-- **1998**: Born Tsai Yi-ling (蔡宜凌), she participated in the MTV Taiwan and Sony Music co-hosted "New Voice Battle" in May, winning the singing category on August 11.
-- **1999**: Signed with Universal Music in March; released her debut album _1019_ on September 10. Her early management agency was Da Sheng Music (大聲音樂).
-- **2000 to 2005**: Successively released _Don't Stop_, _Show Your Love_, _Lucky Number_, _Watch Me Transform in 72 Ways_ (看我72變, 2003), _Castle_ (城堡), and _J-Game_.
+- **1998**: Born as Tsai Yi-ling, participated in "New Voice Battle" co-organized by MTV Mandarin and Sony Music in May, won the singing category championship on August 11.
+- **1999**: Signed with Universal Music in March, released debut album _1019_ on September 10, early management company was D Sound.
+- **2000 to 2005**: Released _Don't Stop_, _Show Your Love_, _Lucky Number_, _Magic_ (2003), _Castle_, _J-Game_ in succession.
 - **2004 to 2006**: J1 World Tour.
-- **2006 to 2009**: Dancing Diva World Tour.
-- **Albums from 2006 to 2009**: _Dancing Diva_ (舞孃, 2006), _Agent J_ (特務J, 2007), and _Flower Butterfly_ (花蝴蝶, 2009).
-- **2007**: Won Best Mandarin Female Singer at the Golden Melody Awards for _Dancing Diva_; "Marry Me Today" (今天妳要嫁給我) won Song of the Year.
-- **2010 to 2013**: Released _Myself_ (2010) and _Muse_ (2012); held the _Myself_ World Tour.
-- **2013**: "The Great Artist" (大藝術家) won Song of the Year at the Golden Melody Awards.
-- **2014 to 2016**: Released _呸_ (2014); held the Play World Tour (2015 to 2016).
-- **2018 to 2019**: Released _Ugly Beauty_; the world tour took place from 2019 to 2024.
-- **2019**: "Rose Boy" (玫瑰少年) won Song of the Year at the Golden Melody Awards.
-- **2025 to 2027**: Released _Pleasure_; the _Pleasure_ World Tour commenced.
-- **2026**: Won Best Mandarin Female Singer at the Golden Melody Awards for _Pleasure_, marking her second win in this category.
+- **2006 to 2009**: Dancing Forever World Tour.
+- **Albums from 2006 to 2009**: _Dancing Diva_ (2006), _Agent J_ (2007), _Butterfly_ (2009).
+- **2007**: Won Golden Melody Award for Best Mandarin Female Singer with _Dancing Diva_, "The Day You Marry Me" won Song of the Year.
+- **2010 to 2013**: Released _Myself_ (2010), _Muse_ (2012), Myself World Tour.
+- **2013**: "The Great Artist" won Golden Melody Award for Song of the Year.
+- **2014 to 2016**: _Play_ (2014), Play World Tour (2015 to 2016).
+- **2018 to 2019**: Released _Ugly Beauty_, world tour ran from 2019 to 2024.
+- **2019**: "Womxnly" won Golden Melody Award for Song of the Year.
+- **2025 to 2027**: Released _Pleasure_, Pleasure World Tour commenced.
+- **2026**: _Pleasure_ won Golden Melody Award for Best Mandarin Female Singer, her second such award.
 
 ## Golden Melody Awards
 
-Wikipedia records that she has won a total of nine Golden Melody Awards. She has been nominated for Best Mandarin Female Singer five times, winning twice (2007, 2026), and has won Song of the Year three times (2007, 2013, 2019).
+Wikipedia records she has won nine Golden Melody Awards in total.[^1] Nominated five times for Best Mandarin Female Singer, won twice (2007, 2026); won Song of the Year three times (2007, 2013, 2019).
 
-## Names
+## Name
 
-Her original name was Tsai Yi-ling (蔡宜凌), which she later changed to Tsai Yi-ling (蔡宜翎), and subsequently to Tsai Yi-ling (蔡依翎). She uses the stage name Jolin Tsai (蔡依林) for her entertainment career.
+Her birth name was Tsai Yi-ling, later changed to Tsai Yi-ling (different characters), then to Tsai Yi-ling (yet different characters); her entertainment career uses the stage name Jolin Tsai.
 
 ## Dance
 
-Citing dance instructor Chang Sheng-feng (張勝豐), Wikipedia notes that Jolin Tsai observes Madonna's stage movements very closely, striving to achieve similar effects during her performances. She is also a lover of fondant cake decorating and has previously entered competitions and won awards.
+Wikipedia cites dance teacher Chang Sheng-feng: Jolin Tsai observes Madonna's stage movements very carefully, striving to achieve similar effects in performances. She also loves fondant cakes and has won awards in competitions.
 
 ## References
 
-- [Jolin Tsai — Wikipedia](https://zh.wikipedia.org/zh-tw/蔡依林)
+[^1]: [Jolin Tsai - Wikipedia](https://zh.wikipedia.org/zh-tw/蔡依林) - Complete entry on Jolin Tsai's life, albums, Golden Melody Awards record, and concert tours
