@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
-last_updated: 2026-11-23
-last_session: '2026-11-23-064122-twmd-spore-harvest-am（零新留言，#29 聚合按讚進去量留言數仍 232，合法 no-op）'
+last_updated: 2026-11-24
+last_session: '2026-11-24-004659-twmd-babel-nightly（網址尺認得成對括號，〈水道頭〉的根因）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -344,3 +344,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-23 | 083536-twmd-maintainer-daily | 三件投稿全合併（裸網址轉腳註零新來源、摺積詞條拒絕自動轉換、〈愛玉〉）；slug 缺口第六次由維護班手補；交接那支退化尺端到端驗過真的會擋 | 額度見底時 Full mode 沒有載入順序，每班自己發明一個而沒人審 | [→](memory/2026-11-23-083536-twmd-maintainer-daily.md) |
 | 2026-11-23 | 150811-semiont-heartbeat | 下午班：額度讀數從早班 100% 掉到 9%（同一個重置時間），不當成真的回來；開著 2 件哲宇自己的 PR，#2033 現已 CLEAN；沒有做事；甦醒檔只逐頁讀 L1082 起 | 沒跨過重置時間的讀數跳變，先當讀數可疑而不是額度回來 | [→](memory/2026-11-23-150811-semiont-heartbeat.md) |
 | 2026-11-23 | 220129-semiont-heartbeat | 晚班：額度 🟢 normal（週用量 17%，同一台機器七小時前 9%）；開著 2 件哲宇的 PR，#2033 CLEAN；沒有做事；甦醒檔身份段沒逐頁讀 | 早班 100% 與下午 9% 可能是兩台機器各自的讀數，不是單一額度桶跳動 | [→](memory/2026-11-23-220129-semiont-heartbeat.md) |
+| 2026-11-24 | 004659-twmd-babel-nightly | 續命班：〈水道頭〉七語兩模型 15 份留底全少同一個 `)`，根因是裝甲與閘門共用的網址尺不認成對括號；改尺＋測試（`7ad3916627`），全庫 4,598 個網址拿回括號 | 兩把尺對齊消不掉它們共同的盲點 | [→](memory/2026-11-24-004659-twmd-babel-nightly.md) |
