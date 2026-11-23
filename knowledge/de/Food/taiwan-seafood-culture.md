@@ -1,14 +1,14 @@
 ---
-title: 'Taiwanische Meeresfrüchte-Kultur'
-description: 'Frisch direkt vom Fischmarkt, die Kultur der Meeresfrüchte-Restaurants und schmackhafte Gerichte wie Oa-Jian zeigen die insulare Besonderheit und die reiche kulinarische Tradition Taiwans, das von Meer umgeben ist.'
+title: 'Taiwans Meeresfrüchtekultur'
+description: 'Frisch vom Fischereihafen, Meeresfrüchte-Restaurant-Kultur, Austernomelett und andere Meeresdelikatessen zeigen Taiwans Insularcharakter als von Meer umgebene Insel und seine reiche Meeresfrüchte-Esskultur'
 date: 2026-03-20
 category: 'Food'
 tags:
   [
     'Meeresfrüchte',
-    'Fischerhafen',
-    'Inselkultur',
-    'Oa-Jian',
+    'Fischereihafen',
+    'Insularkultur',
+    'Austernomelett',
     'Meeresfrüchtegerichte',
   ]
 subcategory: '食材與調味'
@@ -17,7 +17,7 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 image: '/article-images/food/keelung-kanziding-fish-market-2007.webp'
-imageAlt: 'Tourismusfischmarkt Kantanjin in Keelung'
+imageAlt: 'Keelung Kanziding Touristischer Fischmarkt'
 imageCredit: 'Jay Fang / Wikimedia Commons'
 difficulty: 'beginner'
 readingTime: 8
@@ -25,74 +25,78 @@ curation: 'incubating'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E5%9F%BA%E9%9A%86%E5%B4%81%E4%BB%94%E9%A0%82%E8%A7%80%E5%85%89%E9%AD%9A%E5%B8%82_-_panoramio.jpg'
 translatedFrom: 'Food/台灣海鮮文化.md'
-sourceCommitSha: 'e974b4c9e'
-sourceContentHash: 'sha256:83fd36c7a8a59ff5'
-sourceBodyHash: 'sha256:a8b22a0fba5539c1'
-translatedAt: '2026-09-23T21:18:17+08:00'
+sourceCommitSha: 'b93c68757e'
+sourceContentHash: 'sha256:259c74ed7072711c'
+sourceBodyHash: 'sha256:cd4714a5226da35e'
+translatedAt: '2026-11-23T08:46:49+08:00'
 ---
 
-# Die Meeresfrüchte-Kultur Taiwans
+# Taiwans Meeresfrüchtekultur
 
-Die geografische Lage, umgeben von Meer auf allen Seiten, hat eine reiche Meeresfrüchte-Kultur in Taiwan geschaffen. Von der ersten Frischefang am Morgen bis zu den dampfenden Oa-Jian (Mussel-Pfannkuchen) auf dem Nachtmarkt ernährt die Gabe des Ozeans die Menschen auf dieser Insel und prägt eine einzigartige Essenstradition mit Meeresfrüchten.
+Taiwans geografischer Vorteil als von Meer umgebene Insel hat eine reiche Meeresfrüchtekultur hervorgebracht. Vom ersten Fang der Fischerboote, die am frühen Morgen in den Hafen zurückkehren, bis zum dampfenden Austernomelett auf den Nachtmärkten – die Gaben des Ozeans nähren die Menschen der Insel und haben eine einzigartige Meeresfrüchte-Esskultur geprägt.
 
-## Fischerhäfen: Der Ursprung der Meeresgeschmäcker
+## Fischereihafen: Der Ausgangspunkt der Meeresdelikatessen
 
-Die Meeresfrüchte-Kultur Taiwans beginnt in den Fischmärkten, die die ganze Insel bevölkern. In Keelung im Norden, Nanfang'ao im Süden, Donggang und Fangliao im Südwesten sowie Sucheng und Fugang im Osten – jeder Fischerhafen hat seine eigenen charakteristischen Fischarten und Fangmethoden. Die Meeresfrüchte-Spezialitäten des Nachtmarktes in Miaokou, Keelung, sind landesweit bekannt; der Makrele von Nanfang'ao ist ein Stolz der Nordostküste, während Thunfisch aus Donggang ein Delikatesse ist, nach dem sich Feinschmecker ringen.
+Taiwans Meeresfrüchtekultur beginnt an den über die ganze Insel verteilten Fischereihafen. Im Norden Keelung und Nanfang'ao, im Süden Donggang und Fangliao, im Osten Chenggong und Fugang – jeder Hafen hat seine charakteristischen Fischarten und Fangmethoden. Die Meeresfrüchtesnacks auf dem Miaokou-Nachtmarkt in Keelung sind landesweit bekannt, die Makrele von Nanfang'ao ist der Stolz der Nordostküste, und der Rotflossen-Thunfisch von Donggang ist eine Delikatesse, um die Feinschmecker wetteifern.
 
-Die Kultur der Fischerhäfen ist nicht nur Fischerei und Handel, sondern auch eine Lebensweise. Die Auktionen auf den Märkten um fünf Uhr morgens sind ein Schauspiel, bei dem die Fischer mit prägnanten Gesten bieten – dies ist die ursprünglichste und direkteste Form des maritimen Handels. Der kurze Lieferkettenweg von „Hafen zum Teller“ garantiert die Qualität und Frische der taiwanesischen Meeresfrüchte.
+Die Hafen-Kultur ist mehr als nur Fischfang und Verkauf – sie ist eine Lebensweise. Um fünf Uhr morgens findet die Fischauktion statt, bei der Fischer mit knappen, kräftigen Handzeichen bieten – die ursprünglichste und direkteste Transaktionsform der Meereswirtschaft. Frischer Fang geht direkt vom Kutter auf den Tisch; diese kurze Lieferkette „vom Hafen auf den Teller“ garantiert Qualität und Frische taiwanischer Meeresfrüchte.
 
-## Oa: Die Seele der Meeresgeschmäcker Taiwans
+## Austern: Die Seele von Taiwans Meeresgeschmack
 
-In der Meeresfrüchte-Kultur Taiwans nimmt das Oa (Muschel) einen besonderen Platz ein. Die Muschelzucht an der Westküste Taiwans hat eine jahrhundertealte Geschichte, und Orte wie Boda bei Chiayi, Anping in Tainan oder Taixi in Yunlin sind wichtige Produktionsgebiete für Oa. Die traditionelle Zuchtmethode mit Muschelnestringen wird noch heute verwendet: Bei Hochwasser filtern die Muscheln Plankton aus dem Wasser, und bei Ebbe werden sie der Luft ausgesetzt, was ihre Krankheitsresistenz stärkt.
+In Taiwans Meeresfrüchtekultur nehmen Austern (蚵仔, Muscheln) eine besondere Stellung ein. Die Austernzucht an Taiwans Westküste blickt auf mehrere hundert Jahre Geschichte zurück; Budai in Chiayi, Anping in Tainan und Taixi in Yunlin sind wichtige Anbaugebiete. Die traditionelle Pfahlkultur (蚵架) wird bis heute angewandt: Bei Flut filtern die Austern Plankton aus dem Meerwasser, bei Ebbe an der Luft ausgesetzt, stärken sie ihre Krankheitsresistenz.
 
-Oa-Jian ist eines der Gerichte, das die Meeresfrüchte-Kultur Taiwans am besten repräsentiert. Frische, fleischige Muscheln, Eier und Taro-Teig werden auf einer heißen Platte knusprig gebraten und mit einer speziellen süß-scharfen Soße übergossen; bei jedem Bissen schmeckt man die Süße des Meeres. Dieses scheinbar einfache Gericht verkörpert perfekt das Verständnis der Taiwanesen für Meeresfrüchte: den ursprünglichen Geschmack bewahren, einfach würzen, die Frische hervorheben.
+Das Austernomelett (蚵仔煎) ist einer der Snacks, die Taiwans Meeresfrüchtekultur am besten repräsentieren. Frische, fleischige Austern werden mit Ei und Süßkartoffelmehlteig auf der heißen Eisenplatte knusprig gebraten und mit einer speziellen süß-scharfen Sauce übergossen – jeder Bissen schmeckt die süße Frische des Ozeans. Dieser scheinbar einfache Snack verkörpert perfekt das taiwanische Verständnis von Meeresfrüchtezubereitung: den Eigengeschmack bewahren, einfach würzen, die Frische hervorheben.
 
-Verschiedene Oa-Gerichte wie Oa-Kekse (Oa-Su) oder Oa-Nudeln zeigen die tiefgehende Entwicklung dieser Meeresgeschmäcker durch die Taiwanesen. Jede Zubereitungsart offenbart unterschiedliche Geschmackscharakteristika des Oa – von knusprig bis zart, von leicht bis reichhaltig; der Oa hat in der taiwanesischen Küche eine reiche Ausdrucksform.
+Austernküchlein (蚵仔酥), Austern-Mehrfadennudeln (蚵仔麵線), Austernsuppe (蚵仔湯) und diverse weitere Austerngerichte zeigen die tiefe kulinarische Erschließung dieses Meeresgeschmacks durch die Taiwaner. Jede Zubereitungsart bringt andere Geschmacksnuancen der Auster zur Geltung – von knusprig bis zart, von leicht bis kräftig; in Taiwans Küche entfaltet die Auster ein reiches Spektrum an Ausdrucksformen.
 
-## Tiefseekost: Die Thunfisch-Kultur
+## Tiefsee-Delikatessen: Die Kultur des Rotflossen-Thunfischs
 
-Der Thunfisch aus Donggang ist ein Spitzenrepräsentant der Meeresfrüchte-Kultur Taiwans. Während der Thunfischsaison von Mai bis Juli sind die Fischerhäfen in Donggang immer voller Feinschmecker aus aller Welt. Diese riesigen Fische, die im Pazifik wandern, haben einen aromatischen Fleischgeschmack und reichen Fettgehalt und sind ein Höhepunkt der Rohkostküche.
+Der Rotflossen-Thunfisch (黑鮪魚) von Donggang ist die Spitzenrepräsentanz von Taiwans Meeresfrüchtekultur. Jedes Jahr von Mai bis Juli, während der Thunfisch-Saison, ist der Fischereihafen Donggang voller Feinschmecker aus allen Landesteilen. Diese Riesenfische, die im tiefen Pazifik wandern, haben schmackhaftes, fettreiches Fleisch und sind die Krönung der Sashimi-Küche.
 
-Die Auktionen des Thunfischs aus Donggang sind ein Spektakel. Ein Thunfisch von mehreren hundert Kilogramm kann oft für Zehntausende von Yuan verkauft werden. Dies ist nicht nur ein Ausdruck ökonomischen Werts, sondern auch ein Maßstab für das Niveau der taiwanesischen Fischerei- und Meeresfrüchte-Kultur. Von der Fangtechnik über den Transport bis hin zur Verkaufsstruktur und Kochkunst – jeder Abschnitt der Thunfisch-Wertschöpfungskette spiegelt ein hohes professionelles Niveau wider.
+Die Auktionen des Donggang-Rotflossen-Thunfischs sind ein spektakuläres Schauspiel. Ein einzelner Fisch von mehreren hundert Kilogramm erzielt oft Preise von mehreren hunderttausend New-Taiwan-Dollar. Das spiegelt nicht nur den ökonomischen Wert wider, sondern auch das Niveau von Taiwans Fischereitechnik und Meeresfrüchtekultur. Von Fangtechnik über Frischhaltung und Transport bis hin zum Auktionssystem und zur Kochkunst – jedes Glied der Wertschöpfungskette des Rotflossen-Thunfischs zeugt von Professionalität.
 
-## Die Kultur der Meeresfrüchte-Restaurants
+## Meeresfrüchte-Restaurant-Kultur
 
-Die Kultur der Meeresfrüchte-Restaurants in Taiwan hat einen starken familiären Charakter. Von den kleinen Lokalen am Fischerhafen bis zu den Meeresfrüchtehäusern in der Stadt ist das gemeinsame Essen von Meeresfrüchten eine wichtige soziale Aktivität für die Taiwanesen. Gedämpfter Zackenbarsch, gedämpfte Garnelen mit Knoblauch, Salz-Paprika-Krabben und Ingwer-Schalotten-Löwenkoller auf dem runden Tisch – jedes Gericht verkörpert die Philosophie des „Frischen“.
+Taiwans Meeresfrüchte-Restaurant-Kultur ist stark familiengeprägt. Vom kleinen Lokal am Hafen bis zum großen Meeresfrüchte-Restaurant in der Stadt – das gemeinsame Essen von Meeresfrüchten ist eine wichtige soziale Aktivität der Taiwaner. Auf dem drehbaren Rundtisch stehen dampfgarer Zackenbarsch, mit Knoblauch gedämpfte Jakobsmuscheln, Pfeffer-Salz-Krabbe, Ingwer-Frühlingszwiebel-Hummer – jedes Gericht verkörpert die Kochphilosophie, dass „Frische“ an erster Stelle steht.
 
-Die Besonderheit der Meeresfrüchte-Restaurants in Taiwan liegt in der Präsentation von lebenden Meeresfrüchten und der Zubereitung nach Bestellung. In transparenten Aquarien schwimmen verschiedene Fische, Garnelen, Krabben und Muscheln, die Kunden selbst auswählen können; die Köche wählen dann die am besten geeignete Kochmethode entsprechend den Eigenschaften der Zutaten. Dieses interaktive Esserlebnis macht das Genießen von Meeresfrüchten zu einem rituellen Akt.
+Das Charakteristikum taiwanischer Meeresfrüchte-Restaurants liegt in der Präsentation lebender Meeresfrüchte und der Zubereitung à la minute. In transparenten Aquarien schwimmen Fische, Garnelen, Krabben und Muscheln; die Gäste wählen selbst aus, und der Koch wendet dem Produkt angemessene Zubereitungsarten an. Dieses interaktive Esserlebnis macht den Genuss von Meeresfrüchten zu einer rituellen Handlung.
 
-## Alltagskost: Tintenfischringe und Kalmar
+## Volksnahe Meeresdelikatessen: Tintenfisch und Sepia
 
-Im Vergleich zum teuren Thunfisch sind Tintenfischringe (Xiao Juan) und Kalmare (Tou Chou) erschwinglichere Meeresfrüchte, die dem alltäglichen Leben näherstehen. Die Küstenregionen im Norden Taiwans produzieren reichlich dieser Mollusken; frische Tintenfischringe werden einfach blanchiert und mit Ingwer-Sojasauce serviert – ein köstlicher Genuss. Kalmare eignen sich gut zum schnellen Braten oder zur Zubereitung von Kalmargerichte, deren zähe Konsistenz bei den Taiwanesen beliebt ist.
+Im Vergleich zum teuren Rotflossen-Thunfisch sind Tintenfisch (小卷) und Sepia (透抽) Meeresfrüchte, die dem Alltag der einfachen Leute näher stehen. In den nördlichen Gewässern Taiwans sind diese Kopffüßer reichlich vertreten; frischer Tintenfisch braucht nur kurz blanchiert und mit Ingwerscheiben in Sojasauce getunkt zu werden, um eine vorzügliche Speise zu ergeben. Sepia eignet sich für schnelles Anbraten oder zur Sepia-Suppe (透抽羹) – die elastische, „Q“-Textur ist bei Taiwanern sehr beliebt.
 
-Die Krabben-Suppe und Tintenfischsuppen auf den Nachtmärkten in Keelung, die frittierten Tintenfischbällchen und der getrocknete Tintenfisch auf den Marktständen – diese preiswerten Meeresfrüchte-Spezialitäten ermöglichen es auch gewöhnlichen Menschen, das Meer zu genießen. Diese Demokratisierung der Meeresfrüchte ist ein wichtiges Merkmal der taiwanesischen Meeresfrüchte-Kultur.
+Krabben-Suppe (螃蟹羹) und Tintenfisch-Suppe (花枝羹) auf Keelungs Nachtmarkt, frittierte Tintenfischbällchen (炸花枝丸) und gegrillter Tintenfisch (花枝燒) an den Nachtmarktständen – diese preiswerten Meeresfrüchte-Snacks ermöglichen auch einfachen Bürgern den Genuss der Meeresgeschmäcker. Diese Popularisierung von Meeresfrüchten ist ein wichtiges Merkmal von Taiwans Meeresfrüchtekultur.
 
-## Innovation in der Zuchttechnik
+## Innovationen in der Aquakulturtechnik
 
-Die Meeresfrüchte-Kultur Taiwans stützt sich nicht nur auf die Wildfischerei; auch die fortschrittliche Zuchttchnik spielt eine wichtige Rolle. Von der Karpfenzucht im Süden bis zur Aalindustrie in der Mitte, von den Tilapia im Süßwasser bis zu Zackenbarschen an der Küste – die aquakulturelle Technologie Taiwans ist in Asien führend.
+Taiwans Meeresfrüchtekultur stützt sich nicht nur auf den Wildfang; die entwickelte Aquakulturtechnik ist eine ebenso wichtige Stütze. Von der Grauen Meeräsche (虱目魚) im Süden über die Aalzucht in Zentraltaiwan bis hin zu Süßwasser-Wels (鯰魚) und Küsten-Zackenbarsch (石斑魚) – Taiwans Aquakulturtechnik nimmt in Asien eine führende Position ein.
 
-Besonders hervorzuheben ist die Zuchttchnik für Zackenbarsche in Taiwan. Von der Eierbrut bis zur Aufzucht ganzer Fische hat Taiwan eine vollständige Wertschöpfungskette aufgebaut. Hochwertige Zackenbarsche versorgen nicht nur den heimischen Markt, sondern werden auch in großen Mengen nach Hongkong und auf das chinesische Festland exportiert und sind ein wichtiger Exportartikel der taiwanesischen Landwirtschaft.
+Besonders hervorzuheben ist Taiwans Zackenbarsch-Aquakulturtechnik. Vom Fischbrut bis zum ausgewachsenen Fisch hat Taiwan eine vollständige Wertschöpfungskette etabliert. Hochwertiger Zackenbarsch versorgt nicht nur den Inlandsmarkt, sondern wird in großen Mengen nach Hongkong, das chinesische Festland und andere Regionen exportiert – ein wichtiges Exportprodukt von Taiwans Landwirtschaft.
 
-## Meeresfrüchteerhaltung und Kühlkette
+## Meeresfrüchte-Frischhaltung und Kühlkette
 
-Die Entwicklung der modernen taiwanesischen Meeresfrüchte-Kultur ist untrennbar mit der Kühlkettentechnologie verbunden. Von der schnellen Gefrierung auf den Fischereifahrzeugen bis zur gekühlten Lieferung in die Märkte gewährleistet ein vollständiges Kühlsystem die Qualität der Meeresfrüchte. Dies ermöglicht es Verbrauchern im Inland, frische Meeresgeschmäcker zu genießen und erweitert den Einflussbereich der Meeresfrüchte-Kultur erheblich.
+Die Entwicklung der modernen taiwanischen Meeresfrüchtekultur ist untrennbar mit Kühlkettentechnik verbunden. Vom Schockfrosten an Bord der Kutter bis zur gekühlten Auslieferung an die Märkte – ein ausgereiftes Kühlkettensystem sichert die Qualität der Meeresfrüchte. Damit können auch Verbraucher im Binnenland frische Meeresdelikatessen genießen, was den Einflussbereich der Meeresfrüchtekultur 크게 erweitert hat.
 
-Die Spezialitätenregale mit rohen Fischfilets in Supermärkten oder die Meeresfrüchte-Bento-Boxen in Convenience Stores – diese modernen Verkaufsformen machen den Meeresfrüchtekonsum bequemer. Die Einführung von Qualitätskennzeichnungen und Herkunftsverfolgungssystemen stärkt auch das Vertrauen der Verbraucher in die Sicherheit der Meeresfrüchte.
+Sashimi-Theken in Supermärkten, Meeresfrüchte-Bentos in Convenience-Stores – diese modernen Vertriebswege machen den Meeresfrüchtekonsum bequemer. Die Einführung von Qualitätskennzeichnung und Herkunftsrückverfolgbarkeit stärkt zudem das Vertrauen der Verbraucher in die Sicherheit von Meeresfrüchten.
 
 ## Meeresfrüchte und gesunde Ernährung
 
-Mit dem gestiegenen Gesundheitsbewusstsein gewinnt die Meeresfrüchte in der taiwanesischen Esskultur an Bedeutung. Reich an Proteinen, Omega-3-Fettsäuren, Vitaminen und Mineralien, sind Meeresfrüchte ein wichtiger Bestandteil einer gesunden Ernährung. Zubereitungsarten mit wenig Fett und Salz wie Rohkost, gedämpfter Fisch oder gegrillter Fisch werden immer beliebter.
+Mit wachsendem Gesundheitsbewusstsein gewinnt Meeresfrüchte in Taiwans Esskultur an Bedeutung. Reich an Protein, Omega-3-Fettsäuren, Vitaminen und Mineralstoffen sind Meeresfrüchte ein wichtiger Bestandteil gesunder Ernährung. Zubereitungsarten mit wenig Öl und Salz wie Sashimi, dampfgegarter Fisch und gegrillter Fisch werden immer beliebter.
 
-Gleichzeitig werden die Kochmethoden für Meeresfrüchte vielfältiger. Japanische, koreanische und westliche Techniken sind in die taiwanesische Meeresfrüchte-Kultur integriert und schaffen ein reichhaltigeres Geschmackserlebnis. Diese kulturelle Vermischung spiegelt die Offenheit und Inklusivität der taiwanesischen Esskultur wider.
+Gleichzeitig diversifizieren sich die Zubereitungsarten von Meeresfrüchten zunehmend. Japanische, koreanische und westliche Kochtechniken fließen in Taiwans Meeresfrüchtekultur ein und schaffen reichhaltigere Geschmackserlebnisse. Diese kulturelle Fusion spiegelt die Offenheit und Inklusivität von Taiwans Esskultur wider.
 
-## Gedanken zur Nachhaltigkeit
+## Überlegungen zur nachhaltigen Entwicklung
 
-Angesichts der Herausforderungen für die Meeresressourcen denkt auch die Meeresfrüchte-Kultur Taiwans über nachhaltige Entwicklung nach. Die Reduzierung der Überfischung, die Förderung verantwortungsvoller Fischerei und die Bewerbung umweltfreundlicher Zucht sind alle Bemühungen zur Sicherung der langfristigen Existenz dieser Kultur.
+Angesichts der Herausforderungen mariner Ressourcen denkt Taiwans Meeresfrüchtekultur auch über nachhaltige Entwicklung nach. Die Reduzierung von Überfischung, die Entwicklung verantwortungsvoller Fischerei und die Förderung umweltfreundlicher Aquakultur – all diese Bemühungen dienen der langfristigen Fortführung der Meeresfrüchtekultur.
 
-Die Verbraucherbildung ist ebenfalls ein wichtiger Aspekt. Die Verbreitung von Konsumgewohnheiten wie der Auswahl saisonaler Meeresfrüchte, der Unterstützung lokaler Fischereien und der Reduzierung von Lebensmittelverschwendung trägt zum Schutz der Meeresressourcen bei. Einige Restaurants bieten bereits nachhaltige Meeresfrüchtegerichte an und kennzeichnen Informationen über Herkunft und Fangmethode, sodass die Verbraucher bewusstere Entscheidungen treffen können.
+Auch Verbraucherbildung ist ein wichtiges Glied. Die Förderung von Konsumkonzepten wie der Wahl saisonaler Meeresfrüchte, der Unterstützung lokaler Fischerei und der Vermeidung von Verschwendung trägt zum Schutz mariner Ressourcen bei. Einige Restaurants bieten nun nachhaltige Meeresfrüchte-Menüs an, die Herkunft und Fangmethode der Fische angeben, damit Verbraucher verantwortungsvollere Entscheidungen treffen können.
 
-Die Meeresfrüchte-Kultur Taiwans spiegelt die tiefe Verbindung des Inselvolkes zum Meer wider. Von traditionellen Fangtechniken bis hin zu moderner Zuchttchnik, von einfachen Zubereitungsarten bis hin zur raffinierten Kochkunst – die Meeresfrüchte-Kultur zeugt vom Wandel der taiwanesischen Gesellschaft. In der heutigen globalisierten Welt ist diese an die lokale Umwelt verwurzelte Esskultur einer der wertvollsten kulturellen Bestände Taiwans.
+Taiwans Meeresfrüchtekultur verkörpert die tiefe Verbundenheit des Inselvolkes mit dem Ozean. Von traditioneller Fangtechnik bis zu moderner Aquakulturtechnologie, von einfachen Zubereitungsweisen bis zur raffinierten Kochkunst – die Meeresfrüchtekultur hat Taiwans gesellschaftlichen Wandel miterlebt. In der globalisierten Welt von heute ist diese in der lokalen Umwelt verwurzelte Esskultur eines von Taiwans wertvollsten Kulturgütern.
 
 ## Bildquellen
 
-- Hero: Tourismusfischmarkt Kantanjin in Keelung, Foto Jay Fang, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E5%9F%BA%E9%9A%86%E5%B4%81%E4%BB%94%E9%A0%82%E8%A7%80%E5%85%89%E9%AD%9A%E5%B8%82_-_panoramio.jpg), CC BY-SA 3.0.
+- Hero: Keelung Kanziding Touristischer Fischmarkt, Foto Jay Fang, Wikimedia Commons[^1], CC BY-SA 3.0.
+
+## Quellen
+
+[^1]: [Keelung Kanziding Touristischer Fischmarkt - Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E5%9F%BA%E9%9A%86%E5%B4%81%E4%BB%94%E9%A0%82%E8%A7%80%E5%85%89%E9%AD%9A%E5%B8%82_-_panoramio.jpg) - Originalfotoseite des Hero-Bildes „Keelung Kanziding Touristischer Fischmarkt“ dieses Artikels, Foto Jay Fang, CC BY-SA 3.0
