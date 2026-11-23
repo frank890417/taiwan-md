@@ -1,17 +1,17 @@
 ---
-title: 'A History of Forest Development in Taiwan: A Century-Long Shift from Resource Extraction to National Land Security'
-description: "From the camphor smoke of the Qing dynasty to the ringing rails of the Japanese colonial era and the era of massive logging that shook the mountains after the war. This article traces the global geopolitical logic behind Taiwan's forest development policies and uses data to clarify the true history of a century of forestry."
+title: "Taiwan's Forest Development History: A Century-Long Shift from Resource Extraction to National Land Security"
+description: "From the camphor smoke of the Qing era to the clatter of steel rails under Japanese rule, and on to the postwar great logging era that shook the mountains — this article traces the global geopolitical logic behind Taiwan's forest development policies and uses data to clarify the true story of a century of forestry."
 date: 2026-03-25
 category: 'History'
 tags:
   [
-    'Forestry Policy',
-    'Forest Railways',
-    'Using Forests to Fund Governance',
-    'Camphor',
-    'Logging Bans',
-    'Global History Perspective',
-    'Geopol．politics',
+    'Forestry policy',
+    'forest railways',
+    '"using forests to fund governance"',
+    'camphor',
+    'logging ban policy',
+    'world-historical perspective',
+    'geopolitics',
   ]
 subcategory: '殖民與帝國'
 author: 'Taiwan.md'
@@ -21,103 +21,107 @@ lastHumanReview: false
 readingTime: 15
 curation: 'incubating'
 translatedFrom: 'History/台灣森林開發史.md'
-sourceCommitSha: '69b3afd91'
-sourceContentHash: 'sha256:8069998f1aa354c8'
-sourceBodyHash: 'sha256:55bbc4efed5f30a9'
-translatedAt: '2026-08-04T16:11:28+08:00'
+sourceCommitSha: '9d2957096d'
+sourceContentHash: 'sha256:ed8b698bf0896e42'
+sourceBodyHash: 'sha256:909c299bc2ff5f8b'
+translatedAt: '2026-11-23T08:46:36+08:00'
 ---
 
-> Who took away our precious forests? The answer might be different from what you think.
+> Who took our precious forests? The answer may not be what you think.
 
 ---
 
-## Late Qing Dynasty: The Fuse of the Industrial Revolution and the Camphor Monopoly
+## Late Qing Period: The Industrial Revolution's Fuse and the Camphor Monopoly
 
-The modern development of Taiwan's forestry did not begin with a thirst for timber, but with the monopoly on "camphor" (_changnao_).
+The modern development of Taiwan's forestry did not begin with a craving for timber, but with a monopoly on **camphor**.
 
-### Global Celluloid Industry and "Opening Mountains to Pacify Tribes"
+### The Global Celluloid Industry and "Opening Mountains and Pacifying Savages"
 
-In the mid-19th century, the West was undergoing the Second Industrial Revolution. The invention of **Celluloid** (an early plastic raw material) and **smokeless gunpowder** turned camphor into a strategic resource. At that time, Taiwan supplied approximately 70% of the world's camphor.
+In the mid-19th century, the West was undergoing the Second Industrial Revolution. The invention of **celluloid** (an early plastic feedstock) and **smokeless powder** turned camphor into a strategic material. At the time, Taiwan supplied roughly 70% of the world's camphor.
 
-- **Policy Logic**: To replenish the national treasury, the Qing government promoted "Opening Mountains to Pacify Tribes" (_kaishan fufan_). While ostensibly for "civilizing" purposes, the true intent was to penetrate mountainous regions to establish camphor distillation kilns (_naozhao_).
-- **Global Historical Context**: This coincided with the era of Resource Colonialism, where great powers were plundering specialized crop resources globally.
-- **Profound Impact**: The development during this period was "extractive," leading to the near-total depletion of camphor forests in shallow mountains. Simultaneously, it breached the ecological boundaries of indigenous mountain peoples, causing ethnic conflicts that lasted for a century.
+- **Policy logic**: To fill the imperial treasury, the Qing court promoted "opening mountains and pacifying savages" (開山撫番) — ostensibly a civilizing mission, in reality a push to penetrate the mountains and establish "camphor kilns" (腦灶).
+- **World-historical corroboration**: This mirrored the resource colonialism of the great powers as they plundered specialty crops worldwide.
+- **Far-reaching impact**: Forest exploitation in this period was "predatory," wiping out low-elevation camphor stands while shattering the ecological boundaries of mountain Indigenous peoples, sowing a century of inter-ethnic conflict.
 
 ---
 
 ## Japanese Colonial Period: Imperial Modernization and the Civilization of Steel Rails
 
-In 1895, after Japan took control of Taiwan, forestry policy shifted from "frontier plunder" to a "systematized state-run system."
+After Japan acquired Taiwan in 1895, forestry policy shifted from "frontier plunder" to "state-run systematization."
 
-### Imperial Strategy and the Three Major State-Run Forest Farms
+### Imperial Strategy and Three Major State-Run Forest Areas
 
-The modernization efforts following the Meiji Restoration required vast amounts of high-quality timber, and the cypress (_hinoki_) forests in Taiwan's deep mountains were the ideal infrastructure materials in the eyes of the Empire.
+Japan's post-Meiji modernization demanded vast quantities of high-quality timber, and the cypress forests of Taiwan's deep mountains were seen by the empire as the finest construction material.
 
-- **Technical Inference**: The Japanese government was willing to invest heavily in constructing the three major forest railways—**Alishan, Taiping Mountain, and Bashan**—because they viewed Taiwan as permanent territory and pursued "long-term management."
-- **Forest Railway Technical Details**: They introduced the American **Shay geared locomotive**. Its vertical cylinders and bevel gear transmission technology were designed to overcome the extreme gradients and fragmented terrain of Taiwan's mountains.
-- **Global Historical Perspective**: This reflects the ambition of the Empire of Japan in the early 20th century to emulate Western powers by establishing "Imperial Forestry," using Taiwanese cypress to build shrines (such as Meiji Jingu) and warships, symbolizing the legitimacy and power of the regime.
-
----
-
-## Post-War Transformation: Cold War Island and "Using Forests to Fund Governance"
-
-After 1945, the regime changed. The situation faced by the Nationalist Government was entirely different from the Japanese colonial period, leading to a drastic turning point in the fate of the forests.
-
-### Cessation of US Aid and the Urgency of Survival
-
-From the 1950s to the 1960s, Taiwan was pushed to the front lines of the Cold War. With the end of US aid in 1965, the government urgently needed to raise its own funds to maintain massive military expenditures.
-
-- **Policy Motivation**: The government promoted an industrial policy of "using agriculture and forestry to cultivate industry and commerce" (Yao Chih-nien, 1993), treating forests as a "green ATM." During this time, forest resources were commodities used to exchange for US dollars.
-  - In 1956, development was expanded to thirteen forest areas under the "Three More" forestry policy: "More reforestation, more logging, and more tax payments" (Chiao Kuo-mo, 199<0xE2><0x80><0x89>3).
-  - In 1958, a management plan for Taiwan's forestry was announced, ordering that all natural forests—except those reserved for research, observation, or scenic purposes—be cleared, with cypress given an 80-year limit and others a 40-year limit, to be gradually converted into plantations (Yao Chih-nien, 1993).
-- **Technical Shift: The Forest Road Revolution**: To maximize profits, the government abandoned expensive railways in favor of the highly destructive **"Forest Road System."** Heavy trucks drove directly into the deep mountains; while logging speed increased dramatically, improper road cutting created severe risks for landslides and debris flows in later generations.
-
-### Comparison of Historical Data
-
-- **Data Analysis**: According to statistics by Yao Chih-nien (1993), from 1912 to 1945, the three major state-run forest farms (Alishan, Bashan, Taiping Mountain) logged a total area of approximately 18,432 hectares, with a timber volume of about 6.63 million cubic meters. It should be noted that this figure only covers state-run farms and does not include private logging operators of the same period; thus, the actual total harvest should be higher. In the post-war period between 1 1946 and 1990, the logged volume reached over 44,567,000 cubic meters, covering an area exceeding 344,000 hectares—approximately 6.7 times the state-run figures from the Japanese era (Peng Kuo-tung, 1989; Forestry Bureau, 1991; as cited in Lin Kuo-chuan, 1993).
-- **Interpretative Discrepancies**: In 1972, the peak of logging, the _Forestry Bureau Annals_ (1997) recorded 1.8 million cubic meters, while Chiao Kuo-mo (1993) estimated it to be over 2 million cubic meters. This shows that the forestry history of the "Massive Logging Era" requires further disclosure of historical materials and academic clarification (Li Ken-cheng, 2016). However, different sources point toward the same narrative.
-- **Era Inference**: This reflects a short-term depletion strategy where the regime, under the mindset of "Retaking the Mainland," viewed Taiwan as a temporary residence rather than engaging in long-term national land planning. However, the "arrangement" within the Nationalist Government's historical perspective was to transform a larger-scale, lower-cost, and less sustainable resource extraction into a national epic about "survival" and "development."
-
-### The Constructed Binary Opposition
-
-In the education and propaganda of past decades, the Nationalist Government successfully established a formula of opposition:
-
-- **Japanese Colonial Period = Plunder**: Defining Japanese development as "extracting colonial resources to serve the motherland," emphasizing that Alishan's sacred trees were cut to build Meiji Jingu, thereby strengthening feelings of victimhood. The Japanese era relied on forest railways; their tracks were fixed and prominent. The stumps of "sacred trees" we see in Alishan today are mostly remnants left after logging during the Japanese period. These residual legacies constantly remind people of the development of that era.
-- **Post-War Period = Construction**: Packaging massive logging under the national cause of "Reconstruction Base," "Economic Development," and "Resettlement of Veterans." Furthermore, the government closely linked forest development with the carving of the **Central Cross-Island Highway**, forming a heroic narrative of the era. Post-war development introduced the American-style **"Forest Road System,"** using heavy trucks to penetrate mountain areas. These roads were built quickly and cheaply, but often disappeared or were closed due to landslides after logging was completed.
-
-**The Misleading Point**: This led the public to overlook the continuity of forestry management. In fact, in the early post-war years, the Forestry Bureau almost entirely inherited the state-run forest farm system and technology from the Japanese colonial period, but its intensity of execution far exceeded that of its predecessor.
+- **Technological rationale**: The Japanese government was willing to invest heavily in building the **Alishan, Taipingshan, and Basianshan** forest railways because it regarded Taiwan as permanent territory and pursued "long-term management."
+- **Railway technical details**: Introduction of American **Shay geared locomotives**, whose vertical cylinders and geared drive were designed to overcome the extreme grades and fragmented terrain of Taiwan's mountain ranges.
+- **World-historical perspective**: This reflected the early-20th-century Japanese Empire's ambition to emulate Western powers in building an "imperial forestry" — using Taiwan cypress to construct shrines (such as Meiji Shrine) and warships, symbolizing the regime's legitimacy and power.
 
 ---
 
-## A Century of Transformation: From "Conquest" to "Reconciliation"
+## Postwar Transition: Cold War Isolated Island and "Using Forests to Fund Governance"
 
-Starting in the 1980s, environmental awareness awakened globally, and Taiwan experienced civic movements such as "Saving the Qilanshan Sacred Trees."
+After 1945 the regime changed. The Nationalist government faced a situation completely different from the Japanese era, triggering a drastic turn in the forests' fate.
 
-- **1991 Total Logging Ban**: This was a watershed moment in Taiwan's forestry history. The government officially announced a total ban on logging natural forests, shifting forest management from "economic extraction" to "national land security."
-- **East Asian Contextual Evidence**: This aligns with the trend in East Asian countries (such as China and Thailand) during the 1990s, which implemented logging bans following large-scale flooding.
-- **Legacy for Future Generations**: The ban caused Taiwan's timber self-sufficiency rate to drop below 1%, making the industry extremely dependent on imports. This has prompted contemporary rethinking of the balance between "private forest utilization" and "sustainable development of domestic timber."
+### Termination of U.S. Aid and the Urgency of Survival
+
+From the 1950s through the 1960s, Taiwan was thrust to the front line of the Cold War. With the end of U.S. aid in 1965, the regime urgently needed self-generated revenue to sustain massive military outlays.
+
+- **Policy motive**: Pushing an industrial policy of "using agriculture and forestry to nurture industry and commerce" (Yao He-nien, 1993), treating forests as a "green ATM." Forest resources became commodities for earning U.S. dollars.
+  - In 1956, development was expanded to thirteen forest districts enforcing a "three-more forestry policy": more afforestation, more logging, more revenue remitted (Chiao Kuo-mo, 1993).
+  - In 1958 the Taiwan Forestry Management Guidelines were promulgated, ordering that all provincial natural forests — except those reserved for research, observation, or scenery — be cleared on a rotation of 80 years for cypress and 40 years for other species, to be progressively converted to plantations (Yao He-nien, 1993).
+- **Technological shift: the forest-road revolution**: To maximize profit, the government abandoned costly railways in favor of the highly destructive **"forest road system."** Heavy trucks drove straight into the deep mountains; not only was felling speed staggering, but improper road cutting created severe landslide hazards for later generations.
+
+### Comparative Data Analysis
+
+- **Data parsing**: According to Yao He-nien (1993), the three Japanese-era state-run forest areas (Alishan, Basianshan, Taipingshan) from 1912 to 1945 logged a combined area of approximately 18,432 hectares and a volume of about 6.63 million cubic meters. Note that this covers only state-run areas, excluding contemporary private loggers, so the actual total harvest was higher. From 1946 to 1990, the logged volume reached 44.567 million cubic meters over an area exceeding 344,000 hectares — roughly 6.7 times the Japanese state-run figures (Peng Kuo-tung, 1989; Forestry Bureau, 1991; cited in Lin Kuo-chuan, 1993).
+- **Interpretive differences**: For the peak year 1972, the Forestry Bureau Gazetteer (1997) records 1.8 million cubic meters, while Chiao Kuo-mo (1993) estimates over 2 million — showing that the history of the great logging era still awaits further archival release and scholarly clarification (Li Ken-cheng, 2016)[^1]. Yet all sources point to the same narrative.[^2]
+- **Period inference**: This reflects the regime's short-term depletion strategy — viewing Taiwan as a temporary base under a "retake the mainland" mindset — rather than long-term national land planning. Yet the Nationalist historiographical "handling" lay in converting a larger-scale, lower-cost, less sustainability-minded resource extraction into an ethnic epic of "survival" and "development."
+
+### A Manufactured Binary Opposition
+
+Over decades of education and propaganda, the Nationalist government successfully established an oppositional formula:
+
+- Japanese era = plunder: Japanese development defined as "seizing colonial resources for the metropole," emphasizing Alishan's sacred trees felled for Meiji Shrine, reinforcing victim sentiment. Japanese reliance on forest railways left fixed, visible tracks; the "sacred tree" stumps seen today at Alishan are mostly remnants of Japanese-era logging. These surviving relics constantly remind people of that development.
+- Postwar era = construction: The great logging packaged within the grand righteousness of "recovery base," "economic development," and "veteran resettlement." The government tightly bound forestry development to the excavation of the **Central Cross-Island Highway (Zhongheng)**, forging a heroic narrative of the age. Postwar development introduced the American-style **"forest road system,"** using heavy trucks to penetrate deep mountains. Roads were built fast and cheap, and often collapsed or were closed after logging.
+
+**Mislead point**: This causes the public to overlook the continuity of forestry management. In fact, the early-postwar Forestry Bureau almost completely inherited the Japanese state-run forest system and technology, but executed at intensities far exceeding the predecessor.
 
 ---
 
-## Summary: The Trajectory of Forest Development
+## Turn of the Century: From "Conquest" to "Reconciliation"
 
-Looking at the entire timeline, Taiwan's forests have experienced three shifts in value definition:
+From the 1980s, environmental awareness awakened globally, and Taiwan experienced civic movements such as "Save the Qilan Sacred Tree Grove."
 
-- **Before the 19th Century**: Forests were "wilderness," an obstacle to reclamation.
-- **Early to Mid-20th Century**: Forests were "assets," chips used to exchange for national power and US dollars.
-- **21st Century**: Forests are "home," a resilient barrier against extreme climate.
+- **1991 total logging ban**: A watershed in Taiwan's forestry history. The government formally announced a complete ban on natural-forest logging, shifting management policy from "economic extraction" to "national land security."
+- **East Asian contextual corroboration**: This aligned with the 1990s trend in East Asian countries (e.g., China, Thailand) imposing logging bans after massive floods.
+- **Later impact**: The ban drove Taiwan's timber self-sufficiency below 1%, making the industry heavily import-dependent. This prompts contemporary rethinking of the balance between "private forest utilization" and "sustainable development of domestic timber."
 
-The forestry policies of these three hundred years are, in essence, a change in the human definition of "natural value." When we walk into Alishan today, we should see more than just beautiful scenery; we should see the profound traces etched into the tree rings regarding global geopolitics and the struggle for survival.
+---
+
+## Conclusion: The Historical Trajectory of Forest Development
+
+Viewed across the full timeline, Taiwan's forests have undergone three shifts in value definition:
+
+- **Pre-19th century**: Forests were "wilderness," obstacles to reclamation.
+- **Early to mid-20th century**: Forests were "assets," chips for trading national power and U.S. dollars.
+- **21st century**: Forests are "home," a resilient buffer against extreme climate.
+
+Three centuries of forestry policy are essentially the evolution of humanity's definition of "natural value." When we walk into Alishan today, we should see not only scenery, but the profound traces — etched in the growth rings — of global geopolitics and struggles for survival.
 
 ---
 
 ## References
 
-- Li Ken-cheng, 2016, 〈How many trees were actually cut during Taiwan's Massive Logging Era?〉, included in the Dayuan Mountain Cuifeng Lake website. July 20, 2016. URL: http://www.taiwanland.tw/06Dah-yuan/discussion/word27.html
-- Taiwan Provincial Forestry Bureau, 1997, _Annals of the Taiwan Provincial Forestry Bureau_. Taipei: Taiwan Provincial Forestry Bureau.
-- Agriculture Media, 2019, 〈Listen to the history of the forest, uncovering the beauty and vicissitudes of Taiwan's Massive Logging Era〉, https://www.agriharvest.tw/archives/8214/.
-- Yao Chih-nien, 1993, 〈Forestry during the Japanese Colonial Period〉, pp. 9–30; 〈Forestry in the early post-war period〉, pp. 31–64, included in _The Chronicles of Taiwan's Forests_, edited by the Republic of China Taiwan Forest Chronicles Compilation Committee. Taipei: Chinese Forestry Society.
-- Chiao Kuo-mo, 1993, 〈Forestry Policy〉, pp. 175–193, included in _The Chronicles of Taiwan's Forests_. Taipei: Chinese Forestry Society.
-- Lin Kuo-chuan, 1993, 〈Past and Present of Forest Resources〉, pp. 1–29, included in _Sustainable Management of Forest Resources_, edited by Hsia Yu-chiu, Wang Li-chih, and Chin Heng-piao. Taipei: Taiwan Provincial Forestry Research Institute.
-- Peng Kuo-tung, 1989, 〈Ecological Problems Faced by Taiwan's Forest Management〉, paper presented at "Forest Management under Ecological Problems." Taipei: Taiwan Forestry Research Institute.
+- Li Ken-cheng, 2016, "How Many Trees Were Actually Cut in Taiwan's Great Logging Era?", published on the Dayuan Mountain Cuifeng Lake website, 20 July 2016.[^1]
+- Taiwan Provincial Forestry Bureau, 1997, _Gazetteer of the Taiwan Provincial Forestry Bureau_. Taipei: Taiwan Provincial Forestry Bureau.
+- AgriMedia, 2019, "Listening to the Forest's Life Story, Unveiling the Beauty and Vicissitudes of Taiwan's Great Logging Era."[^2]
+- Yao He-nien, 1993, "Forestry During the Japanese Occupation," pp. 9–30; "Forestry in the Early Post-Retrocession Period," pp. 31–64, in _General History of Taiwan's Forests of the Republic of China_, compiled by the R.O.C. Taiwan Forest History Compilation Committee. Taipei: Chinese Forestry Society.
+- Chiao Kuo-mo, 1993, "Forestry Policy," pp. 175–193, in _General History of Taiwan's Forests of the Republic of China_. Taipei: Chinese Forestry Society.
+- Lin Kuo-chuan, 1993, "Past and Present Status of Forest Resources," pp. 1–29, in _Sustainable Management of Forest Resources_, edited by Hsia Yu-chiu, Wang Li-chih, Chin Heng-piao. Taipei: Taiwan Forestry Research Institute.
+- Peng Kuo-tung, 1989, "Ecological Problems Facing Taiwan's Forest Management," paper presented at "Forest Management Under Ecological Problems." Taipei: Forestry Research Institute.
 - Forestry Bureau, 1991, _Taiwan Provincial Forestry Statistics_. Taipei: Forestry Bureau.
+
+[^1]: [How Many Trees Were Actually Cut in Taiwan's Great Logging Era? - Dayuan Mountain Cuifeng Lake Website](http://www.taiwanland.tw/06Dah-yuan/discussion/word27.html) - Article by Li Ken-cheng, 2016, published on the Dayuan Mountain Cuifeng Lake website, examining the scale of logging in Taiwan's postwar great logging era
+
+[^2]: [Listening to the Forest's Life Story, Unveiling the Beauty and Vicissitudes of Taiwan's Great Logging Era - AgriMedia](https://www.agriharvest.tw/archives/8214/) - AgriMedia 2019 feature report reviewing the forestry history and vicissitudes of Taiwan's great logging era
