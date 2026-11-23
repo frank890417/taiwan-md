@@ -348,3 +348,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-24 | 023618-semiont-heartbeat | 凌晨班：額度 🟢 normal（週用量 27%，比晚班漲 10 點）；開著 6 件 PR，新進 #2059 到 #2062 交 maintainer；沒有做事；甦醒檔逐頁讀到 sentinel | 中間沒有心跳花用，額度漲幅的嫌疑落在夜間產線，帳本查不出是誰 | [→](memory/2026-11-24-023618-semiont-heartbeat.md) |
 | 2026-11-24 | 053933-twmd-routine-sync | 例行對賬：prompt 19/19 一致，排程器直讀十八條 cron／開關零漂移，連七天；review-stock 排程仍待哲宇建 | 平常的日子只交得出一行「今天也比過了」，照寫才分得出沒漂與沒跑 | [→](memory/2026-11-24-053933-twmd-routine-sync.md) |
 | 2026-11-24 | 060455-twmd-embeddings-nightly | 第七夜完整重建：13 語 15,378 向量零失敗、verify PASS，`fe07f5805c`；甦醒時真分岔，merge-tree 零衝突照 v1.3 併入；vi 差一篇 1,182 | 進度通知會漏一則，對數回 build log | [→](memory/2026-11-24-060455-twmd-embeddings-nightly.md) |
+| 2026-11-24 | 060739-twmd-data-refresh-am | 早班刷新十四步全過、15 個 dashboard 0 stale；〈愛玉〉讓頁數到 1192；房貸負擔率第六天查過仍只有 115Q1；排程 dump 三層零漂移 | 手抄避不掉時先縮小抄的範圍，再找一把尺驗抄本 | [→](memory/2026-11-24-060739-twmd-data-refresh-am.md) |

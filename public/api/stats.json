@@ -1,8 +1,8 @@
 {
-  "totalArticles": 15509,
+  "totalArticles": 15521,
   "totalCategories": 15,
   "estimatedContributors": 81,
-  "totalTags": 9187,
+  "totalTags": 9181,
   "categories": [
     {
       "name": "people",
@@ -22,7 +22,7 @@
     },
     {
       "name": "food",
-      "count": 1170
+      "count": 1182
     },
     {
       "name": "economy",
@@ -140,7 +140,7 @@
     },
     {
       "name": "原住民",
-      "count": 22
+      "count": 21
     },
     {
       "name": "高雄",
@@ -149,38 +149,38 @@
   ],
   "languageDistribution": {
     "vi": 1193,
-    "es": 1193,
-    "ko": 1193,
-    "hi": 1193,
-    "en": 1193,
-    "ja": 1193,
-    "de": 1193,
-    "fr": 1193,
-    "ru": 1193,
-    "zh-TW": 1193,
-    "id": 1193,
-    "ar": 1193,
-    "pt": 1193
+    "es": 1194,
+    "ko": 1194,
+    "hi": 1194,
+    "en": 1194,
+    "ja": 1194,
+    "de": 1194,
+    "fr": 1194,
+    "ru": 1194,
+    "zh-TW": 1194,
+    "id": 1194,
+    "ar": 1194,
+    "pt": 1194
   },
-  "lastUpdated": "2026-11-22T22:06:00.673Z",
+  "lastUpdated": "2026-11-23T22:05:36.171Z",
   "stars": 1252,
   "forks": 191,
-  "zhPages": 1191,
+  "zhPages": 1192,
   "languagePages": {
-    "zh-TW": 1191,
-    "en": 1193,
-    "ja": 1193,
-    "ko": 1193,
-    "es": 1193,
-    "fr": 1193,
+    "zh-TW": 1192,
+    "en": 1194,
+    "ja": 1194,
+    "ko": 1194,
+    "es": 1194,
+    "fr": 1194,
     "vi": 1193,
-    "id": 1193,
-    "pt": 1193,
-    "hi": 1193,
-    "ar": 1193,
-    "ru": 1193,
-    "de": 1193
+    "id": 1194,
+    "pt": 1194,
+    "hi": 1194,
+    "ar": 1194,
+    "ru": 1194,
+    "de": 1194
   },
-  "enPages": 1193,
-  "totalPages": 1191
+  "enPages": 1194,
+  "totalPages": 1192
 }

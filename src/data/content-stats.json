@@ -4,7 +4,7 @@
     "Art": 624,
     "Culture": 1416,
     "Economy": 1068,
-    "Food": 1080,
+    "Food": 1091,
     "Geography": 1020,
     "History": 1128,
     "Lifestyle": 696,
@@ -891,8 +891,12 @@
     },
     {
       "date": "2026-11-22",
-      "count": 5
+      "count": 6
+    },
+    {
+      "date": "2026-11-23",
+      "count": 11
     }
   ],
-  "updated": "2026-11-22"
+  "updated": "2026-11-23"
 }

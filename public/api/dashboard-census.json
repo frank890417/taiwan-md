@@ -1,9 +1,9 @@
 {
-  "generated": "2026-11-23",
+  "generated": "2026-11-24",
   "generator": "scripts/tools/article-census.py",
-  "head": "2ad9a6308",
+  "head": "af683c2bb",
   "scope": "knowledge/{Category}/*.md（中文 SSOT；不含 knowledge/{lang}/ 譯文與 _ hub）",
-  "n": 1191,
+  "n": 1192,
   "thresholds": {
     "a_fn_floor": 5,
     "a_cjk_floor": 2000,
@@ -24,8 +24,8 @@
   "traffic_sources": {
     "ga": {
       "file": "public/api/dashboard-analytics.json:ga.topArticles7d",
-      "start": "2026-10-26",
-      "end": "2026-11-23",
+      "start": "2026-10-27",
+      "end": "2026-11-24",
       "days": 28,
       "rows": 20,
       "metric": "views",
@@ -39,23 +39,23 @@
     "D": "內文簡陋（該進 REWRITE），依流量排序"
   },
   "tier_counts": { "A": 5, "B": 3, "C": 914, "D": 248 },
-  "curation_counts": { "none": 141, "incubating": 1048, "verified": 2 },
-  "curation_reason_counts": { "none": 368, "unverified": 568, "thin": 112 },
-  "cover_counts": { "local": 277, "none": 914 },
+  "curation_counts": { "none": 141, "incubating": 1049, "verified": 2 },
+  "curation_reason_counts": { "none": 369, "unverified": 568, "thin": 112 },
+  "cover_counts": { "local": 278, "none": 914 },
   "c_subtypes": { "C3": 775, "C2": 133, "C1": 6 },
   "distribution": {
     "all": {
-      "n": 1182,
+      "n": 1183,
       "cjk": {
         "p5": 1261,
         "p10": 1496,
-        "p25": 2018,
+        "p25": 2019,
         "p33": 2390,
         "p50": 3114,
-        "p75": 4624,
+        "p75": 4622,
         "p90": 6018,
-        "n": 1182,
-        "mean": 3543.9
+        "n": 1183,
+        "mean": 3542.7
       },
       "fn_defs": {
         "p5": 0,
@@ -65,7 +65,7 @@
         "p50": 11,
         "p75": 20,
         "p90": 36,
-        "n": 1182,
+        "n": 1183,
         "mean": 15.8
       }
     },
@@ -80,10 +80,10 @@
         "p75": 6082,
         "p90": 7355,
         "n": 408,
-        "mean": 4791.6
+        "mean": 4791.1
       },
       "fn_defs": {
-        "p5": 4,
+        "p5": 5,
         "p10": 8,
         "p25": 11,
         "p33": 14,
@@ -95,42 +95,42 @@
       }
     },
     "no_evidence": {
-      "n": 606,
+      "n": 607,
       "cjk": {
         "p5": 1216,
-        "p10": 1363,
-        "p25": 1796,
+        "p10": 1364,
+        "p25": 1798,
         "p33": 1994,
         "p50": 2657,
-        "p75": 3765,
+        "p75": 3760,
         "p90": 4704,
-        "n": 606,
-        "mean": 2902.6
+        "n": 607,
+        "mean": 2901.8
       },
       "fn_defs": {
         "p5": 0,
-        "p10": 0,
+        "p10": 1,
         "p25": 6,
         "p33": 8,
         "p50": 10,
         "p75": 14,
         "p90": 20,
-        "n": 606,
+        "n": 607,
         "mean": 10.9
       }
     },
     "incubating": {
-      "n": 1048,
+      "n": 1049,
       "cjk": {
         "p5": 1247,
         "p10": 1457,
         "p25": 1951,
         "p33": 2315,
-        "p50": 3114,
+        "p50": 3110,
         "p75": 4625,
         "p90": 6046,
-        "n": 1048,
-        "mean": 3536.0
+        "n": 1049,
+        "mean": 3534.7
       },
       "fn_defs": {
         "p5": 0,
@@ -140,22 +140,22 @@
         "p50": 12,
         "p75": 20,
         "p90": 36,
-        "n": 1048,
+        "n": 1049,
         "mean": 16.0
       }
     },
     "recent_45d": {
-      "n": 68,
+      "n": 69,
       "cjk": {
         "p5": 999,
         "p10": 1141,
         "p25": 1309,
         "p33": 1502,
         "p50": 1776,
-        "p75": 2256,
+        "p75": 2325,
         "p90": 3009,
-        "n": 68,
-        "mean": 2262.1
+        "n": 69,
+        "mean": 2263.9
       },
       "fn_defs": {
         "p5": 1,
@@ -165,7 +165,7 @@
         "p50": 3,
         "p75": 9,
         "p90": 21,
-        "n": 68,
+        "n": 69,
         "mean": 11.2
       }
     }
@@ -274,6 +274,17 @@
         "cover": "none",
         "cjk": 1504,
         "fn": 13
+      },
+      {
+        "path": "knowledge/People/魏哲家.md",
+        "title": "魏哲家：1953年，交大電子到耶魯博士到台積電董事長暨總裁",
+        "category": "People",
+        "curation": "incubating",
+        "curationReason": "thin",
+        "reason": "3 軸弱：字數 1322、腳註 5、零媒體",
+        "cover": "none",
+        "cjk": 1322,
+        "fn": 5
       },
       {
         "path": "knowledge/People/蕭上農.md",
@@ -1106,10 +1117,10 @@
         "category": "History",
         "curation": "incubating",
         "curationReason": null,
-        "reason": "4 軸弱：字數 2082、腳註 0、零媒體、段落 11 段／中位 37 字",
+        "reason": "4 軸弱：字數 2080、腳註 2、零媒體、段落 11 段／中位 37 字",
         "cover": "none",
-        "cjk": 2082,
-        "fn": 0
+        "cjk": 2080,
+        "fn": 2
       },
       {
         "path": "knowledge/History/台灣海洋貿易史.md",
@@ -2184,10 +2195,10 @@
         "category": "People",
         "curation": "incubating",
         "curationReason": null,
-        "reason": "4 軸弱：字數 424、腳註 0、零媒體、段落 3 段／中位 37 字",
+        "reason": "4 軸弱：字數 414、腳註 1、零媒體、段落 3 段／中位 37 字",
         "cover": "none",
-        "cjk": 424,
-        "fn": 0
+        "cjk": 414,
+        "fn": 1
       },
       {
         "path": "knowledge/People/蔣為文.md",
@@ -2206,10 +2217,10 @@
         "category": "People",
         "curation": "incubating",
         "curationReason": "unverified",
-        "reason": "4 軸弱：字數 729、腳註 0、零媒體、段落 1 段／中位 47 字",
+        "reason": "4 軸弱：字數 702、腳註 1、零媒體、段落 1 段／中位 47 字",
         "cover": "none",
-        "cjk": 729,
-        "fn": 0
+        "cjk": 702,
+        "fn": 1
       },
       {
         "path": "knowledge/People/蕭青陽.md",
@@ -2485,17 +2496,6 @@
         "cover": "none",
         "cjk": 1864,
         "fn": 0
-      },
-      {
-        "path": "knowledge/People/魏哲家.md",
-        "title": "魏哲家：1953年，交大電子到耶魯博士到台積電董事長暨總裁",
-        "category": "People",
-        "curation": "incubating",
-        "curationReason": "thin",
-        "reason": "3 軸弱：字數 1322、腳註 5、零媒體",
-        "cover": "none",
-        "cjk": 1322,
-        "fn": 5
       },
       {
         "path": "knowledge/People/魏德聖.md",
@@ -3139,9 +3139,12 @@
     "knowledge/People/徐巧芯.md",
     "knowledge/People/凹與山.md",
     "knowledge/People/三毛.md",
-    "knowledge/People/蕭上農.md",
     "knowledge/Technology/雪山隧道.md",
     "knowledge/People/吳百福.md",
+    "knowledge/People/魏哲家.md",
+    "knowledge/Society/台灣的道德課去哪了.md",
+    "knowledge/People/賴清德.md",
+    "knowledge/People/蕭上農.md",
     "knowledge/People/傅崐萁.md",
     "knowledge/Lifestyle/夜生活與KTV文化.md",
     "knowledge/About/台灣官方網站資源.md",
@@ -3707,7 +3710,6 @@
     "knowledge/People/豬哥亮.md",
     "knowledge/People/賈永婕.md",
     "knowledge/People/賴和.md",
-    "knowledge/People/賴清德.md",
     "knowledge/People/賴聲川.md",
     "knowledge/People/趙自強.md",
     "knowledge/People/連穎.md",
@@ -3752,7 +3754,6 @@
     "knowledge/People/韓國瑜.md",
     "knowledge/People/馬偕.md",
     "knowledge/People/高俊明.md",
-    "knowledge/People/魏哲家.md",
     "knowledge/People/魏如萱.md",
     "knowledge/People/魏德聖.md",
     "knowledge/People/魚條.md",
@@ -3822,7 +3823,6 @@
     "knowledge/Society/台灣有哪些動物園.md",
     "knowledge/Society/台灣海外僑民與離散社群.md",
     "knowledge/Society/台灣環境正義與鄰避爭議.md",
-    "knowledge/Society/台灣的道德課去哪了.md",
     "knowledge/Society/台灣省籍矛盾.md",
     "knowledge/Society/台灣社區與里文化.md",
     "knowledge/Society/台灣統獨光譜.md",

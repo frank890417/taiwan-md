@@ -5209,11 +5209,11 @@
     "categorySlug": "geography"
   },
   {
-    "title": "水道頭：台湾が清潔な水を「見える都市」として築き上げた過程",
-    "description": "水栓から水が出る以前、台湾の都市は水を塔に汲み上げ、沈殿させ、消毒し、重力で街路へ送り届ける必要がありました。水道頭は単なる工学史ではなく、公衆衛生、植民地時代、産業需要、給水権力、そして地域の記憶が交差する姿を記録しています。朴子、虎尾、北港から台北に至るまで、これらの給水塔は清潔な水がいかにして共同で築かれたかを示しています。",
+    "title": "水道頭：台湾がきれいな水を、見える形の都市へと築き上げた物語",
+    "description": "蛇口から水が出る前に、台湾の都市はまず水を塔へ汲み上げ、沈殿・消毒し、重力で街路へと送らなければなりませんでした。水道頭が記録しているのは工学史だけでなく、公衆衛生・植民地都市・産業需要・給水権力・地方記憶が重なり合う姿です。朴子・虎尾・北港から台北まで、これらの水塔はきれいな水がいかに共同で築かれてきたかを示しています。",
     "category": "Society",
     "tags": [
-      "インフラ",
+      "基礎インフラ",
       "公衆衛生",
       "建築",
       "文化財"
@@ -6687,28 +6687,6 @@
     "categorySlug": "music"
   },
   {
-    "title": "台湾民謡と歌謡：盗用されることから世界に届くまで",
-    "description": "1996年のオリンピック開会式で台湾アミ族の長老の古い吟唱が響き渡ったが、郭英男本人は訴訟を通じて初めて自分の声が世界に届いたことを知った。この荒唐無稽な物語は、台湾民謡の運命を映し出している——声を奪われ、再び自らの声を定義し直すまで",
-    "category": "Music",
-    "tags": [
-      "音楽",
-      "民謡",
-      "歌謡",
-      "原住民",
-      "台湾語",
-      "郭英男",
-      "純純",
-      "ブヌン族"
-    ],
-    "url": "https://taiwan.md/ja/music/taiwan-folk-music-and-songs",
-    "readingTime": 8,
-    "featured": false,
-    "date": "2026-03-23",
-    "path": "ja/Music/taiwan-folk-music-and-songs.md",
-    "lang": "ja",
-    "categorySlug": "music"
-  },
-  {
     "title": "台湾交通システム：90分に圧縮された島の物語",
     "description": "1946年、台湾は一夜にして左ハンドルから右ハンドルに切り替わった。中央山脈が南北273キロにわたって縦貫し、36,000平方キロメートルの島を東西に二分している。60年後、高速鉄道（高鉄）が394キロを90分に圧縮し、雪山トンネルが宜蘭までの車での移動を2時間から40分に縮めた。さらに10年後、1,400万台のバイクがすべての交差点を埋め尽くした。この島の交通の物語は、そのアイデンティティの物語でもある。",
     "category": "Lifestyle",
@@ -7714,19 +7692,6 @@
     "categorySlug": "culture"
   },
   {
-    "title": "台湾森林開発史：資源搾取から国土保安への世紀の転換",
-    "description": "清領期の樟脳の煙から、日治期の鉄路の轟音、そして戦後山脈を震撼させた大伐採時代へ。本稿は台湾森林開発政策の裏にある世界地政学的論理を整理し、資料により百年林業の真実を明らかにする。",
-    "category": "History",
-    "tags": [],
-    "url": "https://taiwan.md/ja/history/taiwan-forestry-history",
-    "readingTime": 15,
-    "featured": false,
-    "date": "2026-03-25",
-    "path": "ja/History/taiwan-forestry-history.md",
-    "lang": "ja",
-    "categorySlug": "history"
-  },
-  {
     "title": "台湾温泉の地景",
     "description": "「魔女の湯」から世界トップ15の温泉王国へ——プレート衝突がこの島の癒しの密码をいかに煮出したか",
     "category": "Geography",
@@ -8196,8 +8161,8 @@
     "categorySlug": "economy"
   },
   {
-    "title": "台湾インディペンデント音楽：給料を払えない一軒のレコード店は、いかにして島の耳を開いたのか",
-    "description": "水晶唱片を30万台湾元の負債ごと引き受けた冒険から、草東沒有派對がカフェで初回プレスを売り切るまで。台湾インディペンデント音楽の35年は逆転劇ではなく、「見られてこなかった声を聴かせる」ことにこだわった人々による、長い賭けでした",
+    "title": "台湾インディーズ音楽：給料が出せないレコード店が、いかにして一つの島の耳を開いたか",
+    "description": "クリスタルレコードの30万元の負債を引き受けた冒険から、草東沒有派對がカフェで初版を完売するまで。台湾インディーズ音楽35年は逆転劇ではなく、「見えない音を聴かせる」ことを貫いた人々の長い賭けである",
     "category": "Music",
     "tags": [],
     "url": "https://taiwan.md/ja/music/indie-music-scene",
@@ -9025,6 +8990,28 @@
     "categorySlug": "history"
   },
   {
+    "title": "台湾の民謡と歌謡：盗用から世界に届くまで",
+    "description": "1996年アトランタ五輪開会式で台湾アミ族（阿美族）長老の古謡が響いたが、郭英男（かく・えいなん／クオ・インナン）本人が訴訟を通じて世界中に聴かれたことを知ったのはそれからだった。この荒唐無稽な物語は、台湾民謡の運命を映し出している——消音から、自らの声を再定義するまで。",
+    "category": "Music",
+    "tags": [
+      "音楽",
+      "民謡",
+      "歌謡",
+      "先住民",
+      "台湾語",
+      "郭英男",
+      "純純",
+      "ブヌン族"
+    ],
+    "url": "https://taiwan.md/ja/music/taiwan-folk-music-and-songs",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-03-23",
+    "path": "ja/Music/taiwan-folk-music-and-songs.md",
+    "lang": "ja",
+    "categorySlug": "music"
+  },
+  {
     "title": "台湾の氷菓子文化",
     "description": "台湾人の氷菓子に対する愛着は世界でも類を見ないほどで、冬でも多くの客で賑わいます。この文化は、日本統治時代に製氷技術が導入されたことにまで遡ることができます。戦後の削り氷（剉冰）の普及や、その後の雪花氷（スノーアイス）の登場を経て、台中では陳溪氏が日本の四果氷を参考に蜜豆氷を発展させ、玉井のマンゴー氷は海外でも名を馳せました。さらには製氷・冷蔵技術による漁業の発展をもたらすなど、具体的な歴史的節目を辿ることができる進化の歴史を持っています。",
     "category": "Food",
@@ -9827,6 +9814,25 @@
     "categorySlug": "history"
   },
   {
+    "title": "台湾の海鮮文化",
+    "description": "漁港直送の新鮮な食材、海鮮レストランの文化、牡蠣お好み焼き（蚵仔煎）などの海産料理を通じ、四方を海に囲まれた島国・台湾の特色と豊かな食文化を紹介します。",
+    "category": "Food",
+    "tags": [
+      "海鮮",
+      "漁港",
+      "島嶼文化",
+      "牡蠣お好み焼き",
+      "海鮮料理"
+    ],
+    "url": "https://taiwan.md/ja/food/taiwan-seafood-culture",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "ja/Food/taiwan-seafood-culture.md",
+    "lang": "ja",
+    "categorySlug": "food"
+  },
+  {
     "title": "台湾の素食文化",
     "description": "台湾の素食人口比率は世界トップレベルで、宗教的素食伝統から現代の素肉技術革新まで文化の進化を遂げている",
     "category": "Food",
@@ -10096,6 +10102,19 @@
     "path": "ja/Nature/taiwan-forest-ecosystems.md",
     "lang": "ja",
     "categorySlug": "nature"
+  },
+  {
+    "title": "台湾の森林開発史：資源搾取から国土保全への世紀の転換",
+    "description": "清朝時代の樟脳（しょうのう）の煙雲から、日本統治時代の鋼鉄のレール、そして戦後の山々を震撼させた大規模伐採時代まで。本稿は台湾の森林開発政策の背後にある地政学的論理を整理し、資料に基づき百年林業の真実を解き明かします。",
+    "category": "History",
+    "tags": [],
+    "url": "https://taiwan.md/ja/history/taiwan-forestry-history",
+    "readingTime": 15,
+    "featured": false,
+    "date": "2026-03-25",
+    "path": "ja/History/taiwan-forestry-history.md",
+    "lang": "ja",
+    "categorySlug": "history"
   },
   {
     "title": "台湾の温泉と地熱",
@@ -11053,25 +11072,6 @@
     "path": "ja/Music/taiwan-soundscape.md",
     "lang": "ja",
     "categorySlug": "music"
-  },
-  {
-    "title": "台湾のシーフード文化",
-    "description": "漁港から新鮮直送される食文化、シーフードレストラン文化、蚵仔煎などの海味料理は、四方を海に囲まれた島嶼の特色と豊かな海産物飲食の伝統を示しています。",
-    "category": "Food",
-    "tags": [
-      "海鮮",
-      "漁港",
-      "島嶼文化",
-      "蚵仔煎",
-      "海鮮料理"
-    ],
-    "url": "https://taiwan.md/ja/food/taiwan-seafood-culture",
-    "readingTime": 8,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "ja/Food/taiwan-seafood-culture.md",
-    "lang": "ja",
-    "categorySlug": "food"
   },
   {
     "title": "台湾のストリート・グラフィティ：深夜のアウトローから西門町の都市の光へ",
@@ -32138,6 +32138,32 @@
     "categorySlug": "society"
   },
   {
+    "title": "愛玉：用手洗出來的凍，和一種只替它工作的蜂",
+    "description": "愛玉凍沒有煮、沒有加凝固劑，一公克種籽加四十到八十倍的水，手洗或低速攪拌兩分鐘，靜置十分鐘就凝結。連橫在《臺灣通史》記下道光初年同安人與女兒愛玉的故事，兩百年後的實驗室量到鈣離子與酵素怎麼把水變成凍，而種籽要靠一種只替它授粉的小蜂才長得出來，這篇把兩邊接了起來。",
+    "category": "Food",
+    "tags": [],
+    "url": "https://taiwan.md/food/%E6%84%9B%E7%8E%89",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-11-21",
+    "path": "Food/愛玉.md",
+    "lang": "zh-TW",
+    "categorySlug": "food"
+  },
+  {
+    "title": "愛玉（アイユ）：手洗で生まれるゼリーと、そのために働く小さな蜂",
+    "description": "愛玉ゼリーは加熱も凝固剤も使いません。種子1gに対し40〜80倍の水を用い、手洗いや低速攪拌を2分行い、10分静置するだけで凝固します。『台湾通史』に記された道光年間の物語から、最新の科学によるカルシウムイオンと酵素のメカニズム、そして受粉を担う小さな蜂の存在まで、愛玉の神秘を紐解きます。",
+    "category": "Food",
+    "tags": [],
+    "url": "https://taiwan.md/ja/food/aiyu",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-11-21",
+    "path": "ja/Food/aiyu.md",
+    "lang": "ja",
+    "categorySlug": "food"
+  },
+  {
     "title": "戦後台湾文学：言えなかったことから、言い方を学ぶまで（1945-1987）",
     "description": "1945年8月、葉石濤（ようせきとう）20歳、日本陸軍から除隊して台南に戻り、原稿紙を開いたが、漢字が一文字も書けなかった。この白紙は42年間待つことになる。その間に訪れたのは、失語、投獄、論争、そして迂回を学ぶことだった。1987年2月、彼は232ページの本を出版した。書名にあったのは「台湾」という二文字だけだった。",
     "category": "Art",
@@ -35153,15 +35179,15 @@
   },
   {
     "title": "蔡依林（さい・いりん／ツァイ・イーリン）",
-    "description": "1998 年『新声カ位戦』歌唱部門で優勝、その後アルバムとツアーを重ね中華圏のポップ・ディーバの地位を確立。『玫瑰少年』で三度目となる金曲奨年度歌曲賞を受賞。",
+    "description": "1998年に『新声卡位戦』歌唱部門で優勝、その後アルバムとツアーを重ね中華圏のポップスの女王に。『ローズ・ボーイ（玫瑰少年）』で3度目となる金曲賞年度歌曲賞を受賞。",
     "category": "People",
     "tags": [
       "人物",
       "歌手",
       "芸能界",
       "LGBTQ+権利",
-      "ポップ音楽",
-      "金曲奨"
+      "ポップス",
+      "金曲賞"
     ],
     "url": "https://taiwan.md/ja/people/jolin-tsai",
     "readingTime": 3,
@@ -36787,12 +36813,12 @@
     "categorySlug": "people"
   },
   {
-    "title": "蕭敬騰（しょう・けいきん／ジャム・シャオ）",
-    "description": "17歳から民謡レストランでレジデントシンガーとして活動し、2007年に『超級星光大道』の挑戦者コーナーでブレイク、2008年にデビューアルバムをリリース。2013年に『以愛之名』で金曲奨最優秀国語男性歌手賞を受賞し、その後バンド、映像作品、中台の舞台で活躍。",
+    "title": "蕭敬騰（シャオ・ジンテン）",
+    "description": "17歳から民謡レストランで歌い始め、2007年に『超級星光大道』の挑戦ユニットで一躍人気に。2008年にデビューアルバムをリリース。2013年には『以愛之名』で金曲奨最優秀国語男性歌手賞を受賞し、その後はバンド活動や映画、中台両岸のステージで活躍している。",
     "category": "People",
     "tags": [
       "音楽",
-      "ポップス",
+      "ポップミュージック",
       "ジャズ",
       "超級星光大道",
       "金曲奨",
@@ -39471,19 +39497,6 @@
     "categorySlug": "nature"
   },
   {
-    "title": "A History of Forest Development in Taiwan: A Century-Long Shift from Resource Extraction to National Land Security",
-    "description": "From the camphor smoke of the Qing dynasty to the ringing rails of the Japanese colonial era and the era of massive logging that shook the mountains after the war. This article traces the global geopolitical logic behind Taiwan's forest development policies and uses data to clarify the true history of a century of forestry.",
-    "category": "History",
-    "tags": [],
-    "url": "https://taiwan.md/en/history/taiwan-forestry-history",
-    "readingTime": 15,
-    "featured": false,
-    "date": "2026-03-25",
-    "path": "en/History/taiwan-forestry-history.md",
-    "lang": "en",
-    "categorySlug": "history"
-  },
-  {
     "title": "A History of Taiwan's Television Industry: From the Big Three to Q Series' Gentle Revolution",
     "description": "From TTV's 1962 launch to Q Series in 2016: 54 years in which Taiwan's television industry moved from 'party-state-military monopoly' to 'the rise of public media.' How did a platform that sells no advertising come to tell a story everyone loved?",
     "category": "Technology",
@@ -41523,6 +41536,84 @@
     "categorySlug": "society"
   },
   {
+    "title": "Aiyu : une gelée lavée à la main et l'abeille qui ne travaille que pour elle",
+    "description": "La gelée d'aiyu ne nécessite ni cuisson ni coagulant ; un mélange de graines, d'eau et d'enzymes suffit. Entre récits historiques et découvertes scientifiques, découvrez le lien entre une légende du XIXe siècle et la biologie complexe de cette spécialité taïwanaise.",
+    "category": "Food",
+    "tags": [],
+    "url": "https://taiwan.md/fr/food/aiyu",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-11-21",
+    "path": "fr/Food/aiyu.md",
+    "lang": "fr",
+    "categorySlug": "food"
+  },
+  {
+    "title": "Aiyu: A gelatina feita à mão e a abelha que trabalha apenas para ela",
+    "description": "A gelatina de aiyu não é cozida nem leva coagulantes; basta lavar as sementes com água para que as enzimas criem o gel. Este artigo conecta uma lenda de 200 anos à ciência moderna sobre íons de cálcio e polinizadores específicos.",
+    "category": "Food",
+    "tags": [],
+    "url": "https://taiwan.md/pt/food/aiyu",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-11-21",
+    "path": "pt/Food/aiyu.md",
+    "lang": "pt",
+    "categorySlug": "food"
+  },
+  {
+    "title": "Aiyu: A Jelly Made by Hand-Washing, and a Bee That Works Only for It",
+    "description": "Aiyu jelly requires no boiling or coagulants; just seeds, water, and two minutes of hand-washing. This article connects the 200-year-old legend in the \"General History of Taiwan\" to modern laboratory science regarding ions, enzymes, and the tiny bee essential for its growth.",
+    "category": "Food",
+    "tags": [],
+    "url": "https://taiwan.md/en/food/aiyu",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-11-21",
+    "path": "en/Food/aiyu.md",
+    "lang": "en",
+    "categorySlug": "food"
+  },
+  {
+    "title": "Aiyu: Ein Gelee aus Handarbeit und eine Biene, die nur für ihn arbeitet",
+    "description": "Aiyu-Gelee wird ohne Kochen oder Zusatzstoffe hergestellt; durch einfaches Waschen der Samen entsteht bei Raumtemperatur ein Gel. Diese Geschichte verbindet historische Berichte über die Entdeckung mit moderner Forschung zu Enzymen und der Symbiose mit einer speziellen Wildbiene.",
+    "category": "Food",
+    "tags": [],
+    "url": "https://taiwan.md/de/food/aiyu",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-11-21",
+    "path": "de/Food/aiyu.md",
+    "lang": "de",
+    "categorySlug": "food"
+  },
+  {
+    "title": "Aiyu: el gel hecho a mano, y una avispa que solo trabaja para él",
+    "description": "El gel de aiyu no se cuece ni lleva gelificantes: un gramo de semillas con 40 a 80 veces su peso en agua, frotado a mano o batido a baja velocidad dos minutos, reposa diez minutos y cuaja. Lien Heng en la \"Historia General de Taiwán\" registra la historia de un hombre de Tong''an y su hija Aiyu a principios de la era Daoguang; dos siglos después, el laboratorio mide cómo los iones de calcio y las enzimas convierten el agua en gel, y las semillas solo se desarrollan gracias a una avispa que las poliniza exclusivamente; este artículo une ambos lados.",
+    "category": "Food",
+    "tags": [],
+    "url": "https://taiwan.md/es/food/aiyu",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-11-21",
+    "path": "es/Food/aiyu.md",
+    "lang": "es",
+    "categorySlug": "food"
+  },
+  {
+    "title": "Aiyu: Jeli yang Dicuci dengan Tangan, dan Seekor Lebah yang Hanya Bekerja untuknya",
+    "description": "Jeli aiyu tidak dimasak atau menggunakan bahan pengental; cukup dengan mencuci bijinya dalam air. Artikel ini menghubungkan kisah sejarah dari Lian Heng tentang putri seorang warga Tong'an dengan temuan laboratorium modern mengenai peran ion kalsium, enzim, dan lebah penyerbuk khusus.",
+    "category": "Food",
+    "tags": [],
+    "url": "https://taiwan.md/id/food/aiyu",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-11-21",
+    "path": "id/Food/aiyu.md",
+    "lang": "id",
+    "categorySlug": "food"
+  },
+  {
     "title": "AI가 교실로 들어오다: 300개의 에이전트, 연수 후 홀로 남겨진 교사를 붙잡다",
     "description": "2026년, 쉬타이핑(徐臺屏)은 약 80명의 교사가 설계한 300개의 AI 에이전트를 공유 마켓에 내놓았다. 타이완의 두 조사 결과는 한편으로 교사의 90%가 AI를 접했다고 말하지만, 다른 한편으로는 95.6%가 여전히 학습 요구가 있다고 보여준다. 대지아(大佳) 초등학교의 3시간 연수부터 네이후(內湖) 고등학교의 '객가(漚客)' 테스트, 교육부의 인재 방주 계획까지, 본문은 질문한다. 도구가 교실에 들어왔다면, 학교로 돌아간 교사를 붙잡아줄 사람은 누구인가? 이는 도구 보급 이후 마주하게 될 더 어려운 교육 공학적 과제다.",
     "category": "Technology",
@@ -41860,7 +41951,7 @@
   },
   {
     "title": "Âm nhạc độc lập Đài Loan: Từ một cửa hàng đĩa không thể trả lương đến cách mở mang thính giác cho cả một hòn đảo",
-    "description": "Từ cuộc phiêu lưu gánh khoản nợ 300.000 Đài tệ của Crystal Records đến việc nhóm No Party For Cao Dong bán sạch bản in đầu tiên tại quán cà phê; 35 năm âm nhạc độc lập Đài Loan không phải là câu chuyện lội ngược dòng, mà là một canh bạc dài hơi của những con người kiên trì để \"những âm thanh chưa được nhìn thấy trở nên được lắng nghe\".",
+    "description": "Từ cuộc phiêu lưu gánh khoản nợ 300.000 Đài tệ của Crystal Records, đến việc No Party For Cao Dong bán sạch bản in đầu tiên tại các quán cà phê. 35 năm âm nhạc độc lập Đài Loan không phải là một câu chuyện lội ngược dòng, mà là một canh bạc dài hơi của những con người kiên trì để \"những âm thanh không được nhìn thấy trở nên được lắng nghe\".",
     "category": "Music",
     "tags": [],
     "url": "https://taiwan.md/vi/music/indie-music-scene",
@@ -44447,6 +44538,19 @@
     "path": "vi/Nature/palakaw.md",
     "lang": "vi",
     "categorySlug": "nature"
+  },
+  {
+    "title": "Ballades et chansons de Taïwan : de l'appropriation à la reconnaissance mondiale",
+    "description": "En 1996, les chants ancestraux d'un ancien Amis résonnent aux JO, mais ce n'est que par un procès que Kuo Ying-nan découvre leur portée mondiale. Une métaphore du destin des ballades taïwanaises.",
+    "category": "Music",
+    "tags": [],
+    "url": "https://taiwan.md/fr/music/taiwan-folk-music-and-songs",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-03-23",
+    "path": "fr/Music/taiwan-folk-music-and-songs.md",
+    "lang": "fr",
+    "categorySlug": "music"
   },
   {
     "title": "Bamboo Tube Rice: The Hunter's Lunch Box, Negotiating with the Flame",
@@ -47417,19 +47521,6 @@
     "categorySlug": "food"
   },
   {
-    "title": "Budaya Makanan Laut Taiwan",
-    "description": "Dari hasil tangkapan segar di pelabuhan ikan, budaya restoran makanan laut, hingga hidangan seperti *o-a-jian* (panekuk kerang), semuanya menunjukkan karakteristik pulau yang dikelilingi laut dan tradisi kuliner makanan laut yang kaya.",
-    "category": "Food",
-    "tags": [],
-    "url": "https://taiwan.md/id/food/taiwan-seafood-culture",
-    "readingTime": 8,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "id/Food/taiwan-seafood-culture.md",
-    "lang": "id",
-    "categorySlug": "food"
-  },
-  {
     "title": "Budaya Mie Taiwān: Tujuh Puluh Tahun dari tepung bantuan AS hingga kuliner nasional",
     "description": "Dari permukiman veteran pasca-perang hingga panggung internasional, mie Taiwān dalam tujuh puluh tahun berkembang dari tepung bantuan AS, bersatu dengan kenangan provinsi dan inovasi lokal, menulis epik makanan migran dan tanah air",
     "category": "Food",
@@ -47582,6 +47673,19 @@
     "featured": true,
     "date": "2026-03-18",
     "path": "id/Food/taiwan-breakfast-culture.md",
+    "lang": "id",
+    "categorySlug": "food"
+  },
+  {
+    "title": "Budaya Seafood Taiwan",
+    "description": "Pengiriman segar langsung dari pelabuhan ikan, budaya restoran seafood, hidangan seafood seperti oyster omelet, menampilkan karakter kepulauan Taiwan yang dikelilingi laut dan tradisi kuliner seafood yang kaya",
+    "category": "Food",
+    "tags": [],
+    "url": "https://taiwan.md/id/food/taiwan-seafood-culture",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "id/Food/taiwan-seafood-culture.md",
     "lang": "id",
     "categorySlug": "food"
   },
@@ -48659,19 +48763,6 @@
     "path": "en/Nature/typhoons-in-taiwan.md",
     "lang": "en",
     "categorySlug": "nature"
-  },
-  {
-    "title": "Canciones folclóricas y cantos de Taiwán: De ser silenciados a ser escuchados por el mundo",
-    "description": "En la inauguración de los Juegos Olímpicos de 1996 resonaron antiguos cánticos del pueblo Amis, pero Guo Ying-nan solo supo que su voz era escuchada en todo el mundo gracias a una demanda. Esta historia absurda refleja el destino del folclore de Taiwán: pasar de ser silenciado a redefinir su propia voz.",
-    "category": "Music",
-    "tags": [],
-    "url": "https://taiwan.md/es/music/taiwan-folk-music-and-songs",
-    "readingTime": 8,
-    "featured": false,
-    "date": "2026-03-23",
-    "path": "es/Music/taiwan-folk-music-and-songs.md",
-    "lang": "es",
-    "categorySlug": "music"
   },
   {
     "title": "Cảng cá không chỉ ra khơi: Ngành ngư nghiệp Đài Loan được tái tạo bởi tàu thử nghiệm, chợ cá và một tập thể nhân tài kỹ thuật",
@@ -49993,19 +50084,6 @@
     "featured": true,
     "date": "2026-03-18",
     "path": "fr/Music/contemporary-indigenous-singer-songwriters.md",
-    "lang": "fr",
-    "categorySlug": "music"
-  },
-  {
-    "title": "Chants populaires et ballades de Taïwan : du pillage à la conquête du monde",
-    "description": "En 1996, la cérémonie d'ouverture des Jeux olympiques résonnait du chant ancestral d'un ancien de la tribu amis de Taïwan — mais Kuo Ying-nan n'apprit qu'en 1998, par un procès, que sa voix avait traversé le monde entier. Cette histoire absurde résume le destin des chants populaires taïwanais : du silence forcé à la reconquête d'une voix propre.",
-    "category": "Music",
-    "tags": [],
-    "url": "https://taiwan.md/fr/music/taiwan-folk-music-and-songs",
-    "readingTime": 8,
-    "featured": false,
-    "date": "2026-03-23",
-    "path": "fr/Music/taiwan-folk-music-and-songs.md",
     "lang": "fr",
     "categorySlug": "music"
   },
@@ -58107,6 +58185,19 @@
     "categorySlug": "culture"
   },
   {
+    "title": "Cultura de Frutos do Mar em Taiwan",
+    "description": "Dos portos pesqueiros aos pratos típicos como a omelete de ostra, explore a rica tradição gastronômica de uma ilha cercada pelo mar.",
+    "category": "Food",
+    "tags": [],
+    "url": "https://taiwan.md/pt/food/taiwan-seafood-culture",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "pt/Food/taiwan-seafood-culture.md",
+    "lang": "pt",
+    "categorySlug": "food"
+  },
+  {
     "title": "Cultura de impressão tipográfica em Taiwan: como o tipo de chumbo pressionou a linguagem pública no papel",
     "description": "Do boletim da igreja e jornais da era colonial japonesa ao aglomerado de impressão de Wanhua, tipos de Xangai do pós-guerra e a Fundição de Tipos Ri Xing, rastreia como a impressão tipográfica de Taiwan permitiu a replicação estável do pe̍h-ōe-jī taiwanês, notícias, livros didáticos, documentos governamentais e informações comerciais, compreende como tipos de chumbo, fontes, trabalho mestre-aprendiz e preservação digital constituem conjuntamente uma tecnologia de produção de linguagem pública, e reflete sobre como preservar máquinas antigas enquanto se preservam processos e o conhecimento corporal das pessoas.",
     "category": "Culture",
@@ -58357,7 +58448,7 @@
   },
   {
     "title": "Cultura del marisco en Taiwán",
-    "description": "Frescura directa de los puertos pesqueros, cultura de restaurantes de mariscos y platos como el *o-zai jian*, mostrando la identidad insular rodeada por el mar y la rica tradición gastronómica de mariscos.",
+    "description": "Marisco fresco directo del puerto, cultura de restaurantes de mariscos, tortilla de ostras y otros platos marinos que muestran el carácter insular de Taiwán, rodeado de mar por los cuatro lados, y su rica tradición culinaria de mariscos",
     "category": "Food",
     "tags": [],
     "url": "https://taiwan.md/es/food/taiwan-seafood-culture",
@@ -58417,19 +58508,6 @@
     "featured": false,
     "date": "2026-04-06",
     "path": "pt/Food/taiwan-coffee-culture.md",
-    "lang": "pt",
-    "categorySlug": "food"
-  },
-  {
-    "title": "Cultura do Frutos do Mar em Taiwan",
-    "description": "Do peixe fresco direto dos portos de pesca, à cultura dos restaurantes de frutos do mar e pratos como o *o-zai jian*, esta culinária demonstra a característica insular de Taiwan, cercada pelo mar, e sua rica tradição alimentar.",
-    "category": "Food",
-    "tags": [],
-    "url": "https://taiwan.md/pt/food/taiwan-seafood-culture",
-    "readingTime": 8,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "pt/Food/taiwan-seafood-culture.md",
     "lang": "pt",
     "categorySlug": "food"
   },
@@ -58808,19 +58886,6 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "fr/Food/taiwanese-ice-cream-culture.md",
-    "lang": "fr",
-    "categorySlug": "food"
-  },
-  {
-    "title": "Culture des fruits de mer de Taïwan",
-    "description": "Livraison directe depuis les ports de pêche, culture des restaurants de fruits de mer, omelette aux huîtres et autres plats de saveurs marines, illustrant le caractère insulaire de Taïwan, entouré de mer, et sa riche tradition culinaire des fruits de mer",
-    "category": "Food",
-    "tags": [],
-    "url": "https://taiwan.md/fr/food/taiwan-seafood-culture",
-    "readingTime": 8,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "fr/Food/taiwan-seafood-culture.md",
     "lang": "fr",
     "categorySlug": "food"
   },
@@ -59942,8 +60007,8 @@
     "categorySlug": "geography"
   },
   {
-    "title": "Dân ca và nhạc phổ thông Đài Loan: Từ bị đánh cắp đến được thế giới lắng nghe",
-    "description": "Năm 1996, giọng hát cổ xưa của một người lão Amis ở Đài Loan vang lên trong lễ khai mạc Thế vận hội Atlat, nhưng Quách Anh Nam mới biết được về điều này qua vụ kiện năm 1998. Câu chuyện cả nước nghe thấy tiếng hát anh mà anh không biết phản ánh số phận của dân ca Đài Loan—từ bị lặng tiếng đến tự định nghĩa lại tiếng nói của mình",
+    "title": "Dân ca và ca khúc Đài Loan: Từ bị đánh cắp đến khi được thế giới lắng nghe",
+    "description": "Năm 1996, tiếng hát cổ xưa của một trưởng lão người Amis đã vang lên tại lễ khai mạc Olympic, nhưng chính Guo Ying-nan (Quách Anh Nam) phải thông qua kiện tụng mới biết mình đã được cả thế giới lắng nghe. Câu chuyện trớ trêu này phản ánh số phận của dân ca Đài Loan — từ việc bị làm cho im lặng đến khi tự định nghĩa lại tiếng nói của chính mình.",
     "category": "Music",
     "tags": [],
     "url": "https://taiwan.md/vi/music/taiwan-folk-music-and-songs",
@@ -60732,6 +60797,24 @@
     "path": "vi/Food/daxi-dried-tofu.md",
     "lang": "vi",
     "categorySlug": "food"
+  },
+  {
+    "title": "Đầu nguồn nước: Đài Loan biến dòng nước sạch thành một thành phố hữu hình",
+    "description": "Trước khi nước chảy ra từ vòi, các đô thị tại Đài Loan phải trải qua quá trình bơm lên tháp, lắng đọng, khử trùng rồi mới nhờ trọng lực dẫn vào nhà dân. \"Đầu nguồn nước\" không chỉ ghi lại lịch sử kỹ thuật mà còn là sự giao thoa giữa vệ sinh công cộng, đô thị thuộc địa, nhu cầu công nghiệp, quyền tiếp cận nước và ký ức địa phương. Từ Puzi, Huwei, Beigang đến Đài Bắc, những tháp nước này cho thấy cách nguồn nước sạch được cùng nhau xây dựng như thế nào.",
+    "category": "Society",
+    "tags": [
+      "Cơ sở hạ tầng",
+      "Vệ sinh công cộng",
+      "Kiến trúc",
+      "Di sản văn hóa"
+    ],
+    "url": "https://taiwan.md/vi/society/shuidaotou-waterworks",
+    "readingTime": 10,
+    "featured": false,
+    "date": "2026-08-16",
+    "path": "vi/Society/shuidaotou-waterworks.md",
+    "lang": "vi",
+    "categorySlug": "society"
   },
   {
     "title": "Đậu phụ thối: Trên hành trình tìm kiếm hương vị giữa việc chịu hương vị mạnh mẽ, giới hạn cảm quan của người Đài Loan",
@@ -72457,16 +72540,16 @@
     "categorySlug": "culture"
   },
   {
-    "title": "Folk Songs dan Ballada Taiwan: Dari Pencurian Hak Cipta hingga Didengar Dunia",
-    "description": "Pada upacara pembukaan Olimpiade 1996, nyanyian kuno seorang tetua suku Amis Taiwan terdengar, namun Guo Ying-nan baru mengetahui suaranya didengar oleh seluruh dunia melalui litigasi. Kisah absurd ini mencerminkan nasib folk songs Taiwan—dari dibungkam hingga mendefinisikan ulang suaranya sendiri.",
+    "title": "Folclore e canções de Taiwan: do plágio ao reconhecimento mundial",
+    "description": "Em 1996, o canto ancestral de um ancião Amis ecoou na abertura das Olimpíadas, mas foi através de um processo judicial que Kuo Ying-nan soube que sua voz fora ouvida pelo mundo.",
     "category": "Music",
     "tags": [],
-    "url": "https://taiwan.md/id/music/taiwan-folk-music-and-songs",
+    "url": "https://taiwan.md/pt/music/taiwan-folk-music-and-songs",
     "readingTime": 8,
     "featured": false,
     "date": "2026-03-23",
-    "path": "id/Music/taiwan-folk-music-and-songs.md",
-    "lang": "id",
+    "path": "pt/Music/taiwan-folk-music-and-songs.md",
+    "lang": "pt",
     "categorySlug": "music"
   },
   {
@@ -76906,6 +76989,19 @@
     "categorySlug": "about"
   },
   {
+    "title": "Histoire de l'exploitation forestière à Taïwan : un virage séculaire, de la prédation des ressources à la sécurité du territoire",
+    "description": "Des fumées du camphre sous l'ère Qing aux rails d'acier de l'occupation japonaise, jusqu'à l'ère de la grande déforestation d'après-guerre. Cet article analyse la logique géopolitique mondiale derrière les politiques forestières de Taïwan et clarifie la vérité sur un siècle d'industrie sylvicole grâce aux données historiques.",
+    "category": "History",
+    "tags": [],
+    "url": "https://taiwan.md/fr/history/taiwan-forestry-history",
+    "readingTime": 15,
+    "featured": false,
+    "date": "2026-03-25",
+    "path": "fr/History/taiwan-forestry-history.md",
+    "lang": "fr",
+    "categorySlug": "history"
+  },
+  {
     "title": "Histoire de la littérature taïwanaise",
     "description": "De la question « La Taïwan a-t-elle une littérature ? » à la première récompense de Yang Kui au Japon, de la censure linguistique à la renaissance des voix multiples — une épopée de quatre siècles sur la quête des voix vers les mots, et des mots vers un foyer",
     "category": "Art",
@@ -76967,19 +77063,6 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "fr/History/taiwan-maritime-trade-history.md",
-    "lang": "fr",
-    "categorySlug": "history"
-  },
-  {
-    "title": "Histoire du développement forestier à Taïwan : un virage séculaire, de l'exploitation des ressources à la sécurité du territoire",
-    "description": "De la fumée du camphre sous l'ère Qing au fracas des rails d'acier sous l'occupation japonaise, jusqu'à l'ère de la déforestation massive d'après-guerre. Cet article analyse la logique géopolitelle mondiale derrière les politiques forestières de Taïwan et clarifie la vérité sur un siècle d'industrie sylvicole grâce aux données historiques.",
-    "category": "History",
-    "tags": [],
-    "url": "https://taiwan.md/fr/history/taiwan-forestry-history",
-    "readingTime": 15,
-    "featured": false,
-    "date": "2026-03-25",
-    "path": "fr/History/taiwan-forestry-history.md",
     "lang": "fr",
     "categorySlug": "history"
   },
@@ -77123,19 +77206,6 @@
     "featured": false,
     "date": "2026-05-02",
     "path": "es/History/taiwan-emigration-history.md",
-    "lang": "es",
-    "categorySlug": "history"
-  },
-  {
-    "title": "Historia de la explotación forestal en Taiwán: un giro secular de la extracción de recursos a la seguridad territorial",
-    "description": "Desde el humo del alcanfor durante el dominio Qing y el estruendo de los raíles en la era colonial japonesa, hasta la era de la gran tala que sacudió los valles tras la guerra. Este artículo analiza la lógica geopolítica global detrás de las políticas forestales de Taiwán y clarifica la verdadera historia de un siglo de silvicultura mediante datos.",
-    "category": "History",
-    "tags": [],
-    "url": "https://taiwan.md/es/history/taiwan-forestry-history",
-    "readingTime": 15,
-    "featured": false,
-    "date": "2026-03-25",
-    "path": "es/History/taiwan-forestry-history.md",
     "lang": "es",
     "categorySlug": "history"
   },
@@ -77291,6 +77361,19 @@
     "categorySlug": "music"
   },
   {
+    "title": "Historia del desarrollo forestal de Taiwán: el giro centenario de la extracción de recursos a la seguridad territorial",
+    "description": "Desde la niebla de alcanfor de la época Qing, hasta el rugido de los rieles de la era colonial japonesa, y la era de la gran tala que estremeció montañas y valles en la posguerra. Este artículo analiza la lógica geopolítica global detrás de las políticas de desarrollo forestal de Taiwán y aclara la verdad real de un siglo de silvicultura mediante datos.",
+    "category": "History",
+    "tags": [],
+    "url": "https://taiwan.md/es/history/taiwan-forestry-history",
+    "readingTime": 15,
+    "featured": false,
+    "date": "2026-03-25",
+    "path": "es/History/taiwan-forestry-history.md",
+    "lang": "es",
+    "categorySlug": "history"
+  },
+  {
     "title": "Historia del movimiento ambiental en Taiwán",
     "description": "La trayectoria del movimiento ambiental en Taiwán, desde las protestas contra la contaminación en la década de 1980 hasta las recientes campañas para reducir el plástico, testimonia la interconexión entre la concienciación ecológica y el proceso de democratización.",
     "category": "Nature",
@@ -77356,8 +77439,8 @@
     "categorySlug": "lifestyle"
   },
   {
-    "title": "História do Desenvolvimento Florestal de Taiwan: Da Extração de Recursos à Segurança Territorial, uma Virada de Século",
-    "description": "Das nuvens de cânfora do período Qing, ao som dos trilhos de aço da era japonesa, até a era de grande desmatamento pós-guerra que abalou as montanhas. Este artigo traça a lógica geopolítica global por trás das políticas de desenvolvimento florestal de Taiwan e usa dados para esclarecer a verdade real de um século de silvicultura.",
+    "title": "História do Desenvolvimento Florestal de Taiwan: Da Extração de Recursos à Segurança do Território Nacional, uma Virada de Século",
+    "description": "Das nuvens de cânfora do período Qing, ao som dos trilhos de aço da era japonesa, até a era de grande desmatamento que abalou as montanhas no pós-guerra. Este artigo traça a lógica geopolítica global por trás das políticas de desenvolvimento florestal de Taiwan e usa dados para esclarecer a verdade real de um século de silvicultura.",
     "category": "History",
     "tags": [],
     "url": "https://taiwan.md/pt/history/taiwan-forestry-history",
@@ -78778,6 +78861,19 @@
     "categorySlug": "people"
   },
   {
+    "title": "Hsiao Ching-teng (蕭敬騰)",
+    "description": "Mulai bernyanyi di restoran lagu rakyat sejak usia 17 tahun, ia menjadi populer lewat segmen tantangan di \"Super Star Avenue\" pada tahun 2007 dan merilis album pertamanya pada 2008. Pada 2013, ia memenangkan Penghargaan Golden Melody untuk Penyanyi Pria Mandarin Terbaik melalui lagu \"In the Name of Love\", kemudian mengembangkan kariernya dalam grup musik, film, serta panggung lintas selat.",
+    "category": "People",
+    "tags": [],
+    "url": "https://taiwan.md/id/people/jam-hsiao",
+    "readingTime": 9,
+    "featured": false,
+    "date": "2026-03-23",
+    "path": "id/People/jam-hsiao.md",
+    "lang": "id",
+    "categorySlug": "people"
+  },
+  {
     "title": "Hsiao Ching-yang",
     "description": "Grammy winner for Best Recording Package; a representative figure of Taiwanese design on the world stage who achieved victory through a father-daughter collaboration.",
     "category": "People",
@@ -78839,19 +78935,6 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "pt/People/xiao-qing-yang-grammy-designer.md",
-    "lang": "pt",
-    "categorySlug": "people"
-  },
-  {
-    "title": "Hsiao Jing-teng (蕭敬騰)",
-    "description": "Começou a cantar em restaurantes de música folclórica aos 17 anos e tornou-se uma estrela em 2007 com o programa \"Super Star Avenue\". Venceu o Golden Melody Award de Melhor Cantor de Mandarim em 2013.",
-    "category": "People",
-    "tags": [],
-    "url": "https://taiwan.md/pt/people/jam-hsiao",
-    "readingTime": 9,
-    "featured": false,
-    "date": "2026-03-23",
-    "path": "pt/People/jam-hsiao.md",
     "lang": "pt",
     "categorySlug": "people"
   },
@@ -83023,20 +83106,7 @@
   },
   {
     "title": "Jam Hsiao",
-    "description": "Ab 17 Jahren sang er in Folk-Restaurants, 2007 wurde er durch den Challenge-Segment von „Super Star Avenue“ bekannt, 2008 veröffentlichte er sein erstes Album. 2013 gewann er mit „To Love“ den Golden Melody Award für den besten männlichen Mandarin-Sänger, danach entwickelte er sich auch in Band, Film/TV und auf Bühnen auf beiden Seiten der Taiwanstraße.",
-    "category": "People",
-    "tags": [],
-    "url": "https://taiwan.md/de/people/jam-hsiao",
-    "readingTime": 8,
-    "featured": false,
-    "date": "2026-03-23",
-    "path": "de/People/jam-hsiao.md",
-    "lang": "de",
-    "categorySlug": "people"
-  },
-  {
-    "title": "Jam Hsiao",
-    "description": "Started performing in folk song restaurants at 17, rose to fame via Super Star Avenue in 2007, and released his debut album in 2008. Won Golden Melody Award for Best Mandarin Male Singer in 2013, later expanding into bands, film, and Cross-Strait stages.",
+    "description": "Started performing in folk song restaurants at age 17, rose to fame via Super Star Avenue in 2007, and released his debut album in 2008. Won Best Mandarin Male Singer at the Golden Melody Awards in 2013, later expanding into bands, film, and cross-Strait stages.",
     "category": "People",
     "tags": [],
     "url": "https://taiwan.md/en/people/jam-hsiao",
@@ -83048,8 +83118,47 @@
     "categorySlug": "people"
   },
   {
+    "title": "Jam Hsiao",
+    "description": "Il chante dans des restaurants folk depuis l'âge de 17 ans, perce en 2007 grâce à l'émission « Super Star », sort son premier album en 2008. En 2013, il remporte le Golden Melody Award du meilleur chanteur mandarin avec « 以愛之名 », puis développe sa carrière dans les groupes, le cinéma et sur les scènes des deux rives du détroit.",
+    "category": "People",
+    "tags": [],
+    "url": "https://taiwan.md/fr/people/jam-hsiao",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-03-23",
+    "path": "fr/People/jam-hsiao.md",
+    "lang": "fr",
+    "categorySlug": "people"
+  },
+  {
+    "title": "Jam Hsiao",
+    "description": "Aos 17 anos, começou a cantar em restaurantes de música folk; em 2007, ganhou fama no segmento de desafio do \"Super Star Avenue\"; em 2008, lançou o primeiro álbum. Em 2013, ganhou o Golden Melody Award de Melhor Cantor Mandarim com \"To Love\"; depois desenvolveu-se também em banda, cinema/TV e palcos dos dois lados do estreito.",
+    "category": "People",
+    "tags": [],
+    "url": "https://taiwan.md/pt/people/jam-hsiao",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-03-23",
+    "path": "pt/People/jam-hsiao.md",
+    "lang": "pt",
+    "categorySlug": "people"
+  },
+  {
     "title": "Jam Hsiao (蕭敬騰)",
-    "description": "Cantó en restaurantes de música folk desde los 17 años y saltó a la fama en 2007 con \"Super Star Avenue\". Ganó el Golden Melody Award al Mejor Artista Masculino de Mandarín en 2013.",
+    "description": "Erlang in Folk-Song-Restaurants, durch „Super Star Avenue“ berühmt geworden, Gewinner des Golden Melody Award 2013.",
+    "category": "People",
+    "tags": [],
+    "url": "https://taiwan.md/de/people/jam-hsiao",
+    "readingTime": 9,
+    "featured": false,
+    "date": "2026-03-23",
+    "path": "de/People/jam-hsiao.md",
+    "lang": "de",
+    "categorySlug": "people"
+  },
+  {
+    "title": "Jam Hsiao (蕭敬騰)",
+    "description": "Cantó en restaurantes de música folk desde los 17 años y saltó a la fama en 2007 con Super Star Avenue. Ganó el Golden Melody Award al Mejor Artista Masculino de Mandarín en 2013.",
     "category": "People",
     "tags": [],
     "url": "https://taiwan.md/es/people/jam-hsiao",
@@ -83058,32 +83167,6 @@
     "date": "2026-03-23",
     "path": "es/People/jam-hsiao.md",
     "lang": "es",
-    "categorySlug": "people"
-  },
-  {
-    "title": "Jam Hsiao (蕭敬騰)",
-    "description": "Chanteur ayant débuté à 17 ans dans les restaurants de chansons populaires, il est devenu célèbre en 2007 via « Super Star Avenue » et a remporté le Golden Melody Award en 2013.",
-    "category": "People",
-    "tags": [],
-    "url": "https://taiwan.md/fr/people/jam-hsiao",
-    "readingTime": 9,
-    "featured": false,
-    "date": "2026-03-23",
-    "path": "fr/People/jam-hsiao.md",
-    "lang": "fr",
-    "categorySlug": "people"
-  },
-  {
-    "title": "Jam Hsiao (蕭敬騰)",
-    "description": "Mulai bernyanyi di restoran lagu rakyat sejak usia 17 tahun, menjadi populer melalui segmen tantangan di \"Super Star Avenue\" pada tahun 2007, dan merilis album pertama pada tahun 2008. Pada tahun 2013, ia memenangkan Penghargaan Golden Melody untuk Penyanyi Pria Mandarin Terbaik lewat lagu \"In the Name of Love\", kemudian mengembangkan kariernya melalui band, film, televisi, serta panggung lintas selat.",
-    "category": "People",
-    "tags": [],
-    "url": "https://taiwan.md/id/people/jam-hsiao",
-    "readingTime": 9,
-    "featured": false,
-    "date": "2026-03-23",
-    "path": "id/People/jam-hsiao.md",
-    "lang": "id",
     "categorySlug": "people"
   },
   {
@@ -84592,8 +84675,8 @@
     "categorySlug": "people"
   },
   {
-    "title": "Joeman: Từ nhận xét thi đấng thể thao đến kênh triệu người đăng ký, hành trình của một nhà sáng tạo lâu năm trước máy quay",
-    "description": "Từ nhận xét thi đấng thể thao và quản lý sản phẩm tại Micro-Star, đến kênh YouTube với mở hộp, so sánh, du lịch và chương trình nhóm; hành trình của Joeman cũng ghi lại cách một nhà sáng tạo tại Đài Loan điều chỉnh bản thân giữa lượt truy cập, phân công công việc, niềm tin và trách nhiệm công cộng.",
+    "title": "Joeman: Từ bình luận giải đấu điện tử đến kênh triệu người theo dõi, người sáng tạo bền bỉ trước ống kính",
+    "description": "Từ bình luận giải đấu điện tử và quản lý sản phẩm MSI, đến việc vận hành kênh với nội dung unboxing, so sánh, du lịch và chương trình nhóm; hành trình của Joeman cũng phản ánh cách YouTuber Taiwan điều chỉnh bản thân giữa lưu lượng, phân công, niềm tin và trách nhiệm công cộng.",
     "category": "People",
     "tags": [],
     "url": "https://taiwan.md/vi/people/joeman",
@@ -84697,7 +84780,7 @@
   },
   {
     "title": "Jolin Tsai",
-    "description": "Winner of the 1998 \"New Voice Battle\" singing competition, she became a Mandopop queen through successive albums and tours; \"Rose Boy\" earned her three Golden Melody Awards for Song of the Year.",
+    "description": "Won the singing category championship at \"New Voice Battle\" in 1998, subsequently became the Mandarin pop diva through albums and tours; \"Womxnly\" won her the Golden Melody Award for Song of the Year for the third time.",
     "category": "People",
     "tags": [],
     "url": "https://taiwan.md/en/people/jolin-tsai",
@@ -84710,7 +84793,20 @@
   },
   {
     "title": "Jolin Tsai",
-    "description": "En 1998 ganó el primer puesto en la categoría de canto del «New Voice Singing Competition», y posteriormente se consolidó como la reina del pop mandopop mediante álbumes y giras; «Rose Boy» le valió su tercer premio a la Canción del Año en los Golden Melody Awards.",
+    "description": "1998 meraih juara kategori nyanyian di \"New Voice Singing Competition\" (新聲卡位戰), kemudian menjadi ratu pop Mandarin melalui album dan tur; \"Rose Boy\" (玫瑰少年) membawanya meraih penghargaan Lagu Tahun Anugerah Musik Emas (金曲獎) untuk ketiga kalinya.",
+    "category": "People",
+    "tags": [],
+    "url": "https://taiwan.md/id/people/jolin-tsai",
+    "readingTime": 5,
+    "featured": false,
+    "date": "2026-03-24",
+    "path": "id/People/jolin-tsai.md",
+    "lang": "id",
+    "categorySlug": "people"
+  },
+  {
+    "title": "Jolin Tsai (蔡依林)",
+    "description": "En 1998 ganó el concurso de canto «New Voice Positioning Battle», y posteriormente se consolidó como diva del pop mandopop mediante álbumes y giras; «Rose Boy» le valió su tercer Golden Melody a la Canción del Año.",
     "category": "People",
     "tags": [],
     "url": "https://taiwan.md/es/people/jolin-tsai",
@@ -84723,20 +84819,7 @@
   },
   {
     "title": "Jolin Tsai (蔡依林)",
-    "description": "Juara kategori vokal \"New Voice Battle\" tahun 1998, yang kemudian menjadi diva pop Mandopop melalui album dan tur konser; lagu 〈Rose Boy〉 membawanya memenangkan Lagu Terbaik Golden Melody Awards sebanyak tiga kali.",
-    "category": "People",
-    "tags": [],
-    "url": "https://taiwan.md/id/people/jolin-tsai",
-    "readingTime": 6,
-    "featured": false,
-    "date": "2026-03-24",
-    "path": "id/People/jolin-tsai.md",
-    "lang": "id",
-    "categorySlug": "people"
-  },
-  {
-    "title": "Jolin Tsai (蔡依林)",
-    "description": "Vencedora do campeonato de canto em 1998, tornou-se uma diva do pop mandarim através de seus álbuns e turnês; \"Rose Boy\" rendeu-lhe o terceiro prêmio de Canção do Ano no Golden Melody Awards.",
+    "description": "Vencedora do concurso \"New Voice Battle\" em 1998, tornou-se uma diva do pop mandarim através de seus álbuns e turnês; \"Rose Boy\" rendeu-lhe o terceiro prêmio de Canção do Ano no Golden Melody Awards.",
     "category": "People",
     "tags": [],
     "url": "https://taiwan.md/pt/people/jolin-tsai",
@@ -84749,7 +84832,7 @@
   },
   {
     "title": "Jolin Tsai (Tsai Yi-lin)",
-    "description": "Championne de « New Voice Battle » en 1998, elle est devenue une icône de la pop mandarine grâce à ses albums et tournées ; 〈Rose Boy〉 lui a valu trois prix de la chanson de l'année aux Golden Melody Awards.",
+    "description": "Championne de « New Voice Battle » en 1998, elle est devenue une icône de la pop mandarine grâce à ses albums et tournées ; 〈Rose Boy〉 lui a valu trois prix de chanson de l'année aux Golden Melody Awards.",
     "category": "People",
     "tags": [],
     "url": "https://taiwan.md/fr/people/jolin-tsai",
@@ -90249,6 +90332,19 @@
     "categorySlug": "music"
   },
   {
+    "title": "La culture des fruits de mer à Taïwan",
+    "description": "Des ports de pêche aux spécialités de rue, découvrez la riche tradition culinaire insulaire de Taïwan.",
+    "category": "Food",
+    "tags": [],
+    "url": "https://taiwan.md/fr/food/taiwan-seafood-culture",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "fr/Food/taiwan-seafood-culture.md",
+    "lang": "fr",
+    "categorySlug": "food"
+  },
+  {
     "title": "La culture des marchés nocturnes de Taïwan",
     "description": "164 marchés nocturnes gérés, Taïnan comptant en moyenne 38 000 habitants pour un marché nocturne, des ruelles aux attractions touristiques internationales",
     "category": "Food",
@@ -91479,8 +91575,8 @@
     "categorySlug": "music"
   },
   {
-    "title": "La musique indépendante taïwanaise : comment un disquaire incapable de payer ses employés a ouvert les oreilles d'une île",
-    "description": "De la reprise à perte de Crystal Records, endettée de trois cent mille dollars taïwanais, à la rupture de stock du premier tirage de No Party for Cao Dong dans un café. Trente-cinq ans de musique indépendante à Taïwan ne sont pas une revanche, mais un pari de longue horde : un groupe de personnes déterminées à faire entendre « les voix que personne ne voit ».",
+    "title": "La musique indépendante à Taïwan : comment un disquaire incapable de payer des salaires a ouvert les oreilles d'une île",
+    "description": "De l'aventure risquée de Crystal Records endetté de 300 000 NT$ au premier pressage de No Party for Cao Dong écoulé dans un café, 35 ans de musique indépendante à Taïwan ne racontent pas une revanche mais le pari tenace d'une poignée de gens pour que « les sons invisibles soient entendus ».",
     "category": "Music",
     "tags": [],
     "url": "https://taiwan.md/fr/music/indie-music-scene",
@@ -92362,6 +92458,19 @@
     "path": "es/Geography/sun-moon-lake.md",
     "lang": "es",
     "categorySlug": "geography"
+  },
+  {
+    "title": "Lagu Rakyat dan Lagu Populer Taiwan: Dicuri, Lalu Didengar Dunia",
+    "description": "Pada pembukaan Olimpiade 1996 bergema nyanyian kuno seorang tetua Amis Taiwan, namun Guo Ying-nan baru mengetahui suaranya terdengar 65 juta orang lewat gugatan 1998. Kisah absurd ini membayangkan nasib lagu rakyat Taiwan — dari disensor hingga mendefinisikan ulang suaranya sendiri.",
+    "category": "Music",
+    "tags": [],
+    "url": "https://taiwan.md/id/music/taiwan-folk-music-and-songs",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-03-23",
+    "path": "id/Music/taiwan-folk-music-and-songs.md",
+    "lang": "id",
+    "categorySlug": "music"
   },
   {
     "title": "Lahan Digital: Bagaimana Platform Kritik Seni Daring Tanpa Model Bisnis Bertahan 12 Tahun",
@@ -97793,6 +97902,19 @@
     "categorySlug": "history"
   },
   {
+    "title": "Lịch sử khai thác rừng tại Đài Loan: Bước chuyển mình thế kỷ từ vắt kiệt tài nguyên đến bảo vệ lãnh thổ",
+    "description": "Từ làn khói long não thời nhà Thanh, tiếng đường ray sắt thời Nhật thuộc, đến kỷ nguyên đại khai thác rừng gây chấn động núi rừng sau chiến tranh. Bài viết này phân tích logic địa chính trị toàn cầu đằng sau các chính sách lâm nghiệp và làm rõ sự thật về ngành lâm nghiệp Đài Loan qua trăm năm lịch sử.",
+    "category": "History",
+    "tags": [],
+    "url": "https://taiwan.md/vi/history/taiwan-forestry-history",
+    "readingTime": 15,
+    "featured": false,
+    "date": "2026-03-25",
+    "path": "vi/History/taiwan-forestry-history.md",
+    "lang": "vi",
+    "categorySlug": "history"
+  },
+  {
     "title": "Lịch sử làng quân nhân (quyển thôn) tại Đài Loan",
     "description": "Từ năm 1949, Chính phủ Quốc dân đã xây dựng các làng quân nhân để định cư cho gia quyến đi theo quân đội. Những mái ấm tạm bợ chưa đầy một ping được dựng lên từ hàng rào tre, bùn vàng và tôn thiếc; làng Chung Trinh tại Đào Viên từng là nơi tiếp nhận gia quyến của những binh sĩ cô độc rút từ Bắc Miến Điện về Đài Loan — những người đã phải chiến đấu du kích gần bốn năm tại biên giới Trung - Miến trước khi đến được Đài Loan. Nơi đây mang theo sự biện chứng giữa lưu vong và định cư, giữa quê hương và xứ người, để rồi cuối cùng chuyển mình từ những hàng rào tre thành các khu nhà quốc gia, trở thành một phần quan trọng trong di sản văn hóa đa dạng của Đài Loan.",
     "category": "History",
@@ -97856,19 +97978,6 @@
     "path": "vi/Music/taiwan-rock-from-underground-to-mainstream.md",
     "lang": "vi",
     "categorySlug": "music"
-  },
-  {
-    "title": "Lịch sử phát triển rừng Đài Loan: Bước ngoặt thế kỷ từ khai thác tài nguyên đến an ninh quốc thổ",
-    "description": "Từ cơn sốt nhựa thông thời Thanh triều, tiếng bánh răng thép vang vọng dưới thời Nhật trị, cho đến thời kỳ đốn gỗ dữ dội sau chiến tranh. Bài viết này hệ thống hóa logic địa chính trị toàn cầu đằng sau các chính sách lâm nghiệp Đài Loan và làm sáng tỏ sự thật của ngành lâm nghiệp một thế kỷ qua bằng số liệu.",
-    "category": "History",
-    "tags": [],
-    "url": "https://taiwan.md/vi/history/taiwan-forestry-history",
-    "readingTime": 15,
-    "featured": false,
-    "date": "2026-03-25",
-    "path": "vi/History/taiwan-forestry-history.md",
-    "lang": "vi",
-    "categorySlug": "history"
   },
   {
     "title": "Lịch sử phong trào bảo tồn di tích Đài Loan: Ba con đường bắt đầu từ việc tháo dỡ ngôi nhà cổ Lâm An Thái",
@@ -106647,19 +106756,6 @@
     "categorySlug": "music"
   },
   {
-    "title": "Música Folclórica e Canções de Taiwan: Do Uso Indevido a Serem Ouvidas pelo Mundo",
-    "description": "Na cerimônia de abertura dos Jogos Olímpicos de 1996, ressoou o antigo canto de um ancião amisse de Taiwan, mas Kuo Ying-nan só soube que sua voz foi ouvida pelo mundo todo através de um processo judicial. Essa história absurda reflete o destino da música folclórica taiwanesa — do silenciamento à redefinição de sua própria voz.",
-    "category": "Music",
-    "tags": [],
-    "url": "https://taiwan.md/pt/music/taiwan-folk-music-and-songs",
-    "readingTime": 8,
-    "featured": false,
-    "date": "2026-03-23",
-    "path": "pt/Music/taiwan-folk-music-and-songs.md",
-    "lang": "pt",
-    "categorySlug": "music"
-  },
-  {
     "title": "Música hakka de Taiwán: de las canciones de montaña a la política lingüística detrás del rechazo de Lin Shengxiang al premio",
     "description": "Las canciones de montaña hakka (shan'ge) surgieron de la vida laboral, y la música de ocho sonidos hakka (bāyīn) se emplea en bodas, funerales y celebraciones. En 1999, la banda Labor Exchange ganó el premio Golden Melody al Mejor Compositor y al Mejor Productor con *We're Going to Sing Mountain Songs*, inaugurando la era del rock hakka. En 2003, la 14.ª edición de los Golden Melody Awards creó la categoría de Mejor Cantante en Lengua Hakka; en 2004, Xie Yuwei se convirtió en el primer ganador. En 2007, Lin Shengxiang ganó con *Plantar árboles* pero rechazó el premio en el acto, abogando por clasificar la música por género y no por idioma, lo que desató un debate sobre la abolición o permanencia de las categorías lingüísticas y, tres años después, impulsó la creación de los Golden Indie Music Awards. El canal Hakka TV, fundado en 2003, ha ampliado continuamente la visibilidad de la música en lengua hakka. La amenaza de pérdida lingüística persiste, pero la tensión entre herencia e innovación sigue impulsando a los músicos hakka hacia adelante.",
     "category": "Music",
@@ -106686,8 +106782,8 @@
     "categorySlug": "music"
   },
   {
-    "title": "Música independente de Taiwan: como uma loja de discos que não podia pagar salários abriu os ouvidos de uma ilha",
-    "description": "Da aventura de assumir uma dívida de 300 mil para salvar a Crystal Records até ao sucesso do band Café No Party nas lojas de café. Os 35 anos da música independente de Taiwan não são uma história de reviravolta, mas uma longa aposta de um grupo de pessoas que insistiu em fazer com que «as vozes invisíveis fossem ouvidas»",
+    "title": "Música independente de Taiwan: como uma loja de discos que não pagava salários abriu os ouvidos de uma ilha",
+    "description": "Da aventura de assumir a dívida de 300 mil da Crystal Records até o The Chairman esgotar a primeira prensagem numa cafetaria. 35 anos de música independente de Taiwan não são uma história de reviravolta, mas uma longa aposta de um grupo de pessoas que insistiu em fazer \"os sons não vistos serem ouvidos\"",
     "category": "Music",
     "tags": [],
     "url": "https://taiwan.md/pt/music/indie-music-scene",
@@ -106699,8 +106795,8 @@
     "categorySlug": "music"
   },
   {
-    "title": "Música independiente taiwanesa: cómo una disquería que no podía pagar sueldos le abrió los oídos a una isla",
-    "description": "Desde la apuesta de asumir Crystal Records con una deuda de 300.000 dólares taiwaneses, hasta No Party for Cao Dong agotando su primera tirada en una cafetería. Treinta y cinco años de música independiente taiwanesa no son una historia de revancha, sino una larga apuesta de un grupo de personas que insistió en hacer que “las voces no vistas fueran escuchadas”",
+    "title": "Música independiente de Taiwán: cómo una tienda de discos sin sueldo logró abrir los oídos de una isla",
+    "description": "Desde la aventura de Crystal Records tras asumir una deuda de NT$300,000, hasta el éxito de No Party For Mao Tao en cafeterías. La música independiente en Taiwán no es una historia de superación, sino una apuesta de décadas por hacer que las voces invisibles sean escuchadas.",
     "category": "Music",
     "tags": [],
     "url": "https://taiwan.md/es/music/indie-music-scene",
@@ -106777,8 +106873,8 @@
     "categorySlug": "music"
   },
   {
-    "title": "Musik Independen Taiwan: Toko Rekaman yang Tidak Mampu Membayar Gaji, Bagaimana Ia Membuka Telinga Sebuah Pulau",
-    "description": "Petualangan yang dimulai dari penyelamatan Crystal Records dari utang tiga ratus ribu dolar, hingga band di Kaohsiung menjual rilisan perdana di kedai kopi. 35 tahun musik independen Taiwan bukanlah kisah pembalasan, melainkan perjudian panjang sekelompok orang untuk membuat \"suara yang tak terlihat terdengar\".",
+    "title": "Musik Independen Taiwan: Bagaimana Sebuah Toko Rekaman yang Tidak Mampu Membayar Gaji Berhasil Membuka Telinga Seluruh Pulau",
+    "description": "Dari petualangan menanggung utang NT$300.000 di Crystal Records, hingga sold out-nya rilisan pertama No Party For Cao Dong di kedai kopi; 35 tahun musik independen Taiwan bukanlah kisah kebangkitan, melainkan pertaruhan panjang sekelompok orang untuk memastikan \"suara yang tak terlihat dapat didengar\".",
     "category": "Music",
     "tags": [],
     "url": "https://taiwan.md/id/music/indie-music-scene",
@@ -121532,8 +121628,8 @@
     "categorySlug": "history"
   },
   {
-    "title": "Sejarah Pengembangan Hutan Taiwan: Dari Ekstraksi Sumber Daya ke Keamanan Wilayah Nasional, Pergeseran Abad",
-    "description": "Dari kabut asap kayu kemplang (camphor) di masa pemerintahan Qing, hingga derai rel baja di masa pendudukan Jepang, lalu ke era penebangan besar-besaran pasca-perang yang mengguncang pegunungan. Artikel ini mengurai logika geopolitik global di balik kebijakan pengembangan hutan Taiwan, serta menjelaskan kebenaran sejarah kehutanan selama seratus tahun dengan data.",
+    "title": "Sejarah Pengembangan Hutan Taiwan: Dari Ekstraksi Sumber Daya ke Keamanan Wilayah Negara, Perubahan Abad",
+    "description": "Dari kabut asap kamper masa pemerintahan Qing, hingga derai rel baja masa pemerintahan Jepang, lalu ke era penebangan besar pasca-perang yang mengguncang pegunungan. Artikel ini mengurai logika geopolitik global di balik kebijakan pengembangan hutan Taiwan, serta menjelaskan kebenaran sejarah kehutanan selama seratus tahun dengan data.",
     "category": "History",
     "tags": [],
     "url": "https://taiwan.md/id/history/taiwan-forestry-history",
@@ -128773,19 +128869,6 @@
     "categorySlug": "culture"
   },
   {
-    "title": "Taiwan Folk Music and Songs: From Cultural Theft to Global Recognition",
-    "description": "In 1996, the Atlanta Olympics opening ceremony carried the ancient chant of an Amis elder from Taiwan — but Kuo Ying-nan only learned he had been heard by 65 million people two years later, through a lawsuit. This absurd story mirrors the fate of Taiwan's folk music: silenced repeatedly under colonialism, yet always finding its way back to the world's ears.",
-    "category": "Music",
-    "tags": [],
-    "url": "https://taiwan.md/en/music/taiwan-folk-music-and-songs",
-    "readingTime": 8,
-    "featured": false,
-    "date": "2026-03-23",
-    "path": "en/Music/taiwan-folk-music-and-songs.md",
-    "lang": "en",
-    "categorySlug": "music"
-  },
-  {
     "title": "Taiwan Furry-Kultur: Vom Netzwerk in den öffentlichen Raum",
     "description": "Wie taiwanesische Furry-Fans in den 2000er-Jahren über soziale Netzwerke verbunden wurden und seitdem in Bibliotheken, Kongresse und gemeinnützige Organisationen aktiv sind – zwischen Charaktergestaltung, Kostümen, Organisation und Wohltätigkeit.",
     "category": "Culture",
@@ -128963,6 +129046,19 @@
     "path": "en/Culture/taiwan-incense-making-culture-and-heritage.md",
     "lang": "en",
     "categorySlug": "culture"
+  },
+  {
+    "title": "Taiwan Independent Music: How a Record Shop That Couldn't Pay Salaries Opened an Island's Ears",
+    "description": "From the gamble of taking over Crystal Records'' NT$300,000 debt to No Party for Cao Dong selling out their first press at a coffee shop. Taiwan''s 35 years of independent music isn''t a comeback story — it''s a long wager by a group of people insisting that \"unseen voices be heard.\"",
+    "category": "Music",
+    "tags": [],
+    "url": "https://taiwan.md/en/music/indie-music-scene",
+    "readingTime": 14,
+    "featured": true,
+    "date": "2026-03-29",
+    "path": "en/Music/indie-music-scene.md",
+    "lang": "en",
+    "categorySlug": "music"
   },
   {
     "title": "Taiwan indigener Völker: Landrecht und traditionelle Gebiete",
@@ -130393,19 +130489,6 @@
     "categorySlug": "culture"
   },
   {
-    "title": "Taiwan-Folklore und Lieder: Vom Plagiat zum Welthören",
-    "description": "Bei der Eröffnung der Olympischen Spiele 1996 erklang die alte Gesänge eines taiwanesischen Amis-Ältesten, doch erst 1998 durch eine Klage stellte Guo Yingnan fest, dass seine Stimme von 65 Millionen Menschen gehört worden war. Diese absurde Geschichte spiegelt das Schicksal der taiwanesischen Folklore wider – von der Stummschaltung zur Neubestimmung ihrer Stimme",
-    "category": "Music",
-    "tags": [],
-    "url": "https://taiwan.md/de/music/taiwan-folk-music-and-songs",
-    "readingTime": 8,
-    "featured": false,
-    "date": "2026-03-23",
-    "path": "de/Music/taiwan-folk-music-and-songs.md",
-    "lang": "de",
-    "categorySlug": "music"
-  },
-  {
     "title": "Taiwan-Hirsch: Vom verschwundenen „Waldgeist“ zum Ökoingenieur, der in tieferen Lagen zurückkehrt",
     "description": "Im Jahr 2025, als Wanderer beim Querungsweg Nangaose mit dem Taiwan-Hirsch leicht aufeinandertrafen, war es kaum vorstellbar, wie selten er vor dreißig Jahren zu sehen war. Dieser Artikel untersucht, wie das größte Pflanzenfresser-Tier Taiwans von der Randsterbegefahr zurückgekehrt ist und warum sie begonnen haben, „Rinde abzuknabbern“ – ein Phänomen, das durch die Forschung zur Selbstheilung des Tieres, das komplexe Gleichgewicht des Hochgebirges Taiwans und das kulturelle Gedächtnis der indigenen Völker angetrieben wird.",
     "category": "Nature",
@@ -131043,6 +131126,19 @@
     "path": "es/Geography/taiwan-rail-undergrounding.md",
     "lang": "es",
     "categorySlug": "geography"
+  },
+  {
+    "title": "Taiwán: folk music y canciones — de ser robadas a ser escuchadas por el mundo",
+    "description": "En la ceremonia de apertura de los Juegos Olímpicos de 1996 resonó el canto ancestral de un anciano amis de Taiwán, pero Kuo Ying-nan solo se enteró mediante una demanda de que su voz había sido escuchada en todo el mundo. Esta historia absurda refleja el destino de la folk music taiwanesa: de ser silenciada a redefinir su propia voz.",
+    "category": "Music",
+    "tags": [],
+    "url": "https://taiwan.md/es/music/taiwan-folk-music-and-songs",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-03-23",
+    "path": "es/Music/taiwan-folk-music-and-songs.md",
+    "lang": "es",
+    "categorySlug": "music"
   },
   {
     "title": "Taiwan: Herausforderungen im Management und Schutz der Meeresumwelt",
@@ -132054,6 +132150,19 @@
     "categorySlug": "economy"
   },
   {
+    "title": "Taiwan's Forest Development History: A Century-Long Shift from Resource Extraction to National Land Security",
+    "description": "From the camphor smoke of the Qing era to the clatter of steel rails under Japanese rule, and on to the postwar great logging era that shook the mountains — this article traces the global geopolitical logic behind Taiwan's forest development policies and uses data to clarify the true story of a century of forestry.",
+    "category": "History",
+    "tags": [],
+    "url": "https://taiwan.md/en/history/taiwan-forestry-history",
+    "readingTime": 15,
+    "featured": false,
+    "date": "2026-03-25",
+    "path": "en/History/taiwan-forestry-history.md",
+    "lang": "en",
+    "categorySlug": "history"
+  },
+  {
     "title": "Taiwan's Forest Ecosystems",
     "description": "Within a very short horizontal distance, this island rises from sea level to the summit of Yushan, condensing a complete range of forest types from the tropics to the subarctic; with a high coverage rate double the global average, these forests are squeezed onto vertical cliffs, enduring typhoons, earthquakes, and heavy rains annually, making them some of the densest yet most fragile forests in the world.",
     "category": "Nature",
@@ -132766,7 +132875,7 @@
   },
   {
     "title": "Taiwan's Seafood Culture",
-    "description": "Fresh seafood delivered directly from fishing ports, seafood restaurant culture, and seafood dishes like oyster omelet showcase Taiwan's island characteristics surrounded by the sea and its rich seafood culinary traditions.",
+    "description": "From fresh catches at fishing ports to seafood restaurants and oyster omelets, exploring Taiwan's rich maritime culinary traditions.",
     "category": "Food",
     "tags": [],
     "url": "https://taiwan.md/en/food/taiwan-seafood-culture",
@@ -133515,6 +133624,19 @@
     "categorySlug": "economy"
   },
   {
+    "title": "Taiwanese Folk Songs and Ballads: From Appropriation to Being Heard by the World",
+    "description": "In 1996, an ancient chant by an Amis elder echoed at the Olympic opening ceremony, but it was only through litigation that Kuo Ying-nan realized the world had heard him. This absurd story mirrors the fate of Taiwanese folk music—from being silenced to redefining its own voice.",
+    "category": "Music",
+    "tags": [],
+    "url": "https://taiwan.md/en/music/taiwan-folk-music-and-songs",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-03-23",
+    "path": "en/Music/taiwan-folk-music-and-songs.md",
+    "lang": "en",
+    "categorySlug": "music"
+  },
+  {
     "title": "Taiwanese Food Overview: No Dish Is Purely Taiwanese, and Every Dish Is Taiwanese to the Core",
     "description": "Beside the Chiayi Fountain roundabout in 1949, Lin Tien-shou sliced chicken, laid it over white rice, and poured Minnan-style braising sauce on top; only after the U.S. military stationed in postwar Taiwan moved into Shuishang Air Base and brought large numbers of turkeys to Taiwan did this bowl evolve from chicken rice into turkey rice. From Indigenous slate-grilled wild boar, Hakka stir-fried pork intestines with shredded ginger, and military dependents' village Sichuan-style beef noodles to bubble tea invented in Taichung in 1986, and onward to the 419 restaurants included by Michelin in 2025. This island spent four hundred years cooking every borrowed dish into its own form.",
     "category": "Food",
@@ -133570,19 +133692,6 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "en/Music/taiwan-hakka-music-from-mountain-songs-to-rock.md",
-    "lang": "en",
-    "categorySlug": "music"
-  },
-  {
-    "title": "Taiwanese Independent Music: How a Record Store That Could Not Pay Its Staff Opened an Island's Ears",
-    "description": "From the gamble of taking over Crystal Records with NT$300,000 in debt to No Party for Cao Dong selling out its first pressing in coffee shops. Thirty-five years of Taiwanese independent music is not an underdog victory story, but a long wager by a group of people determined to let unheard sounds be heard",
-    "category": "Music",
-    "tags": [],
-    "url": "https://taiwan.md/en/music/indie-music-scene",
-    "readingTime": 14,
-    "featured": true,
-    "date": "2026-03-29",
-    "path": "en/Music/indie-music-scene.md",
     "lang": "en",
     "categorySlug": "music"
   },
@@ -134418,32 +134527,6 @@
     "categorySlug": "lifestyle"
   },
   {
-    "title": "Taiwanische Medizin und das nationale Krankenversicherungssystem: Weltweit führend mit 99,6 % auf Basis von 12,61 %",
-    "description": "Die Gesundheitskarte vom 1. März 1995 wurde hastig produziert: Sechs Tage zuvor war sie noch nicht gedruckt. Nach 30 Jahren ruht das Recht der 23 Millionen Menschen auf medizinische Versorgung auf einem Kostenanteil von 5,17 %, einer Pflegeabwanderungsrate von 12,61 % (einem Höchststand in zehn Jahren) und einem politischen Tabu, das seit 30 Jahren nicht angerührt wurde.",
-    "category": "Lifestyle",
-    "tags": [],
-    "url": "https://taiwan.md/de/lifestyle/taiwan-healthcare-and-national-health-insurance",
-    "readingTime": 22,
-    "featured": true,
-    "date": "2026-06-04",
-    "path": "de/Lifestyle/taiwan-healthcare-and-national-health-insurance.md",
-    "lang": "de",
-    "categorySlug": "lifestyle"
-  },
-  {
-    "title": "Taiwanische Meeresfrüchte-Kultur",
-    "description": "Frisch direkt vom Fischmarkt, die Kultur der Meeresfrüchte-Restaurants und schmackhafte Gerichte wie Oa-Jian zeigen die insulare Besonderheit und die reiche kulinarische Tradition Taiwans, das von Meer umgeben ist.",
-    "category": "Food",
-    "tags": [],
-    "url": "https://taiwan.md/de/food/taiwan-seafood-culture",
-    "readingTime": 8,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "de/Food/taiwan-seafood-culture.md",
-    "lang": "de",
-    "categorySlug": "food"
-  },
-  {
     "title": "Taiwanische moderne Poesie: Die unbeabsichtigte Prophezeiung der Lokalisierung",
     "description": "Ein experimenteller Modernismus, geboren aus drei literarischen Zirkeln, führte unerwartet zur revolutionären Volksliteratur mit tiefen lokalen Wurzeln.",
     "category": "Art",
@@ -134719,6 +134802,19 @@
     "path": "de/Geography/administrative-divisions-of-taiwan.md",
     "lang": "de",
     "categorySlug": "geography"
+  },
+  {
+    "title": "Taiwanische Volkslieder und Balladen: Von der Aneignung bis zum weltweiten Gehör",
+    "description": "Bei der Eröffnung der Olympischen Spiele 1996 erklang der alte Gesang eines Amis-Ältesten, doch erst durch einen Prozess erfuhr Kuo Ying-nan von seinem weltweiten Ruhm. Diese Geschichte spiegelt das Schicksal der taiwanischen Volksmusik wider.",
+    "category": "Music",
+    "tags": [],
+    "url": "https://taiwan.md/de/music/taiwan-folk-music-and-songs",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-03-23",
+    "path": "de/Music/taiwan-folk-music-and-songs.md",
+    "lang": "de",
+    "categorySlug": "music"
   },
   {
     "title": "Taiwanische Wahlen und Parteipolitik",
@@ -135095,6 +135191,19 @@
     "categorySlug": "culture"
   },
   {
+    "title": "Taiwans Gesundheitswesen und die Nationale Krankenversicherung: Weltweit Platz eins, getragen von 99,6 % bei 12,61 %",
+    "description": "Die Gesundheitskarte vom 1. März 1995 wurde in letzter Minute herausgebracht: Sechs Tage zuvor waren die Karten noch nicht einmal gedruckt. Dreißig Jahre später ruhen die Behandlungsrechte von 23 Millionen Menschen auf einer Beitragsrate von 5,17 %, einer Pflegefluktuation von 12,61 % und einer Abdeckungsrate von 99,6 %. Dieser Artikel reicht von der IC-Karte, dem Globalbudget und dem Punktwert bis zu den Überwachungsindikatoren der Nationalen Krankenversicherungsbehörde für das Jahr 113 (2024): Notaufnahmeverweildauer über 24 Stunden 3,68 %, palliative Versorgung bei Krebserkrankungen im Endstadium ca. 60 %, Verweildauer auf Akutbetten 7,3 Tage, Primärversorgungsrate in Regionalkrankenhäusern und darüber 18,37 %, sowie eine Jahresgesamtbewertung mit 10 Verbesserungen und 8 Verschlechterungen – anhand von 23 Kennzahlen wird geprüft, wo dieses System heute steht.",
+    "category": "Lifestyle",
+    "tags": [],
+    "url": "https://taiwan.md/de/lifestyle/taiwan-healthcare-and-national-health-insurance",
+    "readingTime": 22,
+    "featured": true,
+    "date": "2026-06-04",
+    "path": "de/Lifestyle/taiwan-healthcare-and-national-health-insurance.md",
+    "lang": "de",
+    "categorySlug": "lifestyle"
+  },
+  {
     "title": "Taiwans Hochschulausbau und -rückzug: Von 58 auf 148 Universitäten, dann begannen die Schließungen",
     "description": "Die 410-Demonstration 1994 forderte den massenhaften Aufbau von Universitäten; in weniger als zwanzig Jahren wuchs die Zahl der Hochschulen von 58 auf 148, die Nettoumschulungsquote durchbrach die 70-Prozent-Marke. Dann traf die Mauer der niedrigen Geburtenraten: Die Studentenzahlen erreichten 2012 ihren Höhepunkt, doch das Ausstiegsgesetz wurde erst 2022 verabschiedet. Kao Feng, Yung Ta und Toko schlossen nacheinander; fast ein Drittel der bei Yung Ta untergebrachten Studierenden schaffte es nicht bis zum Abschluss, die Wiedereingliederungsquote der ausscheidenden Lehrkräfte lag bei 14 %. Es war ein Experiment, das nur das Öffnen vorsah – die Schließungsregeln kamen zehn Jahre zu spät, die Dividenden waren real, aber verstreut, die Rechnung landete bei denen, die am wenigsten Wahlmöglichkeiten hatten.",
     "category": "Society",
@@ -135126,8 +135235,8 @@
     "categorySlug": "culture"
   },
   {
-    "title": "Taiwans Independentmusik: Wie ein Plattenladen, der keine Gehälter zahlen konnte, einer Insel die Ohren öffnete",
-    "description": "Von dem Wagnis, die 300.000-Dollar-Schulden von Crystal Records zu übernehmen, bis zum Ausverkauf der Erstpressung von No Party for Cao Dong in einem Café: Taiwans Independentmusik blickt auf 35 Jahre zurück – keine Aufholjagd, sondern ein langwieriges Wagnis einer Gruppe von Menschen, die darauf bestanden, „ungehörte Stimmen hörbar zu machen“.",
+    "title": "Taiwans Independent-Musik: Wie ein Plattenladen, der keine Gehälter zahlen konnte, einer Insel die Ohren öffnete",
+    "description": "Vom Wagnis, die 300.000 NT$ Schulden von Crystal Records zu übernehmen, bis zum Ausverkauf der Erstpressung von No Party for Cao Dong im Café: Taiwans Independent-Musik der letzten 35 Jahre ist keine Aufholjagd, sondern ein langwieriges Wagnis einer Gruppe von Menschen, die darauf beharrten, „ungehörte Stimmen hörbar zu machen“.",
     "category": "Music",
     "tags": [],
     "url": "https://taiwan.md/de/music/indie-music-scene",
@@ -135241,6 +135350,19 @@
     "path": "de/Lifestyle/mascot-culture-in-taiwan.md",
     "lang": "de",
     "categorySlug": "lifestyle"
+  },
+  {
+    "title": "Taiwans Meeresfrüchtekultur",
+    "description": "Frisch vom Fischereihafen, Meeresfrüchte-Restaurant-Kultur, Austernomelett und andere Meeresdelikatessen zeigen Taiwans Insularcharakter als von Meer umgebene Insel und seine reiche Meeresfrüchte-Esskultur",
+    "category": "Food",
+    "tags": [],
+    "url": "https://taiwan.md/de/food/taiwan-seafood-culture",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "de/Food/taiwan-seafood-culture.md",
+    "lang": "de",
+    "categorySlug": "food"
   },
   {
     "title": "Taiwans Monatälter-Karte: Vor der Partnersuche den passenden Tempel wählen – diese Insel beherbergt mindestens zehn Monatälter mit unterschiedlichen Zuständigkeiten",
@@ -138016,7 +138138,7 @@
   },
   {
     "title": "Thái Y Lâm (Jolin Tsai)",
-    "description": "Giành chức vô địch nhóm hát tại \"Tân Thanh Ca Vị Chiến\" năm 1998, sau đó khẳng định vị thế thiên hậu nhạc Pop Hoa ngữ qua các album và chuyến lưu diễn; ca khúc 〈Thiếu niên hoa hồng〉 giúp cô ba lần đoạt giải Bài hát của năm tại Giải Kim Khúc.",
+    "description": "Giành chức vô địch nhóm hát tại \"Tân Thanh Ca Vị Chiến\" năm 1998, sau đó trở thành thiên hậu nhạc Pop Hoa ngữ nhờ các album và chuyến lưu diễn; ca khúc 〈Hoa hồng thiếu niên〉 giúp cô ba lần đoạt giải Bài hát của năm tại Giải Kim Khúc.",
     "category": "People",
     "tags": [],
     "url": "https://taiwan.md/vi/people/jolin-tsai",
@@ -138286,24 +138408,6 @@
     "path": "vi/People/tsao-hsing-cheng-from-chip-tycoon-to-anti-china-defender.md",
     "lang": "vi",
     "categorySlug": "people"
-  },
-  {
-    "title": "Tháp nước: Đài Loan biến nước sạch thành một thành phố có thể nhìn thấy",
-    "description": "Trước khi nước chảy ra vòi, thành phố Đài Loan phải bơm nước lên cao, để lắng, khử trùng, rồi mới để nước chảy xuống qua lực hút tự nhiên vào ngõ hẻm. Tháp nước không chỉ ghi lại lịch sử kỹ thuật mà còn là sự giao thoa giữa y tế công cộng, thành phố thuộc địa, nhu cầu công nghiệp, quyền tiếp cận nước và ký ức địa phương. Từ Puchih, Hsinchu, Beigang cho đến Bắc Bắc, những chiếc tháp này cho thấy nước sạch được cùng nhau xây dựng ra sao.",
-    "category": "Society",
-    "tags": [
-      "Hạ tầng",
-      "Y tế công cộng",
-      "Kiến trúc",
-      "Di sản văn hóa"
-    ],
-    "url": "https://taiwan.md/vi/society/shuidaotou-waterworks",
-    "readingTime": 10,
-    "featured": false,
-    "date": "2026-08-16",
-    "path": "vi/Society/shuidaotou-waterworks.md",
-    "lang": "vi",
-    "categorySlug": "society"
   },
   {
     "title": "The 1895 Taiwan Resistance War: 148 Days of the Republic of Formosa",
@@ -138922,6 +139026,19 @@
     "date": "2026-08-17",
     "path": "en/People/tgop.md",
     "lang": "en",
+    "categorySlug": "people"
+  },
+  {
+    "title": "The Group: सात सदस्यों का समूह जिसने तेरह वर्षों में किसी को भी अलग नहीं किया, अपडेट बंद कर दिए लेकिन भंग नहीं हुआ",
+    "description": "द ग्रुप (TGOP) ज़ान-रोंग, ज़ान-रुई, यिन-शेंग, मुपिक, डोंग-ज़ाई, निक और स्टोन—इन सात लोगों का समूह है, जिनमें से अधिकांश ड्रामा एकेडमी के सहपाठी हैं। 2016 में उन्होंने 'सुपर ब्लाइंड कवर' के साथ एक मिलियन फॉलोअर्स का जश्न मनाया, और अगले वर्ष वे दो मिलियन सब्सक्राइबर्स पार करने वाले ताइवान के पहले यूट्यूबर बन गए। फरवरी 2024 में जब अपडेट बंद हुए, तो ज़ान-रोंग ने मीडिया से सबसे पहले पूछा: क्या समूह भंग हो गया है? एक कंपनी, हर महीने दो वीडियो, सात लोगों का एक साथ शूटिंग करना—यही उनके लोकप्रिय होने का तरीका था, और यही वह अंतिम बोझ भी था जिसे उन्होंने छोड़ा।",
+    "category": "People",
+    "tags": [],
+    "url": "https://taiwan.md/hi/people/tgop",
+    "readingTime": 14,
+    "featured": false,
+    "date": "2026-08-17",
+    "path": "hi/People/tgop.md",
+    "lang": "hi",
     "categorySlug": "people"
   },
   {
@@ -140634,12 +140751,12 @@
     "categorySlug": "music"
   },
   {
-    "title": "Tiêu Kính Đằng",
-    "description": "17 tuổi bắt đầu hát thường trực tại nhà hàng dân ca, năm 2007 nhờ phần thi thách đấu của \"Siêu sao sao đường\" (超級星光大道) mà bùng nổ, 2008 phát hành album đầu tay. Năm 2013 giành Giải nhạc vàng (金曲獎) Nam ca sĩ tiếng Quốc ngữ xuất sắc nhất với \"Dân yêu chi danh\" (以愛之名), sau đó phát triển trên ban nhạc, điện ảnh và sân khấu hai bờ.",
+    "title": "Tiêu Kính Đằng (Jam Hsiao)",
+    "description": "Bắt đầu hát tại các phòng trà từ năm 17 tuổi, trở nên nổi tiếng nhờ chương trình \"Super Star Avenue\" năm 2007 và phát hành album đầu tay vào năm 2008. Năm 2013, anh giành giải Nam ca sĩ nhạc Phổ thông xuất sắc nhất tại Giải Kim Khúc.",
     "category": "People",
     "tags": [],
     "url": "https://taiwan.md/vi/people/jam-hsiao",
-    "readingTime": 8,
+    "readingTime": 10,
     "featured": false,
     "date": "2026-03-23",
     "path": "vi/People/jam-hsiao.md",
@@ -145167,13 +145284,13 @@
   },
   {
     "title": "Văn hóa hải sản Đài Loan",
-    "description": "Từ hải sản tươi mới trực tiếp từ bến cảng, nền văn hóa nhà hàng hải sản cho tới món ăn nhẹ tiêu biểu như chả hàu chiên, tất cả đều phản ánh đặc trưng đảo đai và truyền thống ẩm thực hải sản phong phú của Đài Loan.",
+    "description": "Từ cảng cá tươi sống đến các món ăn đặc trưng như hàu chiên, văn hóa hải sản phản ánh đặc điểm đảo quốc bốn bề giáp biển và truyền thống ẩm thực phong phú của Đài Loan.",
     "category": "Food",
     "tags": [
       "hải sản",
-      "bến cảng",
-      "văn hóa đảo",
-      "chả hàu chiên",
+      "cảng cá",
+      "văn hóa đảo quốc",
+      "hàu chiên",
       "ẩm thực hải sản"
     ],
     "url": "https://taiwan.md/vi/food/taiwan-seafood-culture",
@@ -153551,6 +153668,19 @@
     "categorySlug": "history"
   },
   {
+    "title": "Айю: желе, созданное вручную, и пчела, которая работает только на него",
+    "description": "Желе айю не требует варки или загустителей: достаточно промыть семена в воде. Эта статья связывает легенду из «Истории Тайваня» с современными научными данными о том, как ферменты превращают воду в желе.",
+    "category": "Food",
+    "tags": [],
+    "url": "https://taiwan.md/ru/food/aiyu",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-11-21",
+    "path": "ru/Food/aiyu.md",
+    "lang": "ru",
+    "categorySlug": "food"
+  },
+  {
     "title": "Академия Синьчжун: как институт, созданный для изучения Китая, пустил корни на этом острове",
     "description": "Зимой 1948 года высшее академическое учреждение страны прибыло на Тайвань; вместе с ним переехало всего чуть более пятидесяти человек, а ящики с артефактами Института исторических языков были сложены на складе рядом с железнодорожной станцией Янмэй. Спустя семьдесят лет в его составе уже двадцать четыре исследовательских института и девять исследовательских центров, а сам темп работы стал уникальным: один археологический памятник за десять лет, один новый институт каждые одиннадцать лет. Сама структура организации — отсутствие преподавания, отсутствие набора студентов и прямое подчинение канцелярии президента — привела к тому, что руководство назначается президентом, бюджет ежегодно пересматривается, а даже вопрос о смене названия стал вопросом государственного значения.",
     "category": "Society",
@@ -156329,6 +156459,19 @@
     "categorySlug": "history"
   },
   {
+    "title": "История освоения лесов Тайваня: вековой переход от эксплуатации ресурсов к защите национальных территорий",
+    "description": "От эпохи монополии на камфору при правлении династии Цин до лязга стальных рельсов японского колониального периода и масштабной эры массовой вырубки лесов после войны. Статья анализирует геополитическую логику лесной политики Тайваня и проясняет истинную историю лесного хозяйства за последние сто лет.",
+    "category": "History",
+    "tags": [],
+    "url": "https://taiwan.md/ru/history/taiwan-forestry-history",
+    "readingTime": 15,
+    "featured": false,
+    "date": "2026-03-25",
+    "path": "ru/History/taiwan-forestry-history.md",
+    "lang": "ru",
+    "categorySlug": "history"
+  },
+  {
     "title": "История порога избирательных прав: от 20 лет к 18, двадцать лет незавершённой конституционной реформы",
     "description": "26 ноября 2022 года в 16:00 в избирательных участках по всему Тайваню началась процедура открытия конвертов с голосами конституционного референдума — это был первый례, когда конституционное изменение прошло полный цикл после реформы 2005 года, перешедшей на систему народного голосования для утверждения конституционных поправок. Согласие: 5,64 млн голосов; несогласие: 5,02 млн; процент согласия: 53%. Однако порог установлен как «более половины от общего числа избирателей = 9,62 млн голосов согласия», и изменение не преодолело барьер, не хватило 3,97 млн голосов. В этой статье прослеживается конституционное положение №130 с 1947 года — установившее возраст 20 лет — через 79 лет до 2026 года, и разбираются структурные причины семидесятидевятилетней неподвижности порога избирательного возраста.",
     "category": "Politics",
@@ -156366,19 +156509,6 @@
     "path": "ru/Food/sweet-potato-balls.md",
     "lang": "ru",
     "categorySlug": "food"
-  },
-  {
-    "title": "История развития лесов Тайваня: вековой поворот от добычи ресурсов к обеспечению безопасности территории",
-    "description": "От дымок камфорного дерева эпохи Цин до рельсов японского колониального периода и далее к эпохе массового вырубки после войны, erschütternd горные ущелья. Статья систематизирует глобальную геополитическую логику за политикой развития лесов Тайваня и на основе данных проясняет истинную правду столетия лесного хозяйства.",
-    "category": "History",
-    "tags": [],
-    "url": "https://taiwan.md/ru/history/taiwan-forestry-history",
-    "readingTime": 15,
-    "featured": false,
-    "date": "2026-03-25",
-    "path": "ru/History/taiwan-forestry-history.md",
-    "lang": "ru",
-    "categorySlug": "history"
   },
   {
     "title": "История развития метрополитена Тайваня: эволюционная теория города, написанная кровью и деньгами",
@@ -157269,7 +157399,7 @@
   },
   {
     "title": "Культура морепродуктов Тайваня",
-    "description": "Свежесть с первых лодок, культура рыбных рынков, блюда из морепродуктов — от остеров до пасты с устрицами — демонстрируют островную изоляцию и богатое морское кушание Тайваня",
+    "description": "Прямая поставка из рыбных портов, культура ресторанов морепродуктов, омлет с устрицами и другие блюда из даров моря, отражающие островную специфику Тайваня, окружённого морем со всех сторон, и его богатую кулинарную традицию морепродуктов",
     "category": "Food",
     "tags": [],
     "url": "https://taiwan.md/ru/food/taiwan-seafood-culture",
@@ -162451,7 +162581,7 @@
   },
   {
     "title": "Сяо Цзинтэн",
-    "description": "Начал выступать в ресторанах с 17 лет, прославился в 2007 году благодаря шоу «Super Star Avenue» и выпустил дебютный альбом в 2008 году. В 2013 году получил премию Золотой кубок как лучший исполнитель мандарин-поп за альбом «Во имя любви».",
+    "description": "Начал выступать в ресторанах с 17 лет, прославился в 2007 году благодаря шоу «Super Star Avenue» и выпустил дебютный альбом в 2008 году. В 2013 году получил премию Золотой кубок за лучшего исполнителя мандарин-поп.",
     "category": "People",
     "tags": [],
     "url": "https://taiwan.md/ru/people/jam-hsiao",
@@ -163074,8 +163204,8 @@
     "categorySlug": "art"
   },
   {
-    "title": "Тайваньская независимая музыка: как пластинковая лавка, не способная выплачивать зарплаты, открыла уши целому острову",
-    "description": "От риска, взятого на себя Рэнь Цзяньда, покрывшего долги «Хрустальной пластинки» в 300 тысяч, до распродажи первого тиража «Цаодун мэй юй дуй» в кофейне. 35 лет тайваньской независимой музыки — это не история контрнаступления, а долгая ставка группы людей, настаивающих на том, чтобы «неувиденные звуки были услышаны»",
+    "title": "Тайваньская независимая музыка: как магазин пластинок, не способный платить зарплату, открыл уши целому острову",
+    "description": "От авантюры с долгом в 300 000 NT$ для спасения магазина до триумфа No Party For Cao Dong — 35 лет независимой музыки Тайваня как долгая ставка за право быть услышанным.",
     "category": "Music",
     "tags": [],
     "url": "https://taiwan.md/ru/music/indie-music-scene",
@@ -163653,6 +163783,19 @@
     "path": "ru/Culture/taiwan-meme-culture.md",
     "lang": "ru",
     "categorySlug": "culture"
+  },
+  {
+    "title": "Тайваньские народные песни и баллады: от хищения к мировому признанию",
+    "description": "На церемонии открытия Олимпиады 1996 года прозвучало древнее пение тайваньского амиса-старейшины, но Куо Иньнань узнал, что его голос услышал весь мир, только через суд. Эта абсурдная история отражает судьбу тайваньских народных песен — от принудительного замалчивания к переопределению собственного голоса.",
+    "category": "Music",
+    "tags": [],
+    "url": "https://taiwan.md/ru/music/taiwan-folk-music-and-songs",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-03-23",
+    "path": "ru/Music/taiwan-folk-music-and-songs.md",
+    "lang": "ru",
+    "categorySlug": "music"
   },
   {
     "title": "Тайваньские национальные фильмы: голос у экрана и история кино, умиравшая и возрождавшаяся",
@@ -165261,19 +165404,6 @@
     "categorySlug": "economy"
   },
   {
-    "title": "Фольклор и песни Тайваня: от похищения к мировому прослушиванию",
-    "description": "В 1996 году на открытии Олимпийских игр в Атланте звучала древняя песня певца аме́йского племени Тайваня, но сам певец узнал об этом лишь через судебный процесс 1998 года. Эта абсурдная история отражает судьбу тайваньского фольклора — от затемнения до повторного определения собственного голоса",
-    "category": "Music",
-    "tags": [],
-    "url": "https://taiwan.md/ru/music/taiwan-folk-music-and-songs",
-    "readingTime": 8,
-    "featured": false,
-    "date": "2026-03-23",
-    "path": "ru/Music/taiwan-folk-music-and-songs.md",
-    "lang": "ru",
-    "categorySlug": "music"
-  },
-  {
     "title": "Фондовый рынок и рынок капитала Тайваня: от краха «ваних точек» 1990 года до 6-го места в мире в 2026 году — остров, где 44% стоимости концентрируется в одной акции",
     "description": "28 апреля 2026 года терминал Bloomberg выдал заголовок «Taiwan Overtakes Canada». Остров, который в 1990 году крахом «ваних точек» лишил пенсий 160 тысяч человек, через тридцать шесть лет вступил в шестерку крупнейших фондовых рынков мира — но почти половина его рыночной стоимости в 4,47 трлн долларов давит на одной полупроводниковой компании.",
     "category": "Economy",
@@ -165777,19 +165907,6 @@
     "categorySlug": "people"
   },
   {
-    "title": "Цай Илинь (Jolin Tsai)",
-    "description": "Победительница конкурса «Новые голоса» 1998 года, ставшая поп-дивой китайского музыкального мира; трижды лауреат премии «Золотой кубок» за песню года с хитом «Розовый юноша».",
-    "category": "People",
-    "tags": [],
-    "url": "https://taiwan.md/ru/people/jolin-tsai",
-    "readingTime": 6,
-    "featured": false,
-    "date": "2026-03-24",
-    "path": "ru/People/jolin-tsai.md",
-    "lang": "ru",
-    "categorySlug": "people"
-  },
-  {
     "title": "Цай Инь-вэн: от ночи поражения до 8,17 млн голосов — восемь лет президентства в тишине",
     "description": "14 января 2012 года Цай Инь-вэн проиграла выборы с отрывом в 797 561 голос; через восемь лет она набрала 8 170 231 голос, установив рекорд по президентским прямым выборам на Тайване. От учёного международного торгового права до первой женщины-президента — через извинения перед коренными народами, специальный закон об однополых браках, пенсионную реформу и курс на поддержание статус-кво она оставила достижения, но и нерешённые проблемы в судебной системе, жильё, энергетике и отношениях через пролив. Это восемь лет, когда тихое лидерство стало институтом, а институт сохранил и пробелы.",
     "category": "People",
@@ -165937,6 +166054,19 @@
     "path": "ru/Technology/ai-hardware-supply-chain.md",
     "lang": "ru",
     "categorySlug": "technology"
+  },
+  {
+    "title": "Цзай Илин",
+    "description": "В 1998 году она выиграла первый приз в вокальной категории конкурса «New Voice Battle», а затем с альбомами и турне наработала статус царицы китайского поп-музыки; песня «Розовый подросток» принесла ей третью «Золотую мелодию» за песню года",
+    "category": "People",
+    "tags": [],
+    "url": "https://taiwan.md/ru/people/jolin-tsai",
+    "readingTime": 5,
+    "featured": false,
+    "date": "2026-03-24",
+    "path": "ru/People/jolin-tsai.md",
+    "lang": "ru",
+    "categorySlug": "people"
   },
   {
     "title": "Цзецзыдань EggPlantEgg",
@@ -168902,6 +169032,19 @@
     "categorySlug": "society"
   },
   {
+    "title": "أيو: الهلام المصنوع بالغسل اليدوي، ونحلة تعمل من أجله فقط",
+    "description": "هلام أيو لا يُطهى ولا يُضاف إليه مادة تجفيف؛ غرام واحد من البذور مع 40 إلى 80 ضعفًا من الماء، يُغسل يدويًا أو يُخلط بسرعة منخفضة لمدة دقيقتين، ثم يُترك لمدة عشر دقائق فيتماسك. دوّن ليان هينغ في \"تاريخ تايوان الشامل\" قصة رجل من تونغآن وابنته أيو في أوائل عهد داوقوانغ؛ وبعد مئتي عام، قاس المختبر كيف تحوّل أيونات الكالسيوم والإنزيمات الماء إلى هلام، بينما لا تنمو البذور إلا بفضل نحلة صغيرة لا تلقيح سواها. تربط هذه المقالة بين الجانبين.",
+    "category": "Food",
+    "tags": [],
+    "url": "https://taiwan.md/ar/food/aiyu",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-11-21",
+    "path": "ar/Food/aiyu.md",
+    "lang": "ar",
+    "categorySlug": "food"
+  },
+  {
     "title": "إد تشي: التايواني الذي علّم الذكاء الاصطناعي \"التفكير خطوة بخطوة\"، ونقل علم النفس المعرفي إلى الآلات",
     "description": "إد تشي هو نائب رئيس الأبحاث في جوجل ديب مايند، ومؤلف مشارك في ورقة \"سلسلة التفكير\" التي مكّنت الذكاء الاصطناعي من \"الاستدلال خطوة بخطوة\". هذا التايواني الذي نشأ في دانشوي، حوّل مفهوم \"كيف يتعلم البشر\" من علم النفس المعرفي (نظرية المخطط لبياجيه) إلى منهجية لتعليم الآلات الاستدلال. وهذا الاختراق الذي غيّر مسار الذكاء الاصطناعي كلف حوالي خمسة آلاف دولار فقط، لأن المشكلة لم تكن أبدًا قابلة للحل بقوة الحوسبة وحدها.",
     "category": "People",
@@ -169300,6 +169443,19 @@
     "path": "ar/Food/taiwan-fermented-and-pickled-foods.md",
     "lang": "ar",
     "categorySlug": "food"
+  },
+  {
+    "title": "الأغاني الشعبية والأهازيج التايوانية: من السرقة إلى الانتشار العالمي",
+    "description": "في حفل افتتاح أولمبياد 1996، صدحت ترانيم قديمة لشيخ من شعب الأميس في تايوان، لكن غوا إن-نان لم يعلم أن صوته سُمع عالميًا إلا عبر التقاضي. تحكي هذه القصة العبثية مصير الأغاني التايوانية: من التغييب إلى استعادة الهوية الصوتية.",
+    "category": "Music",
+    "tags": [],
+    "url": "https://taiwan.md/ar/music/taiwan-folk-music-and-songs",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-03-23",
+    "path": "ar/Music/taiwan-folk-music-and-songs.md",
+    "lang": "ar",
+    "categorySlug": "music"
   },
   {
     "title": "الأفلام الوطنية التايوانية: ذلك المتحدث بجانب الشاشة الفضية، وتاريخ سينمائي مات ثم عاد للحياة",
@@ -171388,15 +171544,15 @@
     "categorySlug": "music"
   },
   {
-    "title": "الموسيقى الشعبية التايوانية والأغاني: من السرقة إلى أن يسمعها العالم",
-    "description": "في حفل افتتاح أولمبياد 1996، صدح صوت شيخ من قبيلة الأميس التايوانية، لكن كيو يينغ نان لم يعلم أن صوته سمعته 65 مليون شخص إلا عبر دعوى قضائية عام 1998. هذه القصة السريالية تعكس مصير الموسيقى الشعبية التايوانية — من الإسكات إلى إعادة تعريف صوتها الخاص.",
+    "title": "الموسيقى المستقلة في تايوان: كيف فتحت شركة تسجيلات لا تستطيع دفع الرواتب آذان جزيرة بأكملها",
+    "description": "من مغامرة تحمل ديون شركة \"كريستال ريكوردز\" البالغة ثلاثمائة ألف، إلى بيع فرقة \"نو بارتي فور تساو دونغ\" لأول طبعة في مقهى. خمسة وثلاثون عاماً من الموسيقى المستقلة في تايوان ليست قصة انتقام، بل رهان طويل لمجموعة من الناس أصروا على \"جعل الأصوات غير المرئية مسموعة\"",
     "category": "Music",
     "tags": [],
-    "url": "https://taiwan.md/ar/music/taiwan-folk-music-and-songs",
-    "readingTime": 8,
-    "featured": false,
-    "date": "2026-03-23",
-    "path": "ar/Music/taiwan-folk-music-and-songs.md",
+    "url": "https://taiwan.md/ar/music/indie-music-scene",
+    "readingTime": 14,
+    "featured": true,
+    "date": "2026-03-29",
+    "path": "ar/Music/indie-music-scene.md",
     "lang": "ar",
     "categorySlug": "music"
   },
@@ -171789,24 +171945,6 @@
     "path": "ar/Culture/taiwan-variety-shows.md",
     "lang": "ar",
     "categorySlug": "culture"
-  },
-  {
-    "title": "برج المياه: كيف تحولت تايوان إلى مدينة مرئية من الماء النظيف",
-    "description": "قبل وصول الماء من الصنبور، كان على المدن التايفانية ضخ الماء إلى الأبراج وترسيبه وتطهيره ليتدفق بالجاذبية إلى المنازل. لا يسجل برج المياه مجرد تاريخ هندسي، بل هو تقاطع للصحة العامة، والمدينة الاستعمارية، والمتطلبات الصناعية، وسلطة إمداد المياه، والذاكرة المحلية. من بو تشي و هو وي و بيغانتشينغ إلى تايبيه، تُظهر هذه الخزانات كيف تم بناء الماء النظيف بشكل جماعي.",
-    "category": "Society",
-    "tags": [
-      "البنية التحتية",
-      "الصحة العامة",
-      "العمارة",
-      "التراث الثقافي"
-    ],
-    "url": "https://taiwan.md/ar/society/shuidaotou-waterworks",
-    "readingTime": 10,
-    "featured": false,
-    "date": "2026-08-16",
-    "path": "ar/Society/shuidaotou-waterworks.md",
-    "lang": "ar",
-    "categorySlug": "society"
   },
   {
     "title": "برك تاويوان للري: كيف حوّلت هضبة مياه الأمطار إلى حياة",
@@ -172266,8 +172404,8 @@
     "categorySlug": "music"
   },
   {
-    "title": "تاريخ تطوير غابات تايوان: التحول المئوي من استخراج الموارد إلى أمن الأراضي الوطنية",
-    "description": "من دخان الكافور في عصر الحكم القينغ، إلى دوي سكك الحديد في فترة الحكم الياباني، ثم إلى عصر قطع الأشجار الكبير الذي هز الجبال والوديان في فترة ما بعد الحرب. يرتب هذا المقال المنطق الجيوسياسي العالمي وراء سياسات تطوير غابات تايوان، ويوضح بالحقيقة التاريخية الحقيقية لصناعة الغابات على مدى قرن من الزمان.",
+    "title": "تاريخ تطوير غابات تايوان: من استخراج الموارد إلى أمن الأراضي الوطنية — تحول قروي",
+    "description": "من دخان الكافور في عصر تشينغ، إلى صوت سكك الحديد في العصر الياباني، وصولاً إلى عصر قطع الأشجار الكبير الذي هز الجبال بعد الحرب. يرتب هذا المقال المنطق الجيوسياسي العالمي وراء سياسات تطوير غابات تايوان، ويوضح حقيقة مئة عام من تاريخ الغابات بالبيانات.",
     "category": "History",
     "tags": [],
     "url": "https://taiwan.md/ar/history/taiwan-forestry-history",
@@ -174749,7 +174887,7 @@
   },
   {
     "title": "ثقافة المأكولات البحرية في تايوان",
-    "description": "الأسواق السمكية التي توصل المنتجات الطازجة مباشرة، وثقافة مطاعم المأكولات البحرية، والأطباق البحرية مثل \"أوه جاي جيان\" (蚵仔煎)، تُظهر الخصائص الجزرية المحاطة بالبحر والتقاليد الغذائية الغنية للمأكولات البحرية في تايوان.",
+    "description": "توصيل المأكولات البحرية الطازجة مباشرة من الموانئ السمكية، ثقافة مطاعم المأكولات البحرية، أطباق المأكولات البحرية مثل عجة المحار، تُظهر ميزات تايوان كجزيرة محاطة بالبحر من أربعة جوانب وتقاليدها الغنية في ثقافة المأكولات البحرية",
     "category": "Food",
     "tags": [],
     "url": "https://taiwan.md/ar/food/taiwan-seafood-culture",
@@ -175417,7 +175555,7 @@
   },
   {
     "title": "جومان: من معلق الرياضات الإلكترونية إلى قناة المليون مشترك، صانع محتوى طويل الأمد أمام الكاميرا",
-    "description": "من معلق الرياضات الإلكترونية ومدير منتج في إم إس آي، إلى إدارة قناة عبر فتح العلب والمقارنات والسفر والبرامج الجماعية؛ مسيرة جومان توثق كيف يضبط صانع محتوى يوتيوب تايواني نفسه بين حركة المرور وتقسيم العمل والثقة والمسؤولية العامة.",
+    "description": "من معلق الرياضات الإلكترونية ومدير المنتجات في شركة \"إم إس آي\"، إلى إدارة قناة عبر مقاطع فتح العلب، المقارنات، السفر والبرامج الجماعية؛ مسار جومان يسجل أيضًا كيف يضبط صانعو المحتوى في تايوان أنفسهم بين حركة المرور، تقسيم العمل، الثقة والمسؤولية العامة.",
     "category": "People",
     "tags": [],
     "url": "https://taiwan.md/ar/people/joeman",
@@ -175562,6 +175700,19 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "ar/People/jimmy-liao.md",
+    "lang": "ar",
+    "categorySlug": "people"
+  },
+  {
+    "title": "جيمي هسياو (蕭敬騰)",
+    "description": "بدأ الغناء في مطاعم الموسيقى الشعبية منذ سن 17 عاماً، واشتهر عام 2007 عبر فقرة التحدي في برنامج \"سوبر ستار لايت\"، وأصدر أول ألبوم له عام 2008. وفي عام 2013 فاز بجائزة غولدن ميلودي لأفضل مغني ماندوبوب عن ألبوم \"باسم الحب\"، وتطور لاحقاً في مجالات الفرق الموسيقية والتمثيل وعلى مسارح جانبي المضيق.",
+    "category": "People",
+    "tags": [],
+    "url": "https://taiwan.md/ar/people/jam-hsiao",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-03-23",
+    "path": "ar/People/jam-hsiao.md",
     "lang": "ar",
     "categorySlug": "people"
   },
@@ -176605,6 +176756,24 @@
     "categorySlug": "society"
   },
   {
+    "title": "رأس الماء: كيف بنت تايوان مدينة مرئية من الماء النظيف",
+    "description": "قبل أن يتدفق الماء من الصنبور، كان على مدن تايوان ضخ المياه إلى الأبراج، وترسيبها، وتعقيمها، ثم ترك الجاذبية تنقلها إلى الشوارع والمنازل. لا يسجل \"رأس الماء\" تاريخ الهندسة فحسب، بل أيضًا الشكل المتداخل للصحة العامة، والمدينة الاستعمارية، والاحتياجات الصناعية، وسلطة الحصول على الماء، والذاكرة المحلية. من بوتسي، وهووي، وبايكانغ إلى تايبيه، تجعلنا هذه الأبراج نرى كيف بُني الماء النظيف بشكل مشترك.",
+    "category": "Society",
+    "tags": [
+      "البنية التحتية",
+      "الصحة العامة",
+      "العمارة",
+      "الأصول الثقافية"
+    ],
+    "url": "https://taiwan.md/ar/society/shuidaotou-waterworks",
+    "readingTime": 10,
+    "featured": false,
+    "date": "2026-08-16",
+    "path": "ar/Society/shuidaotou-waterworks.md",
+    "lang": "ar",
+    "categorySlug": "society"
+  },
+  {
     "title": "رؤية تايوان — انطباعات تاريخية عن الجزيرة",
     "description": "من عصر الاستكشافات الكبرى إلى العصر الحديث، نظرت المجموعات العرقية المختلفة إلى هذه الجزيرة بطرق متباية: تؤمن قبائل التايال بأن أرواح الأجداد تركت بصماتها على الأرض، وأن الجبال والأنهار هي أجساد أسلافهم، لذا يطلقون على أنفسهم أبناء الأرض؛ بينما تعبر قبائل الأمي عن ارتباطها بالأرض من خلال صور التجذر. تجمع هذه المجموعة من المقدمات الأساطير المتوارثة عبر الأجيال وذكريات الجزيرة، لتنسج رؤى متعددة للمشاهدة.",
     "category": "About",
@@ -176954,12 +177123,12 @@
     "categorySlug": "people"
   },
   {
-    "title": "ساي جياي لين (Jolin Tsai)",
+    "title": "ساي جيه لين (Jolin Tsai)",
     "description": "فازت بلقب فئة الغناء في مسابقة \"New Voice Battle\" عام 1998، ثم أصبحت ملكة البوب الصيني عبر ألبوماتها وجولاتها الغنائية؛ وحصلت أغنية \"Rose Boy\" على جائزة أغنية العام في جوائز غو جين ثلاث مرات.",
     "category": "People",
     "tags": [],
     "url": "https://taiwan.md/ar/people/jolin-tsai",
-    "readingTime": 5,
+    "readingTime": 6,
     "featured": false,
     "date": "2026-03-24",
     "path": "ar/People/jolin-tsai.md",
@@ -177655,8 +177824,8 @@
     "categorySlug": "economy"
   },
   {
-    "title": "شركات تايوان: شركة تايوان للتصنيع الدقيق (TSMC)",
-    "description": "موريس تشانغ غادر شركة تكساس إنسترومنتس (TI) في سن 54، وأسس TSMC في سن 56، بعد أن فرّ من الحرب ثلاث مرات وعاش في ست مدن خلال أول 18 عاماً من حياته. وبعد 38 عاماً، في 3 آذار/مارس 2025، أشار الرئيس الأمريكي ترامب في البيت الأبيض إلى خليفة تشانغ، وي تشي-جيا، قائلاً: \"إنه أهم رجل في هذه الغرفة\". وفي الربع الأول من 2026، بلغت إيرادات TSMC الفصلية 35.9 مليار دولار. جزيرة تتعرض للأعاصير المتكررة وتعاني من شح المياه والكهرباء، بنت قلب الحضارة الرقمية للبشرية جمعاء — لكن كلما كبر هذا القلب، غدا من غير الواضح ما إذا كانت الجزيرة قادرة على تحمل ثمنه.",
+    "title": "شركات تايوان: شركة تايوان لأشباه الموصلات (TSMC)",
+    "description": "غادر موريس تشانغ شركة تكساس إنسترومنتس في سن 54، وأسس شركة تايوان لأشباه الموصلات (TSMC) في سن 56. في الثماني عشرة سنة السابقة، نجا من ثلاث محن، وعاش في ست مدن. بعد ثمانية وثلاثين عاماً، في 3 مارس 2025، أشار الرئيس الأمريكي ترامب في البيت الأبيض إلى خليفة تشانغ، سي. سي. وي، قائلاً: \"هو أهم رجل في هذه الغرفة\". في الربع الأول من عام 2026، بلغت إيرادات TSMC الفصلية 35.9 مليار دولار أمريكي. جزيرة تتعرض للأعاصير المتكررة، وتعاني من نقص المياه والكهرباء، بنت قلب الحضارة الرقمية للبشرية جمعاء — لكن كلما كبر هذا القلب، أصبح من غير الواضح بشكل متزايد ما إذا كانت هذه الجزيرة قادرة على تحمل تكلفته.",
     "category": "Economy",
     "tags": [],
     "url": "https://taiwan.md/ar/economy/tsmc",
@@ -178063,19 +178232,6 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "ar/People/xiao-qing-yang-grammy-designer.md",
-    "lang": "ar",
-    "categorySlug": "people"
-  },
-  {
-    "title": "شياو جينغ تينغ (Hsiao Jing-teng)",
-    "description": "بدأ الغناء في مطاعم الأغاني الشعبية منذ سن 17 عامًا، واشتهر في عام 2007 عبر برنامج \"Super Star Avenue\"، وأصدر أول ألبوم له في 2008. فاز بجائزة أفضل مغني ماندرين في حفل جوائز \"Golden Melody\" عام 2013، ثم توسع في مجالات الفرق الموسيقية والسينما والمسارح عبر مضيق تايوان.",
-    "category": "People",
-    "tags": [],
-    "url": "https://taiwan.md/ar/people/jam-hsiao",
-    "readingTime": 8,
-    "featured": false,
-    "date": "2026-03-23",
-    "path": "ar/People/jam-hsiao.md",
     "lang": "ar",
     "categorySlug": "people"
   },
@@ -182585,19 +182741,6 @@
     "categorySlug": "music"
   },
   {
-    "title": "موسيقى تايوان المستقلة: كيف فتحت دار تسجيلات عاجزة عن دفع الرواتب آذان جزيرة بأكملها",
-    "description": "من مغامرة تحمل ديون \"كريستال ريكوردز\" البالغة ثلاثمائة ألف، إلى بيع \"نودايست بارتي\" كامل طبعتها الأولى في مقهى. خمسة وثلاثون عاماً من الموسيقى المستقلة في تايوان ليست قصة انتفاضة، بل رهان طويل خاضه مجموعة من الناس أصرّوا على جعل \"الأصوات غير المرئية مسموعة\".",
-    "category": "Music",
-    "tags": [],
-    "url": "https://taiwan.md/ar/music/indie-music-scene",
-    "readingTime": 14,
-    "featured": true,
-    "date": "2026-03-29",
-    "path": "ar/Music/indie-music-scene.md",
-    "lang": "ar",
-    "categorySlug": "music"
-  },
-  {
     "title": "موسيقى تايوان الوطنية: صوت الجزيرة الذي نما على الآلات الصينية",
     "description": "الإرهو والبيبا التي عبرت البحر في عام 1949، وبعد سبعين عاماً تؤدي التناغم الثماني لشعب بونون في تايوان. كيف تطورت الموسيقى الوطنية في تايوان من رمز للشرعية السياسية إلى نوع موسيقي يختلف تماماً عن الضفة المقابلة.",
     "category": "Music",
@@ -184466,6 +184609,19 @@
     "path": "hi/Culture/a-kuei-flash-animation.md",
     "lang": "hi",
     "categorySlug": "culture"
+  },
+  {
+    "title": "आइयू: हाथ से धोकर बनाया जाने वाला जेली, और एक ततैया जो केवल इसके लिए काम करती है",
+    "description": "आइयू जेली बिना पकाए, बिना जमाने वाले एजेंट के बनती है: एक ग्राम बीज में चालीस से अस्सी गुना पानी, हाथ से धोना या धीमी गति से दो मिनट मिलाना, दस मिनट रखने पर जम जाता है। लियन हेंग ने 'ताइवान का सामान्य इतिहास' में डाओगुआंग युग की शुरुआत में टोंग'आन के एक व्यक्ति और उसकी बेटी आइयू की कहानी दर्ज की; दो सौ साल बाद प्रयोगशाला ने मापा कि कैल्शियम आयन और एंजाइम पानी को जेली में कैसे बदलते हैं, और बीज केवल एक ततैया की वजह से उगते हैं जो विशेष रूप से इसे परागित करती है — यह लेख दोनों पहलुओं को जोड़ता है।",
+    "category": "Food",
+    "tags": [],
+    "url": "https://taiwan.md/hi/food/aiyu",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-11-21",
+    "path": "hi/Food/aiyu.md",
+    "lang": "hi",
+    "categorySlug": "food"
   },
   {
     "title": "आओ आओ, क्या हुआ, क्या हुआ: एक नारा बड़े महाभियोग में पक्ष बदलता है, फिर ताइपे के मेयर चुनाव में प्रवेश करता है",
@@ -187482,19 +187638,6 @@
     "categorySlug": "people"
   },
   {
-    "title": "जोलिन त्साई (蔡依林)",
-    "description": "1998 में उन्होंने 《न्यू वॉयस पोजिशनिंग बैटल》 की गायन श्रेणी में चैंपियनशिप जीती, बाद में एल्बम और टूर के जरिए मंदारिन पॉप दिवा बनीं; 〈रोज बॉय〉 ने उन्हें तीसरी बार गोल्डन मेलोडी अवार्ड का साल का गीत दिलाया।",
-    "category": "People",
-    "tags": [],
-    "url": "https://taiwan.md/hi/people/jolin-tsai",
-    "readingTime": 5,
-    "featured": false,
-    "date": "2026-03-24",
-    "path": "hi/People/jolin-tsai.md",
-    "lang": "hi",
-    "categorySlug": "people"
-  },
-  {
     "title": "जोस्टार: ज्ञान के लिए भुगतान शुरू करने वाला एक झूठा मूछ और पढ़ाई के साथ",
     "description": "यूमा ने लंबे समय से लिखते हुए एक ज्ञान-आधारित YouTuber बन गई। उसने अपने झूठे मूछों, पुस्तक समीक्षाओं और खुद को शिक्षक न बनाए जाने के साथ सामग्री निर्माण के मूल्य की खोज की, और सदस्यता समर्थन की सफलता ने फिर से निर्माता की स्वतंत्रता पर सवाल खड़े किए। यह लेख ब्लॉग, वीडियो समीक्षा, पढ़ाई, फंडिंग और सामग्री के वादे के चौराहे पर एक ज्ञान-आधारित सोशल मीडिया प्रभावी कैसे अपनी मेहनत और सीमाएं बनाती है।",
     "category": "People",
@@ -188431,6 +188574,19 @@
     "categorySlug": "music"
   },
   {
+    "title": "ताइवान का इंडी संगीत: एक रिकॉर्ड स्टोर जो वेतन नहीं दे सका, उसने कैसे एक द्वीप के कान खोले",
+    "description": "क्रिस्टल रिकॉर्ड्स के 300,000 NT$ के कर्ज से शुरू हुए साहसिक सफर से लेकर ''काओ डोंग मेडे'' (No Party For Cao Dong) द्वारा कॉफी शॉप में अपनी पहली कॉपी बेचने तक। ताइवान का इंडी संगीत 35 साल का कोई वापसी की कहानी नहीं है, बल्कि उन लोगों का एक लंबा जुआ है जिन्होंने \"अनदेखी आवाजों को सुनाने\" का संकल्प लिया है।",
+    "category": "Music",
+    "tags": [],
+    "url": "https://taiwan.md/hi/music/indie-music-scene",
+    "readingTime": 14,
+    "featured": true,
+    "date": "2026-03-29",
+    "path": "hi/Music/indie-music-scene.md",
+    "lang": "hi",
+    "categorySlug": "music"
+  },
+  {
     "title": "ताइवान का इलेक्ट्रिक कुकर: एक स्विच ने कैसे आधी सदी का दैनिक जीवन पकाया",
     "description": "1958 में क्राउन ब्रांड बाजार में आया, 1960 में तातुंग TAC-6 प्रकट हुआ। इलेक्ट्रिक कुकर मूल रूप से जापानी तकनीक का क्लोन था, लेकिन ताइवान की सीमित बिजली, चावल की किस्मों में अंतर और भाप पकाने की आदतों में बदल गया। 5 से 10 एम्पीयर के घरेलू मीटर, 230 डिग्री की हीट सेटिंग से लेकर दहेज के लाल कुकर बॉडी तक, यह अंततः चावल पकाने, सब्जी भापने वाला और पारिवारिक समय को पुनर्वितरित करने वाला दैनिक उपकरण बन गया, और ताइवानी लोगों के साथ विदेश भी गया।",
     "category": "Culture",
@@ -188981,6 +189137,19 @@
     "categorySlug": "nature"
   },
   {
+    "title": "ताइवान का वन विकास इतिहास: संसाधन दोहन से राष्ट्रीय सुरक्षा की ओर एक सदी का परिवर्तन",
+    "description": "किंग राजवंश के कपूर (camphor) व्यापार से लेकर जापानी शासन के दौरान रेलवे के युग और युद्ध के बाद के बड़े पैमाने पर लकड़ी कटाई के दौर तक। यह लेख ताइवान की वन नीतियों के पीछे के वैश्विक भू-राजनीतिक तर्क का विश्लेषण करता है।",
+    "category": "History",
+    "tags": [],
+    "url": "https://taiwan.md/hi/history/taiwan-forestry-history",
+    "readingTime": 15,
+    "featured": false,
+    "date": "2026-03-25",
+    "path": "hi/History/taiwan-forestry-history.md",
+    "lang": "hi",
+    "categorySlug": "history"
+  },
+  {
     "title": "ताइवान का विज्ञापन इतिहास: बेची गई चीज़ें भूल गए, लेकिन वह जिंगल अभी भी गुनगुनाया जाता है",
     "description": "1968 में डैतोंग इलेक्ट्रिक पॉट का विज्ञापन गीत टेलीविजन पर बजा, और आधा सदी बाद भी ताइवानवासी 'डैतोंग डैतोंग राष्ट्रीय माल अच्छा' बोल सकते हैं, लेकिन किसी को याद नहीं कि यह मूल रूप से सान्यो की धुन थी। जापानी शासन के 'ताइवान निचिनबो' के प्रिंट विज्ञापन से लेकर, केवल तीन चैनलों वाले मार्शल लॉ युग में पूरे द्वीप का ध्यान एक ही चैनल पर केंद्रित होने तक, और फिर 2016 में डिजिटल विज्ञापनों का टेलीविजन को पार करने तक—ताइवान का सबसे यादगार विज्ञापन, बेची गई वस्तुएं अक्सर भूली जाती हैं, लेकिन जो रहता है वह एक पूरे युग की आवाज़ है।",
     "category": "Culture",
@@ -189165,19 +189334,6 @@
     "path": "hi/Technology/taiwan-software-industry-development.md",
     "lang": "hi",
     "categorySlug": "technology"
-  },
-  {
-    "title": "ताइवान का स्वतंत्र संगीत: एक ऐसी रिकॉर्ड दुकान जो वेतन नहीं दे सकती थी, कैसे एक द्वीप के कान खोलने में कामयाब हुई",
-    "description": "क्रिस्टल रिकॉर्ड्स द्वारा तीन लाख के कर्ज़ को संभालने के साहस से लेकर नो पार्टी फॉर काओ डोंग के कॉफी शॉप में पहले प्रिंट के बिक जाने तक। ताइवान का स्वतंत्र संगीत 35 साल कोई पलटवार की कहानी नहीं, बल्कि उन लोगों का लंबा दांव है जिन्होंने \"अनसुनी आवाज़ों को सुना जाने\" देने की ज़िद ठानी",
-    "category": "Music",
-    "tags": [],
-    "url": "https://taiwan.md/hi/music/indie-music-scene",
-    "readingTime": 14,
-    "featured": true,
-    "date": "2026-03-29",
-    "path": "hi/Music/indie-music-scene.md",
-    "lang": "hi",
-    "categorySlug": "music"
   },
   {
     "title": "ताइवान का हैका संगीत: लोकगीत से लेकर लिन शेंग-शियांग द्वारा पुरस्कार अस्वीकार करने की भाषाई राजनीति तक",
@@ -190368,6 +190524,19 @@
     "categorySlug": "culture"
   },
   {
+    "title": "ताइवान की समुद्री भोजन संस्कृति",
+    "description": "मत्स्य बंदरगाहों से ताज़ा आपूर्ति, सीफूड रेस्तरां संस्कृति और ओय्या-चिएन (蚵仔煎) जैसे व्यंजनों के माध्यम से ताइवान की द्वीप विशेषताओं और समृद्ध समुद्री खाद्य परंपराओं का प्रदर्शन।",
+    "category": "Food",
+    "tags": [],
+    "url": "https://taiwan.md/hi/food/taiwan-seafood-culture",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "hi/Food/taiwan-seafood-culture.md",
+    "lang": "hi",
+    "categorySlug": "food"
+  },
+  {
     "title": "ताइवान की साइबर सुरक्षा उद्योग का विकास",
     "description": "सरकारी नीति से लेकर निजी नवाचार तक, ताइवान वैश्विक साइबर खतरों के बीच एक पूर्ण सूचना सुरक्षा उद्योग पारिस्थितिकी तंत्र का निर्माण कैसे करता है",
     "category": "Technology",
@@ -191151,8 +191320,8 @@
     "categorySlug": "society"
   },
   {
-    "title": "ताइवान के लोकगीत और गीत: चोरी से लेकर दुनिया द्वारा सुने जाने तक",
-    "description": "1996 के ओलंपिक उद्घाटन समारोह में ताइवान के अमी आदिवासी बुजुर्ग की प्राचीन गूंज सुनाई दी, लेकिन कुओ यिंग-नान को मुकदमे के जरिए ही पता चला कि उनकी आवाज पूरी दुनिया ने सुनी। यह बेतुकी कहानी ताइवान के लोकगीतों के भाग्य को दर्शाती है——खामोश किए जाने से लेकर अपनी आवाज को फिर से परिभाषित करने तक",
+    "title": "ताइवान के लोकगीत और गीत: चोरी होने से लेकर दुनिया द्वारा सुने जाने तक",
+    "description": "1996 ओलंपिक उद्घाटन समारोह में ताइवान के अमी (Amis) जनजाति के एक बुजुर्ग की प्राचीन गायन शैली गूंजी, लेकिन गुओ यिंग-नान (Guo Ying-nan) को खुद मुकदमे के माध्यम से पता चला कि उनकी आवाज़ पूरी दुनिया ने सुनी है। यह विडंबनापूर्ण कहानी ताइवानी लोकगीतों के भाग्य को दर्शाती है—खामोश किए जाने से लेकर अपनी आवाज़ को फिर से परिभाषित करने तक।",
     "category": "Music",
     "tags": [],
     "url": "https://taiwan.md/hi/music/taiwan-folk-music-and-songs",
@@ -191175,19 +191344,6 @@
     "path": "hi/Culture/taiwan-iron-window-grilles.md",
     "lang": "hi",
     "categorySlug": "culture"
-  },
-  {
-    "title": "ताइवान के वानिकी विकास का इतिहास: संसाधन शोषण से राष्ट्रीय सुरक्षा तक का सदीीय बदलाव",
-    "description": "चिंग राजवंश काल की कपूर (camphor) की धूम से लेकर जापानी शासनकाल में रेलमार्गों की गूंज, और युद्ध के बाद पहाड़ों पर बड़े पैमाने पर वनों की कटाई के युग तक। यह लेख वैश्विक भू-राजनीतिक तर्क के आलोक में ताइवान की वानिकी विकास नीतियों का विश्लेषण करता है और डेटा के माध्यम से सौ वर्षों के वानिकी के वास्तविक सत्य को स्पष्ट करता है।",
-    "category": "History",
-    "tags": [],
-    "url": "https://taiwan.md/hi/history/taiwan-forestry-history",
-    "readingTime": 15,
-    "featured": false,
-    "date": "2026-03-25",
-    "path": "hi/History/taiwan-forestry-history.md",
-    "lang": "hi",
-    "categorySlug": "history"
   },
   {
     "title": "ताइवान के विवाह, अन्त्येष्टि, उत्सव और जीवन संस्कार",
@@ -192518,19 +192674,6 @@
     "categorySlug": "nature"
   },
   {
-    "title": "ताइवान समुद्री भोजन संस्कृति",
-    "description": "मछली पकड़ने वाले बंदरगाहों से ताज़ा आपूर्ति, समुद्री भोजन रेस्तरां संस्कृति और ओयज़ीजियन (蚵仔煎) जैसे समुद्री व्यंजन ताइवान के चारों ओर समुद्र से घिरे द्वीप की विशेषता और समृद्ध समुद्री खाद्य परंपरा को दर्शाते हैं।",
-    "category": "Food",
-    "tags": [],
-    "url": "https://taiwan.md/hi/food/taiwan-seafood-culture",
-    "readingTime": 8,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "hi/Food/taiwan-seafood-culture.md",
-    "lang": "hi",
-    "categorySlug": "food"
-  },
-  {
     "title": "ताइवान समुद्री संरक्षण: वह प्रणाली जो 30 वर्षों में बनी, क्या कोरल ब्लीचिंग को बचा नहीं सकी?",
     "description": "2020 में ताइवान के जलक्षेत्रों में ऐतिहासिक रूप से सबसे बड़े पैमाने पर कोरल ब्लीचिंग हुआ। शियाओ लियुक्यू और डोंगशा एटोल जैसे संरक्षित क्षेत्रों में भी कोरल उच्च तापमान के कारण मर गए। इससे क्या समस्या उजागर हुई?",
     "category": "Nature",
@@ -193197,6 +193340,19 @@
     "featured": true,
     "date": "2026-03-19",
     "path": "hi/People/tsai-ming-liang.md",
+    "lang": "hi",
+    "categorySlug": "people"
+  },
+  {
+    "title": "त्साई यी-लिन (जोलिन त्साई)",
+    "description": "1998 में 'न्यू वॉयस पोजिशनिंग वॉर' (新聲卡位戰) गायन वर्ग में चैंपियन बनीं, फिर एल्बम और टूर के जरिए मैंडोपॉप दिवा बनीं; 'रोज बॉय' (玫瑰少年) ने उन्हें तीसरी बार गोल्डन मेलोडी 'सॉन्ग ऑफ द ईयर' दिलाया।",
+    "category": "People",
+    "tags": [],
+    "url": "https://taiwan.md/hi/people/jolin-tsai",
+    "readingTime": 5,
+    "featured": false,
+    "date": "2026-03-24",
+    "path": "hi/People/jolin-tsai.md",
     "lang": "hi",
     "categorySlug": "people"
   },
@@ -194029,15 +194185,10 @@
     "categorySlug": "geography"
   },
   {
-    "title": "पानी के सिर: ताइवान ने साफ़ पानी को एक देखाई जा सकने वाली शहर की ढाँचा बना दिया",
-    "description": "पानी के नल से पहले, ताइवान के शहरों को पानी को पहाड़ पर उठाना, झरना करना और ज़रख़िया करना पड़ता था, और फिर वह गुरुत्वाकर्षण के ज़रिए सड़कों में बहा। पानी के सिर द्वारा दर्ज़ किया गया केवल इंजीनियरिंग इतिहास नहीं है, बल्कि सार्वजनिक स्वास्थ्य, सामुदायिक शहरीकरण, उद्योग की मांग, पानी पाने के अधिकार और स्थानीय स्मृति के अंतर्क्रिया है। चाहे वह पोचू, हूई, बेग़ी या ताइपे में हो, ये पानी के सिर लोगों को दिखाते हैं कि साफ़ पानी कैसे साझा तौर पर बनाया गया।",
+    "title": "पानी की टंकी: ताइवान ने साफ़ पानी को एक दिखने वाले शहर में बदल दिया",
+    "description": "नल से पानी आने से पहले, ताइवान के शहरों को पानी को टंकी तक खींचना, जमाना, कीटाणुरहित करना पड़ता था, फिर गुरुत्वाकर्षण से उसे गलियों और घरों तक पहुँचाना होता था। पानी की टंकी सिर्फ़ इंजीनियरिंग का इतिहास नहीं, बल्कि सार्वजनिक स्वास्थ्य, औपनिवेशिक शहर, औद्योगिक माँग, पानी के अधिकार और स्थानीय स्मृति के ओवरलैप को दर्ज करती है। पुज़ी, हूवेई, बेइगांग से ताइपे तक, ये पानी की टंकियाँ दिखाती हैं कि साफ़ पानी कैसे मिलकर बनाया गया।",
     "category": "Society",
-    "tags": [
-      "बुनियादी ढाँचा",
-      "सार्वजनिक स्वास्थ्य",
-      "इमारत",
-      "सांस्कृतिक विरासत"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/hi/society/shuidaotou-waterworks",
     "readingTime": 10,
     "featured": false,
@@ -195745,19 +195896,6 @@
     "path": "hi/History/moriyama-matsunosuke-prefectural-halls.md",
     "lang": "hi",
     "categorySlug": "history"
-  },
-  {
-    "title": "यह समूह: एक साथ प्रसिद्ध हुए सात लोग, उस दिन तक कैसे पहुँचे जब अलग होना अनिवार्य हो गया",
-    "description": "2011 में, चान रोंग, चान रुई और पाँच साथियों ने अपनी प्रदर्शन की समझ को YouTube पर उतारा। 'सुपर ब्लाइंड कवर' से 35.7 लाख सब्सक्राइबर तक, उन्होंने दैनिक जीवन को साझा स्मृति में बदल दिया, और चैनल को एक ऐसी छोटी कंपनी बना दिया जिसमें श्रम विभाजन, राजस्व साझाकरण और प्रबंधन की आवश्यकता थी। 2023 में रुकने की घोषणा के बाद, पैसा, थकान, प्लेटफॉर्म का रुख और व्यक्तिगत विकास एक साथ सामने आ गए। यह ताइवान के इंटरनेट इतिहास का एक अध्याय है कि कैसे सहयोगी सृजन एक पेशे के रूप में विकसित हुआ, और फिर कैसे उसे पुनः विघटित करने की आवश्यकता पड़ी।",
-    "category": "People",
-    "tags": [],
-    "url": "https://taiwan.md/hi/people/tgop",
-    "readingTime": 10,
-    "featured": false,
-    "date": "2026-08-17",
-    "path": "hi/People/tgop.md",
-    "lang": "hi",
-    "categorySlug": "people"
   },
   {
     "title": "यांग चुआन-क्वांग: ताइतुंग का कबीला, रोम का रजत, 9121 अंकों का विश्व रिकॉर्ड बनाने वाले एशियाई आयरनमैन",
@@ -198406,8 +198544,8 @@
     "categorySlug": "economy"
   },
   {
-    "title": "श्याओ चिंग-टेंग (蕭敬騰)",
-    "description": "17 साल की उम्र से लोकगीत रेस्तरां में गाना शुरू किया, 2007 में 'सुपर स्टार एवेन्यू' के चैलेंज सेगमेंट से प्रसिद्ध हुए, 2008 में पहला एल्बम जारी किया। 2013 में 'इन द नेम ऑफ लव' के लिए गोल्डन मेलोडी अवार्ड्स में सर्वश्रेष्ठ मंदारिन पुरुष गायक जीता, बाद में बैंड, फिल्मों और दोनों किनारों के मंच पर विकसित हुए।",
+    "title": "श्याओ जिंग-तेंग (Hsiao Jing-teng)",
+    "description": "17 वर्ष की आयु से लोक गीत रेस्तरां में गायन शुरू किया, 2007 में \"सुपर स्टारलाइट एवेन्यू\" के माध्यम से प्रसिद्ध हुए और 2013 में सर्वश्रेष्ठ मंदारिन पुरुष गायक का गोल्डन डिस्क पुरस्कार जीता।",
     "category": "People",
     "tags": [],
     "url": "https://taiwan.md/hi/people/jam-hsiao",
@@ -202140,28 +202278,6 @@
     "categorySlug": "art"
   },
   {
-    "title": "대만 민요와 가요: 도용당하고 세계에 알려지기까지",
-    "description": "1996년 올림픽 개막식에서 울려 퍼진 대만 아미족 노인의 고대 노래. 하지만 궈잉난 본인은 소송을 통해서야 자신의 목소리가 세계에 울려 퍼졌다는 사실을 알았다. 이 황당한 이야기는 대만 민요의 운명을 담은 거울이다 — 침묵에서 자신의 소리를 되찾기까지.",
-    "category": "Music",
-    "tags": [
-      "음악",
-      "민요",
-      "가요",
-      "원주민",
-      "타이완어",
-      "궈잉난",
-      "춘춘",
-      "부눈족"
-    ],
-    "url": "https://taiwan.md/ko/music/taiwan-folk-music-and-songs",
-    "readingTime": 8,
-    "featured": false,
-    "date": "2026-03-23",
-    "path": "ko/Music/taiwan-folk-music-and-songs.md",
-    "lang": "ko",
-    "categorySlug": "music"
-  },
-  {
     "title": "대만 민주 전환——권위주의가 스스로 파낸 무덤",
     "description": "각각의 탄압은 더 많은 저항자를 만든다. 2·28 사건부터 태양꽃 운동까지, 한 섬이 어떻게 독재 체제가 스스로를 묻는 힘을 길러냈는가.",
     "category": "History",
@@ -205521,6 +205637,24 @@
     "categorySlug": "geography"
   },
   {
+    "title": "물도머리: 타이완이 깨끗한 물을, 한눈에 보이는 도시로 세우다",
+    "description": "수도꼭지에서 물이 나오기 전에, 타이완의 도시들은 먼저 물을 탑으로 퍼 올리고, 침전시키고, 소독한 뒤, 중력에 맡겨 거리의 집으로 흐르게 해야 했다. 물도머리가 기록한 것은 단지 공학사가 아니다. 공공위생, 식민도시, 산업수요, 수도권력, 그리고 지역기억이 겹쳐진 모양새다. 쁘쯔(朴子), 후웨이(虎尾), 베이강(北港)에서 타이베이(臺北)까지, 이 물탑들은 깨끗한 물이 어떻게 공동으로 지어졌는지를 보여준다.",
+    "category": "Society",
+    "tags": [
+      "기반시설",
+      "공공위생",
+      "건축",
+      "문화자산"
+    ],
+    "url": "https://taiwan.md/ko/society/shuidaotou-waterworks",
+    "readingTime": 10,
+    "featured": false,
+    "date": "2026-08-16",
+    "path": "ko/Society/shuidaotou-waterworks.md",
+    "lang": "ko",
+    "categorySlug": "society"
+  },
+  {
     "title": "미려도 사건",
     "description": "반대 운동을 완전히 붕괴시키려던 군사 재판이 공개 중계로 인해 타이완 민주주의 가장 강력한 홍보 영상이 되었다.",
     "category": "History",
@@ -206509,16 +206643,16 @@
     "categorySlug": "people"
   },
   {
-    "title": "샤오징텅(蕭敬騰)",
-    "description": "17세부터 민가 레스토랑에서 보컬로 활동했으며, 2007년 《슈퍼성광대도》의 도전 코너를 통해 폭발적인 인기를 얻었다. 2008년 첫 앨범을 발매하였고, 2013년 《이애지명》으로 금곡상을 수상한 뒤 밴드, 영화 및 양안 무대에서 활약하고 있다.",
+    "title": "샤오징텅",
+    "description": "17세부터 민요 식당에서 상주 가수로 활동, 2007년 '슈퍼 스타 라이트' 도전자 코너로 인기 급상승, 2008년 첫 앨범 발매. 2013년 '사랑의 이름으로'로 금곡상 최우수 국어 남자 가수상 수상, 이후 밴드, 영화, 양안 무대에서 활동.",
     "category": "People",
     "tags": [
       "음악",
-      "팝 음악",
+      "대중음악",
       "재즈",
-      "슈퍼성광대도",
+      "슈퍼 스타 라이트",
       "금곡상",
-      "우신(雨神)"
+      "비의 신"
     ],
     "url": "https://taiwan.md/ko/people/jam-hsiao",
     "readingTime": 4,
@@ -206943,24 +207077,6 @@
     "path": "ko/Economy/shopee.md",
     "lang": "ko",
     "categorySlug": "economy"
-  },
-  {
-    "title": "수도두: 타이완이 깨끗한 물을 보이는 도시로 만드는 방법",
-    "description": "수도꼭지에서 물이 나오기 전, 타이완의 도시는 먼저 물을 탑에 끌어올리고 침전 및 소독 처리해야 했다. 수도두가 기록하는 것은 단지 공학사가 아니라, 보건·식민도시·산업 수요·급수권과 지방 기억이 얽힌 형상이다. 포찌·후우이·백동에서 타이베이까지, 이 물탱크들은 깨끗한 물이 어떻게 공동체에 의해 건설되었는지 보여준다.",
-    "category": "Society",
-    "tags": [
-      "기초 인프라",
-      "보건",
-      "건축",
-      "문화 유산"
-    ],
-    "url": "https://taiwan.md/ko/society/shuidaotou-waterworks",
-    "readingTime": 10,
-    "featured": false,
-    "date": "2026-08-16",
-    "path": "ko/Society/shuidaotou-waterworks.md",
-    "lang": "ko",
-    "categorySlug": "society"
   },
   {
     "title": "수술 상처 감염: 전체 1.21%, 그리고 절반이 무감염인 병원들",
@@ -207640,6 +207756,19 @@
     "path": "ko/People/red-shin-minecraft-youtuber.md",
     "lang": "ko",
     "categorySlug": "people"
+  },
+  {
+    "title": "아이유(愛玉): 손으로 씻어 만드는 젤리와 오직 그것만을 위해 일하는 벌",
+    "description": "아이유 젤리는 끓이거나 응고제를 넣지 않는다. 씨앗 1g에 물을 40~80배 섞어 손으로 씻거나 저속으로 2분간 저은 뒤 10분간 두면 굳는다. 《타이완 통사》에 기록된 도광(道光) 초년 동안(同安) 사람과 딸 아이유의 이야기부터, 200년 후 실험실에서 밝혀낸 칼슘 이온과 효소의 원리, 그리고 씨앗을 키워내는 작은 벌의 존재까지 이 글은 그 모든 연결고리를 짚어본다.",
+    "category": "Food",
+    "tags": [],
+    "url": "https://taiwan.md/ko/food/aiyu",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-11-21",
+    "path": "ko/Food/aiyu.md",
+    "lang": "ko",
+    "categorySlug": "food"
   },
   {
     "title": "아포철단: 배를 젓는 곳 '해각대관'의 우연에서, 탄수이 가장 단단한 집단 기억까지",
@@ -211506,7 +211635,7 @@
   },
   {
     "title": "차이이린(蔡依林)",
-    "description": "1998년 《신성카위전》 가창 부문 우승을 차지한 후, 앨범과 투어를 통해 화어권 팝의 여왕으로 자리매김했다. 〈장미 소년〉으로 세 차례나 금곡상 올해의 노래를 수상했다.",
+    "description": "1998년 《신성카위전》 가창 부문 우승을 차지한 후, 앨범과 투어를 통해 화어권 팝의 여왕으로 자리매김함; 〈장미 소년〉으로 세 차례 금곡상 올해의 노래를 수상함",
     "category": "People",
     "tags": [
       "인물",
@@ -213142,19 +213271,6 @@
     "categorySlug": "culture"
   },
   {
-    "title": "타이완 독립음악: 급여도 지급하지 못한 음반점은 어떻게 한 섬의 귀를 열었는가",
-    "description": "크리스탈 레코드를 30만 대만달러의 부채와 함께 떠안은 모험에서, 노 파티 포 차오둥이 카페에서 초판을 매진시킨 순간까지. 타이완 독립음악 35년은 역전극이 아니라, “보이지 않던 소리가 들리게” 하려는 사람들이 오래도록 지속해 온 도박이었다",
-    "category": "Music",
-    "tags": [],
-    "url": "https://taiwan.md/ko/music/indie-music-scene",
-    "readingTime": 14,
-    "featured": true,
-    "date": "2026-03-29",
-    "path": "ko/Music/indie-music-scene.md",
-    "lang": "ko",
-    "categorySlug": "music"
-  },
-  {
     "title": "타이완 드론 산업: 타이완 장난감 비행기에서 블루 리스트까지, 한 장의 입석권은 레후우(Thunder Tiger)에게",
     "description": "2025년 9월 21일, 레후우(Thunder Tiger) 기술의 Overkill FPV 자살 드론이 미국 국방부 블루 리스트(Blue UAS Cleared List) 인증을 통과했다. 타이완 기업 중 최초이자 지금까지 유일한 사례다. 전체 목록의 39개 완제 플랫폼과 165개 부품 중 타이완은 오직 한 자리에 불과하다. 2026년 4월, 미국 양당 소속 상원의원 4명이 《타이완을 위한 푸른 하늘법(Blue Skies for Taiwan Act)》을 공동 발의해 타이완 기업용 고속 통로 설치를 요구했다. 이 법안 자체의 존재가 한 가지를 드러낸다: 타이완의 진입이 너무 느려 미국 스스로가 입법을 통해 장벽을 낮춰야 한다는 점이다. 타이완에서 46년간 원격 조종 장난감 비행기를 만들어 온 한 회사가 오하이오주에 두 번째 공장을 건설할 계획을 세우고 있다.",
     "category": "Technology",
@@ -213451,19 +213567,6 @@
     "categorySlug": "culture"
   },
   {
-    "title": "타이완 산림 개발사: 자원 수탈에서 국토 보전으로의 세기적 전환",
-    "description": "청나라 통치기의 장뇌(樟腦) 연기와 일제강점기의 철도 소리, 그리고 전후 산맥을 뒤흔든 대규모 벌목 시대를 관통하며, 타이완 산림 개발 정책 이면의 글로벌 지정학적 논리와 백년 임업의 진실을 규명한다.",
-    "category": "History",
-    "tags": [],
-    "url": "https://taiwan.md/ko/history/taiwan-forestry-history",
-    "readingTime": 15,
-    "featured": false,
-    "date": "2026-03-25",
-    "path": "ko/History/taiwan-forestry-history.md",
-    "lang": "ko",
-    "categorySlug": "history"
-  },
-  {
     "title": "타이완 산문: 여성 작가에 의해 뒤바뀐 문학적 지형",
     "description": "외지 출신자의 고향 그리움에서 토착 정체성으로, 남성 중심 인물에서 여성 주도로 변화한 문학 풍경. 반세기 동안 가장 생활과 가까우면서도 정의하기 어려웠던 이 문학 형식은 어떻게 타이완인의 감정적 기억을 담아내는 그릇이 되었는가?",
     "category": "Art",
@@ -213495,6 +213598,19 @@
     "path": "ko/Economy/industrial-transformation-from-manufacturing-to-innovation.md",
     "lang": "ko",
     "categorySlug": "economy"
+  },
+  {
+    "title": "타이완 삼림 개발사: 자원 수탈에서 국토 보안으로의 세기적 전환",
+    "description": "청나라 통치 시기 장뇌의 연기에서 일제강점기 철로의 굉음, 전후 산간을 뒤흔든 대벌목 시대로. 본문은 타이완 삼림 개발 정책 이면에 깔린 세계 지리정치적 논리를 정리하고, 자료로써 백 년 임업의 실상을 규명한다.",
+    "category": "History",
+    "tags": [],
+    "url": "https://taiwan.md/ko/history/taiwan-forestry-history",
+    "readingTime": 15,
+    "featured": false,
+    "date": "2026-03-25",
+    "path": "ko/History/taiwan-forestry-history.md",
+    "lang": "ko",
+    "categorySlug": "history"
   },
   {
     "title": "타이완 상수도: 수돗물 뒤의 백년 공사와 가뭄 불안",
@@ -214132,6 +214248,19 @@
     "categorySlug": "history"
   },
   {
+    "title": "타이완 인디 음악: 월급도 못 주는 레코드숍이 어떻게 섬 전체의 귀를 열었나",
+    "description": "크리스탈 레코드가 30만 달러의 부채를 안고 시작한 모험부터, 카페에서 초판을 완판시킨 초동매이노파티(草東沒有派對)까지. 타이완 인디 음악 35년은 역전의 서사가 아니라, '보이지 않는 목소리를 들리게 하겠다'는 이들의 길고 긴 도박이다.",
+    "category": "Music",
+    "tags": [],
+    "url": "https://taiwan.md/ko/music/indie-music-scene",
+    "readingTime": 14,
+    "featured": true,
+    "date": "2026-03-29",
+    "path": "ko/Music/indie-music-scene.md",
+    "lang": "ko",
+    "categorySlug": "music"
+  },
+  {
     "title": "타이완 자매체 창작자 경제: 2,300만 명의 파편화된 전장",
     "description": "타이완 인플루언서 광고 시장 규모가 미국의 1% 미만인 가운데, 중형 창작자 한 명이 미국 동급 창작자의 약 2배에 달하는 플랫폼을 동시에 운영하며, 수익화는 구독제가 아닌 제휴 마케팅에 의존한다. 기술 기업 제품 관리자에서 전업 유튜버로 전향한 옹쥔밍(翁雋明)이 개봉기와 리뷰로 인기를 끌며, 시장 규모가 작고 플랫폼이 극도로 파편화된 환경에서 창작자가 또 다른 생존 규칙으로 살아남는 과정을 보여준다.",
     "category": "Economy",
@@ -214623,13 +214752,13 @@
   },
   {
     "title": "타이완 해산물 문화",
-    "description": "항구에서 직송한 신선한 해산물, 해산물 레스토랑 문화, 개와 계란지단지의 매콤한 맛을 담은 해산물 요리는 타이완이 바다에 둘러싸인 섬나라의 특색과 풍부한 해산물 음식 문화를 보여준다.",
+    "description": "어항에서 직송되는 신선한 해산물, 해산물 식당 문화, 굴전 등 해산물 요리를 통해 타이완의 사면이 바다로 둘러싸인 섬나라 특색과 풍부한 해산물 식문화 전통을 보여줍니다.",
     "category": "Food",
     "tags": [
       "해산물",
-      "어촌",
+      "어항",
       "섬나라 문화",
-      "개와 계란지단지",
+      "굴전",
       "해산물 요리"
     ],
     "url": "https://taiwan.md/ko/food/taiwan-seafood-culture",
@@ -215239,6 +215368,28 @@
     "path": "ko/Nature/trail-culture-and-civic-stewardship.md",
     "lang": "ko",
     "categorySlug": "nature"
+  },
+  {
+    "title": "타이완의 민요와 가요: 도용당한 역사에서 세계로 울려 퍼지기까지",
+    "description": "1996년 올림픽 개막식에 울려 퍼진 아미족 장로의 고대 영창, 그러나 궈잉난(郭英男) 본인은 소송을 통해서야 자신의 목소리가 전 세계에 알려졌음을 알게 되었다. 이 황당한 이야기는 침묵을 강요당하던 타이완 민요가 스스로의 목소리를 재정의해 나가는 운명을 투영한다.",
+    "category": "Music",
+    "tags": [
+      "음악",
+      "민요",
+      "가요",
+      "원주민",
+      "타이완어",
+      "궈잉난",
+      "춘춘",
+      "부농족"
+    ],
+    "url": "https://taiwan.md/ko/music/taiwan-folk-music-and-songs",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-03-23",
+    "path": "ko/Music/taiwan-folk-music-and-songs.md",
+    "lang": "ko",
+    "categorySlug": "music"
   },
   {
     "title": "타이완의 민족(민남, 하카, 원주민, 외성, 신주민)",

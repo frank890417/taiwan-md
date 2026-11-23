@@ -1,7 +1,7 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-11-22T22:06:14Z",
-  "total": 1193,
+  "timestamp": "2026-11-23T22:05:50Z",
+  "total": 1194,
   "flagged": 743,
   "files": [
     {
@@ -36,8 +36,8 @@
     },
     {
       "file": "music/台灣獨立音樂.md",
-      "score": 6,
-      "reasons": "未人工審核; 塑膠句1個; 英式短句開場10處; 引用荒漠(零腳註)"
+      "score": 4,
+      "reasons": "未人工審核; 塑膠句1個; 英式短句開場10處"
     },
     {
       "file": "music/台灣嘻哈與饒舌發展.md",
@@ -2252,7 +2252,7 @@
     {
       "file": "people/蔡依林.md",
       "score": 9,
-      "reasons": "bullet密度30%; 僅1個URL; 未人工審核; 連續bullet14行; 後段清單堆砌41%; 稀薄段落×4"
+      "reasons": "bullet密度30%; 僅1個URL; 未人工審核; 連續bullet14行; 後段清單堆砌33%; 稀薄段落×4"
     },
     {
       "file": "people/伍佰.md",
@@ -2472,7 +2472,7 @@
     {
       "file": "people/蕭敬騰.md",
       "score": 9,
-      "reasons": "bullet密度30%; 僅1個URL; 未人工審核; 連續bullet15行; 後段清單堆砌73%; 稀薄段落×3"
+      "reasons": "bullet密度30%; 僅1個URL; 未人工審核; 連續bullet15行; 後段清單堆砌66%; 稀薄段落×3"
     },
     {
       "file": "people/李仙得.md",
@@ -2926,8 +2926,8 @@
     },
     {
       "file": "history/台灣森林開發史.md",
-      "score": 8,
-      "reasons": "僅2個URL; 空洞詞6個; 未人工審核; 後段清單堆砌61%; 稀薄段落×5"
+      "score": 7,
+      "reasons": "僅2個URL; 空洞詞6個; 未人工審核; 後段清單堆砌54%; 稀薄段落×5"
     },
     {
       "file": "history/台灣轉型正義.md",
