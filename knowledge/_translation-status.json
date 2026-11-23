@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-23T06:00:03+08:00",
-    "zhCommitHead": "d55ee7df77",
-    "totalZh": 1193,
+    "lastUpdated": "2026-11-23T09:40:57+08:00",
+    "zhCommitHead": "af4fcb2f31",
+    "totalZh": 1194,
     "activeLanguages": [
       "en",
       "ja",
@@ -19,99 +19,99 @@
     ],
     "summary": {
       "en": {
-        "total_zh": 1193,
-        "fresh": 1190,
-        "stale": 2,
+        "total_zh": 1194,
+        "fresh": 1185,
+        "stale": 7,
         "metadata_stale": 1,
-        "missing": 0,
+        "missing": 1,
         "orphan": 0
       },
       "ja": {
-        "total_zh": 1193,
-        "fresh": 1186,
-        "stale": 5,
+        "total_zh": 1194,
+        "fresh": 1181,
+        "stale": 10,
         "metadata_stale": 2,
-        "missing": 0,
+        "missing": 1,
         "orphan": 0
       },
       "ko": {
-        "total_zh": 1193,
-        "fresh": 1184,
-        "stale": 6,
+        "total_zh": 1194,
+        "fresh": 1179,
+        "stale": 11,
         "metadata_stale": 3,
-        "missing": 0,
+        "missing": 1,
         "orphan": 0
       },
       "es": {
-        "total_zh": 1193,
-        "fresh": 1186,
-        "stale": 5,
+        "total_zh": 1194,
+        "fresh": 1181,
+        "stale": 10,
         "metadata_stale": 2,
-        "missing": 0,
+        "missing": 1,
         "orphan": 0
       },
       "fr": {
-        "total_zh": 1193,
-        "fresh": 1184,
-        "stale": 6,
+        "total_zh": 1194,
+        "fresh": 1179,
+        "stale": 11,
         "metadata_stale": 3,
-        "missing": 0,
+        "missing": 1,
         "orphan": 0
       },
       "vi": {
-        "total_zh": 1193,
-        "fresh": 1180,
-        "stale": 12,
+        "total_zh": 1194,
+        "fresh": 1174,
+        "stale": 18,
         "metadata_stale": 1,
-        "missing": 0,
+        "missing": 1,
         "orphan": 0
       },
       "id": {
-        "total_zh": 1193,
-        "fresh": 1185,
-        "stale": 5,
+        "total_zh": 1194,
+        "fresh": 1180,
+        "stale": 10,
         "metadata_stale": 3,
-        "missing": 0,
+        "missing": 1,
         "orphan": 0
       },
       "pt": {
-        "total_zh": 1193,
-        "fresh": 1189,
-        "stale": 3,
+        "total_zh": 1194,
+        "fresh": 1184,
+        "stale": 8,
         "metadata_stale": 1,
-        "missing": 0,
+        "missing": 1,
         "orphan": 0
       },
       "hi": {
-        "total_zh": 1193,
-        "fresh": 1180,
-        "stale": 12,
+        "total_zh": 1194,
+        "fresh": 1176,
+        "stale": 16,
         "metadata_stale": 1,
-        "missing": 0,
+        "missing": 1,
         "orphan": 0
       },
       "ar": {
-        "total_zh": 1193,
-        "fresh": 1185,
-        "stale": 5,
-        "metadata_stale": 3,
-        "missing": 0,
+        "total_zh": 1194,
+        "fresh": 1183,
+        "stale": 9,
+        "metadata_stale": 1,
+        "missing": 1,
         "orphan": 0
       },
       "ru": {
-        "total_zh": 1193,
-        "fresh": 1191,
-        "stale": 2,
+        "total_zh": 1194,
+        "fresh": 1185,
+        "stale": 8,
         "metadata_stale": 0,
-        "missing": 0,
+        "missing": 1,
         "orphan": 0
       },
       "de": {
-        "total_zh": 1193,
-        "fresh": 1161,
-        "stale": 24,
+        "total_zh": 1194,
+        "fresh": 1156,
+        "stale": 29,
         "metadata_stale": 8,
-        "missing": 0,
+        "missing": 1,
         "orphan": 0
       }
     },
@@ -2153,10 +2153,10 @@
     },
     "Music/台灣民謠與歌謠.md": {
       "zh": {
-        "lastCommit": "be13f045",
-        "lastModified": "2026-11-17T07:30:44+08:00",
-        "contentHash": "sha256:b219ae0c22f1ce55",
-        "bodyHash": "sha256:943159c3ad5fba6c"
+        "lastCommit": "b93c6875",
+        "lastModified": "2026-11-22T17:25:59+08:00",
+        "contentHash": "sha256:11a00f9eaecab146",
+        "bodyHash": "sha256:d2d458106329d932"
       },
       "translations": {
         "en": {
@@ -2172,8 +2172,8 @@
           "footnoteDefs": 0,
           "bytes": 13370,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "ja": {
           "path": "ja/Music/taiwan-folk-music-and-songs.md",
@@ -2188,8 +2188,8 @@
           "footnoteDefs": 0,
           "bytes": 14105,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "ko": {
           "path": "ko/Music/taiwan-folk-music-and-songs.md",
@@ -2204,8 +2204,8 @@
           "footnoteDefs": 0,
           "bytes": 14370,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "es": {
           "path": "es/Music/taiwan-folk-music-and-songs.md",
@@ -2220,8 +2220,8 @@
           "footnoteDefs": 0,
           "bytes": 14240,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "fr": {
           "path": "fr/Music/taiwan-folk-music-and-songs.md",
@@ -2236,8 +2236,8 @@
           "footnoteDefs": 0,
           "bytes": 8232,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "vi": {
           "path": "vi/Music/taiwan-folk-music-and-songs.md",
@@ -2252,8 +2252,8 @@
           "footnoteDefs": 0,
           "bytes": 18118,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "id": {
           "path": "id/Music/taiwan-folk-music-and-songs.md",
@@ -2268,8 +2268,8 @@
           "footnoteDefs": 0,
           "bytes": 14014,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "pt": {
           "path": "pt/Music/taiwan-folk-music-and-songs.md",
@@ -2284,8 +2284,8 @@
           "footnoteDefs": 0,
           "bytes": 14181,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "hi": {
           "path": "hi/Music/taiwan-folk-music-and-songs.md",
@@ -2300,8 +2300,8 @@
           "footnoteDefs": 0,
           "bytes": 28482,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "ar": {
           "path": "ar/Music/taiwan-folk-music-and-songs.md",
@@ -2316,8 +2316,8 @@
           "footnoteDefs": 0,
           "bytes": 19998,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "ru": {
           "path": "ru/Music/taiwan-folk-music-and-songs.md",
@@ -2332,8 +2332,8 @@
           "footnoteDefs": 0,
           "bytes": 23678,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "de": {
           "path": "de/Music/taiwan-folk-music-and-songs.md",
@@ -2348,31 +2348,31 @@
           "footnoteDefs": 0,
           "bytes": 14128,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         }
       }
     },
     "Music/台灣獨立音樂.md": {
       "zh": {
-        "lastCommit": "b1a5fea0",
-        "lastModified": "2026-11-17T08:06:27+08:00",
-        "contentHash": "sha256:cd1df8dc4931d5ab",
-        "bodyHash": "sha256:c54c3768ed377e41"
+        "lastCommit": "b93c6875",
+        "lastModified": "2026-11-22T17:25:59+08:00",
+        "contentHash": "sha256:88bdd9265e767c1e",
+        "bodyHash": "sha256:b695b6de4e086708"
       },
       "translations": {
         "en": {
           "path": "en/Music/indie-music-scene.md",
           "translatedFrom": "Music/台灣獨立音樂.md",
-          "sourceCommitSha": "b1a5fea00",
-          "sourceContentHash": "sha256:cd1df8dc4931d5ab",
-          "sourceBodyHash": "sha256:c54c3768ed377e41",
-          "translatedAt": "2026-11-18T09:30:19.500886+00:00",
+          "sourceCommitSha": "b93c68757e",
+          "sourceContentHash": "sha256:88bdd9265e767c1e",
+          "sourceBodyHash": "sha256:b695b6de4e086708",
+          "translatedAt": "2026-11-23T08:46:36+08:00",
           "translationLastCommit": "4dc89185",
           "translationLastModified": "2026-11-18T19:03:06+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 41167,
+          "footnoteDefs": 10,
+          "bytes": 38161,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -2380,15 +2380,15 @@
         "ja": {
           "path": "ja/Music/indie-music-scene.md",
           "translatedFrom": "Music/台灣獨立音樂.md",
-          "sourceCommitSha": "b1a5fea00",
-          "sourceContentHash": "sha256:cd1df8dc4931d5ab",
-          "sourceBodyHash": "sha256:c54c3768ed377e41",
-          "translatedAt": "2026-11-18T10:19:14.186640+00:00",
+          "sourceCommitSha": "b93c68757e",
+          "sourceContentHash": "sha256:88bdd9265e767c1e",
+          "sourceBodyHash": "sha256:b695b6de4e086708",
+          "translatedAt": "2026-11-23T01:01:21.339732+00:00",
           "translationLastCommit": "b67a8875",
           "translationLastModified": "2026-11-18T19:08:00+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 49974,
+          "footnoteDefs": 10,
+          "bytes": 55691,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -2396,15 +2396,15 @@
         "ko": {
           "path": "ko/Music/indie-music-scene.md",
           "translatedFrom": "Music/台灣獨立音樂.md",
-          "sourceCommitSha": "b1a5fea00",
-          "sourceContentHash": "sha256:cd1df8dc4931d5ab",
-          "sourceBodyHash": "sha256:c54c3768ed377e41",
-          "translatedAt": "2026-11-18T09:06:30.448876+00:00",
+          "sourceCommitSha": "b93c68757e",
+          "sourceContentHash": "sha256:88bdd9265e767c1e",
+          "sourceBodyHash": "sha256:b695b6de4e086708",
+          "translatedAt": "2026-11-23T08:46:38+08:00",
           "translationLastCommit": "ae5becc2",
           "translationLastModified": "2026-11-18T18:13:35+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 45416,
+          "footnoteDefs": 10,
+          "bytes": 46776,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -2412,15 +2412,15 @@
         "es": {
           "path": "es/Music/indie-music-scene.md",
           "translatedFrom": "Music/台灣獨立音樂.md",
-          "sourceCommitSha": "b1a5fea00",
-          "sourceContentHash": "sha256:cd1df8dc4931d5ab",
-          "sourceBodyHash": "sha256:c54c3768ed377e41",
-          "translatedAt": "2026-11-18T10:01:24.715858+00:00",
+          "sourceCommitSha": "b93c68757e",
+          "sourceContentHash": "sha256:88bdd9265e767c1e",
+          "sourceBodyHash": "sha256:b695b6de4e086708",
+          "translatedAt": "2026-11-23T08:46:40+08:00",
           "translationLastCommit": "8be291e8",
           "translationLastModified": "2026-11-18T18:43:55+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 46047,
+          "footnoteDefs": 10,
+          "bytes": 45794,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -2428,15 +2428,15 @@
         "fr": {
           "path": "fr/Music/indie-music-scene.md",
           "translatedFrom": "Music/台灣獨立音樂.md",
-          "sourceCommitSha": "b1a5fea00",
-          "sourceContentHash": "sha256:cd1df8dc4931d5ab",
-          "sourceBodyHash": "sha256:c54c3768ed377e41",
-          "translatedAt": "2026-11-18T08:43:02.163700+00:00",
+          "sourceCommitSha": "b93c68757e",
+          "sourceContentHash": "sha256:88bdd9265e767c1e",
+          "sourceBodyHash": "sha256:b695b6de4e086708",
+          "translatedAt": "2026-11-23T08:46:41+08:00",
           "translationLastCommit": "3e7fd4c4",
           "translationLastModified": "2026-11-18T16:59:41+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 47853,
+          "footnoteDefs": 10,
+          "bytes": 43814,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -2454,21 +2454,21 @@
           "footnoteDefs": 0,
           "bytes": 57483,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (10→0)"
         },
         "id": {
           "path": "id/Music/indie-music-scene.md",
           "translatedFrom": "Music/台灣獨立音樂.md",
-          "sourceCommitSha": "b1a5fea0",
-          "sourceContentHash": "sha256:cd1df8dc4931d5ab",
-          "sourceBodyHash": "sha256:c54c3768ed377e41",
-          "translatedAt": "2026-09-16T11:57:33+08:00",
+          "sourceCommitSha": "b93c68757e",
+          "sourceContentHash": "sha256:88bdd9265e767c1e",
+          "sourceBodyHash": "sha256:b695b6de4e086708",
+          "translatedAt": "2026-11-23T08:46:42+08:00",
           "translationLastCommit": "d72e19d8",
           "translationLastModified": "2026-11-19T01:19:26+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 42287,
+          "footnoteDefs": 10,
+          "bytes": 46036,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -2476,15 +2476,15 @@
         "pt": {
           "path": "pt/Music/indie-music-scene.md",
           "translatedFrom": "Music/台灣獨立音樂.md",
-          "sourceCommitSha": "b1a5fea00",
-          "sourceContentHash": "sha256:cd1df8dc4931d5ab",
-          "sourceBodyHash": "sha256:c54c3768ed377e41",
-          "translatedAt": "2026-11-18T10:01:34.889485+00:00",
+          "sourceCommitSha": "b93c68757e",
+          "sourceContentHash": "sha256:88bdd9265e767c1e",
+          "sourceBodyHash": "sha256:b695b6de4e086708",
+          "translatedAt": "2026-11-23T08:46:44+08:00",
           "translationLastCommit": "ab229510",
           "translationLastModified": "2026-11-18T19:33:23+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 45060,
+          "footnoteDefs": 10,
+          "bytes": 41842,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -2492,15 +2492,15 @@
         "hi": {
           "path": "hi/Music/indie-music-scene.md",
           "translatedFrom": "Music/台灣獨立音樂.md",
-          "sourceCommitSha": "b1a5fea00",
-          "sourceContentHash": "sha256:cd1df8dc4931d5ab",
-          "sourceBodyHash": "sha256:c54c3768ed377e41",
-          "translatedAt": "2026-11-18T03:24:10.194861+00:00",
+          "sourceCommitSha": "b93c68757e",
+          "sourceContentHash": "sha256:88bdd9265e767c1e",
+          "sourceBodyHash": "sha256:b695b6de4e086708",
+          "translatedAt": "2026-11-23T08:46:45+08:00",
           "translationLastCommit": "1cccb577",
           "translationLastModified": "2026-11-18T12:59:01+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 94353,
+          "footnoteDefs": 10,
+          "bytes": 100611,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -2508,15 +2508,15 @@
         "ar": {
           "path": "ar/Music/indie-music-scene.md",
           "translatedFrom": "Music/台灣獨立音樂.md",
-          "sourceCommitSha": "b1a5fea00",
-          "sourceContentHash": "sha256:cd1df8dc4931d5ab",
-          "sourceBodyHash": "sha256:c54c3768ed377e41",
-          "translatedAt": "2026-11-18T07:45:24.988631+00:00",
+          "sourceCommitSha": "b93c68757e",
+          "sourceContentHash": "sha256:88bdd9265e767c1e",
+          "sourceBodyHash": "sha256:b695b6de4e086708",
+          "translatedAt": "2026-11-23T08:46:47+08:00",
           "translationLastCommit": "f2dbe436",
           "translationLastModified": "2026-11-18T17:21:30+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 55943,
+          "footnoteDefs": 10,
+          "bytes": 60196,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -2534,8 +2534,8 @@
           "footnoteDefs": 0,
           "bytes": 69815,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (10→0)"
         },
         "de": {
           "path": "de/Music/indie-music-scene.md",
@@ -2550,8 +2550,8 @@
           "footnoteDefs": 0,
           "bytes": 41418,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (10→0)"
         }
       }
     },
@@ -24130,20 +24130,18 @@
         "ar": {
           "path": "ar/Economy/tsmc.md",
           "translatedFrom": "Economy/台灣企業：台積電.md",
-          "sourceCommitSha": "6ffd92f94",
-          "sourceContentHash": "sha256:e8afc225ea9e0107",
+          "sourceCommitSha": "b1a5fea00e",
+          "sourceContentHash": "sha256:0052f66a7d8738c5",
           "sourceBodyHash": "sha256:6bdb1c40d1477a30",
-          "translatedAt": "2026-08-03T21:46:31+08:00",
+          "translatedAt": "2026-11-22T23:58:14.973564+00:00",
           "translationLastCommit": "f1daf600",
           "translationLastModified": "2026-10-10T23:14:31+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "bytes": 53294,
+          "bytes": 61736,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+4 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Economy/tsmc.md",
@@ -81204,8 +81202,8 @@
           "sourceContentHash": "sha256:e5ee5e2296d7b18d",
           "sourceBodyHash": "sha256:5131c3db231d9988",
           "translatedAt": "2026-11-23T04:30:34+08:00",
-          "translationLastCommit": "6cbcbaa6",
-          "translationLastModified": "2026-09-26T03:17:54+08:00",
+          "translationLastCommit": "1ada0a6a",
+          "translationLastModified": "2026-11-23T06:00:03+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "bytes": 25191,
@@ -81334,38 +81332,34 @@
         "hi": {
           "path": "hi/Society/shuidaotou-waterworks.md",
           "translatedFrom": "Society/水道頭.md",
-          "sourceCommitSha": "015d1a9c9",
-          "sourceContentHash": "sha256:d584a485050631e9",
-          "sourceBodyHash": "sha256:5fb85b385727325b",
-          "translatedAt": "2026-09-23T22:12:00+08:00",
+          "sourceCommitSha": "f775f9835c",
+          "sourceContentHash": "sha256:e5ee5e2296d7b18d",
+          "sourceBodyHash": "sha256:5131c3db231d9988",
+          "translatedAt": "2026-11-23T07:41:42+08:00",
           "translationLastCommit": "58b946e1",
           "translationLastModified": "2026-09-24T02:12:00+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 58261,
+          "bytes": 56647,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+31 -30"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/shuidaotou-waterworks.md",
           "translatedFrom": "Society/水道頭.md",
-          "sourceCommitSha": "015d1a9c9",
-          "sourceContentHash": "sha256:d584a485050631e9",
-          "sourceBodyHash": "sha256:5fb85b385727325b",
-          "translatedAt": "2026-09-22T10:29:40+08:00",
+          "sourceCommitSha": "f775f9835c",
+          "sourceContentHash": "sha256:e5ee5e2296d7b18d",
+          "sourceBodyHash": "sha256:5131c3db231d9988",
+          "translatedAt": "2026-11-23T07:41:43+08:00",
           "translationLastCommit": "c28bc7ae",
           "translationLastModified": "2026-09-22T14:11:32+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 35546,
+          "bytes": 34197,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+31 -30"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/shuidaotou-waterworks.md",
@@ -104798,20 +104792,18 @@
         "ar": {
           "path": "ar/People/joeman.md",
           "translatedFrom": "People/Joeman.md",
-          "sourceCommitSha": "36aaa72e1",
+          "sourceCommitSha": "67c4c72fc4",
           "sourceContentHash": "sha256:19eba63c27c61c88",
           "sourceBodyHash": "sha256:18e7518b3acc71b4",
-          "translatedAt": "2026-09-11T17:03:20+08:00",
+          "translatedAt": "2026-11-23T07:41:43+08:00",
           "translationLastCommit": "5b0f4129",
           "translationLastModified": "2026-10-10T23:03:20+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "bytes": 39306,
+          "bytes": 38542,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/joeman.md",
@@ -142865,10 +142857,10 @@
     },
     "People/蔡依林.md": {
       "zh": {
-        "lastCommit": "b8a8d446",
-        "lastModified": "2026-10-23T20:37:25+08:00",
-        "contentHash": "sha256:345d4b4b29007280",
-        "bodyHash": "sha256:6048e5ad66169502"
+        "lastCommit": "b93c6875",
+        "lastModified": "2026-11-22T17:25:59+08:00",
+        "contentHash": "sha256:398062ea81af2d60",
+        "bodyHash": "sha256:d5c1056d26e4744b"
       },
       "translations": {
         "en": {
@@ -142884,8 +142876,8 @@
           "footnoteDefs": 0,
           "bytes": 3535,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "ja": {
           "path": "ja/People/jolin-tsai.md",
@@ -142900,8 +142892,8 @@
           "footnoteDefs": 0,
           "bytes": 3866,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "ko": {
           "path": "ko/People/jolin-tsai.md",
@@ -142916,8 +142908,8 @@
           "footnoteDefs": 0,
           "bytes": 3568,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "es": {
           "path": "es/People/jolin-tsai.md",
@@ -142932,8 +142924,8 @@
           "footnoteDefs": 0,
           "bytes": 3707,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "fr": {
           "path": "fr/People/jolin-tsai.md",
@@ -142948,8 +142940,8 @@
           "footnoteDefs": 0,
           "bytes": 4106,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "vi": {
           "path": "vi/People/jolin-tsai.md",
@@ -142964,8 +142956,8 @@
           "footnoteDefs": 0,
           "bytes": 4646,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "id": {
           "path": "id/People/jolin-tsai.md",
@@ -142980,8 +142972,8 @@
           "footnoteDefs": 0,
           "bytes": 3969,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "pt": {
           "path": "pt/People/jolin-tsai.md",
@@ -142996,8 +142988,8 @@
           "footnoteDefs": 0,
           "bytes": 3829,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "hi": {
           "path": "hi/People/jolin-tsai.md",
@@ -143012,8 +143004,8 @@
           "footnoteDefs": 0,
           "bytes": 6793,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "ar": {
           "path": "ar/People/jolin-tsai.md",
@@ -143028,8 +143020,8 @@
           "footnoteDefs": 0,
           "bytes": 5038,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "ru": {
           "path": "ru/People/jolin-tsai.md",
@@ -143044,8 +143036,8 @@
           "footnoteDefs": 0,
           "bytes": 5911,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "de": {
           "path": "de/People/jolin-tsai.md",
@@ -143061,9 +143053,7 @@
           "bytes": 12369,
           "armorResidue": 0,
           "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+25 -96"
+          "reason": "footnote-loss (1→0)"
         }
       }
     },
@@ -161873,10 +161863,10 @@
     },
     "People/蕭敬騰.md": {
       "zh": {
-        "lastCommit": "be13f045",
-        "lastModified": "2026-11-17T07:30:44+08:00",
-        "contentHash": "sha256:34eda1e3ae5a437e",
-        "bodyHash": "sha256:2d407dbe15a09820"
+        "lastCommit": "b93c6875",
+        "lastModified": "2026-11-22T17:25:59+08:00",
+        "contentHash": "sha256:355b524dbf4c0a8b",
+        "bodyHash": "sha256:ece7571131b43018"
       },
       "translations": {
         "en": {
@@ -161892,8 +161882,8 @@
           "footnoteDefs": 0,
           "bytes": 5049,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "ja": {
           "path": "ja/People/jam-hsiao.md",
@@ -161908,8 +161898,8 @@
           "footnoteDefs": 0,
           "bytes": 5301,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "ko": {
           "path": "ko/People/jam-hsiao.md",
@@ -161924,8 +161914,8 @@
           "footnoteDefs": 0,
           "bytes": 5441,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "es": {
           "path": "es/People/jam-hsiao.md",
@@ -161940,8 +161930,8 @@
           "footnoteDefs": 0,
           "bytes": 5396,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "fr": {
           "path": "fr/People/jam-hsiao.md",
@@ -161956,8 +161946,8 @@
           "footnoteDefs": 0,
           "bytes": 5486,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "vi": {
           "path": "vi/People/jam-hsiao.md",
@@ -161972,8 +161962,8 @@
           "footnoteDefs": 0,
           "bytes": 6360,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "id": {
           "path": "id/People/jam-hsiao.md",
@@ -161988,8 +161978,8 @@
           "footnoteDefs": 0,
           "bytes": 5611,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "pt": {
           "path": "pt/People/jam-hsiao.md",
@@ -162004,8 +161994,8 @@
           "footnoteDefs": 0,
           "bytes": 5388,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "hi": {
           "path": "hi/People/jam-hsiao.md",
@@ -162020,8 +162010,8 @@
           "footnoteDefs": 0,
           "bytes": 11631,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "ar": {
           "path": "ar/People/jam-hsiao.md",
@@ -162036,8 +162026,8 @@
           "footnoteDefs": 0,
           "bytes": 7635,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "ru": {
           "path": "ru/People/jam-hsiao.md",
@@ -162052,8 +162042,8 @@
           "footnoteDefs": 0,
           "bytes": 8689,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "de": {
           "path": "de/People/jam-hsiao.md",
@@ -162068,8 +162058,8 @@
           "footnoteDefs": 0,
           "bytes": 5028,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         }
       }
     },
@@ -167331,10 +167321,10 @@
     },
     "Food/台灣海鮮文化.md": {
       "zh": {
-        "lastCommit": "e974b4c9",
-        "lastModified": "2026-09-05T21:34:09+08:00",
-        "contentHash": "sha256:83fd36c7a8a59ff5",
-        "bodyHash": "sha256:a8b22a0fba5539c1"
+        "lastCommit": "b93c6875",
+        "lastModified": "2026-11-22T17:25:59+08:00",
+        "contentHash": "sha256:259c74ed7072711c",
+        "bodyHash": "sha256:cd4714a5226da35e"
       },
       "translations": {
         "en": {
@@ -167350,8 +167340,8 @@
           "footnoteDefs": 0,
           "bytes": 9755,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "ja": {
           "path": "ja/Food/taiwan-seafood-culture.md",
@@ -167366,8 +167356,8 @@
           "footnoteDefs": 0,
           "bytes": 11186,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "ko": {
           "path": "ko/Food/taiwan-seafood-culture.md",
@@ -167382,8 +167372,8 @@
           "footnoteDefs": 0,
           "bytes": 10247,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "es": {
           "path": "es/Food/taiwan-seafood-culture.md",
@@ -167398,8 +167388,8 @@
           "footnoteDefs": 0,
           "bytes": 11142,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "fr": {
           "path": "fr/Food/taiwan-seafood-culture.md",
@@ -167414,8 +167404,8 @@
           "footnoteDefs": 0,
           "bytes": 11044,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "vi": {
           "path": "vi/Food/taiwan-seafood-culture.md",
@@ -167430,8 +167420,8 @@
           "footnoteDefs": 0,
           "bytes": 12562,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "id": {
           "path": "id/Food/taiwan-seafood-culture.md",
@@ -167446,8 +167436,8 @@
           "footnoteDefs": 0,
           "bytes": 10282,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "pt": {
           "path": "pt/Food/taiwan-seafood-culture.md",
@@ -167462,8 +167452,8 @@
           "footnoteDefs": 0,
           "bytes": 10714,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "hi": {
           "path": "hi/Food/taiwan-seafood-culture.md",
@@ -167478,8 +167468,8 @@
           "footnoteDefs": 0,
           "bytes": 24146,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "ar": {
           "path": "ar/Food/taiwan-seafood-culture.md",
@@ -167494,8 +167484,8 @@
           "footnoteDefs": 0,
           "bytes": 15687,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "ru": {
           "path": "ru/Food/taiwan-seafood-culture.md",
@@ -167510,8 +167500,8 @@
           "footnoteDefs": 0,
           "bytes": 16816,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         },
         "de": {
           "path": "de/Food/taiwan-seafood-culture.md",
@@ -167526,8 +167516,8 @@
           "footnoteDefs": 0,
           "bytes": 10824,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (1→0)"
         }
       }
     },
@@ -168740,6 +168730,52 @@
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "Food/愛玉.md": {
+      "zh": {
+        "lastCommit": "9d295709",
+        "lastModified": "2026-11-23T08:40:47+08:00",
+        "contentHash": "sha256:5f892d97eb093a4a",
+        "bodyHash": "sha256:5fee3e8672eae145"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        },
+        "de": {
+          "status": "missing"
         }
       }
     },
@@ -191177,10 +191213,10 @@
     },
     "History/台灣森林開發史.md": {
       "zh": {
-        "lastCommit": "69b3afd9",
-        "lastModified": "2026-08-04T10:19:04+08:00",
-        "contentHash": "sha256:8069998f1aa354c8",
-        "bodyHash": "sha256:55bbc4efed5f30a9"
+        "lastCommit": "9d295709",
+        "lastModified": "2026-11-23T08:40:47+08:00",
+        "contentHash": "sha256:ed8b698bf0896e42",
+        "bodyHash": "sha256:909c299bc2ff5f8b"
       },
       "translations": {
         "en": {
@@ -191196,8 +191232,8 @@
           "footnoteDefs": 0,
           "bytes": 12169,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (2→0)"
         },
         "ja": {
           "path": "ja/History/taiwan-forestry-history.md",
@@ -191212,8 +191248,8 @@
           "footnoteDefs": 0,
           "bytes": 10708,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (2→0)"
         },
         "ko": {
           "path": "ko/History/taiwan-forestry-history.md",
@@ -191228,8 +191264,8 @@
           "footnoteDefs": 0,
           "bytes": 11951,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (2→0)"
         },
         "es": {
           "path": "es/History/taiwan-forestry-history.md",
@@ -191244,8 +191280,8 @@
           "footnoteDefs": 0,
           "bytes": 13416,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (2→0)"
         },
         "fr": {
           "path": "fr/History/taiwan-forestry-history.md",
@@ -191260,8 +191296,8 @@
           "footnoteDefs": 0,
           "bytes": 13696,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (2→0)"
         },
         "vi": {
           "path": "vi/History/taiwan-forestry-history.md",
@@ -191276,8 +191312,8 @@
           "footnoteDefs": 0,
           "bytes": 14999,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (2→0)"
         },
         "id": {
           "path": "id/History/taiwan-forestry-history.md",
@@ -191292,8 +191328,8 @@
           "footnoteDefs": 0,
           "bytes": 11428,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (2→0)"
         },
         "pt": {
           "path": "pt/History/taiwan-forestry-history.md",
@@ -191308,8 +191344,8 @@
           "footnoteDefs": 0,
           "bytes": 12738,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (2→0)"
         },
         "hi": {
           "path": "hi/History/taiwan-forestry-history.md",
@@ -191324,8 +191360,8 @@
           "footnoteDefs": 0,
           "bytes": 26374,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (2→0)"
         },
         "ar": {
           "path": "ar/History/taiwan-forestry-history.md",
@@ -191340,8 +191376,8 @@
           "footnoteDefs": 0,
           "bytes": 17183,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (2→0)"
         },
         "ru": {
           "path": "ru/History/taiwan-forestry-history.md",
@@ -191356,8 +191392,8 @@
           "footnoteDefs": 0,
           "bytes": 20812,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (2→0)"
         },
         "de": {
           "path": "de/History/taiwan-forestry-history.md",
@@ -191372,8 +191408,8 @@
           "footnoteDefs": 0,
           "bytes": 13683,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "footnote-loss (2→0)"
         }
       }
     },
