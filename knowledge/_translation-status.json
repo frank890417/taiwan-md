@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-23T17:43:12+08:00",
-    "zhCommitHead": "f4a1769fbb",
+    "lastUpdated": "2026-11-24T04:33:40+08:00",
+    "zhCommitHead": "038590d677",
     "totalZh": 1194,
     "activeLanguages": [
       "en",
@@ -60,9 +60,9 @@
       },
       "vi": {
         "total_zh": 1194,
-        "fresh": 1180,
-        "stale": 12,
-        "metadata_stale": 1,
+        "fresh": 1182,
+        "stale": 11,
+        "metadata_stale": 0,
         "missing": 1,
         "orphan": 0
       },
@@ -108,8 +108,8 @@
       },
       "de": {
         "total_zh": 1194,
-        "fresh": 1161,
-        "stale": 25,
+        "fresh": 1162,
+        "stale": 24,
         "metadata_stale": 8,
         "missing": 0,
         "orphan": 0
@@ -55110,18 +55110,18 @@
         "de": {
           "path": "de/Lifestyle/taiwan-healthcare-and-national-health-insurance.md",
           "translatedFrom": "Lifestyle/台灣醫療與全民健保.md",
-          "sourceCommitSha": "29ff6f481",
-          "sourceContentHash": "sha256:6a23ae926022133f",
-          "sourceBodyHash": "sha256:a5c8010bb09051a0",
-          "translatedAt": "2026-09-23T08:23:02.940238+00:00",
+          "sourceCommitSha": "b1a5fea00e",
+          "sourceContentHash": "sha256:592d319a9839fc8f",
+          "sourceBodyHash": "sha256:dc4852cc6c6703f8",
+          "translatedAt": "2026-11-23T19:28:11.099637+00:00",
           "translationLastCommit": "77172bdf",
           "translationLastModified": "2026-10-10T23:15:27+08:00",
           "inferred": false,
-          "footnoteDefs": 42,
-          "bytes": 71180,
+          "footnoteDefs": 43,
+          "bytes": 71151,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (43→42)"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -81234,8 +81234,8 @@
           "sourceContentHash": "sha256:e5ee5e2296d7b18d",
           "sourceBodyHash": "sha256:5131c3db231d9988",
           "translatedAt": "2026-11-23T15:58:59+08:00",
-          "translationLastCommit": "7a5d6f70",
-          "translationLastModified": "2026-09-26T03:17:35+08:00",
+          "translationLastCommit": "d526acbc",
+          "translationLastModified": "2026-11-23T17:43:12+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "bytes": 24814,
@@ -81278,20 +81278,18 @@
         "vi": {
           "path": "vi/Society/shuidaotou-waterworks.md",
           "translatedFrom": "Society/水道頭.md",
-          "sourceCommitSha": "015d1a9c9",
-          "sourceContentHash": "sha256:d584a485050631e9",
-          "sourceBodyHash": "sha256:5fb85b385727325b",
-          "translatedAt": "2026-09-23T22:11:54+08:00",
+          "sourceCommitSha": "f775f9835c",
+          "sourceContentHash": "sha256:e5ee5e2296d7b18d",
+          "sourceBodyHash": "sha256:5131c3db231d9988",
+          "translatedAt": "2026-11-24T00:57:36+08:00",
           "translationLastCommit": "9b6522e6",
           "translationLastModified": "2026-09-24T01:20:42+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 33273,
+          "bytes": 34953,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+31 -30"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Society/shuidaotou-waterworks.md",
@@ -104722,20 +104720,18 @@
         "vi": {
           "path": "vi/People/joeman.md",
           "translatedFrom": "People/Joeman.md",
-          "sourceCommitSha": "36aaa72e1",
+          "sourceCommitSha": "67c4c72fc4",
           "sourceContentHash": "sha256:19eba63c27c61c88",
           "sourceBodyHash": "sha256:18e7518b3acc71b4",
-          "translatedAt": "2026-09-15T06:51:28+08:00",
+          "translatedAt": "2026-11-23T18:40:04.510972+00:00",
           "translationLastCommit": "72f07367",
           "translationLastModified": "2026-09-15T16:16:05+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "bytes": 35486,
+          "bytes": 36505,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/joeman.md",
