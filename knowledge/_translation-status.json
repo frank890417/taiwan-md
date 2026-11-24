@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-24T19:05:09+08:00",
-    "zhCommitHead": "275d36a214",
+    "lastUpdated": "2026-11-24T21:43:34+08:00",
+    "zhCommitHead": "055ac8cfef",
     "totalZh": 1194,
     "activeLanguages": [
       "en",
@@ -92,8 +92,8 @@
       },
       "ar": {
         "total_zh": 1194,
-        "fresh": 1189,
-        "stale": 5,
+        "fresh": 1190,
+        "stale": 4,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -37088,18 +37088,18 @@
         "ar": {
           "path": "ar/Technology/ptt-bulletin-board-system.md",
           "translatedFrom": "Technology/PTT批踢踢.md",
-          "sourceCommitSha": "69b3afd91",
-          "sourceContentHash": "sha256:f28d98485199bc24",
-          "sourceBodyHash": "sha256:110038d2fb23bc2a",
-          "translatedAt": "2026-08-04T14:12:38+08:00",
+          "sourceCommitSha": "4140a875d2",
+          "sourceContentHash": "sha256:60611b82daa63ad0",
+          "sourceBodyHash": "sha256:e00cdf61ff38750d",
+          "translatedAt": "2026-11-24T12:06:43.286332+00:00",
           "translationLastCommit": "5b0f4129",
           "translationLastModified": "2026-10-10T23:03:20+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 15439,
+          "footnoteDefs": 8,
+          "bytes": 17673,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (8→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Technology/ptt-bulletin-board-system.md",
@@ -198112,8 +198112,8 @@
           "sourceContentHash": "sha256:7c8bc6c7b2870cad",
           "sourceBodyHash": "sha256:c2c6980616f215c7",
           "translatedAt": "2026-11-24T09:05:41.068721+00:00",
-          "translationLastCommit": "e64212f1",
-          "translationLastModified": "2026-09-27T00:53:11+08:00",
+          "translationLastCommit": "055ac8cf",
+          "translationLastModified": "2026-11-24T19:05:09+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 25331,
