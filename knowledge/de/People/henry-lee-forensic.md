@@ -1,10 +1,15 @@
 ---
-title: 'Li Chang-yu: Von der Knochenanalyse zur Legende, aber ein „Blutfleck“ auf einem Handtuch führte zu dreißig Jahren Unschuld'
-description: 'Er baute einen forensischen Mythos auf knöchernen Überresten, wurde aber wegen eines „Blutflecks“ auf einem Tuch in zwei Jahrzehnten ungerecht verurteilt.'
+title: 'Henry Lee'
+description: 'Vom jüngsten Polizeichef in Taiwans Geschichte zum weltweit bekanntesten chinesischstämmigen forensischen Wissenschaftler: Durch den Holzschredder-Fall erzielte er die erste Verurteilung in der US-Strafjustizgeschichte ohne Leiche, wurde als Zeuge der Verteidigung im Simpson-Prozess weltberühmt, untersuchte in seinem Leben über 8.000 Fälle und verfasste mehr als 40 Bücher. Doch 2023 urteilte ein Bundesgericht, er habe in einem Mordfall von 1985 bezüglich Blutspuren auf einem Handtuch Beweise gefälscht, wodurch zwei Jugendliche über 30 Jahre zu Unrecht inhaftiert waren – ein nicht zu übersehender Schatten auf seiner legendären Karriere.'
 date: 2026-03-29
 category: 'People'
 tags:
-  ['Person', 'Forensikwissenschaft', 'Taiwan-Amerikaner', 'Kriminalermittlung']
+  [
+    'Persönlichkeiten',
+    'Forensik',
+    'Taiwanischstämmige Amerikaner',
+    'Kriminalermittlung',
+  ]
 subcategory: '科學與學術'
 author: 'Taiwan.md'
 featured: false
@@ -14,10 +19,10 @@ readingTime: 8
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/李昌鈺.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'f2b48b60c5'
 sourceContentHash: 'sha256:d64c72cf7c6361d3'
 sourceBodyHash: 'sha256:6f5a343122533934'
-translatedAt: '2026-11-05T17:28:46.573952+00:00'
+translatedAt: '2026-11-24T04:07:48.102206+00:00'
 ---
 
 # Li Chang-yu

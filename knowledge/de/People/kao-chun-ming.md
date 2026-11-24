@@ -1,18 +1,18 @@
 ---
-title: 'Ko Jun-myung: Ein Fremder, der den Pastor zum Einsatz seines Lebens und der Kirche zwang – Die Glaubensentscheidung hinter dem Beilitzer-Ereignis'
-description: 'Ein fremder Mann zwang Pastor Ko Jun-myong dazu, vier Jahre zu verurteilen, weil er Shi Ming-te versteckt hatte; es geht um die ethische Wahl zwischen moralischer Pflicht und realem Risiko.'
+title: 'Kao Chun-ming'
+description: 'Generalsekretär der Presbyterianischen Kirche in Taiwan, von Amnesty International anerkannter Gewissensgefangener. Nach dem Kaohsiung-Zwischenfall 1979 errichtete er ein Untergrund-Verstecknetzwerk für Shih Ming-teh, den er nur zweimal getroffen hatte. 1980 wurde er von einem Militärgericht zu sieben Jahren Haft und vollständiger Vermögenskonfiskation verurteilt; sein im Gefängnis entstandenes Gedicht „Na̍h-phah-hōe-hué-sio“ gewann später den Golden Melody Award für den besten Texter. Nach seiner Entlassung setzte er sich weiterhin für Transitional Justice und einheimische Theologie ein, 2019 verstarb er im Herrn – sein Leben zeugte davon, wie religiöser Glaube zur moralischen Ressource im Widerstand gegen autoritäre Herrschaft werden kann.'
 date: 2026-03-22
 category: 'People'
 tags:
   [
-    'Personen',
-    'Pastor',
+    'Persönlichkeit',
+    'Pfarrer',
     'Menschenrechtsbewegung',
-    'Kriegsrecht',
-    'Gewissensverbrechen',
-    'Presbyterian Church in Taiwan',
-    'Beilitzer-Ereignis',
-    'Shih Ming-te',
+    'Kriegsrechtszeit',
+    'Gewissensgefangener',
+    'Presbyterianische Kirche',
+    'Kaohsiung-Zwischenfall',
+    'Shih Ming-teh',
   ]
 subcategory: '政治與民主'
 author: 'Taiwan.md'
@@ -22,10 +22,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/高俊明.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'f2b48b60c5'
 sourceContentHash: 'sha256:eaeba845240b369e'
 sourceBodyHash: 'sha256:b37aec09305a898c'
-translatedAt: '2026-09-15T19:45:39+08:00'
+translatedAt: '2026-11-24T04:11:02.768831+00:00'
 ---
 
 > **30-Sekunden-Zusammenfassung:** Pastor Ko Jun-myong (1929–2019) wurde vier Jahre lang wegen der Verheimlichung des Beilitzer-Flüchtlings Shi Ming-te inhaftiert. Dabei waren die beiden Männer kaum miteinander bekannt – sie hatten sich nur zweimal an öffentlichen Orten gesehen. Es ist eine Geschichte über eine Glaubensentscheidung: Als moralische Pflicht und reale Gefahr kollidierten, wählte er letztere.

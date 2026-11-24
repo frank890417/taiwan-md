@@ -1,6 +1,6 @@
 ---
-title: 'Morris Chang: Der „Vater des Halbleiters“ – Unternehmer, der die globale Technologieindustrie mit dem Wafer-Foundry-Modell revolutionierte'
-description: 'Der legendäre Unternehmer Morris Chang (Chiang Kai-shek), Gründer von TSMC, der durch das reine Auftragsfertigungsmodell die weltweite Hightech-Industrie neu gestaltete.'
+title: 'Morris Chang'
+description: 'Der als „Vater der Halbleiterindustrie“ gefeierte taiwanische Unternehmer war zuvor General Manager der Halbleitersparte von Texas Instruments. Nach seiner Rückkehr nach Taiwan im Jahr 1985 als Direktor des ITRI gründete er 1987 TSMC und führte das Modell der reinen Wafer-Auftragsfertigung ein. Dies ermöglichte es Chipdesign-Unternehmen, auf eigene Fabriken zu verzichten, was die globale Halbleiterindustrie grundlegend veränderte und Taiwan zum zentralen Knotenpunkt der weltweiten Technologie-Lieferkette machte. Im Jahr 2009 kehrte er im Alter von 78 Jahren nach der Finanzkrise zurück, um das Unternehmen zu stabilisieren, und vollzog 2018 durch ein Dual-CEO-System die Generationenfolge bei TSMC.'
 date: 2026-03-17
 category: 'People'
 tags:
@@ -10,8 +10,8 @@ tags:
     'TSMC',
     'Halbleiter',
     'Unternehmer',
-    'Wafer-Foundry',
-    'SchutzschildTaiwan',
+    'Wafer-Auftragsfertigung',
+    'Schutzwall der Nation',
   ]
 subcategory: '科技與企業'
 author: 'Taiwan.md Contributors'
@@ -225,10 +225,10 @@ lifeTree:
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/張忠謀.md'
-sourceCommitSha: 'b1a5fea00'
+sourceCommitSha: 'f2b48b60c5'
 sourceContentHash: 'sha256:a6a3cf2441fdbe3c'
 sourceBodyHash: 'sha256:0b0d1fd6c8d63d0e'
-translatedAt: '2026-11-17T21:51:08.453883+00:00'
+translatedAt: '2026-11-24T03:39:33.463840+00:00'
 ---
 
 # Morris Chang (Chiang Kai-shek)

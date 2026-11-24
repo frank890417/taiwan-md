@@ -1,15 +1,15 @@
 ---
-title: 'Li Guoxiu'
-description: 'Gründer der Pingfund Performance Group, König der taiwanischen Komödie; verstarb am 2. Juli 2013 im Alter von 57 Jahren an Darmkrebs.'
+title: 'Li Kuo-hsiu'
+description: 'Gründer der Ping-Fong Acting Troupe, als „König der taiwanesischen Komödie“ gefeierter Theatermeister, gründete 1984 gemeinsam mit Lai Sheng-chuan und Li Li-chun die Performance Workshop, etablierte 1986 die Ping-Fong Acting Troupe, verfasste klassische Stücke wie „Shamlet“, „The Peking Opera Revelation“ und „Red Daughter“, trug humanistische Sorge mit Lachen, gewann 1980 den Golden Bell Award für Rundfunkbearbeitung, erhielt 1982 erneut einen Golden Bell Award, starb 2013 an Darmkrebs, hinterließ ein ästhetisches System darüber, wie Komödie menschliches Gewicht tragen kann, das bis heute unzählige taiwanesische Theaterschaffende beeinflusst.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Li Guoxiu',
-    'Pingfund Performance Group',
+    'Li Kuo-hsiu',
+    'Ping-Fong Acting Troupe',
     'Komödie',
     'Theater',
-    'taiwanisches Drama',
+    'Taiwanesisches Theater',
   ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md'
@@ -19,10 +19,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/李國修.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'f2b48b60c5'
 sourceContentHash: 'sha256:6ce83dd89e705886'
 sourceBodyHash: 'sha256:874193c9926520f1'
-translatedAt: '2026-10-22T02:46:42+08:00'
+translatedAt: '2026-11-24T04:21:53.211890+00:00'
 ---
 
 # Li Guoxiu: Der König der taiwanischen Komödie

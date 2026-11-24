@@ -1,17 +1,17 @@
 ---
-title: 'Li Zhikai: Vom „Markt-Kai“ in *Flip It! Boy* bis zur Silbermedaille bei den Olympischen Spielen – Die sechzehnjährige Achterbahnreise des Taiwaner Reck-Prinz'
-description: 'Li Zhikai, der 1996 geboren wurde, entwickelte sich vom "Markt-Kai" im Dokumentarfilm *Flip It! Boy* zum silbermedaillengewinnenden Recker bei den Olympischen Spielen. Bei den Olympischen Spielen in Tokio 2021 erreichte er mit 15,400 Punkte das beste Ergebnis der taiwanesischen Turngeschichte; seine Thomas-Flairs wurden vom Internationalen Turnerbund als Standardlehrplan übernommen.'
+title: 'Lee Chih-kai'
+description: 'Lee Chih-kai, Taiwans „Pauschenpferd-Prinz“, geboren 1996, trat mit sechs Jahren der Turnmannschaft der Gongzheng-Grundschule in Yilan bei; mit neun Jahren wurde er durch den Dokumentarfilm „Rollt, Jungs!“ als „Markt-Kai“ bekannt. Mit seinem Markenzeichen, dem Thomas-Kreis, stieg er auf: 2018 gewann er bei den Asienspielen die erste Goldmedaille Taiwans im Turnen, 2021 holte er bei den Olympischen Spielen in Tokio mit 15,400 Punkten die Silbermedaille am Pauschenpferd – die erste olympische Medaille in der Geschichte des taiwanesischen Turnens. Seine Technik wurde vom Internationalen Turnverband (FIG) als Standard-Lehrplan übernommen; sechzehn Jahre des Turnens beweisen, dass auch Grassroots-Turnen den Weg in die Welt schaffen kann.'
 date: 2026-03-21
 category: 'People'
 tags:
   [
     'Person',
-    'Li Zhikai',
+    'Lee Chih-kai',
     'Turnen',
     'Olympische Spiele',
     'Silbermedaille',
-    'Athlet',
-    'Reck',
+    'Sportler',
+    'Pauschenpferd',
     'Taiwan',
   ]
 subcategory: '體育'
@@ -20,10 +20,10 @@ featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
 translatedFrom: 'People/李智凱.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'f75a0392a4'
 sourceContentHash: 'sha256:40c8b34419f44594'
 sourceBodyHash: 'sha256:cb29681047e37872'
-translatedAt: '2026-09-11T07:09:36+08:00'
+translatedAt: '2026-11-24T04:02:54.004416+00:00'
 ---
 
 # 李智凱

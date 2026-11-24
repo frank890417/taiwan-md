@@ -1,16 +1,16 @@
 ---
-title: 'Lin Yijie: Vom als zu dünn abgelehnten Kind zum Extremwanderer, der die Sahara durchquerte und Geschichte schrieb'
-description: 'Die Geschichte von Lin Yijie, einem schlanken Jungen aus einer Grundschule, der von Sportlehrern abgewiesen wurde, bis er 111 Tage lang 7500 Kilometer wanderte und damit als einer der ersten Menschen gilt, die die Sahara durchquerten.'
+title: 'Lin Yi-chieh'
+description: 'Vom schmächtigen Jungen, der vom Leichtathletikteam abgelehnt wurde, zu einem der ersten Menschen der Geschichte, die die Sahara zu Fuß durchquerten: Im Jahr 2006 legte er in 111 Tagen 7.500 Kilometer zurück, verbrauchte dabei 11 Paar Schuhe, durchquerte fünf politisch instabile Länder und gewann den Gesamtsieg der vier großen Polarmarathon-Tourneen. Der Dokumentarfilm „Battle of the Sahara“ machte diesen taiwanischen Läufer weltweit bekannt, während die Urheberrechtsstreitigkeiten nach seinem Rücktritt die komplexe Wahrheit hinter dem Heldenstatus offenlegten.'
 date: 2026-03-22
 category: 'People'
 tags:
   [
     'Person',
-    'Ultra-Marathon',
-    'Extremexpedition',
+    'Ultramarathon',
+    'Polarexpedition',
     'Athlet',
     'Sahara',
-    'Licht von Taiwan',
+    'Stolz Taiwans',
   ]
 subcategory: '體育'
 author: 'Taiwan.md'
@@ -20,10 +20,10 @@ lastHumanReview: false
 readingTime: 7
 curation: 'incubating'
 translatedFrom: 'People/林義傑.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: 'f2b48b60c5'
 sourceContentHash: 'sha256:8741429d614846be'
 sourceBodyHash: 'sha256:3713eaac6b565ca6'
-translatedAt: '2026-09-12T16:22:12+08:00'
+translatedAt: '2026-11-24T04:18:44.654070+00:00'
 ---
 
 > **30-Sekunden-Zusammenfassung:** Lin Yijie, ein schlanker Junge aus einer Grundschule, der von Sportlehrern abgewiesen wurde, war 2006 einer der ersten Menschen, die die Sahara zu Fuß durchquerten. Er wanderte 7500 Kilometer in 111 Tagen und riss 11 Paar Schuhe kaputt, nur um festzustellen, dass die Begleitarmee auf dem Rückweg alle getötet worden war.

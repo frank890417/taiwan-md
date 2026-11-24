@@ -1,17 +1,17 @@
 ---
-title: 'Xi Murong: Die Symphonie von Steppe und Moderne'
-description: 'Autorin von „Qili Xiang“ und „Wu Yuan de Qingchun“, eine der einflussreichsten Dichterinnen der chinesischen Sprache, Mongolin'
+title: 'Xi Murong'
+description: 'Bestseller-Autorin der 1980er Jahre in Taiwan; ihr 1981 veröffentlichter Band „Qilixiang“ erlebte innerhalb eines Jahres sieben Neuauflagen und stellte einen Verkaufsrekord für moderne taiwanesische Lyrik auf. „Wuyuan de qingchun“ setzte den schlichten, aufrichtigen Stil fort, das Gedicht „Yike kaihua de shu“ wurde zum Klassiker der chinesischsprachigen Poesie. Sie stammt aus dem mongolischen Tschahar-Stamm, ist akademisch ausgebildete Ölgemäldemalerin, wandte sich nach ihrer ersten Reise in die Steppe 1989 der Schriftstellerei über ethnische Kultur zu, blickte 2019 in „Wo gei jiyi mingming“ auf ein Leben in der Diaspora zurück, ihre Gedichtsammlungen verkauften sich insgesamt über eine Million Mal, und sie erhielt unter anderem den Sun-Yat-sen-Literaturpreis und den Nationalen Literaturpreis.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Person',
+    'Persönlichkeit',
     'Xi Murong',
-    'Qili Xiang',
-    'Wu Yuan de Qingchun',
+    'Qilixiang',
+    'Jugend ohne Reue',
     'Dichterin',
-    'Mongolin',
-    'Prosaautorin',
+    'Mongolen',
+    'Essayistin',
   ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
@@ -21,10 +21,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/席慕蓉.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'f75a0392a4'
 sourceContentHash: 'sha256:d991df46b210ff83'
 sourceBodyHash: 'sha256:1f26407bb0738827'
-translatedAt: '2026-10-21T12:58:20.385253+00:00'
+translatedAt: '2026-11-24T04:29:44.167955+00:00'
 ---
 
 # Xi Murong: Die Symphonie von Steppe und Moderne
