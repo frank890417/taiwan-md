@@ -1,6 +1,6 @@
 ---
-title: 'Chen Wei-Yin'
-description: 'Ký hợp đồng 25 tỷ đô la Đài Loan cao nhất lịch sử, nhưng chỉ nhận được 47% của một cầu thủ ném trái'
+title: 'Trần Vĩ Ân (Wei-Yin Chen)'
+description: 'Pitcher người Đài Loan đầu tiên chuyển trực tiếp từ NPB sang MLB, từng vô địch ERA Central League năm 2009, đạt 46 thắng 32 bại trong 4 năm tại Orioles, ký hợp đồng kỷ lục 80 triệu USD với Marlins năm 2016 nhưng thực nhận chỉ 47% do thuế và phí môi giới.'
 date: 2026-03-22
 category: 'People'
 tags:
@@ -9,10 +9,10 @@ tags:
     'Bóng chày',
     'Thể thao',
     'Vận động viên chuyên nghiệp',
-    'Đại liên đoàn',
     'MLB',
+    'Major League Baseball',
     'NPB',
-    'Liên đoàn bóng chày Nhật',
+    'Nhật Bản',
   ]
 subcategory: '體育'
 author: 'Taiwan.md'
@@ -22,101 +22,95 @@ lastHumanReview: false
 readingTime: 6
 curation: 'incubating'
 translatedFrom: 'People/陳偉殷.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: 'f75a0392a4'
 sourceContentHash: 'sha256:ffd25b21bdd9c278'
 sourceBodyHash: 'sha256:7ce7a4f8a7dcd5c0'
-translatedAt: '2026-09-20T20:46:43.246039+00:00'
+translatedAt: '2026-11-24T11:37:49+08:00'
 ---
 
-> **30 giây tổng quan:** Chen Wei-Yin là cầu thủ ném Đài Loan đầu tiên nhảy trực tiếp từ bóng chày Nhật sang Đại liên đoàn,
-> năm 2016 ký hợp đồng 5 năm 80 triệu đô la Mỹ (25 tỷ đô la Đài Loan) — hợp đồng cao nhất lịch sử của một vận động viên Đài Loan,
-> nhưng do thuế hải quan và phí quản lý, ông chỉ nhận được 47%. Tổng cộng 96 thắng giữa hai nước,
-> Đại liên đoàn 59 thắng chỉ đứng sau Wang Chien-ming 68 thắng.
+> **Tóm tắt trong 30 giây:** Trần Vĩ Ân (Wei-Yin Chen) là cầu thủ ném bóng người Đài Loan đầu tiên chuyển trực tiếp từ giải Nhật Bản (NPB) sang giải Mỹ (MLB). Năm 2016, anh ký hợp đồng kỷ lục dành cho vận động viên Đài Loan trị giá 80 triệu USD (khoảng 2,5 tỷ New Taiwan dollar) trong 5 năm, nhưng do các khoản thuế và phí môi giới, thực tế anh chỉ nhận được 47%. Tổng cộng tại Nhật và Mỹ anh có 96 trận thắng, riêng tại MLB có 59 trận thắng, xếp sau Vương Kiến Dân (Chien-Ming Wang) với 68 trận thắng.
 
-Ngày 12 tháng 1 năm 2016, Miami Marlins công bố ký hợp đồng với Chen Wei-Yin trị giá 5 năm 80 triệu đô la Mỹ (khoảng 25 tỷ đô la Đài Loan). Con số này gây shock cho thể thao Đài Loan—25 tỷ, cao hơn tổng lương năm toàn bộ bóng chày Đài Loan tại thời điểm đó. Nhưng trong một cuộc phỏng vấn năm 2025, Chen Wei-Yin tiết lộ một sự thật bất ngờ: **"Tôi chỉ nhận được 47%."**
+Vào ngày 12 tháng 1 năm 2016, đội Miami Marlins đã công bố ký hợp đồng với Trần Vĩ Ân với mức giá 80 triệu USD (khoảng 2,5 tỷ New Taiwan dollar) trong 5 năm. Con số này đã gây chấn động giới thể thao Đài Loan — 2,5 tỷ New Taiwan dollar cao hơn cả tổng quỹ lương của toàn bộ giải bóng chày chuyên nghiệp Đài Loan thời điểm đó. Tuy nhiên, trong một cuộc phỏng vấn vào năm 2025, Trần Vĩ Ân đã tiết lộ một sự thật kinh ngạc: **"Thực tế tôi chỉ nhận được 47%."**
 
-Thuế liên bang, thuế tiểu bang, hoa hồng quản lý, phí bảo hiểm—từng lớp lấy đi một phần, 25 tỷ bị chặt giảm một nửa. Những con số sáng loáng phía sau ẩn chứa thực tế tàn khốc của thể thao chuyên nghiệp.
+Thuế, phí môi giới và chi phí bảo hiểm đã cắt đi hơn một nửa giá trị của bản hợp đồng kỷ lục lịch sử dành cho vận động viên Đài Loan. Đằng sau những con số hào nhoáng là sự tính toán khắc nghiệt của thực tế thể thao chuyên nghiệp.
 
-## Từ vua phòng ngự liên đoàn bóng chày Nhật đến Đại liên đoàn
+## Từ nhà vô địch ERA tại Nhật Bản đến MLB
 
-Câu chuyện của Chen Wei-Yin bắt đầu từ 2004, khi tuổi 18, ông nhảy cấp trực tiếp sang Liên đoàn bóng chày Nhật với đội Chunichi Dragons. Quyết định này gây tranh cãi tại thời điểm—tại sao không rèn luyện trước ở Đài Loan?
+Câu chuyện của Trần Vĩ Ân bắt đầu vào năm 2004, khi ở tuổi 18, anh đã nhảy lớp từ trường trung học trực thuộc Học viện Thể dục Cao Hùng để gia nhập đội Chúi Nippon-Ham Dragons tại giải bóng chày chuyên nghiệp Nhật Bản. Quyết định này từng gây tranh cãi vào thời điểm đó — tại sao không rèn luyện tại Đài Loan trước?
 
-Câu trả lời được tiết lộ 6 năm sau. Năm 2009, Chen Wei-Yin với thành tích 8 thắng 4 thua, **tỷ lệ phòng ngự 1.54** đoạt danh hiệu vua phòng ngự Liên đoàn trung ương bóng chày Nhật, trở thành cầu thủ nước ngoài đầu tiên giành danh hiệu này kể từ năm 1970. Năm 2010 ông có 15 thắng, năm 2011 lên tới 18 thắng, trở thành cầu thủ ném trái chủ chốt của Chunichi Dragons.
+Câu trả lời đã được hé lộ sau 6 năm. Năm 2009, với thành tích 8 thắng 4 bại và **chỉ số ERA (tỷ lệ ném bóng cho phép ghi điểm) là 1.54**, Trần Vĩ Ân đã giành chức vô địch ERA của Central League tại Nhật Bản, trở thành cầu thủ ném bóng ngoại quốc đầu tiên nhận được vinh dự này kể từ năm 1970. Năm 2010, anh giành được 15 trận thắng, và đến năm 2011, anh tiến thêm một bước nữa với 18 trận thắng, trở thành át chủ bài (ace) của đội Nippon-Ham Dragons.
 
-Trong 6 năm tại bóng chày Nhật (2006-2011), Chen Wei-Yin tích lũy 36 thắng 30 thua, tỷ lệ phòng ngự 2.59. Điều quan trọng nhất là **tỷ lệ K/BB của ông đạt 3.18**—con số này trong mắt các nhà scouting Mỹ có nghĩa là "cầu thủ ném có kiểm soát chính xác và thực lực mạnh mẽ".
+Trong 6 năm tại Nhật Bản (2006-2011), Trần Vĩ Ân tích lũy được 36 thắng 30 bại với ERA là 2.59. Quan trọng nhất là **chỉ số K/BB (tỷ lệ strikeout trên walk) đạt mức 3.18** — dữ liệu này trong mắt các tuyển trạch viên Mỹ có nghĩa là "một cầu thủ ném bóng thực lực với khả năng kiểm soát bóng chính xác".
 
-> **💡 Bạn có biết không**
-> Chen Wei-Yin là cầu thủ Đại liên đoàn đầu tiên sử dụng ca khúc tiếng Hoa làm bài hát ra sân,
-> ông chọn là "Khởi động giấc mơ" của Jay Chou.
+> **💡 Bạn có biết?**
+> Trần Vĩ Ân là cầu thủ MLB đầu tiên sử dụng một bài hát tiếng Hoa làm nhạc nền khi ra sân, đó là ca khúc 〈Khởi động ước mơ〉 (Dream Start) của Châu Kiệt Luân (Jay Chou).
 
-## Bốn mùa Orioles: Từ tân binh đến ngôi sao
+## Bốn mùa tại Orioles: Từ tân binh đến ngôi sao
 
-Năm 2012, Chen Wei-Yin tham gia Baltimore Orioles với tư cách cầu thủ tự do, trở thành cầu thủ ném Đài Loan thứ hai (sau Wang Chien-ming) thiết lập vị trí ném cố định ở Đại liên đoàn. Lần đầu tiên ông thi đấu ở Đại liên đoàn là ở trận playoff, trở thành "cầu thủ Đài Loan đầu tiên đạt chiến thắng ở playoff trong lần đầu tham gia Đại liên đoàn".
+Năm 2012, Trần Vĩ Ân gia nhập Baltimore Orioles với tư cách cầu thủ tự do, trở thành cầu thủ ném bóng Đài Loan thứ hai đứng vững trong đội hình xuất phát tại MLB sau Vương Kiến Dân. Trận ra mắt MLB của anh diễn ra ngay trong vòng Playoff, giúp anh trở thành "người Đài Loan đầu tiên giành chiến thắng ngay trong trận ra mắt MLB tại vòng Playoff".
 
-Bốn năm Orioles (2012-2015), Chen Wei-Yin có thành tích ổn định: **117 trận khởi động, 46 thắng 32 thua, tỷ lệ phòng ngự 3.72**. Năm 2014 rực rỡ nhất, ông có 16 thắng 6 thua, tỷ lệ phòng ngự 3.54, trở thành cầu thủ ném trái có thắng lợi nhiều nhất của Orioles trong 25 năm.
+Trong 4 năm tại Orioles (2012-2015), Trần Vĩ Ân đã mang lại những thành tích ổn định: **117 trận xuất phát, 46 thắng 32 bại, với ERA là 3.72**. Năm 2014 rực rỡ nhất, anh giành được 16 thắng 6 bại với ERA 3.54, trở thành cầu thủ ném bóng tay trái có nhiều trận thắng nhất của Orioles trong suốt 25 năm qua.
 
-Phía sau con số có hiện tượng thú vị: trong 117 trận khởi động, Chen Wei-Yin **có 0 trận đấu toàn bộ**. Đây không phải vấn đề về thực lực, mà là triết lý quản lý bóng chày hiện đại—bảo vệ cánh tay của cầu thủ ném, giới hạn lượng bóng ném. Nhưng với người hâm mộ bóng chày Đài Loan, điều này mất đi phần lãng mạn.
+Có một hiện tượng thú vị đằng sau các số liệu: Trong 117 trận xuất phát của Trần Vĩ Ân, **số trận thắng hoàn tất (complete game win) là 0**. Đây không phải vấn đề về thực lực mà là triết lý quản lý bóng chày hiện đại — bảo vệ cánh tay cầu thủ và giới hạn số lần ném bóng. Tuy nhiên, đối với người hâm mộ Đài Loan, điều này có chút thiếu đi sự lãng mạn.
 
-> **📝 Ghi chú của nhà sưu tầm**
-> Năm 2013, Chen Wei-Yin và Wang Chien-ming cùng đạt 16 thắng,
-> lúc đó người hâm mộ Đài Loan điên cuồng thức đêm xem trực tiếp, tình cảnh này vô pháp tái hiện.
+> **📝 Ghi chú của biên tập viên**
+> Năm 2013, Trần Vĩ Ân và Vương Kiến Dân cùng lúc đạt mốc 16 trận thắng. Cơn sốt thức đêm xem truyền hình của người hâm mộ Đài Loan năm đó là một khoảnh khắc mà đến nay chưa ai có thể tái hiện lại được.
 
-## Ánh sáng và bóng tối của hợp đồng 25 tỷ
+## Ánh sáng và bóng tối của hợp đồng 2,5 tỷ New Taiwan dollar
 
-Sau mùa bóng 2015, Chen Wei-Yin bước vào thị trường cầu thủ tự do. Sau hai tháng đàm phán, Miami Marlins đưa ra điều kiện chấn động: **5 năm 80 triệu đô la Mỹ, cộng thêm 13 triệu ký kết, tổng giá trị 93 triệu đô la Mỹ**.
+Sau khi mùa giải 2015 kết thúc, Trần Vĩ Ân bước vào thị trường cầu thủ tự do. Sau hai tháng đàm phán, Marlins đã đưa ra một điều kiện gây sốc: **5 năm trị giá 80 triệu USD, cộng thêm 13 triệu USD tiền ký hợp đồng, tổng giá trị lên tới 93 triệu USD**.
 
-Con số này kinh ngạc như thế nào? Lúc đó, tổng lương cả năm bóng chày Đài Loan chỉ khoảng 800 triệu đô la Đài Loan, hợp đồng của Chen Wei-Yin riêng một mình là 25 tỷ. Truyền thông mô tả đây là "hợp đồng lớn nhất trong lịch sử thể thao Đài Loan", Chen Wei-Yin chuyển từ cầu thủ thành "nước ngoài di động GDP".
+Con số này kinh khủng đến mức nào? Vào thời điểm đó, tổng quỹ lương cả năm của giải bóng chày chuyên nghiệp Đài Loan chỉ khoảng 800 triệu New Taiwan dollar, trong khi hợp đồng của một mình Trần Vĩ Ân đã là 2,5 tỷ. Truyền thông mô tả đây là "hợp đồng lớn nhất trong lịch sử thể thao Đài Loan", biến Trần Vĩ Ân từ một cầu thủ thành một "GDP di động".
 
-Nhưng thực tế sớm đưa ra bài học. Năm 2016 đầu mùa, vì chấn thương cánh tay, Chen Wei-Yin chỉ tham dự 22 trận, 5 thắng 5 thua. Năm 2017 tệ hơn, ngay đầu mùa phải phẫu thuật, toàn bộ mùa bị loại. Người hâm mộ Marlins bắt đầu hoài nghi: chúng tôi đã trả tiền cho cái gì?
+Nhưng thực tế đã sớm giáng một đòn cảnh tỉnh. Trong nửa đầu mùa giải 2016, do chấn thương khuỷu tay, Trần Vĩ Ân chỉ ra sân 22 trận với 5 thắng 5 bại. Năm 2017 còn tồi tệ hơn khi anh phải phẫu thuật ngay đầu mùa và lỡ mất cả mùa giải. Người hâm mộ Marlins bắt đầu nghi ngờ: Chúng ta đã bỏ ra số tiền lớn để mua lấy thứ gì?
 
-Các tờ báo Mỹ không tiếp tay: "Hợp đồng của Chen Wei-Yin đang trở thành thảm họa." Cuối cùng, thương vụ này được đánh giá là một trong những ký hợp đồng tồi tệ nhất trong lịch sử Marlins.
+Truyền thông Mỹ không hề nể nang: "Hợp đồng của Trần Vĩ Ân đang trở thành một thảm họa." Thương vụ này cuối cùng bị đánh giá là một trong những bản hợp đồng thất bại nhất trong lịch sử đội Marlins.
 
-## Sự thật đằng sau con số
+## Sự thật đằng sau những con số
 
-Ngày 21 tháng 11 năm 2019, Miami Marlins công bố DFA (Designated For Assignment) Chen Wei-Yin. Ông ở Marlins 3.5 năm với thành tích 13 thắng 16 thua, tỷ lệ phòng ngự 5.10, khoảng cách lớn so với kỳ vọng ban đầu.
+Ngày 21 tháng 11 năm 2019, Marlins thông báo DFA (chỉ định chuyển nhượng) Trần Vĩ Ân. Trong 3,5 năm tại Marlins, anh đạt 13 thắng 16 bại với ERA 5.10, một khoảng cách rất lớn so với kỳ vọng ban đầu.
 
-Nhưng câu chuyện vẫn chưa kết thúc. Ngay cả khi bị phát hành, Chen Wei-Yin vẫn nhận lương 22 triệu đô la Mỹ năm 2020—điều khoản hợp đồng bảo đảm bắt buộc Marlins phải trả đủ. Đây là hiện tượng độc nhất vô nhị của thể thao chuyên nghiệp: khi thành tích kém, tiền vẫn được nhận.
+Nhưng câu chuyện vẫn chưa kết thúc. Ngay cả khi bị thải loại, Trần Vĩ Ân vẫn nhận được mức lương 22 triệu USD của năm 2020 — các điều khoản hợp đồng buộc Marlins phải thanh toán đầy đủ. Đây là một hiện tượng đặc thù của thể thao chuyên nghiệp: dù phong độ kém, tiền vẫn phải trả.
 
-Cho đến năm 2025, Chen Wei-Yin mới công bố sự thật tài chính: **"Tôi chỉ nhận được 47%."** Thuế liên bang, thuế tiểu bang, hoa hồng quản lý, phí bảo hiểm, lớp lớp lấy đi, 25 tỷ biến thành 11.75 tỷ. Với người bình thường, con số này vẫn là tài sản thiên văn, nhưng khoảng cách lớn như vậy khiến chúng ta phải suy nghĩ lại về cấu trúc kinh tế của thể thao chuyên nghiệp.
+Mãi đến năm 2025, Trần Vĩ Ân mới công khai sự thật tài chính: **"Thực tế tôi chỉ nhận được 47%."** Thuế liên bang, thuế tiểu bang, phí môi giới và chi phí bảo hiểm đã bóc tách từng lớp, khiến 2,5 tỷ New Taiwan dollar chỉ còn lại 1,175 tỷ. Đối với người bình thường, đó vẫn là một con số thiên văn, nhưng sự chênh lệch quá lớn này buộc chúng ta phải suy nghĩ lại về cấu trúc kinh tế của thể thao chuyên nghiệp.
 
-| Thành tích 46-32                                       | Thành tích 13-16                           |
-| ------------------------------------------------------ | ------------------------------------------ |
-| Giai đoạn Orioles (2012-2015)                          | Giai đoạn Marlins (2016-2019)              |
-| Tỷ lệ phòng ngự 3.72, được coi là ném cố định đáng tin | Tỷ lệ phòng ngự 5.10, bị hoài nghi giá trị |
+| Thành tích 46-32                                            | Thành tích 13-16                 |
+| :---------------------------------------------------------- | :------------------------------- |
+| Thời kỳ Orioles (2012-2015)                                 | Thời kỳ Marlins (2016-2019)      |
+| ERA 3.72, được coi là người ném bóng xuất phát đáng tin cậy | ERA 5.10, bị nghi ngờ về giá trị |
 
-## Wang Chien-ming và Chen Wei-Yin: Hai thế hệ ngôi sao Đài Loan
+## Vương Kiến Dân và Trần Vĩ Ân: Hai ánh hào quang của Đài Loan
 
-Sự nghiệp Đại liên đoàn của Chen Wei-Yin có 59 thắng, chỉ đứng sau Wang Chien-ming 68 thắng trong lịch sử các cầu thủ ném Đài Loan. Nhưng con đường của hai người hoàn toàn khác nhau:
+Sự nghiệp MLB của Trần Vĩ Ân có 59 trận thắng, đứng sau Vương Kiến Dân với 68 trận thắng trong lịch sử các cầu thủ ném bóng Đài Loan. Tuy nhiên, lộ trình của hai người hoàn toàn khác biệt:
 
-Wang Chien-ming là "cấp độ hiện tượng"—năm 2005-2007 liên tiếp hai năm 19 thắng, gây nên cơn sốt toàn Đài Loan thức đêm xem bóng. Câu chuyện của ông là tươi sáng ngắn chốc, rồi mờ đi vì chấn thương.
+Vương Kiến Dân là "hiện tượng" — giai đoạn 2005-2007 anh giành được 19 trận thắng trong hai năm liên tiếp, tạo nên làn sóng thức đêm xem bóng chày trên khắp Đài Loan. Câu chuyện của anh là sự tỏa sáng rực rỡ nhưng ngắn ngủi, sau đó mờ nhạt dần vì chấn thương.
 
-Chen Wei-Yin là "cấp độ thương mại"—không có đỉnh cao của Wang Chien-ming, nhưng nhận được hợp đồng cao nhất lịch sử. Câu chuyện của ông là sản lượng ổn định, rồi bị chính khuôn khổ tiền bác buộc.
+Trần Vĩ Ân là "tầm cỡ thương mại" — không có đỉnh cao như Vương Kiến Dân, nhưng lại giành được hợp đồng lớn nhất lịch sử. Câu chuyện của anh là sự cống hiến ổn định, rồi bị trói buộc bởi khung khổ tiền bạc.
 
-Cả hai người đều chứng minh rằng các cầu thủ ném Đài Loan có thể thiết lập tọa độ ở thánh địa cao nhất thế giới, và cũng đều trải qua thử thách tàn khốc của chấn thương. Khác biệt nằm ở thời đại: Wang Chien-ming đại diện cho lãng mạn bóng chày thuần khiết, Chen Wei-Yin đại diện cho thực tế thương mại của thể thao chuyên nghiệp.
+Cả hai đều chứng minh rằng các cầu thủ ném bóng Đài Loan có thể đứng vững tại đấu trường cao nhất thế giới, và đều phải trải qua thử thách khắc nghiệt của chấn thương. Sự khác biệt nằm ở thời đại: Vương Kiến Dân đại diện cho sự lãng mạn thuần túy của bóng chày, còn Trần Vĩ Ân đại diện cho thực tế thương mại của thể thao chuyên nghiệp.
 
-> **⚠️ Góc nhìn gây tranh cãi**
-> Một số tờ báo Mỹ cho rằng hợp đồng của Chen Wei-Yin "quá đánh giá cao thành tích của bóng chày Nhật",
-> nhưng bốn năm ở Orioles với thành tích ổn định chứng tỏ ông thực sự có thực lực ném cố định ở Đại liên đoàn.
+> **⚠️ Quan điểm tranh luận**
+> Một số phương tiện truyền thông Mỹ cho rằng hợp đồng của Trần Vĩ Ân đã "đánh giá quá cao giá trị thành tích tại Nhật Bản", nhưng màn trình diễn ổn định trong 4 năm tại Orioles đã chứng minh anh thực sự sở hữu năng lực ném bóng xuất phát tại MLB.
 
-## Trở lại bóng chày Nhật và hạ màn cuối cùng
+## Trở lại Nhật Bản và lời chào kết thúc
 
-Năm 2020, Chen Wei-Yin im lặng một năm rồi trở lại bóng chày Nhật, tham gia Chiba Lotte Marines. Cầu thủ ném trái 35 tuổi cố gắng chứng minh mình vẫn còn giá trị, nhưng thực tế là tàn khốc: tham dự 39 trận, chỉ có 1 thắng 2 thua.
+Năm 2020, sau một năm im hơi lặng tiếng, Trần Vĩ Ân trở lại Nhật Bản gia nhập đội Chiba Lotte Marines. Cầu thủ ném bóng tay trái ở tuổi 35 đã cố gắng chứng minh giá trị của mình, nhưng thực tế rất phũ phàng: ra sân 39 trận, chỉ giành được 1 thắng 2 bại.
 
-Năm 2021 chuyển sang Hanshin Tigers, thành tích vẫn đấu tranh. Ngày 26 tháng 2 năm 2025, Chen Wei-Yin công bố trên Facebook rằng ông về hưu: "20 năm sự nghiệp bóng chày, cảm ơn tất cả những người ủng hộ tôi."
+Năm 2021, anh chuyển sang Hanshin Tigers nhưng phong độ vẫn chật vật. Ngày 26 tháng 2 năm 2025, Trần Vĩ Ân thông báo giải nghệ trên Facebook: "20 năm sự nghiệp bóng chày, xin cảm ơn tất cả những người đã ủng hộ tôi."
 
-Tổng cộng Nhật-Mỹ 96 thắng, 219 lần tham dự Đại liên đoàn, 846 lần ba đã. Con số có lẽ không như kỳ vọng, nhưng Chen Wei-Yin mở ra một thời đại mới cho các cầu thủ Đài Loan—cầu thủ ném đầu tiên nhảy trực tiếp từ bóng chày Nhật sang Đại liên đoàn, cầu thủ đầu tiên ký hợp đồng giá cực cao trong lịch sử thể thao Đài Loan.
+Tổng cộng tại Nhật và Mỹ có 96 trận thắng, 219 trận đấu tại MLB, 846 lần strikeout. Các số liệu có thể không như kỳ vọng, nhưng Trần Vĩ Ân đã mở ra một kỷ nguyên mới cho các cầu thủ Đài Loan — cầu thủ ném bóng đầu tiên chuyển trực tiếp từ Nhật Bản sang MLB, và là vận động viên Đài Loan đầu tiên ký được hợp đồng trị giá con số thiên văn.
 
-Câu chuyện của ông nhắc nhở chúng ta: thể thao chuyên nghiệp không chỉ là giấc mơ và vinh dự, mà còn là trò chơi kinh doanh phức tạp. Trong trò chơi này, tài năng, vận may, thời cơ, sức khỏe, thiếu cái nào cũng không được.
+Câu chuyện của anh nhắc nhở chúng ta rằng: Thể thao chuyên nghiệp không chỉ có ước mơ và vinh quang, mà còn là một trò chơi thương mại phức tạp. Trong trò chơi này, tài năng, vận may, thời điểm và sức khỏe đều là những yếu tố không thể thiếu.
 
-**Chen Wei-Yin đã dùng 20 năm sự nghiệp chuyên nghiệp để chứng minh rằng đôi khi can đảm tuyệt vời nhất không phải là theo đuổi giấc mơ, mà là thừa nhận giá cả của giấc mơ.**
+**Trần Vĩ Ân đã dùng 20 năm sự nghiệp chuyên nghiệp để chứng minh rằng, đôi khi lòng can đảm lớn nhất không phải là theo đuổi ước mơ, mà là chấp nhận cái giá của ước mơ đó.**
 
 ---
 
 ## Tài liệu tham khảo
 
-- [Sportsv - Bóng chày Orioles bốn mùa, giải mã thành tích Chen Wei-Yin](https://www.sportsv.net/articles/24789)
-- [Taiwan Baseball Wiki - Chen Wei-Yin](https://twbsball.dils.tku.edu.tw/index.php/陳偉殷)
-- [ETtoday Sports Cloud - Chen Wei-Yin, thành tích tổng cộng 96 thắng](https://sports.ettoday.net/news/2915700)
-- [Cộng hòa Nhân dân Trung Hoa News - Thành tích sự nghiệp 96 thắng của Chen Wei-Yin](https://www.cna.com.tw/news/aspt/202502275004.aspx)
+- [Tầm nhìn Thể thao - Giải mã thành tích 4 mùa tại Orioles của Trần Vĩ Ân](https://www.sportsv.net/articles/24789)
+- [Wiki Bóng chày Đài Loan - Trần Vĩ Ân](https://twbsball.dils.tku.edu.tw/index.php/陳偉殷)
+- [ETtoday Thể thao - Thành tựu 96 trận thắng Nhật-Mỹ của Trần Vĩ Ân](https://sports.ettoday.net/news/2915700)
+- [Trung ương Xã - Thành tựu 96 trận thắng trong sự nghiệp của Trần Vĩ Ân](https://www.cna.com.tw/news/aspt/202502275004.aspx)
 - [Call to the Pen - Baltimore Orioles: Wei-Yin Chen returns to NPB](https://calltothepen.com/2020/09/22/baltimore-orioles-wei-yin-chen-returns-npb/)
-- [Liberty Times Sports - Chen Wei-Yin, cảm ơn Marlins hoàn thành](https://sports.ltn.com.tw/news/paper/1333705)
+- [Tự do Thời báo - Trần Vĩ Ân cảm ơn Marlins đã tạo điều kiện](https://sports.ltn.com.tw/news/paper/1333705)

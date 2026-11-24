@@ -1,15 +1,15 @@
 ---
-title: 'Lý Quốc Tu (Li Guoxiu)'
-description: 'Người sáng lập Bình Phong Biểu Diễn Ban, ông vua hài kịch Đài Loan, qua đời vì ung thư đại tràng vào ngày 2 tháng 7 năm 2013, hưởng thọ 57 tuổi.'
+title: 'Lý Quốc Tu'
+description: 'Người sáng lập Bình Phong Biểu Diễn Ban, bậc thầy sân khấu được mệnh danh là Vua hài kịch Đài Loan. Năm 1984, ông cùng Lại Thanh Xuyên và Lý Lập Quần đồng sáng lập Xưởng biểu diễn; năm 1986, ông thành lập Bình Phong Biểu Diễn Ban, viết nên những tác phẩm kinh điển như "Hamlet", "Khải thị lục Kinh hí", "Nữ nhi hồng", dùng tiếng cười để truyền tải sự quan tâm nhân văn. Năm 1980, ông giành giải Kim Chung về dựng phim; năm 1982, tiếp tục được giải Kim Chung ghi nhận. Ông qua đời vì ung thư đại tràng vào năm 2013, để lại một hệ thống mỹ học về cách hài kịch mang tải sức nặng nhân văn, cho đến nay vẫn tiếp tục ảnh hưởng tới vô số nhà sáng tạo sân khấu Đài Loan.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Lý Quốc Tu',
     'Bình Phong Biểu Diễn Ban',
-    'hài kịch',
-    'sân khấu',
-    'kịch nghệ Đài Loan',
+    'Hài kịch',
+    'Sân khấu',
+    'Kịch nghệ Đài Loan',
   ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md'
@@ -19,10 +19,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/李國修.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'f2b48b60c5'
 sourceContentHash: 'sha256:6ce83dd89e705886'
 sourceBodyHash: 'sha256:874193c9926520f1'
-translatedAt: '2026-10-22T03:33:43+08:00'
+translatedAt: '2026-11-24T04:45:19.695241+00:00'
 ---
 
 # Lý Quốc Tu: Ông vua hài kịch Đài Loan

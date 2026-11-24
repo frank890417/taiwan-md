@@ -1,17 +1,17 @@
 ---
-title: 'Tích Mộc Dung'
-description: 'Tác giả tập thơ «Thất Lý Hương» và «Vô Oán của Thanh Xuân», nhà thơ bán chạy nhất bằng tiếng Hoa, người Mông Cổ'
+title: 'Tịch Mộ Dung'
+description: 'Nhà thơ bán chạy nhất tại Đài Loan những năm 1980, năm 1981 tập thơ "Thất lý hương" xuất bản chưa đầy một năm đã tái bản bảy lần, thiết lập kỷ lục bán sách thơ hiện đại tại Đài Loan; tác phẩm "Thanh xuân không oán giận" tiếp tục phong cách thơ giản dị, chân thành, bài thơ "Một cái cây nở hoa" trở thành kinh điển thơ ngữ Hán. Bà xuất thân từ bộ Chahar của người Mông Cổ, là họa sĩ dầu chuyên nghiệp, sau khi lần đầu đặt chân lên thảo nguyên năm 1989 đã chuyển hướng viết về văn hóa dân tộc. Năm 2019 tác phẩm "Tôi đặt tên cho ký ức" ngắm nhìn lại một đời bèo dạt, tổng doanh số các tập thơ vượt quá một triệu bản, và được vinh danh bằng Giải Văn nghệ Trung Sơn, Giải Văn nghệ Quốc gia.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'nhân vật',
-    'Tích Mộc Dung',
-    'Thất Lý Hương',
-    'Vô Oán của Thanh Xuân',
-    'nhà thơ',
-    'người Mông Cổ',
-    'nhà văn',
+    'Nhân vật',
+    'Tịch Mộ Dung',
+    'Thất lý hương',
+    'Thanh xuân không oán giận',
+    'Nhà thơ',
+    'Dân tộc Mông Cổ',
+    'Nhà văn tùy bút',
   ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
@@ -21,10 +21,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/席慕蓉.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'f75a0392a4'
 sourceContentHash: 'sha256:d991df46b210ff83'
 sourceBodyHash: 'sha256:1f26407bb0738827'
-translatedAt: '2026-10-21T12:53:08.102923+00:00'
+translatedAt: '2026-11-24T04:48:55.367506+00:00'
 ---
 
 # Tích Mộc Dung: Giao hưởng thơ giữa cỏ cỏ và thế đại

@@ -1,6 +1,6 @@
 ---
-title: 'Lý Mai Thụ: Người nghệ sĩ đã dành 36 năm xây dựng một ngôi đền, đưa mỹ học hàn lâm vào tín ngưỡng dân gian'
-description: 'Một họa sĩ đã dành 36 năm để trùng tu Miếu Tổ ở Tam Hiệp, tạo ra một kỳ quan "Tây học Đông dụng" chưa từng có, biến ngôi miếu làng thành "Đại sảnh nghệ thuật phương Đông".'
+title: 'Lý Mai Thụ'
+description: 'Họa sĩ Đài Loan sinh năm 1902 tại Tam Hiệp, người đã giành giải Đặc tuyển đầu tiên tại Triển lãm Đài Loan (Tai Zhan) năm 1935 với tác phẩm "Thiếu nữ nghỉ ngơi". Ông cũng là nghệ sĩ duy nhất tại Đài Loan dẫn dắt việc tái thiết các ngôi miếu truyền thống bằng thẩm mỹ học phái hàn lâm; từ năm 1947, ông đã dành 36 năm để chủ trì việc tái thiết chùa Tổ Sư tại Tam Hiệp, thay thế lối sao chép cổ pháp bằng phương pháp ký họa thực tế, mời các họa sĩ vẽ bản thảo và đưa sinh viên chuyên ngành nghệ thuật vào miếu sáng tác, giúp ngôi miếu làng này được mệnh danh là "Điện thờ nghệ thuật phương Đông", đồng thời dùng nét bút và thẩm mỹ để cải cách sâu sắc tín ngưỡng dân gian. Những năm cuối đời, ông giảng dạy tại Trường Cao đẳng Nghệ thuật Quốc gia và thành lập khoa Điêu khắc.'
 date: 2026-03-23
 category: 'People'
 tags:
@@ -9,7 +9,7 @@ tags:
     'Nghệ thuật',
     'Mỹ thuật',
     'Tam Hiệp',
-    'Miếu tổ',
+    'Chùa Tổ Sư',
     'Chủ nghĩa hiện thực',
     'Triển lãm Đài Loan',
   ]
@@ -20,10 +20,10 @@ lastVerified: 2026-03-23
 lastHumanReview: false
 curation: 'incubating'
 translatedFrom: 'People/李梅樹.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: 'f75a0392a4'
 sourceContentHash: 'sha256:7bf4114050e0bd18'
 sourceBodyHash: 'sha256:56cd3707ce723649'
-translatedAt: '2026-09-22T02:06:15+08:00'
+translatedAt: '2026-11-24T04:53:02.110192+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Lý Mai Thụ không chỉ là một họa sĩ được chọn tại Triển lãm Đài Loan mà còn là nghệ sĩ duy nhất ở Đài Loan dẫn dắt việc trùng tu các ngôi miếu truyền thống bằng mỹ học hàn lâm. Bắt đầu từ năm 1947, ông đã dành 36 năm để giám sát việc tái thiết Miếu Tổ Tam Hiệp, tạo ra một kỳ quan "Tây học Đông dụng" chưa từng có, khiến ngôi miếu làng này được mệnh danh là "Đại sảnh nghệ thuật phương Đông".

@@ -1,16 +1,16 @@
 ---
-title: 'Lâm Nghĩa Kiệt: Từ cậu bé gầy bị đội điền kinh từ chối, đến vận động viên cực địa phá kỷ lục khi vượt sa mạc Sahara bằng bộ dạng đi bộ'
-description: 'Câu chuyện về Lâm Nghĩa Kiệt (Lin Yijie), người đã trở thành một trong ba người đầu tiên trên thế giới hoàn thành hành trình đi bộ xuyên qua sa mạc Sahara, với 7500 km trong 111 ngày.'
+title: 'Lâm Nghĩa Kiệt'
+description: 'Từ một cậu bé gầy yếu từng bị đội điền kinh từ chối, trở thành một trong ba người đầu tiên trong lịch sử nhân loại đi bộ xuyên qua sa mạc Sahara: Năm 2006, ông đã hoàn thành quãng đường 7.500 km trong 111 ngày, làm hỏng 11 đôi giày, băng qua năm quốc gia có tình hình chính trị bất ổn và giành chức vô địch tổng sắp giải siêu marathon bốn cực. Bộ phim tài liệu "Quyết chiến Sahara" đã giúp thế giới biết đến vận động viên chạy bộ người Đài Loan này, trong khi những tranh chấp về bản quyền tác giả sau khi giải nghệ đã hé lộ sự thật phức tạp đằng sau hào quang của một anh hùng.'
 date: 2026-03-22
 category: 'People'
 tags:
   [
     'Nhân vật',
-    'siêu marathon',
-    'thám hiểm cực địa',
-    'vận động viên',
-    'sa mạc Sahara',
-    'ánh sáng Đài Loan',
+    'Siêu marathon',
+    'Thám hiểm cực địa',
+    'Vận động viên',
+    'Sa mạc Sahara',
+    'Niềm tự hào Đài Loan',
   ]
 subcategory: '體育'
 author: 'Taiwan.md'
@@ -20,10 +20,10 @@ lastHumanReview: false
 readingTime: 7
 curation: 'incubating'
 translatedFrom: 'People/林義傑.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: 'f2b48b60c5'
 sourceContentHash: 'sha256:8741429d614846be'
 sourceBodyHash: 'sha256:3713eaac6b565ca6'
-translatedAt: '2026-09-22T02:06:15+08:00'
+translatedAt: '2026-11-24T04:43:55.867046+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Lâm Nghĩa Kiệt, một cậu bé gầy bị giáo viên thể dục ở trường tiểu học đe dọa "không được chạy nhanh hơn đàn anh", đã trở thành một trong ba người đầu tiên trên thế giới hoàn thành hành trình đi bộ xuyên qua sa mạc Sahara vào năm 2006. Anh đã chạy hết 7500 km trong 111 ngày, làm rách 11 đôi giày, nhưng lại phát hiện quân đội hộ tống mình đều bị sát hại trên đường trở về.
