@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-23T22:05:59.899Z",
+  "lastUpdated": "2026-11-24T22:06:24.708Z",
   "languages": [
     "zh-TW",
     "en",
@@ -75,26 +75,26 @@
     "fr": {
       "total": 1194,
       "percentage": 100,
-      "fresh": 1185,
+      "fresh": 1186,
       "metadataStale": 3,
-      "stale": 6,
+      "stale": 5,
+      "missing": 0,
+      "orphan": 0,
+      "deficit": 0,
+      "freshPct": 99.3,
+      "bodyFreshPct": 99.6
+    },
+    "vi": {
+      "total": 1194,
+      "percentage": 100,
+      "fresh": 1184,
+      "metadataStale": 0,
+      "stale": 10,
       "missing": 0,
       "orphan": 0,
       "deficit": 0,
       "freshPct": 99.2,
-      "bodyFreshPct": 99.5
-    },
-    "vi": {
-      "total": 1193,
-      "percentage": 99.9,
-      "fresh": 1182,
-      "metadataStale": 0,
-      "stale": 11,
-      "missing": 1,
-      "orphan": 0,
-      "deficit": 1,
-      "freshPct": 99,
-      "bodyFreshPct": 99
+      "bodyFreshPct": 99.2
     },
     "id": {
       "total": 1194,
@@ -123,25 +123,25 @@
     "hi": {
       "total": 1194,
       "percentage": 100,
-      "fresh": 1183,
-      "metadataStale": 1,
-      "stale": 10,
+      "fresh": 1181,
+      "metadataStale": 2,
+      "stale": 11,
       "missing": 0,
       "orphan": 0,
       "deficit": 0,
-      "freshPct": 99.1,
-      "bodyFreshPct": 99.2
+      "freshPct": 98.9,
+      "bodyFreshPct": 99.1
     },
     "ar": {
       "total": 1194,
       "percentage": 100,
-      "fresh": 1189,
-      "metadataStale": 1,
+      "fresh": 1190,
+      "metadataStale": 0,
       "stale": 4,
       "missing": 0,
       "orphan": 0,
       "deficit": 0,
-      "freshPct": 99.6,
+      "freshPct": 99.7,
       "bodyFreshPct": 99.7
     },
     "ru": {
@@ -159,13 +159,13 @@
     "de": {
       "total": 1194,
       "percentage": 100,
-      "fresh": 1162,
-      "metadataStale": 8,
+      "fresh": 1157,
+      "metadataStale": 13,
       "stale": 24,
       "missing": 0,
       "orphan": 0,
       "deficit": 0,
-      "freshPct": 97.3,
+      "freshPct": 96.9,
       "bodyFreshPct": 98
     }
   },
@@ -296,8 +296,8 @@
       },
       "vi": {
         "count": 52,
-        "fresh": 50,
-        "stale": 2,
+        "fresh": 51,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
@@ -323,11 +323,11 @@
         "deficit": 0
       },
       "ar": {
-        "count": 51,
-        "fresh": 51,
+        "count": 52,
+        "fresh": 52,
         "stale": 0,
         "missing": 0,
-        "deficit": 1
+        "deficit": 0
       },
       "ru": {
         "count": 52,
@@ -556,11 +556,11 @@
         "deficit": 0
       },
       "vi": {
-        "count": 90,
-        "fresh": 89,
+        "count": 91,
+        "fresh": 90,
         "stale": 1,
-        "missing": 1,
-        "deficit": 1
+        "missing": 0,
+        "deficit": 0
       },
       "id": {
         "count": 89,
@@ -724,8 +724,8 @@
       },
       "fr": {
         "count": 94,
-        "fresh": 93,
-        "stale": 1,
+        "fresh": 94,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
@@ -1099,11 +1099,11 @@
         "deficit": 0
       },
       "hi": {
-        "count": 299,
-        "fresh": 297,
+        "count": 298,
+        "fresh": 296,
         "stale": 2,
         "missing": 0,
-        "deficit": 0
+        "deficit": 1
       },
       "ar": {
         "count": 299,
@@ -1120,11 +1120,11 @@
         "deficit": 0
       },
       "de": {
-        "count": 292,
-        "fresh": 275,
+        "count": 287,
+        "fresh": 270,
         "stale": 17,
         "missing": 0,
-        "deficit": 7
+        "deficit": 12
       }
     },
     "politics": {
@@ -1361,8 +1361,8 @@
       },
       "hi": {
         "count": 69,
-        "fresh": 68,
-        "stale": 1,
+        "fresh": 67,
+        "stale": 2,
         "missing": 0,
         "deficit": 0
       },
@@ -1389,11 +1389,7 @@
       }
     }
   },
-  "missing": {
-    "vi": [
-      "Food/愛玉：用手洗出來的凍，和一種只替它工作的蜂.md"
-    ]
-  },
+  "missing": {},
   "statusSource": "translation-status.json",
   "orphans": {
     "en": [],

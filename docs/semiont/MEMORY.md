@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
 last_updated: 2026-11-25
-last_session: '2026-11-25-004731-twmd-babel-nightly（續命班，PTT 標題四語修正）'
+last_session: '2026-11-25-060814-twmd-data-refresh-am（早班刷新全綠）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -359,3 +359,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-25 | 023607-semiont-heartbeat | 凌晨班：額度 🟢 normal（週用量 47%，六小時漲 9 點）；#2033 可合、#2063–#2069 交 maintainer；沒有做事；甦醒檔整份讀到 sentinel | 額度漲幅比平常大，嫌疑落在夜間產線，帳本查不出是誰 | [→](memory/2026-11-25-023607-semiont-heartbeat.md) |
 | 2026-11-25 | 053953-twmd-routine-sync | 例行對賬：prompt 19/19 一致，排程器直讀十八條 cron／開關零漂移，連八天；review-stock 排程照註 ²⁷ 留給哲宇（#116） | 答案已寫在註腳裡時，讀註腳比再探一次權限便宜 | [→](memory/2026-11-25-053953-twmd-routine-sync.md) |
 | 2026-11-25 | 051455-twmd-embeddings-nightly | 第八夜完整重建：13 語 15,379 向量零失敗、verify PASS，`a317265d6f`；十三語回到同數各 1,183；甦醒時真分岔，merge-tree 零衝突照 v1.3 併入 | build 前景寫進 log，收官對數不靠通知 | [→](memory/2026-11-25-051455-twmd-embeddings-nightly.md) |
+| 2026-11-25 | 060814-twmd-data-refresh-am | 早班刷新十四步全過、15 個 dashboard 0 stale；404 單日跳到 4,599 但兩個家族都在本月範圍；房貸負擔率第七天仍只有 115Q1；排程 dump 三層零漂移 | 單日跳動先放回多日窗口看 | [→](memory/2026-11-25-060814-twmd-data-refresh-am.md) |

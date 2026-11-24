@@ -1,8 +1,8 @@
 {
-  "totalArticles": 15521,
+  "totalArticles": 15522,
   "totalCategories": 15,
   "estimatedContributors": 81,
-  "totalTags": 9181,
+  "totalTags": 9174,
   "categories": [
     {
       "name": "people",
@@ -22,7 +22,7 @@
     },
     {
       "name": "food",
-      "count": 1182
+      "count": 1183
     },
     {
       "name": "economy",
@@ -68,7 +68,7 @@
   "topTags": [
     {
       "name": "人物",
-      "count": 61
+      "count": 58
     },
     {
       "name": "Economy",
@@ -131,16 +131,16 @@
       "count": 23
     },
     {
-      "name": "기업",
-      "count": 23
-    },
-    {
       "name": "台灣文化",
       "count": 22
     },
     {
-      "name": "原住民",
-      "count": 21
+      "name": "기업",
+      "count": 22
+    },
+    {
+      "name": "인물",
+      "count": 20
     },
     {
       "name": "高雄",
@@ -148,7 +148,7 @@
     }
   ],
   "languageDistribution": {
-    "vi": 1193,
+    "vi": 1194,
     "es": 1194,
     "ko": 1194,
     "hi": 1194,
@@ -162,7 +162,7 @@
     "ar": 1194,
     "pt": 1194
   },
-  "lastUpdated": "2026-11-23T22:05:36.171Z",
+  "lastUpdated": "2026-11-24T22:06:02.124Z",
   "stars": 1252,
   "forks": 191,
   "zhPages": 1192,
@@ -173,7 +173,7 @@
     "ko": 1194,
     "es": 1194,
     "fr": 1194,
-    "vi": 1193,
+    "vi": 1194,
     "id": 1194,
     "pt": 1194,
     "hi": 1194,

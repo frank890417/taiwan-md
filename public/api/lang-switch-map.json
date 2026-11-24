@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T22:05:31.067Z",
+  "generated_at": "2026-11-24T22:05:57.399Z",
   "languages": [
     "en",
     "ja",
@@ -14,7 +14,7 @@
     "ru",
     "de"
   ],
-  "total_entries": 42621,
+  "total_entries": 42624,
   "registry": {
     "en": {
       "toZh": {
@@ -18077,6 +18077,7 @@
         "/vi/economy/yahoo-kimo-taiwan": "/economy/Yahoo-kimo",
         "/vi/economy/zhongli": "/economy/%E4%B8%AD%E5%A3%A2",
         "/vi/food/ah-po-iron-eggs": "/food/%E9%98%BF%E5%A9%86%E9%90%B5%E8%9B%8B",
+        "/vi/food/aiyu": "/food/%E6%84%9B%E7%8E%89",
         "/vi/food/apple-cider": "/food/%E8%98%8B%E6%9E%9C%E8%A5%BF%E6%89%93",
         "/vi/food/ba-pu-ice-cream": "/food/%E5%8F%AD%E5%99%97%E5%86%B0",
         "/vi/food/ba-wan-meatball": "/food/%E8%82%89%E5%9C%93",
@@ -19533,6 +19534,8 @@
         "/economy/中壢": "/vi/economy/zhongli",
         "/food/%E9%98%BF%E5%A9%86%E9%90%B5%E8%9B%8B": "/vi/food/ah-po-iron-eggs",
         "/food/阿婆鐵蛋": "/vi/food/ah-po-iron-eggs",
+        "/food/%E6%84%9B%E7%8E%89": "/vi/food/aiyu",
+        "/food/愛玉": "/vi/food/aiyu",
         "/food/%E8%98%8B%E6%9E%9C%E8%A5%BF%E6%89%93": "/vi/food/apple-cider",
         "/food/蘋果西打": "/vi/food/apple-cider",
         "/food/%E5%8F%AD%E5%99%97%E5%86%B0": "/vi/food/ba-pu-ice-cream",

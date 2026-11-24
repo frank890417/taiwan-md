@@ -103,7 +103,7 @@ a human — that boundary is the design, not a limitation. The full contract is
 | 🇰🇷 한국어 (ko)                 | 1194  |
 | 🇪🇸 Español (es)                | 1194  |
 | 🇫🇷 Français (fr)               | 1194  |
-| 🇻🇳 Tiếng Việt (vi)             | 1193  |
+| 🇻🇳 Tiếng Việt (vi)             | 1194  |
 | 🇮🇩 Bahasa Indonesia (id)       | 1194  |
 | 🇵🇹 Português (pt)              | 1194  |
 | 🇮🇳 हिन्दी (hi)                 | 1194  |
@@ -116,8 +116,8 @@ a human — that boundary is the design, not a limitation. The full contract is
 | 👥 Contributors                | 81    |
 | ⭐ GitHub Stars                | 1252  |
 | 🍴 Forks                       | 191   |
-| 📅 Articles last 7 days        | 45    |
-| 📅 Articles last 30 days       | 100   |
+| 📅 Articles last 7 days        | 29    |
+| 📅 Articles last 30 days       | 101   |
 
 <!-- STATS:END -->
 

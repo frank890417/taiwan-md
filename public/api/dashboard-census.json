@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-24",
+  "generated": "2026-11-25",
   "generator": "scripts/tools/article-census.py",
-  "head": "af683c2bb",
+  "head": "056fecb64",
   "scope": "knowledge/{Category}/*.md（中文 SSOT；不含 knowledge/{lang}/ 譯文與 _ hub）",
   "n": 1192,
   "thresholds": {
@@ -24,8 +24,8 @@
   "traffic_sources": {
     "ga": {
       "file": "public/api/dashboard-analytics.json:ga.topArticles7d",
-      "start": "2026-10-27",
-      "end": "2026-11-24",
+      "start": "2026-10-28",
+      "end": "2026-11-25",
       "days": 28,
       "rows": 20,
       "metric": "views",
@@ -38,7 +38,7 @@
     "C": "沒有可用封面圖",
     "D": "內文簡陋（該進 REWRITE），依流量排序"
   },
-  "tier_counts": { "A": 5, "B": 3, "C": 914, "D": 248 },
+  "tier_counts": { "A": 5, "B": 3, "C": 914, "D": 245 },
   "curation_counts": { "none": 141, "incubating": 1049, "verified": 2 },
   "curation_reason_counts": { "none": 369, "unverified": 568, "thin": 112 },
   "cover_counts": { "local": 278, "none": 914 },
@@ -47,7 +47,7 @@
     "all": {
       "n": 1183,
       "cjk": {
-        "p5": 1261,
+        "p5": 1258,
         "p10": 1496,
         "p25": 2019,
         "p33": 2390,
@@ -55,7 +55,7 @@
         "p75": 4622,
         "p90": 6018,
         "n": 1183,
-        "mean": 3542.7
+        "mean": 3542.3
       },
       "fn_defs": {
         "p5": 0,
@@ -66,7 +66,7 @@
         "p75": 20,
         "p90": 36,
         "n": 1183,
-        "mean": 15.8
+        "mean": 15.9
       }
     },
     "walked_rewrite": {
@@ -80,7 +80,7 @@
         "p75": 6082,
         "p90": 7355,
         "n": 408,
-        "mean": 4791.1
+        "mean": 4791.0
       },
       "fn_defs": {
         "p5": 5,
@@ -97,7 +97,7 @@
     "no_evidence": {
       "n": 607,
       "cjk": {
-        "p5": 1216,
+        "p5": 1214,
         "p10": 1364,
         "p25": 1798,
         "p33": 1994,
@@ -105,7 +105,7 @@
         "p75": 3760,
         "p90": 4704,
         "n": 607,
-        "mean": 2901.8
+        "mean": 2901.3
       },
       "fn_defs": {
         "p5": 0,
@@ -122,7 +122,7 @@
     "incubating": {
       "n": 1049,
       "cjk": {
-        "p5": 1247,
+        "p5": 1245,
         "p10": 1457,
         "p25": 1951,
         "p33": 2315,
@@ -130,7 +130,7 @@
         "p75": 4625,
         "p90": 6046,
         "n": 1049,
-        "mean": 3534.7
+        "mean": 3534.3
       },
       "fn_defs": {
         "p5": 0,
@@ -285,17 +285,6 @@
         "cover": "none",
         "cjk": 1322,
         "fn": 5
-      },
-      {
-        "path": "knowledge/People/蕭上農.md",
-        "title": "蕭上農：從遊戲 PM 到 INSIDE 創辦人，台灣網路圈的里長伯",
-        "category": "People",
-        "curation": null,
-        "curationReason": null,
-        "reason": "3 軸弱：字數 1788、零媒體、段落 28 段／中位 33 字",
-        "cover": "none",
-        "cjk": 1788,
-        "fn": 9
       },
       {
         "path": "knowledge/Art/EEWH綠建築標章.md",
@@ -812,17 +801,6 @@
         "reason": "3 軸弱：字數 2069、腳註 0、零媒體",
         "cover": "none",
         "cjk": 2069,
-        "fn": 0
-      },
-      {
-        "path": "knowledge/Economy/台灣動畫代工.md",
-        "title": "台灣動畫代工",
-        "category": "Economy",
-        "curation": "incubating",
-        "curationReason": null,
-        "reason": "3 軸弱：字數 1329、腳註 0、零媒體",
-        "cover": "none",
-        "cjk": 1329,
         "fn": 0
       },
       {
@@ -2212,6 +2190,17 @@
         "fn": 0
       },
       {
+        "path": "knowledge/People/蕭上農.md",
+        "title": "蕭上農：從遊戲 PM 到 INSIDE 創辦人，台灣網路圈的里長伯",
+        "category": "People",
+        "curation": null,
+        "curationReason": null,
+        "reason": "3 軸弱：字數 1788、零媒體、段落 28 段／中位 33 字",
+        "cover": "none",
+        "cjk": 1788,
+        "fn": 9
+      },
+      {
         "path": "knowledge/People/蕭敬騰.md",
         "title": "蕭敬騰",
         "category": "People",
@@ -2872,17 +2861,6 @@
         "fn": 0
       },
       {
-        "path": "knowledge/Technology/PTT批踢踢.md",
-        "title": "PTT 批踢踢：台灣最頑固的公共廣場",
-        "category": "Technology",
-        "curation": "incubating",
-        "curationReason": null,
-        "reason": "3 軸弱：字數 1842、腳註 0、零媒體",
-        "cover": "none",
-        "cjk": 1842,
-        "fn": 0
-      },
-      {
         "path": "knowledge/Technology/台灣Game-Jam社群.md",
         "title": "台灣 Game Jam 社群",
         "category": "Technology",
@@ -2980,17 +2958,6 @@
         "cover": "none",
         "cjk": 1609,
         "fn": 12
-      },
-      {
-        "path": "knowledge/Technology/開源社群與g0v.md",
-        "title": "開源社群與g0v",
-        "category": "Technology",
-        "curation": null,
-        "curationReason": null,
-        "reason": "3 軸弱：腳註 0、零媒體、段落 43 段／中位 47 字",
-        "cover": "none",
-        "cjk": 3089,
-        "fn": 0
       }
     ]
   },
@@ -3001,7 +2968,7 @@
     "knowledge/People/李宗盛.md",
     "knowledge/Politics/歡樂無法黨.md",
     "knowledge/Society/電網韌性.md",
-    "knowledge/Economy/新台幣.md",
+    "knowledge/People/吳季剛.md",
     "knowledge/Art/歌仔戲.md",
     "knowledge/Art/總統府.md",
     "knowledge/Culture/原住民織布.md",
@@ -3027,6 +2994,7 @@
     "knowledge/Economy/台灣糖業.md",
     "knowledge/Economy/台灣蘭花.md",
     "knowledge/Economy/台灣造船業.md",
+    "knowledge/Economy/新台幣.md",
     "knowledge/Economy/造紙.md",
     "knowledge/Food/台灣鐵路便當.md",
     "knowledge/Food/大溪豆乾.md",
@@ -3096,7 +3064,6 @@
     "knowledge/People/八炯.md",
     "knowledge/People/六指淵.md",
     "knowledge/People/千千進食中.md",
-    "knowledge/People/吳季剛.md",
     "knowledge/People/啾啾鞋.md",
     "knowledge/People/囧星人.md",
     "knowledge/People/廖添丁.md",
@@ -3139,13 +3106,12 @@
     "knowledge/People/徐巧芯.md",
     "knowledge/People/凹與山.md",
     "knowledge/People/三毛.md",
-    "knowledge/Technology/雪山隧道.md",
-    "knowledge/People/吳百福.md",
     "knowledge/People/魏哲家.md",
     "knowledge/Society/台灣的道德課去哪了.md",
-    "knowledge/People/賴清德.md",
-    "knowledge/People/蕭上農.md",
+    "knowledge/People/吳百福.md",
     "knowledge/People/傅崐萁.md",
+    "knowledge/People/賴清德.md",
+    "knowledge/Technology/雪山隧道.md",
     "knowledge/Lifestyle/夜生活與KTV文化.md",
     "knowledge/About/台灣官方網站資源.md",
     "knowledge/About/台灣官方網站資源重寫.md",
@@ -3696,6 +3662,7 @@
     "knowledge/People/蔣中正.md",
     "knowledge/People/蔣渭水.md",
     "knowledge/People/蔣為文.md",
+    "knowledge/People/蕭上農.md",
     "knowledge/People/蕭敬騰.md",
     "knowledge/People/蕭煌奇.md",
     "knowledge/People/蕭美琴.md",
