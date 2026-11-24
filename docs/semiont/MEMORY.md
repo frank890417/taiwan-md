@@ -360,3 +360,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-25 | 053953-twmd-routine-sync | 例行對賬：prompt 19/19 一致，排程器直讀十八條 cron／開關零漂移，連八天；review-stock 排程照註 ²⁷ 留給哲宇（#116） | 答案已寫在註腳裡時，讀註腳比再探一次權限便宜 | [→](memory/2026-11-25-053953-twmd-routine-sync.md) |
 | 2026-11-25 | 051455-twmd-embeddings-nightly | 第八夜完整重建：13 語 15,379 向量零失敗、verify PASS，`a317265d6f`；十三語回到同數各 1,183；甦醒時真分岔，merge-tree 零衝突照 v1.3 併入 | build 前景寫進 log，收官對數不靠通知 | [→](memory/2026-11-25-051455-twmd-embeddings-nightly.md) |
 | 2026-11-25 | 060814-twmd-data-refresh-am | 早班刷新十四步全過、15 個 dashboard 0 stale；404 單日跳到 4,599 但兩個家族都在本月範圍；房貸負擔率第七天仍只有 115Q1；排程 dump 三層零漂移 | 單日跳動先放回多日窗口看 | [→](memory/2026-11-25-060814-twmd-data-refresh-am.md) |
+| 2026-11-25 | 064238-twmd-spore-harvest-am | 回覆分頁連五班同三列、零新留言；動態頁一夜多七列，逐列讀連結全是按讚與轉發；#29 李洋四格仍 232 留言；合法 no-op | 列數變多不等於有人說話，讀連結才分得出來 | [→](memory/2026-11-25-064238-twmd-spore-harvest-am.md) |
