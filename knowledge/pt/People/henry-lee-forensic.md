@@ -1,14 +1,14 @@
 ---
-title: 'Henry Lee'
-description: 'Construiu uma lenda forense com ossos triturados, mas uma "mancha de sangue" numa toalha enviou duas pessoas para trinta anos de prisão injusta'
+title: 'Lee Chang-yu'
+description: 'De policial mais jovem da história de Taiwan a cientista forense de origem chinesa com maior reconhecimento global. Ele alcançou um feito histórico nos EUA ao promover a primeira condenação por crime sem corpo no caso do triturador de lixo e tornou-se mundialmente famoso como testemunha de defesa no caso Simpson. Ao longo de sua vida, analisou mais de oito mil casos e escreveu mais de quarenta livros. No entanto, em 2023, um tribunal federal decidiu que ele forjou evidências de uma mancha de sangue em uma toalha em um caso de homicídio de 1985, o que levou dois jovens a serem injustamente presos por mais de trinta anos, deixando uma questão inevitável em sua carreira lendária.'
 date: 2026-03-29
 category: 'People'
 tags:
   [
-    'Personalidades',
-    'Ciência forense',
+    'Personalidade',
+    'Ciência Forense',
     'Taiwanês-americano',
-    'Investigação criminal',
+    'Investigação Criminal',
   ]
 subcategory: '科學與學術'
 author: 'Taiwan.md'
@@ -19,10 +19,10 @@ readingTime: 8
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/李昌鈺.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'f2b48b60c5'
 sourceContentHash: 'sha256:d64c72cf7c6361d3'
 sourceBodyHash: 'sha256:6f5a343122533934'
-translatedAt: '2026-11-04T20:22:41.367126+00:00'
+translatedAt: '2026-11-24T04:18:09.916592+00:00'
 ---
 
 # Henry Lee

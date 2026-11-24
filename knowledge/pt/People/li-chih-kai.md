@@ -1,29 +1,29 @@
 ---
 title: 'Lee Chih-kai'
-description: "Do 'Kai do mercado' de 'Vai, Menino!' à medalha de prata olímpica, os dezesseis anos de vida na ginástica do príncipe do cavalo com alças de Taiwan"
+description: 'O "Príncipe do Cavalo com Alças" da ginástica taiwanesa. Nascido em 1996, ingressou na equipe de ginástica da Escola Primária Gongzheng, em Yilan, aos 6 anos. Aos 9 anos, foi apelidado de "Kai do Mercado" devido ao documentário "Roll on! Boys". Ele ascendeu com seu movimento assinatura, o giro Thomas, conquistando a primeira medalha de ouro da ginástica de Taiwan nos Jogos Asiáticos em 2018. Nos Jogos Olímpicos de Tóquio 2021, conquistou a prata no cavalo com alças com uma pontuação de 15.400, escrevendo o nome de Taiwan na história ao conquistar a primeira medalha olímpica da ginástica do país. Sua técnica foi inclusive adotada pela Federação Internacional de Ginástica como um plano de aula padrão, provando através de dezesseis anos de dedicação que a ginástica de base também pode alcançar o mundo.'
 date: 2026-03-21
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '體育'
 tags:
   [
-    'Figuras',
+    'Personalidade',
     'Lee Chih-kai',
     'Ginástica',
-    'Jogos Olímpicos',
+    'Olimpíadas',
     'Medalha de prata',
     'Atleta',
     'Cavalo com alças',
     'Taiwan',
   ]
+subcategory: '體育'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
-featured: false
 translatedFrom: 'People/李智凱.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'f75a0392a4'
 sourceContentHash: 'sha256:40c8b34419f44594'
 sourceBodyHash: 'sha256:cb29681047e37872'
-translatedAt: '2026-07-25T09:23:09+08:00'
+translatedAt: '2026-11-24T04:08:38.778869+00:00'
 ---
 
 # Lee Chih-kai

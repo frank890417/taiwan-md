@@ -1,16 +1,16 @@
 ---
-title: 'Lin Yi-jie'
-description: 'De garoto magro rejeitado pela equipe de atletismo, a corredor polar que fez história atravessando o Saara a pé'
+title: 'Lin Yijie'
+description: "De um menino magro rejeitado pela equipe de atletismo, a um dos três primeiros humanos a atravessar o Deserto do Saara a pé: em 2006, ele percorreu 7.500 km em 111 dias, gastando 11 pares de sapatos, passando por cinco países politicamente instáveis, e conquistou o título geral do Grand Slam de Ultramaratonas dos Quatro Polos. O documentário 'Decisão no Saara' fez o mundo conhecer este corredor taiwanês; a controvérsia judicial sobre direitos autorais após sua aposentadoria revela a verdade complexa por trás do halo de herói."
 date: 2026-03-22
 category: 'People'
 tags:
   [
     'Personalidades',
-    'Ultramaratona',
+    'Ultramaratonas',
     'Exploração Polar',
-    'Atleta',
+    'Atletas',
     'Deserto do Saara',
-    'Orgulho de Taiwan',
+    'Luz de Taiwan',
   ]
 subcategory: '體育'
 author: 'Taiwan.md'
@@ -20,10 +20,10 @@ lastHumanReview: false
 readingTime: 7
 curation: 'incubating'
 translatedFrom: 'People/林義傑.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: 'f2b48b60c5'
 sourceContentHash: 'sha256:8741429d614846be'
 sourceBodyHash: 'sha256:3713eaac6b565ca6'
-translatedAt: '2026-08-04T17:42:35+08:00'
+translatedAt: '2026-11-24T04:32:41.326822+00:00'
 ---
 
 > **Resumo de 30 segundos:** Lin Yi-jie (林義傑), um garoto magro que o professor de educação física ameaçou com «não pode vencer o veterano» no ensino fundamental, tornou-se em 2006 um dos três primeiros seres humanos a atravessar o Deserto do Saara a pé. 111 dias para completar 7 500 km, 11 pares de tênis gastos, só para descobrir meses depois que o exército que os escoltara fora massacrado na viagem de volta.

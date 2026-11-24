@@ -1,28 +1,28 @@
 ---
 title: 'Tai Tzu-ying'
-description: 'Detentora do recorde de 214 semanas como número 1 mundial, de Kaohsiung Qianzhen à prata olímpica, a rainha do badminton de Taiwan'
+description: 'Nascida em 1994 no distrito de Cianjhen, em Kaohsiung, a rainha do badminton de Taiwan começou a jogar aos 7 anos e, aos 12, tornou-se a atleta mais jovem da divisão principal de badminton de Taiwan. Em 2016, alcançou pela primeira vez o número 1 do mundo, tornando-se a primeira campeã mundial de badminton de Taiwan, acumulando 214 semanas no topo do ranking — o recorde mais longo da história do individual feminino. Com 32 títulos do circuito mundial, três títulos do All England Open e a medalha de prata nos Jogos Olímpicos de Tóquio 2021, ela estabeleceu um padrão. Com seu estilo de jogo versátil e uma taxa de vitórias na carreira superior a 73%, redefiniu a posição de Taiwan no badminton internacional.'
 date: 2026-03-21
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '體育'
 tags:
   [
-    'Pessoas',
+    'Personalidade',
     'Tai Tzu-ying',
     'Badminton',
-    'Número 1 Mundial',
-    'Jogos Olímpicos',
+    'Número 1 mundial',
+    'Olimpíadas',
     'Atleta',
     'Taiwan',
   ]
+subcategory: '體育'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-21
 lastHumanReview: true
-featured: true
 translatedFrom: 'People/戴資穎.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'f75a0392a4'
 sourceContentHash: 'sha256:1a1c26aae26ed9f8'
 sourceBodyHash: 'sha256:72bb27cc8697bfee'
-translatedAt: '2026-07-25T04:46:10+08:00'
+translatedAt: '2026-11-24T04:06:38.669512+00:00'
 ---
 
 # Tai Tzu-ying

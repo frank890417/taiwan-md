@@ -1,16 +1,16 @@
 ---
 title: 'Hou Hsiao-hsien'
-description: 'Um poeta do cinema que recusou planos de detalhe e conquistou o mundo — um revolucionário da imagem de gramática antifilme'
+description: 'Mestre do Novo Cinema Taiwanês que subverteu a gramática cinematográfica com longas tomadas e "olhar objetivo", recusando close-ups e fazendo a câmera acompanhar os atores; em 1989 conquistou o primeiro Leão de Ouro de Veneza para Taiwan com "A Cidade Dolorosa", em 1993 "O Mestre das Marionetes" ganhou o Prêmio do Júri em Cannes, em 1998 "Flores de Xangai" foi filmado inteiramente em dialeto de Xangai, em 2015 "A Assassina" lhe rendeu novamente o prêmio de Melhor Diretor em Cannes; sua estética influenciou diretores renomados como Jia Zhangke e Hirokazu Kore-eda; aposentou-se em 2023 devido ao Alzheimer, deixando uma linguagem visual única para o cinema de língua chinesa.'
 date: 2026-03-24
 category: 'People'
 tags:
   [
     'Hou Hsiao-hsien',
-    'Novo Cinema de Taiwan',
+    'Novo Cinema Taiwanês',
     'Leão de Ouro de Veneza',
     'Festival de Cannes',
     'Estética Cinematográfica',
-    'Plano-Sequência',
+    'Longa Tomada',
   ]
 subcategory: '電影與戲劇'
 author: 'Taiwan.md'
@@ -177,10 +177,10 @@ lifeTree:
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/侯孝賢.md'
-sourceCommitSha: 'b1a5fea00'
+sourceCommitSha: 'f75a0392a4'
 sourceContentHash: 'sha256:16a0f8bff9cea010'
 sourceBodyHash: 'sha256:4bfda7146e522cab'
-translatedAt: '2026-11-18T15:45:43.903808+00:00'
+translatedAt: '2026-11-24T03:41:57.790006+00:00'
 ---
 
 # Hou Hsiao-hsien

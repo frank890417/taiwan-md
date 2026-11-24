@@ -1,17 +1,17 @@
 ---
-title: 'Morris Chang (Zhang Zhongmou)'
-description: 'Patriarca do semicondutor, fundador da TSMC, empreendedor lendário que transformou a indústria global de tecnologia com o modelo de fabricação de wafers'
+title: 'Morris Chang'
+description: "Empreendedor taiwanês conhecido como o 'Padrinho dos Semicondutores'. Após servir como gerente geral do grupo de semicondutores da Texas Instruments, retornou a Taiwan em 1985 para assumir a presidência do ITRI. Em 1987, fundou a TSMC e introduziu o modelo pioneiro de fundição de semicondutores (foundry), permitindo que empresas de design de chips não precisassem construir suas próprias fábricas. Isso remodelou completamente o ecossistema da indústria global de semicondutores e tornou Taiwan um nó central na cadeia de suprimentos tecnológica mundial. Em 2009, aos 78 anos, retornou para liderar a empresa durante a crise financeira, e em 2018, concluiu a sucessão geracional da TSMC através de um sistema de co-liderança."
 date: 2026-03-17
 category: 'People'
 tags:
   [
-    'pessoa',
+    'Personalidades',
     'Morris Chang',
     'TSMC',
-    'semicondutores',
-    'empreendedorismo',
-    'fabricação de wafers',
-    '"montanha protetora"',
+    'Semicondutores',
+    'Empreendedor',
+    'Fundição de semicondutores',
+    'Montanha Protetora da Nação',
   ]
 subcategory: '科技與企業'
 author: 'Taiwan.md Contributors'
@@ -225,10 +225,10 @@ lifeTree:
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/張忠謀.md'
-sourceCommitSha: 'b1a5fea00'
+sourceCommitSha: 'f2b48b60c5'
 sourceContentHash: 'sha256:a6a3cf2441fdbe3c'
 sourceBodyHash: 'sha256:0b0d1fd6c8d63d0e'
-translatedAt: '2026-11-18T15:04:56.198670+00:00'
+translatedAt: '2026-11-24T03:39:10.304254+00:00'
 ---
 
 # Zhang Zhongmou (Morris Chang)

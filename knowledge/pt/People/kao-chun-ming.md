@@ -1,20 +1,20 @@
 ---
-title: 'Kao Chun-ming'
-description: 'Um estranho que ele jamais viu, colocando a vida e a igreja em risco — a escolha de fé por trás do Incidente de Formosa'
+title: 'Kao Chun-ming (高俊明)'
+description: 'Secretário-geral da Igreja Presbiteriana de Taiwan e prisioneiro de consciência reconhecido pela Anistia Internacional. Após o Incidente de Formosa em 1979, criou uma rede clandestina para esconder Shi Ming-te, o qual mal conhecia; foi condenado a sete anos de prisão e confisco de bens em 1980. Sua poesia escrita na prisão venceu o Golden Melody Award, e após a libertação, dedicou-se à justiça transicional e à teologia local até seu falecimento em 2019.'
 date: 2026-03-22
 category: 'People'
-subcategory: '政治與民主'
 tags:
   [
-    'Pessoa',
+    'Pessoas',
     'Pastor',
-    'Movimento dos Direitos Humanos',
-    'Período da Lei Martial',
+    'Movimento pelos Direitos Humanos',
+    'Período da Lei Marcial',
     'Prisioneiro de Consciência',
-    'Igreja Presbiteriana da Taiwan',
+    'Igreja Presbiteriana',
     'Incidente de Formosa',
-    'Shih Ming-te',
+    'Shi Ming-te',
   ]
+subcategory: '政治與民主'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-22
@@ -22,125 +22,120 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/高俊明.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'f2b48b60c5'
 sourceContentHash: 'sha256:eaeba845240b369e'
 sourceBodyHash: 'sha256:b37aec09305a898c'
-translatedAt: '2026-07-25T03:42:45+08:00'
+translatedAt: '2026-11-24T11:37:54+08:00'
 ---
 
-> **Visão geral em 30 segundos:** O pastor Kao Chun-ming (1929-2019) foi preso por 4 anos por esconder o fugitivo do Incidente de Formosa Shih Ming-te, mas eles quase não se conheciam — só se encontraram duas vezes em eventos públicos.
-> Esta é uma história sobre escolhas de fé: quando a moralidade conflita com os riscos reais, ele optou pela primeira.
+> **Resumo em 30 segundos:** O pastor Kao Chun-ming (1929-2019) foi preso por quatro anos ao esconder o fugitivo do Incidente de Formosa, Shi Ming-te, embora ambos fossem quase estranhos — tendo se visto apenas duas vezes em eventos públicos. É uma história sobre escolhas de fé: quando o dever moral colidiu com o risco real, ele escolheu o primeiro.
 
-Na noite de 24 de abril de 1980, o diretor-geral da Igreja Presbiteriana da Taiwan, Kao Chun-ming, estava banhando-se em casa quando sua filha bateu à porta: "Pai, muita gente disse que precisa encontrar Kao Chun-ming." Ele saiu do chuveiro e foi recebido por oito homens fortes na sala de espera. Eles saíram juntos para a cadeia militar de Xinzi.
+Na noite de 24 de abril de 1980, Kao Chun-ming, então secretário-geral da Igreja Presbiteriana de Taiwan, estava tomando banho em sua casa quando sua filha bateu à porta: "Papai, tem muita gente lá fora dizendo que quer falar com o senhor Kao Chun-ming". Ao sair do banheiro, encontrou sete ou oito homens robustos sentados em sua sala e carros estacionados em frente à casa. Ele cumprimentou cada um deles com um aperto de mão antes de ser levado para a detenção militar de Xindian.
 
-Os 4 anos, 3 meses e 21 dias de prisão que se seguiram surgiram da ajuda de um estranho.
+A prisão de 4 anos, 3 meses e 21 dias que começou naquela noite foi motivada pelo pedido de ajuda de um estranho.
 
-## Dois Enfrentamentos Perigosos
+## O encontro perigoso entre dois desconhecidos
 
-**"Eu não conhecia Shih Ming-te, parecia que só nos encontramos duas vezes em eventos públicos."**
+**"Eu não conhecia Shi Ming-te; acho que só nos vimos duas vezes em público."**
 
-Kao Chun-ming escreveu isso em seu diário. Uma vez em um restaurante, ele e um amigo comeram juntos, e o amigo apontou para um homem e disse: "Ele é Shih Ming-te." Outra vez, um pastor da Coreia do Sul visitou e o conheceu brevemente. Para alguém descrito em jornais como "condenado à morte, preso na Ilha Verde, posteriormente perdoado", isso era tudo o que Kao sabia.
+Kao Chun-ming escreveu isso mais tarde em suas memórias. Uma vez foi em um restaurante com amigos, quando um deles apontou para um homem e disse: "Aquele é o Shi Ming-te". A outra foi durante a visita de um pastor coreano; apenas isso. Para ele, Shi era apenas o homem descrito pela imprensa como alguém que "havia sido condenado à morte, encarcerado na Ilha Verde (Green Island) e depois indultado".
 
-No dia 10 de dezembro de 1979, o Incidente de Formosa explodiu. Três dias depois, o Partido Nacionalista (Kuomintang) iniciou uma prisão em massa. Shih Ming-te escapou e o governo ofereceu recompensas: inicialmente 500.000, depois 1 milhão, 2 milhões e, finalmente, 2,5 milhões de novos dólares taiuaneses — uma procura intensa que fez com que "até a grama e as árvores fossem armadas".
+O Incidente de Formosa eclodiu em 10 de dezembro de 1979, e três dias depois, o Kuomintang (KMT) iniciou uma grande onda de prisões. Shi Ming-te conseguiu escapar, e o governo lançou uma recompensa: primeiro NT$500.000, depois NT$1 milhão, NT$2 milhões e, finalmente, NT$2,5 milhões. O clima era de paranoia extrema, onde "até as árvores pareciam soldados".
 
-Por volta de 15 de dezembro, o diretor do jornal "Bíblia", Zhao Chen-er, visitou a sede central da Igreja Presbiteriana e, fechando as portas, sussurrou a Kao: "Shih Ming-te está sem saída... espero que você encontre um jeito de ajudar."
+Por volta de 15 de dezembro, o pastor Chao Chen-er, secretário da Sociedade Bíblica, foi até a sede da Igreja Presbiteriana e, em voz baixa, disse a Kao Chun-ming: "Shi Ming-te não tem mais para onde ir... espero que você possa encontrar uma maneira de ajudar".
 
-> **📝 Nota do curador**
-> O peso desse pedido era grande: Kao liderava mais de 800 igrejas presbiterianas em Taiwan e 160.000 fiéis. Se ele fosse afetado, todo o sistema da igreja entraria em colapso.
+> **📝 Nota do Curador**
+> O peso deste pedido residia no fato de que Kao Chun-ming era responsável por mais de 800 igrejas presbiterianas e 160.000 fiéis em Taiwan. Se algo acontecesse com ele, todo o sistema eclesiástico seria abalado.
 
-Kao não respondeu imediatamente. Passou horas andando pelo escritório, pensando e orando. Seu assistente, Shih Shui-yun, o alertou: "Se Shih Ming-te for preso novamente, será condenado à morte."
+Kao Chun-ming não aceitou imediatamente. Ele caminhou de um lado para o outro em seu escritório por dez minutos, refletindo e orando. Sua assistente, Shih Jui-yun, alertou-o: "Se Shi Ming-te for capturado desta vez, será a pena de morte".
 
-Naquele momento, Kao tomou a decisão que mudaria a vida dos dois: "Certo, vou tentar."
+Naquele momento, Kao Chun-ming tomou a decisão que mudaria o destino de ambos: "Está bem, eu darei um jeito".
 
-## A Rede de Fuga Subterrânea de 26 Dias
+## Uma rede de fuga clandestina de 26 dias
 
-Kao estabeleceu uma rede de esconderijos precisa através da diretora da Academia Bíblica da Mulher, Lin Wen-zhen. Shih Ming-te inicialmente se escondeu em um prédio na Rua do Sul de Tung Hua, justamente no andar superior do prédio dos líderes do Partido Nacionalista. Usando um gorro de idoso, óculos de grau, sem dentes prótese e disfarçando-se como um idoso rural, ele passou duas semanas na casa de Lin. Depois, se mudou para um apartamento em Ximending, onde se contactou com o dentista Chang Teng-hsi para tratar os dentes e se preparar para uma cirurgia estética.
+Kao Chun-ming estabeleceu uma sofisticada rede de esconderijos através da diretora do seminário teológico feminino, Lin Wen-chen. Shi Ming-te escondeu-se primeiro em um edifício na Dunhua South Road — logo acima dos escritórios do KMT — usando um chapéu de idoso, óculos de leitura e removendo suas dentaduras para se passar por um senhor do campo.
 
-A rede de fuga operou por 26 dias. Em 8 de janeiro de 1980, Shih Ming-te foi preso em Ximending.
+Todos em casa o tratavam como um parente de uma zona rural. Shi Ming-te viveu na casa de Lin Wen-chen por duas semanas e depois mudou-se para a casa de Hsu Ching-fu, em Ximending, contatando o dentista Chang Wen-ying para cuidar de seus dentes e preparar sua aparência.
+
+Essa rede de fuga operou por 26 dias. Em 8 de janeiro de 1980, Shi Ming-te foi preso em Ximending.
 
 > **💡 Você sabia?**
-> A recompensa na época de 2,5 milhões de dólares taiuaneses equivale a cerca de 150 a 200 milhões de dólares em poder de compra hoje.
-> Foi a maior recompensa oferecida por um caso durante o período da Lei Martial em Taiwan.
+> O valor da recompensa de NT$2,5 milhões equivaleria hoje a cerca de NT$15 a NT$20 milhões em termos de poder de compra. Na época da Lei Marcial em Taiwan, era o maior valor de recompensa da história.
 
-Todas as pessoas envolvidas na ocultação foram presas: o patrão de Shih, o dentista, o assistente de Kao, Lin Wen-zhen... Restou apenas Kao, que enfrentou uma tormento interior, chorando de dia e de noite, orando para se voluntariar para pregar-se.
+Todos os envolvidos no esconderijo foram presos sucessivamente: Hsu Ching-fu, Wu Wen, Chang Wen-ying, Shih Jui-yun, Lin Wen-chen... restando apenas Kao Chun-ming do lado de fora. Ele enfrentou um tormento interno profundo, chorando e orando dia e noite, desejando se entregar para assumir toda a responsabilidade.
 
-Mas os pastores da Igreja Presbiteriana o deteram. Eles disseram: "Se você se entregar, a justiça será rápida, e a igreja e as organizações internacionais de direitos humanos não terão chance de resgatar você. Devemos adiar o máximo possível para chamar a atenção global."
+Mas os pastores da Igreja Presbiteriana o impediram. Eles disseram: "Se você se entregar, as autoridades decidirão rapidamente e não haverá chance de a igreja ou organizações internacionais de direitos humanos resgatá-lo. Você deve ganhar tempo e atrair atenção internacional".
 
-Os quatro meses de espera pela prisão foram mais torturadores que a prisão em si.
+Os quatro meses de espera pela prisão foram mais torturantes do que a própria detenção.
 
-## Declaração no Tribunal Militar
+## Declaração no tribunal militar
 
-Em 16 de maio de 1980, Kao proferiu sua declaração final no Tribunal Militar:
+Em 16 de maio de 1980, perante o tribunal militar, Kao Chun-ming fez sua declaração final:
 
-"Estou disposto a assumir todas as penas por Lin Wen-zhen e Shih Shui-yun, pois ambas foram puxadas para este caso por minha ação. Também quero demonstrar respeito aos demais acusados por sua caridade."
+"Estou disposto a assumir todas as punições de Lin Wen-chen e Shih Jui-yun, pois elas foram totalmente envolvidas por minha causa. Também desejo expressar meu respeito aos outros réus que ajudaram Shi Ming-te por amor".
 
-Ele continuou: "Há mais de 2.000 anos, um homem chamado Judas Iscariotes traiu seu mestre por ganância... Hoje, Judas é considerado o maior desprezo e vergonha entre cristãos do mundo todo. Na sociedade atual, há muitos Judas... Mas poucos estão dispostos a sacrificar sua vida por alguém em sofrimento, como esses nove acusados."
+Ele continuou: "Há mais de 1900 anos, houve um homem chamado Judas Iscariotes que, por interesse próprio, traiu seu mestre... Hoje, esse Judas tornou-se a pessoa mais desprezada e detestada pelos cristãos do mundo. Em nossa sociedade atual, há muitos como Judas... mas há poucos como estes nove réus, que estão dispostos a sacrificar a si mesmos pelos necessitados".
 
-> **✦** "Estou disposto a assumir as penas que devo tomar por esses nove acusados, e por isso estou disposto a pagar com minha vida e bens."
+> **✦** "Estou disposto a assumir todas as punições devidas a estes 9 réus; por isso, estou disposto a entregar minha vida e meus bens."
 
-O tribunal não aceitou seu pedido. Em 5 de junho de 1980, Kao foi condenado a 7 anos de prisão, com 5 anos de privação de direitos civis e a confiscação total de bens.
+O tribunal não aceitou seu pedido. Em 5 de junho de 1980, Kao Chun-ming foi condenado a 7 anos de prisão, 5 anos de suspensão de direitos políticos e o confisco total de seus bens.
 
-## Prisioneiro de Consciência e Cadeira Vazia
+## Prisioneiro de consciência internacional e a cadeira vazia
 
-O caso de Kao chamou a atenção internacional. A Amnistia Internacional o classificou como "prisioneiro de consciência" — alguém preso por defender a fé religiosa e o espírito humanitário. Igrejas cristãs de todo o mundo falaram em defesa dele, exigindo que o governo da Taiwan libertasse o pastor "preso por viver o amor de Cristo".
+O caso de Kao Chun-ming atraiu atenção mundial. A Anistia Internacional o designou como um "prisioneiro de consciência" — alguém preso por suas convicções religiosas e humanitárias. Igrejas cristãs ao redor do mundo clamaram por ele, exigindo que o governo de Taiwan libertasse o "pastor encarcerado por praticar o amor cristão".
 
-Em 10 de dezembro de 1982, no terceiro aniversário do Incidente de Formosa, senadores dos EUA, incluindo Senator Kennedy, a Amnistia Internacional e o Comitê Taiwan de Assuntos Públicos realizaram uma conferência no Congresso para pedir a libertação de Shih Ming-te, Kao e outros acusados de crimes políticos e religiosos.
+Em 10 de dezembro de 1982, no terceiro aniversário do Incidente de Formosa, o senador americano Kennedy, junto com a Anistia Internacional e a FAPA (Formosan Association for Public Affairs), realizou uma coletiva de imprensa no Capitólio exigindo que o governo do KMT libertasse prisioneiros políticos e religiosos como Lin Yi-hsiung e Kao Chun-ming.
 
-> **📊 Contexto histórico**
-> Durante os 38 anos da Lei Martial, os tribunais militares julgaram 29.407 casos políticos,
-> Estimativas oficiais conservadoras apontam cerca de 140.000 vítimas inocentes.
-> Kao foi um dos poucos líderes religiosos a ser reconhecido como prisioneiro de consciência internacionalmente.
+> **📊 Contexto de dados**
+> Durante os 38 anos de Lei Marcial, os tribunais militares processaram 29.407 casos políticos. Estimativas oficiais conservadoras indicam cerca de 140.000 vítimas inocentes. Kao Chun-ming foi um dos poucos líderes religiosos reconhecidos internacionalmente como prisioneiro de consciência.
 
-Durante os quatro anos de prisão, a presidência da Igreja Presbiteriana decidiu manter o cargo de Kao e, em cada reunião, colocavam uma cadeira vazia no palco — visível a todos, lembrando que "ele ainda está aqui, em cárcer".
+Durante os quatro anos na prisão, o Comitê Executivo da Igreja Presbiteriana decidiu manter o cargo de secretário-geral de Kao Chun-ming e, em cada reunião, colocava uma cadeira vazia no púlpito — posicionada no centro do olhar de todos para lembrar que "ainda há alguém que não retornou da prisão".
 
-A prisão era úmida e suja, cheia de carrapatos e ratos. Kao enfrentou problemas físicos: dores nas costas, hemorroidas pioradas, e perdeu três dentes. Mas a solidão espiritual foi ainda mais difícil de suportar. Ele lia Bíblia em voz baixa todos os dias e cantava hinos. O vizinho, Chang Chun-hung, disse que frequentemente ouvia suas orações e canções, tocado.
+A cela era úmida e suja, infestada de centopeias e ratos; ele sofreu com crises de ombro, hemorroidas e a perda de três dentes. Mas mais difícil de superar do que a dor física era a solidão espiritual. Todos os dias, ele lia passagens da Bíblia e cantava hinos em voz baixa.
 
-## A Declaração dos Direitos Humanos de 1977: A Verdadeira Causa
+Chang Chun-hung, que estava na cela ao lado, disse mais tarde que frequentemente ouvia as orações e cânticos de Kao Chun-ming, o que o comovia profundamente.
 
-Kao acreditava que o governo o condenaria por esconder Shih Ming-te, mas isso era apenas o gatilho. A verdadeira razão era a Declaração dos Direitos Humanos de 1977, promovida por ele.
+## A Declaração de Direitos Humanos de 1977: a verdadeira causa do caso
 
-Em 16 de agosto de 1977, a Igreja Presbiteriana da Taiwan publicou a Declaração dos Direitos Humanos — um documento que Kao liderou, exigindo que "a Taiwan se torne um país novo e independente".
+Kao Chun-ming acreditava que o KMT tinha três razões para prendê-lo, sendo o esconderijo de Shi Ming-te apenas o estopim. A verdadeira razão foi a "Declaração de Direitos Humanos" publicada pela Igreja Presbiteriana de Taiwan em 16 de agosto de 1977 — um documento que ele liderou na redação e que exigia "tornar Taiwan um país novo e independente".
 
-Foi uma das declarações mais ousadas durante o período da Lei Martial. A Declaração apelou ao presidente dos EUA, Jimmy Carter, pedindo que, ao normalizar relações com a China, ele mantivesse "a segurança, independência e liberdade do povo taiwanês", e defendia que "o futuro da Taiwan deve ser decidido por seus 1,7 milhões de habitantes".
+Este foi um dos manifestos políticos mais audaciosos durante a Lei Marcial. A Declaração apelava para que o presidente americano Jimmy Carter, ao normalizar relações com a China continental, insistisse em "preservar a segurança, independência e liberdade do povo de Taiwan", defendendo que "o futuro de Taiwan deve ser decidido pelos seus 17 milhões de habitantes".
 
 > **⚠️ Contexto histórico**
-> 1977 foi imediatamente antes da desconexão entre Taiwan e os EUA. A situação diplomática era extremamente delicada.
-> A Igreja Presbiteriana publicou uma declaração de independência, desafiando diretamente a política de "uma só China" do governo do Partido Nacionalista, causando impacto sem precedentes, semelhante ao referendo de autodeterminação de Taiwan de hoje.
+> 1977 era o período que antecedia o rompimento diplomático entre Taiwan e os EUA, um momento de extrema vulnerabilidade diplomática para Taiwan. A publicação da declaração de independência pela Igreja Presbiteriana desafiou diretamente a política de "Uma Só China" do KMT, com um impacto comparável às propostas atuais de referendo sobre a independência de Taiwan.
 
-O governo do Partido Nacionalista realizou infiltrações sistemáticas na Igreja Presbiteriana. Kao defendia a readmissão à Comunão Universais das Igrejas, oposto ao isolamento da comunidade religiosa internacional, o que tornou o governo ainda mais insensível. "Se eu não estivesse preso por este caso, seria preso por outro," disse ele. "Tenho a sorte de ser um dos que se sacrifica pela Taiwan."
+O governo do KMT iniciou uma infiltração e divisão sistemática da Igreja Presbiteriana. O fato de Kao Chun-ming defender o reingresso na Federação Mundial de Igrejas para evitar o isolamento da igreja tornou-se insuportável para as autoridades. "Se eu não fosse preso pelo caso do esconderijo, seria preso por outro motivo", disse ele mais tarde, "tenho orgulho de ter sido preso em nome de Taiwan".
 
-## Poemas na Prisão e Discursos de Liberdade
+## Poesia na prisão e discurso de libertação
 
-Durante sua estadia na cadeia militar de Xinzi, Kao escreveu poemas em chinês: "Ch'ih-p'ah-hu-huo-shou" (Jeng-chih bei-huo-shou), que mais tarde ganhou o Prêmio Golden Melody de 2006, na categoria de melhor letra de música tradicional.
+Durante os quatro anos na detenção militar de Xindian, Kao Chun-ming escreveu o poema _Espinhos Queimados pelo Fogo_ (莿帕互火燒), que mais tarde recebeu o prêmio de Melhor Letrista na categoria de Música Tradicional e Artística no 17º Golden Melody Awards, em 2006.
 
-Em 15 de agosto de 1984, Kao foi libertado antecipadamente. Em seu discurso de despedida, ele disse:
+Em 15 de agosto de 1984, Kao Chun-ming foi libertado antecipadamente. Em seu discurso de saída, ele disse:
 
-"Tenho a certeza de que, nesse teste como fogo, há um propósito divino bom. Nesses quatro anos, aprendi a praticar o perdão. Vou orar pelos que me prenderam, julgaram e encarceraram. Continuarei lutando pela democracia, liberdade e direitos humanos na Taiwan."
+"Creio profundamente que, neste teste de fogo, há a boa vontade do Senhor. Nestes mais de quatro anos, aprendi a lição do perdão. Vou orar por aqueles que me prenderam, me julgaram e me encarceraram. Continuarei lutando pela democracia, liberdade e direitos humanos em Taiwan".
 
-Após a libertação, Kao não recuou diante das torturas da prisão, mas se envolveu ainda mais nos movimentos democráticos e reformas sociais. Ele continuou influenciando a Igreja Presbiteriana, impulsionando a participação da religião em questões sociais e defendendo os presos políticos e os oprimidos.
+Após a libertação, ele não recuou diante dos traumas da prisão; pelo contrário, envolveu-se ainda mais ativamente nos movimentos democráticos e reformas sociais. Ele continuou exercendo influência na Igreja Presbiteriana, promovendo o envolvimento profundo da igreja em questões sociais e dando voz a prisioneiros políticos e oprimidos.
 
-> **📝 Nota do curador**
-> A história de Kao revela um aspecto importante da democratização da Taiwan:
-> Como a fé religiosa se tornou uma fonte moral para resistir ao autoritarismo.
-> Isso não é cálculo político, mas prática religiosa — mesmo quando o destinatário é um estranho.
+> **📝 Nota do Curador**
+> A história de Kao Chun-ming revela um aspecto crucial da democratização de Taiwan: como a fé religiosa pode se tornar um recurso moral para resistir ao autoritarismo. Não foi um cálculo político, mas uma prática de fé — mesmo quando aplicada a um estranho.
 
-## Justiça de Transição e Teologia Local
+## Justiça Transicional e Teologia Local
 
-Na era pósautoritária, Kao impulsionou a justiça de transição. Ele acreditava que a sociedade só poderia reconciliar-se verdadeiramente se enfrentasse o passado, revelasse a verdade e oferecesse desculpas e compensações aos vitimados.
+Na era pós-autoritária, Kao Chun-ming promoveu ativamente a justiça transicional. Ele acreditava que, para haver reconciliação social real, era necessário enfrentar os erros do passado, revelar a verdade e oferecer pedidos de desculpas e compensações às vítimas.
 
-Também foi um dos principais impulsionadores do desenvolvimento da teologia local na Taiwan. Ele defendia que o cristianismo precisava se integrar à cultura e realidade locais, sem apenas seguir modelos ocidentais. Sua liderança levou à Taiwan a desenvolver uma teologia com características locais — a igreja como "consciência social", não apenas preocupada com a alma dos fiéis, mas com a prosperidade da sociedade como um todo.
+Ele também foi um importante impulsionador do desenvolvimento da teologia local em Taiwan. Defendia que a fé cristã deveria estar integrada à cultura local e à realidade social, em vez de apenas copiar a teologia ocidental. Sob sua influência, Taiwan desenvolveu uma narrativa teológica com características locais — a igreja deveria ser a "consciência da sociedade", preocupando-se não apenas com as almas dos fiéis, mas com o bem-estar de toda a comunidade.
 
-Em 2019, o pastor Kao faleceu, tendo 90 anos. Sua cerimônia de despedida reuniu milhares de pessoas, incluindo funcionários governamentais, líderes de movimentos democráticos e figuras religiosas. Independentemente de suas posições políticas, todos expressaram respeito ao líder religioso que se sacrificou toda a vida pela democracia e os direitos humanos da Taiwan.
+Em 2019, o pastor Kao Chun-ming faleceu aos 90 anos. Seu funeral atraiu milhares de pessoas, incluindo autoridades governamentais, pioneiros do movimento democrático e líderes religiosos. Independentemente da posição política, todos expressaram respeito por este líder religioso que dedicou sua vida à democracia e aos direitos humanos em Taiwan.
 
-A vida de Kao nos mostrou que, diante da injustiça, cada um tem a responsabilidade de se levantar e falar. Mesmo para um estranho, mesmo pagando um preço elevado. Essa espiritualidade ultrapassou as divisões políticas, tornando-se um tesouro moral valioso para a sociedade taiwanesa.
+Kao Chun-ming testemunhou com sua própria vida que, diante da injustiça, cada pessoa tem a responsabilidade de se levantar e falar — mesmo que seja para um estranho, e mesmo que o custo seja imenso. Esse espírito transcende as divisões políticas e tornou-se um valioso patrimônio moral da sociedade taiwanesa.
 
-A decisão daquele ano de 1980 — assumir riscos por um fugitivo quase desconhecido — a crença por trás daquilo ainda brilha nessa ilha até hoje.
+Aquela decisão de 1980 — assumir o risco por um fugitivo que quase não conhecia — carrega uma convicção que continua a brilhar nesta ilha até hoje.
 
 ## Referências
 
-- [A prisão do pastor Kao por esconder Shih Ming-te - Arquivo da história da Igreja Presbiteriana da Taiwan](http://www.laijohn.com/archives/pc/Ko/Ko,CBeng/captured/oral.htm)
-- [Declaração dos Direitos Humanos da Igreja Presbiteriana da Taiwan (1977) - Site oficial da Igreja](https://www.pct.org.tw/ab_doc.aspx?DocID=005)
-- [Recapitulando o Incidente de Formosa e reflexões - Comitê Taiwan de Assuntos Públicos](https://taup.yam.org.tw/announce/9912/991208-d.htm)
-- [História do FAPA 1982-2012 - Comitê Taiwan de Assuntos Públicos](https://fapa.org/fapa-history-1982-2012/)
-- [Período da Lei Martial na Taiwan - Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E7%99%BD%E8%89%B2%E6%81%90%E6%80%96%E6%99%82%E6%9C%9F)
-- [Igreja Presbiteriana da Taiwan - Wikipedia](https://en.wikipedia.org/wiki/Presbyterian_Church_in_Taiwan)
+- [O pastor Kao Chun-ming condenado por esconder Shi Ming-te - Arquivos Históricos da Igreja de Taiwan](http://www.laijohn.com/archives/pc/Ko/Ko,CBeng/captured/oral.htm)
+- [Declaração de Direitos Humanos da Igreja Presbiteriana de Taiwan (1977) - Site Oficial da Igreja](https://www.pct.org.tw/ab_doc.aspx?DocID=005)
+- [Retrospectiva e reflexão sobre o Incidente de Formosa - Associação de Cuidado aos Vítimas Políticas de Taiwan](https://taup.yam.org.tw/announce/9912/991208-d.htm)
+- [História da FAPA 1982-2012 - Formosan Association for Public Affairs](https://fapa.org/fapa-history-1982-2012/)
+- [Terror Branco em Taiwan - Wikipédia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E7%99%BD%E8%89%B2%E6%81%90%E6%80%96%E6%99%82%E6%9C%9F)
+- [Presbyterian Church in Taiwan - Wikipedia](https://en.wikipedia.org/wiki/Presbyterian_Church_in_Taiwan)

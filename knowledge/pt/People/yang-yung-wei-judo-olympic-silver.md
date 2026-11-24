@@ -1,28 +1,30 @@
 ---
-title: 'Yang Yung-wei'
-description: 'Medalha de prata no judô 60 kg nos Jogos Olímpicos de Tóquio 2021, primeiro medalhista olímpico do judô na história de Taiwan, alcançou o primeiro lugar do ranking mundial em novembro do mesmo ano'
+title: 'Yang Yong-wei'
+description: 'Atleta de judô do povo Paiwan, medalhista de prata na categoria até 60 kg nos Jogos Olímpicos de Tóquio 2021, tornando-se o primeiro taiwanês a conquistar uma medalha olímpica no judô. Em novembro do mesmo ano, alcançou o primeiro lugar no ranking mundial da Federação Internacional de Judô, sendo o primeiro taiwanês a atingir o topo do mundo na modalidade. Com o ouro nos Jogos Asiáticos de Hangzhou 2023, provou que seu talento é consistente e não passageiro. Conhecido por sua técnica precisa de uchi-mata e por sua atitude humilde, conquistou até mesmo o público japonês. De um contato casual com o judô no ensino fundamental a um atleta técnico que reescreveu a história do judô em Taiwan.'
 date: 2026-03-21
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '體育'
 tags:
-  - 'Pessoas'
-  - 'Yang Yung-wei'
-  - 'Judô'
-  - 'Jogos Olímpicos'
-  - 'Medalha de Prata'
-  - 'Atleta'
-  - 'Taiwan'
-  - 'Povos Indígenas'
-  - 'Paiwan'
+  [
+    'Personalidade',
+    'Yang Yong-wei',
+    'Judô',
+    'Olimpíadas',
+    'Medalha de prata',
+    'Atleta',
+    'Taiwan',
+    'Povos Indígenas',
+    'Povo Paiwan',
+  ]
+subcategory: '體育'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
-featured: false
 translatedFrom: 'People/楊勇緯.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'f2b48b60c5'
 sourceContentHash: 'sha256:66a5e0aae1a572b7'
 sourceBodyHash: 'sha256:162f09653edec7c3'
-translatedAt: '2026-07-25T07:55:57+08:00'
+translatedAt: '2026-11-24T04:12:16.234637+00:00'
 ---
 
 # Yang Yung-wei
