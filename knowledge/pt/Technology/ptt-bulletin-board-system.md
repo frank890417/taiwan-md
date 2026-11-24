@@ -1,6 +1,6 @@
 ---
 title: 'PTT: a praça pública mais teimosa de Taiwan'
-description: 'Um BBS montado num dormitório em 1995, que trinta anos depois ainda opera com interface de texto puro, mas moldou profundamente a linguagem da internet, o debate político e a memória coletiva de Taiwan'
+description: 'Um BBS criado em 1995 num dormitório, que trinta anos depois ainda opera com uma interface puramente textual, mas que moldou profundamente a linguagem da internet, o debate político e a memória coletiva de Taiwan.'
 date: 2026-03-21
 category: 'Technology'
 tags:
@@ -20,108 +20,113 @@ lastHumanReview: true
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Technology/PTT批踢踢.md'
-sourceCommitSha: '69b3afd91'
-sourceContentHash: 'sha256:f28d98485199bc24'
-sourceBodyHash: 'sha256:110038d2fb23bc2a'
-translatedAt: '2026-08-06T07:38:34+08:00'
+sourceCommitSha: '4140a875d2'
+sourceContentHash: 'sha256:60611b82daa63ad0'
+sourceBodyHash: 'sha256:e00cdf61ff38750d'
+translatedAt: '2026-11-24T17:14:51.098070+00:00'
 ---
 
-# PTT: a praça pública mais teimosa de Taiwan
+# PTT 批踢踢: a praça pública mais teimosa de Taiwan
 
 ## Visão geral em 30 segundos
 
-1995, o estudante de Ciência da Computação da NTU [Ethan Tu (杜奕瑾)](/pt/people/ethan-tu/) montou um BBS num 486 no dormitório masculino, batizando-o de "Praça Industrial PTT". Trinta anos depois, este fórum que insiste na interface de texto puro via telnet acumula mais de 1,5 milhão de contas registradas, com picos de mais de 150 mil usuários simultâneos. Ele gerou a cultura dos "aldeões", transformou o ecossistema midiático de Taiwan, desempenhou papel chave no Movimento Girassol — e depois passou a enfrentar o envelhecimento de sua base de usuários com a ascensão do Dcard e do Threads.
+1995, o estudante de Ciências da Computação da Universidade Nacional de Taiwan [Tu Yi-chin](/pt/people/ethan-tu/) montou um site BBS em um computador 486 no dormitório, batizando-o de "PTT 批踢踢實業坊". Trinta anos depois, este fórum que insiste em uma interface puramente textual via telnet acumulou mais de 1,5 milhão de contas registradas, com picos de mais de 150 mil usuários simultâneos. Ele deu origem à cultura de "moradores", transformou a ecologia midiática de Taiwan, desempenhou papel crucial no Movimento dos Girassóis — mas começou a enfrentar a realidade do envelhecimento de sua base de usuários após a ascensão do Dcard e do Threads.
 
 ---
 
-## O ponto de partida: um 486
+## O ponto de partida de um computador 486
 
-Em setembro de 1995, Ethan Tu, aluno do segundo ano de Ciência da Computação da NTU, rodou Slackware Linux num 486 no dormitório Masculino 8 e lançou o PTT. Na época, os campi universitários de Taiwan fervilhavam de BBSs — o NSYSU BBS da Universidade Nacional Sun Yat-sen, o BS2 da Universidade Nacional Chiao Tung — mas a maioria era gerida pelos centros de computação das próprias universidades, com certo grau de controle de conteúdo.
+Em setembro de 1995, Du I-chin, aluno do segundo ano do Departamento de Ciência da Computação e Engenharia da Informação da Universidade Nacional de Taiwan (NTU), instalou o Slackware Linux num computador 486 no dormitório masculino nº 8 e lançou o PTT[^1]. Naquela época, os campi universitários de Taiwan fervilhavam de BBS — o NSYSU BBS da Universidade Nacional Sun Yat-sen, o BS2 da Universidade Nacional Chiao Tung — mas a maioria era gerida pelos centros de computação das próprias instituições, com certo grau de controle de conteúdo.
 
-Tu tomou uma decisão que na época parecia modesta, mas em retrospecto mudou tudo: o PTT seria autogestionado por estudantes, operaria sem fins lucrativos e não aceitaria publicidade comercial. Este princípio vigora há trinta anos.
+Du I-chin tomou uma decisão que, na altura, parecia modesta, mas que, em retrospectiva, mudou tudo: o PTT seria autogerido por estudantes, operaria sem fins lucrativos e não aceitaria publicidade comercial. Esse princípio mantém-se há trinta anos[^2].
 
-Em janeiro de 1997, o PTT tinha apenas 581 usuários registrados. Mas com a popularização da banda larga em Taiwan nos anos 2000, a base de usuários explodiu.
-
----
-
-## "Empurrar", "vaiar", "→": um sistema de avaliação único
-
-O traço mais reconhecível do PTT é o sistema de "empurrar/vaiar". Cada usuário pode responder a um artigo de três formas: "empurrar" (推, positivo, exibido em vermelho), "vaiar" (噓, negativo, exibido em azul), "→" (neutro, seta cinza). Os empurrões e vaias aparecem diretamente abaixo do artigo, formando uma avaliação coletiva em tempo real.
-
-Este sistema foi uma das primeiras implementações em BBSs de língua chinesa, anterior ao upvote/downvote do Reddit. Diferente do Reddit, porém, os empurrões e vaias do PTT carregam o ID do autor: todos veem o que você vaiou, e se vaiou errado leva "contra-vaias". Essa autoria identificada transforma a própria votação noutra camada de discussão — às vezes os comentários superam o artigo original.
+Em janeiro de 1997, o PTT contava apenas 581 utilizadores registados[^3]. Contudo, com a popularização da banda larga em Taiwan nos anos 2000, a base de utilizadores do PTT começou a crescer de forma explosiva.
 
 ---
 
-## Gossiping (八卦板): o termômetro da opinião pública em Taiwan
+## Push, boo, →: um sistema de avaliação único
 
-Criado em 1999, o board Gossiping (八卦板, "board de fofoca") começou para comentar celebridades e entretenimento, mas evoluiu para o maior e mais ativo board do PTT, com mais de cinco mil usuários online mesmo fora de horários de pico, ultrapassando dez mil nos grandes eventos.
+O desenho mais distintivo do PTT é o sistema de «push/boo». Cada utilizador pode responder a um artigo de três formas: «push» (positivo, exibido a vermelho), «boo» (negativo, exibido a azul), «→» (neutro, seta cinzenta). Os pushes e boos aparecem diretamente abaixo do artigo, criando uma avaliação colectiva em tempo real.
 
-A importância do Gossiping reside no seu papel histórico de "reação instantânea da opinião pública taiwanesa". Nos primeiros minutos após uma notícia, o board já concentra informações de primeira mão, "pacotes preguiçosos" (懶人包, resumos didáticos do episódio) e choque de múltiplas perspectivas. Jornalistas o usam como fonte de pautas, assessores políticos como bússola da opinião popular. "Subir no PTT pra ver o vento" foi, por longo tempo, reflexo cotidiano dos taiwaneses.
+Este sistema foi uma das primeiras implementações do género num BBS em chinês, antecedendo o upvote/downvote do Reddit. Ao contrário do Reddit, porém, os pushes e boos do PTT são associados ao ID do utilizador: toda a gente vê o que você deu boo, e um boo mal dado atrai «contra-boos». Essa identificação transforma a própria votação noutra camada de espaço de discussão — às vezes, os comentários de push são mais brilhantes que o artigo original.
 
-O PTT inteiro passa de vinte mil boards, cobrindo Stock (ações), NBA, LoL, Baseball (beisebol), Boy-Girl (relacionamentos), marvel (sobrenatural), joke (piadas) — praticamente todo tema imaginável. Cada board tem seu moderador, regras e cultura — alguns rigorosos como quartel (ex.: regras anti-spoiler do C_Chat), outros caóticos como feira livre.
+---
+
+## Gossiping (八卦板): o termômetro da opinião pública na Taiwan contemporânea
+
+O fórum Gossiping (八卦板), criado em 1999, originalmente servia apenas para fofocas sobre celebridades de cinema e TV, mas acabou se tornando o maior e mais ativo fórum do PTT, com mais de cinco mil usuários online mesmo fora dos horários de pico, ultrapassando dez mil durante grandes eventos[^4].
+
+A importância do Gossiping reside no seu papel de longa data como "reação imediata da opinião pública em Taiwan". Nos primeiros minutos após um evento noticioso, o Gossiping já apresenta informações de primeira mão, resumos prontos (compilações do evento) e o choque de múltiplos pontos de vista. Jornalistas usam o Gossiping como fonte de pautas, assessores políticos o usam como termômetro da opinião pública. A frase "entrar no PTT para ver a tendência" foi, por muito tempo, um reflexo cotidiano dos taiwaneses.
+
+O PTT conta com mais de vinte mil fóruns em todo o site, abrangendo desde Stock (ações), NBA, LoL, Baseball (beisebol) até Boy-Girl (relacionamentos), marvel (sobrenatural), joke (piadas), cobrindo praticamente todos os temas imagináveis. Cada fórum tem seu próprio moderador, regras e cultura — alguns são rigorosos como um quartel (como as regras anti-spoiler do C_Chat), outros são caóticos como um mercado popular.
 
 ---
 
 ## Como o PTT mudou a língua de Taiwan
 
-O impacto mais duradouro do PTT em Taiwan talvez seja linguístico. Inúmeros termos nascidos no PTT já permeiam a conversa diária, inclusive entre quem nunca acessou o site:
+O impacto mais duradouro do PTT em Taiwan talvez seja a língua. Grande parte do vocabulário do PTT já se infiltrou nas conversas do dia a dia, sendo usado naturalmente até por quem não usa o PTT:
 
-**"Aldeões" (鄉民)** — autodenominação dos usuários do PTT, referência ao filme _O Justiceiro de 9º Grau_ (九品芝麻官) de Stephen Chow: "Vim ver a confusão com os aldeões". Em 2004, o administrador do PTT pediu no board: "Aldeões que só tão vendo a confusão, recuem pra trás da linha amarela". A palavra saiu da ironia pra identidade, tornando-se a autodenominação mais ampla da comunidade.
+**「鄉民」** — autodenominação dos usuários do PTT; a referência vem do filme de Stephen Chow 《九品芝麻官》 (Justice, My Foot!), na frase «Eu vim ver a confusão junto com os aldeões». Em 2004, o administrador do PTT apelou no fórum: «Peço aos aldeões que vieram ver a confusão que recuem para fora da linha amarela»; depois disso, o termo passou de zombaria a identificação, tornando-se a autodenominação mais ampla dos usuários do PTT[^5].  
+**「五樓」 (quinto andar)** — a quinta resposta de um tópico; como nos primórdios o quinto andar costumava trazer respostas geniais, acabou virando o meme «o quinto andar tem razão» ou «quinto andar, por favor fale».  
+**«+1»** — concordar, dar um voto a favor.  
+**「帶風向」 (levar a direção do vento)** — refere-se a fabricar de forma organizada uma tendência de opinião específica no fórum; mais tarde, passou de jargão do PTT a vocabulário corrente na sociedade taiwanesa.
 
-**"Quinto andar" (五樓)** — a quinta resposta, porque nos primórdios o quinto andar costumava trazer respostas geniais; depois virou meme "o quinto andar tá certo" ou "quinto andar, fala aí".
-
-**"+1"** — concordo, equivalendo a um "empurrão".
-
-**"Levar o vento" (帶風向)** — ação organizada para fabricar tendência de opinião no fórum; depois migrou do jargão do PTT pro vocabulário geral de Taiwan.
-
-**"Povo do Dragão Celestial" (天龍人)** — quem mora em Taipei e exibe superioridade; **"publipost" (業配)** — "cooperação comercial", ou seja, _product placement_; **"pacote preguiçoso" (懶人包)** — resumo didático de tema complexo. A vitalidade dessas palavras já extravasou o PTT há muito.
+«天龍人» (referindo-se a quem mora em Taipé e tem sentimento de superioridade), «業配» (colaboração comercial, ou seja, publipost/merchandising), «懶人包» (compilação para preguiçosos, que organiza temas complexos em formato de leitura fácil) — a vitalidade dessas palavras já extrapolou há muito o próprio PTT.
 
 ---
 
-## Girassol, eleições e desinformação
+## Girassol, eleições e fake news
 
-Durante o Movimento Girassol de 2014, o PTT virou o principal hub de informação e mobilização dos manifestantes. Atualizações em tempo real, necessidades de suprimentos, assessoria jurídica — tudo circulava pelo PTT. Aquilo mostrou ao mundo o poder de fogo dum BBS de 1995 num movimento social.
+Durante o Movimento Estudantil do Girassol de 2014, o PTT tornou-se o centro mais importante de disseminação de informações e mobilização dos manifestantes. Informações em tempo real do movimento, necessidades de suprimentos, consultas jurídicas — tudo era transmitido pelo PTT. Naquela ocasião, o mundo exterior pôde ver quanta energia um BBS de 1995 podia exercer em um movimento social.
 
-A cada eleição, o Gossiping e o HatePolitics (政黑板, "board política negra") viram campo de batalha. Apoiadores de cada lado se engalfinham nos empurrões/vaias, empresas de _political consulting_ são acusadas de comprar contas pra "levar o vento", moderadores se exaurem processando denúncias e aplicando "balde" (水桶, banimento). O debate político no PTT é vibrante e, ao mesmo tempo, cheio de pólvora.
+A cada eleição, o fórum Gossiping e o fórum HatePolitics (Política Negra) tornam-se campos de batalha de ataque e defesa política. Apoiadores de cada lado travam batalhas nos posts de推/噓, empresas de relações públicas políticas são acusadas de comprar contas para "manipular a narrativa", e os moderadores ficam exaustos lidando com denúncias e banimentos (bloqueios). As discussões políticas do PTT estão cheias de vitalidade, mas também cheias de pólvora.
 
-2018: o PTT suspendeu temporariamente a aprovação de novas contas, citando enxurrada de contas falsas espalhando desinformação eleitoral. A medida controlou a qualidade das novas contas, mas fechou a porta — a nova geração de jovens usuários ficou do lado de fora.
-
----
-
-## A relação de amor e ódio com a mídia
-
-A mídia taiwanesa e o PTT mantêm relação contraditória. De um lado, jornalistas extraem pautas do PTT em escala industrial; "aldeões do PTT debatem acaloradamente" virou fórmula universal de manchete. De outro, usuários do PTT odeiam essa prática, ironizando repórteres que apenas copiam posts como "repórteres de teclado".
-
-Esse ciclo criou ecossistema midiático peculiar: discussões no PTT são amplificadas pela imprensa, a imprensa reflui pro PTT onde os aldeões a criticam, formando loop auto-reforçador de opinião. Alguns eventos só viram notícia porque "subiram no PTT"; outras notícias perdem credibilidade porque "os aldeões não compraram".
+Em 2018, o PTT anunciou a suspensão da análise de novas contas, sendo uma das razões o envolvimento de grande quantidade de contas falsas na disseminação de fake news durante o período eleitoral[^6]. Essa decisão controlou efetivamente a qualidade das novas contas, mas também equivalia a fechar a porta — a nova geração de jovens usuários ficou do lado de fora.
 
 ---
 
-## A realidade dum BBS de trinta anos
+## A relação de amor e ódio da mídia
 
-O PTT tá envelhecendo. A restrição de cadastro de 2018, a limpeza de verificação por e-mail de 2023 (travou de vez contas sem e-mail vinculado), somadas à migração dos jovens pro Dcard (fórum anônimo universitário) e pro Threads (explodiu em Taiwan desde 2023), vêm reduzindo usuários ativos continuamente.
+A mídia de Taiwan tem uma relação contraditória com o PTT. Por um lado, jornalistas extraem grandes quantidades de material noticioso do PTT, e "Moradores do PTT debatem intensamente" tornou-se uma fórmula universal para manchetes. Por outro lado, os usuários do PTT detestam profundamente essa prática, ridicularizando jornalistas que copiam diretamente artigos do PTT como "jornalistas de teclado".
 
-A interface de texto puro já foi orgulho do PTT — carregamento instantâneo, resistente a censura, imune a manipulação algorítmica — mas pra geração que cresceu deslizando no celular, fórum sem imagem e vídeo é território alienígena. Embora MoPTT, PiTT e outros apps ofereçam entrada mobile, a experiência nuclear continua textual.
-
-A ascensão do Threads em Taiwan golpeou especialmente o PTT. Conforme notado em artigos sobre o Threads, a primeira reação dos internautas taiwaneses ante um fato noticioso migrou de "subir no PTT pra ver o vento" pra "subir no Threads pra ver o que tão falando".
+Esse ciclo criou uma ecologia midiática peculiar: as discussões no PTT são amplificadas pela cobertura jornalística, as notícias voltam a fluir para o PTT para serem criticadas pelos moradores, formando um ciclo de opinião auto-reforçador. Alguns eventos só se tornaram notícia porque "chegaram ao PTT", enquanto algumas notícias perdem credibilidade porque "os moradores do PTT não aceitam".
 
 ---
 
-## Mas o PTT ainda tá lá
+## A realidade enfrentada por um BBS de trinta anos
 
-Mesmo com queda de atividade, o PTT mantém posições insubstituíveis. O board Stock ferve no horário da bolsa, o Baseball enche de torcedores na temporada da CPBL e no WBC. Gossiping e HatePolitics seguem como trincheiras centrais da opinião política em época eleitoral.
+O PTT está envelhecendo. As restrições de registro de 2018, a limpeza de verificação de email de 2023 (que bloqueou de uma só vez um grande número de contas sem email vinculado), somadas à migração dos jovens para o Dcard (fórum anônimo de universitários) e para o Threads (que explodiu em popularidade em Taiwan a partir de 2023), fazem com que os usuários ativos do PTT continuem a diminuir.
 
-O verdadeiro insubstituível do PTT é seu arquivo de trinta anos de discussões. Quer saber a reação popular de primeira mão a algum evento social de cinco anos atrás? Quer ver avaliações reais de algum produto de dez anos atrás? Os artigos históricos do PTT estão entre os registros mais completos da memória coletiva da internet taiwanesa.
+A interface de puro texto já foi o orgulho do PTT — velocidade de carregamento rápida, resistente à censura, não manipulada por algoritmos — mas para a geração que cresceu deslizando no celular, um fórum sem imagens e vídeos é um mundo estranho e desconhecido. Embora aplicativos móveis como MoPTT e PiTT ofereçam pontos de entrada para dispositivos móveis, a experiência central continua a ser baseada em texto.
 
-Ethan Tu saiu da Microsoft em 2017 pra fundar o [Taiwan AI Labs](https://ailabs.tw/) em Taiwan, mas o PTT segue mantido por voluntários estudantes da NTU, segue sem fins lucrativos, segue sem vender anúncio. Numa era em que toda plataforma persegue tráfego e monetização, um BBS de trinta anos que ainda sustenta esses princípios já é, por si só, fato digno de registro.
+A ascensão do Threads em Taiwan impactou especialmente o PTT. Como mencionado no artigo sobre o Threads, quando ocorre um acontecimento noticioso, a primeira reação dos internautas taiwaneses mudou de "ir ao PTT ver a tendência" para "ir ao Threads ver o que todos estão dizendo".
+
+---
+
+## Mas o PTT ainda está aqui
+
+Mesmo com a queda na atividade, o PTT ainda ocupa um lugar insubstituível. O fórum Stock continua muito popular durante o horário de negociação da bolsa de Taiwan, o fórum Baseball atrai multidões de fãs durante as temporadas da CPBL e do WBC. Os fóruns Gossiping e HatePolitics continuam sendo os principais campos de batalha da opinião política durante as eleições.
+
+O verdadeiro valor insubstituível do PTT é seu banco de dados de discussões acumulado ao longo de trinta anos. Quer consultar a reação popular de primeira mão sobre algum evento social de cinco anos atrás? Quer ver a avaliação real de algum produto de dez anos atrás? Os artigos históricos do PTT são um dos registros mais completos da memória coletiva da internet de Taiwan[^7].
+
+Ethan Tu deixou a Microsoft em 2017 e voltou a Taiwan para fundar o Taiwan AI Labs[^8], mas o PTT continua sendo mantido por estudantes voluntários da NTU, continua sem fins lucrativos e continua sem vender anúncios. Em uma era em que todas as plataformas perseguem tráfego e monetização, um BBS de trinta anos que ainda mantém esses princípios já é, por si só, algo que merece ser registrado.
 
 ---
 
 ## Referências
 
-- [Site oficial do PTT 批踢踢實業坊](https://www.ptt.cc/)
-- [批踢踢 — Wikipédia](https://zh.wikipedia.org/zh-tw/%E6%89%B9%E8%B8%A2%E8%B8%A2)
-- [PTT Bulletin Board System — Wikipedia](https://en.wikipedia.org/wiki/PTT_Bulletin_Board_System)
-- [A fundação do PTT — Enciclopédia dos Aldeões do PTT](https://pttpedia.fandom.com/zh/wiki/PTT%E7%9A%84%E6%88%90%E7%AB%8B)
-- [Board Gossiping (八卦板) — Enciclopédia dos Aldeões do PTT](<https://pttpedia.fandom.com/zh/wiki/Gossiping%E6%9D%BF_(%E5%85%AB%E5%8D%A6%E6%9D%BF)>)
-- [PTT recusa novos usuários após incidente de fake news — Taipei Times (2018)](https://www.taipeitimes.com/News/taiwan/archives/2018/09/17/2003700586)
-- [A lendária "cultura dos aldeões" do PTT — Taiwan Panorama](https://www.taiwan-panorama.com/en/Articles/Details?Guid=10c09fef-775f-4745-8971-4b1f8c7c726d&CatId=7)
+[^1]: [PTT — Wikipédia](https://zh.wikipedia.org/zh-tw/%E6%89%B9%E8%B8%A2%E8%B8%A2) — A Wikipédia em chinês compila o contexto de fundação, a história de desenvolvimento e o sistema de administração do PTT
+
+[^2]: [A fundação do PTT — Enciclopédia dos Moradores do PTT](https://pttpedia.fandom.com/zh/wiki/PTT%E7%9A%84%E6%88%90%E7%AB%8B) — A Enciclopédia dos Moradores registra a origem da criação do PTT e os princípios de autogestão estudantil e operação sem fins lucrativos
+
+[^3]: [PTT Bulletin Board System — Wikipédia](https://en.wikipedia.org/wiki/PTT_Bulletin_Board_System) — A Wikipédia em inglês inclui dados administrativos do PTT, como o número de usuários registrados iniciais e a arquitetura técnica
+
+[^4]: [Fórum Gossiping (Fórum de Fofoca) — Enciclopédia dos Moradores do PTT](<https://pttpedia.fandom.com/zh/wiki/Gossiping%E6%9D%BF_(%E5%85%AB%E5%8D%A6%E6%9D%BF)>) — A Enciclopédia dos Moradores registra a história de criação do Fórum de Fofoca e sua cultura
+
+[^5]: [A Lendária "Cultura de Moradores" do PTT — Taiwan Panorama](https://www.taiwan-panorama.com/en/Articles/Details?Guid=10c09fef-775f-4745-8971-4b1f8c7c726d&CatId=7) — Artigo especial da edição em inglês da revista Taiwan Panorama apresenta a formação e o impacto da cultura de moradores do PTT
+
+[^6]: [PTT recusa novos usuários após incidente de notícias falsas — Taipei Times (2018)](https://www.taipeitimes.com/News/taiwan/archives/2018/09/17/2003700586) — O Taipei Times em inglês relata a decisão do PTT de suspender a aprovação de novas contas após incidente de notícias falsas
+
+[^7]: [Site oficial do PTT 批踢踢實業坊](https://www.ptt.cc/) — Site oficial do PTT, com dezenas de milhares de fóruns e um banco de dados de artigos de trinta anos
+
+[^8]: [Taiwan AI Labs](https://ailabs.tw/) — Site oficial da instituição de pesquisa em IA fundada por Du Yijin após deixar a Microsoft e retornar a Taiwan em 2017
