@@ -1,6 +1,6 @@
 ---
 title: 'Yang Yung-wei'
-description: "2021 Tokyo Olympics judo 60kg silver medalist, the first Olympic judo medalist in Taiwan's history, and world number one in November of the same year."
+description: "Paiwan indigenous judo athlete; won silver in the men's 60 kg division at the 2021 Tokyo Olympics, earning Taiwan's first-ever Olympic judo medal. In November of the same year, he rose to No. 1 in the International Judo Federation world rankings, becoming Taiwan's first judo world No. 1. He won gold at the 2023 Hangzhou Asian Games, proving his success was no flash in the pan. With his precise signature uchi-mata technique and humble attitude that even captivated Japanese audiences, he progressed from a chance encounter with judo in elementary school to a technical master who rewrote Taiwan's judo history."
 date: 2026-03-21
 category: 'People'
 tags:
@@ -9,10 +9,10 @@ tags:
     'Yang Yung-wei',
     'Judo',
     'Olympics',
-    'Silver Medal',
+    'Silver medal',
     'Athlete',
     'Taiwan',
-    'Indigenous Peoples',
+    'Indigenous',
     'Paiwan',
   ]
 subcategory: '體育'
@@ -21,10 +21,10 @@ featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
 translatedFrom: 'People/楊勇緯.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'f2b48b60c5'
 sourceContentHash: 'sha256:66a5e0aae1a572b7'
 sourceBodyHash: 'sha256:162f09653edec7c3'
-translatedAt: '2026-10-23T02:24:41+08:00'
+translatedAt: '2026-11-24T04:11:21.417227+00:00'
 ---
 
 # Yang Yung-wei

@@ -1,26 +1,28 @@
 ---
 title: 'Tai Tzu-ying'
-description: "Record holder for 214 weeks as world number one, Taiwan's badminton queen — from Kaohsiung's Qianzhen District to an Olympic silver medal"
+description: "Born in 1994 in Qianzhen, Kaohsiung, Taiwan's badminton queen Tai Tzu-ying picked up a racket at age 7 and became Taiwan's youngest Division A badminton player at 12. In 2016 she first reached world No. 1, becoming Taiwan's first badminton world champion, accumulating 214 weeks at No. 1 — the longest record in women's singles history. With 32 World Tour titles, three All England Open championships, and a silver medal at the 2021 Tokyo Olympics, she set a benchmark. Her versatile playing style and career win rate exceeding 73% have redefined Taiwan's position in international badminton."
 date: 2026-03-21
-tags:
-  - 'People'
-  - 'Tai Tzu-ying'
-  - 'badminton'
-  - 'world number one'
-  - 'Olympics'
-  - 'athlete'
-  - 'Taiwan'
 category: 'People'
+tags:
+  [
+    'People',
+    'Tai Tzu-ying',
+    'Badminton',
+    'World No. 1',
+    'Olympics',
+    'Athlete',
+    'Taiwan',
+  ]
 subcategory: '體育'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-21
 lastHumanReview: true
-featured: true
 translatedFrom: 'People/戴資穎.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'f75a0392a4'
 sourceContentHash: 'sha256:1a1c26aae26ed9f8'
 sourceBodyHash: 'sha256:72bb27cc8697bfee'
-translatedAt: '2026-05-01T13:19:11+08:00'
-author: 'Taiwan.md'
+translatedAt: '2026-11-24T04:03:10.902955+00:00'
 ---
 
 # Tai Tzu-ying

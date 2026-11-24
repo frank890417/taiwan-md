@@ -1,15 +1,10 @@
 ---
-title: 'Henry Lee'
-description: 'Built a forensic legend with a shattered bone, yet a "bloodstain" on a towel sent two people to thirty years of wrongful imprisonment'
+title: 'Chi Chang-yu'
+description: "From Taiwan's youngest police captain to the most globally recognized Chinese forensic scientist, he achieved a first in American criminal history by securing a conviction in a woodchipper case without a body. He gained worldwide fame as an expert witness for the defense in the O.J. Simpson trial, having investigated over 8,000 cases and authored more than 40 books throughout his career. However, in 2023, a federal court ruled that he had falsified evidence regarding bloodstains on a towel in a 1985 murder case, leading to two youths serving over 30 years of wrongful imprisonment, leaving an unavoidable question mark over his legendary career."
 date: 2026-03-29
 category: 'People'
 tags:
-  [
-    'Figures',
-    'Forensic Science',
-    'Taiwanese American',
-    'Criminal Investigation',
-  ]
+  ['People', 'Forensic Science', 'Taiwanese American', 'Criminal Investigation']
 subcategory: '科學與學術'
 author: 'Taiwan.md'
 featured: false
@@ -19,10 +14,10 @@ readingTime: 8
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/李昌鈺.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'f2b48b60c5'
 sourceContentHash: 'sha256:d64c72cf7c6361d3'
 sourceBodyHash: 'sha256:6f5a343122533934'
-translatedAt: '2026-11-04T21:20:20.501177+00:00'
+translatedAt: '2026-11-24T04:16:52.586678+00:00'
 ---
 
 # Henry Lee

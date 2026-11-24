@@ -1,6 +1,6 @@
 ---
-title: 'Morris Chang (Zhang Zhongmou)'
-description: 'Semiconductor patriarch, founder of TSMC, legendary entrepreneur who changed the global tech industry with the wafer foundry model'
+title: 'Morris Chang'
+description: "A Taiwanese entrepreneur hailed as the Godfather of Semiconductors. After serving as General Manager of Texas Instruments' Semiconductor Group, he returned to Taiwan in 1985 to serve as President of ITRI. In 1987, he founded TSMC and pioneered the pure-play foundry model, allowing chip design companies to operate without building their own fabrication plants. This move completely reshaped the global semiconductor industry ecosystem and established Taiwan as a core node in the world's technology supply chain. At age 78 in 2009, he returned to lead during the financial crisis, and in 2018, he completed TSMC's generational succession through a dual-leadership system."
 date: 2026-03-17
 category: 'People'
 tags:
@@ -8,10 +8,10 @@ tags:
     'People',
     'Morris Chang',
     'TSMC',
-    'Semiconductors',
+    'Semiconductor',
     'Entrepreneur',
-    'Wafer Foundry',
-    'National Guardian Mountain',
+    'Foundry',
+    'Protector of the Nation',
   ]
 subcategory: '科技與企業'
 author: 'Taiwan.md Contributors'
@@ -225,10 +225,10 @@ lifeTree:
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/張忠謀.md'
-sourceCommitSha: 'b1a5fea00'
+sourceCommitSha: 'f2b48b60c5'
 sourceContentHash: 'sha256:a6a3cf2441fdbe3c'
 sourceBodyHash: 'sha256:0b0d1fd6c8d63d0e'
-translatedAt: '2026-11-18T15:48:45.771210+00:00'
+translatedAt: '2026-11-24T03:38:25.709440+00:00'
 ---
 
 # Morris Chang (Zhang Zhongmou)

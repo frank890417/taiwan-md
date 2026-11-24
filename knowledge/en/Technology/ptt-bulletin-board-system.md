@@ -1,6 +1,6 @@
 ---
-title: "PTT Bulletin Board System: Taiwan's Most Stubborn Public Square"
-description: "A BBS established in a dormitory in 1995, which after thirty years still operates via a plain-text interface, profoundly shaping Taiwan's online language, political discourse, and collective memory."
+title: "PTT: Taiwan's Most Stubborn Public Square"
+description: "A BBS set up in a dorm room in 1995, still running on a pure-text interface three decades later, yet profoundly shaping Taiwan's internet language, political discourse, and collective memory"
 date: 2026-03-21
 category: 'Technology'
 tags:
@@ -8,7 +8,7 @@ tags:
     'PTT',
     'BBS',
     'internet culture',
-    'netizens',
+    'villagers',
     'digital democracy',
     'social media',
   ]
@@ -20,102 +20,116 @@ lastHumanReview: true
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'Technology/PTT批踢踢.md'
-sourceCommitSha: '69b3afd91'
-sourceContentHash: 'sha256:f28d98485199bc24'
-sourceBodyHash: 'sha256:110038d2fb23bc2a'
-translatedAt: '2026-08-04T12:03:20+08:00'
+sourceCommitSha: '4140a875d2'
+sourceContentHash: 'sha256:60611b82daa63ad0'
+sourceBodyHash: 'sha256:e00cdf61ff38750d'
+translatedAt: '2026-11-24T11:37:35+08:00'
 ---
 
-# PTT Bulletin Board System: Taiwan's Most Stubborn Public Square
+# PTT: Taiwan's Most Stubborn Public Square
 
 ## 30-Second Overview
 
-In 1995, [Ethan Tu](/en/people/ethan-tu/), a student in the Department of Computer Science at National Taiwan University (NTU), set up a BBS station in his dormitory using a 486 PC, naming it "PTT Bulletin Board System." Thirty years later, this forum—which insists on using a telnet-based plain-text interface—has accumulated over 1.5 million registered accounts, with peak concurrent users exceeding 150,000. It birthed the "netizen" (_xiangmin_) culture, transformed Taiwan's media ecosystem, and played a pivotal role during the Sunflower Student Movement—only to face the reality of an aging user base following the rise of Dcard and Threads.
+In 1995, National Taiwan University computer science student [Ethan Tu](/en/people/ethan-tu/) set up a BBS site on a 486 computer in his dorm room, naming it the "PTT Bulletin Board System." Three decades later, this forum insisting on a telnet pure-text interface has accumulated over 1.5 million registered accounts, with peak concurrent users exceeding 150,000. It spawned "villager" culture, transformed Taiwan's media ecology, played a pivotal role in the Sunflower Movement — and then began facing the reality of an aging user base after the rise of Dcard and Threads.
 
 ---
 
-## The Beginning on a 486 PC
+## The Starting Point of a 486 Computer
 
-In September 1995, Ethan Tu, then a sophomore in NTU's Computer Science Department, launched PTT from his dormitory in Male Dormitory 8 using a 48．86 PC running Slackware Linux. At the time, university campuses across Taiwan were dotted with various BBS stations—such as NSYSU BBS at National Sun Yat-sen University and BS2 at National Chiao Tung University—but most were managed by university computing centers, and their content was subject to a certain degree of institutional control.
+In September 1995, Ethan Tu, a sophomore in NTU's Department of Computer Science and Information Engineering, ran Slackware Linux on a 486 computer in Male Dormitory Building 8 and launched PTT[^1]. At the time, BBSes flourished across Taiwan's university campuses — NSYSU BBS at National Sun Yat-sen University, BS2 at National Chiao Tung University — but most were managed by school computer centers, with content subject to a degree of control.
 
-Ethan Tu made a decision that seemed unremarkable at the time but would later change everything: PTT would be student-governed, non-profit, and would not accept commercial advertising. This principle has endured for thirty years.
+Ethan Tu made a decision that looked unremarkable at the time but in retrospect changed everything: PTT would be student-governed, non-profit, and accept no commercial advertising. This principle has held for thirty years[^2].
 
-By January 1997, PTT had only 581 registered users. However, as broadband internet became widespread in Taiwan during the 2000s, PTT's user base began to experience explosive growth.
-
----
-
-## Push, Boo, and Arrow: A Unique Rating System
-
-PTT's most recognizable feature is its "Push/Boo" system. Every user can respond to a post in three ways: "Push" (positive, displayed in red), "Boo" (negative, displayed in blue), and "Arrow" (neutral, a gray arrow). These ratings appear directly below the post, creating real-time crowd-sourced evaluations.
-
-This system was one of the earliest implementations in Chinese-language BBS, predating Reddit's upvote/downvote mechanism. Unlike Reddit, PTT's pushes and boos are tied to specific IDs; everyone can see who "booed" a post, and if you "boo" incorrectly or maliciously, you may face a "counter-boo." This identity-linked system turns the rating process itself into another layer of discussion—sometimes the comments are more exciting than the original post.
+By January 1997, PTT had only 581 registered users[^3]. But as broadband internet spread across Taiwan in the 2000s, PTT's user base began explosive growth.
 
 ---
 
-## Gossiping Board: The Thermometer of Contemporary Taiwanese Public Opinion
+## Push, Boo, →: A Unique Evaluation System
 
-Established in 1999, the Gossiping board (八卦板) originally focused on celebrity gossip but later evolved into PTT's largest and most active board. Even during off-peak hours, it maintains over 5,000 concurrent users, with numbers exceeding 10,000 during major events.
+PTT's most recognizable design is its "push/boo" system. Every user can respond to a post in three ways: "push" (positive, displayed in red), "boo" (negative, displayed in blue), "→" (neutral, gray arrow). Pushes and boos appear directly below the post, forming real-time crowd evaluation.
 
-The importance of the Gossiping board lies in its long-standing role as a "real-time reaction center for Taiwanese public opinion." Within minutes of a news event occurring, the board features first-hand reports, _laorenbao_ (summary digests), and clashes of diverse perspectives. Journalists use the board as a source for stories, while political aides treat it as a barometer of public sentiment. For a long time, the phrase "checking PTT to see which way the wind is blowing" was a daily reflex for Taiwanese people.
-
-PTT hosts over 20,000 boards, covering almost every imaginable topic—from Stock, NBA, LoL, and Baseball to Boy-Girl (relationships), marvel (the paranormal), and joke. Each board has its own moderators, rules, and culture—some are as strict as the military (such as the "spoiler" rules on C_Chat), while others are as chaotic as a wet market.
+This system was one of the earliest implementations in Chinese-language BBSes, predating Reddit's upvote/downvote. Unlike Reddit, PTT's pushes and boos carry user IDs — everyone can see what you booed, and a mistaken boo gets "counter-booed." This real-name mechanism turns the push/boo itself into another discussion layer — sometimes the push comments are more brilliant than the original post.
 
 ---
 
-## How PTT Changed the Taiwanese Language
+## Gossiping Board: The Barometer of Contemporary Taiwan Public Opinion
 
-PTT's most lasting impact on Taiwan may be linguistic. A vast amount of PTT terminology has permeated daily conversation, even being used naturally by those who never use PHD:
+The Gossiping board (八卦板), established in 1999, originally just chatted about celebrity gossip, but evolved into PTT's largest and most active board, with over 5,000 users online even during off-peak hours, breaking 10,000 during major events[^4].
 
-"**Xiangmin** (鄉民)" — The self-designation for PTT users, derived from a line in Stephen Chow's film _Hail the Judge_: "I am just a villager (_xiangmin_) here to watch the fun." In 2004, the PTT sysop called on the board, "Please, villagers watching the fun, move behind the yellow line." Since then, the term shifted from mockery to a badge of identity. "**Fifth Floor** (五樓)" — Referring to the fifth comment in a thread; because early "fifth floor" comments often contained legendary replies, it evolved into memes like "the fifth floor is right" or "fifth floor, please speak." "**+1**" — An expression of agreement, signifying a "push." "**Leading the wind/direction** (帶風向)" — Referring to the organized creation of a specific public opinion trend on forums; this transitioned from PTT slang to a common term in Taiwanese society.
+The Gossiping board matters because it has long served as the "real-time reaction of Taiwan public opinion." Within the first minutes of a news event, first-hand information, "lazy man's packs" (event summaries), and multi-sided viewpoint clashes appear on Gossiping. Reporters treat it as a source for story leads; political aides treat it as a weather vane for public sentiment. "Check PTT for the wind direction" was, for a long stretch, a daily reflex for Taiwanese.
 
-Terms like "Tianlongren" (天龍人, referring to those living in Taipei with a sense of superiority), "Yepi" (業配, short for business cooperation/sponsored content), and "Laorenbao" (懶人包, summarizing complex issues into an easy-to-read format) have long since outgrown the boundaries of PTT itself.
-
----
-
-## The Sunflower Movement, Elections, and Fake News
-
-During the 2014 Sunflower Student Movement, PTT became the most vital information hub and mobilization center for protesters. Real-time movement updates, supply needs, and legal consultations were all disseminated via PLL. That event demonstrated to the world how much power a BBS station from 1995 could wield in a social movement.
-
-During every election, the Gossiping board and the HatePolitics board become battlegrounds for political maneuvering. Supporters of various camps clash through pushes and boos, political PR firms are accused of using "sockpuppet" accounts to "lead the wind," and moderators struggle with reports and "buckets" (temporary bans). Political discussion on PTT is vibrant, yet often fraught with conflict.
-
-In 2018, PTT announced a suspension of new account approvals, partly due to the large-scale involvement of fake accounts in spreading fake news during election periods. While this decision effectively controlled the quality of new accounts, it also effectively closed the gates, leaving a new generation of young users on the outside.
+PTT has over 20,000 boards site-wide, from Stock (stocks), NBA, LoL, Baseball to Boy-Girl (relationships), marvel (paranormal), joke (humor), covering nearly every imaginable topic. Each board has its own moderators, rules, and culture — some strict as the military (like C_Chat's anti-spoiler rules), some chaotic as a wet market.
 
 ---
 
-## A Love-Hate Relationship with the Media
+## How PTT Changed Taiwan's Language
 
-The relationship between the Taiwanese media and PTT is contradictory. On one hand, journalists extensively mine PTT for news material; "PTT netizens are discussing hotly" has become a universal formula for news headlines. On the other hand, PTT users loathe this practice, mockingly labeling journalists who directly copy PTT posts as "keyboard journalists."
+PTT's most lasting impact on Taiwan may be linguistic. Large volumes of PTT slang have permeated daily conversation, even used naturally by people who don't use PTT:
 
-This cycle creates a peculiar media ecosystem: discussions on PTT are amplified by news reports, which then flow back to PTT to be criticized by netizens, forming a self-reinforcing loop of public opinion. Some events become news solely because they "appeared on PTT," while some news stories lose credibility because "PTT netizens don't buy it."
+"**Villagers** (鄉民)" — PTT users' self-designation, originating from Stephen Chow's film _Justice, My Foot!_ ("I'm just a villager coming to watch the excitement"). In 2004, the PTT sysop posted urging "villagers watching the excitement to retreat behind the yellow line," after which the term shifted from mockery to identity, becoming the most widespread self-designation for PTT users[^5].
+
+"**5F** (五樓)" — the fifth reply line; because early 5F often featured brilliant responses, it evolved into the meme "5F is right" or "5F, speak."
+
+"**+1**" — agreement, meaning "push one."
+
+"**Steering the wind** (帶風向)" — organized manufacture of a specific opinion trend on forums; later this PTT term became general Taiwan social vocabulary.
+
+"Celestial dragons (天龍人)" (referring to Taipei residents with a sense of superiority), "sponsored content (業配)" (business cooperation, i.e., native advertising), "lazy man's pack (懶人包)" (organizing complex issues into readable formats) — these words' vitality has long exceeded PTT itself.
+
+---
+
+## Sunflower, Elections, and Fake News
+
+During the 2014 Sunflower Movement, PTT became the protesters' most important information hub and mobilization center. Real-time movement updates, supply needs, legal consultations all spread through PTT. That moment showed the world how much energy a 1995 BBS site could unleash in a social movement.
+
+Every election, the Gossiping and HatePolitics boards become battlefields for political combat. Supporters of each camp clash in push/boo comments; political PR firms are accused of buying accounts to "steer the wind"; moderators exhaust themselves handling reports and "water buckets" (bans). PTT's political discussion is vibrant, yet also full of gunpowder.
+
+In 2018, PTT announced a suspension of new account registration, one reason being large numbers of fake accounts involved in fake news dissemination during elections[^6]. This decision effectively controlled new account quality, but also shut the door — a new generation of young users was locked outside.
+
+---
+
+## Media's Love-Hate Relationship
+
+Taiwan media's relationship with PTT is contradictory. On one hand, reporters extensively mine PTT for news material; "PTT villagers heatedly discuss" becomes a universal formula for headlines. On the other hand, PTT users loathe this practice, mocking reporters who directly copy PTT posts as "keyboard reporters."
+
+This cycle creates a peculiar media ecology: discussions on PTT are amplified by news reports, news reports flow back to PTT to be criticized by villagers, forming a self-reinforcing opinion loop. Some events become news precisely because they "hit PTT"; some news loses credibility because "PTT villagers don't buy it."
 
 ---
 
 ## The Reality Facing a Thirty-Year-Old BBS
 
-PTT is aging. Between the 2018 registration restrictions, the 2023 email verification cleanup (which locked many accounts not linked to verified emails), and the shift of younger demographics toward Dcard (an anonymous university forum) and Threads (which exploded in popularity in Taiwan starting in 2023), PTT's active user base continues to decline.
+PTT is aging. The 2018 registration restriction, the 2023 email verification cleanup (locking large numbers of accounts without bound emails at once), plus younger demographics shifting to Dcard (university anonymous forum) and Threads (exploding in Taiwan from 2023), mean PTT's active users continue to decline.
 
-The plain-text interface was once PTT's pride—fast loading speeds, censorship resistance, and freedom from algorithmic manipulation—but for a generation raised on smartphones, a forum without images and videos feels like an alien world. Although mobile apps like MoPTT and PiTT provide mobile gateways, the core experience remains text-centric.
+The pure-text interface was once PTT's pride — fast loading, censorship-resistant, immune to algorithmic manipulation — but for a generation raised on smartphones, a forum without images and video is an alien world. Although MoPTT, PiTT, and other mobile apps provide mobile entry points, the core experience remains text.
 
-The rise of Threads in Taiwan has been particularly impactful to PTT. As noted in various Threads posts, when news breaks, the first reaction of Taiwanese netizens has shifted from "checking PTT to see the wind" to "checking Threads to see what everyone is saying."
+Threads' rise in Taiwan has been especially impactful on PTT. As mentioned in Threads posts, when news events occur, Taiwanese netizens' first reaction has shifted from "check PTT for wind direction" to "check Threads to see what everyone's saying."
 
 ---
 
-## But PTT Remains
+## But PTT Is Still Here
 
-Despite declining activity, PTT still holds an irreplaceable position. The Stock board remains incredibly popular during Taiwan stock market trading hours, and the Baseball board sees a massive influx of fans during CPBL and WBC seasons. During elections, the Gossiping and HatePolitics boards remain the core battlegrounds for political discourse.
+Even with declining activity, PTT retains an irreplaceable position. The Stock board remains packed during Taiwan Stock Exchange trading hours; the Baseball board floods with fans during CPBL and WBC seasons. The Gossiping and HatePolitics boards remain core strongholds of political public opinion during elections.
 
-What is truly irreplaceable about PTT is its thirty-year accumulated database of discussions. Want to check the first-hand civilian reaction to a social event from five years ago? Want to see the authentic reviews of a product from ten years ago? PTT's historical archives are one of the most complete records of Taiwan's online collective memory.
+What is truly irreplaceable about PTT is its thirty-year accumulated discussion database. Want to check first-hand civilian reactions to a social event five years ago? Want to see real reviews of a product from ten years ago? PTT's historical articles are among the most complete records of Taiwan's internet collective memory[^7].
 
-Ethan Tu left Microsoft in 2017 to return to Taiwan and found [Taiwan AI Labs](https://ailabs.tw/), but PTT continues to be maintained by student volunteers from NTU; it remains non-profit, and it still does not sell advertising. In an era where every platform is chasing traffic and monetization, the fact that a thirty-year-old BBS can still adhere to these principles is, in itself, something worth recording.
+Ethan Tu left Microsoft in 2017 to return to Taiwan and found Taiwan AI Labs[^8], but PTT is still maintained by NTU student volunteers, still non-profit, still selling no ads. In an era where every platform chases traffic and monetization, a thirty-year-old BBS still adhering to these principles is itself something worth recording.
 
 ---
 
 ## References
 
-- [PTT Bulletin Board System Official Website](https://www.ptt.cc/)
-- [PTT — Wikipedia (zh)](https://zh.wikipedia.org/zh-tw/%E6%89%B9%E8%B8%A2%E8%B8%A2)
-- [PTT Bulletin Board System — Wikipedia](https://en.wikipedia.org/wiki/PTT_Bulletin_Board_System)
-- [The Establishment of PTT — PTT Netizen Encyclopedia (zh)](https://pttpedia.fandom.com/zh/wiki/PTT%E7%9A%84%E6%88%90%E7%AB%8B)
-- [Gossiping Board — PTT Netizen Encyclopedia (zh)](<https://pttpedia.fandom.com/zh/wiki/Gossiping%E6%9D%BF_(%E5%85%AB%E5%8D%A6%E6%9D%BF)>)
-- [PTT refuses new users after fake news incident — Taipei Times (2018)](https://www.taipeitimes.com/News/taiwan/archives/2018/09/17/2003700586)
-- [PTT's Legendary "Villager Culture" — Taiwan Panorama](https://www.taiwan-panorama.com/en/Articles/Details?Guid=10c09fef-775f-4745-8971-4b1f8c7c726d&CatId=7)
+[^1]: [PTT Bulletin Board System — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%89%B9%E8%B8%A2%E8%B8%A2) — Chinese Wikipedia compilation of PTT's founding background, development history, and site governance system
+
+[^2]: [The Founding of PTT — PTT Villager Encyclopedia](https://pttpedia.fandom.com/zh/wiki/PTT%E7%9A%84%E6%88%90%E7%AB%8B) — Villager Encyclopedia records PTT's founding origins and principles of student self-governance and non-profit operation
+
+[^3]: [PTT Bulletin Board System — Wikipedia](https://en.wikipedia.org/wiki/PTT_Bulletin_Board_System) — English Wikipedia includes PTT's early registered user count and technical architecture and other site administration data
+
+[^4]: [Gossiping Board — PTT Villager Encyclopedia](<https://pttpedia.fandom.com/zh/wiki/Gossiping%E6%9D%BF_(%E5%85%AB%E5%8D%A6%E6%9D%BF)>) — Villager Encyclopedia entry documenting the Gossiping Board's founding process and board culture
+
+[^5]: [PTT's Legendary "Villager Culture" — Taiwan Panorama](https://www.taiwan-panorama.com/en/Articles/Details?Guid=10c09fef-775f-4745-8971-4b1f8c7c726d&CatId=7) — Taiwan Panorama English edition feature article introducing the formation and influence of PTT villager culture
+
+[^6]: [PTT refuses new users after fake news incident — Taipei Times (2018)](https://www.taipeitimes.com/News/taiwan/archives/2018/09/17/2003700586) — Taipei Times English report on PTT's decision to suspend new account registration due to fake news incident
+
+[^7]: [PTT Bulletin Board System Official Website](https://www.ptt.cc/) — PTT official site, accumulating tens of thousands of boards and thirty years of article database
+
+[^8]: [Taiwan AI Labs](https://ailabs.tw/) — Official website of the AI research institution founded by Ethan Tu after leaving Microsoft and returning to Taiwan in 2017

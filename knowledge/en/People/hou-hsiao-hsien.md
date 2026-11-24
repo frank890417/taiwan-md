@@ -1,6 +1,6 @@
 ---
 title: 'Hou Hsiao-hsien'
-description: 'The film poet who rejected close-ups yet conquered the world: a visual revolutionary against cinematic grammar'
+description: 'A master of Taiwan New Cinema who subverted film grammar with long takes and an "objective gaze," refusing close-ups and letting the camera follow the actors. In 1989, he won Taiwan''s first Venice Golden Lion with "A City of Sadness"; in 1993, "The Puppetmaster" won the Cannes Jury Prize; in 1998, "Flowers of Shanghai" was filmed entirely in Shanghainese; in 2015, "The Assassin" won him Best Director at Cannes again. His aesthetics influenced directors like Jia Zhangke and Hirokazu Kore-eda. He retired in 2023 due to Alzheimer''s disease, leaving a unique visual language for Chinese-language cinema.'
 date: 2026-03-24
 category: 'People'
 tags:
@@ -177,10 +177,10 @@ lifeTree:
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/侯孝賢.md'
-sourceCommitSha: 'b1a5fea00'
+sourceCommitSha: 'f75a0392a4'
 sourceContentHash: 'sha256:16a0f8bff9cea010'
 sourceBodyHash: 'sha256:4bfda7146e522cab'
-translatedAt: '2026-11-18T15:54:37.530820+00:00'
+translatedAt: '2026-11-24T03:39:43.370493+00:00'
 ---
 
 # Hou Hsiao-hsien

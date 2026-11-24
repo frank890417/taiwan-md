@@ -1,20 +1,20 @@
 ---
 title: 'Kao Chun-ming'
-description: 'A pastor who risked his life and church for a stranger he barely knew — the faith choice behind the Kaohsiung Incident'
+description: 'General Secretary of the Presbyterian Church in Taiwan and a prisoner of conscience recognized by Amnesty International. Following the 1979 Formosa Incident, he established an underground network to hide Shih Ming-teh, whom he had only met twice. In 1980, he was sentenced to seven years in prison by a military court and had all his property confiscated. His prison poem "Burning Thorns with Fire" later won the Golden Melody Award for Best Lyricist. After his release, he continued to promote transitional justice and local theology. He passed away in 2019, having spent his life witnessing how religious faith can serve as a moral resource against authoritarian rule.'
 date: 2026-03-22
+category: 'People'
 tags:
   [
-    people,
-    pastor,
-    human rights movement,
-    martial law period,
-    prisoner of conscience,
-    Presbyterian Church in Taiwan,
-    Kaohsiung Incident,
-    Shih Ming-teh,
+    'People',
+    'Pastor',
+    'Human Rights Movement',
+    'Martial Law Era',
+    'Prisoner of Conscience',
+    'Presbyterian Church in Taiwan',
+    'Formosa Incident',
+    'Shih Ming-teh',
   ]
 subcategory: '政治與民主'
-category: 'People'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-22
@@ -22,10 +22,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/高俊明.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'f2b48b60c5'
 sourceContentHash: 'sha256:eaeba845240b369e'
 sourceBodyHash: 'sha256:b37aec09305a898c'
-translatedAt: '2026-04-14T12:25:09+08:00'
+translatedAt: '2026-11-24T04:18:54.502987+00:00'
 ---
 
 > **30-Second Overview:** Pastor Kao Chun-ming (1929-2019) was imprisoned for 4 years for hiding Kaohsiung Incident fugitive Shih Ming-teh,

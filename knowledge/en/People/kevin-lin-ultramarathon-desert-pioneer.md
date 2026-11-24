@@ -1,16 +1,16 @@
 ---
 title: 'Lin Yi-chieh'
-description: 'From a small boy rejected by the track team to an ultra-runner who made history walking across the Sahara Desert'
+description: 'From a skinny boy rejected by the track team to one of the first three people in human history to trek across the Sahara Desert on foot: in 2006 he covered 7,500 kilometers in 111 days, wearing out 11 pairs of shoes, passing through five politically unstable countries, and winning the overall championship of the Four Poles Ultra Marathon Grand Slam. The documentary "Battle of the Sahara" introduced this Taiwanese runner to the world; the copyright lawsuit controversy after his retirement reveals the complex truth behind the hero''s halo.'
 date: 2026-03-22
 category: 'People'
 tags:
   [
     'People',
-    'ultramarathon',
-    'polar exploration',
-    'athlete',
+    'Ultramarathon',
+    'Polar Exploration',
+    'Athlete',
     'Sahara Desert',
-    'pride of Taiwan',
+    'Pride of Taiwan',
   ]
 subcategory: '體育'
 author: 'Taiwan.md'
@@ -20,10 +20,10 @@ lastHumanReview: false
 readingTime: 7
 curation: 'incubating'
 translatedFrom: 'People/林義傑.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: 'f2b48b60c5'
 sourceContentHash: 'sha256:8741429d614846be'
 sourceBodyHash: 'sha256:3713eaac6b565ca6'
-translatedAt: '2026-08-04T15:04:47+08:00'
+translatedAt: '2026-11-24T04:30:03.726905+00:00'
 ---
 
 > **30-Second Overview:** Lin Yi-chieh, a small boy once threatened by a primary school PE teacher "not to outrun the seniors," became one of the first humans in history to walk across the Sahara Desert in 2006. He completed 7,500 kilometers in 111 days, wearing through 11 pairs of shoes, only to discover that the military escort protecting them had all been killed on their return journey.

@@ -1,29 +1,29 @@
 ---
-translatedFrom: 'People/李智凱.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:40c8b34419f44594'
-sourceBodyHash: 'sha256:cb29681047e37872'
-translatedAt: '2026-05-01T14:11:02+08:00'
-title: 'Li Chih-kai'
-description: "From 'Market Kai' in the documentary Tumbling Boys to an Olympic silver medal — sixteen years of tumbling through life for Taiwan's Pommel Horse Prince."
+title: 'Lee Chih-kai'
+description: 'Taiwan''s "Prince of Pommel Horse." Born in 1996, he joined the Yilan Gongzheng Elementary School gymnastics team at age 6. At age 9, he was nicknamed "Market Boy Kai" following the documentary "Roll On! Boys." Rising to fame with his signature Thomas flare, he won Taiwan''s first Asian Games gymnastics gold medal in 2018. At the 2021 Tokyo Olympics, he secured a silver medal on the pommel horse with a score of 15.400, marking the first Olympic medal in Taiwan''s gymnastics history. His techniques have even been adopted by the International Gymnastics Federation as standard teaching materials, proving through sixteen years of rolling that grassroots gymnastics can reach the world stage.'
 date: 2026-03-21
+category: 'People'
 tags:
   [
     'People',
-    'Li Chih-kai',
-    'gymnastics',
+    'Lee Chih-kai',
+    'Gymnastics',
     'Olympics',
-    'silver medal',
-    'athlete',
-    'pommel horse',
+    'Silver Medal',
+    'Athlete',
+    'Pommel Horse',
     'Taiwan',
   ]
 subcategory: '體育'
-lastVerified: 2026-03-21
-lastHumanReview: true
-category: People
 author: 'Taiwan.md'
 featured: false
+lastVerified: 2026-03-21
+lastHumanReview: true
+translatedFrom: 'People/李智凱.md'
+sourceCommitSha: 'f75a0392a4'
+sourceContentHash: 'sha256:40c8b34419f44594'
+sourceBodyHash: 'sha256:cb29681047e37872'
+translatedAt: '2026-11-24T04:07:48.072021+00:00'
 ---
 
 # Li Chih-kai
