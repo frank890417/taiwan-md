@@ -1,32 +1,31 @@
 ---
-title: '가오쥔밍'
-description: '한 번도 만난 적 없는 낯선 사람을 위해 목사는 자신의 목숨과 교회를 걸었다. 메이리다오 사건 뒤에 숨겨진 신앙의 선택'
+title: '가오쥔밍 (高俊明)'
+description: "대만 기독교 장로회 총회장이며 국제앰네스티가 인정한 양심수이다. 1979년 미려도 사건 이후, 단 두 번밖에 만나지 못했던 스밍더를 위해 지하 은신 네트워크를 구축했다가 1980년 군사법원에서 징역 7년과 전 재산 몰형을 선고받았다. 수감 중 쓴 시 '자파호화소(莿帕互火燒)'는 이후 골든차이니즈뮤직어워드 최우수 작사가상을 수상했다. 출옥 후에는 이행기 정의와 토착 신학을 지속적으로 추진했으며, 2019년 소천하였다. 종교적 신념이 어떻게 권위주의 통치에 맞서는 도덕적 자원이 될 수 있는지를 평생에 걸쳐 증명했다."
 date: 2026-03-22
+category: 'People'
 tags:
   [
     '인물',
     '목사',
-    '인권운동',
-    '계엄시대',
+    '인권 운동',
+    '계엄 시기',
     '양심수',
-    '타이완기독장로교회',
-    '메이리다오 사건',
+    '기독교 장로회',
+    '미려도 사건',
     '스밍더',
   ]
 subcategory: '政治與民主'
-category: 'People'
 author: 'Taiwan.md'
-readingTime: 12
 featured: false
+lastVerified: 2026-03-22
+lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/高俊明.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'f2b48b60c5'
 sourceContentHash: 'sha256:eaeba845240b369e'
 sourceBodyHash: 'sha256:b37aec09305a898c'
-translatedAt: '2026-04-15T17:32:22+08:00'
-lastVerified: 2026-03-22
-lastHumanReview: false
+translatedAt: '2026-11-24T04:19:18.683426+00:00'
 ---
 
 > **30초 요약:** 가오쥔밍 목사(1929-2019)는 메이리다오 사건 도주자 스밍더를 숨겨준 혐의로 4년 복역했다. 두 사람은 그 전까지 공개 석상에서 멀찌감치 마주친 것이 전부인 거의 낯선 사이였다. 도덕적 의무와 현실적 위험이 충돌했을 때 그가 선택한 것은 전자였다. 이것은 그 신앙의 선택에 관한 이야기다.

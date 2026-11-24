@@ -1,21 +1,20 @@
 ---
-title: '리즈카이 (李智凱)'
-description: '《구르고 또 굴러라! 소년들》의 채소시장 카이에서 올림픽 은메달리스트까지. 대만 안마 왕자의 16년 구르기 인생.'
+title: '리즈카이'
+description: "대만의 체조 '안마 왕자'. 1996년생으로 6세에 이란 공정초등학교 체조팀에 입단했으며, 9세 당시 다큐멘터리 <굴러라! 소년들>을 통해 '시장통 카이'라고 불리기도 했다. 전매특허인 토마스 회전 기술로 이름을 알렸으며, 2018년 아시안게임에서 대만 체조 역사상 첫 아시안게임 금메달을 획득했다. 2021년 도쿄 올림픽에서는 15.400점을 기록하며 안마 종목 은메달을 차지해 대만 체조 사상 첫 올림픽 메달을 목에 걸었다. 그의 기술은 국제체조연맹(FIG)의 표준 교육안으로 채택되기도 했으며, 16년간의 끊임없는 도전을 통해 기초 체조로도 세계 무대에 설 수 있음을 증명했다."
 date: 2026-03-21
+category: 'People'
 tags:
   ['인물', '리즈카이', '체조', '올림픽', '은메달', '운동선수', '안마', '대만']
 subcategory: '體育'
-category: 'People'
 author: 'Taiwan.md'
-translatedFrom: 'People/李智凱.md'
-readingTime: 10
 featured: false
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:40c8b34419f44594'
-sourceBodyHash: 'sha256:cb29681047e37872'
-translatedAt: '2026-04-14T19:24:28+08:00'
 lastVerified: 2026-03-21
 lastHumanReview: true
+translatedFrom: 'People/李智凱.md'
+sourceCommitSha: 'f75a0392a4'
+sourceContentHash: 'sha256:40c8b34419f44594'
+sourceBodyHash: 'sha256:cb29681047e37872'
+translatedAt: '2026-11-24T04:08:00.962002+00:00'
 ---
 
 # 리즈카이 (李智凱)

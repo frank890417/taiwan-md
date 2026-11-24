@@ -1,9 +1,9 @@
 ---
-title: '리창위(李昌鈺)'
-description: "부서진 뼈로 감식의 전설을 세웠으나, 수건 위의 '혈흔'으로 두 소년을 30년 동안 억울한 옥살이를 하게 만든 인물"
+title: '이창옥 (Li Chang-yu)'
+description: '대만 역사상 최연소 경찰서장에서 세계적으로 인지도가 가장 높은 화인 형사 감식 과학자로 성장했다. 파쇄기 사건에서 시신이 없는 상태로 미국 형사 사상 최초의 유죄 판결을 이끌어냈으며, 심슨 사건의 변호인 측 증인으로 전 세계에 이름을 알렸다. 평생 8,000건 이상의 사건을 감식하고 40권 이상의 저서를 집필했다. 그러나 2023년 연방법원은 그가 1985년 살인 사건 당시 수건의 혈흔 증거를 조작하여 두 소년이 30년 넘게 억울한 옥살이를 하게 했다고 판결함으로써, 그의 전설적인 생애에 피할 수 없는 의문을 남겼다.'
 date: 2026-03-29
 category: 'People'
-tags: ['인물', '감식과학', '타이완계 미국인', '형사조사']
+tags: ['인물', '감식 과학', '대만계 미국인', '형사 조사']
 subcategory: '科學與學術'
 author: 'Taiwan.md'
 featured: false
@@ -13,10 +13,10 @@ readingTime: 8
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/李昌鈺.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'f2b48b60c5'
 sourceContentHash: 'sha256:d64c72cf7c6361d3'
 sourceBodyHash: 'sha256:6f5a343122533934'
-translatedAt: '2026-11-05T04:19:26+08:00'
+translatedAt: '2026-11-24T04:17:14.738810+00:00'
 ---
 
 # 리창위(李昌鈺)

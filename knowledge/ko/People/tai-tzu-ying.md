@@ -1,21 +1,20 @@
 ---
-title: '다이쯔잉 (戴資穎, Tai Tzu-ying)'
-description: '214주 세계 랭킹 1위 최장 기록 보유자, 가오슝 전진구에서 올림픽 은메달까지 — 타이완 배드민턴 여왕'
+title: '다이쯔잉'
+description: '1994년 가오슝 첸전에서 태어난 대만의 배드민턴 여왕으로, 7세에 라켓을 잡고 12세에 대만 최연소 배드민턴 갑조 선수가 되었으며, 2016년 처음 세계 1위에 올라 대만 최초의 배드민턴 세계 여왕이 되었고, 통산 214주간 1위를 차지해 여자 단식 역대 최장 기록을 세웠다. 또한 32개의 세계 투어 우승, 전영 오픈 3회 우승, 2021년 도쿄 올림픽 은메달로 이정표를 세웠으며, 변화무쌍한 경기 운영과 73%가 넘는 통산 승률로 대만의 국제 배드민턴계 위상을 재정립했다.'
 date: 2026-03-21
-tags:
-  ['인물', '다이쯔잉', '배드민턴', '세계 1위', '올림픽', '운동선수', '타이완']
-subcategory: '體育'
 category: 'People'
+tags:
+  ['인물', '다이쯔잉', '배드민턴', '세계 여왕', '올림픽', '운동선수', '대만']
+subcategory: '體育'
 author: 'Taiwan.md'
-translatedFrom: 'People/戴資穎.md'
-readingTime: 15
 featured: true
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:1a1c26aae26ed9f8'
-sourceBodyHash: 'sha256:72bb27cc8697bfee'
-translatedAt: '2026-04-17T10:33:16+08:00'
 lastVerified: 2026-03-21
 lastHumanReview: true
+translatedFrom: 'People/戴資穎.md'
+sourceCommitSha: 'f75a0392a4'
+sourceContentHash: 'sha256:1a1c26aae26ed9f8'
+sourceBodyHash: 'sha256:72bb27cc8697bfee'
+translatedAt: '2026-11-24T04:04:10.827237+00:00'
 ---
 
 # 다이쯔잉
