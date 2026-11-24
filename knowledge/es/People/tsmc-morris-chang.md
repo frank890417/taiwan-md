@@ -1,6 +1,6 @@
 ---
 title: 'Morris Chang'
-description: 'Padre de los semiconductores, fundador de TSMC, legendario empresario que cambió la industria tecnológica global con el modelo de fundición de obleas'
+description: 'Empresario taiwanés conocido como el padre de los semiconductores. Tras desempeñarse como director general del grupo de semiconductores de Texas Instruments, regresó a Taiwán en 1985 para asumir la presidencia del ITRI. En 1987 fundó TSMC e introdujo el modelo pionero de fabricación de obleas de silicio por contrato (foundry), permitiendo que las empresas de diseño de chips no tuvieran que construir sus propias fábricas, lo que transformó radicalmente el ecosistema de la industria global de semiconductores y convirtió a Taiwán en un nodo central de la cadena de suministro tecnológica mundial. En 2009, a los 78 años, regresó para liderar la empresa tras la crisis financiera, y en 2018 completó el relevo generacional de TSMC mediante un sistema de codirección.'
 date: 2026-03-17
 category: 'People'
 tags:
@@ -8,10 +8,10 @@ tags:
     'Personajes',
     'Morris Chang',
     'TSMC',
-    'semiconductores',
-    'empresario',
-    'fundición de obleas',
-    'montaña sagrada protectora',
+    'Semiconductores',
+    'Empresario',
+    'Fabricación de obleas',
+    'Montaña protectora de la nación',
   ]
 subcategory: '科技與企業'
 author: 'Taiwan.md Contributors'
@@ -225,10 +225,10 @@ lifeTree:
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/張忠謀.md'
-sourceCommitSha: 'b1a5fea0'
+sourceCommitSha: 'f2b48b60c5'
 sourceContentHash: 'sha256:a6a3cf2441fdbe3c'
 sourceBodyHash: 'sha256:0b0d1fd6c8d63d0e'
-translatedAt: '2026-09-23T22:11:50+08:00'
+translatedAt: '2026-11-24T03:38:48.097922+00:00'
 ---
 
 # Morris Chang (張忠謀)

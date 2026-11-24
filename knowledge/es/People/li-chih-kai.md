@@ -1,19 +1,29 @@
 ---
-title: 'Li Chih-kai'
-description: "De 'Cai Chang Shi Kai' en *Rollin'! Boys* a la medalla olímpica de plata, la vida de dieciséis años de volteretas del príncipe taiwanés del caballo con arcos"
+title: 'Lee Chih-kai'
+description: 'El "Príncipe de los caballos con arcos" de la gimnasia taiwanesa. Nacido en 1996, se unió al equipo de gimnasia de la Escuela Primaria Gongzheng en Yilan a los 6 años. A los 9 años, fue apodado "Cai del mercado" debido al documental "Roll on! Boys". Surgió gracias a su emblemático giro de Thomas y en los Juegos Asiáticos de 2018 ganó la primera medalla de oro de la gimnasia taiwanesa en este evento. En los Juegos Olímpicos de Tokio 2021, obtuvo la medalla de plata en caballo con arcos con una puntuación de 15.400, escribiendo la historia al conseguir la primera medalla olímpica para la gimnasia de Taiwán. Su técnica ha sido adoptada por la Federación Internacional de Gimnasia como un plan de enseñanza estándar, demostrando a través de dieciséis años de trayectoria que la gimnasia de base también puede alcanzar el escenario mundial.'
 date: 2026-03-21
-tags: [人物, 李智凱, 體操, 奧運, 銀牌, 運動員, 鞍馬, 台灣]
+category: 'People'
+tags:
+  [
+    'Personaje',
+    'Lee Chih-kai',
+    'Gimnasia',
+    'Juegos Olímpicos',
+    'Medalla de plata',
+    'Atleta',
+    'Caballo con arcos',
+    'Taiwán',
+  ]
 subcategory: '體育'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
 translatedFrom: 'People/李智凱.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'f75a0392a4'
 sourceContentHash: 'sha256:40c8b34419f44594'
 sourceBodyHash: 'sha256:cb29681047e37872'
-translatedAt: '2026-05-02T01:17:17+08:00'
-category: People
-author: 'Taiwan.md'
-featured: false
+translatedAt: '2026-11-24T04:08:13.774609+00:00'
 ---
 
 # Li Chih-kai

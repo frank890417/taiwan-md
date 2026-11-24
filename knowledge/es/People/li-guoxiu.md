@@ -1,9 +1,16 @@
 ---
 title: 'Li Kuo-hsiu'
-description: 'Fundador de la Pingfund, el rey de la comedia en Taiwán; falleció por cáncer de colon el 2 de julio de 2013 a los 57 años.'
+description: 'Fundador de la Compañía de Teatro Ping-Fong, aclamado como el rey de la comedia taiwanesa y maestro del teatro, en 1984 cofundó el Taller de Actuación junto con Lai Sheng-chuan y Li Li-chun, en 1986 fundó la Compañía de Teatro Ping-Fong, escribió obras clásicas como «Shamlet», «Apocalipsis de la Ópera de Pekín» y «Vino de Hija Roja», llevando la preocupación humanística a través de la risa; en 1980 ganó el Premio Golden Bell de Radiodifusión por edición, en 1982 volvió a ser reconocido con el Golden Bell, falleció en 2013 a causa de un cáncer de colon, dejando un sistema estético sobre cómo la comedia puede sostener el peso humanístico, que sigue influyendo en innumerables creadores teatrales taiwaneses.'
 date: 2026-03-19
 category: 'People'
-tags: ['Li Kuo-hsiu', 'Pingfund', 'comedia', 'teatro', 'drama taiwanés']
+tags:
+  [
+    'Li Kuo-hsiu',
+    'Compañía de Teatro Ping-Fong',
+    'Comedia',
+    'Teatro',
+    'Teatro taiwanés',
+  ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md'
 featured: false
@@ -12,10 +19,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/李國修.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'f2b48b60c5'
 sourceContentHash: 'sha256:6ce83dd89e705886'
 sourceBodyHash: 'sha256:874193c9926520f1'
-translatedAt: '2026-10-22T02:46:30+08:00'
+translatedAt: '2026-11-24T04:35:56.106593+00:00'
 ---
 
 # Li Kuo-hsiu: El rey de la comedia en Taiwán

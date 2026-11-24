@@ -1,28 +1,28 @@
 ---
 title: 'Tai Tzu-ying'
-description: 'Poseedora del récord de 214 semanas como número uno mundial, la reina del bádminton taiwanés que pasó de Qianzhen, Kaohsiung, a ganar la plata olímpica'
+description: 'Nacida en 1994 en Kaohsiung, es la reina del bádminton de Taiwán. Comenzó a jugar a los 7 años y a los 12 se convirtió en la jugadora más joven de la liga A de Taiwán. En 2016 alcanzó por primera vez el primer puesto del ranking mundial, convirtiéndose en la primera mujer taiwanesa en ser número uno del mundo en bádminton. Ostenta el récord histórico de mayor permanencia como número uno en individuales femeninos con 214 semanas. Con 32 títulos en el BWF World Tour, tres victorias en el All England Open y una medalla de plata en los Juegos Olímpicos de Tokio 2021, ha establecido un nuevo estándar. Gracias a su estilo de juego versátil y un porcentaje de victorias de carrera superior al 73%, ha redefinido la posición de Taiwán en el bádminton internacional.'
 date: 2026-03-21
+category: 'People'
 tags:
   [
-    Personaje,
-    Tai Tzu-ying,
-    Bádminton,
-    Número uno mundial,
-    Juegos Olímpicos,
-    Deportista,
-    Taiwán,
+    'Personajes',
+    'Tai Tzu-ying',
+    'Bádminton',
+    'Número uno del mundo',
+    'Juegos Olímpicos',
+    'Atletas',
+    'Taiwán',
   ]
 subcategory: '體育'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-21
 lastHumanReview: true
-featured: true
-translatedFrom: People/戴資穎.md
-sourceCommitSha: '4b6d28c5'
+translatedFrom: 'People/戴資穎.md'
+sourceCommitSha: 'f75a0392a4'
 sourceContentHash: 'sha256:1a1c26aae26ed9f8'
 sourceBodyHash: 'sha256:72bb27cc8697bfee'
-translatedAt: 2026-05-02T01:17:17+08:00
-category: People
-author: 'Taiwan.md'
+translatedAt: '2026-11-24T04:04:23.536291+00:00'
 ---
 
 # Tai Tzu-ying

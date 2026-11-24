@@ -1,16 +1,16 @@
 ---
-title: 'Lin Yi-chieh (林義傑)'
-description: 'De un niño delgado rechazado por el equipo de atletismo a un corredor de ultra distancia que hizo historia cruzando a pie el desierto del Sáhara.'
+title: 'Lin Yi-chieh'
+description: 'De ser un niño delgado rechazado por el equipo de atletismo a convertirse en uno de los tres primeros seres humanos en cruzar el desierto del Sahara a pie: en 2006, recorrió 7,500 kilómetros en 111 días, desgastando 11 pares de zapatillas y atravesando cinco países con inestabilidad política, logrando además el campeonato general del circuito de ultramaratones de los cuatro polos. El documental "Decisión Sahara" permitió que el mundo conociera a este corredor taiwanés, mientras que la controversia legal sobre sus derechos de autor tras su retiro revela la compleja verdad detrás del aura de héroe.'
 date: 2026-03-22
 category: 'People'
 tags:
   [
     'Personajes',
-    'ultramaratón',
-    'exploración polar',
-    'deportistas',
-    'desierto del Sáhara',
-    'orgullo de Taiwán',
+    'Ultramaratón',
+    'Exploración polar',
+    'Atleta',
+    'Desierto del Sahara',
+    'Orgullo de Taiwán',
   ]
 subcategory: '體育'
 author: 'Taiwan.md'
@@ -20,10 +20,10 @@ lastHumanReview: false
 readingTime: 7
 curation: 'incubating'
 translatedFrom: 'People/林義傑.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: 'f2b48b60c5'
 sourceContentHash: 'sha256:8741429d614846be'
 sourceBodyHash: 'sha256:3713eaac6b565ca6'
-translatedAt: '2026-08-04T15:04:47+08:00'
+translatedAt: '2026-11-24T04:30:39.556689+00:00'
 ---
 
 > **Resumen en 30 segundos:** Lin Yi-chieh, un niño delgado al que un profesor de educación física de primaria amenazó con «no permitirle ganar a los alumnos mayores», se convirtió en 2006 en uno de los tres primeros seres humanos en cruzar a pie el desierto del Sáhara. Recorrió 7500 km en 111 días, destrozando 11 pares de zapatillas, solo para descubrir que el ejército que los escoltaba fue asesinado en su viaje de regreso.

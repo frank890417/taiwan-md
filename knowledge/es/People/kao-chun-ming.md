@@ -1,21 +1,31 @@
 ---
 title: 'Kao Chun-ming'
-description: 'Un extraño que nunca había conocido en persona llevó a un pastor a arriesgar su vida y su iglesia: la decisión de fe detrás del Incidente de Kaohsiung'
+description: 'Secretario General de la Iglesia Presbiteriana de Taiwán y prisionero de conciencia reconocido por Amnistía Internacional. Tras el incidente de la Isla Hermosa en 1979, estableció una red clandestina para ocultar a Shih Ming-teh, a quien solo había visto dos veces; en 1980, fue condenado por un tribunal militar a siete años de prisión y al decomiso de todos sus bienes. Su poema escrito en la cárcel, "Chih-pa-hu-huo-shao", recibió posteriormente el premio Golden Melody como mejor letrista. Tras su liberación, continuó promoviendo la justicia transicional y la teología local. Falleció en 2019, dejando un testimonio de vida sobre cómo la fe religiosa puede convertirse en un recurso moral para resistir el autoritarismo.'
 date: 2026-03-22
-tags: [人物, 牧師, 人權運動, 戒嚴時期, 良心犯, 基督長老教會, 美麗島事件, 施明德]
-subcategory: '政治與民主'
 category: 'People'
+tags:
+  [
+    'Personajes',
+    'Pastor',
+    'Movimiento por los derechos humanos',
+    'Periodo de la ley marcial',
+    'Prisionero de conciencia',
+    'Iglesia Presbiteriana',
+    'Incidente de la Isla Hermosa',
+    'Shih Ming-teh',
+  ]
+subcategory: '政治與民主'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-22
 lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
-translatedFrom: People/高俊明.md
-sourceCommitSha: 'be13f045'
+translatedFrom: 'People/高俊明.md'
+sourceCommitSha: 'f2b48b60c5'
 sourceContentHash: 'sha256:eaeba845240b369e'
 sourceBodyHash: 'sha256:b37aec09305a898c'
-translatedAt: 2026-05-01T22:19:10+08:00
+translatedAt: '2026-11-24T04:19:30.662282+00:00'
 ---
 
 > **Resumen en 30 segundos:** El pastor Kao Chun-ming (1929-2019) fue encarcelado durante 4 años por esconder a Shih Ming-teh, fugitivo del Incidente de Kaohsiung, a pesar de que ambos eran prácticamente desconocidos: solo se habían visto de lejos en dos ocasiones públicas.
