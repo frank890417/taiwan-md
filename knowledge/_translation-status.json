@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-24T15:47:56+08:00",
-    "zhCommitHead": "8b1a0ef759",
+    "lastUpdated": "2026-11-24T19:05:09+08:00",
+    "zhCommitHead": "275d36a214",
     "totalZh": 1194,
     "activeLanguages": [
       "en",
@@ -52,8 +52,8 @@
       },
       "fr": {
         "total_zh": 1194,
-        "fresh": 1184,
-        "stale": 7,
+        "fresh": 1185,
+        "stale": 6,
         "metadata_stale": 3,
         "missing": 0,
         "orphan": 0
@@ -37124,11 +37124,11 @@
           "sourceContentHash": "sha256:60611b82daa63ad0",
           "sourceBodyHash": "sha256:e00cdf61ff38750d",
           "translatedAt": "2026-11-24T13:29:59+08:00",
-          "translationLastCommit": "0dd48c4c",
-          "translationLastModified": "2026-09-19T07:35:06+08:00",
+          "translationLastCommit": "0d625776",
+          "translationLastModified": "2026-11-24T15:47:56+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 12404,
+          "bytes": 12406,
           "armorResidue": 0,
           "status": "fresh",
           "reason": "same-commit"
@@ -198108,20 +198108,18 @@
         "fr": {
           "path": "fr/History/kano-chiayi-agriculture-forestry.md",
           "translatedFrom": "History/嘉義農林.md",
-          "sourceCommitSha": "7147bb94b",
-          "sourceContentHash": "sha256:3dc0c353cf547397",
-          "sourceBodyHash": "sha256:01899a9de634067d",
-          "translatedAt": "2026-09-11T14:44:01+08:00",
+          "sourceCommitSha": "ef8369eef5",
+          "sourceContentHash": "sha256:7c8bc6c7b2870cad",
+          "sourceBodyHash": "sha256:c2c6980616f215c7",
+          "translatedAt": "2026-11-24T09:05:41.068721+00:00",
           "translationLastCommit": "e64212f1",
           "translationLastModified": "2026-09-27T00:53:11+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 24790,
+          "bytes": 25331,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+16 -7"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/History/kano-chiayi-agriculture-forestry.md",
