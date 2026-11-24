@@ -1,9 +1,9 @@
 ---
-title: '이궈슈'
-description: '핑펑표연반 창립자, 타이완 희극의 왕, 대장암으로 2013년 7월 2일 별세, 향년 57세'
+title: '리궈슈'
+description: '핑펑 공연단의 창립자이자 대만의 코미디 왕이라 불리는 연극 거장이다. 1984년 라이성촨, 리리췬과 함께 퍼포먼스 워크숍을 공동 창설하였으며, 1986년 핑펑 공연단을 설립하여 《햄릿》, 《경희계시록》, 《여아홍》 등 고전적인 작품들을 남겼다. 웃음을 통해 인문학적 관심을 담아내는 것이 특징이다. 1980년 편집 부문으로 라디오 골든벨상을 수상하였고, 1982년에는 골든벨상에서 다시 한번 그 역량을 인정받았다. 2013년 대장암으로 별세하였으나, 코미디가 어떻게 인문학적 무게를 담아낼 수 있는지에 대한 미학 체계를 남겨 오늘날까지 수많은 대만 연극 창작자들에게 영향을 미치고 있다.'
 date: 2026-03-19
 category: 'People'
-tags: ['이궈슈', '핑펑표연반', '희극', '극장', '타이완 연극']
+tags: ['리궈슈', '핑펑 공연단', '코미디', '연극', '대만 연극']
 subcategory: '藝術與設計'
 author: 'Taiwan.md'
 featured: false
@@ -12,10 +12,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/李國修.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'f2b48b60c5'
 sourceContentHash: 'sha256:6ce83dd89e705886'
 sourceBodyHash: 'sha256:874193c9926520f1'
-translatedAt: '2026-10-22T02:46:29+08:00'
+translatedAt: '2026-11-24T04:35:01.413199+00:00'
 ---
 
 # 이궈슈: 타이완 희극의 왕

@@ -1,9 +1,9 @@
 ---
-title: '시무룽(席慕蓉): 초원과 현대의 시적 교향곡'
-description: '『칠리샹』, 『원한 없는 청춘』의 작가이자 화어 시단에서 가장 잘 팔리는 시인, 몽골족.'
+title: '시모룽 (Xi Murong)'
+description: '1980년대 대만에서 가장 인기 있었던 시인으로, 1981년 《칠리향(七里香)》 출간 후 1년 만에 7차례 재판을 거치며 대만 현대시 판매 기록을 세웠다. 《무원의 청춘(無怨的青春)》은 평이하고 진솔한 시풍을 이어갔으며, 〈꽃 피는 나무〉는 중화권 시의 고전이 되었다. 몽골 차하르 부족 출신으로 전문 유화가로 활동했으나, 1989년 처음 초원을 방문한 이후 민족 문화에 관한 글쓰기로 방향을 전환했다. 2019년에는 《나는 기억에 이름을 붙인다(我給記憶命名)》를 통해 자신의 떠돌았던 삶을 회고했다. 시집 총 판매량은 100만 부를 넘어섰으며, 중산문예상, 국가문예상 등을 수상하며 그 가치를 인정받았다.'
 date: 2026-03-19
 category: 'People'
-tags: ['인물', '시무룽', '칠리샹', '원한없는청춘', '시인', '몽골족', '산문가']
+tags: ['인물', '시모룽', '칠리향', '무원의 청춘', '시인', '몽골족', '산문가']
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -12,10 +12,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/席慕蓉.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'f75a0392a4'
 sourceContentHash: 'sha256:d991df46b210ff83'
 sourceBodyHash: 'sha256:1f26407bb0738827'
-translatedAt: '2026-10-21T12:50:06.085069+00:00'
+translatedAt: '2026-11-24T04:39:55.851391+00:00'
 ---
 
 # 시무룽(席慕蓉): 초원과 현대의 시적 교향곡
