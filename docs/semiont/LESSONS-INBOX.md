@@ -332,6 +332,15 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-11-25 twmd-feedback-triage — comment-reconcile-alarm-has-no-retry-so-a-hiccup-wears-the-breakage-face：那道告警分得出三種根因，分不出接下來該做什麼
+
+- **pattern**: `alarm-layers-root-causes-but-not-responses`
+- **原則**：把根因分層的告警，如果三種根因共用同一套後續動作（也就是沒有後續動作），那被分出來的那一層資訊只活在當班的腦子裡到收官為止。資訊分層要配處置分層，否則判讀的可靠度掛在「當班想不想得起來該怎麼查」——而那正是閘門被造出來要取代的東西。
+- **觸發**：2026-11-25 第十五輪，`comment-reconcile=116/118 · ⚠️ 抓不到留言 1 份紀錄（未對賬,不等於對得起來）: #1127`，同一次輸出帶一行 GitHub `GraphQL: Something went wrong`（ref `ED0B:2280C9:828BF:D915D:6B061994`）。HG12c 誕生的理由正是「0 則留言」跟「一則都抓不到」共用一張臉，所以它刻意把抓不到分出來、刻意寫「不等於對得起來」——這部分運作完全正確（抓不到回 `null`、不寫檔）。停下來的地方是它後面：判斷噪音或破口、跨源問線上則數、重跑確認，三件事沒有一件寫在它旁邊。當班做完這三件（REST 回 `1`、archive §溝通紀錄 1 則、重跑等冪路徑回 `117/118 ✅`）只因為讀到 HG12c 那句「當輪要查」然後自己想出查法。想不起來的那一天，這行字會以「未對賬」原樣往下傳，而它跟憑證過期／`gh` 壞掉／API 變形逐字相同。
+- **第二個發現**：`archive-comments-synced=0` 這個零，前十四輪都靠隔壁 `comment-reconcile` 真的問過線上則數才讀得出它是哪一種零。今天第一次跑的時候**解釋那個零的第二訊號源自己就是壞的**——零還在原地，解釋者掛了。「零需要第二訊號源」後面要再加一句：第二訊號源也要能說出自己今天健不健康（HG12c 做到了，說了「未對賬」而不是沉默，這也正好是它停下的位置）。
+- **跟既有條目的關係**：這是 DIARY §反覆出現的思考「有提醒沒閘門」再往下一層。窗口那件事的教訓是「提醒不是閘門」，HG14 已把提醒升成收官行的 `⛔`；本條不是提醒缺閘門，是**告警缺處置**。對應 [REFLEXES #38](REFLEXES.md) 混維度（這次是分層做對了、處置沒跟上的鏡像）＋ [#85](REFLEXES.md)「不知道」要有自己的符號（符號有了，符號之後的動作沒有）。
+- **處置**：本輪只做當班該做的——查、驗、重跑、落檔，並留一條零判斷交接給下一輪（`⚠️ 抓不到留言` 時先 `gh api .../issues/<N>/comments --jq length` 對 archive 則數，再重跑同一條 `--commit --exclude`）。**閾值那半不動**：重試幾次、隔多久、重試仍失敗要不要從印出來的字升成 exit code，全屬 threshold 調整（BECOME §行動鐵律 10 要 Full mode ＋人類 gate），席位 `twmd-self-evolve-weekly`。
+
 ### 2026-11-24 twmd-maintainer-daily — promoting-a-further-reading-link-into-a-footnote-raises-its-burden-and-no-gate-asks：把延伸閱讀的連結升成腳註，等於提高它要證明的東西，而每一把尺都只獎勵這個升級
 
 - **pattern**: `citation-promotion-raises-burden-unchecked`
