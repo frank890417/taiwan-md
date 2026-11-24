@@ -1,5 +1,5 @@
 ---
-title: 'PTT PTT: La plaza pública más obstinada de Taiwán'
+title: 'PTT: La plaza pública más obstinada de Taiwán'
 description: 'Un BBS fundado en un dormitorio en 1995 que, treinta años después, sigue operando con una interfaz de solo texto, moldeando profundamente el lenguaje digital, la política y la memoria colectiva de Taiwán.'
 date: 2026-03-21
 category: 'Technology'

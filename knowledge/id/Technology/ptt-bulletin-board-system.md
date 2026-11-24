@@ -1,5 +1,5 @@
 ---
-title: 'PTT PTT: Alun-alun Publik Paling Gigih di Taiwan'
+title: 'PTT: Alun-alun Publik Paling Gigih di Taiwan'
 description: 'Sebuah BBS yang didirikan di asrama pada tahun 1995, tiga puluh tahun kemudian masih beroperasi dengan antarmuka teks murni, namun telah membentuk bahasa internet, diskusi politik, dan memori kolektif Taiwan secara mendalam.'
 date: 2026-03-21
 category: 'Technology'
