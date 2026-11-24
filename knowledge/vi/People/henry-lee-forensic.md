@@ -1,10 +1,15 @@
 ---
-title: 'Lý Thao Ngọc'
-description: 'Xây dựng truyền thuyết pháp y bằng những mảnh xương, nhưng một vệt máu trên chiếc khăn tắm đã biến hai thanh niên thành tù nhân vô tội suốt ba mươi năm'
+title: 'Lý Trường Ngọc'
+description: 'Từ vị trưởng cảnh sát trẻ nhất trong lịch sử Đài Loan đến nhà khoa học hình sự người Hoa có độ nhận diện cao nhất toàn cầu, nhờ vụ án máy xay gỗ mà trong hoàn cảnh không có thi thể đã góp phần định tội đầu tiên trong lịch sử hình sự Mỹ, nổi tiếng toàn cầu nhờ vai trò là nhân chứng của phía bị cáo trong vụ án Simpson, cả đời đã giám định hơn 8.000 vụ án và sáng tác hơn 40 tác phẩm. Tuy nhiên, năm 2023 tòa án liên bang phán quyết ông đã trong vụ án giết người năm 1985, liên quan đến vết máu trên một chiếc khăn tắm, làm giả bằng chứng, khiến hai thiếu niên phải gánh chịu hơn ba thập kỷ oan tù, để lại dấu hỏi không thể tránh khỏi cho sự nghiệp huyền thoại.'
 date: 2026-03-29
 category: 'People'
 tags:
-  ['nhân vật', 'pháp y khoa học', 'người Đài Loan gốc Mỹ', 'điều tra hình sự']
+  [
+    'Nhân vật',
+    'Khoa học giám định',
+    'Người Mỹ gốc Đài Loan',
+    'Điều tra hình sự',
+  ]
 subcategory: '科學與學術'
 author: 'Taiwan.md'
 featured: false
@@ -14,10 +19,10 @@ readingTime: 8
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/李昌鈺.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'f2b48b60c5'
 sourceContentHash: 'sha256:d64c72cf7c6361d3'
 sourceBodyHash: 'sha256:6f5a343122533934'
-translatedAt: '2026-11-04T21:01:00.677591+00:00'
+translatedAt: '2026-11-24T04:31:18.382884+00:00'
 ---
 
 # Lý Thao Ngọc

@@ -1,18 +1,18 @@
 ---
-title: 'Kaoh Chün-ming (高俊明)'
-description: 'Một người lạ không ai đã từng gặp khiến linh mục chọn cọ mặt đời và giáo hội—lựa chọn tín ngưỡng sau sự kiện Beautiful Island'
+title: 'Kao Chun-ming (Cao Tuấn Minh)'
+description: 'Tổng thư ký Giáo hội Trưởng lão Đài Loan, tù nhân lương tâm được Tổ chức Ân xá Quốc tế công nhận. Sau Sự kiện Đảo Mỹ Lệ năm 1979, ông đã thiết lập mạng lưới ẩn náu bí mật cho Thiếu Minh Đức (Shi Ming-te) dù chỉ mới gặp mặt hai lần; năm 1980, ông bị tòa án quân sự kết án 7 năm tù và tịch thu toàn bộ tài sản. Tác phẩm thơ trong tù "Thanh gai rực lửa" sau này đã giành giải Ca sĩ/Tác giả lời bài hát xuất sắc nhất tại Giải Kim Khúc. Sau khi ra tù, ông tiếp tục thúc đẩy công lý chuyển đổi và thần học bản địa; ông qua đời vào năm 2019, để lại một cuộc đời minh chứng cho việc đức tin tôn giáo có thể trở thành nguồn lực đạo đức để chống lại sự cai trị độc tài.'
 date: 2026-03-22
 category: 'People'
 tags:
   [
-    'nhân vật',
-    'linh mục',
-    'phong trào quyền lực con người',
-    'thời kỳ lệnh sắt',
-    'người bị giam giữ vì tôn giáo',
-    'Giáo hội Long đảo',
-    'sự kiện Beautiful Island',
-    'Kaoh Chün-ming',
+    'Nhân vật',
+    'Mục sư',
+    'Phong trào nhân quyền',
+    'Thời kỳ thiết quân luật',
+    'Tù nhân lương tâm',
+    'Giáo hội Trưởng lão',
+    'Sự kiện Đảo Mỹ Lệ',
+    'Thiếu Minh Đức',
   ]
 subcategory: '政治與民主'
 author: 'Taiwan.md'
@@ -22,130 +22,120 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/高俊明.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'f2b48b60c5'
 sourceContentHash: 'sha256:eaeba845240b369e'
 sourceBodyHash: 'sha256:b37aec09305a898c'
-translatedAt: '2026-07-26T15:32:43+08:00'
+translatedAt: '2026-11-24T11:37:49+08:00'
 ---
 
-> **30 giây tóm tắt:** Linh mục Kaoh Chün-ming (1929–2019) bị giam giữ bốn năm vì đã giấu ẩn người tị nạn của vụ sự kiện Beautiful Island, Che Ming-der,
-> nhưng hai người trước đó gần như không biết nhau—chỉ gặp nhau hai lần trong các buổi công khai.
-> Đây là một câu chuyện về lựa chọn tín ngưỡng: khi đạo đức và rủi ro thực tiễn xung đột, anh chọn phía trước.
+> **Tóm tắt trong 30 giây:** Mục sư Kao Chun-ming (1929-2019) đã phải ngồi tù 4 năm vì che giấu tội phạm đào tẩu trong Sự kiện Đảo Mỹ Lệ là Thiếu Minh Đức, dù trước đó hai người gần như là người lạ — chỉ từng gặp nhau từ xa ở hai sự kiện công cộng. Đây là câu chuyện về sự lựa chọn đức tin: khi nghĩa vụ đạo đức xung đột với rủi ro thực tế, ông đã chọn vế đầu tiên.
 
-Ngày chiều tháng 4 năm 1980, Giáo hội Long đảo của Đài Loan tổng giám đốc Kaoh Chün-ming đang tắm rửa tại nhà, con gái đột nhiên gõ cửa: “Bố, có nhiều người nói muốn tìm Kaoh Chün-ming.” Anh ra khỏi phòng tắm, trong nhà có bảy tám người đàn ông mạnh mẽ, xe chạy đậu ngoài cửa. Anh tay nắm tay họ, hỏi chào, sau đó bị đưa đi khu nhà khoát quân sự tại Xīn Tiān.
+Vào chiều tối ngày 24 tháng 4 năm 1980, Kao Chun-ming (Cao Tuấn Minh), Tổng thư ký Giáo hội Trưởng lão Đài Loan, đang tắm tại nhà thì con gái bất ngờ gõ cửa: "Ba ơi, bên ngoài có rất nhiều người nói muốn tìm Cao Tuấn Minh." Ông bước ra khỏi phòng tắm, thấy trong nhà có bảy tám người đàn ông vạm vỡ đang ngồi, và bên ngoài đậu đầy xe cộ. Ông lần lượt bắt tay chào hỏi từng người, sau đó bị đưa đến Trại giam Quân sự Tân Điếm.
 
-Bốn tháng 21 ngày kể từ đêm đó bắt đầu giam giữ, nguồn gốc từ một người lạ đang cầu xin giúp đỡ.
+Cuộc giam cầm kéo dài 4 năm 3 tháng 21 ngày bắt đầu từ đêm đó, khởi nguồn từ lời cầu cứu của một người xa lạ.
 
-## Hai người lạ gặp gỡ nguy hiểm
+## Cuộc chạm trán nguy hiểm giữa hai người lạ
 
-**“Tôi không biết Che Ming-der, giống như chỉ gặp anh ấy hai lần trong các buổi công khai.”**
+**"Tôi không hề quen biết Thiếu Minh Đức, hình như chỉ mới gặp mặt ở nơi công cộng đúng hai lần."**
 
-Kaoh Chün-ming viết trong bản tự vi. Một lần đang ăn tối với bạn bè, bạn chỉ về phía một người đàn ông trong đó: “Chính anh đó là Che Ming-der.” Một lần khác, khi linh mục Hàn Quốc đến thăm, Kaoh Chün-ming cũng gặp mặt anh ấy. Đó là tất cả những gì anh biết về người đàn ông bị các báo chí mô tả là “bị hét án tử hình, giam giữ trên đảo Xanh Lục, sau đó được cấp giảm nhẹ”。
+Kao Chun-ming sau này đã viết như vậy trong hồi ký của mình. Một lần là khi đang ăn tại nhà hàng cùng bạn bè, người bạn đã chỉ tay về phía một người đàn ông từ xa và nói: "Chính là Thiếu Minh Đức". Lần còn lại là khi gặp một mục sư Hàn Quốc đến thăm. Chỉ có bấy nhiêu thôi. Đối với người mà báo chí mô tả là "từng bị tuyên án tử hình, bị giam tại đảo Lục Đảo rồi được đặc xá", sự hiểu biết của Kao Chun-ming chỉ dừng lại ở đó.
 
-Ngày 10 tháng 12 năm 1979, vụ sự kiện Beautiful Island bùng phát, ba ngày sau đó Đảng Dân Quốc tiến hành bắt giữ toàn bộ. Che Ming-der trốn thoát khỏi kẻ thụ hành, chính phủ đưa ra phát thưởng: ban đầu 500.000 nhân dân tệ, sau đó 1 triệu, 2 triệu, cuối cùng tăng lên 2.5 triệu nhân dân tệ, “gió thổi bão, cây cối đều bị giẫm đất.”
+Sự kiện Đảo Mỹ Lệ bùng nổ vào ngày 10 tháng 12 năm 1979, và ba ngày sau đó, Quốc Dân Đảng đã tiến hành một cuộc đại bắt giữ. Thiếu Minh Đức thoát khỏi sự truy bắt, chính phủ đã treo thưởng: ban đầu là 500.000 Đài tệ, sau đó tăng lên 1 triệu, 2 triệu, và cuối cùng là 2,5 triệu Đài tệ, khiến "ai nấy đều lo sợ, cây cỏ cũng hóa thành binh".
 
-Khoảng ngày 15 tháng 12 năm 1979, Giám hộ xuất bản Hội Thánh Zhao Zhen-er linh mục đến hội Long đảo, đóng cửa nói thầm với Kaoh Chün-ming: “Che Ming-der đã không còn cách nào khác… hy vọng anh có thể cố gắng giúp đỡ.”
+Khoảng ngày 15 tháng 12, Mục sư Triệu Chấn Nhị (Chao Chen-er), cán bộ xuất bản của Hiệp hội Kinh Thánh, đã đến Tổng hội Giáo hội Trưởng lão, đóng cửa lại và nói khẽ với Kao Chun-ming: "Thiếu Minh Đức đã lâm vào đường cùng... hy vọng ông có thể tìm cách giúp đỡ."
 
-> **📝 Ghi chú của người dẫn chương**
-> Trọng tâm của lời xin cầu này là: Kaoh Chün-ming chịu trách nhiệm với hơn 800 giáo hội Long đảo trên toàn Đài Loan và 160.000 tín đồ.
-> Nếu anh bị tịch đi, toàn bộ hệ thống giáo hội sẽ chịu ảnh hưởng.
+> **📝 Ghi chú của người biên tập**
+> Sức nặng của lời thỉnh cầu này nằm ở chỗ: Kao Chun-ming chịu trách nhiệm cho hơn 800 hội thánh Trưởng lão và 160.000 tín đồ trên toàn Đài Loan. Nếu ông gặp chuyện, toàn bộ hệ thống giáo hội sẽ bị chấn động.
 
-Kaoh Chün-ming không ngay lập tức đồng ý. Anh đi dạo trong văn phòng hơn mười phút, suy nghĩ và cầu nguyện. Trợ lý She Ru-yun nhắc nhở anh: “Nếu Che Ming-der bị bắt lại, anh ấy sẽ bị hét án tử hình.”
+Kao Chun-ming không đồng ý ngay lập tức. Ông đi tới đi lui trong văn phòng hơn mười phút để suy ngẫm và cầu nguyện. Trợ lý Thi Thụy Vân (Shi Rui-yun) nhắc nhở ông: "Lần này nếu Thiếu Minh Đức bị bắt lại, sẽ là án tử hình."
 
-Tại thời điểm đó, quyết định thay đổi vận mệnh hai người là: “Ừ, tôi sẽ cố gắng.”
+Ngay khoảnh khắc đó, Kao Chun-ming đã đưa ra quyết định thay đổi số phận của cả hai người: "Được, tôi sẽ tìm cách."
 
-## Mạng lưới thoát nạn dưới đất
+## Mạng lưới ẩn náu bí mật trong 26 ngày
 
-Kaoh Chün-ming xây dựng một mạng lưới giấu ẩn tinh vi qua Chủ tịch Học viện Nữ, Linh Vân-zhen. Che Ming-der ban đầu giấu trong một tòa nhà trên đường Sud Hạ, tầng chứa nhà lãnh đạo Đảng Dân Quốc—đeo nón già, kính phiến, bỏ răng giả, tự làm người dân nông thôn.
+Kao Chun-ming đã thiết lập một mạng lưới ẩn náu tinh vi thông qua Viện trưởng Học viện Thần học Nữ giới Lâm Văn Trân (Lin Wen-zhen). Đầu tiên, Thiếu Minh Đức trốn trong một tòa nhà tại đường Đôn Hóa Nam — ngay phía trên tầng của các quan chức Đảng và Chính phủ Quốc Dân Đảng — ông đội mũ lão niên, đeo kính lão, tháo răng giả để cải trang thành một cụ già ở nông thôn.
 
-Các người trong gia đình, trẻ em nhỏ đều coi anh ấy như một người quen gần trong làng. Che Ming-der ở lại nhà Vân-zhen hai tuần, sau đó chuyển đến nhà của chịu nghiệp vụ trên phố West Gate, rồi liên lạc với bác sĩ Zhang Wen-xi giúp anh chăm sóc răng để chuẩn bị cho phẫu thuật nhũ.
+Mọi người trong gia đình đều coi ông như một người thân từ quê lên. Thiếu Minh Đức đã ở nhà Lâm Văn Trân hai tuần, sau đó chuyển đến nhà Hứa Tình Phú (Xu Qing-fu) tại Tây Môn Đinh, rồi liên lạc với nha sĩ Trương Ôn Ưng (Zhang Wen-ying) để chỉnh sửa răng nhằm chuẩn bị thay đổi diện mạo.
 
-Mạng lưới thoát nạn này hoạt động trong 26 ngày. Ngày 8 tháng 1 năm 1980, Che Ming-der bị bắt trên phố West Gate.
+Mạng lưới đào tẩu này đã hoạt động trong 26 ngày. Vào ngày 8 tháng 1 năm 1980, Thiếu Minh Đức đã bị bắt tại Tây Môn Đinh.
 
-> **💡 Bạn biết không**
-> Số tiền phát thưởng tại thời điểm đó là 250.000 nhân dân tệ, tính đến ngày nay về mức mua sắm khoảng 15–20 triệu nhân dân tệ.
-> Đây là số tiền cao nhất trong lịch sử 38 năm của thời kỳ lệnh sắt tại Đài Loan.
+> **💡 Bạn có biết**
+> Số tiền treo thưởng 2,5 triệu Đài tệ thời điểm đó, quy đổi theo sức mua hiện nay tương đương khoảng 15 đến 20 triệu Đài tệ. Đây là mức tiền thưởng cao nhất trong lịch sử Đài Loan thời kỳ thiết quân luật.
 
-Tất cả những người tham gia giấu ẩn đều bị bắt: chịu nghiệp vụ, Ngườị, Zhang Wen-xi, She Ru-yun, Linh Vân-zhen… chỉ còn Kaoh Chün-ming đứng một mình ngoài tù. Anh chịu đựng nỗi ám ảnh nội tâm, khóc suốt ngày đêm, cầu nguyện mong muốn tự về tự nhận trách nhiệm.
+Tất cả những người tham gia che giấu lần lượt bị bắt: Hứa Tình Phú, Ngô Văn (Wu Wen), Trương Ôn Ưng, Thi Thụy Vân, Lâm Văn Trân... chỉ còn lại một mình Kao Chun-ming ở bên ngoài. Ông phải chịu đựng sự giày vò nội tâm, ngày đêm rơi lệ và cầu nguyện, thậm chí muốn tự thú để gánh vác mọi trách nhiệm.
 
-Nhưng các linh mục trong Hội Long đảo Nguyên bản không cho anh đi. Họ nói: “Nếu anh tự đến tự nhận, cơ quan thụ xét nhanh chóng, giáo hội và các tổ chức quốc tế quyền lực con người không có cách cứu vãn. Cần phải kéo dài thời gian, kéo hộ quan hát quốc tế.”
+Nhưng các mục sư của Giáo hội Trưởng lão đã ngăn ông lại. Họ nói: "Nếu ông đi tự thú, chính quyền sẽ xét xử nhanh chóng, giáo hội và các tổ chức nhân quyền quốc tế sẽ không còn cơ hội để cứu giúp. Phải cố gắng kéo dài thời gian để thu hút sự chú ý của quốc tế."
 
-Bốn tháng chờ đợi bị bắt cực kỳ khó chịu hơn cả việc bị bắt chính thức.
+Bốn tháng chờ đợi bị bắt giữ còn giày vò hơn cả bản thân việc bị bắt.
 
-## Lời bày tỏ tại tòa quân sự
+## Lời tuyên bố trước tòa án quân sự
 
-Ngày 16 tháng 5 năm 1980, tại tòa quân sự, Kaoh Chün-ming đọc lời bày tỏ cuối cùng:
+Ngày 16 tháng 5 năm 1980, tại tòa án quân sự, Kao Chun-ming đã đưa ra lời trình bày cuối cùng:
 
-“Tôi sẵn sàng chịu mọi hình phạt cho Linh Vân-zhen và She Ru-yun hai người, vì họ hai người hoàn toàn chịu trách nhiệm vì tôi. Tôi cũng sẵn sàng dành lời tôn trọng đối với các bị đồng hành khác của Che Ming-der vì tình yêu.”
+"Tôi sẵn sàng chịu mọi hình phạt thay cho Lâm Văn Trân và Thi Thụy Vân, vì hai người họ hoàn toàn bị liên lụy bởi tôi. Tôi cũng muốn bày tỏ lòng kính trọng đối với các bị cáo khác đã giúp đỡ Thiếu Minh Đức vì tình yêu thương."
 
-Sau đó anh nói: “Cách năm nghìn năm trước, có một người đàn ông tên Gai Lược trai Dương, vì lợi ích cá nhân, phản bội với người giáo hội của mình… hôm nay người ấy đã trở thành người duy nhất mà các Chúa Đức bạn bè thế giới không kính trên, nhất thiên với người ấy. Trong xã hội chúng ta, những người giống như người Gai Lược rất nhiều… nhưng những người như chín bị hành hạng ấy, sẵn sàng hy sinh vì người đau khổ, thì rất hiếm.”
+Ông tiếp tục: "Hơn 1900 năm trước, đã có một người tên là Giu-đa Ích-ca-ri-ốt (Judas Iscariot), vì lợi ích cá nhân mà phản bội thầy mình... Ngày nay, Giu-đa đó đã trở thành người bị các Kitô hữu trên toàn thế giới coi thường và khinh miệt nhất. Trong xã hội chúng ta hiện nay, những kẻ như Giu-đa rất nhiều... nhưng những người sẵn sàng hy sinh bản thân vì người khốn khó như chín bị cáo này thì thật hiếm hoi."
 
-> **✦** “Tôi sẵn sàng chịu mọi trách nhiệm cho chín người bị hành hạng ấy, vì điều đó tôi sẵn sàng hy sinh đời mình và tài sản.”
+> **✦** "Tôi sẵn sàng chịu mọi hình phạt mà 9 bị cáo này phải nhận, và vì điều đó, tôi sẵn sàng đánh đổi cả mạng sống và tài sản của mình."
 
-Tòa án không thực hiện đề nghị của anh. Ngày 5 tháng 6 năm 1980, Kaoh Chün-ming bị tòa án xét xử tội hành hạng 7 năm, cấm quyền công dân 5 năm, tài sản toàn bộ bị tịch thu.
+Tòa án đã không chấp nhận yêu cầu của ông. Ngày 5 tháng 6 năm 1980, Kao Chun-ming bị kết án 7 năm tù giam, tước quyền công dân trong 5 năm và tịch thu toàn bộ tài sản.
 
-## Người bị giam giữ vì tôn giáo quốc tế và chiếc ghế trống
+## Tù nhân lương tâm quốc tế và chiếc ghế trống
 
-Vụ án của Kaoh Chün-ming khiến sự chú ý quốc tế. Tổ chức Cấp giúp Nhân đạo Quốc tế xác nhận anh là “người bị giam giữ vì tôn giáo”—người bị giam giữ vì kiên định tín ngưỡng tôn giáo và tinh thần nhân đạo. Các nhà thờ Kitô giáo trên thế giới đều lên tiếng, yêu cầu chính phủ Đài Loan giải phóng linh mục này “người bị giam giữ vì thực hành tình yêu Kitô”.
+Vụ án của Kao Chun-ming đã thu hút sự chú ý của quốc tế. Tổ chức Ân xá Quốc tế đã công nhận ông là "tù nhân lương tâm" — những người bị giam cầm vì kiên định đức tin tôn giáo và tinh thần nhân đạo. Các hội thánh Kitô giáo trên khắp thế giới đã lên tiếng yêu cầu chính phủ Đài Loan trả tự do cho "vị mục sư bị bỏ tù vì thực hành tình yêu Kitô giáo" này.
 
-Ngày 10 tháng 12 năm 1982, vào ngày thứ ba năm kỷ niệm vụ sự kiện Beautiful Island, các sĩ quan hội học Hoa Kỳ, Tổ chức Cấp giúp Nhân đạo Quốc tế và Hiệp hội Công việc Công cộng người Đài Loan tổ chức hội thảo trên địa phận Nhà nước Hoa Kỳ, yêu cầu chính phủ Đảng Dân Quốc giải phóng Linh Vân-zhen, Kaoh Chün-ming và các kẻ khác bị vì lý do chính trị và tôn giáo.
+Ngày 10 tháng 12 năm 1982, kỷ niệm ba năm Sự kiện Đảo Mỹ Lệ, Thượng nghị sĩ Hoa Kỳ Kennedy cùng Tổ chức Ân xá Quốc tế và Hiệp hội Công vụ Công cộng Đài Loan đã tổ chức họp báo tại Capitol Hill, yêu cầu chính quyền Quốc Dân Đảng thả tự do cho các tù nhân chính trị và tôn giáo như Lâm Nghĩa Hùng (Lin Yi-hsiung) và Kao Chun-ming.
 
 > **📊 Bối cảnh dữ liệu**
-> Trong 38 năm của thời kỳ lệnh sắt, Tòa án quân sự đã xử lý 29.407 vụ án chính trị,
-> ước tính hồiêu bị thiệt hại khoảng 140.000 người theo đánh giá thận trọng của chính phủ.
-> Kaoh Chün-ming là một trong số rất ít các nhà lãnh đạo tôn giáo được xác nhận là người bị giam giữ vì tôn giáo bởi các tổ chức quốc tế.
+> Trong 38 năm thiết quân luật, tòa án quân sự đã thụ lý 29.407 vụ án chính trị. Ước tính thận trọng của chính quyền cho biết có khoảng 140.000 nạn nhân vô tội. Kao Chun-ming là một trong số rất ít các nhà lãnh đạo tôn giáo được quốc tế công nhận là tù nhân lương tâm.
 
-Trong bốn năm giam giữ, Hội đồng Nguyên bản Long đảo quyết định giữ vị trí tổng giám đốc của Kaoh Chün-ming và mỗi khi họ họp, họ đặt một chiếc ghế trống trên sân khấu—chiếc ghế ấy nằm ở trung tâm sự chú ý của mọi người, nhắc nhở rằng “trong tù nhà vẫn còn người chưa về.”
+Trong bốn năm ở trong tù, Ban điều hành Giáo hội Trưởng lão đã quyết định giữ nguyên chức vụ Tổng thư ký của Kao Chun-ming, và mỗi khi họp, họ đều đặt một chiếc ghế trống trên bục giảng — chiếc ghế đó được đặt tại vị trí trung tâm để nhắc nhở mọi người rằng "trong ngục vẫn còn người chưa trở về".
 
-Nhà tù ẩm ướt bẩn thỉu, trâu chuột đông đúc, vai năm mươi của anh bị co thắt, hăm tich bị xấu hóa, răng cảm dần ra, phải bốc ba cánh răng. Nhưng nỗi đau xuất thể khó chịu hơn cả đó là một cái đơn lẻ, cô độc tinh thần. Anh đọc Kinh Thánh mỗi ngày, ca trù kinh điệu.
+Phòng giam ẩm thấp và bẩn thỉu, rết và chuột chạy thành đàn; chứng đau vai, bệnh trĩ trầm trọng hơn, và ông đã phải nhổ bỏ ba chiếc răng lung lay. Nhưng điều khó vượt qua hơn cả nỗi đau thể xác là sự cô độc về tinh thần. Mỗi ngày, ông đều thì thầm đọc các chương Kinh Thánh và khẽ hát những bài thánh ca.
 
-Người bạn gần bị giam trong tù, Zhang Chun-hung sau này nói rằng thời gian ấy họ thường xuyên nghe được tiếng cầu nguyện và ca trù của Kaoh Chün-ming rất ấn tượng.
+Trương Tuấn Hoành (Zhang Jun-hong), người ở phòng giam bên cạnh, sau này kể lại rằng trong thời gian đó, ông thường nghe thấy tiếng cầu nguyện và tiếng hát lâm râm của Kao Chun-ming, điều đó khiến ông vô cùng xúc động.
 
-## Tuyên bố quyền lực con người năm 1977: nguyên nhân thực sự của vụ án
+## Tuyên ngôn Nhân quyền năm 1977: Nguyên nhân thực sự của vụ án che giấu
 
-Kaoh Chün-ming cho rằng chính phủ Đảng Dân Quốc muốn bắt giữ anh có ba lý do, việc giấu Che Ming-der chỉ là tia lửa gây ra. Nguyên nhân thực sự là tuyên bố “Tuyên bố Quyền lực con người” do anh dẫn dắt được công bố vào ngày 16 tháng 8 năm 1977—tài liệu này đòi hỏi “làm cho Đài Loan trở thành một quốc gia mới và độc lập.”
+Kao Chun-ming cho rằng chính quyền Quốc Dân Đảng muốn bắt giữ ông vì ba lý do, và việc che giấu Thiếu Minh Đức chỉ là ngòi nổ. Nguyên nhân thực sự là bản "Tuyên ngôn Nhân quyền" được Giáo hội Trưởng lão Đài Loan công bố vào ngày 16 tháng 8 năm 1977 — văn kiện do chính ông chủ trì soạn thảo, yêu cầu "biến Đài Loan thành một quốc gia mới và độc lập".
 
-Đây là một trong những tuyên bố chính trị dũng cảm nhất trong thời kỳ lệnh sắt tại Đài Loan. “Tuyên bố Quyền lực con người” kêu gọi Tổng thống Hoa Kỳ Carter, trong khi quan hệ với Trung Quốc chính thức được chuẩn bị chuẩn bị, kiên trì “bảo vệ an toàn, độc lập và tự do của người dân Đài Loan,” đồng thời đề xuất “tương lai của Đài Loan nên do 1,7 triệu người sinh sống tại đây quyết định.”
+Đây là một trong những tuyên ngôn chính trị táo bạo nhất trong thời kỳ thiết quân luật tại Đài Loan. Bản Tuyên ngôn kêu gọi Tổng thống Hoa Kỳ Jimmy Carter, khi bình thường hóa quan hệ với Cộng sản Trung Quốc, phải kiên trì "bảo vệ an ninh, độc lập và tự do của người dân Đài Loan", đồng thời khẳng định "tương lai của Đài Loan phải do 17 triệu cư dân Đài Loan quyết định".
 
 > **⚠️ Bối cảnh lịch sử**
-> Năm 1977 đúng là trước khi Hoa Kỳ ngắt chặt quan hệ, địa vị ngoại giao của Đài Loan rất nguy hiểm.
-> Hội Long đảo công bố tuyên bố độc lập tại thời điểm này, thách thức trực tiếp chính sách một Trung Quốc của chính phủ Đảng Dân Quốc,
-> mức độ sốc động tương tự như vào thời kỳ hiện nay của đề xuất tranh chọ độc lập tại Đài Loan.
+> Năm 1977 là thời điểm ngay trước khi Mỹ cắt đứt quan hệ ngoại giao với Đài Loan, tình hình ngoại giao của Đài Loan cực kỳ hiểm nghèo. Việc Giáo hội Trưởng lão công bố tuyên ngôn độc lập vào lúc này đã trực tiếp thách thức chính sách "Một Trung Quốc" của chính quyền Quốc Dân Đảng, mức độ chấn động tương đương với các đề xuất trưng cầu dân ý về độc lập Đài Loan ngày nay.
 
-Chính phủ Đảng Dân Quốc tiến hành xâm phạm hệ thống giáo hội Long đảo nhằm chia rẽ. Kaoh Chün-ming đề xuất hội nhập lại Liên hiệp Thánh mục Tế giáo, phản đối giáo hội cô lập với xã hội quốc tế, việc này khiến chính phủ không chịu được. “Nếu tôi không bị giam giữ vì vụ án giấu ẩn, tôi cũng sẽ bị giam giữ vì vụ án khác,” anh sau này nói, “may mắn là tôi giam giữ vì Đài Loan, tôi thật sự cảm thấy vinh dự.”
+Chính quyền Quốc Dân Đảng đã tiến hành thâm nhập và chia rẽ hệ thống đối với Giáo hội Trưởng lão. Việc Kao Chun-ming chủ trương gia nhập lại Hội đồng Giáo hội Thế giới nhằm tránh sự cô lập của giáo hội với cộng đồng quốc tế càng khiến chính quyền không thể dung thứ. "Nếu tôi không bị bỏ tù vì vụ che giấu, tôi cũng sẽ bị bỏ tù vì những vụ án khác," ông nói sau này, "được ngồi tù vì Đài Loan là một vinh dự lớn lao đối với tôi."
 
-## Thơ ca trong tù và lời nói ra tù ra
+## Thơ trong tù và lời phát biểu khi ra tù
 
-Trong bốn năm giam giữ tại khu nhà khoát quân sự tại Xīn Tiān, Kaoh Chün-ming viết thơ “Cháy bốc lụa trại lửa”（tên tiếng Trung “Lìpà Hù Huǒ”），sau này được trao giải Nhạc sĩ truyền thống và nghệ thuật số 17 năm 2006.
+Trong bốn năm tại Trại giam Quân sự Tân Điếm, Kao Chun-ming đã viết nên bài thơ "Thanh gai rực lửa" (莿帕互火燒), sau này vào năm 2006 đã giành giải Tác giả lời bài hát xuất sắc nhất cho hạng mục âm nhạc truyền thống và nghệ thuật tại Giải Kim Khúc lần thứ 17.
 
-Ngày 15 tháng 8 năm 1984, Kaoh Chün-ming được xuất ngũ sớm. Trong lời nói ra tù, anh nói:
+Ngày 15 tháng 8 năm 1984, Kao Chun-ming được ra tù sớm. Trong lời phát biểu khi ra tù, ông nói:
 
-“Tôi tin sâu sắc rằng trong thử thách bch lửa này, có Ý Chúa công bằng. Trong bốn năm qua, tôi học cách xin tha thứ. Tôi sẽ cầu nguyện cho những người bị bắt, xét xử, giam giữ tôi, và những người khác. Tôi cũng sẽ tiếp tục cống hiến cho dân chủ, tự do và quyền lực con người của Đài Loan.”
+"Tôi tin tưởng sâu sắc rằng trong thử thách rực lửa này đều có ý muốn tốt đẹp của Chúa. Trong hơn bốn năm qua, tôi đã học được bài học về sự tha thứ. Tôi sẽ cầu nguyện cho những người đã bắt giữ, xét xử và giam cầm mình. Tôi cũng sẽ tiếp tục nỗ lực vì dân chủ, tự do và nhân quyền của Đài Loan."
 
-Sau khi ra tù, anh không sụp đổ do nỗi đau của tù nhân mà thực sự ngược lại, anh càng hoạt động mạnh mẽ hơn trong các phong trào dân chủ và cải cách xã hội. Anh tiếp tục tác động trong Hội Long đảo, thúc đẩy giáo hội tham gia sâu hơn vào các vấn đề xã hội, lên tiếng cho những người bị giam giữ vì lý do chính trị và bị áp lực.
+Sau khi ra tù, ông không hề chùn bước trước những dày vò của ngục tù, mà ngược lại còn tích cực tham gia vào các phong trào dân chủ và cải cách xã hội. Ông tiếp tục phát huy tầm ảnh hưởng trong Giáo hội Trưởng lão, thúc đẩy giáo hội tham gia sâu hơn vào các vấn đề xã hội, lên tiếng cho các tù nhân chính trị và những người bị áp bức.
 
-> **📝 Ghi chú của người dẫn chương**
-> Câu chuyện của Kaoh Chün-ming mở ra một khía cạnh quan trọng của quá trình dân chủ hóa tại Đài Loan:
-> Tín ngưỡng tôn giáo như thế nào trở thành nguồn lực đạo đức chống lại quyền lực ác tính.
-> Đây không phải là một phép tính chính trị, mà là một hành động tín ngưỡng—dù đối tượng là người lạ.
+> **📝 Ghi chú của người biên tập**
+> Câu chuyện của Kao Chun-ming hé lộ một khía cạnh quan trọng của quá trình dân chủ hóa tại Đài Loan: Cách mà đức tin tôn giáo trở thành nguồn lực đạo đức để đối kháng với sự cai trị độc tài. Đây không phải là tính toán chính trị, mà là sự thực hành đức tin — ngay cả khi đối tượng là một người xa lạ.
 
-## Học hỏi từ nền sinh học và giáo lý bản địa
+## Công lý chuyển đổi và Thần học bản địa
 
-Vào thời kỳ sau khi lệnh sắt tan rã, Kaoh Chün-ming tiếp tục thúc đẩy “học hỏi chính xác”（transformative justice）。 Anh cho rằng xã hội phải thực sự hòa giải mới có thể, bằng cách đối mặt với sai lầm của quá khứ, hé lộ sự thật, và trao đền bù cho những người bị thiệt hại.
+Bước vào thời kỳ hậu độc tài, Kao Chun-ming tích cực thúc đẩy công lý chuyển đổi. Ông cho rằng để xã hội thực sự hòa giải, cần phải đối mặt với những sai lầm trong quá khứ, làm sáng tỏ sự thật, đưa ra lời xin lỗi và bồi thường xứng đáng cho các nạn nhân.
 
-Anh cũng là một trong những người trọng tâm thúc đẩy phát triển giáo lý bản địa tại Đài Loan. Anh cho rằng Kitô giáo phải kết hợp với văn hóa bản địa và thực tiễn xã hội, chứ không chỉ sao nhập giáo lý Tây phương. Vì sự thúc đẩy của anh, Đài Loan phát triển ra những lý luận giáo lý có bản sắc bản địa—giáo hội phải trở thành “lý tâm xã hội”， không chỉ quan tâm đến tâm linh của tín đồ mà còn quan tâm đến phúc lợi của toàn xã hội.
+Ông cũng là người thúc đẩy quan trọng cho sự phát triển của thần học bản địa tại Đài Loan. Ông chủ trương rằng đức tin Kitô giáo phải kết hợp với văn hóa bản địa và thực tế xã hội, chứ không thể chỉ sao chép nguyên xi thần học phương Tây. Dưới sự thúc đẩy của ông, Đài Loan đã phát triển nên những luận thuyết thần học mang đặc sắc bản địa — giáo hội phải trở thành "lương tâm của xã hội", không chỉ quan tâm đến linh hồn tín đồ mà còn phải chú trọng đến phúc lợi của toàn xã hội.
 
-Năm 2019, linh mục Kaoh Chün-ming qua đời tại nhà, tuổi 90. Lễ kỷ niệm thu hút hàng ngàn người tham dự, bao gồm các cán bộ chính phủ, các vị trí trưởng lão của phong trào dân chủ, và các nhà lãnh đạo tôn giáo. Dù quan điểm chính trị khác nhau, mọi người đều thể hiện sự tôn trọng đối với người lãnh đạo tôn giáo đã dành cả đời mình cho dân chủ và quyền lực con người của Đài Loan.
+Năm 2019, Mục sư Kao Chun-ming qua đời, hưởng thọ 90 tuổi. Lễ tang của ông đã thu hút hàng ngàn người tham dự, bao gồm các quan chức chính phủ, các bậc tiền bối trong phong trào dân chủ và các nhà lãnh đạo tôn giáo. Bất kể lập trường chính trị nào, mọi người đều bày tỏ sự kính trọng đối với vị lãnh đạo tôn giáo đã cống hiến cả cuộc đời cho dân chủ và nhân quyền của Đài Loan.
 
-Kaoh Chün-ming dùng đời mình chứng niên cho chúng ta: khi đối mặt với sự bất công và không công lý, mỗi người đều có trách nhiệm đứng lên lên tiếng. Dù là người lạ, dù phải chịu đựng giá trị lớn. Tinh thần này vượt qua sự khác biệt về quan điểm chính trị, trở thành một tài sản đạo đức quý giá của xã hội Đài Loan.
+Kao Chun-ming đã dùng chính cuộc đời mình để minh chứng rằng: khi đối mặt với bất công, mỗi cá nhân đều có trách nhiệm đứng lên lên tiếng. Ngay cả khi đó là một người xa lạ, ngay cả khi phải trả một cái giá rất lớn. Tinh thần này vượt qua mọi sự khác biệt về lập trường chính trị, trở thành tài sản đạo đức quý giá của xã hội Đài Loan.
 
-Quyết định từ năm 1980—chịu trách nhiệm với một kẻ tị nạn gần như không được biết đến—nền tảng của niềm tin đó vẫn sáng lên trên bờ biển này đến ngày nay.
+Quyết định vào năm 1980 đó — chấp nhận rủi ro vì một tội phạm gần như không quen biết — niềm tin đằng sau nó cho đến nay vẫn đang tỏa sáng trên hòn đảo này.
 
 ## Tài liệu tham khảo
 
-- [Kaoh Chün-ming linh mục giấu Che Ming-der bị tòa án xét xử—tài liệu lịch sử giáo hội Đài Loan](http://www.laijohn.com/archives/pc/Ko/Ko,CBeng/captured/oral.htm)
-- [Tuyên bố Quyền lực con người của Giáo hội Long đảo (1977)—trang web chính thức](https://www.pct.org.tw/ab_doc.aspx?DocID=005)
-- [Phản hồi và suy ngẫm về vụ sự kiện Beautiful Island—Hiệp hội Chăm sóc những người bị tịch thâm](https://taup.yam.org.tw/announce/9912/991208-d.htm)
-- [Lịch sử FAPA 1982–2012—Hiệp hội Công việc Công cộng người Đài Loan](https://fapa.org/fapa-history-1982-2012/)
-- [Thời kỳ lệnh sắt tại Đài Loan—Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E7%99%BD%E8%89%B2%E6%81%90%E6%80%96%E6%99%82%E6%9C%9F)
-- [Giáo hội Long đảo—Wikipedia](https://en.wikipedia.org/wiki/Presbyterian_Church_in_Taiwan)
+- [Mục sư Kao Chun-ming bị kết án vì che giấu Thiếu Minh Đức - Lưu trữ tư liệu lịch sử Giáo hội Đài Loan](http://www.laijohn.com/archives/pc/Ko/Ko,CBeng/captured/oral.htm)
+- [Tuyên ngôn Nhân quyền của Giáo hội Trưởng lão Đài Loan (1977) - Trang web chính thức của Giáo hội Trưởng lão](https://www.pct.org.tw/ab_doc.aspx?DocID=005)
+- [Nhìn lại và suy ngẫm về Sự kiện Đảo Mỹ Lệ - Hiệp hội Quan tâm Nạn nhân Chính trị Đài Loan](https://taup.yam.org.tw/announce/9912/991208-d.htm)
+- [Lịch sử FAPA 1982-2012 - Hiệp hội Công vụ Công cộng Đài Loan](https://fapa.org/fapa-history-1982-2012/)
+- [Thời kỳ Khủng bố Trắng tại Đài Loan - Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E7%99%BD%E8%89%B2%E6%81%90%E6%80%96%E6%99%82%E6%9C%9F)
+- [Presbyterian Church in Taiwan - Wikipedia](https://en.wikipedia.org/wiki/Presbyterian_Church_in_Taiwan)

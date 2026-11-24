@@ -1,28 +1,28 @@
 ---
-title: 'Đới Tư Dĩnh'
-description: 'Người giữ kỷ lục 214 tuần đứng đầu bảng xếp hạng thế giới, từ Tiền Trấn Cao Hùng đến huy chương bạc Olympic - Nữ hoàng cầu lông của Đài Loan'
+title: 'Tai Tzu-ying'
+description: 'Nữ hoàng cầu lông Đài Loan sinh năm 1994 tại quận Tiền Trấn, Cao Hùng. Cô bắt đầu cầm vợt từ năm 7 tuổi và trở thành vận động viên cầu lông hạng A trẻ nhất Đài Loan vào năm 12 tuổi. Năm 2016, cô lần đầu tiên vươn lên vị trí số một thế giới, trở thành nữ hoàng cầu lông thế giới đầu tiên của Đài Loan. Với 214 tuần giữ vững ngôi vị số một, cô đã thiết lập kỷ lục kéo dài nhất trong lịch sử đơn nữ. Cô cũng tạo nên những cột mốc ấn tượng với 32 chức vô địch giải World Tour, ba lần vô địch All England Open và giành huy chương bạc tại Olympic Tokyo 2021. Bằng lối đánh biến hóa đa dạng cùng tỷ lệ thắng sự nghiệp vượt quá 73%, cô đã định nghĩa lại vị thế của Đài Loan trên đấu trường cầu lông quốc tế.'
 date: 2026-03-21
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '體育'
 tags:
   [
     'Nhân vật',
-    'Đới Tư Dĩnh',
+    'Tai Tzu-ying',
     'Cầu lông',
-    'Số một thế giới',
+    'Nữ hoàng cầu lông thế giới',
     'Olympic',
     'Vận động viên',
     'Đài Loan',
   ]
+subcategory: '體育'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-21
 lastHumanReview: true
-featured: true
 translatedFrom: 'People/戴資穎.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'f75a0392a4'
 sourceContentHash: 'sha256:1a1c26aae26ed9f8'
 sourceBodyHash: 'sha256:72bb27cc8697bfee'
-translatedAt: '2026-07-26T03:58:04+08:00'
+translatedAt: '2026-11-24T04:17:48.845519+00:00'
 ---
 
 # Đới Tư Dĩnh

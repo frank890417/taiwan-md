@@ -1,19 +1,19 @@
 ---
 title: 'Dương Dũng Vĩ'
-description: 'Hạng bạc judo 60 kg tại Olympic Tokyo 2021, vận động viên đầu tiên của Đài Loan đạt giải Olympic judo, cùng năm tháng 11 lên ngôi số 1 thế giới.'
+description: 'Vận động viên Judo người dân tộc Paiwan, giành huy chương bạc hạng cân 60kg nam tại Olympic Tokyo 2021, lập nên cột mốc huy chương Olympic đầu tiên trong lịch sử Judo Đài Loan. Vào tháng 11 cùng năm, anh vươn lên vị trí số một thế giới trên bảng xếp hạng của Liên đoàn Judo Quốc tế, trở thành người Đài Loan đầu tiên đứng đầu thế giới ở bộ môn này. Tại Á vận hội Hàng Châu 2023, anh tiếp tục giành huy chương vàng để chứng minh thực lực bền bỉ chứ không phải nhất thời; với kỹ thuật nội cổ (uchi-mata) đặc trưng đầy chính xác cùng thái độ khiêm tốn, anh đã chinh phục cả những khán giả Nhật Bản. Từ một cậu bé tình cờ tiếp xúc với Judo hồi tiểu học, anh đã trở thành một võ sĩ thiên về kỹ thuật, viết lại lịch sử Judo Đài Loan.'
 date: 2026-03-21
 category: 'People'
 tags:
   [
-    'Người',
+    'Nhân vật',
     'Dương Dũng Vĩ',
     'Judo',
     'Olympic',
-    'Hạng bạc',
+    'Huy chương bạc',
     'Vận động viên',
     'Đài Loan',
-    'Người bản địa',
-    'Tộc Paiwan',
+    'Thổ dân',
+    'Dân tộc Paiwan',
   ]
 subcategory: '體育'
 author: 'Taiwan.md'
@@ -21,10 +21,10 @@ featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
 translatedFrom: 'People/楊勇緯.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'f2b48b60c5'
 sourceContentHash: 'sha256:66a5e0aae1a572b7'
 sourceBodyHash: 'sha256:162f09653edec7c3'
-translatedAt: '2026-09-28T08:43:09+08:00'
+translatedAt: '2026-11-24T04:26:02.371456+00:00'
 ---
 
 # Dương Dũng Vĩ

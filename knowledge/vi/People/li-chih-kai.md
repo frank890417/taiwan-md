@@ -1,17 +1,17 @@
 ---
 title: 'Lý Trí Khải'
-description: 'Từ "Khải từ chợ" trong phim tài liệu Lăn Lộn Thôi! đến huy chương bạc Olympic - 16 năm cuộc đời lăn lộn của "Hoàng tử nhị mã" Đài Loan'
+description: 'Được mệnh danh là "Hoàng tử ngựa vòng" của thể dục dụng cụ Đài Loan, Lý Trí Khải sinh năm 1996. Năm 6 tuổi, anh gia nhập đội thể dục dụng cụ trường tiểu học Công Chính tại Nghi Lan; năm 9 tuổi, anh từng bị gọi là "Khải chợ búa" qua bộ phim tài liệu "Lăn đi nào! Chàng trai". Nhờ kỹ thuật xoay Thomas đặc trưng, anh đã trỗi dậy mạnh mẽ, giành huy chương vàng thể dục dụng cụ đầu tiên cho Đài Loan tại Á vận hội 2018. Tại Thế vận hội Tokyo 2021, anh đã đạt 15.400 điểm để giành huy chương bạc nội dung ngựa vòng, viết nên lịch sử với tấm huy chương Olympic đầu tiên của thể dục dụng cụ Đài Loan. Kỹ thuật của anh thậm chí còn được Liên đoàn Thể dục dụng cụ Quốc tế chấp thuận làm giáo án tiêu chuẩn, dùng 16 năm lăn xả để chứng minh rằng thể dục dụng cụ phong trào cũng có thể vươn ra thế giới.'
 date: 2026-03-21
 category: 'People'
 tags:
   [
-    'nhân vật',
+    'Nhân vật',
     'Lý Trí Khải',
-    'thể dục dụng cụ',
+    'Thể dục dụng cụ',
     'Olympic',
-    'huy chương',
-    'vận động viên',
-    'nhị mã',
+    'Huy chương bạc',
+    'Vận động viên',
+    'Ngựa vòng',
     'Đài Loan',
   ]
 subcategory: '體育'
@@ -20,11 +20,10 @@ featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
 translatedFrom: 'People/李智凱.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:ff3c9e87041e92bea74c6808dbfe9ebf544aafc0476037dcf5983836336ae16f'
-sourceBodyHash: 'sha256:ff3c9e87041e92bea74c6808dbfe9ebf544aafc0476037dcf5983836336ae16f'
-translatedAt: 2026-07-31T00:00:00Z
-imageAlt: 'Lý Trí Khải thực hiện động tác nhị mã tại Olympic Tokyo 2020'
+sourceCommitSha: 'f75a0392a4'
+sourceContentHash: 'sha256:40c8b34419f44594'
+sourceBodyHash: 'sha256:cb29681047e37872'
+translatedAt: '2026-11-24T04:19:54.607752+00:00'
 ---
 
 # Lý Trí Khải

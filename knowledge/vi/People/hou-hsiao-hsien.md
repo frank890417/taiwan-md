@@ -1,16 +1,16 @@
 ---
 title: 'Hầu Hiếu Hiền'
-description: 'Nhà thơ điện ảnh từ chối cảnh chân dung nhưng chinh phục thế giới — một cuộc cách mạng hình ảnh chống lại quy tắc điện ảnh chính thống'
+description: 'Đại sư của Làng điện ảnh mới Đài Loan đã lật đổ ngữ pháp điện ảnh bằng pha dài và "khách quan nhìn chăm chú", từ chối pha cận cảnh, để máy quay phục vụ diễn viên. Năm 1989, ông giành Giải Vàng Venice đầu tiên của Đài Loan với "Thành phố bi thương", năm 1993 "Kịch mộng nhân sinh" giành Giải Ban giám khảo Cannes, năm 1998 "Hải thượng hoa" được quay toàn bộ bằng tiếng Thượng Hải, năm 2015 "Kích khách NiẾc Ẩn Nương" lại giành Giải Đạo diễn xuất sắc nhất Cannes. Thẩm mỹ của ông ảnh hưởng đến các danh đạo như Gia Trương Khắc, Kore-eda Hirokazu. Năm 2023, ông nghỉ hưu do bệnh Alzheimer, để lại cho điện ảnh Hoa ngữ một ngôn ngữ hình ảnh độc nhất vô nhị.'
 date: 2026-03-24
 category: 'People'
 tags:
   [
     'Hầu Hiếu Hiền',
-    'Điện ảnh Đài Loan mới',
-    'Giải sư tử vàng Venice',
+    'Làng điện ảnh mới Đài Loan',
+    'Giải Vàng Venice',
     'Liên hoan phim Cannes',
     'Thẩm mỹ điện ảnh',
-    'Cảnh quay dài',
+    'Pha dài',
   ]
 subcategory: '電影與戲劇'
 author: 'Taiwan.md'
@@ -177,10 +177,10 @@ lifeTree:
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/侯孝賢.md'
-sourceCommitSha: 'b1a5fea00'
+sourceCommitSha: 'f75a0392a4'
 sourceContentHash: 'sha256:16a0f8bff9cea010'
 sourceBodyHash: 'sha256:4bfda7146e522cab'
-translatedAt: '2026-11-18T13:54:29.637211+00:00'
+translatedAt: '2026-11-24T03:59:30.058774+00:00'
 ---
 
 # Hầu Hiếu Hiền
