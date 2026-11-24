@@ -1,6 +1,6 @@
 ---
 title: 'シー・ムーロン'
-description: '『七里香』『怨みなき青春』の作者、中国語詩壇で最も売れている詩人、モンゴル族'
+description: '1980年代台湾で最も売れた詩人。1981年に『七里香』が出版されてから1年以内に7度の重版を重ね、台湾現代詩の販売記録を樹立。『無怨の青春』は平易で真摯な詩風を継ぎ、『一本の花咲く木』は中国語詩歌の古典となった。彼女はモンゴル察哈爾部の出身で、本格派の油絵画家でもある。1989年に初めて草原を踏んでから民族文化の執筆へと転じ、2019年の『我給記憶命名』では一生の漂泊を振り返る。詩集の総販売部数は100万冊を超え、中山文芸賞、国家文芸賞などを受賞している。'
 date: 2026-03-19
 category: 'People'
 tags:
@@ -8,7 +8,7 @@ tags:
     '人物',
     'シー・ムーロン',
     '七里香',
-    '怨みなき青春',
+    '無怨の青春',
     '詩人',
     'モンゴル族',
     '随筆家',
@@ -21,10 +21,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/席慕蓉.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'f75a0392a4'
 sourceContentHash: 'sha256:d991df46b210ff83'
 sourceBodyHash: 'sha256:1f26407bb0738827'
-translatedAt: '2026-10-21T12:51:05.153279+00:00'
+translatedAt: '2026-11-24T04:39:53.577767+00:00'
 ---
 
 # 席慕蓉：草原と現代の詩的交響曲

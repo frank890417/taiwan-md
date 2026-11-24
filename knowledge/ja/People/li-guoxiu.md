@@ -1,9 +1,9 @@
 ---
-title: '李國修（り・こくしゅう／リー・グオシウ）'
-description: '屏風表演班創設者、台湾喜劇の王、大腸がんのため2013年7月2日に死去、享年57歳'
+title: '李國修'
+description: '屏風表演班の創設者であり、「台湾コメディの王」と称される演劇界の大師です。1984年に賴聲川、李立群と共にパフォーマンス・ワークショップを共同設立し、1986年には屏風表演班を創設しました。『莎姆雷特』『京戲啟示錄』『女兒紅』などの古典的名作を世に送り出し、笑いを通じて人間愛や社会への関心を表現しました。1980年に編集でゴールデンベル賞（金鐘獎）のラジオ部門を受賞、1982年には再び同賞での評価を得ました。2013年に大腸がんのため逝去しましたが、コメディがいかにして人間的な深みを持ち得るかという美学体系を遺し、現在も数多くの台湾の演劇クリエイターに影響を与え続けています。'
 date: 2026-03-19
 category: 'People'
-tags: ['李國修', '屏風表演班', '喜劇', '劇場', '台湾演劇']
+tags: ['李國修', '屏風表演班', 'コメディ', '演劇', '台湾演劇']
 subcategory: '藝術與設計'
 author: 'Taiwan.md'
 featured: false
@@ -12,10 +12,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/李國修.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'f2b48b60c5'
 sourceContentHash: 'sha256:6ce83dd89e705886'
 sourceBodyHash: 'sha256:874193c9926520f1'
-translatedAt: '2026-10-22T02:46:28+08:00'
+translatedAt: '2026-11-24T04:34:49.524227+00:00'
 ---
 
 # 李國修：台湾喜劇の王

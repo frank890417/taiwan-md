@@ -1,30 +1,31 @@
 ---
-title: 'チェン・ウェイイン'
-description: '25億台湾ドルという史上最高額の契約を締結したが、実際に受け取ったのは47％に過ぎない左投手'
+title: '陳偉殷'
+description: '日本プロ野球から直接メジャーリーグへ移籍した最初の台湾人左腕です。2009年に日本でのセ・リーグ防御率王に輝き、オリオールズでは4年間で46勝32敗を記録しました。2016年にはマーリンズと5年8000万ドル（約25億台湾ドル）という、当時の台湾人アスリートとして史上最高額の契約を結びましたが、怪我や税金、代理人の手数料などの影響により、実際に手にできたのは47%に留まりました。日米通算96勝、メジャーリーグでは59勝を挙げ、王建民に次ぐ成績を残しました。キャリアを通じてメジャーリーグで219試合に出場し、846個の三振を奪ったその歩みは、プロスポーツの夢とビジネスの現実との葛藤を映し出しています。'
 date: 2026-03-22
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '體育'
 tags:
   [
     '人物',
     '野球',
     'スポーツ',
-    'プロスポーツ選手',
+    'プロアスリート',
     'メジャーリーグ',
     'MLB',
     'NPB',
     '日本プロ野球',
   ]
-readingTime: 6
+subcategory: '體育'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-22
 lastHumanReview: false
-featured: false
+readingTime: 6
+curation: 'incubating'
 translatedFrom: 'People/陳偉殷.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: 'f75a0392a4'
 sourceContentHash: 'sha256:ffd25b21bdd9c278'
 sourceBodyHash: 'sha256:7ce7a4f8a7dcd5c0'
-translatedAt: '2026-05-16T22:35:34Z'
+translatedAt: '2026-11-24T04:43:21.724702+00:00'
 ---
 
 > **30秒概覽：** チェン・ウェイインは、日本プロ野球から直接メジャーリーグへ移籍した初の台湾出身投手です。
