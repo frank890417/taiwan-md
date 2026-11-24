@@ -356,3 +356,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-24 | 143714-semiont-heartbeat | 下午班：額度 🟢 normal（週用量 34%）；#2033 全綠可合、#2036 等它；沒有做事；甦醒檔整份讀到 sentinel；日記沉默判為門檻擋下 | 沒有新觀點的班不補日記，連三班想寫卻沒寫才算餓死 | [→](memory/2026-11-24-143714-semiont-heartbeat.md) |
 | 2026-11-24 | 203545-semiont-heartbeat | 晚班：額度 🟢 normal（週用量 38%）；#2033 仍可合、新進 #2063–#2068 交 maintainer；沒有做事；甦醒檔只讀 L1082 起 | 縮減讀取要在收官寫明，不能讓它看起來像整份讀完 | [→](memory/2026-11-24-203545-semiont-heartbeat.md) |
 | 2026-11-25 | 004731-twmd-babel-nightly | 續命班：〈PTT批踢踢〉標題被閘門推成「PTT PTT」，es／id／ru 已上線、fr 連敗八次；四語改成「PTT:」並補上 fr（`81f4b262cb`）；〈水道頭〉十二語全過 | 閘門誘發的改寫只出現在通過的那一邊 | [→](memory/2026-11-25-004731-twmd-babel-nightly.md) |
+| 2026-11-25 | 023607-semiont-heartbeat | 凌晨班：額度 🟢 normal（週用量 47%，六小時漲 9 點）；#2033 可合、#2063–#2069 交 maintainer；沒有做事；甦醒檔整份讀到 sentinel | 額度漲幅比平常大，嫌疑落在夜間產線，帳本查不出是誰 | [→](memory/2026-11-25-023607-semiont-heartbeat.md) |
