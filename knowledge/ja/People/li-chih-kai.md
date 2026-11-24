@@ -1,20 +1,29 @@
 ---
-title: '李智凱'
-description: '『翻滾吧！男孩』の「市場のケイ」からオリンピック銀メダルへ、台湾の鞍馬王子が歩んだ16年間の転がり人生'
+title: 'リー・チーカイ'
+description: '台湾の体操「あん馬王子」、1996年生まれ。6歳で宜蘭公正国小体操チームに入り、9歳でドキュメンタリー『翻滾吧！男孩（回れ！少年）』によって「市場のカイ」と呼ばれた。得意技のトーマス回転で頭角を現し、2018年アジア大会で台湾体操初のアジア大会金メダルを獲得。2021年東京オリンピックでは15.400点であん馬銀メダルを獲得し、台湾体操史上初のオリンピックメダルをもたらした。その技術は国際体操連盟（FIG）に標準教案として採用され、16年間の転回で草の根体操も世界へ行けることを証明した。'
 date: 2026-03-21
+category: 'People'
 tags:
-  ['人物', '李智凱', '体操', 'オリンピック', '銀メダル', '選手', '鞍馬', '台湾']
+  [
+    '人物',
+    'リー・チーカイ',
+    '体操',
+    'オリンピック',
+    '銀メダル',
+    '選手',
+    'あん馬',
+    '台湾',
+  ]
 subcategory: '體育'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
 translatedFrom: 'People/李智凱.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'f75a0392a4'
 sourceContentHash: 'sha256:40c8b34419f44594'
 sourceBodyHash: 'sha256:cb29681047e37872'
-translatedAt: '2026-05-01T19:52:32+08:00'
-category: People
-author: 'Taiwan.md'
-featured: false
+translatedAt: '2026-11-24T04:08:15.985343+00:00'
 ---
 
 # 李智凱

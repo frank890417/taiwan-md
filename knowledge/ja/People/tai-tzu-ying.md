@@ -1,28 +1,28 @@
 ---
 title: '戴資穎'
-description: '214週間世界ランキング1位の記録保持者、高雄前鎮からオリンピック銀メダルへと駆け上がった台湾のバドミトンの女王'
+description: '1994年、高雄市前鎮区生まれの台湾のバドミントン女王。7歳でラケットを握り、12歳で台湾史上最年少のバドミントン甲組選手となる。2016年に初めて世界ランキング1位に上り詰め、台湾初のバドミントン世界女王となった。世界女王在位通算214週は女子シングルス史上最長記録。さらに、世界ツアー優勝32回、全英オープン3度制覇、2021年東京オリンピック銀メダルという金字塔を打ち立てた。変幻自在のショットと生涯勝率73%以上を誇り、台湾の国際バドミントン界における地位を再定義した。'
 date: 2026-03-21
+category: 'People'
 tags:
   [
     '人物',
-    '戴資穎',
+    'ダイ・ズーイン',
     'バドミントン',
-    '世界ランキング1位',
+    '世界女王',
     'オリンピック',
-    'アスリート',
+    '選手',
     '台湾',
   ]
 subcategory: '體育'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-21
 lastHumanReview: true
-featured: true
 translatedFrom: 'People/戴資穎.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'f75a0392a4'
 sourceContentHash: 'sha256:1a1c26aae26ed9f8'
 sourceBodyHash: 'sha256:72bb27cc8697bfee'
-translatedAt: '2026-05-01T18:02:56+08:00'
-category: People
-author: 'Taiwan.md'
+translatedAt: '2026-11-24T04:03:47.160141+00:00'
 ---
 
 # 戴資穎
