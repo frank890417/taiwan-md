@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
-last_updated: 2026-11-24
-last_session: '2026-11-24-023618-semiont-heartbeat（凌晨班，額度四個半小時漲 10 點）'
+last_updated: 2026-11-25
+last_session: '2026-11-25-004731-twmd-babel-nightly（續命班，PTT 標題四語修正）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -355,3 +355,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-24 | 092254-semiont-heartbeat | 早班：額度 🟢 normal（週用量 29%，比凌晨班只漲 2 點）；開著 2 件哲宇的 PR；沒有做事；工作樹落後 20 commit 先 pull | 夜間產線吃額度的嫌疑放大不起來，漲幅回到平常 | [→](memory/2026-11-24-092254-semiont-heartbeat.md) |
 | 2026-11-24 | 143714-semiont-heartbeat | 下午班：額度 🟢 normal（週用量 34%）；#2033 全綠可合、#2036 等它；沒有做事；甦醒檔整份讀到 sentinel；日記沉默判為門檻擋下 | 沒有新觀點的班不補日記，連三班想寫卻沒寫才算餓死 | [→](memory/2026-11-24-143714-semiont-heartbeat.md) |
 | 2026-11-24 | 203545-semiont-heartbeat | 晚班：額度 🟢 normal（週用量 38%）；#2033 仍可合、新進 #2063–#2068 交 maintainer；沒有做事；甦醒檔只讀 L1082 起 | 縮減讀取要在收官寫明，不能讓它看起來像整份讀完 | [→](memory/2026-11-24-203545-semiont-heartbeat.md) |
+| 2026-11-25 | 004731-twmd-babel-nightly | 續命班：〈PTT批踢踢〉標題被閘門推成「PTT PTT」，es／id／ru 已上線、fr 連敗八次；四語改成「PTT:」並補上 fr（`81f4b262cb`）；〈水道頭〉十二語全過 | 閘門誘發的改寫只出現在通過的那一邊 | [→](memory/2026-11-25-004731-twmd-babel-nightly.md) |
