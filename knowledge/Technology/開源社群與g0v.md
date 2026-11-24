@@ -48,7 +48,7 @@ g0v不是要推翻政府，而是要「平行」政府——用開源協作的�
 
 **24天的佔領，全程高畫質直播，沒有斷線。**這在2014年是不可思議的技術成就。當時Facebook Live都還沒出現，YouTube直播也不普及，但g0v志工用開源工具自己搭建了一套比專業媒體還穩定的直播系統。
 
-更重要的是，他們證明了「透明」的力量。因為有即時直播，所有人都能看到議場內發生什麼事，政府想要扭曲事實變得不可能。這種「用科技監督政府」的模式，後來被世界各地的公民運動學習和模仿[^3]。
+更重要的是，他們證明了「透明」的力量。因為有即時直播，所有人都能看到議場內發生什麼事，政府想要扭曲事實變得不可能。這種「用科技監督政府」的模式後來被國外看成一個可能的範本，韓國、泰國、日本、德國都長出性質相近的公民科技社群[^3]。
 
 ## 口罩地圖：72小時的奇蹟
 
@@ -202,9 +202,9 @@ g0v和政府的關係很微妙：既合作又監督。當政府主動擁抱開�
 
 [^2]: [g0v hackfoldr共筆資料夾](https://beta.hackfoldr.org/) — g0v社群長期使用的共筆文件與資料協作平台
 
-[^3]: [《數位時代的民主參與：從太陽花到g0v》](https://www.books.com.tw/products/0010867342) — 從太陽花學運到g0v，探討數位時代公民參與的專書
+[^3]: [A Guide to Win Democracy Back: Civic Tech Project and Community Handbook（Friedrich Naumann Foundation，2025-06-09）](https://www.freiheit.org/fr/node/49973) — 德國 Friedrich Naumann 基金會介紹 g0v 社群參與編寫的公民科技手冊，稱 g0v 是台灣數位民主最重要的力量之一、也可能成為世界的範本，手冊收錄韓國、泰國、日本、德國的案例
 
-[^4]: [TED演講：如何在沒有許可下修正政府](https://www.ted.com/talks/audrey_tang_how_digital_innovation_can_fight_pandemics_and_strengthen_democracy) — 唐鳳分享數位創新如何對抗疫情並鞏固民主的TED演講
+[^4]: [How digital innovation can fight pandemics and strengthen democracy（唐鳳，TED2020）](https://www.ted.com/talks/audrey_tang_how_digital_innovation_can_fight_pandemics_and_strengthen_democracy) — 唐鳳在 TED 談台灣如何在 2020 年初靠數位工具避開封城，其中包含口罩地圖
 
 [^5]: [口罩地圖開發者訪談](https://www.ithome.com.tw/news/136038) — iThome對口罩地圖開發者的訪談，記錄開發者投入防疫專案的歷程
 
