@@ -1,13 +1,13 @@
 ---
 title: 'Hou Hsiao-hsien'
-description: "Le poète du cinéma qui a refusé les gros plans pour conquérir le monde — un révolutionnaire de l'image défiant la grammaire cinématographique traditionnelle"
+description: "Maître du nouveau cinéma taïwanais qui a bouleversé la grammaire cinématographique par ses longs plans et son « regard objectif », refusant les gros plans et laissant la caméra suivre les acteurs. En 1989, il remporte le premier Lion d'or de Venise pour Taïwan avec « La Cité de la douleur ». En 1993, « Le Maître des marionnettes » obtient le Prix du jury à Cannes. En 1998, « Les Fleurs de Shanghai » est tourné entièrement en shanghaïen. En 2015, « The Assassin » lui vaut à nouveau le prix de la meilleure réalisation à Cannes. Son esthétique influence des réalisateurs comme Jia Zhangke et Hirokazu Kore-eda. En 2023, il prend sa retraite en raison de la maladie d'Alzheimer, laissant au cinéma sinophone un langage visuel unique."
 date: 2026-03-24
 category: 'People'
 tags:
   [
     'Hou Hsiao-hsien',
-    'Nouveau Cinéma Taïwanais',
-    "Lion d'Or de Venise",
+    'Nouveau cinéma taïwanais',
+    "Lion d'or de Venise",
     'Festival de Cannes',
     'Esthétique cinématographique',
     'Plan-séquence',
@@ -177,10 +177,10 @@ lifeTree:
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/侯孝賢.md'
-sourceCommitSha: 'b1a5fea00'
+sourceCommitSha: 'f75a0392a4'
 sourceContentHash: 'sha256:16a0f8bff9cea010'
 sourceBodyHash: 'sha256:4bfda7146e522cab'
-translatedAt: '2026-11-18T15:53:51.206933+00:00'
+translatedAt: '2026-11-24T03:41:05.539279+00:00'
 ---
 
 # Hou Hsiao-hsien

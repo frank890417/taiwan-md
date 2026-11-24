@@ -1,31 +1,30 @@
 ---
-title: 'Yang Yung-wei'
-description: "Médaillé d'argent en judo (-60 kg) aux Jeux olympiques de Tokyo 2021, premier judoka taïwanais à monter sur un podium olympique, et numéro un mondial en novembre de la même année"
+title: 'Yang Yong-wei'
+description: "Judoka de l'ethnie Paiwan, médaillé d'argent dans la catégorie des 60 kg masculins aux Jeux olympiques de Tokyo 2021, marquant ainsi l'histoire du taekwondo taïwanais avec la première médaille olympique de l'histoire de la discipline dans le pays. En novembre de la même année, il a atteint la première place au classement mondial de la Fédération Internationale de Judo, devenant le premier Taïwanais numéro un mondial en judo. Sa victoire à l'or aux Jeux asiatiques de Hangzhou 2023 a prouvé que son talent n'était pas passager. Reconnu pour sa technique emblématique d'uchi-mata précise et son humilité, il a conquis même le public japonais. Ayant découvert le judo par hasard à l'école primaire, il est devenu un combattant technique qui a réécrit l'histoire du judo à Taïwan."
 date: 2026-03-21
+category: 'People'
 tags:
   [
-    personnalités,
-    Yang Yung-wei,
-    judo,
-    Jeux olympiques,
-    médaille d'argent,
-    athlète,
-    Taïwan,
-    peuples autochtones,
-    Paiwan,
+    'Personnalité',
+    'Yang Yong-wei',
+    'Judo',
+    'Jeux olympiques',
+    "Médaille d'argent",
+    'Athlète',
+    'Taïwan',
+    'Autochtone',
+    'Ethnie Paiwan',
   ]
 subcategory: '體育'
-category: 'People'
 author: 'Taiwan.md'
-readingTime: 10
 featured: false
-translatedFrom: 'People/楊勇緯.md'
 lastVerified: 2026-03-21
-sourceCommitSha: '4b6d28c5'
+lastHumanReview: true
+translatedFrom: 'People/楊勇緯.md'
+sourceCommitSha: 'f2b48b60c5'
 sourceContentHash: 'sha256:66a5e0aae1a572b7'
 sourceBodyHash: 'sha256:162f09653edec7c3'
-translatedAt: '2026-04-14T19:16:13+08:00'
-lastHumanReview: true
+translatedAt: '2026-11-24T04:17:36.922079+00:00'
 ---
 
 # Yang Yung-wei

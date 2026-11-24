@@ -1,14 +1,14 @@
 ---
-title: 'Lin Yi-chie'
-description: "De l'enfant chétif rejeté par l'équipe d'athlétisme au coureur polaire ayant marqué l'histoire en traversant le Sahara à pied"
+title: 'Lin Yi-chieh'
+description: "D'un garçon chétif refusé par l'équipe d'athlétisme à l'un des trois premiers humains de l'histoire à traverser le désert du Sahara à pied : en 2006, il a parcouru 7 500 km en 111 jours, usant 11 paires de chaussures et traversant cinq pays politiquement instables, tout en remportant le titre de champion général du circuit des supermarathons des quatre pôles. Le documentaire « Decisive Sahara » a fait découvrir ce coureur taïwanais au monde, tandis que les litiges relatifs aux droits d'auteur après sa retraite révèlent la vérité complexe derrière l'aura du héros."
 date: 2026-03-22
 category: 'People'
 tags:
   [
-    'Personnalités',
-    'Ultra-marathon',
+    'Personnalité',
+    'Supermarathon',
     'Exploration polaire',
-    'Athlètes',
+    'Athlète',
     'Désert du Sahara',
     'Fierté de Taïwan',
   ]
@@ -20,10 +20,10 @@ lastHumanReview: false
 readingTime: 7
 curation: 'incubating'
 translatedFrom: 'People/林義傑.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: 'f2b48b60c5'
 sourceContentHash: 'sha256:8741429d614846be'
 sourceBodyHash: 'sha256:3713eaac6b565ca6'
-translatedAt: '2026-08-04T15:04:47+08:00'
+translatedAt: '2026-11-24T04:35:11.602807+00:00'
 ---
 
 > **Aperçu en 30 secondes :** Lin Yi-chie, un petit garçon frêle à qui un professeur d'éducation physique menaçait de « ne pas laisser gagner les élèves plus âgés » durant l'école primaire, est devenu en 200 et 6 l'un des trois premiers êtres humains de l'histoire à traverser le Sahara à pied. En 111 jours, il a parcouru 7 500 km, usant 11 paires de chaussures, pour découvrir que l'escorte militaire qui les accompagnait avait été totalement massacrée lors du voyage de retour.

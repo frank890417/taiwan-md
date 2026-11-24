@@ -1,29 +1,28 @@
 ---
 title: 'Tai Tzu-ying'
-description: "Recordwoman avec 214 semaines au total au rang mondial numéro un, la reine du badminton taïwanais, de Cianjhen à la médaille d'argent olympique"
+description: "Née en 1994 à Qianzhen, Kaohsiung, la reine taïwanaise du badminton a commencé à jouer à l'âge de 7 ans et est devenue la plus jeune joueuse de niveau A à Taïwan à 12 ans. Elle a accédé pour la première fois à la première place mondiale en 2016, devenant ainsi la première reine mondiale du badminton de Taïwan. Avec un record de 214 semaines au sommet, elle détient le record de longévité dans l'histoire du simple dames. Elle s'est imposée comme une référence avec 32 titres sur le circuit mondial, trois victoires au All England Open et une médaille d'argent aux Jeux olympiques de Tokyo 2021. Grâce à son jeu polyvalent et un taux de victoire en carrière supérieur à 73 %, elle a redéfini la place de Taïwan sur la scène internationale du badminton."
 date: 2026-03-21
+category: 'People'
 tags:
   [
-    personnalités,
-    Tai Tzu-ying,
-    badminton,
-    numéro un mondial,
-    Jeux olympiques,
-    athlète,
-    Taïwan,
+    'Personnalité',
+    'Tai Tzu-ying',
+    'Badminton',
+    'Reine mondiale',
+    'Jeux olympiques',
+    'Athlète',
+    'Taïwan',
   ]
 subcategory: '體育'
-category: 'People'
 author: 'Taiwan.md'
-readingTime: 10
 featured: true
 lastVerified: 2026-03-21
+lastHumanReview: true
 translatedFrom: 'People/戴資穎.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'f75a0392a4'
 sourceContentHash: 'sha256:1a1c26aae26ed9f8'
 sourceBodyHash: 'sha256:72bb27cc8697bfee'
-translatedAt: '2026-04-14T19:14:57+08:00'
-lastHumanReview: true
+translatedAt: '2026-11-24T04:08:25.470334+00:00'
 ---
 
 # Tai Tzu-ying

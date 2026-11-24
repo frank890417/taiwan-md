@@ -1,30 +1,29 @@
 ---
-title: 'Li Chih-kai'
-description: "Du petit garçon culbuteur des marchés de Yilan à la médaille d'argent olympique, seize ans de ténacité qui ont réécrit l'histoire de la gymnastique taïwanaise"
+title: 'Lee Chih-kai'
+description: "Le « Prince du cheval d'arçons » de la gymnastique taïwanaise, né en 1996, il a rejoint l'équipe de gymnastique de l'école primaire Gongzheng d'Yilan à l'âge de 6 ans. À 9 ans, il était surnommé « Cai du marché » suite au documentaire « Rollin' Boy ». Il s'est illustré grâce à son célèbre mouvement de rotation de Thomas et a remporté la première médaille d'or de gymnastique pour Taïwan aux Jeux asiatiques en 2018. Lors des Jeux olympiques de Tokyo en 2021, il a décroché la médaille d'argent au cheval d'arçons avec un score de 15,400, inscrivant ainsi la première médaille olympique de l'histoire de la gymnastique taïwanaise. Sa technique a même été adoptée par la Fédération internationale de gymnastique comme programme d'enseignement standard, prouvant en seize ans de carrière que la gymnastique de base peut également conquérir le monde."
 date: 2026-03-21
+category: 'People'
 tags:
   [
-    personnalité,
-    Li Chih-kai,
-    gymnastique,
-    Jeux olympiques,
-    médaille d'argent,
-    athlète,
-    cheval d'arçons,
-    Taïwan,
+    'Personnalité',
+    'Lee Chih-kai',
+    'Gymnastique',
+    'Jeux olympiques',
+    "Médaille d'argent",
+    'Athlète',
+    "Cheval d'arçons",
+    'Taïwan',
   ]
 subcategory: '體育'
-category: 'People'
 author: 'Taiwan.md'
-readingTime: 8
 featured: false
 lastVerified: 2026-03-21
+lastHumanReview: true
 translatedFrom: 'People/李智凱.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'f75a0392a4'
 sourceContentHash: 'sha256:40c8b34419f44594'
 sourceBodyHash: 'sha256:cb29681047e37872'
-translatedAt: '2026-04-14T19:15:26+08:00'
-lastHumanReview: true
+translatedAt: '2026-11-24T04:11:52.854529+00:00'
 ---
 
 # Li Chih-kai

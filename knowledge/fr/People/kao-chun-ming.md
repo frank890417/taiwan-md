@@ -1,32 +1,31 @@
 ---
 title: 'Kao Chun-ming'
-description: "Un inconnu frappant à sa porte, un pasteur qui a tout risqué — le choix de foi derrière l'incident de Formosa"
+description: "Secrétaire général de l'Église presbytérienne de Taïwan, prisonnier de conscience reconnu par Amnesty International. Après l'incident de Formosa en 1979, il a établi un réseau de cachette clandestin pour Shih Ming-teh, qu'il n'avait rencontré que deux fois. En 1980, il a été condamné par un tribunal militaire à sept ans de prison et à la confiscation de tous ses biens ; son poème écrit en prison « Tshuà-phah-hōe-hué-sio » a remporté plus tard le Golden Melody Award du meilleur parolier. Après sa libération, il a continué à promouvoir la justice transitionnelle et la théologie locale, et est décédé en 2019, laissant le témoignage de la façon dont la foi religieuse peut devenir une ressource morale contre le régime autoritaire."
 date: 2026-03-22
+category: 'People'
 tags:
   [
-    personnalité,
-    pasteur,
-    mouvement des droits humains,
-    ère martiale,
-    prisonnier de conscience,
-    Église presbytérienne de Taïwan,
-    incident de Formosa,
-    Shih Ming-teh,
+    'Personnalité',
+    'Pasteur',
+    "Mouvement des droits de l'homme",
+    'Période de la loi martiale',
+    'Prisonnier de conscience',
+    'Église presbytérienne',
+    'Incident de Formosa',
+    'Shih Ming-teh',
   ]
 subcategory: '政治與民主'
-category: 'People'
 author: 'Taiwan.md'
-readingTime: 8
 featured: false
 lastVerified: 2026-03-22
+lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/高俊明.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'f2b48b60c5'
 sourceContentHash: 'sha256:eaeba845240b369e'
 sourceBodyHash: 'sha256:b37aec09305a898c'
-translatedAt: '2026-04-14T19:19:52+08:00'
-lastHumanReview: false
+translatedAt: '2026-11-24T04:26:36.755021+00:00'
 ---
 
 > **En 30 secondes :** Le pasteur Kao Chun-ming (1929-2019) a purgé 4 ans de prison pour avoir caché le fugitif Shih Ming-teh après l'incident de Formosa de 1979 — alors qu'ils ne se connaissaient presque pas, s'étant croisés deux fois à peine dans des lieux publics. C'est une histoire de choix moral : confronté à un conflit entre obligation éthique et risque personnel, il a choisi l'éthique.

@@ -1,15 +1,9 @@
 ---
 title: 'Lee Chang-yu'
-description: "Un légende de la criminalistique bâtie sur l'analyse des fragments d'os, mais dont une « trace de sang » sur une serviette a conduit deux personnes à passer trente ans en prison injustement"
+description: "De chef de police le plus jeune de l'histoire de Taïwan à scientifique de la criminalistique le plus reconnu au monde parmi les Chinois, il a permis la première condamnation de l'histoire criminelle américaine sans corps grâce à l'affaire du broyeur de bois. Il est devenu mondialement célèbre en tant que témoin de la défense dans l'affaire Simpson, ayant analysé plus de 8 000 affaires et publié plus de 40 ouvrages au cours de sa vie. Cependant, en 2023, un tribunal fédéral a statué qu'il avait falsifié des preuves concernant une tache de sang sur une serviette lors d'un meurtre en 1985, entraînant l'emprisonnement injuste de deux adolescents pendant plus de trente ans, laissant ainsi une question incontournable sur sa carrière légendaire."
 date: 2026-03-29
 category: 'People'
-tags:
-  [
-    'Personnalité',
-    'Sciences forensiques',
-    'Taï-Américain',
-    'Enquête criminelle',
-  ]
+tags: ['Personnalité', 'Criminalistique', 'Taï-Américain', 'Enquête criminelle']
 subcategory: '科學與學術'
 author: 'Taiwan.md'
 featured: false
@@ -19,10 +13,10 @@ readingTime: 8
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/李昌鈺.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'f2b48b60c5'
 sourceContentHash: 'sha256:d64c72cf7c6361d3'
 sourceBodyHash: 'sha256:6f5a343122533934'
-translatedAt: '2026-11-04T20:54:09.218569+00:00'
+translatedAt: '2026-11-24T04:19:40.972146+00:00'
 ---
 
 # Henry Lee (李昌鈺)
