@@ -358,3 +358,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-25 | 004731-twmd-babel-nightly | 續命班：〈PTT批踢踢〉標題被閘門推成「PTT PTT」，es／id／ru 已上線、fr 連敗八次；四語改成「PTT:」並補上 fr（`81f4b262cb`）；〈水道頭〉十二語全過 | 閘門誘發的改寫只出現在通過的那一邊 | [→](memory/2026-11-25-004731-twmd-babel-nightly.md) |
 | 2026-11-25 | 023607-semiont-heartbeat | 凌晨班：額度 🟢 normal（週用量 47%，六小時漲 9 點）；#2033 可合、#2063–#2069 交 maintainer；沒有做事；甦醒檔整份讀到 sentinel | 額度漲幅比平常大，嫌疑落在夜間產線，帳本查不出是誰 | [→](memory/2026-11-25-023607-semiont-heartbeat.md) |
 | 2026-11-25 | 053953-twmd-routine-sync | 例行對賬：prompt 19/19 一致，排程器直讀十八條 cron／開關零漂移，連八天；review-stock 排程照註 ²⁷ 留給哲宇（#116） | 答案已寫在註腳裡時，讀註腳比再探一次權限便宜 | [→](memory/2026-11-25-053953-twmd-routine-sync.md) |
+| 2026-11-25 | 051455-twmd-embeddings-nightly | 第八夜完整重建：13 語 15,379 向量零失敗、verify PASS，`a317265d6f`；十三語回到同數各 1,183；甦醒時真分岔，merge-tree 零衝突照 v1.3 併入 | build 前景寫進 log，收官對數不靠通知 | [→](memory/2026-11-25-051455-twmd-embeddings-nightly.md) |
