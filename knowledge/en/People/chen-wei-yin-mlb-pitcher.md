@@ -1,20 +1,31 @@
 ---
 title: 'Wei-Yin Chen'
-description: "The left-hander who signed Taiwan's highest sports contract but only received 47% of the money"
+description: 'The first Taiwanese left-handed pitcher to move directly from the NPB to Major League Baseball. After winning the Central League ERA title in 2009, he recorded 46 wins and 32 losses during his four years with the Orioles. In 2016, he signed a five-year, $80 million (approximately NT$2.5 billion) contract with the Marlins—the largest contract for a Taiwanese athlete at the time. However, due to injuries, taxes, and agent commissions, he only took home 47% of the total. With 96 combined wins in Japan and the US and 59 MLB wins, he ranks second only to Chien-Ming Wang. His career includes 219 MLB appearances and 846 strikeouts, reflecting the tug-of-war between professional sports dreams and commercial realities.'
 date: 2026-03-22
-tags: [people, baseball, sports, professional athlete, MLB, NPB]
-subcategory: '體育'
 category: 'People'
+tags:
+  [
+    'People',
+    'Baseball',
+    'Sports',
+    'Professional Athlete',
+    'Major League Baseball',
+    'MLB',
+    'NPB',
+    'Japanese Professional Baseball',
+  ]
+subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
-readingTime: 6
 lastVerified: 2026-03-22
 lastHumanReview: false
+readingTime: 6
+curation: 'incubating'
 translatedFrom: 'People/陳偉殷.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: 'f75a0392a4'
 sourceContentHash: 'sha256:ffd25b21bdd9c278'
 sourceBodyHash: 'sha256:7ce7a4f8a7dcd5c0'
-translatedAt: '2026-05-16T22:19:17Z'
+translatedAt: '2026-11-24T04:43:09.793457+00:00'
 ---
 
 > **30-second overview:** Wei-Yin Chen was the first Taiwanese pitcher to jump directly from NPB to MLB,

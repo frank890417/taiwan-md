@@ -1,6 +1,6 @@
 ---
 title: 'Li Mei-shu'
-description: 'An artist who spent 36 years building a temple, bringing academic aesthetics into folk religion'
+description: 'A Taiwanese painter born in Sanxia in 1902, he won first prize at the Taiwan Art Exhibition in 1935 with "Girl Taking a Rest." He is also the only artist in Taiwan to lead the reconstruction of traditional temples through academic aesthetics. Starting in 1947, he spent 36 years presiding over the reconstruction of the Sanxia ancestral temple, replacing the imitation of ancient methods with life sketching. By inviting painters to provide drafts and bringing art students into the temple to create, he earned this rural temple the reputation of being an "Oriental Palace of Art." He profoundly transformed folk beliefs through his brushwork and aesthetics. In his later years, he taught at the National Institute of Arts and established the Department of Sculpture.'
 date: 2026-03-23
 category: 'People'
 tags:
@@ -9,7 +9,7 @@ tags:
     'Art',
     'Fine Arts',
     'Sanxia',
-    'Zushi Temple',
+    'Ancestral Temple',
     'Realism',
     'Taiwan Art Exhibition',
   ]
@@ -20,10 +20,10 @@ lastVerified: 2026-03-23
 lastHumanReview: false
 curation: 'incubating'
 translatedFrom: 'People/李梅樹.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: 'f75a0392a4'
 sourceContentHash: 'sha256:7bf4114050e0bd18'
 sourceBodyHash: 'sha256:56cd3707ce723649'
-translatedAt: '2026-08-04T14:32:57+08:00'
+translatedAt: '2026-11-24T04:44:43.502148+00:00'
 ---
 
 > **30-Second Overview:** Li Mei-shu was not merely an award-winning painter of the Taiwan Art Exhibition; he was the only artist in Taiwan to lead the reconstruction of a traditional temple using academic aesthetics. Starting in 1947, he spent 36 years presiding over the reconstruction of the Sanxia Zushi Temple, creating an unprecedented spectacle of "using Western learning for Eastern purposes," earning this rural temple the reputation of an "Oriental Palace of Art."

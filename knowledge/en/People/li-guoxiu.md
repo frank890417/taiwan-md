@@ -1,15 +1,15 @@
 ---
 title: 'Li Kuo-hsiu'
-description: 'Founder of Performative Productions, the King of Comedy in Taiwan; passed away from colon cancer on July 2, 2013, at age 57.'
+description: 'Founder of the Screenplay Theater Company and a theater master hailed as the King of Comedy in Taiwan. In 1984, he co-founded the Performance Workshop with Stan Lai and Li Li-chun, and in 1986, he established the Screenplay Theater Company. He wrote classic plays such as "Hamlet," "Beijing Opera Revelation," and "Daughter Red," using laughter to carry humanistic concern. He won a Golden Bell Award for editing in 1980 and received further recognition from the Golden Bell Awards in 1982. Following his passing from colorectal cancer in 2013, he left behind an aesthetic system of how comedy can carry humanistic weight, which continues to influence countless Taiwanese theater creators today.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Li Kuo-hsiu',
-    'Performative Productions',
-    'comedy',
-    'theater',
-    'Taiwan drama',
+    'Screenplay Theater Company',
+    'Comedy',
+    'Theater',
+    'Taiwanese Drama',
   ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md'
@@ -19,10 +19,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/李國修.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'f2b48b60c5'
 sourceContentHash: 'sha256:6ce83dd89e705886'
 sourceBodyHash: 'sha256:874193c9926520f1'
-translatedAt: '2026-10-22T02:46:27+08:00'
+translatedAt: '2026-11-24T04:34:38.531985+00:00'
 ---
 
 # Li Kuo-hsiu: The King of Comedy in Taiwan

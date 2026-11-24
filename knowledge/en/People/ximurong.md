@@ -1,14 +1,14 @@
 ---
-title: 'Xi Mu-rong: A Poetic Symphony of Grasslands and Modernity'
-description: 'Author of *Seven Miles of Fragrance* and *Youth Without Grievance*, she is a best-selling Chinese-language poet, descendant of the Mongol people.'
+title: 'Xi Murong'
+description: 'Taiwan''s best-selling poet of the 1980s. After the publication of "Seven Mile Fragrance" in 1981, it was reprinted seven times within a single year, setting a record for modern poetry sales in Taiwan. Her collection "Youth Without Regret" continued her simple and sincere poetic style, and "A Flowering Tree" became a classic in Chinese-language poetry. Born into the Chahar Mongols, she was a professionally trained oil painter. After her first trip to the grasslands in 1989, her work shifted toward ethnic cultural writing. In 2019, "Naming My Memories" looked back on a life of wandering. Her poetry collections have sold over a million copies, and she has received accolades such as the Sun Yat-sen Literary Award and the National Literary Award.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Person',
-    'Xi Mu-rong',
-    'Seven Miles of Fragrance',
-    'Youth Without Grievance',
+    'People',
+    'Xi Murong',
+    'Seven Mile Fragrance',
+    'Youth Without Regret',
     'Poet',
     'Mongol',
     'Essayist',
@@ -21,10 +21,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/席慕蓉.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'f75a0392a4'
 sourceContentHash: 'sha256:d991df46b210ff83'
 sourceBodyHash: 'sha256:1f26407bb0738827'
-translatedAt: '2026-10-21T12:48:33.273594+00:00'
+translatedAt: '2026-11-24T04:39:43.150402+00:00'
 ---
 
 # Xi Mu-rong: A Poetic Symphony of Grasslands and Modernity
