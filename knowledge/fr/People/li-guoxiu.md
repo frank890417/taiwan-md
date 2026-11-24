@@ -1,15 +1,15 @@
 ---
-title: 'Lee Kuo-hsiu'
-description: "Fondateur de la troupe Ping-Fong, roi de la comédie taïwanaise, décédé le 2 juillet 2013 d'un cancer colorectal à l'âge de 57 ans"
+title: 'Li Kuo-hsiu'
+description: "Fondateur de la troupe Pingfun, ce maître du théâtre est surnommé le roi de la comédie taïwanaise. En 1984, il a cofondé l'Atelier de Performance avec Lai Sheng-chuan et Li Li-chun, puis a créé la troupe Pingfun en 1986. Il a écrit des pièces classiques telles que « Hamlet », « Révélations du Peking Opera » et « Daughter Red », utilisant le rire pour porter une dimension humaniste. Lauréat du Golden Bell Award pour le montage en 1980 et récompensé par un autre Golden Bell Award en 1982, il est décédé en 2013 d'un cancer du côlon, laissant derrière lui un système esthétique sur la manière dont la comédie peut porter une profondeur humaine, influençant encore aujourd'hui d'innombrables créateurs de théâtre à Taïwan."
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Lee Kuo-hsiu',
-    'Troupe Ping-Fong',
+    'Li Kuo-hsiu',
+    'Troupe Pingfun',
     'Comédie',
     'Théâtre',
-    'Théâtre taïwanais',
+    'Dramaturgie taïwanaise',
   ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md'
@@ -19,10 +19,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/李國修.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'f2b48b60c5'
 sourceContentHash: 'sha256:6ce83dd89e705886'
 sourceBodyHash: 'sha256:874193c9926520f1'
-translatedAt: '2026-10-21T18:50:42.524932+00:00'
+translatedAt: '2026-11-24T04:40:08.068326+00:00'
 ---
 
 # Lee Kuo-hsiu : le roi de la comédie à Taïwan

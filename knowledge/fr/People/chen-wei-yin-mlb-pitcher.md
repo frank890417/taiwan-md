@@ -1,30 +1,31 @@
 ---
-title: 'Wei-Yin Chen'
-description: "Le lanceur gaucher qui a signé le plus grand contrat de l'histoire du sport taïwanais — 80 millions de dollars — mais n'en a perçu que 47 %"
+title: 'Chen Wei-yin'
+description: "Premier lanceur gaucher taïwanais à passer directement de la NPB à la MLB, il a remporté le titre de meilleur ERA de la Ligue centrale de la NPB en 2009. En quatre ans chez les Orioles, il a compilé 46 victoires et 32 défaites. En 2016, il a signé un contrat de 5 ans et 80 millions de dollars américains (environ 2,5 milliards de NT$), le plus gros contrat de l'histoire pour un athlète taïwanais. Cependant, en raison de blessures, de la fiscalité et des commissions d'agent, il n'a réellement perçu que 47 % de ce montant. Au total, il cumule 96 victoires au Japon et aux États-Unis, dont 59 en MLB, le deuxième total derrière Chien-Ming Wang. Sa carrière compte 219 apparitions en MLB et 846 retraits sur prises, reflétant la tension entre le rêve sportif professionnel et la réalité commerciale."
 date: 2026-03-22
+category: 'People'
 tags:
   [
-    personnalité,
-    baseball,
-    sport,
-    athlète professionnel,
-    Ligue majeure,
-    MLB,
-    NPB,
-    baseball japonais,
+    'Personnalité',
+    'Baseball',
+    'Sport',
+    'Athlète professionnel',
+    'Ligue majeure',
+    'MLB',
+    'NPB',
+    'Ligue professionnelle japonaise',
   ]
 subcategory: '體育'
-category: 'People'
 author: 'Taiwan.md'
 featured: false
-readingTime: 6
 lastVerified: 2026-03-22
+lastHumanReview: false
+readingTime: 6
+curation: 'incubating'
 translatedFrom: 'People/陳偉殷.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: 'f75a0392a4'
 sourceContentHash: 'sha256:ffd25b21bdd9c278'
 sourceBodyHash: 'sha256:7ce7a4f8a7dcd5c0'
-translatedAt: '2026-05-16T22:36:54Z'
-lastHumanReview: false
+translatedAt: '2026-11-24T04:45:39.384825+00:00'
 ---
 
 > **En 30 secondes :** Wei-Yin Chen est le premier lanceur taïwanais à avoir rejoint les Ligues majeures directement depuis le baseball japonais. En 2016, il signe un contrat de 80 millions de dollars sur cinq ans — le plus lucratif jamais accordé à un sportif taïwanais —, mais après impôts, commissions et assurances, il n'en touchera que 47 %. Au total, 96 victoires entre les États-Unis et le Japon, dont 59 en MLB, juste derrière les 68 de Wang Chien-Ming.

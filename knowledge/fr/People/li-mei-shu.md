@@ -1,17 +1,17 @@
 ---
-title: 'Li Meishu (李梅樹)'
-description: "Un peintre qui a consacré 36 ans à la construction d'un temple, insufflant l'esthétique académique au sein des croyances populaires."
+title: 'Li Mei-shu'
+description: "Né en 1902 à Sanxia, ce peintre taïwanais a obtenu en 1935 la première place du prix spécial de l'Exposition de Taïwan avec « Femme au repos », et est le seul artiste de Taïwan à avoir dirigé la reconstruction d'un temple traditionnel selon une esthétique académique ; à partir de 1947, il a consacré 36 ans à la reconstruction du temple Zushi de Sanxia, remplaçant la copie des méthodes anciennes par le dessin d'après nature, invitant des peintres à réaliser des esquisses et emmenant des étudiants de l'école d'arts pour créer sur place, faisant de ce temple rural un « Palais des arts de l'Orient », et transformant profondément les croyances populaires par son pinceau et son esthétique ; en fin de vie, il a enseigné à l'Académie nationale des arts et fondé le département de sculpture."
 date: 2026-03-23
 category: 'People'
 tags:
   [
-    'Personnalités',
+    'Personnalité',
     'Art',
     'Beaux-arts',
     'Sanxia',
-    "Temple de l'Ancêtre (Zushisiao)",
+    'Temple Zushi',
     'Réalisme',
-    "Exposition d'art de Taïwan",
+    'Exposition de Taïwan',
   ]
 subcategory: '藝術與創作'
 author: 'Taiwan.md'
@@ -20,10 +20,10 @@ lastVerified: 2026-03-23
 lastHumanReview: false
 curation: 'incubating'
 translatedFrom: 'People/李梅樹.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: 'f75a0392a4'
 sourceContentHash: 'sha256:7bf4114050e0bd18'
 sourceBodyHash: 'sha256:56cd3707ce723649'
-translatedAt: '2026-08-04T14:32:57+08:00'
+translatedAt: '2026-11-24T04:47:48.733642+00:00'
 ---
 
 > **Aperçu en 30 secondes :** Li Meishu n'était pas seulement un peintre distingué lors des Expositions d'art de Taïwan ; il fut le seul artiste à Taïwan à diriger la reconstruction d'un temple traditionnel en s'appuyer sur une esthétique académique. À partir de 1947, il a consacré 36 ans à superviser la reconstruction du temple Zushisiao (Temple de l'Ancêtre) de Sanxia, créant le spectacle sans précédent d'une « application de l'Occident à l'Orient », faisant de ce temple rural un véritable « palais de l'art oriental ».

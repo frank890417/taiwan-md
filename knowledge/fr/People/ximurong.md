@@ -1,17 +1,17 @@
 ---
-title: 'Xi Mu-rong : La symphonie poétique entre la prairie et la modernité'
-description: 'Auteure de « Qili Xiang » (Les Sept Lieues Parfumées) et « Le Jeunesse Sans Regrets », elle est une poétesse très vendue dans le monde sinophone, issue du peuple mongol.'
+title: 'Xi Mu Rong'
+description: "La poétesse la plus vendue de Taïwan dans les années 1980. Après la publication de « Jasmin » en 1981, l'ouvrage a été réédité sept fois en un an, établissant un record de ventes pour la poésie moderne taïwanaise. Avec son style simple et sincère poursuivi dans « Jeunesse sans regret », son poème « Un arbre en fleurs » est devenu un classique de la poésie sinophone. Originaire de la tribu de Chahar en Mongolie, elle est une peintre à l'huile de formation. Après avoir foulé les steppes pour la première fois en 1989, elle s'est tournée vers l'écriture de la culture ethnique. En 2019, « Je nomme mes souvenirs » revient sur sa vie d'errance. Ses recueils de poésie ont dépassé le million d'exemplaires vendus et elle a été récompensée par le Prix littéraire Zhongshan et le Prix national des arts."
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'personnage',
-    'Xi Mu-rong',
-    'Qili Xiang',
-    'Le Jeunesse Sans Regrets',
-    'poète',
-    'peuple mongol',
-    'romancière',
+    'Personnalité',
+    'Xi Mu Rong',
+    'Jasmin',
+    'Jeunesse sans regret',
+    'Poétesse',
+    'Mongolie',
+    'Essayiste',
   ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
@@ -21,10 +21,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/席慕蓉.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'f75a0392a4'
 sourceContentHash: 'sha256:d991df46b210ff83'
 sourceBodyHash: 'sha256:1f26407bb0738827'
-translatedAt: '2026-10-21T12:53:02.017911+00:00'
+translatedAt: '2026-11-24T04:43:45.426088+00:00'
 ---
 
 # Xi Mu-rong : La symphonie poétique entre la prairie et la modernité
