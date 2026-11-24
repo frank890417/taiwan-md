@@ -1,17 +1,17 @@
 ---
 title: 'Li Mei-shu'
-description: 'Um pintor passou 36 anos a construir um templo, trazendo a estética académica para a fé popular'
+description: 'Pintor taiwanês nascido em Sanxia em 1902, que em 1935 conquistou o primeiro lugar na Exposição de Arte de Taiwan com a obra "A Moça em Repouso". Ele foi o único artista em Taiwan a liderar a reconstrução de templos tradicionais baseando-se na estética acadêmica; a partir de 1947, dedicou 36 anos à reconstrução do Templo Ancestral de Sanxia, substituindo a cópia de métodos antigos pelo desenho ao vivo, convidando pintores para esboçar e trazendo alunos de artes para criar no templo, o que rendeu ao local o título de "Palácio da Arte Oriental". Com seus pincéis e senso estético, ele transformou profundamente as crenças populares. Em seus últimos anos, lecionou na Escola Nacional de Artes e fundou o departamento de escultura.'
 date: 2026-03-23
 category: 'People'
 tags:
   [
-    'Figuras',
+    'Personalidades',
     'Arte',
-    'Belas Artes',
+    'Artes Visuais',
     'Sanxia',
-    'Templo Zushi',
+    'Templo Ancestral',
     'Realismo',
-    'Taiten',
+    'Exposição de Arte de Taiwan',
   ]
 subcategory: '藝術與創作'
 author: 'Taiwan.md'
@@ -20,10 +20,10 @@ lastVerified: 2026-03-23
 lastHumanReview: false
 curation: 'incubating'
 translatedFrom: 'People/李梅樹.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: 'f75a0392a4'
 sourceContentHash: 'sha256:7bf4114050e0bd18'
 sourceBodyHash: 'sha256:56cd3707ce723649'
-translatedAt: '2026-08-04T17:42:35+08:00'
+translatedAt: '2026-11-24T04:45:43.750257+00:00'
 ---
 
 > **Resumo em 30 segundos:** Li Mei-shu não foi apenas um pintor seleccionado para o Taiten, mas o único artista de Taiwan a liderar a reconstrução de um templo tradicional com estética académica. A partir de 1947, dedicou 36 anos à reconstrução do Templo Zushi de Sanxia, criando um «uso ocidental para fins orientais» sem precedentes, que fez de um templo rural uma «galeria de arte do Oriente».

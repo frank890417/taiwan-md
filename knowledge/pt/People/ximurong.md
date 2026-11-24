@@ -1,17 +1,17 @@
 ---
-title: 'Si Muro: Sinfonia de Poesia entre a Estepe e a Modernidade'
-description: 'Autora de "Sete Li Xiang" e "Juventude sem Rancor", a poeta mais vendida do mundo chinês, pertencente à etnia Mongol'
+title: 'Xi Mu Rong'
+description: 'A poetista mais vendida de Taiwan na década de 1980. Após a publicação de "Seven Mile Fragrance" em 1981, a obra foi republicada sete vezes em apenas um ano, estabelecendo um recorde de vendas para a poesia moderna taiwanesa. Com o estilo simples e sincero de "Juventude Sem Ressentimentos", seu poema "Uma Árvore em Flor" tornou-se um clássico da poesia sinófona. De ascendência mongol (tribo Chahar) e pintora a óleo de formação, ela passou a escrever sobre cultura étnica após visitar as estepes pela primeira vez em 1989. Em 2019, com "Nomeando Minhas Memórias", refletiu sobre uma vida de peregrinação. Suas coletâneas de poesia somam mais de um milhão de exemplares vendidos e foram reconhecidas com o Prêmio Literário Zhongshan e o Prêmio Nacional de Artes.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Pessoa',
-    'Si Muro',
-    'Sete Li Xiang',
-    'Juventude sem Rancor',
-    'Poeta',
-    'Etnia Mongol',
-    'Prosaista',
+    'Personalidade',
+    'Xi Mu Rong',
+    'Seven Mile Fragrance',
+    'Juventude Sem Ressentimentos',
+    'Poetisa',
+    'Mongol',
+    'Ensaísta',
   ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
@@ -21,10 +21,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/席慕蓉.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'f75a0392a4'
 sourceContentHash: 'sha256:d991df46b210ff83'
 sourceBodyHash: 'sha256:1f26407bb0738827'
-translatedAt: '2026-10-21T12:54:38.179136+00:00'
+translatedAt: '2026-11-24T04:42:33.984188+00:00'
 ---
 
 # Si Muro: Sinfonia de Poesia entre a Estepe e a Modernidade

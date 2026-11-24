@@ -1,15 +1,15 @@
 ---
-title: 'Lee Kuo-hsiu'
-description: 'Fundador da Ping-Fong Acting Troupe, rei da comédia taiwanesa, faleceu em 2 de julho de 2013 devido a câncer colorretal, aos 57 anos'
+title: 'Li Kuo-hsiu'
+description: 'Fundador da Ping-Fong Acting Troupe, aclamado como o rei da comédia de Taiwan e mestre do teatro, em 1984 co-fundou o Performance Workshop com Lai Sheng-chuan e Lee Li-chun, em 1986 fundou a Ping-Fong Acting Troupe, escreveu peças clássicas como "Shamlet", "A Revelação da Ópera de Pequim" e "Filha Vermelha", carregando preocupações humanistas através do riso, ganhou o Golden Bell Award de rádio por edição em 1980, ganhou novamente o Golden Bell Award em 1982, faleceu em 2013 devido a câncer colorretal, deixando um sistema estético sobre como a comédia pode carregar o peso humanista, que ainda influencia inúmeros criadores de teatro de Taiwan.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Lee Kuo-hsiu',
+    'Li Kuo-hsiu',
     'Ping-Fong Acting Troupe',
-    'comédia',
-    'teatro',
-    'teatro taiwanês',
+    'Comédia',
+    'Teatro',
+    'Teatro de Taiwan',
   ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md'
@@ -19,10 +19,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/李國修.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'f2b48b60c5'
 sourceContentHash: 'sha256:6ce83dd89e705886'
 sourceBodyHash: 'sha256:874193c9926520f1'
-translatedAt: '2026-10-22T02:46:36+08:00'
+translatedAt: '2026-11-24T04:38:06.407573+00:00'
 ---
 
 # Lee Kuo-hsiu: o rei da comédia taiwanesa

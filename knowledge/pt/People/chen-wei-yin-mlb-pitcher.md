@@ -1,6 +1,6 @@
 ---
-title: 'Wei-Yin Chen'
-description: 'Assinou o maior contrato da história no valor de 2,5 bilhões de dólares taiwaneses, mas recebeu apenas 47% — o arremessador canhoto'
+title: 'Chen Wei-yin'
+description: 'Primeiro arremessador canhoto taiwanês a ir diretamente da liga japonesa para as Grandes Ligas, em 2009 conquistou o título de melhor ERA da Liga Central da NPB; nos quatro anos nos Orioles, acumulou 46 vitórias e 32 derrotas. Em 2016, assinou com os Marlins um contrato de 5 anos e US$80 milhões (cerca de NT$2,5 bilhões), o maior já assinado por um atleta taiwanês, mas devido a lesões, impostos e comissões de agentes, recebeu apenas 47% do valor. No total entre EUA e Japão, somou 96 vitórias, com 59 nas Grandes Ligas, ficando atrás apenas de Chien-Ming Wang. Em sua carreira, participou de 219 jogos nas Grandes Ligas e obteve 846 strikeouts, refletindo o embate entre o sonho esportivo profissional e a realidade comercial.'
 date: 2026-03-22
 category: 'People'
 tags:
@@ -8,11 +8,11 @@ tags:
     'Personalidades',
     'Beisebol',
     'Esportes',
-    'Atleta profissional',
+    'Atletas profissionais',
     'Grandes Ligas',
     'MLB',
     'NPB',
-    'Liga Japonesa',
+    'Beisebol japonês',
   ]
 subcategory: '體育'
 author: 'Taiwan.md'
@@ -22,10 +22,10 @@ lastHumanReview: false
 readingTime: 6
 curation: 'incubating'
 translatedFrom: 'People/陳偉殷.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: 'f75a0392a4'
 sourceContentHash: 'sha256:ffd25b21bdd9c278'
 sourceBodyHash: 'sha256:7ce7a4f8a7dcd5c0'
-translatedAt: '2026-08-04T14:12:36+08:00'
+translatedAt: '2026-11-24T04:44:34.310605+00:00'
 ---
 
 > **Resumo em 30 segundos:** Wei-Yin Chen foi o primeiro arremessador taiwanês a saltar diretamente da liga japonesa para as Grandes Ligas. Em 2016, assinou um contrato de 5 anos e 80 milhões de dólares (2,5 bilhões de dólares taiwaneses) — o maior da história para um atleta taiwanês —, mas, devido a impostos e comissões de agentes, embolsou apenas 47%. Com 96 vitórias somadas entre EUA e Japão, suas 59 vitórias na MLB ficam atrás apenas das 68 de Chien-Ming Wang.
