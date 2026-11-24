@@ -1,20 +1,31 @@
 ---
 title: 'Chen Wei-yin'
-description: 'Firmó el contrato más alto en la historia de Taiwán por 2.5 mil millones de TWD, pero solo recibió el 47% como lanzador zurdo'
+description: 'El primer lanzador zurdo taiwanés en pasar directamente de la liga japonesa a las Grandes Ligas. En 2009, ganó el título de efectividad de la Liga Central en Japón; con los Orioles, registró 46 victorias y 32 derrotas en cuatro años. En 2016, firmó un contrato histórico para un deportista taiwanés con los Marlins por 5 años y 80 millones de dólares (aproximadamente NT$2.5 mil millones), pero debido a lesiones, impuestos y comisiones de agentes, solo recibió el 47% del total. Con un récord combinado de 96 victorias en Japón y EE. UU., y 59 victorias en la MLB, es el segundo después de Chien-Ming Wang. Sus 219 partidos en la MLB y 846 ponches reflejan la lucha entre los sueños del deporte profesional y la realidad comercial.'
 date: 2026-03-22
 category: 'People'
-tags: ['人物', '棒球', '運動', '職業運動員', '大聯盟', 'MLB', 'NPB', '日職']
+tags:
+  [
+    'Personaje',
+    'Béisbol',
+    'Deporte',
+    'Atleta profesional',
+    'Grandes Ligas',
+    'MLB',
+    'NPB',
+    'Liga japonesa',
+  ]
 subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-22
 lastHumanReview: false
 readingTime: 6
+curation: 'incubating'
 translatedFrom: 'People/陳偉殷.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: 'f75a0392a4'
 sourceContentHash: 'sha256:ffd25b21bdd9c278'
 sourceBodyHash: 'sha256:7ce7a4f8a7dcd5c0'
-translatedAt: '2026-05-16T22:35:47Z'
+translatedAt: '2026-11-24T04:43:32.627160+00:00'
 ---
 
 > **Resumen en 30 segundos:** Chen Wei-yin fue el primer lanzador taiwanés en saltar directamente de la NPB a las Grandes Ligas.

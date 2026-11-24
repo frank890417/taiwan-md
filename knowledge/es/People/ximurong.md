@@ -1,17 +1,17 @@
 ---
-title: 'Hsu Muyun: una sinfonía de poesía entre la estepa y la modernidad'
-description: 'Autora de «Siete leguas de aroma» y «Juventud sin reproches», la poeta más vendida del mundo chino, de etnia mongola'
+title: 'Xi Murong'
+description: 'Poeta más vendida de Taiwán en la década de 1980; en 1981, tras la publicación de "Siete millas de fragancia", se reimprimió siete veces en un año, estableciendo un récord de ventas de poesía moderna en Taiwán; "Juventud sin remordimientos" continuó su estilo poético llano y sincero; "Un árbol en flor" se convirtió en un clásico de la poesía en lengua china. Nació en la tribu Chahar de Mongolia, es pintora al óleo de formación académica; tras pisar por primera vez la estepa en 1989, se volcó hacia la escritura sobre cultura étnica. En 2019, "Nombro a la memoria" repasa una vida de errancia; sus poemarios superan el millón de copias vendidas, y ha recibido el Premio Literario Zhongshan y el Premio Nacional de Literatura, entre otros.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Personaje',
-    'Hsu Muyun',
-    'Siete leguas de aroma',
-    'Juventes sin reproches',
+    'Personajes',
+    'Xi Murong',
+    'Siete millas de fragancia',
+    'Juventud sin remordimientos',
     'Poeta',
-    'Etnia mongola',
-    'Prosaico',
+    'Mongol',
+    'Ensayista',
   ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
@@ -21,10 +21,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/席慕蓉.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'f75a0392a4'
 sourceContentHash: 'sha256:d991df46b210ff83'
 sourceBodyHash: 'sha256:1f26407bb0738827'
-translatedAt: '2026-10-21T12:51:35.150226+00:00'
+translatedAt: '2026-11-24T04:41:11.899548+00:00'
 ---
 
 # Hsu Muyun: una sinfonía de poesía entre la estepa y la modernidad

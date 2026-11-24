@@ -1,16 +1,16 @@
 ---
 title: 'Hou Hsiao-hsien'
-description: 'El poeta cinematográfico que rechazó los primeros planos para conquistar el mundo: un revolucionario de la imagen que desafió la gramática convencional del cine'
+description: 'Maestro del Nuevo Cine taiwanés que subvirtió la gramática cinematográfica con planos secuencia y mirada objetiva, rechazó los primeros planos y dejó que la cámara siguiera a los actores; en 1989 ganó el primer León de Oro de Venecia para Taiwán con Ciudad triste, en 1993 El maestro de las marionetas obtuvo el Premio del Jurado en Cannes, en 1998 Flores de Shanghai se rodó íntegramente en dialecto de Shanghái, en 2015 The Assassin le valió de nuevo el premio al mejor director en Cannes; su estética influyó en directores como Jia Zhangke y Hirokazu Kore-eda; se retiró en 2023 debido al Alzheimer, dejando un lenguaje visual único para el cine en lengua china.'
 date: 2026-03-24
 category: 'People'
 tags:
   [
     'Hou Hsiao-hsien',
-    'Nuevo Cine de Taiwán',
+    'Nuevo Cine taiwanés',
     'León de Oro de Venecia',
     'Festival de Cannes',
-    'Estética cinematográfica',
-    'Plano secuencia',
+    'estética cinematográfica',
+    'plano secuencia',
   ]
 subcategory: '電影與戲劇'
 author: 'Taiwan.md'
@@ -177,10 +177,10 @@ lifeTree:
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/侯孝賢.md'
-sourceCommitSha: 'b1a5fea00'
+sourceCommitSha: 'f75a0392a4'
 sourceContentHash: 'sha256:16a0f8bff9cea010'
 sourceBodyHash: 'sha256:4bfda7146e522cab'
-translatedAt: '2026-11-18T15:29:12.354765+00:00'
+translatedAt: '2026-11-24T05:30:32.842334+00:00'
 ---
 
 # Hou Hsiao-hsien

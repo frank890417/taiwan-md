@@ -1,15 +1,15 @@
 ---
-title: 'Li Mei-shu (李梅樹)'
-description: 'Un pintor dedicó 36 años a la construcción de un templo, integrando la estética académica en las creencias populares.'
+title: 'Li Mei-shu'
+description: 'Pintor taiwanés nacido en Sanxia en 1902, que en 1935 obtuvo el primer premio de la Exposición de Arte de Taiwán con su obra «La joven descansando». Fue el único artista en Taiwán que lideró la reconstrucción de templos tradicionales bajo una estética académica. A partir de 1947, dedicó 36 años a dirigir la reconstrucción del Templo de los Ancestros de Sanxia, sustituyendo la copia de métodos antiguos por el dibujo de la naturaleza, invitando a pintores para realizar bocetos y llevando a estudiantes de arte al templo para crear. Gracias a esto, este templo rural es conocido como el «Palacio de las Artes Orientales», habiendo transformado profundamente las creencias populares mediante su pincel y estética. En sus últimos años, enseñó en la Escuela Nacional de Artes Especializadas, donde fundó el departamento de escultura.'
 date: 2026-03-23
 category: 'People'
 tags:
   [
     'Personajes',
     'Arte',
-    'Bellas Artes',
+    'Bellas artes',
     'Sanxia',
-    'Templo Zushi',
+    'Templo de los Ancestros',
     'Realismo',
     'Exposición de Arte de Taiwán',
   ]
@@ -20,10 +20,10 @@ lastVerified: 2026-03-23
 lastHumanReview: false
 curation: 'incubating'
 translatedFrom: 'People/李梅樹.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: 'f75a0392a4'
 sourceContentHash: 'sha256:7bf4114050e0bd18'
 sourceBodyHash: 'sha256:56cd3707ce723649'
-translatedAt: '2026-08-04T14:32:57+08:00'
+translatedAt: '2026-11-24T04:45:07.032106+00:00'
 ---
 
 > **Resumen en 30 segundos:** Li Mei-shu no fue solo un pintor premiado en la Exposición de Arte de Taiwán, sino el único artista en Taiwán que lideró la reconstrucción de un templo tradicional bajo una estética académica. Desde 1947, dedicó 36 años a dirigir la reconstrucción del Templo Zushi de Sanxia, creando un espectáculo sin precedentes de "aplicación de lo occidental en Oriente", logrando que un templo rural sea aclamado como un "palacio del arte oriental".
