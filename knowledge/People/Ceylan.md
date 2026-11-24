@@ -1,6 +1,6 @@
 ---
 title: '錫蘭：靠被看見成名，卻因被看見離開台灣'
-description: '比利時籍 YouTuber 錫蘭在台灣居住、評論與離開的故事，折射網路名人如何在公共注視與日常自由之間重新選擇，也呈現外來者批評、社會回應與個人界線之間的拉扯。'
+description: '比利時與中國混血的華語YouTuber，2022年在上海封城後以影片記錄物資與移動受限的生活而受到關注；2023年在台灣居住約半年、取得居留證，以〈住了6個月後，這些是我對台灣真實的看法〉批評媒體、交通與市容，也因被認出、合照要求與偷拍造成的出門壓力，宣布考慮搬到日本。其後持續以長篇影片檢視寵物溝通、心靈課程與器官溝通等主張，在觀看他人與被他人觀看之間反覆移動。'
 date: 2026-08-19
 category: 'People'
 tags: ['錫蘭', 'Ceylan', 'YouTuber', '網路文化', '台灣']
@@ -17,6 +17,7 @@ rationale:
   whos_pushing_back: '支持其直白批評的觀眾、認為外來者居住時間不足以概括台灣的讀者，以及關注偷拍與公共注視界線的網路使用者。'
 curation: incubating
 ---
+
 > **30 秒概覽：** 錫蘭 Ceylan 是以華語創作的 YouTuber。2022 年上海封城後，他把生活經驗帶回鏡頭；2023 年在台灣居住約半年、取得居留證，卻因被認出、合照要求與偷拍造成的出門壓力，宣布考慮搬到日本。這篇文章不替台灣下總評，而是追蹤一個靠被看見成名的人，如何在過度被看見後重新選擇生活地點。
 
 2022 年，錫蘭 Ceylan 在上海封城後離開中國。2023 年，他在台灣住了約半年並取得居留證。同年 8 月，他宣布準備離開台灣，考慮搬到日本。[^1][^2][^3] 這條時間線看似是移居紀錄，真正牽動人的卻是其中的反差：一個靠「被看見」建立頻道的人，最後正因為太容易被看見，失去了一個普通人可以出門的日常。
@@ -45,7 +46,6 @@ _圖片說明：迪化街街景連結錫蘭所談的市容、老街保存與城�
 
 更值得注意的是，錫蘭的影片同時具有「生活紀錄」和「論證」兩種功能。鏡頭裡的街道、新聞畫面與個人旁白，讓觀眾感覺自己正在觀看現場。但當他從幾個例子推論整體社會時，觀眾仍需要追問樣本是否足夠、比較對象是否公平，以及影片是否為了節奏而省略了反例。這不是只針對錫蘭的要求，而是所有評論型創作者都必須面對的媒體識讀問題。
 
-
 ## 最後離開的不是台灣，而是注視
 
 2023 年 8 月，錫蘭說自己在台灣「不是非常的開心」。TVBS、鏡週刊與華視轉載報導都指出，他最在意的是出門自由：被認出來、被要求合照並非全都不可接受，但遭到偷拍、照片被放上網，讓他逐漸減少外出。他也提到台北長時間濕熱的天氣，並把日本視為下一個可能的生活地點。[^1][^2][^3][^7]
@@ -65,7 +65,7 @@ _圖片說明：台北 101 與城市天際線象徵錫蘭在台居住經驗的�
 2026 | 寵物溝通師 | 從觀看節目到親自上課，將個人質疑延伸為證據、專業界線與療癒需求的討論
 2025 | 心靈課程 | 以長篇調查影片拆解課程設計、心理操作與助人工作的專業倫理
 2026 | 器官與身體的溝通 | 透過實際上課追問癌症、腫瘤與「身體對話」主張的證據和醫療界線
-來源：Newtalk、Newtalk、端傳媒、Newtalk、PeoPo、中正E報、信傳媒、VOCUS 與錫蘭 Ceylan 官方 YouTube 逐頁資料，2022–2026。 
+來源：Newtalk、Newtalk、端傳媒、Newtalk、PeoPo、中正E報、信傳媒、VOCUS 與錫蘭 Ceylan 官方 YouTube 逐頁資料，2022–2026。
 ```
 
 這條時間軸不是把錫蘭的人生壓縮成幾個年份，而是標示他在公共討論中的角色如何改變：先是記錄限制生活的當事人，接著成為評論居住地的創作者，再成為批評媒體與被媒體報導的對象，最後也必須面對自身評論所產生的爭議。時間軸中的事件日期與內容，應以各自的逐頁來源為準。它提供的是閱讀順序，不是替所有事件下定論。
@@ -113,35 +113,55 @@ _圖片說明：台北 101 與城市天際線象徵錫蘭在台居住經驗的�
 ## 參考資料
 
 [^1]: [YouTuber「錫蘭」宣布離開台灣 親吐離開「2原因」：目前不適合他居住](https://tw.news.yahoo.com/youtuber-%E9%8C%AB%E8%98%AD-%E5%AE%A3%E5%B8%83%E9%9B%A2%E9%96%8B%E5%8F%B0%E7%81%A3-%E8%A6%AA%E5%90%90%E9%9B%A2%E9%96%8B-2%E5%8E%9F%E5%9B%A0-031000624.html) — 華視／Yahoo新聞，2023-08-14。
+
 [^2]: [網紅錫蘭宣布離台！曝「這原因」讓他難以在台生活](https://www.mirrormedia.mg/story/20230815edi002) — 鏡週刊，2023-08-15。
+
 [^3]: [YouTuber「錫蘭」宣布離開台灣 親吐離開「2原因」](https://news.cts.com.tw/cts/entertain/202308/202308152215556.html) — 華視新聞逐頁原文，2023-08-15。
+
 [^4]: [錫蘭逃離上海封城 回比利時拍片揭露生活經歷](https://newtalk.tw/news/view/2022-04-30/747834) — Newtalk新聞，2022-04-30。
+
 [^5]: [錫蘭來台半年點出3缺點！呼籲台灣人：少說假話](https://newtalk.tw/news/view/2023-04-26/868311) — Newtalk新聞，2023-04-26。
+
 [^6]: [網紅點出台灣3大亂象直言「我不喜歡」網友大讚：中肯](https://udn.com/news/story/120911/7124994) — 聯合新聞網，2023-04-26。
+
 [^7]: [YouTuber錫蘭宣布離台 親曝2原因：台灣目前不適合我居住](https://udn.com/news/story/120912/7372564) — 聯合新聞網，2023-08-16。
+
 [^8]: [錫蘭Ceylan](https://www.youtube.com/@xilanceylan) — 官方 YouTube 頻道頁。
+
 [^9]: [錫蘭Ceylan](https://zh.wikipedia.org/zh-hant/%E9%94%A1%E5%85%B0Ceylan) — 維基百科人物條目，作為姓名與創作者身分的交叉參照。
+
 [^10]: [錫蘭來台半年盤點台灣3大亂象　網友讚中肯：比多數國人看得還透澈](https://www.mirrormedia.mg/story/20230425edi007) — 鏡週刊，2023-04-25。
+
 [^11]: [Youtuber錫蘭「逃離上海」　影片揭露封城慘況直呼「太魔幻」](https://tw.news.yahoo.com/youtuber%E9%8C%AB%E8%98%AD-%E9%80%83%E9%9B%A2%E4%B8%8A-%E5%BD%B1%E7%89%87%E6%8F%AD%E9%9C%B2%E5%B0%81%E5%9F%8E%E6%85%98%E6%B3%81%E7%9直呼-%E5%A4%AA%E9%AD%94%E5%B9%BB-132752495.html) — Yahoo新聞，2022-04-30。
+
 [^12]: [寵物溝通師興起 療癒需求與科學質疑拉鋸](https://enews.ccu.edu.tw/p/405-1089-89502,c177.php?Lang=zh-tw) — 國立中正大學中正E報，2026-05-12。
+
 [^13]: [網絡觀察：錫蘭批評台灣媒體素質引熱議，媒體與閱聽人皆有責任？](https://theinitium.com/20230923-whatsnew-taiwan-xilan-view-on-media/) — 端傳媒，2023-09-23。
+
 [^14]: [錫蘭直播對質阿滴遭指「期待他黑掉」！本人幫緩頰：已接受道歉](https://newtalk.tw/news/view/2025-04-07/964134) — Newtalk新聞，2025-04-07。
+
 [^15]: [住了6個月後，這些是我對台灣真實的看法](https://www.youtube.com/watch?v=XXJZW_zXYWw) — 錫蘭 Ceylan 官方 YouTube，2023-04-24。
+
 [^16]: [寵物溝通氣死我了！！！為什麼有人信這個東西！！！](https://www.youtube.com/watch?v=aDbSrl2u2Xo) — 錫蘭 Ceylan／錫片官方 YouTube，2026-04-18。
+
 [^17]: [我去上了寵物溝通課！結果發現這東西比我想的還要蠢...](https://www.youtube.com/watch?v=bZjFN1KRRbQ) — 錫蘭 Ceylan 官方 YouTube。
+
 [^18]: [你的心靈不需要課程：錫蘭調查心靈課程與心理操作](https://www.cmmedia.com.tw/home/articles/52497) — 信傳媒，2025-02-14。
+
 [^19]: [從臨床心理師角度看錫蘭的心靈課程調查](https://vocus.cc/article/67b0a67afd8978000178eff8) — 臨床心理師逐頁評論，2025-02-15。
+
 [^20]: [我去上了器官溝通課！結果發現這東西比我想的還要糟糕...](https://www.youtube.com/watch?v=W0a8udfJ4rI) — 錫蘭 Ceylan 官方 YouTube，2026-07-03。
+
 [^21]: [錫蘭實際體驗器官溝通課：解密希塔療癒課程](https://www.social-lab.cc/2026/07/youtube/%E3%80%90%E9%8C%AB%E8%98%ADceylan%E3%80%91%E5%AF%A6%E9%9A%9B%E9%AB%94%E9%A9%97%E5%99%A8%E5%AE%98%E6%BA%9D%E9%80%9A%E8%AA%B2-%E8%A7%A3%E5%AF%86%E5%B8%8C%E5%A1%94%E7%99%82%E7%99%92%E8%AA%B2%E7%A8%8B/) — Social Lab，2026-07-06。
 
 ## 延伸閱讀
 
 - [錫蘭 Ceylan 官方 YouTube 頻道](https://www.youtube.com/@xilanceylan)
 - [Wikimedia Commons：台北八德路一段街景](https://commons.wikimedia.org/wiki/File:Bade_Road_Section_1,_Taipei_City_20090725.jpg)
-- [Wikimedia Commons：迪化街一段街景](https://commons.wikimedia.org/wiki/File:DiHua_Street_Sec.1,_Taipei_(at_YongChang_Street).jpg)
+- [Wikimedia Commons：迪化街一段街景](<https://commons.wikimedia.org/wiki/File:DiHua_Street_Sec.1,_Taipei_(at_YongChang_Street).jpg>)
 
 ## 圖片來源
 
 - [File:Bade Road Section 1, Taipei City 20090725.jpg](https://commons.wikimedia.org/wiki/File:Bade_Road_Section_1,_Taipei_City_20090725.jpg) — 玄史生，CC BY-SA 3.0。
-- [File:DiHua Street Sec.1, Taipei (at YongChang Street).jpg](https://commons.wikimedia.org/wiki/File:DiHua_Street_Sec.1,_Taipei_(at_YongChang_Street).jpg) — Kiyoteru Awaji，CC BY 4.0。
+- [File:DiHua Street Sec.1, Taipei (at YongChang Street).jpg](<https://commons.wikimedia.org/wiki/File:DiHua_Street_Sec.1,_Taipei_(at_YongChang_Street).jpg>) — Kiyoteru Awaji，CC BY 4.0。
 - [File:Taipei 101 2009 amk.jpg](https://commons.wikimedia.org/wiki/File:Taipei_101_2009_amk.jpg) — AngMoKio，CC BY-SA 3.0。
