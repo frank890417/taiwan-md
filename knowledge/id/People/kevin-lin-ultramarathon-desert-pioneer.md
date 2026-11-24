@@ -1,6 +1,6 @@
 ---
-title: 'Lin I-chieh (林義傑)'
-description: 'Dari anak kurus yang ditolak tim atletik, menjadi pelari kutub yang membuat sejarah dengan melintasi Gurun Sahara pejalan kaki'
+title: 'Lin Yi-jie'
+description: 'Dari seorang anak laki-laki kurus yang ditolak tim atletik, menjadi salah satu dari tiga orang pertama dalam sejarah manusia yang melintasi Gurun Sahara dengan berjalan kaki: pada 2006 ia menyelesaikan 7.500 km dalam 111 hari, mengauskan 11 pasang sepatu, melewati lima negara dengan situasi politik tidak stabil, dan meraih juara umum Kejuaraan Super Marathon Empat Kutub. Film dokumenter "Pertarungan di Sahara" membuat dunia mengenal pelari Taiwan ini, dan kontroversi gugatan hak cipta pasca pensiunnya mengungkap kebenaran kompleks di balik aura pahlawan.'
 date: 2026-03-22
 category: 'People'
 tags:
@@ -20,10 +20,10 @@ lastHumanReview: false
 readingTime: 7
 curation: 'incubating'
 translatedFrom: 'People/林義傑.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: 'f2b48b60c5'
 sourceContentHash: 'sha256:8741429d614846be'
 sourceBodyHash: 'sha256:3713eaac6b565ca6'
-translatedAt: '2026-08-04T17:42:35+08:00'
+translatedAt: '2026-11-24T04:31:59.442146+00:00'
 ---
 
 > **Ringkasan 30 detik:** Lin I-chieh, seorang anak laki-laki kurus yang di sekolah dasar pernah diancam guru olahraga "dilarang mengalahkan senior", pada 2006 menjadi salah satu dari tiga orang pertama dalam sejarah umat manusia yang melintasi Gurun Sahara pejalan kaki. Dalam 111 hari ia menyelesaikan 7.500 km, mengauskan 11 pasang sepatu, namun kemudian mengetahui bahwa pasukan militer yang mengawal mereka dalam perjalanan pulang semuanya dibunuh.

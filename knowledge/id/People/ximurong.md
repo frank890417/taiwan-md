@@ -1,16 +1,16 @@
 ---
-title: 'Xi Murong: Simfoni Puisi antara Padang Rumput dan Modernitas'
-description: 'Penulis "Qi Li Xiang" dan "Wu Yuan de Qing Chun", penyair paling laris di dunia puisi berbahasa Tionghoa, keturunan Mongolia'
+title: 'Xi Murong'
+description: "Penyair paling laris di Taiwan pada tahun 1980-an, pada 1981 buku 'Qili Xiang' diterbitkan dan dalam setahun telah dicetak ulang tujuh kali, mencatatkan rekor penjualan puisi modern Taiwan; 'Muda Tanpa Penyesalan' melanjutkan gaya puisi yang sederhana dan tulus, 'Satu Pohon Berbunga' menjadi klasik puisi berbahasa Mandarin; ia berasal dari suku Chahar Mongolia, adalah pelukis minyak profesional, pada 1989 pertama kali menginjakkan kaki di padang rumput lalu beralih ke penulisan budaya etnis, pada 2019 'Aku Menamakan Kenangan' menengok kembali seumur hidup pengembaraan, total penjualan kumpulan puisi melebihi satu juta eksemplar, dan memenangkan Penghargaan Sastra Zhongshan, Penghargaan Sastra Nasional, dll."
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Tokoh',
     'Xi Murong',
-    'Qi Li Xiang',
-    'Wu Yuan de Qing Chun',
+    'Qili Xiang',
+    'Muda Tanpa Penyesalan',
     'Penyair',
-    'Mongolia',
+    'Suku Mongolia',
     'Penulis Esai',
   ]
 subcategory: '文學'
@@ -21,10 +21,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/席慕蓉.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'f75a0392a4'
 sourceContentHash: 'sha256:d991df46b210ff83'
 sourceBodyHash: 'sha256:1f26407bb0738827'
-translatedAt: '2026-10-21T20:47:17+08:00'
+translatedAt: '2026-11-24T04:43:09.773921+00:00'
 ---
 
 # Xi Murong: Simfoni Puisi antara Padang Rumput dan Modernitas

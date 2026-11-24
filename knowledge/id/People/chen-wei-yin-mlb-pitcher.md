@@ -1,6 +1,6 @@
 ---
 title: 'Chen Wei-yin'
-description: 'Menandatangani kontrak tertinggi sejarah sebesar 2,5 miliar Dolar Taiwan Baru, namun pitcher kiri ini hanya memperoleh 47% [dari nilai kontraknya]'
+description: 'Pitcher kidal asal Taiwan pertama yang langsung pindah dari NPB ke MLB. Ia meraih gelar juara ERA di Central League NPB pada tahun 2009, mencatatkan 46 kemenangan dan 32 kekalahan selama empat tahun bersama Orioles, serta menandatangani kontrak senilai US$80 juta atau sekitar NT$2,5 miliar dengan Marlins pada tahun 2016—kontrak atlet Taiwan terbesar dalam sejarah. Namun, karena cedera serta masalah pajak dan komisi agen, ia hanya menerima 47% dari nilai tersebut. Dengan total 96 kemenangan di Jepang dan AS serta 59 kemenangan di MLB, ia berada tepat di bawah Chien-Ming Wang. Melalui 219 penampilan di MLB dan 846 strikeout, kisahnya mencerminkan tarik-ulur antara impian olahraga profesional dan realitas bisnis.'
 date: 2026-03-22
 category: 'People'
 tags:
@@ -8,11 +8,11 @@ tags:
     'Tokoh',
     'Bisbol',
     'Olahraga',
-    'Atlet profesional',
-    'Liga Mayor',
+    'Atlet Profesional',
     'MLB',
+    'Major League Baseball',
     'NPB',
-    'Liga Bisbol Profesional Jepang',
+    'Liga Jepang',
   ]
 subcategory: '體育'
 author: 'Taiwan.md'
@@ -22,10 +22,10 @@ lastHumanReview: false
 readingTime: 6
 curation: 'incubating'
 translatedFrom: 'People/陳偉殷.md'
-sourceCommitSha: '69b3afd91'
-sourceContentHash: 'sha256:257cf55177cb05b1'
+sourceCommitSha: 'f75a0392a4'
+sourceContentHash: 'sha256:ffd25b21bdd9c278'
 sourceBodyHash: 'sha256:7ce7a4f8a7dcd5c0'
-translatedAt: '2026-08-04T09:22:23.445523+00:00'
+translatedAt: '2026-11-24T04:44:07.330066+00:00'
 ---
 
 > **Ringkasan 30 detik:** Chen Wei-yin adalah pitcher Taiwan pertama yang langsung melompat dari liga profesional Jepang ke MLB, pada 2016 menandatangani kontrak 5 tahun 80 juta dolar AS (2,5 miliar NT$) — kontrak tertinggi dalam sejarah atlet Taiwan — tetapi karena pajak dan biaya agen, ia hanya menerima 47%. Total kemenangan di Jepang dan AS: 96 kemenangan, 59 kemenangan di MLB hanya kalah dari Wang Chien-ming dengan 68 kemenangan.

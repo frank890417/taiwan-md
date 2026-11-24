@@ -1,16 +1,10 @@
 ---
 title: 'Li Kuo-hsiu'
-description: 'Pendiri Performing Arts Workshop, Raja Komedi Taiwan, wafat pada 2 Juli 2013 akibat kanker usus besar di usia 57 tahun'
+description: 'Pendiri Ping-Fong Acting Troupe, yang dijuluki Raja Komedi Taiwan, seorang maestro teater. Pada 1984, bersama Lai Sheng-chuan dan Lee Li-chun, ia mendirikan Performance Workshop. Pada 1986, ia mendirikan Ping-Fong Acting Troupe, menulis karya-karya klasik seperti "Hamlet, the Revenge", "The Peking Opera Revelation", dan "Red Daughter". Dengan tawa, ia membawa kepedulian kemanusiaan. Pada 1980, ia memenangkan Golden Bell Award untuk penyuntingan siaran radio, dan pada 1982 kembali mendapat penghargaan Golden Bell. Pada 2013, ia meninggal dunia karena kanker usus besar, meninggalkan sebuah sistem estetika tentang bagaimana komedi dapat memikul bobot kemanusiaan, yang hingga kini masih memengaruhi tak terhitung kreator teater Taiwan.'
 date: 2026-03-19
 category: 'People'
 tags:
-  [
-    'Li Kuo-hsiu',
-    'Performing Arts Workshop',
-    'komedi',
-    'teater',
-    'drama Taiwan',
-  ]
+  ['Li Kuo-hsiu', 'Ping-Fong Acting Troupe', 'Komedi', 'Teater', 'Drama Taiwan']
 subcategory: '藝術與設計'
 author: 'Taiwan.md'
 featured: false
@@ -19,10 +13,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/李國修.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'f2b48b60c5'
 sourceContentHash: 'sha256:6ce83dd89e705886'
 sourceBodyHash: 'sha256:874193c9926520f1'
-translatedAt: '2026-10-22T02:46:34+08:00'
+translatedAt: '2026-11-24T04:36:57.520739+00:00'
 ---
 
 # Li Kuo-hsiu: Raja Komedi Taiwan

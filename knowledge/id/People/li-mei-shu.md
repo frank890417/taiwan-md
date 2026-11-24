@@ -1,17 +1,17 @@
 ---
 title: 'Li Mei-shu'
-description: 'Seorang pelukis menghabiskan 36 tahun membangun sebuah kuil, membawa estetika akademis ke dalam kepercayaan rakyat'
+description: 'Pelukis Taiwan kelahiran Sanxia pada tahun 1902, yang memenangkan penghargaan utama dalam Pameran Seni Taiwan pada tahun 1935 melalui karyanya "Gadis yang Sedang Beristirasi". Beliau adalah satu-satunya seniman di Taiwan yang memimpin rekonstruksi kuil tradisional dengan estetika akademis; sejak tahun 1947, beliau menghabiskan 36 tahun untuk memimpin rekonstruksi Kuil Leluhur Sanxia (Sanxia Tudi Gong), menggunakan teknik sketsa langsung alih-alih sekadar meniru metode kuno, mengundang para pelukis untuk membuat draf, serta membawa siswa seni untuk berkarya di dalam kuil. Hal ini membuat kuil pedesaan tersebut dijuluki sebagai "Aula Seni Timur", dan beliau secara mendalam mengubah kepercayaan rakyat melalui kuas dan estetika. Di masa tuanya, beliau mengajar di Sekolah Seni Nasional dan mendirikan departemen patung.'
 date: 2026-03-23
 category: 'People'
 tags:
   [
     'Tokoh',
     'Seni',
-    'Seni rupa',
+    'Seni Rupa',
     'Sanxia',
-    'Kuil Zushi',
+    'Kuil Leluhur',
     'Realisme',
-    'Pameran Taiwan',
+    'Pameran Seni Taiwan',
   ]
 subcategory: '藝術與創作'
 author: 'Taiwan.md'
@@ -20,10 +20,10 @@ lastVerified: 2026-03-23
 lastHumanReview: false
 curation: 'incubating'
 translatedFrom: 'People/李梅樹.md'
-sourceCommitSha: '69b3afd91'
-sourceContentHash: 'sha256:f79e6e0a908d6b4e'
+sourceCommitSha: 'f75a0392a4'
+sourceContentHash: 'sha256:7bf4114050e0bd18'
 sourceBodyHash: 'sha256:56cd3707ce723649'
-translatedAt: '2026-08-04T11:30:12.266917+00:00'
+translatedAt: '2026-11-24T04:45:32.023615+00:00'
 ---
 
 **30 detik ringkasan:** Li Mei-shu bukan hanya pelukis terpilih Tai-zhan, lebih dari itu ia adalah satu-satunya seniman Taiwan yang memimpin pembangunan ulang kuil tradisional dengan estetika aliran akademi. Mulai 1947, ia menghabiskan 36 tahun memimpin pembangunan ulang Kuil Zushi Sanxia, menciptakan keajaiban "ilmu Barat untuk keperluan Timur" yang tak pernah terjadi sebelumnya, menjadikan sebuah kuil pedesaan dikenal sebagai "Istana Seni Timur".
