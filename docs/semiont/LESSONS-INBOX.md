@@ -332,6 +332,32 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-11-24 twmd-maintainer-daily — promoting-a-further-reading-link-into-a-footnote-raises-its-burden-and-no-gate-asks：把延伸閱讀的連結升成腳註，等於提高它要證明的東西，而每一把尺都只獎勵這個升級
+
+- **pattern**: `citation-promotion-raises-burden-unchecked`
+- **原則**：「裸網址／延伸閱讀清單的一條連結」跟「撐著某一句話的腳註」是兩種不同的舉證責任。把前者轉成後者是我們想要的方向，但轉換本身會讓同一個連結突然要為一個具體句子負責，而現有閘門全部只量轉換有沒有完成，沒有一道在問升級後的來源撐不撐得起它被掛上的那句話。
+- **觸發**：2026-11-24 審 PR #2059（tboydar 把四篇文章正文的裸網址轉成 30 條正式腳註）。footnote-density 的 C/D 警告消除、`article-health --profile=ci-deploy` 與 `--profile=pre-commit` 都 hard=0、PR 的 frontmatter-gate 與 review 全綠——每一把尺都獎勵這次轉換。照 MAINTAINER §Step 3.4 抽 10/30 條實際連出去看，兩條在〈開源社群與g0v〉現形，且兩條都是**原本就在延伸閱讀清單裡的**：(a) 博客來《數位時代的民主參與：從太陽花到g0v》產品頁回 HTTP 404，一輪搜尋也找不到對得上的出版資料，而它升級後撐的是「這種模式後來被世界各地的公民運動學習和模仿」；(b) TED 那條標題寫「如何在沒有許可下修正政府」，網址其實指唐鳳 2020 年那場 `How digital innovation can fight pandemics and strengthen democracy`，升級後撐的是「2月6日、13,000家特約藥局、每30分鐘更新」三個具體數字。兩條在清單時代都只是「推薦讀物」，沒有任何一句話靠它們站著。
+- **處置**：(a) 換成 Friedrich Naumann 基金會介紹 g0v 參與編寫的公民科技手冊（第三方、可開、實際讀過），並照它實際寫的把「學習和模仿」收斂成「被國外看成一個可能的範本」＋列出手冊真的收錄的韓國、泰國、日本、德國案例；(b) 標題改回實際講題。`ab9964d668`。(b) 的 claim 層沒收尾：TED 逐字稿抓不到，只讀得到簡介，簡介沒有那三項，而抓不到不等於講者沒講，所以正文沒動，留事實查核。
+- **instances**：（首例）
+- **可能層級**：操作規則（MAINTAINER §Step 3.4 加一條觸發條件）
+- **相關**：Step 0 DNA 查重結果——[REFLEXES #102](REFLEXES.md)（引用的形狀撐不起引用的內容）是同一個原則，但 #102 管的是**既有**腳註；本條新增的是「非腳註 → 腳註」這個**轉換**沒有閘門，而轉換恰好是我們鼓勵投稿者做的事。另見 #75（Read ≠ verify）、#16 延伸（否定式結論舉證要更高：404 是硬事實，「這本書不存在」只有一輪搜尋撐不起來）
+- **候選機械化**：PR diff 若把 `- [title](url)` 從延伸閱讀／參考清單區改寫成 `[^N]:` 定義、且該 `[^N]` 被插進正文句尾，就印一行「這 N 條來源的舉證責任剛剛升級，抽驗它們撐不撐得起被掛上的句子」。純提醒級，不擋。
+- **verification_count**: 1
+- **severity**: structural（它獎勵的正是我們要投稿者做的事，所以會反覆發生；而且失效方式是把弱連結洗成證據）
+
+### 2026-11-24 twmd-maintainer-daily — cjk-residue 的豁免只認括號，不認署名行與正在被對比的那個詞
+
+- **pattern**: `cjk-residue-exemption-misses-attribution-and-contrasted-term`
+- **原則**：非 CJK 譯文的裸漢字殘留檢查，豁免清單覆蓋「括號 gloss」，但有兩種漢字是**必須**逐字留下的：圖片出處的人名署名（Wikimedia 的 attribution 要原樣），以及正在被對比的術語本身（腳註存在的目的就是區分那兩個詞時，該漢字是對比的主體）。
+- **觸發**：2026-11-24 審 PR #2062（aminzai 的 vi 譯文〈愛玉〉）。`cjk-residue-check --lang vi` 報 ❌ 2 行：`阿坤 Wang kun hung`（圖片出處區的攝影者署名，Commons 上就是這樣寫）與 `薜荔`（腳註 `[^8]` 的標題是「這是薜荔，不是 aiyu！」，整條腳註的目的就是區分 _Ficus pumila_ 與 _Ficus pumila_ var. _awkeotsang_）。兩處都是假陽性，人審裁決放行並在 PR 回覆明講，讓投稿者下次不要把它們「修掉」。
+- **邊界補充**：這道尺**不在 PR 路徑上**（#2062 的 `check-translation` 全綠），是本班手動跑才現形。不在路徑上的假陽性比在閘門位置的便宜，但也代表它對存量零防護——它誰也沒擋，也誰也沒保護。
+- **instances**：（首例，但屬 2026-07-24 括號 gloss 假陽性家族的第 N 次）
+- **可能層級**：操作規則（豁免清單加兩條）
+- **相關**：Step 0 DNA 查重結果——[MANIFESTO §14](MANIFESTO.md)（需要判斷的硬塞給 regex 會生出假陽性家族默默誤殺好產出）與 [REFLEXES #16 延伸](REFLEXES.md)（2026-07-25 ru 那批地標名全是合法假陽性，證明這道 gate 必須人審不能自動裁決）都已涵蓋原則；本條補的是**具體豁免缺口**，不是新原則
+- **候選機械化**：豁免清單加 (a) 圖片出處區塊（`## 圖片來源` / `Nguồn hình ảnh` 等各語對應標題之後的 `— Ảnh:`／`— Photo:` 署名行）(b) 同一行已以拉丁學名括號形式出現過的該漢字
+- **verification_count**: 1
+- **severity**: minor（目前不在閘門位置，不擋任何東西）
+
 ### 2026-11-22 twmd-routine-audit-weekly — outage-recorded-per-routine-hides-that-the-machine-was-dark：停電被記成「幾條 routine 沉默」，於是三個席位去問那幾條 routine 怎麼了
 
 - **pattern**: `outage-recorded-per-routine-hides-that-the-machine-was-dark`
