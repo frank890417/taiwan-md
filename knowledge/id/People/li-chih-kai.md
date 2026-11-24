@@ -1,17 +1,17 @@
 ---
 title: 'Lee Chih-kai'
-description: 'Dari "Kai Pasar Tradisional" di Film Dokumenter "Gulinglah! Anak Laki-laki" ke Medali Perak Olimpiade, 16 Tahun Hidup Berguling Pangeran Kuda Tangga Taiwan'
+description: 'Pangeran Kuda Tangga gimnastik Taiwan, lahir 1996, bergabung tim gimnastik SD Gongzheng Yilan pada usia 6 tahun, pada usia 9 tahun dijuluki "Kai Pasar" karena film dokumenter "Gulingkan! Anak-anak Laki-laki"; bangkit berkat gerakan khas Thomas flair, meraih emas Asian Games pertama gimnastik Taiwan di Asian Games 2018, di Olimpiade Tokyo 2021 memperoleh 15.400 poin meraih perak kuda tangga, menorehkan medali Olimpiade pertama dalam sejarah gimnastik Taiwan, tekniknya pun diadopsi FIG sebagai kurikulum standar, enam belas tahun berguling membuktikan gimnastik akar rumput juga bisa ke dunia.'
 date: 2026-03-21
 category: 'People'
 tags:
   [
-    'tokoh',
+    'Tokoh',
     'Lee Chih-kai',
-    'senam',
+    'Gimnastik',
     'Olimpiade',
-    'perak',
-    'atlet',
-    'kuda tangga',
+    'Perak',
+    'Atlet',
+    'Kuda Tangga',
     'Taiwan',
   ]
 subcategory: '體育'
@@ -20,10 +20,10 @@ featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
 translatedFrom: 'People/李智凱.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'f75a0392a4'
 sourceContentHash: 'sha256:40c8b34419f44594'
 sourceBodyHash: 'sha256:cb29681047e37872'
-translatedAt: '2026-07-25T19:12:05+08:00'
+translatedAt: '2026-11-24T04:08:51.196014+00:00'
 ---
 
 # Lee Chih-kai

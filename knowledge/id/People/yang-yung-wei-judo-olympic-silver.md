@@ -1,19 +1,19 @@
 ---
-title: 'Yang Yung-wei'
-description: 'Perak Olimpiade Tokyo 2021 judo 60 kg, pertama kali Taiwan meraih medali Olimpiade judo, bulan November tahun yang sama menduduki peringkat dunia nomor satu'
+title: 'Yang Yong-wei'
+description: 'Atlet judo suku Paiwan, peraih medali perak kelas 60 kg putra pada Olimpiade Tokyo 2021, yang mencetak sejarah sebagai pemenang medali judo pertama bagi Taiwan di Olimpiade. Pada November tahun yang sama, ia menduduki peringkat pertama dunia dalam peringkat Federasi Judo Internasional, menjadi orang Taiwan pertama yang mencapai posisi nomor satu dunia di cabang judo. Kemenangan emasnya di Asian Games Hangzhou 2023 membuktikan bahwa prestasinya bukanlah sekadar keberuntungan sesaat; dengan teknik uchi-mata andalannya yang presisi serta sikap rendah hati, ia bahkan memikat hati penonton di Jepang. Ia adalah atlet teknis yang memulai perjalanan judonya secara tidak sengaja sejak sekolah dasar hingga akhirnya menulis ulang sejarah judo Taiwan.'
 date: 2026-03-21
 category: 'People'
 tags:
   [
     'Tokoh',
-    'Yang Yung-wei',
-    'judo',
+    'Yang Yong-wei',
+    'Judo',
     'Olimpiade',
-    'perak',
-    'atlet',
+    'Medali Perak',
+    'Atlet',
     'Taiwan',
-    'masyarakat adat',
-    'suku Paiwan',
+    'Penduduk Asli',
+    'Suku Paiwan',
   ]
 subcategory: '體育'
 author: 'Taiwan.md'
@@ -21,10 +21,10 @@ featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
 translatedFrom: 'People/楊勇緯.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'f2b48b60c5'
 sourceContentHash: 'sha256:66a5e0aae1a572b7'
 sourceBodyHash: 'sha256:162f09653edec7c3'
-translatedAt: '2026-07-25T15:46:02+08:00'
+translatedAt: '2026-11-24T04:12:04.643870+00:00'
 ---
 
 # Yang Yung-wei

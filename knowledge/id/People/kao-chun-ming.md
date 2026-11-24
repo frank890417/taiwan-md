@@ -1,29 +1,31 @@
 ---
 title: 'Kao Chun-ming'
-description: 'Seorang asing yang tidak pernah bertemu, membuat pastor mempertaruhkan nyawa dan gerejanya—pilihan iman di balik Peristiwa Formosa'
+description: 'Sekretaris Jenderal Gereja Presbiterian di Taiwan, ditetapkan sebagai tahanan sumir oleh Amnesty International. Setelah Peristiwa Formosa 1979, ia membangun jaringan persembunyian bawah tanah untuk Shih Ming-teh yang baru ia temui dua kali; pada 1980 dihukum tujuh tahun penjara dan seluruh hartanya dirampas oleh pengadilan militer. Puisi di penjara berjudul "Chhut-phah-hōe-hió" kemudian memenangkan Anugerah Golden Melody untuk Penulis Lirik Terbaik; setelah dibebaskan ia terus mendorong keadilan transisional dan teologi kontekstual, hingga meninggal dunia pada 2019, seumur hidup menyaksikan bagaimana iman agama menjadi sumber moral melawan pemerintahan otoriter.'
 date: 2026-03-22
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '政治與民主'
 tags:
-  - 'Tokoh'
-  - 'Pastor'
-  - 'Gerakan Hak Asasi Manusia'
-  - 'Masa Hukum Darurat'
-  - 'Tahanan Hati Nurani'
-  - 'Gereja Presbiterian Taiwan'
-  - 'Peristiwa Formosa'
-  - 'Shih Ming-teh'
+  [
+    'Tokoh',
+    'Pendeta',
+    'Gerakan Hak Asasi Manusia',
+    'Era Hukum Darurat',
+    'Tahanan Sumir',
+    'Gereja Presbiterian',
+    'Peristiwa Formosa',
+    'Shih Ming-teh',
+  ]
+subcategory: '政治與民主'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-22
 lastHumanReview: false
-featured: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/高俊明.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'f2b48b60c5'
 sourceContentHash: 'sha256:eaeba845240b369e'
 sourceBodyHash: 'sha256:b37aec09305a898c'
-translatedAt: '2026-07-25T09:23:05+08:00'
+translatedAt: '2026-11-24T04:20:28.331803+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Pastor Kao Chun-ming (1929-2019) dipenjara 4 tahun karena menyembunyikan pelarian Peristiwa Formosa Shih Ming-teh, padahal keduanya hampir asing—hanya pernah bertemu jauh di acara umum dua kali. Ini kisah tentang pilihan iman: ketika kewajiban moral bertentangan dengan risiko nyata, ia memilih yang pertama.

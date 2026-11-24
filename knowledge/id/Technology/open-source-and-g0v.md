@@ -1,9 +1,9 @@
 ---
-title: 'Komunitas Sumber Terbuka dan g0v'
-description: 'Pada Februari 2020, saat seluruh dunia masih berebut membeli masker, sekelompok programmer Taiwan hanya memerlukan 72 jam agar 13.000 minimarket dapat memeriksa ketersediaan stok masker. Tanpa perintah pemerintah, tanpa dukungan anggaran, hanya dengan satu keyakinan: mengubah masyarakat dengan kode. Itulah g0v Pemerintah Nol, sebuah eksperimen ajaib "fork pemerintah".'
+title: 'Komunitas Open Source dan g0v'
+description: 'Pada Februari 2020, saat dunia berebut masker, sekelompok programmer Taiwan membuat peta stok masker dalam 72 jam. Tanpa perintah pemerintah atau anggaran, hanya dengan keyakinan: mengubah masyarakat melalui kode. Inilah g0v (Zero Government), sebuah eksperimen unik "fork pemerintah".'
 date: 2026-03-23
 category: 'Technology'
-tags: ['Teknologi', 'Komunitas Sumber Terbuka', 'g0v', 'Teknologi Sipil']
+tags: ['Teknologi', 'Komunitas Open Source', 'g0v', 'Civic Tech']
 subcategory: '開源社群'
 author: 'Taiwan.md'
 featured: false
@@ -11,209 +11,216 @@ lastVerified: 2026-03-23
 lastHumanReview: true
 readingTime: 8
 translatedFrom: 'Technology/開源社群與g0v.md'
-sourceCommitSha: '6eeee35c8'
-sourceContentHash: 'sha256:6b493ef18a59a364'
-sourceBodyHash: 'sha256:c135fc23da71593b'
-translatedAt: '2026-07-31T00:47:41.129476+00:00'
+sourceCommitSha: 'ab9964d668'
+sourceContentHash: 'sha256:49bc798dac7c0848'
+sourceBodyHash: 'sha256:3eab141a44932c8b'
+translatedAt: '2026-11-24T11:37:51+08:00'
 ---
 
-# Komunitas Sumber Terbuka dan g0v
+# Komunitas Open Source dan g0v
 
-> **Ringkasan 30 detik:** Pada 2012, karena pemerintah menghabiskan dana besar untuk iklan tanpa isi, sekelompok insinyur memutuskan untuk "fork pemerintah" — mengubah gov.tw menjadi g0v.tw, merancang ulang seperti apa seharusnya pemerintah. 8 tahun kemudian, pandemi COVID-19 meledak, para "amatir" programmer ini membangun peta masker dalam 72 jam, memungkinkan seluruh warga Taiwan memeriksa stok masker 13.000 apotek secara real-time. Ini bukan prestasi pemerintah, melainkan kemenangan warga.
+> **Ringkasan 30 Detik:** Pada tahun 2012, karena pemerintah menghabiskan banyak uang untuk iklan yang tidak berbobot, sekelompok insinyur memutuskan untuk "fork pemerintah"—mengubah gov.tw menjadi g0v.tw, dan merancang ulang bagaimana seharusnya bentuk pemerintahan. Delapan tahun kemudian, saat pandemi COVID-19 meledak, kelompok programmer "amatir" ini membangun peta masker dalam 72 jam, memungkinkan seluruh rakyat Taiwan mencari stok masker di 13.000 apotek secara real-time. Ini bukan prestasi pemerintah, melainkan kemenangan warga negara.
 
-Pada malam Oktober 2012, Kao Chia-liang duduk di depan komputer menonton iklan "Rencana Peningkatan Dinamika Ekonomi" pemerintah, semakin lama semakin marah. Pemerintah menghabiskan lebih dari 40 juta untuk video promosi, tetapi isinya kosong hingga membuat orang ragu: apakah uang itu lebih bermakna jika dibuang ke saluran air?
+Pada suatu malam di bulan Oktober 2012, Kao Chia-liang (高嘉良) duduk di depan komputer menonton iklan "Skema Pendorong Dinamika Ekonomi" milik pemerintah, dan ia merasa semakin geram. Pemerintah menghabiskan lebih dari NT$40 juta untuk membuat video promosi, tetapi isinya begitu kosong hingga membuatnya bertanya: apakah uang ini tidak lebih bermakna jika langsung dibuang ke selokan saja?
 
-Malam itu, ia mengambil keputusan yang mengubah Taiwan: **jika pemerintah tidak melakukan dengan baik, kita lakukan sendiri.**
+Malam itu, ia membuat keputusan yang mengubah Taiwan: **Jika pemerintah tidak bisa melakukannya dengan baik, kami yang akan melakukannya sendiri.**
 
-Ia mengubah "o" dalam nama domain pemerintah gov.tw menjadi "0", menjadikannya g0v.tw. Permainan kata sederhana ini melambangkan konsep baru sepenuhnya: **fork the government**. Sama seperti perangkat lunak sumber terbuka, jika versi aslinya bermasalah, cukup fork sebuah cabang, lalu tulis ulang versi yang lebih baik.
+Ia mengubah huruf "o" dalam domain pemerintah gov.tw menjadi "0", menjadi g0v.tw[^1]. Permainan kata sederhana ini melambangkan sebuah konsep baru: **fork the government**. Seperti perangkat lunak sumber terbuka (open source), jika versi aslinya bermasalah, Anda melakukan _fork_ pada cabangnya dan menulis ulang versi yang lebih baik sendiri.
 
-## Fork Pemerintah: Sebuah Eksperimen Warga di Era Digital
+## Fork Pemerintah: Eksperimen Warga di Era Digital
 
-g0v bukan bertujuan menggulingkan pemerintah, melainkan menciptakan pemerintah yang "sejajar" — menggunakan cara kolaborasi sumber terbuka, mengimaginasikan ulang seperti apa seharusnya layanan pemerintah.
+g0v tidak bertujuan untuk menggulingkan pemerintah, melainkan untuk menciptakan pemerintahan "paralel"—menggunakan cara kolaborasi open source untuk membayangkan kembali seperti apa seharusnya layanan pemerintah.
 
-**Desember 2012**, hackathon g0v ke-nol diadakan di Akademia Sinica, diikuti oleh lebih dari 40 orang. Proyek pertamanya adalah menyelamatkan _Anggaran Total Pemerintah Pusat_ pemerintah dari neraka PDF, dan membuatnya menjadi situs web visualisasi interaktif.
+Pada **Desember 2012**, hackathon g0v yang pertama diadakan di Academia Sinica dengan partisipasi lebih dari 40 orang. Proyek pertamanya adalah menyelamatkan "Anggaran Umum Pemerintah Pusat" dari "neraka PDF" dan mengubahnya menjadi situs visualisasi interaktif.
 
-Buku anggaran pemerintah aslinya adalah PDF berhalaman 500-an, penuh angka dan tabel yang rapat, orang awam sama sekali tidak bisa memahaminya. Relawan g0v mengolah ulang data tersebut, membuat bagan interaktif — **cukup klik sekali, Anda bisa melihat ke mana pajak Anda dialokasikan.**
+Awalnya, dokumen anggaran pemerintah adalah PDF setebal lebih dari 500 halaman dengan angka dan tabel yang sangat padat, sehingga orang awam tidak bisa memahaminya sama sekali. Relawan g0v menyusun ulang data ini menjadi grafik interaktif—**hanya dengan satu klik, Anda bisa melihat ke mana uang pajak Anda dialokasikan oleh pemerintah.**
 
 > **📝 Catatan Kurator**
-> Pilihan g0v untuk proyek pertama berupa visualisasi anggaran pemerintah bukan kebetulan. Anggaran adalah inti politik demokrasi — pemerintah menghabiskan uang rakyat untuk apa, rakyat berhak mengetahui. Namun buku anggaran tradisional justru dibuat agar Anda tidak paham. g0v memecahkan "ketidaktransparanan yang disengaja" ini dengan teknologi.
+> Pemilihan visualisasi anggaran pemerintah sebagai proyek pertama g0v bukanlah sebuah kebetulan. Anggaran adalah inti dari politik demokrasi—rakyat berhak tahu untuk apa pemerintah menggunakan uang mereka. Namun, dokumen anggaran tradisional memang dirancang agar sulit dipahami. g0v menggunakan teknologi untuk membongkar "ketidakterbukaan yang disengaja" ini.
 
-Eksperimen kecil ini membuktikan satu hal: **Pemerintah tidak melakukannya, tidak berarti tidak bisa dilakukan. Hanya saja tidak ada yang melakukannya.**
+Eksperimen kecil ini membuktikan satu hal: **Jika pemerintah tidak melakukannya, bukan berarti hal itu tidak bisa dilakukan. Hanya saja tidak ada yang mau mengerjakannya.**
 
-## 318 Sunflower Movement: Demonstrasi Kekuatan Teknologi Sipil
+## Gerakan Mahasiswa 318: Demonstrasi Kekuatan Civic Tech
 
-Pada malam 18 Maret 2014, mahasiswa menduduki Dewan Legislatif. Keesokan harinya pagi, relawan g0v muncul di lokasi, bukan untuk berdemo, melainkan untuk „membangun infrastruktur”.
+Pada malam 18 Maret 2014, para mahasiswa menduduki Legislatif. Keesokan paginya, relawan g0v muncul di lokasi, bukan untuk berdemonstrasi, melainkan untuk "membangun infrastruktur".
 
-**Tidak ada yang mengorganisir, tidak ada yang memerintah.** Para partisipan komunitas g0v secara sukarela melakukan hal-hal berikut:
+**Tanpa ada yang mengorganisir, tanpa ada yang memberi komando.** Para partisipan komunitas g0v secara spontan melakukan hal-hal berikut:
 
-- **Siaran langsung**: Menyiapkan sistem siaran langsung multi-kamera, memungkinkan seluruh dunia melihat situasi di dalam ruang sidang
-- **Integrasi informasi**: Membuat folder hackfoldr, mengumpulkan, mengatur, dan memverifikasi berbagai informasi di internet secara real-time
-- **Kolaborasi massa**: Membangun sistem penyuntingan bersama, memungkinkan warga yang tidak hadir di lokasi juga berpartisipasi dalam pengumpulan data dan pemeriksaan fakta
-- **Koneksi ke luar**: Menyediakan terjemahan real-time multi-bahasa, agar media internasional dapat memahami tuntutan demonstrasi secara instan
+- **Siaran Langsung (Live Streaming)**: Membangun sistem siaran langsung multi-kamera agar seluruh dunia dapat melihat situasi di dalam ruang sidang.
+- **Integrasi Informasi**: Membuat folder hackfoldr[^2] untuk mengumpulkan, menyusun, dan memverifikasi berbagai informasi di internet secara real-time.
+- **Kolaborasi Massa**: Membangun sistem catatan bersama (collaborative note-taking) agar warga yang tidak berada di lokasi tetap dapat berpartisipasi dalam pengumpulan data dan verifikasi fakta.
+- **Koneksi Eksternal**: Menyediakan terjemahan langsung multibahasa agar media internasional dapat memahami tuntutan protes secara instan.
 
-**Selama 24 hari pendudukan, siaran langsung berkualitas tinggi berlangsung tanpa putus.** Ini adalah pencapaian teknologi yang mustahil dibayangkan pada 2014. Saat itu Facebook Live belum diluncurkan, streaming YouTube pun belum populer, namun relawan g0v menggunakan alat sumber terbuka membangun sistem streaming yang lebih stabil dibanding media profesional.
+**Pendudukan selama 24 hari tersebut disiarkan secara kualitas tinggi (HD) tanpa putus.** Ini adalah pencapaian teknis yang luar biasa pada tahun 2014. Saat itu Facebook Live belum ada dan siaran langsung YouTube belum umum, namun relawan g0v menggunakan alat open source untuk membangun sistem siaran yang lebih stabil daripada media profesional.
 
-Lebih penting lagi, mereka membuktikan kekuatan „transparansi”. Karena adanya siaran langsung, semua orang bisa melihat apa yang terjadi di dalam ruang sidang, membuat pemerintah mustahil memanipulasi fakta. Model „menggunakan teknologi untuk mengawasi pemerintah” ini kemudian dipelajari dan ditiru oleh gerakan sipil di seluruh dunia.
+Yang lebih penting, mereka membuktikan kekuatan dari "transparansi". Karena adanya siaran langsung, semua orang dapat melihat apa yang terjadi di dalam ruang sidang, sehingga mustahil bagi pemerintah untuk memutarbalikkan fakta. Model "mengawasi pemerintah dengan teknologi" ini kemudian dipandang oleh luar negeri sebagai sebuah templat potensial; Korea Selatan, Thailand, Jepang, dan Jerman pun menumbuhkan komunitas civic tech dengan karakteristik serupa[^3].
 
-## Peta Masker: Keajaiban 72 Jam
+## Peta Masker: Keajaiban dalam 72 Jam
 
-Awal Februari 2020, pandemi COVID-19 meletus di Taiwan. Pemerintah mengumumkan kebijakan pembelian masker real-name, setiap orang dapat membeli 2 masker per minggu. Masalahnya: ke mana harus pergi membeli? Apotek mana yang masih memiliki stok?
+Pada awal Februari 2020, pandemi COVID-19 meledak di Taiwan. Pemerintah mengumumkan kebijakan pembelian masker berbasis identitas asli, di mana setiap orang dapat membeli 2 masker per minggu. Masalahnya adalah: di mana harus membelinya? Apotek mana yang masih memiliki stok?
 
-**6 Februari**, Komisaris Kebijakan Digital Tang Feng (唐鳳) (ia sendiri adalah anggota pendiri g0v) mengumumkan: pemerintah akan membuka data stok masker dari 13.000 apotek mitra di seluruh Taiwan, diperbarui setiap 30 menit.
+Pada **6 Februari**, Komisioner Kebijakan Digital Audrey Tang (唐鳳) (yang merupakan salah satu pendiri g0v) mengumumkan: pemerintah akan membuka data stok masker dari 13.000 apotek mitra di seluruh Taiwan, dengan pembaruan setiap 30 menit[^4].
 
-**8 Februari**, peta masker pertama diluncurkan.
-**9 Februari**, lebih dari 100 versi berbeda peta masker muncul.
+Pada **8 Februari**, peta masker pertama diluncurkan.
+Pada **9 Februari**, lebih dari 100 versi berbeda dari peta masker telah muncul.
 
-Ini bukan proyek yang dikontrakkan pemerintah ke perusahaan TI, melainkan hasil dari para programmer di seluruh Taiwan yang "secara sukarela bekerja lembur". Setiap orang ingin berkontribusi untuk pencegahan wabah, dan yang bisa dilakukan programmer hanyalah menulis kode.
+Ini bukanlah proyek yang dipesan pemerintah kepada perusahaan TI, melainkan hasil dari "lembur sukarela" para programmer di seluruh Taiwan. **Setiap orang ingin berkontribusi dalam pencegahan pandemi, dan hal yang bisa dilakukan oleh programmer adalah menulis kode.**
 
-Versi paling populer meliputi:
+Versi yang paling populer meliputi:
 
-- **Peta Masker Taiwan** oleh Howard Wu: antarmuka peta yang sederhana dan jelas
-- **Masih Ada Masker?** oleh netizen kiang: mengintegrasikan ulasan apotek dan informasi operasional
-- **Di Mana Beli Masker** oleh Finjon Kiang: mendukung fitur pencarian suara
+- **Taiwan Mask Map** oleh Howard Wu: Antarmuka peta yang ringkas dan jelas.
+- **Masih Ada Masker? (還有口罩嗎)** oleh netizen kiang: Mengintegrasikan ulasan apotek dan informasi jam operasional.
+- **Beli Masker di Mana (口罩哪裡買)** oleh Finjon Kiang: Mendukung fungsi pencarian suara.
 
-Dalam 72 jam, Taiwan sudah memiliki sistem pencarian stok masker paling lengkap di dunia. Saat warga negara lain masih berantre untuk membeli, orang Taiwan sudah bisa mengecek di ponsel mereka berapa masker yang tersisa di apotek terdekat.
+Dalam 72 jam, Taiwan memiliki sistem pengecekan stok masker paling lengkap di dunia[^5]. **Saat warga di negara lain masih mengantre untuk berebut membeli, warga Taiwan sudah bisa mengecek melalui ponsel mereka berapa sisa masker di apotek terdekat.**
 
-> **⚠️ Pandangan Kontroversial**
-> Ada yang mengkritik pemerintah "meng-outsource tanggung jawab ke relawan", membiarkan sipil membuat sistem untuk pemerintah secara gratis. Tetapi respons komunitas g0v sangat langsung: kami tidak dimanfaatkan oleh pemerintah, kami secara aktif memilih menggunakan keahlian kami untuk berkontribusi pada masyarakat. Lebih dari itu, peta masker open source lebih mudah digunakan, lebih inovatif, dan lebih sesuai dengan kebutuhan pengguna dibandingkan sistem yang dibuat sendiri pemerintah.
+> **⚠️ Sudut Pandang Kontroversial**
+> Ada kritik yang menyebut pemerintah "mengalihdayakan tanggung jawab kepada relawan" dengan membiarkan sektor swasta membuatkan sistem secara gratis. Namun, tanggapan komunitas g0v sangat lugas: Kami tidak dimanfaatkan oleh pemerintah; kami secara aktif memilih untuk memberikan kontribusi kepada masyarakat menggunakan keahlian kami. Terlebih lagi, peta masker open source jauh lebih berguna, inovatif, dan sesuai dengan kebutuhan pengguna dibandingkan sistem yang dibuat sendiri oleh pemerintah.
 
-## Keajaiban Kolaborasi Sumber Terbuka
+## Keajaiban Kolaborasi Open Source
 
-Model operasional g0v sangat sederhana: **tidak ada bos, tidak ada karyawan, tidak ada anggaran, tidak ada kantor.** Yang ada hanyalah sekelompok orang yang bersedia menggunakan teknologi untuk memecahkan masalah sosial, serta sebuah budaya kolaborasi sumber terbuka.
+Model operasional g0v sangat sederhana: **Tanpa bos, tanpa karyawan, tanpa anggaran, tanpa kantor.** Yang ada hanyalah sekelompok orang yang bersedia menggunakan teknologi untuk menyelesaikan masalah sosial, serta sebuah budaya kolaborasi open source.
 
 ### Budaya Hackathon
 
-Setiap dua bulan diselenggarakan satu hackathon besar (large-scale hackathon), di mana peserta mengajukan proposal, membentuk tim, dan mengimplementasikan di tempat. Prosesnya adalah:
+Setiap dua bulan sekali diadakan "Big Hack" (hackathon skala besar), di mana partisipan mengajukan proposal, membentuk tim, dan melakukan implementasi langsung di lokasi. Alurnya adalah:
 
-1. **Proposal tiga menit**: Siapa pun dapat naik panggung mengajukan ide
-2. **Pembentukan tim bebas**: Orang yang berminat dapat bergabung dengan proyek
-3. **Implementasi di tempat**: Pada hari itu pun mulai dikerjakan
-4. **Presentasi hasil**: Sore hari berbagi kemajuan hari ini
+1. **Proposal Tiga Menit**: Siapa pun boleh naik ke panggung untuk menyampaikan ide.
+2. **Pembentukan Tim Bebas**: Orang yang tertarik dapat bergabung dengan proyek tersebut.
+3. **Implementasi Langsung**: Mulai mengerjakan proyek pada hari itu juga.
+4. **Presentasi Hasil**: Berbagi kemajuan yang dicapai pada sore hari.
 
-**Tidak ada yang ditolak, tidak ada ide yang dibantah.** Satu-satunya persyaratan: proyek harus bersumber terbuka, agar orang lain dapat melanjutkan dan memperbaikinya.
+**Tidak ada yang ditolak, tidak ada ide yang disangkal.** Satu-satunya syarat adalah: proyek harus bersifat open source agar orang lain dapat melanjutkan pengembangannya.
 
 ### Alat Kolaborasi
 
-- **Saluran Slack**: Diskusi sehari-hari dan berbagi informasi
-- **GitHub**: Manajemen kode dan kontrol versi
-- **HackMD**: Dokumen kolaboratif dan catatan rapat
-- **Trello**: Manajemen proyek dan pelacakan kemajuan
+- **Saluran Slack**: Untuk diskusi harian dan berbagi informasi.
+- **GitHub**: Manajemen kode dan kontrol versi[^6].
+- **HackMD**: Dokumen kolaboratif dan notulensi rapat.
+- **Trello**: Manajemen proyek dan pelacakan kemajuan.
 
 ### Tiga Semangat Inti
 
-1. **Sumber terbuka**: Semua kode, data, dan dokumen proyek dipublikasikan
-2. **Desentralisasi**: Tidak ada tingkatan kepemimpinan, siapa pun dapat memulai proyek
-3. **Implementasi di atas segalanya**: "Talk is cheap, show me the code"
+1. **Open Source**: Semua kode, data, dan dokumen proyek bersifat terbuka untuk publik.
+2. **Desentralisasi**: Tidak ada hierarki kepemimpinan; siapa pun dapat memulai proyek.
+3. **Implementasi adalah yang Utama**: "_Talk is cheap, show me the code_" (Bicara itu murah, tunjukkan kodenya).
 
-> **💡 Tahukah Anda**
-> Komunitas g0v memiliki tradisi: setiap hackathon menyediakan stiker "tupai kecil". Jika Anda pertama kali berpartisipasi, Anda akan menerima satu stiker tupai kecil. Desain ini menyiratkan: bahkan jika Anda pemula, Anda dipersilakan untuk menyumbangkan sedikit tenaga, seperti tupai mengumpulkan biji oak, setiap kontribusi kecil pun sangat penting.
+> **💡 Tahukah Anda?**
+> Komunitas g0v memiliki tradisi: setiap hackathon akan menyiapkan stiker "tupai kecil". Jika ini adalah pertama kalinya Anda berpartisipasi, Anda akan mendapatkan satu stiker tupai kecil. Desain ini menyiratkan bahwa meskipun Anda seorang pemula, Anda tetap disambut untuk memberikan sedikit kekuatan, seperti tupai yang mengumpulkan biji ek; setiap kontribusi kecil sangatlah penting.
 
-## Proyek-proyek Penting dan Dampak Sosial
+## Proyek Penting dan Dampak Sosial
 
-Selama 8 tahun, komunitas g0v telah menghasilkan ratusan proyek, di antaranya banyak yang langsung memengaruhi kebijakan pemerintah dan tata kelola masyarakat.
+Selama 8 tahun, komunitas g0v telah menghasilkan ratusan proyek, banyak di antaranya berdampak langsung pada kebijakan pemerintah dan operasional sosial.
 
-### Transparansi Sidang Legislatif
+### Transparansi Prosedur Legislatif
 
-**Risalah Sidang Yuan Legislatif** dahulu hanya tersedia dalam versi teks, sehingga masyarakat umum kesulitan memahami apa yang sebenarnya dilakukan anggota legislatif di Yuan Legislatif. Relawan g0v membangun platform "Transparansi Sidang Yuan Legislatif", yang menyediakan:
+**Risalah Sidang Legislatif** dulunya hanya tersedia dalam versi teks, sehingga masyarakat umum sulit memahami apa yang sebenarnya dilakukan oleh anggota legislatif di parlemen. Relawan g0v membangun platform "Transparansi Prosedur Legislatif" yang menyediakan:
 
-- **Siaran langsung real-time**: Siaran langsung rapat Yuan Legislatif
-- **Catatan pidato**: Statistik dan pencarian konten pidato setiap anggota legislatif
-- **Catatan pemungutan suara**: Hasil pemungutan suara untuk undang-undang penting
-- **Pelacakan usulan**: Proses lengkap undang-undang dari pengajuan hingga bacaan ketiga
+- **Siaran Langsung**: Siaran langsung dari ruang sidang Legislatif.
+- **Catatan Pidato**: Statistik dan pencarian konten pidato setiap anggota legislatif.
+- **Catatan Pemungutan Suara**: Hasil pemungutan suara untuk undang-undang penting.
+- **Pelacakan Proposal**: Proses lengkap sebuah rancangan undang-undang mulai dari pengajuan hingga pembacaan ketiga.
 
-Hasilnya: **Anggota legislatif mulai peduli dengan "data" mereka.** Tingkat kehadiran, jumlah interpelasi, jumlah usulan—angka-angka yang dulu tidak diperhatikan—sekarang semua terhitung rapi oleh situs web. Wakil rakyat menyadari setiap gerak-gerik mereka diawasi, dan perilaku mereka mulai berubah.
+Hasilnya adalah: **Anggota legislatif mulai mempedulikan "data" mereka sendiri.** Tingkat kehadiran, jumlah interpelasi, dan jumlah proposal—angka-angka yang dulunya tidak dipedulikan siapa pun—kini telah dihitung oleh situs web untuk Anda. Perwakilan rakyat menyadari bahwa setiap gerak-gerik mereka diawasi, sehingga perilaku mereka mulai berubah.
 
 ### vTaiwan: Eksperimen Demokrasi Digital
 
-Tahun 2014, g0v dan pemerintah bekerja sama meluncurkan platform vTaiwan, memungkinkan masyarakat berpartisipasi dalam proses pembuatan kebijakan. Kasus paling terkenal adalah kontroversi Uber:
+Pada tahun 2014, g0v bekerja sama dengan pemerintah untuk meluncurkan platform vTaiwan[^7], yang memungkinkan warga berpartisipasi dalam proses pembuatan kebijakan. Kasus yang paling terkenal adalah kontroversi Uber:
 
-**Tahun 2015**, operasi Uber di Taiwan memicu protes dari pengusaha taksi. Cara penanganan tradisional adalah keputusan sepihak pemerintah, tetapi vTaiwan menawarkan jalan ketiga: mengajak semua pemangku kepentingan berdialog di platform daring untuk menemukan solusi saling menguntungkan.
+Pada **tahun 2015**, operasional Uber di Taiwan memicu protes dari pengemudi taksi konvensional. Cara penanganan tradisional adalah pemerintah memutuskan secara sepihak, namun vTaiwan menyediakan jalan ketiga: membiarkan semua pemangku kepentingan berdialog di platform daring untuk menemukan solusi yang saling menguntungkan (_win-win solution_).
 
-Setelah berbulan-bulan diskusi daring dan bengkel kerja tatap muka, akhirnya terbentuk kebijakan "Taksi Multidimensi", yang melindungi hak pengemudi taksi tradisional sambil mengizinkan keberadaan model layanan inovatif.
+Setelah diskusi daring dan lokakarya fisik selama beberapa bulan, akhirnya terbentuklah kebijakan "Taksi Multidimensi" (多元計程車), yang melindungi hak pengemudi taksi konvensional sekaligus mengizinkan model layanan inovatif untuk tetap ada.
 
-**Ini adalah kali pertama Taiwan menggunakan "demokrasi digital" untuk menyelesaikan sengketa kebijakan.**
+**Ini adalah pertama kalinya Taiwan menggunakan "demokrasi digital" untuk menyelesaikan sengketa kebijakan.**
 
-### Pendorong Pemerintahan Terbuka
+### Penggerak Pemerintah Terbuka
 
-Advokasi g0v secara langsung memengaruhi kebijakan pemerintah:
+Advokasi g0v berdampak langsung pada kebijakan pemerintah:
 
-- **2012**: Proyek visualisasi anggaran pemerintah mendorong pembukaan data anggaran oleh pemerintah
-- **2013**: Proyek transparansi Yuan Legislatif mendorong siaran langsung sidang Yuan Legislatif
-- **2014**: Pasca Gerakan Mahasiswa Bunga Matahari, pemerintah berjanji mendorong revisi _Undang-Undang Keterbukaan Informasi Pemerintah_
-- **2015**: Platform vTaiwan menjadi saluran partisipasi kebijakan resmi pemerintah
-- **2016**: Audrey Tang (唐鳳) menjabat Menteri Digital, membawa pengalaman g0v ke dalam pemerintah
+- **2012**: Proyek visualisasi anggaran mendorong pemerintah membuka data anggaran.
+- **2013**: Proyek transparansi legislatif mendorong siaran langsung prosedur sidang parlemen.
+- **2014**: Pasca Gerakan Bunga Matahari, pemerintah berkomitmen untuk mendorong revisi _Undang-Undang Keterbukaan Informasi Pemerintah_.
+- **2015**: Platform vTaiwan menjadi saluran resmi partisipasi kebijakan pemerintah.
+- **2016**: Audrey Tang menjabat sebagai Komisioner Digital, membawa pengalaman g0v ke dalam pemerintahan.
 
-## Dampak Internasional dan Koneksi
+## Pengaruh dan Koneksi Internasional
 
-Pengalaman g0v tidak hanya memengaruhi Taiwan, tetapi juga menginspirasi gerakan teknologi sipil di seluruh dunia.
+Pengalaman g0v tidak hanya memengaruhi Taiwan, tetapi juga menginspirasi gerakan civic tech di seluruh dunia.
 
 ### Jaringan Code for All
 
-g0v adalah anggota pendiri jaringan internasional **Code for All**, bekerja sama erat dengan organisasi seperti Code for Japan di Jepang, Code for Korea di Korea Selatan, dan Code for America di Amerika Serikat.
+g0v adalah anggota pendiri jaringan internasional **Code for All**[^8], yang bekerja sama erat dengan organisasi seperti Code for Japan, Code for Korea, dan Code for America di Amerika Serikat.
 
-**Pada 2019**, g0v summit diadakan di Taipei, dengan komunitas teknologi sipil dari lebih dari 30 negara berkumpul di Taipei untuk berbagi pengalaman dan teknologi.
+Pada **tahun 2019**, g0v summit diadakan di Taipei, mempertemukan komunitas civic tech dari lebih 30 negara untuk berbagi pengalaman dan teknologi.
 
 ### Kerja Sama Internasional Selama Pandemi
 
-Selama pandemi 2020, pengalaman peta masker g0v dipelajari oleh negara lain:
+Selama pandemi tahun 2020, pengalaman peta masker g0v dipelajari oleh negara lain:
 
-- **Italia**: Peta masker versi Roma
-- **Jerman**: Peta masker versi Berlin
-- **Amerika Serikat**: Peta PPE (perlengkapan pelindung pribadi)
-- **Korea Selatan**: 마스크맵 (mask map)
+- **Italia**: Peta masker versi Roma.
+- **Jerman**: Peta masker versi Berlin.
+- **Amerika Serikat**: Peta PPE (Alat Pelindung Diri).
+- **Korea Selatan**: 마스크맵 (_mask map_).
 
-Relawan g0v juga secara proaktif membantu negara lain membangun sistem serupa, membagikan pengalaman teknologi penanganan pandemi Taiwan ke seluruh dunia.
+Relawan g0v juga secara proaktif membantu negara lain membangun sistem serupa, membagikan pengalaman teknologi pencegahan pandemi Taiwan kepada seluruh dunia.
 
 ## Tantangan dan Masa Depan
 
-g0v sebagai "organisasi tanpa bos", menghadapi tantangan yang dihadapi semua komunitas sumber terbuka.
+Sebagai "organisasi tanpa bos", g0v menghadapi tantangan yang dialami oleh semua komunitas open source.
 
 ### Keberlanjutan Proyek
 
-Banyak proyek g0v lahir dari "keinginan sesaat", kekurangan pemeliharaan jangka panjang. Peta Mask sangat aktif selama pandemi, tetapi setelah pandemi berakhir, perlahan tidak ada yang memeliharanya lagi. **Bagaimana memastikan proyek-proyek baik terus beroperasi, adalah tantangan terbesar g0v.**
+Banyak proyek g0v adalah produk dari "momentum sesaat" dan kekurangan pemeliharaan jangka panjang. Peta masker sangat aktif selama pandemi, tetapi setelah pandemi berakhir, tidak ada lagi yang memeliharanya secara bertahap. **Bagaimana membuat proyek yang baik terus beroperasi adalah tantangan terbesar bagi g0v.**
 
 ### Kelelahan Partisipan
 
-Partisipasi sukarela berintensitas tinggi selama 8 tahun berturut-turut, membuat beberapa kontributor awal mulai kelelahan. Bagaimana menarik darah baru bergabung, bagaimana membuat partisipasi lebih berkelanjutan, adalah masalah yang harus dihadapi komunitas.
+Partisipasi relawan dengan intensitas tinggi selama 8 tahun berturut-turut membuat beberapa kontributor awal mulai merasa lelah. Bagaimana menarik darah segar dan bagaimana membuat partisipasi lebih berkelanjutan adalah masalah yang harus dihadapi komunitas.
 
 ### Hubungan dengan Pemerintah
 
-Hubungan g0v dengan pemerintah sangat halus: baik bekerja sama maupun mengawasi. Ketika pemerintah secara proaktif memeluk sumber terbuka dan demokrasi digital, peran "konfrontatif" g0v menjadi kabur. Bagaimana mempertahankan independensi dan semangat kritis dalam kerja sama, adalah tantangan berkelanjutan.
+Hubungan g0v dengan pemerintah sangat halus: bekerja sama sekaligus mengawasi. Ketika pemerintah secara proaktif merangkul open source dan demokrasi digital, peran "perlawanan" g0v menjadi kabur. Bagaimana menjaga independensi dan semangat kritis di tengah kerja sama adalah tantangan yang berkelanjutan.
 
-### Informasi Palsu dan Perang Informasi
+### Disinformasi dan Perang Informasi
 
-Di era perang informasi, prinsip keterbukaan dan transparansi juga bisa disalahgunakan. Bagaimana sambil tetap terbuka, menghindari menjadi saluran penyebaran informasi palsu, adalah tantangan baru.
+Di era perang informasi, prinsip keterbukaan dan transparansi juga dapat disalahgunakan. Bagaimana tetap terbuka sambil menghindari menjadi saluran penyebaran disinformasi adalah tantangan baru.
 
 ## Sebuah Eksperimen yang Masih Berlanjut
 
-Pada 2012, saat Kao Chia-liang mengubah gov.tw menjadi g0v.tw, ia hanya ingin mengekspresikan ketidakpuasan terhadap pemerintah. 12 tahun kemudian, g0v telah menjadi bagian dari demokrasi Taiwan, sekaligus kekuatan penting dalam gerakan teknologi sipil (civic tech) di seluruh dunia.
+Pada tahun 2012, saat Kao Chia-liang mengubah gov.tw menjadi g0v.tw, ia hanya ingin mengekspresikan ketidakpuasannya terhadap pemerintah. Dua belas tahun kemudian, g0v telah menjadi bagian dari demokrasi Taiwan dan juga kekuatan penting dalam gerakan civic tech di seluruh dunia.
 
 Eksperimen ini membuktikan beberapa hal:
 
-1. **Teknologi bisa menjadi alat partisipasi warga**, bukan sekadar sarana keuntungan komersial
-2. **Keterbukaan dan transparansi lebih penting dari efisiensi pemerintah**, karena transparansi justru menghadirkan efisiensi
-3. **Kemarahan kecil bisa mengubah dunia**, asalkan kamu bersedia bertindak
-4. **Mem-_fork_ pemerintah bukan berarti menggulingkan pemerintah**, melainkan membuktikan adanya kemungkinan yang lebih baik
+1. **Teknologi dapat menjadi alat partisipasi warga**, bukan sekadar sarana mencari keuntungan komersial.
+2. **Keterbukaan dan transparansi lebih penting daripada efisiensi pemerintah**, karena transparansi akan membawa efisiensi.
+3. **Kemarahan kecil dapat mengubah dunia**, asalkan Anda bersedia turun tangan melakukannya.
+4. **Melakukan _fork_ terhadap pemerintah bukanlah menggulingkan pemerintah**, melainkan membuktikan adanya kemungkinan yang lebih baik.
 
-Di era mundurnya demokrasi ini, g0v mengingatkan kita: **warga bukan pengguna pemerintah, melainkan pencipta bersama.** Apa yang tidak bisa dilakukan pemerintah dengan baik, bisa kita kerjakan sendiri. Apa yang sudah dilakukan pemerintah dengan baik, bisa kita bantu agar jadi lebih baik.
+Di era kemunduran demokrasi ini, g0v mengingatkan kita: **Warga negara bukanlah pengguna pemerintah, melainkan rekan pencipta.** Hal-hal yang tidak bisa dilakukan dengan baik oleh pemerintah, dapat kita lakukan sendiri. Hal-hal yang sudah dilakukan dengan baik oleh pemerintah, dapat kita bantu untuk menjadi lebih baik lagi.
 
-Ini bukan revolusi yang berakhir, melainkan eksperimen yang berkelanjutan. Setiap hackathon, setiap proyek baru, setiap baris kode, menjawab pertanyaan yang sama: di era digital, demokrasi bisa berbentuk seperti apa?
+Ini bukanlah sebuah revolusi yang telah berakhir, melainkan sebuah eksperimen yang terus berjalan. Setiap hackathon, setiap proyek baru, dan setiap baris kode sedang menjawab pertanyaan yang sama: Di era digital, seperti apa rupa demokrasi?
 
-Jawabannya masih sedang ditulis, dan setiap orang yang bersedia berkontribusi, adalah penulis jawaban itu.
+Jawabannya masih ditulis, dan setiap orang yang bersedia berkontribusi adalah penulis dari jawaban tersebut.
 
 ## Referensi
 
-- [Situs resmi g0v Pemerintah Nol](https://g0v.tw/)
-- [Organisasi GitHub g0v](https://github.com/g0v)
-- [Folder catatan bersama hackfoldr g0v](https://beta.hackfoldr.org/)
-- [Jaringan Internasional Code for All](https://codeforall.org/)
-- [Platform Demokrasi Digital vTaiwan](https://vtaiwan.tw/)
-- [《數位時代的民主參與：從太陽花到g0v》](https://www.books.com.tw/products/0010867342)
-- [Pidato TED: Cara Memperbaiki Pemerintah Tanpa Izin](https://www.ted.com/talks/audrey_tang_how_digital_innovation_can_fight_pandemics_and_strengthen_democracy)
-- [Wawancara Pengembang Peta Masker](https://www.ithome.com.tw/news/136038)
+[^1]: [Situs Resmi g0v Zero Government](https://g0v.tw/) — Situs web komunitas g0v, memperkenalkan kegiatan hackathon dan model operasional berbagai proyek.
+
+[^2]: [Folder Kolaborasi g0v hackfoldr](https://beta.hackfoldr.org/) — Platform kolaborasi dokumen dan data yang digunakan secara jangka panjang oleh komunitas g0v.
+
+[^3]: [A Guide to Win Democracy Back: Civic Tech Project and Community Handbook (Friedrich Naumann Foundation, 2025-06-09)](https://www.freiheit.org/fr/node/49973) — Panduan civic tech yang disusun dengan partisipasi komunitas g0v dan diterbitkan oleh Yayasan Friedrich Naumann di Jerman; menyebutkan bahwa g0v adalah salah satu kekuatan terpenting dalam demokrasi digital Taiwan dan berpotensi menjadi templat dunia, mencakup kasus dari Korea Selatan, Thailand, Jepang, dan Jerman.
+
+[^4]: [How digital innovation can fight pandemics and strengthen democracy (Audrey Tang, TED2020)](https://www.ted.com/talks/audrey_tang_how_digital_innovation_can_fight_pandemics_and_strengthen_democracy) — Audrey Tang berbicara di TED tentang bagaimana Taiwan menghindari _lockdown_ pada awal 2020 melalui alat digital, termasuk peta masker.
+
+[^5]: [Wawancara Pengembang Peta Masker](https://www.ithome.com.tw/news/136038) — Wawancara iThome dengan pengembang peta masker, mencatat perjalanan pengembang dalam mendedikasikan diri pada proyek pencegahan pandemi.
+
+[^6]: [Organisasi GitHub g0v](https://github.com/g0v) — Repositori kode dan catatan kolaborasi untuk proyek-proyek open source komunitas g0v.
+
+[^7]: [Platform Demokrasi Digital vTaiwan](https://vtaiwan.tw/) — Platform diskusi kebijakan daring dan konsensus yang dikembangkan melalui kerja sama g0v dengan pemerintah.
+
+[^8]: [Jaringan Internasional Code for All](https://codeforall.org/) — Situs resmi jaringan internasional Code for All yang menghubungkan organisasi civic tech di seluruh dunia.
 
 ## Topik Terkait
 
-- [Yayasan Budaya Terbuka](/id/technology/open-culture-foundation): Yayasan hukum di balik g0v yang mengurus administrasi, menerbitkan faktur, dan mendukung komunitas, serta perjalanannya dari latar belakang menjadi penjaga hak-hak digital
-- [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry): Fondasi kekuatan teknologi Taiwan
-- [Mini Taiwan Pulse](/id/technology/mini-taiwan-pulse-civic-tech): Implementasi open source pribadi teknologi sipil 2026 — memvisualisasikan Taiwan sebagai jejak cahaya 3D dengan data terbuka TDX + Three.js
+- [Open Culture Foundation (開放文化基金會)](/id/technology/open-culture-foundation): Yayasan di balik g0v yang menangani administrasi dan keuangan komunitas, serta kisah bagaimana ia berkembang menjadi penjaga hak digital.
+- [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry): Fondasi kekuatan teknologi Taiwan.
+- [Mini Taiwan Pulse](/id/technology/mini-taiwan-pulse-civic-tech): Implementasi open source pribadi untuk civic tech tahun 2026—menggunakan data terbuka TDX + Three.js untuk menggambar Taiwan dalam lintasan cahaya 3D.

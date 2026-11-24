@@ -1,28 +1,28 @@
 ---
 title: 'Tai Tzu-ying'
-description: 'Pemegang rekor 214 minggu sebagai ball queen dunia, dari Kaohsiung Qianzhen ke perak Olimpiade, ratu bulu tangkis Taiwan'
+description: 'Tai Tzu-ying, lahir pada 1994 di Qianjin, Kaohsiung, adalah ratu bulu tangkis Taiwan. Ia mulai memegang raket pada usia 7 tahun dan menjadi pemain bulu tangkis kelas atas termuda Taiwan pada usia 12 tahun. Pada 2016, ia pertama kali menduduki peringkat pertama dunia, menjadi pemain bulu tangkis Taiwan pertama yang mencapai posisi nomor satu dunia. Ia mengumpulkan 214 minggu sebagai nomor satu dunia, mencatat rekor terpanjang dalam sejarah putri tunggal. Dengan 32 gelar World Tour, tiga gelar All England Open, dan medali perak Olimpiade Tokyo 2021, ia menetapkan standar baru. Gaya bermainnya yang bervariasi dan tingkat kemenangan karir di atas 73% mendefinisikan ulang posisi Taiwan di panggung bulu tangkis internasional.'
 date: 2026-03-21
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '體育'
 tags:
   [
-    'tokoh',
+    'Tokoh',
     'Tai Tzu-ying',
-    'bulu tangkis',
-    'ball queen dunia',
+    'Bulu tangkis',
+    'Nomor Satu Dunia',
     'Olimpiade',
-    'atlet',
+    'Atlet',
     'Taiwan',
   ]
+subcategory: '體育'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-21
 lastHumanReview: true
-featured: true
 translatedFrom: 'People/戴資穎.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'f75a0392a4'
 sourceContentHash: 'sha256:1a1c26aae26ed9f8'
 sourceBodyHash: 'sha256:72bb27cc8697bfee'
-translatedAt: '2026-07-25T09:23:05+08:00'
+translatedAt: '2026-11-24T04:06:16.416226+00:00'
 ---
 
 # Tai Tzu-ying

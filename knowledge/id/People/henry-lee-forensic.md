@@ -1,10 +1,10 @@
 ---
-title: 'Henry Lee'
-description: 'Membangun legenda forensik dengan potongan tulang kecil, namun satu noda darah pada handuk membuat dua pria menghabiskan tiga puluh tahun dalam penjara karena kesalahan'
+title: 'Lee Chang-yu'
+description: 'Dari polisi termuda dalam sejarah Taiwan menjadi ilmuwan forensik kriminal Tionghoa dengan pengenalan global tertinggi. Ia berhasil memicu pemidanaan pertama dalam sejarah kriminal Amerika Serikat tanpa adanya jenazah melalui kasus mesin penghancur kayu, dan dikenal di seluruh dunia sebagai saksi pembela dalam kasus Simpson. Sepanjang hidupnya, ia telah menangani lebih dari delapan ribu kasus forensik dan menulis lebih dari empat puluh buku. Namun, pada tahun 2023, pengadilan federal memutuskan bahwa ia memalsukan bukti noda darah pada sehelai handuk dalam kasus pembunuhan tahun 1985, yang menyebabkan dua remaja menderita hukuman penjara yang tidak adil selama lebih dari tiga puluh tahun, meninggalkan tanda tanya yang tak terelakkan dalam karier legendarisnya.'
 date: 2026-03-29
 category: 'People'
 tags:
-  ['Tokoh', 'Ilmu Forensik', 'Diaspora Taiwan-Amerika', 'Investigasi Pidana']
+  ['Tokoh', 'Ilmu Forensik', 'Amerika keturunan Taiwan', 'Investigasi Kriminal']
 subcategory: '科學與學術'
 author: 'Taiwan.md'
 featured: false
@@ -14,10 +14,10 @@ readingTime: 8
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/李昌鈺.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'f2b48b60c5'
 sourceContentHash: 'sha256:d64c72cf7c6361d3'
 sourceBodyHash: 'sha256:6f5a343122533934'
-translatedAt: '2026-11-04T19:38:45.690941+00:00'
+translatedAt: '2026-11-24T04:17:59.261042+00:00'
 ---
 
 # Henry Lee
