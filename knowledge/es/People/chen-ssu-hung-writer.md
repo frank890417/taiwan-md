@@ -1,16 +1,16 @@
 ---
-title: 'Chen Si-hong: El escritor que huyó de Yongjing a Berlín, pero cuya tierra natal siempre lo alcanzó'
-description: 'Durante más de veinte años huyó del condado de Changhua, Yongjing, pero desde la distancia de Berlín y el mundo, escribió sobre la familia, el género, el cuerpo y esa tierra natal que se niega a desaparecer.'
+title: 'Chen Sihong: El escritor que huyó de Yongjing a Berlín, pero que siempre fue alcanzado por su hogar'
+description: 'Nacido en 1976 en una familia agrícola de Yongjing, Changhua, es el noveno hijo de siete hermanas y un hermano. Graduado en la Facultad de Letras Inglesas de la Universidad Fu Jen y con un posgrado en Estudios Teatrales de la Universidad Nacional de Taiwán, viajó a Berlín en 2004 como corresponsal de televisión, integrando la escritura, la traducción y la actuación en sus años europeos. Su obra "Ghost Station", publicada en 2019, utiliza Yongjing como paisaje central y ha sido galardonada con el Premio de Literatura de Taiwán y el Premio Jin Ding; su versión en inglés fue seleccionada para la lista de libros de otoño del New York Times, vendiendo derechos en doce idiomas. Mientras intenta escapar de su tierra natal, escribe sobre Yongjing, la familia, el género y el cuerpo en sus novelas.'
 date: 2026-09-03
 category: 'People'
 tags:
   [
-    'Chen Si-hong',
-    'literatura de Taiwán',
+    'Chen Sihong',
+    'Literatura taiwanesa',
     'Yongjing',
     'Berlín',
-    'literatura queer',
-    'pueblo fantasma',
+    'Literatura LGBTQ+',
+    'Ghost Station',
   ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
@@ -20,10 +20,10 @@ lastHumanReview: false
 readingTime: 9
 curation: 'incubating'
 translatedFrom: 'People/陳思宏.md'
-sourceCommitSha: '8730173b1'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:614611394f0bdd05'
 sourceBodyHash: 'sha256:aa5e5b4b6a3ee873'
-translatedAt: '2026-09-10T23:37:21+08:00'
+translatedAt: '2026-11-25T03:51:53.562750+00:00'
 ---
 
 ![Mapa de ubicación del municipio de Yongjing, condado de Changhua, Wikimedia Commons, autor Essolo, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/d/d9/Tw_yj_map.png)

@@ -1,10 +1,16 @@
 ---
-title: 'Tres grados centígrados: De un baño de agua fría a un canal con millones de suscriptores'
-description: 'La historia de Xie Menghang, quien pasó de estudiante de peluquería a YouTuber con millones de suscriptores, integrando memes, retos y producción audiovisual en un mismo proceso creativo.'
+title: 'Tres Grados C: del baño frío a tres grados a un camino de un millón de suscriptores'
+description: 'Un estudiante de ciencias de peluquería que se convirtió en creador de contenido a tiempo completo con un millón de suscriptores; su nombre en internet proviene de ducharse con agua fría en un invierno a tres grados Celsius. Convirtió el aguantar la risa, el baile, los memes y los retos en contenido de entretenimiento, primero haciendo que la audiencia se detuviera por un nombre, y luego usando planificación, filmación y edición para transformar la atención en un trabajo sostenible; más tarde participó en la producción de videos musicales como director, camarógrafo y editor, transformando una broma privada en un personaje público y luego descomponiendo ese personaje público de nuevo en planificación, filmación y colaboración.'
 date: 2026-08-20
 category: 'People'
 tags:
-  ['cultura', 'YouTuber', 'cultura digital', 'memes', 'producción audiovisual']
+  [
+    'cultura',
+    'YouTuber',
+    'cultura de internet',
+    'memes',
+    'producción audiovisual',
+  ]
 subcategory: '網路文化'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -12,102 +18,102 @@ lastVerified: 2026-08-20
 lastHumanReview: false
 curation: 'incubating'
 translatedFrom: 'People/3度C.md'
-sourceCommitSha: 'e64a7fba4'
-sourceContentHash: 'sha256:71bd23c9a7becdb3'
-sourceBodyHash: 'sha256:ac800d2068dd019e'
-translatedAt: '2026-09-11T04:43:00+08:00'
+sourceCommitSha: '45b1bf37e0'
+sourceContentHash: 'sha256:512116c709aae71c'
+sourceBodyHash: 'sha256:41b6c45553399776'
+translatedAt: '2026-11-25T11:36:53+08:00'
 ---
 
-> **Resumen en 30 segundos:** _Sandu C_ es la marca de contenido de YouTube de Xie Menghang. Este nombre no proviene de los productos de tecnología 3C, sino que en realidad se debe a que, mientras estudiaba en China continental, solía bañarse con agua fría en inviernos de 3 °C, por lo que sus amigos lo llamaban «Sandu» (Tres grados). Edita risa contenida, baile, memes, retos e historias reales en contenido de entretenimiento, y posteriormente participa en la producción de videoclips musicales como director, operador de cámara y editor. La paradoja de _Sandu C_ radica en que, aunque parece depender de contenido absurdo para hacer reír a la gente, lo que realmente ha acumulado es un método de creación sostenible que organiza la performance corporal de una persona, el ritmo del montaje y la organización del trabajo audiovisual.
+> **Resumen en 30 segundos:** Tres Grados C es la marca creativa de YouTube de Xie Meng-hang (謝孟航). Este nombre no proviene de productos 3C, sino de cuando estudiaba en China continental y se duchó con agua fría en un invierno a 3 grados Celsius, por lo que sus amigos empezaron a llamarle «Tres Grados». Convirtió el aguantar la risa, el baile, los memes, los retos y las historias reales en contenido de entretenimiento, y luego participó en la producción de videos musicales como director, camarógrafo y editor. Lo contraintuitivo de Tres Grados C es que, aunque parece que hace reír a la gente con contenido absurdo, lo que realmente ha acumulado es un método creativo sostenible que organiza la actuación corporal de una persona, el ritmo de edición y el trabajo audiovisual.
 
-En una entrevista de 2022, Xie Menghang explicaba que muchas personas preguntaban el origen de «Sandu»; su respuesta era que, durante sus estudios en China continental, se bañaba con agua fría a una temperatura de 3 °C. [^1] Se trata de un fragmento de vida pequeño, incluso un tanto absurdo, pero que se convirtió en el nombre por el que era reconocido en internet. Una entrevista biográfica de 2025 en _1111_ completa su trayectoria: pasó de ser estudiante de peluquería a creador de audiovisor a tiempo completo, acumulando 7 años de experiencia creativa y más de 1,39 millones de suscriptores en su canal en el momento de la entrevista. [^2]
+Xie Meng-hang dijo en una entrevista de 2022 que mucha gente pregunta de dónde viene «Tres Grados», y su respuesta es que, cuando estudiaba en China continental, se duchó con agua fría a 3 grados Celsius.[^1] Es un fragmento de vida muy pequeño, incluso un poco absurdo, pero se convirtió en el nombre con el que le reconocen en internet. La entrevista personal de 1111 de 2025 completa su trayectoria: pasó de ser estudiante de ciencias de peluquería a creador audiovisual a tiempo completo, y en el momento de la entrevista ya tenía 7 años de experiencia creativa, con más de 1,39 millones de suscriptores en su canal.[^2]
 
-Esta trayectoria suele malinterpretarse como «una persona que graba videos graciosos y luego se vuelve famosa». Una descripción más precisa es que _Sandu C_ coloca un personaje fácilmente memorable dentro de un formato audiovisual que cambia constantemente de tema. Los contenidos de risa contenida, baile y memes reportados por _Mingbao_ no parecen un mismo programa, sino más bien las pruebas que realiza el creador para ver hasta dónde está dispuesto a seguirlo su audiencia. [^1] Los temas cambian, pero la audiencia sigue reconociendo a la misma persona.
+Es fácil malinterpretar este camino como «una persona hace videos graciosos y luego se vuelve famosa». Una descripción más precisa es que Tres Grados C metió un personaje fácil de recordar en un formato audiovisual que cambia constantemente de tema. Los contenidos de aguantar la risa, bailar y memes que reportó Ming Bao (銘報) no parecen pertenecer a una misma parrilla, sino más bien a un creador probando hasta dónde está dispuesta a seguirle la audiencia.[^1] Los temas cambian, pero lo que el público reconoce sigue siendo la misma persona.
 
-![Vista nocturna de Taipéi, como escena que representa la cultura digital de Taiwán y la experiencia urbana de observación](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%2720210501_Taipei_Night_Skyline.jpg/1280px-%2720210501_Taipei_Night_Skyline.jpg)
+![Paisaje nocturno de Taipéi, como imagen de escenario de la cultura de internet taiwanesa y la experiencia de observación urbana](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%2720210501_Taipei_Night_Skyline.jpg/1280px-%2720210501_Taipei_Night_Skyline.jpg)
 
-_Pie de foto: Vista nocturna de Taipéi. Esta imagen no es un retrato de Sandu C, sino que se utiliza para señalar la ciudad y el contexto de cultura digital en el que se encuentran los creadores taiwaneses. La autora de la imagen es Mao Mao Da Shao Ye (毛貓大少爺), obtenida de la [página de archivo de Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%2720210501_Taipei_Night_Skyline.jpg), bajo licencia CC BY-SA 2.0. Se incrusta utilizando la URL directa de Wikimedia Commons, sin descargar ni rehostear la imagen._
+_Descripción de la imagen: Paisaje nocturno de Taipéi. Esta imagen no es un retrato de Tres Grados C, sino que se usa para indicar la ciudad y el escenario de la cultura digital donde se desenvuelven los creadores taiwaneses. Autor de la imagen: Mao Mao Da Shao Ye (毛貓大少爺), fuente: [página del archivo de Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%2720210501_Taipei_Night_Skyline.jpg), licencia CC BY-SA 2.0. Inserción mediante enlace directo (hotlink) de Wikimedia Commons, sin descargar ni rehospedar la imagen._
 
-## El nombre precede al personaje
+## El nombre antes que el personaje
 
-En internet, los nombres suelen funcionar como diseño de marca: se define primero la posición y luego se organiza un conjunto visual y de tono. El nombre de Sandu funciona a la inversa. Primero fue un apodo que un amigo usaba para llamarlo, y solo después se convirtió en el nombre del canal, la cuenta de redes sociales y la identificación laboral. Este origen hace que «Sandu» no parezca tanto un personaje cuidadosamente empaquetado, sino más bien una broma dejada por un amigo en invierno.
+Los nombres en internet suelen ser como el diseño de una marca: primero se define el posicionamiento y luego se arregla toda una visual y un tono. El nombre de Tres Grados fue al revés. Primero fue un apodo que usaban sus amigos para llamarle, y después se convirtió en nombre de canal, cuenta en redes sociales e identificación laboral. Este origen hace que «Tres Grados» no parezca un personaje cuidadosamente empaquetado, sino más bien una broma que un amigo dejó en invierno.
 
-El detalle de «bañarse con agua fría a 3 °C» es útil no porque demuestre la capacidad de resistencia de Sandu, sino porque conecta un apodo abstracto de internet con el cuerpo. El lector puede imaginar el choque del agua fría sobre la piel y comprender por qué este nombre no necesita muchas explicaciones adicionales. Es una historia de nombramiento con pocos objetos y una acción muy clara.
+El detalle de «ducharse con agua fría a 3 grados Celsius» es útil no porque demuestre lo mucho que aguanta Tres Grados, sino porque conecta un apodo abstracto de internet con el cuerpo. El lector puede imaginar el momento en que el agua fría toca la piel, y entender por qué este nombre no necesita mucha explicación. Es una historia de nominación con pocos elementos y una acción muy clara.
 
-En cuanto a dónde estudió en China continental, las entrevistas biográficas verificables solo mencionan «estudió en China continental», sin especificar ciudad, provincia o universidad. [^1] Por lo tanto, este artículo no toma las versiones de enciclopedias en línea como un currículum definitivo, ni convierte descripciones vagas como «ciudad de segunda línea» en un lugar geográfico específico. Esta laguna de datos debe preservarse, porque la fiabilidad de la escritura biográfica no solo reside en补充 detalles, sino también en marcar claramente qué detalles aún no están demostrados por fuentes confiables.
+En cuanto a dónde estudió exactamente en China continental, las entrevistas personales disponibles solo dicen «estudió en China continental», sin especificar ciudad, provincia o escuela.[^1] Por tanto, este artículo no trata las transcripciones de enciclopedias en línea como currículum confirmado, ni convierte descripciones vagas como «ciudad de segundo nivel» en un nombre concreto. Este hueco de datos debe conservarse, porque la fiabilidad de la escritura biográfica no solo está en añadir detalles, sino en señalar claramente qué detalles aún no han sido probados por fuentes fiables.
 
-> **📝 Nota del curador:** Un buen nombre en internet no siempre requiere un libro de estilo previo. A veces, las tonterías que una persona ha hecho dejan una identidad más reconocible que cualquier estrategia de marca.
+> **📝 Nota del curador:** Un buen nombre en internet no siempre nace de una propuesta. A veces, una tontería que alguien hizo deja más reconocimiento que toda una estrategia de marca.
 
-_Mingbao_ organiza el contenido temprano del canal de Sandu en temas diversos como risa contenida, baile y memes. [^1] Estas palabras no parecen un mismo programa, sino más bien las pruebas que realiza el creador para ver hasta dónde está dispuesto a seguirlo su audiencia. El baile requiere memoria corporal, la risa contenida depende de la expresión y el ritmo, y los memes requieren reconocer un contexto común. La identidad de _Sandu C_ emerge precisamente de ser reconocida repetidamente a través de estas diferentes formas.
+Ming Bao (銘報) organizó los contenidos tempranos del canal de Tres Grados en temas diversos como aguantar la risa, bailar y memes.[^1] Estas palabras no parecen una misma parrilla, sino un creador probando hasta dónde está dispuesta a seguirle la audiencia. El baile requiere memoria corporal, aguantar la risa depende de la expresión y el ritmo, los memes exigen reconocer un contexto compartido. La sensación de personaje de Tres Grados C surge precisamente de que estas diferentes formas son reconocidas repetidamente como la misma persona.
 
-## De la experimentación callejera a la risa compartida con la audiencia
+## Del experimento callejero al chiste compartido de la audiencia
 
-En 2018, _Ettv Entertainment_ reportó un experimento de estilo callejero en el que Sandu colaboró con Xiao Ma. La diferencia de precio entre los dos conjuntos de ropa era enorme: uno costaba aproximadamente 80.000 yuanes y el otro unos 1.500 yuanes. Ambos intercambiaron ropa y luego preguntaron a mujeres entrevistadas en la calle su preferencia. [^3]
+En 2018, ETtoday Entertainment (東森娛樂) reportó un experimento callejero de moda en colaboración entre Tres Grados y Xiao Ma (小馬). La diferencia de precio entre dos conjuntos de ropa era grande: uno costaba unos 80.000 NT$, el otro unos 1.500 NT$. Los dos se intercambiaron la ropa por turnos y luego preguntaron a mujeres en la calle por su preferencia.[^3]
 
-Lo que realmente perdura de este video no es la conclusión de que «las marcas de lujo son mejores» o que «la ropa económica puede ganar». Después de intercambiar la ropa, las elecciones de las entrevistadas seguían concentrándose en Xiao Ma, y los comentarios en el现场 incluso llevaron la pregunta hacia el tono de piel y la apariencia. [^4] La retransmisión del mismo día por _Yahoo News_ también registró las dos rondas del mismo experimento, preservando el contexto en el que los internautas discutían la proporción corporal y el corte de la ropa. [^4]
+Lo que realmente quedó de este video no fue la conclusión de «la marca de lujo siempre es mejor» o «la ropa barata también puede ganar». Cuando se intercambiaron la ropa, la elección de las entrevistadas seguía concentrándose en Xiao Ma, e incluso los comentarios en el lugar desplazaron el problema hacia el tono de piel y la cara.[^3] La republicación de Yahoo News (Yahoo新聞) el mismo día también registró las dos rondas del experimento, y conservó el contexto de los internautas discutiendo la proporción corporal y el corte de la ropa.[^4]
 
-Este es un escenario muy adecuado para _Sandu C_: diseñar primero una pregunta que todos entiendan, y luego dejar que los resultados del experimento hagan la pregunta más incómoda. El entretenimiento no se encarga de ofrecer respuestas elegantes a la audiencia. Hace que una persona se ponga frente a la cámara, soportando las evaluaciones que la gente creía que solo le ocurrirían a otros.
+Es un escenario muy adecuado para Tres Grados C: primero diseña una pregunta que todo el mundo entiende, y luego deja que el resultado del experimento haga la pregunta más incómoda. El entretenimiento no se responsabiliza de dar respuestas bonitas a la audiencia. Hace que una persona se ponga delante de la cámara y aguante las valoraciones que todos creían que solo les pasaban a otros.
 
-> **📝 Nota del curador:** El punto cómico de _Sandu C_ a menudo no es «qué bien se hace el payaso», sino su disposición a meterse en un experimento donde el chiste podría rebotar y apuntarle a él mismo.
+> **📝 Nota del curador:** Los chistes de Tres Grados C a menudo no son «él es muy gracioso», sino que está dispuesto a meterse en un experimento donde el chiste puede volverle a pinchar a él.
 
-Esto también explica por qué el «absurdismo» (wuchili) no puede resumir por sí solo su creación. El absurdismo es solo el estilo superficial. Debajo hay diseño de preguntas, reacciones en el现场, orden de montaje y el trabajo de asumir los resultados como protagonista. Lo que ve la audiencia es una prueba absurda; lo que el creador maneja es una pequeña observación social.
+Esto también explica por qué «absurdo» no puede resumir solo su creación. Lo absurdo es solo el estilo superficial. Debajo hay diseño de tema, reacción en el lugar, orden de edición y el trabajo del protagonista de asumir el resultado. La audiencia ve una prueba absurda, el creador gestiona una pequeña observación social.
 
-## Los millones de suscriptores no son el final, sino un cambio en el tipo de trabajo
+## Un millón de suscriptores no es la meta, sino el cambio de nombre del tipo de trabajo
 
-La entrevista de 2025 en _1111_ sitúa a _Sandu C_ en el contexto profesional de «creación a tiempo completo». El artículo menciona su transición de estudiante de peluquería a creador a tiempo completo, y en la entrevista habla de la inspiración creativa, el tráfico, los cuellos de botella, los haters y el objetivo inicial de seguir aportando una sensación positiva a la audiencia. [^2] La agrupación de estos términos indica que YouTube para él ya no es solo un lugar para subir videos, sino un trabajo que requiere mantener una producción constante.
+La entrevista de 1111 de 2025 sitúa a Tres Grados C en el contexto de carrera de «creación a tiempo completo». El artículo menciona que pasó de estudiante de ciencias de peluquería a creador a tiempo completo, y en la entrevista habla de inspiración creativa, tráfico, cuellos de botella, haters y la intención inicial de seguir dando sensaciones positivas a la audiencia.[^2] Estas palabras juntas indican que YouTube para él ya no es solo un lugar para subir videos, sino un trabajo que requiere mantener la producción.
 
-«YouTuber con millones de suscriptores» es una etiqueta conveniente para los medios, pero tiende a comprimir el proceso en un solo número. Lo más interesante del caso de _Sandu C_ es que no limitó su personaje a una sola serie. Los contenidos de risa contenida, baile y memes registrados por _Mingbao_ ya muestran que la creación temprana de _Sandu C_ no seguía un único formato de programa. [^1] Esto no es empezar de cero cada vez, sino probar diferentes entradas de visualización bajo el mismo nombre.
+«YouTuber de un millón» es una etiqueta muy cómoda para los medios, pero tiende a comprimir el proceso en un número. Lo que merece más la pena ver en el caso de Tres Grados C es que no encerró al personaje en una sola serie. Los contenidos de aguantar la risa, bailar y memes que registró Ming Bao (銘報) ya muestran que la creación temprana de Tres Grados C no era un solo formato de programa.[^1] No es volver a empezar cada vez, sino probar diferentes entradas de visionado bajo el mismo nombre.
 
-Para el creador, el tráfico no trae solo aplausos, sino también una mayor exigencia de repetición. La audiencia quiere que el siguiente video sea como «Sandu», pero no puede ser simplemente el video anterior con otro título. Por lo tanto, el personaje debe ser estable, los temas deben cambiar, y el montaje debe hacer que los cambios parezcan pertenecer aún a la misma persona. Este es un trabajo muy concreto, no solo inspiración pura.
+Para el creador, el tráfico no trae solo aplausos, sino exigencias de repetición más altas. La audiencia espera que el siguiente video siga siendo «como Tres Grados», pero no puede ser solo el video anterior con otro título. Así que el personaje debe ser estable, los temas deben variar, y la edición debe hacer que la variación parezca seguir perteneciendo a la misma persona. Es un trabajo muy concreto, no solo inspiración.
 
-> **📝 Nota del curador:** Los números de suscripción empujan a uno bajo los reflectores, pero lo que realmente mantiene vivo el canal es el detalle de decidir cada vez «cómo no ser como la última vez».
+> **📝 Nota del curador:** El número de suscriptores pone a la persona bajo los focos, pero lo que realmente mantiene vivo el canal es la artesanía de decidir cada vez «¿cómo hago para que esta vez no parezca la anterior?».
 
-## La persona frente a la cámara también trabaja detrás de ella
+## La persona delante de la cámara también trabaja detrás
 
-_Sandu C_ no solo aparece en su propio canal de YouTube. La página de casos oficiales de _Brook Image Culture_ (佈魯克影像文化) registra otra faceta suya en la producción de videoclips musicales. En el caso de 2024 «Estrella fugaz» (流星劃過), se indica que el director es Xie Menghang, y también se lista su responsabilidad en la postproducción. [^5] En el caso de «Flores» (鮮花) de _Chunghwa Dan_ (回春丹), la página oficial lista a Sandu como director, operador de cámara y editor, con la producción realizada por _Brook Image Culture Co., Ltd._ [^6]
+Tres Grados C no solo aparece en su propio canal de YouTube. La página oficial de casos de Brook Image Culture (佈魯克影像文化) registra otra identidad suya en la producción de videos musicales. El caso de 2024 «流星劃過» lista como director a Xie Meng-hang (謝孟航), y también le atribuye la postproducción.[^5] En el caso de «鮮花» de la banda 回春丹 (Huíchūndān), la página oficial lista a Tres Grados como director, camarógrafo y editor, con producción de Brook Image Culture Ltd. (佈魯克影像文化有限公司).[^6]
 
-Estos dos casos hacen que el nombre «_Sandu C_» gire ligeramente. Lo que la audiencia conoce es una persona metida en retos y memes. Lo que el现场 de producción audiovisual necesita es otro conjunto de juicios: cómo organizar los ángulos de cámara, cómo conectar las acciones de los actores, cómo editar el material en postproducción para crear un tiempo con altibajos. El primero se coloca en el centro del contenido; el segundo organiza toda la obra.
+Estos dos casos hacen que el nombre «Tres Grados C» gire un poco. La audiencia conoce a alguien que se mete en retos y memes. El set de producción audiovisual necesita otro tipo de juicio: cómo colocar los ángulos de cámara, cómo encadenar los movimientos de los actores, cómo en postproducción cortar el material para que tenga ritmo. El primero se pone a sí mismo en el centro del contenido, el segundo tiene que organizar toda la obra.
 
-La página de casos oficiales también coloca a la misma persona en diferentes campos de trabajo. De director a operador de cámara y luego a editor, Sandu no es solo alguien que aparece en cámara, sino alguien capaz de completar la imagen. [^5] [^6] Esta superposición entre el escenario y los bastidores es quizás más precisa que decir «el influencer se adentra en la producción audiovisual». Porque él nunca se quedó solo frente a la cámara.
+La página oficial de casos también pone a la misma persona en diferentes casillas de trabajo. De director a camarógrafo y editor, Tres Grados no solo es alguien que sale en cámara, sino alguien que sabe terminar la imagen.[^5] [^6] Esta superposición de frente y detrás de cámara es quizás más precisa que «influencer cruza a lo audiovisual». Porque él nunca solo estuvo delante de la cámara.
 
-En otras páginas de casos de _Brook Image Culture_, se puede ver el entorno de producción y la red de colaboración en la que se encuentra Sandu. «Noche de fotografía en la calle antigua de Yingge 90 Classic» (經典90 鶯歌老街攝影之夜) y «Magnate de las palomas mensajeras» (賽鴿大亨) están listados como casos destacados de la compañía. [^7] [^8] Estas páginas no son la lista de videos del canal de _Sandu C_, pero muestran otra línea de trabajo paralela: producir contenido audiovisual para marcas, eventos o obras musicales, y producir contenido de entretenimiento para su propia audiencia, utilizando herramientas similares pero asumiendo responsabilidades diferentes.
+Otras páginas de casos de Brook Image Culture (佈魯克影像文化) muestran el entorno de producción y la red de colaboración donde está Tres Grados. «經典90 鶯歌老街攝影之夜» y «賽鴿大亨» están listados como casos destacados de la empresa.[^7] [^8] Estas páginas no son la lista de videos del canal de Tres Grados C, pero dejan ver otra línea de trabajo paralela: producir imágenes para marcas, eventos u obras musicales, y producir contenido de entretenimiento para su propia audiencia, usan herramientas parecidas, pero asumen responsabilidades distintas.
 
-## Más allá de lo divertido, hay una línea roja de autenticidad
+## Más allá de lo gracioso, hay una línea roja de autenticidad
 
-El contenido de _Sandu C_ a menudo comienza con retos, imitaciones o configuraciones absurdas. El riesgo de este tipo de videos es que, si la gracia depende solo de la vergüenza ajena, es fácil dividir a la audiencia y a la persona filmada en dos bandos. En el experimento de estilo callejero, Sandu se involucró en la evaluación junto con los demás, al menos recuperando parte del riesgo para sí mismo. Esto no significa que cada video esté libre de controversia, sino que su creación tiene una elección ética observable: ¿está dispuesto el creador a ser parte de la prueba?
+El contenido de Tres Grados C suele empezar con retos, imitaciones o planteamientos absurdos. El riesgo de este tipo de videos es que, si el chiste solo se sostiene en que otro haga el ridículo, es muy fácil dividir a la audiencia y a la persona filmada en dos bandos. Tres Grados en el experimento callejero de moda se metió a sí mismo en la escena de valoración, al menos devolviéndose parte del riesgo. Esto no significa que cada video esté libre de controversia, sino que su creación tiene una opción ética observable: ¿está el creador dispuesto a ser parte de la prueba?
 
-Esta línea se vuelve más clara después de dedicarse a la creación a tiempo completo. Cuando un video es simultáneamente entretenimiento, trabajo, colaboración de marca y relación con la audiencia, el costo de la broma no lo paga solo quien filma. La entrevista de 2025 menciona cómo enfrenta los cuellos de botella creativos y a los haters. [^2] Estos contenidos no necesitan ser empaquetados como éxito personal. Son más bien el mantenimiento diario después de alcanzar los millones de suscriptores: mantener la cantidad de producción, mantener la credibilidad del personaje y mantener su capacidad para seguir subiendo videos.
+Esta línea se vuelve más clara tras la creación a tiempo completo. Cuando un video es a la vez entretenimiento, trabajo, colaboración de marca y relación con la audiencia, el coste del chiste ya no lo paga solo quien filma. La entrevista de 2025 menciona cómo enfrenta cuellos de botella creativos y haters.[^2] Estos contenidos no necesitan empaquetarse como manual de éxito. Son más bien el mantenimiento diario tras el millón de suscriptores: mantener la producción, mantener la credibilidad del personaje, y mantenerse a sí mismo en condiciones de seguir subiendo videos.
 
-La importancia de _Sandu C_ no radica en que represente a todos los YouTubers de Taiwán. Esta afirmación es demasiado grande y no puede ser respaldada por los datos de una sola persona. Es más bien un corte claro que permite ver una ruta a menudo ignorada en la cultura digital de Taiwán: el creador primero llama la atención usando su propio cuerpo y reacciones, y luego convierte esa atención en un trabajo sostenible mediante planificación, edición y producción audiovisual.
+La importancia de Tres Grados C no está en que represente a todos los YouTubers taiwaneses. Esa afirmación es demasiado grande y no puede sostenerse con los datos de una sola persona. Él es más bien una muestra clara que deja ver en la cultura de internet taiwanesa un camino que a menudo se ignora: el creador primero usa su propio cuerpo y reacciones para captar atención, y luego usa planificación, edición y producción audiovisual para convertir la atención en trabajo sostenible.
 
-> **📝 Nota del curador:** El camino desde «ser filmado para hacer reír a la audiencia» hasta «decidir cómo se ve la obra» no está separado por la fama, sino por un conjunto completo de habilidades laborales.
+> **📝 Nota del curador:** De «ser filmado para hacer reír a la audiencia» a «decidir para la obra cómo ser vista», lo que hay en medio no es la fama, sino toda una capacidad de trabajo.
 
-## Final: Sandu sigue siendo Sandu
+## Final: Tres Grados sigue siendo Tres Grados
 
-La historia de _Sandu C_ puede comenzar en un baño muy frío o en un canal con millones de suscriptores. El primero explica cómo se recuerda un nombre; el segundo explica cómo se acumula la atención. Lo que realmente conecta ambos es Xie Menghang poniéndose una y otra vez en diferentes problemas audiovisuales.
+La historia de Tres Grados C puede empezar en un baño muy frío, o en un canal de un millón de suscriptores. La primera explica cómo se recuerda un nombre, la segunda cómo se acumula atención. Lo que realmente une ambas es Xie Meng-hang (謝孟航) metiéndose una y otra vez en diferentes problemas audiovisuales.
 
-Puede ser la persona evaluada en el experimento de estilo callejero, o puede estar detrás de la cámara en un videoclips musical. Puede hacer reír a la gente con memes y retos, y también debe manejar el tráfico, los haters, los cuellos de botella y el ritmo del trabajo. Esto no son notas al pie del «halo de influencer», sino la profesión de creador en sí misma.
+Puede ser la persona valorada en el experimento callejero de moda, y puede ponerse detrás de la cámara en un video musical. Puede hacer reír con memes y retos, y debe gestionar tráfico, haters, cuellos de botella y ritmo de trabajo. Estas no son notas al pie de «aura de influencer», sino la propia profesión de creador.
 
-Por lo tanto, _Sandu C_ no es solo el dueño del nombre «Sandu». Es más bien una muestra de trabajo en la cultura digital de Taiwán: convertir una broma privada en un personaje público, y luego desmontar ese personaje público de nuevo en planificación, filmación, edición y colaboración. Desde el agua fría de 3 °C hasta el último montaje antes de que un video se publique, este camino nunca se completó con una idea mágica.
+Así que Tres Grados C no es solo el dueño del nombre «Tres Grados». Es más bien una muestra de trabajo dentro de la cultura de internet taiwanesa: convertir una broma privada en personaje público, y luego descomponer el personaje público de nuevo en planificación, filmación, edición y colaboración. Desde el agua fría a 3 grados Celsius hasta la última edición antes de subir un video, este camino nunca se completó con una idea mágica.
 
 ## Referencias
 
-[^1]: [Los 100 grandes influencers de 2021 Sandu: ama el trabajo y crece junto con los fans | Mingbao Noticias Inmediatas](https://mol.mcu.edu.tw/2021%E7%99%BE%E5%A4%A7%E7%B6%B2%E7%B4%85%E4%B8%89%E5%BA%A6%E3%80%80%E7%86%B1%E6%84%9B%E5%B7%A5%E4%BD%9C%E5%92%8C%E7%B2%89%E7%B5%B2%E4%B8%80%E8%B5%B7%E6%88%90%E9%95%B7/) — Ver detalles en el contenido del enlace original
+[^1]: [2021百大網紅三度　熱愛工作和粉絲一起成長｜銘報即時新聞](https://mol.mcu.edu.tw/2021%E7%99%BE%E5%A4%A7%E7%B6%B2%E7%B4%85%E4%B8%89%E5%BA%A6%E3%80%80%E7%86%B1%E6%84%9B%E5%B7%A5%E4%BD%9C%E5%92%8C%E7%B2%89%E7%B5%B2%E4%B8%80%E8%B5%B7%E6%88%90%E9%95%B7/) — Véase el contenido suplementario del enlace original
 
-[^2]: [De aprendiz de peluquería a YouTuber con millones de suscriptores: El camino de la creación a tiempo completo de Sandu C | Economía KOL | Banco de Talento 1111](https://www.1111.com.tw/news/jobns/159537) — Ver detalles en el contenido del enlace original
+[^2]: [從美髮學徒到百萬YouTuber！三度C的全職創作之路《KOL經濟學》｜1111 人力銀行](https://www.1111.com.tw/news/jobns/159537) — Véase el contenido suplementario del enlace original
 
-[^3]: [Ropa de marca de lujo de 80.000 yuanes vs. ropa de 1.500 yuanes para que las chicas elijan: El resultado de la prueba hace colapsar al influencer: el problema de la «apariencia» | Ettv Entertainment](https://ent.ebc.net.tw/buzz/122430) — Ver detalles en el contenido del enlace original
+[^3]: [8萬潮牌vs.1500元穿搭給女生選 實測結果網紅崩潰：「長相」問題｜東森娛樂](https://ent.ebc.net.tw/buzz/122430) — Véase el contenido suplementario del enlace original
 
-[^4]: [Ropa de marca de lujo de 80.000 yuanes vs. ropa de 1.500 yuanes para que las chicas elijan: El resultado de la prueba hace colapsar al influencer: el problema de la «apariencia» | Retransmisión de Yahoo News](https://tw.news.yahoo.com/8%E8%90%AC%E6%BD%AE%E7%89%8Cvs-1500%E5%85%83%E7%A9%BF%E6%90%AD%E7%B5%A6%E5%A5%B3%E7%94%9F%E9%81%B8-%E5%AF%A6%E6%B8%AC%E7%B5%90%E6%9E%9C%E7%B6%B2%E7%B4%85%E5%B4%A9%E6%BD%B0-%E9%95%B7%E7%9B%B8-%E5%95%8F%E9%A1%8C-095458302.html) — Reporte de Yahoo News
+[^4]: [8萬潮牌vs.1500元穿搭給女生選 實測結果網紅崩潰：「長相」問題｜Yahoo新聞轉載](https://tw.news.yahoo.com/8%E8%90%AC%E6%BD%AE%E7%89%8Cvs-1500%E5%85%83%E7%A9%BF%E6%90%AD%E7%B5%A6%E5%A5%B3%E7%94%9F%E9%81%B8-%E5%AF%A6%E6%B8%AC%E7%B5%90%E6%9E%9C%E7%B6%B2%E7%B4%85%E5%B4%A9%E6%BD%B0-%E9%95%B7%E7%9B%B8-%E5%95%8F%E9%A1%8C-095458302.html) — Reportaje de Yahoo News
 
-[^5]: [Ji Xinqiao (Qiao Qiao ER QQE) «Estrella fugaz» | Brook Image Culture Co., Ltd.](https://m9535453m.com/631/) — Ver detalles en el contenido del enlace original
+[^5]: [紀馨喬（喬喬兒QQE）〈流星劃過〉｜佈魯克影像文化有限公司](https://m9535453m.com/631/) — Véase el contenido suplementario del enlace original
 
-[^6]: [Chunghwa Dan «Flores» | Falso videoclip MV | Brook Image Culture Co., Ltd.](https://m9535453m.com/626/) — Ver detalles en el contenido del enlace original
+[^6]: [回春丹〈鮮花〉｜偽音樂錄影帶 MV｜佈魯克影像文化有限公司](https://m9535453m.com/626/) — Véase el contenido suplementario del enlace original
 
-[^7]: [Noche de fotografía en la calle antigua de Yingge 90 Classic | Registro de eventos | Brook Image Culture Co., Ltd.](https://m9535453m.com/643/) — Ver detalles en el contenido del enlace original
+[^7]: [經典90 鶯歌老街攝影之夜｜活動紀錄｜佈魯克影像文化有限公司](https://m9535453m.com/643/) — Véase el contenido suplementario del enlace original
 
-[^8]: [Magnate de las palomas mensajeras | Video de imagen de marca | Brook Image Culture Co., Ltd.](https://m9535453m.com/649/) — Ver detalles en el contenido del enlace original
+[^8]: [賽鴿大亨｜品牌形象影片｜佈魯克影像文化有限公司](https://m9535453m.com/649/) — Véase el contenido suplementario del enlace original
 
-### Licencia de imagen
+### Licencia de la imagen
 
-La imagen utiliza el archivo de Wikimedia Commons [File:'20210501 Taipei Night Skyline.jpg](https://commons.wikimedia.org/wiki/File:%2720210501_Taipei_Night_Skyline.jpg), del autor Mao Mao Da Shao Ye (毛貓大少爺), con licencia [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). La imagen se incrusta utilizando la URL directa de Wikimedia Commons, sin descargar, modificar ni almacenar en `public/article-images/` de Taiwan.md.
+La imagen usa de Wikimedia Commons [File:'20210501 Taipei Night Skyline.jpg](https://commons.wikimedia.org/wiki/File:%2720210501_Taipei_Night_Skyline.jpg), autor Mao Mao Da Shao Ye (毛貓大少爺), licencia [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). La imagen se inserta mediante hotlink de Wikimedia Commons, sin descargar, modificar ni almacenar la imagen en `public/article-images/` de Taiwan.md.

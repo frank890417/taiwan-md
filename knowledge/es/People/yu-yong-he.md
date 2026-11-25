@@ -1,13 +1,13 @@
 ---
-title: 'Yu Yong-he'
-description: 'En 1697, un letrado de Hangzhou se ofreció voluntario para viajar a una Taiwán considerada miasmática a extraer azufre. Caminó desde Tainan hasta Beitou y dejó la primera crónica literaria del norte de Taiwán.'
+title: 'Yu Yonghe'
+description: 'Un erudito de Hangzhou, Zhejiang, que tras el incendio del depósito de pólvora de Fuzhou en el trigésimo quinto año del reinado de Kangxi, se ofreció voluntariamente para cruzar el mar hacia Taiwán con el fin de recolectar azufre. Viajó en carro de buey desde la capital de la prefectura de Tainan hacia el norte, atravesando las llanuras occidentales durante veinte días y pasando por más de una docena de tribus indígenas hasta llegar a la zona de azufre de Beitou. Su viaje de nueve meses por Taiwán fue plasmado en su obra "Bi Hai Ji You" (Crónicas de un viaje por el mar), que se convirtió en el registro clásico más temprano de la geografía humana del norte de Taiwán. Al ver a los indígenas durmiendo al aire libre en el lodo, escribió "también son seres humanos", una reflexión poco común en una era en la que la dinastía Qing consideraba a los pueblos indígenas como personas fuera de la civilización, dejando además un valioso relato sobre el misterio del Lago de Taipéi durante el reinado de Kangxi.'
 date: 2026-03-25
 category: 'People'
 tags:
   [
-    'Personajes',
-    'Yu Yong-he',
-    'Pi Hai Ji You',
+    'Personaje',
+    'Yu Yonghe',
+    'Bi Hai Ji You',
     'Dinastía Qing',
     'Exploración',
     'Beitou',
@@ -23,10 +23,10 @@ readingTime: 10
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/郁永河.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:4070459913f1808f'
 sourceBodyHash: 'sha256:f14cb1a2a50dc23e'
-translatedAt: '2026-11-04T21:51:27.584108+00:00'
+translatedAt: '2026-11-25T04:17:10.555582+00:00'
 ---
 
 # Yu Yong-he

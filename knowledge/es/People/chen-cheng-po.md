@@ -1,10 +1,16 @@
 ---
 title: 'Chen Cheng-po'
-description: 'Conquistó la Exposición Imperial de Tokio con sus óleos, pero fue fusilado frente a la estación de tren de Chiayi — y lo que hizo que el mundo lo conociera fue, con frecuencia, su muerte, no sus cuadros.'
+description: 'Un pintor al óleo originario de Chiayi, la primera persona de Taiwán en ser seleccionada con una pintura al óleo para la Exposición de Arte Imperial de Japón. Enseñó en Shanghái durante cuatro años, interactuando con figuras como Zhang Daqian y Pan Yuliang. Tras regresar a Taiwán, creó obras representativas como "Atardecer en Tamsui". Durante el incidente del 228, actuó como representante negociador y se dirigió al aeropuerto de Shuishang, donde fue fusilado frente a la estación de Chiayi. Su esposa, Chang Chieh, escondió cientos de pinturas en el ático y quemó los marcos en la puerta de su casa; permanecieron ocultas durante treinta años. "Atardecer en Tamsui" se subastó posteriormente por aproximadamente NT$220 millones, estableciendo aún hoy el récord de subasta más alto para una pintura al óleo de un artista taiwanés.'
 date: 2026-03-31
 category: 'People'
 tags:
-  ['Arte', 'Pintura', 'Incidente del 228', 'Chiayi', 'Período colonial japonés']
+  [
+    'Arte',
+    'Pintura',
+    'Incidente del 228',
+    'Chiayi',
+    'Período de la ocupación japonesa',
+  ]
 subcategory: '藝術家'
 author: 'Taiwan.md'
 featured: false
@@ -13,10 +19,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/陳澄波.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '45b1bf37e0'
 sourceContentHash: 'sha256:485587af49d56815'
 sourceBodyHash: 'sha256:433a66ecaa1d5d52'
-translatedAt: '2026-11-04T22:35:09.033210+00:00'
+translatedAt: '2026-11-25T03:56:21.200374+00:00'
 ---
 
 > **Resumen en 30 segundos:** El 25 de marzo de 1947, frente a la estación de tren de Chiayi, un hombre que sostenía pinceles fue atado con alambre de hierro y fusilado en plena calle. Se llamaba Chen Cheng-po, el primer taiwanés en ingresar a la Exposición Imperial de Japón con una pintura al óleo, y también el que fue a negociar durante el Incidente del 228 y nunca regresó.

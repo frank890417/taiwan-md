@@ -1,30 +1,30 @@
 ---
-title: 'Kuo Hsing-chun: de la lesión causada por 141 kilos al camino de halterofilia que la llevó a tres podios olímpicos'
-description: 'Halterófila taiwanesa, medallista olímpica en tres ediciones (bronce en 2016, oro en 2021, bronce en 2024), plusmarquista mundial de la categoría de 59 kg y descendiente de la comunidad Malan del pueblo amis'
+title: 'Kuo Hsing-chun: De una lesión causada por 141 kg a un camino de medallas en tres Juegos Olímpicos'
+description: 'La levantadora de pesas más exitosa en la historia de Taiwán, descendiente de la tribu Malan de la etnia Amis, nació en 1993 en Luodong, Yilan. A lo largo de su carrera ha roto once récords mundiales. En 2014, sufrió una lesión en el muslo derecho tras ser golpeada por una barra de 141 kg; posteriormente, donó el dinero de sus premios para comprar una ambulancia para el Hospital Huimin de Penghu. Ganó la medalla de bronce en los Juegos Olímpicos de Río 2016, la medalla de oro en los Juegos Olímpicos de Tokio 2021 con 236 kg rompiendo tres récords olímpicos, y la medalla de bronce en los Juegos Olímpicos de París 2024 a pesar de sus lesiones, convirtiéndose en la primera atleta taiwanesa en ganar medallas en tres Juegos Olímpicos consecutivos, además de realizar donaciones constantes para apoyar las zonas rurales.'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '體育'
 tags:
   [
-    'personas',
+    'Personajes',
     'Kuo Hsing-chun',
-    'halterofilia',
+    'Levantamiento de pesas',
     'Juegos Olímpicos',
-    'medalla de oro',
-    'deportista',
+    'Medalla de oro',
+    'Atleta',
     'Taiwán',
-    'pueblo amis',
-    'pueblos indígenas',
+    'Etnia Amis',
+    'Pueblos indígenas',
   ]
+subcategory: '體育'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-16
 lastHumanReview: true
-featured: false
 translatedFrom: 'People/郭婞淳.md'
-sourceCommitSha: '85926aa3b'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:92e1170fe2ebdab8'
 sourceBodyHash: 'sha256:45d6a810707daa5c'
-translatedAt: '2026-05-20T05:08:32+08:00'
+translatedAt: '2026-11-25T04:02:34.809794+00:00'
 ---
 
 # Kuo Hsing-chun

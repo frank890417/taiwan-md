@@ -1,14 +1,14 @@
 ---
 title: 'Yang You-ren'
-description: 'Fundador de Step30 International Christian Care Association, uno de los Diez Jóvenes Sobresalientes de 2017, quien mediante un póster reunió cien mil pares de zapatos usados para ayudar a niños del este de África'
+description: 'Hijo de una familia dueña de una fábrica de zapatos, nacido en Taoyuan, a los 15 años fue a estudiar a Australia, abandonó los estudios dos veces y cambió el rumbo de su vida gracias a un pastor tatuado en una cancha de baloncesto, regresó a Taiwán para dedicarse a la orientación juvenil. En 2014, con un cartel en un blog reunió casi 100.000 pares de zapatos usados y los envió a Kenia, fundó «Step30 Zapatos Usados Salvan Vidas», aboga por evitar la dependencia a largo plazo y que el fin de la ayuda sea la autosuficiencia, desarrolló proyectos de educación, agua, «Amor·Niñas» y autosuficiencia agrícola, sirviendo a 12 países y más de 3 millones de personas, en 2017 fue seleccionado como uno de los diez jóvenes sobresalientes.'
 date: 2026-03-20
 category: 'People'
 tags:
   [
-    'Empresa social taiwanesa',
+    'Empresa social de Taiwán',
     'Ayuda humanitaria',
-    'Zapatos que salvan vidas',
-    'Diez Jóvenes Sobresalientes',
+    'Zapatos usados salvan vidas',
+    'Diez jóvenes sobresalientes',
     'Ayuda a África',
     'Ministerio cristiano',
   ]
@@ -20,10 +20,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/楊右任.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:2a0a298fc7d510ca'
 sourceBodyHash: 'sha256:aeccc38efb53dc79'
-translatedAt: '2026-11-04T21:12:47.648129+00:00'
+translatedAt: '2026-11-25T04:24:47.954712+00:00'
 ---
 
 # Yang You-ren: de desertor escolar y grafitero a salvador de vidas con zapatos usados en África

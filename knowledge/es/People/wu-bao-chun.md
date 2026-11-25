@@ -1,6 +1,6 @@
 ---
-title: 'Wu Pao-chun: una promesa a un niño del pueblo Paiwan'
-description: 'Hijo de una familia rural en Pingtung, con educación secundaria y sin saber francés. Con un pan de lichi y rosa ganó la medalla de oro del primer campeonato mundial de maestros panaderos en París —dentro de ese pan llevaba una promesa hecha diez años antes a un niño indígena.'
+title: 'Wu Pao-chun: Una promesa para los niños de la etnia Paiwan'
+description: 'El menor de ocho hermanos que creció en una zona rural de Neipu, Pingtung; perdió a su padre a los doce años y a los quince se trasladó al norte para empezar como aprendiz de panadero. Aprendió francés por su cuenta para leer libros de panadería franceses. En 2008, ganó la plata en el World Bread Cup con un pan de licor de arroz y longan; en 2010, en París, obtuvo la medalla de oro en el Coupe du Monde de la Boulangerie con un pan de lichi y rosa que incorporaba vino de mijo de la etnia Paiwan, convirtiéndose en el primer maestro panadero del mundo en ganar una medalla de oro; los jueces franceses lo calificaron como el mejor pan francés. Debido a su ingreso en estudios de posgrado, impulsó una reforma legal en el Ministerio de Educación de Taiwán, conocida como la «Cláusula Wu Pao-chun».'
 date: 2026-04-05
 category: 'People'
 tags:
@@ -22,10 +22,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/吳寶春.md'
-sourceCommitSha: 'b1a5fea00'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:1b0b64c23c091c1f'
 sourceBodyHash: 'sha256:e355ad9581f498f8'
-translatedAt: '2026-11-18T14:48:22.964457+00:00'
+translatedAt: '2026-11-25T04:19:58.745130+00:00'
 ---
 
 # Wu Pao-chun: una promesa a un pueblo del pueblo Paiwan
