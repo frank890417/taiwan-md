@@ -1,10 +1,9 @@
 ---
-title: '진싱훙: 영징에서 베를린으로 도망쳤지만 고향에게 끊임없이 쫓기는 작가'
-description: '그는 20년간 차오화현 영징을 피했지만, 베를린과 세계의 거리 속에서 가족, 성별, 신체, 그리고 사라지지 않는 고향을 다시 써 내려갔다.'
+title: '천쓰훙: 융징에서 베를린으로 도망쳤으나, 여전히 고향에 쫓기는 작가'
+description: '1976년 장화 융징의 농가에서 태어나, 집안에서 아홉째로 위에 일곱 누나와 한 오빠가 있다. 푸런대학교 영문과와 타이완대학교 드라마학 연구소를 졸업하고, 2004년 텔레비전 특파원 신분으로 베를린으로 가서 글쓰기, 번역, 연극을 유럽 세월에 가져왔다. 2019년 출간된 《귀장소》는 융징을 핵심 풍경으로 하여 타이완 문학 금전상과 금정상을 수상했으며, 영문판이 《뉴욕타임스》 가을 추천 도서에 선정되고 12개 언어 판권이 팔렸다. 그는 고향을 떠나면서도 융징, 가족, 성별, 몸을 소설에 써넣었다.'
 date: 2026-09-03
 category: 'People'
-tags:
-  ['진싱훙', '대만 문학', '영징', '베를린', '퀴어 문학', '유령 마을(鬼地方)']
+tags: ['천쓰훙', '타이완 문학', '융징', '베를린', '퀴어 문학', '귀장소']
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -13,10 +12,10 @@ lastHumanReview: false
 readingTime: 9
 curation: 'incubating'
 translatedFrom: 'People/陳思宏.md'
-sourceCommitSha: '8730173b1'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:614611394f0bdd05'
 sourceBodyHash: 'sha256:aa5e5b4b6a3ee873'
-translatedAt: '2026-09-12T09:19:46+08:00'
+translatedAt: '2026-11-25T03:41:15.881192+00:00'
 ---
 
 ![차오화현 영징향 위치도, 위키미디어 코먼즈, 작가 Essolo, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/d/d9/Tw_yj_map.png)

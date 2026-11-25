@@ -1,30 +1,30 @@
 ---
-title: '궈싱춘: 141킬로그램이 내려친 부상에서 세 차례 올림픽 시상대에 오른 역도 여정'
-description: '대만의 역도 선수, 세 차례 올림픽 메달리스트(2016 동메달, 2021 금메달, 2024 동메달), 59킬로그램급 세계 기록 보유자, 아메이족 마란부락 후예'
+title: '곽징천: 141kg 바벨에 떨어진 부상에서 3회 연속 올림픽 시상대까지의 역도 인생'
+description: '대만 역사상 가장 성공적인 역도 선수, 아미족 마란 부족 후예, 1993년 이란 뤄둥 출생. 통산 11회 세계 신기록 경신, 2014년 141kg 바벨에 맞아 오른쪽 허벅지 부상, 이후 경기 상금으로 펑후 혜민병원에 구급차 기증. 2016 리우 올림픽 동메달, 2021 도쿄 올림픽에서 236kg으로 금메달 획득 및 올림픽 기록 3개 경신, 2024 파리 올림픽에서 부상 안고 동메달 획득, 대만 최초로 3회 연속 올림픽 메달 획득 선수가 됨, 장기간 기부로 오지 환원.'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '體育'
 tags:
   [
     '인물',
-    '궈싱춘',
+    '곽징천',
     '역도',
     '올림픽',
     '금메달',
-    '운동선수',
+    '선수',
     '대만',
-    '아메이족',
-    '원주민족',
+    '아미족',
+    '원주민',
   ]
+subcategory: '體育'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-16
 lastHumanReview: true
-featured: false
 translatedFrom: 'People/郭婞淳.md'
-sourceCommitSha: '85926aa3b'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:92e1170fe2ebdab8'
 sourceBodyHash: 'sha256:45d6a810707daa5c'
-translatedAt: '2026-05-20T05:08:30+08:00'
+translatedAt: '2026-11-25T03:55:34.506629+00:00'
 ---
 
 # 궈싱춘

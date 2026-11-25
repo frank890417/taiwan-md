@@ -1,25 +1,31 @@
 ---
-title: '녜융전: 대만 최초의 AGI 회원, 골든멜로디 앨범 패키징에서 국가 식별 시스템까지의 20년'
-description: "녜융전(1977년생)은 대만에서 처음으로 스위스 국제그래픽연맹 AGI에 가입한 디자이너이며, 세 차례 골든멜로디 어워즈 최우수 앨범 패키징상을 받은 인물이다. 그의 디자인 작업은 대중음악 커버(리쭝성, 린유자, 루웨이), 도서 출판, 시민운동(2014년 해바라기운동 새벽 4시 뉴욕타임스 광고, 2020년 테워드로스 반대 'Taiwan Can Help' 8시간 1천만 모금), 정치 선거(차이잉원 2016년 '대만을 밝히다' 및 두 차례 대통령 취임식 메인 비주얼), 국영사업 식별 시스템(경제부, 관광서, 중국석유, 대만전력), 예술 공간(타이중 녹미도, 베니스 비엔날레 대만관)에 걸쳐 있다. 융전지즈 스튜디오는 타이베이와 가오슝 보얼 창고에 거점을 두고 있으며, 그는 벨기에와 런던에서 대학원을 다녔으나 세 곳 모두 졸업하지 않았다. 그는 스스로 '디자이너 녜융전이기 전에 그는 시민 녜융전'이라고 말한다. 2024년부터 네 개 국영사업 식별 프로젝트를 연이어 수주했고, 2026년 대만전력 LOGO 공개 당일 '정치적 보은' 논란이 터졌다."
+title: '니에융전: 대만 최초의 AGI 회원, 골든차이니즈 뮤직 어워드 패키징부터 국가 식별 시스템까지의 20년'
+description: '대만 최초로 스위스 국제 그래픽 디자인 협회(AGI)에 가입한 디자이너이자, 골든차이니즈 뮤직 어워드 최우수 앨범 패키징을 세 차례 수상했다. 그의 작업은 음반 커버, 2014년 해바라기 학생 운동 당시 새벽 4시에 실린 뉴욕 타임스 광고, 2020년 8시간 만에 1천만 대만 달러를 모금한 ''Taiwan Can Help'' 캠페인부터 차이잉원의 두 차례 대통령 취임 주 비주얼 및 경제부, 중유(CPC), 대만 전력(Taipower)의 식별 시스템까지 아우른다. 그는 스스로 "디자이너 니에융전이기 이전에 시민 니에융전이다"라고 말하지만, 2026년 대만 전력의 새 로고가 공개된 날, 동일한 정체성으로 인해 정치적 보상이라는 비판을 받기도 했다.'
 date: 2026-05-08
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '藝術與設計'
 tags:
   [
     '디자이너',
-    '녜융전',
+    '니에융전',
     'AGI',
-    '융전지즈',
-    '골든멜로디 어워즈',
+    '영진급제',
+    '골든차이니즈 뮤직 어워드',
     '차이잉원 선거 캠페인',
-    '해바라기 학생운동',
-    '감산 미학',
+    '해바라기 학생 운동',
+    '뺄셈 미학',
   ]
+subcategory: '藝術與設計'
+author: 'Taiwan.md Contributors'
+featured: false
 readingTime: 18
 lastVerified: 2026-05-12
 lastHumanReview: false
-featured: false
+researchReport: 'reports/research/2026-05/聶永真.md'
+image: '/article-images/people/aaron-nieh-portrait-2018.webp'
+imageAlt: '2018년 3월 대만 디자인계 공개 행사에서 찍은 니에융전의 인물 사진으로, 어두운 색 정장을 입고 마이크를 들고 있으며 배경은 전시장의 어두운 커튼이다.'
+imageCredit: 'Gene Wang'
+imageLicense: 'CC BY-SA 2.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%81%B6%E6%B0%B8%E7%9C%9F_(40799138092).jpg'
 sporeLinks:
   - id: 66
     platform: 'threads'
@@ -32,14 +38,10 @@ sporeLinks:
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/聶永真.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '30ab24424f'
 sourceContentHash: 'sha256:b31e7dab1de7bf10'
 sourceBodyHash: 'sha256:26e4e11c3e29817a'
-translatedAt: '2026-06-16T16:55:29Z'
-image: '/article-images/people/aaron-nieh-portrait-2018.webp'
-imageCredit: 'Gene Wang'
-imageLicense: 'CC BY-SA 2.0'
-imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%81%B6%E6%B0%B8%E7%9C%9F_(40799138092).jpg'
+translatedAt: '2026-11-25T04:27:07.488881+00:00'
 ---
 
 > **30초 개관:** 녜융전(1977년생)은 대만에서 처음으로 국제그래픽연맹 AGI에 가입한 디자이너이며, 세 차례 골든멜로디 어워즈 최우수 앨범 패키징상을 수상했다. 그는 린유자, 소다그린, 차이이린, 톈푸전의 음악 커버를 만들었고, 마이톈, 스바오, 인커, 롄징의 책 표지도 작업했다. 2014년 새벽 4시의 해바라기운동 뉴욕타임스 광고, 2020년 「Taiwan Can Help」 뉴욕타임스 크라우드펀딩 광고도 그의 손에서 나왔다. 차이잉원의 2016년 선거 메인 비주얼 「대만을 밝히다」와 두 차례 대통령 취임식 메인 비주얼 역시 그와 스튜디오가 맡았다. 융전지즈는 2024년 가오슝 보얼 창고에 두 번째 거점을 마련했고, 같은 해부터 대만전력, 중국석유, 관광서, 경제부 식별 시스템을 연이어 수주했다. 2026년 대만전력 새 LOGO 공개 당일 「정치적 보은」 논란이 터지자 그는 다섯 항목의 성명을 내어 대응했다. 그가 반복해서 강조해 온 말, “디자이너 녜융전이기 전에 그는 시민 녜융전”이라는 문장은 2014년부터 오늘에 이르기까지 서로 다른 위치에 놓이며 거듭 다시 읽히고 있다.
