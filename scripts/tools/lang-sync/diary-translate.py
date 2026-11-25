@@ -72,7 +72,9 @@ TIER_MODELS = {
     # 相容，實際雲端模型改由環境變數指定（對齊文章產線的入池白名單）。不設就用
     # origin 09-19 的預設：owl → nemotron super；hy3 → None（免費層已下架，主權對照
     # 要跑改用 `tencent/hy3-preview` 付費，或設 OPENROUTER_MODEL_SECONDARY）。
-    "owl": os.environ.get("OPENROUTER_MODEL", "nvidia/nemotron-3-super-120b-a12b:free"),
+    # 2026-11-26 babel-nightly：nemotron super 的免費層回 404「unavailable for free」，
+    # 日記 15 份投影整批敗在這格；改成文章產線 dispatcher 正在用、當晚實跑成功的 ultra。
+    "owl": os.environ.get("OPENROUTER_MODEL", "nvidia/nemotron-3-ultra-550b-a55b:free"),
     "hy3": os.environ.get("OPENROUTER_MODEL_SECONDARY") or None,
     "ollama": os.environ.get("OLLAMA_MODEL", "qwen3.6:35b-a3b-coding-nvfp4"),
 }
