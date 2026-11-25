@@ -1,14 +1,14 @@
 ---
-title: 'Joeman: 전자게임 해설에서 백만 구독 채널로, 카메라 속의 장기적 크리에이터'
-description: '전자게임 해설과 MSI 제품 매니저에서 시작해, 오픈박스, 비교, 여행, 팀 프로그램 운영으로 채널을 경영하는 Joeman의 여정은 대만 YouTuber가 트래픽, 분업, 신뢰, 공공 책임 사이에서 자신을 어떻게 조정해 왔는지를 기록한다.'
+title: 'Joeman: e스포츠 해설에서 100만 채널까지, 카메라 앞의 장기 크리에이터'
+description: '본명은 옹쥔밍(翁雋明)으로, 낮에는 MSI 제품 매니저, 주말에는 e스포츠 해설가로 활동하다 우연히 화제가 된 3C 언박싱 영상 하나로 유튜브로 전향해 2018년 구독자 100만을 돌파했다. 《Joe是要對決》은 고가와 저가 제품 비교를 대표 포맷으로 삼아 여행, 부동산, 팀 예능 등으로 확장했으며, 2024년 주중상(走鐘獎) 올해의 개인 크리에이터상을 수상했다. 2023년 대마초 사건 이후 공개 사과하고 기소유예 처분을 받았으며, 자발적으로 마약 방지·사기 방지 공익 영상을 제작해 사회봉사를 이행했다. 대만 크리에이터가 트래픽, 신뢰, 공적 책임 사이에서 장기적으로 조정해 나가는 과정을 기록한다.'
 date: 2026-08-16
 category: 'People'
 tags:
   [
     'Joeman',
-    '웅쥔밍',
-    'YouTuber',
-    '전자게임',
+    '옹쥔밍',
+    '유튜버',
+    'e스포츠',
     '3C',
     '크리에이터 경제',
     '미디어 산업',
@@ -26,10 +26,10 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Joeman-0617.jpg'
 readingTime: 10
 curation: 'incubating'
 translatedFrom: 'People/Joeman.md'
-sourceCommitSha: '67c4c72fc'
+sourceCommitSha: '1b9d5dfea6'
 sourceContentHash: 'sha256:19eba63c27c61c88'
 sourceBodyHash: 'sha256:18e7518b3acc71b4'
-translatedAt: '2026-11-06T01:28:20.629907+00:00'
+translatedAt: '2026-11-25T13:35:01.379405+00:00'
 ---
 
 # Joeman: 전자게임 해설에서 백만 구독 채널로, 카메라 속의 장기적 크리에이터
