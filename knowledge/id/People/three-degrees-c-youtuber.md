@@ -1,9 +1,9 @@
 ---
-title: 'Tiga Kali C: Memotong Tiga Suhu Air Dingin Jadi Satu Langganan Langganan Jutaan'
-description: 'Xie Meng-hang dari mahasiswa ilmu rambut hingga YouTuber dengan jutaan langganan, kisahnya menggabungkan kembali meme, tantangan, dan produksi visual dalam satu ruang kreatif yang sama'
+title: 'San Du C: Mengubah Tiga Derajat Air Dingin Mandi Menjadi Jalan Menuju Sejuta Langganan'
+description: 'Seorang mahasiswa ilmu kecantikan rambut yang menjadi kreator video penuh waktu dengan lebih dari sejuta langganan, nama akunnya berasal dari mandi air dingin pada musim dingin suhu 3 derajat Celsius. Ia mengedit menahan tawa, menari, meme, dan tantangan menjadi konten hiburan, pertama membuat penonton berhenti karena sebuah nama, lalu menggunakan perencanaan, pengambilan gambar, dan pengeditan mengubah perhatian menjadi pekerjaan yang dapat dijalankan jangka panjang, kemudian berperan sebagai sutradara, sinematografer, dan editor dalam produksi video musik, mengubah lelucon pribadi menjadi peran publik, lalu memecah peran publik itu kembali menjadi perencanaan, pengambilan gambar, dan kolaborasi.'
 date: 2026-08-20
 category: 'People'
-tags: ['Budaya', 'YouTuber', 'Budaya Internet', 'Meme', 'Produksi Visual']
+tags: ['Budaya', 'YouTuber', 'Budaya Internet', 'Meme', 'Produksi Video']
 subcategory: '網路文化'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -11,102 +11,102 @@ lastVerified: 2026-08-20
 lastHumanReview: false
 curation: 'incubating'
 translatedFrom: 'People/3度C.md'
-sourceCommitSha: 'e64a7fba4'
-sourceContentHash: 'sha256:71bd23c9a7becdb3'
-sourceBodyHash: 'sha256:ac800d2068dd019e'
-translatedAt: '2026-09-13T17:51:58+08:00'
+sourceCommitSha: '45b1bf37e0'
+sourceContentHash: 'sha256:512116c709aae71c'
+sourceBodyHash: 'sha256:41b6c45553399776'
+translatedAt: '2026-11-25T16:46:36+08:00'
 ---
 
-> **30 detik ringkasan:** Tiga Kali C adalah merek kreatif YouTube Xie Meng-hang. Nama ini tidak berasal dari produk 3C, melainkan dari pengalamannya saat kuliah di Tiongkok daratan, ketika ia mandi air dingin di suhu 3 derajat Celsius, sehingga teman-temannya menyebutnya "Tiga Kali". Ia menggabungkan tawa terpaksa, tarian, meme, tantangan, dan cerita nyata menjadi konten hiburan, kemudian terlibat dalam produksi video musik sebagai direktur, kameramen, dan editor. Keaneh-alangan dari Tiga Kali C terletak pada fakta bahwa meskipun tampaknya ia bergantung pada konten tak berguna untuk membuat orang tertawa, yang sebenarnya terakumulasi adalah cara ia menggabungkan penampilan fisik seseorang, ritme pemotongan, dan organisasi visual menjadi metode kreatif yang bisa dikelola secara berkelanjutan.
+> **Ringkasan 30 Detik:** San Du C adalah merek kreasi YouTube milik Hsieh Meng-hang (謝孟航). Nama ini tidak berasal dari produk 3C, melainkan saat ia belajar di Tiongkok daratan, pernah mandi air dingin pada suhu 3 derajat Celsius musim dingin, sehingga teman-temannya memanggilnya "San Du" (三度). Ia mengedit menahan tawa, menari, meme, tantangan, dan cerita nyata menjadi konten hiburan, kemudian berperan sebagai sutradara, sinematografer, dan editor dalam produksi video musik. Keunikan San Du C terletak pada: ia tampak mengandalkan konten absurd untuk membuat orang tertawa, yang sebenarnya dikumpulkannya adalah mengorganisasikan pertunjukan tubuh seseorang, ritme pengeditan, dan pekerjaan video menjadi metode kreasi yang dapat dijalankan jangka panjang.
 
-Xie Meng-hang dalam wawancara tahun 2022 mengatakan, banyak orang bertanya dari mana asal kata "Tiga Kali", jawabannya adalah saat kuliah di Tiongkok daratan, mandi air dingin di suhu 3 derajat Celsius. Ini adalah sepotong kehidupan kecil, bahkan cukup konyol, namun menjadi nama yang dikenal di internet. Wawancara spesial 1111 pada tahun 2025 kemudian melengkapi jalannya hidupnya: dari mahasiswa ilmu rambut hingga pembuat konten video audio profesional, saat wawancara sudah mengumpulkan 7 tahun pengalaman kreatif, jumlah langganan saluran melebihi 1,39 juta.
+Hsieh Meng-hang dalam wawancara tahun 2022 berkata, banyak orang bertanya asal mula "San Du", jawabannya adalah saat belajar di Tiongkok daratan, mandi air dingin pada suhu rendah 3 derajat Celsius. [^1] Ini adalah potongan kehidupan yang kecil, bahkan agak absurd, namun menjadi nama yang membuatnya dikenali di internet. Wawancara tokoh 1111 tahun 2025 melengkapi jalannya: ia dari mahasiswa ilmu kecantikan rambut menjadi kreator video penuh waktu, saat wawancara telah mengumpulkan 7 tahun pengalaman kreasi, langganan saluran melebihi 1,39 juta. [^2]
 
-Jalan ini paling mudah salah dipahami sebagai "seseorang membuat video lucu, lalu sukses". Pendekatan yang lebih akurat adalah bahwa Tiga Kali C meletakkan karakter yang mudah diingat ke dalam format visual yang terus-menerus mengganti judulnya. Laporan Ming Pao menggabungkan konten tertawa terpaksa, menari, dan meme. Ini seperti tidak seperti satu jadwal acara yang sama, malah seperti pencipta sedang menguji seberapa jauh penonton bersedia mengikutinya.
+Jalur ini paling mudah disalah baca sebagai "seseorang membuat video lucu, lalu menjadi terkenal". Penjelasan yang lebih tepat: San Du C memasukkan sebuah peran yang mudah diingat ke dalam format video yang terus berganti topik. Konten menahan tawa, menari, dan meme yang dilaporkan Ming Bao (銘報), terlihat tidak seperti jadwal acara yang sama, melainkan seperti kreator menguji seberapa jauh penonton bersedia mengikutinya. [^1] Topik berubah, yang dikenali penonton tetap orang yang sama.
 
-![Pemandangan malam Taipei, sebagai pemandangan latar belakang budaya internet dan pengalaman kota Taiwan](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%2720210501_Taipei_Night_Skyline.jpg/1280px-%2720210501_Taipei_Night_Skyline.jpg)
+![Malam Taipei, sebagai gambaran pengalaman budaya internet Taiwan dan pengamatan kota](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%2720210501_Taipei_Night_Skyline.jpg/1280px-%2720210501_Taipei_Night_Skyline.jpg)
 
-_Penjelasan gambar: Pemandangan malam Taipei. Gambar ini bukanlah potret Tiga Kali C, melainkan digunakan untuk menandakan kota dan latar belakang budaya internet pencipta digital Taiwan. Foto oleh Mao Mao Da Xiao Ye, sumber halaman berkas Wikimedia Commons, dilisensikan CC BY-SA 2.0. Gambar disematkan menggunakan URL langsung Wikimedia Commons, tidak diunduh atau dikirim ulang._
+_Keterangan Gambar: Malam Taipei. Gambar ini bukan potret San Du C, melainkan digunakan untuk menandai kota dan lanskap budaya internet tempat kreator digital Taiwan berada. Penulis gambar adalah Mao Mao Da Shao Ye (毛貓大少爺), sumber dari [halaman berkas Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%2720210501_Taipei_Night_Skyline.jpg), lisensi CC BY-SA 2.0. Disematkan menggunakan tautan panas Wikimedia Commons, tidak diunduh atau di-hosting ulang._
 
-## Nama Sebelum Karakter
+## Nama Mendahului Persona
 
-Nama internet sering seperti desain merek, pertama menentukan posisi, lalu menyusun visual dan nada yang sesuai. Nama Tiga Kali justru berlawanan. Pertama, ini adalah panggilan dari teman-teman, kemudian baru menjadi nama saluran, akun media sosial, dan identitas pekerjaan. Asal-usul ini membuat "Tiga Kali" terasa kurang seperti karakter yang dikemas rapi, lebih seperti leluasa teman di musim dingin.
+Nama akun internet sering seperti desain merek, pertama menentukan positioning, lalu menyusun serangkaian visual dan nada suara. Nama San Du justru terbalik. Awalnya adalah julukan teman untuk memanggilnya, baru kemudian menjadi nama saluran, akun media sosial, dan identitas kerja. Asal-usul ini membuat "San Du" tidak terlalu seperti peran yang dikemas dengan matang, lebih seperti lelucon yang ditinggalkan seorang teman di musim dingin.
 
-Detail "mandi air dingin di 3 derajat Celsius" berguna bukan karena membuktikan betapa tahan hati Tiga Kali, melainkan karena menghubungkan nama panggilan abstrak kembali ke tubuh. Pembaca bisa membayangkan sensasi air dingin menyentuh kulit, dan memahami mengapa nama ini tidak perlu dijelaskan terlalu banyak. Ini adalah cerita penamaan dengan sedikit objek, tapi tindakan yang jelas.
+Detail "mandi air dingin 3 derajat Celsius" berguna bukan karena membuktikan seberapa tahan San Du, melainkan ia menghubungkan kembali julukan internet abstrak ke tubuh. Pembaca bisa membayangkan air dingin menyentuh kulit, juga memahami mengapa nama ini tidak perlu dijelaskan terlalu banyak. Ini adalah cerita penamaan dengan sedikit objek, tindakan yang sangat jelas.
 
-Soalnya Tiga Kali kuliah di mana di Tiongkok daratan, hanya ada wawancara langsung yang bisa diverifikasi yang menulis "kuliah di Tiongkok daratan", tanpa menyebutkan kota, provinsi, atau sekolah. Oleh karena itu, artikel ini tidak menganggap kembali laporan ensiklopedia online sebagai riwayat yang pasti, juga tidak mengaitkan deskripsi seperti "kota kedua" ke sebuah tempat tertentu. Celah data ini sebaiknya dipertahankan, karena keandalan penulisan biografi tidak hanya terletak pada melengkapi detail, tetapi juga pada menandai dengan jelas detail mana yang belum terbukti oleh sumber yang dapat dipercaya.
+Adapun di mana ia belajar di Tiongkok daratan, wawancara tokoh yang dapat diverifikasi saat ini hanya tertulis "belajar di Tiongkok daratan", tidak menyebutkan kota, provinsi, atau sekolah. [^1] Oleh karena itu artikel ini tidak memperlakukan pernyataan ulang ensiklopedia internet sebagai riwayat hidup yang pasti, juga tidak mendorong deskripsi kabur seperti "kota tingkat dua" menjadi nama tempat tertentu. Kesenjangan data ini harus dipertahankan, karena keandalan penulisan biografi tidak hanya在于 menambah detail, juga在于 menandai dengan jelas detail mana yang belum terbukti oleh sumber andal.
 
-> **📝 Catatan kurator:** Nama internet yang bagus tidak selalu membutuhkan rencana kerja. Terkadang, kekanakakan yang pernah dilakukan seseorang lebih meninggalkan kesan daripada sekumpulan strategi merek.
+> **📝 Catatan Kurator:** Nama internet yang baik tidak pasti didahului proposal. Terkadang, kebodohan yang pernah dilakukan seseorang, lebih mampu meninggalkan daya kenali dibandingkan strategi merek lengkap.
 
-Ming Pao mengelompokkan konten awal saluran Tiga Kali menjadi tertawa terpaksa, menari, dan meme. Kata-kata ini terlihat seperti tidak satu jadwal acara yang sama, malah seperti pencipta sedang menguji seberapa jauh penonton bersedia mengikutinya. Menari membutuhkan ingatan tubuh, tertawa terpaksi bergantung pada ekspresi dan irama, sementara meme membutuhkan pengenalan konteks bersama. Kepribadian Tiga Kali C muncul dari pengenalan berulang-ulang terhadap berbagai bentuk ini.
+Ming Bao mengatur konten saluran awal San Du menjadi tema-tema beragam seperti menahan tawa, menari, dan meme. [^1] Beberapa kata ini terlihat tidak seperti jadwal acara yang sama, melainkan seperti kreator menguji seberapa jauh penonton bersedia mengikutinya. Menari memerlukan memori tubuh, menahan tawa bergantung pada ekspresi dan ritme, meme memerlukan pengenalan konteks bersama. Rasa karakter San Du C, justru muncul dari pengenalan berulang dari bentuk-bentuk berbeda ini.
 
-## Dari Eksperimen Jalanan ke Titik Tertawa Bersama Penonton
+## Dari Eksperimen Jalanan ke Titik Tawa Bersama Penonton
 
-Pada tahun 2018, laporan E-Sun Entertainment melaporkan eksperimen ganti pakaian di jalan Tiga Kali dan Xiao Ma. Perbedaan harga antara dua set pakaian sangat besar, satu set sekitar 80.000 yuan, satu lagi sekitar 1.500 yuan. Mereka bertukar pakaian, lalu ke jalan untuk bertanya kepada wanita yang diwawancarai.
+Tahun 2018, ETtoday Entertainment (東森娛樂) melaporkan sebuah video eksperimen jalanan kolaborasi San Du dengan Xiao Ma (小馬). Selisih harga dua set pakaian sangat besar, satu sekitar NT$80.000, yang lain sekitar NT$1.500. Keduanya bergantian bertukar pakaian, lalu ke jalanan menanyakan preferensi responden perempuan. [^3]
 
-Yang benar-benar tersisa dari video ini bukanlah "barang mewah pasti lebih baik" atau "pakaian murah juga bisa menang". Setelah pakaian ditukar, pilihan narasumber tetap terkonsentrasi pada Xiao Ma, bahkan umpan balik langsung membawa masalah ke wajah dan penampilan. Laporan Yahoo News yang sama juga mencatat eksperimen dua kali ini, dan mempertahankan konteks diskusi netizen tentang proporsi tubuh dan potongan pakaian.
+Yang benar-benar tersisa dari video ini, bukan kesimpulan seperti "produk bermerek pasti lebih baik" atau "pakaian terjangkau juga bisa menang". Setelah pakaian ditukar, pilihan responden tetap terkonsentrasi pada Xiao Ma, umpan balik di tempat bahkan mengarahkan masalah ke warna kulit dan penampilan. [^3] Muatan ulang Yahoo News (Yahoo 新聞) hari yang sama juga mencatat dua putaran eksperimen yang sama, dan mempertahankan konteks video didiskusikan netizen soal proporsi tubuh dan potongan pakaian. [^4]
 
-Ini adalah skenario yang cocok untuk Tiga Kali C: pertama merancang pertanyaan yang semua orang mengerti, lalu biarkan hasil eksperimen membuatnya semakin tidak nyaman. Hiburan tidak bertanggung jawab untuk merapikan jawaban yang indah bagi penonton. Ia membiarkan seseorang berdiri di depi kamera, menanggung penilaan yang semua orang mengira hanya terjadi pada orang lain.
+Ini adalah skenario yang sangat cocok untuk San Du C: merancang pertanyaan yang semua orang mengerti, lalu membiarkan hasil eksperimen membuat pertanyaan itu lebih canggung. Hiburan tidak bertanggung jawab menyusun jawaban indah untuk penonton. Ia membiarkan seseorang berdiri di depan kamera, menanggung penilaian yang semua orang kira hanya terjadi pada orang lain.
 
-> **📝 Catatan kurator:** Titik tertawa Tiga Kali C seringkali bukan "ia benar-benar pandai bercanda", melainkan ia rela memasukkan dirinya ke dalam eksperimen di mana titik tertawa mungkin justru menusuk dirinya sendiri.
+> **📝 Catatan Kurator:** Titik tawa San Du C sering bukan "dia pandai bercanda", melainkan ia bersedia memasukkan diri ke eksperimen di mana titik tawa bisa menusuk kembali dirinya sendiri.
 
-Ini juga menjelaskan mengapa "tanpa arti" tidak bisa menggambarkan karyanya. Tanpa arti hanyalah gaya permukaan. Di bawahnya masih ada desain pertanyaan, reaksi langsung, urutan pemotongan, dan pekerjaan aktor yang menanggung konsekuensi. Penonton melihat sebuah uji coba yang konyol, sementara pencipta menangani sebuah observasi sosial kecil.
+Ini juga menjelaskan mengapa "absurd" (無厘頭) tidak bisa merangkum kreasinya sendirian. Absurd hanyalah gaya permukaan. Di bawahnya ada desain topik, reaksi di lokasi, urutan pengeditan, dan pekerjaan protagonis menanggung hasil. Penonton melihat tes absurd, kreator menangani observasi sosial skala kecil.
 
-## Langganan Jutaan Bukan Akhir, Melainkan Perubahan Pola Kerja
+## Sejuta Langganan Bukan Titik Akhir, Tapi Penggantian Nama Jenis Pekerjaan
 
-Wawancara 1111 pada tahun 2025 meletakkan Tiga Kali C dalam konteks karier "kreator profesional". Artikel menyebutkan ia pergi dari mahasiswa ilmu rambut hingga pembuat kreator profesional, dan dalam wawancara membahas inspirasi kreatif, lalu lintas, hambatan, komentar negatif, dan niat awal untuk memberikan perasaan positif kepada penonton. Kata-kata ini bersama, menunjukkan bahwa YouTube bagi ia tidak hanya sebagai tempat mengunggah video, melainkan sebagai pekerjaan yang membutuhkan produksi.
+Wawancara 1111 tahun 2025 menempatkan San Du C dalam konteks karir "kreasi penuh waktu". Artikel menyebut ia dari mahasiswa ilmu kecantikan rambut menjadi kreator penuh waktu, dan dalam wawancara membahas inspirasi kreasi, trafik, hambatan, hater (酸民), serta niat awal terus membawa perasaan positif bagi penonton. [^2] Kumpulan frasa ini bersama-sama menunjukkan YouTube baginya bukan lagi tempat unggah video, melainkan pekerjaan yang memerlukan kelanjutan produksi.
 
-"Kreator YouTube dengan jutaan langganan" adalah label yang nyaman bagi media, namun cenderung merangkum proses hingga menjadi sebuah angka. Yang lebih menarik dari kasus Tiga Kali C adalah ia tidak membatasi karakter hanya dalam satu seri. Laporan Ming Pao mencatat tertawa terpaksi, menari, dan meme, yang sudah bisa dilihat bahwa kreatif awal Tiga Kali C bukanlah format acara tunggal. Ini bukan tentang memulai ulang setiap kali, melainkan menguji berbagai cara menonton di bawah nama yang sama.
+"YouTuber Sejuta" adalah label media yang nyaman, tapi cenderung memadatkan proses menjadi satu angka. Hal yang lebih layak diperhatikan dari kasus San Du C, adalah ia tidak membatasi peran dalam satu seri saja. Menahan tawa, menari, dan meme yang dicatat Ming Bao, sudah terlihat kreasi awal San Du C bukan format acara tunggal. [^1] Ini bukan memulai ulang setiap kali, melainkan menguji titik masuk menonton yang berbeda di bawah nama yang sama.
 
-Bagi pencipta, lalu lintas tidak hanya membawa applaus, tetapi juga meningkatkan permintaan berulang. Penonton ingin video berikutnya tetap seperti "Tiga Kali", namun tidak bisa hanya menukar judul dengan video sebelumnya. Oleh karena itu, karakter harus stabil, judul harus berubah, dan pemotongan harus membuat perubahan terlihat seperti tetap sama orang. Ini adalah bentuk kerja yang sangat konkret, bukan sekadar inspirasi.
+Bagi kreator, trafik tidak hanya membawa tepuk tangan, tapi juga tuntutan pengulangan yang lebih tinggi. Penonton berharap video berikutnya tetap seperti "San Du", tapi tidak boleh hanya video sebelumnya ganti judul. Maka persona harus stabil, topik harus berubah, pengeditan harus membuat perubahan terlihat milik orang yang sama. Ini adalah jenis tenaga kerja yang sangat konkret, bukan sekadar inspirasi.
 
-> **📝 Catatan kurator:** Jumlah langganan mendorong seseorang ke sorotan, namun yang benar-benar membuat saluran tetap hidup adalah keputusan setiap kali untuk "bagaimana caranya tidak seperti kali sebelumnya".
+> **📝 Catatan Kurator:** Jumlah langganan mendorong orang ke sorotan, yang benar-benar membuat saluran bertahan, justru adalah pekerjaan detail setiap kali memutuskan ulang "kali ini bagaimana caranya tidak seperti sebelumnya".
 
-## Orang di Depan Kamera Juga Bekerja di Balik Kamera
+## Orang di Depan Kamera, Juga Bekerja di Belakang Kamera
 
-Tiga Kali C tidak hanya muncul di saluran YouTube miliknya sendiri. Halaman contoh resmi Brilliant Culture Visual mencatatkan versi lainnya dalam produksi video musik. Pada tahun 2024, kasus "Meteor Melintasi" mencantumkan sutradara sebagai Xie Meng-hang, dan juga mencantumkan nama ia dalam pengolahan pasca produksi. Dalam kasus "Bunga" dari Chun Dian, halaman resmi mencantumkan Tiga Kali sebagai sutradara, kameramen, dan editor, dengan produksi oleh Brilliant Culture Visual.
+San Du C tidak hanya muncul di saluran YouTube sendiri. Halaman kasus resmi Brook Imaging Culture (佈魯克影像文化) mencatat identitas lain dalam produksi video musik. Kasus "Liu Xing Hua Guo" (流星劃過) 2024 mencantumkan sutradara sebagai Hsieh Meng-hang, juga mencantumkan ia bertanggung jawab pasca-produksi. [^5] Dalam kasus "Xian Hua" (鮮花) oleh Hui Chun Dan (回春丹), halaman resmi mencantumkan San Du sebagai sutradara, sinematografer, dan editor, produksi diselesaikan oleh Brook Imaging Culture Ltd. (佈魯克影像文化有限公司). [^6]
 
-Dua kasus ini membuat nama "Tiga Kali C" sedikit berubah. Penonton mengenalnya sebagai seseorang yang akan dimasukkan ke dalam tantangan dan meme. Namun, di balik layar produksi visual, diperlukan penilaian lain: bagaimana mengatur posisi kamera, bagaimana membuat gerakan aktor terhubung, bagaimana mengedit bahan mentah menjadi urutan waktu yang dinamis. Yang pertama memasukkan dirinya ke dalam pusat konten, yang kedua harus mengatur seluruh karya.
+Kedua kasus ini membuat nama "San Du C" sedikit beralih arah. Penonton familiar dengan orang yang dimasukkan ke tantangan dan meme. Lokasi produksi video butuh seperangkat penilaian lain: bagaimana mengatur posisi kamera, bagaimana membuat gerak aktor tersambung, bagaimana di pasca-produksi mengedit materi menjadi waktu yang bergelombang. Yang pertama menaruh diri di pusat konten, yang kedua harus mengorganisasi seluruh karya.
 
-Halaman contoh resmi juga meletakkan satu orang di berbagai bidang pekerjaan. Dari sutradara, kameramen hingga editor, Tiga Kali bukan hanya seorang pemain, tetapi juga seseorang yang bisa menyelesaikan gambar. Keterlibatan di antara depan dan belakang kamera ini, mungkin lebih akurat dari sekadar "influencer yang terlibat dalam produksi visual". Karena sejak awal, ia tidak pernah hanya tinggal di depan kamera.
+Halaman kasus resmi juga menempatkan orang yang sama di kolom pekerjaan berbeda. Dari sutradara, sinematografer, ke editor, San Du bukan hanya orang yang muncul di kamera, tapi juga orang yang bisa menyelesaikan gambar. [^5] [^6] Tumpang tindih depan-belakang panggung ini, mungkin lebih akurat dibanding "selebritas internet melangkah ke video". Karena dia dari awal tidak hanya tinggal di depan kamera.
 
-Halaman contoh lain dari Brilliant Culture Visual juga bisa melihat lingkungan produksi dan jaringan kolaborasi Tiga Kali. "Classic 90 Malang Street Night Photography" dan "Pigeon King" keduanya tercantum sebagai kasus andalan perusahaan. Halaman-halaman ini bukanlah daftar video dari saluran Tiga Kali C, namun memungkinkan melihat jalur kerja paralel lainnya: membuat video untuk merek, acara, atau karya musik, menggunakan alat yang serupa, namun bertanggung jawab atas tanggung jawab yang berbeda.
+Halaman kasus lain Brook Imaging Culture, masih terlihat lingkungan produksi dan jaringan kolaborasi San Du. "Classic 90 Yingge Old Street Photography Night" (經典90 鶯歌老街攝影之夜) dan "Racing Pigeon Tycoon" (賽鴿大亨) keduanya dicantumkan sebagai kasus unggulan perusahaan. [^7] [^8] Halaman-halaman ini bukan daftar video saluran San Du C, tapi memperlihatkan garis kerja paralela lain: memproduksi video untuk merek, acara, atau karya musik, dan memproduksi konten hiburan untuk penonton sendiri, menggunakan alat serupa, menanggung tanggung jawab yang berbeda.
 
-## Di Luar Tertawa, Ada Garis Kebenaran yang Konsisten
+## Di Luar Kegembiraan, Masih Ada Garis Batas Keaslian
 
-Konten Tiga Kali C sering dimulai dengan tantangan, tiruan, atau pengaturan yang konyol. Risiko dari video semacam ini adalah, jika tertawa hanya bergantung pada orang lain yang menjadi bahan candaan, mudah membagi penonton dan subjek yang direkam menjadi dua belah pihak. Dalam eksperimen ganti pakaian di jalan, Tiga Kali masuk ke dalam ruang penilaian bersama, setidaknya mengembalikan sebagian risiko ke dirinya sendiri. Ini tidak berarti setiap video bebas kontroversi, tetapi menunjukkan bahwa karyanya memiliki pilihan etis yang bisa diamati: apakah pencipta rela menjadi bagian dari uji coba.
+Konten San Du C sering dimulai dengan tantangan, peniruan, atau pengaturan absurd. Risiko video semacam ini, jika titik tawa hanya bergantung pada orang lain malu, sangat mudah memisahkan penonton dan orang yang difilm ke dua sisi. San Du dalam eksperimen pakaian jalanan memasukkan dirinya sendiri ke arena penilaian, setidaknya menarik sebagian risiko kembali ke dirinya. Ini tidak berarti setiap video bebas kontroversi, melainkan kreasinya memiliki pilihan etis yang dapat diamati: apakah kreator bersedia menjadi bagian dari tes.
 
-Garis ini akan semakin jelas setelah menjadi kreator profesional. Ketika sebuah video merupakan hiburan, pekerjaan, kolaborasi merek, dan hubungan dengan penonton, biaya candaan tidak lagi hanya ditanggung oleh pembuatnya. Wawancara tahun 2025 menyebutkan bagaimana ia menghadapi hambatan kreatif dan komentar negatif. Konten ini tidak perlu dikemas sebagai literatur sukses. Mereka lebih seperti pemeliharaan rutin setelah mencapai jutaan langganan: mempertahankan produksi, menjaga kepercayaan karakter, dan memastikan ia masih bisa terus mengunggah video.
+Garis ini setelah jadi kreasi penuh waktu hanya jadi lebih jelas. Saat satu video sekaligus hiburan, pekerjaan, kolaborasi merek, dan hubungan penonton, biaya lelucon tidak hanya dibayar oleh pemfilm. Wawancara 2025 menyebut bagaimana ia menghadapi hambatan kreasi dan hater (酸民). [^2] Konten ini tidak perlu dikemas jadi ilmu sukses. Ia lebih seperti perawatan rutin pasca-sejuta langganan: mempertahankan volume produksi, mempertahankan kepercayaan persona, juga mempertahankan kondisi diri sendiri yang masih bisa terus unggah video.
 
-Kepentingan Tiga Kali C bukanlah karena ia mewakili semua YouTuber Taiwan. Pernyataan seperti ini terlalu luas, dan tidak bisa didukung oleh data satu orang. Ia lebih seperti potongan yang jelas, memungkinkan kita melihat jalur yang sering diabaikan di budaya internet Taiwan: pencipta pertama mendapatkan perhatian dengan tubuh dan reaksi pribadi, kemudian menggunakan perencanaan, pengeditan, dan produksi visual untuk mengubah perhatian menjadi pekerjaan yang berkelanjutan.
+Pentingnya San Du C tidak在于 ia mewakili semua YouTuber Taiwan. Klaim itu terlalu besar, juga tidak didukung data satu orang. Ia lebih seperti irisan yang jelas, memperlihatkan jalur yang sering terabaikan dalam budaya internet Taiwan: kreator pertama menggunakan tubuh dan reaksinya sendiri meraih perhatian, lalu menggunakan perencanaan, pengeditan, dan produksi video mengubah perhatian jadi pekerjaan berkelanjutan.
 
-> **📝 Catatan kurator:** Seseorang yang berubah dari "menjadi bahan candaan penonton" menjadi "memutuskan bagaimana karyanya akan dilihat", di antara keduanya bukanlah popularitas, tetapi keseluruhan kemampuan kerja.
+> **📝 Catatan Kurator:** Seseorang dari "difilm untuk menggelitik penonton" ke "menentukan untuk karya bagaimana dilihat", di antaranya bukan ketenaran, tapi seluruh kemampuan kerja.
 
-## Penutup: Tiga Kali Tetap Tiga Kali
+## Penutup: San Du Tetaplah San Du
 
-Kisah Tiga Kali C bisa dimulai dari sebuah kamar mandi yang sangat dingin, atau dari sebuah saluran dengan jutaan langganan. Yang pertama menjelaskan bagaimana nama diingat, yang kedua menjelaskan bagaimana perhatian terakumulasi. Yang sebenarnya menghubungkan keduanya adalah Xie Meng-hang yang berulang kali memasukkan dirinya ke dalam berbagai pertanyaan visual.
+Cerita San Du C bisa dimulai dari kamar mandi yang sangat dingin, juga bisa dari saluran sejuta langganan. Yang pertama menjelaskan bagaimana nama diingat, yang kedua menjelaskan bagaimana perhatian terakumulasi. Yang benar-benar menghubungkan keduanya, adalah Hsieh Meng-hang berulang kali memasukkan diri ke masalah video yang berbeda.
 
-Ia bisa menjadi subjek penilaian dalam eksperimen jalan, juga bisa berada di belakang kamera dalam video musik. Ia bisa membuat orang tertawa dengan meme dan tantangan, namun juga harus menangani lalu lintas, komentar negatif, hambatan, dan irama kerja. Ini bukan sekadar catatan "aura selebriti", tetapi bagian dari profesi pencipta itu sendiri.
+Ia bisa jadi orang yang dinilai dalam eksperimen pakaian jalanan, juga bisa berdiri di belakang kamera di video musik. Bisa pakai meme dan tantangan bikin orang tertawa, juga harus urus trafik, hater, hambatan, dan ritme kerja. Ini bukan catatan kaki "aura selebritas internet", melainkan profesi kreator itu sendiri.
 
-Jadi, Tiga Kali C bukan hanya pemilik nama "Tiga Kali". Ia lebih seperti contoh pekerjaan dari budaya internet Taiwan: mengubah leluasa pribadi menjadi karakter publik, kemudian memecah karakter publik itu kembali menjadi perencanaan, produksi, pengeditan, dan kolaborasi. Dari air dingin di 3 derajat Celsius, hingga pemotongan terakhir sebelum video online, jalan ini tidak pernah diselesaikan oleh satu ide ajaib.
+Jadi, San Du C bukan hanya pemilik nama "San Du". Lebih seperti satu sampel kerja dalam budaya internet Taiwan: mengubah lelucon pribadi jadi peran publik, lalu memecah peran publik itu kembali jadi perencanaan, pengambilan gambar, pengeditan, dan kolaborasi. Dari air dingin 3 derajat Celsius, ke pengeditan terakhir sebelum video tayang, jalan ini dari awal bukan lewat satu ide ajaib.
 
 ## Referensi
 
-[^1]: [2021百大網紅三度　熱愛工作和粉絲一起成長｜銘報即時新聞](https://mol.mcu.edu.tw/2021%E7%99%BE%E5%A4%A7%E7%B6%B2%E7%B4%85%E4%B8%89%E5%BA%A6%E3%80%80%E7%86%B1%E6%84%9B%E5%B7%A5%E4%BD%9C%E5%92%8C%E7%B2%89%E7%B5%B2%E4%B8%80%E8%B5%B7%E6%88%90%E9%95%B7/) — lihat data tambahan di dalam tautan asli
+[^1]: [2021 Top 100 Internet Celebrities San Du: Loving Work and Growing with Fans | Ming Bao Breaking News](https://mol.mcu.edu.tw/2021%E7%99%BE%E5%A4%A7%E7%B6%B2%E7%B4%85%E4%B8%89%E5%BA%A6%E3%80%80%E7%86%B1%E6%84%9B%E5%B7%A5%E4%BD%9C%E5%92%8C%E7%B2%89%E7%B5%B2%E4%B8%80%E8%B5%B7%E6%88%90%E9%95%B7/) — Lihat detail di isi tautan asli
 
-[^2]: [從美髮學徒到百萬YouTuber！三度C的全職創作之路《KOL經濟學》｜1111 人力銀行](https://www.1111.com.tw/news/jobns/159537) — lihat data tambahan di dalam tautan asli
+[^2]: [From Hairdressing Apprentice to Million-Sub YouTuber! San Du C's Full-Time Creation Path "KOL Economics" | 1111 Job Bank](https://www.1111.com.tw/news/jobns/159537) — Lihat detail di isi tautan asli
 
-[^3]: [8萬潮牌vs.1500元穿搭給女生選 實測結果網紅崩潰：「長相」問題｜東森娛樂](https://ent.ebc.net.tw/buzz/122430) — lihat data tambahan di dalam tautan asli
+[^3]: [80k Trendy Brand vs 1500 Outfit for Girls to Choose: Test Results Influencer Collapses: "Appearance" Issue | ETtoday Entertainment](https://ent.ebc.net.tw/buzz/122430) — Lihat detail di isi tautan asli
 
-[^4]: [8萬潮牌vs.1500元穿搭給女生選 實測結果網紅崩潰：「長相」問題｜Yahoo新聞轉載](https://tw.news.yahoo.com/8%E8%90%AC%E6%BD%AE%E7%89%8Cvs-1500%E5%85%83%E7%A9%BF%E6%90%AD%E7%B5%A6%E5%A5%B3%E7%94%9F%E9%81%B8-%E5%AF%A6%E6%B8%AC%E7%B5%90%E6%9E%9C%E7%B6%B2%E7%B4%85%E5%B4%A9%E6%BD%B0-%E9%95%B7%E7%9B%B8-%E5%95%8F%E9%A1%8C-095458302.html) — laporan berita Yahoo
+[^4]: [80k Trendy Brand vs 1500 Outfit for Girls to Choose: Test Results Influencer Collapses: "Appearance" Issue | Yahoo News Repost](https://tw.news.yahoo.com/8%E8%90%AC%E6%BD%AE%E7%89%8Cvs-1500%E5%85%83%E7%A9%BF%E6%90%AD%E7%B5%A6%E5%A5%B3%E7%94%9F%E9%81%B8-%E5%AF%A6%E6%B8%AC%E7%B5%90%E6%9E%9C%E7%B6%B2%E7%B4%85%E5%B4%A9%E6%BD%B0-%E9%95%B7%E7%9B%B8-%E5%95%8F%E9%A1%8C-095458302.html) — Liputan Yahoo News
 
-[^5]: [紀馨喬（喬喬兒QQE）〈流星劃過〉｜佈魯克影像文化有限公司](https://m9535453m.com/631/) — lihat data tambahan di dalam tautan asli
+[^5]: [Ji Xin-qiao (Qiao Qiao Er QQE) "Liu Xing Hua Guo" | Brook Imaging Culture Ltd.](https://m9535453m.com/631/) — Lihat detail di isi tautan asli
 
-[^6]: [回春丹〈鮮花〉｜偽音樂錄影帶 MV｜佈魯克影像文化有限公司](https://m9535453m.com/626/) — lihat data tambahan di dalam tautan asli
+[^6]: [Hui Chun Dan "Xian Hua" | Fake Music Video MV | Brook Imaging Culture Ltd.](https://m9535453m.com/626/) — Lihat detail di isi tautan asli
 
-[^7]: [經典90 鶯歌老街攝影之夜｜活動紀錄｜佈魯克影像文化有限公司](https://m9535453m.com/643/) — lihat data tambahan di dalam tautan asli
+[^7]: [Classic 90 Yingge Old Street Photography Night | Event Record | Brook Imaging Culture Ltd.](https://m9535453m.com/643/) — Lihat detail di isi tautan asli
 
-[^8]: [賽鴿大亨｜品牌形象影片｜佈魯克影像文化有限公司](https://m9535453m.com/649/) — lihat data tambahan di dalam tautan asli
+[^8]: [Racing Pigeon Tycoon | Brand Image Video | Brook Imaging Culture Ltd.](https://m9535453m.com/649/) — Lihat detail di isi tautan asli
 
 ### Lisensi Gambar
 
-Gambar menggunakan [File:'20210501 Taipei Night Skyline.jpg](https://commons.wikimedia.org/wiki/File:%2720210501_Taipei_Night_Skyline.jpg) dari Wikimedia Commons, foto oleh Mao Mao Da Xiao Ye, dilisensikan [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). Gambar disematkan menggunakan URL langsung Wikimedia Commons, tidak diunduh, tidak dimodifikasi, dan tidak menyimpan gambar ke dalam direktori `public/article-images/` Taiwan.md.
+Gambar menggunakan Wikimedia Commons [File:'20210501 Taipei Night Skyline.jpg](https://commons.wikimedia.org/wiki/File:%2720210501_Taipei_Night_Skyline.jpg), penulis Mao Mao Da Shao Ye (毛貓大少爺), lisensi [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). Gambar disematkan dengan tautan panas Wikimedia Commons, tidak diunduh, tidak dimodifikasi, juga tidak disimpan ke `public/article-images/` Taiwan.md.
