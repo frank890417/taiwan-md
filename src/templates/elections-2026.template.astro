@@ -131,6 +131,8 @@ const officialResourceUrls = {
   // 2026 選舉工具箱（站方首頁橫幅寫的 /2026election 是 404，可開的是這個）
   tfc: 'https://tfc-taiwan.org.tw/election2026/',
   cofacts: 'https://cofacts.tw/',
+  // 報導者觀測站：立委與六都議員發言提案（首頁可切立法院／六都議會）
+  lawmaker: 'https://lawmaker.twreporter.org/',
 };
 
 // 只有部分語言有完整文案，其他語言退回 en（鍵是語言代碼）
@@ -366,6 +368,12 @@ const electionCopy: Record<string, ElectionCopy> = {
           url: officialResourceUrls.cofacts,
           desc: 'g0v 群眾外包 + LINE 訊息查證',
           icon: '✅',
+        },
+        {
+          name: '報導者觀測站',
+          url: officialResourceUrls.lawmaker,
+          desc: '報導者：立委與六都議員的發言、提案紀錄，議員資料涵蓋 2022 年 12 月上任至 2026 年 9 月',
+          icon: '🎙️',
         },
       ],
     },
@@ -636,6 +644,12 @@ const electionCopy: Record<string, ElectionCopy> = {
           desc: 'g0v crowdsourced LINE message fact-checking bot',
           icon: '✅',
         },
+        {
+          name: '報導者觀測站 (The Reporter)',
+          url: officialResourceUrls.lawmaker,
+          desc: 'Speeches and bills by legislators and by councilors of the six special municipalities; councilor records run from December 2022 to September 2026',
+          icon: '🎙️',
+        },
       ],
     },
     verify: {
@@ -893,6 +907,12 @@ const electionCopy: Record<string, ElectionCopy> = {
           desc: 'g0v によるLINEメッセージのクラウドソース型検証',
           icon: '✅',
         },
+        {
+          name: '報導者観測站（The Reporter）',
+          url: officialResourceUrls.lawmaker,
+          desc: '立法委員と六直轄市議員の発言・提案の記録。議員分は2022年12月の就任から2026年9月まで',
+          icon: '🎙️',
+        },
       ],
     },
     verify: {
@@ -1149,6 +1169,12 @@ const electionCopy: Record<string, ElectionCopy> = {
           url: officialResourceUrls.cofacts,
           desc: 'g0v의 LINE 메시지 크라우드소싱 검증 봇',
           icon: '✅',
+        },
+        {
+          name: '보도자 관측소(報導者觀測站)',
+          url: officialResourceUrls.lawmaker,
+          desc: '입법위원과 6개 직할시 의원의 발언·법안 기록. 의원 자료는 2022년 12월 취임부터 2026년 9월까지',
+          icon: '🎙️',
         },
       ],
     },
@@ -1425,6 +1451,12 @@ const electionCopy: Record<string, ElectionCopy> = {
           desc: 'Vérification participative g0v + bot LINE',
           icon: '✅',
         },
+        {
+          name: 'Observatoire de The Reporter (報導者觀測站)',
+          url: officialResourceUrls.lawmaker,
+          desc: 'Interventions et propositions des législateurs et des conseillers des six municipalités spéciales ; pour les conseillers, de décembre 2022 à septembre 2026',
+          icon: '🎙️',
+        },
       ],
     },
     verify: {
@@ -1698,6 +1730,12 @@ const electionCopy: Record<string, ElectionCopy> = {
           url: officialResourceUrls.cofacts,
           desc: 'Verificación colaborativa g0v + bot de LINE',
           icon: '✅',
+        },
+        {
+          name: 'Observatorio de The Reporter (報導者觀測站)',
+          url: officialResourceUrls.lawmaker,
+          desc: 'Intervenciones y propuestas de legisladores y de concejales de los seis municipios especiales; los concejales, de diciembre de 2022 a septiembre de 2026',
+          icon: '🎙️',
         },
       ],
     },
@@ -3160,7 +3198,7 @@ type IaCopy = {
     intro: string;
     internal: string;
     groups: Record<
-      'polling' | 'lists' | 'money' | 'rumors' | 'views' | 'history',
+      'polling' | 'lists' | 'record' | 'money' | 'rumors' | 'views' | 'history',
       string
     >;
     voteSearch: { name: string; desc: string };
@@ -3277,6 +3315,7 @@ const iaCopy: Record<UpLang, IaCopy> = {
       groups: {
         polling: '查投票所',
         lists: '查公報與名單',
+        record: '查現任問政',
         money: '查政治獻金',
         rumors: '查謠言與深偽',
         views: '看多方說法',
@@ -3422,6 +3461,7 @@ const iaCopy: Record<UpLang, IaCopy> = {
       groups: {
         polling: 'Find a polling station',
         lists: 'Gazettes and candidate lists',
+        record: "Incumbents' records",
         money: 'Political donations',
         rumors: 'Rumors and deepfakes',
         views: 'Different perspectives',
@@ -3566,6 +3606,7 @@ const iaCopy: Record<UpLang, IaCopy> = {
       groups: {
         polling: '投票所を調べる',
         lists: '公報と候補者名簿',
+        record: '現職の議会活動',
         money: '政治献金を調べる',
         rumors: 'デマとディープフェイク',
         views: 'さまざまな見方',
@@ -3708,6 +3749,7 @@ const iaCopy: Record<UpLang, IaCopy> = {
       groups: {
         polling: '투표소 찾기',
         lists: '선거공보와 후보 명단',
+        record: '현직 의정 활동',
         money: '정치헌금 확인',
         rumors: '루머와 딥페이크',
         views: '다양한 관점',
@@ -3873,6 +3915,7 @@ const iaCopy: Record<UpLang, IaCopy> = {
       groups: {
         polling: 'Trouver un bureau de vote',
         lists: 'Bulletins et listes de candidats',
+        record: 'Bilan des sortants',
         money: 'Dons politiques',
         rumors: 'Rumeurs et deepfakes',
         views: 'Points de vue',
@@ -4046,6 +4089,7 @@ const iaCopy: Record<UpLang, IaCopy> = {
       groups: {
         polling: 'Encontrar el lugar de votación',
         lists: 'Gacetas y listas de candidatos',
+        record: 'Historial de los salientes',
         money: 'Donaciones políticas',
         rumors: 'Rumores y deepfakes',
         views: 'Distintas perspectivas',
@@ -4527,6 +4571,11 @@ const toolGroups: Array<{
       ...ext(resourceByUrl('web.cec.gov.tw')),
       subpage('candidates'),
     ],
+  },
+  {
+    key: 'record',
+    icon: 'mic',
+    links: [...ext(resourceByUrl('lawmaker.twreporter'))],
   },
   {
     key: 'money',
