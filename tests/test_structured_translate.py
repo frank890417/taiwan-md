@@ -803,3 +803,22 @@ def test_translate_footnotes_single_record_with_wrong_id_still_fails():
 
     with pytest.raises(RuntimeError, match="JSON shape fail"):
         MODULE.translate_footnotes(defs, "hi", Backend(), {})
+
+
+def test_strip_cjk_paren_gloss_removes_bracketed_original():
+    # 2026-11-26 babel-nightly 實測形狀：譯文在前、括號裡是原文對照
+    assert MODULE.strip_cjk_paren_gloss(
+        "Son roman « Ghost Place » (《鬼地方》), publié en 2019"
+    ) == "Son roman « Ghost Place », publié en 2019"
+    assert MODULE.strip_cjk_paren_gloss(
+        "получил премию «Золотой колокол» (走鐘獎) как автор"
+    ) == "получил премию «Золотой колокол» как автор"
+    assert MODULE.strip_cjk_paren_gloss("Formato (Joe是要對決) famoso") == "Formato famoso"
+
+
+def test_strip_cjk_paren_gloss_leaves_other_text_alone():
+    # 括號裡沒有漢字 → 不動；裸留原題不是夾註 → 不動（交給重翻）
+    assert MODULE.strip_cjk_paren_gloss("Born in 1976 (Changhua)") == "Born in 1976 (Changhua)"
+    assert MODULE.strip_cjk_paren_gloss("Формат «Joe是要對決»") == "Формат «Joe是要對決»"
+    # 整句就是夾註時不剝成空字串
+    assert MODULE.strip_cjk_paren_gloss("(鬼地方)") == "(鬼地方)"

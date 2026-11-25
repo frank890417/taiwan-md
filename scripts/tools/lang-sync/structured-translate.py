@@ -535,6 +535,23 @@ def _accept_frontmatter_payload(result) -> bool:
     )
 
 
+# 2026-11-26 babel-nightly：patch 引擎 24 小時內 11 次敗在「description contains
+# CJK」，全是 People 篇 description-only 更新。實測模型兩種留字：(a) 括號夾註
+# 「« Ghost Place » (《鬼地方》)」「премию «Золотой колокол» (走鐘獎)」——譯文已在
+# 括號前面，括號只是原文對照，機械剝掉不損意思；(b) 裸留原題「Формат «Joe是要對決»」
+# ——不能機械處理，只能帶著具體字串重翻。本函式只處理 (a)。
+_CJK_PAREN_GLOSS = re.compile(r"\s*[（(][^()（）]*[一-鿿][^()（）]*[)）]")
+_CJK_RUN = re.compile(r"[一-鿿][一-鿿《》「」・·]*")
+
+
+def strip_cjk_paren_gloss(text: str) -> str:
+    """剝掉內容含漢字的括號夾註；括號外沒有非漢字內容（整句就是夾註）時不動。"""
+    stripped = _CJK_PAREN_GLOSS.sub("", text)
+    if not stripped.strip() or stripped == text:
+        return text
+    return stripped
+
+
 def translate_frontmatter(zh_fm: dict, zh_content: str, zh_path: str, lang: str,
                            backend, metrics: dict) -> str:
     """Phase F. 只把 title/description/tags 送模型；其餘欄位工具機械複製，永遠
@@ -600,18 +617,27 @@ def translate_frontmatter(zh_fm: dict, zh_content: str, zh_path: str, lang: str,
                 )
 
         leaks = []
+        leaked_bits: list[str] = []
         if lang not in ("ja", "ko"):
             for fk in ("title", "description", "imageAlt"):
+                if fk in data:
+                    data[fk] = strip_cjk_paren_gloss(str(data[fk]))
                 if fk in data and _verify.has_cjk(str(data[fk])):
                     leaks.append(fk)
+                    leaked_bits += _CJK_RUN.findall(str(data[fk]))
             if "tags" in data and any(_verify.has_cjk(str(t)) for t in data.get("tags", [])):
                 leaks.append("tags")
         if not leaks or content_attempt == 2:
             break
+        bits = "、".join(dict.fromkeys(leaked_bits))[:200]
         content_retry_system = system + (
             f"\n\nYour previous answer left untranslated zh-TW characters inside: "
-            f"{', '.join(leaks)}. Re-translate ALL fields fully into {lang_name} — "
-            "no Chinese characters should remain anywhere in the output."
+            f"{', '.join(leaks)}"
+            + (f" (these strings: {bits})" if bits else "")
+            + f". Re-translate ALL fields fully into {lang_name}: translate or "
+            "transliterate titles of books, shows and awards, and do not keep the "
+            "Chinese original in brackets or quotes — no Chinese characters should "
+            "remain anywhere in the output."
         )
 
     lines: list[str] = []
