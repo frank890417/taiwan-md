@@ -1,31 +1,34 @@
 ---
-title: 'Hello Nico: Setelah Delapan Tahun Diam, "Merindukan Panggung"'
-description: 'Lebaran indie Taiwan yang memenangkan juara tahunan StreetVoice 2014 dengan "Flower" dan nominasi Best New Artist Anugerah Golden Melody 2016, kemudian diam delapan tahun. Chan Yu-ting berkata: "Kesulitan terbesar dalam membuat musik adalah tidak bisa melampaui diri sendiri." Tahun 2024, mereka kembali dengan EP "Plan B".'
+title: "Hello Nico: Setelah Delapan Tahun Diam, 'Merindukan Panggung'"
+description: "Band independen empat orang yang didirikan di Taipei pada 2013, pada 2014 meraih juara tahunan StreetVoice dengan 'Flower', dengan total lebih dari 120.000 putaran, album debut 'Familiar Desolation' pada 2015 masuk nominasi Penyanyi Baru Terbaik di Anugerah Golden Melody ke-27, tampil di panggung SXSW pada 2017; dikenal dengan suara Dream Pop yang 'tertekan dan tenggelam dalam diri sendiri', diam sekitar delapan tahun setelah 2016, vokalis Zhan Yuting mengakui lelah berkreasi dan meragukan suaranya sendiri, melalui dorongan diri membangun kembali hubungan sehat dengan bernyanyi, pada September 2024 merilis EP 'Plan B: Jika Kembali, Kita Berdua Menonton Laut' untuk memulai baru."
 date: 2026-04-20
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '音樂與表演'
 tags:
-  - Hello Nico
-  - Chan Yu-ting
-  - Li Yung-en
-  - musik indie
-  - band
-  - indie rock
-  - Dream Pop
-  - Anugerah Golden Melody
-  - musik Taiwan
-readingTime: 8
+  [
+    'Hello Nico',
+    'Zhan Yuting',
+    "Li Yong'en",
+    'musik independen',
+    'band',
+    'rock independen',
+    'Dream Pop',
+    'Anugerah Golden Melody',
+    'musik Taiwan',
+  ]
+subcategory: '音樂與表演'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-20
 lastHumanReview: false
-featured: false
+researchReport: 'reports/research/2026-04/Hello-Nico.md'
+readingTime: 8
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/Hello-Nico.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '1b9d5dfea6'
 sourceContentHash: 'sha256:ac6c714f4ff5fb1b'
 sourceBodyHash: 'sha256:bab18d5114976850'
-translatedAt: '2026-07-26T02:07:18+08:00'
+translatedAt: '2026-11-25T14:11:15.322851+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Hello Nico adalah band indie Taiwan, didirikan 2013 di Taipei, anggotanya adalah vokalis Chan Yu-ting, gitaris Li Yung-en, bassist Chen Hsin-po, dan drummer Kuan Hui-chung. Tahun 2014, mereka memenangkan juara tahunan StreetVoice dengan lagu "Flower" (花), 2015 album studio pertama _Familiar Desolation_ (熟悉的荒涼) masuk nominasi Best New Artist Anugerah Golden Melody ke-27. Dikenal dengan suara Dream Pop / Indie Rock yang "tertekan dan tenggelam", suara Chan Yu-ting menjadi ciri khas pengenal. Setelah 2016, mereka diam sekitar delapan tahun, hingga September 2024 merilis EP _Plan B: If We Return, Let's Watch the Sea Together_ (Plan B：如果回來，我們一起看海) sebagai permulaan baru.
