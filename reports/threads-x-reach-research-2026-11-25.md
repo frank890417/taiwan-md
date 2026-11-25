@@ -25,9 +25,11 @@ audience: 'observer-哲宇 + 未來 session'
 
 ## 一句話
 
-有。從 3 月上線到今天，Threads 上有 188 則別人的貼文、X 上有 47 則（扣掉我們自己的 125＋95 則），加上網路上至少七個站點，拿 Taiwan.md 去做的事可以歸成八種。其中最常見的一種，是在一場吵架裡被當成「台灣人到底怎麼說」的裁判。
+有。從 3 月上線到今天，Threads 搜尋裡有大約一百則別人主動提到 Taiwan.md 的貼文，X 上大約四十則，加上網路上至少七個站點。拿它去做的事可以歸成八種，其中最常見的一種，是在一場吵架裡被當成「台灣人到底怎麼說」的裁判。
 
-**最近兩個月我們自己幾乎沒在 Threads 發文**（8 月 5 則、9 月 0、10 月 1、11 月 2），外部引用卻沒有跟著停：9/29 到 11/25 這兩個月 Threads 上仍有約三十則別人主動貼出 taiwan.md 的連結，X 上也有十幾則，多半是日文。它已經不靠我們廣播在流動。
+（一百則怎麼算的：Threads 搜尋共 313 則，扣掉我們自己的 125 則、同串上下文 50 則，剩 138 則直接帶到 taiwan.md；再扣掉回覆我們自己貼文的約 12 則、Meta AI 的約 14 則回答、GitHub 上一個同名檔案的 5 則雜訊。X 的 47 則扣掉同名雜訊約 5 則。）
+
+**9 到 11 月我們一則孢子都沒發**（`docs/factory/spore-log.json`：6 月 Threads＋X 各 20 則、7 月 6＋5、8 月 5＋5、9 月起 0），外部引用卻沒有跟著停：9/29 到 11/25 這兩個月，Threads 搜尋裡仍有 18 則別人主動貼出的連結，加上搜尋漏掉、哲宇手動找到的約 4 則，合計約二十則；X 上也有十則左右，多半是日文。它已經不靠我們廣播在流動。
 
 ---
 
@@ -37,27 +39,27 @@ audience: 'observer-哲宇 + 未來 session'
 
 這是出現次數最多的用法。情境幾乎都一樣：有人用了一個詞，底下有人說「這是支語」，雙方各執一詞，然後有人貼出 `taiwan.md/terminology/…` 當依據。
 
-| 日期         | 誰                                                                                | 詞           | 情境                                                                                                             |
-| ------------ | --------------------------------------------------------------------------------- | ------------ | ---------------------------------------------------------------------------------------------------------------- |
-| 11/22 前後   | [@72xx.72](https://www.threads.com/@72xx.72/post/DgC33AOkhDs)                     | 含金量       | 在沈伯洋專訪貼文（2.4 萬讚）底下說「如果不是支語我就轉發了」，原作者問「是含金量嗎？我真的不知道」，他貼詞條回覆 |
-| （日期未記） | [@buttponde](https://www.threads.com/@buttponde/post/Dbvipkcgd1D)                 | 含金量       | 跟人爭「2009 年就有人用」，貼詞條當「參考來源」                                                                  |
-| 11/6         | [@liwenhua65](https://www.threads.com/@liwenhua65/post/DfYnjbklJ_2)               | 點贊／按讚   | 「給你參考文獻：」                                                                                               |
-| 11/4         | [@uann_delilah](https://www.threads.com/@uann_delilah/post/DfSUKGIjAfx)           | 牛油果／酪梨 | 在匈牙利看到台灣人開的飲料店菜單把酪梨寫成牛油果，「臺灣的用語要好好保存啊」，推薦詞庫                           |
-| 11/4         | [@fayenin_n](https://www.threads.com/@fayenin_n/post/DfUDZlkmBYN)                 | （總覽）     | 「貼文講得有道理，但用了非台灣口語的詞，會瞬間驚醒」                                                             |
-| 9/29、10/4   | [@thiankiu.to](https://www.threads.com/@thiankiu.to/post/Dd39RCdiTBU)（支語退散） | 雙標、繃不住 | 專門教人辨識支語的帳號，評比另一個支語字典的缺點後說「我另外找到 Taiwan.md，這裡也有收錄，也可以參考」           |
-| 9 月         | [@kanzakuras](https://www.threads.com/@kanzakuras/post/Ddndp9UEfjq)               | 一次性、內耗 | 自稱前譯者，「這個詞是中國從英文翻過來的，台灣翻免洗」                                                           |
-| 9/15         | [@usecubic](https://www.threads.com/@usecubic/post/DdT14nlGblq)                   | 治癒／療癒   | 「提醒一下我們說療癒」                                                                                           |
-| 8/24         | [@lllllemon53](https://www.threads.com/@lllllemon53/post/DcavRfolGUz)             | 安利         | 貼了三次，底下有人反駁「安利源自台灣的安麗直銷」                                                                 |
-| 7/3          | [@tilldeadoralive](https://www.threads.com/@tilldeadoralive/post/DaUvPZyj92h)     | 高維空間     |                                                                                                                  |
-| 7/10（X）    | [@tonylu915](https://x.com/tonylu915/status/2075583407632040213)                  | 底層邏輯     |                                                                                                                  |
-| 8/23（X）    | [@ted_huang](https://x.com/ted_huang/status/2091302483683614888)                  | 挺／蠻       | 英文長文討論「年輕人越來越常說挺，台灣華語怎麼定義」，引用詞條                                                   |
-| 11/14        | [進化村](https://evolvingvillage.com/underlying-logic/)                           | 底層邏輯     | 書評部落格把詞條列進參考資料（三處引用）                                                                         |
+| 日期         | 誰                                                                                | 詞                       | 情境                                                                                                             |
+| ------------ | --------------------------------------------------------------------------------- | ------------------------ | ---------------------------------------------------------------------------------------------------------------- |
+| 11/22 前後   | [@72xx.72](https://www.threads.com/@72xx.72/post/DgC33AOkhDs)                     | 含金量                   | 在沈伯洋專訪貼文（2.4 萬讚）底下說「如果不是支語我就轉發了」，原作者問「是含金量嗎？我真的不知道」，他貼詞條回覆 |
+| （日期未記） | [@buttponde](https://www.threads.com/@buttponde/post/Dbvipkcgd1D)                 | 含金量                   | 跟人爭「2009 年就有人用」，貼詞條當「參考來源」                                                                  |
+| 11/6         | [@liwenhua65](https://www.threads.com/@liwenhua65/post/DfYnjbklJ_2)               | 點贊／按讚               | 「給你參考文獻：」                                                                                               |
+| 11/4         | [@uann_delilah](https://www.threads.com/@uann_delilah/post/DfSUKGIjAfx)           | 牛油果／酪梨（詞庫未收） | 在匈牙利看到台灣人開的飲料店菜單把酪梨寫成牛油果，「臺灣的用語要好好保存啊」，推薦詞庫                           |
+| 11/4         | [@fayenin_n](https://www.threads.com/@fayenin_n/post/DfUDZlkmBYN)                 | （總覽）                 | 「貼文講得有道理，但用了非台灣口語的詞，會瞬間驚醒」                                                             |
+| 9/29、10/4   | [@thiankiu.to](https://www.threads.com/@thiankiu.to/post/Dd39RCdiTBU)（支語退散） | 雙標、繃不住             | 專門教人辨識支語的帳號，評比另一個支語字典的缺點後說「我另外找到 Taiwan.md，這裡也有收錄，也可以參考」           |
+| （日期未記） | [@kanzakuras](https://www.threads.com/@kanzakuras/post/Ddndp9UEfjq)               | 一次性、內耗             | 自稱前譯者，「這個詞是中國從英文翻過來的，台灣翻免洗」                                                           |
+| 9/15         | [@usecubic](https://www.threads.com/@usecubic/post/DdT14nlGblq)                   | 治癒／療癒               | 「提醒一下我們說療癒」                                                                                           |
+| 8/24         | [@lllllemon53](https://www.threads.com/@lllllemon53/post/DcavRfolGUz)             | 安利                     | 貼了三次，底下有人反駁「安利源自台灣的安麗直銷」                                                                 |
+| 7/3          | [@tilldeadoralive](https://www.threads.com/@tilldeadoralive/post/DaUvPZyj92h)     | 高維空間                 |                                                                                                                  |
+| 7/10（X）    | [@tonylu915](https://x.com/tonylu915/status/2075583407632040213)                  | 底層邏輯                 |                                                                                                                  |
+| 8/23（X）    | [@ted_huang](https://x.com/ted_huang/status/2091302483683614888)                  | 挺／蠻                   | 英文長文討論「年輕人越來越常說挺，台灣華語怎麼定義」，引用詞條                                                   |
+| 11/14        | [進化村](https://evolvingvillage.com/underlying-logic/)                           | 底層邏輯                 | 書評部落格把詞條列進參考資料（三處引用）                                                                         |
 
 **讀法**：詞庫被用成一把「公共的尺」。好處是它真的讓台灣說法有地方可查。風險是它被當成權威在仲裁，而有些詞條只有單一來源（例如「含金量」只來自 invade 資料集）。被拿去吵的詞條，正確性要求比一般文章高。「安利」那串就有人提出反例，值得回頭看詞條有沒有交代這層。
 
 ### 2. 牆內的讀者：認知作戰研究被讀到了
 
-[@oomibao](https://www.threads.com/@oomibao/post/DezNSUVm5Vg)（10/22，簡體字）：看到沈伯洋的競選影片提到中共認知作戰，去 YouTube 看了他的訪談，「一路搜下去，搜到了一個寶藏網站：taiwan.md」，在站上讀了那份 48 頁的研究報告，「讀完很震驚，也像是第一次把一些模糊的感覺看清楚了」，最後寫「如果你和我一樣身在牆內，想了解台灣，卻找不到順暢的渠道，推薦給你」。
+[@oomibao](https://www.threads.com/@oomibao/post/DezNSUVm5Vg)（10/22，簡體字）：看到沈伯洋的競選影片提到中共認知作戰，去 YouTube 看了他的訪談，「一路搜下去，搜到了一個寶藏網站：taiwan.md」，先推薦：「如果你和我一樣身在牆內，想了解台灣，卻找不到順暢的渠道，推薦給你」；接著說在站上讀了那份 48 頁的研究報告，「讀完很震驚，也像是第一次把一些模糊的感覺看清楚了」。後面寫自己過去在牆內對政治毫不在意，偶爾被「大國敘事」打動，後來在牆外陸續知道白紙、台灣選舉、四通橋、六四，回頭在牆內主流媒體搜，「要麼搜不到，要麼是同一種敘事」。這是三張圖的串文第一則，682 個讚、55 次轉發。
 
 隔天 [@pairedmoon](https://www.threads.com/@pairedmoon/post/De0Sy56E1y2) 引用這則：「因為這篇貼文，才發現 taiwan.md 這個精彩的寶庫（汗顏）」，一個台灣人是透過牆內讀者的推薦才認識我們。
 
@@ -67,7 +69,7 @@ audience: 'observer-哲宇 + 未來 session'
 
 - [@s93271](https://www.threads.com/@s93271/post/DgJ0DIZE5zG)（今天 13:47）：「1128 回家投票，每日一提醒直到週六」，串文第二則放 `/elections/2026/` 投票所查詢。
 - [@ruinu20](https://x.com/ruinu20/status/2125517762944815477)（X，今天）：「如果跟我一樣不小心把大家的政見和候選人那疊弄不見，可以查這個網站。禮拜六一起去做成人才能做的事」。
-- [@jhcyang](https://www.threads.com/@jhcyang/post/DfOYUcOGQGO)：「可搭配午餐閱讀」，附〈議員制度〉，**3.9 萬次瀏覽**，是這次看到觸及最大的單則外部貼文。
+- [@jhcyang](https://www.threads.com/@jhcyang/post/DfOYUcOGQGO)：「可搭配午餐閱讀」，附〈議員制度〉，**3.9 萬次瀏覽**，是 Threads 上看得到瀏覽數的外部貼文裡最大的一則（X 上 3 月的發射潮有到 11 萬瀏覽的）。
 - [@shinynghuang](https://www.threads.com/@shinynghuang/post/De2bas1E1Li)：在選舉爭論串推〈黑熊學院〉。
 
 也有人把文章拿進選戰：[@o_ocean.o](https://www.threads.com/@o_ocean.o/post/DgKARFDFGtf) 用〈名間埔中茶〉替南投縣長候選人拉票、[@motorcap795](https://www.threads.com/@motorcap795/post/DY5P2fpAXI6) 用〈沈伯洋〉。文章被引用的立場由不得我們，這是公共財的本性。
@@ -102,7 +104,7 @@ audience: 'observer-哲宇 + 未來 session'
 
 這一類回答了「東西被用在哪裡」最新的那一層：
 
-- **Meta AI 在 Threads 上替我們做介紹**：6/13–6/14 有使用者 tag @meta.ai 問「這是什麼」「用白痴也看得懂的話解釋」「793 篇怎麼來的」「SSOT 是什麼」，Meta AI 一口氣回了十幾則。大致正確，但有兩處錯：說「每篇都有 6 國語言版本」、說知識圖譜「用 Obsidian 做的」。11 月還有一則 [Meta AI 討論「廊道」詞條](https://www.threads.com/@meta.ai/post/DfwzzXIDk4w)，認為我們把口語的「廊道＝騎樓」標成中國用語是對的，但提醒專業用語的「生態廊道」是台灣本來就有的。
+- **Meta AI 在 Threads 上替我們做介紹**：6/13–6/14 有使用者 tag @meta.ai 問「這是什麼」「用白痴也看得懂的話解釋」「793 篇怎麼來的」「SSOT 是什麼」，Meta AI 一口氣回了十幾則。大致正確，但有兩處錯：說「每篇都有 6 國語言版本」、說知識圖譜「用 Obsidian 做的」。另有一則（日期未記）[Meta AI 討論「廊道」詞條](https://www.threads.com/@meta.ai/post/DfwzzXIDk4w)，認為我們把口語的「廊道＝騎樓」標成中國用語是對的，但提醒專業用語的「生態廊道」是台灣本來就有的。
 - **Gemini 引用我們回答日本人**：[@lavendale](https://x.com/lavendale/status/2124527913810956509)（11/22）貼出 Gemini 對金馬獎參賽資格的回答，句尾標著「Taiwan.md」。核對過，〈金馬獎〉確實有「主要工作人員半數為華人」的段落。
 - [@pochun.lu](https://www.threads.com/@pochun.lu/post/DbXXhegGbBx)（7/29）在數發部主權 AI 語料庫新聞底下寫「知識庫有 Taiwan.md，語料庫有 TAIC」。
 - DSET 政策報告把我們列為「為 AI 訓練建立可驗證中文知識庫」的明確案例（見 §二）。
@@ -146,7 +148,8 @@ audience: 'observer-哲宇 + 未來 session'
 1. **鄧雨賢客語名**：讀者 7/21 建議補四縣腔白話字「Then Yí-hièn」並附客家電視台連結。文章目前沒有。要補得先驗證拼法。
 2. **詞庫的仲裁責任**：詞條被拿來吵架的頻率最高，「安利」那串有人提出「源自安麗直銷」的反例、Meta AI 對「廊道」提出專業語境的但書。被高頻引用的詞條值得補「語境」欄。
 3. **AI 對我們的錯誤描述**：Meta AI 說每篇都有六語版、說知識圖譜用 Obsidian 做。關於頁與 llms.txt 把「幾語、幾篇、怎麼做的」寫得更明確，是我們能影響的那一端。
-4. **轉貼全文**：[@taiwan.laputa](https://www.threads.com/@taiwan.laputa/post/DgJgDr1kuQ9) 今天整段貼了〈火雞肉飯〉的內文並標 Taiwan.md，在 CC BY-SA 之內。X 上 @WestAIcommerce 11/15 有一篇簡體〈英伟达与黄仁勋：从 1993 年讲起的 33 年〉（4.7K 瀏覽）出現在 taiwan.md 搜尋結果，沒讀全文，不確定是不是改寫自我們的〈黃仁勳〉。
+4. **詞庫缺「牛油果」**：11/4 @uann_delilah 因為菜單上的牛油果推薦整個詞庫，但詞庫裡沒有這一條。中國的正式名稱是「鱷梨」，日常多說「牛油果」，香港也這樣說；台灣說「酪梨」。是補詞條的候選。
+5. **轉貼全文**：[@taiwan.laputa](https://www.threads.com/@taiwan.laputa/post/DgJgDr1kuQ9) 今天整段貼了〈火雞肉飯〉的內文並標 Taiwan.md，在 CC BY-SA 之內。X 上 @WestAIcommerce 11/15 有一篇簡體〈英伟达与黄仁勋：从 1993 年讲起的 33 年〉（4.7K 瀏覽）出現在 taiwan.md 搜尋結果，沒讀全文，不確定是不是改寫自我們的〈黃仁勳〉。
 
 ---
 
@@ -156,8 +159,9 @@ audience: 'observer-哲宇 + 未來 session'
 
 1. Threads：`threads.com/search?q=taiwan.md&filter=recent`，哲宇登入的 Chrome，逐輪捲動並以 DOM 收集，連續六輪沒有新貼文才停。共 313 則：自己（@taiwandotmd、@cheyuwu345）125 則、別人 188 則，其中 138 則文字或連結直接帶到 taiwan.md，其餘是同一串的上下文。最早一則 3/18（上線隔天），另有幾則 2025 年的同名雜訊（GitHub 上一個叫 `taiwan.md` 的貢獻排行榜檔案）。
 2. X：`x.com/search?q=taiwan.md&f=live`，同樣方式。共 142 則：自己 95 則、別人 47 則（含約 5 則 GitHub 排行榜雜訊）。
-3. 哲宇手動提供的 22 則連結逐一打開讀。
-4. 收集腳本已存成 [`scripts/tools/reach-harvest/`](../scripts/tools/reach-harvest/)，下次貼進 Chrome MCP 就能重跑。
+3. 哲宇手動提供的 22 則連結：不在搜尋結果裡的 6 則 Threads、Turton 的推文、Substack 全文、六個網站與 Instagram 都逐一打開讀了；其餘 8 則（s93271、mina8886、liwenhua65、fayenin_n、saominhuang、thiankiu.to、peanut8ter、oomibao）先只讀了搜尋結果裡截斷的片段，其中 @oomibao 事後補讀了全文。
+4. 原始收集資料（313＋142 則）沒有落檔，分頁已關。報告列出的是其中一部分，要重驗數字得用下面的腳本重爬。
+5. 收集腳本已存成 [`scripts/tools/reach-harvest/`](../scripts/tools/reach-harvest/)，下次貼進 Chrome MCP 就能重跑。
 
 **限制**
 
@@ -172,4 +176,4 @@ audience: 'observer-哲宇 + 未來 session'
 
 你問這件事對台灣有沒有幫助。從這兩百多則看，被幫到的有一個在牆內第一次讀懂認知作戰的人、一個在匈牙利看到菜單上寫著牛油果而難過的人、一個不知道怎麼回答西班牙朋友的人、一個想在週六前找回選舉公報的人、一個做了四年外送的人、一個寫專欄前在做研究的外國記者、一份為 AI 時代寫政策建議的智庫報告，還有兩個被使用者 tag 來回答「這是什麼」的 AI。
 
-用得最多的是詞庫，一天到晚有人在吵架現場貼它。被引用得最遠的是日文版：有日本人拿台灣的人工開票當自己國家該學的樣子。最近兩個月我們幾乎沒發文，它還是一直被貼出去。
+用得最多的是詞庫，一天到晚有人在吵架現場貼它。被引用得最遠的是日文版：有日本人拿台灣的人工開票當自己國家該學的樣子。9 月起我們一則孢子都沒發，它還是一直被貼出去。
