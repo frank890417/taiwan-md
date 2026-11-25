@@ -1,6 +1,6 @@
 ---
-title: 'Thẩm Văn Trình: Từ nhân viên bảo trì máy bay tại Thanh Tuyền Cương đến "Song Kim" ca vương'
-description: 'Thẩm Văn Trình là nghệ sĩ hiếm hoi của Đài Loan sở hữu cả giải Kim Khúc và Kim Chung. Từ thợ sửa máy bay thời cuối chiến tranh Việt Nam đến ngôi sao âm nhạc, ông đã ghi dấu ấn bằng sự chân thành và hài hước.'
+title: 'Thẩm Văn Trình: Từ thợ máy tại Thanh Tuyền Cương đến ca sĩ đoạt giải Kim Khúc'
+description: 'Sinh năm 1954 tại Bidun, Đài Đông, ông có mẹ là người tộc Rukai. Sau khi theo học Trường Cơ khí Không quân và tốt nghiệp, ông làm việc tại sân bay Thanh Tuyền Cương để bảo dưỡng máy bay chiến đấu của quân đội Mỹ; nhà hàng tại căn cứ vào cuối Chiến tranh Việt Nam chính là nơi khơi nguồn cảm hứng âm nhạc của ông. Sau khi xuất ngũ, ông được Thái Chấn Nam phát hiện và phát hành album tiếng Đài đầu tiên mang tên "Tâm sự ai hay" vào năm 1982, đạt doanh số triệu bản nhờ các chợ đêm, công trường và đài phát thanh. Năm 1999, ông giành giải Nam ca sĩ nhạc phương ngữ xuất sắc nhất tại Giải Kim Khúc với album "Khởi trình"; đến năm 2013, ông tiếp tục nhận giải Người dẫn chương trình thực tế xuất sắc nhất tại Giải Kim Chung với "Bảo đảo ngư hất đại" (Đảo Đài Loan đánh cá rất lớn), trở thành nghệ sĩ hiếm hoi của Đài Loan sở hữu cả hai giải thưởng danh giá này. Năm 2026, ở tuổi 71, ông vẫn tuyên bố tái khởi động các chương trình kinh điển.'
 date: 2026-05-12
 category: 'People'
 tags:
@@ -8,10 +8,10 @@ tags:
     'Thẩm Văn Trình',
     'Giải Kim Khúc',
     'Giải Kim Chung',
-    'người Rukai',
-    'nhân viên bảo trì chiến tranh Việt Nam',
-    'âm nhạc Đài Loan',
-    'câu cá',
+    'Tộc Rukai',
+    'Thợ máy Chiến tranh Việt Nam',
+    'Âm nhạc Đài Loan',
+    'Câu cá',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md Contributors'
@@ -22,10 +22,10 @@ readingTime: 8
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/沈文程.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '1a696c19ef'
 sourceContentHash: 'sha256:3ccf8e3a350256dc'
 sourceBodyHash: 'sha256:9a3851545dcaaf3c'
-translatedAt: '2026-11-19T21:54:12+08:00'
+translatedAt: '2026-11-25T05:49:04.109784+00:00'
 ---
 
 ## Tóm tắt trong 30 giây

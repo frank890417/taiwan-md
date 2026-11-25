@@ -1,18 +1,18 @@
 ---
-title: 'Joeman: Từ bình luận giải đấu điện tử đến kênh triệu người theo dõi, người sáng tạo bền bỉ trước ống kính'
-description: 'Từ bình luận giải đấu điện tử và quản lý sản phẩm MSI, đến việc vận hành kênh với nội dung unboxing, so sánh, du lịch và chương trình nhóm; hành trình của Joeman cũng phản ánh cách YouTuber Taiwan điều chỉnh bản thân giữa lưu lượng, phân công, niềm tin và trách nhiệm công cộng.'
+title: 'Joeman: Từ bình luận viên Esports đến kênh triệu sub, người sáng tạo nội dung bền bỉ trước ống kính'
+description: 'Tên thật là Weng Chun-ming (Ông Tuấn Minh), ban ngày là quản lý sản phẩm của MSI, cuối tuần là bình luận viên Esports. Nhờ một video đập hộp đồ công nghệ vô tình gây sốt, anh đã chuyển hướng sang YouTube và đạt cột mốc một triệu người đăng ký vào năm 2018. Chương trình "Joe Is Going to Battle" với định dạng so sánh giữa hàng cao cấp và hàng bình dân đã trở thành thương hiệu đặc trưng, sau đó mở rộng sang các lĩnh vực du lịch, bất động sản và chương trình đội nhóm. Năm 2024, anh nhận giải Nhà sáng tạo cá nhân của năm tại Giải thưởng Golden Bell. Sau sự cố cần sa vào năm 2023, anh đã công khai xin lỗi và được hưởng án treo, đồng thời chủ động hoàn thành nghĩa vụ lao động thông qua các video vì lợi ích cộng đồng về phòng chống ma túy và lừa đảo. Đây là câu chuyện ghi lại cách một nhà sáng tạo nội dung tại Đài Loan điều chỉnh sự cân bằng giữa lưu lượng truy cập, niềm tin và trách nhiệm công cộng trong dài hạn.'
 date: 2026-08-16
 category: 'People'
 tags:
   [
     'Joeman',
-    'Ông Tuấn Minh',
+    'Weng Chun-ming',
     'YouTuber',
-    'Điện tử thể thao',
+    'Esports',
     '3C',
-    'Kinh tế người sáng tạo',
+    'Kinh tế sáng tạo',
     'Ngành truyền thông',
-    'Giao tiếp công chúng',
+    'Truyền thông công cộng',
   ]
 subcategory: '媒體與創作'
 author: 'Taiwan.md Contributors'
@@ -26,10 +26,10 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Joeman-0617.jpg'
 readingTime: 10
 curation: 'incubating'
 translatedFrom: 'People/Joeman.md'
-sourceCommitSha: '67c4c72fc4'
+sourceCommitSha: '1b9d5dfea6'
 sourceContentHash: 'sha256:19eba63c27c61c88'
 sourceBodyHash: 'sha256:18e7518b3acc71b4'
-translatedAt: '2026-11-23T18:40:04.510972+00:00'
+translatedAt: '2026-11-25T06:54:01.526808+00:00'
 ---
 
 # Joeman: Từ bình luận viên esport đến kênh triệu người theo dõi, người sáng tạo lâu dài trong ống kính

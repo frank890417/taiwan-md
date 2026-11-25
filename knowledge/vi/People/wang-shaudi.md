@@ -1,16 +1,16 @@
 ---
-title: 'Vương Tiểu Địch：Những cậu bé tuổi sáu mươi và Cuộc cách mạng nhẹ nhàng của truyền hình Đài Loan'
-description: 'Từ con trai của tướng trở thành chàng trai bạo loạn, rồi thành mẹ đỡ đầu truyền hình Đài Loan — Vương Tiểu Địch đã dành bốn mươi năm để chứng minh rằng quay truyền hình có thể là một phong trào xã hội'
+title: 'Vương Tiểu Đệ: Chàng trai tuổi lục tuần và cuộc cách mạng dịu dàng của truyền hình Đài Loan'
+description: 'Đạo diễn phim truyền hình Đài Loan, con gái của Thượng tướng Vương Thăng - nhân vật nòng cốt trong hệ thống tình báo thời kỳ thiết quân luật, nhưng bà lại dành cả đời để hướng ống kính vào những con người nhỏ bé. Với tác phẩm "Người bù nhìn", bà đã giành giải Kịch bản gốc xuất sắc nhất tại Giải Kim Mã. Từ cuối thập niên 1980, bà bắt đầu thực hiện các bộ phim gia đình như "Gia đình" (All in the Family), "Gà mẹ dắt vịt con" trên đài CTS; năm 1992 thành lập Xưởng phim Đạo Điền, khai phá dòng phim nghề nghiệp như "Bác sĩ lớn tại bệnh viện nhỏ" cho đài PTS. Năm 2014, bà được trao Giải thưởng Văn nghệ Quốc gia; năm 2016 khởi xướng Dự án Thực vật (Plant Theater) nhằm bồi dưỡng diễn viên mới và mở rộng thể loại kịch; năm 2022 tiếp tục thúc đẩy Dự án Trác (Zhuo Theater), được hậu bối tôn kính gọi là thầy Tiểu Đệ.'
 date: 2026-03-28
 category: 'People'
 tags:
   [
-    'đạo diễn',
-    'truyền hình',
-    'điện ảnh',
-    'Qiē-sì drama platform',
-    'công khai phát sóng',
-    'Giải thưởng Quốc phòng Bảo Tượng',
+    'Đạo diễn',
+    'Truyền hình',
+    'Điện ảnh',
+    'Dự án Thực vật',
+    'PTS',
+    'Giải Kim Chung',
     'LGBTQ+',
   ]
 subcategory: '藝術與文化人物'
@@ -19,10 +19,10 @@ featured: false
 lastVerified: 2026-03-28
 lastHumanReview: true
 translatedFrom: 'People/王小棣.md'
-sourceCommitSha: '3638ec158'
+sourceCommitSha: '20dcddf339'
 sourceContentHash: 'sha256:50eb815f9c92fea3'
 sourceBodyHash: 'sha256:1ab1bdb7f132ff60'
-translatedAt: '2026-08-09T09:26:48+08:00'
+translatedAt: '2026-11-25T05:34:24.665828+00:00'
 ---
 
 > **30 giây tóm tắt:** Vương Tiểu Địch là một trong những đạo diễn truyền hình quan trọng nhất của Đài Loan, trong bốn mươi năm đã đào tạo cả một thế hệ diễn viên và biên kịch. Cha ông là Vương Thăng (王昇), tướng lục quân cao cấp, người đứng đầu hệ thống tình báo thời kỳ thiết quân luật, nhưng ông đã chọn con đường lên tiếng cho những nhân vật bình thường. Từ _Gia đình toàn bộ_ (1989) đến Qiē-sì drama platform (2016), ông đã sử dụng kính máy để ghi lại phẩm giá của tầng lớp dưới xã hội Đài Loan, bằng hành động chứng minh quay truyền hình là một phong trào xã hội. Năm 2014 ông được trao tặng Giải thưởng Quốc gia Lần thứ 18 về Lĩnh vực Nghệ thuật.

@@ -1,31 +1,31 @@
 ---
-title: 'Đức Tôn Minh'
-description: 'Đại học y học Đài Loan đầu tiên, phát minh phương pháp dần dần ngưng thuốc ma túy trong 17 năm giúp 11.498 người chấm dứt ma túy, người sáng lập Đại học Y học Kaohsiung'
-date: '2026-03-31'
+title: 'Đỗ Thông Minh'
+description: 'Tiến sĩ y khoa đầu tiên trong lịch sử Đài Loan, sinh năm 1893 tại Tam Chi. Năm 1922, ông nhận bằng Tiến sĩ Y khoa tại Đại học Đế quốc Kyoto và được các tờ báo Đài Loan đưa tin trang nhất. Ông đã phát minh ra "Phương pháp cai nghiện tiệm tiến", giúp hơn 11.498 người nghiện thuốc phiện cai nghiện trong suốt 17 năm, giải quyết vấn đề thuốc phiện kéo dài ba trăm năm tại Đài Loan; nguyên lý kiểm tra morphine trong nước tiểu do ông phát minh cho đến nay vẫn là phương pháp cơ bản trong xét nghiệm ma túy trên toàn thế giới. Ông cũng là người sáng lập Đại học Y khoa Cao Hùng, trường đại học tư thục đầu tiên tại Đài Loan.'
+date: 2026-03-31
 category: 'People'
 tags:
   [
-    'y học',
-    'bác sĩ y học',
-    'y học hiện đại Đài Loan',
-    'Đại học Quốc gia Kyoto',
-    'dược lý học',
-    'ma túy',
-    'thời kỳ Nhật Bảo Đại',
-    'Đại học Y học Kaohsiung',
+    'Y học',
+    'Tiến sĩ y khoa',
+    'Y học hiện đại Đài Loan',
+    'Đại học Đế quốc Kyoto',
+    'Dược lý học',
+    'Thuốc phiện',
+    'Thời kỳ Nhật trị',
+    'Đại học Y khoa Cao Hùng',
   ]
 subcategory: '歷史人物'
 author: 'Taiwan.md'
 featured: false
-lastVerified: '2026-03-31'
+lastVerified: 2026-03-31
 lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/杜聰明.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '00dc1f6e04'
 sourceContentHash: 'sha256:cda33c38cf5ae9bc'
 sourceBodyHash: 'sha256:f0f1f0e7889b7e24'
-translatedAt: '2026-07-25T00:11:55+08:00'
+translatedAt: '2026-11-25T05:36:28.619544+00:00'
 ---
 
 # Đức Tôn Minh

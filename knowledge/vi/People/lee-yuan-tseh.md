@@ -1,16 +1,16 @@
 ---
-title: 'Lý Viễn Tĩnh'
-description: 'Giải Nobel Hóa học 1986, khai phá công nghệ tia phân tử giao nhau mở ra lĩnh vực mới trong động lực học hóa học, là nhà khoa học Nobel đầu tiên của Đài Loan'
+title: 'Lý Viễn Triết'
+description: 'Lý Viễn Triết là người Đài Loan đầu tiên giành giải Nobel khoa học, sinh năm 1936 tại Trúc Lan (Hsinchu) trong thời kỳ Nhật chiếm đóng. Sau khi tốt nghiệp hệ Khoa học Hóa học Đại học Quốc gia Đài Loan (Đại học Đài Loan), ông sang Mỹ lấy tiến sĩ tại Đại học California, Berkeley. Tại Harvard, ông hợp tác với người đồng đoạt giải Nobel Dudley Herschbach phát triển công nghệ chùm phân tử giao thoa mang tính cách mạng, cho phép các nhà khoa học lần đầu tiên có thể "nhìn thấy" quá trình phản ứng hóa học. Năm 1986, ông cùng giành giải Nobel Hóa học. Năm 1994, ông từ chức giáo sư Berkeley, từ bỏ quốc tịch Mỹ về Đài Loan, đảm nhiệm vị trí Viện trưởng Viện Nghiên cứu Trung ương (Academia Sinica) trong 12 năm.'
 date: 2026-03-21
 category: 'People'
 tags:
   [
     'Nhân vật',
-    'Lý Viễn Tĩnh',
+    'Lý Viễn Triết',
     'Giải Nobel',
     'Hóa học',
     'Nhà khoa học',
-    'Viện Nghiên cứu Trung tâm',
+    'Viện Nghiên cứu Trung ương',
     'Đài Loan',
   ]
 subcategory: '科學與學術'
@@ -20,10 +20,10 @@ lastVerified: 2026-03-21
 lastHumanReview: true
 curation: 'incubating'
 translatedFrom: 'People/李遠哲.md'
-sourceCommitSha: '69b3afd91'
-sourceContentHash: 'sha256:c7cb9c37ad53a48c'
-sourceBodyHash: 'sha256:d9744718376b888a'
-translatedAt: '2026-09-21T00:58:30+08:00'
+sourceCommitSha: '00dc1f6e04'
+sourceContentHash: 'sha256:39f343c12ccc5e82'
+sourceBodyHash: 'sha256:9e43ab4838b073f1'
+translatedAt: '2026-11-25T05:44:32.500806+00:00'
 ---
 
 # Lý Viễn Tĩnh
@@ -56,13 +56,13 @@ Tin Lý Viễn Tĩnh giành giải Nobel lan truyền về Đài Loan, toàn đ�
 
 Đáng chú ý, quốc tịch mà Lý Viễn Tĩnh mang khi nhận giải Nobel là Hoa Kỳ. Tuy nhiên, điều này không làm giảm đi niềm tự hào của người Đài Loan — họ hiểu rằng đứa trẻ lớn lên ở Hsinchu, nói tiếng Tâm ngôn, có máu chảy là dòng dõi của Đài Loan.
 
-## Năm 1994: Cam kết trở về quê hương
+## 1994: Lời hứa về nước sau khi thành đạt
 
-Năm 1994, khi đang đỉnh cao sự nghiệp, Lý Viễn Tĩnh đưa ra một quyết định gây sốc trong cộng đồng học thuật quốc tế: từ chức giảng viên tại Berkeley, từ bỏ quốc tịch Mỹ và trở về Đài Loan để nhận vị trí Chủ tịch Viện Nghiên cứu Trung tâm (1994-2006).
+Năm 1994, khi đang ở đỉnh cao sự nghiệp học thuật, Lý Viễn Tĩnh đưa ra quyết định khiến giới học thuật quốc tế sửng sốt: từ chức giáo sư tại Berkeley, từ bỏ quốc tịch Mỹ, về Đài Loan đảm nhận chức Viện trưởng Trung ương Nghiên cứu viện (1994-2006).
 
-Quyết định này gây ra nhiều tranh cãi. Những người chỉ trích cho rằng ông đã lãng phí đi ảnh hưởng lực lượng ở sân khấu quốc tế; những người ủng hộ tin rằng ông đã hiện thực hóa lý tưởng của một nhà khoa học phục vụ đất nước. Lý Viễn Tĩnh tự giải thích một cách đơn giản: "Tôi mong muốn dùng kinh nghiệm của mình để biến Đài Loan thành tâm điểm khoa học hàng đầu châu Á."
+Quyết định này gây nhiều tranh cãi. Phe phê bình cho rằng ông đã lãng phí ảnh hưởng của mình trên sân khấu quốc tế, phe ủng hộ cho rằng ông đã hiện thực hóa lý tưởng "học giả báo quốc" của người trí thức. Lý do của Lý Viễn Tĩnh rất đơn giản: "Tôi muốn dùng kinh nghiệm của mình để biến Đài Loan thành một trọng trấn khoa học của châu Á."
 
-Trong 12 năm làm Chủ tịch Viện Nghiên cứu Trung tâm, Lý Viễn Tĩnh thúc đẩy hiện đại hóa tổ chức, thiết lập hệ thống đánh giá nghiên cứu quốc tế, và thành lập thêm nhiều viện nghiên cứu như Viện Thông tin, Viện Y sinh, Viện Di truyền học... Ông mời các nhà khoa học hàng đầu như Vương Kỵ Hồi, Lã Bảo Tĩnh trở về Đài Loan, mang lại sức sống mới cho cộng đồng khoa học Đài Loan.
+Trong 12 năm giữ chức Viện trưởng Trung ương Nghiên cứu viện, Lý Viễn Tĩnh thúc đẩy hiện đại hóa tổ chức, thiết lập chế độ đánh giá nghiên cứu quốc tế hóa, thành lập nhiều viện nghiên cứu mới như Khoa học Thông tin, Khoa học Sinh y, Nghiên cứu Genom. Ông đã kêu gọi các học giả quốc tế như Ong Khải Huệ, Lại Minh Triệu về Đài Loan, thổi bùng mới sức sống cho giới khoa học Đài Loan.
 
 ## Tham gia tranh cãi cải cách giáo dục
 

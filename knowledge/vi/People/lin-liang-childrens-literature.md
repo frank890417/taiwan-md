@@ -1,17 +1,17 @@
 ---
-title: 'Lin Liang: Nông nhưng phải ngọt ngào'
-description: 'Từ cú em trai mất cha khi chỉ 4 tuổi bên bờ sông Tam Giang năm 1944, cho đến ông trường thọ 95 tuổi qua đời trong giấc ngủ vào tháng 12 năm 2019. Lin Liang dùng 73 năm tuổi sống để chứng minh: trẻ em xứng đáng được coi là một độc giả trọn vẹn.'
+title: 'Lâm Lương: Nông là nông, nhưng phải nông mà có vị'
+description: 'Nhà văn văn học thiếu nhi Đài Loan, năm 1946 ông mang theo một thùng sách từ Hạ Môn xuống tàu đến Cơ Long, năm 1948 gia nhập tờ "Quốc Ngữ Nhật Báo" vừa mới xuất bản để đảm nhiệm vai trò biên tập chuyên mục thiếu nhi, và kể từ đó đã cầm bút suốt bảy mươi ba năm. Ông đề xướng nghệ thuật của ngôn ngữ giản dị, chủ trương rằng trẻ em xứng đáng được đối xử như những độc giả trọn vẹn; chuyên mục "Nhìn hình nói chuyện" do ông viết từ năm 1951 cho đến một tuần trước khi qua đời ở tuổi 95, tích lũy được gần sáu nghìn bài viết; tập tùy bút "Tiểu Thái Dương" đã tái bản hơn 130 lần, năm 2012 ông nhận Giải thưởng Văn nghệ Quốc gia và trở thành người lớn tuổi nhất trong lịch sử văn học thiếu nhi Đài Loan từng đạt giải thưởng này vào năm 2018.'
 date: 2026-04-28
 category: 'People'
 tags:
   [
     'Văn học thiếu nhi',
     'Nhà văn',
-    'Nhật báo Tiếng Quốc Ngữ',
-    'Nghệ thuật ngôn ngữ đơn giản',
-    'Hoàng tử nhỏ',
-    'Nhà sáng tạo văn hóa',
-    'Văn học Đài Loan sau chiến tranh',
+    'Quốc Ngữ Nhật Báo',
+    'Nghệ thuật ngôn ngữ giản dị',
+    'Tiểu Thái Dương',
+    'Người khai phá văn hóa',
+    'Văn học Đài Loan hậu chiến',
   ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
@@ -23,10 +23,10 @@ readingTime: 16
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/林良.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '20dcddf339'
 sourceContentHash: 'sha256:ff949a14cc54475a'
 sourceBodyHash: 'sha256:99fcaed64626278d'
-translatedAt: '2026-09-22T22:20:58.200344+00:00'
+translatedAt: '2026-11-25T06:16:14.550605+00:00'
 ---
 
 **30 giây tổng quan:**

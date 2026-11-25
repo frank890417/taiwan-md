@@ -1,19 +1,19 @@
 ---
-title: 'Hello Nico: Sau tám năm im lặng, "nhớ sân khấu rồi"'
-description: 'Ban nhạc độc lập Đài Loan, từng đoạt giải quán quân StreetVoice toàn năm với ca khúc 〈Hoa〉 năm 2014 và lọt vào đề cử Tân binh Giọng hát vàng năm 2016, đã im lặng suốt tám năm. Chân Vũ Đình chia sẻ: "Khó khăn lớn nhất khi làm nhạc là tự đấu tranh với chính mình." Năm 2024, họ trở lại với album EP 《Plan B》.'
+title: 'Hello Nico: Sau tám năm im lặng, "Tôi nhớ sân khấu rồi"'
+description: 'Ban nhạc indie bốn thành viên được thành lập tại Đài Bắc vào năm 2013. Năm 2014, họ đã giành chức vô địch cả năm của StreetVoice với ca khúc 〈Hoa〉 cùng hơn 120.000 lượt yêu cầu phát sóng. Năm 2015, album đầu tay 《Sự hoang vu quen thuộc》 được đề cử Nghệ sĩ mới xuất sắc nhất tại Giải thưởng Âm nhạc Golden Melody lần thứ 27; năm 2017, họ đã bước lên sân khấu SXSW. Nổi tiếng với chất giọng Dream Pop mang phong cách "kìm nén và tự chìm đắm", ban nhạc đã giữ im lặng khoảng tám năm kể từ sau năm 2016. Ca sĩ chính Trâm Vũ Đình (Zhan Yuting) thừa nhận từng cảm thấy mệt mỏi với việc sáng tác và hoài nghi về giọng hát của chính mình, nhưng thông qua việc tự khích lệ bản thân, cô đã tái thiết lập mối quan hệ lành mạnh với âm nhạc và ca hát. Tháng 9 năm 2024, cô cùng ban nhạc bắt đầu hành trình mới với EP 《Plan B: Nếu trở lại, chúng ta hãy cùng ngắm biển》.'
 date: 2026-04-20
 category: 'People'
 tags:
   [
     'Hello Nico',
-    'Chân Vũ Đình',
+    'Trâm Vũ Đình',
     'Lý Vịnh Ân',
-    'âm nhạc độc lập',
-    'ban nhạc',
-    'rock độc lập',
+    'Âm nhạc độc lập',
+    'Ban nhạc',
+    'Indie Rock',
     'Dream Pop',
-    'Giải thưởng Giọng hát vàng',
-    'âm nhạc Đài Loan',
+    'Giải thưởng Golden Melody',
+    'Âm nhạc Đài Loan',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
@@ -25,10 +25,10 @@ readingTime: 8
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/Hello-Nico.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '1b9d5dfea6'
 sourceContentHash: 'sha256:ac6c714f4ff5fb1b'
 sourceBodyHash: 'sha256:bab18d5114976850'
-translatedAt: '2026-09-15T19:45:27+08:00'
+translatedAt: '2026-11-25T05:56:12.281934+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Hello Nico là một ban nhạc độc lập của Đài Loan, thành lập tại Đài Bắc vào năm 2013. Các thành viên bao gồm ca sĩ chính Chân Vũ Đình, tay guitar Lý Vịnh Ân, tay bass Trần Tín Bá và tay trống Quan Huệ Trung. Năm 2014, họ đạt giải quán quân toàn năm StreetVoice với bài 〈Hoa〉; album chính thức đầu tay 《Hoang Vu Quen Thuoc》 lọt vào đề cử Tân binh Giọng hát vàng lần thứ 27 vào năm 2015. Với phong cách Dream Pop / Indie Rock mang tính "tự đắm chìm bị kìm nén", giọng hát của Chân Vũ Đình là điểm nhận diện cốt lõi. Sau sự im lặng khoảng tám năm kể từ năm 2016, họ đã tái xuất vào tháng 9 năm 2024 với EP 《Plan B: Nếu trở về, chúng ta cùng ngắm biển》.
