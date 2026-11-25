@@ -1,15 +1,15 @@
 ---
-title: "From Underground to the Presidential Office: Nymphia Wind and the History of Taiwan's Drag Queens' Self-Empowerment"
-description: "How a Taiwanese boy who was bullied for his gender expression brought the drag art form — once considered a subculture — to the international stage, and used the banana as a symbol to show the world Taiwan's diversity and confidence."
+title: "From the Basement to the Presidential Office: Nymphia Wind and the History of Self-Empowerment of Taiwan's Drag Queens"
+description: "In 2024, she won the championship of 'RuPaul's Drag Race,' becoming the first Taiwanese drag queen to receive this honor. Born as Cao Mi-huo in Los Angeles, she moved to Taiwan at age 6. Bullied in elementary school for her gender expression, she discovered drag while studying fashion design at the London College of Fashion in the UK. She transformed the once-derogatory term 'banana' into a symbol of confidence, calling herself 'Banana Buddha,' and incorporated Taiwanese imagery such as bubble tea, temple paintings, and Taiwanese opera into her costumes. From underground parties to the Presidential Office, she loudly proclaimed Taiwan's existence on the international stage."
 date: 2026-04-18
 category: 'People'
 tags:
   [
     'Nymphia Wind',
-    'drag queen',
+    'Drag Queen',
     'LGBTQ+',
-    'gender equality',
-    'Taiwan culture',
+    'Gender Equality',
+    'Taiwanese Culture',
     "RuPaul's Drag Race",
   ]
 subcategory: '音樂與表演'
@@ -20,10 +20,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/妮妃雅.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '1b9d5dfea6'
 sourceContentHash: 'sha256:10538bd4034afd34'
 sourceBodyHash: 'sha256:18c9609265b03371'
-translatedAt: '2026-11-04T20:51:17.845214+00:00'
+translatedAt: '2026-11-25T03:16:33.424343+00:00'
 ---
 
 > **30-second overview:** In 2024, Taiwanese drag queen Nymphia Wind won the championship of the globally prominent _RuPaul's Drag Race_, becoming the first Taiwanese person to receive this honor. Her success not only brought Taiwan's drag art to the international stage but also, coinciding with Taiwan's "Gender Equality Education Day," demonstrated Taiwan's spirit of diversity and inclusion to the world. From underground parties to the Presidential Office, Nymphia Wind's story is a nearly 30-year history of self-empowerment by Taiwan's sexual minority communities. Using the banana as her symbol, she deeply integrated her personal life experience with Taiwan's culture, loudly declaring to the world Taiwan's existence and confidence.

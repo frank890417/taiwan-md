@@ -1,22 +1,30 @@
 ---
 title: 'Yani Tseng'
-description: "109 weeks at World No. 1, 15 LPGA titles including 5 majors, became the youngest player in history to claim 5 major championship trophies at age 22 — surpassing Tiger Woods' record; in 2025, ended an 11-year title drought and claimed victory once again"
+description: "A Taiwanese professional golfer, born in Yangmei, Taoyuan in 1989. In 2008, at the age of nineteen, she won her first LPGA major title, becoming the first Chinese player to win an LPGA tournament. She reached world number one in 2011, setting a record of 109 consecutive weeks at the top that remained unbroken for over a decade in women's golf history. At age twenty-two, she became the youngest player ever to hold five major titles, with a career total of fifteen LPGA wins and five majors. After overcoming hip injuries and a slump, she ended an eleven-year title drought in 2025 at Yangshan Golf Course, securing her 28th career victory."
 date: 2026-03-31
+category: 'People'
 tags:
-  ['體育', '高爾夫', 'LPGA', '世界第一', '職業高爾夫', '大滿貫', '女子高爾夫']
+  [
+    'Sports',
+    'Golf',
+    'LPGA',
+    'World Number One',
+    'Professional Golf',
+    'Grand Slam',
+    "Women's Golf",
+  ]
 subcategory: '體育'
+author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-31
 lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
-translatedFrom: People/曾雅妮.md
-sourceCommitSha: 'be13f045'
+translatedFrom: 'People/曾雅妮.md'
+sourceCommitSha: '20dcddf339'
 sourceContentHash: 'sha256:890dbecd669ee83c'
 sourceBodyHash: 'sha256:480fe5c7e2becbe9'
-translatedAt: 2026-05-02T02:50:54+08:00
-category: People
-author: 'Taiwan.md'
+translatedAt: '2026-11-25T03:11:02.604305+00:00'
 ---
 
 # Yani Tseng

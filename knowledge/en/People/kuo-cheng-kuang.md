@@ -1,14 +1,14 @@
 ---
 title: 'Kuo Cheng-kuang'
-description: "He is a senior scientist at NASA's Johnson Space Center in Houston, specializing in what astronauts eat and drink — but in the records of his homeland Taiwan, he was once listed as a 'terrorist' on a government blacklist."
+description: 'A senior scientist who served at NASA''s Johnson Space Center for over forty-five years, researching space food, water purification, and cabin air quality — safeguarding the lives of astronauts. Born in Hsinchu in 1949, he earned his Ph.D. at Texas A&M University after graduating from NTU''s Department of Agronomy, and joined NASA in 1980. He was placed on the KMT government''s blacklist for joining the Taiwan Independence Alliance, and in 1991 the Taiwan government sent a letter to the U.S. State Department labeling him a terrorist. In 2018, in his capacity as a NASA expert, he received President Tsai Ing-wen during her transit visit; in 2024, he retorted to an internet troll with the line, "Your grandpa here works at NASA."'
 date: 2026-04-06
 category: 'People'
 tags:
   [
     'Kuo Cheng-kuang',
     'NASA',
-    'space food',
-    'blacklist',
+    'Space food',
+    'Blacklist',
     'Taiwan democracy movement',
   ]
 subcategory: '科學與研究'
@@ -20,10 +20,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/郭正光.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '1a696c19ef'
 sourceContentHash: 'sha256:e00af3b07adcb778'
 sourceBodyHash: 'sha256:beb2338ff10788ce'
-translatedAt: '2026-11-05T00:08:12.858637+00:00'
+translatedAt: '2026-11-25T02:22:01.487835+00:00'
 ---
 
 # Kuo Cheng-kuang

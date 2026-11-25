@@ -1,26 +1,30 @@
 ---
-title: 'Hsu Mei-hua: Ten Years of an Anonymous Civic Pseudonym, from Anti-Tsinghua Unigroup to the Great Recall'
-description: '"Hsu Mei-hua" is not a real name but a pseudonym that appeared at two critical moments in Taiwan''s civil society — in 2015 as one of the "Four Horsemen" who helped block China''s Tsinghua Unigroup from acquiring Taiwan''s semiconductor packaging giants, and in 2025 as the most counter-intuitive "funding hub" of the Great Recall wave: handling not a single cent herself, yet coordinating over twenty million New Taiwan dollars in civic donations.'
-translatedFrom: 'People/許美華.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:1b5d90dfca7bb147'
-sourceBodyHash: 'sha256:e380720def0effee'
-translatedAt: '2026-05-01T12:53:58+08:00'
-category: People
-tags:
-  - 'Hsu Mei-hua'
-  - 'Anti-Unigroup'
-  - 'Great Recall'
-  - 'civic movement'
-  - 'semiconductor'
-  - 'Taiwan democracy'
-author: 'Taiwan.md Contributors'
+title: 'Hsu Mei-hua: From Anti-Unigroup to the Great Recall, A Decade of an Anonymous Citizen Codename'
+description: 'An anonymous citizen codename, not her real name. In 2015, acting as one of the "Four Knights" and calling herself the "Sweeping Monk," she helped block China Unigroup''s attempt to acquire Taiwan''s three major semiconductor packaging and testing firms in a deal worth nearly NT$900 billion. During the 2025 Great Recall movement, she transformed into a "Payment Center," where supporters directly transferred funds to vendors to produce LED promotional vehicles; although she never handled a single cent herself, she coordinated over NT$20 million. With all 31 recall attempts failing 0-31, she calls it the "most successful failure," a ten-year trajectory that encapsulates the spectrum of Taiwan''s civil society moving from technological defense to democratic mobilization.'
 date: 2026-04-17
-readingTime: 12
+category: 'People'
+tags:
+  [
+    'Hsu Mei-hua',
+    'Anti-Unigroup',
+    'Great Recall',
+    'Civil Movements',
+    'Semiconductors',
+    'Taiwanese Democracy',
+  ]
+subcategory: '教育與社會'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-17
 lastHumanReview: true
-featured: false
+readingTime: 12
+translatedFrom: 'People/許美華.md'
+sourceCommitSha: '1b9d5dfea6'
+sourceContentHash: 'sha256:1b5d90dfca7bb147'
+sourceBodyHash: 'sha256:e380720def0effee'
+translatedAt: '2026-11-25T03:07:38.827322+00:00'
 ---
+
 > **30-second overview:** "Hsu Mei-hua" is an anonymous pseudonym, not a real name. She appeared at two critical moments in Taiwan's civil society: in 2015 she was one of the "Four Horsemen," helping to block China's Tsinghua Unigroup's serial acquisitions of Taiwan's three major semiconductor packaging and testing firms (Powertech, Siliconware Precision, and Nanya Technology) — a combined scale approaching nine hundred billion New Taiwan dollars; in 2025 she again became the "funding hub" of the Great Recall movement, with supporters directly wiring money to vendors for LED campaign vehicles, printed materials, and processions — she herself handled not a single cent. The recall ultimately failed 31-to-0, which she called "the most successful failed operation." The ten-year arc of this pseudonym distills a section of the spectrum of Taiwan's civil society, moving from the front lines of tech-economy defense to democratic mobilization.
 
 On February 23, 2026, Newtalk published a report on Hsu Mei-hua's first interview given under her pseudonym.[^1] The report didn't reveal her real name — Hsu Mei-hua never was. This is a pseudonym, a name she began using on Facebook in the autumn and winter of 2022.[^1] The report included one particularly precise line: "Throughout the conversation, traces of the logic and discipline of someone with a media background were evident."

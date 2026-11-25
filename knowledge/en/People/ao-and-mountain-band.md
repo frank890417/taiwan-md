@@ -1,33 +1,36 @@
 ---
-title: "Our Shame (Ao and Mountain): Two Tech Workers Who Said in Synthesizers What They Couldn't Say at the Office"
-description: "Our Shame (凹與山) is a Taiwanese folktronica duo. Members Estelle H (lead vocals, synthesizer, producer) and Isan (drums, pad) met in high school music club and, as an unplugged folk duo during college, won the Golden Reed Award's composition division in 2015. After graduation both entered the tech industry as full-time workers. In the winter of 2018 they renamed their project from 'Wei Xiao-ao' to 'Our Shame,' with Estelle picking up synthesizers and Isan switching to pads, pivoting toward folktronica. In 2022 Estelle's closest friend died and she quit her full-time job; the band released their debut album 'Modern Problem,' which received double nominations at the 13th Golden Indie Music Awards for Best Alternative Pop and Best New Artist. On August 4, 2025, they released their second album 'Hidden Album,' bringing in Grammy-winning British mixer Jay Reynolds, Grammy-winning American engineer Brian Elgin (credits include Dua Lipa and Lana Del Rey), Japan's ASOBOiSM, and other international collaborators. The album's themes shifted from 'tech anxiety' (Modern Problem) to 'human shadows concealed by technology' — self-harm, forbidden love, cryptocurrency scams, and female embodied experiences — including a track 'Miffy' in tribute to activist Chen Mei-hui."
+title: "Ao & Shan: Two Tech Workers Using Synthesizers to Express What They Can't Say in the Office"
+description: 'Taiwanese folktronica duo, Ao and Isan, met in their high school rock club. In 2015, they won the Golden Melody Award for Best Band with their unplugged folk music. After graduation, both entered the tech industry as office workers. In the winter of 2018, they changed both their band name and their instruments: Ao bought a synthesizer, while Isan switched to playing pads. Following the passing of Ao''s close friend in 2022, she left her full-time job, and their debut album, "Modern Problem," was nominated for Best Alternative Pop and Best New Artist at the Golden Indie Music Awards. While their first album addressed the anxieties brought by technology, their 2025 release, "Hidden Album," turns to the things obscured by it.'
 date: 2026-04-18
+category: 'People'
 tags:
-  - People
-  - 'Our Shame'
-  - '凹與山'
-  - Estelle
-  - Isan
-  - Folktronica
-  - 'Indie Music'
-  - 'Golden Indie Music Awards'
-  - 'Golden Reed Award'
-  - 'Modern Problem'
-  - 'Hidden Album'
-  - Synthesizer
-category: People
+  [
+    'People',
+    'Ao & Shan',
+    'Our Shame',
+    'Ao',
+    'Isan',
+    'Folktronica',
+    'Folktronica',
+    'Independent Music',
+    'Golden Indie Music Awards',
+    'Golden Melody Awards',
+    'Modern Problem',
+    'Hidden Album',
+    'Synthesizer',
+  ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
-readingTime: 16
 lastVerified: 2026-04-18
 lastHumanReview: true
 researchReport: 'reports/research/2026-04/凹與山.md'
+readingTime: 16
 translatedFrom: 'People/凹與山.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '30ab24424f'
 sourceContentHash: 'sha256:fb2f6f7aedcd6d81'
 sourceBodyHash: 'sha256:99f87ca9cdb0ab32'
-translatedAt: '2026-05-01T12:53:58+08:00'
+translatedAt: '2026-11-25T02:48:16.762569+00:00'
 ---
 
 > **30-second overview:** Our Shame (凹與山) is a Taiwanese folktronica duo. Members are vocalist Estelle H and drummer Isan. The two met in high school music club and, in an unplugged folk arrangement during college, won the **Golden Reed Award's composition division** in 2015 with the unplugged demo of "Qin Ai De" (Dear). After graduation both entered the tech industry as full-time workers. In the winter of 2018 they renamed the project from "Wei Xiao-ao" to "Our Shame," with Estelle picking up synthesizers and Isan switching to pads, pivoting to folktronica. In 2019 they released EP _All Good Things Will Happen_, with mixing by Japanese award-winning producer AKNIT. In 2022 their debut album _Modern Problem_ received **double nominations at the 13th Golden Indie Music Awards for Best Alternative Pop and Best New Artist**, with 60% English-language tracks. On August 4, 2025, their second album _Hidden Album_ was released, with an international production team including British Grammy-winning mixer Jay Reynolds, American Grammy-winning engineer Brian Elgin (credits: Dua Lipa, Lana Del Rey), Japan's ASOBOiSM, and France's Odd People Club — the album's themes shifted from "tech anxiety" to "human shadows concealed by technology": self-harm, forbidden love, crypto scams, and female embodied experiences. The track "Miffy" is a tribute to activist Chen Mei-hui. On January 4, 2026, the _Hidden Album_ concert was held.

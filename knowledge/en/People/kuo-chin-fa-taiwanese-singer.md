@@ -1,15 +1,15 @@
 ---
-title: "Kuo Chin-fa: The Bass Soul Behind 'Roasted Rice Dumpling'"
-description: "From a shoemaker's apprentice in Dadaocheng to the 'Island's Bass King,' Kuo Chin-fa used 'Roasted Rice Dumpling' to sing out the hardship and resilience of postwar Taiwanese common people — and burned up his last breath on stage."
+title: 'Kuo Chin-fa: The Bass Soul Behind "Roast Meat Zongzi"'
+description: 'The Bass King who began as an apprentice at a leather shoe shop in Dadaocheng, Kuo Chin-fa won a singing contest at age 15 and entered the entertainment industry. With his rich, deep voice, he rose to fame in the Taiwanese music scene. In 1973, he rewrote the banned song "Selling Meat Zongzi" into "Roast Meat Zongzi," giving voice to the hardships and resilience of Taiwan''s post-war ordinary people. After the Jin Du Le Fu fire left him in debt, he went to Singapore for a six-month residency to pay off his debts. In 2016, he collapsed after singing the final line of "Roast Meat Zongzi" at a Kaohsiung senior citizens'' concert, passing away at age 72. He released over 100 albums in his lifetime.'
 date: 2026-04-19
 category: 'People'
 tags:
   [
-    'music',
-    'Taiwanese folk songs',
-    'Roasted Rice Dumpling',
+    'Music',
+    'Taiwanese Songs',
+    'Roast Meat Zongzi',
     'Bass King',
-    'martial law banned songs',
+    'Martial Law Banned Songs',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md Contributors'
@@ -20,10 +20,10 @@ readingTime: 10
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/郭金發.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'd3a973ae06'
 sourceContentHash: 'sha256:ffef27b2909f9d95'
 sourceBodyHash: 'sha256:b629819d5dc38d6a'
-translatedAt: '2026-11-04T23:39:12.697165+00:00'
+translatedAt: '2026-11-25T02:26:19.383548+00:00'
 ---
 
 > **📝 Curator's note**

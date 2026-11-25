@@ -1,6 +1,6 @@
 ---
-title: 'Rather Burn Out Than Rust Out: Mackay and His Beloved Formosa'
-description: 'From extracting 20,000 teeth to founding girls'' schools, how Canadian missionary George Leslie Mackay became a "true Taiwanese" and rewrote the history of medicine, education, and scientific exploration in northern Taiwan.'
+title: 'Rather Burn Out Than Rust Out: Mackay and the Formosa He Deeply Loved'
+description: 'Canadian Presbyterian missionary George Leslie Mackay landed in Tamsui in 1872 at age 28, learned Taiwanese from cowherd boys, and with a Bible in one hand and dental forceps in the other walked into temple forecourts and fields across northern Taiwan. Over his lifetime he extracted more than 20,000 teeth, founded the Mackay Clinic, collected snake and fern specimens, recorded indigenous customs, and established Oxford College and Taiwan''s first girls'' school. After devoting 30 years he died of throat cancer, was buried on the campus of Tamsui Middle School, and left the motto "Rather burn out than rust out."'
 date: 2026-03-31
 category: 'People'
 tags:
@@ -20,10 +20,10 @@ lastHumanReview: true
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/馬偕.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: 'd3a973ae06'
 sourceContentHash: 'sha256:b7d6932f284b6cf0'
 sourceBodyHash: 'sha256:d3315bfee0561cb1'
-translatedAt: '2026-08-04T14:00:17+08:00'
+translatedAt: '2026-11-25T02:19:43.948310+00:00'
 ---
 
 > **30-Second Overview:**

@@ -1,36 +1,45 @@
 ---
-title: 'Cicada: Sixteen Years of Field Recordings from Typhoon Morakot in 2009 to Cross-Hemispheric Glaciers in 2025'
-description: 'Founded in Taipei in 2009, Cicada is an all-instrumental, vocal-free independent band. Founding pianist Jesy Chiang (M.A. in Art History, Taipei National University of the Arts) wrote the first batch of pieces after seeing news coverage of Typhoon Morakot that year. Over the next sixteen years, they turned Taiwan’s disappearing coasts, marine ecology, mountain forests, and stream sources into a series of wordless albums, moving from the west coast (Coastland, 2013) to the Pacific off the east coast (Light Shining Through the Sea, 2015) and onward to the stream sources of the Central Mountain Range (Seeking the Sources of Streams, 2022, a 15-day, 120-kilometer expedition). They scored the Japanese film A Man and received the Japan Academy Film Prize for Outstanding Achievement in Music. In 2025, Gazing the Shades of White took their fieldwork beyond Taiwan for the first time, following glaciers through Greenland, Iceland, and New Zealand before returning to Xueshan to look for traces left by ancient glaciers.'
+title: 'Cicada: Sixteen Years of Field Recordings from Typhoon Morakot in 2009 to Transhemispheric Glaciers in 2025'
+description: 'An all-instrumental band founded in Taipei in 2009, this album contains no vocals. Seeing news of Typhoon Morakot that year, founding pianist Chiang Chih-chieh wrote the first set of compositions; over the following sixteen years, they have recorded Taiwan''s disappearing coastlines, marine ecosystems, and mountain streams into a series of lyricless albums. In 2022, their album "Dwelling Above the Headwaters" required 15 days and 120 kilometers of travel to complete the recordings. In 2025, "Gazing at the White Boundary" follows glaciers through Greenland, Iceland, and New Zealand, finally returning to Xueshan to search for traces left by ancient glaciers in Taiwan.'
 date: 2026-04-18
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '音樂與表演'
 tags:
   [
     'People',
     'Cicada',
-    'Jesy Chiang',
-    'instrumental',
-    'post-classical',
+    'Chiang Chih-chieh',
+    'Instrumental',
+    'Post-classical',
     'neoclassical',
-    'independent music',
-    'environmental music',
-    'ecology',
-    'Society of Wilderness',
-    'Pieces',
-    'Hiking in the Mist',
-    'Seeking the Sources of Streams',
-    'Gazing the Shades of White',
-    'Light Shining Through the Sea',
+    'Independent Music',
+    'Ambient Music',
+    'Ecology',
+    'Wilderness Conservation Association',
+    'Scattered Time',
+    'Walking into the Misty Forest',
+    'Dwelling Above the Headwaters',
+    'Gazing at the White Boundary',
+    'Looking Up at Sea Level',
     'flau',
-    'glaciers',
-    'Kei Ishikawa',
+    'Glacier',
+    'Keiichi Ishikawa',
     'Golden Melody Awards',
   ]
-readingTime: 24
+subcategory: '音樂與表演'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-06-21
 lastHumanReview: true
-featured: false
+researchReport: 'reports/research/2026-04/Cicada.md'
+readingTime: 24
+image: '/article-images/people/cicada-cuichi-xueshan-glacial-lake.webp'
+imageCredit: 'Blackjack633 / Wikimedia Commons'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:%E7%BF%A0%E6%B1%A0_%E6%B1%AA%E5%A4%A7%E6%99%BA_05.jpg'
+perspectives:
+  - author: 'xo61j4'
+    text: '偶然聽過巨木曾在的痕跡很喜歡就放進了歌單，很喜歡那種完全沉浸在山林的氛圍，沒想到他們是整個作曲脈絡都圍繞著台灣，喜歡'
+    dimension: '入坑'
 sporeLinks:
   - id: 31
     platform: 'threads'
@@ -41,14 +50,10 @@ sporeLinks:
     date: '2026-04-18'
     url: 'https://x.com/taiwandotmd/status/2045363785347612934'
 translatedFrom: 'People/Cicada.md'
-sourceCommitSha: '21298a7a'
+sourceCommitSha: '30ab24424f'
 sourceContentHash: 'sha256:3d1c97835c5d9ea3'
 sourceBodyHash: 'sha256:5091127dea208f82'
-translatedAt: '2026-06-22T00:40:58+08:00'
-image: '/article-images/people/cicada-cuichi-xueshan-glacial-lake.webp'
-imageCredit: 'Blackjack633 / Wikimedia Commons'
-imageLicense: 'CC BY-SA 4.0'
-imageSource: 'https://commons.wikimedia.org/wiki/File:%E7%BF%A0%E6%B1%A0_%E6%B1%AA%E5%A4%A7%E6%99%BA_05.jpg'
+translatedAt: '2026-11-25T02:28:24.122587+00:00'
 ---
 
 > **30-second overview:** Cicada is an all-instrumental independent band founded in Taipei in 2009 and led by pianist Jesy Chiang (M.A. in Art History, Taipei National University of the Arts). The four-piece lineup includes piano, violin, cello, and acoustic guitar. Since their 2011 debut _Pieces_ on White Wabbit Records, everything they have released over sixteen years has been without vocals. Their themes have moved from west-coast erosion (_Coastland_, 2013), the east coast and the Pacific (_Light Shining Through the Sea_, 2015), marine ecology (_White Forest_, 2017), and mountain forests (_Hiking in the Mist_, 2019) to stream sources (_Seeking the Sources of Streams_, 2022, a 15-day, 120-kilometer expedition through the Central Mountain Range). Their 2024 fifteenth-anniversary self-selected compilation _Coastland Revisited_ reinterpreted coastal themes; in 2025, _Gazing the Shades of White_ went beyond Taiwan for the first time, following glaciers across the Northern and Southern Hemispheres before returning to Xueshan to seek traces of ancient glaciers. They scored the Japanese film _A Man_ and received the Japan Academy Film Prize for Outstanding Achievement in Music; in 2024 they completed a full Japan tour and have shared the stage with Icelandic composer Ólafur Arnalds. Their core method: **letting nature speak for itself**.

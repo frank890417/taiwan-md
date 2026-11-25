@@ -1,6 +1,6 @@
 ---
-title: 'Shen Wen-cheng: From Ching Chuan Kang Aircraft Mechanic to Dual Golden Melody and Golden Bell Winner'
-description: 'Shen Wen-cheng, a Taiwanese dual Golden Melody and Golden Bell award-winning artist spanning music and hosting. From aircraft mechanic in the late Vietnam War era to household name with "Who Knows My Heart," he etched his name on both the Golden Melody and Golden Bell awards with sincerity and humor.'
+title: 'Shen Wen-cheng: From Qingquan Gang Mechanic to Double Golden King'
+description: 'Born in 1954 in Beinan, Taitung, to a Rukai mother, he enrolled in the Air Force Mechanical School. After graduation, he maintained US fighter jets at Qingquan Gang Air Base, where the base''s western restaurant during the late Vietnam War era served as his musical inspiration. Discovered by Tsai Chen-nan after his discharge, he released his first Hokkien album, "Who Knows My Heart," in 1982, selling over a million copies through night markets, construction sites, and radio. In 1999, he won the Golden Melody Award for Best Dialect Male Singer with "Departure"; in 2013, he won the Golden Bell Award for Best Program Host for the travel show "Taiwan Fishing is Great," becoming a rare dual-award winner in Taiwan. In 2026, at seventy-one years old, he announced the relaunch of his classic program.'
 date: 2026-05-12
 category: 'People'
 tags:
@@ -8,10 +8,10 @@ tags:
     'Shen Wen-cheng',
     'Golden Melody Awards',
     'Golden Bell Awards',
-    'Rukai people',
-    'Vietnam War mechanic',
-    'Taiwanese music',
-    'fishing',
+    'Rukai',
+    'Vietnam War Mechanic',
+    'Taiwanese Music',
+    'Fishing',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md Contributors'
@@ -22,10 +22,10 @@ readingTime: 8
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/沈文程.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '1a696c19ef'
 sourceContentHash: 'sha256:3ccf8e3a350256dc'
 sourceBodyHash: 'sha256:9a3851545dcaaf3c'
-translatedAt: '2026-11-05T07:45:57+08:00'
+translatedAt: '2026-11-25T02:23:29.223712+00:00'
 ---
 
 ## Thirty-Second Overview

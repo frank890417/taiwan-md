@@ -1,17 +1,17 @@
 ---
-title: 'Wu Pao-chun: A Promise to a Paiwan Child'
-description: 'A rural kid from Pingtung with only a junior high education and no French. He won the world’s first Master Baker gold medal in Paris with a lychee‑rose loaf—inside it held a promise made ten years earlier to an indigenous child.'
+title: 'Wu Pao-chun: A Promise to the Paiwan Children'
+description: 'The youngest of eight siblings growing up in the rural area of Neipu, Pingtung, he lost his father at twelve and moved north at fifteen to start as a bread apprentice. He taught himself French to read French baking books. In 2008, he won a silver medal at the World Bread Cup with his fermented rice and longan bread. In 2010, in Paris, he won the gold medal at the Coupe du Monde de la Boulangerie with his lychee rose bread infused with Paiwan millet wine, becoming the first bread master in the world to win a gold medal; French judges called it the best French bread they had ever tasted. His pursuit of graduate studies led to an amendment in Taiwan''s Ministry of Education regulations, which has since been known as the "Wu Pao-chun Clause."'
 date: 2026-04-05
 category: 'People'
 tags:
   [
-    'catering',
-    'baking',
-    'artisan spirit',
-    'world champion',
+    'Catering',
+    'Baking',
+    'Craftsmanship',
+    'World Champion',
     'Pingtung',
-    'bread',
-    'indigenous peoples',
+    'Bread',
+    'Indigenous Peoples',
   ]
 subcategory: '餐飲與職人'
 author: 'Taiwan.md'
@@ -22,10 +22,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/吳寶春.md'
-sourceCommitSha: 'b1a5fea00'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:1b0b64c23c091c1f'
 sourceBodyHash: 'sha256:e355ad9581f498f8'
-translatedAt: '2026-11-18T14:47:47.015348+00:00'
+translatedAt: '2026-11-25T03:20:51.637415+00:00'
 ---
 
 # Wu Pao-chun: A Promise to a Paiwan Child
