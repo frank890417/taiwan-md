@@ -1,32 +1,31 @@
 ---
-title: 'Du Cong-ming'
-description: "Premier docteur en médecine de Taïwan, Du Cong-ming a développé la méthode de sevrage progressif qui permit à 11 498 personnes de se libérer de l'opium en dix-sept ans. Il est également le fondateur de l'Université de médecine de Kaohsiung."
+title: 'Tu Tsung-ming'
+description: "Premier docteur en médecine de l'histoire de Taïwan, né en 1893 à Sanzhi, il obtient son doctorat en médecine de l'Université impériale de Kyoto en 1922, les journaux taïwanais en font la une. Il invente la « méthode de sevrage progressif », aidant plus de 11 498 toxicomanes à l'opium à se désintoxiquer en 17 ans, résolvant le problème de l'opium à Taïwan qui durait depuis trois cents ans ; le principe de détection de la morphine dans l'urine qu'il a inventé reste encore aujourd'hui la méthode de base pour les tests de dépistage de drogues dans le monde, et il est également le fondateur de la première université privée de Taïwan, le Collège médical de Kaohsiung."
 date: 2026-03-31
+category: 'People'
 tags:
   [
-    'médecine',
-    'doctorat en médecine',
-    'médecine moderne taïwanaise',
+    'Médecine',
+    'Doctorat en médecine',
+    'Médecine moderne à Taïwan',
     'Université impériale de Kyoto',
-    'pharmacologie',
-    'opium',
-    'période japonaise',
-    'Université de médecine de Kaohsiung',
+    'Pharmacologie',
+    'Opium',
+    "Période de l'occupation japonaise",
+    'Université médicale de Kaohsiung',
   ]
 subcategory: '歷史人物'
-category: 'People'
 author: 'Taiwan.md'
-readingTime: 8
 featured: false
 lastVerified: 2026-03-31
+lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/杜聰明.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '00dc1f6e04'
 sourceContentHash: 'sha256:cda33c38cf5ae9bc'
 sourceBodyHash: 'sha256:f0f1f0e7889b7e24'
-translatedAt: 2026-05-16T22:26:08Z
-lastHumanReview: false
+translatedAt: '2026-11-25T05:43:25.898136+00:00'
 ---
 
 # Du Cong-ming

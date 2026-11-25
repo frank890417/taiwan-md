@@ -1,12 +1,12 @@
 ---
-title: 'Li Yuan-che'
-description: 'Lauréat du prix Nobel de chimie 1986, pionnier de la dynamique chimique grâce à la technique des faisceaux moléculaires croisés, premier Taïwanais à recevoir un prix Nobel scientifique.'
+title: 'Li-Wen Chen'
+description: "Premier Taïwanais à avoir reçu un prix Nobel de sciences, né en 1936 à Hsinchu pendant l'époque coloniale japonaise. Après avoir obtenu son diplôme en chimie à l'Université nationale de Taiwan, il s'est rendu aux États-Unis pour obtenir un doctorat à l'Université de Californie à Berkeley. À Harvard, il a collaboré avec le prix Nobel Herbert Bach pour développer la technologie révolutionnaire du faisceau moléculaire croisé, permettant pour la première fois aux scientifiques de « voir » les processus de réactions chimiques. Il a reçu le prix Nobel de chimie en 1986. En 1994, il a démissionné de son poste de professeur à Berkeley et a renoncé à sa citoyenneté américaine pour retourner à Taïwan, où il a dirigé l'Academia Sinica pendant 12 ans."
 date: 2026-03-21
 category: 'People'
 tags:
   [
-    'Personnalités',
-    'Li Yuan-che',
+    'Personnalité',
+    'Li-Wen Chen',
     'Prix Nobel',
     'Chimie',
     'Scientifique',
@@ -20,10 +20,10 @@ lastVerified: 2026-03-21
 lastHumanReview: true
 curation: 'incubating'
 translatedFrom: 'People/李遠哲.md'
-sourceCommitSha: '69b3afd91'
-sourceContentHash: 'sha256:c7cb9c37ad53a48c'
-sourceBodyHash: 'sha256:d9744718376b888a'
-translatedAt: '2026-08-04T14:32:57+08:00'
+sourceCommitSha: '00dc1f6e04'
+sourceContentHash: 'sha256:39f343c12ccc5e82'
+sourceBodyHash: 'sha256:9e43ab4838b073f1'
+translatedAt: '2026-11-25T05:55:57.120306+00:00'
 ---
 
 # Li Yuan-che
@@ -56,13 +56,13 @@ Lorsque la nouvelle de l'attribution du prix atteint Taïwan, l'île entière en
 
 Il est intéressant de noter que la nationalité de Li Yuan-che au moment du prix était américaine. Cela n'a toutefois en rien entamé la fierté des Taïwanais, qui savaient que cet enfant ayant grandi à Hsinchu et parlant le taïwanais portait en lui l'essence même de Taïwan.
 
-## 1994 : la promesse du retour au pays
+## 1994 : La promesse de revenir au pays après ses études
 
-En 1994, alors qu'il est au sommet de sa carrière académique, Li Yuan-che prend une décision qui stupéfie la communauté scientifique internationale : il démissionne de son poste de professeur à Berkeley, renonce à sa nationalité américaine et retourne à Taïwan pour devenir président de l'Academia Sinica (1994-2006).
+En 1994, alors qu'il était au sommet de sa carrière académique, Li Yuan-che prit une décision qui stupéfia la communauté scientifique internationale : démissionner de son poste de professeur à Berkeley, renoncer à sa nationalité américaine et retourner à Taïwan pour devenir président de l'Academia Sinica (1994-2006).
 
-Cette décision fut controversée. Ses détracteurs estimaient qu'il gaspillait son influence sur la scène internationale, tandis que ses partisans y voyaient l'accomplissement d'un idéal de service à la patrie par le chercheur. La raison de Li Yuan-che était simple : « Je souhaite mettre mon expérience au service de Taïwan pour en faire un pôle scientifique majeur en Asie. »
+Cette décision fut controversée. Ses détracteurs estimaient qu'il gaspillait son influence sur la scène internationale, tandis que ses partisans considéraient qu'il concrétisait l'idéal du chercheur au service de sa patrie. La raison invoquée par Li Yuan-che lui-même était simple : « J'espère utiliser mon expérience pour faire de Taïwan un centre scientifique majeur en Asie. »
 
-Durant ses douze années à la tête de l'Academia Sinica, Li Yuan-che a modernisé l'organisation, instauré un système d'évaluation de la recherche internationalisé et créé de nouveaux instituts dans des domaines tels que l'informatique, les sciences biomédicales et la génomique. Il a attiré des chercheurs de renommée internationale, tels que Weng Chi-hui et Lai Ming-chao, insufflant une nouvelle vitalité à la science taïwanaise.
+Durant ses douze années à la présidence de l'Academia Sinica, Li Yuan-che a impulsé la modernisation de l'organisation et mis en place un système d'évaluation de la recherche internationalisé. Il a notamment supervisé la création de plusieurs nouveaux instituts, tels que ceux des sciences de l'information, des sciences biomédicales et de la recherche génomique. En faisant revenir à Taïwan des chercheurs de renommée internationale comme Weng Chi-hui ou Lai Ming-shao, il a insufflé une nouvelle vitalité au monde scientifique taïwanais.
 
 ## Participation controversée à la réforme éducative
 

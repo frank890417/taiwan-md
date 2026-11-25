@@ -1,13 +1,13 @@
 ---
-title: 'Jeremy Lin : de deux licenciements en 15 jours à une retraite en double MVP en TPBL'
-description: "Champion d'État au lycée sans obtenir de bourse, non drafté, licencié deux fois en 15 jours — puis il a fait découvrir au monde la « Linsanity »"
+title: 'Jeremy Lin : son parcours de basket, de deux licenciements en 15 jours à une retraite en tant que double MVP de la TPBL'
+description: "Joueur de basket-ball américano-taïwanais, né en 1988 en Californie, il est issu de la neuvième génération d'immigrés taïwanais. Après avoir mené son équipe au titre de champion de l'État de Californie au lycée, aucune université de division I de la NCAA ne lui a offert de bourse. Après ne pas avoir été sélectionné lors de la draft, il a été licencié par deux équipes de la NBA en l'espace de 15 jours. En février 2012, entré en jeu comme remplaçant, il a marqué en moyenne 24,4 points sur sept matchs consécutifs, déclenchant le phénomène « Linsanity ». En 2019, il remporte le titre de champion NBA avec les Raptors, devenant le premier joueur d'origine asiatique à obtenir un titre NBA. Il prend sa retraite en 2025 à Taïwan, avec un titre de MVP de la saison et de MVP des finales."
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Personnalité',
     'Basket-ball',
-    "Américain d'origine taïwanaise",
+    'Américano-Taïwanais',
     'NBA',
     'Linsanity',
     'Université Harvard',
@@ -20,10 +20,10 @@ featured: true
 lastVerified: 2026-05-16
 lastHumanReview: true
 translatedFrom: 'People/林書豪.md'
-sourceCommitSha: '85926aa3b'
+sourceCommitSha: '00dc1f6e04'
 sourceContentHash: 'sha256:5bcf40616e842909'
 sourceBodyHash: 'sha256:15c8e50bb3ba07a7'
-translatedAt: '2026-05-20T05:08:34+08:00'
+translatedAt: '2026-11-25T05:34:09.931794+00:00'
 ---
 
 > **En 30 secondes :** Jeremy Lin, né en 1988 en Californie, est un descendant de neuvième génération d'immigrés taïwanais. Au lycée, il a mené son équipe au titre de champion de Californie, sans qu'aucune université NCAA Division I ne lui offre une bourse. Entré à Harvard, il n'a pas été drafté, puis a été licencié par deux franchises NBA en l'espace de 15 jours. En février 2012, appelé en remplacement, il a inscrit en moyenne 24,4 points sur sept matchs consécutifs, déclenchant le phénomène « Linsanity ».[^1] En 2019, il a remporté le titre NBA avec les Raptors de Toronto, devenant le premier joueur américain d'origine asiatique à obtenir un anneau de champion NBA.[^2] En 2025, il a pris sa retraite à Taïwan en tant que MVP de la saison et MVP des finales, bouclant un parcours complet des États-Unis à Taïwan.[^3]

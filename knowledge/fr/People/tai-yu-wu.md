@@ -1,20 +1,20 @@
 ---
-title: "Wu Da-You : président de l'Academia Sinica qui recommanda Yang Chen-Ning et Lee Tsung-Dao aux États-Unis, et ses onze années fondatrices pour la recherche scientifique taïwanaise"
-description: "Physicien théoricien, président de l'Academia Sinica, mentor de Yang Chen-Ning et Lee Tsung-Dao, deux lauréats du prix Nobel, figure fondatrice de la science taïwanaise"
+title: "Wu Ta-You : Le président de l'Academia Sinica qui a recommandé à Yang Chen-Ning et Tsung-Dao Lee de partir aux États-Unis, les onze années fondatrices de la recherche scientifique à Taïwan"
+description: "Physicien ayant débuté par des recherches en spectroscopie moléculaire et en mécanique quantique, il a enseigné pendant plus de dix ans à l'Université du Michigan. En 1946, il a personnellement recommandé à Yang Chen-Ning et Tsung-Dao Lee de poursuivre leurs études aux États-Unis, et onze ans plus tard, ces deux derniers recevaient conjointement le prix Nobel de physique. De 1983 à 1994, il a occupé le poste de président de l'Academia Sinica ; à une époque où Taïwan se concentrait prioritairement sur la croissance économique, il a soutenu l'importance irremplaçable de la recherche fondamentale, a mis en place un système d'évaluation de la recherche plus rigoureux et a attiré des talents de l'étranger, posant ainsi les bases institutionnelles du système de recherche scientifique taïwanais."
 date: 2026-03-19
+category: 'People'
 tags:
   ['Personnalité', 'Scientifique', 'Physique', 'Éducation', 'Academia Sinica']
 subcategory: '科學與學術'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-16
 lastHumanReview: true
-featured: true
-translatedFrom: People/吳大猷.md
-sourceCommitSha: '85926aa3b'
+translatedFrom: 'People/吳大猷.md'
+sourceCommitSha: '45b1bf37e0'
 sourceContentHash: 'sha256:ea84edf10c10d1a4'
 sourceBodyHash: 'sha256:54cafe2c5032e30e'
-translatedAt: '2026-05-17T06:15:00Z'
-category: People
-author: 'Taiwan.md'
+translatedAt: '2026-11-25T05:48:48.833110+00:00'
 ---
 
 > **En bref (30 secondes) :** Wu Da-You (1907–2000), physicien théoricien. En 1946, il recommanda personnellement Yang Chen-Ning et Lee Tsung-Dao pour des études aux États-Unis ; onze ans plus tard, les deux obtinrent conjointement le prix Nobel de physique. De 1983 à 1994, il présida l'Academia Sinica pendant onze ans, défendant les sciences fondamentales à une époque où Taïwan privilégiait la croissance économique, et posant les bases du système de recherche scientifique taïwanais.

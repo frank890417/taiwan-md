@@ -1,17 +1,17 @@
 ---
-title: 'Lin Liang : Simple, mais avec du goût'
-description: "De l'aîné qui a perdu son père sur les rives de la rivière Kowloon en 1944 à son grand-père de 95 ans décédé dans son sommeil en décembre 2019. Lin Liang a prouvé en 73 ans que les enfants méritent d'être considérés comme des lecteurs complets."
+title: 'Lin Liang : La simplicité est une chose, mais elle doit être profonde et savoureuse'
+description: "Écrivain de littérature jeunesse taïwanaise. En 1946, il débarque à Keelung depuis Xiamen avec une caisse de livres. En 1948, il rejoint le tout nouveau journal « Guoyu Ribao » en tant qu'éditeur de la section jeunesse, et écrit ainsi pendant soixante-treize ans. Il a théorisé l'art du langage simple, soutenant que les enfants méritent d'être considérés comme des lecteurs à part entière. Sa chronique « Décrire des images par les mots » a été publiée de 1951 jusqu'à une semaine avant son décès à l'âge de 95 ans, totalisant près de six mille articles ; son recueil d'essais « Petit Soleil » a été réédité plus de cent trente fois. En 2012, il a reçu le Prix national des arts, et en 2018, il est devenu le lauréat le plus âgé de l'histoire de la littérature jeunesse à Taïwan."
 date: 2026-04-28
 category: 'People'
 tags:
   [
     'littérature jeunesse',
     'écrivain',
-    'Taiwan Daily',
+    'Guoyu Ribao',
     "l'art du langage simple",
     'Petit Soleil',
     'pionnier culturel',
-    'littérature post-guerre à Taiwan',
+    "littérature taïwanaise d'après-guerre",
   ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
@@ -23,10 +23,10 @@ readingTime: 16
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/林良.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '20dcddf339'
 sourceContentHash: 'sha256:ff949a14cc54475a'
 sourceBodyHash: 'sha256:99fcaed64626278d'
-translatedAt: '2026-09-22T08:23:41.098684+00:00'
+translatedAt: '2026-11-25T06:38:51.262389+00:00'
 ---
 
 > **Aperçu en 30 secondes :**

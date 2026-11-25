@@ -1,31 +1,31 @@
 ---
-title: 'Wang Chi-lin et Lee Yang (« paire Lin-Yang »)'
-description: 'Des camarades de collège aux médaillés d’or olympiques : la « paire Lin-Yang » a battu la Chine en deux manches sèches en 34 minutes, offrant à Taïwan la première médaille d’or olympique de son histoire en badminton'
+title: 'Wang Chi-lin et Lee Yang (Paire Lin-Yang)'
+description: "Le duo de badminton masculin taïwanais, composé d'anciens camarades de classe du collège municipal Zhongshan de Taipei, Wang Chi-lin et Lee Yang, a perfectionné son jeu pendant vingt ans pour devenir champions du monde. Lors de la finale des Jeux olympiques de Tokyo le 31 juillet 2021, ils ont battu le duo chinois Li Junhui et Liu Yuchen en seulement 34 minutes avec un score de 21-18, 21-12, remportant ainsi la première médaille d'or olympique de l'histoire du badminton taïwanais sous les acclamations des 23 millions de Taïwanais. Lors des Jeux olympiques de Paris 2024, les deux partenaires, âgés de 29 ans, ont remporté l'or à nouveau, devenant ainsi les premiers champions olympiques de l'histoire du badminton taïwanais à défendre avec succès leur titre."
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '體育'
 tags:
   [
     'athlètes',
     'Wang Chi-lin',
     'Lee Yang',
-    'paire Lin-Yang',
+    'Paire Lin-Yang',
     'badminton',
     'Jeux olympiques de Tokyo',
     'Jeux olympiques de Paris',
-    'médaille d’or',
+    "médaille d'or",
   ]
-readingTime: 12
+subcategory: '體育'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-19
 lastHumanReview: true
-featured: true
+difficulty: 'beginner'
+readingTime: 12
 translatedFrom: 'People/麟洋配.md'
-sourceCommitSha: 'c32d210ff'
+sourceCommitSha: '00dc1f6e04'
 sourceContentHash: 'sha256:940cd3ea72960eac'
 sourceBodyHash: 'sha256:4c0e104cb6fe8601'
-translatedAt: '2026-05-20T05:08:34+08:00'
-difficulty: 'beginner'
+translatedAt: '2026-11-25T05:22:05.086734+00:00'
 ---
 
 # Wang Chi-lin et Lee Yang (« paire Lin-Yang »)

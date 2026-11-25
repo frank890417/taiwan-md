@@ -1,31 +1,30 @@
 ---
-title: 'Chi-Huey Wong'
-description: "Figure mondiale de la chimie des glucides, lauréat du prix Wolf de chimie 2014, ancien président de l'Academia Sinica, dont la carrière a été éclipsée par l'affaire OBI Pharma avant que la justice ne le disculpe"
+title: 'Weng Chi-huei'
+description: "Une autorité mondiale dans le domaine de la chimie des glucides, né en 1948 à Tainan. Après avoir obtenu son diplôme du département de chimie de l'Université nationale de Taiwan, il s'est rendu aux États-Unis pour obtenir un doctorat en chimie organique au MIT, avant de s'installer au Salk Institute. En 2014, il a remporté le prix Wolf de chimie, considéré comme un « précurseur du prix Nobel », au point que les membres du comité Nobel avaient envisagé de se rendre à Taïwan pour le rencontrer. En 2016, il a démissionné de son poste de directeur de l'Academia Sinica suite à l'affaire Haoding ; en 2019, il a été acquitté en première instance, déclarant : « C'est moi qui ai promu la loi sur les biotechnologies, et pourtant j'en suis devenu la première victime »."
 date: 2026-03-31
+category: 'People'
 tags:
   [
-    'universitaire',
+    'chercheur',
     'chimie',
     'Academia Sinica',
     'chimie des glucides',
-    'affaire OBI Pharma',
+    'affaire Haoding',
     'Nobel',
     'prix Wolf',
   ]
 subcategory: '科學與學術'
-category: 'People'
 author: 'Taiwan.md'
-readingTime: 10
 featured: false
 lastVerified: 2026-03-31
+lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/翁啟惠.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '00dc1f6e04'
 sourceContentHash: 'sha256:984fef279b1af05b'
 sourceBodyHash: 'sha256:8e4d8fb8704570d2'
-translatedAt: 2026-05-16T22:26:08Z
-lastHumanReview: false
+translatedAt: '2026-11-25T05:36:17.648961+00:00'
 ---
 
 # Chi-Huey Wong
