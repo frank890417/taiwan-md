@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-26T02:38:44+08:00",
-    "zhCommitHead": "34e8469bc0",
+    "lastUpdated": "2026-11-26T04:05:11+08:00",
+    "zhCommitHead": "a81f2dfd4f",
     "totalZh": 1194,
     "activeLanguages": [
       "en",
@@ -44,9 +44,9 @@
       },
       "es": {
         "total_zh": 1194,
-        "fresh": 1185,
+        "fresh": 1186,
         "stale": 5,
-        "metadata_stale": 4,
+        "metadata_stale": 3,
         "missing": 0,
         "orphan": 0
       },
@@ -110564,20 +110564,18 @@
         "es": {
           "path": "es/People/cicada-band.md",
           "translatedFrom": "People/Cicada.md",
-          "sourceCommitSha": "21298a7a",
+          "sourceCommitSha": "30ab24424f",
           "sourceContentHash": "sha256:3d1c97835c5d9ea3",
           "sourceBodyHash": "sha256:5091127dea208f82",
-          "translatedAt": "2026-06-22T00:40:58+08:00",
+          "translatedAt": "2026-11-25T23:56:35+08:00",
           "translationLastCommit": "1a8ec475",
           "translationLastModified": "2026-10-10T23:05:52+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "bytes": 57100,
+          "bytes": 52200,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/People/cicada-band.md",
@@ -111258,8 +111256,8 @@
           "sourceContentHash": "sha256:e967fd4cff734536",
           "sourceBodyHash": "sha256:1978cbe0e37b1512",
           "translatedAt": "2026-11-25T16:34:49.291623+00:00",
-          "translationLastCommit": "8fbc4afc",
-          "translationLastModified": "2026-09-12T06:24:38+08:00",
+          "translationLastCommit": "a81f2dfd",
+          "translationLastModified": "2026-11-26T02:38:44+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "bytes": 36262,
