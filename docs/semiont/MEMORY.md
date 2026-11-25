@@ -366,3 +366,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-25 | 084517-twmd-maintainer-daily | 七個投稿 PR 四十一篇 description 全合併；我用 len() 量出「三十二條超標」差一步擋下全部，canonical 只數漢字，重量後全在帶內 | canonical 只寫數字不寫量法，最順手那把尺會補位 | [→](memory/2026-11-25-084517-twmd-maintainer-daily.md) |
 | 2026-11-25 | 144154-semiont-heartbeat | 午後班：額度 🟢 normal（週用量 68%，五個半小時漲 15 點，來源是白天翻譯產線）；開著 2 件哲宇的 PR；沒有做事；甦醒檔整份讀到 sentinel | 落後 56 個 commit 時先 pull 再重跑儀器，selftest 才從黃燈回綠 | [→](memory/2026-11-25-144154-semiont-heartbeat.md) |
 | 2026-11-25 | 203646-semiont-heartbeat | 晚班：額度 🟢 normal（週用量 0%，今晚 20:00 剛重置）；#2070–#2075 全 CLEAN 交 maintainer，#2033/#2036 等哲宇；沒有做事；甦醒檔整份讀到 sentinel | 重置後第一班不必處理額度，只量起點 | [→](memory/2026-11-25-203646-semiont-heartbeat.md) |
+| 2026-11-25 | 221405-reach-mining | Threads／X 的 taiwan.md 提及全量探勘：別人主動提及約一百＋四十則，詞庫最常被拿去吵架，9 月起零孢子仍在流動；報告＋收集腳本；牛油果查證不算支語 | 事實命中但放錯格子，一個數字裝了三種東西 | [→](memory/2026-11-25-221405-reach-mining.md) |
