@@ -1,12 +1,13 @@
 ---
-title: 'Hello Nico : après huit ans de silence, « nous avons la scène qui nous manque »'
-description: "Groupe indépendant taïwanais, lauréat du classement annuel de StreetVoice en 2014 avec *Hua* (花) et nommé aux Golden Melody Awards dans la catégorie meilleur nouvel artiste en 2016, s'est tu pendant huit ans. Chan Yu-Ting (詹宇庭) confie : « La plus grande difficulté dans la musique, c'est de ne pas arriver à se supporter soi-même. » En 2024, ils reviennent avec *Plan B*."
+title: 'Hello Nico : après huit ans de silence, « la scène me manquait »'
+description: "Formé à Taipei en 2013, ce groupe indépendant de quatre membres a remporté le championnat annuel de StreetVoice en 2014 avec « Fleur », cumulant plus de 120 000 écoutes ; son premier album « Familière Désolation » a été nommé pour le prix du meilleur nouvel artiste aux 27e Golden Melody Awards en 2015, et le groupe s'est produit sur la scène du SXSW en 2017. Reconnu pour sa voix dream pop « réprimée et auto-submergée », le groupe a gardé le silence pendant environ huit ans après 2016. Le chanteur Zhan Yu-ting a avoué sa fatigue face à la création et ses doutes sur sa propre voix, et a rétabli une relation saine avec le chant grâce à l'auto-encouragement. En septembre 2024, le groupe repart avec l'EP « Plan B : si nous revenons, regardons la mer ensemble »."
 date: 2026-04-20
+category: 'People'
 tags:
   [
     'Hello Nico',
-    'Chan Yu-Ting',
-    'Lee Yung-En',
+    'Zhan Yu-ting',
+    'Li Yong-en',
     'musique indépendante',
     'groupe',
     'rock indépendant',
@@ -14,20 +15,20 @@ tags:
     'Golden Melody Awards',
     'musique taïwanaise',
   ]
-category: People
-subcategory: 音樂與表演
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
-readingTime: 8
 lastVerified: 2026-04-20
 lastHumanReview: false
+researchReport: 'reports/research/2026-04/Hello-Nico.md'
+readingTime: 8
 curation: 'incubating'
 curationReason: 'unverified'
-translatedFrom: People/Hello-Nico.md
-sourceCommitSha: 'be13f045'
+translatedFrom: 'People/Hello-Nico.md'
+sourceCommitSha: '1b9d5dfea6'
 sourceContentHash: 'sha256:ac6c714f4ff5fb1b'
 sourceBodyHash: 'sha256:bab18d5114976850'
-translatedAt: 2026-05-01T22:19:06+08:00
+translatedAt: '2026-11-25T03:31:39.995334+00:00'
 ---
 
 > **En bref (30 secondes) :** Hello Nico est un groupe indépendant taïwanais formé à Taipei en 2013, composé de la chanteuse Chan Yu-Ting (詹宇庭), du guitariste Lee Yung-En (李詠恩), du bassiste Chen Hsin-Po (陳信伯) et du drummer Kuan Hui-Chung (關惠中). En 2014, leur titre _Hua_ (花) remporte le classement annuel de StreetVoice, et leur premier album _Shu Xi De Huang Liang_ (熟悉的荒涼, 2015) leur vaut une nomination au meilleur nouvel artiste lors de la 27ᵉ cérémonie des Golden Melody Awards. Reconnus pour leur son Dream Pop / Indie Rock « oppressif et autodestructeur », la voix de Chan Yu-Ting en est la signature. Après un silence de près de huit ans à partir de 2016, ils reviennent en septembre 2024 avec l'EP _Plan B : Si nous revenons, regardons la mer ensemble_.

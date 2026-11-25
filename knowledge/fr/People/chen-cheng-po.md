@@ -1,10 +1,9 @@
 ---
 title: 'Chen Cheng-po'
-description: "Il a conquis la prestigieuse exposition impériale de Tokyo avec ses huiles sur toile, avant d'être fusillé devant la gare de Chiayi — et c'est souvent sa mort, non ses tableaux, qui l'a fait connaître du monde."
+description: "Un peintre à l'huile originaire de Chiayi, le premier Taïwanais à avoir une peinture à l'huile sélectionnée pour l'Exposition d'art impériale du Japon. Il a enseigné pendant quatre ans à Shanghai, côtoyant Zhang Daqian, Pan Yuliang et d'autres. De retour à Taïwan, il a créé des œuvres majeures comme « Coucher de soleil sur Tamsui ». Lors de l'incident du 28 février, en tant que représentant des négociations, il s'est rendu à l'aéroport de Shuishang et a été fusillé devant la gare de Chiayi. Son épouse Zhang Jie a caché plusieurs centaines de tableaux dans le grenier et brûlé les cadres devant la porte ; ils y sont restés cachés pendant trente ans. « Coucher de soleil sur Tamsui » a ensuite été vendu aux enchères pour environ 220 millions de nouveaux dollars taïwanais, restant à ce jour le record d'enchères pour une peinture à l'huile d'un artiste taïwanais."
 date: 2026-03-31
 category: 'People'
-tags:
-  ['art', 'peinture', 'incident du 28 février', 'Chiayi', 'période japonaise']
+tags: ['Art', 'Peinture', '28 février', 'Chiayi', 'Période coloniale japonaise']
 subcategory: '藝術家'
 author: 'Taiwan.md'
 featured: false
@@ -13,10 +12,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/陳澄波.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '45b1bf37e0'
 sourceContentHash: 'sha256:485587af49d56815'
 sourceBodyHash: 'sha256:433a66ecaa1d5d52'
-translatedAt: '2026-11-04T23:49:17.736078+00:00'
+translatedAt: '2026-11-25T03:56:48.343949+00:00'
 ---
 
 > **En 30 secondes :** Le 25 mars 1947, devant la gare de Chiayi, un homme dont les mains tenaient d'ordinaire un pinceau fut ligoté avec du fil de fer et exécuté en public. Il s'appelait Chen Cheng-po. Premier Taïwanais à avoir intégré la grande exposition impériale japonaise avec une peinture à l'huile, il s'était rendu en délégation pour négocier un cessez-le-feu — et n'en était jamais revenu.

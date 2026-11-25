@@ -1,27 +1,28 @@
 ---
-title: "Hsu Mei-hua : de l'opposition à Tsinghua UniLight à la grande révocation, une décennie sous un pseudonyme citoyen"
-description: "« Hsu Mei-hua » n'est pas un vrai nom, mais un pseudonyme apparu à deux moments clés de la société civile taïwanaise — en 2015, elle a contribué à bloquer le projet d'acquisition de semi-conducteurs par le groupe chinois Tsinghua UniLight en tant que l'une des « Quatre Chevaliers », et en 2025, elle est devenue le centre de « financement participatif » le plus contre-intuitif de la vague de grande révocation : sans toucher un centime, elle a coordonné plus de vingt millions de dons citoyens."
+title: "Hsu Mei-hua : de l'opposition à Unigroup au grand mouvement de destitution, dix ans sous un pseudonyme citoyen"
+description: "Un pseudonyme citoyen délibérément anonyme, et non son véritable nom. En 2015, en tant que l'un des « quatre cavaliers » se faisant appeler le « moine balayeur », elle a aidé à bloquer la tentative de rachat par l'entreprise chinoise Unigroup de trois grandes usines de tests et de conditionnement de semi-conducteurs à Taïwan, pour un montant total de près de NT$900 milliards. Lors du grand mouvement de destitution de 2025, elle s'est transformée en « centre de financement », où les sympathisants effectuaient des virements directs aux prestataires pour fabriquer des véhicules publicitaires LED ; sans toucher un seul centime, elle a coordonné plus de NT$20 millions. Les 31 tentatives de destitution ayant toutes échoué (score de 31 contre 0), elle qualifie cela d'« échec le plus réussi », résumant en dix ans la trajectoire de la société civile taïwanaise, passant de la défense technologique à la mobilisation démocratique."
 date: 2026-04-17
-author: 'Taiwan.md Contributors'
-category: People
+category: 'People'
 tags:
   [
     'Hsu Mei-hua',
-    'Opposition à UniLight',
-    'Grande révocation',
+    'Opposition à Unigroup',
+    'Grand mouvement de destitution',
     'Mouvement citoyen',
     'Semi-conducteurs',
     'Démocratie taïwanaise',
   ]
-readingTime: 12
+subcategory: '教育與社會'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-17
 lastHumanReview: true
-featured: false
-translatedFrom: People/許美華.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 12
+translatedFrom: 'People/許美華.md'
+sourceCommitSha: '1b9d5dfea6'
 sourceContentHash: 'sha256:1b5d90dfca7bb147'
 sourceBodyHash: 'sha256:e380720def0effee'
-translatedAt: 2026-05-01T20:54:17+08:00
+translatedAt: '2026-11-25T03:08:32.913054+00:00'
 ---
 
 > **En 30 secondes :** « Hsu Mei-hua » est un pseudonyme anonyme, pas un vrai nom. Ce pseudonyme est apparu à deux moments clés de la société civile taïwanaise : en 2015, elle était l'une des « Quatre Chevaliers » et a contribué à bloquer le projet d'acquisition de près de neuf milliards de dollars taïwanais portant sur les trois grands sous-traitants de test et d'encapsulation de semi-conducteurs taïwanais (Powertech Technology, SPIL et ChipMOS Technologies) par le groupe chinois Tsinghua UniLight ; en 2025, elle est devenue le « centre de financement participatif » du mouvement de « grande révocation », où ses fans versaient directement aux fournisseurs pour financer des véhicules publicitaires LED, des documents de propagande et des processions, sans qu'elle touche un centime. La révocation s'est soldée par un échec total de 31 à 0, ce qu'elle a qualifié de « l'opération la plus réussie parmi les échecs ». La trajectoire de ce pseudonyme sur dix ans condense un pan du spectre de la société civile taïwanaise, passant de la ligne de défense techno-économique à la mobilisation démocratique.

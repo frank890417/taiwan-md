@@ -1,31 +1,30 @@
 ---
-title: 'Tseng Ya-ni'
-description: "109 semaines au rang mondial numéro un, 15 victoires sur le circuit LPGA dont 5 Majeurs — à 22 ans, la joueuse la plus jeune de l'histoire à détenir 5 trophées en Grand Chelem, surpassant le record de Tiger Woods. En 2025, elle met fin à onze ans de disette en remportant à nouveau un titre."
+title: 'Yani Tseng'
+description: "Golfeuse professionnelle taïwanaise, née en 1989 à Yangmei, Taoyuan. En 2008, à l'âge de dix-neuf ans, elle a remporté son premier tournoi majeur de la LPGA, devenant ainsi la première joueuse d'origine chinoise à remporter un titre de la LPGA. En 2011, elle a atteint la première place du classement mondial, établissant un record de 109 semaines consécutives qui est resté inégalé dans l'histoire du golf féminin pendant plus de dix ans. À seulement vingt-deux ans, elle est devenue la plus jeune joueuse de l'histoire à détenir cinq titres majeurs, totalisant 15 victoires sur le circuit LPGA et 5 titres majeurs au cours de sa carrière. Après avoir surmonté des blessures à la hanche et des périodes difficiles, elle a mis fin à une disette de onze ans en 2025 en remportant son 28e titre professionnel sur le parcours de Yangshin."
 date: 2026-03-31
+category: 'People'
 tags:
   [
     'Sport',
     'Golf',
     'LPGA',
-    'Numéro un mondial',
+    'Numéro 1 mondiale',
     'Golf professionnel',
     'Grand Chelem',
     'Golf féminin',
   ]
 subcategory: '體育'
-category: 'People'
 author: 'Taiwan.md'
-readingTime: 12
 featured: false
 lastVerified: 2026-03-31
+lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/曾雅妮.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '20dcddf339'
 sourceContentHash: 'sha256:890dbecd669ee83c'
 sourceBodyHash: 'sha256:480fe5c7e2becbe9'
-translatedAt: '2026-04-14T19:15:12+08:00'
-lastHumanReview: false
+translatedAt: '2026-11-25T03:19:34.303063+00:00'
 ---
 
 # Tseng Ya-ni

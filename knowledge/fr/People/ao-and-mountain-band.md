@@ -1,35 +1,36 @@
 ---
-title: "凹與山 : deux employées de la tech qui composent au synthétiseur ce qu'elles ne peuvent pas dire au bureau"
-description: "凹與山（Our Shame）est un duo taïwanais de folktronica, composé de Xiao Ao (chant, synthétiseur, productrice) et Isan (batterie, pad). Elles se sont rencontrées au club de musique live de leur lycée, puis ont formé un duo folk acoustique à l'université, remportant en 2015 le prix de la meilleure composition au concours Jin Shao (金韶獎) avec leur morceau « Cher(e) » en version démo acoustique. Après leurs études, toutes deux ont été embauchées dans l'industrie technologique. L'hiver 2018, elles ont renommé leur ancien groupe folk « Wei Xiao Ao » en « 凹與山 » : Xiao Ao a acheté un synthétiseur, Isan est passée au pad, et leur musique a évolué vers la folktronica. En 2022, après le décès d'une proche de Xiao Ao, celle-ci a quitté son emploi à plein temps et le groupe a sorti son premier album, « Modern Problem », nommé aux Golden Indie Music Awards (金音獎) dans les catégories meilleur album pop alternative et meilleur artiste émergent. Le 4 août 2025, elles ont publié leur deuxième album, « Hidden Album », avec une équipe de production internationale comprenant le mixeur britannique Jay Reynolds (Grammy Awards), l'ingénieur américain Brian Elgin (Grammy Awards, ayant travaillé avec Dua Lipa et Lana Del Rey), le collectif japonais ASOBOiSM, entre autres. L'album passe de « l'anxiété technologique » (Modern Problem) à « les ombres de l'humanité masquées par la technologie » — automutilation, amours interdites, escroqueries aux cryptomonnaies, expériences corporelles féminines — dont un morceau, « Miffy », rend hommage à la militante Chen Mei-Hui (陳梅慧)."
+title: "Ao & Shan : deux employées du secteur technologique qui utilisent des synthétiseurs pour exprimer ce qu'elles ne peuvent pas dire au bureau"
+description: "Duo de folktronica taïwanais, Xiao Ao et Isan se sont rencontrées au club de rock de leur lycée. En 2015, elles ont remporté le prix de la meilleure création aux Golden Melody Awards avec leur folk acoustique. Après l'obtention de leurs diplômes, toutes deux sont devenues employées dans le secteur technologique. À l'hiver 2018, elles changent de nom de groupe et d'instruments : Xiao Ao achète un synthétiseur et Isan passe aux pads. En 2022, suite au décès d'un ami proche de Xiao Ao, celle-ci démissionne de son emploi à plein temps. Leur premier album, « Modern Problem », a été nommé aux Golden Indie Music Awards dans les catégories Meilleur Pop Alternative et Meilleur Nouvel Artiste. Si leur premier opus traitait de l'anxiété générée par la technologie, leur album de 2025, « Hidden Album », se tourne vers ce que la technologie tend à occulter."
 date: 2026-04-18
-author: 'Taiwan.md'
-category: People
-subcategory: 音樂與表演
+category: 'People'
 tags:
   [
-    Personnalités,
-    凹與山,
-    Our Shame,
-    小凹,
-    Isan,
-    Folktronica,
-    Folktronica,
-    Musique indépendante,
-    Golden Indie Music Awards,
-    Jin Shao Awards,
-    Modern Problem,
-    Hidden Album,
-    Synthétiseur,
+    'Personnalités',
+    'Ao & Shan',
+    'Our Shame',
+    'Xiao Ao',
+    'Isan',
+    'Folktronica',
+    'Folktronica',
+    'Musique indépendante',
+    'Golden Indie Music Awards',
+    'Golden Melody Awards',
+    'Modern Problem',
+    'Hidden Album',
+    'Synthétiseur',
   ]
-readingTime: 16
+subcategory: '音樂與表演'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-18
 lastHumanReview: true
-featured: false
-translatedFrom: People/凹與山.md
-sourceCommitSha: '4b6d28c5'
+researchReport: 'reports/research/2026-04/凹與山.md'
+readingTime: 16
+translatedFrom: 'People/凹與山.md'
+sourceCommitSha: '30ab24424f'
 sourceContentHash: 'sha256:fb2f6f7aedcd6d81'
 sourceBodyHash: 'sha256:99f87ca9cdb0ab32'
-translatedAt: 2026-05-01T20:54:17+08:00
+translatedAt: '2026-11-25T02:55:33.302601+00:00'
 ---
 
 > **En 30 secondes :** 凹與山（Our Shame）est un duo taïwanais de folktronica, composé de la chanteuse Xiao Ao (Estelle H) et de la batteuse Isan. Elles se sont rencontrées au club de musique de leur lycée, puis ont remporté en 2015 le **prix de la meilleure composition au concours Jin Shao (金韶獎)** avec leur version acoustique de « Cher(e) ». Après leurs études, toutes deux ont travaillé dans l'industrie technologique. L'hiver 2018, elles ont renommé leur ancien groupe folk « Wei Xiao Ao » en « 凹與山 » : Xiao Ao a acheté un synthétiseur, Isan est passée au pad, et le duo s'est orienté vers la folktronica. En 2019, elles ont sorti l'EP « Toutes les bonnes choses arriveront », mixé par le producteur japonais primé AKNIT. En 2022, leur premier album « Modern Problem » a été nommé **aux 13es Golden Indie Music Awards (金音獎) dans les catégories meilleur album pop alternative et meilleur artiste émergent**, avec 60 % des morceaux en anglais. Le 4 août 2025, leur deuxième album « Hidden Album » est sorti, avec une équipe de production internationale comprenant le mixeur britannique Jay Reynolds (Grammy Awards), l'ingénieur américain Brian Elgin (collaborant avec Dua Lipa et Lana Del Rey), le collectif japonais ASOBOiSM et le duo français Odd People Club — le thème passant de « l'anxiété technologique » aux « ombres de l'humanité masquées par la technologie » : automutilation, amours interdits, escroqueries aux cryptomonnaies, expériences corporelles féminines. Le morceau « Miffy » rend hommage à la militante Chen Mei-Hui (陳梅慧). Le 4 janvier 2026, un concert éponyme de « Hidden Album » a eu lieu.

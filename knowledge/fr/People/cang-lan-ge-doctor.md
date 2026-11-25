@@ -1,12 +1,12 @@
 ---
-title: "Cang Lan Ge : Transposer la distance de la blouse blanche devant l'objectif"
-description: 'De sa chaîne YouTube médicale lancée en 2017 à ses explications sur les vaccins pendant la pandémie, Wu Qiying place la compétence médicale, la performance et la communication publique sur la même table.'
+title: "Blue Pigeon : Transposer la distance de Grey's Anatomy devant l'objectif"
+description: "Médecin pédiatre diplômé de la faculté de médecine de l'Université nationale de Taiwan, il est actuellement médecin titulaire à la branche de Beigang d'Apple Tree. Depuis 2017, il gère « Le monde médical de Blue Pigeon », passant des connaissances théoriques à l'analyse de séries médicales et aux commentaires d'actualité ; pendant la pandémie, ses vidéos explicatives sur les vaccins ont intégré le débat public. Fidèle à sa philosophie d'« expliquer la médecine d'une manière compréhensible pour le public », il utilise YouTube pour l'analyse de films et séries, les podcasts pour l'actualité médicale, et Square (Fanggez) pour ses articles de fond. Il publie également des livres et anime des conférences, maintenant une ligne de conduite juste entre professionnalisme, divertissement et collaborations commerciales."
 date: 2026-08-16
 category: 'People'
 tags:
   [
-    'Cang Lan Ge',
-    'Wu Qiying',
+    'Blue Pigeon',
+    'Wu Chi-ying',
     'vulgarisation médicale',
     'YouTube',
     'santé publique',
@@ -19,10 +19,10 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/蒼藍鴿.md'
-sourceCommitSha: 'a7bf511aa'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:1a1a9598d9221fe9'
 sourceBodyHash: 'sha256:74a863b5d0baa755'
-translatedAt: '2026-09-11T02:06:07+08:00'
+translatedAt: '2026-11-25T03:37:46.174989+00:00'
 ---
 
 > **Aperçu en 30 secondes :**
