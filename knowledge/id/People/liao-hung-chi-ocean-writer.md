@@ -1,15 +1,15 @@
 ---
-title: 'Liao Hung-chi: Dari Kapal Ikan Todak ke Arus Kuroshio, Mengukur Laut Taiwan dengan Nyata Seorang Penulis Nelayan'
-description: 'Liao Hung-chi pada 1992 berubah menjadi nelayan, mendirikan Yayasan Pendidikan dan Kebudayaan Lautan Kuroshio, dan melalui "Kuroshio 101" serta "Proyek π Paus Sperma" mendefinisikan ulang perspektif laut orang Taiwan, menjadi penggerak kunci sastra laut dan konservasi ekologi kontemporer.'
+title: 'Liao Hung-chi: Dari Perahu Penjala ke Arus Hitam, Penulis Laut yang Mengukur Wilayah Perairan Taiwan dengan Hidupnya'
+description: 'Penulis sastra kelautan kelahiran Hualien tahun 1957, yang pada usia tiga puluh lima tahun meninggalkan pekerjaan di darat untuk menjadi nelayan di Hualien. Pada tahun 1996, ia memprakarsai survei paus dan lumba-lumba sipil pertama di Taiwan, dan pada tahun 1998 mendirikan Black Tide Ocean Culture and Education Foundation. Pada tahun 2016, ia meluncurkan Proyek Arus Hitam 101, mengapung bersama arus hitam selama sekitar seratus jam menggunakan rakit tanpa tenaga penggerak; pada tahun 2022, ia mendirikan Asosiasi Formosa Kabupaten Hualien untuk mendorong Proyek Spermaceti Pi. Ia telah menulis seri empat karya sastra kelautan termasuk "The Ocean Fisherman", memenangkan Penghargaan Wu San-lien pada tahun 2019, dan menerima Penghargaan Pengabdian Seumur Hidup Pendidikan Sosial dari Kementerian Pendidikan pada tahun 2024.'
 date: 2026-04-29
 category: 'People'
 tags:
   [
-    'Sastra Laut',
-    'Arus Kuroshio',
+    'Sastra Kelautan',
+    'Arus Hitam',
     'Konservasi Paus dan Lumba-lumba',
     'Hualien',
-    'Paus Sperma',
+    'Paus Spermaceti',
   ]
 subcategory: '文學'
 author: 'idlccp1984'
@@ -20,10 +20,10 @@ readingTime: 12
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/廖鴻基.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '1a696c19ef'
 sourceContentHash: 'sha256:f70240af05eb54ba'
 sourceBodyHash: 'sha256:1077b6698d6359d9'
-translatedAt: '2026-11-04T22:09:56.110115+00:00'
+translatedAt: '2026-11-25T02:16:35.730120+00:00'
 ---
 
 # Liao Hung-chi

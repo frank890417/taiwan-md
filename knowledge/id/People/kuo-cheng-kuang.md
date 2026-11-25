@@ -1,11 +1,11 @@
 ---
-title: 'Kuo Cheng-kuang'
-description: 'Ia adalah ilmuwan senior di Pusat Ruang Angkasa Johnson NASA di Houston, yang mengkhususkan penelitian tentang apa yang dimakan dan diminum astronot; namun di arsip tanah airnya Taiwan, ia pernah dicantumkan dalam "daftar hitam terorisme".'
+title: 'Guo Zhengguang'
+description: 'Seorang ilmuwan senior yang bekerja di Johnson Space Center NASA selama lebih dari empat puluh lima tahun, mempelajari makanan antariksa, pemurnian air, dan kualitas udara kabin tertutup, melindungi nyawa astronot. Ia lahir pada 1949 di Hsinchu, lulus dari Departemen Agronomi Universitas Taiwan, lalu melanjutkan doktor di Texas A&M University, dan masuk NASA pada 1980. Ia masuk daftar hitam pemerintah KMT karena bergabung dengan Aliansi Kemerdekaan Taiwan; pada 1991 pemerintah Taiwan mengirim surat ke Departemen Luar Negeri AS, menuduhnya sebagai teroris. Pada 2018, ia dalam kapasitas ahli NASA menyambut Presiden Tsai Ing-wen yang transit; pada 2024, ia menjawab para penater dengan kalimat "Kakekmu ini bekerja di NASA".'
 date: 2026-04-06
 category: 'People'
 tags:
   [
-    'Kuo Cheng-kuang',
+    'Guo Zhengguang',
     'NASA',
     'makanan antariksa',
     'daftar hitam',
@@ -20,10 +20,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/郭正光.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '1a696c19ef'
 sourceContentHash: 'sha256:e00af3b07adcb778'
 sourceBodyHash: 'sha256:beb2338ff10788ce'
-translatedAt: '2026-11-04T21:39:25.277555+00:00'
+translatedAt: '2026-11-25T02:22:58.961123+00:00'
 ---
 
 # Kuo Cheng-kuang

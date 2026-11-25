@@ -1,6 +1,6 @@
 ---
-title: 'HUR+：Dari Runner-up DD52 ke Zepp New Taipei, Girl Group Sembilan Orang yang Bertahan Lima Tahun'
-description: 'Di final audisi idol 2020, mereka kalah 2,5 poin. Enam tahun kemudian, grup juaranya hilang, runner-up masih ada. Produser menginvestasikan 50 juta dan berkata "semakin tidak mirip K-pop semakin baik" — ini adalah kisah survival seorang girl group Taiwan.'
+title: 'HUR+: Dari Runner-up DD52 hingga ke Zepp New Taipei, Grup Idola Wanita Sembilan Anggota yang Tak Berhenti Selama Lima Tahun'
+description: 'Grup idola wanita Taiwan yang debut sebagai runner-up ajang pencarian bakat. Pada tahun 2020, dengan konsep Storm Spade, mereka kalah tipis 2,5 poin dalam babak final DD52. Produser menginvestasikan NT$50 juta untuk mendirikan agensi hiburan dan mengambil jalur "semakin berbeda semakin baik", dengan sengaja tidak mengikuti gaya grup K-pop pada umumnya. Setelah diperluas menjadi sembilan anggota, para anggotanya berasal dari Taiwan, Inggris, Mongolia, Indonesia, dan Vietnam. Para penggemar bahkan mengumpulkan dana sebesar NT$1,5 juta hanya dalam sepuluh menit untuk mendukung grup tersebut melakukan promosi di Korea Selatan. Enam tahun kemudian, dengan tiga album di tangan, mereka adalah satu-satunya grup dari angkatan debut yang sama yang masih aktif merilis karya, serta telah tampil di panggung Bangkok.'
 date: 2026-04-23
 category: 'People'
 tags:
@@ -8,13 +8,13 @@ tags:
     'HUR+',
     'DD52',
     'Future Girls',
-    'girl group',
-    'idol',
-    'musik Taiwan',
-    'Felipe.Z',
+    'Grup Idola Wanita',
+    'Idola',
+    'Musik Taiwan',
+    'Philipe',
     'AOA Entertainment Lab',
     'K-POP',
-    'idol Taiwan',
+    'Idola Taiwan',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
@@ -25,10 +25,10 @@ readingTime: 14
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/HUR-plus.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'd3a973ae06'
 sourceContentHash: 'sha256:7b6f1e2f33e3f99d'
 sourceBodyHash: 'sha256:396a9fed148c94a2'
-translatedAt: '2026-09-10T07:58:49+08:00'
+translatedAt: '2026-11-25T01:31:59.628122+00:00'
 ---
 
 > **Ringkasan 30 Detik:** HUR+ (dahulu HUR), runner-up "Storm Spade" (Badai Spade) _DD52_ 2020 yang debut dengan enam orang, produser Felipe.Z mendirikan AOA Entertainment Lab. Kalah 2,5 poin di final, tapi suara grup juara G.O.F turun drastis dalam setahun, grup debut serentak PINK FUN menghadapi gelombang keluar anggota. Enam tahun kemudian, HUR+ adalah satu-satunya dari tiga grup debut yang masih merilis album. Tiga album (_REVELATION_, _Crimzon_, _9OF9 ARCANA_), crowdfunding tembus 1,5 juta dalam sepuluh menit untuk promosi Korea, kewarganegaraan anggota mencakup Mongolia, Inggris, Indonesia, Vietnam. Felipe.Z berkata: "Kalau pakai resep dan trik sama seperti Korea, Taiwan bagaimana mungkin bisa menang?"

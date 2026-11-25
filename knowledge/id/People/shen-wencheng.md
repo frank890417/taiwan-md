@@ -1,17 +1,17 @@
 ---
-title: 'Shen Wen-cheng: Dari Mekanik Pesawat di Qingquangang hingga Raja Lagu Pemenang Penghargaan "Double Gold"'
-description: 'Shen Wen-cheng adalah seniman Taiwan pemenang penghargaan "Double Gold" di bidang musik dan pembawa acara. Dari mekanik pesawat di akhir Perang Vietnam hingga lagu "Xin Shi Shui Ren Zhi" yang populer di seluruh Taiwan, ia mengukir namanya melalui ketulusan dan humor.'
+title: 'Shen Wen-cheng: Dari Teknisi Pesawat Ching Chuan Kang ke Raja Penyanyi Emas Ganda'
+description: 'Lahir pada 1954 di Beinan, Taitung, ibunya adalah orang suku Rukai. Ia mendaftar ke Sekolah Mekanik Angkatan Udara, dan setelah lulus memperbaiki pesawat tempur AS di Bandara Ching Chuan Kang; restoran barat di pangkalan pada akhir Perang Vietnam menjadi inspirasi musiknya. Setelah pensiun, ia ditemukan oleh Cai Zhen-nan, pada 1982 menerbitkan album Hokkien pertama "Sim Su Siang Lang Chai", terjual lebih dari sejuta kopi lewat pasar malam, tempat konstruksi, dan radio. Pada 1999 dengan "Chi Thian" memenangkan Anugerah Golden Melody untuk Penyanyi Pria Dialek Terbaik; pada 2013 lagi dengan "Phao Tao Hi Ban Tua" memenangkan Anugerah Golden Bell untuk Pembawa Acara Program Perjalanan, menjadi langka di Taiwan sebagai artis bergelar emas ganda. Pada 2026, berusia 71 tahun, ia mengumumkan memulai ulang program klasik.'
 date: 2026-05-12
 category: 'People'
 tags:
   [
     'Shen Wen-cheng',
-    'Golden Melody Awards',
-    'Golden Bell Awards',
-    'suku Rukai',
-    'mekanik Perang Vietnam',
-    'musik Taiwan',
-    'memancing',
+    'Anugerah Golden Melody',
+    'Anugerah Golden Bell',
+    'Suku Rukai',
+    'Teknisi Perang Vietnam',
+    'Musik Taiwan',
+    'Memancing',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md Contributors'
@@ -22,10 +22,10 @@ readingTime: 8
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/沈文程.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '1a696c19ef'
 sourceContentHash: 'sha256:3ccf8e3a350256dc'
 sourceBodyHash: 'sha256:9a3851545dcaaf3c'
-translatedAt: '2026-11-05T05:17:24+08:00'
+translatedAt: '2026-11-25T02:25:38.422782+00:00'
 ---
 
 ## Ringkasan 30 Detik

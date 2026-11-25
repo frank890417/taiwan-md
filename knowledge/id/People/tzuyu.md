@@ -1,11 +1,11 @@
 ---
-title: 'Tzuyu'
-description: 'Seorang gadis Tainan yang tidak pernah membicarakan politik, diubah oleh bendera 8 detik menjadi titik balik nasib Taiwan. Sepuluh tahun kemudian dia membacakan surat tulisan tangannya di Kaohsiung: "Saya tidak pergi, bukan karena taat, melainkan karena saya benar-benar merindukannya".'
+title: 'Chou Tzu-yu'
+description: 'Meninggalkan rumah pada usia tiga belas tahun untuk menjadi trainee di Korea, ia memulai debut bersama TWICE pada tahun 2015. Empat puluh tujuh hari kemudian, ia memegang bendera Republik Tiongkok; cuplikan berdurasi delapan detik tersebut diambil tangkapan layarnya, dan dua bulan kemudian ia harus mengeluarkan video permintaan maaf berdurasi 90 detik. Video tersebut dirilis pada malam sebelum pemilihan presiden Taiwan, di mana South China Morning Post mengutip jajak pendapat yang memperkirakan dampaknya terhadap 1,34 juta pemilih muda. Selama sepuluh tahun berikutnya, ia tidak pernah mengucapkan sepatah kata pun mengenai 90 detik tersebut, melainkan terus menari dan merilis album; pada tahun 2019, ia terpilih sebagai wajah tercantik di dunia. Pada November 2025, ia kembali ke Kaohsiung untuk pertama kalinya, membacakan surat tulisan tangannya di hadapan 55.000 orang: tidak pernah pergi, bukan karena patuh, tetapi karena benar-benar merindukan.'
 date: 2026-04-14
 category: 'People'
 tags:
   [
-    'Tzuyu',
+    'Chou Tzu-yu',
     'TWICE',
     'Korea Selatan',
     'K-POP',
@@ -24,10 +24,10 @@ evolveHistory:
     action: 'fix'
     reason: 'description 寫「十年後她在大巨蛋念出親筆信」，內文記載手寫信是 2025 年 11 月 22 日在高雄世運主場館念的（大巨蛋是 2026 年 3 月的三場），地點改回高雄。其餘不動'
 translatedFrom: 'People/周子瑜.md'
-sourceCommitSha: '0a6f7f667'
+sourceCommitSha: '1a696c19ef'
 sourceContentHash: 'sha256:08c9b5bb374704b8'
 sourceBodyHash: 'sha256:4b373fac57d731f0'
-translatedAt: '2026-11-05T07:37:00.251218+00:00'
+translatedAt: '2026-11-25T01:18:24.234375+00:00'
 ---
 
 > **Ikhtisar 30 detik:** Tzuyu lahir di Tainan pada 1999 dan meninggalkan rumah pada usia 13 tahun untuk menjadi peserta pelatihan JYP. Pada hari ke-47 setelah debut, ia memegang bendera Republik Tiongkok (Taiwan) dalam sebuah acara varietas Korea Selatan. Tayangan selama 8 detik itu ditangkap layar oleh warganet Tiongkok. Dua bulan kemudian, video permintaan maaf berdurasi 90 detik dirilis pada malam menjelang pemilihan presiden Taiwan. Para akademisi memperkirakan bahwa video tersebut memengaruhi keputusan 1,34 juta pemilih muda[^8]. Sejak itu, ia tidak pernah mengucapkan sepatah kata pun mengenai 90 detik tersebut. Ia hanya terus menari, terus merilis album, serta tetap menjadi penari utama dan anggota termuda TWICE. Sepuluh tahun kemudian, ia akhirnya kembali ke Kaohsiung dan membacakan surat tulisan tangannya sendiri di hadapan 55.000 orang: “Saya tidak pergi, bukan karena saya penurut atau patuh, melainkan karena saya benar-benar menginginkan dan mendambakannya.” Seluruh stadion menangis bersamanya.

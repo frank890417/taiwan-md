@@ -1,16 +1,16 @@
 ---
-title: 'Lebih Baik Terbakar Habis, Bukan Mengerat: Mackay dan Formosa yang Ia Cintai Secara Mendalam'
-description: 'Dari mencabut dua puluh ribu gigi hingga mendirikan sekolah perempuan, bagaimana misionaris Kanada Mackay menjadi "orang Taiwan asli", menggunakan tiga puluh tahun hidupnya untuk menulis ulang sejarah kedokteran, pendidikan, dan eksplorasi sains Taiwan Utara.'
+title: 'Lebih Baik Terbakar Habis Daripada Berkarat: MacKay dan Formosa yang Sangat Dicintainya'
+description: 'Seorang misionaris dari Gereja Presbiterian Kanada mendarat di Tamsui pada tahun 1872 di usia 28 tahun. Ia belajar bahasa Taiwan dari penggembala sapi, lalu memasuki area kuil dan ladang di Taiwan Utara dengan satu tangan memegang Alkitab dan tangan lainnya memegang tang gigi; sepanjang hidupnya ia telah mencabut lebih dari 20.000 gigi dan mendirikan Klinik Huwei. Ia juga mengumpulkan spesimen ular dan pakis, mencatat adat istiadat penduduk asli, serta mendirikan Sekolah Oxford dan sekolah perempuan pertama di Taiwan. Setelah mengabdi selama 30 tahun, ia wafat karena kanker tenggorokan dan dimakamkan di halaman sekolah di Tamsui, meninggalkan moto "Lebih baik terbakar habis daripada berkarat".'
 date: 2026-03-31
 category: 'People'
 tags:
   [
-    'Mackay',
+    'MacKay',
     'Tamsui',
-    'sejarah Taiwan',
-    'kedokteran',
-    'pendidikan',
-    'ilmu pengetahuan alam',
+    'Sejarah Taiwan',
+    'Medis',
+    'Pendidikan',
+    'Ilmu Pengetahuan Alam',
   ]
 subcategory: '歷史人物'
 author: 'Taiwan.md Contributors'
@@ -20,10 +20,10 @@ lastHumanReview: true
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/馬偕.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: 'd3a973ae06'
 sourceContentHash: 'sha256:b7d6932f284b6cf0'
 sourceBodyHash: 'sha256:d3315bfee0561cb1'
-translatedAt: '2026-08-04T14:12:35+08:00'
+translatedAt: '2026-11-25T02:20:55.166785+00:00'
 ---
 
 > **Ringkasan 30 Detik:**

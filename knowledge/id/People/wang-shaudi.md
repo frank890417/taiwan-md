@@ -1,6 +1,6 @@
 ---
-title: 'Wang Shaodi: Anak Laki-laki Usia Enam Puluh Tahun dan Revolusi Lembut Televisi Taiwan'
-description: 'Anak jenderal berubah jadi remaja pemberontak, remaja pemberontak berubah jadi ibu mentua drama televisi Taiwan — Wang Shaodi membuktikan selama empat puluh tahun bahwa membuat televisi bisa menjadi suatu gerakan sosial'
+title: 'Wang Xiao-di: Revolusi Lembut Boyhood dan Televisi Taiwan'
+description: 'Seorang sutradara drama televisi Taiwan; meskipun ayahnya adalah Jenderal Wang Sheng, tokoh inti dalam sistem intelijen selama masa darurat, ia justru mendedikasikan hidupnya untuk menyoroti kehidupan orang-orang kecil. Ia memenangkan Penghargaan Skenario Asli Terbaik Golden Horse melalui "The Scarecrow". Sejak akhir 1980-an, ia menyutradarai drama keluarga seperti "All in the Family" dan "Mother Hen and Ducklings" di CTS. Pada tahun 1992, ia mendirikan Rice Field Film Studio dan menciptakan drama profesional seperti "Big Hospital, Small Doctor" untuk PTS. Ia dianugerahi Penghargaan Seni Nasional pada tahun 2014, mempelopori pengembangan aktor baru dan perluasan genre melalui Plant Theater pada tahun 2016, serta meluncurkan Zhuo Theater pada tahun 2022. Ia sangat dihormati oleh generasi penerusnya sebagai Guru Xiao-di.'
 date: 2026-03-28
 category: 'People'
 tags:
@@ -8,9 +8,9 @@ tags:
     'Sutradara',
     'Televisi',
     'Film',
-    'Qseries',
+    'Plant Theater',
     'PTS',
-    'Penghargaan Golden Bell',
+    'Golden Bell Awards',
     'LGBTQ+',
   ]
 subcategory: '藝術與文化人物'
@@ -19,10 +19,10 @@ featured: false
 lastVerified: 2026-03-28
 lastHumanReview: true
 translatedFrom: 'People/王小棣.md'
-sourceCommitSha: '3638ec158'
+sourceCommitSha: '20dcddf339'
 sourceContentHash: 'sha256:50eb815f9c92fea3'
 sourceBodyHash: 'sha256:1ab1bdb7f132ff60'
-translatedAt: '2026-07-27T04:27:38+08:00'
+translatedAt: '2026-11-25T01:38:50.677140+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Wang Shaodi adalah salah satu sutradara drama televisi paling penting di Taiwan, selama empat puluh tahun ia telah membesarkan seluruh generasi aktor dan penulis naskah. Ayahnya adalah Jenderal Wang Sheng, kepala sistem keamanan politik era hukum darurat, namun ia justru memilih jalan berbicara untuk orang kecil. Dari _Quan Jia Fu_ (全家福) era 1980-an hingga [[植劇場]] pada 2016, ia menggunakan kamera merekam martabat lapisan bawah masyarakat Taiwan, dan dengan tindakan membuktikan bahwa membuat televisi adalah suatu gerakan sosial. Pada 2014 ia menerima Penghargaan Seni Nasional.

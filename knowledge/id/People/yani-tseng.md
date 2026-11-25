@@ -1,17 +1,19 @@
 ---
 title: 'Yani Tseng'
-description: '109 minggu nomor satu dunia, 15 gelar LPGA, 5 gelang besar, 22 tahun menjadi pemain paling muda memiliki 5 gelang besar sekaligus, melampaui rekor Tiger Woods; Oktober 2025 mengakhiri 11 tahun tanpa gelar, kembali menjadi juara'
+description: 'Pemain golf profesional Taiwan, lahir 1989 di Yangmei, Taoyuan, pada 2008 berusia sembilan belas tahun memenangkan turnamen besar LPGA pertamanya dalam karier, menjadi pemain keturunan Tionghoa pertama yang memenangkan turnamen besar LPGA. Pada 2011 menduduki peringkat dunia nomor satu, rekor seratus sembilan belas minggu berturut-turut dalam sejarah golf putri tidak terpecahkan selama lebih dari sepuluh tahun, dan pada usia dua puluh dua tahun menjadi pemain termuda dalam sejarah yang memiliki lima piala turnamen besar, karier LPGA lima belas gelar, turnamen besar lima gelar. Setelah mengalami cedera pinggang dan masa sulit, pada 2025 di lapangan Yang Cheng mengakhiri keringan gelar sebelas tahun, meraih gelar ke-28 dalam karier.'
 date: 2026-03-31
 category: 'People'
-subcategory: '體育'
 tags:
-  - 'olahraga'
-  - 'golf'
-  - 'LPGA'
-  - 'nomor satu dunia'
-  - 'golf profesional'
-  - 'gelang besar'
-  - 'golf wanita'
+  [
+    'Olahraga',
+    'Golf',
+    'LPGA',
+    'Nomor Satu Dunia',
+    'Golf Profesional',
+    'Grand Slam',
+    'Golf Putri',
+  ]
+subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-31
@@ -19,10 +21,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/曾雅妮.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '20dcddf339'
 sourceContentHash: 'sha256:890dbecd669ee83c'
 sourceBodyHash: 'sha256:480fe5c7e2becbe9'
-translatedAt: '2026-09-28T02:52:34+08:00'
+translatedAt: '2026-11-25T01:46:02.868700+00:00'
 ---
 
 # Yani Tseng

@@ -1,15 +1,15 @@
 ---
-title: 'Kuo Chin-fa: Jiwa Bass di Balik Bakcang Bakar'
-description: 'Dari magang di toko sepatu kulit Dadaocheng hingga Raja Bass Pulau Permata, Kuo Chin-fa dengan satu lagu "Bakcang Bakar" menyanyikan pahit-manis dan ketahanan rakyat kecil Taiwan pasca perang, dan menghabiskan sisa nyawanya di atas panggung.'
+title: "Guo Jin-fa: Jiwa Bariton di Balik Lagu 'Shao Rou Zong'"
+description: "Seorang raja lagu bariton yang memulai karier sebagai magang di toko sepatu Dadaocheng, memenangkan kompetisi menyanyi pada usia 15 tahun, dan menjadi populer di kancah musik Hokkien dengan suaranya yang berat dan dalam. Pada tahun 1973, ia mengubah lirik lagu terlarang 'Mai Rou Zong' menjadi 'Shao Rou Zong', menyuarakan kepedihan dan ketangguhan rakyat jelata Taiwan pasca-perang; setelah kebakaran besar di Jindu Le Fu yang membuatnya terlilit utang, ia pergi ke Singapura untuk bernyanyi selama setengah tahun guna melunasi hutangnya. Pada tahun 2016, ia jatuh pingsan setelah menyanyikan baris terakhir lagu 'Shao Rou Zong' dalam sebuah konser lansia di Kaohsiung, dan wafat pada usia 72 tahun dengan total lebih dari seratus album yang telah dirilis sepanjang hidupnya."
 date: 2026-04-19
 category: 'People'
 tags:
   [
     'Musik',
     'Lagu Taiwan',
-    'Bakcang Bakar',
-    'Raja Bass',
-    'Lagu Terlarang Masa Hukum Darurat',
+    'Shao Rou Zong',
+    'Raja Lagu Bariton',
+    'Lagu Terlarang Era Darurat Militer',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md Contributors'
@@ -20,10 +20,10 @@ readingTime: 10
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/郭金發.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'd3a973ae06'
 sourceContentHash: 'sha256:ffef27b2909f9d95'
 sourceBodyHash: 'sha256:b629819d5dc38d6a'
-translatedAt: '2026-11-04T21:33:45.599404+00:00'
+translatedAt: '2026-11-25T02:26:46.119295+00:00'
 ---
 
 > **📝 Catatan Kurator**
