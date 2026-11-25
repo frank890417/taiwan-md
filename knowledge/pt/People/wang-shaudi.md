@@ -1,16 +1,16 @@
 ---
-title: 'Wang Hsiao-ti: O Menino Sexagenário e a Revolução Gentil da Televisão de Taiwan'
-description: 'Filho de general torna-se adolescente rebelde, adolescente rebelde torna-se madrinha dos dramas de televisão de Taiwan — Wang Hsiao-ti usa quarenta anos para provar que fazer televisão pode ser um movimento social'
+title: 'Wang Xiao-di: O Menino Sexagenário e a Revolução Gentil da Televisão de Taiwan'
+description: 'Diretora de dramas de televisão de Taiwan, seu pai era o general Wang Sheng, figura central do sistema de inteligência durante o período da lei marcial, mas ela dedicou a vida a apontar a lente para as pessoas comuns. Com "O Espantalho" ganhou o Prêmio de Melhor Roteiro Original no Festival Golden Horse, no final dos anos 1980 dirigiu na CTS dramas familiares como "Retrato de Família" e "A Galinha e os Patinhos", em 1992 fundou o Estúdio de Cinema Da Tian, criando para a PTS dramas de ambiente de trabalho como "O Grande Hospital, O Pequeno Médico". Em 2014 recebeu o Prêmio Nacional de Artes, em 2016 lançou o "Qseries" para cultivar novos atores e expandir gêneros dramáticos, em 2022 lançou o "Zhuoyue", sendo respeitosamente chamada de "Professora Xiao-di" pelos mais jovens.'
 date: 2026-03-28
 category: 'People'
 tags:
   [
-    'realizador',
-    'televisão',
-    'cinema',
-    'Teatro Plantar',
+    'Diretor',
+    'Televisão',
+    'Cinema',
+    'Qseries',
     'PTS',
-    'Prémios Campainha de Ouro',
+    'Prémio Golden Bell',
     'LGBTQ+',
   ]
 subcategory: '藝術與文化人物'
@@ -19,10 +19,10 @@ featured: false
 lastVerified: 2026-03-28
 lastHumanReview: true
 translatedFrom: 'People/王小棣.md'
-sourceCommitSha: '3638ec158'
+sourceCommitSha: '20dcddf339'
 sourceContentHash: 'sha256:50eb815f9c92fea3'
 sourceBodyHash: 'sha256:1ab1bdb7f132ff60'
-translatedAt: '2026-07-31T09:04:21+08:00'
+translatedAt: '2026-11-25T05:23:34.506682+00:00'
 ---
 
 > **Visão geral de 30 segundos:** Wang Hsiao-ti é um dos mais importantes realizadores de dramas de televisão de Taiwan; ao longo de quarenta anos, formou toda uma geração de actores e argumentistas. O pai era o general Wang Sheng, chefe do aparato de inteligência e guerra política durante a lei marcial; ele, contudo, trilhou o caminho de dar voz aos pequenos. Desde os anos 1980 com _Retrato de Família_ até 2016 com o [Teatro Plantar](/pt/art/qseries-drama-platform/), usou a câmara para registar a dignidade das camadas sociais de Taiwan e provou com acções que fazer televisão é um movimento social. Em 2014 recebeu o Prémio Nacional de Artes e Literatura.

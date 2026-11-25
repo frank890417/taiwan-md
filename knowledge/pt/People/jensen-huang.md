@@ -1,16 +1,16 @@
 ---
 title: 'Jensen Huang'
-description: 'De uma escola interna no Kentucky a um império de cinco trilhões de dólares — como um menino de Tainan que limpava banheiros apostou num futuro que só chegaria dez anos depois'
+description: 'Nascido em Tainan, fundador da NVIDIA. Aos nove anos, foi enviado para um internato no Kentucky, onde limpava diariamente os banheiros do dormitório masculino, e fez um acordo com seu colega de quarto de dezessete anos, coberto de cicatrizes e tatuagens: ele ensinava a ler em troca de aulas de musculação. A NVIDIA, por ele fundada, viu seu valor de mercado ultrapassar 5 trilhões de dólares em 29 de outubro de 2025, tornando-se a primeira empresa na história humana a atingir 5 trilhões de dólares; sua aposta decisiva não foi a GPU, mas o CUDA, que em 2006 todos consideravam loucura, uma decisão que só provaria seu valor dez anos depois com a revolução da IA.'
 date: 2026-03-25
 category: 'People'
 tags:
   [
-    'personalidades',
+    'Personalidades',
     'Jensen Huang',
     'NVIDIA',
     'IA',
-    'semicondutores',
-    'tecnologia',
+    'Semicondutores',
+    'Tecnologia',
     'Tainan',
     'GPU',
   ]
@@ -24,10 +24,10 @@ image: '/article-images/technology/computex-jensen-huang-2016.webp'
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/黃仁勳.md'
-sourceCommitSha: 'b1a5fea00'
+sourceCommitSha: '00dc1f6e04'
 sourceContentHash: 'sha256:28ebca4abc1527e4'
 sourceBodyHash: 'sha256:2ae685b1d23ee474'
-translatedAt: '2026-11-18T15:31:03.256015+00:00'
+translatedAt: '2026-11-25T04:33:54.968795+00:00'
 ---
 
 # Jensen Huang (Jensen Huang)

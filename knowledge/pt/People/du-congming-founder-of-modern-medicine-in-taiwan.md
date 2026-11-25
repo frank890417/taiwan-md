@@ -1,31 +1,31 @@
 ---
 title: 'Du Congming'
-description: 'Primeiro doutor em medicina de Taiwan, inventou o método de desintoxicação progressiva que ajudou 11.498 pessoas a largar o ópio em 17 anos, fundador da Universidade Médica de Kaohsiung'
-date: '2026-03-31'
-author: 'Taiwan.md'
+description: 'Primeiro doutor em Medicina da história de Taiwan, nascido em 1893 em Sanzhi, obteve o doutorado em Medicina pela Universidade Imperial de Kyoto em 1922, sendo notícia de capa nos jornais de Taiwan. Ele inventou o "método progressivo de desintoxicação", ajudando mais de 11.498 viciados em ópio a se livrarem do vício em 17 anos, resolvendo o problema do ópio em Taiwan que durava trezentos anos; o princípio de detecção de morfina na urina por ele inventado continua sendo o método básico para testes de drogas em todo o mundo, e ele também foi o fundador da primeira universidade privada de Taiwan, a Faculdade de Medicina de Kaohsiung.'
+date: 2026-03-31
 category: 'People'
-subcategory: '歷史人物'
 tags:
   [
     'Medicina',
-    'Doutor em Medicina',
+    'Doutorado em Medicina',
     'Medicina Moderna de Taiwan',
-    'Universidade Imperial de Quioto',
+    'Universidade Imperial de Kyoto',
     'Farmacologia',
     'Ópio',
-    'Período de Ocupação Japonesa',
+    'Período da Ocupação Japonesa',
     'Universidade Médica de Kaohsiung',
   ]
-lastVerified: '2026-03-31'
-lastHumanReview: 'false'
+subcategory: '歷史人物'
+author: 'Taiwan.md'
 featured: false
+lastVerified: 2026-03-31
+lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/杜聰明.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '00dc1f6e04'
 sourceContentHash: 'sha256:cda33c38cf5ae9bc'
 sourceBodyHash: 'sha256:f0f1f0e7889b7e24'
-translatedAt: '2026-07-24T20:15:18+08:00'
+translatedAt: '2026-11-25T05:45:07.294437+00:00'
 ---
 
 # Du Congming

@@ -1,15 +1,15 @@
 ---
-title: 'Chi-Huey Wong'
-description: 'Autoridade mundial em glicociência, vencedor do Prêmio Wolf de Química de 2014, ex-presidente da Academia Sinica, perdeu a chance do Nobel devido ao caso Haoying'
+title: 'Weng Chi-huei'
+description: 'Uma autoridade mundial no campo da glicoquímica. Nascido em Tainan em 1948, graduou-se no Departamento de Química da Universidade Nacional Taiwan e obteve um doutorado em química orgânica no MIT, nos Estados Unidos, estabelecendo-se posteriormente no Salk Institute. Em 2014, recebeu o Prêmio Wolf de Química, frequentemente chamado de "precursor do Nobel", a ponto de um comitê do Nobel ter planejado viajar para Taiwan para conversar com ele. Em 2016, renunciou ao cargo de presidente da Academia Sinica devido ao caso Haoding; em 2019, foi absolvido em primeira instância, declarando: "Eu fui quem promoveu a Lei de Biotecnologia, e acabei sendo a primeira vítima dela".'
 date: 2026-03-31
 category: 'People'
 tags:
   [
-    'Acadêmico',
-    'Química',
+    'acadêmico',
+    'química',
     'Academia Sinica',
-    'Glicociência',
-    'Caso Haoying',
+    'glicoquímica',
+    'caso Haoding',
     'Nobel',
     'Prêmio Wolf',
   ]
@@ -21,10 +21,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/翁啟惠.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '00dc1f6e04'
 sourceContentHash: 'sha256:984fef279b1af05b'
 sourceBodyHash: 'sha256:8e4d8fb8704570d2'
-translatedAt: '2026-07-24T20:15:18+08:00'
+translatedAt: '2026-11-25T05:36:51.353041+00:00'
 ---
 
 # Chi-Huey Wong

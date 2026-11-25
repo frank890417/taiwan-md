@@ -1,6 +1,6 @@
 ---
 title: 'Chou Tzu-yu'
-description: 'Uma garota de Tainan que nunca havia falado sobre política, teve sua vida transformada por um momento de 8 segundos com a bandeira nacional. Dez anos depois, em Kaohsiung, ela leu uma carta escrita à mão: "Eu não fui embora, não porque fui obediente, mas porque eu realmente desejava estar aqui".'
+description: 'Saiu de casa aos treze anos para ser trainee na Coreia e estreou com o TWICE em 2015. Quarenta e sete dias depois, ela segurou uma bandeira da República da China; um frame de oito segundos foi printado, resultando em um vídeo de desculpas de 90 segundos dois meses depois. O vídeo foi lançado na véspera das eleições presidenciais de Taiwan, e o South China Morning Post citou pesquisas estimando que afetou 1,34 milhão de jovens eleitores. Nos dez anos seguintes, ela não disse uma única palavra sobre aqueles 90 segundos, apenas continuou dançando e lançando álbuns, sendo eleita a mulher mais bonita do mundo em 2019. Em novembro de 2025, ela retornou a Kaohsiung pela primeira vez e leu uma carta escrita à mão para 55 mil pessoas: não foi por ter partido, nem por ser obediente, mas porque realmente desejava estar aqui.'
 date: 2026-04-14
 category: 'People'
 tags:
@@ -9,7 +9,7 @@ tags:
     'TWICE',
     'Coreia do Sul',
     'K-POP',
-    'Incidente da Bandeira Nacional',
+    'Incidente da Bandeira',
     'Identidade Taiwanesa',
     'Música Pop',
   ]
@@ -24,10 +24,10 @@ evolveHistory:
     action: 'fix'
     reason: 'description 寫「十年後她在大巨蛋念出親筆信」，內文記載手寫信是 2025 年 11 月 22 日在高雄世運主場館念的（大巨蛋是 2026 年 3 月的三場），地點改回高雄。其餘不動'
 translatedFrom: 'People/周子瑜.md'
-sourceCommitSha: '0a6f7f667'
+sourceCommitSha: '1a696c19ef'
 sourceContentHash: 'sha256:08c9b5bb374704b8'
 sourceBodyHash: 'sha256:4b373fac57d731f0'
-translatedAt: '2026-11-19T14:39:17.161017+00:00'
+translatedAt: '2026-11-25T04:28:03.991083+00:00'
 ---
 
 > **Visão geral em 30 segundos:** Tzuyu nasceu em Tainan em 1999 e saiu de casa aos 13 anos para se tornar trainee da JYP. Apenas 47 dias após sua estreia, ela segurou uma bandeira da República da China (Taiwan) em um programa de variedades sul-coreano. O plano, de oito segundos, foi capturado por internautas chineses. Dois meses depois, um vídeo de desculpas com 90 segundos de duração foi divulgado na véspera da eleição presidencial de Taiwan; acadêmicos estimam que ele tenha influenciado a decisão de 1,34 milhão de jovens eleitores[^8]. Desde então, ela nunca disse uma única palavra sobre aqueles 90 segundos. Apenas continuou dançando, lançando álbuns e atuando como dançarina principal e integrante mais jovem do TWICE. Dez anos depois, finalmente retornou a Kaohsiung e leu diante de 55 mil pessoas uma carta escrita à mão: “Eu não fui embora. Não porque fosse obediente ou fizesse o que me mandavam, mas porque realmente queria e ansiava por isso”. Todo o público chorou com ela.

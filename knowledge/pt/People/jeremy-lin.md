@@ -1,16 +1,16 @@
 ---
-title: 'Jeremy Lin: de ser dispensado duas vezes em 15 dias ao duplo MVP da TPBL na aposentadoria — uma trajetória no basquete'
-description: 'Campeão estadual do ensino médio sem bolsa de estudos, não draftado, dispensado duas vezes em 15 dias — então ele fez o mundo conhecer a "Linsanity"'
+title: 'Jeremy Lin: De ser cortado duas vezes em 15 dias à aposentadoria como MVP duplo da TPBL'
+description: "Jogador de basquete taiwanes-americano, nascido na Califórnia em 1988 e nono descendente de imigrantes de Taiwan. Liderou sua equipe ao título estadual na Califórnia no ensino médio, mas não recebeu bolsas de estudo de nenhuma universidade da Divisão I da NCAA; após não ser selecionado no Draft, foi dispensado por duas equipes da NBA em apenas 15 dias. Em fevereiro de 2012, ao entrar como reserva, marcou uma média de 24,4 pontos em sete jogos consecutivos, desencadeando o fenômeno 'Linsanity'. Em 2019, conquistou o título da NBA com o Toronto Raptors, tornando-se o primeiro jogador de ascendência asiática a vencer um campeonato da NBA. Em 2025, aposentou-se em Taiwan como MVP da temporada e MVP das finais."
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Personalidades',
     'Basquete',
-    'Taiwanês-americano',
+    'Taiwanes-americano',
     'NBA',
     'Linsanity',
-    'Universidade Harvard',
+    'Universidade de Harvard',
     'P.League+',
     'TPBL',
   ]
@@ -20,10 +20,10 @@ featured: true
 lastVerified: 2026-05-16
 lastHumanReview: true
 translatedFrom: 'People/林書豪.md'
-sourceCommitSha: '85926aa3b'
+sourceCommitSha: '00dc1f6e04'
 sourceContentHash: 'sha256:5bcf40616e842909'
 sourceBodyHash: 'sha256:15c8e50bb3ba07a7'
-translatedAt: '2026-07-26T12:49:16+08:00'
+translatedAt: '2026-11-25T05:34:50.401297+00:00'
 ---
 
 > **Resumo em 30 segundos:** Jeremy Lin, nascido em 1988 na Califórnia, nona geração de imigrantes taiwaneses. No ensino médio, levou o time ao título estadual da Califórnia, mas não recebeu nenhuma bolsa de estudos da NCAA Divisão I. Entrou em Harvard, não foi draftado, dispensado por dois times da NBA em 15 dias. Em fevereiro de 2012, vindo do banco, teve média de 24,4 pontos em sete jogos consecutivos, detonando o fenômeno "Linsanity".[^1] Em 2019, conquistou o anel de campeão da NBA com os Raptors, tornando-se o primeiro jogador asiático-americano a vencer um título da NBA.[^2] Em 2025, em Taiwan, encerrou a carreira com o MVP da temporada regular e o MVP das finais da TPBL, completando o arco completo dos EUA a Taiwan.[^3]

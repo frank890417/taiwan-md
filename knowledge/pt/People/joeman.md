@@ -1,18 +1,18 @@
 ---
-title: 'Joeman: do comentário de eSports a um canal de milhões, o criador de longo prazo diante das câmeras'
-description: 'Do comentário de eSports e gerente de produto da MSI, a um canal construído com unboxings, comparações, viagens e programas de equipe; a trajetória de Joeman também registra como YouTubers de Taiwan se ajustam entre tráfego, divisão de trabalho, confiança e responsabilidade pública.'
+title: 'Joeman: De comentarista de eSports a canal com milhões de inscritos, um criador de conteúdo de longa data'
+description: 'Nome real de Weng Chun-ming, ele atua como gerente de produtos na MSI durante o dia e comentarista de eSports nos fins de semana. Tornou-se popular no YouTube após um vídeo inesperado de unboxing de produtos tecnológicos, ultrapassando um milhão de inscritos em 2018. O formato "Joe vai enfrentar" tornou-se sua marca registrada ao comparar produtos de luxo com opções acessíveis, expandindo-se para viagens, imobiliário e programas de equipe. Em 2024, recebeu o prêmio de Criador Individual do Ano no Golden Bell Awards. Após o incidente com a maconha em 2023, pediu desculpas publicamente e recebeu uma suspensão condicional do processo, cumprindo seu serviço comunitário através da produção de vídeos de utilidade pública contra drogas e fraudes. O caso documenta como os criadores taiwaneses equilibram tráfego, confiança e responsabilidade pública a longo prazo.'
 date: 2026-08-16
 category: 'People'
 tags:
   [
     'Joeman',
-    'Weng Jun-ming',
+    'Weng Chun-ming',
     'YouTuber',
     'eSports',
-    '3C',
-    'economia de criadores',
-    'indústria de mídia',
-    'comunicação pública',
+    'Tecnologia',
+    'Economia dos Criadores',
+    'Indústria de Mídia',
+    'Comunicação Pública',
   ]
 subcategory: '媒體與創作'
 author: 'Taiwan.md Contributors'
@@ -26,10 +26,10 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Joeman-0617.jpg'
 readingTime: 10
 curation: 'incubating'
 translatedFrom: 'People/Joeman.md'
-sourceCommitSha: '67c4c72fc'
+sourceCommitSha: '1b9d5dfea6'
 sourceContentHash: 'sha256:19eba63c27c61c88'
 sourceBodyHash: 'sha256:18e7518b3acc71b4'
-translatedAt: '2026-11-06T08:13:07.323745+00:00'
+translatedAt: '2026-11-25T05:04:41.992027+00:00'
 ---
 
 # Joeman: do comentário de eSports a um canal de milhões, o criador de longo prazo diante das câmeras

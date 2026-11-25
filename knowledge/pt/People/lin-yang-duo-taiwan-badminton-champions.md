@@ -1,18 +1,18 @@
 ---
-title: 'Wang Chi-lin e Lee Yang (a dupla Lin-Yang)'
-description: 'De colegas de escola a medalha de ouro olímpica: a "dupla Lin-Yang" vence a China em sets diretos em 34 minutos, conquistando a primeira medalha de ouro olímpica do badminton de Taiwan'
+title: 'Wang Chi-lin e Lee Yang (Lin-Yang)'
+description: 'Dupla masculina de badminton de Taiwan, formada pelos colegas da Escola Municipal Zhongshan de Taipei, Wang Chi-lin e Lee Yang, que passaram de colegas de escola a campeões mundiais, após vinte anos de dedicação. Em 31 de julho de 2021, na final dos Jogos Olímpicos de Tóquio, levaram apenas 34 minutos para vencer a dupla chinesa Li Junhui e Liu Yuchen por 21 a 18 e 21 a 12 em sets diretos, conquistando a primeira medalha de ouro olímpica da história do badminton de Taiwan, com 23 milhões de taiwaneses comemorando simultaneamente; nos Jogos Olímpicos de Paris 2024, já com 29 anos, os dois conquistaram o ouro novamente, tornando-se a primeira dupla a defender com sucesso o título olímpico na história do badminton de Taiwan.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Atletas',
+    'Atleta',
     'Wang Chi-lin',
     'Lee Yang',
-    'dupla Lin-Yang',
-    'badminton',
-    'Olimpíadas de Tóquio',
-    'Olimpíadas de Paris',
-    'medalha de ouro',
+    'Lin-Yang',
+    'Badminton',
+    'Jogos Olímpicos de Tóquio',
+    'Jogos Olímpicos de Paris',
+    'Medalha de ouro',
   ]
 subcategory: '體育'
 author: 'Taiwan.md'
@@ -22,10 +22,10 @@ lastHumanReview: true
 difficulty: 'beginner'
 readingTime: 12
 translatedFrom: 'People/麟洋配.md'
-sourceCommitSha: 'c32d210ff'
+sourceCommitSha: '00dc1f6e04'
 sourceContentHash: 'sha256:940cd3ea72960eac'
 sourceBodyHash: 'sha256:4c0e104cb6fe8601'
-translatedAt: '2026-07-26T21:33:24+08:00'
+translatedAt: '2026-11-25T05:19:29.404709+00:00'
 ---
 
 # Wang Chi-lin e Lee Yang (a dupla Lin-Yang)
