@@ -1,16 +1,16 @@
 ---
-title: '楊右任（ヤン・ヨウレン）'
-description: '「旧靴救命」国際キリスト教ケア協会の創設者であり、2017年十大傑出青年。一枚のポスターから10万足の旧靴を集め、東アフリカの子どもたちを支援した。'
+title: '楊右任'
+description: '桃園で生まれた靴工場の家庭の子弟として、15歳でオーストラリアへ遊学。二度の退学後、バスケットボールコートで出会った一人のタトゥーを入れた牧師によって人生の方向が変わり、帰国して青少年指導に従事。2014年に一枚のブログポスターで約10万足の古靴を集めケニアへ送り、「Step30 古靴救命」を創設。長期的な依存を避け、支援のゴールを自立とすることを掲げ、興学、活水、愛・ガールズ、農業自立計画を展開し、12カ国、300万人以上に奉仕。2017年に十大傑出青年に選出。'
 date: 2026-03-20
 category: 'People'
 tags:
   [
     '台湾社会企業',
     '人道支援',
-    '旧靴救命',
+    '古靴救命',
     '十大傑出青年',
     'アフリカ支援',
-    'キリスト教活動',
+    'キリスト教事工',
   ]
 subcategory: '社會與公益'
 author: 'Taiwan.md Contributors'
@@ -20,10 +20,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/楊右任.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:2a0a298fc7d510ca'
 sourceBodyHash: 'sha256:aeccc38efb53dc79'
-translatedAt: '2026-11-05T02:44:11+08:00'
+translatedAt: '2026-11-25T03:35:06.416054+00:00'
 ---
 
 # 楊右任（ヤン・ヨウレン）：グラフィティを描いていた中退生から、アフリカの「旧靴救命」へ

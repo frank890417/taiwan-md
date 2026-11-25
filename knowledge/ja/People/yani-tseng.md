@@ -1,7 +1,8 @@
 ---
-title: '曾雅妮'
-description: '109週間の世界ランク1位、LPGA 15勝5メジャー、22歳で史上最年少のメジャー5冠達成——タイガー・ウッズの記録を凌駕。2025年に11年ぶりの優勝を果たし、再び頂点に立つ'
+title: '曾雅妮 (Cheng Ya-nin)'
+description: '台湾のプロゴルファー。1989年桃園市楊梅区生まれ。2008年に19歳でキャリア初となるLPGAツアーでの優勝を果たし、LPGAツアーで優勝した初の華人選手となりました。2011年には世界ランキング1位に登り詰め、その109週連続首位という記録は女子ゴルフ界で10年以上破られませんでした。また、22歳にして史上最年少で5つのメジャータイトルを獲得し、キャリア通算LPGAツアー15勝、メジャー5勝を記録しています。股関節の怪我やスランプを乗り越え、2025年には揚昇ゴルフ場にて11年間の優勝 lack を解消し、キャリア通算28勝目を挙げました。'
 date: 2026-03-31
+category: 'People'
 tags:
   [
     'スポーツ',
@@ -9,22 +10,21 @@ tags:
     'LPGA',
     '世界ランク1位',
     'プロゴルフ',
-    'メジャー',
+    'グランドスラム',
     '女子ゴルフ',
   ]
 subcategory: '體育'
+author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-31
 lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
-translatedFrom: People/曾雅妮.md
-sourceCommitSha: 'be13f045'
+translatedFrom: 'People/曾雅妮.md'
+sourceCommitSha: '20dcddf339'
 sourceContentHash: 'sha256:890dbecd669ee83c'
 sourceBodyHash: 'sha256:480fe5c7e2becbe9'
-translatedAt: 2026-05-01T19:52:32+08:00
-category: People
-author: 'Taiwan.md'
+translatedAt: '2026-11-25T03:16:19.631984+00:00'
 ---
 
 # 曾雅妮
