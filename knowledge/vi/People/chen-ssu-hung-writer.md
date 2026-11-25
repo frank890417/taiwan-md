@@ -1,16 +1,16 @@
 ---
-title: 'Trần Tư Hùng: Từ Vĩnh Tịnh bỏ trốn sang Berlin, lại luôn bị quê hương đuổi theo — Nhà văn của khoảng cách'
-description: 'Anh dùng hơn hai mươi năm để thoát khỏi Vĩnh Tịnh ở Chương Hóa, nhưng ở Berlin và trong khoảng cách với thế giới, anh viết về gia đình, giới tính, cơ thể và những cái quê hương không muốn biến mất.'
+title: 'Trần Tư Hoành: Nhà văn trốn chạy từ Vĩnh Tĩnh đến Berlin, nhưng luôn bị quê hương đuổi kịp'
+description: 'Sinh năm 1976 tại một gia đình nông dân ở Vĩnh Tĩnh, Chương Hóa, là con thứ chín trong nhà với bảy chị gái và một anh trai. Sau khi tốt nghiệp khoa Tiếng Anh Đại học Phụ Nhân và cao học ngành Kịch nghệ Đại học Quốc lập Đài Loan, ông đến Berlin vào năm 2004 với tư cách phóng viên thường trú của đài truyền hình, mang theo việc viết lách, dịch thuật và biểu diễn vào những năm tháng tại châu Âu. Tác phẩm "Nơi quỷ dữ" xuất bản năm 2019 lấy Vĩnh Tĩnh làm bối cảnh trung tâm, đã giành Giải Văn học Đài Loan Kim Điển và Giải Kim Đỉnh; bản dịch tiếng Anh cũng được lọt vào danh sách sách mùa thu của tờ New York Times, với bản quyền được bán ra bằng 12 ngôn ngữ. Một mặt ông trốn chạy khỏi quê hương, mặt khác lại đưa Vĩnh Tĩnh, gia đình, giới tính và thân thể vào trong tiểu thuyết.'
 date: 2026-09-03
 category: 'People'
 tags:
   [
-    'Trần Tư Hùng',
+    'Trần Tư Hoành',
     'Văn học Đài Loan',
-    'Vĩnh Tịnh',
+    'Vĩnh Tĩnh',
     'Berlin',
     'Văn học đồng tính',
-    'Cái Địa Phương Ma Quái',
+    'Nơi quỷ dữ',
   ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
@@ -18,12 +18,12 @@ featured: false
 lastVerified: 2026-09-03
 lastHumanReview: false
 readingTime: 9
-curation: incubating
+curation: 'incubating'
 translatedFrom: 'People/陳思宏.md'
-sourceCommitSha: '8730173b1'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:614611394f0bdd05'
 sourceBodyHash: 'sha256:aa5e5b4b6a3ee873'
-translatedAt: '2026-09-09T15:01:50+08:00'
+translatedAt: '2026-11-25T02:55:47.440103+00:00'
 ---
 
 ![Sơ đồ vị trí huyện Vĩnh Tịnh, tỉnh Chương Hóa, Wikimedia Commons, tác giả Essolo, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/d/d9/Tw_yj_map.png)

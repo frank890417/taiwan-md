@@ -1,15 +1,15 @@
 ---
-title: 'Liêu Hong Cơ: Từ thuyền câu cá tia đến trôi dệt điểm đen, đo đạc eo biển Đài Loan bằng sức sống của người nghe sóc biển'
-description: 'Liêu Hong Cơ (1992) chuyển thành người nghe sóc biển, sáng lập Quỹ Giáo dục và Văn hóa Đại dương Điểm đen, và với "Kế hoạch Trôi dệt Điểm đen 101" và "Kế hoạch π với vũ cáp vũ trụ" đã tái định nghĩa góc nhìn đại dương của người Đài Loan, là động lực chính trong văn học đại dương và bảo tồn sinh quyển hiện đại.'
+title: 'Liêu Hồng Cơ: Từ thuyền đánh cá đến cuộc trôi dạt trên dòng hải lưu Kuroshio, nhà văn viết về biển cả dùng cả sinh mạng để đo lường vùng biển Đài Loan'
+description: 'Nhà văn chuyên về văn học đại dương sinh năm 1957 tại Hoa Liên. Ở tuổi 35, ông từ bỏ công việc trên đất liền để trở thành người đánh cá tại Hoa Liên. Năm 1996, ông khởi xướng cuộc khảo sát cá voi và cá heo dân gian đầu tiên tại Đài Loan; năm 1998, ông thành lập Quỹ Văn hóa Giáo dục Đại dương Kuroshio. Năm 2016, ông phát động dự án trôi dạt Kuroshio 101, sử dụng bè không động cơ để trôi theo dòng hải lưu Kuroshio trong khoảng 100 giờ. Năm 2022, ông thành lập Hiệp hội Formosa thuộc huyện Hoa Liên nhằm thúc đẩy dự án Pi về cá nhà táng. Ông là tác giả của bộ tứ tác phẩm đại dương bao gồm "Người đánh cá" (Tảo hải nhân), đạt giải thưởng Ngô Tam Liên năm 2019 và Giải thưởng Cống hiến Trọn đời về Giáo dục Xã hội của Bộ Giáo dục năm 2024.'
 date: 2026-04-29
 category: 'People'
 tags:
   [
     'Văn học đại dương',
-    'điểm đen',
-    'bảo tồn cá voi',
-    'Hà Long',
-    'vũ cáp vũ trụ',
+    'Hải lưu Kuroshio',
+    'Bảo tồn cá voi và cá heo',
+    'Hoa Liên',
+    'Cá nhà táng',
   ]
 subcategory: '文學'
 author: 'idlccp1984'
@@ -20,10 +20,10 @@ readingTime: 12
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/廖鴻基.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '1a696c19ef'
 sourceContentHash: 'sha256:f70240af05eb54ba'
 sourceBodyHash: 'sha256:1077b6698d6359d9'
-translatedAt: '2026-11-04T23:55:24.397087+00:00'
+translatedAt: '2026-11-25T02:20:42.990479+00:00'
 ---
 
 # Liêu Hong Cơ (廖鴻基)

@@ -1,16 +1,16 @@
 ---
-title: 'Thắng tự cháy biến, chứ không chịu oxy hoá: Mã Hiếu và người tình đầu tiên của mình — Fô Rơ Mô Sa'
-description: 'Từ việc rút ra 20.000 chiếc răng cho đến việc thành lập trường học cho phụ nữ, nhà sứ thần kiệu tại Kanh Dịch Mã Hiếu (George Leslie Mackay) đã trở thành một người Đài Loan thực sự, dùng 30 năm cuộc đời để viết lại lịch sử y tế, giáo dục và khám phá khoa học ở miền Bắc Đài Loan.'
+title: 'Thà cháy hết mình còn hơn để rỉ sét: Mackay và Formosa mà ông hằng yêu dấu'
+description: 'Năm 1872, vị giáo sĩ của Giáo hội Trưởng lão Canada đã đặt chân lên bờ biển Tamsui ở tuổi 28. Ông học tiếng Đài Loan từ những cậu bé chăn bò, dùng một tay cầm Kinh Thánh, một tay cầm kìm nhổ răng để bước vào các ngôi đền và cánh đồng tại Bắc Đài Loan. Suốt cuộc đời, ông đã nhổ hơn 20.000 chiếc răng và thành lập Hộ Vĩ Y Quán (Hồ Vĩ Y Quán). Ông còn thu thập các mẫu vật rắn và dương xỉ, ghi chép về phong tục của người bản địa, đồng thời thành lập Học đường Oxford và ngôi trường nữ sinh đầu tiên tại Đài Loan. Sau 30 năm cống hiến, ông qua đời vì ung thư vòm họng và được an táng tại khuôn viên trường học ở Tamsui, để lại phương châm sống: "Thà cháy hết mình còn hơn để rỉ sét".'
 date: 2026-03-31
 category: 'People'
 tags:
   [
-    'Mã Hiếu',
-    'Đem Thủy',
-    'lịch sử Đài Loan',
-    'y tế',
-    'giáo dục',
-    'khoa học tự nhiên',
+    'George Leslie Mackay',
+    'Tamsui',
+    'Lịch sử Đài Loan',
+    'Y tế',
+    'Giáo dục',
+    'Khoa học tự nhiên',
   ]
 subcategory: '歷史人物'
 author: 'Taiwan.md Contributors'
@@ -20,10 +20,10 @@ lastHumanReview: true
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/馬偕.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: 'd3a973ae06'
 sourceContentHash: 'sha256:b7d6932f284b6cf0'
 sourceBodyHash: 'sha256:d3315bfee0561cb1'
-translatedAt: '2026-09-21T00:58:30+08:00'
+translatedAt: '2026-11-25T02:22:32.006794+00:00'
 ---
 
 > **30 giây tóm tắt:**

@@ -1,17 +1,17 @@
 ---
-title: 'Chu Tử Du'
-description: 'Một cô gái người Tainan chưa từng bàn về chính trị, bị một chiếc quốc kỳ chỉ xuất hiện 8 giây biến thành điểm ngoặt của số phận Taiwan. Mười năm sau, tại Cao Hsiung, cô đọc lên lá thư viết tay: 「Tôi không rời đi, không phải vì ngoan ngoãn, mà vì tôi thực sự khao khát」.'
+title: 'Châu Tử Du'
+description: 'Mười ba tuổi rời nhà sang Hàn Quốc làm thực tập sinh, năm 2015 ra mắt cùng TWICE. Chỉ 47 ngày sau đó, cô cầm một lá quốc kỳ Trung Hoa Dân Quốc; khoảnh khắc 8 giây trên màn ảnh bị chụp lại, và hai tháng sau phải đổi lấy một đoạn video xin lỗi dài 90 giây. Video được tung ra ngay trước đêm bầu cử tổng thống Đài Loan, tờ South China Morning Post dẫn lời các cuộc thăm dò cho biết sự việc đã gây ảnh hưởng đến 1,34 triệu cử tri trẻ tuổi. Trong mười năm kể từ đó, cô không nói thêm một lời nào về 90 giây ấy, mà chỉ tiếp tục nhảy múa và phát hành album; năm 2019, cô được bình chọn là gương mặt đẹp nhất thế giới. Tháng 11 năm 2025, lần đầu tiên trở lại Cao Hùng, cô đã đọc bức thư tay trước 55.000 người: Không phải vì rời đi hay vì ngoan ngoãn, mà bởi vì thực sự khao khát.'
 date: 2026-04-14
 category: 'People'
 tags:
   [
-    'Chu Tử Du',
+    'Châu Tử Du',
     'TWICE',
     'Hàn Quốc',
     'K-POP',
-    'Sự kiện quốc kỳ',
-    'Nhận diện Taiwan',
-    'Nhạc phổ biến',
+    'Sự cố quốc kỳ',
+    'Bản sắc Đài Loan',
+    'Nhạc Pop',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
@@ -24,10 +24,10 @@ evolveHistory:
     action: 'fix'
     reason: 'description 寫「十年後她在大巨蛋念出親筆信」，內文記載手寫信是 2025 年 11 月 22 日在高雄世運主場館念的（大巨蛋是 2026 年 3 月的三場），地點改回高雄。其餘不動'
 translatedFrom: 'People/周子瑜.md'
-sourceCommitSha: '0a6f7f667'
+sourceCommitSha: '1a696c19ef'
 sourceContentHash: 'sha256:08c9b5bb374704b8'
 sourceBodyHash: 'sha256:4b373fac57d731f0'
-translatedAt: '2026-11-05T23:43:52.967361+00:00'
+translatedAt: '2026-11-25T01:38:37.351238+00:00'
 ---
 
 > **Tổng quan 30 giây:** Châu Tử Du (Tzuyu, 周子瑜), sinh năm 1999 tại Đài Nam, rời nhà ở tuổi 13 để trở thành thực tập sinh của JYP. Khi ra mắt được 47 ngày, cô cầm một lá quốc kỳ Trung Hoa Dân Quốc (Đài Loan) trên chương trình tạp kỹ Hàn Quốc; cảnh quay dài tám giây bị cư dân mạng Trung Quốc chụp lại. Hai tháng sau, một video xin lỗi dài 90 giây được công bố vào đêm trước cuộc bầu cử tổng thống Đài Loan; giới học giả ước tính video này đã tác động đến quyết định của 1,34 triệu cử tri trẻ[^8]. Kể từ đó, cô chưa từng nói một lời nào về 90 giây ấy, chỉ tiếp tục khiêu vũ, tiếp tục phát hành album, tiếp tục đảm nhiệm vị trí nhảy dẫn và em út trong TWICE. Mười năm sau, cuối cùng cô trở về Cao Hùng, đọc trước 55.000 người một bức thư viết tay: “Tôi không rời đi, không phải vì ngoan ngoãn hay nghe lời, mà vì tôi thật sự mong muốn và khát khao”. Cả khán đài khóc cùng cô.

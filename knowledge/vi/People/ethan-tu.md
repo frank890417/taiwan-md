@@ -1,15 +1,15 @@
 ---
-title: 'Đỗ Dịch Cần'
-description: 'Dùng một chiếc máy tính 486 để xây dựng PTT—diễn đàn lớn nhất Đài Loan, dẫn dắt Cortana tại Microsoft, rồi từ bỏ mức lương cao ở Seattle để quay trở lại Đài Loan làm AI phi lợi nhuận — ba mươi năm lịch sử kỹ thuật số của vị thần sáng lập PTT'
+title: 'Đỗ Dịch Cẩn'
+description: 'Vị kỹ sư đã thiết lập hệ thống PTT trên một chiếc máy tính 486 tại ký túc xá Đại học Quốc gia Đài Loan, giúp diễn đàn thuần văn bản này vượt qua bong bóng internet và sự cạnh tranh từ các nền tảng mạng xã hội để trở thành trung tâm thảo luận công cộng của Đài Loan suốt ba thập kỷ qua. Ông từng sang Mỹ làm nghiên cứu di truyền tại Viện Y tế Quốc gia Hoa Kỳ, sau đó dẫn dắt dự án trợ lý giọng nói đa nền tảng Cortana tại Microsoft. Năm 2017, ông từ bỏ mức lương cao tại Seattle để trở về Đài Loan thành lập Taiwan AI Labs - viện nghiên cứu trí tuệ nhân tạo mở phi lợi nhuận đầu tiên tại châu Á, tập trung vào lĩnh vực hình ảnh y tế, nhận dạng giọng nói và phòng chống chiến tranh nhận thức, đồng thời thúc đẩy các mô hình ngôn ngữ tiếng Trung phồn thể mã nguồn mở.'
 date: 2026-03-30
 category: 'People'
 tags:
   [
-    'Đỗ Dịch Cần',
+    'Đỗ Dịch Cẩn',
     'PTT',
     'Taiwan AI Labs',
-    'dân chủ kỹ thuật số',
-    'trí tuệ nhân tạo',
+    'Dân chủ kỹ thuật số',
+    'Trí tuệ nhân tạo',
   ]
 subcategory: '科技與企業'
 author: 'Taiwan.md'
@@ -20,10 +20,10 @@ readingTime: 9
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/杜奕瑾.md'
-sourceCommitSha: 'b1a5fea00'
+sourceCommitSha: '20dcddf339'
 sourceContentHash: 'sha256:61081ca7c646947e'
 sourceBodyHash: 'sha256:f186e67ce03f9679'
-translatedAt: '2026-11-18T13:25:42.410930+00:00'
+translatedAt: '2026-11-25T02:16:21.652049+00:00'
 ---
 
 # Đỗ Dịch Cần

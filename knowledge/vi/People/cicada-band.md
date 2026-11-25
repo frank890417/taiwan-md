@@ -1,35 +1,36 @@
 ---
-title: 'Cicada: Mười sáu năm ghi âm từ cơn bão Morakot 2009 đến sông băng ngoài bán cầu 2025'
-description: 'Cicada là một nhóm nhạc độc lập thành lập năm 2009 ở Đài Bắc, toàn là nhạc cụ, không có tiếng người. Nhạc công dương cầm sáng lập Giang Chí Khiêu (Jesy Chiang, thạc sĩ lịch sử nghệ thuật Trường Đại học Nghệ thuật Bắc Đài) viết bài hát đầu tiên sau khi xem tin tức về cơn bão Morakot năm đó. Trong 16 năm, họ biến bờ biển Đài Loan đang tiêu biến, sinh thái biển, và suối núi thành những album không lời ca hát, từ bờ biển phía Tây (《Coastland》2013) tới Thái Bình Dương phía Đông (《Light Shining Through the Sea》2015) cho đến suối nguyên ở dãy Trung ương (《Seeking the Sources of Streams》2022, một cuộc đi bộ xa 15 ngày 120 km). Tác nhạc cho phim Nhật Bản 《ある男》, nhận giải Âm nhạc Xuất sắc của Học viện Điện ảnh Nhật Bản. Năm 2025, 《Gazing the Shades of White》lần đầu đưa công việc tìm hiểu ra khỏi Đài Loan, đi theo sông băng qua Greenland, Iceland, New Zealand, rồi quay lại tìm dấu vết sông băng cổ xưa trên núi Tuyết.'
+title: 'Cicada: Mười sáu năm ghi âm thực địa từ cơn bão Morakot năm 2009 đến những dòng sông băng xuyên bán cầu năm 2025'
+description: 'Một ban nhạc hòa tấu được thành lập tại Đài Bắc vào năm 2009, toàn bộ album không có giọng hát. Nghệ sĩ piano sáng lập Giang Trí Khiết (Jiang Zhijie) đã viết nên những bản nhạc đầu tiên sau khi đọc tin tức về cơn bão Morakot năm đó; trong suốt mười sáu năm tiếp theo, họ đã ghi lại sự biến mất của đường bờ biển Đài Loan, hệ sinh thái đại dương cùng các nguồn suối rừng núi thành những album không lời. Năm 2022, với album "Sống trên nguồn suối", nhóm đã phải đi bộ 120 km trong 15 ngày mới hoàn tất việc thu âm. Đến năm 2025, album "Ngắm nhìn ranh giới trắng" theo dấu các dòng sông băng đi qua Greenland, Iceland và New Zealand, cuối cùng trở về núi Tuyết Sơn để tìm kiếm những dấu vết còn sót lại của sông băng cổ đại tại Đài Loan.'
 date: 2026-04-18
 category: 'People'
 tags:
   [
-    'nhân vật',
+    'Nhân vật',
     'Cicada',
-    'Giang Chí Khiêu',
-    'nhạc cụ',
+    'Giang Trí Khiết',
+    'Hòa tấu',
+    'Hậu cổ điển',
     'neoclassical',
-    'nhạc độc lập',
-    'âm nhạc hình ảnh sinh thái',
-    'sinh thái',
+    'Nhạc độc lập',
+    'Ambient music',
+    'Sinh thái',
     'Hiệp hội Bảo vệ Hoang dã',
-    'Pieces',
-    'Hiking in the Mist',
-    'Seeking the Sources of Streams',
-    'Gazing the Shades of White',
-    'Light Shining Through the Sea',
+    'Thời gian rơi rụng',
+    'Bước vào rừng sương mù',
+    'Sống trên nguồn suối',
+    'Ngắm nhìn ranh giới trắng',
+    'Ngước nhìn mực nước biển',
     'flau',
-    'sông băng',
-    'Đạo diễn Ishikawa Kei',
-    'Giải thưởng Âm nhạc Daejin',
+    'Sông băng',
+    'Ishikawa Kei',
+    'Giải Kim Khúc',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-06-21
 lastHumanReview: true
-researchReport: reports/research/2026-04/Cicada.md
+researchReport: 'reports/research/2026-04/Cicada.md'
 readingTime: 24
 image: '/article-images/people/cicada-cuichi-xueshan-glacial-lake.webp'
 imageCredit: 'Blackjack633 / Wikimedia Commons'
@@ -37,8 +38,8 @@ imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E7%BF%A0%E6%B1%A0_%E6%B1%AA%E5%A4%A7%E6%99%BA_05.jpg'
 perspectives:
   - author: 'xo61j4'
-    text: 'Tình cờ nghe bài hát của đó và rất thích nên đưa vào danh sách phát, thích cảm giác hoàn toàn đắm chìm trong rừng, không ngờ họ lại thiết kế toàn bộ sáng tác xoay quanh Đài Loan, rất thích'
-    dimension: 'entry point'
+    text: '偶然聽過巨木曾在的痕跡很喜歡就放進了歌單，很喜歡那種完全沉浸在山林的氛圍，沒想到他們是整個作曲脈絡都圍繞著台灣，喜歡'
+    dimension: '入坑'
 sporeLinks:
   - id: 31
     platform: 'threads'
@@ -49,10 +50,10 @@ sporeLinks:
     date: '2026-04-18'
     url: 'https://x.com/taiwandotmd/status/2045363785347612934'
 translatedFrom: 'People/Cicada.md'
-sourceCommitSha: '21298a7ae'
+sourceCommitSha: '30ab24424f'
 sourceContentHash: 'sha256:3d1c97835c5d9ea3'
 sourceBodyHash: 'sha256:5091127dea208f82'
-translatedAt: '2026-08-09T08:07:25+08:00'
+translatedAt: '2026-11-25T02:43:28.086022+00:00'
 ---
 
 > **Tổng quan 30 giây:** Cicada là một nhóm nhạc độc lập toàn nhạc cụ thành lập năm 2009 ở Đài Bắc, do nhạc công dương cầm Giang Chí Khiêu (Jesy Chiang, thạc sĩ lịch sử nghệ thuật Trường Đại học Nghệ thuật Bắc Đài) lãnh đạo, bố trí bốn người bao gồm dương cầm, vĩ cầm, cello, và đàn ghi-ta gỗ. Bắt đầu từ album đầu tiên 《Pieces》năm 2011 do nhãn Tử Thỏ Trắng phát hành, suốt 16 năm tất cả các tác phẩm đều không có giọng hát. Chủ đề chạy từ sự xói mòn bờ biển phía Tây (《Coastland》2013), bờ biển phía Đông và Thái Bình Dương (《Light Shining Through the Sea》2015), sinh thái biển (《White Forest》2017), rừng (《Hiking in the Mist》2019) đến nguồn suối (《Seeking the Sources of Streams》2022, một cuộc xa hành 15 ngày 120 km ở dãy núi Trung ương). Năm 2024, tập tái chọn năm thứ 15 《Coastland Revisited》lại diễn giải chủ đề bờ biển; năm 2025, 《Gazing the Shades of White》lần đầu tiên bước ra ngoài Đài Loan, di chuyển qua bán cầu Nam–Bắc theo sông băng, rồi quay lại núi Tuyết để tìm dấu vết sông băng cổ xưa. Họ tác nhạc cho bộ phim Nhật Bản 《ある男》, đã đạt giải Âm nhạc Xuất sắc của Học viện Điện ảnh Nhật Bản; năm 2024 hoàn thành một vòng lưu diễn đầy đủ ở Nhật Bản, từng biểu diễn cùng sáng tác gia Iceland Ólafur Arnalds. Phương pháp làm việc cốt lõi: **để thiên nhiên tự nói lên tiếng nói của nó**.

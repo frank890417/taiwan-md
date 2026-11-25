@@ -1,15 +1,15 @@
 ---
-title: 'Quốc Chiến Quang (Mike Kuo, 1949–)'
-description: 'Ông là nhà khoa học trưởng tại Trung tâm không gian Johnson của NASA, chuyên nghiên cứu thực phẩm và nước uống cho người phiêu khách trong không gian; tuy nhiên, trong hồ sơ gia đình tại Đài Loan, ông từng xuất hiện trong danh sách đen của chính phủ Nationalist.'
+title: 'Quách Chính Quang'
+description: 'Một nhà khoa học kỳ cựu với hơn 45 năm công tác tại Trung tâm Không gian Jensen thuộc Cơ quan Hàng không và Vũ trụ Hoa Kỳ (NASA), chuyên nghiên cứu về thực phẩm không gian, làm sạch nước và chất lượng không khí trong khoang kín, những yếu tố quyết định sự sống còn của các phi hành gia. Ông sinh năm 1949 tại Tân Trúc, tốt nghiệp khoa Nông nghiệp Đại học Quốc lập Đài Loan trước khi sang Mỹ theo học tiến sĩ tại Đại học Nông nghiệp và Cơ khí Texas, sau đó gia nhập NASA vào năm 1980. Do tham gia Liên minh Đài Loan Độc lập, ông đã bị chính quyền Quốc dân Đảng đưa vào danh sách đen; năm 1991, chính quyền Đài Loan thậm chí đã gửi thư tới Bộ Ngoại giao Hoa Kỳ cáo buộc ông là khủng bố. Năm 2018, với tư cách chuyên gia của NASA, ông đã đón tiếp Tổng thống Thái Anh Văn trong chuyến quá cảnh; đến năm 2024, ông đã đáp trả một bình luận tiêu cực bằng câu nói: "Ông nội đây đang làm việc tại NASA đấy".'
 date: 2026-04-06
 category: 'People'
 tags:
   [
-    'Quốc Chiến Quang',
+    'Quách Chính Quang',
     'NASA',
-    'thực phẩm không gian',
-    'danh sách đen',
-    'phong trào dân chủ Đài Loan',
+    'Thực phẩm không gian',
+    'Danh sách đen',
+    'Phong trào dân chủ Đài Loan',
   ]
 subcategory: '科學與研究'
 author: 'Taiwan.md Contributors'
@@ -20,10 +20,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/郭正光.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '1a696c19ef'
 sourceContentHash: 'sha256:e00af3b07adcb778'
 sourceBodyHash: 'sha256:beb2338ff10788ce'
-translatedAt: '2026-11-04T23:20:35.577706+00:00'
+translatedAt: '2026-11-25T02:24:24.743173+00:00'
 ---
 
 # Quốc Chiến Quang

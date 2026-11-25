@@ -1,15 +1,15 @@
 ---
-title: 'Quả Kim Phát: Tâm linh hồng âm đằng sau câu ca "Thắt lưng bánh lụa"'
-description: 'Từ một cửa hàng giày da tại Đại hầu biên đến ngôi sao ca sĩ hồng âm của đảo quốc, Quả Kim Phát dùng một bài hát "Thắt lưng bánh lụa" để ca chúc về những khó khăn và sức mạnh của người dân thường sau chiến tranh ở Đài Loan, và cuối cùng đã rời đi trên sân khấc sau khi đã dâng dưng cuối cùng một lần nữa.'
+title: 'Quách Kim Phát: Linh hồn trầm ấm đằng sau bản nhạc Thiêu Nhục Tống'
+description: 'Xuất thân là học việc tại một tiệm giày ở Đại Đạo Đình, vị vua nhạc trầm này đã giành chức vô địch cuộc thi ca hát năm 15 tuổi để bước chân vào nghề, dùng chất giọng trầm ấm đặc trưng làm nên tên tuổi trên làng nhạc Đài ngữ. Năm 1973, ông đã cải biên ca khúc bị cấm 〈Mại Nhục Tống〉 thành 〈Thiêu Nhục Tống〉, hát lên nỗi cay đắng và sự kiên cường của tầng lớp bình dân Đài Loan thời hậu chiến; sau vụ hỏa hoạn tại Kim Đô Lạc Phủ dẫn đến nợ nần, ông đã sang Singapore biểu diễn nửa năm để trả hết nợ. Năm 2016, sau khi hát câu cuối cùng của bài 〈Thiêu Nhục Tống〉 trong một buổi hòa nhạc tri ân người cao tuổi tại Cao Hùng, ông đã ngã xuống, hưởng thọ 72 tuổi, cả cuộc đời phát hành hơn một trăm album.'
 date: 2026-04-19
 category: 'People'
 tags:
   [
-    'âm nhạc',
-    'ca trù Đài Loan',
-    'thắt lưng bánh lụa',
-    'ngôi sao ca sĩ hồng âm',
-    'bài hát bị cấm trong thời kỳ chế độ',
+    'Âm nhạc',
+    'Ca khúc Đài Loan',
+    'Thiêu Nhục Tống',
+    'Vua nhạc trầm',
+    'Nhạc bị cấm thời thiết quân luật',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md Contributors'
@@ -20,10 +20,10 @@ readingTime: 10
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/郭金發.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'd3a973ae06'
 sourceContentHash: 'sha256:ffef27b2909f9d95'
 sourceBodyHash: 'sha256:b629819d5dc38d6a'
-translatedAt: '2026-11-04T22:30:42.026151+00:00'
+translatedAt: '2026-11-25T02:26:33.974234+00:00'
 ---
 
 > **📝 Ghi chú của người hội nhập**

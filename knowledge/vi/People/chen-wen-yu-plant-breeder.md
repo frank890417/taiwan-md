@@ -1,15 +1,15 @@
 ---
-title: 'Trần Văn Úc: Hạt giống đã trở thành nhà ngoại giao nông nghiệp của Đài Loan như thế nào'
-description: 'Từ Viện Thử nghiệm Phượng Sơn, dưa hấu không hạt số 1 Phượng Sơn đến các loại cây giống cho nông dân, Trần Văn Úc đã biến công tác lai tạo thành một sức mạnh mềm giúp người nông dân có cuộc sống tốt hơn.'
+title: 'Trần Văn Úc: Một hạt giống đã trở thành nhà ngoại giao nông nghiệp của Đài Loan như thế nào'
+description: 'Người tiên phong trong lai tạo giống rau củ tại Đài Loan, sinh năm 1925 trong một gia đình nông dân tại Vĩnh Khang, Tainan. Xuất phát từ Trạm Thí nghiệm Làm vườn Nhiệt đới Phượng Sơn, vào năm 1962, ông đã lai tạo thành công giống dưa hấu không hạt đầu tiên của Đài Loan mang tên "Phượng Sơn số 1", sau đó đích thân đến Nhị Luân, Vân Lâm để hướng dẫn nông dân trồng dưa trên những vùng đất cát hoang hóa. Năm 1968, ông thành lập Công ty Hạt giống Nông Hữu (Nongyou Seed), với niềm tin "để nông dân kiếm tiền trước", ông đã đưa hạt giống và kỹ thuật ra nước ngoài, đồng thời thành lập bệnh viện cho nông dân tại Myanmar. Sau khi qua đời ở tuổi 88 vào năm 2012, cuộc đời ông đã được ghi vào quốc sử, để lại lời hứa "một hạt giống, một trách nhiệm".'
 date: 2026-08-16
 category: 'People'
 tags:
   [
     'Trần Văn Úc',
-    'Cây giống cho nông dân',
+    'Hạt giống Nông Hữu',
     'Dưa hấu không hạt',
     'Nông nghiệp',
-    'Lai tạo',
+    'Lai tạo giống',
   ]
 subcategory: '科學與學術'
 author: 'Taiwan.md Contributors'
@@ -23,10 +23,10 @@ imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Chen_Wen-Yu_1.jpg'
 curation: 'incubating'
 translatedFrom: 'People/陳文郁.md'
-sourceCommitSha: '67c4c72fc'
+sourceCommitSha: 'd3a973ae06'
 sourceContentHash: 'sha256:3facf31822b994ad'
 sourceBodyHash: 'sha256:93a5825f5b11a6f9'
-translatedAt: '2026-11-04T15:47:43.725977+00:00'
+translatedAt: '2026-11-25T01:31:46.449126+00:00'
 ---
 
 ![Trần Văn Úc cùng đồng nghiệp và dưa hấu](/article-images/people/chen-wen-yu-1.webp)
