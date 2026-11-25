@@ -1,18 +1,18 @@
 ---
-title: 'Lữ Tiệp: Từ câu hỏi về sự kiện 228 bị né tránh đến 28 bài giảng lịch sử Đài Loan'
-description: 'Từ quán hải sản đến bục giảng dạy thêm, Lữ Tiệp dùng câu chuyện để thúc đẩy kiến thức chính thống, nhưng cũng yêu cầu học viên quay lại với tư liệu, sự thật và quan điểm lịch sử.'
+title: 'Lữ Tiệp: Từ một câu hỏi về Sự kiện 228 bị né tránh, đến lớp học Lịch sử Đài Loan mang tên Hai mươi tám giảng đường'
+description: 'Một giáo viên luyện thi nổi tiếng, người vốn định theo học luật nhưng lại bước chân vào khoa lịch sử do ghi sai nguyện vọng. Từ bục giảng của các lò luyện thi, ông trở nên nổi bật trong tầm nhìn công chúng nhờ một đoạn video bài giảng. Ông kiên trì quan điểm rằng lịch sử không chỉ là sự học thuộc lòng, mà là sự phân biệt giữa ba tầng lớp: tư liệu lịch sử, sự kiện lịch sử và quan điểm lịch sử. Năm 2026, ông sẽ ra mắt khóa học về Lịch sử Đài Loan với khung xương là 28 bối cảnh lịch sử, đưa tự do, dân chủ, văn hóa, bản sắc và vị thế quốc tế vào cùng một bản đồ. Ông nói rằng lịch sử không phải để dạy bạn nhận biết lịch sử, mà là để nhận biết nhân tính; câu chuyện có thể hay, nhưng phải để lại những lối thoát có thể kiểm chứng được.'
 date: 2026-08-14
 category: 'People'
-subcategory: '教育與社會'
 tags:
   [
     'Nhân vật',
     'Lữ Tiệp',
     'Giáo dục lịch sử',
-    'Văn hóa lớp luyện thi',
+    'Văn hóa lò luyện thi',
     'Lịch sử Đài Loan',
     'Truyền thông',
   ]
+subcategory: '教育與社會'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-14
@@ -20,10 +20,10 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/呂捷.md'
-sourceCommitSha: '4a95859b1'
-sourceContentHash: 'sha256:67c5ad771d308cd6'
+sourceCommitSha: '45b1bf37e0'
+sourceContentHash: 'sha256:8682de0c2d43ca25'
 sourceBodyHash: 'sha256:6ab4993ddc7e3736'
-translatedAt: '2026-09-17T06:43:40+08:00'
+translatedAt: '2026-11-25T07:12:55.938129+00:00'
 ---
 
 # Lữ Tiệp: Từ câu hỏi về sự kiện 228 bị né tránh đến 28 bài giảng lịch sử Đài Loan
@@ -158,30 +158,30 @@ Câu hỏi bị giáo viên né tránh trong lớp trung học đã không nhậ
 
 ## Tài liệu tham khảo
 
-[^1]: [StoryStudio／Apple Podcasts: 〈Ai nói Lịch sử Đài Loan chỉ có bi kịch? Giáo viên lịch sử nổi tiếng chinh chiến 20 năm qua, quan sát thực tế lần đầu ft. Lữ Tiệp〉](https://podcasts.apple.com/tw/podcast/%E8%AA%B0%E8%AA%AA%E8%87%BA%E7%81%A3%E5%8F%B2%E5%8F%AA%E8%83%BD%E6%82%B2%E6%83%85-%E6%AD%B7%E5%8F%B2%E8%A3%9C%E6%95%99%E5%90%8D%E5%B8%AB%E7%B8%B1%E6%A9%AB%E6%B2%99%E5%A0%B4-20-%E5%B9%B4%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%8B%E7%8F%BE%E5%A0%B4%E8%A7%80%E5%AF%9F-ft-%E5%91%82%E6%8D%B7/id1593373742?i=1000778009947) — Phần giới thiệu chương trình phát hành tháng 7 năm 2026, ghi lại hồi tưởng của Lữ Tiệp về câu hỏi 228 trong lớp trung học và hướng suy nghĩ mới về phương pháp giảng dạy lịch sử Đài Loan.
+[^1]: [StoryStudio／Apple Podcasts: 〈Ai bảo lịch sử Đài Loan chỉ toàn bi kịch? Quan sát thực tế sau 20 năm chinh chiến của danh sư luyện thi lịch sử ft. Lữ Tiệp〉](https://podcasts.apple.com/tw/podcast/%E8%AA%B0%E8%AA%AA%E8%87%BA%E7%81%A3%E5%8F%B2%E5%8F%AA%E8%83%BD%E6%82%B2%E6%83%85-%E6%AD%B7%E5%8F%B2%E8%A3%9C%E6%95%99%E5%90%8D%E5%B8%AB%E7%B8%B1%E6%A9%AB%E6%B2%99%E5%A0%B4-20-%E5%B9%B4%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%8B%E7%8F%BE%E5%A0%B4%E8%A7%80%E5%AF%9F-ft-%E5%91%82%E6%8D%B7/id1593373742?i=1000778009947) — Giới thiệu chương trình phát sóng vào tháng 7 năm 2026, ghi lại hồi ức của Lữ Tiệp về những câu hỏi liên quan đến sự kiện 228 thời trung học, cũng như hướng đi mới trong việc tư duy lại phương pháp giảng dạy lịch sử Đài Loan.
 
-[^2]: [Giáo dục Gia Đình và Trẻ Em (Parenting Times): 〈Nhưng nhân tính không thay đổi. Giáo viên nổi tiếng Lữ Tiệp: "Việc quan trọng nhất khi học lịch sử không phải là thi cử"〉](https://futureparenting.cwgv.com.tw/family/content/index/22429) — Ghi lại những lời kể trực tiếp của Lữ Tiệp về việc điền sai nguyện vọng vào khoa Lịch sử, mục đích sử dụng giáo dục lịch sử và bước ngoặt cuộc đời, đồng thời trích dẫn nội dung tác phẩm.
+[^2]: [Wei Lai Qin Zi: 〈Nhưng nhân tính không đổi. Danh sư Lữ Tiệp: 「Điều quan trọng nhất khi học lịch sử không phải là thi cử để lên lớp」〉](https://futureparenting.cwgv.com.tw/family/content/index/22429) — Ghi lại những lời tự sự trực tiếp của Lữ Tiệp về việc đăng ký nhầm nguyện vọng vào khoa Lịch sử, mục đích của giáo dục lịch sử và những bước ngoặt trong cuộc đời, đồng thời trích dẫn nội dung tác phẩm của ông.
 
-[^3]: [Giáo dục Gia Đình và Trẻ Em (Parenting Times): 〈Nhưng nhân tính không thay đổi. Giáo viên nổi tiếng Lữ Tiệp: "Việc quan trọng nhất khi học lịch sử không phải là thi cử"〉](https://futureparenting.cwgv.com.tw/family/content/index/22429) — Phần giới thiệu tác giả cuối bài liệt kê bằng cấp ngành Lịch sử tại Đại học Trung Chính, nghiên cứu sinh và kinh nghiệm dẫn chương trình _“Lữ Độc Đài Loan”_, có thể đối chiếu với thân phận người làm giáo dục lịch sử của ông.
+[^3]: [Wei Lai Qin Zi: 〈Nhưng nhân tính không đổi. Danh sư Lữ Tiệp: 「Điều quan trọng nhất khi học lịch sử không phải là thi cử để lên lớp」〉](https://futureparenting.cwgv.com.tw/family/content/index/22429) — Phần giới thiệu tác giả ở cuối bài liệt kê trình độ học vấn tại Khoa Lịch sử và Viện Nghiên cứu Lịch sử thuộc Đại học Chung Chính, cùng kinh nghiệm dẫn chương trình 《Lữ Độc Đài Loan》, giúp đối chiếu với thân phận là người làm công tác giáo dục lịch sử của ông.
 
-[^4]: [Giáo dục Gia Đình và Trẻ Em (Parenting Times): 〈Nhưng nhân tính không thay đổi. Giáo viên nổi tiếng Lữ Tiệp: "Việc quan trọng nhất khi học lịch sử không phải là thi cử"〉](https://futureparenting.cwgv.com.tw/family/content/index/22429) — Trích dẫn trực tiếp đoạn văn về "tư liệu, sự thật và quan điểm", phù hợp để phân tích cách ông hiểu và hình thành quan điểm lịch sử.
+[^4]: [Wei Lai Qin Zi: 〈Nhưng nhân tính không đổi. Danh sư Lữ Tiệp: 「Điều quan trọng nhất khi học lịch sử không phải là thi cử để lên lớp」〉](https://futureparenting.cwgv.com.tw/family/content/index/22429) — Đăng tải trực tiếp các đoạn văn gốc về "tư liệu lịch sử, sự thật lịch sử, quan điểm lịch sử", phù hợp để phân tích cách ông diễn giải về việc hình thành hiểu biết và quan điểm lịch sử.
 
-[^5]: [Đại học Quốc lập Kim Môn (National Quemoy University): _Bài nói của Lữ Tiệp: "Hiểu Lịch sử khi Xã hội Tiến bộ"_](https://ecasc.nqu.edu.tw/p/405-1017-11381,c1579.php?Lang=en) — Trang hoạt động tiếng Anh của Đại học Quốc lập Kim Môn, giải thích về việc video giảng dạy tại lớp luyện thi ở Cao Hùng năm 2014 trở nên nổi tiếng và được định vị là người nói về sự hiểu biết lịch sử đối với xã hội.
+[^5]: [National Quemoy University: _Lü Jie's Talk: "Understanding History as Society Progresses"_](https://ecasc.nqu.edu.tw/p/405-1017-11381,c1579.php?Lang=en) — Trang hoạt động tiếng Anh của Đại học Kim Môn, giải thích về sự nổi tiếng của video giảng dạy tại một lò luyện thi ở Cao Hùng vào năm 2014 và việc ông được định vị là diễn giả dùng lịch sử để thấu hiểu xã hội.
 
-[^6]: [Blog Ke Lai: _“Giáo dục không phải là lịch sử, mà là nhân tính”_](https://www.books.com.tw/products/0010693183) — Mục sách và giới thiệu nội dung xuất bản năm 2015, liệt kê các câu gốc như "lịch sử không dạy bạn nhận biết lịch sử, mà là nhận biết nhân tính" do tác giả đưa ra.
+[^6]: [Books.com.tw: 《Điều anh không dạy là lịch sử, mà là nhân tính》](https://www.books.com.tw/products/0010693183) — Danh mục ấn phẩm và giới thiệu nội dung xuất bản năm 2015, liệt kê các câu nói nguyên văn của tác giả như "Lịch sử không phải dạy bạn nhận biết lịch sử, mà là nhận biết nhân tính".
 
-[^7]: [HTV News: 〈Giáo viên luyện thi Lữ Tiệp đảm nhiệm chương trình _“Lữ Thị Chiến Quốc BATTLE”_〉](https://news.cts.com.tw/cts/general/202309/202309132227322.html) — Thông báo phát sóng của Đài Truyền hình Hoa Thị, giải thích thời gian bắt đầu chương trình, thiết kế liên thế hệ và liên lĩnh vực, cũng như cách Lữ Tiệp diễn đạt về cuộc thảo luận.
+[^7]: [CTS News: 〈Danh sư luyện thi Lữ Tiệp tiếp quản vai trò dẫn chương trình 《Lữ Thị Chiến Quốc BATTLE》〉](https://news.cts.com.tw/cts/general/202309/202309132227322.html) — Thông tin phát sóng chương trình trên kênh Tin tức CTS, giải thích về thời gian lên sóng, thiết kế mang tính liên thế hệ và liên lĩnh vực, cũng như những phát biểu của Lữ Tiệp về các cuộc thảo luận.
 
-[^8]: [Tri Thức Vệ Tinh (Knowledge Satellite): 〈28 bài giảng lịch sử Đài Loan của Lữ Tiệp〉](https://sat.cool/course/199) — Trang phát hành khóa học, ghi lại thiết kế khóa học với 28 đơn vị, 10 giờ và liên kết tự do, dân chủ, văn hóa, bản sắc và vị thế quốc tế của Đài Loan thông qua các bối cảnh lịch sử.
+[^8]: [Knowledge Satellite: 〈28 bài giảng lịch sử Đài Loan của Lữ Tiệp〉](https://sat.cool/course/199) — Trang công bố khóa học, ghi nhận thiết kế chương trình gồm 28 đơn vị bài học trong 10 giờ, kết nối các sự kiện lịch sử với tự do, dân chủ, văn hóa, bản sắc và vị thế quốc tế của Đài Loan.
 
-[^9]: [Blog Ke Lai: _“Giáo dục không phải là lịch sử, mà là nhân tính”_](https://www.books.com.tw/products/0010693183) — Dữ liệu sách ghi lại ISBN, 208 trang và ngày xuất bản 29 tháng 10 năm 2015; chỉ dùng để đối chiếu điểm xuất bản và nội dung tác phẩm.
+[^9]: [Books.com.tw: 《Điều anh không dạy là lịch sử, mà là nhân tính》](https://www.books.com.tw/products/0010693183) — Dữ liệu thư mục ghi rõ mã ISBN, 208 trang và ngày xuất bản 29 tháng 10 năm 2015; chỉ dùng để đối chiếu mốc xuất bản và nội dung tác phẩm.
 
-[^10]: [Tạp chí Kim Chuẩn (Jin Chu Journal): 〈Lữ Tiệp: Bắt đầu thoát khỏi "Lỗ Xà" bằng cách đối mặt với bản thân thực sự!〉](https://www.businesstoday.com.tw/article/category/80407/post/201512170102/) — Tổng hợp sách và phỏng vấn năm 2015, ghi lại việc ông vào khoa Lịch sử sau khi thi lại, điền sai nguyện vọng, điểm khởi đầu của công việc dạy thêm và giai đoạn suy sụp cá nhân.
+[^10]: [CommonWealth Magazine: 〈Lữ Tiệp: Đối mặt với con người thật của chính mình là khởi đầu để thoát khỏi kiếp loser!〉](https://www.businesstoday.com.tw/article/category/80407/post/201512170102/) — Tổng hợp phỏng vấn và trích đoạn sách năm 2015, ghi lại câu chuyện về việc thi lại, đăng ký nhầm nguyện vọng rồi vào khoa Lịch sử, cũng như điểm khởi đầu của công việc luyện thi và những giai đoạn trầm lắng cá nhân.
 
-[^11]: [StoryStudio: 〈Ai nói Lịch sử Đài Loan chỉ có bi kịch? Giáo viên lịch sử nổi tiếng chinh chiến 20 năm qua, quan sát thực tế lần đầu ft. Lữ Tiệp〉](https://storystudio.tw/article/gushi/lu-jie-podcast) — Trình bày từng đoạn trong cuộc phỏng vấn tháng 7 năm 2026 về việc Lữ Tiệp bước vào lớp luyện thi từ quán hải sản, kinh nghiệm tiết học đầu tiên, tỷ lệ bài giảng và định vị "dưới gốc cây đa" của khóa học lịch sử Đài Loan.
+[^11]: [StoryStudio: 〈Ai bảo lịch sử Đài Loan chỉ toàn bi kịch? Quan sát thực tế sau 20 năm chinh chiến của danh sư luyện thi lịch sử ft. Lữ Tiệp〉](https://storystudio.tw/article/gushi/lu-jie-podcast) — Bài phỏng vấn tháng 7 năm 2026 trình bày từng đoạn về hành trình của Lữ Tiệp từ một cửa hàng hải sản bước chân vào ngành luyện thi, kinh nghiệm buổi dạy đầu tiên, tỷ lệ lớp học và định vị "dưới gốc cây đa" của các khóa học lịch sử Đài Loan.
 
-[^12]: [Yahoo News: 〈“Giáo dục lịch sử chúng ta thất bại” Lữ Tiệp: Không phải khung chương trình cần thay đổi〉](https://tw.news.yahoo.com/%E3%80%8C%E6%88%91%E5%80%91%E6%AD%B7%E5%8F%B2%E6%95%99%E8%82%B2%E5%A4%B1%E6%95%97%E3%80%8D-%E5%91%82%E6%8D%B7%EF%BC%9A%E8%A6%81%E6%94%B9%E7%9A%84%E4%B8%8D%E6%98%AF%E8%AA%B2%E7%B6%B1-132415186.html) — Báo cáo năm 2018 chuyển tải luận điểm công khai của ông về khung chương trình mới và mô hình kiểm tra, bao gồm sự phân biệt tư liệu, sự thật, quan điểm và trắc nghiệm, tự luận.
+[^12]: [Yahoo News: 〈「Giáo dục lịch sử của chúng ta đã thất bại」 Lữ Tiệp: Thứ cần thay đổi không phải là chương trình giảng dạy〉](https://tw.news.yahoo.com/%E3%80%8C%E6%88%91%E5%80%91%E6%AD%B7%E5%8F%B2%E6%95%99%E8%82%B2%E5%A4%B1%E6%95%97%E3%80%8D-%E5%91%82%E6%8D%B7%EF%BC%9A%E8%A6%81%E6%94%B9%E7%9A%84%E4%B8%8D%E6%98%AF%E8%AA%B2%E7%B6%B1-132415186.html) — Bản tin năm 2018 thuật lại những quan điểm công khai của ông về chương trình học mới và mô hình thi cử, bao gồm sự phân biệt giữa tư liệu lịch sử, sự thật lịch sử, quan điểm lịch sử với câu hỏi trắc nghiệm và câu hỏi tự luận.
 
-[^13]: [Tờ Thời Báo Tự Do (Liberty Times): 〈Giáo viên luyện thi nói về Thiên An Môn bằng "xe chở nước thải" gây tranh cãi〉](https://news.ltn.com.tw/news/novelty/breakingnews/1079920) — Báo cáo năm 2014 ghi lại nội dung video trong lớp, sự lan truyền trên mạng và lời phê bình của Trần Vi Đình; bài báo không đăng phản hồi chính thức của Lữ Tiệp về tranh chấp này.
+[^13]: [Liberty Times: 〈「Dùng xe phun phân bón để trấn áp」 Giáo viên luyện thi bàn về tranh cãi Thiên An Môn〉](https://news.ltn.com.tw/news/novelty/breakingnews/1079920) — Bản tin năm 2014 ghi lại nội dung video trong lớp học, sự lan truyền trên mạng và những chỉ trích của Trần Vi Đình; bài viết không đăng tải phản hồi chính thức của Lữ Tiệp về tranh cãi này.
 
-[^14]: [Blog Ke Lai: _“Xã hội đang tiến lên, lịch sử cần hiểu: Lữ Tiệp khai giảng”_](https://www.books.com.tw/products/0010900428) — Trang sách thu thập lời tựa và định vị nội dung tác phẩm, có thể dùng để đối chiếu bối cảnh xuất bản của ông khi đọc lịch sử bằng câu chuyện, suy nghĩ và nhân tính.
+[^14]: [Books.com.tw: 《Xã hội đang tiến bước, lịch sử phải hiểu rõ: Lữ Tiệp khai giảng》](https://www.books.com.tw/products/0010900428) — Trang sách bao gồm lời tựa và định vị nội dung của tác giả, có thể dùng để đối chiếu với mạch xuất bản về việc đọc lịch sử thông qua câu chuyện, tư duy và nhân tính.

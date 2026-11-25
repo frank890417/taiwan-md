@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-25T16:41:44+08:00",
-    "zhCommitHead": "4c40ba70be",
+    "lastUpdated": "2026-11-25T16:43:28+08:00",
+    "zhCommitHead": "0e91936318",
     "totalZh": 1194,
     "activeLanguages": [
       "en",
@@ -92,9 +92,9 @@
       },
       "ar": {
         "total_zh": 1194,
-        "fresh": 1183,
+        "fresh": 1185,
         "stale": 5,
-        "metadata_stale": 6,
+        "metadata_stale": 4,
         "missing": 0,
         "orphan": 0
       },
@@ -104716,8 +104716,8 @@
           "sourceContentHash": "sha256:19eba63c27c61c88",
           "sourceBodyHash": "sha256:18e7518b3acc71b4",
           "translatedAt": "2026-11-25T06:55:36.449343+00:00",
-          "translationLastCommit": "6b3bfb87",
-          "translationLastModified": "2026-11-06T16:50:37+08:00",
+          "translationLastCommit": "0e919363",
+          "translationLastModified": "2026-11-25T16:41:45+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "bytes": 35053,
@@ -106216,20 +106216,18 @@
         "ar": {
           "path": "ar/People/lin-liang-childrens-literature.md",
           "translatedFrom": "People/林良.md",
-          "sourceCommitSha": "be13f045",
+          "sourceCommitSha": "20dcddf339",
           "sourceContentHash": "sha256:ff949a14cc54475a",
           "sourceBodyHash": "sha256:99fcaed64626278d",
-          "translatedAt": "2026-09-23T06:37:27.648538+00:00",
+          "translatedAt": "2026-11-25T08:43:17.084833+00:00",
           "translationLastCommit": "59bf6b68",
           "translationLastModified": "2026-11-19T01:13:18+08:00",
           "inferred": false,
           "footnoteDefs": 37,
-          "bytes": 44371,
+          "bytes": 45055,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/lin-liang-childrens-literature.md",
@@ -139156,8 +139154,8 @@
           "sourceContentHash": "sha256:7b6f1e2f33e3f99d",
           "sourceBodyHash": "sha256:396a9fed148c94a2",
           "translatedAt": "2026-11-25T07:11:45.564689+00:00",
-          "translationLastCommit": "e7bbd175",
-          "translationLastModified": "2026-11-19T01:17:21+08:00",
+          "translationLastCommit": "0e919363",
+          "translationLastModified": "2026-11-25T16:41:45+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "bytes": 27672,
@@ -154420,20 +154418,18 @@
         "ar": {
           "path": "ar/People/nieh-yung-jen.md",
           "translatedFrom": "People/聶永真.md",
-          "sourceCommitSha": "be13f045",
+          "sourceCommitSha": "30ab24424f",
           "sourceContentHash": "sha256:b31e7dab1de7bf10",
           "sourceBodyHash": "sha256:26e4e11c3e29817a",
-          "translatedAt": "2026-09-26T04:10:05.286238+00:00",
+          "translatedAt": "2026-11-25T08:42:38.158112+00:00",
           "translationLastCommit": "59bf6b68",
           "translationLastModified": "2026-11-19T01:13:18+08:00",
           "inferred": false,
           "footnoteDefs": 31,
-          "bytes": 61992,
+          "bytes": 61231,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/nieh-yung-jen.md",
