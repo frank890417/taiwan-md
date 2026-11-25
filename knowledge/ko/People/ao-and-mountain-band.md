@@ -1,35 +1,36 @@
 ---
-title: 'Our Shame(요여산): IT 회사 직장인 두 명이 신디사이저로 사무실에서 말 못하는 것을 만들어낸다'
-description: "요여산(凹與山, Our Shame)은 대만의 일렉트로닉 포크 듀오로, 멤버는 샤오아오(보컬, 신디사이저, 프로듀서)와 Isan(드럼, 패드). 고등학교 밴드 동아리에서 만나, 대학 시절 어쿠스틱 포크 콤비로 2015년 진사오상 창작 부문 1등을 차지. 졸업 후 두 사람 모두 IT 회사 직장인이 됨. 2018년 겨울, 본래 '웨이샤오아오'라 불리던 포크 밴드 이름을 '요여산'으로 바꾸고, 샤오아오가 신디사이저를 사고 Isan이 패드로 바꾸면서 음악이 일렉트로닉 포크(Folktronica)로 전환. 2022년 샤오아오의 절친이 세상을 떠나고 그녀가 풀타임 직장을 그만두면서, 밴드는 첫 정규 앨범 《Modern Problem》을 발표해 진음상 13회 최우수 얼터너티브 팝과 신인상 양 부문 노미네이트. 2025년 8월 4일 두 번째 앨범 《Hidden Album》을 발표하면서 영국 그래미 믹싱 엔지니어 Jay Reynolds, 미국 그래미 엔지니어 Brian Elgin(Dua Lipa, Lana Del Rey 협업), 일본 ASOBOiSM 등 국제 협업팀을 영입. 앨범 주제가 '기술의 불안'(Modern Problem)에서 '기술에 가려진 인간의 그림자'—자해, 금기의 사랑, 가상화폐 사기, 여성의 신체 경험—로 전환되며, 그중 〈Miffy〉는 사회운동가 천메이후이에게 헌정."
+title: 'Ao & Shan: 두 명의 IT 직장인이 신시사이저로 만들어낸 사무실에서 말할 수 없는 이야기들'
+description: '대만의 일렉트로닉 포크 듀오인 샤오아오(小凹)와 Isan은 고등학교 밴드부에서 만났습니다. 2015년 어쿠스틱 포크로 골든 샤오(Golden Shaw) 창작 부문 우승을 차지한 후, 두 사람 모두 졸업하고 IT 업계의 직장인이 되었습니다. 2018년 겨울, 이들은 팀명과 악기를 교체했습니다. 샤오아오는 신시사이저를 구입했고, Isan은 패드(Pad) 연주로 전향했습니다. 2022년 샤오아오는 절친한 친구를 떠나보낸 후 전업 뮤지션으로 전향했으며, 첫 앨범 《Modern Problem》으로 골든 인디 뮤직 어워드(GIMA) 베스트 얼터너티브 팝 및 베스트 뉴 아티스트 부문에 노미네이트되었습니다. 첫 번째 앨범이 기술이 가져온 불안을 노래했다면, 2025년 《Hidden Album》은 기술에 가려진 이야기들을 노래합니다.'
 date: 2026-04-18
+category: 'People'
 tags:
   [
     '인물',
-    '요여산',
+    'Ao & Shan',
     'Our Shame',
     '샤오아오',
     'Isan',
     'Folktronica',
-    '일렉트로닉포크',
-    '인디뮤직',
-    '진음상',
-    '진사오상',
+    '일렉트로닉 포크',
+    '인디 음악',
+    '골든 인디 뮤직 어워드',
+    '골든 샤오',
     'Modern Problem',
     'Hidden Album',
-    '신디사이저',
+    '신시사이저',
   ]
-category: 'People'
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
-readingTime: 16
+featured: false
 lastVerified: 2026-04-18
 lastHumanReview: true
+researchReport: 'reports/research/2026-04/凹與山.md'
+readingTime: 16
 translatedFrom: 'People/凹與山.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '30ab24424f'
 sourceContentHash: 'sha256:fb2f6f7aedcd6d81'
 sourceBodyHash: 'sha256:99f87ca9cdb0ab32'
-translatedAt: '2026-05-02T08:59:00+08:00'
-featured: false
+translatedAt: '2026-11-25T03:08:05.866488+00:00'
 ---
 
 > **30초 개요:** 요여산(凹與山, Our Shame)은 대만의 일렉트로닉 포크 듀오로, 보컬 샤오아오(Estelle H)와 드러머 Isan으로 구성됩니다. 두 사람은 고등학교 밴드 동아리에서 만났고, 대학 시절 어쿠스틱 포크 편성으로 2015년 **진사오상 창작 부문 1등**(〈친애하는〉 어쿠스틱 데모 버전)을 차지했습니다. 졸업 후 두 사람은 모두 IT 회사에 들어갔습니다. 2018년 겨울, 본래 '웨이샤오아오'라 불리던 포크 밴드 이름을 '요여산'으로 바꾸고, 샤오아오는 신디사이저를 사고 Isan은 패드로 바꾸면서 일렉트로닉 포크(Folktronica)로 전환했습니다. 2019년 EP 《모든 좋은 일이 일어날 것이다》를 발표했고, 믹싱은 일본 금상 프로듀서 AKNIT을 영입했습니다. 2022년 첫 정규 앨범 《Modern Problem》은 **진음상 13회 최우수 얼터너티브 팝과 신인상 양 부문**에 노미네이트되었고, 영문 곡이 60%를 차지했습니다. 2025년 8월 4일 두 번째 앨범 《Hidden Album》을 발표했고, 국제 제작팀에는 영국 그래미 믹싱 엔지니어 Jay Reynolds, 미국 그래미 엔지니어 Brian Elgin(Dua Lipa, Lana Del Rey 협업), 일본 ASOBOiSM, 프랑스 Odd People Club이 포함됩니다. 주제는 '기술의 불안'에서 '기술에 가려진 인간의 그림자'—자해, 금기의 사랑, 가상화폐 사기, 여성의 신체 경험—로 전환되었습니다. 그중 〈Miffy〉는 사회운동가 천메이후이에게 헌정. 2026년 1월 4일 《Hidden Album》 동명 콘서트가 예정되어 있습니다.

@@ -1,9 +1,9 @@
 ---
-title: '소칭양'
-description: '그래미상 최우수 앨범 패키징 디자인 수상자, 일곱 번의 후보 끝에 부녀 합작으로 수상, 타이완 디자인을 세계 무대에 올린 대표적 인물'
+title: '샤오칭양 (蕭青陽)'
+description: "대만의 시각 디자이너로, 1966년 신뎬에서 태어났다. 푸싱 상업고등학교를 졸업했으며, 2005년 앨범 패키지 디자인으로 처음 그래미 어워드 후보에 오르며 해당 부문에 후보로 이름을 올린 최초의 대만 디자이너가 되었다. 이후 총 7차례 후보에 올랐으며, 2023년에는 딸 샤오쥔톈과 함께 《단란 고도 3부작》 사운드트랙 앨범으로 제65회 그래미 어워드 베스트 레코딩 패키지 디자인상을 수상했다. 18년의 기다림 끝에 마침내 왕좌에 오르며 대만 디자이너가 2년 연속 수상하는 쾌거를 이뤘다. 사찰, 전통 공예, 섬의 자연에서 소재를 얻는 그의 창작 활동은 '뿌리는 대만에 두고, 꽃은 세계로 피운다'라는 디자인 철학을 바탕으로 한다."
 date: 2026-03-19
 category: 'People'
-tags: ['디자이너', '그래미상', '앨범 패키징', '시각 디자인', '타이완 문화']
+tags: ['디자이너', '그래미 어워드', '앨범 패키지', '시각 디자인', '대만 문화']
 subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -12,10 +12,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/蕭青陽.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '20dcddf339'
 sourceContentHash: 'sha256:2c73351691aac54a'
 sourceBodyHash: 'sha256:4e85011d7634bdc0'
-translatedAt: '2026-10-21T20:47:12+08:00'
+translatedAt: '2026-11-25T03:35:03.920660+00:00'
 ---
 
 # 소칭양: 타이완 디자인을 세계 무대에 올리다

@@ -1,9 +1,9 @@
 ---
-title: '두이진 — PTT 창시자에서 비영리 AI 연구소 설립자까지'
-description: '486 컴퓨터 하나로 대만 최대 포럼을 만들고, 마이크로소프트에서 코타나를 세상에 내놓은 뒤, 고액 연봉을 포기하고 귀국해 비영리 AI를 만든 사람. 그 30년의 디지털 여정'
+title: '두이진'
+description: "한 대의 486 컴퓨터로 국립대만대학 기숙사에서 PTT(批踢踢)를 구축한 엔지니어, 순수 텍스트 포럼이 닷컴 버블과 소셜 플랫폼 경쟁을 견뎌내게 했으며, 30년 후에도 여전히 대만 공공 담론의 핵심 장으로 남아 있다. 그는 미국으로 건너가 미국 국립보건원(NIH)에서 유전자 연구를 수행했고, 이후 마이크로소프트에서 코타나(Cortana) 크로스 플랫폼 음성 비서 출시를 이끌었다. 2017년 시애틀의 고액 연봉을 포기하고 귀국해 아시아 최초의 비영리 개방형 AI 연구 기관인 '대만 인공지능 실험실(台灣人工智慧實驗室)'을 설립, 의료 영상, 음성 인식, 인지전 방어에 주력하며 오픈소스 번체 중국어 언어 모델 개발을 추진하고 있다."
 date: 2026-03-30
 category: 'People'
-tags: ['두이진', 'PTT', 'Taiwan AI Labs', '디지털 민주주의', '인공지능']
+tags: ['두이진', 'PTT', '대만 AI 연구소', '디지털 민주주의', '인공지능']
 subcategory: '科技與企業'
 author: 'Taiwan.md'
 featured: true
@@ -13,10 +13,10 @@ readingTime: 9
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/杜奕瑾.md'
-sourceCommitSha: 'b1a5fea00'
+sourceCommitSha: '20dcddf339'
 sourceContentHash: 'sha256:61081ca7c646947e'
 sourceBodyHash: 'sha256:f186e67ce03f9679'
-translatedAt: '2026-11-18T16:05:22.033307+00:00'
+translatedAt: '2026-11-25T03:25:42.220379+00:00'
 ---
 
 # 두이진

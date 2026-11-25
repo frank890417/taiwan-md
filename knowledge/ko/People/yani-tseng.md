@@ -1,23 +1,30 @@
 ---
-title: '쩡야니 (曾雅妮)'
-description: '세계 랭킹 1위 109주 연속 유지, LPGA 15승 및 메이저 5승. 22세에 역대 최연소 메이저 5회 우승 기록을 수립하며 타이거 우즈를 넘어섰고, 2025년에는 11년 만의 우승으로 화려하게 복귀했다.'
+title: '증야니 (Cheng Ya-nin)'
+description: '대만의 프로 골프 선수로, 1989년 타오위안 양메이에서 태어났다. 2008년 19세의 나이로 생애 첫 LPGA 대회 우승을 차지하며 LPGA 대회에서 우승한 최초의 중화권 선수라는 기록을 세웠다. 2011년 세계 랭킹 1위에 등극했으며, 109주 연속 세계 1위 유지 기록은 여자 골프 역사상 10년 넘게 깨지지 않았다. 또한 22세의 나이로 역대 최연소 메이저 대회 5승 달성 선수가 되었으며, 통산 LPGA 15승 및 메이저 5승을 기록했다. 고관절 부상과 슬럼프를 겪기도 했으나, 2025년 양승 골프장에서 11년 만에 우승하며 통산 28승을 달성했다.'
 date: 2026-03-31
-tags:
-  ['스포츠', '골프', 'LPGA', '세계 1위', '프로 골프', '그랜드슬램', '여자 골프']
-subcategory: '體育'
 category: 'People'
+tags:
+  [
+    '스포츠',
+    '골프',
+    'LPGA',
+    '세계 1위',
+    '프로 골프',
+    '그랜드 슬램',
+    '여자 골프',
+  ]
+subcategory: '體育'
 author: 'Taiwan.md'
-readingTime: 12
 featured: false
+lastVerified: 2026-03-31
+lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/曾雅妮.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '20dcddf339'
 sourceContentHash: 'sha256:890dbecd669ee83c'
 sourceBodyHash: 'sha256:480fe5c7e2becbe9'
-translatedAt: '2026-04-14T19:24:22+08:00'
-lastVerified: 2026-03-31
-lastHumanReview: false
+translatedAt: '2026-11-25T03:21:35.946940+00:00'
 ---
 
 # 쩡야니 (曾雅妮)
