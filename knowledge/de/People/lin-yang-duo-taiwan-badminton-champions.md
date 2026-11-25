@@ -1,17 +1,17 @@
 ---
-title: 'Wang Chilin und Lee Yang (Lin-Yang-Paarung): Vom Mitschüler zum Olympiasieger'
-description: 'Von Schülern zu Goldmedaillengewinnern: „Lin-Yang-Paarung“ besiegt China in 34 Minuten und gewinnt die erste olympische Goldmedaille für Taiwan im Badminton.'
+title: 'Wang Chi-lin und Lee Yang (Lin-Yang-Duo)'
+description: 'Das taiwanesische Badminton-Herrendoppel, bestehend aus den ehemaligen Mitschülern der Zhongshan Middle School in Taipeh, Wang Chi-lin und Lee Yang. Von Klassenkameraden zu Weltmeistern – eine zwanzigjährige Entwicklung. Am 31. Juli 2021 besiegten sie im Finale der Olympischen Spiele in Tokio das chinesische Duo Li Junhui und Liu Yuchen in nur 34 Minuten mit 21:18 und 21:12 und gewannen damit die erste olympische Goldmedaille in der Geschichte des taiwanesischen Badmintons, was 23 Millionen Menschen in ganz Taiwan gleichzeitig zum Jubeln brachte. Bei den Olympischen Spielen in Paris 2024 errangen die inzwischen 29 Jahre alten beiden erneut Gold und wurden damit das erste Duo in der Geschichte des taiwanesischen Badmintons, dem ein erfolgreicher Titelverteidigung bei den Olympischen Spielen gelang.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Sportler',
-    'Wang Chilin',
+    'Athleten',
+    'Wang Chi-lin',
     'Lee Yang',
-    'Lin-Yang-Paarung',
+    'Lin-Yang-Duo',
     'Badminton',
-    'Tokio-Olympiade',
-    'Paris-Olympiade',
+    'Olympische Spiele Tokio',
+    'Olympische Spiele Paris',
     'Goldmedaille',
   ]
 subcategory: '體育'
@@ -22,10 +22,10 @@ lastHumanReview: true
 difficulty: 'beginner'
 readingTime: 12
 translatedFrom: 'People/麟洋配.md'
-sourceCommitSha: 'c32d210ff'
+sourceCommitSha: '00dc1f6e04'
 sourceContentHash: 'sha256:940cd3ea72960eac'
 sourceBodyHash: 'sha256:4c0e104cb6fe8601'
-translatedAt: '2026-09-11T20:42:42+08:00'
+translatedAt: '2026-11-25T04:00:40.489658+00:00'
 ---
 
 # Wang Chilin und Lee Yang (Lin-Yang-Paarung)

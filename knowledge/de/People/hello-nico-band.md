@@ -1,19 +1,19 @@
 ---
-title: 'Hello Nico: Nach acht Jahren Stille – „Ich vermisse die Bühne“'
-description: '2014 mit „Flower“ StreetVoice-Jahrescharts-Sieger, 2016 Goldene Melodie-Nominierung für Neuheiten – unabhängiges taiwanesisches Duo. Danach acht Jahre Stille. 2024 kehrt das Duo mit „Plan B“ zurück.'
+title: 'Hello Nico: Nach acht Jahren Schweigen „Vermisse die Bühne“'
+description: 'Die 2013 in Taipeh gegründete vierköpfige Indie-Band gewann 2014 mit dem Song „Flower“ den StreetVoice-Jahreswettbewerb mit über 120.000 Aufrufen. Ihr Debütalbum „Familiar Desolation“ wurde 2015 für den besten Newcomer beim 27. Golden Melody Award nominiert, und 2017 trat die Band auf dem SXSW auf. Bekannt für ihren „unterdrückenden, selbstversunkenen“ Dream-Pop-Sound, blieb die Band nach 2016 etwa acht Jahre lang ruhig. Sängerin Zan Yuting gestand Erschöpfung beim Songwriting und Zweifel an ihrer eigenen Stimme; durch Selbstermutigung baute sie eine gesunde Beziehung zum Singen wieder auf. Im September 2024 kehrt sie mit der EP „Plan B: Wenn wir zurückkommen, schauen wir gemeinsam aufs Meer“ zurück.'
 date: 2026-04-20
 category: 'People'
 tags:
   [
     'Hello Nico',
-    'Janet Yuting',
-    'Li Yongle',
-    'unabhängige Musik',
+    'Zan Yuting',
+    'Li Yong-en',
+    'Indie-Musik',
     'Band',
     'Indie-Rock',
     'Dream Pop',
-    'Goldene Melodie',
-    'taiwanesische Musik',
+    'Golden Melody Awards',
+    'Taiwanische Musik',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
@@ -25,10 +25,10 @@ readingTime: 8
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/Hello-Nico.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '1b9d5dfea6'
 sourceContentHash: 'sha256:ac6c714f4ff5fb1b'
 sourceBodyHash: 'sha256:bab18d5114976850'
-translatedAt: '2026-09-23T20:30:38+08:00'
+translatedAt: '2026-11-25T04:26:13.688888+00:00'
 ---
 
 > **30 秒概覽：** Hello Nico ist eine unabhängige taiwanesische Band, gegründet 2013 in Taipeh. Mitglieder sind Sängerin Janet Yuting, Gitarristin Li Yongle, Bassist Chen Xinbo und Schlagzeugerin Guan Huizhong. 2014 mit „Flower“ StreetVoice-Jahrescharts-Sieger mit über 120.000 Streams. 2015 veröffentlichte sie ihr erstes Studioalbum „Vertraute Ödland“ und wurden 2016 für den 27. Goldenen Melodie-Preis in der Kategorie „Bester Neuzug“ nominiert. Bekannt für ihre drückende, selbst zerstörerische Dream-Pop-/Indie-Rock-Stimme, wobei Janets Stimme das Markenzeichen ist. Nach etwa acht Jahren Stille kehrten sie im September 2024 mit dem EP „Plan B: Wenn wir zurückkehren, schauen wir zusammen zum Meer“ zurück.

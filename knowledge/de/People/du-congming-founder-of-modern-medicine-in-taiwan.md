@@ -1,18 +1,18 @@
 ---
-title: 'Du Congming'
-description: 'Taiwans erster Medizin-Doktor, erfand die schrittweise Entwöhnungsmethode und half in 17 Jahren 11.498 Menschen bei der Opium-Entwöhnung, Gründer der Kaohsiung Medical University'
+title: 'Tu Tsung-ming'
+description: 'Taiwans erster Doktor der Medizin, geboren 1893 in Sanzhi, erlangte 1922 den Doktortitel in Medizin an der Kaiserlichen Universität Kyōto, worüber taiwanesische Zeitungen als Schlagzeile berichteten. Er erfand die „schrittweise Entwöhnungsmethode“, half in 17 Jahren mehr als 11.498 Opiumabhängigen beim Entzug und löste Taiwans seit dreihundert Jahren bestehendes Opiumproblem; das von ihm erfundene Prinzip des Morphin-Nachweises im Urin ist bis heute die grundlegende Methode für DrogenTests weltweit, und er war auch der Gründer der ersten privaten Universität Taiwans, der Medizinischen Hochschule Kaohsiung.'
 date: 2026-03-31
 category: 'People'
 tags:
   [
     'Medizin',
-    'Medizin-Doktor',
-    'moderne taiwanesische Medizin',
+    'Doktor der Medizin',
+    'Moderne Medizin Taiwans',
     'Kaiserliche Universität Kyōto',
     'Pharmakologie',
     'Opium',
-    'japanische Kolonialzeit',
-    'Kaohsiung Medical University',
+    'Japanische Kolonialzeit',
+    'Medizinische Universität Kaohsiung',
   ]
 subcategory: '歷史人物'
 author: 'Taiwan.md'
@@ -22,10 +22,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/杜聰明.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '00dc1f6e04'
 sourceContentHash: 'sha256:cda33c38cf5ae9bc'
 sourceBodyHash: 'sha256:f0f1f0e7889b7e24'
-translatedAt: '2026-09-15T19:45:39+08:00'
+translatedAt: '2026-11-25T04:21:14.313056+00:00'
 ---
 
 # Du Congming

@@ -1,16 +1,16 @@
 ---
-title: 'Shen Wen-cheng: Vom Flugzeugmechaniker in Ching Chuan Kang zum Doppel-Gold-Sänger'
-description: 'Shen Wen-cheng, Taiwans Doppel-Gold-Künstler in Musik und Moderation. Vom Flugzeugmechaniker in den Endtagen des Vietnamkriegs bis zum landesweiten Hit „Herzensgeheimnis“ hat er mit Aufrichtigkeit und Humor seinen Namen in die Goldene-Melodie- und Goldene-Glocken-Preise eingraviert.'
+title: 'Shen Wen-cheng: Vom Mechaniker in Qingquangang zum zweifachen Golden-Record-Gewinner'
+description: 'Geboren 1954 in Beinan, Taitung, ist er das Kind einer Rukai-Mutter. Nach dem Abschluss an der Luftwaffen-Mechanikschule wartete er am Flugplatz Qingquangang US-amerikanische Kampfflugzeuge; die Kantine des Stützpunkts gegen Ende des Vietnamkriegs wurde zu seiner musikalischen Inspiration. Nach dem Militärdienst wurde er von Tsai Chen-nan entdeckt und veröffentlichte 1982 sein erstes taiwanesisches Album „Wer kennt meine Herzensangelegenheiten?“, das über eine Million Exemplare über Nachtmärkte, Baustellen und das Radio verkaufte. 1999 gewann er den Goldenen Record für den besten männlichen Dialestsänger mit dem Album „Aufbruch“; 2013 erhielt er den Goldenen Glocken Preis als Moderator einer Reise-Show für „Die Fischer von Formosa“. Er ist einer der wenigen taiwanischen Künstler, die beide Preise gewonnen haben. Im Jahr 2026 kündigte der inzwischen 71-Jährige die Wiederaufnahme seiner klassischen Sendung an.'
 date: 2026-05-12
 category: 'People'
 tags:
   [
     'Shen Wen-cheng',
-    'Goldene-Melodie-Preis',
-    'Goldener-Glocken-Preis',
-    'Rukai-Volk',
-    'Vietnamkriegs-Mechaniker',
-    'taiwanesische Musik',
+    'Golden Record Awards',
+    'Golden Bell Awards',
+    'Rukai',
+    'Vietnamkrieg-Mechaniker',
+    'Taiwanische Musik',
     'Angeln',
   ]
 subcategory: '音樂與表演'
@@ -22,10 +22,10 @@ readingTime: 8
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/沈文程.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '1a696c19ef'
 sourceContentHash: 'sha256:3ccf8e3a350256dc'
 sourceBodyHash: 'sha256:9a3851545dcaaf3c'
-translatedAt: '2026-11-05T15:29:22+08:00'
+translatedAt: '2026-11-25T04:23:33.423762+00:00'
 ---
 
 ## Dreißig-Sekunden-Überblick

@@ -1,28 +1,28 @@
 ---
-title: 'Cicada: Sechzehn Jahre Feldaufnahmen – von Taifun Morakot 2009 bis zu den Gletschern beider Hemisphären 2025'
-description: 'Die 2009 in Taipeh gegründete Band Cicada ist eine rein instrumentale Independent-Band ohne Gesang. Gründungspianistin Jesy Chiang (M.A. in Kunstgeschichte, Taipei National University of the Arts) schrieb ihre ersten Stücke, nachdem sie in jenem Jahr die Nachrichten über Taifun Morakot gesehen hatte. In den folgenden sechzehn Jahren verwandelten sie das Verschwinden von Taiwans Küsten, die Meeresökologie sowie Bergwälder und Quellgebiete in eine Reihe wortloser Alben – von der Westküste (Coastland, 2013) über den Pazifik vor der Ostküste (Light Shining Through the Sea, 2015) bis zu den Quellgebieten des Zentralgebirges (Seeking the Sources of Streams, 2022, eine 15-tägige, 120 Kilometer lange Expedition). Sie komponierten die Filmmusik zum japanischen Film A Man und erhielten dafür den Japan Academy Film Prize für herausragende Musik. 2025 führte Gazing the Shades of White ihre Feldarbeit erstmals über Taiwan hinaus: Sie folgten Gletschern durch Grönland, Island und Neuseeland, bevor sie zum Xueshan zurückkehrten, um Spuren uralter Gletscher zu suchen.'
+title: 'Cicada: Von Morakot 2009 zu den Gletschern über die Hemisphären hinweg 2025 – sechzehn Jahre Feldaufnahmen'
+description: 'Die 2009 in Taipeh gegründete rein instrumentale Band verzichtet auf dem gesamten Album auf Gesang. Der Gründer und Pianist Chiang Chih-chieh sah die Nachrichten über den Taifun Morakot jenes Jahres und schrieb die ersten Stücke. In den folgenden sechzehn Jahren hielten sie das Verschwinden der taiwanesischen Küsten, die marine Ökologie und die Bergwälder und Quellbäche in einer Reihe von Alben ohne Texte fest. Für das 2022 erschienene Album »Wohnen über den Quellbächen« waren 15 Tage und 120 Kilometer nötig, um die Aufnahmen abzuschließen. Das 2025 erschienene Album »Den weißen Rand anstarren« folgt den Gletschern über Grönland, Island und Neuseeland und kehrt schließlich zum Xueshan zurück, um die Spuren zu finden, die alte Gletscher in Taiwan hinterlassen haben.'
 date: 2026-04-18
 category: 'People'
 tags:
   [
-    'Person',
+    'Personen',
     'Cicada',
-    'Jesy Chiang',
+    'Chiang Chih-chieh',
     'Instrumentalmusik',
-    'Post-Classical',
-    'neoclassical',
-    'Independent-Musik',
-    'Umweltmusik',
+    'Postklassik',
+    'neoklassisch',
+    'Independentmusik',
+    'Ambientmusik',
     'Ökologie',
-    'Society of Wilderness',
-    'Pieces',
-    'Hiking in the Mist',
-    'Seeking the Sources of Streams',
-    'Gazing the Shades of White',
-    'Light Shining Through the Sea',
+    'Wildnisschutzvereinigung',
+    'Verstreute Zeit',
+    'In den nebligen Wald hineingehen',
+    'Wohnen über den Quellbächen',
+    'Den weißen Rand anstarren',
+    'Zum Meeresspiegel aufblicken',
     'flau',
     'Gletscher',
-    'Kei Ishikawa',
+    'Ishikawa Kei',
     'Golden Melody Awards',
   ]
 subcategory: '音樂與表演'
@@ -30,12 +30,7 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-06-21
 lastHumanReview: true
-researchReport: reports/research/2026-04/Cicada.md
-translatedFrom: 'People/Cicada.md'
-sourceCommitSha: '21298a7ae'
-sourceContentHash: 'sha256:3d1c97835c5d9ea3'
-sourceBodyHash: 'sha256:5091127dea208f82'
-translatedAt: '2026-09-26T23:27:07+08:00'
+researchReport: 'reports/research/2026-04/Cicada.md'
 readingTime: 24
 image: '/article-images/people/cicada-cuichi-xueshan-glacial-lake.webp'
 imageCredit: 'Blackjack633 / Wikimedia Commons'
@@ -54,6 +49,11 @@ sporeLinks:
     platform: 'x'
     date: '2026-04-18'
     url: 'https://x.com/taiwandotmd/status/2045363785347612934'
+translatedFrom: 'People/Cicada.md'
+sourceCommitSha: '30ab24424f'
+sourceContentHash: 'sha256:3d1c97835c5d9ea3'
+sourceBodyHash: 'sha256:5091127dea208f82'
+translatedAt: '2026-11-25T04:31:07.851501+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Cicada ist eine 2009 in Taipeh gegründete, rein instrumentale Independent-Band, angeführt von Pianistin Jesy Chiang (M.A. in Kunstgeschichte, Taipei National University of the Arts). Die Besetzung mit vier Personen umfasst Klavier, Violine, Cello und Akustikgitarre. Seit dem Debütalbum _Pieces_ (2011, White Wabbit Records) sind alle in sechzehn Jahren veröffentlichten Werke ohne Gesang geblieben. Die Themen reichten von der Erosion der Westküste (_Coastland_, 2013) über die Ostküste und den Pazifik (_Light Shining Through the Sea_, 2015) und die Meeresökologie (_White Forest_, 2017) bis zu Bergwäldern (_Hiking in the Mist_, 2019) und schließlich zu Quellgebieten (_Seeking the Sources of Streams_, 2022, eine 15-tägige, 120 Kilometer lange Expedition durchs Zentralgebirge). Das 2024 erschienene Jubiläumsalbum zum 15-jährigen Bestehen, _Coastland Revisited_, interpretierte die Küstenthemen neu; 2025 verließ _Gazing the Shades of White_ erstmals Taiwan, folgte Gletschern über beide Hemisphären und kehrte schließlich zum Xueshan zurück, um Spuren uralter Gletscher zu suchen. Die Band komponierte die Filmmusik zum japanischen Film _A Man_ und erhielt dafür den Japan Academy Film Prize für herausragende Musik; 2024 absolvierten sie eine vollständige Japan-Tournee und standen mit dem isländischen Komponisten Ólafur Arnalds gemeinsam auf der Bühne. Ihre zentrale Methode: **die Natur für sich selbst sprechen lassen**.

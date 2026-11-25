@@ -1,20 +1,20 @@
 ---
-title: 'Au und Shan: Zwei Tech-Angestellte erschaffen mit Synthesizer das, was sie im Büro nicht sagen dürfen'
-description: 'Au und Shan (Our Shame) ist ein Duo aus Taiwan; nach dem Tod einer engen Freundin veröffentlichten sie 2022 ihr Debütalbum „Modern Problem“ und 2025 das zweite Album „Hidden Album“, das Themen wie Selbstverletzung, Taburomanzen und weibliche Körpererfahrungen behandelt.'
+title: 'Ao und Shan: Zwei Tech-Angestellte, die mit Synthesizern das sagen, was sie im Büro nicht sagen können'
+description: 'Das taiwanesische Elektro-Folk-Duo Xiao Ao und Isan lernte sich in der Highschool-Musikgemeinschaft kennen, gewann 2015 mit akustischem Folk den Goldener Melodie-Preis in der Kategorie Komposition. Nach dem Abschluss wurden beide Büroangestellte in der Tech-Branche. Im Winter 2018 änderten sie ihren Bandnamen und ihre Instrumente: Xiao Ao kaufte einen Synthesizer, Isan wechselte zum Pad. 2022 starb Xiao Aos enger Freund, sie kündigte ihren Vollzeitjob, und ihr Debütalbum „Modern Problem“ wurde für den Golden Indie Music Award in den Kategorien Best Alternative Pop und Best New Artist nominiert. Das erste Album thematisierte die durch Technologie verursachte Angst; 2025 widmet sich „Hidden Album“ den Dingen, die von der Technologie verdeckt werden.'
 date: 2026-04-18
 category: 'People'
 tags:
   [
     'Personen',
-    'Au und Shan',
+    'Ao und Shan',
     'Our Shame',
-    'Estelle H',
+    'Xiao Ao',
     'Isan',
     'Folktronica',
-    'elektronische Volksmusik',
+    'Elektro-Folk',
     'Indie-Musik',
     'Golden Indie Music Awards',
-    'Golden Sound Awards',
+    'Goldener Melodie-Preis',
     'Modern Problem',
     'Hidden Album',
     'Synthesizer',
@@ -27,10 +27,10 @@ lastHumanReview: true
 researchReport: 'reports/research/2026-04/凹與山.md'
 readingTime: 16
 translatedFrom: 'People/凹與山.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '30ab24424f'
 sourceContentHash: 'sha256:fb2f6f7aedcd6d81'
 sourceBodyHash: 'sha256:99f87ca9cdb0ab32'
-translatedAt: '2026-09-23T20:37:55+08:00'
+translatedAt: '2026-11-25T04:07:29.483260+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Au und Shan (Our Shame) ist ein Duo aus Taiwan; die Mitglieder sind Sängerin Estelle H (Xiao'ao) und Schlagzeugerin Isan. Sie lernten sich in der Highschool kennen und gewannen 2015 mit einer Akustik-Arrangement den **Golden Sound Award für Komposition** (Akustik-Demo von „Dear“). Nach dem Studium arbeiteten beide im Technologiebereich. Im Winter 2018 änderten sie den Namen ihrer ursprünglichen Folk-Gruppe, die „Wei Xiao'ao“ hieß, in „Au und Shan“. Xiao'ao kaufte einen Synthesizer, Isan begann mit Pads, und die Musik wandelte sich zur Folktronica. Im Jahr 2019 veröffentlichten sie das EP „All Good Things Will Happen“, dessen Mixing von dem japanischen Golden Award Produzenten AKNIT übernommen wurde. Das Debütalbum „Modern Problem“ im Jahr 2022 war nominiert für den **Golden Indie Music Award in zwei Kategorien (Bester Alternativer Pop und Bester Newcomer)**, wobei 60 % der Titel auf Englisch sind. Am 4. August 2025 erschien das zweite Album „Hidden Album“, mit internationalen Kollaborationen wie dem britischen Grammy-Mixer Jay Reynolds, dem US-Grammy-Ingenieur Brian Elgin (der mit Dua Lipa und Lana Del Rey zusammengearbeitet hat), ASOBOiSM aus Japan und Odd People Club aus Frankreich – das Thema wandelte sich von „Technologieangst“ zu „die durch Technologie verdeckten menschlichen Schatten“: Selbstverletzung, Taburomanzen, Kryptowährungsbetrug, weibliche Körpererfahrungen. Ein Song namens 〈Miffy〉 ist eine Hommage an die Aktivistin Chen Mei-hui. Am 4. Januar 2026 gibt es ein Konzert zu „Hidden Album“.

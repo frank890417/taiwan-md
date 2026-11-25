@@ -1,16 +1,16 @@
 ---
-title: 'Wang Shaudi: Die sanfte Revolution des Fernsehens in Taiwan mit einem Mann mittleren Alters'
-description: 'Von dem Sohn eines Generals zum rebellischen Jugendlichen, vom Rebell zu einer Patin der taiwanesischen Fernsehserien – Wang Shaudi bewies über vier Jahrzehnte, dass das Fernsehen eine soziale Bewegung sein kann.'
+title: 'Wang Xiaodi: Der 60-jährige Junge und Taiwans sanfte Fernsehrevolution'
+description: 'Taiwanesische Fernsehregisseurin, deren Vater General Wang Sheng war, eine Schlüsselfigur im Geheimdienstsystem während der Kriegsrechtszeit; sie richtete ihre Kamera jedoch zeitlebens auf die kleinen Leute. Mit „Die Vogelscheuche“ gewann sie den Goldenen Pferdepreis für das beste Originaldrehbuch. Ab Ende der 1980er Jahre drehte sie für CTV Familiendramen wie „Volles Haus“ und „Die Henne und ihre Küken“. 1992 gründete sie das Da Tian Film Studio und schuf für PTS Arztserien wie „Großes Krankenhaus, kleine Ärzte“. 2014 erhielt sie den Nationalen Kultur- und Kunstpreis, 2016 initiierte sie das Qseries zur Förderung neuer Schauspieler und Erweiterung von Genres, 2022 folgte das Zseries, und sie wird von jüngeren Kollegen respektvoll als „Lehrerin Xiao Di“ angeredet.'
 date: 2026-03-28
 category: 'People'
 tags:
   [
-    'Regisseur',
+    'Regisseurin',
     'Fernsehen',
     'Film',
-    'Qseries-Drama-Platform',
-    'CCTV',
-    'Golden Bell Awards',
+    'Qseries',
+    'PTS',
+    'Goldener Glockenpreis',
     'LGBTQ+',
   ]
 subcategory: '藝術與文化人物'
@@ -19,10 +19,10 @@ featured: false
 lastVerified: 2026-03-28
 lastHumanReview: true
 translatedFrom: 'People/王小棣.md'
-sourceCommitSha: '3638ec158'
+sourceCommitSha: '20dcddf339'
 sourceContentHash: 'sha256:50eb815f9c92fea3'
 sourceBodyHash: 'sha256:1ab1bdb7f132ff60'
-translatedAt: '2026-09-22T14:22:28+08:00'
+translatedAt: '2026-11-25T04:20:07.355303+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Wang Shaudi ist einer der wichtigsten Fernsehregisseure Taiwans und hat über vier Jahrzehnte eine ganze Generation von Schauspielern und Drehbuchautoren geprägt. Sein Vater war General Wang Sheng, ein Schlüsselmann im politischen System während des Kriegsrechts; er selbst wählte jedoch den Weg, für die kleinen Leute zu sprechen. Von _Die gesamte Familie_ in den 1980er Jahren bis zur [Qseries-Drama-Platform](de/art/qseries-drama-platform/) im Jahr 2016 dokumentierte er die Würde der unteren Schichten der taiwanesischen Gesellschaft durch seine Kamera und bewies, dass Fernsehen eine soziale Bewegung ist. Im Jahr 2014 erhielt er den National Prize for Arts and Letters.
