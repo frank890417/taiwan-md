@@ -1,15 +1,15 @@
 ---
-title: 'Lâm Bách Lý: Thượng Hải 1949, Nhà sáng lập Quanta Computer và Cuộc chiến chống ung thư 20 năm của Vua máy tính xách tay ODM'
-description: 'Sinh tháng 4/1949 tại Thượng Hải. Năm 1988 cùng Lương Thứ Chấn và những người khác thành lập Quanta Computer. Năm 2005 được chẩn đoán mắc ung thư biểu mô tuyến phổi (đã chống lại ung thư hơn 20 năm). Doanh thu hợp nhất Quanta năm 2025 vượt 2 triệu tỷ đồng Taiwan, đối tác máy chủ quan trọng của NVIDIA, nằm trong Fortune 500. Vấn đề kế vị con trai nhận được quan tâm. Năm 2026 vẫn giữ chức Chủ tịch Hội đồng quản trị.'
+title: 'Lâm Bách Lý: Sinh năm 1949 tại Thượng Hải, người sáng lập Quanta Computer và vị vua gia công máy tính xách tay với 20 năm chiến đấu với ung thư'
+description: 'Vị vua gia công máy tính xách tay sinh năm 1949 tại Thượng Hải, học tập và trưởng thành tại Đài Loan. Năm 1988, ông cùng Lương Thứ Chấn và các cộng sự thành lập Quanta Computer, chuyển hướng từ bo mạch chủ sang mô hình ODM máy tính xách tay, nhờ khả năng thiết kế tích hợp mà từng trở thành nhà sản xuất máy tính xách tay lớn nhất thế giới. Sau khi được chẩn đoán mắc ung thư tuyến phổi vào năm 2005, ông đã điều hành doanh nghiệp trong suốt hơn 20 năm dù đang mang bệnh, tạo nên một kỷ lục công khai về ý chí kiên cường. Năm 2025, doanh thu của Quanta vượt mốc 2 nghìn tỷ Đài Tân tệ, lọt vào danh sách Fortune 500 và trở thành đối tác máy chủ AI quan trọng của NVIDIA. Ông vẫn tiếp tục giữ chức Chủ tịch vào năm 2026, khiến vấn đề kế vị luôn là tâm điểm chú ý của dư luận.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Công nghệ và kinh doanh',
+    'Công nghệ và Doanh nghiệp',
     'Quanta Computer',
-    'Sản xuất theo thiết kế ban đầu (ODM)',
+    'Gia công ODM',
     'Trí tuệ nhân tạo',
-    'Ung thư biểu mô tuyến phổi',
+    'Ung thư tuyến phổi',
   ]
 subcategory: '科技與企業'
 author: 'Taiwan.md'
@@ -20,10 +20,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/林百里.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '1b9d5dfea6'
 sourceContentHash: 'sha256:4e6831b8d5040b1f'
 sourceBodyHash: 'sha256:98f02f5d889ec6c6'
-translatedAt: '2026-11-04T20:41:21.981713+00:00'
+translatedAt: '2026-11-25T03:31:07.137395+00:00'
 ---
 
 # Lâm Bách Lý: Thượng Hải 1949, Nhà sáng lập Quanta Computer và Cuộc chiến chống ung thư 20 năm của Vua máy tính xách tay ODM

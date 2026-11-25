@@ -1,15 +1,15 @@
 ---
-title: 'Từ phòng ngầm tới Phủ Tổng thống: Nymphia Wind và lịch sử tự chủ của các nữ hoàng kéo Đài Loan'
-description: 'Một cậu bé Đài Loan từng bị bắt nạt vì giới tính, làm thế nào đã đưa nghệ thuật kéo—từng bị coi là phụ văn hóa—lên sân khấu quốc tế, dùng biểu tượng "chuối" để cho thế giới thấy sự đa dạng và tự tin của Đài Loan.'
+title: 'Từ tầng hầm đến Phủ Tổng thống: Lịch sử tự trao quyền của Nymphia và Nữ hoàng Drag Queen Đài Loan'
+description: 'Người giành chức vô địch RuPaul''s Drag Race năm 2024, trở thành Drag Queen Đài Loan đầu tiên đạt được vinh dự này, tên thật là Tào Mễ Ngần (Cao Mi-yun), sinh ra tại Los Angeles và chuyển đến Đài Loan năm 6 tuổi. Cô từng bị bắt nạt vì khí chất giới tính khi còn học tiểu học, sau đó tiếp xúc với nghệ thuật Drag khi theo học thiết kế thời trang tại Học viện Thời trang London, Anh; cô đã biến khái niệm "chuối" (người gốc Hoa nhưng lớn lên ở phương Tây) vốn từng mang nghĩa tiêu cực thành biểu tượng của sự tự tin, tự xưng là "Tiêu Phật" (Phật Chuối), đồng thời lồng ghép các hình ảnh đặc trưng của Đài Loan như trà sữa trân châu, tranh vẽ đền chùa và kịch Géza vào trang phục. Từ những bữa tiệc ngầm, cô đã tiến thẳng đến Phủ Tổng thống, dõng dạc tuyên bố sự hiện diện của Đài Loan trên đấu trường quốc tế.'
 date: 2026-04-18
 category: 'People'
 tags:
   [
-    'Nymphia Wind',
-    'drag queen',
+    'Nymphia',
+    'Drag Queen',
     'LGBTQ+',
-    'bình đẳng giới',
-    'văn hóa Đài Loan',
+    'Bình đẳng giới',
+    'Văn hóa Đài Loan',
     "RuPaul's Drag Race",
   ]
 subcategory: '音樂與表演'
@@ -20,10 +20,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/妮妃雅.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '1b9d5dfea6'
 sourceContentHash: 'sha256:10538bd4034afd34'
 sourceBodyHash: 'sha256:18c9609265b03371'
-translatedAt: '2026-11-04T20:25:30.010108+00:00'
+translatedAt: '2026-11-25T03:22:02.271688+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Năm 2024, Nymphia Wind, nữ hoàng kéo từ Đài Loan, giành chiến thắng tại chương trình truyền hình thực tế quốc tế nổi tiếng nhất _RuPaul's Drag Race_, trở thành người đầu tiên từ Đài Loan đạt được vinh dự này. Thành công của cô không chỉ đưa nghệ thuật kéo Đài Loan ra tầm quốc tế, mà còn tình cờ trùng với "Ngày Giáo dục Bình đẳng Giới" của Đài Loan, cô để thế giới thấy tinh thần đa dạng và hòa nhập của đất nước. Từ bữa tiệc ngầm tới Phủ Tổng thống, câu chuyện của Nymphia Wind là tóm tắt của gần 30 năm lịch sử tự chủ của cộng đồng LGBT Đài Loan, với "chuối" như biểu tượng, cô kết nối kinh nghiệm sống cá nhân với văn hóa Đài Loan sâu sắc, nói lớn với thế giới rằng Đài Loan tồn tại và tự tin.

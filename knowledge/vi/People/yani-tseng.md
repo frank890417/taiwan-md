@@ -1,16 +1,18 @@
 ---
-title: 'Yani Tseng'
-description: '109 tuần Thứ nhất thế giới, LPGA 15 chức vô địch, 5 giải lớn, 22 tuổi trở thành vận động viên trẻ nhất từng sở hữu 5 cúp giải lớn trong lịch sử, vượt qua kỷ lục của Tiger Woods; 2025 kết thúc 11 năm không vô địch, lại trở thành nữ hoàng.'
+title: 'Tăng Nhã Ni'
+description: 'Nữ golf chuyên nghiệp Đài Loan, sinh năm 1989 tại Dương Mai, Đào Viên. Năm 2008, ở tuổi 19, cô đã giành chiến thắng trong giải đấu LPGA đầu tiên trong sự nghiệp, trở thành tay golf người Hoa đầu tiên vô địch một giải LPGA. Năm 2011, cô vươn lên vị trí số một thế giới, thiết lập kỷ lục giữ vững vị trí này trong 109 tuần liên tiếp — một cột mốc chưa có ai phá được trong lịch sử golf nữ suốt hơn một thập kỷ. Ở tuổi 22, cô trở thành tay golf trẻ nhất trong lịch sử sở hữu 5 danh hiệu Major, với tổng cộng 15 chức vô địch LPGA và 5 chức vô địch Major trong sự nghiệp. Sau khi vượt qua chấn thương khớp háng và giai đoạn sa sút, cô đã chấm dứt cơn khát danh hiệu kéo dài 11 năm vào năm 2025 tại sân golf Yang Shan, giành được chức vô địch thứ 28 trong sự nghiệp.'
 date: 2026-03-31
 category: 'People'
 tags:
-  - 'Thể thao'
-  - 'Golf'
-  - 'LPGA'
-  - 'Thứ nhất thế giới'
-  - 'Golf chuyên nghiệp'
-  - 'Giải lớn'
-  - 'Golf nữ'
+  [
+    'Thể thao',
+    'Golf',
+    'LPGA',
+    'Số một thế giới',
+    'Golf chuyên nghiệp',
+    'Grand Slam',
+    'Golf nữ',
+  ]
 subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
@@ -19,10 +21,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/曾雅妮.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '20dcddf339'
 sourceContentHash: 'sha256:890dbecd669ee83c'
 sourceBodyHash: 'sha256:480fe5c7e2becbe9'
-translatedAt: '2026-09-28T02:52:35+08:00'
+translatedAt: '2026-11-25T03:19:47.483922+00:00'
 ---
 
 # Yani Tseng (曾雅妮)

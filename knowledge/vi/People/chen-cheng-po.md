@@ -1,9 +1,9 @@
 ---
-title: 'Trần Đặng Ba'
-description: 'Anh từng chinh phục triển lãm Đế Quốc bằng tranh sơn dầu ở Tokyo, nhưng bị bắn giết trước ga Chiayi—và những gì khiến thế giới biết đến anh lại thường là cái chết, chứ không phải những bức tranh.'
+title: 'Trần Trừng Ba'
+description: 'Một họa sĩ sơn dầu đến từ Gia Nghĩa, người đầu tiên của Đài Loan đưa tranh sơn dầu vào triển lãm Mỹ thuật Đế quốc Nhật Bản. Ông từng giảng dạy tại Thượng Hải trong bốn năm, có mối quan hệ giao thiệp với các danh họa như Trương Đại Thiên, Phan Ngọc Lương, và sau khi trở về Đài Loan đã sáng tác nên các tác phẩm tiêu biểu như "Đạm Thủy tịch chiếu". Trong sự kiện 228, ông với tư cách là đại diện đàm phán đã đến sân bay Thủy Thượng, sau đó bị xử bắn trước ga Gia Nghĩa. Vợ ông là Trương Tiệp đã cất giấu hàng trăm bức họa trong gác mái và đốt bỏ các khung tranh ngay trước cửa nhà, sự ẩn giấu này kéo dài suốt ba mươi năm. Tác phẩm "Đạm Thủy tịch chiếu" sau đó được đấu giá với mức khoảng NT$220 triệu, cho đến nay vẫn là kỷ lục đấu giá tranh sơn dầu cao nhất của họa sĩ Đài Loan.'
 date: 2026-03-31
 category: 'People'
-tags: ['Nghệ thuật', 'Hội họa', 'Sự kiện 228', 'Chiayi', 'Thời kỳ Nhật trị']
+tags: ['Nghệ thuật', 'Hội họa', 'Sự kiện 228', 'Gia Nghĩa', 'Thời kỳ Nhật trị']
 subcategory: '藝術家'
 author: 'Taiwan.md'
 featured: false
@@ -12,10 +12,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/陳澄波.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '45b1bf37e0'
 sourceContentHash: 'sha256:485587af49d56815'
 sourceBodyHash: 'sha256:433a66ecaa1d5d52'
-translatedAt: '2026-11-04T22:35:22.876965+00:00'
+translatedAt: '2026-11-25T03:52:26.405671+00:00'
 ---
 
 > **Tổng quan 30 giây:** Ngày 25 tháng 3 năm 1947, trước ga Chiayi, một người cầm cây bút vẽ bị cột tay bằng dây sắt, bị bắn giết giữa phố. Anh tên là Trần澄Ba, người Đài Loan đầu tiên đưa tranh sơn dầu vào Triển lãm Đế Quốc của Nhật Bản, cũng là những người đi đàm phán trong Sự kiện 228 nhưng không bao giờ quay lại.

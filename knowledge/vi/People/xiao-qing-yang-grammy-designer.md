@@ -1,6 +1,6 @@
 ---
 title: 'Tiêu Thanh Dương'
-description: 'Quán quân giải Grammy thiết kế bao bì album tốt nhất, bảy lần đề cử cuối cùng giành chiến thắng nhờ hợp tác cha con, nhân vật đại diện cho thiết kế Đài Loan chinh phục sân khấu thế giới'
+description: 'Nhà thiết kế thị giác người Đài Loan, sinh năm 1966 tại Tân Điếm, tốt nghiệp Trường Thương nghiệp Phục Hưng. Năm 2005, ông lần đầu tiên được đề cử giải Grammy nhờ thiết kế bao bì album, trở thành nhà thiết kế Đài Loan đầu tiên nhận được đề cử này. Kể từ đó, ông đã tích lũy được bảy lần đề cử; vào năm 2023, ông cùng con gái là Tiêu Quân Điềm đã giành giải Thiết kế bao bì album xuất sắc nhất tại Giải Grammy lần thứ 65 với album nhạc phim "Tam khúc cổ đạo Đạm Lan", sau 18 năm chờ đợi cuối cùng cũng chạm tay vào vương miện, giúp các nhà thiết kế Đài Loan giành giải thưởng trong hai năm liên tiếp. Các tác phẩm của ông lấy cảm hứng từ đền chùa, thủ công truyền thống và thiên nhiên trên đảo, luôn kiên trì với triết lý thiết kế: cội nguồn tại Đài Loan, tỏa sáng ra thế giới.'
 date: 2026-03-19
 category: 'People'
 tags:
@@ -8,7 +8,7 @@ tags:
     'Nhà thiết kế',
     'Giải Grammy',
     'Bao bì album',
-    'Thiết kế trực quan',
+    'Thiết kế thị giác',
     'Văn hóa Đài Loan',
   ]
 subcategory: '藝術與設計'
@@ -19,10 +19,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/蕭青陽.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '20dcddf339'
 sourceContentHash: 'sha256:2c73351691aac54a'
 sourceBodyHash: 'sha256:4e85011d7634bdc0'
-translatedAt: '2026-10-21T20:47:15+08:00'
+translatedAt: '2026-11-25T03:33:52.383172+00:00'
 ---
 
 # Tiêu Thanh Dương: Đưa thiết kế Đài Loan lên sân khấu thế giới

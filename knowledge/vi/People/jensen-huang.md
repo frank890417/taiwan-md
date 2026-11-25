@@ -1,17 +1,17 @@
 ---
-title: 'Jensen Huang (Hoàng Nhân Huân)'
-description: 'Từ trường nội trú Kentucky đến đế chế 5 nghìn tỷ USD — Hành trình của một cậu bé Tainan quét dọn nhà vệ sinh đã đặt cược vào tương lai mười năm sau.'
+title: 'Hoàng Nhân Hôn'
+description: 'Sinh ra tại Tainan, là người sáng lập NVIDIA. Năm 9 tuổi, ông được gửi đến một trường nội trú ở Kentucky, nơi ông phải dọn dẹp nhà vệ sinh ký túc xá nam mỗi ngày; ông đã thực hiện một thỏa thuận với người bạn cùng phòng 17 tuổi đầy vết sẹo và hình xăm: đổi việc dạy chữ lấy việc dạy nâng tạ. Công ty NVIDIA do ông sáng lập đã vượt mốc vốn hóa 5 nghìn tỷ USD vào ngày 29 tháng 10 năm 2025, trở thành công ty đầu tiên trong lịch sử nhân loại đạt giá trị này; canh bạc then chốt của ông không phải là GPU, mà là CUDA vào năm 2006 — một quyết định mà vào thời điểm đó ai cũng cho là điên rồ, và phải đợi đến cuộc cách mạng AI mười năm sau mới chứng minh được giá trị.'
 date: 2026-03-25
 category: 'People'
 tags:
   [
     'Nhân vật',
-    'Jensen Huang',
+    'Hoàng Nhân Hôn',
     'NVIDIA',
     'AI',
     'Bán dẫn',
     'Công nghệ',
-    'Đài Nam',
+    'Tainan',
     'GPU',
   ]
 subcategory: '科技與企業'
@@ -24,10 +24,10 @@ image: '/article-images/technology/computex-jensen-huang-2016.webp'
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/黃仁勳.md'
-sourceCommitSha: 'b1a5fea00'
+sourceCommitSha: '00dc1f6e04'
 sourceContentHash: 'sha256:28ebca4abc1527e4'
 sourceBodyHash: 'sha256:2ae685b1d23ee474'
-translatedAt: '2026-11-18T20:58:41+08:00'
+translatedAt: '2026-11-25T03:37:57.848320+00:00'
 ---
 
 # Jensen Huang (Hoàng Nhân Huân)

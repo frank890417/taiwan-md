@@ -1,16 +1,16 @@
 ---
 title: 'Dương Hữu Nhiệm'
-description: 'Người sáng lập Hội Chăm Sóc Cơ Đốc Quốc Tế Cứu Mạng Bằng Giày Cũ, Top 10 Thanh Niên Xuất Sắc 2017, huy động gần mười vạn đôi giày cũ qua một tấm poster để hỗ trợ trẻ em Đông Phi'
+description: 'Con trai một gia đình làm nghề giày dép sinh ra tại Taoyển, 15 tuổi du học Úc, sau khi bỏ học hai lần, nhờ một mục sư có hình xăm trên sân bóng rổ mà thay đổi hướng cuộc sống, về Đài Loan làm công tác hướng dẫn thanh niên. Năm 2014, với một áp phích trên blog, kêu gọi gần 100.000 đôi giày cũ gửi đến Kenya, thành lập "Step30 Cứu mạng bằng giày cũ", chủ trương tránh sự phụ thuộc lâu dài, để đích đến của sự hỗ trợ là tự lập, phát triển các dự án: Khuyến học, Nước sống, Yêu thương·Nữ tử và Tự lập nông nghiệp, phục vụ 12 quốc gia, hơn 3 triệu người, năm 2017 được vinh danh là một trong Mười gương thanh niên tiêu biểu.'
 date: 2026-03-20
 category: 'People'
 tags:
   [
     'Doanh nghiệp xã hội Đài Loan',
-    'cứu trợ nhân đạo',
-    'cứu mạng bằng giày cũ',
-    'Top 10 Thanh Niên Xuất Sắc',
-    'hỗ trợ Phi Châu',
-    'sự vụ Cơ Đốc',
+    'Cứu trợ nhân đạo',
+    'Cứu mạng bằng giày cũ',
+    'Mười gương thanh niên tiêu biểu',
+    'Hỗ trợ Phi Châu',
+    'Sự vụ Cơ đốc giáo',
   ]
 subcategory: '社會與公益'
 author: 'Taiwan.md Contributors'
@@ -20,10 +20,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/楊右任.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:2a0a298fc7d510ca'
 sourceBodyHash: 'sha256:aeccc38efb53dc79'
-translatedAt: '2026-11-04T20:44:25.355353+00:00'
+translatedAt: '2026-11-25T03:35:55.448449+00:00'
 ---
 
 # Dương Hữu Nhiệm: Từ học sinh trung học bỏ học làm graffiti đến người cứu mạng bằng giày cũ tại Phi Châu

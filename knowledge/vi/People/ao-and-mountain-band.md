@@ -1,23 +1,23 @@
 ---
-title: 'Nẻo Và Núi: Hai Người Bạn Công Nghệ Dùng Synthesizer Để Thể Hiện Những Điều Không Thể Nói Ở Văn Phòng'
-description: 'Nẻo Và Núi (Our Shame) là đôi đàn sĩ nhạc dân gian điện tử (Folktronica) của Đài Loan, gồm Thái Anh Văn (Estelle H, ca sĩ, synthesizer, nhà sản xuất) và Isan. Hai người được bạn bè đồng diễn đàn tại Trung Học Cấp 2 Học Viện Nhạc Học Nhiệt âm, cùng nhau giành danh hiệu nhất đầu của Giải Thưởng Nhạc Sáng Tạo Cao Đẳng năm 2015 với bản demo không điện cho ca khúc "Thân Mến". Sau khi ra trườ, cả hai đều làm việc trong ngành công nghệ. Mùa đông 2018, họ đổi tên nhóm từ "Wei Xiao Ao" sang "Nẻo Và Núi", mua synthesizer và chuyển hướng về nhạc dân gian điện tử. Năm 2022, sau khi bạn thân của Thái Anh Văn khuất, cô rời chính thức, nhóm ra mắt album chính thức đầu tiên "Modern Problem" được dự kiến vào hai hạng mục của Giải Thưởng Nhạc Golden 13. Tính đến tháng 8/2025, họ ra mắt album thứ hai "Hidden Album" với sự hợp tác từ các nhà sản xuất nổi tiếng như Jay Reynolds (Anh), Brian Elgin (Mỹ), ASOBOiSM (Nhật) và Odd People Club (Pháp), khám phá các chủ đề như lo âu công nghệ, kinh nghiệm cá nhân bị ẩn giấu và tình yêu bí mật.'
+title: 'Ao & Shan: Hai nhân viên ngành công nghệ dùng synthesizer để kể về những điều không thể nói nơi công sở'
+description: 'Nhóm nhạc Folktronica song ca tại Đài Loan, Ao và Isan quen nhau từ câu lạc bộ nhạc Rock ở trường trung học. Năm 2015, họ giành giải quán quân hạng mục Nhóm sáng tác tại Giải thưởng Âm nhạc Kim Thiều với dòng nhạc Acoustic Folk. Sau khi tốt nghiệp, cả hai đều trở thành nhân viên văn phòng trong ngành công nghệ. Vào mùa đông năm 2018, họ thay đổi tên nhóm và nhạc cụ: Ao bắt đầu sử dụng synthesizer, còn Isan chuyển sang chơi Pad. Năm 2022, sau sự ra đi của một người bạn thân, Ao đã nghỉ việc toàn thời gian; album đầu tay "Modern Problem" của họ đã được đề cử hạng mục Pop Alternative xuất sắc nhất và Nghệ sĩ mới xuất sắc nhất tại Giải thưởng Âm nhạc Kim Âm. Nếu album đầu tiên hát về những nỗi lo âu do công nghệ mang lại, thì năm 2025, "Hidden Album" sẽ chuyển sang kể về những điều bị che lấp bởi công nghệ.'
 date: 2026-04-18
 category: 'People'
 tags:
   [
-    'con người',
-    'Nẻo Và Núi',
+    'Nhân vật',
+    'Ao & Shan',
     'Our Shame',
-    'Thái Anh Văn',
+    'Ao',
     'Isan',
     'Folktronica',
-    'nhạc dân gian điện tử',
-    'nhạc độc lập',
-    'Giải Thưởng Nhạc Golden',
-    'Giải Thưởng Nhạc Sáng Tạo Cao Đẳng',
+    'Điện khí dân ca',
+    'Nhạc độc lập',
+    'Giải thưởng Âm nhạc Kim Âm',
+    'Giải thưởng Âm nhạc Kim Thiều',
     'Modern Problem',
     'Hidden Album',
-    'synthesizer',
+    'Synthesizer',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
@@ -27,10 +27,10 @@ lastHumanReview: true
 researchReport: 'reports/research/2026-04/凹與山.md'
 readingTime: 16
 translatedFrom: 'People/凹與山.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '30ab24424f'
 sourceContentHash: 'sha256:fb2f6f7aedcd6d81'
 sourceBodyHash: 'sha256:99f87ca9cdb0ab32'
-translatedAt: '2026-07-26T19:07:45+08:00'
+translatedAt: '2026-11-25T03:08:47.337699+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Nẻo Và Núi (Our Shame) là đôi đàn sĩ nhạc dân gian điện tử của Đài Loan, gồm Thái Anh Văn (Estelle H, ca sĩ) và Isan (nhà trống). Hai người được bạn bè đồng diễn đàn tại Trung Học Cấp 2 Học Viện Nhạc Học Nhiệt âm, cùng nhau giành danh hiệu nhất đầu của **Giải Thưởng Nhạc Sáng Tạo Cao Đẳng nhóm sáng tạo năm 2015** (phiên bản demo không điện cho ca khúc "Thân Mến"). Sau khi ra trườ, cả hai đều làm việc trong ngành công nghệ. Mùa đông 2018, họ đổi tên nhóm từ "Wei Xiao Ao" sang "Nẻo Và Núi", mua synthesizer và chuyển hướng về nhạc dân gian điện tử (Folktronica). Năm 2019, họ ra mắt EP "Mọi điều tốt đẹp sẽ xảy ra", được pha trộn bởi nhà sản xuất giải thưởng Nhật Bản AKNIT. Năm 2022, album chính thức đầu tiên "Modern Problem" được dự kiến vào hai hạng mục của **Giải Thưởng Nhạc Golden 13 - Nhạc không đường line mới và Nhạc sĩ mới nhất**. Ca khúc bằng tiếng Anh chiếm 60% thời gian. Tính đến ngày 4 tháng 8 năm 2025, họ ra mắt album thứ hai "Hidden Album" với sự hợp tác từ Jay Reynolds (Anh), Brian Elgin (Mỹ, từng làm việc với Dua Lipa và Lana Del Rey), ASOBOiSM (Nhật Bản), Odd People Club (Pháp)— chủ đề chuyển từ "lo âu công nghệ" sang "bóng tối của con người bị công nghệ che giấu": tự trầm cảm, tình yêu bí mật, gian lận tiền mã tả, trải nghiệm thể xác nữ giới. Trong đó, ca khúc "Miffy" xin lỗi tượng trưng cho Cảnh Minh Huy, một nhà hoạt động xã hội chuyên nghiệp.

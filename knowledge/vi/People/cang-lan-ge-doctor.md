@@ -1,15 +1,15 @@
 ---
-title: 'Cang Lan Ge: Đưa khoảng cách áo trắng lên camera'
-description: 'Từ kênh Y tế YouTube năm 2017 đến giải thích vaccine trong đại dịch, Ngô Kỳ Anh đặt chuyên môn, biểu diễn và giao tiếp công cộng của bác sĩ trên cùng một chiếc bàn.'
+title: 'Thương Lam Cáp: Đưa khoảng cách áo blouse trắng đến trước ống kính'
+description: 'Bác sĩ nhi khoa tốt nghiệp Khoa Y học Đại học Quốc gia Đài Loan, hiện là bác sĩ chủ trị tại Phòng khám Cây Táo chi nhánh Bắc Đại. Từ năm 2017 điều hành kênh "Thế giới Y học của Thương Lam Cáp", chuyển từ kiến thức chuyên môn cứng nhắc sang phân tích phim y tế và bình luận sự việc thời sự, trong đại dịch bước vào thảo luận công khai nhờ các video giải thích về vắc-xin. Ông kiên định quan điểm "giải thích y học bằng ngôn ngữ khán giả hiểu được", dùng YouTube để phân tích phim/đ라마, Podcast bàn tin tức y tế, Matters giữ lại bài viết dài, cũng xuất bản sách, chủ trì các buổi diễn nói, lâu dài giữ vững ranh giới công chính giữa chuyên môn, biểu diễn và hợp tác thương mại.'
 date: 2026-08-16
 category: 'People'
 tags:
   [
-    'Cang Lan Ge',
-    'Ngô Kỳ Anh',
-    'Khoa học y tế phổ cập',
+    'Thương Lam Cáp',
+    'Ngô Ký Anh',
+    'Khoa học phổ cập y tế',
     'YouTube',
-    'Sức khỏe cộng đồng',
+    'Y tế công cộng',
   ]
 subcategory: '醫療與公共溝通'
 author: 'Taiwan.md Contributors'
@@ -17,12 +17,12 @@ featured: false
 lastVerified: 2026-08-16
 lastHumanReview: false
 readingTime: 8
-curation: incubating
+curation: 'incubating'
 translatedFrom: 'People/蒼藍鴿.md'
-sourceCommitSha: 'a7bf511aa'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:1a1a9598d9221fe9'
 sourceBodyHash: 'sha256:74a863b5d0baa755'
-translatedAt: '2026-09-09T15:01:50+08:00'
+translatedAt: '2026-11-25T03:44:59.650116+00:00'
 ---
 
 > **Tóm tắt 30 giây:**
