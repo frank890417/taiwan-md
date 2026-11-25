@@ -1,17 +1,17 @@
 ---
-title: 'Lin Liang: Simples, mas com sabor'
-description: 'Do filho mais velho que perdeu o pai às margens do rio Longjiang em 1944, ao avô de 95 anos que faleceu no sono em dezembro de 2019. Lin Liang provou em 73 anos que a criança merece ser tratada como um leitor completo.'
+title: 'Lin Liang: Superficialidade é superficial, mas deve ser profunda e saborosa'
+description: 'Escritor de literatura infantil de Taiwan. Em 1946, desembarcou em Keelung vindo de Xiamen com uma caixa de livros. Em 1948, ingressou no recém-fundado jornal "Guoyu Ribao" como editor da seção infantil, escrevendo desde então por setenta e três anos. Ele propôs a arte da linguagem simples, defendendo que as crianças merecem ser tratadas como leitores completos. Sua coluna "Descrevendo Imagens com Palavras" foi escrita de 1951 até uma semana antes de seu falecimento aos 95 anos, acumulando quase seis mil artigos; sua coletânea de ensaios "Pequeno Sol" teve mais de cento e trinta reimpressões. Em 2012, recebeu o Prêmio Nacional de Artes e, em 2018, tornou-se o premiado mais velho na história da literatura infantil de Taiwan.'
 date: 2026-04-28
 category: 'People'
 tags:
   [
     'Literatura infantil',
     'Escritor',
-    'Diário Nacional em Mandarim',
-    'Arte da linguagem simples',
-    'Solzinho',
-    'Inovador cultural',
-    'Literatura taiuanesa pós-guerra',
+    'Guoyu Ribao',
+    'A arte da linguagem simples',
+    'Pequeno Sol',
+    'Pioneiro cultural',
+    'Literatura de Taiwan no pós-guerra',
   ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
@@ -23,10 +23,10 @@ readingTime: 16
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/林良.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '20dcddf339'
 sourceContentHash: 'sha256:ff949a14cc54475a'
 sourceBodyHash: 'sha256:99fcaed64626278d'
-translatedAt: '2026-09-22T22:29:01.549705+00:00'
+translatedAt: '2026-11-25T06:43:32.442536+00:00'
 ---
 
 > **30 秒概覽：**

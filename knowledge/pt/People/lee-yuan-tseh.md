@@ -1,13 +1,13 @@
 ---
-title: 'Lee Yuan-tseh'
-description: 'Vencedor do Nobel de Química de 1986, pioneiro da cinética química com a técnica de feixes moleculares cruzados, primeiro laureado taiwanês com Nobel científico'
+title: 'Li-Wen Chen'
+description: 'O primeiro vencedor do Prémio Nobel de Ciências de Taiwan. Nascido em Hsinchu em 1936, durante o período de ocupação japonesa, graduou-se no Departamento de Química da Universidade Nacional de Taiwan e obteve um doutoramento na Universidade da Califórnia, Berkeley, nos Estados Unidos. Em Harvard, colaborou com o laureado do Nobel, Harold Bach, para desenvolver a revolucionária técnica de feixe molecular cruzado, permitindo que os cientistas pudessem, pela primeira vez, "ver" o processo das reações químicas. Foi co-vencedor do Prémio Nobel da Química em 1986. Em 1994, renunciou ao cargo de professor em Berkeley e à sua cidadania americana para regressar a Taiwan, onde serviu como Presidente da Academia Sinica durante 12 anos.'
 date: 2026-03-21
 category: 'People'
 tags:
   [
-    'Personalidades',
-    'Lee Yuan-tseh',
-    'Nobel',
+    'Personalidade',
+    'Li-Wen Chen',
+    'Prémio Nobel',
     'Química',
     'Cientista',
     'Academia Sinica',
@@ -20,10 +20,10 @@ lastVerified: 2026-03-21
 lastHumanReview: true
 curation: 'incubating'
 translatedFrom: 'People/李遠哲.md'
-sourceCommitSha: '69b3afd91'
-sourceContentHash: 'sha256:c7cb9c37ad53a48c'
-sourceBodyHash: 'sha256:d9744718376b888a'
-translatedAt: '2026-08-04T17:42:35+08:00'
+sourceCommitSha: '00dc1f6e04'
+sourceContentHash: 'sha256:39f343c12ccc5e82'
+sourceBodyHash: 'sha256:9e43ab4838b073f1'
+translatedAt: '2026-11-25T05:59:32.248047+00:00'
 ---
 
 # Lee Yuan-tseh
@@ -56,13 +56,13 @@ A notícia abalou Taiwan. Era o primeiro Nobel científico de um taiwanês, prov
 
 Curiosamente, a nacionalidade do prémio era americana. Isso não diminuiu o orgulho dos taiwaneses — sabiam que aquele rapaz crescido em Hsinchu, falante de taiwanês, trazia no sangue os nutrientes de Taiwan.
 
-## 1994: a promessa de regressar e servir
+## 1994: A promessa de retornar ao país após concluir os estudos
 
-Em 1994, no auge académico, Lee tomou decisão que surpreendeu a comunidade científica internacional: demitiu-se da cátedra em Berkeley, renunciou à nacionalidade americana e regressou para presidir à Academia Sinica (1994–2006).
+Em 1994, no auge de sua carreira acadêmica, Lee Yuan-tseh tomou uma decisão que chocou a comunidade científica internacional: renunciar ao seu cargo de professor em Berkeley, abrir mão da cidadania americana e retornar a Taiwan para assumir a presidência da Academia Sinica (1994-2006).
 
-A decisão gerou controvérsia. Críticos viam desperdício de influência internacional; apoiadores, a concretização do ideal de servir o país com o saber. A razão de Lee era simples: «Quero usar a minha experiência para fazer de Taiwan um polo científico da Ásia.»
+Essa decisão foi cercada de controvérsias. Os críticos argumentavam que ele estava desperdiçando sua influência no cenário internacional, enquanto os apoiadores acreditavam que ele estava colocando em prática o ideal do acadêmico que serve ao seu país. O próprio Lee Yuan-tseh tinha um motivo simples: "Espero usar minha experiência para fazer de Taiwan um centro científico na Ásia".
 
-Durante os 12 anos à frente da Academia Sinica, impulsionou a modernização organizacional, instituiu um sistema de avaliação internacionalizado e criou novos institutos — Ciência da Informação, Ciências Biomédicas, Genómica, entre outros. Atraiu de regresso académicos de nível mundial como Chi-Huey Wong (翁啟惠) e Ming-Chao Lai (賴明詔), injetando nova vitalidade na ciência taiwanesa.
+Durante os 12 anos em que presidiu a Academia Sinica, Lee Yuan-tseh promoveu a modernização da organização, estabeleceu um sistema internacional de avaliação de pesquisas e criou diversos novos institutos, como os de Ciência da Informação, Ciências Biomédicas e Pesquisa Genômica. Ele atraiu estudiosos de nível internacional, como Weng Chi-hui e Lai Ming-shao, de volta a Taiwan, injetando nova vitalidade na comunidade científica taiwanesa.
 
 ## Participação controversa na reforma educacional
 

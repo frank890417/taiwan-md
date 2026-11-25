@@ -1,18 +1,18 @@
 ---
-title: 'Lü Chieh: de uma pergunta sobre o 228 evitada, a vinte e oito aulas de história de Taiwan'
-description: 'Da entrevista numa marisqueira ao pódio do cursinho, Lü Chieh usa histórias para impulsionar o conteúdo programático, mas exige que os alunos voltem às fontes, aos fatos e à interpretação histórica.'
+title: 'Lü Jie: De uma pergunta evitada sobre o 228 a uma aula de história de Taiwan'
+description: 'Um professor renomado que pretendia estudar Direito, mas acabou no departamento de História por ter preenchido errado suas opções de curso. Ele saiu do palco dos cursinhos para o cenário público após um vídeo de sua aula viralizar, defendendo que a história não é apenas memorização, mas sim a distinção entre três camadas: fontes históricas, fatos históricos e perspectiva histórica. Em 2026, lançará um curso de história de Taiwan estruturado em torno de vinte e oito locais históricos, integrando liberdade, democracia, cultura, identidade e posicionamento internacional no mesmo mapa. Ele afirma que a história não serve para ensinar você a conhecer o passado, mas sim a conhecer a natureza humana; as histórias podem ser envolventes, mas devem deixar caminhos verificáveis.'
 date: 2026-08-14
 category: 'People'
-subcategory: '教育與社會'
 tags:
   [
-    'Perfil',
-    'Lü Chieh',
-    'educação histórica',
-    'cultura de cursinho',
-    'história de Taiwan',
-    'mídia',
+    'Personalidade',
+    'Lü Jie',
+    'Educação Histórica',
+    'Cultura dos Cursinhos',
+    'História de Taiwan',
+    'Mídia',
   ]
+subcategory: '教育與社會'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-14
@@ -20,10 +20,10 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/呂捷.md'
-sourceCommitSha: '4a95859b1'
-sourceContentHash: 'sha256:67c5ad771d308cd6'
+sourceCommitSha: '45b1bf37e0'
+sourceContentHash: 'sha256:8682de0c2d43ca25'
 sourceBodyHash: 'sha256:6ab4993ddc7e3736'
-translatedAt: '2026-09-12T19:57:16+08:00'
+translatedAt: '2026-11-25T07:14:05.534533+00:00'
 ---
 
 # Lü Chieh: de uma pergunta sobre o 228 evitada, a vinte e oito aulas de história de Taiwan
@@ -156,30 +156,30 @@ Aquela pergunta evitada na sala de aula do ensino médio não ganhou resposta ac
 
 ## Referências
 
-[^1]: [StoryStudio / Apple Podcasts: "Quem disse que a história de Taiwan só pode ser trágica? Observações de primeira mão de 20 anos de arena do professor de cursinho de história ft. Lü Chieh"](https://podcasts.apple.com/tw/podcast/%E8%AA%B0%E8%AA%AA%E8%87%BA%E7%81%A3%E5%8F%B2%E5%8F%AA%E8%83%BD%E6%82%B2%E6%83%85-%E6%AD%B7%E5%8F%B2%E8%A3%9C%E6%95%99%E5%90%8D%E5%B8%AB%E7%B8%B1%E6%A9%AB%E6%B2%99%E5%A0%B4-20-%E5%B9%B4%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%8B%E7%8F%BE%E5%A0%B4%E8%A7%80%E5%AF%9F-ft-%E5%91%82%E6%8D%B7/id1593373742?i=1000778009947) — Descrição do episódio de julho de 2026, registra a recordação de Lü Chieh sobre a pergunta do 228 no ensino médio e sua reavaliação do método de ensino de história de Taiwan.
+[^1]: [StoryStudio／Apple Podcasts: 〈Quem disse que a história de Taiwan só pode ser trágica? Observações de primeira mão de um professor renomado de cursos preparatórios após 20 anos no campo ft. Lü Jie〉](https://podcasts.apple.com/tw/podcast/%E8%AA%B0%E8%AA%AA%E8%87%BA%E7%81%A3%E5%8F%B2%E5%8F%AA%E8%83%BD%E6%82%B2%E6%83%85-%E6%AD%B7%E5%8F%B2%E8%A3%9C%E6%95%99%E5%90%8D%E5%B8%AB%E7%B8%B1%E6%A9%AB%E6%B2%99%E5%A0%B4-20-%E5%B9%B4%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%8B%E7%8F%BE%E5%A0%B4%E8%A7%80%E5%AF%9F-ft-%E5%91%82%E6%8D%B7/id1593373742?i=1000778009947) — Introdução ao programa publicada em julho de 2026, registrando as memórias de Lü Jie sobre suas perguntas sobre o Incidente 228 no ensino médio e sua reavaliação das direções do ensino da história de Taiwan.
 
-[^2]: [Future Parenting: "Mas a natureza humana não muda. Professor famoso Lü Chieh: 'O mais importante em estudar história não é o vestibular'"](https://futureparenting.cwgv.com.tw/family/content/index/22429) — Traz o relato direto de Lü Chieh sobre o erro na ficha de História, a utilidade da educação histórica e a virada de vida, com trechos de seus livros.
+[^2]: [Wei Lai Qin Zi: 〈Mas a natureza humana não muda. O professor renomado Lü Jie diz: "O mais importante ao estudar história não é o exame de admissão"〉](https://futureparenting.cwgv.com.tw/family/content/index/22429) — Contém o relato direto de Lü Jie sobre ter preenchido incorretamente sua escolha de curso para o departamento de história, os propósitos da educação histórica e as reviravoltas em sua vida, além de trechos de suas obras.
 
-[^3]: [Future Parenting: "Mas a natureza humana não muda. Professor famoso Lü Chieh: 'O mais importante em estudar história não é o vestibular'"](https://futureparenting.cwgv.com.tw/family/content/index/22429) — Bio do autor ao final lista graduação e mestrado em História na Universidade Chung Cheng e experiência como apresentador de _Lü Lê Taiwan_, confirmando sua identidade como educador histórico.
+[^3]: [Wei Lai Qin Zi: 〈Mas a natureza humana não muda. O professor renomado Lü Jie diz: "O mais importante ao estudar história não é o exame de admissão"〉](https://futureparenting.cwgv.com.tw/family/content/index/22429) — A biografia do autor ao final do texto lista sua formação acadêmica no Departamento de História e na Pós-graduação em História da Universidade Chung Cheng, bem como sua experiência como apresentador de 《Lü Du Taiwan》, permitindo confirmar sua identidade como educador histórico.
 
-[^4]: [Future Parenting: "Mas a natureza humana não muda. Professor famoso Lü Chieh: 'O mais importante em estudar história não é o vestibular'"](https://futureparenting.cwgv.com.tw/family/content/index/22429) — Publica diretamente o trecho original "fontes históricas, fatos históricos, interpretação histórica", útil para distinguir sua fala sobre compreensão histórica e formação de ponto de vista.
+[^4]: [Wei Lai Qin Zi: 〈Mas a natureza humana não muda. O professor renomado Lü Jie diz: "O mais importante ao estudar história não é o exame de admissão"〉](https://futureparenting.cwgv.com.tw/family/content/index/22429) — Publica diretamente os parágrafos originais sobre "fontes históricas, fatos históricos e visão histórica", sendo útil para analisar sua abordagem sobre a compreensão da história e a formação de perspectivas.
 
-[^5]: [National Quemoy University: _Lü Jie's Talk: "Understanding History as Society Progresses"_](https://ecasc.nqu.edu.tw/p/405-1017-11381,c1579.php?Lang=en) — Página em inglês de evento da Universidade Nacional de Kinmen, explica a viralização do vídeo de aula em cursinho de Kaohsiung em 2014 e seu posicionamento como palestrante que usa história para entender a sociedade.
+[^5]: [National Quemoy University: _Lü Jie's Talk: "Understanding History as Society Progresses"_](https://ecasc.nqu.edu.tw/p/405-1017-11381,c1579.php?Lang=en) — Página de evento em inglês da Universidade Nacional de Kinmen, explicando como o vídeo de uma aula em um centro de cursos preparatórios em Kaohsiung tornou-se viral em 2014 e como ele foi posicionado como um palestrante que utiliza a história para compreender a sociedade.
 
-[^6]: [Books.com.tw: _O que o irmão ensina não é história, é a natureza humana_](https://www.books.com.tw/products/0010693183) — Ficha bibliográfica e sinopse da publicação de 2015, lista a frase original do autor "A história não serve para você conhecer a história, mas para conhecer a natureza humana".
+[^6]: [Books.com.tw: 《O que o professor ensina não é história, é a natureza humana》](https://www.books.com.tw/products/0010693183) — Catálogo e introdução do conteúdo da publicação de 2015, listando frases originais do autor como "a história não serve para te ensinar a conhecer a história, mas sim para conhecer a natureza humana".
 
-[^7]: [CTS News: "Professor de cursinho famoso Lü Chieh assume apresentação de _A Guerra dos Lü BATTLE_"](https://news.cts.com.tw/cts/general/202309/202309132227322.html) — Lançamento do programa pela CTS News, informa horário, desenho intergeracional e interdisciplinar, e a formulação de Lü Chieh sobre o debate.
+[^7]: [CTS News: 〈O professor renomado de cursos preparatórios Lü Jie assume o comando de 《Lü's Warring States BATTLE》 como apresentador〉](https://news.cts.com.tw/cts/general/202309/202309132227322.html) — Informações de lançamento do programa no canal de notícias da CTS, detalhando o horário de exibição, o design intergeracional e interdisciplinar, bem como as declarações de Lü Jie sobre os debates.
 
-[^8]: [Knowledge Satellite: "As 28 aulas de história de Taiwan de Lü Chieh"](https://sat.cool/course/199) — Página de lançamento do curso, registra 28 unidades, 10 horas e o desenho curricular que usa locais históricos para ligar a liberdade, democracia, cultura, identidade e posição internacional de Taiwan.
+[^8]: [Knowledge Satellite: 〈As 28 aulas de história de Taiwan de Lü Jie〉](https://sat.cool/course/199) — Página de lançamento do curso, registrando um design curricular de 28 unidades e 10 horas que conecta os cenários históricos à liberdade, democracia, cultura, identidade e posição internacional de Taiwan.
 
-[^9]: [Books.com.tw: _O que o irmão ensina não é história, é a natureza humana_](https://www.books.com.tw/products/0010693183) — Dados bibliográficos com ISBN, 208 páginas e data de 29 out 2015; apenas para conferência de marco editorial e conteúdo.
+[^9]: [Books.com.tw: 《O que o professor ensina não é história, é a natureza humana》](https://www.books.com.tw/products/0010693183) — Dados bibliográficos indicando o ISBN, 208 páginas e a data de publicação em 29 de outubro de 2015; destinado apenas para conferência de marcos de publicação e conteúdo da obra.
 
-[^10]: [Business Weekly: "Lü Chieh: Encarar a si mesmo é o começo para sair da condição de lushé!"](https://www.businesstoday.com.tw/article/category/80407/post/201512170102/) — Resenha e entrevista de 2015, registra reexame, entrada em História por erro na ficha, início no cursinho e narrativa do fundo do poço pessoal.
+[^10]: [Next Magazine: 〈Lü Jie: Enfrentar o seu verdadeiro eu é o começo para deixar de ser um perdedor!〉](https://www.businesstoday.com.tw/article/category/80407/post/201512170102/) — Compilação de trechos de livros e entrevistas de 2015, registrando a narrativa sobre prestar o exame novamente, entrar no departamento de história após preencher incorretamente suas opções, o início de seu trabalho em cursos preparatórios e seus momentos de baixa pessoal.
 
-[^11]: [StoryStudio: "Quem disse que a história de Taiwan só pode ser trágica? Observações de primeira mão de 20 anos de arena do professor de cursinho de história ft. Lü Chieh"](https://storystudio.tw/article/gushi/lu-jie-podcast) — Entrevista de julho de 2026 apresenta em segmentos a entrada de Lü Chieh no cursinho vindo da marisqueira, experiência da primeira aula, proporção de tempo em sala e o posicionamento do curso de história de Taiwan como "sob a figueira".
+[^11]: [StoryStudio: 〈Quem disse que a história de Taiwan só pode ser trágica? Observações de primeira mão de um professor renomado de cursos preparatórios após 20 anos no campo ft. Lü Jie〉](https://storystudio.tw/article/gushi/lu-jie-podcast) — Apresentação detalhada da entrevista de julho de 2026, relatando a trajetória de Lü Jie desde o trabalho em uma loja de frutos do mar até entrar nos cursos preparatórios, sua experiência na primeira aula, a proporção de alunos em sala e o posicionamento "sob a árvore banyan" de seu curso de história de Taiwan.
 
-[^12]: [Yahoo News: "'Nossa educação histórica falhou' Lü Chieh: o que deve mudar não é a diretriz curricular"](https://tw.news.yahoo.com/%E3%80%8C%E6%88%91%E5%80%91%E6%AD%B7%E5%8F%B2%E6%95%99%E8%82%B2%E5%A4%B1%E6%95%97%E3%80%8D-%E5%91%82%E6%8D%B7%EF%BC%9A%E8%A6%81%E6%94%B9%E7%9A%84%E4%B8%8D%E6%98%AF%E8%AA%B2%E7%B6%B1-132415186.html) — Reportagem de 2018 reproduz sua defesa pública sobre novas diretrizes e modelo de exame, incluindo a distinção entre fontes, fatos, interpretação e entre múltipla escolha e dissertativa.
+[^12]: [Yahoo News: 〈"Nossa educação histórica falhou" Lü Jie: O que precisa mudar não é o currículo〉](https://tw.news.yahoo.com/%E3%80%8C%E6%88%91%E5%80%91%E6%AD%B7%E5%8F%B2%E6%95%99%E8%82%B2%E5%A4%B1%E6%95%97%E3%80%8D-%E5%91%82%E6%8D%B7%EF%BC%9A%E8%A6%81%E6%94%B9%E7%9A%84%E4%B8%8D%E6%98%AF%E8%AA%B2%E7%B6%B1-132415186.html) — Reportagem de 2018 que reproduz suas reivindicações públicas sobre o novo currículo e os modelos de exame, incluindo a distinção entre fontes históricas, fatos históricos, visão histórica e questões de múltipla escolha versus questões dissertativas.
 
-[^13]: [Liberty Times: "'Repressão com caminhão de esgoto' professor de cursinho fala do 4 de Junho e gera controvérsia"](https://news.ltn.com.tw/news/novelty/breakingnews/1079920) — Reportagem de 2014 registra conteúdo do vídeo em sala, viralização e crítica de Chen Wei-ting; não traz resposta formal de Lü Chieh à polêmica.
+[^13]: [Liberty Times: 〈"Repressão com caminhões de fertilizantes" Professor de cursos preparatórios fala sobre a controvérsia de 4 de junho〉](https://news.ltn.com.tw/news/novelty/breakingnews/1079920) — Reportagem de 2014 que registra o conteúdo do vídeo da aula, sua disseminação na internet e as críticas de Chen Wei-ting; o texto não contém uma resposta oficial de Lü Jie sobre essa controvérsia.
 
-[^14]: [Books.com.tw: _A sociedade caminha, a história deve entender: Lü Chieh abre a fala_](https://www.books.com.tw/products/0010900428) — Página do livro traz prefácio do autor e posicionamento do conteúdo, útil para contrastar sua linha editorial de ler história via narrativa, pensamento e natureza humana.
+[^14]: [Books.com.tw: 《A sociedade avança, a história deve ser compreendida: Lü Jie palestra》](https://www.books.com.tw/products/0010900428) — Página do livro que inclui o prefácio do autor e o posicionamento do conteúdo, podendo ser usada para confrontar o contexto de suas publicações sobre ler a história através de histórias, reflexão e natureza humana.

@@ -1,6 +1,6 @@
 ---
-title: 'Abao (Aljenljeng): a cantora de future pop que levou a língua paiwan ao Álbum do Ano do Golden Melody'
-description: "O Álbum do Ano do 31º Golden Melody em 2020 foi concedido ao álbum eletrônico totalmente em paiwan 'kinakaian A Língua da Mãe'. Abao (Aljenljeng Tjaluvie, 1981, Jinfeng, Taitung) estreou-se no duo de R&B Abao & Brandy, trabalhou dez anos como enfermeira e, em 2019, com Dizparity, transformou a língua ancestral em future pop, reescrevendo a ideia de que 'música indígena = preservação'."
+title: 'Abao (Aljenljeng): A cantora de future pop que levou a língua Paiwan ao Álbum do Ano no Golden Melody Awards'
+description: 'Cantora e compositora da etnia Paiwan, nascida em 1981 na aldeia Zhengxing, Jinfeng, Taitung. No início de sua carreira, conquistou o prêmio de Melhor Dupla no Golden Melody Awards com o duo de R&B Abao & Brandy; após a separação, atuou como enfermeira por quase dez anos. Em 2019, colaborou com o produtor de música eletrônica Dizparity para criar o álbum totalmente em língua Paiwan, "kinakaian (A Língua da Mãe)". Em 2020, venceu simultaneamente os prêmios de Álbum do Ano, Melhor Álbum de Língua Indígena e Música do Ano. Desde então, lidera o selo Naywa, levando a música indígena para além do contexto de preservação cultural e colocando-a no palco principal do future pop.'
 date: 2026-04-18
 category: 'People'
 tags:
@@ -9,16 +9,16 @@ tags:
     'Abao',
     'Aljenljeng',
     'Aljenljeng Tjaluvie',
-    'Zhang Jingwen',
+    'Chang Jing-wen',
     'Paiwan',
-    'Música indígena',
+    'Música Indígena',
     'Golden Melody Awards',
     'Álbum do Ano',
     'kinakaian',
     'A Língua da Mãe',
     'Dizparity',
     'future pop',
-    'Vavayan',
+    'Naywa',
     'vavayan',
   ]
 subcategory: '音樂與表演'
@@ -29,10 +29,10 @@ lastHumanReview: true
 researchReport: 'reports/research/2026-04/阿爆.md'
 readingTime: 18
 translatedFrom: 'People/阿爆.md'
-sourceCommitSha: '160f6cb590'
+sourceCommitSha: 'd3a973ae06'
 sourceContentHash: 'sha256:f6ea72608a383b39'
 sourceBodyHash: 'sha256:2b58a1fd273e51fb'
-translatedAt: '2026-11-19T22:27:23.866163+00:00'
+translatedAt: '2026-11-25T06:54:29.321871+00:00'
 ---
 
 > **Visão geral em 30 segundos:** Na noite de 3 de outubro de 2020, o Prêmio de Álbum do Ano da 31ª edição do Golden Melody Awards foi concedido a um álbum de música eletrônica totalmente em língua paiwan: 《kinakaian 母親的舌頭》. A vencedora foi Abao (Aljenljeng Tjaluvie, nome chinês 張靜雯), cantora e compositora paiwan nascida em 1981 na aldeia Jialan, township de Jinfeng, condado de Taitung, na tribo Zhengxing. Ela estreou em 2003 como Abao & Brandy, ganhando o prêmio de Melhor Dupla na 15ª edição do Golden Melody Awards; em 2004, o grupo se separou e ela deixou a indústria musical por quase dez anos para trabalhar como enfermeira; em 2016, retornou com o álbum autoral totalmente em paiwan 《vavayan·女人》; em 2019, colaborou com o produtor de música eletrônica Dizparity para criar 《kinakaian》. Ao receber o Prêmio de Álbum do Ano, ela disse: "Quero dizer a todos os povos indígenas diante da televisão: não desperdicem o talento, mas também não dependam dele." Este foi o momento-chave em que a música em línguas indígenas de Taiwan passou da lateral para o palco principal.
