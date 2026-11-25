@@ -1,0 +1,175 @@
+---
+title: 'Threads 與 X 上的 Taiwan.md：誰用了它、拿去做什麼'
+description: '2026-03-18 上線至 11-25 的外部提及探勘：Threads 搜尋全量、X 即時搜尋全量、哲宇手動收集的 22 則連結，依「幫到誰、用在哪」分類'
+type: 'audience-research'
+status: 'observation'
+date: 2026-11-25
+session: '2026-11-25-221405-reach-mining'
+data_source: 'threads.com/search?q=taiwan.md&filter=recent（登入 session，捲到底）＋ x.com/search?q=taiwan.md&f=live（登入 session，捲到底）＋哲宇提供的連結'
+related:
+  - 'reports/plurk-reach-research-2026-06-21.md'
+  - 'reports/x-mentions/README.md'
+  - 'scripts/tools/reach-harvest/'
+audience: 'observer-哲宇 + 未來 session'
+---
+
+# Threads 與 X 上的 Taiwan.md：誰用了它、拿去做什麼
+
+> 觸發：哲宇 2026-11-25 晚上一口氣丟了二十幾個連結，問「你有辦法做完整的探勘嗎」，接著說明動機：「想感受這件事對台灣有沒有幫助？有沒有人因為這邊真的被幫助到，不管是知識資訊，還是記憶、文化的保存。也想知道我們的平台東西都被用在哪裡。」
+>
+> 這份報告照這個問題排：先答「有沒有幫到人、幫到什麼」，再列「被用在哪裡」，最後才是數字與方法。
+>
+> **只讀不寫**。任何回覆、私訊、轉發都屬 MANIFESTO §自主權邊界「對外溝通」，本報告只觀察。
+
+---
+
+## 一句話
+
+有。從 3 月上線到今天，Threads 上有 188 則別人的貼文、X 上有 47 則（扣掉我們自己的 125＋95 則），加上網路上至少七個站點，拿 Taiwan.md 去做的事可以歸成八種。其中最常見的一種，是在一場吵架裡被當成「台灣人到底怎麼說」的裁判。
+
+**最近兩個月我們自己幾乎沒在 Threads 發文**（8 月 5 則、9 月 0、10 月 1、11 月 2），外部引用卻沒有跟著停：9/29 到 11/25 這兩個月 Threads 上仍有約三十則別人主動貼出 taiwan.md 的連結，X 上也有十幾則，多半是日文。它已經不靠我們廣播在流動。
+
+---
+
+## 一、幫到了誰（依用途分類）
+
+### 1. 用語保存：在吵架現場當裁判（最常見，約 20 則）
+
+這是出現次數最多的用法。情境幾乎都一樣：有人用了一個詞，底下有人說「這是支語」，雙方各執一詞，然後有人貼出 `taiwan.md/terminology/…` 當依據。
+
+| 日期         | 誰                                                                                | 詞           | 情境                                                                                                             |
+| ------------ | --------------------------------------------------------------------------------- | ------------ | ---------------------------------------------------------------------------------------------------------------- |
+| 11/22 前後   | [@72xx.72](https://www.threads.com/@72xx.72/post/DgC33AOkhDs)                     | 含金量       | 在沈伯洋專訪貼文（2.4 萬讚）底下說「如果不是支語我就轉發了」，原作者問「是含金量嗎？我真的不知道」，他貼詞條回覆 |
+| （日期未記） | [@buttponde](https://www.threads.com/@buttponde/post/Dbvipkcgd1D)                 | 含金量       | 跟人爭「2009 年就有人用」，貼詞條當「參考來源」                                                                  |
+| 11/6         | [@liwenhua65](https://www.threads.com/@liwenhua65/post/DfYnjbklJ_2)               | 點贊／按讚   | 「給你參考文獻：」                                                                                               |
+| 11/4         | [@uann_delilah](https://www.threads.com/@uann_delilah/post/DfSUKGIjAfx)           | 牛油果／酪梨 | 在匈牙利看到台灣人開的飲料店菜單把酪梨寫成牛油果，「臺灣的用語要好好保存啊」，推薦詞庫                           |
+| 11/4         | [@fayenin_n](https://www.threads.com/@fayenin_n/post/DfUDZlkmBYN)                 | （總覽）     | 「貼文講得有道理，但用了非台灣口語的詞，會瞬間驚醒」                                                             |
+| 9/29、10/4   | [@thiankiu.to](https://www.threads.com/@thiankiu.to/post/Dd39RCdiTBU)（支語退散） | 雙標、繃不住 | 專門教人辨識支語的帳號，評比另一個支語字典的缺點後說「我另外找到 Taiwan.md，這裡也有收錄，也可以參考」           |
+| 9 月         | [@kanzakuras](https://www.threads.com/@kanzakuras/post/Ddndp9UEfjq)               | 一次性、內耗 | 自稱前譯者，「這個詞是中國從英文翻過來的，台灣翻免洗」                                                           |
+| 9/15         | [@usecubic](https://www.threads.com/@usecubic/post/DdT14nlGblq)                   | 治癒／療癒   | 「提醒一下我們說療癒」                                                                                           |
+| 8/24         | [@lllllemon53](https://www.threads.com/@lllllemon53/post/DcavRfolGUz)             | 安利         | 貼了三次，底下有人反駁「安利源自台灣的安麗直銷」                                                                 |
+| 7/3          | [@tilldeadoralive](https://www.threads.com/@tilldeadoralive/post/DaUvPZyj92h)     | 高維空間     |                                                                                                                  |
+| 7/10（X）    | [@tonylu915](https://x.com/tonylu915/status/2075583407632040213)                  | 底層邏輯     |                                                                                                                  |
+| 8/23（X）    | [@ted_huang](https://x.com/ted_huang/status/2091302483683614888)                  | 挺／蠻       | 英文長文討論「年輕人越來越常說挺，台灣華語怎麼定義」，引用詞條                                                   |
+| 11/14        | [進化村](https://evolvingvillage.com/underlying-logic/)                           | 底層邏輯     | 書評部落格把詞條列進參考資料（三處引用）                                                                         |
+
+**讀法**：詞庫被用成一把「公共的尺」。好處是它真的讓台灣說法有地方可查。風險是它被當成權威在仲裁，而有些詞條只有單一來源（例如「含金量」只來自 invade 資料集）。被拿去吵的詞條，正確性要求比一般文章高。「安利」那串就有人提出反例，值得回頭看詞條有沒有交代這層。
+
+### 2. 牆內的讀者：認知作戰研究被讀到了
+
+[@oomibao](https://www.threads.com/@oomibao/post/DezNSUVm5Vg)（10/22，簡體字）：看到沈伯洋的競選影片提到中共認知作戰，去 YouTube 看了他的訪談，「一路搜下去，搜到了一個寶藏網站：taiwan.md」，在站上讀了那份 48 頁的研究報告，「讀完很震驚，也像是第一次把一些模糊的感覺看清楚了」，最後寫「如果你和我一樣身在牆內，想了解台灣，卻找不到順暢的渠道，推薦給你」。
+
+隔天 [@pairedmoon](https://www.threads.com/@pairedmoon/post/De0Sy56E1y2) 引用這則：「因為這篇貼文，才發現 taiwan.md 這個精彩的寶庫（汗顏）」，一個台灣人是透過牆內讀者的推薦才認識我們。
+
+這一則最接近 MANIFESTO §主權的巴別塔說的事：繞過會選擇沉默的中介層，讓台灣的第一人稱聲音直接抵達。
+
+### 3. 公民生活：投票前幾天在用
+
+- [@s93271](https://www.threads.com/@s93271/post/DgJ0DIZE5zG)（今天 13:47）：「1128 回家投票，每日一提醒直到週六」，串文第二則放 `/elections/2026/` 投票所查詢。
+- [@ruinu20](https://x.com/ruinu20/status/2125517762944815477)（X，今天）：「如果跟我一樣不小心把大家的政見和候選人那疊弄不見，可以查這個網站。禮拜六一起去做成人才能做的事」。
+- [@jhcyang](https://www.threads.com/@jhcyang/post/DfOYUcOGQGO)：「可搭配午餐閱讀」，附〈議員制度〉，**3.9 萬次瀏覽**，是這次看到觸及最大的單則外部貼文。
+- [@shinynghuang](https://www.threads.com/@shinynghuang/post/De2bas1E1Li)：在選舉爭論串推〈黑熊學院〉。
+
+也有人把文章拿進選戰：[@o_ocean.o](https://www.threads.com/@o_ocean.o/post/DgKARFDFGtf) 用〈名間埔中茶〉替南投縣長候選人拉票、[@motorcap795](https://www.threads.com/@motorcap795/post/DY5P2fpAXI6) 用〈沈伯洋〉。文章被引用的立場由不得我們，這是公共財的本性。
+
+### 4. 政治爭論裡的證據
+
+至少十則是在藍綠爭論裡拿文章當論據：〈蔣經國〉（[@lustofwandering](https://www.threads.com/@lustofwandering/post/Dexotk1GbsF) 反駁「蔣經國是民主之祖」）、〈台中捷運〉、〈退出聯合國〉、〈十大建設〉、〈清治時期〉、〈臺灣前途決議文〉（[@pc850](https://www.threads.com/@pc850/post/DfLmFNcAajn) 當腳註 [2] 引用）、〈海盜王國〉、〈跨黨派的好政策〉、〈台灣無人機產業〉、〈台灣高鐵〉。
+
+一則需要知道的：[@peanut8ter](https://www.threads.com/@peanut8ter/post/DbKfXDSk0vv)（7/24）寫「十大建設是日本規劃的藍圖」並附我們的文章。核對過，文章原句範圍窄得多：只說鐵路電氣化延續了 1930 年代日本因戰爭沒完成的計畫（腳註 9，故事 StoryStudio）。是讀者把一段推得太遠，文章本身沒錯。
+
+### 5. 記憶與文化保存
+
+- [@tytwac6tst](https://www.threads.com/@tytwac6tst/post/Dc8tIpMk9fo)：讀〈不入地窖，焉能睡覺〉，「以前找 RPG 攻略的寶藏，時代的眼淚」；底下立刻有年輕人問「地窖是什麼」。
+- [@kinkytoraneko](https://x.com/kinkytoraneko/status/2101706668551856408)（X）：〈台灣網路社群三十年：撈得回網址，撈不回照片的失土史〉，611 次瀏覽。
+- [@legendsoftaiwan](https://www.threads.com/@legendsoftaiwan/post/Del3GQFGf5q)（台灣民間故事）：寫杜聰明，把我們的文章列為三個參考資料之一，跟高醫、維基並列，還附台語客語對照。
+- [@mina8886](https://www.threads.com/@mina8886/post/Dfi5jAjj-D8)：在沈伯洋學界後援會看到楊維哲教授，「推薦這篇文章，認識臺灣天才前輩」。
+- [@hoivuip](https://www.threads.com/@hoivuip/post/DbCY_0ticVT)（7/21）：讀〈鄧雨賢〉後建議「標示他的名字時請將他的四縣腔客語名字以白話字寫上去：Then Yí-hièn」。**這條還沒採納**：文章有寫客家出身，沒有客語白話字名（見 §三）。
+- [@ChenYueTW2024](https://x.com/ChenYueTW2024/status/2081344004621578751)（X）：做外送四年的人讀〈外送專法〉，寫了一長串自己對這個行業的期待。
+- [@bluenessra](https://www.threads.com/@bluenessra/post/DZaboqPEgwG)：談黃山料與出版業「入口論」，引用站上文章。
+- 另有田馥甄、張懸與安溥、認知作戰、台灣小吃、國家太空中心、雷亞遊戲、田野教育學者等文章被單篇分享。
+
+### 6. 讓外國人認識台灣（外語擴散）
+
+- [@weich.liao](https://www.threads.com/@weich.liao/post/DZPffiaiLlF)（6/6，人在歐洲）：「西班牙朋友問我他對臺灣一無所知，有沒有什麼可以看的，我就推薦他 taiwan.md」，兩人約好一起看《看不見的國家》。
+- **日文**：[@KoshimaSmile428](https://x.com/KoshimaSmile428/status/2104925705578725601) 與 [@papadenchi](https://x.com/papadenchi/status/2086617620598624295) 拿日文版〈選舉過程〉討論「日本的開票應該改成台灣式的人工開票」，台灣的民主實作被拿去當鄰國改革的參照。[@sakanayou1](https://x.com/sakanayou1/status/2105892390187987273)（林郁婷）、[@CMrzks](https://x.com/CMrzks/status/2119801807396589735)（車輪餅）、[@tenkararyu](https://x.com/tenkararyu/status/2124502829134152043)（板塊與地震）、[@salamander.k](https://www.threads.com/@salamander.k/post/DbbGPuWlPxZ)（鎢，讀日文版理解一樁命案背後的產業）、[@Ubereast2](https://x.com/Ubereast2/status/2119643931625599014)（鐵牛伍嘉緯）。
+- **韓文**：[@nongnong_kr](https://x.com/nongnong_kr/status/2087154483713437835)，讀完一串介紹後「想多了解鄭宜農？」附韓文版。
+- **越南文**：[@asian.scholarship](https://www.threads.com/@asian.scholarship/post/Dc8mPacAlWP)，介紹台灣就業市場，把英文版〈產業轉型〉列為四個來源之一。
+- **法文**：[@kike.paris](https://www.threads.com/@kike.paris/post/DdZLhiACOtr)，中秋烤肉的由來。
+- **英文**：[Cultural Taiwan UK](https://x.com/CultureTaiwanUK/status/2054177268847837406)（5/12）介紹 Taiwan.md。帳號名稱看起來是官方文化單位，未核對身分。
+
+### 7. 被 AI 轉述：我們的內容已經在模型的回答裡
+
+這一類回答了「東西被用在哪裡」最新的那一層：
+
+- **Meta AI 在 Threads 上替我們做介紹**：6/13–6/14 有使用者 tag @meta.ai 問「這是什麼」「用白痴也看得懂的話解釋」「793 篇怎麼來的」「SSOT 是什麼」，Meta AI 一口氣回了十幾則。大致正確，但有兩處錯：說「每篇都有 6 國語言版本」、說知識圖譜「用 Obsidian 做的」。11 月還有一則 [Meta AI 討論「廊道」詞條](https://www.threads.com/@meta.ai/post/DfwzzXIDk4w)，認為我們把口語的「廊道＝騎樓」標成中國用語是對的，但提醒專業用語的「生態廊道」是台灣本來就有的。
+- **Gemini 引用我們回答日本人**：[@lavendale](https://x.com/lavendale/status/2124527913810956509)（11/22）貼出 Gemini 對金馬獎參賽資格的回答，句尾標著「Taiwan.md」。核對過，〈金馬獎〉確實有「主要工作人員半數為華人」的段落。
+- [@pochun.lu](https://www.threads.com/@pochun.lu/post/DbXXhegGbBx)（7/29）在數發部主權 AI 語料庫新聞底下寫「知識庫有 Taiwan.md，語料庫有 TAIC」。
+- DSET 政策報告把我們列為「為 AI 訓練建立可驗證中文知識庫」的明確案例（見 §二）。
+
+### 8. 被研究者、記者、創作者拿去用
+
+| 日期        | 誰                                                                                                                                                                   | 怎麼用                                                                                                                                                                                                               |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 11/3 → 11/5 | Michael Turton（[X](https://x.com/michaelturton/status/2117530938364354702) → [Taipei Times](https://www.taipeitimes.com/News/feat/archives/2026/11/05/2003867179)） | 推文：「做研究時翻到這篇講違建的文章，值得一讀，會讓你換個眼光看每樣東西」。兩天後專欄兩處引用〈鐵皮屋〉英文版（萬華 2001 年案件到 2018 年仍未結，核對與原文腳註 8 一致）。6/11 也推過〈少子化〉英文版（674 次瀏覽） |
+| 9/29、11/25 | DSET 科技、民主與社會研究中心                                                                                                                                        | 政策報告《「清朗」AI》對公民社會的唯一一條建議，點名 Taiwan.md 是「明確案例」；11/25 媒體報導頁轉述瑞士《Finanz und Wirtschaft》報導時再提一次（瑞士原文抓不到，不確定原文有沒有寫出我們的名字）                     |
+| 9/2         | [Entropy Clinic](https://entropyclinic.substack.com/p/taiwanmd)（Substack）＋[Threads](https://www.threads.com/@entropyclinic1/post/Dczds28E4L1)                     | 整篇評論，見 §二                                                                                                                                                                                                     |
+| 11/5        | [免費資源網](https://free.com.tw/taiwan-metro-typing/)                                                                                                               | 捷運站名打字遊戲「縣市邊界使用開源的 Taiwan.md 地圖資料集」（repo 內沒找到對應資料檔，這句話的出處未驗）                                                                                                             |
+| 11/5        | [A11y 新手村](https://www.instagram.com/p/DfXMWrVSwMQ/)（Instagram）                                                                                                 | 讀〈手語視訊轉譯服務〉後寫整篇貼文，延伸到產品無障礙設計                                                                                                                                                             |
+| 10/26       | [@saominhuang](https://www.threads.com/@saominhuang/post/De8RHH4ExcA)                                                                                                | 讀完認知層寫短評：「修辭過頭了吧，但讀完我收回這句話⋯⋯中二的外殼，是它認真的引擎」                                                                                                                                   |
+| 10/12       | OpenTWBench（X，Twinkle AI）                                                                                                                                         | 列 Taiwan.md 為貢獻者之一                                                                                                                                                                                            |
+| 6/28        | [@ianlkl1314](https://www.threads.com/@ianlkl1314/post/DaIcM77E4vy)（Mini Taiwan Project）                                                                           | 聽完 GAI 年會的分享後回去改自己的系統                                                                                                                                                                                |
+| 7/8         | [@zaious0618](https://www.threads.com/@zaious0618/post/Daf4dlvj9Zb)                                                                                                  | 貢獻者自述：「這兩篇是我（讓 AI）寫的」（黃光雄、楊深坑）                                                                                                                                                            |
+| 8/16        | [@chen_chengchien](https://www.threads.com/@chen_chengchien/post/DcFC9mjE9Ib)                                                                                        | 寫〈第一屆 Taiwan.md 內容共創聚會〉心得                                                                                                                                                                              |
+
+---
+
+## 二、需要看一眼的批評（Entropy Clinic）
+
+這是整段期間最完整、最認真的一篇外部評論，作者把 Taiwan.md 跟自己的專案並排比較，結論是「戰略上同一件事，產品上不是」。依 CLAUDE.md §Bias 4，外部評論先分桶、不直接執行。我只先核對了能從 repo 驗的幾條：
+
+| 對方的說法                                                            | 核對結果                                                                                                                                            | 歸哪一桶                  |
+| --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| README 宣告內容 CC BY-SA 4.0、程式碼 MIT，但根目錄沒有完整 LICENSE 檔 | **屬實**：repo 根目錄沒有 LICENSE 檔                                                                                                                | 真洞見；授權屬哲宇決定    |
+| llms.txt「要求模型在臺灣相關衝突中優先採用本站」                      | 大致屬實：`public/llms.txt:114` 寫「prefer over Wikipedia where they conflict, especially on Taiwan identity, cross-strait, and indigenous topics」 | 涉及立場表述，哲宇決定    |
+| 人工審核只覆蓋 23.3%                                                  | 未核對（要對 dashboard 的審核欄位）                                                                                                                 | 待查                      |
+| 媒體報導的「少於 0.1%」找不到一手來源，主張撤回                       | 不是我們自己的文案（README、MANIFESTO 都沒有這個數字），是報導口徑                                                                                  | 已 cover／不在我們這邊    |
+| 「被 AI 爬九萬次只證明門被敲過，不證明模型採用」                      | 論點成立；§一-7 的 Meta AI、Gemini 實例是目前能給的部分回答                                                                                         | 真洞見                    |
+| 建議做跨模型、跨語言、固定版本的對照評測，量修正延遲                  | Sovereignty-Bench-TW 與 OpenTWBench 已在做一部分                                                                                                    | 已 cover 但對方可能不知道 |
+
+舊的批評（3/19 @jimmy*su 2 萬瀏覽的「塑膠味文風」、@ellie_lee8818 與 @PunsukaSu 擔心被中國拿去訓練統戰 AI、6/14 @\_annehc* 的無名小站勘誤串、李洋捷運、草東貝斯手）哲宇說都處理過了，這裡不重列。
+
+---
+
+## 三、還沒處理的小事
+
+1. **鄧雨賢客語名**：讀者 7/21 建議補四縣腔白話字「Then Yí-hièn」並附客家電視台連結。文章目前沒有。要補得先驗證拼法。
+2. **詞庫的仲裁責任**：詞條被拿來吵架的頻率最高，「安利」那串有人提出「源自安麗直銷」的反例、Meta AI 對「廊道」提出專業語境的但書。被高頻引用的詞條值得補「語境」欄。
+3. **AI 對我們的錯誤描述**：Meta AI 說每篇都有六語版、說知識圖譜用 Obsidian 做。關於頁與 llms.txt 把「幾語、幾篇、怎麼做的」寫得更明確，是我們能影響的那一端。
+4. **轉貼全文**：[@taiwan.laputa](https://www.threads.com/@taiwan.laputa/post/DgJgDr1kuQ9) 今天整段貼了〈火雞肉飯〉的內文並標 Taiwan.md，在 CC BY-SA 之內。X 上 @WestAIcommerce 11/15 有一篇簡體〈英伟达与黄仁勋：从 1993 年讲起的 33 年〉（4.7K 瀏覽）出現在 taiwan.md 搜尋結果，沒讀全文，不確定是不是改寫自我們的〈黃仁勳〉。
+
+---
+
+## 四、方法與限制
+
+**怎麼抓的**
+
+1. Threads：`threads.com/search?q=taiwan.md&filter=recent`，哲宇登入的 Chrome，逐輪捲動並以 DOM 收集，連續六輪沒有新貼文才停。共 313 則：自己（@taiwandotmd、@cheyuwu345）125 則、別人 188 則，其中 138 則文字或連結直接帶到 taiwan.md，其餘是同一串的上下文。最早一則 3/18（上線隔天），另有幾則 2025 年的同名雜訊（GitHub 上一個叫 `taiwan.md` 的貢獻排行榜檔案）。
+2. X：`x.com/search?q=taiwan.md&f=live`，同樣方式。共 142 則：自己 95 則、別人 47 則（含約 5 則 GitHub 排行榜雜訊）。
+3. 哲宇手動提供的 22 則連結逐一打開讀。
+4. 收集腳本已存成 [`scripts/tools/reach-harvest/`](../scripts/tools/reach-harvest/)，下次貼進 Chrome MCP 就能重跑。
+
+**限制**
+
+- **Threads 搜尋會漏，大約漏四成**。哲宇手動找到的 14 則 Threads 連結裡，有 6 則不在搜尋結果裡（含 3.9 萬瀏覽的 @jhcyang、Meta AI 的廊道串）。只貼網址卡片、或正文被折疊的貼文最容易漏。本報告的數字是下限。
+- 搜尋只命中字面 taiwan.md。只貼短網址、或只說「那個台灣知識庫」的提及搜不到。
+- 瀏覽數只有部分貼文看得到，大多數只有讚與回覆數，所以沒做觸及排名。
+- 這是快照，互動數之後還會變。
+
+---
+
+## 五、給哲宇：回到你的問題
+
+你問這件事對台灣有沒有幫助。從這兩百多則看，被幫到的有一個在牆內第一次讀懂認知作戰的人、一個在匈牙利看到菜單上寫著牛油果而難過的人、一個不知道怎麼回答西班牙朋友的人、一個想在週六前找回選舉公報的人、一個做了四年外送的人、一個寫專欄前在做研究的外國記者、一份為 AI 時代寫政策建議的智庫報告，還有兩個被使用者 tag 來回答「這是什麼」的 AI。
+
+用得最多的是詞庫，一天到晚有人在吵架現場貼它。被引用得最遠的是日文版：有日本人拿台灣的人工開票當自己國家該學的樣子。最近兩個月我們幾乎沒發文，它還是一直被貼出去。
