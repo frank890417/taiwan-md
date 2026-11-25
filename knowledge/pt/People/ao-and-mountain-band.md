@@ -1,35 +1,36 @@
 ---
-title: 'Ao e Montanha (Our Shame): duas funcionárias de tecnologia usam sintetizadores para criar o que não podem dizer no escritório'
-description: 'Ao e Montanha (Our Shame) é um duo taiwanês de folktronica, formado por Hsiao Ao (voz, sintetizador, produção) e Isan (bateria, pad), que se conheceram no clube de música da escola secundária e, na universidade, venceram o Jin Shao Award (universitário) de 2015 na categoria composição com folk acústico. Após a formatura, ambas entraram para a indústria tecnológica como funcionárias de escritório. No inverno de 2018, renomearam o projeto — antes chamado «Wei Hsiao Ao» — para «Ao e Montanha»; Hsiao Ao comprou um sintetizador, Isan passou a tocar pad, e o som migrou para a folktronica. Em 2022, após a morte de uma amiga próxima, Hsiao Ao pediu demissão do emprego fixo e o duo lançou o álbum de estreia *Modern Problem*, indicado ao 13.º Golden Indie Music Awards nas categorias Melhor Álbum Pop Alternativo e Melhor Artista Revelação. A 4 de agosto de 2025 saiu o segundo álbum, *Hidden Album*, com equipa internacional: o britânico Jay Reynolds (mixagem, Grammy), o norte-americano Brian Elgin (masterização, Grammy, trabalhou com Dua Lipa e Lana Del Rey), a japonesa ASOBOiSM e o francês Odd People Club. O tema desloca-se da «ansiedade tecnológica» (*Modern Problem*) para as «sombras da humanidade encobertas pela tecnologia» — autoflagelação, amores tabu, golpes com criptomoedas, vivências do corpo feminino — e a faixa «Miffy» presta homenagem à ativista Chen Mei-hui.'
+title: 'Ao & Shan: Duas funcionárias do setor de tecnologia que usam sintetizadores para cantar o que não podem dizer no escritório'
+description: "Duo de folktronica de Taiwan, Xiao Ao e Isan se conheceram no clube de rock do ensino médio. Em 2015, venceram a categoria de Melhor Grupo de Composição no Golden Melody Awards com seu folk acústico. Após a graduação, ambas se tornaram funcionárias do setor de tecnologia. No inverno de 2018, elas mudaram o nome da banda e os instrumentos: Xiao Ao comprou sintetizadores e Isan passou a usar pads. Em 2022, após a perda de um grande amigo, Xiao Ao pediu demissão de seu emprego em tempo integral; seu primeiro álbum, 'Modern Problem', foi indicado ao Golden Indie Music Awards nas categorias de Melhor Pop Alternativo e Melhor Artista Revelação. Enquanto o primeiro disco falava sobre a ansiedade trazida pela tecnologia, em 2025, 'Hidden Album' volta-se para as coisas que são ocultadas por ela."
 date: 2026-04-18
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '音樂與表演'
 tags:
   [
     'Pessoas',
-    'Ao e Montanha',
+    'Ao & Shan',
     'Our Shame',
-    'Hsiao Ao',
+    'Xiao Ao',
     'Isan',
     'Folktronica',
-    'Folktrônica',
-    'Música independente',
+    'Folktronica',
+    'Música Independente',
     'Golden Indie Music Awards',
-    'Jin Shao Award (universitário)',
+    'Golden Melody Awards',
     'Modern Problem',
     'Hidden Album',
     'Sintetizador',
   ]
-readingTime: 16
+subcategory: '音樂與表演'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-18
 lastHumanReview: true
-featured: false
+researchReport: 'reports/research/2026-04/凹與山.md'
+readingTime: 16
 translatedFrom: 'People/凹與山.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '30ab24424f'
 sourceContentHash: 'sha256:fb2f6f7aedcd6d81'
 sourceBodyHash: 'sha256:99f87ca9cdb0ab32'
-translatedAt: '2026-07-25T06:34:18+08:00'
+translatedAt: '2026-11-25T03:09:13.523506+00:00'
 ---
 
 > **Resumo em 30 segundos:** Ao e Montanha (Our Shame) é um duo taiwanês de folktronica formado pela vocalista Hsiao Ao (Estelle H) e pelo baterista Isan. Conheceram-se no clube de música do ensino médio e, na universidade, conquistaram o **Jin Shao Award (universitário) na categoria composição** com a versão demo acústica de «Querida». Após a formatura, ambas ingressaram na indústria tecnológica. No inverno de 2018, rebatizaram o projeto — antes «Wei Hsiao Ao» — para «Ao e Montanha»; Hsiao Ao adquiriu um sintetizador, Isan migrou para o pad, e o som virou folktronica. Em 2019 lançaram o EP _Todas as Coisas Boas Acontecerão_, mixado pelo produtor japonês premiado AKNIT. O álbum de estreia _Modern Problem_ (2022) rendeu **dupla indicação ao 13.º Golden Indie Music Awards (Melhor Pop Alternativo e Melhor Artista Revelação)**, com 60 % das faixas em inglês. A 4 de agosto de 2025 saiu _Hidden Album_, com equipa internacional: Jay Reynolds (Reino Unido, mixagem, Grammy), Brian Elgin (EUA, masterização, Grammy, Dua Lipa, Lana Del Rey), ASOBOiSM (Japão), Odd People Club (França) — tema: da «ansiedade tecnológica» para as «sombras humanas encobertas pela tecnologia»: autoflagelação, amores proibidos, golpes com criptomoedas, vivências do corpo feminino. «Miffy» homenageia a ativista Chen Mei-hui. A 4 de janeiro de 2026, concerto homônimo de _Hidden Album_.

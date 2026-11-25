@@ -1,15 +1,15 @@
 ---
-title: 'Hsiao Ching-yang (蕭青陽)'
-description: 'Vencedor do Grammy de Melhor Design de Embalagem de Álbum, tornou-se um ícone do design de Taiwan no cenário mundial após sete indicações e uma vitória em parceria com sua filha.'
+title: 'Hsiao Ching-yang'
+description: "Designer visual taiwanês, nascido em Xindian em 1966. Graduado na Fuxing Industrial & Commercial Vocational High School, foi o primeiro designer taiwanês a ser indicado ao Grammy em 2005 pelo design de embalagem de um álbum. Desde então, acumulou sete indicações e, em 2023, junto com sua filha Hsiao Chun-tien, conquistou o prêmio de Melhor Design de Embalagem para Álbum na 65ª edição do Grammy com a trilha sonora da 'Trilogia da Trilha Antiga de Danlan'. Após dezoito anos de espera, alcançou o topo, garantindo vitórias consecutivas para designers taiwaneses por dois anos. Sua criação extrai elementos de templos, artesanato tradicional e da natureza da ilha, seguindo a filosofia de design 'raízes em Taiwan, florescendo para o mundo'."
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Designer',
-    'Grammy Awards',
+    'designer',
+    'Grammy',
     'embalagem de álbum',
     'design visual',
-    'cultura de Taiwan',
+    'cultura taiwanesa',
   ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
@@ -19,10 +19,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/蕭青陽.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '20dcddf339'
 sourceContentHash: 'sha256:2c73351691aac54a'
 sourceBodyHash: 'sha256:4e85011d7634bdc0'
-translatedAt: '2026-10-21T20:47:18+08:00'
+translatedAt: '2026-11-25T03:35:50.359274+00:00'
 ---
 
 # Hsiao Ching-yang: Levando o design de Taiwan ao palco mundial

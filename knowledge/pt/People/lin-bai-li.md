@@ -1,15 +1,15 @@
 ---
-title: 'Lin Bai-li: Xangai 1949, fundador da Quanta Computer e rei da fabricação de notebooks que luta contra o câncer há 20 anos'
-description: 'Nasceu em Xangai em 24/4/1949. Fundou a Quanta Computer em 1988 com Liang Ci-zhen e outros. Diagnosticado com adenocarcinoma pulmonar em 2005 (já luta contra o câncer há mais de 20 anos). Receita consolidada da Quanta ultrapassou 2 trilhões de novos dólares taiwaneses em 2025, importante parceira de servidores da NVIDIA, listada na Fortune 500. Questão de sucessão do filho atrai atenção. Ainda atua como presidente do conselho em 2026.'
+title: 'Lin Baili: Xangai 1949, fundador da Quanta Computer e rei do OEM de notebooks com batalha de 20 anos contra o câncer'
+description: 'Rei do OEM de notebooks nascido em Xangai em 1949 e crescido em Taiwan, fundou a Quanta Computer em 1988 com C.C. Leung e outros, passando de placas-mãe para ODM de notebooks e tornando-se uma vez o maior fabricante mundial de notebooks graças à sua capacidade de integração de design; após ser diagnosticado com adenocarcinoma de pulmão em 2005, liderou a empresa doente por mais de 20 anos, criando um registro público sobre força de vontade. Em 2025, a receita da Quanta ultrapassou NT$2 trilhões, entrou para a Fortune 500 e tornou-se importante parceiro de servidores de IA da NVIDIA; em 2026 ainda atua como presidente do conselho, e a questão da sucessão continua a atrair atenção externa.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Tecnologia e Empresas',
     'Quanta Computer',
-    'ODM',
+    'Fabricação ODM',
     'Inteligência Artificial',
-    'Adenocarcinoma Pulmonar',
+    'Adenocarcinoma de Pulmão',
   ]
 subcategory: '科技與企業'
 author: 'Taiwan.md'
@@ -20,10 +20,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/林百里.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '1b9d5dfea6'
 sourceContentHash: 'sha256:4e6831b8d5040b1f'
 sourceBodyHash: 'sha256:98f02f5d889ec6c6'
-translatedAt: '2026-11-04T20:41:38.553795+00:00'
+translatedAt: '2026-11-25T03:34:43.417688+00:00'
 ---
 
 # Lin Bai-li: Xangai 1949, fundador da Quanta Computer e rei da fabricação de notebooks que luta contra o câncer há 20 anos

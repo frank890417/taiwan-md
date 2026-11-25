@@ -1,14 +1,14 @@
 ---
-title: 'Huang Tu-shui: uma estátua que regressa do desaparecimento à escultura moderna de Taiwan'
-description: 'Ele aprendeu a escultura ocidental em Tóquio, mas foi no olhar estrangeiro que encontrou Taiwan passo a passo; uma obra em mármore desaparecida por setenta anos faz esta história da arte reaparecer.'
+title: 'Huang Tu-shui: Uma escultura moderna de Taiwan que retornou do desaparecimento'
+description: 'Escultor moderno de Taiwan, nascido em Banqiao em 1895. Em 1915, entrou no Departamento de Escultura da Escola de Belas Artes de Tóquio sem exame através de sua obra "Li Tieguai", tornando-se o primeiro artista taiwanês a estudar no Japão durante o período colonial japonês. Em 1921, sua escultura em mármore "Ganlu Shui" foi selecionada para a Exposição de Belas Artes da Academia Imperial de Arte do Japão. Após 1923, o búfalo de Taiwan tornou-se um tema recorrente em seu trabalho. Faleceu em Tóquio em 1930, aos trinta e seis anos de idade. A obra "Ganlu Shui" permaneceu desaparecida por cerca de setenta anos desde a década de 1950, reaparecendo apenas em 2021 e retornando à sua alma mater, a Universidade de Artes de Tóquio, para exposição em 2024.'
 date: 2026-08-14
 category: 'People'
 tags:
   [
     'Huang Tu-shui',
-    'Água do Orvalho',
-    'história da arte de Taiwan',
-    'escultura',
+    'Ganlu Shui',
+    'História da Arte de Taiwan',
+    'Escultura',
     'Escola de Belas Artes de Tóquio',
   ]
 subcategory: '雕塑'
@@ -20,10 +20,10 @@ readingTime: 8
 viewpoint_formed: true
 curation: 'incubating'
 translatedFrom: 'People/黃土水.md'
-sourceCommitSha: 'f89314e27'
+sourceCommitSha: '20dcddf339'
 sourceContentHash: 'sha256:d22d7298dff5ac3a'
 sourceBodyHash: 'sha256:7b62e2a912ba5344'
-translatedAt: '2026-09-10T20:24:58+08:00'
+translatedAt: '2026-11-25T02:59:27.528269+00:00'
 ---
 
 # Huang Tu-shui: uma estátua que regressa do desaparecimento à escultura moderna de Taiwan

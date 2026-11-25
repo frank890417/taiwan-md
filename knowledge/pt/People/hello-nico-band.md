@@ -1,115 +1,118 @@
 ---
-title: "Hello Nico: Após oito anos de silêncio, 'Senti saudades do palco'"
-description: "A banda independente de Taiwan que venceu o campeonato anual do StreetVoice em 2014 com 'Flor' e foi indicada a Melhor Artista Revelação no Golden Melody Awards de 2016, ficou em silêncio por oito anos. Chan Yu-ting disse: 'A maior dificuldade em fazer música é não conseguir se perdoar.' Em 2024, eles voltaram com 'Plan B'."
+title: 'Hello Nico: Após oito anos de silêncio, "sinto falta do palco"'
+description: 'Banda independente de Taipé formada em 2013 que conquistou o StreetVoice em 2014 e foi indicada ao Golden Melody Awards; após um hiato de oito anos, retorna em 2024 com o EP "Plan B".'
 date: 2026-04-20
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '音樂與表演'
 tags:
-  - 'Hello Nico'
-  - 'Chan Yu-ting'
-  - 'Li Yung-en'
-  - 'Música Independente'
-  - 'Banda'
-  - 'Indie Rock'
-  - 'Dream Pop'
-  - 'Golden Melody Awards'
-  - 'Música de Taiwan'
-readingTime: 8
+  [
+    'Hello Nico',
+    'Jen Yu-ting',
+    'Li Yung-en',
+    'música independente',
+    'banda',
+    'indie rock',
+    'Dream Pop',
+    'Golden Melody Awards',
+    'música de Taiwan',
+  ]
+subcategory: '音樂與表演'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-20
 lastHumanReview: false
-featured: false
+researchReport: 'reports/research/2026-04/Hello-Nico.md'
+readingTime: 8
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/Hello-Nico.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '1b9d5dfea6'
 sourceContentHash: 'sha256:ac6c714f4ff5fb1b'
 sourceBodyHash: 'sha256:bab18d5114976850'
-translatedAt: '2026-07-25T12:45:42+08:00'
+translatedAt: '2026-11-25T08:44:45+08:00'
 ---
 
-> **Resumo em 30 segundos:** Hello Nico é uma banda independente de Taiwan, formada em 2013 em Taipé, com a vocalista Chan Yu-ting, o guitarrista Li Yung-en, o baixista Chen Hsin-po e o baterista Kuan Hui-chung. Em 2014, venceram o campeonato anual do StreetVoice com "Flor", e em 2015, o primeiro álbum de estúdio "Familiar Desolation" foi indicado a Melhor Artista Revelação no 27º Golden Melody Awards. Conhecidos pelo estilo "reprimido e auto-submerso" de Dream Pop / Indie Rock, a voz de Chan Yu-ting é o núcleo de sua identidade sonora. Após ficarem em silêncio por cerca de oito anos desde 2016, em setembro de 2024 recomeçaram com o EP "Plan B: Se Voltarmos, Veremos o Mar Juntos".
+> **Resumo de 30 segundos:** Hello Nico é uma banda independente de Taiwan, formada em Taipé em 2013. Os membros são a vocalista Jen Yu-ting (詹宇庭), a guitarrista Li Yung-en (李詠恩), o baixista Chen Hsin-po (陳信伯) e o baterista Kuan Hui-chung (關惠中). Em 2014, conquistaram o título anual do StreetVoice com a canção 〈Hua〉(花); em 2015, seu primeiro álbum de estúdio, _Familiar Desolation_ (熟悉的荒涼), foi indicado ao prêmio de Revelação do Ano no 27º Golden Melody Awards. Conhecidos por sua sonoridade Dream Pop / Indie Rock "repressiva e imersiva", a voz de Jen Yu-ting é o núcleo de sua identidade. Após um silêncio de cerca de oito anos desde 2016, retornam em setembro de 2024 com o EP _Plan B: Se voltarmos, vamos ver o mar juntos_ (Plan B：如果回來，我們一起看海).
 
-Chan Yu-ting disse: "Fazer música, a maior dificuldade é não conseguir se perdoar." [^2]
+Jen Yu-ting diz: "Ao fazer música, a maior dificuldade é não ser tão duro consigo mesmo."[^2]
 
-Em setembro de 2024, o novo EP do Hello Nico apareceu discretamente nas plataformas de streaming, intitulado "Plan B: Se Voltarmos, Veremos o Mar Juntos". Já se passavam quase oito anos desde seu último trabalho completo. [^8]
+Em setembro de 2024, o novo EP da Hello Nico surgiu silenciosamente nas plataformas de streaming, intitulado _Plan B: Se voltarmos, vamos ver o mar juntos_. Já se passaram quase oito anos desde o seu último trabalho completo.[^8]
 
-Assim, eles voltaram.
+Eles voltaram assim.
 
-### O verão de "Flor"
+### O verão de 〈Hua〉
 
-Em 2014, o campeão da lista anual do StreetVoice foi uma música chamada "Flor", com mais de 120.000 reproduções acumuladas. [^1]
+Em 2014, a canção vencedora do ranking anual do StreetVoice foi 〈Hua〉(花), que acumulou mais de 120.000 reproduções.[^1]
 
-Sem grande gravadora, sem exposição na televisão, contando apenas com a disseminação orgânica na plataforma de lançamento independente. Na época, o Hello Nico mal completara um ano de formação — a vocalista Chan Yu-ting, o guitarrista Li Yung-en, o baixista Chen Hsin-po, o baterista Kuan Hui-chung, quatro pessoas, sob o selo Black Market Music Production. No mesmo ano, a banda conquistou o prêmio de Melhor Nova Banda no Fresh Music Awards de Singapura com seu primeiro EP "Cidade Flutuante". [^5]
+Sem grandes gravadoras ou exposição na televisão, o sucesso veio da propagação orgânica nas plataformas de distribuição independente. Naquela época, a Hello Nico tinha apenas um ano de formação — Jen Yu-ting (vocal), Li Yung-en (guitarra), Chen Hsin-po (baixo) e Kuan Hui-chung (bateria) — sob o selo Black Market Music Production (黑市音樂). No mesmo ano, a banda venceu o prêmio de Melhor Banda Revelação no Fresh Music Awards de Singapura com seu primeiro EP, _Floating City_ (浮游城市).[^5]
 
-A cena independente de Taiwan começou a lembrar o nome "Hello Nico".
+O cenário da música independente de Taiwan começou a memorizar o nome "Hello Nico".
 
-### A gentileza mais reprimida de Taiwan
+### A delicadeza mais contida de Taiwan
 
-Dizer "reprimido e auto-submerso" é um elogio.
+Dizer que a sonoridade é "repressiva e imersiva" é um elogio.
 
-Críticos musicais usam esses quatro caracteres para descrever a textura musical do Hello Nico: uma casca onírica de Dream Pop, sob a qual se esconde a opressão do Shoegaze, os sintetizadores em camadas de Li Yung-en somados ao feedback de guitarra distorcida, a voz de Chan Yu-ting por cima — gentil, mas com forte poder de penetração. [^3]
+Críticos musicais usam esses termos para descrever a textura sonora da Hello Nico: uma casca de Dream Pop onírico, com o peso do Shoegaze escondido por baixo; as camadas de sintetizadores de Li Yung-en somadas ao feedback de guitarras distorcidas, com a voz de Jen Yu-ting pairando sobre tudo — delicada, mas com grande penetração.[^3]
 
-Os temas nunca fogem: alienação urbana, controle social, feridas entre as pessoas. Chan Yu-ting diz: "Para se libertar do controle social, é preciso saber quem se é. Quando me recuso a aceitar, escolho transformar isso em canção." [^3] Seu método criativo é deixar espaços deliberadamente: "Não gosto de dizer as coisas de forma absoluta, prefiro certa abstração, para que cada um possa interpretar o significado da criação por si mesmo." [^2]
+Os temas nunca são evitados: o isolamento urbano, o controle social e as feridas entre as pessoas. Jen Yu-ting afirma: "Para escapar do controle social, é preciso saber quem você é. Quando me recuso a aceitar, escolho transformar isso em música."[^3] Seu método de composição envolve deixar espaços vazios propositais: "Não gosto de ser absoluta; prefiro certa abstração para que cada pessoa possa interpretar o significado da obra por si mesma."[^2]
 
-A função da música é acompanhar — fazer o ouvinte saber que alguém está suportando junto com ele.
+A função da música é o acompanhamento — fazer com que o ouvinte saiba que há alguém compartilhando aquele fardo.
 
-### O ano da revelação no Golden Melody
+### O ano da revelação no Golden Melody Awards
 
-Em janeiro de 2015, o Hello Nico lançou seu primeiro álbum de estúdio "Familiar Desolation", onze faixas, que ficou quatro semanas consecutivas no topo das vendas no iNDIEVOX. [^6] No ano seguinte, este álbum os levou à lista de indicados a Melhor Artista Revelação no 27º Golden Melody Awards. [^7]
+Em janeiro de 2015, a Hello Nico lançou seu primeiro álbum de estúdio, _Familiar Desolation_ (熟悉的荒涼), com onze faixas, tornando-se o número um de vendas no iNDIEVOX por quatro semanas consecutivas.[^6] No ano seguinte, o álbum os levou à indicação de Revelação do Ano no 27º Golden Melody Awards.[^7]
 
 Foram indicados, mas não venceram.
 
-Nos dois anos seguintes, dedicaram-se a outra coisa: ser seus próprios produtores. Em 2016, lançaram o EP "Feche os Olhos", em colaboração com o quarteto de cordas vencedor do Grammy, SEMIFUSA, adicionando camadas de cordas clássicas — foi a primeira vez que o Hello Nico assumiu totalmente o controle da produção. Em 2017, subiram ao palco do [SXSW](https://www.sxsw.com). [^7]
+Nos dois anos seguintes, eles se dedicaram a outra coisa: serem seus próprios produtores. Em 2016, lançaram o EP _Close Your Eyes_ (閉上眼睛), colaborando com o quarteto de cordas vencedor do Grammy, SEMIFUSA, adicionando camadas de música clássica — foi a primeira vez que a Hello Nico teve controle total sobre a produção. Em 2017, eles subiram ao palco do [SXSW](https://www.sxsw.com).[^7]
 
-Depois, as notícias foram rareando.
+Depois disso, as notícias tornaram-se escassas.
 
-### Os oito anos de "não conseguir se perdoar"
+### Os oito anos de "lutar contra si mesma"
 
-Em 2018, ainda lançaram "Querido Eu". [^9]
+Em 2018, eles ainda lançaram [〈Dear Me〉](https://www.youtube.com/watch?v=5gm18pCQOYo) (親愛的自己).[^9]
 
-Depois, oito anos.
+Depois, o silêncio por oito anos.
 
-Em uma entrevista de 2024, Chan Yu-ting falou sobre aquele período: "Antes, no palco, eu facilmente sentia raiva. Agora estou me reabilitando lentamente, reconstruindo uma relação saudável com o canto através do autoencorajamento." [^4] Cansaço com a criação, dúvida sobre a própria voz — não é um dilema exclusivo do Hello Nico, mas eles escolheram enfrentá-lo com silêncio.
+Em uma entrevista de 2024, Jen Yu-ting falou sobre esse período: "Antigamente, era fácil sentir raiva enquanto estava no palco. Agora, estou em um processo lento de reabilitação, reconstruindo uma relação saudável com o canto através do autoencorajamento."[^4] Sentir cansaço criativo e duvidar da própria voz — este não é um dilema exclusivo da Hello Nico, mas eles escolheram enfrentar isso através do silêncio.
 
-Não foi dissolução, foi estagnação.
+Não foi uma dissolução, foi uma estagnação.
 
-### Plan B: Se Voltarmos, Veremos o Mar Juntos
+### Plan B: Se voltarmos, vamos ver o mar juntos
 
-Em 10 de setembro de 2024, "Viagem de Volta (Way Back)" foi lançada, diz-se que a música levou dez anos para ser concluída. [^8]
+Em 10 de setembro de 2024, [〈Way Back〉](https://www.youtube.com/watch?v=MiyIXHVhg_0) (返程) foi lançada; diz-se que a canção levou dez anos para ser concluída.[^8]
 
-O novo EP "Plan B" usa uma história de amor no espaço como moldura, contando sobre dois astronautas que retornam à Terra após partirem. A postura do retorno não é explicação, é a escolha de recomeçar. Chan Yu-ting diz: "Senti saudades do palco." [^4]
+O novo EP _Plan B_ utiliza uma história de amor espacial como moldura, narrando dois astronautas que retornam à Terra após partirem. A postura de retorno não é de explicação, mas de escolha por um novo começo. Jen Yu-ting diz: "Sinto falta do palco."[^4]
 
-Quem antes amarrava o canto à raiva, agora diz: "Reabilitação lenta."
+Aquela que antes ligava o canto à raiva, agora diz: "Estou em reabilitação lenta."
 
-O Hello Nico continua no palco.
+A Hello Nico continua no palco.
 
 ---
 
-**Leitura complementar**:
+**Leituras recomendadas**:
 
-- Ao Yu Shan (凹與山) — Também voz feminina independente dos anos 2010 em Taiwan, captura emoções urbanas com sintetizadores
-- VH (Vast & Hazy) (VH) — Outro caminho de gentileza na cena independente da mesma época, "banda da escola de saída"
-- Ts'ao Tung Mei Yu Pai Tui (草東沒有派對) — No mesmo cenário independente taiwanês dos anos 2010, contraponto de raiva e repressão
-- Ko Chih-tang (柯智棠) — Outro cantor independente taiwanês que retornou após sete anos de silêncio, pertence ao mesmo espectro de "criadores de ritmo lento"
-- Chi Po-hao (紀柏豪) — Tecladista do Hello Nico no início, depois migrou para arte sonora, primeiro prêmio MIT Schnitzer Prize
+- [Ao & Shan (凹與山)](/pt/people/ao-and-mountain-band) — Também uma voz feminina independente de Taiwan dos anos 2010, capturando emoções urbanas através de sintetizadores.
+- [VH (Vast & Hazy)](/pt/people/vh-band) — Outra vertente delicada da cena independente da mesma época, conhecida como "banda de escape".
+- [No Party For Cao Dong (草東沒有派對)](/pt/people/no-party-for-cao-dong) — Do mesmo cenário independente taiwanês dos anos 2010; um contraponto de raiva e repressão.
+- [Ke Chih-tang (柯智棠)](/pt/people/ke-zhi-tang-musician) — Outro cantor independente de Taiwan que retornou após sete anos de silêncio, pertencente ao mesmo espectro de "criadores de ritmo lento".
+- [Ki Po-hao (紀柏豪)](/pt/art/chi-po-hao-musician) — Ex-tecladista da Hello Nico, que posteriormente migrou para a arte sonora e venceu o prêmio MIT Schnitzer Prize.
 
 ## Referências
 
-[^1]: [Hello Nico — Página de artista no StreetVoice](https://streetvoice.com/HelloNico/) — "Flor", campeã anual do StreetVoice em 2014, com 120.000+ reproduções acumuladas; informações oficiais de lançamento e obras da banda.
+[^1]: [Hello Nico — Página de artista no StreetVoice](https://streetvoice.com/HelloNico/) — 〈Hua〉 foi a campeã anual do StreetVoice em 2014, com mais de 120.000 reproduções; informações sobre lançamentos oficiais e obras da banda.
 
-[^2]: [Punchline.asia — Série Músicos de Taiwan: Entrevista com Hello Nico](https://punchline.asia/) — Chan Yu-ting: "Fazer música, a maior dificuldade é não conseguir se perdoar" e "Não gosto de dizer as coisas de forma absoluta", c. 2016.
+[^2]: [Punchline.asia — Série Músicos de Taiwan: Entrevista com Hello Nico](https://punchline.asia/) — Citações de Jen Yu-ting: "Ao fazer música, a maior dificuldade é não ser tão duro consigo mesmo" e "Não gosto de ser absoluta", por volta de 2016.
 
-[^3]: [Womany — Para se libertar do controle social, é preciso saber quem se é](https://womany.net/) — Chan Yu-ting: "Para se libertar do controle social, é preciso saber quem se é. Quando me recuso a aceitar, escolho transformar isso em canção."
+[^3]: [Womany 女人迷 — Para escapar do controle social, é preciso saber quem você é](https://womany.net/) — Citações de Jen Yu-ting: "Para escapar do controle social, é preciso saber quem você é. Quando me recuso a aceitar, escolho transformar isso em música."
 
-[^4]: [VERSE — O retorno duradouro e o renascimento lutado (Hello Nico × Blueburn)](https://www.verse.com.tw/) — Chan Yu-ting fala sobre medo do palco, reabilitação lenta, "Senti saudades do palco", 2024.
+[^4]: [VERSE — Um retorno duradouro e um novo fôlego (Hello Nico × Blueburn)](https://www.verse.com.tw/) — Jen Yu-ting fala sobre medo de palco, reabilitação lenta e "sentir falta do palco", 2024.
 
-[^5]: [Site oficial do Fresh Music Awards de Singapura](https://www.freshmusic.sg/) — 9ª edição (2014), Hello Nico venceu Best New Group (Melhor Nova Banda) com o EP "Cidade Flutuante".
+[^5]: [Site oficial do Singapore Fresh Music Awards](https://www.freshmusic.sg/) — 9ª edição (2014), Hello Nico venceu como Best New Group com o EP _Floating City_.
 
-[^6]: [StreetVoice Packer — Introdução da banda Hello Nico](https://streetvoice.com/HelloNico/) — 2015, "Familiar Desolation" ficou quatro semanas consecutivas no topo das vendas no iNDIEVOX.
+[^6]: [StreetVoice Packer 派歌 — Introdução à banda Hello Nico](https://streetvoice.com/HelloNico/) — Em 2015, _Familiar Desolation_ foi o número um de vendas no iNDIEVOX por quatro semanas consecutivas.
 
-[^7]: [27º Golden Melody Awards (2016)](https://gmawards.taicca.tw/) — Hello Nico indicado a "Melhor Artista Revelação" com "Familiar Desolation"; no mesmo ano, a banda também se apresentou no SXSW 2017 (confirmado na programação oficial do SXSW).
+[^7]: [27º Golden Melody Awards (2016)](https://gmawards.taicca.tw/) — Hello Nico foi indicada ao prêmio de "Revelação do Ano" com _Familiar Desolation_; no mesmo período, a banda também se apresentou no SXSW 2017 (confirmado pela agenda oficial do SXSW).
 
-[^8]: [Hello Nico — EP Plan B (Cosmos Digital)](https://streetvoice.com/HelloNico/) — "Plan B: Se Voltarmos, Veremos o Mar Juntos", lançado em 10 de setembro de 2024; "Viagem de Volta" supostamente levou dez anos para ser concluída.
+[^8]: [Hello Nico — EP Plan B (Universe Digital)](https://streetvoice.com/HelloNico/) — _Plan B: Se voltarmos, vamos ver o mar juntos_, lançado em 10 de setembro de 2024; afirma-se que 〈Way Back〉 levou dez anos para ser concluída.
 
-[^9]: [Hello Nico — Querido Eu (Spotify / KKBOX)](https://open.spotify.com/artist/0vfIJa9bPNXpMEXyJL3UWN) — Lançado em junho de 2018 "Querido Eu Dear Me", versão remix de Gill Chang lançada em dezembro do mesmo ano.
+[^9]: [Hello Nico — Dear Me (Spotify / KKBOX)](https://open.spotify.com/artist/0vfIJa9bPNXpMEXyJL3UWN) — Lançamento de _Dear Me_ em junho de 2018, com uma versão remix de Gill Chang lançada em dezembro do mesmo ano.

@@ -1,28 +1,28 @@
 ---
-title: 'Hsu Mei-hua: de anti-Unigroup ao grande recall, uma década de um codinome cidadão anônimo'
-description: '「Hsu Mei-hua」 não é o nome verdadeiro, mas um codinome que apareceu em dois momentos-chave da sociedade civil de Taiwan — em 2015, como uma das «Quatro Cavaleiros» que bloqueou a aquisição de semicondutores pela Unigroup da China; em 2025, tornou-se o mais contra-intuitivo «centro de financiamento» da onda de grande recall: sem tocar num único centavo, coordenou mais de 20 milhões em doações cidadãs.'
+title: 'Hsu Mei-hua: da oposição à Ziguang ao grande recall, dez anos de um pseudônimo de cidadão anônimo'
+description: 'Um pseudônimo de cidadão anônimo deliberado, não seu nome real. Em 2015, como uma das "Quatro Cavaleiros", autodenominada "Monge Varredor", ela ajudou a bloquear a tentativa de aquisição da chinesa Ziguang das três maiores empresas de embalagem e teste de semicondutores de Taiwan, totalizando quase NT$900 bilhões. Em 2025, no grande recall, ela se transformou em "Centro de Recarga", com fãs depositando diretamente aos fabricantes para produzir carros de propaganda LED; ela não tocou em um centavo, mas coordenou mais de NT$20 milhões. O recall falhou 31 a 0, ela o chamou de "a ação fracassada mais bem-sucedida", e a trajetória de dez anos condensa o espectro da sociedade civil taiwanesa, da linha de frente tecnológica à mobilização democrática.'
 date: 2026-04-17
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '教育與社會'
 tags:
   [
     'Hsu Mei-hua',
-    'anti-Unigroup',
+    'oposição à Ziguang',
     'grande recall',
-    'movimento cidadão',
+    'movimento cívico',
     'semicondutores',
     'democracia de Taiwan',
   ]
-readingTime: 12
+subcategory: '教育與社會'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-17
 lastHumanReview: true
-featured: false
+readingTime: 12
 translatedFrom: 'People/許美華.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '1b9d5dfea6'
 sourceContentHash: 'sha256:1b5d90dfca7bb147'
 sourceBodyHash: 'sha256:e380720def0effee'
-translatedAt: '2026-07-25T09:23:09+08:00'
+translatedAt: '2026-11-25T03:15:58.184775+00:00'
 ---
 
 > **Resumo em 30 segundos:** «Hsu Mei-hua» é um codinome anônimo, não um nome verdadeiro. Ela apareceu na sociedade civil de Taiwan em dois momentos-chave: em 2015, foi uma das «Quatro Cavaleiros», ajudando a bloquear a aquisição pelas três maiores empresas de encapsulamento e teste de semicondutores de Taiwan (Powertech, Sigurd, Nepes) pela Unigroup da China, num total de quase 900 bilhões de novos dólares taiwaneses; em 2025, tornou-se o «centro de financiamento» mais contra-intuitivo do movimento de «grande recall», com fãs depositando diretamente nos fornecedores para carros de propaganda com LED, material gráfico e procissões templárias — ela não tocou num único centavo, mas coordenou mais de 20 milhões em doações cidadãs. O recall terminou com 31:0, todas as propostas fracassaram; ela chamou de «a mais bem-sucedida ação fracassada». A trajetória de dez anos desse codinome condensa o espectro da sociedade civil taiwanesa, da linha de defesa tecnológica e econômica à mobilização democrática.

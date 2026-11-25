@@ -1,29 +1,29 @@
 ---
-title: 'Cicada: dezesseis anos de gravações de campo, do furacão Morakot de 2009 às geleiras inter-hemisféricas de 2025'
-description: 'Fundada em Taipé em 2009, a Cicada é uma banda independente totalmente instrumental, sem vocais. A pianista fundadora Chiang Chih-chieh (mestra em História da Arte pela Universidade Nacional das Artes de Taipé) compôs as primeiras peças após ver as notícias sobre o furacão Morakot naquele ano. Ao longo dos dezesseis anos seguintes, eles transformaram o desaparecimento das costas de Taiwan, a ecologia marinha e as nascentes das montanhas e florestas em uma série de álbuns sem vocais — da costa oeste ("Desvanecimento das Fronteiras" 2013), à costa leste do Pacífico ("Olhando o Nível do Mar" 2015), até as nascentes da Cordilheira Central ("Habitando Acima das Nascentes" 2022, uma expedição de 15 dias e 120 km). Compuseram a trilha do filme japonês "Aquele Homem" e venceram o Prêmio de Música Excelente da Academia Japonesa de Cinema. Em 2025, "Fitando a Fronteira Branca" levou seu trabalho de campo para fora de Taiwan pela primeira vez, seguindo rios glaciais pela Groenlândia, Islândia e Nova Zelândia, antes de retornar à Montanha Neve para encontrar vestígios de geleiras antigas.'
+title: 'Cicada: de Morakot em 2009 às geleiras inter-hemisféricas de 2025, dezesseis anos de gravações de campo'
+description: 'A banda totalmente instrumental formada em Taipei em 2009, todo o álbum não possui vocais. O pianista fundador Jiang Zhijie, ao ver as notícias sobre o tufão Morakot naquele ano, compôs as primeiras peças; nos dezesseis anos seguintes, eles gravaram o desaparecimento das costas de Taiwan, a ecologia marinha e as nascentes das montanhas e florestas em álbum após álbum sem letras. Em 2022, "Habitando nas Nascentes" exigiu 15 dias e 120 km para completar as gravações. Em 2025, "Fitando a Fronteira Branca" seguiu as geleiras pela Groenlândia, Islândia e Nova Zelândia, finalmente retornando à Montanha de Neve para encontrar os vestígios deixados pelas antigas geleiras em Taiwan.'
 date: 2026-04-18
 category: 'People'
 tags:
   [
-    'personalidades',
+    'Pessoas',
     'Cicada',
-    'Chiang Chih-chieh',
-    'instrumental',
+    'Jiang Zhijie',
+    'Instrumental',
+    'Pós-clássico',
     'neoclássico',
-    'neoclassical',
-    'música independente',
-    'música ambiental',
-    'ecologia',
-    'Sociedade de Proteção da Natureza',
-    'Tempos Espalhados',
+    'Música independente',
+    'Música ambiente',
+    'Ecologia',
+    'Associação de Proteção da Vida Selvagem',
+    'Tempos Dispersos',
     'Entrando na Floresta Nebulosa',
-    'Habitando Acima das Nascentes',
+    'Habitando nas Nascentes',
     'Fitando a Fronteira Branca',
-    'Olhando o Nível do Mar',
+    'Fitando o Nível do Mar',
     'flau',
-    'geleiras',
+    'Geleiras',
     'Kei Ishikawa',
-    'Prêmio Golden Melody',
+    'Golden Melody Awards',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
@@ -37,19 +37,23 @@ imageCredit: 'Blackjack633 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E7%BF%A0%E6%B1%A0_%E6%B1%AA%E5%A4%A7%E6%99%BA_05.jpg'
 perspectives:
-  [
-    "{'author': 'xo61j4', 'text': '偶然聽過巨木曾在的痕跡很喜歡就放進了歌單，很喜歡那種完全沉浸在山林的氛圍，沒想到他們是整個作曲脈絡都圍繞著台灣，喜歡', 'dimension': '入坑'}",
-  ]
+  - author: 'xo61j4'
+    text: '偶然聽過巨木曾在的痕跡很喜歡就放進了歌單，很喜歡那種完全沉浸在山林的氛圍，沒想到他們是整個作曲脈絡都圍繞著台灣，喜歡'
+    dimension: '入坑'
 sporeLinks:
-  [
-    "{'id': 31, 'platform': 'threads', 'date': '2026-04-18', 'url': 'https://www.threads.com/@taiwandotmd/post/DXQph5okwOu'}",
-    "{'id': 32, 'platform': 'x', 'date': '2026-04-18', 'url': 'https://x.com/taiwandotmd/status/2045363785347612934'}",
-  ]
+  - id: 31
+    platform: 'threads'
+    date: '2026-04-18'
+    url: 'https://www.threads.com/@taiwandotmd/post/DXQph5okwOu'
+  - id: 32
+    platform: 'x'
+    date: '2026-04-18'
+    url: 'https://x.com/taiwandotmd/status/2045363785347612934'
 translatedFrom: 'People/Cicada.md'
-sourceCommitSha: '21298a7a'
+sourceCommitSha: '30ab24424f'
 sourceContentHash: 'sha256:3d1c97835c5d9ea3'
 sourceBodyHash: 'sha256:5091127dea208f82'
-translatedAt: '2026-07-28T08:53:30+08:00'
+translatedAt: '2026-11-25T02:45:26.193205+00:00'
 ---
 
 > **Visão geral de 30 segundos:** A Cicada é uma banda independente totalmente instrumental fundada em Taipé em 2009, liderada pela pianista Chiang Chih-chieh (Jesy Chiang, mestra em História da Arte pela Universidade Nacional das Artes de Taipé), com formação de quatro integrantes: piano, violino, violoncelo e violão acústico. Desde o álbum de estreia _Tempos Espalhados_ (2011) pela White Rabbit Records, todas as obras lançadas em dezesseis anos não têm vocais. Os temas percorreram a erosão da costa oeste (_Desvanecimento das Fronteiras_ 2013), a costa leste e o Pacífico (_Olhando o Nível do Mar_ 2015), a ecologia marinha (_Para Onde Foram Vocês Que Não Estão_ 2017), as florestas de montanha (_Entrando na Floresta Nebulosa_ 2019) até as nascentes (_Habitando Acima das Nascentes_ 2022, uma expedição de 15 dias e 120 km pela Cordilheira Central). Em 2024, a coletânea de 15 anos _Retorno_ reinterpreta os temas costeiros; em 2025, _Fitando a Fronteira Branca_ sai de Taiwan pela primeira vez, seguindo rios glaciais pelos hemisférios norte e sul, para voltar à Montanha Neve em busca de vestígios de geleiras antigas. Compuseram a trilha do filme japonês _Aquele Homem_ e venceram o Prêmio de Música Excelente da Academia Japonesa de Cinema; em 2024 completaram uma turnê inteira no Japão e dividiram palco com o compositor islandês Ólafur Arnalds. Metodologia central: **deixar a natureza falar por si mesma**.
