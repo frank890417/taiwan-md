@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-26T00:36:48+08:00",
-    "zhCommitHead": "f61b8d2105",
+    "lastUpdated": "2026-11-26T02:38:44+08:00",
+    "zhCommitHead": "34e8469bc0",
     "totalZh": 1194,
     "activeLanguages": [
       "en",
@@ -84,8 +84,8 @@
       },
       "hi": {
         "total_zh": 1194,
-        "fresh": 1180,
-        "stale": 11,
+        "fresh": 1181,
+        "stale": 10,
         "metadata_stale": 3,
         "missing": 0,
         "orphan": 0
@@ -111254,20 +111254,18 @@
         "hi": {
           "path": "hi/People/chien-chien-eating.md",
           "translatedFrom": "People/千千進食中.md",
-          "sourceCommitSha": "513bf256a",
-          "sourceContentHash": "sha256:4bfc707dc97b4776",
-          "sourceBodyHash": "sha256:685bed7af9ee32a1",
-          "translatedAt": "2026-09-12T02:30:19+08:00",
+          "sourceCommitSha": "45b1bf37e0",
+          "sourceContentHash": "sha256:e967fd4cff734536",
+          "sourceBodyHash": "sha256:1978cbe0e37b1512",
+          "translatedAt": "2026-11-25T16:34:49.291623+00:00",
           "translationLastCommit": "8fbc4afc",
           "translationLastModified": "2026-09-12T06:24:38+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "bytes": 33837,
+          "bytes": 36262,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/chien-chien-eating.md",
@@ -115746,8 +115744,8 @@
           "sourceContentHash": "sha256:99a2042c4d3706c4",
           "sourceBodyHash": "sha256:d349dadeacba1186",
           "translatedAt": "2026-11-25T16:46:39+08:00",
-          "translationLastCommit": "31aca480",
-          "translationLastModified": "2026-11-02T10:12:25+08:00",
+          "translationLastCommit": "13eaea45",
+          "translationLastModified": "2026-11-26T00:36:48+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "bytes": 26267,
