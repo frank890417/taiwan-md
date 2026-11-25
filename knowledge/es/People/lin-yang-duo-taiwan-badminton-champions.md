@@ -1,31 +1,31 @@
 ---
-title: 'Wang Chi-lin y Lee Yang (la dupla Lin-Yang)'
-description: 'De compañeros de secundaria a medallistas olímpicos: la dupla Lin-Yang venció a China en dos sets corridos en 34 minutos y obtuvo la primera medalla de oro olímpica en la historia del bádminton taiwanés'
+title: 'Wang Chi-lin y Lee Yang (Pareja Lin-Yang)'
+description: 'Pareja masculina de bádminton de Taiwán, formada por los compañeros de la escuela secundaria secundaria Zhongshan de Taipéi, Wang Chi-lin y Lee Yang. De ser compañeros de clase a campeones mundiales, han perfeccionado su técnica durante veinte años. En la final de los Juegos Olímpicos de Tokio el 31 de julio de 2021, derrotaron en solo 34 minutos con un marcador de 21-18 y 21-12 a la pareja china Li Junhui y Liu Yuchen, ganando la primera medalla de oro olímpica en la historia del bádminton de Taiwán, provocando el júbilo simultáneo de los 23 millones de habitantes de la isla. En los Juegos Olímpicos de París 2024, ambos, ya de 29 años, volvieron a ganar el oro, convirtiéndose en los primeros campeones olímpicos en defender con éxito su título en la historia del bádminton de Taiwán.'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '體育'
 tags:
   [
-    'deportistas',
+    'atletas',
     'Wang Chi-lin',
     'Lee Yang',
-    'dupla Lin-Yang',
+    'Pareja Lin-Yang',
     'bádminton',
     'Juegos Olímpicos de Tokio',
     'Juegos Olímpicos de París',
     'medalla de oro',
   ]
-readingTime: 12
+subcategory: '體育'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-19
 lastHumanReview: true
-featured: true
+difficulty: 'beginner'
+readingTime: 12
 translatedFrom: 'People/麟洋配.md'
-sourceCommitSha: 'c32d210ff'
+sourceCommitSha: '00dc1f6e04'
 sourceContentHash: 'sha256:940cd3ea72960eac'
 sourceBodyHash: 'sha256:4c0e104cb6fe8601'
-translatedAt: '2026-05-20T05:08:32+08:00'
-difficulty: 'beginner'
+translatedAt: '2026-11-25T05:33:56.852381+00:00'
 ---
 
 # Wang Chi-lin y Lee Yang (la dupla Lin-Yang)

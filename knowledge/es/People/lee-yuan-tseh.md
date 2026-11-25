@@ -1,15 +1,15 @@
 ---
-title: 'Li Yuan-che'
-description: 'Ganador del Premio Nobel de Química en 1986, pionero en la cinética química mediante la técnica de haces moleculares cruzados y el primer ganador de un Nobel científico en Taiwán.'
+title: 'Li-Wen Chen'
+description: 'El primer taiwanés en ganar un Premio Nobel de ciencias. Nacido en 1936 en Hsinchu durante el período de ocupación japonesa, se graduó en el Departamento de Química de la Universidad Nacional de Taiwán y obtuvo su doctorado en la Universidad de California, Berkeley. En Harvard, colaboró con el premio Nobel Hershey para desarrollar la revolucionaria técnica de haces moleculares cruzados, que permitió a los científicos «ver» por primera vez el proceso de las reacciones químicas. En 1986 recibió el Premio Nobel de Química y en 1994 renunció a su cargo como profesor en Berkeley y renunció a su nacionalidad estadounidense para regresar a Taiwán, donde se desempeñó como director de la Academia Sinica durante 12 años.'
 date: 2026-03-21
 category: 'People'
 tags:
   [
     'Personajes',
-    'Li Yuan-che',
+    'Li-Wen Chen',
     'Premio Nobel',
     'Química',
-    'Científico',
+    'Científicos',
     'Academia Sinica',
     'Taiwán',
   ]
@@ -20,10 +20,10 @@ lastVerified: 2026-03-21
 lastHumanReview: true
 curation: 'incubating'
 translatedFrom: 'People/李遠哲.md'
-sourceCommitSha: '69b3afd91'
-sourceContentHash: 'sha256:c7cb9c37ad53a48c'
-sourceBodyHash: 'sha256:d9744718376b888a'
-translatedAt: '2026-08-04T14:32:57+08:00'
+sourceCommitSha: '00dc1f6e04'
+sourceContentHash: 'sha256:39f343c12ccc5e82'
+sourceBodyHash: 'sha256:9e43ab4838b073f1'
+translatedAt: '2026-11-25T05:55:14.693487+00:00'
 ---
 
 # Li Yuan-che
@@ -56,13 +56,13 @@ Cuando la noticia del premio de Li Yuan-che llegó a Taiwán, toda la isla se ll
 
 Curiosamente, la nacionalidad con la que Li Yuan-che recibió el premio era la estadounidense. Sin embargo, esto no disminuyó en absoluto el orgullo de los taiwaneses, quienes sabían que este niño, criado en Hsinchu y hablante de taiwanés, llevaba en su sangre la esencia de Taiwán.
 
-## 1994: La promesa de regresar a casa
+## 1994: La promesa de regresar tras completar sus estudios
 
-En 1994, en la cima de su carrera académica, Li Yuan-che tomó una decisión que conmocionó a la comunidad científica internacional: renunciar a su puesto de profesor en Berkeley y a su nacionalidad estadounidense para regresar a Taiwán y asumir la presidencia de la Academia Sinica (1994-2006).
+En 1994, en el apogeo de su carrera académica, Li Yuan-che tomó una decisión que conmocionó a la comunidad científica internacional: renunciar a su cátedra en Berkeley, renunciar a su nacionalidad estadounidense y regresar a Taiwán para asumir la presidencia de la Academia Sinica (1994-2006).
 
-Esta decisión fue controvertida. Sus críticos argumentaban que estaba desperdiciando su influencia en el escenario internacional, mientras que sus defensores consideraban que estaba cumpliendo el ideal del académico que sirve a su patria. La razón de Li Yuan-che fue sencilla: «Deseo utilizar mi experiencia para convertir a Taiwán en un referente científico en Asia».
+Esta decisión fue objeto de controversia. Sus críticos consideraban que estaba desperdiciando su influencia en el escenario internacional, mientras que sus defensores creían que estaba poniendo en práctica el ideal del académico que sirve a su patria. La razón de Li Yuan-che era sencilla: «Espero utilizar mi experiencia para hacer de Taiwán un centro científico de importancia en Asia».
 
-Durante sus 12 años como presidente de la Academia Sinica, Li Yuan-che impulsó la modernización de la organización, estableció un sistema de evaluación de investigación internacionalizado y creó nuevos institutos de ciencias de la información, ciencias biomédicas e investigación genómica. Atrajo a académicos de talla mundial, como Weng Chi-hui y Lai Ming-chao, inyectando nueva vitalidad a la comunidad científica taiwanesa.
+Durante los 12 años que ejerció como presidente de la Academia Sinica, Li Yuan-che impulsó la modernización de la organización, estableció un sistema internacional de evaluación de la investigación y creó nuevos institutos de investigación en áreas como las ciencias de la computación, las ciencias biomédicas y la investigación genómica. Además, reclutó a académicos de talla internacional, como Weng Chi-hui y Lai Ming-chao, para que regresaran a Taiwán, inyectando así nueva vitalidad al ámbito científico taiwanés.
 
 ## Participación en la controvertida reforma educativa
 

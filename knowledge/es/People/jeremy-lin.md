@@ -1,13 +1,13 @@
 ---
-title: 'Jeremy Lin: de ser cortado dos veces en 15 días a retirarse como MVP doble en la TPBL'
-description: 'Campeón estatal en la secundaria sin beca, no seleccionado en el draft, cortado dos veces en 15 días — y luego hizo que el mundo entero conociera el "Linsanity"'
+title: 'Jeremy Lin: El camino de un jugador de baloncesto, desde ser cortado dos veces en 15 días hasta retirarse como doble MVP de la TPBL'
+description: 'Jugador de baloncesto de origen taiwanés-estadounidense, nacido en California en 1988 y novena generación de inmigrantes taiwaneses. Lideró a su equipo de secundaria para ganar el campeonato estatal de California, pero ninguna universidad de la División I de la NCAA le ofreció una beca; tras no ser seleccionado en el draft, fue cortado por dos equipos de la NBA en un plazo de 15 días. En febrero de 2012, entró como suplente y promedió 24.4 puntos durante siete partidos consecutivos, desatando el fenómeno conocido como "Linsanity"; en 2019, ganó el campeonato de la NBA con los Raptors, convirtiéndose en el primer jugador de origen asiático-estadounidense en obtener un título de la NBA. En 2025, se retira en Taiwán tras haber sido nombrado MVP de la temporada y MVP de las finales.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Personaje',
+    'Personajes',
     'Baloncesto',
-    'Estadounidense de ascendencia taiwanesa',
+    'Taiwanés-estadounidense',
     'NBA',
     'Linsanity',
     'Universidad de Harvard',
@@ -19,11 +19,11 @@ author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-16
 lastHumanReview: true
-translatedFrom: People/林書豪.md
-sourceCommitSha: 85926aa3b
-sourceContentHash: sha256:5bcf40616e842909
-sourceBodyHash: sha256:15c8e50bb3ba07a7
-translatedAt: 2026-05-20T05:08:32+08:00
+translatedFrom: 'People/林書豪.md'
+sourceCommitSha: '00dc1f6e04'
+sourceContentHash: 'sha256:5bcf40616e842909'
+sourceBodyHash: 'sha256:15c8e50bb3ba07a7'
+translatedAt: '2026-11-25T05:36:05.650204+00:00'
 ---
 
 > **Resumen en 30 segundos:** Jeremy Lin, nacido en 1988 en California, es descendiente de inmigrantes taiweses de novena generación. En la secundaria lideró a su equipo al campeonato estatal de California, pero ninguna universidad de la División I de la NCAA le ofreció una beca. Ingresó en Harvard, no fue seleccionado en el draft y fue cortado por dos equipos de la NBA en 15 días. En febrero de 2012, entrando desde el banco, promedió 24.4 puntos en siete partidos consecutivos, desatando el fenómeno conocido como "Linsanity".[^1] En 2019 ganó un anillo de campeón de la NBA con los Toronto Raptors, convirtiéndose en el primer jugador asiático-estadounidense en lograrlo.[^2] En 2025 se retiró en Taiwán como MVP de la temporada y MVP de las Finales, completando un arco que abarcó de Estados Unidos a Taiwán.[^3]

@@ -1,143 +1,143 @@
 ---
-title: 'Chi-Huey Wong'
-description: 'Autoridad mundial en química de carbohidratos, ganador del Premio Wolf de Química en 2014, expresidente de la Academia Sinica, se perdió el Premio Nobel a causa del caso OBI Pharma'
+title: 'Wong Chi-hui (翁啟惠)'
+description: 'Autoridad mundial en química de carbohidratos, nacido en Tainan en 1948. Tras graduarse en la Universidad Nacional de Taiwán, obtuvo un doctorado en Química Orgánica en el MIT y se estableció en el Scripps Research Institute. En 2014 recibió el Premio Wolf de Química, considerado un "precursor del Nobel". Tras su dimisión como director de la Academia Sinica por el caso de la empresa OptiGene en 2016, fue declarado inocente en 2019.'
 date: 2026-03-31
+category: 'People'
 tags:
   [
-    'académico',
-    'química',
+    'Académico',
+    'Química',
     'Academia Sinica',
-    'glicociencia',
-    'caso OBI Pharma',
+    'Química de carbohidratos',
+    'Caso OptiGene',
     'Nobel',
     'Premio Wolf',
   ]
 subcategory: '科學與學術'
+author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-31
 lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
-translatedFrom: People/翁啟惠.md
-sourceCommitSha: 'be13f045'
+translatedFrom: 'People/翁啟惠.md'
+sourceCommitSha: '00dc1f6e04'
 sourceContentHash: 'sha256:984fef279b1af05b'
 sourceBodyHash: 'sha256:8e4d8fb8704570d2'
-translatedAt: '2026-05-16T22:20:03Z'
-category: People
-author: 'Taiwan.md'
+translatedAt: '2026-11-25T12:26:30+08:00'
 ---
 
-# Chi-Huey Wong
+# Wong Chi-hui (翁啟惠)
 
-> **Resumen en 30 segundos:** Chi-Huey Wong es uno de los científicos más importantes del mundo en el campo de la glicociencia. En 2014 obtuvo el Premio Wolf de Química, considerado la "antesala del Nobel", y los miembros del comité Nobel estuvieron a punto de viajar a Taiwán para reunirse con él. Pero en 2016, el caso OBI Pharma lo obligó a dimitir como presidente de la Academia Sinica en el momento en que estaba más cerca del Premio Nobel. Él mismo declaró: "Yo impulsé la ley de biotecnología, y resulta que la primera víctima fui yo." En 2019 fue absuelto en primera instancia, pero afirmó: "La justicia llegó, pero la reputación es difícil de recuperar."
+> **Resumen en 30 segundos:** Wong Chi-hui es uno de los científicos más importantes del mundo en el campo de la química de carbohidratos. En 2014 recibió el Premio Wolf de Química, conocido como un "precursor del Nobel", y llegó a tener miembros del comité del Nobel preparados para viajar a Taiwán para entrevistarlo. Sin embargo, en 2016, el caso OptiGene le obligó a dimitir como director de la Academia Sinica en el momento en que estaba más cerca del Premio Nobel. Él mismo afirmó: «Yo impulsé la Ley de Biotecnología, pero terminé siendo su primera víctima». En 2019 fue declarado inocente en primera instancia, pero declaró: «Aunque la justicia ha llegado, es difícil recuperar mi reputación».
 
-En enero de 2014, Chi-Huey Wong, profesor de química en el Instituto Scripps Research, recibió el Premio Wolf de Química (Wolf Prize in Chemistry). Este galardón es conocido como la "antesala del Nobel": históricamente, el 70 % de sus laureados terminaron obteniendo el Premio Nobel. En el ámbito académico taiwanés, todos sabían que esta era la vez que un científico nacido en Taiwán había estado más cerca del Premio Nobel de Química.
+En enero de 2014, el profesor de química del Scripps Research Institute, Wong Chi-hui (翁啟惠), recibió el Premio Wolf de Química (Wolf Prize in Chemistry). Este galardón es conocido como el "precursor del Nobel", ya que el 70 % de sus ganadores han obtenido posteriormente el Premio Nobel. En el ámbito académico de Taiwán se sabe que este fue el momento en que un científico nacido en Taiwán estuvo más cerca de ganar el Nobel de Química.
 
-Dos años después, miembros del comité del Premio Nobel de Química tenían previsto viajar a Taiwán para reunirse con él. Entonces estalló el caso OBI Pharma. Wong lo relató con sus propias palabras: "Les pedí que no vinieran, porque en esa situación no era apropiado."
+Dos años después, los miembros del comité del Premio Nobel de Química tenían previsto viajar a Taiwán para hablar con él. Entonces estalló el caso OptiGene. Wong Chi-hui dijo textualmente: «Les pedí que no vinieran, porque en esa situación no era apropiado».
 
-## De Tainan al MIT: el inicio de un químico orgánico
+## De Tainan al MIT: El inicio de un químico orgánico
 
-Chi-Huey Wong nació en Tainan en 1948. Tras graduarse en el Departamento de Química de la Universidad Nacional de Taiwán, viajó a Estados Unidos y obtuvo su doctorado en química orgánica en el Instituto Tecnológico de Massachusetts (MIT) en 1982. En aquella época, los estudiantes taiwaneses capaces de realizar investigación doctoral en el MIT ya eran escasos; su punto de partida fue excepcional.
+Wong Chi-hui nació en Tainan en 1948. Tras graduarse en el Departamento de Química de la Universidad Nacional de Taiwán (NTU), se trasladó a Estados Unidos, donde obtuvo su doctorado en Química Orgánica en el Instituto Tecnológico de Massachusetts (MIT) en 1982. En aquella época, los estudiantes taiwaneses que lograban realizar investigaciones de doctorado en el MIT eran muy escasos, por lo que su punto de partida ya era extraordinario.
 
-Tras el doctorado, fue profesor asistente en la Universidad de Texas A&M (Texas A&M University), después se trasladó al Instituto Tecnológico de California (Caltech) y en 1989 se convirtió en profesor de química en Caltech. Finalmente se estableció en el Instituto Scripps Research (Scripps Research Institute), donde fundó su propio laboratorio y comenzó a abordar de forma sistemática los problemas centrales de la química de carbohidratos.
+Tras su posdoctorado, trabajó como profesor asistente en la Universidad de Texas A&M (Texas A&M) y más tarde se trasladó al Instituto Tecnológico de California (Caltech), convirtiéndose en profesor del Departamento de Química de Caltech en 1989. Finalmente se estableció en el Scripps Research Institute, donde fundó su propio laboratorio y comenzó a resolver sistemáticamente los problemas centrales de la química de carbohidratos.
 
-La química de carbohidratos (carbohydrate chemistry) fue durante mucho tiempo un campo marginal dentro de la química, no porque los carbohidratos carecieran de importancia —todo lo contrario: las moléculas de azúcar cubren la superficie de cada célula y controlan el reconocimiento inmunitario, las infecciones virales y la metástasis del cáncer—, sino porque la estructura de las moléculas de azúcar es extremadamente compleja. Sintetizar una molécula de azúcar específica podía llevarle a un laboratorio varios meses, lo que desanimaba a muchos investigadores.
+La química de carbohidratos (carbohydrate chemistry) ha sido durante mucho tiempo un campo poco explorado en la química. No es porque los carbohidratos no sean importantes —al contrario, las moléculas de azúcar cubren la superficie de cada célula y controlan el reconocimiento inmunológico, la infección viral y la metástasis del cáncer—, sino porque su estructura es extremadamente compleja. Sintetizar una molécula de azúcar específica puede llevar a un laboratorio meses de trabajo, lo que desanima a muchos investigadores.
 
-Wong dedicó casi veinte años a resolver este problema de eficiencia.
+Wong Chi-hui dedicó casi veinte años a resolver este problema de eficiencia.
 
-## Síntesis programable en un solo recipiente: llevar la glicociencia a la autopista
+## Síntesis programable en un solo recipiente: La vía rápida para la química de carbohidratos
 
-El avance técnico más crucial de Wong fue la "síntesis programable en un solo recipiente" (programmable one-pot synthesis).
+El avance tecnológico más crucial de Wong Chi-hui fue el desarrollo de la «síntesis programable en un solo recipiente» (programmable one-pot synthesis).
 
-La síntesis tradicional de moléculas de azúcar requería numerosos pasos: cada vez que se unía una unidad de azúcar, había que proteger las demás posiciones, reaccionar, purificar, volver a proteger, volver a reaccionar… docenas de pasos eran lo habitual. El método de Wong "programaba" todo el proceso sintético: diseñaba de antemano el orden y las condiciones de cada reacción, de modo que todos los pasos se completaban secuencialmente y de forma automática en un solo recipiente, como si se introdujera una receta compleja en un robot de cocina totalmente automático y se obtuviera la molécula deseada.
+La síntesis tradicional de moléculas de azúcar requiere numerosos pasos: tras añadir cada unidad de glucosa, es necesario proteger otras posiciones, reaccionar, purificar, volver a proteger, volver a reaccionar... decenas de pasos son habituales. El método de Wong Chi-hui consiste en «programar» todo el proceso de síntesis: se diseña de antemano la secuencia y las condiciones de cada reacción para que todos los pasos se completen automáticamente en un único recipiente, de forma similar a introducir una receta compleja en una cocina automática para obtener la molécula deseada.
 
-Este método no solo fue una elegancia química, sino una llave que abrió la puerta al desarrollo farmacéutico.
+Este método no es solo una elegancia química; es la llave que abre las puertas del desarrollo de fármacos.
 
-Una vez acelerada la velocidad de síntesis, los investigadores pudieron probar sistemáticamente los efectos de distintas moléculas de azúcar sobre células cancerosas, virus y bacterias. El laboratorio de Wong se convirtió en uno de los centros de investigación en glicociencia más rápidos del mundo.
+Gracias a la mejora en la velocidad de síntesis, los investigadores pueden probar sistemáticamente el efecto de diferentes moléculas de azúcar sobre células cancerosas, virus y bacterias. Desde entonces, el laboratorio de Wong Chi-hui se convirtió en uno de los lugares más rápidos del mundo en investigación de química de carbohidratos.
 
-📝 **Su investigación fue resumida por el comité de premiación de Scripps en los siguientes términos: "Wong's discoveries and technologies have fundamentally shaped our understanding of complex carbohydrates and glycoproteins, as well as uncovered new therapeutic strategies to treat major diseases."** El panorama de la glicociencia cambió gracias a él.
+📝 **Su investigación fue resumida en la cita de entrega de Scripps de la siguiente manera: «Wong's discoveries and technologies have fundamentally shaped our understanding of complex carbohydrates and glycoproteins, as well as uncovered new therapeutic strategies to treat major diseases».** El panorama de la ciencia de los carbohidratos cambió gracias a él.
 
-## Vacunas basadas en glicoproteínas: una nueva vía contra el cáncer
+## Vacunas de glucoproteínas: Una nueva ruta contra el cáncer
 
-La investigación aplicada de mayor impacto de Wong fue el desarrollo de vacunas contra el cáncer mediante tecnología de glicociencia.
+La investigación aplicada más destacada de Wong Chi-hui es el uso de la tecnología de química de carbohidratos para desarrollar vacunas contra el cáncer.
 
-La superficie de las células cancerosas presenta marcadores de glicoproteínas específicos (antígenos de azúcar) que difieren de los de las células normales. Si se pudieran sintetizar estos antígenos de azúcar y entrenar al sistema inmunitario para reconocerlos, en teoría se podría enseñar al cuerpo a atacar activamente las células cancerosas, logrando un efecto vacunal.
+Las células cancerosas tienen marcadores de glucoproteínas específicos (antígenos de azúcar) en su superficie que las diferencian de las células normales. Si se pueden sintetizar estos antígenos y enseñar al sistema inmunológico a reconocerlos, teóricamente se podría entrenar al cuerpo humano para atacar activamente las células cancerosas, logrando el efecto de una vacuna.
 
-Su laboratorio logró sintetizar con éxito múltiples antígenos de glicoproteínas asociados al cáncer de mama y de próstata, y demostró en ensayos con animales que estas moléculas sintéticas podían desencadenar respuestas inmunitarias efectivas. Esta vía tecnológica difiere de las actuales vacunas de ARNm y se enmarca en una dirección de inmunología molecular más clásica, pero su potencial sigue siendo altamente valorado por la comunidad internacional de investigación oncológica.
+Su laboratorio logró sintetizar diversos antígenos de glucoproteínas relacionados con el cáncer de mama y de próstata, demostrando en experimentos con animales que estas moléculas sintéticas pueden desencadenar una respuesta inmunitaria eficaz. Esta ruta tecnológica es distinta a las populares vacunas de ARNm; es un enfoque de inmunología molecular más clásico, pero su potencial sigue siendo altamente valorado por la comunidad internacional de investigación del cáncer.
 
-Antes de que estallara el caso OBI Pharma en 2016, Wong había publicado más de 600 artículos, con más de 40 000 citas, siendo uno de los investigadores más citados del mundo en el campo de la glicociencia.
+Antes de la explosión del caso OptiGene en 2016, Wong Chi-hui había publicado más de 600 artículos con más de 40.000 citas, siendo uno de los investigadores con mayor índice de citación en el campo de la química de carbohidratos a nivel mundial.
 
-## El Premio Wolf: el punto más cercano al Nobel
+## Premio Wolf: El punto más cercano al Nobel
 
-El discurso de premiación del Premio Wolf de Química de 2014 decía: "En reconocimiento a sus contribuciones pioneras en la química y la biología de los carbohidratos, así como a su investigación revolucionaria en el desarrollo de vacunas de glicoproteínas para el tratamiento del cáncer."
+La cita para la entrega del Premio Wolf de Química en 2014 decía: «En reconocimiento a sus contribuciones pioneras en la química y biología de los carbohidratos, así como a su investigación innovadora en el desarrollo de vacunas de glucoproteínas para el tratamiento del cáncer».
 
-El Premio Wolf (Wolf Prize) es otorgado por la Fundación Wolf de Israel y ocupa en el mundo científico un lugar solo por debajo del Premio Nobel, siendo considerado la "antesala del Nobel". Históricamente, el 70 % de los galardonados con el Premio Wolf en ciencias terminaron recibiendo el Nobel.
+El Premio Wolf (Wolf Prize) es otorgado por la Fundación Wolf de Israel y su prestigio en la comunidad científica es solo superado por el Premio Nobel, razón por la que se considera un "precursor del Nobel". Históricamente, el 70 % de los ganadores del Premio Wolf han recibido posteriormente el Nobel.
 
-En 2015, Wong recibió además el Premio Shaw en Ciencias de la Vida y Medicina (Shaw Prize), consolidando aún más su prestigio en la comunidad académica internacional.
+En 2015, Wong Chi-hui también recibió el Premio Shaw de Ciencias de la Vida y Medicina (Shaw Prize), consolidando aún más su posición en la comunidad académica internacional.
 
-Esos dos años representaron la convergencia del punto más alto de su carrera: los premios más importantes, el mayor reconocimiento académico y un grupo de miembros del comité Nobel esperando el momento oportuno.
+Esos dos años representaron la culminación de su carrera profesional: los premios más importantes, el mayor prestigio académico y un grupo de miembros del comité del Nobel esperando el momento oportuno.
 
-## El regreso a Taiwán: diez años de reforma en la Academia Sinica
+## Regreso a Taiwán: Diez años de reformas en la Academia Sinica
 
-En 2006, Wong aceptó la invitación del presidente 陳水扁 (Chen Shui-bian) para regresar a Taiwán y asumir la presidencia de la 中央研究院 (Academia Sinica).
+En 2006, Wong Chi-hui aceptó la invitación del presidente [Chen Shui-bian](/es/people/chen-shui-bian-controversial-president/) para regresar a Taiwán y asumir la dirección de la Academia Sinica.
 
-Para entonces ya era miembro de la Academia Nacional de Ciencias de Estados Unidos y de la Academia Estadounidense de Artes y Ciencias, y su posición en Scripps era sólida. Regresar a Taiwán no estuvo exento de costos: tuvo que ceder el liderazgo directo de su investigación, pasar de científico a líder administrativo y enfrentarse a las diversas limitaciones del sistema académico taiwanés.
+Para entonces, ya era miembro de la Academia Nacional de Ciencias de Estados Unidos y de la Academia de Artes y Ciencias de Estados Unidos, con una posición consolidada en Scripps. El regreso a Taiwán tuvo un coste: tuvo que dejar el liderazgo de su propia investigación para transformarse de científico en líder administrativo, enfrentándose además a las diversas limitaciones del sistema académico taiwanés.
 
-Pero eligió volver, argumentando que la investigación científica en Taiwán necesitaba a alguien con visión internacional para impulsarla.
+Sin embargo, decidió volver porque consideraba que la investigación científica en Taiwán necesitaba a alguien con visión internacional para impulsarla.
 
-Durante sus diez años como presidente (2006–2016), impulsó principalmente dos iniciativas:
+Durante sus diez años como director (2006–2016), impulsó principalmente dos objetivos:
 
-**Primero, elevar el nivel de investigación internacional de la Academia Sinica.** Durante su mandato, el ranking de citas de artículos SCI de la Academia Sinica pasó de sexto a tercer lugar en Asia. Reclutó activamente académicos extranjeros y estableció un sistema de contratación más flexible, de modo que los salarios y las condiciones de la Academia Sinica pudieran competir a nivel internacional.
+**Primero, elevar el nivel de investigación internacional de la Academia Sinica.** Durante su mandato, el ranking de citas de artículos SCI de la Academia Sinica subió del sexto al tercer lugar en Asia. Promovió activamente la llegada de académicos del extranjero y estableció un sistema de contratación más flexible para que los salarios y condiciones de la Academia pudieran competir internacionalmente.
 
-**Segundo, promover la cooperación industria-academia y la transferencia tecnológica.** Participó en la revisión de la Ley de Desarrollo de la Industria de Nuevos Medicamentos Biotecnológicos (生技新藥產業發展條例), estableciendo un marco en el que académicos, instituciones y empresas pudieran compartir legalmente los beneficios de la transferencia tecnológica. Su idea era que la investigación académica en Taiwán no debía limitarse a publicar artículos, sino que debía poder transformarse en industria para generar un verdadero valor para la sociedad.
+**Segundo, promover la cooperación entre la academia y la industria, así como la transferencia tecnológica.** Participó en la promoción de la revisión de la «Ley de Desarrollo de la Industria de Nuevos Fármacos Biotecnológicos», estableciendo un marco para que académicos, instituciones y empresas pudieran compartir legalmente los beneficios de la transferencia tecnológica. Su idea era que la investigación académica en Taiwán no podía limitarse a escribir artículos; debía poder transformarse en industria para generar un valor real para la sociedad.
 
-OBI Pharma fue un caso concreto de esta lógica de cooperación industria-academia.
+OptiGene Biopharma fue un caso concreto bajo esta lógica de cooperación entre academia e industria.
 
-## El caso OBI Pharma: una controversia que hizo retroceder al comité Nobel
+## El caso OptiGene: Una controversia que hizo retroceder a los miembros del Nobel
 
-En febrero de 2016, el nuevo fármaco contra el cáncer de mama de OBI Pharma, OBI-822, no alcanzó el estándar de eficacia predefinido en el ensayo de desenmascaramiento (unblinding). Cuando se conoció la noticia, las acciones de la empresa cayeron a la mitad en un solo día.
+En febrero de 2016, el nuevo fármaco contra el cáncer de mama de OptiGene, OBI-822, no alcanzó los estándares de eficacia previstos en un ensayo clínico ciego. Tras la noticia, las acciones de la empresa se desplomaron ese mismo día.
 
-Semanas después, los medios revelaron que la hija de Wong poseía un gran número de acciones de OBI Pharma, adquiridas a bajo precio antes del desenmascaramiento. La pregunta era inevitable: Wong era presidente de la Academia Sinica, cuya tecnología de glicociencia había sido licenciada a OBI Pharma; su hija poseía un paquete accionarial significativo en la empresa. ¿Existía un conflicto de intereses?
+Semanas después, los medios revelaron que la hija de Wong Chi-hui poseía una gran cantidad de acciones de OptiGene, adquiridas a bajo precio antes del desenlace del ensayo. Surgió entonces el problema: Wong Chi-hui era el director de la Academia Sinica, y la tecnología de química de carbohidratos de la Academia había sido licenciada a OptiGene; su hija poseía una parte importante de las acciones de dicha empresa. ¿Existía un intercambio de favores o tráfico de influencias?
 
-En marzo de 2016, Wong anunció su dimisión como presidente de la Academia Sinica.
+En marzo de 2016, Wong Chi-hui anunció su dimisión como director de la Academia Sinica.
 
-La fiscalía lo acusó de corrupción, alegando que había utilizado su cargo para obtener recursos de investigación para OBI Pharma y beneficiar a su hija. La Cámara de Control (監察院) aprobó un moción de destitución, determinando que había "abusado de su poder para obtener beneficios propios y para terceros, dañando gravemente la credibilidad del gobierno."
+El fiscal lo acusó de corrupción, alegando que utilizó su cargo de director para obtener recursos de investigación para OptiGene y permitir que su hija obtuviera beneficios. El Control Yuan aprobó un proceso de destitución (impeachment), determinando que «utilizó su poder para buscar intereses propios y ajenos, dañando gravemente la reputación del gobierno».
 
-Wong declaró en una conferencia de prensa: "Fue una mala interpretación del sistema de transferencia tecnológica y cooperación industria-academia lo que produjo este desafortunado resultado. Yo impulsé la ley de biotecnología, y resulta que la primera víctima fui yo."
+En una rueda de prensa, Wong Chi-hui declaró: «Esto es un malentendido sobre el sistema de transferencia tecnológica y de cooperación academia-industria, lo que ha dado lugar a este desafortunado resultado. Yo impulsé la Ley de Biotecnología, pero terminé siendo su primera víctima».
 
-Durante el desarrollo del caso, miembros del comité del Premio Nobel de Química tenían previsto viajar a Taiwán para visitarlo. Wong relató después que, al saber del plan, les pidió que lo cancelaran, ya que estaba siendo investigado y "en esa situación no era apropiado."
+Justo cuando estallaba el caso, los miembros del comité del Premio Nobel de Química tenían previsto visitarlo en Taiwán. Wong Chi-hui dijo posteriormente que sabía de este plan y les pidió proactivamente que lo cancelaran porque estaba bajo investigación: «En esa situación no era apropiado».
 
-📝 **Este episodio no fue solo la vivencia de una persona, sino una prueba pública para el mundo académico taiwanés en torno a la cooperación industria-academia.** El diseñador de una política de transferencia tecnológica fue procesado penalmente por la aplicación práctica de esa misma política, y el resultado fue que todos se volvieron más reacios a participar en transferencia tecnológica.
+📝 **Esto no fue solo la experiencia de un hombre, sino una prueba pública para la comunidad académica de Taiwán sobre la cooperación entre academia e industria.** Un diseñador de políticas destinado a promover la transferencia tecnológica terminó siendo procesado penalmente por la implementación de dicha política, lo que provocó que todos tuvieran más miedo de tocar la transferencia tecnológica.
 
-## 2019: sentencia de inocencia, reputación difícil de restaurar
+## 2019: Sentencia de inocencia, una reputación difícil de recuperar
 
-En 2019, el Tribunal de Distrito de Shilin (士林地方法院) declaró a Wong inocente.
+En 2019, el Tribunal de Distrito de Shilin declaró a Wong Chi-hui inocente.
 
-El tribunal determinó que las acciones de Wong no cumplían los elementos constitutivos del delito de corrupción: la adquisición de acciones de OBI Pharma por parte de su hija se realizó a través de mecanismos normales de transferencia tecnológica, sin intención subjetiva de obtener beneficios ilícitos.
+El tribunal determinó que las acciones de Wong Chi-hui no cumplían los requisitos del delito de corrupción: la adquisición de acciones de OptiGene por parte de su hija se realizó a través de mecanismos normales de transferencia tecnológica, sin una intención subjetiva de obtener beneficios ilícitos.
 
-El día que se conoció el veredicto, Wong emitió un comunicado cuya primera frase fue: "La justicia llegó, pero la reputación es difícil de recuperar. Espero que esto ponga punto final al asunto."
+El día de la sentencia, Wong Chi-hui emitió un comunicado cuya primera frase fue: «Aunque la justicia ha llegado, es difícil recuperar mi reputación; espero que esto ponga fin al asunto».
 
-Esta frase expuso una crueldad del sistema legal moderno: una sentencia de inocencia puede evitar que vayas a prisión, pero no puede restaurar lo que perdiste —la reputación de diez años como presidente de la Academia Sinica, y la oportunidad de que el comité Nobel hubiera viajado a Taiwán.
+Esta frase refleja una realidad cruel de los sistemas legales modernos: una sentencia de inocencia puede evitar que vayas a la cárcel, pero no puede devolverte lo que has perdido: la reputación de diez años como director de la Academia Sinica y la oportunidad de recibir la visita de los miembros del comité del Nobel.
 
-En 2021, con la renovación de la Cámara de Control, Wong presentó una apelación solicitando una revisión del caso de destitución, mencionando el Premio Nobel en su carta. Las personas cercanas a él dijeron que nunca había dejado de pensar en ello.
+En 2021, tras un cambio en la composición del Control Yuan, Wong Chi-hui presentó una petición para que se revisara el caso de destitución, mencionando el Premio Nobel en su escrito. Personas cercanas a él afirman que nunca ha podido dejar atrás este asunto.
 
-## El impacto continuo de la glicociencia
+## El impacto continuo de la química de carbohidratos
 
-Los resultados de la investigación de Wong no desaparecieron por la controversia.
+Los resultados de la investigación de Wong Chi-hui no desaparecieron con la controversia.
 
-La plataforma de glicociencia que estableció en Scripps sigue siendo uno de los centros más importantes de investigación en glicociencia del mundo. Las técnicas de síntesis que desarrolló se utilizan ampliamente en el desarrollo de nuevos fármacos, la investigación de vacunas contra el cáncer y la preparación de reactivos de diagnóstico. Los estudiantes de doctorado y becarios postdoctorales que formó se encuentran hoy en Harvard, Stanford, MIT y otras universidades de élite, continuando la vanguardia de la glicociencia.
+La plataforma de química de carbohidratos que estableció en Scripps sigue siendo hoy uno de los centros más importantes del mundo para la investigación en ciencia de los carbohidratos. Las técnicas de síntesis que desarrolló se utilizan ampliamente en el desarrollo de nuevos fármacos, la investigación de vacunas contra el cáncer y la preparación de reactivos de diagnóstico. Los doctorandos y posdoctorados que formó se encuentran hoy en instituciones de élite como Harvard, Stanford y el MIT, continuando la vanguardia de la química de carbohidratos.
 
-El Premio Shaw en Ciencias de la Vida y Medicina de 2015 y el Premio Tetrahedron de Innovación en Síntesis Orgánica (Tetrahedron Prize) de 2022 fueron otorgados después del caso OBI Pharma, y ambos se encuentran entre los máximos honores del mundo químico. Su carrera investigadora no terminó por la controversia.
+Tanto el Premio Shaw de Ciencias de la Vida y Medicina en 2015 como el Premio a la Innovación en Síntesis Orgánica Tetraédrica (Tetrahedron Prize) en 2022 fueron otorgados después del caso OptiGene, siendo ambos uno de los máximos honores en el campo de la química. Su carrera investigadora no terminó debido a la controversia.
 
-Wong declaró una vez: "Yo nunca he pensado en los premios… son cosas externas. Que alguien te reconozca te hace feliz, pero obsesionarse con los premios impide hacer buena investigación."
+Wong Chi-hui llegó a decir: «Nunca he pensado en los premios... son cosas externas. Si recibes reconocimiento, te alegras, pero si solo piensas en los premios, la investigación acaba por no salir bien».
 
-El Premio Nobel no llegó. Pero la glicociencia, gracias a él, cambió los límites de lo posible en el desarrollo farmacéutico. Esa contribución no necesita un premio para ser confirmada: ya continúa reaccionando en los tubos de ensayo de innumerables laboratorios.
+El Premio Nobel no llegó. Pero gracias a él, la química de carbohidratos cambió los límites de las posibilidades en el desarrollo de fármacos. Ese aporte no necesita un premio para ser confirmado; ya continúa reaccionando en los tubos de ensayo de innumerables laboratorios.
 
 ## Referencias
 
-- [Chi-Huey Wong - Wikipedia (inglés)](https://en.wikipedia.org/wiki/Chi-Huey_Wong) (compilación de fuentes primarias)
-- [2014 Wolf Prize in Chemistry - Scripps Research (primaria)](https://www.scripps.edu/news-and-events/press-room/2014/20140124wong.html)
-- [此刻最接近諾貝爾獎的台灣人 - Harvard Business Review Taiwán](https://www.hbrtaiwan.com/article/24367/chi-huey-wong) (reportaje en profundidad de 2025)
-- [翁啟惠前年自曝：諾獎委員來台喊卡 - United Daily News](https://udn.com/news/story/10732/5332510)
-- [監察院彈劾公告 (primaria)](https://www.cy.gov.tw/News_Content.aspx?n=124&sms=8912&s=8090)
-- [2022 Tetrahedron Prize - Scripps Research (primaria)](https://www.scripps.edu/news-and-events/press-room/2022/20220722-wong-tetrahedron.html)
+- [Chi-Huey Wong - Wikipedia (en inglés)](https://en.wikipedia.org/wiki/Chi-Huey_Wong) (Recopilación de fuentes primarias)
+- [2014 Wolf Prize in Chemistry - Scripps Research (Fuente primaria)](https://www.scripps.edu/news-and-events/press-room/2014/20140124wong.html)
+- [El taiwanés más cercano al Premio Nobel en este momento - Harvard Business Review Taiwan (Edición taiwanesa)](https://www.hbrtaiwan.com/article/24367/chi-huey-wong) (Reportaje profundo de 2025)
+- [Wong Chi-hui reveló hace dos años: La visita de los miembros del Nobel a Taiwán fue cancelada - United Daily News](https://udn.com/news/story/10732/5332510)
+- [Anuncio de destitución del Control Yuan (Fuente primaria)](https://www.cy.gov.tw/News_Content.aspx?n=124&sms=8912&s=8090)
+- [2022 Tetrahedron Prize - Scripps Research (Fuente primaria)](https://www.scripps.edu/news-and-events/press-room/2022/20220722-wong-tetrahedron.html)
