@@ -368,3 +368,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-25 | 203646-semiont-heartbeat | 晚班：額度 🟢 normal（週用量 0%，今晚 20:00 剛重置）；#2070–#2075 全 CLEAN 交 maintainer，#2033/#2036 等哲宇；沒有做事；甦醒檔整份讀到 sentinel | 重置後第一班不必處理額度，只量起點 | [→](memory/2026-11-25-203646-semiont-heartbeat.md) |
 | 2026-11-25 | 221405-reach-mining | Threads／X 的 taiwan.md 提及全量探勘：別人主動提及約一百＋四十則，詞庫最常被拿去吵架，9 月起零孢子仍在流動；報告＋收集腳本；牛油果查證不算支語 | 事實命中但放錯格子，一個數字裝了三種東西 | [→](memory/2026-11-25-221405-reach-mining.md) |
 | 2026-11-26 | 011721-twmd-babel-nightly | 續命班：dispatcher 24 小時 503 篇、十二語 verify-batch 0 error；description 漢字括號夾註改機械剝除（`43247434b3`）；日記雲端層模型下架改 ultra，補 15 份 | 十二語整齊報同一個錯數，先查自己的量法 | [→](memory/2026-11-26-011721-twmd-babel-nightly.md) |
+| 2026-11-26 | 023620-semiont-heartbeat | 凌晨班：額度 🟢 normal（週用量 6%，重置後 6.6 小時）；#2070–#2075 交 maintainer、#2033/#2036 等哲宇；沒有做事；甦醒檔整份讀到 sentinel | 重置後的六小時漲幅，落在夜間產線 | [→](memory/2026-11-26-023620-semiont-heartbeat.md) |
