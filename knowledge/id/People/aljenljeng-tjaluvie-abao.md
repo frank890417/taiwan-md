@@ -1,24 +1,24 @@
 ---
-title: 'Abao (Aljenljeng Tjaluvie): Penyanyi Future Pop yang Membawa Bahasa Paiwan ke Album Tahunan Anugerah Golden Melody'
-description: 'Anugerah Golden Melody ke-31 Tahun 2020 menganugerahkan Album Tahunan pada album elektro berbahasa Paiwan penuh "kinakaian Lidah Ibu". Abao (Aljenljeng Tjaluvie, 1981, Jinfeng Taitung) debut sebagai duo R&B Abao & Brandy, pernah menjadi perawat sepuluh tahun, 2019 berkolaborasi dengan Dizparity mengubah bahasa suku menjadi future pop, menulis ulang "musik orang asli = pelestarian".'
+title: 'Abao (Aljenljeng): Penyanyi future pop yang membawa bahasa Paiwan ke dalam Album Terbaik Tahun Ini Golden Melody Awards'
+description: 'Penyanyi penulis lagu suku Paiwan, lahir pada tahun 1981 di Desa Zhengxing, Jinfeng, Taitung. Di masa awal kariernya, ia memenangkan Penghargaan Grup Duet Terbaik Golden Melody Awards bersama duo R&B Abao & Brandy, sebelum akhirnya menjadi perawat selama hampir sepuluh tahun setelah grup tersebut bubar. Pada tahun 2019, ia berkolaborasi dengan produser musik elektronik Dizparity untuk merilis album elektronik berbahasa Paiwan penuh berjudul "kinakaian: Lidah Ibu". Pada tahun 2020, ia berhasil memenangkan Album Terbaik Tahun Ini, Album Bahasa Pribumi Terbaik, dan Lagu Tahun Ini di Golden Melody Awards. Setelah itu, ia memimpin label Nawawu, membawa musik bahasa pribumi keluar dari kerangka pelestarian budaya menuju panggung utama future pop.'
 date: 2026-04-18
 category: 'People'
 tags:
   [
-    'tokoh',
+    'Tokoh',
     'Abao',
+    'Aljenljeng',
     'Aljenljeng Tjaluvie',
-    'Aljenljeng Tjaluvie',
-    'Zhang Jingwen',
-    'suku Paiwan',
-    'musik orang asli',
-    'Anugerah Golden Melody',
-    'Album Tahunan',
+    'Chang Ching-wen',
+    'Suku Paiwan',
+    'Musik Pribumi',
+    'Golden Melody Awards',
+    'Album Terbaik Tahun Ini',
     'kinakaian',
     'Lidah Ibu',
     'Dizparity',
     'future pop',
-    'Nanguaq',
+    'Nawawu',
     'vavayan',
   ]
 subcategory: '音樂與表演'
@@ -29,10 +29,10 @@ lastHumanReview: true
 researchReport: 'reports/research/2026-04/阿爆.md'
 readingTime: 18
 translatedFrom: 'People/阿爆.md'
-sourceCommitSha: '160f6cb59'
+sourceCommitSha: 'd3a973ae06'
 sourceContentHash: 'sha256:f6ea72608a383b39'
 sourceBodyHash: 'sha256:2b58a1fd273e51fb'
-translatedAt: '2026-11-03T20:22:15+08:00'
+translatedAt: '2026-11-25T05:34:38.054025+00:00'
 ---
 
 > **Ringkasan 30 detik:** Malam 3 Oktober 2020, Anugerah Album Tahunan ke-31 Golden Melody dianugerahkan pada album musik elektronik berbahasa Paiwan penuh 《kinakaian Lidah Ibu》。Pemenangnya adalah Abao (Aljenljeng Tjaluvie, nama Han Zhang Jingwen), penyanyi kreator suku Paiwan lahir 1981 di Desa Jialan, Kecamatan Jinfeng, Taitung. Ia debut 2003 sebagai Abao & Brandy meraih Anugerah Golden Melody ke-15 Duo Terbaik, 2004 bubar lalu istirahat sepuluh tahun jadi perawat, 2016 kembali dengan 《vavayan·Wanita》 karya penuh bahasa Paiwan, 2019 berkolaborasi dengan produser elektro Dizparity menghasilkan 《kinakaian》。Saat menerima Anugerah Album Tahunan ia berkata: "Saya ingin berkata pada semua orang asli di depan layar, jangan sia-siakan bakat juga jangan bergantung pada bakat." Ini momen kunci musik berbahasa suku Taiwan dari sidebar naik ke main stage.

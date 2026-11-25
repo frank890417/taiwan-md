@@ -1,6 +1,6 @@
 ---
-title: 'Chen Sihong: Dari Yongjing Lari ke Berlin, Ternyata Selalu Dikejar oleh Kampung Halaman'
-description: 'Dia menghabiskan lebih dari dua puluh tahun melarikan diri dari Yongjing, Changhua, namun di Berlin dan jarak dengan dunia, ia menuliskan kembali keluarga, gender, tubuh, dan kampung halaman yang tak mau hilang.'
+title: 'Chen Sihong: Penulis yang Melarikan Diri dari Yongjing ke Berlin, Namun Selalu Terkejar oleh Kampung Halamannya'
+description: 'Lahir pada tahun 1976 di keluarga petani di Yongjing, Changhua, ia adalah anak kesembilan dengan tujuh kakak perempuan dan satu kakak laki-laki. Lulus dari Departemen Bahasa Inggris Universitas Fu Jen dan Program Pascasarjana Studi Teater Universitas Nasional Taiwan, ia berangkat ke Berlin pada tahun 2004 sebagai koresponden televisi, membawa aktivitas menulis, menerjemahkan, dan pertunjukan ke dalam tahun-tahunnya di Eropa. Novelnya yang berjudul "Ghost Place" (Gui Di Fang) yang diterbitkan pada tahun 2019 menjadikan Yongjing sebagai lanskap inti, memenangkan Penghargaan Sastra Klasik Taiwan dan Penghargaan Jin Ding, serta versi terjemahan bahasa Inggrisnya terpilih dalam daftar buku musim gugur New York Times dengan hak cipta yang terjual dalam dua belas bahasa. Di satu sisi ia melarikan diri dari kampung halamannya, di sisi lain ia menuliskan tentang Yongjing, keluarga, gender, dan tubuh ke dalam novel-novelnya.'
 date: 2026-09-03
 category: 'People'
 tags:
@@ -9,8 +9,8 @@ tags:
     'Sastra Taiwan',
     'Yongjing',
     'Berlin',
-    'Sastra LGBT',
-    'Ghost Town',
+    'Sastra LGBTQ+',
+    'Ghost Place',
   ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
@@ -20,10 +20,10 @@ lastHumanReview: false
 readingTime: 9
 curation: 'incubating'
 translatedFrom: 'People/陳思宏.md'
-sourceCommitSha: '8730173b1'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:614611394f0bdd05'
 sourceBodyHash: 'sha256:aa5e5b4b6a3ee873'
-translatedAt: '2026-09-10T07:58:49+08:00'
+translatedAt: '2026-11-25T05:44:43.631476+00:00'
 ---
 
 ![Peta lokasi Kecamatan Yongjing, Kabupaten Changhua, Wikimedia Commons, penulis Essolo, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/d/d9/Tw_yj_map.png)

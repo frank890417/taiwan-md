@@ -1,10 +1,9 @@
 ---
-title: 'Mimpi Ku: Dari Lensa Orang Asing Menjadi Program yang Dipahami Dunia oleh Taiwan'
-description: 'Ku, seorang Prancis yang kembali ke Taiwan pada tahun 2017 dan berkarya penuh waktu pada tahun 2018, mengembangkan tantangan makanan dan bahasa Mandarin menjadi program realitas "Monster Bahasa Mandarin" (中文怪物); dengan 100 orang asing dan biaya produksi 5 juta Dolar Taiwan, tontonan lintas budaya ini menjadi studi kasus metode produksi dan tanggung jawab di Taiwan.'
+title: 'Ku de Meng: Dari Lensa Orang Asing, Menjadi Program Taiwan yang Dimengerti Dunia'
+description: 'Seorang YouTuber kelahiran Nancy, Prancis, yang kembali ke Taiwan pada tahun 2017 dan beralih menjadi kreator penuh waktu setahun kemudian. Ia awalnya merekam makanan Taiwan, siswa SMA Prancis, pelatihan militer, hingga tantangan keliling pulau, lalu mengubah konsep "Bahasa Mandarin yang bahkan orang Taiwan pun tidak mengerti" menjadi program realitas enam episode berjudul "Chinese Monster" pada tahun 2025: seratus warga asing di Taiwan memperebutkan hadiah NT$300.000 dengan biaya produksi sekitar NT$5 juta, di mana episode pertamanya menembus 2 juta penayangan dalam dua hari. Pada tahun 2023, ia memperoleh kartu izin tinggal tetap, bertransformasi dari "orang Prancis yang tinggal di Taiwan" menjadi individu yang harus tunduk pada aturan publik; setelah programnya meledak, isu perlindungan peserta, kerja tim, dan tanggung jawab kreator pun turut mencuat ke permukaan.'
 date: 2026-08-16
 category: 'People'
-tags:
-  ['Mimpi Ku', 'Ku', 'YouTube', 'Monster Bahasa Mandarin', 'Pertukaran Budaya']
+tags: ['Ku de Meng', 'Ku', 'YouTube', 'Chinese Monster', 'Pertukaran Budaya']
 subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -13,23 +12,23 @@ lastHumanReview: false
 readingTime: 9
 curation: 'incubating'
 translatedFrom: 'People/酷的夢.md'
-sourceCommitSha: '28b28be35'
-sourceContentHash: 'sha256:d5d2732779427fb1'
-sourceBodyHash: 'sha256:ba64b4515c6095ff'
-translatedAt: '2026-09-19T01:37:24+08:00'
+sourceCommitSha: '1a696c19ef'
+sourceContentHash: 'sha256:ae3880552031079b'
+sourceBodyHash: 'sha256:bd29874de3910fe0'
+translatedAt: '2026-11-25T05:20:51.082289+00:00'
 ---
 
-# Mimpi Ku: Dari Lensa Orang Asing Menjadi Program yang Dipahami Dunia oleh Taiwan
+# Mimpi Ku: Dari Lensa Orang Asing, Menjadi Program yang Dapat Dimengerti Dunia tentang Taiwan
 
-> **Ringkasan Tiga Puluh Detik**: Ku adalah seorang YouTuber yang lahir di Nancy, Prancis, dan lama tinggal di Taiwan. Ia kembali ke Taiwan pada tahun 2017 dan beralih menjadi kreator penuh waktu pada tahun 2018. Awalnya ia merekam makanan Taiwan, mahasiswa SMA Prancis, pelatihan militer, dan tantangan keliling pulau dari sudut pandang orang asing. Kemudian, ia mengembangkan "Bahasa Mandarin yang bahkan tidak dimengerti oleh orang Taiwan" menjadi program realitas enam episode berjudul _Monster Bahasa Mandarin_ (中文怪物) pada tahun 2025. Program ini mengundang 100 orang asing di Taiwan untuk bersaing memperebutkan hadiah uang tunai sebesar 300.000 Dolar Taiwan, dengan biaya produksi sekitar 5 juta Dolar Taiwan; episode pertama mencatat lebih dari 2 juta penayangan dalam dua hari. Kisah Ku layak dibaca, bukan hanya karena ia membuat Taiwan populer secara internasional, tetapi juga karena ia memaksa Taiwan untuk merenungkan: ketika orang asing belajar bahasa Mandarin, apakah kita benar-benar mendorong mereka, atau justru selalu menempatkan mereka pada posisi tamu?[^1] [^2] [^3] [^15]
+> **Ringkasan 30 Detik**: Ku adalah seorang YouTuber kelahiran Nancy, Prancis, yang telah lama tinggal di Taiwan; ia kembali ke Taiwan pada tahun 2017 dan menjadi kreator konten penuh waktu pada tahun 2018. Ia memulai dengan menggunakan perspektif orang asing untuk merekam makanan Taiwan, siswa SMA Prancis, pelatihan militer, hingga tantangan berkeliling pulau, sebelum akhirnya mengembangkan konsep "Bahasa Mandarin yang bahkan orang Taiwan pun tidak mengerti" menjadi program realitas enam episode berjudul 《Monster Bahasa Mandarin》 pada tahun 2025. Program ini mengundang 100 orang asing di Taiwan untuk memperebutkan hadiah sebesar NT$300.000, dengan biaya produksi sekitar NT$5 juta, dan episode pertamanya menembus 2 juta penayangan dalam dua hari. Kisah Ku layak dibaca bukan hanya karena ia membuat Taiwan menjadi populer, tetapi karena ia membuat Taiwan berpikir ulang: saat orang asing belajar bahasa Mandarin, apakah kita benar-benar mendorong mereka, atau justru membiarkan mereka selamanya berada di posisi sebagai "tamu"? [^1] [^2] [^3] [^15]
 
-| Pertanyaan Kunci                              | Jawaban Singkat                                                                                                                                           |
-| --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Siapa Ku?                                     | Kreator yang lahir di Nancy, Prancis, pernah belajar di Korea, kembali ke Taiwan pada tahun 2017, dan menjadi YouTuber penuh waktu pada tahun 2018.[^4]   |
-| Apa yang ia lakukan?                          | Dari kuliner Taiwan, mahasiswa SMA Prancis, pelatihan militer, hingga tantangan keliling pulau, menuju program kompetisi bahasa Mandarin skala besar.[^5] |
-| Apa itu _Monster Bahasa Mandarin_ (中文怪物)? | Kompetisi realitas bahasa Mandarin bagi 100 orang asing di Taiwan; hadiah juara 300.000 Dolar Taiwan; total 6 episode.[^1]                                |
-| Mengapa ini penting?                          | Ini mengubah tontonan budaya orang asing menjadi metode produksi dan isu industri program daring Taiwan.                                                  |
-| Apa yang tidak boleh diabaikan?               | Semakin besar popularitas program, semakin perlu pengujian terhadap perlindungan peserta, kerja tim, dan tanggapan kreator.[^6] [^7]                      |
+| Pertanyaan Kunci                     | Jawaban Singkat                                                                                                                                              |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Siapa itu Ku?                        | Kreator kelahiran Nancy, Prancis, yang pernah menempuh studi di Korea, kembali ke Taiwan pada 2017, dan menjadi YouTuber penuh waktu pada 2018. [^4]         |
+| Apa saja yang telah ia buat?         | Mulai dari kuliner Taiwan, siswa SMA Prancis, pelatihan militer, dan tantangan berkeliling pulau, hingga program kompetisi bahasa Mandarin skala besar. [^5] |
+| Apa itu 《Monster Bahasa Mandarin》? | Kompetisi realitas bahasa Mandarin bagi 100 orang asing di Taiwan, dengan hadiah juara sebesar NT$300.000, terdiri dari total 6 episode. [^1]                |
+| Mengapa ini penting?                 | Program ini mengubah cara pandang budaya orang asing menjadi metode produksi program internet Taiwan dan isu industri.                                       |
+| Apa yang tidak boleh diabaikan?      | Semakin besar popularitas program, semakin penting untuk menguji perlindungan peserta, kondisi kerja tim, dan respons kreator. [^6] [^7]                     |
 
 ## Melihat Satu Orang, Lalu Sebuah Kanal
 
@@ -175,36 +174,36 @@ Ini mungkin adalah bagian dari kisah Ku yang paling tidak menyerupai promosi par
 
 ## Referensi
 
-[^1]: [Radio Taiwan International: French YouTuber “Ku” to test foreigners’ Mandarin skills in large competition](https://www.rti.org.tw/en/news?uid=3&pid=124879) — Liputan berbahasa Inggris tahun 2025, menjelaskan skala peserta _Monster Bahasa Mandarin_, hadiah, tujuan program, dan pernyataan publik Ku tentang pembelajaran bahasa lintas budaya.
+[^1]: [Radio Taiwan International: YouTuber Prancis “Ku” akan menguji kemampuan bahasa Mandarin orang asing dalam kompetisi besar](https://www.rti.org.tw/en/news?uid=3&pid=124879) — Laporan berita berbahasa Inggris tahun 2025 yang menjelaskan skala peserta, hadiah, tujuan program, dan pernyataan terbuka Ku mengenai pembelajaran bahasa lintas budaya.
 
-[^2]: [VOGUE Taiwan: Wawancara Mendalam dengan Mimpi Ku: Masa Depan Video Panjang Melalui YouTube](https://www.vogue.com.tw/article/kus-dream-interview) — Wawancara tahun 2025 yang memberikan kutipan langsung dari Ku mengenai produksi program, menumpang mobil, pembelajaran bahasa Mandarin, serangan penonton, perbedaan gender, dan arah kreasi di masa depan.
+[^2]: [VOGUE Taiwan: Wawancara Eksklusif Mimpi Ku: Menggunakan YouTube untuk Membuat Video Berdurasi Panjang di Masa Depan](https://www.vogue.com.tw/article/kus-dream-interview) — Wawancara eksklusif Desember 2025, menyediakan kutipan langsung dari Ku mengenai produksi program, menumpang (hitchhiking), pembelajaran bahasa Mandarin, serangan penonton, perbedaan gender, dan arah kreasi masa depan.
 
-[^3]: [United News Agency: Berani Berpetualang untuk Menembus Batas Evolusi Kreasi YouTube "Mimpi Ku" menjadi Program](https://www.worldjournal.com/wj/story/122160/9617655) — Wawancara tokoh tahun 2026 yang merinci penentuan awal kanal, skala produksi program, metode narasi di lokasi, perbandingan lingkungan produksi YouTube Taiwan-Prancis, dan pandangan Ku tentang kualitas versus lalu lintas.
+[^3]: [World News Network: Berani Bertualang untuk Menembus Batas; "Mimpi Ku" Mengarahkan Kreasi YouTube Menjadi Format Program](https://www.worldjournal.com/wj/story/122160/9617655) — Wawancara tokoh tahun 2026, merinci penentuan posisi kanal di masa awal, skala produksi program, metode narasi langsung, perbandingan lingkungan produksi YouTube antara Taiwan dan Prancis, serta pandangan Ku mengenai kualitas dan trafik.
 
-[^4]: [Wikipedia: Ku (YouTuber)](https://zh.wikipedia.org/zh-hant/%E9%85%B7_%28YouTuber%29) — Entri ensiklopedia.
+[^4]: [Wikipedia: Ku (YouTuber)](https://zh.wikipedia.org/zh-hant/%E9%85%B7_%28YouTuber%29) — Entri Wikipedia
 
-[^5]: [VERSE: Sebelum _Monster Bahasa Mandarin_, Bagaimana "Mimpi Ku" Mengeksplorasi Budaya Taiwan dan Mengubah Program Daring YouTube?](https://www.verse.com.tw/article/kusdream-global-mandarin-challenge) — Liputan budaya tahun 2025, mengumpulkan seri kuliner, mahasiswa SMA Prancis, tantangan militer, dan keliling pulau, menjelaskan bagaimana _Monster Bahasa Mandarin_ berkembang dari alur konten yang ada.
+[^5]: [VERSE: Sebelum "Monster Bahasa Mandarin", Bagaimana "Mimpi Ku" Mengeksplorasi Budaya Taiwan dan Menulis Ulang Program Internet YouTube?](https://www.verse.com.tw/article/kusdream-global-mandarin-challenge) — Laporan budaya tahun 2025, merangkum seri kuliner, siswa SMA Prancis, tantangan militer, dan tur keliling pulau, menjelaskan bagaimana "Monster Bahasa Mandarin" berkembang dari lini konten yang sudah ada.
 
-[^6]: [United News Agency Berteriak! Star News: Mantan Karyawan "Mimpi Ku" Mengungkap Rahasia Kerja](https://stars.udn.com/star/story/120661/9423072) — Liputan April 2026, mengumpulkan pengumuman rekrutmen dan pernyataan publik mantan karyawan; artikel ini secara eksplisit menandai konten tersebut sebagai tuduhan dan pernyataan pihak terkait, tidak menyamakan isi laporan dengan penilaian yudisial atau administratif.
+[^6]: [UDN News Shu! Star: Mantan Karyawan "Mimpi Ku" Mengungkap Rahasia Internal Pekerjaan](https://stars.udn.com/star/story/120661/9423072) — Laporan April 2026, merangkum pengumuman rekrutmen dan pernyataan terbuka mantan karyawan; artikel ini secara eksplisit menandainya sebagai tuduhan dan pernyataan pihak terkait, tidak menyamakan isi laporan secara langsung dengan penetapan otoritas hukum atau administratif.
 
-[^7]: [Mimpi Ku Ku's Dream: Penjelasan Publik Threads 8 April 2026](https://www.threads.com/@kudream/post/DW3qlhYlJ5N/) — Tanggapan publik langsung dari kreator, termasuk koreksi jaminan sosial, penyangkalan pernyataan terkait, permintaan maaf atas penggunaan kata dalam teks rekrutmen, dan penjelasan mengenai kontak kerja serta serah terima file; artikel ini juga mempertahankan perbedaan antara pernyataannya dan mantan karyawan.
+[^7]: [Ku's Dream: Penjelasan Terbuka di Threads pada 8 April 2026](https://www.threads.com/@kudream/post/DW3qlhYlJ5N/) — Tanggapan terbuka langsung dari kreator itu sendiri, mencakup koreksi asuransi, penyangkalan pernyataan terkait, permintaan maaf atas penggunaan kata dalam pengumuman rekrutmen, serta penjelasan mengenai kontak kerja dan serah terima berkas; artikel ini juga mempertahankan perbedaan antara pernyataannya dengan pernyataan mantan karyawan.
 
-[^8]: [United Daily News: 7-ELEVEN Kolaborasi "Ku's dream Mimpi Ku" Meluncurkan 5 Makanan Lezat Ubi Jalar](https://money.udn.com/money/story/10871/8237876) — Liputan kolaborasi merek tahun 2024, memberikan data spesifik tentang perluasan citra ubi jalar Ku ke produk kolaborasi minimarket, menjelaskan bagaimana preferensi pribadi berubah menjadi konten merek.
+[^8]: [United Daily News: Kolaborasi 7-ELEVEN "Ku's Dream" Luncurkan 5 Jenis Kuliner Talas yang Menenangkan](https://money.udn.com/money/story/10871/8237876) — Laporan kolaborasi merek tahun 2024, menyediakan data spesifik mengenai bagaimana citra talas dari Ku diperluas ke produk kolaborasi minimarket, menjelaskan bagaimana preferensi pribadi diubah menjadi konten merek.
 
-[^9]: [The World Magazine: Ledakan _Monster Bahasa Mandarin_! Selebriti Prancis Ku Menguji Kemampuan Bahasa Mandarin 100 Orang Asing](https://www.cw.com.tw/article/5137595) — Liputan mendalam September 2025, memberikan data penayangan 2 juta dalam dua hari pertama, pertumbuhan lalu lintas hampir 350%, materi 17 TB, 17 kamera, durasi program, tekanan tim, dan perbedaan model produksi YouTube/TV.
+[^9]: [CommonWealth Magazine: "Monster Bahasa Mandarin" Meledak! Influencer Prancis Ku Membawa 100 Orang Asing Bertanding Bahasa Mandarin](https://www.cw.com.tw/article/5137595) — Laporan mendalam September 2025, menyediakan data mengenai 2 juta penayangan dalam dua hari untuk episode pertama, pertumbuhan trafik hampir 350%, 17TB materi, 17 kamera, durasi program, tekanan tim, dan perbedaan antara model produksi YouTube dengan televisi.
 
-[^10]: [United News Agency Berteriak! Star News: YouTuber Ku Menghabiskan 5 Juta Dolar untuk Membuat "Monster Bahasa Mandarin"](https://stars.udn.com/star/story/120661/9019138) — Liputan September 2025, mengumpulkan 100 peserta, biaya produksi 5 juta Dolar Taiwan, hadiah 300.000 Dolar Taiwan, dan deskripsi diri Ku dari kreator individu menjadi sutradara utama skala besar.
+[^10]: [UDN News Shu! Star: YouTuber Ku Mengeluarkan NT$5 juta untuk Membangun "Monster Bahasa Mandarin"](https://stars.udn.com/star/story/120661/9019138) — Laporan September 2025, merangkum 100 peserta, biaya produksi NT$5 juta, hadiah NT$300.000, dan deskripsi diri Ku saat bertransformasi dari kreator individu menjadi sutradara produksi skala besar.
 
-[^11]: [Fo Jen University: Selamat! Mahasiswa Qiu Zhenting dari Fakultas Bahasa Prancis Memenangkan Proyek Mimpi Sejuta Dolar Youtuber Prancis "Ku's dream Mimpi Ku"](https://www.fju.edu.tw/newsDetail.jsp?newsID=6591) — Siaran pers universitas tahun 2021, mencatat proyek mimpi pemuda Taiwan-Prancis dan terpilihnya Qiu Zhenting, memberikan sumber institusional langsung tentang perluasan pertukaran budaya oleh Ku ke proyek pendanaan lintas negara.
+[^11]: [Universitas Fu Jen: Selamat! Mahasiswa Chiu Chen-ting dari Departemen Bahasa Prancis Memenangkan Proyek Mimpi Satu Juta dari YouTuber Prancis "Ku's Dream"](https://www.fju.edu.tw/newsDetail.jsp?newsID=6591) — Siaran pers universitas tahun 2021, mencatat rencana perwujudan mimpi pemuda Taiwan-Prancis dan informasi terpilihnya Chiu Chen-ting, menyediakan sumber institusi langsung mengenai bagaimana Ku memperluas pertukaran budaya ke dalam proyek pendanaan lintas negara.
 
-[^12]: [Mimpi Ku Ku's Dream Facebook: Proyek Sejuta Dolar Mimpi Ku / 1 MILLION PROJECT](https://www.facebook.com/kuudream/videos/%E9%85%B7%E7%9A%84%E5%A4%A2100%E8%90%AC%E4%BC%81%E7%95%AB-1-million-project/151845613419523/) — Halaman video resmi Facebook tahun 2021, menyimpan rekrutmen dan penjelasan publik tentang proyek mimpi sejuta dolar, sebagai rekaman visual primer dari konten proyek.
+[^12]: [Ku's Dream Facebook: Proyek 1 Juta Mimpi Ku / 1 MILLION PROJECT](https://www.facebook.com/kuudream/videos/%E9%85%B7%E7%9A%84%E5%A4%A2100%E8%90%AC%E4%BC%81%E7%95%AB-1-million-project/151845613419523/) — Halaman video resmi Facebook tahun 2021, mempertahankan rekrutmen dan penjelasan terbuka dari proyek mimpi satu juta sebagai rekaman video langsung dari konten proyek tersebut.
 
-[^13]: [Mirror News: YTR Prancis "Ku" Mendapat Izin Tinggal Permanen! Puji "Taiwan Memiliki Rasa Kepemilikan"](https://www.mnews.tw/story/20231113nm009) — Liputan tahun 2023 yang memberikan informasi publik tentang Ku memperoleh izin tinggal permanen Republik Tiongkok (Taiwan), menjelaskan titik waktu keterkaitan hidup dan statusnya dengan Taiwan.
+[^13]: [Mirror News: YouTuber Prancis dengan Jutaan Subscriber "Ku" Mendapatkan Kartu Izin Tinggal Tetap! Memuji "Taiwan Memberikan Rasa Memiliki"](https://www.mnews.tw/story/20231113nm009) — Laporan tahun 2023 mengenai informasi publik tentang Ku yang memperoleh izin tinggal tetap Republik Tiongkok, menjelaskan titik waktu keterkaitannya dengan kehidupan jangka panjang dan identitas di Taiwan.
 
-[^14]: [Mimpi Ku Ku's Dream: Kanal Resmi YouTube](https://www.youtube.com/@Kusdream/videos) — Halaman video resmi kanal, dapat digunakan untuk memverifikasi nama kanal, judul program, thumbnail publik, dan konteks karya; artikel ini tidak menyimpulkan jumlah pelanggan atau penayangan berdasarkan halaman kanal tanpa tanggal.
+[^14]: [Ku's Dream: Saluran Resmi YouTube](https://www.youtube.com/@Kusdream/videos) — Halaman video langsung saluran tersebut, dapat digunakan untuk memverifikasi nama saluran, judul program, thumbnail publik, dan konteks karya; artikel ini tidak menyimpulkan jumlah subscriber atau penayangan secara mandiri dari halaman saluran yang tidak mencantumkan tanggal.
 
-[^15]: [City View Academia: Orang Asing Belajar Bahasa Mandarin Sering "Dikesampingkan"? Jarak Baik dari _Monster Bahasa Mandarin_ Ku's Dream Menyimpan Niat Baik Orang Taiwan](https://city.gvm.com.tw/article/131409) — Liputan Juli 2026, melengkapi total penayangan program, lisensi Hami, kualifikasi Golden Bell, perencanaan musim kedua, dan pernyataan Ku tentang "niat baik yang menciptakan jarak."
+[^15]: [Vision City Studies: Orang Asing Belajar Bahasa Mandarin Sering "Dikucilkan"? Program "Monster Bahasa Mandarin" milik Influencer Jutaan Subscriber Ku Menyimpan Jarak Kebaikan Orang Taiwan](https://city.gvm.com.tw/article/131409) — Laporan Juli 2026, menambahkan informasi mengenai akumulasi penayangan program, lisensi Hami, kualifikasi Golden Bell, perencanaan musim kedua, serta pernyataan Ku mengenai "kebaikan yang justru menciptakan jarak".
 
-[^16]: [Taipei News: Kanal "Mimpi Ku" dengan 2,28 Juta Pelanggan Diselamatkan! Peretas Diduga dari Negara Ini](https://www.taisounds.com/news/content/107/239827) — Liputan Februari 2026, mencatat pencurian kanal, undangan penipuan yang dicurigai, waktu penyelamatan, dan penyimpanan 448 video.
+[^16]: [Tai Bao: Saluran "Mimpi Ku" dengan 2,28 juta Subscriber Berhasil Diselamatkan! Peretas Diduga Berasal dari Negara Ini](https://www.taisounds.com/news/content/107/239827) — Laporan Februari 2026, mencatat informasi spesifik mengenai pencurian saluran, dugaan undangan kerja sama phishing, waktu penyelamatan, dan pelestarian 448 video.
 
-[^17]: [YouTube: Monster Bahasa Mandarin EP1 | Siapa Orang Asing Terbaik dalam Bahasa Mandarin? 100 Orang Asing Memperebutkan 300 Ribu](https://www.youtube.com/watch?v=BcoIR7z9yxE) — Halaman video resmi _Mimpi Ku_, menyediakan judul episode pertama, tanggal tayang perdana, durasi program, deskripsi resmi, dan data dinamis dari halaman tontonan; artikel ini hanya menggunakan pengaturan program yang secara eksplisit ditulis dalam video resmi, dan tidak menganggap jumlah penayangan dinamis sebagai angka historis tetap.
+[^17]: [YouTube: Monster Bahasa Mandarin EP1 | Siapa Orang Asing dengan Bahasa Mandarin Terbaik? 100 Orang Asing Memperebutkan NT$300.000](https://www.youtube.com/watch?v=BcoIR7z9yxE) — Halaman video resmi Ku's Dream, menyediakan judul episode pertama, tanggal tayang perdana, durasi program, pengenalan resmi, dan data dinamis dari halaman penayangan; artikel ini hanya menggunakan pengaturan program yang tertulis secara eksplisit di video resmi, tidak menganggap jumlah penayangan dinamis sebagai angka sejarah yang tetap.

@@ -1,6 +1,6 @@
 ---
 title: 'Huang Tu-shui: Sebuah Patung Modern Taiwan yang Kembali dari Kehilangan'
-description: 'Ia belajar patung Barat di Tokyo, namun justru dalam pandangan orang asing ia bertahap menemukan Taiwan; sebuah karya marmer yang hilang tujuh puluh tahun membuat sejarah seni modern ini muncul kembali.'
+description: 'Pematung modern Taiwan, lahir di Bangka pada tahun 1895. Pada tahun 1915, ia masuk ke Departemen Patung Sekolah Seni Tokyo tanpa ujian melalui karyanya "Li Tieguai", menjadikannya seniman Taiwan pertama yang belajar di Jepang selama masa penjajahan Jepang. Pada tahun 1921, patung marmernya "Ganlu Shui" terpilih dalam Pameran Seni Akademi Seni Kekaisaran Jepang. Setelah tahun 1923, kerbau Taiwan menjadi tema yang berulang kali ia kerjakan. Ia meninggal dunia di Tokyo pada tahun 1930 di usia tiga puluh enam tahun. Karya "Ganlu Shui" sempat tidak diketahui keberadaannya selama sekitar tujuh puluh tahun sejak tahun 1950-an, sebelum akhirnya muncul kembali pada tahun 2021 dan dipamerkan di almamaternya, Universitas Seni Tokyo, pada tahun 2024.'
 date: 2026-08-14
 category: 'People'
 tags:
@@ -9,7 +9,7 @@ tags:
     'Ganlu Shui',
     'Sejarah Seni Taiwan',
     'Patung',
-    'Tokyo Bijutsu Gakko',
+    'Sekolah Seni Tokyo',
   ]
 subcategory: '雕塑'
 author: 'Taiwan.md'
@@ -20,10 +20,10 @@ readingTime: 8
 viewpoint_formed: true
 curation: 'incubating'
 translatedFrom: 'People/黃土水.md'
-sourceCommitSha: 'f89314e27'
+sourceCommitSha: '20dcddf339'
 sourceContentHash: 'sha256:d22d7298dff5ac3a'
 sourceBodyHash: 'sha256:7b62e2a912ba5344'
-translatedAt: '2026-09-13T15:49:24+08:00'
+translatedAt: '2026-11-25T05:36:40.486413+00:00'
 ---
 
 # Huang Tu-shui: Sebuah Patung Modern Taiwan yang Kembali dari Kehilangan

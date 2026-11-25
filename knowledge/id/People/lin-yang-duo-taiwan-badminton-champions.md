@@ -1,14 +1,14 @@
 ---
-title: 'Wang Chih-lin dan Li Yang (Pasangan Lin Yang)'
-description: "Dari teman sekolah menengah ke medali emas Olimpiade: 'Pasangan Lin Yang' menaklukkan Tiongkok dalam 34 menit, mencatat sejarah pertama medali emas bulu tangkis Olimpiade Taiwan"
+title: 'Wang Chi-lin dan Lee Yang (Pasangan Lin-Yang)'
+description: 'Pasangan ganda putra bulu tangkis Taiwan, yang terdiri dari teman sekolah SMP Zhongshan Kota Taipei, Wang Chi-lin dan Lee Yang. Dari teman sekolah menengah hingga menjadi juara dunia, mereka telah mengasah kemampuan selama dua puluh tahun. Pada final Olimpiade Tokyo tanggal 31 Juli 2021, mereka hanya membutuhkan waktu 34 menit untuk mengalahkan pasangan Tiongkok Li Junhui dan Liu Yuchen dengan skor langsung 21-18, 21-12, meraih medali emas Olimpiade pertama dalam sejarah bulu tangkis Taiwan, yang disambut sorak-sorai dari 23 juta penduduk Taiwan; pada Olimpiade Paris 2024, keduanya yang kini telah berusia 29 tahun kembali meraih emas, menjadi juara Olimpiade pertama dalam sejarah bulu tangkis Taiwan yang berhasil mempertahankan gelar.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'atlet',
-    'Wang Chih-lin',
-    'Li Yang',
-    'pasangan Lin Yang',
+    'Wang Chi-lin',
+    'Lee Yang',
+    'Pasangan Lin-Yang',
     'bulu tangkis',
     'Olimpiade Tokyo',
     'Olimpiade Paris',
@@ -22,10 +22,10 @@ lastHumanReview: true
 difficulty: 'beginner'
 readingTime: 12
 translatedFrom: 'People/麟洋配.md'
-sourceCommitSha: 'c32d210ff'
+sourceCommitSha: '00dc1f6e04'
 sourceContentHash: 'sha256:940cd3ea72960eac'
 sourceBodyHash: 'sha256:4c0e104cb6fe8601'
-translatedAt: '2026-09-16T11:57:33+08:00'
+translatedAt: '2026-11-25T05:49:16.043622+00:00'
 ---
 
 # Wang Chih-lin dan Li Yang (Pasangan Lin Yang)

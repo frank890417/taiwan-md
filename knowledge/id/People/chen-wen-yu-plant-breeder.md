@@ -1,13 +1,13 @@
 ---
-title: 'Chen Wen-Yu: Dari Satu Benih, Menjadi Duta Diplomasi Pertanian Taiwan'
-description: 'Dari Laboratorium Fengshan, semangka tanpa biji "Fengshan No. 1" hingga benih petani, Chen Wen-Yu menjadikan pemuliaan sebagai kekuatan lunak Taiwan yang memberikan kehidupan lebih baik bagi para petani.'
+title: 'Chen Wen-yu: Bagaimana Sebutir Benih Menjadi Diplomat Pertanian Taiwan'
+description: 'Pelopor pemuliaan hibrida sayuran di Taiwan, lahir pada tahun 1925 dari keluarga petani di Yongkang, Tainan. Dimulai dari Stasiun Eksperimen Hortikultura Tropis Fengshan, ia berhasil mengembangkan semangka tanpa biji pertama di Taiwan yang bernama "Fengshan No. 1" pada tahun 1962, dan turun langsung ke Erlun, Yunlin untuk mengajari petani cara menanam semangka di lahan pasir yang tandus. Pada tahun 1968, ia mendirikan Nongyou Seed, dengan keyakinan "biarkan petani menghasilkan uang terlebih dahulu", membawa benih dan teknologi ke luar negeri, serta mendirikan rumah sakit petani di Myanmar. Setelah wafat pada usia 88 tahun pada tahun 2012, riwayat hidupnya dicatat dalam sejarah nasional, meninggalkan janji "sebutir benih, sebuah tanggung jawab".'
 date: 2026-08-16
 category: 'People'
 tags:
   [
-    'Chen Wen-Yu',
-    'Benih Petani',
-    'Semangka Tanpa Biji',
+    'Chen Wen-yu',
+    'Nongyou Seed',
+    'Semangka tanpa biji',
     'Pertanian',
     'Pemuliaan',
   ]
@@ -23,10 +23,10 @@ imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Chen_Wen-Yu_1.jpg'
 curation: 'incubating'
 translatedFrom: 'People/陳文郁.md'
-sourceCommitSha: '67c4c72fc'
+sourceCommitSha: 'd3a973ae06'
 sourceContentHash: 'sha256:3facf31822b994ad'
 sourceBodyHash: 'sha256:93a5825f5b11a6f9'
-translatedAt: '2026-11-06T07:24:54.268795+00:00'
+translatedAt: '2026-11-25T05:04:29.406593+00:00'
 ---
 
 ![陳文郁與同事及西瓜](/article-images/people/chen-wen-yu-1.webp)
