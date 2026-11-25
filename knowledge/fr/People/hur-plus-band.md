@@ -1,20 +1,20 @@
 ---
-title: "HUR+ : de finalistes de DD52 au Zepp New Taipei, un girls band de neuf membres qui ne s'arrête pas depuis cinq ans"
-description: "Lors de la finale du concours d'idoles 2020, elles ont perdu de 2,5 points. Six ans plus tard, le groupe champion a disparu, mais les finalistes sont toujours là. Le producteur a investi 50 millions en disant « moins ça ressemble à un groupe coréen, mieux c'est » — c'est l'histoire d'un girls band taïwanais qui a survécu."
+title: 'HUR+ : de la deuxième place de DD52 à Zepp New Taipei, un groupe féminin de neuf membres en constante évolution depuis cinq ans'
+description: "Ce groupe féminin taïwanais est issu d'un programme de télé-réalité où ils ont terminé deuxièmes. En 2020, avec leur concept Storm Spade, ils n'ont perdu que 2,5 points lors de la finale de DD52. Le producteur a investi NT$50 millions pour fonder une agence, adoptant une stratégie axée sur l'originalité en évitant de copier le modèle des groupes coréens. Après leur expansion à neuf membres, l'équipe est devenue internationale avec des origines taïwanaises, britanniques, mongoles, indonésiennes et vietnamiennes. Leurs fans ont même collecté NT$1,5 million en seulement dix minutes pour financer leur promotion en Corée. Six ans plus tard, avec trois albums à leur actif, ils sont les seuls de leur génération de groupes à continuer de sortir des projets, et ils se sont même produits sur la scène de Bangkok."
 date: 2026-04-23
 category: 'People'
 tags:
   [
     'HUR+',
     'DD52',
-    'Filles du futur',
-    'girls band',
-    'idoles',
-    'musique taïwanaise',
-    'Philip',
+    'Future Girls',
+    'Groupe féminin',
+    'Idole',
+    'Musique taïwanaise',
+    'Filipe',
     'AOA Entertainment Lab',
     'K-POP',
-    'idoles taïwanaises',
+    'Idoles taïwanaises',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
@@ -25,10 +25,10 @@ readingTime: 14
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/HUR-plus.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'd3a973ae06'
 sourceContentHash: 'sha256:7b6f1e2f33e3f99d'
 sourceBodyHash: 'sha256:396a9fed148c94a2'
-translatedAt: '2026-09-19T21:48:16.377642+00:00'
+translatedAt: '2026-11-25T07:11:45.564689+00:00'
 ---
 
 **Aperçu en 30 secondes :** HUR+ (anciennement HUR), vice-championnes de « Diamond Grid Generation DD52 » en 2020, le groupe « Storm Spade » (風暴黑桃) a débuté avec six membres, le producteur Felipe.Z a fondé AOA Entertainment Lab. Elles ont perdu la finale de 2,5 points, mais le groupe champion G.O.F a vu sa notoriété chuter en flèche en un an, tandis que PINK FUN, qui a débuté au même moment, a connu une crise de départs de membres. Six ans plus tard, HUR+ est le seul des trois groupes à encore sortir des albums. Trois albums (« REVELATION », « Crimzon », « 9OF9 ARCANA »), un financement participatif dépassant 1,5 million en dix minutes pour aller promouvoir en Corée, des membres aux nationalités mongole, britannique, indonésienne et vietnamienne. Felipe dit : « Si on utilise la même recette que la Corée, comment Taïwan pourrait-il gagner ? »

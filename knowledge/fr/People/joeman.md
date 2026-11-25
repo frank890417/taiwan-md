@@ -1,6 +1,6 @@
 ---
-title: "Joeman : De commentateur d'e-sport à créateur de chaîne à un million d'abonnés, le créateur de longue haleine dans le viseur"
-description: "De commentateur d'e-sport et chef de produit chez MSI à la gestion de sa chaîne via des déballages, des comparatifs, des voyages et des émissions d'équipe ; le parcours de Joeman documente également comment les YouTubers taïwanais s'ajustent entre trafic, division du travail, confiance et responsabilité publique."
+title: "Joeman : du commentaire d'esport à la chaîne au million d'abonnés, le créateur de longue date devant la caméra"
+description: "De son vrai nom Weng Jun-ming, chef de produit chez MSI le jour, commentateur d'esport le week-end, il s'est tourné vers YouTube grâce à une vidéo d'unboxing 3C devenue virale par hasard, a dépassé le million d'abonnés en 2018 ; l'émission « Joe doit affronter », avec ses comparaisons haut de gamme vs entrée de gamme, est devenue son format signature, s'étendant aux voyages, à l'immobilier et aux émissions d'équipe, et a reçu le prix du créateur individuel de l'année aux Golden Bell Awards 2024. Après l'affaire du cannabis de 2023, il a présenté des excuses publiques et a obtenu un sursis à poursuite, réalisant activement des vidéos de prévention contre la drogue et la fraude pour accomplir son travail d'intérêt général, documentant comment les créateurs taïwanais s'ajustent sur le long terme entre trafic, confiance et responsabilité publique."
 date: 2026-08-16
 category: 'People'
 tags:
@@ -8,11 +8,11 @@ tags:
     'Joeman',
     'Weng Jun-ming',
     'YouTuber',
-    'E-sport',
+    'esport',
     '3C',
-    'Économie des créateurs',
-    'Industrie médiatique',
-    'Communication publique',
+    'économie des créateurs',
+    'industrie médiatique',
+    'communication publique',
   ]
 subcategory: '媒體與創作'
 author: 'Taiwan.md Contributors'
@@ -26,10 +26,10 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Joeman-0617.jpg'
 readingTime: 10
 curation: 'incubating'
 translatedFrom: 'People/Joeman.md'
-sourceCommitSha: '67c4c72fc'
+sourceCommitSha: '1b9d5dfea6'
 sourceContentHash: 'sha256:19eba63c27c61c88'
 sourceBodyHash: 'sha256:18e7518b3acc71b4'
-translatedAt: '2026-11-06T07:55:33.039101+00:00'
+translatedAt: '2026-11-25T06:55:36.449343+00:00'
 ---
 
 # Joeman : De commentateur d'e-sport à créateur de chaîne à un million d'abonnés, le créateur de longue haleine dans le viseur
