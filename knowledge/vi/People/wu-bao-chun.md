@@ -1,17 +1,17 @@
 ---
-title: 'Ngô Bảo Xuân: Lời hứa với một em nhỏ người Paiwan'
-description: 'Một người con vùng nông thôn Bình Đông, chỉ học hết trung học cơ sở và không biết tiếng Pháp. Tại Paris, ông đã giành huy chương vàng đầu tiên của cuộc thi Bậc thầy Bánh mì Thế giới bằng một ổ bánh mì vải thiều hoa hồng—bên trong chứa đựng lời hứa ông dành cho một em nhỏ người bản địa từ mười năm trước.'
+title: 'Ngô Bảo Xuân: Lời hứa dành cho những đứa trẻ người Paiwan'
+description: 'Là con út trong số tám anh chị em lớn lên tại vùng nông thôn Nội Phố, Bình Đông, ông mất cha năm 12 tuổi và bắt đầu hành trình học nghề làm bánh tại miền Bắc vào năm 15 tuổi. Ông đã tự học tiếng Pháp để đọc các sách về kỹ thuật làm bánh của Pháp. Năm 2008, ông giành huy chương bạc tại Giải vô địch Bánh mì Thế giới với món bánh mì rượu nếp long nhãn; đến năm 2010, tại Paris, ông đã đoạt huy chương vàng tại Giải vô địch Thợ làm bánh Thế giới với món bánh mì vải hoa hồng kết hợp rượu gạo millet của người Paiwan, trở thành thợ làm bánh đầu tiên trên thế giới giành được huy chương vàng danh giá này. Các giám khảo Pháp đã ca ngợi đó là loại bánh mì Pháp ngon nhất. Việc ông theo học cao học cũng đã thúc đẩy Bộ Giáo dục Đài Loan sửa đổi luật, điều này được gọi là "Điều khoản Ngô Bảo Xuân".'
 date: 2026-04-05
 category: 'People'
 tags:
   [
-    'ẩm thực',
-    'làm bánh',
-    'tinh thần nghệ nhân',
-    'vô địch thế giới',
+    'Ẩm thực',
+    'Làm bánh',
+    'Tinh thần nghệ nhân',
+    'Nhà vô địch thế giới',
     'Bình Đông',
-    'bánh mì',
-    'các dân tộc bản địa',
+    'Bánh mì',
+    'Thổ dân',
   ]
 subcategory: '餐飲與職人'
 author: 'Taiwan.md'
@@ -22,10 +22,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/吳寶春.md'
-sourceCommitSha: 'b1a5fea00'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:1b0b64c23c091c1f'
 sourceBodyHash: 'sha256:e355ad9581f498f8'
-translatedAt: '2026-11-17T23:46:43.981794+00:00'
+translatedAt: '2026-11-25T09:49:58.018437+00:00'
 ---
 
 # Ngô Bảo Xuân: Lời hứa với một em nhỏ người Paiwan
