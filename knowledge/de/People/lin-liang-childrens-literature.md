@@ -1,32 +1,32 @@
 ---
-title: 'Lin Liang: Flach, aber voller Geschmack'
-description: 'Vom Sohn des Jangtsekiang-Ufers von 1944, der seinen Vater verlor, bis zum 95-jährigen Großvater, der 2019 im Schlaf starb. Lin Liang bewies in 73 Jahren: Kinder verdienen es, als vollwertige Leser behandelt zu werden.'
+title: 'Lin Liang: Einfachheit ist gut, aber sie muss Tiefe besitzen'
+description: 'Ein taiwanesischer Kinderbuchautor, der 1946 mit einer Kiste voller Bücher von Xiamen in Keelung ankam. 1948 begann er als Redakteur der Kinderseite der frisch gegründeten „Guoyu Daily“ und schrieb fortan über dreiundsiebzig Jahre lang. Er entwickelte die Kunst der „einfachen Sprache“ und vertrat die Ansicht, dass Kinder als vollwertige Leser ernst genommen werden sollten. Seine Kolumne „Bilder beschreiben“ schrieb er von 1951 bis eine Woche vor seinem Tod im Alter von 95 Jahren und produzierte dabei fast sechstausend Beiträge; seine Essaysammlung „Kleine Sonne“ wurde über 130 Mal neu aufgelegt. Im Jahr 2012 erhielt er den Nationalen Kulturpreis und wurde 2018 zum ältesten Preisträger in der Geschichte der taiwanesischen Kinderliteratur.'
 date: 2026-04-28
 category: 'People'
 tags:
   [
     'Kinderliteratur',
     'Autor',
-    'Guoyu Daily News',
-    'Kunst der flachen Sprache',
+    'Guoyu Daily',
+    'Kunst der einfachen Sprache',
     'Kleine Sonne',
     'Kulturpionier',
-    'Taiwanische Nachkriegsliteratur',
+    'Nachkriegsliteratur Taiwans',
   ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-28
 lastHumanReview: false
-researchReport: reports/research/2026-04/林良.md
+researchReport: 'reports/research/2026-04/林良.md'
 readingTime: 16
 curation: 'incubating'
 curationReason: 'unverified'
-translatedFrom: People/林良.md
-sourceCommitSha: 'be13f045'
+translatedFrom: 'People/林良.md'
+sourceCommitSha: '20dcddf339'
 sourceContentHash: 'sha256:ff949a14cc54475a'
 sourceBodyHash: 'sha256:99fcaed64626278d'
-translatedAt: 2026-09-09T14:15:07+08:00
+translatedAt: '2026-11-25T05:21:04.924822+00:00'
 ---
 
 > **30-Sekunden-Überblick:**
