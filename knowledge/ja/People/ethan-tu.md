@@ -1,9 +1,9 @@
 ---
 title: '杜奕瑾'
-description: '486パソコン1台で台湾最大のフォーラムを構築し、マイクロソフトでCortanaのリリースを主導、その後高給を捨てて台湾に戻り非営利AIに取り組む――PTT創世神の30年にわたるデジタル史'
+description: '486のコンピュータ一台を使い、台大の寮で批踢踢（PTT）を立ち上げたエンジニアです。テキストベースのフォーラムをインターネットバブルやSNSとの競争から守り抜き、30年経った今でも台湾の公共論議の中核を担う場となっています。渡米後はアメリカ国立衛生研究所（NIH）で遺伝子研究に従事し、その後マイクロソフトにてCortanaのマルチプラットフォーム音声アシスタントの開発を主導しました。2017年にシアトルでの高待遇を捨てて台湾へ帰国し、アジア初の非営利オープンAI研究機関であるTaiwan AI Labsを設立。医療画像、音声認識、認知戦への防衛に注力し、オープンソースの繁体字中国語言語モデルの推進に取り組んでいます。'
 date: 2026-03-30
 category: 'People'
-tags: ['杜奕瑾', 'PTT', '台湾AIラボ', 'デジタル民主主義', '人工知能']
+tags: ['杜奕瑾', 'PTT', 'Taiwan AI Labs', 'デジタル民主主義', '人工知能']
 subcategory: '科技與企業'
 author: 'Taiwan.md'
 featured: true
@@ -13,10 +13,10 @@ readingTime: 9
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/杜奕瑾.md'
-sourceCommitSha: 'b1a5fea00'
+sourceCommitSha: '20dcddf339'
 sourceContentHash: 'sha256:61081ca7c646947e'
 sourceBodyHash: 'sha256:f186e67ce03f9679'
-translatedAt: '2026-11-18T14:32:41.246460+00:00'
+translatedAt: '2026-11-25T02:14:49.019669+00:00'
 ---
 
 # 杜奕瑾
