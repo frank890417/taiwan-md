@@ -1,9 +1,9 @@
 ---
-title: '陳文郁：一粒の種子が、いかにして台湾農業の外交官となったか'
-description: '鳳山試験所、鳳山1号無種子スイカから農友種苗へと、陳文郁氏は育種を、農民がまずより良い生活を得られる台湾のソフトパワーへと昇華させました。'
+title: '陳文郁：一粒種子が、いかにして台湾農業の外交官となったか'
+description: '台湾の野菜交配育種の先駆者。1925年に台南永康の農家に生まれ、鳳山熱帯園芸試験所からキャリアをスタートさせました。1962年には台湾初の種なしスイカ「鳳山一号」を育成し、自ら雲林二崙へ赴いて荒れた砂地でのスイカ栽培を農民に教えました。1968年に農友種苗を設立。「まず農民に利益をもたらす」という信念のもと、種苗と技術を海外へと広め、ミャンマーには農民病院を設立しました。2012年に88歳で逝去した後、その生涯は国史に刻まれ、「一粒の種子、一つの責任」という約束を残しました。'
 date: 2026-08-16
 category: 'People'
-tags: ['陳文郁', '農友種苗', '無種子スイカ', '農業', '育種']
+tags: ['陳文郁', '農友種苗', '種なしスイカ', '農業', '育種']
 subcategory: '科學與學術'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -16,10 +16,10 @@ imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Chen_Wen-Yu_1.jpg'
 curation: 'incubating'
 translatedFrom: 'People/陳文郁.md'
-sourceCommitSha: '67c4c72fc'
+sourceCommitSha: 'd3a973ae06'
 sourceContentHash: 'sha256:3facf31822b994ad'
 sourceBodyHash: 'sha256:93a5825f5b11a6f9'
-translatedAt: '2026-11-06T23:13:44.727309+00:00'
+translatedAt: '2026-11-25T06:08:02.880949+00:00'
 ---
 
 ![陳文郁與同事及西瓜](/article-images/people/chen-wen-yu-1.webp)

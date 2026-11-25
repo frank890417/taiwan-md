@@ -1,9 +1,9 @@
 ---
-title: '蒼藍鴿：白衣と鏡頭の距離を縮める'
-description: '2017年の医療YouTubeチャンネルから疫情期間のワクチン解説まで、呉其穎は医師の専門性、表演、公共コミュニケーションを同じテーブルの上に置いた。'
+title: '蒼藍鴿：白衣の距離をカメラの前に届ける'
+description: '台湾大学医学部卒業の小児科医師で、現在アップルツリー北大分院の主治医を務める。2017年から「蒼藍鴿の医学天地」を運営し、専門知識の提供から医療ドラマの解説や時事評論へと転向。パンデミック期間中にワクチン解説動画で公共の議論に参加した。彼は「視聴者が理解できる言葉で医学を説明する」という姿勢を貫き、YouTubeで映像作品の解説、Podcastで医療ニュースを語り、方格子で長文を残し、書籍を出版し、講演を行い、長年にわたり専門性、パフォーマンス、商業提携の間で公正な線引きを守り続けている。'
 date: 2026-08-16
 category: 'People'
-tags: ['蒼藍鴿', '呉其穎', '医療科学普及', 'YouTube', '公衆衛生']
+tags: ['蒼藍鴿', '吳其穎', '医療啓発', 'YouTube', '公衆衛生']
 subcategory: '醫療與公共溝通'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -12,10 +12,10 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/蒼藍鴿.md'
-sourceCommitSha: 'a7bf511aa'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:1a1a9598d9221fe9'
 sourceBodyHash: 'sha256:74a863b5d0baa755'
-translatedAt: '2026-09-26T10:22:46+08:00'
+translatedAt: '2026-11-25T06:50:43.351053+00:00'
 ---
 
 > **30秒概覧：**
