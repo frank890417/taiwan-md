@@ -1,6 +1,6 @@
 ---
-title: 'Tseng Ya-ni: Die Königin der LPGA mit 15 Titeln und 5 Majors, die eine Ära definierte'
-description: "In Woche 109 Weltspitze, 15 LPGA-Titel und 5 Major-Siege; Mit 22 Jahren wurde sie die jüngste Spielerin mit fünf Major-Titeln und übertraf damit Tiger Woods' Rekord; Im Oktober 2025 beendete sie eine 11-jährige Titelpause."
+title: 'Cheng Ya-chieh'
+description: 'Taiwanische Profi-Golferin, geboren 1989 in Yangmei, Taoyuan. Im Jahr 2008 gewann sie im Alter von neunzehn Jahren ihr erstes LPGA-Major-Turnier und wurde damit die erste chinesischsprachige Spielerin, die einen LPGA-Titel errang. Im Jahr 2011 erreichte sie den ersten Platz der Weltrangliste; ihr Rekord von einhundertneun Wochen an der Spitze blieb in der Geschichte des Frauengolfs über zehn Jahre lang ungeschlagen. Mit nur zweiundzwanzig Jahren wurde sie zur jüngsten Spielerin, die fünf Major-Titel hält. In ihrer Karriere konnte sie bisher 15 LPGA-Siege und fünf Major-Titel verzeichnen. Nach Hüftverletzungen und einer Phase der Formschwäche beendete sie im Jahr 2025 auf dem Yang Shan Golf Course ihre elfjährige Titeldürre mit ihrem 28. Karrieresieg.'
 date: 2026-03-31
 category: 'People'
 tags:
@@ -8,10 +8,10 @@ tags:
     'Sport',
     'Golf',
     'LPGA',
-    'Weltspitze',
+    'Weltrangliste Nummer eins',
     'Profi-Golf',
     'Grand Slam',
-    'Damen-Golf',
+    'Frauengolf',
   ]
 subcategory: '體育'
 author: 'Taiwan.md'
@@ -21,10 +21,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/曾雅妮.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '20dcddf339'
 sourceContentHash: 'sha256:890dbecd669ee83c'
 sourceBodyHash: 'sha256:480fe5c7e2becbe9'
-translatedAt: '2026-09-09T11:46:03+08:00'
+translatedAt: '2026-11-25T02:14:25.120757+00:00'
 ---
 
 # Tseng Ya-ni

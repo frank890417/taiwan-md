@@ -1,15 +1,15 @@
 ---
-title: 'Guo Jin-fa: Die tiefe Seele hinter dem „Shao Rou Zong“ (Faschierteage)'
-description: 'Von einem Schuhmacherlehrling in Taodai zu einem Basskönig von Taiwan; Guo Jin-fa verkörperte die Bitterkeit und Widerstandsfähigkeit des gewöhnlichen Volkes nach dem Krieg mit seinem Lied „Shao Rou Zong“ und verbrauchte am Ende seines Lebens auf der Bühne seine letzte Kraft.'
+title: 'Guo Jinfat: Die tiefe Seele hinter „Shao Rou Zong“'
+description: 'Ein Bass-König, der als Lehrling in einem Damenschuhgeschäft in Dadaocheng begann. Mit 15 Jahren gewann er seinen ersten Gesangswettbewerb und erlangte durch seine sonore, tiefe Stimme Berühmtheit in der taiwanesischen Musikszene. Im Jahr 1973 passte er das verbotene Lied „Mai Rou Zong“ zu „Shao Rou Zong“ an und besang damit die Bitterkeit und Widerstandsfähigkeit des taiwanischen Volkes in der Nachkriegszeit. Nach einem verheerenden Brand im Jindu Club und hohen Schulden reiste er für ein halbes Jahr nach Singapur, um seine Verbindlichkeiten zu begleichen. Im Jahr 2016 brach er während eines Konzerts für Senioren in Kaohsiung zusammen, nachdem er die letzte Zeile von „Shao Rou Zong“ gesungen hatte, und verstarb im Alter von 72 Jahren. Zeit seines Lebens veröffentlichte er über hundert Alben.'
 date: 2026-04-19
 category: 'People'
 tags:
   [
     'Musik',
-    'taiwanischer Volkslied',
+    'Taiwanese Volkslieder',
     'Shao Rou Zong',
-    'Basskönig',
-    'Verbotene Lieder',
+    'Bass-König',
+    'Verbotene Lieder der Ära des Kriegsrechts',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md Contributors'
@@ -20,10 +20,10 @@ readingTime: 10
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/郭金發.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'd3a973ae06'
 sourceContentHash: 'sha256:ffef27b2909f9d95'
 sourceBodyHash: 'sha256:b629819d5dc38d6a'
-translatedAt: '2026-11-04T20:47:00.908008+00:00'
+translatedAt: '2026-11-25T02:27:48.836236+00:00'
 ---
 
 > **📝 Notizen des Kurators**

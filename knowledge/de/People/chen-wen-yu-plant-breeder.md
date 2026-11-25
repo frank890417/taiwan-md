@@ -1,13 +1,13 @@
 ---
-title: 'Chen Wen-Yu: Ein Samen, der zum Botschafter der taiwanesischen Landwirtschaft wurde'
-description: 'Von den Versuchsanstalten in Fengshan bis zu den keimfreien Wassermelonen von "Nongyou Seedlings": Chen Wen-Yu machte Züchtung zu einer weichen Kraft Taiwans, die den Bauern ein besseres Leben verschaffte.'
+title: 'Chen Wen-yu: Wie ein einzelner Samen zum Diplomaten der taiwanischen Landwirtschaft wurde'
+description: 'Ein Pionier der hybriden Gemüsezüchtung in Taiwan. Geboren 1925 in einer Bauernfamilie in Yongkang, Tainan, begann seine Reise am Tropischen Gartenbauversuchsinstitut Fengshan. 1962 züchtete er mit „Fengshan Nr. 1“ die erste kernlose Wassermelone Taiwans und reiste persönlich nach Erlun, Yunlin, um Bauern das Anbauen von Melonen auf sandigen Feldern beizubringen. 1968 gründete er Nongyou Seed, geleitet von der Überzeugung „Zuerst müssen die Bauern Geld verdienen“, und exportierte Saatgut sowie Technologien ins Ausland, wobei er auch ein Bauernhospital in Myanmar errichtete. Nach seinem Tod im Alter von 88 Jahren im Jahr 2012 wurde sein Leben in die Nationalgeschichte aufgenommen, als Zeugnis seines Versprechens: „Ein Samen, eine Verantwortung“.'
 date: 2026-08-16
 category: 'People'
 tags:
   [
-    'Chen Wen-Yu',
-    'Nongyou Seedlings',
-    'keimfreie Wassermelonen',
+    'Chen Wen-yu',
+    'Nongyou Seed',
+    'Kernlose Wassermelone',
     'Landwirtschaft',
     'Züchtung',
   ]
@@ -23,10 +23,10 @@ imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Chen_Wen-Yu_1.jpg'
 curation: 'incubating'
 translatedFrom: 'People/陳文郁.md'
-sourceCommitSha: '67c4c72fc'
+sourceCommitSha: 'd3a973ae06'
 sourceContentHash: 'sha256:3facf31822b994ad'
 sourceBodyHash: 'sha256:93a5825f5b11a6f9'
-translatedAt: '2026-11-04T15:59:46.491000+00:00'
+translatedAt: '2026-11-25T01:29:01.184502+00:00'
 ---
 
 ![Chen Wen-Yu mit Kollegen und Wassermelonen](/article-images/people/chen-wen-yu-1.webp)

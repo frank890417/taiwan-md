@@ -1,15 +1,15 @@
 ---
-title: 'Huang Tu-shui: Eine moderne taiwanesische Skulptur kehrt aus dem Verschwinden zurück'
-description: 'Er lernte die westliche Skulptur in Tokio, doch im fremden Blick findet er Taiwan; ein Marmorwerk, das siebenzig Jahre verschwunden war, lässt diese Kunstgeschichte wieder lebendig werden.'
+title: 'Huang Tu-shui: Eine moderne taiwanesische Skulptur, die nach ihrem Verschwinden wieder auftauchte'
+description: 'Taiwanesischer Bildhauer der Moderne, geboren 1895 in Mengjia. 1915 trat er mit dem Werk „Li Tieguai“ ohne Aufnahmeprüfung in die Bildhauerabteilung der Tokyoer Kunstschule ein und wurde so der erste taiwanesische Künstler, der während der japanischen Kolonialzeit in Japan studierte. 1921 wurde seine Marmorskulptur „Ganlu Shui“ für die Kunstausstellung der Japanischen Kaiserlichen Kunstakademie ausgewählt. Ab 1923 wurde der taiwanesische Wasserbüffel zu seinem wiederkehrenden Thema. Er starb 1930 in Tokyo im Alter von 36 Jahren. „Ganlu Shui“ war seit den 1950er Jahren etwa siebzig Jahre lang verschollen, tauchte 2021 wieder auf und wurde 2024 an seiner Alma Mater, der Tokyo University of the Arts, ausgestellt.'
 date: 2026-08-14
 category: 'People'
 tags:
   [
     'Huang Tu-shui',
-    'Nektarwasser',
-    'taiwanesische Kunstgeschichte',
+    'Ganlu Shui',
+    'Taiwanische Kunstgeschichte',
     'Skulptur',
-    'Tokio Kunstschule',
+    'Tokyoer Kunstschule',
   ]
 subcategory: '雕塑'
 author: 'Taiwan.md'
@@ -20,10 +20,10 @@ readingTime: 8
 viewpoint_formed: true
 curation: 'incubating'
 translatedFrom: 'People/黃土水.md'
-sourceCommitSha: 'f89314e27'
+sourceCommitSha: '20dcddf339'
 sourceContentHash: 'sha256:d22d7298dff5ac3a'
 sourceBodyHash: 'sha256:7b62e2a912ba5344'
-translatedAt: '2026-09-13T00:44:08+08:00'
+translatedAt: '2026-11-25T01:41:41.540547+00:00'
 ---
 
 # Huang Tu-shui: Eine moderne taiwanesische Skulptur kehrt aus dem Verschwinden zurück

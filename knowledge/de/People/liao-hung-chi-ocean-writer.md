@@ -1,9 +1,16 @@
 ---
-title: 'Liao Hongji: Vom Harpunenboot zur Passatschiffahrt – Ein Leben als Meeresdichter Taiwans'
-description: 'Liao Hongji wandte sich 1992 vom Land ab und wurde ein Berufspeschenfänger. Er gründete die „Haiyun Bildungsstiftung“ (1998) und den Verein „Fulongmoxia Hualien“ (2022). Mit dem Projekt „Haiyun 101“ und dem„Delfin-π-Projekt“ veränderte er die taiwanesische Sicht auf das Meer. Er ist eine treibende Kraft in der Meeresliteratur und Ökologie.'
+title: 'Liao Hung-chi: Vom Fischerboot zum Treiben im Kuroshio-Strom – Ein Meeresliterat, der die Gewässer Taiwans mit seinem Leben vermisst'
+description: 'Ein 1957 in Hualien geborener Meeresliterat, der im Alter von 35 Jahren seine Arbeit an Land aufgab, um in Hualien Fischer zu werden. Er initiierte 1996 die erste zivile Untersuchung von Walen und Delphinen in Taiwan und gründete 1998 die Kuroshio Ocean Education Foundation. Im Jahr 2016 startete er das Projekt „Kuroshio 101 Drift“, bei dem er etwa hundert Stunden lang auf einem unmotorisierten Floß mit dem Kuroshio-Strom trieb. 2022 gründete er die Formosa Association im Landkreis Hualien, um das Spermalwal-Projekt „π“ voranzutreiben. Er ist Autor der Meeres-Tetralogie, darunter „Der Fischer“, und wurde 2019 mit dem Wu San-lien Preis sowie 2024 mit dem Lifetime Contribution Award des Bildungsministeriums ausgezeichnet.'
 date: 2026-04-29
 category: 'People'
-tags: ['Meeresliteratur', 'Haiyun', 'Delfinschutz', 'Hualien', 'Delfin']
+tags:
+  [
+    'Meeresliteratur',
+    'Kuroshio-Strom',
+    'Schutz von Walen und Delphinen',
+    'Hualien',
+    'Spermalwal',
+  ]
 subcategory: '文學'
 author: 'idlccp1984'
 featured: false
@@ -13,10 +20,10 @@ readingTime: 12
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/廖鴻基.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '1a696c19ef'
 sourceContentHash: 'sha256:f70240af05eb54ba'
 sourceBodyHash: 'sha256:1077b6698d6359d9'
-translatedAt: '2026-11-04T21:07:59.404304+00:00'
+translatedAt: '2026-11-25T02:23:17.349357+00:00'
 ---
 
 # Liao Hongji

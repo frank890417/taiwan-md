@@ -1,6 +1,6 @@
 ---
-title: 'HUR+: DD52-Außenseiterin bis Zepp New Taipei – fünf Jahre, neun Köpfe, eine überlebende Frauenband'
-description: 'Bei der 2020er-Show-DD52-Auswahl verlor sie mit 2,5 Punkten den Sieg. Sechs Jahre später ist der Siegenden-Block verschwunden – doch die Außenseiterin überlebte. Produzent Felipe.Z investierte 50 Millionen Taiwan-Dollar und sagte: „Je anders, desto besser.“ Eine Geschichte über das Überleben einer taiwanesischen Frauenband.'
+title: 'HUR+: Vom DD52-Runner-Up zu Zepp New Taipei – Eine neunköpfige Girlband, die seit fünf Jahren unermüdlich ist'
+description: 'Eine taiwanesische Girlband, deren Mitglieder als Runner-up aus einer Casting-Show hervorgingen. Im Jahr 2020 verloren sie im DD52-Meisterschaftsfinale mit der Gruppe Storm Spade nur 2,5 Punkte. Der Produzent investierte NT$50 Millionen in die Gründung einer Agentur und verfolgte den Ansatz „je unterschiedlicher, desto besser“, um sich bewusst von K-Pop-Gruppen abzuheben. Nach der Erweiterung auf neun Mitglieder stammen die Mitglieder aus Taiwan, Großbritannien, der Mongolei, Indonesien und Vietnam; Fans sammelten innerhalb von zehn Minuten NT$1,5 Millionen, um die Gruppe für Promotionen in Korea zu unterstützen. Sechs Jahre später verfügen sie über drei Alben und sind die einzige Gruppe aus ihrem Debütjahrgang, die noch aktiv neue Veröffentlichungen vorweist, zudem haben sie bereits die Bühne in Bangkok betreten.'
 date: 2026-04-23
 category: 'People'
 tags:
@@ -8,13 +8,13 @@ tags:
     'HUR+',
     'DD52',
     'Future Girls',
-    'Frauenband',
+    'Girlband',
     'Idol',
-    'taiwanesische Musik',
-    'Felipe.Z',
+    'Taiwanische Musik',
+    'Philipp',
     'AOA Entertainment Lab',
     'K-POP',
-    'taiwanesischer Idol',
+    'Taiwanische Idols',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
@@ -25,10 +25,10 @@ readingTime: 14
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/HUR-plus.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'd3a973ae06'
 sourceContentHash: 'sha256:7b6f1e2f33e3f99d'
 sourceBodyHash: 'sha256:396a9fed148c94a2'
-translatedAt: '2026-09-13T00:44:08+08:00'
+translatedAt: '2026-11-25T01:55:11.087335+00:00'
 ---
 
 > **30-Sekunden-Überblick:** HUR+ (ursprünglich HUR), die 2020er-Show-DD52-Außenseiterin „Sturmherz“, startete mit sechs Mitgliedern ins Rampenlicht. Produzent Felipe.Z gründete AOA Entertainment Lab – Star Chain Asia. Die Siegerin verlor die Siegerehrung mit 2,5 Punkten, doch die Siegenden-Band G.O.F.s Popularität brach innerhalb eines Jahres ein. Sechs Jahre später ist HUR+ die einzige der drei startenden Bands, die noch Alben veröffentlicht. Drei Alben („REVELATION“, „Crimzon“, „9OF9 ARCANA“), innerhalb von zehn Minuten 1,5 Millionen Taiwan-Dollar gesammelt für einen Debut-Auftritt in Südkorea. Die Mitglieder stammen aus Taiwan, Großbritannien, Mongolei, Indonesien und Vietnam. Felipe.Z sagte: „Wenn wir dieselbe Formel wie Korea anwenden würden, wie könnte Taiwan gewinnen?“

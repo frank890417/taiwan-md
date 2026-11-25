@@ -1,6 +1,6 @@
 ---
 title: 'Du Yi-chin'
-description: 'Mit einem 486-Computer das größte Forum Taiwans aufbauen, bei Microsoft die Einführung von Cortana leiten und dann ein hohes Gehalt aufgeben, um nach Taiwan zurückzukehren und gemeinnützige KI zu entwickeln – die dreißigjährige digitale Geschichte des PTT-Gründers'
+description: 'Der Ingenieur, der mit einem 486er-Computer das PTT-Forum in einem Studentenwohnheim der National Taiwan University aufbaute und es ermöglichte, dass dieses rein textbasierte Forum die Internetblase sowie den Wettbewerb durch soziale Medien überstand – heute ist es auch nach dreißig Jahren noch ein zentraler Ort des öffentlichen Diskurses in Taiwan. Er ging in die USA, um am National Institute of Mental Health Genforschung zu betreiben, und leitete später bei Microsoft die Einführung der plattformübergreifenden Sprachassistentin Cortana. Im Jahr 2017 gab er sein hohes Gehalt in Seattle auf, um nach Taiwan zurückzukehren und die Taiwan AI Labs zu gründen, das erste gemeinnützige Open-Source-KI-Forschungsinstitut Asiens. Er widmet sich der medizinischen Bildverarbeitung, der Spracherkennung sowie der Abwehr kognitiver Kriegsführung und treibt die Entwicklung von Open-Source-Sprachmodellen für traditionelles Chinesisch voran.'
 date: 2026-03-30
 category: 'People'
 tags:
@@ -20,10 +20,10 @@ readingTime: 9
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/杜奕瑾.md'
-sourceCommitSha: 'b1a5fea00'
+sourceCommitSha: '20dcddf339'
 sourceContentHash: 'sha256:61081ca7c646947e'
 sourceBodyHash: 'sha256:f186e67ce03f9679'
-translatedAt: '2026-11-17T20:03:01.167531+00:00'
+translatedAt: '2026-11-25T02:21:42.356470+00:00'
 ---
 
 # Ethan Tu (杜奕瑾)

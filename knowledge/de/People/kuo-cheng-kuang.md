@@ -1,15 +1,15 @@
 ---
-title: 'Mike Kuo (Guo Zheng-guang)'
-description: 'Er ist ein seniorer Wissenschaftler am Johnson Space Center der NASA in Houston, der sich auf das, was Astronauten essen und trinken, spezialisiert hat; in den Archiven seiner Heimat Taiwan wurde er jedoch einst auf eine „Terroristenliste“ gesetzt.'
+title: 'Kuo Cheng-kuang'
+description: 'Ein erfahrener Wissenschaftler, der über 45 Jahre im Johnson Space Center der US-Luft- und Raumfahrtbehörde NASA tätig war. Er forscht zu Weltraumernährung, Wasserreinigung und Luftqualität in geschlossenen Kabinen – eine Arbeit, die über Leben und Tod von Astronauten entscheidet. Geboren 1949 in Hsinchu, schloss er sein Studium an der Agrarwissenschaftlichen Fakultät der National Taiwan University ab, promovierte an der Texas A&M University und trat 1980 in die NASA ein. Aufgrund seiner Mitgliedschaft in der Taiwan Independence Union wurde er von der KMT-Regierung auf eine schwarze Liste gesetzt; 1991 schickte die taiwanische Regierung einen Brief an das US-Außenministerium, in dem sie ihn als Terroristen bezeichnete. Im Jahr 2018 empfing er Präsidentin Tsai Ing-wen während ihres Transitbesuchs in seiner Funktion als NASA-Experte; 2024 antwortete er einem Internet-Troll mit den Worten: „Dein Großvater arbeitet bei der NASA“.'
 date: 2026-04-06
 category: 'People'
 tags:
   [
-    'Mike Kuo',
+    'Kuo Cheng-kuang',
     'NASA',
-    'Weltraumnahrung',
-    'schwarze Liste',
-    'taiwanesische Demewegbewegung',
+    'Weltraumernährung',
+    'Schwarze Liste',
+    'Taiwanische Demokratiebewegung',
   ]
 subcategory: '科學與研究'
 author: 'Taiwan.md Contributors'
@@ -20,10 +20,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/郭正光.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '1a696c19ef'
 sourceContentHash: 'sha256:e00af3b07adcb778'
 sourceBodyHash: 'sha256:beb2338ff10788ce'
-translatedAt: '2026-11-04T20:39:21.197760+00:00'
+translatedAt: '2026-11-25T02:25:45.405970+00:00'
 ---
 
 # Mike Kuo (Guo Zheng-guang)
