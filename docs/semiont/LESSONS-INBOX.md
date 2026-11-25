@@ -332,6 +332,26 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-11-25 twmd-maintainer-daily — canonical-states-a-number-but-not-which-ruler-measures-it：canonical 寫了數字，沒寫用哪把尺量
+
+**slug**：`canonical-states-a-number-but-not-which-ruler-measures-it`
+**severity**：structural
+**vc**：1（REFLEXES #99「尺先驗再用」在審稿路徑上的新 instance；#83「兩把尺 divergence」的文件層變體）
+
+**發生什麼**：投稿者 tboydar 一次送七個 PR（#2063–#2069），標題寫「description 補到 canonical 120-160 字」，共 41 篇人物頁。本班照 Step 2.3 讀 diff，順手用 Python `len()` 量那 41 條新 description，得到「32 條超過 160、最長 207」的讀數，於是開始往「這批整體超標、要請投稿者重修或本班逐條改寫」的方向走——那會是七個 CLEAN／ARMED、零紅旗的 PR 被擋下來。
+
+停下來的原因是另一條反射：那個讀數跟投稿者自己宣稱的「補到 canonical」差距太大，而投稿者前兩批（#2060／#2061）昨天才被上一班合併過。回去讀 `seo_meta.py`，canonical 的「字」是 `_cjk_count()`——**只數中日韓漢字，不含阿拉伯數字、拉丁字母與標點**，容忍帶 100-180。換成那把尺重量：41 條全部落在 120-160（最低 121、最高 158），一條都沒超標。**投稿者用的尺是對的，審稿的用的尺是錯的。**
+
+**形狀**：canonical（EDITORIAL §Description 四原則）寫的是「長度 120-160 字」——一個數字、一個單位，沒有量法。而「字」在中文技術文件裡同時是「字元」與「漢字」兩個意思；description 這種欄位幾乎一定混著年份與英文專名，兩種讀法之間系統性差三成左右。閘門那一側實作了正確的那個意思並且註解寫清楚了，但那句話住在 plugin 的程式碼裡；讀 EDITORIAL 來審稿的人手邊最順的工具（`len()`、`wc -m`）正好是錯的那一把。
+
+跟 #83 的差別：#83 是「檢查器對自己與對外部標準不同調」，兩把尺都在程式裡。這次兩把尺一把在程式裡、一把在人手上，而文件沒有指向前者，所以不會有任何東西叫——我量完、算完百分比、準備好處置，全程沒有一個紅燈。真正接住它的是「讀數跟投稿者的宣稱對不上」這個不適感，而那是運氣不是機制：如果投稿者沒在 PR 標題寫「canonical 120-160 字」，就沒有東西可以對撞。
+
+**本班已落地的修補**：EDITORIAL §Description 四原則 長度那行底下補一段，明寫「這裡的『字』只數中日韓漢字」、給出量法指令（`article-health --check=seo-meta` 直接印 `description=N字`）、明禁自己用 `len()` 數，並把本次近失寫進去當案例。
+
+**還沒做的那一半（候選機械化）**：EDITORIAL 裡還有其他只寫數字不寫量法的門檻（title 字數、破折號密度、全形分號上限、腳註密度、字數門檻 4500），本班只修了 description 這一條。候選：對 EDITORIAL 做一次 grep，把每個帶數字的門檻都補上「量法 = 哪個 plugin 的哪個函式」，或反過來讓 `article-health --list-checks` 印出每個 plugin 對應的 canonical 段落與量法，讓文件與尺互相指得到。這屬 canonical 文件的系統性整理，不是本班單篇範圍。
+
+---
+
 ### 2026-11-25 twmd-feedback-triage — comment-reconcile-alarm-has-no-retry-so-a-hiccup-wears-the-breakage-face：那道告警分得出三種根因，分不出接下來該做什麼
 
 - **pattern**: `alarm-layers-root-causes-but-not-responses`

@@ -363,3 +363,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-25 | 060814-twmd-data-refresh-am | 早班刷新十四步全過、15 個 dashboard 0 stale；404 單日跳到 4,599 但兩個家族都在本月範圍；房貸負擔率第七天仍只有 115Q1；排程 dump 三層零漂移 | 單日跳動先放回多日窗口看 | [→](memory/2026-11-25-060814-twmd-data-refresh-am.md) |
 | 2026-11-25 | 064238-twmd-spore-harvest-am | 回覆分頁連五班同三列、零新留言；動態頁一夜多七列，逐列讀連結全是按讚與轉發；#29 李洋四格仍 232 留言；合法 no-op | 列數變多不等於有人說話，讀連結才分得出來 | [→](memory/2026-11-25-064238-twmd-spore-harvest-am.md) |
 | 2026-11-25 | 071405-twmd-feedback-triage | 憑證索取第十五輪：差集兩個方向都空、交集 81，窗口外 31 筆連三天零讀者；留言層告警首次響（#1127 抓不到），跨源驗 archive 1==線上 1、重跑回綠，是 GitHub 一次性失誤 | 告警把根因分層了，沒把處置分層 | [→](memory/2026-11-25-071405-twmd-feedback-triage.md) |
+| 2026-11-25 | 084517-twmd-maintainer-daily | 七個投稿 PR 四十一篇 description 全合併；我用 len() 量出「三十二條超標」差一步擋下全部，canonical 只數漢字，重量後全在帶內 | canonical 只寫數字不寫量法，最順手那把尺會補位 | [→](memory/2026-11-25-084517-twmd-maintainer-daily.md) |
