@@ -1,24 +1,24 @@
 ---
-title: 'A Bào (A Nhẫn Nhẫn): Ca sĩ future pop đưa tiếng Paiwan vào Album Niên Niên của Giải Thưởng Âm Nhạc Kim Khúc'
-description: 'Album Niên Niên Giải Thưởng Âm Nhạc Kim Khúc lần thứ 31 năm 2020 trao cho album điện tử toàn tiếng Paiwan "kinakaian Mẹ Lưỡi". A Bào (Aljenljeng Tjaluvie, tên Hán Trương Tĩnh Văn, sinh 1981 tại huyện Kim Phong, tỉnh Đài Đông) xuất đạo với đôi R&B Abao & Brandy, từng làm y tá gần mười năm, năm 2019 hợp tác với Dizparity biến tiếng đồng bào thành future pop, định nghĩa lại "âm nhạc bản địa = bảo tồn".'
+title: 'Abao (Aljenljeng): Nữ ca sĩ future pop đưa tiếng Paiwan vào giải Album của năm tại Golden Melody Awards'
+description: 'Nữ ca sĩ sáng tác người tộc Paiwan, sinh năm 1981 tại bộ lạc Zhengxing, Jinfeng, Đài Đông. Thời trẻ, cô cùng nhóm R&B song ca Abao & Brandy từng giành giải Nhóm song ca xuất sắc nhất tại Golden Melody Awards; sau khi tan rã, cô đã làm điều dưỡng trong gần mười năm. Năm 2019, cô hợp tác với nhà sản xuất nhạc điện tử Dizparity thực hiện album nhạc điện tử hoàn toàn bằng tiếng Paiwan mang tên «kinakaian: Lưỡi của mẹ». Năm 2020, cô liên tiếp giành giải Album của năm, Album tiếng bản địa xuất sắc nhất và Bài hát của năm. Sau đó, với vai trò dẫn dắt hãng thu âm Nawoya, cô đã đưa âm nhạc ngôn ngữ dân tộc từ khuôn khổ bảo tồn văn hóa bước lên sân khấu chính của dòng nhạc future pop.'
 date: 2026-04-18
 category: 'People'
 tags:
   [
     'Nhân vật',
-    'A Bào',
-    'A Nhẫn Nhẫn',
+    'Abao',
+    'Aljenljeng',
     'Aljenljeng Tjaluvie',
     'Trương Tĩnh Văn',
-    'người Paiwan',
-    'âm nhạc bản địa',
-    'Giải Thưởng Kim Khúc',
-    'Album Niên Niên',
+    'Tộc Paiwan',
+    'Âm nhạc bản địa',
+    'Giải Golden Melody',
+    'Album của năm',
     'kinakaian',
-    'Mẹ Lưỡi',
+    'Lưỡi của mẹ',
     'Dizparity',
     'future pop',
-    'Nanguaq',
+    'Nawoya',
     'vavayan',
   ]
 subcategory: '音樂與表演'
@@ -29,10 +29,10 @@ lastHumanReview: true
 researchReport: 'reports/research/2026-04/阿爆.md'
 readingTime: 18
 translatedFrom: 'People/阿爆.md'
-sourceCommitSha: '160f6cb59'
+sourceCommitSha: 'd3a973ae06'
 sourceContentHash: 'sha256:f6ea72608a383b39'
 sourceBodyHash: 'sha256:2b58a1fd273e51fb'
-translatedAt: '2026-11-03T20:22:08+08:00'
+translatedAt: '2026-11-25T04:33:13.727688+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Tối ngày 3 tháng 10 năm 2020, Giải Album Niên Niên lần thứ 31 của Giải Thưởng Âm Nhạc Kim Khúc được trao cho một album âm nhạc điện tử toàn tiếng Paiwan mang tên "kinakaian Mẹ Lưỡi". Người nhận giải là A Bào (Aljenljeng Tjaluvie, tên Hán Trương Tĩnh Văn), ca sĩ sáng tác người Paiwan sinh năm 1981 tại bản Chính Hưng, xã Gia Lan, huyện Kim Phong, tỉnh Đài Đông. Năm 2003, cô xuất đạo với Abao & Brandy và giành Giải Thưởng Âm Nhạc Kim Khúc lần thứ 15 hạng mục Đôi Ca Sĩ Xuất Sắc Nhất, năm 2004 giải thể rồi tạm biệt làng nhạc gần mười năm làm y tá, năm 2016 trở lại với album sáng tác toàn tiếng Paiwan "vavayan·Phụ Nữ", năm 2019 hợp tác với nhà sản xuất âm nhạc điện tử Dizparity tạo ra "kinakaian". Trên sân khấu nhận Giải Album Niên Niên, cô nói: "Tôi muốn nói với tất cả đồng bào bản địa trước màn hình nhỏ, đừng lãng phí thiên phú cũng đừng phụ thuộc vào thiên phú." Đây là khoảnh khắc then chốt âm nhạc tiếng dân tộc bản địa Đài Loan bước từ sidebar lên main stage.

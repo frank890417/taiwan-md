@@ -1,19 +1,19 @@
 ---
-title: 'Quách Hưởng Thuần: Từ chấn thương 141 kg đến ba lần đứng trên bục lưu niệm Olympic'
-description: 'Vận động viên cử tạ Đài Loan, nhà vô địch ba lần Olympic (2016 huy chương đồng, 2021 huy chương vàng, 2024 huy chương đồng), giữ kỷ lục thế giới hạng cân 59 kg, hậu duệ bộ tộc Amis Mã Lan'
+title: 'Quách Tịnh Thuần: Từ vết thương bị đè bởi 141 kg, đến con đường cử tạ lên bàn ba lần Olympic'
+description: 'Vận động viên cử tạ thành công nhất trong lịch sử Đài Loan, hậu duệ bộ lạc Maran của người Amis, sinh năm 1993 tại Luodong, Yilan. Trong sự nghiệp tích lũy 11 lần phá kỷ lục thế giới, năm 2014 bị tạ 141 kg đè gãy đùi phải, sau đó dùng tiền thưởng thi đấu tặng xe cứu thương cho Bệnh viện Huimin tại Penghu. Huy chương đồng Olympic Rio 2016, Olympic Tokyo 2021 giành vàng với 236 kg và thiết lập 3 kỷ lục Olympic, Olympic Paris 2024 mang chấn thương vẫn giành huy chương đồng, trở thành vận động viên đầu tiên của Đài Loan giành huy chương tại ba kỳ Olympic liên tiếp, lâu dài quyên góp quay lại vùng sâu vùng xa.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'nhân vật',
-    'Quách Hưởng Thuần',
-    'cử tạ',
+    'Nhân vật',
+    'Quách Tịnh Thuần',
+    'Cử tạ',
     'Olympic',
-    'huy chương vàng',
-    'vận động viên',
+    'Huy chương vàng',
+    'Vận động viên',
     'Đài Loan',
-    'Amis',
-    'dân tộc bản địa',
+    'Người Amis',
+    'Dân tộc bản địa',
   ]
 subcategory: '體育'
 author: 'Taiwan.md'
@@ -21,10 +21,10 @@ featured: false
 lastVerified: 2026-05-16
 lastHumanReview: true
 translatedFrom: 'People/郭婞淳.md'
-sourceCommitSha: '85926aa3b'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:92e1170fe2ebdab8'
 sourceBodyHash: 'sha256:45d6a810707daa5c'
-translatedAt: '2026-08-09T11:16:34+08:00'
+translatedAt: '2026-11-25T03:57:37.177916+00:00'
 ---
 
 # Quách Hưởng Thuần

@@ -1,20 +1,20 @@
 ---
-title: 'HUR+ (HUR): Nhóm nữ 9 thành viên tại Zepp New Taipei, không ngừng nghỉ suốt năm năm'
-description: 'Cuộc thi tuyển thần tượng năm 2020, họ thua cách biệt 2.5 điểm. Sáu năm sau, nhóm chiến thắng đã biến mất, nhưng nhóm á quân vẫn còn đó. Nhà sản xuất rót 50 triệu tệ và nói "càng không giống nhóm Hàn càng tốt" — đây là câu chuyện về một nhóm nữ Đài Loan đã tồn tại.'
+title: 'HUR+: Từ á quân DD52 đến Zepp New Taipei, nhóm nữ chín người không ngừng hoạt động suốt năm năm'
+description: "Nhóm nữ Đài Loan ra mắt từ vị á quân chương trình thi đấu, năm 2020 để thua 2,5 điểm trong chung kết DD52 với tư thế 'Bão đen' (Storm Spade), nhà sản xuất đầu tư NT$50 triệu thành lập công ty quản lý, đi theo 노선 'càng khác biệt càng tốt', cố ý không theo kiểu nhóm Hàn. Sau khi mở rộng thành chín người, các thành viên đến từ Đài Loan, Anh, Mông Cổ, Indonesia và Việt Nam; fan hâm mộ quyên góp NT$1,5 triệu chỉ trong mười phút để gửi nhóm sang Hàn phát hành đĩa. Sau sáu năm có ba album trên tay, là nhóm duy nhất trong cùng kỳ vẫn còn phát hành và đã đứng trên sân khấu Bangkok."
 date: 2026-04-23
 category: 'People'
 tags:
   [
     'HUR+',
     'DD52',
-    'Thiếu Nữ Tương Lai',
-    'Nhóm Nữ',
-    'Thần Tượng',
-    'Âm Nhạc Đài Loan',
-    'Felipe',
+    'Nữ thiếu niên tương lai',
+    'Nhóm nữ',
+    'Thần tượng',
+    'Nhạc Đài Loan',
+    'Phi Lập Phổ',
     'AOA Entertainment Lab',
     'K-POP',
-    'Thần Tượng Đài Loan',
+    'Thần tượng Đài Loan',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
@@ -25,10 +25,10 @@ readingTime: 14
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/HUR-plus.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'd3a973ae06'
 sourceContentHash: 'sha256:7b6f1e2f33e3f99d'
 sourceBodyHash: 'sha256:396a9fed148c94a2'
-translatedAt: '2026-09-22T14:22:25+08:00'
+translatedAt: '2026-11-25T05:19:12.129106+00:00'
 ---
 
 > **Tóm tắt 30 giây:** HUR+ (trước đây là HUR), sáu thành viên á quân của chương trình _DD52 Thiếu Nữ Tương Lai_ năm 2020 với tên "Bạch thủ Bão tố", được AOA Entertainment Lab do nhà sản xuất Felipe.Z thành lập. Họ thua cách biệt 2.5 điểm, nhưng nhóm chiến thắng G.O.F đã suy giảm mạnh trong vòng một năm, còn PINK FUN ra mắt cùng thời lại gặp khủng hoảng tan rã. Sáu năm sau, HUR+ là nhóm duy nhất trong ba nhóm được ra mắt vẫn đang phát hành album. Ba album (_《REVELATION》_, _《Crimzon》_, _《9OF9 ARCANA》_), với chiến dịch gây quỹ 10 phút đã vượt mốc 1,5 triệu tệ để đi thu âm tại Hàn Quốc; thành viên có quốc tịch trải rộng từ Mông Cổ, Anh, Indonesia đến Việt Nam. Felipe nói: "Nếu dùng công thức và chiêu trò giống như Hàn Quốc, làm sao Đài Loan có thể thắng được?"

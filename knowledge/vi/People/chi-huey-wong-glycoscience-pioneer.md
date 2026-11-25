@@ -1,17 +1,17 @@
 ---
-title: 'Chi Huy Vong (Chi-Huey Wong)'
-description: 'Chuyên gia glycosciences trên thế giới, người giành giải Wolf Prize 2014, trưởng ban khoa học trước của Viện Nghiên cứu Khoa học Trung Hoa Dân Quốc (Đài Loan), gần như đạt được giải Nobel Prize nhưng bị vụ án Hao Tang làm dần nghi ngờ.'
+title: 'Ông Khải Huệ'
+description: 'Chuyên gia hàng đầu thế giới trong lĩnh vực hóa học carbohydrate, sinh năm 1948 tại Tainan. Sau khi tốt nghiệp khoa Hóa học tại Đại học Quốc gia Đài Loan, ông sang Mỹ nhận bằng Tiến sĩ Hóa hữu cơ tại Viện Công nghệ Massachusetts (MIT), sau đó làm việc tại Viện Nghiên cứu Scripps. Năm 2014, ông đã giành được giải thưởng Hóa học Wolf, giải thưởng được mệnh danh là "tiền trạm của Nobel", đến mức các ủy viên Nobel từng chuẩn bị bay sang Đài Loan để thảo luận với ông; năm 2016, ông từ chức Viện trưởng Viện Nghiên cứu Trung ương do liên quan đến vụ án Hao Ding, và vào năm 2019 đã được tuyên vô tội trong phiên sơ thẩm. Ông tự nhận rằng: "Chính tôi là người thúc đẩy Luật Công nghệ Sinh học, nhưng kết quả nạn nhân đầu tiên lại chính là tôi".'
 date: 2026-03-31
 category: 'People'
 tags:
   [
-    'nhà nghiên cứu',
-    'hoá học',
-    'Viện Nghiên cứu Khoa học Trung Hoa Dân Quốc (Đài Loan)',
-    'glycosciences',
-    'vụ án Hao Tang',
+    'Học giả',
+    'Hóa học',
+    'Viện Nghiên cứu Trung ương',
+    'Hóa học carbohydrate',
+    'Vụ án Hao Ding',
     'Nobel',
-    'giải Wolf',
+    'Giải thưởng Wolf',
   ]
 subcategory: '科學與學術'
 author: 'Taiwan.md'
@@ -21,10 +21,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/翁啟惠.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '00dc1f6e04'
 sourceContentHash: 'sha256:984fef279b1af05b'
 sourceBodyHash: 'sha256:8e4d8fb8704570d2'
-translatedAt: '2026-07-26T00:16:51+08:00'
+translatedAt: '2026-11-25T04:22:30.127073+00:00'
 ---
 
 # Chi Huy Vong (Chi-Huey Wong)

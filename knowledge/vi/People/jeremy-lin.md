@@ -1,18 +1,13 @@
 ---
-title: 'Lâm Thư Hào: Từ bị cắt hai lần trong 15 ngày đến kết thúc sự nghiệp với tư cách hai lần MVP của TPBL'
-description: 'Nhà vô địch tiểu bang cấp cao không nhận được học bổng, không được chọn trong draft, bị cắt hai lần trong 15 ngày — sau đó anh ấy đã giới thiệu "Linsanity" với cả thế giới'
-translatedFrom: 'People/林書豪.md'
-sourceCommitSha: '85926aa3b'
-sourceContentHash: 'sha256:5bcf40616e842909'
-sourceBodyHash: 'sha256:15c8e50bb3ba07a7'
-translatedAt: '2026-08-09T12:06:28+08:00'
+title: 'Lâm Thư Hào: Từ bị cắt hai lần trong 15 ngày đến MVP kép TPBL khi nghỉ hưu'
+description: 'Vận động viên bóng rổ người Mỹ gốc Đài Loan, sinh năm 1988 tại California, thế hệ thứ chín của người di cư Đài Loan. Trung học dẫn dắt đội giành vô địch bang California, nhưng không có trường NCAA Division I nào trao học bổng. Sau khi không được chọn trong draft, bị hai đội NBA cắt hợp đồng trong vòng 15 ngày. Tháng 2 năm 2012 lên sân thay người, bảy trận liên tiếp ghi trung bình 24,4 điểm, gây bùng nổ hiện tượng "Linsanity"; năm 2019 cùng Raptors giành vô địch NBA, trở thành vận động viên gốc Á đầu tiên giành chức vô địch NBA; năm 2025 tại Đài Loan nghỉ hưu với danh hiệu MVP mùa giải và MVP chung kết.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'nhân vật',
-    'bóng rổ',
-    'người Đài Loan gốc Mỹ',
+    'Nhân vật',
+    'Bóng rổ',
+    'Người Mỹ gốc Đài Loan',
     'NBA',
     'Linsanity',
     'Đại học Harvard',
@@ -24,6 +19,11 @@ author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-16
 lastHumanReview: true
+translatedFrom: 'People/林書豪.md'
+sourceCommitSha: '00dc1f6e04'
+sourceContentHash: 'sha256:5bcf40616e842909'
+sourceBodyHash: 'sha256:15c8e50bb3ba07a7'
+translatedAt: '2026-11-25T04:18:18.416825+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Lâm Thư Hào, sinh năm 1988 tại California, thế hệ chín người nhập cư từ Đài Loan. Tốt nghiệp cấp cao dẫn dắt đội mạnh để giành vô địch tiểu bang California, nhưng không có một trường NCAA Tier I nào cấp học bổng cho anh. Vào học Harvard, bị bỏ qua trong draft NBA, bị hai đội NBA cắt hợp đồng trong 15 ngày. Tháng 2 năm 2012, khi ra sân thay người, anh liên tiếp bốn trận ghi trung bình 24,4 điểm, gây nên hiện tượng "Linsanity".[^1] Năm 2019 cùng đội Raptors giành chức vô địch NBA, trở thành vận động viên gốc Á thứ nhất giành chiếc nhẫn vô địch NBA của Mỹ.[^2] Năm 2025 tại Đài Loan kết thúc sự nghiệp với tư cách MVP năm + MVP chung kết, hoàn thành cung đường toàn vẹn từ Mỹ tới Đài Loan.[^3]

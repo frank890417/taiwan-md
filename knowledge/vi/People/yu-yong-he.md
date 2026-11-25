@@ -1,17 +1,17 @@
 ---
-title: 'Nhạc Vĩnh Hạ'
-description: 'Năm 1697, một học sinh từ Hạ Long, Hạ Châu, tự nguyện được phép đi từ Fujian, vượt biển đến Đài Loan để thu thập đầu khó. Anh ta đi bộ từ Tây Ngoại đến Đài Bắc, xuyên qua toàn bộ đồng bằng phía tây, đi qua một số chục bản làng nguyên dân. Chín tháng sau, anh ta mang đầu khó về, và bất ngờ viết một cuốn sách, trở thành tác phẩm hồi hội nhất ghi lại văn hóa địa phương phía bắc của Đài Loan. Cuốn sách này là《Kỷ Kỷ Hải Du》.'
+title: 'Úc Vĩnh Hà'
+description: 'Một nhà học người Trư Giang, Hà Châu, năm thứ 35 triều Kang Hy, sau khi kho thuốc nổ Phúc Châu bị cháy, ông tự nguyện vượt biển đến Đài Loan khai thác và bổ sung lưu huỳnh. Từ phủ thành Thái Nam, ông cưỡi xe bò lên phía Bắc, hai mươi ngày vượt qua bình nguyên phía Tây, trải qua hơn mười bộ lạc người bản địa để đến khu mỏ lưu huỳnh Bắc Đầu. Hành trình chín tháng tại Đài Loan được viết thành 《Bì Hải Ký Du》, trở thành tác phẩm kinh điển sớm nhất ghi chép nhân văn địa lý Bắc Bộ Đài Loan. Thấy người bản địa ngủ ngoài trời trong bùn lầy, ông viết xuống câu "Họ cũng là con người", là một sự tự tỉnh hiếm thấy trong thời đại Đại Thanh coi người bản dân là dân ngoại bang, và để lại bản ghi chép quý giá về bí ẩn hồ Bắc Đài triều Kang Hy.'
 date: 2026-03-25
 category: 'People'
 tags:
   [
     'Nhân vật',
-    'Nhạc Vĩnh Hạ',
-    'Kỷ Kỷ Hải Du',
-    'Thế Kỷ VII',
-    'Khám phá',
-    'Đài Bắc',
-    'Đầu khó',
+    'Úc Vĩnh Hà',
+    'Bì Hải Ký Du',
+    'Nhà Thanh',
+    'Thám hiểm',
+    'Bắc Đầu',
+    'Lưu huỳnh',
     'Văn học Đài Loan',
   ]
 subcategory: '歷史與探險'
@@ -23,10 +23,10 @@ readingTime: 10
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/郁永河.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:4070459913f1808f'
 sourceBodyHash: 'sha256:f14cb1a2a50dc23e'
-translatedAt: '2026-11-04T21:37:16.107759+00:00'
+translatedAt: '2026-11-25T04:20:52.409500+00:00'
 ---
 
 # Nhạc Vĩnh Hạ

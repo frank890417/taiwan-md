@@ -1,6 +1,6 @@
 ---
-title: 'Ông Wu Đại Chù: Người đề xuất Yang Chân Ninh và Lý Chính Đạo đi du học ở Mỹ, chủ chốt xây dựng khoa học tại Đài Loan trong mười một năm'
-description: 'Nhà vật lý lý thuyết, hiệu trưởng Viện Nghiên cứu Trung Ương, nuôi dưỡng hai nhà khoa học được giải Nobel, là người sáng lập khoa học tại Đài Loan'
+title: 'Ngô Đại Du: Viện trưởng Viện Trung ương Nghiên cứu, người đề cử Dương Chấn Ninh và Lý Chính Đạo sang Mỹ, 11 năm đặt nền móng cho nghiên cứu khoa học Đài Loan'
+description: 'Một nhà vật lý học khởi đầu từ nghiên cứu lý thuyết quang phổ phân tử và cơ học lượng tử, từng giảng dạy hơn mười năm tại Đại học Michigan. Năm 1946, ông đã đích thân đề cử Dương Chấn Ninh và Lý Chính Đạo sang Mỹ tu nghiệp, mười một năm sau cả hai cùng giành giải Nobel Vật lý. Từ năm 1983, ông đảm nhiệm chức Viện trưởng Viện Trung ương Nghiên cứu trong 11 năm; giữa thời đại Đài Loan đang gấp rút phát triển kinh tế, ông vẫn kiên trì quan điểm nghiên cứu cơ bản là không thể thay thế, thúc đẩy chế độ đánh giá nghiên cứu nghiêm ngặt hơn và thu hút nhân tài từ hải ngoại, đặt nền móng thể chế cho hệ thống khoa học kỹ thuật của Đài Loan.'
 date: 2026-03-19
 category: 'People'
 tags:
@@ -9,7 +9,7 @@ tags:
     'Nhà khoa học',
     'Vật lý học',
     'Giáo dục',
-    'Viện Nghiên cứu Trung Ương',
+    'Viện Trung ương Nghiên cứu',
   ]
 subcategory: '科學與學術'
 author: 'Taiwan.md'
@@ -17,10 +17,10 @@ featured: true
 lastVerified: 2026-05-16
 lastHumanReview: true
 translatedFrom: 'People/吳大猷.md'
-sourceCommitSha: '85926aa3b'
+sourceCommitSha: '45b1bf37e0'
 sourceContentHash: 'sha256:ea84edf10c10d1a4'
 sourceBodyHash: 'sha256:54cafe2c5032e30e'
-translatedAt: '2026-09-10T03:36:16+08:00'
+translatedAt: '2026-11-25T04:24:39.950559+00:00'
 ---
 
 > **30 giây tóm tắt:** Ông Wu Đại Chù (1907–2000), nhà vật lý lý thuyết. Năm 1946, ông trực tiếp đề xuất Yang Chân Ninh và Lý Chính Đạo đi du học ở nước ngoài. Hai người này, mười một năm sau, cùng giành giải Nobel Vật lý. Từ năm 1983, ông giữ chức hiệu trưởng Viện Nghiên cức Trung Ương trong mười một năm. Trong thời đại Đài Loan đang phát triển kinh tế, ông kiên trì trong nghiên cứu cơ bản, đặt nền tảng cho hệ thống khoa học của Đài Loan.

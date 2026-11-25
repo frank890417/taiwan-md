@@ -1,15 +1,15 @@
 ---
-title: 'Hoàng Thổ Thủy: Một bức tượng điêu khắc hiện đại Đài Loan từ sự mất tích'
-description: 'Ông học thạc phẩm điêu khắc Tây phương tại Đông Kinh, nhưng trong ánh mắt của người lạ ở xứ người, ông dần dần tìm thấy Đài Loan; một tác phẩm đá hoa cương từng mất tích bảy mươi năm đã cho phép lịch sử nghệ thuật này tái hiện.'
+title: 'Hoàng Thổ Thủy: Một pho tượng điêu khắc hiện đại Đài Loan trở về từ sự mất tích'
+description: 'Nhà điêu khắc cận đại Đài Loan, sinh năm 1895 tại Mân Giáp, năm 1915 đã được tuyển thẳng vào khoa Điêu khắc của Trường Mỹ thuật Tokyo nhờ tác phẩm "Lý Thiết Quải", trở thành nghệ sĩ Đài Loan đầu tiên du học Nhật Bản trong thời kỳ Nhật thuộc. Năm 1921, tác phẩm điêu khắc đá cẩm thạch "Cam Lộ Thủy" của ông đã được chọn vào Triển lãm Mỹ thuật của Viện Mỹ thuật Đế quốc Nhật Bản. Từ sau năm 1923, hình ảnh con trâu Đài Loan trở thành chủ đề mà ông lặp lại nhiều lần trong các tác phẩm. Ông qua đời tại Tokyo vào năm 1930 ở tuổi ba mươi sáu. Tác phẩm "Cam Lộ Thủy" đã mất dấu khoảng bảy mươi năm kể từ sau thập niên 1950, đến tận năm 2021 mới xuất hiện trở lại và được trưng bày tại trường cũ của ông là Đại học Nghệ thuật Tokyo vào năm 2024.'
 date: 2026-08-14
 category: 'People'
 tags:
   [
     'Hoàng Thổ Thủy',
-    'Cam lộ thủy',
+    'Cam Lộ Thủy',
     'Lịch sử mỹ thuật Đài Loan',
     'Điêu khắc',
-    'Trường Mỹ thuật Đông Kinh',
+    'Trường Mỹ thuật Tokyo',
   ]
 subcategory: '雕塑'
 author: 'Taiwan.md'
@@ -18,12 +18,12 @@ lastVerified: 2026-08-14
 lastHumanReview: false
 readingTime: 8
 viewpoint_formed: true
-curation: incubating
+curation: 'incubating'
 translatedFrom: 'People/黃土水.md'
-sourceCommitSha: 'f89314e27'
+sourceCommitSha: '20dcddf339'
 sourceContentHash: 'sha256:d22d7298dff5ac3a'
 sourceBodyHash: 'sha256:7b62e2a912ba5344'
-translatedAt: '2026-09-09T15:01:50+08:00'
+translatedAt: '2026-11-25T05:04:17.608280+00:00'
 ---
 
 # Hoàng Thổ Thủy: Một bức tượng điêu khắc hiện đại Đài Loan từ sự mất tích

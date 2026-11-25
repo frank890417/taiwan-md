@@ -1,14 +1,14 @@
 ---
-title: 'Vương Tề Lâm và Lý Dương (Lâm Dương Phối)'
-description: 'Từ bạn cùng lớp đến huy chương vàng Olympic: "Lâm Dương Phối" đánh bại nhóm Trung Quốc chỉ trong 34 phút, tạo nên tấm huy chương vàng đầu tiên trong lịch sử cầu lông Đài Loan tại Olympic'
+title: 'Vương Trí Lân và Lý Dương (cặp Lân-Dương)'
+description: 'Cặp đôi cầu lông nam đôi Đài Loan, gồm hai cựu đồng học Trường Trung học Cơ sở Trung Sơn Đài Bắc là Vương Trí Lân và Lý Dương, từ bạn cùng lớp đến vô địch thế giới, hai mươi năm mài giũa. Ngày 31 tháng 7 năm 2021, tại chung kết Olympic Tokyo, chỉ sau 34 phút, họ thắng 2-0 với tỷ số 21-18, 21-12 trước cặp đôi Trung Quốc Lý Tuấn Huệ và Lữ Vũ Trân, giành huy chương vàng Olympic đầu tiên trong lịch sử cầu lông Đài Loan, 23 triệu người Đài Loan cùng hoan hô; tại Olympic Paris 2024, dù đã 29 tuổi, hai người lại lần nữa giành vàng, trở thành cặp đôi Olympic bảo vệ danh hiệu thành công đầu tiên trong lịch sử cầu lông Đài Loan.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'vận động viên',
-    'Vương Tề Lâm',
+    'Vương Trí Lân',
     'Lý Dương',
-    'Lâm Dương Phối',
+    'cặp Lân-Dương',
     'cầu lông',
     'Olympic Tokyo',
     'Olympic Paris',
@@ -22,10 +22,10 @@ lastHumanReview: true
 difficulty: 'beginner'
 readingTime: 12
 translatedFrom: 'People/麟洋配.md'
-sourceCommitSha: 'c32d210ff'
+sourceCommitSha: '00dc1f6e04'
 sourceContentHash: 'sha256:940cd3ea72960eac'
 sourceBodyHash: 'sha256:4c0e104cb6fe8601'
-translatedAt: '2026-08-09T11:16:34+08:00'
+translatedAt: '2026-11-25T05:22:23.474569+00:00'
 ---
 
 # Vương Tề Lâm và Lý Dương (Lâm Dương Phối)

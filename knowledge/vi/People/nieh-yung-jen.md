@@ -1,18 +1,18 @@
 ---
-title: 'Nieh Yung-jen: Nhà thiết kế đồ họa Đài Loan đầu tiên gia nhập AGI, từ bao bì album âm nhạc đến hệ thống nhận dạng quốc gia'
-description: 'Nieh Yung-jen (sinh 1977) là nhà thiết kế đồ họa Đài Loan đầu tiên gia nhập Liên minh Thiết kế Đồ họa Quốc tế (AGI), giải ba lần Giải thưởng Bao bì Album Tốt nhất tại Giải Âm nhạc Đài Loan. Các dự án thiết kế bao trùm bao bì nhạc pop (Lý Tông Thắng, Lâm Vũ Gia, Lô Duy), xuất bản sách, phong trào xã hội (quảng cáo Thời báo New York năm 2014 lúc 4 giờ sáng, chiến dịch gây quỹ một triệu USD "Taiwan Can Help" năm 2020), cạnh tranh chính trị (thương hiệu chiến dịch 2016 và hai lễ nhậm chức tổng thống của Thái Anh Văn), hệ thống nhận dạng của các doanh nghiệp nhà nước (Bộ Kinh tế, Cơ quan Du lịch, Công ty Dầu mỏ Trung ương, Công ty Điện lực Đài Loan), không gian nghệ thuật (Bảo tàng Xanh Đài Trung, Triển lãm Kiến trúc Hai năm Venice). Studio A-rôn-niệp luôn bận rộn có chi nhánh ở Đài Bắc và kho Bộ Đông Cao Hùng; anh đã học cao học ở Bỉ và London, cả ba trường đều chưa tốt nghiệp; tự nói "trước khi là nhà thiết kế Nieh Yung-jen, anh ấy là công dân Nieh Yung-jen". Từ năm 2024, liên tiếp giành bốn hợp đồng thiết kế của các doanh nghiệp nhà nước; khi logo Công ty Điện lực Đài Loan ra mắt vào ngày 8 tháng 5 năm 2026, xung đột "bồi thường chính trị" nổ ra.'
+title: 'Nhiếp Vĩnh Chân: Thành viên AGI đầu tiên của Đài Loan, hai thập kỷ từ thiết kế bìa album Golden Melody đến hệ thống nhận diện quốc gia'
+description: 'Nhà thiết kế đầu tiên tại Đài Loan gia nhập Hiệp hội Thiết kế Đồ họa Quốc tế (AGI) của Thụy Sĩ, người từng ba lần giành giải Thiết kế bìa album xuất sắc nhất tại Giải thưởng Golden Melody. Các dự án thiết kế của ông trải dài từ bìa đĩa nhạc, quảng cáo trên tờ The New York Times lúc 4 giờ sáng về phong trào Hướng dương năm 2014, chiến dịch gây quỹ "Taiwan Can Help" đạt 10 triệu Đài tệ chỉ trong 8 giờ năm 2020, cho đến hình ảnh chủ đạo lễ nhậm chức hai nhiệm kỳ Tổng thống của Thái Anh Văn cùng hệ thống nhận diện của Bộ Kinh tế, CPC và Taipower. Ông tự nhận: "Trước khi là nhà thiết kế Nhiếp Vĩnh Chân, ông là công dân Nhiếp Vĩnh Chân"; vào ngày logo mới của Taipower ra mắt năm 2026, chính danh tính đó đã khiến ông bị cáo buộc là một sự đãi ngộ chính trị.'
 date: 2026-05-08
 category: 'People'
 tags:
   [
-    'nhà thiết kế',
-    'Nieh Yung-jen',
+    'Nhà thiết kế',
+    'Nhiếp Vĩnh Chân',
     'AGI',
-    'A-rôn-niệp luôn bận rộn',
-    'Giải Âm nhạc Đài Loan',
-    'chiến dịch Thái Anh Văn',
-    'Phong trào Hoa Hướng Dương',
-    'thẩm mỹ phép trừ',
+    'Vĩnh Chân Cấp Chế',
+    'Giải thưởng Golden Melody',
+    'Chiến dịch tranh cử của Thái Anh Văn',
+    'Phong trào Hướng dương',
+    'Thẩm mỹ tối giản',
   ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
@@ -20,9 +20,9 @@ featured: false
 readingTime: 18
 lastVerified: 2026-05-12
 lastHumanReview: false
-researchReport: reports/research/2026-05/聶永真.md
+researchReport: 'reports/research/2026-05/聶永真.md'
 image: '/article-images/people/aaron-nieh-portrait-2018.webp'
-imageAlt: 'Nieh Yung-jen tại một sự kiện công khai của ngành thiết kế Đài Loan vào tháng 3 năm 2018, áo vest màu tối, cầm microphone, phía sau là rèm chiếc tối của không gian triển lãm.'
+imageAlt: 'Chân dung Nhiếp Vĩnh Chân tại một sự kiện công khai trong giới thiết kế Đài Loan vào tháng 3 năm 2018, mặc vest tối màu, tay cầm micro, phía sau là rèm tối màu của khu triển lãm.'
 imageCredit: 'Gene Wang'
 imageLicense: 'CC BY-SA 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%81%B6%E6%B0%B8%E7%9C%9F_(40799138092).jpg'
@@ -38,10 +38,10 @@ sporeLinks:
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/聶永真.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '30ab24424f'
 sourceContentHash: 'sha256:b31e7dab1de7bf10'
 sourceBodyHash: 'sha256:26e4e11c3e29817a'
-translatedAt: '2026-08-09T08:07:25+08:00'
+translatedAt: '2026-11-25T04:27:51.444554+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Nieh Yung-jen (sinh 1977) là nhà thiết kế Đài Loan đầu tiên gia nhập Liên minh Thiết kế Đồ họa Quốc tế AGI, giải ba lần Giải thưởng Bao bì Album Tốt nhất tại Giải Âm nhạc Đài Loan. Anh đã thiết kế bao bì cho các album âm nhạc của Lâm Vũ Gia, Sơ Đạ Xanh, Thái Y Lâm, Điền Phủ Triền; thiết kế bao bì sách cho các nhà xuất bản Mạc Điền, Thời báo, In khắc, Liên kinh; năm 2014, quảng cáo lúc 4 giờ sáng trên Thời báo New York của Phong trào Hoa Hướng Dương, năm 2020 chiến dịch gây quỹ "Taiwan Can Help" trên Thời báo New York đều từ tay anh; thương hiệu chiến dịch 2016 "Thắp sáng Đài Loan" của Thái Anh Văn và hai lễ nhậm chức tổng thống cũng do anh và studio của anh chịu trách nhiệm. A-rôn-niệp luôn bận rộn có chi nhánh thứ hai tại kho Bộ Đông Cao Hùng từ năm 2024, cùng năm đó liên tiếp giành các hợp đồng hệ thống nhận dạng của Công ty Điện lực Đài Loan, Công ty Dầu mỏ Trung ương, Cơ quan Du lịch và Bộ Kinh tế; ngày 8 tháng 5 năm 2026, khi logo Công ty Điện lực Đài Loan ra mắt, cuộc tranh cãi "bồi thường chính trị" nổ ra, anh đã đưa ra năm điểm lý do bổ sung để phản hồi. Anh liên tục nhấn mạnh câu này: "Trước khi là nhà thiết kế Nieh Yung-jen, anh ấy là công dân Nieh Yung-jen", từ năm 2014 đến nay, nó được đọc lại ở những vị trí khác nhau.
