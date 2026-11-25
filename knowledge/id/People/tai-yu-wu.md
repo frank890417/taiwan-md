@@ -1,19 +1,19 @@
 ---
-title: 'Wu Ta-You: Kepala Akademia Sinica yang Merekomendasikan Yang Chen-ning dan Li Zheng-dao ke AS, Sebelas Tahun Membangun Fondasi Penelitian Taiwan'
-description: 'Fisikawan teoretis, Kepala Akademia Sinica, membimbing dua pemenang Nobel Yang Chen-ning dan Li Zheng-dao, guru besar yang membangun fondasi sains Taiwan'
+title: 'Wu Da-you: Presiden Academia Sinica yang Merekomendasikan Yang Chen-Ning dan Lee Tsung-Dao ke Amerika, Sebelas Tahun Peletakan Batu Pertama Riset Ilmiah Taiwan'
+description: 'Seorang fisikawan yang memulai kariernya melalui penelitian teori spektroskopi molekul dan mekanika kuantum, serta pernah mengajar di University of Michigan selama lebih dari sepuluh tahun. Pada tahun 1946, ia secara pribadi merekomendasikan Yang Chen-Ning dan Lee Tsung-Dao untuk melanjutkan studi ke Amerika Serikat, dan sebelas tahun kemudian keduanya bersama-sama meraih Hadiah Nobel Fisika. Sejak tahun 1983, ia menjabat sebagai Presiden Academia Sinica selama sebelas tahun; di masa ketika Taiwan sedang tergesa-gesa mengejar pertumbuhan ekonomi, ia tetap teguh pada prinsip bahwa penelitian dasar tidak dapat tergantikan, mendorong sistem evaluasi penelitian yang lebih ketat, serta mendatangkan talenta dari luar negeri, guna meletakkan fondasi institusional bagi sistem riset ilmiah Taiwan.'
 date: 2026-03-19
 category: 'People'
-tags: ['Tokoh', 'Ilmuwan', 'Fisika', 'Pendidikan', 'Akademia Sinica']
+tags: ['Tokoh', 'Ilmuwan', 'Fisika', 'Pendidikan', 'Academia Sinica']
 subcategory: '科學與學術'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-16
 lastHumanReview: true
 translatedFrom: 'People/吳大猷.md'
-sourceCommitSha: '85926aa3b'
+sourceCommitSha: '45b1bf37e0'
 sourceContentHash: 'sha256:ea84edf10c10d1a4'
 sourceBodyHash: 'sha256:54cafe2c5032e30e'
-translatedAt: '2026-08-04T06:18:07+08:00'
+translatedAt: '2026-11-25T04:22:42.408687+00:00'
 ---
 
 > **Ringkasan 30 detik:** Wu Ta-You (1907–2000), fisikawan teoretis. Tahun 1946 ia secara pribadi merekomendasikan Yang Chen-ning dan Li Zheng-dao ke AS, keduabelas tahun kemudian bersama-sama meraih Nobel Fisika. Mulai 1983 menjabat Kepala Akademia Sinica selama sebelas tahun, di era Taiwan berburu pertumbuhan ekonomi ia tetap mempertahankan sains dasar, membangun fondasi sistem penelitian Taiwan.

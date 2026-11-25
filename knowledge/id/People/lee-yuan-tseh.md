@@ -1,16 +1,16 @@
 ---
-title: 'Lee Yuan-tseh'
-description: 'Pemenang Nobel Kimia 1986, mengawali bidang baru kinetika kimia dengan teknik silang berkas molekul, pemenang Nobel sains pertama Taiwan'
+title: 'Li Yuan-tseh'
+description: 'Pemenang Hadiah Nobel bidang sains pertama dari Taiwan, lahir pada tahun 1936 di Hsinchu selama masa penjajahan Jepang. Setelah lulus dari Departemen Kimia Universitas Nasional Taiwan, ia pergi ke Amerika Serikat untuk meraih gelar doktor dari University of California, Berkeley. Di Harvard, ia bekerja sama dengan pemenang Nobel Hershey untuk mengembangkan teknologi berkas molekul silang yang revolusioner, yang memungkinkan para ilmuwan untuk pertama kalinya "melihat" proses reaksi kimia. Ia dianugerahi Hadiah Nobel Kimia pada tahun 1986. Pada tahun 1994, ia mengundurkan diri dari posisinya sebagai profesor di Berkeley, melepaskan kewarganegaraan Amerika Serikat, dan kembali ke Taiwan untuk menjabat sebagai Presiden Academia Sinica selama 12 tahun.'
 date: 2026-03-21
 category: 'People'
 tags:
   [
     'Tokoh',
-    'Lee Yuan-tseh',
-    'Nobel',
+    'Li Yuan-tseh',
+    'Hadiah Nobel',
     'Kimia',
     'Ilmuwan',
-    'Akademia Sinica',
+    'Academia Sinica',
     'Taiwan',
   ]
 subcategory: '科學與學術'
@@ -20,10 +20,10 @@ lastVerified: 2026-03-21
 lastHumanReview: true
 curation: 'incubating'
 translatedFrom: 'People/李遠哲.md'
-sourceCommitSha: '69b3afd91'
-sourceContentHash: 'sha256:c7cb9c37ad53a48c'
-sourceBodyHash: 'sha256:d9744718376b888a'
-translatedAt: '2026-08-04T17:42:35+08:00'
+sourceCommitSha: '00dc1f6e04'
+sourceContentHash: 'sha256:39f343c12ccc5e82'
+sourceBodyHash: 'sha256:9e43ab4838b073f1'
+translatedAt: '2026-11-25T04:25:23.712257+00:00'
 ---
 
 # Lee Yuan-tseh
@@ -56,13 +56,13 @@ Kabar kemenangan Lee Yuan-tseh sampai ke Taiwan, seluruh pulau bergemetar. Ini p
 
 Menariknya, kewarganegaraan Nobel Lee Yuan-tseh adalah Amerika Serikat. Namun hal itu tidak mengurangi kebanggaan warga Taiwan — mereka tahu anak Hsinchu yang besar sambil berbahasa Taiwan, yang mengalir di darahnya adalah nutrisi Taiwan.
 
-## 1994: Janji Pulang Berilmu
+## 1994: Janji untuk Kembali ke Tanah Air Setelah Menyelesaikan Studi
 
-1994, di puncak karir akademik, Lee Yuan-tseh membuat keputusan mengejutkan dunia akademik internasional: mengundurkan diri dari jabatan profesor Berkeley, melepaskan kewarganegaraan AS, pulang ke Taiwan menjabat Kepala Akademia Sinica (1994–2006).
+Pada tahun 1994, saat berada di puncak karier akademisnya, Lee Yuan-tseh membuat keputusan yang mengejutkan dunia akademik internasional: mengundurkan diri dari posisinya sebagai profesor di Berkeley, melepaskan kewarganegaraan Amerika Serikat, dan kembali ke Taiwan untuk menjabat sebagai Presiden Academia Sinica (1994-2006).
 
-Keputusan ini penuh kontroversi. Kritikus menilai ia membuang pengaruh di panggung internasional, pendukung menilai ia mewujudkan ideal cendekiawan berbakti pada bangsa. Alasan Lee Yuan-tseh sederhana: «Saya ingin menggunakan pengalaman sendiri, menjadikan Taiwan pusat ilmu pengetahuan Asia.»
+Keputusan ini penuh dengan kontroversi. Para kritikus berpendapat bahwa ia menyia-nyiakan pengaruhnya di panggung internasional, sementara para pendukung percaya bahwa ia telah mewujudkan idealisme seorang cendekiawan untuk mengabdi kepada negara. Alasan Lee Yuan-tseh sendiri sangat sederhana: "Saya berharap dapat menggunakan pengalaman saya untuk menjadikan Taiwan sebagai pusat sains di Asia."
 
-Selama 12 tahun memimpin Akademia Sinica, Lee Yuan-tseh mendorong modernisasi organisasi, menetapkan sistem penilaian penelitian berstandar internasional, mendirikan banyak institut baru seperti Ilmu Komputer, Ilmu Biomedis, Penelitian Genom. Ia menarik Weng Chi-huey (翁啟惠), Lai Ming-chao (賴明詔) dan sarjana kelas dunia lain pulang ke Taiwan, menyuntikkan vitalitas baru ke komunitas ilmuwan Taiwan.
+Selama 12 tahun menjabat sebagai Presiden Academia Sinica, Lee Yuan-tseh mendorong modernisasi organisasi, membangun sistem penilaian penelitian yang berstandar internasional, serta mendirikan berbagai institut baru seperti ilmu informasi, ilmu biomedis, dan penelitian genomik. Ia juga merekrut cendekiawan kelas dunia seperti Weng Chi-hui dan Lai Ming-chao untuk kembali ke Taiwan, guna menyuntikkan vitalitas baru bagi dunia sains di Taiwan.
 
 ## Keterlibatan Kontroversial dalam Reformasi Pendidikan
 

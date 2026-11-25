@@ -1,16 +1,9 @@
 ---
 title: 'Chen Cheng-po'
-description: 'Dia menaklukkan Teiten Tokyo dengan lukisan minyaknya, namun dieksekusi di depan Stasiun Chiayi — dan yang membuat dunia mengenalnya sering kali adalah kematiannya, bukan lukisan-lukisannya.'
+description: 'Seorang pelukis minyak asal Chiayi, orang Taiwan pertama yang karyanya terpilih dalam Pameran Seni Kekaisaran Jepang melalui medium cat minyak. Ia pernah mengajar di Shanghai selama empat tahun dan menjalin hubungan dengan tokoh-tokoh seperti Zhang Daqian serta Pan Yuliang. Setelah kembali ke Taiwan, ia menciptakan karya-karya representatif seperti "Tamsui Sunset". Dalam Peristiwa 228, ia bertindak sebagai perwakilan negosiasi yang pergi ke Bandara Shuishang, namun akhirnya dieksekusi mati di depan Stasiun Chiayi. Istrinya, Chang Chieh, menyembunyikan ratusan lukisannya di loteng dan membakar bingkai-bingkai lukisan di depan pintu rumah; penyembunyian ini berlangsung selama tiga puluh tahun. Karya "Tamsui Sunset" kemudian terjual seharga sekitar NT$220 juta, yang hingga kini masih memegang rekor lelang lukisan minyak tertinggi bagi pelukis Taiwan.'
 date: 2026-03-31
 category: 'People'
-tags:
-  [
-    'Seni',
-    'Lukisan',
-    'Peristiwa 28 Februari',
-    'Chiayi',
-    'Masa Pendudukan Jepang',
-  ]
+tags: ['Seni', 'Lukisan', 'Peristiwa 228', 'Chiayi', 'Era Penjajahan Jepang']
 subcategory: '藝術家'
 author: 'Taiwan.md'
 featured: false
@@ -19,10 +12,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/陳澄波.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '45b1bf37e0'
 sourceContentHash: 'sha256:485587af49d56815'
 sourceBodyHash: 'sha256:433a66ecaa1d5d52'
-translatedAt: '2026-11-04T21:36:11.755867+00:00'
+translatedAt: '2026-11-25T03:52:55.944945+00:00'
 ---
 
 > **Ringkasan 30 Detik:** 25 Maret 1947, di depan Stasiun Kereta Api Chiayi, seorang pria yang memegang kuas dicatut kedua tangannya dengan kawat besi, dieksekusi di tengah jalan. Namanya Chen Cheng-po, orang Taiwan pertama yang lolos seleksi Teiten Jepang dengan lukisan minyak, dan juga orang yang pergi berunding saat Peristiwa 28 Februari namun tidak pernah pulang.

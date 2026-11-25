@@ -1,15 +1,15 @@
 ---
-title: 'Chian-chian Makan: Menjadikan "Sangat Bisa Makan" Menjadi Suatu Rasa Khas Taiwan'
-description: 'Dia pertama kali dikenal lewat porsi makan besar, lalu mengubah aliran penonton jadi konten dan merek yang bertanggung jawab pada makanan, penonton, dan selera Taiwan.'
+title: 'Chien Chien Makan: Mengubah "Pandai Makan" Menjadi Rasa Khas Taiwan'
+description: 'Dia yang awalnya bekerja sebagai perawat peneliti di Rumah Sakit Universitas Taiwan, terlihat karena lomba makan besar, mengundurkan diri dari pekerjaan stabil untuk menjadi YouTuber penuh waktu, pertama kali dikenal karena porsi makannya, lalu perlahan mengarahkan kanalnya ke masakan, makanan lokal, dan merek. Pada tahun 2018 meluncurkan Mie Chien Campur, tidak mengikuti tren pedas mala melainkan memilih minyak wijen hitam dan rasa kampung, terjual hampir 30.000 pak dalam sebulan, kemudian dibawa ke gerobak pop-up di Taipei, Hsinchu, Taichung, dan Kaohsiung. Dia tidak meninggalkan image raja makan dengan memudakan aspek makan, melainkan dengan memahami makanan lebih detail, sehingga "makan banyak" tidak lagi menjadi satu-satunya cerita.'
 date: 2026-08-16
 category: 'People'
 tags:
   [
-    'Chian-chian Makan',
-    'Hong Chien-shu',
+    'Chien Chien Makan',
+    'Hong Qian-shu',
     'YouTuber',
     'mukbang',
-    'makanan Taiwan',
+    'Makanan Taiwan',
   ]
 subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
@@ -19,19 +19,19 @@ lastHumanReview: false
 readingTime: 7
 curation: 'incubating'
 translatedFrom: 'People/千千進食中.md'
-sourceCommitSha: '513bf256a'
-sourceContentHash: 'sha256:4bfc707dc97b4776'
-sourceBodyHash: 'sha256:685bed7af9ee32a1'
-translatedAt: '2026-09-12T02:30:18+08:00'
+sourceCommitSha: '45b1bf37e0'
+sourceContentHash: 'sha256:e967fd4cff734536'
+sourceBodyHash: 'sha256:1978cbe0e37b1512'
+translatedAt: '2026-11-25T04:06:44.174557+00:00'
 ---
 
-Pada 2016, Hong Chien-shu terlihat dalam acara lomba makan besar di televisi Jepang; tahun berikutnya, dia meraih juara dua putri dalam lomba makan mie soba dengan memakan 226 mangkuk dalam lima menit. [^1] Pada 2018, dia lagi memproduksi video tantangan memakan 100 sosis di rumah, dan media meliputnya sebagai rutinitas 'gadis cantik raja makan besar'. [^2] Kedua angka itu dengan mudah mengunci Chian-chian sebagai satu tontonan: dia hanyalah orang yang makan lebih banyak dari orang lain.
+Pada 2016, Hong Chien-shu terlihat dalam acara raja makan besar di televisi Jepang; tahun berikutnya, ia meraih juara dua putri dalam lomba mie soba dengan memakan 226 mangkuk dalam lima menit.[^1] Pada 2018, ia membuat video tantangan memakan 100 sosis di rumah, dan media melaporkan hal ini sebagai rutinitas "Gadis Cantik Raja Makan Besar".[^2] Kedua angka itu dengan mudah mengikat Chian-chian pada satu tipe tayangan: dia hanyalah orang yang makan lebih banyak dari orang lain.
 
-![Mie daging sapi Taiwan; gambar bukan produk yang sama dengan Chian-chian Mie Campur, hanya sebagai ilustrasi editorial budaya mie Taiwan](https://commons.wikimedia.org/wiki/Special:FilePath/Taiwanese%20Beef%20Noodle%20Soup.jpg)
+![Mie Daging Sapi Taiwan; gambar ini bukan produk yang sama dengan Chian-chian Mie Campur, hanya sebagai ilustrasi editorial budaya mie Taiwan](https://commons.wikimedia.org/wiki/Special:FilePath/Taiwanese%20Beef%20Noodle%20Soup.jpg)
 
-_Gambar: Jjj84206/Wikimedia Commons, CC BY-SA 4.0; [Detail dan lisensi gambar](https://commons.wikimedia.org/wiki/File:Taiwanese_Beef_Noodle_Soup.jpg). Gambar ini adalah mie daging sapi Taiwan, bukan produk yang difoto atau dijual oleh Chian-chian Makan._
+_Gambar: Jjj84206/Wikimedia Commons, CC BY-SA 4.0; [detail gambar dan lisensi](https://commons.wikimedia.org/wiki/File:Taiwanese_Beef_Noodle_Soup.jpg). Gambar ini adalah Mie Daging Sapi Taiwan, bukan produk yang difoto atau dijual oleh Chian-chian Mie Campur._
 
-Namun yang benar-benar layak dipertahankan dari Chian-chian Makan bukanlah berapa banyak yang bisa dimakannya, melainkan bagaimana dia kemudian menangani 'makan yang ditonton'. Dia beralih dari perawat menjadi YouTuber penuh waktu, pertama menjadikan porsi makan sebagai identitas, lalu perlahan mengarahkan saluran dari tantangan pemakan besar ke masak, unboxing, makanan lokal, dan merek. Keanehan jalan ini terletak pada: **dia tidak meninggalkan label pemakan besar dengan meredakan makan, melainkan dengan memahami makanan lebih teliti, sehingga 'makan banyak' tidak lagi menjadi satu-satunya cerita.**
+Namun yang benar-benar layak diingat dari Chian-chian Mie Campur bukan berapa banyak yang bisa ia makan, melainkan bagaimana ia kemudian menangani "makan yang ditonton". Ia beralih dari perawat menjadi YouTuber penuh waktu, pertama menjadikan porsi makan sebagai identitasnya, lalu perlahan mengarahkan salurannya dari tantangan raja makan besar ke masak-memasak, unboxing, makanan khas daerah, dan kolaborasi merek. Kejutan kontrintuitif dari jalur ini terletak pada: **ia tidak meninggalkan dunia raja makan besar dengan meredakan peran makan, melainkan dengan memahami makanan lebih teliti, sehingga "makan banyak" tidak lagi menjadi satu-satunya cerita.**
 
 ## Pertama Dilihat Sebagai Sebuah Perut
 

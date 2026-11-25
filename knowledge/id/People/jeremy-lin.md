@@ -1,6 +1,6 @@
 ---
-title: 'Jeremy Lin: Dari Dibuang Dua Kali dalam 15 Hari hingga Pensiun sebagai MVP Ganda TPBL'
-description: 'Juara negara bagian SMA tidak mendapat beasiswa, tidak dipilih di draft, dibuang dua kali dalam 15 hari—lalu ia membuat dunia mengenal "Linsanity"'
+title: 'Jeremy Lin: Dari Dicoret Dua Kali dalam 15 Hari ke MVP Ganda TPBL Lalu Pensiun, Perjalanan Bola Basketnya'
+description: 'Atlet bola basket keturunan Taiwan-Amerika, lahir di California tahun 1988, generasi ke-9 imigran Taiwan. Di SMA ia membawa tim meraih kejuaraan negara bagian California, namun tidak ada sekolah NCAA Divisi I yang memberinya beasiswa. Setelah tidak terpilih draft, dalam 15 hari ia dicoret oleh dua tim NBA. Februari 2012 ia naik dari bangku cadangan, tujuh pertandingan berturut-turut rata-rata mencetak 24,4 poin, memicu fenomena "Linsanity"; 2019 bersama Raptors meraih juara NBA, menjadi pemain keturunan Asia-Amerika pertama yang meraih gelar juara NBA; 2025 di Taiwan ia pensiun sebagai MVP Musim Reguler dan MVP Final.'
 date: 2026-03-19
 category: 'People'
 tags:
@@ -20,10 +20,10 @@ featured: true
 lastVerified: 2026-05-16
 lastHumanReview: true
 translatedFrom: 'People/林書豪.md'
-sourceCommitSha: '85926aa3b'
+sourceCommitSha: '00dc1f6e04'
 sourceContentHash: 'sha256:5bcf40616e842909'
 sourceBodyHash: 'sha256:15c8e50bb3ba07a7'
-translatedAt: '2026-08-04T06:18:07+08:00'
+translatedAt: '2026-11-25T04:11:49.389316+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Jeremy Lin, lahir 1988 di California, keturunan imigran Taiwan generasi kesembilan. SMA membawakan tim meraih juara negara bagian California, tidak ada satu pun sekolah NCAA Divisi I yang memberinya beasiswa. Masuk Harvard, draft tidak dipilih, dalam 15 hari dibuang oleh dua tim NBA. Februari 2012, naik dari bangku cadangan rata-rata 24,4 poin tujuh pertandingan berturut-turut, meledakkan fenomena "Linsanity".[^1] 2019 meraih cincin juara NBA bersama Raptors, menjadi pemain keturunan Asia-Amerika pertama yang memperoleh cincin juara NBA.[^2] 2025 di Taiwan pensiun sebagai MVP Musim dan MVP Final, melengkupi lengkungan penuh dari Amerika ke Taiwan.[^3]

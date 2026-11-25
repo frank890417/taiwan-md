@@ -1,31 +1,31 @@
 ---
-title: 'Tu Tsung-ming'
-description: 'Dokter kedokteran pertama Taiwan, menciptakan metode penarikan bertahap yang membantu 11.498 orang bebas opium dalam 17 tahun, pendiri Universitas Kedokteran Kaohsiung'
+title: 'Du Cong-ming'
+description: 'Doktor medis pertama dalam sejarah Taiwan, lahir di Sanzhi pada tahun 1893. Pada tahun 1922, ia memperoleh gelar doktor medis dari Universitas Kekaisaran Kyoto, sebuah pencapaian yang diberitakan sebagai berita utama oleh surat kabar Taiwan. Ia menemukan "Metode Penghentian Bertahap" (Gradual Abstinence Method) yang membantu lebih dari 11.498 pecandu opium untuk berhenti dalam kurun waktu 17 tahun, sehingga menyelesaikan masalah opium di Taiwan yang telah berlangsung selama tiga ratus tahun; prinsip pengujian morfin melalui urin yang ia temukan hingga kini masih menjadi metode dasar pengujian narkoba secara global, dan ia juga merupakan pendiri Universitas Kedokteran Kaohsiung, universitas swasta pertama di seluruh Taiwan.'
 date: 2026-03-31
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '歷史人物'
 tags:
   [
     'Kedokteran',
-    'Dokter Kedokteran',
+    'Doktor Medis',
     'Kedokteran Modern Taiwan',
-    'Universitas Imperial Kyoto',
+    'Universitas Kekaisaran Kyoto',
     'Farmakologi',
     'Opium',
-    'Masa Pendudukan Jepang',
+    'Era Penjajahan Jepang',
     'Universitas Kedokteran Kaohsiung',
   ]
+subcategory: '歷史人物'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-31
 lastHumanReview: false
-featured: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/杜聰明.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '00dc1f6e04'
 sourceContentHash: 'sha256:cda33c38cf5ae9bc'
 sourceBodyHash: 'sha256:f0f1f0e7889b7e24'
-translatedAt: '2026-07-25T00:11:59+08:00'
+translatedAt: '2026-11-25T04:20:22.910002+00:00'
 ---
 
 # Tu Tsung-ming

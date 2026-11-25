@@ -1,13 +1,13 @@
 ---
-title: 'Chi-Huey Wong (翁啟惠)'
-description: 'Otoritas dunia di bidang kimia karbohidrat, pemenang Penghargaan Kimia Wolf 2014, mantan Kepala Akademia Sinica, melewatkan Nobel karena kasus Haoding'
+title: 'Weng Chi-huei'
+description: 'Otoritas dunia di bidang kimia karbohidrat, lahir di Tainan pada tahun 1948. Setelah lulus dari Departemen Kimia Universitas Nasional Taiwan, ia pergi ke Amerika Serikat untuk meraih gelar doktor kimia organik dari Massachusetts Institute of Technology (MIT), dan kemudian menetap di Scripps Research Institute. Pada tahun 2014, ia memenangkan Penghargaan Wolf dalam bidang Kimia yang dijuluki sebagai "pendahulu Nobel", bahkan anggota komite Nobel sempat bersiap terbang ke Taiwan untuk menemuinya; pada tahun 2016, ia mengundurkan diri dari jabatan Direktur Academia Sinica karena kasus Haoding. Pada tahun 2019, ia dinyatakan tidak bersalah dalam persidangan tingkat pertama, dan ia menyatakan bahwa "Undang-Undang Bioteknologi adalah sesuatu yang saya dorong, namun akhirnya justru saya yang menjadi korban pertama".'
 date: 2026-03-31
 category: 'People'
 tags:
   [
-    'Sarjana',
+    'Akademisi',
     'Kimia',
-    'Akademia Sinica',
+    'Academia Sinica',
     'Kimia Karbohidrat',
     'Kasus Haoding',
     'Nobel',
@@ -21,10 +21,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/翁啟惠.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '00dc1f6e04'
 sourceContentHash: 'sha256:984fef279b1af05b'
 sourceBodyHash: 'sha256:8e4d8fb8704570d2'
-translatedAt: '2026-07-26T12:49:15+08:00'
+translatedAt: '2026-11-25T04:18:10.924396+00:00'
 ---
 
 # Chi-Huey Wong (翁啟惠)

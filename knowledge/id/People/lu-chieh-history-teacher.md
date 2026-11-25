@@ -1,18 +1,18 @@
 ---
-title: 'Lü Chieh: Dari Satu Pertanyaan 228 yang Dihindari, ke 28 Kelas Sejarah Taiwan'
-description: 'Dari wawancara di toko produk laut ke panggung bimbel, Lü Chieh menggunakan cerita untuk mendorong pelajaran inti, namun juga menuntut siswa kembali ke bahan sejarah, fakta sejarah, dan pandangan sejarah.'
+title: 'Lü Chieh: Dari Pertanyaan 228 yang Dihindari, ke 28 Pelajaran Sejarah Taiwan'
+description: 'Seorang guru bimbingan belajar terkenal yang awalnya ingin kuliah hukum, namun karena salah mengisi pilihan masuk ke jurusan sejarah. Ia dari panggung bimbingan belajar didorong ke sorotan publik oleh sebuah video pengajaran, berpegang bahwa sejarah bukan hanya hafalan, melainkan pembedaan tiga lapisan: bahan sejarah, fakta sejarah, dan pandangan sejarah. Pada tahun 2026 meluncurkan kursus Sejarah Taiwan yang berlandaskan 28 situs sejarah, memasukkan kebebasan, demokrasi, budaya, identitas, dan posisi internasional ke dalam satu peta yang sama. Ia berkata sejarah bukan mengajarmu mengenal sejarah, melainkan mengenal sifat manusia; cerita bisa enak didengar, tetapi harus meninggalkan jalan keluar yang dapat diverifikasi.'
 date: 2026-08-14
 category: 'People'
-subcategory: '教育與社會'
 tags:
   [
     'Tokoh',
     'Lü Chieh',
     'Pendidikan Sejarah',
-    'Budaya Bimbel',
+    'Kultur Bimbingan Belajar',
     'Sejarah Taiwan',
     'Media',
   ]
+subcategory: '教育與社會'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-14
@@ -20,10 +20,10 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/呂捷.md'
-sourceCommitSha: '4a95859b1'
-sourceContentHash: 'sha256:67c5ad771d308cd6'
+sourceCommitSha: '45b1bf37e0'
+sourceContentHash: 'sha256:8682de0c2d43ca25'
 sourceBodyHash: 'sha256:6ab4993ddc7e3736'
-translatedAt: '2026-09-12T19:57:13+08:00'
+translatedAt: '2026-11-25T03:47:35.523637+00:00'
 ---
 
 # Lü Chieh: Dari Satu Pertanyaan 228 yang Dihindari, ke 28 Kelas Sejarah Taiwan
@@ -158,30 +158,30 @@ Pertanyaan di kelas SMA itu yang dihindari, tak dapet jawaban jadi di sini. Yang
 
 ## Referensi
 
-[^1]: [StoryStudio / Apple Podcasts: 〈Siapa Bilang Sejarah Taiwan Cuma Bisa Sedih? Guru Sejarah Bimbel Terkenal 20 Tahun Observasi Lapangan Pertama ft. Lü Chieh〉](https://podcasts.apple.com/tw/podcast/%E8%AA%B0%E8%AA%AA%E8%87%BA%E7%81%A3%E5%8F%B2%E5%8F%AA%E8%83%BD%E6%82%B2%E6%83%85-%E6%AD%B7%E5%8F%B2%E8%A3%9C%E6%95%99%E5%90%8D%E5%B8%AB%E7%B8%B1%E6%A9%AB%E6%B2%99%E5%A0%B4-20-%E5%B9%B4%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%8B%E7%8F%BE%E5%A0%B4%E8%A7%80%E5%AF%9F-ft-%E5%91%82%E6%8D%B7/id1593373742?i=1000778009947) — Pengantar acara terbit Juli 2026, catat kenangan Lü Chieh soal pertanyaan 228 SMA, serta arah dia repikir cara ajar Sejarah Taiwan.
+[^1]: [StoryStudio／Apple Podcasts: "Siapa Bilang Sejarah Taiwan Hanya Bisa Sedih? Observasi Lapangan Pertama Seorang Guru Sejarah Terkenal yang Berjuang 20 Tahun ft. Lü Jie"](https://podcasts.apple.com/tw/podcast/%E8%AA%B0%E8%AA%AA%E8%87%BA%E7%81%A3%E5%8F%B2%E5%8F%AA%E8%83%BD%E6%82%B2%E6%83%85-%E6%AD%B7%E5%8F%B2%E8%A3%9C%E6%95%99%E5%90%8D%E5%B8%AB%E7%B8%B1%E6%A9%AB%E6%B2%99%E5%A0%B4-20-%E5%B9%B4%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%8B%E7%8F%BE%E5%A0%B4%E8%A7%80%E5%AF%9F-ft-%E5%91%82%E6%8D%B7/id1593373742?i=1000778009947) — Pengantar acara yang dirilis Juli 2026, mencatat kenangan Lü Jie tentang pertanyaan soal 228 di SMA, serta arah pemikirannya ulang tentang metode mengajar sejarah Taiwan.
 
-[^2]: [Future Parenting: 〈Tapi Sifat Manusia Tak Berubah. Guru Terkenal Lü Chieh: "Belajar Sejarah Paling Penting Bukan Ujian Naik Kelas"〉](https://futureparenting.cwgv.com.tw/family/content/index/22429) — Muat ucapan langsung Lü Chieh soal salah isi志愿 Jurusan Sejarah, kegunaan pendidikan sejarah, dan belok hidup, serta kutip isi bukunya.
+[^2]: [Future Parenting: "Tapi Sifat Manusia Tidak Berubah. Guru Terkenal Lü Jie: 'Yang Paling Penting dalam Belajar Sejarah Bukan Ujian Masuk Sekolah'"](https://futureparenting.cwgv.com.tw/family/content/index/22429) — Mencatat narasi langsung Lü Jie tentang salah isi pilihan jurusan sejarah, kegunaan pendidikan sejarah, dan titik balik hidup, serta kutipan dari karyanya.
 
-[^3]: [Future Parenting: 〈Tapi Sifat Manusia Tak Berubah. Guru Terkenal Lü Chieh: "Belajar Sejarah Paling Penting Bukan Ujian Naik Kelas"〉](https://futureparenting.cwgv.com.tw/family/content/index/22429) — Akhir penulis cantumkan S1 Jurusan Sejarah Universitas Chung Cheng, S2 Program Pascasarjana Sejarah, dan pengalaman host _Lü Baca Taiwan_, buat cocokkan identitas pendidik sejarahnya.
+[^3]: [Future Parenting: "Tapi Sifat Manusia Tidak Berubah. Guru Terkenal Lü Jie: 'Yang Paling Penting dalam Belajar Sejarah Bukan Ujian Masuk Sekolah'"](https://futureparenting.cwgv.com.tw/family/content/index/22429) — Profil penulis di akhir mencantumkan pendidikan Departemen Sejarah dan Institut Sejarah Universitas Chung Cheng, serta pengalaman mengisi 'Lü Du Taiwan', dapat dijadikan referensi identitasnya sebagai pendidik sejarah.
 
-[^4]: [Future Parenting: 〈Tapi Sifat Manusia Tak Berubah. Guru Terkenal Lü Chieh: "Belajar Sejarah Paling Penting Bukan Ujian Naik Kelas"〉](https://futureparenting.cwgv.com.tw/family/content/index/22429) — Langsung muat paragraf asli "bahan sejarah, fakta sejarah, pandangan sejarah", cocok buat bedah ucapan dia soal pemahaman sejarah dan pembentukan pandangan.
+[^4]: [Future Parenting: "Tapi Sifat Manusia Tidak Berubah. Guru Terkenal Lü Jie: 'Yang Paling Penting dalam Belajar Sejarah Bukan Ujian Masuk Sekolah'"](https://futureparenting.cwgv.com.tw/family/content/index/22429) — Langsung memuat paragraf asli "Sumber Sejarah, Fakta Sejarah, Pandangan Sejarah", cocok untuk membedakan pendapatnya tentang pemahaman sejarah dan pembentukan sudut pandang.
 
-[^5]: [National Quemoy University: _Lü Jie's Talk: "Understanding History as Society Progresses"_](https://ecasc.nqu.edu.tw/p/405-1017-11381,c1579.php?Lang=en) — Halaman kegiatan bahasa Inggris Universitas Nasional Kinmen, jelaskan video mengajar bimbel Kaohsiung 2014 viral dan posisinya jadi pembicara memahami masyarakat lewat sejarah.
+[^5]: [Universitas Nasional Kinmen: _Pidato Lü Jie: "Memahami Sejarah Saat Masyarakat Maju"_](https://ecasc.nqu.edu.tw/p/405-1017-11381,c1579.php?Lang=en) — Halaman acara berbahasa Inggris Universitas Nasional Kinmen, menjelaskan video mengajar di bimbel Kaohsiung 2014 yang viral dan posisinya sebagai pembicara yang memahami masyarakat lewat sejarah.
 
-[^6]: [Bukalapak: _Gue Nggak Ngajar Sejarah, Tapi Sifat Manusia_](https://www.books.com.tw/products/0010693183) — Data buku terbit 2015 dengan intro isi, cantumkan kalimat asli "Sejarah bukan mengajarmu kenal sejarah, tapi kenal sifat manusia" dll.
+[^6]: [Books.com.tw: "Yang Diajar Bukan Sejarah, Tapi Sifat Manusia"](https://www.books.com.tw/products/0010693183) — Bibliografi dan pengantar isi publikasi 2015, mencantumkan kalimat asli penulis: "Sejarah bukan mengajarmu mengenal sejarah, tapi mengenal sifat manusia".
 
-[^7]: [HuaTV News: 〈Guru Bimbel Terkenal Lü Chieh Pegang Host _Perang Negara Lü BATTLE_〉](https://news.cts.com.tw/cts/general/202309/202309132227322.html) — Rilis acara HuaTV Saluran Berita & Informasi, jelaskan jadwal tayang, desain lintas generasi dan lintas bidang, serta ucapan Lü Chieh soal diskusi.
+[^7]: [CTS News: "Guru Terkenal Lü Jie Mengambil Alih Tuan Rumah 'Lü Shi Zhan Guo BATTLE'"](https://news.cts.com.tw/cts/general/202309/202309132227322.html) — Rilis acara saluran berita CTS, menjelaskan waktu tayang, desain lintas generasi dan lintas bidang, serta ungkapan Lü Jie tentang diskusi.
 
-[^8]: [Satelit Pengetahuan: 〈28 Kelas Sejarah Taiwan Lü Chieh〉](https://sat.cool/course/199) — Halaman rilis kursus, catat 28 unit, 10 jam, dan desain kursus mengaitkan situs sejarah ke kebebasan, demokrasi, budaya, identitas, dan posisi internasional Taiwan.
+[^8]: [Knowledge Satellite: "28 Pelajaran Sejarah Taiwan oleh Lü Jie"](https://sat.cool/course/199) — Halaman rilis kursus, mencatat 28 unit, 10 jam, dan desain kursus yang menghubungkan tapak sejarah dengan kebebasan, demokrasi, budaya, identitas, dan posisi internasional Taiwan.
 
-[^9]: [Bukalapak: _Gue Nggak Ngajar Sejarah, Tapi Sifat Manusia_](https://www.books.com.tw/products/0010693183) — Data buku cantumkan ISBN, 208 halaman, terbit 29 Oktober 2015; cuma buat cocokkan titik terbit dan isi buku.
+[^9]: [Books.com.tw: "Yang Diajar Bukan Sejarah, Tapi Sifat Manusia"](https://www.books.com.tw/products/0010693183) — Data bibliografi mencantumkan ISBN, 208 halaman, dan tanggal terbit 29 Oktober 2015; hanya untuk referensi titik terbit dan pencocokan isi karya.
 
-[^10]: [Business Weekly: 〈Lü Chieh: Menghadapi Diri Sendiri yang Nyata Adalah Awal Lepas Loser!〉](https://www.businesstoday.com.tw/article/category/80407/post/201512170102/) — Kutip buku dan rangkum wawancara 2015, catat ulang ujian, salah志愿 masuk Jurusan Sejarah, serta narasi titik awal kerja bimbel dan fase terendah pribadi.
+[^10]: [Business Weekly: "Lü Jie: Menghadapi Diri Sendiri yang Nyata Adalah Awal untuk Keluar dari Keadaan 'Lu She'!"](https://www.businesstoday.com.tw/article/category/80407/post/201512170102/) — Kutipan buku dan rangkuman wawancara 2015, mencatat ulang ujian, masuk jurusan sejarah setelah salah isi pilihan, serta narasi awal kerja bimbel dan titik terendah pribadi.
 
-[^11]: [StoryStudio: 〈Siapa Bilang Sejarah Taiwan Cuma Bisa Sedih? Guru Sejarah Bimbel Terkenal 20 Tahun Observasi Lapangan Pertama ft. Lü Chieh〉](https://storystudio.tw/article/gushi/lu-jie-podcast) — Wawancara Juli 2026 tampilkan段段 Lü Chieh dari warung seafood masuk bimbel, pengalaman kelas pertama, proporsi kelas, dan posisi kursus Sejarah Taiwan "di bawah pohon beringin".
+[^11]: [StoryStudio: "Siapa Bilang Sejarah Taiwan Hanya Bisa Sedih? Observasi Lapangan Pertama Seorang Guru Sejarah Terkenal yang Berjuang 20 Tahun ft. Lü Jie"](https://storystudio.tw/article/gushi/lu-jie-podcast) — Wawancara Juli 2026 disajikan per segmen, menampilkan Lü Jie dari toko hasil laut masuk bimbel, pengalaman kelas pertama, proporsi kelas, dan posisi kursus sejarah Taiwan di "Bawah Pohon Beringin".
 
-[^12]: [Yahoo News: 〈"Pendidikan Sejarah Kita Gagal" Lü Chieh: Yang Harus Diubah Bukan Kurikulum〉](https://tw.news.yahoo.com/%E3%80%8C%E6%88%91%E5%80%91%E6%AD%B7%E5%8F%B2%E6%95%99%E8%82%B2%E5%A4%B1%E6%95%97%E3%80%8D-%E5%91%82%E6%8D%B7%EF%BC%9A%E8%A6%81%E6%94%B9%E7%9A%84%E4%B8%8D%E6%98%AF%E8%AA%B2%E7%B6%B1-132415186.html) — Liputan 2018 kutip tuntutan publik dia soal Kurikulum Baru dan mode ujian, isi bahan sejarah, fakta sejarah, pandangan sejarah, dan pembedaan pilihan ganda serta uraian.
+[^12]: [Yahoo News: "'Pendidikan Sejarah Kita Gagal' Lü Jie: Yang Perlu Diubah Bukan Kurikulum"](https://tw.news.yahoo.com/%E3%80%8C%E6%88%91%E5%80%91%E6%AD%B7%E5%8F%B2%E6%95%99%E8%82%B2%E5%A4%B1%E6%95%97%E3%80%8D-%E5%91%82%E6%8D%B7%EF%BC%9A%E8%A6%81%E6%94%B9%E7%9A%84%E4%B8%8D%E6%98%AF%E8%AA%B2%E7%B6%B1-132415186.html) — Laporan 2018 mengutip pendapat terbukanya soal kurikulum baru dan pola ujian, termasuk pembedaan sumber sejarah, fakta sejarah, pandangan sejarah, serta soal pilihan ganda dan uraian.
 
-[^13]: [Liberty Times: 〈"Pakai Truk Vacuum Penindakan" Guru Bimbel Bicara 4 Juni Bikin Kontroversi〉](https://news.ltn.com.tw/news/novelty/breakingnews/1079920) — Liputan 2014 catat isi video kelas, viral net, dan kritik Chen Wei-ting; tulisan tidak muat tanggapan formal Lü Chieh soal kontroversi ini.
+[^13]: [Liberty Times: "'Menggunakan Truk Air Memadamkan' Guru Terkenal Bicara Soal 6-4 Menimbulkan Kontroversi"](https://news.ltn.com.tw/news/novelty/breakingnews/1079920) — Laporan 2014 mencatat isi video kelas, penyebaran di internet, dan kritik Chen Wei-ting; artikel tidak memuat tanggapan resmi Lü Jie atas kontroversi ini.
 
-[^14]: [Bukalapak: _Masyarakat Bergerak, Sejarah Harus Paham: Lü Chieh Bicara_](https://www.books.com.tw/products/0010900428) — Halaman buku muat kata pengantar penulis dan posisi isi, buat cocokkan alur penerbitan dia baca sejarah lewat cerita, berpikir, dan sifat manusia.
+[^14]: [Books.com.tw: "Masyarakat Bergerak, Sejarah Harus Dimengerti: Lü Jie Memberikan Kuliah"](https://www.books.com.tw/products/0010900428) — Halaman buku memuat kata pengantar penulis dan posisi isi, dapat digunakan untuk mencocokkan konteks penerbitannya yang membaca sejarah lewat cerita, pemikiran, dan sifat manusia.

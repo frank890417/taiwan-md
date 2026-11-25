@@ -1,6 +1,6 @@
 ---
-title: 'Cicada: Enam Belas Tahun Rekaman Lapangan dari Morakot 2009 hingga Lintas Hemisfer Es 2025'
-description: 'Cicada, band instrumental independen yang didirikan di Taipei pada 2009, memulai dari berita bencana Morakot, selama enam belas tahun mengubah erosi pantai Taiwan, ekologi laut, dan perubahan hutan serta sumber sungai menjadi album tanpa vokal, hingga ekspedisi lintas hemisfer menjejaki bekas es purba di Greenland, Islandia, Selandia Baru, dan Gunung Xueshan.'
+title: 'Cicada: Dari Tifon Morakot 2009 ke Gletser Lintas Hemisfer 2025, Enam Belas Tahun Rekaman Lapangan'
+description: 'Grup instrumental penuh yang didirikan di Taipei pada 2009, seluruh albumnya tanpa vokal. Pianis pendiri Jiang Zhijie melihat berita tifon Morakot tahun itu, menulis komposisi pertama; selama enam belas tahun berikutnya, mereka merekam pantai Taiwan yang menghilang, ekologi laut, dan sumber sungai gunung menjadi album-album tanpa lirik. Pada 2022, "Berdiam di Atas Sumber Sungai" memerlukan 15 hari dan 120 km perjalanan untuk menyelesaikan rekaman. Pada 2025, "Menatap Batas Putih" mengikuti aliran es melewati Greenland, Islandia, dan Selandia Baru, sebelum kembali ke Gunung Xue, mencari jejak gletser purba di Taiwan.'
 date: 2026-04-18
 category: 'People'
 tags:
@@ -9,21 +9,21 @@ tags:
     'Cicada',
     'Jiang Zhijie',
     'Instrumental',
-    'Neoklasik',
+    'Post-klasik',
     'neoclassical',
-    'Musik Independen',
-    'Musik Lingkungan',
+    'Musik indie',
+    'Musik ambient',
     'Ekologi',
-    'Persatuan Konservasi Liar',
-    'Waktu Tersebar',
-    'Masuk Hutan Berkabut',
-    'Mendiami di Atas Sumber Sungai',
+    'Persatuan Pelestarian Liar',
+    'Waktu yang Tersebar',
+    'Masuk ke Hutan Berkabut',
+    'Berdiam di Atas Sumber Sungai',
     'Menatap Batas Putih',
     'Menatap Permukaan Laut',
     'flau',
-    'Es',
+    'Gletser',
     'Ishikawa Kei',
-    'Anugerah Emas',
+    'Anugerah Golden Melody',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
@@ -37,19 +37,23 @@ imageCredit: 'Blackjack633 / Wikimedia Commons'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E7%BF%A0%E6%B1%A0_%E6%B1%AA%E5%A4%A7%E6%99%BA_05.jpg'
 perspectives:
-  [
-    "{'author': 'xo61j4', 'text': '偶然聽過巨木曾在的痕跡很喜歡就放進了歌單，很喜歡那種完全沉浸在山林的氛圍，沒想到他們是整個作曲脈絡都圍繞著台灣，喜歡', 'dimension': '入坑'}",
-  ]
+  - author: 'xo61j4'
+    text: '偶然聽過巨木曾在的痕跡很喜歡就放進了歌單，很喜歡那種完全沉浸在山林的氛圍，沒想到他們是整個作曲脈絡都圍繞著台灣，喜歡'
+    dimension: '入坑'
 sporeLinks:
-  [
-    "{'id': 31, 'platform': 'threads', 'date': '2026-04-18', 'url': 'https://www.threads.com/@taiwandotmd/post/DXQph5okwOu'}",
-    "{'id': 32, 'platform': 'x', 'date': '2026-04-18', 'url': 'https://x.com/taiwandotmd/status/2045363785347612934'}",
-  ]
+  - id: 31
+    platform: 'threads'
+    date: '2026-04-18'
+    url: 'https://www.threads.com/@taiwandotmd/post/DXQph5okwOu'
+  - id: 32
+    platform: 'x'
+    date: '2026-04-18'
+    url: 'https://x.com/taiwandotmd/status/2045363785347612934'
 translatedFrom: 'People/Cicada.md'
-sourceCommitSha: '21298a7ae'
+sourceCommitSha: '30ab24424f'
 sourceContentHash: 'sha256:3d1c97835c5d9ea3'
 sourceBodyHash: 'sha256:5091127dea208f82'
-translatedAt: '2026-08-01T23:08:38+08:00'
+translatedAt: '2026-11-25T04:28:32.218467+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Cicada adalah band instrumental independen yang didirikan di Taipei pada 2009, dipimpin oleh pianist Jiang Zhijie (Jesy Chiang, Magister Sejarah Seni TNUA), beranggotakan empat orang dengan piano, biola, selo, dan gitar akustik. Sejak debut 2011 di label White Rabbit Records dengan _Waktu Tersebar_, selama enam belas tahun semua karya mereka tidak memiliki vokal. Tema bergerak dari erosi pantai barat (_Batas yang Menghilang_ 2013), pantai timur dan Samudra Pasifik (_Menatap Permukaan Laut_ 2015), ekologi laut (_Ke Mana Kalian yang Hilang Pergi_ 2017), hutan (_Masuk Hutan Berkabut_ 2019) hingga sumber sungai (_Mendiami di Atas Sumber Sungai_ 2022, ekspedisi 15 hari 120 km di Pegunungan Tengah). Tahun 2024 album pilihan 15 tahun _Kembali_ menafsirkan ulang tema pantai; 2025 _Menatap Batas Putih_ pertama kali keluar dari Taiwan, menjejaki aliran es melintasi Greenland, Islandia, Selandia Baru, kembali ke Gunung Xueshan mencari jejak es purba. Mereka menggarap musik film Jepang _Pria Tersebut_, memenangkan Anugerah Musik Unggul Akademi Film Jepang, 2024 tur penuh di Jepang, pernah berbagi panggung dengan komponis Islandia Ólafur Arnalds. Metodologi inti: **biarkan alam berbicara sendiri**.
