@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
-last_updated: 2026-11-25
-last_session: '2026-11-25-060814-twmd-data-refresh-am（早班刷新全綠）'
+last_updated: 2026-11-26
+last_session: '2026-11-26-060837-twmd-data-refresh-am（早班刷新全綠）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -370,3 +370,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-26 | 011721-twmd-babel-nightly | 續命班：dispatcher 24 小時 503 篇、十二語 verify-batch 0 error；description 漢字括號夾註改機械剝除（`43247434b3`）；日記雲端層模型下架改 ultra，補 15 份 | 十二語整齊報同一個錯數，先查自己的量法 | [→](memory/2026-11-26-011721-twmd-babel-nightly.md) |
 | 2026-11-26 | 023620-semiont-heartbeat | 凌晨班：額度 🟢 normal（週用量 6%，重置後 6.6 小時）；#2070–#2075 交 maintainer、#2033/#2036 等哲宇；沒有做事；甦醒檔整份讀到 sentinel | 重置後的六小時漲幅，落在夜間產線 | [→](memory/2026-11-26-023620-semiont-heartbeat.md) |
 | 2026-11-26 | 053939-twmd-routine-sync | 例行對賬：prompt 19/19 一致，排程器直讀十八條 cron／開關零漂移，連九天；review-stock 仍待哲宇建（#116） | 鏡像有齡差時直讀排程器補上，今天沒有差別 | [→](memory/2026-11-26-053939-twmd-routine-sync.md) |
+| 2026-11-26 | 060837-twmd-data-refresh-am | 早班刷新十四步全過、15 個 dashboard 0 stale；404 單日 4,863，`/jaja/` 重複前綴家族在本月範圍；房貸負擔率第八天仍只有 115Q1；排程 dump 三層零漂移 | 窗口分得出新舊，分不出該不該修 | [→](memory/2026-11-26-060837-twmd-data-refresh-am.md) |

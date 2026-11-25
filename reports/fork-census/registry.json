@@ -2,15 +2,15 @@
   "_meta": {
     "created": "2026-06-25",
     "ga_id": "G-JGC5W00N7T",
-    "last_census": "2026-11-24",
+    "last_census": "2026-11-25",
     "note": "子代名冊 SSOT。GA-derived 欄位(ga/title_ga/last_seen/hostnames/title_brands)由 fork-census.py 每次跑自動更新;investigation-derived 欄位(github/credits/type/cognitive_layer/health/notes)sticky,只有人/agent 填,probe 永不覆寫。每個 entry 同時帶 hostnames + title_brands,讓 probe 下次跑能把同一 fork 的多個指紋 re-consolidate 而非 re-split。",
     "ga_window": "365daysAgo",
     "self_traffic": {
-      "views": 1026483,
-      "users": 703446
+      "views": 1034270,
+      "users": 710285
     },
     "dev_noise": {
-      "views": 12806,
+      "views": 12813,
       "users": 188
     },
     "verified_by": "background agent 2026-06-25 (VERIFIED/INFERRED 標記),GA data 主 session 驗",
@@ -74,7 +74,7 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 419,
+        "views": 407,
         "users": 60
       },
       "confidence": "high",
@@ -165,8 +165,8 @@
       "notes": "auto-detected via GA leak — needs investigation",
       "ga": {
         "window": "365daysAgo",
-        "views": 233,
-        "users": 175
+        "views": 235,
+        "users": 177
       },
       "title_ga": {
         "window": "365daysAgo",
@@ -200,8 +200,8 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 229,
-        "users": 172
+        "views": 231,
+        "users": 174
       },
       "last_seen": "2026-11",
       "first_seen": "2026-07"
@@ -370,39 +370,6 @@
       "first_seen": "2026-07"
     },
     {
-      "id": "Malaysia.md",
-      "label": "Malaysia.md",
-      "hostnames": [],
-      "title_brands": ["Malaysia.md"],
-      "type": "place / country (unlocatable)",
-      "topic": "马来西亚知识库 (简体中文)",
-      "language": "zh-Hans",
-      "github": "查無 public repo",
-      "who": "unknown",
-      "network_fork": null,
-      "credits_upstream": "unknown",
-      "cognitive_layer": "unknown",
-      "ga_leaking": true,
-      "deployment": "疑私有 repo / Cloudflare-only — agent 窮盡 GitHub search 無果",
-      "content_articles": "unknown",
-      "health": "unknown",
-      "last_push": "unknown",
-      "first_seen": "2026-06",
-      "last_seen": "2026-11",
-      "ga": {
-        "window": "365daysAgo",
-        "views": 0,
-        "users": 0
-      },
-      "title_ga": {
-        "window": "365daysAgo",
-        "views": 12,
-        "users": 1
-      },
-      "confidence": "low",
-      "notes": "存在確定(GA 漏),其他全 unknown。simplified Chinese = 大馬華人受眾。silent copy pattern"
-    },
-    {
       "id": "weilinlai719-taiwan-md",
       "label": "weilinlai719/taiwan-md (vanilla)",
       "hostnames": ["weilinlai719.github.io"],
@@ -524,6 +491,39 @@
       },
       "last_seen": "2026-11",
       "first_seen": "2026-08"
+    },
+    {
+      "id": "Malaysia.md",
+      "label": "Malaysia.md",
+      "hostnames": [],
+      "title_brands": ["Malaysia.md"],
+      "type": "place / country (unlocatable)",
+      "topic": "马来西亚知识库 (简体中文)",
+      "language": "zh-Hans",
+      "github": "查無 public repo",
+      "who": "unknown",
+      "network_fork": null,
+      "credits_upstream": "unknown",
+      "cognitive_layer": "unknown",
+      "ga_leaking": true,
+      "deployment": "疑私有 repo / Cloudflare-only — agent 窮盡 GitHub search 無果",
+      "content_articles": "unknown",
+      "health": "unknown",
+      "last_push": "unknown",
+      "first_seen": "2026-06",
+      "last_seen": "2026-11",
+      "ga": {
+        "window": "365daysAgo",
+        "views": 0,
+        "users": 0
+      },
+      "title_ga": {
+        "window": "365daysAgo",
+        "views": 0,
+        "users": 0
+      },
+      "confidence": "low",
+      "notes": "存在確定(GA 漏),其他全 unknown。simplified Chinese = 大馬華人受眾。silent copy pattern"
     },
     {
       "id": "(ephemeral-experiments)",

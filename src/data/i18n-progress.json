@@ -3,15 +3,11 @@
   "total_en": 1194,
   "coverage_en": 8.3,
   "categories": {
-    "pt": {
+    "de": {
       "zh": 1194,
       "en": 0
     },
-    "fr": {
-      "zh": 1194,
-      "en": 0
-    },
-    "id": {
+    "vi": {
       "zh": 1194,
       "en": 0
     },
@@ -23,19 +19,15 @@
       "zh": 1194,
       "en": 0
     },
+    "id": {
+      "zh": 1194,
+      "en": 0
+    },
     "es": {
       "zh": 1194,
       "en": 0
     },
-    "de": {
-      "zh": 1194,
-      "en": 0
-    },
-    "Economy": {
-      "zh": 89,
-      "en": 89
-    },
-    "vi": {
+    "fr": {
       "zh": 1194,
       "en": 0
     },
@@ -43,7 +35,7 @@
       "zh": 1194,
       "en": 0
     },
-    "ar": {
+    "pt": {
       "zh": 1194,
       "en": 0
     },
@@ -51,53 +43,61 @@
       "zh": 1194,
       "en": 0
     },
-    "People": {
-      "zh": 299,
-      "en": 299
+    "ar": {
+      "zh": 1194,
+      "en": 0
     },
-    "Art": {
-      "zh": 52,
-      "en": 52
+    "Economy": {
+      "zh": 89,
+      "en": 89
     },
     "Food": {
       "zh": 91,
       "en": 91
     },
-    "Society": {
-      "zh": 129,
-      "en": 129
-    },
-    "Lifestyle": {
-      "zh": 58,
-      "en": 58
-    },
-    "Geography": {
-      "zh": 85,
-      "en": 85
-    },
-    "Technology": {
-      "zh": 69,
-      "en": 69
-    },
     "Culture": {
       "zh": 118,
       "en": 118
     },
-    "Music": {
-      "zh": 37,
-      "en": 37
-    },
-    "Nature": {
-      "zh": 41,
-      "en": 41
+    "People": {
+      "zh": 299,
+      "en": 299
     },
     "History": {
       "zh": 94,
       "en": 94
     },
+    "Society": {
+      "zh": 129,
+      "en": 129
+    },
+    "Art": {
+      "zh": 52,
+      "en": 52
+    },
+    "Technology": {
+      "zh": 69,
+      "en": 69
+    },
+    "Geography": {
+      "zh": 85,
+      "en": 85
+    },
     "Politics": {
       "zh": 21,
       "en": 21
+    },
+    "Music": {
+      "zh": 37,
+      "en": 37
+    },
+    "Lifestyle": {
+      "zh": 58,
+      "en": 58
+    },
+    "Nature": {
+      "zh": 41,
+      "en": 41
     },
     "About": {
       "zh": 9,
@@ -108,5 +108,5 @@
       "en": 2
     }
   },
-  "updated": "2026-11-25"
+  "updated": "2026-11-26"
 }

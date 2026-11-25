@@ -1,7 +1,7 @@
 ---
 title: 'reports/ INDEX — auto-generated'
 description: '頂層 *.md 按 9 type bucket × 月份 雙軸索引 + 子目錄 status summary'
-last_generated: 2026-11-25 06:07
+last_generated: 2026-11-26 06:07
 generator: scripts/tools/generate-reports-index.py
 ssot: reports/reports-archival-audit-2026-05-27.md §4 Layer 3
 type: auto-index
@@ -12,7 +12,7 @@ type: auto-index
 > **本 file 由 `scripts/tools/generate-reports-index.py` 完全 overwrite**。
 > 不要人工編輯（會被下一次 cron 覆蓋）。
 >
-> Last generated: **2026-11-25 06:07** · 頂層 \*.md 共 **327** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
+> Last generated: **2026-11-26 06:07** · 頂層 \*.md 共 **328** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
 
 ## 📦 子目錄 status
 
@@ -45,12 +45,12 @@ type: auto-index
 | `music-media-audit/`             |     4 | 115.5 KB | Music 條目 media audit (json + md)                   |
 | `terminology-trends/`            |     3 | 36.2 KB  | —                                                    |
 | `x-mentions/`                    |     3 | 21.3 KB  | —                                                    |
-| `404-monitor/`                   |     2 | 218.2 KB | —                                                    |
+| `404-monitor/`                   |     2 | 222.0 KB | —                                                    |
 | `article-staging/`               |     2 | 104.9 KB | —                                                    |
 | `audit/`                         |     2 | 50.6 KB  | —                                                    |
 | `fork-census/`                   |     2 | 40.1 KB  | —                                                    |
 | `harvest/`                       |     2 | 14.3 KB  | Harvest engine 紀錄                                  |
-| `newsroom/`                      |     2 | 137.0 KB | —                                                    |
+| `newsroom/`                      |     2 | 137.1 KB | —                                                    |
 | `orphan-rescue/`                 |     1 | 52.5 KB  | —                                                    |
 | `visual/`                        |     1 | 5.7 KB   | Visual smoke test 基線 (partial gitignored)          |
 
@@ -263,8 +263,9 @@ type: auto-index
 - `2026-04-12` [NMTH-overseas-semiont-analysis-2026-04-12](NMTH-overseas-semiont-analysis-2026-04-12.md)
 - `2026-04-11` [TFT-semiont-analysis-2026-04-11](TFT-semiont-analysis-2026-04-11.md)
 
-### ops (149)
+### ops (150)
 
+- `2026-11-25` [threads-x-reach-research-2026-11-25](threads-x-reach-research-2026-11-25.md) — Threads 與 X 上的 Taiwan.md：誰用了它、拿去做什麼
 - `2026-11-19` [design-homepage-about-implementation-2026-11-19](design-homepage-about-implementation-2026-11-19.md) — 首頁與「關於」頁進化：實作報告
 - `2026-11-19` [seo-search-ranking-2026-11-19](seo-search-ranking-2026-11-19.md) — 搜尋「台灣」時怎麼排到前面：Search Console 三個月數據與改善計畫
 - `2026-11-17` [design-elections-2026-upgrade-2026-11-17](design-elections-2026-upgrade-2026-11-17.md)
@@ -423,9 +424,10 @@ type: auto-index
   - `????` [README](README.md)
   - `????` [punct-cleanup-dispatch-prompts](punct-cleanup-dispatch-prompts.md)
 
-### 2026-11 (20 files)
+### 2026-11 (21 files)
 
-- Type breakdown: ops: 15 / plan: 3 / audit-routine: 1 / evolution: 1
+- Type breakdown: ops: 16 / plan: 3 / audit-routine: 1 / evolution: 1
+  - `2026-11-25` [threads-x-reach-research-2026-11-25](threads-x-reach-research-2026-11-25.md)
   - `2026-11-22` [routine-audit-2026-11-22](routine-audit-2026-11-22.md)
   - `2026-11-19` [design-homepage-about-evolution-2026-11-19](design-homepage-about-evolution-2026-11-19.md)
   - `2026-11-19` [design-homepage-about-implementation-2026-11-19](design-homepage-about-implementation-2026-11-19.md)

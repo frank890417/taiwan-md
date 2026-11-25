@@ -2,7 +2,7 @@
   "totalArticles": 15522,
   "totalCategories": 15,
   "estimatedContributors": 81,
-  "totalTags": 9174,
+  "totalTags": 9166,
   "categories": [
     {
       "name": "people",
@@ -67,12 +67,12 @@
   ],
   "topTags": [
     {
-      "name": "人物",
-      "count": 58
-    },
-    {
       "name": "Economy",
       "count": 56
+    },
+    {
+      "name": "人物",
+      "count": 55
     },
     {
       "name": "企業",
@@ -80,7 +80,7 @@
     },
     {
       "name": "YouTuber",
-      "count": 46
+      "count": 49
     },
     {
       "name": "ODM",
@@ -96,7 +96,7 @@
     },
     {
       "name": "原住民族",
-      "count": 28
+      "count": 27
     },
     {
       "name": "AI",
@@ -127,11 +127,11 @@
       "count": 23
     },
     {
-      "name": "科技與企業",
-      "count": 23
+      "name": "台灣文化",
+      "count": 22
     },
     {
-      "name": "台灣文化",
+      "name": "科技與企業",
       "count": 22
     },
     {
@@ -162,8 +162,8 @@
     "ar": 1194,
     "pt": 1194
   },
-  "lastUpdated": "2026-11-24T22:06:02.124Z",
-  "stars": 1252,
+  "lastUpdated": "2026-11-25T22:06:03.137Z",
+  "stars": 1253,
   "forks": 191,
   "zhPages": 1192,
   "languagePages": {

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T22:06:24.708Z",
+  "lastUpdated": "2026-11-25T22:06:26.842Z",
   "organs": [
     {
       "id": "heart",
@@ -10,17 +10,17 @@
       "score": 90,
       "trend": "up",
       "metrics": {
-        "articlesLast7Days": 29,
-        "articlesLast30Days": 101,
+        "articlesLast7Days": 28,
+        "articlesLast30Days": 108,
         "totalArticles": 1192,
         "selfProducedLast7Days": 0,
         "selfProducedLast30Days": 4,
-        "contributedLast7Days": 29,
-        "newArticlesLast7Days": 9,
-        "newArticlesLast30Days": 39,
-        "contributedNewLast7Days": 9,
-        "updatedNotNewLast7Days": 20,
-        "shadowScoreNewOnly": 70
+        "contributedLast7Days": 28,
+        "newArticlesLast7Days": 3,
+        "newArticlesLast30Days": 38,
+        "contributedNewLast7Days": 3,
+        "updatedNotNewLast7Days": 25,
+        "shadowScoreNewOnly": 50
       }
     },
     {
@@ -54,12 +54,12 @@
       "nameZh": "遺傳密碼",
       "metaphor": "品質基因",
       "emoji": "🧬",
-      "score": 80,
+      "score": 95,
       "scoreKind": "recency-indicator",
       "scoreBasis": "Days since EDITORIAL.md was last modified; not quality health",
       "trend": "up",
       "metrics": {
-        "editorialLastModified": "2026-11-16T12:24:16.000Z"
+        "editorialLastModified": "2026-11-25T00:48:28.000Z"
       }
     },
     {
