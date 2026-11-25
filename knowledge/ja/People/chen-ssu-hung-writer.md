@@ -1,9 +1,9 @@
 ---
-title: '陳思宏：永靖からの逃避からベルリンへ、故郷に追われる作家'
-description: '彼は20年以上にわたり彰化・永靖を離れましたが、ベルリンでの世界との距離感の中で、家庭、ジェンダー、身体、そして消えない故郷を書き続けています。'
+title: '陳思宏：永靖からベルリンへ逃げ出した、故郷に追いかけられ続ける作家'
+description: '1976年、彰化県永靖の農家に9番目の子供として生まれる。7人の姉と1人の兄がいる。輔仁大学英文学科と台湾大学演劇学研究所を卒業。2004年にテレビ局の特派員としてベルリンへ渡り、執筆、翻訳、パフォーマンスを通じてヨーロッパでの生活を送る。2019年に出版された『鬼地方』は永靖を物語の中心的な風景とし、台湾文学金典賞と金鼎賞を受賞。英訳版は『ニューヨーク・タイムズ』の秋の読書リストに選出され、12言語で版権が販売された。彼は故郷から逃れようとしながらも、永靖、家族、ジェンダー、そして身体を小説の中に描き続けている。'
 date: 2026-09-03
 category: 'People'
-tags: ['陳思宏', '台湾文学', '永靖', 'ベルリン', '同志文学', 'ゴーストタウン']
+tags: ['陳思宏', '台湾文学', '永靖', 'ベルリン', 'クィア文学', '鬼地方']
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -12,10 +12,10 @@ lastHumanReview: false
 readingTime: 9
 curation: 'incubating'
 translatedFrom: 'People/陳思宏.md'
-sourceCommitSha: '8730173b1'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:614611394f0bdd05'
 sourceBodyHash: 'sha256:aa5e5b4b6a3ee873'
-translatedAt: '2026-09-23T22:11:46+08:00'
+translatedAt: '2026-11-25T05:35:39.611970+00:00'
 ---
 
 ![彰化縣永靖鄉位置圖，Wikimedia Commons，作者 Essolo，CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/d/d9/Tw_yj_map.png)

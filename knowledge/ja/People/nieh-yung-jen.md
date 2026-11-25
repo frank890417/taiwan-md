@@ -1,10 +1,8 @@
 ---
-title: '聶永真：台湾初のAGI会員、金曲賞のパッケージから国家的アイデンティティ・システムまでの二十年'
-description: '聶永真（1977年生まれ）は、台湾で初めてスイスの国際グラフィック連盟AGIに加入したデザイナーであり、金曲賞最優秀アルバム装丁賞を三度受賞しています。デザイン案件は、ポピュラー音楽のジャケット（李宗盛、林宥嘉、盧葦）、書籍出版、市民運動（2014年ひまわり運動の午前4時ニューヨーク・タイムズ広告、2020年反テドロス「Taiwan Can Help」で8時間に1,000万台湾ドルをクラウドファンディング）、政治選挙（蔡英文2016年「点亮台灣」と二度の総統就任式メインビジュアル）、国営事業のアイデンティティ・システム（経済部、観光署、中油、台電）、芸術空間（台中グリーン美術館、ヴェネチア・ビエンナーレ台湾館）に及びます。永真急制のスタジオは台北と高雄・駁二倉庫に拠点を置きます。彼はベルギーとロンドンへ渡って大学院で学びましたが、三校とも修了していません。自ら「デザイナー聶永真である前に、市民聶永真である」と述べています。2024年以降、四つの国営事業アイデンティティ案件を連続して落札し、2026年には台電ロゴ公開当日に「政治的な利益供与」論争が噴出しました。'
+title: '聶永真：台湾初のAGI会員、金曲賞パッケージから国家識別システムまでの20年'
+description: 'スイス国際グラフィックデザイン連盟（AGI）に加入した台湾初のデザイナーであり、金曲賞最優秀アルバムパッケージ賞を3度受賞。手がけた案件はレコードジャケット、2014年ひまわり学生運動の深夜4時のニューヨーク・タイムズ広告、2020年8時間でNT$10 millionをクラウドファンディングで集めた「Taiwan Can Help」、蔡英文総統2期分の就任式メインビジュアル、経済部・中油・台電のアイデンティティシステムにまで及ぶ。彼は「デザイナー聶永真である前に、市民聶永真である」と自ら語る。2026年台電の新ロゴ公開の日、同じ立場が政治的論功行賞と罵られる存在となった。'
 date: 2026-05-08
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '藝術與設計'
 tags:
   [
     'デザイナー',
@@ -12,14 +10,22 @@ tags:
     'AGI',
     '永真急制',
     '金曲賞',
-    '蔡英文選挙キャンペーン',
+    '蔡英文選挙運動',
     'ひまわり学生運動',
-    '引き算の美学',
+    '減法美学',
   ]
+subcategory: '藝術與設計'
+author: 'Taiwan.md Contributors'
+featured: false
 readingTime: 18
 lastVerified: 2026-05-12
 lastHumanReview: false
-featured: false
+researchReport: 'reports/research/2026-05/聶永真.md'
+image: '/article-images/people/aaron-nieh-portrait-2018.webp'
+imageAlt: '聶永真 2018年3月、台湾デザイン界の公開イベントでのポートレート写真。濃色のスーツ、マイクを手にし、背景は会場の暗色の幕。'
+imageCredit: 'Gene Wang'
+imageLicense: 'CC BY-SA 2.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%81%B6%E6%B0%B8%E7%9C%9F_(40799138092).jpg'
 sporeLinks:
   - id: 66
     platform: 'threads'
@@ -32,14 +38,10 @@ sporeLinks:
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/聶永真.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '30ab24424f'
 sourceContentHash: 'sha256:b31e7dab1de7bf10'
 sourceBodyHash: 'sha256:26e4e11c3e29817a'
-translatedAt: '2026-06-16T17:04:12Z'
-image: '/article-images/people/aaron-nieh-portrait-2018.webp'
-imageCredit: 'Gene Wang'
-imageLicense: 'CC BY-SA 2.0'
-imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%81%B6%E6%B0%B8%E7%9C%9F_(40799138092).jpg'
+translatedAt: '2026-11-25T04:27:08.612913+00:00'
 ---
 
 > **30秒概観：** 聶永真（1977年生まれ）は、台湾で初めて国際グラフィック連盟AGIに加入したデザイナーであり、金曲賞最優秀アルバム装丁賞を三度受賞しています。林宥嘉、蘇打綠、蔡依林、田馥甄の音楽ジャケットを手がけ、麥田、時報、印刻、聯經の書籍カバーも制作しました。2014年午前4時のひまわり運動ニューヨーク・タイムズ広告、2020年「Taiwan Can Help」ニューヨーク・タイムズのクラウドファンディング広告も彼の仕事です。蔡英文2016年選挙のメインビジュアル「点亮台灣」と二度の総統就任式メインビジュアルも、彼とスタジオが担当しました。永真急制は2024年、高雄・駁二倉庫に第二拠点を設け、同年以降、台電、中油、観光署、経済部のアイデンティティ・システムを連続して落札しました。2026年、台電の新ロゴ公開当日に「政治的な利益供与」論争が起こり、彼は五項目の声明で応答しました。彼自身が繰り返し強調してきた「デザイナー聶永真である前に、市民聶永真である」という一文は、2014年から今日まで、異なる位置に置かれながら読み直され続けています。

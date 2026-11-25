@@ -1,6 +1,6 @@
 ---
-title: 'Joeman：eスポーツ解説者から百万チャンネルへ、レンズの中の長期クリエイター'
-description: 'eスポーツ解説者やMicro-Star製品マネージャーから、開封レビュー、比較、旅行、チーム番組を運営するYouTuberに至るまでのJoeman氏の軌跡は、台湾のYouTuberがトラフィック、分業、信頼性、そして社会的責任の間で自己を調整していく過程を記録しています。'
+title: 'Joeman：eスポーツ解説者から登録者100万人超のチャンネルへ、レンズ越しに見る長期的なクリエイター'
+description: '本名は翁雋明。平日はMSIのプロダクトマネージャー、週末はeスポーツの解説者として活動していたが、一本の偶然ヒットした3C製品の開封動画をきっかけにYouTubeへ転向し、2018年には登録者数100万人を突破しました。『Joe是要對決』では高価なものと安価なものを比較するスタイルが代表的なフォーマットとなり、旅行、不動産、チーム番組へと活動を広げ、2024年には走鐘奨（Golden Bell Awards）の年間個人クリエイター賞を受賞しました。2023年の大麻事件後は公開謝罪を行い、起訴猶予処分を受けました。その後、自ら反ドラッグ・反詐欺の公益動画を通じて義務労働を完遂しており、台湾のクリエイターがいかにしてトラフィック、信頼、そして社会的責任の間で長期的な調整を行っているかを記録しています。'
 date: 2026-08-16
 category: 'People'
 tags:
@@ -12,7 +12,7 @@ tags:
     '3C',
     'クリエイターエコノミー',
     'メディア産業',
-    '公共コミュニケーション',
+    'パブリックコミュニケーション',
   ]
 subcategory: '媒體與創作'
 author: 'Taiwan.md Contributors'
@@ -26,10 +26,10 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Joeman-0617.jpg'
 readingTime: 10
 curation: 'incubating'
 translatedFrom: 'People/Joeman.md'
-sourceCommitSha: '67c4c72fc'
+sourceCommitSha: '1b9d5dfea6'
 sourceContentHash: 'sha256:19eba63c27c61c88'
 sourceBodyHash: 'sha256:18e7518b3acc71b4'
-translatedAt: '2026-11-05T23:41:29.002313+00:00'
+translatedAt: '2026-11-25T05:21:28.645823+00:00'
 ---
 
 # Joeman：eスポーツ解説者から百万チャンネルへ、レンズの中の長期クリエイター

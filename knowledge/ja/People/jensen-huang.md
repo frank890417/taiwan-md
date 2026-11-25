@@ -1,10 +1,19 @@
 ---
-title: '黄仁勋'
-description: 'ケンタッキーの寄宿学校から5兆ドルの帝国へ、トイレ掃除をしていた台南の少年が10年後に実現する未来に賭けた物語'
+title: 'ジェンスン・ファン'
+description: '台南生まれ、NVIDIAの創業者。9歳でケンタッキー州の寄宿学校に送られ、毎日男子寮のトイレ掃除をし、全身に傷跡と刺青がある17歳のルームメイトと、文字を教える代わりにウエイトトレーニングを教わるという取引を成立させた。彼が創業したNVIDIAは2025年10月29日に時価総額が5兆ドルを突破し、人類史上初の5兆ドル企業となった。彼の重要な賭けはGPUではなく、2006年に誰もが狂気だと考えたCUDAであり、その価値が証明されるのは10年後のAI革命を待たなければならない決断だった。'
 date: 2026-03-25
 category: 'People'
 tags:
-  ['人物', '黄仁勋', 'NVIDIA', 'AI', '半導体', 'テクノロジー', '台南', 'GPU']
+  [
+    '人物',
+    'ジェンスン・ファン',
+    'NVIDIA',
+    'AI',
+    '半導体',
+    '技術',
+    '台南',
+    'GPU',
+  ]
 subcategory: '科技與企業'
 author: 'Taiwan.md'
 featured: true
@@ -15,10 +24,10 @@ image: '/article-images/technology/computex-jensen-huang-2016.webp'
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/黃仁勳.md'
-sourceCommitSha: 'b1a5fea0'
+sourceCommitSha: '00dc1f6e04'
 sourceContentHash: 'sha256:28ebca4abc1527e4'
 sourceBodyHash: 'sha256:2ae685b1d23ee474'
-translatedAt: '2026-09-25T03:12:41.384152+00:00'
+translatedAt: '2026-11-25T04:32:04.867659+00:00'
 ---
 
 # 黄仁勲（こう・じんくん／ジェンスン・フアン、Jensen Huang）
