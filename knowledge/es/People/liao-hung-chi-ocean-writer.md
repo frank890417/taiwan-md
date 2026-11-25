@@ -1,12 +1,12 @@
 ---
-title: 'Liao Hung-chi: del barco de pez vela a la deriva de la Corriente de Kuroshio, midiendo los mares de Taiwán con su vida, el escritor hombre de mar'
-description: 'En 1992, Liao Hung-chi dio un giro a su vida convirtiéndose en hombre de mar, fundó la Fundación Cultural y Educativa de la Corriente de Kuroshio, y redefinió la perspectiva oceánica de los taiwaneses con el "Kuroshio 101" y el "Proyecto π del Cachalote", siendo un impulsor clave de la literatura oceánica contemporánea y la conservación ecológica.'
+title: 'Liao Hung-chi: De barcos de pesca a la deriva en la Corriente Negra, el escritor marino que mide las aguas de Taiwán con su vida'
+description: 'Escritor de literatura marina nacido en Hualien en 1957. A los treinta y cinco años abandonó su trabajo en tierra para convertirse en pescador en Hualien. En 1996 inició la primera investigación civil de cetáceos en Taiwán y en 1998 fundó la Fundación de Cultura y Educación Marina Kuroshio. En 2016 lanzó el proyecto de deriva Kuroshio 101, donde navegó a la deriva por la Corriente Negra durante aproximadamente cien horas en una balsa sin motor; en 2022 fundó la Asociación Formosa del Condado de Hualien para promover el Proyecto Pi de los cachalotes. Autor de la tetralogía marina que incluye "El pescador" (The Fishermen). En 2019 recibió el Premio Wu San-lien y en 2024 el Premio a la Dedicación Vitalicia en Educación Social del Ministerio de Educación.'
 date: 2026-04-29
 category: 'People'
 tags:
   [
-    'literatura oceánica',
-    'Corriente de Kuroshio',
+    'literatura marina',
+    'Corriente Kuroshio',
     'conservación de cetáceos',
     'Hualien',
     'cachalote',
@@ -20,10 +20,10 @@ readingTime: 12
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/廖鴻基.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '1a696c19ef'
 sourceContentHash: 'sha256:f70240af05eb54ba'
 sourceBodyHash: 'sha256:1077b6698d6359d9'
-translatedAt: '2026-11-05T08:50:34+08:00'
+translatedAt: '2026-11-25T02:15:49.406825+00:00'
 ---
 
 # Liao Hung-chi

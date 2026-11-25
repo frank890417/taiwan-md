@@ -1,20 +1,20 @@
 ---
-title: 'HUR+: El grupo femenino de nueve miembros que sobrevivió durante cinco años en Zepp New Taipei'
-description: 'La competencia de ídolos de 2020: perdieron por 2.5 puntos. Seis años después, el grupo ganador desapareció, pero la segunda colocada sigue aquí. El productor invirtió cincuenta millones y dijo: "Cuanto menos parezca un grupo coreano, mejor". Esta es la historia de cómo sobrevivió un grupo femenino taiwanés.'
+title: 'HUR+: De subcampeonas en DD52 a Zepp New Taipei, un grupo femenino de nueve integrantes que no se detiene desde hace cinco años'
+description: 'Un grupo femenino taiwanés formado por las subcampeonas de un programa de supervivencia. En 2020, con su concepto Storm Spade, perdieron por solo 2.5 puntos en la final de DD52. El productor invirtió NT$50 millones para fundar su propia agencia, siguiendo una línea de "cuanto más diferente, mejor", evitando deliberadamente parecer un grupo de K-pop tradicional. Tras expandirse a nueve integrantes, sus miembros provienen de Taiwán, Reino Unido, Mongolia, Indonesia y Vietnam; sus fans recaudaron NT$1.5 millones en solo diez minutos para financiar su promoción en Corea del Sur. Seis años después, con tres álbumes en su haber, son el único grupo debutado en la misma época que sigue lanzando música, habiendo llegado incluso a los escenarios de Bangkok.'
 date: 2026-04-23
 category: 'People'
 tags:
   [
     'HUR+',
     'DD52',
-    'jóvenes del futuro',
-    'grupo femenino',
-    'ídolos',
-    'música taiwanesa',
-    'Felipe',
+    'Future Girls',
+    'Grupo femenino',
+    'Idol',
+    'Música taiwanesa',
+    'Filipe',
     'AOA Entertainment Lab',
     'K-POP',
-    'ídolos taiwaneses',
+    'Idols taiwaneses',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
@@ -25,10 +25,10 @@ readingTime: 14
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/HUR-plus.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'd3a973ae06'
 sourceContentHash: 'sha256:7b6f1e2f33e3f99d'
 sourceBodyHash: 'sha256:396a9fed148c94a2'
-translatedAt: '2026-09-18T00:53:02+08:00'
+translatedAt: '2026-11-25T01:38:09.923886+00:00'
 ---
 
 > **Resumen de 30 segundos:** HUR+ (anteriormente HUR), formado por seis miembros de la segunda colocada del programa _Diamond Generation DD52_ en 2020, fundó AOA Entertainment Lab con el productor Felipe. Ganaron la competencia por una diferencia de 2.5 puntos, pero el grupo ganador G.O.F experimentó un rápido declive en popularidad en un año; PINK FUN, que debutó al mismo tiempo, enfrentó problemas de disolución. Seis años después, HUR+ es el único de los tres grupos debutantes que sigue lanzando álbumes. Con tres álbumes (_REVELATION_, _Crimzon_, _9OF9 ARCANA_), lograron recaudar 1.5 millones en diez minutos para ir a Corea y hacer presentaciones musicales; sus miembros tienen nacionalidades que abarcan Mongolia, Reino Unido, Indonesia y Vietnam. Felipe dijo: "¿Cómo podría Taiwán ganar si usáramos la misma fórmula que Corea?".

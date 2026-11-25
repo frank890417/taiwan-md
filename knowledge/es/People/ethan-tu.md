@@ -1,11 +1,11 @@
 ---
-title: 'Ethan Tu'
-description: 'Levantó el foro más grande de Taiwán con una computadora 486, lideró el lanzamiento de Cortana en Microsoft y luego abandonó un salario alto en Seattle para regresar a Taiwán y hacer IA sin fines de lucro: la historia digital de treinta años del creador del PTT'
+title: 'Du Yi-chin'
+description: 'El ingeniero que instaló PTT (un popular foro taiwanés) en un dormitorio de la Universidad Nacional de Taiwán utilizando una computadora 486, permitiendo que este foro de texto plano sobreviviera a la burbuja de las puntocom y a la competencia de las redes sociales, manteniéndose treinta años después como el núcleo del discurso público en Taiwán. Tras realizar investigaciones genéticas en los Institutos Nacionales de Salud de EE. UU., lideró el lanzamiento del asistente de voz multiplataforma Cortana en Microsoft. En 2017, renunció a su alto salario en Seattle para regresar a Taiwán y fundar Taiwan AI Labs, la primera institución de investigación de IA abierta y sin fines de lucro en Asia, dedicándose al diagnóstico por imágenes médicas, el reconocimiento de voz, la defensa contra la guerra cognitiva y el impulso de modelos de lenguaje de código abierto en chino tradicional.'
 date: 2026-03-30
 category: 'People'
 tags:
   [
-    'Ethan Tu',
+    'Du Yi-chin',
     'PTT',
     'Taiwan AI Labs',
     'Democracia digital',
@@ -20,10 +20,10 @@ readingTime: 9
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/杜奕瑾.md'
-sourceCommitSha: 'b1a5fea00'
+sourceCommitSha: '20dcddf339'
 sourceContentHash: 'sha256:61081ca7c646947e'
 sourceBodyHash: 'sha256:f186e67ce03f9679'
-translatedAt: '2026-11-18T14:34:57.455086+00:00'
+translatedAt: '2026-11-25T02:02:13.581310+00:00'
 ---
 
 # Ethan Tu

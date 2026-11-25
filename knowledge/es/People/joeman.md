@@ -1,6 +1,6 @@
 ---
-title: 'Joeman: de comentarista de eSports a canal de millones de suscriptores, un creador constante ante la cámara'
-description: 'Desde comentarista de eSports y gerente de producto en MSI hasta la gestión de un canal basado en unboxings, comparativas, viajes y contenido de equipo; la trayectoria de Joeman documenta cómo los YouTubers de Taiwán se adaptan entre el tráfico, la división del trabajo, la confianza y la responsabilidad pública.'
+title: 'Joeman: De comentarista de eSports a canal de millones, un creador de contenido constante ante la cámara'
+description: 'Su nombre real es Weng Chun-ming. Durante el día es gerente de producto en MSI y los fines de semana es comentarista de eSports. Tras volverse viral accidentalmente con un video de unboxing de productos tecnológicos, se volcó a YouTube, superando el millón de suscriptores en 2018. Su formato representativo, "Joe va a la batalla", consiste en comparar artículos de lujo con opciones económicas, extendiéndose luego al turismo, bienes raíces y programas de equipo; en 2024 recibió el premio al Creador Individual del Año en los Golden Bell Awards. Tras el incidente de la marihuana en 2023, se disculpó públicamente y recibió una suspensión de la acusación, cumpliendo con su servicio comunitario mediante videos de interés público contra las drogas y las estafas. Su historia documenta cómo un creador taiwanés ajusta su trayectoria entre el tráfico, la confianza y la responsabilidad pública.'
 date: 2026-08-16
 category: 'People'
 tags:
@@ -9,10 +9,10 @@ tags:
     'Weng Chun-ming',
     'YouTuber',
     'eSports',
-    '3C',
-    'economía de los creadores',
-    'industria de medios',
-    'comunicación pública',
+    'Tecnología',
+    'Economía de los creadores',
+    'Industria de medios',
+    'Comunicación pública',
   ]
 subcategory: '媒體與創作'
 author: 'Taiwan.md Contributors'
@@ -26,10 +26,10 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Joeman-0617.jpg'
 readingTime: 10
 curation: 'incubating'
 translatedFrom: 'People/Joeman.md'
-sourceCommitSha: '67c4c72fc'
+sourceCommitSha: '1b9d5dfea6'
 sourceContentHash: 'sha256:19eba63c27c61c88'
 sourceBodyHash: 'sha256:18e7518b3acc71b4'
-translatedAt: '2026-11-04T22:34:41+08:00'
+translatedAt: '2026-11-25T02:55:19.373341+00:00'
 ---
 
 # Joeman: de comentarista de eSports a canal de millones de suscriptores, un creador constante ante la cámara

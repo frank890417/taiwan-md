@@ -1,6 +1,6 @@
 ---
-title: 'Shen Wen-cheng: de mecánico de aviones en Ching Chuan Kang a doble rey de los premios de oro'
-description: 'Shen Wen-cheng, artista taiwanés galardonado con dos premios de oro en música y conducción. Desde mecánico de aviones en la fase final de la guerra de Vietnam hasta el éxito nacional «¿Quién sabe mis penas?», grabó su nombre en los premios Golden Melody y Golden Bell con sinceridad y humor.'
+title: 'Shen Wen-cheng: de mecánico en Ching Chuan Kang a rey de la canción con doble oro'
+description: 'Nació en 1954 en Beinan, Taitung. Su madre era de la etnia Rukai. Se inscribió en la Escuela Mecánica de la Fuerza Aérea y, tras graduarse, reparó aviones de combate estadounidenses en la base aérea de Ching Chuan Kang. El restaurante occidental de la base al final de la guerra de Vietnam fue su iniciación musical. Tras licenciarse, fue descubierto por Cai Zhen-nan y en 1982 lanzó su primer álbum en taiwanés "¿Quién conoce mis pensamientos?", vendiendo más de un millón de copias gracias a mercados nocturnos, obras de construcción y radio. En 1999 ganó el Premio Golden Melody al mejor cantante masculino en dialecto con "Partida"; en 2013 volvió a ganar el Premio Golden Bell al mejor presentador de programa de exteriores con "La gran pesca de la isla tesoro", convirtiéndose en uno de los pocos artistas de "doble oro" de Taiwán. En 2026, a sus 71 años, anunció el relanzamiento del programa clásico.'
 date: 2026-05-12
 category: 'People'
 tags:
@@ -8,10 +8,10 @@ tags:
     'Shen Wen-cheng',
     'Premio Golden Melody',
     'Premio Golden Bell',
-    'pueblo rukai',
-    'mecánico de la guerra de Vietnam',
-    'música taiwanesa',
-    'pesca',
+    'Rukai',
+    'Mecánico de la guerra de Vietnam',
+    'Música taiwanesa',
+    'Pesca',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md Contributors'
@@ -22,10 +22,10 @@ readingTime: 8
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/沈文程.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '1a696c19ef'
 sourceContentHash: 'sha256:3ccf8e3a350256dc'
 sourceBodyHash: 'sha256:9a3851545dcaaf3c'
-translatedAt: '2026-11-05T07:46:08+08:00'
+translatedAt: '2026-11-25T02:24:15.385384+00:00'
 ---
 
 ## Resumen en treinta segundos

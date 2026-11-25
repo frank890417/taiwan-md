@@ -1,11 +1,11 @@
 ---
-title: 'Kuo Cheng-kuang'
-description: 'Es un científico senior del Centro Espacial Johnson de la NASA en Houston, especializado en investigar qué comen y beben los astronautas; sin embargo, en los archivos de su tierra natal, Taiwán, fue incluido en una lista negra como «terrorista».'
+title: 'Guo Zhengguang'
+description: 'Un científico veterano que trabajó durante más de cuarenta y cinco años en el Centro Espacial Johnson de la Administración Nacional de Aeronáutica y del Espacio (NASA) de Estados Unidos, investigando alimentos espaciales, purificación de agua y calidad del aire en cabinas cerradas, protegiendo la vida de los astronautas. Nació en 1949 en Hsinchu, se graduó en el Departamento de Agronomía de la Universidad Nacional de Taiwán y luego cursó un doctorado en la Universidad Texas A&M, ingresando a la NASA en 1980. Fue incluido en la lista negra del gobierno del Kuomintang por unirse a la Alianza por la Independencia de Taiwán; en 1991, el gobierno de Taiwán envió una carta al Departamento de Estado de EE. UU. acusándolo de ser un terrorista. En 2018, recibió a la presidenta Tsai Ing-wen durante su escala en su calidad de experto de la NASA; en 2024, respondió a un crítico con la frase: «Tu abuelo trabaja en la NASA».'
 date: 2026-04-06
 category: 'People'
 tags:
   [
-    'Kuo Cheng-kuang',
+    'Guo Zhengguang',
     'NASA',
     'alimentos espaciales',
     'lista negra',
@@ -20,10 +20,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/郭正光.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '1a696c19ef'
 sourceContentHash: 'sha256:e00af3b07adcb778'
 sourceBodyHash: 'sha256:beb2338ff10788ce'
-translatedAt: '2026-11-04T23:26:20.042709+00:00'
+translatedAt: '2026-11-25T02:22:27.077017+00:00'
 ---
 
 # Kuo Cheng-kuang

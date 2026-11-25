@@ -1,15 +1,15 @@
 ---
-title: 'Chen Wen-yu: Cómo una semilla se convirtió en el embajador de la agricultura de Taiwán'
-description: 'Desde el Instituto de Investigación de Fengshan y el melón sin semillas Fengshan No. 1 hasta Nongyou Seedlings, Chen Wen-yu convirtió el mejoramiento genético en una soft power taiwanesa que permite a los agricultores obtener primero una vida mejor.'
+title: 'Chen Wen-yu: Cómo una semilla se convirtió en el diplomático de la agricultura de Taiwán'
+description: 'Pionero del fitomejoramiento híbrido de hortalizas en Taiwán. Nacido en 1925 en una familia agrícola en Yongkang, Tainan, comenzó su trayectoria en la Estación Experimental de Horticultura Tropical de Fengshan. En 1962, desarrolló la primera sandía sin semillas de Taiwán, la "Fengshan No. 1", e instruyó personalmente a los agricultores en Erlun, Yunlin, para cultivar sandías en terrenos arenosos. En 1968, fundó Nongyou Seed, bajo la convicción de "hacer que los agricultores ganen dinero primero", llevando semillas y tecnología al extranjero y estableciendo un hospital para agricultores en Myanmar. Tras su fallecimiento a los 88 años en 2012, su vida fue incluida en la historia nacional, dejando el compromiso de "una semilla, una responsabilidad".'
 date: 2026-08-16
 category: 'People'
 tags:
   [
     'Chen Wen-yu',
-    'Nongyou Seedlings',
-    'Melón sin semillas',
-    'Agricultura',
-    'Mejoramiento genético',
+    'Nongyou Seed',
+    'sandía sin semillas',
+    'agricultura',
+    'fitomejoramiento',
   ]
 subcategory: '科學與學術'
 author: 'Taiwan.md Contributors'
@@ -23,10 +23,10 @@ imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Chen_Wen-Yu_1.jpg'
 curation: 'incubating'
 translatedFrom: 'People/陳文郁.md'
-sourceCommitSha: '67c4c72fc'
+sourceCommitSha: 'd3a973ae06'
 sourceContentHash: 'sha256:3facf31822b994ad'
 sourceBodyHash: 'sha256:93a5825f5b11a6f9'
-translatedAt: '2026-11-04T14:53:54.445556+00:00'
+translatedAt: '2026-11-25T01:29:49.791452+00:00'
 ---
 
 ![陳文郁與同事及西瓜](/article-images/people/chen-wen-yu-1.webp)

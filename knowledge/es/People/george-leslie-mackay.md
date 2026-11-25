@@ -1,16 +1,16 @@
 ---
-title: 'Preferir consumirse que oxidarse: Mackay y su amada Formosa'
-description: 'Desde la extracción de veinte mil dientes hasta la fundación de escuelas para mujeres, cómo el misionero canadiense George Leslie Mackay se convirtió en un "auténtico taiwanés", reescribiendo la historia de la medicina, la educación y la exploración científica del norte de Taiwán.'
+title: 'Preferir quemarse antes que oxidarse: MacKay y su amada Formosa'
+description: 'El misionero de la Iglesia Presbiteriana de Canadá desembarcó en Tamsui en 1872 a los 28 años. Aprendió taiwanés con pastores de ganado y, con una Biblia en una mano y un fórceps en la otra, se adentró en los templos y campos del norte de Taiwán; extrajo más de 20,000 dientes durante su vida y fundó el Hospital de Tamsui. Recolectó especímenes de serpientes y helechos, registró las costumbres de los pueblos indígenas y estableció la Escuela Oxford junto con la primera escuela para mujeres en Taiwán. Tras dedicarse a su labor durante 30 años, falleció debido a un cáncer de garganta y fue sepultado en el campus de una escuela en Tamsui, dejando como lema: "Preferir quemarse antes que oxidarse".'
 date: 2026-03-31
 category: 'People'
 tags:
   [
-    'Mackay',
+    'George Leslie MacKay',
     'Tamsui',
-    'historia de Taiwán',
-    'medicina',
-    'educación',
-    'ciencias naturales',
+    'Historia de Taiwán',
+    'Medicina',
+    'Educación',
+    'Ciencias naturales',
   ]
 subcategory: '歷史人物'
 author: 'Taiwan.md Contributors'
@@ -20,10 +20,10 @@ lastHumanReview: true
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/馬偕.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: 'd3a973ae06'
 sourceContentHash: 'sha256:b7d6932f284b6cf0'
 sourceBodyHash: 'sha256:d3315bfee0561cb1'
-translatedAt: '2026-08-04T14:00:17+08:00'
+translatedAt: '2026-11-25T02:20:29.489938+00:00'
 ---
 
 > **Resumen en 30 segundos:**

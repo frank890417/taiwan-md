@@ -1,15 +1,15 @@
 ---
-title: 'Kuo Chin-fa: El alma de voz grave detrás de los zongzi asados'
-description: 'De aprendiz de zapatero en Dadaocheng a Rey de la Voz Grave de la Isla Preciosa, Kuo Chin-fa cantó con «Zongzi asados» la amargura y la resiliencia del pueblo taiwanés de posguerra, y consumió hasta la última chispa de su vida sobre el escenario.'
+title: "Kuo Chin-fa: El alma de bajo detrás de 'Shao Rou Zong'"
+description: "El rey del bajo, que comenzó como aprendiz en una zapatería de Dadaocheng, ganó un concurso de canto a los 15 años y se lanzó a la carrera musical con su voz profunda y resonante, convirtiéndose en una estrella de la música taiwanesa. En 1973, adaptó la canción prohibida 'Mai Rou Zong' para crear 'Shao Rou Zong', capturando la melancolía y la resiliencia del pueblo taiwanés tras la guerra. Tras contraer deudas debido al incendio en el club Jindu Le Fu, viajó a Singapur para actuar durante medio año y saldar sus deudas. En 2016, se desplomó tras cantar la última frase de 'Shao Rou Zong' en un concierto para ancianos en Kaohsiung; falleció a los 72 años habiendo publicado más de cien álbumes."
 date: 2026-04-19
 category: 'People'
 tags:
   [
-    'Música',
-    'Canción taiwanesa',
-    'Zongzi asados',
-    'Rey de la voz grave',
-    'Canciones prohibidas durante la ley marcial',
+    'música',
+    'canciones taiwanesas',
+    'Shao Rou Zong',
+    'rey del bajo',
+    'canciones prohibidas durante la ley marcial',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md Contributors'
@@ -20,10 +20,10 @@ readingTime: 10
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/郭金發.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'd3a973ae06'
 sourceContentHash: 'sha256:ffef27b2909f9d95'
 sourceBodyHash: 'sha256:b629819d5dc38d6a'
-translatedAt: '2026-11-04T22:30:29.064581+00:00'
+translatedAt: '2026-11-25T02:26:20.905979+00:00'
 ---
 
 > **📝 Nota del curador**
