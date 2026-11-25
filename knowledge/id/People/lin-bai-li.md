@@ -1,15 +1,15 @@
 ---
-title: 'Lin Pai-li: Lahir di Shanghai 1949, Pendiri Quanta Computer dan Raja ODM Laptop yang Bertarung Melawan Kanker Selama 20 Tahun'
-description: 'Lahir 24 April 1949 di Shanghai. Mendirikan Quanta Computer bersama Liang Tzu-chen pada 1988. Didiagnosis adenokarsinoma paru pada 2005 (telah bertarung melawan kanker lebih dari 20 tahun). Pendapatan konsolidasi Quanta tembus 2 triliun dolar Taiwan baru pada 2025, menjadi mitra server AI penting NVIDIA, masuk Fortune 500. Isu pewarisan keputran menarik perhatian. Masih menjabat ketua dewan direksi pada 2026.'
+title: 'Lin Bo-li: Shanghai 1949, Pendiri Quanta Computer dan Raja Perakitan Laptop Selama Dua Puluh Tahun Melawan Kanker'
+description: 'Lahir di Shanghai pada tahun 1949 dan menempuh pendidikan serta tumbuh besar di Taiwan, ia adalah raja perakitan laptop. Pada tahun 1988, ia bersama Liang Ci-zhen dan lainnya mendirikan Quanta Computer, bertransformasi dari produsen papan induk menjadi ODM laptop, dan sempat menjadi produsen laptop terbesar di dunia berkat kemampuan desain integrasinya; setelah didiagnosis menderita adenokarsinoma paru-paru pada tahun 2005, ia terus memimpin perusahaan selama lebih dari 20 tahun sambil melawan penyakitnya, menciptakan rekor publik tentang kekuatan tekad. Pada tahun 2025, pendapatan Quanta menembus NT$2 triliun, masuk dalam daftar Fortune 500, dan menjadi mitra server AI penting bagi NVIDIA; ia tetap menjabat sebagai ketua pada tahun 2026, sementara isu suksesi terus menjadi perhatian publik.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Teknologi dan Bisnis',
+    'Teknologi & Perusahaan',
     'Quanta Computer',
-    'ODM',
+    'Manufaktur ODM',
     'Kecerdasan Buatan',
-    'Adenokarsinoma Paru',
+    'Adenokarsinoma Paru-paru',
   ]
 subcategory: '科技與企業'
 author: 'Taiwan.md'
@@ -20,10 +20,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/林百里.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '1b9d5dfea6'
 sourceContentHash: 'sha256:4e6831b8d5040b1f'
 sourceBodyHash: 'sha256:98f02f5d889ec6c6'
-translatedAt: '2026-11-04T19:20:10.340105+00:00'
+translatedAt: '2026-11-25T03:31:19.309246+00:00'
 ---
 
 # Lin Pai-li: Lahir di Shanghai 1949, Pendiri Quanta Computer dan Raja ODM Laptop yang Bertarung Melawan Kanker Selama 20 Tahun

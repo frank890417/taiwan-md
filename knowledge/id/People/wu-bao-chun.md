@@ -1,17 +1,17 @@
 ---
-title: 'Wu Pao-chun: Sebuah Janji kepada Anak Paiwan'
-description: 'Putra keluarga petani dari Pingtung, hanya lulusan SMP, dan tidak bisa berbahasa Prancis. Dengan sepotong roti leci mawar, ia meraih medali emas pertama dunia dalam Masters de la Boulangerie di Paris—di dalamnya tersimpan janji yang ia ucapkan kepada seorang anak masyarakat adat sepuluh tahun sebelumnya.'
+title: 'Wu Pao-chun: Sebuah Janji untuk Anak-anak Suku Paiwan'
+description: 'Anak bungsu dari delapan bersaudara yang tumbuh di pedesaan Neipu, Pingtung, ia kehilangan ayahnya pada usia dua belas tahun dan pindah ke utara pada usia lima belas tahun untuk memulai karier sebagai magang pembuat roti. Ia belajar bahasa Prancis secara otodidak untuk membaca buku-buku pastri Prancis. Pada tahun 2008, ia meraih medali perak di World Bread Cup dengan roti tape longan, dan pada tahun 2010 di Paris, ia memenangkan medali emas di Coupe du Monde de la Boulangerie dengan roti leci mawar yang memadukan arak millet suku Paiwan. Ia menjadi pemenang medali emas Master Baker pertama di dunia, dan juri Prancis menyebutnya sebagai roti Prancis paling lezat. Upayanya menempuh studi pascasarjana juga mendorong Kementerian Pendidikan Taiwan untuk mengubah undang-undang, yang kemudian dikenal sebagai "Klausul Wu Pao-chun".'
 date: 2026-04-05
 category: 'People'
 tags:
   [
-    'kuliner',
-    'pembuatan roti',
-    'semangat keahlian',
-    'juara dunia',
+    'Kuliner',
+    'Pastri',
+    'Semangat Profesional',
+    'Juara Dunia',
     'Pingtung',
-    'roti',
-    'masyarakat adat',
+    'Roti',
+    'Masyarakat Adat',
   ]
 subcategory: '餐飲與職人'
 author: 'Taiwan.md'
@@ -22,10 +22,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/吳寶春.md'
-sourceCommitSha: 'b1a5fea00'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:1b0b64c23c091c1f'
 sourceBodyHash: 'sha256:e355ad9581f498f8'
-translatedAt: '2026-11-17T23:39:56.976375+00:00'
+translatedAt: '2026-11-25T03:22:15.058020+00:00'
 ---
 
 # Wu Pao-chun: Sebuah Janji kepada Anak Paiwan

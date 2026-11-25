@@ -1,18 +1,18 @@
 ---
-title: 'Yu Yung-ho'
-description: 'Tahun 1697, seorang pelajar dari Hangzhou secara sukarela pergi ke Taiwan untuk menambang belerang, berjalan kaki dari Tainan ke Taipei, dan menulis literatur deskriptif paling awal tentang bagian utara Taiwan'
+title: 'Yu Yonghe'
+description: 'Seorang sarjana dari Hangzhou, Zhejiang, setelah kebakaran gudang bedil Fuzhou pada tahun ke-35 pemerintahan Kangxi, sukarela menyeberangi laut ke Taiwan untuk menambang belerang. Ia berangkat dari Kota Tainan naik gerobak sapi ke utara, dua puluh hari melintasi dataran barat, melewati lebih dari sepuluh kampung suku asli hingga mencapai area belerang Beitou, perjalanan sembilan bulan di Taiwan ditulis dalam 《Bihai Jiyou》, menjadi klasik paling awal yang mencatat geografi budaya Taiwan utara. Melihat orang asli bermalam di lumpur, ia menulis "Mereka juga manusia", sebuah renungan langka di era Dinasti Qing yang memandang orang asli sebagai orang di luar peradaban, dan meninggalkan catatan berharga tentang misteri Danau Taipei era Kangxi.'
 date: 2026-03-25
 category: 'People'
 tags:
   [
-    'tokoh',
-    'Yu Yung-ho',
-    'Pici Jiyou',
-    'Era Qing',
-    'petualangan',
+    'Tokoh',
+    'Yu Yonghe',
+    'Bihai Jiyou',
+    'Dinasti Qing',
+    'Eksplorasi',
     'Beitou',
-    'belerang',
-    'sastra Taiwan',
+    'Belerang',
+    'Sastra Taiwan',
   ]
 subcategory: '歷史與探險'
 author: 'Taiwan.md'
@@ -23,10 +23,10 @@ readingTime: 10
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/郁永河.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:4070459913f1808f'
 sourceBodyHash: 'sha256:f14cb1a2a50dc23e'
-translatedAt: '2026-11-04T21:01:06.236425+00:00'
+translatedAt: '2026-11-25T03:14:46.606271+00:00'
 ---
 
 # Yu Yung-ho

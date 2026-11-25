@@ -1,15 +1,15 @@
 ---
-title: 'Hsiao Ching-yang'
-description: 'Pemenang Grammy Award untuk Desain Kemasan Album Terbaik, sosok representatif yang membawa desain Taiwan ke panggung dunia melalui kolaborasi ayah dan anak.'
+title: 'Hsiao Cheng-yang'
+description: 'Desainer visual asal Taiwan, lahir di Xindian pada tahun 1966. Lulusan Fu Hsing Shang Chi ini pertama kali masuk nominasi Grammy Awards pada tahun 2005 melalui desain kemasan album, menjadikannya desainer Taiwan pertama yang meraih nominasi tersebut. Sejak saat itu, ia telah mengumpulkan tujuh nominasi. Pada tahun 2023, bersama putrinya Hsiao Chun-tien, ia berhasil memenangkan Grammy Award ke-65 untuk kategori Best Recording Package melalui album soundtrack "Danlan Ancient Trail Trilogy". Setelah penantian selama delapan belas tahun, ia akhirnya meraih penghargaan tersebut, yang membuat desainer Taiwan memenangkan penghargaan selama dua tahun berturut-turut. Karya-karyanya mengambil inspirasi dari kuil, kerajinan tradisional, dan alam pulau Taiwan, dengan filosofi desain "berakar di Taiwan, mekar di dunia".'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'desainer',
-    'Grammy Award',
-    'kemasan album',
-    'desain visual',
-    'budaya Taiwan',
+    'Desainer',
+    'Grammy Awards',
+    'Kemasan Album',
+    'Desain Visual',
+    'Budaya Taiwan',
   ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
@@ -19,10 +19,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/蕭青陽.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '20dcddf339'
 sourceContentHash: 'sha256:2c73351691aac54a'
 sourceBodyHash: 'sha256:4e85011d7634bdc0'
-translatedAt: '2026-10-21T20:47:17+08:00'
+translatedAt: '2026-11-25T03:34:03.362710+00:00'
 ---
 
 # Hsiao Ching-yang: Membawa Desain Taiwan ke Panggung Dunia

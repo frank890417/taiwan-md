@@ -1,15 +1,15 @@
 ---
-title: 'Dari Ruang Bawah Tanah ke Istana Presiden: Nymphia Wind dan Sejarah Pemberdayaan Diri Ratu Drag Taiwan'
-description: 'Seorang anak laki-laki Taiwan yang pernah dibully karena ekspresi gender-nya, bagaimana ia membawa seni drag yang dianggap subbudaya ke panggung internasional, dan dengan simbol "pisang", memperlihatkan keberagaman dan kepercayaan diri Taiwan kepada dunia.'
+title: 'Dari Ruang Bawah Tanah ke Istana Kepresidenan: Sejarah Pemberdayaan Diri Nijia, Sang Ratu Drag Taiwan'
+description: 'Pemenang RuPaul''s Drag Race tahun 2024 dan ratu drag pertama dari Taiwan yang meraih kehormatan ini bernama asli Tsao Mi-hsuan. Lahir di Los Angeles dan pindah ke Taiwan pada usia 6 tahun, ia mengalami perundungan karena ekspresi gendernya saat SD. Ia mulai mengenal dunia drag saat menempuh studi desain mode di London College of Fashion, Inggris; ia mengubah istilah "pisang" yang dulunya bermakna negatif menjadi simbol kepercayaan diri dengan menyebut dirinya sebagai "Pisang Buddha" (Jiao Fo). Dengan memadukan citra khas Taiwan seperti teh mutiara, lukisan kuil, dan opera tradisional Gezaixi ke dalam busananya, ia melangkah dari pesta bawah tanah menuju Istana Kepresidenan, menyuarakan eksistensi Taiwan dengan lantang di panggung internasional.'
 date: 2026-04-18
 category: 'People'
 tags:
   [
-    'Nymphia Wind',
-    'ratu drag',
+    'Nijia',
+    'Ratu Drag',
     'LGBTQ+',
-    'kesetaraan gender',
-    'budaya Taiwan',
+    'Kesetaraan Gender',
+    'Budaya Taiwan',
     "RuPaul's Drag Race",
   ]
 subcategory: '音樂與表演'
@@ -20,10 +20,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/妮妃雅.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '1b9d5dfea6'
 sourceContentHash: 'sha256:10538bd4034afd34'
 sourceBodyHash: 'sha256:18c9609265b03371'
-translatedAt: '2026-11-04T18:56:37.004195+00:00'
+translatedAt: '2026-11-25T03:20:00.461400+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Pada 2024, ratu drag Taiwan Nymphia Wind meraih juara acara paling ditunggu dunia, _RuPaul's Drag Race_, menjadi orang Taiwan pertama yang meraih keghairahan tersebut. Keberhasilannya tidak hanya mendorong seni drag Taiwan ke kancah internasional, tetapi juga bertepatan dengan "Hari Pendidikan Kesetaraan Gender", memperlihatkan semangat keberagaman dan inklusifitas Taiwan kepada dunia. Dari pesta bawah tanah ke Istana Presiden, kisah Nymphia Wind adalah cerminan sejarah pemberdayaan diri komunitas minoritas seksual Taiwan selama hampir 30 tahun. Ia menjadikan "pisang" sebagai simbol, memadukan pengalaman hidup pribadi dengan budaya Taiwan secara mendalam, dan dengan nyaring mengumumkan keberadaan dan kepercayaan diri Taiwan kepada dunia.

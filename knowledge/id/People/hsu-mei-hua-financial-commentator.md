@@ -1,15 +1,15 @@
 ---
-title: 'Hsu Mei-hua (許美華): Dari Anti-Ziguang ke Pembubaran Besar, Sepuluh Tahun Satu Kode Warga Anonim'
-description: '"Hsu Mei-hua" bukan nama aslinya, melainkan sebuah kode yang muncul dalam dua momen krusial di masyarakat sipil Taiwan——pada 2015 sebagai salah satu "Empat Ksatria" yang menghentikan akuisisi semi-konduktor oleh Ziguang Tiongkok, dan pada 2025 menjadi "pusat pembayaran" paling konter-intuitif dalam gelombang pembubaran besar: tidak menyentuh uang sedikit pun, namun mengoordinasikan lebih dari dua puluh juta donasi warga.'
+title: 'Hsu Mei-hua: Dari Penolakan Unigroup hingga Gerakan Recall Besar, Satu Dekade Kode Anonim Seorang Warga Negara'
+description: 'Sebuah kode anonim warga negara yang sengaja disembunyikan, bukan nama asli. Pada tahun 2015, dengan peran sebagai salah satu dari "Empat Ksatria" dan menyebut dirinya "Pendeta Penyapu", ia membantu menghalangi akuisisi tiga pabrik pengujian dan pengemasan semikonduktor besar di Taiwan oleh Unigroup asal Tiongkok yang bernilai total hampir NT$900 miliar; pada tahun 2025 dalam Gerakan Recall Besar, ia berubah menjadi "Pusat Donasi", di mana para penggemar langsung mentransfer dana kepada vendor untuk membuat mobil promosi LED, ia tidak menyentuh sepeser pun uang tersebut namun berhasil mengoordinasikan lebih dari NT$20 juta. Dengan kegagalan total 31 banding 0 dalam upaya recall, ia menyebutnya sebagai "aksi kegagalan yang paling sukses", sebuah lintasan sepuluh tahun yang merangkum spektrum masyarakat sipil Taiwan dari garis pertahanan teknologi menuju mobilisasi demokrasi.'
 date: 2026-04-17
 category: 'People'
 tags:
   [
     'Hsu Mei-hua',
-    'Anti-Ziguang',
-    'Pembubaran Besar',
-    'Gerakan Warga',
-    'Semi-konduktor',
+    'Anti-Unigroup',
+    'Gerakan Recall Besar',
+    'Gerakan Warga Negara',
+    'Semikonduktor',
     'Demokrasi Taiwan',
   ]
 subcategory: '教育與社會'
@@ -19,10 +19,10 @@ lastVerified: 2026-04-17
 lastHumanReview: true
 readingTime: 12
 translatedFrom: 'People/許美華.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '1b9d5dfea6'
 sourceContentHash: 'sha256:1b5d90dfca7bb147'
 sourceBodyHash: 'sha256:e380720def0effee'
-translatedAt: '2026-07-26T07:02:05+08:00'
+translatedAt: '2026-11-25T03:09:00.070215+00:00'
 ---
 
 > **Ringkasan 30 Detik:** "Hsu Mei-hua" adalah sebuah kode anonim, bukan nama asli. Ia muncul dalam masyarakat sipil Taiwan pada dua momen krusial: pada 2015 ia adalah salah satu "Empat Ksatria", membantu menghentikan akuisisi oleh Ziguang Tsinghua Tiongkok terhadap tiga pabrik pengemasan dan pengujian (pengujian/pengemasan) semi-konduktor utama Taiwan (Powertech, Sigurd, ChipMOS) dengan total nilai hampir sembilan triliun dolar Taiwan baru; pada 2025 ia kembali menjadi "pusat pembayaran" dalam gerakan "Pembubaran Besar", di mana penggemar mentransfer dana langsung ke vendor untuk mobil propaganda LED, materi kampanye, dan parade keagamaan, tanpa ia menyentuh uang sedikit pun. Upaya pembubaran berakhir dengan hasil 31:0 gagal total, yang ia sebut "aksi gagal paling sukses". Sepuluh tahun jejak kode ini memadatkan spektrum masyarakat sipil Taiwan dari garis depan ekonomi teknologi menuju mobilisasi demokrasi.

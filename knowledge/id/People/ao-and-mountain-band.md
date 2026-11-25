@@ -1,182 +1,185 @@
 ---
-title: 'Ao dan Gunung: Dua Pekerja Teknologi yang Membuat Musik dengan Synthesizer tentang Hal-Hal yang Tidak Bisa Dikatakan di Kantor'
-description: "Ao dan Gunung (Our Shame) adalah grup lagu folktronica berdua dari Taiwan, terdiri dari Ao (vokal, synthesizer, produser) dan Isan (drum, Pad). Mereka kenal di Klub Musik SMA mereka, dan selama periode kuliah mereka memenangkan Hadiah Kreativitas Jin Shao pada tahun 2015 dengan lagu a cappella. Setelah lulus, kedua orang bekerja sebagai pekerja teknologi. Pada musim dingin 2018, mereka mengganti nama grup lagu folk akustik yang awalnya bernama 'Ao Kecil' menjadi 'Ao dan Gunung', membeli synthesizer, Isan berubah menjadi pengoperasian Pad, dan musik mereka beralih ke folktronica (folk elektronik). Pada tahun 2022, teman dekat Ao meninggal, Ia mengundurkan diri dari pekerjaan penuh waktu, dan grup mereka merilis album pertama《Modern Problem》yang dinominasikan untuk Golden Indie Music Awards ke-13 untuk Kategori Lagu Pop Alternatif Terbaik dan Petingan Pemula Terbaik. Pada 4 Agustus 2025, mereka merilis album kedua《Hidden Album》dengan kolaborasi produser audio Grammy British Jay Reynolds, insinyur audio Grammy Amerika Serikat Brian Elgin (yang pernah bekerja sama dengan Dua Lipa dan Lana Del Rey), serta tim kolaborasi internasional seperti ASOBOiSM di Jepang. Tema album beralih dari 'kecemasan teknologi' (Modern Problem) menuju 'bayangan manusiawi yang tersembunyi di balik teknologi'—mengatasi masalah depresi, cinta terlarang, penipuan kripto virtual, pengalaman tubuh perempuan—di mana satu lagu《Miffy》menyemangati Chen Mei-hui, seorang aktivis sosial."
+title: 'Ao & Shan: Dua Pekerja Sektor Teknologi yang Menggunakan Synthesizer untuk Menyanyikan Hal-hal yang Tak Bisa Mereka Katakan di Kantor'
+description: 'Duet folktronica Taiwan, Xiao Ao dan Isan, bertemu di klub musik SMA. Setelah memenangkan Golden Melody Awards 2015, keduanya bekerja di sektor teknologi sebelum beralih ke synthesizer pada 2018. Album mereka, "Modern Problem" dan "Hidden Album", mengeksplorasi kecemasan akibat teknologi dan sisi gelap kemanusiaan yang tersembunyi.'
 date: 2026-04-18
 category: 'People'
-subcategory: '音樂與表演'
 tags:
   [
-    'orang',
-    'Ao dan Gunung',
+    'Tokoh',
+    'Ao & Shan',
     'Our Shame',
     'Xiao Ao',
     'Isan',
     'Folktronica',
-    'folk elektronik',
-    'musik independen',
+    'Folk Elektronik',
+    'Musik Independen',
     'Golden Indie Music Awards',
-    'Jin Shao',
+    'Golden Melody Awards',
     'Modern Problem',
     'Hidden Album',
-    'sintetisator',
+    'Synthesizer',
   ]
-readingTime: 16
+subcategory: '音樂與表演'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-18
 lastHumanReview: true
-featured: false
+researchReport: 'reports/research/2026-04/凹與山.md'
+readingTime: 16
 translatedFrom: 'People/凹與山.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '30ab24424f'
 sourceContentHash: 'sha256:fb2f6f7aedcd6d81'
 sourceBodyHash: 'sha256:99f87ca9cdb0ab32'
-translatedAt: '2026-07-25T17:25:33+08:00'
-author: 'Taiwan.md'
+translatedAt: '2026-11-25T08:44:43+08:00'
 ---
 
-> **Ringkasan 30 detik:** Ao dan Gunung (Our Shame) adalah grup lagu folktronica berdua dari Taiwan, terdiri dari vokal Xiao Ao (Estelle H) dan drumer Isan. Mereka kenal di Klub Musik SMA, dan selama periode kuliah mereka memenangkan **Hadiah Kreativitas Jin Shao** (versi a cappella demo《Kau Sayangku》). Setelah lulus, kedua orang bekerja sebagai pekerja teknologi. Pada musim dingin 2018, mereka mengganti nama grup lagu folk akustik yang awalnya bernama 'Ao Kecil' menjadi 'Ao dan Gunung', Xiao Ao membeli synthesizer, Isan berubah menjadi pengoperasian Pad, dan musik mereka beralih ke folktronica. Pada tahun 2019, mereka merilis EP《Semua Hal Baik Akan Terjadi》, dengan rekaman campuran oleh produser peraih penghargaan asal Jepang AKNIT. Pada tahun 2022, album pertama mereka《Modern Problem》dinominasikan untuk **Golden Indie Music Awards ke-13 untuk Kategori Lagu Pop Alternatif Terbaik dan Petingan Pemula Terbaik**. Pada 4 Agustus 2025, album kedua《Hidden Album》dirilis dengan tim kolaborasi internasional meliputi mixer audio Grammy British Jay Reynolds, insinyur audio Grammy Amerika Serikat Brian Elgin (berkolaborasi dengan Dua Lipa, Lana Del Rey), rapper/R&B muda Jepang ASOBOiSM, produser elektronik Prancis Odd People Club—dengan tema beralih dari 'kecemasan teknologi' menuju 'bayangan manusiawi yang tersembunyi di balik teknologi': depresi, cinta terlarang, penipuan kripto, pengalaman tubuh perempuan. Di mana satu lagu《Miffy》menyemangati Chen Mei-hui, seorang aktivis sosial. Pada 4 Januari 2026, mereka menggelar konser《Hidden Album》berjudul sama.
+> **Ringkasan 30 Detik:** Ao & Shan (Our Shame) adalah duet folktronica Taiwan yang beranggotakan vokalis Xiao Ao (Estelle H) dan pemain drum Isan. Keduanya bertemu di klub musik SMA, dan pada masa kuliah, dengan format folk akustik, mereka memenangkan **Juara Kategori Kreatif di Golden Melody Awards** pada tahun 2015 (untuk demo akustik 〈Dear〉). Setelah lulus, keduanya bekerja di sektor teknologi. Pada musim dingin 2018, mereka mengubah nama grup yang sebelumnya bernama "Wei Xiao Ao" menjadi "Ao & Shan", Xiao Ao membeli synthesizer, dan Isan beralih menggunakan Pad, mengarah ke genre folktronica. Pada tahun 2019, mereka merilis EP _All Good Things Will Happen_ dengan bantuan produser pemenang penghargaan Jepang, AKNIT. Pada tahun 2022, album pertama mereka _Modern Problem_ masuk nominasi **dua kategori di Golden Indie Music Awards ke-13, yaitu Pop Alternatif Terbaik dan Pendatang Baru Terbaik**, dengan 60% lagu berbahasa Inggris. Pada 4 Agustus 2025, album kedua _Hidden Album_ dirilis dengan tim produksi internasional termasuk mixer Grammy asal Inggris Jay Reynolds, engineer Grammy asal Amerika Brian Elgin (pernah bekerja sama dengan Dua Lipa dan Lana Del Rey), ASOBOiSM dari Jepang, dan Odd People Club dari Prancis—temanya bergeser dari "kecemasan teknologi" menjadi "bayang-bayang kemanusiaan yang tertutup oleh teknologi": menyakiti diri sendiri, cinta terlarang, penipuan mata uang kripto, dan pengalaman tubuh perempuan. Salah satu lagunya, 〈Miffy〉, merupakan penghormatan kepada aktivis sosial Chen Mei-hui. Konser bertajuk _Hidden Album_ akan diadakan pada 4 Januari 2026.
 
-2018, musim dingin, di sebuah ruangan di Taipei.
+Musim dingin tahun 2018, di sebuah ruangan di Taipei.
 
-Xiao Ao baru saja membeli synthesizer. Isan baru saja membeli Pad.
+Xiao Ao baru saja membeli sebuah synthesizer. Isan baru saja membeli sebuah Pad.
 
-Mereka kenal di Klub Musik SMA, dan selama periode kuliah mereka memenangkan Hadiah Jin Shao, lalu setelah lulus, kedua orang bekerja sebagai pekerja teknologi. Pada hari itu, mereka memutuskan untuk mengganti nama grup lagu folk akustik yang awalnya bernama 'Ao Kecil' menjadi nama baru.[^1]
+Mereka pernah bermain bersama di klub musik SMA, memenangkan Golden Melody Awards bersama saat kuliah, dan setelah lulus, keduanya menjadi pekerja kantoran di sektor teknologi. Hari itu mereka memutuskan untuk mengubah nama grup folk mereka yang semula bernama "Wei Xiao Ao" menjadi nama baru. [^1]
 
-Nama mereka adalah Ao dan Gunung.
+Namanya adalah Ao & Shan.
 
-### Synthesizer di Musim Dingin Dua Pekerja Teknologi
+### Synthesizer Musim Dingin Dua Pekerja Sektor Teknologi
 
-Nama grup 'Ao dan Gunung' tidak memiliki latar belakang geografis atau etnis yang spesifik, hanyalah serapan kata dari panggilan mereka: Xiao Ao dan Isan.[^1]Nama dalam bahasa Inggris Our Shame.
+Nama grup "Ao & Shan" tidak memiliki latar belakang lanskap atau penduduk asli, melainkan permainan bunyi dari julukan mereka berdua: Xiao Ao dan Isan. [^1] Nama bahasa Inggrisnya adalah Our Shame.
 
-Di dalam ekosistem grup lagu independen Taiwan, mereka tidak mewakili kombinasi yang biasa. **Bukan grup yang berkembang dari Live House**, melainkan dua pekerja teknologi yang menulis lagu di ruang mereka setelah kerja. Latar belakang ini nantinya menjadi inti tema musik mereka: bagaimana teknologi membungkus kecemasan manusia, dan apa yang teknologi tutupi.
+Dalam ekosistem band independen Taiwan, mereka adalah kombinasi yang tidak biasa: **tidak dibesarkan di Live House**, melainkan dua orang yang bekerja di sektor teknologi pada siang hari dan menulis lagu di kamar pada malam hari. Latar belakang ini kemudian menjadi tema inti musik mereka: bagaimana teknologi membungkus kecemasan manusia, dan apa yang ditutupi oleh teknologi.
 
-Keputusan pada musim dingin 2018 memiliki dua makna. Yang pertama adalah **alat musik**: secara dulu semuanya menggunakan gitar akustik plus drum kotak kayu, sekarang berubah menjadi synthesizer plus Pad, Isan harus berubah dari drumer jazz tradisional menjadi pengoperasian perangkat elektronik. Yang kedua adalah **identitas musik**: beralih dari grup lagu folk akustik yang berpusat pada vokal Xiao Ao ('Ao Kecil') menjadi grup lagu folktronica berdua yang setara Ao dan Gunung.[^1]
+Keputusan pada musim dingin 2018 itu memiliki dua makna. Pertama adalah **instrumen**: awalnya format folk menggunakan gitar akustik + cajon, kini berganti menjadi synthesizer + Pad, di mana Isan harus bertransformasi dari pemain drum jazz tradisional menjadi operator perangkat elektronik. Kedua adalah **identitas musik**: dari "Wei Xiao Ao" (grup folk yang berpusat pada vokalis) menjadi "Ao & Shan" (duet folktronica yang setara). [^1]
 
-Penempatan musik mereka kini adalah **Folktronica**: folk ditambah elektronik, perpaduan musik folk dengan suara elektronik. Gaya mereka meliputi ambient, downtempo, retrowave, trip-hop, synth-pop. Penilai musik menggambarkan suara mereka sebagai 'tabrakan dingin digital dengan analog hangat', synthesizer bertanggung jawab atas dinginnya, gitar bertanggung jawab atas kemanannya; drum machine bertanggung jawab atas ketepatannya, vokal yang pecah belah bertanggung jawab atas kehancurannya.[^2]
+Posisi musik mereka sejak saat itu menjadi **Folktronica**: perpaduan antara _folk_ dan _electronic_. Gaya turunannya mencakup ambient, downtempo, retrowave, trip-hop, dan synth-pop. Kritikus musik mendeskripsikan suara mereka sebagai "benturan antara digital yang dingin dan analog yang hangat"; synthesizer bertanggung jawab atas sisi dingin, gitar untuk kehangatan; drum machine untuk presisi, dan vokal yang emosional untuk kesan rapuh. [^2]
 
 > **📝 Catatan Kurator**
-> Yang menarik dari grup ini bukanlah gaya musiknya, melainkan 'bagaimana dua pekerja teknologi yang main gitar sampai menggunakan synthesizer'. Dari kemenangan Jin Shao versi a cappella hingga kolaborasi dengan tim audio Grammy internasional, ada dua perubahan identitas di tengah jalan: sekali adalah menjadi pekerja teknologi setelah lulus, sekali adalah pada musim dingin 2018 ketika mereka mengganti alat musik.
+> Hal menarik dari grup ini bukan pada gaya musiknya, melainkan pada "bagaimana dua pekerja teknologi bisa sampai pada tahap bernyanyi menggunakan synthesizer". Dari juara akustik Golden Melody Awards hingga kolaborasi dengan tim Grammy internasional, terdapat dua transisi identitas: pertama saat menjadi pekerja kantoran setelah lulus, dan kedua saat mengganti instrumen pada musim dingin 2018.
 
-### Kemenangan Jin Shao di Klub Musik SMA
+### Juara Akustik Klub Musik SMA
 
-Cerita sebenarnya dimulai lebih awal.
+Cerita ini sebenarnya dimulai lebih awal.
 
-Mereka kenal di Klub Musik SMA. Itu adalah cerita klasik tentang kelompok musik di SMA Taiwan, beberapa siswa yang suka musik, rekreasi di ruang klub setelah sekolah. Kedua orang tidak pada awalnya berencana menjadi musisi.
+Keduanya bertemu di klub musik SMA. Itu adalah kisah tipikal band SMA di Taiwan: beberapa siswa yang menyukai musik berlatih di ruang klub setelah pulang sekolah. Sejak awal, keduanya tidak berencana menjadi musisi profesional.
 
-Selama periode kuliah, mereka mempertahankan kerja sama grup musik, dengan susunan yang sederhana: Xiao Ao memegang gitar dan menyanyikan, Isan memukul drum kayu.[^3]Pada tahun 2015, dengan versi demo tidak terhubung《Kau Sayangku》, mereka memenangkan **Hadiah Jin Shao untuk Kreativitas**. Jin Shao adalah penghargaan karya musik untuk perguruan tinggi dan sekolah tinggi di Taiwan, kemenangan ini berarti mereka dilihat di lingkaran karya musik remaja yang sama.
+Selama masa kuliah, mereka tetap bekerja sama dalam grup dengan formasi sederhana: Xiao Ao bermain gitar sambil bernyanyi, dan Isan bermain cajon. [^3] Pada tahun 2015, melalui versi demo akustik dari [〈Dear〉](https://www.youtube.com/watch?v=G_wt0-SAPtk), mereka meraih **Juara Kategori Kreatif di Golden Melody Awards**. Golden Melody Awards adalah penghargaan penciptaan musik tingkat perguruan tinggi di Taiwan; kemenangan ini berarti mereka diakui dalam lingkaran kreator mahasiswa seangkatan mereka. [^3]
 
-Namun, hal ini nantinya menjadi puncak tinggi yang tidak berkelanjutan: tepat setelah itu kedua orang lulus dari kuliah, masuk ke industri teknologi sebagai pekerja, aktivitas grup musik terhenti.[^1]Dalam dunia grup musik independen Taiwan, cerita seperti ini tidak jarang: semangat yang terbakar selama periode kuliah, setelah lulus disophani oleh rutinitas dunia kerja, grup musik secara alami hilang.
+Namun, hal ini kemudian menjadi puncak yang tidak berkelanjutan: tak lama setelah lulus, keduanya masuk ke sektor teknologi sebagai pekerja kantoran, dan aktivitas band pun terhenti. [^1] Dalam skena band independen Taiwan, kisah seperti ini tidak jarang terjadi: semangat membara di masa kuliah, lalu terkikis oleh rutinitas sosial setelah lulus, hingga band perlahan memudar.
 
-Mereka berbeda, mereka menggunakan synthesizer untuk kembali.
+Perbedaan mereka adalah, tujuh tahun kemudian, mereka kembali dengan synthesizer.
 
-### 《Richard》nama itu berasal dari kejadian kecelakaan
+### Nama 〈Richard〉 Berasal dari Kecelakaan Pesawat
 
-Pada musim dingin 2018 setelah rebranding, lagu single resmi pertama adalah [《Richard》](https://www.youtube.com/watch?v=PORWzNz9o90).[^4]Lagu ini naik ke peringkat teratas di StreetVoice selama beberapa minggu, hingga mencapai lebih dari seratus juta tayangan.
+Single resmi pertama setelah _rebranding_ pada musim dingin 2018 adalah [〈Richard〉](https://www.youtube.com/watch?v=PORWzNz9o90). [^4] Lagu ini sempat memuncaki tangga lagu StreetVoice selama beberapa minggu, dengan jumlah putar yang kini telah melampaui satu juta.
 
-Nama 'Richard' bukan nama acak.
+Nama "Richard" tidak dipilih secara acak.
 
-Pada tahun 2018, terjadi insiden **Horizon Air**: seorang pekerja darat bernama Richard Russell mencuri satu pesawat turboprop Q400, terbang selama satu jam lalu jatuh. Ini adalah insiden luar biasa yang mengganggu internasional: seorang pekerja yang pernah tidak pernah mengemudi pesawat, menggunakan cara yang ia kira tidak akan pernah kembali ke bumi untuk terbang ke atas.[^4]
+Pada tahun 2018, terjadi sebuah peristiwa di Horizon Air: seorang petugas darat bernama Richard Russell mencuri pesawat turboprop Q400, terbang selama satu jam sebelum akhirnya jatuh. Ini adalah insiden penerbangan yang mengguncang dunia: seorang petugas bagasi yang belum pernah menerbangkan pesawat, terbang ke angkasa dengan cara yang ia tahu mungkin tidak akan pernah kembali lagi. [^4]
 
-《Richard》ditulis untuk nama tersebut. Bukan untuk merekonstruksi insidennya, melainkan menggunakan aransemen elektronik untuk menciptakan nuansa 'di udara, tidak tahu bagaimana untuk kembali'—synthesizer menuturkan nada panjang, drum machine memberi irama yang jarang, vokal diolah menjadi terasing. Cara penanganan ini nantinya menjadi bentuk dasar estetika Ao dan Gunung secara keseluruhan: **tidak membahas kekerasan secara langsung, melainkan membuat guncangan kekerasan menjadi bunyi**.
+〈Richard〉 ditulis untuk nama tersebut. Bukan untuk merekonstruksi kejadiannya secara harfiah, melainkan menggunakan aransemen elektronik untuk menciptakan tekstur "berada di udara, tanpa tahu bagaimana cara pulang"—synthesizer memainkan nada panjang (_long tones_), ritme drum machine yang jarang, dan vokal yang diproses agar terdengar jauh. Pendekatan ini kemudian menjadi prototipe estetika keseluruhan Ao & Shan: **tidak menceritakan tragedi secara langsung, melainkan mengubah gema dari tragedi tersebut menjadi suara**.
 
-### 《Semua Hal Baik Akan Terjadi》adalah sebuah mantra
+### _All Good Things Will Happen_ Adalah Sebuah Mantra
 
-Pada Juni 2019, mereka merilis EP pertama mereka [《Semua Hal Baik Akan Terjadi》](https://www.youtube.com/watch?v=7akbhz4aSg4) (All Good Things Will Happen). Empat lagu:《Satu Ratus》, [《Ruang di Pantai》](https://www.youtube.com/watch?v=mjv6KEc1Who),《Richard》, 《Semua Hal Baik Akan Terjadi》(dengan fit. Li Man Spëll).[^5]
+Pada Juni 2019, mereka merilis EP pertama [《All Good Things Will Happen》](https://www.youtube.com/watch?v=7akbhz4aSg4). Terdiri dari empat lagu: 〈One Ten Thousand〉, [〈Room by the Sea〉](https://www.youtube.com/watch?v=mjv6KEc1Who), 〈Richard〉, dan 〈All Good Things Will Happen〉 (feat. Li Man Spëll). [^5]
 
-Latar belakang nama EP memiliki cerita spesifik. Di Facebook resmi Ao dan Gunung ditulis:
+Ada cerita spesifik di balik judul EP tersebut. Facebook resmi Ao & Shan menuliskan:
 
-> **✦** 'Semua Hal Baik Akan Terjadi adalah sebuah mantra. Pada malam Tahun Baru tahun sebelumnya, teman Ao dan Gunung, Li Man (Spëll) dan Wen He, di pinggir jalan melihat pasangan orang tua muda menatap satu sama lain, terus-menerus menundukkan diri pada satu sama lain mengucapkan "Semua hal baik akan terjadi" "Semua hal baik akan terjadi"......'[^5]
+> **✦** "'All Good Things Will Happen' adalah sebuah mantra. Pada malam tahun baru dua tahun lalu, teman Ao & Shan, Li Man (Spëll) dan Wen He, melihat sepasang pria dan wanita paruh baya di minimarket pinggir jalan; mereka saling menggenggam tangan dan terus membungkuk sambil berkata satu sama lain 'All good things will happen', 'All good things will happen'..." [^5]
 
-Gambar itu menjadi sebuah lagu, menjadi EP, dan menjadi keyakinan kreatif tertentu dari Ao dan Gunung: **beberapa hal tidak perlu dijelaskan, cukup diulang-ulang akan menjadi benar**. Mantra memiliki esensi seperti itu.
+Adegan ini berubah menjadi sebuah lagu, sebuah EP, dan juga menjadi semacam keyakinan kreatif Ao & Shan: **beberapa hal tidak perlu dijelaskan; jika diulang terus-menerus, ia akan menjadi kenyataan**. Begitulah hakikat dari sebuah mantra.
 
-Campuran EP ini diminta kepada produser peraih penghargaan asal Jepang **AKNIT** (nama sebenarnya Toshiya Fueoka).[^5]Pada fase ini, Ao dan Gunung menunjukkan satu ciri khas: mereka memilih kolaborator **'pilihlah orang yang tepat, tidak peduli geografisnya'**. Cara ini akan diperluas menjadi lebih ekstrim pada tahun 2025.
+Mixer untuk EP ini adalah produser pemenang penghargaan Jepang, **AKNIT** (nama asli Toshiya Fueoka). [^5] Pada tahap ini, Ao & Shan menunjukkan satu karakteristik: pilihan kolaborasi mereka adalah "**cari siapa saja yang dibutuhkan**", tanpa batasan geografis. Pendekatan ini akan diperluas ke tingkat yang lebih ekstrem pada tahun 2025.
 
-### Pada Tahun Teman Mereka Meninggal, Ao Mengundurkan Diri dari Pekerjaan Penuh Waktu
+### Tahun Temannya Meninggal, Ia Mengundurkan Diri dari Pekerjaan Tetap
 
-Pada tahun 2022 adalah tahun penting bagi Ao dan Gunung. Tahun itu teman dekat Xiao Ao meninggal.
+Tahun 2022 adalah tahun krusial bagi Ao & Shan. Tahun itu, sahabat karib Xiao Ao meninggal dunia.
 
-Hal ini memiliki dua dampak langsung bagi Xiao Ao: ia mengundurkan diri dari pekerjaan penuh waktu; ia memusatkan diri menyelesaikan album full-length grup《Modern Problem》.[^6]Album ini diluncurkan secara digital pada 10 Agustus, dan físic pada pertengahan September. 12 lagu, 60% lagu dalam bahasa Inggris. Prodser menulis nama dirinya sendiri: Xiao Ao.[^6]
+Hal ini berdampak langsung pada dua hal bagi Xiao Ao: ia mengundurkan diri dari pekerjaan tetapnya; dan ia fokus menyelesaikan album penuh pertama grup tersebut, [《Modern Problem》](https://www.youtube.com/watch?v=FF1s9lkObhY). [^6] Album ini dirilis secara digital pada 10 Agustus dan fisik pada akhir September. Terdiri dari 12 lagu, dengan 60% lagu berbahasa Inggris. Produser yang tercantum adalah namanya sendiri: Xiao Ao. [^6]
 
-《Modern Problem》tema bisa dilihat dari namanya: **masalah manusia modern**. Kecemasan perangkat komunikasi, kerusakan diri di platform sosial, dilema 'sudah dibaca tapi tidak dibalas', kecanduan jaringan, penghuni tanpa tempat tinggal di kawasan Bandar Fraser (diterjemahkan dari dokumenter Elizabeth Lo《Hotel 22》). Lagu utama《Modern Problem》meminta pemuzik baru Neo Soul/R&B **LINION** untuk bersanding.
+Tema _Modern Problem_ terlihat jelas dari judulnya: **masalah manusia modern**. Kecemasan akibat aplikasi pesan instan, rasa kasihan pada diri sendiri di media sosial, dilema pesan yang hanya dibaca tanpa dibalas (_read receipt anxiety_), kecanduan internet, hingga tunawisma di Bay Area (〈Hotel 22〉 diadaptasi dari dokumenter dengan judul yang sama karya Elizabeth Lo). Lagu utama berjudul 〈Modern Problem〉 menampilkan bintang baru Neo Soul / R&B, **LINION**, sebagai penyanyi tamu.
 
-Akhir album adalah《party to the moon》, lagu itu ditulis untuk teman yang meninggal. Cara penanganannya bukan lagu duka, bukan catatan perpisahan, adalah adegan fantasi di bulan pesta. Tentang kematian tidak ada pembicaraan langsung tentang kematian, tentang bab kehilangan tidak ada tulisan tentang rasa sakit.[^6]
+Bagian penutup album adalah 〈party to the moon〉, lagu yang ditulis untuk mendiang sahabatnya. Pendekatannya bukan sebagai elegi atau kata perpisahan, melainkan sebuah adegan surealis tentang berpesta di bulan. Lagu tentang kematian tidak membicarakan kematian secara langsung; bagian tentang kehilangan tidak menuliskan rasa sakit secara gamblang. [^6]
 
-Album ini nantinya dinominasikan untuk **Golden Indie Music Awards ke-13 untuk Kategori Lagu Pop Alternatif Terbaik dan Petingan Pemula Terbaik**. Meskipun tidak memenangkan keduanya, double nominasi itu sendiri sudah menjadi pengakuan signifikan di bidang folktronica Taiwan.[^7]Secara bersamaan, Modern Problem diterima dalam playlist privat editor musik di Eropa Barat, Amerika Serikat, Australia, dan Asia Tenggara. Ao dan Gunung keluar dari keluarga besar grup musik independen Taiwan, perlahan masuk ke telinga pembaca internasional.
+Album ini kemudian masuk nominasi **dua kategori di Golden Indie Music Awards ke-13: Album Pop Alternatif Terbaik dan Pendatang Baru Terbaik**. Meskipun akhirnya tidak memenangkan keduanya, dua nominasi tersebut sudah merupakan pengakuan signifikan dalam ranah folktronica Taiwan. [^7] Pada saat yang sama, _Modern Problem_ mulai masuk ke dalam daftar putar pribadi editor musik di Eropa, Amerika, Australia, Selandia Baru, dan Asia Tenggara melalui layanan streaming internasional. Dari keluarga besar band independen Taiwan, Ao & Shan secara diam-diam melangkah menuju telinga pendengar internasional.
 
-> **✦** Xiao Ao dalam wawancara mengatakan, yang ingin ia lakukan bukanlah lagu musik gaya tradisional: 'Saya ingin membuat rasa pelibaran yang sendirian, seperti musik yang tarikan dengan kenangan otak.'[^8]
+> **✦** Dalam sebuah wawancara, Xiao Ao mengatakan bahwa yang ingin ia buat bukanlah lagu dansa tradisional: "Saya ingin menciptakan nuansa lagu dansa yang kesepian, perasaan berdansa dengan ingatan di otak." [^8]
 
-### 《Miffy》menyemangati orang tersebut Miffy
+### 〈Miffy〉 Sebagai Penghormatan kepada Miffy Tersebut
 
-Pada 4 Agustus 2025, tiga tahun setelah mereka kembali, Ao dan Gunung merilis album kedua mereka《Hidden Album》.[^9]
+Pada 4 Agustus 2025, setelah tiga tahun berlalu, Ao & Shan merilis album kedua mereka, _Hidden Album_. [^9]
 
-Nama《Hidden Album》memiliki makna ganda: satu adalah fungsi 'album tersembunyi' di ponsel (fitur yang ada di iOS dan Android untuk menyembunyikan foto), yang lain adalah makna tradisional 'lagu rahasia' (bonus track) dalam album. Kedua-duanya menunjuk pada satu hal: **hal-hal yang disembunyikan, tidak dipublikasikan, tidak ingin dilihat**.[^9]
+Nama _Hidden Album_ memiliki makna ganda: pertama adalah fitur "Album Tersembunyi" pada ponsel (fitur di iOS dan Android untuk menyembunyikan foto), dan kedua adalah "hidden track" dalam pengertian tradisional sebuah album. Keduanya merujuk pada satu hal: **hal-hal yang disembunyikan, tidak dipublikasikan, dan tidak ingin dilihat**. [^9]
 
-Tema album mereka bergerak dari 'kecemasan teknologi' pada Modern Problem menuju **'bayangan manusiawi yang tersembunyi di balik teknologi'**: depresi, cinta terlarang, kebiasaan, penipuan kripto, pengalaman tubuh perempuan. Dari 'teknologi membuat kita cemas' berkembang menjadi 'teknologi membuat hal-hal yang penting tidak terlihat'.
+Tema album ini melangkah lebih jauh dari "kecemasan teknologi" di _Modern Problem_, menjadi **"bayang-bayang kemanusiaan yang tertutup oleh teknologi"**: menyakiti diri sendiri, hubungan terlarang, kecanduan, penipuan mata uang kripto, dan pengalaman tubuh perempuan. Berevolusi dari "teknologi membuat kita cemas" menjadi "hal apa saja yang dibuat tidak terlihat oleh teknologi".
 
-Lagu ketiga yang bernama《Miffy》menyemangati **Chen Mei-hui**. Chen Mei-hui adalah seorang aktivis sosial, memiliki latar belakang sebagai analis aliran dana kripto, berinvestasi jangka panjang dalam penyelidikan penipuan lintas batas dan kejahatan kripto, dan bersuara atas nama korban.([^9] Lagu《Miffy》refrainnya 'seperti ada cahaya', frasa itu diambil dari keyakinan Chen Mei-hui tentang visinya dalam kehidupan.
+Salah satu lagu ketiganya berjudul 〈Miffy〉.
 
-Lagu ini memiliki posisi khusus dalam urunan karya Ao dan Gunung: ia adalah **lagu penghargaan untuk seorang kreator perempuan menyemangati seorang profesis perempuan yang nyata**. Dalam sejarah musik perempuan berbahasa Tiongkok, jenis lagu heroik perempuan tidak banyak. Menulis untuk seorang aktivis sosial perempuan yang nyata, profesis, lagu itu lebih jarang.([^9]
+Lagu ini merupakan penghormatan kepada **Chen Mei-hui**. Chen Mei-hui adalah seorang aktivis sosial dengan profesi sebagai analis aliran dana mata uang kripto, yang telah lama mendedikasikan dirinya untuk menyelidiki penipuan lintas batas dan kejahatan kripto, serta menyuarakan hak para korban. [^9] Bagian _chorus_ 〈Miffy〉 berbunyi "seolah-olah ada cahaya", kalimat ini diambil dari refleksi Chen Mei-hui semasa hidupnya mengenai pengabdian profesinya.
 
-Album《Hidden Album》menyeluruh mengangkat tema 'tersembunyi', 'bahasa terlarang', 'kemalu-malu', dengan fokus pada pengalaman tubuh dan memori emosional yang tidak dapat dikatakan selama pertumbuhan perempuan.([^9] Ini adalah perubahan yang jelas dari album pertama ke kedua bagi Ao dan Gunung: dari 'menulis tentang kecemasan yang semua orang punya' menuju 'menulis tentang hal-hal yang lebih dalam—hal yang hanya perempuan yang mengalami'.
+Lagu ini menempati posisi khusus dalam diskografi Ao & Shan: ini adalah **lagu penghormatan dari seorang kreator perempuan untuk seorang profesional perempuan**. Dalam sejarah musik Mandarin di Taiwan, genre lagu tentang pahlawan perempuan tidaklah banyak. Lagu yang ditulis untuk aktivis sosial atau profesional perempuan yang nyata jauh lebih sedikit lagi. [^9]
 
-### Beberapa bulan tanpa aturan di Paris
+Seluruh album berputar di sekitar tema "tersembunyi", "tabu", dan "rasa malu", berfokus pada pengalaman tubuh dan memori emosional yang sulit diungkapkan dalam proses pertumbuhan perempuan. [^9] Ini adalah pergeseran paling nyata dari album pertama ke kedua: dari "menulis tentang kecemasan yang dialami semua orang" menjadi "menulis tentang hal-hal spesifik yang hanya dialami oleh perempuan".
 
-《Hidden Album》memiliki latar belakang khusus: Xiao Ao pernah menghabiskan waktu di Paris.
+### Beberapa Bulan Tanpa Aturan di Paris
 
-Lagu pembuka《Face ID》ditulis di Paris. Xiao Ao kemudian dalam wawancara berkata: 'Paris memberiiku rasa tidak memaksakan, tidak memiliki aturan.'([^8] Kalimat itu memiliki dua makna: satu adalah makna geografis literal (jalan dan udara Paris memberikan ritme kreatif yang berbeda dari Taipei), satu lagi adalah 'membuat album ini membutuhkan rasa tidak teratur', karena tema album adalah hal-hal yang disembunyikan dan tidak bisa dikatakan, proses kreatif juga membutuhkan kehilangan rutinitas harian.
+_Hidden Album_ juga memiliki latar belakang pembuatan yang istimewa: Xiao Ao pergi ke Paris untuk menulis lagu selama beberapa waktu.
 
-《Hollywood Dream》ditulis pada kondisi tidur tidak adem selama 36 jam berturut-turut. Kondisi ekstrem itu malah membantu Xiao Ao menangkap suara 'warna kelelahan yang mengubah'.([^8]
+Pembuka album ini berjudul 〈Face ID〉, yang ditulis di Paris. Xiao Ao kemudian mengatakan dalam wawancara: "Paris memberi saya perasaan tanpa paksaan dan tanpa aturan." [^8] Kalimat ini memiliki dua makna: pertama secara geografis (jalan-jalan dan udara di Paris memberinya ritme kreatif yang berbeda dari Taipei), kedua adalah "perasaan tanpa aturan yang dibutuhkan untuk menulis album ini", karena tema albumnya adalah hal-hal yang disembunyikan dan tidak bisa diucapkan, sehingga proses kreatifnya sendiri membutuhkan pemisahan dari keteraturan sehari-hari.
 
-Tim kolaborasi《Hidden Album》mengukur skala terbesar untuk Ao dan Gunung: mixer audio Grammy British Jay Reynolds, insinyur audio Grammy Amerika Serikat Brian Elgin (berkolaborasi dengan Dua Lipa, Lana Del Rey), produser/rap/R&B muda Jepang ASOBOiSM, produser elektronik Prancis Odd People Club, serta **BRADD** (pemenang Golden Indie Music Awards kategori R&B tunggal) yang berkolaborasi sebagai produser. Sebuah album yang lahir dari ruangan di Taipei, dengan lima nama negara di belakangnya.
+Sementara 〈Hollywood Dream〉 ditulis saat ia mengalami insomnia selama 36 jam berturut-turut. Kondisi ekstrem ini justru memungkinkannya menangkap "tekstur suara yang lelah dan penuh pengalaman". [^8]
 
-Isan menggambarkan pola kolaborasi ini dengan jelas:
+Skala tim produksi _Hidden Album_ juga merupakan konfigurasi internasional terbesar Ao & Shan sejauh ini: mixer pemenang Grammy Inggris **Jay Reynolds** bertanggung jawab atas mixing, engineer pemenang Grammy Amerika **Brian Elgin** (pernah bekerja sama dengan Dua Lipa dan Lana Del Rey) bertanggung jawab atas mastering, produser hip-hop/R&B baru Jepang **ASOBOiSM** turut serta, produser elektronik Prancis **Odd People Club** terlibat dalam aransemen, dan kolaborasi produksi dengan **BRADD** dari Taiwan (pemenang kategori single R&B di Golden Indie Music Awards). Sebuah album yang berasal dari kamar di Taipei, namun membawa nama dari lima negara.
 
-> **✦** 'Mungkin ini adalah kebahagiaan era internet, meskipun produser di luar dunia yang jauh, orang asing seperti kami tetap bisa menulis surat dan bertanya?'[^10]
+Isan menjelaskan model kolaborasi ini dengan sangat jelas:
 
-Dari EP 2019 dengan rekaman campuran Japan AKNIT, hingga 2025 Hidden Album dengan kolaborator Grammy internasional, Ao dan Gunung menggunakan tujuh tahun untuk membuat **'kolaborasi orang asing era internet' menjadi hal yang optimal**. Dua pekerja teknologi yang menulis lagu di ruangan di Taipei, menghubungi insinyur audio Grammy di belahan bumi lain melalui email untuk menghubungi berkas kerja.
+> **✦** "Mungkin inilah kebahagiaan di era internet; meskipun produser kelas dunia berada di ujung dunia yang lain, orang asing seperti kami bisa mengirim surat dan bertanya?" [^10]
 
-### 《Hidden Album》adalah album tersembunyi di ponsel
+Dari mencari mixer AKNIT di Jepang untuk EP 2019, hingga mengundang kolaborator kelas Grammy Inggris-Amerika untuk _Hidden Album_ tahun 2025, Ao & Shan menggunakan waktu tujuh tahun untuk **membawa "kolaborasi antar orang asing di era internet" ke tingkat ekstrem**. Dua pekerja teknologi yang menulis lagu di kamar di Taipei, berkoordinasi dengan engineer Grammy di belahan bumi lain melalui email.
 
-Pada 4 Januari 2026, Ao dan Gunung menggelar konser《Hidden Album》berjudul sama.([^9]
+### _Hidden Album_ Adalah Album Tersembunyi di Ponsel
 
-Dari kemenangan Jin Shao versi a cappella pada tahun 2015, ini adalah tahun ke-11 grup mereka. Dari dua gadis di Klub Musik SMA, kombinasi grup lagu akustik tidak terhubung selama periode kuliah, pekerja teknologi, dua pekerja teknologi yang berubah menjadi grup lagu folktronica berdua pada musim dingin 2018, nominasi double Golden Indie Music Awards pada tahun 2022 untuk pemula, hingga album kedua dengan kolaborator Grammy pada tahun 2025—garis besar bukanlah kurva pertumbuhan biasa untuk grup musik independen.
+Pada 4 Januari 2026, Ao & Shan akan mengadakan konser bertajuk _Hidden Album_. [^9]
 
-Keunikan sebenaranya Ao dan Gunung adalah **mereka menggunakan sepuluh tahun untuk mengubah 'hal-hal yang tidak bisa dikatakan' menjadi 'suara yang bisa dikeluarkan untuk didengar'**—gaya musik dan kolaborasi internasional hanyalah produk turunan.
+Dihitung sejak kemenangan akustik mereka di Golden Melody Awards tahun 2015, ini adalah tahun kesebelas perjalanan mereka sebagai sebuah band. Dari dua gadis di klub musik SMA, grup folk akustik saat kuliah, pekerja teknologi, duet folktronica hasil _rebranding_ musim dingin 2018, pendatang baru dengan dua nominasi Golden Indie Music Awards 2022, hingga album kedua tahun 2025 yang melibatkan tim Grammy—jalur ini bukanlah kurva pertumbuhan band independen yang umum.
 
-Modern Problem menulis tentang kecemasan yang semua orang punya—perangkat komunikasi, 'sudah dibaca tapi tidak dibalas', kerusakan diri di media sosial. Kecemasan ini semua orang tahu mereka punya, hanya tidak nyaman mengakunya.
+Keunikan sejati Ao & Shan terletak pada **kemampuan mereka menggunakan sepuluh tahun untuk mengubah "hal-hal yang tidak bisa dikatakan" menjadi "suara yang bisa didengarkan"**. Gaya musik dan jaringan kolaborasi internasional hanyalah produk sampingan.
 
-Hidden Album menulis tentang hal yang lebih dalam—depresi, cinta terlarang, korban penipuan kripto, pengalaman tubuh perempuan. Ini bukan sekadar 'tidak nyaman mengakui', melainkan 'benar-benar tidak bisa dikatakan di kantor'.
+_Modern Problem_ menulis tentang kecemasan yang dialami semua orang—aplikasi pesan, pesan yang hanya dibaca, rasa kasihan pada diri sendiri di media sosial. Semua orang tahu mereka memilikinya, hanya saja malu untuk mengakuinya.
 
-Waktu istirahat seorang pekerja teknologi, duduk di depan synthesizer, membuat lagu dengan nuansa pesta tentang hal-hal yang tidak bisa dikatakan di hari kerja.
+_Hidden Album_ menulis tentang sesuatu yang lebih dalam—menyakiti diri sendiri, cinta terlarang, korban penipuan kripto, dan pengalaman tubuh perempuan. Ini bukan sekadar "malu untuk mengakuinya", melainkan hal-hal yang "sama sekali tidak bisa dibicarakan di kantor".
 
-Itulah Ao dan Gunung.
+Waktu pulang kerja seorang pekerja teknologi, duduk di depan synthesizer, mengubah hal-hal yang tidak bisa dikatakan di siang hari menjadi musik dengan nuansa lagu dansa.
+
+Itulah Ao & Shan.
 
 ---
 
-## Pembacaan Lanjutan
+## Bacaan Lanjutan
 
-- [Musik Independen Taiwan](/id/music/indie-music-scene) — Konteks historis ekosistem grup musik independen 2010-an-2020-an Taiwan dan jenis folktronica
-- [Musik Pop Taiwan](/id/music/golden-melodies-legacy-taiwan-pop-music) — Struktur industri musik berbahasa Tiongkok dan posisi grup musik independen di dalamnya
-- [Cicada](/id/people/cicada-band) — Grup musik independen lainnya yang mengambil jalur instrumentasi/non-mainstream, untuk membandingkan dua strategi 'tidak mengambil jalur idola'
-- [魏如萱](/id/people/waa-wei-singer) — Jalur lain untuk lintas antara mainstream dan independen, kreator perempuan
-- [Hello Nico](/id/people/hello-nico-band) — Kreator suara perempuan independen Taiwan pada 2010-an, meliputi garis suara Dream Pop yang menutupi ketakutan, 'kesulitan terbesar membuat musik adalah tidak bisa berteman dengan diri sendiri'
+- [Musik Independen Taiwan](/id/music/indie-music-scene) — Konteks sejarah ekosistem band independen Taiwan dan genre Folktronica pada era 2010-an hingga 2020-an.
+- [Musik Pop Taiwan](/id/music/golden-melodies-legacy-taiwan-pop-music) — Struktur industri musik pop Mandarin dan posisi band independen di dalamnya.
+- [Cicada](/id/people/cicada-band) — Band independen yang juga menempuh jalur instrumental / non-arus utama, sebagai perbandingan dua strategi kreatif "tanpa jalur idola".
+- [Wei Ru-xuan](/id/people/waa-wei-singer) — Jalur lain bagi kreator perempuan yang melintasi batas arus utama dan independen.
+- [Hello Nico](/id/people/hello-nico-band) — Sama-sama merupakan suara perempuan independen Taiwan era 2010-an, dengan vokal Dream Pop yang menyelimuti perasaan tertekan; "kesulitan terbesar dalam bermusik adalah berdamai dengan diri sendiri".
 
-## Daftar Pustaka
+## Referensi
 
-[^1]: [Blow 吹音樂 — Kolom khusus Ao dan Gunung](https://blow.streetvoice.com/t/%E5%87%B9%E8%88%87%E5%B1%B1-our-shame/) — Halaman kolom khusus Ao dan Gunung di Blow 吹音樂, media musik independen Taiwan di bawah StreetVoice, mencakup laporan karya terbaru mereka sejak 2018 rebranding, wawancara grup, dan informasi latar belakang anggota.
+[^1]: [Blow Music — Kolom Ao & Shan](https://blow.streetvoice.com/t/%E5%87%B9%E8%88%87%E5%B1%B1-our-shame/) — Halaman kolom Ao & Shan di Blow Music, media musik independen Taiwan di bawah StreetVoice, yang memuat laporan karya baru sejak _rebranding_ 2018 hingga sekarang, wawancara band, dan informasi latar belakang anggota.
 
-[^2]: [Marie Claire 2023 Wawancara khusus Ao dan Gunung](https://www.marieclaire.com.tw/entertainment/music/83586) — Wawancara mendalam Marie Claire 2023 tentang Ao dan Gunung, membahas tema kecemasan modern mereka, penempatan estetika folktronica, serta filosofi kreatif Isan tentang 'kolaborasi lintas negara era internet'.
+[^2]: [Wawancara Eksklusif Ao & Shan di Marie Claire 2023](https://www.marieclaire.com.tw/entertainment/music/83586) — Wawancara mendalam majalah Marie Claire tahun 2023 dengan Ao & Shan, membahas tema kesepian kontemporer, posisi estetika folktronica, dan filosofi kreatif Isan tentang "kolaborasi lintas negara di era internet".
 
-[^3]: [POLYSH 2022 Wawancara khusus Ao dan Gunung](https://thepolysh.com/blog/2022/11/30/our-shame-interview/) — Wawancara media musik Taiwan POLYSH tentang Ao dan Gunung setelah rilis《Modern Problem》, menjelaskan titik awal kemenangan Jin Shao, gangguan grup selama periode kuliah, keputusan rebranding pada musim dingin 2018, dan detail pembelian synthesizer.
+[^3]: [Wawancara Ao & Shan di POLYSH 2022](https://thepolysh.com/blog/2022/11/30/our-shame-interview/) — Wawancara media musik Taiwan POLYSH dengan Ao & Shan setelah rilis _Modern Problem_, merinci awal mula kemenangan Golden Melody Awards, terhentinya aktivitas band dari masa kuliah hingga lulus, keputusan _rebranding_ musim dingin 2018, dan detail pembelian synthesizer.
 
-[^4]: [StreetVoice Halaman khusus Ao dan Gunung〈Richard》informasi rilis](https://streetvoice.com/ourshame92/) — Halaman resmi StreetVoice, mencakup informasi single《Richard》yang dirilis pada 12 Desember 2018, termasuk latar belakang insiden Horizon Air Richard Russell, catatan kemenangan beberapa minggu, dan rekaman lebih dari seratus juta tayangan.
+[^4]: [Informasi Rilis Single 〈Richard〉 di Halaman Resmi Ao & Shan, StreetVoice](https://streetvoice.com/ourshame92/) — Halaman resmi StreetVoice yang memuat informasi single 〈Richard〉 yang dirilis Ao & Shan pada Desember 2018, termasuk penjelasan latar belakang kreatif insiden Horizon Air Richard Russell serta catatan rekor pemuncak tangga lagu selama beberapa minggu dan jutaan putar.
 
-[^5]: [Facebook resmi Ao dan Gunung《Semua Hal Baik Akan Terjadi》EP annonce](https://www.facebook.com/ourshame/) — Facebook resmi Ao dan Gunung pada Juni 2019 untuk rilis EP, mencatat latar belakang nama EP (mantra di malam Tahun Baru 2018 di toko konvensi tentang pasangan orang tua muda yang berdoa), serta rekaman campuran oleh produser peraih penghargaan asal Jepang AKNIT.
+[^5]: [Unggahan Facebook Resmi Ao & Shan tentang Rilis EP 《All Good Things Will Happen》](https://www.facebook.com/ourshame/) — Facebook resmi rilis EP Juni 2019, mencatat asal-usul nama EP (cerita mantra pasangan paruh baya di minimarket pada malam tahun baru 2018), mixing oleh produser pemenang penghargaan Jepang AKNIT, dan informasi di balik layar lainnya.
 
-[^6]: [Marie Claire 2022 Menguraikan album《Modern Problem》khusus](https://www.marieclaire.com.tw/entertainment/music/67560) — Marie Claire 2022 tentang album full-length pertama《Modern Problem》, mencakup analisis 12 lagu, tema kecemasan teknologi, desain visual, serta latar belakang kreatif Xiao Ao mengundurkan diri setelah teman dekat meninggal.
+[^6]: [Bedah Album 《Modern Problem》 Marie Claire 2022](https://www.marieclaire.com.tw/entertainment/music/67560) — Analisis mendalam majalah Marie Claire tahun 2022 terhadap album pertama _Modern Problem_, memuat interpretasi 12 lagu, analisis tema kecemasan teknologi, desain visual bawang, serta latar belakang kreatif Xiao Ao yang mengundurkan diri dari pekerjaan tetap setelah kematian sahabatnya.
 
-[^7]: [TNL Jaringan Kritis 2022 Daftar pemenang Golden Indie Music Awards lengkap](https://www.thenewslens.com/article/175925) — Laporan Golden Indie Music Awards 2022 oleh Jaringan Kritis, mencantumkan daftar lengkap kandidat Kategori Lagu Pop Alternatif Terbaik dan Petingan Pemula Terbaik, memverifikasi nominasi double Ao dan Gunung《Modern Problem》.
+[^7]: [Daftar Lengkap Pemenang Golden Indie Music Awards ke-13 di TNL Critical Review 2022](https://www.thenewslens.com/article/175925) — Laporan Golden Indie Music Awards 2022 oleh Critical Review, mencantumkan daftar lengkap nominasi Album Pop Alternatif Terbaik dan Pendatang Baru Terbaik, mengonfirmasi catatan dua nominasi Ao & Shan untuk _Modern Problem_.
 
-[^8]: [Turn! 2025 Wawancara khusus Ao dan Gunung](https://vocus.cc/article/68c6cfa5fd89780001106e97) — Wawancara mendalam media musik Turn! tentang Ao dan Gunung sebelum dan sesudah rilis《Hidden Album》, mencakup kutipan Xiao Ao tentang 'rasa pelibaran yang sendirian',《Face ID》'rasa tidak teratur' di Paris, serta《Hollywood Dream》tertulis pada kondisi tidur tidak adem 36 jam berturut-turut.
+[^8]: [Wawancara Eksklusif Ao & Shan di Turn! 2025](https://vocus.cc/article/68c6cfa5fd89780001106e97) — Wawancara mendalam media musik Turn! menjelang rilis _Hidden Album_, memuat kutipan lengkap Xiao Ao tentang "nuansa lagu dansa yang kesepian", "perasaan tanpa aturan" saat menulis 〈Face ID〉 di Paris, dan penulisan 〈Hollywood Dream〉 saat mengalami insomnia 36 jam.
 
-[^9]: [VERSE 2025 Ulasan album《Hidden Album》dari perspektif perempuan](https://www.verse.com.tw/article/our-shame-hidden-album) — Majalah budaya Taiwan VERSE 2025 tentang《Hidden Album》, menjelaskan tema 'tersembunyi', 'bahasa terlarang', 'kemalu-malu', penyemongan Chen Mei-hui, pengalaman tubuh perempuan, serta konser《Hidden Album》pada 4 Januari 2026.
+[^9]: [Ulasan Album Perspektif Perempuan 《Hidden Album》 oleh VERSE 2025](https://www.verse.com.tw/article/our-shame-hidden-album) — Ulasan mendalam majalah budaya Taiwan VERSE tahun 2025 terhadap _Hidden Album_, merinci tema "tersembunyi, tabu, malu", penghormatan 〈Miffy〉 kepada Chen Mei-hui, pengalaman tubuh perempuan, dan konser bertajuk sama pada 04-01-2026.
 
-[^10]: [blink.tw 2025 Wawancara khusus Ao dan Gunung](https://blink.tw/people/ourshame/) — Platform musik independen blink.tw 2025 tentang Ao dan Gunung, mencakup filosofi kolaborasi Isan 'orang asing masih bisa menulis surat dan bertanya', serta pernyataan publik Ao dan Gunung tentang 'membawa isu kesulitan untuk dikatakan sebagai kreator perempuan'.
+[^10]: [Wawancara Ao & Shan di blink.tw 2025](https://blink.tw/people/ourshame/) — Wawancara platform musik independen blink.tw tahun 2025 dengan Ao & Shan, memuat filosofi kolaborasi lintas negara Isan "orang asing pun bisa mengirim surat dan bertanya" serta pernyataan terbuka Ao & Shan tentang "kreator perempuan membawa isu-isu sulit ke permukaan".

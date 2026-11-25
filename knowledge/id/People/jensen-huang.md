@@ -1,6 +1,6 @@
 ---
 title: 'Jensen Huang'
-description: 'Dari sekolah berasrama di Kentucky hingga imperium senilai lima triliun dolar—bagaimana seorang anak laki-laki dari Tainan yang bertugas membersihkan toilet mempertaruhkan segalanya untuk masa depan yang baru terbukti sepuluh tahun kemudian.'
+description: 'Lahir di Tainan, pendiri NVIDIA. Pada usia sembilan tahun, ia dikirim ke sekolah asrama di Kentucky, di mana ia harus membersihkan toilet asrama putra setiap hari. Ia melakukan kesepakatan dengan teman sekamarnya yang berusia tujuh belas tahun—seorang pemuda bertato dan penuh bekas luka—untuk saling mengajarkan membaca sebagai imbalan atas latihan angkat beban. NVIDIA yang didirikannya mencapai nilai pasar lebih dari lima triliun dolar AS pada 29 Oktober 2025, menjadikannya perusahaan pertama dalam sejarah manusia dengan valuasi lima triliun dolar AS; taruhan krusialnya bukanlah GPU, melainkan CUDA pada tahun 2006 yang dianggap gila oleh semua orang, sebuah keputusan yang nilainya baru terbukti sepuluh tahun kemudian melalui revolusi AI.'
 date: 2026-03-25
 category: 'People'
 tags:
@@ -24,10 +24,10 @@ image: '/article-images/technology/computex-jensen-huang-2016.webp'
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/黃仁勳.md'
-sourceCommitSha: 'b1a5fea00'
+sourceCommitSha: '00dc1f6e04'
 sourceContentHash: 'sha256:28ebca4abc1527e4'
 sourceBodyHash: 'sha256:2ae685b1d23ee474'
-translatedAt: '2026-11-18T00:50:54+08:00'
+translatedAt: '2026-11-25T03:38:09.546370+00:00'
 ---
 
 # Jensen Huang (黃仁勳)

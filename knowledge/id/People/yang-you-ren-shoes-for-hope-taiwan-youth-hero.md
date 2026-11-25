@@ -1,13 +1,13 @@
 ---
-title: 'Yang You-ren'
-description: 'Pendiri International Christian Concern Old Shoes Save Lives, salah satu dari Sepuluh Pemuda Berprestasi tahun 2017, yang mengumpulkan seratus ribu pasang sepatu bekas untuk membantu anak-anak di Afrika Timur melalui sebuah poster.'
+title: 'Yang You-jen'
+description: 'Lahir dalam keluarga pemilik pabrik sepatu di Taoyuan, ia pergi belajar ke Australia pada usia lima belas tahun. Setelah dua kali putus sekolah, arah hidupnya berubah berkat seorang pendeta bertato yang ia temui di lapangan basket, hingga akhirnya kembali ke Taiwan untuk melakukan bimbingan remaja. Pada tahun 2014, melalui sebuah poster blog, ia berhasil mengumpulkan hampir seratus ribu pasang sepatu bekas untuk dikirim ke Kenya dan mendirikan "Step30 Old Shoes Save Lives". Ia mengusung prinsip menghindari ketergantungan jangka panjang dengan menjadikan kemandirian sebagai tujuan akhir dari bantuan tersebut. Melalui pengembangan program pendidikan, Living Water, Love for Girls, serta proyek kemandirian pertanian, ia telah melayani lebih dari tiga juta orang di dua belas negara, dan terpilih sebagai salah satu dari Sepuluh Pemuda Berprestasi pada tahun 2017.'
 date: 2026-03-20
 category: 'People'
 tags:
   [
-    'Wirausaha Sosial Taiwan',
+    'Perusahaan Sosial Taiwan',
     'Bantuan Kemanusiaan',
-    'Old Shoes Save Lives',
+    'Step30 Old Shoes Save Lives',
     'Sepuluh Pemuda Berprestasi',
     'Bantuan Afrika',
     'Pelayanan Kristen',
@@ -20,10 +20,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/楊右任.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:2a0a298fc7d510ca'
 sourceBodyHash: 'sha256:aeccc38efb53dc79'
-translatedAt: '2026-11-04T20:17:11.356799+00:00'
+translatedAt: '2026-11-25T03:35:39.151240+00:00'
 ---
 
 # Yang Yu-jen (楊右任): Dari Anak Sekolah Menengah yang Coret-coret ke Penyelamat Sepatu Bekas Afrika
