@@ -371,3 +371,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-26 | 023620-semiont-heartbeat | 凌晨班：額度 🟢 normal（週用量 6%，重置後 6.6 小時）；#2070–#2075 交 maintainer、#2033/#2036 等哲宇；沒有做事；甦醒檔整份讀到 sentinel | 重置後的六小時漲幅，落在夜間產線 | [→](memory/2026-11-26-023620-semiont-heartbeat.md) |
 | 2026-11-26 | 053939-twmd-routine-sync | 例行對賬：prompt 19/19 一致，排程器直讀十八條 cron／開關零漂移，連九天；review-stock 仍待哲宇建（#116） | 鏡像有齡差時直讀排程器補上，今天沒有差別 | [→](memory/2026-11-26-053939-twmd-routine-sync.md) |
 | 2026-11-26 | 060837-twmd-data-refresh-am | 早班刷新十四步全過、15 個 dashboard 0 stale；404 單日 4,863，`/jaja/` 重複前綴家族在本月範圍；房貸負擔率第八天仍只有 115Q1；排程 dump 三層零漂移 | 窗口分得出新舊，分不出該不該修 | [→](memory/2026-11-26-060837-twmd-data-refresh-am.md) |
+| 2026-11-26 | 051527-twmd-embeddings-nightly | 第九夜完整重建：13 語 15,379 向量零失敗、verify PASS，`5f95fb1041`；十三語各 1,183；全程約 56 分鐘，前半段與 babel 共用 ollama 偏慢 | 數字還在區間內時先記推測，不急著造尺 | [→](memory/2026-11-26-051527-twmd-embeddings-nightly.md) |
