@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-25T16:46:18+08:00",
-    "zhCommitHead": "79d0f61cbe",
+    "lastUpdated": "2026-11-25T17:40:47+08:00",
+    "zhCommitHead": "a8e78df142",
     "totalZh": 1194,
     "activeLanguages": [
       "en",
@@ -36,9 +36,9 @@
       },
       "ko": {
         "total_zh": 1194,
-        "fresh": 1184,
+        "fresh": 1185,
         "stale": 5,
-        "metadata_stale": 5,
+        "metadata_stale": 4,
         "missing": 0,
         "orphan": 0
       },
@@ -52,9 +52,9 @@
       },
       "fr": {
         "total_zh": 1194,
-        "fresh": 1181,
+        "fresh": 1185,
         "stale": 5,
-        "metadata_stale": 8,
+        "metadata_stale": 4,
         "missing": 0,
         "orphan": 0
       },
@@ -84,9 +84,9 @@
       },
       "hi": {
         "total_zh": 1194,
-        "fresh": 1176,
+        "fresh": 1177,
         "stale": 13,
-        "metadata_stale": 5,
+        "metadata_stale": 4,
         "missing": 0,
         "orphan": 0
       },
@@ -100,17 +100,17 @@
       },
       "ru": {
         "total_zh": 1194,
-        "fresh": 1187,
+        "fresh": 1188,
         "stale": 3,
-        "metadata_stale": 4,
+        "metadata_stale": 3,
         "missing": 0,
         "orphan": 0
       },
       "de": {
         "total_zh": 1194,
-        "fresh": 1146,
+        "fresh": 1147,
         "stale": 26,
-        "metadata_stale": 22,
+        "metadata_stale": 21,
         "missing": 0,
         "orphan": 0
       }
@@ -106202,8 +106202,8 @@
           "sourceContentHash": "sha256:ff949a14cc54475a",
           "sourceBodyHash": "sha256:99fcaed64626278d",
           "translatedAt": "2026-11-25T07:14:20.515784+00:00",
-          "translationLastCommit": "2077c41c",
-          "translationLastModified": "2026-11-19T01:18:05+08:00",
+          "translationLastCommit": "a8e78df1",
+          "translationLastModified": "2026-11-25T16:46:18+08:00",
           "inferred": false,
           "footnoteDefs": 37,
           "bytes": 67576,
@@ -108362,20 +108362,18 @@
         "fr": {
           "path": "fr/People/chen-ssu-hung-writer.md",
           "translatedFrom": "People/陳思宏.md",
-          "sourceCommitSha": "8730173b1",
+          "sourceCommitSha": "eaf22e5cf8",
           "sourceContentHash": "sha256:614611394f0bdd05",
           "sourceBodyHash": "sha256:aa5e5b4b6a3ee873",
-          "translatedAt": "2026-09-10T23:37:21+08:00",
+          "translatedAt": "2026-11-25T09:15:51.586005+00:00",
           "translationLastCommit": "826e211c",
           "translationLastModified": "2026-09-11T02:51:26+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "bytes": 27422,
+          "bytes": 28100,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/chen-ssu-hung-writer.md",
@@ -108460,38 +108458,34 @@
         "ru": {
           "path": "ru/People/chen-ssu-hung-writer.md",
           "translatedFrom": "People/陳思宏.md",
-          "sourceCommitSha": "8730173b1",
+          "sourceCommitSha": "eaf22e5cf8",
           "sourceContentHash": "sha256:614611394f0bdd05",
           "sourceBodyHash": "sha256:aa5e5b4b6a3ee873",
-          "translatedAt": "2026-09-09T19:34:19+08:00",
+          "translatedAt": "2026-11-25T09:17:35.073889+00:00",
           "translationLastCommit": "83398148",
           "translationLastModified": "2026-09-10T05:53:44+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "bytes": 38235,
+          "bytes": 39330,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/People/chen-ssu-hung-writer.md",
           "translatedFrom": "People/陳思宏.md",
-          "sourceCommitSha": "8730173b1",
+          "sourceCommitSha": "eaf22e5cf8",
           "sourceContentHash": "sha256:614611394f0bdd05",
           "sourceBodyHash": "sha256:aa5e5b4b6a3ee873",
-          "translatedAt": "2026-09-13T00:44:08+08:00",
+          "translatedAt": "2026-11-25T09:14:51.595217+00:00",
           "translationLastCommit": "77172bdf",
           "translationLastModified": "2026-10-10T23:15:27+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "bytes": 23997,
+          "bytes": 24660,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -124366,20 +124360,18 @@
         "fr": {
           "path": "fr/People/ethan-tu.md",
           "translatedFrom": "People/杜奕瑾.md",
-          "sourceCommitSha": "b1a5fea00",
+          "sourceCommitSha": "20dcddf339",
           "sourceContentHash": "sha256:61081ca7c646947e",
           "sourceBodyHash": "sha256:f186e67ce03f9679",
-          "translatedAt": "2026-11-18T15:46:36.330122+00:00",
+          "translatedAt": "2026-11-25T09:40:20.054673+00:00",
           "translationLastCommit": "a05cc887",
           "translationLastModified": "2026-11-19T00:25:12+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 17583,
+          "bytes": 18185,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/ethan-tu.md",
@@ -155954,20 +155946,18 @@
         "fr": {
           "path": "fr/People/wang-shaudi.md",
           "translatedFrom": "People/王小棣.md",
-          "sourceCommitSha": "3638ec15",
+          "sourceCommitSha": "20dcddf339",
           "sourceContentHash": "sha256:50eb815f9c92fea3",
           "sourceBodyHash": "sha256:1ab1bdb7f132ff60",
-          "translatedAt": "2026-05-13T01:08:41Z",
+          "translatedAt": "2026-11-25T09:21:43.912887+00:00",
           "translationLastCommit": "ca2ceca5",
           "translationLastModified": "2026-10-10T23:40:35+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 17825,
+          "bytes": 18572,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/wang-shaudi.md",
@@ -156734,20 +156724,18 @@
         "ko": {
           "path": "ko/People/lee-yang-badminton.md",
           "translatedFrom": "People/李洋.md",
-          "sourceCommitSha": "fef3e119",
+          "sourceCommitSha": "1a696c19ef",
           "sourceContentHash": "sha256:96f1d5630278a964",
           "sourceBodyHash": "sha256:57937e9b25b2f462",
-          "translatedAt": "2026-06-07T02:26:08+08:00",
+          "translatedAt": "2026-11-25T08:47:04.847513+00:00",
           "translationLastCommit": "3e8c2988",
           "translationLastModified": "2026-10-10T23:27:23+08:00",
           "inferred": false,
           "footnoteDefs": 30,
-          "bytes": 46448,
+          "bytes": 52505,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/lee-yang-badminton.md",
@@ -156770,20 +156758,18 @@
         "fr": {
           "path": "fr/People/lee-yang-badminton.md",
           "translatedFrom": "People/李洋.md",
-          "sourceCommitSha": "fef3e119",
+          "sourceCommitSha": "1a696c19ef",
           "sourceContentHash": "sha256:96f1d5630278a964",
           "sourceBodyHash": "sha256:57937e9b25b2f462",
-          "translatedAt": "2026-05-01T22:19:06+08:00",
+          "translatedAt": "2026-11-25T08:48:00.896405+00:00",
           "translationLastCommit": "15a71af5",
           "translationLastModified": "2026-10-10T23:26:29+08:00",
           "inferred": false,
           "footnoteDefs": 30,
-          "bytes": 54529,
+          "bytes": 56103,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/lee-yang-badminton.md",
@@ -156838,20 +156824,18 @@
         "hi": {
           "path": "hi/People/lee-yang-badminton.md",
           "translatedFrom": "People/李洋.md",
-          "sourceCommitSha": "fef3e1199",
+          "sourceCommitSha": "1a696c19ef",
           "sourceContentHash": "sha256:96f1d5630278a964",
           "sourceBodyHash": "sha256:57937e9b25b2f462",
-          "translatedAt": "2026-09-26T23:27:08+08:00",
+          "translatedAt": "2026-11-25T09:16:46.674051+00:00",
           "translationLastCommit": "2d9f34d4",
           "translationLastModified": "2026-09-27T00:31:41+08:00",
           "inferred": false,
           "footnoteDefs": 30,
-          "bytes": 105237,
+          "bytes": 103569,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/lee-yang-badminton.md",
