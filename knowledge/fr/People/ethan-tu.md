@@ -1,11 +1,11 @@
 ---
-title: 'Du Yi-Jin'
-description: "Un ordinateur 486 pour bâtir le plus grand forum de Taïwan, une carrière chez Microsoft pour lancer Cortana, puis l'abandon d'un salaire confortable pour rentrer au pays et créer un laboratoire d'IA à but non lucratif — trente ans d'histoire numérique avec le fondateur légendaire de PTT"
+title: 'Du Yi-chin'
+description: "L'ingénieur qui a installé PTT (un forum emblématique de Taïwan) sur un ordinateur 486 dans son dortoir de l'Université Nationale de Taïwan, permettant à ce forum textuel de survivre à la bulle Internet et à la concurrence des réseaux sociaux, restant trente ans plus tard au cœur du débat public taïwanais. Après avoir effectué des recherches génétiques aux Instituts nationaux de la santé aux États-Unis, il a ensuite dirigé le lancement de l'assistant vocal multiplateforme Cortana chez Microsoft. En 2017, il a renoncé à son salaire élevé à Seattle pour revenir à Taïwan et fonder Taiwan AI Labs, le premier institut de recherche non lucratif sur l'IA ouverte en Asie, se consacrant à l'imagerie médicale, à la reconnaissance vocale et à la défense contre les guerres cognitives, tout en promouvant des modèles de langage open source en chinois traditionnel."
 date: 2026-03-30
 category: 'People'
 tags:
   [
-    'Du Yi-Jin',
+    'Du Yi-chin',
     'PTT',
     'Taiwan AI Labs',
     'démocratie numérique',
@@ -20,10 +20,10 @@ readingTime: 9
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/杜奕瑾.md'
-sourceCommitSha: 'b1a5fea00'
+sourceCommitSha: '20dcddf339'
 sourceContentHash: 'sha256:61081ca7c646947e'
 sourceBodyHash: 'sha256:f186e67ce03f9679'
-translatedAt: '2026-11-18T15:46:36.330122+00:00'
+translatedAt: '2026-11-25T09:40:20.054673+00:00'
 ---
 
 # Du Yi-Jin

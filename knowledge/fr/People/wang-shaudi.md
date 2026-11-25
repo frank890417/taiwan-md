@@ -1,14 +1,14 @@
 ---
-title: 'Wang Hsiao-ti : Flower Boy at Sixty et la douce révolution de la télévision taïwanaise'
-description: 'Fils de général devenu adolescent rebelle, puis marraine de la télévision taïwanaise — Wang Hsiao-ti a prouvé en quarante ans que tourner une série peut être une forme de militantisme social.'
+title: 'Wang Xiao-di : le sexagénaire et la douce révolution de la télévision taïwanaise'
+description: "Réalisatrice de séries télévisées taïwanaises, son père est le général Wang Sheng, figure centrale du système de renseignement pendant la période de la loi martiale, mais elle a consacré sa vie à filmer les gens ordinaires. Avec « L'Épouvantail », elle a remporté le prix du meilleur scénario original aux Golden Horse Awards. À partir de la fin des années 1980, elle réalise pour CTS des drames familiaux tels que « Portrait de famille » et « La Mère poule et ses canetons ». En 1992, elle fonde le studio de cinéma Tian Tian et crée pour la PTS des séries médicales comme « Le Grand Hôpital, le petit médecin ». En 2014, elle reçoit le Prix national des arts. En 2016, elle lance le projet Qseries pour former de nouveaux acteurs et diversifier les genres, et en 2022, elle lance à nouveau le projet Zhuo Theater. Elle est respectueusement appelée « Professeur Xiao-di » par les générations suivantes."
 date: 2026-03-28
 category: 'People'
 tags:
   [
-    'réalisatrice',
-    'télévision',
-    'cinéma',
-    'Phuitheater',
+    'Réalisateur',
+    'Télévision',
+    'Cinéma',
+    'Qseries',
     'PTS',
     'Golden Bell Awards',
     'LGBTQ+',
@@ -17,12 +17,12 @@ subcategory: '藝術與文化人物'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-28
+lastHumanReview: true
 translatedFrom: 'People/王小棣.md'
-sourceCommitSha: '3638ec15'
+sourceCommitSha: '20dcddf339'
 sourceContentHash: 'sha256:50eb815f9c92fea3'
 sourceBodyHash: 'sha256:1ab1bdb7f132ff60'
-translatedAt: '2026-05-13T01:08:41Z'
-lastHumanReview: true
+translatedAt: '2026-11-25T09:21:43.912887+00:00'
 ---
 
 > **En 30 secondes :** Wang Hsiao-ti est l'une des réalisatrices de télévision les plus importantes de Taïwan. En quatre décennies, elle a formé toute une génération d'acteurs et de scénaristes. Son père, le général Wang Sheng, était l'un des piliers du régime de la loi martiale — et pourtant, elle a choisi de donner une voix aux gens ordinaires. Des années 1980 avec _Toute la famille_ jusqu'à la plateforme expérimentale _Phui Theater_ en 2016, son objectif est constant : filmer la dignité des gens du bas de l'échelle et faire de la télévision un acte militant. Prix national des Arts en 2014.

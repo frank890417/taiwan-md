@@ -1,16 +1,16 @@
 ---
-title: "Chen Sî-hông : De Yongjing à Berlin, l'écrivain rattrapé par son pays natal"
-description: "Il a passé plus de vingt ans à fuir Yongjing dans le Xian de Changhua, mais c'est depuis Berlin et la distance mondiale qu'il a écrit sur sa famille, le genre, le corps et ces racines qui refusent de disparaître."
+title: 'Chen Si-hong : de Yongjing à Berlin, un écrivain sans cesse rattrapé par sa terre natale'
+description: "Né en 1976 dans une famille paysanne de Yongjing, dans le comté de Changhua, il est le neuvième enfant, avec sept sœurs et un frère aînés. Diplômé du département d'anglais de l'Université Fu Jen et de l'Institut d'art dramatique de l'Université nationale de Taïwan, il part pour Berlin en 2004 en tant que correspondant spécial d'une chaîne de télévision, y emmenant son écriture, sa traduction et sa performance au fil des années européennes. Son roman « Lieu hanté » (Ghost Place), publié en 2019 et ancré dans le paysage de Yongjing, a reçu le Taiwan Literature Golden Classic Award et le Golden Tripod Award ; sa traduction anglaise a été sélectionnée dans la liste automnale du New York Times et ses droits ont été vendus en douze langues. Tout en fuyant sa terre natale, il y inscrit Yongjing, la famille, le genre et le corps dans ses romans."
 date: 2026-09-03
 category: 'People'
 tags:
   [
-    'Chen Sî-hông',
+    'Chen Si-hong',
     'Littérature taïwanaise',
     'Yongjing',
     'Berlin',
-    'Littérature queer',
-    'Ville fantôme',
+    'Littérature LGBT',
+    'Lieu hanté',
   ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
@@ -20,10 +20,10 @@ lastHumanReview: false
 readingTime: 9
 curation: 'incubating'
 translatedFrom: 'People/陳思宏.md'
-sourceCommitSha: '8730173b1'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:614611394f0bdd05'
 sourceBodyHash: 'sha256:aa5e5b4b6a3ee873'
-translatedAt: '2026-09-10T23:37:21+08:00'
+translatedAt: '2026-11-25T09:15:51.586005+00:00'
 ---
 
 ![Carte de localisation du canton de Yongjing, Xian de Changhua, Wikimedia Commons, auteur Essolo, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/d/d9/Tw_yj_map.png)
