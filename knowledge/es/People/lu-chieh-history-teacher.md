@@ -1,18 +1,18 @@
 ---
-title: 'Lü Jie: De una pregunta sobre el 28 de Febrero evitada a 28 lecciones de historia de Taiwán'
-description: 'De la entrevista en una tienda de mariscos al estrado de la educación complementaria, Lü Jie impulsa el currículo oficial mediante historias, pero exige a los estudiantes volver a las fuentes, los hechos y las perspectivas históricas.'
+title: 'Lu Jie: De una pregunta evitada sobre el 228 a las Veintiocho Aulas de la Historia de Taiwán'
+description: 'Un famoso profesor de academias que quería estudiar derecho, pero terminó en el departamento de historia por un error al elegir su especialidad. Su trayectoria pasó de los podios de las academias al ojo público gracias a un video de sus clases; él sostiene que la historia no es solo memorización, sino la distinción entre tres niveles: fuentes, hechos y perspectiva histórica. En 2026 lanzará un curso de historia de Taiwán estructurado en veintiocho escenarios históricos, integrando libertad, democracia, cultura, identidad y posición internacional en un mismo mapa. Afirma que la historia no trata de enseñarte sobre el pasado, sino de conocer la naturaleza humana; las historias pueden ser cautivadoras, pero deben dejar una vía abierta para la verificación.'
 date: 2026-08-14
 category: 'People'
-subcategory: '教育與社會'
 tags:
   [
-    'Figuras',
-    'Lü Jie',
+    'Personajes',
+    'Lu Jie',
     'Educación histórica',
-    'Cultura de la educación complementaria',
+    'Cultura de las academias',
     'Historia de Taiwán',
-    'Medios',
+    'Medios de comunicación',
   ]
+subcategory: '教育與社會'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-14
@@ -20,10 +20,10 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/呂捷.md'
-sourceCommitSha: '4a95859b1'
-sourceContentHash: 'sha256:67c5ad771d308cd6'
+sourceCommitSha: '45b1bf37e0'
+sourceContentHash: 'sha256:8682de0c2d43ca25'
 sourceBodyHash: 'sha256:6ab4993ddc7e3736'
-translatedAt: '2026-09-12T02:03:30+08:00'
+translatedAt: '2026-11-25T06:38:37.408382+00:00'
 ---
 
 # Lü Jie: De una pregunta sobre el 28 de Febrero evitada a 28 lecciones de historia de Taiwán
@@ -158,30 +158,30 @@ La pregunta evitada en ese aula de secundaria no obtuvo aquí una respuesta comp
 
 ## Referencias
 
-[^1]: [StoryStudio / Apple Podcasts: «¿Quién dice que la historia de Taiwán solo puede ser trágica? Observación en primera línea de 20 años en el campo de batalla del profesor famoso de la educación complementaria ft. Lü Jie»](https://podcasts.apple.com/tw/podcast/%E8%AA%B0%E8%AA%AA%E8%87%BA%E7%81%A3%E5%8F%B2%E5%8F%AA%E8%83%BD%E6%82%B2%E6%83%85-%E6%AD%B7%E5%8F%B2%E8%A3%9C%E6%95%99%E5%90%8D%E5%B8%AB%E7%B8%B1%E6%A9%AB%E6%B2%99%E5%A0%B4-20-%E5%B9%B4%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%8B%E7%8F%BE%E5%A0%B4%E8%A7%80%E5%AF%9F-ft-%E5%91%82%E6%8D%B7/id1593373742?i=1000778009947) — Presentación del programa publicada en julio de 2026, que registra el recuerdo de Lü Jie sobre la pregunta del 28 de Febrero en la secundaria y su dirección para repensar la enseñanza de la historia de Taiwán.
+[^1]: [StoryStudio／Apple Podcasts: 〈¿Quién dice que la historia de Taiwán solo puede ser trágica? Observaciones directas de un profesor estrella de historia tras 20 años en el campo ft. Lü Jie〉](https://podcasts.apple.com/tw/podcast/%E8%AA%B0%E8%AA%AA%E8%87%BA%E7%81%A3%E5%8F%B2%E5%8F%AA%E8%83%BD%E6%82%B2%E6%83%85-%E6%AD%B7%E5%8F%B2%E8%A3%9C%E6%95%99%E5%90%8D%E5%B8%AB%E7%B8%B1%E6%A9%AB%E6%B2%99%E5%A0%B4-20-%E5%B9%B4%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%8B%E7%8F%BE%E5%A0%B4%E8%A7%80%E5%AF%9F-ft-%E5%91%82%E6%8D%B7/id1593373742?i=1000778009947) — Introducción del programa publicada en julio de 2026, que registra los recuerdos de Lü Jie sobre las preguntas planteadas durante el incidente del 228 en la secundaria y su nueva dirección al repensar la enseñanza de la historia de Taiwán.
 
-[^2]: [Future Parent-Child World: «Pero la naturaleza humana no cambia. El profesor famoso Lü Jie: «Lo más importante de estudiar historia no es el examen de admisión universitaria»»](https://futureparenting.cwgv.com.tw/family/content/index/22429) — Recoge la narrativa directa de Lü Jie sobre llenar mal la voluntad del departamento de Historia, el uso de la educación histórica y el giro de su vida, y extrae contenido de sus obras.
+[^2]: [Wei Lai Qin Zi: 〈Pero la naturaleza humana no cambia. El profesor estrella Lü Jie: "Lo más importante de estudiar historia no es aprobar los exámenes"〉](https://futureparenting.cwgv.com.tw/family/content/index/22429) — Recopila el relato directo de Lü Jie sobre haber elegido erróneamente el departamento de historia como su primera opción, el propósito de la educación histórica y sus giros vitales, además de extractos de sus obras.
 
-[^3]: [Future Parent-Child World: «Pero la naturaleza humana no cambia. El profesor famoso Lü Jie: «Lo más importante de estudiar historia no es el examen de admisión universitaria»»](https://futureparenting.cwgv.com.tw/family/content/index/22429) — La biografía del autor al final de la página enumera su formación en el departamento de Historia y el posgrado de la Universidad Chung Cheng, así como su experiencia como presentador de _Lü Lee Taiwan_, lo cual puede cotejarse con su identidad como educador histórico.
+[^3]: [Wei Lai Qin Zi: 〈Pero la naturaleza humana no cambia. El profesor estrella Lü Jie: "Lo más importante de estudiar historia no es aprobar los exámenes"〉](https://futureparenting.cwgv.com.tw/family/content/index/22429) — La breve biografía del autor al final del artículo enumera su formación en el Departamento de Historia y el Instituto de Investigación Histórica de la Universidad Chung Cheng, así como su experiencia como presentador de 《Lü Du Taiwán》, lo que permite contrastar su identidad como educador histórico.
 
-[^4]: [Future Parent-Child World: «Pero la naturaleza humana no cambia. El profesor famoso Lü Jie: «Lo más importante de estudiar historia no es el examen de admisión universitaria»»](https://futureparenting.cwgv.com.tw/family/content/index/22429) — Publica directamente el párrafo original sobre «fuentes, hechos y perspectivas», adecuado para analizar su postura sobre la comprensión histórica y la formación de posturas.
+[^4]: [Wei Lai Qin Zi: 〈Pero la naturaleza humana no cambia. El profesor estrella Lü Jie: "Lo más importante de estudiar historia no es aprobar los exámenes"〉](https://futureparenting.cwgv.com.tw/family/content/index/22429) — Publica directamente el párrafo original sobre "fuentes históricas, hechos históricos y perspectiva histórica", útil para analizar su enfoque sobre la comprensión de la historia y la formación de puntos de vista.
 
-[^5]: [National Quemoy University: _Lü Jie's Talk: "Understanding History as Society Progresses"_](https://ecasc.nqu.edu.tw/p/405-1017-11381,c1579.php?Lang=en) — Página de actividades en inglés de la Universidad Nacional Kinmen, que explica la viralización del video de su enseñanza en una academia de educación complementaria en Kaohsiung en 2014 y su posicionamiento como conferenciante que entiende la sociedad a través de la historia.
+[^5]: [National Quemoy University: _Lü Jie's Talk: "Understanding History as Society Progresses"_](https://ecasc.nqu.edu.tw/p/405-1017-11381,c1579.php?Lang=en) — Página de eventos en inglés de la Universidad Nacional de Kinmen, que explica cómo el video de una clase en una academia de Kaohsiung se volvió viral en 2014 y su posicionamiento como un conferenciante que utiliza la historia para comprender la sociedad.
 
-[^6]: [Bibliomania: _Lo que Ge no enseña no es historia, es naturaleza humana_](https://www.books.com.tw/products/0010693183) — Ficha bibliográfica y descripción del contenido de la obra publicada en 2015, que enumera la frase original propuesta por el autor: «La historia no te enseña a conocer la historia, sino a conocer la naturaleza humana».
+[^6]: [Books.com.tw: 《Lo que el hermano enseña no es historia, sino naturaleza humana》](https://www.books.com.tw/products/0010693183) — Bibliografía e introducción del contenido de la publicación de 2015, que enumera frases originales del autor como "la historia no te enseña a conocer la historia, sino a conocer la naturaleza humana".
 
-[^7]: [TVBS News: «El profesor famoso de la academia de educación complementaria Lü Jie toma el mando de la presentación de _Battle de los Estados de los Lü_»](https://news.cts.com.tw/cts/general/202309/202309132227322.html) — Lanzamiento del programa en el canal de noticias y información de TVBS, que explica la hora de inicio del programa, el diseño transgeneracional y transdisciplinario, y la afirmación de Lü Jie sobre el debate.
+[^7]: [CTS News: 〈El profesor estrella Lü Jie toma el mando de 《Lü's Warring States BATTLE》 como presentador〉](https://news.cts.com.tw/cts/general/202309/202309132227322.html) — Anuncio del programa en el canal de noticias de CTS, que detalla la fecha de estreno, el diseño intergeneracional y multidisciplinar, así como las declaraciones de Lü Jie sobre el debate.
 
-[^8]: [Knowledge Satellite: _Las 28 lecciones de historia de Taiwán de Lü Jie_](https://sat.cool/course/199) — Página de lanzamiento del curso, que registra las 28 unidades, las 10 horas y el diseño del curso que conecta la libertad, la democracia, la cultura, la identidad y la posición internacional de Taiwán a través de escenarios históricos.
+[^8]: [Knowledge Satellite: 〈Las 28 lecciones de historia de Taiwán de Lü Jie〉](https://sat.cool/course/199) — Página de lanzamiento del curso, que registra un diseño de 28 unidades y 10 horas, conectando los escenarios históricos con la libertad, la democracia, la cultura, la identidad y la posición internacional de Taiwán.
 
-[^9]: [Bibliomania: _Lo que Ge no enseña no es historia, es naturaleza humana_](https://www.books.com.tw/products/0010693183) — Los datos bibliográficos indican el ISBN, 208 páginas y la fecha de publicación del 29 de octubre de 2015; solo para el uso de cotejo del punto de publicación y el contenido de la obra.
+[^9]: [Books.com.tw: 《Lo que el hermano enseña no es historia, sino naturaleza humana》](https://www.books.com.tw/products/0010693183) — Datos bibliográficos que indican el ISBN, 208 páginas y la fecha de publicación del 29 de octubre de 2015; para uso exclusivo de contraste con los hitos de publicación y el contenido de la obra.
 
-[^10]: [GQ: «Lü Jie: Enfrentar a tu verdadero yo es el comienzo de摆脱 ser un perdedo (luso)»](https://www.businesstoday.com.tw/article/category/80407/post/201512170102/) — Resumen del libro y recopilación de la entrevista de 2015, que registra el reexamen, el llenado mal del formulario de voluntades que lo llevó al departamento de Historia, el punto de partida de su trabajo en la academia de educación complementaria y la narrativa de su bajo momento personal.
+[^10]: [Next Magazine: 〈Lü Jie: ¡Enfrentarse a uno mismo de verdad es el comienzo para dejar de ser un perdedor!〉](https://www.businesstoday.com.tw/article/category/80407/post/201512170102/) — Resumen de extractos y entrevistas de 2015, que registra su narrativa sobre volver a tomar exámenes, entrar al departamento de historia tras una elección errónea, el inicio de su trabajo en la enseñanza privada y sus momentos personales difíciles.
 
-[^11]: [StoryStudio: «¿Quién dice que la historia de Taiwán solo puede ser trágica? Observación en primera línea de 20 años en el campo de batalla del profesor famoso de la educación complementaria ft. Lü Jie»](https://storystudio.tw/article/gushi/lu-jie-podcast) — Entrevista por segmentos de julio de 2026 que presenta cómo Lü Jie entró a la academia de educación complementaria desde una tienda de mariscos, su experiencia en la primera clase, la proporción del aula y la posición «bajo el árbol de banyan» de su curso de historia de Taiwán.
+[^11]: [StoryStudio: 〈¿Quién dice que la historia de Taiwán solo puede ser trágica? Observaciones directas de un profesor estrella de historia tras 20 años en el campo ft. Lü Jie〉](https://storystudio.tw/article/gushi/lu-jie-podcast) — Presentación por secciones de la entrevista de julio de 2026, detallando la transición de Lü Jie desde trabajar en una tienda de mariscos hacia la enseñanza privada, su experiencia en la primera clase, la proporción de sus clases y el posicionamiento de sus cursos de historia de Taiwán como algo que se cuenta "bajo el árbol de banyan".
 
-[^12]: [Yahoo News: ««Nuestra educación histórica falla» Lü Jie: Lo que hay que cambiar no es el plan de estudios»](https://tw.news.yahoo.com/%E3%80%8C%E6%88%91%E5%80%91%E6%AD%B7%E5%8F%B2%E6%95%99%E8%82%B2%E5%A4%B1%E6%95%97%E3%80%8D-%E5%91%82%E6%8D%B7%EF%BC%9A%E8%A6%81%E6%94%B9%E7%9A%84%E4%B8%8D%E6%98%AF%E8%AA%B2%E7%B6%B1-132415186.html) — Reporte de 2018 que transcribe su postura pública sobre el nuevo plan de estudios y el modelo de examen, incluyendo la distinción entre fuentes, hechos y perspectivas, y entre preguntas de opción múltiple y de desarrollo.
+[^12]: [Yahoo News: 〈"Nuestra educación histórica ha fracasado" Lü Jie: Lo que hay que cambiar no es el currículo〉](https://tw.news.yahoo.com/%E3%80%8C%E6%88%91%E5%80%91%E6%AD%B7%E5%8F%B2%E6%95%99%E8%82%B2%E5%A4%B1%E6%95%97%E3%80%8D-%E5%91%82%E6%8D%B7%EF%BC%9A%E8%A6%81%E6%94%B9%E7%9A%84%E4%B8%8D%E6%98%AF%E8%AA%B2%E7%B6%B1-132415186.html) — Reportaje de 2018 que transmite sus propuestas públicas sobre el nuevo currículo y los modelos de examen, incluyendo la distinción entre fuentes históricas, hechos históricos, perspectiva histórica, preguntas de opción múltiple y preguntas de desarrollo.
 
-[^13]: [Liberty Times: ««Represión con camión de estiércol» profesor de la academia de educación complementaria habla del 4 de Junio y genera controversia»](https://news.ltn.com.tw/news/novelty/breakingnews/1079920) — Reporte de 2014 que registra el contenido del video del aula, la propagación en internet y la crítica de Chen Wei-ting; el artículo no publica la respuesta formal de Lü Jie a esta controversia.
+[^13]: [Liberty Times: 〈"Represión con camiones de fertilizantes" Profesor de academia habla sobre la controversia de Tiananmén"〉](https://news.ltn.com.tw/news/novelty/breakingnews/1079920) — Reportaje de 2014 que registra el contenido del video de clase, su difusión en internet y las críticas de Chen Wei-ting; el artículo no incluye una respuesta oficial de Lü Jie ante esta controversia.
 
-[^14]: [Bibliomania: _La sociedad avanza, debes entender la historia: Lü Jie imparte clase_](https://www.books.com.tw/products/0010900428) — La página del libro recoge el prólogo del autor y la posición del contenido, útil para cotejar el contexto de publicación de su lectura de la historia a través de historias, pensamiento y naturaleza humana.
+[^14]: [Books.com.tw: 《La sociedad avanza, la historia debe entenderse: Charlas de Lü Jie》](https://www.books.com.tw/products/0010900428) — La página del libro incluye el prólogo del autor y su posicionamiento de contenido, útil para contrastar su contexto editorial de leer la historia a través de las historias, el pensamiento y la naturaleza humana.

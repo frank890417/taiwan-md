@@ -1,12 +1,12 @@
 ---
-title: 'Huang Tu-shui: Una escultura moderna de Taiwán que regresa tras haber desaparecido'
-description: 'Aprendió escultura occidental en Tokio, pero fue hallando gradualmente a Taiwán bajo la mirada de los extraños; una obra de mármol desaparecida durante setenta años permite que esta historia del arte moderno se haga presente nuevamente.'
+title: 'Huang Tu-shui: una escultura moderna de Taiwán que regresa tras haber estado perdida'
+description: "Escultor moderno taiwanés, nacido en 1895 en Mengjia, en 1915 ingresó sin examen en el Departamento de Escultura de la Escuela de Bellas Artes de Tokio con su obra 'Li Tieguai', convirtiéndose en el primer artista taiwanés en estudiar en Japón durante la época colonial japonesa. En 1921, su escultura de mármol 'Agua de rocío' fue seleccionada para la Exposición de Arte de la Academia Imperial de Arte de Japón. A partir de 1923, el búfalo de agua taiwanés se convirtió en un tema recurrente en su obra. Falleció en Tokio en 1930 a los 36 años. 'Agua de rocío' permaneció desaparecida desde la década de 1950 durante aproximadamente setenta años, reapareció en 2021 y en 2024 regresó a su alma mater, la Universidad de las Artes de Tokio, para ser exhibida."
 date: 2026-08-14
 category: 'People'
 tags:
   [
     'Huang Tu-shui',
-    'Agua de la misericordia',
+    'Agua de rocío',
     'Historia del arte de Taiwán',
     'Escultura',
     'Escuela de Bellas Artes de Tokio',
@@ -20,10 +20,10 @@ readingTime: 8
 viewpoint_formed: true
 curation: 'incubating'
 translatedFrom: 'People/黃土水.md'
-sourceCommitSha: 'f89314e27'
+sourceCommitSha: '20dcddf339'
 sourceContentHash: 'sha256:d22d7298dff5ac3a'
 sourceBodyHash: 'sha256:7b62e2a912ba5344'
-translatedAt: '2026-09-11T21:33:06+08:00'
+translatedAt: '2026-11-25T06:53:06.774623+00:00'
 ---
 
 # Huang Tu-shui: Una escultura moderna de Taiwán que regresa tras haber desaparecido

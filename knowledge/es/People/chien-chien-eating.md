@@ -1,15 +1,15 @@
 ---
-title: 'Miles de comidas: convertir el "saber comer mucho" en un sabor taiwanés'
-description: 'Ella fue vista primero por su gran capacidad de consumo, pero luego transformó ese tráfico en contenido y una marca responsable ante la comida, la audiencia y los gustos de Taiwán.'
+title: "Chien Chien comiendo: convertir el 'saber comer' en un sabor taiwanés"
+description: "Originalmente enfermera de investigación en el Hospital Universitario de la Universidad Nacional de Taiwán, fue descubierta gracias a una competición de gran apetito. Dejó su trabajo estable para convertirse en YouTuber a tiempo completo; primero ganó reconocimiento por su capacidad de ingesta y luego expandió gradualmente su canal hacia la cocina, los alimentos locales y las marcas. En 2018 lanzó sus propios fideos 'Chien Ban', optando por el sabor del aceite de sésamo negro y el gusto de su hogar en lugar de seguir la tendencia del picante mala; vendió casi 30,000 paquetes en el primer mes y posteriormente llevó su proyecto a través de food trucks por Taipéi, Hsinchu, Taichung y Kaohsiung. No dejó de ser una 'gran comedora' para dejar de comer tanto, sino que pasó a comprender la comida con mayor detalle, logrando que 'comer mucho' ya no sea su única historia."
 date: 2026-08-16
 category: 'People'
 tags:
   [
-    'Miles de comidas',
-    'Hong Qian-shu',
+    'Chien Chien comiendo',
+    'Hung Chien-shu',
     'YouTuber',
-    'transmisiones de comida',
-    'comida de Taiwán',
+    'Mukbang',
+    'Comida taiwanesa',
   ]
 subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
@@ -19,19 +19,19 @@ lastHumanReview: false
 readingTime: 7
 curation: 'incubating'
 translatedFrom: 'People/千千進食中.md'
-sourceCommitSha: '513bf256a'
-sourceContentHash: 'sha256:4bfc707dc97b4776'
-sourceBodyHash: 'sha256:685bed7af9ee32a1'
-translatedAt: '2026-09-11T11:06:12+08:00'
+sourceCommitSha: '45b1bf37e0'
+sourceContentHash: 'sha256:e967fd4cff734536'
+sourceBodyHash: 'sha256:1978cbe0e37b1512'
+translatedAt: '2026-11-25T07:11:30.540981+00:00'
 ---
 
-En 2016, Hong Qian-shu (洪千淑) fue vista en un programa de televisión japonés durante una competencia de glotonería; al año siguiente, en una competencia de fideos de soba, comió 226 tazones en cinco minutos y obtuvo el segundo lugar en la categoría femenina. [^1] En 2018, subió un video desafiándose a sí misma a comer 100 salchichas calientes en casa; los medios describieron esto como el día a día de la "chica glotona". [^2] Estos dos números pueden fijar fácilmente a Qianqian como un espectáculo: ella es esa persona que come más que los demás.
+En 2016, Hong Qian-shu fue descubierta en un concurso de comer grandes cantidades en un programa de televisión japonés; al año siguiente, obtuvo el segundo lugar en la categoría femenina en una competición de soba tras consumir 226 tazones en cinco minutos. [^1] En 2018, publicó un vídeo desafiándose a sí misma en casa a comer 100 salchichas, y los medios de comunicación relataron el suceso como parte de la rutina de una «belleza glotona». [^2] Estas dos cifras facilitan que se encasille a Qianqian como un mero espectáculo: ella es simplemente la persona que come más que los demás.
 
-![Fideos de res taiwaneses; la imagen y los fideos de Qianban no son el mismo producto, solo sirven como ilustración editorial de la cultura de fideos de Taiwán](https://commons.wikimedia.org/wiki/Special:FilePath/Taiwanese%20Beef%20Noodle%20Soup.jpg)
+![Fideos de ternera taiwaneses; la imagen y los fideos Qian-ban no son el mismo producto, se utiliza únicamente como ilustración editorial de la cultura de los fideos en Taiwán](https://commons.wikimedia.org/wiki/Special:FilePath/Taiwanese%20Beef%20Noodle%20Soup.jpg)
 
-_Imagen: Jjj84206 / Wikimedia Commons, CC BY-SA 4.0; [Detalles de la imagen y licencia](https://commons.wikimedia.org/wiki/File:Taiwanese_Beef_Noodle_Soup.jpg). Esta imagen muestra fideos de res taiwaneses, no un producto filmado o vendido por Qianqian en sus comidas._
+_Imagen: Jjj84206／Wikimedia Commons, CC BY-SA 4.0; [detalles de la imagen y licencia](https://commons.wikimedia.org/wiki/File:Taiwanese_Beef_Noodle_Soup.jpg). Esta imagen muestra fideos de ternera taiwaneses, no es un producto filmado o vendido durante las ingestas de Qianqian._
 
-Lo que realmente merece quedarse de Qianqian en sus comidas no es cuánto puede comer, sino cómo manejó posteriormente la "comida observada". De enfermera a YouTuber a tiempo completo, primero hizo que su capacidad de consumo se convirtiera en un factor de reconocimiento, y luego fue desplazando gradualmente el canal desde los desafíos de glotonería hacia la cocina, las reseñas de productos, la comida local y las marcas. La parte contraintuitiva de este camino es: **no se alejó de la glotonería diluyendo la comida, sino comprendiendo la comida con mayor cuidado, haciendo que "comer mucho" dejara de ser la única historia.**
+Sin embargo, lo que realmente merece ser preservado de Qianqian no es cuánto puede comer, sino cómo gestionó posteriormente el hecho de «ser observada mientras come». Pasó de ser enfermera a YouTuber a tiempo completo, utilizando primero su gran apetito como factor de reconocimiento para luego evolucionar gradualmente su canal desde los desafíos de grandes cantidades hacia la cocina, los unboxings, la comida local y las marcas. Lo contraintuitivo de este camino es que: **no dejó de ser una glotona diluyendo el acto de comer, sino comprendiendo la comida con mayor detenimiento para que «comer mucho» dejara de ser su única historia.**
 
 ## Primero vista como un estómago
 
