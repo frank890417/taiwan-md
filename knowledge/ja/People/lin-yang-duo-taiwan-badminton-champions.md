@@ -1,13 +1,11 @@
 ---
 title: '王齊麟と李洋（麟洋ペア）'
-description: '中学時代の同級生からオリンピック金メダルへ：「麟洋ペア」は34分で中国をストレートで破り、台湾バドミントン史上初のオリンピック金メダルを刻みました'
+description: '台湾のバドミントン男子ダブルスコンビ。台北市立中山国中の同級生である王齊麟と李洋がパートナーを組み、中学生時代から世界チャンピオンになるまで20年かけて研鑽を積んできました。2021年7月31日の東京オリンピック決勝では、わずか34分間で中国の李俊慧・劉雨辰ペアを21-18、21-12で破り、台湾のバドミントン史上初となるオリンピック金メダルを獲得。台湾全土の2,300万人が同時に歓喜しました。2024年のパリオリンピックでは、29歳となった二人が再び金メダルを獲得し、台湾のバドミントン界で初のオリンピック連覇を達成したチャンピオンとなりました。'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '體育'
 tags:
   [
-    '選手',
+    'アスリート',
     '王齊麟',
     '李洋',
     '麟洋ペア',
@@ -16,16 +14,18 @@ tags:
     'パリオリンピック',
     '金メダル',
   ]
-readingTime: 12
+subcategory: '體育'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-19
 lastHumanReview: true
-featured: true
+difficulty: 'beginner'
+readingTime: 12
 translatedFrom: 'People/麟洋配.md'
-sourceCommitSha: 'c32d210ff'
+sourceCommitSha: '00dc1f6e04'
 sourceContentHash: 'sha256:940cd3ea72960eac'
 sourceBodyHash: 'sha256:4c0e104cb6fe8601'
-translatedAt: '2026-05-20T05:08:29+08:00'
-difficulty: 'beginner'
+translatedAt: '2026-11-25T03:37:23.639829+00:00'
 ---
 
 # 王齊麟と李洋（麟洋ペア）

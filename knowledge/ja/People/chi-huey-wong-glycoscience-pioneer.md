@@ -1,22 +1,22 @@
 ---
 title: '翁啟惠'
-description: '糖化学の世界的権威、2014年ウォルフ化学賞受賞者、中央研究院前院長、浩鼎事件によりノーベル賞を逃す'
+description: '糖化学分野の世界的権威。1948年、台南生まれ。台湾大学化学科卒業後、渡米しマサチューセッツ工科大学で有機化学博士号を取得、その後スクリプス研究所に籍を置く。2014年、「ノーベル賞の前哨戦」と称されるウルフ賞化学部門を受賞。ノーベル委員会が一時台湾へ飛び彼と会談する準備を進めた。2016年、浩鼎事件により中央研究院院長を辞任。2019年、一審で無罪判決を受け、彼は「生技条例は私が推進したものだが、最初の犠牲者になったのは私だ」と語った。'
 date: 2026-03-31
+category: 'People'
 tags:
-  ['学者', '化学', '中央研究院', '糖化学', '浩鼎事件', 'ノーベル', 'ウォルフ賞']
+  ['学者', '化学', '中央研究院', '糖化学', '浩鼎事件', 'ノーベル', 'ウルフ賞']
 subcategory: '科學與學術'
+author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-31
 lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
-translatedFrom: People/翁啟惠.md
-sourceCommitSha: 'be13f045'
+translatedFrom: 'People/翁啟惠.md'
+sourceCommitSha: '00dc1f6e04'
 sourceContentHash: 'sha256:984fef279b1af05b'
 sourceBodyHash: 'sha256:8e4d8fb8704570d2'
-translatedAt: '2026-05-16T22:19:52+00:00'
-category: People
-author: 'Taiwan.md'
+translatedAt: '2026-11-25T04:08:05.427472+00:00'
 ---
 
 # 翁啟惠
