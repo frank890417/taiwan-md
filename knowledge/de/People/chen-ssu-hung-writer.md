@@ -1,16 +1,16 @@
 ---
-title: 'Chen Si-hong: Vom Yongjing nach Berlin geflohen, doch immer wieder von der Heimat eingeholt'
-description: 'Er brauchte über zwanzig Jahre, um Yongjing in Changhua zu verlassen, doch in der Distanz Berlins zur Welt schrieb er über Familie, Geschlecht, Körper und jene Heimat, die nicht verschwinden will.'
+title: 'Chen Sihong: Der Schriftsteller, der von Yongjing nach Berlin floh, doch immer wieder von seiner Heimat eingeholt wird'
+description: 'Geboren 1976 in einer Bauernfamilie in Yongjing, Changhua, als neuntes Kind mit sieben älteren Schwestern und einem älteren Bruder. Absolvent der Englischabteilung der Fu-Jen-Universität und des Graduierteninstituts für Theaterwissenschaft der Nationalen Taiwan-Universität. 2004 ging er als TV-Korrespondent nach Berlin und brachte Schreiben, Übersetzen und Darstellen in seine europäischen Jahre. Sein 2019 veröffentlichter Roman „Ghost Place“ mit Yongjing als zentraler Schauplatz erhielt den Taiwan Literature Classic Award und den Golden Tripod Award; die englische Übersetzung stand auf der Herbst-Bestenliste der New York Times, und die Rechte wurden in zwölf Sprachen verkauft. Er flieht einerseits vor seiner Heimat, schreibt andererseits Yongjing, Familie, Geschlecht und Körper in seine Romane hinein.'
 date: 2026-09-03
 category: 'People'
 tags:
   [
-    'Chen Si-hong',
+    'Chen Sihong',
     'Taiwan-Literatur',
     'Yongjing',
     'Berlin',
-    'queere Literatur',
-    'Geisterorte',
+    'LGBTQ-Literatur',
+    'Gespensterort',
   ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
@@ -20,10 +20,10 @@ lastHumanReview: false
 readingTime: 9
 curation: 'incubating'
 translatedFrom: 'People/陳思宏.md'
-sourceCommitSha: '8730173b1'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:614611394f0bdd05'
 sourceBodyHash: 'sha256:aa5e5b4b6a3ee873'
-translatedAt: '2026-09-13T00:44:08+08:00'
+translatedAt: '2026-11-25T09:14:51.595217+00:00'
 ---
 
 ![Lagekarte von Yongjing, Landkreis Changhua, Wikimedia Commons, Autor Essolo, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/d/d9/Tw_yj_map.png)
