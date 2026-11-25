@@ -1,18 +1,18 @@
 ---
-title: 'Lü Jie: Von einer vermeideten Frage über den 228-Vorfall zur Geschichte Taiwans in 28 Kapiteln'
-description: 'Von der Gesprächsrunde im Fischladen zum Lehrstuhl für Nachhilfe: Lü Jie treibt den Kernstoff durch Geschichten voran, fordert aber auch die Schüler auf, Quellen, Fakten und historische Sichtweisen zu hinterfragen.'
+title: 'Lu Jie: Von einer vermiedenen 228-Frage zu den „28 Hallen“ der taiwanischen Geschichte'
+description: 'Ein bekannter Nachhilfelehrer, der ursprünglich Jura studieren wollte, aber aufgrund einer Fehlentscheidung bei der Studienwahl in das Historikstudium geriet. Durch ein Unterrichtsvideo gelangte er vom Podium der Nachhilfeschule in die öffentliche Wahrnehmung. Er besteht darauf, dass Geschichte nicht bloßes Auswendiglernen ist, sondern die Unterscheidung zwischen Quellen, Fakten und historischen Perspektiven umfasst. Im Jahr 2026 wird er einen Kurs zur taiwanischen Geschichte anbieten, der auf 28 historischen Schauplätzen basiert und Freiheit, Demokratie, Kultur, Identität sowie die internationale Stellung auf einer gemeinsamen Landkarte vereint. Er sagt, Geschichte lehre einen nicht nur das Verständnis der Vergangenheit, sondern das Verständnis der menschlichen Natur; Geschichten mögen unterhaltsam sein, aber sie müssen eine überprüfbare Grundlage hinterlassen.'
 date: 2026-08-14
 category: 'People'
-subcategory: '教育與社會'
 tags:
   [
     'Personen',
-    'Lü Jie',
+    'Lu Jie',
     'Geschichtsbildung',
-    'Nachhilfekultur',
-    'Geschichte Taiwans',
+    'Nachhilhkultur',
+    'Taiwanische Geschichte',
     'Medien',
   ]
+subcategory: '教育與社會'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-14
@@ -20,10 +20,10 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/呂捷.md'
-sourceCommitSha: '4a95859b1'
-sourceContentHash: 'sha256:67c5ad771d308cd6'
+sourceCommitSha: '45b1bf37e0'
+sourceContentHash: 'sha256:8682de0c2d43ca25'
 sourceBodyHash: 'sha256:6ab4993ddc7e3736'
-translatedAt: '2026-09-14T00:53:36+08:00'
+translatedAt: '2026-11-25T03:10:51.941289+00:00'
 ---
 
 # Lü Jie: Von einer vermeideten Frage über den 228-Vorfall zur Geschichte Taiwans in 28 Kapiteln
@@ -158,30 +158,30 @@ Die Frage aus dem Highschool-Unterricht, die vermieden wurde, fand hier keine en
 
 ## Referenzen
 
-[^1]: StoryStudio/Apple Podcasts: 〈Wer sagt, dass Geschichte Taiwans nur tragisch sein kann? Erste Beobachtungen eines berühmten Geschichtslehrers im Kampf über 20 Jahre mit Lü Jie〉(https://podcasts.apple.com/tw/podcast/%E8%AA%B0%E8%AA%AA%E8%87%BA%E7%81%A3%E5%8F%B2%E5%8F%AA%E8%83%BD%E6%82%B2%E6%83%85-%E6%AD%B7%E5%8F%B2%E8%A3%9C%E6%95%99%E5%90%8D%E5%B8%AB%E7%B8%B1%E6%A9%AB%E6%B2%99%E5%A0%B4-20-%E5%B9%B4%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%8B%E7%8F%BE%E5%A0%B4%E8%A7%80%E5%AF%9F-ft-%E5%91%82%E6%8D%B7/id1593373742?i=1000778009947) — Die Episodenbeschreibung vom Juli 2026 dokumentiert Lüs Jies Erinnerung an die Frage zum 228-Vorfall in der Highschool und seine Neuausrichtung der Lehrmethodik von Geschichte Taiwans.
+[^1]: [StoryStudio／Apple Podcasts: 〈Wer sagt, dass die taiwanesische Geschichte nur tragisch sein kann? Ersthandige Beobachtungen eines berühmten Geschichtslehrers nach 20 Jahren im Einsatz ft. Lü Jie〉](https://podcasts.apple.com/tw/podcast/%E8%AA%B0%E8%AA%AA%E8%87%BA%E7%81%A3%E5%8F%B2%E5%8F%AA%E8%83%BD%E6%82%B2%E6%83%85-%E6%AD%B7%E5%8F%B2%E8%A3%9C%E6%95%99%E5%90%8D%E5%B8%AB%E7%B8%B1%E6%A9%AB%E6%B2%99%E5%A0%B4-20-%E5%B9%B4%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%8B%E7%8F%BE%E5%A0%B4%E8%A7%80%E5%AF%9F-ft-%E5%91%82%E6%8D%B7/id1593373742?i=1000778009947) — Eine im Juli 2026 veröffentlichte Episodenbeschreibung, die Lü Jies Erinnerungen an Fragen zum 228-Zwischenfall in der High School sowie seine Neuausrichtung der Lehrmethoden für die taiwanesische Geschichte dokumentiert.
 
-[^2]: Future Parent (未來親子): 〈Aber der Mensch ändert sich nicht. Berühmter Lehrer Lü Jie: „Das Wichtigste beim Lernen von Geschichte ist nicht die Hochschulprüfung“〉(https://futureparenting.cwgv.com.tw/family/content/index/22429) — Enthält Lüs Jies direkte Darstellungen über den Tippfehler im Geschichtsstudium, den Nutzen der Geschichtsbildung und seine Lebenswende, sowie Auszüge aus seinem Werk.
+[^2]: [Wei Lai Qin Zi: 〈Aber die menschliche Natur bleibt unverändert. Der berühmte Lehrer Lü Jie: „Das Wichtigste am Geschichtsstudium ist nicht die Aufnahmeprüfung“〉](https://futureparenting.cwgv.com.tw/family/content/index/22429) — Enthält Lü Jies direkte Schilderungen über seine Fehlentscheidung bei der Wahl des Geschichtsfachs, den Nutzen der Geschichtsbildung und seine lebensgeschichtlichen Wendepunkte sowie Auszüge aus seinen Werken.
 
-[^3]: Future Parent (未來親子): 〈Aber der Mensch ändert sich nicht. Berühmter Lehrer Lü Jie: „Das Wichtigste beim Lernen von Geschichte ist nicht die Hochschulprüfung“〉(https://futureparenting.cwgv.com.tw/family/content/index/22429) — Die Autorenbiografie am Ende listet das Studium an der Chung-Cheng University, die Forschung an der Universität und seine Moderation von 〈Lü liest Taiwan〉 auf, was seinen Status als Geschichtsbildungsakteur belegt.
+[^3]: [Wei Lai Qin Zi: 〈Aber die menschliche Natur bleibt unverändert. Der berühmte Lehrer Lü Jie: „Das Wichtigste am Geschichtsstudium ist nicht die Aufnahmeprüfung“〉](https://futureparenting.cwgv.com.tw/family/content/index/22429) — Die Autorenbiografie am Ende des Artikels führt seinen akademischen Hintergrund am Institut für Geschichte und dem Graduate Institute of History der Chung Cheng University sowie seine Erfahrung als Moderator von „Lü Du Taiwan“ auf, was seine Identität als Geschichtsbildungsexperte bestätigt.
 
-[^4]: Future Parent (未來親子): 〈Aber der Mensch ändert sich nicht. Berühmter Lehrer Lü Jie: „Das Wichtigste beim Lernen von Geschichte ist nicht die Hochschulprüfung“〉(https://futureparenting.cwgv.com.tw/family/content/index/22429) — Enthält den Originalabschnitt über „Quellenmaterial, Fakten und Sichtweise“, geeignet zur Analyse seiner Aussagen zum historischen Verständnis und der Sichtwissensbildung.
+[^4]: [Wei Lai Qin Zi: 〈Aber die menschliche Natur bleibt unverändert. Der berühmte Lehrer Lü Jie: „Das Wichtigste am Geschichtsstudium ist nicht die Aufnahmeprüfung“〉](https://futureparenting.cwgv.com.tw/family/content/index/22429) — Veröffentlichte Originalpassagen zu „historische Quellen, historische Fakten und historische Perspektiven“, die sich zur Analyse seiner Aussagen über das Verständnis von Geschichte und die Bildung von Standpunkten eignen.
 
-[^5]: National Quemoy University: _Lü Jie's Talk: "Understanding History as Society Progresses"_ (https://ecasc.nqu.edu.tw/p/405-1017-11381,c1579.php?Lang=en) — Die englische Aktivitätenseite der Nationalen Quemoy University beschreibt die Popularität des Unterrichtsvideos in Kaohsiung 2014 und seine Positionierung als Redner, der Geschichte zur gesellschaftlichen Erkenntnis nutzt.
+[^5]: [National Quemoy University: _Lü Jies Vortrag: „Geschichte verstehen, während sich die Gesellschaft weiterentwickelt"_](https://ecasc.nqu.edu.tw/p/405-1017-11381,c1579.php?Lang=en) — Die englischsprachige Veranstaltungsseite der National Quemoy University, die erläutert, wie ein Video seiner Unterrichtsstunde in einer Nachhilfeschule in Kaohsiung im Jahr 2014 populär wurde und ihn als Redner positionierte, der Geschichte nutzt, um die Gesellschaft zu verstehen.
 
-[^6]: Books.com: 《Was lehrt Geschichte nicht, ist der Mensch》 (https://www.books.com.tw/products/0010693183) — Die Buchbeschreibung von 2015 listet die Originalsätze wie „Geschichte lehrt dich nicht, Geschichte zu kennen, sondern den Menschen zu verstehen“ auf.
+[^6]: [Books.com.tw: 《Was der Lehrer nicht lehrt, ist Geschichte, sondern die menschliche Natur》](https://www.books.com.tw/products/0010693183) — Bibliografische Angaben und Inhaltsbeschreibung der 2015 erschienenen Publikation, die Originalzitate des Autors auflistet, wie etwa: „Geschichte lehrt dich nicht, Geschichte kennenzulernen, sondern die menschliche Natur zu verstehen“.
 
-[^7]: Channel News Asia: 〈Berühmter Lehrer Lü Jie moderiert „Lü Clan Warring States BATTLE“〉(https://news.cts.com.tw/cts/general/202309/202309132227322.html) — Die Veröffentlichung der Sendung von Channel News Asia beschreibt die Sendezeit, das generations- und themenübergreifende Design sowie Lüs Jies Darstellungsweise des Diskurses.
+[^7]: [CTS News: 〈Berühmter Nachhilflehrer Lü Jie übernimmt die Moderation von „Lü's Warring States BATTLE“〉](https://news.cts.com.tw/cts/general/202309/202309132227322.html) — Programminformationen des CTS News Channel, die den Starttermin, das generationen- und fachübergreifende Design sowie Lü Jies Ausführungen zur Diskussion erläutern.
 
-[^8]: Knowledge Satellite (知識衛星): 〈Lü Jies 28 Stunden Geschichte Taiwans〉(https://sat.cool/course/199) — Die Kursseite dokumentiert die 28 Einheiten, die 10 Stunden und das Kurskonzept, das Freiheit, Demokratie, Kultur, Identität und internationale Positionierung mit historischen Schauplätzen verbindet.
+[^8]: [Knowledge Satellite: 〈Lü Jies 28 Lektionen über die taiwanesische Geschichte〉](https://sat.cool/course/199) — Die Kursveröffentlichungsseite, die ein Kursdesign mit 28 Einheiten und 10 Stunden beschreibt, das historische Schauplätze mit der Freiheit, Demokratie, Kultur, Identität und der internationalen Position Taiwans verknüpft.
 
-[^9]: Books.com: 《Was lehrt Geschichte nicht, ist der Mensch》 (https://www.books.com.tw/products/0010693183) — Die Buchmetadaten geben ISBN, 208 Seiten und den Erscheinungstag am 29. Oktober 2015 an; dient nur zur Abgleichung von Veröffentlichungsstellen und Inhalt.
+[^9]: [Books.com.tw: 《Was der Lehrer nicht lehrt, ist Geschichte, sondern die menschliche Natur》](https://www.books.com.tw/products/0010693183) — Bibliografische Daten mit ISBN, 208 Seiten und dem Veröffentlichungsdatum 29. Oktober 2015; dient lediglich zum Abgleich von Veröffentlichungspunkten und Werkinhalten.
 
-[^10]: Jin Weekly: 〈Lü Jie: Der Weg aus dem „Lu She“ beginnt mit der Konfrontation mit sich selbst!〉(https://www.businesstoday.com.tw/article/category/80407/post/201512170102/) — Die Zusammenfassung und das Interview von 2015 dokumentieren den Wechsel ins Geschichtsstudium nach Wiederprüfung, den Beginn der Nachhilfearbeit und die persönliche Krise.
+[^10]: [CommonWealth Magazine: 〈Lü Jie: Sich dem wahren Selbst zu stellen, ist der Anfang, um ein Loser zu entkommen!〉](https://www.businesstoday.com.tw/article/category/80407/post/201512170102/) — Zusammenfassung von Buchauszügen und Interviews aus dem Jahr 2015, die seine Erzählung über das erneute Ablegen von Prüfungen, den Eintritt in das Geschichtsstudium nach einer Fehlentscheidung bei der Studienwahl sowie den Beginn seiner Arbeit in der Nachhilfebranche und persönliche Tiefpunkte dokumentieren.
 
-[^11]: StoryStudio: 〈Wer sagt, dass Geschichte Taiwans nur tragisch sein kann? Erste Beobachtungen eines berühmten Geschichtslehrers im Kampf über 20 Jahre mit Lü Jie〉(https://storystudio.tw/article/gushi/lu-jie-podcast) — Das Interview vom Juli 2026 zeigt Lüs Jies Weg vom Fischladen in die Nachhilfe, seine Erfahrungen beim ersten Kurs, das Verhältnis von Unterrichtsinhalten und die „Baum unter der Feige“-Positionierung der Geschichte Taiwans.
+[^11]: [StoryStudio: 〈Wer sagt, dass die taiwanesische Geschichte nur tragisch sein kann? Ersthandige Beobachtungen eines berühmten Geschichtslehrers nach 20 Jahren im Einsatz ft. Lü Jie〉](https://storystudio.tw/article/gushi/lu-jie-podcast) — Ein im Juli 2026 geführtes Interview, das abschnittsweise Lü Jies Weg vom Fischgeschäft in die Nachhilfebranche, seine Erfahrungen aus der ersten Unterrichtsstunde, den Anteil am Unterricht sowie die Positionierung seiner Geschichtskurse als „unter dem Banyanbaum“ darstellt.
 
-[^12]: Yahoo News: 〈„Unser Geschichtsbildung ist gescheitert“ Lü Jie: Der Lehrplan muss nicht geändert werden〉(https://tw.news.yahoo.com/%E3%80%8C%E6%88%91%E5%80%91%E6%AD%B7%E5%8F%B2%E6%95%99%E8%82%B2%E5%A4%B1%E6%95%97%E3%80%8D-%E5%91%82%E6%8D%B7%EF%BC%9A%E8%A6%81%E6%94%B9%E7%9A%84%E4%B8%8D%E6%98%AF%E8%AA%B2%E7%B6%B1-132415186.html) — Die Berichterstattung von 2018 zitiert seine öffentlichen Forderungen bezüglich des neuen Lehrplans und der Prüfungsmodelle, einschließlich der Unterscheidung zwischen Quellenmaterial, Fakten, Sichtweise, Multiple-Choice und Essay.
+[^12]: [Yahoo News: 〈„Unsere Geschichtsbildung ist gescheitert“ – Lü Jie: Nicht der Lehrplan muss geändert werden〉](https://tw.news.yahoo.com/%E3%80%8C%E6%88%91%E5%80%91%E6%AD%B7%E5%8F%B2%E6%95%99%E8%82%B2%E5%A4%B1%E6%95%97%E3%80%8D-%E5%91%82%E6%8D%B7%EF%BC%9A%E8%A6%81%E6%94%B9%E7%9A%84%E4%B8%8D%E6%98%AF%E8%AA%B2%E7%B6%B1-132415186.html) — Ein Bericht aus dem Jahr 2018, der seine öffentlichen Forderungen bezüglich des neuen Lehrplans und der Prüfungsmuster wiedergibt, einschließlich der Unterscheidung zwischen historischen Quellen, Fakten, Perspektiven sowie Multiple-Choice- und Essay-Fragen.
 
-[^13]: Liberty Times (自由時報): 〈Nachhilfelehrer spricht über Tiananmen mit „Wasser-Fettwagen“-Unterdrückung und löst Kontroverse aus〉(https://news.ltn.com.tw/news/novelty/breakingnews/1079920) — Die Berichterstattung von 2014 dokumentiert den Inhalt des Klassenzimmervideos, seine virale Verbreitung und die Kritik von Chen Wei-ting; sie enthält keine formelle Antwort von Lü Jie auf diesen Streit.
+[^13]: [Liberty Times: 〈„Unterdrückung durch Düngerwagen“ – Nachhilflehrer spricht über die Kontroverse um den 4. Juni〉](https://news.ltn.com.tw/news/novelty/breakingnews/1079920) — Ein Bericht aus dem Jahr 2014, der den Inhalt des Unterrichtsvideos, die Verbreitung im Internet und die Kritik von Chen Wei-ting dokumentiert; eine offizielle Reaktion von Lü Jie auf diese Kontroverse wird im Text nicht veröffentlicht.
 
-[^14]: Books.com: 《Die Gesellschaft geht weiter, Geschichte muss es verstehen: Lü Jie spricht》 (https://www.books.com.tw/products/0010900428) — Die Buchseite listet die Einleitung und die inhaltliche Ausrichtung des Autors auf und kann zur Abgleichung seines Publikationskontextes beim Lesen von Geschichte durch Geschichten, Reflexion und Menschlichkeit verwendet werden.
+[^14]: [Books.com.tw: 《Die Gesellschaft bewegt sich, man muss Geschichte verstehen: Lü Jies Vorträge》](https://www.books.com.tw/products/0010900428) — Die Buchseite enthält das Vorwort des Autors und die inhaltliche Einordnung, die dazu dienen können, den Publikationskontext seiner Methode zu vergleichen, Geschichte durch Geschichten, Reflexion und die menschliche Natur zu lesen.

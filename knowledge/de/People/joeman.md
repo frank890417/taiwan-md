@@ -1,17 +1,17 @@
 ---
-title: 'Joeman: Vom E-Sport-Kommentator zum Millionen-Kanal – der langfristige Creator hinter der Kamera'
-description: 'Vom E-Sport-Kommentator und MSI-Produktmanager zum Kanalbetreiber mit Unboxings, Vergleichen, Reisen und Team-Formaten: Joemans Weg dokumentiert, wie taiwanesische YouTuber sich zwischen Reichweite, Arbeitsteilung, Vertrauen und öffentlicher Verantwortung neu justieren.'
+title: 'Joeman: Vom E-Sport-Kommentator zum Millionen-Kanal – Ein langjähriger Creator vor der Kamera'
+description: 'Sein bürgerlicher Name ist Weng Chun-ming. Tagsüber arbeitet er als Produktmanager bei MSI, am Wochenende kommentiert er E-Sport-Turniere. Durch ein unerwartet populäres Unboxing-Video für 3C-Produkte fand er den Weg zu YouTube und überschritt im Jahr 2018 die Marke von einer Million Abonnenten. Sein Format „Joe ist bereit zum Duell“ wurde durch den Vergleich von Luxus- mit preiswerten Produkten zu seinem Markenzeichen und erweiterte sein Portfolio um Reise-, Immobilien- und Team-Inhalte; 2024 wurde er mit dem Golden Bell Award als Creator des Jahres ausgezeichnet. Nach einem Vorfall im Zusammenhang mit Marihuana im Jahr 23 entschuldigte er sich öffentlich, erhielt eine aufgeschobene Anklage und leistete gemeinnützige Arbeit durch die Erstellung von Videos zur Drogen- und Betrugsprävention. Seine Geschichte dokumentiert, wie taiwanesische Creator langfristig zwischen Reichweite, Vertrauen und gesellschaftlicher Verantwortung navigieren.'
 date: 2026-08-16
 category: 'People'
 tags:
   [
     'Joeman',
-    'Weng Jun-ming',
+    'Weng Chun-ming',
     'YouTuber',
     'E-Sport',
     '3C',
     'Creator Economy',
-    'Medienindustrie',
+    'Medienbranche',
     'Öffentliche Kommunikation',
   ]
 subcategory: '媒體與創作'
@@ -26,10 +26,10 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Joeman-0617.jpg'
 readingTime: 10
 curation: 'incubating'
 translatedFrom: 'People/Joeman.md'
-sourceCommitSha: '67c4c72fc'
+sourceCommitSha: '1b9d5dfea6'
 sourceContentHash: 'sha256:19eba63c27c61c88'
 sourceBodyHash: 'sha256:18e7518b3acc71b4'
-translatedAt: '2026-11-04T14:46:24.900984+00:00'
+translatedAt: '2026-11-25T03:07:27.441202+00:00'
 ---
 
 # Joeman: Vom E-Sport-Kommentator zum Millionen-Kanal – der langfristige Creator hinter der Kamera

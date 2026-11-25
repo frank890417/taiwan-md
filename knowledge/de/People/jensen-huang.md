@@ -1,10 +1,19 @@
 ---
 title: 'Jensen Huang'
-description: 'Von einem Internat in Kentucky zum Fünf-Billionen-Dollar-Imperium – wie ein Junge aus Tainan, der Toiletten putzte, auf eine Zukunft setzte, die erst zehn Jahre später eintreffen würde.'
+description: 'Geboren in Tainan, Gründer von NVIDIA. Im Alter von neun Jahren wurde er auf eine Internatsschule in Kentucky geschickt, wo er täglich die Toiletten des Männchenwohnheims reinigte und mit seinem siebzehnjährigen Zimmergenossen, der voller Narben und Tätowierungen war, einen Deal aushandelte: Er brachte ihm das Lesen und Schreiben bei, im Austausch für Gewichtheben-Training. Das von ihm gegründete Unternehmen NVIDIA überschritt am 29. Oktober 2025 eine Marktkapitalisierung von fünf Billionen US-Dollar und wurde damit das erste Unternehmen in der Menschheitsgeschichte mit diesem Wert; seine entscheidende Wette war nicht die GPU, sondern CUDA im Jahr 2006 – eine Entscheidung, die damals als wahnsinnig galt und deren Wert sich erst zehn Jahre später durch die KI-Revolution bewies.'
 date: 2026-03-25
 category: 'People'
 tags:
-  ['Jensen Huang', 'NVIDIA', 'KI', 'Halbleiter', 'Technologie', 'Tainan', 'GPU']
+  [
+    'Personen',
+    'Jensen Huang',
+    'NVIDIA',
+    'KI',
+    'Halbleiter',
+    'Technologie',
+    'Tainan',
+    'GPU',
+  ]
 subcategory: '科技與企業'
 author: 'Taiwan.md'
 featured: true
@@ -15,10 +24,10 @@ image: '/article-images/technology/computex-jensen-huang-2016.webp'
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/黃仁勳.md'
-sourceCommitSha: 'b1a5fea00'
+sourceCommitSha: '00dc1f6e04'
 sourceContentHash: 'sha256:28ebca4abc1527e4'
 sourceBodyHash: 'sha256:2ae685b1d23ee474'
-translatedAt: '2026-11-18T09:30:15.960134+00:00'
+translatedAt: '2026-11-25T02:48:04.966658+00:00'
 ---
 
 # Jensen Huang

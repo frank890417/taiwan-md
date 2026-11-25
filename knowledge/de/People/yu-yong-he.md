@@ -1,18 +1,18 @@
 ---
 title: 'Yu Yonghe'
-description: '1697: Ein Hangzhou Student voluntär in die malarialische Region Taiwan, um Schwefel zu sammeln; von Tainan nach Beitou, schreibt Taiwans früheste nördliche Reiseberichte'
+description: 'Ein Gelehrter aus Hangzhou, Zhejiang. Nach einem Brand im Pulvermagazin von Fuzhou im 35. Jahr der Kangxi-Regierungszeit meldete er sich freiwillig, um über das Meer nach Taiwan zu reisen und Schwefel abzubauen. Er fuhr mit dem Ochsenkarren von der Präfektur Tainan aus nach Norden, durchquerte in zwanzig Tagen die westlichen Ebenen, passierte mehr als ein Dutzend indigener Stämme und erreichte das Schwefelgebiet von Beitou. Seine neunmonatige Reise durch Taiwan wurde im Werk „Beihai Jiyou“ (Reiseberichte aus den Meeresregionen) festgehalten, das zu einem der frühesten Klassiker der Dokumentation der Humangeografie Nordtaiwans wurde. Als er sah, wie die indigenen Völker im Schlamm unter freiem Himmel schliefen, schrieb er: „Sie sind auch Menschen“. Dies war eine seltene Reflexion in einer Ära, in der das Kaiserreich Qing die indigenen Völker als „Menschen außerhalb der Zivilisation“ betrachtete, und hinterließ zudem wertvolle Aufzeichnungen über das Rätsel des Sees im heutigen Taipeh unter der Kangxi-Dynastie.'
 date: 2026-03-25
 category: 'People'
 tags:
   [
     'Person',
     'Yu Yonghe',
-    'Bi hai ji you',
-    'Qing dynasty',
-    'Exploration',
+    'Beihai Jiyou',
+    'Qing-Dynastie',
+    'Abenteuer',
     'Beitou',
     'Schwefel',
-    'Taiwan literature',
+    'Taiwanische Literatur',
   ]
 subcategory: '歷史與探險'
 author: 'Taiwan.md'
@@ -23,10 +23,10 @@ readingTime: 10
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/郁永河.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:4070459913f1808f'
 sourceBodyHash: 'sha256:f14cb1a2a50dc23e'
-translatedAt: '2026-11-04T20:23:04.845606+00:00'
+translatedAt: '2026-11-25T03:30:18.230228+00:00'
 ---
 
 # Yu Yonghe

@@ -1,6 +1,6 @@
 ---
-title: 'Chi-Huey Wong: Der Chemie-Autor, Gewinner des Wolf-Preises 2014, ehemaliger Leiter des Academia Sinica – am Nobelpreis vorbei durch den Haoding-Fall'
-description: 'Chi-Huey Wong ist einer der wichtigsten Wissenschaftler im Bereich der Glykochemie; nach dem Fall Haoding trat er als Chefdirektor der Academia Sinica zurück.'
+title: 'Chi-Huey Wong'
+description: 'Weltweite Autorität auf dem Gebiet der Glykochemie, 1948 in Tainan geboren, nach seinem Abschluss an der Chemieabteilung der Nationalen Taiwan-Universität in die USA gegangen, um am MIT einen Doktortitel in organischer Chemie zu erwerben, anschließend am Scripps Research Institute tätig. 2014 erhielt er den Wolf-Preis für Chemie, der als „Nobel-Vorhut“ gilt; das Nobel-Komitee plante zeitweise, nach Taiwan zu fliegen, um mit ihm zu sprechen. 2016 trat er wegen des OBI-Pharma-Falls als Präsident der Academia Sinica zurück, 2019 in erster Instanz freigesprochen; er sagte selbst: „Ich habe das Biotech-Gesetz vorangetrieben, doch das erste Opfer war ich selbst“.'
 date: 2026-03-31
 category: 'People'
 tags:
@@ -9,8 +9,8 @@ tags:
     'Chemie',
     'Academia Sinica',
     'Glykochemie',
-    'Haoding-Fall',
-    'Nobelpreis',
+    'OBI-Pharma-Fall',
+    'Nobel',
     'Wolf-Preis',
   ]
 subcategory: '科學與學術'
@@ -21,10 +21,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/翁啟惠.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '00dc1f6e04'
 sourceContentHash: 'sha256:984fef279b1af05b'
 sourceBodyHash: 'sha256:8e4d8fb8704570d2'
-translatedAt: '2026-09-09T11:46:03+08:00'
+translatedAt: '2026-11-25T03:33:02.211674+00:00'
 ---
 
 # Chi-Huey Wong

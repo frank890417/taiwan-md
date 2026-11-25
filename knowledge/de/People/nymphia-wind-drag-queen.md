@@ -1,15 +1,15 @@
 ---
-title: 'Von der Kellerhölle zum Präsidentenpalast: Die Geschichte der Selbstbestimmung von Nymphia Wind und Taiwans drag-queen-Szene'
-description: 'Wie ein taiwanesischer Junge, der wegen seiner Geschlechtsidentität mobbingopfer war, die als Untergrundkultur angesehene Drag-Art auf die internationale Bühne trug und mit dem Symbol der Banane Taiwans Vielfalt und Selbstbewusstsein sichtbar machte.'
+title: 'Vom Keller bis zum Präsidentenpalast: Nefarious und die Geschichte der Selbstermächtigung der taiwanesischen Drag Queen'
+description: "Nefarious, mit bürgerlichem Namen Tsao Mi-hsuan, gewann 2024 „RuPaul's Drag Race“ und schrieb als erste taiwanesische Drag Queen Geschichte. Geboren in Los Angeles und im Alter von sechs Jahren nach Taiwan gezogen, erlebte sie in der Grundschule Mobbing aufgrund ihres Geschlechtsausdrucks; erst während ihres Modedesign-Studiums am London College of Fashion kam sie mit Drag in Kontakt. Sie verwandelte den einst abwertenden Begriff „Banane“ in ein Symbol des Selbstvertrauens und bezeichnet sich selbst als „Bananen-Buddha“. Indem sie taiwanesische Motive wie Bubble Tea, Tempelmalereien und Gezaixi-Oper in ihre Kostüme integriert, gelang ihr der Weg von Underground-Partys bis in den Präsidentenpalast, um auf der internationalen Bühne die Präsenz Taiwans lautstark zu verkünden."
 date: 2026-04-18
 category: 'People'
 tags:
   [
-    'Nymphia Wind',
-    'Drag-Queen',
+    'Nefarious',
+    'Drag Queen',
     'LGBTQ+',
-    'Geschlechtergleichstellung',
-    'taiwanesische Kultur',
+    'Geschlechtergerechtigkeit',
+    'Taiwanische Kultur',
     "RuPaul's Drag Race",
   ]
 subcategory: '音樂與表演'
@@ -20,10 +20,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/妮妃雅.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '1b9d5dfea6'
 sourceContentHash: 'sha256:10538bd4034afd34'
 sourceBodyHash: 'sha256:18c9609265b03371'
-translatedAt: '2026-11-04T18:57:04.953399+00:00'
+translatedAt: '2026-11-25T03:34:41.303769+00:00'
 ---
 
 > **30-Sekunden-Überblick:** 2024 gewann die taiwanesische Drag-Queen Nymphia Wind (Nymphia Wind) den hochkarätigsten Wettbewerb der Welt, „RuPaul’s Drag Race“, und wurde die erste Person aus Taiwan, die diesen Titel errang. Ihr Erfolg brachte nicht nur taiwanesische Drag-Kunst auf die internationale Bühne, sondern fiel mit dem „Tag der Geschlechtergleichstellung“ zusammen und zeigte Taiwans Vielfalt und Toleranz der Welt. Von der Kellerparty bis ins Präsidentenpalast – die Geschichte von Nymphia Wind ist eine fast 30-jährige Geschichte der Selbstbestimmung von Geschleichsminoritäten in Taiwan. Mit dem Symbol der Banane verband sie persönliche Lebenserfahrung mit taiwanesischer Kultur und erklärte Taiwans Existenz und Selbstbewusstsein der Welt.

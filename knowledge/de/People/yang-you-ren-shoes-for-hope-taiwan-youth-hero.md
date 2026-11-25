@@ -1,16 +1,16 @@
 ---
-title: 'Yang Yu-ren: Vom Schulabbrecher zum Gründer von „Old Shoes for Life“ in Afrika'
-description: 'Gründerin der internationalen christlichen Hilfsorganisation Old Shoes for Life, ausgezeichnet als eine der zehn herausragenden jungen Persönlichkeiten im Jahr 2017; sammelte mit einem Plakat hunderttausend gebrauchte Schuhe zur Hilfe für Kinder in Ostafrika.'
+title: 'Yang You-jen'
+description: 'Aufgewachsen in einer Schuhfabrikfamilie in Taoyuan, ging er im Alter von fünfzehn Jahren zum Studium nach Australien. Nachdem er das Studium zweimal abgebrochen hatte, änderte ein tätowierter Pastor auf einem Basketballplatz seinen Lebensweg, woraufhin er nach Taiwan zurückkehrte, um Jugendarbeit zu leisten. Im Jahr 2014 sammelte er mit einem Blog-Poster fast 100.000 Paar alte Schuhe für Kenia und gründete „Step30 Old Shoes Save Lives“. Er vertritt den Ansatz, langfristige Abhängigkeit zu vermeiden und das Ziel der Hilfe die Selbstständigkeit zu machen. Durch seine Projekte zur Bildung, Wasserversorgung, Frauenförderung („Love Girls“) und landwirtschaftlichen Unabhängigkeit hat er Menschen in zwölf Ländern und über drei Millionen Personen erreicht. Im Jahr 2017 wurde er als einer der zehn herausragenden Jugendlichen ausgezeichnet.'
 date: 2026-03-20
 category: 'People'
 tags:
   [
     'Taiwanisches Sozialunternehmen',
-    'humanitäre Hilfe',
-    'Old Shoes for Life',
-    'Zehn Herausragende Junge',
+    'Humanitäre Hilfe',
+    'Step30 Old Shoes Save Lives',
+    'Zehn herausragende Jugendliche',
     'Afrika-Hilfe',
-    'christliches Engagement',
+    'Christlicher Dienst',
   ]
 subcategory: '社會與公益'
 author: 'Taiwan.md Contributors'
@@ -20,10 +20,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/楊右任.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:2a0a298fc7d510ca'
 sourceBodyHash: 'sha256:aeccc38efb53dc79'
-translatedAt: '2026-11-04T19:21:27.742275+00:00'
+translatedAt: '2026-11-25T03:36:32.520667+00:00'
 ---
 
 # Yang Yu-ren: Vom Schulabbrecher zum „Old Shoes for Life“ in Afrika

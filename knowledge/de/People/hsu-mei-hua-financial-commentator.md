@@ -1,11 +1,11 @@
 ---
-title: 'Xu Meihua: Vom Anti-Ziguang bis zur Großabwahl – zehn Jahre eines anonymen Bürger-Codenamens'
-description: '„Xu Meihua“ ist nicht ihr richtiger Name, sondern ein Codename, der an zwei entscheidenden Momenten in Taiwans Zivilgesellschaft auftauchte – 2015 als einer der „Vier Ritter“, der Chinas Ziguang-Halbleiterübernahme verhinderte, und 2025 als das gegenintuitive „Finanzierungszentrum“ der Großabwahl-Welle: ohne auch nur einen Cent anzufassen, steuerte sie über 20 Millionen an Bürgerspenden.'
+title: 'Hsu Mei-hua: Von der Anti-Ziguang-Kampagne zur Großabwahl – ein Jahrzehnt unter einem anonymen Bürger-Codenamen'
+description: 'Ein bewusst anonymes Bürger-Kürzel, nicht ihr echter Name. 2015 half sie als eine der „Vier Ritter“ und selbsternannte „Bodenkehrer-Mönchin“ dabei, die Übernahme der drei großen taiwanesischen Halbleiter-Verpackungs- und Testfabriken durch Chinas Ziguang (Tsinghua Unigroup) im Gesamtwert von fast 900 Milliarden New Taiwan Dollar zu verhindern; bei der Großabwahl 2025 verwandelte sie sich in ein „Spendenzentrum“: Fans überwiesen direkt an Hersteller für LED-Werbewagen, ohne dass sie auch nur einen Cent berührte, doch sie steuerte über 20 Millionen New Taiwan Dollar. Die Abwahl scheiterte mit 31:0 vollständig; sie nannte es die „erfolgreichste gescheiterte Aktion“. Ihr zehnjähriger Werdegang verdichtet das Spektrum der taiwanesischen Zivilgesellschaft von der Technologie-Frontlinie hin zur demokratischen Mobilisierung.'
 date: 2026-04-17
 category: 'People'
 tags:
   [
-    'Xu Meihua',
+    'Hsu Mei-hua',
     'Anti-Ziguang',
     'Großabwahl',
     'Bürgerbewegung',
@@ -19,10 +19,10 @@ lastVerified: 2026-04-17
 lastHumanReview: true
 readingTime: 12
 translatedFrom: 'People/許美華.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '1b9d5dfea6'
 sourceContentHash: 'sha256:1b5d90dfca7bb147'
 sourceBodyHash: 'sha256:e380720def0effee'
-translatedAt: '2026-09-11T07:09:36+08:00'
+translatedAt: '2026-11-25T03:21:15.721943+00:00'
 ---
 
 > **30-Sekunden-Überblick:** „Xu Meihua“ ist ein anonymer Codename, kein richtiger Name. Sie tauchte an zwei entscheidenden Momenten in Taiwans Zivilgesellschaft auf: 2015 war sie eine der „Vier Ritter“ und half, Chinas Tsinghua Unigroups Übernahme der drei großen taiwanesischen Halbleiter-Verpackungs- und Testunternehmen (ChipMOS, Chipbond, Sigurd) im Gesamtwert von fast 900 Milliarden Neuer Taiwan-Dollar zu stoppen; 2025 wurde sie zum „Finanzierungszentrum“ der „Großabwahl“-Bewegung, wobei Fans direkt an Hersteller für LED-Werbefahrzeuge, Propagandamaterial und Tempelumzüge überwiesen – sie selbst fasste kein Geld an. Die Abwahl endete mit 31:0 als völliger Misserfolg, den sie als „erfolgreichste gescheiterte Aktion“ bezeichnete. Die zehnjährige Bahn dieses Codenamens verdichtet das Spektrum von Taiwans Zivilgesellschaft von der technologisch-ökonomischen Verteidigungslinie hin zur demokratischen Mobilisierung.
