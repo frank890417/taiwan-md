@@ -1,6 +1,6 @@
 ---
-title: 'HUR+: DD52 준우승에서 Zepp New Taipei까지, 5년간 멈추지 않은 9인조 걸그룹'
-description: '2020년 아이돌 오디션 우승전, 그들은 2.5점 차이로 패배했다. 6년 후, 우승 그룹은 사라졌지만 준우승 그룹은 여전히 존재한다. 제작자는 5천만 달러를 투자하며 "한국 그룹 같지 않을수록 좋다"고 말했는데—이것은 타이완 걸그룹이 살아남은 이야기이다.'
+title: 'HUR+：DD52 준우승에서 Zepp New Taipei까지, 5년간 멈추지 않은 9인조 걸그룹'
+description: "오디션 프로그램 준우승으로 데뷔한 대만 걸그룹으로, 2020년 '스톰 스페이드' 콘셉트로 DD52 결승전에서 2.5점 차로 패배했다. 프로듀서가 NT$5,000만을 투자해 기획사를 설립하고, '다를수록 좋다'는 노선을 걸으며 일부러 K팝 걸그룹과 차별화했다. 9인조로 확대된 후 멤버는 대만, 영국, 몽골, 인도네시아, 베트남 출신이다. 팬들이 10분 만에 NT$150만을 모아 팀의 한국 방송 활동을 지원했다. 데뷔 6년 차에 3장의 앨범을 보유하며, 동기 데뷔 그룹 중 유일하게 여전히 음반을 내고 있으며, 방콕 무대에도 올랐다."
 date: 2026-04-23
 category: 'People'
 tags:
@@ -10,11 +10,11 @@ tags:
     '미래소녀',
     '걸그룹',
     '아이돌',
-    '타이완 음악',
-    '펠리페',
+    '대만 음악',
+    '필립',
     'AOA Entertainment Lab',
     'K-POP',
-    '타이완 아이돌',
+    '대만 아이돌',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
@@ -25,10 +25,10 @@ readingTime: 14
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/HUR-plus.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'd3a973ae06'
 sourceContentHash: 'sha256:7b6f1e2f33e3f99d'
 sourceBodyHash: 'sha256:396a9fed148c94a2'
-translatedAt: '2026-09-20T00:52:36+08:00'
+translatedAt: '2026-11-25T06:51:50.967820+00:00'
 ---
 
 > **30초 요약:** HUR+(구 HUR)은 2020년 《링클 세대 DD52》 준우승인 '풍속흑도(風暴黑桃)' 6인으로 데뷔했으며, 제작자 펠리페(Felipe.Z)가 AOA Entertainment Lab을 설립하여 스타링크 에이오아를 만들었다. 우승전에서 2.5점 차로 패배했지만, 우승 그룹 G.O.F의 인기는 1년 만에 급락했고, 동기 출신인 PINK FUN은 해체 위기를 겪었다. 6년 후, HUR+는 데뷔한 세 그룹 중 유일하게 여전히 앨범을 발매하고 있다. 3장의 앨범(《REVELATION》《Crimzon》《9OF9 ARCANA》), 기부로 10분 만에 150만 위안을 모아 한국에서 활동했으며, 멤버들의 국적은 몽골, 영국, 인도네시아, 베트남에 걸쳐 있다. 펠리페는 "한국과 같은 레시피와 전술을 사용한다면 타이완이 어떻게 이길 수 있겠느냐?"고 말했다.

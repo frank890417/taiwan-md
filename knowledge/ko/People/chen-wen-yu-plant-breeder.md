@@ -1,9 +1,9 @@
 ---
-title: '진원위: 한 알의 씨앗이 어떻게 대만 농업의 외교관이 되었는가'
-description: '펑산 실험소, 펑산 1호 무종자 수박에서 농우종묘까지, 진원위는 종자 개발을 농민이 더 나은 삶을 얻게 하는 대만의 소프트 파워로 만들었다.'
+title: '천원위: 씨앗 하나가 어떻게 대만 농업의 외교관이 되었나'
+description: "대만 채소 잡종 육종의 선구자. 1925년 타이난 융캉의 농가에서 태어나 펑산 열대 원예 시험소에서 활동을 시작했다. 1962년 대만 최초의 씨 없는 수박인 '펑산 1호'를 육성했으며, 직접 윈린 얼룬으로 내려가 황폐한 모래밭에서 수박을 재배하는 법을 농민들에게 가르쳤다. 1968년 농우종묘를 설립하여 '먼저 농민이 돈을 벌게 한다'는 신념 아래 종묘와 기술을 해외로 전파했으며, 미얀마에는 농민 병원을 세웠다. 2012년 88세의 나이로 별세한 후 그의 생애는 국사에 기록되었으며, '씨앗 하나, 책임 하나'라는 약속을 남겼다."
 date: 2026-08-16
 category: 'People'
-tags: ['진원위', '농우종묘', '무종자 수박', '농업', '종자 개발']
+tags: ['천원위', '농우종묘', '씨 없는 수박', '농업', '육종']
 subcategory: '科學與學術'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -16,10 +16,10 @@ imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Chen_Wen-Yu_1.jpg'
 curation: 'incubating'
 translatedFrom: 'People/陳文郁.md'
-sourceCommitSha: '67c4c72fc'
+sourceCommitSha: 'd3a973ae06'
 sourceContentHash: 'sha256:3facf31822b994ad'
 sourceBodyHash: 'sha256:93a5825f5b11a6f9'
-translatedAt: '2026-11-19T10:46:36.257115+00:00'
+translatedAt: '2026-11-25T06:08:15.012712+00:00'
 ---
 
 ![진원위와 동료 및 수박](/article-images/people/chen-wen-yu-1.webp)
