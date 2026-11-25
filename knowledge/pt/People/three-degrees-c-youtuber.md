@@ -1,16 +1,10 @@
 ---
-title: 'Três Graus C: dos três graus do banho frio a um caminho de um milhão de inscritos'
-description: 'A história de Hsieh Meng-hang, de estudante de ciências de cabeleireiro a YouTuber de um milhão de inscritos, reunindo memes, desafios e produção audiovisual no mesmo ateliê criativo'
+title: '3°C: Transformando o banho frio de 3 graus em um caminho de um milhão de inscritos'
+description: 'Um ex-aluno de ciências de cabeleireiro que se tornou um criador de vídeos em tempo integral com um milhão de inscritos; seu nome na internet vem de tomar banhos frios em invernos de 3 °C. Ele transforma risadas contidas, danças, memes e desafios em conteúdo de entretenimento: primeiro faz o público parar por causa de um nome, depois usa planejamento, filmagem e edição para transformar a atenção em um trabalho sustentável a longo prazo. Mais tarde, como diretor, cinegrafista e editor, participou da produção de videoclipes, transformando uma piada particular em uma persona pública e, em seguida, desdobrando essa persona de volta em planejamento, filmagem e colaborações.'
 date: 2026-08-20
 category: 'People'
 tags:
-  [
-    'Cultura',
-    'YouTuber',
-    'Cultura da Internet',
-    'Memes',
-    'Produção Audiovisual',
-  ]
+  ['Cultura', 'YouTuber', 'Cultura da internet', 'Memes', 'Produção de vídeo']
 subcategory: '網路文化'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -18,21 +12,21 @@ lastVerified: 2026-08-20
 lastHumanReview: false
 curation: 'incubating'
 translatedFrom: 'People/3度C.md'
-sourceCommitSha: 'e64a7fba4'
-sourceContentHash: 'sha256:71bd23c9a7becdb3'
-sourceBodyHash: 'sha256:ac800d2068dd019e'
-translatedAt: '2026-09-11T05:40:15+08:00'
+sourceCommitSha: '45b1bf37e0'
+sourceContentHash: 'sha256:512116c709aae71c'
+sourceBodyHash: 'sha256:41b6c45553399776'
+translatedAt: '2026-11-25T04:15:39.169709+00:00'
 ---
 
-> **Resumo em 30 segundos:** Três Graus C é a marca de criação no YouTube de Hsieh Meng-hang. O nome não vem de produtos 3C, mas dos seus tempos de estudo na China continental, quando tomou banho frio a 3 °C no inverno, valendo-lhe o apelido de "Três Graus" dos amigos. Ele transforma resistir ao riso, dança, memes, desafios e histórias reais em conteúdo de entretenimento; mais tarde, atua como diretor, diretor de fotografia e editor em videoclipes. O contra-intuitivo do Três Graus C está em que, embora pareça fazer rir com conteúdo absurdo, o que realmente acumula é a organização da performance corporal de uma pessoa, do ritmo de edição e do trabalho audiovisual num método criativo sustentável a longo prazo.
+> **Resumo em 30 segundos:** Três Graus C é a marca de criação no YouTube de Hsieh Meng-hang. O nome não vem de produtos 3C, mas sim do período em que ele estudava na China continental: certa vez, no inverno a 3 graus Celsius, tomou banho de água fria, e os amigos passaram a chamá-lo de "Três Graus". Ele transforma resistir ao riso, dança, memes, desafios e histórias reais em conteúdo de entretenimento; mais tarde, também atuou como diretor, fotógrafo e editor na produção de videoclipes. O contra-intuitivo do Três Graus C está no fato de que, embora pareça fazer rir com humor absurdo, o que ele realmente acumulou foi um método de criação sustentável que organiza a performance corporal de uma pessoa, o ritmo de edição e o trabalho de imagem.
 
-Em uma entrevista de 2022, Hsieh Meng-hang contou que muitos perguntam a origem de "Três Graus"; a resposta: durante os estudos na China continental, tomou banho frio a 3 °C. [^1] Um fragmento minúsculo, até um pouco absurdo, que se tornou o nome pelo qual é reconhecido na rede. A reportagem de perfil do 1111 em 2025 completa a trajetória: de estudante de ciências de cabeleireiro a criador audiovisual em tempo integral, com 7 anos de experiência e mais de 1,39 milhão de inscritos no momento da entrevista. [^2]
+Hsieh Meng-hang disse em uma entrevista de 2022 que muitas pessoas perguntam a origem de "Três Graus", e sua resposta é: durante os estudos na China continental, tomou banho de água fria a 3 graus Celsius.[^1] Trata-se de um pequeno fragmento de vida, até um pouco absurdo, que se tornou o nome pelo qual é reconhecido na internet. A reportagem de perfil do 1111 em 2025 completou sua trajetória: ele foi de estudante de ciências de cabeleireiro a criador de audiovisual em tempo integral, acumulando 7 anos de experiência na época da entrevista, com mais de 1,39 milhão de inscritos no canal.[^2]
 
-Essa trajetória é facilmente lida como "uma pessoa faz vídeos engraçados, depois fica famosa". A descrição mais precisa: o Três Graus C coloca um personagem facilmente memorável dentro de um formato audiovisual que troca constantemente de tema. Os conteúdos de resistir ao riso, dança e memes reportados pelo Ming Pao não parecem uma grade única de programação; parecem o criador testando até onde o público o acompanha. [^1] Os temas mudam, mas o público reconhece a mesma pessoa.
+Essa trajetória é facilmente lida como "uma pessoa faz vídeos engraçados e depois fica famosa". Uma descrição mais precisa é que o Três Graus C coloca um personagem facilmente memorável dentro de um formato de vídeo que troca constantemente de tema. Os conteúdos de resistir ao riso, dança e memes reportados pelo Ming Pao não parecem um mesmo programa, mas sim o criador testando até onde o público está disposto a segui-lo.[^1] Os temas mudam, mas o público continua reconhecendo a mesma pessoa.
 
 ![Paisagem noturna de Taipé, como cena da cultura de internet e experiência urbana de Taiwan](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%2720210501_Taipei_Night_Skyline.jpg/1280px-%2720210501_Taipei_Night_Skyline.jpg)
 
-_Legenda: Paisagem noturna de Taipé. Esta imagem não é um retrato do Três Graus C, mas serve para situar a cidade e o cenário da cultura digital onde atuam os criadores de Taiwan. Autor: Mao Mao Da Shao Ye, fonte: [página do arquivo no Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%2720210501_Taipei_Night_Skyline.jpg), licença CC BY-SA 2.0. Incorporada via hotlink do Wikimedia Commons, sem download ou re-hospedagem._
+_Descrição da imagem: Paisagem noturna de Taipé. Esta imagem não é um retrato do Três Graus C, mas serve para indicar a cidade e o cenário da cultura digital onde atuam os criadores de Taiwan. Autor da imagem: Mao Mao Da Shao Ye, fonte: [página do arquivo do Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%2720210501_Taipei_Night_Skyline.jpg), licença CC BY-SA 2.0. Incorporação via hotlink do Wikimedia Commons, sem download ou re-hospedagem da imagem._
 
 ## O nome antes da persona
 
@@ -98,22 +92,22 @@ Por isso, o Três Graus C não é só o dono do nome "Três Graus". É mais como
 
 ## Referências
 
-[^1]: [Top 100 Influenciadores 2021 Três Graus: apaixonado pelo trabalho, crescendo junto aos fãs | Ming Pao Notícias Imediatas](https://mol.mcu.edu.tw/2021%E7%99%BE%E5%A4%A7%E7%B6%B2%E7%B4%85%E4%B8%89%E5%BA%A6%E3%80%80%E7%86%B1%E6%84%9B%E5%B7%A5%E4%BD%9C%E5%92%8C%E7%B2%89%E7%B5%B2%E4%B8%80%E8%B5%B7%E6%88%90%E9%95%B7/) — Ver texto original para detalhes complementares
-
-[^2]: [De aprendiz de cabeleireiro a YouTuber de um milhão! O caminho de criação em tempo integral do Três Graus C "Economia KOL" | 1111 Banco de Empregos](https://www.1111.com.tw/news/jobns/159537) — Ver texto original para detalhes complementares
-
-[^3]: [Marca de luxo 80k vs. look 1500 para mulheres escolherem - resultado do teste real deixa influenciador em colapso: questão da "aparência" | EBC Entretenimento](https://ent.ebc.net.tw/buzz/122430) — Ver texto original para detalhes complementares
-
-[^4]: [Marca de luxo 80k vs. look 1500 para mulheres escolherem - resultado do teste real deixa influenciador em colapso: questão da "aparência" | Republicação Yahoo Notícias](https://tw.news.yahoo.com/8%E8%90%AC%E6%BD%AE%E7%89%8Cvs-1500%E5%85%83%E7%A9%BF%E6%90%AD%E7%B5%A6%E5%A5%B3%E7%94%9F%E9%81%B8-%E5%AF%A6%E6%B8%AC%E7%B5%90%E6%9E%9C%E7%B6%B2%E7%B4%85%E5%B4%A9%E6%BD%B0-%E9%95%B7%E7%9B%B8-%E5%95%8F%E9%A1%8C-095458302.html) — Reportagem Yahoo Notícias
-
-[^5]: [Chi Hsin-chiao (Qiao Qiao-er QQE) "Meteoro" | Brook Imagem Cultural Ltda.](https://m9535453m.com/631/) — Ver texto original para detalhes complementares
-
-[^6]: [Huichundan "Flores" | Falso Videoclipe MV | Brook Imagem Cultural Ltda.](https://m9535453m.com/626/) — Ver texto original para detalhes complementares
-
-[^7]: [Clássico 90 Noite de Fotografia na Rua Velha de Yingge | Registro de Evento | Brook Imagem Cultural Ltda.](https://m9535453m.com/643/) — Ver texto original para detalhes complementares
-
-[^8]: [Magnata dos Pombos-Correio | Vídeo de Imagem de Marca | Brook Imagem Cultural Ltda.](https://m9535453m.com/649/) — Ver texto original para detalhes complementares
-
 ### Licença da imagem
 
-A imagem usa o arquivo do Wikimedia Commons [File:'20210501 Taipei Night Skyline.jpg](https://commons.wikimedia.org/wiki/File:%2720210501_Taipei_Night_Skyline.jpg), autor Mao Mao Da Shao Ye, licença [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). A imagem é incorporada via hotlink do Wikimedia Commons, sem download, modificação ou armazenamento no `public/article-images/` do Taiwan.md.
+A imagem utiliza o Wikimedia Commons [File:'20210501 Taipei Night Skyline.jpg](https://commons.wikimedia.org/wiki/File:%2720210501_Taipei_Night_Skyline.jpg), autor 毛貓大少爺, licenciada sob [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). A imagem é incorporada via hotlink do Wikimedia Commons, não foi baixada, não foi modificada, nem armazenada no `public/article-images/` do Taiwan.md.
+
+[^1]: [2021 Top 100 Influenciadores: San Du – Amando o trabalho e crescendo junto aos fãs | Notícias Instantâneas Ming Bao](https://mol.mcu.edu.tw/2021%E7%99%BE%E5%A4%A7%E7%B6%B2%E7%B4%85%E4%B8%89%E5%BA%A6%E3%80%80%E7%86%B1%E6%84%9B%E5%B7%A5%E4%BD%9C%E5%92%8C%E7%B2%89%E7%B5%B2%E4%B8%80%E8%B5%B7%E6%88%90%E9%95%B7/) — Consulte o link original para detalhes complementares
+
+[^2]: [De aprendiz de cabeleireiro a YouTuber milionário! A jornada de criação em tempo integral de San Du C 'Economia KOL' | 1111 Banco de Talentos](https://www.1111.com.tw/news/jobns/159537) — Consulte o link original para detalhes complementares
+
+[^3]: [Marcas de tendência de NT$80.000 vs. looks de NT$1.500 para garotas escolherem - Resultado do teste real deixa influenciadora em colapso: 'problema de aparência' | EBC Entretenimento](https://ent.ebc.net.tw/buzz/122430) — Consulte o link original para detalhes complementares
+
+[^4]: [Marcas de tendência de NT$80.000 vs. looks de NT$1.500 para garotas escolherem - Resultado do teste real deixa influenciadora em colapso: 'problema de aparência' | Reprodução Yahoo Notícias](https://tw.news.yahoo.com/8%E8%90%AC%E6%BD%AE%E7%89%8Cvs-1500%E5%85%83%E7%A9%BF%E6%90%AD%E7%B5%A6%E5%A5%B3%E7%94%9F%E9%81%B8-%E5%AF%A6%E6%B8%AC%E7%B5%90%E6%9E%9C%E7%B6%B2%E7%B4%85%E5%B4%A9%E6%BD%B0-%E9%95%B7%E7%9B%B8-%E5%95%8F%E9%A1%8C-095458302.html) — Reportagem do Yahoo Notícias
+
+[^5]: [Ji Xin Qiao (Qiao Qiao Er QQE) 'Meteor Passes' | Brook Imaging Culture Co., Ltd.](https://m9535453m.com/631/) — Consulte o link original para detalhes complementares
+
+[^6]: [Hui Chun Dan 'Flowers' | Fake Music Video MV | Brook Imaging Culture Co., Ltd.](https://m9535453m.com/626/) — Consulte o link original para detalhes complementares
+
+[^7]: [Classic 90 Yingge Old Street Photography Night | Registro do Evento | Brook Imaging Culture Co., Ltd.](https://m9535453m.com/643/) — Consulte o link original para detalhes complementares
+
+[^8]: [Pigeon Racing Tycoon | Vídeo de Imagem da Marca | Brook Imaging Culture Co., Ltd.](https://m9535453m.com/649/) — Consulte o link original para detalhes complementares

@@ -1,9 +1,10 @@
 ---
 title: 'Chen Cheng-po'
-description: 'Ele conquistou o Império do Japão com a sua pintura a óleo, mas foi fuzilado diante da estação de Chiayi — e o que o tornou conhecido costuma ser a morte, não as telas.'
+description: 'Um pintor a óleo originário de Chiayi, a primeira pessoa de Taiwan a ter uma pintura a óleo selecionada para a Exposição de Arte Imperial Japonesa. Ele lecionou em Xangai por quatro anos, convivendo com Zhang Daqian, Pan Yuliang e outros; ao retornar a Taiwan, criou obras-primas como "Pôr do Sol em Tamsui". Durante o Incidente 228, ele atuou como representante nas negociações no aeroporto de Shuishang, sendo fuzilado em frente à estação de Chiayi. Sua esposa, Chang Chieh, escondeu várias centenas de pinturas no sótão e queimou as molduras na porta de casa; elas permaneceram escondidas por trinta anos. "Pôr do Sol em Tamsui" foi posteriormente leiloado por cerca de NT$220 milhões, permanecendo até hoje o recorde de leilão para uma pintura a óleo de um pintor taiwanês.'
 date: 2026-03-31
 category: 'People'
-tags: ['Arte', 'Pintura', '228', 'Chiayi', 'Período Colonial Japonês']
+tags:
+  ['Arte', 'Pintura', 'Incidente 228', 'Chiayi', 'Período do domínio japonês']
 subcategory: '藝術家'
 author: 'Taiwan.md'
 featured: false
@@ -12,10 +13,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/陳澄波.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '45b1bf37e0'
 sourceContentHash: 'sha256:485587af49d56815'
 sourceBodyHash: 'sha256:433a66ecaa1d5d52'
-translatedAt: '2026-11-04T22:35:34.474589+00:00'
+translatedAt: '2026-11-25T03:58:28.188178+00:00'
 ---
 
 > **Resumo em 30 segundos:** A 25 de março de 1947, diante da estação ferroviária de Chiayi, um homem que empunhava pincéis teve as mãos atadas com arame farpado e foi fuzilado em plena rua. Chamava-se Chen Cheng-po, o primeiro taiwanês a entrar na Exposição Imperial de Arte do Japão (Teiten) com uma pintura a óleo, e também o negociador do Incidente 228 que partiu para conversar e nunca regressou.

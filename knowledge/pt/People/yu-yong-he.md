@@ -1,13 +1,13 @@
 ---
-title: 'Yu Yung-ho'
-description: 'Em 1697, um estudioso de Hangzhou voluntariou-se para ir à terra miasmática de Taiwan extrair enxofre, caminhando a pé de Tainan até Beitou, escrevendo a primeira literatura documental do norte de Taiwan'
+title: 'Yu Yonghe'
+description: 'Um estudioso de Hangzhou, Zhejiang, que se voluntariou para atravessar o mar rumo a Taiwan para coletar enxofre após um incêndio no depósito de pólvora de Fuzhou no 35º ano do reinado de Kangxi. Partindo da capital de Tainan em uma carroça puxada por bois, ele viajou para o norte, atravessando as planícies ocidentais em vinte dias e passando por mais de dez tribos indígenas até chegar à região de enxofre de Beitou. Sua jornada de nove meses em Taiwan resultou na obra "Bi Hai Ji You" (Relatos de Viagens pelo Mar), que se tornou um clássico precoce no registro da geografia humana do norte de Taiwan. Ao ver os povos indígenas dormindo ao relento na lama, ele escreveu "também são seres humanos", uma reflexão rara em uma era em que a Dinastia Qing considerava os indígenas como povos bárbaros, deixando também registros preciosos sobre o mistério do Lago de Taipei durante o reinado de Kangxi.'
 date: 2026-03-25
 category: 'People'
 tags:
   [
-    'Figuras',
-    'Yu Yung-ho',
-    'Pi-hai Chi-yu',
+    'Personalidade',
+    'Yu Yonghe',
+    'Bi Hai Ji You',
     'Dinastia Qing',
     'Exploração',
     'Beitou',
@@ -23,10 +23,10 @@ readingTime: 10
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/郁永河.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:4070459913f1808f'
 sourceBodyHash: 'sha256:f14cb1a2a50dc23e'
-translatedAt: '2026-11-04T21:36:17.810371+00:00'
+translatedAt: '2026-11-25T04:20:35.072990+00:00'
 ---
 
 # Yu Yung-ho

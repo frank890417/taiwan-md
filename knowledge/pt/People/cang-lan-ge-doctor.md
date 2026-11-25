@@ -1,16 +1,10 @@
 ---
-title: 'O Pombo Azul-Acinzentado: trazendo a distância da bata branca para a frente das câmeras'
-description: 'Do canal médico no YouTube de 2017 às explicações sobre vacinas durante a pandemia, Wu Chi-ying coloca a expertise médica, a performance e a comunicação pública na mesma mesa.'
+title: "Blue Pigeon: Trazendo a distância de 'The White Coat Diaries' para frente das câmeras"
+description: 'Médico pediatra formado pela Faculdade de Medicina da Universidade Nacional Taiwan, atualmente atua como médico assistente na unidade de Beitou do Apple Tree. Desde 2017, gerencia o canal "O Mundo Médico de Blue Pigeon", evoluindo de conhecimentos técnicos para análises de dramas médicos e comentários sobre atualidades; durante a pandemia, entrou no debate público com vídeos explicativos sobre vacinas. Com o lema de "explicar a medicina de uma forma que o público entenda", ele utiliza o YouTube para análise de filmes e séries, o Podcast para discutir notícias médicas e o blog Fanggezi para textos longos, além de publicar livros e ministrar palestras, mantendo sempre uma linha ética entre profissionalismo, entretenimento e parcerias comerciais.'
 date: 2026-08-16
 category: 'People'
 tags:
-  [
-    'Pombo Azul-Acinzentado',
-    'Wu Chi-ying',
-    'divulgação médica',
-    'YouTube',
-    'saúde pública',
-  ]
+  ['Blue Pigeon', 'Wu Qi-ying', 'Divulgação Médica', 'YouTube', 'Saúde Pública']
 subcategory: '醫療與公共溝通'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -19,10 +13,10 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/蒼藍鴿.md'
-sourceCommitSha: 'a7bf511aa'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:1a1a9598d9221fe9'
 sourceBodyHash: 'sha256:74a863b5d0baa755'
-translatedAt: '2026-09-10T07:58:50+08:00'
+translatedAt: '2026-11-25T03:38:40.213928+00:00'
 ---
 
 > **Visão geral em 30 segundos:**

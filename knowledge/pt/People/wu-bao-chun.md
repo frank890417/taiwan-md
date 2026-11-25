@@ -1,17 +1,17 @@
 ---
-title: 'Wu Pao-chun: uma promessa a uma criança paiwan'
-description: 'Filho de uma família rural de Pingtung, com apenas o ensino fundamental e sem falar francês, ele conquistou em Paris a primeira medalha de ouro mundial do Masters de la Boulangerie com um pão de lichia e rosas — que carregava uma promessa feita dez anos antes a uma criança indígena.'
+title: 'Wu Po-chun: Uma Promessa para as Crianças Paiwan'
+description: 'O caçula de oito irmãos que cresceu na zona rural de Neipu, Pingtung, perdeu o pai aos doze anos e mudou-se para o norte aos quinze para começar como aprendiz de padeiro. Ele aprendeu francês por conta própria para ler livros de panificação franceses. Em 2008, conquistou a prata no World Bread Cup com um pão de licor de arroz e longan; em 2010, em Paris, ganhou o ouro no Coupe du Monde de la Boulangerie com um pão de lichia e rosa que incorporava o vinho de milho da etnia Paiwan, tornando-se o primeiro padeiro do mundo a conquistar o ouro de mestre. Os juízes franceses descreveram como o melhor pão francês já provado. Devido aos seus estudos de pós-graduação, ele impulsionou uma mudança na legislação do Ministério da Educação de Taiwan, sendo conhecido como a "Cláusula Wu Po-chun".'
 date: 2026-04-05
 category: 'People'
 tags:
   [
     'Gastronomia',
     'Panificação',
-    'Espírito artesanal',
-    'Campeão mundial',
+    'Espírito Artesanal',
+    'Campeão Mundial',
     'Pingtung',
     'Pão',
-    'Povos indígenas',
+    'Povos Indígenas',
   ]
 subcategory: '餐飲與職人'
 author: 'Taiwan.md'
@@ -22,10 +22,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/吳寶春.md'
-sourceCommitSha: 'b1a5fea00'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:1b0b64c23c091c1f'
 sourceBodyHash: 'sha256:e355ad9581f498f8'
-translatedAt: '2026-11-18T14:03:31.134847+00:00'
+translatedAt: '2026-11-25T04:22:54.640398+00:00'
 ---
 
 # Wu Pao-chun: uma promessa a uma criança paiwan

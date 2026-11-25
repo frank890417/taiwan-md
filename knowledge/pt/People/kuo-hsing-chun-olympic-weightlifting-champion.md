@@ -1,19 +1,19 @@
 ---
-title: 'Kuo Hsing-chun: da lesão causada por 141 kg ao pódio de três Jogos Olímpicos no halterofilismo'
-description: 'Halterofilista de Taiwan, medalhista em três Jogos Olímpicos (bronze em 2016, ouro em 2021, bronze em 2024), detentora do recorde mundial na categoria 59 kg, descendente da tribo Marlane do povo Amis'
+title: 'Kuo Hsing-chun: Da lesão causada por 141 kg à trajetória de medalhas em três Olimpíadas no levantamento de peso'
+description: 'A levantadora de peso mais bem-sucedida da história de Taiwan, descendente da tribo Malan do povo Amis, nasceu em 1993 em Luodong, Yilan. Ao longo de sua carreira, quebrou recordes mundiais onze vezes. Em 2014, sofreu uma lesão na coxa direita após ser atingida por uma barra de 141 kg; posteriormente, doou o prêmio de suas competições para comprar uma ambulância para o Hospital Huimin em Penghu. Conquistou a medalha de bronze nos Jogos Olímpicos do Rio em 2016, o ouro nos Jogos Olímpicos de Tóquio em 2021 com 236 kg (quebrando três recordes olímpicos) e a medalha de bronze nos Jogos Olímpicos de Paris em 2024, apesar das lesões. Ela se tornou a primeira atleta de Taiwan a conquistar medalhas em três Olimpíadas consecutivas e mantém doações constantes para apoiar áreas rurais.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Perfil',
+    'Personalidade',
     'Kuo Hsing-chun',
-    'Halterofilismo',
-    'Jogos Olímpicos',
-    'Medalha de Ouro',
+    'Levantamento de peso',
+    'Olimpíadas',
+    'Medalha de ouro',
     'Atleta',
     'Taiwan',
-    'Amis',
-    'Povos Indígenas',
+    'Povo Amis',
+    'Povos indígenas',
   ]
 subcategory: '體育'
 author: 'Taiwan.md'
@@ -21,10 +21,10 @@ featured: false
 lastVerified: 2026-05-16
 lastHumanReview: true
 translatedFrom: 'People/郭婞淳.md'
-sourceCommitSha: '85926aa3b'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:92e1170fe2ebdab8'
 sourceBodyHash: 'sha256:45d6a810707daa5c'
-translatedAt: '2026-07-26T12:49:16+08:00'
+translatedAt: '2026-11-25T04:05:36.064940+00:00'
 ---
 
 # Kuo Hsing-chun

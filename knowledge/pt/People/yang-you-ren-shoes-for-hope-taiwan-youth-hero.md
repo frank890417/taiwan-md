@@ -1,15 +1,15 @@
 ---
-title: 'Yang Yu-jen'
-description: 'Fundador da Associação Internacional Cristã Step30 Sapatos Velhos Salvam Vidas, selecionado entre os Dez Jovens Mais Notáveis de 2017, reuniu cem mil pares de sapatos usados com um único cartaz para ajudar crianças do Leste Africano'
+title: 'Yang You-ren'
+description: 'Filho de uma família de fábrica de sapatos nascido em Taoyuan, foi estudar na Austrália aos 15 anos, abandonou os estudos duas vezes até que um pastor tatuado na quadra de basquete mudou o rumo de sua vida, retornando a Taiwan para trabalhar com aconselhamento de jovens. Em 2014, com um pôster de blog, arrecadou quase 100.000 pares de sapatos usados e os enviou ao Quênia, fundando a "Step30 Sapatos Usados Salvam Vidas", defendendo evitar a dependência de longo prazo e fazer com que o fim da ajuda seja a autossuficiência, desenvolvendo projetos de educação, água viva, amor às meninas e autossuficiência agrícola, atendendo doze países e mais de três milhões de pessoas, sendo selecionado em 2017 como um dos Dez Jovens Notáveis.'
 date: 2026-03-20
 category: 'People'
 tags:
   [
-    'Empresas Sociais de Taiwan',
+    'Empresa Social de Taiwan',
     'Ajuda Humanitária',
-    'Sapatos Velhos Salvam Vidas',
-    'Dez Jovens Mais Notáveis',
-    'Ajuda a África',
+    'Sapatos Usados Salvam Vidas',
+    'Dez Jovens Notáveis',
+    'Ajuda à África',
     'Ministério Cristão',
   ]
 subcategory: '社會與公益'
@@ -20,10 +20,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/楊右任.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:2a0a298fc7d510ca'
 sourceBodyHash: 'sha256:aeccc38efb53dc79'
-translatedAt: '2026-11-04T20:45:50.347039+00:00'
+translatedAt: '2026-11-25T04:25:30.755090+00:00'
 ---
 
 # Yang Yu-jen: Do Dropout Grafiteiro ao Resgate de Sapatos Velhos em África

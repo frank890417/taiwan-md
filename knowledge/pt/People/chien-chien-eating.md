@@ -1,15 +1,15 @@
 ---
-title: 'Chien-chien a Comer: a transformar "saber comer" num sabor de Taiwan'
-description: 'Ela primeiro foi notada pela sua grande capacidade de comer, mas depois transformou o tráfego em conteúdo e marca responsáveis perante a comida, o público e o sabor de Taiwan.'
+title: "Chien Chien Comendo: Transformando o 'Saber Comer' em um Sabor de Taiwan"
+description: "Originalmente enfermeira de pesquisa no Hospital Universitário Nacional de Taiwan, ela ganhou visibilidade através de competições de grandes comedores e deixou seu emprego estável para se tornar YouTuber em tempo integral. Primeiro, construiu sua identidade através da capacidade de comer, e gradualmente expandiu o canal para culinária, comidas locais e marcas. Em 2018, lançou o macarrão Qian Ban, optando pelo sabor de óleo de gergelim preto e sabores de sua terra natal em vez de seguir a tendência de comida apimentada; vendeu quase 30 mil pacotes no primeiro mês de lançamento, levando depois o projeto para food trucks em Taipei, Hsinchu, Taichung e Kaohsiung. Ela não deixou de ser uma grande comedora por comer menos, mas sim por compreender os alimentos com mais profundidade, fazendo com que 'comer muito' não seja mais sua única história."
 date: 2026-08-16
 category: 'People'
 tags:
   [
-    'Chien-chien a Comer',
+    'Chien Chien Comendo',
     'Hung Chien-shu',
     'YouTuber',
-    'mukbang',
-    'comida de Taiwan',
+    'Mukbang',
+    'Comida de Taiwan',
   ]
 subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
@@ -19,19 +19,19 @@ lastHumanReview: false
 readingTime: 7
 curation: 'incubating'
 translatedFrom: 'People/千千進食中.md'
-sourceCommitSha: '513bf256a'
-sourceContentHash: 'sha256:4bfc707dc97b4776'
-sourceBodyHash: 'sha256:685bed7af9ee32a1'
-translatedAt: '2026-09-12T11:18:08+08:00'
+sourceCommitSha: '45b1bf37e0'
+sourceContentHash: 'sha256:e967fd4cff734536'
+sourceBodyHash: 'sha256:1978cbe0e37b1512'
+translatedAt: '2026-11-25T04:18:58.454455+00:00'
 ---
 
-Em 2016, Hung Chien-shu (洪千淑) foi notada num concurso de grande comilão de um programa de televisão japonês; no ano seguinte, ficou em segundo lugar na categoria feminina de um concurso de soba, comendo 226 tigelas em cinco minutos.[^1] Em 2018, publicou um vídeo em que desafiava comer 100 salsichas em casa, e a imprensa transformou o episódio no quotidiano de uma "grande comilão bonita".[^2] Estes dois números fixam facilmente Chien-chien (千千) como uma espécie de espetáculo: ela é aquela que come mais do que os outros.
+Em 2016, Hung Chien-shu foi descoberta em uma competição de grandes comedores em um programa de televisão japonês; no ano seguinte, ela conquistou o segundo lugar na categoria feminina em uma competição de soba, consumindo 226 tigelas em cinco minutos. [^1] Em 2018, ela gravou um vídeo desafiando a si mesma a comer 100 salsichas em casa, e a mídia passou a descrever esse evento como o cotidiano de uma "beleza com apetite voraz". [^2] Esses dois números facilitam a rotulagem de Chien-chien como um mero espetáculo: ela seria apenas aquela pessoa que come mais do que os outros.
 
-![Noodles de carne de Taiwan; a imagem não é do mesmo produto dos noodles Chien-chien, serve apenas como ilustração editorial da cultura de noodles de Taiwan](https://commons.wikimedia.org/wiki/Special:FilePath/Taiwanese%20Beef%20Noodle%20Soup.jpg)
+![Noodles de carne de Taiwan; a imagem e os noodles Chien-mix não são o mesmo produto, servindo apenas como ilustração editorial da cultura de massas de Taiwan](https://commons.wikimedia.org/wiki/Special:FilePath/Taiwanese%20Beef%20Noodle%20Soup.jpg)
 
-_Imagem: Jjj84206／Wikimedia Commons, CC BY-SA 4.0; [detalhes e licença da imagem](https://commons.wikimedia.org/wiki/File:Taiwanese_Beef_Noodle_Soup.jpg). Esta imagem mostra noodles de carne de Taiwan, não é um produto fotografado ou vendido por Chien-chien a Comer._
+_Imagem: Jjj84206／Wikimedia Commons, CC BY-SA 4.0; [Detalhes e licenciamento da imagem](https://commons.wikimedia.org/wiki/File:Taiwanese_Beef_Noodle_Soup.jpg). Esta foto mostra noodles de carne de Taiwan, não sendo um produto filmado ou vendido durante as refeições de Chien-chien._
 
-Mas o que realmente vale a pena ficar em Chien-chien a Comer não é a quantidade que ela consegue comer, mas como ela passou a lidar com o "comer observado". Ela passou de enfermeira de investigação a YouTuber a tempo inteiro, usando primeiro a capacidade gástrica como fator de reconhecimento e, depois, deslocando lentamente o canal dos desafios de grande comilão para culinária, unboxing, comida local e marca. O contra-intuitivo deste percurso está em: **ela não saiu do rótulo de grande comilão atenuando o ato de comer, mas compreendendo a comida de forma mais minuciosa, para que "comer muito" deixasse de ser a única história.**
+Mas o que realmente merece ser preservado no percurso de Chien-chien não é o quanto ela consegue comer, mas sim como ela lidou posteriormente com o "ato de ser observada enquanto come". Ela passou de enfermeira a YouTuber em tempo integral, primeiro usando sua capacidade gástrica como um diferencial de reconhecimento e, gradualmente, expandindo seu canal de desafios de grandes comedores para culinária, unboxing, comidas locais e marcas. O aspecto contraintuitivo desse caminho é que: **ela não deixou de ser uma "grande comedora" ao diminuir a quantidade de comida, mas sim ao compreender os alimentos com mais profundidade, fazendo com que o "comer muito" deixasse de ser sua única história.**
 
 ## Primeiro vista como um estômago
 

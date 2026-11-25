@@ -1,6 +1,6 @@
 ---
-title: 'Chen Sihong: De Yongjing a Berlim, mas Sempre Alcançado pela Terra Natal'
-description: 'Ele passou mais de vinte anos fugindo de Yongjing, em Changhua, mas na distância de Berlim em relação ao mundo, escreveu de volta sobre família, gênero, corpo e aquelas terras natais que se recusam a desaparecer.'
+title: 'Chen Sihong: O escritor que fugiu de Yongjing para Berlim, mas foi constantemente alcançado por sua terra natal'
+description: 'Nascido em 1976 em uma família de agricultores em Yongjing, Changhua, é o nono filho, com sete irmãs e um irmão mais velho. Graduou-se em Inglês pela Universidade Fu Jen e em Estudos Teatrais pela Universidade Nacional Taiwan, indo para Berlim em 2004 como correspondente de uma emissora de televisão, integrando escrita, tradução e performance em seus anos na Europa. Sua obra "Ghost Station", publicada em 2019, utiliza Yongjing como cenário central e foi premiada com o Prêmio de Literatura de Taiwan e o Prêmio Jin Ding; sua versão em inglês foi selecionada para a lista de livros de outono do The New York Times, com direitos de publicação vendidos para doze idiomas. Enquanto tenta escapar de sua terra natal, ele escreve sobre Yongjing, família, gênero e corpo em seus romances.'
 date: 2026-09-03
 category: 'People'
 tags:
@@ -10,7 +10,7 @@ tags:
     'Yongjing',
     'Berlim',
     'Literatura LGBTQ+',
-    'Cidade Fantasma',
+    'Ghost Station',
   ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
@@ -20,10 +20,10 @@ lastHumanReview: false
 readingTime: 9
 curation: 'incubating'
 translatedFrom: 'People/陳思宏.md'
-sourceCommitSha: '8730173b1'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:614611394f0bdd05'
 sourceBodyHash: 'sha256:aa5e5b4b6a3ee873'
-translatedAt: '2026-09-10T07:58:50+08:00'
+translatedAt: '2026-11-25T03:53:16.896795+00:00'
 ---
 
 ![Mapa de localização do Township de Yongjing, Condado de Changhua, Wikimedia Commons, autor Essolo, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/d/d9/Tw_yj_map.png)
