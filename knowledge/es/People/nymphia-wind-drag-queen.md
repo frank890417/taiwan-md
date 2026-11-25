@@ -1,15 +1,15 @@
 ---
-title: 'Del sótano a la Oficina Presidencial: Nymphia Wind y la historia de empoderamiento de las drag queens en Taiwán'
-description: 'Un chico taiwanés que sufrió acoso escolar por su expresión de género logró llevar el arte del drag —considerado una subcultura— al escenario internacional, adoptando el «plátano» como símbolo para que el mundo contemplara la diversidad y la confianza de Taiwán.'
+title: 'Del sótano al Palacio Presidencial: Nymphia y la historia de autoempoderamiento de las drag queens de Taiwán'
+description: 'En 2024 ganó el campeonato de "RuPaul''s Drag Race", convirtiéndose en la primera drag queen taiwanesa en obtener este honor. Su nombre real es Cao Mi-he, nació en Los Ángeles y se mudó a Taiwán a los 6 años. En la escuela primaria sufrió acoso por su expresión de género. Estudió diseño de moda en el London College of Fashion en el Reino Unido, donde conoció el drag. Transformó el término antes despectivo "banana" en un símbolo de confianza, autodenominándose "Banana Buddha". Incorporó imágenes taiwanesas como el té de burbujas, las pinturas de templos y la ópera taiwanesa en sus vestuarios, pasando de fiestas underground al Palacio Presidencial, proclamando en el escenario internacional la existencia de Taiwán.'
 date: 2026-04-18
 category: 'People'
 tags:
   [
-    'Nymphia Wind',
-    'drag queen',
+    'Nymphia',
+    'Drag queen',
     'LGBTQ+',
-    'igualdad de género',
-    'cultura taiwanesa',
+    'Igualdad de género',
+    'Cultura taiwanesa',
     "RuPaul's Drag Race",
   ]
 subcategory: '音樂與表演'
@@ -20,10 +20,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/妮妃雅.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '1b9d5dfea6'
 sourceContentHash: 'sha256:10538bd4034afd34'
 sourceBodyHash: 'sha256:18c9609265b03371'
-translatedAt: '2026-11-04T20:28:09.935732+00:00'
+translatedAt: '2026-11-25T03:26:06.680152+00:00'
 ---
 
 > **Panorama en 30 segundos:** En 2024, la drag queen taiwanesa Nymphia Wind se coronó campeona de la temporada 16 de _RuPaul's Drag Race_, el reality show más seguido del mundo, convirtiéndose en la primera persona de Taiwán en obtener este galardón. Su triunfo no solo proyectó el arte del drag taiwanés a nivel internacional, sino que, por una notable coincidencia con el «Día de la Educación para la Igualdad de Género» en Taiwán, puso de manifiesto ante el mundo el espíritu de diversidad e inclusión de la isla. De los clubes subterráneos a la Oficina Presidencial, la historia de Nymphia Wind encarna un proceso de empoderamiento de casi tres décadas por parte de las minorías sexuales en Taiwán. Con el «plátano» como emblema, fusionó su experiencia vital con la cultura taiwanesa para proclamar con orgullo la existencia y la confianza de Taiwán ante el mundo.

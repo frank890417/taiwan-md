@@ -1,11 +1,11 @@
 ---
-title: 'Lin Po-lun: Nacido en Shanghái en 1949, fundador de Quanta Computer y el rey de la fabricación de portátiles tras veinte años luchando contra el cáncer'
-description: 'Nacido en Shanghái el 24/04/1949. Fundó Quanta Computer junto a Liang Ci-zhen y otros en 1988. Diagnosticado con adenocarcinoma de pulmón en 2005 (lleva más de 20 años luchando contra la enfermedad). Los ingresos de Quanta superaron los 2 billones en 2025; es un socio clave de servidores para NVIDIA y forma parte de Fortune 500. La sucesión de su hijo ha captado la atención. Seguirá desempeñándose como presidente en 2026.'
+title: 'Lin Bai-li: Shanghái 1949, fundador de Quanta Computer y rey de la fabricación ODM de portátiles tras 20 años luchando contra el cáncer'
+description: 'El rey de la fabricación ODM de portátiles, nacido en Shanghái en 1949 y crecido en Taiwán, fundó Quanta Computer en 1988 junto con C.C. Leung y otros, pasó de las placas base al ODM de portátiles y llegó a ser el mayor fabricante mundial de portátiles gracias a su capacidad de integración de diseño; tras ser diagnosticado de adenocarcinoma de pulmón en 2005, dirigió la empresa enfermo durante más de 20 años, creando un récord público de fuerza de voluntad. En 2025, los ingresos de Quanta superaron los NT$2 billones, ingresó en la Fortune 500 y se convirtió en un importante socio de servidores de IA de NVIDIA; en 2026 sigue siendo presidente, y la cuestión de la sucesión sigue atrayendo la atención externa.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Tecnología y empresas',
+    'Tecnología y empresa',
     'Quanta Computer',
     'Fabricación ODM',
     'Inteligencia artificial',
@@ -20,10 +20,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/林百里.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '1b9d5dfea6'
 sourceContentHash: 'sha256:4e6831b8d5040b1f'
 sourceBodyHash: 'sha256:98f02f5d889ec6c6'
-translatedAt: '2026-11-04T20:43:08.782820+00:00'
+translatedAt: '2026-11-25T03:33:53.271215+00:00'
 ---
 
 # Lin Bai-li: Shanghái 1949, fundador de Quanta Computer y rey del ensamblaje de portátiles que lleva veinte años luchando contra el cáncer

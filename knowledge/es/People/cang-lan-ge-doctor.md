@@ -1,10 +1,16 @@
 ---
-title: 'Canglán Ge: Llevar el distanciamiento del bata blanca al frente de la cámara'
-description: 'Desde el canal de YouTube médico de 2017 hasta la explicación de vacunas durante la pandemia, Wu Qiying pone la profesionalidad médica, la interpretación y la comunicación pública en la misma mesa.'
+title: "Blue Pigeon: Acercando la distancia de 'The Good Doctor' a la cámara"
+description: 'Pediatra graduado en la Facultad de Medicina de la Universidad Nacional de Taiwán y actual médico adjunto en la sucursal de Beidai de Apple Tree. Desde 2017 gestiona «El mundo médico de Blue Pigeon», evolucionando desde el conocimiento técnico hacia el análisis de series médicas y comentarios sobre la actualidad; durante la pandemia, sus vídeos explicativos sobre vacunas se integraron en el debate público. Bajo el lema «explicar la medicina de una forma que la audiencia pueda entender», utiliza YouTube para el análisis de series, Podcast para noticias médicas y la plataforma Fanggezzi para artículos extensos, además de publicar libros y dirigir conferencias, manteniendo siempre un límite justo entre lo profesional, lo artístico y las colaboraciones comerciales.'
 date: 2026-08-16
 category: 'People'
 tags:
-  ['Canglán Ge', 'Wu Qiying', 'divulgación médica', 'YouTube', 'salud pública']
+  [
+    'Blue Pigeon',
+    'Wu Chi-ying',
+    'Divulgación médica',
+    'YouTube',
+    'Salud pública',
+  ]
 subcategory: '醫療與公共溝通'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -13,10 +19,10 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/蒼藍鴿.md'
-sourceCommitSha: 'a7bf511aa'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:1a1a9598d9221fe9'
 sourceBodyHash: 'sha256:74a863b5d0baa755'
-translatedAt: '2026-09-11T01:35:01+08:00'
+translatedAt: '2026-11-25T03:37:34.818848+00:00'
 ---
 
 > **Resumen en 30 segundos:**

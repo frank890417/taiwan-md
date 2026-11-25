@@ -1,35 +1,36 @@
 ---
-title: '凹與山: dos oficinistas del sector tecnológico usan sintetizadores para expresar lo que no pueden decir en la oficina'
-description: '凹與山 (Our Shame) es un dúo taiwanés de folktronica. Sus integrantes, 小凹 (voz principal, sintetizadores, productora) e Isan (batería, pad), se conocieron en el club de música de su instituto. Durante la universidad formaron un dúo de folk acústico que en 2015 ganó el premio de composición del 金韶獎. Tras graduarse, ambas trabajaron en el sector tecnológico. En el invierno de 2018 rebautizaron su antiguo grupo de folk "魏小凹" como "凹與山": 小凹 compró un sintetizador, Isan cambió a pad y su sonido viró hacia la folktronica. En 2022, tras el fallecimiento de una amiga cercana de 小凹, esta dejó su empleo a tiempo completo y la banda lanzó su álbum debut 《Modern Problem》, nominado en la 13.ª edición de los 金音獎 a Mejor Álbum de Pop Alternativo y Mejor Artista Revelación. El 4 de agosto de 2025 publicaron su segundo álbum, 《Hidden Album》, con un equipo de producción internacional que incluye al mezclador británico ganador del Grammy Jay Reynolds, al ingeniero estadounidense ganador del Grammy Brian Elgin (quien ha trabajado con Dua Lipa y Lana Del Rey) y al colectivo japonés ASOBOiSM. El tema del álbum pasa de "la ansiedad tecnológica" (Modern Problem) a "las sombras de la humanidad ocultas por la tecnología": autolesiones, amores prohibidos, estafas con criptomonedas, experiencias corporales femeninas. Una de las canciones, 〈Miffy〉, rinde homenaje a la activista 陳梅慧.'
+title: 'Ao & Shan: Dos empleadas del sector tecnológico que usan sintetizadores para expresar lo que no pueden decir en la oficina'
+description: 'El dúo taiwanés de folktrónica, Xiao Ao e Isan, se conocieron en el club de música rock de su escuela secundaria. En 2015, ganaron el premio Golden Melody en la categoría de Mejor Grupo de Composición con su estilo folk acústico. Tras graduarse, ambas se convirtieron en empleadas del sector tecnológico. En el invierno de 2018, cambiaron tanto su nombre como sus instrumentos: Xiao Ao compró sintetizadores e Isan comenzó a usar pads. En 2022, tras la pérdida de un amigo cercano, Xiao Ao renunció a su trabajo a tiempo completo; su primer álbum, «Modern Problem», fue nominado en los Golden Indie Music Awards a Mejor Pop Alternativo y Mejor Artista Revelación. Mientras que su primer disco hablaba de la ansiedad provocada por la tecnología, en 2025, con «Hidden Album», se centran en aquello que la tecnología logra ocultar.'
 date: 2026-04-18
-author: 'Taiwan.md'
-category: People
-subcategory: 音樂與表演
+category: 'People'
 tags:
   [
-    Personaje,
-    凹與山,
-    Our Shame,
-    小凹,
-    Isan,
-    Folktronica,
-    Folktronica,
-    Música independiente,
-    金音獎,
-    金韶獎,
-    Modern Problem,
-    Hidden Album,
-    Sintetizador,
+    'Personajes',
+    'Ao & Shan',
+    'Our Shame',
+    'Xiao Ao',
+    'Isan',
+    'Folktronica',
+    'Folktrónica',
+    'Música independiente',
+    'Golden Indie Music Awards',
+    'Golden Melody Awards',
+    'Modern Problem',
+    'Hidden Album',
+    'Sintetizador',
   ]
-readingTime: 16
+subcategory: '音樂與表演'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-18
 lastHumanReview: true
-featured: false
-translatedFrom: People/凹與山.md
-sourceCommitSha: '4b6d28c5'
+researchReport: 'reports/research/2026-04/凹與山.md'
+readingTime: 16
+translatedFrom: 'People/凹與山.md'
+sourceCommitSha: '30ab24424f'
 sourceContentHash: 'sha256:fb2f6f7aedcd6d81'
 sourceBodyHash: 'sha256:99f87ca9cdb0ab32'
-translatedAt: 2026-05-01T20:54:23+08:00
+translatedAt: '2026-11-25T03:08:19.690164+00:00'
 ---
 
 > **Resumen en 30 segundos:** 凹與山 (Our Shame) es un dúo taiwanés de folktronica compuesto por la vocalista 小凹 (Estelle H) y la baterista Isan. Se conocieron en el club de música del instituto y, durante la universidad, con una formación de folk acústico, ganaron en 2015 el **premio de composición del 金韶獎** (versión demo acústica de 〈親愛的〉). Tras graduarse, ambas entraron a trabajar en el sector tecnológico. En el invierno de 2018 rebautizaron su antiguo grupo de folk "魏小凹" como "凹與山": 小凹 compró un sintetizador, Isan cambió a pad y viraron hacia la folktronica. En 2019 lanzaron el EP 《一切好事都會發生》, mezclado por el productor japonés premiado AKNIT. En 2022, el álbum debut 《Modern Problem》 recibió **doble nominación en la 13.ª edición de los 金音獎** (Mejor Álbum de Pop Alternativo y Mejor Artista Revelación), con un 60% de canciones en inglés. El 4 de agosto de 2025 se publicó el segundo álbum, 《Hidden Album》, con un equipo de producción internacional que incluye al mezclador británico ganador del Grammy Jay Reynolds, al ingeniero estadounidense ganador del Grammy Brian Elgin (quien ha trabajado con Dua Lipa y Lana Del Rey), al colectivo japonés ASOBOiSM y al francés Odd People Club. El tema pasa de "la ansiedad tecnológica" a "las sombras de la humanidad ocultas por la tecnología": autolesiones, amores prohibidos, estafas con criptomonedas, experiencias corporales femeninas. La canción 〈Miffy〉 rinde homenaje a la activista 陳梅慧. El 4 de enero de 2026 se celebró el concierto homónimo de 《Hidden Album》.

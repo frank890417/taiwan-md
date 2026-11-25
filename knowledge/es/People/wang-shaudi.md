@@ -1,157 +1,155 @@
 ---
-title: "Wang Shaudi: 'El chico de la sexta década' y la revolución silenciosa de la televisión taiwanesa"
-description: "Hijo de un general convertido en adolescente rebelde, y de adolescente rebelde a 'madrina' de la teleserie taiwanesa. Cuarenta años de Wang Shaudi para demostrar que hacer televisión también puede ser un movimiento social."
+title: 'Wang Shaudi: el chico sexagenario y la suave revolución de la televisión de Taiwán'
+description: 'Directora de dramas televisivos taiwanesa, hija del general Wang Sheng, figura clave del aparato de inteligencia durante la ley marcial, dedicó su carrera a retratar a la gente común. Ganó el Golden Horse al mejor guion original con *El espantapájaros*; desde finales de los 80 rodó en CTV dramas familiares como *Retrato familiar* y *La gallina y sus polluelos*; en 1992 fundó Rice Film Studio y para la televisión pública creó series laborales como *El hospital*. Recibió el Premio Nacional de las Artes en 2014, lanzó Qseries Drama Platform en 2016 para formar nuevos actores y explorar géneros, y en 2022 estrenó Zhuo Theater; los más jóvenes la llaman «maestra Xiao Di».'
 date: 2026-03-28
+category: 'People'
 tags:
   [
-    'Director',
-    'Televisión',
-    'Cine',
-    'Q-Series',
-    'PTS',
+    'director',
+    'televisión',
+    'cine',
+    'Qseries Drama Platform',
+    'televisión pública',
     'Premios Golden Bell',
     'LGBTQ+',
   ]
 subcategory: '藝術與文化人物'
 author: 'Taiwan.md'
-category: 'People'
 featured: false
 lastVerified: 2026-03-28
 lastHumanReview: true
 translatedFrom: 'People/王小棣.md'
-sourceCommitSha: '3638ec15'
+sourceCommitSha: '20dcddf339'
 sourceContentHash: 'sha256:50eb815f9c92fea3'
 sourceBodyHash: 'sha256:1ab1bdb7f132ff60'
-translatedAt: '2026-05-13T01:08:31Z'
+translatedAt: '2026-11-25T08:44:38+08:00'
 ---
 
-# Wang Shaudi: "El chico de la sexta década" y la revolución silenciosa de la televisión taiwanesa
+> **Resumen en 30 segundos:** Wang Shaudi es una de las directoras de drama televisivo más importantes de Taiwán; durante cuarenta años ha formado a toda una generación de actores y guionistas. Su padre, el general Wang Sheng, dirigía el aparato de inteligencia en la época de la ley marcial; ella, en cambio, eligió dar voz a los pequeños. Desde _Retrato familiar_ (1989) hasta Qseries Drama Platform (2016), su cámara ha registrado la dignidad de los márgenes de la sociedad taiwanesa, demostrando con hechos que hacer televisión es una forma de activismo social. En 2014 recibió el Premio Nacional de las Artes.
 
-> **Resumen en 30 segundos:** Wang Shaudi es una de las directoras de teleserie más importantes de Taiwán; en cuarenta años ha formado a toda una generación de actores y guionistas. Su padre fue [[Wang Sheng]], general en jefe del aparato de información durante la ley marcial, y aun así Wang Shaudi tomó el camino de hablar por la gente común. De _Familia entera_ en los años ochenta a [[Q-Series]] en 2016, ha registrado con su cámara la dignidad de las clases populares taiwanesas y ha demostrado, con su práctica, que hacer televisión es un movimiento social. En 2014 recibió el Premio Nacional de las Artes.
+## Las lágrimas del profesor de matemáticas
 
-## Las lágrimas de la profesora de matemáticas
+1953: Wang Shaudi nace en Taipéi en una familia militar. Su padre, Wang Sheng, general del ejército, era hombre de confianza de Chiang Ching-kuo y jefe del Departamento General de Guerra Política del Ministerio de Defensa Nacional durante la ley marcial: figura central del sistema de inteligencia y trabajo político taiwanés. Cinco hijos en casa; Wang Shaudi, la cuarta, era la única indomable.
 
-Wang Shaudi nació en 1953 en una familia militar de Taipéi. Su padre, [[Wang Sheng]], fue general del Ejército, persona de confianza de Chiang Ching-kuo y, durante la ley marcial, jefe de la Dirección General de Guerra Política del Ministerio de Defensa Nacional, núcleo del aparato de información de Taiwán. De cinco hijos, Wang Shaudi era la cuarta, y la única indomable.
+> «En casa nadie fumaba ni jugaba a las cartas; en la mesa había solo unas cerillas y cigarrillos para las visitas. Yo, en quinto o sexto de primaria, por curiosidad me llevé un cigarro al baño, me dio un ahogo, nadie me había enseñado.» (Entrevista en _Mirror Media_)
 
-"En mi casa nadie fumaba ni jugaba a las cartas; en la mesa había unas cerillas y unos cigarrillos para las visitas. En quinto o sexto de primaria, por curiosidad cogí un cigarrillo y me fui al baño; me asfixié, nadie me había enseñado." (Entrevista en _Mirror Media_.)
+Fumaba, faltaba a clase, cambió tres veces de primaria. En el internado de Jinling Girls' High School, en invierno tiraba el agua del primer box de duchas hasta el último. Cuando metía la pata fuera, al volver el hermano mayor la esperaba en la puerta para pegarle, y luego llegaba el padre. «Tampoco es que no tuviera miedo, pero en cuanto empezaba a jugar, lo olvidaba todo.»
 
-Fumaba, hacía novillos; pasó por tres escuelas de primaria. En el internado del instituto femenino Jinling tiraba agua de cubo en cubo por el suelo del baño, en pleno invierno. Si se metía en líos fuera, en casa la esperaba el hermano mayor para pegarle, y luego venía el padre. "Tampoco es que no tuviera miedo, pero cuando me ponía a jugar lo olvidaba todo."
+Sacaba unidades en mates; las clases particulares no servían. El padre negó con la cabeza y dijo que la cambiaría de colegio. En el despacho los adultos departían; ella bajó del tercer al primer piso corriendo y gritando «¡Adiós a todos, me voy a otro colegio!». Resultado: al subir al coche el padre le dijo que el profesor de mates le había contado que Wang Shaudi era muy lista: el profesor explicaba tres veces cada ejercicio, ella lo pillaba a la primera y se dormía. No hubo cambio de colegio.
 
-Sacaba dígitos en matemáticas, ni con clases particulares mejoraba. El padre, harto, decidió cambiarla de colegio. Mientras los adultos hablaban en el despacho, ella bajaba corriendo del tercer al primer piso gritando "¡adiós a todos, me cambio de cole!". Pero al subir al coche el padre le dijo que la profesora de matemáticas le había contado que era inteligísima: cada problema lo explicaba tres veces a toda la clase y, ya en la primera, ella lo entendía y se echaba a dormir. Decisión revocada: no se cambiaba.
+Después la geometría dio paso al álgebra, y la nota subió de la decena al 95. Pero al cambiar de tema, nuevo desplome. El día de la graduación, la profesora de mates, con su _qipao_, le preguntó qué haría si no hacía el examen de ingreso. Ella contestó: «Jugar al baloncesto». La profesora no dijo nada; ella creyó que la iba a golpear: _plas_, le cayó una lágrima: «Wang Shaudi, tú… qué lástima. Vuelve a tu sitio.»
 
-A partir de ahí pasaron de geometría a álgebra; sus notas saltaron de 10 y pico a 95. Pero al cambiar de tema volvía a desplomarse. El día de la graduación, la profesora —vestida con el qipao— le preguntó qué pensaba hacer si no se presentaba a la selectividad. "Jugar al baloncesto", respondió. La profesora se quedó muda; ella esperaba un golpe. _Plac_: la profesora se echó a llorar. "Wang Shaudi, qué pena, vete a casa."
+> **📝 Nota del comisario**
+> Ese «qué lástima» lo cambió todo. Entró en el equipo de baloncesto del Tamkang High School, llegó a los juegos provinciales y pudo entrar en la universidad por la vía deportiva. Pero un día recordó aquella frase y empezó a preguntarse si la vida tenía otras posibilidades. Se presentó al examen conjunto de ingreso y entró en el Departamento de Drama de la Chinese Culture University.
 
-> **📝 Nota de la curadora**
-> Aquel "qué pena" lo cambió todo. Entró en el equipo de baloncesto del Instituto Tamkang, llegó a los Juegos Provinciales, podía entrar por exención en la facultad de Educación Física. Pero un día se acordó de aquellas palabras y empezó a preguntarse si la vida tenía otras posibilidades. Se presentó a la selectividad y entró en el Departamento de Drama de la Universidad de Cultura China.
+## Una monja, un profesor, una frase
 
-## Una monja, una profesora, una frase
+Al entrar en Drama sintió vergüenza. «De pequeña me escapaba a ver óperas callejeras; los mayores decían "para criar a un histrión y a una mujer hace falta paciencia", la universidad costaba tanto entrar, ¿para ser histrión también hacía falta universidad?» Pero el padre se alegró: que el hijo entrara en la universidad ya bastaba; incluso le regaló _Los diez grandes maestros del teatro chino_.
 
-Cuando entró en Drama, sentía vergüenza. "De pequeña iba a ver óperas itinerantes; los mayores decían eso de 'cómicos y mujeres son difíciles de criar'. ¿La universidad cuesta tanto entrar y aún hay que estudiar para ser cómico?" Pero su padre se alegró —que su hija pudiera entrar en la universidad ya era suficiente— y hasta le regaló un libro, _Diez grandes dramaturgos chinos_.
+En realidad, en el instituto la hermana De la vio claro: «Te encanta hacer el payaso en clase, imitar a los profesores, ¿por qué no te presentas a Drama?» Ella lo tomó a broma, creyó que la monja se reía de la alumna mala. Resultado: aprobó el ingreso.
 
-En el instituto, una monja, sor De, la había visto venir: "te encanta hacer el payaso en clase y parodiar a los profes, ¿por qué no te presentas a Drama?". Ella se rio entonces, pensando que la monja se burlaba de la mala estudiante. Pero entró en Drama.
+Tras licenciarse en Chinese Culture University, 1975, se fue a la Trinity University de Texas a cursar el máster en Teatro. Allí vivió otro momento decisivo.
 
-Tras licenciarse en Cultura China, en 1975 se fue a la Trinity University de Texas a hacer un máster en Teatro. Allí vivió otro instante decisivo.
+En una representación escolar hizo de monstruo de dos cabezas, aplausos. Al año el profesor le pidió que hiciera de Blanche en _Un tranvía llamado Deseo_: un papel femenino. Se negó: «No hago de mujer.» El profesor preguntó: «¿No quieres o no sabes?» Ella dijo que sabía, pero no quería.
 
-En una función estudiantil interpretó a un monstruo de dos cabezas; gustó. Al año siguiente, la profesora le pidió que interpretase a Blanche en _Un tranvía llamado Deseo_: un papel femenino. Ella se negó: "yo no hago papeles de mujer". La profesora preguntó: "¿No quieres o no sabes?" Sabía, dijo, pero no quería.
+> «El profesor me preguntó: "So you want to be less?" —¿Quieres ser una persona más estrecha? Aquella pregunta me dejó sin palabras. Me quedé paralizada, nunca lo había visto desde ese ángulo. Al final lo hice, y salió bien. Desde entonces ya no me atormenta esa pregunta.» (Entrevista en _Mirror Media_)
 
-"Y entonces ella me preguntó: '_So you want to be less?_': ¿quieres ser una persona más estrecha? Esa frase me dejó muda. Nunca lo había mirado desde ahí. Después interpreté el papel, con éxito. Desde entonces este problema dejó de atormentarme." (Entrevista en _Mirror Media_.)
+> **✦** «Nadie tiene una vida fácil, todos lo pasamos mal. En medio de esa dificultad, la gente corriente tiene recursos limitados, y cuanto más corriente es alguien, más merece respeto.»
 
-> **✦** "La vida de nadie es fácil; ninguna lo es. En esa dificultad, la gente común tiene recursos limitados; cuanto más común es alguien, más respetable resulta."
+## De _El espantapájaros_ a Rice Film Studio
 
-## De _El espantapájaros_ al estudio Rice Field
+1979 vuelve a Taiwán, funda Minxin Film & TV y es ayudante de dirección en _Sangre en Da Er Dan_. Luego guionista para el director Wang Tong en _El espantapájaros_ (1987) y _Paraíso de plátanos_ (1989) — _El espantapájaros_ le valió el Golden Horse al mejor guion original en la 24.ª edición.
 
-Wang Shaudi volvió a Taiwán en 1979, fundó la productora Min-Hsin y trabajó como ayudante de dirección en _Battle of the Two Tans_ (血戰大二膽). Después escribió los guiones de _El espantapájaros_ (1987) y _Banana Paradise_ (1989) para el director [[Wang Toon]]; el primero le valió el Premio Golden Horse al Mejor Guion Original en su 24.ª edición.
+Pero lo que la convirtió en «maestra Xiao Di» fue la televisión.
 
-Pero lo que la convirtió en "maestra Shaudi" fue la televisión.
+Finales de los 80 y 90, en CTV rueda una serie de dramas «de gente menuda»: _Retrato familiar_ (1989), _Buena familia_ (1990), _La gallina y sus polluelos_ (1992). No buscaban el milagro de audiencia, sino enfocar las familias de los mercados taiwaneses: la abuela jugando a cartas, la pareja discutiendo, el niño fumando a escondidas. En una época en que la televisión taiwanesa estaba dominada por los _prime-time_ de las ocho y los programas de variedades, esas obras demostraron en silencio que el drama televisivo puede tener temperatura social.
 
-Entre finales de los ochenta y los noventa, dirigió en CTS una serie de teleseries "de gente pequeña": _Familia entera_ (1989), _Buena familia_ (1990), _Una gallina cría a un patito_ (1992). No buscaban audiencias récord, sino que enfocaban a las familias del pueblo: abuelas jugando al mahjong, parejas que discuten, niños que fuman a escondidas. En una era en que la televisión taiwanesa estaba dominada por las telenovelas de las ocho y los programas de variedades, estas obras demostraron en silencio que la teleserie podía tener calor social.
+1992, junto a su compañera creativa Huang Li-ming, funda **Rice Film Studio**, y desde entonces produce principalmente para la televisión pública. El nombre «Rice» (稻田, campo de arroz) refleja su actitud creativa de toda la vida: no cazar estrellas, sino sembrar arroz.
 
-En 1992, junto a su socia creativa Huang Li-ming, fundó **Rice Field Film Workshop**, dedicada principalmente a producir para la televisión pública (PTS). El nombre "Rice Field" (campo de arroz) condensa toda su actitud creativa: no busca estrellas, planta arroz.
+> **📝 Nota del comisario**
+> Estudió cine; el director Tsai Ming-liang dice que Wang Shaudi fue su iniciación al cine. Pero ella siempre eligió la televisión antes que el cine. ¿Por qué? «Hacer cine da libertad creativa. Pero hacer televisión es un movimiento social: en cuanto se enciende el televisor entra en cada hogar, la influencia es mucho mayor.» Esa frase lo explica todo.
 
-> **📝 Nota de la curadora**
-> Estudió cine; el director [[Tsai Ming-liang]] dice que Wang Shaudi fue su iniciación cinematográfica. Pero ella ha elegido siempre la televisión por encima del cine. ¿Por qué? "El cine te da libertad creativa. Pero la televisión es un movimiento social: con encender el televisor entras en cada casa, su impacto es mucho mayor." Esa frase lo explica todo.
+## La época de la televisión pública: pionera del drama laboral
 
-## Los años PTS: pionera del drama profesional
+2000, Wang Shaudi rueda _El hospital_ para la televisión pública, protagonizada por Lan Cheng-lung y Ma Chih-hsiang. Ese año _Meteor Garden_ arrasa en Asia y el _idol drama_ se convierte en la palabra clave de la televisión taiwanesa. _El hospital_ se comparó con _Meteor Garden_ y fue alabado como «la primera generación de _idol dramas_ taiwaneses» — pero era, al mismo tiempo, **el primer drama laboral auténtico de Taiwán**.
 
-En 2000, Wang Shaudi rodó para PTS _Hospital grande, médico pequeño_, protagonizada por Lan Cheng-lung y Umin Boya. Aquel año _Meteor Garden_ arrasaba en Asia y los _idol drama_ se convertían en concepto clave de la TV taiwanesa. _Hospital grande, médico pequeño_ se equiparaba con _Meteor Garden_ y se la considera "el primer _idol drama_ taiwanés", pero también la primera **serie laboral** verdadera de Taiwán.
+Quince años después, las listas de los Golden Bell repetían una y otra vez el nombre «Wang Shaudi»:
 
-En los siguientes quince años, el nombre de Wang Shaudi apareció una y otra vez en la lista de los Golden Bell:
+1. **1999** — Golden Bell a la mejor dirección de drama: _El año de mis nueve años_ (televisión pública)
+2. **2004** — Golden Bell al mejor drama: _El banquete_ (televisión pública)
+3. **2008** — Golden Bell al mejor guion de drama: _En Kenting, tiempo despejado_ (televisión pública, compartido con Wen Yu-fang y otros)
+4. **2014** — Golden Bell al mejor drama + mejor guion: _El chico erizo_ (televisión pública)
 
-1. **1999** — Mejor Dirección de Drama: _El año que tuve nueve_ (PTS).
-2. **2004** — Mejor Drama: _Festín nupcial_ (PTS).
-3. **2008** — Mejor Guion: _In Kenting, fine weather_ (PTS, junto a Wen Yu-fang y otros).
-4. **2014** — Mejor Drama y Mejor Guion: _El chico erizo_ (PTS).
+2014: Wang Shaudi recibe el **18.º Premio Nacional de las Artes**, por su contribución vitalicia al audiovisual taiwanés.
 
-En 2014 recibió el **18.º Premio Nacional de las Artes** por su contribución a la televisión y el cine taiwanés.
+> **💡 ¿Sabías que…?**
+> 1997, Wang Shaudi dirigió el clásico de animación _La abuela mágica_ — aventura fantástica de una abuela y su nieto. Premiada en el Festival de Cine de Taipéi, el Festival Internacional de Hong Kong y el Festival Internacional de Vancouver. 2025, 28 años después, se estrena la secuela _La abuela mágica 2: El brote mágico_.
 
-> **💡 ¿Lo sabías?**
-> En 1997, Wang Shaudi dirigió _Grandma and Her Ghosts_ (魔法阿媽), largometraje animado clásico taiwanés sobre la aventura fantástica de una abuela y su nieto. Recibió premios en los festivales de Taipéi, Hong Kong y Vancouver. En 2025 se estrenó la secuela —28 años después— _Grandma and Her Ghosts 2: La pequeña brote mágico_.
+## Qseries Drama Platform: la suave revolución de la gallina y sus polluelos
 
-## Q-Series: la revolución suave de "una gallina y sus patitos"
+2016: Wang Shaudi lanza su proyecto más ambicioso.
 
-En 2016, Wang Shaudi lanzó su proyecto más ambicioso.
+Ve el entorno de producción taiwanés en declive, los géneros aplanados, el relevo generacional de actores roto. Une a ocho directores — entre ellos Tsai Ming-liang, Chen Yu-hsun — y funda **Qseries Drama Platform**: una plataforma experimental para formar nuevos actores y expandir los géneros dramáticos. Cuatro tipologías (romance y crecimiento, thriller y misterio, terror sobrenatural, adaptación literaria), ocho obras, un año entero.
 
-Veía un entorno de producción decadente, géneros aplanados y un relevo generacional pobre de actores. Junto a otros ocho directores —entre ellos [[Tsai Ming-liang]] y [[Chen Yu-hsun]]— fundó **Q-Series** (植劇場), una plataforma experimental para formar nuevos actores y ampliar géneros. Cuatro géneros (romántico-coming of age, suspense detectivesco, terror sobrenatural, adaptación literaria), ocho obras, todo un año.
+2017, Golden Bell: _Cierra los ojos cuando caiga la noche_ de Qseries se lleva cinco premios, incluido el de mejor drama. En la gala, el nombre más agradecido fue el de Wang Shaudi. En la fiesta posterior, ella cedió el escenario a los nominados que se fueron sin premio para que hablaran, y ella aplaudía y vitoreaba más feliz que nadie.
 
-En los Golden Bell de 2017, _A Boy Named Flora A_ (天黑請閉眼) de Q-Series ganó cinco premios, entre ellos el de Mejor Drama. En la gala el nombre más agradecido fue el de Wang Shaudi. Pero en la fiesta posterior cedió el escenario a las nominaciones que se habían quedado sin premio, mientras ella aplaudía y vitoreaba en una esquina, más feliz que nadie.
+> «El espectáculo funciona por antigüedad: el hermano mayor, el hermano segundo, la hermana mayor, como clanes de una sociedad agraria; solo ella salta el marco de género, es la única "maestra Xiao Di".» (Entrevista en _Mirror Media_)
 
-"En el mundo del espectáculo todo va por orden de antigüedad: hermano Nai, hermano Hsien, hermana Hsiao-Yan, como en una sociedad agraria. Solo ella se sale del marco de género: es la única 'maestra Shaudi'." (_Mirror Media_.)
+Tras Qseries, en 2022 vuelve a lanzar **Zhuo Theater**, con el mismo espíritu: descubrir nuevos talentos, explorar géneros, tomarse en serio cada historia.
 
-Después de Q-Series, en 2022 lanzó **Sprouting Series** (茁劇場), continuando el mismo espíritu: descubrir nuevos talentos, explorar géneros y tomarse en serio cada historia.
+> **📝 Nota del comisario**
+> De «Qseries» (植, plantar) a «Zhuo» (茁, brotar), los nombres son ya una declaración. Una planta necesita tiempo, tierra y paciencia para crecer. En una era que persigue el tráfico, ella sigue plantando árboles despacio.
 
-> **📝 Nota de la curadora**
-> De Q-Series a Sprouting Series, los nombres mismos son una declaración. Una planta crece con tiempo, tierra y paciencia. En una era obsesionada con el tráfico, ella sigue plantando árboles despacio.
+## El chico sexagenario
 
-## El chico de la sexta década
+Wang Shaudi sintió desde niña que «su alma habitaba un género equivocado». En el colegio el uniforme le resultaba imposible, pero en salidas familiares la obligaban a llevar falda y ella lloraba y pataleaba en casa. En el instituto, en el cine Xinsheng junto a Zhongshan Hall, vio una película sobre identidad de género; sola en la heladería, lloró: «Resulta que en el mundo no soy la única así.»
 
-Desde pequeña, Wang Shaudi sintió que su "alma vivía en un género equivocado". El uniforme escolar no había manera de evitarlo, pero cuando salía con la familia a comer y le pedían que se pusiera falda, lloraba y pataleaba en casa. En el instituto, en el cine New Life junto al Auditorio Zhongshan vio una película sobre identidad de género; lloró sola en una heladería: "vaya, no soy la única en el mundo".
+No le gusta que en los reportajes usen el pronombre femenino «ella» (con radical de mujer). Hoy, si puede elegir, usa baños neutros. ¿Se ha planteado la transición? «Lo he pensado. Por un lado, el cuerpo y el cabello vienen de los padres, no me atrevo; por otro, mi cuerpo está muy bien, no sé qué cambiaría un corte de bisturí.»
 
-Le incomoda que en los reportajes la describan con el "ella" femenino. Hoy, si tiene la opción al salir, elige el baño neutro. ¿Ha pensado en el cambio de sexo? "Lo he pensado. Por un lado, dicen que el cuerpo es regalo de los padres; no me he atrevido. Por otro, mi cuerpo está bien, y no sé qué cambiará un bisturí."
+Al volver a Taiwán decidió no hablar más de género, ni disfrazarse: «Si tú estás a gusto contigo, los demás también lo están.»
 
-De vuelta en Taiwán, decidió no seguir hablando de género ni disimular: "si tú te sientes a gusto contigo, los demás también."
+Pasados los sesenta, dentro sigue viviendo un chico. La guionista Wen Yu-fang cuenta que en 2005, rodando la historia de Lian Jia-en _Bajo el cielo a 45 °C_ volaron a África; él pasó 20 horas seguidas en el avión jugando a la consola, hasta que se le pelaron los pulgares. Le gusta Jay Chou; en los recorridos de _location scouting_ ponía _Secreto_ en bucle. Esa alma de chico explica que _El hospital_, _El jefe de policía_, _El chico erizo_, alineados, sean todos historias de chicos creciendo.
 
-Pasada la sexta década, dentro de ella sigue habiendo un chico. La guionista Wen Yu-fang cuenta que en 2005, durante el rodaje de _Bajo el cielo a 45 ºC_ en África, ella se pasaba 20 horas en el avión jugando a videojuegos hasta llagarse el pulgar. Le encanta [[Jay Chou]]; en los viajes de localizaciones repetía sin parar la canción "Código secreto". Su corazón sigue siendo joven; por eso _Hospital grande, médico pequeño_, _La policía mayor_ y _El chico erizo_ —todas— son historias del crecimiento de un chico.
+> **✦** «Tampoco quiero ser maestra, solo quiero que, en el proceso de crecer, como otros me ayudaron a mí, yo ayude a los demás.»
 
-> **✦** "Yo tampoco quería ser maestra. Solo quería que, igual que otros me ayudaron en mi crecimiento, yo ayudara a otros."
+## Entre la piedra y el huevo
 
-## Entre las piedras y los huevos
+La hija del general del lado de los manifestantes: esa contradicción recorre la vida de Wang Shaudi.
 
-La hija del general en el bando de los manifestantes: una contradicción que recorre toda su vida.
+2013, estalla el caso Dapu; ella estalla en público: «¡Madre mía! ¡Nuestro país es de una pena!… ¡Me obligan a casi querer presentarme a presidenta!» Desde entonces apoya abiertamente la controversia del redevelopment de Wenlin Yuan, la asociación de autosalvamento de Hualong, los obreros de fábricas cerradas…
 
-En 2013, durante el incidente de Dapu, gritó en público: "¡Madre mía! ¡Qué malo es nuestro país! ¡Me están dando ganas de presentarme a la presidencia!" Después siguió apoyando los movimientos de Wenlin Yuan, Hualon Self-Help, los obreros de las fábricas cerradas y otras luchas sociales.
+| Acción vs. contradicción                                                                              |
+| ----------------------------------------------------------------------------------------------------- |
+| El padre, pilar del sistema de la ley marcial; ella, apoyo público de los movimientos sociales        |
+| Nacida en la mansión del general, privilegio de cuna; toda la vida contando historias de gente menuda |
 
-| Acción vs contradicción                                                                           |
-| ------------------------------------------------------------------------------------------------- |
-| Su padre, núcleo del régimen autoritario; ella, defensora pública de los movimientos sociales     |
-| Nacida en privilegio de la mansión de un general, ha rodado toda su vida historias de gente común |
+Al mencionar al padre, su actitud es compleja y honesta: «A menudo siento que no soy filial. Solo tengo una sensación: el padre que yo vi no se parece en nada a lo que se escribe fuera. Pero creo que lo que sé sigue sin ser suficiente.»
 
-Sobre su padre, su actitud es compleja y honesta: "A menudo siento que no soy buena hija. Pero el padre que yo veía no se parece nada al de fuera. Y aun así creo que sé poco."
-
-En su acción, sin embargo, está totalmente al otro lado de su padre. "Solo en estos últimos años me he vuelto cada vez más radical; he llegado a pensar de forma extrema y a soñar con una campaña para abolir los partidos: ¿qué diferencia hay entre el PCCh, el KMT y el PDP?" (_Mirror Media_.)
+Sin embargo, su actuar está del todo en la orilla opuesta a la del padre. «Solo en los últimos años noto que me vuelvo más radical, hasta pienso en saltos cualitativos, en lanzar un movimiento para abolir los partidos — ¿diferencia entre el Partido Comunista, el Kuomintang y el DPP?» (Entrevista en _Mirror Media_)
 
 ## Huang Li-ming
 
-Huang Li-ming, socia del Rice Field Workshop desde 1992, fue su compañera durante 28 años. Todas sus obras son creaciones a cuatro manos. Hacia 2014, Huang Li-ming murió de cáncer.
+1992, la socia que fundó Rice Film Studio, Huang Li-ming, compartió 28 años de conocimiento y cariño con Wang Shaudi. Todas las obras llevan la firma de ambas. Hacia 2014, Huang Li-ming fallece por cáncer.
 
-En 2017, cuando se estrenó _Mil paredes en el sueño_ (夢裡的一千道牆), serie de temática sobrenatural de Q-Series, justo coincidía con el aniversario de la muerte de Huang Li-ming. Wang Shaudi explicó que no quería rodar una simple película de fantasmas comercial, sino preguntarse: "Cuando muere la persona más cercana, cuando aún están la nostalgia y la llamada, ¿qué clase de fuerza es esa?"
+2017, _Los mil muros del sueño_ de Qseries — pieza de terror sobrenatural — se estrena justo el día del aniversario de la muerte de Huang. Wang Shaudi dice que no quería hacer una película comercial de fantasmas, sino preguntarse: «Cuando la persona más querida muere, cuando la añoranza y la llamada siguen existiendo, ¿qué clase de fuerza es esa?»
 
-En la fiesta posterior a los Golden Bell, mientras los jóvenes alborotaban, ella comía en silencio en una esquina. Sobre Huang: "No creo demasiado en lo sobrenatural, pero en este camino siento que ella me ayuda. Sigue con nosotros."
+En la cena de celebración de los Golden Bell, los jóvenes jalean; ella come tranquila en un rincón. Al hablar de la maestra Huang: «No creo mucho en lo sobrenatural, pero en este camino creo que ella nos ha estado echando una mano. Siempre ha estado con nosotros.»
 
-¿Algo que le diría? "Tampoco hay nada que decirle. Si lo sabe, sabrá perfectamente que sin ella yo no sería como soy."
+¿Algo que querría decirle? «Tampoco hay nada que decirle. Si ella lo sabe, en su corazón lo tiene clarísimo: sin ella, el yo de ahora no sería así.»
 
-Cuando Huang vivía, Wang Shaudi se quedaba hasta tarde con los videojuegos; era ella quien la mandaba a la cama. Después de su partida, le repite a la gente alrededor: ¿por qué entonces no entendí cuánto valía el tiempo, por qué no aproveché para cuidar más a las personas que tenía cerca, por qué tantos videojuegos?
+Cuando la maestra Huang estaba, ella se quedaba hasta tarde jugando a la consola sin dormir, y hacía falta que la maestra la regañara para que se fuera a la cama. Tras su marcha, a menudo dice a su entorno: ¿por qué entonces no supe aprovechar el tiempo, valorar a quien tenía al lado, y me pasé la vida jugando tanto a la consola?
 
-> **✦** Una experiencia de crecimiento marcada por la cuestión de género le ha enseñado la empatía. Entre piedras y huevos, ella se pone siempre del lado de los huevos.
+> **✦** La experiencia de crecer sufriendo por su orientación le enseñó la empatía. Entre el huevo y la piedra, siempre del lado del huevo.
 
 ## Referencias
 
-- [Wang Shaudi — Wikipedia](https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%B0%8F%E6%A3%A3) (índice)
-- [Wang Shaudi — Wikipedia (en inglés)](https://en.wikipedia.org/wiki/Wang_Shaudi)
-- [Una buena maestra y una mala alumna — Mirror Media](https://www.mirrormedia.mg/story/20171002pol002) (entrevista, 2017)
-- [El alma vive en el género equivocado — Mirror Media](https://www.mirrormedia.mg/story/20171002pol003)
-- [Hacer televisión es un movimiento social — Mirror Media](https://www.mirrormedia.mg/story/20171002pol004)
-- [El amor del adolescente — Mirror Media](https://www.mirrormedia.mg/story/20171002pol005)
-- [Wang Shaudi: el país está tan mal que quiero presentarme a presidenta — PNN PTS](https://web.archive.org/web/20130813164849/http://pnn.pts.org.tw/main/2013/08/10/%E7%8E%8B%E5%B0%8F%E6%A3%A3%EF%BC%9A%E5%9C%8B%E5%AE%B6%E7%88%9B%E5%88%B0%E6%88%91%E6%83%B3%E5%87%BA%E4%BE%86%E9%81%B8%E7%B8%BD%E7%B5%B1%EF%BC%81/) (PTS, 2013)
-- [Taiwán degenera; Wang Shaudi quiere presentarse a presidenta — Liberty Times](https://news.ltn.com.tw/news/politics/breakingnews/851870) (2013)
-- [Wang Shaudi — IMDb](https://www.imdb.com/name/nm0910918/)
-- [Web del Rice Field Film Workshop](https://web.archive.org/web/20050128074850/http://www.ricefilm.com.tw/) (Archive.org)
+- [Wang Shaudi — Wikipedia (zh)](https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%B0%8F%E6%A3%A3)（índice）
+- [Wang Shaudi — Wikipedia (en)](https://en.wikipedia.org/wiki/Wang_Shaudi)（perspectiva internacional）
+- [【一鏡到底】是好老師，也是壞學生　王小棣專訪之一](https://www.mirrormedia.mg/story/20171002pol002)（entrevista en profundidad, _Mirror Media_ 2017）
+- [【一鏡到底】靈魂住在錯誤的性別裡　王小棣專訪之二](https://www.mirrormedia.mg/story/20171002pol003)（entrevista en profundidad, _Mirror Media_ 2017）
+- [【一鏡到底】拍電視是一種社會運動　王小棣專訪之三](https://www.mirrormedia.mg/story/20171002pol004)（entrevista en profundidad, _Mirror Media_ 2017）
+- [【一鏡到底】少年的愛　王小棣專訪之四](https://www.mirrormedia.mg/story/20171002pol005)（entrevista en profundidad, _Mirror Media_ 2017）
+- [Wang Shaudi: el país está tan podrido que quiero presentarme a presidenta — Centro de temas noticiosos de PTS](https://web.archive.org/web/20130813164849/http://pnn.pts.org.tw/main/2013/08/10/%E7%8E%8B%E5%B0%8F%E6%A3%A3%EF%BC%9A%E5%9C%8B%E5%AE%B6%E7%88%9B%E5%88%B0%E6%88%91%E6%83%B3%E5%87%BA%E4%BE%86%E9%81%B8%E7%B8%BD%E7%B5%B1%EF%BC%81/)（fuente primaria, PTS 2013）
+- [Taiwán en retroceso: Wang Shaudi: el país está tan podrido que quiero ser presidenta — Liberty Times](https://news.ltn.com.tw/news/politics/breakingnews/851870)（noticia 2013）
+- [Wang Shaudi — IMDb](https://www.imdb.com/name/nm0910918/)（base de datos audiovisual internacional）
+- [Web oficial de Rice Film Studio](https://web.archive.org/web/20050128074850/http://www.ricefilm.com.tw/)（fuente primaria, archivo en Archive.org）

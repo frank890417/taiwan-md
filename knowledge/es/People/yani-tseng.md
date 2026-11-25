@@ -1,7 +1,8 @@
 ---
 title: 'Yani Tseng'
-description: '109 semanas como número uno del mundo, 15 victorias en el LPGA con 5 majors, a los 22 años se convirtió en la jugador más joven de la historia en poseer 5 trofeos de grandes campeonatos, superando el récord de Tiger Woods; en 2025 puso fin a una sequía de títulos de 11 años y volvió a coronarse campeona'
+description: 'Golfista profesional taiwanesa, nacida en Yangmei, Taoyuan, en 1989. En 2008, con solo diecinueve años, ganó su primer torneo de la LPGA, convirtiéndose en la primera jugadora de origen chino en triunfar en un evento de la LPGA. En 2011 alcanzó el primer puesto del ranking mundial, estableciendo un récord de 109 semanas consecutivas que permaneció imbatible durante más de una década en la historia del golf femenino; además, a los veintidós años, se convirtió en la jugadora más joven en poseer cinco títulos de Grand Slam, acumulando 15 victorias en la LPGA y 5 en Grand Slams a lo largo de su carrera. Tras superar lesiones de cadera y periodos de baja forma, en 2025 puso fin a una sequía de once años sin títulos en el Yangshan Golf Course, logrando su vigésimo octavo título profesional.'
 date: 2026-03-31
+category: 'People'
 tags:
   [
     'Deportes',
@@ -13,18 +14,17 @@ tags:
     'Golf femenino',
   ]
 subcategory: '體育'
+author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-31
 lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
-translatedFrom: People/曾雅妮.md
-sourceCommitSha: 'be13f045'
+translatedFrom: 'People/曾雅妮.md'
+sourceCommitSha: '20dcddf339'
 sourceContentHash: 'sha256:890dbecd669ee83c'
 sourceBodyHash: 'sha256:480fe5c7e2becbe9'
-translatedAt: 2026-05-01T20:54:23+08:00
-category: People
-author: 'Taiwan.md'
+translatedAt: '2026-11-25T03:21:48.373864+00:00'
 ---
 
 # Yani Tseng

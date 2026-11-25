@@ -1,27 +1,28 @@
 ---
-title: 'Hsu Mei-hua: Del movimiento anti-Tsung Kuang a la Gran Revocación, una década bajo un seudónimo ciudadano'
-description: '"Hsu Mei-hua" no es un nombre real, sino un seudónimo que apareció en dos momentos clave de la sociedad civil taiwanesa: en 2015, como una de los "Cuatro Jinetes", bloqueó la adquisición de empresas taiwanesas de semiconductores por parte del grupo chino Tsung Kuang; en 2025, se convirtió en el centro de financiación ciudadana más contraintuitivo de la ola de la Gran Revocación: sin tocar ni un centavo, canalizó más de veinte millones en donaciones ciudadanas.'
+title: 'Hsu Mei-hua: De la oposición a Unigroup al Gran Recall, una década bajo un pseudónimo ciudadano'
+description: 'Un pseudónimo ciudadano mantenido deliberadamente de forma anónima, no su nombre real. En 2015, como uno de los "Cuatro Caballeros" y bajo el alias de "Monje Barredor", ayudó a bloquear la adquisición por parte de la china Unigroup de tres grandes fabricantes de empaquetado y prueba de semiconductores en Taiwán, un movimiento valorado en casi NT$900,000 millones. En el Gran Recall de 2025, se convirtió en un "centro de recaudación", donde sus seguidores realizaban transferencias directas para que las empresas fabricaran vehículos publicitarios con luces LED; aunque no manejó ni un centavo personalmente, coordinó más de NT$20 millones. Tras el fracaso total de los 31 intentos de revocatoria (31 contra 0), ella lo calificó como "la acción de fracaso más exitosa". Su trayectoria de diez años resume el espectro de la sociedad civil taiwanesa, desde la defensa tecnológica hasta la movilización democrática.'
 date: 2026-04-17
-author: 'Taiwan.md Contributors'
-category: People
+category: 'People'
 tags:
   [
     'Hsu Mei-hua',
-    'anti-Tsung Kuang',
-    'Gran Revocación',
-    'movimiento ciudadano',
-    'semiconductores',
-    'democracia taiwanesa',
+    'Oposición a Unigroup',
+    'Gran Recall',
+    'Movimiento ciudadano',
+    'Semiconductores',
+    'Democracia taiwanesa',
   ]
-readingTime: 12
+subcategory: '教育與社會'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-17
 lastHumanReview: true
-featured: false
-translatedFrom: People/許美華.md
-sourceCommitSha: '4b6d28c5'
+readingTime: 12
+translatedFrom: 'People/許美華.md'
+sourceCommitSha: '1b9d5dfea6'
 sourceContentHash: 'sha256:1b5d90dfca7bb147'
 sourceBodyHash: 'sha256:e380720def0effee'
-translatedAt: 2026-05-01T20:54:23+08:00
+translatedAt: '2026-11-25T03:11:41.625939+00:00'
 ---
 
 > **Panorama en 30 segundos:** "Hsu Mei-hua" es un seudónimo anónimo, no un nombre real. Apareció en dos momentos clave de la sociedad civil taiwanesa: en 2015 fue una de los "Cuatro Jinetes" que ayudaron a bloquear la adquisición por parte de Tsinghua Unigroup (Tsung Kuang) de China de las tres principales empresas taiwanesas de encapsulado y prueba de semiconductores (Powertech Technology, SPIL y ChipMOS Technologies), en operaciones que sumaban cerca de 900 mil millones de dólares taiwaneses; en 2025 se convirtió en el "centro de financiación" del movimiento de la Gran Revocación, donde sus seguidores transferían directamente a proveedores para financiar camiones publicitarios LED, material de propaganda y caravanas, sin que ella tocara ni un centavo. La revocación terminó con un resultado de 31:0, un fracaso total, que ella calificó como "la acción fallida más exitosa". La década de trayectoria de este seudónimo condensa un espectro de la sociedad civil taiwanesa, desde la línea de defensa tecnoeconómica hasta la movilización democrática.
