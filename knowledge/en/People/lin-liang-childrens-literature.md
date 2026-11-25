@@ -1,272 +1,272 @@
 ---
-title: 'Lin Liang: Shallow, Yes — But Shallow with Flavor'
-description: 'From the eldest son who lost his father on the banks of the Jiulong River in 1944, to the 95-year-old grandfather who passed away peacefully in his sleep in December 2019. Over 73 years, Lin Liang proved that children deserve to be treated as complete readers.'
-category: People
+title: 'Lin Liang: Simplicity is Simple, but it Must be Simple and Flavorful'
+description: 'A Taiwanese children''s literature writer who arrived in Keelung from Xiamen with a box of books in 1946. In 1948, he joined the newly founded "Guoyu Daily" as an editor for the children''s section, a role he held for seventy-three years. He proposed the art of "simple language," advocating that children deserve to be treated as complete readers. His "Picture Storytelling" column ran from 1951 until one week before his passing at age 95, accumulating nearly 6,000 pieces. His prose collection "Little Sun" has been reprinted over 130 times. He received the National Cultural Award in 2012 and became the oldest winner in the history of Taiwanese children''s literature in 2018.'
+date: 2026-04-28
+category: 'People'
 tags:
   [
-    "children's literature",
-    'author',
-    'Mandarin Daily News',
-    'the art of simple language',
+    "Children's Literature",
+    'Writer',
+    'Guoyu Daily',
+    'The Art of Simple Language',
     'Little Sun',
-    'cultural pioneer',
-    'postwar Taiwan literature',
+    'Cultural Pioneer',
+    'Post-war Taiwan Literature',
   ]
 subcategory: '文學'
-author: 'taiwanmd'
-date: 2026-04-28
-readingTime: 16
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-28
 lastHumanReview: false
-researchReport: reports/research/2026-04/林良.md
+researchReport: 'reports/research/2026-04/林良.md'
+readingTime: 16
 curation: 'incubating'
 curationReason: 'unverified'
-translatedFrom: People/林良.md
-sourceCommitSha: 'be13f045'
+translatedFrom: 'People/林良.md'
+sourceCommitSha: '20dcddf339'
 sourceContentHash: 'sha256:ff949a14cc54475a'
 sourceBodyHash: 'sha256:99fcaed64626278d'
-translatedAt: '2026-04-30T22:50:13+08:00'
-featured: false
+translatedAt: '2026-11-25T06:00:28.200109+00:00'
 ---
 
-> **30-second overview:**
-> In the summer of 1944 in Zhangzhou, on the banks of the Jiulong River, 21-year-old Lin Liang lost his father. The family was left without its pillar. As the eldest son, he was expected to take over supporting the household — but his mother and younger brother made space for him to keep writing. Two years later, at 22, he arrived in Keelung harbor clutching a box of books, was assigned to the "Taiwan Provincial Mandarin Promotion Committee Research Division" to conduct comparative studies of Amoy dialect and Southern Min, and in 1948 moved to the newly launched _Mandarin Daily News_ as children's section editor. From there, he wrote for 73 years — until the week before he died at 95, quietly in his sleep, when the final poem of his _Mandarin Daily News_ "Look at a Picture, Tell a Story" column had just been published. His core belief was what he called "the art of simple language" (淺語的藝術): words that can be understood at a glance, yet shallow with flavor; things a child can follow, yet the same literary nourishment adults receive.
+> **30-Second Overview:**
+> In 1944, by the Jiulong River in Zhangzhou, 21-year-old Lin Liang lost his father, who had died while diving to save someone. Having lost the family's pillar, as the eldest son he should have shouldered the household finances, but his mother and second brother left the path of writing to him. Two years later, at age 22, he stepped off a ship carrying a box of books and was assigned to the Research Group of the Taiwan Provincial Mandarin Promotion Committee at Keelung Port to conduct comparative research between Xiamen dialect and _Bân-lâm-gú_ (the Minnan language). In 1948, he transitioned to the editorial department of the newly launched children's section of _Guoyu Daily_. From that point on, he wrote for 73 years; just one week before passing away in his sleep at age 95, the final children's poem, "The Little Crow Passing Through Winter," was published in the _Guoyu Daily_ "Speaking through Pictures" column. His core belief was "the art of simple language"—words that are easy to understand, yet shallow but flavorful; words that children can grasp, while allowing them to enjoy the same literary cultivation as adults.
 
-## The Eldest Son at the Jiulong River
+## The Eldest Son by the Jiulong River
 
-In the summer of 1944, the city of Zhangzhou, Fujian. The 21-year-old Lin Liang stood for a long time on the banks of the Jiulong River.
+In the summer of 1944 in Zhangzhou, 21-year-old Lin Liang stood by the banks of the Jiulong River for a long time.
 
-The Second Sino-Japanese War had entered its seventh year. The Lin family had fled from Gulangyu all the way to Zhangzhou — this was their third year there. His father, Lin Mu-ren, dove into the river that day to save a drowning young man and never came back up[^1].
+By that year, the Second Sino-Japanese War had entered its seventh year. The Lin family had been fleeing from Gulangyu to Zhangzhou for three years. That day, his father, Lin Mu-ren, jumped into the river to save a drowning young man and never returned to shore[^1].
 
-The family had lost its foundation. Lin Liang, as the eldest son — with two younger brothers and a younger sister beneath him — was supposed to take on the weight of supporting them[^2]. He struggled for a long time between "the household" and "the dream of writing," until his mother, Wu Bao-chai, sat him down, and his second brother said: you write your things — I'll handle the household.
+The family lost its pillar of support. As the eldest son, with two younger brothers and one younger sister below him, Lin Liang should have taken up the burden of supporting the household[^2]. He struggled for a long time between "family livelihood" and his "dream of writing," until his mother, Wu Pao-chai, pulled him down to sit, and his second brother said: "You do your writing; I will shoulder the family responsibilities."
 
-> "For the sake of writing, I once gave things up."
+> "For the sake of writing, I once gave up."
 
-This line, repeated in interviews across many years[^3], speaks of a young man whose second brother had stepped aside to let him keep the eldest son's position — in a different sense. All the warm essays he wrote for the rest of his life, all the children's poems, the four-person household in _Little Sun_, the white Spitz, the lamp glowing in the window — behind them there was always a father who never came back to shore, and a brother who carried the household in his place.
+This self-description, which appeared repeatedly in later interviews[^3], belonged to a young man whose position as the eldest son was yielded by his brother. Throughout the rest of his life, he wrote so many warm essays and so many poems for children—including the four-member family, the white fox dog, and the lamp by the window in _Little Sun_—but in the background, there was always a father who never returned to shore, and a second brother who shouldered the family livelihood in his stead.
 
-In 1944, he had not yet written a single word for children.
+In that moment in 1944, he had not yet written a single word for children to read.
 
-📝 **Curator's Note:** The "shallowness" in Lin Liang's work carries weight. A man who lost his father at 21 went on to write about family, about father-daughter relationships, about brothers. Those writings look innocent and warm on the surface — but beneath them runs a fear of what it means for a child to lose their childhood, and a lifelong effort to fill that absence back in, one word at a time.
+📝 **Curator's Note:** The "simplicity" of Lin Liang's lifelong work carries its own weight. A man who lost his father at age 21 went on to write about home, about fathers and daughters, and about brothers; while those words seem innocent and warm, beneath them lies the fear a child might feel about losing their childhood. He used his pen to gradually fill that void back in.
 
-## A Box of Books Off the Boat
+## A Box of Books Disembarks
 
-In February 1946, the 22-year-old Lin Liang stepped off a ship from Xiamen at Keelung harbor, clutching a box of books[^4].
+In February 1946, 22-year-old Lin Liang arrived at Keelung Port by ship from Xiamen, carrying a box of books[^4].
 
-He had passed an exam hosted by the Ministry of Education in Xiamen for the position of "Mandarin Promoter." Why Xiamen? Because the Amoy dialect is closely related to the Taiwanese variety of Southern Min. After the Nationalist government took control of Taiwan, it needed to implement a Mandarin promotion campaign, and the people best suited to the job were those who could bridge Southern Min and Mandarin — recruiting from Xiamen was more efficient than dispatching from Beijing[^5].
+He had passed an examination organized by the Ministry of Education in Xiamen for a position titled "Mandarin Promoter." Why Xiamen? Because the Xiamen dialect is very similar to the Taiwanese Hokkien spoken in Taiwan. After the Nationalist government took control of Taiwan, they intended to launch a Mandarin promotion movement; they needed translators who were "proficient in both Hokkien and Mandarin," and recruiting from Xiamen was more efficient than dispatching personnel from Beijing[^5].
 
-He was assigned to the "Taiwan Provincial Mandarin Promotion Committee Research Division," chaired by Wei Jian-gong from Peking University, with Ho Jung as deputy; the committee was formally established April 2, 1946[^6]. Lin Liang's work in the research division was **comparative studies of Mandarin and Southern Min** — a technical translator's position, not the role of enforcing suppression of Taiwanese. In interviews he would later rarely mention this political context; his focus was always on the track that came next: 1948.
+He was assigned to the Research Group of the "Taiwan Provincial Mandarin Promotion Committee." The committee's chairman was Wei Chien-kung, who came from Peking University, with He Jung as his deputy; the committee was officially established on April 2, 1946[^6]. In the research group, Lin Liang's work involved **comparative research between Mandarin and Hokkien**—a technical translator role, rather than a role tasked with enforcing the suppression of Taiwanese. Later in his interviews, he almost never mentioned this political context; his focus was always on the next milestone: 1948.
 
-On October 25, 1948 — the day commemorating Taiwan's restoration — the _Mandarin Daily News_ was founded in Taipei. Lin Liang transferred from the committee to the newspaper as **children's section editor**[^7]. From that moment, for the first time in his life, the position he had been placed in was: "the person who writes things for children."
+On October 25 of that year, Taiwan's Retrocession Day, the _Guoyu Daily_ was founded in Taipei. Lin Liang moved from the Mandarin Promotion Committee to the newspaper, serving as a **children's section editor**[^7]. From that moment on, the first role assigned to him in his life was "a person who writes for children."
 
-He was 24 years old. Four years had passed since the Jiulong River.
+He was 24 years old that year. It had taken four years to travel from the banks of the Kowloon River to that editor's desk.
 
-## "Shallow, Yes — But Shallow with Flavor"
+## "Simple, but Simple with Flavor"
 
-In 1976, Lin Liang's collected essays _The Art of Simple Language_ (淺語的藝術) were published in book form by the Mandarin Daily News Press — 28 essays in total[^8]. But some of the content in that book dated back to the 1950s, when he first started writing as editor of the _Mandarin Daily News_ children's section — meaning he was already practicing this concept from the age of 25 at the editorial desk.
+In 1976, Lin Liang's collection of essays, _The Art of Simple Language_ (《淺語的藝術》), was published by the Guoyu Daily Newspaper Publishing House, containing a total of 28 articles[^8]. However, some of the content included in this book actually began when he first joined the children's section of the _Guoyu Daily_ in the 1950s—meaning he had been practicing this concept since he was 25 years old in an editorial position.
 
-His own definition, verbatim from a 2013 PTS interview:
+His own definition (original words from a 2013 PTS interview):
 
-> "What is 'simple language'? The words have to be readable — you look at them and you understand them. That's what I mean by shallow language. Shallow, yes — but shallow with flavor."[^9]
+> "What is 'simple language' (_qiǎnyǔ_)? It means the words are understandable; you see these two characters and you understand—it is plain, accessible language. It is simple, but it must be simple with flavor."[^9]
 
-This phrase is almost impossible to translate directly into English. "Shallow with flavor" (淺而有味) is a Chinese figure of speech: simple on the surface, but with depth when you read into it — not hollow.
+This phrase is difficult to translate into English. "Simple with flavor" (淺而有味) is a Chinese rhetorical concept: it appears simple on the surface, but upon reading, it must possess depth and resonance rather than being hollow.
 
-An even deeper line appears in the preface to _The Art of Simple Language_[^10]:
+In a deeper sentiment written in the preface to _The Art of Simple Language_[^10]:
 
-> "Adults receiving literary nourishment is regarded as a matter of course, a right they are entitled to. Children should enjoy exactly the same."
+> "Adults' acceptance of literary cultivation is seen as a natural right; children should enjoy the same."
 
-This went beyond the practical guidelines of an editor. It was an explicit political position. In 1950s Taiwan, "writing for children" had almost no professional recognition: it was accepted that adults would write things children couldn't understand, and equally accepted that children's material would be simplified, didactic, or serve as a vehicle for state directives. At his editorial desk, Lin Liang redrew that line: **children deserve to be treated as complete readers**.
+This statement goes beyond a mere practical rule for an editor. It is a clear political stance. In 1950s Taiwan, "writing for children" had almost no formal professional identity: it was considered acceptable if children couldn't understand what adults wrote, and it was taken for granted that material for children would be simplified, dogmatic, or used for government propaganda. Lin Liang redrew this line at his editorial desk: **children deserve to be treated as complete readers**.
 
-📝 **Curator's Note:** Lin Liang's core circle in the contemporary Taiwanese children's literature world included Lin Hai-yin (Pure Literature Press), Ho Fan, and Hong Yan-qiu. The _Little Sun_ he wrote in 1972 was published by Lin Hai-yin's Pure Literature Press[^11]. These postwar cultural figures who had crossed the strait and settled in Taiwan — each in their own way — built an ecosystem in which "writing for children could be serious work." Lin Liang was the one who walked furthest down that path.
+📝 **Curator's Note:** Lin Liang's core circle in the Taiwanese children's literature community included contemporaries such as Lin Hai-yin (Pure Literature Publishing House), He Fan, and Hong Yan-qiu. The _Little Sun_ (_Xiǎo tàiyáng_) he wrote in 1972 was published by Lin Hai-yin's Pure Literature Publishing House[^11]. These cultural figures, who crossed the sea to Taiwan after the war, used their respective methods to build an ecosystem where "writing for children can be serious work"—and Lin Liang was the one who traveled furthest within that ecosystem.
 
-## Writing _Little Sun_ in the Small Hours
+## Writing "Little Sun" in the Quiet of the Night
 
-Between 1971 and 1972, Lin Liang ran a series of essays in the family section of the _Mandarin Daily News_ under the column "Tea Talk"[^12]. In 1972, Pure Literature Press published them as a book: _Little Sun_[^13].
+From 1971 to 1972, Lin Liang serialized a series of essays in the "Tea Talk" column of the family section in _Guoyu Daily_[^12]. In 1972, these were collected and published as a book titled 《Little Sun》[^13] by Chun Wenxue Publishing House.
 
-By the time of his death in 2019, the book had been reprinted more than 130 times. Many Taiwanese families assumed it was a fictional heartwarming story, but every piece was something that had actually happened in his living room[^14].
+By the time of his passing in 2019, this book had gone through more than 130 printings. While many Taiwanese families assumed these were fictional, heartwarming fairy tales, every single piece was actually a true event that occurred in his living room[^14].
 
-The four protagonists: himself (Dad), his wife Cheng Hsiu-chih (Mom), and three daughters — Lin Ying (Ying-ying, eldest), Lin Chi (Chi-chi, second), and Lin Wei (Wei-wei, youngest). A supporting cast that included a white Spitz named **Snow (斯諾)**[^15].
+There are four main characters: himself (the father), his wife Cheng Hsiu-chih (the mother), and their three daughters—Lin Ying (Ying-ying, the eldest), Lin Chi (Chi-chi, the second), and Lin Wei (Wei-wei, the third). A supporting character is a white fox terrier named **Snow**[^15].
 
-But Lin Liang's own most authoritative account of his creative motivation appears across many repeated self-descriptions:
+However, Lin Liang's own most authoritative motivation for writing is hidden within his repeated self-reflections:
 
-> "Because of how busy work was, I rarely had the chance to sit down with the children and talk properly — so I wrote _Little Sun_ late at night. It was a man 'sitting at home and missing home' — a father's guilt toward his children."[^16]
+> "Because work was too busy, I rarely had the chance to sit down and have proper conversations with my children. Thus, writing 《Little Sun》 in the quiet of the night was a man 'sitting in his own home feeling homesick'; it was the guilt of a father toward his children."[^16]
 
-This matters. "Sitting at home and missing home" — he was physically in the house, but too busy at the newspaper during the day to be with his three daughters, so he wrote about them at night, which meant "missing" this home while inside it. The easy, humorous domesticity in the book is underlaid by a father's guilt at not being able to accompany his children.
+This sentence is particularly important. "Sitting in his own home feeling homesick"—he was physically at home, but because he was too busy at the newspaper office during the day to accompany his three daughters, writing about them at night was equivalent to "longing" for his home while being inside it. The light, humorous sense of domesticity in the book actually rests upon a father's guilt over not being able to be there for his children.
 
-The most famous line in the book[^17]:
+The most famous line in the book[^17] is:
 
-> "We once desperately longed for the sun — but now we've forgotten the world outside the window, because we have our very own little sun."
+> "We once longed bitterly for the sun, but now, we have forgotten the world outside our window, because we have our own little sun."
 
-This is the most poem-like, and the most confessional, sentence in Lin Liang's writing.
+This is perhaps the sentence in Lin Liang's work that feels most like poetry, and also most like a confession.
 
-## Six O'Clock Every Morning, Five Columns a Week
+## Six in the Morning for Five Weekly Columns
 
-At 91 years old (2016), Lin Liang gave _CommonHealth_ magazine an interview and mentioned that he was writing **five columns a week**[^18].
+When Lin Liang was 91 (in 2016), he gave an exclusive interview to _Common Health_ magazine, stating that he wrote **five columns** every week[^18].
 
-> "Every morning from 6 to 9, I concentrate and write."
+> "I concentrate my energy on creation every morning from 6:00 to 9:00."
 >
-> "If I compare this year's me with next year's me, this year's me is still the young one!"[^19]
+> "Compared to who I will be next year, this year's me is still a young lad!"[^19]
 
 Those five columns included:
 
-- _Mandarin Daily News_ children's section "**Look at a Picture, Tell a Story**" (starting 1951, multiple short poems or essays per week)
-- _Mandarin Daily News_ family section "**Night Window Jottings**" (successor to "Tea Talk" after it ended in 1991)
-- Contributions to children's magazines and literary supplements
+- "Speaking through Pictures" (**_Kan tu shuo hua_**) in the children's section of _Guoyu Daily_ (starting from 1951, consisting of multiple poems or short essays weekly)
+- "Night Window Essays" (**_Ye chuang sui bi_**) in the family section of _Guoyu Daily_ (continued after the cessation of "Tea Talk" in 1991)
+- Commissioned pieces for other children's magazines and supplements
 
-The most significant was the "Look at a Picture, Tell a Story" track. This column launched in 1951, and he wrote it for **nearly 6,000 installments**[^20]. From age 27 to age 95, spanning postwar Taiwan through the twenty-first century.
+The most crucial track was "Speaking through Pictures." Since this column began in 1951, he wrote **nearly 6,000 pieces**[^20]. Writing from age 27 to 95, his work spanned Taiwan's post-war era into the 21st century.
 
-For children growing up in Taiwan from the 1950s through the 1990s, the odds were very high that any given poem or short piece they encountered in _Mandarin Daily News_ was written by Lin Liang. This material scale — one person, multiple pieces per week, uninterrupted for 68 years — has no parallel in the history of Mandarin-language children's literature.
+For children growing up in Taiwan from the 1950s to the 1990s, there was an extremely high probability that the poems or short essays they saw every day when opening _Guoyu Daily_ were written by Lin Liang. This scale of output (one person, several pieces per week, for 68 consecutive years) is unparalleled in the history of Chinese-language children's literature.
 
-> "Every time I pick up my pen, I feel like I'm telling a story to a group of little friends from the past."[^21]
+> "Every time I put pen to paper, I feel as though I am telling stories to that group of children from before."[^21]
 
-He said this when accepting the 16th National Cultural and Arts Award in 2012. "A group of little friends from the past" — which group? He never specified. But for a man who had been writing for 60 years, the small readers in his mind were probably the first children to read the _Mandarin Daily News_ in the 1950s — who are now in their seventies and eighties.
+He said this in 2012 while receiving the 16th National Cultural Arts Award. Which "group of children from before" was he referring to? He did not specify. However, for someone who has been writing for 60 years, the young readers in his mind are likely the first generation of children who read _Guoyu Daily_ in the 1950s—who would now all be in their seventies or eighties.
 
-## 6,000 Installments of "Look at a Picture, Tell a Story"
+## 6,000 "Speaking through Pictures" Pieces
 
-The material scale of this column deserves its own section.
+The physical scale of the "Speaking through Pictures" column requires its own explanation.
 
-Format: each installment paired an illustration with a short children's poem or brief prose piece — long enough for a third- or fourth-grader to finish in three minutes. It ran from 1951, when Lin Liang was 27, until the week before his death on December 23, 2019, when the final piece he had proofread — a poem called "Little Crow Spends Winter" — was published on December 16[^22].
+The format: each piece featured one illustration accompanied by a short children's poem or a brief prose passage, with a length that a third- or fourth-grade elementary student could finish reading in about three minutes. Lin Liang began writing this in 1951 at the age of 27; up until the week before he passed away in his sleep in December 2019 at age 95, his final piece he had just finished proofreading, "The Little Crow Overcomes Winter," was published on December 16[^22].
 
-68 years. Multiple pieces per week. Approximately 6,000 installments.
+68 years. Multiple pieces every week. A cumulative total of approximately 6,000 pieces.
 
-But what made this column a genuine infrastructure for children's literature was something beyond the numbers. All 6,000 installments held to the same standard: **the art of simple language** — accessible to children, but with flavor; no didacticism, but with a stance; light, but not empty.
+However, what truly turned this column into a piece of children's literature infrastructure goes beyond mere quantity. All 6,000 pieces followed the same standard: **the art of simple language**—language that children can understand, yet which possesses resonance; it was not dogmatic, yet it held a stance; it was light, yet not hollow.
 
-It defined what "the literature children read every day" should look like in postwar Taiwan.
+It defined what "daily literature for children" in post-war Taiwan should look like.
 
-📝 **Curator's Note:** The infrastructure of children's literature at the _Mandarin Daily News_ ran along several axes: beyond the "Look at a Picture, Tell a Story" column, there was also the founding of the **Children's Literature Weekly**, the establishment of the **Shepherd Flute Award**[^24], and the development of the _Art of Simple Language_ theoretical framework. Lin Liang spent 57 years at the newspaper (1948–2005, rising from children's section editor to chief editor to publishing director to president and board chair[^23]), and what he did was the work of **institutionalizing** "writing for children." On December 23, 1984, he served as the founding president of the **Republic of China Children's Literature Society**, which was established in Taipei[^25]. From that moment, "children's literature writer" in Taiwan began to have professional identity.
+📝 **Curator's Note:** The children's literature infrastructure of _Guoyu Daily_ rests on several axes: in addition to the "Speaking through Pictures" column, it includes the launch of the **Children's Literature Weekly**, the establishment of the **Mudi Award**[^24], and the formation of the theoretical framework for _The Art of Simple Language_. During his 57 years at the newspaper (1948–2005, rising from an editor of the children's section to President and Chairman[^23]), Lin Liang undertook the project of institutionalizing the act of "writing for children." On December 23, 1984, he served as the first chairperson of the **Republic of China Children's Literature Association**, which was founded in Taipei City[^25]. From that moment on, "children's literature writers" began to develop their own professional identity in Taiwan.
 
-## The Daughter Who Transcribed His Final Three Months
+## The Last Three Months Transcribed by His Daughter
 
-In 2015, at age 92, Lin Liang collapsed and was hospitalized. Doctors found he had previously suffered an undetected stroke and had been recovering through the sheer force of **making himself write every day**[^26].
+At the age of 92 (2015), Lin Liang collapsed and was hospitalized. After an examination, doctors discovered that he had actually suffered a stroke previously without realizing it; he had slowly recovered through his **willpower to force himself to write every day**[^26].
 
-In his final three months, his strength was declining and he could no longer hold a pen. The column shifted to a new process: he would dictate, his daughter Lin Wei would transcribe, she would read it back to him for confirmation, then it would go to layout[^27].
+About three months before his passing, his physical strength weakened to the point where he could no longer hold a pen to write. His column was modified into a process where he would dictate, his daughter Lin Wei would transcribe, she would read it back to him for confirmation, and finally, it would be sent for typesetting[^27].
 
-On December 23, 2019 — the day of his passing — Lin Wei gave an interview to the Central News Agency[^28]:
+On December 23, 2019, the day of her own passing, Lin Wei gave an interview to the Central News Agency (CNA) [^28]:
 
-> "Father kept writing despite everything — no pain, no suffering, a peaceful departure. His final 'Look at a Picture, Tell a Story' column will run in _Mandarin Daily News_ next Monday."
+> "My father continued to strive to write; he left us peacefully without any suffering. The final 'Speaking through Pictures' column will be published in next Monday's _Guoyu Daily_."
 >
-> "(What I admire most is his incredible tenacity.) Even after the minor stroke four years ago left him unable to write long pieces, he persisted in writing short ones. His willpower is astonishing."
+> "(What I admire most about my father is his immense willpower) Even when he could no longer write long articles after a minor stroke four years ago, he continued to write short pieces; his willpower was amazing."
 
-Lin Wei herself is a children's literature worker who later became chief editor of the _Mandarin Daily News_[^29]. In 2014 she published _Forever Little Sun: Lin Liang_, a record of conversations between father and daughter[^30] — and in his final three months, that father-daughter pair became the final creative workflow: dictate — transcribe — confirm.
+Lin Wei was also a children's literature professional, later serving as the editor-in-chief of _Guoyu Daily_[^29]. In 2014, she published the book 《永遠的小太陽：林良》 (_The Eternal Little Sun: Lin Liang_), a record of parent-child dialogues with her father[^30]. During his final three months, this father-daughter duo transformed into a "dictation—transcription—confirmation" creative process.
 
-In an Openbook interview she said quietly[^31]:
+In an interview with Openbook, she once said something quiet and profound[^31]:
 
-> "These are all the 'savings' my father deposited in me back then. I think this is also why he can now 'withdraw' such good care."
+> "These are all the 'deposits' Papa left with me back then; I feel this is also the reason why he is able to 'withdraw' such good care now."
 
-"Savings" — all the time and emotional investment Lin Liang put into family and children across years of writing _Little Sun_, _Dad's Sixteen Letters_, and thousands of "Look at a Picture" installments. "Withdraw" — at 95, during his final three months of being bedridden, that youngest daughter — the "Ying-ying, Chi-chi, Wei-wei" Wei-wei — converting those savings into the labor of transcription and the care of a body.
+The "deposits" were the time and emotional investment Lin Liang made into his family, especially his children, while writing _Little Sun_, _Papa's Sixteen Letters_, and every single "Speaking through Pictures" column. To "withdraw" meant that during his final three months bedridden at age 95, Wei-wei—the youngest among "Ying-ying, Qi-qi, and Wei-wei"—converted those deposits into the labor of transcription and physical care.
 
-The family's economy of sentences, stated more directly than any essay.
+This family's "economics of golden quotes" is more direct than any piece of prose.
 
-## Confidant to the Young
+## A Soulmate for Youth
 
-In November 2018, the 95-year-old Lin Liang arrived in a wheelchair, accompanied by his daughter Lin Wei, to receive an award at the Openbook Best Children's Book ceremony. The winning title: _Snail: 78 Poems by Lin Liang_[^32].
+In November 2018, 95-year-old Lin Liang, seated in a wheelchair and accompanied by his daughter Lin Wei, ascended the stage at the Openbook Best Children's Book Awards. The winning work was 《[Snail: Lin Liang's 78 Poems](https://www.mdnkids.com/ebook/products.asp?P_Sn=1340)》[^32].
 
-He became the **oldest recipient of a children's book award in Taiwanese literary history**. The shortest poem in the entire collection used only 12 different Chinese characters. A man who had been writing for 60 years spent his whole life arriving at the thing called "12 characters."
+He became the **oldest award winner in the history of Taiwan children's literature**. The shortest poem in the entire collection used only 12 different characters. For a man who had been writing for 60 years, it took a lifetime to arrive at those "12 characters."
 
-In October 2019, the last book he personally proofread before his death was _Happy Youth: Grandpa Lin Liang's Treasury of Wisdom_[^33]. In the preface, he wrote lines that became the most quoted in his obituary coverage:
+In October 2019, the last book he personally proofread and published before his passing was titled 《Happy Youth: Grandpa Lin Liang's Wisdom Savings Account》[^33]. In the preface of this book, he wrote a passage that would later become the most frequently quoted line in media obituaries:
 
-> "I hope through this book to forge a bond with young readers — to have a conversation with them through words, to become a confidant to them."[^34]
+> "Through this book, I hope to build an emotional connection with young readers, using words to engage in dialogue with them and becoming their soulmate."[^34]
 
-"To become a confidant to them" — a 95-year-old grandfather saying this to children is the same thing as a 25-year-old editor in the 1950s writing "adults receiving literary nourishment is a right, and children should enjoy exactly the same."
+"Becoming their soulmate"—when a 95-year-old grandfather says this to children, it is the same sentiment as a 25-year-old editor writing in the 1950s that "just as adults receive the cultivation of literature, children should enjoy the same."
 
-Seventy years later, he was no longer speaking of children's "right" — he was saying he wanted to "become a confidant." The position had shifted into relationship. The principle had become a request.
+Except that 70 years later, he no longer speaks of children having a "right"; instead, he says he wants to "become a soulmate." It is a shift from a sense of position to a sense of relationship. From an ideology to a request.
 
-## Closing: The Desk Lamp Still On
+## Conclusion: That Desk Lamp Still Shining
 
-On the morning of December 23, 2019, at 7 a.m., Lin Wei went into her father's room as she did every morning, to turn him and relax his muscles. She found he had passed away peacefully[^35].
+At 7:00 AM on December 23, 2019, Lin Wei entered her father's room, intending to help him turn over and relax his muscles as she did every day. She discovered that her father had already passed away peacefully[^35].
 
-> "This morning I went in as usual to turn him and relax his muscles, and found that Father had passed away peacefully. We're grateful for the concern and condolences from all sides."
+> "This morning, I went to help my father turn over and relax his muscles as usual, only to find that he had passed away peacefully. I would also like to thank all sectors of society for their concern and condolences toward my father."
 
-On the desk sat the proofread manuscript from the week before — the "Look at a Picture, Tell a Story" column scheduled to run the following Monday. A week earlier, on December 16, his final children's poem "Little Crow Spends Winter" had been published in the _Mandarin Daily News_. From the first "Look at a Picture, Tell a Story" piece in 1951 to the final little crow in 2019, this column had continued for 68 years.
+On his desk lay the manuscripts he had proofread last week—the "Speaking through Pictures" column scheduled for publication next Monday. One week earlier, on December 16, he published his final children's poem, 〈The Little Crow Passing Winter〉, in _Guoyu Daily_. From the first "Speaking through Pictures" piece in 1951 to the last "Little Crow" in 2019, this column spanned 68 years.
 
-He was 96 by traditional Chinese reckoning, 95 by Western count[^36].
+He passed away at the age of 96 (nominal age; 95 actual years) [^36].
 
-From 1944, when he lost his father on the banks of the Jiulong River, to that December 23 morning, he spent 75 years answering the question posed to the 21-year-old eldest son who stood at the water's edge: you write your things — he did.
+From the moment he lost his father by the banks of the Jiulong River in 1944 to that morning on December 23, he spent 75 years answering the 21-year-old eldest son standing by the riverbank back then: "You write your part"—and he did exactly that.
 
-He wrote until the last week. He wrote until his **youngest daughter** came back and withdrew the savings he had deposited in her. He wrote his way to the **longest-running column** and **oldest award recipient** in the history of Mandarin-language children's literature. He wrote until his own definition of "simple language" — "shallow, yes, but shallow with flavor" — became the baseline for how entire postwar generations of Taiwanese children were first treated as complete readers.
+He wrote until his final week. He wrote until his **youngest daughter** returned to collect the "savings" he had kept for her. He wrote the **longest-running column** and became the **oldest award winner** in the history of Chinese-language children's literature. He wrote his own definition of _qianyu_ (simple language): "Simple is simple, but it must be simple yet flavorful"—becoming the baseline for several generations of post-war Taiwanese children to be treated as complete readers for the first time.
 
-📝 **Curator's Note:** The 2012 National Cultural and Arts Award (16th edition) citation said it precisely[^37]: "Sustained creative work for 60 years, with outstanding and cumulative achievement; pioneering and original contributions to children's literature. Language that is free and lively, weaving texts with a distinctive aesthetic of simplicity, shaping an artistic style that is harmonious and warm." This reads as though it was written for Lin Liang, and also as though it was written for the entire period when postwar Taiwanese children's literature went from nothing to something.
+📝 **Curator's Note:** The National Culture and Arts Foundation's citation for his 16th National Cultural Arts Award in 2012 was very precise[^37]: "Continuous creation for 60 years, with works achieving outstanding and cumulative success; pioneering and original contributions to children's literature. The language of the works is free and lively, weaving prose with a unique aesthetic of simple language and shaping a harmonious and warm artistic style." These words read as if they were written for Lin Liang himself, and also for the entire era in which post-war Taiwan's children's literature grew from nothing into existence.
 
-🧬 _This article was EVOLVEd from idlccp's March 27, 2026 initial draft, rewritten with full Stage 1 research (22 WebSearch + 11 WebFetch, [research report](../../reports/research/2026-04/林良.md)). The Jiulong River scene, "art of simple language" verbatim quotations, the daughter-transcription scene, and the final posthumous poem "Little Crow Spends Winter" were all newly added from this research._
+🧬 _This article EVOLVED from the idlccp 2026-03-27 first edition, rewritten to include the full Stage 1 research (22 WebSearch + 11 WebFetch, [Research Report](../../reports/research/2026-04/林良.md)). The scene by the Jiulong River, verbatim quotes on the art of \_qianyu_, the scene of his daughter transcribing his work, and his final work 〈The Little Crow Passing Winter〉 were all added through this research.\_
 
 **Further Reading**:
 
-- Postwar Taiwan Literature — the broader historical context of Lin Liang's generation: mainlanders who crossed the strait and began writing for children on this island
-- Post-Martial Law Taiwan Literature — Lin Liang witnessed and participated in the transition of children's literature from the margins to the mainstream during this period
-- Japanese Colonial Period Literature — the Taiwanese literary context before Lin Liang arrived; understanding the historical counterpoint to his position as "Mandarin Promoter"
-- Taiwan Literary History — children's literature as a branch of postwar Taiwanese literature; Lin Liang as its founding figure
+- [Post-war Taiwan Literature](/en/art/postwar-taiwanese-literature) — The broader historical context of Lin Liang's generation: "after crossing the sea from mainland China, they began writing for children on this island."
+- [Taiwanese Literature after Martial Law](/en/art/post-martial-law-taiwanese-literature) — During this period, Lin Liang witnessed and participated in the transition of children's literature from the margins to the mainstream.
+- [Literature during the Japanese Colonial Period](/en/art/taiwanese-literature-during-japanese-rule) — The literary context of Taiwan before Lin Liang arrived, providing a historical contrast to understand his position as a "Mandarin Promotion Officer."
+- [History of Taiwan Literature](/en/art/history-of-taiwanese-literature) — As a branch of post-war Taiwanese literature, children's literature counts Lin Liang as one of its founders.
 
 ## References
 
-[^1]: [Huaxia Net — Lin Liang: Forever the Little Sun](https://big5.huaxia.com/c/2021/01/04/500332.shtml) — A lengthy China-perspective account of Lin Liang's childhood and wartime displacement; includes the specific scene of father Lin Mu-ren diving into the Jiulong River in Zhangzhou to save a drowning young man; the most detailed public account of this episode.
+[^1]: [Huaxia Jingwei Network — Lin Liang: The Eternal Little Sun](https://big5.huaxia.com/c/2021/01/04/500332.shtml) — A long-form narrative from a Chinese perspective describing Lin Liang's childhood and wartime escape experiences, including the specific scene where his father, Lin Muran, perished while rescuing a drowning young person in the Jiulong River, Zhangzhou; this is the most detailed public account of this period.
 
-[^2]: [Wikipedia — Lin Liang (Taiwanese author)](https://zh.wikipedia.org/zh-tw/%E6%9E%97%E8%89%AF_%28%E8%87%BA%E7%81%A3%E4%BD%9C%E5%AE%B6%29) — Multi-source consolidated biography, complete life history, family background, works list, and awards record; includes parents' names (Lin Mu-ren, Wu Bao-chai) and sibling structure (two younger brothers, one younger sister).
+[^2]: [Wikipedia — Lin Liang (Taiwanese Author)](https://zh.wikipedia.org/zh-tw/%E6%9E%97%E8%89%AF_%28%E8%87%BA%E7%81%A3%E4%BD%9C%E5%AE%B6%29) — A multi-source compilation of his complete biography, family background, list of works, and award records; includes parents' names (Lin Muran, Wu Baochai) and sibling structure (two brothers and one sister).
 
-[^3]: [Global Views Monthly — Lin Liang Obituary](https://www.gvm.com.tw/article/70126) — Collects Lin Liang's self-quotation "for the sake of writing, I once gave things up" and multiple award-ceremony citations.
+[^3]: [Vista Magazine — Obituary Long-form Article on the Passing of Lin Liang](https://www.gvm.com.tw/article/70126) — An obituary report containing Lin Liang's self-narrative "I once gave up writing for the sake of writing" and quotes from his various award acceptance speeches.
 
-[^4]: [National Taiwan Normal University — Distinguished Alumni Lin Liang Passes Away](https://pr.ntnu.edu.tw/ntnunews/index.php?mode=data&id=19058&type_id=72) — NTNU's obituary, confirming February 1946 arrival in Taiwan; educational background (Tamkang English Language Preparatory School English department, Normal University Chinese Language University Preparatory Mandarin Program).
+[^4]: [National Taiwan Normal University — Distinguished Alumnus Lin Liang, Who Cared for Children's Literature Throughout His Life, Passes Away](https://pr.ntnu.edu.tw/ntnunews/index.php?mode=data&id=19058&type_id=72) — An obituary from his alma mater, NTNU, confirming his arrival in Taiwan in February 1946 and his educational background (English Department of Tamkang Junior College of Commerce, Chinese Department of the Normal College).
 
-[^5]: [Wikipedia — Taiwan Provincial Mandarin Promotion Committee](https://zh.wikipedia.org/zh-cn/%E8%87%BA%E7%81%A3%E7%9C%81%E5%9C%8B%E8%AA%9E%E6%8E%A8%E8%A1%8C%E5%A7%94%E5%93%A1%E6%9C%83) — Mandarin promotion institution established after the Nationalist government took control of Taiwan in 1946; includes Wei Jian-gong and Ho Jung's leadership and the policy background of recruiting Mandarin promoters from Xiamen.
+[^5]: [Wikipedia — Taiwan Provincial Mandarin Promotion Committee](https://zh.wikipedia.org/zh-cn/%E8%87%BA%E7%81%A3%E7%9C%81%E5%9C%8B%E8%AA%9E%E6%8E%A8%E8%A1%8C%E5%A7%94%E5%93%A1%E6%9C%83) — The institution established to promote Mandarin after the Nationalist government took over Taiwan in 1946, including the leadership of Wei Jian-gong and He Rong, and the policy background regarding the recruitment of Mandarin promoters from Xiamen.
 
-[^6]: [National Culture and Arts Foundation — Lin Liang, 16th National Cultural and Arts Award](https://www.ncafroc.org.tw/artsaward/winnerDetail@1279) — Official NCAF page; includes details of Lin Liang's 1946 assignment to the committee's research division for Mandarin/Southern Min comparative studies.
+[^6]: [National Culture and Arts Foundation — Introduction to Lin Liang's 16th National Cultural Arts Award](https://www.ncafroc.org.tw/artsaward/winnerDetail@1279) — Official NCAF page, including details of his duties after arriving in Taiwan in 1946, where he was assigned to the Research Division of the Mandarin Promotion Committee to conduct comparative research on Mandarin and Hokkien.
 
-[^7]: [National Culture and Arts Foundation — Online Journal: Lin Liang Feature](https://mag.ncafroc.org.tw/article_detail.html?id=297ef72271bb185e017211b0e1e70037) — Supplements career details: Lin Liang joined _Mandarin Daily News_ children's section in 1948; "Look at a Picture, Tell a Story" column from 1951, continued for 50 years.
+[^7]: [National Culture and Arts Foundation — Online Archive: Special Feature on Lin Liang](https://mag.ncafroc.org.tw/article_detail.html?id=297ef72271bb185e017211b0e1e70037) — Supplementary details regarding Lin Liang's career, including his entry into the children's section editorial team of the "Mandarin Daily" in 1948 and his 50-year tenure writing the "Speaking to Pictures" column starting from 1951.
 
-[^8]: [books.com.tw — _The Art of Simple Language_ (new edition)](https://www.mdnkids.com/ebook/products.asp?P_Sn=1105) — 1976 first edition information; new edition introduction describes 28 essays covering Lin Liang's complete theoretical elaboration of "simple language" in children's literature.
+[^8]: [Books.com.tw — Introduction to "The Art of Simple Language" (New Edition)](https://www.mdnkids.com/ebook/products.asp?P_Sn=1105) — Information on the first edition of this 1976 collection of essays; the new edition introduction explains how the 28 articles provide a complete discourse on Lin Liang's concept of "simple language" in children's literature.
 
-[^9]: [PTS News — Lin Liang, Forever "Little Sun," Passes Away Peacefully at 95](https://news.pts.org.tw/article/459780) — PTS December 23, 2019 obituary; includes description of audio clip from Lin Liang's 2013 PTS interview verbatim: "Shallow, yes — but shallow with flavor."
+[^9]: [PTS News — The Eternal "Little Sun" Lin Liang Passes Away in His Sleep at Age 95](https://news.pts.org.tw/article/459780) — An obituary report by PTS dated 2019-12-23, including a video clip description of Lin Liang's verbatim words from a 2013 PTS interview: "Simple is simple, but it must be simple yet flavorful."
 
-[^10]: [books.com.tw — _The Art of Simple Language_ new edition (same as [^8])](https://www.mdnkids.com/ebook/products.asp?P_Sn=1105) — Includes verbatim from the 1976 first edition preface: "Adults receiving literary nourishment is regarded as a matter of course, a right they are entitled to. Children should enjoy exactly the same."
+[^10]: [Books.com.tw — Introduction to the New Edition of "The Art of Simple Language" (Same as [^8])](https://www.mdnkids.com/ebook/products.asp?P_Sn=1105) — Includes the original words from the 1976 first edition's preface: "Adults' acceptance of literary cultivation is seen as a natural right; children should enjoy it equally."
 
-[^11]: [books.com.tw — _Little Sun_ book information](https://www.mdnkids.com/ebook/author.asp?A_Sn=1) — Pure Literature Press 1972 edition; includes "more than 130 reprintings" fact and publishing background.
+[^11]: [Books.com.tw — Introduction to "Little Sun"](https://www.mdnkids.com/ebook/author.asp?A_Sn=1) — Information on the 1972 edition by Pure Literature Publishing House, including the fact that it has been reprinted over 130 times and its publication background.
 
-[^12]: [Míng Rén Táng — Lin Liang and His Little Sun](https://opinion.udn.com/opinion/story/11608/4243481) — Extended Lin Liang reading essay, including details of _Little Sun_'s original serialization in the "Tea Talk" column.
+[^12]: [Mingren Tang — Lin Liang and His Little Sun](https://opinion.udn.com/opinion/story/11608/4243481) — A long-form interview and reading notes on Lin Liang written by Sato Mamoru, including details of the original serialization in the "Tea Talk" column of "Little Sun".
 
-[^13]: [books.com.tw — _Little Sun_ (same as [^11])](https://www.mdnkids.com/ebook/author.asp?A_Sn=1) — Pure Literature Press 1972 publication; Lin Liang's representative essay collection.
+[^13]: [Books.com.tw — Introduction to "Little Sun" (Same as [^11])](https://www.mdnkids.com/ebook/author.asp?A_Sn=1) — Publication information for the 1972 edition by Pure Literature Publishing House; it is a representative work of Lin Liang's prose collections.
 
-[^14]: [Openbook — Interview: Warming All of Taiwan for Half a Century — Little Sun's Lin Liang and Daughter Lin Wei](https://www.openbook.org.tw/article/p-39482) — 2018 Lin Wei interview; detailed accounts of _Little Sun_'s correspondence to real family events, family members (wife Cheng Hsiu-chih, three daughters' names, Spitz named Snow).
+[^14]: [Openbook Reading — Interview: Warming All of Taiwan for Half a Century, Recent Status of "Little Sun's" Home: Lin Liang and Daughter Lin Wei](https://www.openbook.org.tw/article/p-39482) — A 2018 interview with Lin Wei, including the correspondence between the contents of "Little Sun" and real family events, and detailed descriptions of family members (wife Zheng Xiuzhi, names of three daughters, and the fox dog Snow).
 
-[^15]: [Openbook — Lin Liang + Lin Wei father-daughter interview (same as [^14])](https://www.openbook.org.tw/article/p-39482) — Includes origin of the Spitz named "Snow" and background on Lin Liang writing _I Am a Spitz_ in 2003 from Snow's first-person perspective.
+[^15]: [Openbook Reading — Interview with Father and Daughter Lin Liang and Lin Wei (Same as [^14])](https://www.openbook.org.tw/article/p-39482) — Includes the origin of the fox dog "Snow's" name and the background of Lin Liang writing "I Am a Fox Dog" in 2003 from Snow's first-person perspective.
 
-[^16]: [Taisounds — Children's Author Lin Liang Passes Away at 96: To Become a Confidant to the Young](https://www.taisounds.com/news/content/96/18572) — Extended obituary; includes the authoritative verbatim account of Lin Liang's creative motivation for _Little Sun_: "a man sitting at home and missing home."
+[^16]: [Tai-bao — Children's book author Lin Liang passes away at age 96: Becoming a soulmate for youth](https://www.taisounds.com/news/content/96/18572) — An obituary article containing Lin Liang's authoritative self-account regarding the motivation behind creating 'Little Sun': 'Writing "Little Sun" in the dead of night was a man sitting in his own home, feeling homesick.'
 
-[^17]: [Taisounds — Lin Liang obituary (same as [^16])](https://www.taisounds.com/news/content/96/18572) — Contains the famous _Little Sun_ quotation: "We once desperately longed for the sun — but now we've forgotten the world outside the window, because we have our very own little sun."
+[^17]: [Tai-bao — Lin Liang Obituary (Same as [^16])](https://www.taisounds.com/news/content/96/18572) — Includes the famous quote from the book "Little Sun": 'We once longed bitterly for the sun, but now, we have forgotten the world outside our window because we have our own little sun.'
 
-[^18]: [Global Views Monthly — Lin Liang obituary (supplementary: interview at 91)](https://www.gvm.com.tw/article/70126) — Consolidated obituary citing the 2016 _CommonHealth_ interview of 91-year-old Lin Liang, recording his five-columns-per-week habit and daily 6–9 a.m. writing routine.
+[^18]: [CommonWealth Magazine — Lin Liang Obituary (Supplement: 91-year-old life interview)](https://www.gvm.com.tw/article/70126) — A comprehensive report by CommonWealth Magazine citing content from a 2016 interview with the 91-year-old Lin Liang in Health Magazine, recording his daily routine of writing five columns every week from 6:00 to 9:00 AM.
 
-[^19]: [Global Views Monthly — Lin Liang at 91 interview quotation (same as [^18])](https://www.gvm.com.tw/article/70126) — Verbatim: "If I compare this year's me with next year's me, this year's me is still the young one!"
+[^19]: [CommonWealth Magazine — Quotes from Lin Liang's 91-year-old interview (Same as [^18])](https://www.gvm.com.tw/article/70126) — Includes the original words from Lin Liang's 91-year-old interview: 'Compared to me this year, I am still a young lad next year.'
 
-[^20]: [Mandarin Daily News — _Look at a Picture, Tell a Story_ series](https://www.mdnkids.com/ebook/products.asp?P_Sn=1112) — Official Mandarin Daily News Press page; records the column running for 50+ consecutive years from 1951 and the cumulative number of children's poems and stories.
+[^20]: [Guoyu Daily Official — "Speaking through Pictures" Series](https://www.mdnkids.com/ebook/products.asp?P_Sn=1112) — The official page of Guoyu Daily Publishing, recording the physical scale and cumulative number of children's poems and prose in the "Speaking through Pictures" column for over 50 consecutive years since 1951.
 
-[^21]: [Global Views Monthly — Lin Liang obituary (same as [^3])](https://www.gvm.com.tw/article/70126) — Verbatim from Lin Liang's 2012 acceptance speech at the 16th National Cultural and Arts Award: "Every time I pick up my pen, I feel like I'm telling a story to a group of little friends from the past."
+[^21]: [CommonWealth Magazine — Lin Liang Obituary (Same as [^3])](https://www.gvm.com.tw/article/70126) — Includes quotes from Lin Liang's 2012 speech upon receiving the 16th National Cultural Award: 'Every time I put pen to paper, I feel as if I am telling stories to that group of children from before.'
 
-[^22]: [CNA — Lin Liang Passes Away Peacefully; Daughter Lin Wei Releases Obituary](https://www.cna.com.tw/news/firstnews/201912235002.aspx) — Official CNA obituary; includes Lin Liang's final poem "Little Crow Spends Winter" published December 16, 2019, and Lin Wei's complete interview on the day of death.
+[^22]: [CNA — Lin Liang passes away in his sleep at age 96; obituary released by daughter Lin Wei](https://www.cna.com.tw/news/firstnews/201912235002.aspx) — Official CNA obituary, including Lin Liang's last children's poem "The Little Crow Spending Winter" published on 2019-12-16 and the full interview transcript with his daughter, Lin Wei.
 
-[^23]: [Wikipedia — Lin Liang (Taiwanese author) (same as [^2])](https://zh.wikipedia.org/zh-tw/%E6%9E%97%E8%89%AF_%28%E8%87%BA%E7%81%A3%E4%BD%9C%E5%AE%B6%29) — Lin Liang's complete 57-year career at _Mandarin Daily News_ (1948–2005), from children's section editor through chief editor, publishing director, president, and board chair.
+[^23]: [Wikipedia — Lin Liang (Taiwanese Author) (Same as [^2])](https://zh.wikipedia.org/zh-tw/%E6%9E%97%E8%89%AF_%28%E8%87%BA%E7%81%A3%E4%BD%9C%E5%AE%B6%29) — Details Lin Liang's complete career working at Guoyu Daily for 57 years from 1948 to 2005, serving as editor of the children's edition, director of translation and compilation, publishing manager, president, and chairman.
 
-[^24]: [Mandarin Daily News — Shepherd Flute Award](https://www.mdnkids.com/mdn_mudi/) — Official page of the _Mandarin Daily News_ children's literature award; records the talent-cultivation mechanism Lin Liang helped establish during his tenure.
+[^24]: [Guoyu Daily Official — Mudi Award](https://www.mdnkids.com/mdn_mudi/) — The official page for the children's literature creation award established by Guoyu Daily, recording the talent cultivation mechanism for children's literature facilitated during Lin Liang's tenure.
 
-[^25]: [National Museum of Taiwan Literature — Taiwan Literature Dictionary: Republic of China Children's Literature Society](https://db.nmtl.gov.tw/site2/dictionary?id=Dictionary00097) — Details of the December 23, 1984 founding in Taipei; includes Lin Liang as convenor and first president, Ma Ching-hsien as deputy convenor, Lin Chun-hui, Tai Shu-hsun, and Lin Huan-chang as organizing committee members.
+[^25]: [National Taiwan University of Literature — Dictionary of Taiwan Literature: Republic of China Children's Literature Association](https://db.nmtl.gov.tw/site2/dictionary?id=Dictionary00097) — Details regarding its establishment in Taipei on 1984-12-23, including full information on founders such as Lin Liang (Convener + 1st Chairperson), Vice Conveners Ma Jing-hsien, Lin Chun-hui, and Dai Shu-xun, and contact person Lin Huan-chang.
 
-[^26]: [Openbook — Lin Liang + Lin Wei father-daughter interview (same as [^14])](https://www.openbook.org.tw/article/p-39482) — Records Lin Liang collapsing at 92, doctors discovering a prior undetected stroke, recovery through determination to keep writing drafts.
+[^26]: [Openbook — Exclusive interview with father and daughter Lin Liang and Lin Wei (Same as [^14])](https://www.openbook.org.tw/article/p-39482) — Records the details of how doctors discovered Lin Liang had previously suffered a stroke after he collapsed and was hospitalized at age 92, noting he recovered through the willpower of writing.
 
-[^27]: [CNA — Lin Liang obituary (same as [^22])](https://www.cna.com.tw/news/firstnews/201912235002.aspx) — Three months before his death, diminished strength made it impossible to hold a pen; column shifted to a "Lin Liang dictates, Lin Wei transcribes, father confirms" workflow.
+[^27]: [CNA — Lin Liang Obituary (Same as [^22])](https://www.cna.com.tw/news/firstnews/201912235002.aspx) — In the three months before his passing, due to weakened physical strength, his column production process changed to "Lin Liang dictates, Lin Wei transcribes, and then the father confirms."
 
-[^28]: [CNA — Lin Wei interview (same as [^22])](https://www.cna.com.tw/news/firstnews/201912235002.aspx) — Lin Wei's December 23, 2019 CNA interview verbatim: "Father kept writing despite everything — no pain, no suffering, a peaceful departure" and "Even after the minor stroke four years ago left him unable to write long pieces, he persisted in writing short ones."
+[^28]: [CNA — Interview with Lin Wei (Same as [^22])](https://www.cna.com.tw/news/firstnews/201912235002.aspx) — Verbatim interview record of Lin Wei being interviewed by CNA on 2019-12-23, including original quotes such as "My father kept striving to write without any pain" and "Even though he could not write long articles after a minor stroke four years ago."
 
-[^29]: [Openbook — Lin Wei interview (same as [^14])](https://www.openbook.org.tw/article/p-39482) — Records Lin Wei serving as chief editor of _Mandarin Daily News_ in her father's later years.
+[^29]: [Openbook — Exclusive interview with Lin Wei (Same as [^14])](https://www.openbook.org.tw/article/p-39482) — Records that Lin Wei served as the editor-in-chief of Guoyu Daily during her father's later years.
 
-[^30]: [Openbook — Lin Wei interview (_Forever Little Sun: Lin Liang_ publishing background)](https://www.openbook.org.tw/article/p-39482) — Background of Lin Wei's 2014 publication _Forever Little Sun: Lin Liang_; origins of the father-daughter conversation record, childhood details, and the impetus for the writing project.
+[^30]: [Openbook — Exclusive interview with Lin Wei (Publication background of "The Eternal Little Sun: Lin Liang")](https://www.openbook.org.tw/article/p-39482) — The publication background and motivation for Lin Wei's 2014 work "The Eternal Little Sun: Lin Liang," including records of parent-child dialogues, childhood details, and the origins of her writing project.
 
-[^31]: [Openbook — Lin Wei interview (same as [^14])](https://www.openbook.org.tw/article/p-39482) — Verbatim: "These are all the 'savings' my father deposited in me back then — I think this is also why he can now 'withdraw' such good care."
+[^31]: [Openbook Reading Magazine — Interview with Lin Wei (same as [^14] source)](https://www.openbook.org.tw/article/p-39482) — Includes Lin Wei's original words: "These are all the 'deposits' my father left with me back then; I feel this is also why he can now 'cash in' such good care."
 
-[^32]: [Openbook — 2018 Best Children's Book Award Winners](https://www.openbook.org.tw/article/p-27189) — Award list and citation; records _Snail: 78 Poems by Lin Liang_ winning; Lin Liang at 95 as the oldest children's book recipient in Taiwan's history.
+[^32]: [Openbook Reading Magazine — Introduction to 2018 Openbook Best Children's Book Award Winners](https://www.openbook.org.tw/article/p-27189) — The 2018 Openbook Best Children's Book Award winner list and commentary, recording that "Snail: Lin Liang's 78 Poems" won an award, noting the fact that 95-year-old Lin Liang was the oldest children's book award winner in Taiwan's history.
 
-[^33]: [Taisounds — Lin Liang obituary (same as [^16])](https://www.taisounds.com/news/content/96/18572) — Records Lin Liang publishing his final book _Happy Youth: Grandpa Lin Liang's Treasury of Wisdom_ in October 2019.
+[^33]: [Tai Sounds — Obituary of Lin Liang (same as [^16] source)](https://www.taisounds.com/news/content/96/18572) — Records details regarding the publication of Lin Liang's final book before his passing, "Happy Youth: Grandpa Lin Liang's Wisdom Savings Account," in October 2019.
 
-[^34]: [Taisounds — Lin Liang preface quotation (same as [^16])](https://www.taisounds.com/news/content/96/18572) — Verbatim from _Happy Youth_ preface: "I hope through this book to forge a bond with young readers — to have a conversation with them through words, to become a confidant to them."
+[^34]: [Tai Sounds — Quote from Lin Liang's Preface (same as [^16] source)](https://www.taisounds.com/news/content/96/18572) — Includes the original words from the preface of "Happy Youth": "I hope that through this book, I can establish an emotional connection with young readers, using words to converse with them and become their soulmate."
 
-[^35]: [CNA — Lin Wei obituary (same as [^22])](https://www.cna.com.tw/news/firstnews/201912235002.aspx) — Lin Wei's specific account of the morning of December 23, 2019, and the verbatim announcement of Lin Liang's passing.
+[^35]: [CNA — Obituary of Lin Wei (same as [^22] source)](https://www.cna.com.tw/news/firstnews/201912235002.aspx) — Verbatim account of the specific scene and obituary regarding Lin Wei discovering Lin Liang's peaceful passing at 7:00 AM on December 23, 2019.
 
-[^36]: [CNA — Lin Liang's age (same as [^22])](https://www.cna.com.tw/news/firstnews/201912235002.aspx) — Lin Liang was 96 by traditional Chinese reckoning (虛歲), 95 by Western count; passed away on the morning of December 23, 2019.
+[^36]: [CNA — Lin Liang passes away at an advanced age (same as [^22] source)](https://www.cna.com.tw/news/firstnews/201912235002.aspx) — Lin Liang passed away at 7:00 AM on December 23, 2019, at the advanced age of 96 (traditional Chinese age), or a chronological age of 95.
 
-[^37]: [National Culture and Arts Foundation — Lin Liang award citation (same as [^6])](https://www.ncafroc.org.tw/artsaward/winnerDetail@1279) — NCAF 2012 16th National Cultural and Arts Award jury citation verbatim: "Sustained creative work for 60 years, with outstanding and cumulative achievement ..."
+[^37]: [National Culture and Arts Foundation — Reason for Lin Liang's Award (same as [^6] source)](https://www.ncafroc.org.tw/artsaward/winnerDetail@1279) — The full verbatim text of the NCAF 16th National Award for Arts jury's reasoning: "Continuous creation for 60 years, with works demonstrating outstanding and cumulative achievements."

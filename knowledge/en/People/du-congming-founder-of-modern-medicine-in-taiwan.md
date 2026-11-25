@@ -1,12 +1,12 @@
 ---
-title: 'Du Congming'
-description: "Taiwan's first medical doctorate holder who developed the gradual smoking cessation method helping 11,498 people quit opium in 17 years; founder of Kaohsiung Medical University"
+title: 'Tu Tsung-ming'
+description: 'The first medical doctor in Taiwan''s history. Born in Sanzhi in 1893, he obtained his medical doctorate from Kyoto Imperial University in 1922, an achievement reported as a headline in Taiwanese newspapers. He invented the "gradual withdrawal method," which helped over 11,498 opium addicts quit during his 17-year career, addressing Taiwan''s three-century-long opium problem. The principle of urine morphine testing he developed remains a fundamental method for drug testing worldwide today. He was also the founder of Kaohsiung Medical College, the first private university in Taiwan.'
 date: 2026-03-31
 category: 'People'
 tags:
   [
     'Medicine',
-    'Medical Doctorate',
+    'Medical Doctor',
     'Modern Medicine in Taiwan',
     'Kyoto Imperial University',
     'Pharmacology',
@@ -22,10 +22,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/杜聰明.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '00dc1f6e04'
 sourceContentHash: 'sha256:cda33c38cf5ae9bc'
 sourceBodyHash: 'sha256:f0f1f0e7889b7e24'
-translatedAt: '2026-09-28T02:52:33+08:00'
+translatedAt: '2026-11-25T05:37:30.464824+00:00'
 ---
 
 # Du Congming

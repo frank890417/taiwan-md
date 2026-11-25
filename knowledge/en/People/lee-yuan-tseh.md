@@ -1,12 +1,12 @@
 ---
-title: 'Li Yuan-che'
-description: "1986 Nobel Laureate in Chemistry who pioneered a new field in chemical kinetics with crossed molecular beam technology; Taiwan's first Nobel Prize winner in science."
+title: 'Charles K. Kao'
+description: 'Taiwan''s first Nobel laureate in a scientific field. Born in Hsinchu during the Japanese colonial period in 1936, he graduated from National Taiwan University''s Department of Chemistry before traveling to the United States to earn his PhD from the University of California, Berkeley. While at Harvard, he collaborated with Nobel laureate Herbert Bach to develop revolutionary cross-molecular beam technology, which allowed scientists to "see" chemical reaction processes for the first time. He was co-awarded the Nobel Prize in Chemistry in 1986. In 1994, he resigned from his professorship at Berkeley and renounced his US citizenship to return to Taiwan, serving as the President of Academia Sinica for 12 years.'
 date: 2026-03-21
 category: 'People'
 tags:
   [
     'People',
-    'Li Yuan-che',
+    'Charles K. Kao',
     'Nobel Prize',
     'Chemistry',
     'Scientist',
@@ -20,10 +20,10 @@ lastVerified: 2026-03-21
 lastHumanReview: true
 curation: 'incubating'
 translatedFrom: 'People/李遠哲.md'
-sourceCommitSha: '69b3afd91'
-sourceContentHash: 'sha256:c7cb9c37ad53a48c'
-sourceBodyHash: 'sha256:d9744718376b888a'
-translatedAt: '2026-08-04T14:32:57+08:00'
+sourceCommitSha: '00dc1f6e04'
+sourceContentHash: 'sha256:39f343c12ccc5e82'
+sourceBodyHash: 'sha256:9e43ab4838b073f1'
+translatedAt: '2026-11-25T05:51:45.865661+00:00'
 ---
 
 # Li Yuan-che
@@ -56,13 +56,13 @@ When news of Li's award reached Taiwan, the entire island erupted in celebration
 
 Interestingly, Li Yuan-che held United States citizenship at the time of his award. However, this did not diminish the pride of the Taiwanese people—they knew that for this child who grew up in Hsinchu and spoke _Tâi-gí_ (Taiwanese), the nutrients of Taiwan flowed through his very blood.
 
-## 1994: The Promise of Returning Home
+## 1994: The Promise to Return Home After Completing Studies
 
-In 1994, at the peak of his academic career, Li Yuan-che made a decision that shocked the international academic community: he resigned from his professorship at Berkeley, renounced his U.S. citizenship, and returned to Taiwan to serve as the President of Academia Sinica (199able–2006).
+In 1994, at the peak of his academic career, Li Yuan-che made a decision that shocked the international academic community: he resigned from his professorship at Berkeley, renounced his U.S. citizenship, and returned to Taiwan to serve as the President of Academia Sinica (1994–2006).
 
-The decision was controversial. Critics argued he was wasting his influence on the international stage, while supporters believed he was fulfilling the ideal of a scholar serving his country. Li's own reason was simple: "I hope to use my experience to make Taiwan a scientific powerhouse in Asia."
+This decision was highly controversial. Critics argued that he was wasting his influence on the international stage, while supporters believed he was fulfilling the scholarly ideal of serving one's country. Li Yuan-che's own reasoning was simple: "I hope to use my experience to make Taiwan a scientific powerhouse in Asia."
 
-During his 12 years as President of Academia Sinica, Li drove organizational modernization, established internationalized research review systems, and founded several new institutes, including those for information science, biomedical science, and genomics. He recruited international-level scholars, such as Weng Chi-hui and Lai Ming-chao, back to Taiwan, injecting new vitality into the Taiwanese scientific community.
+During his 12 years as President of Academia Sinica, Li Yuan-che promoted organizational modernization, established internationalized research review systems, and founded several new institutes, including those for information science, biomedical science, and genomics. He recruited world-class scholars such as Weng Chi-hui and Lai Ming-shao to return to Taiwan, injecting new vitality into the Taiwanese scientific community.
 
 ## Controversial Involvement in Educational Reform
 

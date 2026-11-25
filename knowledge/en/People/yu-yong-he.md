@@ -1,22 +1,32 @@
 ---
 title: 'Yu Yonghe'
-description: 'In 1697, a Hangzhou scholar volunteered to travel to the pestilential land of Taiwan to collect sulfur. He walked from Tainan all the way to Beitou, producing the earliest work of nonfiction literature about northern Taiwan.'
+description: 'A scholar from Hangzhou, Zhejiang, who volunteered to cross the sea to Taiwan to collect sulfur following a gunpowder depot fire in Fuzhou in 1746. Traveling north from Tainan by oxcart, he crossed the western plains in twenty days, passing through over a dozen indigenous tribes to reach the sulfur regions of Beitou. His nine-month journey in Taiwan was compiled into "Pi Hai Ji You" (Travels in the Sea), which became an early classic documenting the human geography of northern Taiwan. Upon seeing indigenous people sleeping in the mud, he wrote "They are also human," a rare moment of reflection during an era when the Qing Dynasty viewed indigenous peoples as uncivilized outsiders, and his work provides precious descriptions regarding the mystery of the Lake of Taipei during the Kangxi era.'
 date: 2026-03-25
-author: 'Taiwan.md'
 category: 'People'
+tags:
+  [
+    'People',
+    'Yu Yonghe',
+    'Pi Hai Ji You',
+    'Qing Dynasty',
+    'Exploration',
+    'Beitou',
+    'Sulfur',
+    'Taiwanese Literature',
+  ]
 subcategory: '歷史與探險'
-tags: ['人物', '郁永河', '裨海紀遊', '清代', '探險', '北投', '硫磺', '台灣文學']
-readingTime: 10
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-25
 lastHumanReview: true
-featured: false
+readingTime: 10
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/郁永河.md'
-sourceCommitSha: '22286539'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:4070459913f1808f'
 sourceBodyHash: 'sha256:f14cb1a2a50dc23e'
-translatedAt: '2026-05-02T02:50:54+08:00'
+translatedAt: '2026-11-25T05:35:28.405649+00:00'
 ---
 
 # Yu Yonghe

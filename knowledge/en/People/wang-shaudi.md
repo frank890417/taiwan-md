@@ -1,6 +1,6 @@
 ---
-title: "Wang Xiao-di: The Sexagenarian Boy and Taiwan Television's Gentle Revolution"
-description: "From a general's son to a rebellious youth, from a rebellious youth to the godmother of Taiwanese TV dramas — Wang Xiao-di spent forty years proving that making television can be a social movement."
+title: "Wang Hsiao-ti: The Sexagenarian Boy and Taiwan Television's Gentle Revolution"
+description: "A Taiwan television drama director whose father was General Wang Sheng, a core figure in the intelligence apparatus during the martial law era, yet she devoted her career to turning her lens toward ordinary people. She won the Golden Horse Award for Best Original Screenplay for 'The Straw Man.' Starting in the late 1980s at CTV, she directed family dramas such as 'All in the Family' and 'Mother Hen and Her Ducklings.' In 1992 she founded Rice Field Film Studio, and for PTS she pioneered workplace dramas like 'The Hospital.' She received the National Award for Arts in 2014, launched Qseries in 2016 to nurture new actors and expand drama genres, and followed with Zongseries in 2022. Younger colleagues respectfully call her 'Teacher Hsiao-ti.'"
 date: 2026-03-28
 category: 'People'
 tags:
@@ -19,10 +19,10 @@ featured: false
 lastVerified: 2026-03-28
 lastHumanReview: true
 translatedFrom: 'People/王小棣.md'
-sourceCommitSha: '3638ec158'
+sourceCommitSha: '20dcddf339'
 sourceContentHash: 'sha256:50eb815f9c92fea3'
 sourceBodyHash: 'sha256:1ab1bdb7f132ff60'
-translatedAt: '2026-09-20T21:43:36.327282+00:00'
+translatedAt: '2026-11-25T06:49:32.498431+00:00'
 ---
 
 > **30-second overview:** Wang Shaudi is one of Taiwan's most important television directors, having nurtured an entire generation of actors and screenwriters over four decades. Her father was General Wang Sheng (王昇), the head of the intelligence and political warfare system during the martial law era, yet she chose to speak for ordinary people. From the 1980s series _Whole Family Happiness_ to the 2016 project Qseries (植劇場), she has used her camera to document the dignity of Taiwan's social underclass, proving through action that making television is a form of social movement. In 2014, she received the National Award for Arts.
