@@ -1,6 +1,6 @@
 ---
-title: 'Shen Wen-cheng: de mecânico em Ching Chuan Kang a rei duplo de ouro da música'
-description: 'Shen Wen-cheng, artista taiwanês "duplo de ouro" que transita entre música e apresentação. De mecânico de aviões no final da Guerra do Vietnã a sucesso nacional com "Quem Sabe os Assuntos do Coração", ele gravou seu nome nos prêmios Golden Melody e Golden Bell com sinceridade e humor.'
+title: "Shen Wen-cheng: De mecânico em Qingquan'gang a vencedor de dois prêmios Golden Melody e Golden Bell"
+description: 'Nascido em 1954 em Beinan, Taitung, de mãe da etnia Rukai. Ele ingressou na Escola de Mecânica da Força Aérea e, após a graduação, trabalhou na manutenção de caças americanos no Aeroporto de Qingquan''gang; o restaurante do aeroporto durante o final da Guerra do Vietnã foi sua iniciação musical. Após o serviço militar, foi descoberto por Tsai Chen-nan e lançou seu primeiro álbum em taiwanês, "Quem conhece meus sentimentos?", em 1982, vendendo mais de um milhão de cópias através de mercados noturnos, canteiros de obras e rádio. Em 1999, venceu o prêmio de Melhor Cantor Masculino de Dialeto no Golden Melody Awards com "Partida"; em 2013, conquistou o prêmio de Melhor Apresentador de Programa de Viagem no Golden Bell Awards com "A Pesca em Formosa", tornando-se um dos raros artistas taiwaneses a vencer ambos os prêmios. Em 2026, aos setenta e um anos, ele anunciou o relançamento de seus programas clássicos.'
 date: 2026-05-12
 category: 'People'
 tags:
@@ -9,9 +9,9 @@ tags:
     'Golden Melody Awards',
     'Golden Bell Awards',
     'Rukai',
-    'mecânico da Guerra do Vietnã',
-    'música de Taiwan',
-    'pesca',
+    'Mecânico da Guerra do Vietnã',
+    'Música de Taiwan',
+    'Pesca',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md Contributors'
@@ -22,10 +22,10 @@ readingTime: 8
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/沈文程.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '1a696c19ef'
 sourceContentHash: 'sha256:3ccf8e3a350256dc'
 sourceBodyHash: 'sha256:9a3851545dcaaf3c'
-translatedAt: '2026-11-05T05:49:44+08:00'
+translatedAt: '2026-11-25T02:24:38.909450+00:00'
 ---
 
 ## Visão geral em trinta segundos

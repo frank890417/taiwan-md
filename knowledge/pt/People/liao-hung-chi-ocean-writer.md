@@ -1,13 +1,13 @@
 ---
-title: 'Liao Hung-chi: Do Barco de Pesca de Agulhão à Deriva da Kuroshio, o Escritor do Mar que Mediu os Mares de Taiwan com a Própria Vida'
-description: "Em 1992, Liao Hung-chi virou a vida para se tornar um homem do mar, fundou a Fundação Cultural e Educacional Kuroshio e, com o 'Kuroshio 101' e o 'Projeto Cachalote π', redefiniu a perspectiva oceânica dos taiwaneses, sendo uma figura-chave na literatura oceânica contemporânea e na conservação ecológica."
+title: 'Liao Hung-chi: De barcos de pesca ao fluxo da Corrente Negra, o escritor que mede as águas de Taiwan com a própria vida'
+description: 'Escritor de literatura marinha nascido em Hualien em 1957, abandonou o trabalho em terra aos trinta e cinco anos para se tornar um pescador em Hualien. Em 1996, iniciou o primeiro levantamento civil de baleias e golfinhos em Taiwan e, em 1998, fundou a Fundação de Educação Marinha Kuroshio. Em 2016, lançou o projeto de deriva Kuroshio 101, navegando por cerca de cem horas na Corrente Negra em uma jangada sem motor; em 2022, fundou a Associação Formosa do Condado de Hualien para promover o Projeto Pi de Cachalotes. Autor da tetralogia marinha que inclui "O Pescador", foi vencedor do Prêmio Wu San-lien em 2019 e do Prêmio de Contribuição Vitalícia para a Educação Social do Ministério da Educação em 2024.'
 date: 2026-04-29
 category: 'People'
 tags:
   [
-    'Literatura Oceânica',
-    'Kuroshio',
-    'Conservação de Cetáceos',
+    'Literatura Marinha',
+    'Corrente Negra',
+    'Conservação de Baleias e Golfinhos',
     'Hualien',
     'Cachalote',
   ]
@@ -20,10 +20,10 @@ readingTime: 12
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/廖鴻基.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '1a696c19ef'
 sourceContentHash: 'sha256:f70240af05eb54ba'
 sourceBodyHash: 'sha256:1077b6698d6359d9'
-translatedAt: '2026-11-05T00:03:51.305387+00:00'
+translatedAt: '2026-11-25T02:16:48.770272+00:00'
 ---
 
 # Liao Hung-chi

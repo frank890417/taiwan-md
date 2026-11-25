@@ -1,16 +1,16 @@
 ---
-title: 'Antes consumir-se por inteiro do que enferrujar: Mackay e a Formosa que ele amou profundamente'
-description: 'Da extração de mais de vinte mil dentes à fundação de uma escola para meninas, como o missionário canadense George Leslie Mackay tornou-se um "verdadeiro taiwanês", reescrevendo em trinta anos a história da medicina, da educação e da exploração científica no norte de Taiwan.'
+title: 'Preferir queimar do que enferrujar: MacKay e sua amada Formosa'
+description: 'O missionário da Igreja Presbiteriana do Canadá desembarcou em Tamsui em 1872, aos 28 anos. Aprendendo o dialeto local com pastores de gado, ele entrou nos templos e campos do norte de Taiwan com uma Bíblia em uma mão e um alicate dentário na outra, extraindo mais de 20 mil dentes ao longo da vida e fundando a Clínica Médica de Huwei. Ele coletou espécimes de serpentes e samambaias, registrou os costumes dos povos indígenas e estabeleceu a Escola Oxford e a primeira escola feminina de Taiwan. Após 30 anos de dedicação, faleceu devido ao câncer de garganta e foi sepultado no campus da escola em Tamsui, deixando o lema: "Preferir queimar do que enferrujar".'
 date: 2026-03-31
 category: 'People'
 tags:
   [
-    'Mackay',
+    'MacKay',
     'Tamsui',
-    'história de Taiwan',
-    'medicina',
-    'educação',
-    'ciências naturais',
+    'História de Taiwan',
+    'Medicina',
+    'Educação',
+    'Ciências Naturais',
   ]
 subcategory: '歷史人物'
 author: 'Taiwan.md Contributors'
@@ -20,10 +20,10 @@ lastHumanReview: true
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/馬偕.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: 'd3a973ae06'
 sourceContentHash: 'sha256:b7d6932f284b6cf0'
 sourceBodyHash: 'sha256:d3315bfee0561cb1'
-translatedAt: '2026-08-04T14:12:36+08:00'
+translatedAt: '2026-11-25T02:21:07.109221+00:00'
 ---
 
 > **Visão geral em 30 segundos:**

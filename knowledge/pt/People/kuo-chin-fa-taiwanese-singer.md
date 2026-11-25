@@ -1,15 +1,15 @@
 ---
-title: 'Kuo Chin-fa: A Alma Grave por Trás do Bak Chang'
-description: 'De aprendiz de sapataria em Dadaocheng a Rei do Grave da Ilha Formosa, Kuo Chin-fa cantou, com uma única música — «Bak Chang» —, a amargura e a resiliência do povo comum de Taiwan no pós-guerra, consumindo-se por completo no palco.'
+title: 'Guo Jinfa: A alma grave por trás do Zongzi de Carne Assado'
+description: 'O rei do baixo nascido como aprendiz em uma sapataria em Dadaocheng, aos 15 anos venceu um concurso de canto e iniciou a carreira; com sua voz grave e profunda tornou-se famoso no cenário musical em taiwanês. Em 1973, reescreveu a letra da música proibida "Vendendo Zongzi de Carne" para "Zongzi de Carne Assado", cantando as mágoas e a resiliência dos cidadãos comuns de Taiwan no pós-guerra; após contrair dívidas devido ao incêndio no Jin Du Le Fu, foi para Singapura cantar em residência por seis meses para quitá-las. Em 2016, desmaiou após cantar a última frase de "Zongzi de Carne Assado" em um concerto para idosos em Kaohsiung, falecendo aos 72 anos, tendo lançado mais de cem álbuns ao longo da vida.'
 date: 2026-04-19
 category: 'People'
 tags:
   [
     'Música',
-    'Canções Taiwanese',
-    'Bak Chang',
-    'Rei do Grave',
-    'Canções Proibidas na Lei Marcial',
+    'Canções taiwanesas',
+    'Zongzi de Carne Assado',
+    'Rei do Baixo',
+    'Canções proibidas na lei marcial',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md Contributors'
@@ -20,10 +20,10 @@ readingTime: 10
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/郭金發.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'd3a973ae06'
 sourceContentHash: 'sha256:ffef27b2909f9d95'
 sourceBodyHash: 'sha256:b629819d5dc38d6a'
-translatedAt: '2026-11-04T22:30:54.708509+00:00'
+translatedAt: '2026-11-25T02:28:05.893952+00:00'
 ---
 
 > **📝 Nota do Curador**

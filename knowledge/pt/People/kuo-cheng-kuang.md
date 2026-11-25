@@ -1,11 +1,11 @@
 ---
-title: 'Mike Kuo'
-description: 'Ele é cientista sênior no Centro Espacial Johnson da NASA em Houston, especializado no que os astronautas comem e bebem; mas nos arquivos de sua terra natal, Taiwan, ele já figurou em uma lista negra de "terroristas".'
+title: 'Kuo Cheng-kuang'
+description: 'Um cientista sênior com mais de 45 anos de experiência no Centro Espacial Johnson da NASA, cujas pesquisas sobre alimentos espaciais, purificação de água e qualidade do ar em ambientes fechados garantem a sobrevivência dos astronautas. Nascido em Hsinchu em 1949, graduou-se em Agronomia pela Universidade Nacional Taiwan e obteve seu doutorado na Texas A&M University, ingressando na NASA em 1980. Devido à sua adesão à Aliança para a Independência de Taiwan, foi incluído em uma lista negra pelo governo do Kuomintang; em 1991, o governo de Taiwan enviou uma carta ao Departamento de Estado dos EUA classificando-o como terrorista. Em 2018, ele recebeu a então presidente Tsai Ing-wen durante sua passagem pelos EUA na condição de especialista da NASA; em 2024, respondeu a um comentário de internet dizendo: "Eu, seu avô, trabalho na NASA".'
 date: 2026-04-06
 category: 'People'
 tags:
   [
-    'Mike Kuo',
+    'Kuo Cheng-kuang',
     'NASA',
     'alimentos espaciais',
     'lista negra',
@@ -20,10 +20,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/郭正光.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '1a696c19ef'
 sourceContentHash: 'sha256:e00af3b07adcb778'
 sourceBodyHash: 'sha256:beb2338ff10788ce'
-translatedAt: '2026-11-04T23:14:45.006914+00:00'
+translatedAt: '2026-11-25T02:22:43.885798+00:00'
 ---
 
 # Mike Kuo

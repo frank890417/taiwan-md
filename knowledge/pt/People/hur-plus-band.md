@@ -1,20 +1,20 @@
 ---
-title: 'HUR+: das vice-campeãs do DD52 ao Zepp New Taipei, grupo feminino de nove integrantes que não para há cinco anos'
-description: 'Na final do programa de seleção de idols de 2020, elas perderam por 2,5 pontos. Seis anos depois, o grupo campeão desapareceu, mas as vice-campeãs continuam. O produtor investiu 50 milhões e disse: "quanto menos parecer um grupo coreano, melhor" — esta é a história de um grupo feminino taiwanês que sobreviveu.'
+title: 'HUR+: do vice-campeonato no DD52 ao Zepp New Taipei, cinco anos sem parar do grupo feminino de nove integrantes'
+description: "Grupo feminino taiwanês que estreou como vice-campeão de programa de seleção, em 2020 perdeu por 2,5 pontos na final do DD52 com a postura de 'tempestade de espadas', o produtor investiu NT$50 milhões para criar a agência, seguindo a rota 'quanto mais diferente, melhor', deliberadamente não parecendo um grupo coreano. Após expandir para nove integrantes, as membros vêm de Taiwan, Reino Unido, Mongólia, Indonésia e Vietnã; os fãs arrecadaram NT$1,5 milhão em dez minutos para enviar o grupo à Coreia para promover músicas. Seis anos depois, com três álbuns lançados, é o único grupo da mesma época de estreia que ainda lança discos, e já se apresentou no palco de Bangcoc."
 date: 2026-04-23
 category: 'People'
 tags:
   [
     'HUR+',
     'DD52',
-    'Future Girls',
-    'Grupo feminino',
+    'Garotas do Futuro',
+    'grupo feminino',
     'idol',
-    'Música taiwanesa',
-    'Filipe',
+    'música taiwanesa',
+    'Philip',
     'AOA Entertainment Lab',
     'K-POP',
-    'Idols taiwaneses',
+    'idol taiwanês',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
@@ -25,10 +25,10 @@ readingTime: 14
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/HUR-plus.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'd3a973ae06'
 sourceContentHash: 'sha256:7b6f1e2f33e3f99d'
 sourceBodyHash: 'sha256:396a9fed148c94a2'
-translatedAt: '2026-09-20T20:16:07.730136+00:00'
+translatedAt: '2026-11-25T01:46:30.298130+00:00'
 ---
 
 > **Resumo em 30 segundos:** HUR+ (originalmente HUR), vice-campeã do 《菱格世代 DD52》 de 2020 com o grupo "Tempestade de Espadas", estreou com seis integrantes; o produtor Felipe.Z fundou a AOA Entertainment Lab Starlink Eurasia. Perderam a final por 2,5 pontos, mas o grupo campeão G.O.F viu sua repercussão despencar em um ano, enquanto o PINK FUN, que estreou na mesma época, enfrentou uma controvérsia de saída de integrantes. Seis anos depois, HUR+ é o único dos três grupos de estreia que ainda lança álbuns. Três álbuns (《REVELATION》《Crimzon》《9OF9 ARCANA》), arrecadação ultrapassou 1,5 milhão em dez minutos para promoção na Coreia, nacionalidades das integrantes abrangem Mongólia, Reino Unido, Indonésia e Vietnã. Felipe.Z disse: "Se usarmos a mesma receita da Coreia, como Taiwan poderia vencer?"

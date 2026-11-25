@@ -1,15 +1,15 @@
 ---
-title: 'Chen Wen-yu: como uma semente se tornou diplomata da agricultura de Taiwan'
-description: 'Da Estação Experimental de Fengshan, passando pela melancia sem sementes Fengshan No. 1 até a Known-You Seed, Chen Wen-yu transformou o melhoramento genético em uma forma de poder brando de Taiwan que coloca a vida melhor dos agricultores em primeiro lugar.'
+title: 'Chen Wen-yu: Como uma semente se tornou o diplomata da agricultura de Taiwan'
+description: 'Pioneiro do melhoramento híbrido de vegetais em Taiwan, nascido em 1925 em uma família agrícola em Yongkang, Tainan. Partindo do Estação Experimental de Horticultura Tropical de Fengshan, ele desenvolveu em 1962 a primeira melancia sem sementes de Taiwan, a "Fengshan No. 1", e viajou pessoalmente até Erlun, Yunlin, para ensinar os agricultores a cultivar melancias em solos arenosos. Em 1968, fundou a Nongyou Seed, com a crença de "fazer o agricultor ganhar dinheiro primeiro", levando sementes e tecnologia para o exterior e estabelecendo um hospital para agricultores em Myanmar. Após seu falecimento aos 88 anos em 2012, sua vida foi incluída na história nacional, deixando o compromisso de "uma semente, uma responsabilidade".'
 date: 2026-08-16
 category: 'People'
 tags:
   [
     'Chen Wen-yu',
-    'Known-You Seed',
-    'melancia sem sementes',
-    'agricultura',
-    'melhoramento genético',
+    'Nongyou Seed',
+    'Melancia sem sementes',
+    'Agricultura',
+    'Melhoramento genético',
   ]
 subcategory: '科學與學術'
 author: 'Taiwan.md Contributors'
@@ -23,10 +23,10 @@ imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Chen_Wen-Yu_1.jpg'
 curation: 'incubating'
 translatedFrom: 'People/陳文郁.md'
-sourceCommitSha: '67c4c72fc'
+sourceCommitSha: 'd3a973ae06'
 sourceContentHash: 'sha256:3facf31822b994ad'
 sourceBodyHash: 'sha256:93a5825f5b11a6f9'
-translatedAt: '2026-11-04T14:46:26.902989+00:00'
+translatedAt: '2026-11-25T01:32:10.668313+00:00'
 ---
 
 ![Chen Wen-yu com colegas e melancias](/article-images/people/chen-wen-yu-1.webp)
