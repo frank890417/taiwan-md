@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-25T16:08:30+08:00",
-    "zhCommitHead": "002ceb67e0",
+    "lastUpdated": "2026-11-25T16:09:18+08:00",
+    "zhCommitHead": "15a01b939c",
     "totalZh": 1194,
     "activeLanguages": [
       "en",
@@ -92,9 +92,9 @@
       },
       "ar": {
         "total_zh": 1194,
-        "fresh": 1177,
+        "fresh": 1178,
         "stale": 6,
-        "metadata_stale": 11,
+        "metadata_stale": 10,
         "missing": 0,
         "orphan": 0
       },
@@ -109066,20 +109066,18 @@
         "ar": {
           "path": "ar/People/huang-tu-shui.md",
           "translatedFrom": "People/黃土水.md",
-          "sourceCommitSha": "f89314e27",
+          "sourceCommitSha": "20dcddf339",
           "sourceContentHash": "sha256:d22d7298dff5ac3a",
           "sourceBodyHash": "sha256:7b62e2a912ba5344",
-          "translatedAt": "2026-09-10T07:58:53+08:00",
+          "translatedAt": "2026-11-25T08:09:07.299668+00:00",
           "translationLastCommit": "5b0f4129",
           "translationLastModified": "2026-10-10T23:03:20+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 31064,
+          "bytes": 31853,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/huang-tu-shui.md",
@@ -154450,8 +154448,8 @@
           "sourceContentHash": "sha256:b31e7dab1de7bf10",
           "sourceBodyHash": "sha256:26e4e11c3e29817a",
           "translatedAt": "2026-11-25T06:44:10.973647+00:00",
-          "translationLastCommit": "be84dc2a",
-          "translationLastModified": "2026-11-19T01:23:30+08:00",
+          "translationLastCommit": "15a01b93",
+          "translationLastModified": "2026-11-25T16:08:30+08:00",
           "inferred": false,
           "footnoteDefs": 31,
           "bytes": 77795,
@@ -156894,8 +156892,8 @@
           "sourceContentHash": "sha256:96f1d5630278a964",
           "sourceBodyHash": "sha256:57937e9b25b2f462",
           "translatedAt": "2026-11-25T06:26:14.443162+00:00",
-          "translationLastCommit": "07c8467d",
-          "translationLastModified": "2026-10-10T23:00:26+08:00",
+          "translationLastCommit": "15a01b93",
+          "translationLastModified": "2026-11-25T16:08:30+08:00",
           "inferred": false,
           "footnoteDefs": 30,
           "bytes": 88623,
