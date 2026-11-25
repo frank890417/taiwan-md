@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-26T04:05:11+08:00",
-    "zhCommitHead": "a81f2dfd4f",
+    "lastUpdated": "2026-11-26T05:54:28+08:00",
+    "zhCommitHead": "a30a757e5f",
     "totalZh": 1194,
     "activeLanguages": [
       "en",
@@ -52,17 +52,17 @@
       },
       "fr": {
         "total_zh": 1194,
-        "fresh": 1185,
+        "fresh": 1186,
         "stale": 5,
-        "metadata_stale": 4,
+        "metadata_stale": 3,
         "missing": 0,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1194,
-        "fresh": 1181,
+        "fresh": 1182,
         "stale": 12,
-        "metadata_stale": 1,
+        "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
@@ -92,17 +92,17 @@
       },
       "ar": {
         "total_zh": 1194,
-        "fresh": 1186,
-        "stale": 5,
-        "metadata_stale": 3,
+        "fresh": 1190,
+        "stale": 4,
+        "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1194,
-        "fresh": 1189,
+        "fresh": 1191,
         "stale": 2,
-        "metadata_stale": 3,
+        "metadata_stale": 1,
         "missing": 0,
         "orphan": 0
       },
@@ -104380,20 +104380,18 @@
         "ar": {
           "path": "ar/People/hello-nico-band.md",
           "translatedFrom": "People/Hello-Nico.md",
-          "sourceCommitSha": "be13f045",
+          "sourceCommitSha": "1b9d5dfea6",
           "sourceContentHash": "sha256:ac6c714f4ff5fb1b",
           "sourceBodyHash": "sha256:bab18d5114976850",
-          "translatedAt": "2026-07-25T21:33:48+08:00",
+          "translatedAt": "2026-11-25T20:23:49.893212+00:00",
           "translationLastCommit": "59bf6b68",
           "translationLastModified": "2026-11-19T01:13:18+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 11641,
+          "bytes": 12216,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/hello-nico-band.md",
@@ -104802,20 +104800,18 @@
         "ru": {
           "path": "ru/People/joeman.md",
           "translatedFrom": "People/Joeman.md",
-          "sourceCommitSha": "67c4c72fc",
+          "sourceCommitSha": "1b9d5dfea6",
           "sourceContentHash": "sha256:19eba63c27c61c88",
           "sourceBodyHash": "sha256:18e7518b3acc71b4",
-          "translatedAt": "2026-11-06T02:00:34.795792+00:00",
+          "translatedAt": "2026-11-25T21:27:09.673804+00:00",
           "translationLastCommit": "5aa6b7a9",
           "translationLastModified": "2026-11-06T11:34:38+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "bytes": 47481,
+          "bytes": 48628,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/People/joeman.md",
@@ -106220,20 +106216,18 @@
         "ru": {
           "path": "ru/People/lin-liang-childrens-literature.md",
           "translatedFrom": "People/林良.md",
-          "sourceCommitSha": "be13f045",
+          "sourceCommitSha": "20dcddf339",
           "sourceContentHash": "sha256:ff949a14cc54475a",
           "sourceBodyHash": "sha256:99fcaed64626278d",
-          "translatedAt": "2026-07-25T18:48:06+08:00",
+          "translatedAt": "2026-11-25T20:31:23.290807+00:00",
           "translationLastCommit": "be84dc2a",
           "translationLastModified": "2026-11-19T01:23:30+08:00",
           "inferred": false,
           "footnoteDefs": 37,
-          "bytes": 48735,
+          "bytes": 59026,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/People/lin-liang-childrens-literature.md",
@@ -110568,8 +110562,8 @@
           "sourceContentHash": "sha256:3d1c97835c5d9ea3",
           "sourceBodyHash": "sha256:5091127dea208f82",
           "translatedAt": "2026-11-25T23:56:35+08:00",
-          "translationLastCommit": "1a8ec475",
-          "translationLastModified": "2026-10-10T23:05:52+08:00",
+          "translationLastCommit": "db8b57b4",
+          "translationLastModified": "2026-11-26T04:05:11+08:00",
           "inferred": false,
           "footnoteDefs": 27,
           "bytes": 52200,
@@ -115720,20 +115714,18 @@
         "ar": {
           "path": "ar/People/shasha77-chang-chih-chi.md",
           "translatedFrom": "People/張志祺.md",
-          "sourceCommitSha": "160f6cb59",
-          "sourceContentHash": "sha256:9dcb097daa80cdd6",
-          "sourceBodyHash": "sha256:8df8bda804d8ffe0",
-          "translatedAt": "2026-11-02T05:45:53+08:00",
+          "sourceCommitSha": "d3a973ae06",
+          "sourceContentHash": "sha256:99a2042c4d3706c4",
+          "sourceBodyHash": "sha256:d349dadeacba1186",
+          "translatedAt": "2026-11-26T04:05:41+08:00",
           "translationLastCommit": "b152b7af",
           "translationLastModified": "2026-11-02T09:21:57+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "bytes": 22336,
+          "bytes": 22164,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/shasha77-chang-chih-chi.md",
@@ -139194,20 +139186,18 @@
         "ar": {
           "path": "ar/People/hur-plus-band.md",
           "translatedFrom": "People/HUR-plus.md",
-          "sourceCommitSha": "be13f045",
+          "sourceCommitSha": "d3a973ae06",
           "sourceContentHash": "sha256:7b6f1e2f33e3f99d",
           "sourceBodyHash": "sha256:396a9fed148c94a2",
-          "translatedAt": "2026-09-23T02:56:18+08:00",
+          "translatedAt": "2026-11-26T04:05:41+08:00",
           "translationLastCommit": "59bf6b68",
           "translationLastModified": "2026-11-19T01:13:18+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "bytes": 32448,
+          "bytes": 32771,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/hur-plus-band.md",
@@ -148900,20 +148890,18 @@
         "ar": {
           "path": "ar/People/chen-cheng-po.md",
           "translatedFrom": "People/陳澄波.md",
-          "sourceCommitSha": "22286539",
+          "sourceCommitSha": "45b1bf37e0",
           "sourceContentHash": "sha256:485587af49d56815",
           "sourceBodyHash": "sha256:433a66ecaa1d5d52",
-          "translatedAt": "2026-07-25T17:25:43+08:00",
+          "translatedAt": "2026-11-26T04:05:41+08:00",
           "translationLastCommit": "59bf6b68",
           "translationLastModified": "2026-11-19T01:13:18+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 24853,
+          "bytes": 27497,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/chen-cheng-po.md",
@@ -154296,20 +154284,18 @@
         "fr": {
           "path": "fr/People/nieh-yung-jen.md",
           "translatedFrom": "People/聶永真.md",
-          "sourceCommitSha": "be13f045",
+          "sourceCommitSha": "30ab24424f",
           "sourceContentHash": "sha256:b31e7dab1de7bf10",
           "sourceBodyHash": "sha256:26e4e11c3e29817a",
-          "translatedAt": "2026-09-24T19:52:03.540930+00:00",
+          "translatedAt": "2026-11-25T21:27:41.432894+00:00",
           "translationLastCommit": "e7bbd175",
           "translationLastModified": "2026-11-19T01:17:21+08:00",
           "inferred": false,
           "footnoteDefs": 31,
-          "bytes": 50128,
+          "bytes": 53488,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/nieh-yung-jen.md",
@@ -156746,20 +156732,18 @@
         "vi": {
           "path": "vi/People/lee-yang-badminton.md",
           "translatedFrom": "People/李洋.md",
-          "sourceCommitSha": "fef3e1199",
+          "sourceCommitSha": "1a696c19ef",
           "sourceContentHash": "sha256:96f1d5630278a964",
           "sourceBodyHash": "sha256:57937e9b25b2f462",
-          "translatedAt": "2026-08-09T10:41:15+08:00",
+          "translatedAt": "2026-11-25T20:45:49.642877+00:00",
           "translationLastCommit": "a3ec9a54",
           "translationLastModified": "2026-10-10T23:43:08+08:00",
           "inferred": false,
           "footnoteDefs": 30,
-          "bytes": 60078,
+          "bytes": 67812,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/lee-yang-badminton.md",
