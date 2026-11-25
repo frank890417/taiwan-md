@@ -1,31 +1,31 @@
 ---
-title: '왕치린과 리양(린양 페어)'
-description: '중학교 동창에서 올림픽 금메달까지: “린양 페어”는 34분 만에 중국을 2-0으로 꺾고 대만 배드민턴 사상 첫 올림픽 금메달을 기록했다'
+title: '왕치린과 리양 (린양 커플)'
+description: '대만의 배드민턴 남자 복식 조로, 타이베이시 중산국중학교 동창인 왕치린과 리양이 파트너를 맺어 중학생 시절부터 세계 챔피언이 되기까지 20년 동안 실력을 갈고닦았다. 2021년 7월 31일 도쿄 올림픽 결승전에서 단 34분 만에 21-18, 21-12로 중국의 리쥔후이, 류위천 조를 완파하며 대만 배드민턴 역사상 첫 올림픽 금메달을 획득하여 대만 전역의 2,300만 국민에게 환희를 선사했다. 2024년 파리 올림픽에서는 이미 29세가 된 두 사람이 다시 한번 금메달을 차지하며 대만 배드민턴 역사상 최초로 올림픽 타이틀 방어에 성공한 챔피언이 되었다.'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '體育'
 tags:
   [
     '운동선수',
     '왕치린',
     '리양',
-    '린양 페어',
+    '린양 커플',
     '배드민턴',
     '도쿄 올림픽',
     '파리 올림픽',
     '금메달',
   ]
-readingTime: 12
+subcategory: '體育'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-19
 lastHumanReview: true
-featured: true
+difficulty: 'beginner'
+readingTime: 12
 translatedFrom: 'People/麟洋配.md'
-sourceCommitSha: 'c32d210ff'
+sourceCommitSha: '00dc1f6e04'
 sourceContentHash: 'sha256:940cd3ea72960eac'
 sourceBodyHash: 'sha256:4c0e104cb6fe8601'
-translatedAt: '2026-05-20T05:08:30+08:00'
-difficulty: 'beginner'
+translatedAt: '2026-11-25T05:33:44.936954+00:00'
 ---
 
 # 왕치린과 리양(린양 페어)

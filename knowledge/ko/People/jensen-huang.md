@@ -1,9 +1,9 @@
 ---
-title: '황런쉰'
-description: '켄터키 기숙학교에서 5조 달러 제국까지 - 화장실을 청소하던 타이난 소년은 어떻게 10년 뒤에야 도래할 미래에 베팅했는가'
+title: '젠슨 황'
+description: '타이난 출생, NVIDIA 창업자. 9세에 켄터키주 기숙학교로 보내져 매일 남학생 기숙사 화장실을 청소했고, 온몸에 칼자국과 문신이 있는 17세 룸메이트와 글자를 가르쳐주는 대가로 역도를 배우는 거래를 했다. 그가 창업한 NVIDIA는 2025년 10월 29일 시가총액이 5조 달러를 돌파해 인류 역사상 최초의 5조 달러 기업이 되었으며, 그의 핵심 승부수는 GPU가 아니라 2006년 모두가 미쳤다고 여긴 CUDA였다. 이는 10년 뒤 AI 혁명이 일어나야만 그 가치가 입증될 결정이었다.'
 date: 2026-03-25
 category: 'People'
-tags: ['인물', '황런쉰', 'NVIDIA', 'AI', '반도체', '기술', '타이난', 'GPU']
+tags: ['인물', '젠슨 황', 'NVIDIA', 'AI', '반도체', '기술', '타이난', 'GPU']
 subcategory: '科技與企業'
 author: 'Taiwan.md'
 featured: true
@@ -14,10 +14,10 @@ image: '/article-images/technology/computex-jensen-huang-2016.webp'
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/黃仁勳.md'
-sourceCommitSha: 'b1a5fea00'
+sourceCommitSha: '00dc1f6e04'
 sourceContentHash: 'sha256:28ebca4abc1527e4'
 sourceBodyHash: 'sha256:2ae685b1d23ee474'
-translatedAt: '2026-11-18T15:53:27.069117+00:00'
+translatedAt: '2026-11-25T04:32:35.811695+00:00'
 ---
 
 # 황런쉰(Jensen Huang)

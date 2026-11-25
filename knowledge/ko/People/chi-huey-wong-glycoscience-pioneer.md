@@ -1,22 +1,21 @@
 ---
-title: '웡치후이(翁啟惠)'
-description: '당화학 세계 최고 권위자, 2014년 울프 화학상 수상자, 중앙연구원 전 원장. 호딩 사태로 노벨상과 엇갈린 운명'
+title: '옹치후이'
+description: "당화학 분야의 세계적 권위자로, 1948년 타이난에서 태어났다. 타이완대학 화학과를 졸업한 후 미국으로 건너가 매사추세츠공과대학(MIT)에서 유기화학 박사학위를 취득했고, 이후 스크립스연구소에 자리를 잡았다. 2014년 '노벨상 전초전'으로 불리는 울프화학상을 수상했으며, 노벨위원회가 한때 그를 만나기 위해 대만 방문을 준비하기도 했다. 2016년 하오딩 사건으로 중앙연구원 원장직에서 사임했고, 2019년 1심에서 무죄 판결을 받았다. 그는 '생명공학조례는 내가 추진한 것인데, 정작 첫 번째 피해자는 나 자신'이라고 자조했다."
 date: 2026-03-31
-tags: ['학자', '화학', '중앙연구원', '당화학', '호딩 사태', '노벨상', '울프상']
-subcategory: '科學與學術'
 category: 'People'
+tags: ['학자', '화학', '중앙연구원', '당화학', '하오딩 사건', '노벨', '울프상']
+subcategory: '科學與學術'
 author: 'Taiwan.md'
-readingTime: 12
 featured: false
+lastVerified: 2026-03-31
+lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/翁啟惠.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '00dc1f6e04'
 sourceContentHash: 'sha256:984fef279b1af05b'
 sourceBodyHash: 'sha256:8e4d8fb8704570d2'
-translatedAt: '2026-05-16T22:20:00Z'
-lastVerified: 2026-03-31
-lastHumanReview: false
+translatedAt: '2026-11-25T05:42:33.918380+00:00'
 ---
 
 # 웡치후이(翁啟惠)

@@ -1,32 +1,31 @@
 ---
-title: '두총명(杜聰明): 대만 최초의 의학박사이자 아편 퇴치자'
-description: '대만 역사상 최초의 의학박사로, 점진적 금단 요법으로 17년간 11,498명의 아편 중독자를 치료했으며 고웅의학대학교를 창립한 의학자'
+title: '두총명'
+description: "대만 역사상 최초의 의학박사, 1893년 산지에서 태어나 1922년 교토제국대학 의학박사 학위를 취득했으며, 대만 신문이 헤드라인으로 보도했다. 그는 '점진적 단중법'을 발명해 17년간 11,498명이 넘는 아편 중독자의 금단을 도왔으며, 대만의 300년에 걸친 아편 문제를 해결했다. 그가 발명한 소변 모르핀 검출 원리는 오늘날까지 전 세계 마약 검사의 기초 방법이 되고 있으며, 대만 최초의 사립대학인 가오슝의학원의 창립자이기도 하다."
 date: 2026-03-31
+category: 'People'
 tags:
   [
     '의학',
     '의학박사',
-    '대만 근대의학',
+    '대만 현대 의학',
     '교토제국대학',
     '약리학',
     '아편',
     '일제강점기',
-    '고웅의학대학교',
+    '가오슝의학대학',
   ]
 subcategory: '歷史人物'
-category: 'People'
 author: 'Taiwan.md'
-readingTime: 10
 featured: false
+lastVerified: 2026-03-31
+lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/杜聰明.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '00dc1f6e04'
 sourceContentHash: 'sha256:cda33c38cf5ae9bc'
 sourceBodyHash: 'sha256:f0f1f0e7889b7e24'
-translatedAt: '2026-05-16T22:20:00Z'
-lastVerified: 2026-03-31
-lastHumanReview: false
+translatedAt: '2026-11-25T05:48:29.297455+00:00'
 ---
 
 # 두총명(杜聰明)

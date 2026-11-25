@@ -1,9 +1,9 @@
 ---
-title: '창란거: 백의의 거리를 카메라 앞에 옮기다'
-description: '2017년 의료 유튜브 채널에서 시작해 팬데믹 기간 중 백신 해설에 이르기까지, 우치잉은 의사의 전문성, 공연 예술적 요소, 그리고 공공 소통을 같은 테이블 위에 놓았다.'
+title: '창란거(蒼藍鴿): 화이트 코트의 거리를 카메라 앞으로 가져오다'
+description: "국립대만대학교 의학부 출신의 소아과 전문의로, 현재 애플트리 베이투 분원의 주치의이다. 2017년부터 '창란거의 의학 천지'를 운영하며 전문 지식 전달에서 의료 드라마 분석 및 시사 평론으로 영역을 확장했으며, 팬데믹 기간에는 백신 해설 영상을 통해 공적 담론에 참여했다. 그는 '시청자가 이해할 수 있는 방식으로 의학을 설명한다'는 신념을 바탕으로 YouTube에서는 드라마 분석을, Podcast에서는 의료 뉴스를 다루며, 방쯔즈(方格子)를 통해 긴 글을 기록하고 도서 출간 및 강연도 진행하며 전문성, 퍼포먼스, 상업적 협력 사이에서 공정성의 경계를 꾸준히 지켜오고 있다."
 date: 2026-08-16
 category: 'People'
-tags: ['창란거', '우치잉', '의료 과학 대중화', '유튜브', '공중보건']
+tags: ['창란거', '우치잉', '의료 과학 커뮤니케이션', 'YouTube', '공중 보건']
 subcategory: '醫療與公共溝通'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -12,10 +12,10 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/蒼藍鴿.md'
-sourceCommitSha: 'a7bf511aa'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:1a1a9598d9221fe9'
 sourceBodyHash: 'sha256:74a863b5d0baa755'
-translatedAt: '2026-09-13T04:15:17+08:00'
+translatedAt: '2026-11-25T05:03:43.232033+00:00'
 ---
 
 > **30초 요약:**
