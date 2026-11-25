@@ -1,15 +1,15 @@
 ---
 title: "Huang Tu-shui : une sculpture moderne taïwanaise revenue de l'oubli"
-description: "Il a appris la sculpture occidentale à Tokyo, mais a progressivement trouvé son identité taïwanaise sous le regard étranger ; une œuvre en marbre disparue pendant soixante-dix ans permet à cette histoire de l'art de refaire surface."
+description: "Sculpteur moderne taïwanais, né en 1895 à Manka, il entre en 1915 sans examen à l'École des beaux-arts de Tokyo grâce à son œuvre « Li Tieguai », devenant le premier artiste taïwanais à étudier au Japon pendant la période coloniale. En 1921, sa sculpture en marbre « Eau de rosée » est sélectionnée pour l'Exposition d'art de l'Académie impériale des beaux-arts du Japon. Après 1923, le buffle d'eau taïwanais devient son thème récurrent. Il meurt à Tokyo en 1930 à l'âge de 36 ans. « Eau de rosée » reste introuvable pendant près de soixante-dix ans après les années 1950, réapparaît seulement en 2021, et est exposée en 2024 dans son alma mater, l'Université des arts de Tokyo."
 date: 2026-08-14
 category: 'People'
 tags:
   [
     'Huang Tu-shui',
-    'Eau nectarifère',
+    'Eau de rosée',
     "Histoire de l'art taïwanais",
     'Sculpture',
-    'École des Beaux-Arts de Tokyo',
+    'École des beaux-arts de Tokyo',
   ]
 subcategory: '雕塑'
 author: 'Taiwan.md'
@@ -20,10 +20,10 @@ readingTime: 8
 viewpoint_formed: true
 curation: 'incubating'
 translatedFrom: 'People/黃土水.md'
-sourceCommitSha: 'f89314e27'
+sourceCommitSha: '20dcddf339'
 sourceContentHash: 'sha256:d22d7298dff5ac3a'
 sourceBodyHash: 'sha256:7b62e2a912ba5344'
-translatedAt: '2026-09-11T04:19:51+08:00'
+translatedAt: '2026-11-25T01:45:38.173144+00:00'
 ---
 
 # Huang Tu-shui : une sculpture moderne taïwanaise revenue de l'oubli

@@ -1,36 +1,45 @@
 ---
-title: 'Cicada : seize ans d’enregistrements de terrain, du typhon Morakot en 2009 aux glaciers transhémisphériques en 2025'
-description: 'Fondé à Taipei en 2009, Cicada est un groupe indépendant entièrement instrumental, sans voix. Sa pianiste fondatrice, Chiang Chih-chieh (titulaire d’un master en histoire de l’art de l’Université nationale des arts de Taipei), a écrit ses premiers morceaux après avoir vu les informations sur le typhon Morakot cette année-là. Au cours des seize années suivantes, le groupe a transformé la disparition des côtes de Taïwan, l’écologie marine, les forêts de montagne et les sources des rivières en albums sans voix, de la côte ouest (_Coastland_, 2013) au Pacifique de la côte est (_Light Shining Through the Sea_, 2015), jusqu’aux sources des rivières de la chaîne Centrale (_Seeking the Sources of Streams_, 2022, expédition de 15 jours et 120 kilomètres). Il a composé la musique du film japonais _A Man_ et a reçu le prix d’excellence pour la musique aux Japan Academy Film Prize. En 2025, _Gazing the Shades of White_ a pour la première fois poussé son terrain hors de Taïwan, suivant les glaciers au Groenland, en Islande et en Nouvelle-Zélande, avant de revenir à Xueshan pour chercher les traces laissées par d’anciens glaciers.'
+title: "Cicada : du typhon Morakot en 2009 aux glaciers transhémisphériques de 2025, seize ans d'enregistrements de terrain"
+description: "Un groupe entièrement instrumental fondé à Taipei en 2009, dont les albums ne comportent aucune voix. Le pianiste fondateur Jiang Zhi-jie, après avoir vu les informations sur le typhon Morakot cette année-là, a composé les premiers morceaux ; pendant seize ans, ils ont enregistré l'érosion des côtes taiwanaises, l'écologie marine et les sources des montagnes et forêts dans une série d'albums sans paroles. En 2022, « Habiter au-dessus des sources » a nécessité 15 jours et 120 km de marche pour achever les enregistrements. En 2025, « Contempler la frontière blanche » suit les glaciers à travers le Groenland, l'Islande et la Nouvelle-Zélande, avant de revenir au mont Xueshan, à la recherche des traces laissées par les anciens glaciers à Taiwan."
 date: 2026-04-18
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '音樂與表演'
 tags:
   [
-    'personnalités',
+    'Personnalités',
     'Cicada',
-    'Chiang Chih-chieh',
-    'instrumental',
-    'post-classique',
+    'Jiang Zhi-jie',
+    'Instrumental',
+    'Post-classique',
     'néoclassique',
-    'musique indépendante',
-    'musique environnementale',
-    'écologie',
-    'Société de conservation de la nature sauvage',
-    'Pieces',
-    'Hiking in the Mist',
-    'Seeking the Sources of Streams',
-    'Gazing the Shades of White',
-    'Light Shining Through the Sea',
+    'Musique indépendante',
+    'Musique ambient',
+    'Écologie',
+    'Association de protection de la nature sauvage',
+    'Le temps dispersé',
+    'Entrer dans la forêt brumeuse',
+    'Habiter au-dessus des sources',
+    'Contempler la frontière blanche',
+    'Regarder le niveau de la mer',
     'flau',
-    'glacier',
+    'Glaciers',
     'Kei Ishikawa',
     'Golden Melody Awards',
   ]
-readingTime: 24
+subcategory: '音樂與表演'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-06-21
 lastHumanReview: true
-featured: false
+researchReport: 'reports/research/2026-04/Cicada.md'
+readingTime: 24
+image: '/article-images/people/cicada-cuichi-xueshan-glacial-lake.webp'
+imageCredit: 'Blackjack633 / Wikimedia Commons'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:%E7%BF%A0%E6%B1%A0_%E6%B1%AA%E5%A4%A7%E6%99%BA_05.jpg'
+perspectives:
+  - author: 'xo61j4'
+    text: '偶然聽過巨木曾在的痕跡很喜歡就放進了歌單，很喜歡那種完全沉浸在山林的氛圍，沒想到他們是整個作曲脈絡都圍繞著台灣，喜歡'
+    dimension: '入坑'
 sporeLinks:
   - id: 31
     platform: 'threads'
@@ -41,14 +50,10 @@ sporeLinks:
     date: '2026-04-18'
     url: 'https://x.com/taiwandotmd/status/2045363785347612934'
 translatedFrom: 'People/Cicada.md'
-sourceCommitSha: '21298a7a'
+sourceCommitSha: '30ab24424f'
 sourceContentHash: 'sha256:3d1c97835c5d9ea3'
 sourceBodyHash: 'sha256:5091127dea208f82'
-translatedAt: '2026-06-22T00:40:58+08:00'
-image: '/article-images/people/cicada-cuichi-xueshan-glacial-lake.webp'
-imageCredit: 'Blackjack633 / Wikimedia Commons'
-imageLicense: 'CC BY-SA 4.0'
-imageSource: 'https://commons.wikimedia.org/wiki/File:%E7%BF%A0%E6%B1%A0_%E6%B1%AA%E5%A4%A7%E6%99%BA_05.jpg'
+translatedAt: '2026-11-25T02:43:57.257907+00:00'
 ---
 
 > **Aperçu en 30 secondes :** Cicada est un groupe indépendant entièrement instrumental fondé à Taipei en 2009, dirigé par la pianiste Chiang Chih-chieh (Jesy Chiang, titulaire d’un master en histoire de l’art de l’Université nationale des arts de Taipei). Sa formation à quatre comprend piano, violon, violoncelle et guitare acoustique. Depuis la sortie de son premier album _Pieces_ chez White Wabbit Records en 2011, toutes ses œuvres publiées en seize ans sont sans voix. Les thèmes vont de l’érosion de la côte ouest (_Coastland_, 2013), à la côte est et au Pacifique (_Light Shining Through the Sea_, 2015), à l’écologie marine (_White Forest_, 2017), aux forêts de montagne (_Hiking in the Mist_, 2019), puis aux sources des rivières (_Seeking the Sources of Streams_, 2022, une expédition de 15 jours et 120 kilomètres dans la chaîne Centrale). En 2024, la compilation du 15e anniversaire _Coastland Revisited_ réinterprète les thèmes côtiers ; en 2025, _Gazing the Shades of White_ sort pour la première fois de Taïwan, suit les glaciers à travers les hémisphères Nord et Sud, puis revient à Xueshan pour chercher les traces d’anciens glaciers. Le groupe a composé la musique du film japonais _A Man_, a reçu le prix d’excellence pour la musique aux Japan Academy Film Prize, a effectué une tournée complète au Japon en 2024 et a partagé la scène avec le compositeur islandais Ólafur Arnalds. Sa méthode centrale : **laisser la nature parler elle-même**.

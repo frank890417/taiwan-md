@@ -1,6 +1,6 @@
 ---
-title: "Shen Wen-cheng : du mécanicien de Ching Chuan Kang au double roi d'or de la chanson"
-description: "Shen Wen-cheng, artiste taïwanais doublement couronné dans la musique et l'animation. Du mécanicien d'avion à la fin de la guerre du Vietnam au tube national « Xin Shi Shei Ren Zhi », il a gravé son nom aux Golden Melody et Golden Bell Awards par sa sincérité et son humour."
+title: 'Shen Wen-cheng : de mécanicien à Qingquangang à lauréat des Golden Melody et Golden Bell Awards'
+description: "Né en 1954 à Beinan, Taitung, de mère Rukai, il intègre l'école de mécanique de l'armée de l'air. Après l'obtention de son diplôme, il travaille sur la maintenance des avions américains à l'aéroport de Qingquangang ; le restaurant de la base à la fin de la guerre du Vietnam fut son éveil musical. Découvert par Tsai Chen-nan après son service militaire, il publie son premier album en taïwanais, « Qui connaît mes pensées ? », en 1982, dépassant le million d'exemplaires vendus via les marchés nocturnes, les chantiers et la radio. En 1999, il remporte le Golden Melody Award du meilleur chanteur de dialecte avec « Le Départ » ; en 2013, il obtient le Golden Bell Award de l'animateur de programme de voyage avec « La pêche à Taïwan est immense », devenant un artiste rare à avoir remporté ces deux prix prestigieux. En 2026, à soixante et onze ans, il annonce le lancement d'une nouvelle émission classique."
 date: 2026-05-12
 category: 'People'
 tags:
@@ -8,10 +8,10 @@ tags:
     'Shen Wen-cheng',
     'Golden Melody Awards',
     'Golden Bell Awards',
-    'peuple Rukai',
-    'mécanicien de la guerre du Vietnam',
-    'musique taïwanaise',
-    'pêche',
+    'Peuple Rukai',
+    'Mécanicien de la guerre du Vietnam',
+    'Musique taïwanaise',
+    'Pêche',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md Contributors'
@@ -22,10 +22,10 @@ readingTime: 8
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/沈文程.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '1a696c19ef'
 sourceContentHash: 'sha256:3ccf8e3a350256dc'
 sourceBodyHash: 'sha256:9a3851545dcaaf3c'
-translatedAt: '2026-11-05T07:46:11+08:00'
+translatedAt: '2026-11-25T02:24:11.283721+00:00'
 ---
 
 ## Aperçu en trente secondes

@@ -1,11 +1,11 @@
 ---
-title: "Liao Hung-chi : du bateau à espadon à la dérive du Kuroshio, l'écrivain-pêcheur qui a mesuré les mers de Taïwan de sa vie"
-description: "En 1992, Liao Hung-chi devient pêcheur, fonde la Fondation culturelle et éducative du Kuroshio, et redéfinit le regard des Taïwanais sur l'océan avec le « Kuroshio 101 » et le « Projet π du cachalot », s'imposant comme artisan clé de la littérature maritime contemporaine et de la conservation écologique."
+title: "Liao Hung-chi : de la pêche traditionnelle à la dérive du Kuroshio, l'écrivain qui mesure les eaux de Taïwan avec sa vie"
+description: "Écrivain spécialisé dans la littérature marine né à Hualien en 1957, il a abandonné son travail terrestre à l'âge de trente-cinq ans pour devenir pêcheur à Hualien. En 1996, il a lancé la première enquête citoyenne sur les cétacés à Taïwan et a fondé la Kuroshio Ocean Education Foundation en 1998. En 2016, il a initié le projet de dérive Kuroshio 101, dérivant sur le courant noir avec un radeau non motorisé pendant environ cent heures. En 2022, il a fondé l'Association Formosa du comté de Hualien pour promouvoir le projet Pi dédié aux cachalots. Auteur de la quadrilogie marine incluant « Le Pêcheur », il a reçu le prix Wu San-lien en 2019 et le prix de dévouement à l'éducation sociale du ministère de l'Éducation en 2024."
 date: 2026-04-29
 category: 'People'
 tags:
   [
-    'littérature maritime',
+    'littérature marine',
     'Kuroshio',
     'conservation des cétacés',
     'Hualien',
@@ -20,10 +20,10 @@ readingTime: 12
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/廖鴻基.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '1a696c19ef'
 sourceContentHash: 'sha256:f70240af05eb54ba'
 sourceBodyHash: 'sha256:1077b6698d6359d9'
-translatedAt: '2026-11-05T08:50:36+08:00'
+translatedAt: '2026-11-25T02:16:02.668740+00:00'
 ---
 
 # Liao Hung-chi

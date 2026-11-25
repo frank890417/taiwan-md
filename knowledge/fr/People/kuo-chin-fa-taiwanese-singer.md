@@ -1,14 +1,14 @@
 ---
-title: "Kuo Chin-fa : l'âme grave derrière « Les Brochets de viande grillée »"
-description: "De cordonnier à Dadaocheng au Roi de la voix grave de Formose, Kuo Chin-fa a chanté la résilience et les souffrances du peuple taïwanais d'après-guerre à travers sa chanson « Les Brochets de viande grillée », avant de s'éteindre sur scène, consumé jusqu'à la dernière étincelle de vie."
+title: "Kuo Chin-fa : l'âme grave derrière « Shāo ròu zòng »"
+description: "Né apprenti dans une cordonnerie de Dadaocheng, le roi de la basse Kuo Chin-fa a remporté un concours de chant à 15 ans et a débuté sa carrière. Sa voix profonde et grave a conquis la scène musicale taïwanaise. En 1973, il a réécrit les paroles de la chanson interdite « Mài ròu zòng » en « Shāo ròu zòng », exprimant la souffrance et la résilience des gens ordinaires de Taïwan d'après-guerre. Après l'incendie du Jin Du Le Fu qui l'a endetté, il est parti chanter à Singapour pendant six mois pour rembourser ses dettes. En 2016, il s'est effondré après avoir chanté la dernière phrase de « Shāo ròu zòng » lors d'un concert pour personnes âgées à Kaohsiung, à l'âge de 72 ans. Il a sorti plus de cent albums au cours de sa vie."
 date: 2026-04-19
 category: 'People'
 tags:
   [
     'Musique',
-    'Chanson taïwanaise',
-    'Brochets de viande grillée',
-    'Roi de la voix grave',
+    'Chansons taïwanaises',
+    'Zòng de viande braisée',
+    'Roi de la basse',
     'Chansons interdites sous la loi martiale',
   ]
 subcategory: '音樂與表演'
@@ -20,10 +20,10 @@ readingTime: 10
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/郭金發.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'd3a973ae06'
 sourceContentHash: 'sha256:ffef27b2909f9d95'
 sourceBodyHash: 'sha256:b629819d5dc38d6a'
-translatedAt: '2026-11-04T22:30:34.544265+00:00'
+translatedAt: '2026-11-25T02:26:54.077195+00:00'
 ---
 
 > **📝 Note du curateur**

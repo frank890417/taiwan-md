@@ -1,16 +1,16 @@
 ---
-title: "Mieux vaut s'épuiser que de rouiller : Mackay et sa Formose tant aimée"
-description: "De l'extraction de 20 000 dents à la fondation d'une école pour filles, découvrez comment le missionnaire canadien George Leslie Mackay est devenu un « véritable Taïwanais », réécrivant l'histoire médicale, éducative et scientifique du nord de Taïwan."
+title: "Mieux vaut brûler que rouiller : George Leslie Mackay et la Formose qu'il aimait profondément"
+description: "Missionnaire de l'Église presbytérienne du Canada, il débarque à Tamsui en 1872 à l'âge de 28 ans, apprend le taïwanais auprès de jeunes bergers, et parcourt les temples et les champs du nord de Taïwan avec une Bible dans une main et une pince dentaire dans l'autre. Il extrait plus de 20 000 dents au cours de sa vie et fonde l'hôpital de Hobe. Il collecte des spécimens de serpents et de fougères, documente les coutumes autochtones, et établit l'Oxford College ainsi que la première école pour filles de Taïwan. Après 30 ans de dévouement, il meurt d'un cancer de la gorge et est enterré sur le campus du lycée de Tamsui, laissant pour devise : « Mieux vaut brûler que rouiller »."
 date: 2026-03-31
 category: 'People'
 tags:
   [
-    'Mackay',
+    'George Leslie Mackay',
     'Tamsui',
-    'histoire de Taïwan',
-    'médecine',
-    'éducation',
-    'sciences naturelles',
+    'Histoire de Taïwan',
+    'Médecine',
+    'Éducation',
+    'Sciences naturelles',
   ]
 subcategory: '歷史人物'
 author: 'Taiwan.md Contributors'
@@ -20,10 +20,10 @@ lastHumanReview: true
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/馬偕.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: 'd3a973ae06'
 sourceContentHash: 'sha256:b7d6932f284b6cf0'
 sourceBodyHash: 'sha256:d3315bfee0561cb1'
-translatedAt: '2026-08-04T14:00:17+08:00'
+translatedAt: '2026-11-25T02:20:57.571625+00:00'
 ---
 
 > **Résumé en 30 secondes :**

@@ -1,13 +1,13 @@
 ---
-title: 'Kuo Cheng-Kuang'
-description: "Scientifique senior au Johnson Space Center de la NASA à Houston, spécialiste de l'alimentation et de l'environnement des astronautes — et pourtant inscrit sur liste noire comme « terroriste » par le gouvernement nationaliste de Taïwan."
+title: 'Kuo Cheng-kuang'
+description: "Scientifique chevronné ayant travaillé pendant plus de quarante-cinq ans au centre spatial Johnson de la NASA, il a étudié la nourriture spatiale, la purification de l'eau et la qualité de l'air dans les modules fermés, veillant ainsi sur la vie des astronautes. Né à Hsinchu en 1949, il est diplômé du département d'agronomie de l'Université nationale de Taiwan avant d'obtenir un doctorat à l'Université Texas A&M, puis d'intégrer la NASA en 1980. En raison de son adhésion à l'Alliance pour l'indépendance de Taiwan, il a été placé sur une liste noire par le gouvernement du Kuomintang ; en 1991, le gouvernement taïwanais a même envoyé une lettre au Département d'État américain le désignant comme terroriste. En 2018, il a accueilli la présidente Tsai Ing-wen lors de son passage en tant qu'expert de la NASA ; en 2024, il a répondu à un internaute troll par la phrase : « Ton grand-père travaille à la NASA »."
 date: 2026-04-06
 category: 'People'
 tags:
   [
-    'Kuo Cheng-Kuang',
+    'Kuo Cheng-kuang',
     'NASA',
-    'alimentation spatiale',
+    'nourriture spatiale',
     'liste noire',
     'mouvement démocratique taïwanais',
   ]
@@ -20,10 +20,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/郭正光.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '1a696c19ef'
 sourceContentHash: 'sha256:e00af3b07adcb778'
 sourceBodyHash: 'sha256:beb2338ff10788ce'
-translatedAt: '2026-11-05T00:15:37.287896+00:00'
+translatedAt: '2026-11-25T02:22:18.478534+00:00'
 ---
 
 # Kuo Cheng-Kuang
