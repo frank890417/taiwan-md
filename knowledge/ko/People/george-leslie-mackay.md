@@ -1,9 +1,9 @@
 ---
-title: '타오르며 소멸할지언정, 녹슬어 버리지는 않으리: 마해(George Leslie Mackay)와 그가 깊이 사랑한 포르모사'
-description: "2만 개의 치아를 뽑은 의사부터 여학교 설립까지, 캐나다 선교사 마해가 어떻게 '진정한 타이완인'이 되어 3·0년의 삶으로 북부 타이완의 의료, 교육, 과학 탐사사를 새로 썼는가."
+title: '차라리 타버릴지언정 녹슬지는 않으리: 매켈과 그가 깊이 사랑한 포르모사'
+description: "캐나다 장로교 선교사인 매켈은 1872년, 28세의 나이로 단수이에 상륙하여 소를 모는 목동에게 대만어를 배웠습니다. 그는 한 손에는 성경을, 다른 한 손에는 치과용 집게를 들고 북대만 지역의 사찰 입구와 논밭으로 들어갔으며, 평생 2만 개 이상의 치아를 뽑고 후웨이 의원을 설립했습니다. 또한 뱀과 양치식물 표본을 채집하고 원주민의 풍습을 기록했으며, 옥스퍼드 학당과 대만 최초의 여학교를 세웠습니다. 30년간의 헌신 끝에 후두암으로 세상을 떠나 단수이 학교 교정에 안장되었으며, '차라리 타버릴지언정 녹슬지는 않으리'라는 좌우명을 남겼습니다."
 date: 2026-03-31
 category: 'People'
-tags: ['마해', '단수이', '타이완 역사', '의료', '교육', '자연과학']
+tags: ['매켈', '단수이', '대만 역사', '의료', '교육', '자연과학']
 subcategory: '歷史人物'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -12,10 +12,10 @@ lastHumanReview: true
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/馬偕.md'
-sourceCommitSha: '69b3afd91'
+sourceCommitSha: 'd3a973ae06'
 sourceContentHash: 'sha256:b7d6932f284b6cf0'
 sourceBodyHash: 'sha256:d3315bfee0561cb1'
-translatedAt: '2026-08-04T14:00:18+08:00'
+translatedAt: '2026-11-25T02:20:18.021214+00:00'
 ---
 
 > **30초 요약:**

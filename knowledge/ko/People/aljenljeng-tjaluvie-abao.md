@@ -1,25 +1,25 @@
 ---
-title: '아바오(阿爆, Aljenljeng Tjaluvie): 파이완어(Paiwan)를 금곡상 올해의 앨범으로 이끈 future pop 가수'
-description: "2020년 제31회 금곡상 올해의 앨범은 전곡 파이완어 일렉트로닉 앨범 《kinakaian 母親的舌頭》에 돌아갔다. 아바오(Aljenljeng Tjaluvie, 1981년 타이둥 출생)는 R&B 듀오 Abao & Brandy로 데뷔해 10년간 간호사로 일했으며, 2019년 Dizparity와 함께 부족어를 future pop으로 재탄생시키며 '원주민 음악 = 보존'이라는 공식을 깨뜨렸다."
+title: '아바오(알렝알렝): 파이완어를 금곡상 올해의 앨범에 올려놓은 그 퓨처 팝 가수'
+description: "파이완족 싱어송라이터 1981년 타이둥 진펑 정싱 부락에서 태어남, 일찍이 R&B 듀오 Abao & Brandy로 금곡상 최우수 중창단 수상, 해체 후 약 10년간 간호사로 일함. 2019년 그녀와 전자음악 프로듀서 Dizparity가 전곡 파이완어 일렉트로닉 앨범 《kinakaian 어머니의 혀》를 만듦, 2020년 단숨에 금곡상 올해의 앨범, 최우수 원주민어 앨범, 올해의 노래를 석권, 이후 '나우와' 레이블을 이끌며 부족어 음악을 문화 보존의 틀에서 퓨처 팝의 주무대로 이끌어옴."
 date: 2026-04-18
 category: 'People'
 tags:
   [
     '인물',
     '아바오',
-    '阿爆',
-    'Aljenljeng Tjaluvie',
-    '장징원(張靜雯)',
+    '알렝알렝',
+    '알렝알렝 잘루비에',
+    '장징원',
     '파이완족',
     '원주민 음악',
     '금곡상',
     '올해의 앨범',
-    'kinakaian',
-    '母親的舌頭',
-    'Dizparity',
-    'future pop',
-    '나우와(那屋瓦)',
-    'vavayan',
+    '키나카안',
+    '어머니의 혀',
+    '디즈패리티',
+    '퓨처 팝',
+    '나우와',
+    '바바얀',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
@@ -29,10 +29,10 @@ lastHumanReview: true
 researchReport: 'reports/research/2026-04/阿爆.md'
 readingTime: 18
 translatedFrom: 'People/阿爆.md'
-sourceCommitSha: '160f6cb59'
+sourceCommitSha: 'd3a973ae06'
 sourceContentHash: 'sha256:f6ea72608a383b39'
 sourceBodyHash: 'sha256:2b58a1fd273e51fb'
-translatedAt: '2026-11-02T05:45:02+08:00'
+translatedAt: '2026-11-25T01:43:34.480444+00:00'
 ---
 
 > **30초 요약:** 2020년 10월 3일 저녁, 제31회 금곡상 올해의 앨범상은 전곡 파이완어(Paiwan)로 구성된 일렉트로닉 음악 앨범 《kinakaian 母親的舌頭》에 수여되었다. 수상자는 아바오(Aljenljeng Tjaluvie, 한명 장징원[張靜雯])로, 1981년 타이둥(臺東) 금봉향(金峰鄉) 가란촌(嘉蘭村) 정흥(正興) 부족 출신의 파이완족 창작 가수이다. 그녀는 2003년 Abao & Brandy로 데뷔하여 제15회 금곡상 베스트 중창 그룹상을 받았으나, 2004년 해체 후 약 10년간 간호사로 활동하며 가요계를 떠나 있었다. 이후 2016년 《vavayan·女人》을 통해 전곡 파이완어 개인 창작물로 복귀했으며, 2019년 일렉트로닉 프로듀서 Dizparity와 협업하여 《kinakaian》을 선보였다. 그녀는 올해의 앨범상을 받는 무대에서 "TV 앞에 있는 모든 원주민에게 말하고 싶다. 재능을 낭비하지도 말고, 재능에만 의존하지도 마라"라고 말했다. 이는 타이완 원주민 언어 음악이 사이드바(sidebar)를 벗어나 메인 스테이지(main stage)로 올라선 결정적인 순간이었다.

@@ -1,9 +1,9 @@
 ---
-title: '궈정광'
-description: 'NASA 존슨 우주 센터의 수석 과학자로 우주 식품을 연구하지만, 고향 타이완 파일에는 한때 "테러리스트" 블랙리스트에 올라 있었다'
+title: '궈정광 (Guo Zhengguang)'
+description: '미국 항공우주국(NASA) 제슨 우주 센터에서 45년 이상 근무한 베테랑 과학자로, 우주 식품, 수질 정화 및 밀폐 공간의 공기 질을 연구하며 우주비행사들의 생명을 지켜왔습니다. 1949년 신주에서 태어나 대만대학교 농학부를 졸업한 후 텍사스 A&M 대학교에서 박사 학위를 받았으며, 1980년 NASA에 입사했습니다. 그는 대만독립연맹 가입을 이유로 국민당 정부의 블랙리스트에 올랐으며, 1991년에는 대만 정부가 미국 국무부에 그를 테러리스트라고 지목하는 서신을 보내기도 했습니다. 2018년에는 NASA 전문가 신분으로 환승 중이던 차이잉원 총통을 영접했으며, 2024년에는 악플러에게 "NASA에서 일하는 네 할아버지가 여기 있다"라는 답변을 남겨 화제가 되었습니다.'
 date: 2026-04-06
 category: 'People'
-tags: ['궈정광', 'NASA', '우주 식품', '블랙리스트', '타이완 민주화 운동']
+tags: ['궈정광', 'NASA', '우주 식품', '블랙리스트', '대만 민주화 운동']
 subcategory: '科學與研究'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -13,10 +13,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/郭正光.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '1a696c19ef'
 sourceContentHash: 'sha256:e00af3b07adcb778'
 sourceBodyHash: 'sha256:beb2338ff10788ce'
-translatedAt: '2026-11-05T00:08:24.282508+00:00'
+translatedAt: '2026-11-25T02:22:06.026681+00:00'
 ---
 
 # 궈정광

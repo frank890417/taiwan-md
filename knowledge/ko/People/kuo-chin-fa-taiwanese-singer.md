@@ -1,9 +1,9 @@
 ---
-title: '궈진파: 샤오러우쭝(燒肉粽) 뒤에 숨은 저음의 영혼'
-description: '다다오청(大稻埕) 구두 가게 견습공에서 보도(寶島) 저음 가왕까지, 궈진파(郭金發)는 한 곡 〈샤오러우쭝〉으로 타이완 전후 서민의 신산함과 강인함을 노래했고, 무대 위에서 마지막 생명까지 불태웠다.'
+title: '궈진파: 샤오로우쫑(고기 찰밥) 뒤에 숨겨진 저음의 영혼'
+description: '다다오청 구두점 견습생 출신의 저음 가왕으로, 15세에 노래 경연 대회에서 우승하며 데뷔하여 깊고 낮은 목소리로 대만어 가요계를 빛냈다. 1973년 그는 금지곡이었던 〈마이로우쫑〉의 가사를 〈샤오로우쫑〉으로 개사하여 전후 대만 서민들의 애환과 강인함을 노래했다. 진두락부 화재로 인한 부채를 갚기 위해 싱가포르에서 반년 동안 공연하며 빚을 청산하기도 했다. 2016년 가오슝 노인 복지 콘서트에서 〈샤오로우쫑〉의 마지막 소절을 부른 뒤 쓰러져 향년 72세로 별세했으며, 평생 100장이 넘는 음반을 발매했다.'
 date: 2026-04-19
 category: 'People'
-tags: ['음악', '타이완 가요', '샤오러우쭝', '저음 가왕', '계엄 금기곡']
+tags: ['음악', '대만 가요', '샤오로우쫑', '저음 가왕', '계엄령 금지곡']
 subcategory: '音樂與表演'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -13,10 +13,10 @@ readingTime: 10
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/郭金發.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'd3a973ae06'
 sourceContentHash: 'sha256:ffef27b2909f9d95'
 sourceBodyHash: 'sha256:b629819d5dc38d6a'
-translatedAt: '2026-11-05T05:47:55+08:00'
+translatedAt: '2026-11-25T02:26:08.916881+00:00'
 ---
 
 > **📝 기획자 노트**

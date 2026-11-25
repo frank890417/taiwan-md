@@ -1,36 +1,45 @@
 ---
-title: 'Cicada: 2009년 모라크부터 2025년 반구를 가로지른 빙하까지, 16년의 현장 녹음'
-description: '2009년 타이베이에서 결성된 Cicada는 전곡이 기악곡이며 보컬이 없는 독립 밴드다. 창단 멤버인 피아니스트 장즈제(타이베이예술대 예술사 석사)는 그해 모라크 태풍 뉴스를 보고 첫 곡들을 썼다. 이후 16년 동안 이들은 타이완의 사라지는 해안, 해양 생태, 산림과 계류의 원천을 보컬 없는 앨범들로 바꾸어 왔다. 서해안(《邊境消逝》2013), 동해안 태평양(《仰望海平面》2015)을 거쳐 중앙산맥의 계류 원천(《棲居在溪源之上》2022, 15일 120km 원정)까지 나아갔다. 일본 영화 《한 남자》 음악을 맡아 일본 아카데미상 우수 음악상을 받았다. 2025년 《凝視白色的邊界》는 처음으로 현장을 타이완 밖으로 확장해 빙하를 따라 그린란드, 아이슬란드, 뉴질랜드를 지나고, 다시 쉐산으로 돌아와 고대 빙하가 남긴 흔적을 찾는다.'
+title: 'Cicada: 2009년 모라크 태풍에서 2025년 반구 횡단 빙하까지 16년간의 필드 레코딩'
+description: '2009년 타이베이에서 결성된 순수 기악 밴드로, 전 앨범에 보컬이 없다. 창단 피아니스트 장치제가 그해 모라크 태풍 뉴스를 보고 첫 곡들을 썼다; 이후 16년간, 그들은 대만의 해안 소멸, 해양 생태, 산림 계곡을 가사 없는 앨범들에 담아냈다. 2022년 《계곡 위에서 머무르다》는 15일간 120km를 걸어 녹음을 마쳤다. 2025년 《하얀 경계를 응시하다》는 빙하를 따라 그린란드, 아이슬란드, 뉴질랜드를 거쳐 마지막으로 설산으로 돌아와 고대 빙하가 대만에 남긴 흔적을 찾는다.'
 date: 2026-04-18
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '音樂與表演'
 tags:
   [
     '인물',
     'Cicada',
-    '장즈제',
+    '장치제',
     '기악',
-    '후기 고전주의',
-    'neoclassical',
-    '독립음악',
-    '환경음악',
+    '포스트 클래시컬',
+    '네오클래시컬',
+    '인디 음악',
+    '앰비언트 음악',
     '생태',
-    '황야보호협회',
+    '야생보호협회',
     '흩어진 시간',
     '안개 낀 숲으로 들어가다',
-    '계류의 원천 위에 깃들다',
+    '계곡 위에서 머무르다',
     '하얀 경계를 응시하다',
     '해수면을 올려다보다',
     'flau',
     '빙하',
-    '이시카와 게이',
-    '금곡장',
+    '이시카와 케이',
+    '금곡상',
   ]
-readingTime: 24
+subcategory: '音樂與表演'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-06-21
 lastHumanReview: true
-featured: false
+researchReport: 'reports/research/2026-04/Cicada.md'
+readingTime: 24
+image: '/article-images/people/cicada-cuichi-xueshan-glacial-lake.webp'
+imageCredit: 'Blackjack633 / Wikimedia Commons'
+imageLicense: 'CC BY-SA 4.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:%E7%BF%A0%E6%B1%A0_%E6%B1%AA%E5%A4%A7%E6%99%BA_05.jpg'
+perspectives:
+  - author: 'xo61j4'
+    text: '偶然聽過巨木曾在的痕跡很喜歡就放進了歌單，很喜歡那種完全沉浸在山林的氛圍，沒想到他們是整個作曲脈絡都圍繞著台灣，喜歡'
+    dimension: '入坑'
 sporeLinks:
   - id: 31
     platform: 'threads'
@@ -41,14 +50,10 @@ sporeLinks:
     date: '2026-04-18'
     url: 'https://x.com/taiwandotmd/status/2045363785347612934'
 translatedFrom: 'People/Cicada.md'
-sourceCommitSha: '21298a7a'
+sourceCommitSha: '30ab24424f'
 sourceContentHash: 'sha256:3d1c97835c5d9ea3'
 sourceBodyHash: 'sha256:5091127dea208f82'
-translatedAt: '2026-06-22T00:40:58+08:00'
-image: '/article-images/people/cicada-cuichi-xueshan-glacial-lake.webp'
-imageCredit: 'Blackjack633 / Wikimedia Commons'
-imageLicense: 'CC BY-SA 4.0'
-imageSource: 'https://commons.wikimedia.org/wiki/File:%E7%BF%A0%E6%B1%A0_%E6%B1%AA%E5%A4%A7%E6%99%BA_05.jpg'
+translatedAt: '2026-11-25T02:29:13.723284+00:00'
 ---
 
 > **30초 개관:** Cicada는 2009년 타이베이에서 결성된 전곡 기악 독립 밴드다. 피아니스트 장즈제(Jesy Chiang, 타이베이예술대 예술사 석사)가 이끌며, 피아노, 바이올린, 첼로, 어쿠스틱 기타의 4인 편성이다. 2011년 White Wabbit Records에서 첫 《散落的時光》을 발표한 이후 16년 동안 낸 모든 작품에는 보컬이 없다. 주제는 서해안 침식(《邊境消逝》2013), 동해안과 태평양(《仰望海平面》2015), 해양 생태(《不在的你們都去了哪裡》2017), 산림(《走入有霧的森林》2019)을 거쳐 계류의 원천(《棲居在溪源之上》2022, 중앙산맥을 15일 동안 120km 걷는 원정)으로 나아갔다. 2024년 15주년 자선집 《回返》은 해안이라는 주제를 다시 해석했다. 2025년 《凝視白色的邊界》는 처음으로 타이완 밖으로 나가 빙하를 따라 남북반구를 가로지른 뒤, 다시 쉐산으로 돌아와 고대 빙하의 흔적을 찾는다. 이들은 일본 영화 《한 남자》 음악을 맡아 일본 아카데미상 우수 음악상을 받았고, 2024년에는 일본 전역 투어를 완주했으며, 아이슬란드 작곡가 올라퓌르 아르날즈와 같은 무대에 선 적도 있다. 핵심 방법론은 **자연이 스스로 말하게 하는 것**이다.
