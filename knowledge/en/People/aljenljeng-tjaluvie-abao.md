@@ -1,23 +1,24 @@
 ---
-title: 'Abao (Aljenljeng): The Future Pop Singer Who Brought Paiwan into the Golden Melody Awards Album of the Year'
-description: 'In 2020, the 31st Golden Melody Awards granted Album of the Year to the all-Paiwan electronic album "kinakaian: Mother''s Tongue." Abao (Aljenljeng Tjaluvie, born 1981 in Taitung) debuted with the R&B duo Abao & Brandy and worked as a nurse for ten years before collaborating with Dizparity in 2019 to create future pop using indigenous languages, redefining "indigenous music = preservation."'
+title: 'Abao (Aljenljeng): The future pop singer who brought the Paiwan language to the Golden Melody Album of the Year'
+description: "Paiwan singer-songwriter born in 1981 in the Zhenxing Tribe, Jinfeng, Taitung. She first won the Golden Melody Award for Best Vocal Group as the R&B duo Abao & Brandy, then worked as a nurse for nearly a decade after the group disbanded. In 2019, she collaborated with electronic music producer Dizparity to create the all-Paiwan-language electronic album 'kinakaian Mother's Tongue', which in 2020 swept the Golden Melody Awards for Album of the Year, Best Indigenous Language Album, and Song of the Year. Since then, she has led the Vavayan label, bringing Indigenous-language music from a cultural preservation framework onto the main stage of future pop."
 date: 2026-04-18
 category: 'People'
 tags:
   [
     'People',
     'Abao',
+    'Aljenljeng',
     'Aljenljeng Tjaluvie',
     'Chang Ching-wen',
     'Paiwan',
-    'Indigenous Music',
+    'Indigenous music',
     'Golden Melody Awards',
     'Album of the Year',
     'kinakaian',
     "Mother's Tongue",
     'Dizparity',
     'future pop',
-    'Nanguaq',
+    'Vavayan',
     'vavayan',
   ]
 subcategory: '音樂與表演'
@@ -28,10 +29,10 @@ lastHumanReview: true
 researchReport: 'reports/research/2026-04/阿爆.md'
 readingTime: 18
 translatedFrom: 'People/阿爆.md'
-sourceCommitSha: '160f6cb59'
+sourceCommitSha: 'd3a973ae06'
 sourceContentHash: 'sha256:f6ea72608a383b39'
 sourceBodyHash: 'sha256:2b58a1fd273e51fb'
-translatedAt: '2026-11-02T05:44:46+08:00'
+translatedAt: '2026-11-25T01:42:14.811783+00:00'
 ---
 
 > **30-Second Overview:** On the evening of October 3, 2020, the Album of the Year award at the 31st Golden Melody Awards was presented to an all-Paiwan language electronic music album titled _kinakaian: Mother's Tongue_. The winner is Abao (Aljenljeng Tjaluvie; Chinese name Chang Ching-wen), a Paiwan singer-songwriter born in 1981 in the Zhengxing community of Jialan Village, Jinfeng Township, Taitung. She debuted in 2003 as part of the R&B duo Abao & Brandy, winning Best Vocal Group at the 15th Golden Melody Awards. After disbanding in 2004, she stepped away from the music scene to work as a nurse for nearly ten years. She returned in 2016 with her solo all-Paiwan creation _vavayan: Woman_, and in 2019 collaborated with electronic producer Dizparity to create _kinakaian_. On stage while receiving the Album of the Year award, she said: "I want to tell all the indigenous people watching on TV: do not waste your talent, and do not rely solely on it." This was a pivotal moment for indigenous language music in Taiwan moving from the sidebar to the main stage.

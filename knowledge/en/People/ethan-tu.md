@@ -1,11 +1,11 @@
 ---
-title: 'Ethan Tu'
-description: 'Founder of PTT with a 486 computer, led Cortana AI at Microsoft, then returned to Taiwan to build nonprofit AI research—a thirty-year digital journey'
+title: 'Yi-Chin Tu'
+description: "The engineer who set up PTT (the Bulletin Board System) in a National Taiwan University dormitory using a single 486 computer, allowing the text-based forum to survive both the dot-com bubble and competition from social media platforms; thirty years later, it remains a core arena for public discourse in Taiwan. After moving to the United States to conduct genetic research at the National Institutes of Health (NIH), he later led the development of the cross-platform voice assistant Cortana at Microsoft. In 2017, he left a high-paying job in Seattle to return to Taiwan and founded Taiwan AI Labs, Asia's first non-profit open AI research institute, focusing on medical imaging, speech recognition, cognitive warfare defense, and promoting open-source Traditional Chinese language models."
 date: 2026-03-30
 category: 'People'
 tags:
   [
-    'Ethan Tu',
+    'Yi-Chin Tu',
     'PTT',
     'Taiwan AI Labs',
     'Digital Democracy',
@@ -20,10 +20,10 @@ readingTime: 9
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/杜奕瑾.md'
-sourceCommitSha: 'b1a5fea00'
+sourceCommitSha: '20dcddf339'
 sourceContentHash: 'sha256:61081ca7c646947e'
 sourceBodyHash: 'sha256:f186e67ce03f9679'
-translatedAt: '2026-11-18T15:46:00.537370+00:00'
+translatedAt: '2026-11-25T02:14:37.963934+00:00'
 ---
 
 # Ethan Tu

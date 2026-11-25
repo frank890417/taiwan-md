@@ -1,65 +1,74 @@
 ---
 title: 'Lee Yang'
-description: "The young man who gritted his teeth through Division A, now gritting his teeth to fight institutional corruption in sports: two Olympic gold medals in men's doubles badminton, Taiwan's youngest-ever cabinet minister, NT$34.01 million in savings, NT$36.38 million in debt, and a NT$10 million bonus donated entirely to charity."
+description: 'Appointed as the first Minister of Sports of the Republic of China at the age of thirty, he is the youngest cabinet member in history. Prior to this, he was a men''s doubles badminton gold medalist at both the 2021 Tokyo Olympics and the 2024 Paris Olympics, forming the duo "Lee-Chou" with Wang Chi-lin—the first unseeded men''s doubles pair in Olympic history to achieve back-to-back gold medals. In April 2026, he donated the entire NT$10 million bonus awarded by the Olympic Committee to ten private organizations; the following day, his asset declaration revealed savings of NT$34.01 million and liabilities of NT$36.38 million. From being told by his father that "you aren''t cut out for badminton" to giving up NT$30 million in annual endorsements to enter the government system, he has always relied on his philosophy of giving it his all through sheer perseverance.'
 date: 2026-04-14
+category: 'People'
 tags:
-  - 'athlete'
-  - 'Lee Yang'
-  - 'badminton'
-  - 'lin-yang-duo-taiwan-badminton-champions'
-  - 'Wang Chi-lin'
-  - 'Tokyo Olympics'
-  - 'Paris Olympics'
-  - 'Ministry of Sports'
-  - 'Cho Jung-tai Cabinet'
-  - 'Kinmen'
-  - "philosophy of trying one's best"
+  [
+    'athlete',
+    'Lee Yang',
+    'badminton',
+    'Lee-Chou duo',
+    'Wang Chi-lin',
+    'Tokyo Olympics',
+    'Paris Olympics',
+    'Ministry of Sports',
+    'Cho Jung-tai Cabinet',
+    'Kinmen',
+    "philosophy of giving one's all",
+  ]
 subcategory: '體育'
 author: 'Taiwan.md'
-difficulty: 'beginner'
-readingTime: 15
 featured: true
-category: 'People'
 lastVerified: 2026-04-14
 lastHumanReview: true
+difficulty: 'beginner'
+readingTime: 15
 perspectives:
   - author: 'chan_hong_yu'
-    text: 'This was not a bonus from the Olympic Committee but a personal top-up bonus from former CTOC chairman Lin Hong-dao targeting the 2020 Tokyo Olympics (an oddly timed enhancement).'
-    dimension: 'correction'
+    text: '不是奧會補頒的獎金，是前中華奧會主席林鴻道個人針對 2020 東京奧運的加碼獎金（奇怪的時間點的加碼）'
+    dimension: '更正'
   - author: 'ilovecat1229'
-    text: 'The more I learn about him, the more I admire him.'
-    dimension: 'admiration'
+    text: '越了解他越佩服他'
+    dimension: '佩服'
   - author: 'clint151445'
-    text: "I guess I'm technically Lee Yang's senior at school (riding his coattails here)."
-    dimension: 'alumni'
+    text: '怎麼說 我也算是李洋國中的學長（蹭）'
+    dimension: '校友'
   - author: 'j_wa.n'
-    text: 'A person who gives both time and effort — not just empty words. I support him.'
-    dimension: 'action'
+    text: |-
+      出錢出力的人才
+      不是出一張嘴
+      挺
+    dimension: '實幹'
   - author: '0099top'
-    text: 'Lee Yang owes Taiwan nothing, and owes athletes nothing. Blue-white legislators and red media have no right to go after him. Athletes, please keep your heads clear — Lee Yang is someone who can help fix the unfair systems you face.'
-    dimension: 'defense'
+    text: '李洋沒欠台灣人什麼，更沒欠運動員，藍白立委跟紅媒沒資格動他！運動員最好也是都腦袋清楚一點，李洋是一個能幫助你們改善各種不合理的人'
+    dimension: '護航'
   - author: 'rootout2025'
-    text: 'A person of noble character.'
-    dimension: 'character'
+    text: '高尚的人格'
+    dimension: '人格'
   - author: '2025meiling'
-    text: "Let's go — I support Minister Lee Yang in continuing to root out corruption in sports governance."
-    dimension: 'reform'
+    text: '擴，支持李洋部長繼續矯正運動邪會'
+    dimension: '改革'
   - author: 'shuannweo'
-    text: "A world-class athlete being humiliated by the KMT and sports federations — laughable. No wonder KMT legislator Liao Wei-hsiang would say things like 'how much would it take to get a Shohei Ohtani?' — they look down on athletes to the core."
-    dimension: 'accusation'
+    text: '世界頂尖的選手竟然要被國民黨跟協會羞辱，笑死。難怪國民黨立委廖偉翔會嗆說要給多少錢才有大谷翔平，打從心底就是瞧不起運動員啊'
+    dimension: '控訴'
   - author: 'mochen1742'
-    text: 'If Ohtani were Taiwanese... no, Taiwan can produce that kind of genius, but certain sports federations and ignorant politicians in Taiwan would turn a genius into a mediocrity.'
-    dimension: 'system'
+    text: '大谷如果是台灣人⋯⋯不對，台灣能出這種天才，但台灣某些體協和無知政客會讓天才變蠢材'
+    dimension: '制度'
   - author: 'gn00172012'
-    text: "The DPP owes Taiwan's athletes far more — too many to count."
-    dimension: 'cross-party'
+    text: '民進黨欠台灣運動員的比較多，多到數不清了'
+    dimension: '跨黨'
   - author: 'lingyilova'
-    text: "Personally I hope the minister doesn't donate the money."
-    dimension: 'concern'
+    text: '私心不希望部長捐錢🥲'
+    dimension: '關心'
   - author: 'chibin_diary'
-    text: 'I believe he will use his honesty and integrity to give more young people confidence.'
-    dimension: 'role-model'
+    text: '我相信他會用他的誠實正直帶給更多年輕人信心。'
+    dimension: '榜樣'
 sporeLinks:
+  - id: 28
+    platform: 'threads'
+    date: '2026-04-14'
+    url: 'https://www.threads.com/@taiwandotmd/post/DXGo_9REaGS'
   - id: 29
     platform: 'threads'
     date: '2026-04-14'
@@ -69,10 +78,10 @@ sporeLinks:
     date: '2026-04-14'
     url: 'https://x.com/taiwandotmd/status/2043976162813325344'
 translatedFrom: 'People/李洋.md'
-sourceCommitSha: 'fef3e119'
+sourceCommitSha: '1a696c19ef'
 sourceContentHash: 'sha256:96f1d5630278a964'
 sourceBodyHash: 'sha256:57937e9b25b2f462'
-translatedAt: '2026-05-01T13:19:11+08:00'
+translatedAt: '2026-11-25T00:44:38.819940+00:00'
 ---
 
 # Lee Yang
@@ -361,4 +370,4 @@ But there is a fourteen-year-old version of him, somewhere right now in a conven
 
 [^29]: [ETtoday Political News: Lee Yang's First Asset Declaration — NT$34.01M in Savings, NT$36.38M in Property Debts](https://www.ettoday.net/news/20260414/3148776.htm) — Lists details of Lee Yang's first asset declaration: Linkou land and building (purchased 2022 for NT$23.9M), one pre-sale apartment signed in 2024 for NT$20.82M, NT$1.988M sedan purchased June 2025, 14 insurance policies, NT$3.068M in fund certificates, total liabilities NT$36.385M, primarily mortgages and pre-sale housing loans.
 
-[^30]: [UDN: Olympics Badminton — Two Gold Medal Bonuses Calculated Separately, the Lin Yang Duo Can Receive NT$250,000/Month](https://udn.com/news/story/122355/8141211) + [Wikipedia: National Glory Sports Medal](https://zh.wikipedia.org/zh-tw/%E5%9B%BD%E5%85%89%E4%BD%93%E8%82%B2%E5%A5%96%E7%AB%A0) — National Glory Medal rules: each Olympic gold medal individually grants the option of a one-time NT$20M payment or NT$125,000/month for life. The Lin Yang Duo's two gold medals are calculated separately; those who chose the monthly option receive NT$250,000/month per person for life. This fund is completely unrelated to the NT$10 million personally donated by Lin Hong-dao on April 13, 2026 — they are two entirely separate bonus sources.
+[^30]: [UDN: Olympics Badminton — Two Gold Medal Bonuses Calculated Separately, the Lin Yang Duo Can Receive NT$250,000/Month](https://udn.com/news/story/122355/8141211) — + [Wikipedia: National Glory Sports Medal](https://zh.wikipedia.org/zh-tw/%E5%9B%BD%E5%85%89%E4%BD%93%E8%82%B2%E5%A5%96%E7%AB%A0) — National Glory Medal rules: each Olympic gold medal individually grants the option of a one-time NT$20M payment or NT$125,000/month for life. The Lin Yang Duo's two gold medals are calculated separately; those who chose the monthly option receive NT$250,000/month per person for life. This fund is completely unrelated to the NT$10 million personally donated by Lin Hong-dao on April 13, 2026 — they are two entirely separate bonus sources

@@ -1,13 +1,13 @@
 ---
-title: "Chen Wen-yu: How a Seed Became an Ambassador for Taiwan's Agriculture"
-description: "From the Fengshan Experimental Station to the Fengshan No. 1 seedless watermelon and Nongyou Seedlings, Chen Wen-yu turned breeding into a form of Taiwan's soft power that allows farmers to secure better lives first."
+title: "Chen Wen-yu: How a Single Seed Became a Diplomat for Taiwan's Agriculture"
+description: 'A pioneer in vegetable hybrid breeding in Taiwan, Chen Wen-yu was born in 1925 to a farming family in Yongkang, Tainan. Starting from the Fengshan Tropical Horticulture Research Station, he bred Taiwan''s first seedless watermelon, ''Fengshan No. 1'', in 1962, and personally traveled to Erlun, Yunlin, to teach farmers how to grow melons in sandy wasteland. In 1968, he founded Nongyou Seed Co., driven by the belief of "making farmers profitable first," pushing seeds and technology overseas and establishing farmer hospitals in Myanmar. Following his passing at age 88 in 2012, his life was recorded in national history, leaving behind the promise: "One seed, one responsibility."'
 date: 2026-08-16
 category: 'People'
 tags:
   [
     'Chen Wen-yu',
-    'Nongyou Seedlings',
-    'Seedless Watermelon',
+    'Nongyou Seed Co.',
+    'Seedless watermelon',
     'Agriculture',
     'Breeding',
   ]
@@ -23,10 +23,10 @@ imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Chen_Wen-Yu_1.jpg'
 curation: 'incubating'
 translatedFrom: 'People/陳文郁.md'
-sourceCommitSha: '67c4c72fc'
+sourceCommitSha: 'd3a973ae06'
 sourceContentHash: 'sha256:3facf31822b994ad'
 sourceBodyHash: 'sha256:93a5825f5b11a6f9'
-translatedAt: '2026-11-04T15:43:07.566445+00:00'
+translatedAt: '2026-11-25T01:29:11.465073+00:00'
 ---
 
 ![Chen Wen-yu with colleagues and watermelons](/article-images/people/chen-wen-yu-1.webp)

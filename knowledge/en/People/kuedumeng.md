@@ -1,6 +1,6 @@
 ---
-title: 'Ku’s Dream: From a Foreigner’s Lens to a Taiwanese Program the World Can Understand'
-description: 'Returning to Taiwan in 2017 and becoming a full-time creator in 2018, French YouTuber Ku navigated the challenges of Taiwanese food and the Chinese language to create *Chinese Monster*; with 100 foreign participants and a NT$5 million budget, he transformed cross-cultural observation into a Taiwanese production methodology and a test of societal responsibility.'
+title: "Ku's Dream: From a Foreigner's Lens to Programs That Help the World Understand Taiwan"
+description: 'A YouTuber born in Nancy, France, who returned to Taiwan in 2017 and transitioned to full-time content creation the following year. He began by filming Taiwanese food, French high schoolers, military training, and cycling around the island. He then turned "Chinese that even Taiwanese people can''t understand" into the six-episode 2025 reality show "Chinese Monster": one hundred foreigners in Taiwan compete for a NT$300,000 prize with a production budget of approximately NT$5 million, and the first episode surpassed 2 million views in two days. In 2023, he obtained permanent residency, evolving from "a Frenchman living in Taiwan" to someone subject to public regulations; following the show''s viral success, issues such as contestant protection, team labor, and creator responsibility have also been brought to the forefront.'
 date: 2026-08-16
 category: 'People'
 tags: ["Ku's Dream", 'Ku', 'YouTube', 'Chinese Monster', 'Cultural Exchange']
@@ -12,23 +12,23 @@ lastHumanReview: false
 readingTime: 9
 curation: 'incubating'
 translatedFrom: 'People/酷的夢.md'
-sourceCommitSha: '28b28be35'
-sourceContentHash: 'sha256:d5d2732779427fb1'
-sourceBodyHash: 'sha256:ba64b4515c6095ff'
-translatedAt: '2026-09-11T14:06:13+08:00'
+sourceCommitSha: '1a696c19ef'
+sourceContentHash: 'sha256:ae3880552031079b'
+sourceBodyHash: 'sha256:bd29874de3910fe0'
+translatedAt: '2026-11-25T01:36:00.925410+00:00'
 ---
 
-# Ku’s Dream: From a Foreigner’s Lens to a Taiwanese Program the World Can Understand
+# Ku's Dream: From a Foreigner's Lens to Programs That Help the World Understand Taiwan
 
-> **30-Second Overview**: Ku (Ku) is a YouTuber born in Nancy, France, who has lived in Taiwan for an extended period. He returned to Taiwan in 2017 and became a full-time creator in 2018. Initially, he filmed Taiwanese food, French high school students, military training, and island-hopping challenges from a foreigner’s perspective. He then expanded the concept of "Chinese that even Taiwanese people can’t understand" into the six-episode reality show _Chinese Monster_ in 2025. The show invited 100 foreigners residing in Taiwan to compete for a NT$300,000 prize, with a production budget of approximately NT$5 million. The first episode surpassed 2 million views within two days. Ku’s story is worth reading not only because he made Taiwan go viral, but because he forces Taiwan to reconsider: When foreigners learn Chinese, are we encouraging them, or are we keeping them permanently in the position of guests? [^1] [^2] [^3] [^15]
+> **30-Second Overview**: Ku is a YouTuber born in Nancy, France, who has lived in Taiwan for a long time; he returned to Taiwan in 2017 and became a full-time creator in 2018. He began by filming Taiwanese food, French high school students, military training, and around-the-island challenges from a foreigner's perspective, before expanding "Chinese that even Taiwanese people can't understand" into the six-episode reality show _Chinese Monster_ in 2025. This program invites 100 foreigners living in Taiwan to compete for a NT$300,000 prize, with production costs of approximately NT$5 million; the first episode surpassed 2 million views within two days. Ku's story is worth reading—not just because he made Taiwan go viral, but because he makes Taiwan rethink: when foreigners learn Chinese, are we actually encouraging them, or are we keeping them forever in the position of a "guest"? [^1] [^2] [^3] [^15]
 
-| Key Question               | One-Sentence Answer                                                                                                                                                  |
-| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Who is Ku?                 | A creator born in Nancy, France, who studied in South Korea, returned to Taiwan in 2017, and became a full-time YouTuber in 2018. [^4]                               |
-| What has he done?          | He moved from Taiwanese food, French high school students, military training, and island-hopping challenges to a large-scale Chinese language competition show. [^5] |
-| What is _Chinese Monster_? | A reality competition in Chinese for 100 foreigners in Taiwan, with a NT$300,000 prize for the champion, consisting of six episodes. [^1]                            |
-| Why is it important?       | It transforms the foreign gaze on culture into a production methodology and an industrial issue for Taiwanese online programming.                                    |
-| What cannot be ignored?    | As the show’s volume grows, the protection of participants, the labor of the team, and the creator’s response must be scrutinized. [^6] [^7]                         |
+| Key Question               | One-Sentence Answer                                                                                                                                                                     |
+| :------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Who is Ku?                 | A creator born in Nancy, France, who studied in South Korea and became a full-time YouTuber after returning to Taiwan in 2017 and transitioning in 2018. [^4]                           |
+| What has he done?          | He has progressed from content on Taiwanese food, French high schoolers, military training, and around-the-island challenges to large-scale Chinese language competition programs. [^5] |
+| What is _Chinese Monster_? | A six-episode reality competition featuring 100 foreigners in Taiwan, with a NT$300,000 grand prize for the winner. [^1]                                                                |
+| Why is it important?       | It transforms the cultural gaze of foreigners into production methods and industry issues within Taiwanese web programming.                                                             |
+| What cannot be ignored?    | As the program's influence grows, so does the need to examine contestant protection, team labor, and creator accountability. [^6] [^7]                                                  |
 
 ## Look at the Person First, Then the Channel
 
@@ -174,36 +174,36 @@ This may be the part of Ku’s story that is least like tourism promotion. Cultu
 
 ## References
 
-[^1]: [Radio Taiwan International: French YouTuber “Ku” to test foreigners’ Mandarin skills in large competition](https://www.rti.org.tw/en/news?uid=3&pid=124879) — 2025 English report explaining the scale of participants, prize money, program purpose of _Chinese Monster_, and Ku’s public statements on cross-cultural language learning.
+[^1]: [Radio Taiwan International: French YouTuber “Ku” to test foreigners’ Mandarin skills in large competition](https://www.rti.org.tw/en/news?uid=3&pid=124879) — A 2025 English report explaining the scale of competition, prize money, program objectives of "Chinese Monster," and Ku's public statements regarding cross-cultural language learning.
 
-[^2]: [VOGUE Taiwan: Interview with Ku's Dream: Using YouTube to Film a Future of Long-Form Video](https://www.vogue.com.tw/article/kus-dream-interview) — December 2025 interview providing Ku’s direct quotes on program production, hitchhiking, Chinese learning, audience attacks, gender differences, and future creative directions.
+[^2]: [VOGUE Taiwan: Interview with Ku's Dream: Using YouTube to film a long-form video future](https://www.vogue.com.tw/article/kus-dream-interview) — A December 2025 interview providing direct quotes from Ku regarding program production, hitchhiking, Chinese language learning, audience attacks, gender differences, and future creative directions.
 
-[^3]: [World Journal: Brave Enough to Break the Circle "Ku's Dream" YouTube Creation Moves Toward Programmatization](https://www.worldjournal.com/wj/story/122160/9617655) — 2026 profile interview detailing early channel positioning, program production scale, on-site storytelling methods, comparison of Taiwan-France YouTube production environments, and Ku’s views on quality and traffic.
+[^3]: [World News Network: Only by daring to adventure can one break through: "Ku's Dream" YouTube creation moves toward professional programming](https://www.worldjournal.com/wj/story/122160/9617655) — A 2026 personality interview detailing early channel positioning, program production scale, on-site narrative methods, comparisons between Taiwan and French YouTube production environments, and Ku's views on quality versus traffic.
 
-[^4]: [Wikipedia: Ku (YouTuber)](https://zh.wikipedia.org/zh-hant/%E9%85%B7_%28YouTuber%29) — Wikipedia entry.
+[^4]: [Wikipedia: Ku (YouTuber)](https://zh.wikipedia.org/zh-hant/%E9%85%B7_%28YouTuber%29) — Wikipedia entry
 
-[^5]: [VERSE: Before _Chinese Monster_, How Did "Ku's Dream" Explore Taiwanese Culture and Rewrite YouTube Online Programs?](https://www.verse.com.tw/article/kusdream-global-mandarin-challenge) — 2025 cultural report organizing food, French high school students, military challenges, and island-hopping series, explaining how _Chinese Monster_ developed from existing content mainlines.
+[^5]: [VERSE: Before "Chinese Monster," how did "Ku's Dream" explore Taiwanese culture and rewrite YouTube web programs?](https://www.verse.com.tw/article/kusdream-global-mandarin-challenge) — A 2025 cultural report summarizing the food, French high school students, military challenges, and island-hopping series, explaining how "Chinese Monster" developed from existing content themes.
 
-[^6]: [United Daily News Boo! Star News: "Ku's Dream" Former Employee Reveals Work Inside](https://stars.udn.com/star/story/120661/9423072) — April 2026 report organizing job postings and public statements from former employees; this article explicitly marks them as allegations and statements from the parties involved, not equating report content directly with judicial or administrative determinations.
+[^6]: [UDN Star News: Former employee of "Ku's Dream" reveals work inside scoop](https://stars.udn.com/star/story/120661/9423072) — An April 2026 report summarizing recruitment notices and former employees' public statements; this article explicitly marks these as allegations and personal statements, not equating the report content with findings from judicial or administrative authorities.
 
-[^7]: [Ku's Dream Ku's Dream: April 8, 2026 Threads Open Statement](https://www.threads.com/@kudream/post/DW3qlhYlJ5N/) — Primary open response from the creator himself, including insurance correction, denial of relevant remarks, apology for job posting wording, and explanation of work contact and file handover; this article retains the difference between his statements and those of the former employee.
+[^7]: [Ku's Dream: Public statement on Threads, April 8, 2026](https://www.threads.com/@kudream/post/DW3qlhYlJ5N/) — A first-hand public response from the creator, including corrections regarding insurance, denials of relevant remarks, apologies for terminology in recruitment posts, and explanations regarding work contact and file handovers; this article also preserves the discrepancies between his statements and those of former employees.
 
-[^8]: [United Daily News: 7-ELEVEN Co-branded "Ku’s dream Ku's Dream" Launches 5 Healing "Taro" Foods](https://money.udn.com/money/story/10871/8237876) — 2024 brand cooperation report providing specific data on Ku extending his taro image to convenience store co-branded products, explaining how personal preference transformed into brand content.
+[^8]: [United Daily News: 7-ELEVEN x "Ku's Dream" collaboration launches 5 types of taro-themed delicacies](https://money.udn.com/money/story/10871/8237876) — A 2024 brand collaboration report providing specific data on how Ku extended his taro image into convenience store collaborative products, explaining how personal preferences are transformed into brand content.
 
-[^9]: [The World Journal: _Chinese Monster_ Goes Viral! French Influencer Ku Brings 100 Foreigners to Compete in Chinese](https://www.cw.com.tw/article/5137595) — September 2025 in-depth report providing first episode’s 2 million views in two days, traffic growth of nearly 350%, 17TB of footage, 17 cameras, program length, team pressure, and differences between YouTube/TV production models.
+[^9]: [CommonWealth Magazine: "Chinese Monster" goes viral! French influencer Ku leads 100 foreigners to compete in Chinese](https://www.cw.com.tw/article/5137595) — A September 2025 in-depth report providing data on the first episode's 2 million views in two days, nearly 350% traffic growth, 17TB of footage, 17 cameras, program length, team pressure, and differences between YouTube and television production models.
 
-[^10]: [United Daily News Boo! Star News: YouTuber Ku Spends NT$5 Million to Create _Chinese Monster_](https://stars.udn.com/star/story/120661/9019138) — September 2025 report organizing 100 participants, NT$5 million production budget, NT$300,000 prize, and Ku’s self-description of transforming from a personal creator to the general director of a large-scale production.
+[^10]: [UDN Star News: YouTuber Ku spends NT$5 million to create "Chinese Monster"](https://stars.udn.com/star/story/120661/9019138) — A September 2025 report summarizing the 100 contestants, NT$5 million production budget, NT$300,000 prize money, and Ku's self-description of transitioning from an individual creator to a large-scale production director.
 
-[^11]: [Fu Jen Catholic University: Congratulations! French Department Student Chiu Chen-ting Wins French YouTuber "Ku's dream Ku's Dream" Million Dream Project](https://www.fju.edu.tw/newsDetail.jsp?newsID=6591) — 2021 university press release recording the Taiwan-France youth dream project and Chiu Chen-ting’s selection, providing a primary institutional source for Ku extending cultural exchange to cross-border funding projects.
+[^11]: [Fu Jen Catholic University: Congratulations! French Department student Chiu Chen-ting awarded the French YouTuber "Ku's Dream" 1 Million Dream Project](https://www.fju.edu.tw/newsDetail.jsp?newsID=6591) — A 2021 university press release recording the Taiwan-France youth dream realization project and Chiu Chen-ting's selection, providing a first-hand institutional source of how Ku extended cultural exchange into transnational funding projects.
 
-[^12]: [Ku's Dream Ku's Dream Facebook: Ku's Dream 1 Million Project / 1 MILLION PROJECT](https://www.facebook.com/kuudream/videos/%E9%85%B7%E7%9A%84%E5%A4%A2100%E8%90%AC%E4%BC%81%E7%95%AB-1-million-project/151845613419523/) — 2021 official Facebook video page, retaining recruitment and public explanation of the Million Dream Project, serving as a primary audio-visual record of the project content.
+[^12]: [Ku's Dream Facebook: Ku's Dream 1 Million Project / 1 MILLION PROJECT](https://www.facebook.com/kuudream/videos/%E9%85%B7%E7%9A%84%E5%A4%A2100%E8%90%AC%E4%BC%81%E7%95%AB-1-million-project/151845613419523/) — The official 2021 Facebook video page, preserving the recruitment and public explanations for the 1 Million Dream Project as a first-hand audiovisual record of the project content.
 
-[^13]: [Mirror News: French籍 Million YTR "Ku" Obtains Permanent Residency Card! Praises "Taiwan Has a Sense of Belonging"](https://www.mnews.tw/story/20231113nm009) — 2023 report on Ku obtaining permanent residency in the Republic of China, explaining the timeline of his long-term life in Taiwan and connection to identity.
+[^13]: [Mirror News: French millionaire YouTuber "Ku" obtains permanent residency! Praises "sense of belonging in Taiwan"](https://www.mnews.tw/story/20231113nm009) — A 2023 report providing public information regarding Ku obtaining a Republic of China permanent residency permit, explaining the timeline of his long-term life and identity connection with Taiwan.
 
-[^14]: [Ku's Dream Ku's Dream: YouTube Official Channel](https://www.youtube.com/@Kusdream/videos) — Channel’s primary audio-visual page, available for verifying channel name, program titles, public thumbnails, and work context; this article does not derive subscription or view numbers from un-dated channel pages.
+[^14]: [Ku's Dream: Official YouTube Channel](https://www.youtube.com/@Kusdream/videos) — The primary audiovisual channel page, available for verifying channel names, episode titles, public thumbnails, and work context; this article does not derive subscriber or view counts from undated channel pages.
 
-[^15]: [Guanzhi City Studies: Foreigners Learning Chinese Often "Excluded"? Million Influencer Ku's Dream _Chinese Monster_ Hides Taiwanese Goodwill Distance](https://city.gvm.com.tw/article/131409) — July 2026 report supplementing accumulated program views, Hami licensing, Golden Bell qualifications, second season planning, and Ku’s statement on "goodwill causing distance."
+[^15]: [Vision City Studies: Do foreigners often feel "excluded" when learning Chinese? Million-subscriber influencer Ku's Dream's "Chinese Monster" hides a kind distance for Taiwanese people](https://city.gvm.com.tw/article/131409) — A July 2026 report supplementing information on accumulated views, Hami licensing, Golden Bell Award eligibility, second season planning, and Ku's remarks on "kindness that causes distance."
 
-[^16]: [Taiwan Times: "Ku's Dream" 2.28 Million Subscriber Channel Saved! Hacker Suspected to Come from This Country](https://www.taisounds.com/news/content/107/239827) — February 2026 report recording channel hacking, suspected phishing collaboration invitation, recovery time, and specific information such as the saving of 448 videos.
+[^16]: [Tai Bao: "Ku's Dream" 2.28 million subscriber channel recovered! Hacker suspected to be from this country](https://www.taisounds.com/news/content/107/239827) — A February 2026 report recording specific information such as the channel being hacked, suspected phishing collaboration invitations, recovery time, and the preservation of 448 videos.
 
-[^17]: [YouTube: Chinese Monster EP1 | Who Is the Foreigner with the Best Chinese? 100 Foreigners Compete for 300k](https://www.youtube.com/watch?v=BcoIR7z9yxE) — Ku's Dream official video page, providing program first episode title, premiere date, program length, official description, and dynamic data on the view page; this article only uses program settings explicitly written in the official video, not treating dynamic view counts as fixed historical numbers.
+[^17]: [YouTube: Chinese Monster EP1 | Who is the best foreigner in Chinese? 100 foreigners compete for NT$300,000](https://www.youtube.com/watch?v=BcoIR7z9yxE) — The official Ku's Dream video page, providing the first episode title, premiere date, program length, official description, and dynamic data from the view page; this article only uses the program settings explicitly written in the official video and does not treat dynamic view counts as fixed historical figures.
