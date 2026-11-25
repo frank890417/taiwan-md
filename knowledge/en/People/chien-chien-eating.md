@@ -1,10 +1,16 @@
 ---
-title: 'Qian Qian Eating: Making "Great Appetite" a Taiwanese Flavor'
-description: 'She was first seen for her large appetite, but later turned that traffic into content and a brand responsible for food, audiences, and Taiwanese taste.'
+title: 'Chien Chien Eating: Turning "Big Eater" into a Taiwan Flavor'
+description: 'Originally a research nurse at National Taiwan University Hospital, she was discovered through a big-eater competition, quit her stable job to become a full-time YouTuber, first gaining recognition for her eating capacity, then gradually steering her channel toward cooking, local foods, and brands. In 2018 she launched Chien Chien Mixed Noodles, opting for black sesame oil and hometown flavors instead of following the spicy trend, selling nearly 30,000 packs in its first month, later bringing it to pop-up food trucks in Taipei, Hsinchu, Taichung, and Kaohsiung. She didn''t leave the big-eater label by downplaying eating, but by understanding food more deeply, so that "eating a lot" is no longer the only story.'
 date: 2026-08-16
 category: 'People'
 tags:
-  ['Qian Qian Eating', 'Hong Qian-shu', 'YouTuber', 'Mukbang', 'Taiwanese Food']
+  [
+    'Chien Chien Eating',
+    'Hong Chien-shu',
+    'YouTuber',
+    'Mukbang',
+    'Taiwanese Food',
+  ]
 subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -13,19 +19,19 @@ lastHumanReview: false
 readingTime: 7
 curation: 'incubating'
 translatedFrom: 'People/千千進食中.md'
-sourceCommitSha: '513bf256a'
-sourceContentHash: 'sha256:4bfc707dc97b4776'
-sourceBodyHash: 'sha256:685bed7af9ee32a1'
-translatedAt: '2026-09-11T10:55:20+08:00'
+sourceCommitSha: '45b1bf37e0'
+sourceContentHash: 'sha256:e967fd4cff734536'
+sourceBodyHash: 'sha256:1978cbe0e37b1512'
+translatedAt: '2026-11-25T04:16:53.296694+00:00'
 ---
 
-In 2016, Hong Qian-shu (洪千淑) was seen competing in a competitive eating contest on a Japanese TV program; the following year, she finished 226 bowls of soba noodles in five minutes in a soba noodle eating contest, taking second place in the women's division. [^1] In 2018, she filmed a video challenging herself to eat 100 hot dogs at home, with media outlets framing this as the daily life of a "pretty girl competitive eater." [^2] These two numbers easily fix Qian Qian as a spectacle: she is simply the person who eats more than others.
+In 2016, Hong Qian-shu was spotted in a competitive eating contest on a Japanese TV program; the following year, she won second place in the women's division of a soba noodle competition by eating 226 bowls in five minutes.[^1] In 2018, she filmed a video challenging herself to eat 100 hot dogs at home, and the media wrote it up as the daily life of a "competitive eater pretty girl."[^2] These two numbers easily fixed Qian Qian as a spectacle: she was just that person who eats more than others.
 
-![Taiwanese beef noodles; the image and Qian Ban Mian are not the same product, used here only as an editorial illustration of Taiwanese noodle culture](https://commons.wikimedia.org/wiki/Special:FilePath/Taiwanese%20Beef%20Noodle%20Soup.jpg)
+![Taiwan beef noodle soup; image is not the same product as Qian Qian Mixed Noodles, for editorial illustration of Taiwan noodle culture only](https://commons.wikimedia.org/wiki/Special:FilePath/Taiwanese%20Beef%20Noodle%20Soup.jpg)
 
-_Image: Jjj84206 / Wikimedia Commons, CC BY-SA 4.0; [Image details and license](https://commons.wikimedia.org/wiki/File:Taiwanese_Beef_Noodle_Soup.jpg). This image depicts Taiwanese beef noodles, not a product filmed or sold by Qian Qian Eating._
+_Image: Jjj84206/Wikimedia Commons, CC BY-SA 4.0; [image details and license](https://commons.wikimedia.org/wiki/File:Taiwanese_Beef_Noodle_Soup.jpg). This image shows Taiwan beef noodle soup, not a product filmed or sold by Qian Qian Eating._
 
-What makes Qian Qian Eating truly worth remembering is not how much she can eat, but how she later handled "being watched while eating." She transitioned from a nurse to a full-time YouTuber, first letting her appetite become her identifier, then gradually shifting her channel from competitive eating challenges to cooking, unboxing, local food, and brands. The counter-intuitive aspect of this path is: **she did not leave the competitive eating world by downplaying eating, but by understanding food more carefully, making "eating a lot" no longer the only story.**
+But what's truly worth retaining from Qian Qian Eating isn't how much she can eat, but how she later handled "being-watched eating." She transitioned from nurse to full-time YouTuber, first letting her food capacity become her recognition factor, then gradually shifting her channel from competitive eating challenges toward cooking, unboxing, local food, and brands. The counterintuitive part of this path lies in: **she didn't leave competitive eating behind by downplaying eating, but by understanding food more carefully, making "eating a lot" no longer the only story.**
 
 ## First Seen as a Stomach
 

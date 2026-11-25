@@ -1,9 +1,9 @@
 ---
 title: 'Chen Cheng-po'
-description: "He conquered Tokyo's Imperial Art Exhibition with oil paintings, yet was shot dead in front of Chiayi Railway Station — and what made the world know him was often his death, not those paintings."
+description: 'An oil painter from Chiayi and the first Taiwanese artist to be selected for the Teiten (Imperial Art Exhibition) in Japan. After teaching in Shanghai and interacting with artists like Zhang Daqian, he returned to Taiwan to create masterpieces such as "Sunset at Tamsui." During the 228 Incident, he was executed in front of Chiayi Station after serving as a negotiator. His wife, Chang Chieh, hid hundreds of his paintings in an attic for thirty years. "Sunset at Tamsui" later sold for approximately NT$220 million, setting a record for Taiwanese oil paintings.'
 date: 2026-03-31
 category: 'People'
-tags: ['藝術', '繪畫', '二二八', '嘉義', '日治時期']
+tags: ['Art', 'Painting', '228 Incident', 'Chiayi', 'Japanese Colonial Period']
 subcategory: '藝術家'
 author: 'Taiwan.md'
 featured: false
@@ -12,192 +12,192 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/陳澄波.md'
-sourceCommitSha: '22286539'
+sourceCommitSha: '45b1bf37e0'
 sourceContentHash: 'sha256:485587af49d56815'
 sourceBodyHash: 'sha256:433a66ecaa1d5d52'
-translatedAt: '2026-05-16T21:50:00Z'
+translatedAt: '2026-11-25T12:26:26+08:00'
 ---
 
-> **30-second overview:** On March 25, 1947, in front of Chiayi Railway Station, a man who wielded a paintbrush was bound with wire and shot dead in the street. His name was Chen Cheng-po — the first Taiwanese artist to break into Japan's Imperial Art Exhibition with oil paintings, and the one who went to negotiate during the [228 Incident](/en/history/228-incident/) and never came back.
-> After his death, his wife Chang Chieh hid several hundred paintings in the attic, burned the picture frames in front of their house, and told the watchers that "the paintings have been destroyed." They stayed hidden for thirty years.
-> _Sunset over Tamsui_ sold for approximately NT$220 million at auction in Hong Kong in 2007, still the highest auction price for an oil painting by a Taiwanese artist.
+> **30-Second Overview:** On March 25, 1947, in front of Chiayi Railway Station, a man holding a paintbrush was bound with iron wire and executed in the street. His name was Chen Cheng-po, the first Taiwanese person to break into the Japanese Teiten (Imperial Art Exhibition) with oil paintings, and the negotiator who went to mediate during the 228 Incident but never returned.
+> After his death, his wife Chang Chieh hid hundreds of paintings in an attic and burned the frames at their doorstep, telling monitors that "the paintings were already destroyed." This concealment lasted for thirty years.
+> "Sunset at Tamsui" sold for approximately NT$220 million in Hong Kong in 2007, remaining the highest auction record for a Taiwanese oil painting to date.
 
 ---
 
-| NT$220 million                     | 1926                                                            |
-| ---------------------------------- | --------------------------------------------------------------- |
-| _Sunset over Tamsui_ auction price | First Taiwanese artist selected for the Imperial Art Exhibition |
+| NT$220 million                   | 1926                                 |
+| -------------------------------- | ------------------------------------ |
+| "Sunset at Tamsui" auction price | First Taiwanese selection for Teiten |
 
 ---
 
 ## October 10, 1926
 
-The newspaper headlines that day were remembered by the people of Chiayi for a long time.
+The headlines in the newspapers that day remained etched in the memories of Chiayi's neighbors for a long time.
 
-Chen Cheng-po, 30 years old, a Chiayi native who had just resigned from his teaching post at a public school and gone to Tokyo to take the entrance exam for an art school, had his oil painting _Chiayi no Machi Hazure_ (Outskirts of Chiayi) selected for the 7th Imperial Art Exhibition of Japan (Teiten). This exhibition was the highest authority in the Japanese art world at the time, and Chen Cheng-po was the first Taiwanese artist to break through with an oil painting.
+Chen Cheng-po, 30 years old—a man from Chiayi who had just resigned from his position at a public school to grit his teeth and head to Tokyo to take art school exams—was selected for the 7th Imperial Art Exhibition (Teiten) in Japan with his oil painting _Kaigi no Machihazure_ (Outskirts of Chiayi). This exhibition was the highest temple of the Japanese art world at the time, and Chen Cheng-po was the first Taiwanese person to break through its gates using oil painting.
 
-In 1924, at age 29, with the support of his wife Chang Chieh, he resigned from his stable teaching position and was admitted as a special student to the Tokyo School of Fine Arts based on his drawings. At the time, the Taiwanese art community regarded selection for the Teiten as the highest honor — it made the newspaper headlines and brought pride to the Taiwanese people. He achieved this while still a third-year student at the Tokyo School of Fine Arts.
+In 1924, at age 29, with the support of his wife Chang Chieh, he resigned from a stable teaching position and was admitted as a top student to the Tokyo School of Fine Arts through his drawing skills. At that time, selection for the Teiten was considered the highest honor among Taiwanese painters—it meant making the newspaper headlines and bringing pride to the Taiwanese people. He achieved this while in his third year at the Tokyo School of Fine Arts.
 
-_Outskirts of Chiayi_ depicted the scenery on the outskirts of Chiayi City: vast fields, the boundary between sky and horizon, with a few trees in the foreground. Technically, Chen Cheng-po was influenced by modern Japanese Western-style painting, but he mixed something of his own into the brushwork — a heavy, subjective sense of color, as if he were spreading his feelings for the land directly onto the canvas. The Japanese judges took notice of that "something different."
+The painting _Outskirts of Chiayi_ depicted the scenery on the outskirts of Chiayi City: vast farmlands, the junction of sky and horizon, and several trees in the foreground. In terms of technique, Chen Cheng-po was influenced by modern Japanese Western-style painting, but he infused his brushwork with something of his own—a heavy, subjective sense of color, as if he were applying his emotions for the land directly onto the canvas. The Japanese jurors noticed that "something different."
 
 > **📝 Curator's Note**
-> Chen Cheng-po went on to be selected for the Teiten multiple times and was repeatedly chosen as a special selection for the Taiwan Fine Arts Exhibition (Tai-ten). In his diary, he wrote down his artistic philosophy: a work must possess "サアムシニーグ (Something)" — something that cannot be put into words, only felt. This "Something" ran through his entire creative career.
+> Chen Cheng-po was selected for the Teiten several more times and was frequently chosen for special awards at the Taiwan Art Exhibition (Tai-zhan). In his diary, he wrote about his artistic philosophy: a work must possess "_saamushiniigu_" (Something)—something ineffable that can only be felt. This "Something" would permeate his entire creative career.
 
 ---
 
 ## Those Four Years in Shanghai
 
-In 1929, after completing his studies at the Graduate School of the Western Painting Department of the Tokyo School of Fine Arts, Chen Cheng-po did not return directly to Taiwan.
+In 1929, after graduating from the Western Painting Department of the Tokyo School of Fine Arts, Chen Cheng-po did not return directly to Taiwan.
 
 He went to Shanghai.
 
-While studying in Tokyo, he had met the Chinese painter Wang Chi-yuan, and through Wang's introduction, he was hired to teach at the Hsin-hua Art Academy and the Chang-ming Art Academy in Shanghai. By 1928, he was already directing the I-yüan Painting Research Institute, gradually establishing himself in the city.
+During his studies in Tokyo, he had met the Chinese painter Wang Ji-yuan; through Wang's introduction, he was hired to teach at the Xinhua Art Academy and the Changming Art Academy in Shanghai. By 1928, he had already taken charge of the Yiyuan Painting Institute, gradually establishing a foothold in the city.
 
-Shanghai from 1929 to 1933 was the golden age of Republican-era culture. There, Chen Cheng-po met Chang Dai-chien, Pan Yuliang, and Pan Tianshou, exchanging letters and artworks. He joined the reformist "Juelan Society" and later served as a Western painting juror for the First National Art Exhibition in Shanghai. In 1931, his painting _Clear Stream_ was selected as one of twelve works representing the Republic of China at the Chicago World's Fair in the United States.
+Shanghai from 1929 to 1933 was the golden age of Republican culture. There, Chen Cheng-po met Zhang Daqian, Pan Yuliang, and Pan Tianshou, exchanging letters and works. He joined the reformist "Juelan Society" (Society of Decision) and later served as a Western painting juror for the first National Art Exhibition in Shanghai. In 1931, his painting _Clear Stream_ was selected as one of twelve works representing the Republic of China at the Chicago World's Fair in the United States.
 
-This was his most intensive and experimental artistic period. He began exploring a "East-meets-West" painting style, attempting to integrate Eastern sensibility into Western oil painting techniques. A colonial painter from Chiayi had found his place in the cultural capital of Republican China.
+This was his most intensive and experimental period artistically. He began exploring a "fusion of Chinese and Western" style, attempting to integrate Eastern charm into Western oil techniques. A colonial painter from Chiayi had found his place in the cultural capital of the Republic.
 
-In 1932, the January 28 Incident broke out in Shanghai, anti-Japanese sentiment surged, and Taiwanese people were regarded as Japanese nationals, making their situation difficult. Chen Cheng-po first sent his family back to Taiwan to take shelter, staying behind to settle his affairs. In 1933, he returned as well.
+In 1932, the January 28 Incident broke out in Shanghai. Anti-Japanese sentiment surged, and because Taiwanese people were often viewed as Japanese subjects, their situation became difficult. Chen Cheng-po first sent his family back to Taiwan for safety while he stayed behind to settle his affairs. He returned in 1933.
 
-Back in Chiayi, carrying the vision gained from four years in Shanghai, and an even deeper attachment to his hometown.
+He arrived back in Chiayi carrying the vision gained from four years in Shanghai, along with a deeper longing for his hometown.
 
 ---
 
 ## The Colors of Chiayi
 
-After returning to Taiwan, Chen Cheng-po entered the peak period of his creative output.
+After returning to Taiwan, Chen Cheng-po entered his creative peak.
 
-He helped establish the Tai-yang Art Association and devoted himself to promoting a local Taiwanese art movement. Then came the endless plein-air painting — carrying his easel across Taiwan, from downtown Chiayi to the banks of the Tamsui River, from the snow-capped peaks of Yushan to the southernmost cape of Pingtung. His footsteps left oil paint across the entire island.
+He helped found the Taiyang Art Association, dedicated to promoting the local Taiwanese art movement. Then came the constant sketching—carrying his easel across Taiwan, from Chiayi City to the banks of the Tamsui River, from the snow-capped Yushan to the southern tip of Pingtung. His footsteps left oil paint across both the north and south of the island.
 
-_Sunset over Tamsui_, completed in 1935, is one of his most well-known masterpieces. The composition looks down from an elevated vantage point, with traditional Southern Min-style houses along the Tamsui River estuary layered one upon another, red roof tiles stretching from the foreground to the background — red buildings, a church steeple, the Dodd & Co. trading firm, and in the distance, Fort San Domingo. This was the real face of Tamsui in the 1930s. The compositional rhythm is not flat but circular, all elements wrapped together by him in an organic way.
+Completed in 1935, _Sunset at Tamsui_ is one of his most famous masterpieces. Viewed from a high vantage point, the painting shows the layers of Minnan-style houses at the mouth of the Tamsui River; red roof tiles extend from the foreground to the background, passing the Red Building, the chapel bell tower, the De Ge Li Shi trading company, and the distant Fort San Domingo—it was the authentic appearance of Tamsui in the 1930s. The rhythm of the composition is not flat but circular, with all elements wrapped together in an organic manner.
 
-But what best represents Chen Cheng-po are still those paintings of Chiayi: the fountain roundabout, sunlight on street corners, the colors of the market. His way of painting his hometown carries a very personal thickness — not the record of an outsider, but the feeling of someone who lived there, of the air itself.
+But what best represents Chen Cheng-po are his paintings of Chiayi: the fountain roundabout, sunlight on street corners, and the colors of the marketplace. His way of painting his hometown possessed a very personal depth; it was not the record of a bystander, but the sensation of someone living within the air itself.
 
-> **✦** "After returning to Taiwan in 1933, Chen Cheng-po's intensely strong subjective consciousness and乡土色感 (local color sensibility) formed a unique artistic style, leaving behind a large body of moving works for his hometown." (Liang Gallery)
+> **✦** "After returning to Taiwan in 1933, Chen Cheng-po's intense subjective consciousness and local sense of color formed a unique artistic style, leaving behind a large number of moving works for his hometown." (Zun Cai Art Center)
 
 ---
 
-## The Choices of 1946
+## The Choice of 1946
 
-In 1945, Japan was defeated. The Taiwanese people joyfully welcomed the "motherland."
+In 1945, Japan was defeated. Taiwanese people joyfully welcomed the "Motherland."
 
-Chen Cheng-po was one of them. He painted a work titled _Celebration Day_, depicting the raising of the Blue Sky with a White Sun and Red Earth flag over the Chiayi Police Bureau building, with people on the streets rejoicing. He was elected vice-chair of the Chiayi City Committee for Welcoming the National Government.
+Chen Cheng-po was among them. He painted a work titled _Celebration Day_, depicting the scene of the Blue Sky with a White Sun flag rising over the Chiayi Police Station building, amidst the cheering crowds in the streets. He was recommended as the deputy director of the preparatory committee for the Chiayi City Welcome Committee for the Nationalist Government.
 
-In 1946, he joined the Kuomintang (Chinese Nationalist Party) and was elected to the first Chiayi City Council.
+In 1946, he joined the Kuomintang and was elected to the first session of the Chiayi City Council.
 
-Some later called these choices naive, some called them enthusiastic, and some saw them as the genuine expectations of an intellectual who had been suppressed under colonial rule for many years, looking toward a new era. In any case, he chose to step into politics, believing he could play a role in the new order of his city.
+Some later called these choices naive; others called them enthusiastic; some said they were the genuine expectations of an intellectual who had been suppressed for years under colonial rule for a new era. Regardless, he chose to enter politics, believing he could play a role in the new order of this city.
 
 > **⚠️ Controversial Perspective**
-> Chen Cheng-po's joining of the Kuomintang and his service as a city councilor are occasionally glossed over or downplayed in 228 discourse. In reality, his political participation was not that of a passive victim but of someone who actively embraced the postwar political order. When he went to Shuishang Airport as a negotiator in 1947, _Taiwan Panorama_ magazine reported that "some people urged him not to go, but he was too enthusiastic and insisted on going" — how much of that was naivety and how much courage is impossible to separate.
+> Chen Cheng-po's joining of the Kuomintang and his service as a councilor is occasionally glossed over or downplayed in 228 narratives. In reality, his political involvement was not that of a passive victim, but an active choice to embrace the new post-war political order. When he went to the Shuishang Airport as a negotiator in 1947, a report in _Taiwan Guanghua Magazine_ mentioned: "Some advised him absolutely not to go, but he was too enthusiastic and insisted on going"—it is difficult to separate how much of this was naivety and how much was courage.
 
 ---
 
 ## Shuishang Airport, March 1947
 
-After the outbreak of the [228 Incident](/en/history/228-incident/), the conflict in Chiayi was particularly intense.
+Following the outbreak of the 228 Incident, conflicts in Chiayi were exceptionally intense.
 
-Nationalist troops retreated to Shuishang Airport and were besieged by civilian militias. The Chiayi City "228 Incident Settlement Committee" accepted the military's request for negotiations and decided to send representatives. Chen Cheng-po, who spoke Mandarin and had lived on the mainland, was chosen as one of the representatives (some accounts say he volunteered), along with Chen Fu-chih, Pan Mu-chih, Lu Ping-chin, Ko Lin, and others — twelve people in total.
+Nationalist government troops retreated to Shuishang Airport and were besieged by militia. The Chiayi City "228 Incident Handling Committee" accepted a request for peace talks from the military and decided to dispatch representatives for negotiation. Because he was fluent in the Beijing dialect and had experience living in mainland China, Chen Cheng-po was pushed as one of the representatives (some say he volunteered), joining twelve others including Chen Fu-chih, Pan Mu-chih, Lu Ch'ao-chin, and Ke Lin.
 
-Twelve people went. Only three came back. Chen Cheng-po and the others were all arrested by the other side and bound with coarse wire.
+Of the twelve who went, only three returned. Chen Cheng-po and his companions were all arrested by the opposing side and bound with thick iron wire.
 
-On March 25, 1947, they were transported to the front of Chiayi Railway Station and, without any trial, shot dead in the street as a public warning. Chen Cheng-po was 52 years old.
+On March 25, 1947, they were escorted to the front of Chiayi Railway Station and executed in the street in full view of the public without any trial. Chen Cheng-po was 52 years old at the time.
 
-Afterward, the military forbade the family from collecting the body immediately. "The corpse lay exposed for several days, surrounded by flies and mosquitoes." (228 Memorial Foundation records)
+After his death, the military strictly forbade the family from immediately collecting the body. "The corpse lay exposed for several days, swarmed by flies." (Records of the 228 Incident Memorial Foundation)
 
-It was not until four or five in the evening that the Chen family was notified to retrieve the body.
+It was not until around four or five in the evening that the Chen family was notified to collect the remains.
 
-For a more complete historical account of the [228 Incident](/en/history/228-incident/), including the persecution of elites across Taiwan, see the dedicated entry.
-
----
-
-## Thirty Years Under the Eaves
-
-When the news reached home, Chang Chieh did not break down — or rather, she hid the breakdown.
-
-She washed her husband's body, dressed him in clean clothes, and carefully preserved the bloodstained shirt riddled with bullet holes. She quietly asked a photographer to capture Chen Cheng-po's final face. She wanted to preserve the evidence.
-
-Then she did something remarkably calm: she removed all the paintings from their frames, rolled them up, and hid them in the attic. Then, in front of the house, she burned all the frames and painting equipment.
-
-She wanted to tell the watchers: "Chen Cheng-po's paintings have all been destroyed."
-
-Chen Cheng-po's post-mortem photograph was hidden behind the ancestral spirit tablets — security agents would not search a household shrine. On the altar was his _Self-Portrait_, completed at the Tokyo School of Fine Arts, gradually darkening with the passage of time.
-
-For over thirty years, Chang Chieh and the children struggled to make a living. But every so often, she would shut herself in the attic for several days, carefully tending to her husband's works: worried about mold, she would unroll each of the hundreds of oil paintings one by one, cover them with newspaper, layer upon layer, then roll them up again; when dust accumulated in the attic, she would follow the brushstrokes with a brush dipped in water, gently wiping it away.
-
-"She spent her whole life waiting — waiting for Chen Cheng-po to return from Tokyo, waiting for him to come back from teaching in Shanghai... then came another long wait, waiting for his paintings to see the light of day again." (GJTaiwan, "The Woman Who Hid Paintings (and Words) — Chang Chieh")
-
-She did not live to see vindication. Chang Chieh passed away in 1993. The official apology for the 228 Incident would not come until 1995, when former President Lee Teng-hui publicly apologized to the victims.
-
-In the late 1970s, as Taiwanese society gradually opened up, Chang Chieh began to make the paintings and materials public. With the help of Chen Cheng-po's former classmates and students, the first "Chen Cheng-po Posthumous Works Exhibition" was held. Then the Kaohsiung Incident (Formosa Incident) broke out, and everything froze again for several years.
+For a more complete historical context regarding the [228 Incident](/en/history/228-incident/), including the suffering of elites across Taiwan, see the independent entry.
 
 ---
 
-## After Martial Law
+## Thirty Years in the Attic
 
-In 1987, martial law was lifted, and Taiwan began to confront its own history.
+When the news reached home, Chang Chieh did not collapse—or rather, she hid her collapse.
 
-Chen Cheng-po's name transformed from a taboo into a cultural legacy. His paintings moved from the attic into art museums, onto auction blocks, and into textbooks.
+She washed her husband's body, changed him into clean clothes, and carefully stored the blood-stained shirt pierced by bullets. She quietly hired a photographer to capture Chen Cheng-po's final visage. She wanted to leave evidence.
 
-In 1993, _Dusk over Tamsui_ sold at Sotheby's for NT$11 million, setting a record at the time for the highest price for a Chinese oil painting at Sotheby's. In 2006, _Tamsui_ sold at Sotheby's Hong Kong for HK$34.84 million (approximately NT$144 million). In 2007, _Sunset over Tamsui_ sold at Christie's Hong Kong for approximately HK$50.73 million including buyer's premium (approximately NT$220 million), still the highest auction price for an oil painting by a Taiwanese artist.
+Then she did something incredibly calm: she removed all the paintings from their frames, rolled them up, and hid them in the attic. Next, at their doorstep, she burned all the frames and sketching tools.
 
-The advancement of [transitional justice in Taiwan](/en/history/taiwan-transitional-justice/) has ensured that Chen Cheng-po is no longer just a name — there are exhibitions, a former residence cultural center, and a complete research archive.
+She wanted to tell the monitors: "Chen Cheng-po's paintings have all been destroyed."
 
-On March 25, 2025 — the anniversary of his death — his grandson Chen Li-pai signed an agreement to donate nearly all of the more than 2,000 works that had survived in the attic, including oil paintings, sketches, and manuscripts, to the preparatory office of the National Museum of Fine Arts in Tainan. "It's like marrying off a daughter," he said, "and I believe she's marrying into a good family, so I feel relieved, as if a wish has been fulfilled." (United Daily News, 2025)
+Chen Cheng-po's memorial photo was hidden behind the ancestral tablets—intelligence officers would not search religious altars. On the altar sat his _Self-Portrait_ completed at the Tokyo School of Fine Arts, which grew gradually darker with the passage of time day after day.
+
+For over thirty years, Chang Chieh and her children struggled to make a living. But periodically, she would lock herself in the attic for several days to meticulously tend to her husband's unfinished legacy: worried about mold, she would spread out hundreds of oil paintings one by one, cover them with layers of newspaper, and then restack them; if there was dust in the attic, she would use a brush dipped in water to gently wipe it away along the strokes of the oil paintings.
+
+"She spent her whole life waiting—waiting for Chen Cheng-po to return from Tokyo, waiting for him to return from teaching in Shanghai... and then came another long wait, waiting for his paintings to see the light of day again." (_Ju Zhen Taiwan_, "The Woman Who Hid Paintings—Chang Chieh")
+
+In the end, she did not live to see his name rehabilitated. Chang Chieh passed away in 1993. The official apology regarding the 228 Incident did not come until 1995, when former President Lee Teng-hui publicly apologized to the victims.
+
+In the late 1970s, as Taiwanese society gradually opened up, Chang Chieh began to make the paintings and documents public. With the help of Chen's former classmates and students, the first "Chen Cheng-po Posthumous Works Exhibition" was held. Subsequently, the _Formosa Incident_ broke out, freezing everything once again for several years.
+
+---
+
+## After Democratization
+
+With the lifting of martial law in 1987, Taiwan began to face its own history.
+
+Chen Cheng-po's name shifted from a taboo to a cultural heritage. His paintings moved from the attic into museums, onto auction blocks, and into textbooks.
+
+In 1993, _Twilight at Tamsui_ sold at Sotheby's for NT$11 million, setting a record at the time for the highest price for a Chinese oil painting at Sotheby's. In 2006, _Tamsui_ was sold at Sotheby's Hong Kong for HK$34.84 million (approximately NT$144 million). In 2007, _Sunset at Tamsui_ was sold at Christie's Hong Kong for nearly HK$50.73 million including commission (approximately NT$220 million), which remains the highest auction record for a Taiwanese oil painting to date.
+
+The advancement of [Taiwan's transitional justice](/en/history/taiwan-transitional-justice/) has ensured that Chen Cheng-po is no longer just a name, but someone with exhibitions, a former residence museum, and complete research archives.
+
+On March 25, 2025—the anniversary of his death—his eldest grandson, Chen Li-po, signed an agreement to donate almost all of the more than 2,000 surviving works preserved in the attic, including oil paintings, sketches, and manuscripts, as a pure donation to the Tainan National Art Museum Preparatory Office. "It's like marrying off a daughter," he said, "and believing she is marrying into a good family, so I feel a sense of relief that my wish has been fulfilled." (United News Agency, 2025)
 
 That day was the 78th year after March 25, 1947.
 
 ---
 
-## Political Symbol or Painter Himself
+## Political Symbol or Painter Itself?
 
-The exhibition description at the Kaohsiung Museum of Fine Arts contains a line worth remembering: "Because of his image as a 228 victim, the general public has overlooked his artistic achievements."
+There is a sentence in the exhibition description at the Kaohsiung Museum of Fine Arts worth remembering: "Because of his image as a 228 victim, people often overlook his artistic achievements."
 
-This is not just one exhibition's view.
+This is not just the view of this one exhibition.
 
-The order in which Chen Cheng-po entered the public consciousness is usually: first as a 228 victim, then as a painter. Many Taiwanese know him as the man who was shot, but are less familiar with his paintings themselves — their color logic, their sense of space, the tension of squeezing subjective emotion and realistic scenery into the same frame.
+The order in which Chen Cheng-po enters the public consciousness is often: first as a 228 victim, and only then as a painter. Many Taiwanese know him as the man who was executed, but are less familiar with his paintings themselves—their color logic, sense of space, and the tension of squeezing subjective emotion into realistic scenery within a single frame.
 
-This is a structural problem in Taiwan's process of healing historical wounds: when a person becomes a political symbol, their other dimensions recede into shadow. Chen Cheng-po's oil paintings have an independent standing in the history of modern East Asian art — when he interacted with members of the Juelan Society in Shanghai, he was an artist standing alongside Chang Dai-chien and Pan Yuliang, not a victim. When he was selected for the Teiten, he spoke through his work, not through his death.
+This is a structural issue in the process of healing Taiwan's historical scars: when a person becomes a political symbol, their other facets recede into the shadows. Chen Cheng-po's oil paintings hold an independent position in East Asian modern art history—when he interacted with members of the Juelan Society in Shanghai, he was an artist standing shoulder to shoulder with Zhang Daqian and Pan Yuliang, not a victim. When he was selected for the Teiten, it was through his work speaking, not through his death.
 
-That said, to say his artistic value was "amplified by politics" is also an oversimplification. The NT$220 million for _Sunset over Tamsui_ bought a genuine masterpiece — the composition, brushwork, and treatment of light are achievements that few in 20th-century Taiwanese oil painting reached. The tragedy of history made his name endure, but what makes his works valuable is the paintings themselves.
+However, saying his artistic value was "amplified by politics" is also too simplistic. The NT$220 million for _Sunset at Tamsui_ bought a true masterpiece—the composition, brushwork, and handling of light reached a height that few others in 20th-century Taiwanese oil painting achieved. Historical tragedy made his name endure, but it is the paintings themselves that make his work valuable.
 
-Art and politics in Chen Cheng-po's case are not competing forces but two inseparable threads. His choice to remain in Chiayi, his choice to go to Shuishang Airport, and his choice to paint Chiayi's sun with intense color sensibility — these were choices made by the same person.
+Art and politics are not competing forces in Chen Cheng-po; they are two inseparable lines. His choice to stay in Chiayi, his choice to go to Shuishang Airport, and his choice to paint the sun of Chiayi with intense color sense were all choices made by the same man.
 
 ---
 
 ## Timeline
 
-1. **1895/2/2** — Born in Chiayi; father Chen Jo-yu was a Qing dynasty provincial graduate (juren)
-2. **1924** — Resigned from public school teaching post; admitted to the Tokyo School of Fine Arts based on drawings
-3. **1926/10/10** — _Outskirts of Chiayi_ selected for the 7th Imperial Art Exhibition of Japan, the first Taiwanese artist
-4. **1929** — Went to Shanghai to teach; joined the Juelan Society; directed the I-yüan Painting Research Institute
-5. **1933** — Returned to Taiwan and settled; helped establish the Tai-yang Art Association
-6. **1935** — Created masterpieces including _Sunset over Tamsui_
-7. **1946** — Joined the Kuomintang; elected to the first Chiayi City Council
-8. **1947/3/25** — Arrested while serving as a negotiator at Shuishang Airport; shot dead in front of Chiayi Railway Station, age 52
-9. **1947 onward** — Chang Chieh hid paintings in the attic and burned frames to fake their destruction
-10. **1979** — First "Chen Cheng-po Posthumous Works Exhibition" held; Taiwanese society publicly encountered his work for the first time
-11. **1993** — Chang Chieh passed away; _Dusk over Tamsui_ sold at Sotheby's for NT$11 million, a record
-12. **2007** — _Sunset over Tamsui_ sold at Christie's Hong Kong for NT$220 million, still the record
-13. **2025/3/25** — Grandson Chen Li-pai donated over 2,000 surviving works to the preparatory office of the National Museum of Fine Arts in Tainan
+1. **Feb 2, 1895** — Born in Chiayi; father Chen Ruo-yu was a _juren_ (successful candidate in the provincial imperial examination) of the late Qing Dynasty.
+2. **1924** — Resigned from public school teaching; admitted to Tokyo School of Fine Arts through drawing exams.
+3. **Oct 10, 1926** — Selected for the 7th Japanese Teiten with _Outskirts of Chiayi_; first Taiwanese person to do so.
+4. **1929** — Went to Shanghai to teach; joined the Juelan Society; headed the Yiyuan Painting Institute.
+5. **1933** — Returned to Taiwan to settle; helped found the Taiyang Art Association.
+6. **1935** — Created masterpieces such as _Sunset at Tamsui_.
+7. **1946** — Joined the Kuomintang; elected to the first Chiayi City Council.
+8. **Mar 25, 1947** — Arrested while serving as a negotiator at Shuishang Airport; executed in front of Chiayi Railway Station at age 52.
+9. **From 1947** — Chang Chieh hid the paintings in the attic and burned the frames to disguise them as destroyed.
+10. **1979** — First "Chen Cheng-po Posthumous Works Exhibition" held; first public recognition by Taiwanese society.
+11. **1993** — Chang Chieh passed away; _Twilight at Tamsui_ sets a record at Sotheby's for NT$11 million.
+12. **2007** — _Sunset at Tamsui_ sells for NT$220 million at Christie's Hong Kong, remaining the highest record.
+13. **Mar 25, 2025** — Eldest grandson Chen Li-po donates over 2,000 posthumous works to the Tainan National Art Museum Preparatory Office.
 
 ---
 
-Chang Chieh's attic was low, damp, and infested with insects. Inside, she gently dusted with a brush, over and over, not knowing where the waiting would end.
+Chang Chieh's attic was low, damp, and insect-ridden. Inside, she used a brush to gently remove dust, time and time again, not knowing where the end of her waiting would be.
 
-Now those paintings hang in art museums, where people view them, study them, and pay NT$220 million for one.
+Now those paintings hang in museums; some people look at them, some study them, and some spend NT$220 million on one.
 
-Chen Cheng-po's _Clear Stream_ was designated in his will as a "family heirloom." That painting still exists.
+Chen Cheng-po's _Clear Stream_ was designated as a "family heirloom" in his will. That painting still exists today.
 
 ## References
 
-- [Chen Cheng-po — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%99%B3%E6%BE%84%E6%B3%A2) (starting point)
-- [Chen Cheng-po — Ministry of Culture National Cultural Memory Bank](https://memory.culture.tw/Story/Detail?IndexCode=member_story&Id=851) (primary)
-- [Taiwan's Disappeared Elites of the 228 Incident: Chen Cheng-po — 228 Memorial Foundation](https://www.228.org.tw/228_elites-view.php?ID=1) (primary)
-- [The Woman Who Hid Paintings (and Words) — Chang Chieh — GJTaiwan](https://www.gjtaiwan.com/new/?p=53043)
-- [1947.3.25 Painter Chen Cheng-po Executed by Firing Squad — Taiwan Memory Expedition](https://www.twmemory.org/?p=5059)
-- [The Bloodstained Painter, the Brave Life — Taiwan Panorama](https://www.taiwan-panorama.com/Articles/Details?Guid=c836fc05-1e3c-43f0-a5eb-a5ae55ba489d&CatId=8)
-- [Grandmother Hid Paintings in Attic for 30 Years; Chen Li-pai "Bare-Donates" 2,000 Chen Cheng-po Works — United Daily News](https://udn.com/news/story/7266/8632196) (2025)
-- [Chinese Aesthetic Consciousness in Chen Cheng-po's Painting Style — National Taiwan Museum of Fine Arts Journal](https://twfineartsarchive.ntmofa.gov.tw/QuarterlyFile/P0870100.pdf) (academic primary)
-- [Deep Longing for Home: Chen Cheng-po Memorial Exhibition — Kaohsiung Museum of Fine Arts](https://www.kmfa.gov.tw/ExhibitionDetailC001100.aspx?Cond=5b89f52e-55fb-4894-91bc-4420e79088c6)
-- [Chen Cheng-po — Art Emperor](https://artemperor.tw/focus/1817)
-- [Chen Cheng-po Culture Foundation](https://chengpo.org/) (primary)
+- [Chen Cheng-po - Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%99%B3%E6%BE%84%E6%B3%A2) (Starting point)
+- [Chen Cheng-po - National Culture Memory Bank, Ministry of Culture](https://memory.culture.tw/Story/Detail?IndexCode=member_story&Id=851) (Primary source)
+- [The Disappeared Taiwanese Elites of 228: Chen Cheng-po - 228 Incident Memorial Foundation](https://www.228.org.tw/228_elites-view.php?ID=1) (Primary source)
+- [The Woman Who Hid Paintings—Chang Chieh - Ju Zhen Taiwan](https://www.gjtaiwan.com/new/?p=53043)
+- [Famous Painter Chen Cheng-po Executed on March 25, 1947 - Taiwan Memory Adventure Group](https://www.twmemory.org/?p=5059)
+- [Bloody Painter, Brave Soul - Taiwan Guanghua Magazine](https://www.taiwan-panorama.com/Articles/Details?Guid=c836fc05-1e3c-43f0-a5eb-a5ae55ba489d&CatId=8)
+- [Grandmother's Attic Hides Paintings for 30 Years; Chen Li-po "Donates" 2,000 Works by Chen Cheng-po - United News Agency](https://udn.com/news/story/7266/8632196) (2025)
+- [Huaxia Aesthetic Consciousness in Chen Cheng-po's Painting Style - Journal of National Taiwan Art Museum Collection Research](https://twfineartsarchive.ntmofa.gov.tw/QuarterlyFile/P0870100.pdf) (Academic primary source)
+- [Nostalgia for the Homeland: Chen Cheng-po Memorial Exhibition - Kaohsiung Museum of Fine Arts](https://www.kmfa.gov.tw/ExhibitionDetailC001100.aspx?Cond=5b89f52e-55fb-4894-91bc-4420e79088c6)
+- [Chen Cheng-po - Feichi Art Network](https://artemperor.tw/focus/1817)
+- [Chen Cheng-po Cultural Foundation](https://chengpo.org/) (Primary source)

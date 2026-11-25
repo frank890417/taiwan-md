@@ -1,25 +1,31 @@
 ---
-title: 'Aaron Nieh: Taiwan’s First AGI Member, from Golden Melody Album Packaging to National Identity Systems Across Two Decades'
-description: 'Aaron Nieh (born 1977) is the first Taiwanese designer admitted to Switzerland’s Alliance Graphique Internationale (AGI) and a three-time winner of the Golden Melody Award for Best Album Packaging. His design work spans pop-music covers (Jonathan Lee, Yoga Lin, Lu Wei), book publishing, civic movements (the 4 a.m. New York Times advertisement during the 2014 Sunflower Movement; the 2020 anti-Tedros “Taiwan Can Help” campaign that crowdfunded NT$10 million in eight hours), political campaigns (Tsai Ing-wen’s 2016 “Light Up Taiwan” campaign and the main visuals for two presidential inaugurations), state-owned enterprise identity systems (the Ministry of Economic Affairs, Tourism Administration, CPC, Taipower), and art spaces (Taichung Green Museumbrary, Taiwan Pavilion at the Venice Biennale). Aaron Nieh Workshop operates from Taipei and Kaohsiung’s Pier-2 warehouses; he studied in graduate programs in Belgium and London and completed none of three master’s programs; he has said of himself, “before he was designer Aaron Nieh, he was citizen Aaron Nieh.” Starting in 2024, he won four consecutive state-owned enterprise identity projects, and on the day Taipower’s new logo went online in 2026, a controversy erupted over alleged “political patronage.”'
+title: "Nie Yung-chen: Taiwan's First AGI Member, Twenty Years from Golden Melody Awards Packaging to National Identity Systems"
+description: 'The first Taiwanese designer to join the Swiss-based Alliance Graphique Internationale (AGI), a three-time winner of the Golden Melody Award for Best Album Design. His portfolio spans record covers, the 4:00 AM New York Times advertisement for the 2014 Sunflower Movement, the 2020 "Taiwan Can Help" crowdfunding campaign that raised NT$10 million in eight hours, and visual identities for Tsai Ing-wen''s two presidential inaugurations as well as the Ministry of Economic Affairs, CPC Corporation, and Taipower. He claims, "Before being designer Nie Yung-chen, he is citizen Nie Yung-chen"; on the day Taipower''s new logo launched in 2026, this same identity led to accusations of political patronage.'
 date: 2026-05-08
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '藝術與設計'
 tags:
   [
     'Designer',
-    'Aaron Nieh',
+    'Nie Yung-chen',
     'AGI',
-    'Aaron Nieh Workshop',
+    'Yung-chen Urgent Design',
     'Golden Melody Awards',
     'Tsai Ing-wen Campaign',
-    'Sunflower Movement',
-    'Aesthetics of Reduction',
+    'Sunflower Student Movement',
+    'Minimalist Aesthetics',
   ]
+subcategory: '藝術與設計'
+author: 'Taiwan.md Contributors'
+featured: false
 readingTime: 18
 lastVerified: 2026-05-12
 lastHumanReview: false
-featured: false
+researchReport: 'reports/research/2026-05/聶永真.md'
+image: '/article-images/people/aaron-nieh-portrait-2018.webp'
+imageAlt: 'A portrait of Nie Yung-chen at a public design event in Taiwan in March 2018, wearing a dark suit and holding a microphone against a dark exhibition curtain background.'
+imageCredit: 'Gene Wang'
+imageLicense: 'CC BY-SA 2.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%81%B6%E6%B0%B8%E7%9C%9F_(40799138092).jpg'
 sporeLinks:
   - id: 66
     platform: 'threads'
@@ -32,14 +38,10 @@ sporeLinks:
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/聶永真.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '30ab24424f'
 sourceContentHash: 'sha256:b31e7dab1de7bf10'
 sourceBodyHash: 'sha256:26e4e11c3e29817a'
-translatedAt: '2026-06-16T17:03:25Z'
-image: '/article-images/people/aaron-nieh-portrait-2018.webp'
-imageCredit: 'Gene Wang'
-imageLicense: 'CC BY-SA 2.0'
-imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%81%B6%E6%B0%B8%E7%9C%9F_(40799138092).jpg'
+translatedAt: '2026-11-25T04:26:52.291760+00:00'
 ---
 
 > **30-second overview:** Aaron Nieh (born 1977) is the first Taiwanese designer admitted to the Alliance Graphique Internationale (AGI), and has won the Golden Melody Award for Best Album Packaging three times. He has designed music covers for Yoga Lin, Sodagreen, Jolin Tsai, and Hebe Tien, as well as book covers for Rye Field, China Times Publishing, INK, and Linking Publishing; the 4 a.m. New York Times advertisement during the 2014 Sunflower Movement and the 2020 “Taiwan Can Help” New York Times crowdfunding campaign both came from him; Tsai Ing-wen’s 2016 campaign identity “Light Up Taiwan” and the main visuals for two presidential inaugurations were also handled by him and his studio. Aaron Nieh Workshop established a second base in Kaohsiung’s Pier-2 warehouse district in 2024, and beginning that same year consecutively won identity-system projects for Taipower, CPC, the Tourism Administration, and the Ministry of Economic Affairs. On the day Taipower’s new logo went online in 2026, a controversy over “political patronage” erupted, to which he responded with a five-point statement. The line he has repeatedly emphasized, “before he was designer Aaron Nieh, he was citizen Aaron Nieh,” has, from 2014 to the present, been reread again and again from different positions.

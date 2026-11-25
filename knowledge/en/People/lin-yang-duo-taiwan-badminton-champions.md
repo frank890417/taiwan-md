@@ -1,22 +1,31 @@
 ---
-title: 'Wang Chi-lin and Lee Yang (The Lin-Yang Duo)'
-description: "From middle school classmates to Olympic gold: The Lin-Yang Duo defeated China in straight sets within 34 minutes, winning Taiwan's first-ever Olympic gold medal in badminton"
+title: 'Chou Chia-chi and Lee Yang (Lin-Yang Duo)'
+description: "A Taiwanese men's badminton doubles pair consisting of former junior high school classmates Wang Chi-lin and Lee Yang. From being schoolmates to becoming world champions, they have honed their skills for twenty years. On July 31, 2021, in the Tokyo Olympics final, they defeated the Chinese duo Li Junhui and Liu Yuchen in just 34 minutes with scores of 21-18 and 21-12, winning Taiwan's first-ever Olympic gold medal in badminton, sparking cheers from all 23 million people in Taiwan. At the 2024 Paris Olympics, the duo, now both 29 years old, won gold again, becoming the first pair in Taiwanese badminton history to successfully defend an Olympic title."
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '體育'
 tags:
-  ['運動員', '王齊麟', '李洋', '麟洋配', '羽球', '東京奧運', '巴黎奧運', '金牌']
-readingTime: 12
-lastVerified: 2026-09-05
-lastHumanReview: true
+  [
+    'Athletes',
+    'Wang Chi-lin',
+    'Lee Yang',
+    'Lin-Yang Duo',
+    'Badminton',
+    'Tokyo Olympics',
+    'Paris Olympics',
+    'Gold Medal',
+  ]
+subcategory: '體育'
+author: 'Taiwan.md'
 featured: true
-translatedFrom: People/麟洋配.md
-sourceCommitSha: c32d210ff
-sourceContentHash: sha256:940cd3ea72960eac
-sourceBodyHash: sha256:4c0e104cb6fe8601
-translatedAt: 2026-05-20T05:08:27+08:00
+lastVerified: 2026-05-19
+lastHumanReview: true
 difficulty: 'beginner'
+readingTime: 12
+translatedFrom: 'People/麟洋配.md'
+sourceCommitSha: '00dc1f6e04'
+sourceContentHash: 'sha256:940cd3ea72960eac'
+sourceBodyHash: 'sha256:4c0e104cb6fe8601'
+translatedAt: '2026-11-25T05:21:15.973943+00:00'
 ---
 
 # Wang Chi-lin and Lee Yang (The Lin-Yang Duo)

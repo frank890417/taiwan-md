@@ -1,12 +1,12 @@
 ---
-title: 'Joeman: From Esports Analyst to Million-Subscriber Creator, A Long-Term Figure in the Lens'
-description: 'From esports analyst and MSI product manager to a channel built on unboxings, comparisons, travel, and team-produced shows; Joeman’s path also documents how Taiwanese YouTubers navigate traffic, division of labor, trust, and public responsibility.'
+title: 'Joeman: From Esports Commentator to Million-Subscriber Channel, a Long-Term Creator Behind the Lens'
+description: 'Born Weng Jun-ming, he worked as a product manager at MSI by day and an esports commentator on weekends. An unexpectedly viral 3C unboxing video led him to YouTube, where he surpassed one million subscribers in 2018. His series "Joe''s Showdown" became a signature format with high-end vs. budget comparisons, expanding into travel, real estate, and team productions. In 2024, he won the Golden Bell Award for Annual Individual Creator. After a 2023 marijuana incident, he publicly apologized and received a deferred prosecution, voluntarily completing community service through anti-drug and anti-fraud public service videos, documenting how a Taiwanese creator navigates long-term adjustments among traffic, trust, and public responsibility.'
 date: 2026-08-16
 category: 'People'
 tags:
   [
     'Joeman',
-    'Weng Chün-ming',
+    'Weng Jun-ming',
     'YouTuber',
     'Esports',
     '3C',
@@ -26,10 +26,10 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Joeman-0617.jpg'
 readingTime: 10
 curation: 'incubating'
 translatedFrom: 'People/Joeman.md'
-sourceCommitSha: '67c4c72fc'
+sourceCommitSha: '1b9d5dfea6'
 sourceContentHash: 'sha256:19eba63c27c61c88'
 sourceBodyHash: 'sha256:18e7518b3acc71b4'
-translatedAt: '2026-11-06T19:34:12.397462+00:00'
+translatedAt: '2026-11-25T05:07:01.776837+00:00'
 ---
 
 # Joeman: From Esports Analyst to Million-Subscriber Creator, A Long-Term Figure in the Lens

@@ -1,6 +1,6 @@
 ---
-title: 'Chi-Huey Wong'
-description: 'World authority in glycoscience, 2014 Wolf Prize in Chemistry recipient, former president of Academia Sinica who was close to the Nobel Prize before the OBI Pharma controversy'
+title: 'Carolyn W. Bertozzi'
+description: "A world authority in the field of glycochemistry, born in Tainan in 1948. After graduating from the Department of Chemistry at National Taiwan University, she moved to the United States to obtain a PhD in organic chemistry from MIT and later settled at the Scripps Research Institute. In 2014, she won the Wolf Prize in Chemistry, often regarded as a 'Nobel precursor,' which led Nobel committee members to prepare to fly to Taiwan to meet him; in 2016, he resigned as President of Academia Sinica due to the Hao Ding case, and was found not guilty in the first instance in 2019. He remarked, 'I was the one who pushed for the Biotech Act, yet I became its first victim.'"
 date: 2026-03-31
 category: 'People'
 tags:
@@ -8,9 +8,9 @@ tags:
     'Scholar',
     'Chemistry',
     'Academia Sinica',
-    'Glycoscience',
-    'OBI Pharma Controversy',
-    'Nobel Prize',
+    'Glycochemistry',
+    'Hao Ding Case',
+    'Nobel',
     'Wolf Prize',
   ]
 subcategory: '科學與學術'
@@ -21,10 +21,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/翁啟惠.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '00dc1f6e04'
 sourceContentHash: 'sha256:984fef279b1af05b'
 sourceBodyHash: 'sha256:8e4d8fb8704570d2'
-translatedAt: '2026-09-28T02:52:33+08:00'
+translatedAt: '2026-11-25T04:21:09.894924+00:00'
 ---
 
 # Chi-Huey Wong

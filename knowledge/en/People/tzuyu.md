@@ -1,17 +1,17 @@
 ---
-title: 'Tzuyu Chou'
-description: 'A girl from Tainan who never spoke of politics, whose fate was turned by an 8-second flag incident. Ten years later, in Kaohsiung, she read a handwritten letter: "I didn''t leave because I was obedient; I left because I truly desired it."'
+title: 'Tzuyu'
+description: 'At age 13, she left home for South Korea to become a trainee. She debuted with TWICE in 2015, and 47 days later held a Republic of China flag; an eight-second clip was screenshotted, leading two months later to a 90-second apology video. The video was released on the eve of Taiwan''s presidential election, and the South China Morning Post cited polls estimating it influenced 1.34 million young voters. For the next ten years she never spoke a word about those 90 seconds, simply continuing to dance and release albums; in 2019 she was voted the world''s most beautiful face. In November 2025, she returned to Kaohsiung for the first time and read a handwritten letter to 55,000 people: "I didn''t leave because I was obedient, but because I truly longed to be here."'
 date: 2026-04-14
 category: 'People'
 tags:
   [
-    'Tzuyu Chou',
+    'Tzuyu',
     'TWICE',
     'South Korea',
-    'K-POP',
-    'Flag Incident',
-    'Taiwan Identity',
-    'Pop Music',
+    'K-pop',
+    'Flag incident',
+    'Taiwanese identity',
+    'Pop music',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
@@ -24,10 +24,10 @@ evolveHistory:
     action: 'fix'
     reason: 'description 寫「十年後她在大巨蛋念出親筆信」，內文記載手寫信是 2025 年 11 月 22 日在高雄世運主場館念的（大巨蛋是 2026 年 3 月的三場），地點改回高雄。其餘不動'
 translatedFrom: 'People/周子瑜.md'
-sourceCommitSha: '0a6f7f6671'
+sourceCommitSha: '1a696c19ef'
 sourceContentHash: 'sha256:08c9b5bb374704b8'
 sourceBodyHash: 'sha256:4b373fac57d731f0'
-translatedAt: '2026-11-20T03:56:56+08:00'
+translatedAt: '2026-11-25T04:31:36.322120+00:00'
 ---
 
 > **30-Second Overview:** Tzuyu Chou (周子瑜), born in Tainan in 1999, left home at age 13 to become a JYP trainee. Forty-seven days after her debut, she held up a Republic of China flag on a Korean variety show; those 8 seconds of footage were screenshotted by Chinese netizens. Two months later, a 90-second apology video was released on the eve of Taiwan's presidential election. Scholars estimate this video influenced the decisions of 1.34 million young voters[^8]. Since then, she has not uttered a single word regarding those 90 seconds; she simply continued dancing, releasing albums, and serving as a lead dancer and the _maknae_ (youngest member) of TWICE. Ten years later, she finally returned to Kaohsiung, reading a handwritten letter to 55,000 people: "I didn't leave because I was obedient or submissive, but because I truly wanted it and desired it." The entire audience wept with her.

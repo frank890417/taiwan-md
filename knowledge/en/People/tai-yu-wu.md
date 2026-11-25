@@ -1,19 +1,19 @@
 ---
-title: "Wu Ta-you: The Academia Sinica President Who Recommended Yang and Lee to the US, and His Eleven Years Laying Taiwan's Scientific Foundations"
-description: "Theoretical physicist and president of Academia Sinica; mentor to Nobel laureates Yang Chen-ning and Lee Tsung-dao; the foundational figure who built Taiwan's scientific enterprise"
+title: "Wu Ta-You: The Academia Sinica President Who Recommended Yang Chen-Ning and Lee Tsung-Dao to Study in the US, Eleven Years Laying the Foundation of Taiwan's Scientific Research"
+description: "A physicist who built his career on molecular spectroscopy and quantum mechanics theoretical research, he taught at the University of Michigan for over a decade. In 1946, he personally recommended Yang Chen-Ning and Lee Tsung-Dao to pursue advanced studies in the US; eleven years later, the two jointly won the Nobel Prize in Physics. Starting in 1983, he served as president of Academia Sinica for eleven years; during an era when Taiwan was rushing to develop its economy, he insisted that basic research was irreplaceable, pushed for a more rigorous research evaluation system, and brought in overseas talent, laying the institutional foundation for Taiwan's scientific research system."
 date: 2026-03-19
-tags: ['people', 'scientists', 'physics', 'education', 'Academia Sinica']
+category: 'People'
+tags: ['Figures', 'Scientists', 'Physics', 'Education', 'Academia Sinica']
 subcategory: '科學與學術'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-16
 lastHumanReview: true
-featured: true
 translatedFrom: 'People/吳大猷.md'
-sourceCommitSha: '85926aa3b'
+sourceCommitSha: '45b1bf37e0'
 sourceContentHash: 'sha256:ea84edf10c10d1a4'
 sourceBodyHash: 'sha256:54cafe2c5032e30e'
-translatedAt: '2026-05-16T21:50:00Z'
-category: People
-author: 'Taiwan.md'
+translatedAt: '2026-11-25T04:23:41.078062+00:00'
 ---
 
 > **30-second overview:** Wu Ta-you (1907–2000), theoretical physicist. In 1946, he personally recommended Yang Chen-ning and Lee Tsung-dao to study in the United States; eleven years later, the two jointly received the Nobel Prize in Physics. From 1983, he served as president of Academia Sinica for eleven years, insisting on basic science during an era when Taiwan was focused on economic growth, and laying the institutional foundation for Taiwan's scientific research system.

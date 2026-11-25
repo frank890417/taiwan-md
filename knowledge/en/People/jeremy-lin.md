@@ -1,29 +1,29 @@
 ---
-title: 'Jeremy Lin: From Being Cut Twice in 15 Days to TPBL Double MVP — A Basketball Journey'
-description: "State champion in high school with zero scholarship offers, undrafted, cut twice in 15 days — then he made the world know 'Linsanity'"
+title: 'Jeremy Lin: A Basketball Journey from Being Cut Twice in 15 Days to Retiring as a TPBL Dual MVP'
+description: 'Taiwanese-American basketball player, born in California in 1988, and a ninth-generation descendant of Taiwanese immigrants. Despite leading his high school team to a California state championship, he received no scholarship offers from any NCAA Division I schools. After going undrafted, he was waived by two NBA teams within just 15 days. In February 2012, coming off the bench, he averaged 24.4 points over seven consecutive games, igniting the "Linsanity" phenomenon. In 2019, he won an NBA championship with the Toronto Raptors, becoming the first Asian-American player to win an NBA title. He retired in 2025 in Taiwan as both the Season MVP and Finals MVP.'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '體育'
 tags:
   [
-    '人物',
-    '籃球',
-    '台裔美國人',
+    'People',
+    'Basketball',
+    'Taiwanese American',
     'NBA',
-    '林來瘋',
-    '哈佛大學',
+    'Linsanity',
+    'Harvard University',
     'P.League+',
     'TPBL',
   ]
+subcategory: '體育'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-16
 lastHumanReview: true
-featured: true
 translatedFrom: 'People/林書豪.md'
-sourceCommitSha: '85926aa3b'
+sourceCommitSha: '00dc1f6e04'
 sourceContentHash: 'sha256:5bcf40616e842909'
 sourceBodyHash: 'sha256:15c8e50bb3ba07a7'
-translatedAt: '2026-05-22T05:08:46+08:00'
+translatedAt: '2026-11-25T04:19:24.482185+00:00'
 ---
 
 > **30-Second Overview:** Jeremy Lin, born in 1988 in California, is a ninth-generation descendant of Taiwanese immigrants. In high school, he led his team to a California state championship, yet received zero NCAA Division I scholarship offers. He attended Harvard, went undrafted, and was cut by two NBA teams within 15 days. In February 2012, coming off the bench, he averaged 24.4 points over seven straight games, igniting the "Linsanity" phenomenon.[^1] In 2019, he won an NBA championship ring with the Toronto Raptors, becoming the first Asian American player to earn an NBA title.[^2] In 2025, he retired in Taiwan as both Season MVP and Finals MVP, completing a full arc from the United States to Taiwan.[^3]
