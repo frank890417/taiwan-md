@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-25T19:48:24+08:00",
-    "zhCommitHead": "667aadd58e",
+    "lastUpdated": "2026-11-25T21:34:05+08:00",
+    "zhCommitHead": "c4a24ca4c2",
     "totalZh": 1194,
     "activeLanguages": [
       "en",
@@ -28,9 +28,9 @@
       },
       "ja": {
         "total_zh": 1194,
-        "fresh": 1186,
+        "fresh": 1187,
         "stale": 4,
-        "metadata_stale": 4,
+        "metadata_stale": 3,
         "missing": 0,
         "orphan": 0
       },
@@ -68,8 +68,8 @@
       },
       "id": {
         "total_zh": 1194,
-        "fresh": 1183,
-        "stale": 6,
+        "fresh": 1184,
+        "stale": 5,
         "metadata_stale": 5,
         "missing": 0,
         "orphan": 0
@@ -84,9 +84,9 @@
       },
       "hi": {
         "total_zh": 1194,
-        "fresh": 1179,
+        "fresh": 1180,
         "stale": 11,
-        "metadata_stale": 4,
+        "metadata_stale": 3,
         "missing": 0,
         "orphan": 0
       },
@@ -108,9 +108,9 @@
       },
       "de": {
         "total_zh": 1194,
-        "fresh": 1147,
+        "fresh": 1148,
         "stale": 26,
-        "metadata_stale": 21,
+        "metadata_stale": 20,
         "missing": 0,
         "orphan": 0
       }
@@ -104948,20 +104948,18 @@
         "id": {
           "path": "id/People/three-degrees-c-youtuber.md",
           "translatedFrom": "People/3度C.md",
-          "sourceCommitSha": "e64a7fba4",
-          "sourceContentHash": "sha256:71bd23c9a7becdb3",
-          "sourceBodyHash": "sha256:ac800d2068dd019e",
-          "translatedAt": "2026-09-13T17:51:58+08:00",
+          "sourceCommitSha": "45b1bf37e0",
+          "sourceContentHash": "sha256:512116c709aae71c",
+          "sourceBodyHash": "sha256:41b6c45553399776",
+          "translatedAt": "2026-11-25T16:46:36+08:00",
           "translationLastCommit": "f4892bab",
           "translationLastModified": "2026-09-19T11:51:58+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "bytes": 16036,
+          "bytes": 16492,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+10 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/three-degrees-c-youtuber.md",
@@ -110538,20 +110536,18 @@
         "ja": {
           "path": "ja/People/cicada-band.md",
           "translatedFrom": "People/Cicada.md",
-          "sourceCommitSha": "21298a7a",
+          "sourceCommitSha": "30ab24424f",
           "sourceContentHash": "sha256:3d1c97835c5d9ea3",
           "sourceBodyHash": "sha256:5091127dea208f82",
-          "translatedAt": "2026-06-22T00:40:58+08:00",
+          "translatedAt": "2026-11-25T16:46:30+08:00",
           "translationLastCommit": "ff0a8ac7",
           "translationLastModified": "2026-10-10T23:06:07+08:00",
           "inferred": false,
           "footnoteDefs": 27,
-          "bytes": 58981,
+          "bytes": 55536,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/cicada-band.md",
@@ -115640,8 +115636,8 @@
           "sourceContentHash": "sha256:99a2042c4d3706c4",
           "sourceBodyHash": "sha256:d349dadeacba1186",
           "translatedAt": "2026-11-25T16:46:32+08:00",
-          "translationLastCommit": "16606d27",
-          "translationLastModified": "2026-11-02T10:05:51+08:00",
+          "translationLastCommit": "564869d1",
+          "translationLastModified": "2026-11-25T19:48:25+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "bytes": 16958,
@@ -147684,20 +147680,18 @@
         "hi": {
           "path": "hi/People/kuo-cheng-kuang.md",
           "translatedFrom": "People/郭正光.md",
-          "sourceCommitSha": "22286539e",
+          "sourceCommitSha": "1a696c19ef",
           "sourceContentHash": "sha256:e00af3b07adcb778",
           "sourceBodyHash": "sha256:beb2338ff10788ce",
-          "translatedAt": "2026-11-04T22:13:22.733024+00:00",
+          "translatedAt": "2026-11-25T11:49:19.451345+00:00",
           "translationLastCommit": "aee3713f",
           "translationLastModified": "2026-11-05T07:21:49+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "bytes": 20751,
+          "bytes": 22289,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/kuo-cheng-kuang.md",
@@ -156860,20 +156854,18 @@
         "de": {
           "path": "de/People/lee-yang-badminton.md",
           "translatedFrom": "People/李洋.md",
-          "sourceCommitSha": "fef3e1199",
-          "sourceContentHash": "sha256:d21eaa1c32fc46c9",
+          "sourceCommitSha": "1a696c19ef",
+          "sourceContentHash": "sha256:96f1d5630278a964",
           "sourceBodyHash": "sha256:57937e9b25b2f462",
-          "translatedAt": "2026-09-25T12:24:05.485178+00:00",
+          "translatedAt": "2026-11-25T13:04:26.116971+00:00",
           "translationLastCommit": "290a0259",
           "translationLastModified": "2026-10-10T22:57:31+08:00",
           "inferred": false,
           "footnoteDefs": 30,
-          "bytes": 54385,
+          "bytes": 54774,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
