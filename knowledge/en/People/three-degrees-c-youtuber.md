@@ -1,6 +1,6 @@
 ---
-title: '3 Degrees C: Cutting the Cold Shower Experience into a Million-Subscriber Path'
-description: 'The story of Hsieh Meng-hang, from a cosmetology student to a million-subscriber YouTuber, who merges memes, challenges, and video production into a single creative practice.'
+title: '3°C: Turning the Three Degrees of a Cold Shower into a Million-Subscriber Path'
+description: 'A full-time content creator who journeyed from being a hairdressing student to gaining millions of subscribers. His online handle comes from taking cold showers in 3°C winter temperatures. He edits laughter, dance, memes, and challenges into entertaining content—first capturing audiences with a unique name, then turning that attention into a sustainable career through planning, filming, and editing. Later, he expanded his role into music video production as a director, cinematographer, and editor, transforming a private joke into a public persona, and eventually deconstructing that public persona back into the core elements of planning, filming, and collaboration.'
 date: 2026-08-20
 category: 'People'
 tags: ['Culture', 'YouTuber', 'Internet Culture', 'Memes', 'Video Production']
@@ -11,21 +11,21 @@ lastVerified: 2026-08-20
 lastHumanReview: false
 curation: 'incubating'
 translatedFrom: 'People/3度C.md'
-sourceCommitSha: 'e64a7fba4'
-sourceContentHash: 'sha256:71bd23c9a7becdb3'
-sourceBodyHash: 'sha256:ac800d2068dd019e'
-translatedAt: '2026-09-11T04:36:48+08:00'
+sourceCommitSha: '45b1bf37e0'
+sourceContentHash: 'sha256:512116c709aae71c'
+sourceBodyHash: 'sha256:41b6c45553399776'
+translatedAt: '2026-11-25T04:08:23.506866+00:00'
 ---
 
-> **30-Second Overview:** 3 Degrees C is Hsieh Meng-hang’s YouTube creative brand. The name does not come from 3C products; rather, it stems from his time studying in mainland China, where he took cold showers in 3°C winter weather, leading friends to call him "3 Degrees." He edits together laughter, dance, memes, challenges, and true stories into entertainment content, and later participated in music video production as a director, cinematographer, and editor. The counter-intuitive aspect of 3 Degrees C is that while he appears to rely on absurd content to make people laugh, what he has truly accumulated is a creative methodology that organizes one person’s physical performance, editing rhythm, and image production workflow into a sustainable long-term practice.
+> **30-second Overview:** 3 Degrees C is the YouTube creator brand of Hsieh Meng-hang. The name does not come from "3C" products; rather, it stems from his time studying in mainland China, where he once took a cold shower in 3°C weather, leading his friends to call him "3 Degrees." He edits laughter challenges, dancing, memes, challenges, and real-life stories into entertainment content, and later participated in music video production as a director, cinematographer, and editor. The counterintuitive aspect of 3 Degrees C is that while he seems to rely on nonsensical content to make people laugh, what he has truly accumulated is a sustainable creative methodology that organizes physical performance, editing rhythm, and visual work into a long-term business.
 
-In a 2022 interview, Hsieh Meng-hang said that when many people asked where the name "3 Degrees" came from, his answer was taking cold showers in 3°C low temperatures while studying in mainland China. [^1] This is a small, even slightly absurd life snippet, yet it became the name by which he was recognized online. A November 2025 profile from 1111 Human Resources Bank completed the picture of his path: he went from a cosmetology student to a full-time audio-visual creator, and at the time of the interview, he had accumulated seven years of creative experience, with channel subscribers exceeding 1.39 million. [^2]
+In a 2022 interview, Hsieh Meng-hang said that when many people ask where "3 Degrees" came from, his answer is that he took a cold shower in 3°C temperatures while studying in mainland China. [^1] It was a small, even somewhat absurd slice of life, yet it became the name by which he is recognized online. A 2025 profile by 1111 Human Resources Bank further completes his trajectory: he transitioned from a cosmetology student to a full-time video creator, having accumulated seven years of creative experience at the time of the interview, with over 1.39 million channel subscribers. [^2]
 
-This path is most easily misread as "one person filming funny videos, who later became famous." A more accurate description is that 3 Degrees C places a memorable character into a set of constantly changing video formats. The content on Ming Pao, including laugh-holding, dancing, and memes, does not look like the same program schedule; instead, it resembles a creator testing how far the audience is willing to follow him. [^1] The topics change, but the audience still recognizes the same person.
+This path is most easily misread as "one person filming funny videos and then becoming famous." A more accurate description is that 3 Degrees C places a highly memorable persona into a visual format with constantly changing themes. The content reported by _Ming Pao_—such as laughter challenges, dancing, and memes—does not look like a single consistent program schedule; instead, it looks like a creator testing how far the audience is willing to follow him. [^1] While the topics change, the person the audience recognizes remains the same.
 
-![Taipei night view, serving as a scene image for Taiwan’s internet culture and urban viewing experience](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%2720210501_Taipei_Night_Skyline.jpg/1280px-%2720210501_Taipei_Night_Skyline.jpg)
+![Taipei night view, serving as a scene depicting Taiwan's internet culture and urban viewing experience](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%2720210501_Taipei_Night_Skyline.jpg/1280px-%2720210501_Taipei_Night_Skyline.jpg)
 
-_Image caption: Taipei night view. This image is not a portrait of 3 Degrees C, but is used to indicate the city and internet culture scene where Taiwan’s digital creators operate. The image author is Mao Mao Da Shao Ye (毛貓大少爺), sourced from the [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:%2720210501_Taipei_Night_Skyline.jpg), licensed under CC BY-SA 2.0. Embedded using Wikimedia Commons hotlink; the image was not downloaded or rehosted._
+_Image caption: Taipei night view. This image is not a portrait of 3 Degrees C, but is used to indicate the urban and internet culture landscape in which Taiwanese digital creators exist. Image by Mao Mao Da Shao Ye, sourced from [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:%2720210501_Taipei_Night_Skyline.jpg), licensed under CC BY-SA 2.0. Embedded using Wikimedia Commons hotlinking; image not downloaded or rehosted._
 
 ## The Name Precedes the Persona
 
@@ -91,22 +91,22 @@ Thus, 3 Degrees C is not just the owner of the name "3 Degrees." He is more like
 
 ## References
 
-[^1]: [2021 Top 100 Internet Celebrities 3 Degrees: Loves Growing with Work and Fans | Ming Pao Breaking News](https://mol.mcu.edu.tw/2021%E7%99%BE%E5%A4%A7%E7%B6%B2%E7%B4%85%E4%B8%89%E5%BA%A6%E3%80%80%E7%86%B1%E6%84%9B%E5%B7%A5%E4%BD%9C%E5%92%8C%E7%B2%89%E7%B5%B2%E4%B8%80%E8%B5%B7%E6%88%90%E9%95%B7/) — See original link for supplementary content data
+### Image Licensing
 
-[^2]: [From Cosmetology Apprentice to Million-Subscriber YouTuber! 3 Degrees C’s Full-Time Creation Path 《KOL Economics》 | 1111 Human Resources Bank](https://www.1111.com.tw/news/jobns/159537) — See original link for supplementary content data
+The image uses [File:'20210501 Taipei Night Skyline.jpg](https://commons.wikimedia.org/wiki/File:%2720210501_Taipei_Night_Skyline.jpg) from Wikimedia Commons, authored by 毛貓大少爺 (Mao Mao Da Shao Ye), licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). The image is embedded via a hotlink from Wikimedia Commons; it has not been downloaded, modified, or stored in the Taiwan.md `public/article-images/` directory.
 
-[^3]: [80,000 NT$ Trendy Brand vs. 1,500 NT$ Outfit for Girls to Choose: Experimental Results Cause Internet Celebrity to Break Down: "Appearance" Issues | EBC Entertainment](https://ent.ebc.net.tw/buzz/122430) — See original link for supplementary content data
+[^1]: [2021 Top 100 Influencers Three Times: Loving Work and Growing with Fans | Mingpao Breaking News](https://mol.mcu.edu.tw/2021%E7%99%BE%E5%A4%A7%E7%B6%B2%E7%B4%85%E4%B8%89%E5%BA%A6%E3%80%80%E7%86%B1%E6%84%9B%E5%B7%A5%E4%BD%9C%E5%92%8C%E7%B2%89%E7%B5%B2%E4%B8%80%E8%B5%B7%E6%88%90%E9%95%B7/) — See original link for supplementary information
 
-[^4]: [80,000 NT$ Trendy Brand vs. 1,500 NT$ Outfit for Girls to Choose: Experimental Results Cause Internet Celebrity to Break Down: "Appearance" Issues | Yahoo News Repost](https://tw.news.yahoo.com/8%E8%90%AC%E6%BD%AE%E7%89%8Cvs-1500%E5%85%83%E7%A9%BF%E6%90%AD%E7%B5%A6%E5%A5%B3%E7%94%9F%E9%81%B8-%E5%AF%A6%E6%B8%AC%E7%B5%90%E6%9E%9C%E7%B6%B2%E7%B4%85%E5%B4%A9%E6%BD%B0-%E9%95%B7%E7%9B%B8-%E5%95%8F%E9%A1%8C-095458302.html) — Yahoo News report
+[^2]: [From Hairdressing Apprentice to Million-Subscriber YouTuber! The Full-time Creative Journey of a Three-time C Winner | 1111 Job Bank](https://www.1111.com.tw/news/jobns/159537) — See original link for supplementary information
 
-[^5]: [Ji Xin-Qiao (Qiao Qiao Er QQE) "Meteor Crossing" | Brook Image Culture Co., Ltd.](https://m9535453m.com/631/) — See original link for supplementary content data
+[^3]: [NT$80,000 Streetwear vs. NT$1,500 Outfit Selection for Women: Influencer Breaks Down After Test Results: "It's a 'looks' issue" | EBC Entertainment](https://ent.ebc.net.tw/buzz/122430) — See original link for supplementary information
 
-[^6]: [Hui Chun Dan "Fresh Flowers" | Fake Music Video MV | Brook Image Culture Co., Ltd.](https://m9535453m.com/626/) — See original link for supplementary content data
+[^4]: [NT$80,000 Streetwear vs. NT$1,500 Outfit Selection for Women: Influencer Breaks Down After Test Results: "It's a 'looks' issue" | Yahoo News Reprint](https://tw.news.yahoo.com/8%E8%90%AC%E6%BD%AE%E7%89%8Cvs-1500%E5%85%83%E7%A9%BF%E6%90%AD%E7%B5%A6%E5%A5%B3%E7%94%9F%E9%81%B8-%E5%AF%A6%E6%B8%AC%E7%B5%90%E6%9E%9C%E7%B6%B2%E7%B4%85%E5%B4%A9%E6%BD%B0-%E9%95%B7%E7%9B%B8-%E5%95%8F%E9%A1%8C-095458302.html) — Yahoo News report
 
-[^7]: [Classic 90 Yingge Old Street Photography Night | Event Record | Brook Image Culture Co., Ltd.](https://m9535453m.com/643/) — See original link for supplementary content data
+[^5]: [Ji Xinqiao (JoJo Er QQE) <Meteor Passing By> | Brooke Image Culture Co., Ltd.](https://m9535453m.com/631/) — See original link for supplementary information
 
-[^8]: [Racing Pigeon Tycoon | Brand Image Video | Brook Image Culture Co., Ltd.](https://m9535453m.com/649/) — See original link for supplementary content data
+[^6]: [Return to Spring <Fresh Flowers> | Pseudo Music Video MV | Brooke Image Culture Co., Ltd.](https://m9535453m.com/626/) — See original link for supplementary information
 
-### Image License
+[^7]: [Classic 90 Yingge Old Street Photography Night | Event Record | Brooke Image Culture Co., Ltd.](https://m9535453m.com/643/) — See original link for supplementary information
 
-The image uses Wikimedia Commons’ [File:'20210501 Taipei Night Skyline.jpg](https://commons.wikimedia.org/wiki/File:%2720210501_Taipei_Night_Skyline.jpg), author Mao Mao Da Shao Ye (毛貓大少爺), licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). The image is embedded using Wikimedia Commons’ hotlink; it was not downloaded, not modified, and not stored in Taiwan.md’s `public/article-images/`.
+[^8]: [Racing Pigeon Tycoon | Brand Image Video | Brooke Image Culture Co., Ltd.](https://m9535453m.com/649/) — See original link for supplementary information

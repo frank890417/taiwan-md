@@ -1,11 +1,11 @@
 ---
-title: 'Lin Bai-li: Born in Shanghai 1949, Quanta Computer Founder and Notebook OEM King Who Battled Cancer for 20 Years'
-description: "Born in Shanghai on April 24, 1949. Founded Quanta Computer with C.C. Leung and others in 1988. Diagnosed with lung adenocarcinoma in 2005 (has been battling cancer for over 20 years). Quanta's 2025 revenue exceeded NT$2 trillion; key NVIDIA server partner; Fortune 500 company. Succession question regarding his son draws attention. Still serving as chairman in 2026."
+title: 'Lin Bai-li: Shanghai 1949, Founder of Quanta Computer and the Notebook ODM King Who Battled Cancer for Twenty Years'
+description: "Born in Shanghai in 1949 and educated in Taiwan, the notebook ODM king co-founded Quanta Computer with C.C. Leung and others in 1988, shifting from motherboards to notebook ODM and becoming the world's largest notebook manufacturer through design integration capabilities. After being diagnosed with lung adenocarcinoma in 2005, he led the company while battling illness for over 20 years, creating a public record of willpower. In 2025, Quanta's revenue exceeded NT$2 trillion, entering the Fortune 500, and became a key AI server partner for NVIDIA. As of 2026, he remains chairman, with succession issues continuing to attract outside attention."
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Technology & Business',
+    'Technology and Business',
     'Quanta Computer',
     'ODM Manufacturing',
     'Artificial Intelligence',
@@ -20,10 +20,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/林百里.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '1b9d5dfea6'
 sourceContentHash: 'sha256:4e6831b8d5040b1f'
 sourceBodyHash: 'sha256:98f02f5d889ec6c6'
-translatedAt: '2026-11-04T21:08:20.700062+00:00'
+translatedAt: '2026-11-25T03:30:50.827880+00:00'
 ---
 
 # Lin Bai-li: Shanghai 1949, Founder of Quanta Computer and the Notebook ODM King Who Has Fought Cancer for Two Decades

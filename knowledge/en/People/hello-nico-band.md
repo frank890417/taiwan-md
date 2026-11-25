@@ -1,34 +1,34 @@
 ---
-title: "Hello Nico: Eight Years of Silence, Then 'I Missed the Stage'"
-description: "A Taiwanese indie band that won the StreetVoice annual chart with 'Flower' in 2014 and received a Golden Melody Award nomination in 2016 — then went quiet for eight years. Chan Yu-ting said: 'The hardest thing about making music is fighting with yourself.' In 2024, they came back with Plan B."
+title: 'Hello Nico: After Eight Years of Silence, "Missed the Stage"'
+description: 'Formed in Taipei in 2013, the four-piece indie band won the StreetVoice Annual Championship in 2014 with "Flower", accumulating over 120,000 plays. Their 2015 debut album "Familiar Desolation" was nominated for Best New Artist at the 27th Golden Melody Awards, and they performed at SXSW in 2017. Known for their "repressed and self-drowning" Dream Pop vocals, the band fell silent for about eight years after 2016. Vocalist Zhan Yu-ting admitted to creative fatigue and self-doubt about his own voice, and rebuilt a healthy relationship with singing through self-encouragement. In September 2024, they returned with the EP "Plan B: If We Return, Let''s Watch the Sea Together".'
 date: 2026-04-20
+category: 'People'
 tags:
   [
     'Hello Nico',
-    'Chan Yu-ting',
+    'Zhan Yu-ting',
     'Li Yong-en',
-    'indie music',
-    'band',
-    'indie rock',
+    'Indie Music',
+    'Band',
+    'Indie Rock',
     'Dream Pop',
     'Golden Melody Awards',
-    'Taiwan music',
+    'Taiwanese Music',
   ]
-category: People
-subcategory: 音樂與表演
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
-readingTime: 8
 lastVerified: 2026-04-20
 lastHumanReview: false
-researchReport: reports/research/2026-04/Hello-Nico.md
+researchReport: 'reports/research/2026-04/Hello-Nico.md'
+readingTime: 8
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/Hello-Nico.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '1b9d5dfea6'
 sourceContentHash: 'sha256:ac6c714f4ff5fb1b'
 sourceBodyHash: 'sha256:bab18d5114976850'
-translatedAt: '2026-05-01T12:21:52+08:00'
+translatedAt: '2026-11-25T03:23:58.651059+00:00'
 ---
 
 > **30-Second Overview:** Hello Nico is a Taiwanese indie band formed in Taipei in 2013. Members: vocalist Chan Yu-ting, guitarist Li Yong-en, bassist Chen Hsin-po, and drummer Guan Hui-chung. Their song "Flower" won StreetVoice's annual chart in 2014; their debut full-length album _Familiar Desolation_ was nominated for Best New Artist at the 27th Golden Melody Awards in 2016. Known for their "suppressed, self-absorbed" Dream Pop / Indie Rock sound — Chan Yu-ting's voice is the core identifier. After going largely quiet from 2016, they returned in September 2024 with EP _Plan B: If We Come Back, Let's Watch the Sea Together_.

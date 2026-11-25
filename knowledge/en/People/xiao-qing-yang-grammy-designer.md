@@ -1,15 +1,15 @@
 ---
 title: 'Hsiao Ching-yang'
-description: 'Grammy winner for Best Recording Package; a representative figure of Taiwanese design on the world stage who achieved victory through a father-daughter collaboration.'
+description: 'Taiwanese visual designer, born in Xindian in 1966, graduated from Fusing Vocational High School. In 2005, he received his first Grammy nomination for album packaging design, becoming the first Taiwanese designer nominated for the award. He has since accumulated seven nominations. In 2023, he and his daughter Hsiao Ching-tien won the 65th Grammy Award for Best Recording Package for the soundtrack album "Danlan Old Trail Trilogy", finally winning after an 18-year wait, making Taiwanese designers winners for two consecutive years. His work draws inspiration from temples, traditional crafts, and island nature, adhering to the design philosophy of "roots in Taiwan, blooming worldwide."'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Designer',
-    'Grammy Awards',
+    'Grammy Award',
     'Album Packaging',
     'Visual Design',
-    'Taiwan Culture',
+    'Taiwanese Culture',
   ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
@@ -19,10 +19,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/蕭青陽.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '20dcddf339'
 sourceContentHash: 'sha256:2c73351691aac54a'
 sourceBodyHash: 'sha256:4e85011d7634bdc0'
-translatedAt: '2026-10-21T20:47:10+08:00'
+translatedAt: '2026-11-25T03:33:20.526727+00:00'
 ---
 
 # Hsiao Ching-yang: Bringing Taiwanese Design to the World Stage

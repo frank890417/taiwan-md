@@ -1,18 +1,18 @@
 ---
-title: 'Lü Jie: From an Avoided Question on the February 28 Incident to Twenty-Eight Lessons on Taiwan History'
-description: 'From discussing seafood at a shop to the lecture podium, Lü Jie uses storytelling to drive curriculum reform, while insisting that students return to historical sources, facts, and perspectives.'
+title: 'Lu Jie: From an Avoided 228 Question to Twenty-Eight Lessons of Taiwan History'
+description: "A famous cram school instructor who originally wanted to study law but ended up in the history department due to a mistake on his university application. He rose to public attention after a teaching video went viral, and he maintains that history is not just about memorization, but about distinguishing between historical sources, facts, and perspectives. In 2026, he will launch a Taiwan history course structured around twenty-eight historical sites, bringing freedom, democracy, culture, identity, and international positioning onto the same map. He says history isn't about teaching you to know history, but about knowing humanity; stories can be engaging, but they must leave behind verifiable evidence."
 date: 2026-08-14
 category: 'People'
-subcategory: '教育與社會'
 tags:
   [
-    'Figures',
-    'Lü Jie',
+    'People',
+    'Lu Jie',
     'History Education',
     'Cram School Culture',
     'Taiwan History',
     'Media',
   ]
+subcategory: '教育與社會'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-14
@@ -20,10 +20,10 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/呂捷.md'
-sourceCommitSha: '4a95859b1'
-sourceContentHash: 'sha256:67c5ad771d308cd6'
+sourceCommitSha: '45b1bf37e0'
+sourceContentHash: 'sha256:8682de0c2d43ca25'
 sourceBodyHash: 'sha256:6ab4993ddc7e3736'
-translatedAt: '2026-09-11T15:57:23+08:00'
+translatedAt: '2026-11-25T03:51:29.340722+00:00'
 ---
 
 # Lü Jie: From an Avoided Question on the February 28 Incident to Twenty-Eight Lessons on Taiwan History
@@ -158,30 +158,30 @@ The question avoided in that high school classroom did not receive a complete an
 
 ## References
 
-[^1]: [Story StoryStudio / Apple Podcasts: 〈Who Says Taiwan History Can Only Be Tragic? First-hand Field Observation of a History Cram School Famous Teacher Roaming the Battlefield for 20 Years ft. Lü Jie〉](https://podcasts.apple.com/tw/podcast/%E8%AA%B0%E8%AA%AA%E8%87%BA%E7%81%A3%E5%8F%B2%E5%8F%AA%E8%83%BD%E6%82%B2%E6%83%85-%E6%AD%B7%E5%8F%B2%E8%A3%9C%E6%95%99%E5%90%8D%E5%B8%AB%E7%B8%B1%E6%A9%AB%E6%B2%99%E5%A0%B4-20-%E5%B9%B4%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%8B%E7%8F%BE%E5%A0%B4%E8%A7%80%E5%AF%9F-ft-%E5%91%82%E6%8D%B7/id1593373742?i=1000778009947) — A July 2026 podcast introduction recording Lü Jie’s memories of the February 28 question in high school and his direction for rethinking Taiwan history teaching methods.
+[^1]: [StoryStudio / Apple Podcasts: <Who Says Taiwan History Can Only Be Tragic? Firsthand Field Observations from a History Cram School Master Who Has Navigated the Battlefield for 20 Years ft. Lü Jie>](https://podcasts.apple.com/tw/podcast/%E8%AA%B0%E8%AA%AA%E8%87%BA%E7%81%A3%E5%8F%B2%E5%8F%AA%E8%83%BD%E6%82%B2%E6%83%85-%E6%AD%B7%E5%8F%B2%E8%A3%9C%E6%95%99%E5%90%8D%E5%B8%AB%E7%B8%B1%E6%A9%AB%E6%B2%99%E5%A0%B4-20-%E5%B9%B4%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%8B%E7%8F%BE%E5%A0%B4%E8%A7%80%E5%AF%9F-ft-%E5%91%82%E6%8D%B7/id1593373742?i=1000778009947) — An introduction to a program released in July 2026, recording Lü Jie's memories of questioning the February 28 Incident in high school and his rethinking of directions for teaching Taiwan history.
 
-[^2]: [Future Parent-Child World: 〈But Human Nature Does Not Change. Famous Teacher Lü Jie: "The Most Important Thing in Learning History Is Not the College Entrance Exam"〉](https://futureparenting.cwgv.com.tw/family/content/index/22429) — Records Lü Jie’s direct narrative on misfilling the history department application, the use of history education, and life turning points, and excerpts content from his works.
+[^2]: [Wei Lai Qin Zi: <But Human Nature Remains Unchanged. Master Teacher Lü Jie: "The Most Important Thing About Learning History Is Not Entrance Exams">](https://futureparenting.cwgv.com.tw/family/content/index/22429) — Contains Lü Jie's direct accounts regarding misapplying his history department preference, the purposes of history education, and life turning points, as well as excerpts from his writings.
 
-[^3]: [Future Parent-Child World: 〈But Human Nature Does Not Change. Famous Teacher Lü Jie: "The Most Important Thing in Learning History Is Not the College Entrance Exam"〉](https://futureparenting.cwgv.com.tw/family/content/index/22429) — The author bio at the end lists educational background in the Department of History and History Master’s Program at Chung Cheng University and hosting experience of _Lü Reads Taiwan_, which can be cross-referenced with his identity as a history educator.
+[^3]: [Wei Lai Qin Zi: <But Human Nature Remains Unchanged. Master Teacher Lü Jie: "The Most Important Thing About Learning History Is Not Entrance Exams">](https://futureparenting.cwgv.com.tw/family/content/index/22429) — The author biography at the end of the article lists his academic background in the Department of History and Graduate Institute of History at Chung Cheng University, as well as his experience hosting 《Lü Reads Taiwan》, which can be used to verify his identity as a history educator.
 
-[^4]: [Future Parent-Child World: 〈But Human Nature Does Not Change. Famous Teacher Lü Jie: "The Most Important Thing in Learning History Is Not the College Entrance Exam"〉](https://futureparenting.cwgv.com.tw/family/content/index/22429) — Directly publishes the original paragraph on "historical sources, facts, and perspectives," suitable for analyzing his views on historical understanding and perspective formation.
+[^4]: [Wei Lai Qin Zi: <But Human Nature Remains Unchanged. Master Teacher Lü Jie: "The Most Important Thing About Learning History Is Not Entrance Exams">](https://futureparenting.cwgv.com.tw/family/content/index/22429) — Directly publishes the original text regarding "historical materials, historical facts, and historical perspectives," suitable for analyzing his statements on the understanding of history and the formation of viewpoints.
 
-[^5]: [National Quemoy University: _Lü Jie's Talk: "Understanding History as Society Progresses"_](https://ecasc.nqu.edu.tw/p/405-1017-11381,c1579.php?Lang=en) — National Quemoy University English activity page, explaining the 2014 viral spread of the Kaohsiung cram school teaching video and its positioning as a speaker who understands society through history.
+[^5]: [National Quemoy University: _Lü Jie's Talk: "Understanding History as Society Progresses"_](https://ecasc.nqu.edu.tw/p/405-1017-11381,c1579.php?Lang=en) — An English event page from National Quemoy University explaining how a 2014 video of his teaching at a Kaohsiung cram school went viral and how he was positioned as a speaker who uses history to understand society.
 
-[^6]: [Boku Lai: _What Ge Jiao Is Not History, But Human Nature_](https://www.books.com.tw/products/0010693183) — 2015 published book catalog and content introduction, listing original sentences such as "History does not teach you to recognize history, but to recognize human nature" proposed by the author.
+[^6]: [Books.com.tw: 《What Brother Teaches Is Not History, But Human Nature》](https://www.books.com.tw/products/0010693183) — Bibliographic information and content introduction for the 2015 publication, listing original quotes such as "History is not teaching you to know history, but to know human nature."
 
-[^7]: [CTV News: 〈Cram School Famous Teacher Lü Jie Takes the Host Baton for "The Lü Warring States BATTLE"〉](https://news.cts.com.tw/cts/general/202309/202309132227322.html) — CTV News Information Channel program release, explaining the program launch time, cross-generational and cross-disciplinary design, and Lü Jie’s statement on discussion.
+[^7]: [CTS News: <Cram School Master Lü Jie Takes the Hosting Baton for 《Lü's Warring States BATTLE》>](https://news.cts.com.tw/cts/general/202309/202309132227322.html) — A program announcement from CTS News Information Channel, explaining the program's launch time, its cross-generational and cross-disciplinary design, and Lü Jie's expression regarding the discussions.
 
-[^8]: [Knowledge Satellite: 〈Lü Jie’s 28 Lessons on Taiwan History〉](https://sat.cool/course/199) — Course release page, recording the 28 units, 10 hours, and course design connecting Taiwan’s freedom, democracy, culture, identity, and international positioning through historical sites.
+[^8]: [Knowledge Satellite: <Lü Jie's 28 Lessons on Taiwan History>](https://sat.cool/course/199) — A course release page detailing a curriculum of 28 units and 10 hours, designed to connect historical sites with Taiwan's freedom, democracy, culture, identity, and international position.
 
-[^9]: [Boku Lai: _What Ge Jiao Is Not History, But Human Nature_](https://www.books.com.tw/products/0010693183) — Catalog data indicating ISBN, 208 pages, and October 29, 2015 publication date; for reference of publication nodes and work content only.
+[^9]: [Books.com.tw: 《What Brother Teaches Is Not History, But Human Nature》](https://www.books.com.tw/products/0010693183) — Bibliographic data indicating the ISBN, 208 pages, and a publication date of October 29, 2015; intended for cross-referencing publication milestones and book content.
 
-[^10]: [GQ: 〈Lü Jie: Facing the True Self Is the Beginning of Escaping Being a Loser!〉](https://www.businesstoday.com.tw/article/category/80407/post/201512170102/) — 2015 book excerpt and interview compilation, recording retaking exams, entering the history department after misfilling applications, and the narrative of the starting point of cram school work and personal slump.
+[^10]: [CommonWealth Magazine: <Lü Jie: Facing Your True Self Is the Beginning of Escaping the 'Loser' Label!>](https://www.businesstoday.com.tw/article/category/80407/post/201512170102/) — A compilation of book excerpts and interviews from 2015, recording his narrative regarding retaking exams, entering the history department after misapplying his preferences, and the starting point of his cram school career and personal low points.
 
-[^11]: [StoryStudio: 〈Who Says Taiwan History Can Only Be Tragic? First-hand Field Observation of a History Cram School Famous Teacher Roaming the Battlefield for 20 Years ft. Lü Jie〉](https://storystudio.tw/article/gushi/lu-jie-podcast) — July 2026 interview segments presenting Lü Jie stepping into the cram school from the seafood shop, first class experience, classroom proportions, and the "under the banyan tree" positioning of the Taiwan history course.
+[^11]: [StoryStudio: <Who Says Taiwan History Can Only Be Tragic? Firsthand Field Observations from a History Cram School Master Who Has Navigated the Battlefield for 20 Years ft. Lü Jie>](https://storystudio.tw/article/gushi/lu-jie-podcast) — A segment-by-segment presentation of the July 2026 interview, covering Lü Jie's transition from working in a seafood restaurant to entering the cram school industry, his first teaching experience, classroom proportions, and the "under the banyan tree" positioning of his Taiwan history courses.
 
-[^12]: [Yahoo News: 〈"Our History Education Failed" Lü Jie: What Needs to Change Is Not the Curriculum〉](https://tw.news.yahoo.com/%E3%80%8C%E6%88%91%E5%80%91%E6%AD%B7%E5%8F%B2%E6%95%99%E8%82%B2%E5%A4%B1%E6%95%97%E3%80%8D-%E5%91%82%E6%8D%B7%EF%BC%9A%E8%A6%81%E6%94%B9%E7%9A%84%E4%B8%8D%E6%98%AF%E8%AA%B2%E7%B6%B1-132415186.html) — 2018 report paraphrasing his public claims on the new curriculum and exam modes, including the distinction between historical sources, facts, perspectives, and multiple-choice/essay questions.
+[^12]: [Yahoo News: <"Our History Education Has Failed" Lü Jie: What Needs Changing Is Not the Curriculum">](https://tw.news.yahoo.com/%E3%80%8C%E6%88%91%E5%80%91%E6%AD%B7%E5%8F%B2%E6%95%99%E8%82%B2%E5%A4%B1%E6%95%97%E3%80%8D-%E5%91%82%E6%8D%B7%EF%BC%9A%E8%A6%81%E6%94%B9%E7%9A%84%E4%B8%8D%E6%98%AF%E8%AA%B2%E7%B6%B1-132415186.html) — A 2018 report relaying his public advocacy regarding the new curriculum and examination models, including the distinction between historical materials, historical facts, historical perspectives, multiple-choice questions, and essay questions.
 
-[^13]: [Liberty Times: 〈"Suppressing with a Manure Truck" Cram School Teacher Discusses June 4, Controversial〉](https://news.ltn.com.tw/news/novelty/breakingnews/1079920) — 2014 report recording the content of the classroom video, internet spread, and Chen Wei-ting’s criticism; the article did not publish Lü Jie’s formal response to this controversy.
+[^13]: [Liberty Times: <"Suppressing with Fertilizer Trucks" Cram School Teacher Discusses June Fourth Controversy>](https://news.ltn.com.tw/news/novelty/breakingnews/1079920) — A 2014 report recording the content of classroom videos, their spread online, and criticism from Chen Wei-ting; the article does not publish a formal response from Lü Jie regarding this controversy.
 
-[^14]: [Boku Lai: _The Society Moves, History Must Be Understood: Lü Jie’s Lecture_](https://www.books.com.tw/products/0010900428) — Book page recording the author’s preface and content positioning, usable for cross-referencing the publication context of his reading history through stories, thinking, and human nature.
+[^14]: [Books.com.tw: 《Society Moves Forward, History Must Be Understood: Lü Jie Speaks》](https://www.books.com.tw/products/0010900428) — The book page includes the author's preface and content positioning, which can be used to cross-reference his publishing context of reading history through stories, reflection, and human nature.

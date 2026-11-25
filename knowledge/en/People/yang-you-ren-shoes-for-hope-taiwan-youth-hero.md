@@ -1,16 +1,16 @@
 ---
-title: 'Yang You-ren'
-description: 'Founder of the Old Shoes Save Lives International Christian Care Association, 2017 Ten Outstanding Young Persons awardee, who collected 100,000 pairs of used shoes with a single poster to aid children in East Africa'
+title: 'Yang Yu-jen'
+description: 'Born into a family of shoe factory owners in Taoyuan, he went to study in Australia at the age of fifteen. After dropping out twice, his life took a new direction due to an encounter with a tattooed pastor on a basketball court, leading him back to Taiwan to pursue youth counseling. In 2014, through a single blog poster, he mobilized nearly 100,000 pairs of old shoes for Kenya and founded "Step30," an organization advocating against long-term dependency by ensuring that the ultimate goal of aid is self-reliance. He has developed programs such as Education, Living Water, Love for Girls, and Agricultural Self-reliance, serving over 3 million people across twelve countries. In 2017, he was selected as one of the Ten Outstanding Young Persons.'
 date: 2026-03-20
 category: 'People'
 tags:
   [
-    'Taiwan Social Enterprise',
-    'Humanitarian Aid',
-    'Old Shoes Save Lives',
+    'Taiwanese social enterprise',
+    'Humanitarian aid',
+    'Step30',
     'Ten Outstanding Young Persons',
-    'Africa Aid',
-    'Christian Ministry',
+    'Africa aid',
+    'Christian ministry',
   ]
 subcategory: '社會與公益'
 author: 'Taiwan.md Contributors'
@@ -20,10 +20,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/楊右任.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:2a0a298fc7d510ca'
 sourceBodyHash: 'sha256:aeccc38efb53dc79'
-translatedAt: '2026-11-04T21:12:17.218894+00:00'
+translatedAt: '2026-11-25T03:34:51.249144+00:00'
 ---
 
 # Yang You-ren: From Graffiti Dropout to "Shoes That Save Lives" in Africa

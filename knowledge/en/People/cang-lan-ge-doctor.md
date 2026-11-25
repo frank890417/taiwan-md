@@ -1,13 +1,13 @@
 ---
-title: 'Blue Pigeon: Bringing the White Coat’s Distance into the Lens'
-description: 'From a medical YouTube channel launched in 2017 to vaccine explanations during the pandemic, Wu Chi-ying places a physician’s expertise, performance, and public communication on the same table.'
+title: "Cang Lan Ge: Bringing the White Coat's Distance to the Camera"
+description: 'A pediatrician graduated from NTU College of Medicine, currently an attending physician at Apple Tree Beida Branch. Since 2017, he has run "Cang Lan Ge''s Medical World", shifting from hard knowledge to medical drama analysis and current affairs commentary. During the pandemic, he entered public discourse with vaccine explanation videos. He adheres to "explaining medicine in a way the audience can understand", doing drama analysis on YouTube, discussing medical news on podcasts, keeping long-form articles on Matters, publishing books, and hosting lectures, long maintaining a fair line between professionalism, performance, and commercial cooperation.'
 date: 2026-08-16
 category: 'People'
 tags:
   [
-    'Blue Pigeon',
-    'Wu Chi-ying',
-    'Medical Science Popularization',
+    'Cang Lan Ge',
+    'Wu Qi-ying',
+    'Medical Science Communication',
     'YouTube',
     'Public Health',
   ]
@@ -19,10 +19,10 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/蒼藍鴿.md'
-sourceCommitSha: 'a7bf511aa'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:1a1a9598d9221fe9'
 sourceBodyHash: 'sha256:74a863b5d0baa755'
-translatedAt: '2026-09-11T01:35:01+08:00'
+translatedAt: '2026-11-25T03:40:10.477706+00:00'
 ---
 
 > **30-Second Overview:**

@@ -1,16 +1,16 @@
 ---
-title: 'Chen Sī-hóng: The Writer Who Fled from Yǒngjìng to Berlin, Yet Is Always Caught Up by His Hometown'
-description: 'For over twenty years, he fled from Yǒngjìng, Changhua, only to write back to his family, gender, body, and the hometown that refuses to disappear, from the distance of Berlin and the world.'
+title: 'Chen Si-hong: Escaping Yongjing for Berlin, Yet a Writer Forever Haunted by His Hometown'
+description: 'Born in 1976 into a farming family in Yongjing, Changhua, he was the ninth child, with seven older sisters and one older brother. He graduated from the Department of English at Fu Jen Catholic University and the Graduate Institute of Drama at National Taiwan University. In 2004, he went to Berlin as a special correspondent for a television station, bringing his writing, translation, and performance into his European years. His 2019 novel "The Ghost Place" centers on Yongjing as its core landscape, winning the Taiwan Literature Golden Classics Award and the Golden Tripod Award; its English translation was selected for The New York Times'' Fall Book List and sold rights in twelve languages. He simultaneously flees his hometown and writes Yongjing, family, gender, and the body into his fiction.'
 date: 2026-09-03
 category: 'People'
 tags:
   [
-    'Chen Sī-hóng',
+    'Chen Si-hong',
     'Taiwanese Literature',
-    'Yǒngjìng',
+    'Yongjing',
     'Berlin',
-    'Queer Literature',
-    'Ghost Town',
+    'LGBTQ+ Literature',
+    'The Ghost Place',
   ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
@@ -20,10 +20,10 @@ lastHumanReview: false
 readingTime: 9
 curation: 'incubating'
 translatedFrom: 'People/陳思宏.md'
-sourceCommitSha: '8730173b1'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:614611394f0bdd05'
 sourceBodyHash: 'sha256:aa5e5b4b6a3ee873'
-translatedAt: '2026-09-10T23:37:20+08:00'
+translatedAt: '2026-11-25T03:54:18.020525+00:00'
 ---
 
 ![Map showing the location of Yǒngjìng Township, Changhua County, Wikimedia Commons, author Essolo, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/d/d9/Tw_yj_map.png)

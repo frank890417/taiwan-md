@@ -1,10 +1,8 @@
 ---
-title: 'Kuo Hsing-chun: From the Injury of a 141-Kilogram Barbell to Three Olympic Weightlifting Podiums'
-description: 'Taiwanese weightlifter, three-time Olympic medalist (2016 bronze, 2021 gold, 2024 bronze), world-record holder in the 59 kg class, and descendant of the Amis Malan community'
+title: 'Kuo Hsing-chun: From the Injury of a 141kg Drop to Three Consecutive Olympic Medals in Weightlifting'
+description: "Taiwan's most successful weightlifter, a descendant of the Amis Malan tribe, born in Luodong, Yilan in 1993. Throughout her career, she has broken world records eleven times. In 2014, she suffered a right thigh injury from a 141kg barbell; she later donated her competition prize money to provide an ambulance for Penghu Huimin Hospital. She won bronze at the 2016 Rio Olympics, gold at the 2021 Tokyo Olympics by lifting 236kg and breaking three Olympic records, and bronze at the 2024 Paris Olympics despite her injury. She is Taiwan's first athlete to win medals in three consecutive Olympic Games and has long been a donor supporting remote areas."
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '體育'
 tags:
   [
     'People',
@@ -14,17 +12,19 @@ tags:
     'Gold Medal',
     'Athlete',
     'Taiwan',
-    'Amis',
+    'Amis People',
     'Indigenous Peoples',
   ]
+subcategory: '體育'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-16
 lastHumanReview: true
-featured: false
 translatedFrom: 'People/郭婞淳.md'
-sourceCommitSha: '85926aa3b'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:92e1170fe2ebdab8'
 sourceBodyHash: 'sha256:45d6a810707daa5c'
-translatedAt: '2026-05-20T05:08:27+08:00'
+translatedAt: '2026-11-25T04:00:51.729412+00:00'
 ---
 
 # Kuo Hsing-chun
