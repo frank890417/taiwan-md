@@ -1,6 +1,6 @@
 ---
-title: 'Joeman: Dari Komentator E-sports hingga Saluran Jutaan Subscriber, Kreator Jangka Panjang di Depan Lensa'
-description: 'Dari komentator e-sports dan manajer produk MSI, hingga mengelola saluran unboxing, perbandingan, perjalanan, dan program tim; jalur Joeman mencatat bagaimana YouTuber Taiwan menyeimbangkan trafik, pembagian kerja, kepercayaan, dan tanggung jawab publik.'
+title: 'Joeman: Dari Komentator E-sports hingga Saluran Jutaan Subscriber, Kreator Konten Jangka Panjang di Depan Kamera'
+description: 'Nama aslinya adalah Weng Chun-ming. Di siang hari ia bekerja sebagai manajer produk MSI, dan di akhir pekan menjadi komentator e-sports. Ia beralih ke YouTube setelah video unboxing gadget yang tidak disengaja menjadi viral, dan berhasil menembus satu juta subscriber pada tahun 2018. Format khasnya, "Joe Is Going to Duel", membandingkan barang mewah dengan barang terjangkau, yang kemudian berkembang ke konten perjalanan, real estat, dan program tim. Pada tahun 2024, ia meraih penghargaan Kreator Individu Tahunan di Golden Bell Awards. Setelah insiden ganja pada tahun 2023, ia telah meminta maaf secara terbuka dan menerima penangguhan tuntutan, serta secara proaktif menyelesaikan layanan masyarakat melalui video edukasi anti-narkoba dan anti-penipuan. Ini mendokumentasikan bagaimana kreator Taiwan melakukan penyesuaian jangka panjang antara trafik, kepercayaan, dan tanggung jawab publik.'
 date: 2026-08-16
 category: 'People'
 tags:
@@ -8,11 +8,11 @@ tags:
     'Joeman',
     'Weng Chun-ming',
     'YouTuber',
-    'e-sports',
-    '3C',
-    'ekonomi kreator',
-    'industri media',
-    'komunikasi publik',
+    'E-sports',
+    'Gadget',
+    'Ekonomi Kreator',
+    'Industri Media',
+    'Komunikasi Publik',
   ]
 subcategory: '媒體與創作'
 author: 'Taiwan.md Contributors'
@@ -26,10 +26,10 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Joeman-0617.jpg'
 readingTime: 10
 curation: 'incubating'
 translatedFrom: 'People/Joeman.md'
-sourceCommitSha: '67c4c72fc'
+sourceCommitSha: '1b9d5dfea6'
 sourceContentHash: 'sha256:19eba63c27c61c88'
 sourceBodyHash: 'sha256:18e7518b3acc71b4'
-translatedAt: '2026-11-19T21:54:13+08:00'
+translatedAt: '2026-11-25T06:54:15.375068+00:00'
 ---
 
 # Joeman: Dari Komentator E-sports hingga Saluran Jutaan Subscriber, Kreator Jangka Panjang di Depan Lensa

@@ -1,18 +1,18 @@
 ---
-title: 'Nieh Yung-jen: Anggota AGI Pertama dari Taiwan, Dua Dekade dari Kemasan Album Golden Melody ke Sistem Identitas Negara'
-description: 'Nieh Yung-jen (lahir 1977) adalah desainer Taiwan pertama yang diterima di Alliance Graphique Internationale (AGI) di Swiss, dan tiga kali meraih Golden Melody Award untuk Kemasan Album Terbaik. Karyanya merentang dari sampul musik populer (Jonathan Lee, Yoga Lin, Lu Wei), penerbitan buku, gerakan sipil (iklan New York Times pukul empat dini hari saat Gerakan Bunga Matahari 2014; kampanye crowdfunding anti-Tedros "Taiwan Can Help" 2020 yang mengumpulkan NT$10 juta dalam delapan jam), kampanye politik (identitas kampanye Tsai Ing-wen 2016 "Light Up Taiwan" serta visual utama dua kali pelantikan presiden), sistem identitas badan usaha milik negara (Kementerian Ekonomi, Administrasi Pariwisata, CPC, Taipower), hingga ruang seni (Taichung Green Museumbrary, Paviliun Taiwan di Venice Biennale). Nieh Yung-jen Studio berkantor di Taipei dan gudang Pier-2 di Kaohsiung; ia sempat menempuh studi pascasarjana di Belgia dan London, tanpa menyelesaikan satu pun dari tiga program pascasarjana; ia menyebut dirinya sendiri, "sebelum menjadi desainer Nieh Yung-jen, ia adalah warga negara Nieh Yung-jen." Sejak 2024 ia memenangkan empat proyek identitas badan usaha milik negara secara berturut-turut, dan pada hari peluncuran logo baru Taipower tahun 2026, meletus kontroversi "politik balas budi".'
+title: 'Nie Yung-chen: Anggota AGI Pertama di Taiwan, Dua Dekade dari Kemasan Album Golden Melody hingga Sistem Identitas Nasional'
+description: 'Desainer pertama di Taiwan yang bergabung dengan Alliance Graphique Internationale (AGI) Swiss, pemenang tiga kali penghargaan Desain Sampul Album Terbaik Golden Melody Awards. Karyanya mencakup sampul album, iklan New York Times pada pukul empat pagi saat Gerakan Sunflower 2014, kampanye penggalangan dana "Taiwan Can Help" senilai NT$10 juta dalam delapan jam pada tahun 2020, hingga identitas visual pelantikan dua periode Presiden Tsai Ing-wen serta sistem identitas Kementerian Ekonomi, CPC Corporation, dan Taipower. Ia menyatakan bahwa "sebelum menjadi desainer Nie Yung-chen, ia adalah warga negara Nie Yung-chen"; pada hari peluncuran logo baru Taipower tahun 2026, identitas yang sama membuatnya dituduh sebagai imbalan politik.'
 date: 2026-05-08
 category: 'People'
 tags:
   [
     'Desainer',
-    'Nieh Yung-jen',
+    'Nie Yung-chen',
     'AGI',
-    'Nieh Yung-jen Studio',
+    'Yung-chen Urgent Design',
     'Golden Melody Awards',
     'Kampanye Tsai Ing-wen',
-    'Gerakan Bunga Matahari',
-    'Estetika Pengurangan',
+    'Gerakan Sunflower',
+    'Estetika Reduksionis',
   ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
@@ -20,16 +20,9 @@ featured: false
 readingTime: 18
 lastVerified: 2026-05-12
 lastHumanReview: false
-researchReport: reports/research/2026-05/聶永真.md
-curation: 'incubating'
-curationReason: 'unverified'
-translatedFrom: 'People/聶永真.md'
-sourceCommitSha: 'be13f045'
-sourceContentHash: 'sha256:b31e7dab1de7bf10'
-sourceBodyHash: 'sha256:26e4e11c3e29817a'
-translatedAt: '2026-09-26T21:47:05+08:00'
+researchReport: 'reports/research/2026-05/聶永真.md'
 image: '/article-images/people/aaron-nieh-portrait-2018.webp'
-imageAlt: 'Foto potret Nieh Yung-jen pada Maret 2018 di sebuah acara publik dunia desain Taiwan, mengenakan jas gelap dan memegang mikrofon, dengan latar tirai gelap ruang pameran.'
+imageAlt: 'Potret Nie Yung-chen dalam acara publik komunitas desain di Taiwan pada Maret 2018, mengenakan setelan jas gelap, memegang mikrofon, dengan latar belakang tirai gelap ruang pameran.'
 imageCredit: 'Gene Wang'
 imageLicense: 'CC BY-SA 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E8%81%B6%E6%B0%B8%E7%9C%9F_(40799138092).jpg'
@@ -42,6 +35,13 @@ sporeLinks:
     platform: 'x'
     date: '2026-05-08'
     url: 'https://x.com/taiwandotmd/status/2052721374570106952'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'People/聶永真.md'
+sourceCommitSha: '30ab24424f'
+sourceContentHash: 'sha256:b31e7dab1de7bf10'
+sourceBodyHash: 'sha256:26e4e11c3e29817a'
+translatedAt: '2026-11-25T06:16:28.530824+00:00'
 ---
 
 > **Ringkasan 30 detik:** Nieh Yung-jen (lahir 1977) adalah desainer Taiwan pertama yang diterima di Alliance Graphique Internationale (AGI), dan tiga kali meraih Golden Melody Award untuk Kemasan Album Terbaik. Ia pernah mengerjakan sampul musik untuk Yoga Lin, Sodagreen, Jolin Tsai, dan Hebe Tien, serta sampul buku untuk Rye Field, China Times Publishing, INK Publishing, dan Linking Publishing; iklan New York Times pukul empat dini hari saat Gerakan Bunga Matahari 2014 dan crowdfunding New York Times "Taiwan Can Help" 2020 sama-sama karyanya; visual kampanye Tsai Ing-wen 2016 "Light Up Taiwan" serta visual utama dua kali pelantikan presiden juga digarap oleh dia dan studionya. Nieh Yung-jen Studio membuka lokasi kedua di gudang Pier-2, Kaohsiung, pada 2024, dan sejak tahun yang sama berturut-turut memenangkan proyek identitas Taipower, CPC, Administrasi Pariwisata, dan Kementerian Ekonomi; ketika logo baru Taipower diluncurkan tahun 2026, pada hari yang sama meletus kontroversi "politik balas budi", dan ia merespons dengan pernyataan lima poin. Kalimat yang berulang kali ia tekankan sendiri, "sebelum menjadi desainer Nieh Yung-jen, ia adalah warga negara Nieh Yung-jen," terus dibaca ulang dari berbagai posisi sejak 2014 hingga hari ini.

@@ -1,17 +1,17 @@
 ---
-title: 'Lin Liang: Sederhana, tetapi harus sederhana dengan rasa'
-description: 'Dari putra sulung yang kehilangan ayahnya di tepi Sungai Kowloon pada tahun 1944 hingga kakek berusia 95 tahun yang meninggal dalam tidurnya pada Desember 2019. Lin Liang membuktikan selama 73 tahun: anak-anak layak dianggap sebagai pembaca dewasa.'
+title: 'Lin Liang: Dang Dangkal, Namun Harus Dangkal dan Bermakna'
+description: 'Penulis sastra anak Taiwan. Pada tahun 1946, ia turun dari kapal di Keelung membawa satu kotak buku dari Xiamen. Pada tahun 1948, ia bergabung dengan surat kabar "Guoyu Ribao" yang baru saja didirikan sebagai editor bagian anak-anak, dan menulis sejak saat itu selama tujuh puluh tiga tahun. Ia mengusung seni bahasa yang sederhana, berpendapat bahwa anak-anak layak diperlakukan sebagai pembaca yang utuh. Kolom "Bercerita Melalui Gambar" ia tulis dari tahun 1951 hingga satu minggu sebelum wafat di usia 95 tahun, dengan akumulasi hampir enam ribu artikel; kumpulan esainya "Matahari Kecil" telah dicetak ulang lebih dari seratus tiga puluh kali. Ia menerima Penghargaan Seni dan Sastra Nasional pada tahun 2012, dan pada tahun 2018 menjadi pemenang penghargaan tertua dalam sejarah sastra anak Taiwan.'
 date: 2026-04-28
 category: 'People'
 tags:
   [
-    'sastra anak',
-    'penulis',
-    'koran nasional',
-    'seni bahasa sederhana',
-    'matahari kecil',
-    'pelopor budaya',
-    'sastra Taiwan pasca perang',
+    'Sastra Anak',
+    'Penulis',
+    'Guoyu Ribao',
+    'Seni Bahasa Sederhana',
+    'Matahari Kecil',
+    'Pelopor Budaya',
+    'Sastra Taiwan Pasca-Perang',
   ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
@@ -23,10 +23,10 @@ readingTime: 16
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/林良.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '20dcddf339'
 sourceContentHash: 'sha256:ff949a14cc54475a'
 sourceBodyHash: 'sha256:99fcaed64626278d'
-translatedAt: '2026-09-23T06:42:38.094265+00:00'
+translatedAt: '2026-11-25T06:43:19.310119+00:00'
 ---
 
 > **Ringkasan 30 Detik:**
