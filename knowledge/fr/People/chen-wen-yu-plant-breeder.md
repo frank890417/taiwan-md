@@ -1,15 +1,15 @@
 ---
-title: "Chen Wen-yu : Comment une graine est devenue l'ambassadrice de l'agriculture taïwanaise"
-description: "De l'Institut d'expérimentation de Fengshan à la pastèque sans pépins Fengshan n°1, en passant par Nongyou Seedlings, Chen Wen-yu a fait de la sélection variétale une force douce taïwanaise permettant aux agriculteurs d'obtenir une meilleure qualité de vie."
+title: "Chen Wen-yu : Comment une graine est devenue l'ambassadeur de l'agriculture taïwanaise"
+description: "Pionnier de l'hybridation des légumes à Taïwan, Chen Wen-yu est né en 1925 dans une famille d'agriculteurs à Yongkang, Tainan. Partant de la station d'expérimentation d'horticulture tropicale de Fengshan, il a développé en 1962 le premier melon sans pépins de Taïwan, le « Fengshan No. 1 », et s'est rendu personnellement à Erlun, Yunlin, pour enseigner aux agriculteurs comment cultiver des melons dans des terres sablonneuses arides. En 1968, il a fondé Nongyou Seed Co., avec la conviction de « faire d'abord gagner de l'argent aux agriculteurs », exportant semences et technologies à l'étranger tout en établissant un hôpital pour les agriculteurs au Myanmar. Après son décès à l'âge de 88 ans en 2012, sa vie a été inscrite dans l'histoire nationale, laissant derrière lui la promesse : « une graine, une responsabilité »."
 date: 2026-08-16
 category: 'People'
 tags:
   [
     'Chen Wen-yu',
-    'Nongyou Seedlings',
-    'pastèque sans pépins',
+    'Nongyou Seed Co.',
+    'melon sans pépins',
     'agriculture',
-    'sélection variétale',
+    'sélection végétale',
   ]
 subcategory: '科學與學術'
 author: 'Taiwan.md Contributors'
@@ -23,10 +23,10 @@ imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Chen_Wen-Yu_1.jpg'
 curation: 'incubating'
 translatedFrom: 'People/陳文郁.md'
-sourceCommitSha: '67c4c72fc'
+sourceCommitSha: 'd3a973ae06'
 sourceContentHash: 'sha256:3facf31822b994ad'
 sourceBodyHash: 'sha256:93a5825f5b11a6f9'
-translatedAt: '2026-11-06T07:19:13.366543+00:00'
+translatedAt: '2026-11-25T04:27:35.363542+00:00'
 ---
 
 ![Chen Wen-yu avec ses collègues et des pastèques](/article-images/people/chen-wen-yu-1.webp)

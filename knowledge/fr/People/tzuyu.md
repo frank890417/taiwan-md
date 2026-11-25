@@ -1,17 +1,17 @@
 ---
-title: 'Tzuyu (周子瑜)'
-description: "Une jeune fille de Tainan qui n'a jamais parlé de politique, devenue le point de bascule du destin de Taïwan à cause d'un drapeau brandi pendant 8 secondes. Dix ans plus tard, elle lit sa propre lettre à Kaohsiung : « Je n'ai pas quitté, non pas parce que j'étais sage, mais parce que je le voulais vraiment. »"
+title: 'Chou Tzu-yu'
+description: "Elle a quitté son foyer à treize ans pour devenir stagiaire en Corée du Sud, avant de débuter avec TWICE en 2015. Quarante-sept jours plus tard, elle a brandi un drapeau de la République de Chine ; ses huit secondes d'apparition ont été capturées par des captures d'écran, et deux mois plus tard, elle a dû publier une vidéo d'excuses de 90 secondes. La vidéo a été diffusée la veille de l'élection présidentielle à Taïwan, et le South China Morning Post a cité des sondages estimant qu'elle avait influencé 1,34 million de jeunes électeurs. Durant les dix années qui ont suivi, elle n'a pas prononcé un mot sur ces 90 secondes, se contentant de danser et de sortir des albums ; en 2019, elle a été élue visage le plus beau du monde. En novembre 2025, lors de son premier retour à Kaohsiung, elle a lu une lettre manuscrite devant 55 000 personnes : « Je ne suis pas partie, non pas parce que j'étais sage, mais parce que j'en avais vraiment le désir. »"
 date: 2026-04-14
 category: 'People'
 tags:
   [
-    'Tzuyu',
+    'Chou Tzu-yu',
     'TWICE',
     'Corée du Sud',
     'K-POP',
-    'incident du drapeau',
-    'identité taïwanaise',
-    'musique pop',
+    'Incident du drapeau',
+    'Identité taïwanaise',
+    'Musique pop',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
@@ -24,10 +24,10 @@ evolveHistory:
     action: 'fix'
     reason: 'description 寫「十年後她在大巨蛋念出親筆信」，內文記載手寫信是 2025 年 11 月 22 日在高雄世運主場館念的（大巨蛋是 2026 年 3 月的三場），地點改回高雄。其餘不動'
 translatedFrom: 'People/周子瑜.md'
-sourceCommitSha: '0a6f7f667'
+sourceCommitSha: '1a696c19ef'
 sourceContentHash: 'sha256:08c9b5bb374704b8'
 sourceBodyHash: 'sha256:4b373fac57d731f0'
-translatedAt: '2026-11-19T18:14:58+08:00'
+translatedAt: '2026-11-25T04:32:59.114206+00:00'
 ---
 
 > **Aperçu en 30 secondes :** Tzuyu (周子瑜), née en 1999 à Tainan, quitte sa famille à 13 ans pour devenir stagiaire chez JYP. 47 jours après ses débuts, elle brandit un drapeau de la République de Chine dans une émission de variétés coréenne ; 8 secondes de caméra, capturées par des internautes chinois. Deux mois plus tard, une vidéo d'excuses de 90 secondes est diffusée à la veille de l'élection présidentielle taïwanaise ; des chercheurs estiment qu'elle a influencé le vote de 1,34 million de jeunes électeurs[^8]. Elle n'a jamais prononcé un mot sur ces 90 secondes depuis, continuant simplement à danser, à sortir des albums, à assurer son rôle de danseuse principale et de _maknae_ (cadette) au sein de TWICE. Dix ans plus tard, elle revient enfin à Kaohsiung et lit devant 55 000 personnes une lettre manuscrite : « Je n'ai pas quitté, non pas parce que j'étais sage ou obéissante, mais parce que je le voulais vraiment, parce que je le désirais ardemment. » La salle entière pleure avec elle.

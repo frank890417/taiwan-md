@@ -1,14 +1,14 @@
 ---
-title: 'Manger en série : Faire de « bien manger » une saveur taïwanaise'
-description: "Elle a d'abord été remarquée pour son appétit, puis a transformé ce trafic en contenu et en marque responsables envers la nourriture, le public et le goût taïwanais."
+title: "Chien Chien en train de manger : faire de « l'art de bien manger » une saveur taïwanaise"
+description: "Anciennement infirmière de recherche à l'hôpital de l'Université nationale de Taïwan, elle s'est fait remarquer lors d'un concours de gros mangeurs, avant de quitter son emploi stable pour devenir YouTuber à plein temps. Elle a d'abord bâti sa notoriété grâce à sa capacité alimentaire, puis a progressivement orienté sa chaîne vers la cuisine, les spécialités locales et les marques. En 2018, elle a lancé ses nouilles « Chien Chien », choisissant l'huile de sésame noir et les saveurs de son terroir plutôt que de suivre la mode du piment, vendant près de 30 000 paquets en un mois. Elle a ensuite animé des food trucks éphémères à Taipei, Hsinchu, Taichung et Kaohsiung. Elle n'a pas quitté le monde des gros mangeurs en réduisant ses portions, mais en comprenant plus finement la nourriture, faisant en sorte que « manger beaucoup » ne soit plus sa seule histoire."
 date: 2026-08-16
 category: 'People'
 tags:
   [
-    'Manger en série',
-    'Hong Qianshu',
+    'Chien Chien en train de manger',
+    'Hung Chien-shu',
     'YouTuber',
-    'Manger en direct',
+    'Mukbang',
     'Nourriture taïwanaise',
   ]
 subcategory: '數位與媒體'
@@ -19,19 +19,19 @@ lastHumanReview: false
 readingTime: 7
 curation: 'incubating'
 translatedFrom: 'People/千千進食中.md'
-sourceCommitSha: '513bf256a'
-sourceContentHash: 'sha256:4bfc707dc97b4776'
-sourceBodyHash: 'sha256:685bed7af9ee32a1'
-translatedAt: '2026-09-11T23:15:45+08:00'
+sourceCommitSha: '45b1bf37e0'
+sourceContentHash: 'sha256:e967fd4cff734536'
+sourceBodyHash: 'sha256:1978cbe0e37b1512'
+translatedAt: '2026-11-25T04:17:59.479023+00:00'
 ---
 
-En 2016, Hong Qianshu a été remarquée lors d'une compétition de gloutonnerie diffusée à la télévision japonaise ; l'année suivante, elle a remporté le titre de vice-championne de la catégorie féminine lors d'une compétition de nouilles de sarrasin, en consommant 226 bols en cinq minutes. [^1] En 2018, elle a tourné une vidéo dans laquelle elle relevait le défi de manger 100 hot-dogs chez elle, un fait divers que les médias ont présenté comme le quotidien de la « belle gloutonne ». [^2] Ces deux chiffres risquent de figer Qianqian sous les traits d'une simple curiosité : elle serait celle qui mange plus que les autres.
+En 2016, Hong Qianshu a été remarquée lors d'un concours de mangeurs compulsifs dans une émission de télévision japonaise ; l'année suivante, elle a décroché la deuxième place de la catégorie féminine lors d'une compétition de nouilles de sarrasin en dévorant 226 bols en cinq minutes. [^1] En 2018, elle a publié une vidéo où elle se lançait le défi de manger 100 hot-dogs chez elle, ce qui a conduit les médias à présenter cet événement comme le quotidien d'une « beauté gloutonne ». [^2] Ces deux chiffres risquent facilement de réduire Qianqian à un simple spectacle : celle qui mange plus que les autres.
 
-![Nouilles au bœuf taïwanaises ; l'image et les nouilles mélangées Qian ne constituent pas le même produit, elles servent uniquement d'illustration éditoriale pour la culture des pâtes taïwanaises](https://commons.wikimedia.org/wiki/Special:FilePath/Taiwanese%20Beef%20Noodle%20Soup.jpg)
+![Nouilles au bœuf taïwanaises ; l'image et les nouilles Qian-ban ne sont pas le même produit, elle sert uniquement d'illustration éditoriale pour la culture des nouilles à Taïwan](https://commons.wikimedia.org/wiki/Special:FilePath/Taiwanese%20Beef%20Noodle%20Soup.jpg)
 
-_Image : Jjj84206 / Wikimedia Commons, CC BY-SA 4.0 ; [Détails de l'image et licence](https://commons.wikimedia.org/wiki/File:Taiwanese_Beef_Noodle_Soup.jpg). Cette image représente des nouilles au bœuf taïwanaises et non un produit filmé ou vendu par Qianqian._
+_Image : Jjj84206／Wikimedia Commons, CC BY-SA 4.0 ; [Détails de l'image et licence](https://commons.wikimedia.org/wiki/File:Taiwanese_Beef_Noodle_Soup.jpg). Cette image représente des nouilles au bœuf taïwanaises, et non un produit filmé ou vendu lors des repas de Qianqian._
 
-Ce qui mérite vraiment d'être retenu chez Qianqian, ce n'est pas la quantité qu'elle peut ingérer, mais la manière dont elle a ensuite géré le fait d'être « observée en train de manger ». Passée d'infirmière à YouTuber à plein temps, elle a d'abord fait de son appétit son identifiant, puis a progressivement déplacé sa chaîne des défis de gloutonnerie vers la cuisine, les unboxings, les aliments locaux et les marques. L'aspect contre-intuitif de ce parcours réside dans le fait qu'elle n'a pas quitté l'image de la gloutonne en atténuant le geste de manger, mais en comprenant la nourriture avec plus de précision, faisant ainsi du « manger beaucoup » non plus l'unique récit.
+Pourtant, ce qui mérite réellement d'être retenu chez Qianqian, ce n'est pas la quantité qu'elle peut ingérer, mais la manière dont elle a ensuite géré cet « acte de manger sous le regard d'autrui ». Passée du métier d'infirmière à celui de YouTuber à plein temps, elle a d'abord utilisé son appétit comme un trait distinctif, avant de faire évoluer progressivement sa chaîne des défis de mangeurs compulsifs vers la cuisine, les déballages de produits (_unboxing_), la gastronomie locale et les marques. Le caractère contre-intuitif de son parcours réside dans ceci : **elle n'a pas quitté le monde des mangeurs compulsifs en minimisant l'acte de manger, mais en approfondissant sa compréhension de la nourriture, faisant en sorte que « manger beaucoup » ne soit plus son unique histoire.**
 
 ## D'abord perçue comme un estomac
 

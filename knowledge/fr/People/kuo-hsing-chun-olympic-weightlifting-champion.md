@@ -1,30 +1,30 @@
 ---
-title: "Kuo Hsing-chun : de la blessure provoquée par 141 kg à un parcours d'haltérophile sur trois podiums olympiques"
-description: 'Haltérophile taïwanaise, médaillée olympique à trois reprises (bronze en 2016, or en 2021, bronze en 2024), détentrice du record du monde des 59 kg, descendante de la communauté Malan du peuple Amis'
+title: "Kuo Hsing-chun : de la blessure causée par une barre de 141 kg au parcours d'haltérophilie sur trois podiums olympiques"
+description: "La plus grande haltérophile de l'histoire de Taïwan, descendante du clan Malan du peuple Amis, née en 1993 à Luodong, Yilan. Elle a battu le record du monde onze fois au cours de sa carrière. En 2014, elle a été blessée à la cuisse droite par une barre de 141 kg, puis a utilisé ses primes de compétition pour faire don d'une ambulance à l'hôpital Huimin de Penghu. Médaille de bronze aux Jeux olympiques de Rio en 2016, médaille d'or aux Jeux olympiques de Tokyo en 2021 avec 236 kg tout en battant trois records olympiques, et médaille de bronze aux Jeux olympiques de Paris en 2024 malgré ses blessures. Elle est la première athlète taïwanaise à avoir remporté une médaille lors de trois éditions consécutives des Jeux olympiques, et elle soutient régulièrement les zones rurales par des dons."
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '體育'
 tags:
   [
-    'personnalité',
+    'Personnalité',
     'Kuo Hsing-chun',
-    'haltérophilie',
+    'Haltérophilie',
     'Jeux olympiques',
-    'médaille d’or',
-    'athlète',
+    "Médaille d'or",
+    'Athlète',
     'Taïwan',
-    'Amis',
-    'peuples autochtones',
+    'Peuple Amis',
+    'Peuples autochtones',
   ]
+subcategory: '體育'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-16
 lastHumanReview: true
-featured: false
 translatedFrom: 'People/郭婞淳.md'
-sourceCommitSha: '85926aa3b'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:92e1170fe2ebdab8'
 sourceBodyHash: 'sha256:45d6a810707daa5c'
-translatedAt: '2026-05-20T05:08:34+08:00'
+translatedAt: '2026-11-25T04:02:48.334695+00:00'
 ---
 
 # Kuo Hsing-chun

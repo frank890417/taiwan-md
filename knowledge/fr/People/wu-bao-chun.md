@@ -1,17 +1,17 @@
 ---
-title: 'Wu Pao-chun : un engagement envers un enfant Paiwan'
-description: "Fils d'un milieu rural de Pingtung, diplômé du collège, il ne parle pas français. Il a remporté la première médaille d'or de maître boulanger mondial à Paris avec un pain au litchi‑rose — contenant une promesse faite il y a dix ans à un enfant autochtone."
+title: 'Wu Pao-chun : une promesse faite aux enfants Paiwan'
+description: "Le plus jeune d'une fratrie de huit enfants ayant grandi dans le milieu rural de Neipu, à Pingtung, il perd son père à douze ans et part vers le nord à quinze ans pour commencer comme apprenti boulanger. Il apprend le français en autodidacte pour lire des ouvrages de boulangerie français. En 2008, il remporte l'argent au Coupe du Monde de la Boulangerie avec un pain au riz fermenté et longan. En 2010, à Paris, il décroche l'or au Coupe du Monde de la Boulangerie avec un pain lychee-rose intégrant du vin de millet Paiwan, devenant ainsi le premier champion du monde de la boulangerie. Les juges français ont qualifié son travail de meilleur pain français. Son parcours en master a également conduit au ministère de l'Éducation de Taïwan à modifier la loi, une mesure désormais connue sous le nom de « clause Wu Pao-chun »."
 date: 2026-04-05
 category: 'People'
 tags:
   [
-    'Restauration',
-    'Pâtisserie',
-    "Esprit d'artisan",
-    'Champion du monde',
+    'restauration',
+    'boulangerie',
+    "esprit d'artisan",
+    'champion du monde',
     'Pingtung',
-    'Pain',
-    'Peuples autochtones',
+    'pain',
+    'peuples autochtones',
   ]
 subcategory: '餐飲與職人'
 author: 'Taiwan.md'
@@ -22,10 +22,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/吳寶春.md'
-sourceCommitSha: 'b1a5fea00'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:1b0b64c23c091c1f'
 sourceBodyHash: 'sha256:e355ad9581f498f8'
-translatedAt: '2026-11-18T14:48:26.242161+00:00'
+translatedAt: '2026-11-25T04:22:08.241695+00:00'
 ---
 
 # Wu Pao-chun : un engagement envers un enfant Paiwan

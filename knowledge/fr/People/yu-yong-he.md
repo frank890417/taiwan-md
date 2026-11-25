@@ -1,18 +1,18 @@
 ---
-title: 'Yu Yonghe — Le lettré qui traversa Taïwan pour du soufre'
-description: "En 1697, un lettré de Hangzhou s'est porté volontaire pour traverser Taïwan du sud au nord jusqu'à Beitou, afin d'y collecter du soufre. Son récit de voyage constitue la première œuvre littéraire documentant la géographie et les peuples du nord de l'île."
+title: 'Yu Yonghe'
+description: "Un lettré de Hangzhou, dans le Zhejiang. Après l'incendie du dépôt de poudre de Fuzhou en 35e année du règne de Kangxi, il se porta volontaire pour traverser la mer jusqu'à Taïwan afin d'extraire du soufre. Partant de la ville de Tainan en charrette à bœufs, il traversa les plaines de l'ouest en vingt jours, passant par plus d'une dizaine de tribus autochtones pour atteindre la zone de soufre de Beitou. Son voyage de neuf mois à Taïwan fut consigné dans le « Pi Hai Ji You » (Récits de voyage de Pi Hai), qui est devenu un ouvrage classique documentant très tôt la géographie humaine du nord de Taïwan. En voyant les autochtones dormir à la belle étoile dans la boue, il écrivit « ils sont aussi des êtres humains », une réflexion rare à une époque où la dynastie Qing considérait les autochtones comme des peuples barbares, laissant ainsi des descriptions précieuses sur le mystère du lac de Taipei sous le règne de Kangxi."
 date: 2026-03-25
 category: 'People'
 tags:
   [
-    'personnage historique',
+    'Personnalité',
     'Yu Yonghe',
-    'Pihai Jiyou',
-    'ère Qing',
-    'exploration',
+    'Pi Hai Ji You',
+    'Dynastie Qing',
+    'Exploration',
     'Beitou',
-    'soufre',
-    'littérature taïwanaise',
+    'Soufre',
+    'Littérature taïwanaise',
   ]
 subcategory: '歷史與探險'
 author: 'Taiwan.md'
@@ -23,10 +23,10 @@ readingTime: 10
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/郁永河.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:4070459913f1808f'
 sourceBodyHash: 'sha256:f14cb1a2a50dc23e'
-translatedAt: '2026-11-04T21:51:33.308650+00:00'
+translatedAt: '2026-11-25T04:20:11.744160+00:00'
 ---
 
 # Yu Yonghe — Le lettré de Hangzhou au bout du monde

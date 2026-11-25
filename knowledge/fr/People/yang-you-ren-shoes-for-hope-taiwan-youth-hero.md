@@ -1,16 +1,16 @@
 ---
-title: 'Yang You-ren'
-description: "Fondateur de l'association internationale chrétienne Step30 « Sauver des vies par les chaussures », lauréat du prix des Dix Jeunes d'exception en 2017, il a collecté cent mille paires de chaussures usagées grâce à une simple affiche pour venir en aide aux enfants d'Afrique de l'Est"
+title: 'Yang You-jen'
+description: "Issu d'une famille de fabricants de chaussures née à Taoyuan, il est parti étudier en Australie à l'âge de quinze ans. Après avoir abandonné ses études à deux reprises, sa vie a pris un nouveau tournant grâce à la rencontre avec un pasteur tatoué sur un terrain de basket, ce qui l'a conduit à revenir à Taïwan pour se consacrer au conseil auprès des jeunes. En 2014, grâce à une affiche sur un blog, il a collecté près de 100 000 paires de vieilles chaussures pour les envoyer au Kenya et a fondé « Step30 Old Shoes Save Lives ». Prônant l'évitement de la dépendance à long terme et faisant de l'autonomie l'objectif ultime de l'aide, il a développé des programmes d'éducation, d'eau potable, de soutien aux filles et d'autosuffisance agricole, servant plus de trois millions de personnes dans douze pays. Il a été élu l'un des dix jeunes les plus éminents en 2017."
 date: 2026-03-20
 category: 'People'
 tags:
   [
     'entreprise sociale taïwanaise',
     'aide humanitaire',
-    'Step30 Sauver des vies par les chaussures',
-    "Dix Jeunes d'exception",
+    'Step30 Old Shoes Save Lives',
+    'dix jeunes les plus éminents',
     "aide à l'Afrique",
-    'mission chrétienne',
+    'ministère chrétien',
   ]
 subcategory: '社會與公益'
 author: 'Taiwan.md Contributors'
@@ -20,10 +20,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/楊右任.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'eaf22e5cf8'
 sourceContentHash: 'sha256:2a0a298fc7d510ca'
 sourceBodyHash: 'sha256:aeccc38efb53dc79'
-translatedAt: '2026-11-04T21:13:03.623427+00:00'
+translatedAt: '2026-11-25T04:24:28.530153+00:00'
 ---
 
 # Yang You-ren : du décrochage scolaire à la mission humanitaire en Afrique

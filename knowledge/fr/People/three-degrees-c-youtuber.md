@@ -1,16 +1,9 @@
 ---
-title: "Trois degrés C : Comment une douche glacée a été montée en une vidéo à un million d'abonnés"
-description: "L'histoire de Xie Menghang, passé d'élève en coiffure à YouTuber à un million d'abonnés, qui réintègre mèmes, défis et production audiovisuelle dans un même espace de création."
+title: "3°C : transformer une douche glacée en un parcours d'un million d'abonnés"
+description: "De l'étudiant en coiffure au créateur de contenu à succès, découvrez comment 3°C a transformé une blague personnelle en une carrière professionnelle de réalisateur et monteur."
 date: 2026-08-20
 category: 'People'
-tags:
-  [
-    'Culture',
-    'YouTuber',
-    'Culture internet',
-    'Mème',
-    'Production audiovisuelle',
-  ]
+tags: ['Culture', 'YouTuber', 'Culture web', 'Mème', 'Production vidéo']
 subcategory: '網路文化'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -18,102 +11,102 @@ lastVerified: 2026-08-20
 lastHumanReview: false
 curation: 'incubating'
 translatedFrom: 'People/3度C.md'
-sourceCommitSha: 'e64a7fba4'
-sourceContentHash: 'sha256:71bd23c9a7becdb3'
-sourceBodyHash: 'sha256:ac800d2068dd019e'
-translatedAt: '2026-09-11T08:06:42+08:00'
+sourceCommitSha: '45b1bf37e0'
+sourceContentHash: 'sha256:512116c709aae71c'
+sourceBodyHash: 'sha256:41b6c45553399776'
+translatedAt: '2026-11-25T11:36:55+08:00'
 ---
 
-> **Aperçu en 30 secondes :** San Du C est la marque de création YouTube de Xie Menghang. Ce nom ne vient pas des produits 3C, mais du fait qu'étudiant en Chine continentale, il prenait des douches froides en hiver à 3 degrés Celsius, ce qui lui valut le surnom de « Trois degrés » de la part de ses amis. Il monte des contenus de divertissement mêlant retenue du rire, danse, mèmes, défis et histoires réelles, avant de participer à la production de clips musicaux en tant que réalisateur, opérateur et monteur. La contre-intuition de San Du C réside dans le fait que, s'il semble reposer sur un contenu absurde pour faire rire, ce qu'il a véritablement accumulé est une méthode de création pérenne, organisant la performance corporelle d'un individu, le rythme du montage et l'organisation du travail audiovisuel.
+> **Résumé en 30 secondes :** 3°C (Sāndù C) est la marque de création YouTube de Hsieh Meng-hang. Ce nom ne provient pas des produits « 3C », mais du fait qu'alors qu'il étudiait en Chine continentale, il a pris une douche glacée par un hiver à 3 °C ; ses amis l'ont alors surnommé « 3 degrés ». Il transforme des défis de retenue de rire, de la danse, des mèmes et des défis en contenus divertissants, avant de s'impliquer dans la réalisation de clips musicaux en tant que réalisateur, cadreur et monteur. Le caractère contre-intuitif de 3°C réside dans le fait qu'au-delà du contenu absurde qui fait rire, il a réellement bâti une méthode de création durable en organisant sa performance physique, son rythme de montage et son travail d'image.
 
-Dans une interview de 2022, Xie Menghang expliquait que beaucoup demandaient l'origine du surnom « Trois degrés » ; sa réponse tenait à cette douche froide prise à 3 degrés Celsius pendant ses études en Chine continentale. [^1] Il s'agit d'un fragment de vie minuscule, voire un peu absurde, qui est devenu le nom par lequel il est identifié en ligne. L'enquête biographique de 1111 en novembre 2025 complète ce parcours : de l'élève en coiffure au créateur audiovisuel à temps plein, il cumulait sept ans d'expérience créative au moment de l'interview, avec plus de 1,39 million d'abonnés sur sa chaîne. [^2]
+Lors d'une interview en 2022, Hsieh Meng-hang a expliqué que beaucoup lui demandaient l'origine de son surnom « 3 degrés » ; il a répondu que cela remontait à ses études en Chine continentale, lorsqu'il prenait des douches glacées par une température de 3 °C. [^1] C'est un fragment de vie minuscule, voire absurde, qui est devenu son identité sur le web. Une interview exclusive de novembre 2025 vient compléter ce parcours : d'étudiant en coiffure, il est devenu créateur de contenu à plein temps, avec 7 ans d'expérience et plus de 1,39 million d'abonnés sur sa chaîne. [^2]
 
-Ce parcours est souvent mal interprété comme « une personne qui filme des vidéos drôles, puis devient célèbre ». Une formulation plus précise serait que San Du C insère un personnage mémorable dans un format audiovisuel aux thèmes constamment renouvelés. Les contenus de retenue du rire, de danse et de mèmes rapportés par Mingbao ne ressemblent pas à une seule programmation, mais plutôt à des tests effectués par le créateur pour mesurer jusqu'où le public est prêt à le suivre. [^1] Les thèmes changent, mais le public reconnaît toujours la même personne.
+Ce chemin est souvent mal interprété comme « un homme qui fait des vidéos drôles et qui devient célèbre ». Plus précisément, 3°C a placé un personnage facile à mémoriser dans un format vidéo aux thématiques constamment renouvelées. Les contenus rapportés par _Ming Pao_ (銘報), tels que les défis de rire, la danse ou les mèmes, ne ressemblent pas à une grille de programmes uniforme, mais plutôt à des tests effectués par le créateur pour voir jusqu'où son audience est prête à le suivre. [^1] Les sujets changent, mais l'identité reste la même.
 
-![Vue nocturne de Taipei, servant d'image de scène pour la culture internet taïwanaise et l'expérience urbaine de la ville](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%2720210501_Taipei_Night_Skyline.jpg/1280px-%2720210501_Taipei_Night_Skyline.jpg)
+![Vue nocturne de Taipei, illustrant le paysage urbain et la culture numérique taïwanaise](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%2720210501_Taipei_Night_Skyline.jpg/1280px-%2720210501_Taipei_Night_Skyline.jpg)
 
-_Légende : Vue nocturne de Taipei. Cette image n'est pas le portrait de San Du C, mais sert à indiquer la ville et le contexte de la culture internet dans lesquels évoluent les créateurs numériques taïwanais. L'auteur de l'image est Mao Mao Da Shao Ye, source [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%2720210501_Taipei_Night_Skyline.jpg), sous licence CC BY-SA 2.0. Intégration via l'URL chaude de Wikimedia Commons, sans téléchargement ni hébergement récurrent de l'image._
+_Légende : Vue nocturne de Taipei. Cette image n'est pas un portrait de 3°C, mais sert à situer le contexte urbain et culturel des créateurs numériques de Taïwan. Auteur : Mao Mao Da Shao Ye (毛貓大少爺), source : [page Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%2720210501_Taipei_Night_Skyline.jpg), sous licence CC BY-SA 2.0. Utilisation via l'URL directe de Wikimedia Commons, sans téléchargement ni hébergement tiers._
 
-## Un nom précédant le persona
+## Le nom précède le personnage
 
-Les noms en ligne ressemblent souvent à un design de marque : on définit d'abord le positionnement, puis on organise une série visuelle et tonale. Le nom de San Du fonctionne à l'inverse. Il est d'abord un surnom donné par un ami, avant de devenir le nom de la chaîne, le compte social et l'identifiant professionnel. Cette origine fait que « Trois degrés » ressemble moins à un personnage soigneusement emballé qu'à une blague laissée par un ami en hiver.
+Sur Internet, un pseudonyme est souvent conçu comme une marque : on définit d'abord un positionnement, puis une identité visuelle et un ton. Pour 3°C, c'est l'inverse. C'était d'abord un surnom donné par un ami, devenu ensuite le nom de la chaîne, des comptes sociaux et une identité professionnelle. Cette origine fait que « 3 degrés » ne ressemble pas à un personnage soigneusement packagé, mais plutôt à une plaisanterie d'ami restée dans les mémoires.
 
-Le détail des « douches froides à 3 degrés Celsius » est utile non pas parce qu'il prouve la capacité de San Du à endurer, mais parce qu'il relie un surnom internet abstrait au corps. Le lecteur peut imaginer le choc de l'eau froide sur la peau et comprendre pourquoi ce nom ne nécessite pas d'explications supplémentaires. C'est une histoire de nommage avec peu d'objets et des actions claires.
+Le détail de la « douche glacée à 3 °C » est utile non pas pour prouver sa résistance physique, mais parce qu'il ancre un pseudonyme abstrait dans le corps. Le spectateur peut imaginer le contact de l'eau froide sur la peau, comprenant ainsi pourquoi ce nom ne nécessite pas de longues explications. C'est une histoire de nomification avec peu d'objets et une action très claire.
 
-Quant à l'endroit précis où il a étudié en Chine continentale, les enquêtes biographiques directement vérifiables se contentent d'indiquer « études en Chine continentale », sans préciser la ville, la province ou l'école. [^1] Par conséquent, cet article ne traite pas les récits des encyclopédies en ligne comme des CV certifiés, ni ne transforme les descriptions vagues telles que « ville de deuxième rang » en toponymes précis. Ce manque de données doit être conservé, car la fiabilité de l'écriture biographique réside non seulement dans la supplémentation de détails, mais aussi dans la capacité à marquer clairement quels détails n'ont pas encore été prouvés par des sources fiables.
+Quant au lieu exact de ses études en Chine continentale, les interviews disponibles se contentent de mentionner « des études en Chine continentale », sans préciser la ville, la province ou l'école. [^1] Par conséquent, cet article ne traite pas les récits d'encyclopédies en ligne comme des faits biographiques établis, et ne cherche pas à deviner une localisation derrière des descriptions floues comme « une ville de second rang ». Ce manque de données doit être préservé : la fiabilité d'une biographie réside autant dans l'ajout de détails que dans la mention claire de ce qui n'a pas encore été prouvé par des sources fiables.
 
-> **📝 Note du curateur :** Un bon nom en ligne n'a pas nécessairement besoin d'un cahier des charges préalable. Parfois, les bêtises qu'une personne a commises laissent une meilleure identité qu'une stratégie de marque.
+> **📝 Note du commissaire :** Un bon pseudonyme n'a pas forcément besoin d'un business plan préalable. Parfois, une bêtise commise par un individu laisse une empreinte plus forte qu'une stratégie de marque.
 
-Mingbao a organisé les premiers contenus de la chaîne de San Du autour de thèmes variés tels que la retenue du rire, la danse et les mèmes. [^1] Ces termes ne semblent pas appartenir à une seule programmation, mais plutôt à des tests effectués par le créateur pour mesurer jusqu'où le public est prêt à le suivre. La danse exige la mémoire corporelle, la retenue du rire repose sur l'expression et le rythme, tandis que les mèmes nécessitent la reconnaissance d'un contexte commun. La personnalité de San Du C émerge précisément de cette reconnaissance répétée à travers des formes différentes.
+_Ming Pao_ a classé les premiers contenus de 3°C sous des thèmes variés : retenue de rire, danse et mèmes. [^1] Ces termes ne forment pas une grille de programmes cohérente, mais témoignent d'une expérimentation constante auprès du public. La danse exige une mémoire corporelle, la retenue de rire repose sur l'expression faciale et le rythme, tandis que les mèmes nécessitent un contexte culturel partagé. L'identité de 3°C s'est forgée à travers la reconnaissance récurrente de sa présence dans ces formes disparates.
 
-## De l'expérience de rue aux rires partagés par le public
+## De l'expérience de rue au rire partagé
 
-En 2018, l'émission Dongsen Entertainment a rapporté une expérience de style de rue réalisée par San Du en collaboration avec Xiao Ma. La différence de prix entre les deux tenues était importante : l'une coûtait environ 80 000 yuans, l'autre environ 1 500 yuans. Les deux hommes ont échangé leurs vêtements à tour de rôle, puis sont allés dans la rue demander la préférence des femmes interrogées. [^3]
+En 2018, _EBC News_ (東森娛樂) a rapporté une expérience de mode urbaine réalisée par 3°C et Xiao Ma (小馬). L'écart de prix entre deux tenues était immense : l'une valait environ NT$80 000, l'autre environ NT$1 500. Les deux hommes échangeaient leurs vêtements avant d'interroger des femmes dans la rue sur leurs préférences. [^3]
 
-Ce qui reste véritablement de cette vidéo, ce n'est pas la conclusion selon laquelle « les marques de luxe sont nécessairement meilleures » ou « les vêtements bon marché peuvent gagner ». Après l'échange de vêtements, les choix des interrogées se concentraient toujours sur Xiao Ma, les retours sur place poussant même la question vers la couleur de peau et l'apparence physique. [^3] La reprise par Yahoo News le même jour a également enregistré ces deux tours d'expérience, conservant le contexte dans lequel les internautes discutaient des proportions corporelles et de la coupe des vêtements. [^4]
+La leçon de cette vidéo n'est pas simplement « le luxe est meilleur » ou « les vêtements abordables peuvent gagner ». Une fois l'échange effectué, les choix des interviewées restaient concentrés sur Xiao Ma, et les réactions sur place ont même déplacé le débat vers la couleur de peau et l'apparence physique. [^3] Un reportage de _Yahoo News_ du même jour a relayé cette expérience en deux étapes, soulignant également les discussions des internautes sur les proportions corporelles et la coupe des vêtements. [^4]
 
-Il s'agit d'un scénario adapté à San Du C : concevoir d'abord une question comprise par tous, puis laisser les résultats de l'expérience rendre la question plus embarrassante. Le divertissement ne se charge pas de fournir au public de belles réponses. Il place une personne devant la caméra, la faisant subir des jugements que l'on pensait réservés aux autres.
+C'est un scénario typique pour 3°C : concevoir une question universelle, puis laisser le résultat de l'expérience rendre la situation embarrassante. Le divertissement n'a pas pour mission de fournir des réponses élégantes ; il consiste à placer un individu devant la caméra pour qu'il subisse des jugements que les gens pensent habituellement ne concerner que les autres.
 
-> **📝 Note du curateur :** Le point drôle de San Du C n'est souvent pas « il est très bon pour faire rire », mais sa volonté de se placer dans une expérience où le rire pourrait se retourner contre lui-même.
+> **📝 Note du commissaire :** L'humour de 3°C ne réside pas tant dans sa capacité à faire des blagues, mais dans sa volonté de s'inclure dans une expérience où la chute pourrait se retourner contre lui.
 
-Cela explique pourquoi l'« absurdité » ne peut résumer seule sa création. L'absurdité n'est qu'un style de surface. En dessous se trouvent la conception des questions, les réactions sur place, l'ordre du montage et le travail par lequel le protagoniste assume les résultats. Le public voit un test absurde, tandis que le créateur traite une petite observation sociale.
+Cela explique pourquoi le terme « absurde » (_wulǐtóu_) ne suffit pas à définir sa création. L'absurdité n'est que la surface. En dessous, il y a la conception des sujets, les réactions en direct, l'ordre du montage et la responsabilité de l'acteur face aux résultats. Le spectateur voit un test absurde ; le créateur traite une micro-observation sociale.
 
-## Un million d'abonnés n'est pas une fin, mais un changement de type de travail
+## Un million d'abonnés : un changement de paradigme professionnel
 
-L'enquête de 1111 de 2025 place San Du C dans le contexte de carrière du « créateur à temps plein ». L'article mentionne son passage d'élève en coiffure à créateur à temps plein, abordant lors de l'interview l'inspiration créative, le trafic, les goulots d'étranglement, les trolls et l'intention initiale de continuer à offrir des sentiments positifs au public. [^2] L'association de ces termes indique que YouTube n'est plus pour lui seulement un lieu de publication, mais un travail nécessitant un maintien de la production.
+L'interview de 2025 place 3°C dans le contexte d'une « création à plein temps ». L'article mentionne son passage d'étudiant en coiffure à créateur professionnel, abordant l'inspiration, le trafic, les blocages, les critiques et sa volonté initiale d'apporter des émotions positives. [^2] Mis ensemble, ces éléments montrent que YouTube n'est plus seulement une plateforme de diffusion, mais un travail exigeant une production constante.
 
-Le label « YouTuber à un million d'abonnés » est commode pour les médias, mais il a tendance à aplatir le processus en un simple chiffre. Ce qui est plus intéressant dans le cas de San Du C, c'est qu'il n'a pas limité son personnage à une seule série. Les contenus de retenue du rire, de danse et de mèmes rapportés par Mingbao montrent déjà que les premières créations de San Du C n'étaient pas d'un format unique. [^1] Il ne s'agit pas de recommencer à chaque fois, mais de tester différentes portes d'entrée visuelles sous un même nom.
+Le titre de « YouTuber à un million d'abonnés » est une étiquette médiatique pratique, mais elle tend à réduire un processus complexe à un simple chiffre. Le cas de 3°C est intéressant car il n'a pas limité son personnage à une seule série. Les thèmes de la danse ou des mèmes montrent que sa création précoce n'était pas figée dans un format unique. [^1] Il ne s'agit pas de repartir de zéro à chaque fois, mais de tester différents points d'entrée pour l'audience sous un même nom.
 
-Pour le créateur, le trafic n'apporte pas seulement des applaudissements, mais aussi des exigences de répétition plus élevées. Le public souhaite que la prochaine vidéo ressemble encore à « San Du », mais ne peut se contenter d'un simple changement de titre pour la précédente. Ainsi, le persona doit rester stable, les thèmes doivent varier, et le montage doit faire en sorte que cette variation appartienne toujours à la même personne. Il s'agit d'un travail concret, et non d'une simple inspiration.
+Pour un créateur, le trafic apporte autant de critiques que d'applaudissements, ainsi qu'une exigence de répétition accrue. Le public veut retrouver « 3°C » dans la vidéo suivante, sans pour autant avoir l'impression de voir une simple variante du titre précédent. L'identité doit être stable, les sujets doivent varier, et le montage doit faire en sorte que ces variations semblent émaner de la même personne. C'est un travail concret, pas seulement de l'inspiration.
 
-> **📝 Note du curateur :** Le nombre d'abonnés pousse vers les projecteurs, mais ce qui fait vivre la chaîne, ce sont les petits travaux consistant à redécider à chaque fois « comment ne pas ressembler à la précédente ».
+> **📝 Note du commissaire :** Le nombre d'abonnés place l'individu sous les projecteurs, mais ce qui fait survivre une chaîne, c'est le travail minutieux consistant à décider, à chaque fois, « comment ne pas faire comme la dernière fois ».
 
-## La personne devant la caméra travaille aussi derrière
+## L'homme devant la caméra travaille aussi derrière elle
 
-San Du C apparaît non seulement sur sa propre chaîne YouTube. La page officielle de Brook Image Culture enregistre une autre identité de Xie Menghang dans la production de clips musicaux. Le cas de 2024 « La météore traverse » liste Xie Menghang comme réalisateur et indique qu'il est responsable de la post-production. [^5] Dans le cas de « Fleurs » de Hui Chun Dan, la page officielle liste San Du comme réalisateur, opérateur et monteur, la production étant réalisée par Brook Image Culture Co., Ltd. [^6]
+3°C n'apparaît pas uniquement sur sa propre chaîne. Les pages de cas officiels de _Brook Visual Culture_ (佈魯克影像文化) documentent son autre facette dans la production de clips musicaux. Pour le projet « Meteor Passing » (流星劃過) en 2024, il est crédité comme réalisateur et responsable de la post-production. [^5] Dans le cas du clip 〈Fresh Flowers〉 (鮮花) de l'artiste _Mayday_ (回春丹), les pages officielles indiquent que 3°C a assuré la réalisation, la prise de vue et le montage, sous la production de _Brook Visual Culture Co., Ltd._ [^6]
 
-Ces deux cas font légèrement tourner le nom « San Du C ». Le public connaît une personne placée dans des défis et des mèmes. Le contexte de production audiovisuelle nécessite cependant un autre ensemble de jugements : comment disposer les angles de caméra, comment faire en sorte que les mouvements des acteurs se suivent, comment monter les matériaux en un temps avec des variations dans la post-production. Le premier se place au centre du contenu, le second organise l'ensemble de l'œuvre.
+Ces deux exemples font pivoter la perception du nom « 3°C ». Le public connaît l'homme qui participe à des défis ou des mèmes. Pourtant, la production audiovisuelle exige un autre type de jugement : le cadrage, la continuité des mouvements des acteurs, et la gestion du rythme temporel au montage. Si le premier se place au centre du contenu, le second doit organiser l'œuvre dans sa globalité.
 
-La page officielle place également la même personne dans différentes colonnes de travail. Du réalisateur à l'opérateur, puis au monteur, San Du n'est pas seulement un visage visible, mais aussi quelqu'un capable de finaliser l'image. [^5] [^6] Cette superposition entre avant-scène et arrière-scène est peut-être plus précise que l'idée d'un « influenceur passant à l'audiovisuel ». Car il n'a jamais seulement resté devant la caméra.
+Les pages officielles montrent également la polyvalence de l'individu à travers différents rôles. De réalisateur à monteur, 3°C n'est pas seulement un visage à l'écran, mais quelqu'un capable de finaliser une image. [^5] [^6] Cette superposition des rôles est peut-être mieux décrite que le simple concept d'« influenceur s'essayant à la vidéo » ; il n'a jamais été exclusivement devant la caméra.
 
-Les autres pages de cas de Brook Image Culture montrent également l'environnement de production et le réseau de coopération dans lequel San Du évolue. « Nuit de photographie classique sur la vieille rue de Yingge » et « Magnat des pigeons voyageurs » sont tous deux listés comme cas sélectionnés par l'entreprise. [^7] [^8] Ces pages ne sont pas une liste de vidéos de la chaîne San Du C, mais elles révèlent une ligne de travail parallèle : produire des images pour des marques, des événements ou des œuvres musicales, et produire du contenu divertissant pour son propre public, utilisent des outils similaires mais assument des responsabilités différentes.
+D'autres projets de _Brook Visual Culture_ permettent de voir son réseau de collaboration, comme 〈Nuit de photographie dans la vieille rue de Yingge〉 ou 〈Le magnat des pigeons voyageurs〉. [^7] [^8] Ces pages ne sont pas des listes de vidéos de sa chaîne YouTube, mais révèlent une ligne de travail parallèle : produire des images pour des marques, des événements ou de la musique, utilisant des outils similaires à ceux du divertissement, mais avec des responsabilités différentes.
 
-## Au-delà du drôle, une ligne rouge de véracité
+## Au-delà de l'humour, une ligne rouge d'authenticité
 
-Les contenus de San Du C commencent souvent par des défis, des imitations ou des paramètres absurdes. Le risque de ce type de vidéos est que si le rire repose uniquement sur les maladresses d'autrui, il divise facilement le public et les personnes filmées. Dans l'expérience de style de rue, San Du s'est lui-même intégré au champ d'évaluation, ramenant au moins une partie du risque sur lui-même. Cela ne signifie pas que chaque vidéo est sans controverse, mais indique que sa création comporte un choix éthique observable : le créateur est-il prêt à faire partie du test ?
+Le contenu de 3°C commence souvent par un défi, une imitation ou un cadre absurde. Le risque de ce genre de vidéos est que, si l'humour repose uniquement sur la maladresse d'autrui, cela crée une fracture entre le spectateur et la personne filmée. En s'incluant lui-même dans les expériences de mode urbaine, 3°C assume une partie du risque. Cela ne signifie pas que ses vidéos sont exemptes de controverse, mais cela révèle un choix éthique : le créateur est-il prêt à faire partie intégrante du test ?
 
-Cette ligne devient plus claire après le passage à la création à temps plein. Lorsqu'une vidéo est à la fois divertissement, travail, collaboration de marque et relation avec le public, le coût de la blague n'est plus payé uniquement par le filmé. L'enquête de 2025 mentionne comment il fait face aux goulots d'étranglement créatifs et aux trolls. [^2] Ces éléments ne doivent pas être emballés en succès stories. Ils ressemblent davantage à la maintenance quotidienne après un million d'abonnés : maintenir la quantité, maintenir la crédibilité du personnage, et maintenir son propre état pour continuer à publier.
+Cette ligne devient plus nette avec la professionnalisation. Lorsqu'une vidéo est simultanément un divertissement, un travail, une collaboration de marque et une relation avec l'audience, le coût de la plaisanterie ne repose pas uniquement sur le producteur. L'interview de 2025 évoque sa gestion des blocages créatifs et des critiques. [^2] Ces éléments ne sont pas des récits de succès, mais plutôt la maintenance quotidienne d'un métier : maintenir la production, la crédibilité du personnage et sa propre capacité à continuer de produire.
 
-L'importance de San Du C ne réside pas dans le fait qu'il représente tous les YouTubers taïwanais. Cette affirmation est trop vaste et ne peut être soutenue par les données d'une seule personne. Il ressemble plutôt à une tranche claire, permettant de voir un chemin souvent ignoré dans la culture internet taïwanaise : le créateur obtient d'abord l'attention par son propre corps et ses réactions, puis transforme cette attention en travail durable grâce à la planification, au montage et à la production audiovisuelle.
+L'importance de 3°C ne réside pas dans le fait qu'il représenterait tous les YouTubers de Taïwan — une affirmation trop vaste pour être soutenue par un seul homme. Il est plutôt un échantillon représentatif d'une voie souvent ignorée dans la culture web taïwanaise : utiliser son corps et ses réactions pour capter l'attention, puis transformer cette attention en un travail durable grâce à la planification, au montage et à la production audiovisuelle.
 
-> **📝 Note du curateur :** Le chemin entre le fait d'être « filmé pour faire rire le public » et celui de « décider comment l'œuvre est vue » n'est pas séparé par la renommée, mais par l'ensemble des compétences de travail.
+> **📝 Note du commissaire :** Le passage de « être filmé pour faire rire » à « décider comment une œuvre est vue » ne relève pas de la célébrité, mais d'une véritable compétence professionnelle.
 
-## Conclusion : Trois degrés reste Trois degrés
+## Conclusion : 3°C reste 3°C
 
-L'histoire de San Du C peut commencer par une salle de bain très froide, ou par une chaîne à un million d'abonnés. La première explique comment un nom est mémorisé, la seconde comment l'attention s'accumule. Ce qui relie les deux, c'est Xie Menghang se plaçant à plusieurs reprises dans différentes questions audiovisuelles.
+L'histoire de 3°C peut commencer dans une salle de bain glacée ou par un million d'abonnés. La première explique comment un nom est mémorisé, la seconde comment l'attention s'accumule. Ce qui relie les deux, c'est la capacité de Hsieh Meng-hang à se placer, encore et encore, au cœur de différentes problématiques visuelles.
 
-Il peut devenir la personne évaluée dans l'expérience de style de rue, ou se placer derrière la caméra dans un clip musical. Il peut faire rire par des mèmes et des défis, mais doit aussi gérer le trafic, les trolls, les goulots d'étranglement et le rythme de travail. Ce ne sont pas des notes de bas de page de l'« aura d'influenceur », mais le métier de créateur lui-même.
+Il peut être le sujet d'un jugement dans une expérience de mode, ou se tenir derrière la caméra pour un clip musical. Il peut faire rire avec des mèmes, tout en gérant le trafic, les critiques et le rythme de travail. Ce ne sont pas des détails annexes à son statut d'influenceur, mais les composantes mêmes de sa profession.
 
-Ainsi, San Du C n'est pas seulement le propriétaire du nom « Trois degrés ». C'est plutôt un échantillon de travail dans la culture internet taïwanaise : transformer une blague privée en personnage public, puis décomposer ce personnage public en planification, tournage, montage et coopération. De l'eau froide à 3 degrés Celsius au dernier montage avant la mise en ligne d'une vidéo, ce chemin n'a jamais été accompli par une seule idée magique.
+Ainsi, 3°C n'est pas seulement le propriétaire du nom « 3 degrés ». Il est un modèle de travail de la culture web taïwanaise : transformer une blague privée en un rôle public, puis décomposer ce rôle en planification, tournage, montage et collaboration. De l'eau froide à 3 °C au dernier montage avant la mise en ligne, ce parcours n'a jamais reposé sur une idée magique, mais sur un travail constant.
 
 ## Références
 
-[^1]: [Les 100 plus grands influenceurs de 2021 San Du : Adore travailler et grandir avec les fans | Mingbao News](https://mol.mcu.edu.tw/2021%E7%99%BE%E5%A4%A7%E7%B6%B2%E7%B4%85%E4%B8%89%E5%BA%A6%E3%80%80%E7%86%B1%E6%84%9B%E5%B7%A5%E4%BD%9C%E5%92%8C%E7%B2%89%E7%B5%B2%E4%B8%80%E8%B5%B7%E6%88%90%E9%95%B7/) — Voir les compléments de données dans le lien original
+[^1]: [Les 100 meilleurs influenceurs de 2021 : 3°C, passionné par son travail et grandissant avec ses fans | Ming Pao News](https://mol.mcu.edu.tw/2021%E7%99%BE%E5%A4%A7%E7%B6%B2%E7%B4%85%E4%B8%89%E5%BA%A6%E3%80%80%E7%86%B1%E6%84%9B%E5%B7%A5%E4%BD%9C%E5%92%8C%E7%B2%89%E7%B5%B2%E4%B8%80%E8%B5%B7%E6%88%90%E9%95%B7/) — Voir les détails dans le lien original.
 
-[^2]: [De l'apprenti coiffeur au YouTuber à un million d'abonnés ! Le chemin de création à temps plein de San Du C 《KOL Economics》 | 1111 Human Resources Bank](https://www.1111.com.tw/news/jobns/159537) — Voir les compléments de données dans le lien original
+[^2]: [D'apprenti coiffeur à YouTuber d'un million d'abonnés ! Le parcours de création de 3°C « L'économie des KOL » | 1111 Job Bank](https://www.1111.com.tw/news/jobns/159537) — Voir les détails dans le lien original.
 
-[^3]: [Marque de luxe à 80 000 yuans vs tenue à 1 500 yuans à choisir pour les filles : Résultats du test, l'influenceur s'effondre : Problème d'« apparence » | Dongsen Entertainment](https://ent.ebc.net.tw/buzz/122430) — Voir les compléments de données dans le lien original
+[^3]: [Marque tendance à 80 000 NT$ vs tenue à 1 500 NT$ : les femmes choisissent, l'influenceur est dévasté par la question du « physique » | EBC Entertainment](https://ent.ebc.net.tw/buzz/122430) — Voir les détails dans le lien original.
 
-[^4]: [Marque de luxe à 80 000 yuans vs tenue à 1 500 yuans à choisir pour les filles : Résultats du test, l'influenceur s'effondre : Problème d'« apparence » | Reproduction Yahoo News](https://tw.news.yahoo.com/8%E8%90%AC%E6%BD%AE%E7%89%8Cvs-1500%E5%85%83%E7%A9%BF%E6%90%AD%E7%B5%A6%E5%A5%B3%E7%94%9F%E9%81%B8-%E5%AF%A6%E6%B8%AC%E7%B5%90%E6%9E%9C%E7%B6%B2%E7%B4%85%E5%B4%A9%E6%BD%B0-%E9%95%B7%E7%9B%B8-%E5%95%8F%E9%A1%8C-095458302.html) — Rapport de Yahoo News
+[^4]: [Marque tendance à 80 000 NT$ vs tenue à 1 500 NT$ : les femmes choisissent, l'influenceur est dévasté par la question du « physique » | Reprise Yahoo News](https://tw.news.yahoo.com/8%E8%90%AC%E6%BD%AE%E7%89%8Cvs-1500%E5%85%83%E7%A9%BF%E6%90%AD%E7%B5%A6%E5%A5%B3%E7%94%9F%E9%81%B8-%E5%AF%A6%E6%B8%AC%E7%B5%90%E6%9E%9C%E7%B6%B2%E7%B4%85%E5%B4%A9%E6%BD%B0-%E9%95%B7%E7%9B%B8-%E5%95%8F%E9%A1%8C-095458302.html) — Rapport de Yahoo News.
 
-[^5]: [Ji Xinqiao (Qiao Qiao ER QQE) « La météore traverse » | Brook Image Culture Co., Ltd.](https://m9535453m.com/631/) — Voir les compléments de données dans le lien original
+[^5]: [Ji Xinqiao (Qiao Qiao Er QQE) 〈Meteor Passing〉 | Brook Visual Culture Co., Ltd.](https://m9535453m.com/631/) — Voir les détails dans le lien original.
 
-[^6]: [Hui Chun Dan « Fleurs » | Faux clip musical MV | Brook Image Culture Co., Ltd.](https://m9535453m.com/626/) — Voir les compléments de données dans le lien original
+[^6]: [Mayday 〈Fresh Flowers〉 | Faux clip musical MV | Brook Visual Culture Co., Ltd.](https://m9535453m.com/626/) — Voir les détails dans le lien original.
 
-[^7]: [Nuit de photographie classique sur la vieille rue de Yingge | Document d'événement | Brook Image Culture Co., Ltd.](https://m9535453m.com/643/) — Voir les compléments de données dans le lien original
+[^7]: [Nuit de photographie dans la vieille rue de Yingge | Archives d'événements | Brook Visual Culture Co., Ltd.](https://m9535453m.com/643/) — Voir les détails dans le lien original.
 
-[^8]: [Magnat des pigeons voyageurs | Vidéo de marque | Brook Image Culture Co., Ltd.](https://m9535453m.com/649/) — Voir les compléments de données dans le lien original
+[^8]: [Le magnat des pigeons voyageurs | Vidéo d'image de marque | Brook Visual Culture Co., Ltd.](https://m9535453m.com/649/) — Voir les détails dans le lien original.
 
 ### Licence des images
 
-L'image utilise [File:'20210501 Taipei Night Skyline.jpg](https://commons.wikimedia.org/wiki/File:%2720210501_Taipei_Night_Skyline.jpg) de Wikimedia Commons, auteur Mao Mao Da Shao Ye, sous licence [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). L'image est intégrée via l'URL chaude de Wikimedia Commons, sans téléchargement, sans modification, et sans stockage dans le dossier `public/article-images/` de Taiwan.md.
+L'image provient de Wikimedia Commons : [File:'20210501 Taipei Night Skyline.jpg](https://commons.wikimedia.org/wiki/File:%2720210501_Taipei_Night_Skyline.jpg), auteur Mao Mao Da Shao Ye, sous licence [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). L'image est intégrée via l'URL directe de Wikimedia Commons, sans téléchargement ni modification, et n'est pas stockée dans le répertoire `public/article-images/` de Taiwan.md.
