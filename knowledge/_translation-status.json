@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-26T13:19:32+08:00",
-    "zhCommitHead": "50bcba755e",
+    "lastUpdated": "2026-11-26T15:50:47+08:00",
+    "zhCommitHead": "41ae2c7715",
     "totalZh": 1194,
     "activeLanguages": [
       "en",
@@ -60,8 +60,8 @@
       },
       "vi": {
         "total_zh": 1194,
-        "fresh": 1184,
-        "stale": 10,
+        "fresh": 1185,
+        "stale": 9,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
@@ -111198,8 +111198,8 @@
           "sourceContentHash": "sha256:e967fd4cff734536",
           "sourceBodyHash": "sha256:1978cbe0e37b1512",
           "translatedAt": "2026-11-26T10:17:25+08:00",
-          "translationLastCommit": "a3ec9a54",
-          "translationLastModified": "2026-10-10T23:43:08+08:00",
+          "translationLastCommit": "41ae2c77",
+          "translationLastModified": "2026-11-26T13:19:32+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "bytes": 21025,
@@ -168244,18 +168244,18 @@
         "vi": {
           "path": "vi/Food/eel-noodles.md",
           "translatedFrom": "Food/鱔魚意麵.md",
-          "sourceCommitSha": "03b3aaae8",
-          "sourceContentHash": "sha256:81213e22c8b81c39",
-          "sourceBodyHash": "sha256:7eb60f7eb1751d17",
-          "translatedAt": "2026-09-22T02:06:15+08:00",
+          "sourceCommitSha": "be13f04522",
+          "sourceContentHash": "sha256:dd1dd6c92c65eddb",
+          "sourceBodyHash": "sha256:33bbf00febca421e",
+          "translatedAt": "2026-11-26T05:17:08.401880+00:00",
           "translationLastCommit": "43ef7396",
           "translationLastModified": "2026-09-22T04:22:05+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "bytes": 9922,
+          "footnoteDefs": 24,
+          "bytes": 44836,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (24→0)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Food/eel-noodles.md",
