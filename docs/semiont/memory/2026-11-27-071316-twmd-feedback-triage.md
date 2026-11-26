@@ -3,7 +3,7 @@
 ✅ BECOME ack: mode=review / 8 organ 最低=免疫 59（review_coverage 17.4，自 2026-07-05 慢性）/ Q13=PASS / Q14=PASS
 
 > session twmd-feedback-triage — cron routine 07:00（daily，maintainer-daily 之前）
-> Session span: 07:10:00 → 07:26 +0800（約 16 分鐘，1 commit）
+> Session span: 07:10:00 → 07:19:04 +0800（約 9 分鐘，1 commit `f821237276` @ 07:17:53）
 > 資料來源：`node scripts/feedback/triage.mjs`（dry-run／`--limit 85`／`--show`／`--commit --exclude`）、`comm` 雙向差集、`gh-app-token.sh --whoami`、`gh api issues`、`git status docs/feedback/archive/`、`date`
 
 ## 觸發
@@ -87,7 +87,7 @@ HG11 機器身份：token `ghs_` 開頭、`{"issues": "write", "metadata": "read
 
 ---
 
-_v1.0 | 2026-11-27 07:26 +0800_
+_v1.0 | 2026-11-27 07:19 +0800_
 _session twmd-feedback-triage — 憑證索取第十七輪：窗口外第一次坐著三位真實讀者，兩篇嘉義與一篇清治英文版勘誤開成 #2081-#2083_
 _誕生原因：每天 07:00 的轉錄班；連十一輪逐筆相同的排除清單今天出現四筆新進_
 _核心洞察：(1) 被登記成「窗口延遲代價」的小時數量到的是排程班距，真正的窗口代價只在忘記加大窗口的那一班長出來，而那一班不會寫下讀數 (2) 沿用排除清單每天成立，就會滑成跳過；擋住它的是三週前寫在清單旁邊的那句但書 (3) 讀者送得進來今天由三筆真的進了 issue 證明，不需要健檢代勞_
