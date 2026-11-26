@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-26T09:48:20+08:00",
-    "zhCommitHead": "d6926b7c92",
+    "lastUpdated": "2026-11-26T11:34:58+08:00",
+    "zhCommitHead": "0b7d84d19e",
     "totalZh": 1194,
     "activeLanguages": [
       "en",
@@ -84,9 +84,9 @@
       },
       "hi": {
         "total_zh": 1194,
-        "fresh": 1182,
+        "fresh": 1183,
         "stale": 10,
-        "metadata_stale": 2,
+        "metadata_stale": 1,
         "missing": 0,
         "orphan": 0
       },
@@ -104926,8 +104926,8 @@
           "sourceContentHash": "sha256:512116c709aae71c",
           "sourceBodyHash": "sha256:41b6c45553399776",
           "translatedAt": "2026-11-26T07:15:35+08:00",
-          "translationLastCommit": "f4892bab",
-          "translationLastModified": "2026-09-19T11:51:58+08:00",
+          "translationLastCommit": "0b7d84d1",
+          "translationLastModified": "2026-11-26T09:48:21+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "bytes": 19853,
@@ -135124,20 +135124,18 @@
         "hi": {
           "path": "hi/People/yu-yong-he.md",
           "translatedFrom": "People/郁永河.md",
-          "sourceCommitSha": "22286539e",
+          "sourceCommitSha": "eaf22e5cf8",
           "sourceContentHash": "sha256:4070459913f1808f",
           "sourceBodyHash": "sha256:f14cb1a2a50dc23e",
-          "translatedAt": "2026-11-04T21:22:35.678139+00:00",
+          "translatedAt": "2026-11-26T01:59:19.592347+00:00",
           "translationLastCommit": "b0c74f5a",
           "translationLastModified": "2026-11-05T05:25:21+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "bytes": 31238,
+          "bytes": 32641,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/yu-yong-he.md",
