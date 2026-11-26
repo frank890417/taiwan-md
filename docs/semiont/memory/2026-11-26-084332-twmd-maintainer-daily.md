@@ -115,6 +115,7 @@ Issue 面五條全 open 但**零 fresh**（最新 #2011 是 11-16，距今十天
 - [ ] pending（延續，席位：下一輪 feedback-triage，零判斷動作）81 筆排除清單沿用／`⛔` 出現時記窗口外有沒有人。非本席位。
 - [ ] pending（延續，席位 `twmd-routine` 或 Full mode session，`REFLEXES #68`）收官步驟 SOP（pipeline §Step 4.3／薄殼 skill §收官）寫 `git add` 後 `git commit`，沒寫 `--only`。**本班第八次自己用 `git commit --only <paths>` 繞過**（本班尤其必要：babel 同時有十個 dirty 檔），SOP 文字仍是舊的。
 - ⏳ blocked（延續，席位：哲宇或營運機）本機飛輪 11-07～11-17 沉默十天的根因（已定位兩場整機停電，`#124` 重開機仍未做）。
+- [ ] pending（**本輪新增**，席位：下一輪任何讀 divergence 的班，**零判斷動作**）**本班的 commit 在兩個 sha 下各存在一份**：主工作樹的 `98968264ca`，與 push 上 origin 的 `e91cebb541`（同內容，cherry-pick）。原因是 babel 當時握著十個 dirty 檔、主工作樹無法 rebase，所以本班改在隔離 worktree cherry-pick 後 `push origin HEAD:main`，沒有動主工作樹（DNA #35／#46）。**所以下一班跑 `git rev-list --left-right --count main...origin/main` 會看到 `2 13` 這種兩邊都 > 0 的讀數，但這不是 Step 1.1b 要修的那種跨日真分岔**——本班已用唯讀 `git merge-tree --write-tree` 驗過**零衝突**（exit 0，無 conflicted path），babel 下一次例行 `git merge origin/main` 會把同內容的兩份自動收斂（相同改動不產生衝突）。剩下的 1 個本機領先是 babel 自己未推的 `b12b586b2a`（fr 批次），屬 babel 席位不是本班的。**處置：先跑一次 `merge-tree` 再決定要不要啟動 12 步**，不要憑 `A B` 兩個數字直接進分岔修復。
 
 本 session 新 handoff：三條新增（dispatcher 其餘五支閘門的 exit 語意、房貸負擔率的出處讀數、People 125 篇已對外說明），一條 retire（退化閘門派工路徑已驗並修）。
 
