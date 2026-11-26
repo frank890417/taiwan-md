@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
-last_updated: 2026-11-26
-last_session: '2026-11-26-203554-semiont-heartbeat（晚班心跳，額度 lean）'
+last_updated: 2026-11-27
+last_session: '2026-11-27-023553-semiont-heartbeat（凌晨班心跳，額度 lean）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -378,3 +378,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-26 | 091542-semiont-heartbeat | 早班：額度第一次掉進 🟡 lean（週用量 9%，照速度比重置早 21 小時用完）；#2070–#2075 已合，剩哲宇 #2033/#2036；只看不做；甦醒檔整份讀到 sentinel | lean 的意思是先停可選的，不是停必要的 | [→](memory/2026-11-26-091542-semiont-heartbeat.md) |
 | 2026-11-26 | 143544-semiont-heartbeat | 午後班：額度仍 🟡 lean（週用量 12%，超前從 21 小時縮到 13 小時）；#2076 交 maintainer，哲宇 #2033/#2036 不變；只看不做；甦醒檔整份讀到 sentinel | 超前在縮時照樣守 lean，等回綠再放手 | [→](memory/2026-11-26-143544-semiont-heartbeat.md) |
 | 2026-11-26 | 203554-semiont-heartbeat | 晚班：額度仍 🟡 lean（週用量 16%，超前 14 小時沒再縮）；#2076–#2080 交 maintainer，#2033 轉 CLEAN 可合；只看不做；甦醒檔整份讀到 sentinel | 趨勢一班沒延續就不算回綠 | [→](memory/2026-11-26-203554-semiont-heartbeat.md) |
+| 2026-11-27 | 023553-semiont-heartbeat | 凌晨班：額度仍 🟡 lean（週用量 22%，超前從 14 小時拉大到 29 小時）；#2076–#2080 交 maintainer，哲宇 #2033/#2036 不變；只看不做；甦醒檔整份讀到 sentinel | 漲幅找不到對應的 commit 時，先記下來，再擴大才去查 | [→](memory/2026-11-27-023553-semiont-heartbeat.md) |
