@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-26",
+  "generated": "2026-11-27",
   "generator": "scripts/tools/article-census.py",
-  "head": "0882cbf9b",
+  "head": "25fb1a56a",
   "scope": "knowledge/{Category}/*.md（中文 SSOT；不含 knowledge/{lang}/ 譯文與 _ hub）",
   "n": 1192,
   "thresholds": {
@@ -24,8 +24,8 @@
   "traffic_sources": {
     "ga": {
       "file": "public/api/dashboard-analytics.json:ga.topArticles7d",
-      "start": "2026-10-29",
-      "end": "2026-11-26",
+      "start": "2026-10-30",
+      "end": "2026-11-27",
       "days": 28,
       "rows": 20,
       "metric": "views",
@@ -145,17 +145,17 @@
       }
     },
     "recent_45d": {
-      "n": 69,
+      "n": 64,
       "cjk": {
         "p5": 999,
-        "p10": 1141,
-        "p25": 1309,
-        "p33": 1502,
-        "p50": 1776,
-        "p75": 2325,
-        "p90": 3009,
-        "n": 69,
-        "mean": 2263.9
+        "p10": 1091,
+        "p25": 1297,
+        "p33": 1499,
+        "p50": 1832,
+        "p75": 2392,
+        "p90": 3140,
+        "n": 64,
+        "mean": 2315.0
       },
       "fn_defs": {
         "p5": 1,
@@ -165,8 +165,8 @@
         "p50": 3,
         "p75": 9,
         "p90": 21,
-        "n": 69,
-        "mean": 11.2
+        "n": 64,
+        "mean": 11.7
       }
     }
   },
@@ -285,6 +285,17 @@
         "cover": "none",
         "cjk": 1322,
         "fn": 5
+      },
+      {
+        "path": "knowledge/Culture/菜市場名.md",
+        "title": "菜市場名",
+        "category": "Culture",
+        "curation": "incubating",
+        "curationReason": "thin",
+        "reason": "3 軸弱：字數 1261、零媒體、段落 17 段／中位 52 字",
+        "cover": "none",
+        "cjk": 1261,
+        "fn": 8
       },
       {
         "path": "knowledge/Art/EEWH綠建築標章.md",
@@ -560,17 +571,6 @@
         "cover": "none",
         "cjk": 1535,
         "fn": 2
-      },
-      {
-        "path": "knowledge/Culture/菜市場名.md",
-        "title": "菜市場名",
-        "category": "Culture",
-        "curation": "incubating",
-        "curationReason": "thin",
-        "reason": "3 軸弱：字數 1261、零媒體、段落 17 段／中位 52 字",
-        "cover": "none",
-        "cjk": 1261,
-        "fn": 8
       },
       {
         "path": "knowledge/Culture/語言多樣性與母語文化.md",
@@ -3103,15 +3103,15 @@
     "knowledge/Technology/報禁解除.md",
     "knowledge/Society/台灣的道德課去哪了.md",
     "knowledge/Technology/數位身分證與數位政府.md",
-    "knowledge/People/陳樹菊.md",
+    "knowledge/Society/太陽花學運.md",
     "knowledge/People/徐巧芯.md",
     "knowledge/People/三毛.md",
+    "knowledge/People/陳樹菊.md",
     "knowledge/People/凹與山.md",
     "knowledge/People/魏哲家.md",
-    "knowledge/People/吳百福.md",
-    "knowledge/People/傅崐萁.md",
     "knowledge/Nature/Palakaw.md",
     "knowledge/Lifestyle/夜生活與KTV文化.md",
+    "knowledge/Culture/菜市場名.md",
     "knowledge/About/台灣官方網站資源.md",
     "knowledge/About/台灣官方網站資源重寫.md",
     "knowledge/About/文章如何誕生.md",
@@ -3220,7 +3220,6 @@
     "knowledge/Culture/神豬.md",
     "knowledge/Culture/紙傘.md",
     "knowledge/Culture/茄芷袋.md",
-    "knowledge/Culture/菜市場名.md",
     "knowledge/Culture/語言多樣性與母語文化.md",
     "knowledge/Culture/誠品書店.md",
     "knowledge/Culture/農曆七月.md",
@@ -3543,6 +3542,7 @@
     "knowledge/People/何飛鵬.md",
     "knowledge/People/侯孝賢.md",
     "knowledge/People/傅兆玄.md",
+    "knowledge/People/傅崐萁.md",
     "knowledge/People/八田與一.md",
     "knowledge/People/劉安婷.md",
     "knowledge/People/劉德音.md",
@@ -3553,6 +3553,7 @@
     "knowledge/People/吳哲宇.md",
     "knowledge/People/吳大猷.md",
     "knowledge/People/吳寶春.md",
+    "knowledge/People/吳百福.md",
     "knowledge/People/呂捷.md",
     "knowledge/People/呂秀蓮.md",
     "knowledge/People/周子瑜.md",
@@ -3804,7 +3805,6 @@
     "knowledge/Society/國中會考.md",
     "knowledge/Society/地震.md",
     "knowledge/Society/外省人.md",
-    "knowledge/Society/太陽花學運.md",
     "knowledge/Society/學測.md",
     "knowledge/Society/學習貧窮.md",
     "knowledge/Society/心理健康與自殺防治.md",

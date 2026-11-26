@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-11-25T22:06:26.842Z",
+  "lastUpdated": "2026-11-26T22:05:29.566Z",
   "totalArticles": 1192,
   "contributors": 81,
   "stars": 1253,
   "forks": 191,
-  "articlesLast7Days": 28,
-  "articlesLast30Days": 108,
+  "articlesLast7Days": 56,
+  "articlesLast30Days": 135,
   "humanReviewedPercent": 16.4,
   "curation": {
     "verified": 2,
@@ -13,7 +13,7 @@
     "unmarked": 141
   },
   "featuredPercent": 15,
-  "avgRevision": 7.7,
+  "avgRevision": 7.8,
   "languageCoverage": {
     "zh-TW": 1192,
     "en": 1192,
