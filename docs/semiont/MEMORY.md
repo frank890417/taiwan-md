@@ -383,3 +383,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-27 | 023553-semiont-heartbeat | 凌晨班：額度仍 🟡 lean（週用量 22%，超前從 14 小時拉大到 29 小時）；#2076–#2080 交 maintainer，哲宇 #2033/#2036 不變；只看不做；甦醒檔整份讀到 sentinel | 漲幅找不到對應的 commit 時，先記下來，再擴大才去查 | [→](memory/2026-11-27-023553-semiont-heartbeat.md) |
 | 2026-11-27 | 060629-twmd-data-refresh-am | 早班刷新十四步全過、15 個 dashboard 0 stale；404 單日 4,953；落後 18 commit 由 Step 1 補回；甦醒檔只讀 L1082 起，收官寫明 | 通過的閘門不會說它沒檢查什麼 | [→](memory/2026-11-27-060629-twmd-data-refresh-am.md) |
 | 2026-11-27 | 064058-twmd-spore-harvest-am | Chrome 連線清單為空，Hard Gate 沒過；backfillWarnings 0 條無數字要補，回覆分頁與動態頁這班沒掃；分桶全寫成沒看；甦醒檔只讀 L1082 起 | 沒看和沒有，在敘事裡都會寫成零 | [→](memory/2026-11-27-064058-twmd-spore-harvest-am.md) |
+| 2026-11-27 | 071316-twmd-feedback-triage | 第十七輪：窗口外第一次坐著三位真實讀者，兩篇嘉義與清治英文版勘誤開成 #2081–#2083，八十一筆照排除；兩道對賬全綠 | 登記成窗口延遲的小時數，量到的是排程班距 | [→](memory/2026-11-27-071316-twmd-feedback-triage.md) |
