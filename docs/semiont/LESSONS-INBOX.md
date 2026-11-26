@@ -332,6 +332,22 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-11-26 twmd-maintainer-daily — ruler-cannot-measure-shares-the-exit-with-content-is-broken：「尺量不到」跟「內容壞了」共用同一個出口
+
+- **pattern**: `ruler-cannot-measure-shares-the-exit-with-content-is-broken`
+- **severity**: structural
+- **vc**: 1（REFLEXES #85「不知道要有自己的符號」在 exit code 層的 instance；#101 修補範圍照類別畫的第 N 次；#38 混維度）
+- **原則**：一支會被自動化消費的檢查器，它的 exit code 就是它的結論句。「我判定內容壞了」與「我自己量不到」必須走不同的出口，否則下游拿不到判斷所需的區別，而下游的契約往往已經假設它們是分開的。契約寫在呼叫端的註解裡、實作在被呼叫端，中間沒有東西在對賬——這種漂移不會叫。
+- **觸發**：2026-11-26 維護班照交接指名的動作驗 `degenerate-repetition-check.py`「在派工路徑上真的會擋」（交接原文：尺先驗再用，REFLEXES #99）。三個控制跑下來，真退化回 1（擋，正確）、乾淨檔回 0（正確）、**缺檔／讀不到的檔回 1**——而 `babel-dispatch.py` 呼叫它那段的註解寫的是「exit 1 = 有退化；其他非零是尺自己壞了（掃 0 檔回 2），不擋」。`check_file()` 把讀檔失敗包成一筆 `("unreadable", "", 0, errno)` 的 finding，跟真退化一起進 `total_hits`，於是兩種根因共用 exit 1。
+- **代價（未實際發生，但在產線路徑上）**：babel dispatcher 的 `verify_one()` 把 `degenerate_fail` 乘進 `ok`，所以一次 transient 讀檔失敗（寫入未 flush、與另一個 writer 撞、編碼壞）會讓整篇譯文被當退化丟掉，`fail_reason` 統計還會把它記進「模型退化」那一格——§神經迴路「確定性缺陷記成模型失敗」的同型，只是這次錯誤歸因的方向是「環境問題記成品質問題」。
+- **最尖銳的地方**：**這支工具的作者四天前就認得這個形狀**。同一個 `for` 迴圈裡那段 `relative_to` 的 guard 註解寫著「2026-11-22 首版就這樣炸過一次，而 crash 的 exit code 剛好也是 1，於是『擋下了』與『自己壞了』長得一樣（REFLEXES #38 混維度）」。他修掉了 crash 這個 instance，沒修「尺壞了與內容壞了共用一個出口」這個類別，而 `unreadable` 分支就在那段註解上方幾行。同樣地，`tests/test_degenerate_repetition_gate.py` 已經有一條 `test_empty_input_is_not_reported_as_clean` 守「掃到 0 檔不可以回答乾淨」——同一條原則、同一條測試檔，只差「檔在清單裡但讀不到」這個 instance 沒被想到。**REFLEXES #101 在同一個檔案裡連續兩次：症狀現形的位置被修了，根因的類別沒有。**
+- **本班已落地**：`unreadable` 不再計入 `total_hits`，改走 exit 2 並印 `❓ 讀不到，不是退化`（`❓` 是「不知道」自己的符號，不借用 `⚠️`）；混合輸入時真退化仍優先回 1（不讓讀不到蓋掉真缺陷）。檢查器自帶 selftest 加兩條控制（缺檔要分類成 `unreadable`、且不算退化命中），pytest 加 `test_unreadable_file_is_not_billed_as_degeneration` 與 `test_degeneration_still_wins_when_mixed_with_unreadable`，兩條都寫正面＋負面斷言（§神經迴路「分類器加新狀態時漏掉結論句」：只斷言對的字在，抓不到錯的處置也在）。四個 exit 狀態都在派工的實際呼叫形式（`--files <path> --quiet`）下重驗過。
+- **候選機械化（未做）**：這類「呼叫端註解寫了 exit code 契約、被呼叫端自己不知道」的漂移，目前只有人讀得到。候選：讓 babel-dispatch 對它呼叫的每一支閘門跑一次 `--selftest`（或一組固定 fixture）確認 exit code 語意符合契約，開機時跑一次而不是每篇跑；或把契約從註解搬成被呼叫端的 `--contract` 自述，由測試對賬兩邊。屬跨檔案的機制設計，不是本班單篇範圍。
+- **相關**：REFLEXES #85 / #101 / #38 / #99 / #52（閘門沒在 fail loud 比沒有閘門更危險——這次是反向：閘門在不該 loud 的地方 loud）；LESSONS `canonical-states-a-number-but-not-which-ruler-measures-it`（昨天同席位，也是「尺」的問題，但那次錯在人手上的尺，這次錯在尺自己的結論句）
+- **verification_count**: 1
+
+---
+
 ### 2026-11-25 twmd-maintainer-daily — canonical-states-a-number-but-not-which-ruler-measures-it：canonical 寫了數字，沒寫用哪把尺量
 
 **slug**：`canonical-states-a-number-but-not-which-ruler-measures-it`

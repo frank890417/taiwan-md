@@ -59,6 +59,49 @@ def test_empty_input_is_not_reported_as_clean():
     assert r.returncode == 2, f"掃 0 檔應回 2，實回 {r.returncode}：{r.stdout}"
 
 
+def test_unreadable_file_is_not_billed_as_degeneration(tmp_path):
+    """讀不到的檔要回 2（尺量不到），不可以回 1（有退化）。
+
+    2026-11-26 維護班照交接驗「它在派工路徑上真的會擋」時發現的：`check_file()`
+    把讀檔失敗包成一筆 `("unreadable", "", 0, errno)` 的 finding，跟真的退化一起
+    進 `total_hits`，於是 exit 1。而 `babel-dispatch.py` 呼叫它那段的契約寫的是
+    「exit 1 = 有退化；其他非零是尺自己壞了（掃 0 檔回 2），不擋」——所以一次
+    transient 讀檔失敗（寫入未 flush、與另一個 writer 撞、編碼壞）會被記成品質
+    判決 `degenerate_fail`，整篇譯文照退化處置丟掉，`fail_reason` 統計還會把它
+    算進「模型退化」那一格（§神經迴路「確定性缺陷記成模型失敗」同型）。
+
+    上面那條 `test_empty_input_is_not_reported_as_clean` 守的是同一條原則的另一個
+    instance（掃到 0 檔），本條補的是「檔在清單裡但讀不到」——REFLEXES #101
+    修補範圍照根因的類別畫，不照症狀現形的位置畫。
+    """
+    missing = tmp_path / "does-not-exist.md"
+    r = subprocess.run(
+        [sys.executable, str(CHECKER), "--files", str(missing), "--quiet"],
+        cwd=REPO, capture_output=True, text=True,
+    )
+    assert r.returncode == 2, (
+        f"讀不到的檔應回 2（尺量不到），實回 {r.returncode}；"
+        f"回 1 會讓 dispatcher 把它當退化處置\n{r.stdout}"
+    )
+    # 負面斷言跟正面斷言一起寫：只斷言「對的字在」抓不到「錯的處置也在」
+    # （§神經迴路「分類器加新狀態時漏掉結論句」）。
+    assert "處退化重複" not in r.stdout, f"讀不到被講成退化重複：\n{r.stdout}"
+
+
+def test_degeneration_still_wins_when_mixed_with_unreadable(tmp_path):
+    """同一批裡既有真退化又有讀不到時，要回 1 不回 2——別讓讀不到蓋掉真缺陷。"""
+    bad = tmp_path / "bad.md"
+    bad.write_text(
+        "---\ndescription: '" + "tên " * 49 + "'\n---\nbody\n", encoding="utf-8"
+    )
+    r = subprocess.run(
+        [sys.executable, str(CHECKER), "--files",
+         str(bad), str(tmp_path / "nope.md"), "--quiet"],
+        cwd=REPO, capture_output=True, text=True,
+    )
+    assert r.returncode == 1, f"真退化應回 1，實回 {r.returncode}：\n{r.stdout}"
+
+
 def _git_show(rev: str, path: str) -> str:
     r = subprocess.run(
         ["git", "show", f"{rev}:{path}"], cwd=REPO, capture_output=True, text=True

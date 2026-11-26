@@ -170,11 +170,32 @@ def selftest() -> bool:
         for i, (name, fm, body, expect) in enumerate(cases):
             tmp = Path(td) / f"case{i}.md"
             tmp.write_text(f"---\n{fm}\n---\n{body}", encoding="utf-8")
-            got = bool(check_file(tmp))
+            # 只數真的退化：unreadable 是「尺量不到」不是命中（見 main() 那段註解）
+            got = any(w != "unreadable" for w, _, _, _ in check_file(tmp))
             mark = "✅" if got == expect else "❌"
             if got != expect:
                 ok = False
             print(f"  {mark} {name}: 命中={got} 預期={expect}")
+
+        # 讀不到 vs 退化 要分得開（2026-11-26 維護班驗派工路徑時補）：
+        # 這兩種在 2026-11-22 首版共用 exit 1，所以一次 transient 讀檔失敗
+        # 會讓 babel-dispatch 把整篇譯文當退化丟掉。負面斷言跟正面斷言一起寫，
+        # 因為只斷言「對的那句在」抓不到「錯的處置也在」
+        # （§神經迴路「分類器加新狀態時漏掉結論句」）。
+        print("🧪 讀不到 vs 退化（兩個出口不可共用）")
+        missing = Path(td) / "does-not-exist.md"
+        kinds = [w for w, _, _, _ in check_file(missing)]
+        got_unreadable = kinds == ["unreadable"]
+        mark = "✅" if got_unreadable else "❌"
+        if not got_unreadable:
+            ok = False
+        print(f"  {mark} 缺檔分類成 unreadable: {kinds} 預期=['unreadable']")
+
+        got_not_degen = not any(w != "unreadable" for w in kinds)
+        mark = "✅" if got_not_degen else "❌"
+        if not got_not_degen:
+            ok = False
+        print(f"  {mark} 缺檔不算退化命中: 命中={not got_not_degen} 預期=False")
     return ok
 
 
@@ -205,9 +226,9 @@ def main() -> int:
         return 2
 
     total_hits = 0
+    unreadable: list[tuple[Path, str]] = []
     for p in sorted(set(paths)):
         for where, token, run, excerpt in check_file(p):
-            total_hits += 1
             # 倉庫外的路徑（測試的 tmp_path、隔離 worktree）不能讓 relative_to 炸掉：
             # 2026-11-22 首版就這樣炸過一次，而 crash 的 exit code 剛好也是 1，
             # 於是「擋下了」與「自己壞了」長得一樣（REFLEXES #38 混維度）。
@@ -215,14 +236,38 @@ def main() -> int:
                 rel = p.relative_to(REPO) if p.is_absolute() else p
             except ValueError:
                 rel = p
+            # 讀不到的檔不是退化：它是「尺量不到」，要走 exit 2 那個出口。
+            # 2026-11-26 維護班驗派工路徑時發現的（交接指名「確認它在派工路徑上
+            # 真的會擋」，REFLEXES #99 尺先驗再用）：讀檔失敗被 check_file 包成
+            # 一筆 ("unreadable", "", 0, errno) 的 finding，跟真的退化一起進
+            # total_hits，於是 exit 1。而 babel-dispatch.py §569 的契約寫的是
+            # 「exit 1 = 有退化；其他非零是尺自己壞了（掃 0 檔回 2），不擋」——
+            # 一次 transient 讀檔失敗（寫入未 flush、與另一個 writer 撞、編碼壞）
+            # 會被記成品質判決 degenerate_fail，整篇譯文照退化處置丟掉，
+            # 而 fail_reason 統計也會把它算進「模型退化」那一格
+            # （§神經迴路「確定性缺陷記成模型失敗」同型）。
+            # 上面那段 relative_to 註解已經認得這個形狀，但當時只修了 crash
+            # 這個 instance，沒修「尺壞了與內容壞了共用一個出口」這個類別
+            # （REFLEXES #101 修補範圍照根因的類別畫，不照症狀現形的位置畫）。
+            if where == "unreadable":
+                unreadable.append((rel, excerpt))
+                print(f"❓ {rel}")
+                print(f"    [讀不到，不是退化] {excerpt}")
+                continue
+            total_hits += 1
             print(f"⚠️  {rel}")
             print(f"    [{where}] '{token}' 連續 {run} 次 :: {excerpt!r}")
 
+    scanned = len(set(paths)) - len(unreadable)
     if total_hits:
-        print(f"\n❌ {total_hits} 處退化重複（掃 {len(set(paths))} 檔）")
+        print(f"\n❌ {total_hits} 處退化重複（掃 {scanned} 檔）")
         return 1
+    if unreadable:
+        # 讀不到就是沒量到，不能回 0 當乾淨（REFLEXES #85「不知道」要有自己的符號）
+        print(f"\n❓ {len(unreadable)} 檔讀不到——尺量不到，不當成乾淨也不當成退化")
+        return 2
     if not args.quiet:
-        print(f"✅ {len(set(paths))} 檔無退化重複")
+        print(f"✅ {scanned} 檔無退化重複")
     return 0
 
 

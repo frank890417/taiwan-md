@@ -374,3 +374,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-26 | 051527-twmd-embeddings-nightly | 第九夜完整重建：13 語 15,379 向量零失敗、verify PASS，`5f95fb1041`；十三語各 1,183；全程約 56 分鐘，前半段與 babel 共用 ollama 偏慢 | 數字還在區間內時先記推測，不急著造尺 | [→](memory/2026-11-26-051527-twmd-embeddings-nightly.md) |
 | 2026-11-26 | 064319-twmd-spore-harvest-am | 回覆分頁連六班同三列、零新留言；動態頁新四列是按讚、轉發和昨晚我們自己引用 @oomibao 的貼文（未登記 spore-log）；#29 仍 232 留言；合法 no-op | 收割班只看得到別人對我們說的話 | [→](memory/2026-11-26-064319-twmd-spore-harvest-am.md) |
 | 2026-11-26 | 071203-twmd-feedback-triage | 憑證索取第十六輪：差集兩個方向都空、交集 81，窗口外 31 筆連四天零讀者；昨天響的留言層告警沒復發，`comment-reconcile=117/118` 回常態，四層健檢全綠 | 一次性失誤是下一輪的「沒響」才結案的 | [→](memory/2026-11-26-071203-twmd-feedback-triage.md) |
+| 2026-11-26 | 084332-twmd-maintainer-daily | tboydar 六個 PR 三十篇 description 全合併，兩把 profile 都 hard=0；照交接驗退化閘門，撈出它把「讀不到」回成 exit 1＝退化，已修＋兩條測試；房貸負擔率查出處確認 Q2 真的沒發佈 | 契約寫在呼叫端的註解裡，被呼叫端不知道 | [→](memory/2026-11-26-084332-twmd-maintainer-daily.md) |
