@@ -1,16 +1,16 @@
 ---
-title: "Chu Tien-wen : Taipei 1956, de la revue San San au Lion d'or de Venise pour La Cité des douleurs"
-description: "Née en 1956 à Taipei, fille de Chu Hsi-ning. En 1977, cofonde la revue San San avec Hu Lan-cheng. Scénariste attitrée de Hou Hsiao-hsien, son œuvre majeure La Cité des douleurs remporte le Lion d'or à la Mostra de Venise en 1989. En 1994, Les Carnets d'un homme déserté obtient le premier prix du roman au China Times Literary Award. Parmi ses scénarios : Good Men, Good Women et Goodbye South, Goodbye."
+title: "Chu Tien-wen : Taipei 1956, de la revue « San San » au Lion d'Or de Venise pour « A City of Sadness »"
+description: "Romancière et scénariste issue d'une illustre famille littéraire de Taipei, fille du romancier Chu Hsi-ning. En 1977, elle cofonde la revue San San avec Hu Lan-cheng, et dès les années 1980, elle établit une collaboration de quarante ans en tant que co-auteuriste avec Hou Hsiao-hsien. Le scénario qu'elle a écrit pour « A City of Sadness » traite l'histoire familiale taïwanaise avec un langage poétique, remportant le Lion d'Or au Festival de Venise en 1989. En 1994, son roman « Notes d'un étranger » remporte le premier prix du Literary Times Award, illustrant sa capacité à porter tant le cinéma que la littérature par sa plume."
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Littérature',
-    'Scénariste de cinéma',
+    'littérature',
+    'scénariste',
     'Hou Hsiao-hsien',
     'Chu Hsi-ning',
-    'Littérature San San',
-    "Carnets d'un homme déserté",
+    'littérature San San',
+    "Notes d'un étranger",
   ]
 subcategory: '文學'
 author: 'Taiwan.md'
@@ -21,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/朱天文.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '2a5b98d9cd'
 sourceContentHash: 'sha256:13c80c1f151f5c3e'
 sourceBodyHash: 'sha256:bf6107b943cdb54e'
-translatedAt: '2026-11-04T21:46:47.753873+00:00'
+translatedAt: '2026-11-26T23:59:29.068324+00:00'
 ---
 
 # Chu Tien-wen : Taipei 1956, de la revue San San au Lion d'or de Venise pour La Cité des douleurs

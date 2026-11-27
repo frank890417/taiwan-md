@@ -1,6 +1,6 @@
 ---
-title: 'Wu Bai : depuis le village de Suantou dans le canton de Lioujiao, 30 ans de rock en taïwanais sans compromis'
-description: "Son vrai nom est Wu Chun-lin, né en 1968 dans le village de Suantou, canton de Lioujiao, comté de Chiayi. Il forme « Wu Bai & China Blue » en 1992. En 1995, l'album « Norwegian Wood » pose les bases du rock en taïwanais. En 2016, il sort l'album « Dingzi Flower », et remporte en 2017 le Golden Melody Award du meilleur album en taïwanais. En 2025, il publie un nouvel album « Le Point de départ pur blanc », et la tournée ROCK STAR 2 traverse les deux rives du détroit de Taïwan."
+title: 'Wu Bai : parti du village de Suantou dans le canton de Liugou, 30 ans de rock taïwanais sans compromis'
+description: "Originaire du village de Suantou, dans le canton de Liugou, comté de Chiayi, ce chanteur de rock taïwanais a formé Wu Bai & China Blue en 1992. En 1995, avec « Norwegian Wood », il a établi la voie du rock en taïwanais. Pour lui, le taïwanais n'est pas une stratégie de positionnement, mais sa façon la plus naturelle de s'exprimer. Depuis plus de trente ans, il refuse d'être formaté par le marché. En 2016, son album « Fleur de clou » a remporté l'année suivante le Golden Melody Award du meilleur album en taïwanais. En 2025, il sort « Point de départ pur blanc » et entame la tournée ROCK STAR 2, chantant toujours sur scène avec la même grammaire."
 date: 2026-03-19
 category: 'People'
 tags:
@@ -21,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/伍佰.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '2a5b98d9cd'
 sourceContentHash: 'sha256:2dda34fc81c78056'
 sourceBodyHash: 'sha256:fb05d9869b96635c'
-translatedAt: '2026-11-04T23:27:30.690748+00:00'
+translatedAt: '2026-11-27T00:14:15.831969+00:00'
 ---
 
 # Wu Bai : parti du village de Suantou, canton de Liujiao, trente ans de rock taïwanais sans compromis

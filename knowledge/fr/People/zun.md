@@ -1,16 +1,16 @@
 ---
-title: "Zun : de la chambre de seconde à un million d'abonnés sur deux chaînes, les chroniques d'un YouTubeur adulte"
-description: "De ses premiers streams de jeux en classe de seconde à son statut de plus jeune YouTubeur à un million d'abonnés à 19 ans, Zun a porté ses deux chaînes au sommet. Une archive de quatorze années retraçant son passage à l'âge adulte entre poids de la création, tempêtes familiales et erreurs de partenariats."
+title: "Zun : de la chambre d'un collégien au succès du double canal à un million, le récit de l'âge adulte d'un YouTuber"
+description: "Créateur taïwanais ayant commencé à uploader ses streams de jeux sur YouTube dès la classe de quatrième, il est devenu à 19 ans le plus jeune YouTuber de Taïwan à atteindre le cap du million d'abonnés. À travers quatorze années d'archives publiques, son contenu a évolué du gaming vers l'expérimentation, le déballage et le quotidien. Il a confié que la popularité apporte son lot de responsabilités, et a traversé des périodes difficiles, comme l'affaire impliquant son frère Xiao Yu ou l'erreur de placement de produit avec Pocket Qi Bing. Sa chaîne secondaire a franchi le million d'abonnés fin 2024, tandis que ses vidéos sur sa nouvelle maison déplacent l'objectif vers sa vie d'adulte."
 date: 2026-07-15
 category: 'People'
 tags:
   [
     'YouTuber',
     'Zun',
-    'culture taïwanaise',
-    'créateur de contenu',
-    'vie numérique',
-    'culture numérique',
+    'Culture taïwanaise',
+    'Créateur de contenu en ligne',
+    'Vie de geek',
+    'Culture numérique',
   ]
 subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
@@ -25,10 +25,10 @@ relatedDiary: ['2026-07-15-191335-manual']
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/尊.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '2a5b98d9cd'
 sourceContentHash: 'sha256:741e9553e6d863d3'
 sourceBodyHash: 'sha256:e3564c2899c65b1e'
-translatedAt: '2026-10-15T03:31:10.018362+00:00'
+translatedAt: '2026-11-27T00:58:07.972007+00:00'
 ---
 
 > **Résumé en 30 secondes :**

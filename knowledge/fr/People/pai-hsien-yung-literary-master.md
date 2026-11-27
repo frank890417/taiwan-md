@@ -1,14 +1,14 @@
 ---
-title: 'Bai Xianyong : de « Taipei People » (1971) à la tournée du « Peony Pavilion » version jeunesse, vingt ans'
-description: "Né en 1937 à Guilin, province du Guangxi, fils de Bai Chongxi. En 1956, il étudie les langues étrangères à l'Université nationale de Taiwan et fonde, avec Wang Wenxing et d'autres, la revue « Littérature moderne ». En 1971, il publie le recueil de quatorze nouvelles « Taipei People ». En 1983, il écrit « Les Enfants du péché ». En 2003, il lance la version jeunesse du « Peony Pavilion », dont la première représentation a lieu en avril 2004, et célèbre le 20ᵉ anniversaire en 2024. Il reçoit le Prix national des arts en 2003."
+title: 'Bai Xianyong : « Taipei Ren » (1971) et vingt ans de tournée de la version jeunesse du Peony Pavilion'
+description: "L'auteur de « Taipei Ren » et « Niezi », né à Guilin, Guangxi, dont le père était le général du Kuomintang Bai Chongxi. En 1956, il intègre le département de littérature étrangère de l'Université nationale de Taïwan, où il fonde avec Wang Wenxing et Chen Ruoxi la revue « Modern Literature », introduisant le modernisme occidental dans le milieu littéraire taïwanais. Il publie en 1971 le recueil de quatorze nouvelles « Taipei Ren » et en 1983 « Niezi ». À la fin de sa vie, il se consacre à la préservation de l'opéra Kunqu ; en 2003, il reçoit le Prix national des arts et lance la version jeunesse du « Peony Pavilion », dont la première à Taipei a eu lieu en avril 2004, suivie de plus de trois cents représentations en tournée."
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Littérature',
-    'Littérature moderne',
-    'Taipei People',
-    'Les Enfants du péché',
+    'littérature',
+    'littérature moderne',
+    'Taipei Ren',
+    'Niezi',
     'Kunqu',
     'Bai Chongxi',
   ]
@@ -21,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/白先勇.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '630afb2b66'
 sourceContentHash: 'sha256:d675a47ee18feb3d'
 sourceBodyHash: 'sha256:44085a78b193e440'
-translatedAt: '2026-11-04T21:20:43.564347+00:00'
+translatedAt: '2026-11-26T23:56:52.877017+00:00'
 ---
 
 # Bai Xianyong : de « Taipei People » (1971) à la tournée du « Peony Pavilion » version jeunesse, vingt ans

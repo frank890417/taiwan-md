@@ -1,16 +1,16 @@
 ---
-title: 'Ah Shen : Pourquoi y a-t-il de nouvelles vidéos alors qu''il prétend "arrêter définitivement" après onze ans d''actualisation ?'
-description: 'En juillet 2026, la chaîne principale d''Ah Shen affichait un message disant « Je fais des vidéos par plaisir en étant retraité », tout en publiant une nouvelle vidéo Minecraft la veille. Après onze ans de mises à jour quotidiennes, pourquoi le "retrait définitif" d''il y a trois ans n''a-t-il pas été permanent ?'
+title: "A-Shen : Pourquoi de nouvelles vidéos apparaissent-elles encore après l'annonce d'un « arrêt définitif » suite à onze ans de publications quotidiennes"
+description: "Créateur de contenu gaming ayant bâti sa chaîne pendant plus de dix ans et affirmant n'avoir jamais interrompu ses publications quotidiennes durant onze années. En 2021, il a cessé le rythme quotidien pour adopter une approche plus décontractée sur YouTube. En 2023, il a annoncé l'arrêt définitif des mises à jour de sa chaîne principale, ne conservant que les diffusions en direct et l'émission produite avec Matan, Gau Shen Ma. Trois ans plus tard, sa chaîne principale réapparaît avec une vidéo longue collaboration sur Minecraft, alors que sa description indique toujours qu'il ne filme que pour son propre plaisir à la retraite. Le seul aspect de la retraite qui a été retiré est le rendez-vous fixe que les spectateurs avaient l'habitude de suivre."
 date: 2026-07-15
 category: 'People'
 tags:
   [
-    'Ah Shen',
+    'A-Shen',
     'YouTuber',
     'Minecraft',
-    'Gao Shen Ma',
-    'culture Internet Taïwanaise',
-    'travail des créateurs',
+    'Gau Shen Ma',
+    'Culture Internet Taïwanaise',
+    'Travail des Créateurs',
   ]
 subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
@@ -20,7 +20,7 @@ lastHumanReview: false
 researchReport: 'reports/research/2026-07/阿神.md'
 readingTime: 18
 image: '/article-images/people/ashan-2026-return-minecraft.webp'
-imageAlt: "Miniature officielle de Minecraft montrant deux monstres factices au centre, avec les personnages en blocs d'Ah Shen et Snow Rabbit à gauche et à droite, le titre disant « Les monstres factices les plus effrayants de Minecraft »"
+imageAlt: "Au centre de la miniature officielle de Minecraft se trouvent deux monstres de type faux humain, entourés à gauche et à droite par les personnages cubiques d'A-Shen et de Yuetou, avec le titre indiquant les faux humains les plus terrifiants de Minecraft"
 imageCredit: '阿神官方 YouTube 頻道'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.youtube.com/watch?v=60n6gPUEl7s'
@@ -38,10 +38,10 @@ rationale:
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/阿神.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '2a5b98d9cd'
 sourceContentHash: 'sha256:5d4d8978fc43c7cd'
 sourceBodyHash: 'sha256:02c4e1b3fececdae'
-translatedAt: '2026-09-23T22:11:52+08:00'
+translatedAt: '2026-11-27T00:22:47.570041+00:00'
 ---
 
 > **Aperçu de 30 secondes :** Le 15 juillet 2026, la chaîne officielle d'Ah Shen affichait 3,31 millions d'abonnés et 5 622 vidéos ; sa dernière longue vidéo en collaboration Minecraft n'avait été mise en ligne que depuis un jour, mais sa description indiquait toujours « Je fais des vidéos par plaisir en étant retraité ». Il avait déclaré avoir mis à jour quotidiennement pendant onze ans, ayant quitté le travail de YouTuber professionnel en 2021 et ayant annoncé un arrêt de publication sur sa chaîne principale en 2023, tout en maintenant les diffusions en direct et la production « Gao Shen Ma » avec Ma Tian. Ces trois statuts réunis permettent de comprendre le sens du retrait : la mise à jour quotidienne n'était plus une promesse publique, et la création ne s'était pas terminée définitivement.

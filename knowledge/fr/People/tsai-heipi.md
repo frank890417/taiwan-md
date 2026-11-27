@@ -1,14 +1,14 @@
 ---
-title: 'Tsai Heipi : Le garçon qui a grandi avec les noms de stations du métro et qui a enfermé Taïwan dans 260 000 abonnés'
-description: 'Né en 2002, Tsai Chin-an a démarré avec des « faits insolites sur le métro » appris en autodidacte au lycée ; douze ans plus tard, il monte sur la scène des Golden Road Awards, surnommés les « Oscars du transport ». Il a changé de nom, arrêté de publier, puis a repris : il gère seul les recherches, les cartes et le montage. Il est l’archétype du créateur de contenu savant taïwanais pratiquant le long terme.'
+title: 'Tsai Hei-pi : Le garçon qui a grandi avec les noms des stations de métro, et qui a fait entrer Taïwan dans les abonnements de 260 000 personnes'
+description: "YouTuber taïwanais spécialisé dans le contenu éducatif, né en 2002. Il a commencé à filmer au lycée car il trouvait que personne ne traitait le thème des transports, sa première œuvre étant des anecdotes sur le métro de Taipei. Seul, il gère la recherche de données, les cartes, l'écriture du scénario et le montage, accumulant plus de cent vidéos sur les infrastructures de transport avec sa série « Railway Bar ». Après une pause de neuf mois début 2025, il est revenu pour le douzième anniversaire de sa chaîne sous un nouveau nom, lançant la série locale « Taiwan 360 ». La même année, il a reçu le prix de contribution spéciale aux 26e Golden Road Awards, et ses vidéos ont même été intégrées dans les manuels de géographie du lycée."
 date: 2026-08-19
 category: 'People'
 tags:
   [
     'YouTuber',
-    'Transport',
-    'Créateur de contenu savant',
-    'Tsai Chin-an',
+    'Transports',
+    'Créateur de contenu éducatif',
+    'Tsai Hung-an',
     'Golden Road Awards',
     'Géographie de Taïwan',
     'Chemin de fer',
@@ -25,10 +25,10 @@ imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:2017-10-23_MRT_train_at_Platform,_Tamsui_Line.jpg'
 curation: 'incubating'
 translatedFrom: 'People/蔡黑皮.md'
-sourceCommitSha: 'e75b621d2'
+sourceCommitSha: '3f269cde5e'
 sourceContentHash: 'sha256:e43b16ae63cbdb17'
 sourceBodyHash: 'sha256:1cde30bd00a46d49'
-translatedAt: '2026-09-10T00:58:58+08:00'
+translatedAt: '2026-11-26T23:31:32.766641+00:00'
 ---
 
 > **Résumé en 30 secondes :** Tsai Chin-an (nom de chaîne « Tsai Heipi », ancien pseudo « Heipi ») est né en 2002. Au lycée, convaincu que « personne ne traitait du thème des transports », il a commencé à tourner des vidéos ; son premier épisode s’intitulait « 10 choses que vous ignorez sur le métro de Taipei ». Douze ans plus tard, il monte sur la scène des 26e Golden Road Awards, considérés comme les « Oscars du transport », et remporte le Prix de la contribution exceptionnelle. Le cœur de tension de cette histoire réside dans le fait qu’en début d’année 2025, il a annoncé l’arrêt de ses publications ; la chaîne est restée silencieuse pendant six mois, et tous pensaient qu’il disparaîtrait. Pourtant, sa série « Taïwan 360 » de retour a libéré une force encore plus profonde. Le dossier sur Wugu est apparu en page d’accueil, dépassant les 100 000 vues. Un garçon qui a grandi en mémorisant les noms de stations de métro a finalement braqué ses caméras sur les coins les plus oubliés de la carte. Cet article ne raconte pas la montée en puissance d’un influenceur, mais la façon dont un créateur a trouvé, dans la contradiction entre « publier sans que personne ne regarde » et « arrêter et voir des gens attendre », la raison impérative de continuer.
