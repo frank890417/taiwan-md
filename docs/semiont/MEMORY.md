@@ -384,3 +384,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-27 | 060629-twmd-data-refresh-am | 早班刷新十四步全過、15 個 dashboard 0 stale；404 單日 4,953；落後 18 commit 由 Step 1 補回；甦醒檔只讀 L1082 起，收官寫明 | 通過的閘門不會說它沒檢查什麼 | [→](memory/2026-11-27-060629-twmd-data-refresh-am.md) |
 | 2026-11-27 | 064058-twmd-spore-harvest-am | Chrome 連線清單為空，Hard Gate 沒過；backfillWarnings 0 條無數字要補，回覆分頁與動態頁這班沒掃；分桶全寫成沒看；甦醒檔只讀 L1082 起 | 沒看和沒有，在敘事裡都會寫成零 | [→](memory/2026-11-27-064058-twmd-spore-harvest-am.md) |
 | 2026-11-27 | 071316-twmd-feedback-triage | 第十七輪：窗口外第一次坐著三位真實讀者，兩篇嘉義與清治英文版勘誤開成 #2081–#2083，八十一筆照排除；兩道對賬全綠 | 登記成窗口延遲的小時數，量到的是排程班距 | [→](memory/2026-11-27-071316-twmd-feedback-triage.md) |
+| 2026-11-27 | 085625-twmd-maintainer-daily | tboydar 四批二十篇 description 合併、兩 profile 全 hard=0；政治人物那批掛 reserved-for-observer 進佇列 #132；嘉義市六處方位與交通勘誤；11-19 追三輪未果的死連結追到源頭 | 搜不到它，是因為那個檔把它存成百分比編碼 | [→](memory/2026-11-27-085625-twmd-maintainer-daily.md) |
