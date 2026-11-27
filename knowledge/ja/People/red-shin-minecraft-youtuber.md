@@ -1,16 +1,16 @@
 ---
-title: '阿神：十一年日更の後、「永久停更」のはずがなぜ新作があるのか'
-description: '2026年7月、阿神のメインチャンネルには「引退は俺が納得したら動画を出す」と書かれながら、前日に公開されたMinecraftの新作動画が並んでいる。十一年間の日更（毎日投稿）が個人チャンネルを毎日次の回がある番組表に変えていたが、三年前の「永久停更」はなぜ永久的な引退にならなかったのか。'
+title: '阿神：11年間の毎日投稿の後、「永久停止更新」なのになぜ新作があるのか'
+description: 'チャンネルを開設して10年以上、自ら語るところでは11年間毎日投稿を欠かさなかったゲーム実況クリエイターが、2021年に毎日投稿をやめ、YouTubeを本業から離れて気ままな投稿スタイルに変え、2023年にはメインチャンネルの永久的な更新停止を宣言し、ライブ配信と馬田と共同制作する「搞神馬」のみを残した。3年後、メインチャンネルにMinecraftのコラボ長編動画が再び現れ、チャンネル概要には「退職したから気分で動画を作る」と書かれている。「退職」の二文字を撤回したのは、視聴者がかつて握っていた「決まった次の回」の日常だ。'
 date: 2026-07-15
 category: 'People'
 tags:
   [
     '阿神',
-    'YouTuber',
+    'ユーチューバー',
     'Minecraft',
     '搞神馬',
-    '台湾ネット文化',
-    'クリエイター労働',
+    '台湾のネット文化',
+    'クリエイターの労働',
   ]
 subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
@@ -20,7 +20,7 @@ lastHumanReview: false
 researchReport: 'reports/research/2026-07/阿神.md'
 readingTime: 18
 image: '/article-images/people/ashan-2026-return-minecraft.webp'
-imageAlt: 'Minecraft公式サムネイル中央に2体の偽人モンスター、左右に阿神と雪兔のブロックキャラクター、タイトルに「マイクラ最恐怖の偽人」'
+imageAlt: 'Minecraftの公式サムネイルの中央には2体のニセ人間モンスターがおり、左右には阿神と雪兔のブロックキャラクターが描かれ、タイトルには「マイクラ最恐怖のニセ人間」と書かれています。'
 imageCredit: '阿神官方 YouTube 頻道'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.youtube.com/watch?v=60n6gPUEl7s'
@@ -38,10 +38,10 @@ rationale:
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/阿神.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '2a5b98d9cd'
 sourceContentHash: 'sha256:5d4d8978fc43c7cd'
 sourceBodyHash: 'sha256:02c4e1b3fececdae'
-translatedAt: '2026-09-25T14:32:56+08:00'
+translatedAt: '2026-11-27T00:12:52.186161+00:00'
 ---
 
 > **30秒概要：** 2026年7月15日、阿神の公式チャンネルは登録者数331万、動画数5,622本を表示。最新のMinecraftコラボ長編動画はわずか1日前に公開されたばかりだが、概要欄には依然として「引退は俺が納得したら動画を出す」と書かれている。彼はかつて11年間毎日投稿を続け、2021年にYouTube正職を離れ、2023年にはメインチャンネルの動画公開停止を宣言したが、ライブ配信と馬田と共同制作する「搞神馬」は継続するとした。この3つの状態を並べて見ると、引退の意味が明確になる：毎日の更新はもはや公開の約束ではなく、創作も永久に終わったわけではない。
