@@ -1,15 +1,15 @@
 ---
-title: 'Hsu Fang-yi: Lahir di Yilan 1971, dari Prima Dansa Grup Graham hingga Penari Utama Visual 2024 Festival Film Golden Horse'
-description: 'Lahir 1971 di Yilan. Lulusan Jurusan Tari Universitas Seni Taipei, 1995 pergi ke AS, bergabung dengan Martha Graham Dance Company, 1999 naik jadi prima dansa. 2007 kembali ke Taiwan mendirikan LAFA (berakhir 2010). Film dokumenter "I Follow My Heart" (2020). 2024 mendesain tari visual utama Festival Film Golden Horse. 2025 diwawancarai soal isu penuaan tubuh.'
+title: 'Hsu Fang-yi: Lahir di Yilan 1971, dari Penari Utama Martha Graham Dance Company hingga Penari Visual Utama Golden Horse 2024'
+description: 'Penari kontemporer Taiwan yang lahir di Yilan. Setelah lulus dari Departemen Tari Universitas Seni Taipei, ia pergi ke Amerika Serikat dan berhasil bergabung dengan Martha Graham Dance Company pada tahun 1995. Empat tahun kemudian, ia diangkat menjadi penari utama, menjadikannya salah satu dari sedikit orang Taiwan yang mencapai posisi penari utama di kelompok tari kontemporer papan atas dunia. Pada tahun 2007, ia kembali ke Taiwan untuk mendirikan La Fang guna mempromosikan pendidikan tari dan kolaborasi lintas disiplin. Film dokumenternya, "My Heart My Movement", dirilis pada tahun 2020, dan pada tahun 2024, ia merancang tarian visual utama untuk Golden Horse Film Festival. Belakangan ini, ia aktif berbicara mengenai penuaan tubuh dan transisi karier sebagai penari.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Seni dan Desain',
+    'Seni & Desain',
     'Tari',
     'Seni Pertunjukan',
-    'Tari Modern',
-    'Grup Tari Graham',
+    'Tari Kontemporer',
+    'Martha Graham Dance Company',
   ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md'
@@ -20,10 +20,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/許芳宜.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '630afb2b66'
 sourceContentHash: 'sha256:a31b5339a894147e'
 sourceBodyHash: 'sha256:e2e71f85bef4ed48'
-translatedAt: '2026-11-04T20:21:52.663046+00:00'
+translatedAt: '2026-11-27T02:35:16.639573+00:00'
 ---
 
 # Hsu Fang-yi: Lahir di Yilan 1971, dari Prima Dansa Grup Graham hingga Penari Utama Visual 2024 Festival Film Golden Horse

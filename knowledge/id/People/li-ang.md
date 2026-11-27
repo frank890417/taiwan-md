@@ -1,9 +1,17 @@
 ---
-title: 'Li Ang: Lukang 1952, "Shafu" Membuka Jalan bagi Sastra Feminis Taiwan'
-description: 'Lahir 1952 di Lukang, Changhua, nama asli Shi Shutuan. 1983 "Shafu" dimuat di United Daily News, mengguncang dunia sastra Taiwan dengan tema kekerasan dalam rumah tangga. 1991 "Miyuan". 2004 menerima Bintang Kehormatan Seni dan Sastra Prancis derajat Ksatria. Karya diterjemahkan ke bahasa Inggris, Prancis, Jerman, Jepang, dll., menjadikannya salah satu penulis wanita Taiwan paling mendapat perhatian internasional.'
+title: 'Li Ang: Lukang 1952, Perintis yang Membuka Jalan bagi Sastra Feminisme Taiwan melalui "Killing for Love"'
+description: 'Penulis sastra feminisme Taiwan, lahir pada tahun 1952 di Lukang, Changhua. Nama aslinya adalah Shi Shu-tun, lulusan Departemen Filsafat Universitas Chung Hwa. Pada tahun 1983, serialisasi "Killing for Love" (Sha Fu) di United Daily News mengguncang dunia sastra dengan tema kekerasan dalam rumah tangga dan dianggap sebagai pelopor sastra feminisme Taiwan; pada tahun 1991, ia menerbitkan "The Lost Garden" (Mi Yuan) yang mengeksplorasi tekanan budaya tradisional dan subjektivitas perempuan. Pada tahun 2004, ia dianugerahi Orde Seni dan Sastra dari Prancis tingkat Knight. Karya-karyanya telah diterjemahkan ke dalam berbagai bahasa seperti Inggris, Prancis, Jerman, dan Jepang, menjadikannya salah satu penulis perempuan Taiwan yang paling diperhatikan secara internasional.'
 date: 2026-03-19
 category: 'People'
-tags: ['Sastra', 'Sastra Feminis', 'Shafu', 'Miyuan', 'Lukang', 'Isu Gender']
+tags:
+  [
+    'Sastra',
+    'Sastra Feminisme',
+    'Killing for Love',
+    'The Lost Garden',
+    'Lukang',
+    'Isu Gender',
+  ]
 subcategory: '文學'
 author: 'Taiwan.md'
 featured: false
@@ -13,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/李昂.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '3f269cde5e'
 sourceContentHash: 'sha256:047f29e16ec14ac9'
 sourceBodyHash: 'sha256:0a0f9bd1ab3db88b'
-translatedAt: '2026-11-04T19:06:43.861748+00:00'
+translatedAt: '2026-11-27T02:43:34.302832+00:00'
 ---
 
 # Li Ang: Lukang 1952, "Shafu" Membuka Jalan bagi Sastra Feminis Taiwan

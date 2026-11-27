@@ -1,16 +1,16 @@
 ---
-title: 'Huang Chunming: Luodong 1935, Penulis Tokoh Kecil dari "Hari-hari Melihat Laut" ke "Boneka Besar Anak Laki-laki"'
-description: 'Lahir pada 13 Februari 1935 di Luodong, Yilan. "Hari-hari Melihat Laut" (1967) dan "Boneka Besar Anak Laki-laki" (1969) mewakili perhatian inti sastra nativis Taiwan terhadap tokoh-tokoh kecil. Debat sastra nativis 1977. Memperoleh Penghargaan Sastra Wu San-lian dan Penghargaan Sastra Nasional. Putra kedua Huang Guojun (penulis) bunuh diri pada 20 Juni 2003. Hou Hsiao-hsien mengadaptasikan karyanya ke layar perak pada 1983. Masih hidup hingga 2026.'
+title: "Huang Chun-ming: Luodong 1935, dari 'Hari-hari Menatap Laut' ke 'Boneka Besar Anak' — Penulis Tokoh-tokoh Kecil"
+description: 'Penulis sastra tanah air yang berakar kuat di Yilan, dengan tokoh-tokoh kecil lapisan bawah sebagai inti kreasi, setelah lulus dari Akademi Pendidikan Taipei ia lama mengajar di sekolah dasar, mengubah kehidupan sehari-hari pedesaan menjadi bahan novel. 『Hari-hari Menatap Laut』 menuliskan perempuan marginal dengan perspektif tanpa menghakimi, 『Boneka Besar Anak』 menuliskan ayah yang menjadi badut untuk menafkahi keluarga, pada 1983 disutradarai Hou Hsiao-hsien ke layar lebar. Dalam perdebatan sastra tanah air 1977 ia menjadi salah satu penulis yang difokuskan, pernah menerima Penghargaan Sastra Wu San-lian dan Penghargaan Sastra Nasional, di usia lanjut melalui Teater Anak Huang Da-yu ia melanjutkan perhatiannya terhadap orang-orang lemah.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Sastra',
-    'Sastra Nativis',
+    'Sastra Tanah Air',
     'Yilan',
     'Tokoh Kecil',
-    'Boneka Besar Anak Laki-laki',
-    'Hari-hari Melihat Laut',
+    'Boneka Besar Anak',
+    'Hari-hari Menatap Laut',
   ]
 subcategory: '文學'
 author: 'Taiwan.md'
@@ -21,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/黃春明.md'
-sourceCommitSha: '22286539e'
-sourceContentHash: 'sha256:fa94afa39f837939'
-sourceBodyHash: 'sha256:59fc287ce8c0baeb'
-translatedAt: '2026-11-04T22:01:13.998515+00:00'
+sourceCommitSha: '2556505034'
+sourceContentHash: 'sha256:fb400d56624fcb69'
+sourceBodyHash: 'sha256:be81edf9c205405a'
+translatedAt: '2026-11-27T02:38:39.117357+00:00'
 ---
 
 # Huang Chun-ming: Luodong 1935, Penulis Tokoh Kecil dari _Hari-hari Melihat Laut_ ke _Boneka Besar Anakku_
@@ -55,11 +55,11 @@ Masalah inti _Boneka Besar Anakku_ terletak pada martabat, bukan hanya kemiskina
 
 Penulisan Huang Chun-ming tentang orang kecil tidak pernah bersifat melarat-melaratkan, melainkan menempel pada orang-orang untuk berbicara; "cara berbicara" inilah yang membuat novel-novelnya tetap relevan hingga beberapa puluh tahun kemudian.
 
-## Posisi dalam Perang Argumen Sastra Nativis Tahun 1977
+## Posisi dalam Debat Sastra Nativis Taiwan Tahun 1977
 
-Pada tahun 1977, "Perang Argumen Sastra Nativis" meletus, para kritik mempertanyakan posisi politik sastra nativis. Huang Chun-ming adalah salah satu penulis yang menjadi fokus pembahasan dalam perang argumen ini[^2]. Ia tidak berkompromi mundur, melanjutkan komitmen arah kreasi yang memperhatikan kehidupan rakyat lapisan bawah.
+Pada tahun 1977, [Debat Sastra Nativis Taiwan](/id/history/nativist-literature-debate/) meletus, para kritikus mempertanyakan posisi politik sastra nativis. Huang Chun-ming adalah salah satu penulis yang menjadi fokus pembahasan dalam debat ini[^2]. Ia tidak berkompromi mundur, melanjutkan komitmen arah penulisannya yang mengutamakan kehidupan rakyat kecil.
 
-Dampak Perang Argumen Sastra Nativis bagi Huang Chun-ming terletak pada fakta karyanya dipaksa memasuki kerangka politik yang tidak ia maksudkan. Ia menulis orang kecil karena orang-orang itu benar-benar ada dan perlu dilihat; pernyataan politik adalah kerangka tafsiran yang dikenakan orang lain. Setelah perang argumen, posisinya tidak berubah: memilih terus menggunakan literatur untuk melakukan apa yang selalu ia lakukan — agar orang-orang itu terlihat.
+Dampak Debat Sastra Nativis Taiwan bagi Huang Chun-ming terletak pada fakta bahwa karyanya dipaksa masuk ke dalam kerangka politik yang ia tidak berniat masuki. Ia menulis tokoh-tokoh kecil karena orang-orang itu benar-benar ada dan perlu dilihat; pernyataan politik adalah kerangka penafsiran yang dikenakan orang lain. Setelah debat berakhir, posisinya tidak berubah: memilih terus menggunakan sastra untuk melakukan apa yang selalu ia lakukan — agar orang-orang itu terlihat.
 
 ## Penghargaan Sastra
 

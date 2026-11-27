@@ -1,6 +1,6 @@
 ---
-title: 'Lai He: "Mazu Changhua" yang Mengenakan Pakaian Lokal, dan Timbangannya yang Tidak Pernah Kompromi'
-description: 'Sebelum Malam Tahun Baru 1943, dokter terkenal Changhua, Lai He, seperti biasa membakar tagihan utang pasien miskin. Dokter yang dijuluki "Bapak Sastra Baru Taiwan" ini, di bawah tekanan kolonial, menyelamatkan nyawa dengan pisau bedah dan mengkritik ketidakadilan dengan pena; karyanya "Seorang ''Timbangan''" tetap menjadi simbol budaya Taiwan dalam melawan kekerasan kekuasaan hingga hari ini.'
+title: 'Lai He: "Mazu Changhua" yang Mengenakan Pakaian Lokal, dan Timbangan yang Tak Pernah Berkompromi'
+description: 'Bapak Sastra Baru Taiwan yang menyelamatkan nyawa dengan pisau bedah dan mengkritik ketidakadilan dengan pena. Selama masa penjajahan Jepang, ia selalu mengenakan pakaian lokal dan berdiri di sisi rakyat kecil, sehingga sangat dihormati oleh penduduk Changhua sebagai "Mazu Changhua". Setiap malam Tahun Baru Imlek, ia membakar catatan utang pasien yang miskin. Ia menulis puisi baru pertama melalui Insiden Petani Tebu Erlin, menggunakan karya 〈Sebuah Timbangan〉 untuk mengkritik kekerasan hukum kolonial, dan 〈Ratapan Negeri Selatan〉 untuk mengenang Insiden Wushe. Sepanjang hidupnya, ia menjadi saksi penderitaan kolonial selama setengah abad, dan karyanya hingga kini tetap menjadi simbol budaya Taiwan dalam melawan kekerasan kekuasaan.'
 date: 2026-04-28
 category: 'People'
 tags:
@@ -8,8 +8,8 @@ tags:
     'Lai He',
     'Sastra Taiwan',
     'Changhua',
-    'Masa Pendudukan Jepang',
-    'Sejarah Kedokteran',
+    'Masa Penjajahan Jepang',
+    'Sejarah Medis',
     'Gerakan Sosial',
   ]
 subcategory: '文學'
@@ -21,10 +21,10 @@ readingTime: 12
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/賴和.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '2556505034'
 sourceContentHash: 'sha256:3c703a9a3c1bb21e'
 sourceBodyHash: 'sha256:12da8a5e75f1d767'
-translatedAt: '2026-10-24T02:32:57.477511+00:00'
+translatedAt: '2026-11-27T02:22:56.781800+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Lai He (1894-1943) adalah dokter-sastrawan paling berpengaruh pada masa pendudukan Jepang. Satu tangannya memegang skalsel menyelamatkan orang miskin, dihormati sebagai "Mazu Changhua" dan "Xianzi He"; tangan yang lain memegang pena memulai sastra bahasa rakyat Taiwan, mengkritik ketidakadilan kolonial. Hidupnya mencerminkan perjuangan dan martabat orang Taiwan di bawah pemerintahan Jepang, terutama tradisi tahunan membakar surat utang pasien di malam Tahun Baru, serta tulisan di penjara, yang hingga kini tetap menjadi teladan etika medis dan semangat kemanusiaan Taiwan.

@@ -1,12 +1,12 @@
 ---
-title: 'Ming Hwa Yuan: Didirikan 1929 di Tainan, Empat Generasi Kekaisaran Kogezi Keluarga Chen'
-description: 'Didirikan 1929 di Tainan oleh Chen Ming-ji, pindah ke Chaozhou, Pingtung pada 1962. Generasi kedua Chen Sheng-fu memperkenalkan teknik teater modern, membawa kogezi ke Teater Nasional. Di bawah naungannya delapan tim anak: Tian, Di, Xuan, Huang, Ri, Yue, Xing, Chen. Pada 2024, "San Xi" tur ke-4 menyambut 95 tahun berdirinya.'
+title: 'Ming Hwa Yuan: Didirikan 1929 di Tainan, Kekaisaran Gezi Opera Keluarga Chen Empat Generasi'
+description: 'Kelompok Gezi Opera yang bermula dari halaman kuil di Tainan, didirikan pada 1929 oleh Chen Ming-ji, dan pindah ke Chaozhou, Pingtung pada 1962. Generasi kedua Chen Sheng-fu menerapkan strategi terbalik di tengah benturan televisi dan film, tetap bertahan pada pertunjukan langsung, serta memperkenalkan pencahayaan, mekanisme panggung, akrobat udara, dan proyeksi layar air. Melalui seri "Ji Gong Huo Fo" ia menciptakan standar teater berkapasitas puluhan ribu penonton, pertama kali tampil di Gedung Peringatan Bapak Negara pada 1982, dan masuk ke Teater Nasional pada 1990. Delapan sub-kelompok di bawah naungannya—Tian, Di, Xuan, Huang, Ri, Yue, Xing, Chen—dikelola bersama oleh empat generasi keluarga, dan tur keempat "San Xi" pada 2024 menyambut ulang tahun ke-95 pembentukan kelompok.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Seni dan Desain',
-    'Kogezi',
+    'Gezi Opera',
     'Seni Tradisional',
     'Seni Pertunjukan',
     'Warisan Empat Generasi',
@@ -18,10 +18,10 @@ lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
 translatedFrom: 'People/明華園.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: 'a9322956ed'
 sourceContentHash: 'sha256:ebe4d277504f2738'
 sourceBodyHash: 'sha256:ad65be5d0003de06'
-translatedAt: '2026-08-04T06:18:07+08:00'
+translatedAt: '2026-11-27T02:30:38.216754+00:00'
 ---
 
 # Ming Hwa Yuan: Didirikan 1929 di Tainan, Empat Generasi Kekaisaran Kogezi Keluarga Chen

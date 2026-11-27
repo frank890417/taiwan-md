@@ -1,15 +1,15 @@
 ---
-title: 'Paul Chu: 1987 Menembus Ambang Suhu Nitrogen Cair, Penemu Bersama Superkonduktor Suhu Tinggi Tc=93K'
-description: 'Lahir 1941 di Hunan, fisikawan keturunan Taiwan berkebangsaan Amerika. Januari 1987 bersama M.K. Wu menemukan YBCO oksida tembaga itrium-barium dengan Tc=93K, menembus ambang suhu nitrogen cair, membuka era superkonduktor suhu tinggi. Menjabat rektor HKUST 2001-2009. Maret 2026 menerbitkan penemuan baru Tc=151K di PNAS, pada usia 85 tahun tetap aktif penelitian.'
+title: 'Chu Ching-wu: Penemu Bersama Superkonduktivitas Suhu Tinggi Tc=93K yang Menembus Suhu Nitrogen Cair pada 1987'
+description: 'Penemu bersama di bidang superkonduktivitas suhu tinggi. Lahir di Hunan dan tumbuh besar di Taiwan, ia memperoleh gelar doktor di Amerika Serikat setelah lulus dari Departemen Fisika Universitas Nasional Chung Hua (NCKU). Sejak tahun 1979, ia membangun tim penelitian superkonduktor di University of Houston. Pada Januari 1987, ia menemukan yttrium barium tembaga oksida dengan suhu kritis mencapai 93K, yang untuk pertama kalinya menembus ambang batas suhu nitrogen cair, membawa superkonduktivitas suhu tinggi dari laboratorium elit menuju kelayakan industri. Ia menjabat sebagai Rektor Hong Kong University of Science and Technology dari tahun 2001 hingga 2009. Pada usia 85 tahun di tahun 2026, ia masih mempublikasikan terobosan baru Tc=151K di jurnal Proceedings of the National Academy of Sciences (PNAS), AS, menunjukkan dedikasinya yang tak pernah lepas dari kurva kenaikan suhu tersebut.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Sains dan Akademik',
+    'Sains dan Akademis',
     'Fisikawan',
     'Superkonduktor',
     'HKUST',
-    'Universitas Houston',
+    'University of Houston',
   ]
 subcategory: '科學與學術'
 author: 'Taiwan.md'
@@ -20,10 +20,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/朱經武.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'a9322956ed'
 sourceContentHash: 'sha256:79c87fb84a11dd9d'
 sourceBodyHash: 'sha256:619ef92c56c46024'
-translatedAt: '2026-11-04T21:22:23.791525+00:00'
+translatedAt: '2026-11-27T02:28:31.776031+00:00'
 ---
 
 # Chu Ching-wu: Melampaui Suhu Nitrogen Cair pada 1987, Penemu Bersama Superkonduktor Suhu Tinggi Tc=93K

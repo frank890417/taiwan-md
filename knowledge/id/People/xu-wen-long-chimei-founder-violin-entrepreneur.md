@@ -1,6 +1,6 @@
 ---
-title: 'Hsu Wen-lung: Tainan 1928, Chimei Industrial 1959 ke Pendiri Museum dengan Koleksi Biola Terbanyak di Dunia'
-description: 'Lahir di Tainan 25 Februari 1928, meninggal 18 November 2023 (95 tahun). Oktober 1959 mendirikan Chimei Industrial (modal 2 juta). Mulai 1990 mengumpulkan biola, total 1.362 unit (terbanyak di dunia perorangan). 1 Januari 2015 Museum Chimei resmi dibuka (Taman Metropolitan Tainan). Mencintai biola, Museum Chimei gratis masuk (kebijakan saat ini P0⚠️ perlu konfirmasi).'
+title: 'Xu Wenlong: Tainan 1928, Chimei Industrial 1959 hingga pendiri museum dengan koleksi biola terbanyak di dunia'
+description: 'Bapak Akrilik Taiwan, mendirikan Chimei Industrial pada 1959 dengan modal NT$2 juta, pada usia 63 tahun membuat plastik rekayasa ABS menjadi nomor satu di dunia. Ia percaya bahwa perusahaan adalah sarana untuk mengejar kebahagiaan, pada 1984 telah menerapkan sistem libur dua hari seminggu. Mulai 1990 mengoleksi biola kuno, mengumpulkan 1.362 unit menjadi koleksi pribadi terbesar di dunia; pada 2015 Museum Chimei dibuka di Taman Metropolitan Tainan, memungkinkan anak-anak dari mana pun untuk menyaksikan seni Barat kelas atas. Dalam 95 tahun hidupnya, ia meninggalkan landmark masing-masing di bidang bisnis dan budaya.'
 date: 2026-03-19
 category: 'People'
 tags:
@@ -22,10 +22,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/許文龍.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'a9322956ed'
 sourceContentHash: 'sha256:720cd768af91d1c3'
 sourceBodyHash: 'sha256:7ec1f1d13ec2e4d4'
-translatedAt: '2026-11-04T21:51:51.061798+00:00'
+translatedAt: '2026-11-27T02:25:41.166092+00:00'
 ---
 
 # Hsu Wen-lung: Tainan 1928, Chimei Industrial 1959 ke Pendiri Museum dengan Koleksi Biola Terbanyak di Dunia

@@ -1,14 +1,14 @@
 ---
-title: 'Deng Yuxian: Hakka 1906, April Longing for Rain — Thirty-Nine Years of the Father of Taiwanese Popular Songs'
-description: 'Lahir 21 Juli 1906 di keluarga Hakka di Longtan, Taoyuan, nama asli Deng Bingyan. Lulus Sekolah Normal, direkrut Columbia Records 1933. Empat karya utama "April Longing for Rain" (Four Seasons Red / Moonlit Night Sorrow / Spring Breeze Longing / Rainy Night Flower) dinyanyikan hingga kini. 1939 mengajar di Sekolah Rakyat Qionglin, Hsinchu, meninggal 11 Juni 1944 di Rumah Sakit Zhudong, berusia 39 tahun.'
+title: 'Deng Yuxian: Hakka 1906, April Menanti Hujan — Tiga Puluh Sembilan Tahun Sang Bapak Lagu Taiwan'
+description: 'Seorang komposer yang meletakkan dasar harmoni Barat bagi lagu populer bahasa Hokkien, berasal dari keluarga terpelajar Hakka di Longtan, Taoyuan. Nama aslinya adalah Deng Bingyan, dan ia pernah menjadi guru sekolah dasar setelah lulus dari sekolah normal. Pada tahun 1933, ia direkrut oleh Columbia Records sebagai komposer eksklusif, dan dalam waktu kurang dari dua tahun, ia menciptakan empat karya besar: "Sijihong", "Yueye Chou", "Wang Chun Feng", dan "Yu Ye Hua", yang secara kolektif dikenal sebagai "April Menanti Hujan". Di bawah kontrol masa perang, ia kembali mengajar di Sekolah Dasar Qionglin, Hsinchu, dan wafat di Rumah Sakit Zhudong pada tahun 1944 dalam usia 39 tahun. Meskipun demikian, melodi dari keempat lagunya telah dinyanyikan ulang oleh banyak generasi penyanyi hingga saat ini.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Musik',
-    'Lagu Populer Bahasa Taiwan',
+    'Lagu Hokkien',
     'Komposer',
-    'Masa Pendudukan Jepang',
+    'Era Penjajahan Jepang',
     'Taoyuan',
     'Hakka',
   ]
@@ -21,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/鄧雨賢.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '2556505034'
 sourceContentHash: 'sha256:03f4c1611aa95a6c'
 sourceBodyHash: 'sha256:0d86dfd69dceab10'
-translatedAt: '2026-11-04T21:23:56.757036+00:00'
+translatedAt: '2026-11-27T02:33:35.063859+00:00'
 ---
 
 # Deng Yuxian: Hakka 1906, April Longing for Rain — Thirty-Nine Years of the Father of Taiwanese Popular Songs

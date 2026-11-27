@@ -1,14 +1,14 @@
 ---
-title: 'Chung Li-ho: Meinong 1915, Penulis yang Gugur dalam Darah'
-description: 'Lahir 15 Desember 1915 di keluarga Hakka di Meinong, Kaohsiung. 1938 pergi ke Timur Laut Tiongkok, 1946 kembali ke Taiwan. Karya utamanya: "Lisan Farm" (novel panjang), "Orang Kampung Halaman" (cerpen, 1959), "Pasangan Miskin". Dikenal sebagai "Penulis yang Gugur dalam Darah", sering dihormati sebagai "Bapak Sastra Tanah Air Taiwan" (gelar ini umstritten). Meninggal 4 Agustus 1960 batuk darah, berusia 44 tahun.'
+title: 'Chung Li-ho: Meinong 1915, Penulis yang Gugur dalam Genangan Darah'
+description: 'Seorang penulis sastra lokal yang menjadikan pedesaan Hakka sebagai latar tulisannya. Lahir dari keluarga petani Hakka di Meinong, Kaohsiung, ia sempat berkelana di Timur Laut Tiongkok selama delapan tahun pada tahun 1938 sebelum kembali ke Taiwan pada tahun 1946. Novelnya, "Lishan Farm", secara jujur mencatat kesulitan hidup petani melalui perspektif internal, sementara cerita pendeknya, "Orang Asli Desa (Yuanxiangren)", mempertanyakan jati diri spiritual. Ia sering dijuluki sebagai "Bapak Sastra Lokal Taiwan", meskipun gelar ini masih diperdebatkan; meski menderita tuberkulosis, ia tetap teguh menulis hingga akhirnya meninggal dunia karena batuk darah saat sedang merevisi naskah pada tahun 1960 di usia 44 tahun, sehingga ia dijuluki sebagai "Penulis yang Gugur dalam Genangan Darah".'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Sastra',
-    'Sastra Tanah Air',
-    'Orang Kampung Halaman',
-    'Lisan Farm',
+    'Sastra Lokal',
+    'Orang Asli Desa',
+    'Lishan Farm',
     'Meinong',
     'Hakka',
   ]
@@ -21,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/鍾理和.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '2556505034'
 sourceContentHash: 'sha256:cddbfe1c856d1966'
 sourceBodyHash: 'sha256:59814996cd0ea2c6'
-translatedAt: '2026-11-04T21:07:26.279688+00:00'
+translatedAt: '2026-11-27T02:41:20.503240+00:00'
 ---
 
 # Chung Li-ho: Meinong 1915, Penulis yang Gugur dalam Darah
