@@ -1,15 +1,15 @@
 ---
-title: "Mavis Fan : de la petite sorcière de « Health Song » à la chanteuse de 100% Band, trente ans à refuser d'être définie par une seule époque"
-description: "En 1996, à 19 ans, Mavis Fan devient la petite sorcière de tout Taïwan grâce à « Health Song ». En 1998, elle se rase la tête et sort *Darling*, déclarant vouloir « faire sa propre musique » ; en 2001, elle passe au jazz avec *Divine Performer* ; en 2007, elle forme 100% Band. En 2025, à 48 ans, *Passerby* marque le retour du groupe après 16 ans d'absence — trente ans durant lesquels elle a pièce par pièce démantelé « le rêve que les autres lui avaient construit »."
+title: "Fan Xiaoxuan : de la petite sorcière de « Santé Song » à la chanteuse du groupe 100%, trente années refusant d'être définies par une époque"
+description: "De la petite sorcière aux cheveux attachés dans « Santé Song » à l'artiste interprète se coupant les cheveux courts pour affirmer sa propre musique. Débuts en 1995, prix Golden Melody avec « Je veux que nous soyons ensemble » en 1999, virage jazz avec « Diva hors pair » en 2001 après trois années de mélancolie, formation du groupe 100% en 2007 avec trois membres, et prix du meilleur producteur de single aux Golden Melody Awards en 2010 pour « Maître ». En 2025, elle sort son nouvel album « Passager », son premier en seize ans. Après trente ans de carrière, elle refuse sans cesse d'être définie par l'image d'une seule époque."
 date: 2026-04-20
 category: 'People'
 tags:
   [
     'Musique',
-    'Auteure-compositrice-interprète',
+    'Artiste interprète',
     'Golden Melody Awards',
-    '100% Band',
-    'Pop mandarine',
+    'Groupe 100%',
+    'Pop Mandopop',
   ]
 subcategory: '音樂人'
 author: 'Taiwan.md'
@@ -20,10 +20,10 @@ researchReport: 'reports/research/2026-04/范曉萱.md'
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/范曉萱.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '8fc70bd881'
 sourceContentHash: 'sha256:752a0e7cddd9b38d'
 sourceBodyHash: 'sha256:7cceb716a616fa6b'
-translatedAt: '2026-09-07T20:34:28.877421+00:00'
+translatedAt: '2026-11-27T01:30:32.534126+00:00'
 ---
 
 > **30 秒概覽：** Fan Hsiao-hsuan (Mavis Fan, 1977–), chanteuse taïwanaise. En 1995, à 18 ans, elle sort _Rain_ et devient immédiatement une star. En 1996, _Health Song_ la transforme en l’« icône adolescente » phare. En 1998, _Darling_ avec une coupe courte marque un tournant artistique. En 1999, _I Want Us Together_ remporte le meilleur album de musique pop aux 11e [Golden Melody Awards](/fr/music/pop-music-and-golden-melody-awards/). En 2001, _Divine Performer_ explore le jazz. En 2007, elle forme le groupe Mavis Fan & 100%. En 2010, _Master_ lui vaut le prix du meilleur single aux 21e Golden Melody Awards. En décembre 2025, _Passerby_ marque son retour après seize ans de silence. Sur trois décennies, elle a toujours refusé d’être définie par une seule époque.

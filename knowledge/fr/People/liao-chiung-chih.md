@@ -1,16 +1,16 @@
 ---
-title: 'Liao Chiung-chih : De « petite fille liée au théâtre » à la méthode qu’elle a laissée pour préserver la mémoire de l’opéra Gezaixi'
-description: 'Née en 1935 à Keelung, Liao Chiung-chih est entrée à l’âge de quinze ans au Jinshan Leshe en tant que « petite fille liée au théâtre ». Elle a traversé les théâtres intérieurs, les scènes extérieures, la radio et la télévision ; la seconde moitié de sa vie a consisté à transformer un art mémorisé par le corps en une discipline que les étudiants peuvent apprendre, dont les livrets peuvent être lus et les images préservées.'
+title: "Liao Kung-chih : de l'enfant apprenti à la méthode pour préserver la mémoire de l'Opéra de Géza"
+description: "Artiste d'opéra de Géza, née à Keelung, elle fut confiée à un maître de chant à l'âge de quinze ans au sein du club musical de Jinshan. Ayant évolué de l'enfance d'apprentie jusqu'aux scènes locales, nationales, ainsi qu'à la radio et à la télévision, elle est surnommée la première « actrice tragique » de Taïwan. Dans la seconde moitié de sa vie, elle a décomposé les genres théâtraux mémorisés par le corps en mélodies, gestuelles, scénarios et supports pédagogiques. Elle a fondé une troupe d'opéra de Géza ainsi qu'une fondation culturelle pour enregistrer environ deux cents airs importants, permettant aux étudiants d'apprendre, aux scénarios d'être lus et aux images d'être conservées, offrant ainsi à l'opéra de Géza une méthode de préservation qui ne repose plus uniquement sur la mémoire des anciens."
 date: 2026-08-17
-subcategory: '音樂與表演'
 category: 'People'
 tags:
   [
-    'Liao Chiung-chih',
-    'opéra Gezaixi',
-    'art traditionnel',
-    'patrimoine culturel',
+    'Liao Kung-chih',
+    'Opéra de Géza',
+    'Arts traditionnels',
+    'Patrimoine culturel',
   ]
+subcategory: '音樂與表演'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-17
@@ -18,10 +18,10 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/廖瓊枝.md'
-sourceCommitSha: 'a15e6712c'
-sourceContentHash: 'sha256:bf5e1c54c68b6eaa'
+sourceCommitSha: '630afb2b66'
+sourceContentHash: 'sha256:f186f3081f703176'
 sourceBodyHash: 'sha256:169c56cb9e4f77d3'
-translatedAt: '2026-09-11T16:08:34+08:00'
+translatedAt: '2026-11-27T01:25:29.359331+00:00'
 ---
 
 > **En 30 secondes :** Née en 1935 à Keelung, Liao Chiung-chih entre au Jinshan Leshe à l’âge de 15 ans, chantant de « petite fille liée au théâtre » jusqu’aux théâtres intérieurs, aux scènes extérieures, à la radio et à la télévision. Son œuvre la plus importante n’est peut-être pas une pièce spécifique, mais le démontage de l’opéra Gezaixi, autrefois privé de scène, en vocalises, en mouvements corporels et en livrets pédagogiques, pour être réutilisé par la génération suivante. Ce qu’elle laisse n’est pas le légende d’une actrice tragique, mais une méthode permettant à la mémoire de ne plus reposer uniquement sur les épaules des personnes âgées.
@@ -106,34 +106,34 @@ C’est la distance qui la sépare de l’idée selon laquelle « l’art tradit
 
 Ces entrées ont également changé l’imaginaire de classe de l’art. Les pièces autrefois jouées dans l’herbe et devant les temples peuvent entrer dans les écoles, les théâtres nationaux et les scènes de démonstration à l’étranger. Elles conservent les chants et dialogues en dialecte taïwanais et l’émotion populaire, sans devoir accepter le verdict de « seulement vulgaire ».[^5][^8]
 
-## Après le rangement des boîtes, la pièce continue
+## Une fois la boîte fermée, la pièce continue
 
-L’objet le plus mémorable de la seconde moitié de la vie de Liao Chiung-chi n’est pas tant une coupe qu’une pile de livrets ouverts par les élèves, une mélodie audible à répétition, et un manuel pointant vers les gestes et les pas. Elle a transformé ce qui circulait autrefois uniquement sous les théâtres de fortune en matériau pouvant être préservé, critiqué et remisé.[^2][^4]
+L'objet le plus mémorable de la seconde moitié de la vie de Liao Chiung-chih n'est pas tant un trophée qu'une pile de scénarios que les étudiants ouvriront, une mélodie que l'on pourra entendre à nouveau et répétitivement, ainsi qu'un corpus pédagogique orientant les gestes et les pas. Elle a transformé ce qui ne circulait auparavant qu'au sein des troupes de théâtre en matériaux pouvant être conservés, critiqués et réarrangés. [^2][^4]
 
-_Liao Chiung-chi Opéra Gezaixi Œuvres Classiques II_, achevé en 2024, comprend sept œuvres adaptées ou nouvelles. Le processus de production a inclus deux ans d’organisation de manuscrits, d’entretiens oraux et de révision en taïwanais. Ce travail n’a pas figé la création de Liao Chiung-chi comme une fin. Au contraire, il a remis les livrets à la prochaine génération d’acteurs, permettant à la Troupe Xinchuan en 2025 de continuer à produire de nouvelles pièces.[^7]
+L'ouvrage « Répertoire classique de l'opéra gézaï de Liao Chiung-chih II », achevé en 2024, compile sept œuvres adaptées ou nouvelles. Le processus de production a nécessité deux ans de compilation de manuscrits, d'entretiens oraux et de révision linguistique en taïwanais. Ce travail n'a pas transformé la création de Liao Chiung-chih en un point final ; il remet plutôt les scénarios aux prochaines générations d'acteurs, permettant à la troupe de transmission de continuer à présenter de nouvelles pièces en 2025. [^7]
 
-Ainsi, l’importance de Liao Chiung-chi ne réside pas seulement dans le nombre de spectateurs qu’elle a fait pleurer, ni dans le nombre de titres de patrimoine culturel qu’elle a obtenus. Elle nous montre qu’un art survit en préservant simultanément trois choses, plutôt qu’en le présentant comme immuable : les détails du corps, les traces écrites, et l’espace permettant aux élèves de continuer à réécrire.
+Ainsi, l'importance de Liao Chiung-chih ne réside pas seulement dans le nombre de spectateurs qu'elle a fait pleurer, ni uniquement dans les titres de patrimoine culturel qu'elle a reçus. Elle nous montre que pour qu'un art survive, il doit préserver simultanément trois éléments, plutôt que de prétendre à une immuabilité éternelle : la précision du corps, les traces de l'écrit et un espace permettant aux étudiants de continuer à réécrire.
 
-De « petite fille liée au théâtre » à conservatrice, elle porte encore la mémoire du monde dur des troupes théâtrales. Elle a déplacé, une par une, les choses comprises uniquement entre maître et disciple vers des lieux accessibles à tous. L’opéra Gezaixi n’a donc pas besoin de se limiter à la voix de Liao Chiung-chi, tout en permettant d’entendre comment elle apprend à ouvrir la bouche.
+Passant du statut d'enfant « liée au théâtre » à celui de conservatrice, elle porte toujours en elle le souvenir de ce monde de troupes de théâtre éprouvant. Elle a déplacé, un par un, les savoirs qui n'étaient autrefois compris qu'entre maître et disciple vers un lieu accessible à tous. L'opéra gézaï n'a donc pas besoin de rester confiné à la seule voix de Liao Chiung-chih, tout en permettant toujours d'entendre comment elle enseignait l'art de la diction.
 
-Cette conclusion laisse une question : préserver les partitions, les livrets et les images équivaut-il à préserver l’opéra Gezaixi ? Pas nécessairement. Les données permettent aux générations futures de retrouver la mélodie, mais ne peuvent remplacer la respiration lors des répétitions, la complicité entre acteurs et musiciens, ni garantir que quelqu’un voudra acheter un billet et s’asseoir pour écouter une pièce. La présentation du Ministère de la Culture aborde donc simultanément la valeur des pièces traditionnelles et le développement des nouvelles pièces. Le point final de la préservation reste le public.[^3][^6]
+Cette conclusion laisse toutefois une question en suspens : la conservation des partitions, des scénarios et des images équivaut-elle à la conservation de l'opéra gézaï ? Pas nécessairement. Les archives peuvent permettre aux générations futures de retrouver les mélodies, mais elles ne peuvent remplacer le souffle lors des répétitions, la complicité entre acteurs et musiciens, ni garantir que quelqu'un achètera un billet pour s'asseoir et écouter une pièce jusqu'au bout. C'est pourquoi la présentation du Ministère de la Culture évoque à la fois la valeur des répertoires traditionnels et le développement de nouvelles pièces. Le point final de la conservation reste le public. [^3][^6]
 
-Le travail de Liao Chiung-chi n’a pas résolu tous les problèmes de l’opéra Gezaixi, mais a fourni une réponse viable : laisser d’abord les connaissances du corps, puis permettre aux élèves d’avoir l’occasion de les jouer mal, de les jouer vivantes, de les jouer à leur manière. La continuité de la forme théâtrale dépend de la possibilité pour le présent d’avoir une rencontre concrète avec le passé, plutôt que de copier un passé intact.
+Le travail de Liao Chiung-chih n'a pas résolu tous les problèmes de l'opéra gézaï, mais il offre une réponse viable : d'abord préserver ce que le corps sait, puis donner aux étudiants la chance de le jouer avec erreurs, de le faire vivre et d'en faire leur propre version. La pérennité d'un genre repose sur la capacité à provoquer une rencontre concrète entre aujourd'hui et le passé, plutôt que de copier un passé figé.
 
-[^1]: [Liao Chiung-chi](https://musiciantw.ncfta.gov.tw/people?uid=2&pid=79) — Page de détail de la base de données des figures musicales de Taïwan du Centre national des arts et de la culture, organisant la biographie de Liao Chiung-chi, les troupes et son statut de conservatrice du patrimoine culturel.
+[^1]: [Liao Chiung-chih](https://musiciantw.ncfta.gov.tw/people?uid=2&pid=79) — Page de détails biographiques du National Center for Traditional Arts (Base de données des figures musicales de Taïwan), récapitulant la vie de Liao Chiung-chih, sa troupe et son statut de conservatrice du patrimoine culturel.
 
-[^2]: [Liao Chiung-chi dans la catégorie théâtre](https://www.ncafroc.org.tw/artsaward/winnerDetail@1221) — Page de détail des lauréats de la Fondation nationale pour la culture et les arts,收录ant les auto-descriptions et la chronologie de Liao Chiung-chi sur l’apprentissage, l’enseignement, l’organisation des livrets et le travail de transmission.
+[^2]: [Liao Chiung-chih (Catégorie Théâtre)](https://www.ncafroc.org.tw/artsaward/winnerDetail@1221) — Page de détails des lauréats de la National Culture and Arts Foundation, incluant les récits personnels et la chronologie de Liao Chiung-chih concernant l'apprentissage du jeu, l'enseignement, la compilation de scénarios et le travail de transmission.
 
-[^3]: [Opera Artist | Liao Chiung-chih](https://www.moc.gov.tw/en/News_Content2.aspx?n=480&s=17446) — Article du Ministère de la Culture sur la formation précoce de Liao Chiung-chi, l’apogée de l’opéra Gezaixi, l’impact de la radio et de la télévision, et ses points de vue sur la préservation.
+[^3]: [Artiste d'opéra | Liao Chiung-chih](https://www.moc.gov.tw/en/News_Content2.aspx?n=480&s=17446) — Article biographique du Ministère de la Culture, expliquant la formation précoce de Liao Chiung-chih, l'âge d'or de l'opéra gézaï, l'impact de la radio et de la télévision, ainsi que ses perspectives sur la conservation.
 
-[^4]: [Projet de préservation de l’enregistrement de l’opéra Gezaixi de l’artiste d’art ethnique Liao Chiung-chi](https://collections.ncfta.gov.tw/pages/list/proj_items.aspx?id=12199914) — Page de détail du projet de collection du Centre national des arts et de la culture, listant ses expériences de troupe, de radio et de télévision, ainsi que les résultats de préservation audio-visuelle des œuvres classiques et des mélodies.
+[^4]: [Projet de documentation et de conservation de l'artiste d'art national Liao Chiung-chih (Opéra Gézaï)](https://collections.ncfta.gov.tw/pages/list/proj_items.aspx?id=12199914) — Page de détails du projet de collection du National Center for Traditional Arts, énumérant son expérience dans les troupes, la radio, la télévision, ainsi que ses résultats en matière de répertoire classique, de mélodies et de conservation audio et vidéo.
 
-[^5]: [« Dongshui Mudan » touche le cœur directement, la vie artistique de Liao Chiung-chi façonnée par son origine familiale](https://magazine.ncfta.gov.tw/News_Content2.aspx?n=1932&s=82249) — Article de _Chuanyi_ du Centre national des arts et de la culture, expliquant la performance d’actrice tragique de Liao Chiung-chi et la scène partagée maître-élèves à travers _Dongshui Mudan_ et les spectacles de transmission.
+[^5]: [« La pivoine dans l'eau gelée » touche le cœur : le parcours de vie de Liao Chiung-chih forge sa vie artistique](https://magazine.ncfta.gov.tw/News_Content2.aspx?n=1932&s=82249) — Article de « Transmission » du National Center for Traditional Arts, expliquant la performance de 'ku-dan' (rôle tragique féminin) et les représentations maître-élève à travers l'œuvre « La pivoine dans l'eau gelée ».
 
-[^6]: [Prix spécial des Golden Melody Awards de Chuanyi : Où enseigner, où penser, où rechercher — Liao Chiung-chi](https://magazine.ncfta.gov.tw/News_Content2.aspx?n=3135&s=103465&psn=103470) — Article de figure de _Chuanyi_ du Centre national des arts et de la culture, documentant son parcours des théâtres intérieurs aux scènes extérieures, de la radio à l’enseignement, l’organisation des livrets et la troupe Xinchuan.
+[^6]: [Prix spécial des Golden Melody Awards du National Center for Traditional Arts : Quel enseignement, quelle recherche — Liao Chiung-chih](https://magazine.ncfta.gov.tw/News_Content2.aspx?n=3135&s=103465&psn=103470) — Article biographique de « Transmission » du National Center for Traditional Arts, retraçant son parcours des scènes intérieures et extérieures à la radio, puis à l'enseignement, la compilation de scénarios et la troupe de transmission.
 
-[^7]: [Le recueil de livrets de Liao Chiung-chi témoigne de la transmission de l’opéra Gezaixi, annonce le drame phare de 2025](https://www.cna.com.tw/news/acul/202412260241.aspx) — Article de l’agence Central News Agency, rapportant l’organisation de deux ans du recueil de livrets, l’inclusion de sept œuvres, et les détails de l’apprentissage de l’écriture par Liao Chiung-chi pour la transmission.
+[^7]: [Le recueil de scénarios de Liao Chiung-chih témoigne de la transmission de l'opéra gézaï ; annonce des grandes pièces de 2025](https://www.cna.com.tw/news/acul/202412260241.aspx) — Article de la Central News Agency, rapportant les deux années de compilation du recueil de scénarios incluant sept œuvres, ainsi que les détails de l'apprentissage de Liao Chiung-chih pour la transcription textuelle afin d'assurer la transmission.
 
-[^8]: [Troupe d’opéra Gezaixi Xinchuan : 2018 Hommage au maître — Série d’activités « Peony Township » Concert de Peony Brillant](https://museums.moc.gov.tw/MocEntrance/Detail?activityId=d22e9361-d327-4e32-b47f-a2c74842dbd0) — Page de détail de l’activité du site Museums of Taiwan du Ministère de la Culture, organisant le parcours artistique de Liao Chiung-chi traversant théâtres intérieurs, scènes extérieures, radio, télévision et scène, ainsi que les projets de préservation.
+[^8]: [Troupe d'opéra gézaï Xinchuan : 2018 Hommage au Maître — Série d'activités sur l'affection de牡丹 (Mudan) « Concert de la musique éclatante de Mudan »](https://museums.moc.gov.tw/MocEntrance/Detail?activityId=d22e9361-d327-4e32-b47f-a2c74842dbd0) — Page de détails de l'événement « Île des Musées » du Ministère de la Culture, récapitulant le parcours artistique de Liao Chiung-chih à travers les scènes intérieures, extérieures, la radio, la télévision et la scène, ainsi que ses projets de conservation.
 
-[^9]: [La première actrice tragique de Taïwan Liao Chiung-chi conteuse sur scène, interprétation classique de l’opéra Gezaixi « Limaohuan Taizi » extrait](https://www.moc.gov.tw/News_Content.aspx?n=105&s=49295) — Article du Ministère de la Culture, documentant le cas de performance où Liao Chiung-chi a organisé la mémoire théâtrale intérieure, tenu le rôle de conteuse et où les élèves en transmission ont participé à la performance.
+[^9]: [Liao Chiung-chih, première 'ku-dan' de Taïwan, conteuse de scène : Interprétation classique de l'opéra gézaï « Le lynx échange le prince »](https://www.moc.gov.tw/News_Content.aspx?n=105&s=49295) — Article du Ministère de la Culture, documentant les cas de performance où Liao Chiung-chih compile les souvenirs du théâtre intérieur, agit en tant que conteuse et implique des étudiants en transmission dans les représentations.

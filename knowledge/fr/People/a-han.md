@@ -1,19 +1,19 @@
 ---
-title: 'A-Han : le garçon de Hualien qui interprète à lui seul toute une ruelle, puis se fait reprendre par ses habitants'
-description: "Tseng Wen-han, garçon de Hualien diplômé du département d'animation de l'Université nationale des arts de Taipei, incarne à lui seul, avec Ruan Yuejiao, Liao Lifang et Liao Lizhu, toute une ruelle taïwanaise. Jusqu'au retrait d'une publicité de la fête de Zhongyuan en 2022 : la belle-fille vietnamienne qu'il y jouait a été contestée par de véritables belles-filles vietnamiennes."
+title: "Ahan : le garçon de Hualien qui incarne seul toute une ruelle et s'est fait réprimander par ses voisins"
+description: "Diplômé en animation de l'Université des arts de Taipei, ce garçon originaire de Hualien gère depuis 2015 la chaîne « Ahan po vidéos », où il incarne seul tous les personnages d'une ruelle taïwanaise : la voyante Liao Li-fang, la belle-fille vietnamienne Nguyen Nguyet Kieu, la propriétaire Liao Li-chu et l'hôtesse du buffet. Son œuvre emblématique « La Déesse Jiutian » a cumulé plus de 13 millions de vues, et il a marqué l'ouverture des Golden Bell Awards en 2022 dans la catégorie drama ; cependant, sa publicité pour la fête des fantômes la même année a été retirée suite à une protestation de l'association des Vietnamiens à cause du personnage de Nguyen Nguyet Kieu. Imiter une ruelle et y vivre sont deux choses bien distinctes."
 date: 2026-05-11
 category: 'People'
 tags:
   [
-    'A-Han',
-    'A-Han publie des vidéos',
-    'YouTubeur',
-    'imitation',
-    'Ruan Yuejiao',
-    'Liao Lifang',
-    'nouveaux résidents',
+    'Ahan',
+    'Ahan po vidéos',
+    'YouTuber',
+    'Imitation',
+    'Nguyen Nguyet Kieu',
+    'Liao Li-fang',
+    'Nouveaux résidents',
     'Hualien',
-    'Université nationale des arts de Taipei',
+    'Université des arts de Taipei',
     'Golden Bell Awards',
   ]
 subcategory: 'Internet'
@@ -25,10 +25,10 @@ readingTime: 12
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/阿翰.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'a9322956ed'
 sourceContentHash: 'sha256:657a4770554a59cc'
 sourceBodyHash: 'sha256:7dbe663cdddeba6e'
-translatedAt: '2026-11-04T20:50:03.268436+00:00'
+translatedAt: '2026-11-27T02:02:10.982306+00:00'
 ---
 
 **Aperçu en 30 secondes :** Né en 1994 à Hualien, Tseng Wen-han a suivi la section arts du lycée féminin de Hualien avant d'être diplômé du département d'animation de l'Université nationale des arts de Taipei. En 2015, il lance la chaîne YouTube « A-Han po shipin »[^1]. Il incarne à lui seul Liao Li-fang, Ruan Yue-jiao, Liao Li-zhu, la tante du buffet — tous les personnages d'une ruelle taïwanaise. Son œuvre phare « La tante voyante, la déesse des Neuf Cieux répand les fleurs célestes » cumule plus de 13 millions de vues[^2]. Mais dans la publicité du Festival des fantômes 2022, son rôle de belle-fille vietnamienne est contesté par de véritables belles-filles vietnamiennes et retiré — un garçon de Hualien qui a soutenu une ruelle taïwanaise par l'imitation se voit demander par les habitants de cette ruelle : « Pourquoi cette place n'est-elle pas la mienne ? »

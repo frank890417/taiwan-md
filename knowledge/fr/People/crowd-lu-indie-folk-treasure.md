@@ -1,36 +1,36 @@
 ---
-title: 'Crowd Lu : le roi des trois trophées renversé par un bus'
-description: "En 2003, un lycéen de Tainan sort acheter un snack de nuit à vélo. Un bus lui écrase la jambe, fracture ouverte et éclate. Cloué au lit par l'ennui, il saisit la guitare laissée par son cousin. Vingt-deux ans plus tard, il est le plus jeune lauréat du Grand Chelem des Trois Prix d'Or de l'histoire de Taïwan — Golden Melody, Golden Bell, Golden Horse — un chemin parcouru avec une guitare et deux jambes qui avaient fracassé."
+title: 'Crowd Lu : Le triple lauréat des prix majeurs écrasé par un bus'
+description: "En 2003, ce garçon de Tainan s'est fait briser la jambe par un bus alors qu'il allait acheter un en-cas à vélo. Durant son hospitalisation, il a appris la guitare en autodidacte, ce qui lui a permis de percer sur la scène musicale avec son instrument. Après ses débuts en 2008 et son prix de meilleur nouvel artiste aux Golden Melody Awards l'année suivante, il n'a pas été nommé pendant huit ans, période durant laquelle il est retourné à pied de Taipei à Tainan pour se retrouver. En 2017, il a remporté le double prix aux Golden Bell Awards grâce à sa scène de rituel funéraire en plan-séquence dans « La Fille de l'Oignon ». En 2020, il a reçu le prix Golden Horse pour « Your Name Engraved Herein », devenant à trente-cinq ans le plus jeune lauréat des trois grands prix de Taiwan."
 date: 2026-04-07
+category: 'People'
 tags:
   [
-    Personnalité,
-    Crowd Lu,
-    Chanteur,
-    Acteur,
-    Golden Melody Award,
-    Golden Bell Award,
-    Golden Horse Award,
-    Trois Prix d'Or,
-    Tainan,
-    Flower Boy Next Door,
-    Poisson,
-    Taïwanais,
-    Musique indépendante,
-    peuples autochtones,
+    'Personnalité',
+    'Crowd Lu',
+    'Chanteur',
+    'Acteur',
+    'Golden Melody Awards',
+    'Golden Bell Awards',
+    'Golden Horse Awards',
+    'Triple lauréat',
+    'Tainan',
+    "La Fille de l'Oignon",
+    'Yu Zai',
+    'Taïwanais',
+    'Musique indépendante',
+    'Autochtone',
   ]
-category: 'People'
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
-readingTime: 12
 lastVerified: 2026-04-07
+lastHumanReview: true
+readingTime: 12
 translatedFrom: 'People/盧廣仲.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '8fc70bd881'
 sourceContentHash: 'sha256:a21c857b64fd8e71'
 sourceBodyHash: 'sha256:090ff0c53b31ba5d'
-translatedAt: 2026-05-16T22:21:29Z
-lastHumanReview: true
+translatedAt: '2026-11-27T01:43:05.685693+00:00'
 ---
 
 > **En 30 secondes :** Crowd Lu (盧廣仲), né en 1985 à Rende, Tainan, se fait renverser par un bus lors de sa première année d'université alors qu'il allait acheter un snack de nuit. Cloué au lit, il apprend la guitare en autodidacte. Il débute en 2008, remporte le prix du Meilleur Nouvel Artiste aux Golden Melody Awards en 2009, puis traverse un désert de huit ans sans nomination. En 2017, une scène funèbre de sept minutes en plan-séquence dans la série _Flower Boy Next Door_ fait trembler l'industrie ; il repart avec deux Golden Bell Awards. En 2020, _Your Name Engraved Herein_ lui vaut le Golden Horse de la Meilleure Chanson Originale. À 35 ans, il devient le plus jeune lauréat du Grand Chelem des Trois Prix d'Or de l'histoire de Taïwan. En 2026, les billets de son concert s'écoulent en une minute et les revendeurs réclament jusqu'à 60 000 TWD la place.

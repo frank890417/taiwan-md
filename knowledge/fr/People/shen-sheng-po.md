@@ -1,13 +1,13 @@
 ---
-title: 'Shen Sheng-Bo'
-description: "Formé en informatique, il a introduit la programmation dans la scène de l'art contemporain à Taïwan. En trente-quatre ans d'existence, Shen Sheng-Bo a laissé bien plus que des œuvres d'art numérique : il a incarné un esprit expérimental qui traite le code comme un mode de vie et le logiciel libre comme une éthique créative."
+title: 'Sheng-Bo Shen'
+description: "Artiste numérique et ingénieur artistique taïwanais, né en 1980 à Changhua, il a étudié l'informatique avant de se tourner vers l'art technologique, prônant « le code comme mode de vie », considérant les règles numériques et la logique algorithmique comme le cœur de sa création. Il promeut FLOSS+ART, dispense des cours Processing, met en place un forum pédagogique, et est membre d'OpenLab.Taipei. En 2011, il fonde l'espace Youwei à Taichung, offrant un lieu pour l'expérimentation. Après avoir contracté un cancer colorectal en 2009, il continue de créer, et décède en 2014 à l'âge de 34 ans. Ses œuvres telles que « pin shadow » et « texture » sont encore restaurées et réexposées aujourd'hui."
 date: 2026-03-23
 category: 'People'
 tags:
   [
     'Personnalité',
     'Art numérique',
-    'Nouveaux médias',
+    'Art des nouveaux médias',
     'FLOSS+ART',
     'OpenLab.Taipei',
     'Taïwan',
@@ -21,10 +21,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/沈聖博.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '3f269cde5e'
 sourceContentHash: 'sha256:36208e14ce1c380c'
 sourceBodyHash: 'sha256:5eb269f5e4d722c4'
-translatedAt: '2026-11-04T21:34:47.774162+00:00'
+translatedAt: '2026-11-27T01:47:13.536252+00:00'
 ---
 
 # Shen Sheng-Bo

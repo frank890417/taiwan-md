@@ -1,6 +1,6 @@
 ---
-title: 'Robert Swinhoe : quand le diplomate devient naturaliste'
-description: "En 1856, un traducteur britannique de 19 ans note le premier oiseau qu'il voit sur la côte ouest de Formose. Quatre ans plus tard, il fait découvrir au monde les espèces de l'île à travers 52 articles scientifiques."
+title: 'Swinhoe : quand le diplomate devient naturaliste'
+description: "Diplomate et naturaliste britannique, il a mis le pied à Formose pour la première fois à l'âge de 19 ans en tant qu'interprète. En 1860, il est nommé premier vice-consul britannique à Formose, avant d'être promu consul en 1865. Durant ses quatre années à Taïwan, il a publié 52 articles académiques, répertoriant 227 espèces d'oiseaux, près de 40 espèces de mammifères et 246 espèces de plantes, permettant au monde de découvrir pour la première fois la biodiversité de l'île. Il est considéré par les ornithologues de son époque comme l'un des explorateurs naturalistes les plus accomplis de l'histoire. Quatre mammifères et quinze oiseaux portent son nom, dont le Martin-pêcheur à ventre bleu et la tortue géante de Formose ; il est décédé à Londres en 1877, à l'âge de 41 ans."
 date: 2026-04-12
 category: 'People'
 tags:
@@ -8,9 +8,9 @@ tags:
     'naturalisme',
     'consul britannique',
     'histoire naturelle',
-    'ornithologie',
+    'oiseaux',
     'espèces endémiques de Taïwan',
-    'ouverture des ports',
+    'ouverture des ports et commerce',
     'XIXe siècle',
   ]
 subcategory: '歷史人物'
@@ -22,10 +22,10 @@ image: ''
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/史溫侯.md'
-sourceCommitSha: 'b1a5fea00'
+sourceCommitSha: '3f269cde5e'
 sourceContentHash: 'sha256:50b13c3a31e0a1c0'
 sourceBodyHash: 'sha256:e6b263814c7b1995'
-translatedAt: '2026-11-18T22:56:04+08:00'
+translatedAt: '2026-11-27T01:19:06.755779+00:00'
 ---
 
 # Robert Swinhoe : quand le diplomate devient naturaliste

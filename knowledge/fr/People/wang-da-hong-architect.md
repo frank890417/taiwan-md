@@ -1,17 +1,17 @@
 ---
-title: "Wang Da-hong : le poète de l'architecture qui a apporté l'esprit du Bauhaus à Taïwan et contemplé l'âme orientale par le modernisme"
-description: 'Lauréat du concours du Mémorial Sun Yat-sen en 1965, formé par le maître du Bauhaus Walter Gropius, Wang Da-hong a passé sa vie à résoudre la tension entre tradition et modernité.'
+title: "Wang Da-hong : Le poète de l'architecture qui a introduit l'esprit du Bauhaus à Taïwan et contemplé l'âme orientale par l'architecture moderne"
+description: "Poète de l'architecture ayant étudié sous la direction du fondateur du Bauhaus, Walter Gropius, diplômé de l'Université de Cambridge et de l'Université Harvard, il a consacré sa vie à résoudre la tension entre tradition et modernité après son retour à Taïwan. En 1965, il s'est distingué lors du concours pour le Mémorial Sun Yat-sen en intégrant des avant-toits incurvés issus de calculs géométriques rigoureux à une structure moderne ; sa résidence personnelle sur Jianguo South Road, conçue en 1953, a été reconstruite près du Musée d'Art de Taipei. Ses œuvres incluent le bâtiment du ministère des Affaires étrangères et la résidence Honglu. À la fin de sa vie, il a écrit le roman de science-fiction en anglais « Phantom City », s'éteignant à l'âge de 101 ans."
 date: 2026-08-18
 category: 'People'
 tags:
   [
     'Wang Da-hong',
-    'architecture de Taïwan',
-    'modernisme',
+    'Architecture taïwanaise',
+    'Modernisme',
     'Mémorial Sun Yat-sen',
-    "poète de l'architecture",
+    "Poète de l'architecture",
     'Bauhaus',
-    'résidence de Jianguo South Road',
+    'Résidence de Jianguo South Road',
   ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
@@ -21,10 +21,10 @@ lastHumanReview: false
 revision: 2
 curation: 'incubating'
 translatedFrom: 'People/王大閎.md'
-sourceCommitSha: 'ad1003d60'
+sourceCommitSha: '2556505034'
 sourceContentHash: 'sha256:efe79d1571f630fc'
 sourceBodyHash: 'sha256:c9962896cf42e163'
-translatedAt: '2026-10-15T01:07:17+08:00'
+translatedAt: '2026-11-27T01:59:41.662192+00:00'
 ---
 
 > **Aperçu en 30 secondes :**

@@ -1,16 +1,16 @@
 ---
-title: 'Chen Shih-chun'
-description: "Il quitta Taïwan à huit ans, construisit à vingt-sept ans aux États-Unis une plateforme permettant à chacun de déposer des vidéos, la vendit huit mois plus tard pour 1,65 milliard de dollars, développa ensuite un anévrisme cérébral, puis revint s'installer en famille à Taïwan."
+title: 'Chen Shijun'
+description: "L'un des entrepreneurs taïwanais-américains les plus célèbres de la Silicon Valley, il a immigré aux États-Unis à l'âge de huit ans et a rejoint PayPal avant d'avoir obtenu son diplôme universitaire. En 2005, il a cofondé YouTube dans un garage avec deux anciens collègues, et l'a vendu à Google vingt mois plus tard pour 1,65 milliard de dollars américains. Après l'acquisition, on lui a diagnostiqué un anévrisme cérébral ; il a subi deux craniotomies et quinze crises d'épilepsie. En 2019, il est retourné s'installer à Taïwan avec sa femme et ses enfants, et a reçu la première carte or d'emploi de Taïwan ; depuis, il continue de propulser les start-ups taïwanaises sur la scène mondiale."
 date: 2026-04-06
 category: 'People'
 tags:
   [
-    'Chen Shih-chun',
+    'Chen Shijun',
     'YouTube',
     'Silicon Valley',
-    "création d'entreprise",
-    'carte de séjour professionnelle',
-    'anévrisme',
+    'start-up',
+    "carte or d'emploi",
+    'tumeur cérébrale',
   ]
 subcategory: '科技與創業'
 author: 'Taiwan.md Contributors'
@@ -21,10 +21,10 @@ readingTime: 8
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/陳士駿.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '630afb2b66'
 sourceContentHash: 'sha256:ba95870558368ba6'
 sourceBodyHash: 'sha256:10a502d58bab93f7'
-translatedAt: '2026-11-04T22:35:14.782147+00:00'
+translatedAt: '2026-11-27T01:54:18.275673+00:00'
 ---
 
 # Chen Shih-chun

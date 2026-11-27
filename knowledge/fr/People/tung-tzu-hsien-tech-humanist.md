@@ -1,20 +1,27 @@
 ---
-title: "Tung Tzu-hsien : parti du Taipei Tech, Pegatron devient le plus grand partenaire sous-traitant d'Apple"
-description: "Né le 25 juin 1960, Tung Tzu-hsien est diplômé du département d'électronique du Taipei Tech (aujourd'hui l'Université nationale de technologie de Taipei), et non de la faculté d'électrotechnique de l'NTU. Il rejoint ASUS en 1988, puis dirige la scission le 1er janvier 2008 et fonde Pegatron, devenant sous-traitant d'Apple, Sony et Nintendo. En 2019, il investit dans la librairie Eslite. En 2025, il continue de défendre publiquement une politique énergétique de « coexistence nucléaire et renouvelable »."
+title: "Tung-Jen (Tony) Tung : De l'Institut technique de Taipei à la création de Pegatron, le partenaire majeur d'Apple"
+description: "Entrepreneur du secteur électronique taïwanais, diplômé en électronique de l'Institut technique de Taipei et non de l'Université nationale de Taïwan. Après avoir rejoint ASUS en 1988, il a orchestré la séparation entre les activités de marque et de fabrication le jour de l'An 2008 pour fonder Pegatron Corporation, devenue le fabricant pour des marques telles qu'Apple, Sony et Nintendo. En 2019, il a pris des parts dans Eslite Bookstore, estimant qu'« une société a besoin de librairies comme elle a besoin d'hôpitaux ». Il est également l'un des entrepreneurs les plus vocaux du secteur technologique sur les politiques énergétiques, plaidant de longue date pour la « coexistence du nucléaire et du renouvelable »."
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
+tags:
+  [
+    'Technologie et entreprise',
+    'Pegatron',
+    'Fabrication électronique',
+    'ODM',
+    'Politique énergétique',
+  ]
 subcategory: '科技與企業'
-tags: ['科技與企業', '和碩聯合', '電子代工', 'ODM', '能源政策']
-readingTime: 7
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: false
+readingTime: 7
 translatedFrom: 'People/童子賢.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '3f269cde5e'
 sourceContentHash: 'sha256:741173e056926b2c'
 sourceBodyHash: 'sha256:7f6ff2dde21c6686'
-translatedAt: '2026-05-24T05:06:33+08:00'
+translatedAt: '2026-11-27T02:11:52.883640+00:00'
 ---
 
 # Tung Tzu-hsien : parti du Taipei Tech, Pegatron devient le plus grand partenaire sous-traitant d'Apple
