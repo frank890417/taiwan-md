@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-28T03:28:41+08:00",
-    "zhCommitHead": "6236a16909",
+    "lastUpdated": "2026-11-28T04:06:25+08:00",
+    "zhCommitHead": "521a0a6bb1",
     "totalZh": 1194,
     "activeLanguages": [
       "en",
@@ -92,24 +92,24 @@
       },
       "ar": {
         "total_zh": 1194,
-        "fresh": 1189,
-        "stale": 5,
+        "fresh": 1190,
+        "stale": 4,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1194,
-        "fresh": 1190,
-        "stale": 3,
+        "fresh": 1191,
+        "stale": 2,
         "metadata_stale": 1,
         "missing": 0,
         "orphan": 0
       },
       "de": {
         "total_zh": 1194,
-        "fresh": 1134,
-        "stale": 27,
+        "fresh": 1135,
+        "stale": 26,
         "metadata_stale": 33,
         "missing": 0,
         "orphan": 0
@@ -107046,20 +107046,18 @@
         "de": {
           "path": "de/People/idiot-princess-youtuber.md",
           "translatedFrom": "People/白癡公主.md",
-          "sourceCommitSha": "4c2e1c233",
-          "sourceContentHash": "sha256:57f32564152ce686",
-          "sourceBodyHash": "sha256:0482ecaa622a6229",
-          "translatedAt": "2026-09-14T14:50:08+08:00",
+          "sourceCommitSha": "fd2854dbad",
+          "sourceContentHash": "sha256:0e7a79763287a5ac",
+          "sourceBodyHash": "sha256:d7c9ce93611e7e78",
+          "translatedAt": "2026-11-28T03:18:00+08:00",
           "translationLastCommit": "f4892bab",
           "translationLastModified": "2026-09-19T11:51:58+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "bytes": 28616,
+          "bytes": 28082,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -213180,8 +213178,8 @@
           "sourceContentHash": "sha256:3c26fdbf6ae8c1e1",
           "sourceBodyHash": "sha256:de7eeb7836899ba7",
           "translatedAt": "2026-11-27T17:38:23.231110+00:00",
-          "translationLastCommit": "2639f9bd",
-          "translationLastModified": "2026-11-19T01:22:19+08:00",
+          "translationLastCommit": "521a0a6b",
+          "translationLastModified": "2026-11-28T03:28:42+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "bytes": 57124,
@@ -213208,34 +213206,34 @@
         "ar": {
           "path": "ar/Geography/chiayi-city.md",
           "translatedFrom": "Geography/嘉義市.md",
-          "sourceCommitSha": "be13f045",
-          "sourceContentHash": "sha256:fe4751f1e66665bd",
-          "sourceBodyHash": "sha256:7f19df1b99a37241",
-          "translatedAt": "2026-09-26T03:31:12.238876+00:00",
+          "sourceCommitSha": "cb9b03dad5",
+          "sourceContentHash": "sha256:3c26fdbf6ae8c1e1",
+          "sourceBodyHash": "sha256:de7eeb7836899ba7",
+          "translatedAt": "2026-11-27T19:29:08.802319+00:00",
           "translationLastCommit": "59bf6b68",
           "translationLastModified": "2026-11-19T01:13:18+08:00",
           "inferred": false,
-          "footnoteDefs": 32,
-          "bytes": 73216,
+          "footnoteDefs": 33,
+          "bytes": 80619,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (33→32)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Geography/chiayi-city.md",
           "translatedFrom": "Geography/嘉義市.md",
-          "sourceCommitSha": "be13f045",
-          "sourceContentHash": "sha256:fe4751f1e66665bd",
-          "sourceBodyHash": "sha256:7f19df1b99a37241",
-          "translatedAt": "2026-09-27T00:57:32+08:00",
+          "sourceCommitSha": "cb9b03dad5",
+          "sourceContentHash": "sha256:3c26fdbf6ae8c1e1",
+          "sourceBodyHash": "sha256:de7eeb7836899ba7",
+          "translatedAt": "2026-11-27T19:40:47.699411+00:00",
           "translationLastCommit": "be84dc2a",
           "translationLastModified": "2026-11-19T01:23:30+08:00",
           "inferred": false,
-          "footnoteDefs": 32,
-          "bytes": 86148,
+          "footnoteDefs": 33,
+          "bytes": 92035,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (33→32)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/Geography/chiayi-city.md",

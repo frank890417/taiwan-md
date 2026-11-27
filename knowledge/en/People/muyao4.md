@@ -1,16 +1,16 @@
 ---
-title: 'Mu Yao 4 Super Play: Filming the Invisible Expertise of Ordinary Jobs into a Web Variety Show'
-description: 'Launched in 2015 on Macabe, *Mu Yao 4 Super Play* evolved to YouTube; its 2018 episode "One Day as Mayor’s Aide" (58 minutes) surpassed 3 million views in four days. While ostensibly featuring celebrities at work, it fundamentally changed how audiences view the expertise of technicians, aides, and concert crew.'
+title: 'Wooderful 4 Super Play: Turning the Invisible Expertise of Ordinary Jobs into Web Variety Shows'
+description: 'Starting from explorations on Makabai live streams, this web variety show began broadcasting in 2015, established its "One Day Series" format in 2016, and launched its YouTube channel in 2017. Featuring Tai Chih-yuan and others stepping into the worlds of Taipower technicians, street lamp repairmen, and concert backstage crews, the show uses intricate details to bring outlines to hidden professions. In 2018, the "One Day Mayor''s Aide" episode surpassed three million views in just four days. It turns celebrities into apprentices and allows audiences to see the overlooked expertise behind ordinary jobs.'
 date: 2026-08-16
 category: 'People'
 tags:
   [
-    'Mu Yao 4 Super Play',
-    'Tai Zhi-yuan',
+    'Wooderful 4 Super Play',
+    'Tai Chih-yuan',
     'One Day Series',
     'Web Variety Show',
     'YouTube',
-    'Taiwan Media',
+    'Taiwanese Media',
   ]
 subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
@@ -20,10 +20,10 @@ lastHumanReview: false
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'People/木曜4超玩.md'
-sourceCommitSha: '4f3974f86'
+sourceCommitSha: '8fc70bd881'
 sourceContentHash: 'sha256:c545680e99f6d0ab'
 sourceBodyHash: 'sha256:809502b72dc5c3f5'
-translatedAt: '2026-09-21T14:34:18.532907+00:00'
+translatedAt: '2026-11-27T18:35:02.560510+00:00'
 ---
 
 > **30-second overview:** In 2015, _Mu Yao 4 Super Play_ launched on Macao Network Television; the first "One Day" episode appeared in 2016, and a separate YouTube channel was set up in 2017. What makes the show interesting is not sending figures like Tai Chi-yuan, KID, or Winnie to do a day's work, but rather placing ordinary craftsmen, aides, and behind-the-scenes staff into a scenario where they can be viewed by audiences across Taiwan. It looks as though _Mu Yao_ is turning stars into ordinary people; in reality, it is turning the invisible expertise of everyday jobs into a popular show.
