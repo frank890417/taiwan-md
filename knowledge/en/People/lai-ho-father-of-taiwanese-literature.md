@@ -1,16 +1,16 @@
 ---
-title: 'Lai He: The "Mazu of Changhua" in Local Attire, and His Uncompromising Scales'
-description: 'Before New Year''s Eve in 1943, the renowned Changhua physician Lai He habitually burned the debt records of his poor patients. Known as the "Father of Taiwan New Literature," he used his scalpel to save lives and his pen as a sword against injustice under colonial rule; his work "A Pair of Scales" remains a cultural symbol of Taiwan''s resistance against systemic violence.'
+title: 'Lai He: The "Changhua Mazu" in Local Attire, and His Uncompromising Scales'
+description: 'The Father of New Taiwanese Literature, who saved lives with a scalpel and criticized injustice with his pen. During the Japanese colonial period, he long stood by the grassroots people dressed in local island attire, earning him the respect of Changhua citizens as the "Changhua Mazu." Every Lunar New Year''s Eve, he burned the debt records of poor patients. From writing the first modern poem through the Erlin Cane Farmers Incident to using "The Scales" to criticize colonial legal violence and "Elegy of the Southern Lands" to mourn the Wushe Incident, he witnessed half a century of colonial suffering. His works remain cultural symbols of Taiwan''s resistance against power and violence.'
 date: 2026-04-28
 category: 'People'
 tags:
   [
     'Lai He',
-    'Taiwan literature',
+    'Taiwanese Literature',
     'Changhua',
-    'Japanese colonial period',
-    'medical history',
-    'social movements',
+    'Japanese Colonial Period',
+    'Medical History',
+    'Social Movements',
   ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
@@ -21,10 +21,10 @@ readingTime: 12
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/賴和.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '2556505034'
 sourceContentHash: 'sha256:3c703a9a3c1bb21e'
 sourceBodyHash: 'sha256:12da8a5e75f1d767'
-translatedAt: '2026-10-24T09:47:23+08:00'
+translatedAt: '2026-11-27T02:21:40.844647+00:00'
 ---
 
 > **30-Second Overview:** Lai He (1894–1943) was the most influential physician-writer of the Japanese colonial period. With one hand, he used a scalpel to treat the poor, earning him the titles "Mazu of Changhua" and "He-zai Xian"; with the other, he wielded a pen to pioneer Taiwan's vernacular literature and critique the injustices of colonial rule. His life encapsulates the struggle and dignity of the Taiwanese people under Japanese administration—most notably his altruistic practice of burning patients' debt notes every New Year's Eve, and his writings composed in prison, which remain models of medical ethics and humanistic spirit in Taiwan.

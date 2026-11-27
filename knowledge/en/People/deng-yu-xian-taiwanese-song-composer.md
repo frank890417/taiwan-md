@@ -1,12 +1,12 @@
 ---
-title: 'Deng Yuxian: Hakka 1906, April Longing for Rain — 39 Years of the Father of Taiwanese Popular Songs'
-description: 'Born on July 21, 1906, in a Hakka family in Longtan, Taoyuan; his birth name was Deng Bingyan. After graduating from normal school, he was recruited by Columbia Records in 1933. His four major representative works — "April Longing for Rain" (Four Seasons Red / Moonlit Night Sorrow / Longing for Spring Breeze / Rainy Night Flower) — are still sung today. In 1939 he went to teach at Qionglin Public School in Hsinchu; he died on June 11, 1944 at Zhudong Hospital, aged 39.'
+title: 'Teng Yu-hsien: Hakka 1906, April Rain—The Thirty-Nine Years of the Father of Taiwanese Ballads'
+description: 'A composer who laid the foundation for Taiwanese popular ballads using Western harmony, he was born into a Hakka scholarly family in Longtan, Taoyuan. His birth name was Teng Bing-yen, and he served as an elementary school teacher after graduating from normal school. In 1933, he was recruited by Columbia Records as an exclusive composer; in less than two years, he composed four representative works—"Sìjìhóng," "Moonlit Night Sorrow," "Looking Forward to Spring Breeze," and "Rainy Night Flower"—collectively known as "April Rain." Under wartime restrictions, he returned to teach at Hsinchu Yunglin Public School and passed away at Zhudong Hospital in 1944 at the age of 39. His four melodies continue to be covered and celebrated by generations of singers to this day.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Music',
-    'Taiwanese Songs',
+    'Taiwanese Ballads',
     'Composer',
     'Japanese Colonial Period',
     'Taoyuan',
@@ -21,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/鄧雨賢.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '2556505034'
 sourceContentHash: 'sha256:03f4c1611aa95a6c'
 sourceBodyHash: 'sha256:0d86dfd69dceab10'
-translatedAt: '2026-11-04T22:38:19.515951+00:00'
+translatedAt: '2026-11-27T02:31:40.912571+00:00'
 ---
 
 # Deng Yuxian: Hakka 1906, Four Songs of the Four Months — Thirty-Nine Years of the Father of Taiwanese Ballads

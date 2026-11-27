@@ -1,11 +1,11 @@
 ---
-title: 'Hsu Fang-yi: Born in Yilan, 1971; From Martha Graham Dance Company Principal to 2024 Golden Horse Film Festival Visual Identity Dancer'
-description: 'Born in Yilan in 1971. Studied at the Department of Dance, Taipei National University of the Arts. Moved to the United States in 1995 and joined the Martha Graham Dance Company, rising to Principal in 1999. Returned to Taiwan in 2007 to found LAFA (ended in 2010). Featured in the documentary "My Body, My Mind" (2020). Designed the dance performance for the 2024 Golden Horse Film Festival''s visual identity. Interviewed in 2025 regarding the topic of physical aging.'
+title: 'Hsu Fang-yi: Yilan 1971, from Martha Graham Dance Company Principal to 2024 Golden Horse Festival Key Visual Dancer'
+description: "Taiwanese modern dancer, born in Yilan. After graduating from the Department of Dance at Taipei National University of the Arts, she went to the United States. In 1995, she passed the audition and joined the Martha Graham Dance Company, and was promoted to principal dancer four years later, becoming one of the few Taiwanese to hold a principal position in a world-leading modern dance company. She returned to Taiwan in 2007 and founded La Fang, promoting dance education and cross-disciplinary collaboration. Her documentary 'My Heart, My Way' premiered in 2020, and in 2024 she designed the key visual dance for the Golden Horse Film Festival. In recent years, she has continued to speak publicly about bodily aging and career transition for dancers."
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Art & Design',
+    'Art and Design',
     'Dance',
     'Performing Arts',
     'Modern Dance',
@@ -20,10 +20,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/許芳宜.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '630afb2b66'
 sourceContentHash: 'sha256:a31b5339a894147e'
 sourceBodyHash: 'sha256:e2e71f85bef4ed48'
-translatedAt: '2026-11-04T21:35:39.993823+00:00'
+translatedAt: '2026-11-27T02:34:44.368810+00:00'
 ---
 
 # Fang-Yi Sheu: Yilan 1971, from Martha Graham Dance Company Principal to 2024 Golden Horse Film Festival Visual Dance Designer

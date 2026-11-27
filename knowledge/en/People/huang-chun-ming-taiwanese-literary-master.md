@@ -1,6 +1,6 @@
 ---
-title: 'Huang Chun-ming: Born 1935 in Luodong, Writer of the "Little People" from "Days of Watching the Sea" to "The Son''s Big Doll"'
-description: 'Born February 13, 1935 in Luodong, Yilan. "Days of Watching the Sea" (1967) and "The Son''s Big Doll" (1969) represent the core concern for marginalized figures in Taiwan nativist literature. 1977 Nativist Literature Debate. Winner of Wu San-lien Literary Award and National Literary Award. Second son Huang Kuo-chun (writer) died by suicide on June 20, 2003. Hou Hsiao-hsien adapted his work to film in 1983. Still alive as of 2026.'
+title: 'Huang Chun-ming: From Luodong 1935, "Days of Watching the Sea" to "The Son''s Big Doll," a Writer of Ordinary People'
+description: 'A writer of Nativist literature deeply rooted in Yilan whose creative core focuses on marginalized individuals. After graduating from Taipei Normal College, he worked as an elementary school teacher for many years, transforming rural daily life into novel material. "Days of Watching the Sea" depicts marginalized women through a non-judgmental lens, while "The Son''s Big Doll" tells the story of a father working as a clown to support his family, which was adapted to film by Hou Hsiao-hsien in 1983. He was one of the key writers discussed during the Nativist literature debates of 1977 and has received both the Wu San-lien Literary Award and the National Literary Award. In his later years, he continued his focus on the vulnerable through the Huang Dayu Children''s Theater.'
 date: 2026-03-19
 category: 'People'
 tags:
@@ -8,7 +8,7 @@ tags:
     'Literature',
     'Nativist Literature',
     'Yilan',
-    'Little People',
+    'Ordinary People',
     "The Son's Big Doll",
     'Days of Watching the Sea',
   ]
@@ -21,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/黃春明.md'
-sourceCommitSha: '22286539e'
-sourceContentHash: 'sha256:fa94afa39f837939'
-sourceBodyHash: 'sha256:59fc287ce8c0baeb'
-translatedAt: '2026-11-05T08:50:25+08:00'
+sourceCommitSha: '2556505034'
+sourceContentHash: 'sha256:fb400d56624fcb69'
+sourceBodyHash: 'sha256:be81edf9c205405a'
+translatedAt: '2026-11-27T02:36:38.954642+00:00'
 ---
 
 # Huang Chun-ming: Born 1935 in Luodong, Writer of the "Little People" from "Days of Watching the Sea" to "The Son's Big Doll"
@@ -57,9 +57,9 @@ Huang Chun-ming's writing of little people is never sentimental pity, but speaks
 
 ## Position in the 1977 Nativist Literature Debate
 
-In 1977, the "Nativist Literature Debate" erupted, with critics questioning the political stance of nativist literature. Huang Chun-ming was one of the key writers heavily discussed in this debate [^2]. He did not compromise or retreat, continuing to insist on his creative direction focusing on grassroots people's lives.
+In 1977, the [Nativist Literature Debate](/en/history/nativist-literature-debate/) erupted, with critics questioning the political stance of nativist literature. Huang Chun-ming was one of the writers prominently discussed during this debate[^2]. He did not compromise or retreat, continuing to persist in his creative direction of focusing on the lives of ordinary people at the grassroots level.
 
-The debate's impact on Huang Chun-ming lay in his works being forced into a political framework he never intended to enter. He wrote little people because those people truly existed and needed to be seen; political statement was an interpretive framework others imposed. After the debate, his stance did not change: he chose to continue using literature to do what he had always done—let those people be seen.
+The impact of the Nativist Literature Debate on Huang Chun-ming lay in his work being forced into a political framework that he never intended to enter. He wrote about "little people" because those individuals truly existed and needed to be seen; any political statement was an interpretive framework imposed by others. After the debate, his stance remained unchanged: he chose to continue using literature for what he had always done—making those people seen.
 
 ## Literary Awards
 

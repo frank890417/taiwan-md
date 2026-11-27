@@ -1,14 +1,14 @@
 ---
-title: 'Zhong Lihe: Meinong 1915, the Pen-Farmer Who Fell in a Pool of Blood'
-description: 'Born December 15, 1915, in a Hakka family in Meinong, Kaohsiung. Went to Northeast China in 1938, returned to Taiwan in 1946. Major works include *Lishe Farm* (novel), *The Native Place* (short story, written 1959), and *Impoverished Couple*. Known as "the Pen-Farmer Who Fell in a Pool of Blood," often honored as the "Father of Taiwan Nativist Literature" (this title is contested). Died coughing blood on August 4, 1960, aged 44.'
+title: 'Chung Li-ho: The Writer Who Fell in a Pool of Blood, Meenur 1915'
+description: 'A local literature writer who used Hakka rural villages as his writing setting. Born into a Hakka farming family in Meinong, Kaohsiung, he drifted through Northeast China for eight years starting in 1938 before returning to Taiwan in 1946. His novel "Lishan Farm" honestly records the survival struggles of farmers from an internal perspective, while his short story "The Native" questions spiritual belonging. He is often revered as the "Father of Taiwan Local Literature," though this title remains controversial. Despite suffering from tuberculosis, he persisted in writing and passed away at age 44 in 1960 while coughing up blood during manuscript revisions, earning him the moniker "the writer who fell in a pool of blood."'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Literature',
-    'Nativist Literature',
-    'The Native Place',
-    'Lishe Farm',
+    'Local Literature',
+    'The Native',
+    'Lishan Farm',
     'Meinong',
     'Hakka',
   ]
@@ -21,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/鍾理和.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '2556505034'
 sourceContentHash: 'sha256:cddbfe1c856d1966'
 sourceBodyHash: 'sha256:59814996cd0ea2c6'
-translatedAt: '2026-11-05T05:49:11+08:00'
+translatedAt: '2026-11-27T02:39:30.331516+00:00'
 ---
 
 # Zhong Lihe: Meinong 1915, the Pen-Farmer Who Fell in a Pool of Blood

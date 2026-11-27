@@ -1,12 +1,12 @@
 ---
-title: "Wen-long Xu: Tainan 1928, Chi Mei Corporation 1959 to Founder of the Museum with the World's Largest Violin Collection"
-description: "Born 1928/2/25 in Tainan, died 2023/11/18 (age 95). Founded Chi Mei Corporation in Oct 1959 (capital NT$2 million). Began collecting violins in 1990, totaling 1,362 (world's most). Chi Mei Museum officially opened 2015/1/1 (Tainan Metropolitan Park). Loved violins; Chi Mei Museum offers free admission (current policy P0⚠️ pending confirmation)."
+title: "Hsu Wen-lung: Tainan 1928, Chimei Industry 1959, and the Founder of the World's Largest Violin Museum"
+description: 'The father of acrylic in Taiwan, who founded Chimei Industry in 1959 with a capital of NT$2 million and made ABS engineering plastics world-leading by age 63. He believes that enterprises are a means to pursue happiness, implementing a two-day weekend as early as 1984. Since 1990, he has been acquiring antique violins, accumulating 1,362 pieces—the largest private collection in the world. In 2015, the Chimei Museum opened in Tainan Metropolitan Park, allowing children from every corner to experience top-tier Western art. Over 95 years of life, he has left behind landmarks in both business and culture.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Technology & Enterprise',
-    'Chi Mei Group',
+    'Chimei Group',
     'Entrepreneur',
     'Music & Art',
     'Museum',
@@ -22,10 +22,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/許文龍.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'a9322956ed'
 sourceContentHash: 'sha256:720cd768af91d1c3'
 sourceBodyHash: 'sha256:7ec1f1d13ec2e4d4'
-translatedAt: '2026-11-05T04:14:33.702660+00:00'
+translatedAt: '2026-11-27T02:23:59.083779+00:00'
 ---
 
 # Xu Wen-long: Tainan 1928, Chi Mei Corporation 1959, and the Founder of the World's Largest Violin Collection Museum

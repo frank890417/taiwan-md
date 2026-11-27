@@ -1,13 +1,13 @@
 ---
-title: 'Paul Ching-Wu Chu: Co-discoverer of High-Temperature Superconductivity at Tc=93K, Breaking Through the Liquid-Nitrogen Temperature in 1987'
-description: 'Born in Hunan in 1941, Paul Ching-Wu Chu is a Taiwanese American physicist. In January 1987, he and Maw-Kuen Wu jointly discovered yttrium barium copper oxide (YBCO) with Tc=93K, crossing the liquid-nitrogen temperature threshold and opening the era of high-temperature superconductivity. From 2001 to 2009 he served as president of the Hong Kong University of Science and Technology. In March 2026, he published a new Tc=151K breakthrough in PNAS and remains active in research at age 85.'
+title: 'Chu Ching-wu: Co-discoverer of High-Temperature Superconductivity (Tc=93K) that Surpassed Liquid Nitrogen Temperatures in 1987'
+description: 'A co-discoverer in the field of high-temperature superconductivity. Born in Hunan and raised in Taiwan, he graduated from National Cheng Kung University with a degree in Physics before moving to the United States to obtain his PhD. Since 1979, he has led a superconductivity research team at the University of Houston. In January 1987, he discovered Yttrium Barium Copper Oxide (YBCO) with a critical temperature of 93K, which was the first to surpass the liquid nitrogen temperature threshold, moving high-temperature superconductivity from elite laboratories toward industrial feasibility. He served as the President of the Hong Kong University of Science and Technology from 2001 to 2009. At age 85 in 2026, he continued to publish breakthroughs with Tc=151K in the Proceedings of the National Academy of Sciences (PNAS), never leaving that curve of rising temperatures.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Science and Academia',
+    'Science & Academia',
     'Physicist',
-    'Superconductors',
+    'Superconductor',
     'HKUST',
     'University of Houston',
   ]
@@ -20,10 +20,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/朱經武.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'a9322956ed'
 sourceContentHash: 'sha256:79c87fb84a11dd9d'
 sourceBodyHash: 'sha256:619ef92c56c46024'
-translatedAt: '2026-11-04T22:31:55.623744+00:00'
+translatedAt: '2026-11-27T02:27:28.547723+00:00'
 ---
 
 # Paul Ching-Wu Chu: Co-discoverer of High-Temperature Superconductivity at Tc=93K, Breaking Through the Liquid-Nitrogen Temperature in 1987

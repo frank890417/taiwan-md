@@ -1,14 +1,14 @@
 ---
-title: "Li Ang: Lukang 1952, 'The Butcher's Wife' Pioneer of Taiwanese Feminist Literature"
-description: "Born in 1952 in Lukang, Changhua, birth name Shih Shu-tuan. In 1983, 'The Butcher's Wife' was serialized in the United Daily News, shocking Taiwan's literary scene with its domestic violence theme. In 1991, 'The Labyrinth Garden'. In 2004, awarded the Chevalier of the Order of Arts and Letters by France. Works translated into English, French, German, Japanese, and other languages, she is one of Taiwan's most internationally recognized female writers."
+title: 'Li Ang: Lukang 1952, The Pioneer Who Opened the Way for Taiwanese Feminist Literature with "Lady phận"'
+description: 'A prominent Taiwanese feminist writer born in Lukang, Changhua in 1952. Her real name is Shih Shu-tun, and she graduated from the Department of Philosophy at Chinese Culture University. In 1983, her work "Lady phận" (Sa Fu) was serialized in United Daily News, shocking the literary world with its themes of domestic violence and being recognized as a precursor to Taiwanese feminist literature. In 1991, she published "The Lost Garden" (Mi Yuan), exploring the pressures of traditional culture and female subjectivity. In 2004, she was awarded the Knight of the Order of Arts and Letters by France. Her works have been translated into English, French, German, Japanese, and other languages, making her one of Taiwan''s most internationally recognized female writers.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Literature',
     'Feminist Literature',
-    "The Butcher's Wife",
-    'The Labyrinth Garden',
+    'Lady phận',
+    'The Lost Garden',
     'Lukang',
     'Gender Issues',
   ]
@@ -21,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/李昂.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '3f269cde5e'
 sourceContentHash: 'sha256:047f29e16ec14ac9'
 sourceBodyHash: 'sha256:0a0f9bd1ab3db88b'
-translatedAt: '2026-11-04T21:02:59.094538+00:00'
+translatedAt: '2026-11-27T02:42:41.147601+00:00'
 ---
 
 # Li Ang: Lukang 1952, the Trailblazer Who Opened the Path of Taiwanese Feminist Literature with "The Butcher's Wife"
