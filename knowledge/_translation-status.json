@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-27T09:03:56+08:00",
-    "zhCommitHead": "77d3d190f8",
+    "lastUpdated": "2026-11-27T09:15:33+08:00",
+    "zhCommitHead": "bb962389cd",
     "totalZh": 1194,
     "activeLanguages": [
       "en",
@@ -20,97 +20,97 @@
     "summary": {
       "en": {
         "total_zh": 1194,
-        "fresh": 1168,
-        "stale": 4,
-        "metadata_stale": 22,
+        "fresh": 1143,
+        "stale": 8,
+        "metadata_stale": 43,
         "missing": 0,
         "orphan": 0
       },
       "ja": {
         "total_zh": 1194,
-        "fresh": 1165,
-        "stale": 7,
-        "metadata_stale": 22,
+        "fresh": 1141,
+        "stale": 11,
+        "metadata_stale": 42,
         "missing": 0,
         "orphan": 0
       },
       "ko": {
         "total_zh": 1194,
-        "fresh": 1164,
-        "stale": 8,
-        "metadata_stale": 22,
+        "fresh": 1140,
+        "stale": 12,
+        "metadata_stale": 42,
         "missing": 0,
         "orphan": 0
       },
       "es": {
         "total_zh": 1194,
-        "fresh": 1165,
-        "stale": 8,
-        "metadata_stale": 21,
+        "fresh": 1141,
+        "stale": 12,
+        "metadata_stale": 41,
         "missing": 0,
         "orphan": 0
       },
       "fr": {
         "total_zh": 1194,
-        "fresh": 1163,
-        "stale": 8,
-        "metadata_stale": 23,
+        "fresh": 1138,
+        "stale": 12,
+        "metadata_stale": 44,
         "missing": 0,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1194,
-        "fresh": 1162,
-        "stale": 13,
-        "metadata_stale": 19,
+        "fresh": 1138,
+        "stale": 16,
+        "metadata_stale": 40,
         "missing": 0,
         "orphan": 0
       },
       "id": {
         "total_zh": 1194,
-        "fresh": 1163,
-        "stale": 7,
-        "metadata_stale": 24,
+        "fresh": 1138,
+        "stale": 11,
+        "metadata_stale": 45,
         "missing": 0,
         "orphan": 0
       },
       "pt": {
         "total_zh": 1194,
-        "fresh": 1168,
-        "stale": 5,
-        "metadata_stale": 21,
+        "fresh": 1144,
+        "stale": 9,
+        "metadata_stale": 41,
         "missing": 0,
         "orphan": 0
       },
       "hi": {
         "total_zh": 1194,
-        "fresh": 1160,
-        "stale": 12,
-        "metadata_stale": 22,
+        "fresh": 1136,
+        "stale": 16,
+        "metadata_stale": 42,
         "missing": 0,
         "orphan": 0
       },
       "ar": {
         "total_zh": 1194,
-        "fresh": 1168,
-        "stale": 6,
-        "metadata_stale": 20,
+        "fresh": 1143,
+        "stale": 10,
+        "metadata_stale": 41,
         "missing": 0,
         "orphan": 0
       },
       "ru": {
         "total_zh": 1194,
-        "fresh": 1169,
-        "stale": 4,
-        "metadata_stale": 21,
+        "fresh": 1145,
+        "stale": 8,
+        "metadata_stale": 41,
         "missing": 0,
         "orphan": 0
       },
       "de": {
         "total_zh": 1194,
-        "fresh": 1128,
-        "stale": 26,
-        "metadata_stale": 40,
+        "fresh": 1103,
+        "stale": 30,
+        "metadata_stale": 61,
         "missing": 0,
         "orphan": 0
       }
@@ -105661,8 +105661,8 @@
     },
     "People/黃氏兄弟.md": {
       "zh": {
-        "lastCommit": "7d41e6f6",
-        "lastModified": "2026-11-21T08:52:43+08:00",
+        "lastCommit": "fd2854db",
+        "lastModified": "2026-11-26T18:05:11+08:00",
         "contentHash": "sha256:1016352970b6d5c8",
         "bodyHash": "sha256:68b9398b0dec02a8"
       },
@@ -105680,8 +105680,10 @@
           "footnoteDefs": 14,
           "bytes": 12113,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/People/huang-brothers-youtubers.md",
@@ -105696,8 +105698,10 @@
           "footnoteDefs": 14,
           "bytes": 14398,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/People/huang-brothers-youtubers.md",
@@ -105712,8 +105716,10 @@
           "footnoteDefs": 14,
           "bytes": 13774,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/People/huang-brothers-youtubers.md",
@@ -105728,8 +105734,10 @@
           "footnoteDefs": 14,
           "bytes": 13463,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/People/huang-brothers-youtubers.md",
@@ -105744,8 +105752,10 @@
           "footnoteDefs": 14,
           "bytes": 13596,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "vi": {
           "path": "vi/People/huang-brothers-youtubers.md",
@@ -105760,8 +105770,10 @@
           "footnoteDefs": 14,
           "bytes": 16432,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "id": {
           "path": "id/People/huang-brothers-youtubers.md",
@@ -105776,8 +105788,10 @@
           "footnoteDefs": 14,
           "bytes": 11415,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "pt": {
           "path": "pt/People/huang-brothers-youtubers.md",
@@ -105792,8 +105806,10 @@
           "footnoteDefs": 14,
           "bytes": 13106,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "hi": {
           "path": "hi/People/huang-brothers-youtubers.md",
@@ -105808,8 +105824,10 @@
           "footnoteDefs": 14,
           "bytes": 25429,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ar": {
           "path": "ar/People/huang-brothers-youtubers.md",
@@ -105824,8 +105842,10 @@
           "footnoteDefs": 14,
           "bytes": 17069,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ru": {
           "path": "ru/People/huang-brothers-youtubers.md",
@@ -105840,8 +105860,10 @@
           "footnoteDefs": 14,
           "bytes": 20024,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "de": {
           "path": "de/People/huang-brothers-youtubers.md",
@@ -105856,15 +105878,17 @@
           "footnoteDefs": 14,
           "bytes": 13410,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
     "People/啾啾鞋.md": {
       "zh": {
-        "lastCommit": "9c63d822",
-        "lastModified": "2026-08-20T09:10:17+08:00",
+        "lastCommit": "fd2854db",
+        "lastModified": "2026-11-26T18:05:11+08:00",
         "contentHash": "sha256:4ae6e15b4e3eea8f",
         "bodyHash": "sha256:09d31f29d2008420"
       },
@@ -105882,8 +105906,10 @@
           "footnoteDefs": 10,
           "bytes": 22059,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/People/chiuchiu-shoes-youtuber.md",
@@ -105898,8 +105924,10 @@
           "footnoteDefs": 10,
           "bytes": 25717,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/People/chiuchiu-shoes-youtuber.md",
@@ -105914,8 +105942,10 @@
           "footnoteDefs": 10,
           "bytes": 24962,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/People/chiuchiu-shoes-youtuber.md",
@@ -105930,8 +105960,10 @@
           "footnoteDefs": 10,
           "bytes": 24987,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/People/chiuchiu-shoes-youtuber.md",
@@ -105946,8 +105978,10 @@
           "footnoteDefs": 10,
           "bytes": 26441,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "vi": {
           "path": "vi/People/chiuchiu-shoes-youtuber.md",
@@ -105962,8 +105996,10 @@
           "footnoteDefs": 10,
           "bytes": 28257,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "id": {
           "path": "id/People/chiuchiu-shoes-youtuber.md",
@@ -105978,8 +106014,10 @@
           "footnoteDefs": 10,
           "bytes": 21410,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "pt": {
           "path": "pt/People/chiuchiu-shoes-youtuber.md",
@@ -105994,8 +106032,10 @@
           "footnoteDefs": 10,
           "bytes": 23846,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "hi": {
           "path": "hi/People/chiuchiu-shoes-youtuber.md",
@@ -106010,8 +106050,10 @@
           "footnoteDefs": 10,
           "bytes": 48112,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ar": {
           "path": "ar/People/chiuchiu-shoes-youtuber.md",
@@ -106026,8 +106068,10 @@
           "footnoteDefs": 10,
           "bytes": 28836,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ru": {
           "path": "ru/People/chiuchiu-shoes-youtuber.md",
@@ -106042,8 +106086,10 @@
           "footnoteDefs": 10,
           "bytes": 36245,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "de": {
           "path": "de/People/chiuchiu-shoes-youtuber.md",
@@ -106058,8 +106104,10 @@
           "footnoteDefs": 10,
           "bytes": 23158,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
@@ -106671,9 +106719,9 @@
     },
     "People/林獻堂.md": {
       "zh": {
-        "lastCommit": "7fa2d963",
-        "lastModified": "2026-08-18T18:47:47+08:00",
-        "contentHash": "sha256:b3b7816f9ed81e72",
+        "lastCommit": "c7e3d69a",
+        "lastModified": "2026-11-26T14:25:35+08:00",
+        "contentHash": "sha256:bbd1e8150a03bde0",
         "bodyHash": "sha256:fd90a845acbf3ca4"
       },
       "translations": {
@@ -106690,8 +106738,10 @@
           "footnoteDefs": 16,
           "bytes": 28081,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+19 -2"
         },
         "ja": {
           "path": "ja/People/lin-hsien-tang.md",
@@ -106706,8 +106756,10 @@
           "footnoteDefs": 16,
           "bytes": 29866,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+19 -2"
         },
         "ko": {
           "path": "ko/People/lin-hsien-tang.md",
@@ -106722,8 +106774,10 @@
           "footnoteDefs": 16,
           "bytes": 28091,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+19 -2"
         },
         "es": {
           "path": "es/People/lin-hsien-tang.md",
@@ -106738,8 +106792,10 @@
           "footnoteDefs": 16,
           "bytes": 30942,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+19 -2"
         },
         "fr": {
           "path": "fr/People/lin-hsien-tang.md",
@@ -106754,8 +106810,10 @@
           "footnoteDefs": 16,
           "bytes": 32190,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+19 -2"
         },
         "vi": {
           "path": "vi/People/lin-hsien-tang.md",
@@ -106770,8 +106828,10 @@
           "footnoteDefs": 16,
           "bytes": 34440,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+19 -2"
         },
         "id": {
           "path": "id/People/lin-hsien-tang.md",
@@ -106786,8 +106846,10 @@
           "footnoteDefs": 16,
           "bytes": 28756,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+19 -2"
         },
         "pt": {
           "path": "pt/People/lin-hsien-tang.md",
@@ -106802,8 +106864,10 @@
           "footnoteDefs": 16,
           "bytes": 28194,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+19 -2"
         },
         "hi": {
           "path": "hi/People/lin-hsien-tang.md",
@@ -106818,8 +106882,10 @@
           "footnoteDefs": 16,
           "bytes": 57915,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+19 -2"
         },
         "ar": {
           "path": "ar/People/lin-hsien-tang.md",
@@ -106834,8 +106900,10 @@
           "footnoteDefs": 16,
           "bytes": 36958,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+19 -2"
         },
         "ru": {
           "path": "ru/People/lin-hsien-tang.md",
@@ -106850,8 +106918,10 @@
           "footnoteDefs": 16,
           "bytes": 48142,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+19 -2"
         },
         "de": {
           "path": "de/People/lin-hsien-tang.md",
@@ -106866,17 +106936,19 @@
           "footnoteDefs": 16,
           "bytes": 30748,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+19 -2"
         }
       }
     },
     "People/白癡公主.md": {
       "zh": {
-        "lastCommit": "4c2e1c23",
-        "lastModified": "2026-08-20T09:01:50+08:00",
-        "contentHash": "sha256:57f32564152ce686",
-        "bodyHash": "sha256:0482ecaa622a6229"
+        "lastCommit": "fd2854db",
+        "lastModified": "2026-11-26T18:05:11+08:00",
+        "contentHash": "sha256:0e7a79763287a5ac",
+        "bodyHash": "sha256:d7c9ce93611e7e78"
       },
       "translations": {
         "en": {
@@ -106892,8 +106964,10 @@
           "footnoteDefs": 15,
           "bytes": 25960,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -5"
         },
         "ja": {
           "path": "ja/People/idiot-princess-youtuber.md",
@@ -106908,8 +106982,10 @@
           "footnoteDefs": 15,
           "bytes": 32835,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -5"
         },
         "ko": {
           "path": "ko/People/idiot-princess-youtuber.md",
@@ -106924,8 +107000,10 @@
           "footnoteDefs": 15,
           "bytes": 29134,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -5"
         },
         "es": {
           "path": "es/People/idiot-princess-youtuber.md",
@@ -106940,8 +107018,10 @@
           "footnoteDefs": 15,
           "bytes": 28803,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -5"
         },
         "fr": {
           "path": "fr/People/idiot-princess-youtuber.md",
@@ -106956,8 +107036,10 @@
           "footnoteDefs": 15,
           "bytes": 31171,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -5"
         },
         "vi": {
           "path": "vi/People/idiot-princess-youtuber.md",
@@ -106972,8 +107054,10 @@
           "footnoteDefs": 15,
           "bytes": 34358,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -5"
         },
         "id": {
           "path": "id/People/idiot-princess-youtuber.md",
@@ -106988,8 +107072,10 @@
           "footnoteDefs": 15,
           "bytes": 25194,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -5"
         },
         "pt": {
           "path": "pt/People/idiot-princess-youtuber.md",
@@ -107004,8 +107090,10 @@
           "footnoteDefs": 15,
           "bytes": 26446,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -5"
         },
         "hi": {
           "path": "hi/People/idiot-princess-youtuber.md",
@@ -107020,8 +107108,10 @@
           "footnoteDefs": 15,
           "bytes": 56303,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -5"
         },
         "ar": {
           "path": "ar/People/idiot-princess-youtuber.md",
@@ -107036,8 +107126,10 @@
           "footnoteDefs": 15,
           "bytes": 34573,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -5"
         },
         "ru": {
           "path": "ru/People/idiot-princess-youtuber.md",
@@ -107052,8 +107144,10 @@
           "footnoteDefs": 15,
           "bytes": 43262,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -5"
         },
         "de": {
           "path": "de/People/idiot-princess-youtuber.md",
@@ -107068,8 +107162,10 @@
           "footnoteDefs": 15,
           "bytes": 28616,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -5"
         }
       }
     },
@@ -108719,8 +108815,8 @@
     },
     "People/許淑淨.md": {
       "zh": {
-        "lastCommit": "22286539",
-        "lastModified": "2026-11-04T08:33:28+08:00",
+        "lastCommit": "e7e1bb57",
+        "lastModified": "2026-11-27T08:44:03+08:00",
         "contentHash": "sha256:81d60bf0143f4da3",
         "bodyHash": "sha256:a8a07476ede69bdb"
       },
@@ -108738,8 +108834,10 @@
           "footnoteDefs": 5,
           "bytes": 9514,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/People/hsu-shu-ching-olympic-weightlifting-champion.md",
@@ -108754,8 +108852,10 @@
           "footnoteDefs": 5,
           "bytes": 12648,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/People/hsu-shu-ching-olympic-weightlifting-champion.md",
@@ -108770,8 +108870,10 @@
           "footnoteDefs": 5,
           "bytes": 10924,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/People/hsu-shu-ching-olympic-weightlifting-champion.md",
@@ -108786,8 +108888,10 @@
           "footnoteDefs": 5,
           "bytes": 12024,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/People/hsu-shu-ching-olympic-weightlifting-champion.md",
@@ -108802,8 +108906,10 @@
           "footnoteDefs": 5,
           "bytes": 11804,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "vi": {
           "path": "vi/People/hsu-shu-ching-olympic-weightlifting-champion.md",
@@ -108818,8 +108924,10 @@
           "footnoteDefs": 5,
           "bytes": 13800,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "id": {
           "path": "id/People/hsu-shu-ching-olympic-weightlifting-champion.md",
@@ -108834,8 +108942,10 @@
           "footnoteDefs": 5,
           "bytes": 10667,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "pt": {
           "path": "pt/People/hsu-shu-ching-olympic-weightlifting-champion.md",
@@ -108850,8 +108960,10 @@
           "footnoteDefs": 5,
           "bytes": 11314,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "hi": {
           "path": "hi/People/hsu-shu-ching-olympic-weightlifting-champion.md",
@@ -108866,8 +108978,10 @@
           "footnoteDefs": 5,
           "bytes": 23026,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ar": {
           "path": "ar/People/hsu-shu-ching-olympic-weightlifting-champion.md",
@@ -108882,8 +108996,10 @@
           "footnoteDefs": 5,
           "bytes": 14824,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ru": {
           "path": "ru/People/hsu-shu-ching-olympic-weightlifting-champion.md",
@@ -108898,8 +109014,10 @@
           "footnoteDefs": 5,
           "bytes": 19336,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "de": {
           "path": "de/People/hsu-shu-ching-olympic-weightlifting-champion.md",
@@ -108914,8 +109032,10 @@
           "footnoteDefs": 5,
           "bytes": 11658,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
@@ -109735,8 +109855,8 @@
     },
     "People/張雨生.md": {
       "zh": {
-        "lastCommit": "4b6d28c5",
-        "lastModified": "2026-05-08T16:59:31+08:00",
+        "lastCommit": "fc0798f3",
+        "lastModified": "2026-11-26T18:38:15+08:00",
         "contentHash": "sha256:f4eb416f9486c9fa",
         "bodyHash": "sha256:fa4f2d152a7b850d"
       },
@@ -109754,8 +109874,10 @@
           "footnoteDefs": 9,
           "bytes": 17438,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/People/chang-yu-sheng-singer.md",
@@ -109770,8 +109892,10 @@
           "footnoteDefs": 9,
           "bytes": 18705,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/People/chang-yu-sheng-singer.md",
@@ -109786,8 +109910,10 @@
           "footnoteDefs": 9,
           "bytes": 17933,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/People/chang-yu-sheng-singer.md",
@@ -109802,8 +109928,10 @@
           "footnoteDefs": 9,
           "bytes": 18364,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/People/chang-yu-sheng-singer.md",
@@ -109818,8 +109946,10 @@
           "footnoteDefs": 9,
           "bytes": 19477,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "vi": {
           "path": "vi/People/chang-yu-sheng-singer.md",
@@ -109834,8 +109964,10 @@
           "footnoteDefs": 9,
           "bytes": 20563,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "id": {
           "path": "id/People/chang-yu-sheng-singer.md",
@@ -109850,8 +109982,10 @@
           "footnoteDefs": 9,
           "bytes": 18168,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "pt": {
           "path": "pt/People/chang-yu-sheng-singer.md",
@@ -109866,8 +110000,10 @@
           "footnoteDefs": 9,
           "bytes": 17243,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "hi": {
           "path": "hi/People/chang-yu-sheng-singer.md",
@@ -109882,8 +110018,10 @@
           "footnoteDefs": 9,
           "bytes": 36274,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ar": {
           "path": "ar/People/chang-yu-sheng-singer.md",
@@ -109898,8 +110036,10 @@
           "footnoteDefs": 9,
           "bytes": 23839,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ru": {
           "path": "ru/People/chang-yu-sheng-singer.md",
@@ -109914,8 +110054,10 @@
           "footnoteDefs": 9,
           "bytes": 29554,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "de": {
           "path": "de/People/chang-yu-sheng-singer.md",
@@ -109930,8 +110072,10 @@
           "footnoteDefs": 9,
           "bytes": 16063,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
@@ -110947,8 +111091,8 @@
     },
     "People/連穎.md": {
       "zh": {
-        "lastCommit": "be13f045",
-        "lastModified": "2026-11-17T07:30:44+08:00",
+        "lastCommit": "c7e3d69a",
+        "lastModified": "2026-11-26T14:25:35+08:00",
         "contentHash": "sha256:5f1555ccc3c4f606",
         "bodyHash": "sha256:3765efbdda716be7"
       },
@@ -110966,8 +111110,10 @@
           "footnoteDefs": 11,
           "bytes": 17547,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/People/lien-ying.md",
@@ -110982,8 +111128,10 @@
           "footnoteDefs": 11,
           "bytes": 22065,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/People/lien-ying.md",
@@ -110998,8 +111146,10 @@
           "footnoteDefs": 11,
           "bytes": 20316,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/People/lien-ying.md",
@@ -111014,8 +111164,10 @@
           "footnoteDefs": 11,
           "bytes": 20024,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/People/lien-ying.md",
@@ -111030,8 +111182,10 @@
           "footnoteDefs": 11,
           "bytes": 20835,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "vi": {
           "path": "vi/People/lien-ying.md",
@@ -111046,8 +111200,10 @@
           "footnoteDefs": 11,
           "bytes": 23258,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "id": {
           "path": "id/People/lien-ying.md",
@@ -111062,8 +111218,10 @@
           "footnoteDefs": 11,
           "bytes": 18497,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "pt": {
           "path": "pt/People/lien-ying.md",
@@ -111078,8 +111236,10 @@
           "footnoteDefs": 11,
           "bytes": 17038,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "hi": {
           "path": "hi/People/lien-ying.md",
@@ -111094,8 +111254,10 @@
           "footnoteDefs": 11,
           "bytes": 36907,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ar": {
           "path": "ar/People/lien-ying.md",
@@ -111110,8 +111272,10 @@
           "footnoteDefs": 11,
           "bytes": 26508,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ru": {
           "path": "ru/People/lien-ying.md",
@@ -111126,8 +111290,10 @@
           "footnoteDefs": 11,
           "bytes": 28158,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "de": {
           "path": "de/People/lien-ying.md",
@@ -111142,8 +111308,10 @@
           "footnoteDefs": 11,
           "bytes": 18926,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
@@ -111864,8 +112032,8 @@
           "sourceContentHash": "sha256:bc1390f13b2a7b07",
           "sourceBodyHash": "sha256:5621e86f4a6c80eb",
           "translatedAt": "2026-11-27T00:06:25.965547+00:00",
-          "translationLastCommit": "5e454445",
-          "translationLastModified": "2026-11-05T05:08:08+08:00",
+          "translationLastCommit": "77d3d190",
+          "translationLastModified": "2026-11-27T09:03:48+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "bytes": 10357,
@@ -111880,8 +112048,8 @@
           "sourceContentHash": "sha256:bc1390f13b2a7b07",
           "sourceBodyHash": "sha256:5621e86f4a6c80eb",
           "translatedAt": "2026-11-27T00:06:36.826991+00:00",
-          "translationLastCommit": "8091187e",
-          "translationLastModified": "2026-11-05T05:25:17+08:00",
+          "translationLastCommit": "02799eae",
+          "translationLastModified": "2026-11-27T09:03:56+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "bytes": 11348,
@@ -115134,8 +115302,8 @@
           "sourceContentHash": "sha256:d675a47ee18feb3d",
           "sourceBodyHash": "sha256:44085a78b193e440",
           "translatedAt": "2026-11-26T23:57:25.851646+00:00",
-          "translationLastCommit": "5e454445",
-          "translationLastModified": "2026-11-05T05:08:08+08:00",
+          "translationLastCommit": "77d3d190",
+          "translationLastModified": "2026-11-27T09:03:48+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "bytes": 10517,
@@ -115150,8 +115318,8 @@
           "sourceContentHash": "sha256:d675a47ee18feb3d",
           "sourceBodyHash": "sha256:44085a78b193e440",
           "translatedAt": "2026-11-26T23:57:37.803182+00:00",
-          "translationLastCommit": "8091187e",
-          "translationLastModified": "2026-11-05T05:25:17+08:00",
+          "translationLastCommit": "02799eae",
+          "translationLastModified": "2026-11-27T09:03:56+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "bytes": 11581,
@@ -116037,9 +116205,9 @@
     },
     "People/鍾肇政.md": {
       "zh": {
-        "lastCommit": "82038b29",
-        "lastModified": "2026-08-21T18:23:31+08:00",
-        "contentHash": "sha256:e30095af8a74328f",
+        "lastCommit": "e7e1bb57",
+        "lastModified": "2026-11-27T08:44:03+08:00",
+        "contentHash": "sha256:aa3ae97d0723ffdb",
         "bodyHash": "sha256:9240eda59faf09e3"
       },
       "translations": {
@@ -116056,8 +116224,10 @@
           "footnoteDefs": 12,
           "bytes": 27074,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -1"
         },
         "ja": {
           "path": "ja/People/chung-chao-cheng.md",
@@ -116072,8 +116242,10 @@
           "footnoteDefs": 12,
           "bytes": 25845,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -1"
         },
         "ko": {
           "path": "ko/People/chung-chao-cheng.md",
@@ -116088,8 +116260,10 @@
           "footnoteDefs": 12,
           "bytes": 26086,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -1"
         },
         "es": {
           "path": "es/People/chung-chao-cheng.md",
@@ -116104,8 +116278,10 @@
           "footnoteDefs": 12,
           "bytes": 29430,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -1"
         },
         "fr": {
           "path": "fr/People/chung-chao-cheng.md",
@@ -116120,8 +116296,10 @@
           "footnoteDefs": 12,
           "bytes": 30047,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -1"
         },
         "vi": {
           "path": "vi/People/chung-chao-cheng.md",
@@ -116136,8 +116314,10 @@
           "footnoteDefs": 12,
           "bytes": 33837,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -1"
         },
         "id": {
           "path": "id/People/chung-chao-cheng.md",
@@ -116152,8 +116332,10 @@
           "footnoteDefs": 12,
           "bytes": 25620,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -1"
         },
         "pt": {
           "path": "pt/People/chung-chao-cheng.md",
@@ -116168,8 +116350,10 @@
           "footnoteDefs": 12,
           "bytes": 26301,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -1"
         },
         "hi": {
           "path": "hi/People/chung-chao-cheng.md",
@@ -116184,8 +116368,10 @@
           "footnoteDefs": 12,
           "bytes": 55380,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -1"
         },
         "ar": {
           "path": "ar/People/chung-chao-cheng.md",
@@ -116200,8 +116386,10 @@
           "footnoteDefs": 12,
           "bytes": 34383,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -1"
         },
         "ru": {
           "path": "ru/People/chung-chao-cheng.md",
@@ -116216,8 +116404,10 @@
           "footnoteDefs": 12,
           "bytes": 41962,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -1"
         },
         "de": {
           "path": "de/People/chung-chao-cheng.md",
@@ -116232,8 +116422,10 @@
           "footnoteDefs": 12,
           "bytes": 25654,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -1"
         }
       }
     },
@@ -119252,8 +119444,8 @@
           "sourceContentHash": "sha256:e43b16ae63cbdb17",
           "sourceBodyHash": "sha256:1cde30bd00a46d49",
           "translatedAt": "2026-11-26T23:32:58.031639+00:00",
-          "translationLastCommit": "11879bb4",
-          "translationLastModified": "2026-09-12T23:49:07+08:00",
+          "translationLastCommit": "77d3d190",
+          "translationLastModified": "2026-11-27T09:03:48+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "bytes": 34491,
@@ -119268,8 +119460,8 @@
           "sourceContentHash": "sha256:e43b16ae63cbdb17",
           "sourceBodyHash": "sha256:1cde30bd00a46d49",
           "translatedAt": "2026-11-26T23:33:18.813852+00:00",
-          "translationLastCommit": "e634ae27",
-          "translationLastModified": "2026-09-11T04:24:06+08:00",
+          "translationLastCommit": "02799eae",
+          "translationLastModified": "2026-11-27T09:03:56+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "bytes": 38774,
@@ -120264,8 +120456,8 @@
           "sourceContentHash": "sha256:13c80c1f151f5c3e",
           "sourceBodyHash": "sha256:bf6107b943cdb54e",
           "translatedAt": "2026-11-26T23:59:52.776888+00:00",
-          "translationLastCommit": "5e454445",
-          "translationLastModified": "2026-11-05T05:08:08+08:00",
+          "translationLastCommit": "77d3d190",
+          "translationLastModified": "2026-11-27T09:03:48+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "bytes": 9839,
@@ -120280,8 +120472,8 @@
           "sourceContentHash": "sha256:13c80c1f151f5c3e",
           "sourceBodyHash": "sha256:bf6107b943cdb54e",
           "translatedAt": "2026-11-27T00:00:04.826967+00:00",
-          "translationLastCommit": "dac10201",
-          "translationLastModified": "2026-11-05T05:50:04+08:00",
+          "translationLastCommit": "02799eae",
+          "translationLastModified": "2026-11-27T09:03:56+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "bytes": 11574,
@@ -121698,8 +121890,8 @@
           "sourceContentHash": "sha256:741e9553e6d863d3",
           "sourceBodyHash": "sha256:e3564c2899c65b1e",
           "translatedAt": "2026-11-27T00:58:34.355696+00:00",
-          "translationLastCommit": "d72e19d8",
-          "translationLastModified": "2026-11-19T01:19:26+08:00",
+          "translationLastCommit": "77d3d190",
+          "translationLastModified": "2026-11-27T09:03:48+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 29906,
@@ -121714,8 +121906,8 @@
           "sourceContentHash": "sha256:741e9553e6d863d3",
           "sourceBodyHash": "sha256:e3564c2899c65b1e",
           "translatedAt": "2026-11-27T00:58:45.653032+00:00",
-          "translationLastCommit": "2639f9bd",
-          "translationLastModified": "2026-11-19T01:22:19+08:00",
+          "translationLastCommit": "02799eae",
+          "translationLastModified": "2026-11-27T09:03:56+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 26733,
@@ -121726,20 +121918,18 @@
         "hi": {
           "path": "hi/People/zun.md",
           "translatedFrom": "People/尊.md",
-          "sourceCommitSha": "be13f045",
+          "sourceCommitSha": "2a5b98d9cd",
           "sourceContentHash": "sha256:741e9553e6d863d3",
           "sourceBodyHash": "sha256:e3564c2899c65b1e",
-          "translatedAt": "2026-10-15T04:01:40.249960+00:00",
+          "translatedAt": "2026-11-27T01:14:01.728395+00:00",
           "translationLastCommit": "2077c41c",
           "translationLastModified": "2026-11-19T01:18:05+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 63008,
+          "bytes": 63392,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/zun.md",
@@ -122518,8 +122708,8 @@
           "sourceContentHash": "sha256:8e17d8aaa786cb83",
           "sourceBodyHash": "sha256:95dcdf29fa593f4b",
           "translatedAt": "2026-11-27T00:51:25.682878+00:00",
-          "translationLastCommit": "d72e19d8",
-          "translationLastModified": "2026-11-19T01:19:26+08:00",
+          "translationLastCommit": "77d3d190",
+          "translationLastModified": "2026-11-27T09:03:48+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "bytes": 29652,
@@ -122534,8 +122724,8 @@
           "sourceContentHash": "sha256:8e17d8aaa786cb83",
           "sourceBodyHash": "sha256:95dcdf29fa593f4b",
           "translatedAt": "2026-11-27T00:53:18.948419+00:00",
-          "translationLastCommit": "2639f9bd",
-          "translationLastModified": "2026-11-19T01:22:19+08:00",
+          "translationLastCommit": "02799eae",
+          "translationLastModified": "2026-11-27T09:03:56+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "bytes": 31863,
@@ -123306,20 +123496,18 @@
         "vi": {
           "path": "vi/People/jason-wu-fashion-designer.md",
           "translatedFrom": "People/吳季剛.md",
-          "sourceCommitSha": "4a95859b1",
-          "sourceContentHash": "sha256:cd5b6f64f9368b38",
-          "sourceBodyHash": "sha256:62721bcda4248fc8",
-          "translatedAt": "2026-09-15T19:45:27+08:00",
+          "sourceCommitSha": "8fc70bd881",
+          "sourceContentHash": "sha256:30737d9e2df07c72",
+          "sourceBodyHash": "sha256:48941b1e116317bf",
+          "translatedAt": "2026-11-27T07:30:32+08:00",
           "translationLastCommit": "f4892bab",
           "translationLastModified": "2026-09-19T11:51:58+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "bytes": 37152,
+          "bytes": 36804,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+27 -15"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/jason-wu-fashion-designer.md",
@@ -123328,8 +123516,8 @@
           "sourceContentHash": "sha256:30737d9e2df07c72",
           "sourceBodyHash": "sha256:48941b1e116317bf",
           "translatedAt": "2026-11-27T07:30:36+08:00",
-          "translationLastCommit": "11879bb4",
-          "translationLastModified": "2026-09-12T23:49:07+08:00",
+          "translationLastCommit": "77d3d190",
+          "translationLastModified": "2026-11-27T09:03:48+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "bytes": 33122,
@@ -123344,8 +123532,8 @@
           "sourceContentHash": "sha256:30737d9e2df07c72",
           "sourceBodyHash": "sha256:48941b1e116317bf",
           "translatedAt": "2026-11-27T07:30:39+08:00",
-          "translationLastCommit": "b699b5df",
-          "translationLastModified": "2026-09-12T23:10:23+08:00",
+          "translationLastCommit": "02799eae",
+          "translationLastModified": "2026-11-27T09:03:56+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "bytes": 30741,
@@ -130769,8 +130957,8 @@
     },
     "People/鄭宜農.md": {
       "zh": {
-        "lastCommit": "ac1d187a",
-        "lastModified": "2026-06-28T09:52:29+08:00",
+        "lastCommit": "fc0798f3",
+        "lastModified": "2026-11-26T18:38:15+08:00",
         "contentHash": "sha256:9978590a40b2bfce",
         "bodyHash": "sha256:2eaa36629936ca3c"
       },
@@ -130788,8 +130976,10 @@
           "footnoteDefs": 23,
           "bytes": 29616,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/People/cheng-i-nung.md",
@@ -130804,8 +130994,10 @@
           "footnoteDefs": 23,
           "bytes": 33322,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/People/cheng-i-nung.md",
@@ -130820,8 +131012,10 @@
           "footnoteDefs": 23,
           "bytes": 31379,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/People/cheng-i-nung.md",
@@ -130836,8 +131030,10 @@
           "footnoteDefs": 23,
           "bytes": 32473,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/People/cheng-i-nung.md",
@@ -130852,8 +131048,10 @@
           "footnoteDefs": 23,
           "bytes": 33081,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "vi": {
           "path": "vi/People/cheng-i-nung.md",
@@ -130868,8 +131066,10 @@
           "footnoteDefs": 23,
           "bytes": 37934,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "id": {
           "path": "id/People/cheng-i-nung.md",
@@ -130884,8 +131084,10 @@
           "footnoteDefs": 23,
           "bytes": 30722,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "pt": {
           "path": "pt/People/cheng-i-nung.md",
@@ -130900,8 +131102,10 @@
           "footnoteDefs": 23,
           "bytes": 28469,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "hi": {
           "path": "hi/People/cheng-i-nung.md",
@@ -130916,8 +131120,10 @@
           "footnoteDefs": 23,
           "bytes": 65689,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ar": {
           "path": "ar/People/cheng-i-nung.md",
@@ -130932,8 +131138,10 @@
           "footnoteDefs": 23,
           "bytes": 38063,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ru": {
           "path": "ru/People/cheng-i-nung.md",
@@ -130948,8 +131156,10 @@
           "footnoteDefs": 23,
           "bytes": 50455,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "de": {
           "path": "de/People/cheng-i-nung.md",
@@ -130964,15 +131174,17 @@
           "footnoteDefs": 23,
           "bytes": 32003,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
     "People/張惠妹.md": {
       "zh": {
-        "lastCommit": "22286539",
-        "lastModified": "2026-11-04T08:33:28+08:00",
+        "lastCommit": "fc0798f3",
+        "lastModified": "2026-11-26T18:38:15+08:00",
         "contentHash": "sha256:aebfe56ef8181ee0",
         "bodyHash": "sha256:2548692a01191648"
       },
@@ -130990,8 +131202,10 @@
           "footnoteDefs": 6,
           "bytes": 10334,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/People/a-mei.md",
@@ -131006,8 +131220,10 @@
           "footnoteDefs": 6,
           "bytes": 12801,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/People/a-mei.md",
@@ -131022,8 +131238,10 @@
           "footnoteDefs": 6,
           "bytes": 11490,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/People/a-mei.md",
@@ -131038,8 +131256,10 @@
           "footnoteDefs": 6,
           "bytes": 11151,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/People/a-mei.md",
@@ -131054,8 +131274,10 @@
           "footnoteDefs": 6,
           "bytes": 12232,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "vi": {
           "path": "vi/People/a-mei.md",
@@ -131070,8 +131292,10 @@
           "footnoteDefs": 6,
           "bytes": 13235,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "id": {
           "path": "id/People/a-mei.md",
@@ -131086,8 +131310,10 @@
           "footnoteDefs": 6,
           "bytes": 9694,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "pt": {
           "path": "pt/People/a-mei.md",
@@ -131102,8 +131328,10 @@
           "footnoteDefs": 6,
           "bytes": 10701,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "hi": {
           "path": "hi/People/a-mei.md",
@@ -131118,8 +131346,10 @@
           "footnoteDefs": 6,
           "bytes": 21675,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ar": {
           "path": "ar/People/a-mei.md",
@@ -131134,8 +131364,10 @@
           "footnoteDefs": 6,
           "bytes": 14669,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ru": {
           "path": "ru/People/a-mei.md",
@@ -131150,8 +131382,10 @@
           "footnoteDefs": 6,
           "bytes": 16911,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "de": {
           "path": "de/People/a-mei.md",
@@ -131166,8 +131400,10 @@
           "footnoteDefs": 6,
           "bytes": 10357,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
@@ -131981,8 +132217,8 @@
     },
     "People/魏德聖.md": {
       "zh": {
-        "lastCommit": "8f070a88",
-        "lastModified": "2026-06-11T08:22:31+08:00",
+        "lastCommit": "c7e3d69a",
+        "lastModified": "2026-11-26T14:25:35+08:00",
         "contentHash": "sha256:c53d9ecd803bd8cd",
         "bodyHash": "sha256:9fd756dd61905363"
       },
@@ -132000,8 +132236,10 @@
           "footnoteDefs": 6,
           "bytes": 12537,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/People/wei-te-sheng-taiwanese-epic-filmmaker.md",
@@ -132016,8 +132254,10 @@
           "footnoteDefs": 6,
           "bytes": 14500,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/People/wei-te-sheng-taiwanese-epic-filmmaker.md",
@@ -132032,8 +132272,10 @@
           "footnoteDefs": 6,
           "bytes": 13085,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/People/wei-te-sheng-taiwanese-epic-filmmaker.md",
@@ -132048,8 +132290,10 @@
           "footnoteDefs": 6,
           "bytes": 14467,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/People/wei-te-sheng-taiwanese-epic-filmmaker.md",
@@ -132064,8 +132308,10 @@
           "footnoteDefs": 6,
           "bytes": 14377,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "vi": {
           "path": "vi/People/wei-te-sheng-taiwanese-epic-filmmaker.md",
@@ -132080,8 +132326,10 @@
           "footnoteDefs": 6,
           "bytes": 15796,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "id": {
           "path": "id/People/wei-te-sheng-taiwanese-epic-filmmaker.md",
@@ -132096,8 +132344,10 @@
           "footnoteDefs": 6,
           "bytes": 11333,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "pt": {
           "path": "pt/People/wei-te-sheng-taiwanese-epic-filmmaker.md",
@@ -132112,8 +132362,10 @@
           "footnoteDefs": 6,
           "bytes": 13232,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "hi": {
           "path": "hi/People/wei-te-sheng-taiwanese-epic-filmmaker.md",
@@ -132128,8 +132380,10 @@
           "footnoteDefs": 6,
           "bytes": 28101,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ar": {
           "path": "ar/People/wei-te-sheng-taiwanese-epic-filmmaker.md",
@@ -132144,8 +132398,10 @@
           "footnoteDefs": 6,
           "bytes": 16111,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ru": {
           "path": "ru/People/wei-te-sheng-taiwanese-epic-filmmaker.md",
@@ -132160,8 +132416,10 @@
           "footnoteDefs": 6,
           "bytes": 20768,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "de": {
           "path": "de/People/wei-te-sheng-taiwanese-epic-filmmaker.md",
@@ -132176,8 +132434,10 @@
           "footnoteDefs": 6,
           "bytes": 12922,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
@@ -133799,8 +134059,8 @@
     },
     "People/徐佳瑩.md": {
       "zh": {
-        "lastCommit": "be13f045",
-        "lastModified": "2026-11-17T07:30:44+08:00",
+        "lastCommit": "fc0798f3",
+        "lastModified": "2026-11-26T18:38:15+08:00",
         "contentHash": "sha256:f9f02c4b8eb59a3c",
         "bodyHash": "sha256:08e93141b3775e8d"
       },
@@ -133818,8 +134078,10 @@
           "footnoteDefs": 10,
           "bytes": 18463,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/People/lala-hsu-singer.md",
@@ -133834,8 +134096,10 @@
           "footnoteDefs": 10,
           "bytes": 22898,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/People/lala-hsu-singer.md",
@@ -133850,8 +134114,10 @@
           "footnoteDefs": 10,
           "bytes": 21398,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/People/lala-hsu-singer.md",
@@ -133866,8 +134132,10 @@
           "footnoteDefs": 10,
           "bytes": 20481,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/People/lala-hsu-singer.md",
@@ -133882,8 +134150,10 @@
           "footnoteDefs": 10,
           "bytes": 21154,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "vi": {
           "path": "vi/People/lala-hsu-singer.md",
@@ -133898,8 +134168,10 @@
           "footnoteDefs": 10,
           "bytes": 22335,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "id": {
           "path": "id/People/lala-hsu-singer.md",
@@ -133914,8 +134186,10 @@
           "footnoteDefs": 10,
           "bytes": 16242,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "pt": {
           "path": "pt/People/lala-hsu-singer.md",
@@ -133930,8 +134204,10 @@
           "footnoteDefs": 10,
           "bytes": 18002,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "hi": {
           "path": "hi/People/lala-hsu-singer.md",
@@ -133946,8 +134222,10 @@
           "footnoteDefs": 10,
           "bytes": 40906,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ar": {
           "path": "ar/People/lala-hsu-singer.md",
@@ -133962,8 +134240,10 @@
           "footnoteDefs": 10,
           "bytes": 27631,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ru": {
           "path": "ru/People/lala-hsu-singer.md",
@@ -133978,8 +134258,10 @@
           "footnoteDefs": 10,
           "bytes": 27369,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "de": {
           "path": "de/People/lala-hsu-singer.md",
@@ -133994,8 +134276,10 @@
           "footnoteDefs": 10,
           "bytes": 20505,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
@@ -135120,8 +135404,8 @@
           "sourceContentHash": "sha256:5d4d8978fc43c7cd",
           "sourceBodyHash": "sha256:02c4e1b3fececdae",
           "translatedAt": "2026-11-27T07:30:36+08:00",
-          "translationLastCommit": "d72e19d8",
-          "translationLastModified": "2026-11-19T01:19:26+08:00",
+          "translationLastCommit": "77d3d190",
+          "translationLastModified": "2026-11-27T09:03:48+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "bytes": 36006,
@@ -135136,8 +135420,8 @@
           "sourceContentHash": "sha256:5d4d8978fc43c7cd",
           "sourceBodyHash": "sha256:02c4e1b3fececdae",
           "translatedAt": "2026-11-27T00:25:22.982561+00:00",
-          "translationLastCommit": "2639f9bd",
-          "translationLastModified": "2026-11-19T01:22:19+08:00",
+          "translationLastCommit": "02799eae",
+          "translationLastModified": "2026-11-27T09:03:56+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "bytes": 33048,
@@ -136427,8 +136711,8 @@
     },
     "People/楊傳廣.md": {
       "zh": {
-        "lastCommit": "8d0c4a70",
-        "lastModified": "2026-09-05T17:56:15+08:00",
+        "lastCommit": "fc0798f3",
+        "lastModified": "2026-11-26T18:38:15+08:00",
         "contentHash": "sha256:3f102f565e503ad8",
         "bodyHash": "sha256:b14c332dbd93a4eb"
       },
@@ -136446,8 +136730,10 @@
           "footnoteDefs": 6,
           "bytes": 15452,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/People/yang-chuan-kwang-asian-iron-man.md",
@@ -136462,8 +136748,10 @@
           "footnoteDefs": 6,
           "bytes": 18523,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/People/yang-chuan-kwang-asian-iron-man.md",
@@ -136478,8 +136766,10 @@
           "footnoteDefs": 6,
           "bytes": 17139,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/People/yang-chuan-kwang-asian-iron-man.md",
@@ -136494,8 +136784,10 @@
           "footnoteDefs": 6,
           "bytes": 18732,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/People/yang-chuan-kwang-asian-iron-man.md",
@@ -136510,8 +136802,10 @@
           "footnoteDefs": 6,
           "bytes": 18135,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "vi": {
           "path": "vi/People/yang-chuan-kwang-asian-iron-man.md",
@@ -136526,8 +136820,10 @@
           "footnoteDefs": 6,
           "bytes": 21600,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "id": {
           "path": "id/People/yang-chuan-kwang-asian-iron-man.md",
@@ -136542,8 +136838,10 @@
           "footnoteDefs": 6,
           "bytes": 13224,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "pt": {
           "path": "pt/People/yang-chuan-kwang-asian-iron-man.md",
@@ -136558,8 +136856,10 @@
           "footnoteDefs": 6,
           "bytes": 16583,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "hi": {
           "path": "hi/People/yang-chuan-kwang-asian-iron-man.md",
@@ -136574,8 +136874,10 @@
           "footnoteDefs": 6,
           "bytes": 36084,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ar": {
           "path": "ar/People/yang-chuan-kwang-asian-iron-man.md",
@@ -136590,8 +136892,10 @@
           "footnoteDefs": 6,
           "bytes": 24409,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ru": {
           "path": "ru/People/yang-chuan-kwang-asian-iron-man.md",
@@ -136606,8 +136910,10 @@
           "footnoteDefs": 6,
           "bytes": 29361,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "de": {
           "path": "de/People/yang-chuan-kwang-asian-iron-man.md",
@@ -136622,8 +136928,10 @@
           "footnoteDefs": 6,
           "bytes": 17655,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
@@ -137033,10 +137341,10 @@
     },
     "People/蔡瑞月.md": {
       "zh": {
-        "lastCommit": "c462122e",
-        "lastModified": "2026-08-20T08:58:59+08:00",
-        "contentHash": "sha256:f91b55938ef411f1",
-        "bodyHash": "sha256:6b90253634145c2e"
+        "lastCommit": "e7e1bb57",
+        "lastModified": "2026-11-27T08:44:03+08:00",
+        "contentHash": "sha256:2a7899aa5fbe66f0",
+        "bodyHash": "sha256:7f9bd688d1a76989"
       },
       "translations": {
         "en": {
@@ -137052,8 +137360,10 @@
           "footnoteDefs": 14,
           "bytes": 25325,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -4"
         },
         "ja": {
           "path": "ja/People/tsai-jui-yueh.md",
@@ -137068,8 +137378,10 @@
           "footnoteDefs": 14,
           "bytes": 26252,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -4"
         },
         "ko": {
           "path": "ko/People/tsai-jui-yueh.md",
@@ -137084,8 +137396,10 @@
           "footnoteDefs": 14,
           "bytes": 25870,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -4"
         },
         "es": {
           "path": "es/People/tsai-jui-yueh.md",
@@ -137100,8 +137414,10 @@
           "footnoteDefs": 14,
           "bytes": 28962,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -4"
         },
         "fr": {
           "path": "fr/People/tsai-jui-yueh.md",
@@ -137116,8 +137432,10 @@
           "footnoteDefs": 14,
           "bytes": 28540,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -4"
         },
         "vi": {
           "path": "vi/People/tsai-jui-yueh.md",
@@ -137132,8 +137450,10 @@
           "footnoteDefs": 14,
           "bytes": 31315,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -4"
         },
         "id": {
           "path": "id/People/tsai-jui-yueh.md",
@@ -137148,8 +137468,10 @@
           "footnoteDefs": 14,
           "bytes": 25569,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -4"
         },
         "pt": {
           "path": "pt/People/tsai-jui-yueh.md",
@@ -137164,8 +137486,10 @@
           "footnoteDefs": 14,
           "bytes": 25649,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -4"
         },
         "hi": {
           "path": "hi/People/tsai-jui-yueh.md",
@@ -137180,8 +137504,10 @@
           "footnoteDefs": 14,
           "bytes": 53489,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -4"
         },
         "ar": {
           "path": "ar/People/tsai-jui-yueh.md",
@@ -137196,8 +137522,10 @@
           "footnoteDefs": 14,
           "bytes": 33075,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -4"
         },
         "ru": {
           "path": "ru/People/tsai-jui-yueh.md",
@@ -137212,8 +137540,10 @@
           "footnoteDefs": 14,
           "bytes": 39977,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -4"
         },
         "de": {
           "path": "de/People/tsai-jui-yueh.md",
@@ -137228,8 +137558,10 @@
           "footnoteDefs": 14,
           "bytes": 26416,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+5 -4"
         }
       }
     },
@@ -137972,20 +138304,18 @@
         "pt": {
           "path": "pt/People/muyao4.md",
           "translatedFrom": "People/木曜4超玩.md",
-          "sourceCommitSha": "4f3974f86",
+          "sourceCommitSha": "8fc70bd881",
           "sourceContentHash": "sha256:c545680e99f6d0ab",
           "sourceBodyHash": "sha256:809502b72dc5c3f5",
-          "translatedAt": "2026-09-21T14:51:07.290837+00:00",
+          "translatedAt": "2026-11-27T01:13:25.226149+00:00",
           "translationLastCommit": "619612a7",
           "translationLastModified": "2026-09-21T23:57:46+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "bytes": 28979,
+          "bytes": 29143,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/muyao4.md",
@@ -138026,20 +138356,18 @@
         "ru": {
           "path": "ru/People/muyao4.md",
           "translatedFrom": "People/木曜4超玩.md",
-          "sourceCommitSha": "4f3974f86",
+          "sourceCommitSha": "8fc70bd881",
           "sourceContentHash": "sha256:c545680e99f6d0ab",
           "sourceBodyHash": "sha256:809502b72dc5c3f5",
-          "translatedAt": "2026-09-25T13:14:24.278796+00:00",
+          "translatedAt": "2026-11-27T01:15:03.960513+00:00",
           "translationLastCommit": "37ad3e46",
           "translationLastModified": "2026-09-25T22:05:42+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "bytes": 46392,
+          "bytes": 46586,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "de": {
           "path": "de/People/muyao4.md",
@@ -140105,8 +140433,8 @@
     },
     "People/嚴長壽.md": {
       "zh": {
-        "lastCommit": "9cef725c",
-        "lastModified": "2026-08-29T08:56:37+08:00",
+        "lastCommit": "72ef8740",
+        "lastModified": "2026-11-26T19:03:58+08:00",
         "contentHash": "sha256:f03fe4356a8b034b",
         "bodyHash": "sha256:0511dd3ec1c7896e"
       },
@@ -140124,8 +140452,10 @@
           "footnoteDefs": 24,
           "bytes": 20797,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/People/stanley-yen.md",
@@ -140140,8 +140470,10 @@
           "footnoteDefs": 24,
           "bytes": 22135,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/People/stanley-yen.md",
@@ -140156,8 +140488,10 @@
           "footnoteDefs": 24,
           "bytes": 23163,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/People/stanley-yen.md",
@@ -140172,8 +140506,10 @@
           "footnoteDefs": 24,
           "bytes": 23706,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/People/stanley-yen.md",
@@ -140188,8 +140524,10 @@
           "footnoteDefs": 24,
           "bytes": 24786,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "vi": {
           "path": "vi/People/stanley-yen.md",
@@ -140204,8 +140542,10 @@
           "footnoteDefs": 24,
           "bytes": 27434,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "id": {
           "path": "id/People/stanley-yen.md",
@@ -140220,8 +140560,10 @@
           "footnoteDefs": 24,
           "bytes": 20300,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "pt": {
           "path": "pt/People/stanley-yen.md",
@@ -140236,8 +140578,10 @@
           "footnoteDefs": 24,
           "bytes": 21562,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "hi": {
           "path": "hi/People/stanley-yen.md",
@@ -140252,8 +140596,10 @@
           "footnoteDefs": 24,
           "bytes": 45697,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ar": {
           "path": "ar/People/stanley-yen.md",
@@ -140268,8 +140614,10 @@
           "footnoteDefs": 24,
           "bytes": 29942,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ru": {
           "path": "ru/People/stanley-yen.md",
@@ -140284,8 +140632,10 @@
           "footnoteDefs": 24,
           "bytes": 35576,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "de": {
           "path": "de/People/stanley-yen.md",
@@ -140300,8 +140650,10 @@
           "footnoteDefs": 24,
           "bytes": 22049,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
@@ -141976,56 +142328,50 @@
         "ja": {
           "path": "ja/People/liao-chiung-chih.md",
           "translatedFrom": "People/廖瓊枝.md",
-          "sourceCommitSha": "a15e6712c",
-          "sourceContentHash": "sha256:bf5e1c54c68b6eaa",
+          "sourceCommitSha": "630afb2b66",
+          "sourceContentHash": "sha256:f186f3081f703176",
           "sourceBodyHash": "sha256:169c56cb9e4f77d3",
-          "translatedAt": "2026-09-19T01:37:17+08:00",
+          "translatedAt": "2026-11-27T01:05:12.701523+00:00",
           "translationLastCommit": "f4892bab",
           "translationLastModified": "2026-09-19T11:51:58+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 21430,
+          "bytes": 22988,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+10 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/liao-chiung-chih.md",
           "translatedFrom": "People/廖瓊枝.md",
-          "sourceCommitSha": "a15e6712c",
-          "sourceContentHash": "sha256:bf5e1c54c68b6eaa",
+          "sourceCommitSha": "630afb2b66",
+          "sourceContentHash": "sha256:f186f3081f703176",
           "sourceBodyHash": "sha256:169c56cb9e4f77d3",
-          "translatedAt": "2026-09-12T21:48:55+08:00",
+          "translatedAt": "2026-11-27T01:06:31.526245+00:00",
           "translationLastCommit": "c0686738",
           "translationLastModified": "2026-10-21T11:08:03+09:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 22077,
+          "bytes": 22929,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+10 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/liao-chiung-chih.md",
           "translatedFrom": "People/廖瓊枝.md",
-          "sourceCommitSha": "a15e6712c",
-          "sourceContentHash": "sha256:bf5e1c54c68b6eaa",
+          "sourceCommitSha": "630afb2b66",
+          "sourceContentHash": "sha256:f186f3081f703176",
           "sourceBodyHash": "sha256:169c56cb9e4f77d3",
-          "translatedAt": "2026-09-11T07:53:44+08:00",
+          "translatedAt": "2026-11-27T01:09:16.116520+00:00",
           "translationLastCommit": "1eb3bdac",
           "translationLastModified": "2026-09-11T09:15:25+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 23399,
+          "bytes": 24054,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+10 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/People/liao-chiung-chih.md",
@@ -142577,8 +142923,8 @@
     },
     "People/洪婕倪.md": {
       "zh": {
-        "lastCommit": "e974b4c9",
-        "lastModified": "2026-09-05T21:34:09+08:00",
+        "lastCommit": "72ef8740",
+        "lastModified": "2026-11-26T19:03:58+08:00",
         "contentHash": "sha256:8351d05a79dba790",
         "bodyHash": "sha256:f76990887dfd2b78"
       },
@@ -142596,8 +142942,10 @@
           "footnoteDefs": 8,
           "bytes": 19535,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/People/hung-chieh-ni.md",
@@ -142612,8 +142960,10 @@
           "footnoteDefs": 8,
           "bytes": 21705,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/People/hung-chieh-ni.md",
@@ -142628,8 +142978,10 @@
           "footnoteDefs": 8,
           "bytes": 21671,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/People/hung-chieh-ni.md",
@@ -142644,8 +142996,10 @@
           "footnoteDefs": 8,
           "bytes": 21051,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/People/hung-chieh-ni.md",
@@ -142660,8 +143014,10 @@
           "footnoteDefs": 8,
           "bytes": 22071,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "vi": {
           "path": "vi/People/hung-chieh-ni.md",
@@ -142676,8 +143032,10 @@
           "footnoteDefs": 8,
           "bytes": 25712,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "id": {
           "path": "id/People/hung-chieh-ni.md",
@@ -142692,8 +143050,10 @@
           "footnoteDefs": 8,
           "bytes": 18309,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "pt": {
           "path": "pt/People/hung-chieh-ni.md",
@@ -142708,8 +143068,10 @@
           "footnoteDefs": 8,
           "bytes": 19500,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "hi": {
           "path": "hi/People/hung-chieh-ni.md",
@@ -142724,8 +143086,10 @@
           "footnoteDefs": 8,
           "bytes": 45233,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ar": {
           "path": "ar/People/hung-chieh-ni.md",
@@ -142740,8 +143104,10 @@
           "footnoteDefs": 8,
           "bytes": 27218,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ru": {
           "path": "ru/People/hung-chieh-ni.md",
@@ -142756,8 +143122,10 @@
           "footnoteDefs": 8,
           "bytes": 31448,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "de": {
           "path": "de/People/hung-chieh-ni.md",
@@ -142772,8 +143140,10 @@
           "footnoteDefs": 8,
           "bytes": 21495,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
@@ -143839,10 +144209,10 @@
     },
     "People/莫那能.md": {
       "zh": {
-        "lastCommit": "be13f045",
-        "lastModified": "2026-11-17T07:30:44+08:00",
-        "contentHash": "sha256:f5aebb543340d143",
-        "bodyHash": "sha256:2f3617098391a7c1"
+        "lastCommit": "e7e1bb57",
+        "lastModified": "2026-11-27T08:44:03+08:00",
+        "contentHash": "sha256:a095996d9797f69b",
+        "bodyHash": "sha256:e51dd9f7a0df41eb"
       },
       "translations": {
         "en": {
@@ -143858,8 +144228,10 @@
           "footnoteDefs": 29,
           "bytes": 36860,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "ja": {
           "path": "ja/People/monaneng.md",
@@ -143874,8 +144246,10 @@
           "footnoteDefs": 29,
           "bytes": 38180,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "ko": {
           "path": "ko/People/monaneng.md",
@@ -143890,8 +144264,10 @@
           "footnoteDefs": 29,
           "bytes": 36465,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "es": {
           "path": "es/People/monaneng.md",
@@ -143906,8 +144282,10 @@
           "footnoteDefs": 29,
           "bytes": 38892,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "fr": {
           "path": "fr/People/monaneng.md",
@@ -143922,8 +144300,10 @@
           "footnoteDefs": 29,
           "bytes": 40991,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "vi": {
           "path": "vi/People/monaneng.md",
@@ -143938,8 +144318,10 @@
           "footnoteDefs": 29,
           "bytes": 42862,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "id": {
           "path": "id/People/monaneng.md",
@@ -143954,8 +144336,10 @@
           "footnoteDefs": 29,
           "bytes": 34034,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "pt": {
           "path": "pt/People/monaneng.md",
@@ -143970,8 +144354,10 @@
           "footnoteDefs": 29,
           "bytes": 35331,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "hi": {
           "path": "hi/People/monaneng.md",
@@ -143986,8 +144372,10 @@
           "footnoteDefs": 29,
           "bytes": 72174,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "ar": {
           "path": "ar/People/monaneng.md",
@@ -144002,8 +144390,10 @@
           "footnoteDefs": 29,
           "bytes": 44934,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "ru": {
           "path": "ru/People/monaneng.md",
@@ -144018,8 +144408,10 @@
           "footnoteDefs": 29,
           "bytes": 54046,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "de": {
           "path": "de/People/monaneng.md",
@@ -144034,8 +144426,10 @@
           "footnoteDefs": 29,
           "bytes": 39008,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         }
       }
     },
@@ -144150,8 +144544,8 @@
           "sourceContentHash": "sha256:2dda34fc81c78056",
           "sourceBodyHash": "sha256:fb05d9869b96635c",
           "translatedAt": "2026-11-27T00:15:32.209558+00:00",
-          "translationLastCommit": "bf312da4",
-          "translationLastModified": "2026-11-05T05:35:39+08:00",
+          "translationLastCommit": "77d3d190",
+          "translationLastModified": "2026-11-27T09:03:48+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "bytes": 9041,
@@ -144166,8 +144560,8 @@
           "sourceContentHash": "sha256:2dda34fc81c78056",
           "sourceBodyHash": "sha256:fb05d9869b96635c",
           "translatedAt": "2026-11-27T00:16:10.310287+00:00",
-          "translationLastCommit": "6b8bbfd5",
-          "translationLastModified": "2026-11-05T07:21:12+08:00",
+          "translationLastCommit": "02799eae",
+          "translationLastModified": "2026-11-27T09:03:56+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "bytes": 9931,
@@ -147121,8 +147515,8 @@
     },
     "People/盧彥勳.md": {
       "zh": {
-        "lastCommit": "be13f045",
-        "lastModified": "2026-11-17T07:30:44+08:00",
+        "lastCommit": "e7e1bb57",
+        "lastModified": "2026-11-27T08:44:03+08:00",
         "contentHash": "sha256:b7bcedce34261377",
         "bodyHash": "sha256:a95f42aeb707e55c"
       },
@@ -147140,8 +147534,10 @@
           "footnoteDefs": 7,
           "bytes": 14157,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/People/lu-yen-hsun-tennis-champion.md",
@@ -147156,8 +147552,10 @@
           "footnoteDefs": 7,
           "bytes": 16835,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/People/lu-yen-hsun-tennis-champion.md",
@@ -147172,8 +147570,10 @@
           "footnoteDefs": 7,
           "bytes": 15835,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/People/lu-yen-hsun-tennis-champion.md",
@@ -147188,8 +147588,10 @@
           "footnoteDefs": 7,
           "bytes": 15505,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/People/lu-yen-hsun-tennis-champion.md",
@@ -147204,8 +147606,10 @@
           "footnoteDefs": 7,
           "bytes": 15751,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "vi": {
           "path": "vi/People/lu-yen-hsun-tennis-champion.md",
@@ -147220,8 +147624,10 @@
           "footnoteDefs": 7,
           "bytes": 17428,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "id": {
           "path": "id/People/lu-yen-hsun-tennis-champion.md",
@@ -147236,8 +147642,10 @@
           "footnoteDefs": 7,
           "bytes": 12772,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "pt": {
           "path": "pt/People/lu-yen-hsun-tennis-champion.md",
@@ -147252,8 +147660,10 @@
           "footnoteDefs": 7,
           "bytes": 14382,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "hi": {
           "path": "hi/People/lu-yen-hsun-tennis-champion.md",
@@ -147268,8 +147678,10 @@
           "footnoteDefs": 7,
           "bytes": 31381,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ar": {
           "path": "ar/People/lu-yen-hsun-tennis-champion.md",
@@ -147284,8 +147696,10 @@
           "footnoteDefs": 7,
           "bytes": 18483,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ru": {
           "path": "ru/People/lu-yen-hsun-tennis-champion.md",
@@ -147300,8 +147714,10 @@
           "footnoteDefs": 7,
           "bytes": 21616,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "de": {
           "path": "de/People/lu-yen-hsun-tennis-champion.md",
@@ -147316,8 +147732,10 @@
           "footnoteDefs": 7,
           "bytes": 14623,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
@@ -148131,8 +148549,8 @@
     },
     "People/VH.md": {
       "zh": {
-        "lastCommit": "4b6d28c5",
-        "lastModified": "2026-05-08T16:59:31+08:00",
+        "lastCommit": "fd2854db",
+        "lastModified": "2026-11-26T18:05:11+08:00",
         "contentHash": "sha256:12627c86b39f3cf2",
         "bodyHash": "sha256:cac852a1ab84bcac"
       },
@@ -148150,8 +148568,10 @@
           "footnoteDefs": 7,
           "bytes": 11336,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/People/vh-band.md",
@@ -148166,8 +148586,10 @@
           "footnoteDefs": 7,
           "bytes": 12759,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/People/vh-band.md",
@@ -148182,8 +148604,10 @@
           "footnoteDefs": 7,
           "bytes": 12833,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/People/vh-band.md",
@@ -148198,8 +148622,10 @@
           "footnoteDefs": 7,
           "bytes": 12627,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/People/vh-band.md",
@@ -148214,8 +148640,10 @@
           "footnoteDefs": 7,
           "bytes": 12427,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "vi": {
           "path": "vi/People/vh-band.md",
@@ -148230,8 +148658,10 @@
           "footnoteDefs": 7,
           "bytes": 13701,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "id": {
           "path": "id/People/vh-band.md",
@@ -148246,8 +148676,10 @@
           "footnoteDefs": 7,
           "bytes": 11167,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "pt": {
           "path": "pt/People/vh-band.md",
@@ -148262,8 +148694,10 @@
           "footnoteDefs": 7,
           "bytes": 11619,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "hi": {
           "path": "hi/People/vh-band.md",
@@ -148278,8 +148712,10 @@
           "footnoteDefs": 7,
           "bytes": 24437,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ar": {
           "path": "ar/People/vh-band.md",
@@ -148294,8 +148730,10 @@
           "footnoteDefs": 7,
           "bytes": 15063,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ru": {
           "path": "ru/People/vh-band.md",
@@ -148310,8 +148748,10 @@
           "footnoteDefs": 7,
           "bytes": 17125,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "de": {
           "path": "de/People/vh-band.md",
@@ -148326,8 +148766,10 @@
           "footnoteDefs": 7,
           "bytes": 12072,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
@@ -148537,8 +148979,8 @@
     },
     "People/葉國一.md": {
       "zh": {
-        "lastCommit": "0f8fae0a",
-        "lastModified": "2026-05-17T18:46:40+08:00",
+        "lastCommit": "c7e3d69a",
+        "lastModified": "2026-11-26T14:25:35+08:00",
         "contentHash": "sha256:736f2b6cf89c9093",
         "bodyHash": "sha256:728aa85d9d44e89a"
       },
@@ -148556,8 +148998,10 @@
           "footnoteDefs": 8,
           "bytes": 17147,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/People/yeh-kuo-yi-electronics-manufacturing-pioneer.md",
@@ -148572,8 +149016,10 @@
           "footnoteDefs": 8,
           "bytes": 18723,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/People/yeh-kuo-yi-electronics-manufacturing-pioneer.md",
@@ -148588,8 +149034,10 @@
           "footnoteDefs": 8,
           "bytes": 17437,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/People/yeh-kuo-yi-electronics-manufacturing-pioneer.md",
@@ -148604,8 +149052,10 @@
           "footnoteDefs": 8,
           "bytes": 19666,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/People/yeh-kuo-yi-electronics-manufacturing-pioneer.md",
@@ -148620,8 +149070,10 @@
           "footnoteDefs": 8,
           "bytes": 20380,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "vi": {
           "path": "vi/People/yeh-kuo-yi-electronics-manufacturing-pioneer.md",
@@ -148636,8 +149088,10 @@
           "footnoteDefs": 8,
           "bytes": 22826,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "id": {
           "path": "id/People/yeh-kuo-yi-electronics-manufacturing-pioneer.md",
@@ -148652,8 +149106,10 @@
           "footnoteDefs": 8,
           "bytes": 16923,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "pt": {
           "path": "pt/People/yeh-kuo-yi-electronics-manufacturing-pioneer.md",
@@ -148668,8 +149124,10 @@
           "footnoteDefs": 8,
           "bytes": 17366,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "hi": {
           "path": "hi/People/yeh-kuo-yi-electronics-manufacturing-pioneer.md",
@@ -148684,8 +149142,10 @@
           "footnoteDefs": 8,
           "bytes": 38247,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ar": {
           "path": "ar/People/yeh-kuo-yi-electronics-manufacturing-pioneer.md",
@@ -148700,8 +149160,10 @@
           "footnoteDefs": 8,
           "bytes": 24632,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ru": {
           "path": "ru/People/yeh-kuo-yi-electronics-manufacturing-pioneer.md",
@@ -148716,8 +149178,10 @@
           "footnoteDefs": 8,
           "bytes": 30854,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "de": {
           "path": "de/People/yeh-kuo-yi-electronics-manufacturing-pioneer.md",
@@ -148732,8 +149196,10 @@
           "footnoteDefs": 8,
           "bytes": 17629,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
@@ -151777,8 +152243,8 @@
     },
     "People/蕭上農.md": {
       "zh": {
-        "lastCommit": "160f6cb5",
-        "lastModified": "2026-10-31T08:40:26+08:00",
+        "lastCommit": "72ef8740",
+        "lastModified": "2026-11-26T19:03:58+08:00",
         "contentHash": "sha256:cf3dd21873bec862",
         "bodyHash": "sha256:ba8d5bb97d38e74d"
       },
@@ -151796,8 +152262,10 @@
           "footnoteDefs": 9,
           "bytes": 12754,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/People/tony-hsiao-inside-founder.md",
@@ -151812,8 +152280,10 @@
           "footnoteDefs": 9,
           "bytes": 15221,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/People/tony-hsiao-inside-founder.md",
@@ -151828,8 +152298,10 @@
           "footnoteDefs": 9,
           "bytes": 14880,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/People/tony-hsiao-inside-founder.md",
@@ -151844,8 +152316,10 @@
           "footnoteDefs": 9,
           "bytes": 14215,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/People/tony-hsiao-inside-founder.md",
@@ -151860,8 +152334,10 @@
           "footnoteDefs": 9,
           "bytes": 15003,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "vi": {
           "path": "vi/People/tony-hsiao-inside-founder.md",
@@ -151876,8 +152352,10 @@
           "footnoteDefs": 9,
           "bytes": 16263,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "id": {
           "path": "id/People/tony-hsiao-inside-founder.md",
@@ -151892,8 +152370,10 @@
           "footnoteDefs": 9,
           "bytes": 12726,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "pt": {
           "path": "pt/People/tony-hsiao-inside-founder.md",
@@ -151908,8 +152388,10 @@
           "footnoteDefs": 9,
           "bytes": 13501,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "hi": {
           "path": "hi/People/tony-hsiao-inside-founder.md",
@@ -151924,8 +152406,10 @@
           "footnoteDefs": 9,
           "bytes": 27116,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ar": {
           "path": "ar/People/tony-hsiao-inside-founder.md",
@@ -151940,8 +152424,10 @@
           "footnoteDefs": 9,
           "bytes": 18634,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ru": {
           "path": "ru/People/tony-hsiao-inside-founder.md",
@@ -151956,8 +152442,10 @@
           "footnoteDefs": 9,
           "bytes": 21703,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "de": {
           "path": "de/People/tony-hsiao-inside-founder.md",
@@ -151972,8 +152460,10 @@
           "footnoteDefs": 9,
           "bytes": 14083,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
@@ -155653,8 +156143,8 @@
     },
     "People/黑貓老師.md": {
       "zh": {
-        "lastCommit": "9d93b1d9",
-        "lastModified": "2026-08-27T12:00:24+08:00",
+        "lastCommit": "fd2854db",
+        "lastModified": "2026-11-26T18:05:11+08:00",
         "contentHash": "sha256:098b16931924e6a4",
         "bodyHash": "sha256:d62613e467add761"
       },
@@ -155672,8 +156162,10 @@
           "footnoteDefs": 14,
           "bytes": 21398,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "ja": {
           "path": "ja/People/black-cat-teacher.md",
@@ -155688,8 +156180,10 @@
           "footnoteDefs": 14,
           "bytes": 22370,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "ko": {
           "path": "ko/People/black-cat-teacher.md",
@@ -155704,8 +156198,10 @@
           "footnoteDefs": 14,
           "bytes": 24209,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "es": {
           "path": "es/People/black-cat-teacher.md",
@@ -155720,8 +156216,10 @@
           "footnoteDefs": 14,
           "bytes": 23801,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "fr": {
           "path": "fr/People/black-cat-teacher.md",
@@ -155736,8 +156234,10 @@
           "footnoteDefs": 14,
           "bytes": 25510,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "vi": {
           "path": "vi/People/black-cat-teacher.md",
@@ -155752,8 +156252,10 @@
           "footnoteDefs": 14,
           "bytes": 29009,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "id": {
           "path": "id/People/black-cat-teacher.md",
@@ -155768,8 +156270,10 @@
           "footnoteDefs": 14,
           "bytes": 22016,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "pt": {
           "path": "pt/People/black-cat-teacher.md",
@@ -155784,8 +156288,10 @@
           "footnoteDefs": 14,
           "bytes": 21876,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "hi": {
           "path": "hi/People/black-cat-teacher.md",
@@ -155800,8 +156306,10 @@
           "footnoteDefs": 14,
           "bytes": 45744,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "ar": {
           "path": "ar/People/black-cat-teacher.md",
@@ -155816,8 +156324,10 @@
           "footnoteDefs": 14,
           "bytes": 27496,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "ru": {
           "path": "ru/People/black-cat-teacher.md",
@@ -155832,8 +156342,10 @@
           "footnoteDefs": 14,
           "bytes": 34553,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "de": {
           "path": "de/People/black-cat-teacher.md",
@@ -155848,15 +156360,17 @@
           "footnoteDefs": 14,
           "bytes": 23735,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         }
       }
     },
     "People/莊朱玉女.md": {
       "zh": {
-        "lastCommit": "22286539",
-        "lastModified": "2026-11-04T08:33:28+08:00",
+        "lastCommit": "72ef8740",
+        "lastModified": "2026-11-26T19:03:58+08:00",
         "contentHash": "sha256:877ba646499c2433",
         "bodyHash": "sha256:59833698754e5cb0"
       },
@@ -155874,8 +156388,10 @@
           "footnoteDefs": 8,
           "bytes": 10989,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/People/chuang-chu-yu-nu-ten-dollar-cafeteria-grandma.md",
@@ -155890,8 +156406,10 @@
           "footnoteDefs": 8,
           "bytes": 10860,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ko": {
           "path": "ko/People/chuang-chu-yu-nu-ten-dollar-cafeteria-grandma.md",
@@ -155906,8 +156424,10 @@
           "footnoteDefs": 8,
           "bytes": 11656,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "es": {
           "path": "es/People/chuang-chu-yu-nu-ten-dollar-cafeteria-grandma.md",
@@ -155922,8 +156442,10 @@
           "footnoteDefs": 8,
           "bytes": 10808,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "fr": {
           "path": "fr/People/chuang-chu-yu-nu-ten-dollar-cafeteria-grandma.md",
@@ -155938,8 +156460,10 @@
           "footnoteDefs": 8,
           "bytes": 12854,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "vi": {
           "path": "vi/People/chuang-chu-yu-nu-ten-dollar-cafeteria-grandma.md",
@@ -155954,8 +156478,10 @@
           "footnoteDefs": 8,
           "bytes": 12157,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "id": {
           "path": "id/People/chuang-chu-yu-nu-ten-dollar-cafeteria-grandma.md",
@@ -155970,8 +156496,10 @@
           "footnoteDefs": 8,
           "bytes": 11140,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "pt": {
           "path": "pt/People/chuang-chu-yu-nu-ten-dollar-cafeteria-grandma.md",
@@ -155986,8 +156514,10 @@
           "footnoteDefs": 8,
           "bytes": 12101,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "hi": {
           "path": "hi/People/chuang-chu-yu-nu-ten-dollar-cafeteria-grandma.md",
@@ -156002,8 +156532,10 @@
           "footnoteDefs": 8,
           "bytes": 23014,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ar": {
           "path": "ar/People/chuang-chu-yu-nu-ten-dollar-cafeteria-grandma.md",
@@ -156018,8 +156550,10 @@
           "footnoteDefs": 8,
           "bytes": 13641,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ru": {
           "path": "ru/People/chuang-chu-yu-nu-ten-dollar-cafeteria-grandma.md",
@@ -156034,8 +156568,10 @@
           "footnoteDefs": 8,
           "bytes": 17238,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "de": {
           "path": "de/People/chuang-chu-yu-nu-ten-dollar-cafeteria-grandma.md",
@@ -156050,8 +156586,10 @@
           "footnoteDefs": 8,
           "bytes": 11608,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         }
       }
     },
@@ -158707,10 +159245,10 @@
     },
     "People/聖凱師.md": {
       "zh": {
-        "lastCommit": "2e227925",
-        "lastModified": "2026-08-21T21:00:27+08:00",
-        "contentHash": "sha256:f3c744060676c5c3",
-        "bodyHash": "sha256:c6156a33a327be28"
+        "lastCommit": "72ef8740",
+        "lastModified": "2026-11-26T19:03:58+08:00",
+        "contentHash": "sha256:5acc04186bb1a528",
+        "bodyHash": "sha256:784aa01194d0dc58"
       },
       "translations": {
         "en": {
@@ -158726,8 +159264,10 @@
           "footnoteDefs": 9,
           "bytes": 22063,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+31 -13"
         },
         "ja": {
           "path": "ja/People/sheng-kai-shih-chef.md",
@@ -158742,8 +159282,10 @@
           "footnoteDefs": 9,
           "bytes": 21625,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+31 -13"
         },
         "ko": {
           "path": "ko/People/sheng-kai-shih-chef.md",
@@ -158758,8 +159300,10 @@
           "footnoteDefs": 9,
           "bytes": 23527,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+31 -13"
         },
         "es": {
           "path": "es/People/sheng-kai-shih-chef.md",
@@ -158774,8 +159318,10 @@
           "footnoteDefs": 9,
           "bytes": 25564,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+31 -13"
         },
         "fr": {
           "path": "fr/People/sheng-kai-shih-chef.md",
@@ -158790,8 +159336,10 @@
           "footnoteDefs": 9,
           "bytes": 27163,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+31 -13"
         },
         "vi": {
           "path": "vi/People/sheng-kai-shih-chef.md",
@@ -158806,8 +159354,10 @@
           "footnoteDefs": 9,
           "bytes": 27107,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+31 -13"
         },
         "id": {
           "path": "id/People/sheng-kai-shih-chef.md",
@@ -158822,8 +159372,10 @@
           "footnoteDefs": 9,
           "bytes": 19034,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+31 -13"
         },
         "pt": {
           "path": "pt/People/sheng-kai-shih-chef.md",
@@ -158838,8 +159390,10 @@
           "footnoteDefs": 9,
           "bytes": 23401,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+31 -13"
         },
         "hi": {
           "path": "hi/People/sheng-kai-shih-chef.md",
@@ -158854,8 +159408,10 @@
           "footnoteDefs": 9,
           "bytes": 45786,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+31 -13"
         },
         "ar": {
           "path": "ar/People/sheng-kai-shih-chef.md",
@@ -158870,8 +159426,10 @@
           "footnoteDefs": 9,
           "bytes": 29575,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+31 -13"
         },
         "ru": {
           "path": "ru/People/sheng-kai-shih-chef.md",
@@ -158886,8 +159444,10 @@
           "footnoteDefs": 9,
           "bytes": 37267,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+31 -13"
         },
         "de": {
           "path": "de/People/sheng-kai-shih-chef.md",
@@ -158902,8 +159462,10 @@
           "footnoteDefs": 9,
           "bytes": 21737,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+31 -13"
         }
       }
     },
@@ -159919,8 +160481,8 @@
     },
     "People/陳三火.md": {
       "zh": {
-        "lastCommit": "8cc32378",
-        "lastModified": "2026-08-20T09:08:44+08:00",
+        "lastCommit": "c7e3d69a",
+        "lastModified": "2026-11-26T14:25:35+08:00",
         "contentHash": "sha256:eedc983e2ea9d824",
         "bodyHash": "sha256:7efe5656906a3904"
       },
@@ -159938,8 +160500,10 @@
           "footnoteDefs": 11,
           "bytes": 18914,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "ja": {
           "path": "ja/People/chen-san-huo-jiannian-artist.md",
@@ -159954,8 +160518,10 @@
           "footnoteDefs": 11,
           "bytes": 18468,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "ko": {
           "path": "ko/People/chen-san-huo-jiannian-artist.md",
@@ -159970,8 +160536,10 @@
           "footnoteDefs": 11,
           "bytes": 20370,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "es": {
           "path": "es/People/chen-san-huo-jiannian-artist.md",
@@ -159986,8 +160554,10 @@
           "footnoteDefs": 11,
           "bytes": 21944,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "fr": {
           "path": "fr/People/chen-san-huo-jiannian-artist.md",
@@ -160002,8 +160572,10 @@
           "footnoteDefs": 11,
           "bytes": 21683,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "vi": {
           "path": "vi/People/chen-san-huo-jiannian-artist.md",
@@ -160018,8 +160590,10 @@
           "footnoteDefs": 11,
           "bytes": 23203,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "id": {
           "path": "id/People/chen-san-huo-jiannian-artist.md",
@@ -160034,8 +160608,10 @@
           "footnoteDefs": 11,
           "bytes": 17558,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "pt": {
           "path": "pt/People/chen-san-huo-jiannian-artist.md",
@@ -160050,8 +160626,10 @@
           "footnoteDefs": 11,
           "bytes": 19711,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "hi": {
           "path": "hi/People/chen-san-huo-jiannian-artist.md",
@@ -160066,8 +160644,10 @@
           "footnoteDefs": 11,
           "bytes": 39606,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "ar": {
           "path": "ar/People/chen-san-huo-jiannian-artist.md",
@@ -160082,8 +160662,10 @@
           "footnoteDefs": 11,
           "bytes": 25486,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "ru": {
           "path": "ru/People/chen-san-huo-jiannian-artist.md",
@@ -160098,8 +160680,10 @@
           "footnoteDefs": 11,
           "bytes": 30884,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         },
         "de": {
           "path": "de/People/chen-san-huo-jiannian-artist.md",
@@ -160114,8 +160698,10 @@
           "footnoteDefs": 11,
           "bytes": 19796,
           "armorResidue": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "metadata-stale",
+          "reason": "trailer-only-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+2 -2"
         }
       }
     },
@@ -213517,7 +214103,7 @@
     },
     "Geography/嘉義市.md": {
       "zh": {
-        "lastCommit": "248b97a9",
+        "lastCommit": "6e22e2f3",
         "lastModified": "2026-11-27T08:48:38+08:00",
         "contentHash": "sha256:001e8fa615722fad",
         "bodyHash": "sha256:0172998b1bf02002"
