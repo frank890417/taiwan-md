@@ -1,10 +1,17 @@
 ---
-title: 'A-Shen: Warum gibt es nach elf Jahren täglicher Veröffentlichung immer noch neue Werke, obwohl eine „permanente Pause“ angekündigt wurde?'
-description: 'Im Juli 2026 zeigte A-Shen auf seinem Hauptkanal widersprüchliche Botschaften – einerseits „Ich mache Videos nur, wenn ich Spaß habe und im Ruhestand bin“, andererseits ein neues Minecraft-Video von gestern. Warum ist die „permanente Pause“ von vor drei Jahren nicht zu einem dauerhaften Abschied geworden?'
+title: 'A-Shen: Warum es nach elf Jahren täglicher Uploads trotz „dauerhafter Einstellung“ neue Videos gibt'
+description: 'Ein Gaming-Content-Creator, der seinen Kanal seit über zehn Jahren führt und angibt, elf Jahre lang ohne Unterbrechung täglich hochgeladen zu haben. Im Jahr 2021 stellte er das tägliche Hochladen ein, gab seine YouTube-Tätigkeit als Hauptberuf auf und wechselte zu einem entspannteren Upload-Rhythmus. 2023 erklärte er die dauerhafte Einstellung seines Hauptkanals und behielt nur noch Livestreams sowie „Gao Shen Ma“, eine gemeinsame Produktion mit Matan. Drei Jahre später erscheint auf dem Hauptkanal wieder ein langer Minecraft-Kooperationsfilm, während in der Kanalbeschreibung immer noch steht: „Ich mache Videos nur, wenn ich Lust habe, jetzt im Ruhestand“. Das Wort „Ruhestand“ wurde zwar nicht zurückgenommen, doch die Zuschauer haben den festen Termin für das nächste Video verloren.'
 date: 2026-07-15
 category: 'People'
 tags:
-  ['A-Shen', 'YouTuber', 'Minecraft', 'Internetkultur Taiwan', 'Schöpferarbeit']
+  [
+    'A-Shen',
+    'YouTuber',
+    'Minecraft',
+    'Gao Shen Ma',
+    'Taiwanische Internetkultur',
+    'Arbeit von Content-Creatorn',
+  ]
 subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -13,7 +20,7 @@ lastHumanReview: false
 researchReport: 'reports/research/2026-07/阿神.md'
 readingTime: 18
 image: '/article-images/people/ashan-2026-return-minecraft.webp'
-imageAlt: 'Offizielles Minecraft-Thumbnail mit zwei NPC-Monstern in der Mitte und den Blockcharakteren A-Shen und Schneehase links und rechts, betitelt „Gruseligste NPCs von Minecraft“'
+imageAlt: 'In der Mitte des offiziellen Minecraft-Thumbnails sind zwei Mimic-Monster zu sehen, links und rechts davon die Block-Charaktere von A-Shen und Xuetú, mit dem Titel „Die gruseligsten Mimics in Minecraft“.'
 imageCredit: '阿神官方 YouTube 頻道'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.youtube.com/watch?v=60n6gPUEl7s'
@@ -31,10 +38,10 @@ rationale:
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/阿神.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '2a5b98d9cd'
 sourceContentHash: 'sha256:5d4d8978fc43c7cd'
 sourceBodyHash: 'sha256:02c4e1b3fececdae'
-translatedAt: '2026-09-26T19:13:21+08:00'
+translatedAt: '2026-11-26T23:58:33.082361+00:00'
 ---
 
 > **30-Sekunden-Zusammenfassung:** Am 15. Juli 2026 wies A-Shens offizieller Kanal 3,31 Millionen Abonnenten und 5.622 Videos auf. Das neueste Kooperationsvideo zu Minecraft war erst einen Tag alt, doch in der Beschreibung stand immer noch „Ich mache Videos nur, wenn ich Spaß habe und im Ruhestand bin“. Er hatte selbst berichtet, elf Jahre lang täglich hochzuladen; 2021 hatte er die Vollzeitbeschäftigung auf YouTube aufgegeben, und 2023 kündigte er an, dass sein Hauptkanal keine Videos mehr veröffentlichen würde – aber er behielt „Gao Shen Ma“ bei, das er mit Ma Tian produzierte. Die drei Zustände zusammen machen den Ruhestand klar: Tägliche Updates waren nie ein öffentliches Versprechen; die Schöpfung ist auch nicht dauerhaft beendet.

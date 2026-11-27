@@ -1,13 +1,13 @@
 ---
-title: 'Shen Sheng-po'
-description: 'Obwohl er Informatik studierte, brachte er Programmiersprachen in die taiwanesische Gegenwartskunst. In seinen 34 Jahren hinterließ er nicht nur digitale Kunstwerke, sondern auch eine experimentelle Haltung, die Programmierung als Lebensweise und Freie-Software als kreative Ethik versteht.'
+title: 'Shen Sheng-bo'
+description: 'Taiwanischer digitaler Künstler und Kunstingenieur, geboren 1980 in Changhua. Obwohl er Informatik studierte, wandte er sich der Technologiekunst zu und vertrat die Auffassung „Programmieren ist Leben“, wobei er digitale Regeln und algorithmische Logik als Kern seines Schaffens betrachtete. Er förderte FLOSS+ART, bot Processing-Kurse an, betrieb ein Lehrforum und war Mitglied von OpenLab.Taipei. 2011 gründete er in Taichung den Raum „Youwei Space“, um Experimenten eine Plattform zu bieten. Trotz seiner Diagnose Darmkrebs im Jahr 2009 setzte er seine Arbeit fort, bis er 2014 im Alter von nur 34 Jahren verstarb. Werke wie „pin shadow“ und „texture“ werden bis heute restauriert und erneut ausgestellt.'
 date: 2026-03-23
 category: 'People'
 tags:
   [
-    'Person',
-    'digitale Kunst',
-    'New-Media-Kunst',
+    'Personen',
+    'Digitale Kunst',
+    'Neue Medienkunst',
     'FLOSS+ART',
     'OpenLab.Taipei',
     'Taiwan',
@@ -21,10 +21,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/沈聖博.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '3f269cde5e'
 sourceContentHash: 'sha256:36208e14ce1c380c'
 sourceBodyHash: 'sha256:5eb269f5e4d722c4'
-translatedAt: '2026-11-04T19:26:52.976887+00:00'
+translatedAt: '2026-11-27T01:22:02.787437+00:00'
 ---
 
 # Shen Sheng-po

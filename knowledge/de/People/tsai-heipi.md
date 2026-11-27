@@ -1,16 +1,16 @@
 ---
-title: 'Tsai Tsai-p‘ei: Der Junge, der sich die U-Bahnhöfe auswendig gelernt hat, und die 260.000 Abonnenten, die Taiwan verbinden'
-description: 'Tsai Tsai-p‘ei (geb. 2002), der mit Selbststudium begann, „Geheimnisse der Taipeher U-Bahn“ zu filmen, trat zwölf Jahre später auf der Preisverleihung des „Oscars des Verkehrswesens“ (Kun-ming Award) auf und erhielt den Sonderpreis. Nach Namenswechsel und Pause kehrte er mit „Taiwan 360“ zurück – eine Mischung aus Daten, Karten und Schnitten, die Taiwan als Wissenschafts-YouTube-Kanal verfestigt.'
+title: 'Cai Heipi: Der Junge, der mit den Namen der MRT-Stationen aufwuchs und Taiwan in die Abonnements von 260.000 Menschen packte'
+description: 'Ein taiwanesischer Wissens-YouTuber, geboren im Jahr 2002. In der Highschool begann er mit dem Filmen, weil er fand, dass niemand Themen über Verkehr behandelte; sein erstes Werk waren kuriose Fakten über die MRT Taipeh. Er übernimmt Recherche, Karten, Skript und Schnitt allein und hat mit der Serie „Railway Bar“ über hundert Videos über Verkehrsinfrastruktur produziert. Nach einer neunmonatigen Pause Anfang 2025 kehrte er zum zwölften Kanaljubiläum unter neuem Namen zurück und startete die Heimatserie „Taiwan 360“. Im selben Jahr erhielt er den Special Contribution Award beim 26. Golden Railway Awards, und seine Videos wurden sogar in geografische Schulbücher für die Highschool aufgenommen.'
 date: 2026-08-19
 category: 'People'
 tags:
   [
     'YouTuber',
     'Verkehr',
-    'Wissenschaftlicher Content-Ersteller',
-    'Tsai Tsai-p‘ei',
-    'Kun-ming Award',
-    'Taiwanesische Geografie',
+    'Wissens-Creator',
+    'Cai Rongan',
+    'Golden Railway Awards',
+    'Geografie Taiwans',
     'Eisenbahn',
   ]
 subcategory: '數位與媒體'
@@ -25,10 +25,10 @@ imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:2017-10-23_MRT_train_at_Platform,_Tamsui_Line.jpg'
 curation: 'incubating'
 translatedFrom: 'People/蔡黑皮.md'
-sourceCommitSha: 'e75b621d2'
+sourceCommitSha: '3f269cde5e'
 sourceContentHash: 'sha256:e43b16ae63cbdb17'
 sourceBodyHash: 'sha256:1cde30bd00a46d49'
-translatedAt: '2026-09-23T21:26:33+08:00'
+translatedAt: '2026-11-26T23:55:49.771563+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Tsai Tsai-p‘ei (Kanalname „Tsai Tsai-p‘ei“, früherer Online-Name „Tsai-p‘ei“) wurde 2002 geboren und begann in der Oberstufe, weil er fühlte, „niemand mache ein Thema zum Verkehr“, Filme zu drehen. Sein erstes Werk war „10 Dinge über die Taipeher U-Bahn, die du nicht kennst“. Zwölf Jahre später trat er auf der Preisverleihung des 26. Kun-ming Awards – dem sogenannten „Oscar des Verkehrswesens“ – auf und erhielt den Sonderpreis. Die Spannung dieses Artikels liegt darin: Im Januar 2025 kündigte er eine Pause an, der Kanal blieb halbjährlich stumm, alle dachten, er verschwindet – doch nach der Rückkehr verstärkte seine Serie „Taiwan 360“ mit lokalen Geschichten sogar noch mehr. Das Thema Wu-ji führte die Kanal-Startseite an, die Aufrufe stiegen über 100.000. Ein Junge, der sich die Bahnhöfe auswendig gelernt hat, richtete nun die Kamera auf die vergessensten Ecken der Karte. Es geht nicht um den Aufstieg eines Influencers, sondern um die Frage, wie ein Kreativer in einem Paradox „mehr veröffentlicht, aber niemand schaut zu / weniger veröffentlicht, aber alle warten“ seine eigene Motivation findet.

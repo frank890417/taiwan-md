@@ -1,23 +1,23 @@
 ---
-title: 'Crowd Lu: Der Triple-Crown-König, der von einem Bus überrollt wurde'
-description: '2003 fuhr ein Junge aus Tainan mit dem Fahrrad, um einen Mitternachtssnack zu kaufen, ein Bus fuhr ihm über das Bein, komplizierter Bruch. Aus Langeweile im Krankenhaus griff er zur Gitarre, die ihm sein Cousin geschenkt hatte. 22 Jahre später ist er der jüngste Triple-Crown-Gewinner in Taiwans Geschichte: Golden Melody, Golden Bell, Golden Horse – den Weg ging er mit einer Gitarre und einem Paar Beine, die einmal gebrochen waren.'
+title: 'Lu Guangzhong: Der Triple-Gold-König, der von einem Bus überfahren wurde'
+description: '2003 wurde ein Junge aus Tainan, der mit dem Fahrrad einen Mitternachtssnack kaufen wollte, von einem Bus angefahren und erlitt einen Beinbruch. Während seines Krankenhausaufenthalts brachte er sich autodidaktisch Gitarrespielen bei und betrat fortan mit einer Gitarre die Musikszene. 2008 debütierte er, im darauffolgenden Jahr gewann er den Golden Melody Award für den besten Newcomer. Danach acht Jahre lang keine Nominierungen; er wanderte einst zu Fuß von Taipei zurück nach Tainan, um sich selbst wiederzufinden. 2017 gewann er mit der in einer Einstellung gedrehten Trauerrede-Szene in „Huajia Boys“ zwei Golden Bell Awards. 2020 erhielt er den Golden Horse Award für „Your Name Engraved Herein“. Mit 35 Jahren wurde er zum jüngsten Triple-Crown-Gewinner Taiwans.'
 date: 2026-04-07
 category: 'People'
 tags:
   [
     'Persönlichkeit',
-    'Crowd Lu',
+    'Lu Guangzhong',
     'Sänger',
     'Schauspieler',
-    'Golden Melody Awards',
-    'Golden Bell Awards',
-    'Golden Horse Awards',
+    'Golden Melody Award',
+    'Golden Bell Award',
+    'Golden Horse Award',
     'Triple Crown',
     'Tainan',
-    'Hua Jia Nan Zi Zhuan Da Ren',
-    'Yuzai',
+    'Huajia-Jungen',
+    'Yuzi',
     'Taiwanesisch',
-    'Independent-Musik',
+    'Indie-Musik',
     'Ureinwohner',
   ]
 subcategory: '音樂與表演'
@@ -27,10 +27,10 @@ lastVerified: 2026-04-07
 lastHumanReview: true
 readingTime: 12
 translatedFrom: 'People/盧廣仲.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '8fc70bd881'
 sourceContentHash: 'sha256:a21c857b64fd8e71'
 sourceBodyHash: 'sha256:090ff0c53b31ba5d'
-translatedAt: '2026-09-11T07:09:36+08:00'
+translatedAt: '2026-11-27T01:16:44.485229+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Crowd Lu, 1985 in Tainans Bezirk Rende geboren, wurde als Erstsemester beim Kauf eines Mitternachtssnacks von einem Bus angefahren und erlitt einen Beinbruch. Während des Krankenhausaufenthalts brachte er sich autodidaktisch Gitarre bei. 2008 Debüt, 2009 Golden Melody Award als bester Newcomer, darauf folgten acht Jahre ohne Nominierungen. 2017 erschütterte er die Branche mit einer siebenminütigen Einstellung eines Trauergedichts in _Hua Jia Nan Zi Zhuan Da Ren_, gewann zwei Golden Bell Awards; 2020 holte _The Name Engraved in My Heart_ den Golden Horse Award für den besten Original-Filmsong – mit 35 Jahren wurde er zum jüngsten Triple-Crown-Gewinner in Taiwans Geschichte. 2026 waren seine Konzertkarten in einer Minute ausverkauft, Schwarzmarkthändler boten sie für bis zu 60.000 NT$ an.

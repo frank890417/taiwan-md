@@ -1,29 +1,23 @@
 ---
-title: 'Mavis Fan: Von der „Gesundheitslied"-Hexe zur Frontsängerin von 100%, 30 Jahre ohne sich von einer Ära definieren zu lassen'
-description: '1996 weckte Mavis Fan mit dem „Gesundheitslied" als 19-Jährige ganz Taiwan auf. 1998 rasierte sie sich den Kopf und kündigte mit „Darling" ein Programm an: „Mach deine eigene Musik"; 2001 wechselte sie zu Jazz, 2007 gründete sie die 100%-Band. 2025 ist sie 48 Jahre alt, „Passant" ist die erste neue Arbeit der Band nach 16 Jahren — 30 Jahre lang zerlegt sie stückweise die „Träume, die andere ihr gaben".'
+title: 'Fan Xiaoxuan: Von der „kleinen Hexe“ des „Gesundheitslieds“ zur Frontfrau von 100% – drei Jahrzehnte, in denen sie sich weigerte, von einer einzigen Ära definiert zu werden'
+description: 'Von der „kleinen Hexe“ mit Pferdeschwanz im „Gesundheitslied“ zur Singer-Songwriterin, die sich den Kopf kahl rasierte, um ihre eigene Musik zu verkünden. 1995 debütierte sie, 1999 gewann sie mit „Ich will, dass wir zusammen sind“ den Golden Melody Award, 2001 wandte sie sich dem Jazz zu mit „Unvergleichliche Diva“, durchlief ein fast dreijähriges Depressionstief, gründete 2007 mit drei Bandmitgliedern die Band 100%, gewann 2010 mit „Herr“ den Golden Melody Award für den besten Single-Produzenten; 2025 veröffentlichte sie nach sechzehn Jahren Pause das neue Werk „Passantin“. Nach dreißig Jahren Karriere hat sie sich immer wieder geweigert, durch das Bild einer einzigen Ära definiert zu werden.'
 date: 2026-04-20
 category: 'People'
 tags:
-  [
-    'Musik',
-    'Songwriterin',
-    'Golden Melody Award',
-    '100% Band',
-    'Chinesische Popmusik',
-  ]
+  ['Musik', 'Singer-Songwriter', 'Golden Melody Award', '100% Band', 'Mandopop']
 subcategory: '音樂人'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-20
 lastHumanReview: false
-researchReport: reports/research/2026-04/范曉萱.md
+researchReport: 'reports/research/2026-04/范曉萱.md'
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/范曉萱.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '8fc70bd881'
 sourceContentHash: 'sha256:752a0e7cddd9b38d'
 sourceBodyHash: 'sha256:7cceb716a616fa6b'
-translatedAt: '2026-09-09T14:15:07+08:00'
+translatedAt: '2026-11-27T01:02:58.803146+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Mavis Fan (1977–), taiwanesische Songwriterin. Mit 18 Jahren debütierte sie 1995 mit „Rain", 1996 wurde das „Gesundheitslied" zum Phänomen und machte sie zur nationalen „kleinen Hexe"-Kinderstar. 1998 kündigte sie mit „Darling" mit kurzem Haar einen Neuanfang an; 1999 erhielt sie für ihr Album „We Want to Be Together" die beste Pop-Musikalbum-Auszeichnung bei der 11. Golden Melody Awards; 2001 veröffentlichte sie das Jazz-Album „A Timeless Diva"; 2007 gründete sie die Band Mavis Fan & 100%; 2010 erhielt sie die Best Single Producer Award bei den 21. Golden Melody Awards für „Master" aus ihrem Album „Pure Heart". Im Dezember 2025 veröffentlichte sie „Passant" — 16 Jahre nach ihrem letzten Album. In drei Jahrzehnten lehnte sie es immer wieder ab, sich von einer Ära definieren zu lassen.

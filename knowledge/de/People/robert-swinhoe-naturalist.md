@@ -1,15 +1,15 @@
 ---
-title: 'Robert Swinhoe: Wenn ein Diplomat zum Naturforscher wird'
-description: '1856 landete ein 19-jähriger britischer Übersetzer an der Westküste Taiwans und notierte dort den ersten Vogel, den er sah. Vier Jahre später veröffentlichte er 52 wissenschaftliche Aufsätze und brachte die Welt erstmals darauf auf, welche Lebewesen auf dieser Insel lebten. Mit 41 Jahren starb er in London – doch die Arten, die er benannte, leben bis heute in den taiwanesischen Wäldern.'
+title: 'Robert Swinhoe: Vom Diplomaten zum Naturforscher'
+description: 'Britischer Diplomat und Naturforscher, betrat Formosa erstmals im Alter von 19 Jahren als Dolmetscher, wurde 1860 erster britischer Vizekonsul in Formosa, 1865 zum Konsul befördert. In seinen rund vier Jahren auf der Insel veröffentlichte er 52 wissenschaftliche Arbeiten, dokumentierte 227 Vogelarten, fast 40 Säugetierarten und 246 Pflanzenarten und machte der Welt erstmals die Tier- und Pflanzenwelt der Insel bekannt. Zeitgenössische Ornithologen priesen ihn als „einen der erfolgreichsten naturkundlichen Entdecker der Geschichte“. Vier Säugetierarten und fünfzehn Vogelarten wurden nach ihm benannt, darunter der Blaubauchfasan und die Chinesische Weichschildkröte; 1877 starb er in London im Alter von nur 41 Jahren.'
 date: 2026-04-12
 category: 'People'
 tags:
   [
     'Naturkunde',
-    'britischer Konsul',
+    'Britischer Konsul',
     'Naturgeschichte',
     'Vögel',
-    'endemische Arten',
+    'Taiwan-Endemiten',
     'Hafenöffnung und Handel',
     '19. Jahrhundert',
   ]
@@ -22,10 +22,10 @@ image: ''
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/史溫侯.md'
-sourceCommitSha: 'b1a5fea0'
+sourceCommitSha: '3f269cde5e'
 sourceContentHash: 'sha256:50b13c3a31e0a1c0'
 sourceBodyHash: 'sha256:e6b263814c7b1995'
-translatedAt: '2026-09-16T11:57:45+08:00'
+translatedAt: '2026-11-27T00:41:21.144012+00:00'
 ---
 
 # Robert Swinhoe: Wenn ein Diplomat zum Naturforscher wird
