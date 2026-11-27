@@ -1,16 +1,16 @@
 ---
-title: "Princesse Idiote : Du floutage au rôle de productrice, le rire n'est pas sa seule identité"
-description: "Princesse Idiote a commencé par le doublage dans la filière radio-télévision de l'Université des arts de Taïwan, se cachant derrière des pixels avant de transformer le doublage parodique sous copyright en un programme original qu'elle contrôle. Elle a ensuite monté une équipe, produit des émissions, ouvert un café et investi dans le cinéma, cherchant toujours sa place entre le « jeu d'idiot » et la parole sérieuse."
+title: "Princesse Idiote : de la pixelisation à la productrice, le rire n'est pas sa seule facette"
+description: "Créatrice de doublage issue du département de radio-télévision de l'Université nationale des arts de Taïwan, elle a commencé par des exercices de doublage universitaire, des parodies de doublage et de la pixelisation, avant de se tourner vers la création d'émissions originales en raison de contraintes de droits d'auteur, progressant progressivement devant la caméra. Elle a d'abord géré seule la conception, le tournage et le montage, puis a constitué une équipe, produit l'émission éducative « Duoli Dozhi », ouvert un café sur l'île de Shezi et s'est essayée au cinéma, naviguant constamment entre « faire l'idiote » et le professionnalisme pour trouver une place lui permettant de durer."
 date: 2026-08-20
 category: 'People'
 tags:
   [
     'Princesse Idiote',
     'Dai Pingya',
-    'YouTuber',
-    'créateur de contenu en ligne',
-    'créatrice femme',
-    'culture taïwanaise',
+    'YouTubeur',
+    'Créateur de contenu en ligne',
+    'Créatrice',
+    'Culture taïwanaise',
   ]
 subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
@@ -20,33 +20,33 @@ lastHumanReview: false
 readingTime: 15
 curation: 'incubating'
 translatedFrom: 'People/白癡公主.md'
-sourceCommitSha: '4c2e1c233'
-sourceContentHash: 'sha256:57f32564152ce686'
-sourceBodyHash: 'sha256:0482ecaa622a6229'
-translatedAt: '2026-09-11T18:40:21+08:00'
+sourceCommitSha: 'fd2854dbad'
+sourceContentHash: 'sha256:0e7a79763287a5ac'
+sourceBodyHash: 'sha256:d7c9ce93611e7e78'
+translatedAt: '2026-11-27T04:23:27.528697+00:00'
 ---
 
-> **Aperçu en 30 secondes :**
-> Princesse Idiote (Dai Pingya) n'a pas commencé par un « persona d'influenceuse » pour gérer sa chaîne. Elle est partie du travail de doublage de la filière radio-télévision de l'Université des arts de Taïwan, a d'abord caché son visage derrière des pixels, puis a transformé le doublage parodique, initialement soumis aux restrictions de droits d'auteur, en un programme original qu'elle contrôle. [^1][^2]
-> Ce qui la rend le plus reconnaissable, ce n'est pas la rapidité avec laquelle elle produit chaque vidéo, mais le fait qu'elle intègre la planification, le tournage, le montage, la performance et l'autodérision dans une seule méthode créative. Alors qu'elle passe de travailleuse solo à membre d'une équipe et productrice, la vraie question émerge : le public aime-t-il le personnage de « Princesse Idiote » ou les œuvres que Dai Pingya souhaite achever sérieusement ? [^3][^4]
->
-> 📝 Note du curateur : Cet article ne considère pas « Princesse Idiote » comme un simple ensemble de blagues, mais la replace dans l'histoire du travail des créateurs de contenu en ligne à Taïwan. Les pixels, les logiciels de montage, les caméras, l'équipe et la formation des acteurs sont autant de conditions de travail derrière le personnage.
+> **30 secondes — Aperçu :**
+> Princesse Idiote (Dai Ping-ya) n'a pas d'abord construit un « persona d'influenceuse » avant de lancer sa chaîne. Elle est partie de ses travaux de doublage au département de radio-télévision de l'Université nationale des arts de Taïwan, a d'abord caché son visage derrière une mosaïque, puis a transformé ses parodies de doublage originellement limitées par le droit d'auteur en programmes originaux qu'elle pouvait contrôler elle-même.[^1][^2]
+> Ce qui la rend le plus reconnaissable, ce n'est pas la rapidité de production de chaque vidéo, mais le fait d'intégrer conception, tournage, montage, jeu d'acteur et autodérision dans une même méthode de création. Lorsqu'elle est passée de créatrice solo à une équipe et un rôle de productrice, la vraie question a émergé : le public aime-t-il le personnage de « Princesse Idiote », ou les œuvres que Dai Ping-ya souhaite réaliser sérieusement ?[^3][^4]
 
-La chaîne de Princesse Idiote est celle dont on se souvient le plus pour ses points comiques. Elle utilise une voix traînante pour doubler les princesses de Disney avec des dialogues complètement dépourvus de retenue, et une fois son visage révélé, elle se moque de son apparence, de son corps et de son « manque de professionnalisme ». Cependant, si on la réduit à une YouTuber qui ne plaît au public que par des blagues basiques, on passe à côté de la partie la plus intéressante de cette figure. Ce qu'elle a véritablement cultivé sur le long terme, c'est l'idée « je peux transformer l'imperfection en méthode de travail ».
+📝 **Note du commissaire :** Cet article ne traite pas « Princesse Idiote » comme une simple collection de blagues, mais la replace dans l'histoire du travail des créateurs internet taïwanais. La mosaïque, les logiciels de montage, la caméra, l'équipe et la formation des acteurs sont autant de conditions de travail derrière le personnage.
 
-En 2021, lors d'un reportage de Newtalk sur sa collaboration avec la Société médicale de médecine familiale de Taïwan, sa chaîne dépassait déjà les 1,53 million d'abonnés. Ce chiffre peut illustrer l'ampleur de sa portée à l'époque, mais il ne peut pas être directement assimilé à son influence. Ce qui mérite d'être observé, c'est la manière dont elle a fait passer une chaîne née du doublage parodique vers des contextes différents tels que l'éducation sanitaire, les programmes de quiz et le cinéma. [^14]
+La chaîne de Princesse Idiote reste surtout mémorable pour ses gags. Elle prête sa voix nonchalante aux princesses Disney pour leur faire dire des répliques tout sauf distinguées, puis, après avoir montré son visage, tourne en dérision son apparence, sa silhouette et son « manque de professionnalisme ». Pourtant, si on la réduit à une YouTubeuse qui divertit par des blagues faciles, on rate ce qui fait l'intérêt de ce personnage. Ce qu'elle cultive sur le long terme, c'est l'idée que « je peux transformer l'imperfection en méthode de travail ».
 
-## Se cacher derrière les pixels pour avoir la chance d'arriver devant la caméra
+En 2021, Newtalk rapportait sa collaboration avec la Société taïwanaise de médecine familiale ; sa chaîne dépassait alors 1,53 million d'abonnés. Ce chiffre atteste de sa portée à l'époque, mais ne saurait être confondu avec l'influence. Ce qui mérite vraiment l'attention, c'est la manière dont elle a fait évoluer une chaîne née de la parodie de doublage vers des domaines aussi variés que l'éducation sanitaire, les émissions éducatives et le cinéma.[^14]
 
-Les premières créations de Princesse Idiote ont pour point de départ le travail de doublage réalisé pendant ses études universitaires. Avec des compagnons de son école, elle a redoublé les animations Disney, attirant une grande attention sur Internet. Par la suite, elle a continué à produire du contenu pendant les week-ends, faisant passer le simple doublage parodique à des séries sur la cuisine, le quotidien et les collaborations. Elle n'avait pas décidé dès le départ de devenir YouTuber à temps plein ; elle a confirmé progressivement, entre son travail initial et sa création continue, qu'elle voulait faire un travail audiovisuel qu'elle puisse maîtriser. [^1][^5]
+## Se cacher d'abord derrière le floutage pour pouvoir passer devant la caméra
 
-Les pixels ne sont pas seulement un point visuel comique, ils constituent aussi une distance psychologique. Elle a déclaré craindre d'être attaquée une fois devant l'écran, surtout que son apparence physique serait examinée sous toutes les coutures. Entre 2016 et 2017, son parcours, allant de l'absence de visage visible aux pixels, puis à l'apparition officielle devant la caméra, n'a pas été un « déblocage » soudain, mais une série d'exercices consistant à placer ses capacités créatives sur sa propre personne. [^1][^6]
+Les débuts créatifs de Princesse Idiote remontent à un travail de doublage pendant ses années d'université. Avec des camarades de classe, elle a redoublé des dessins animés Disney, et les vidéos ont attiré une grande attention en ligne. Par la suite, elle a continué à produire du contenu le week-end, passant du simple doublage parodique à l'ajout progressif de séries cuisine, quotidien et collaborations. Ce n'est pas dès le départ qu'elle a décidé de devenir YouTuber à temps plein, mais c'est en conciliant son travail initial et sa création continue qu'elle a peu à peu confirmé vouloir faire un travail vidéo dont elle pourrait maîtriser le contenu.[^1][^5]
 
-Ce tournant avait aussi des raisons bien réalistes. Les contenus de doublage précoces étaient limités par les créations dérivées et les droits d'auteur, les sujets ne pouvaient pas s'étendre à l'infini. Dans une interview publiée par le Bureau de l'emploi de la ville de Taipei, elle a été directe quant à son passage à l'original : « Je veux produire mes propres programmes, créer mon propre contenu. » [^2] Révéler son visage n'était pas pour rendre la chaîne plus belle, mais pour lui permettre d'intégrer toutes ses expériences, observations et performances dans ses œuvres.
+Le floutage n'est pas seulement un gag visuel, c'est aussi une distance psychologique. Elle a confié avoir peur de passer devant l'écran et de subir des attaques, notamment que son apparence physique soit examinée à la loupe. Entre 2016 et 2017, elle est passée de l'absence de visage à l'écran au floutage, puis à une apparition officielle à visage découvert ; ce chemin n'a pas été un « déblocage » soudain, mais l'exercice répété de mettre sa capacité créative sur sa propre personne.[^1][^6]
 
-![Une caméra à écran pivotant, symbolisant l'accumulation du travail audiovisuel de Princesse Idiote à partir de l'équipement et du post-production](https://upload.wikimedia.org/wikipedia/commons/4/41/Video_Camera.JPG)
+Ce tournant a aussi une raison très concrète. Les premiers contenus de doublage étaient limités par la création dérivée et les droits d'auteur, les sujets ne pouvant pas s'étendre indéfiniment. Dans une interview publiée par le Bureau de l'emploi de la ville de Taipei, elle a expliqué très directement son virage vers l'original : « Je veux produire mon propre programme, créer mon propre contenu. »[^2] Montrer son visage n'a donc pas servi à rendre la chaîne plus jolie, mais à lui permettre d'y mettre toute son expérience, ses observations et son jeu d'actrice.
 
-_Légende : Image illustrative d'une caméra. Auteur Popperipopp, page originale de l'image sur [Wikimedia Commons — File:Video Camera.JPG](https://commons.wikimedia.org/wiki/File:Video_Camera.JPG), auteur libéré dans le domaine public mondial. Cette image n'est pas une photo de Princesse Idiote ni de son équipement._
+![Une caméra à écran orientable, symbolisant le travail vidéo que Princesse Idiote a accumulé en partant de l'équipement et de la post-production](https://upload.wikimedia.org/wikipedia/commons/4/41/Video_Camera.JPG)
+
+_Description de l'image : Schéma d'une caméra. Auteur Popperipopp, page originale sur [Wikimedia Commons — File:Video Camera.JPG](https://commons.wikimedia.org/wiki/File:Video_Camera.JPG), publiée par l'auteur dans le domaine public mondial. Cette image n'est pas une photo de Princesse Idiote elle-même ni de son matériel._
 
 ## Sous l'apparence « bouddhiste », un travail très lent
 
@@ -72,31 +72,31 @@ Elle a collaboré avec la Madame Science (Li Ke Tai Tai) pour produire l'émissi
 
 Elle a également ouvert un café qu'elle voulait depuis longtemps sur l'île de Shezi, filmant la série de la recherche du local, du choix des produits et de l'ouverture. Le magasin a dû fermer en raison de problèmes de bail, mais elle n'a pas caché cette expérience. L'échec sur sa chaîne peut toujours devenir du matériel, mais il n'est pas simplement consommé puis oublié ; il laisse la trace de « j'ai vraiment fait cela ». [^5][^8]
 
-## La caméra à 70 000 dollars : la création ne commence pas par le trafic
+## Appareil photo à NT$70,000 : la création ne commence pas par le trafic
 
-L'histoire entrepreneuriale de Princesse Idiote ne commence pas par un investissement ou un plan commercial réussi. En regardant en arrière sur sa période universitaire, elle a mentionné avoir mangé des nouilles instantanées à 20 dollars pour les trois repas pendant six mois, survivant grâce à des petits boulots et des contrats. Plus tard, elle et des amis ont participé à un concours de courts métrages touristiques à Miaoli ; l'équipe a remporté un prix de 70 000 dollars, et son amie lui a laissé la majeure partie du prix pour acheter un appareil photo reflex numérique (DSLR). Cet appareil n'était pas un accessoire symbolique, mais l'équipement pratique qui lui a permis de continuer à tourner, monter et accumuler des œuvres. [^12]
+L'histoire entrepreneuriale de Princesse Idiote ne commence pas par un investissement ou un business plan réussi. En repensant à ses années d'université, elle mentionne avoir mangé des nouilles instantanées à NT$20 à chaque repas pendant six mois, survivant grâce à des petits boulots et des missions freelance. Plus tard, elle participe avec des amis à un concours de courts métrages touristiques à Miaoli ; l'équipe remporte NT$70,000 de prime, et ses amis lui laissent la majeure partie pour acheter un appareil photo reflex. Cet appareil n'était pas un accessoire symbolique, mais l'équipement concret qui lui a permis ensuite de filmer, monter et accumuler des œuvres de manière continue. [^12]
 
-Cette expérience mérite d'être comprise avant celle des « millions de revenus ». Les titres des médias ont tendance à relier les 70 000 dollars à un revenu de millions sur une courbe ascendante, mais le contenu du reportage décrit en réalité un départ rempli d'instabilité : pas de salaire fixe, des loyers et des dépenses de vie, et même le besoin d'emprunter 1 000 dollars à un collègue pour passer un mois. Elle a pu rester, non pas parce qu'elle savait dès le début quelle vidéo deviendrait virale, mais parce qu'elle a transformé un prix limité en un outil de production réutilisable. [^12]
+Cette expérience mérite d'être comprise avant les « revenus du million ». Les titres médiatiques ont tendance à relier les NT$70,000 au million de revenus en une courbe ascendante, mais le contenu du reportage raconte en réalité un démarrage plein d'instabilité : pas de salaire fixe, loyer et dépenses de vie, jusqu'à devoir emprunter NT$1,000 à un collègue pour tenir un mois. Elle a pu persévérer non pas parce qu'elle savait d'emblée quelle vidéo deviendrait virale, mais parce qu'elle a converti une prime limitée en outil de production réutilisable. [^12]
 
-📝 Note du curateur : « 70 000 dollars génèrent des millions de revenus » peut facilement être lu comme une formule de motivation, mais ce qui a vraiment de la valeur dans l'article n'est pas le multiple de la récompense, mais la manière dont l'équipement a changé la portée des possibilités d'une personne. La caméra lui a permis de produire continuellement, mais elle ne pouvait pas assumer à sa place les revenus instables, le post-production long et les évaluations du public.
+📝 Note du curateur : « NT$70,000 engendrant un million de revenus » se lit facilement comme une formule inspirante, mais la vraie valeur dans l'article n'est pas le multiple du gain, c'est la façon dont l'équipement change le champ des possibles d'une personne. L'appareil lui a permis de produire en continu, mais ne pouvait pas assumer à sa place l'instabilité des revenus, les longues heures de post-production ni les jugements du public.
 
-Pour les créateurs de contenu en ligne, l'équipement est souvent imaginé comme un bien de consommation. L'histoire de Princesse Idiote rappelle que l'équipement précoce peut aussi être une condition de travail. Le DSLR lui a permis de tourner, mais il n'a pas écrit le script, joué, monté ou assumé les critiques. Ce qui a véritablement formé la caractéristique de la chaîne, c'est qu'elle a connecté le matériel à un flux de travail qu'elle contrôlait.
+Pour les créateurs du net, l'équipement est souvent imaginé comme un bien de consommation. L'histoire de Princesse Idiote rappelle qu'au début, l'équipement peut aussi être une condition de travail. L'appareil reflex lui a permis de tourner, mais n'a pas écrit les scénarios, joué, monté ni encaissé les critiques négatives à sa place. Ce qui a véritablement forgé l'identité de la chaîne, c'est qu'elle a intégré le matériel dans un flux de travail qu'elle maîtrise elle-même.
 
-![Un appareil photo Kodak Nr. 1, symbolisant la transformation des 70 000 dollars de prix en un équipement de travail continu](https://upload.wikimedia.org/wikipedia/commons/5/50/Kodak_nr_1.jpg)
+![Un appareil Kodak Nr. 1, symbolisant les NT$70,000 de prime convertis en équipement de travail durable](https://upload.wikimedia.org/wikipedia/commons/5/50/Kodak_nr_1.jpg)
 
-_Légende : Image illustrative d'un appareil photo. Auteur Bronger, page originale de l'image sur [Wikimedia Commons — File:Kodak nr 1.jpg](https://commons.wikimedia.org/wiki/File:Kodak_nr_1.jpg), sous licence CC0 1.0 Universal. Cette image n'est pas le DSLR acheté par Princesse Idiote à l'époque._
+_Légende : Schéma d'appareil photo. Auteur Bronger, page originale sur [Wikimedia Commons — File:Kodak nr 1.jpg](https://commons.wikimedia.org/wiki/File:Kodak_nr_1.jpg), sous licence CC0 1.0 Universal. Cette image n'est pas l'appareil reflex acheté par Princesse Idiote à l'époque._
 
-## Du montage solitaire au bureau d'équipe
+## Du montage solo au bureau d'équipe
 
-Lorsque la taille de la chaîne a augmenté, la question n'était pas seulement « faut-il embaucher », mais si le créateur pouvait admettre qu'un programme ne doit pas tout porter seul. Vers 2022, Princesse Idiote a collaboré avec l'équipe de Madame Science pour produire le grand programme de quiz _Plus de Raison, Plus de Connaissance_ (Duo Li Duo Zhi). Le reportage de _CTWANT_ a placé cette collaboration dans le contexte de l'expansion et du déménagement vers un nouveau bureau de l'équipe de Madame Science, et l'équipe de Princesse Idiote y a également emménagé. [^13]
+Lorsque la chaîne prend de l'ampleur, la question n'est pas seulement « faut-il embaucher », mais si le créateur peut accepter qu'un programme ne doive pas entièrement reposer sur sa propre personne. Vers 2022, Princesse Idiote collabore avec l'équipe de Madame Science pour produire le grand jeu télévisé 《多理多知》. Un reportage de CTWANT replace cette collaboration dans le contexte de l'expansion et du déménagement de l'équipe de Madame Science dans de nouveaux bureaux, où l'équipe de Princesse Idiote s'installe également.[^13]
 
-Ce changement diffère de son mode solitaire passé. Au début, elle expliquait sa réticence à confier facilement le montage et le rythme par le fait de « ne pas trouver un deuxième moi », mais les grands programmes nécessitent que la présentation, la conception des questions, la caméra, le post-production, la régie et la coordination fonctionnent simultanément. Passer d'une personne qui termine une vidéo seule à la nécessité de faire comprendre à d'autres le programme qu'elle veut réaliser est une compétence de gestion au-delà de la capacité créative.
+Ce changement diffère de son ancien mode de fonctionnement en solo. Au début, elle invoquait l'impossibilité de « trouver un second moi-même » pour expliquer sa réticence à confier le montage et le rythme, mais une grande émission nécessite que l'animation, la conception des épreuves, la prise de vue, la post-production, la régie et la coordination fonctionnent simultanément. Elle est passée de la réalisation seule d'une vidéo à la nécessité de faire comprendre à d'autres le programme qu'elle souhaite réaliser, ce qui relève de la capacité de gestion, au-delà de la capacité créative.
 
-_Plus de Raison, Plus de Connaissance_ n'a pas été décrit comme une ligne de succès inévitable dès l'augmentation de l'échelle. La leçon plus importante est que Princesse Idiote a commencé à penser en tant que productrice : un créateur peut-il transformer le style personnel familier au public en un langage de programme réalisé par plusieurs personnes ? Cela l'a également aidée, lorsqu'elle s'est ensuite tournée vers le cinéma, à ne pas être seulement « l'influenceuse invitée pour jouer », mais à être déjà familière avec la manière dont une œuvre passe de la planification au produit fini.
+《多理多知》 n'a pas été présenté comme une voie où l'agrandissement de l'équipe garantirait automatiquement le succès. Le gain plus important est que Princesse Idiote commence à réfléchir en productrice : un créateur peut-il transformer le style personnel familier du public en un langage d'émission réalisé collectivement. Cela lui a permis, lorsqu'elle s'est ensuite aventurée dans le cinéma, de ne pas être simplement « une influenceuse qu'on engage pour jouer », mais de déjà connaître le chemin qui mène d'un projet à l'œuvre achevée.
 
-![Une caméra portable, symbolisant le passage de la prise de vue solitaire de Princesse Idiote à la production en équipe](https://upload.wikimedia.org/wikipedia/commons/f/ff/Camcorder.jpg)
+![Une caméra portable, symbolisant le passage de Princesse Idiote du tournage en solo à la production en équipe](https://upload.wikimedia.org/wikipedia/commons/f/ff/Camcorder.jpg)
 
-_Légende : Image illustrative d'une caméra. Auteur Baum332, page originale de l'image sur [Wikimedia Commons — File:Camcorder.jpg](https://commons.wikimedia.org/wiki/File:Camcorder.jpg), sous licence CC BY-SA 3.0 Unported. Cette image n'est ni le bureau de l'équipe de Princesse Idiote ni le lieu réel de tournage._
+_Légende : schéma d'une caméra. Auteur Baum332, page originale sur [Wikimedia Commons — File:Camcorder.jpg](https://commons.wikimedia.org/wiki/File:Camcorder.jpg), sous licence CC BY-SA 3.0 Unported. Cette image n'est pas le bureau de l'équipe de Princesse Idiote ni un lieu de tournage réel._
 
 ## Quand la comédie entre dans la communication publique, les points comiques ne appartiennent plus seulement au créateur
 

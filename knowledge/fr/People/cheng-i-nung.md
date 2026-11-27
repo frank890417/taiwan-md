@@ -1,37 +1,38 @@
 ---
-title: 'Enno Cheng : écrire les chansons les plus honnêtes dans la langue la plus étrangère — sept ans entre le coming-out de 2016 et le double prix taïwanais des Golden Melody 2023'
-description: "Née en 1987, Enno Cheng (鄭宜農) est la fille du réalisateur de la Nouvelle Vague taïwanaise Cheng Wen-tang. Actrice révélée en 2007 avec une nomination aux Golden Horse, elle fait son coming-out sur Facebook en janvier 2016 le même mois que son divorce. En 2022 sort son premier album entièrement en taïwanais, *Mercury Retrograde* (水逆). En juillet 2023, aux 34e Golden Melody Awards, elle remporte le double prix de la meilleure chanteuse taïwanaise et du meilleur album taïwanais. Elle déclare : « J'ai décidé d'utiliser une langue que je ne maîtrise pas si bien, pour me mettre moi-même en difficulté. »"
+title: 'Enno Cheng : Écrire les chansons les plus honnêtes dans la langue la plus étrangère — Sept ans, de son coming out en 2016 à son double prix aux Golden Melody Awards en 2023'
+description: "Créatrice pluridisciplinaire née à Yilan en 1987, elle est la fille du réalisateur Cheng Wen-tang et d'une musicienne chevronnée qui a travaillé dans les bars. Elle a fait ses débuts en 2007 comme actrice principale, scénariste et composatrice de la bande originale de « L'arrière-saison de l'été », recevant une nomination au Golden Horse Awards pour le meilleur nouvel acteur ; son premier album, « Neptune », sorti en 2011, était entièrement composé en mandarin ; elle a fait son coming out sur Facebook en 2016, le même mois qu'elle divorçait de Yang Ta-cheng ; en 2022, elle a publié son premier album entièrement en taïwanais, « Mercury Retrograde », et en 2023, elle a remporté deux prix aux Golden Melody Awards : meilleure chanteuse de taïwanais et meilleur album de taïwanais, laissant derrière elle un discours de remerciement mémorable : « Le taïwanais m'a appris l'humilité »."
 date: 2026-04-18
 category: 'People'
 tags:
   [
-    'personnalité',
+    'Personnalité',
     'Enno Cheng',
     'Enno Cheng',
-    'musique taïwanaise',
+    'Musique taïwanaise',
     'Golden Melody Awards',
     'Mercury Retrograde',
     'Mercury Retrograde',
     'Cheng Wen-tang',
-    'Chocolate Tiger',
-    'Dear Uranus',
+    'Tiger Chocolate',
+    'To Uranus',
     'Neptune',
-    'Yang Ta-chien',
+    'Yang Ta-cheng',
     'Fire EX.',
-    'récit identitaire',
-    'musique indépendante',
+    "Narration de l'identité",
+    'Musique indépendante',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-18
 lastHumanReview: true
+researchReport: 'reports/research/2026-04/鄭宜農.md'
 readingTime: 18
-translatedFrom: People/鄭宜農.md
-sourceCommitSha: 'ac1d187a'
+translatedFrom: 'People/鄭宜農.md'
+sourceCommitSha: 'fc0798f30d'
 sourceContentHash: 'sha256:9978590a40b2bfce'
 sourceBodyHash: 'sha256:2eaa36629936ca3c'
-translatedAt: 2026-06-12T00:53:05+08:00
+translatedAt: '2026-11-27T03:28:16.590783+00:00'
 ---
 
 > **En 30 secondes :** Enno Cheng est née le 19 mars 1987 à Yilan. Son père est le réalisateur taïwanais Cheng Wen-tang. En 2007, elle fait ses débuts comme actrice, scénariste et compositrice de la bande originale de _Summer's Tail_ (_Les Contes de l'été_), réalisé par son père, et est nommée au 44e Golden Horse Awards dans la catégorie meilleure nouvelle actrice. En 2011, elle sort son premier album solo _Neptune_ (海王星). Le 3 janvier 2016, elle annonce son homosexualité sur Facebook et divorce le même mois de son ex-mari Yang Ta-chien (chanteur principal du groupe Fire EX.). En 2022, elle publie son premier album entièrement en taïwanais, _Mercury Retrograde_ (水逆). Le 1er juillet 2023, aux 34e Golden Melody Awards, elle remporte le double prix de la meilleure chanteuse taïwanaise et du meilleur album taïwanais. Lors d'une interview sur l'album, elle déclare : « J'ai décidé d'utiliser une langue que je ne maîtrise pas si bien, pour me mettre moi-même en difficulté. » — faire de la difficulté créative un vecteur d'honnêteté.

@@ -1,19 +1,19 @@
 ---
-title: "Hong Ni : De la bibliothèque de Fangyuan aux rues de HahaTai, trois noms au service d'une plume"
-description: 'Hong Jie-ni (洪婕倪), née en 1996 dans le district de Haixian à Changhua et ayant grandi à Fangyuan, utilise le nom "Jeni" pour les enquêtes de rue à HahaTai et "Hong Ni" pour organiser des écrits sur la famille, l''expatriation vers le nord, son apprentissage en boulangerie et son évolution. Entre *Le melon est-il sucré ?* et *La vendeuse de melons*, ces trois noms révèlent comment une créatrice a placé le travail public et les textes intimes sur la même carte de vie.'
+title: 'Hong Ni : de la bibliothèque de Fangyuan aux rues de Haha Taiwan, trois noms partageant une même plume'
+description: "En tant que « Jenny » sur Haha Taiwan, elle planifie des émissions et anime des interviews de rue auprès de passants ; sous le nom de « Hong Ni », elle écrit des essais sur sa mère, ses années de dérive à Pékin et son apprentissage chez un boulanger. Née en 1996 à Fangyuan, Changhua, diplômée du département de radio-télévision de l'Université Shih Hsin, après quelques années de travail à la télévision, elle s'est tournée vers la vidéo en ligne. Avec « La pastèque est-elle douce ? », elle a remporté le prix du petit essai du prix littéraire Lin Rong-san ; avec « L'Homme au pain », mûri pendant sept ans, elle a obtenu une mention honorable au prix de l'essai. Le surnom « Hong Ma Ni », né d'une faute de caractère à l'école primaire, figure également dans son premier recueil d'essais « Le Vendeur de pastèques »."
 date: 2026-08-27
 category: 'People'
 tags:
   [
     'Hong Ni',
-    'Hong Jie-ni',
-    'Jeni',
-    'Hong Ma-ni',
-    'HahaTai',
-    'prose',
-    'Haixian à Changhua',
+    'Hong Jie Ni',
+    'Jenny',
+    'Hong Ma Ni',
+    'Haha Taiwan',
+    'Essai',
+    'Côte de Changhua',
     'Prix littéraire Lin Rong-san',
-    'édition et médias',
+    'Édition et médias',
   ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
@@ -27,10 +27,10 @@ imageCredit: 'Steve Evans / Wikimedia Commons'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Watermelons.jpg'
 translatedFrom: 'People/洪婕倪.md'
-sourceCommitSha: 'e974b4c9e'
+sourceCommitSha: '72ef874049'
 sourceContentHash: 'sha256:8351d05a79dba790'
 sourceBodyHash: 'sha256:f76990887dfd2b78'
-translatedAt: '2026-09-08T00:42:50+08:00'
+translatedAt: '2026-11-27T03:54:36.493459+00:00'
 ---
 
 # Hong Ni : De la bibliothèque de Fangyuan aux rues de HahaTai, trois noms au service d'une plume

@@ -1,17 +1,17 @@
 ---
-title: 'Yen Chang-shou : du garçon de bureau au parrain du tourisme, puis il a tout abandonné'
-description: "Bachelier seulement, à 23 ans il triait le courrier chez American Express. Cinq ans plus tard, il en devenait directeur général. Cinq ans encore, et il présidait l'un des hôtels les plus réputés d'Asie, inventant un système de service capable d'accueillir un client par son nom avant même qu'il ait ouvert sa portière. 600 000 exemplaires vendus. Puis, à 62 ans, il a démissionné pour aller fonder une école dans les régions reculées de Taïwan oriental — et l'année suivante, on lui a retiré un rein. À 78 ans, il a inauguré un parc artistique au bord du Pacifique."
+title: 'Yan Changshou : du garçon de courrier au parrain du tourisme, puis il a tout abandonné'
+description: "Du poste de garçon de courrier chez American Express à la présidence de The Regent Taipei, lui qui n'avait que le diplôme du secondaire a inventé un système de service où « les clients sont appelés par leur nom avant même d'être descendus de voiture », réalisant un taux de retour de 65 %. Il a écrit le best-seller « Le cœur de lion du président » qui s'est vendu à plus de 600 000 exemplaires. À 62 ans, il a démissionné au sommet de l'industrie hôtelière pour partir à Taitung, a fondé la Fondation culturelle de la plateforme de bienfaisance, a repris l'école Junyi pour promouvoir l'éducation dans les zones reculées, a continué à s'investir profondément dans le Hualien-Taitung après l'ablation d'un rein, et à 78 ans a poussé à l'ouverture du parc artistique Jiang Xian'er sur la côte de Jinzun à Taitung."
 date: 2026-04-06
 category: 'People'
 tags:
   [
-    'Yen Chang-shou',
-    'Rebar Hôtel',
+    'Yan Changshou',
+    'The Regent Taipei',
     'tourisme',
-    'éducation rurale',
-    'philanthropie',
-    'Junyi School',
-    'Parc artistique Paul Chiang',
+    'éducation en zones rurales',
+    'plateforme de bienfaisance',
+    'école Junyi',
+    "parc artistique Jiang Xian'er",
   ]
 subcategory: '教育與社會'
 author: 'Taiwan.md Contributors'
@@ -20,15 +20,19 @@ featured: false
 lastVerified: 2026-04-06
 lastHumanReview: true
 sporeLinks:
-  [
-    "{'id': 8, 'platform': 'threads', 'date': '2026-04-06', 'url': 'https://www.threads.com/@taiwandotmd/post/DWyqKShE4a8'}",
-    "{'id': 9, 'platform': 'x', 'date': '2026-04-06', 'url': 'https://x.com/taiwandotmd/status/2041143084583469498'}",
-  ]
+  - id: 8
+    platform: 'threads'
+    date: '2026-04-06'
+    url: 'https://www.threads.com/@taiwandotmd/post/DWyqKShE4a8'
+  - id: 9
+    platform: 'x'
+    date: '2026-04-06'
+    url: 'https://x.com/taiwandotmd/status/2041143084583469498'
 translatedFrom: 'People/嚴長壽.md'
-sourceCommitSha: '9cef725ce'
+sourceCommitSha: '72ef874049'
 sourceContentHash: 'sha256:f03fe4356a8b034b'
 sourceBodyHash: 'sha256:0511dd3ec1c7896e'
-translatedAt: '2026-09-17T21:26:27.532330+00:00'
+translatedAt: '2026-11-27T03:46:29.500165+00:00'
 ---
 
 # Yen Chang-shou : du garçon de bureau au parrain du tourisme, puis il a tout abandonné

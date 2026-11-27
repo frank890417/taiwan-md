@@ -1,34 +1,37 @@
 ---
-title: 'Monaneng : deux formes de cécité, un recueil de poésie'
-description: "Premier poète autochtone à publier un recueil de poésie moderne en chinois, Monaneng ne devint aveugle qu'en 1979 ; en 1989, Morning Star publia Les beaux épis de riz. Dans « Viens, buvons un verre », le vers « le mot d'ordre de l'autodétermination de dix-huit millions de personnes / n'entend pas nos soupirs » inscrit la question de savoir « qui compte comme Taïwanais » dans 30 poèmes ; 37 ans plus tard, cette question n'a toujours pas reçu de réponse."
+title: "Monaneng : deux formes d'aveuglement, un recueil de poèmes"
+description: "Poète paiwan, né en 1956 dans le village d'Aluwei, township de Daren, Taitung. Il est le premier poète autochtone à publier un recueil de poésie moderne en chinois à Taïwan. En 1979, après une commotion cérébrale suite à un accident de camion de marchandises, il devient totalement aveugle. Ses poèmes ont d'abord été transmis oralement lors de séances de chants et de beuveries en 1984, puis retranscrits et publiés par Li Ji. En 1989, Morning Star publie « Belles épis de riz », avec une préface de Chen Yingzhen qui le qualifie de « poète de la colonie intérieure de Taïwan ». Il a arpenté les rues, une canne à la main, pour secourir les jeunes prostituées et réclamer le retour des terres. Lire sa poésie présente deux difficultés : physiquement, il ne voit pas ; politiquement, de nombreux lecteurs refusent de voir."
 date: 2026-06-03
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '原住民文化人 / 文學與詩人'
 tags:
   [
     'Autochtones',
-    'poésie',
-    'littérature',
+    'Poésie',
+    'Littérature',
     'Paiwan',
-    'mouvement autochtone',
+    'Mouvement autochtone',
     'Taitung',
-    'années 1980',
+    '1980s',
   ]
+subcategory: '原住民文化人 / 文學與詩人'
+author: 'Taiwan.md'
+featured: false
+canonical-order: 110
 lastVerified: 2026-06-03
 lastHumanReview: false
-featured: false
-curation: 'incubating'
-curationReason: 'unverified'
-translatedFrom: 'People/莫那能.md'
-sourceCommitSha: 'be13f045'
-sourceContentHash: 'sha256:f5aebb543340d143'
-sourceBodyHash: 'sha256:2f3617098391a7c1'
-translatedAt: '2026-06-16T16:40:09Z'
+researchReport: 'reports/research/2026-06/莫那能.md'
+viewpoint_formed: true
 image: '/article-images/people/monaneng-daren-township-2011.webp'
 imageCredit: 'Bernard Gagnon / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Daren_Township,_Taiwan.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'People/莫那能.md'
+sourceCommitSha: 'e7e1bb5735'
+sourceContentHash: 'sha256:a095996d9797f69b'
+sourceBodyHash: 'sha256:e51dd9f7a0df41eb'
+translatedAt: '2026-11-27T03:19:04.904355+00:00'
 ---
 
 # Monaneng : deux formes de cécité, un recueil de poésie
@@ -48,20 +51,20 @@ Ces détails importent parce que de nombreuses archives littéraires publiques l
 
 > 📝 **Note curatoriale** : Monaneng n’est pas quelqu’un qui aurait découvert les questions sociales après avoir commencé à écrire de la poésie. Il fut d’abord le sujet de cette trajectoire, puis, l’année de ses trente ans, il l’écrivit tout entière en vers. Comprendre cet ordre — l’expérience d’abord, le poème ensuite — est essentiel pour le lire.
 
-## Un accident lui vole la lumière
+## Un accident de voiture lui a volé la lumière
 
-Lors d’un examen de santé au collège, on lui annonce ceci : ses yeux sont atteints d’une **rétinite pigmentaire**, une maladie héréditaire de dégénérescence progressive de la rétine. Il finira par perdre la vue ; ce n’est qu’une question de temps[^6].
+Lors de l'examen de santé du collège, on lui a annoncé une nouvelle : il souffrait de **rétinite pigmentaire**, une maladie héréditaire de dégénérescence rétinienne progressive. La cécité était inévitable, seulement une question de temps[^6].
 
-Après le collège, il est admis à l’**école de mécanique de l’armée de l’air**. Lors de l’incorporation, il échoue à la visite médicale à cause de la rétinite pigmentaire. Son rêve d’armée de l’air s’arrête là. Plus tard, il envisage aussi l’école normale de Taitung et l’école de police — deux voies également fermées par ses problèmes de vue. Pour un adolescent autochtone des montagnes dans les années 1970, les rares voies d’ascension sociale se referment l’une après l’autre[^6].
+Après le collège, il a été admis à l'**École mécanique de l'armée de l'air**. Mais il a échoué à l'examen médical de rentrée à cause de la rétinite pigmentaire. Son rêve de l'armée de l'air s'est brisé. Il a ensuite envisagé l'École normale de Taitung, l'École de police — toutes deux impossibles à cause de sa vue. Les rares voies de mobilité ascendante dont disposait un jeune des montagnes dans les années 1970 se sont bouchées les unes après les autres[^6].
 
-Vient ensuite l’enlèvement par des trafiquants en 1972. En 1977, sa sœur est vendue par le mari d’une cousine à une maison close comme jeune prostituée ; Monaneng emprunte de l’argent partout, guette à la porte du bordel en pleine nuit et parvient à la sauver. Pendant cette opération, il est battu, ce qui aggrave encore sa vue[^7].
+Puis, en 1972, il a été enlevé par des trafiquants d'êtres humains. En 1977, sa jeune sœur a été vendue par son cousin par alliance dans une maison close comme prostituée mineure ; il a emprunté de l'argent de tous côtés, a attendu toute la nuit devant la porte du lupanar et a réussi à la libérer ; dans la bagarre, il a été battu et sa vue s'est encore détériorée[^7].
 
-L’accident décisif survient en **1979**. Alors qu’il travaille dans une entreprise de transport, il a un accident de la route, subit une commotion cérébrale et reste près de deux mois dans le coma à l’hôpital. À son réveil, son œil droit est entièrement aveugle et son œil gauche ne voit plus qu’à 0,2[^8]. Wikipédia indique qu’il avait alors 23 ans ; le dictionnaire du Musée national de la littérature taïwanaise écrit 24 ans ; les entretiens publiés par Insight et par le magazine Observer parlent de 26 ou 27 ans[^9]. Plusieurs versions circulent, mais le témoignage oral de Monaneng en 2022 indique explicitement « en 1979, alors que je travaillais dans une entreprise de transport »[^10].
+L'accident décisif survient en **1979**. Il travaillait comme livreur, a eu un accident de voiture, a fait une commotion cérébrale et est resté dans le coma près de deux mois à l'hôpital. À son réveil, l'œil droit était totalement aveugle, l'œil gauche avait une acuité visuelle de 0,2[^8]. Wikipédia indique qu'il avait 23 ans à l'époque ; le dictionnaire du Musée national de la littérature de Taïwan écrit 24 ans ; les interviews de _Yuan Shijie_ et du magazine _Guancha_ mentionnent 26 ou 27 ans[^9]. Toutes ces versions circulent, mais le témoignage oral de Monaneng lui-même en 2022 est clair : « 1979, pendant mon travail de livreur »[^10].
 
-Par la suite, il entre à l’**Institut taïwanais de réadaptation des aveugles**, où il apprend le massage et le braille. Il tient ensuite à Taipei un petit salon de massage, appelé tout simplement « Salon de massage A-Neng »[^11]. Il n’était pas un « masseur de rue » — formule fréquente en ligne, mais inexacte. Il avait un lieu physique, et c’est dans ce salon qu’il écrivait de la poésie en braille — **mais la poésie ne commence pas avec le braille**.
+Par la suite, il est allé à l'**Institut de réadaptation pour aveugles de Taïwan** pour apprendre le massage et le braille. Plus tard, il a ouvert un petit cabinet de massage à Taipei, nommé simplement « Cabinet de massage A-neng »[^11]. Il n'était pas un « masseur de rue » (comme on l'écrit souvent en ligne, ce qui est inexact), il avait un local physique, et c'est là qu'il écrivait ses poèmes en braille — **mais la poésie n'a pas commencé par le braille**.
 
-![Spectacle traditionnel de chant et de danse paiwan : trois personnes en costume traditionnel se produisent côte à côte. Les poèmes de Monaneng sont d’abord nés ainsi en 1984 : dans l’alcool, l’oralité et le chant, sortant de sa bouche avant d’être transcrits par d’autres.](/article-images/people/monaneng-paiwan-song-dance-2018.webp)
-_Chant et danse paiwan au festival autochtone Riddu Riđđu, en Europe du Nord, 2018 — image faisant écho à la scène d’origine des poèmes de Monaneng en 1984, lorsqu’il buvait chez Yang Tu et improvisait oralement ses vers. Photo : Riddu Riđđu Festival via Flickr. [Licence via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Familieforestilling_-_Paiwan_sang_og_dans_(41534824410).jpg) CC BY-SA 2.0.\_
+![Spectacle de chant et danse traditionnels paiwan, trois membres de l'ethnie en tenue traditionnelle se produisant côte à côte. Les poèmes de Monaneng sont nés en 1984 de la même manière : par la boisson, la transmission orale et le chant, sortant de sa bouche avant d'être mis par écrit par d'autres.](/article-images/people/monaneng-paiwan-song-dance-2018.webp)
+_Spectacle de chant et danse paiwan (Festival culturel autochtone Riddu Riđđu en Europe du Nord, 2018) — correspondant à la situation originelle de 1984 où Monaneng récitait ses poèmes oralement en buvant chez Yang Tu. Photo : Riddu Riđđu Festival via Flickr. [Licence via Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Familieforestilling_-_Paiwan_sang_og_dans_(41534824410).jpg>) CC BY-SA 2.0.\_
 
 ## Chez Yang Tu, boire et chanter les poèmes
 
@@ -233,7 +236,7 @@ Cet article utilise 3 images sous licence Wikimedia Commons, toutes mises en cac
 
 [^13]: Sur son aide, à la fin de 1978, aux campagnes de Chen Ku-ying et Chen Wan-chen aux élections de député législatif et de représentant à l’Assemblée nationale, voir l’article Wikipédia sur Monaneng, même source que la note 1, et l’entretien d’Insight, même source que la note 4.
 
-[^14]: Sur la scène de mars 1984 chez Yang Tu, où Monaneng boit et improvise oralement, la transcription en poèmes par Li Chi, la publication dans le premier numéro de Spring Breeze Poetry Quarterly sous le titre « Poèmes de montagnards » et dans le deuxième numéro de « Viens, buvons un verre », voir le long article de Chai Wan Ben Post, même source que la note 5, et l’article académique de l’Alliance du front littéraire taïwanais [twnelclub.ning.com/profiles/blogs/3917868:BlogPost:30754](http://twnelclub.ning.com/profiles/blogs/3917868:BlogPost:30754).
+[^14]: [twnelclub.ning.com/profiles/blogs/3917868:BlogPost:30754](http://twnelclub.ning.com/profiles/blogs/3917868:BlogPost:30754) — Sur la scène de mars 1984 chez Yang Tu, où Monaneng boit et improvise oralement, la transcription en poèmes par Li Chi, la publication dans le premier numéro de Spring Breeze Poetry Quarterly sous le titre « Poèmes de montagnards » et dans le deuxième numéro de « Viens, buvons un verre », voir le long article de Chai Wan Ben Post, même source que la note 5, et l’article académique de l’Alliance du front littéraire taïwanais.
 
 [^15]: Le titre de la préface de Chen Ying-chen au recueil Les beaux épis de riz, « Monaneng — un poète colonial à l’intérieur de Taïwan », est mentionné dans l’article Wikipédia, même source que la note 1, et cité dans plusieurs commentaires académiques.
 
@@ -245,7 +248,7 @@ Cet article utilise 3 images sous licence Wikimedia Commons, toutes mises en cac
 
 [^19]: Sur la participation de Monaneng à quatre mobilisations — protestation de 1985 contre le temple de Wu Feng à Chiayi, manifestation de 1988 pour le sauvetage des jeunes prostituées, mouvement Rendez-nous nos terres de 1988, renversement de la statue de Wu Feng le 31 décembre 1988 — voir l’entretien d’Insight, verbatim : « lors du renversement de la statue de Wu Feng, du mouvement Rendez-nous nos terres, du sauvetage des jeunes prostituées et d’autres mobilisations, on pouvait voir Monaneng portant des lunettes noires et s’appuyant sur une canne » ; même source que la note 4.
 
-[^20]: Les sources concordent pour indiquer que Les beaux épis de riz fut publié en 1989 par Morning Star Publishing à Taichung. Deux sources divergent sur le mois exact : Wikipédia indique août 1989, tandis que la [notice ikm du Musée national de la littérature taïwanaise](https://db.nmtl.gov.tw/site2/ikm?id=527) indique « en novembre, Monaneng publie le premier recueil autochtone de poésie en chinois, Les beaux épis de riz ». Le présent article retient la formulation régressive « automne 1989 ».
+[^20]: [notice ikm du Musée national de la littérature taïwanaise](https://db.nmtl.gov.tw/site2/ikm?id=527) — Les sources concordent pour indiquer que Les beaux épis de riz fut publié en 1989 par Morning Star Publishing à Taichung. Deux sources divergent sur le mois exact : Wikipédia indique août 1989, tandis que laindique « en novembre, Monaneng publie le premier recueil autochtone de poésie en chinois, Les beaux épis de riz ». Le présent article retient la formulation régressive « automne 1989 ».
 
 [^21]: La chanson « Les beaux épis de riz » est à l’origine « Année d’abondance », composée en 1958 par le compositeur puyuma Lu Sen-pao (1910-1988) pour réconforter les membres de son peuple stationnés sur le front de Kinmen pendant la crise du détroit de 1958 ; elle fut ensuite largement chantée par Kimbo Hu dans le mouvement folk des années 1970. Monaneng l’a reprise comme titre de son recueil paiwan.
 
@@ -259,8 +262,8 @@ Cet article utilise 3 images sous licence Wikimedia Commons, toutes mises en cac
 
 [^26]: Sur l’admission, le 16 juin 2010, de Monaneng, Chu Hsiu-chuan et Chen Ying-chen comme trois premiers membres taïwanais de l’Association des écrivains de Chine, voir l’article Wikipédia sur Monaneng, même source que la note 1.
 
-[^27]: L’expérience d’un Autochtone taïwanais est publié en mai 2010 par Human Publishing ; récit oral de Monaneng, enregistrement et mise en forme par Liu Meng-yi, édition et révision par Lu Cheng-hui, ISBN 978-986-6777-19-6. Image de la page de copyright disponible sur [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Copyright_page_of_A_Taiwanese_Aborigine%27s_Experience_by_Monaneng_20160525.jpg).
+[^27]: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Copyright_page_of_A_Taiwanese_Aborigine%27s_Experience_by_Monaneng_20160525.jpg) — L’expérience d’un Autochtone taïwanais est publié en mai 2010 par Human Publishing ; récit oral de Monaneng, enregistrement et mise en forme par Liu Meng-yi, édition et révision par Lu Cheng-hui, ISBN 978-986-6777-19-6. Image de la page de copyright disponible sur.
 
 [^28]: Entretien oral de Monaneng en 2022 dans Observer Magazine, publication pro-unification ; les lecteurs doivent tenir compte de la position de la source. Verbatim : « Le Parti démocrate progressiste ne se soucie pas des droits et intérêts des classes populaires et des minorités ethniques, et il est pris en otage par “l’indépendance de Taïwan” sur la voie sans issue de la division du pays » et « plus les deux rives sont en paix, plus c’est favorable aux Autochtones » ; même source que la note 2.
 
-[^29]: Sur la controverse de 2019 concernant l’inclusion de « Quand sonnent les cloches — aux sœurs montagnardes victimes » dans le programme du collège, voir le reportage de la chaîne autochtone [IPCF-TITV, 2019-10-08](https://www.youtube.com/watch?v=0A9SOoYRQVw).
+[^29]: [IPCF-TITV, 2019-10-08](https://www.youtube.com/watch?v=0A9SOoYRQVw) — Sur la controverse de 2019 concernant l’inclusion de « Quand sonnent les cloches — aux sœurs montagnardes victimes » dans le programme du collège, voir le reportage de la chaîne autochtone.

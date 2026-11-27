@@ -1,15 +1,15 @@
 ---
-title: 'Zhong Zhaozheng : un homme sans diplôme universitaire qui a écrit le fleuve des Taïwanais'
-description: "Né en 1925 à Longtan (Taoyuan), Zhong Zhaozheng a interrompu ses études de chinois à l'Université nationale de Taïwan en raison de l'éducation en japonais et de la maladie, mais est devenu romancier, éditeur et militant hakka à partir de son métier d'instituteur. Avec *La Fleur de lupin*, il dépeint les zones rurales reculées, et avec deux trilogies, il préserve la mémoire historique des Taïwanais ; sa littérature ne réside pas seulement sur les étagères, mais aussi dans le parc de vie de Longtan."
+title: "Chung Chao-cheng : un homme qui n'a pas achevé son diplôme universitaire, a écrit le long fleuve du peuple taïwanais"
+description: 'Écrivain né à Jiouzuoliao, Longtan, Taoyuan, il a reçu une éducation en japonais pendant la période coloniale japonaise. En 1948, il entre au département de chinois de l''Université nationale de Taïwan, mais quitte l''école en cours de route en raison de barrières linguistiques et de problèmes de santé. Passé d''enseignant d''école primaire à romancier, éditeur et militant hakka, il a écrit "Luo Binghua", "La Trilogie des eaux troubles" et "La Trilogie du peuple taïwanais", intégrant les villages hakka, les groupes autochtones et le 228 dans le roman-fleuve. Il a également préservé les œuvres d''écrivains comme Chung Li-ho et relié les écrivains exclus de l''édition mainstream grâce à "Wenyou Tongxun". Sa littérature ne se trouve pas seulement sur les étagères, elle vit aussi dans le parc de vie de Longtan.'
 date: 2026-08-18
 category: 'People'
 tags:
   [
-    'Zhong Zhaozheng',
-    'Littérature taïwanaise',
-    'Littérature hakka',
+    'Chung Chao-cheng',
+    'littérature taïwanaise',
+    'littérature hakka',
     'Longtan',
-    'Roman-fleuve',
+    'roman-fleuve',
   ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
@@ -19,13 +19,13 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/鍾肇政.md'
-sourceCommitSha: '82038b29f'
-sourceContentHash: 'sha256:e30095af8a74328f'
+sourceCommitSha: 'e7e1bb5735'
+sourceContentHash: 'sha256:aa3ae97d0723ffdb'
 sourceBodyHash: 'sha256:9240eda59faf09e3'
-translatedAt: '2026-09-11T09:58:42+08:00'
+translatedAt: '2026-11-27T03:37:42.731305+00:00'
 ---
 
-> **En 30 secondes :** Zhong Zhaozheng n'est pas entré dans le monde littéraire par une voie académique fluide. Il a reçu une éducation en japonais à l'époque coloniale et n'a appris le chinois qu'après la guerre ; entré au département de chinois de l'Université nationale de Taïwan en 1948, il a dû quitter l'école en cours de route en raison des barrières linguistiques et de problèmes de santé, mais a néanmoins écrit _La Fleur de lupin_, la _Trilogie du courant trouble_ et la _Trilogie des Taïwanais_, intégrant les villages hakka, les groupes autochtones et l'histoire moderne de Taïwan dans des romans en série. [^1] [^2] [^3]
+> **Aperçu en 30 secondes :** Zhong Zhaozheng n'est pas entré dans le monde littéraire par une voie académique sans heurts. Il a reçu une éducation en japonais pendant la période de la colonisation japonaise, et n'a réappris le chinois qu'après la guerre ; en 1948, il entre au département de chinois de l'Université nationale de Taïwan, mais abandonne ses études en raison de barrières linguistiques et de problèmes de santé. Il écrit néanmoins _La Fleur de lupin_, la _Trilogie du fleuve trouble_ et la _Trilogie des Taiwanais_, intégrant les villages hakka, les peuples autochtones et l'histoire moderne de Taïwan dans ses romans-fleuves.[^1] [^2] [^3]
 
 ## Préambule : d'abord, demander qui peut laisser une mémoire pour Taïwan
 

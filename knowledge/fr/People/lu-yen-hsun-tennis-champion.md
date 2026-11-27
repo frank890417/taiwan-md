@@ -1,22 +1,23 @@
 ---
-title: 'Lu Yen-hsun : des quarts de finale de Wimbledon à cinq éditions olympiques, le joueur de tennis taïwanais allé le plus loin'
-description: "En 2010 à Wimbledon, Lu Yen-hsun bat la tête de série n°7 Andy Roddick, devenant le premier joueur masculin de Taïwan à atteindre les quarts de finale d'un tournoi du Grand Chelem. D'Athènes 2004 à Tokyo 2021, il a participé à cinq éditions consécutives des Jeux olympiques, un record dans l'histoire du tennis taïwanais contemporain. Après sa retraite, il a fondé une académie de tennis, attendant qu'un jeune Taïwanais vienne un jour surpasser son exploit de Wimbledon."
+title: "Lu Yen-hsun : des quarts de finale de Wimbledon à cinq Jeux Olympiques, l'homme qui a porté le tennis taïwanais le plus loin"
+description: "Le joueur de tennis masculin le plus exceptionnel de l'histoire de Taïwan. Né en 1983, il commence à jouer à l'âge de 6 ans et décide de devenir professionnel à 17 ans. En 2010, après être passé par les qualifications de Wimbledon, il accède au tableau principal et bat la 7e tête de série Roddick 3 sets à 2 au quatrième tour, devenant ainsi le premier Taïwanais à atteindre les quarts de finale en simple messieurs dans un Grand Chelem. Il raconte que lorsqu'il a foulé cette pelouse pour la première fois, il le faisait pour son père. Après avoir participé à cinq éditions consécutives des Jeux Olympiques, d'Athènes 2004 à Tokyo 2021, il a fondé l'Académie internationale de tennis à l'Université Chang Jung après sa retraite, afin que le prochain Taïwanais qui suivra ses traces dispose déjà d'une carte."
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
+tags:
+  ['sport', 'tennis', 'Jeux Olympiques', 'Wimbledon', 'tennis professionnel']
 subcategory: '體育'
-tags: ['體育', '網球', '奧運', '溫布頓', '職業網球']
-readingTime: 7
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: false
-featured: false
+readingTime: 7
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/盧彥勳.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'e7e1bb5735'
 sourceContentHash: 'sha256:b7bcedce34261377'
 sourceBodyHash: 'sha256:a95f42aeb707e55c'
-translatedAt: '2026-05-09T14:29:10+08:00'
+translatedAt: '2026-11-27T04:07:14.364753+00:00'
 ---
 
 # Lu Yen-hsun : des quarts de finale de Wimbledon à cinq éditions olympiques, le joueur de tennis taïwanais allé le plus loin

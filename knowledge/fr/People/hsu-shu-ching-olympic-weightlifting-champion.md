@@ -1,15 +1,15 @@
 ---
-title: 'Hsu Shu-ching : Lunbei 1991, première double championne olympique de Taïwan en haltérophilie des 53 kg'
-description: "Née le 9 mai 1991 à Lunbei (comté de Yunlin) dans une famille hakka, 1,59 m. Jeux olympiques de Londres 2012, femmes 53 kg : 219 kg (96+123) médaille d'argent, puis reclassée or en décembre 2020 après disqualification de la tenante du titre Zhao Changling (Kazakhstan) pour dopage. Jeux olympiques de Rio 2016 : 212 kg (100+112) médaille d'or directe. Première double championne olympique de Taïwan. Retraite annoncée le 3 juin 2018. Suspendue trois ans en 2019 pour un contrôle positif de 2017 (n'affecte pas les médailles olympiques)."
+title: "Hsu Shu-ching : née en 1991 à Lunbei, la première athlète taïwanaise double médaillée d'or olympique en haltérophilie (catégorie 53 kg)"
+description: "Issue d'une famille hakka de Lunbei, dans le comté de Yunlin, cette haltérophile a gravi les échelons du système sportif taïwanais grâce à ses performances. Aux Jeux olympiques de Londres en 2012, elle a remporté l'argent dans la catégorie des 53 kg avec un total de 219 kg, avant d'être officiellement récompensée par l'or en décembre 2020 suite au contrôle antidopage positif de la médaillée d'or initiale. Lors des Jeux olympiques de Rio en 2016, elle a remporté l'or en réussissant ses trois tentatives à l'arraché pour un total de 212 kg, devenant ainsi la première Taïwanaise à remporter deux médailles d'or olympiques. Après sa retraite en 2018 due à une blessure au genou, elle est devenue entraîneuse. Sa première médaille d'or lui a fallu huit ans pour arriver, une situation particulière liée aux problèmes de dopage dans le sport international."
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Sport',
-    'Haltérophilie',
+    'sport',
+    'haltérophilie',
     'Jeux olympiques',
-    "Médaille d'or",
-    '53 kg',
+    "médaille d'or",
+    'catégorie 53 kg',
     'Yunlin',
   ]
 subcategory: '體育'
@@ -21,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/許淑淨.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'e7e1bb5735'
 sourceContentHash: 'sha256:81d60bf0143f4da3'
 sourceBodyHash: 'sha256:a8a07476ede69bdb'
-translatedAt: '2026-11-05T04:19:34+08:00'
+translatedAt: '2026-11-27T04:12:43.141324+00:00'
 ---
 
 # Hsu Shu-ching : Lunbei 1991, première double championne olympique de Taïwan en haltérophilie des 53 kg
