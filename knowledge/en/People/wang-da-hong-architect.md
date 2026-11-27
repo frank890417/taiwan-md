@@ -1,12 +1,12 @@
 ---
-title: 'Wang Da-hong: The Architectural Poet Who Brought Bauhaus Spirit to Taiwan and Gaze Upon the Eastern Soul with Modernity'
-description: 'Emerging victorious from the 1965 Sun Yat-sen Memorial Hall competition, Wang Da-hong studied under Bauhaus master Walter Gropius and spent his life reconciling tradition with modernity through minimalist, disciplined architecture.'
+title: 'Wang Da-hong: The Architectural Poet Who Brought Bauhaus Spirit to Taiwan, Using Modern Architecture to Gaze Upon the Oriental Soul'
+description: 'An architectural poet who studied under Bauhaus founder Walter Gropius and graduated from Cambridge and Harvard, he returned to Taiwan to spend his life navigating the tension between tradition and modernity. He emerged victorious in the 1965 design competition for the Sun Yat-sen Memorial Hall, incorporating eaves with precise geometric curvature into modern structures. His self-designed residence on Jianguo South Road (1953) was later rebuilt near the Taipei Fine Arts Museum. His works span from the Ministry of Foreign Affairs building to the Hong Lu residence. In his later years, he authored the English science fiction novel "The Illusionary City," passing away at the age of 101.'
 date: 2026-08-18
 category: 'People'
 tags:
   [
     'Wang Da-hong',
-    'Taiwan Architecture',
+    'Taiwanese Architecture',
     'Modernism',
     'Sun Yat-sen Memorial Hall',
     'Architectural Poet',
@@ -21,10 +21,10 @@ lastHumanReview: false
 revision: 2
 curation: 'incubating'
 translatedFrom: 'People/王大閎.md'
-sourceCommitSha: 'ad1003d60'
+sourceCommitSha: '2556505034'
 sourceContentHash: 'sha256:efe79d1571f630fc'
 sourceBodyHash: 'sha256:c9962896cf42e163'
-translatedAt: '2026-10-15T01:07:02+08:00'
+translatedAt: '2026-11-27T01:57:17.464884+00:00'
 ---
 
 > **30-Second Overview:**

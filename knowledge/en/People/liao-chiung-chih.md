@@ -1,16 +1,10 @@
 ---
-title: 'Liao Chiung-chih: From a "Bound Opera Child" to Preserving the Method of Memory for Gezaixi'
-description: 'Born in Keelung in 1935, Liao Chiung-chih entered the Jinshan Music Society at age 15 as a pawned apprentice. She navigated the eras of indoor theater, outdoor stages, radio, and television opera; in her later life, she transformed a genre remembered through the body into an art form that students can learn, scripts can be read, and memory can be preserved through video.'
+title: 'Chiaochih Liao: From a Child Performer to Preserving the Memory of Gezi Opera'
+description: "A Gezi opera artist born in Keelung, she was sent to the Jinshan Music Society at age fifteen to learn the craft. Starting as a child performer, she performed across indoor and outdoor stages, radio, and television, earning the title of Taiwan's foremost 'Ku Dan' (tragic female role). In the latter half of her life, she deconstructed the opera genres she had memorized through physical practice into melodies, movements, scripts, and teaching materials. By establishing the Xinchuan Gezi Opera Troupe and a cultural and educational foundation, she has recorded approximately two hundred important tunes, ensuring that students can learn, scripts can be read, and audiovisual records are preserved—creating a method to safeguard the memory of Gezi opera so it no longer relies solely on the elderly."
 date: 2026-08-17
-subcategory: '音樂與表演'
 category: 'People'
-tags:
-  [
-    'Liao Chiung-chih',
-    'Gezaixi (Minnan Opera)',
-    'Traditional Arts',
-    'Cultural Heritage',
-  ]
+tags: ['Chiaochih Liao', 'Gezi Opera', 'Traditional Arts', 'Cultural Heritage']
+subcategory: '音樂與表演'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-17
@@ -18,10 +12,10 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/廖瓊枝.md'
-sourceCommitSha: 'a15e6712c'
-sourceContentHash: 'sha256:bf5e1c54c68b6eaa'
+sourceCommitSha: '630afb2b66'
+sourceContentHash: 'sha256:f186f3081f703176'
 sourceBodyHash: 'sha256:169c56cb9e4f77d3'
-translatedAt: '2026-09-11T07:47:33+08:00'
+translatedAt: '2026-11-27T01:23:28.990111+00:00'
 ---
 
 > **30-Second Overview:** Born in Keelung in 1935, Liao Chiung-chih entered the Jinshan Music Society at age 15 as a "bound opera child" (a pawned apprentice), singing her way through indoor theater, outdoor stages, radio, and television. Her most important work may not be a specific play, but rather the deconstruction of Gezaixi—once lost from the stage—into vocal styles, physical movements, scripts, and teaching methods, handing them to the next generation for reuse. What she left behind is not just the legend of a tragic heroine, but a method ensuring that memory does not rest solely on the shoulders of the elderly.
@@ -106,34 +100,34 @@ This is the distance between her and the idea that "traditional arts rely only o
 
 These entries also changed the class imagination of art. Plays originally performed in grasslands and temple courtyards could enter schools, national theaters, and overseas demonstration venues. It still retained Taiwanese language singing/recitation and folk emotions, but no longer had to accept the verdict of "only vulgar." [^5][^8]
 
-## After Boxing the Boxes, the Opera Still Walks
+## Even After the Box is Sealed, the Play Goes On
 
-The most memorable objects of Liao Chiung-chih’s later life are less like trophies and more like a stack of scripts students will open, a vocal segment that can be heard repeatedly, and a teaching guide pointing to gestures and steps. She turned what once flowed only in theater tents into material that can be preserved, criticized, and restaged. [^2][^4]
+The most worthwhile legacy of Liao Chiung-chih's later life is perhaps not a trophy, but rather a stack of scripts to be opened by students, a melodic phrasing that can be heard repeatedly, and a curriculum pointing toward specific gestures and footsteps. She transformed what once flowed only within the confines of opera troupes into materials that can be preserved, critiqued, and rearranged. [^2][^4]
 
-_Classic Gezaixi Repertoire II: Liao Chiung-chih_, completed in 2024, includes seven adapted or newly composed works. The production process involved two years of manuscript organization, oral history interviews, and Taiwanese language proofreading. This work did not end Liao Chiung-chih’s creation. Instead, it handed scripts to the next batch of actors, allowing the 2025 Xinchuan Troupe to continue launching new plays. [^7]
+Completed in 2024, _Liao Chiung-chih's Gezaixi Classic Repertoire II_ includes seven adapted or newly composed works. The production process involved two years of manuscript organization, oral interviews, and Taiwanese language proofreading. This work did not turn Liao Chiung-chih's creativity into a conclusion; instead, it handed the scripts to the next generation of actors, allowing the 2025 Xinchuan Opera Troupe to continue producing new plays. [^7]
 
-Thus, Liao Chiung-chih’s importance lies not only in how many audiences she made cry, nor in how many cultural heritage titles she received. She shows us that for an art to survive, it relies on preserving three things simultaneously, rather than claiming it is forever unchanged: bodily details, textual traces, and space for students to continue rewriting.
+Therefore, Liao Chiung-chih's importance lies not only in how many audience members she moved to tears, nor solely in the cultural heritage titles she has received. She shows us that for an art form to survive, it must simultaneously preserve three things—rather than claiming they are immutable: the details of the body, the traces of the text, and the space for students to continue rewriting.
 
-She walked from a "bound opera child" to a preserver, still carrying memories of that harsh troupe world. She moved things once understood only between master and apprentice, one by one, to places accessible to all. Gezaixi therefore does not have to stop in Liao Chiung-chih’s voice, yet we can still hear how she taught people to open their mouths.
+Moving from a "child bound to the opera" to a preserver, she still carries the memories of that arduous world of traveling troupes. She has taken what was once understood only between master and apprentice and moved it piece by piece to a place where everyone can access it. Consequently, Gezaixi does not have to remain trapped solely within Liao Chiung-chih's voice, yet one can still hear her teaching others how to find their voice.
 
-This ending leaves a question: Does preserving musical notation, scripts, and video equal preserving Gezaixi? Not necessarily. Data allows later generations to rediscover melodies, but cannot replace the breath during rehearsal, the默契 (tacit understanding) between actors and musicians, nor guarantee that someone will buy a ticket and sit down to finish a play. The Ministry of Culture’s introduction therefore discusses both the value of traditional repertoires and the development of new plays. The endpoint of preservation is still the audience. [^3][^6]
+This conclusion also leaves a question: Does preserving musical scores, scripts, and footage equate to preserving Gezaixi? Not necessarily. Data can allow future generations to rediscover melodies, but it cannot replace the breathing during rehearsal, the unspoken chemistry between actors and musicians, nor can it guarantee that someone will be willing to buy a ticket and sit through a full performance. This is why the Ministry of Culture's introductions discuss both the value of traditional repertoires and the development of new plays. The endpoint of preservation remains the audience. [^3][^6]
 
-Liao Chiung-chih’s work did not solve all problems for Gezaixi, but provided a feasible answer: first, preserve what the body knows; then, give students the opportunity to perform it wrong, perform it alive, and perform it as their own version. The continuation of a genre relies on allowing today to have a concrete encounter with the past, rather than copying an unchanged past.
+Liao Chiung-chih's work has not solved all the problems facing Gezaixi, but it has provided a viable answer: first, preserve what the body knows, and then give students the opportunity to perform it wrongly, to bring it to life, and to turn it into their own version. The continuity of an art form relies on allowing today to have a concrete encounter with the past, rather than merely replicating an untouched version of it.
 
-[^1]: [Liao Chiung-chih](https://musiciantw.ncfta.gov.tw/people?uid=2&pid=79) — The National Traditional Arts Center Taiwan Music Group Database profile page, detailing Liao Chiung-chih’s biography, troupes, and status as a cultural heritage preserver.
+[^1]: [Liao Chiung-chih](https://musiciantw.ncfta.gov.tw/people?uid=2&pid=79) — The person detail page from the National Center for Traditional Arts Taiwan Music Database, documenting Liao Chiung-chih's life, her troupe, and her status as a cultural heritage preserver.
 
-[^2]: [Drama Category: Liao Chiung-chih](https://www.ncafroc.org.tw/artsaward/winnerDetail@1221) — The National Foundation for Arts and Culture Development awardee detail page, recording Liao Chiung-chih’s self-narration and chronology regarding learning opera, teaching, script compilation, and Xinchuan work.
+[^2]: [Liao Chiung-chih (Drama Category)](https://www.ncafroc.org.tw/artsaward/winnerDetail@1221) — The awardee detail page of the National Culture and Arts Foundation, containing Liao Chiung-chih's self-narratives and chronology regarding learning styles, teaching, script organization, and her work in heritage transmission.
 
-[^3]: [Opera Artist | Liao Chiung-chih](https://www.moc.gov.tw/en/News_Content2.aspx?n=480&s=17446) — A Ministry of Culture profile article explaining Liao Chiung-chih’s early training, the golden age of Gezaixi, the impact of radio and television, and her preservation views.
+[^3]: [Opera Artist | Liao Chiung-chih](https://www.moc.gov.tw/en/News_Content2.aspx?n=480&s=17446) — A biographical article from the Ministry of Culture explaining Liao Chiung-chih's early training, the golden age of Gezaixi, the impact of radio and television, and her perspectives on preservation.
 
-[^4]: [National Folk Art Artist Liao Chiung-chih Gezaixi Record Preservation Project](https://collections.ncfta.gov.tw/pages/list/proj_items.aspx?id=12199914) — The National Traditional Arts Center archival project detail page, listing her troupe, radio, and television experiences, as well as classic repertoires, melodies, and audio/video preservation results.
+[^4]: [National Folk Art Artist Liao Chiung-chih Gezaixi Documentation and Preservation Project](https://collections.ncfta.gov.tw/pages/list/proj_items.aspx?id=12199914) — The collection project detail page from the National Center for Traditional Arts, listing her experiences in opera troupes, radio, and television, as well as her achievements in preserving classic repertoires, melodies, and audiovisual materials.
 
-[^5]: [Frozen Water Peony Touches the Heart Directly: Liao Chiung-chih’s Background Forges an Artistic Life](https://magazine.ncfta.gov.tw/News_Content2.aspx?n=1932&s=82249) — A National Traditional Arts Center _Chuan Yi_ article explaining Liao Chiung-chih’s Ku Dan performance and teacher-student co-staging through _Frozen Water Peony_ and transmission performances.
+[^5]: ['Frozen Water Peony' Touches the Heart: Liao Chiung-chih's Life Story Shapes Her Artistic Life](https://magazine.ncfta.gov.tw/News_Content2.aspx?n=1932&s=82249) — An article from the National Center for Traditional Arts 'Chuan Yi,' explaining Liao Chiung-chih's performance as a 'bitter dan' (tragic female role) and her master-disciple stage appearances through the play 'Frozen Water Peony' and transmission performances.
 
-[^6]: [Chuan Yi Golden Melody Award Special Prize: Where You Teach, You Think; Where You Research—Liao Chiung-chih](https://magazine.ncfta.gov.tw/News_Content2.aspx?n=3135&s=103465&psn=103470) — A National Traditional Arts Center _Chuan Yi_ profile article recording her journey from indoor/outdoor theater and radio to teaching, script compilation, and the Xinchuan Troupe.
+[^6]: [NTA Golden Melody Awards Special Award: Teaching What is Taught, Researching What is Researched—Liao Chiung-chih](https://magazine.ncfta.gov.tw/News_Content2.aspx?n=3135&s=103465&psn=103470) — A biographical article from the National Center for Traditional Arts 'Chuan Yi,' recording her journey from indoor and outdoor stages to radio, teaching, script organization, and the Xinchuan Opera Troupe.
 
-[^7]: [Liao Chiung-chih Script Collection Witnesses Gezaixi Inheritance; Teases 2025 Flagship Grand Opera](https://www.cna.com.tw/news/acul/202412260241.aspx) — A Central News Agency article reporting on the two-year script compilation, seven works included, and details of Liao Chiung-chih learning to organize text for inheritance.
+[^7]: [Liao Chiung-chih's Script Collection Witnesses Gezaixi Inheritance; Teases 2025 Flagship Grand Play](https://www.cna.com.tw/news/acul/202412260241.aspx) — A CNA article reporting on the two-year process of organizing the script collection containing seven works, and the details of Liao Chiung-chih learning to organize text for the sake of inheritance.
 
-[^8]: [Xinchuan Gezaixi Troupe: 2018 Homage to the Master—Peony Township Affection Series Activity "Brilliant Peony Concert"](https://museums.moc.gov.tw/MocEntrance/Detail?activityId=d22e9361-d327-4e32-b47f-a2c74842dbd0) — A Ministry of Culture Museum Island activity detail page, organizing Liao Chiung-chih’s artistic journey across indoor/outdoor theater, radio, television, and stage, as well as preservation projects.
+[^8]: [Xinchuan Gezaixi Opera Troupe: 2018 Honoring the Master—Peony Township Series 'Radiant Peony Concert'](https://museums.moc.gov.tw/MocEntrance/Detail?activityId=d22e9361-d327-4e32-b47f-a2c74842dbd0) — An event detail page from the Ministry of Culture's 'Museum Island,' summarizing Liao Chiung-chih's artistic journey across indoor/outdoor stages, radio, television, and theater, as well as her preservation projects.
 
-[^9]: [Taiwan’s First Tragic Heroine Liao Chiung-chih Stage Storytelling: Gezaixi Classic Interpretation of "The Civet Cat Replaced the Crown Prince" Excerpts](https://www.moc.gov.tw/News_Content.aspx?n=105&s=49295) — A Ministry of Culture article recording Liao Chiung-chih organizing indoor performance memory, serving as a storyteller, and transmission apprentices participating in performances.
+[^9]: [Taiwan's Premier Bitter Dan Liao Chiung-chih Stage Storyteller: Classic Gezaixi Interpretation 'The Civet Cat Swaps for the Prince' Excerpt](https://www.moc.gov.tw/News_Content.aspx?n=105&s=49295) — A Ministry of Culture article recording Liao Chiung-chih's efforts to organize memories of indoor theater, her role as a storyteller, and performance cases involving apprentice artists participating in transmission performances.

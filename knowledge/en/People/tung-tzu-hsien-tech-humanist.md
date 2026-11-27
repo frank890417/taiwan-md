@@ -1,20 +1,27 @@
 ---
-title: "Tzu-Hsien Tung: From Taipei Tech to Pegatron, Apple's Largest Manufacturing Partner"
-description: "Born June 25, 1960, Tzu-Hsien Tung graduated from the Department of Electronics at Taipei Tech (now National Taipei University of Technology), not NTU Electrical Engineering. He joined ASUS in 1988, led the spin-off on January 1, 2008, and founded Pegatron Corporation, becoming a contract manufacturer for Apple, Sony, and Nintendo. He invested in Eslite Bookstore in 2019. In 2025, he continued to publicly advocate for a 'nuclear–renewables coexistence' energy policy."
+title: "T.H. Tung: From Taipei Institute of Technology to Pegatron Becoming Apple's Largest Manufacturing Partner"
+description: 'A Taiwanese electronics industry entrepreneur who graduated from the Department of Electronics at Taipei Institute of Technology, not from NTU Electrical Engineering. He joined ASUS Computer in 1988, and on New Year''s Day 2008 led the spin-off of the brand and contract manufacturing businesses, founding Pegatron Corporation, which became a contract manufacturer for brands such as Apple, Sony, and Nintendo. In 2019 he invested in Eslite Bookstore, believing that "a society needs bookstores just like it needs hospitals"; he is also one of the most outspoken entrepreneurs in the tech industry on energy policy, having long advocated for "nuclear and green coexistence."'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
+tags:
+  [
+    'Technology & Business',
+    'Pegatron',
+    'Electronics Contract Manufacturing',
+    'ODM',
+    'Energy Policy',
+  ]
 subcategory: '科技與企業'
-tags: ['科技與企業', '和碩聯合', '電子代工', 'ODM', '能源政策']
-readingTime: 7
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: false
+readingTime: 7
 translatedFrom: 'People/童子賢.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '3f269cde5e'
 sourceContentHash: 'sha256:741173e056926b2c'
 sourceBodyHash: 'sha256:7f6ff2dde21c6686'
-translatedAt: '2026-05-24T05:06:32+08:00'
+translatedAt: '2026-11-27T02:10:39.102400+00:00'
 ---
 
 # Tzu-Hsien Tung: From Taipei Tech to Pegatron, Apple's Largest Manufacturing Partner

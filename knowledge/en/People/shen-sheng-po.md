@@ -1,7 +1,8 @@
 ---
-title: 'Shen Sheng-Po'
-description: 'Trained in computer science, Shen Sheng-Po brought code into Taiwan’s contemporary art scene. In just 34 years, he left behind not only digital artworks, but also a way of treating programming as lived experience and free software as an artistic ethic.'
+title: 'Sheng-Po Shen'
+description: 'A Taiwanese digital artist and art engineer born in Changhua in 1980, who transitioned from computer science to media art, advocating "programming as life" by treating digital rules and algorithmic logic as the core of creation.'
 date: 2026-03-23
+category: 'People'
 tags:
   [
     'People',
@@ -11,131 +12,132 @@ tags:
     'OpenLab.Taipei',
     'Taiwan',
   ]
+subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
-category: 'People'
-subcategory: '藝術與設計'
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/沈聖博.md'
-sourceCommitSha: '22286539'
+sourceCommitSha: '3f269cde5e'
 sourceContentHash: 'sha256:36208e14ce1c380c'
 sourceBodyHash: 'sha256:5eb269f5e4d722c4'
-translatedAt: '2026-05-17T06:10:00Z'
+translatedAt: '2026-11-27T07:30:14+08:00'
 ---
 
-# Shen Sheng-Po
+# Sheng-Po Shen
 
 ## 30-Second Overview
 
-Shen Sheng-Po (1980–2014) was a Taiwanese digital artist, art engineer, OpenLab.Taipei member, and one of the founders of Youwei Space. Trained first in computer science and only later in art-and-technology practice, he created work that explored the relationship between digital rules, algorithmic logic, and everyday life. His importance lies not only in the artworks he produced, but in how early and how clearly he argued — in practice, not just in theory — that free software could be an artistic tool. Through workshops, teaching, open-source sharing, and space-building, he helped shape a generation of Taiwan-based creative coding practitioners.
+Sheng-Po Shen (1980–2014) was a Taiwanese digital artist, art engineer, member of OpenLab.Taipei, and one of the founders of Youwei Space (有為空間). Originally majoring in computer science, he later pivoted to media art, creating works that explored the relationship between digital rules, algorithmic logic, and daily life. His significance lies not only in his artworks but also in his early and concrete advocacy for "Free/Libre Open Source Software as an artistic tool" in Taiwan. Through workshops, teaching, and space management, he influenced a subsequent generation of creative coding practitioners.
 
-Born in Changhua in 1980, Shen did not come up through a conventional fine-art education. He studied computer science at National Chiao Tung University, continued into graduate work on distributed systems, and only later moved toward art-and-technology study in the UK. That path matters. It meant that when he entered digital art, he did not treat code as a decorative effect. He treated it as a way of thinking.
+Born in Changhua in 1980, Shen was not an artist raised within the traditional fine arts system. He first studied information science at National Chiao Tung University, followed by a graduate degree in computer science focusing on distributed systems; it was only between 2006 and 2007 that he traveled to the UK to study media art-related programs. This trajectory is highly characteristic of Taiwan: rigorous technical training followed by the translation of technical proficiency into a language of creative expression.
 
-That, in turn, made his work feel different from much of what is loosely called “new media art.” Shen was not primarily interested in technological spectacle. He was interested in a harder question: **how digital systems, rules, and formal structures reshape the way we perceive reality itself.**
+This background also made his work distinct from much of the new media art that treats "technology as a medium." For Shen, programming was not merely a convenient effect; it was a way of thinking about the world. He was not interested in mere technical virtuosity, but rather in: **how the rules of the digital world can, in turn, reveal the ways we understand reality.**
 
-## From Computer Science to Art-and-Technology Practice
+## From Information Science to Media Art
 
-On paper, Shen’s trajectory looks like a move from engineering into art. He completed both undergraduate and graduate training in computer science at National Chiao Tung University, later studied Creative Technology at the University of Salford in the UK, and, after returning to Taiwan, worked with art-and-technology groups such as Microplayground and dimension+, while also becoming part of OpenLab.Taipei.
+Looking at his resume, Shen’s path resembles an engineer moving into art. After completing his bachelor's and master's degrees in information science at National Chiao Tung University, he studied Creative Technology at the University of Salford in the UK. Upon returning to Taiwan, he worked with various media art-related teams such as Micro-Paradise (微型樂園) and dimension+, and became a member of OpenLab.Taipei.
 
-This matters because it placed him at a very specific moment in Taiwan’s digital-art development. The field was moving beyond technical display and interactive novelty toward a more mature creative ecosystem. Many people knew how to program but did not yet know how to turn programming into artistic language. Others wanted to make art with technology, but lacked strong local references for what that practice could look like. Shen stood in between those worlds.
+This experience was crucial, as it coincided with the period when Taiwan's digital art scene began transitioning from exhibition technology and interactive installations toward a more mature creative community. It was an era where many people could write code but did not necessarily know how to transform it into art, and many wanted to make art but lacked local programming references for creative practice. Shen stood exactly at the intersection of these two worlds.
 
-> **Curator’s note**  
-> Many of Taiwan’s important digital-art practitioners have followed an unusually indirect path. They were not first trained in art history and then handed technology as a tool. They lived in technical systems first, and only later developed an artistic language from within them. Shen Sheng-Po is one of the clearest examples of that path.
+> **📝 Curator's Note**
+> Many important digital artists in Taiwan possess a certain "unconventional crossover" quality: they were not trained in art history first and then adopted technology as a tool; rather, they lived in the technical world first and gradually developed their own artistic language. Sheng-Po Shen is a representative figure of this path.
 
-## “Code as Life”: The Idea He Left Behind
+## "Programming as Life": The Concept He Truly Left Behind
 
-If one sentence captures Shen’s artistic core, it is probably this: he was interested in the structural qualities of the digital realm, and he believed that **code was part of life itself**.
+If one were to capture the core of Shen's creativity in a single sentence, it would be the direction mentioned by both Wikipedia and the Taiwan Contemporary Art Archive: **He discussed the rule-based characteristics of the digital realm and believed that programming is life.**
 
-At first glance, that sounds abstract. In fact, it is unusually precise. It does not mean “programming is fun,” nor does it mean “technology makes art cooler.” It means that algorithms, randomness, system rules, and data structures should be understood as part of lived experience. When human life is increasingly shaped by digital systems, art cannot stop at making technology look elegant or interactive. It must ask deeper questions: Who writes the rules? What logic structures our interactions? How are feeling and perception shaped by systems we did not design ourselves?
+While this may seem abstract at first glance, it is profoundly powerful. It does not mean "programming is fun" or "technology makes art cooler"; rather, it treats algorithms, randomness, systemic rules, and data structures as integral parts of daily experience. As human life becomes increasingly enveloped by digital systems, for art to understand this era, it cannot simply use technology to create beautiful interactive effects. It must instead ask: How are the rules written? Who decides the logic of interaction? How is our perception shaped by the system?
 
-That is why Shen’s work does not feel dated even more than a decade later. He was not chasing whichever devices happened to be fashionable. He was working at the level of digital life’s underlying structure.
+This perspective ensures that Shen's work does not feel dated even decades later. He was not engaging with the popularity of specific installations, but with the underlying structural sense of digital life.
 
-## Not Decoration, but the Visibility of Rules
+## Artworks as Revelations of Rules, Not Decoration
 
-Public records show Shen exhibiting continuously between 2008 and 2013. His works included _Once There Was a Tree_, _Where Are You?_, _texture_, _meta-_, and _pin shadow_. He also appeared in major contexts such as the Taipei Digital Art Festival and the National Taiwan Museum of Fine Arts’ Digital Ark exhibitions.
+Public records show that Shen exhibited continuously between 2008 and 2013. His works included _Once There Was a Tree_ (曾經有一棵樹), _Where Are You?_ (你在哪裡？), _texture_, _meta-_, and _pin shadow_. He also participated in significant exhibitions such as the Taipei Digital Art Festival and the National Taiwan Museum of Fine Arts' Digital Art Ark.
 
-Even the titles suggest a pattern. These works do not usually present fully narrated stories. They feel more like attempts to capture a state, a rule in operation, or a tension between perception and system. That already separates Shen from more narrative or symbol-driven traditions of art-making. He often seems less interested in representation than in translating the feel of algorithmic structures into perceptual experience.
+The titles of these works reveal a common characteristic: they generally do not aim to tell a complete narrative, but rather seem to capture a certain state, a rule in operation, or the subtle relationship between perception and system. This differs greatly from traditional art dominated by narrative or symbolism. Shen was more akin to "translating the scent of algorithms into perceptible experience."
 
-That becomes especially clear in works such as _pin shadow_ and _texture_. Art critic Chiu Chih-Yung has argued that Shen’s work simultaneously explores the structural logic of the digital realm while retaining a palpable emotional “temperature” inside that logic. In that reading, _pin shadow_ and _texture_ are not simply elegant image-based installations. They construct altered experiences of time and space — experiences that feel internally coherent, yet never fully stable or fully real.
+For example, a title like _Once There Was a Tree_ is not a naturalist representation; it functions more like a question: When life, memory, and digital media meet, what remains? Works like _Where Are You?_ often evoke questions regarding location, existence, response, and absence in the internet age.
 
-In other words, Shen did not treat technology as futuristic spectacle. He treated it as an environment that changes how humans sense and inhabit the world.
+He did not treat technology as a futuristic performance, but as an environment that changes how humans perceive the world. This is particularly evident in his more mature works, _pin shadow_ and _texture_. Media art critic Chiu Chih-yung (邱誌勇) noted that Shen's work discusses the rule-based characteristics of the digital realm on one hand, while maintaining a certain emotional "technological warmth" within the calm, rational logic of technology on the other. _pin shadow_ and _texture_ are not just beautiful video installations; they construct new senses of time and space between the virtual and the real, allowing viewers to experience a perception that is both logical and not entirely "real."
 
-## Free Software as Artistic Ethics
+## Free Software as a Creative Ethic, Not Just a Tool Choice
 
-One of the strongest reasons Shen deserves a place in Taiwan.md is that he did not only make work. He also helped promote **FLOSS+ART** in Taiwan — the meeting point between free/libre open-source software and artistic creation.
+A particularly noteworthy aspect of Shen's contribution to Taiwan.md is that he did more than just create art; very early on, he promoted **FLOSS+ART**—the integration of Free/Libre Open Source Software with artistic creation.
 
-This may sound like a technical position, but it is better understood as an artistic ethic. The underlying question is simple: Should creators understand the tools they use? Should those tools remain modifiable, shareable, and extensible? If art becomes too dependent on closed platforms, is the artist still creating freely — or merely renting access to someone else’s sensory system?
+This may look like a technical stance, but it is actually a creative ethic. The underlying question is: Should a creator understand the tools they use? Should they ensure those tools remain modifiable, shareable, and extendable? If artistic creation becomes increasingly dependent on closed platforms, is the artist truly creating, or are they merely renting a sensory system defined by others?
 
-Today, names like Processing, openFrameworks, and p5.js are familiar to many creative coders. In the late 2000s and early 2010s, however, people willing to advocate for digital art and free software in those terms were far fewer. Shen was one of the people pushing that path early and concretely.
+While names like _creative coding_, _Processing_, _openFrameworks_, and _p5.js_ are familiar to many today, in the late 2000s and early 2010s, few were willing to promote digital art and free software in this manner. Shen was one of the pioneers who paved this way.
 
-According to the Taiwan Contemporary Art Archive, he was active not only as an exhibiting artist but also through workshops and teaching. Public traces make this even clearer: he taught advanced Processing courses, built the Play+Processing Forum, and gave a COSCUP 2010 talk titled **“Open Source & Digital Art Processing”**, where Processing was framed as an accessible creative tool for designers, architects, and artists — not just for people with deep programming backgrounds.
+According to the Taiwan Contemporary Art Archive, in addition to his creative work, he had extensive experience teaching workshops and university courses. More specifically, public records show he offered **advanced Processing courses**, established the **Play+Processing Forum**, and spoke at **COSCUP 2010** on the topic "Open Source & Digital Art Processing," directly introducing Processing as a tool that allows designers, architects, and artists to enter digital creation even without a deep programming background.
 
-This means his influence extended well beyond exhibition spaces. He helped many people believe that **coding did not belong only to engineers; it could also become an artist’s language.**
+This indicates that his influence was not limited to exhibition halls but extended to the transmission of knowledge. He helped a group of people believe that: **Programming is not just for engineers; it can also be the language of artists.**
 
-His GitHub history reinforces that point. The `shengpo` account contains not only artwork-related code, but repositories such as `processing_snips`, `processing_quiz`, `ProjectionMapping_exercises`, `cascadePlayer`, and `helloFace` — projects that clearly function as examples, tools, exercises, and teaching materials. They read almost like open notebooks. Instead of locking technique inside a private workflow, Shen broke methods apart so that others could study them, modify them, and continue from them.
+This is also evident in his GitHub footprint. His `shengpo` account contains not only original source code for his works but also repositories like `processing_snips`, `processing_quiz`, `ProjectionMapping_exercises`, `cascadePlayer`, and `helloFace`, which are clearly intended for teaching, examples, and tool sharing. These projects function like open notebooks: rather than locking technology within a personal workflow, he deconstructed creative methods so others could learn, modify, and build upon them.
 
-In that sense, what he left behind was not a closed personal portfolio, but an open creative site for later practitioners to inherit.
+In other words, what he left behind was not a closed personal portfolio, but an open creative site for successors to take over. This explains why many people remember Shen not just for specific works, but for how he demonstrated the direct link between Processing, open source, and digital art.
 
-## Youwei Space: Making Room for Experiment
+## Youwei Space: A Place for Experimentation
 
-In 2011, Shen founded Youwei Space in Taichung. That matters enormously.
+In 2011, Shen founded Youwei Space (有為空間) in Taichung. This was a critical move.
 
-When an artist leaves only works, influence often remains point-like. But when an artist creates a space in which others can exhibit, test, and collide, influence becomes a field. According to public documentation, Youwei Space was not merely a display venue. It functioned as a base for artistic experiment and presentation.
+If a creator only leaves behind works, their influence is often localized to specific points; but when they establish a space where other artists can exhibit, test, and collide, that influence expands from a point into a field. According to public records, Youwei Space was not just a venue for display, but a base for artists to perform and experiment.
 
-This also has a regional dimension. In Taiwan, cultural resources have long been concentrated in Taipei. A venue like Youwei Space represented a different kind of practice: instead of waiting for a major institution to distribute legitimacy or resources, it built a local platform where experimentation could actually breathe.
+In Taiwan, central and southern regions have long faced the issue of cultural resources being concentrated in Taipei. Spaces like Youwei Space represent an important form of local cultural practice: rather than waiting for large institutions to allocate resources, they build their own breathable experimental environments locally.
 
-If OpenLab.Taipei represented networked community, Youwei Space represented grounded continuity. Together, those two dimensions helped turn Shen’s influence from that of a single artist into something closer to shared infrastructure.
+If OpenLab.Taipei represents community and networking, Youwei Space represents grounding and continuity. Together, these two elements allowed Shen's influence to transcend his individual identity as an artist and become a form of community infrastructure.
 
-## Why Illness Drove the Work Further Inward
+## After His Illness: Why His Work Turned Inward
 
-Shen was diagnosed with colorectal cancer in 2009 and died in 2014 at the age of 34.
+In 2009, Shen was diagnosed with colorectal cancer; he passed away in 2014 at the age of 34.
 
-Retrospective coverage suggests that illness did not stop his work. If anything, it pushed it further inward. His attention gradually shifted away from more overtly personal memory and feeling toward questions of life’s rhythms, change, temporality, and control. Works such as _pin shadow_ used code and mathematical logic to give objects virtual shadows and organic transformation, almost as if rule-based systems could offer a way to think through bodily vulnerability and diminishing control.
+According to reports regarding retrospective exhibitions, he did not stop creating after his diagnosis. Instead, his focus gradually shifted from personal emotion and memory toward an exploration of life's rules, change, and the passage of time. Works like _pin shadow_ use code and mathematical logic to grant objects virtual shadows and organic-like transformations, attempting to understand rules and master change within a virtual system—finding an outlet for the bodily experience that was gradually losing its sense of control in reality.
 
-That gives Shen’s work an unusual emotional tension. He was not using technology to escape life. At one of life’s most fragile points, he used technology and formal logic to move closer to fundamental human questions: how people face change, instability, loss of control, and time itself.
+This added a moving tension to his work: he was not using technology to escape life, but rather, at life's most vulnerable moment, using technology and mathematical logic to approach fundamental questions like "how does a human face change, loss of control, and time?"
 
-If one looks only at the chronology, his career appears tragically brief. But if one looks at the traces he left behind, his weight does not depend simply on the number of works produced. It depends on the kind of figure he modeled — still rare in Taiwan then, but increasingly important now.
+Looking only at a timeline, this might seem like an art career cut short; but looking at the traces he left behind, one finds that his weight does not depend solely on the number of works, but on the fact that he modeled a type of creator profile that was rare in Taiwan but became increasingly important.
 
-The National Culture and Arts Foundation’s archive, in describing _Round 3 — Shen Sheng-Po Memorial Exhibition_, directly referred to him as **“an artist who promoted open-source software creation in Taiwan.”** That phrasing is significant. It places Shen not merely as an individual artist, but as someone who advanced methods and culture within Taiwanese digital art more broadly. His legacy is not only that his works were remembered, but that restoration, re-exhibition, workshops, documentation, and teaching around his work came to be seen as worth continuing.
+When the National Arts Foundation (國藝會) organized the archives for _The Third Round—Sheng-Po Shen Memorial Exhibition_, they described him directly as "an artist promoting open-source software creation in Taiwan." This evaluation is significant because it elevates Shen's position from an individual creator to someone who advanced the methods and culture of digital art in Taiwan. The influence he left behind is not just that his works are remembered, but that the restoration, re-exhibition, workshops, documentation, and teaching of those works are seen by successors as endeavors worth continuing.
 
-Seen together, these clues make the picture clearer: Shen Sheng-Po matters not simply because he died young, but because within a very short life he pushed an emerging creative culture far enough that others could continue it.
+When these threads are woven together, it becomes clear: Sheng-Po Shen is worth remembering not merely because of his untimely death, but because in a short life, he pushed an emerging creative culture to a point where successors could take the lead.
 
-More concretely, he modeled a type of creator Taiwan urgently needed and increasingly recognizes:
+Specifically, he modeled a creator profile that was rare in Taiwan but became increasingly vital:
 
-- someone who could code and make art
-- someone who could think in systems but still work through perception
-- someone who made works and also brought other people in
-- someone who treated free software not as slogan, but as teaching practice, community-building, and space-making
+- Able to write code and make art
+- Able to think in systems and handle perception
+- Able to create works and willing to bring others into the fold
+- Treating free software not as a slogan, but as something implemented through teaching, community, and space
 
-Those conditions made him feel like a creator who did not live long enough to fully unfold, yet still managed to indicate a direction with remarkable clarity.
+Combined, these qualities made him someone who "did not have time to fully unfold, but had already clearly pointed the way."
 
-## What He Really Passed On
+## What Was His True Inspiration for Successors?
 
-In the end, the most important thing Shen left behind may not be any single masterpiece. It may be the route he pointed toward: **digital art does not have to remain a high-tech display inside museums. It can become an open, learnable, shareable culture of making.**
+Looking back at Sheng-Po Shen today, perhaps the most important thing to remember is not a single representative work, but that he identified a path that has become increasingly clear in Taiwan: **Digital art does not have to be just high-tech displays in museums; it can also be an open, learnable, and shareable creative culture.**
 
-That route has continued in different ways across later generations. Some made interactive installations; some moved into sound performance; some used Processing or p5.js for visual experiments; some brought coding into workshops, classrooms, and communities. Not all of them were directly taught by Shen, but the soil of Taiwan’s creative coding and FLOSS+ART culture was undeniably loosened, turned, and seeded by people like him.
+This path has been continued by different generations of creators in various ways. Some make interactive installations, some perform sound art, some use Processing or p5.js for visual experiments, and some bring programming instruction into workshops, classrooms, and communities. These successors may not have all studied directly under Shen, but the soil for creative coding and FLOSS+ART in Taiwan was indeed loosened, turned, and planted by people like him.
 
-What he left was not a reproducible success formula. It was an attitude: understand the tools, question the rules, treat programming as part of life, and share that path with others.
+What he left behind was not a replicable formula for success, but an attitude: to understand tools, to question rules, to treat programming as part of life, and to be willing to share that path with others.
 
-That attitude still does not feel outdated.
+This spirit has not gone out of style.
 
-## Further Reading
+## References
 
-- [Shen Sheng-Po (Chinese Wikipedia)](https://zh.wikipedia.org/zh-tw/%E6%B2%88%E8%81%96%E5%8D%9A)
+- [Sheng-Po Shen (Wikipedia)](https://zh.wikipedia.org/zh-tw/%E6%B2%88%E8%81%96%E5%8D%9A)
+- [Sheng-Po Shen | Taiwan Contemporary Art Archive TCAA](https://tcaaarchive.org/Artist/Detail/1334)
+- [Sheng-Po Shen | Non-Pond Art Network](https://artemperor.tw/knowledge/2372)
 - [OpenLab.Taipei](https://openlabtaipei.org/)
-- [Processing Advanced Course (Insomnia Lecture Series)](https://insomnia608.pixnet.net/blog/posts/7096944218)
+- [Sleepless Audio Lecture (6): Advanced Processing Course](https://insomnia608.pixnet.net/blog/posts/7096944218)
 - [Play+Processing Forum](http://shengpo.github.io/playp5/)
 - [COSCUP 2010 — Open Source & Digital Art Processing](https://coscup.org/2010/en/program/abstracts/)
 - [shengpo on GitHub](https://github.com/shengpo)
-- [Memorial Exhibition: Opening New Life with Code (Art Emperor)](https://artemperor.tw/focus/1221)
-- [Round 3 — Shen Sheng-Po Memorial Exhibition (NCAF archive)](https://archive.ncafroc.org.tw/result?id=b9c7810cda4f41b9994aa2d81925be02)
-- [Purity within Technological Warmth: Shen Sheng-Po’s _pin shadow_ and _texture_](https://atatw.org/hta-archive/%E7%A7%91%E6%8A%80%E6%BA%AB%E5%BA%A6%E4%B8%AD%E7%9A%84%E9%AB%98%E5%B0%9A%E7%B4%94%E6%BD%94%EF%BC%9A%E6%B2%88%E8%81%96%E5%8D%9A%E7%9A%84%E3%80%8Apin-shadow%E3%80%8B%E8%88%87%E3%80%8Atexture%E3%80%8B/)
+- [Sheng-Po Shen Memorial Exhibition: Opening New Life with Code (Non-Pond Art Network)](https://artemperor.tw/focus/1221)
+- [The Third Round — Sheng-Po Shen Memorial Exhibition (National Arts Foundation Archives)](https://archive.ncafroc.org.tw/result?id=b9c7810cda4f41b9994aa2d81925be02)
+- [Noble Purity within Technological Warmth: Sheng-Po Shen's "pin shadow" and "texture"](https://atatw.org/hta-archive/%E7%A7%91%E6%8A%80%E6%BA%AB%E5%BA%A6%E4%B8%AD%E7%9A%84%E9%AB%98%E5%B0%9A%E7%B4%94%E6%BD%94%EF%BC%9A%E6%B2%88%E8%81%96%E5%8D%9A%E7%9A%84%E3%80%8Apin-shadow%E3%80%8B%E8%88%87%E3%80%8Atexture%E3%80%8B/)
 
 ## Related Topics
 
-- [audrey-tang](/en/people/audrey-tang): how technical thinking enters the public sphere
-- [open-source-and-g0v](/en/technology/open-source-and-g0v): how open culture reshaped Taiwan’s technical and creative ecosystems
+- [Wu, Zhe-Yu](/en/people/che-yu-wu): Another Taiwanese creative path from programming to art
+- [Tang, Feng](/en/people/audrey-tang): How technological thinking enters the public sphere

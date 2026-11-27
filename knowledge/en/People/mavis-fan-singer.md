@@ -1,15 +1,15 @@
 ---
-title: "Mavis Fan: From 'Health Song' Little Witch to 100% Band Frontwoman — Thirty Years of Refusing to Be Defined by Any Single Era"
-description: "In 1996, 19-year-old Mavis Fan became everyone's Little Witch with 'Health Song.' In 1998 she shaved her head and released Darling to announce 'I'm making my own music'; in 2001 she turned to jazz with Cabaret; in 2007 she formed the 100% Band. In 2025 at 48, Visitor is her new album with the band after 16 years apart — across thirty years she has dismantled, piece by piece, 'the dream others gave her.'"
+title: "Elva Hsiao: From the 'Healthy Song' Little Witch to 100% Band Frontwoman, a Thirty-Year Journey Refusing to be Defined by an Era"
+description: "From the little witch with a ponytail in the 'Healthy Song' to the singer-songwriter who shaved her head to declare her musical independence. Debuting in 1995, she won a Golden Melody Award for 'I Want Us to Be Together' in 1999, transitioned into jazz with 'The Peerless Diva' in 2001, and navigated nearly three years of depressive lows. In 2007, she formed the band 100% with three members, and in 2010, she won the Golden Melody Award for Best Single Producer for 'Master'. In 2025, she released her first new work in sixteen years, 'Passerby'. In her thirty years since debut, she has repeatedly refused to be defined by the trends of any single era."
 date: 2026-04-20
 category: 'People'
 tags:
   [
     'Music',
-    'Singer-Songwriter',
+    'Singer-songwriter',
     'Golden Melody Awards',
     '100% Band',
-    'Mandarin Pop',
+    'Mandopop',
   ]
 subcategory: '音樂人'
 author: 'Taiwan.md'
@@ -20,10 +20,10 @@ researchReport: 'reports/research/2026-04/范曉萱.md'
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/范曉萱.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '8fc70bd881'
 sourceContentHash: 'sha256:752a0e7cddd9b38d'
 sourceBodyHash: 'sha256:7cceb716a616fa6b'
-translatedAt: '2026-09-07T20:32:18.384084+00:00'
+translatedAt: '2026-11-27T01:29:46.139754+00:00'
 ---
 
 **30-second overview:** Mavis Fan (1977–), Taiwanese singer-songwriter. Debuted at 18 in 1995 with "Rain"; in 1996, "Health Song" made her the island's most popular child star idol, the "Little Demon Girl." In 1998, shaved her head with _Darling_ to signal a reinvention; in 1999, _I Want Us to Be Together_ won the 11th [Golden Melody Award](/en/music/pop-music-and-golden-melody-awards/) for Best Mandopop Album; in 2001, _Jade Beauty_ went jazzy; in 2007, formed Mavis Fan & 100%; in 2010, "Master" won the 21st Golden Melody Award for Best Single Producer. In December 2025, _Visitor_ — her first album in 16 years. Over three decades, she has again and again refused to be defined by any one era's image.

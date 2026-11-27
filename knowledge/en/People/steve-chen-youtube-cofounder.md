@@ -1,6 +1,6 @@
 ---
-title: 'Steve Chen: From Leaving Taiwan at Eight to Returning with a Brain Tumor'
-description: 'He left Taiwan at eight, built a platform in America at twenty-seven, sold it for $1.65 billion after two decades, and then returned with his wife and children after being diagnosed with a brain tumor.'
+title: 'Steve Chen'
+description: "One of Silicon Valley's most famous Taiwanese-American entrepreneurs, he immigrated to the US at age eight and joined PayPal before graduating university. In 2005, he co-founded YouTube in a garage with two former colleagues, and sold it to Google for US$1.65 billion twenty months later. After the acquisition, he was diagnosed with a brain aneurysm, underwent two craniotomies and fifteen seizures. In 2019, he returned to Taiwan with his family to settle down, and received Taiwan's first Employment Gold Card. Since then, he has continued to bring Taiwanese startups to the world stage."
 date: 2026-04-06
 category: 'People'
 tags:
@@ -8,9 +8,9 @@ tags:
     'Steve Chen',
     'YouTube',
     'Silicon Valley',
-    'Startup',
+    'startups',
     'Employment Gold Card',
-    'Brain Tumor',
+    'brain tumor',
   ]
 subcategory: '科技與創業'
 author: 'Taiwan.md Contributors'
@@ -21,10 +21,10 @@ readingTime: 8
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/陳士駿.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '630afb2b66'
 sourceContentHash: 'sha256:ba95870558368ba6'
 sourceBodyHash: 'sha256:10a502d58bab93f7'
-translatedAt: '2026-11-04T23:48:35.362056+00:00'
+translatedAt: '2026-11-27T01:50:54.704782+00:00'
 ---
 
 # Steve Chen

@@ -1,19 +1,19 @@
 ---
-title: 'A-Han: The Hualien Boy Who Performed an Entire Alley by Himself, Then Got Scolded Back by the People in It'
-description: "Hualien-born Tseng Wen-han, a graduate of TNUA's Department of Animation, performed an entire Taiwanese alley by himself through Ruan Yuejiao, Liao Lifang, and Liao Lizhu. Then, in 2022, a Ghost Festival advertisement was pulled: the Vietnamese daughter-in-law he played was protested by actual Vietnamese daughters-in-law."
+title: 'Ahan: The Hualien Boy Who Played an Entire Alleyway Alone, Only to Be Scolded by the People in It'
+description: 'A Hualien boy and graduate of the Animation Department at Taipei University of the Arts, he has been running the channel "Ahan po video" since 2015. He portrays an entire Taiwanese alleyway single-handedly: fortune teller Liao Li-fang, Vietnamese daughter-in-law Nguyen Nguyet Kieu, landlady Liao Li-chu, and the buffet auntie. His representative work, "Nine Heavens Goddess," has accumulated over 13 million views, and in 2022, he performed at the Golden Bell Awards opening ceremony. However, his Ghost Festival advertisement that same year was taken down following protests from Vietnamese associations regarding his portrayal of Nguyen Nguyet Kieu. Imitating an alleyway and living in one have never been the same thing.'
 date: 2026-05-11
 category: 'People'
 tags:
   [
-    'A-Han',
-    'A-Han Posts Videos',
+    'Ahan',
+    'Ahan po video',
     'YouTuber',
     'Impersonation',
-    'Ruan Yuejiao',
-    'Liao Lifang',
+    'Nguyen Nguyet Kieu',
+    'Liao Li-fang',
     'New Immigrants',
     'Hualien',
-    'Taipei National University of the Arts',
+    'Taipei University of the Arts',
     'Golden Bell Awards',
   ]
 subcategory: 'Internet'
@@ -25,10 +25,10 @@ readingTime: 12
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/阿翰.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'a9322956ed'
 sourceContentHash: 'sha256:657a4770554a59cc'
 sourceBodyHash: 'sha256:7dbe663cdddeba6e'
-translatedAt: '2026-11-04T21:17:54.774648+00:00'
+translatedAt: '2026-11-27T02:01:33.501793+00:00'
 ---
 
 **30-second overview:** Born in Hualien in 1994, Tseng Wen-han (A-Han) attended the art program at Hualien Girls' High School before graduating from the Department of Animation at Taipei National University of the Arts. In 2015, he launched the "A-Han Posts Videos" YouTube channel[^1]. He single-handedly portrays Liao Lifang, Ruan Yuejiao, Liao Li-zhu, the Buffet Auntie — an entire Taiwanese alley's cast of characters. His signature work "Fortune-telling Auntie: Jiutian Xuannu's Heavenly Maiden Scattering Flowers" has garnered over 13 million views[^2]. But in a 2022 Ghost Festival advertisement, his portrayal of a Vietnamese daughter-in-law drew protests from actual Vietnamese wives and was taken down — a Hualien boy who had used imitation to prop up a Taiwanese alley found himself asked by the alley's residents: "Why isn't this position mine?"

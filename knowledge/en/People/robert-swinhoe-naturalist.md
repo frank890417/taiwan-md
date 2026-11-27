@@ -1,17 +1,17 @@
 ---
-title: 'Robert Swinhoe: When a Diplomat Became a Naturalist'
-description: "In 1856, a 19-year-old British interpreter recorded the first bird he spotted on the western coast of Formosa. Four years later, 52 academic papers introduced the world to what lived on this island for the first time. He died in London at 41, but the species he named live on today in Taiwan's mountains and forests."
+title: 'Robert Swinhoe: From Diplomat to Naturalist'
+description: 'British diplomat and naturalist, he first set foot on Formosa at age 19 as a translator. In 1860 he became the first British Vice-Consul in Formosa, promoted to Consul in 1865. During his approximately four years in Taiwan he published 52 academic papers, recording 227 bird species, nearly 40 mammal species, and 246 plant species, introducing the world to the island''s biology for the first time. Contemporary ornithologists praised him as "one of the most successful natural history explorers in history." Four mammal species and fifteen bird species are named after him, including Swinhoe''s Pheasant and Swinhoe''s Turtle; he died of illness in London in 1877 at the young age of 41.'
 date: 2026-04-12
 category: 'People'
 tags:
   [
-    'natural history',
-    'British consul',
-    'natural history',
-    'birds',
-    'Taiwan endemic species',
-    'treaty ports',
-    '19th century',
+    'Natural History',
+    'British Consul',
+    'Natural History',
+    'Birds',
+    'Taiwan Endemic Species',
+    'Opening of Ports',
+    '19th Century',
   ]
 subcategory: '歷史人物'
 author: 'Taiwan.md'
@@ -22,10 +22,10 @@ image: ''
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/史溫侯.md'
-sourceCommitSha: 'b1a5fea00'
+sourceCommitSha: '3f269cde5e'
 sourceContentHash: 'sha256:50b13c3a31e0a1c0'
 sourceBodyHash: 'sha256:e6b263814c7b1995'
-translatedAt: '2026-11-18T15:31:58.744593+00:00'
+translatedAt: '2026-11-27T01:17:06.350624+00:00'
 ---
 
 # Robert Swinhoe: When a Diplomat Became a Naturalist
