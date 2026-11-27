@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-27T18:34:04+08:00",
-    "zhCommitHead": "f302458044",
+    "lastUpdated": "2026-11-27T19:07:33+08:00",
+    "zhCommitHead": "3461c2869a",
     "totalZh": 1194,
     "activeLanguages": [
       "en",
@@ -52,9 +52,9 @@
       },
       "fr": {
         "total_zh": 1194,
-        "fresh": 1183,
+        "fresh": 1184,
         "stale": 6,
-        "metadata_stale": 5,
+        "metadata_stale": 4,
         "missing": 0,
         "orphan": 0
       },
@@ -151496,20 +151496,18 @@
         "fr": {
           "path": "fr/People/tony-hsiao-inside-founder.md",
           "translatedFrom": "People/蕭上農.md",
-          "sourceCommitSha": "160f6cb59",
+          "sourceCommitSha": "72ef874049",
           "sourceContentHash": "sha256:cf3dd21873bec862",
           "sourceBodyHash": "sha256:ba8d5bb97d38e74d",
-          "translatedAt": "2026-11-03T22:51:00.075287+00:00",
+          "translatedAt": "2026-11-27T17:02:30+08:00",
           "translationLastCommit": "51d77b35",
           "translationLastModified": "2026-11-04T07:46:06+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "bytes": 15003,
+          "bytes": 14448,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/tony-hsiao-inside-founder.md",
@@ -158434,8 +158432,8 @@
           "sourceContentHash": "sha256:5acc04186bb1a528",
           "sourceBodyHash": "sha256:784aa01194d0dc58",
           "translatedAt": "2026-11-27T15:03:16+08:00",
-          "translationLastCommit": "26d3f390",
-          "translationLastModified": "2026-09-22T00:53:27+08:00",
+          "translationLastCommit": "3461c286",
+          "translationLastModified": "2026-11-27T18:34:04+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 23372,
