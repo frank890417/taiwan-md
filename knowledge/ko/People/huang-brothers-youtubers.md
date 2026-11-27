@@ -1,9 +1,9 @@
 ---
 title: '황씨 형제: 신선한 라벨 뒤에 숨겨진, 강제로 드러나야 했던 진실과 다정함'
-description: "2017년 한 장난 영상으로 시작해 '신선하고 긍정적인' 이미지로 유튜브 생태계에서 두각을 나타낸 황씨 형제. 그러나 2020년 발생한 강제 커밍아웃 보도는 백만 구독자의 정점에서 그들의 사생활을 카메라 앞에 해체시켰으나, 역설적으로 타이완 사회의 성평등에 대한 가장 다정한 집단적 응답을 이끌어냈다."
+description: '형 철철(哲哲)과 동생 위위(瑋瑋)로 구성된 대만의 백만 구독 유튜버 조합으로, 2017년 일본 편의점 컵라면 영상으로 시작해 20개월간 휴가 없이 활동한 기록을 세운 바 있다. 2020년 동생이 언론에 의해 강제로 커밍아웃 당했을 당시, 카메라 앞에서 오열하며 어머니에게 전화를 거는 영상은 대만 전역의 응원을 이끌어냈으며 미디어 윤리와 디지털 프라이버시에 대한 논의를 불러일으켰다. 이후 이들은 음악, 공익 활동, 캠퍼스로 영역을 넓히며 장난기 가득한 소년에서 사회적 책임을 다하는 크리에이터로 성장했다.'
 date: 2026-06-01
 category: 'People'
-tags: ['YouTuber', '황씨 형제', '웨이웨이', '저저', '성평등', '타이완 문화']
+tags: ['YouTuber', '황씨 형제', '위위', '철철', '성평등', '대만 문화']
 subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -13,10 +13,10 @@ readingTime: 12
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/黃氏兄弟.md'
-sourceCommitSha: '7d41e6f686'
+sourceCommitSha: 'fd2854dbad'
 sourceContentHash: 'sha256:1016352970b6d5c8'
 sourceBodyHash: 'sha256:68b9398b0dec02a8'
-translatedAt: '2026-11-21T10:48:00+08:00'
+translatedAt: '2026-11-27T05:04:36.897329+00:00'
 ---
 
 > **30초 요약:**
