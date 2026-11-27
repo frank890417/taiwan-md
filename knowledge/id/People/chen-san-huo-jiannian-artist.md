@@ -1,10 +1,10 @@
 ---
-title: 'Chen San-huo: Menyerahkan Pecahan Vas ke Tangan Takdir, Menghidupkan Kembali Jiannian di Atap Kuil'
-description: 'Pasca gempa 921 tahun 2002, seniman asal Madou, Tainan, Chen San-huo menemukan pecahan vas di Ciji Gong, Fengyuan, berubah dari murid pemulihan kuil menjadi "seniman di atap" yang berkarya dengan keramik bekas. Ia tidak membuat jiannian lebih mirip asalnya, melainkan membiarkan kekacauan, kebetulan, dan bahan daur ulang menentukan bentuk tradisi anew.'
+title: 'Chen Sanhuo: Menyerahkan Vas Pecah kepada Takdir, Membiarkan Kian-niat Atap Kuil Hidup'
+description: "Pewaris kerajinan tradisional penting negara kian-niat, lahir 1949 di Madou, Tainan, setelah lulus SMP mengikuti kakaknya belajar kian-niat kuil, berkeliling Taiwan untuk restorasi kuil. Tahun 2002 saat merestorasi Ciji Gong di Fengyuan setelah gempa 921, dia mengumpulkan pecahan vas yang dibuang kuil dan merangkainya menjadi satu patung Bodhidharma, mengembangkan metode 'menggantikan gunting dengan menabrak', membiarkan pecahan keramik menentukan bentuknya sendiri. Tahun 2020 diakui Kementerian Kebudayaan sebagai pewaris pertama kerajinan kian-niat, 2021 menerima Penghargaan Prestasi Kerajinan Nasional, dan mendirikan 'Keluarga Kian-niat' untuk menerima murid, berpartisipasi dalam warisan budaya di sekolah."
 date: 2026-08-19
-subcategory: '藝術與設計'
 category: 'People'
-tags: ['Jiannian', 'Kerajinan Tradisional', 'Chen San-huo', 'Seni Kuil']
+tags: ['Kian-niat', 'Kerajinan Tradisional', 'Chen Sanhuo', 'Seni Kuil']
+subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20
@@ -12,10 +12,10 @@ lastHumanReview: false
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'People/陳三火.md'
-sourceCommitSha: '8cc323782'
+sourceCommitSha: 'c7e3d69aad'
 sourceContentHash: 'sha256:eedc983e2ea9d824'
 sourceBodyHash: 'sha256:7efe5656906a3904'
-translatedAt: '2026-09-12T02:30:18+08:00'
+translatedAt: '2026-11-27T05:03:33.644595+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Chen San-huo awalnya adalah murid jiannian yang mengikuti kakaknya ke kuil-kuil, tidur di lokasi proyek. Tahun 2002, saat memulihkan Ciji Gong Fengyuan pasca gempa 921, ia menemukan pecahan vas yang dibuang, secara tak sengaja membuat patung Damuo, dan kemudian menjadikan "mencari bentuk setelah dihancurkan" sebagai metodenya sendiri. Perubahan ini seperti sebuah paradoks kerajinan: untuk melestarikan jiannian, tidak boleh hanya menyalin masa lalu apa adanya; terkadang harus membiarkannya kehilangan bentuk aslinya dulu.

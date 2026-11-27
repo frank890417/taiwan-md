@@ -1,29 +1,29 @@
 ---
-title: 'Chang Yu-sheng: Dari Idol hingga Peramal, Sebuah Eksperimen Musik Melintasi Zaman'
-description: 'Pada 1989, putra kepala Pegasus Troupe memulai kariernya sebagai idola dengan 350.000 kopi album "Pikirkan Kamu Setiap Hari" (天天想你); pada 1994 ia menjawab pasar dengan rekaman live band berdurasi 73 menit yang penjualannya suram namun kemudian disebut sebuah ramalan. Chang Yu-sheng bergulat sembilan tahun antara identitas idola dan nurani penciptanya; empat hari setelah "Bibir Berbeda Hati" (口是心非) diluncurkan, mobilnya terbalik saat dini hari di Tamsui, dan ia tidak pernah terbangun lagi.'
+title: 'Chang Yu-sheng: Dari Idola ke Nabi, Sebuah Eksperimen Musik yang Melampaui Era'
+description: 'Penyanyi kreator dan produser, ayahnya adalah ketua Tim Seni Tianma, ibunya adalah orang Atayal. Setelah kakaknya Chang Yu-hsien meninggal dunia tenggelam pada usia 15 tahun, ia memasuki industri musik untuk mewujudkan mimpi musik kakaknya; pada 1989 dengan "Tiān Tiān Xiǎng Nǐ" terjual 350.000 kopi dan menjadi idola; pada 1994 merilis album rekaman langsung band 73 menit "Karaoke Live Taipei Aku", penjualan suram namun ia menyebutnya "klasik yang suram". Album yang ia produserkan, "Jiěmèi" dan "Bad Boy", mendorong A-Mei ke puncak keagungan; pada 1997, empat hari setelah rilis "Kǒu Shì Xīn Fēi", ia meninggal dalam kecelakaan di Tamsui, berusia 31 tahun; pada 2017, Golden Melody Awards menganugerahkan Penghargaan Kontribusi Khusus secara posthum.'
 date: 2026-04-18
 category: 'People'
 tags:
   [
     'Chang Yu-sheng',
-    'Musik Populer Taiwan',
-    'Penyanyi-Pencipta',
-    'Karaoke Live‧Taipei‧Me',
-    'Kiss Me Nana',
-    'A-mei',
+    'Musik Pop Taiwan',
+    'Penyanyi Kreator',
+    'Karaoke Live Taipei Aku',
+    'Cium Aku Nana',
+    'A-Mei',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-19
 lastHumanReview: true
-researchReport: reports/research/2026-04/張雨生.md
+researchReport: 'reports/research/2026-04/張雨生.md'
 readingTime: 14
-translatedFrom: People/張雨生.md
-sourceCommitSha: 4b6d28c54
+translatedFrom: 'People/張雨生.md'
+sourceCommitSha: 'fc0798f30d'
 sourceContentHash: 'sha256:f4eb416f9486c9fa'
 sourceBodyHash: 'sha256:fa4f2d152a7b850d'
-translatedAt: '2026-09-10T10:26:29+08:00'
+translatedAt: '2026-11-27T05:06:04.035389+00:00'
 ---
 
 > **Gambaran 30 detik:** Ayah Chang Yu-sheng, Chang Chien-min, adalah kepala Pegasus Troupe, ibunya seorang wanita Atayal. Dia lahir dalam hujan deras yang terus-menerus di Penghu, maka diberi nama "Yu-sheng" (lahir dari hujan). Pada 1989, dia debut dengan album pertama "Pikirkan Kamu Setiap Hari", terjual 350.000 kopi; pada 1994, dia menjawab ekspektasi pasar dengan album eksperimen panjang 73 menit dengan rekaman live orkestra penuh, penjualannya amat kecil, dia menyebutnya "klasik yang merugi". Pada 1997, dia dengan tangan sendiri mendorong seorang perempuan pribumi yang bernyanyi di bar menuju kursi ratu diva. 16 Oktober, "Bibir Berbeda Hati" diluncurkan — itu adalah pertama kalinya dia menangani sendiri lirik, komposisi, produksi, dan vokal; empat hari kemudian, dia menabrak mobil di fajar Tamsui, tidak pernah lagi bangun.

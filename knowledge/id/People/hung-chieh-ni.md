@@ -1,19 +1,19 @@
 ---
-title: 'Hong Ni: Dari Perpustakaan Fangyuan ke Jalanan HahaTai, Tiga Nama Berbagi Satu Pena'
-description: 'Lahir di pesisir Changhua pada 1996 dan dibesarkan di Fangyuan, Hong Chieh-ni melakukan wawancara jalanan sebagai "Jie-ni" di HahaTai, dan menulis sebagai "Hong Ni" untuk mengatur kenangan keluarga, pengalaman merantau ke Taipei, magang roti, dan dewasa. Dari "Apakah Semangka Manis?" hingga "Orang Jual Semangka", di antara tiga nama tersembunyi metode seorang kreator menaruh pekerjaan publik dan tulisan pribadi di atas peta kehidupan yang sama.'
+title: 'Hung Ni: Dari Perpustakaan Fangyuan hingga Jalanan HahaTai, Tiga Nama dengan Satu Pena'
+description: 'Sebagai "Jenny" yang merancang program dan memandu wawancara jalanan di HahaTai, serta sebagai "Hung Ni" yang menulis tentang ibunya, kehidupan perantau di Taipei, dan masa-masa menjadi magang pembuat roti ke dalam esai—ia lahir pada tahun 1996 di Fangyuan, Changhua, lulusan Departemen Komunikasi Siaran Shih Hsin, dan setelah beberapa tahun bekerja di program televisi, ia beralih ke video daring. Ia memenangkan Penghargaan Sastra Lin Rong-san kategori esai pendek melalui karya "Apakah Semangka Itu Manis", serta meraih penghargaan kategori esai terbaik untuk karya "Anpanman" yang telah dipersiapkan selama tujuh tahun. Julukan "Hung Ma Ni" yang berasal dari kesalahan penulisan saat SD juga dituliskan dalam kumpulan esai pertamanya, "Penjual Melon".'
 date: 2026-08-27
 category: 'People'
 tags:
   [
-    'Hong Ni',
-    'Hong Chieh-ni',
-    'Jie-ni',
-    'Hong Ma-ni',
+    'Hung Ni',
+    'Hung Chieh-ni',
+    'Jenny',
+    'Hung Ma Ni',
     'HahaTai',
-    'esai',
-    'pesisir Changhua',
+    'Esai',
+    'Garis Pantai Changhua',
     'Penghargaan Sastra Lin Rong-san',
-    'penerbitan dan media',
+    'Penerbitan dan Media',
   ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
@@ -27,10 +27,10 @@ imageCredit: 'Steve Evans / Wikimedia Commons'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Watermelons.jpg'
 translatedFrom: 'People/洪婕倪.md'
-sourceCommitSha: 'e974b4c9e'
+sourceCommitSha: '72ef874049'
 sourceContentHash: 'sha256:8351d05a79dba790'
 sourceBodyHash: 'sha256:f76990887dfd2b78'
-translatedAt: '2026-09-09T19:34:15+08:00'
+translatedAt: '2026-11-27T04:56:04.685608+00:00'
 ---
 
 # Hong Ni: Dari Perpustakaan Fangyuan ke Jalanan HahaTai, Tiga Nama Berbagi Satu Pena

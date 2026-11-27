@@ -1,10 +1,16 @@
 ---
-title: 'Ye Kuo-yi: Berawal dari Sekolah Menengah di Shilin, Membangun Kekaisaran Manufaktur Selama Setengah Abad'
-description: 'Lahir pada 21 April 1941, Ye Kuo-yi tidak memiliki gelar sarjana. Ia memulai dari sekolah menengah di Shilin dan mendirikan Yingda dalam proses manufaktur elektronik yang menjadi pemasok pusat data awan untuk Facebook, Microsoft, dan Google. Pada tahun 2023, ia menyerahkan posisi direktur utama kepada putra keduanya, Ye Li-cheng, dan mundur sebagai ketua grup.'
+title: 'Yeh Kuo-yi: Memulai dari SMK Shilin, Membangun Imperium OEM Selama Setengah Abad'
+description: 'Pendiri industri manufaktur elektronik lulusan SMK Shilin yang tidak memiliki gelar universitas. Pada tahun 1975, ia mendirikan Inventec di Shilin, Taipei, memulai dari kalkulator elektronik dan memimpin perusahaan bertransformasi dari OEM menjadi ODM. Setelah melewati gelombang PC dan laptop, ia beralih ke server kelas perusahaan, menjadi pemasok inti bagi pusat data cloud Facebook, Microsoft, dan Google, serta menjadi pionir dalam investasi server AI. Pada tahun 2023, ia menyerahkan posisi ketua dewan kepada putra keduanya, Yeh Li-cheng, dan mundur menjadi ketua grup, menggunakan lima puluh tahun untuk memilih arah yang tepat pada setiap titik balik krusial dalam industri manufaktur.'
 date: 2026-03-19
 category: 'People'
 tags:
-  ['Teknologi dan Bisnis', 'Yingda', 'Manufaktur Elektronik', 'ODM', 'Server']
+  [
+    'Teknologi & Perusahaan',
+    'Inventec',
+    'Manufaktur Elektronik',
+    'ODM',
+    'Server',
+  ]
 subcategory: '科技與企業'
 author: 'Taiwan.md'
 featured: false
@@ -12,10 +18,10 @@ lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
 translatedFrom: 'People/葉國一.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: 'c7e3d69aad'
 sourceContentHash: 'sha256:736f2b6cf89c9093'
 sourceBodyHash: 'sha256:728aa85d9d44e89a'
-translatedAt: '2026-09-16T11:57:33+08:00'
+translatedAt: '2026-11-27T05:08:47.861112+00:00'
 ---
 
 # Ye Kuo-yi: Berawal dari Sekolah Menengah di Shilin, Membangun Kekaisaran Manufaktur Selama Setengah Abad

@@ -1,15 +1,15 @@
 ---
-title: 'Chung Chao-cheng: Seorang yang tidak menyelesaikan gelar universitas, menuliskan aliran panjang orang Taiwan'
-description: 'Lahir 1925 di Longtan, Taoyuan, Chung Chao-cheng sempat terhenti dari jurusan Sastra Tiongkok Universitas Taiwan karena pendidikan bahasa Jepang dan penyakit, namun dari guru sekolah dasar ia menjadi novelis, editor, dan aktivis Hakka. Ia menulis pedesaan dengan "Lubinghua", dan memori sejarah orang Taiwan dengan dua trilogi; kesusastraannya tidak hanya di rak buku, tetapi juga di sebuah taman kehidupan di Longtan.'
+title: 'Zhong Zhaozheng: Seorang yang Tidak Menyelesaikan Gelar Universitas, Telah Menulis Aliran Panjang Orang Taiwan'
+description: 'Penulis yang lahir di Jiouzuoliao, Longtan, Taoyuan, menerima pendidikan bahasa Jepang pada masa pendudukan Jepang, masuk jurusan Sastra Cina Universitas Taiwan pada 1948 namun keluar tengah jalan karena hambatan bahasa dan kesehatan, dari guru SD menjadi novelis, editor, dan aktivis Hakka. Ia menulis "Lubinghua", "Trilogi Aliran Kotor", dan "Trilogi Orang Taiwan", memasukkan desa Hakka, kelompok suku asli, dan Peristiwa 228 ke dalam novel aliran panjang, juga menyimpan karya penulis seperti Zhong Lihe dan dengan "Surat Kabar Sahabat Pena" menghubungkan penulis yang dikecualikan dari penerbitan utama. Kesusastraannya tidak hanya di rak buku, tetapi juga tersisa di Taman Hidup Longtan.'
 date: 2026-08-18
 category: 'People'
 tags:
   [
-    'Chung Chao-cheng',
-    'kesusastraan Taiwan',
-    'kesusastraan Hakka',
+    'Zhong Zhaozheng',
+    'Kesusastraan Taiwan',
+    'Kesusastraan Hakka',
     'Longtan',
-    'novel aliran besar',
+    'Novel Aliran Panjang',
   ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
@@ -19,13 +19,13 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/鍾肇政.md'
-sourceCommitSha: '82038b29f'
-sourceContentHash: 'sha256:e30095af8a74328f'
+sourceCommitSha: 'e7e1bb5735'
+sourceContentHash: 'sha256:aa3ae97d0723ffdb'
 sourceBodyHash: 'sha256:9240eda59faf09e3'
-translatedAt: '2026-09-11T05:40:13+08:00'
+translatedAt: '2026-11-27T04:47:48.667195+00:00'
 ---
 
-> **30 detik ringkasan:** Chung Chao-cheng bukan orang yang memasuki dunia sastra melalui jalan akademik yang mulus. Ia menerima pendidikan bahasa Jepang di masa pendudukan Jepang, dan baru belajar bahasa Tiongkok kembali setelah perang; 1948 ia masuk jurusan Sastra Tiongkok Universitas Taiwan, namun karena kesenjangan bahasa dan masalah kesehatan ia meninggalkan kampus di tengah jalan, namun kemudian tetap menulis "Lubinghua", "Trilogi Aliran Kotor", dan "Trilogi Orang Taiwan", memasukkan desa-desa Hakka, kelompok suku asli, dan sejarah modern Taiwan ke dalam novel panjang. [^1] [^2] [^3]
+**Ringkasan 30 detik:** Chung Chao-cheng bukanlah sosok yang memasuki dunia sastra melalui jalur akademik yang mulus. Ia menerima pendidikan bahasa Jepang selama masa kolonial Jepang, dan baru belajar bahasa Mandarin setelah perang; pada 1948 ia masuk Jurusan Sastra Tionghoa Universitas Taiwan, namun karena hambatan bahasa dan masalah kesehatan ia keluar tengah jalan, namun kemudian ia tetap berhasil menulis 《魯冰花》、〈濁流三部曲〉與《臺灣人三部曲》， memasukkan desa-desa Hakka, masyarakat adat, dan sejarah modern Taiwan ke dalam novel-novel panjang. [^1] [^2] [^3]
 
 ## Pendahuluan: Tanyakan dulu siapa yang mampu meninggalkan kenangan bagi Taiwan
 
