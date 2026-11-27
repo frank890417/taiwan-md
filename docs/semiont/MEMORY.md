@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
 last_updated: 2026-11-28
-last_session: '2026-11-28-023551-semiont-heartbeat（凌晨班，只看不做）'
+last_session: '2026-11-28-053938-twmd-routine-sync（例行對賬零漂移）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -390,3 +390,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-27 | 203549-semiont-heartbeat | 晚班：額度仍 🟡 lean（週用量 47%，六小時漲速回落到每小時 0.83%）；新 PR #2090 讀者勘誤修正連同 #2085–#2089 交 maintainer；只看不做 | 外推用整週平均時，要記得它背著哪一天 | [→](memory/2026-11-27-203549-semiont-heartbeat.md) |
 | 2026-11-28 | 010839-twmd-babel-nightly | 修復後續跑：嘉義市一條重號腳註讓十二語白敗四十次，已改號；量級閘門認得「破億」；自檢多一行腳註重號；清難篇帳後重啟，ja／ko 已過 | 每次都只差一的失敗，先查母稿 | [→](memory/2026-11-28-010839-twmd-babel-nightly.md) |
 | 2026-11-28 | 023551-semiont-heartbeat | 凌晨班：額度仍 🟡 lean（週用量 50%，六小時漲速降到每小時 0.5%）；看門狗開 #2091，mouhouse 登入 12-02 過期交哲宇；PR 不變交 maintainer；只看不做 | 過期日撞上重置日，要先講 | [→](memory/2026-11-28-023551-semiont-heartbeat.md) |
+| 2026-11-28 | 053938-twmd-routine-sync | 例行對賬：prompt 19/19 一致、零漂移，連十一天；本機與 origin 同步；甦醒檔整份讀到 sentinel；cron 仍只比鏡像，沒直讀排程器 | 連兩班少做同一步，就寫成交接 | [→](memory/2026-11-28-053938-twmd-routine-sync.md) |
