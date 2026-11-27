@@ -1,20 +1,20 @@
 ---
-title: '葉国一：士林高商から始めた半世紀の代工帝国'
-description: '1941年4月21日生まれ。大学の学歴を持たない葉国一は、士林高商を出発点とし、1975年に士林で英業達を創業した。電子計算機から出発し、同社を世界トップクラスのサーバー代工場へと育て、Facebook、マイクロソフト、Googleのクラウドコンピューティングを支える。2023年に董事長の職を次男の葉力誠に譲り、自らはグループ会長に退いた。'
+title: '葉国一：士林高商から築き上げた、半世紀にわたる受託製造帝国の物語'
+description: '士林高商出身の電子機器受託製造（EMS）の創業者であり、大学の学位を持っていません。1975年に台北市士林で英業達（Inventec）を設立し、計算機から事業を開始しました。同社をOEMからODMへと進化させ、PCやノートパソコンのブームを経てエンタープライズ向けサーバーへと舵を切り、Facebook、Microsoft、Googleのクラウドデータセンターの中核サプライヤーとなり、いち早くAIサーバー分野にも参入しました。2023年には会長職を次男の葉力誠に譲り、自身はグループ会長へと退きました。50年間にわたり、受託製造産業におけるあらゆる重要な転換点で正しい選択をし続けてきた人物です。'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
+tags: ['テクノロジーと企業', '英業達', '電子機器受託製造', 'ODM', 'サーバー']
 subcategory: '科技與企業'
-tags: ['科技與企業', '英業達', '電子代工', 'ODM', 'サーバー']
-readingTime: 7
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: false
+readingTime: 7
 translatedFrom: 'People/葉國一.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: 'c7e3d69aad'
 sourceContentHash: 'sha256:736f2b6cf89c9093'
 sourceBodyHash: 'sha256:728aa85d9d44e89a'
-translatedAt: '2026-05-24T05:06:32+08:00'
+translatedAt: '2026-11-27T05:04:25.380635+00:00'
 ---
 
 # 葉国一：士林高商から始めた半世紀の代工帝国
