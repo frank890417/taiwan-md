@@ -1,17 +1,9 @@
 ---
-title: "Wu Bai: From Lioujiao Township's Suantou Village, 30 Years of Taiwanese-Language Rock Without Compromise"
-description: 'Born Wu Chun-lin in 1968 in Suantou Village, Lioujiao Township, Chiayi County. Formed "Wu Bai & China Blue" in 1992; the 1995 album "Norwegian Wood" established his Taiwanese-language rock direction. Released "Nail Flower" in 2016, winning the Golden Melody Award for Best Taiwanese Album in 2017. Released new album "The Pure White Beginning" in 2025, with the ROCK STAR 2 tour spanning both sides of the Taiwan Strait.'
+title: 'Wu Bai: Starting from Suantou Village, Lioujiao Township, 30 Years of Taiwanese Rock Without Compromise'
+description: 'A Taiwanese rock singer who started from Suantou Village, Lioujiao Township, Chiayi County, formed Wu Bai & China Blue in 1992, established the Taiwanese rock direction with "Norwegian Wood" in 1995; Taiwanese is not a positioning strategy for him, but the most natural way of speaking. For over thirty years he has refused to be formatted by the market; his 2016 album "Ding Zi Hua" won the Golden Melody Award for Best Taiwanese Album the following year; in 2025 he released "Pure White Starting Point" and launched the ROCK STAR 2 tour, still singing songs in the same grammar on stage.'
 date: 2026-03-19
 category: 'People'
-tags:
-  [
-    'Music',
-    'Rock',
-    'Taiwanese-language songs',
-    'Chiayi',
-    'Local rock',
-    'Guitar',
-  ]
+tags: ['Music', 'Rock', 'Taiwanese songs', 'Chiayi', 'Local rock', 'Guitar']
 subcategory: '音樂'
 author: 'Taiwan.md'
 featured: false
@@ -21,10 +13,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/伍佰.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '2a5b98d9cd'
 sourceContentHash: 'sha256:2dda34fc81c78056'
 sourceBodyHash: 'sha256:fb05d9869b96635c'
-translatedAt: '2026-11-04T23:19:42.126645+00:00'
+translatedAt: '2026-11-27T00:11:55.222769+00:00'
 ---
 
 # Wu Bai: From Garlic Village, Liujiao, Three Decades of Taiwanese Rock Without Discount

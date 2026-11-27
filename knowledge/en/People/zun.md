@@ -1,6 +1,6 @@
 ---
-title: 'Zun: From a Middle School Room to Dual Million-Subscriber Channels, an Adulting Record'
-description: "Zun started streaming games in the second year of middle school, became Taiwan's youngest millionaire YouTuber at 19, and later pushed his secondary channel past the million mark. Spanning fourteen calendar years, this record documents his process of growing up while facing creative burdens, family storms, and sponsorship missteps."
+title: 'Zun: From a Middle School Bedroom to Millions on Dual Channels, An Adult Record of a YouTuber'
+description: "A Taiwanese creator who began uploading game streams to YouTube in the eighth grade, becoming Taiwan's youngest YouTuber with one million subscribers at age nineteen. Spanning fourteen years of public records, he transitioned from gaming to experiments, unboxings, and daily life. He has spoken about the pressure that comes with high subscriber counts and navigated through his brother Xiao Yu's legal controversies and the Pocket Qi Bing sponsorship error. His second channel surpassed one million subscribers by late 2024, while his new home videos shift the lens toward adult life."
 date: 2026-07-15
 category: 'People'
 tags:
@@ -8,8 +8,8 @@ tags:
     'YouTuber',
     'Zun',
     'Taiwanese Culture',
-    'Online Creator',
-    'Life Otaku',
+    'Internet Creator',
+    'Life of a Gamer',
     'Digital Culture',
   ]
 subcategory: '數位與媒體'
@@ -25,10 +25,10 @@ relatedDiary: ['2026-07-15-191335-manual']
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/尊.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '2a5b98d9cd'
 sourceContentHash: 'sha256:741e9553e6d863d3'
 sourceBodyHash: 'sha256:e3564c2899c65b1e'
-translatedAt: '2026-10-15T03:46:26.639675+00:00'
+translatedAt: '2026-11-27T00:57:18.129128+00:00'
 ---
 
 > **30-second overview:**

@@ -1,16 +1,16 @@
 ---
-title: 'A Shen: Why are there new videos even after "permanent hiatus" for eleven years?'
-description: 'In July 2026, A Shen''s main channel displayed one message—"Retiring, I only make videos when I feel like it"—while simultaneously uploading a new Minecraft video. After eleven years of daily uploads, why didn''t the "permanent hiatus" three years ago become a permanent departure?'
+title: "Ashen: After Eleven Years of Daily Uploads, Why Are There Still New Videos After a 'Permanent Hiatus'?"
+description: "A game commentary creator who established their channel over ten years ago and claimed to have never missed a daily update in eleven years. In 2021, they stopped daily uploads, quit YouTube as a full-time job, and switched to casual posting. In 2023, they announced the main channel would permanently cease updates, retaining only livestreams and 'Gaoshenma' co-produced with Matian. Three years later, the main channel reappeared with a Minecraft collaboration long-form video; the channel description still reads 'retired, I only film when I feel like it.' The retraction of the word 'retirement' is the fixed next-episode schedule that viewers once held."
 date: 2026-07-15
 category: 'People'
 tags:
   [
-    'A Shen',
+    'Ashen',
     'YouTuber',
     'Minecraft',
-    'Gaoshénma',
-    'Taiwanese internet culture',
-    'creator labor',
+    'Gaoshenma',
+    'Taiwanese Internet Culture',
+    'Creator Labor',
   ]
 subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
@@ -20,7 +20,7 @@ lastHumanReview: false
 researchReport: 'reports/research/2026-07/阿神.md'
 readingTime: 18
 image: '/article-images/people/ashan-2026-return-minecraft.webp'
-imageAlt: 'The official Minecraft thumbnail features two fake monster models in the center, with A Shen and Snow Rabbit block characters on the left and right, and the title reads "Scariest Fake Monster in Minecraft."'
+imageAlt: "The official Minecraft thumbnail features two imposter monsters in the center, with Ashen and Snow Rabbit's block characters on either side, and the title reads 'Minecraft's Scariest Imposter'."
 imageCredit: '阿神官方 YouTube 頻道'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.youtube.com/watch?v=60n6gPUEl7s'
@@ -38,10 +38,10 @@ rationale:
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/阿神.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '2a5b98d9cd'
 sourceContentHash: 'sha256:5d4d8978fc43c7cd'
 sourceBodyHash: 'sha256:02c4e1b3fececdae'
-translatedAt: '2026-09-23T22:11:44+08:00'
+translatedAt: '2026-11-27T00:18:25.365543+00:00'
 ---
 
 > **30-Second Overview:** On July 15, 2026, A Shen's official channel showed 3.31 million subscribers and 5,622 videos; the latest collaborative Minecraft long-form video was uploaded only one day prior, yet its description still read "Retiring, I only make videos when I feel like it." He once claimed to have uploaded daily for eleven years, leaving his full-time YouTube career in 2021 and announcing a halt to uploads on his main channel in 2023, while continuing to produce "Gaoshénma" with Ma Tian via live streams. Seeing these three statuses together makes the meaning of retirement clear: daily updates were no longer an open commitment, nor had creation permanently ended.

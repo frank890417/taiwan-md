@@ -1,6 +1,6 @@
 ---
-title: 'Du Pan Fang-ge: Three Languages, a Performance of Peace'
-description: 'A cross-linguistic generation Hakka female poet and relative of the 228 victims Chang Shih-lang. Her poem "Peace Performance" transforms a folk ritual into a record of survival under White Terror—for those whose language was seized by the regime, the harshest line in their mother tongue is written for their own people.'
+title: 'Du Pan Fang-ge: Three Languages, One Peace Play'
+description: 'A Hakka woman poet of the generation that crossed languages: she learned Japanese during the Japanese colonial era, was forced to switch to Chinese writing after the war, and wrote poetry in Hakka again around the lifting of martial law. Her mother''s uncle, Hualien physician Chang Chi-lang, and his sons were killed in the 228 Incident; this family history became the ethical negative for her political satirical poetry. In 1977, "Peace Play" turned the Hakka winter thanksgiving ritual stage into a record of survival complicity under the White Terror. In her later years she received the Hakka Affairs Council''s Outstanding Contribution Award; after her passing, her family donated 340 manuscripts in Japanese, Chinese, and Hakka.'
 date: 2026-07-12
 category: 'People'
 tags:
@@ -10,10 +10,10 @@ tags:
     'Hakka',
     'Poet',
     'Li Poetry Society',
-    'Cross-linguistic Generation',
-    '228',
+    'Generation That Crossed Languages',
+    '228 Incident',
     'Hakka Poetry',
-    'Peace Performance',
+    'Peace Play',
     "Women's Literature",
   ]
 subcategory: '文學與詩人 / 客家文化人'
@@ -31,216 +31,213 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:新埔潘屋全景.jpg'
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/杜潘芳格.md'
-sourceCommitSha: 'be13f045'
-sourceContentHash: 'sha256:d405136a29d9431e'
-sourceBodyHash: 'sha256:b0195c9685eb2443'
-translatedAt: '2026-07-28T19:24:14+08:00'
+sourceCommitSha: '630afb2b66'
+sourceContentHash: 'sha256:8e17d8aaa786cb83'
+sourceBodyHash: 'sha256:95dcdf29fa593f4b'
+translatedAt: '2026-11-27T07:30:14+08:00'
 ---
 
-# Du Pan Fang-ge: Three Languages, a Performance of Peace
+![The Pan House architectural complex in Hsinpu, Hsinchu, with its red bricks and saddleback gables stretching under the sky. Du Pan Fang-ge was born in 1927 into a prominent Hakka family in Hsinpu; this familial landscape is the material anchor of her childhood and cross-language generational memory.](/article-images/people/dupan-xinpu-pan-house.webp)
+_Hsinpu Pan House, Hsinchu — the Hakka prominent family landscape of Du Pan Fang-ge's origin. Photo via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E6%96%B0%E5%9F%94%E6%BD%98%E5%B1%8B%E5%85%A8%E6%99%AF.jpg)._
 
-![The Pan family residence in Xinpu, Hsinchu, where red bricks and gabled walls stretch under the light. Born in 1927 to a prominent Hakka family in Xinpu, this familial landscape serves as a physical anchor for her childhood and cross-linguistic generational memories.](/article-images/people/dupan-xinpu-pan-house.webp)
-_Xinpu Pan House — The Hakka elite landscape of Du Pan Fang-ge's upbringing. Photo via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E6%96%B0%E5%9F%94%E6%BD%98%E5%B1%8B%E5%85%A8%E6%99%AF.jpg)._
+> **30-second overview:** Du Pan Fang-ge (1927–2016, Hakka Pha̍k-fa-sṳ often rendered Tu Pan Fong-Gied; English literature also has Fangge Dupan) is one of the few Hakka women poets of Taiwan's **generation that crossed languages** to be widely discussed: Japanese colonial education gave her Japanese, postwar national language policy forced her to switch to Chinese, and around the lifting of martial law she wrote poetry in **Hakka** again. She was not merely a folkloric poet of nostalgia — the 1977 Chinese version of **"Peace Play"** used the Hakka winter thanksgiving ritual stage to write how "peace people who only know obedience" gnawed sugarcane under the stage canopy, **keeping the only life they had**; the ethical weight of that poem connects to the family history of her mother's uncle in Hualien, **Chang Chi-lang**, and his sons being killed in the 1947 228 Incident. [^1][^2][^3]
 
-> **30-Second Overview:** Du Pan Fang-ge (1927–2016, often romanized as Tu Pan Fong-Gied in Sino-Hakka transliteration; also known as Fangge Dupan in English literature) is one of the few Hakka female poets from Taiwan's **cross-linguistic generation** to be widely discussed: Japanese education gave her Japanese; post-war Mandarin policies forced her into Chinese; and before and after the lifting of martial law, she returned her poetry to **Hakka**. She is not merely a folk poet of nostalgia—in 1977, the Chinese version of **"Peace Performance"** (平安戲) used the Hakka winter deity-thanking stage to describe how "peaceful people who only knew how to obey" chewed sugarcane under the pavilion, **maintaining their single remaining life**. The ethical weight of that poem is tied to her family history: in 1947, during the February 28 Incident, her maternal uncle, **Chang Shih-lang** (張七郎), and his sons were killed in Hualien.[^1][^2][^3]
+## What Was Taken Was Not Just One Language
 
-## Not Just One Language Was Taken
+Poet Lin Heng-tai proposed the **"generation that crossed languages"** in 1967: those who grew up using Japanese under Japanese rule, and after the war had to relearn Chinese writing. [^4] Du Pan Fang-ge fell squarely in the core age cohort of this generation: born in 1927 in Chupei Village, Shinchiku Prefecture, she went to Japan as an infant with her father Pan Chin-huai, returned to Taiwan around age six or seven, and entered a "shōgakkō" (elementary school) then attended mainly by Japanese children. [^1]
 
-In 1967, poet Lin Heng-tai proposed the term "**cross-linguistic generation**": those who grew up using Japanese during the Japanese rule and were forced to switch to Chinese for writing after the war.[^4] Du Pan Fang-ge falls squarely into the core age of this cohort: born in Xinpu, Hsinchu Prefecture in 1927, she moved to Japan with her father, Pan Jin-huai, as a toddler and returned to Taiwan around age six or seven, entering "small schools" primarily for children of Japanese settlers.[^1]
+That was no romantic bilingual childhood. Both Chinese and English biographies note: she was bullied at school, and later wrote poetry, fiction, and essays in Japanese, first pouring colonial pain into an "outlet that permitted fantasy." [^1][^5] The curricula at Hsinchu Girls' High School and Taipei Women's College of Higher Education included flower arrangement, tea ceremony, sewing, and "wifely virtue" training for "assisting husband and teaching children": the seeds of her lifelong writing on women's position were sown here. [^1]
 
-That was not a romantic bilingual childhood. Both Chinese and English biographies note: she was bullied at school and later used Japanese to write poetry, novels, and essays—turning the pain of colonization into an "outlet that allowed for imagination."[^1][^5] The curricula of Hsinchu Higher Girls' School and Taipei Women's Higher Institute included flower arrangement, tea ceremony, and sewing, as well as "wife-training" (婦德) to teach women how to "raise sons and serve husbands": the seeds of her later writings on the position of women were planted here.[^1]
+In 1946, writing in Japanese became dangerous in Taiwan. The national language policy did not just swap textbooks; it replaced the entire organ of public speech. The National Museum of Taiwan Literature's account puts it dryly: **vocabulary, grammar, and the expressive capacity for complex thought were all stripped away together**. Some stopped writing; others relearned for years before daring to publish again. [^4] Du Pan Fang-ge ceased public publication for over a decade, during which she married, assisted at her husband's clinic, and raised children: only in the mid-1960s did she reappear on the poetry scene writing in Chinese. [^1][^4]
 
-In 1946, writing in Japanese became dangerous in Taiwan. The Mandarin policy did not just replace textbooks; it replaced an entire set of organs for public speech. The National Museum of Taiwan Literature describes it starkly: **vocabulary, grammar, and the capacity to express complex thoughts were stripped away.** Some stopped writing; others took years of study before daring to publish again.[^4] Du Pan Fang-ge ceased public publication for over a decade during which she married, assisted her husband in his clinic, and raised children: it was not until the mid-1960s that she reappeared on the poetry scene in Chinese.[^1][^4]
+In later interviews she described the three languages as three warehouses: Japanese was the most thoroughly trained, the one that could hold the deepest emotions. Chinese long remained at a "third or fourth grade elementary level," and her poetry was often criticized as insufficiently refined. Hakka was the mother tongue spoken at home but which had to be reinvented for writing on paper. [^12] Sung Tse-lai once advised her to simply write in Japanese and find a translator. Her mind pulled back to "one should use one's own mother tongue." The hesitation itself was the daily construction site of the cross-language generation, not a character flaw of indecisiveness. [^12]
 
-In later interviews, she described the three languages as three different warehouses: Japanese was the one with the most thorough training, capable of holding the deepest emotions. Chinese remained at a "third or fourth grade" level for a long time, and her poems were often criticized for lacking refinement. Hakka was the mother tongue spoken at home, but on paper, she had to reinvent how to write it.[^12] Song Ze-lai once advised her to simply write in Japanese and have someone translate it. She ultimately pulled back toward "using my own mother tongue." This hesitation is not a character flaw of indecision; it is the daily construction site of the cross-linguistic generation.[^12]
+> 📝 **Curator's note**: The cross-language generation is often written as "tragic biography." For Du Pan Fang-ge, a more precise formulation is — she made at least **three** language choices in her life: forced Japanese, forced Chinese, and in her later years the **active** reclamation of Hakka. The third time was her answer to the question of sovereignty.
 
-> 📝 **Curator's Note**: The cross-linguistic generation is often portrayed as a "tragic biography." For Du Pan Fang-ge, a more precise description is that she made at least **three** linguistic choices in her life: the forced Japanese, the forced Chinese, and the **proactive** reclamation of Hakka in her later years. The third choice was her answer to sovereignty.
+## That Shot in Hualien, Written Into All Subsequent "Peaceful Years"
 
-## That Shot in Hualien, Written into Every Subsequent "Year of Peace"
+1947, the 228 Incident. Du Pan Fang-ge's mother's uncle in Hualien: **Chang Chi-lang**, physician at Hualien Fenglin Jen-shou Hospital, a man of immense local prestige: was arrested along with his sons and subsequently killed. [^1][^6] Chang Chi-lang was a Hakka from Hukou, Hsinchu, a graduate of the Government-General of Taiwan Medical School, a rural physician; after the war he was elected Hualien county councilor and council speaker, and also won a high-vote election as a National Assembly delegate. During the 228 Incident, when Hualien locals nominated a county magistrate, he received the most votes, yet in the purge that followed the incident's spread, he disappeared along with his sons. [^3][^6]
 
-In 1947, during the February 28 Incident, her maternal uncle in Hualien—a physician at Fenglin Renshou Hospital and a man of high local prestige, **Chang Shih-lang** (張七郎)—was arrested along with his sons and subsequently killed.[^1][^6] Chang Shih-lang was a rural doctor from the Lakou area of Hsinchu, a graduate of the Governor-General's Medical School. After the war, he was elected as a county councilor and chairman in Hualien, and was also elected as a representative to the National Assembly. During the February 28 period, when local leaders were being pushed to select a county magistrate, he received the highest number of votes, only to vanish along with his children during the subsequent purge.[^3][^6]
+This is not distant gossip; it is the ethical negative for her later political satirical poetry: when the official narrative said "year after year, peaceful years," the family knew who had paid for that peace with disappearance. Chinese Wikipedia and Hakka cultural writings both note that this family history gave her later work an added edge of political critique and allegory: not slogan-style taking of sides, but a survivor family's long-term allergy to the two characters "peace." [^1]
 
-This is not distant gossip; it is the ethical film underlying her later poems of political irony: when official narratives claimed "peace every year," her family knew who "peace" was bought by through disappearance. Both Chinese Wikipedia and Hakka cultural writings point out that this family history gave her later works a critical and allegorical edge toward politics: not as slogans for taking sides, but as the long-standing allergy of a survivor's family toward the word "peace."[^1]
+In 1948, defying family opposition, she married physician **Du Ching-shou** and moved to Chungli, Taoyuan, writing beside the clinic while working as a flower arrangement teacher. [^1] Chungli was not the prominent family hall of Hsinpu; it was the daily life of urban medical practice and childrearing. Her first poetry collection was titled **_Ching-shou_** (1977): "Ching" taken from her husband's name, "shou" for her father's longevity: private ethics embedded directly in the book title. [^1] Family naming appears again: _Huai-shan Wan-hai_ embeds her parents' names "Huai" and "Wan"; _Chao-ching_ takes a grandchild's name; _Yuan-chien-hu_ gathers friends' names (the "chien" character links to Li Poetry Society's Chen Chien-wu). [^1] For her, poetry collection titles are often maps of human relations, not marketing slogans.
 
-In 1948, despite family opposition, she married the physician **Du Ching-shou** (杜慶壽) and moved to Zhongli, Taoyuan. There, she wrote while working in a clinic and as a flower arrangement teacher.[^1] Zhongli was not the grand hall of an elite clan like Xinpu; it was the daily life of urban medicine and child-rearing. Her first collection of poems was titled **_Ching-shou_** (慶壽) in 1977: "Ching" took her husband's name, and "Shou" was for her father's longevity—embedding personal ethics directly into the title.[^1] Family naming appeared again: _Huanshan Wanhai_ (淮山完海) incorporated her parents' names "Huai" and "Wan"; _Chao Ching_ (朝晴) took a grandchild's name; _Yuan Qianhu_ (遠千湖) used the name of a friend (the character "Qian" linked to Chen Chien-wu of the Li Poetry Society).[^1] For her, book titles were often maps of human relationships, not marketing slogans.
+![Exterior of the Wu Cho-liu Former Residence in Hsinpu. Wu Cho-liu, also from a Hsinpu Hakka family, once translated Du Pan Fang-ge's early Japanese poems into Chinese, an instance of the cross-language generation supporting each other's expression.](/article-images/people/dupan-xinpu-wuzhuoliu-house.webp)
+_Former Residence of Wu Cho-liu in Hsinpu — material trace of the hometown senior writer network. Du Pan Fang-ge's first publicly published poem in 1966 is recorded as having had its Japanese manuscript translated by Wu Cho-liu. Photo via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E6%96%B0%E5%9F%94%E5%90%B3%E6%BF%81%E6%B5%81%E6%95%85%E5%B1%85.jpg)._
 
-![The exterior of Wu Cho-liu's former residence in Xinpu. Also from a prominent Hakka family in Xinpu, Wu Cho-liu served as the Chinese translator for Du Pan Fang-ge's early Japanese poems—an example of cross-linguistic individuals supporting each other's expression.](/article-images/people/dupan-xinpu-wuzhuoliu-house.webp)
-_Xinpu Wu Cho-liu Residence — Physical traces of a peer network among fellow hometown writers. Records show that in 1966, her first published poem was translated from Japanese by Wu Cho-liu. Photo via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E6%96%B0%E5%9F%94%E5%90%B3%E6%BF%81%E6%B5%81%E6%95%85%E5%B1%85.jpg)._
+## The Woman's Voice Under the Li Banner, The Woman's Voice Under the Translator's Hand
 
-## A Female Voice under the Li Poetry Society, a Female Voice through the Translator's Hand
+In 1965, she joined the [Li Poetry Society](/en/art/li-poetry-society/), which emphasized nativist consciousness: the flagship nativist poetry society founded in 1964. [^1][^7] She was not among the twelve founders; she was a woman poet who entered "the second year after Li's founding." Li Yuan-chen, Li Min-yung, and others later repeatedly defended her poetics. [^5]
 
-In 1965, she joined the **Li Poetry Society** (笠詩社), a flagship of the localist movement founded in 1964.[^1][^7] She was not one of the twelve founding members but joined as a female poet "the second year after the establishment." Li Yuan-chen and Li Min-yong later defended her poetic spirit multiple times.[^5]
+In July 1966, _Taiwan Literature_ published her "Spring." English reports write: it was a Japanese manuscript, translated into Chinese by **Wu Cho-liu**. [^4] The cross-language generation's common production mode appears here: the poem first matured in a Japanese mind, then was carried into Chinese paper by another pair of hands. Li Yuan-chen later pointed out: early Chinese manuscripts often passed through **male translators' hands**, the subtle nuances of the female perspective smoothed away — this is also one reason her influence was underestimated. [^4]
 
-On July 1966, _Taiwan Literature_ published her poem "Spring." English reports noted: it was originally a Japanese manuscript translated into Chinese by **Wu Cho-lu** (吳濁流).[^4] A common production method of the cross-linguist generation is revealed here: the poem grew fully in a Japanese mind before being moved onto Chinese paper by another pair of hands. Li Yuan-chen later pointed out that early Chinese manuscripts often passed through the hands of **male translators**, which smoothed over the nuances of the female perspective—one reason why her influence was underestimated.[^4]
+On September 17, 1967, after her husband was seriously injured in a car accident and recovered, she read the turnaround as an answered prayer, and entered more deeply into Christian faith and evangelical work. [^1] Faith did not turn her into a gentle granny singing praises of folk custom: on the contrary, her most famous poems precisely **dismantle** the taken-for-grantedness of the Ghost Festival universal salvation and the Peace Play.
 
-On September 17, 1967, after her husband recovered from a serious car accident, she interpreted the turning point as an answered prayer and delved deeper into Christian faith and missionary work.[^1] Her faith did not turn her into a gentle grandmother praising folk customs; on the contrary, some of her most famous poems specifically **dismantled** the taken-for-granted nature of the Mid-Autumn Festival and "Peace Performances."
+## "Peace Play": The Sugarcane Under the Stage Is More Honest Than the Gods Onstage
 
-## "Peace Performance": The Sugarcane Under the Stage is More Honest than the Deities Above It
+Hakka winter thanksgiving rituals often feature the "Peace Play." The pretext is thanking the gods for a year of peace. Du Pan Fang-ge's 1977 Chinese version of "Peace Play," collected in _Ching-shou_, moves the camera from the gods to the audience: [^2]
 
-Hakka winter deity-thanking ceremonies often feature a "Peace Performance" (平安戲). Its purpose is to give thanks for a year of peace. In 1977, Du Pan Fang-ge included the Chinese version of "Peace Performance" in _Ching-shou_, shifting the camera from the deities to the audience:[^2]
-
-> Every year is a year of peace
-> Every year, the Peace Performance is staged
+> Year after year, peaceful years  
+> Year after year, the Peace Play is performed
 >
-> People of peace who only know how to obey
-> People of peace who only know how to endure
+> Peace people who only know obedience  
+> Peace people who only know endurance
 >
-> Circling around the stage
-> Watching the show as spectators
+> Surrounding the stage  
+> Cheering as they watch the play
 >
-> That is what you allowed them to perform
+> That is what you permit him to perform
 >
-> Many, many people of peace
-> Would rather be under the stage
+> Many, many peace people  
+> Would rather under the stage  
+> Gnaw sugarcane, hold salted plums in their mouths.
 >
-> Chewing sugarcane, tasting the salty melon seeds.
->
-> **Maintaining their single remaining life**
-> Watch
-> The Peace Performance.
+> **Keep the only life they have**  
+> Watch  
+> The Peace Play.
 
-"Maintaining their single remaining life" is the lock on the entire poem. A 2021 review by _Key Review_ noted: people did not lack knowledge of death on the stage; rather, they knew that stepping forward might result in disappearance, so they framed obedience as endurance and bystander status as peace.[^2] A guided reading by Hung Shu-ling of National Taiwan University's Chinese Department revealed three layers of interpretation: a modern critique of folk ritual inconsistencies, political irony under authoritarian rule, and the universal ethics of "everyone seeking self-preservation only to be oppressed."[^8]
+"Keep the only life they have" is the lock of the whole poem. The Critical Review Network's 2021 parallel reading notes: people are not unaware that there is death on the stage; rather, they know that stepping out may bring disappearance, so they call obedience endurance, and call bystanding peace. [^2] NTU Chinese Department's Hung Shu-ling's guided reading opens three layers — modern critique of folk custom's irrationality, political irony under authoritarianism, and the universal ethics of "everyone only seeks self-preservation and ends up controlled." [^8]
 
-She later rewrote this poem in **Hakka**. The National Museum of Taiwan Literature holds her 1995 Hakka manuscript of "Peace Performance."[^9] A special report in _The Taipei Times_ noted that the Hakka version is not a literal translation but incorporates Hakka idioms absent from the Chinese version.[^4] The final segment of the Hakka version, cited by VERSE, sounds more like spoken language biting into the root of a vegetable:
+She later rewrote this poem in **Hakka**. The National Museum of Taiwan Literature holds a 1995 Hakka manuscript of "Peace Play." [^9] The _Taipei Times_ English feature notes: the Hakka version is not a word-for-word translation; it brings in Hakka rhetoric absent from the Chinese version. [^4] The Hakka closing cited by VERSE is even more like colloquial speech biting on radish root:
 
-> Many, many people of peace
-> Willing to nibble on the root of the veg
-> K-gan-sae ham Lee-tsai-khin
-> Maintaining one life for their old self
-> Watch, Peace Performance.[^8]
+> So many, so many peace people  
+> Willingly gnawing radish root  
+> K sugarcane holding salted plum  
+> Keeping their one old life  
+> Watch, Peace Play. [^8]
 
-The same ethics, swapped with a different set of oral muscles. For a cross-linguist poet, this is not a game of style; it is a question of **who has the right to use which voice to speak out about complicity.**
+Same ethics, different set of oral muscles. For the cross-language poet, this is not a style game; it is the question of **who has the right to use which voice to speak complicity**.
 
-⚠️ **Controversial View**: Reading "Peace Performance" solely as "anti-KMT" or "criticizing Hakka cowardice" narrows its scope. The poem's blade points simultaneously toward the regime, toward the bystanders, and toward the self-deception of "beautifying obedience as a virtue." The history of Chang Shih-lang gives this blade a weight of kinship, but it does not mean the poem is only a diary of family grievances.
+⚠️ **Contested reading**: Reading "Peace Play" as "only anti-KMT" or "only scolding Hakka cowardice" both narrow it. The poem's edge points simultaneously at the system, at the bystanders, and at the self-deception that "beautifies obedience into virtue." The Chang Chi-lang family history gives this edge bloodline weight, but does not mean the poem has only a family-grudge diary reading.
 
-The same ethics can be re-read in any era: silence within a corporation, bystander behavior on campus, or "seeking self-preservation first" on social media. This is not making White Terror relative; it is acknowledging that Du Pan Fang-ge forged specific historical experiences into **portable ethical structures**—this is why a 2017 pop song can still connect to her 1977 lines.[^2]
+The same ethics can be reread in any era: silence within corporations, bystanding on campuses, "self-preservation first" on social media. This is not relativizing the White Terror, but acknowledging that Du Pan Fang-ge forged special historical experience into **transplantable ethical syntax** — which is why a 2021 pop song could still connect to 1977 verse. [^2]
 
-## The Pig God Holding "Willingness": Another Mirror of the Mid-Autumn Festival
+## The Pig God Holding "Willingness": The Other Mirror of "Ghost Festival"
 
-If "Peace Performance" looks at the audience, "Mid-Autumn Festival" (中元節) looks at the pig on the altar. The Hakka version describes: a large _pig-god_ (豬公) holds a fruit called "willingness" (甘願) in its mouth; and those who stuff that "willingness" inside are "just me, or else it's you."[^10] Amidst the bustle of the mass offering, some forget they are part of the same group. Some become increasingly aware that they are "lonely souls."[^10]
+If "Peace Play" watches the audience, "Ghost Festival" watches the pig on the altar. The Hakka version writes: the big pig god holds in its mouth a fruit called "willingness," and the one who stuffs "willingness" in, "is me, or else it's you." [^10] Amid the universal salvation bustle, someone in the crowd "forgets you yourself are a sacrificial offering." Someone becomes increasingly clear they are "lonely banana-heart people." [^10]
 
-When placed alongside the imagery of "Paper People," this is particularly striking: paper people sway with a gust of autumn wind; she wrote, "My body is a vessel, my heart is a temple," seeking "real people" in a world filled with paper figures.[^11] As a Christian female poet, her deconstruction of folk festivals was not for the sake of cultural warfare, but to ask: **Who is required to be willing, and who has the right to watch the show?**
+Juxtaposed with the faith vocabulary of "Paper Figures," this is especially glaring: paper figures sway at an autumn wind, she writes "my body is a vessel, my heart is the shrine," seeking "true humans" in a world stuffed with paper figures. [^11] The Christian woman poet dismantles folk festivals not for culture-war hot takes, but to ask: **who is demanded to be willing, who is qualified to watch the play.**
 
-![Traditional Hakka courtyard architecture in the Tongluo area of Miaoli. The material world of Hakka poetry is not just a "folk symbol," but a living space shaped by settlements, rituals, stages, and daily speech.](/article-images/people/dupan-hakka-compound-tongluo.webp)
-_Traditional Hakka Courtyard (Tongluo, Miaoli)—To understand the folk settings of "Peace Performance" and "Mid-Autumn Festival," one must first restore the stage and public hall from tourism symbols to spaces of lived ethics. Photo via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hakka_Compound,_Tongluo,_Miaoli_(Taiwan).\_
+![Hakka traditional courtyard architecture in the Miaoli Tunglo area. The material world of Hakka poetry is not just "local symbols," but a living field grown jointly from settlements, rituals, stage canopies, and daily speech.](/article-images/people/dupan-hakka-compound-tongluo.webp)
+_Hakka traditional courtyard (Miaoli Tunglo) — to understand the folk scenes of "Peace Play" and "Ghost Festival," one must first restore the stage canopy and public hall from tourist symbols into living ethical fields. Photo via [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Hakka_Compound,_Tongluo,_Miaoli_(Taiwan).jpg>).\_
 
-## After Lifting Martial Law, Mother Tongue Moved from "Home Speech" to "Written Page"
+## Only After the Lifting of Martial Law Did Mother Tongue Turn From "Spoken at Home" Into "Written on Paper"
 
-In 1987, martial law was lifted. On December 28, 1988, the Hakka "Give Back My Mother Tongue" march took to the streets.[^4] Du Pan Fang-ge was in her early sixties at the time. She never felt truly comfortable writing in Chinese—in the creative process, Japanese remained the smoothest language for thought; one day, she discovered some sentences **formed directly in Hakka**. "I picked the words up and wove them into Hakka poems," she later described, while admitting the pain of insufficient literary vocabulary and a lack of written characters.[^4]
+1987, lifting of martial law. December 28, 1988, the Hakka **"Return Our Mother Tongue"** march took to the streets. [^4] Du Pan Fang-ge was then in her early sixties. She had never truly been comfortable writing Chinese — Japanese remained the smoothest thinking language in her creative process; one day, she discovered some sentences **forming directly in Hakka**. "I picked the words up and wove them into Hakka poems," she later described it, simultaneously acknowledging the pain of insufficient literary vocabulary, of having sounds but no characters. [^4]
 
-Around 1989, she began actively publishing Hakka poetry; in the 1990s, she published _Chao Ching_, _Yuan Qianhu_, _Qing Feng Lan Bo_, and _The Season of Hibiscus_, moving between Chinese, Hakka, Japanese, and English.[^1] In 1992, her work _Yuan Qianhu_, written in Chinese, English, and Japanese, won the first **Chen Hsiu-hsiu Poetry Award**.[^1] While some felt her Chinese wasn't refined enough, others insisted that there is a "glimmer of light" within the humble. The award was won through debate, not by unanimous applause.[^12]
+Around 1989, she began actively publishing Hakka poetry; in the 1990s she published _Chao-ching_, _Yuan-chien-hu_, _Ching-feng Lan-po_, _Season of Hibiscus_, etc., languages moving between Chinese, Hakka, Japanese, and English. [^1] In 1992, **_Yuan-chien-hu_**, written in Chinese, English, and Japanese, won the first **Chen Hsiu-hsi Poetry Award**. [^1] Pai Heng once disparaged her Chinese as insufficiently refined; Li Yuan-chen and Li Min-yung insisted there was scaly brilliance in the simplicity — the prize was carried out of controversy, not unanimous applause. [^12]
 
-She used Dante’s _Divine Comedy_ as a reference: language must be elevated by the work itself, not by waiting for official declarations of elegance.[^4] She also warned: when everyone rushed to speak "Taiwanese" after lifting martial law, do not narrow Taiwanese into a single dialect—"Aboriginal languages and Hakka are also Taiwanese."[^4]
+She took Dante writing the _Divine Comedy_ in Italian as reference: language must be lifted up by works, not wait for officials to declare it elegant first. [^4] She also warned: after the lifting of martial law, when everyone rushed to speak "Taiwanese," don't narrow Taiwanese to a single topolect — "Aboriginal languages and Hakka are also Taiwanese." [^4]
 
-To her, Japanese and Chinese were once "forced to learn by authorities" and "represented our enslavement"; communication tools could be borrowed, but **mother tongue sovereignty cannot be treated as something borrowed.**[^4]
+For her, Japanese and the national language were once "forced to learn by authorities," "represent our enslavement"; communication tools can be borrowed, **mother tongue sovereignty cannot be treated as something borrowed again.** [^4]
 
-In the 1980s, she lived in the U.S. for several years and obtained American citizenship in May 1982 before settling in Zhongli.[^1][^13] The experience across the ocean added another layer of linguistic pressure (English), turning questions of "island/refugee/nation" from abstract concepts into heavy luggage. Her Hakka writing after returning to Taiwan was thus not just nostalgia, but a **third covenant** after experiencing forced language replacement, voluntary exile, and finally coming home.
+In the 1980s she lived in the United States for several years, acquiring U.S. citizenship in May 1982, then returned to Taiwan and settled in Chungli. [^1][^13] The transoceanic experience added another layer of language pressure (English), and turned the questions of "island/refugee/nation" from abstraction into luggage weight. The Hakka writing after her return was therefore not mere nostalgia, but a **third covenant** after experiencing forced language switch, voluntary island departure, and return home.
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin:1.5rem 0;">
-  <iframe src="https://www.youtube.com/embed/OibAtswHQwQ" title="Hakka female poet Du Pan Fang-ge and introduction to the Zhongli literary district" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/OibAtswHQwQ" title="客家女詩人杜潘芳格與中壢文學街區介紹" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Video: Public culture special feature introducing Du Pan Fang-ge and the Zhongli literary district (YouTube). The poetic phrases displayed on the streets are a contemporary form of poetry moving from pages into daily paths._
+_Video: Public culture feature introducing Du Pan Fang-ge and the Taoyuan Chungli Literary District (YouTube). The verse installations on the streets are the contemporary form of poetry walking from the page into daily paths._
 
-## A Woman Tree, Not a Flower Needing Care
+## A Woman Tree, Not a Flower Needing Pity
 
-Hung Shu-ling specifically highlighted the self-naming in "Longing Tree":
+Hung Shu-ling specially picks out the self-naming in "Acacia Tree":
 
-> I am also
-> A woman tree
-> Born on this island.[^8]
+> I too  
+> Am born on this island  
+> A woman tree. [^8]
 
-Flower metaphors too often portray women as objects to be looked at, broken, or offered. Trees need roots, wind, and time. Du Pan Fang-ge's public image is easily condensed into "Auntie/Grandma Du"—at the Zhongli literary district, in Hakka cultural events, on book covers—but the tree in her poems possesses a sharp rational edge: citizen, offering, peace performance, paper people. Hung Shu-ling noted that her view of history includes all residents of Taiwan's past, present, and future as citizens, including those who have become fertilizer for the soil.[^8]
+The flower metaphor too often writes women as being looked at, plucked, offered. A tree needs roots, wind, time. Du Pan Fang-ge's public image is easily harvested into the benevolent "Auntie Du Pan / Grandma Du Pan" — Chungli Literary District, Hakka cultural events, anthology covers — but the tree in her poems simultaneously has a rational hard edge: citizen, universal salvation, peace play, paper figures. Hung Shu-ling's guided reading notes that her historical view counts past, present, and future residents all as Taiwan citizens, including those already turned into fertilizer in the soil. [^8]
 
-The "Voice" entry in the National Museum of Taiwan History notes: at some point, only the faint voices heard by oneself were locked away; language lost its outlet, leaving one to wait day after day with solemn endurance. The tragedy of the cross-linguist is not a rhetorical device here, but a physiological loss of speech; Hakka poetry was the outlet she waited for and grew herself.[^5]
+The National Museum of Taiwan History's "Taiwan Women" entry cites "Voice": one knows not when the subtle voice only one truly listens to was locked, language lost its exit, one could only day after day seriously endure waiting for a new voice. [^5] The cross-language sorrow here is not rhetoric, it is physiological aphasia; Hakka poetry is the exit she waited for, and also grew herself.
 
-The VERSE reading also brought up "Home of Parents": her mother like a radiant rose in the chapel, while her father's tall shadow often loomed over her. The poem describes: "Another mother living in the cross / A father living in the mother / Two people living in one branch of the thorn of the radiant rose."[^8] Family was not a backdrop; it was the primary scene where she practiced how "structural oppression grows within the most intimate relationships." Clinic assistant, flower arrangement teacher, mother raising children, poet, Christian: when these identities were present together, the poetry had weight; stripping them away to leave only the label of "female poet" makes it light.[^8]
+VERSE's guided reading also brings out "Parents' Dwelling": mother in the chapel like a proud rose, father's tall shadow yet often looming; the poem writes "and there is a mother living in the cross / a father living in the mother / the two living in a thorn of the proud rose." [^8] Family is not backdrop; it is the first site where she practiced "how structural oppression grows in the most intimate relationships." Clinic assistant, flower arrangement teacher, mother raising children, poet, Christian: only when these identities are simultaneously present does the poetry have weight; split them apart leaving only the "woman poet" label, and it becomes light.
 
-> 📝 **Curator's Note**: Reading Du Pan Fang-ge by only focusing on her as a "Hakka representative writer" or "228 family member" misses half the story. Four axes must be active simultaneously—cross-linguistic, 228, Hakka woman, social critique—otherwise, she is just another plaque in a museum.
+> 📝 **Curator's note**: Reading Du Pan Fang-ge by only collecting "Hakka representative writer" or only "228 family member" both lose half. Four axes must run simultaneously — cross-language, 228, Hakka woman, social condemnation — for her not to be a single display panel in a memorial hall.
 
-## Awards, Manuscripts, and the Second Reading After Kolaru
+## Awards, Manuscripts, and the Second Round of Reading After Kolaqi
 
-Public institutions and academia later provided belated wreaths: the 2007 "Outstanding Contribution Award" from the Council for Cultural Affairs and the 2008 "Taiwan Literature Scholar Oxford Prize" from Truth University.[^1] On March 10, 2016, she passed away in her sleep at age 89; a representative of the Council for Cultural Affairs presented a presidential commendation at the memorial.[^1][^13]
+Government agencies and academia later supplied belated laurels: 2007 Hakka Affairs Council "Outstanding Contribution Award" and "Taiwan New Literature Contribution Award," 2008 Aletheia University "Taiwan Writer Oxford Award." [^1] On March 10, 2016, she passed away in her sleep at home, aged 89; at the memorial service, a Hakka Affairs Council representative presented a presidential citation. [^1][^13]
 
-In March 2017, her family donated **340 manuscripts** to the National Central Library—Japanese, Chinese, and Hakka texts laid out together like the papers of a lifelong linguistic battlefield.[^4] _The Taipei Times_ cited her 2004 comment on "Impression": "If you ask me why I write, you might as well ask me why I live."[^4]
+In March 2017, the family donated **340** manuscripts to the National Central Library — Japanese, Chinese, Hakka three scripts side by side, like stacking a lifetime's language battlefield into flippable pages. [^4] The _Taipei Times_ quotes her 2004 words to _Ink_: "If you ask me why I write, you might as well ask me why I live." [^4]
 
-Around 2021, the independent band **Kolaru**'s song "Ten Thousand Flowers, Compassionate Motherly Sorrow" became popular. The lyrics about "people with flesh and blood disappearing without a trace" were read by many as a depiction of White Terror. _Key Review_ placed this song alongside "Peace Performance": one shouting at the Bodhisattva, one watching the sugarcane under the stage—both are **indirect ways of writing when trauma is too direct to face**.[^2] Whether Kolaru's work is "officially certified" as a White Terror creation is not important; what matters is that a new generation's ears reconnected with the ethical lines written in 1977.
+Around 2021, the indie band **Kolaqi**'s "Myriad Flower Pistils, Compassionate Mother's Sorrow" exploded in popularity; the lyric "flesh-and-blood people gone missing" was read by masses as a White Terror scenario. The Critical Review Network juxtaposes this song with "Peace Play": one roars at the bodhisattva, one watches sugarcane under the stage — both are **indirect writing when trauma cannot be faced directly**. [^2] Whether Kolaqi is "officially certified" as White Terror creation doesn't matter; what matters is that a new generation's ears reconnected to the ethical circuit written in 1977.
 
-![Hakka Tung-hua festival dance and crowd. The transition of mother tongue from family speech to public culture was a long process after the late 1980s "Give Back My Mother Tongue" movement; Du Pan Fang-ge's Hakka poetry is one of the early structural supports for this effort in literature.](/article-images/people/dupan-hakka-tung-festival.webp)
-_Hakka Tung-hua Festival (2014)—The visibility of Hakka in public culture and the writing of Hakka in literature are different branches of the same river of revitalization. Photo via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2014%E5%AE%A2%E5%AE%B6%E6%A1%90%E8%8A%B1%E8%88%9E%E8%B9%88%E5%A4%A7%E8%B3%BD_Hakka_Tung_Blossom_Festival_-_panoramio.jpg)._
+![Hakka Tung Blossom Festival dance and crowds. Mother tongue moving from family speech into public cultural fields is the long engineering after the late-1980s Return Our Mother Tongue movement; Du Pan Fang-ge's Hakka poetry is one of the early load-bearing walls on the literary side of this engineering.](/article-images/people/dupan-hakka-tung-festival.webp)
+_Hakka Tung Blossom Festival event (2014) — Hakka visibility in public culture, and Hakka writing in literature, are different tributaries of the same long river of revitalization. Photo via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2014%E5%AE%A2%E5%AE%B6%E6%A1%90%E8%8A%B1%E8%88%9E%E8%B9%88%E5%A4%A7%E8%B3%BD_Hakka_Tung_Blossom_Festival_-_panoramio.jpg)._
 
-## Why Read Her in 2026?
+## Why Still Read Her in 2026
 
-In the coordinates of Taiwan.md, Du Pan Fang-ge occupies at least four intersections:
+In Taiwan.md's coordinates, Du Pan Fang-ge occupies at least four intersections:
 
-1. **Cross-linguistic Generation** — a female voice on the same historical operating table as Chen Chien-wu, Lin Heng-tai, and Chin Lien.
-2. **228 Victim Relative** — a literary continuation of the Chang Shih-lang line, not just a numerical footnote.
-3. **Hakka Female Poet** — the lifelong tension between the role of "good wife/mother" and the identity of a poet.
-4. **"Peace Performance"** — rewriting "peace" from a blessing into a question of political ethics.
+1. **Generation that crossed languages** — with Chen Chien-wu, Lin Heng-tai, Chin Lien, a woman's voice on the same historical operating table
+2. **228 victim family member** — literary continuation of the Chang Chi-lang line, not a numerical appendix
+3. **Hakka woman poet** — lifelong tug-of-war between virtuous wife and good mother role and poet subject
+4. **"Peace Play"** — rewriting "peace" from blessing into political ethical problem
 
-Adding the "Babel of Sovereignty": Hakka poetry is one of the Taiwan voices most likely to be ignored, rewritten, or left blank by large international models. Her insistence on writing in Hakka on paper is not just folk aesthetics; it is ensuring that a voice that would otherwise be silenced **exists first**. Existence itself is defense. Placing her poems in an open knowledge base means planting a stake of Taiwan's first-person perspective before the training data can be filtered out.
+If we add "Babel Tower of Sovereignty": Hakka poetry is one of the Taiwan languages that international large models most easily refuse, rewrite, or leave blank. Her insistence on Hakka on paper is not just nativist aesthetics; it is making a voice that would be silenced **exist first**. Existence itself is defense. Putting her poems into an open knowledge base equals driving a first-person Taiwan stake down before the training corpus gets filtered.
 
-Her primary collection path can be recorded as a short timeline: _Ching-shou_ (1977) $\rightarrow$ _Huanshan Wanhai_ (1986) $\rightarrow$ _Chao Ching_, _Yuan Qianhu_ (around 1990) $\rightarrow$ _Qing Feng Lan Bo_ (1993) $\rightarrow$ _The Season of Hibiscus_ (1997).[^1] Interspersed are her years in the U.S., Hakka experiments, poetry society administration, and award debates. If one only selects "Peace Performance" as a representative work, they miss the loss of voice in "Voice," the willingness in "Mid-Autumn Festival," the woman tree in "Longing Tree," and those family poems that seem to be about making dinner on autumn mornings but are actually about children leaving home.[^8]
+Her major poetry collections can be noted as a short timeline: _Ching-shou_ (1977) → _Huai-shan Wan-hai_ (1986) → _Chao-ching_, _Yuan-chien-hu_ (early 1990s) → _Ching-feng Lan-po_ (1993) → _Season of Hibiscus_ (1997). [^1] Interspersed are American years, Hakka experiments, poetry society administration, and award controversies. Reading anthologies, if one only extracts "Peace Play" as representative work, one misses the aphasia of "Voice," the willingness of "Ghost Festival," the woman tree of "Acacia Tree," and those family poems that appear to only write autumn morning cooking but actually write children leaving the nest. [^8]
 
-In Zhongli, her name was later inscribed into literary districts and local culture routes—poetry lines on walls, guided tours; even a passerby who might not buy a book might encounter the "woman tree" at a corner. This is a double-edged sword: public commemoration can easily turn a poet into a gentle landmark, but if the guide stops at that line in "Peace Performance," "maintaining their single remaining life," the street retains its edge. Hakka language education, radio readings, and re-editions of her collections are another quieter continuation: not a viral boom, but a voice heard repeatedly in mother tongue classrooms. For Taiwan's literary history, she didn't just add "another female poet"; she provided the cut that turned folk celebrations into pieces of political ethics, and a Hakka woman's voice rarely heard on the cross-linguistic operating table.
+In Chungli, her name was later written into the literary district and local cultural routes — verses on walls, tours forming lines, so that passersby who might not buy poetry collections could still encounter "woman tree" at an arcade corner. [^14] This is a double-edged sword: public commemoration easily harvests the poet into a gentle landmark, but if the tour is willing to stop at "Peace Play"'s line "keep the only life they have," the street retains its edge. Hakka language education, radio readings, anthology reprints are another, quieter continuation: not viral explosion, but the voice repeatedly read in mother tongue classrooms. For Taiwan literary history, what she filled in is not "yet another woman poet," but the rarely heard Hakka woman's voice on the cross-language operating table, and that one cut that wrote folk celebration into political ethical litmus paper.
 
-The stage may be dismantled; the sugarcane husks may be swept away. But every time someone says, "Don't cause trouble, just seek peace," that line from "Peace Performance"—"That is what you allowed them to perform"—will still ring out from both the Hakka and Chinese sides.
+The stage canopy may be dismantled, the sugarcane bagasse may be swept away. But every time someone says "don't make trouble, just seek peace," that line from "Peace Play" — "that is what you permit him to perform" — still rings out simultaneously from both Hakka and Chinese sides.
 
-She left in her sleep in 2016. Her manuscripts entered the library in 2017. A pop song brought young people back to the stage in 2021.
-Before closing this page, a reader can ask themselves one small thing:
+2016 she left in her sleep. 2017 manuscripts entered the library. 2021 a pop song brought young people back under the stage again.  
+Before the reader closes this page, they can ask themselves one very small thing —
 
-**Are you on the stage now, or are you under it, chewing sugarcane?**
+**"Right now, are you on the stage, or under it gnawing sugarcane?"**
 
 ---
 
-**Further Reading:**
+**Further Reading**:
 
-- [Li Poetry Society](/en/art/li-poetry-society) — The localist poetry network she joined in 1965.
-- [February 28 Incident](/en/history/228-incident) — The structure of island-wide trauma where the Chang Shih-lang case occurred.
-- [Taiwan White Terror](/en/history/taiwan-white-terror) — The institutional background for the political reading of "Peace Performance."
-- [Taiwan Literary History](/en/art/history-of-taiwanese-literature) — The long-term position of the cross-linguistic generation and mother tongue literature.
-- [Mo Na-neng](/en/people/monaneng) — Another path of "using non-mother tongue/Chinese to speak for a group."
-- [Modern Taiwanese Poetry](/en/art/taiwanese-modern-poetry) — A larger map of the post-war poetry community.
+- [Li Poetry Society](/en/art/li-poetry-society) — the nativist poetry society network she joined in 1965
+- [228 Incident](/en/history/228-incident) — the island-wide trauma structure where the Chang Chi-lang case sits
+- [Taiwan White Terror](/en/history/taiwan-white-terror) — the institutional background for the political reading of "Peace Play"
+- [Taiwan Literary History](/en/art/history-of-taiwanese-literature) — the long-durée position of the cross-language generation and mother tongue literature
+- [Mona Rudao](/en/people/monaneng) — another counterpoint path of "speaking for an ethnic group in non-mother tongue / Chinese characters"
+- [Taiwan Modern Poetry](/en/art/taiwanese-modern-poetry) — the larger map of postwar poetry society ecology
 
 ## Image Sources
 
-This article uses **landscape and cultural context images** in place of scarce CC portraits (2026-07-12 search on Wikimedia/Wiki entries showed no stable reusable portraits):
+This article uses **landscape and cultural context images** in place of scarce CC portraits (checked Wikimedia / Wikipedia entries 2026-07-12, no stable reusable portraits):
 
-- [Xinpu Pan House Panorama](https://commons.wikimedia.org/wiki/File:%E6%96%B0%E5%9F%94%E6%BD%98%E5%B1%8B%E5%85%A8%E6%99%AF.jpg) — Hero, family landscape.
-- [Xinpu Wu Cho-lu Residence](https://commons.wikimedia.org/wiki/File:%E6%96%B0%E5%9F%94%E5%90%B3%E6%BF%81%E6%B5%81%E6%95%85%E5%B1%85.jpg) — Fellow hometown cross-linguistic literary network.
-- [Hakka Compound, Tongluo, Miaoli](<https://commons.wikimedia.org/wiki/File:Hakka_Compound,_Tongluo,_Miaoli_(Taiwan).jpg>) $\rightarrow$ Hakka living space.
-- [2014 Hakka Tung-hua Dance Competition](https://commons.wikimedia.org/wiki/File:2014%E5%AE%A2%E5%AE%B6%E6%A1%90%E8%8A%B1%E8%88%9E%E8%B9%88%E5%A4%A7%E8%B3%BD_Hakka_Tung_Blossom_Festival_-_panoramio.jpg) — Visibility of mother tongue in public culture.
+- [Hsinpu Pan House Panorama](https://commons.wikimedia.org/wiki/File:%E6%96%B0%E5%9F%94%E6%BD%98%E5%B1%8B%E5%85%A8%E6%99%AF.jpg) — hero, family landscape
+- [Hsinpu Wu Cho-liu Former Residence](https://commons.wikimedia.org/wiki/File:%E6%96%B0%E5%9F%94%E5%90%B3%E6%BF%81%E6%B5%81%E6%95%85%E5%B1%85.jpg) — hometown cross-language literary network
+- [Hakka Compound, Tongluo, Miaoli](<https://commons.wikimedia.org/wiki/File:Hakka_Compound,_Tongluo,_Miaoli_(Taiwan).jpg>) — Hakka living field
+- [2014 Hakka Tung Blossom Dance Competition](https://commons.wikimedia.org/wiki/File:2014%E5%AE%A2%E5%AE%B6%E6%A1%90%E8%8A%B1%E8%88%9E%E8%B9%88%E5%A4%A7%E8%B3%BD_Hakka_Tung_Blossom_Festival_-_panoramio.jpg) — mother tongue public culture visibility
 
-Optional Video: "Du Pan Fang-ge Literary District" and other public programs by Hakka TV (YouTube), for expansion rather than essential content.
+Optional audiovisual: Hakka TV / cultural features "Du Pan Fang-ge Literary District" and other public programs (YouTube), as extension not required for main text.
 
 ## References
 
-[^1]: [Wikipedia — Du Pan Fang-ge](https://zh.wikipedia.org/zh-hant/%E6%9D%9C%E6%BD%98%E8%8A%B3%E6%A0%BC) — Birth/death, Xinpu origin, Li Poetry Society 1965, collection timeline, Chang Shih-lang history, awards, and 2016 passing.
+[^1]: [Wikipedia — Du Pan Fang-ge](https://zh.wikipedia.org/zh-hant/%E6%9D%9C%E6%BD%98%E8%8A%B3%E6%A0%BC) — Birth and death, Hsinpu origin, Li Poetry Society 1965, poetry collection timeline, Chang Chi-lang family history, awards, and 2016 passing.
 
-[^2]: [Key Review — Kolaru and Du Pan Fang-ge's "Peace Performance"](https://www.thenewslens.com/article/148153) — 2021 review quoting the full text of the 1977 Chinese version of "Peace Performance" and reading the hidden White Terror context.
+[^2]: [The Critical Review Network — Kolaqi and Du Pan Fang-ge "Peace Play"](https://www.thenewslens.com/article/148153) — 2021 article citing full text of _Ching-shou_ 1977 Chinese version "Peace Play," parallel reading White Terror hidden writing.
 
-[^3]: [February 28 Memorial Foundation — Chang Shih-lang](https://www.228.org.tw/228heroes/6359bf2c-bd93-4b7c-9821-503e26939c46) — Facts of the martyrdom of Dr. Chang Shih-lang and his sons in Hualien and local political background.
+[^3]: [228 Memorial Foundation — Chang Chi-lang](https://www.228.org.tw/228heroes/6359bf2c-bd93-4b7c-9821-503e26939c46) — Hualien Fenglin physician Chang Chi-lang and sons' 228 martyrdom facts and local political background.
 
-[^4]: [Taipei Times — The sweet sound of the mother tongue](https://www.taipeitimes.com/News/feat/archives/2017/03/05/2003666154) — 2017 feature: 340 manuscripts, cross-linguist definition, Hakka turn, and discourse on forced language.
+[^4]: [Taipei Times — The sweet sound of the mother tongue](https://www.taipeitimes.com/News/feat/archives/2017/03/05/2003666154) — 2017 feature: 340 manuscripts, cross-language definition, Hakka turn, and forced language discourse.
 
-[^5]: [Taiwan Woman — Transgressive Hakka Female Poet Du Pan Fang-ge](https://women.nmth.gov.tw/?p=2062) — National Museum of Taiwan History entry, including "Voice" quote and Li Poetry Society context.
+[^5]: [Taiwan Women — The Boundary-Crossing Hakka Woman Poet Du Pan Fang-ge](https://women.nmth.gov.tw/?p=2062) — National Museum of Taiwan History entry, including "Voice" quoted verse and Li Poetry Society context.
 
-[^6]: [Wikipedia — Chang Shih-lang](https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E4%B8%83%E9%83%8E) — Life of Chang Shih-lang and 228 martyrdom; cross-reference with Du Pan Fang-ge's "maternal uncle" narrative.
+[^6]: [Wikipedia — Chang Chi-lang](https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E4%B8%83%E9%83%8E) — Chang Chi-lang life and 228 killing; cross-referenced with Du Pan Fang-ge's "uncle" family history narrative.
 
-[^7]: [Wikipedia — Li Poetry Society](https://zh.wikipedia.org/zh-hant/%E7%AC%A0%E8%A9%A9%E7%A4%BE) — Localist poetry society founded in 1964; joined by Du Pan Fang-ge in 1965, not a founding member.
+[^7]: [Wikipedia — Li Poetry Society](https://zh.wikipedia.org/zh-hant/%E7%AC%A0%E8%A9%A9%E7%A4%BE) — Nativist poetry society founded 1964; Du Pan Fang-ge joined 1965, not a founding member.
 
-[^8]: [VERSE — Reading Du Pan Fang-ge](https://www.verse.com.tw/article/hakka-du-pan-fang-ge) — Hung Shu-ling's 2023 reading: Woman Tree, Hakka end of "Peace Performance," and civic poetry view.
+[^8]: [VERSE — Guided Reading Du Pan Fang-ge](https://www.verse.com.tw/article/hakka-du-pan-fang-ge) — Hung Shu-ling 2023 guided reading: woman tree, Peace Play Hakka ending, citizen poetics.
 
-[^9]: [National Museum of Taiwan Literature Collection — Peace Performance (Hakka Poem)](https://collections.culture.tw/nmtl_collectionsweb/GalData.aspx?GID=M1MHMAMAMXMD) — Manuscript dated 1995, author Pan Fang-ge (Du Pan Fang-ge).
+[^9]: [National Museum of Taiwan Literature Collection — Peace Play (Hakka Poem)](https://collections.culture.tw/nmtl_collectionsweb/GalData.aspx?GID=M1MHMAMAMXMD) — Manuscript date 1995, author Pan Fang-ge (Du Pan Fang-ge).
 
-[^10]: [Read a Poem for You Every Day — Mid-Autumn Festival ◎ Du Pan Fang-ge](https://cendalirit.blogspot.com/2016/05/20160525.html) — Selected Hakka full text and vocabulary notes from "Qing Feng Lan Bo."
+[^10]: [Read You a Poem Every Day — Ghost Festival ◎ Du Pan Fang-ge](https://cendalirit.blogspot.com/2016/05/20160525.html) — Selected from _Ching-feng Lan-po_ Hakka full text with vocabulary notes.
 
-[^11]: [Human Fortune — Du Pan Fang-ge's "Paper People"](https://www.merit-times.com.tw/NewsPage.aspx?unid=241341) — Key lines of "Paper People" and contemplation on faith.
+[^11]: [Merit Times — Du Pan Fang-ge's "Paper Figures"](https://www.merit-times.com.tw/NewsPage.aspx?unid=241341) — "Paper Figures" key sentences and faith dimension appreciation.
 
-[^12]: [Taiwan New Culture — Redemption through Pain: Religion and Literature](https://www.twcenter.org.tw/thematic_series/character_series/taiwan_litterateur_interview/b01_7101/b01_7101_1) --- 1997 interview with Zhuang Zi-yong: Japanese warehouse, Hakka hesitation, Chen Hsiu-hsiu award debate.
+[^12]: [Taiwan New Culture — Painful Redemption: Religion and Literature](https://www.twcenter.org.tw/thematic_series/character_series/taiwan_litterateur_interview/b01_7101/b01_7101_1) — 1997 Chuang Tzu-jung interviews Du Pan Fang-ge: Japanese warehouse, Hakka hesitation, Chen Hsiu-hsi Award controversy.
 
-[^13]: [English Wikipedia — Fangge Dupan](https://en.wikipedia.org/wiki/Fangge_Dupan) — English birth/death, cross-linguist positioning, and 2016 memorial summary.
+[^13]: [English Wikipedia — Fangge Dupan](https://en.wikipedia.org/wiki/Fangge_Dupan) — English birth/death, cross-language positioning, 2016 memorial citation and other internationally readable summary.
 
-[^14]: [Wen-Xun Author Page — Du Pan Fang-ge](https://www.wenhsun.com.tw/authorsite/detail/15) --- Biography supplement and "cross-linguistic generation" verification.
+[^14]: [Wen Hsün Writer Page — Du Pan Fang-ge](https://www.wenhsun.com.tw/authorsite/detail/15) — Biographical supplement and cross-verification of "generation that crossed languages" positioning.
 
-[^15]: [Council for Cultural Affairs English Reading — Du Pan Fang-ge](https://english.hakka.gov.tw/Content/Content?NodeID=670&PageID=39821&LanguageType=ENG) --- Council for Cultural Affairs' English introduction: Japanese/Chinese/Hakka writing and themes of colonial oppression.
+[^15]: [Hakka Affairs Council English Guide — Du Pan Fang-ge](https://english.hakka.gov.tw/Content/Content?NodeID=670&PageID=39821&LanguageType=ENG) — Hakka Affairs Council English introduction: Japanese/Chinese/Hakka writing and colonial oppression themes.

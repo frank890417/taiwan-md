@@ -1,16 +1,16 @@
 ---
-title: "Chu Tien-wen: 1956 Taipei, from 'San San Chi Kan' to 'A City of Sadness' Venice Golden Lion"
-description: "Born in Taipei in 1956, daughter of Chu Hsi-ning. In 1977, co-founded 'San San Chi Kan' with Hu Lan-cheng and others. Long-time screenwriter for Hou Hsiao-hsien; her representative work 'A City of Sadness' won the Venice Golden Lion in 1989. In 1994, 'Notes of a Desolate Man' won the China Times Literature Award first prize. Screenwriting credits include 'Good Men, Good Women' and 'Goodbye South, Goodbye.'"
+title: 'Chu Tien-wen: 1956 Taipei, from "San San Journal" to the Golden Lion for "A City of Sadness"'
+description: "A novelist and screenwriter raised in a literary family in Taipei; her father was the novelist Chu Hsi-ning. In 1977, she co-founded the San San Journal with Hu Lan-cheng and others. Since the 1980s, she has maintained a forty-year collaborative relationship with director Hou Hsiao-hsien. The screenplay she wrote for A City of Sadness uses poetic language to navigate Taiwan's family history, winning the Golden Lion at the Venice Film Festival in 1989. In 1994, her novel Notes of a Wild Man won the first prize in the China Times Literary Award, demonstrating her ability to master both film and literary forms."
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Literature',
-    'Film Screenwriter',
+    'Screenwriter',
     'Hou Hsiao-hsien',
     'Chu Hsi-ning',
     'San San Literature',
-    'Notes of a Desolate Man',
+    'Notes of a Wild Man',
   ]
 subcategory: '文學'
 author: 'Taiwan.md'
@@ -21,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/朱天文.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '2a5b98d9cd'
 sourceContentHash: 'sha256:13c80c1f151f5c3e'
 sourceBodyHash: 'sha256:bf6107b943cdb54e'
-translatedAt: '2026-11-04T21:40:05.217672+00:00'
+translatedAt: '2026-11-26T23:58:43.540450+00:00'
 ---
 
 # Chu Tien-wen: 1956 Taipei, from _San San Journal_ to _A City of Sadness_ and the Golden Lion at Venice

@@ -1,15 +1,15 @@
 ---
-title: 'Bai Xianyong: Taipei People (1971) and Twenty Years of Youth Edition Peony Pavilion Tours'
-description: "Born in Guilin, Guangxi in 1937, he is the son of Bai Chongxi. In 1956, while studying at National Taiwan University's Department of Foreign Languages, he co-founded Modern Literature with Wang Wenxing and others. In 1971, he published 14 short stories in Taipei People. In 1983, he published Nie Zi (The Sinful Child). He started the Youth Edition Peony Pavilion in 2003, which premiered in April 2004, celebrating its 20th anniversary in 2024. He received the National Arts Prize in 2003."
+title: 'Bai Xianyong: From Taipei People in 1971 to Two Decades of Touring the Youth Version of The Peony Pavilion'
+description: 'The author of Taipei People and Sin of the Sons was born in Guilin, Guangxi; his father was the Kuomintang general Bai Chongxi. In 1956, he entered the Department of Foreign Languages and Literatures at National Taiwan University, where he co-founded Modern Literature with figures such as Wang Wenxing and Chen Ruoxi, introducing Western modernism to the Taiwanese literary scene. He published the short story collection Taipei People in 1971 and Sin of the Sons in 1983. In his later years, he dedicated himself to the preservation of Kunqu opera; in 2003, he received the National Cultural Arts Award and launched the Youth Version of The Peony Pavilion, which had its Taipei premiere in April 2004 and has since completed over three hundred performances.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'literature',
-    'modern literature',
+    'Literature',
+    'Modern Literature',
     'Taipei People',
-    'Nie Zi',
-    'Kunqu',
+    'Sin of the Sons',
+    'Kunqu Opera',
     'Bai Chongxi',
   ]
 subcategory: '文學'
@@ -21,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/白先勇.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '630afb2b66'
 sourceContentHash: 'sha256:d675a47ee18feb3d'
 sourceBodyHash: 'sha256:44085a78b193e440'
-translatedAt: '2026-11-04T21:36:46.815269+00:00'
+translatedAt: '2026-11-26T23:56:08.083594+00:00'
 ---
 
 # Pai Hsien-yung: Taipei People (1971) to the Youth Edition of the Peony Pavilion's 20-Year Tour

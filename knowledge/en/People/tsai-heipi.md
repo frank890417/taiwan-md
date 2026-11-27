@@ -1,6 +1,6 @@
 ---
-title: 'Cai Heipi: The Boy Who Grew Up Memorizing MRT Station Names, Packing Taiwan into 260,000 Subscribers'
-description: 'Born in 2002, Cai Jian-an started with "MRT Trivia" in high school; twelve years later, he stood on the stage of the Golden Road Awards, known as the "Oscars of the Transportation Industry." He changed his name, paused, and started again, handling research, maps, and editing himself—a model of long-termism for Taiwan''s knowledge creators.'
+title: 'Cai Heipi: The Boy Who Grew Up with MRT Station Names, Packing Taiwan into 260,000 Subscriptions'
+description: 'A Taiwanese knowledge-based YouTuber born in 2002. He started filming in high school after noticing a lack of transportation-themed content, with his first video focusing on Taipei MRT trivia. Handling research, mapping, scripting, and editing single-handedly, he has accumulated over a hundred videos on transportation infrastructure through his "Railway Bar" series. After a nine-month hiatus starting in early 2025, he returned on his channel''s twelfth anniversary with a name change and the launch of the "Taiwan 360" local culture series. That same year, he received the Special Contribution Award at the 26th Golden Railway Awards, and his videos have even been included in high school geography textbooks.'
 date: 2026-08-19
 category: 'People'
 tags:
@@ -8,10 +8,10 @@ tags:
     'YouTuber',
     'Transportation',
     'Knowledge Creator',
-    'Cai Jian-an',
-    'Golden Road Awards',
+    'Cai Rongan',
+    'Golden Railway Awards',
     'Taiwan Geography',
-    'Railways',
+    'Railway',
   ]
 subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
@@ -25,10 +25,10 @@ imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:2017-10-23_MRT_train_at_Platform,_Tamsui_Line.jpg'
 curation: 'incubating'
 translatedFrom: 'People/蔡黑皮.md'
-sourceCommitSha: 'e75b621d2'
+sourceCommitSha: '3f269cde5e'
 sourceContentHash: 'sha256:e43b16ae63cbdb17'
 sourceBodyHash: 'sha256:1cde30bd00a46d49'
-translatedAt: '2026-09-10T00:58:57+08:00'
+translatedAt: '2026-11-26T23:31:07.644774+00:00'
 ---
 
 > **30-Second Overview:** Cai Jian-an (channel name "Cai Heipi," early username "Heipi") was born in 2002. He began making videos in high school because he felt "no one was covering transportation topics," with his first work being _10 Things You Didn't Know About Taipei MRT_. Twelve years later, he stood on the stage of the 26th Golden Road Awards, hailed as the "Oscars of the Transportation Industry," to receive the Special Contribution Award. The core tension of this story lies in this: in early 2025, he announced a hiatus, and the channel went silent for half a year. Everyone thought he was disappearing, but his return with the "Taiwan 360" local series actually exerted a deeper force. The Wuchiu special feature topped the channel homepage, with views breaking 100,000. A boy who grew up memorizing MRT station names ultimately pointed his lens at the most forgotten corners on the map. This article is not about the rise of an internet celebrity, but about how a creator found the reason why he had to keep going amidst the contradiction of "no one watches when I post, but people wait when I stop."
