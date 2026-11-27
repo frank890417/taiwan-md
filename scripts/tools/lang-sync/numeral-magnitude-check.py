@@ -93,6 +93,12 @@ def zh_figures(zh_text: str) -> list[tuple[str, float, str]]:
 # 與疫苗〉的「五億元」譯成 500 million 是對的，但只認阿拉伯數字的版本看不到它，於是另一處
 # 「500萬劑」被報成換算錯，en、fr 兩隻 agent 都得手動查證一次。
 ZH_CN_NUM = re.compile(r"([零一二兩三四五六七八九十百千]+)[多餘]?([萬万億亿兆])")
+# 不帶數字的量級慣用語（「破億」「上萬」「逾億」）也是一個量，底數當 1 算（2026-11-28
+# babel-nightly）：〈木曜4超玩〉一條腳註的新聞標題寫「百天破億」，譯文正確寫成
+# `100 million in 100 days`，但孿生數字表裡沒有這個 1 億，於是內文另一處「100 萬觀看」
+# 被報成沒換算。en／de／fr／id 四語、兩種模型當天敗了十次，每次都是同一句。照舊用次數
+# 對帳：中文有幾處這種慣用語，譯文就最多有幾處能被它解釋。
+ZH_BARE_MAG = re.compile(r"[破上過逾近]([萬万億亿兆])")
 _CN_DIGIT = {"零": 0, "一": 1, "二": 2, "兩": 2, "三": 3, "四": 4, "五": 5, "六": 6, "七": 7, "八": 8, "九": 9}
 _CN_UNIT = {"十": 10, "百": 100, "千": 1000}
 
@@ -118,6 +124,8 @@ def zh_values(zh_text: str) -> list[float]:
             continue
     for m in ZH_CN_NUM.finditer(zh_text):
         vals.append(float(_cn_int(m.group(1))) * (10 ** ZH_MAG[m.group(2)]))
+    for m in ZH_BARE_MAG.finditer(zh_text):
+        vals.append(float(10 ** ZH_MAG[m.group(1)]))
     return vals
 
 

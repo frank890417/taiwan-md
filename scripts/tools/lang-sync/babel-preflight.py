@@ -421,6 +421,43 @@ def check_slug_registration() -> dict:
     return {"available": True, "unslugged": unslugged}
 
 
+def duplicate_footnote_ids(text: str) -> list[str]:
+    """一份 markdown 裡被定義超過一次的腳註編號（`[^N]:` 行首定義）。"""
+    import re
+    from collections import Counter
+    counts = Counter(re.findall(r"^\[\^([^\]]+)\]:", text, flags=re.M))
+    return [k for k, v in counts.items() if v > 1]
+
+
+def check_footnote_ids() -> dict:
+    """母稿裡同一個腳註編號定義了兩次的文章。
+
+    為什麼放在 preflight（2026-11-28 babel-nightly）：分段引擎的腳註階段用編號當 key，
+    重複的編號會被收成一條，驗證永遠是 `count mismatch: zh=N translated=N-1`，跟模型
+    無關、重試無用。〈嘉義市〉11-27 一次勘誤新增的腳註沿用了既有的 [^23]，十二語兩個
+    worker 當天敗了 40 次，report 只寫「no output written」，還把兩個 worker 各凍結
+    數次（REFLEXES #38 (d)：確定性缺陷記成模型失敗）。這裡只量、不修：哪一條該改號、
+    內文哪個引用指哪一條，要讀過文章才知道。
+    """
+    knowledge = REPO / "knowledge"
+    try:
+        from langs import ALL_TRANSLATION_LANGS
+    except Exception as e:  # noqa: BLE001 — 自檢工具不因讀檔失敗中斷
+        return {"available": False, "error": str(e)}
+    dup = {}
+    for p in sorted(knowledge.glob("*/*.md")):
+        cat = p.parent.name
+        if cat in ALL_TRANSLATION_LANGS or cat.startswith("_") or p.name.startswith("_"):
+            continue
+        try:
+            ids = duplicate_footnote_ids(p.read_text(encoding="utf-8"))
+        except Exception:  # noqa: BLE001
+            continue
+        if ids:
+            dup[f"{cat}/{p.name}"] = ids
+    return {"available": True, "duplicates": dup}
+
+
 def check_codex() -> dict:
     path = shutil.which("codex")
     if not path:
@@ -468,6 +505,7 @@ def main():
         "codex": check_codex(),
         "track_record": check_track_record(),
         "slug_registration": check_slug_registration(),
+        "footnote_ids": check_footnote_ids(),
     }
     report["pool_eligibility"] = check_pool_eligibility(report["ollama"])
     report["cloud_pool"] = check_cloud_pool()
@@ -573,6 +611,15 @@ def main():
                   "（dispatcher 每輪重讀，不必重啟）")
         elif sr.get("available"):
             print("   ✅ slug 登記  每篇母稿都排得進佇列")
+        fi = report["footnote_ids"]
+        if fi.get("duplicates"):
+            n = len(fi["duplicates"])
+            print(f"   ⚠️ 腳註重號  {n} 篇母稿有腳註編號定義了兩次，分段引擎每次都會敗在腳註數對不上："
+                  + "、".join(f"{z}（{len(ids)} 個）" for z, ids in list(fi["duplicates"].items())[:3])
+                  + ("…" if n > 3 else ""))
+            print("      → 改母稿的編號（連同內文引用），不要重試；改完 dispatcher 下一輪自己會接")
+        elif fi.get("available"):
+            print("   ✅ 腳註編號  母稿沒有重複定義的腳註")
         if report["verdict"] != "healthy":
             print("\n   ⚠️ 算力層缺席會讓 babel 靜默降級（產能掉但 log 看起來正常）。"
                   "\n      缺 key → 只跑本機模型；缺 ollama → 只跑雲端且無主權捕手。")

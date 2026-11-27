@@ -89,3 +89,25 @@ def test_approximate_chinese_numeral_counts_as_a_twin(tmp_path):
 def test_arabic_approximate_figure_is_still_checked(tmp_path):
     hits = run(tmp_path, "累計 1,000多億 元。", "A cumulative 1,000 billion dollars.", "en")
     assert len(hits) == 1
+
+
+def test_bare_magnitude_idiom_counts_as_a_twin(tmp_path):
+    # 「百天破億」正確譯成 100 million，不該讓另一處「100 萬觀看」被報成沒換算
+    zh = "影片十天達到 100 萬觀看。標題寫〈網友：百天破億〉。"
+    out = "The video reached 1 million views in ten days. Headline: '100 million in 100 days'."
+    assert run(tmp_path, zh, out, "en") == []
+
+
+def test_bare_magnitude_idiom_explains_only_one_occurrence(tmp_path):
+    # 慣用語只有一處，譯文兩處 100 million，多出來的那處仍然要報
+    zh = "影片十天達到 100 萬觀看。標題寫〈網友：百天破億〉。"
+    out = "The video reached 100 million views in ten days. Headline: '100 million in 100 days'."
+    hits = run(tmp_path, zh, out, "en")
+    assert len(hits) == 1 and "差 100 倍" in hits[0]
+
+
+def test_without_the_idiom_the_miss_is_still_caught(tmp_path):
+    zh = "影片十天達到 100 萬觀看。"
+    out = "The video reached 100 million views in ten days."
+    assert len(run(tmp_path, zh, out, "en")) == 1
+
