@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
 last_updated: 2026-11-28
-last_session: '2026-11-28-053938-twmd-routine-sync（例行對賬零漂移）'
+last_session: '2026-11-28-064123-twmd-spore-harvest-am（補掃動態頁，#53 重抓）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -393,3 +393,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-28 | 053938-twmd-routine-sync | 例行對賬：prompt 19/19 一致、零漂移，連十一天；本機與 origin 同步；甦醒檔整份讀到 sentinel；cron 仍只比鏡像，沒直讀排程器 | 連兩班少做同一步，就寫成交接 | [→](memory/2026-11-28-053938-twmd-routine-sync.md) |
 | 2026-11-28 | 051606-twmd-embeddings-nightly | 完整重建：13 語 15,379 向量零失敗、verify PASS，`be57a33359`；起跑前併回 origin 一個 commit；11-27 那班有索引 commit 卻沒有 memory，交 routine-audit | 缺的 memory 不會讓任何燈亮 | [→](memory/2026-11-28-051606-twmd-embeddings-nightly.md) |
 | 2026-11-28 | 060246-twmd-data-refresh-am | 早班刷新十四步全過、15 個 dashboard 0 stale；九個過期指標逐一查出處零更新，三個是讀不到；404 單日連四天上升到 6,505 | 沒讀到和沒發布，在燈上長得一樣 | [→](memory/2026-11-28-060246-twmd-data-refresh-am.md) |
+| 2026-11-28 | 064123-twmd-spore-harvest-am | Chrome 恢復連線，補掃兩個動態頁零新留言；#53 黑冠麻鷺被引用，重抓到 11 萬次瀏覽寫一筆；E 桶引用貼文照 SOP 不回 | 重抓條件靠動靜，安靜長大的孢子量不到 | [→](memory/2026-11-28-064123-twmd-spore-harvest-am.md) |

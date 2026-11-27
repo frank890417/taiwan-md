@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-27T22:05:53.342773Z",
+  "lastUpdated": "2026-11-27T22:44:37.876382Z",
   "schemaVersion": "1.1",
   "totals": {
     "count": 166,
@@ -166,6 +166,18 @@
       "url": "https://www.threads.com/@taiwandotmd/post/DZhFf9kDC3P"
     },
     {
+      "n": 53,
+      "article": "黑冠麻鷺",
+      "platform": "threads",
+      "views": 110000,
+      "viewsSource": "7d",
+      "engagements": 3850,
+      "rate": 3.5,
+      "badge": "🔥 平台最強",
+      "date": "2026-04-30",
+      "url": "https://www.threads.com/@taiwandotmd/post/DXwjz-nk9Iq"
+    },
+    {
       "n": 144,
       "article": "報導者",
       "platform": "threads",
@@ -188,27 +200,15 @@
       "badge": "⭐ 高峰",
       "date": "2026-04-19",
       "url": "https://www.threads.com/@taiwandotmd/post/DXTr5QLkfgp"
-    },
-    {
-      "n": 54,
-      "article": "黑冠麻鷺",
-      "platform": "x",
-      "views": 69664,
-      "viewsSource": "7d",
-      "engagements": 2009,
-      "rate": 2.88,
-      "badge": "⭐ 高峰",
-      "date": "2026-04-30",
-      "url": "https://x.com/taiwandotmd/status/2049854898108522575"
     }
   ],
   "amplification": [],
   "platformComparison": {
     "threads": {
       "count": 63,
-      "avgViews": 29199,
+      "avgViews": 29914,
       "maxViews": 430000,
-      "avgRate": 5.34,
+      "avgRate": 5.29,
       "maxRate": 15.11
     },
     "x": {
@@ -820,8 +820,8 @@
       "publishDate": "2026-04-30",
       "daysSincePublish": 212,
       "withinHarvestWindow": false,
-      "harvestCount": 2,
-      "lastHarvest": "2026-05-08 21:30"
+      "harvestCount": 3,
+      "lastHarvest": "2026-11-28 06:44"
     },
     {
       "n": 54,
