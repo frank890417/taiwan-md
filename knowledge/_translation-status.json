@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-27T09:03:48+08:00",
-    "zhCommitHead": "f3fb01675f",
+    "lastUpdated": "2026-11-27T09:03:56+08:00",
+    "zhCommitHead": "77d3d190f8",
     "totalZh": 1194,
     "activeLanguages": [
       "en",
@@ -84,8 +84,8 @@
       },
       "hi": {
         "total_zh": 1194,
-        "fresh": 1159,
-        "stale": 13,
+        "fresh": 1160,
+        "stale": 12,
         "metadata_stale": 22,
         "missing": 0,
         "orphan": 0
@@ -122546,20 +122546,18 @@
         "hi": {
           "path": "hi/People/tu-pan-fangke.md",
           "translatedFrom": "People/杜潘芳格.md",
-          "sourceCommitSha": "be13f045",
-          "sourceContentHash": "sha256:d405136a29d9431e",
-          "sourceBodyHash": "sha256:b0195c9685eb2443",
-          "translatedAt": "2026-09-25T16:58:27+08:00",
+          "sourceCommitSha": "630afb2b66",
+          "sourceContentHash": "sha256:8e17d8aaa786cb83",
+          "sourceBodyHash": "sha256:95dcdf29fa593f4b",
+          "translatedAt": "2026-11-27T07:30:42+08:00",
           "translationLastCommit": "2077c41c",
           "translationLastModified": "2026-11-19T01:18:05+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "bytes": 65507,
+          "bytes": 67433,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/tu-pan-fangke.md",

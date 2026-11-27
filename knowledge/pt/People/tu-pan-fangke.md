@@ -1,20 +1,20 @@
 ---
-title: 'Du Pan Fang-ge: três línguas, uma peça de "paz"'
-description: 'Poeta hakka da geração que cruzou línguas, familiar de vítimas da família Chang Chi-lang no 228. "Peça de Paz" transforma o ritual popular de agradecimento aos deuses em registro de cumplicidade na sobrevivência sob o terror branco — aqueles a quem o regime tirou a língua, a frase mais dura na língua materna é escrita para os seus.'
+title: 'Du Pan Fangge: três línguas, uma peça de paz'
+description: 'Poetisa hakka da geração translinguística, aprendeu japonês durante o período colonial japonês, foi forçada a reescrever em chinês após a guerra e, antes e depois do fim da lei marcial, voltou a escrever poesia em hakka. O tio-avô materno, o médico Zhang Qilang de Hualien, e seu filho foram mortos no incidente 228; essa história familiar tornou-se o negativo ético de sua poesia de alegoria política. Em 1977, "Pingan" transformou o palco de agradecimento aos deuses do inverno hakka em um registro de cúmplices de sobrevivência sob o terror branco. Nos últimos anos, recebeu o Prêmio de Contribuição Excepcional do Conselho Hakka; após sua morte, a família doou 340 manuscritos em três línguas: japonês, chinês e hakka.'
 date: 2026-07-12
 category: 'People'
 tags:
   [
-    'figuras',
-    'Du Pan Fang-ge',
-    'hakka',
-    'poeta',
-    'Li Poetry Society',
-    'geração que cruzou línguas',
-    '228',
-    'poesia em hakka',
-    'peça de paz',
-    'literatura feminina',
+    'Personalidade',
+    'Du Pan Fangge',
+    'Hakka',
+    'Poeta',
+    'Sociedade de Poesia Li',
+    'Geração translinguística',
+    'Incidente 228',
+    'Poesia em hakka',
+    'Pingan',
+    'Literatura feminina',
   ]
 subcategory: '文學與詩人 / 客家文化人'
 author: 'Taiwan.md'
@@ -31,10 +31,10 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:新埔潘屋全景.jpg'
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/杜潘芳格.md'
-sourceCommitSha: 'be13f045'
-sourceContentHash: 'sha256:d405136a29d9431e'
-sourceBodyHash: 'sha256:b0195c9685eb2443'
-translatedAt: '2026-07-27T22:12:15+08:00'
+sourceCommitSha: '630afb2b66'
+sourceContentHash: 'sha256:8e17d8aaa786cb83'
+sourceBodyHash: 'sha256:95dcdf29fa593f4b'
+translatedAt: '2026-11-27T00:53:18.948419+00:00'
 ---
 
 # Du Pan Fang-ge: três línguas, uma peça de "paz"
@@ -114,14 +114,14 @@ Mesma ética, trocada a musculatura bucal. Para a poeta translinguística, não 
 
 A mesma ética pode ser relida em qualquer época: silêncio interno nas empresas, espectador nas escolas, "buscar autoproteção primeiro" nas redes sociais. Não é relativizar o terror branco, mas reconhecer que Du Pan Fang-ge forjou da experiência histórica especial uma **frase ética transplantável** — por isso uma canção pop de 2021 pôde se conectar aos versos de 1977. [^2]
 
-## O porco sagrado mordendo a "vontade": o outro espelho de 〈Festival dos Fantasmas〉
+## O porco de oferenda com a "Vontade" no focinho: o outro espelho do 〈Festival Zhongyuan〉
 
-Se "Peça de Paz" olha a plateia, "Festival dos Fantasmas" (〈中元節〉) olha o porco no altar. A versão hakka escreve: o grande porco sagrado tem na boca um fruto chamado "vontade", e quem enfiou a "vontade" nele, "sou eu, não és tu". [^10] Na animação do festival universal, alguém na multidão "não lembra que tu és da mesma espécie". Alguém fica cada vez mais claro de que é "pessoa solitária, coração de bananeira". [^10]
+Se a 〈Ópera da Paz〉 olha para a plateia, o 〈Festival Zhongyuan〉 olha para o porco no altar. A versão em hakka diz: o grande porco de oferenda traz no focinho uma fruta chamada "Vontade", e quem enfiou a "Vontade" lá dentro "sou eu, ou então é você". [^10] Na agitação da oferenda universal, há quem na multidão "não se lembra de quem você mesmo é". Há quem fique cada vez mais claro que é "pessoa solitária de coração de bananeira". [^10]
 
-Isso fica especialmente cortante quando justaposto ao vocabulário de fé de "Boneco de Papel" (〈紙人〉): o boneco de papel balança com uma brisa de outono, ela escreve "meu corpo é vasilha, meu coração é templo", querendo achar "pessoa verdadeira" num mundo cheio de bonecos. [^11] A poeta cristã desmonta festas populares, não para criar polêmica cultural, mas para perguntar: **a quem se exige vontade, quem tem o direito de assistir.**
+Isso se torna especialmente gritante quando justaposto ao vocabulário de fé de 〈Boneco de Papel〉: o boneco de papel balança basta o vento de outono soprar, ela escreve "meu corpo é vasilha, meu coração é templo", querendo encontrar "pessoa verdadeira" num mundo cheio de bonecos de papel. [^11] A poeta cristã desmonta as festas populares, não para alimentar polêmica de guerra cultural, mas para perguntar: **quem é obrigado a ser "Vontade", quem tem o direito de assistir à peça.**
 
-![Arquitetura tradicional de pátio hakka na região de Tunglo, Miaoli. O mundo material da poesia hakka não é apenas "símbolo de terra natal", mas cena de vida onde aglomerados, rituais, palcos e fala cotidiana crescem juntos.](/article-images/people/dupan-hakka-compound-tongluo.webp)
-_Pátio tradicional hakka (Tunglo, Miaoli) — para entender as cenas folclóricas de "Peça de Paz" e "Festival dos Fantasmas", é preciso primeiro devolver o palco e o salão público de símbolos turísticos a cenários de ética vivida. Foto via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hakka_Compound,_Tongluo,_Miaoli_(Taiwan).jpg).\_
+![Arquitetura tradicional de pátio hakka na região de Miaoli Tongluo. O mundo material da poesia hakka não é apenas "símbolos locais", mas um cenário de vida que cresceu junto de povoados, rituais, palcos de teatro e fala cotidiana.](/article-images/people/dupan-hakka-compound-tongluo.webp)
+_Pátio tradicional hakka (Miaoli Tongluo) — Para entender as cenas folclóricas de 〈Ópera da Paz〉 e 〈Festival Zhongyuan〉, é preciso primeiro devolver o palco e o salão público dos símbolos turísticos para espaços éticos de vida. Foto via [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Hakka_Compound,_Tongluo,_Miaoli_(Taiwan).jpg>).\_
 
 ## Após o fim da lei marcial, a língua materna só então passou de "falada em casa" a "escrita no papel"
 

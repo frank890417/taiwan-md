@@ -1,6 +1,6 @@
 ---
-title: 'A-Shen: após onze anos de uploads diários, por que ainda há vídeos novos após a "parada permanente"?'
-description: 'Em julho de 2026, o canal principal de A-Shen exibe "aposentado, eu faço vídeo quando quero" enquanto publica um novo vídeo de Minecraft ontem. Onze anos de uploads diários transformaram o canal pessoal em uma grade com o episódio de amanhã sempre garantido; por que a "parada permanente" de três anos atrás não se tornou uma saída definitiva?'
+title: 'A-Shen: após onze anos de atualizações diárias, por que ainda há novos vídeos após o "fim permanente"?'
+description: 'Criador de gameplays que fundou o canal há mais de dez anos e afirmou ter feito atualizações diárias ininterruptas por onze anos; em 2021 parou as atualizações diárias, deixou o trabalho integral no YouTube e passou a fazer uploads descompromissados; em 2023 anunciou a parada permanente de atualizações no canal principal, mantendo apenas lives e a produção conjunta de "Gaoshenma" com Matian. Três anos depois, o canal principal reapareceu com um vídeo longo de colaboração de Minecraft; a descrição do canal ainda diz "aposentado, só faço vídeo quando quero", e a retirada das duas palavras "aposentado" devolve ao público o dia fixo do próximo episódio que eles antes tinham.'
 date: 2026-07-15
 category: 'People'
 tags:
@@ -10,7 +10,7 @@ tags:
     'Minecraft',
     'Gaoshenma',
     'cultura da internet de Taiwan',
-    'trabalho de criador',
+    'trabalho de criadores',
   ]
 subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
@@ -20,7 +20,7 @@ lastHumanReview: false
 researchReport: 'reports/research/2026-07/阿神.md'
 readingTime: 18
 image: '/article-images/people/ashan-2026-return-minecraft.webp'
-imageAlt: 'Na miniatura oficial do Minecraft, dois monstros "impostores" no centro, com os avatares em blocos de A-Shen e Xue Tu (雪兔) nas laterais, título: "O impostor mais assustador do Minecraft"'
+imageAlt: 'Na miniatura oficial do Minecraft, no centro há dois monstros impostores, com os personagens em blocos de A-Shen e Xue Tu nos lados, e o título "O impostor mais assustador do Minecraft".'
 imageCredit: '阿神官方 YouTube 頻道'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.youtube.com/watch?v=60n6gPUEl7s'
@@ -38,10 +38,10 @@ rationale:
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/阿神.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '2a5b98d9cd'
 sourceContentHash: 'sha256:5d4d8978fc43c7cd'
 sourceBodyHash: 'sha256:02c4e1b3fececdae'
-translatedAt: '2026-09-25T01:48:22+08:00'
+translatedAt: '2026-11-27T00:25:22.982561+00:00'
 ---
 
 > **Visão geral em 30 segundos:** Em 15 de julho de 2026, o canal oficial de A-Shen mostra 3,31 milhões de inscritos, 5.622 vídeos; o mais recente longa de colaboração no Minecraft foi ao ar há um dia, mas a descrição ainda diz "aposentado, eu faço vídeo quando quero". Ele já relatou onze anos de uploads diários, largou o YouTube como emprego formal em 2021, e em 2023 anunciou novamente a parada de publicação no canal principal, mas manteve lives e o "Gaoshenma" feito com Ma Tian. Juntas, as três fases esclarecem o sentido da aposentadoria: o compromisso público de atualização diária já não existe, mas a criação não terminou de vez.

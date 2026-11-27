@@ -1,6 +1,6 @@
 ---
-title: 'Wu Bai: de Lioujiao, Suantou, trinta anos de rock em taiwanês sem concessões'
-description: 'Nome real Wu Chun-lin, nascido em 1968 no condado de Chiayi, township de Lioujiao, vila de Suantou. Formou "Wu Bai & China Blue" em 1992; "Norwegian Wood" (1995) estabeleceu sua linha de rock em taiwanês. Lançou "Thorn Flower" em 2016, ganhou Golden Melody de melhor álbum em taiwanês em 2017. Novo álbum "Pure White Starting Point" em 2025, turnê ROCK STAR 2 atravessa os dois lados do estreito.'
+title: 'Wu Bai: partindo da vila de Suantou, no distrito de Lioujiao, 30 anos de rock em taiwanês sem concessões'
+description: 'O cantor de rock em taiwanês originário da vila de Suantou, no distrito de Lioujiao, condado de Chiayi, formou Wu Bai & China Blue em 1992; em 1995, com a música "Norwegian Wood", estabeleceu sua linha de rock em taiwanês. Para ele, o taiwanês não é uma estratégia de posicionamento, mas a forma mais natural de se expressar. Há mais de trinta anos, recusa-se a ser formatado pelo mercado; o álbum Ding Zi Hua de 2016 ganhou o Golden Melody Award de melhor álbum em taiwanês no ano seguinte; em 2025, lançou Ponto de Partida Puro Branco e iniciou a turnê ROCK STAR 2, ainda cantando na mesma língua no palco.'
 date: 2026-03-19
 category: 'People'
 tags:
@@ -14,10 +14,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/伍佰.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '2a5b98d9cd'
 sourceContentHash: 'sha256:2dda34fc81c78056'
 sourceBodyHash: 'sha256:fb05d9869b96635c'
-translatedAt: '2026-11-04T22:13:17.059560+00:00'
+translatedAt: '2026-11-27T00:16:10.310287+00:00'
 ---
 
 # Wu Bai: de Lioujiao, Suantou, trinta anos de rock em taiwanês sem concessões

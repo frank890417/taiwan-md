@@ -1,16 +1,16 @@
 ---
-title: 'Pai Hsien-yung: "Taipé" 1971, até a tournée de 20 anos da versão jovem de "O Pavilhão das Peónias"'
-description: 'Nasceu em 1937 em Guilin, Guangxi, filho de Pai Chung-hsi. Em 1956 entrou no Departamento de Línguas Estrangeiras da Universidade de Taiwan, fundou a revista "Literatura Moderna" com Wang Wen-hsing e outros. Em 1971 publicou "Taipé", 14 contos. Em 1983, "O Filho Pródigo". Em 2003 iniciou o planeamento da versão jovem de "O Pavilhão das Peónias", estreia em abril de 2004, 20 anos em 2024. Em 2003 recebeu o Prémio Nacional de Artes e Literatura.'
+title: 'Bai Xianyong: "Taipei People" (1971) e vinte anos de turnê da versão juvenil de "O Pavilhão da Peônia"'
+description: 'Autor de "Taipei People" e "The Malcontent", nasceu em Guilin, Guangxi; seu pai era o general do Kuomintang, Bai Chongxi. Em 1956, ingressou no Departamento de Letras Estrangeiras da Universidade Nacional Taiwan, onde fundou a revista "Modern Literature" com Wang Wenxing, Chen Ruoxi e outros, introduzindo o modernismo ocidental no cenário literário de Taiwan. Em 1971, publicou a coletânea de contos "Taipei People" e, em 1983, publicou "The Malcontent". Em seus anos finais, dedicou-se à preservação da Ópera Kunqu; em 2003, recebeu o Prêmio Nacional de Artes e lançou a versão juvenil de "O Pavilhão da Peônia", que estreou em Taipei em abril de 2004 e realizou mais de trezentas apresentações em turnê.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Literatura',
     'Literatura Moderna',
-    'Taipé',
-    'O Filho Pródigo',
-    'Kunqu',
-    'Pai Chung-hsi',
+    'Taipei People',
+    'The Malcontent',
+    'Ópera Kunqu',
+    'Bai Chongxi',
   ]
 subcategory: '文學'
 author: 'Taiwan.md'
@@ -21,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/白先勇.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '630afb2b66'
 sourceContentHash: 'sha256:d675a47ee18feb3d'
 sourceBodyHash: 'sha256:44085a78b193e440'
-translatedAt: '2026-11-04T21:24:38.505103+00:00'
+translatedAt: '2026-11-26T23:57:37.803182+00:00'
 ---
 
 # Pai Hsien-yung: "Taipé" 1971, até a tournée de 20 anos da versão jovem de "O Pavilhão das Peónias"

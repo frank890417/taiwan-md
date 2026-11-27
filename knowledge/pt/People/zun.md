@@ -1,16 +1,16 @@
 ---
-title: 'Zun: do quarto do segundo ano do ensino fundamental a dois canais com um milhão, o registro de maioridade de um YouTuber'
-description: 'Zun começou fazendo gameplays no segundo ano do ensino fundamental, tornou-se o YouTuber mais jovem de Taiwan a atingir um milhão de inscritos aos 19 anos e depois levou o canal secundário também a um milhão. Catorze anos de dados documentam seu enfrentamento do peso da criação, tempestades familiares e erros em publis, até crescer e se tornar adulto.'
+title: 'Zun: De um quarto no segundo ano do ensino médio a milhões com dois canais, o registro da vida adulta de um YouTuber'
+description: 'Um criador taiwanês que começou a postar gameplays no YouTube desde o segundo ano do ensino médio e, aos dezenove anos, tornou-se o YouTuber mais jovem de Taiwan na época ao atingir 1,2 milhão de inscritos. Através de registros públicos que abrangem quatorze anos, ele transitou de jogos para experimentos, unboxings e vlogs cotidianos; relatou o peso de ter um alto número de inscritos e passou por crises como o caso de seu irmão Xiao Yu e erros de publicidade com a Pocket Hero. Seu canal secundário ultrapassou um milhão de inscritos no final de 2024, enquanto os vídeos sobre sua nova casa trazem a câmera para sua vida adulta.'
 date: 2026-07-15
 category: 'People'
 tags:
   [
     'YouTuber',
     'Zun',
-    'cultura de Taiwan',
-    'criadores de internet',
-    'Vida de Otaku Gordo',
-    'cultura digital',
+    'Cultura de Taiwan',
+    'Criador de conteúdo digital',
+    'Vida de um gamer',
+    'Cultura digital',
   ]
 subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
@@ -25,10 +25,10 @@ relatedDiary: ['2026-07-15-191335-manual']
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/尊.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '2a5b98d9cd'
 sourceContentHash: 'sha256:741e9553e6d863d3'
 sourceBodyHash: 'sha256:e3564c2899c65b1e'
-translatedAt: '2026-10-15T03:53:26.361064+00:00'
+translatedAt: '2026-11-27T00:58:45.653032+00:00'
 ---
 
 > **Visão geral em 30 segundos:**

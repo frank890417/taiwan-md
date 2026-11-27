@@ -1,16 +1,16 @@
 ---
-title: 'Chu Tien-wen: 1956 Taipé, da "Revista Três Três" ao Leão de Ouro de Veneza por "Cidade Triste"'
-description: 'Nascida em 1956 em Taipé, filha de Chu Hsi-ning. Em 1977, fundou a "Revista Três Três" com Hu Lan-cheng e outros. Longa parceria como argumentista de Hou Hsiao-hsien, obra representativa "Cidade Triste" ganhou Leão de Ouro em Veneza em 1989. Em 1994, "Notas de um Homem Desolado" ganhou o primeiro prémio do Prémio Literário China Times. Obras de argumento incluem "Bons Homens, Boas Mulheres" e "Adeus ao Sul, Adeus".'
+title: 'Chu Tien-wen: Taipei 1956, da revista «San San» ao Leão de Ouro em Veneza com «A Cidade Vêde»'
+description: 'Romancista e roteirista de cinema criada numa família literária de Taipei, filha do romancista Chu Hsi-ning. Em 1977, cofundou a revista San San com Hu Lan-cheng e outros; a partir da década de 1980, estabeleceu uma parceria de quatro décadas como coautora de Hou Hsiao-hsien. O roteiro de seu filme «A Cidade Vêde» utiliza uma linguagem poética para tratar da história familiar de Taiwan, conquistando o Leão de Ouro no Festival de Veneza em 1989. Em 1994, seu romance «Diário de um Estranho» venceu o primeiro prêmio do Prêmio Literário de Taipei, demonstrando uma escrita que sustenta tanto o cinema quanto a forma literária.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Literatura',
-    'Argumento cinematográfico',
+    'Roteirista de cinema',
     'Hou Hsiao-hsien',
     'Chu Hsi-ning',
-    'Literatura Três Três',
-    'Notas de um Homem Desolado',
+    'Literatura San San',
+    'Diário de um Estranho',
   ]
 subcategory: '文學'
 author: 'Taiwan.md'
@@ -21,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/朱天文.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '2a5b98d9cd'
 sourceContentHash: 'sha256:13c80c1f151f5c3e'
 sourceBodyHash: 'sha256:bf6107b943cdb54e'
-translatedAt: '2026-11-04T21:33:51.134414+00:00'
+translatedAt: '2026-11-27T00:00:04.826967+00:00'
 ---
 
 # Chu Tien-wen: 1956 Taipé, da "Revista Três Três" ao Leão de Ouro de Veneza por "Cidade Triste"

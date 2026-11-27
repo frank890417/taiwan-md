@@ -1,17 +1,17 @@
 ---
-title: 'Tsai Hei-pi: o rapaz que cresceu decorando nomes de estações de metrô e colocou Taiwan nos 260 mil inscritos'
-description: 'Nascido em 2002, Tsai Chin-an começou no ensino médio autodidata com "curiosidades do metrô" e, doze anos depois, subiu ao palco do Prêmio Rota de Ouro, apelidado de "Oscar do setor de transportes". Ele mudou de nome, pausou as postagens, recomeçou, e cuida sozinho de pesquisa, mapas e edição — um caso exemplar de pensamento de longo prazo entre criadores de conhecimento em Taiwan.'
+title: 'Cai Heipi: o menino que cresceu com nomes de estações de metrô nas costas, colocou Taiwan nas inscrições de 260 mil pessoas'
+description: 'YouTuber de conhecimento de Taiwan, nascido em 2002, começou a fazer vídeos no ensino médio por achar que ninguém fazia conteúdo sobre transporte, seu primeiro trabalho foi curiosidades sobre o metrô de Taipei. Ele cuida sozinho de pesquisa, mapas, roteiro e edição, acumulando centenas de vídeos sobre construções de transporte com a série "Ferrovia Bar". No início de 2025, após nove meses sem postar, retornou no décimo segundo aniversário do canal com mudança de nome, lançou a série local "Taiwan 360", no mesmo ano ganhou o Prêmio Especial de Contribuição do 26º Golden Road Award, e seus vídeos foram incluídos em livros didáticos de geografia do ensino médio.'
 date: 2026-08-19
 category: 'People'
 tags:
   [
     'YouTuber',
-    'transportes',
-    'criador de conhecimento',
-    'Tsai Chin-an',
-    'Prêmio Rota de Ouro',
-    'geografia de Taiwan',
-    'ferrovias',
+    'Transporte',
+    'Criador de conhecimento',
+    "Cai Jie'an",
+    'Prêmio Golden Road',
+    'Geografia de Taiwan',
+    'Ferrovia',
   ]
 subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
@@ -25,10 +25,10 @@ imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:2017-10-23_MRT_train_at_Platform,_Tamsui_Line.jpg'
 curation: 'incubating'
 translatedFrom: 'People/蔡黑皮.md'
-sourceCommitSha: 'e75b621d2'
+sourceCommitSha: '3f269cde5e'
 sourceContentHash: 'sha256:e43b16ae63cbdb17'
 sourceBodyHash: 'sha256:1cde30bd00a46d49'
-translatedAt: '2026-09-10T20:24:58+08:00'
+translatedAt: '2026-11-26T23:33:18.813852+00:00'
 ---
 
 > **Resumo em 30 s:** Tsai Chin-an (canal "Tsai Hei-pi", antigo nick "Hei-pi") nasceu em 2002. No ensino médio, por achar que "ninguém fazia conteúdo sobre transportes", começou a gravar vídeos; a primeira obra foi _10 coisas que você não sabe sobre o metrô de Taipé_. Doze anos depois, ele subiu ao palco da 26.ª edição do Prêmio Rota de Ouro — chamado de "Oscar do setor de transportes" — e levou o Prêmio de Contribuição Especial. A tensão central desta história está em: no início de 2025 ele anunciou uma pausa; o canal ficou silencioso por meio ano, e todos acharam que ele tinha desistido; o retorno com a série local "Taiwan 360" explodiu com ainda mais força. O especial sobre Wuchiu foi para a página inicial do canal e passou de 100 mil visualizações. Um garoto que cresceu decorando nomes de estações de metrô acabou apontando a câmera para os cantos mais esquecidos do mapa. Este texto não fala da ascensão de um influenciador, mas de como um criador encontra, na contradição de "postar mais ninguém vê, parar e todos esperam", a razão pela qual não pode deixar de fazer.
