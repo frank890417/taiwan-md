@@ -1,13 +1,13 @@
 ---
-title: 'シェン・シェンボ'
-description: 'コンピュータサイエンスを専攻しながら、プログラミング言語を台湾の現代アートの現場に持ち込んだ人物です。わずか34年という短い人生の中で、デジタルアート作品を残しただけでなく、プログラミングを生活の一部とし、フリーソフトウェアを創作倫理とする実験的精神を遺しました。'
+title: 'シェン・ションボー（沈聖博）'
+description: '台湾のデジタルアーティスト兼アートエンジニア。1980年彰化県生まれ。コンピュータサイエンスを専攻しながらもテクノロジーアートへと転身し、「プログラミングは生活そのものである」という理念のもと、デジタルの規則やアルゴリズムのロジックを創作の核として捉えています。FLOSS+ARTの普及に努め、Processingの講座開設や学習フォーラムの運営を行い、OpenLab.Taipeiのメンバーとしても活動しました。2011年には台中に「有為空間」を設立し、実験的な試みの場を提供しました。2009年に大腸がんを患った後も創作活動を続け、2014年に34歳の若さで逝去しましたが、『pin shadow』や『texture』などの作品は、現在も修復や再演が行われています。'
 date: 2026-03-23
 category: 'People'
 tags:
   [
     '人物',
     'デジタルアート',
-    'ニューメディアアート',
+    'ニューメディア・アート',
     'FLOSS+ART',
     'OpenLab.Taipei',
     '台湾',
@@ -21,10 +21,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/沈聖博.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '3f269cde5e'
 sourceContentHash: 'sha256:36208e14ce1c380c'
 sourceBodyHash: 'sha256:5eb269f5e4d722c4'
-translatedAt: '2026-11-04T21:17:49.652911+00:00'
+translatedAt: '2026-11-27T01:29:57.575110+00:00'
 ---
 
 # シェン・シェンボ
