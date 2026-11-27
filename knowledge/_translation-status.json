@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-28T02:38:44+08:00",
-    "zhCommitHead": "4d617fbbeb",
+    "lastUpdated": "2026-11-28T02:42:56+08:00",
+    "zhCommitHead": "cf4dbd83b9",
     "totalZh": 1194,
     "activeLanguages": [
       "en",
@@ -68,9 +68,9 @@
       },
       "id": {
         "total_zh": 1194,
-        "fresh": 1183,
+        "fresh": 1184,
         "stale": 6,
-        "metadata_stale": 5,
+        "metadata_stale": 4,
         "missing": 0,
         "orphan": 0
       },
@@ -137756,20 +137756,18 @@
         "id": {
           "path": "id/People/muyao4.md",
           "translatedFrom": "People/木曜4超玩.md",
-          "sourceCommitSha": "4f3974f86",
+          "sourceCommitSha": "8fc70bd881",
           "sourceContentHash": "sha256:c545680e99f6d0ab",
           "sourceBodyHash": "sha256:809502b72dc5c3f5",
-          "translatedAt": "2026-09-25T17:55:44.393754+00:00",
+          "translatedAt": "2026-11-27T18:39:07.653494+00:00",
           "translationLastCommit": "ead5db3b",
           "translationLastModified": "2026-09-26T02:35:13+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "bytes": 24814,
+          "bytes": 25212,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/muyao4.md",
@@ -213106,8 +213104,8 @@
           "sourceContentHash": "sha256:3c26fdbf6ae8c1e1",
           "sourceBodyHash": "sha256:de7eeb7836899ba7",
           "translatedAt": "2026-11-27T16:59:20.857953+00:00",
-          "translationLastCommit": "46eb28b9",
-          "translationLastModified": "2026-11-19T01:21:25+08:00",
+          "translationLastCommit": "cf4dbd83",
+          "translationLastModified": "2026-11-28T02:38:44+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "bytes": 49445,
