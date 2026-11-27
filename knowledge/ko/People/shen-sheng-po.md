@@ -1,6 +1,6 @@
 ---
-title: '선성보'
-description: '컴퓨터 과학을 전공했지만 프로그래밍 언어를 대만 현대 미술 현장으로 가져온 선성보. 34년이라는 짧은 생애에 남긴 것은 디지털 아트 작품만이 아니다. 프로그램을 삶으로, 자유 소프트웨어를 창작 윤리로 삼은 실험 정신이다.'
+title: '선성보 (Shen Sheng-bo)'
+description: "대만의 디지털 아티스트이자 아트 엔지니어이다. 1980년 창화에서 태어났으며, 컴퓨터 과학을 전공했으나 테크놀로지 아트(Media Art)로 전향하였다. '프로그래밍이 곧 삶'이라는 신념 아래 디지털 규칙과 알고리즘 로직을 창작의 핵심으로 삼았다. FLOSS+ART를 장려하며 Processing 강의를 개설하고 교육 포럼을 운영하였으며, OpenLab.Taipei의 멤버이기도 하다. 2011년 타이중에서 '유위공간(有為空間)'을 설립하여 실험적인 예술이 펼쳐질 수 있는 장을 마련했다. 2009년 대장암 판정을 받은 후에도 창작 활동을 지속하였으나, 2014년 34세의 나이로 세상을 떠났다. 그의 작품 《pin shadow》와 《texture》 등은 지금까지도 복원 및 재전시되고 있다."
 date: 2026-03-23
 category: 'People'
 tags:
@@ -21,10 +21,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/沈聖博.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '3f269cde5e'
 sourceContentHash: 'sha256:36208e14ce1c380c'
 sourceBodyHash: 'sha256:5eb269f5e4d722c4'
-translatedAt: '2026-11-04T21:34:36.268277+00:00'
+translatedAt: '2026-11-27T01:30:09.255232+00:00'
 ---
 
 # 선성보 (Shen Sheng-bo)

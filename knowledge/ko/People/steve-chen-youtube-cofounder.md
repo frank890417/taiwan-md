@@ -1,9 +1,9 @@
 ---
-title: '천스쥔(陳士駿)'
-description: '그가 8세에 타이완을 떠나, 27세에 미국에서 누구나 동영상을 올릴 수 있는 곳을 만들었고, 20개월 만에 16억 5천만 달러에 팔았으며, 그 후 뇌에 종양이 생겼고, 아내와 아이들을 데리고 돌아왔다.'
+title: '첸스쥔 (Chen Shih-Chun)'
+description: '실리콘밸리에서 가장 유명한 대만계 창업자 중 한 명으로, 8세에 미국으로 이민을 떠났으며 대학 졸업 전 PayPal에 합류했다. 2005년 두 명의 전 동료와 함께 차고에서 YouTube를 창업했으며, 20개월 후 Google에 16억 5천만 달러에 매각했다. 인수 후 뇌동맥류 진단을 받아 두 번의 개두 수술과 15번의 발작을 겪었으나, 2019년 아내와 아이들과 함께 대만으로 돌아와 정착했다. 대만 최초의 취업 골드카드를 발급받았으며, 이후 대만의 스타트업을 세계 무대의 중심으로 이끄는 역할을 지속하고 있다.'
 date: 2026-04-06
 category: 'People'
-tags: ['천스쥔', 'YouTube', '실리콘밸리', '스타트업', '고용골드카드', '뇌종양']
+tags: ['첸스쥔', 'YouTube', '실리콘밸리', '스타트업', '취업 골드카드', '뇌종양']
 subcategory: '科技與創業'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -13,10 +13,10 @@ readingTime: 8
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/陳士駿.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '630afb2b66'
 sourceContentHash: 'sha256:ba95870558368ba6'
 sourceBodyHash: 'sha256:10a502d58bab93f7'
-translatedAt: '2026-11-06T08:34:06.379823+00:00'
+translatedAt: '2026-11-27T01:42:39.669557+00:00'
 ---
 
 # 천스쥔(陳士駿)

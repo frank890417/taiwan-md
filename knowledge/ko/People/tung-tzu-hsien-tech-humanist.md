@@ -1,20 +1,20 @@
 ---
-title: '자자셴: 타이베이공전에서 출발해 애플 최대 파트너 페가트론이 되기까지'
-description: '1960년 6월 25일 생. 자자셴은 타이베이공전(현 국립타이베이과대) 전자과를 졸업했으며 대만대 전기공학과 출신이 아니다. 1988년 화섭컴퓨터에 입사, 2008년 1월 1일 브랜드와 주문자생산 분할을 주도하여 페가트론 유나이티드 테크놀로지를 설립, 애플·소니·닌텐도 등의 위탁생산 공장이 되었다. 2019년 에슬리트 서점에 투자. 2025년에도 「원전·재생에너지 공존」 에너지 정책 주장을 발표.'
+title: '퉁쯔셴: 타이베이 공업전문학교에서 시작해 콴타를 애플의 최대 OEM 파트너로 만들다'
+description: '대만 전자 산업 기업가. 타이베이 공업전문학교 전자과를 졸업했으며, 국립 타이완 대학교 전기공학과 출신은 아니다. 1988년 에이수스(ASUS)에 입사하였고, 2008년元旦 브랜드 사업과 OEM 사업의 분할을 주도하며 콴타 컴퓨터(Pegatron)를 설립하여 애플, 소니, 닌텐도 등의 브랜드 제품을 생산하는 위탁 생산 기업으로 성장시켰다. 2019년에는 성품서점에 지분을 투자하며 "사회에는 병원이 필요하듯 서점도 필요하다"는 신념을 밝혔다. 또한 기술 업계에서 에너지 정책에 대해 가장 공개적으로 목소리를 내는 기업가 중 한 명으로, 오랫동안 ''원자력과 재생에너지의 공존''을 주장해 왔다.'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
+tags: ['기술과 기업', '콴타 컴퓨터', '전자 위탁 생산', 'ODM', '에너지 정책']
 subcategory: '科技與企業'
-tags: ['科技與企業', '和碩聯合', '電子代工', 'ODM', '能源政策']
-readingTime: 7
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: false
-translatedFrom: People/童子賢.md
-sourceCommitSha: 0f8fae0ae
-sourceContentHash: sha256:741173e056926b2c
-sourceBodyHash: sha256:7f6ff2dde21c6686
-translatedAt: 2026-05-24T05:06:32+08:00
+readingTime: 7
+translatedFrom: 'People/童子賢.md'
+sourceCommitSha: '3f269cde5e'
+sourceContentHash: 'sha256:741173e056926b2c'
+sourceBodyHash: 'sha256:7f6ff2dde21c6686'
+translatedAt: '2026-11-27T02:01:45.984303+00:00'
 ---
 
 # 자자셴: 타이베이공전에서 출발해 애플 최대 파트너 페가트론이 되기까지
