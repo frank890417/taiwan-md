@@ -1,33 +1,33 @@
 ---
-title: 'VH (Vast & Hazy): 15 năm hiệu chỉnh hướng của "ban nhạc thoát cửa"'
-description: '2011 thắng giải Kim Thiều lần 23 tại Đại học Đạm Giang, 2014 tạm dừng hoạt động, 2017 quay lại dưới hình thức ban nhạc đôi, ba lần được đề cử Giải Kim Khúc Tốt nhất. Trong thời kỳ vòng tròn âm nhạc độc lập Đài Loan quen tiếng ồn chính trị, Vast & Hazy chọn trở thành nơi chứa lo âu vô danh — fan tự đặt tên "ban nhạc thoát cửa". Năm 2026, Dịch Kỳ tuyên bố chuyển sang vị trí sau sân khấu, Ka Ka tiếp tục hành trình với tên gọi này.'
+title: 'VH (Vast & Hazy): 15 năm hiệu chỉnh hướng đi của một "ban nhạc lối thoát"'
+description: 'Nhóm nhạc indie song ca Đài Loan được thành lập tại giải thưởng Jinshao của Đại học Tamkang vào năm 2011, gồm hai thành viên KaKa và Dịch Kỳ. Sau khi tạm ngừng hoạt động vào năm 2014, nhóm đã trở lại với hình thức song ca vào năm 2017 và ba lần được đề cử giải Nhóm biểu diễn xuất sắc nhất tại Giải thưởng Âm nhạc Golden Melody. Họ dùng giọng hát dịu dàng để chở che những lo âu và lạc lối, từ chối việc đóng khung ý nghĩa lời bài hát, biến mỗi ca khúc thành một vật chứa cảm xúc, khiến người hâm mộ tự gọi họ là "ban nhạc lối thoát". Năm 2026, Dịch Kỳ tuyên bố chuyển sang làm hậu trường, đưa ban nhạc bước vào giai đoạn mới lấy KaKa làm trung tâm và tiếp tục hiệu chỉnh hướng đi.'
 date: 2026-04-19
 category: 'People'
 tags:
   [
-    VH,
-    Vast & Hazy,
-    âm nhạc độc lập,
-    Ka Ka,
-    Nhan Tĩnh Huyên,
-    Dịch Kỳ,
-    Lâm Dịch Kỳ,
-    Giải Kim Khúc,
-    ban nhạc thoát cửa,
-    rock cảm xúc,
+    'VH',
+    'Vast & Hazy',
+    'Nhạc độc lập',
+    'KaKa',
+    'Nhan Tĩnh Huyên',
+    'Dịch Kỳ',
+    'Lâm Dịch Kỳ',
+    'Giải thưởng Golden Melody',
+    'Ban nhạc lối thoát',
+    'Emotional Rock',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-19
 lastHumanReview: true
-researchReport: reports/research/2026-04/VH.md
+researchReport: 'reports/research/2026-04/VH.md'
 readingTime: 12
-translatedFrom: People/VH.md
-sourceCommitSha: 4b6d28c54
-sourceContentHash: sha256:12627c86b39f3cf2
-sourceBodyHash: sha256:cac852a1ab84bcac
-translatedAt: 2026-09-28T08:43:09+08:00
+translatedFrom: 'People/VH.md'
+sourceCommitSha: 'fd2854dbad'
+sourceContentHash: 'sha256:12627c86b39f3cf2'
+sourceBodyHash: 'sha256:cac852a1ab84bcac'
+translatedAt: '2026-11-27T05:08:36.984611+00:00'
 ---
 
 > **Tóm tắt 30 giây:** VH (Vast & Hazy) là ban nhạc độc lập đôi người Đài Loan, thành viên Ka Ka (Nhan Tĩnh Huyên) và Dịch Kỳ (Lâm Dịch Kỳ) từ 2011 thắng giải Kim Thiều lần 23, ba lần được đề cử Giải Kim Khúc Tốt nhất (2019, 2022, 2025). Họ dùng giọng ca nhẹ nhàng bao bọc triết lý sáng tác quan sát nhân bản, trong thập niên 2010 khi nhạc rock chính trị chiếm ưu thế trong vòng tròn độc lập, fan tự đặt tên "ban nhạc thoát cửa". Sau lễ hòi nhạc năm 2026, Dịch Kỳ tuyên bố chuyển sang vị trí sau sân khấu, ban nhạc bước vào giai đoạn mới với Ka Ka làm lõi trung tâm.

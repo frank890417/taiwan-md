@@ -1,6 +1,6 @@
 ---
-title: 'Dương Truyền Quảng: Người sắt châu Á với nguồn gốc từ bộ lạc Đài Đông, huy chương bạc Rome và kỷ lục thế giới 9121 điểm'
-description: 'Sinh ngày 10 tháng 7 năm 1933 tại một bộ lạc Amis ở Đài Đông, Dương Truyền Quảng là vận động viên đoạt huy chương Olympic đầu tiên của Đài Loan. Ông giành huy chương bạc trong môn đa môn phối hợp tại Rome năm 1960 với 8334 điểm; vào năm 1963, ông lập kỷ lục thế giới 9121 điểm và nhảy cao 4,83m buộc Liên đoàn điền kinh quốc tế phải sửa đổi tiêu chuẩn tính điểm. Ông qua đời vì đột quỵ tại California, Hoa Kỳ vào ngày 27 tháng 1 năm 2007, hưởng thọ 73 tuổi. Tháng 4 năm 2025, Bộ Văn hóa đã công nhận ông là báu vật quốc gia.'
+title: 'Dương Truyền Quảng: Người đàn ông sắt Á châu từ bộ lạc Đài Đông, chủ nhân huy chương bạc Rome và kỷ lục thế giới 9121 điểm'
+description: 'Người đầu tiên giành huy chương Olympic của Đài Loan, sinh năm 1933 tại bộ lạc người Amis vùng Malan, Đài Đông. Ông từng theo học Trường Sư phạm Đài Đông và Học viện Sư phạm Đài Loan, sau đó sang Mỹ tập luyện tại UCLA vào năm 1957. Tại Thế vận hội Rome 1960, ông đã giành huy chương bạc nội dung mười môn phối hợp với 8334 điểm, chỉ kém tấm huy chương vàng của Rafer Johnson 58 điểm; năm 1963, ông phá kỷ lục thế giới với 9121 điểm, trong đó thành tích nhảy sào 4,83 mét đã buộc Liên đoàn Điền kinh Quốc tế phải sửa đổi tiêu chuẩn tính điểm. Sau khi giải nghệ, ông trở về Đài Loan cống hiến cho giáo dục thể chất và qua đời vì đột quỵ tại California, Hoa Kỳ vào năm 2007, hưởng thọ 73 tuổi; năm 2025, Bộ Văn hóa đã chỉ định huy chương bạc Rome là quốc bảo đầu tiên thuộc lĩnh vực thể thao của Đài Loan.'
 date: 2026-03-19
 category: 'People'
 tags:
@@ -8,9 +8,9 @@ tags:
     'Thể thao',
     'Điền kinh',
     'Olympic',
-    'Đa môn phối hợp',
-    'Người bản địa',
-    'Amis',
+    'Mười môn phối hợp',
+    'Thổ dân',
+    'Người Amis',
   ]
 subcategory: '體育'
 author: 'Taiwan.md'
@@ -19,10 +19,10 @@ lastVerified: 2026-09-05
 lastHumanReview: true
 readingTime: 7
 translatedFrom: 'People/楊傳廣.md'
-sourceCommitSha: '8d0c4a70d'
+sourceCommitSha: 'fc0798f30d'
 sourceContentHash: 'sha256:3f102f565e503ad8'
 sourceBodyHash: 'sha256:b14c332dbd93a4eb'
-translatedAt: '2026-09-08T15:54:44+08:00'
+translatedAt: '2026-11-27T05:03:06.642848+00:00'
 ---
 
 # Dương Truyền Quảng: Người sắt châu Á với nguồn gốc từ bộ lạc Đài Đông, huy chương bạc Rome và kỷ lục thế giới 9121 điểm

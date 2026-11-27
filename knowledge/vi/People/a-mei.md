@@ -1,16 +1,16 @@
 ---
-title: 'Trương Huệ Mị: Ca sĩ tộc Puyuma, từ 《Chị em》 năm 1996 đến năm 2024 sân vận động lớn năm buổi'
-description: 'Sinh ngày 9 tháng 8 năm 1972 tại xã Puyuma, huyện Đài Đông, Trương Huệ Mị là ca sĩ tộc Puyuma của Đài Loan, một trong những nữ ca sĩ thành công nhất trong lịch sử nhạc pop tiếng Hoa. Năm 1996, album đầu tay 《Chị em》 bán được 1,21 triệu bản tại Đài Loan, 4 triệu bản tại châu Á. Năm 2015, tour "Utopia" tại Đài Bắc Tiểu Cự Cúp liên tục 10 buổi. Tháng 12 năm 2024, sân vận động lớn ASMeiR MAXXX 5 buổi, chi phí sản xuất 2 tỷ, thả bóng bay nóng tại hiện trường. Tích lũy bán ra hơn 50 triệu bản trọn đời.'
+title: "Trương Huệ Mỹ: Ca sĩ người Puyuma, từ album 'Chị em' năm 1996 đến 5 đêm biểu diễn tại Taipei Dome năm 2024"
+description: "Ca sĩ người Puyuma, sinh năm 1972 tại thôn Takapuluk, xã Bê-nan, tỉnh Taitung. Thời thơ ấu, cô cùng gia đình hát thuê tại các nhà hàng để bổ sung thu nhập. Năm 1996, album đầu tay 'Chị em' do Trương Vũ Sinh sản xuất bán ra 1,21 triệu bản tại Taiwan, dung nhập giai điệu truyền thống người Puyuma; tổng doanh số sự nghiệp vượt 50 triệu bản. Năm 2000, bị Trung Quốc cấm đoán gần bốn năm sau khi hát quốc ca tại lễ nhậm chức Tổng thống. Năm 2015, chuỗi concert 'Utopia' diễn 10 đêm liên tiếp tại Taipei Arena; năm 2024, biểu diễn 5 đêm liên tiếp tại Taipei Dome, đồng thời nhiều năm qua công khai ủng hộ quyền bình đẳng cho người LGBT."
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Âm nhạc',
-    'Người bản địa',
-    'Tộc Puyuma',
+    'Dân tộc bản địa',
+    'Puyuma',
     'Nữ hoàng',
-    'Bình quyền LGBTQ+',
-    'Nhạc pop',
+    'Quyền LGBT',
+    'Nhạc phổ biến',
   ]
 subcategory: '音樂'
 author: 'Taiwan.md'
@@ -21,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/張惠妹.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'fc0798f30d'
 sourceContentHash: 'sha256:aebfe56ef8181ee0'
 sourceBodyHash: 'sha256:2548692a01191648'
-translatedAt: '2026-11-04T21:46:53.614756+00:00'
+translatedAt: '2026-11-27T05:13:18.679560+00:00'
 ---
 
 # Trương Huệ Mị: Nữ hoàng tộc Puyuma, từ 《Chị em》 năm 1996 đến năm 2024 sân vận động lớn năm buổi

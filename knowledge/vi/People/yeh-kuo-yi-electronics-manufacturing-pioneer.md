@@ -1,13 +1,13 @@
 ---
-title: 'Diệp Quốc Nhất: Từ Sĩ Lâm Cao đẳng Đến Đế chế Gia công Nửa thế kỷ'
-description: 'Sinh ngày 21 tháng 4 năm 1941, Diệp Quốc Nhất không có bằng đại học, khởi nghiệp từ Sĩ Lâm Cao đẳng, năm 1975 thành lập Anh Nghiệp Đạt tại Sĩ Lâm. Từ máy tính điện tử bắt đầu, dẫn dắt công ty trở thành nhà sản xuất máy chủ hàng đầu thế giới, cung cấp khả năng điện toán đám mây cho Facebook, Microsoft, Google. Năm 2023 giao chức chủ tịch cho con trai thứ hai Diệp Lực Thành, tự mình trở về vị trí chủ tịch tập đoàn.'
+title: 'Diệp Quốc Nhất: Khởi nghiệp từ trường Thương mại Shilin, xây dựng đế chế gia công suốt nửa thế kỷ'
+description: 'Người sáng lập ngành gia công điện tử tốt nghiệp trường Thương mại Shilin, không có bằng đại học. Năm 1975, ông thành lập Inventec tại Shilin, Đài Bắc, bắt đầu từ máy tính điện tử, dẫn dắt công ty nâng cấp từ OEM lên ODM. Sau khi trải qua làn sóng PC và máy tính xách tay, công ty chuyển hướng sang máy chủ cấp doanh nghiệp, trở thành nhà cung cấp cốt lõi cho các trung tâm dữ liệu đám mây của Facebook, Microsoft và Google, đồng thời tiên phong đầu tư vào máy chủ AI. Năm 2023, ông bàn giao chức vụ Chủ tịch Hội đồng quản trị cho con trai thứ là Diệp Lực Thành và lui về làm Chủ tịch danh dự tập đoàn, dùng 50 năm để chọn đúng hướng tại mọi bước ngoặt quan trọng của ngành công nghiệp gia công.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Công nghệ và Doanh nghiệp',
-    'Anh Nghiệp Đạt',
-    'Gia công Điện tử',
+    'Inventec',
+    'Gia công điện tử',
     'ODM',
     'Máy chủ',
   ]
@@ -18,10 +18,10 @@ lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
 translatedFrom: 'People/葉國一.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: 'c7e3d69aad'
 sourceContentHash: 'sha256:736f2b6cf89c9093'
 sourceBodyHash: 'sha256:728aa85d9d44e89a'
-translatedAt: '2026-08-09T11:16:34+08:00'
+translatedAt: '2026-11-27T04:55:50.091926+00:00'
 ---
 
 # Diệp Quốc Nhất: Từ Sĩ Lâm Cao đẳng Đến Đế chế Gia công Nửa thế kỷ

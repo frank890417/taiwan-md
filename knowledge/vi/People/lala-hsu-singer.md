@@ -1,36 +1,37 @@
 ---
-title: 'Lala Hsu: Từ nhân viên y tế đến ca sĩ giải thưởng, viết lại những gì bị đánh giá'
-description: 'Năm 2008, Lala Hsu từ bỏ công việc nhân viên y tế, tinh ấp đăng ký "Super Star" lên Đài Bắc mà không báo gia đình, gần như mua vé xe buýt về Đài Trung. "Đứng trên con ngựa trắng" biến dịch văn hóa hát giả đề thành nhạc pop Hoa Việt; năm 2018, album "Tình yêu" giúp cô đoạt giải ca sĩ nữ ngôn ngữ chính thức và album nhạc ngôn ngữ chính thức lần thứ 29; đến "Cho" và "Không có nhau thì không thể rời", cô dần viết lại những gì bị đánh giá thành câu chuyện riêng của mình.'
+title: 'LaLa Hsu Từ Điều Dưỡng Trở Thành Thiên Hậu Kim Khúc, Người Biến Danh Hiệu Quán Quân Tìm Kiếm Tài Năng Thành Đề Tài Sáng Tác'
+description: 'Một ca sĩ sáng tác từng rẽ hướng từ nghề điều dưỡng. Năm 2008, cô rời bỏ công việc tại bệnh viện, giấu gia đình đăng ký tham gia mùa thứ ba của chương trình "Siêu cấp Tinh quang đại đạo", suýt chút nữa đã mua vé tàu về Đài Trung khi thử giọng trước khi cuối cùng giành được ngôi vị quán quân. Ca khúc "Thân kỵ bạch mã" đã đưa âm hưởng hát kịch Gézi vào sân khấu tìm kiếm tài năng; năm 2018, cô giành giải Nữ ca sĩ nhạc Pop tiếng Phổ thông xuất sắc nhất và Album tiếng Phổ thông xuất sắc nhất tại Giải Kim Khúc với album "Tâm lý học"; năm 2022 và 2023 tiếp tục đoạt giải Nhà sản xuất đĩa đơn xuất sắc nhất và Nhà soạn nhạc xuất sắc nhất, biến cuộc đời từng bị chấm điểm thành đề tài của riêng mình.'
 date: 2026-04-26
 category: 'People'
 tags:
   [
-    'nhân vật',
-    'Lala Hsu',
-    'nhạc pop Hoa Việt',
-    'Super Star',
-    'giải thưởng âm nhạc',
-    'Đứng trên con ngựa trắng',
-    'Mất mát sông cát',
-    'Tình yêu',
-    'Chen Chien-chi',
-    'hát giả đề',
-    'sáng tác',
-    'ca sĩ',
+    'Nhân vật',
+    'Từ Giai Doanh',
+    'LaLa Hsu',
+    'Siêu cấp Tinh quang đại đạo',
+    'Nhạc Pop Hoa ngữ',
+    'Giải Kim Khúc',
+    'Thân kỵ bạch mã',
+    'Thất lạc sa châu',
+    'Tâm lý học',
+    'Cho',
+    'Trần Kiến Kỳ',
+    'Trần Quân Hào',
+    'Kịch Gézi',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
-researchReport: reports/research/2026-04/徐佳瑩.md
+researchReport: 'reports/research/2026-04/徐佳瑩.md'
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/徐佳瑩.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'fc0798f30d'
 sourceContentHash: 'sha256:f9f02c4b8eb59a3c'
 sourceBodyHash: 'sha256:08e93141b3775e8d'
-translatedAt: '2026-09-28T08:43:09+08:00'
+translatedAt: '2026-11-27T04:51:22.414265+00:00'
 ---
 
 > **30 giây tóm tắt:** Lala Hsu là người thắng giải lớp thứ ba của "Super Star" năm 2008, đồng thời là một trong ít ca sĩ từ show âm nhạc chuyển sang vị trí sáng tác cốt lõi của giải thưởng âm nhạc. Trước khi ra mắt, cô làm nhân viên y tế. "Đứng trên con ngựa trắng" biến dịch văn hóa hát giả đề "Xuân Bình Quý Và Vương Bảch Trinh" thành nhạc pop Hoa Việt, đưa các ca từ đợt thi tự sáng tạo vào thị trường nhạc. Năm 2018, album "Tình yêu" giúp cô đồng thời đoạt giải ca sĩ nữ ngôn ngữ chính thức và album nhạc ngôn ngữ chính thức lần thứ 29; năm 2022, ca "Không phải cảm xúc" đoạt giải nhà sản xuất đơn thể; năm 2023, ca "Không có nhau thì không thể rời" đoạt giải nhà sáng tác. Cô bắt đầu từ vị trí thắng cuộc thi, sau đó dần viết lại những gì bị đánh giá thành vấn đề cá nhân của mình.
