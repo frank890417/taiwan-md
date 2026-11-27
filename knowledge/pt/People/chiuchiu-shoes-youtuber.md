@@ -1,15 +1,15 @@
 ---
-title: 'Jiūjiū Xié (啾啾鞋): Apagar os vídeos de tradução mais populares foi o começo para se tornar um criador de conhecimento próprio'
-description: 'Em 2013, no dormitório da Universidade Nacional Central, Hsieh Jen-chieh (謝任杰) começou traduzindo memes estrangeiros; depois, apagou seus trabalhos antigos que mais traziam tráfego, reaprendendo como construir seu próprio canal. Ele transformou gradualmente sua formação em química, leitura de literatura acadêmica, roteirização e condições de vida em Taichung em um método sustentável de criação de conhecimento em Taiwan.'
+title: 'Chiu Chiu Shoes: Deletando os vídeos de tradução mais populares para começar a ser um criador de conteúdo próprio'
+description: 'Criador de conteúdo do tipo informativo formado no Departamento de Química da Universidade Central. Começou traduzindo memes estrangeiros em seu dormitório universitário e, posteriormente, para se estabelecer como criador, deletou seus trabalhos de tradução que mais geravam tráfego, enfrentando um período de transição de 20 meses. Ele ganhou fama com um vídeo sobre a mioglobina do bife, transformando a pesquisa, a escrita de roteiros e o aprendizado autodidata em seu método de trabalho para o canal. Baseado em Taichung há muito tempo, ele evoluiu de um cinegrafista individual para um estúdio e para o programa de audiolivros "Chiu Du".'
 date: 2026-08-17
 category: 'People'
 tags:
   [
-    'Jiūjiū Xié',
-    'Hsieh Jen-chieh',
+    'Chiu Chiu Shoes',
+    'Xie Renjie',
     'YouTuber',
-    'divulgação científica',
-    'mídia independente',
+    'Divulgação científica',
+    'Mídia independente',
   ]
 subcategory: '網路文化'
 author: 'Taiwan.md Contributors'
@@ -24,10 +24,10 @@ rationale:
   where_it_hedges: '對訂閱數、收入門檻與工作室條件均標明報導年份，避免把時點資料寫成現在狀態。'
   whos_pushing_back: '保留業配、家庭曝光與內容品質的外部討論，不把人物寫成沒有矛盾的成功模板。'
 translatedFrom: 'People/啾啾鞋.md'
-sourceCommitSha: '9c63d8227'
+sourceCommitSha: 'fd2854dbad'
 sourceContentHash: 'sha256:4ae6e15b4e3eea8f'
 sourceBodyHash: 'sha256:09d31f29d2008420'
-translatedAt: '2026-09-13T05:56:50+08:00'
+translatedAt: '2026-11-27T06:42:47.164460+00:00'
 ---
 
 > **Resumo em 30 segundos**: Jiūjiū Xié primeiro ganhou atenção traduzindo memes estrangeiros, depois apagou seus trabalhos antigos mais populares, transformando sua formação em química em um canal de conhecimento baseado em pesquisa, explicação e autodidaxia contínua. É uma história de dar um passo atrás no tráfego para recuperar a autoria da criação.

@@ -1,13 +1,13 @@
 ---
-title: 'Yeh Kuo-I: de diplomado da Shihlin Commercial Vocational School, construiu um império de manufatura por contrato de meio século'
-description: 'Nascido em 21 de abril de 1941, Yeh Kuo-I não tinha diploma universitário, partiu da Shihlin Commercial Vocational School e fundou a MiTAC em Shilin em 1975. Começando com calculadoras eletrônicas, liderou a empresa a tornar-se uma das principais fabricantes por contrato de servidores do mundo, fornecendo para Facebook, Microsoft e Google. Em 2023, passou o cargo de presidente para o segundo filho, Yeh Li-cheng, tornando-se presidente do grupo.'
+title: 'Yeh Kuo-yi: Começando na Escola de Comércio de Shilin, construiu um império de manufatura por meio de meio século'
+description: 'Fundador da indústria de manufatura eletrônica formado pela Escola de Comércio de Shilin, sem diploma universitário. Em 1975, fundou a Inventec em Shilin, Taipei, começando com calculadoras eletrônicas e liderando a empresa na transição de OEM para ODM. Após passar pelas ondas de PCs e laptops, voltou-se para servidores de nível empresarial, tornando-se um fornecedor central para os centros de dados em nuvem do Facebook, Microsoft e Google, sendo pioneiro no investimento em servidores de IA. Em 2023, transferiu o cargo de presidente para seu segundo filho, Yeh Li-cheng, retirando-se para atuar como presidente honorário do grupo, tendo escolhido a direção correta em cada ponto de virada crucial da indústria de manufatura ao longo de cinquenta anos.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Tecnologia e Empresas',
-    'MiTAC',
-    'Manufatura por Contrato Eletrônica',
+    'Inventec',
+    'Manufatura Eletrônica',
     'ODM',
     'Servidores',
   ]
@@ -18,10 +18,10 @@ lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
 translatedFrom: 'People/葉國一.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: 'c7e3d69aad'
 sourceContentHash: 'sha256:736f2b6cf89c9093'
 sourceBodyHash: 'sha256:728aa85d9d44e89a'
-translatedAt: '2026-08-04T06:18:09+08:00'
+translatedAt: '2026-11-27T07:01:57.764438+00:00'
 ---
 
 # Yeh Kuo-I: de diplomado da Shihlin Commercial Vocational School, construiu um império de manufatura por contrato de meio século

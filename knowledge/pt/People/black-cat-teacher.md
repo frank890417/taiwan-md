@@ -1,10 +1,10 @@
 ---
-title: 'Professor Gato Preto: de uma placa de vídeo superaquecida a devolver o tráfego aos leitores em vinte anos'
-description: 'No verão de 2015, uma placa de vídeo que superaqueceu e travou fez o Professor Gato Preto desistir de fazer streaming de jogos, mas deixou acidentalmente uma página de fãs. De postar fotos de gatos e narrar história a podcasts e ao "Boletim de Criação do Gato Preto", ele atravessou o Wretch, Facebook, YouTube e newsletters, perguntando-se o tempo todo: o criador está, afinal, a serviço dos leitores ou a alimentar o algoritmo?'
+title: 'Professor Black Cat: De uma placa de vídeo superaquecida a vinte anos devolvendo o tráfego aos leitores'
+description: 'Criador de conteúdo taiwanês que começou com uma página de fãs após uma transmissão fracassada de jogos em 2015. Primeiro acumulou engajamento postando fotos de gatos e depois migrou para a narrativa histórica com guias sobre a Segunda Guerra Mundial e a Alemanha Nazista, publicando o livro "A História é a Guerra". Devido à síndrome do olho seco, deixou as transmissões ao vivo para focar em Podcasts. Desde 2024, através do "Black Cat Creative Report", ele compartilha abertamente suas experiências com tráfego, plataformas e monetização, questionando constantemente se os criadores estão servindo aos leitores ou alimentando algoritmos, transformando materiais complexos em algo que as pessoas realmente querem ouvir.'
 date: 2026-08-16
 category: 'People'
+tags: ['Professor Black Cat', 'Mídia Independente', 'Narrativa Histórica']
 subcategory: '數位與媒體'
-tags: ['Professor Gato Preto', 'mídia independente', 'narração histórica']
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16
@@ -12,10 +12,10 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/黑貓老師.md'
-sourceCommitSha: '9d93b1d90'
+sourceCommitSha: 'fd2854dbad'
 sourceContentHash: 'sha256:098b16931924e6a4'
 sourceBodyHash: 'sha256:d62613e467add761'
-translatedAt: '2026-09-10T20:24:58+08:00'
+translatedAt: '2026-11-27T06:51:52.031980+00:00'
 ---
 
 # Professor Gato Preto: de uma placa de vídeo superaquecida a devolver o tráfego aos leitores em vinte anos

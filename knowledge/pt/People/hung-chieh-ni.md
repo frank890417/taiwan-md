@@ -1,19 +1,19 @@
 ---
-title: 'Hong Li: do a biblioteca de Fangyuan às ruas de HaohaTai, três nomes compartilham uma mesma caneta'
-description: 'Nascida em 1996 na costa de Changhua, Hong Li cresceu em Fangyuan. Por dia, como "Jenny", faz entrevistas nas ruas para HaohaTai; por escrito, como "Hong Li", organiza memórias de família, vida urbana em Taipé, aprendizados de padeiro e processos de crescimento. Desde "Será que a melancia é doce?" até o livro "O vendedor de melancias", três nomes abrigam uma criadora que junta trabalho público e textos íntimos no mesmo mapa de vida.'
+title: 'Hong Ni: Da Biblioteca de Fangyuan às Ruas do Haha Taiwan, Três Nomes Compartilham Uma Caneta'
+description: "Como 'Jenny', ela planeja programas e conduz entrevistas de rua com estranhos no Haha Taiwan; como 'Hong Ni', transforma em ensaios os anos da mãe, da vida como migrante no norte e como aprendiz de padeira — nascida em 1996 em Fangyuan, Changhua, formada em Comunicação Social na Universidade Shih Hsin, após alguns anos produzindo programas de TV, voltou-se para o vídeo online; com 'Doce ou Não o Melão?' ganhou o Prêmio de Pequeno Ensaio do Prêmio Literário Lin Rong-san, e com 'O Super-Homem do Pão', gestado por sete anos, obteve menção honrosa no prêmio de ensaio; o apelido 'Hong Ma Ni', deixado por um erro de caractere na escola primária, também entrou em sua primeira coletânea de ensaios, 'O Vendedor de Melões'."
 date: 2026-08-27
 category: 'People'
 tags:
   [
-    'Hong Li',
-    'Hong Ji-Yi',
+    'Hong Ni',
+    'Hong Jie Ni',
     'Jenny',
-    'Hong Ma-Yi',
-    'HaohaTai',
-    'prosa',
-    'costa de Changhua',
-    'Prêmio Lin Rong San de Literatura',
-    'publicação e mídia',
+    'Hong Ma Ni',
+    'Haha Taiwan',
+    'Ensaio',
+    'Linha Costeira de Changhua',
+    'Prêmio Literário Lin Rong-san',
+    'Publicação e Mídia',
   ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
@@ -27,10 +27,10 @@ imageCredit: 'Steve Evans / Wikimedia Commons'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Watermelons.jpg'
 translatedFrom: 'People/洪婕倪.md'
-sourceCommitSha: 'e974b4c9e'
+sourceCommitSha: '72ef874049'
 sourceContentHash: 'sha256:8351d05a79dba790'
 sourceBodyHash: 'sha256:f76990887dfd2b78'
-translatedAt: '2026-09-08T15:54:48+08:00'
+translatedAt: '2026-11-27T06:59:33.130196+00:00'
 ---
 
 # Hong Li: do a biblioteca de Fangyuan às ruas de HaohaTai, três nomes compartilham uma mesma caneta
