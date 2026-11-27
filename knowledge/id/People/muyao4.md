@@ -1,16 +1,16 @@
 ---
-title: 'Thursday 4 Super Play: Mengubah Profesionalisme Tak Terlihat Pekerjaan Biasa Menjadi Acara Variety Internet'
-description: 'Dimulai tayang 2015, "Thursday 4 Super Play" berkembang dari eksplorasi streaming Makabe ke YouTube; episode "Sehari Jadi Staf Walikota" 58 menit tahun 2018 tembus 3 juta tayangan dalam empat hari. Secara permukaan menampilkan bintang bekerja, sebenarnya mengubah cara penonton memandang teknisi PLN, staf, dan pekerja konser.'
+title: 'Mucha 4 Chao Wan: Mengubah Keahlian Tersembunyi dari Pekerjaan Biasa Menjadi Variety Show Online'
+description: 'Variety show online yang bermula dari siaran langsung Mackabey ini mulai tayang pada tahun 2015, menemukan kerangka program "Seri Satu Hari" pada tahun 2016, dan membangun saluran YouTube pada tahun 2017. Tai Chih-yuan dan lainnya terjun langsung ke lapangan sebagai teknisi Taipower, petugas perbaikan lampu jalan, hingga kru di balik layar konser; melalui detail yang mendalam, keahlian profesional yang sebelumnya tidak terlihat kini menjadi nyata. Pada tahun 2018, episode "Staf Ahli Walikota Satu Hari" berhasil menembus tiga juta penayangan dalam empat hari. Program ini mengubah selebriti menjadi magang, sekaligus memperlihatkan kepada penonton sisi profesional dari pekerjaan biasa yang sering kali luput dari perhatian.'
 date: 2026-08-16
 category: 'People'
 tags:
   [
-    'Thursday 4 Super Play',
-    'Eugene Te',
-    'seri Sehari',
-    'variety internet',
+    'Mucha 4 Chao Wan',
+    'Tai Chih-yuan',
+    'Seri Satu Hari',
+    'Variety Show Online',
     'YouTube',
-    'media Taiwan',
+    'Media Taiwan',
   ]
 subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
@@ -20,10 +20,10 @@ lastHumanReview: false
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'People/木曜4超玩.md'
-sourceCommitSha: '4f3974f86'
+sourceCommitSha: '8fc70bd881'
 sourceContentHash: 'sha256:c545680e99f6d0ab'
 sourceBodyHash: 'sha256:809502b72dc5c3f5'
-translatedAt: '2026-09-25T17:55:44.393754+00:00'
+translatedAt: '2026-11-27T18:39:07.653494+00:00'
 ---
 
 **30 秒概覽：** 2015, 《木曜4超玩》 (Thursday 4 Super Play) mulai disiarkan di McBee Web TV; 2016 muncul pertama kalinya seri "Sehari", 2017 lalu membuatkan saluran YouTube. Yang paling menarik dari acara ini bukanlah mengirimkan Tai Zhiyuan, KID, atau Winnie untuk bekerja sehari, melainkan menempatkan para pekerja, staf, dan orang-orang di balik layar yang biasanya tidak menjadi protagonis ke dalam sebuah adegan yang dapat ditonton bersama oleh seluruh penonton di Taiwan. Di luar tampilan, 木曜 seolah mengubah bintang menjadi manusia biasa; sebenarnya, ia sedang mengubah profesionalisme tak terlihat dari pekerjaan rutin menjadi sebuah program hiburan massa.
