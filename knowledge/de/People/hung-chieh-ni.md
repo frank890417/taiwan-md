@@ -1,36 +1,36 @@
 ---
-title: 'Hung Chieh-ni: Drei Namen, eine Feder – von der Fangyuan-Bibliothek zur HahaTai-Straße'
-description: 'Hung Chieh-ni, 1996 an der Changhua-Küstenlinie geboren und in Fangyuan aufgewachsen, arbeitet als „Jiani" bei HahaTai als Straßeninterviewerin. Als Schriftstellerin veröffentlicht sie unter dem Namen „Hong Ni" Essays über Familie, das Leben in Taipei, ihre Ausbildung als Bäckerin und ihre Reifung. Von „Ist die Wassermelone süß?" bis zu „Die Melonenkäuferin" verbinden drei Namen die Art, wie eine Künstlerin öffentliche Arbeit und private Schrift auf derselben Landkarte des Lebens organisiert.'
+title: 'Hong Ni: Von der Fangyuan-Bibliothek auf die Straßen von Haha Taiwan – drei Namen, eine Feder'
+description: 'Als „Jie Ni“ plant sie Sendungen bei Haha Taiwan und moderiert Straßeninterviews, bei denen sie Passanten befragt; als „Hong Ni“ verarbeitet sie die Jahre mit ihrer Mutter, als „Norddrifterin“ in Taipeh und als Bäckereilehrling in Essays – die 1996 in Fangyuan, Changhua, geborene Absolventin der Abteilung Radio und Fernsehen der Shih-Hsin-Universität, die nach einigen Jahren Fernsehproduktion zu Online-Videos wechselte, erhielt den Essay-Preis des Lin-Rong-san-Literaturpreises für „Ist die Wassermelone süß?“ und eine lobende Erwähnung beim Essay-Wettbewerb für das sieben Jahre gereifte „Brot-Superman“; der Spitzname „Hong Ma Ni“, der auf einen Schreibfehler in der Grundschule zurückgeht, fand ebenfalls Eingang in ihren ersten Essayband „Die Melonenverkäuferin“.'
 date: 2026-08-27
 category: 'People'
 tags:
   [
-    'Hung Chieh-ni',
     'Hong Ni',
-    'Jiani',
-    'Hung Mama Ni',
-    'HahaTai',
+    'Hong Jie Ni',
+    'Jie Ni',
+    'Hong Ma Ni',
+    'Haha Taiwan',
     'Essays',
     'Changhua-Küstenlinie',
     'Lin-Rong-san-Literaturpreis',
-    'Verlagswesen und Medien',
+    'Verlag und Medien',
   ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-27
 lastHumanReview: false
-curation: incubating
+curation: 'incubating'
 readingTime: 10
 image: '/article-images/people/watermelons-still-life.webp'
 imageCredit: 'Steve Evans / Wikimedia Commons'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Watermelons.jpg'
 translatedFrom: 'People/洪婕倪.md'
-sourceCommitSha: 'e974b4c9e'
+sourceCommitSha: '72ef874049'
 sourceContentHash: 'sha256:8351d05a79dba790'
 sourceBodyHash: 'sha256:f76990887dfd2b78'
-translatedAt: '2026-09-09T14:15:07+08:00'
+translatedAt: '2026-11-27T04:55:10.175283+00:00'
 ---
 
 # Hung Chieh-ni: Drei Namen, eine Feder – von der Fangyuan-Bibliothek zur HahaTai-Straße

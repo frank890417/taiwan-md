@@ -1,17 +1,17 @@
 ---
-title: 'Yan Chang-shou: Vom Postboten zum Tourismus-Pionier – und dann gab er alles auf'
-description: 'Mit nur einem Highschool-Abschluss begann er mit 23 Jahren als Postbote bei American Express. Fünf Jahre später wurde er Generaldirektor. Nochmals fünf Jahre später Präsident der führenden Hotelkette Asiens, Erfinder des „Gast wird namentlich begrüßt, bevor er aussteigt“-Servicesystems. 600.000 verkaufte Bücher. Dann kündigte er mit 62, ging nach Taitung in die Provinz, um eine Schule zu gründen, verlor ein Jahr später eine Niere. Mit 78 baute er einen Kunstpark am Pazifik.'
+title: 'Yan Changshou: Vom Postraum-Jungen zum Tourismus-Pate, dann warf er alles weg'
+description: "Vom Postraum-Jungen bei American Express zum Präsidenten des Howard Plaza Hotels erfand er, nur mit einem High-School-Abschluss, ein Servicesystem, bei dem Gäste namentlich begrüßt werden, bevor sie aussteigen, erreichte eine Wiederkehrquote von 65 % und schrieb den Bestseller „Präsident Löwenherz“ (über 600.000 Exemplare verkauft). Mit 62 Jahren trat er auf dem Höhepunkt der Hotellerie zurück, ging nach Taitung, gründete die gemeinnützige Kulturstiftung, übernahm die Junyi-Schule, um Bildung in abgelegenen Gebieten zu fördern, und widmete sich nach der Entfernung einer Niere weiterhin der Region Hualien-Taitung. Mit 78 Jahren setzte er sich für die Eröffnung des Jiang-Xian'er-Kunstparks an der Goldenen-Wein-Küste in Taitung ein."
 date: 2026-04-06
 category: 'People'
 tags:
   [
-    'Yan Chang-shou',
-    'Regent Hotel',
-    'Tourismusbranche',
-    'ländliche Bildung',
-    'Public-Welfare-Plattform',
+    'Yan Changshou',
+    'Howard Plaza Hotel',
+    'Tourismus',
+    'Bildung in abgelegenen Gebieten',
+    'gemeinnützige Plattform',
     'Junyi-Schule',
-    'Jiang Xian-er Kunstpark',
+    "Jiang-Xian'er-Kunstpark",
   ]
 subcategory: '教育與社會'
 author: 'Taiwan.md Contributors'
@@ -29,10 +29,10 @@ sporeLinks:
     date: '2026-04-06'
     url: 'https://x.com/taiwandotmd/status/2041143084583469498'
 translatedFrom: 'People/嚴長壽.md'
-sourceCommitSha: '9cef725ce'
+sourceCommitSha: '72ef874049'
 sourceContentHash: 'sha256:f03fe4356a8b034b'
 sourceBodyHash: 'sha256:0511dd3ec1c7896e'
-translatedAt: '2026-09-23T09:26:58+08:00'
+translatedAt: '2026-11-27T04:44:45.352453+00:00'
 ---
 
 # Yan Chang-shou: Vom Postboten zum Tourismus-Pionier – und dann gab er alles auf

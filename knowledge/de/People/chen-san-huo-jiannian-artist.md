@@ -1,16 +1,10 @@
 ---
-title: 'Chen San-huo: Gebrochene Vasen an das Schicksal übergeben, um die Dachdekoration am Tempel zum Leben zu erwecken'
-description: 'Nach dem Erdbeben von 1999 sammelte der Künstler Chen San-huo (陳三火) in Tainan Scherben einer Vase und entwickelte sich vom Lehrling für Tempelrestaurierung zum „Dachkünstler“, der aus Abfallkeramik kreiert. Er formte die Tradition neu, indem er die Brüche, Zufälle und recycelten Materialien anstelle der ursprünglichen Form nutzte.'
+title: 'Chen San-huo: Das zerbrochene Gefäß dem Schicksal überlassen, um die Scherbenkunst auf den Tempeldächern zu bewahren'
+description: 'Chen San-huo, geboren 1949 in Madou, Tainan, ist ein staatlich anerkannter Bewahrer der traditionellen Jiannian-Scherbenkunst. Nach seinem Mittelschulabschluss lernte er von seinem älteren Bruder die Kunst der Tempelrestaurierung und reiste durch ganz Taiwan. Während der Restaurierung des Fengyuan Ciji-Tempels nach dem Jiji-Erdbeben im Jahr 2002 setzte er aus weggeworfenen Scherben eines Blumenvasenbruchs eine Bodhidharma-Figur zusammen. Dabei entwickelte er die Methode „Gao dai Jian“ (Ersatz durch Zusammenfügen), bei der die Form der zerbrochenen Porzellanteile dem Zufall überlassen wird. Im Jahr 2020 wurde er vom Kulturministerium als erster Bewahrer der Jiannian-Handwerkskunst anerkannt, erhielt 2021 den Nationalen Handwerkspreis und gründete die „Jiannian-Familie“, um sein Wissen an Schüler weiterzugeben und an Programmen zur Vermittlung traditioneller Künste in Schulen teilzunehmen.'
 date: 2026-08-19
-subcategory: '藝術與設計'
 category: 'People'
-tags:
-  [
-    'Jiannian (Keramikkunst)',
-    'traditionelles Handwerk',
-    'Chen San-huo',
-    'Tempelkunst',
-  ]
+tags: ['Jiannian', 'Traditionelles Handwerk', 'Chen San-huo', 'Tempelkunst']
+subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20
@@ -18,10 +12,10 @@ lastHumanReview: false
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'People/陳三火.md'
-sourceCommitSha: '8cc323782'
+sourceCommitSha: 'c7e3d69aad'
 sourceContentHash: 'sha256:eedc983e2ea9d824'
 sourceBodyHash: 'sha256:7efe5656906a3904'
-translatedAt: '2026-09-14T14:50:08+08:00'
+translatedAt: '2026-11-27T05:04:05.221126+00:00'
 ---
 
 > **30-Sekunden-Zusammenfassung:** Ursprünglich war Chen San-huo ein Lehrling für die Keramikdekoration, der in Tempeln lebte. 2002, nach dem Erdbeben von 1999, fand er beim Restaurieren des Tzu Chi Tempels in Fengyuan eine weggeworfene Scherbe und schuf so zufällig einen Damm. Später machte er „Formfindung durch Zerschlagen“ zu seiner Methode. Dieser Wendepunkt gleicht einem handwerklichen Paradoxon: Um die Jiannian-Kunst zu bewahren, darf man sie nicht nur perfekt kopieren; manchmal muss man sie erst verändern.

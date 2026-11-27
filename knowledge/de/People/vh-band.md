@@ -1,20 +1,20 @@
 ---
-title: 'VH (Vast & Hazy): Fünfzehn Jahre Kalibrierung der „Export-Ästhetik“'
-description: 'Nach dem Erfolg beim Tamsui Golden Award 2011, der Pause 2014 und der Rückkehr als Duo 2017 nahmen sie dreimal den Golden Award für das beste Gesangsgruppen-Album in der Taiwan-Szene ein. In einer Zeit des Tumults in der taiwanesischen Indie-Szene wählten Vast & Hazy, eine Ansammlung von anonymer Angst zu sein – die Fans nannten sie „Export-Ästhetik“. Als Yi Qi 2026 hinter die Kulissen trat, setzte KaKa diesen Namen fort.'
+title: 'VH (Vast & Hazy): Fünfzehn Jahre Kurskorrektur der „Export-Band“'
+description: 'Das 2011 beim Tamkang Jin Shao Award gegründete taiwanesische Indie-Duo, bestehend aus Kaka und Yiqi, legte 2014 eine Pause ein, kehrte 2017 als Duo zurück und wurde dreimal für den Golden Melody Award für die beste Gesangsformation nominiert. Sie tragen mit sanften Vocals Angst und Verlorenheit, weigern sich, Texte festzulegen, und machen jeden Song zu einem emotionalen Behälter, weshalb Fans sie spontan als „Export-Band“ bezeichneten. 2026 kündigte Yiqi an, hinter die Kulissen zu wechseln, und die Band trat in eine neue Phase ein, die sich um Kaka als Kern dreht und ihre Richtung kontinuierlich justiert.'
 date: 2026-04-19
 category: 'People'
 tags:
   [
     'VH',
     'Vast & Hazy',
-    'unabhängige Musik',
-    'KaKa',
+    'Indie-Musik',
+    'Kaka',
     'Yan Jingxuan',
-    'Yi Qi',
+    'Yiqi',
     'Lin Yiqi',
-    'Golden Award',
-    'Export-Ästhetik',
-    'Emotionsrock',
+    'Golden Melody Awards',
+    'Export-Band',
+    'Emotional Rock',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
@@ -24,10 +24,10 @@ lastHumanReview: true
 researchReport: 'reports/research/2026-04/VH.md'
 readingTime: 12
 translatedFrom: 'People/VH.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'fd2854dbad'
 sourceContentHash: 'sha256:12627c86b39f3cf2'
 sourceBodyHash: 'sha256:cac852a1ab84bcac'
-translatedAt: '2026-09-11T07:09:36+08:00'
+translatedAt: '2026-11-27T05:15:10.372240+00:00'
 ---
 
 > **30-Sekunden-Überblick:** VH (Vast & Hazy) ist ein taiwanesisches Indie-Duo. Die Mitglieder KaKa (Yan Jingxuan) und Yi Qi (Lin Yiqi) wurden 2011 mit dem Tamsui Golden Award bekannt und haben dreimal den Golden Award für die beste Gesangsgruppen-Alben (2019, 2022, 2025) nominiert. Mit ihrer Schaffensphilosophie, die menschliche Beobachtungen in sanfte Stimmen verpackt, stiegen sie gegen die von politischem Rock dominierten Indie-Kreise der 2010er Jahre auf und wurden von den Fans als „Export-Ästhetik“ bezeichnet. Nach dem Jahreskonzert „Maihang“ im April 2026 kündigte Yi Qi eine Rolle hinter der Bühne an, wodurch die Band in eine neue Phase mit KaKa als Kern überging.

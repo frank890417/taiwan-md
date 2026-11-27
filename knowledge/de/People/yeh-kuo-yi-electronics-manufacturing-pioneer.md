@@ -1,13 +1,13 @@
 ---
-title: 'Ye Kuo-yi: Vom Abschluss der Shilin High School zum Aufbau eines halbständigen Fertigungsimperiums'
-description: 'Geboren am 21. April 1941, ohne Hochschulabschluss, gründete Ye Kuo-yi Yingda in Shilin und entwickelte sie von einem Elektronikunternehmen zu einem weltweit führenden Server-ODM-Hersteller für Facebook, Microsoft und Google. Im Jahr 2023 übergab er das CEO-Amt an seinen Sohn Li-cheng Ye und trat zum Vorstandsvorsitzenden zurück.'
+title: 'Yeh Kuo-yi: Vom Absolventen der Shilin Business High School zum Erbauer eines halben Jahrhunderts währendem OEM-Imperiums'
+description: 'Ein Gründer der Elektronik-Auftragsfertigung, der die Shilin Business High School besuchte und keinen Universitätsabschluss besitzt. 1975 gründete er in Shilin, Taipeh, Inventec. Angefangen mit elektronischen Taschenrechnern führte er das Unternehmen von OEM zu ODM. Nach den PC- und Laptop-Wellen verlagerte er den Fokus auf Enterprise-Server und wurde zu einem Kernlieferanten für die Cloud-Rechenzentren von Facebook, Microsoft und Google, wobei er auch als einer der Ersten in den KI-Servermarkt investierte. Im Jahr 2023 übergab er den Posten des Vorstandsvorsitzenden an seinen zweiten Sohn Yeh Li-cheng und zog sich als Group Chairman zurück. Mit fünfzig Jahren Erfahrung hat er an jedem entscheidenden Wendepunkt der Auftragsfertigungsindustrie die richtige Richtung gewählt.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Technologie und Unternehmen',
-    'Yingda',
-    'Elektronikfertigung',
+    'Technologie & Unternehmen',
+    'Inventec',
+    'Elektronik-Auftragsfertigung',
     'ODM',
     'Server',
   ]
@@ -18,10 +18,10 @@ lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
 translatedFrom: 'People/葉國一.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: 'c7e3d69aad'
 sourceContentHash: 'sha256:736f2b6cf89c9093'
 sourceBodyHash: 'sha256:728aa85d9d44e89a'
-translatedAt: '2026-09-23T19:25:25+08:00'
+translatedAt: '2026-11-27T05:07:36.676518+00:00'
 ---
 
 # Ye Kuo-yi: Vom Abschluss der Shilin High School zum Aufbau eines halbständigen Fertigungsimperiums

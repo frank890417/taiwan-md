@@ -1,10 +1,17 @@
 ---
-title: 'Yang Chuan-kwang: Der Asien-Titan aus dem Stamm in Taitung, Silbermedaille in Rom und Weltrekord von 9121 Punkten'
-description: 'Geboren am 10. Juli 1933 im Maran-Stamm der Amis in Taitung, war Yang Chuan-kwang die erste olympische Medaillengewinnerin Taiwans. Bei den Olympischen Spielen in Rom 1960 gewann er Silber mit 8334 Punkten; 1963 stellte er mit 9121 Punkten einen Weltrekord auf und sprang 4,83 Meter hoch, was die internationale Leichtathletik-Föderation zur Änderung ihrer Bewertungsskala zwang. Er starb am 27. Januar 2007 in Kalifornien, USA, im Alter von 73 Jahren. Im April 2025 wurde er vom Kulturministerium als nationales Kulturerbe eingestuft.'
+title: 'Yang Chuan-kwang: Stammeskind aus Taitung, Silbermedaillengewinner in Rom und der asiatische Ironman mit dem Weltrekord von 9121 Punkten'
+description: "Taiwans erster Olympiamedaillengewinner wurde 1933 im Amis-Stamm des Malan-Gebiets in Taitung geboren. Er studierte an der Taitung Teacher's College und am Taiwan Normal College, bevor er 1957 zur Ausbildung in die USA an die UCLA ging. Bei den Olympischen Spielen 1960 in Rom gewann er mit 8334 Punkten die Silbermedaille im Zehnkampf, nur 58 Punkte hinter dem Goldmedaillengewinner Rafer Johnson. 1963 stellte er mit 9121 Punkten einen neuen Weltrekord auf; seine Weite von 4,83 Metern beim Stabhochsprung zwang die Leichtathletik-Weltverbände sogar dazu, die Punktwerttabellen zu überarbeiten. Nach seiner Karriere widmete er sich der Sportpädagogik in Taiwan. Er verstarb 2007 im Alter von 73 Jahren infolge eines Schlaganfalls in Kalifornien, USA. Im Jahr 2025 ernannte das Kulturministerium seine Silbermedaille aus Rom zum ersten nationalen Kulturschatz Taiwans im Bereich Sport."
 date: 2026-03-19
 category: 'People'
 tags:
-  ['Sport', 'Leichtathletik', 'Olympia', 'Mehrkampf', 'indigene Völker', 'Amis']
+  [
+    'Sport',
+    'Leichtathletik',
+    'Olympische Spiele',
+    'Zehnkampf',
+    'Indigene Völker',
+    'Amis',
+  ]
 subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
@@ -12,10 +19,10 @@ lastVerified: 2026-09-05
 lastHumanReview: true
 readingTime: 7
 translatedFrom: 'People/楊傳廣.md'
-sourceCommitSha: '8d0c4a70d'
+sourceCommitSha: 'fc0798f30d'
 sourceContentHash: 'sha256:3f102f565e503ad8'
 sourceBodyHash: 'sha256:b14c332dbd93a4eb'
-translatedAt: '2026-09-23T20:45:29+08:00'
+translatedAt: '2026-11-27T05:09:42.806941+00:00'
 ---
 
 # Yang Chuan-kwang: Der Asien-Titan aus dem Stamm in Taitung, Silbermedaille in Rom und Weltrekord von 9121 Punkten

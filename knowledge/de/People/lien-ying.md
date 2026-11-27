@@ -1,15 +1,15 @@
 ---
-title: 'Lian Wun: Von „einem Frauen-Duo, das den nötigen Tanzstandard hat“ zu einem Solo-EP – sechs Jahre'
-description: '2020: Ein 21-jährliches Mädchen aus Taichung tritt auf der Casting-Bühne vor Pan Weibo und sagt: „Ich will, dass alle wissen, welches Tanzniveau eine Frauen-Gruppe haben muss.“ Sechs Jahre später hat sie eine Solo-EP veröffentlicht, Fans finanzieren eine Geburtstags-Bühne im Dadaocheng, und in drei Ländern laufen simultane Fan-Anzeigen. Sie hält ihr Versprechen.'
+title: 'Lian Ying: „Das Tanzniveau, das eine Girlgroup haben sollte“ – sechs Jahre bis zum Solo-EP'
+description: 'Eine Sängerin und Tänzerin, die aus einer taiwanesischen Girlgroup stammt, lernte ab der zweiten Klasse der Grundschule Ballett, Volkstanz und chinesischen Tanz und wechselte in der Oberstufe zum Streetdance. 2020 sagte sie in der Castingshow „Diamond Generation DD52“ zu Mentor Pan Wei-bo: „Ich will allen zeigen, welches Tanzniveau eine Girlgroup haben sollte.“ Anschließend debütierte sie als Mitglied der zweitplatzierten Gruppe „Storm Spades“ und gründete HUR+, wo sie als Haupttänzerin fungiert. 2025 veröffentlichte sie parallel zu den Gruppenaktivitäten ihre Solo-EP „EZ“, die Hip-Hop und R&B verbindet und taiwanesische Sprachelemente einfließen lässt, und wurde damit zum ersten Girlgroup-Mitglied Taiwans, das gleichzeitig Gruppen- und Solokarriere verfolgt.'
 date: 2026-04-23
 category: 'People'
 tags:
   [
-    'Lian Wun',
+    'Lian Ying',
     'ERIN',
     'HUR+',
     'DD52',
-    'Frauen-Gruppe',
+    'Girlgroup',
     'Idol',
     'taiwanesische Musik',
     'Tanz',
@@ -25,10 +25,10 @@ readingTime: 10
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/連穎.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'c7e3d69aad'
 sourceContentHash: 'sha256:5f1555ccc3c4f606'
 sourceBodyHash: 'sha256:3765efbdda716be7'
-translatedAt: '2026-09-11T07:09:36+08:00'
+translatedAt: '2026-11-27T04:57:12.353614+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Lian Wun (Erin), geb. 1999 in Taichung, begann in der 2. Klasse des Grundschuls mit Ballett, Volkstänze und chinesischem Tanz, wechselte in der Oberstufe zum Streetdance. 2020 nahm sie an „Lingge Welt DD52“ teil und sagte im zweiten Showdown gegen den Trainer Pan Weibo: „Ich will, dass alle wissen, welches Tanzniveau eine Frauen-Gruppe haben muss.“ – Dieser Satz wurde ihr Markenzeichen. Die DD52-Runner-up-Bande „Sturmhund-Schwarze“ trat unter dem Namen [HUR+](/de/people/hur-plus-band) an, Lian Wun war die Haupttänzlerin. 2025 veröffentlichte sie ihre erste Solo-EP „EZ“, ein Hip-Hop/R&B-Album mit taiwanesischen Elementen, bewusst abseits der typischen melancholischen Balladen. Am 2026-Geburtstag organisierten Fans eine Bühne im Dadaocheng, wo sie ihr neues Lied „Eine Sekunde zu spät“ zum ersten Mal sang. Während sie weiterhin mit der Band arbeitet, veröffentlicht sie Solo-Musik – ein erster Schritt für eine taiwanesische Idol-Gruppenmitglied.

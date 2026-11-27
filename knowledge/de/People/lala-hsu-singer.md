@@ -1,23 +1,23 @@
 ---
-title: 'Hsu Chia-ying: Von der Krankenschwester zur Golden Melody Award-Gewinnerin – die Frau, die ihren Casting-Sieg zur Komposition machte'
-description: '2008 verließ Hsu Chia-ying ihren Krankenpflegeberuf, meldete sich heimlich bei „Super Star Avenue" Staffel 3 an und hätte fast ein Ticket zurück nach Taichung gekauft. Mit „Auf weißem Pferd reitend" brachte sie Taiwanese Oper auf die Casting-Bühne; 2018 gewann sie mit dem Album „Psychologie" sowohl die Golden Melody Award für beste weibliche Sängerin als auch für bestes Mandarin-Album. Von „Für dich" bis „Wenn wir nicht zusammen sind, können wir uns nicht trennen" – sie verwandelte ihr bewertetes Leben schrittweise in ihre eigene Geschichte.'
+title: 'Xu Jia-ying: Von der Krankenschwester zur Golden-Melody-Diva, die den Casting-Sieg zum eigenen Schreibthema machte'
+description: 'Die sich von der Krankenschwester zur Singer-Songwriterin wandelte, kündigte 2008 ihre Krankenhausstelle, meldete sich heimlich bei der dritten Staffel von ‚Super Star‘ an, beinahe hätte sie beim Vorsingen ein Ticket zurück nach Taichung gekauft, und gewann schließlich den Titel. ‚Auf einem weißen Pferd reitend‘ brachte sie die Gesangsart des Gezaixi auf die Casting-Bühne; 2018 gewann sie mit ‚Psychologie‘ den Golden Melody Award für die beste Mandarin-Sängerin und das beste Mandarin-Album, 2022 und 2023 holte sie zudem die Preise für den besten Single-Produzenten und den besten Komponisten und verwandelte ihr bewertetes Leben langsam in ihre eigenen Themen.'
 date: 2026-04-26
 category: 'People'
 tags:
   [
     'Person',
-    'Hsu Chia-ying',
+    'Xu Jia-ying',
     'LaLa Hsu',
-    'Super Star Avenue',
-    'Mandarin-Popmusik',
+    'Super Star',
+    'Mandopop',
     'Golden Melody Awards',
-    'Auf weißem Pferd reitend',
+    'Auf einem weißen Pferd reitend',
     'Verlorene Sandbank',
     'Psychologie',
-    'Für dich',
+    'Give',
     'Chen Chien-chi',
-    'Chen Chun-hao',
-    'Taiwanese Oper',
+    'Chen Jun-hao',
+    'Gezaixi',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
@@ -28,10 +28,10 @@ researchReport: 'reports/research/2026-04/徐佳瑩.md'
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/徐佳瑩.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'fc0798f30d'
 sourceContentHash: 'sha256:f9f02c4b8eb59a3c'
 sourceBodyHash: 'sha256:08e93141b3775e8d'
-translatedAt: '2026-09-26T19:13:21+08:00'
+translatedAt: '2026-11-27T06:20:00.598798+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Hsu Chia-ying war 2008 die Gewinnerin von „Super Star Avenue" Staffel 3 und gehört zu den wenigen taiwanesischen Sängerinnen, die vom Fernsehen-Casting zum Kern der Golden Melody Awards-Komposition aufgestiegen sind. Vor ihrem Durchbruch war sie Krankenschwester; mit „Auf weißem Pferd reitend" verwandelte sie die Gesangsweise der Taiwanese Oper „Xue Pinggui und Wang Baochuang" in Mandarin-Pop. Ihr erstes Album 2009 brachte mehrere Selbstkomposition aus Wettbewerben auf den Plattenmarkt. 2018 gewann sie mit „Psychologie" beim 29. Golden Melody Award sowohl beste Mandarin-Sängerin als auch bestes Mandarin-Album; 2022 erhielt sie für „Alles andere" den Preis für beste Single-Produktion, 2023 für „Wenn wir nicht zusammen sind, können wir uns nicht trennen" den Preis für beste Komposition. Sie begann als Casting-Gewinnerin und verwandelte ihr bewertetes Leben schrittweise in ihre eigene Geschichte.

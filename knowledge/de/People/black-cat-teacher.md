@@ -1,10 +1,10 @@
 ---
-title: 'Meister Black Cat: Von einer überhitzten Grafikkarte zu zwanzig Jahren, in denen er den Lesern Traffic zurückgab'
-description: 'Im Sommer 2015 ließ eine überhitzte und abgestürzte Grafikkarte Meister Black Cat (黑貓老師) von Livestreams aufgeben, doch sie hinterließ unerwartet eine Fanseite. Von Katzenfotos und Geschichtserzählungen bis hin zu Podcasts und dem Magazin „Black Cat Creation Report“ durchquerte er unbekannte Webseiten, Facebook, YouTube und E-Mail-Newsletter und fragte immer wieder: Dient der Schöpfer den Lesern oder füttert er den Algorithmus?'
+title: 'Schwarze-Katze-Lehrer: Von einer überhitzten Grafikkarte zu zwanzig Jahren, in denen der Traffic den Lesern zurückgegeben wird'
+description: 'Ein taiwanesischer Independent-Media-Ersteller, der von einer Fanpage ausgeht, die nach einem fehlgeschlagenen Gaming-Livestream 2015 übrig blieb, zunächst durch Katzenfotos Interaktionen aufbaute, dann durch Zusammenfassungen zum Zweiten Weltkrieg und zum Nazi-Deutschland zum historischen Erzählen fand, veröffentlichte »Geschichte ist Krieg«. Trockenes-Augen-Syndrom zwang ihn, das Livestreaming aufzugeben und sich Podcasts zuzuwenden, ab 2024 veröffentlichte er mit dem »Schwarze-Katze-Schöpferbericht« Erfahrungen zu Traffic, Plattformen und Monetarisierung, und hinterfragte dabei stets, ob Schöpfer den Lesern dienen oder Algorithmen füttern, und komplexe Inhalte so aufbereitete, dass sie jemand gerne hören und verstehen wollte.'
 date: 2026-08-16
 category: 'People'
+tags: ['Schwarze-Katze-Lehrer', 'Independent Media', 'Geschichtsvermittlung']
 subcategory: '數位與媒體'
-tags: ['Meister Black Cat', 'Self-Media', 'Geschichtserzähler']
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16
@@ -12,10 +12,10 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/黑貓老師.md'
-sourceCommitSha: '9d93b1d90'
+sourceCommitSha: 'fd2854dbad'
 sourceContentHash: 'sha256:098b16931924e6a4'
 sourceBodyHash: 'sha256:d62613e467add761'
-translatedAt: '2026-09-13T00:44:08+08:00'
+translatedAt: '2026-11-27T04:48:36.047687+00:00'
 ---
 
 # Meister Black Cat: Von einer überhitzten Grafikkarte zu zwanzig Jahren, in denen er den Lesern Traffic zurückgab
