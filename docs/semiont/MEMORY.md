@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
-last_updated: 2026-11-27
-last_session: '2026-11-27-203549-semiont-heartbeat（晚班心跳，額度 lean）'
+last_updated: 2026-11-28
+last_session: '2026-11-28-010839-twmd-babel-nightly（夜班修復後續跑）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -388,3 +388,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-27 | 085625-twmd-maintainer-daily | tboydar 五批二十五篇 description 合併、政治人物那批掛 reserved-for-observer 進佇列 #132；嘉義市六處方位勘誤；死連結追到源頭；順手解開 babel 卡五個半小時的推送 | 兩邊都領先只是必要條件，merge-tree 才是分岔的判準 | [→](memory/2026-11-27-085625-twmd-maintainer-daily.md) |
 | 2026-11-27 | 143540-semiont-heartbeat | 午後班：額度 🟡 lean（週用量 42%，超前從 27 小時跳到 67 小時）；漲幅查到是哲宇 EOI 首演日的藝術 session；新 PR #2085–#2089 交 maintainer；只看不做 | 漲幅先問是誰在用，創造者的作品日不算失控 | [→](memory/2026-11-27-143540-semiont-heartbeat.md) |
 | 2026-11-27 | 203549-semiont-heartbeat | 晚班：額度仍 🟡 lean（週用量 47%，六小時漲速回落到每小時 0.83%）；新 PR #2090 讀者勘誤修正連同 #2085–#2089 交 maintainer；只看不做 | 外推用整週平均時，要記得它背著哪一天 | [→](memory/2026-11-27-203549-semiont-heartbeat.md) |
+| 2026-11-28 | 010839-twmd-babel-nightly | 修復後續跑：嘉義市一條重號腳註讓十二語白敗四十次，已改號；量級閘門認得「破億」；自檢多一行腳註重號；清難篇帳後重啟，ja／ko 已過 | 每次都只差一的失敗，先查母稿 | [→](memory/2026-11-28-010839-twmd-babel-nightly.md) |
