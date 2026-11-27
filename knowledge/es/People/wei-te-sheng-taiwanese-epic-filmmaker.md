@@ -1,17 +1,17 @@
 ---
-title: 'Wei Te-sheng: Yongkang 1969, el director de épicas taiwanesas del éxito de taquilla de "Cape No. 7" a la competencia principal de Venecia'
-description: 'Nacido el 16 de agosto de 1969 en el municipio de Yongkang, condado de Tainan (actual distrito de Yongkang, ciudad de Tainan). Graduado en Ingeniería Eléctrica del Far Eastern Junior College of Technology. En 2008, "Cape No. 7" recaudó aproximadamente 530 millones de dólares taiwaneses (récord del cine taiwanés). En 2011, "Seediq Bale" fue seleccionado para la competencia principal de la 68.ª edición del Festival Internacional de Cine de Venecia, compitiendo por el León de Oro, y ganó el premio a Mejor Película en la 48.ª edición de los Premios Golden Horse. Actualmente prepara el proyecto épico "Trilogía de Taiwán".'
+title: "Wei Te-sheng: Yongkang 1969, de 'Cape No. 7' con taquilla de más de NT$100 millones a la competición principal de Venecia, director épico de Taiwán"
+description: "Director de cine taiwanés, nacido en Yongkang, Tainan, en 1969, tras graduarse en el Departamento de Ingeniería Eléctrica del Instituto Tecnológico Far East ingresó en la industria cinematográfica como ayudante de dirección. En 2008, su película autofinanciada y dirigida por él mismo 'Cape No. 7' alcanzó una taquilla de aproximadamente NT$530 millones, reavivando la confianza del público en las historias taiwanesas; en 2011, 'Seediq Bale', basada en el incidente de Wushe, fue seleccionada para la competición principal del 68.º Festival de Cine de Venecia y ganó el premio a la Mejor Película en los 48.º Premios Golden Horse. Actualmente prepara el proyecto épico 'Trilogía de Taiwán', con un presupuesto total estimado de más de NT$4.500 millones."
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    '電影與戲劇',
-    '導演',
-    '台灣電影',
-    '原住民文化',
-    '海角七號',
-    '賽德克巴萊',
-    '台南',
+    'Cine y teatro',
+    'Director',
+    'Cine taiwanés',
+    'Cultura indígena',
+    'Cape No. 7',
+    'Seediq Bale',
+    'Tainan',
   ]
 subcategory: '電影與戲劇'
 author: 'Taiwan.md'
@@ -20,10 +20,10 @@ lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
 translatedFrom: 'People/魏德聖.md'
-sourceCommitSha: '8f070a88'
+sourceCommitSha: 'c7e3d69aad'
 sourceContentHash: 'sha256:c53d9ecd803bd8cd'
 sourceBodyHash: 'sha256:9fd756dd61905363'
-translatedAt: '2026-06-11T16:38:50Z'
+translatedAt: '2026-11-27T05:02:55.969990+00:00'
 ---
 
 # Wei Te-sheng: Yongkang 1969, el director de épicas taiwanesas del éxito de taquilla de "Cape No. 7" a la competencia principal de Venecia

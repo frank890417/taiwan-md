@@ -1,16 +1,16 @@
 ---
-title: 'Los hermanos Huang: tras la etiqueta de frescura, una verdad y ternura forzadas a la luz'
-description: 'Desde un vídeo de bromas en 2017, los hermanos Huang destacaron en YouTube por su contenido "fresco y positivo". Sin embargo, un reportaje sobre su salida del armario en 2020 les obligó a desmantelar su privacidad ante millones de suscriptores, revelando la respuesta más tierna de la sociedad taiwanesa hacia la igualdad de género.'
+title: 'Los hermanos Huang: detrás de la etiqueta fresca, la verdad y la ternura que se vieron obligadas a revelar'
+description: 'El dúo taiwanés de un millón de suscriptores formado por el hermano mayor Zhe Zhe y el hermano menor Wei Wei comenzó en 2017 con un video de fideos instantáneos de una tienda de conveniencia japonesa, y llegó a establecer un récord de 20 meses sin descanso. En 2020, el hermano menor fue obligado por los medios a salir del armario; el video en el que, entre lágrimas y sin poder hablar, llama a su madre frente a la cámara provocó una ola de apoyo en toda Taiwán y también sacó a la luz el debate sobre la ética mediática y la privacidad digital. Desde entonces, han incursionado en la música, la beneficencia y las escuelas, pasando de ser unos jóvenes bromistas a creadores que asumen responsabilidad social.'
 date: 2026-06-01
 category: 'People'
 tags:
   [
     'YouTuber',
-    'Hermanos Huang',
-    'Wei-wei',
-    'Zhe-zhe',
+    'Los hermanos Huang',
+    'Wei Wei',
+    'Zhe Zhe',
     'igualdad de género',
-    'cultura de Taiwán',
+    'cultura taiwanesa',
   ]
 subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
@@ -21,10 +21,10 @@ readingTime: 12
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/黃氏兄弟.md'
-sourceCommitSha: '7d41e6f686'
+sourceCommitSha: 'fd2854dbad'
 sourceContentHash: 'sha256:1016352970b6d5c8'
 sourceBodyHash: 'sha256:68b9398b0dec02a8'
-translatedAt: '2026-11-21T10:48:01+08:00'
+translatedAt: '2026-11-27T05:05:12.429027+00:00'
 ---
 
 > **Resumen en 30 segundos:**

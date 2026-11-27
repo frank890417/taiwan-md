@@ -1,36 +1,37 @@
 ---
-title: 'Lala Hsu: de enfermera a reina del Golden Melody, la persona que convirtió un concurso de talentos en su propia canción'
-description: 'En 2008, Lala Hsu renunció a su trabajo como enfermera y se inscribió en secreto en la tercera temporada de Super Star Avenue, casi comprando un boleto de regreso a Taichung. "Riding a White Horse" llevó la ópera taiwanesa al escenario de un concurso de talentos; en 2018, The Inner Me le otorgó el premio a Mejor Cantante Femenina de Mandarín y Mejor Álbum de Mandarín en los Golden Melody Awards. Con Gei y "Not Together, Never Apart", transformó una vida evaluada por otros en sus propias composiciones.'
+title: 'LaLa Hsu: de enfermera a reina de los Golden Melody Awards, quien convirtió su título de campeona de un concurso en tema de creación'
+description: 'Cantautora que se reconvirtió desde enfermera, en 2008 renunció a su trabajo en el hospital y se inscribió en secreto en la tercera temporada de Super Star, durante la audición casi compra un billete de vuelta a Taichung, finalmente ganó el campeonato. "Cabalgando un Caballo Blanco" llevó el estilo vocal de la ópera taiwanesa al escenario del concurso; en 2018 ganó con "Psicología Interior" los premios Golden Melody a Mejor Cantante Femenina de Mandarín y Mejor Álbum de Mandarín, en 2022 y 2023 volvió a ganar Mejor Productor de Sencillo y Mejor Compositor, convirtiendo poco a poco su vida evaluada en su propio tema.'
 date: 2026-04-26
+category: 'People'
 tags:
   [
-    'Personaje',
-    'Lala Hsu',
-    'Lala Hsu',
-    'Super Star Avenue',
-    'Música pop mandarina',
+    'Personajes',
+    'LaLa Hsu',
+    'LaLa Hsu',
+    'Super Star',
+    'Pop mandarín',
     'Premios Golden Melody',
-    'Riding a White Horse',
-    'Lost Desert Oasis',
-    'The Inner Me',
-    'Gei',
+    'Cabalgando un Caballo Blanco',
+    'Banco de Arena Perdido',
+    'Psicología Interior',
+    'Dar',
     'Chen Chien-chi',
     'Chen Jun-hao',
     'Ópera taiwanesa',
   ]
-category: People
-subcategory: 音樂與表演
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
+researchReport: 'reports/research/2026-04/徐佳瑩.md'
 curation: 'incubating'
 curationReason: 'unverified'
-translatedFrom: People/徐佳瑩.md
-sourceCommitSha: 'be13f045'
+translatedFrom: 'People/徐佳瑩.md'
+sourceCommitSha: 'fc0798f30d'
 sourceContentHash: 'sha256:f9f02c4b8eb59a3c'
 sourceBodyHash: 'sha256:08e93141b3775e8d'
-translatedAt: 2026-05-02T01:17:17+08:00
+translatedAt: '2026-11-27T04:56:47.860331+00:00'
 ---
 
 > **Resumen en 30 segundos:** Lala Hsu ganó la tercera temporada de Super Star Avenue en 2008 y es una de las pocas cantantes surgidas de un concurso televisivo en Taiwán que logró posicionarse como compositora central en los Golden Melody Awards. Antes de debutar era enfermera. "Riding a White Horse" transformó las arias de la ópera taiwanesa Xue Pinggui y Wang Baochuan en una canción pop mandarina. En 2009, su álbum debut llevó varias de sus composiciones originales del concurso al mercado discográfico. En 2018, The Inner Me le otorgó simultáneamente el premio a Mejor Cantante Femenina de Mandarín y Mejor Álbum de Mandarín en la 29.ª edición de los Golden Melody Awards. En 2022, "None of the Above" ganó el premio a Mejor Productor de Sencillo; en 2023, "Not Together, Never Apart" se llevó el premio a Mejor Compositor. Partió de un concurso de talentos y, con el tiempo, transformó una vida evaluada por otros en sus propias composiciones.

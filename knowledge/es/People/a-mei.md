@@ -1,17 +1,9 @@
 ---
-title: 'A-mei: Cantante de la tribu Beinan, del álbum «Sisters» de 1996 a cinco conciertos en el Gran Estadio de 2024'
-description: 'Nacida el 9 de agosto de 1972 en el pueblo Daba 69 de la localidad de Beinan, condado de Taitung, A-mei es una cantante taiwanesa de la tribu Beinan y una de las artistas femeninas más exitosas de la historia de la música pop en chino. Su primer álbum, «Sisters», lanzado en 1996, vendió 1,21 millones de copias en Taiwán y 4 millones en Asia. En 2015 realizó la gira «Utopía» con 10 conciertos en el Taipei Arena. En diciembre de 2024 presentó la serie ASMeiR MAXXX con 5 conciertos en el Gran Estadio, con un presupuesto de 200 millones de NT$ y la liberación de globos aerostáticos en vivo. Su venta acumulada supera los 50 millones de copias.'
+title: 'A-Mei: cantante de la etnia Puyuma, desde «Hermanas» (1996) hasta cinco conciertos en el Taipei Dome (2024)'
+description: 'Cantante de la etnia Puyuma, nació en 1972 en la tribu Daparugan del municipio de Beinan, Taitung. En su juventud, cantaba con su familia en restaurantes para ayudar a la economía familiar. En 1996, su primer álbum «Hermanas», producido por Chang Yu-sheng, vendió 1,21 millones de copias en Taiwán e incorporó voces tradicionales puyuma; sus ventas acumuladas superan los 50 millones de copias. En 2000, fue vetada en China durante aproximadamente cuatro años por cantar el himno nacional en la ceremonia de investidura presidencial. En 2015, realizó diez conciertos consecutivos en el Taipei Arena con la gira «Utopía»; en 2024, ofreció cinco conciertos consecutivos en el Taipei Dome, y ha apoyado públicamente los derechos LGBT durante mucho tiempo.'
 date: 2026-03-19
 category: 'People'
-tags:
-  [
-    'Música',
-    'Pueblos indígenas',
-    'Beinan',
-    'Reina',
-    'Derechos LGTBQ',
-    'Música pop',
-  ]
+tags: ['Música', 'Indígenas', 'Puyuma', 'Diva', 'Derechos LGBT', 'Música pop']
 subcategory: '音樂'
 author: 'Taiwan.md'
 featured: false
@@ -21,10 +13,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/張惠妹.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'fc0798f30d'
 sourceContentHash: 'sha256:aebfe56ef8181ee0'
 sourceBodyHash: 'sha256:2548692a01191648'
-translatedAt: '2026-11-04T21:43:57.722126+00:00'
+translatedAt: '2026-11-27T05:11:13.192392+00:00'
 ---
 
 # A-mei: Reina de la tribu Beinan, del álbum «Sisters» de 1996 a cinco conciertos en el Gran Estadio de 2024

@@ -1,10 +1,10 @@
 ---
-title: 'El profesor Gato Negro: De una tarjeta gráfica sobrecalentada a devolver el tráfico a los lectores durante veinte años'
-description: 'En el verano de 2015, una tarjeta gráfica sobrecalentada y fallida llevó al profesor Gato Negro a abandonar los directos de videojuegos, pero dejó accidentalmente una página de fans. Desde mostrar gatos, narrar historia hasta el podcast y el "Boletín Creativo del Gato Negro", cruzó Wu Ming Xiao Zhan, Facebook, YouTube y boletines por correo electrónico, mientras se preguntaba constantemente: ¿sirven los creadores a los lectores o alimentan al algoritmo?'
+title: 'Profesor Black Cat: De una tarjeta gráfica sobrecalentada a veinte años devolviendo el tráfico a los lectores'
+description: 'Creador de contenido taiwanés que comenzó con una página de fans tras un intento fallido de streaming de juegos en 2015. Primero acumuló interacción publicando fotos de su gato y luego se convirtió en narrador de historia gracias a sus resúmenes sobre la Segunda Guerra Mundial y la Alemania nazi, publicando el libro «La historia es la guerra». Debido a la sequedad ocular, dejó el streaming para enfocarse en los podcasts. Desde 2024, con «Black Cat Creative Report», comparte públicamente su experiencia sobre tráfico, plataformas y monetización, cuestionando constantemente si los creadores sirven a los lectores o alimentan al algoritmo, logrando explicar materiales complejos de forma que la gente quiera escucharlos.'
 date: 2026-08-16
 category: 'People'
+tags: ['Profesor Black Cat', 'Medios digitales', 'Narración histórica']
 subcategory: '數位與媒體'
-tags: ['profesor Gato Negro', 'medios independientes', 'narración de historia']
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16
@@ -12,10 +12,10 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/黑貓老師.md'
-sourceCommitSha: '9d93b1d90'
+sourceCommitSha: 'fd2854dbad'
 sourceContentHash: 'sha256:098b16931924e6a4'
 sourceBodyHash: 'sha256:d62613e467add761'
-translatedAt: '2026-09-11T01:53:10+08:00'
+translatedAt: '2026-11-27T04:45:57.997362+00:00'
 ---
 
 # El profesor Gato Negro: De una tarjeta gráfica sobrecalentada a devolver el tráfico a los lectores durante veinte años

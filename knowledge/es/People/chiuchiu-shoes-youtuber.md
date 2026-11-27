@@ -1,15 +1,15 @@
 ---
-title: 'Chiu Chiu Shoes: Borrar el video de traducción más viral fue el inicio para convertirse en un creador de conocimiento propio'
-description: 'En 2013, Hsieh Jen-chieh, en el dormitorio de la Universidad Central, comenzó traduciendo memes extranjeros; luego borró sus antiguas obras más exitosas para volver a aprender cómo construir su propio canal. Transformó su formación en química, la lectura de literatura, el diseño de guiones y las condiciones de vida en Taichung en un método de creación de conocimiento taiwanés capaz de operar a largo plazo.'
+title: 'Jiu Jiu Shoes: eliminar el vídeo de traducción más viral para empezar a ser su propio creador de conocimiento'
+description: 'Creador de contenido de conocimiento graduado del Departamento de Química de la Universidad Central, comenzó en el dormitorio universitario traduciendo memes extranjeros; luego, para mantenerse como creador, eliminó sus obras de traducción que más tráfico generaban, enfrentando un período de transformación de 20 meses. Saltó a la fama con un video sobre la mioglobina del bistec, convirtiendo la investigación, la escritura de guiones y el autoaprendizaje en el método de trabajo del canal; arraigado largo tiempo en Taichung, pasó de grabar solo a un estudio y al programa de narración «Jiu Du».'
 date: 2026-08-17
 category: 'People'
 tags:
   [
-    'Chiu Chiu Shoes',
-    'Hsieh Jen-chieh',
+    'Jiu Jiu Shoes',
+    'Xie Renjie',
     'YouTuber',
     'divulgación científica',
-    'medios independientes',
+    'automedia',
   ]
 subcategory: '網路文化'
 author: 'Taiwan.md Contributors'
@@ -24,10 +24,10 @@ rationale:
   where_it_hedges: '對訂閱數、收入門檻與工作室條件均標明報導年份，避免把時點資料寫成現在狀態。'
   whos_pushing_back: '保留業配、家庭曝光與內容品質的外部討論，不把人物寫成沒有矛盾的成功模板。'
 translatedFrom: 'People/啾啾鞋.md'
-sourceCommitSha: '9c63d8227'
+sourceCommitSha: 'fd2854dbad'
 sourceContentHash: 'sha256:4ae6e15b4e3eea8f'
 sourceBodyHash: 'sha256:09d31f29d2008420'
-translatedAt: '2026-09-11T08:39:15+08:00'
+translatedAt: '2026-11-27T04:41:04.982842+00:00'
 ---
 
 > **Resumen en 30 segundos**: Chiu Chiu Shoes ganó atención inicialmente traduciendo memes extranjeros, pero luego borró sus antiguas obras más populares para transformar su formación en química en un canal de conocimiento dedicado a buscar información, explicar conceptos y aprender continuamente. Esta es la historia de cómo, al retroceder un paso respecto al tráfico viral, recuperó la subjetividad de su creación.
