@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-28T02:42:56+08:00",
-    "zhCommitHead": "cf4dbd83b9",
+    "lastUpdated": "2026-11-28T03:28:41+08:00",
+    "zhCommitHead": "6236a16909",
     "totalZh": 1194,
     "activeLanguages": [
       "en",
@@ -52,17 +52,17 @@
       },
       "fr": {
         "total_zh": 1194,
-        "fresh": 1185,
-        "stale": 6,
+        "fresh": 1186,
+        "stale": 5,
         "metadata_stale": 3,
         "missing": 0,
         "orphan": 0
       },
       "vi": {
         "total_zh": 1194,
-        "fresh": 1183,
+        "fresh": 1184,
         "stale": 10,
-        "metadata_stale": 1,
+        "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
@@ -108,9 +108,9 @@
       },
       "de": {
         "total_zh": 1194,
-        "fresh": 1133,
+        "fresh": 1134,
         "stale": 27,
-        "metadata_stale": 34,
+        "metadata_stale": 33,
         "missing": 0,
         "orphan": 0
       }
@@ -114850,20 +114850,18 @@
         "vi": {
           "path": "vi/People/takeshi-kaneshiro.md",
           "translatedFrom": "People/金城武.md",
-          "sourceCommitSha": "be13f0452",
-          "sourceContentHash": "sha256:6eed6bfbb091aeed",
+          "sourceCommitSha": "a9322956ed",
+          "sourceContentHash": "sha256:55178af9281f4694",
           "sourceBodyHash": "sha256:17690ed615ebe1ca",
-          "translatedAt": "2026-11-18T22:34:25.162879+00:00",
+          "translatedAt": "2026-11-28T00:51:26+08:00",
           "translationLastCommit": "16f961a8",
           "translationLastModified": "2026-11-19T07:52:33+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "bytes": 15731,
+          "bytes": 16717,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/takeshi-kaneshiro.md",
@@ -137836,20 +137834,18 @@
         "de": {
           "path": "de/People/muyao4.md",
           "translatedFrom": "People/木曜4超玩.md",
-          "sourceCommitSha": "4f3974f86",
+          "sourceCommitSha": "8fc70bd881",
           "sourceContentHash": "sha256:c545680e99f6d0ab",
           "sourceBodyHash": "sha256:809502b72dc5c3f5",
-          "translatedAt": "2026-09-21T14:33:47.358919+00:00",
+          "translatedAt": "2026-11-27T18:43:17.264236+00:00",
           "translationLastCommit": "5da8e3a8",
           "translationLastModified": "2026-09-21T23:22:06+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "bytes": 29037,
+          "bytes": 29350,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -213120,8 +213116,8 @@
           "sourceContentHash": "sha256:3c26fdbf6ae8c1e1",
           "sourceBodyHash": "sha256:de7eeb7836899ba7",
           "translatedAt": "2026-11-27T17:02:19.079272+00:00",
-          "translationLastCommit": "c535adc1",
-          "translationLastModified": "2026-11-19T01:16:32+08:00",
+          "translationLastCommit": "6236a169",
+          "translationLastModified": "2026-11-28T02:42:57+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "bytes": 60454,
@@ -213132,18 +213128,18 @@
         "fr": {
           "path": "fr/Geography/chiayi-city.md",
           "translatedFrom": "Geography/嘉義市.md",
-          "sourceCommitSha": "be13f045",
-          "sourceContentHash": "sha256:fe4751f1e66665bd",
-          "sourceBodyHash": "sha256:7f19df1b99a37241",
-          "translatedAt": "2026-09-18T08:32:07.173590+00:00",
+          "sourceCommitSha": "cb9b03dad5",
+          "sourceContentHash": "sha256:3c26fdbf6ae8c1e1",
+          "sourceBodyHash": "sha256:de7eeb7836899ba7",
+          "translatedAt": "2026-11-27T19:18:26.540140+00:00",
           "translationLastCommit": "e7bbd175",
           "translationLastModified": "2026-11-19T01:17:21+08:00",
           "inferred": false,
-          "footnoteDefs": 32,
-          "bytes": 57301,
+          "footnoteDefs": 33,
+          "bytes": 61134,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (33→32)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Geography/chiayi-city.md",
