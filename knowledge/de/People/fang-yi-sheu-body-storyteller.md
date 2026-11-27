@@ -1,6 +1,6 @@
 ---
-title: 'Fang-Yi Hsu: Yilan 1971, vom Principal der Graham Company zum Key-Visual-Tänzer des Golden Horse Film Festival 2024'
-description: 'Geboren 1971 in Yilan. Tanzstudium an der Nationalen Universität der Künste Taipeh, 1995 in die USA, Eintritt in die Martha Graham Dance Company, 1999 zur Principal Dancer befördert. 2007 Rückkehr nach Taiwan, Gründung von LAFA (Ende 2010). Dokumentarfilm „Mein Herz, mein Weg“ (2020). 2024 Gestaltung des Key Visuals für das Golden Horse Film Festival. 2025 Interview zu Körperalterung und Karrierewandel.'
+title: 'Hsu Fang-yi: Geboren 1971 in Yilan, von Solistin der Graham Dance Company zur Tänzerin des Golden Horse Film Festival Hauptvisuals 2024'
+description: 'Taiwanische zeitgenössische Tänzerin, geboren in Yilan. Nach ihrem Abschluss am Department of Dance der Taipei National University of the Arts ging sie in die USA, wo sie 1995 nach einem Audition bei der Martha Graham Dance Company unter Vertrag genommen wurde und vier Jahre später zur Solistin aufstieg. Sie gehört zu den wenigen Taiwanern, die eine Solistenposition bei einer der weltweit führenden modernen Tanzkompanien innehatten. Im Jahr 2007 kehrte sie nach Taiwan zurück, um La Fang zu gründen und die Tanzpädagogik sowie interdisziplinäre Kooperationen zu fördern. 2020 wurde ihr Dokumentarfilm „My Heart, My Movement“ veröffentlicht, und 2024 entwarf sie den Tanz für das Hauptvisual des Golden Horse Film Festival. In den letzten Jahren spricht sie sich öffentlich über körperliches Altern und die berufliche Transformation von Tänzern aus.'
 date: 2026-03-19
 category: 'People'
 tags:
@@ -8,8 +8,8 @@ tags:
     'Kunst und Design',
     'Tanz',
     'Darstellende Kunst',
-    'Moderner Tanz',
-    'Martha Graham Dance Company',
+    'Zeitgenössischer Tanz',
+    'Graham Dance Company',
   ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md'
@@ -20,10 +20,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/許芳宜.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '630afb2b66'
 sourceContentHash: 'sha256:a31b5339a894147e'
 sourceBodyHash: 'sha256:e2e71f85bef4ed48'
-translatedAt: '2026-11-04T20:12:47.563697+00:00'
+translatedAt: '2026-11-27T02:03:22.764582+00:00'
 ---
 
 # Fang-Yi Hsu: Yilan 1971, vom Principal der Graham Company zum Key-Visual-Tänzer des Golden Horse Film Festival 2024

@@ -1,15 +1,15 @@
 ---
-title: 'A-Di: Vom englisch ablehnenden Austauschstudenten zum „Dorftürer“ der taiwanesischen YouTube-Szene'
-description: 'Im Jahr 2020 startete der YouTuber A-Di eine Kampagne für die New York Times, um Taiwan zu zeigen; im Jahr 2021 offenbarte er öffentlich seine Depression und nahm so seinen Lebenstiefpunkt an. Von seiner englischen Erziehung in Singapur bis zur Gründung eines Kreativverbandes ist A-Di nicht nur ein Wissens-Influencer, sondern auch eine treibende Kraft der taiwanesischen neuen Medienlandschaft.'
+title: 'A-Di: Vom englischfeindlichen Austauschschüler zum „Vorsteher“ der taiwanesischen YouTube-Welt'
+description: 'Vom singapurischen Austauschschüler, der Englisch ablehnte, zu einem der führenden Wissens-YouTuber Taiwans. Er fasste den Mut, Englisch zu lernen, um eine Yu-Gi-Oh!-Karte zu kaufen, und gründete 2015 gemeinsam mit seiner Schwester Di-Mei einen Englisch-Lehrkanal. Im Jahr 2020 startete er eine Crowdfunding-Kampagne, um mit fast NT$ 19 Millionen eine ganzseitige Anzeige in der „New York Times“ zu schalten und der Welt „Taiwan Can Help“ mitzuteilen. 2021 machte er seinen Weg mit Depressionen öffentlich und gründete die Taiwan New Media Video Creators Association, deren Vorsitzender er ist. Von seinen Fans wird er liebevoll als der „Vorsteher der YouTube-Welt“ bezeichnet.'
 date: 2026-04-20
 category: 'People'
 tags:
   [
     'YouTuber',
     'A-Di',
-    'Taiwanische Neuen Medien',
+    'Neue Medien in Taiwan',
     'Depression',
-    'New York Times Werbung',
+    'New York Times Anzeige',
   ]
 subcategory: '數位與媒體'
 author: 'Taiwan.md'
@@ -20,10 +20,10 @@ readingTime: 9
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/阿滴.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '8fc70bd881'
 sourceContentHash: 'sha256:bc1390f13b2a7b07'
 sourceBodyHash: 'sha256:5621e86f4a6c80eb'
-translatedAt: '2026-11-05T07:21:01.894898+00:00'
+translatedAt: '2026-11-27T02:14:57.255291+00:00'
 ---
 
 > **30-Sekunden-Zusammenfassung:** Im Jahr 2020 startete der YouTuber A-Di (Tu Sheng-rui) die Fundraising-Initiative „ThisAttackComesFromTaiwan“, erreichte innerhalb weniger Stunden das Ziel von 4 Millionen und sammelte letztendlich fast 19 Millionen ein, um eine ganztägige Anzeige in der New York Times zu schalten und der Welt laut zu sagen: „Taiwan kann helfen“. Im darauffolgenden Jahr teilte er seinen jahrelangen Weg mit seiner Depression öffentlich mit und gründete gemeinsam mit Zhiqi Qiqi den Taiwanischen Neuen Medien Video-Kreativverband, bei dem er Vorstandsvorsitzender ist, um ein unterstützendes Ökosystem für taiwanesische Kreative aufzubauen. Von der Ablehnung der englischen Sprache als Austauschstudent in Singapur bis zum „Dorftürer“ (Li Zhang Bo) der taiwanesischen YouTube-Szene ist A-Dis Geschichte nicht nur eine persönliche Transformation, sondern ein realistischer Ausschnitt des Übergangs der taiwanesischen Neuen Medien von individueller Kreation zu kollektivem Wohl.

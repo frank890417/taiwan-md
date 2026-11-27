@@ -1,15 +1,15 @@
 ---
-title: 'Hsu Wen-lung: Geboren in Tainan 1928, Gründer des Museums mit der weltweit größten Sammlung von Violinen seit 1959 bei Chimei Industries'
-description: 'Geboren am 25. Februar 1928 in Tainan, verstorben am 18. November 2023 (im Alter von 95 Jahren). Er gründete 1959 mit einem Kapital von 2 Millionen Dollar die Chimei Industries und sammelte ab 1990 insgesamt 1362 Instrumente – die größte private Sammlung weltweit. Das Chimei Museum eröffnete am 1. Januar 2015 im Tainan Metropolitan Park.'
+title: 'Hsu Wen-lung: Tainan 1928, Chi Mei Industrial 1959 bis zum Gründer des Museums mit der weltweit größten Geigensammlung'
+description: 'Vater der taiwanesischen Acrylindustrie, gründete 1959 mit einem Kapital von NT$2 Millionen Chi Mei Industrial, brachte im Alter von 63 Jahren ABS-Kunststoff an die Weltspitze. Er glaubte, dass Unternehmen ein Mittel zum Streben nach Glück sind, und führte 1984 die Fünftagewoche ein. Ab 1990 kaufte er Antikgeigen an, insgesamt 1.362 Stück, die größte private Sammlung weltweit; 2015 eröffnete das Chi Mei Museum im Tainan Metropolitan Park, sodass Kinder aus jedem Winkel Zugang zu erstklassiger westlicher Kunst erhalten. In seinen 95 Lebensjahren hinterließ er jeweils ein Wahrzeichen in Wirtschaft und Kultur.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Technologie und Unternehmen',
-    'Chimei Group',
+    'Chi Mei Group',
     'Unternehmer',
-    'Musikkunst',
-    'Museum',
+    'Musik und Kunst',
+    'Museen',
     'Kulturförderung',
     'Tainan',
   ]
@@ -22,10 +22,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/許文龍.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'a9322956ed'
 sourceContentHash: 'sha256:720cd768af91d1c3'
 sourceBodyHash: 'sha256:7ec1f1d13ec2e4d4'
-translatedAt: '2026-11-05T08:00:06.636624+00:00'
+translatedAt: '2026-11-27T01:57:25.911833+00:00'
 ---
 
 # Hsu Wen-lung: Geboren in Tainan 1928, Gründer des Museums mit der weltweit größten Sammlung von Violinen seit 1959

@@ -1,21 +1,20 @@
 ---
-title: 'Ah-Han: Der Junge aus Hualien, der eine ganze Gasse allein spielte – und vom Gasse-Bewohnern wieder zurückschlugen'
-description: 'Der Hualiener Junge Zeng Wen-han, Absolvent der Animationstudiengänge der Nationalen Kunstakademie in Taipeh, spielte ab 2015 auf seinem YouTube-Kanal „Ah-Han po Videos“ die Rollen von Nünyang Jui-hsiao, Liao Li-hsiang, Liao Li-chu und der Buffet-Tante – die ganze taiwanesische Gasse. Bis die Werbung zum Mittagsfest 2022 entfernt wurde – seine Rolle der vietnamesischen Neueheitsfrau wurde von echten vietnamesischen Frauen protestiert.'
+title: 'A-Han: Der Junge aus Hualien, der eine ganze Gasse alleine spielte und dafür von den Bewohnern ausgeschimpft wurde'
+description: 'Ein Absolvent des Animation-Studiengangs der Universität für Künste in Taipeh aus Hualien. Seit 2015 betreibt er den Kanal „A-Han po Video“ und spielt allein eine ganze taiwanesische Gasse: die Wahrsagerin Liao Li-fang, die vietnamesische Schwiegertochter Nguyen Nguyet-kieu, die Vermieterin Liao Li-zhu und die Besitzerin eines Buffet-Restaurants. Sein Werk „Jiutian Xuannü“ erreichte über 13 Millionen Aufrufe; 2022 eröffnete er die Golden Bell Awards in der Kategorie Drama. Doch im selben Jahr wurde ein Werbespot zum Geisterfest aufgrund der Rolle der Nguyen Nguyet-kieu nach Protesten des vietnamesischen Dachverbandes wieder entfernt. Eine Gasse zu imitieren und in ihr zu leben, sind zwei völlig verschiedene Dinge.'
 date: 2026-05-11
 category: 'People'
 tags:
   [
-    'Ah-Han',
-    'Ah-Han po Videos',
+    'A-Han',
+    'A-Han po Video',
     'YouTuber',
     'Imitation',
-    'Nünyang Jui-hsiao',
-    'Liao Li-hsiang',
-    'Liao Li-chu',
-    'neue Einwohner',
+    'Nguyen Nguyet-kieu',
+    'Liao Li-fang',
+    'Neue Einwanderer',
     'Hualien',
-    'National Kunstakademie',
-    'Goldene Bühne',
+    'Universität für Künste in Taipeh',
+    'Golden Bell Awards',
   ]
 subcategory: 'Internet'
 author: 'Taiwan.md Contributors'
@@ -26,10 +25,10 @@ readingTime: 12
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/阿翰.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'a9322956ed'
 sourceContentHash: 'sha256:657a4770554a59cc'
 sourceBodyHash: 'sha256:7dbe663cdddeba6e'
-translatedAt: '2026-11-04T18:48:39.625579+00:00'
+translatedAt: '2026-11-27T01:44:20.297376+00:00'
 ---
 
 **30-Sekunden-Überblick:** 1994 in Hualien geboren, absolvierte Zeng Wen-han die Kunstklasse der Hualien Girls' High School und schloss anschließend das Animationsinstitut der Nationalen Universität der Künste Taipeh ab. 2015 startete er den YouTube-Kanal „Ah-Han po Videos“[^1]. Er verkörpert allein Figuren wie Liao Li-hsiang, Nünyang Jui-hsiao, Liao Li-zhu, die Buffet-Tante – die gesamte Bewohnerschaft einer taiwanesischen Gasse. Sein Vertreterwerk 《算命阿姨 九天玄女之天女散花》 erreichte über 13 Millionen Aufrufe[^2]. Doch in einer Werbung zum Geisterfest 2022 wurde seine Darstellung einer vietnamesischen Schwiegertochter von echten vietnamesischen Frauen protestiert und vom Netz genommen – ein Junge aus Hualien, der mit Mimikry eine ganze taiwanesische Gasse erschaffen hatte, wurde von den Bewohnern dieser Gasse gefragt: „Warum ist dieser Platz nicht ich?“.

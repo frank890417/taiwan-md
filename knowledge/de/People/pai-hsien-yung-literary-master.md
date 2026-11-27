@@ -1,15 +1,15 @@
 ---
-title: 'Bai Hsiao-yong: „Taiwan People“ 1971, bis zur Jugend-Version der Peach Blossom Festival 20. Jahresrunde'
-description: '1937 geboren in Guilin, Guangxi, Sohn von Bai Chongxi. 1956 TaiwUniversität Romanistik, mit Wang Wenxing und anderen gründete „Moderne Literatur“. 1971 14 Kurzgeschichten „Taiwan People“. 1983 „Illegitimer Sohn“. 2003 startete Jugendversion des Peach Blossom Festivals, April 2004 Premiere, 2024 20. Jahresrunde. 2003 Staatspreis für Literatur.'
+title: 'Pai Hsien-yung: »Taipei People« 1971 bis zur 20-jährigen Tournee der Jugendfassung von »Der Pfingstrosenpavillon«'
+description: 'Der Autor von »Taipei People« und »Crystal Boys«, geboren in Guilin, Guangxi, sein Vater war der KMT-General Bai Chongxi. 1956 trat er in die Fremdsprachenabteilung der Nationalen Taiwan-Universität ein, gründete gemeinsam mit Wang Wenxing, Chen Ruoxi und anderen die Zeitschrift »Modern Literature« und führte den westlichen Modernismus in die taiwanesische Literaturszene ein. 1971 veröffentlichte er die 14 Kurzgeschichten umfassende Sammlung »Taipei People«, 1983 »Crystal Boys«. In seinen späten Jahren widmete er sich der Erhaltung des Kunqu, erhielt 2003 den Nationalen Literaturpreis und initiierte die Jugendfassung von »Der Pfingstrosenpavillon«, die im April 2004 in Taipeh uraufgeführt wurde und über 300 Aufführungen auf Tournee hatte.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Literatur',
     'Moderne Literatur',
-    'Taiwan People',
-    'Illegitimer Sohn',
-    'Kund Kunst',
+    'Taipei People',
+    'Crystal Boys',
+    'Kunqu',
     'Bai Chongxi',
   ]
 subcategory: '文學'
@@ -21,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/白先勇.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '630afb2b66'
 sourceContentHash: 'sha256:d675a47ee18feb3d'
 sourceBodyHash: 'sha256:44085a78b193e440'
-translatedAt: '2026-11-04T20:17:19.049957+00:00'
+translatedAt: '2026-11-27T02:10:15.979289+00:00'
 ---
 
 # Bai Hsiao-yong: „Taiwan People“ 1971, bis zur Jugend-Version der Peach Blossom Festival 20. Jahresrunde

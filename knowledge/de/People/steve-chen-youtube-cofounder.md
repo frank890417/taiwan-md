@@ -1,6 +1,6 @@
 ---
 title: 'Steve Chen'
-description: 'Er verließ Taiwan im Alter von acht Jahren, baute mit 27 Jahren in den USA eine Plattform auf, auf der alle Videos hochladen konnten, verkaufte sie 20 Monate später für 1,65 Milliarden US-Dollar, erhielt anschließend einen Hirnaneurysma, operierte sich zweimal offen, erlitt 15 Epilepsieanfälle und kehrte schließlich mit seiner Frau und seinen Kindern zurück.'
+description: 'Einer der bekanntesten taiwanesisch-amerikanischen Gründer im Silicon Valley. Er emigrierte im Alter von acht Jahren in die USA und trat bereits vor seinem Universitätsabschluss bei PayPal ein. Im Jahr 2005 gründete er zusammen mit zwei ehemaligen Kollegen YouTube in einer Garage; zwanzig Monate später wurde das Unternehmen für 1,65 Milliarden US-Dollar an Google verkauft. Nach der Übernahme wurde bei ihm ein Hirnaneurysma diagnostiziert, woraufhin er zwei Kraniotomien und fünfzehn epileptische Anfälle durchstehen musste. Im Jahr 2019 kehrte er mit seiner Familie nach Taiwan zurück, um sich dort niederzulassen. Er erhielt die erste Goldene Arbeitskarte (Employment Gold Card) Taiwans und setzt sich seither kontinuierlich dafür ein, taiwanische Start-ups auf der Weltbühne zu präsentieren.'
 date: 2026-04-06
 category: 'People'
 tags:
@@ -9,8 +9,8 @@ tags:
     'YouTube',
     'Silicon Valley',
     'Start-up',
-    'Beschäftigungskarte',
-    'Aneurysma',
+    'Employment Gold Card',
+    'Hirntumor',
   ]
 subcategory: '科技與創業'
 author: 'Taiwan.md Contributors'
@@ -21,10 +21,10 @@ readingTime: 8
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/陳士駿.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '630afb2b66'
 sourceContentHash: 'sha256:ba95870558368ba6'
 sourceBodyHash: 'sha256:10a502d58bab93f7'
-translatedAt: '2026-11-04T20:21:09.981022+00:00'
+translatedAt: '2026-11-27T01:29:35.117041+00:00'
 ---
 
 # Steve Chen

@@ -1,11 +1,11 @@
 ---
-title: 'Chu Ching-wu: 1987 Durchbruch der Flüssigstickstoff-Temperatur, Mitentdecker des Hochtemperatur-Supraleiters Tc=93K'
-description: 'Geboren 1941 in Hunan, taiwanisch-amerikanischer Physiker. Im Januar 1987 entdeckte er gemeinsam mit Wu Maokun das Yttrium-Barium-Kupferoxid (YBCO) mit Tc=93K, durchbrach die Flüssigstickstoff-Temperaturschwelle (77K) und eröffnete das Zeitalter der Hochtemperatur-Supraleitung. 2001–2009 Präsident der Hong Kong University of Science and Technology. Im März 2026 veröffentlichte er in PNAS einen neuen Durchbruch mit Tc=151K, mit 85 Jahren noch aktiv in der Forschung.'
+title: 'Chu Jingwu: Mitentdecker der Hochtemperatur-Supraleitung mit Tc=93K, die 1987 die Flüssigstickstoff-Temperatur durchbrach'
+description: 'Mitentdecker auf dem Gebiet der Hochtemperatur-Supraleitung. Geboren in Hunan, aufgewachsen in Taiwan, promovierte er nach seinem Studium der Physik an der National Cheng Kung University in den USA. Seit 1979 leitete er ein Forschungsteam für Supraleitung an der University of Houston. Im Januar 1987 entdeckte er Yttrium-Barium-Kupferoxid mit einer Sprungtemperatur von 93 K, was erstmals die Schwelle der Flüssigstickstoff-Temperatur überschritt und den Weg für die industrielle Anwendbarkeit der Hochtemperatur-Supraleitung ebnete. Von 2001 bis 2009 war er Präsident der Hong Kong University of Science and Technology. Im Alter von 85 Jahren veröffentlichte er im August 2026 einen neuen Durchbruch mit Tc=151 K in den Proceedings of the National Academy of Sciences (PNAS) – er hat die Kurve des stetig steigenden Temperaturverlaufs nie verlassen.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Wissenschaft und akademische Forschung',
+    'Wissenschaft und Forschung',
     'Physiker',
     'Supraleiter',
     'Hong Kong University of Science and Technology',
@@ -20,10 +20,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/朱經武.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'a9322956ed'
 sourceContentHash: 'sha256:79c87fb84a11dd9d'
 sourceBodyHash: 'sha256:619ef92c56c46024'
-translatedAt: '2026-11-04T20:26:21.520885+00:00'
+translatedAt: '2026-11-27T02:01:22.259541+00:00'
 ---
 
 # Chu Ching-wu: 1987 Durchbruch der Flüssigstickstoff-Temperatur, Mitentdecker des Hochtemperatur-Supraleiters Tc=93K

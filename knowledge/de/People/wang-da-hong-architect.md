@@ -1,17 +1,17 @@
 ---
-title: 'Wang Da-hong: Der Architekturpoet, der den Geist des Bauhaus nach Taiwan brachte und mit moderner Architektur die östliche Seele betrachtete'
-description: 'Der 1965 beim Wettbewerb für das Sun Yat-sen Memorial Hall herausragende Schüler des Bauhaus-Meisters Walter Gropius versuchte sein Leben lang, die Spannung zwischen Tradition und Moderne in Taiwan zu lösen.'
+title: 'Wang Da-hong: Den Bauhaus-Geist nach Taiwan bringen, die östliche Seele mit moderner Architektur betrachten – der Architekturpoet'
+description: 'Als Schüler des Bauhaus-Gründers Walter Gropius und Architekturpoet, Absolvent der Universität Cambridge und der Harvard University, widmete er nach seiner Rückkehr nach Taiwan sein Leben der Auflösung der Spannung zwischen Tradition und Moderne. 1965 setzte er sich im Wettbewerb für die Sun-Yat-sen-Gedächtnishalle durch, indem er der modernen Struktur Dachvorsprünge mit aufwärts geschwungenen Enden hinzufügte, die nach strengen geometrischen Berechnungen entworfen waren. Sein 1953 selbst entworfenes Wohnhaus an der Jianguo-Südstraße wurde später neben dem Taipei Fine Arts Museum wiederaufgebaut. Zu seinen Werken zählen das Bürogebäude des Außenministeriums und das Honglu. Im Alter verfasste er den englischen Science-Fiction-Roman „Phantom City“ und erreichte ein hohes Alter von 101 Jahren.'
 date: 2026-08-18
 category: 'People'
 tags:
   [
     'Wang Da-hong',
-    'Architektur in Taiwan',
+    'Taiwanische Architektur',
     'Modernismus',
-    'Sun Yat-sen Memorial Hall',
+    'Sun-Yat-sen-Gedächtnishalle',
     'Architekturpoet',
     'Bauhaus',
-    'Wohnhaus Jianguo South Road',
+    'Wohnhaus an der Jianguo-Südstraße',
   ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
@@ -21,10 +21,10 @@ lastHumanReview: false
 revision: 2
 curation: 'incubating'
 translatedFrom: 'People/王大閎.md'
-sourceCommitSha: 'ad1003d60'
+sourceCommitSha: '2556505034'
 sourceContentHash: 'sha256:efe79d1571f630fc'
 sourceBodyHash: 'sha256:c9962896cf42e163'
-translatedAt: '2026-10-15T01:07:34+08:00'
+translatedAt: '2026-11-27T01:40:15.865169+00:00'
 ---
 
 > **30-Sekunden-Überblick:**

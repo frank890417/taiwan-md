@@ -1,11 +1,11 @@
 ---
-title: 'Tong Tzu-hsien: Von der Taipei Institute of Technology zu Pegatron, Apples größtem Zulieferer'
-description: 'Geboren am 25. Juni 1960, schloss er sein Studium an der Taipei Institute of Technology (heute National Taipei University of Technology) und gründete 2008 Pegatron, einen wichtigen Auftragsfertiger für Apple, Sony und Nintendo. Er investierte 2019 in das Bookstore Chunghwa and vertritt bis heute die Energiepolitik „Kern-Grün-Koexistenz“.'
+title: 'Tong Zixian: Vom Taipei Institute of Technology zum größten Apple-Fertigungspartner Pegatron'
+description: 'Der taiwanesische Elektronikunternehmer, Absolvent der Elektronikabteilung des Taipei Institute of Technology und nicht der Elektrotechnik der Nationalen Taiwan-Universität, trat 1988 in ASUS ein. Am 1. Januar 2008 leitete er die Abspaltung von Marke und Fertigung, gründete Pegatron und machte das Unternehmen zum Auftragsfertiger für Marken wie Apple, Sony und Nintendo. 2019 beteiligte er sich an der Eslite-Buchhandelskette mit der Überzeugung: „Eine Gesellschaft braucht Buchhandlungen genauso wie Krankenhäuser“. Er gehört zu den Tech-Unternehmern, die sich am offensten zur Energiepolitik äußern, und setzt sich langfristig für die Koexistenz von Kernkraft und grüner Energie ein.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Technologie und Unternehmen',
+    'Technologie und Wirtschaft',
     'Pegatron',
     'Elektronikfertigung',
     'ODM',
@@ -18,10 +18,10 @@ lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
 translatedFrom: 'People/童子賢.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '3f269cde5e'
 sourceContentHash: 'sha256:741173e056926b2c'
 sourceBodyHash: 'sha256:7f6ff2dde21c6686'
-translatedAt: '2026-09-11T20:42:42+08:00'
+translatedAt: '2026-11-27T01:50:39.333168+00:00'
 ---
 
 # Tong Tzu-hsien: Von der Taipei Institute of Technology zu Apples größtem Zulieferer
