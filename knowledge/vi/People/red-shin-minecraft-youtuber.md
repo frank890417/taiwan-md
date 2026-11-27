@@ -1,16 +1,16 @@
 ---
-title: 'Á Thần: Sau mười một năm đăng tải hàng ngày, tại sao "ngưng cập nhật vĩnh viễn" vẫn có video mới'
-description: 'Tháng 7 năm 2026, kênh chính của Á Thần vừa hiển thị "Tôi thích về hưu nên mới quay video", lại vừa liệt kê video Minecraft mới từ hôm qua. Mười một năm đăng tải hàng ngày từng biến kênh cá nhân thành bảng lịch chiếu có tập mới mỗi ngày; vì sao "ngưng cập nhật vĩnh viễn" ba năm trước không thành sự rời bỏ vĩnh viễn?'
+title: 'A Thần: Sau 11 năm cập nhật hàng ngày, tại sao sau tuyên bố "ngừng cập nhật vĩnh viễn" vẫn có video mới'
+description: 'Một nhà sáng tạo nội dung trò chơi đã xây dựng kênh hơn mười năm và tự nhận rằng chưa từng gián đoạn việc đăng video hàng ngày trong suốt 11 năm. Năm 2021, anh ngừng cập nhật hàng ngày, từ bỏ công việc chính trên YouTube để chuyển sang chế độ đăng tải tùy hứng; đến năm 2023, anh lại tuyên bố dừng cập nhật vĩnh viễn kênh chính, chỉ giữ lại livestream và chương trình Gào Thần Mã do anh cùng Kazuma sản xuất. Ba năm sau, kênh chính bất ngờ xuất hiện video dài hợp tác về Minecraft, trong khi phần giới thiệu kênh vẫn viết rằng "nghỉ hưu rồi tôi thích thì quay". Điều duy nhất bị rút lại ở hai chữ nghỉ hưu chính là lịch phát sóng cố định mà khán giả từng nắm giữ.'
 date: 2026-07-15
 category: 'People'
 tags:
   [
-    'Á Thần',
+    'A Thần',
     'YouTuber',
     'Minecraft',
-    'Gáo Thần Mã',
-    'văn hóa mạng Đài Loan',
-    'lao động sáng tạo',
+    'Gào Thần Mã',
+    'Văn hóa mạng Đài Loan',
+    'Lao động của nhà sáng tạo',
   ]
 subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
@@ -20,28 +20,28 @@ lastHumanReview: false
 researchReport: 'reports/research/2026-07/阿神.md'
 readingTime: 18
 image: '/article-images/people/ashan-2026-return-minecraft.webp'
-imageAlt: 'Trong hình thu nhỏ chính thức của Minecraft, trung tâm là hai nhân vật giả, bên trái và bên phải là các nhân vật khối của Á Thần và Tuyết Thỏ, tiêu đề viết "Nhân vật giả Minecraft khiếp đảm nhất"'
+imageAlt: 'Trung tâm của hình thu nhỏ chính thức từ Minecraft là hai quái vật giả nhân, hai bên là nhân vật khối vuông của A Thần và Tuyết Thỏ, tiêu đề viết rằng "Người giả đáng sợ nhất trong Minecraft"'
 imageCredit: '阿神官方 YouTube 頻道'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.youtube.com/watch?v=60n6gPUEl7s'
 rationale:
-  why_this_hook: 'Video mới tháng 7 năm 2026 tách rời "ngưng cập nhật vĩnh viễn" và "rời bỏ vĩnh viễn", khiến độc giả tự hỏi liệu lời hứa từ bỏ công việc này có được hoàn lại không.'
-  where_it_hedges: 'Tất cả con số động được gắn với 15 tháng 7 năm 2026; mười một năm đăng tải hàng ngày được quy cho lời tự thuật của bản thân; kết luận dừng lại ở lời hứa công khai.'
-  whos_pushing_back: 'Trả lời các thuyết kể phổ biến ghi "từ bỏ công việc" thành mất đi vĩnh viễn, quy toàn bộ đăng tải hàng ngày cho thuật toán, và coi quay lại như tự do lập lịch hoàn toàn.'
+  why_this_hook: '2026 年首頁的新片直接拆開「永久停更」與「永久離場」，讓讀者追問退休究竟撤回哪一項承諾。'
+  where_it_hedges: '所有動態數字綁定 2026 年 7 月 15 日；十一年日更歸因本人自述；結論停在公開發布承諾。'
+  whos_pushing_back: '回應把退休寫成永久消失、把日更全歸因演算法，以及把復更等同完整排程自由的通行敘事。'
   whats_excluded:
     [
-      'Chi tiết nhận dạng không có xác nhận công khai đáng tin cậy và không phục vụ trục chính',
-      'Phân công đội ngũ không rõ và thời gian làm việc hàng ngày',
-      'Lý lịch liên tục lĩnh vực khác và tranh chấp tư nhân không phục vụ trục phát hành cố định',
-      'Suy luận về thu nhập, tài sản và chủ quyền lập lịch hoàn toàn',
+      '無可靠公開確認且不服務主軸的身分細節',
+      '未知的團隊分工與逐日工時',
+      '不服務固定發布主軸的跨域履歷與私人爭議',
+      '收入、資產與完整排程主權的推論',
     ]
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/阿神.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '2a5b98d9cd'
 sourceContentHash: 'sha256:5d4d8978fc43c7cd'
 sourceBodyHash: 'sha256:02c4e1b3fececdae'
-translatedAt: '2026-08-09T09:26:48+08:00'
+translatedAt: '2026-11-27T00:58:22.320971+00:00'
 ---
 
 > **Tổng quan 30 giây:** Vào ngày 15 tháng 7 năm 2026, kênh chính thức của Á Thần hiển thị 3,31 triệu người theo dõi, 5.622 video; video hợp tác Minecraft mới nhất mới lên sóng một ngày, nhưng phần mô tả vẫn viết "Tôi thích về hưu nên mới quay video". Anh tự thuật rằng trong mười một năm đã đăng tải hàng ngày, năm 2021 bỏ công việc chính thức trên YouTube, năm 2023 lại công bố kênh chính ngưng phát hành video tại thời điểm đó, nhưng giữ lại các phiên trực tiếp và "Gáo Thần Mã" được sản xuất chung với Mã Thiên. Ba trạng thái cộng lại, ý nghĩa của "về hưu" mới hiểu rõ: đăng tải hàng ngày không còn là lời hứa công khai, sáng tạo cũng không kết thúc vĩnh viễn.

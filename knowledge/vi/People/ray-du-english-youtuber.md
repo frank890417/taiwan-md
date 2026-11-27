@@ -1,15 +1,15 @@
 ---
-title: 'A-Di: Từ cậu học sinh nhận thu nhập tiếng Anh bị loại bỏ đến "ông trùm YouTube" của các thị trấn ở Đài Loan'
-description: 'Năm 2020, YouTuber A-Di (Đại Thành Thúy) khởi động chiến dịch gây quỹ cho bài quảng cáo thu nhỏ gần 19 triệu USD trên Báo Thời Đại Hàn Nội, để thế giới thấy được sự đóng góp của Đài Loan; năm 2021, cậu công khai tự mình chịu trải bệnh trầm cảm, thẳng thắn đối mặt với giai đoạn cuộc đời thấp kém. Từ kinh nghiệm học tiếng Anh ở Singapore đến sự thành công trên nền tảng YouTube, A-Di không chỉ là một "người nổi tiếng" về kiến thức mà còn là người khởi xuất hệ sinh thái truyền thông mới của Đài Loan.'
+title: 'A-Di: Từ một du học sinh từng bài xích tiếng Anh đến "Trưởng thôn" của giới YouTube Đài Loan'
+description: 'Từ một du học sinh Singapore từng chán ghét tiếng Anh, trở thành đại diện cho các YouTuber chuyên về kiến thức tại Đài Loan. Anh đã lấy hết can đảm học tiếng Anh chỉ để mua được một lá bài Yu-Gi-Oh!, sau đó cùng em gái là Di-mei thành lập kênh dạy tiếng Anh vào năm 2015; năm 2020, anh khởi xướng gây quỹ với gần NT$19 triệu để đăng quảng cáo toàn trang trên tờ The New York Times nhằm gửi thông điệp "Taiwan Can Help" tới thế giới; năm 2021, anh công khai hành trình đối mặt với bệnh trầm cảm và thành lập Hiệp hội Nhà sáng tạo Nội dung Truyền thông mới Đài Loan với vai trò Chủ tịch Hội đồng quản trị, được người hâm mộ gọi là "Trưởng thôn của giới YouTube".'
 date: 2026-04-20
 category: 'People'
 tags:
   [
     'YouTuber',
     'A-Di',
-    'truyền thông mới của Đài Loan',
-    'trầm cảm',
-    'chiến dịch quỹ Báo Thời Đại Hàn Nội',
+    'Truyền thông mới Đài Loan',
+    'Bệnh trầm cảm',
+    'Quảng cáo trên tờ New York Times',
   ]
 subcategory: '數位與媒體'
 author: 'Taiwan.md'
@@ -20,10 +20,10 @@ readingTime: 9
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/阿滴.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '8fc70bd881'
 sourceContentHash: 'sha256:bc1390f13b2a7b07'
 sourceBodyHash: 'sha256:5621e86f4a6c80eb'
-translatedAt: '2026-11-04T21:12:55.920117+00:00'
+translatedAt: '2026-11-27T00:22:59.970417+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Năm 2020, YouTuber A-Di (Đại Thành Thúy) khởi động chiến dịch gây quỹ "ThisAttackComesFromTaiwan", chỉ trong vài giờ đã đạt được mục tiêu 4 triệu USD, cuối cùng thu được gần 19 triệu USD để xuất bản bài quảng cáo đầy đủ trên Báo Thời Đại Hàn Nội, khẳng định "Taiwan Can Help". Năm sau, cậu công khai chia sẻ hành trình bịnh nghiệp trầm cảm kéo dài gần một năm, đồng sáng lập Hội các nhà tạo nội dung truyền thông mới của Đài Loan cùng các nhà sáng lập như Bảo Quý, và chịu vai trò Chủ tịch hội đồng, xây dựng hệ sinh thái hỗ trợ lẫn nhau cho các nhà tạo nội dung. Từ giai đoạn bị loại bỏ tiếng Anh khi là học sinh sinh viên ở Singapore đến khi trở thành "ông trùm YouTube" của các thị trấn ở Đài Loan, câu chuyện của A-Di không chỉ là sự biến đổi cá nhân mà còn là phản ánh chính xác sự phát triển từ tác phẩm cá nhất đến hợp tác ngành nghề của nền truyền thông mới của Đài Loan.

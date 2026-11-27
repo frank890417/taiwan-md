@@ -1,17 +1,10 @@
 ---
-title: 'Wu Bai: Xuất phát từ thôn Toàn Đầu, xã Lục Giác, rock tiếng Đài Loan ba mươi năm không pha trộn'
-description: 'Tên thật là Ngô Tuấn Lâm, sinh năm 1968 tại thôn Toàn Đầu, xã Lục Giác, huyện Gia Nghĩa. Năm 1992 thành lập ban nhạc "Wu Bai & China Blue", năm 1995 album "Rừng Na Uy" khẳng định con đường rock tiếng Đài Loan. Năm 2016 phát hành album "Hoa Đinh", năm 2017 giành Giải Kim Đinh cho album tiếng Đài Loan xuất sắc nhất. Năm 2025 phát hành album mới "Khởi Đầu Trắng Thuần", tour ROCK STAR 2 diễn ra khắp hai bên eo biển.'
+title: 'Wu Bai: Xuất phát từ làng Tỏi, xã Lục Giác, ba mươi năm nhạc Rock tiếng Đài không hề giảm nhiệt'
+description: 'Nam ca sĩ nhạc Rock tiếng Đài xuất thân từ làng Tỏi, xã Lục Giác, huyện Gia Nghĩa, thành lập nhóm Wu Bai & China Blue vào năm 1992. Năm 1995, ông xác lập con đường nhạc Rock tiếng Đài qua tác phẩm Rừng Na Uy; đối với ông, tiếng Đài không phải là một chiến lược định vị mà là cách giao tiếp tự nhiên nhất. Trong hơn ba mươi năm qua, ông từ chối bị khuôn mẫu hóa bởi thị trường. Với album Đinh Tử Hoa năm 2016, ông đã giành giải Album tiếng Đài hay nhất tại Giải thưởng Âm nhạc Golden Melody vào năm sau đó. Năm 2025, ông phát hành album Khởi đầu thuần khiết và triển khai chuyến lưu diễn ROCK STAR 2, vẫn tiếp tục hát những ca khúc với phong cách ngôn ngữ đặc trưng trên sân khấu.'
 date: 2026-03-19
 category: 'People'
 tags:
-  [
-    'Âm nhạc',
-    'Rock',
-    'Ca khúc tiếng Đài Loan',
-    'Gia Nghĩa',
-    'Rock bản địa',
-    'Guitar',
-  ]
+  ['Âm nhạc', 'Rock', 'Nhạc tiếng Đài', 'Gia Nghĩa', 'Rock bản địa', 'Guitar']
 subcategory: '音樂'
 author: 'Taiwan.md'
 featured: false
@@ -21,10 +14,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/伍佰.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '2a5b98d9cd'
 sourceContentHash: 'sha256:2dda34fc81c78056'
 sourceBodyHash: 'sha256:fb05d9869b96635c'
-translatedAt: '2026-11-04T22:13:05.490035+00:00'
+translatedAt: '2026-11-27T00:35:02.997543+00:00'
 ---
 
 # Ngũ Bạch: Khởi hành từ thôn Toán Đầu, xã Lục Cước; Ba mươi năm rock Đài ngữ không giảm giá

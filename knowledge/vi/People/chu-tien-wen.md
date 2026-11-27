@@ -1,6 +1,6 @@
 ---
-title: 'Chu Thiên Văn: 1956 Đài Bắc, từ 《Tam Tam Tập Khán》 đến 《Bi Tình Thành Phố》 Giải Vàng Venice'
-description: 'Sinh năm 1956 tại Đài Bắc, con trai của Chu Tây Ninh. Năm 1977 cùng Hồ Lan Thành và các bạn sáng lập 《Tam Tam Tập Khán》。Làm biên kịch thường xuyên cho Hầu Hiếu Hiền, tác phẩm đại diện 《Bi Tình Thành Phố》 giành Giải Vàng Venice năm 1989. Năm 1994 tiểu thuyết 《Hoang Nhân Thư Ký》 giành Giải Nhất Văn học Thời Báo. Các tác phẩm biên kịch bao gồm 《Hảo Nam Hảo Nữ》《Nam Quốc Tái Thấy Nam Quốc》。'
+title: 'Chu Thiên Văn: Taipei 1956, từ "Tam Tam Tập Khảo" đến "Thành phố bi thương" Giải Vàng Venice'
+description: 'Nhà văn và biên kịch điện ảnh lớn lên trong một gia đình văn học tại Taipei, cha là nhà văn Chu Tịch Ninh, năm 1977 cùng Hồ Lan Thành và những người khác sáng lập "Tam Tam Tập Khảo", từ những năm 1980 thiết lập mối quan hệ đồng tác giả kéo dài hơn 40 năm với Hầu Hiếu Hiền. Bộ phim "Thành phố bi thương" do cô biên kịch dùng ngôn ngữ thơ mộng xử lý lịch sử gia đình Taiwan, năm 1989 giành Giải Vàng LHP Venice; năm 1994 tiểu thuyết dài "Nhật ký người hoang dã" giành giải nhất Giải văn học Thời báo, văn chương của cô cùng nâng đỡ cả hai hình thức điện ảnh và tiểu thuyết.'
 date: 2026-03-19
 category: 'People'
 tags:
@@ -8,9 +8,9 @@ tags:
     'Văn học',
     'Biên kịch điện ảnh',
     'Hầu Hiếu Hiền',
-    'Chu Tây Ninh',
-    'Tam Tam Văn học',
-    'Hoang Nhân Thư Ký',
+    'Chu Tịch Ninh',
+    'Văn học Tam Tam',
+    'Nhật ký người hoang dã',
   ]
 subcategory: '文學'
 author: 'Taiwan.md'
@@ -21,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/朱天文.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '2a5b98d9cd'
 sourceContentHash: 'sha256:13c80c1f151f5c3e'
 sourceBodyHash: 'sha256:bf6107b943cdb54e'
-translatedAt: '2026-11-04T21:24:32.726193+00:00'
+translatedAt: '2026-11-27T00:15:05.193266+00:00'
 ---
 
 # Chu Thiên Văn: 1956 Đài Bắc, từ 《Tam Tam Tập Khán》 đến 《Bi Tình Thành Phố》 Giải Vàng Venice

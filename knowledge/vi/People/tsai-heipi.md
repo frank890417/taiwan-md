@@ -1,14 +1,14 @@
 ---
-title: 'Thái Anh Văn: Cậu bé lớn lên bên tên ga tàu điện ngầm đã "đóng gói" Đài Loan vào 260 nghìn người đăng ký'
-description: 'Sa Thái An (蔡覲安), sinh năm 2002, bắt đầu tự học làm video về "Kiến thức lạnh của tàu điện ngầm" từ thời trung học và sau mười hai năm đã nhận giải Kim Lộ tại lễ trao giải được mệnh danh là "Oscar ngành giao thông". Anh đổi tên, tạm ngừng đăng tải rồi tiếp tục hành trình, một mình đảm nhiệm khâu tư liệu, bản đồ và dựng phim, trở thành hình mẫu của sự kiên trì trong sáng tạo nội dung tri thức Đài Loan.'
+title: 'Thái Hắc Bì: Chàng trai lớn lên cùng tên các ga tàu điện ngầm, đưa Đài Loan vào 260.000 lượt đăng ký'
+description: 'YouTuber kiến thức người Đài Loan, sinh năm 2002, khi học trung học phổ thông thấy không ai làm chủ đề giao thông nên bắt đầu quay video, tác phẩm đầu tiên là kiến thức lạ về tàu điện ngầm Taipei. Anh tự lo tất cả từ tài liệu, bản đồ, kịch bản đến biên tập, với series "Đường Sắt" tích lũy hơn một trăm video về xây dựng giao thông. Đầu năm 2025, sau khi ngừng cập nhật chín tháng, anh đổi tên kênh và quay lại nhân dịp kỷ niệm 12 năm thành lập kênh, ra mắt series "Đài Loan 360" về quê hương, cùng năm đoạt Giải Kim Lộ lần thứ 26 - Giải Đặc Biệt Cống Hiến, video của anh אף được đưa vào sách giáo khoa địa lý trung học phổ thông.'
 date: 2026-08-19
 category: 'People'
 tags:
   [
     'YouTuber',
     'Giao thông',
-    'Nhà sáng tạo nội dung tri thức',
-    'Thái Anh Văn',
+    'Người sáng tạo kiến thức',
+    'Thái Cận An',
     'Giải Kim Lộ',
     'Địa lý Đài Loan',
     'Đường sắt',
@@ -25,10 +25,10 @@ imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:2017-10-23_MRT_train_at_Platform,_Tamsui_Line.jpg'
 curation: 'incubating'
 translatedFrom: 'People/蔡黑皮.md'
-sourceCommitSha: 'e75b621d2'
+sourceCommitSha: '3f269cde5e'
 sourceContentHash: 'sha256:e43b16ae63cbdb17'
 sourceBodyHash: 'sha256:1cde30bd00a46d49'
-translatedAt: '2026-09-19T11:59:06+08:00'
+translatedAt: '2026-11-27T00:49:07.247144+00:00'
 ---
 
 > **Tổng quan 30 giây:** Sa Thái An (tên kênh "Thái Hắc Bì", tên mạng ban đầu là "Hắc Bì") sinh năm 2002. Khi còn học trung học, anh bắt đầu quay phim vì cho rằng "không ai làm chủ đề giao thông". Tác phẩm đầu tiên của anh là 《10 điều bạn chưa biết về tàu điện ngầm Đài Bắc》. Mười hai năm sau, anh nhận giải Đặc biệt tại lễ trao giải Kim Lộ lần thứ 26, được mệnh danh là "Oscar ngành giao thông". Trọng tâm căng thẳng của câu chuyện này là: đầu năm 2025, anh tuyên bố tạm ngừng đăng tải và kênh rơi vào im lặng nửa năm, mọi người đều nghĩ anh sẽ biến mất. Kết quả, loạt series địa phương "Đài Loan Tam Lục Linh" sau khi trở lại lại bùng nổ với sức mạnh sâu sắc hơn. Chuyên đề về Ô Châu được đưa lên trang chủ kênh, lượng xem vượt mười vạn. Một cậu bé lớn lên bên tên ga tàu điện ngầm cuối cùng đã hướng ống kính vào góc bị lãng quên nhất trên bản đồ. Bài viết này không nói về sự trỗi dậy của một người nổi tiếng mạng xã hội, mà là cách một nhà sáng tạo tìm ra lý do mình phải làm điều đó trong mâu thuẫn giữa "không ai xem nữa" và "có người đang chờ đợi".

@@ -1,20 +1,20 @@
 ---
-title: 'Đỗ Phan Phong-kết (Fangge Dupan, 杜潘芳格): Ba Ngôn Ngữ, Một Trận Chiến Hồn Môi'
-description: 'Nữ thơ Hakka của thế hệ xuyên ngôn ngữ, hậu duệ gia đình Trương Bảy Lâm nạn nhân 228. "Hồn môi" biến tấu đồng bằng nguyên tắc thờ cúng thành nhật ký hợp tác sinh tồn dưới bạo lực trắng xóa — người bị chính quyền lấy mất ngôn ngữ, câu nghiêm khắc nhất trong ngôn ngữ mẫu nhà là viết cho người của mình.'
+title: 'Đỗ Phan Phương Cách: Ba ngôn ngữ, một vở kịch bình an'
+description: 'Nữ sĩ người Hakka thuộc thế hệ xuyên ngôn ngữ, học tiếng Nhật thời kỳ Nhật trị, buộc phải chuyển sang viết tiếng Trung sau chiến tranh, và rồi đưa thơ trở lại tiếng Hakka vào giai đoạn trước và sau khi dỡ bỏ thiết quân luật. Việc chú của mẹ bà, tức hai cha con bác sĩ Trương Thất Lang tại Hoa Liên, bị sát hại trong sự kiện 228, đã trở thành nền tảng đạo đức cho những vần thơ châm biếm chính trị của bà. Năm 1977, tác phẩm 〈Bình an hí〉 đã khắc họa sân khấu kịch tạ thần mùa đông của người Hakka như một bản ghi chép về sự đồng lõa để sinh tồn dưới thời Khủng bố Trắng. Cuối đời, bà được Ủy ban Ủy viên Hakka trao tặng Giải thưởng Cống hiến Xuất sắc; sau khi bà qua đời, gia đình đã quyên góp 340 bản thảo viết bằng ba thứ tiếng Nhật, Trung và Hakka.'
 date: 2026-07-12
 category: 'People'
 tags:
   [
     'Nhân vật',
-    'Đỗ Phan Phong-kết',
-    'Hakka',
-    'Thơ',
-    'Li Thơ Hội',
-    'thế hệ xuyên ngôn ngữ',
-    '228',
-    'Thơ Hakka',
-    'Hồn môi',
-    'Văn học nữ',
+    'Đỗ Phan Phương Cách',
+    'Người Hakka',
+    'Thi sĩ',
+    'Lập Thi Xã',
+    'Thế hệ xuyên ngôn ngữ',
+    'Sự kiện 228',
+    'Thơ tiếng Hakka',
+    'Bình an hí',
+    'Văn học nữ giới',
   ]
 subcategory: '文學與詩人 / 客家文化人'
 author: 'Taiwan.md'
@@ -31,10 +31,10 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:新埔潘屋全景.jpg'
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/杜潘芳格.md'
-sourceCommitSha: 'be13f045'
-sourceContentHash: 'sha256:d405136a29d9431e'
-sourceBodyHash: 'sha256:b0195c9685eb2443'
-translatedAt: '2026-07-27T22:12:14+08:00'
+sourceCommitSha: '630afb2b66'
+sourceContentHash: 'sha256:8e17d8aaa786cb83'
+sourceBodyHash: 'sha256:95dcdf29fa593f4b'
+translatedAt: '2026-11-27T01:20:01.351058+00:00'
 ---
 
 # Đỗ Phan Phong-kết (Fangge Dupan, 杜潘芳格): Ba Ngôn Ngữ, Một Trận Chiến Hồn Môi
@@ -115,14 +115,14 @@ Cùng một đạo đức, nhưng thay đổi cách diễn đạt. Với các th
 
 Cùng đạo đức này cũng có thể được đọc lại ở bất kỳ thời kỳ nào: im lặng trong doanh nghiệp, quan sát trong trường học, "trước tiên tự bảo vệ" trên mạng xã hội. Đây không phải là biện luận trắng xóa, mà là nhận thức Đỗ Phan Phong-kết biến trải nghiệm lịch sử đặc biệt thành **công thức đạo đức di chuyển được** — đây cũng là lý do tại sao giai điệu phổ biến năm 2021 vẫn có thể gắn liền với câu thơ năm 1977. [^2]
 
-## "Con giống cà phê" chứa đựng "nguyện vọng": Mặt khác của **Lễ hội Trung**
+## Heo công ngậm chữ 「Cam nguyện」: Một tấm gương khác của 〈Trung Nguyên tiết〉
 
-Nếu **Hồn môi** nhìn về khán giả, **Lễ hội Trung** nhìn về con giống cà phê trên đền thờ. Phiên bản Hakka viết: con giống cà phê đầu lưỡi có một trái cà phê được gọi là "nguyện vọng", và người kẹo vào đó, "chính là người ấy, nếu không thì là ngươi". [^10] Trong niềm vui của người điệu hành, có người trong đám đông "không nhớ mình là người của gia đình". Có người ngày càng rõ ràng rằng mình là "người đơn độc, người cô đơn". [^10]
+Nếu 〈Bình An hí〉 hướng về hàng ghế khán giả, thì 〈Trung Nguyên tiết〉 lại hướng về con heo trên bàn thờ. Bản tiếng Hakka viết rằng: miệng con heo lớn ngậm một loại quả được gọi là 「Cam nguyện」 (Ganyuan - cam lòng), và người nhét 「Cam nguyện」 vào đó, 「chính là tôi, nếu không thì chính là bạn」.[^10] Trong sự náo nhiệt của lễ Phổ độ, có người giữa đám đông bỗng 「quên mất bản thân mình là ai」. Có người lại càng ngày càng nhận ra mình là 「kẻ cô độc trong lòng」.[^10]
 
-Điều này rất lặng lẽ với **Bạn bè** của **Bạn bè**: khi bạn bè rơi mất, cô viết "cơ thể mình là thiết bị, trái tim là ngôi chùa", tìm kiếm "người thật" trong thế giới đầy bạn bè. [^11] Người đàn nữ thơ phá vỡ lễ hội dân gian, không phải vì vì chinh phục vụ văn hóa, mà để hỏi: **ai bị yêu cầu nguyện vọng, ai có quyền xem vở kịch**.
+Điều này trở nên đặc biệt nhức nhối khi đặt cạnh hệ thống ngôn ngữ tín ngưỡng của 〈Chỉ nhân〉 (Người giấy): Người giấy chỉ cần một cơn gió thu thổi qua là rung rinh, bà viết 「thân xác tôi là khí cụ, trái tim tôi chính là thần điện」, nhằm tìm kiếm 「người thật」 trong một thế giới đầy rẫy những hình nhân giấy.[^11] Nữ sĩ Kitô giáo giải cấu trúc các lễ hội dân gian không phải để tạo ra những điểm nóng cho cuộc chiến văn hóa, mà là để đặt câu hỏi: **Ai bị yêu cầu phải cam lòng, và ai có tư cách để xem kịch.**
 
-![Công ty hợp tác truyền thống của người Hakka tại Đường Đồng, tỉnh Thái Nguyên. Thế giới vật liệu của thơ Hakka không chỉ là "biểu tượng nông nghiệp", mà là đồng bằng, nền văn hóa, sân khấu và ngôn ngữ hội gia đình cùng phát triển thành một không gian sống. ](/article-images/people/dupan-hakka-compound-tongluo.webp)
-_Công ty hợp tác truyền thống của người Hakka (Thái Nguyên) — Để hiểu **Hồn môi** và **Lễ hội Trung**, cần trước mọi thứ phục hồi sân khấu và hội trường từ các biểu tượng du lịch thành các không gian đạo đức gia đình. Photo via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hakka_Compound,_Tongluo,_Miaoli_(Taiwan).jpg).\_
+![Kiến trúc nhà vườn truyền thống của người Hakka tại khu vực Đồng Đà (Tongluo), Miêu Lật. Thế giới vật chất trong thơ Hakka không chỉ là 「biểu tượng quê hương」, mà là một trường đời được nuôi dưỡng từ sự cộng hưởng giữa các khu dân cư, nghi lễ tế tự, rạp hát và ngôn ngữ khẩu ngữ hàng ngày.](/article-images/people/dupan-hakka-compound-tongluo.webp)
+_Nhà vườn truyền thống người Hakka (Đồng Đà, Miêu Lật) — Để hiểu được bối cảnh dân gian của 〈Bình An hí〉 và 〈Trung Nguyên tiết〉, cần phải khôi phục rạp hát và sảnh chính từ những biểu tượng du lịch trở về đúng nghĩa là không gian đạo đức đời thường. Ảnh qua [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Hakka_Compound,_Tongluo,_Miaoli_(Taiwan).jpg>).\_
 
 ## Sau khi giải phóng, ngôn ngữ mẫu chỉ còn là "viết trên giấy"
 

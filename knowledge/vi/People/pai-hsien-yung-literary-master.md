@@ -1,16 +1,16 @@
 ---
-title: 'Bạch Tiên Dũng: 《Người Taipei》1971, đến phiên bản thanh xuân 《Mộc Đan Đình》 hai mươi năm lưu diễn'
-description: 'Sinh năm 1937 tại Quế Lâm, Quảng Tây, con trai của Bạch Trùng Hy. Năm 1956 khoa Ngoại văn Đại học Đài Loan, cùng Vương Văn Hưng và những người khác sáng lập 《Văn học hiện đại》。Năm 1971 《Người Taipei》 14 truyện ngắn. Năm 1983 《Nghiệt tử》。Năm 2003 khởi động phiên bản thanh xuân 《Mộc Đan Đình》, tháng 4 năm 2004 công diễn lần đầu, năm 2024 đón nhận 20 năm. Năm 2003 nhận Giải thưởng Văn nghệ Quốc gia.'
+title: 'Bạch Tiên Dũng: Từ tác phẩm "Người Đài Bắc" năm 1971 đến hai mươi năm lưu diễn phiên bản thanh xuân của "Mẫu Đơn Đình"'
+description: 'Tác giả của "Người Đài Bắc" và "Nghiệt Tử", sinh ra tại Quế Lâm, Quảng Tây, có cha là tướng lĩnh Quốc dân đảng Bạch Sùng Hy. Năm 1956, ông nhập học khoa Văn học nước ngoài tại Đại học Quốc gia Đài Loan, cùng với Vương Văn Hưng, Trần Nhược Hi và những người khác sáng lập tạp chí "Văn học Hiện đại", đưa chủ nghĩa hiện đại phương Tây vào văn đàn Đài Loan. Năm 1971, ông xuất bản tập truyện ngắn gồm 14 tác phẩm mang tên "Người Đài Bắc", năm 1983 xuất bản "Nghiệt Tử". Những năm cuối đời, ông dành tâm huyết cho việc bảo tồn Côn khúc, năm 2003 nhận Giải thưởng Văn nghệ Quốc gia và khởi xướng phiên bản thanh xuân của "Mẫu Đơn Đình", công diễn lần đầu tại Đài Bắc vào tháng 4 năm 2004 với hơn 300 buổi lưu diễn.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Văn học',
     'Văn học hiện đại',
-    'Người Taipei',
-    'Nghiệt tử',
-    'Cung kịch',
-    'Bạch Trùng Hy',
+    'Người Đài Bắc',
+    'Nghiệt Tử',
+    'Côn khúc',
+    'Bạch Sùng Hy',
   ]
 subcategory: '文學'
 author: 'Taiwan.md'
@@ -21,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/白先勇.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '630afb2b66'
 sourceContentHash: 'sha256:d675a47ee18feb3d'
 sourceBodyHash: 'sha256:44085a78b193e440'
-translatedAt: '2026-11-04T21:21:34.819486+00:00'
+translatedAt: '2026-11-27T00:06:15.188531+00:00'
 ---
 
 # Bạch Tiên Dũng: 《Đài Bắc Nhân》 1971, đến phiên bản Thanh Xuân 《Mẫu Đan Đình》 hai mươi năm lưu diễn

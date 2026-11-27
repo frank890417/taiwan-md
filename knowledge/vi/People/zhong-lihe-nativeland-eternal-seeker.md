@@ -1,16 +1,16 @@
 ---
-title: 'Chung Lĩnh Hòa: Mỹ Nông 1915, người sĩ thực giấc mê ngã xuống vết máu'
-description: 'Sinh năm 1915 tháng 12 ngày 15 tại gia đình Hakka của Mỹ Nông, Kaohsiung. Năm 1938 đi làm việc ở Đông Bắc Trung Quốc, năm 1946 trở lại Đài Loan. Tác phẩm đại diện: "Nhà Nông Lãnh" (truyện dài), "Người Bản Địa" (truyện ngắn, viết năm 1959), "Cặp Vợ Chồng Nghèo Khó". Được gọi là "người sĩ thực giấc mê ngã xuống vết máu", thường được vinh danh là "cha của văn học miền quê Đài Loan" (danh hiệu này gây tranh cãi). Ngày 4 tháng 8 năm 1960, chết vì hôn mê, 44 tuổi.'
+title: 'Chung Lý Hòa: Meinong 1915, người cầm bút ngã xuống trong vũng máu'
+description: 'Nhà văn của dòng văn học làng quê với bối cảnh viết về nông thôn người Khách Gia, xuất thân từ một gia đình nông dân Khách Gia tại Meinong, Cao Hùng. Năm 1938, ông lên vùng Đông Bắc Trung Quốc sống lưu lạc trong tám năm và trở về Đài Loan vào năm 1946. Tiểu thuyết dài tập "Nông trường Lạp Sơn" đã ghi chép một cách trung thực những nghịch cảnh sinh tồn của nông dân từ góc nhìn nội tại, trong khi truyện ngắn "Người nguyên hương" truy vấn về sự thuộc về của tinh thần. Ông thường được tôn vinh là "Cha đẻ của văn học làng quê Đài Loan", nhưng danh hiệu này vẫn còn gây tranh cãi; dù bị bệnh lao hành hạ, ông vẫn kiên trì cầm bút và đã qua đời vì ho ra máu khi đang chỉnh sửa bản thảo vào năm 1960 ở tuổi 44, được mệnh danh là "người cầm bút ngã xuống trong vũng máu".'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Văn học',
-    'Văn học miền quê',
-    'Người Bản Địa',
-    'Nhà Nông Lãnh',
-    'Mỹ Nông',
-    'Hakka',
+    'Văn học làng quê',
+    'Người nguyên hương',
+    'Nông trường Lạp Sơn',
+    'Meinong',
+    'Khách Gia',
   ]
 subcategory: '文學'
 author: 'Taiwan.md'
@@ -21,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/鍾理和.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '2556505034'
 sourceContentHash: 'sha256:cddbfe1c856d1966'
 sourceBodyHash: 'sha256:59814996cd0ea2c6'
-translatedAt: '2026-11-04T22:01:10.708687+00:00'
+translatedAt: '2026-11-26T23:57:05.452532+00:00'
 ---
 
 # Chung Lĩnh Hòa: Mỹ Nông 1915, người sĩ thực giấc mê ngã xuống vết máu

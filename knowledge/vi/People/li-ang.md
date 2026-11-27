@@ -1,15 +1,15 @@
 ---
-title: 'Lý Nghiễn: Lô Viện 1952, «Giết Chồng» mở đường cho văn học nữ quyền bình đẳng của Đài Loan'
-description: 'Năm 1952 sinh tại Trung Hoa Đại Lục Lô Viện, tên thật là Tạ Thụ Đoàn. Năm 1983, «Giết Chồng» được đăng trên Liên Hiệp Báo, gây sốc với chủ đề bạo lực gia đình. Năm 1991, «Nhập Thái». Năm 2004, được Pháp trao Huân chương Nghệ thuật và Văn học cấp thiếu tướng. Tác phẩm dịch ra tiếng Anh, Pháp, Đức, Nhật và nhiều ngôn ngữ khác, là một trong những nhà văn nữ nhận được sự quan tâm quốc tế nhất ở Đài Loan.'
+title: 'Lý Ngang: Lộc Cảng 1952, người mở đường cho văn học nữ quyền Đài Loan qua tác phẩm "Sát Phu"'
+description: 'Nhà văn nữ quyền Đài Loan, sinh năm 1952 tại Lộc Cảng, Chương Hóa, tên thật là Thi Thục Đoan, tốt nghiệp khoa Triết học Đại học Văn hóa Trung Hoa. Năm 1983, tác phẩm "Sát Phu" được đăng tải trên báo Liên Hợp Báo, gây chấn động văn đàn với đề tài bạo lực gia đình và được xem là tiếng nói tiên phong của văn học nữ quyền Đài Loan; năm 1991, bà xuất bản cuốn "Mê Viên", khám phá áp lực từ văn hóa truyền thống và tính chủ thể của phụ nữ. Năm 2004, bà được trao Huân chương Nghệ thuật và Văn học Pháp hạng Hiệp sĩ, các tác phẩm đã được dịch sang tiếng Anh, Pháp, Đức, Nhật... và là một trong những nhà văn nữ được quốc tế chú ý nhất tại Đài Loan.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Văn học',
-    'Văn học nữ quyền bình đẳng',
-    'Giết Chồng',
-    'Nhập Thái',
-    'Lô Viện',
+    'Văn học nữ quyền',
+    'Sát Phu',
+    'Mê Viên',
+    'Lộc Cảng',
     'Vấn đề giới tính',
   ]
 subcategory: '文學'
@@ -21,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/李昂.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '3f269cde5e'
 sourceContentHash: 'sha256:047f29e16ec14ac9'
 sourceBodyHash: 'sha256:0a0f9bd1ab3db88b'
-translatedAt: '2026-11-06T08:39:39.328067+00:00'
+translatedAt: '2026-11-26T23:59:40.803750+00:00'
 ---
 
 # Lý Nghiễn: Lô Viện 1952, «Giết Chồng» mở đường cho văn học nữ quyền bình đẳng của Đài Loan
