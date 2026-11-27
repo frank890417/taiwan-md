@@ -1,16 +1,16 @@
 ---
-title: 'Quinta-feira 4 Super Players: transformar a perícia invisível do trabalho comum em programa de variedades na internet'
-description: 'O "Quinta-feira 4 Super Players", estreado em 2015, percorreu o caminho das transmissões ao vivo da Macabé até ao YouTube; em 2018, um episódio de 58 minutos "Um dia como assessor do presidente da câmara" ultrapassou 3 milhões de visualizações em quatro dias. À superfície, o programa leva celebridades a trabalhar; na realidade, mudou a forma como o público vê técnicos da Taipower, assessores e trabalhadores de bastidores de concertos.'
+title: 'Thursday 4 Super Play: transformando a expertise invisível de trabalhos comuns em um programa de variedades online'
+description: "Um programa de variedades online que começou explorando transmissões ao vivo no McCafe, estreou em 2015, encontrou o formato da 'Série Um Dia' em 2016 e criou o canal no YouTube em 2017. Tai Chih-yuan e outros entraram nos locais de trabalho de técnicos da Taipower, reparadores de postes de luz e bastidores de concertos; fios de aço intermináveis deram contorno à expertise oculta. Em 2018, 'Um Dia como Assessor do Prefeito' ultrapassou três milhões de visualizações em quatro dias. Transforma celebridades em aprendizes e permite que o público veja a expertise despercebida por trás de trabalhos comuns."
 date: 2026-08-16
 category: 'People'
 tags:
   [
-    'Quinta-feira 4 Super Players',
-    'Cheng Yuan-chang',
-    'série Um dia',
-    'variedades na internet',
+    'Thursday 4 Super Play',
+    'Tai Chih-yuan',
+    'Série Um Dia',
+    'programa de variedades online',
     'YouTube',
-    'media de Taiwan',
+    'mídia de Taiwan',
   ]
 subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
@@ -20,10 +20,10 @@ lastHumanReview: false
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'People/木曜4超玩.md'
-sourceCommitSha: '4f3974f86'
+sourceCommitSha: '8fc70bd881'
 sourceContentHash: 'sha256:c545680e99f6d0ab'
 sourceBodyHash: 'sha256:809502b72dc5c3f5'
-translatedAt: '2026-09-21T14:51:07.290837+00:00'
+translatedAt: '2026-11-27T01:13:25.226149+00:00'
 ---
 
 > **30 segundos de visão geral:** Em 2015, "Quinta-feira 4 Super Players" estreou na web TV Macao; a primeira temporada da "série Um dia" só apareceu em 2016, e o canal no YouTube foi criado em 2017. O mais interessante do programa não é colocar Ti Chih-yuan, KID ou Wendy fazendo um dia de trabalho — é mostrar profissionais, assessores e equipes que normalmente não aparecem como protagonistas em cenas que todo mundo em Taiwan pode assistir. Parece que Quinta-feira transforma celebridades em pessoas comuns, mas na verdade está transformando profissões invisíveis em entretenimento popular.

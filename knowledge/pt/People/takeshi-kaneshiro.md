@@ -1,17 +1,17 @@
 ---
-title: 'Takeshi Kaneshiro: de "popular" não reconhecido ao galã asiático que só quer ser esquecido pelo mundo'
-description: 'Uma reportagem de rua de 2025 o rotulou como "popular", talvez o momento mais desejado por Takeshi Kaneshiro. Aos 17 anos, fez um comercial para comprar uma moto; tornou-se uma estrela internacional entre Taiwan, Japão e Hong Kong, mas sempre praticou o "desaparecimento" no auge da fama.'
+title: 'Takeshi Kaneshiro: Do "Cidadão" não reconhecido ao ícone asiático que só deseja ser esquecido pelo mundo'
+description: 'O deus asiático que atravessou o cinema de Taiwan, Japão e Hong Kong; aos 17 anos, aceitou um comercial de refrigerante para comprar uma moto. De assistente que limpava banheiros em estúdios a polícia com latas de abacaxi vencidas nas lentes de Wong Kar-wai, ele foi a primeira estrela asiática a entrar no mundo virtual em "Onimusha". Um comercial da EVA Air transformou uma figueira em Taitung num ponto turístico internacional. No entanto, ele continua praticando o "desaparecimento", trocando o isolamento e o silêncio pela liberdade de ser esquecido pelo mundo.'
 date: 2026-06-19
 category: 'People'
 tags:
   [
     'Takeshi Kaneshiro',
-    'cinema de Taiwan',
+    'Cinema de Taiwan',
     'EVA Air',
     'Wong Kar-wai',
-    'reclusão',
+    'Isolamento',
     'Onimusha',
-    'The Crossing',
+    'The Bullets of Tai Ping',
   ]
 subcategory: '電影與戲劇'
 author: 'Taiwan.md Contributors'
@@ -22,91 +22,91 @@ readingTime: 15
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/金城武.md'
-sourceCommitSha: 'be13f0452'
-sourceContentHash: 'sha256:6eed6bfbb091aeed'
+sourceCommitSha: 'a9322956ed'
+sourceContentHash: 'sha256:55178af9281f4694'
 sourceBodyHash: 'sha256:17690ed615ebe1ca'
-translatedAt: '2026-11-19T00:38:26.286758+00:00'
+translatedAt: '2026-11-27T07:30:39+08:00'
 ---
 
-> **Visão geral em 30 segundos:**
-> No início de 2025, uma reportagem de rua em Taiwan rotulou acidentalmente Takeshi Kaneshiro como "popular", e este gigante outrora aclamado como "galã asiático" passou diante das câmeras num piscar de olhos, sem que ninguém o reconhecesse. Não se trata de estar esquecido, mas do resultado de trinta anos de "prática do desaparecimento". Aos 17 anos, aceitou filmar um comercial de refrigerante para comprar uma moto; chegou a trabalhar com diretores renomados como Wong Kar-wai, Peter Chan e John Woo, mas Takeshi Kaneshiro sempre transitou entre a aura de superestrela e uma vida privada extremamente comum. Ele é um "otaku" que escolheu a reclusão no auge, imerso em jogos eletrônicos e na agricultura, e também o único homem na cultura de Taiwan capaz de transformar, por conta própria, uma árvore de looking-glass (茄苳樹) num ponto turístico internacional. Sua própria existência é uma desconstrução da "fama", exibindo a elegância suprema de proteger a solidão sob os olhares de milhões.
+> **Resumo em 30 segundos:**
+> No início de 2025, uma notícia de entrevista de rua em Taiwan rotulou inesperadamente Takeshi Kaneshiro (金城武) como "cidadão". A estrela, outrora aclamada como o "ícone da Ásia", passou rapidamente diante das câmeras sem que ninguém o reconhecesse. Isso não é decadência, mas sim o resultado de sua "prática do desaparecimento" ao longo de trinta anos. Desde aceitar um comercial de refrigerante aos 17 anos para comprar uma motocicleta, até colaborar com diretores renomados como Wong Kar-wai, Peter Chan e John Woo, Kaneshiro sempre transitou entre o brilho do estrelato e uma vida privada extremamente comum. Ele é o "otaku" que escolheu o isolamento no auge de sua carreira, mergulhando em videogames e na agricultura; e também o homem que, sozinho, transformou uma figueira em um ponto turístico internacional. Sua própria existência é uma desconstrução da fama, demonstrando a elegância suprema de proteger a solidão sob os olhares do mundo.
 
-### Já que ninguém me reconhece, essa é a melhor recompensa
+### Já que ninguém me reconhece, esse é o melhor prêmio
 
-Em fevereiro de 2025, numa reportagem de rua da mídia taiwanesa, um homem de chapéu, com expressão relaxada, passou num piscar de olhos diante das câmeras; a legenda o identificava apenas como "popular". Só quando internautas reassistiram repetidamente é que perceberam: era Takeshi Kaneshiro, desaparecido da vista do público havia muito tempo. Para este que já foi "deus masculino (男神)" atravessando as telas de Taiwan, Japão e Hong Kong, aquele momento de "não ser reconhecido" foi, talvez, a atuação mais bem-sucedida de sua carreira.
+Em fevereiro de 2025, em uma reportagem de rua da mídia de Taiwan, um homem de chapéu e expressão relaxada passou rapidamente diante das câmeras, com a legenda apenas como "cidadão". Foi somente após os internautas assistirem ao vídeo repetidamente que perceberam: era Takeshi Kaneshiro, desaparecido do olhar público há muito tempo. Para este ícone que atuou nos cinemas de Taiwan, Japão e Hong Kong, esse momento de "não ser reconhecido" talvez seja a atuação mais bem-sucedida de sua carreira.
 
-"Contanto que ninguém mais repare em mim, essa é a melhor recompensa." Takeshi Kaneshiro revelou em diversas entrevistas seu distanciamento da fama [^1]. Ele gerencia o nome "Takeshi Kaneshiro" de forma extremamente passiva, chegando a considerá-lo um "mal-entendido". Enquanto o mundo todo perseguia seu perfil, ele se escondia atrás da tela do computador jogando videogame, ou levava uma vida quase reclusa numa cidadezinha do Japão.
+"Desde que ninguém mais note minha presença, será o melhor prêmio", Kaneshiro revelou em várias entrevistas seu distanciamento da fama [^1]. Ele mantém uma postura extremamente passiva em relação ao nome "Takeshi Kaneshiro", vendo-o quase como um "mal-entendido". Enquanto o mundo persegue seu perfil, ele se esconde atrás de uma tela de computador jogando, ou vive uma vida de quase reclusão em pequenas cidades no Japão.
 
-"Lá fora todos gritam 'Takeshi Kaneshiro! Takeshi Kaneshiro!', mas em casa sou apenas eu sozinho." Disse ele, com um sorriso leve no canto da boca, numa entrevista à _ELLE_, escondendo a solidão que carrega [^2].
+"Lá fora, todos estão sempre gritando 'Takeshi Kaneshiro! Takeshi Kaneshiro!', mas na verdade, quando volto para casa, estou sozinho", disse ele calmamente em uma entrevista à _ELLE_, com um leve sorriso nos cantos da boca que escondia a solidão em seu coração [^2].
 
-📝 Nota do curador: O charme de Takeshi Kaneshiro não reside em ele "estar ali", mas em ele "não estar ali". Numa era em que as redes sociais obrigam todos a fazer check-in, seu desaparecimento tornou-se a forma mais luxuosa de resistência.
+📝 Nota do Curador: O charme de Takeshi Kaneshiro não está no fato de ele "estar lá", mas no fato de ele "não estar". Em uma era de redes sociais que obrigam todos a registrar cada passo, seu desaparecimento tornou-se uma forma de resistência luxuosa.
 
-### O deus masculino nascido por causa de uma moto
+### Um ícone nascido para comprar uma motocicleta
 
-A carreira artística de Takeshi Kaneshiro começou com um objeto muito concreto: uma motocicleta. Em 1990, o adolescente de 17 anos, aluno da Taipei American School, para juntar mesada e comprar uma moto, aceitou o convite da mãe de um colega e filmou seu primeiro comercial — o refrigerante HeySong Champagne (黑松香檳汽水) [^3].
+A carreira artística de Kaneshiro começou com um objeto muito específico: uma motocicleta. Em 1990, o jovem de 17 anos que estudava na Taipei American School aceitou fazer seu primeiro comercial — da bebida Blackmores Champagne [^3] — por indicação da mãe de um colega, para economizar dinheiro e comprar uma moto.
 
-Naquele CF de poucos segundos, ele aparecia moreno e magro, de jardineira, dançando um street dance amador, mas chamou a atenção imediata da então "madrinha do entretenimento" Ko Fu-hung (葛福鴻) [^4]. Em seguida, foi enviado ao estúdio do músico Chen Sheng (陳昇) para ser assistente, dividindo com Rene Liu (劉若英) tarefas como limpar banheiros, revelar fotos e comprar noz-de-areca. Naquele período, ao lado do músico Chen Sheng, aprendeu a "descontração" e a "naturalidade" diante do showbiz. Chen Sheng brincava dizendo que, antes de lançar disco, a especialidade de Takeshi Kaneshiro era esfregar privadas; esse aprendizado na base fez com que, mesmo pisando no tapete vermelho do Oscar, ele mantivesse certa simplicidade de "trabalhador comum" [^5].
+Naquele comercial de poucos segundos, ele era magro e escuro, dançando um hip-hop ingênuo com suspensórios, mas foi imediatamente notado por Ge Fu-hung (葛福鴻), a "madrinha do entretenimento" da época [^4]. Posteriormente, ele foi enviado para o estúdio de Chen Sheng (陳昇) como assistente, onde, junto com Rene Liu (劉若英), era responsável por limpar banheiros, lavar fotos e comprar noz de betel. Naqueles dias, ao lado do músico Chen Sheng, ele aprendeu a "descontração" e a falta de seriedade em relação ao mundo do entretenimento. Chen Sheng brincou certa vez que, antes de lançar discos, o que Kaneshiro mais sabia fazer era esfregar vasos sanitários; esse aprendizado na base permitiu que, mesmo pisando no tapete vermelho do Oscar, ele mantivesse uma simplicidade de "trabalhador comum" [^5].
 
-"O primeiro drama que gravei em Taiwan foi _The Grassland Scholar_ (《草地狀元》); eu era totalmente novato, sem saber atuar. No primeiro dia de filmagem, levei uma bronca do diretor, e os atores famosos do elenco também se preocupavam que eu atrasasse o cronograma." Ao relembrar os anos verdes, Takeshi Kaneshiro admite que ficou tão triste que queria ir para casa [^2].
+"Meu primeiro drama em Taiwan foi _Grassland Champion_ (草地狀元); naquela época, eu era um novato que não sabia atuar. No primeiro dia de filmagem, levei uma bronca do diretor, e os atores famosos do elenco temiam que eu atrasasse as gravações." Ao relembrar seus anos de iniciante, Kaneshiro admitiu que ficou tão triste que quis ir para casa [^2].
 
-### O abacaxi enlatado de Wong Kar-wai e a perda de identidade
+### Os abacaxis de Wong Kar-wai e a perda de identidade
 
-Se Chen Sheng deu a Takeshi Kaneshiro a estrutura, Wong Kar-wai deu-lhe a alma. Em 1994, o policial 223 de _Chungking Express_ (《重慶森林》) fez o mundo lembrar do garoto que não parava de comer abacaxi enlatado vencido. Wong Kar-wai já disse: "Os olhos de Leslie Cheung (張國榮) têm histórias, os de Tony Leung (梁朝偉) têm buracos negros, os de Takeshi Kaneshiro têm a vida." [^6]
+Se Chen Sheng deu a estrutura a Kaneshiro, Wong Kar-wai lhe deu a alma. Em 1994, o policial 223 em _Chungking Express_ (重慶森林) fez o mundo se lembrar do jovem que não parava de comer latas de abacaxi vencidas. Wong Kar-wai comentou: "Leslie Cheung tem histórias nos olhos; Tony Leung tem buracos negros nos olhos; Takeshi Kaneshiro tem a vida nos olhos." [^6]
 
-No entanto, este "deus masculino asiático (亞洲男神)", no início da fama, debatia-se com a identidade. Filho de pai japonês de Okinawa e mãe taiwanesa, confessou à CNN: "Quando criança em Taiwan, os taiwaneses diziam que eu era japonês. Quando fui estudar no Japão, os colegas diziam que eu era taiwanês. Cheguei a sentir muita dificuldade em distinguir de que país eu era." [^7] Essa qualidade de outsider acabou por lhe dar uma persuasão inigualável ao interpretar papéis mestiços à margem do submundo, como em _The City That Never Sleeps_ (《不夜城》), ou o de Yen Tse-kun (嚴澤坤) em _The Crossing_ (《太平輪》), que transita entre identidades taiwanesa e japonesa.
+No entanto, este "deus asiático", no início da fama, enfrentou profundas lutas de identidade. Sendo mestiço (pai japonês de Okinawa e mãe taiwanesa), ele confessou em uma entrevista à CNN: "Quando era pequeno em Taiwan, os taiwaneses diziam que eu era japonês. Quando fui estudar no Japão, meus colegas diziam que eu era taiwanês. Eu sentia muita dificuldade em distinguir a qual país eu pertencia." [^7] Essa característica de alguém que vive nas margens permitiu que ele tivesse uma convicção inigualável ao interpretar personagens mestiços que transitam pelo submundo, como em _The So Long Bar_ (不夜城), ou Yan Ze-kun em _The Bullets of Tai Ping_ (太平輪), que atravessa identidades entre Taiwan e Japão.
 
-"Em _The Crossing_, pude me concentrar no desafio emocional porque não tinha barreiras linguísticas; eu falava todas as línguas: mandarim, taiwanês e japonês." Disse Takeshi Kaneshiro em entrevista à _CommonWealth Magazine_, acrescentando que esse background transcultural acabou por nutrir sua atuação [^8].
+"Em _The Bullets of Tai Ping_, pude concentrar minha energia no desafio emocional porque não tinha o fardo da língua; eu falo todas as línguas: mandarim, taiwanês e japonês", mencionou Kaneshiro em entrevista à _CommonWealth Magazine_ (天下雜誌), revelando que seu background multicultural acabou se tornando o nutriente de sua atuação [^8].
 
-### Onimusha: a primeira estrela a entrar no mundo virtual
+### Onimusha: A primeira estrela a entrar no mundo virtual
 
-O amor de Takeshi Kaneshiro por jogos eletrônicos não é novidade, mas ele foi a primeira estrela asiática a integrar profundamente sua imagem e captura de movimento a um jogo AAA. Em 2001, _Onimusha_ (《鬼武者》), parceria com a Capcom, teve como protagonista Samanosuke Akechi (明智左馬介), modelado a partir dele [^9].
+O amor de Kaneshiro por videogames não é segredo, mas ele foi a primeira grande estrela asiática a integrar profundamente sua imagem pessoal com a tecnologia de captura de movimento em um jogo de nível AAA. Em 2001, ele colaborou com a Capcom para o lançamento de _Onimusha_ (鬼武者), onde seu rosto serviu de base para o protagonista Akechi Samanai [^9].
 
-Diz-se que ele já recusou um convite para jantar de Peter Chan alegando: "Combinei com amigos online de entrar no chat." Não era estrelismo, era genuína imersão no mundo dos jogos. Nos bastidores de _Onimusha_, vê-se ele vestindo equipamentos pesados de captura de movimento, repetindo golpes de espada para que seu eu virtual fosse mais real. Para ele, o mundo dos jogos é outro refúgio onde escapar dos holofotes da vida real.
+Há rumores de que ele uma vez recusou um convite para jantar de Peter Chan com a justificativa de que "tinha um compromisso com amigos da internet para conversar online". Isso não era arrogância, mas sim seu envolvimento real com o mundo dos jogos. Nos bastidores de _Onimusha_, é possível vê-lo usando equipamentos pesados de captura de movimento, praticando repetidamente movimentos de espada apenas para que sua versão no mundo virtual fosse mais realista. Para ele, o mundo dos jogos é outro refúgio onde pode escapar dos holofotes da realidade.
 
-### I See You: um homem e o peso de uma árvore
+### I See You: O peso de um homem e de uma árvore
 
-Em 2013, um comercial da EVA Air intitulado _I See You_ mudou completamente o destino de Chishang (池上), em Taitung (台東). Takeshi Kaneshiro bebe chá sob uma looking-glass tree (茄苳樹) na Brown Boulevard (伯朗大道), e poucas falas — "Ver a saudade, ver a esperança, ver a resposta" — batizaram aquela árvore para sempre como "Árvore de Takeshi Kaneshiro" (金城武樹) [^10].
+Em 2013, o comercial da EVA Air intitulado _I See You_ mudou completamente o destino de Taitung. Kaneshiro aparece bebendo chá sob uma figueira na Estrada de Brolga (Brown Avenue); com poucas frases como "vejo a saudade, vejo a esperança, vejo a resposta", aquela árvore passou a ser chamada de "Árvore de Takeshi Kaneshiro" [^10].
 
-O anúncio provocou um fenômeno nas redes sociais, inundando os feeds; em um único dia alcançou 4,67 milhões de pessoas [^11]. Não foi apenas efeito de celebridade: a aura de "viajante" de Takeshi Kaneshiro casou perfeitamente com o anseio coletivo dos taiwaneses por uma "vida lenta". A elegância e a calma que ele transmite no comercial fizeram de uma árvore comum a depositária da imaginação de todo Taiwan sobre o "longe".
+O comercial gerou um fenômeno nas redes sociais, alcançando 4,67 milhões de visualizações em um único dia [^11]. Isso não foi apenas o efeito da estrela, mas porque a aura de "viajante" de Kaneshiro se encaixava perfeitamente no desejo coletivo dos taiwaneses por uma "vida lenta". A elegância e a calma que ele demonstrou no comercial permitiram que uma árvore comum carregasse a imaginação de todo o país sobre o "distante".
 
-📝 Nota do curador: A explosão da Árvore de Takeshi Kaneshiro é, em essência, um milagre na história do turismo de Taiwan. Prova que quando um embaixador dotado de alta "qualidade cultural" se une a um território, a energia gerada consegue mover o mundo.
+📝 Nota do Curador: O sucesso repentino da Árvore de Takeshi Kaneshiro é, essencialmente, um milagre na história do turismo de Taiwan. Provou que quando um porta-voz com alta "qualidade cultural" se une à terra, a energia gerada é capaz de mover o mundo.
 
-### O recluso no auge: "Não sou misterioso, são vocês que são curiosos"
+### O eremita no auge: Não sou misterioso, vocês é que são curiosos
 
-O Takeshi Kaneshiro de hoje parece mais uma lenda. Seu trabalho mais recente, _Fūrinkazan_ (《風林火山》), filmado desde 2017, teve a estreia adiada sucessivamente, e agora prevê-se para 2025 [^12]. Nos anos de espera, as notícias sobre ele vêm quase só de encontros casuais: comprando no supermercado, lavrando a terra, ou como jogador de alto nível no mundo dos jogos.
+O Takeshi Kaneshiro de hoje parece mais uma lenda. Sua obra recente, _The Bullets of Tai Ping_ (風林火山), após começar a ser filmada em 2017, teve sua data de lançamento adiada repetidamente, com previsão atual para 2025 [^12]. Durante esses anos de espera, as notícias sobre ele vêm principalmente de encontros casuais: comprando vegetais no supermercado, cultivando campos ou sendo um jogador de alto nível no mundo dos games.
 
-"Não sou misterioso, são vocês que são curiosos." Essa frase sua, amplamente compartilhada nas redes resume seu cansaço com a atenção pública [^13]. Recusa ser rotulado como "namorado de sonho (夢幻情人)", recusa participar de reality shows. Numa era de tirania do tráfego, Takeshi Kaneshiro escolhe o "silêncio" para proteger sua verdade.
+"Não sou misterioso, vocês é que são curiosos." Esta frase, amplamente difundida nas redes sociais, resume sua resignação diante da atenção pública [^13]. Ele recusa ser definido como o "amante ideal" e recusa participar de reality shows. Em uma era de busca incessante por engajamento, Kaneshiro escolhe usar o "silêncio" para proteger sua verdade.
 
-"Atuar, para mim, é fingir (Pretending)." Declarou sem rodeios em entrevista à _Vogue_ [^14]. Não tem a obsessão de "precisar virar mestre"; parece antes um observador sortudo, deixando-se levar pela corrente do destino.
+"Atuar para mim é apenas fingir (_Pretending_)", disse ele abertamente em entrevista à _Vogue Taiwan_ [^14]. Ele não tem a obsessão de "precisar se tornar um mestre"; pelo contrário, parece mais um observador sortudo, deixando-se levar pela correnteza do destino.
 
-Quando o vemos novamente numa reportagem de rua, rotulado como "popular", talvez não devamos lamentar, mas alegrar-nos por ele. Pois enfim conquistou a melhor recompensa: a liberdade de ser esquecido pelo mundo.
+Quando virmos novamente aquele homem rotulado como "cidadão" em uma notícia de rua, talvez não devamos sentir lamentação, mas sim alegria por ele. Pois ele finalmente conquistou o melhor prêmio: a liberdade de ser esquecido pelo mundo.
 
 ## Referências
 
-[^1]: [Instagram: Eu queria compartilhar algumas frases célebres de "Takeshi Kaneshiro"](https://www.instagram.com/p/DQ0rYtkk8fQ/) — Ver conteúdo suplementar no link original
+[^1]: [Instagram: Eu costumava querer compartilhar algumas frases célebres de "Takeshi Kaneshiro"](https://www.instagram.com/p/DQ0rYtkk8fQ/) — Veja detalhes no conteúdo do link original.
 
-[^2]: [ELLE Hong Kong: [Retrospectiva 30 anos ELLE] Apaixonados por Takeshi Kaneshiro! A confissão sincera do belo homem](https://www.elle.com.hk/celebrity/elle30th-takeshi-kaneshiro) — Ver conteúdo suplementar no link original
+[^2]: [ELLE Hong Kong: 【Retrospectiva 30 anos ELLE】 Apaixonados por Takeshi Kaneshiro! A confissão sincera do belo homem](https://www.elle.com.hk/celebrity/elle30th-takeshi-kaneshiro) — Veja detalhes no conteúdo do link original.
 
-[^3]: [NOWnews: Primeiro comercial de Takeshi Kaneshiro, bebeu refrigerante por 3 dias; assim era aos 17 anos](https://www.nownews.com/news/6603580) — NOWnews Notícias de Hoje
+[^3]: [NOWnews: O primeiro comercial de Takeshi Kaneshiro gravado em 3 dias; assim ele era aos 17 anos](https://www.nownews.com/news/6603580) — NOWnews.
 
-[^4]: [Facebook: Perfis do Entretenimento - Takeshi Kaneshiro, o galã asiático](https://www.facebook.com/photo.php?fbid=1017411277561608) — Post público no Facebook
+[^4]: [Facebook: Perfil de Entretenimento - O ícone asiático Takeshi Kaneshiro](https://www.facebook.com/photo.php?fbid=1017411277561608) — Postagem pública no Facebook.
 
-[^5]: [NOWnews: Antes de lançar disco, Takeshi Kaneshiro esfregava privadas! Essa música triste de KTV foi escrita por ele](https://www.nownews.com/news/6597012) — NOWnews Notícias de Hoje
+[^5]: [NOWnews: Takeshi Kaneshiro limpava banheiros antes de lançar discos! Esta canção triste de KTV foi escrita por ele](https://www.nownews.com/news/6597012) — NOWnews.
 
-[^6]: [YouTube: Entrevista com Takeshi Kaneshiro! O primeiro deus masculino da Ásia fala raramente sobre visão amorosa](https://www.youtube.com/watch?v=CEKv71BzBcg) — Registro de vídeo no YouTube
+[^6]: [YouTube: Entrevista com Takeshi Kaneshiro! O primeiro deus asiático fala raramente sobre sua visão de amor](https://www.youtube.com/watch?v=CEKv71BzBcg) — Registro de vídeo no YouTube.
 
-[^7]: [The Epoch Times: CNN entrevista Takeshi Kaneshiro pela segunda vez; ele não almeja Hollywood](https://www.epochtimes.com/b5/6/2/5/n1212364.htm) — Reportagem do The Epoch Times
+[^7]: [The Epoch Times: Segunda entrevista da CNN; Takeshi Kaneshiro não almeja Hollywood](https://www.epochtimes.com/b5/6/2/5/n1212364.htm) — Reportagem do The Epoch Times.
 
-[^8]: [CommonWealth Magazine: I Am not a 'Dream Guy' - Entrevista com Takeshi Kaneshiro](https://english.cw.com.tw/article/article.action?id=298) — Ver conteúdo suplementar no link original
+[^8]: [CommonWealth Magazine: I Am not a 'Dream Guy' - Takeshi Kaneshiro Interview](https://english.cw.com.tw/article/article.action?id=298) — Veja detalhes no conteúdo do link original.
 
-[^9]: [Threads: Takeshi Kaneshiro colabora na produção de bastidores do jogo _Onimusha_](https://www.threads.com/@freshcl0uds/post/DYADHMLlmXv/) — Ver conteúdo suplementar no link original
+[^9]: [Threads: Bastidores da produção do jogo 《Onimusha》 com Takeshi Kaneshiro](https://www.threads.com/@freshcl0uds/post/DYADHMLlmXv/) — Veja detalhes no conteúdo do link original.
 
-[^10]: [Inside: Quando o olhar das redes move o mundo publicitário, qualidade e conteúdo geram ressonância — I see you, EVA Air](https://www.inside.com.tw/article/2576-i-see-you) — Ver conteúdo suplementar no link original
+[^10]: [Inside: Quando o olhar das redes sociais move o mundo dos anúncios, qualidade e conteúdo geram ressonância ~ I see you · EVA Air](https://www.inside.com.tw/article/2576-i-see-you) — Veja detalhes no conteúdo do link original.
 
-[^11]: [Inside: A partir do anúncio "I SEE YOU" da EVA Air, vemos os segredos da operação no Facebook](https://www.inside.com.tw/article/3554-i-see-you-on-facebook) — Ver conteúdo suplementar no link original
+[^11]: [Inside: Vendo os segredos da operação do Facebook através do comercial "I SEE YOU" da EVA Air](https://www.inside.com.tw/article/3554-i-see-you-on-facebook) — Veja detalhes no conteúdo do link original.
 
-[^12]: [YouTube: Entrevista de Takeshi Kaneshiro para _Fūrinkazan_](https://www.youtube.com/watch?v=AGNk5O4-3PA) — Registro de vídeo no YouTube
+[^12]: [YouTube: Entrevista com Takeshi Kaneshiro sobre 《The Bullets of Tai Ping》](https://www.youtube.com/watch?v=AGNk5O4-3PA) — Registro de vídeo no YouTube.
 
-[^13]: [Facebook: Página de fãs de Takeshi Kaneshiro - "Não sou misterioso, são vocês que são curiosos"](https://www.facebook.com/takeshikaneshirofanspage/photos/a.2506664599593329/2506664599593329/) — Post público no Facebook
+[^13]: [Facebook: Página de fãs de Takeshi Kaneshiro - Não sou misterioso, vocês é que são curiosos](https://www.facebook.com/takeshikaneshirofanspage/photos/a.2506664599593329/2506664599593329/) — Postagem pública no Facebook.
 
-[^14]: [Vogue Taiwan: As lágrimas de Takeshi Kaneshiro](https://www.vogue.com.tw/feature/content-17151) — Ver conteúdo suplementar no link original
+[^14]: [Vogue Taiwan: As lágrimas de Takeshi Kaneshiro](https://www.vogue.com.tw/feature/content-17151) — Veja detalhes no conteúdo do link original.

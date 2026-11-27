@@ -1,17 +1,17 @@
 ---
-title: 'Wang Da-hong: O poeta da arquitetura que trouxe o espírito Bauhaus para Taiwan e contemplou a alma oriental através do modernismo'
-description: 'Destacando-se no concurso do Memorial Sun Yat-sen em 1965, Wang Da-hong estudou com mestres da Bauhaus e dedicou sua vida a resolver a tensão entre tradição e modernidade em Taiwan.'
+title: 'Wang Da-hong: O poeta da arquitetura que trouxe o espírito Bauhaus para Taiwan e usou a arquitetura moderna para contemplar a alma oriental'
+description: "Um poeta da arquitetura que estudou com Walter Gropius, fundador da Bauhaus, graduado pelas universidades de Cambridge e Harvard. Ao retornar a Taiwan, dedicou sua vida a explorar a tensão entre o tradicional e o moderno. Em 1965, destacou-se no concurso para o Memorial de Sun Yat-sen ao integrar beirais curvados com cálculos geométricos rigorosos em estruturas modernas; em 1953, projetou sua própria residência na Jianguo South Road, que posteriormente foi reconstruída próxima ao Museu de Belas Artes de Taipei. Suas obras incluem o edifício do Ministério dos Negócios Estrangeiros e a residência Honglu. Em seus últimos anos, escreveu o romance de ficção científica em inglês 'Phantom City', vivendo até os 101 anos."
 date: 2026-08-18
 category: 'People'
 tags:
   [
     'Wang Da-hong',
-    'arquitetura de Taiwan',
-    'modernismo',
-    'Memorial Sun Yat-sen',
-    'poeta da arquitetura',
+    'Arquitetura de Taiwan',
+    'Modernismo',
+    'Memorial de Sun Yat-sen',
+    'Poeta da arquitetura',
     'Bauhaus',
-    'residência na Jianguo South Road',
+    'Residência na Jianguo South Road',
   ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
@@ -21,10 +21,10 @@ lastHumanReview: false
 revision: 2
 curation: 'incubating'
 translatedFrom: 'People/王大閎.md'
-sourceCommitSha: 'ad1003d60'
+sourceCommitSha: '2556505034'
 sourceContentHash: 'sha256:efe79d1571f630fc'
 sourceBodyHash: 'sha256:c9962896cf42e163'
-translatedAt: '2026-10-15T01:07:24+08:00'
+translatedAt: '2026-11-27T02:00:29.356389+00:00'
 ---
 
 > **Resumo em 30 segundos:**

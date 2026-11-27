@@ -1,34 +1,36 @@
 ---
-title: 'Crowd Lu: O Rei dos Três Ouros Atropelado por um Ônibus'
-description: 'Em 2003, um rapaz de Tainan ia de moto comprar lanche noturno quando um ônibus passou por cima da perna dele, causando fratura exposta e cominutiva. Entediado no hospital, pegou o violão que o primo lhe dera. Vinte e dois anos depois, ele é o mais jovem vencedor da Tríplice Coroa de Ouro de Taiwan: Golden Melody, Golden Bell, Golden Horse — um caminho percorrido com um violão e uma perna que já se quebrou.'
+title: 'Crowd Lu: O vencedor dos três grandes prêmios atropelado por um ônibus'
+description: 'Em 2003, um rapaz de Tainan teve a perna quebrada por um ônibus enquanto ia comprar um lanche de moto; durante o período de hospitalização, ele aprendeu violão por conta própria e, desde então, conquistou a cena musical apenas com seu instrumento. Estreou em 2008 e no ano seguinte venceu o prêmio de Revelação do Ano no Golden Melody Awards; após oito anos sem indicações, ele chegou a caminhar de Taipei até Tainan para se reencontrar. Em 2017, conquistou o prêmio de Melhor Ator no Golden Bell Awards com a cena contínua de um ritual fúnebre em "A Boy from Kaohsiung"; em 2020, venceu o Golden Horse Awards por "Your Name Engraved Herein". Aos trinta e cinco anos, tornou-se o vencedor mais jovem de Taiwan a conquistar o Grande Slam dos três principais prêmios.'
 date: 2026-04-07
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '音樂與表演'
 tags:
-  - 'Figuras'
-  - 'Crowd Lu'
-  - 'Cantor'
-  - 'Ator'
-  - 'Prémio Golden Melody'
-  - 'Prémio Golden Bell'
-  - 'Prémio Golden Horse'
-  - 'Três Ouros'
-  - 'Tainan'
-  - 'O Rapaz do Jubileu'
-  - 'Peixinho'
-  - 'Taiwanês'
-  - 'Música Independente'
-  - 'Povos Indígenas'
-readingTime: 12
+  [
+    'Personalidade',
+    'Crowd Lu',
+    'Cantor',
+    'Ator',
+    'Golden Melody Awards',
+    'Golden Bell Awards',
+    'Golden Horse Awards',
+    'Três Grandes Prêmios',
+    'Tainan',
+    'A Boy from Kaohsiung',
+    'Fish',
+    'Taiwanês',
+    'Música Independente',
+    'Povos Indígenas',
+  ]
+subcategory: '音樂與表演'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-07
 lastHumanReview: true
-featured: false
+readingTime: 12
 translatedFrom: 'People/盧廣仲.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '8fc70bd881'
 sourceContentHash: 'sha256:a21c857b64fd8e71'
 sourceBodyHash: 'sha256:090ff0c53b31ba5d'
-translatedAt: '2026-07-25T05:00:10+08:00'
+translatedAt: '2026-11-27T01:43:34.607853+00:00'
 ---
 
 > **Resumo em 30 segundos:** Crowd Lu, nascido em 1985 em Rende, Tainan, teve a perna esmagada por um ônibus ao sair para comprar lanche noturno no primeiro ano da faculdade; aprendeu violão sozinho durante a internação. Estreou em 2008, ganhou Melhor Artista Novo no Golden Melody Awards em 2009, seguido por um deserto de oito anos sem indicações. Em 2017, chocou a indústria com um monólogo fúnebre de sete minutos em tomada única em _A Boy Named Flora A_ (花甲男孩轉大人), vencendo dois Golden Bell Awards; em 2020, "Your Name Engraved Herein" (刻在我心底的名字) levou o Golden Horse de Melhor Canção Original — aos 35 anos, tornou-se o mais jovem vencedor da Tríplice Coroa de Ouro de Taiwan. Em 2026, ingressos de sua turnê esgotaram em um minuto, com cambistas pedindo até 60 mil.

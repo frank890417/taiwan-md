@@ -1,16 +1,16 @@
 ---
-title: 'Robert Swinhoe: Quando o Diplomata Tornou-se Naturalista'
-description: 'Em 1856, um jovem tradutor britânico de 19 anos registrou o primeiro pássaro que viu na costa sudoeste de Formosa. Quatro anos depois, ele publicou 52 artigos que fizeram o mundo conhecer a vida na ilha. Morreu em Londres aos 41 anos, mas as espécies que nomeou — desde a águia-bicicleta na capa do dinheiro até a tartaruga mais ameaçada do planeta — ainda sobrevivem nas florestas de Taiwan.'
+title: 'Swinhoe: Quando o diplomata se tornou naturalista'
+description: 'Diplomata e naturalista britânico, chegou a Formosa pela primeira vez aos 19 anos como intérprete. Em 1860, assumiu o cargo de primeiro vice-consul britânico em Formosa e, em 1865, foi promovido a cônsul. Durante seus quatro anos em Taiwan, publicou 52 artigos acadêmicos, registrando 227 espécies de aves, quase 40 espécies de mamíferos e 246 espécies de plantas, apresentando a biodiversidade da ilha ao mundo pela primeira vez. Foi aclamado por ornitólogos de sua época como "um dos exploradores naturalistas mais bem-sucedidos da história". Quatro mamíferos e quinze aves foram nomeados em sua homenagem, incluindo o cincla-de-ventre-azul e o tartaruga-de-casco-manchado; faleceu em Londres em 1877, aos apenas 41 anos.'
 date: 2026-04-12
 category: 'People'
 tags:
   [
-    'História Natural',
-    'Diplomata Britânico',
-    'Naturalista',
+    'Naturalismo',
+    'Cônsul britânico',
+    'História natural',
     'Aves',
-    'Espécies Endêmicas de Taiwan',
-    'Abertura das Portas e Comércio',
+    'Espécies endêmicas de Taiwan',
+    'Abertura de portos para o comércio',
     'Século XIX',
   ]
 subcategory: '歷史人物'
@@ -22,10 +22,10 @@ image: ''
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/史溫侯.md'
-sourceCommitSha: 'b1a5fea00'
+sourceCommitSha: '3f269cde5e'
 sourceContentHash: 'sha256:50b13c3a31e0a1c0'
 sourceBodyHash: 'sha256:e6b263814c7b1995'
-translatedAt: '2026-11-18T14:47:26.781363+00:00'
+translatedAt: '2026-11-27T01:20:51.185646+00:00'
 ---
 
 # Robert Swinhoe: Quando o Diplomata Tornou-se Naturalista

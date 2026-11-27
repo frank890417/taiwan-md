@@ -1,20 +1,20 @@
 ---
-title: 'A-Han: o rapaz de Hualien que sozinho representou uma rua inteira e foi xingado de volta pelos moradores da rua'
-description: 'O rapaz de Hualien Tseng Wen-han, formado em Animação pela Universidade Nacional das Artes de Taipé (TNUA), interpretou sozinho uma rua inteira de Taiwan com as personagens Nguyen Nguyet Kieu, Liao Li-fang e Liao Li-chu. Até que, no Festival dos Fantasmas de 2022, um anúncio foi retirado do ar — a esposa vietnamita que ele interpretava foi alvo de protestos de verdadeiras esposas vietnamitas.'
+title: 'Ahan: O rapaz de Hualien que interpretou uma rua inteira sozinho e acabou sendo criticado pelos moradores da própria rua'
+description: 'Graduado em Animação pela Universidade de Artes de Taipei, este rapaz de Hualien começou a gerir o canal "Ahan po vídeos" em 2015, interpretando sozinho todos os personagens de uma rua taiwanesa: a vidente Liao Li-fang, a nora vietnamita Nguyen Nguyet Kieu, a proprietária do imóvel Liao Li-zhu e a tia do buffet. Sua obra representativa, "Jiu Tian Xuan Nu", acumulou mais de 13 milhões de visualizações, e em 2022 ele apresentou a abertura da categoria de drama no Golden Bell Awards; no entanto, naquele mesmo ano, seu comercial de Festival dos Fantasmas foi removido após protestos da associação de descendentes vietnamitas devido ao papel de Nguyen Nguyet Kieu. Imitar uma rua e viver nela nunca foram a mesma coisa.'
 date: 2026-05-11
 category: 'People'
 tags:
   [
-    'A-Han',
-    'A-Han po vídeos',
+    'Ahan',
+    'Ahan po vídeos',
     'YouTuber',
-    'imitação',
+    'Imitação',
     'Nguyen Nguyet Kieu',
     'Liao Li-fang',
-    'novos residentes',
+    'Novos residentes',
     'Hualien',
-    'TNUA',
-    'Prémios Golden Bell',
+    'Universidade de Artes de Taipei',
+    'Golden Bell Awards',
   ]
 subcategory: 'Internet'
 author: 'Taiwan.md Contributors'
@@ -25,10 +25,10 @@ readingTime: 12
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/阿翰.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'a9322956ed'
 sourceContentHash: 'sha256:657a4770554a59cc'
 sourceBodyHash: 'sha256:7dbe663cdddeba6e'
-translatedAt: '2026-11-04T20:50:25.974470+00:00'
+translatedAt: '2026-11-27T02:02:39.620194+00:00'
 ---
 
 > **Resumo em 30 segundos:** Tseng Wen-han, nascido em Hualien em 1994, estudou no curso de artes da Escola Secundária Feminina de Hualien e graduou-se no departamento de animação da Universidade Nacional de Artes de Taipé. Em 2015, começou a gerir o canal de YouTube 「A-Han po vídeos」[^1]. Sozinho, ele interpreta Liao Li-fang, Nguyen Nguyet Kieu, Liao Li-chu, a tia do buffet — todos os personagens de uma típica rua taiwanesa. Sua obra representativa, 〈A tia adivinha: a Deusa dos Nove Céus espalha flores〉, acumulou mais de 13 milhões de visualizações[^2]. No entanto, em um comercial para o Festival de Zhongyuan em 2022, o personagem da esposa vietnamita que ele interpretava foi alvo de protestos de esposas vietnamitas reais, resultando na remoção do vídeo — um rapaz de Hualien que usou a imitação para sustentar uma rua taiwanesa, apenas para ser questionado pelas pessoas que vivem nela: "Por que este lugar não é meu?".

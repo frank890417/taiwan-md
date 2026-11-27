@@ -1,16 +1,10 @@
 ---
-title: 'Liao Chiung-chih: de "aprendiz vinculado ao teatro" a deixar um método de memória para o teatro Koa-á'
-description: 'Nascida em 1935 em Keelung, Liao Chiung-chih entrou aos 15 anos na Companhia Jin Shan Yue, percorrendo o teatro de interior, teatro de exterior, rádio e televisão; a obra de sua segunda metade de vida foi transformar uma arte que dependia da memória corporal em algo que estudantes pudessem aprender, roteiros pudessem ser lidos e imagens pudessem ser preservadas.'
+title: 'Liao Qiongzhi: De "criança que aprendia teatro amarrado" aos métodos para preservar a memória do Ópera Taiwanesa (Gezaixi)'
+description: 'Artista de Gezaixi, nascida em Keelung, foi enviada aos quinze anos para estudar na Escola de Música Jinshan. De uma criança dedicada ao aprendizado rigoroso, ela percorreu os palcos locais, nacionais, o rádio e a televisão, sendo chamada de a primeira grande intérprete de papéis femininos trágicos (Kudan) de Taiwan. Na segunda metade de sua vida, ela transformou os gêneros teatrais que memorizou através do corpo em melodias, movimentos, roteiros e materiais didáticos. Fundou o Grupo de Teatro Gezaixi de Transmissão e uma fundação cultural para registrar cerca de duzentas melodias importantes, permitindo que alunos aprendam, roteiros sejam lidos e imagens sejam preservadas, criando um método para deixar a memória do Gezaixi sem depender apenas da memória dos idosos.'
 date: 2026-08-17
-subcategory: '音樂與表演'
 category: 'People'
-tags:
-  [
-    'Liao Chiung-chih',
-    'teatro Koa-á',
-    'arte tradicional',
-    'patrimônio cultural',
-  ]
+tags: ['Liao Qiongzhi', 'Gezaixi', 'Artes Tradicionais', 'Patrimônio Cultural']
+subcategory: '音樂與表演'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-17
@@ -18,10 +12,10 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/廖瓊枝.md'
-sourceCommitSha: 'a15e6712c'
-sourceContentHash: 'sha256:bf5e1c54c68b6eaa'
+sourceCommitSha: '630afb2b66'
+sourceContentHash: 'sha256:f186f3081f703176'
 sourceBodyHash: 'sha256:169c56cb9e4f77d3'
-translatedAt: '2026-09-12T02:30:18+08:00'
+translatedAt: '2026-11-27T01:27:47.266252+00:00'
 ---
 
 > **Visão geral em 30 segundos:** Liao Chiung-chih nasceu em 1935 em Keelung, entrou aos 15 anos na Companhia Jin Shan Yue, indo de "aprendiz vinculado ao teatro" até cantar no teatro de interior, teatro de exterior, rádio e televisão. Sua obra mais importante não é necessariamente uma peça específica, mas ter desmontado o teatro Koa-á — que perdia seus palcos — em estilos de canto, movimentos corporais, roteiros e ensino, passando-os à nova geração para reutilização. O que ela deixou não foi a lenda de uma dan sofredora, mas um método para que a memória não precise ficar depositada apenas nos idosos.
@@ -106,34 +100,34 @@ Essa é a distância entre ela e a ideia de "arte tradicional só vive de fãs v
 
 Essas portas também mudaram a imaginação de classe da arte. O que se encenava em gramados e pátios de templos pôde entrar em escolas, teatros nacionais e palcos de demonstração no exterior. Mantém o canto e a fala em taiwanês e o sentimento popular, mas não precisa mais aceitar a sentença de "só vulgaridade". [^5][^8]
 
-## Depois de arquivado, o teatro segue andando
+## Após o fechamento da caixa, a peça continua
 
-O objeto mais digno de memória na segunda metade da vida de Liao Chiung-chih não é um troféu, mas uma pilha de roteiros que alunos abrem, trechos de canto que se pode ouvir de novo, e um conjunto de materiais didáticos apontando gestos e passos. Ela transformou o que só circulava no tablado em material passível de preservação, crítica e remontagem. [^2][^4]
+Mais do que um troféu, os objetos mais memoráveis da segunda metade da vida de Liao Chiung-chih são um conjunto de roteiros que seus alunos abrirão, um estilo de canto que pode ser ouvido repetidamente e um material didático que aponta para gestos e passos. Ela transformou aquilo que antes circulava apenas dentro dos palcos de teatro em materiais que podem ser preservados, criticados e reencenados. [^2][^4]
 
-A _Coletânea de Repertório Clássico de Teatro Koa-á de Liao Chiung-chih II_, concluída em 2024, reúne 7 obras adaptadas ou novas, com processo de dois anos de organização de manuscritos, entrevistas orais e revisão de taiwanês escrito. Esse trabalho não transformou a criação de Liao Chiung-chih num fim; ao contrário, passou os roteiros à próxima leva de atores, para que a Companhia Sin-chuan de 2025 siga estreando novas peças. [^7]
+A obra "Repertório Clássico de Ópera Gezaí de Liao Chiung-chih II", concluída em 2024, reúne sete obras adaptadas ou novas; o processo de produção incluiu dois anos de organização de manuscritos, entrevistas orais e revisão linguística em dialeto taiwanês. Este trabalho não transformou a criação de Liao Chiung-chih em um ponto final. Pelo contrário, ele entrega os roteiros à próxima geração de atores, permitindo que o Grupo de Transmissão de 2025 continue lançando novas peças. [^7]
 
-Portanto, a importância de Liao Chiung-chih não reside só em quantos espectadores fez chorar, nem em quantos títulos de patrimônio cultural recebeu. Ela nos mostra que, para uma arte sobreviver, basta reter três coisas ao mesmo tempo, não dizê-la imutável: os detalhes do corpo, os rastros da escrita, e o espaço onde alunos podem seguir reescrevendo.
+Portanto, a importância de Liao Chiung-chih não reside apenas no número de espectadores que ela fez chorar com seu canto, nem apenas nos títulos de patrimônio cultural que recebeu. Ela nos mostra que, para uma arte sobreviver, é necessário preservar três coisas simultaneamente, em vez de declará-la imutável: os detalhes do corpo, os vestígios do texto e o espaço para que os alunos possam continuar a reescrevê-la.
 
-Ela foi de "aprendiz vinculado ao teatro" a preservadora, ainda carregando a memória daquele mundo duro de trupe. Moveu, uma a uma, as coisas que só mestre e discípulo entendiam, para onde todos podem alcançar. O teatro Koa-á, assim, não precisa parar na voz de Liao Chiung-chih, mas ainda se ouve nela ensinando como abrir a boca.
+De "treinadora de crianças do teatro" a preservadora, ela ainda carrega as memórias daquele mundo árduo das companhias de teatro. Ela trouxe para um lugar acessível a todos aquilo que antes só era compreendido entre mestre e discípulo. Assim, a ópera Gezaí não precisa ficar restrita apenas à voz de Liao Chiung-chih, mas ainda permite ouvir como ela ensina as pessoas a cantar.
 
-Este final deixa uma pergunta: preservar partituras, roteiros e vídeos equivale a preservar o teatro Koa-á? Não necessariamente. Os dados permitem que vindouros reencontrem a melodia, mas não substituem a respiração do ensaio, a cumplicidade entre ator e músico, nem garantem alguém disposto a comprar ingresso e assistir a uma peça inteira. A apresentação do Ministério da Cultura por isso fala tanto do valor do repertório tradicional quanto do desenvolvimento de novas peças. O fim da preservação continua sendo o público. [^3][^6]
+Este desfecho também deixa uma questão: preservar partituras, roteiros e imagens equivale a preservar a ópera Gezaí? Não necessariamente. Os dados podem permitir que as gerações futuras reencontrem a melodia, mas não podem substituir a respiração durante os ensaios, a sintonia entre atores e músicos, nem garantir que alguém esteja disposto a comprar um ingresso e sentar-se para assistir à peça completa. Por isso, as apresentações do Ministério da Cultura abordam simultaneamente o valor do repertório tradicional e o desenvolvimento de novas peças. O destino final da preservação ainda é o público. [^3][^6]
 
-O trabalho de Liao Chiung-chih não resolveu todos os problemas do teatro Koa-á, mas deu uma resposta viável: primeiro guardar o que o corpo sabe, depois dar ao aluno a chance de encenar errado, encenar vivo, encenar sua própria versão. A continuidade do gênero apoia-se em fazer o hoje ainda ter um encontro concreto com o passado, não em replicar um passado intocado.
+O trabalho de Liao Chiung-chih não resolveu todos os problemas da ópera Gezaí, mas ofereceu uma resposta viável: primeiro, preservar o que o corpo sabe; depois, dar aos alunos a oportunidade de interpretar errado, interpretar com vida e interpretar em suas próprias versões. A continuidade de um gênero artístico depende de permitir que o presente tenha um encontro concreto com o passado, em vez de apenas copiar um passado intacto.
 
-[^1]: [Liao Chiung-chih](https://musiciantw.ncfta.gov.tw/people?uid=2&pid=79) — Página de detalhes da pessoa no Banco de Dados de Retratos Musicais de Taiwan do Centro Nacional de Artes Tradicionais, reunindo vida, trupes e identidade de preservadora de patrimônio cultural de Liao Chiung-chih.
+[^1]: [Liao Chiung-chih](https://musiciantw.ncfta.gov.tw/people?uid=2&pid=79) — Página de detalhes da personalidade no Banco de Dados de Figuras Musicaológicas de Taiwan do Centro Nacional de Artes Tradicionais, organizando a biografia, o grupo teatral e o status de preservadora de patrimônio cultural de Liao Chiung-chih.
 
-[^2]: [Liao Chiung-chih - Teatro](https://www.ncafroc.org.tw/artsaward/winnerDetail@1221) — Página de detalhes do premiado da Fundação Nacional de Cultura e Artes, contendo relato e cronologia de Liao Chiung-chih sobre aprendizado, ensino, organização de roteiros e trabalho de transmissão.
+[^2]: [Liao Chiung-chih (Categoria Teatral)](https://www.ncafroc.org.tw/artsaward/winnerDetail@1221) — Página de detalhes dos premiados da Fundação Nacional para as Artes e a Cultura, contendo o relato pessoal e a cronologia de Liao Chiung-chih sobre o aprendizado de estilos, ensino, organização de roteiros e trabalho de transmissão.
 
-[^3]: [Opera Artist | Liao Chiung-chih](https://www.moc.gov.tw/en/News_Content2.aspx?n=480&s=17446) — Artigo de figura do Ministério da Cultura, explicando o treinamento inicial de Liao Chiung-chih, o auge do teatro Koa-á, o impacto de rádio e TV e sua visão de preservação.
+[^3]: [Opera Artist | Liao Chiung-chih](https://www.moc.gov.tw/en/News_Content2.aspx?n=480&s=17446) — Artigo biográfico do Ministério da Cultura, explicando o treinamento precoce de Liao Chiung-chih, a era de ouro da ópera Gezaí, o impacto da rádio e televisão e suas perspectivas de preservação.
 
-[^4]: [Projeto de Preservação de Registros do Teatro Koa-á do Mestre de Arte Étnica Liao Chiung-chih](https://collections.ncfta.gov.tw/pages/list/proj_items.aspx?id=12199914) — Página de detalhes do projeto de acervo do Centro Nacional de Artes Tradicionais, listando sua experiência em trupe, rádio, TV, repertório clássico, melodias e resultados de preservação audiovisual.
+[^4]: [Plano de Registro e Preservação da Artista de Arte Nacional Liao Chiung-chih (Ópera Gezaí)](https://collections.ncfta.gov.tw/pages/list/proj_items.aspx?id=12199914) — Página de detalhes do projeto de acervo do Centro Nacional de Artes Tradicionais, listando sua experiência em companhias de teatro, rádio, televisão e os resultados de preservação de repertórios clássicos, melodias e áudio/vídeo.
 
-[^5]: [_Dong Shui Mu Dan_ Toca o Coração: A Vida de Liao Chiung-chih Forja sua Vida Artística](https://magazine.ncfta.gov.tw/News_Content2.aspx?n=1932&s=82249) — Artigo da revista _Transmissão das Artes_ do Centro Nacional de Artes Tradicionais, a partir de _Dong Shui Mu Dan_ e da encenação de transmissão, explicando a atuação de dan sofredora de Liao Chiung-chih e o palco compartilhado com alunos.
+[^5]: ["Peônia na Água Gelada" toca o coração: a trajetória de vida de Liao Chiung-chih moldou sua vida artística](https://magazine.ncfta.gov.tw/News_Content2.aspx?n=1932&s=82249) — Artigo da revista "Chuan Yi" do Centro Nacional de Artes Tradicionais, explicando a performance de 'Kudan' (personagem trágico) e as apresentações conjuntas entre mestre e discípulo através de "Peônia na Água Gelada" e performances de transmissão.
 
-[^6]: [Prêmio Especial do Golden Melody Awards de Artes Tradicionais: Ensinar o Que Se Pensa, Pesquisar o Que Se Ensina — Liao Chiung-chih](https://magazine.ncfta.gov.tw/News_Content2.aspx?n=3135&s=103465&psn=103470) — Artigo de figura da revista _Transmissão das Artes_ do Centro Nacional de Artes Tradicionais, registrando seu percurso do teatro de interior, teatro de exterior, rádio ao ensino, organização de roteiros e companhia de transmissão.
+[^6]: [Prêmio Especial do Chuan Yi Golden Melody Awards: Onde ensinar, onde pensar, onde pesquisar — Liao Chiung-chih](https://magazine.ncfta.gov.tw/News_Content2.aspx?n=3135&s=103465&psn=103470) — Artigo biográfico da revista "Chuan Yi" do Centro Nacional de Artes Tradicionais, registrando sua trajetória desde os palcos internos e externos até a rádio, o ensino, a organização de roteiros e o grupo de transmissão.
 
-[^7]: [Coletânea de Roteiros de Liao Chiung-chih Testemunha Transmissão do Teatro Koa-á; Antecipa Grande Espetáculo Principal de 2025](https://www.cna.com.tw/news/acul/202412260241.aspx) — Artigo da Agência Central de Notícias, noticiando dois anos de organização da coletânea, sete obras incluídas, e o detalhe de Liao Chiung-chih aprender a organizar textos para a transmissão.
+[^7]: [Coleção de Roteiros de Liao Chiung-chih testemunha a sucessão da ópera Gezaí; antecipa grande espetáculo de 2025](https://www.cna.com.tw/news/acul/202412260241.aspx) — Artigo da CNA (Central News Agency), reportando a organização de dois anos da coleção de roteiros com sete obras, e os detalhes do aprendizado de Liao Chiung-chih na organização de textos para fins de sucessão.
 
-[^8]: [Companhia de Teatro Koa-á Sin-chuan: 2018 Homenagem ao Mestre — Série "Sentimentos da Terra das Peônias" _Concerto Brilhante de Peônias_](https://museums.moc.gov.tw/MocEntrance/Detail?activityId=d22e9361-d327-4e32-b47f-a2c74842dbd0) — Página de detalhes da atividade "Ilha dos Museus" do Ministério da Cultura, reunindo o percurso artístico de Liao Chiung-chih atravessando teatro de interior, teatro de exterior, rádio, TV e palco, e seu projeto de preservação.
+[^8]: [Grupo de Ópera Gezaí Xinchuan: 2018 Homenagem ao Mestre — Série de Atividades "Sentimento da Vila de Peônia": Concerto Musical Peônia Brilhante](https://museums.moc.gov.tw/MocEntrance/Detail?activityId=d22e9361-d327-4e32-b47f-a2c74842dbd0) — Página de detalhes do evento "Ilha do Museu" do Ministério da Cultura, organizando a trajetória artística de Liao Chiung-chih através de palcos internos, externos, rádio, televisão e palco, bem como seus planos de preservação.
 
-[^9]: [A Primeira Dan Sofredora de Taiwan Liao Chiung-chih como Narradora no Palco: Encenação Clássica de _Li Mao Huan Tai Zi_](https://www.moc.gov.tw/News_Content.aspx?n=105&s=49295) — Artigo do Ministério da Cultura, registrando o caso de Liao Chiung-chih organizar a memória cênica do teatro de interior, atuar como narradora e ter alunos de transmissão no elenco.
+[^9]: [Liao Chiung-chih, a primeira grande 'Kudan' de Taiwan: Narração de Palco e interpretação clássica da ópera Gezaí "O Gato de Bengala troca o Príncipe"](https://www.moc.gov.tw/News_Content.aspx?n=105&s=49295) — Artigo do Ministério da Cultura, registrando os casos de performance onde Liao Chiung-chih organiza memórias teatrais internas, atua como narradora e envolve alunos em aprendizagem nas apresentações.

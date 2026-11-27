@@ -1,107 +1,143 @@
 ---
 title: 'Shen Sheng-po'
-description: 'Especializado em ciência da computação, mas trouxe as linguagens de programação para o cenário artístico contemporâneo de Taiwan. A vida de Shen Sheng-po, que viveu apenas 34 anos, deixou não apenas obras de arte digital, mas também uma experiência de experimentação que vê o código como parte da vida e o software livre como ética criativa.'
+description: 'Artista digital e engenheiro de arte taiwanês, nascido em 1980 em Changhua, formou-se em ciência da computação mas voltou-se para a arte tecnológica, defendendo que "o programa é a vida", considerando regras digitais e lógica algorítmica como núcleo da criação. Promoveu FLOSS+ART, ministrou cursos de Processing, criou fórum de ensino e foi membro do OpenLab.Taipei; em 2011 fundou o Espaço Youwei em Taichung, dando lugar à experimentação. Após diagnóstico de cancro colorretal em 2009, continuou a criar até falecer em 2014, aos 34 anos; obras como "pin shadow" e "texture" seguem a ser restauradas e reexibidas.'
 date: 2026-03-23
 category: 'People'
-subcategory: '藝術與設計'
 tags:
   [
-    'Pessoa',
-    'Arte Digital',
-    'Arte de Nova Mídia',
+    'personalidades',
+    'arte digital',
+    'nova mídia',
     'FLOSS+ART',
     'OpenLab.Taipei',
     'Taiwan',
   ]
+subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
 readingTime: 8
+featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
-featured: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/沈聖博.md'
-sourceCommitSha: '22286539'
+sourceCommitSha: '3f269cde5e'
 sourceContentHash: 'sha256:36208e14ce1c380c'
 sourceBodyHash: 'sha256:5eb269f5e4d722c4'
-translatedAt: '2026-07-24T23:02:19+08:00'
+translatedAt: '2026-11-27T07:30:39+08:00'
 ---
 
 # Shen Sheng-po
 
 ## Visão geral em 30 segundos
 
-Shen Sheng-po (1980–2014) foi artista digital, engenheiro de arte e membro do OpenLab.Taipei, além de um dos fundadores do espaço 有為 (You Wei). Originalmente formado em ciência da computação, ele se voltou para a arte tecnológica, explorando a relação entre regras digitais, lógica algorítmica e vida cotidiana. Sua relevância não reside apenas em suas obras, mas também em sua difusão precoce da ideia de que "software livre pode ser uma ferramenta artística" em Taiwan, influenciando criadores de _creative coding_ por meio de workshops, ensino e gestão de espaços.
+Shen Sheng-po (1980–2014) foi artista digital, engenheiro de arte, membro do OpenLab.Taipei e um dos fundadores do Espaço Youwei. Formou-se originalmente em ciência da computação, depois migrou para a arte tecnológica, criando obras que exploram a relação entre regras digitais, lógica algorítmica e vida quotidiana. A sua importância não reside apenas nas obras em si, mas no facto de ter sido dos primeiros a afirmar, em Taiwan, que "software livre também pode ser ferramenta de arte", tornando isso claro na teoria e concreto na prática, influenciando uma geração de criadores de _creative coding_ através de workshops, ensino e gestão de espaço.
 
-Nascido em Changhua em 1980, Shen Sheng-po não seguiu a formação artística tradicional. Estudou ciência da informação na Universidade Nacional de Ciência e Tecnologia da Taiwan (NTUST), onde se especializou em sistemas distribuídos. Só em 2006–2007 estudou em Créative Technology na Universidade de Surford (Reino Unido) após obter formação em engenharia. Essa trajetória é característica de Taiwan: primeiro treinamento técnico, depois transformação dessas habilidades em linguagem criativa.
+Nascido em 1980 em Changhua, Shen Sheng-po não é um artista formado pelo sistema das belas-artes. Licenciou-se e fez mestrado em Ciência da Informação na Universidade Nacional Chiao Tung, na área de sistemas distribuídos; só entre 2006 e 2007 foi ao Reino Unido cursar programas ligados à arte tecnológica. Esse percurso tem muito de Taiwan: primeiro a formação técnico-científica, depois a conversão da capacidade técnica em linguagem criativa.
 
-Diferente de muitas obras de arte de nova mídia que usam tecnologia como mero material, para Shen Sheng-po o código não é apenas um recurso prático, mas um método para refletir sobre o mundo. Ele não se interessava por técnicas impressionantes, mas por **como as regras do mundo digital revelam nossas formas de compreender a realidade**.
+Isso também faz com que as suas obras posteriores se diferenciem de muita "nova mídia que usa tecnologia como material". Para Shen Sheng-po, o programa não é um processador de efeitos conveniente, mas um método de pensar o mundo. O que o preocupa não é o virtuosismo técnico, mas **como as regras do mundo digital revelam, por sua vez, o nosso modo de compreender a realidade.**
 
 ## Da ciência da informação para a arte tecnológica
 
-Do ponto de vista do currículo, Shen Sheng-po representa a transição da engenharia para a arte. Formado em ciência da informação (bacharelado e mestrado) na NTUST, ele posteriormente estudou Creative Technology na Universidade de Surford. Após retornar a Taiwan, trabalhou em coletivos como o Micro Garden e dimension+, além de integrar o OpenLab.Taipei.
+Visto no currículo, Shen Sheng-po parece ter ido da engenharia para a arte. Concluiu licenciatura e mestrado em Ciência da Informação na Universidade Nacional Chiao Tung, depois estudou _Creative Technology_ na Universidade de Salford, no Reino Unido, e ao regressar trabalhou em equipas ligadas à arte tecnológica como Micro Paradise e dimension+, tornando-se membro do OpenLab.Taipei.
 
-Essa experiência ocorreu durante o momento em que a arte digital em Taiwan evoluía de apresentações técnicas e dispositivos interativos para uma comunidade mais madura de criação. Era uma época em que muitos escreviam código, mas não sabiam transformá-lo em arte; outros buscavam arte, mas faltavam referências locais para a criação com programação. Shen Sheng-po ocupou o espaço entre essas duas vertentes.
+Esta trajectória é importante porque coincide com o momento em que a arte digital em Taiwan começava a sair da técnica de exibição e das instalações interactivas para formar uma comunidade criativa mais madura. Era uma época em que muitos sabiam programar, mas não necessariamente como transformar código em arte; e muitos queriam fazer arte, mas faltavam referências locais de programação criativa. Shen Sheng-po posicionou-se exactamente entre esses dois lados.
 
 > **📝 Nota do curador**
-> Muitos profissionais importantes de arte digital em Taiwan possuem uma característica de "transição fora de laço": não foram treinados em história da arte para depois adotar a tecnologia como ferramenta, mas viveram primeiro no mundo técnico, desenvolvendo depois seu próprio discurso artístico. Shen Sheng-po é um dos representantes desse caminho.
+> Muitos dos principais trabalhadores de arte digital de Taiwan têm um certo sabor de "travessia de fronteiras nada óbvia": não foram formados primeiro pela história da arte para depois usar a tecnologia como ferramenta; viveram primeiro no mundo técnico e só depois desenvolveram a sua própria linguagem artística. Shen Sheng-po é uma das figuras representativas desse percurso.
 
-## "Código como vida": o legado conceitual
+## "O programa é a vida": o conceito que ele verdadeiramente deixou
 
-Para capturar a essência da obra de Shen Sheng-po, pode-se citar a direção mencionada em sua biografia e em bancos de dados de arte contemporânea de Taiwan: **ele discute as características dos domínios digitais e acredita que o código é vida**.
+Se se quiser resumir o núcleo criativo de Shen Sheng-po numa frase, é provavelmente a direcção apontada tanto pela Wikipédia como pela Base de Dados de Arte Contemporânea de Taiwan: **ele discute as características das regras do domínio digital e acredita que o programa é a vida.**
 
-Essa afirmação parece abstrata, mas é poderosa. Não se refere a "código é legal" ou "tecnologia deixa a arte mais legal", mas a transformar algoritmos, aleatoriedade, regras de sistemas e estruturas de dados em parte da experiência cotidiana. À medida que a vida humana é cada vez mais envolta por sistemas digitais, a arte não pode apenas usar a tecnologia para efeitos interativos impressionantes. Ela deve questionar: **como as regras são definidas? Quem decide a lógica da interação? Como os sistemas moldam nossas percepções?**
+À primeira vista a frase soa abstracta, mas tem força. Não significa "programar é divertido", nem "a tecnologia torna a arte mais fixe", mas sim tratar algoritmos, aleatoriedade, regras de sistemas, estruturas de dados como parte da experiência quotidiana. Quando a vida humana é cada vez mais envolvida por sistemas digitais, a arte, para compreender esta era, não pode limitar-se a usar a tecnologia para criar efeitos interactivos bonitos; deve voltar a perguntar: como as regras são escritas? Quem decide a lógica da interacção? Como os nossos sentimentos são moldados pelo sistema?
 
-Essa perspectiva mantém suas obras atualmente relevantes, mesmo décadas depois. Ao invés de explorar tendências estéticas, Shen Sheng-po investigou as estruturas fundamentais da vida digital.
+Esta perspectiva faz com que as obras de Shen Sheng-po, vistas a mais de dez anos de distância, continuem actuais. Porque o que ele toca não é se a instalação está na moda, mas o sentido estrutural mais profundo da vida digital.
 
-## Obras não são decoração, mas manifestação de regras
+## A obra não é decoração, é a revelação da regra
 
-De acordo com dados públicos, Shen Sheng-po expôs ativamente entre 2008 e 2013. Suas obras incluem _The Tree That Was_, _Where Are You?_, _texture_, _meta-_, _pin shadow_, além de participações em eventos como a Feira de Arte Digital de Taipei e a _Digital Art Vessel_ do Museu Nacional de Artes de Taiwan.
+Segundo registos públicos, Shen Sheng-po expôs continuamente entre 2008 e 2013, com obras como "Houve uma vez uma árvore", "Onde estás?", "texture", "meta-", "pin shadow", entre outras, tendo participado no Festival de Arte Digital de Taipei, na Arca de Arte Digital do Museu Nacional de Belas-Artes de Taiwan, etc.
 
-Os títulos dessas obras revelam uma característica: eles não buscam narrativas ou simbolismos diretos, mas capturam estados, regras em operação ou relações sutis entre percepção e sistema. Isso difere da arte tradicional, que prioriza contação de histórias. Shen Sheng-po atuou como tradutor de "sabor algorítmico" em experiências perceptivas.
+Os próprios títulos já revelam uma característica: não costumam contar uma história completa, mas captar um certo estado, uma certa regra em operação, uma certa relação subtil entre percepção e sistema. Isso difere muito da arte tradicional guiada por narrativa ou simbolismo. Shen Sheng-po assemelha-se mais a quem "traduz o cheiro do algoritmo em experiência sensível".
 
-Por exemplo, _The Tree That Was_ não recria a natureza, mas questiona: **o que resta quando vida, memória e mídia digital se encontram?** Já _Where Are You?_ aborda temas de localização, existência e ausência na era digital. Ele não usava tecnologia para escapar da realidade, mas para entender como ela molda a percepção humana. Em obras mais maduras como _pin shadow_ e _texture_, a influência de sua abordagem é clara. O crítico de arte tecnológica Qiu Zhiyong observou que suas obras discutem tanto as regras dos domínios digitais quanto a preservação de uma "temperatura tecnológica" na lógica racional. Essas peças não são apenas instalações visuais, mas criam novas sensações de tempo e espaço, oferecendo uma experiência perceptual que é lógica, mas não literalmente real.
+Por exemplo, um título como "Houve uma vez uma árvore" não faz recriação naturalista, mas pergunta: quando vida, memória e meio digital se encontram, o que permanece? Já "Onde estás?" remete para questões da era da rede sobre localização, existência, resposta e ausência.
 
-## Software livre: não apenas uma escolha técnica, mas ética criativa
+Ele não trata a tecnologia como performance futurista, mas como um ambiente que altera a forma como as pessoas percebem o mundo. Isso é especialmente evidente nas obras mais maduras "pin shadow" e "texture". O crítico de arte tecnológica Chiu Chih-yung aponta que as obras de Shen Sheng-po, por um lado, discutem as características das regras do domínio digital, e por outro, na fria lógica tecnológica, conservam uma "temperatura tecnológica" sensível; "pin shadow" e "texture" não são apenas instalações de imagem bonitas, mas constroem, entre o virtual e o real, novo sentido de tempo e espaço, fazendo o espectador sentir uma experiência perceptiva que é simultaneamente lógica e não totalmente real.
 
-Shen Sheng-po é lembrado em Taiwan.md por sua difusão precoce de **FLOSS+ART** — a interseção entre software livre e criação artística. Essa prática transcende uma posição técnica, revelando uma ética: **os criadores devem compreender as ferramentas que utilizam? Devem manter essas ferramentas modificáveis, compartilháveis e extensíveis?** Se a arte depende cada vez mais de plataformas fechadas, **a arte está sendo criada ou alugada de um sistema que define as próprias percepções?**
+## Software livre não é só escolha de ferramenta, é uma ética criativa
 
-Hoje, termos como _Processing_, _openFrameworks_ e _p5.js_ são comuns, mas no final dos anos 2000 e início dos 2010, poucos incentivavam essa integração. Shen Sheng-po foi pioneiro em promover a arte digital e o software livre. Segundo o banco de dados de arte contemporânea de Taiwan, ele realizou workshops, cursos universitários e, entre outras atividades, **ministrou um curso avançado de Processing**, criou o **fórum Play+Processing** e apresentou em **COSCUP 2010** com o tema "Open Source & Digital Art Processing", introduzindo _Processing_ como ferramenta acessível para designers, arquitetos e artistas sem formação técnica profunda.
+O que torna Shen Sheng-po especialmente digno de figurar no Taiwan.md é que ele não só criou obras, como desde cedo promoveu em Taiwan o **FLOSS+ART** — a união de _Free/Libre Open Source Software_ com criação artística.
 
-Sua influência não se limita às galerias. Ele ajudou a popularizar a crença de que **programação não é apenas para engenheiros, mas também uma linguagem artística**. Isso reflete seu perfil no GitHub, onde além de obras, repositórios como _processing_snips_, _processing_quiz_, _ProjectionMapping_exercises_, _cascadePlayer_ e _helloFace_ evidenciam um foco em ensino e compartilhamento. Esses projetos são notas abertas: **não travam a tecnologia em fluxos de trabalho pessoais, mas desmontam métodos criativos para que outros possam aprender, modificar e expandir**.
+Isso parece uma posição técnica, mas é sobretudo uma ética criativa. Porque a questão de fundo é: o criador deve ou não compreender as ferramentas que usa? Deve ou não manter as ferramentas modificáveis, partilháveis, extensíveis? Se a criação artística depender cada vez mais de plataformas fechadas, o artista está a criar ou apenas a alugar um sistema sensorial definido por outrem?
 
-## 有為 (You Wei): um espaço para experimentos
+Hoje _creative coding_, Processing, openFrameworks, p5.js são nomes familiares para muitos, mas no final dos anos 2000 e início dos 2010 poucos eram os que promoviam a arte digital e o software livre dessa forma. Shen Sheng-po foi dos que abriram esse caminho bem cedo.
 
-Em 2011, Shen Sheng-po fundou o espaço 有為 em Taichung. Essa ação é crucial. Um criador que deixa apenas obras tem impacto pontual; ao criar um espaço para outros artistas expor, testar e colidir, seu legado se torna estrutural. O espaço não é apenas uma galeria, mas um **laboratório para experimentação artística**.
+Segundo a Base de Dados de Arte Contemporânea de Taiwan, além da criação, ele tem múltiplas experiências de workshops e ensino em cursos escolares. Concretamente, registos públicos mostram que ministrou **curso avançado de Processing**, criou o **Fórum Play+Processing** e palestrou no **COSCUP 2010** com o tema "Open Source & Digital Art Processing", apresentando o Processing como um conjunto de ferramentas que permite a designers, arquitectos e artistas, mesmo sem forte base de programação, iniciar a criação digital.
 
-Na Taiwan, regiões como Taichung enfrentam desigualdade cultural em relação a Taipei. Iniciativas como o You Wei representam uma prática cultural local: **criar infraestrutura para experimentação fora dos centros institucionais**. Junto com o OpenLab.Taipei, que simboliza comunidade e internet, o You Wei representa **concretização e continuidade**. Essa dupla fortaleceu sua influência além do individual, tornando-o uma infraestrutura comunitária.
+Isso mostra que a sua influência não se ficou pela sala de exposição, mas estendeu-se à transmissão de conhecimento. Ele ajudou um grupo de pessoas a começar a acreditar: **programar não é só coisa de engenheiro, pode ser linguagem de artista.**
 
-## Após a morte, suas obras se aprofundam
+Isso também se vê no seu rasto no GitHub. A conta `shengpo` não contém apenas código-fonte das obras, mas também repositórios como `processing_snips`, `processing_quiz`, `ProjectionMapping_exercises`, `cascadePlayer`, `helloFace`, de natureza claramente didáctica, de exemplos, de partilha de ferramentas. Esses projectos parecem cadernos abertos: não guardam a técnica no fluxo de trabalho pessoal, mas abrem o método criativo para que outros possam aprender, modificar, continuar.
 
-Diagnosticado com câncer colorretal em 2009, Shen Sheng-po faleceu em 2014, aos 34 anos. Pós-morte, suas obras evoluíram de temas pessoais para explorar **regras da vida, mudanças e passagem do tempo**. Em _pin shadow_, por exemplo, ele usou código e lógica matemática para atribuir sombras virtuais a objetos, criando uma experiência que mistura realidade e simulação. **Ele não fugia da mortalidade com tecnologia, mas a confrontava com ela**.
+Em suma, o que ele deixou não é um portefólio pessoal fechado, mas um local de criação aberta que os vindouros podem assumir. Isso explica por que muitos, ao falar de Shen Sheng-po, recordam não apenas esta ou aquela obra, mas como ele fez mais gente sentir que, afinal, Processing, código aberto e arte digital podem ter uma ligação tão directa.
 
-Sua carreira, embora truncada, deixou uma figura distinta: **um criador que, mesmo jovem, definiu direções para a arte digital em Taiwan**. A exposição retrospectiva _The Third Round — Shen Sheng-po Memorial Exhibition_ o descreveu como "um artista que promoveu a integração entre software livre e arte criativa". Essa avaliação eleva seu papel de individual para **agente de mudança na cultura artística digital de Taiwan**.
+## Espaço Youwei: dar lugar à experimentação
 
-## O legado mais influente: democratizar a arte digital
+Em 2011, Shen Sheng-po fundou o Espaço Youwei em Taichung. Isso é crucial.
 
-Ao revisar seu trabalho, o aspecto mais marcante não é uma obra específica, mas sua **visão de que a arte digital pode ser acessível, compartilhável e educativa**. Essa filosofia permeou gerações de criadores em Taiwan, que, seja com _Processing_, _p5.js_ ou teoria de software livre, carregam sua influência.
+Porque um criador que só deixa obras tem influência pontual; mas quando cria um espaço onde outros artistas podem expor, testar, colidir, a influência passa de ponto a campo. Segundo registos públicos, o Espaço Youwei não é apenas local de exibição, mas base para artistas experimentarem e apresentarem.
 
-Shen Sheng-po não deixou um "fórmula de sucesso", mas uma **atitude**: entender ferramentas, questionar regras, ver código como parte da vida e compartilhar esse caminho. Essa ética permanece viva.
+Em Taiwan, o centro-sul enfrenta há muito a concentração de recursos culturais em Taipei. Um espaço como o Youwei representa uma prática cultural local importante: não esperar que grandes instituições distribuam recursos, mas construir localmente um ambiente respirável para experimentação.
+
+Se o OpenLab.Taipei representa comunidade e rede, o Espaço Youwei representa aterrissagem e continuidade. As duas coisas juntas fazem com que a influência de Shen Sheng-po não fique no artista individual, mas se torne infraestrutura comunitária.
+
+## Depois da doença, por que a obra foi mais para dentro
+
+Em 2009, Shen Sheng-po foi diagnosticado com cancro colorretal, vindo a falecer em 2014, com apenas 34 anos.
+
+Segundo reportagens sobre a exposição retrospectiva, após a doença não parou de criar; pelo contrário, o foco da obra deslocou-se gradualmente de conteúdos mais ligados a emoção e memória pessoais para a exploração das leis da vida, da mudança e do fluxo do tempo. Obras como "pin shadow" usam código e lógica matemática para dar a objectos sombras virtuais e mudanças orgânicas, tentando, no sistema virtual, compreender regras, dominar a mudança, encontrar uma saída para a experiência corporal que, na realidade, perdia progressivamente o sentido de controlo.
+
+Isso acrescenta uma camada comovente de tensão à obra de Shen Sheng-po: ele não usa a tecnologia para fugir da vida, mas no momento mais frágil da vida usa a tecnologia e a lógica matemática para se aproximar das questões mais fundamentais: "como o ser humano enfrenta a mudança, a perda de controlo e o tempo".
+
+Se se olha só a cronologia, parece uma vida artística interrompida cedo; mas se se olha o rasto que deixou, descobre-se que o seu peso não depende inteiramente do número de obras, mas de ter demonstrado um tipo de criador raro em Taiwan, mas cada vez mais importante.
+
+O Arquivo de Resultados de Subsídios do Conselho Nacional de Cultura, ao organizar a "Terceira Ronda — Exposição Memorial Shen Sheng-po", descreve-o directamente como "um artista que em Taiwan promove a criação com software de código aberto". Essa avaliação é importante porque eleva a posição de Shen Sheng-po de criador individual a alguém que teve papel de impulso no método e na cultura da arte digital em Taiwan. O que ele deixou não é apenas obras memorizadas, mas o facto de a restauração de obras, reexibições, workshops, documentação e ensino serem vistos pelos vindouros como dignos de continuidade.
+
+Juntando estas pistas, fica mais claro: Shen Sheng-po merece ser lembrado não só por ter morrido jovem, mas porque, numa vida curta, já levou uma cultura criativa ainda em germinação a um ponto suficientemente maduro para ser assumida por quem vem depois.
+
+Concretamente, ele demonstrou um tipo de criador raro em Taiwan, mas cada vez mais importante:
+
+- Sabe programar e sabe fazer arte
+- Sabe pensar sistemas e sabe lidar com percepção
+- Sabe fazer obras e está disposto a trazer gente para dentro
+- Não trata software livre como slogan, mas concretiza-o em ensino, comunidade e espaço
+
+Estas condições somadas fazem dele alguém que "ainda não teve tempo de se desdobrar por completo, mas já apontou claramente a direcção".
+
+## O que nele verdadeiramente inspira quem veio depois?
+
+Se hoje se olha para trás para Shen Sheng-po, o que mais vale a pena recordar talvez não seja uma única obra representativa, mas ele ter antecipado um caminho que em Taiwan se torna cada vez mais nítido: **a arte digital não precisa ser apenas exibição de alta tecnologia num museu; pode ser uma cultura criativa aberta, aprendível, partilhável.**
+
+Esse caminho depois se prolongou de formas diferentes em criadores de várias gerações. Uns fazem instalações interactivas, outros performance sonora, outros experiências visuais com Processing ou p5.js, outros levam o ensino de programação a workshops, salas de aula e comunidades. Esses vindouros não são necessariamente discípulos directos de Shen Sheng-po, mas o solo do _creative coding_ e do FLOSS+ART em Taiwan tem de facto uma parte que foi antes revolvida, virada, semeada por gente como ele.
+
+O que ele deixou não é uma fórmula de sucesso replicável, mas uma atitude: compreender a ferramenta, questionar a regra, tratar o programa como parte da vida, e estar disposto a partilhar esse caminho com outros.
+
+Esse espírito, até hoje, não envelheceu.
 
 ## Referências
 
-- [Shen Sheng-po | Taiwan Contemporary Art Archive](https://tcaaarchive.org/Artist/Detail/1334)
-- [Shen Sheng-po | Artemperor Art Knowledge Base](https://artemperor.tw/knowledge/2372)
+- [Shen Sheng-po (Wikipédia)](https://zh.wikipedia.org/zh-tw/%E6%B2%88%E8%81%96%E5%8D%9A)
+- [Shen Sheng-po | Base de Dados de Arte Contemporânea de Taiwan TCAA](https://tcaaarchive.org/Artist/Detail/1334)
+- [Shen Sheng-po | Rede de Arte Não-Piscina](https://artemperor.tw/knowledge/2372)
 - [OpenLab.Taipei](https://openlabtaipei.org/)
-- [Sleepy Audio Lecture Series: Advanced Processing Course](https://insomnia608.pixnet.net/blog/posts/7096944218)
-- [Play+Processing Forum](http://shengpo.github.io/playp5/)
+- [Palestra "Insónia" (seis) — Curso avançado de Processing](https://insomnia608.pixnet.net/blog/posts/7096944218)
+- [Fórum Play+Processing](http://shengpo.github.io/playp5/)
 - [COSCUP 2010 — Open Source & Digital Art Processing](https://coscup.org/2010/en/program/abstracts/)
-- [shengpo on GitHub](https://github.com/shengpo)
-- [Shen Sheng-po Memorial Exhibition: Code as New Life (Artemperor)](https://artemperor.tw/focus/1221)
-- [The Third Round — Shen Sheng-po Memorial Exhibition (NCAF Repository)](https://archive.ncafroc.org.tw/result?id=b9c7810cda4f41b9994aa2d81925be02)
-- [The Nobility in Technical Purity: Shen Sheng-po’s _pin shadow_ and _texture_](https://atatw.org/hta-archive/%E7%A7%91%E6%8A%80%E6%BA%AB%E5%BA%A6%E4%B8%AD%E7%9A%84%E9%AB%98%E5%B0%9A%E7%B4%94%E6%BD%94%EF%BC%9A%E6%B2%88%E8%81%96%E5%8D%9A%E7%9A%84%E3%80%8Apin-shadow%E3%80%8B%E8%88%87%E3%80%8Atexture%E3%80%8B/)
+- [shengpo no GitHub](https://github.com/shengpo)
+- [Exposição Memorial Shen Sheng-po: abrir nova vida com código (Rede de Arte Não-Piscina)](https://artemperor.tw/focus/1221)
+- [Terceira Ronda — Exposição Memorial Shen Sheng-po (Arquivo de Resultados de Subsídios do Conselho Nacional de Cultura)](https://archive.ncafroc.org.tw/result?id=b9c7810cda4f41b9994aa2d81925be02)
+- [A nobre pureza na temperatura tecnológica: "pin shadow" e "texture" de Shen Sheng-po](https://atatw.org/hta-archive/%E7%A7%91%E6%8A%80%E6%BA%AB%E5%BA%A6%E4%B8%AD%E7%9A%84%E9%AB%98%E5%B0%9A%E7%B4%94%E6%BD%94%EF%BC%9A%E6%B2%88%E8%81%96%E5%8D%9A%E7%9A%84%E3%80%8Apin-shadow%E3%80%8B%E8%88%87%E3%80%8Atexture%E3%80%8B/)
 
-## Tópicos relacionados
+## Temas relacionados
 
-- [Wu Zhiyu](/pt/people/che-yu-wu): Outra trajetória de programação para arte em Taiwan
-- [Tang Feng](/pt/people/audrey-tang): Como o pensamento tecnológico entra no campo público
+- [Wu Che-yu](/pt/people/che-yu-wu): outro percurso criativo taiwanês da programação para a arte
+- [Audrey Tang (唐鳳)](/pt/people/audrey-tang): como o pensamento tecnológico entra no domínio público

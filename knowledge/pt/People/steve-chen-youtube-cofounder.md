@@ -1,16 +1,16 @@
 ---
-title: 'Steve Chen'
-description: 'Ele saiu de Taiwan com oito anos, aos 27 anos construiu nos EUA um lugar onde todos podiam subir vídeos, vendeu-o 18 meses depois por 1,65 bilhão de dólares, depois cresceu um tumor no cérebro, e finalmente voltou com a esposa e as crianças.'
+title: 'Chen Shijun'
+description: 'Um dos empreendedores taiwaneses-americanos mais famosos do Vale do Silício, imigrou para os EUA aos oito anos, entrou na PayPal antes de se formar na universidade. Em 2005, fundou o YouTube numa garagem com dois ex-colegas, vendendo-o ao Google vinte meses depois por 1,65 bilhão de dólares. Após a aquisição, foi diagnosticado com aneurisma cerebral, passou por duas cirurgias de craniotomia e quinze convulsões; em 2019, voltou a Taiwan com a família e recebeu o primeiro Gold Card de Emprego de Taiwan, continuando desde então a levar startups taiwanesas ao palco mundial.'
 date: 2026-04-06
 category: 'People'
 tags:
   [
-    'Steve Chen',
+    'Chen Shijun',
     'YouTube',
     'Vale do Silício',
-    'empreendedorismo',
-    'cartão de trabalho',
-    'tumor cerebral',
+    'Startups',
+    'Gold Card de Emprego',
+    'Tumor cerebral',
   ]
 subcategory: '科技與創業'
 author: 'Taiwan.md Contributors'
@@ -21,10 +21,10 @@ readingTime: 8
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/陳士駿.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '630afb2b66'
 sourceContentHash: 'sha256:ba95870558368ba6'
 sourceBodyHash: 'sha256:10a502d58bab93f7'
-translatedAt: '2026-11-04T21:49:25.543866+00:00'
+translatedAt: '2026-11-27T01:55:45.310271+00:00'
 ---
 
 # Steve Chen
