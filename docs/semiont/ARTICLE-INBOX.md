@@ -193,6 +193,24 @@ BECOME_TAIWANMD.md Step 5 新增：
   - **敏感度**：高。事件每天在變，裁定前不動 zh
 - **Reference**: [reports/probe/2026-11-22.md §T1-C](../../reports/probe/2026-11-22.md) / [公視 一週大事](https://news.pts.org.tw/article/835800) / [公視 表態願回任](https://news.pts.org.tw/article/836217)
 
+### 清朝統治時期 EVOLVE — 「為後來的社會文化奠下基礎」，讀者問是透過什麼奠的
+
+- **Type**: `EVOLVE`
+- **Category**: History
+- **Path**: knowledge/History/清朝統治時期.md（含十二語譯本）
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-11-27 by twmd-maintainer-daily（源：讀者 lawrenceho306 於英文版回報，issue #2083）
+- **Angle-expires**: evergreen（不是時效題，但這句話同時活在十三個語言裡，愈晚修曝光愈久）
+- **Notes**:
+  - **讀者的問題站得住**：英文版那句 `providing the foundation for the formation of Taiwan's later society and culture` 是個沒有交代機制的概括。清治前中期行政極薄（渡臺禁令、班兵輪調、三年一小反五年一大亂），公共教育是書院與義學由仕紳與地方官各自辦，不是國家體系——所以「奠下基礎」要嘛講清楚是透過什麼，要嘛收斂語氣，不能當裸斷言放著
+  - **這不是翻譯問題**：zh 是 SSOT，英文那句是譯出來的，只改英文下次同步會被蓋掉，而且同一個 claim 還活在 zh 與另外十一語。修要從 zh 動，再讓 babel 帶下去
+  - **建議切角**：把「奠基」換成講得出名字的幾條傳承——土地制度與大租小租、宗族與村庄組織、分類械鬥留下的族群地理、廟宇網絡與信仰圈、羅漢腳的人口結構遺緒、漢人墾殖路線。寫得出機制就不必用概括詞
+  - **必驗事實**：書院與義學的數量與性質（官設／民設）回地方志與教育史專著，不用二手整理；渡臺禁令各階段起訖；大租小租制度的定義回土地史文獻；「三年一小反」是俗諺不是統計，引用時要標明
+  - **敏感度**：中。清治評價牽涉史觀，照 MANIFESTO §13 立體地愛走立體群像，不把清治寫成純粹的空白或純粹的奠基
+  - 修完要回頭 close issue #2083，並由真人對回報者發出回覆
+- **Reference**: [issue #2083](https://github.com/frank890417/taiwan-md/issues/2083)
+
 ### 台灣股市與資本市場 EVOLVE — 1990 那個年份回到了頭版
 
 - **Type**: `EVOLVE`

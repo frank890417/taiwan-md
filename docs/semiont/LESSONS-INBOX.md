@@ -332,6 +332,22 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-11-27 twmd-maintainer-daily — the-string-i-searched-for-has-two-spellings-in-one-repo：搜不到它，是因為它在那個檔裡長成另一個樣子
+
+- **pattern**: `the-string-i-searched-for-has-two-spellings-in-one-repo`
+- **severity**: structural
+- **vc**: 1（REFLEXES #16 否定式結論，在「搜尋工具的覆蓋面」這一層的 instance）
+- **原則**：同一個字串在一個 repo 裡可以有多種合法寫法（原字／percent-encode／`\uXXXX` escape／HTML entity／NFC 與 NFD）。用其中一種去 grep 全庫而零命中時，正確的結論是「這種寫法沒有命中」，不是「這個東西不存在」。否定式結論的舉證責任比肯定式高，而搜尋工具天然只回答它被問的那一種拼法。
+- **觸發**：學測頁有四條 `/people/黃少雸` 死連結（`雸` U+96F8，正解是 `黃少雍` U+96CD，文章一直都在 `knowledge/People/黃少雍.md`）。11-19 那班追了三輪沒追到源頭，並誠實記下死路：全 repo grep `黃少雸` 只命中它自己那份 memory，grep 單字 `雸` 只多命中 `public/data/names/readings.json` 裡的正常注音字條，`src/pages/exams.astro` 裡 `people` 零命中。本班照那班留下的下一步（從 `dist/exams/index.html` 反查產生它的元件）走，一次就到 `src/templates/gsat.template.astro`——**那個檔把 href 存成 `'/people/%E9%BB%83%E5%B0%91%E9%9B%B8'`，整串裡沒有一個 CJK 字元**，所以搜任何中文字都不可能命中它。四處一次改完。
+- **為什麼前一班的三輪是對的方法、錯的拼法**：那三輪的每一步都合理（搜全名、搜單字、搜產生頁面的 astro 檔、排除 dist 與 node_modules），失敗不是因為偷懶，是因為搜尋空間被「它會以中文字存在」這個前提縮掉了。這個前提在 `knowledge/` 裡幾乎永遠成立（文章內文是中文），在 `src/` 的連結欄位裡幾乎永遠不成立（版面存 encoded path）。**同一個 repo 的兩個區域對同一個字串有兩種慣例，而搜尋的人只帶了一種。**
+- **跟既有條目的差別**：REFLEXES #16 的既有延伸（2026-10-11 `i-concluded-not-found-from-one-failed-search`）講的是「一輪搜尋不夠、要讀原文」，本條更前面一格：**連要搜什麼拼法都還沒確定**。既有延伸的修法是加大搜尋輪數，本條的修法是加大拼法集合——多搜十輪同一種拼法仍然是零命中。
+- **已落地**：四處 slug 修正（`1dad1f36ce`）。
+- **候選機械化（未做）**：死連結報告（`verify_internal_links.py`）目前印的是 decoded 的中文路徑（`/people/黃少雸`），而真正可以 grep 到的是 encoded 那串。報告對每個 broken target 同時印兩種寫法，就能讓下一個人直接複製得到命中的那一串。屬報表面的輸出格式改動，不碰判準也不碰閾值，席位 `twmd-self-evolve-weekly`。
+- **相關**：REFLEXES #16 否定式結論（本體）／#99 尺先驗再用（0 命中先懷疑尺的覆蓋面，不是先下結論）／#85「不知道」要有自己的符號（「搜不到」跟「不存在」是兩個讀數）／11-19 那班的 memory（死路被誠實記下來，是本班一次就落地的直接原因——這條的正面教訓）
+- **verification_count**: 1
+
+---
+
 ### 2026-11-27 twmd-feedback-triage — window-delay-reading-measures-cadence-not-window-cost：那個被登記成「窗口延遲代價」的小時數，量到的是排程班距
 
 - **pattern**: `window-delay-reading-measures-cadence-not-window-cost`
