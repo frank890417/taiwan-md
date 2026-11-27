@@ -1,16 +1,16 @@
 ---
-title: 'Lai Ho: A "Mazu de Changhua" que vestia trajes locais e sua balança que nunca se curvou'
-description: 'Antes da véspera de Ano Novo de 1943, o renomado médico de Changhua, Lai Ho, queimava as dívidas de seus pacientes pobres. Conhecido como o "Pai da Nova Literatura de Taiwan", ele usou seu bisturi para salvar vidas e sua caneta para combater a injustiça sob a opressão colonial.'
+title: 'Lai He: O "Mazu de Changhua" vestido com trajes locais e sua balança irreconciliável'
+description: 'O pai da Nova Literatura de Taiwan, que salvava vidas com o bisturi e criticava injustiças com a caneta. Durante o período do domínio japonês, vestia-se com roupas tradicionais da ilha para apoiar as classes desfavorecidas, sendo reverenciado pelo povo de Changhua como o "Mazu de Changhua". Todos os anos, na véspera do Ano Novo Lunar, ele queimava as dívidas de pacientes pobres. Escreveu o primeiro poema moderno a partir do Incidente dos Trabalhadores de Cana de Erlin, utilizou "Uma Balança" para criticar a violência das leis coloniais e "Elegia do País do Sul" para lamentar o Incidente de Wushe. Testemunha de meio século de sofrimento colonial, suas obras permanecem como símbolos culturais da resistência de Taiwan contra a violência do poder.'
 date: 2026-04-28
 category: 'People'
 tags:
   [
-    'Lai Ho',
+    'Lai He',
     'Literatura de Taiwan',
     'Changhua',
-    'Período de Dominação Japonesa',
-    'História da Medicina',
-    'Movimentos Sociais',
+    'Período do domínio japonês',
+    'História da medicina',
+    'Movimentos sociais',
   ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
@@ -21,10 +21,10 @@ readingTime: 12
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/賴和.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '2556505034'
 sourceContentHash: 'sha256:3c703a9a3c1bb21e'
 sourceBodyHash: 'sha256:12da8a5e75f1d767'
-translatedAt: '2026-10-24T09:47:30+08:00'
+translatedAt: '2026-11-27T02:23:09.010333+00:00'
 ---
 
 > **Resumo em 30 segundos:** Lai Ho (1894-1943) foi o médico e escritor mais influente do período de dominação japonesa. Com uma mão, usava o bisturi para tratar os pobres, sendo venerado como a "Mazu de Changhua" e "He-zai Xian"; com a outra, empunhava a caneta para fundar a literatura vernácula de Taiwan e criticar as injustiças do governo colonial. Sua vida sintetiza a luta e a dignidade dos taiwaneses sob o domínio japonês; especialmente seu ato de bondade de queimar as notas promissórias de seus pacientes todos os anos na véspera de Ano Novo, e seus escritos produzidos na prisão, que permanecem como modelos do espírito humanista e da ética médica em Taiwan.

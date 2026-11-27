@@ -1,15 +1,15 @@
 ---
-title: 'Teng Yu-hsien: Hakka 1906, As Quatro Canções "Abril Espera Chuva" — Os Trinta e Nove Anos do Pai da Canção Popular Taiwanesa'
-description: 'Nasceu a 21 de julho de 1906 numa família hakka em Lung-t''an, T''ao-yüan, com o nome original Teng Ping-yen. Formou-se na Escola Normal, foi recrutado pela Columbia Records em 1933. Quatro obras-primas conhecidas como "As Quatro Canções ''Abril Espera Chuva''" (Quatro Estações Vermelhas / Tristeza na Noite de Lua / Anseio pela Brisa Primaveril / Flor na Noite Chuvosa) continuam a ser cantadas até hoje. Em 1939 foi lecionar na Escola Pública de Ch''iung-lin em Hsinchu, falecendo a 11 de junho de 1944 no Hospital de Chu-tung, aos 39 anos.'
+title: 'Deng Yuxian: Hakka 1906, Chuva de Abril — Os Trinta e Nove Anos do Pai das Canções Taiwanesas'
+description: "Compositor que estabeleceu as bases da música popular em dialeto taiwanês utilizando harmonias ocidentais. Nascido em uma família intelectual Hakka em Longtan, Taoyuan, seu nome de batismo era Deng Bingyan; após se formar na escola normal, atuou como professor de ensino fundamental. Em 1933, foi contratado pela Columbia Records como compositor exclusivo e, em menos de dois anos, compôs as quatro obras primas que representam o estilo 'Chuva de Abril': 'Sijihong', 'Yueye Chou', 'Wangchunfeng' e 'Yuye Hua'. Sob o controle da guerra, retornou para lecionar na Escola Primária de Qionglin, em Hsinchu. Faleceu no Hospital de Zhudong em 1944, aos 39 anos, mas suas quatro melodias continuam a ser regravadas e cantadas por gerações de artistas até hoje."
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Música',
-    'Canção Popular Taiwanesa',
-    'Compositor',
-    'Período Colonial Japonês',
-    "T'ao-yüan",
+    'música',
+    'canções em taiwanês',
+    'compositor',
+    'período colonial japonês',
+    'Taoyuan',
     'Hakka',
   ]
 subcategory: '音樂'
@@ -21,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/鄧雨賢.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '2556505034'
 sourceContentHash: 'sha256:03f4c1611aa95a6c'
 sourceBodyHash: 'sha256:0d86dfd69dceab10'
-translatedAt: '2026-11-04T22:10:35.990249+00:00'
+translatedAt: '2026-11-27T02:33:48.435145+00:00'
 ---
 
 # Teng Yu-hsien: Hakka 1906, As Quatro Canções "Abril Espera Chuva" — Os Trinta e Nove Anos do Pai da Canção Popular Taiwanesa

@@ -1,16 +1,16 @@
 ---
-title: 'Chung Li-ho: Meinong 1915, o Lavrador da Pena Tombado em Sangue'
-description: 'Nasceu a 15 de dezembro de 1915 numa família hakka de Meinong, Kaohsiung. Partiu para o Nordeste da China em 1938, regressou a Taiwan em 1946. Obras principais: "Fazenda Lishan" (romance), "O Homem da Terra Natal" (conto, escrito em 1959), "Marido e Mulher Pobres". Conhecido como "o lavrador da pena tombado em sangue", é frequentemente venerado como "pai da literatura nativista de Taiwan" (este título é controverso). Faleceu a 4 de agosto de 1960, vítima de hemoptise, aos 44 anos.'
+title: 'Chung Li-ho: Meinong 1915, o escritor que tombou em meio ao sangue'
+description: 'Escritor de literatura regionalista que utilizava a zona rural Hakka como cenário de suas obras. Nascido em uma família de agricultores Hakka em Meinong, Kaohsiung, viveu errante no nordeste da China por oito anos após partir em 1938, retornando a Taiwan em 1946. Seu romance "Fazenda Lishan" registra honestamente o dilema de sobrevivência dos camponeses sob uma perspectiva interna, enquanto seu conto "O Povo da Terra Natal" questiona o pertencimento espiritual. Embora seja frequentemente reverenciado como o "Pai da Literatura Regionalista de Taiwan", esse título é alvo de controvérsias. Mesmo sofrendo com tuberculose, persistiu na escrita; faleceu em 1960, aos 44 anos, enquanto revisava manuscritos e tossindo sangue, sendo conhecido como "o escritor que tombou em meio ao sangue".'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'literatura',
-    'literatura nativista',
-    'O Homem da Terra Natal',
+    'Literatura',
+    'Literatura Regionalista',
+    'O Povo da Terra Natal',
     'Fazenda Lishan',
     'Meinong',
-    'hakka',
+    'Hakka',
   ]
 subcategory: '文學'
 author: 'Taiwan.md'
@@ -21,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/鍾理和.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '2556505034'
 sourceContentHash: 'sha256:cddbfe1c856d1966'
 sourceBodyHash: 'sha256:59814996cd0ea2c6'
-translatedAt: '2026-11-05T05:17:28+08:00'
+translatedAt: '2026-11-27T02:41:33.173371+00:00'
 ---
 
 # Chung Li-ho: Meinong 1915, o Lavrador da Pena Tombado em Sangue

@@ -1,6 +1,6 @@
 ---
-title: 'Tong Tzu-hsien: do Instituto de Tecnologia de Taipé à Pegatron, maior parceira de fabricação da Apple'
-description: 'Nascido em 25 de junho de 1960, Tong Tzu-hsien formou-se em Eletrônica no Instituto de Tecnologia de Taipé (hoje Universidade Nacional de Tecnologia de Taipé), não na Engenharia Elétrica da NTU. Entrou na ASUS em 1988, liderou a cisão em 1º de janeiro de 2008 fundando a Pegatron, tornando-se fabricante da Apple, Sony e Nintendo. Investiu na Livraria Eslite em 2019. Em 2025, ainda defende a política energética de "coexistência nuclear-verde".'
+title: 'Tung-Jen (Tung) Yeh: De Taipei Tech para tornar a Pegatron a maior parceira de fabricação da Apple'
+description: 'Empreendedor do setor eletrônico de Taiwan, graduado em Eletrônica pela Taipei Tech, e não em Engenharia Elétrica pela NTU. Em 1988, juntou-se à ASUS; no Ano Novo de 2008, liderou a separação entre as divisões de marca e fabricação para fundar a Pegatron Corporation, tornando-se fornecedora de marcas como Apple, Sony e Nintendo. Em 2019, tornou-se acionista da Eslite Bookstore, acreditando que "uma sociedade precisa de livrarias assim como precisa de hospitais"; ele também é um dos empresários do setor tecnológico com as posições mais públicas sobre políticas energéticas, defendendo há muito tempo a "coexistência de energia nuclear e renovável".'
 date: 2026-03-19
 category: 'People'
 tags:
@@ -18,10 +18,10 @@ lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
 translatedFrom: 'People/童子賢.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '3f269cde5e'
 sourceContentHash: 'sha256:741173e056926b2c'
 sourceBodyHash: 'sha256:7f6ff2dde21c6686'
-translatedAt: '2026-07-26T10:36:36+08:00'
+translatedAt: '2026-11-27T02:12:38.198095+00:00'
 ---
 
 # Tong Tzu-hsien: do Instituto de Tecnologia de Taipé à Pegatron, maior parceira de fabricação da Apple

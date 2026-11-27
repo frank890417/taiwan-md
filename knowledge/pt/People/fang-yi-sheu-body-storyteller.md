@@ -1,15 +1,15 @@
 ---
-title: 'Hsu Fang-yi: de Yilan 1971, primeira bailarina da Companhia Martha Graham ao dançarino do visual principal do Golden Horse 2024'
-description: 'Nascida em 1971 em Yilan. Formada em Dança pela Universidade Nacional de Artes de Taipei, partiu para os EUA em 1995, ingressou na Martha Graham Dance Company, tornou-se primeira bailarina em 1999. Em 2007 regressou a Taiwan e fundou a LAFA (encerrada em 2010). Documentário "I Do What I Want" (2020). Em 2024 coreografou o visual principal do Festival Golden Horse. Em 2025 deu entrevista sobre envelhecimento do corpo.'
+title: 'Hsu Fang-yi: De Yilan em 1971, Primeira Bailarina da Companhia Graham à Dançarina do Visual Principal do Golden Horse 2024'
+description: "Dançarina de dança moderna taiwanesa, nascida em Yilan. Após se formar no Departamento de Dança da Universidade de Artes de Taipei, mudou-se para os Estados Unidos e ingressou na Martha Graham Dance Company em 1995 após passar em uma audição. Quatro anos depois, foi promovida a primeira bailarina, sendo uma das poucas taiwanesas a alcançar o posto de primeira bailarina em uma companhia internacional de elite de dança moderna. Em 2007, retornou a Taiwan para fundar a La Fang, promovendo a educação de dança e colaborações interdisciplinares. Em 2020, lançou o documentário 'My Heart, My Movement' e, em 2024, desenhou a coreografia do visual principal do Festival de Cinema Golden Horse. Recentemente, tem falado abertamente sobre o envelhecimento corporal e a transição de carreira de um dançarino."
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'arte e design',
-    'dança',
-    'artes performativas',
-    'dança moderna',
-    'Martha Graham Dance Company',
+    'Arte e Design',
+    'Dança',
+    'Artes Performáticas',
+    'Dança Moderna',
+    'Companhia Graham',
   ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md'
@@ -20,10 +20,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/許芳宜.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '630afb2b66'
 sourceContentHash: 'sha256:a31b5339a894147e'
 sourceBodyHash: 'sha256:e2e71f85bef4ed48'
-translatedAt: '2026-11-04T21:22:29.710898+00:00'
+translatedAt: '2026-11-27T02:35:29.564379+00:00'
 ---
 
 # Hsu Fang-yi: de Yilan 1971, primeira bailarina da Companhia Martha Graham ao dançarino do visual principal do Golden Horse 2024

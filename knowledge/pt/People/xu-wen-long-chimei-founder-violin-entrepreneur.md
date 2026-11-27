@@ -1,14 +1,14 @@
 ---
-title: 'Hsu Wen-lung: Tainan 1928, Chi Mei Corporation 1959 ao Fundador do Museu com a Maior Coleção de Violinos do Mundo'
-description: 'Nasceu em 25/2/1928 em Tainan, faleceu em 18/11/2023 (95 anos). Fundou a Chi Mei Corporation em 10/1959 (capital de 2 milhões). Adquiriu violinos sistematicamente a partir de 1990, totalizando 1.362 (maior coleção privada do mundo). O Chimei Museum abriu oficialmente em 1/1/2015 (Parque Metropolitano de Tainan). Apaixonado por violino, o Chimei Museum com entrada gratuita (política atual P0⚠️ verificar).'
+title: 'Xu Wenlong: Tainan 1928, Chimei Industrial 1959, fundador do museu com a maior coleção de violinos do mundo'
+description: 'Pai do acrílico de Taiwan, fundou a Chimei Industrial em 1959 com capital de NT$2 milhões, e aos 63 anos levou o plástico de engenharia ABS ao primeiro lugar mundial. Ele acreditava que a empresa é um meio para buscar a felicidade, implementando a semana de cinco dias já em 1984. A partir de 1990, começou a adquirir violinos antigos, acumulando 1.362 unidades, a maior coleção particular do mundo; em 2015, o Museu Chimei foi inaugurado no Parque Metropolitano de Tainan, permitindo que crianças de qualquer canto possam ver arte ocidental de alto nível. Uma vida de 95 anos, deixando um marco tanto nos negócios quanto na cultura.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Tecnologia e Empresas',
-    'Grupo Chi Mei',
-    'Empresário',
-    'Artes Musicais',
+    'Grupo Chimei',
+    'Empreendedor',
+    'Arte Musical',
     'Museu',
     'Promoção Cultural',
     'Tainan',
@@ -22,10 +22,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/許文龍.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'a9322956ed'
 sourceContentHash: 'sha256:720cd768af91d1c3'
 sourceBodyHash: 'sha256:7ec1f1d13ec2e4d4'
-translatedAt: '2026-11-04T23:49:34.782179+00:00'
+translatedAt: '2026-11-27T02:26:09.324861+00:00'
 ---
 
 # Hsu Wen-lung: Tainan 1928, Chi Mei Corporation 1959 ao Fundador do Museu com a Maior Coleção de Violinos do Mundo

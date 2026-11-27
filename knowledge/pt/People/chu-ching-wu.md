@@ -1,6 +1,6 @@
 ---
-title: 'Paul Chu: 1987 quebra da temperatura do nitrogênio líquido, co-descobridor do supercondutor de alta temperatura Tc=93K'
-description: 'Nasceu em 1941 em Hunan, físico taiwanês-americano. Em janeiro de 1987, juntamente com Wu Maokun, co-descobriu o YBCO (óxido de ítrio, bário e cobre) com Tc=93K, ultrapassando o limiar da temperatura do nitrogênio líquido, inaugurando a era dos supercondutores de alta temperatura. Foi reitor da Universidade de Ciência e Tecnologia de Hong Kong de 2001 a 2009. Em março de 2026, a PNAS publicou um novo avanço com Tc=151K, aos 85 anos ainda ativo na pesquisa.'
+title: 'Chu Kinh-wu: Co-descobridor da supercondutividade de alta temperatura (Tc=93K) que rompeu a barreira do nitrogênio líquido em 1987'
+description: 'Co-descobridor na área de supercondutividade de alta temperatura. Nascido em Hunan e criado em Taiwan, graduou-se em Física pela Universidade Nacional Sun Yat-sen e obteve seu doutorado nos Estados Unidos. Desde 1979, lidera uma equipe de pesquisa em supercondutividade na Universidade de Houston. Em janeiro de 1987, descobriu o óxido de ítrio, bário e cobre com temperatura crítica de 93K, rompendo pela primeira vez a barreira da temperatura do nitrogênio líquido e permitindo que a supercondutividade de alta temperatura passasse dos laboratórios de ponta para a viabilidade industrial. Foi reitor da Universidade de Ciência e Tecnologia de Hong Kong entre 2001 e 2009. Aos 85 anos, em 2026, publicou um novo avanço de Tc=151K no Proceedings of the National Academy of Sciences dos EUA, sem nunca abandonar a busca pela curva ascendente da temperatura.'
 date: 2026-03-19
 category: 'People'
 tags:
@@ -8,7 +8,7 @@ tags:
     'Ciência e Academia',
     'Físico',
     'Supercondutor',
-    'Universidade de Ciência e Tecnologia de Hong Kong',
+    'HKUST',
     'Universidade de Houston',
   ]
 subcategory: '科學與學術'
@@ -20,10 +20,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/朱經武.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'a9322956ed'
 sourceContentHash: 'sha256:79c87fb84a11dd9d'
 sourceBodyHash: 'sha256:619ef92c56c46024'
-translatedAt: '2026-11-04T22:01:58.857457+00:00'
+translatedAt: '2026-11-27T02:28:44.602012+00:00'
 ---
 
 # Paul Chu (朱經武): 1987, ruptura da barreira do nitrogênio líquido, co-descobridor da supercondutividade de alta temperatura Tc=93K

@@ -1,16 +1,16 @@
 ---
-title: 'Huang Chun-ming: Luodong 1935, de "Dias de Olhar o Mar" a "O Grande Boneco do Filho", o escritor dos pequenos personagens'
-description: 'Nasceu em 13 de fevereiro de 1935 em Luodong, Yilan. "Dias de Olhar o Mar" (1967), "O Grande Boneco do Filho" (1969), representam a preocupação central da literatura nativista de Taiwan com os pequenos personagens. Controvérsia da literatura nativista de 1977. Venceu o Prémio Literário Wu San-lien e o Prémio Literário Nacional. O segundo filho Huang Kuo-chun (escritor) suicidou-se a 20 de junho de 2003. Hou Hsiao-hsien adaptou a sua obra ao cinema em 1983. Ainda vivo em 2026.'
+title: "Huang Chun-ming: De Luodong 1935, de 'Dias de Ver o Mar' a 'O Grande Boneco do Filho', um cronista das pessoas comuns"
+description: "Escritor da literatura regionalista com raízes em Yilan, cujo núcleo criativo são as figuras marginalizadas da sociedade. Graduado na Faculdade de Normal de Taipei, atuou por muito tempo como professor de ensino fundamental, transformando o cotidiano rural em matéria-prima para seus romances. 'Dias de Ver o Mar' retrata mulheres à margem da sociedade sob uma perspectiva imparcial; 'O Grande Boneco do Filho' narra a história de um pai que se veste de palhaço para sustentar a família, obra levada às telas por Hou Hsiao-hsien em 1983. Em 1977, foi um dos autores centrais no debate sobre a literatura regionalista. Vencedor do Prêmio Literário Wu San-lien e do Prêmio Nacional de Artes, dedicou seus anos tardios ao Grupo de Teatro Infantil Huang Da-yu, mantendo seu olhar atento aos mais vulneráveis."
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Literatura',
-    'Literatura Nativista',
+    'Literatura Regionalista',
     'Yilan',
-    'Pequenos Personagens',
+    'Pessoas Comuns',
     'O Grande Boneco do Filho',
-    'Dias de Olhar o Mar',
+    'Dias de Ver o Mar',
   ]
 subcategory: '文學'
 author: 'Taiwan.md'
@@ -21,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/黃春明.md'
-sourceCommitSha: '22286539e'
-sourceContentHash: 'sha256:fa94afa39f837939'
-sourceBodyHash: 'sha256:59fc287ce8c0baeb'
-translatedAt: '2026-11-04T23:56:23.771854+00:00'
+sourceCommitSha: '2556505034'
+sourceContentHash: 'sha256:fb400d56624fcb69'
+sourceBodyHash: 'sha256:be81edf9c205405a'
+translatedAt: '2026-11-27T02:38:17.848120+00:00'
 ---
 
 # Huang Chun-ming: Luodong 1935, de "Dias de Olhar o Mar" a "O Grande Boneco do Filho", o escritor dos pequenos personagens
@@ -55,11 +55,11 @@ O problema central de "O Grande Boneco do Filho" está na dignidade e não apena
 
 A escrita de Huang Chun-ming sobre os pequenos personagens nunca é de lamentação piedosa, mas de falar rente à pessoa; esse "modo de falar" faz com que os seus romances continuem eficazes décadas depois.
 
-## A posição na controvérsia da literatura nativista de 1977
+## O seu papel no debate da literatura nativista de 1977
 
-Em 1977, eclodiu a "controvérsia da literatura nativista", com críticos a questionar a posição política da literatura nativista. Huang Chun-ming foi um dos escritores focados nessa controvérsia[^2]. Ele não cedeu nem recuou, continuando a insistir na direção criativa de atenção à vida das pessoas das camadas mais baixas.
+Em 1977, eclodiu o [debate da literatura nativista](/pt/history/nativist-literature-debate/), no qual críticos questionaram a posição política da literatura nativista. Huang Chun-ming foi um dos escritores centrais discutidos durante esse debate[^2]. Ele não cedeu nem recuou, mantendo firmemente sua direção criativa de focar na vida das classes populares.
 
-O impacto da controvérsia da literatura nativista em Huang Chun-ming residiu em que as suas obras foram forçadas a entrar num enquadramento político que ele nunca pretendeu entrar. Ele escrevia pequenos personagens porque essas pessoas existiam realmente e precisavam de ser vistas; a declaração política era um quadro interpretativo imposto por outros. Após a controvérsia, a sua posição não mudou: escolheu continuar a usar a literatura para fazer o que sempre fez — deixar que essas pessoas sejam vistas.
+O impacto do debate da literatura nativista sobre Huang Chun-ming residiu no fato de suas obras terem sido forçadas a entrar em uma moldura política que ele não pretendia adotar. Ele escrevia sobre pessoas comuns porque elas existiam de verdade e precisavam ser vistas; as declarações políticas eram apenas um quadro interpretativo imposto por terceiros. Após o debate, sua posição não mudou: ele escolheu continuar usando a literatura para fazer o que sempre fez — permitir que aquelas pessoas fossem vistas.
 
 ## Prémios literários
 

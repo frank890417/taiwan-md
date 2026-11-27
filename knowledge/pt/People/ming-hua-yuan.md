@@ -1,15 +1,15 @@
 ---
-title: 'Ming Hwa Yuan: Fundado em 1929 em Tainan, o Império da Ópera Taiwanesa da Família Chen ao Longo de Quatro Gerações'
-description: 'Fundado em 1929 por Chen Ming-chi em Tainan, transferido para Chaozhou, Pingtung em 1962. A segunda geração, Chen Sheng-fu, introduziu tecnologia teatral moderna, levando a ópera taiwanesa ao Teatro Nacional. A trupe possui oito subgrupos — Céu, Terra, Mistério, Amarelo, Sol, Lua, Estrela, Manhã — e em 2024 a quarta turnê de "Sanxi" celebrou o 95º aniversário.'
+title: 'Ming Hwa Yuan: fundado em 1929 em Tainan, o império de gezaixi da família Chen ao longo de quatro gerações'
+description: 'Uma trupe de gezaixi originária dos pátios de templos de Tainan, fundada em 1929 por Chen Ming-ji, mudou-se para Chaozhou, Pingtung, em 1962. A segunda geração, Chen Sheng-fu, adotou uma estratégia contrária ao impacto da televisão e do cinema, insistindo em apresentações ao vivo e introduzindo iluminação, maquinaria de palco, acrobacias aéreas e projeção em cortina d''água, criando o padrão de teatro para dez mil pessoas com a série "Ji Gong Huo Fo". Estreou no Memorial Nacional Dr. Sun Yat-sen em 1982 e entrou no Teatro Nacional em 1990. Seus oito subgrupos — Céu, Terra, Mistério, Amarelo, Sol, Lua, Estrela e Tempo — são geridos conjuntamente pelas quatro gerações da família. Em 2024, a quarta turnê de "San Xi" celebrou o 95º aniversário da fundação da trupe.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Arte e Design',
-    'Ópera Taiwanesa',
+    'Gezaixi',
     'Arte Tradicional',
     'Artes Cênicas',
-    'Quatro Gerações de Tradição',
+    'Herança de Quatro Gerações',
   ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md'
@@ -18,10 +18,10 @@ lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
 translatedFrom: 'People/明華園.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: 'a9322956ed'
 sourceContentHash: 'sha256:ebe4d277504f2738'
 sourceBodyHash: 'sha256:ad65be5d0003de06'
-translatedAt: '2026-07-26T10:36:36+08:00'
+translatedAt: '2026-11-27T02:32:03.022869+00:00'
 ---
 
 # Ming Hwa Yuan: Fundado em 1929 em Tainan, o Império da Ópera Taiwanesa da Família Chen ao Longo de Quatro Gerações
