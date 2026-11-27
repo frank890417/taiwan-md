@@ -1,16 +1,16 @@
 ---
-title: 'Li Ang: Lukang 1952, "The Butcher''s Wife" Abre Caminho para a Literatura Feminista de Taiwan'
-description: 'Nascida em 1952 em Lukang, Changhua, com o nome de batismo Shih Shu-tuan. Em 1983, "The Butcher''s Wife" foi serializado no United Daily News, abalando o meio literário taiwanês com o tema da violência doméstica. Em 1991, "The Lost Garden". Em 2004, recebeu a Ordem das Artes e das Letras da França no grau de Cavaleiro. Obras traduzidas para inglês, francês, alemão, japonês e outras línguas, tornando-a uma das escritoras taiwanesas mais proeminentes no cenário internacional.'
+title: 'Li Ang: Lukang 1952, a pioneira que abriu caminho para a literatura feminista de Taiwan com "Matar o Marido"'
+description: 'Escritora da literatura feminista de Taiwan, nascida em 1952 em Lukang, Changhua. Seu nome real é Shi Shu-tun e graduou-se no Departamento de Filosofia da Universidade Chinese Culture. Em 1983, a serialização de "Matar o Marido" no United Daily News chocou o mundo literário com sua temática sobre violência doméstica, sendo considerada o precursor da literatura feminista em Taiwan; em 1991, publicou "O Jardim de Delícias", explorando a pressão da cultura tradicional e a subjetividade feminina. Em 2004, recebeu a Ordem de Cavaleiro da Legião de Honra da França. Suas obras foram traduzidas para inglês, francês, alemão, japonês, entre outros idiomas, sendo uma das escritoras taiwanesas com maior reconhecimento internacional.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Literatura',
     'Literatura feminista',
-    "The Butcher's Wife",
-    'The Lost Garden',
+    'Matar o Marido',
+    'O Jardim de Delícias',
     'Lukang',
-    'Questões de género',
+    'Questões de gênero',
   ]
 subcategory: '文學'
 author: 'Taiwan.md'
@@ -21,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/李昂.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '3f269cde5e'
 sourceContentHash: 'sha256:047f29e16ec14ac9'
 sourceBodyHash: 'sha256:0a0f9bd1ab3db88b'
-translatedAt: '2026-11-04T20:13:47.293779+00:00'
+translatedAt: '2026-11-27T02:43:45.811688+00:00'
 ---
 
 # Li Ang: Lukang 1952, "The Butcher's Wife" Abre Caminho para a Literatura Feminista de Taiwan

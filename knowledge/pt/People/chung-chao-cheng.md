@@ -1,15 +1,15 @@
 ---
-title: 'Chung Chao-cheng: alguém que não concluiu a universidade, escreveu o longo rio do povo taiwanês'
-description: 'Nascido em 1925 em Longtan, Taoyuan, Chung Chao-cheng teve os estudos no Departamento de Chinês da Universidade de Taiwan interrompidos devido à educação em japonês e a problemas de saúde, mas passou de professor de escola primária a romancista, editor e ativista hakka. Com "A Flor de Rudbeckia" escreveu sobre o interior, e com duas trilogias preservou a memória histórica do povo taiwanês; a sua literatura não está apenas nas estantes, mas também num parque de vida literária em Longtan.'
+title: 'Chung Chao-cheng: um homem que não concluiu a universidade, escreveu a grande saga do povo taiwanês'
+description: 'Escritor nascido em Jiouzuoliao, Longtan, Taoyuan, educado em japonês durante o período colonial japonês, entrou no Departamento de Chinês da Universidade Nacional de Taiwan em 1948, mas abandonou os estudos no meio do caminho devido a barreiras linguísticas e problemas de saúde. De professor de escola primária tornou-se romancista, editor e ativista hakka. Ele escreveu "A Flor de Gelo Opaca", a "Trilogia da Corrente Turva" e a "Trilogia do Povo Taiwanês", colocando aldeias hakka, povos indígenas e o 228 no romance de grande rio. Também preservou as obras de escritores como Chung Li-ho e, com o "Boletim de Amigos Literários", conectou escritores excluídos pela publicação mainstream. Sua literatura não está apenas nas estantes, mas também permanece no parque de vida de Longtan.'
 date: 2026-08-18
 category: 'People'
 tags:
   [
     'Chung Chao-cheng',
-    'literatura de Taiwan',
-    'literatura hakka',
+    'Literatura taiwanesa',
+    'Literatura hakka',
     'Longtan',
-    'romance-rio',
+    'Romance de grande rio',
   ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
@@ -19,13 +19,13 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/鍾肇政.md'
-sourceCommitSha: '82038b29f'
-sourceContentHash: 'sha256:e30095af8a74328f'
+sourceCommitSha: 'e7e1bb5735'
+sourceContentHash: 'sha256:aa3ae97d0723ffdb'
 sourceBodyHash: 'sha256:9240eda59faf09e3'
-translatedAt: '2026-09-11T17:03:15+08:00'
+translatedAt: '2026-11-27T03:21:44.854570+00:00'
 ---
 
-> **Visão geral em 30 segundos:** Chung Chao-cheng não entrou no meio literário por uma estrada académica tranquila. Recebeu educação em japonês durante o período colonial e só depois da guerra reaprendeu chinês; ingressou no Departamento de Chinês da Universidade de Taiwan em 1948, mas abandonou o curso devido à barreira linguística e a problemas de saúde, mesmo assim escreveu "A Flor de Rudbeckia", a "Trilogia da Corrente Turva" e a "Trilogia do Povo Taiwanês", colocando vilas hakka, povos indígenas e a história moderna de Taiwan no romance de longa extensão.[^1] [^2] [^3]
+**Visão geral de 30 segundos:** Chung Chao-cheng não chegou ao meio literário por um percurso acadêmico convencional. Educado em japonês durante o período colonial, só reaprendeu chinês depois da guerra; ingressou no curso de Letras da Universidade Nacional de Taiwan em 1948, mas abandonou os estudos devido a dificuldades linguísticas e de saúde. Mesmo assim, veio a escrever 《魯冰花》、〈濁流三部曲〉 e 《臺灣人三部曲》, reunindo em romances de fôlego as aldeias hakka, os povos indígenas e a história moderna de Taiwan.[^1] [^2] [^3]
 
 ## Prefácio: primeiro pergunte quem pode deixar memória para Taiwan
 

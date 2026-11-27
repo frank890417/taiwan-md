@@ -1,17 +1,17 @@
 ---
-title: 'Yan Chang-shou: do office-boy da sala de correspondência a pai do turismo, e depois ele largou tudo'
-description: 'Ensino médio, aos 23 anos entregando correspondência na American Express. Cinco anos depois, gerente-geral. Mais cinco, presidente de hotel de luxo na Ásia, inventor do sistema "o hóspede ainda não desceu do carro e já chamamos pelo nome". 600 mil livros vendidos. Aos 62 anos, pediu demissão para fundar escola no interior de Taitung, no ano seguinte retirou um rim. Aos 78, construiu um parque de arte à beira do Pacífico.'
+title: 'Yen Chang-shou: do assistente do setor de correspondência ao padrinho do turismo, e depois ele abriu mão de tudo'
+description: 'De assistente do setor de correspondência da American Express a presidente do The Howard Plaza Hotel, ele, com apenas o ensino médio, inventou um sistema de serviço em que "os hóspedes são chamados pelo nome antes mesmo de saírem do carro", alcançando uma taxa de retorno de 65%, e escreveu o best-seller "O Coração de Leão do Presidente", com mais de 600 mil exemplares vendidos. Aos 62 anos, renunciou ao auge da indústria hoteleira e foi para Taitung, fundou a Fundação Cultural Plataforma de Beneficência, assumiu a Escola Junyi para promover a educação rural, e mesmo após a remoção de um rim, continuou a se dedicar à região de Hualien e Taitung; aos 78 anos, impulsionou a inauguração do Parque Artístico Jiang Xian-er na Costa Jinzun, em Taitung.'
 date: 2026-04-06
 category: 'People'
 tags:
   [
-    'Yan Chang-shou',
-    'The Regent',
-    'indústria do turismo',
-    'educação no interior',
+    'Yen Chang-shou',
+    'The Howard Plaza Hotel',
+    'turismo',
+    'educação rural',
     'plataforma de beneficência',
     'Escola Junyi',
-    'Parque de Arte Chiang Hsien-chi',
+    'Parque Artístico Jiang Xian-er',
   ]
 subcategory: '教育與社會'
 author: 'Taiwan.md Contributors'
@@ -20,15 +20,19 @@ featured: false
 lastVerified: 2026-04-06
 lastHumanReview: true
 sporeLinks:
-  [
-    "{'id': 8, 'platform': 'threads', 'date': '2026-04-06', 'url': 'https://www.threads.com/@taiwandotmd/post/DWyqKShE4a8'}",
-    "{'id': 9, 'platform': 'x', 'date': '2026-04-06', 'url': 'https://x.com/taiwandotmd/status/2041143084583469498'}",
-  ]
+  - id: 8
+    platform: 'threads'
+    date: '2026-04-06'
+    url: 'https://www.threads.com/@taiwandotmd/post/DWyqKShE4a8'
+  - id: 9
+    platform: 'x'
+    date: '2026-04-06'
+    url: 'https://x.com/taiwandotmd/status/2041143084583469498'
 translatedFrom: 'People/嚴長壽.md'
-sourceCommitSha: '9cef725ce'
+sourceCommitSha: '72ef874049'
 sourceContentHash: 'sha256:f03fe4356a8b034b'
 sourceBodyHash: 'sha256:0511dd3ec1c7896e'
-translatedAt: '2026-09-17T21:32:33.332987+00:00'
+translatedAt: '2026-11-27T03:38:45.162213+00:00'
 ---
 
 # Yan Chang-shou: do office-boy da sala de correspondência a pai do turismo, e depois ele largou tudo

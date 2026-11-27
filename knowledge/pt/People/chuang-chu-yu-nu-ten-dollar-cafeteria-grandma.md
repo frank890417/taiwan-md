@@ -1,15 +1,15 @@
 ---
-title: 'Chuang Chu Yu-nu: da mesa gratuita dos estivadores à marmita de dez dólares taiwaneses que custou sete imóveis'
-description: "Em 1951, Chuang Chu Yu-nu montou um fogão à beira do porto de Kaohsiung para oferecer refeições gratuitas a estivadores necessitados. Conhecida como a 'guardiã dos pobres', esta avó manteve, durante as cinco décadas seguintes, um bufê livre por apenas dez dólares taiwaneses, chegando a vender sete imóveis para cobrir os custos, transformando o 'fazer com que as pessoas comam até se fartar' na sua fé de uma vida."
+title: 'Zhuang Zhu Yunu: Da mesa gratuita para trabalhadores portuários à marmita de dez dólares que custou sete casas'
+description: 'A avó do buffet de dez dólares à beira do Porto de Kaohsiung começou, em 1951, a montar um fogão ao lado do seu armazém para oferecer refeições gratuitas aos trabalhadores portuários vindos de Penghu em busca de sustento. Mais tarde, devido aos custos, passou a cobrar dez dólares, mas continuou a oferecer peixe fresco, carne de porco estufada, vegetais e sopa quente à vontade todos os dias. Ela vendeu sete propriedades para sustentar este negócio deficitário. O seu quiosque foi transferido para junto da passarela do Parque Yancheng; quando faleceu aos 96 anos em 2015, mais de três mil pessoas compareceram ao seu funeral. A sua terra natal, a ilha de Jibei em Pengho, ergueu posteriormente uma estátua em sua homenagem e estabeleceu um parque memorial.'
 date: 2026-04-29
 category: 'People'
 tags:
   [
-    'filantropa',
+    'Filantropa',
     'Kaohsiung',
-    'marmita de dez dólares',
-    'Chuang Chu Yu-nu',
-    'bem-estar social',
+    'Marmita de dez dólares',
+    'Zhuang Zhu Yunu',
+    'Bem-estar social',
     'Penghu',
   ]
 subcategory: '社會與公益'
@@ -21,10 +21,10 @@ readingTime: 10
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/莊朱玉女.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '72ef874049'
 sourceContentHash: 'sha256:877ba646499c2433'
 sourceBodyHash: 'sha256:59833698754e5cb0'
-translatedAt: '2026-11-05T00:15:53.848724+00:00'
+translatedAt: '2026-11-27T04:11:13.697400+00:00'
 ---
 
 > **Resumo em 30 segundos:** Chuang Chu Yu-nu (1920-2015) foi uma filantropa famosa de Taiwan, que durante longos anos operou um "bufê de dez dólares taiwaneses" sob o viaduto do Parque em Kaohsiung. Inicialmente, ela oferecia refeições gratuitas para cuidar de compatriotas estivadores; mais tarde, devido aos custos elevados, passou a cobrar dez dólares, mas sempre insistiu no "coma à vontade" sem calcular o lucro. Ao longo da vida, vendeu sete imóveis para fazer o bem; seu funeral atraiu mais de três mil pessoas, e seu espírito permanece até hoje como símbolo do calor humano na sociedade taiwanesa.

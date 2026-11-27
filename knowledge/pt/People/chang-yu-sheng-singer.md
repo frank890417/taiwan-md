@@ -1,26 +1,29 @@
 ---
-title: 'Chang Yu-sheng: de ídolo a profeta, uma experiência musical que atravessa eras'
-description: "Em 1989, o filho do capitão da Tropa Pégaso estreou como ídolo com 'Todos os Dias Eu Penso em Você', vendendo 350 mil cópias; em 1994, ele respondeu ao mercado com 73 minutos de gravação ao vivo de banda, vendas desastrosas, mas chamado de profecia. Chang Yu-sheng moeu nove anos entre a identidade de ídolo e a consciência criativa; quatro dias após o lançamento de 'Dizer uma Coisa, Pensar Outra', ele capotou na madrugada em Tamsui e nunca mais acordou."
+title: 'Chang Yu-sheng: De ídolo a profeta, um experimento musical que atravessou eras'
+description: 'Cantor e produtor, filho do líder do grupo Tianma Yigong e de uma mulher da etnia Atayal. Após o afogamento de sua irmã mais nova, Chang Yu-hsien, aos 15 anos, ele entrou na indústria musical para realizar o sonho musical dela; em 1989, tornou-se um ídolo com o sucesso "Tian Tian Xiang Ni", vendendo 350 mil cópias. Em 1994, lançou o álbum de gravação ao vivo da banda de 73 minutos, "Karaoke Live • Taipei • Me", que teve vendas baixas, mas que ele mesmo chamou de um "clássico do fracasso". Suas produções para os álbuns "Sister" e "Bad Boy" elevaram A-Mei ao status de diva. Em 1997, apenas quatro dias após o lançamento de "Koushi Xinfei", faleceu em um acidente de carro em Tamsui, aos 31 anos. Em 2017, recebeu o prêmio de Contribuição Especial no Golden Melody Awards.'
 date: 2026-04-18
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '音樂與表演'
 tags:
-  - 'Chang Yu-sheng'
-  - 'música popular de Taiwan'
-  - 'cantor-compositor'
-  - 'KaraOK Live‧Taipé‧Eu'
-  - 'Beije-me, Nana'
-  - 'A-mei / Chang Hui-mei'
-readingTime: 14
+  [
+    'Chang Yu-sheng',
+    'Pop taiwanês',
+    'Cantor e compositor',
+    'Karaoke Live • Taipei • Me',
+    'Kiss Me Nana',
+    'A-Mei',
+  ]
+subcategory: '音樂與表演'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-19
 lastHumanReview: true
-featured: false
+researchReport: 'reports/research/2026-04/張雨生.md'
+readingTime: 14
 translatedFrom: 'People/張雨生.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'fc0798f30d'
 sourceContentHash: 'sha256:f4eb416f9486c9fa'
 sourceBodyHash: 'sha256:fa4f2d152a7b850d'
-translatedAt: '2026-07-25T12:45:42+08:00'
+translatedAt: '2026-11-27T03:56:48.813864+00:00'
 ---
 
 > **Visão geral em 30 segundos:** O pai de Chang Yu-sheng, Chang Chien-min, era capitão da Tropa Pégaso; a mãe era do povo Atayal. Ele nasceu em Penghu sob dias seguidos de chuva forte, daí o nome «Yu-sheng» (nascido na chuva). Em 1989, estreou com o primeiro álbum solo _Todos os Dias Eu Penso em Você_, vendendo 350 mil cópias; em 1994, respondeu à expectativa do mercado com um álbum experimental de 73 minutos, gravado ao vivo com a banda inteira, vendas desastrosas, que ele chamou de «clássico desastroso». Em 1997, ele próprio empurrou uma garota indígena que cantava em bares para o trono de diva. A 16 de outubro, _Dizer uma Coisa, Pensar Outra_ foi lançado — era a primeira vez que ele assinava letra, música, produção e interpretação sozinho; quatro dias depois, capotou na madrugada em Tamsui e nunca mais acordou.

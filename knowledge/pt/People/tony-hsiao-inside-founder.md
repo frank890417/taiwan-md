@@ -1,15 +1,16 @@
 ---
-title: "Tony Hsiao: de PM de jogos a fundador do INSIDE, o 'chefe de bairro' do círculo de internet de Taiwan"
-description: "Em 2009, seis pessoas da internet lançaram um blog colaborativo, e assim nasceu o INSIDE, a observação de tendências de internet 'empurrada goela abaixo'. Tony Hsiao (fOx) também cofundou o iCook, e as duas plataformas de internet mais conhecidas de Taiwan se tornaram suas obras — e ambas foram vendidas para a mesma empresa. Ele agora continua no papel de observador dizendo a Taiwan: não se preocupe demais com a tecnologia."
+title: "Hsiao Shang-nung: de gerente de produto de jogos a fundador do INSIDE, o 'chefe de bairro' da internet taiwanesa"
+description: "De gerente de produto de jogos na Songgang Technology a observador da internet, Hsiao Shang-nung fundou em 2009, com cinco amigos, o INSIDE, um blog colaborativo de observação de tendências da internet; em 2011, lançou conjuntamente a maior plataforma de receitas de Taiwan, o iCook; as duas empresas foram vendidas, com quatro anos de intervalo, ao grupo de mídia Critical Review Network, sendo o INSIDE registrado como a primeira aquisição formal de mídia de internet em Taiwan. Conhecido no meio da internet como 'chefe de bairro', ele agora apresenta o podcast 'Seqa', continuando a traduzir tendências para o setor de tecnologia."
 date: 2026-04-27
 category: 'People'
 tags:
   [
     'INSIDE',
+    'Amor pela Culinária',
     'iCook',
-    'mídia de internet',
-    'empreendedorismo tecnológico',
-    'internet de Taiwan',
+    'Mídia de Internet',
+    'Empreendedorismo Tecnológico',
+    'Internet de Taiwan',
     'fOx',
   ]
 subcategory: '科技與企業'
@@ -20,10 +21,10 @@ lastHumanReview: true
 researchReport: 'reports/research/2026-04/蕭上農.md'
 harvestSession: '9882eaf3-d117-4be5-aaf4-02a6a2ba3a7b'
 translatedFrom: 'People/蕭上農.md'
-sourceCommitSha: '160f6cb59'
+sourceCommitSha: '72ef874049'
 sourceContentHash: 'sha256:cf3dd21873bec862'
 sourceBodyHash: 'sha256:ba8d5bb97d38e74d'
-translatedAt: '2026-11-02T01:12:48.461538+00:00'
+translatedAt: '2026-11-27T04:08:19.529317+00:00'
 ---
 
 > **Visão geral de 30 segundos:** Tony Hsiao (alcunha na internet: fOx) é cofundador do INSIDE, a observação de tendências de internet "empurrada goela abaixo", e do iCook (愛料理). Em 2009, ele e cinco amigos lançaram uma das primeiras mídias de tecnologia com viés analítico de Taiwan; em 2011, lançaram a maior plataforma de receitas de Taiwan. As duas empresas foram vendidas, respectivamente em 2018 e 2022, para o mesmo comprador: o Grupo de Mídia The News Lens (TNL Media Group). Hoje, ele atua como observador da internet em podcasts e programas de mídia, sendo uma das vozes mais convidadas para falar de tendências no círculo tecnológico de Taiwan.

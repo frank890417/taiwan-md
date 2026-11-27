@@ -1,27 +1,22 @@
 ---
-title: 'Lu Yen-hsun: de quartos de final em Wimbledon a cinco Jogos Olímpicos, o tenista que foi mais longe por Taiwan'
-description: 'Em Wimbledon 2010, Lu Yen-hsun derrotou o 7.º cabeça de série Andy Roddick, tornando-se o primeiro homem de Taiwan a atingir os quartos de final de um Grand Slam. De Atenas 2004 a Tóquio 2021, ele participou em cinco edições consecutivas dos Jogos Olímpicos, sendo o tenista que foi mais longe na história moderna do ténis de Taiwan. Após a reforma, fundou uma academia de ténis, continuando à espera de um jovem taiwanês capaz de superar o seu recorde em Wimbledon.'
+title: 'Lu Yen-hsun: Das quartas de final de Wimbledon a cinco Olimpíadas, o jogador de tênis que levou o Taiwan mais longe'
+description: 'O jogador de tênis masculino mais excepcional da história de Taiwan. Nascido em 1983, começou a jogar aos 6 anos e decidiu profissionalizar-se aos 17. Em 2010, avançou do qualifying para a chave principal de Wimbledon e, na quarta rodada, derrotou o 7º cabeça de chave, Andy Roddick, por 3 sets a 2, tornando-se o primeiro taiwanês a alcançar as quartas de final de um Grand Slam em simples masculino; ele afirma que, ao pisar naquele gramado pela primeira vez, foi em nome de seu pai. Participou de cinco Olimpíadas consecutivas, de Atenas 2004 a Tóquio 2021. Após a aposentadoria, fundou uma academia internacional de tênis na Universidade Chang Jung, para que o próximo taiwanês que percorra seu caminho já tenha um mapa em mãos.'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
+tags: ['Esportes', 'Tênis', 'Olimpíadas', 'Wimbledon', 'Tênis Profissional']
 subcategory: '體育'
-tags:
-  - 'Desporto'
-  - 'Ténis'
-  - 'Jogos Olímpicos'
-  - 'Wimbledon'
-  - 'Ténis Profissional'
-readingTime: 7
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: false
-featured: false
+readingTime: 7
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/盧彥勳.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'e7e1bb5735'
 sourceContentHash: 'sha256:b7bcedce34261377'
 sourceBodyHash: 'sha256:a95f42aeb707e55c'
-translatedAt: '2026-07-25T05:00:10+08:00'
+translatedAt: '2026-11-27T04:03:44.275256+00:00'
 ---
 
 # Lu Yen-hsun: de quartos de final em Wimbledon a cinco Jogos Olímpicos, o tenista que foi mais longe por Taiwan
