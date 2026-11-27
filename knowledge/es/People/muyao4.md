@@ -1,16 +1,16 @@
 ---
-title: 'Woody 4 Super Play: capturar la profesionalidad invisible del trabajo común en un reality show en línea'
-description: 'Woody 4 Super Play, estrenado en 2015, pasó de las transmisiones en vivo de Maccabee a YouTube; en 2018, un episodio de 58 minutos, "Asistente Municipal por un Día", superó los 3 millones de vistas en cuatro días. En apariencia, pone a trabajar a celebridades; lo que cambia de verdad es cómo el público ve a los técnicos de Taipower, asesores y trabajadores de conciertos.'
+title: 'Thursday 4 Super Play: Convirtiendo la profesionalidad invisible de los trabajos comunes en un programa de variedades online'
+description: 'Un programa de variedades online que comenzó explorando las transmisiones en vivo de Macabey, se estrenó en 2015, encontró su estructura con la "Serie de un día" en 2016 y estableció su canal de YouTube en 2017. Tai Chih-yuan y otros integrantes se adentran en el campo de trabajo de técnicos de Taipower, reparadores de farolas y los bastidores de conciertos; los cables de hierro entrelazados permiten que la profesionalidad oculta cobre forma. En 2018, el episodio "Staff del alcalde por un día" superó los tres millones de vistas en cuatro días. El programa convierte a las celebridades en aprendices y permite al público ver la profesionalidad inadvertida detrás de los trabajos comunes.'
 date: 2026-08-16
 category: 'People'
 tags:
   [
-    'Woody 4 Super Play',
-    'Tai Chi-yuan',
-    'Serie "Un Día"',
-    'Reality show en línea',
+    'Thursday 4 Super Play',
+    'Tai Chih-yuan',
+    'Serie de un día',
+    'Programa de variedades online',
     'YouTube',
-    'Medios taiwaneses',
+    'Medios de comunicación de Taiwán',
   ]
 subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
@@ -18,12 +18,12 @@ featured: false
 lastVerified: 2026-08-16
 lastHumanReview: false
 readingTime: 12
-curation: incubating
+curation: 'incubating'
 translatedFrom: 'People/木曜4超玩.md'
-sourceCommitSha: '4f3974f86'
+sourceCommitSha: '8fc70bd881'
 sourceContentHash: 'sha256:c545680e99f6d0ab'
 sourceBodyHash: 'sha256:809502b72dc5c3f5'
-translatedAt: '2026-09-26T10:25:00+08:00'
+translatedAt: '2026-11-27T00:43:40.483477+00:00'
 ---
 
 > **Resumen de 30 segundos:** En 2015, Woody 4 Super Play se estrenó en la televisión por internet Maccabee; el primer episodio de la serie "Un Día" no llegó hasta 2016, y en 2017 el equipo creó un canal de YouTube aparte. Lo más interesante del programa no es enviar a Tai Chi-yuan, KID o Winnie a hacer un día de trabajo, sino colocar a los artesanos, asesores y personal detrás de escena que normalmente nunca son protagonistas en una escena que toda la audiencia de Taiwán puede ver junta. Woody parece convertir a las celebridades en gente común; en realidad, convierte la profesionalidad invisible del trabajo ordinario en un programa de masas.

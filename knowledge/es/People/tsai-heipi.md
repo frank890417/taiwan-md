@@ -1,17 +1,17 @@
 ---
-title: 'Cai Heipi: El niño que creció memorizando nombres de estaciones de MRT y que metió a Taiwán en 260.000 suscripciones'
-description: 'Nacido en 2002, Cai Jian-an comenzó aprendiendo a grabar «curiosidades del MRT» en la secundaria; doce años después, subió al escenario de los Premios Jinlu, conocidos como el «Oscar del sector transporte». Tras cambiar su nombre, detener sus publicaciones y reiniciar, él mismo se encarga de la investigación, los mapas y el montaje, siendo un modelo de largo aliento para los creadores de contenido educativo en Taiwán.'
+title: 'Cai Heipi: el chico que creció con los nombres de las estaciones del MRT, metió Taiwán en las suscripciones de 260 000 personas'
+description: 'YouTuber taiwanés de contenido educativo, nacido en 2002, comenzó a hacer videos en la secundaria porque sentía que nadie abordaba temas de transporte; su primer trabajo fue curiosidades del MRT de Taipéi. Él solo se encargó de la investigación, los mapas, los guiones y la edición, acumulando más de cien videos sobre construcciones de transporte con la serie «Bar Ferroviario». A principios de 2025, tras una pausa de nueve meses, regresó en el duodécimo aniversario del canal con un cambio de nombre, lanzó la serie local «Taiwán 360», ese mismo año ganó el Premio Especial de Contribución de la 26ª edición de los Premios Golden Road, y sus videos incluso fueron incluidos en los libros de texto de geografía de secundaria.'
 date: 2026-08-19
 category: 'People'
 tags:
   [
     'YouTuber',
-    'transporte',
-    'creador de contenido educativo',
-    'Cai Jian-an',
-    'Premios Jinlu',
-    'geografía de Taiwán',
-    'ferrocarril',
+    'Transporte',
+    'Creador de contenido educativo',
+    "Cai Jie'an",
+    'Premio Golden Road',
+    'Geografía de Taiwán',
+    'Ferrocarril',
   ]
 subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
@@ -25,10 +25,10 @@ imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:2017-10-23_MRT_train_at_Platform,_Tamsui_Line.jpg'
 curation: 'incubating'
 translatedFrom: 'People/蔡黑皮.md'
-sourceCommitSha: 'e75b621d2'
+sourceCommitSha: '3f269cde5e'
 sourceContentHash: 'sha256:e43b16ae63cbdb17'
 sourceBodyHash: 'sha256:1cde30bd00a46d49'
-translatedAt: '2026-09-10T00:58:57+08:00'
+translatedAt: '2026-11-26T23:31:50.971105+00:00'
 ---
 
 > **Resumen en 30 segundos:** Cai Jian-an (nombre del canal «Cai Heipi», nombre de usuario antiguo «Heipi») nació en 2002. Comenzó a grabar videos en la secundaria porque sentía que «nadie hacía contenido sobre el transporte» y su primer video fue «10 cosas que no sabías sobre el MRT de Taipéi». Doce años después, subió al escenario de la 26.ª edición de los Premios Jinlu, considerados el «Oscar del sector transporte», para recibir el Premio a la Contribución Especial. El núcleo de tensión de esta historia es que, en enero de 2025, anunció la pausa de sus publicaciones y el canal quedó en silencio durante seis meses; todos pensaron que desaparecería, pero la serie de raíces «Taiwán 360» tras su regreso mostró una fuerza aún más profunda. El especial sobre Wuzhou apareció en la portada del canal y las vistas superaron las 100.000. Un niño que creció memorizando nombres de estaciones de MRT terminó apuntando su lente hacia los rincones más olvidados del mapa. Este artículo no trata sobre el ascenso de un influencer, sino sobre cómo un creador encuentra su razón indispensable de existir dentro de la contradicción de «publicar y que nadie lo vea, pausar y que la gente espere».

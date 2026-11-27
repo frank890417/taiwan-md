@@ -1,16 +1,16 @@
 ---
-title: 'Wu Bai: desde la aldea Suantou del municipio de Liujiao, treinta años de rock en taiwanés sin rebajas'
-description: 'Su nombre real es Wu Junlin, nacido en 1968 en la aldea Suantou, municipio de Liujiao, condado de Chiayi. En 1992 formó «Wu Bai & China Blue»; en 1995, «El bosque de Noruega» consolidó su línea de rock en taiwanés. En 2016 lanzó «Dingzi Hua», y en 2017 ganó el premio al mejor álbum en taiwanés en los Premios Golden Melody. En 2025 publicó el nuevo álbum «Punto de partida en blanco puro», y la gira ROCK STAR 2 cruzó ambos lados del estrecho.'
+title: 'Wu Bai: Desde la aldea de ajo en Liujiao, tres décadas de rock en taiwanés sin concesiones'
+description: "Cantante de rock en taiwanés originario de la aldea de Suantou, en el municipio de Liujiao, condado de Chiayi. En 1992 formó Wu Bai & China Blue y en 1995 consolidó su estilo de rock en taiwanés con 'Norwegian Wood'. Para él, el taiwanés no es una estrategia de posicionamiento, sino su forma más natural de hablar. Tras más de treinta años rechazando la estandarización del mercado, su álbum 'Ding Zi Hua' de 2016 ganó el premio al Mejor Álbum en Taiwanés al año siguiente. En 2025 lanzó 'Pure White Starting Point' y comenzó la gira ROCK STAR 2, continuando en el escenario con sus canciones de siempre."
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Música',
-    'Rock',
-    'Canciones en taiwanés',
+    'música',
+    'rock',
+    'canciones en taiwanés',
     'Chiayi',
-    'Rock local',
-    'Guitarra',
+    'rock local',
+    'guitarra',
   ]
 subcategory: '音樂'
 author: 'Taiwan.md'
@@ -21,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/伍佰.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '2a5b98d9cd'
 sourceContentHash: 'sha256:2dda34fc81c78056'
 sourceBodyHash: 'sha256:fb05d9869b96635c'
-translatedAt: '2026-11-04T23:20:20.998262+00:00'
+translatedAt: '2026-11-27T00:05:50.669951+00:00'
 ---
 
 # Wu Bai: desde la aldea Suantou del municipio de Liujiao, treinta años de rock en taiwanés sin rebajas

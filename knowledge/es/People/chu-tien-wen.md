@@ -1,16 +1,16 @@
 ---
-title: 'Chu Tianwen: 1956 Taipei, de «San San Jikan» a «Ciudad Triste» León de Oro de Venecia'
-description: 'Nacida en 1956 en Taipei, hija de Zhu Xining. En 1977 cofundó «San San Jikan». Fue guionista habitual de Hou Hsiao-hsien, cuya obra representativa «Ciudad Triste» ganó el León de Oro en Venecia en 1989. En 1994 su novela «Crónicas del hombre salvaje» obtuvo el Primer Premio de la categoría de novela larga del Premio Literario del Times. Entre sus guiones destacan «Buenos hombres, buenas mujeres» y «Adiós al sur, adiós al sur».'
+title: 'Chu Tien-wen: Taipéi 1956, desde la revista «San San» hasta el León de Oro en Venecia por «A wxu»'
+description: 'Novelista y guionista de cine criada en una familia literaria de Taipéi; su padre fue el novelista Chu Hsi-ning. En 1977 cofundó la revista San San con Hu Lan-cheng y otros, y desde la década de 1980 estableció una relación de coautora con Hou Hsiao-hsien que duraría cuarenta años. El guion de su película «A wxu» utiliza un lenguaje poético para tratar la historia familiar de Taiwán, ganando el León de Oro en el Festival de Venecia en 1989. En 1994, su novela «Memorias de un extraño» obtuvo el primer premio del Premio Literario de United Daily News, demostrando su capacidad para sostener tanto el cine como la narrativa literaria.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Literatura',
-    'Guionista de cine',
+    'Guionista',
     'Hou Hsiao-hsien',
-    'Zhu Xining',
-    'Literatura SanSan',
-    'Crónicas del hombre salvaje',
+    'Chu Hsi-ning',
+    'Literatura San San',
+    'Memorias de un extraño',
   ]
 subcategory: '文學'
 author: 'Taiwan.md'
@@ -21,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/朱天文.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '2a5b98d9cd'
 sourceContentHash: 'sha256:13c80c1f151f5c3e'
 sourceBodyHash: 'sha256:bf6107b943cdb54e'
-translatedAt: '2026-11-04T21:46:41.953790+00:00'
+translatedAt: '2026-11-26T23:56:41.306182+00:00'
 ---
 
 # Chu Tianwen: 1956 Taipei, de «San San Jikan» a «Ciudad Triste» León de Oro de Venecia

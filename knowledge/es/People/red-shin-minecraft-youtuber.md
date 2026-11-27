@@ -1,16 +1,16 @@
 ---
-title: 'A Shen: ¿Por qué hay nuevos videos después de "suspender permanentemente" durante once años?'
-description: 'En julio de 2026, el canal principal de A Shen mostraba en un lado "Me retiro y hago videos porque me gusta", mientras que al día siguiente se subía un video nuevo de Minecraft. ¿Por qué la "pausa permanente" de hace tres años no resultó ser una salida definitiva?'
+title: 'Ah Shen: Tras 11 años de actualizaciones diarias, ¿por qué hay nuevos videos tras el «cese permanente»?'
+description: 'Creador de gameplays que lleva más de diez años con su canal y afirma haber subido contenido cada día sin interrupción durante once años. En 2021 dejó las actualizaciones diarias, abandonó su trabajo a tiempo completo en YouTube y pasó a subir vídeos de forma esporádica. En 2023 anunció el cese permanente de actualizaciones en su canal principal, manteniendo solo directos y el programa «Gaoshenma» que produce junto a Matian. Tres años después, el canal principal reaparece con un largometraje colaborativo de Minecraft; la descripción del canal sigue diciendo «retirado, grabo cuando me apetece», y la retirada de la palabra «retirado» devuelve a la audiencia el día fijo del próximo episodio que antes tenía garantizado.'
 date: 2026-07-15
 category: 'People'
 tags:
   [
-    'A Shen',
+    'Ah Shen',
     'YouTuber',
     'Minecraft',
-    'Gao Shenma',
-    'cultura de internet taiwanesa',
-    'trabajo del creador',
+    'Gaoshenma',
+    'cultura de internet de Taiwán',
+    'trabajo de creadores',
   ]
 subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
@@ -20,7 +20,7 @@ lastHumanReview: false
 researchReport: 'reports/research/2026-07/阿神.md'
 readingTime: 18
 image: '/article-images/people/ashan-2026-return-minecraft.webp'
-imageAlt: 'Miniatura oficial de Minecraft con dos monstruos falsos en el centro, y personajes de bloques de A Shen y Conejo de Nieve a los lados, con el título "Los más terroríficos androides de Minecraft".'
+imageAlt: 'En la miniatura oficial de Minecraft, en el centro hay dos monstruos de humanos falsos, a los lados están los personajes en bloques de Ah Shen y Xue Tu, el título dice «El humano falso más terrorífico de Minecraft»'
 imageCredit: '阿神官方 YouTube 頻道'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.youtube.com/watch?v=60n6gPUEl7s'
@@ -38,10 +38,10 @@ rationale:
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/阿神.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '2a5b98d9cd'
 sourceContentHash: 'sha256:5d4d8978fc43c7cd'
 sourceBodyHash: 'sha256:02c4e1b3fececdae'
-translatedAt: '2026-09-25T16:58:22+08:00'
+translatedAt: '2026-11-27T00:13:50.334959+00:00'
 ---
 
 > **Resumen de 30 segundos:** El 15 de julio de 2026, el canal oficial de A Shen mostraba 3.31 millones de suscriptores y 5,622 videos; su más reciente largometraje en colaboración con Minecraft solo había estado disponible un día, pero la descripción seguía diciendo "Me retiro y hago videos porque me gusta". Él había declarado haber subido contenido diariamente durante once años, abandonó YouTube como trabajo principal en 2021 y declaró una pausa de publicaciones en su canal principal en 2023, aunque mantuvo las transmisiones en vivo y el proyecto conjunto "Gao Shenma". Al juntar estas tres situaciones, se entiende que la jubilación ya no era una promesa pública; la creación tampoco había terminado permanentemente.

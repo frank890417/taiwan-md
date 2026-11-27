@@ -1,15 +1,15 @@
 ---
-title: 'Ray Du: De estudiante expatriado que rechazaba el inglés al "alcalde del barrio" de YouTube en Taiwán'
-description: 'En 2020, el YouTuber Ray Du lanzó una campaña de financiamiento colectivo para publicar un anuncio en The New York Times, mostrando Taiwán al mundo; en 2021, reveló públicamente su diagnóstico de depresión, afrontando con franqueza uno de los momentos más difíciles de su vida. Desde su primer contacto con el inglés en Singapur hasta la fundación de la Asociación de Creadores de Contenidos, Ray Du no es solo un influencer educativo, sino también un impulsor del ecosistema de nuevos medios en Taiwán.'
+title: 'A-Di: De un estudiante internacional que rechazaba el inglés al «líder comunitario» del YouTube taiwanés'
+description: 'De ser un estudiante de Singapur que evitaba el inglés a convertirse en un referente de los YouTubers educativos en Taiwán. Se atrevió a aprender inglés para poder comprar una carta de Yu-Gi-Oh!, y en 2015 fundó junto a su hermana, Di-Mei, un canal de enseñanza de inglés. En 2020, lanzó una campaña de recaudación de fondos que alcanzó casi NT$19 millones para publicar un anuncio de página completa en el New York Times, enviando el mensaje «Taiwan Can Help» al mundo. En 2021, reveló su lucha contra la depresión y fundó la Asociación de Creadores de Medios Nuevos de Taiwán, donde ejerce como presidente del consejo, razón por la cual sus seguidores lo llaman el «líder comunitario de YouTube».'
 date: 2026-04-20
 category: 'People'
 tags:
   [
     'YouTuber',
-    'Ray Du',
-    'nuevos medios en Taiwán',
-    'depresión',
-    'anuncio en The New York Times',
+    'A-Di',
+    'Nuevos medios de Taiwán',
+    'Depresión',
+    'Anuncio en el New York Times',
   ]
 subcategory: '數位與媒體'
 author: 'Taiwan.md'
@@ -20,10 +20,10 @@ readingTime: 9
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/阿滴.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '8fc70bd881'
 sourceContentHash: 'sha256:bc1390f13b2a7b07'
 sourceBodyHash: 'sha256:5621e86f4a6c80eb'
-translatedAt: '2026-11-04T21:24:26.022097+00:00'
+translatedAt: '2026-11-26T23:59:16.653846+00:00'
 ---
 
 > **Resumen en 30 segundos:** En 2020, el YouTuber Ray Du (Dù Shěngruì) lanzó la campaña de financiamiento colectivo "ThisAttackComesFromTaiwan", alcanzando su meta de 4 millones en apenas unas horas y recaudando finalmente cerca de 19 millones para publicar un anuncio a página completa en _The New York Times_, proclamando al mundo: "Taiwan Can Help". Al año siguiente, hizo público su lucha contra la depresión durante casi un año y cofundó, junto con Zhìqí Qīqī y otros, la Asociación Taiwanesa de Creadores Audiovisuales de Nuevos Medios, asumiendo la presidencia y fomentando un ecosistema de apoyo mutuo entre creadores. Desde su rechazo al inglés como estudiante expatriado en Singapur hasta convertirse en el "alcalde del barrio" de YouTube en Taiwán, la historia de Ray Du no es solo una transformación personal, sino un reflejo real de cómo los nuevos medios en Taiwán pasaron de la creación individual a un modelo de crecimiento colectivo.

@@ -1,15 +1,15 @@
 ---
-title: 'Zun: De la habitación de segundo de secundaria a los dos canales con un millón de suscriptores, el registro de la madurez de un YouTuber'
-description: 'Zun comenzó a grabar transmisiones de videojuegos en segundo de secundaria; a los 19 años se convirtió en el YouTuber con un millón de suscriptores más joven de Taiwán en ese momento, y luego llevó su canal secundario también más allá del millón. Los datos que abarcan catorce años registran su proceso de madurez gradual al enfrentar las cargas creativas, las tormentas familiares y los errores de patrocinios.'
+title: 'Zun: de su habitación en segundo de secundaria a dos canales con un millón de suscriptores, el registro de su paso a la edad adulta de un YouTuber'
+description: 'Creador taiwanés que comenzó a subir gameplays a YouTube desde segundo de secundaria; a los 19 años, con 1,2 millones de suscriptores, se convirtió en el YouTuber más joven de Taiwán en superar el millón. En sus catorce años de registro público, pasó de los videojuegos a experimentos, unboxings y contenido cotidiano. Ha dicho que tener muchos suscriptores conlleva cierta carga, y también atravesó la polémica por el caso de su hermano Xiao Yu y un error en un patrocinio de Pocket Knights. Su canal secundario superó el millón a finales de 2024, y sus videos de la nueva casa llevan la cámara a su vida adulta.'
 date: 2026-07-15
 category: 'People'
 tags:
   [
     'YouTuber',
     'Zun',
-    'Cultura de Taiwán',
+    'Cultura taiwanesa',
     'Creador de contenido en internet',
-    'Otaku en la vida',
+    'Vida de otaku',
     'Cultura digital',
   ]
 subcategory: '數位與媒體'
@@ -25,10 +25,10 @@ relatedDiary: ['2026-07-15-191335-manual']
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/尊.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '2a5b98d9cd'
 sourceContentHash: 'sha256:741e9553e6d863d3'
 sourceBodyHash: 'sha256:e3564c2899c65b1e'
-translatedAt: '2026-10-15T03:03:33.114135+00:00'
+translatedAt: '2026-11-27T00:33:35.732344+00:00'
 ---
 
 > **Resumen en 30 segundos:**

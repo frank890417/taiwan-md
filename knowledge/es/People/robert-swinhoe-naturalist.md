@@ -1,16 +1,16 @@
 ---
-title: 'Robert Swinhoe: cuando un diplomático se convirtió en naturalista'
-description: 'En 1856, un intérprete británico de 19 años anotó el primer ave que vio en la costa occidental de Formosa. Cuatro años después, con 52 artículos científicos, hizo que el mundo conociera por primera vez qué seres vivos habitaban en esa isla. Murió a los 41 años en Londres, pero las especies que nombró siguen vivas hoy en los bosques y montañas de Taiwán.'
+title: 'Swinhoe: Cuando el diplomático se convirtió en naturalista'
+description: 'Diplomático y naturalista británico que llegó por primera vez a Formosa a los 19 años como intérprete. En 1860, asumió el cargo de primer vicecónsul británico en Formosa y en 1865 fue ascendido a cónsul. Durante sus aproximadamente cuatro años en Taiwán, publicó 52 artículos académicos y registró 227 especies de aves, cerca de 40 especies de mamíferos y 246 especies de plantas, permitiendo que el mundo conociera por primera vez la biodiversidad de la isla; fue elogiado por los ornitólogos de su época como uno de los exploradores naturalistas más exitosos de la historia. Cuatro mamíferos y quince aves llevan su nombre, incluyendo el reyezuelo de vientre azul y la tortuga de manchas. Falleció en Londres en 1877, a la temprana edad de 41 años.'
 date: 2026-04-12
 category: 'People'
 tags:
   [
-    'Historia natural',
+    'Naturalismo',
     'Cónsul británico',
     'Historia natural',
-    'Ornitología',
+    'Aves',
     'Especies endémicas de Taiwán',
-    'Apertura de puertos al comercio',
+    'Apertura de puertos y comercio',
     'Siglo XIX',
   ]
 subcategory: '歷史人物'
@@ -22,10 +22,10 @@ image: ''
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/史溫侯.md'
-sourceCommitSha: 'b1a5fea00'
+sourceCommitSha: '3f269cde5e'
 sourceContentHash: 'sha256:50b13c3a31e0a1c0'
 sourceBodyHash: 'sha256:e6b263814c7b1995'
-translatedAt: '2026-11-18T14:21:32.480576+00:00'
+translatedAt: '2026-11-27T00:57:55.196574+00:00'
 ---
 
 # Robert Swinhoe: cuando un diplomático se convirtió en naturalista
