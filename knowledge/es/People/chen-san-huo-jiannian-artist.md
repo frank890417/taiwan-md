@@ -1,16 +1,10 @@
 ---
-title: 'Chen San-huo: Entregar el jarrón roto al destino y dejar que el *jiannian* del techo del templo reviva'
-description: 'Tras el terremoto de 1999, el maestro artesano de Madou, Tainan, Chen San-huo, recogió un jarrón de flores roto en el Templo Ciji de Fengyuan. De aprendiz en la restauración de templos se convirtió en el «artista del techo» que crea con cerámica reciclada. En lugar de hacer que el *jiannian* (corte y adhesión) se parezca más al original, permitió que la rotura, el azar y los materiales reciclados determinaran nuevamente la forma de la tradición.'
+title: 'Chen San-huo: Entregar el jarrón roto al destino para preservar el arte del Jiannian en los templos'
+description: 'Preservador de la técnica tradicional de Jiannian, importante patrimonio nacional. Nacido en 1949 en Madou, Tainan, comenzó a aprender el arte del Jiannian de templos con su hermano tras terminar la escuela secundaria, recorriendo templos por todo Taiwán para realizar restauraciones. En 2002, durante la restauración del Templo Ciji en Fengyuan tras el terremoto de Jiji, utilizó fragmentos de jarrones desechados por el templo para crear una figura de Bodhidharma, desarrollando el método de "usar el azar en lugar del corte", permitiendo que los trozos rotos de porcelana dicten su propia forma. En 2020 fue reconocido por el Ministerio de Cultura como el primer preservador de la artesanía Jiannian, en 2021 recibió el Premio Nacional de Logros Artesanales y fundó la "Familia Jiannian" para enseñar a sus discípulos y participar en la transmisión de la tradición en entornos escolares.'
 date: 2026-08-19
-subcategory: '藝術與設計'
 category: 'People'
-tags:
-  [
-    'Jiannian (corte y adhesión)',
-    'Artesanía tradicional',
-    'Chen San-huo',
-    'Arte de los templos',
-  ]
+tags: ['Jiannian', 'Artesanía tradicional', 'Chen San-huo', 'Arte de templos']
+subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20
@@ -18,10 +12,10 @@ lastHumanReview: false
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'People/陳三火.md'
-sourceCommitSha: '8cc323782'
+sourceCommitSha: 'c7e3d69aad'
 sourceContentHash: 'sha256:eedc983e2ea9d824'
 sourceBodyHash: 'sha256:7efe5656906a3904'
-translatedAt: '2026-09-11T09:15:51+08:00'
+translatedAt: '2026-11-27T06:25:38.949034+00:00'
 ---
 
 > **Resumen en 30 segundos:** Chen San-huo era originalmente un aprendiz de _jiannian_ que seguía a su hermano por los templos y dormía en los sitios de construcción. En 2002, durante la restauración del Templo Ciji de Fengyuan tras el terremoto de 1999, recogió un jarrón roto que había sido desechado y, por casualidad, creó una figura de Bodhidharma (Damó). Desde entonces, convertir «golpear y luego buscar la forma» se convirtió en su método. Este giro es similar a una paradoja artesanal: para preservar el _jiannian_, no basta con copiar el pasado tal cual; a veces hay que dejar que pierda su apariencia original primero.

@@ -1,6 +1,6 @@
 ---
-title: 'Yang Chuan-kwang: la tribu de Taitung, la plata en Roma y el récord mundial de 9121 puntos del Hombre de Hierro Asiático'
-description: 'Nacido el 10 de julio de 1933 en la tribu amis de Malan, Taitung, Yang Chuan-kwang fue el primer medallista olímpico de Taiwán. En el decatlón de los Juegos Olímpicos de Roma 1960 obtuvo la plata con 8334 puntos, y en 1963 batió el récord mundial con 9121 puntos y un salto con garrocha de 4,83 metros que obligó a la IAAF a modificar las tablas de puntuación. Falleció el 27 de enero de 2007 en California, Estados Unidos, a los 73 años, tras sufrir un derrame cerebral. En abril de 2025, el Ministerio de Cultura lo declaró tesoro nacional.'
+title: 'Yang Chuan-kwang: El atleta de hierro asiático, de las tribus de Taitung a la medalla de plata en Roma con un récord mundial de 9121 puntos'
+description: 'El primer medallista olímpico de Taiwán. Nacido en 1933 en la tribu amisk de Malan, Taitung, estudió en la Escuela Normal de Taitung y en el Colegio Normal de Taiwán, y en 1957 viajó a Estados Unidos para entrenar en la UCLA. En los Juegos Olímpicos de Roma 1960, ganó la medalla de plata en decatlón con 8334 puntos, a solo 58 puntos del oro de Rafer Johnson; en 1963, estableció un nuevo récord mundial con 9121 puntos, y su marca de 4.83 metros en salto con pértiga obligó a la IAAF a modificar los estándares de puntuación. Tras su retiro, regresó a Taiwán para dedicarse a la educación deportiva. Falleció en California, Estados Unidos, en 2007 tras sufrir un accidente cerebrovascular, a los 73 años; en 2025, el Ministerio de Cultura designó su medalla de plata de Roma como el primer tesoro nacional de Taiwán en la categoría de deportes.'
 date: 2026-03-19
 category: 'People'
 tags:
@@ -10,7 +10,7 @@ tags:
     'Juegos Olímpicos',
     'Decatlón',
     'Pueblos indígenas',
-    'Pueblo amis',
+    'Pueblo Amis',
   ]
 subcategory: '體育'
 author: 'Taiwan.md'
@@ -19,10 +19,10 @@ lastVerified: 2026-09-05
 lastHumanReview: true
 readingTime: 7
 translatedFrom: 'People/楊傳廣.md'
-sourceCommitSha: '8d0c4a70d'
+sourceCommitSha: 'fc0798f30d'
 sourceContentHash: 'sha256:3f102f565e503ad8'
 sourceBodyHash: 'sha256:b14c332dbd93a4eb'
-translatedAt: '2026-09-09T10:55:13.610692+00:00'
+translatedAt: '2026-11-27T06:48:18.360847+00:00'
 ---
 
 # Yang Chuan-kwang: la tribu de Taitung, la plata en Roma y el récord mundial de 9121 puntos del Hombre de Hierro Asiático

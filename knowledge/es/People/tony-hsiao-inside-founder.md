@@ -1,6 +1,6 @@
 ---
-title: 'Hsiao Shang-nung: de PM de videojuegos a cofundador de INSIDE, el "jefe de barrio" del círculo de internet de Taiwán'
-description: 'En 2009, seis personas de internet lanzaron un blog colaborativo y así nació INSIDE Hard-Sell Network Trend Watch. Hsiao Shang-nung (fOx) también cofundó iCook; las dos plataformas de internet más conocidas de Taiwán se convirtieron en sus obras —y ambas fueron vendidas a la misma empresa. Ahora sigue como observador diciendo a Taiwán: no se preocupen demasiado por la tecnología.'
+title: 'Hsiao Shang-nung: De gestor de productos de videojuegos a fundador de INSIDE, el líder comunitario del sector tecnológico taiwanés'
+description: 'De ser gestor de productos de videojuegos en Songgang Technology a convertirse en un observador digital, Hsiao Shang-nung fundó en 2009 junto a cinco amigos el blog colaborativo INSIDE para observar las tendencias de internet. En 2011, lanzaron juntos iCook, la plataforma de recetas más grande de Taiwán. Ambas empresas fueron adquiridas cuatro años después por el grupo mediático The News Lens; la adquisición de INSIDE quedó registrada como la primera fusión y adquisición formal de un medio digital en Taiwán. Conocido en el sector como el líder comunitario, actualmente presenta el podcast Se-Cha, traduciendo continuamente las tendencias para el mundo tecnológico.'
 date: 2026-04-27
 category: 'People'
 tags:
@@ -8,9 +8,9 @@ tags:
     'INSIDE',
     'iCook',
     'iCook',
-    'medios de internet',
+    'medios digitales',
     'emprendimiento tecnológico',
-    'internet de Taiwán',
+    'internet en Taiwán',
     'fOx',
   ]
 subcategory: '科技與企業'
@@ -21,10 +21,10 @@ lastHumanReview: true
 researchReport: 'reports/research/2026-04/蕭上農.md'
 harvestSession: '9882eaf3-d117-4be5-aaf4-02a6a2ba3a7b'
 translatedFrom: 'People/蕭上農.md'
-sourceCommitSha: '160f6cb59'
+sourceCommitSha: '72ef874049'
 sourceContentHash: 'sha256:cf3dd21873bec862'
 sourceBodyHash: 'sha256:ba8d5bb97d38e74d'
-translatedAt: '2026-11-03T20:21:59+08:00'
+translatedAt: '2026-11-27T06:56:20.659017+00:00'
 ---
 
 > **Resumen en 30 segundos:** Hsiao Shang-nung (apodo en internet fOx) es cofundador de INSIDE Hard-Sell Network Trend Watch y de iCook. En 2009, él y cinco amigos pusieron en marcha uno de los primeros medios tecnológicos de opinión de Taiwán; en 2011 lanzaron simultáneamente la mayor plataforma de recetas de la isla. Ambas empresas fueron vendidas, en 2018 y 2022 respectivamente, al mismo comprador: el Grupo de Medios Crítica Clave (TNL Media Group). Hoy actúa como observador de la red en los principales pódcasts y programas de medios, siendo una de las voces más invitadas para hablar de tendencias en el círculo tecnológico taiwanés.

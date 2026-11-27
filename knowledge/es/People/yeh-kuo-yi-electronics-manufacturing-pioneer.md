@@ -1,20 +1,27 @@
 ---
-title: 'Yeh Kuo-yi: de la Escuela Comercial de Shihlin a un imperio de manufactura de medio siglo'
-description: 'Nacido el 21 de abril de 1941, Yeh Kuo-yi no cuenta con título universitario. Partió de la Escuela Comercial de Shihlin y fundó Inventec en el distrito de Shihlin en 1975. Empezando con calculadoras electrónicas, condujo a la empresa hasta convertirla en una de las fábricas de servidores más importantes del mundo, suministrando capacidad de cómputo en la nube a Facebook, Microsoft y Google. En 2023 cedió el cargo de presidente del consejo a su segundo hijo, Yeh Li-cheng, y pasó a ser presidente del grupo.'
+title: 'Yeh Kuo-yi: De la Escuela de Comercio de Shilin a la creación de un imperio de fabricación durante medio siglo'
+description: 'Fundador de una empresa de fabricación electrónica graduado de la Escuela de Comercio de Shilin, sin título universitario. En 1975 fundó Inventec en Shilin, Taipéi, comenzando con calculadoras electrónicas y liderando la evolución de la empresa de OEM a ODM. Tras atravesar las olas de la PC y las computadoras portátiles, se orientó hacia los servidores empresariales, convirtiéndose en un proveedor clave para los centros de datos en la nube de Facebook, Microsoft y Google, siendo pionero en la inversión en servidores de IA. En 2023, cedió el cargo de presidente a su segundo hijo, Yeh Li-cheng, retirándose como presidente del grupo, tras haber elegido correctamente la dirección en cada punto de inflexión clave de la industria de la fabricación durante cincuenta años.'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
+tags:
+  [
+    'Tecnología y empresas',
+    'Inventec',
+    'Fabricación electrónica',
+    'ODM',
+    'Servidores',
+  ]
 subcategory: '科技與企業'
-tags: ['科技與企業', '英業達', '電子代工', 'ODM', '伺服器']
-readingTime: 7
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: false
+readingTime: 7
 translatedFrom: 'People/葉國一.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: 'c7e3d69aad'
 sourceContentHash: 'sha256:736f2b6cf89c9093'
 sourceBodyHash: 'sha256:728aa85d9d44e89a'
-translatedAt: '2026-05-24T05:06:33+08:00'
+translatedAt: '2026-11-27T06:39:28.935524+00:00'
 ---
 
 # Yeh Kuo-yi: de la Escuela Comercial de Shihlin a un imperio de manufactura de medio siglo
