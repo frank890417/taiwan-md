@@ -1,25 +1,23 @@
 ---
-title: 'Lu Yen-hsun: de los cuartos de final de Wimbledon a cinco Juegos Olímpicos, el tenista taiwanés que llegó más lejos'
-description: 'En Wimbledon 2010, Lu Yen-hsun derrotó al séptimo cabeza de serie Andy Roddick y se convirtió en el primer tenista masculino de Taiwán en alcanzar los cuartos de final de un Grand Slam. Desde Atenas 2004 hasta Tokio 2021, participó sin falta en cinco ediciones consecutivas de los Juegos Olímpicos, siendo el jugador que más lejos ha llegado en la historia del tenis moderno taiwanés. Tras su retiro, fundó una academia de tenis y sigue esperando que aparezca un joven taiwanés capaz de superar su marca en Wimbledon.'
+title: 'Lu Yen-hsun: de los cuartos de final de Wimbledon a cinco Juegos Olímpicos, el tenista taiwanés que ha llegado más lejos'
+description: 'El jugador más destacado en la historia del tenis masculino taiwanés, nacido en 1983, comenzó a jugar a los 6 años y decidió dedicarse profesionalmente a los 17. En Wimbledon 2010 avanzó desde la fase de clasificación al cuadro principal, y en la cuarta ronda venció al séptimo cabeza de serie Roddick por 3-2, convirtiéndose en el primer jugador taiwanés en alcanzar los cuartos de final de un Grand Slam en individuales masculinos; dijo que la primera vez que pisó esa hierba fue por su padre. Desde Atenas 2004 hasta Tokio 2021 compitió en cinco Juegos Olímpicos consecutivos. Tras retirarse fundó la Academia Internacional de Tenis en la Universidad Chang Jung, para que el próximo taiwanés que recorra su camino ya tenga un mapa.'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '體育'
 tags:
   ['Deportes', 'Tenis', 'Juegos Olímpicos', 'Wimbledon', 'Tenis profesional']
-readingTime: 7
-#   whats_excluded: "ATP 排名逐年細節；與台灣網球協會的公開摩擦；訓練方式與技術分析細節"
-#   where_it_hedges: "出生地（台北或桃園/三重各有資料，採最廣泛引用說法）；1966年溫哥華100公尺世界紀錄待更多史料確認"'
+subcategory: '體育'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: false
-featured: false
+readingTime: 7
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/盧彥勳.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'e7e1bb5735'
 sourceContentHash: 'sha256:b7bcedce34261377'
 sourceBodyHash: 'sha256:a95f42aeb707e55c'
-translatedAt: '2026-05-09T14:29:10+08:00'
+translatedAt: '2026-11-27T04:07:36.884997+00:00'
 ---
 
 # Lu Yen-hsun: de los cuartos de final de Wimbledon a cinco Juegos Olímpicos, el tenista taiwanés que llegó más lejos

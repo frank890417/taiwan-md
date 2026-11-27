@@ -1,34 +1,37 @@
 ---
 title: 'Monaneng: dos tipos de ceguera, un poemario'
-description: 'Monaneng, el primer poeta indígena que publicó un poemario moderno en chino, perdió la vista recién en 1979; en 1989, Morning Star publicó The Beautiful Rice Ear. En Come, brindemos, el verso «La consigna de autodeterminación de dieciocho millones de personas / no oye nuestros suspiros» inscribió la pregunta de «quién cuenta como taiwanés» en 30 poemas. Leído 37 años después, esa pregunta sigue sin respuesta.'
+description: 'Poeta del pueblo Paiwan, nacido en 1956 en la tribu Aluwei, municipio de Daren, Taitung. Es el primer poeta indígena en publicar un poemario moderno en chino en Taiwán. En 1979, tras una conmoción cerebral por un accidente de camión de carga, quedó completamente ciego. Sus poemas se transmitieron oralmente por primera vez en 1984 durante sesiones de bebida y canto, y fueron transcritos y publicados por Li Ji. En 1989, Morning Star publicó «Hermosas espigas de arroz», con un prólogo de Chen Yingzhen que lo llamaba «poeta de la colonia interna de Taiwán». Caminó por las calles apoyado en un bastón, participando en el rescate de prostitutas adolescentes y en el movimiento de restitución de la tierra. Leer su poesía presenta dos dificultades: físicamente él no puede ver, y políticamente muchos lectores no quieren ver.'
 date: 2026-06-03
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '原住民文化人 / 文學與詩人'
 tags:
   [
     'indígenas',
     'poesía',
     'literatura',
-    'pueblo paiwan',
+    'paiwan',
     'movimiento indígena',
     'Taitung',
     '1980s',
   ]
+subcategory: '原住民文化人 / 文學與詩人'
+author: 'Taiwan.md'
+featured: false
+canonical-order: 110
 lastVerified: 2026-06-03
 lastHumanReview: false
-featured: false
-curation: 'incubating'
-curationReason: 'unverified'
-translatedFrom: 'People/莫那能.md'
-sourceCommitSha: 'be13f045'
-sourceContentHash: 'sha256:f5aebb543340d143'
-sourceBodyHash: 'sha256:2f3617098391a7c1'
-translatedAt: '2026-06-16T17:04:27Z'
+researchReport: 'reports/research/2026-06/莫那能.md'
+viewpoint_formed: true
 image: '/article-images/people/monaneng-daren-township-2011.webp'
 imageCredit: 'Bernard Gagnon / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Daren_Township,_Taiwan.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'People/莫那能.md'
+sourceCommitSha: 'e7e1bb5735'
+sourceContentHash: 'sha256:a095996d9797f69b'
+sourceBodyHash: 'sha256:e51dd9f7a0df41eb'
+translatedAt: '2026-11-27T03:17:38.020788+00:00'
 ---
 
 # Monaneng: dos tipos de ceguera, un poemario
@@ -48,20 +51,20 @@ Estos detalles importan porque muchos archivos literarios de instituciones públ
 
 > 📝 **Nota curatorial**: Monaneng no fue alguien que entró en contacto con los problemas sociales después de escribir poesía. Primero fue protagonista de esa trayectoria; solo después, a los treinta años, la escribió entera en forma de poema. Ese orden —primero la experiencia, luego la poesía— es decisivo para leerlo.
 
-## Un accidente robó la luz
+## Un accidente de tráfico le robó la luz
 
-Durante un examen médico escolar en la secundaria, le dijeron algo: tenía **retinosis pigmentaria**, una enfermedad hereditaria y progresiva de degeneración de la retina. Terminaría ciego; era solo cuestión de tiempo[^6].
+Durante el chequeo de salud de la escuela secundaria, le dijeron una cosa: sus ojos tenían **retinitis pigmentaria**, una enfermedad hereditaria de degeneración retiniana que empeora gradualmente. Acabaría ciego, era solo cuestión de tiempo[^6].
 
-Tras graduarse de la secundaria básica, ingresó en la **Escuela de Mecánica de la Fuerza Aérea**. Al presentarse, no aprobó el examen médico por la retinosis pigmentaria. Su sueño de entrar en la Fuerza Aérea terminó. Más tarde consideró la escuela normal de Taitung y la academia de policía, pero ambas vías quedaron cerradas por su problema de visión. Para un joven de zona montañosa en la década de 1970, los pocos canales de movilidad social ascendente se fueron bloqueando uno por uno[^6].
+Al graduarse de la escuela secundaria, ingresó en la **Escuela de Mecánica de la Fuerza Aérea**. En el chequeo médico al presentarse no pasó, debido a la retinitis pigmentaria. El sueño de la Fuerza Aérea terminó. Luego consideró la Escuela Normal de Taitung y la Academia de Policía — ambas se cerraron por problemas de visión. Uno a uno se bloquearon los ya escasos canales de movilidad ascendente para un joven de montaña en los años 70[^6].
 
-Luego vino el engaño de traficantes de personas en 1972. En 1977, su hermana fue vendida por el esposo de una prima a un prostíbulo como prostituta infantil. Monaneng pidió dinero prestado por todas partes, esperó de madrugada en la puerta del burdel y logró rescatarla; durante el proceso fue golpeado, y su visión se deterioró aún más[^7].
+Luego vino el engaño de traficantes de personas en 1972. En 1977, su hermana fue vendida por el marido de su prima a un burdel como prostituta infantil; él pidió prestado dinero por todas partes, esperó a medianoche frente a la puerta del burdel, la rescató; en el proceso fue golpeado y su visión empeoró aún más[^7].
 
-El accidente decisivo ocurrió en **1979**. Trabajaba en una empresa de transporte de carga cuando sufrió un accidente de tránsito y una conmoción cerebral; permaneció casi dos meses inconsciente en el hospital. Al despertar, el ojo derecho estaba completamente ciego y el izquierdo tenía una visión de 0,2[^8]. Wikipedia registra que entonces tenía 23 años; el diccionario del Museo Nacional de Literatura de Taiwán escribe 24; las entrevistas de Indigenous Sight y de la revista Observer indican 26 y 27 años[^9]. Circulan varias versiones, pero el testimonio oral del propio Monaneng en 2022 afirma con claridad: “1979, mientras trabajaba en una empresa de transporte de carga”[^10].
+El accidente decisivo fue en **1979**. Trabajaba en transporte de mercancías, sufrió un accidente de tráfico, conmoción cerebral, estuvo en coma en el hospital casi dos meses. Al despertar, el ojo derecho totalmente ciego, el izquierdo con visión 0.2[^8]. Wikipedia dice que tenía 23 años entonces; el diccionario del Museo Nacional de Literatura de Taiwán dice 24; las entrevistas de _Visión Original_ y la revista _Observador_ dicen 26, 27 años[^9]. Circulan varias versiones, pero el propio relato oral de Monaneng en 2022 dice claramente «1979, trabajando en transporte de mercancías»[^10].
 
-Después fue al **Instituto de Reconstrucción para Ciegos de Taiwán** para aprender masaje y braille. Más tarde abrió en Taipéi una pequeña clínica de masajes llamada “A-Neng Massage”[^11]. No era un “masajista callejero” —como suele escribirse en internet, de manera imprecisa—, sino que tenía un local físico. Allí escribía poemas en braille. **Pero la poesía no empezó en el braille**.
+Después fue al **Instituto de Reconstrucción para Ciegos de Taiwán** a aprender masaje y braille. Luego regentó un pequeño salón de masajes en Taipéi, llamado «Masaje Ah Neng»[^11]. No era un «masajista callejero» (así se escribe a menudo en internet, pero no es exacto), tenía un local físico, y allí escribía poemas en braille — **pero la poesía no empezó desde el braille**.
 
-![Presentación tradicional de canto y danza paiwan: tres integrantes del pueblo interpretan juntos con vestimenta tradicional. La poesía de Monaneng también surgió originalmente así en 1984: de su boca, en forma de bebida, oralidad y canto, para luego ser transcrita por otros.](/article-images/people/monaneng-paiwan-song-dance-2018.webp)
-_Canto y danza paiwan (festival de culturas indígenas Riddu Riđđu, norte de Europa, 2018): imagen correspondiente a la escena originaria de 1984, cuando Monaneng bebía en casa de Yang Tu y recitaba oralmente sus poemas. Photo: Riddu Riđđu Festival via Flickr. [License via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Familieforestilling_-_Paiwan_sang_og_dans_(41534824410).jpg) CC BY-SA 2.0.\_
+![Actuación de canto y danza tradicional del pueblo Paiwan, tres miembros del pueblo vestidos con trajes tradicionales actuando juntos. La poesía de Monaneng en 1984 también surgió así, en forma de bebida, transmisión oral y canto desde su boca, para ser luego transcrita por otros.](/article-images/people/monaneng-paiwan-song-dance-2018.webp)
+_Actuación de canto y danza tradicional del pueblo Paiwan (festival cultural indígena Riddu Riđđu del norte de Europa, 2018) — corresponde a la situación original de 1984 cuando Monaneng recitaba poemas oralmente bebiendo en casa de Yang Tu. Foto: Riddu Riđđu Festival vía Flickr. [Licencia vía Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Familieforestilling_-_Paiwan_sang_og_dans_(41534824410).jpg>) CC BY-SA 2.0.\_
 
 ## Beber en casa de Yang Tu y cantar los poemas
 
@@ -233,7 +236,7 @@ Este artículo usa 3 imágenes con licencia de Wikimedia Commons, todas almacena
 
 [^13]: El registro de su ayuda a las campañas de Chen Ku-ying y Chen Wan-chen para legislador y representante de la Asamblea Nacional a fines de 1978 aparece en el artículo de Wikipedia sobre Monaneng (misma referencia 1) y en la entrevista de Indigenous Sight (misma referencia 4).
 
-[^14]: El relato de marzo de 1984 en casa de Yang Tu, con bebida y oralidad, la transcripción de Li Chi, la publicación en el primer número de Spring Wind Poetry Magazine como “Poemas de gente de las montañas” y en el segundo número como Come, brindemos, aparece en el artículo largo de Chai Wan Ben Post (misma referencia 5) y en el artículo académico de la Alianza del Frente de Literatura Taiwanesa [twnelclub.ning.com/profiles/blogs/3917868:BlogPost:30754](http://twnelclub.ning.com/profiles/blogs/3917868:BlogPost:30754).
+[^14]: [twnelclub.ning.com/profiles/blogs/3917868:BlogPost:30754](http://twnelclub.ning.com/profiles/blogs/3917868:BlogPost:30754) — El relato de marzo de 1984 en casa de Yang Tu, con bebida y oralidad, la transcripción de Li Chi, la publicación en el primer número de Spring Wind Poetry Magazine como “Poemas de gente de las montañas” y en el segundo número como Come, brindemos, aparece en el artículo largo de Chai Wan Ben Post (misma referencia 5) y en el artículo académico de la Alianza del Frente de Literatura Taiwanesa.
 
 [^15]: El título del prólogo de Chen Ying-chen para The Beautiful Rice Ear, “Monaneng: un poeta colonial dentro de Taiwán”, aparece en el artículo de Wikipedia (misma referencia 1) y en múltiples citas de reseñas académicas.
 
@@ -245,7 +248,7 @@ Este artículo usa 3 imágenes con licencia de Wikimedia Commons, todas almacena
 
 [^19]: La participación de Monaneng en cuatro movimientos —la protesta de 1985 contra el templo de Wu Feng en Chiayi, la marcha de 1988 por el rescate de niñas prostituidas, el movimiento Devuélvannos nuestra tierra de 1988 y el derribo de la estatua de Wu Feng el 31 de diciembre de 1988— aparece en la entrevista de Indigenous Sight, verbatim: «拉倒吳鳳銅像、還我土地運動、救援雛妓等運動場合，都能看到莫那能戴著墨鏡、拄著拐杖的身影» (misma referencia 4).
 
-[^20]: El dato de que The Beautiful Rice Ear fue publicado en 1989 por Morning Star Publishing en Taichung coincide en múltiples fuentes. Hay conflicto sobre el mes exacto de publicación: Wikipedia indica agosto de 1989, mientras que la [entrada ikm del Museo Nacional de Literatura de Taiwán](https://db.nmtl.gov.tw/site2/ikm?id=527) registra: “noviembre, Monaneng publica el primer poemario indígena en chino, The Beautiful Rice Ear”. Este artículo usa la formulación regresiva “otoño de 1989”.
+[^20]: [entrada ikm del Museo Nacional de Literatura de Taiwán](https://db.nmtl.gov.tw/site2/ikm?id=527) — El dato de que The Beautiful Rice Ear fue publicado en 1989 por Morning Star Publishing en Taichung coincide en múltiples fuentes. Hay conflicto sobre el mes exacto de publicación: Wikipedia indica agosto de 1989, mientras que laregistra: “noviembre, Monaneng publica el primer poemario indígena en chino, The Beautiful Rice Ear”. Este artículo usa la formulación regresiva “otoño de 1989”.
 
 [^21]: La canción Beautiful Rice Ear fue originalmente Harvest Festival Song, compuesta en 1958 por Lu Sen-pao (1910-1988), compositor pinuyumayan, para reconfortar a integrantes de su pueblo destinados al frente de Kinmen durante la segunda crisis del estrecho de Taiwán; más tarde Hu Te-fu la difundió ampliamente en el movimiento de canción folk de la década de 1970. Monaneng la tomó como título de un poemario paiwan.
 
@@ -259,8 +262,8 @@ Este artículo usa 3 imágenes con licencia de Wikimedia Commons, todas almacena
 
 [^26]: El anuncio del 16 de junio de 2010 por el cual la Asociación de Escritores de China incorporó a Monaneng, Chu Hsiu-chuan y Chen Ying-chen como sus tres primeros miembros taiwaneses aparece en el artículo de Wikipedia sobre Monaneng (misma referencia 1).
 
-[^27]: La experiencia de un indígena taiwanés fue publicada por Renjian Publishing en mayo de 2010; testimonio oral de Monaneng, grabación y organización de Liu Meng-yi, edición y revisión de Lu Cheng-hui, ISBN 978-986-6777-19-6. Imagen de la página de derechos en [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Copyright_page_of_A_Taiwanese_Aborigine%27s_Experience_by_Monaneng_20160525.jpg).
+[^27]: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Copyright_page_of_A_Taiwanese_Aborigine%27s_Experience_by_Monaneng_20160525.jpg) — La experiencia de un indígena taiwanés fue publicada por Renjian Publishing en mayo de 2010; testimonio oral de Monaneng, grabación y organización de Liu Meng-yi, edición y revisión de Lu Cheng-hui, ISBN 978-986-6777-19-6. Imagen de la página de derechos en.
 
 [^28]: Entrevista oral de Monaneng en 2022 en Observer Magazine, publicación pro-unificación; atención del lector a la posición de la fuente. Verbatim: «民進黨並不關心底層人民與少數民族的權益，而且被『台獨』綁架走向分裂國家的死路» y «兩岸越和平，對原住民越有利» (misma referencia 2).
 
-[^29]: La controversia de 2019 por la inclusión de Cuando suenan las campanas: para las hermanas de la montaña que sufren en el programa de secundaria básica aparece en el reportaje de Indigenous TV [IPCF-TITV, 2019-10-08](https://www.youtube.com/watch?v=0A9SOoYRQVw).
+[^29]: [IPCF-TITV, 2019-10-08](https://www.youtube.com/watch?v=0A9SOoYRQVw) — La controversia de 2019 por la inclusión de Cuando suenan las campanas: para las hermanas de la montaña que sufren en el programa de secundaria básica aparece en el reportaje de Indigenous TV.

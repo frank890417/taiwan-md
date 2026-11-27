@@ -1,129 +1,130 @@
 ---
-title: 'Chang Yu-sheng: de ídolo a profeta, un experimento musical que trasciende épocas'
-description: 'En 1989, el hijo del capitán de la compañía artística militar Tianma debutó como ídolo con 350.000 copias vendidas de *I Miss You Every Day*; en 1994, respondió al mercado con una grabación en vivo de 73 minutos con su banda, un fracaso comercial que fue llamado profecía. Chang Yu-sheng se debatió nueve años entre su identidad de ídolo y su conciencia creativa. Cuatro días después del lanzamiento de *Kou Shi Xin Fei*, volcó su auto en la madrugada en Tamsui y nunca despertó.'
+title: 'Chang Yu-sheng: de ídolo a profeta, un experimento musical que trasciende eras'
+description: 'Cantautor y productor, hijo del capitán de la Tropa Pegasus y madre atayal. Tras la muerte de su hermana mayor Chang Yu-hsien a los 15 años ahogada, entró en la industria musical para cumplir el sueño de su hermana; en 1989 se convirtió en ídolo vendiendo 350.000 copias de "Te echo de menos cada día"; en 1994 lanzó el álbum experimental de 73 minutos grabado en directo con banda "Karaoke Live‧Taipéi‧Yo", de ventas pobres pero al que llamó "clásico desastroso". Produjo "Hermanas" y "Bad Boy" que catapultaron a A-mei al estrellato; en 1997, cuatro días tras lanzar "Digo lo contrario de lo que pienso", murió en un accidente de tráfico en Tamsui a los 31 años; en 2017 recibió póstumamente el Premio Especial de Contribución de los Golden Melody Awards.'
 date: 2026-04-18
-author: 'Taiwan.md Contributors'
-category: People
-subcategory: 音樂與表演
+category: 'People'
 tags:
   [
-    '張雨生 (Chang Yu-sheng)',
-    '台灣流行音樂 (música pop taiwanesa)',
-    '創作歌手 (cantautor)',
-    '卡拉OK Live‧台北‧我 (Karaoke Live: Taipei, Yo)',
-    '吻我吧娜娜 (Bésame, Nana)',
-    '張惠妹 (Chang Hui-mei)',
+    'Chang Yu-sheng',
+    'música pop taiwanesa',
+    'cantautor',
+    'Karaoke Live‧Taipéi‧Yo',
+    'Bésame Nana',
+    'A-mei',
   ]
-readingTime: 14
+subcategory: '音樂與表演'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-04-19
 lastHumanReview: true
-featured: false
+researchReport: 'reports/research/2026-04/張雨生.md'
+readingTime: 14
 translatedFrom: 'People/張雨生.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'fc0798f30d'
 sourceContentHash: 'sha256:f4eb416f9486c9fa'
 sourceBodyHash: 'sha256:fa4f2d152a7b850d'
-translatedAt: '2026-05-01T22:19:10+08:00'
+translatedAt: '2026-11-27T10:45:13+08:00'
 ---
 
-> **Resumen en 30 segundos:** El padre de Chang Yu-sheng, Zhang Jianmin, era capitán de la compañía artística militar Tianma; su madre era de la tribu Atayal. Nació en Penghu durante días de lluvia incesante, de ahí su nombre: "Yu-sheng" (nacido de la lluvia). En 1989, debutó con su primer álbum en solitario _I Miss You Every Day_, vendiendo 350.000 copias; en 1994, respondió a las expectativas del mercado con un álbum experimental de 73 minutos grabado en vivo con toda la banda. Las ventas fueron desastrosas, pero él lo llamó "un clásico del fracaso". En 1997, impulsó personalmente a una joven cantante aborigen que tocaba en bares hacia el trono de las divas. El 16 de octubre se lanzó _Kou Shi Xin Fei_ —la primera vez que compuso, produjo y cantó todo él mismo—; cuatro días después, volcó su auto en la madrugada en Tamsui y nunca despertó.
+> **Resumen en 30 segundos:** El padre de Chang Yu-sheng, Chang Chien-min, era capitán de la Tropa Pegasus, y su madre era atayal. Nació en Penghu durante días de lluvia continua, de ahí su nombre "Yu-sheng" (nacido de la lluvia). En 1989 debutó con su primer álbum en solitario "Te echo de menos cada día", vendiendo 350.000 copias; en 1994 respondió a las expectativas del mercado con un álbum experimental de 73 minutos grabado en directo con toda la banda, de ventas desastrosas, al que llamó "clásico desastroso". En 1997, él mismo aupó a una chica indígena que cantaba en bares al trono de diva. El 16 de octubre se lanzó "Digo lo contrario de lo que pienso" —la primera vez que letra, música, producción e interpretación fueron enteramente suyas—; cuatro días después, volcó su coche en la madrugada en Tamsui y nunca más despertó.
 
-"Ese álbum vendió tan mal porque, cuando lo hice, no tenía a nadie de arriba supervisándome; lo hice a mi manera, sin restricciones."
+"Ese álbum vendió tan mal porque cuando lo hice, no había nadie de arriba controlándome; lo hice totalmente a mi manera."
 
-En 1994, un álbum titulado _Karaoke Live: Taipei, Yo_ aterrizó casi en silencio en el mercado taiwanés: vendió apenas entre diez y veinte mil copias. Tres años antes, 張雨生 (Chang Yu-sheng) había vendido 350.000 copias con _I Miss You Every Day_; dos años después, _El mar_ continuó con seis platinos. Desde la perspectiva del mercado, fue una derrota. Desde la historia de la música, fue una profecía.
+En 1994, un álbum titulado _Karaoke Live‧Taipéi‧Yo_ cayó casi en silencio en el mercado taiwanés —solo vendió diez o veinte mil copias. Tres años antes, [Chang Yu-sheng](/es/people/chang-yu-sheng-singer/) había marcado un récord de 350.000 copias con "Te echo de menos cada día"; dos años después, _El Mar_ logró seis discos de platino. Esta vez, desde la perspectiva del mercado, fue un desastre. Desde la historia de la música, fue una profecía.
 
-### La lluvia de Penghu, la canción de Tianma
+### La lluvia de Penghu, la canción de Pegasus
 
-El 7 de junio de 1966, Zhang Jianmin esperaba el nacimiento de su hijo en la aldea militar de Duxing Shicun, en Penghu, junto a su esposa. Zhang Jianmin era de Jiaxing, Zhejiang, y capitán de la compañía artística Tianma; su esposa, de la tribu Atayal, también servía en la compañía artística militar. Ambos se conocieron en los escenarios del ejército, formaron una familia y tuvieron un hijo.[^1]
+El 7 de junio de 1966, Chang Chien-min esperaba con su esposa el nacimiento de su hijo en la aldea de dependencias militares Tuixing Decimo en Penghu. Chang Chien-min, natural de Jiaxing, Zhejiang, era capitán de la Tropa Pegasus; su esposa, atayal, también servía en la troupe artística militar. Se conocieron en el escenario militar, formaron familia y tuvieron hijos.[^1]
 
-El padre quería llamarlo "Peng-sheng" (nacido en Penghu), pero esa semana llovió sin cesar en Penghu, un hecho tan inolvidable que decidieron cambiarle el nombre a "Yu-sheng" (nacido de la lluvia).
+El padre pensó en usar el lugar de nacimiento para el nombre, "Peng-sheng" —pero esa semana llovió sin parar en Penghu, de forma inusualmente memorable, así que al niño lo llamaron "Yu-sheng".
 
-La vida en la aldea militar lo familiarizó con la actuación desde niño. Su padre lo llevaba al salón comunitario a ver películas, y su madre atayal dejó su gran voz grabada en sus genes.[^1] A los nueve años, la familia se mudó a Fengyuan, Taichung, por el trabajo del padre. De la escuela primaria Ruisui a la secundaria Fengnan y la preparatoria Fengyuan, creció en el centro de la isla con aquel nombre nacido de la lluvia penghuana.
+La vida en la aldea de dependencias militares lo familiarizó con el escenario desde pequeño. Su padre lo llevaba al auditorio de la aldea a ver películas, y su madre atayal le legó su buena voz en los genes.[^1] A los nueve años, la familia se mudó a Fengyuan, Taichung, por el traslado laboral de su padre; estudió en la Escuela Primaria Rueisuei, la Escuela Secundaria Fengnan y la Escuela Secundaria Fengyuan, creciendo en la tierra central de Taiwán con aquel nombre de día de lluvia en Penghu.
 
-📝 Nota del curador: La compañía artística Tianma (Pegasus Troupe) era la unidad de entretenimiento cultural del Ejército de la República China. El hijo de un capitán de compañía artística y descendiente de una cantante atayal se convirtió en uno de los músicos pop más experimentales de Taiwán: no fue coincidencia, el escenario siempre fue su hogar.
+📝 **Nota del curador:** La Tropa Pegasus (Pegasus Troupe) era una unidad de cultura y entretenimiento del ejército de la República de China. El hijo de un capitán de troupe, descendiente de una cantante atayal, se convirtió después en el músico pop más experimental de Taiwán —este origen no es casualidad, el escenario siempre fue su casa.
 
 ### El deseo de su hermana y aquel concurso de canto
 
-En 1986, cuando Chang Yu-sheng cursaba el primer año de universidad, su hermana menor, Zhang Yuxian, cinco años menor que él, murió ahogada a los 15 años. Fue el primer verdadero vacío de su vida. A su hermana le encantaba cantar y lo hacía bien; Chang Yu-sheng dijo que cantaba para cumplir el sueño musical de ella.[^2]
+En 1986, cursando primer año de universidad, la hermana mayor de Chang Yu-sheng, Chang Yu-hsien, cinco años menor, murió ahogada a los 15 años. Fue el primer verdadero agujero en su vida. Su hermana amaba cantar y lo hacía bien; Chang Yu-sheng dice que canta para cumplir el sueño musical de su hermana.[^2]
 
-Se inscribió en el entonces prominente Concurso de Canción Folclórica Mu Chuan y lo ganó. Dos años después, cantó uno de los jingles publicitarios más cálidos de la historia de la [[música pop taiwanesa]]:
+Se inscribió en el entonces muy seguido Concurso de Canto Folk Mu-chuan y ganó de golpe. Dos años después, cantó una de las canciones publicitarias más cálidas de la historia de la [música pop taiwanesa](/es/music/golden-melodies-legacy-taiwan-pop-music/):
 
-En 1988, el comercial de la bebida negra Song Soda "Héroes modernos" se emitió con fuerza en televisión, con la canción _[Mi futuro no es un sueño](https://www.youtube.com/watch?v=lTxZmhAoSGU)_ como banda sonora. Su voz aguda cristalina y la letra motivadora lo convirtieron rápidamente en un nombre conocido en todos los hogares. Al año siguiente (noviembre de 1989), lanzó su primer álbum en solitario, _[I Miss You Every Day](https://www.youtube.com/watch?v=qSslpWSSTLg)_, que vendió 350.000 copias.[^2]
+En 1988, el anuncio "Héroe Moderno" de HeySong Sarsaparilla se emitía intensamente en televisión, con la canción insertada "[Mi futuro no es un sueño](https://www.youtube.com/watch?v=lTxZmhAoSGU)". Su voz clara en los agudos y la letra inspiradora lo convirtieron rápidamente en un nombre conocido en todos los hogares. Al año siguiente (noviembre de 1989), se lanzó su primer álbum en solitario _[Te echo de menos cada día](https://www.youtube.com/watch?v=qSslpWSSTLg)_, vendiendo 350.000 copias.[^2]
 
-Sin embargo, en aquella época dorada de los ídolos, las discográficas diseñaban la imagen y planificaban la carrera; cada paso era un compromiso. El cantante Chang Yu-sheng lo sabía y empezó a sentirse asfixiado.
+Sin embargo, en aquella época dominada por los ídolos, la discográfica diseñaba la imagen, planificaba la ruta, y cada paso era un compromiso. El cantante Chang Yu-sheng lo sabía y empezó a sentirse asfixiado.
 
 ### El monstruo nacido del compromiso
 
-Tras licenciarse del servicio militar, Chang Yu-sheng formó su propio estudio, ansiando liberarse de las ataduras del mercado comercial. En febrero de 1992, lanzó _Llévame a la Luna_ —su tercer álbum en solitario, lleno de experimentación—: la crítica lo elogió, pero las ventas fueron apenas la mitad que las de _I Miss You Every Day_. Cabe destacar que el videoclip de _[Llévame a la Luna](https://www.youtube.com/watch?v=j0BXZvcI5IQ)_ representó a Asia en los American Music Video Awards de 1992, dejando su primera huella en la escena musical internacional.[^3]
+Tras licenciarse, Chang Yu-sheng montó su propio estudio, ansioso por liberarse de las ataduras del mercado comercial. En febrero de 1992 lanzó _Llévame a la Luna_ —su tercer álbum en solitario, lleno de experimentalidad, aclamado por la crítica pero con ventas de solo la mitad de "Te echo de menos cada día". Cabe destacar que el MV de "[Llévame a la Luna](https://www.youtube.com/watch?v=j0BXZvcI5IQ)" representó a Asia como finalista en los American Music Video Awards de 1992, convirtiéndose en su primera huella en la escena musical internacional.[^3]
 
-En noviembre del mismo año, lanzó _[El mar](https://www.youtube.com/watch?v=EXaLvBGqQww)_. La canción principal se convirtió en la memoria colectiva del año, el álbum superó los seis platinos en ventas y fue nominado a los Premios Golden Melody. El mercado dijo: sigue por este camino. Pero Chang Yu-sheng decidió tomar otro.
+En noviembre del mismo año lanzó _[El Mar](https://www.youtube.com/watch?v=EXaLvBGqQww)_. La canción homónima se convirtió en la memoria nacional de ese año, el álbum superó los seis discos de platino y fue nominado a los Golden Melody Awards. El mercado decía: sigue por este camino. Pero Chang Yu-sheng decidió tomar otro.
 
-> "Creo que un creador debería insistir en hacer lo que quiere hacer. Yo soy más bien el tipo de monstruo que nace después del compromiso (risas), yo pasé por ese sufrimiento de ceder." — Chang Yu-sheng (citado en BIOS monthly, "Soy el monstruo nacido del compromiso")
+> "Creo que un creador debería insistir en hacer lo que él quiere. Yo soy más bien ese tipo de monstruo nacido tras el compromiso (ríe), he experimentado el sufrimiento del compromiso." —Chang Yu-sheng (citado en BIOS monthly "Soy el monstruo tras el compromiso")
 
-### Un almacén en Nangang, 73 minutos
+### Almacén de Nangang, 73 minutos
 
-_Karaoke Live: Taipei, Yo_ (1994) fue su declaración más radical. La discográfica UFO Records alquiló un almacén en Nangang; Chang Yu-sheng reunió a sus amigos músicos y ensayaron durante dos meses antes de entrar al estudio. Sin pistas separadas, sin MIDI: toda la banda grabó en vivo.[^4] El álbum contiene 13 canciones y dura 73 minutos, siendo el álbum más largo de la historia del pop taiwanés hasta ese momento.
+El _Karaoke Live‧Taipéi‧Yo_ de 1994 es su manifiesto más radical. UFO Records alquiló un almacén en Nangang, Chang Yu-sheng reunió a sus amigos músicos y ensayaron dos meses antes de entrar al estudio. Sin sobregrabación, sin MIDI, toda la banda grabó en directo.[^4] El álbum tiene 13 canciones, 73 minutos en total, el más largo de la escena pop taiwanesa en aquel momento.
 
-Los géneros abarcan rock duro, jazz, blues, folk, R&B, gospel, con elementos clásicos integrados directamente en las canciones: _Reflexiones de medianoche_ se basa en una pieza de Rajmáninov; el interludio de _Luz espiritual_ incorpora fragmentos de _Oda a la alegría_ y _Aleluya_; _Esta noche, este año_ es una versión rock de _Boléro_.[^4]
+Los estilos abarcan hard rock, jazz, blues, folk, R&B, gospel; elementos clásicos incrustados directamente en las canciones: "Meditación a medianoche" se abre con una pieza de Rajmáninov, "Inspiración" inserta en el interludio la "Oda a la Alegría" y el "Aleluya", "Este Año Esta Noche" es una versión rock de "Polilù".[^4]
 
-La respuesta del mercado fue de entre diez y veinte mil copias vendidas. Chang Yu-sheng llamó a este álbum "un clásico del fracaso", y dejó estas palabras: "Las circunstancias y los imprevistos pasarán, pero las obras permanecerán. Esa dedicación, esas sorpresas de destellos de inspiración, seguirán dando esperanza a quienes vengan después."[^4]
+La respuesta del mercado fueron diez o veinte mil copias. Chang Yu-sheng llamó a este álbum "clásico desastroso", y dejó estas palabras: "Las circunstancias y variables al final pasan, solo la obra permanece; aquel empeño, aquellos destellos de inspiración, seguirán dando esperanza a los que vengan después."[^4]
 
-Alrededor de 2024, _Esta noche, este año_ volvió a popularizarse en internet: las generaciones más jóvenes la usaron para acompañar vlogs, videos de viajes e incluso despedidas. Lo que dejó en aquel almacén de Nangang por fin encontró a su audiencia.
+Hacia 2024, "Este Año Esta Noche" volvió a popularse en internet; la generación joven la usa para vlogs, videos de viaje, incluso videos de despedida. Lo que dejó en el almacén de Nangang por fin encontró a su audiencia.
 
-### El renacimiento en el teatro
+### El renacer teatral
 
-Ante el estancamiento en la música comercial, Chang Yu-sheng se inscribió voluntariamente en el Godot Theatre Company en 1993, aprendiendo teatro desde cero. En 1997, creó el primer musical de rock completo de Taiwán, _[Bésame, Nana](https://www.youtube.com/watch?v=bolq78geIYE)_, adaptado de _El caserío_ de Shakespeare. Dijo que equilibrar la personalidad del personaje, la narrativa y la capacidad vocal de los actores era "realmente bastante difícil". Su compromiso con el arte quedó reflejado en la frase: "Con o sin público, la obra debe representarse bien".[^5]
+Cuando su música comercial topó con un techo, en 1993 Chang Yu-sheng se inscribió voluntariamente en el Teatro Godot para aprender teatro desde cero. En 1997 creó el primer musical de rock completo de Taiwán, _[Bésame Nana](https://www.youtube.com/watch?v=bolq78geIYE)_, adaptado de _La fierecilla domada_ de Shakespeare. Dijo que equilibrar la personalidad de los personajes, la narración y la capacidad vocal de los actores "es realmente muy difícil". Su insistencia artística se resume en: "Haya público o no, la obra hay que representarla bien".[^5]
 
-### La persona que iba a escuchar todas las noches
+### Aquella persona a la que iba a escuchar cada noche
 
-Chang Yu-sheng como productor fue, a veces, más importante que su faceta como cantante.
+Chang Yu-sheng era productor, y esto a veces era más importante que su identidad de cantante.
 
-Así descubrió a 張惠妹 (Chang Hui-mei, A-Mei): tras ganar el concurso Wudeng Jiang, A-Mei se unió a la banda de su primo y cantaba en bares de Taipéi. Chang Yu-sheng fue a escucharla la primera vez, y luego volvió casi todas las noches durante aproximadamente un mes. La consideró un talento moldeable, llevó al jefe de Forward Music, Zhang Xiaoyan, y al director Chen Fuming a escucharla, y la discográfica decidió ficharla.[^6] A-Mei primero cantó a dúo con él _La persona que más amo es la que más me ha herido_, y en diciembre de 1996 se lanzó _Hermanas_, su primer álbum producido por Chang Yu-sheng.
+Así descubrió a [A-mei](/es/people/a-mei/): tras ganar en el concurso Cinco Luces, A-mei se unió a la banda de su primo y cantaba residente en bares de Taipéi. Chang Yu-sheng fue a escucharla una vez, y luego volvió casi cada noche durante aproximadamente un mes. Convencido de su talento, llevó a la jefa de Fancy Records, Chang Hsiao-yen, y al director Chen Fu-ming a escucharla; la compañía decidió ficharla.[^6] A-mei debutó a dúo con Chang Yu-sheng en "La persona que más amo me hiere más profundo", y en diciembre de 1996 se lanzó oficialmente su primer álbum producido por él, _Hermanas_.
 
-_Bad Boy_ siguió en 1997. Chang Yu-sheng amplió el enfoque folclórico de A-Mei con ritmos latinos de influencia mundial en la canción principal; _Solo de pensar en ti_ incorporó a su hermana menor y su prima como coristas, con la textura de voces aborígenes.[^6] El álbum lideró las ventas IFPI en Taiwán durante 9 semanas consecutivas, vendiendo 1,38 millones de copias —el álbum más vendido en la historia de Taiwán— y superando los 6 millones en toda Asia.
+_Bad Boy_ siguió en 1997. En la canción titular, Chang Yu-sheng amplió el horizonte étnico de A-mei incorporando ritmos latinos de world music; en "Al pensarte" introdujo a su hermana y prima como coristas, aportando la textura de voces indígenas.[^6] Este álbum encabezó la lista de ventas IFPI en Taiwán durante 9 semanas consecutivas, vendió 1,38 millones de copias, convirtiéndose en el álbum más vendido de la historia de Taiwán, superando los 6 millones en toda Asia.
 
-Chang Yu-sheng murió sin poder ver su logro final.
+Chang Yu-sheng murió sin ver el logro final.
 
-### _Kou Shi Xin Fei_: cuatro días antes del accidente
+### _Digo lo contrario de lo que pienso_: cuatro días antes del accidente
 
-El 16 de octubre de 1997, se lanzó _Kou Shi Xin Fei_ (_La boca dice una cosa, el corazón siente otra_), el octavo álbum en solitario de Chang Yu-sheng. Fue la primera vez que compuso, produjo y cantó todo él mismo. Cada canción incluía un fragmento de texto literario, y el lenguaje musical saltaba dentro del mismo álbum del baladón lento al jazz pop, y del metal pesado al rock suave: no era una compilación, era una prueba sistemática de los límites de la música popular.[^7]
+El 16 de octubre de 1997 se lanzó el octavo álbum en solitario de Chang Yu-sheng, _[Digo lo contrario de lo que pienso](https://www.youtube.com/watch?v=QAmsnJQEb20)_. Fue la primera vez que letra, composición, producción e interpretación estuvieron enteramente en sus manos. A cada canción adjuntó un fragmento de historia escrita; el lenguaje musical salta dentro del mismo álbum de la balada lenta al jazz pop, del heavy metal al soft rock —no es un popurrí, es una prueba sistemática de los límites de la música pop.[^7]
 
-Citó al violchelista Pau Casals: "El mundo dice que toco el violín con la facilidad de un pájaro que canta; lo que no saben es cuánto trabajo le cuesta a ese pájaro cantar bien."[^5]
+Citó al violonchelista Casals: "El mundo dice que toco el violín tan fácilmente como un pájaro canta; no saben cuánto trabajo cuesta hacer que este pájaro cante bien".[^5]
 
-📝 Nota del curador: _Kou Shi Xin Fei_ fue la primera vez que Chang Yu-sheng tuvo una voz completamente propia. Cuatro días después, el accidente de tráfico dejó al álbum casi sin período de promoción. Pero al año siguiente de su muerte, el álbum ganó el premio al Mejor Álbum Vocal de Música Popular en los Premios Golden Melody; en la lista de los 200 mejores álbumes de la música pop taiwanesa publicada posteriormente, quedó en el puesto 41.
+📝 **Nota del curador:** _Digo lo contrario de lo que pienso_ es la primera voz totalmente propia de Chang Yu-sheng. Cuatro días después, el accidente truncó casi todo periodo de promoción. Pero al año siguiente de su muerte, el álbum ganó el Golden Melody Award a Mejor Álbum de Interpretación Vocal Pop; en la posterior selección de los 200 Mejores Álbumes de la Música Pop Taiwanesa, quedó en el puesto 41.
 
-El 20 de octubre de 1997, a las 2:40 de la madrugada, Chang Yu-sheng conducía por la carretera Tai 2 (calle Danjin) en Tamsui, frente al boliche Hongshulin, cuando, por exceso de velocidad, su auto subió a la mediana y volcó, quedando el chasis retorcido y la parte delantera casi destruida. Cuando llegó la ambulancia, ya se encontraba en estado de muerte extrahospitalaria (OHCA); el personal médico le practicó RCP y desfibrilación cardíaca antes de recuperar el pulso, e ingresó en la unidad de cuidados intensivos de la sucursal de Tamsui del Hospital Mackay.[^8]
+El 20 de octubre de 1997 a las 2:40 de la madrugada, Chang Yu-sheng conducía por la carretera provincial 2, tramo Dangjin, en Tamsui; a la altura de la Bolera de los Manglares, por exceso de velocidad se subió a la isla divisoria, el coche volcó y quedó retorcido, la parte frontal casi totalmente destruida. Cuando llegó la ambulancia, estaba en estado de OHCA (parada cardíaca extrahospitalaria); el personal médico le practicó RCP y desfibrilación hasta recuperar el latido, y lo trasladó a la UCI del Hospital Mackay sucursal Tamsui.[^8]
 
-Su índice de coma fluctuó entre 3 y 4 durante 24 días. El 12 de noviembre de 1997, a las 11:48 de la noche, Chang Yu-sheng falleció por neumonía por aspiración como complicación, sin responder a la reanimación. Tenía 31 años.[^8]
+Su índice de coma (Escala de Glasgow) osciló entre 3 y 4 durante 24 días. El 12 de noviembre de 1997 a las 23:48, Chang Yu-sheng falleció tras complicarse con neumonía por aspiración, sin responder a la reanimación. Tenía 31 años.[^8]
 
-### "Parece que es Yu-sheng quien canta"
+### "Siento que es Yu-sheng quien canta"
 
-En 2017, veinte años después de su muerte, los Premios Golden Melody otorgaron póstumamente a Chang Yu-sheng el "Premio a la Contribución Especial", convirtiéndolo en el ganador más joven en la historia de los premios. Esa noche, 張惠妹 (Chang Hui-mei) cantó su canción en el escenario. Su madre, entre el público entre lágrimas, dijo: "Parece que es Yu-sheng quien canta."[^9]
+En 2017, veinte años tras su muerte, los Golden Melody Awards le otorgaron póstumamente el "Premio Especial de Contribución" —es el ganador más joven de este premio en la historia de los Golden Melody. Aquella noche, [A-mei](/es/people/a-mei/) cantó sus canciones en el escenario. Su madre, entre el público, dijo con la voz rota: "Siento que es Yu-sheng quien canta".[^9]
 
-A su lado estaba una diva que él mismo había creado, y él ya no estaba.
+A su lado estaba la diva que él mismo había forjado, mientras él ya no estaba.
 
-## Lecturas complementarias
+## Lecturas adicionales
 
-- [張惠妹 (Chang Hui-mei)](/es/people/a-mei) — Chang Yu-sheng produjo tras bambalinas los álbumes _Hermanas_ y _Bad Boy_, impulsándola al trono de diva del mundo sinófono; aquella canción en el escenario de los Golden Melody de 2017 fue el homenaje más profundo.
-- [[Música pop taiwanesa]](/es/music/golden-melodies-legacy-taiwan-pop-music/) — El contexto de la industria musical sinófona de los años 1980-90, y la posición histórica de la obra experimental de Chang Yu-sheng dentro de ella.
-- [魏如萱 (Waa Wei)](/es/people/waa-wei-singer) — Otro camino de tensión entre el ídolo mainstream y la identidad de autora: una trayectoria distinta de negociación entre el mercado y la creación.
-- [林宥嘉 (Yoga Lin)](/es/people/yoga-lin) — Otra versión generacional del tira y afloja entre ídolo y músico: de campeón de _Superstar_ en 2007 a productor de sí mismo en 2024, con 17 años de carta de renuncia.
+- [A-mei](/es/people/a-mei) — Chang Yu-sheng produjo entre bastidores los álbumes _Hermanas_ y _Bad Boy_, aupándola al trono de diva del mandarín; la canción que cantó en los Golden Melody 2017 es el homenaje más profundo.
+- [Música pop taiwanesa](/es/music/golden-melodies-legacy-taiwan-pop-music) — Contexto de la industria del pop en mandarín en los 80 y 90, y la posición histórica de la creación experimental de Chang Yu-sheng.
+- [Waa Wei](/es/people/waa-wei-singer) — Igual tensión entre ídolo mainstream y autor, otra ruta de ajuste entre mercado y creación.
+- [Yoga Lin](/es/people/yoga-lin) — Una generación después, otro tira y afloja entre "ídolo y músico": del campeón de _One Million Star_ 2007 a su carta de dimisión como productor propio en 2024, 17 años después.
 
 ## Referencias
 
-[^1]: [Revisando la vida legendaria de Chang Yu-sheng: 25 años después, realmente "te extraño todos los días" — TNL The News Lens](https://www.thenewslens.com/article/177924) — Artículo extenso conmemorando el 25.º aniversario de la muerte de Chang Yu-sheng, incluye el récord de ventas de 350.000 copias de _I Miss You Every Day_, el origen de su nombre en Penghu (el padre originalmente pensó en "Peng-sheng", cambiado a "Yu-sheng" por las lluvias incesantes) y otros datos biográficos.
+[^1]: [Repaso a la vida legendaria de Chang Yu-sheng: 25 años después, realmente "te echo de menos cada día" — TNL The News Lens](https://www.thenewslens.com/article/177924) — Artículo largo conmemorativo del 25 aniversario de la muerte de Chang Yu-sheng, con el récord de ventas de 350.000 copias de "Te echo de menos cada día", el origen del nombre en Penghu (el padre planeaba "Peng-sheng", cambió a "Yu-sheng" por las lluvias continuadas) y otros datos biográficos.
 
-[^2]: [Especial Chang Yu-sheng 4-1: De chico común de la aldea militar de Penghu a ídolo que arrasó en Taiwán — Fount Media](https://www.fountmedia.io/article/71587) — Primera entrega del especial de Fount Media sobre Chang Yu-sheng, documenta la identidad del padre como capitán de la compañía artística Tianma, el origen atayal de la madre, la muerte por ahogamiento de la hermana Zhang Yuxian a los 15 años, y su entrada en la industria musical tras ganar el concurso folclórico Mu Chuan.
+[^2]: [Especial Chang Yu-sheng 4-1: De chico común en aldea militar de Penghu a ídolo que arrasó en Taiwán — Fount Media](https://www.fountmedia.io/article/71587) — Primera entrega del especial Chang Yu-sheng de Fount Media, registra la identidad del padre como capitán de la Tropa Pegasus, el trasfondo atayal de la madre, y la narrativa completa previa al debut: tras la muerte ahogada de su hermana Chang Yu-hsien a los 15 años, ganó el concurso de canto folk Mu-chuan y entró en la industria.
 
-[^3]: [Chang Yu-sheng — Wikipedia](https://en.wikipedia.org/wiki/Chang_Yu-sheng) — Entrada de Wikipedia en inglés sobre Chang Yu-sheng, documenta que el videoclip de _Llévame a la Luna_ representó a Asia en los American Music Video Awards de 1992, así como su recepción crítica en Taiwán y la escena musical internacional.
+[^3]: [Chang Yu-sheng — Wikipedia](https://en.wikipedia.org/wiki/Chang_Yu-sheng) — Entrada de Wikipedia en inglés sobre Chang Yu-sheng, registra que el MV de "Llévame a la Luna" representó a Asia como finalista en los American Music Video Awards de 1992, y su recepción en Taiwán y la escena internacional.
 
-[^4]: ["Soy el monstruo nacido del compromiso" — Chang Yu-sheng, y el otro Chang Yu-sheng — BIOS monthly](https://www.biosmonthly.com/article/11239) — Perfil en profundidad de Chang Yu-sheng en BIOS monthly, incluye la cita completa de "monstruo que nace después del compromiso (risas)" y la declaración sobre la filosofía de producción de _Karaoke Live: Taipei, Yo_: "no tenía a nadie de arriba supervisándome; lo hice a mi manera, sin restricciones". Las citas textuales de este artículo fueron verificadas contra esta fuente.
+[^4]: [Soy el monstruo tras el compromiso — Chang Yu-sheng, y el otro Chang Yu-sheng — BIOS monthly](https://www.biosmonthly.com/article/11239) — Reportaje en profundidad de BIOS monthly sobre Chang Yu-sheng, recoge su frase completa "monstruo nacido tras el compromiso (ríe)", y su confesión sobre la filosofía de producción de _Karaoke Live‧Taipéi‧Yo_: "nadie de arriba me controlaba, lo hice totalmente a mi manera"; las citas de este artículo se verifican textualmente de esta fuente.
 
-[^5]: ["Con o sin público, la obra debe representarse bien" — Lo que no sabías de Chang Yu-sheng — Taiwan Panorama](https://www.taiwan-panorama.com/Articles/Details?Guid=18f6130d-c976-472b-a600-e29ba6c1f56c&CatId=8) — Entrevista de Taiwan Panorama, documenta la inscripción de Chang Yu-sheng en el Godot Theatre Company en 1993 y la creación de _Bésame, Nana_ en 1997, incluye sus declaraciones originales sobre la dificultad de la composición interdisciplinaria del musical y la cita de Pau Casals.
+[^5]: ["Haya público o no, la obra hay que representarla bien" — El Chang Yu-sheng que no conoces — Taiwan Panorama](https://www.taiwan-panorama.com/Articles/Details?Guid=18f6130d-c976-472b-a600-e29ba6c1f56c&CatId=8) — Entrevista de Taiwan Panorama, registra su inscripción en el Teatro Godot en 1993 y la creación de _Bésame Nana_ en 1997, recoge sus palabras sobre la dificultad de la creación multidisciplinar en musical y la cita de Casals.
 
-[^6]: [_Bad Boy_, el álbum más vendido en la historia de Taiwán: el inicio del récord de 14 nominaciones a los Golden Melody de Chang Hui-mei — Fount Media](https://www.fountmedia.io/article/106491) — Documenta la historia del descubrimiento: Chang Yu-sheng iba a escuchar a Chang Hui-mei cantar en bares casi todas las noches durante aproximadamente un mes, el proceso de decisión de fichaje por Forward Music, y los datos de ventas de 1,38 millones de copias en Taiwán y 6 millones en toda Asia para _Bad Boy_.
+[^6]: [El álbum más vendido de la historia de Taiwán, _Bad Boy_! Inicio del asombroso récord de 14 nominaciones de A-mei a los Golden Melody — Fount Media](https://www.fountmedia.io/article/106491) — Registra la historia del descubrimiento: Chang Yu-sheng yendo al bar a escuchar a A-mei casi cada noche durante un mes, el proceso de decisión de fichaje de Fancy Records, y los datos de primera mano: 1,38 millones de copias en Taiwán y 6 millones en Asia para _Bad Boy_.
 
-[^7]: [Álbum _Kou Shi Xin Fei_ de Chang Yu-sheng — Blog oficial de Forward Music](https://forward-music.blog/%E5%BC%B5%E9%9B%A8%E7%94%9F_%E5%8F%A3%E6%98%AF%E5%BF%83%E9%9D%9E/) — Registro oficial de la discográfica Forward Music, confirma el lanzamiento de _Kou Shi Xin Fei_ el 16 de octubre de 1997, que Chang Yu-sheng compuso, produjo y cantó todo, que cada canción incluye un fragmento literario, el premio al Mejor Álbum Vocal de Música Popular en los Golden Melody, y el puesto 41 en la lista de los 200 mejores álbumes de la música pop taiwanesa.
+[^7]: [Álbum _Digo lo contrario de lo que pienso_ de Chang Yu-sheng — Blog oficial de Fancy Records](https://forward-music.blog/%E5%BC%B5%E9%9B%A8%E7%94%9F_%E5%8F%A3%E6%98%AF%E5%BF%83%E9%9D%9E/) — Registro oficial de la discográfica original Fancy Records, confirma lanzamiento el 1997-10-16, letra/composición/producción/interpretación totalmente a su cargo, cada canción con fragmento de historia, Golden Melody a Mejor Álbum de Interpretación Vocal Pop, puesto 41 en los 200 Mejores de la Música Pop Taiwanesa.
 
-[^8]: [¡27 años desde la muerte de Chang Yu-sheng! Su convertible quedó casi destruido al chocar; sus fans conmemoran al "hermano Bao" en el aniversario — Yahoo News](https://tw.news.yahoo.com/%E5%BC%B5%E9%9B%A8%E7%94%9F%E9%80%9D%E4%B8%9627%E5%B9%B4-%E6%98%94%E6%95%9E%E7%AF%B7%E8%BB%8A%E6%92%9E%E5%88%B0%E8%BF%91%E5%85%A8%E6%AF%80-%E7%B2%89%E7%B5%B2%E5%9C%A8%E5%BF%8C%E6%97%A5%E7%B7%AC%E6%87%B7-%E5%AF%B6%E5%93%A5-115929725.html) — Relato completo del accidente: vuelco a las 2:40 del 20 de octubre de 1997 frente al boliche Hongshulin en la carretera Tai 2 de Tamsui, estado OHCA, reanimación en la sucursal de Tamsui del Hospital Mackay, 24 días en coma, fallecimiento a las 11:48 del 12 de noviembre de 1997 por neumonía por aspiración.
+[^8]: [27 años de la muerte de Chang Yu-sheng! Su descapotable chocó y quedó casi destruido; fans recuerdan a "Bao-ge" en el aniversario — Yahoo News](https://tw.news.yahoo.com/%E5%BC%B5%E9%9B%A8%E7%94%9F%E9%80%9D%E4%B8%9627%E5%B9%B4-%E6%98%94%E6%95%9E%E7%AF%B7%E8%BB%8A%E6%92%9E%E5%88%B0%E8%BF%91%E5%85%A8%E6%AF%80-%E7%B2%89%E7%B5%B2%E5%9C%A8%E5%BF%8C%E6%97%A5%E7%B7%AC%E6%87%B7-%E5%AF%B6%E5%93%A5-115929725.html) — Crónica completa del accidente: 1997-10-20 2:40 madrugada, vuelco en carretera provincial 2 Tamsui frente a Bolera de los Manglares, estado OHCA, urgencias Hospital Mackay Tamsui, 24 días en coma, 1997-11-12 23:48 fallece por neumonía por aspiración.
 
-[^9]: [Premio a la Contribución Especial de los Golden Melody: homenaje a Chang Yu-sheng — Mirror Media](https://www.mirrormedia.mg/story/20170619ent009) — Cobertura del póstumo Premio a la Contribución Especial otorgado a Chang Yu-sheng en la 28.ª edición de los Golden Melody en 2017, confirma que es el ganador más joven en la historia de los premios; registro de la actuación de Chang Hui-mei en el escenario y las palabras entre lágrimas de la madre de Chang Yu-sheng: "Parece que es Yu-sheng quien canta".
+[^9]: [Premio Especial Golden Melody: Recordando a Chang Yu-sheng — Mirror Media](https://www.mirrormedia.mg/story/20170619ent009) — Cobertura del 28º Golden Melody 2017 otorgando póstumamente el Premio Especial de Contribución a Chang Yu-sheng, confirmando que es el ganador más joven de este premio en la historia; registro en directo de A-mei cantando en el escenario y la madre de Chang Yu-sheng entre el público diciendo con la voz rota "Siento que es Yu-sheng quien canta".

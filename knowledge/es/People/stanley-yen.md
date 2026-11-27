@@ -1,17 +1,17 @@
 ---
-title: 'Stanley Yen: de cartero en la sala de correos al padrino del turismo, y luego lo dejó todo'
-description: 'Solo bachillerato. A los 23 años repartía correo en American Express. Cinco años después era gerente general. Cinco años más tarde se convirtió en presidente de uno de los mejores hoteles de Asia, donde inventó un sistema de servicio que lograba llamar a los huéspedes por su nombre antes de que bajaran del coche. Un libro superventas con 600.000 ejemplares vendidos. A los 62 años renunció para fundar una escuela rural en Taitung; al año siguiente le extirparon un riñón. A los 78 años construyó un complejo artístico junto al Pacífico.'
+title: 'Yen Chang-shou: del asistente del correo al padrino del turismo, y luego lo dejó todo'
+description: 'Desde asistente del correo de American Express hasta presidente de The Howard Plaza Hotel, él, con solo educación secundaria, inventó un sistema de servicio en el que «los huéspedes son llamados por su nombre antes de bajar del coche», logró una tasa de retorno del 65 %, escribió el bestseller «Corazón de león del presidente» que vendió más de 600 000 ejemplares. A los 62 años renunció en la cima de la industria hotelera y se fue a Taitung, fundó la Fundación Cultural Plataforma de Bien Público, asumió la dirección de las escuelas Junyi de primaria y secundaria para impulsar la educación rural, tras la extirpación de un riñón siguió profundizando su labor en Hualien y Taitung, y a los 78 años impulsó la inauguración del Parque Artístico Jiang Xian-er en la costa Jinzun de Taitung.'
 date: 2026-04-06
 category: 'People'
 tags:
   [
-    'Stanley Yen',
-    'Landis Hotels',
-    'industria turística',
+    'Yen Chang-shou',
+    'The Howard Plaza Hotel',
+    'turismo',
     'educación rural',
-    'The Alliance Cultural Foundation',
-    'Junyi School',
-    'Paul Chiang Art Center',
+    'plataforma de bien público',
+    'escuelas Junyi',
+    'Parque Artístico Jiang Xian-er',
   ]
 subcategory: '教育與社會'
 author: 'Taiwan.md Contributors'
@@ -20,15 +20,19 @@ featured: false
 lastVerified: 2026-04-06
 lastHumanReview: true
 sporeLinks:
-  [
-    "{'id': 8, 'platform': 'threads', 'date': '2026-04-06', 'url': 'https://www.threads.com/@taiwandotmd/post/DWyqKShE4a8'}",
-    "{'id': 9, 'platform': 'x', 'date': '2026-04-06', 'url': 'https://x.com/taiwandotmd/status/2041143084583469498'}",
-  ]
+  - id: 8
+    platform: 'threads'
+    date: '2026-04-06'
+    url: 'https://www.threads.com/@taiwandotmd/post/DWyqKShE4a8'
+  - id: 9
+    platform: 'x'
+    date: '2026-04-06'
+    url: 'https://x.com/taiwandotmd/status/2041143084583469498'
 translatedFrom: 'People/嚴長壽.md'
-sourceCommitSha: '9cef725ce'
+sourceCommitSha: '72ef874049'
 sourceContentHash: 'sha256:f03fe4356a8b034b'
 sourceBodyHash: 'sha256:0511dd3ec1c7896e'
-translatedAt: '2026-09-17T20:53:52.292672+00:00'
+translatedAt: '2026-11-27T03:35:37.544747+00:00'
 ---
 
 # Stanley Yen: de cartero en la sala de correos al padrino del turismo, y luego lo dejó todo

@@ -1,15 +1,15 @@
 ---
-title: 'Chung Chao-cheng: Un hombre sin título universitario que escribió el largo río de los taiwaneses'
-description: 'Nacido en 1925 en Longtan, Taoyuan, Chung Chao-cheng interrumpió sus estudios en la Facultad de Literatura China de la Universidad Nacional de Taiwán debido a la educación en japonés y enfermedades, pero transitó desde la enseñanza primaria hasta la novela, la edición y el activismo hakka. Utilizó *La flor de glicinia* para retratar las zonas rurales y, mediante dos trilogías, preservó la memoria histórica de los taiwaneses; su literatura no solo reside en los estantes, sino que también perdura en un parque vitalicio en Longtan.'
+title: 'Chung Chao-cheng: un hombre que no completó sus estudios universitarios, escribió el largo río del pueblo taiwanés'
+description: 'Escritor nacido en Jiuzuoliao, Longtan, Taoyuan, recibió educación en japonés durante la época colonial japonesa; en 1948 ingresó en el Departamento de Chino de la Universidad Nacional de Taiwán, pero abandonó a mitad de camino debido a barreras lingüísticas y problemas de salud. Pasó de ser maestro de escuela primaria a novelista, editor y activista hakka. Escribió "Rhododendron", "La trilogía del río turbio" y "La trilogía del pueblo taiwanés", incorporando aldeas hakka, grupos indígenas y el 228 en la novela río. También preservó las obras de escritores como Chung Li-ho y, a través del "Boletín de Amigos Literarios", conectó a escritores excluidos por la publicación mainstream. Su literatura no solo está en las estanterías, sino que también permanece en el parque de vida de Longtan.'
 date: 2026-08-18
 category: 'People'
 tags:
   [
     'Chung Chao-cheng',
-    'Literatura de Taiwán',
+    'Literatura taiwanesa',
     'Literatura hakka',
     'Longtan',
-    'Novela del gran río',
+    'Novela río',
   ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
@@ -19,13 +19,13 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/鍾肇政.md'
-sourceCommitSha: '82038b29f'
-sourceContentHash: 'sha256:e30095af8a74328f'
+sourceCommitSha: 'e7e1bb5735'
+sourceContentHash: 'sha256:aa3ae97d0723ffdb'
 sourceBodyHash: 'sha256:9240eda59faf09e3'
-translatedAt: '2026-09-11T05:22:32+08:00'
+translatedAt: '2026-11-27T03:28:58.121207+00:00'
 ---
 
-> **Resumen en 30 segundos:** Chung Chao-cheng no es un autor que haya ingresado al mundo literario por un camino académico lineal. Recibió educación en japonés durante el periodo de dominio colonial japonés y solo aprendió chino mandarín después de la guerra; ingresó a la Facultad de Literatura China de la Universidad Nacional de Taiwán en 1948, pero abandonó la carrera a mitad del camino debido a las barreras lingüísticas y problemas de salud, aunque posteriormente logró escribir _La flor de glicinia_ (Lubinghua), la _Trilogía del Río Turbio_ (Zhuoliu Sanbuqu) y la _Trilogía de los Taiwaneses_ (Taiwanren Sanbuqu), integrando las aldeas hakka, los grupos indígenas y la historia moderna de Taiwán en sus novelas extensas. [^1] [^2] [^3]
+> **Resumen en 30 segundos:** Chung Chao-cheng no llegó al mundo literario por una trayectoria académica convencional. Recibió educación en japonés durante la época colonial japonesa y solo reaprendió chino después de la guerra; ingresó en el Departamento de Chino de la Universidad Nacional de Taiwán en 1948, pero abandonó los estudios a mitad de camino debido a barreras lingüísticas y problemas de salud; no obstante, escribió más tarde 《魯冰花》、〈濁流三部曲〉與《臺灣人三部曲》, incorporando aldeas hakka, pueblos indígenas y la historia moderna de Taiwán en sus novelas de larga extensión.[^1] [^2] [^3]
 
 ## Prólogo: Preguntar primero quién puede dejar memoria para Taiwán
 

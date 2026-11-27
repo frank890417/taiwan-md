@@ -1,14 +1,14 @@
 ---
-title: 'Chuang Chu Yu-nu: de la mesa gratuita para los estibadores al bento de NT$10 por el que vendió siete casas'
-description: 'En 1951, Chuang Chu Yu-nu instaló una cocina junto al puerto de Kaohsiung para ofrecer comidas gratuitas a los estibadores necesitados. Esta abuela, conocida como la «diosa protectora de los pobres», durante los siguientes cincuenta años insistió en servir un bufé ilimitado a un precio de NT$10, llegando a vender siete propiedades para cubrir los gastos, convirtiendo «que la gente coma hasta saciarse» en su fe de toda la vida.'
+title: 'Chuang Chu Yu-nü: de la mesa gratuita de los estibadores al bento de NT$10 tras vender siete propiedades'
+description: 'La abuela del autoservicio de NT$10 junto al puerto de Kaohsiung, desde 1951 instaló fogones junto a su propio almacén para ofrecer comidas gratuitas a los trabajadores del muelle que venían de Penghu a ganarse la vida; más tarde, debido a los gastos, comenzó a cobrar NT$10, pero seguía sirviendo a diario pescado fresco, carne guisada, verduras y sopa caliente a voluntad. Vendió siete propiedades para sostener este negocio deficitario; el puesto se trasladó junto al viaducto del parque Yancheng. Cuando falleció en 2015 a los 96 años, más de tres mil personas acudieron a despedirla; su isla natal, Qimei en Penghu, luego le erigió una estatua y creó un parque conmemorativo.'
 date: 2026-04-29
 category: 'People'
 tags:
   [
-    'filántropo',
+    'filántropa',
     'Kaohsiung',
-    'bento de NT$10',
-    'Chuang Chu Yu-nu',
+    'Bento de NT$10',
+    'Chuang Chu Yu-nü',
     'bienestar social',
     'Penghu',
   ]
@@ -21,10 +21,10 @@ readingTime: 10
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/莊朱玉女.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '72ef874049'
 sourceContentHash: 'sha256:877ba646499c2433'
 sourceBodyHash: 'sha256:59833698754e5cb0'
-translatedAt: '2026-11-04T23:55:13.199337+00:00'
+translatedAt: '2026-11-27T04:10:37.798329+00:00'
 ---
 
 > **Resumen de 30 segundos:** Chuang Chu-yu-nu (1920‑2015) es una famosa filántropa de Taiwán, conocida por operar durante años el «bufé de diez dólares» bajo el puente del parque de Kaohsiung. Al principio ofrecía comidas gratuitas a los trabajadores del puerto de su tierra natal, pero, ante los altos costos, empezó a cobrar diez dólares, manteniendo siempre la política de «comida ilimitada» sin buscar ganancias. Vendió siete inmuebles para financiar su labor; su funeral reunió a más de tres mil personas, y su espíritu sigue siendo un símbolo de calidez en la sociedad de Taiwán.

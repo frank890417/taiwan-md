@@ -1,15 +1,15 @@
 ---
-title: 'Hsu Shu-ching: de Lunbei en 1991, la primera atleta de Taiwán con dos medallas de oro olímpicas en levantamiento de pesas (53 kg)'
-description: 'Nacida el 9 de mayo de 1991 en una familia Hakka en Lunbei, condado de Yunlin, con una estatura de 159 cm. En los Juegos Olímpicos de Londres 2012, obtuvo inicialmente la plata en la categoría de 53 kg con 219 kg (96+123); tras la descalificación por dopaje de la ganadora Zhao Changling (Kazajistán), fue ascendida al oro en diciembre de 2020. En Río 2016, ganó el oro directamente con 212 kg (100+112). Es la primera taiwanesa en lograr el doble oro olímpico. Se retiró el 3 de junio de 2018. En 2019, recibió una suspensión de tres años por un control de dopaje en 2017 (sin afectar sus medallas olímpicas).'
+title: 'Hsu Shu-ching: Nacida en Lunbei en 1991, la primera atleta taiwanesa en ganar dos medallas de oro olímpicas en la categoría de 53 kg de levantamiento de pesas'
+description: 'Levantadora de pesas proveniente de una familia hakka en Lunbei, Yunlin, que ascendió paso a paso en el sistema deportivo base de Taiwán gracias a sus resultados. En los Juegos Olímpicos de Londres 2012, ganó la plata en la categoría de 53 kg con un total de 219 kg, pero debido a que la ganadora del oro reprobó el control antidopaje, finalmente recibió la medalla de oro en diciembre de 2020. En los Juegos Olímpicos de Río 2016, logró el oro directo al completar con éxito sus tres intentos en arranque y un total de 212 kg, convirtiéndose en la primera atleta taiwanesa con dos medallas de oro olímpicas. Tras retirarse en 2018 debido a una lesión de rodilla, se convirtió en entrenadora; su primera medalla de oro tardó ocho años en llegar, una situación especial causada por los problemas de dopaje en el deporte internacional.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Deportes',
+    'deportes',
     'levantamiento de pesas',
     'Juegos Olímpicos',
     'medalla de oro',
-    'categoría 53 kg',
+    'categoría de 53 kg',
     'Yunlin',
   ]
 subcategory: '體育'
@@ -21,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/許淑淨.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'e7e1bb5735'
 sourceContentHash: 'sha256:81d60bf0143f4da3'
 sourceBodyHash: 'sha256:a8a07476ede69bdb'
-translatedAt: '2026-11-05T04:19:30+08:00'
+translatedAt: '2026-11-27T04:12:29.423084+00:00'
 ---
 
 # Hsu Shu-ching: de Lunbei en 1991, la primera atleta de Taiwán con dos medallas de oro olímpicas en levantamiento de pesas (53 kg)

@@ -1,19 +1,19 @@
 ---
-title: 'Hong Ni: De la biblioteca de Fangyuan a las calles de HahaTai, tres nombres compartiendo un lápiz'
-description: 'Hong Jie-ni (洪婕倪), nacida en la línea costera de Changhua y criada en Fangyuan, se hace conocida como "Jenny" en las intervenciones callejeras de HahaTai, y escribe bajo el nombre de "Hong Ni", organizando temas familiares, la vida fuera de su ciudad natal, su aprendizaje como panadera y sus emociones no reveladas. Entre 〈¿Es dulce el melón?〉 y 《La persona que vende sandías》, se esconde la forma en que una creadora coloca el trabajo público y la escritura íntima en el mismo mapa vital.'
+title: 'Hong Ni: de la Biblioteca de Fangyuan a las calles de HaHaTai, tres nombres comparten una pluma'
+description: 'Como "Jeni" en HaHaTai, planifica programas y realiza entrevistas callejeras a extraños; como "Hong Ni", escribe ensayos sobre su madre, sus años como migrante en el norte y su aprendizaje como panadera. Nacida en 1996 en Fangyuan, Changhua, graduada en Comunicación Pública de la Universidad Shih Hsin, tras trabajar unos años en programas de televisión se volcó al video en internet. Con "¿Dulce la sandía?" ganó el Premio de Pequeña Prosa del Premio Literario Lin Rong-san, y con "El superhombre del pan", gestado durante siete años, obtuvo una mención honorífica en el premio de ensayo. El apodo "Hong Ma Ni", surgido de un error ortográfico en la primaria, también aparece en su primer libro de ensayos "El vendedor de sandías".'
 date: 2026-08-27
 category: 'People'
 tags:
   [
     'Hong Ni',
-    'Hong Jie-ni',
-    'Jenny',
-    'Hong Ma-ni',
-    'HahaTai',
-    'prosa',
-    'línea costera de Changhua',
-    'Premio Literario Lin Rongsan',
-    'publicación y medios',
+    'Hong Jie Ni',
+    'Jeni',
+    'Hong Ma Ni',
+    'HaHaTai',
+    'ensayo',
+    'Línea costera de Changhua',
+    'Premio Literario Lin Rong-san',
+    'Publicación y medios',
   ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
@@ -27,10 +27,10 @@ imageCredit: 'Steve Evans / Wikimedia Commons'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Watermelons.jpg'
 translatedFrom: 'People/洪婕倪.md'
-sourceCommitSha: 'e974b4c9e'
+sourceCommitSha: '72ef874049'
 sourceContentHash: 'sha256:8351d05a79dba790'
 sourceBodyHash: 'sha256:f76990887dfd2b78'
-translatedAt: '2026-09-08T00:42:49+08:00'
+translatedAt: '2026-11-27T03:53:20.139372+00:00'
 ---
 
 # Hong Ni: De la biblioteca de Fangyuan a las calles de HahaTai, tres nombres compartiendo un lápiz
