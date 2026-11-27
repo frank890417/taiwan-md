@@ -1,27 +1,29 @@
 ---
-title: 'Chang Yu-sheng: From Idol to Prophet, a Musical Experiment That Crossed Generations'
-description: "In 1989, the son of an army entertainment troupe leader debuted with 'Miss You Every Day' selling 350,000 copies and became an idol; in 1994, he responded to the market with a 73-minute live band recording that sold dismally but was later called prophetic. Chang Yu-sheng spent nine years grinding between his idol identity and his creative conscience — four days after 'Mouth Says No, Heart Says Yes' went on sale, he crashed his car in the Tamsui pre-dawn hours and never woke up."
+title: 'Chang Yu-sheng: From Idol to Visionary, a Musical Experiment Spanning Eras'
+description: 'Singer-songwriter and producer, his father was the captain of the Tianma Art Troupe and his mother was Atayal. After his older sister Chang Yu-hsien drowned at age 15, he entered the music industry to fulfill her musical dream; in 1989, with "Think of You Every Day" selling 350,000 copies, he became an idol. In 1994, he released the 73-minute band live recording album "Karaoke Live • Taipei • Me"; sales were dismal, yet he called it a "tragic classic." His productions "Sisters" and "Bad Boy" propelled A-mei to diva status. In 1997, four days after the release of "Insincere Words," he died in a car accident in Tamsui at age 31, and was posthumously awarded the Special Contribution Award at the 2017 Golden Melody Awards.'
 date: 2026-04-18
+category: 'People'
 tags:
-  - 'Chang Yu-sheng'
-  - 'Taiwan Pop Music'
-  - 'Singer-Songwriter'
-  - 'Karaoke Live Taipei Me'
-  - 'Kiss Me Nana'
-  - 'A-mei'
-category: People
+  [
+    'Chang Yu-sheng',
+    'Taiwanese pop music',
+    'singer-songwriter',
+    'Karaoke Live • Taipei • Me',
+    'Kiss Me Nana',
+    'A-mei',
+  ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md Contributors'
 featured: false
-readingTime: 14
 lastVerified: 2026-04-19
 lastHumanReview: true
 researchReport: 'reports/research/2026-04/張雨生.md'
+readingTime: 14
 translatedFrom: 'People/張雨生.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: 'fc0798f30d'
 sourceContentHash: 'sha256:f4eb416f9486c9fa'
 sourceBodyHash: 'sha256:fa4f2d152a7b850d'
-translatedAt: '2026-05-01T12:53:58+08:00'
+translatedAt: '2026-11-27T03:58:19.818860+00:00'
 ---
 
 > **30-second overview:** Chang Yu-sheng's father Chang Chien-min was the leader of the Pegasus entertainment troupe, his mother a Tayal Indigenous woman. He was born into a stretch of continuous rain in Penghu, which is why he was named "Yu-sheng" (Rain-born). In 1989 he debuted with his first personal album _Miss You Every Day_ selling 350,000 copies; in 1994 he answered the market's expectations with an experimental album of 73-minute continuous live-band recording that sold dismally — he called it "a classic catastrophe." In 1997 he personally propelled an Indigenous woman singing in bars toward the queen's throne. On October 16, his album _Mouth Says No, Heart Says Yes_ was released — the first time he had handled lyrics, composition, production, and performance entirely himself; four days later he crashed his car in the Tamsui pre-dawn hours and never woke up again.

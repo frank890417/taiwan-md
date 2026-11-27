@@ -1,17 +1,17 @@
 ---
-title: "Stanley Yen: From the Mailroom to Taiwan's Godfather of Tourism — Then He Gave It All Up"
-description: "High school diploma. Mailroom clerk at 23. General manager at 28. President of Asia's finest boutique hotel at 32 — where he invented a system that greeted every guest by name before they stepped out of the car. 600,000 copies of a bestseller. Then at 62, he quit to build schools in rural Taitung. Then cancer. Then an art center on the Pacific coast."
+title: 'Chang-Shou Yen: From Mailroom Clerk to Tourism Godfather, and How He Let It All Go'
+description: 'From working as a mailroom clerk at American Express to becoming the President of Palais de Chine, despite having only a high school education, he invented a service system where "guests are greeted by name before they even step out of their cars," achieving a 65% return rate and writing the bestseller "The President''s Lion Heart" with over 600,000 copies sold. At age 62, he resigned from the peak of the hotel industry to move to Taitung, founded the Public Platform Cultural Foundation, and took over Junyi School to promote rural education. Even after undergoing surgery to remove a kidney, he continued his deep commitment to the flowers and eastern regions, and at age 78, he promoted the opening of the Jiang Hsien-er Art Park on Taitung''s Golden Chalice Coast.'
 date: 2026-04-06
 category: 'People'
 tags:
   [
-    'Stanley Yen',
-    'Landis Taipei',
-    'tourism',
-    'rural education',
-    'Alliance Cultural Foundation',
+    'Chang-Shou Yen',
+    'Palais de Chine',
+    'Tourism Industry',
+    'Rural Education',
+    'Public Platform',
     'Junyi School',
-    'Paul Chiang Art Center',
+    'Jiang Hsien-er Art Park',
   ]
 subcategory: '教育與社會'
 author: 'Taiwan.md Contributors'
@@ -20,15 +20,19 @@ featured: false
 lastVerified: 2026-04-06
 lastHumanReview: true
 sporeLinks:
-  [
-    "{'id': 8, 'platform': 'threads', 'date': '2026-04-06', 'url': 'https://www.threads.com/@taiwandotmd/post/DWyqKShE4a8'}",
-    "{'id': 9, 'platform': 'x', 'date': '2026-04-06', 'url': 'https://x.com/taiwandotmd/status/2041143084583469498'}",
-  ]
+  - id: 8
+    platform: 'threads'
+    date: '2026-04-06'
+    url: 'https://www.threads.com/@taiwandotmd/post/DWyqKShE4a8'
+  - id: 9
+    platform: 'x'
+    date: '2026-04-06'
+    url: 'https://x.com/taiwandotmd/status/2041143084583469498'
 translatedFrom: 'People/嚴長壽.md'
-sourceCommitSha: '9cef725ce'
+sourceCommitSha: '72ef874049'
 sourceContentHash: 'sha256:f03fe4356a8b034b'
 sourceBodyHash: 'sha256:0511dd3ec1c7896e'
-translatedAt: '2026-09-17T21:36:45.412748+00:00'
+translatedAt: '2026-11-27T03:34:14.758871+00:00'
 ---
 
 # Stanley Yen: From the Mailroom to Taiwan's Godfather of Tourism — Then He Gave It All Up

@@ -1,16 +1,16 @@
 ---
-title: 'The Idiot Princess: From Mosaic to Producer, Laughter Is Not Her Whole Story'
-description: 'Starting from voice-over assignments at the Department of Broadcasting and Television, National Taiwan University of Arts, The Idiot Princess first hid behind a mosaic, then turned scriptwriting, filming, and editing into a solo workflow. She later built a team, produced shows, opened a café, and ventured into film, always seeking her place between "playing the fool" and speaking seriously.'
+title: 'Idiot Princess: From Mosaics to Producer, Laughter is Not Her Everything'
+description: 'A voice actor and content creator graduated from the Department of Radio and Television at Taipei Arts University. Starting from university dubbing assignments, parody dubbing, and mosaic-style videos, she transitioned to original programming due to copyright restrictions, gradually stepping in front of the camera. Handling everything from planning and filming to editing by herself, she later formed a team, produced the quiz show "Duo Li Duo Zhi," opened a cafe in Shezidao, and ventured into film acting. She constantly navigates between being "silly" and maintaining professionalism, searching for a sustainable position in her career.'
 date: 2026-08-20
 category: 'People'
 tags:
   [
-    'The Idiot Princess',
+    'Idiot Princess',
     'Dai Ping-ya',
     'YouTuber',
-    'Online Creator',
+    'Internet Creator',
     'Female Creator',
-    'Taiwan Culture',
+    'Taiwanese Culture',
   ]
 subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
@@ -20,33 +20,33 @@ lastHumanReview: false
 readingTime: 15
 curation: 'incubating'
 translatedFrom: 'People/白癡公主.md'
-sourceCommitSha: '4c2e1c233'
-sourceContentHash: 'sha256:57f32564152ce686'
-sourceBodyHash: 'sha256:0482ecaa622a6229'
-translatedAt: '2026-09-11T09:22:37+08:00'
+sourceCommitSha: 'fd2854dbad'
+sourceContentHash: 'sha256:0e7a79763287a5ac'
+sourceBodyHash: 'sha256:d7c9ce93611e7e78'
+translatedAt: '2026-11-27T04:17:00.448549+00:00'
 ---
 
-> **30-Second Overview:**
-> The Idiot Princess (Dai Ping-ya) did not start with a pre-set "influencer persona" to run her channel. She began with voice-over assignments at the Department of Broadcasting and Television, National Taiwan University of Arts, first hiding her face behind a mosaic, then transforming parodic voice-overs originally restricted by copyright into original programs she could control. [^1][^2]
-> Her most distinctive trait is not making videos the fastest, but incorporating planning, filming, editing, performance, and self-deprecation into a single creative method. As she moved from a solo worker to a team member and producer, a real question emerged: Do audiences like the character "The Idiot Princess," or do they like the work Dai Ping-ya wants to complete seriously? [^3][^4]
->
-> 📝 Curator’s Note: This article does not treat "The Idiot Princess" as a collection of single jokes, but places her back into the labor history of Taiwan’s online creators. The mosaic, editing software, camera, team, and actor training are all the working conditions behind the character.
+> **30-second Overview:**
+> The Idiot Princess (Dai Ping-ya) did not start with a "net idol persona" before managing her channel. Starting from voice-over assignments in the Department of Radio and Television at the University of Arts in Taiwan, she first hid her face behind mosaics, then transformed parody dubbing—which was originally restricted by copyright—into original programming that she could fully control. [^1][^2]
+> Her most recognizable trait is not making every video as quickly as possible, but rather integrating planning, filming, editing, performing, and self-deprecation into a single creative methodology. As she transitioned from a solo creator to leading a team and acting as a producer, real questions emerged: Do audiences love the character "The Idiot Princess," or do they value the serious works Dai Ping-ya strives to complete? [^3][^4]
 
-The Idiot Princess’s channel is most easily remembered for its punchlines. She used a lazy vocal tone to dub Disney princesses with completely unseemly lines; after revealing her face, she used her appearance, body, and "unprofessionalism" for self-deprecation. However, if you only see her as a YouTuber who pleases audiences with low-brow jokes, you miss the most interesting part of this figure. What she has actually been cultivating long-term is the idea that "I can turn imperfection into a working method."
+📝 Curator's Note: This article does not treat "The Idiot Princess" merely as a collection of jokes; instead, it places her within the labor history of Taiwanese internet creators. Mosaics, editing software, cameras, teams, and actor training are all the working conditions behind the character.
 
-In a 2021 Newtalk report on her collaboration with the Taiwan Family Medicine Medical Association, her channel already had over 1.53 million subscribers. This number illustrates the scale of her reach at the time but cannot be directly equated with influence. What is truly worth observing is how she took a channel founded on parodic voice-overs into different scenarios such as health education, quiz shows, and film. [^14]
+What is most easily remembered about The Idiot Princess's channel are the punchlines. She uses a lazy vocal tone to dub Disney princesses with completely undignified lines, and after showing her face, she uses her appearance, physique, and "unprofessionalism" as subjects for self-deprecation. However, if one views her only as a YouTuber who pleases audiences with low-brow jokes, they will miss the most interesting part of this individual. What she has truly cultivated over the long term is the concept that "I can turn imperfection into a working methodology."
 
-## Hiding Behind the Mosaic First, Then Having the Chance to Step in Front of the Lens
+When Newtalk reported on her collaboration with the Taiwan Academy of Family Medicine in 2021, her channel had already surpassed 1.53 million subscribers. While this figure illustrates her reach at the time, it cannot be directly equated to influence. What is truly worth observing is how she transitioned a channel that started with parody dubbing into diverse settings such as health education, quiz shows, and film. [^14]
 
-The Idiot Princess’s early creative work started with voice-over assignments during university. She and partners from the same school re-dubbed Disney animations, and the videos gained significant attention online. Later, she continued to produce content on weekends, gradually adding series on cooking, daily life, and collaborations from simple parodic voice-overs. She did not initially decide to become a full-time YouTuber; rather, she slowly confirmed between her original work and continuous creation that what she wanted to do was image work where she could control the content. [^1][^5]
+## Hiding Behind Mosaics Before Stepping in Front of the Lens
 
-The mosaic was not just a visual punchline, but also a psychological distance. She once said she was afraid of being attacked when stepping in front of the screen, especially having her appearance scrutinized. Between 2016 and 2017, her path from not showing her face, to blurring it, to officially appearing on camera was not a sudden "unlock," but a practice of repeatedly placing her creative ability onto her own person. [^1][^6]
+The Idiot Princess's early creative work began with voice-over assignments during her university years. Alongside classmates, she re-dubbed Disney animations, and the videos garnered significant attention online. She continued to produce content on weekends, gradually expanding from simple parody dubbing into series featuring cooking, daily life, and collaborations. She did not set out to become a full-time YouTuber from the beginning; rather, through the balance of her original job and continuous creation, she slowly realized that what she truly wanted was a career in video production where she could maintain control over the content. [^1][^5]
 
-This turning point also had very realistic reasons. Early voice-over content was limited by secondary creation and copyright restrictions, making it impossible to extend themes infinitely. In an interview published by the Taipei City Employment Service Office, she was direct about the shift to original content: "I want to produce my own programs, create my own content." [^2] Revealing her face was therefore not to make the channel look better, but to allow her to put all her experiences, observations, and performances into her work.
+The mosaics were not merely a visual gag, but also a psychological buffer. She once mentioned that she feared being attacked if she stepped in front of the screen, particularly regarding her appearance being scrutinized. Between 2016 and 2017, her journey from never showing her face, to using mosaics, to finally appearing on camera was not a sudden "unlocking," but rather a series of practices in applying her creative abilities to her own persona. [^1][^6]
 
-![A camera with a flip screen, symbolizing the Idiot Princess accumulating image work starting from equipment and post-production](https://upload.wikimedia.org/wikipedia/commons/4/41/Video_Camera.JPG)
+This transition also had very practical reasons. Early voice-over content was limited by derivative work and copyright restrictions, meaning the subject matter could not be extended indefinitely. In an interview published by the Taipei City Employment Service Office, she stated her shift toward original content quite directly: "I want to produce my own shows and create my own content." [^2] Showing her face, therefore, was not about making the channel look better, but about allowing her to pour her entire experience, observations, and performances into her work.
 
-_Image caption: Camera illustration. Author Popperipopp, original page [Wikimedia Commons — File:Video Camera.JPG](https://commons.wikimedia.org/wiki/File:Video_Camera.JPG), author released to worldwide public domain. This image is not a photo of The Idiot Princess herself or her equipment._
+![A camera with a flip-out screen, symbolizing The Idiot Princess's accumulation of video production skills starting from equipment and post-production](https://upload.wikimedia.org/wikipedia/commons/4/41/Video_Camera.JPG)
+
+_Image caption: Illustration of a camera. Author Popperipopp, original image from [Wikimedia Commons — File:Video Camera.JPG](https://commons.wikimedia.org/wiki/File:Video_Camera.JPG), released to the worldwide public domain. This image is not a photo of The Idiot Princess herself or her actual equipment._
 
 ## Beneath the "Buddhist" Surface, Work Is Very Slow
 
@@ -72,31 +72,31 @@ She collaborated with Li Ke Tai Tai (Dr. Mom) to produce the quiz show _More Rea
 
 She also opened a café she had long wanted to open on Shizi Island, filming the process of finding a shop, selecting products, and opening the store as a series. The store later closed due to lease issues, but she did not hide this experience. Failure in her channel could still become material, but not consumed and forgotten; rather, it left a trace of "I really did it." [^5][^8]
 
-## The 70,000 NTD Camera: Creation Does Not Start with Traffic
+## The NT$70,000 Camera: Creation Does Not Start with Traffic
 
-The Idiot Princess’s entrepreneurial story did not start with an investment or a successful business plan. Looking back at her university days, she mentioned that for half a year she ate 20 NTD instant noodles for three meals, sustaining her life with part-time jobs and freelance projects. Later, she and friends entered a Miaoli tourism short film competition, and the team won a 70,000 NTD prize. Her friend left most of the prize money for her to buy a DSLR camera. That camera was not a symbolic prop, but the actual equipment that allowed her to continue filming, editing, and accumulating work later. [^12]
+The Idiot Princess's entrepreneurial story did not begin with a large investment or a successful business plan. Reflecting on her university years, she mentioned that for half a year, she lived on NT$20 instant noodles for three meals a day, surviving on odd jobs and freelance projects. Later, she and her friends participated in a Miaoli tourism short film competition; the team won a NT$70,000 prize, and her friend left most of that prize money to her to purchase a DSLR camera. That camera was not a symbolic prop, but the actual equipment that allowed her to continue filming, editing, and accumulating works. [^12]
 
-This experience is worth understanding before "million-dollar income." Media headlines easily link 70,000 NTD with million-dollar income into an upward curve, but the report content was actually a start full of instability: no fixed salary, rent and living expenses, even needing to borrow 1,000 NTD from colleagues to get through a month. She stayed not because she knew from the start which video would go viral, but by turning limited prize money into a reusable production tool. [^12]
+This experience is worth understanding before discussing "million-dollar income." Media headlines tend to link the NT$70,000 to million-dollar incomes as a single upward curve, but the actual report describes an unstable start: no fixed salary, rent and living expenses to cover, and even needing to borrow NT$1,000 from a colleague to get through a month. She was able to persevere not because she knew from the start which video would go viral, but because she converted limited prize money into reusable production tools. [^12]
 
-📝 Curator’s Note: "70,000 NTD births million-dollar income" is easily read as an inspirational formula, but what is truly valuable in the article is not the return multiple, but how equipment changes a person's feasible scope. The camera allowed her to continue producing, but could not bear unstable income, long post-production hours, and audience evaluation for her.
+📝 Curator's Note: "NT$70,000 generating million-dollar income" is easily read as an inspirational formula, but the true value in this article is not the multiplier of returns, but how equipment changes a person's range of possibility. The camera allowed her to produce content continuously, but it could not shoulder the unstable income, long hours of post-production, or audience critiques for her.
 
-For online creators, equipment is often imagined as a consumer good. The Idiot Princess’s story reminds people that early equipment could also be a working condition. The DSLR allowed her to shoot videos, but did not write scripts, perform, edit, or bear negative comments for her. What truly formed the channel's特色 (characteristic) was that she connected the equipment to a workflow controlled by herself.
+For online creators, equipment is often imagined as a consumer good. The Idiot Princess's story serves as a reminder that early-stage equipment can also be a condition of labor. A DSLR allowed her to film, but it did not write scripts, perform, edit, or bear negative reviews for her. What truly formed the channel's unique character was how she integrated that hardware into a workflow under her own control.
 
-![A Kodak Nr. 1 camera, symbolizing the 70,000 NTD prize being turned into equipment for continuous work](https://upload.wikimedia.org/wikipedia/commons/5/50/Kodak_nr_1.jpg)
+![A Kodak Nr. 1 camera, symbolizing the NT$70,000 prize being converted into equipment for continuous work](https://upload.wikimedia.org/wikipedia/commons/5/50/Kodak_nr_1.jpg)
 
-_Image caption: Camera illustration. Author Bronger, original page [Wikimedia Commons — File:Kodak nr 1.jpg](https://commons.wikimedia.org/wiki/File:Kodak_nr_1.jpg), under CC0 1.0 Universal. This image is not the DSLR camera The Idiot Princess bought back then._
+_Image caption: Illustration of a camera. Author Bronger; original image from [Wikimedia Commons — File:Kodak nr 1.jpg](https://commons.wikimedia.org/wiki/File:Kodak_nr_1.jpg), used under CC0 1.0 Universal. This image is not the DSLR camera purchased by The Idiot Princess back then._
 
-## From Solo Editing to Team Office
+## From Solo Editing to a Team Office
 
-When the channel scale grew, the question was not just "whether to hire people," but whether a creator could admit that a program does not have to grow entirely on its own. Around 2022, The Idiot Princess collaborated with the Li Ke Tai Tai team to produce the large-scale quiz show _More Reason More Knowledge_ (Duo Li Duo Zhi). A _CTWANT_ report placed this collaboration in the context of the Li Ke Tai Tai team expanding and moving to a new office; The Idiot Princess's team also moved in. [^13]
+As the scale of a channel grows, the question is no longer just "whether to hire people," but whether a creator can admit that a show does not have to be entirely their own creation. Around 2022, The Idiot Princess collaborated with Li Ke Tai Tai's team to produce the large-scale quiz show 《多理多知》 (Duo Li Duo Zhi). A report by CTWANT placed this collaboration within the context of Li Ke Tai Tai's team expanding and moving into a new office, where The Idiot Princess's team also moved in. [^13]
 
-This change was different from her past solo mode. Early on, she explained her unwillingness to easily hand over editing and rhythm by saying "I can't find a second me," but large-scale programs require hosting, question design, photography, post-production, stage management, and coordination to operate simultaneously. Moving from one person finishing a video to having to let others understand the program she wants to make is management ability beyond creative ability.
+This shift differed from her previous solo mode. In her early days, she used the phrase "cannot find a second me" to explain her reluctance to easily hand over editing and pacing; however, large-scale shows require hosting, question design, cinematography, post-production, floor management, and coordination to function simultaneously. She moved from completing a single video by herself to having to make others understand the kind of show she wanted to create—a transition involving management skills beyond mere creative ability.
 
-_More Reason More Knowledge_ was not written as a route where success is inevitable just by expanding scale. The more important harvest was that The Idiot Princess began to think from the position of a producer: Can a creator turn the personal style familiar to audiences into a program language completed by multiple people? This also allowed her, when venturing into film later, to be not just an "influencer found to act," but someone already familiar with how a work goes from planning to finished product.
+_Duo Li Duo Zhi_ was not framed as a path where scaling up inevitably leads to success. A more significant achievement was that The Idiot Princess began thinking from the position of a producer: whether a creator can transform their familiar personal style into a programmatic language achieved through collective effort. This also ensured that when she later ventured into film, she was not merely an "influencer hired to act," but someone already familiar with how a work moves from planning to finished product.
 
-![A portable camera, symbolizing The Idiot Princess moving from solo filming to team production](https://upload.wikimedia.org/wikipedia/commons/f/ff/Camcorder.jpg)
+![A portable camcorder, symbolizing The Idiot Princess's transition from solo filming to team production](https://upload.wikimedia.org/wikipedia/commons/f/ff/Camcorder.jpg)
 
-_Image caption: Camera illustration. Author Baum332, original page [Wikimedia Commons — File:Camcorder.jpg](https://commons.wikimedia.org/wiki/File:Camcorder.jpg), under CC BY-SA 3.0 Unported. This image is not The Idiot Princess team's office or actual shooting site._
+_Image description: Illustration of a camera. Author Baum332, original image page is [Wikimedia Commons — File:Camcorder.jpg](https://commons.wikimedia.org/wiki/File:Camcorder.jpg), used under CC BY-SA 3.0 Unported. This image is not the office or actual filming set of The Idiot Princess's team._
 
 ## When Comedy Enters Public Communication, Punchlines No Longer Belong Only to the Creator
 

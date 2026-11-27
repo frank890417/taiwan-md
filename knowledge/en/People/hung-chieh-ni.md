@@ -1,19 +1,19 @@
 ---
-title: 'Hong Ni: Three Names Sharing One Pen, From Fangyuan Library to HahaTai Streets'
-description: 'Hong Jie-ni (洪婕倪), born in Changhua Haixian and raised in Fangyuan, operates under the names "Jenny" for street interviews in HahaTai, and "Hong Ni" when organizing family life, migrant experiences, baking apprenticeship, and growth. Between short stories like *Is the Watermelon Sweet?* and *The Melon Seller*, lies an author''s method of placing public work and intimate writing on the same life map.'
+title: 'Hong Ni: From Fangyuan Library to the Streets of Haha Taiwan, Three Names Sharing One Pen'
+description: 'As "Jeni" she plans programs and hosts street interviews on Haha Taiwan; as "Hong Ni" she writes essays about her mother, her years drifting in the north, and her time as a bread apprentice. Born in 1996 in Fangyuan, Changhua, a graduate of Shih Hsin University''s Department of Radio and Television, she worked in TV production for several years before turning to online video. She won the Essay Award at the Lin Rong-san Literary Awards with "Is the Watermelon Sweet?", and an Honorable Mention in the Essay Category with the seven-year-gestated "Bread Superman". The nickname "Hong Ma Ni", originating from a childhood typo, is also included in her first essay collection, "The Melon Seller".'
 date: 2026-08-27
 category: 'People'
 tags:
   [
     'Hong Ni',
-    'Hong Jie-ni',
-    'Jenny',
-    'Hong Ma-ni',
-    'HahaTai',
-    'prose',
-    'Changhua Haixian',
-    'Lin Rongsan Literary Award',
-    'publishing and media',
+    'Hong Jie Ni',
+    'Jeni',
+    'Hong Ma Ni',
+    'Haha Taiwan',
+    'Essays',
+    'Changhua Coastal Line',
+    'Lin Rong-san Literary Award',
+    'Publishing and Media',
   ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
@@ -27,10 +27,10 @@ imageCredit: 'Steve Evans / Wikimedia Commons'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Watermelons.jpg'
 translatedFrom: 'People/洪婕倪.md'
-sourceCommitSha: 'e974b4c9e'
+sourceCommitSha: '72ef874049'
 sourceContentHash: 'sha256:8351d05a79dba790'
 sourceBodyHash: 'sha256:f76990887dfd2b78'
-translatedAt: '2026-09-08T00:42:45+08:00'
+translatedAt: '2026-11-27T03:50:49.454944+00:00'
 ---
 
 # Hong Ni: From Fangyuan Library to HahaTai Streets, Three Names Share One Pen

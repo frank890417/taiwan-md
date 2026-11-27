@@ -1,24 +1,22 @@
 ---
-title: 'Lu Yen-hsun: From Wimbledon Quarterfinals to Five Olympics, the Man Who Took Taiwanese Tennis the Farthest'
-description: 'At the 2010 Wimbledon Championships, Lu Yen-hsun defeated seventh seed Andy Roddick to become the first male player from Taiwan to reach a Grand Slam quarterfinal. From Athens 2004 to Tokyo 2021, he competed in five consecutive Olympic Games without missing a single edition—the farthest-traveling player in the history of modern Taiwanese tennis. After retiring, he founded a tennis academy, continuing to wait for a young Taiwanese player who might one day surpass his Wimbledon record.'
+title: 'Lu Yen-hsun: From Wimbledon Quarterfinals to Five Olympics, the Man Who Went Furthest in Taiwan Tennis'
+description: "Taiwan's most outstanding male tennis player in history, born in 1983, started playing at age 6, decided to turn pro at 17. At the 2010 Wimbledon Championships, he advanced from qualifying to the main draw, and in the fourth round defeated 7th seed Roddick 3-2, becoming the first Taiwanese player to reach a Grand Slam men's singles quarterfinal; he said his first time stepping onto that grass was for his father. From the 2004 Athens Olympics to the 2021 Tokyo Olympics, he competed in five consecutive Games. After retirement, he founded the International Tennis Academy at Chang Jung Christian University, so that the next Taiwanese player to walk his path would already have a map."
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
+tags: ['Sports', 'Tennis', 'Olympics', 'Wimbledon', 'Professional Tennis']
 subcategory: '體育'
-tags: ['體育', '網球', '奧運', '溫布頓', '職業網球']
-readingTime: 7
-#   whats_excluded: "ATP 排名逐年細節；與台灣網球協會的公開摩擦；訓練方式與技術分析細節"
-#   where_it_hedges: "出生地（台北或桃園/三重各有資料，採最廣泛引用說法）；1966年溫哥華100公尺世界紀錄待更多史料確認"'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: false
-featured: false
+readingTime: 7
 curation: 'incubating'
 curationReason: 'unverified'
-translatedFrom: People/盧彥勳.md
-sourceCommitSha: 'be13f045'
+translatedFrom: 'People/盧彥勳.md'
+sourceCommitSha: 'e7e1bb5735'
 sourceContentHash: 'sha256:b7bcedce34261377'
 sourceBodyHash: 'sha256:a95f42aeb707e55c'
-translatedAt: 2026-05-09T14:29:09+08:00
+translatedAt: '2026-11-27T04:06:15.277196+00:00'
 ---
 
 # Lu Yen-hsun: From Wimbledon Quarterfinals to Five Olympics, the Man Who Took Taiwanese Tennis the Farthest

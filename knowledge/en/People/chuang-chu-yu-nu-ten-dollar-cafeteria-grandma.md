@@ -1,16 +1,16 @@
 ---
-title: 'Chuang Chu Yu-nu: From Free Meals for Dock Workers to a Ten-Dollar Buffet That Sold Seven Houses'
-description: 'In 1951, Chuang Chu Yu-nu set up a stove by Kaohsiung Harbor to feed impoverished dock workers for free. Hailed as the "guardian of the poor," she ran an all-you-can-eat buffet at NT$10 for over fifty years, selling seven houses to keep it running and turning "letting people eat their fill" into a lifelong faith.'
+title: 'Zhuang Zhu Yunu: From Free Meals for Dock Workers to the NT$10 Lunch Box That Sold Seven Houses'
+description: 'The NT$10 self-service meal grandma by Kaohsiung Harbor, starting in 1951 she set up a stove beside her own warehouse, providing free meals for dock workers who came from Penghu to make a living. Later due to expenses she changed to charging NT$10, still supplying fresh fish, braised pork, vegetables, and hot soup all-you-can-eat daily. She sold seven properties to support this money-losing business; the stall moved to beside the Yancheng Park overpass. When she passed away at age 96 in 2015, over 3,000 people attended her farewell. Her hometown, Jibei Island in Penghu, later erected a statue and established a memorial park for her.'
 date: 2026-04-29
 category: 'People'
 tags:
   [
-    'philanthropist',
-    'kaohsiung',
-    'ten-dollar-buffet',
-    'chuang-chu-yu-nu',
-    'social-welfare',
-    'penghu',
+    'Philanthropist',
+    'Kaohsiung',
+    'NT$10 Lunch Box',
+    'Zhuang Zhu Yunu',
+    'Social Welfare',
+    'Penghu',
   ]
 subcategory: '社會與公益'
 author: 'Taiwan.md Contributors'
@@ -21,10 +21,10 @@ readingTime: 10
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/莊朱玉女.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '72ef874049'
 sourceContentHash: 'sha256:877ba646499c2433'
 sourceBodyHash: 'sha256:59833698754e5cb0'
-translatedAt: '2026-11-05T01:46:09.620682+00:00'
+translatedAt: '2026-11-27T04:09:47.858231+00:00'
 ---
 
 > **30-second overview:** Chuang Chu Yu-nu (1920–2015) was a celebrated Taiwanese philanthropist who, for decades, ran a "ten-dollar buffet" beneath the park overpass in central Kaohsiung. She originally offered free meals to fellow Penghu villagers working the docks, and only began charging ten New Taiwan dollars symbolically when costs spiraled, but always insisted on unlimited servings regardless of price. Over her lifetime she sold seven houses to fund the kindness; her funeral drew more than three thousand mourners, and her spirit remains one of the warmest symbols in Taiwanese society.

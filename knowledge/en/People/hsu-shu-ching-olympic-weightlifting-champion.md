@@ -1,9 +1,17 @@
 ---
-title: "Hsu Shu-ching: Lunbei 1991, Taiwan's First Olympic Double Gold Medalist in Women's 53 kg Weightlifting"
-description: "Born May 9, 1991 in Lunbei Township, Yunlin County, to a Hakka family; height 159 cm. At the 2012 London Olympics women's 53 kg, 219 kg (96+123) silver; later upgraded to gold after gold medalist Zulfiya Chinshanlo (Kazakhstan) failed drug test, officially reallocated December 2020. 2016 Rio Olympics 212 kg (100+112) direct gold. Taiwan's first Olympic double gold medalist. Retired June 3, 2018. 2019 three-year ban for 2017 drug test (does not affect Olympic golds)."
+title: "Hsu Shu-ching: Born in Lunbei in 1991, Taiwan's First Double Olympic Gold Medalist in the 53kg Weightlifting Category"
+description: "A female weightlifter from a Hakka family in Lunbei, Yunlin, she climbed through Taiwan's grassroots sports system step by step based on her performance. At the 2012 London Olympics, she won silver in the 53kg category with a total of 219kg; however, due to the gold medalist failing a drug test, she was officially awarded the gold medal in December 2020. In the 2016 Rio Olympics, she successfully completed all three snatch attempts with a total of 212kg to claim gold, becoming Taiwan's first double Olympic gold medalist. After retiring due to a knee injury in 2018, she transitioned into coaching. Her first gold medal took eight years to arrive—a unique circumstance left by the issue of international sports doping."
 date: 2026-03-19
 category: 'People'
-tags: ['Sports', 'Weightlifting', 'Olympics', 'Gold Medal', '53 kg', 'Yunlin']
+tags:
+  [
+    'Sports',
+    'Weightlifting',
+    'Olympics',
+    'Gold Medal',
+    '53kg Category',
+    'Yunlin',
+  ]
 subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
@@ -13,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/許淑淨.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'e7e1bb5735'
 sourceContentHash: 'sha256:81d60bf0143f4da3'
 sourceBodyHash: 'sha256:a8a07476ede69bdb'
-translatedAt: '2026-11-05T05:15:41+08:00'
+translatedAt: '2026-11-27T04:12:04.511804+00:00'
 ---
 
 # Hsu Shu-ching: Lunbei 1991, Taiwan's First Olympic Double Gold Medalist in Women's 53 kg Weightlifting

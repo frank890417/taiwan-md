@@ -1,37 +1,38 @@
 ---
-title: 'Enno Cheng: Writing the Most Honest Songs in the Most Unfamiliar Language — Seven Years from Coming Out in 2016 to Winning Two Taiwanese Awards at the 2023 Golden Melody Awards'
-description: "Born in 1987, Enno Cheng (鄭宜農) is the daughter of New Cinema director Cheng Wen-tang. She debuted as an actress in 2007 with a Golden Horse nomination, came out on Facebook in January 2016 and divorced that same month, released her first all-Taiwanese-language album 'Mercury Retrograde' in 2022, and won both Best Taiwanese Female Singer and Best Taiwanese Album at the 34th Golden Melody Awards in July 2023. She said: 'I decided to use a language I was not that familiar with, to make things difficult for myself.'"
+title: 'Enno Cheng: Writing the Most Honest Songs in the Most Unfamiliar Language — Seven Years from 2016 Coming Out to 2023 Golden Melody Taiwanese Double Awards'
+description: "Born in Yilan in 1987, this cross-disciplinary creator's father is director Cheng Wen-tang and mother is a veteran musician who once performed as a resident singer. In 2007, she debuted as the female lead, screenwriter, and composer of 'Summer's Tail,' earning a Golden Horse Award nomination for Best New Performer; her 2011 debut album 'Neptune' consisted entirely of Mandarin compositions; in 2016 she came out publicly on Facebook and divorced Yang Cheng-tse the same month; in 2022 she released her first all-Taiwanese album 'Mercury Retrograde,' and in 2023 won the Golden Melody Awards for Best Taiwanese Female Singer and Best Taiwanese Album, leaving the acceptance speech line 'Taiwanese taught me to bow my head.'"
 date: 2026-04-18
+category: 'People'
 tags:
   [
     'People',
     'Enno Cheng',
-    'Cheng Yi-Nung',
-    'Taiwanese-language music',
+    'Enno Cheng',
+    'Taiwanese Music',
     'Golden Melody Awards',
     'Mercury Retrograde',
+    'Mercury Retrograde',
     'Cheng Wen-tang',
-    'Mighty Mouth Chocolate',
-    'Dear Uranus',
+    'Mighty Tiger Chocolate',
+    'To Uranus',
     'Neptune',
-    'Yang Da-zheng',
+    'Yang Cheng-tse',
     'Fire EX.',
-    'identity narrative',
-    'independent music',
+    'Identity Narrative',
+    'Indie Music',
   ]
-category: People
-subcategory: 音樂與表演
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
-readingTime: 18
 lastVerified: 2026-04-18
 lastHumanReview: true
-researchReport: reports/research/2026-04/鄭宜農.md
+researchReport: 'reports/research/2026-04/鄭宜農.md'
+readingTime: 18
 translatedFrom: 'People/鄭宜農.md'
-sourceCommitSha: 'ac1d187a'
+sourceCommitSha: 'fc0798f30d'
 sourceContentHash: 'sha256:9978590a40b2bfce'
 sourceBodyHash: 'sha256:2eaa36629936ca3c'
-translatedAt: '2026-05-01T12:53:58+08:00'
+translatedAt: '2026-11-27T03:25:06.885135+00:00'
 ---
 
 > **30-second overview:** Enno Cheng was born on March 19, 1987, in Yilan. Her father is Taiwan New Cinema director Cheng Wen-tang. She debuted in 2007 as lead actress, screenwriter, and composer in her father's film "Last Days of Summer," earning a Best New Performer nomination at the 44th Golden Horse Awards; released her first solo music album "Neptune" in 2011; publicly came out as gay on Facebook on January 3, 2016, and signed divorce papers with her former husband Yang Da-zheng (vocalist of Fire EX.) that same month; released her first all-Taiwanese-language album "Mercury Retrograde" in 2022; and won both Best Taiwanese Female Singer and Best Taiwanese Album at the 34th Golden Melody Awards in July 2023. In an album interview she said: "I decided to use a language I was not that familiar with, to make things difficult for myself" — using the difficulty of the language as a method to achieve creative honesty.

@@ -1,13 +1,11 @@
 ---
 title: 'Monaneng: Two Kinds of Blindness, One Poetry Collection'
-description: "Monaneng, the first Indigenous poet to publish a modern poetry collection in Chinese, became blind only in 1979; in 1989, Morning Star published The Beautiful Rice Stalks. The line in 'Come, Have a Drink' — 'The slogan of self-determination for eighteen million people / cannot hear our sighs' — wrote the question of 'who counts as Taiwanese' into thirty poems. Read thirty-seven years later, that question still has no answer."
+description: 'Paiwan poet, born in 1956 in the Aluwei tribal village of Daren Township, Taitung. He is Taiwan''s first Indigenous poet to publish a Chinese-language modern poetry collection. After a truck accident in 1979 caused a concussion, he became completely blind. His poems were first orally transmitted during drinking and singing sessions in 1984, recorded and published by Li Ji. In 1989, Morning Star Publishing released "Beautiful Rice Ears," with a preface by Chen Yingzhen calling him "the poet of Taiwan''s internal colony." He walked the streets with a cane, advocating for the rescue of child prostitutes and the return of Indigenous lands. Reading his poetry presents two difficulties: physically, he cannot see; politically, many readers are unwilling to see.'
 date: 2026-06-03
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '原住民文化人 / 文學與詩人'
 tags:
   [
-    'Indigenous peoples',
+    'Indigenous',
     'Poetry',
     'Literature',
     'Paiwan',
@@ -15,20 +13,25 @@ tags:
     'Taitung',
     '1980s',
   ]
+subcategory: '原住民文化人 / 文學與詩人'
+author: 'Taiwan.md'
+featured: false
+canonical-order: 110
 lastVerified: 2026-06-03
 lastHumanReview: false
-featured: false
-curation: 'incubating'
-curationReason: 'unverified'
-translatedFrom: 'People/莫那能.md'
-sourceCommitSha: 'be13f045'
-sourceContentHash: 'sha256:f5aebb543340d143'
-sourceBodyHash: 'sha256:2f3617098391a7c1'
-translatedAt: '2026-06-16T17:03:25Z'
+researchReport: 'reports/research/2026-06/莫那能.md'
+viewpoint_formed: true
 image: '/article-images/people/monaneng-daren-township-2011.webp'
 imageCredit: 'Bernard Gagnon / Wikimedia Commons'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Daren_Township,_Taiwan.jpg'
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'People/莫那能.md'
+sourceCommitSha: 'e7e1bb5735'
+sourceContentHash: 'sha256:a095996d9797f69b'
+sourceBodyHash: 'sha256:e51dd9f7a0df41eb'
+translatedAt: '2026-11-27T03:12:43.032756+00:00'
 ---
 
 # Monaneng: Two Kinds of Blindness, One Poetry Collection
@@ -48,20 +51,20 @@ These details matter because many public-sector literary archives describe him a
 
 > 📝 **Curator’s note:** Monaneng was not someone who encountered social issues only after he began writing poetry. He was first a person who lived this trajectory; only afterward, at the age of thirty, did he use poetry to write out the whole of it. The sequence — experience first, poetry later — is important for understanding him.
 
-## A Traffic Accident Stole the Light
+## A Car Accident Stole His Light
 
-During a health examination in middle school, he was told something: he had **retinitis pigmentosa**, a hereditary, progressively worsening retinal degenerative disease. Blindness would eventually come; it was only a matter of time.[^6]
+During a middle school health check, he was told something: his eyes had **retinitis pigmentosa**, a hereditary, progressively worsening retinal degenerative disease. He would eventually go blind; it was only a matter of time[^6].
 
-After graduating from junior high school, he was admitted to the **Air Force Mechanical School**. When he reported for enrollment, he failed the physical examination because of retinitis pigmentosa. His air force dream ended. Later he considered Taitung Teachers Junior College and the police academy, but his eyesight made those paths impossible as well. For an Indigenous youth from the mountains in the 1970s, the already limited channels of upward mobility were blocked one by one.[^6]
+After graduating junior high, he was admitted to the **Air Force Mechanical School**. At the enrollment physical he failed, because of retinitis pigmentosa. His Air Force dream ended. Later he also considered **Taitung Junior College of Education** and the **Police Academy** — both blocked by vision problems. The already limited upward mobility channels for a 1970s mountain youth were shut off one by one[^6].
 
-Then came the 1972 incident in which he was abducted through deception by human traffickers. In 1977, his younger sister was sold by a cousin’s husband into a brothel as an underage prostitute. He borrowed money everywhere, waited outside the brothel late at night, and rescued her; in the process he was beaten, and his eyesight worsened further.[^7]
+Then came the 1972 human trafficking incident. In 1977 his younger sister was sold by her cousin's husband into a brothel as a child prostitute; he borrowed money everywhere, waited at the brothel door in the middle of the night, and rescued her; in the process he was beaten, and his vision further deteriorated[^7].
 
-The decisive accident came in **1979**. He was working for a freight company when he was in a traffic accident, suffered a concussion, and remained unconscious in the hospital for nearly two months. When he awoke, his right eye was completely blind and his left eye had 0.2 vision.[^8] Wikipedia records that he was twenty-three at the time; the National Museum of Taiwan Literature dictionary says twenty-four; interviews in _Indigenous Sight_ and _The Observer_ give twenty-six and twenty-seven.[^9] Various versions circulate, but Monaneng’s own 2022 oral account clearly says “in 1979, while working at a freight company.”[^10]
+The decisive accident came in **1979**. He was working in freight transport when a traffic accident occurred; he suffered a concussion and lay in a hospital coma for nearly two months. When he woke, his right eye was completely blind, left eye vision 0.2[^8]. Wikipedia records he was 23 at the time; the National Museum of Taiwan Literature dictionary writes 24; _Indigenous Sight_ and _The Observer Magazine_ interviews write 26, 27[^9]. Various versions circulate, but Monaneng's own 2022 oral account clearly states "1979, while working freight transport."[^10].
 
-Afterward, he went to the **Taiwan Blind Rehabilitation Institute** to learn massage and braille. Later he ran a small massage clinic in Taipei called “A-Neng Massage Clinic.”[^11] He was not a “street masseur” — a phrase often used online, but inaccurate. He had a physical shop, and in that shop he wrote poems in braille. **But the poems did not begin with braille**.
+Afterward he went to the **Taiwan Blind Rehabilitation Institute** to learn massage and braille. Later in Taipei he ran a small massage clinic named "A-neng Massage Clinic"[^11]. He was not a "street masseur" (often written that way online, actually inaccurate); he had a physical storefront, and in that shop he wrote poetry in braille — **but the poetry did not begin with braille**.
 
-![A Paiwan traditional song-and-dance performance: three people in traditional dress performing side by side. Monaneng’s poetry first emerged in 1984 in a similar form: drinking, oral transmission, and chant, spoken from his mouth and written down by others.](/article-images/people/monaneng-paiwan-song-dance-2018.webp)
-_Paiwan song-and-dance performance at the Riddu Riđđu Indigenous Festival in northern Europe, 2018 — corresponding to the source scene in 1984, when Monaneng drank at Yang Du’s home and orally chanted his poems. Photo: Riddu Riđđu Festival via Flickr. [License via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Familieforestilling_-_Paiwan_sang_og_dans_(41534824410).jpg) CC BY-SA 2.0.\_
+![Paiwan traditional song and dance performance, three tribal people wearing traditional attire performing side by side. Monaneng's poetry in 1984 also originated this way, emerging from his mouth in the form of drinking, oral transmission, and chanting, then transcribed by others.](/article-images/people/monaneng-paiwan-song-dance-2018.webp)
+_Paiwan song and dance performance (Nordic Riddu Riđđu Indigenous Festival, 2018) — corresponding to the 1984 scene of Monaneng drinking at Yang Du's home, orally transmitting and chanting his poems. Photo: Riddu Riđđu Festival via Flickr. [License via Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Familieforestilling_-_Paiwan_sang_og_dans_(41534824410).jpg>) CC BY-SA 2.0.\_
 
 ## Drinking at Yang Du’s Home, Chanting the Poems Aloud
 
@@ -233,7 +236,7 @@ This article uses three Wikimedia Commons-licensed images, all cached under `pub
 
 [^13]: For records of his assistance at the end of 1978 in the campaigns of Chen Guying and Chen Wan-chen for the Legislative Yuan and National Assembly, see the Wikipedia entry on Monaneng (same as footnote 1) and the _Indigenous Sight_ interview (same as footnote 4).
 
-[^14]: For records of his drinking and oral recitation at Yang Du’s home in March 1984, Li Ji’s transcription of the poems, and publication in the first issue of _Spring Wind Poetry Quarterly_ as “Poems of Mountain People” and in the second issue as “Come, Have a Drink,” see the long essay in _Chai Wan Ben Post_ (same as footnote 5) and the academic article by the Taiwan Literature Front Alliance: [twnelclub.ning.com/profiles/blogs/3917868:BlogPost:30754](http://twnelclub.ning.com/profiles/blogs/3917868:BlogPost:30754).
+[^14]: [twnelclub.ning.com/profiles/blogs/3917868:BlogPost:30754](http://twnelclub.ning.com/profiles/blogs/3917868:BlogPost:30754) — For records of his drinking and oral recitation at Yang Du’s home in March 1984, Li Ji’s transcription of the poems, and publication in the first issue of _Spring Wind Poetry Quarterly_ as “Poems of Mountain People” and in the second issue as “Come, Have a Drink,” see the long essay in _Chai Wan Ben Post_ (same as footnote 5) and the academic article by the Taiwan Literature Front Alliance:.
 
 [^15]: The title of Chen Yingzhen’s preface to _The Beautiful Rice Stalks_, “Monaneng — A Colonial Poet within Taiwan,” is cited in the Wikipedia entry (same as footnote 1) and in multiple academic commentaries.
 
@@ -245,7 +248,7 @@ This article uses three Wikimedia Commons-licensed images, all cached under `pub
 
 [^19]: For Monaneng’s participation in the 1985 protest against the Wu Feng Temple in Chiayi, the 1988 march to rescue underage prostitutes, the 1988 Return Our Land movement, and the toppling of the Wu Feng statue on December 31, 1988, see the _Indigenous Sight_ interview, verbatim: “At movement sites such as the toppling of the Wu Feng statue, the Return Our Land movement, and the rescue of underage prostitutes, one could see Monaneng wearing sunglasses and leaning on a cane” (same as footnote 4).
 
-[^20]: Multiple sources agree that _The Beautiful Rice Stalks_ was published in 1989 by Morning Star Publishing in Taichung. Sources conflict on the exact month: Wikipedia gives August 1989, while the National Museum of Taiwan Literature [IKM entry](https://db.nmtl.gov.tw/site2/ikm?id=527) records: “In November, Monaneng published the first Indigenous Chinese-language poetry collection, _The Beautiful Rice Stalks_.” This article uses the regressive expression “autumn 1989.”
+[^20]: [IKM entry](https://db.nmtl.gov.tw/site2/ikm?id=527) — Multiple sources agree that _The Beautiful Rice Stalks_ was published in 1989 by Morning Star Publishing in Taichung. Sources conflict on the exact month: Wikipedia gives August 1989, while the National Museum of Taiwan Literaturerecords: “In November, Monaneng published the first Indigenous Chinese-language poetry collection, _The Beautiful Rice Stalks_.” This article uses the regressive expression “autumn 1989.”
 
 [^21]: “The Beautiful Rice Stalks” was originally “Harvest,” written in 1958 by the Puyuma composer Lusengbao (1910-1988) to comfort Puyuma soldiers on the Kinmen front during the Second Taiwan Strait Crisis; it was later widely sung by Kimbo Hu during the 1970s campus folk movement. Monaneng appropriated it as the title of a Paiwan poetry collection.
 
@@ -259,8 +262,8 @@ This article uses three Wikimedia Commons-licensed images, all cached under `pub
 
 [^26]: For the China Writers Association’s June 16, 2010 admission of Monaneng, Zhu Xiujuan, and Chen Yingzhen as its first three Taiwanese members, see the Wikipedia entry on Monaneng (same as footnote 1).
 
-[^27]: _A Taiwanese Indigenous Person’s Experience_ was published in May 2010 by Renjian Publishing. It was orally narrated by Monaneng, recorded and organized by Liu Meng-yi, and edited and proofread by Lu Cheng-hui. ISBN 978-986-6777-19-6. An image of the copyright page is available at [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Copyright_page_of_A_Taiwanese_Aborigine%27s_Experience_by_Monaneng_20160525.jpg).
+[^27]: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Copyright_page_of_A_Taiwanese_Aborigine%27s_Experience_by_Monaneng_20160525.jpg) — _A Taiwanese Indigenous Person’s Experience_ was published in May 2010 by Renjian Publishing. It was orally narrated by Monaneng, recorded and organized by Liu Meng-yi, and edited and proofread by Lu Cheng-hui. ISBN 978-986-6777-19-6. An image of the copyright page is available at.
 
 [^28]: Monaneng’s 2022 oral interview in _The Observer_ magazine, a pro-unification publication; readers should note the source’s position. Verbatim: “The DPP does not care about the rights and interests of the grassroots and minority peoples, and it has been hijacked by ‘Taiwan independence’ onto a dead-end road of splitting the country,” and “the more peaceful the two sides of the Strait are, the more beneficial it is to Indigenous peoples” (same as footnote 2).
 
-[^29]: For the 2019 controversy over the inclusion of “When the Bell Rings — For Our Suffering Mountain Sisters Forced into Child Prostitution” in the junior-high curriculum, see the Taiwan Indigenous Television [IPCF-TITV news report, 2019-10-08](https://www.youtube.com/watch?v=0A9SOoYRQVw).
+[^29]: [IPCF-TITV news report, 2019-10-08](https://www.youtube.com/watch?v=0A9SOoYRQVw) — For the 2019 controversy over the inclusion of “When the Bell Rings — For Our Suffering Mountain Sisters Forced into Child Prostitution” in the junior-high curriculum, see the Taiwan Indigenous Television.
