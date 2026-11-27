@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-27T20:38:42+08:00",
-    "zhCommitHead": "e4d817fc0e",
+    "lastUpdated": "2026-11-27T23:46:56+08:00",
+    "zhCommitHead": "ee909c320d",
     "totalZh": 1194,
     "activeLanguages": [
       "en",
@@ -92,9 +92,9 @@
       },
       "ar": {
         "total_zh": 1194,
-        "fresh": 1187,
-        "stale": 6,
-        "metadata_stale": 1,
+        "fresh": 1189,
+        "stale": 5,
+        "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
@@ -107014,20 +107014,18 @@
         "ar": {
           "path": "ar/People/idiot-princess-youtuber.md",
           "translatedFrom": "People/白癡公主.md",
-          "sourceCommitSha": "4c2e1c233",
-          "sourceContentHash": "sha256:57f32564152ce686",
-          "sourceBodyHash": "sha256:0482ecaa622a6229",
-          "translatedAt": "2026-09-13T15:49:28+08:00",
+          "sourceCommitSha": "fd2854dbad",
+          "sourceContentHash": "sha256:0e7a79763287a5ac",
+          "sourceBodyHash": "sha256:d7c9ce93611e7e78",
+          "translatedAt": "2026-11-27T14:49:49.518625+00:00",
           "translationLastCommit": "3d52e170",
           "translationLastModified": "2026-09-14T04:02:21+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "bytes": 34573,
+          "bytes": 37285,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/idiot-princess-youtuber.md",
@@ -131938,20 +131936,18 @@
         "ar": {
           "path": "ar/People/wei-te-sheng-taiwanese-epic-filmmaker.md",
           "translatedFrom": "People/魏德聖.md",
-          "sourceCommitSha": "8f070a887",
+          "sourceCommitSha": "c7e3d69aad",
           "sourceContentHash": "sha256:c53d9ecd803bd8cd",
           "sourceBodyHash": "sha256:9fd756dd61905363",
-          "translatedAt": "2026-07-30T03:55:59+08:00",
+          "translatedAt": "2026-11-27T19:08:04+08:00",
           "translationLastCommit": "f1daf600",
           "translationLastModified": "2026-10-10T23:14:31+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "bytes": 16111,
+          "bytes": 16431,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/wei-te-sheng-taiwanese-epic-filmmaker.md",
@@ -137734,8 +137730,8 @@
           "sourceContentHash": "sha256:c545680e99f6d0ab",
           "sourceBodyHash": "sha256:809502b72dc5c3f5",
           "translatedAt": "2026-11-27T19:07:58+08:00",
-          "translationLastCommit": "11971e31",
-          "translationLastModified": "2026-09-21T23:14:34+08:00",
+          "translationLastCommit": "9571106c",
+          "translationLastModified": "2026-11-27T20:38:42+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "bytes": 29565,
@@ -151498,8 +151494,8 @@
           "sourceContentHash": "sha256:cf3dd21873bec862",
           "sourceBodyHash": "sha256:ba8d5bb97d38e74d",
           "translatedAt": "2026-11-27T17:02:30+08:00",
-          "translationLastCommit": "51d77b35",
-          "translationLastModified": "2026-11-04T07:46:06+08:00",
+          "translationLastCommit": "9571106c",
+          "translationLastModified": "2026-11-27T20:38:42+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "bytes": 14448,
