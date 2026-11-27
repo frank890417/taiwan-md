@@ -1,17 +1,17 @@
 ---
-title: 'Hứa Văn Long: Sinh năm 1928 tại Đài Nam, người sáng lập bảo tàng sở hữu số lượng đàn violin lớn nhất thế giới từ Công ty Qí Mỹ (Kemei) thành lập năm 1959'
-description: 'Sinh ngày 25/02/1928 tại Đài Nam, qua đời ngày 18/11/2023 (95 tuổi). Thành lập Công ty Qí Mỹ với vốn 2 triệu tệ vào tháng 10/1959. Từ năm 1990 bắt đầu thu mua đàn violin, tổng cộng 1362 chiếc (số lượng cá nhân lớn nhất thế giới). Bảo tàng Qí Mỹ chính thức khai trương ngày 01/01/2015 tại Công viên Đô thị Đài Nam. Ban đầu tuyên bố miễn phí tham quan (chính sách hiện hành P0⚠️ cần xác nhận theo thông báo mới nhất).'
+title: 'Hứa Văn Long: Từ Tainan năm 1928, Chimei Industrial năm 1959 đến người sáng lập bảo tàng sở hữu nhiều đàn violin nhất thế giới'
+description: 'Cha đẻ của ngành nhựa acrylic Đài Loan, năm 1959 ông đã thành lập Chimei Industrial với số vốn NT$2 triệu, và ở tuổi 63 đã đưa nhựa kỹ thuật ABS lên vị trí số một thế giới. Ông tin rằng doanh nghiệp là phương tiện để theo đuổi hạnh phúc, vì vậy đã thực hiện chế độ nghỉ cuối tuần từ năm 1984. Từ năm 1990, ông bắt đầu thu mua các loại đàn violin cổ, tích lũy được 1.362 cây đàn, trở thành bộ sưu tập cá nhân lớn nhất thế giới; năm 2015, Bảo tàng Chimei khai trương tại Công viên Đô thị Tainan, giúp trẻ em ở mọi nơi đều có thể tiếp cận nghệ thuật phương Tây đỉnh cao. Với 95 năm cuộc đời, ông đã để lại những dấu ấn biểu tượng trong cả lĩnh vực kinh doanh lẫn văn hóa.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Khoa học công nghệ và doanh nghiệp',
-    'Tập đoàn Qí Mỹ',
+    'Công nghệ và Doanh nghiệp',
+    'Tập đoàn Chimei',
     'Doanh nhân',
-    'Nghệ thuật âm nhạc',
+    'Âm nhạc và Nghệ thuật',
     'Bảo tàng',
-    'Quảng bá văn hóa',
-    'Đài Nam',
+    'Quảng bá Văn hóa',
+    'Tainan',
   ]
 subcategory: '科技與企業'
 author: 'Taiwan.md'
@@ -22,10 +22,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/許文龍.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'a9322956ed'
 sourceContentHash: 'sha256:720cd768af91d1c3'
 sourceBodyHash: 'sha256:7ec1f1d13ec2e4d4'
-translatedAt: '2026-11-04T23:49:23.541758+00:00'
+translatedAt: '2026-11-27T02:35:05.132114+00:00'
 ---
 
 # Hứa Văn Long: Sinh năm 1928 tại Đài Nam, người sáng lập bảo tàng sở hữu số lượng đàn violin lớn nhất thế giới từ Công ty Qí Mỹ (Kemei) thành lập năm 1959

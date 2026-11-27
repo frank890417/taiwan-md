@@ -1,16 +1,16 @@
 ---
-title: 'Đằng Vũ Diên: Nhà sáng lập bài ca Đài Loan — Ba mươi chín năm của "Tứ phương tháng Tư"'
-description: 'Sinh năm 1906 ngày 21 tháng 7 tại vùng Hoa Giác (Đài Bắc), gia đình Hoa Giác tại Long Đoàn. Tên thật là Đằng Bình Diên. Tốt trường trường Bình Đẳng, năm 1933 được công ty Columbia thu âm thuê làm nhà soạn nhạc độc quyền. Bốn tác phẩm đại diện nổi tiếng "Tứ phương tháng Tư" (Tứ mùa hồng / Nguyệt đêm bi lụy / Chuyển gió xuân / Hoa đêm mưa) vẫn được người ta hát đến ngày nay. Năm 1939 dạy ở trường phổ thông Tương Lâm (Tân Châu), ngày 11 tháng 6 năm 1944 qua đời tại bệnh viện Đông Trù, tuổi 39.'
+title: 'Đặng Vũ Hiền: Khách Gia 1906, Tháng Tư Mong Mưa — Ba mươi chín năm của Cha đẻ dân ca Đài Loan'
+description: 'Vị nhạc sĩ đã đặt nền móng cho dòng nhạc Pop tiếng Đài bằng hòa âm phương Tây, xuất thân từ một gia đình tri thức người Khách Gia tại Long Đàm, Đào Viên. Tên thật là Đặng Bính Viêm, ông từng là giáo viên tiểu học sau khi tốt nghiệp trường sư phạm. Năm 1933, ông được hãng đĩa Columbia mời làm nhạc sĩ độc quyền; trong chưa đầy hai năm, ông đã sáng tác bốn tác phẩm tiêu biểu gồm “Tứ Quý Hồng”, “Nguyệt Dạ Sầu”, “Vọng Xuân Phong” và “Vũ Dạ Hoa”, được gọi chung là “Tháng Tư Mong Mưa”. Dưới sự kiểm soát thời chiến, ông trở về dạy học tại Trường Công lập Quỳnh Lâm, Tân Trúc. Ông qua đời tại bệnh viện Trúc Đông vào năm 1944, hưởng thọ 39 tuổi, nhưng bốn giai điệu ông để lại vẫn được nhiều thế hệ ca sĩ hát lại và lưu truyền đến tận ngày nay.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Nhạc',
-    'Bài ca tiếng Đài Loan',
-    'Nhà soạn nhạc',
-    'Thời kỳ thuộc địa Nhật',
-    'Đài Bắc',
-    'Hoa Giác',
+    'Âm nhạc',
+    'Dân ca tiếng Đài',
+    'Nhạc sĩ',
+    'Thời kỳ Nhật trị',
+    'Đào Viên',
+    'Khách Gia',
   ]
 subcategory: '音樂'
 author: 'Taiwan.md'
@@ -21,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/鄧雨賢.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '2556505034'
 sourceContentHash: 'sha256:03f4c1611aa95a6c'
 sourceBodyHash: 'sha256:0d86dfd69dceab10'
-translatedAt: '2026-11-04T21:51:38.969742+00:00'
+translatedAt: '2026-11-27T02:43:22.433378+00:00'
 ---
 
 # Đằng Vũ Diên: Nhà sáng lập bài ca Đài Loan — Ba mươi chín năm của "Tứ phương tháng Tư"

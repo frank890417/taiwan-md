@@ -1,15 +1,15 @@
 ---
-title: 'Chung Triệu Chính: Người không hoàn thành bằng đại học, đã viết nên dòng sông dài của người Đài Loan'
-description: 'Chung Triệu Chính (鍾肇政), sinh năm 1925 tại Long Đàm, Cao Hùng, từng bỏ dở ngành Ngôn ngữ Trung Quốc tại Đại học Đài Bắc do rào cản ngôn ngữ và bệnh tật, nhưng ông đã trở thành tiểu thuyết gia, biên tập viên và nhà hoạt động người Khách Gia, viết nên các tác phẩm như 《Lỗ Băng Hoa》 và bộ ba 《Đoại Lưu Tam Bộ Khúc》 cùng 《Đài Loan Nhân Tam Bộ Khúc》. Tác phẩm của ông không chỉ nằm trên giá sách mà còn được lưu giữ tại Khu sinh thái Long Đàm.'
+title: 'Chung Triệu Chính: Người chưa hoàn thành bằng đại học đã viết nên dòng chảy lịch sử của người Đài Loan'
+description: 'Nhà văn sinh ra tại Cửu Tọa Liêu, Long Đàm, Đào Viên, từng thụ giáo tiếng Nhật trong thời kỳ Nhật trị. Năm 1948, ông theo học khoa Văn học tại Đại học Quốc gia Đài Loan nhưng phải bỏ học giữa chừng do rào cản ngôn ngữ và vấn đề sức khỏe. Từ một giáo viên tiểu học, ông đã trở thành tiểu thuyết gia, biên tập viên và nhà hoạt động văn hóa Hakka. Ông là tác giả của "Hoa rễ bàng" (Lỗ Băng Hoa), "Bộ ba dòng nước đục" và "Bộ ba người Đài Loan", đưa các làng Hakka, các dân tộc bản địa và sự kiện 228 vào những cuốn tiểu thuyết sử thi. Ông cũng là người lưu giữ tác phẩm cho các nhà văn như Chung Lý Hòa và dùng tờ "Văn Hữu Thông Tín" để kết nối những cây bút bị dòng chảy xuất bản chính thống loại bỏ. Văn chương của ông không chỉ nằm trên kệ sách, mà còn hiện hữu trong đời sống tại khu vực Long Đàm.'
 date: 2026-08-18
 category: 'People'
 tags:
   [
     'Chung Triệu Chính',
     'Văn học Đài Loan',
-    'Văn học người Khách Gia',
+    'Văn học Hakka',
     'Long Đàm',
-    'Tiểu thuyết đại hà',
+    'Tiểu thuyết sử thi',
   ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
@@ -19,13 +19,13 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/鍾肇政.md'
-sourceCommitSha: '82038b29f'
-sourceContentHash: 'sha256:e30095af8a74328f'
+sourceCommitSha: 'e7e1bb5735'
+sourceContentHash: 'sha256:aa3ae97d0723ffdb'
 sourceBodyHash: 'sha256:9240eda59faf09e3'
-translatedAt: '2026-09-13T17:51:57+08:00'
+translatedAt: '2026-11-27T03:29:02.815711+00:00'
 ---
 
-> **Tóm tắt 30 giây:** Chung Triệu Chính không phải là người bước vào giới văn chương qua một con đường học thuật suôn sẻ. Ông được giáo dục bằng tiếng Nhật trong thời kỳ Nhật trị, và sau này mới học lại tiếng Trung; ông nhập học ngành Ngôn ngữ Trung Quốc tại Đại học Đài Bắc năm 1948, nhưng vì rào cản ngôn ngữ và các vấn đề sức khỏe nên đã bỏ dở giữa chừng. Sau đó, ông vẫn viết ra 《Lỗ Băng Hoa》, 〈Đoại Lưu Tam Bộ Khúc〉 và 《Đài Loan Nhân Tam Bộ Khúc》, đưa làng người Khách Gia, các dân tộc bản địa và lịch sử cận đại Đài Loan vào tiểu thuyết dài tập.[^1] [^2] [^3]
+> **Tóm tắt trong 30 giây:** Chung Triệu Chính (Chung Chao-cheng) không phải là người bước vào văn đàn theo một con đường học thuật thuận lợi. Ông tiếp nhận giáo dục bằng tiếng Nhật dưới thời kỳ Nhật thuộc, và chỉ bắt đầu học lại tiếng Trung sau chiến tranh; năm 1948, ông nhập học khoa Văn học Trung Quốc tại Đại học Quốc gia Đài Loan (NTU), nhưng vì rào cản ngôn ngữ và vấn đề sức khỏe nên đã phải thôi học giữa chừng. Sau này, ông vẫn viết nên 《Lỗ Băng Hoa》 (Lùbīnghuā), bộ ba tác phẩm 〈Trọc Lưu Tam Bộ Khúc〉 (Zhuóliú Sānbùqǔ) và 《Người Đài Loan Tam Bộ Khúc》 (Táiwān rén Sānbùqǔ), đưa các làng người Khách Gia, các dân tộc bản địa cùng lịch sử cận đại Đài Loan vào trong những tiểu thuyết dài tập. [^1] [^2] [^3]
 
 ## Lời tựa: Trước hết phải hỏi ai có thể lưu lại ký ức cho Đài Loan
 

@@ -1,17 +1,17 @@
 ---
-title: 'Monaneng: Hai Loại Mù, Một Tập Thơ'
-description: 'Nhà thơ người bản địa đầu tiên xuất bản tập thơ hiện đại bằng tiếng Hoa là Monaneng. Mù mắt từ năm 1979, Monaneng xuất bản «Bông Lúa Xinh Đẹp» bởi nhà xuất bản Sao Mai vào năm 1989 với 30 bài thơ. Câu thơ «Khẩu hiệu tự quyết của mười tám triệu người／Không nghe được tiếng than của chúng ta» đưa câu hỏi «Ai được tính là người Đài Loan» vào thơ — 37 năm sau đọc lại, câu hỏi đó vẫn chưa có ai trả lời.'
+title: 'Mạc Na Năng: Hai loại mù, một tập thơ'
+description: 'Nhà thơ người Paiwan, sinh năm 1956 tại bộ lạc Aruwei, xã Đạt Nhân, Taitung, là nhà thơ bản địa đầu tiên tại Taiwan xuất bản tập thơ hiện đại bằng tiếng Hán. Năm 1979 sau tai nạn xe tải gây chấn thương sọ não, ông bị mù hoàn toàn. Thơ của ông được truyền miệng lần đầu năm 1984 trong những buổi uống rượu hát ca, được Lý Cấp ghi chép và xuất bản. Năm 1989, nhà xuất bản Sao Mai xuất bản 《Bông lúa đẹp》, Trần Ảnh Chân viết lời tựa gọi ông là "nhà thơ của thuộc địa bên trong Taiwan". Ông gồng gùi đi qua những con đường phong trào cứu trợ gái mại dâm trẻ và đòi trả đất. Việc đọc thơ ông gặp hai khó khăn: về mặt thể chất ông không thấy, về mặt chính trị nhiều độc giả cũng không muốn thấy.'
 date: 2026-06-03
 category: 'People'
 tags:
   [
-    'người bản địa',
-    'thơ',
-    'văn học',
+    'Bản địa',
+    'Thơ',
+    'Văn học',
     'Paiwan',
-    'phong trào quyền lợi bản địa',
-    'Đài Đông',
-    '1980s',
+    'Vận động bản địa',
+    'Taitung',
+    'Thập niên 1980',
   ]
 subcategory: '原住民文化人 / 文學與詩人'
 author: 'Taiwan.md'
@@ -28,10 +28,10 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Daren_Township,_Taiwan.jpg
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/莫那能.md'
-sourceCommitSha: 'be13f045'
-sourceContentHash: 'sha256:f5aebb543340d143'
-sourceBodyHash: 'sha256:2f3617098391a7c1'
-translatedAt: '2026-08-09T10:41:15+08:00'
+sourceCommitSha: 'e7e1bb5735'
+sourceContentHash: 'sha256:a095996d9797f69b'
+sourceBodyHash: 'sha256:e51dd9f7a0df41eb'
+translatedAt: '2026-11-27T02:53:46.084255+00:00'
 ---
 
 # Monaneng: Hai Loại Mù, Một Tập Thơ
@@ -51,20 +51,20 @@ Các chi tiết này quan trọng bởi vì nhiều cơ quan công cộng lưu g
 
 > 📝 **Ghi chú của nhà soạn thảo**: Monaneng không phải là người tiếp xúc với vấn đề xã hội sau khi viết thơ. Anh ấy trước tiên là người sống thực tế trong quỹ đạo đó, rồi đến năm ba mươi tuổi mới dùng thơ để viết lại toàn bộ quỹ đạo. «Trước có trải nghiệm, rồi mới có thơ» — thứ tự này quan trọng để hiểu anh.
 
-## Một Tai Nạn Lấy Đi Ánh Sáng
+## Một tai nạn xe cướp đi ánh sáng
 
-Khi khám sức khỏe thời trung học, anh ta được cho biết một sự thật: mắt bị **thoái hoá võng mạc sắc tố**, một bệnh thoái hoá võng mạc di truyền, tính chất diễn tiến. Cuối cùng sẽ mù, chỉ là vấn đề thời gian[^6].
+Khi khám sức khỏe ở trung học, anh được báo tin: mắt bị **bệnh biến sắc tố võng mạc**, một bệnh thoái hóa võng mạc di truyền, tiến triển dần. Sẽ bị mù, chỉ là vấn đề thời gian[^6].
 
-Tốt nghiệp trung học, anh đỗ vào **Trường Cơ Khí Không Quân**. Khi báo danh, khám sức khỏe không qua, do thoái hoá võng mạc. Giấc mơ không quân kết thúc. Sau này anh còn cân nhắc vào Cao đẳng Sư phạm Đài Đông, Học viện Cảnh sát — đều không được vì vấn đề thị lực. Các con đường thăng tiến không nhiều của một cậu bé sơn cơ thập niên 1970, lần lượt bị chặn lại[^6].
+Sau khi tốt nghiệp trung học cơ sở, anh trúng tuyển **Trường Cơ khí Không quân**. Khi báo到 khám sức khỏe không đỗ do bệnh biến sắc tố võng mạc. Giấc mơ không quân tan vỡ. Sau đó anh cũng cân nhắc Trường Sư phạm Đài Đông (台東師專)、 Trường Cảnh sát — đều không thể vào vì vấn đề thị lực. Những con đường thăng tiến vốn dĩ không nhiều của một thiếu niên vùng núi thập niên 1970, bị chặn đứng một cách từng con một[^6].
 
-Rồi đến năm 1972 khi bị môi giới lừa dụ. Năm 1977, em gái anh bị anh em họ của chị dâu bán vào nhà chứa làm gái dâm nhỏ, anh vay mượn khắp nơi, nửa đêm canh ở cửa nhà chứa để cứu em ra; quá trình này bị người đánh đập, thị lực tiếp tục xấu đi[^7].
+Sau đó là vụ bị kẻ buôn người lừa gạt năm 1972. Năm 1977, em gái bị anh rể chị họ bán vào lầu xài làm điếm nhỏ, anh vay mượn khắp nơi, canh chừng nửa đêm trước cửa lầu xài để cứu em gái ra; trong quá trình đó bị đánh đập, thị lực thêm tồi tệ hơn[^7].
 
-Sự kiện quyết định là **năm 1979**. Anh ta làm việc tại công ty vận tải, gặp tai nạn xe, chấn thương não, nằm trong bệnh viện hôn mê gần hai tháng. Thức dậy thì mắt phải hoàn toàn mù, mắt trái thị lực 0,2[^8]. Wikipedia ghi rằng lúc đó anh ta 23 tuổi; Từ điển Nhà Văn Viện Văn Học Đài Loan viết 24 tuổi; các cuộc phỏng vấn của tạp chí «Tầm Nhìn Bản Địa» và «Quan Sát» ghi 26, 27 tuổi[^9]. Nhiều phiên bản lưu hành, nhưng bản thân Monaneng năm 2022 trong phỏng vấn miệng xác rõ là «1979, khi làm việc tại công ty vận tải»[^10].
+Tai nạn quyết định xảy ra **năm 1979**. Anh làm việc vận tải hàng hóa, gặp tai nạn xe, chấn thương sọ não, nằm viện hôn mê gần hai tháng. Khi tỉnh dậy, mắt phải hoàn toàn mù, mắt trái thị lực 0,2[^8]. Wikipedia ghi năm đó anh 23 tuổi; Từ điển Viện Văn học Quốc gia Đài Loan ghi 24 tuổi; phỏng vấn của tạp chí «Nguyên Thị Giới» (原視界) và «Quan Sát» (觀察) ghi 26, 27 tuổi[^9]. Các phiên bản khác nhau đều lưu truyền, nhưng chính lời thuật của Monaneng năm 2022 khẳng định rõ là «năm 1979, khi làm việc vận tải hàng hóa»[^10].
 
-Sau đó anh vào **Viện Tái Hưng Người Mù Đài Loan** để học xoa bóp, học chữ nổi. Lúc sau anh mở một tiệm xoa bóp nhỏ ở Đài Bắc, tên cửa hàng là «Tiệm Xoa Bóp A Năng»[^11]. Anh không phải là «thợ xoa bóp đường phố» (cách viết trên mạng thường nói vậy, thực ra không đúng), anh có cửa hàng thật, và trong tiệm đó anh viết thơ bằng chữ nổi — **nhưng thơ không bắt đầu từ chữ nổi**.
+Sau đó anh đến **Viện Phục hồi Người mù Đài Loan** học xoa bóp, học chữ nổi. Sau đó tại Đài Bắc anh mở một tiệm xoa bóp nhỏ, tên là «Tiệm xoa bóp A-neng» (阿能按摩院)[^11]. Anh không phải «thợ xoa bóp đường phố» (mạng thường viết vậy, thực ra không chính xác), anh có cửa hàng thực tế, tại cửa hàng đó anh dùng chữ nổi viết thơ — **nhưng thơ không bắt đầu từ chữ nổi**.
 
-![Biểu diễn ca múa truyền thống Paiwan, ba người bản địa mặc trang phục truyền thống biểu diễn cạnh nhau. Thơ của Monaneng vào năm 1984 cũng bắt đầu như vậy, dưới dạng uống rượu, truyền miệng, hát, từ miệng anh ra, rồi người khác ghi chép.](/article-images/people/monaneng-paiwan-song-dance-2018.webp)
-_Biểu diễn ca múa Paiwan (Lễ hội Văn Hóa Bản Địa Riddu Riđđu Bắc Âu, 2018) — tương ứng với khía cạnh nguồn gốc của các bài thơ của Monaneng vào năm 1984 khi uống rượu, truyền miệng, hát tại nhà Dương Độ. Photo: Riddu Riđđu Festival via Flickr. [License via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Familieforestilling_-_Paiwan_sang_og_dans_(41534824410).jpg) CC BY-SA 2.0.\_
+![Biểu diễn múa hát truyền thống người Paiwan, ba người tộc mặc trang phục truyền thống biểu diễn bên nhau. Thơ của Monaneng năm 1984 ban đầu cũng như vậy, dưới hình thức uống rượu, truyền miệng, ngâm hát từ miệng anh ra, rồi người khác ghi chép.](/article-images/people/monaneng-paiwan-song-dance-2018.webp)
+_Biểu diễn múa hát người Paiwan (Lễ hội văn hóa bản địa Riddu Riđđu Bắc Âu, 2018) — Tương ứng bối cảnh nguồn gốc năm 1984 Monaneng tại nhà Dương Độ uống rượu truyền miệng ngâm thơ. Photo: Riddu Riđđu Festival via Flickr. [License via Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Familieforestilling_-_Paiwan_sang_og_dans_(41534824410).jpg>) CC BY-SA 2.0.\_
 
 ## Uống Rượu Tại Nhà Dương Độ, Hát Lên Những Bài Thơ
 

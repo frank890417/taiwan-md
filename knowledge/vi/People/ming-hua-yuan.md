@@ -1,15 +1,15 @@
 ---
-title: 'Minh Hoa Viên: Đế chế Hát hí kịch dân gian của dòng họ Trần qua bốn thế hệ, sáng lập năm 1929 tại Đài Nam'
-description: 'Được thành lập bởi Trần Minh Cát vào năm 1929 tại Đài Nam và chuyển đến Triều Châu, Bình Đông vào năm 1962. Thế hệ thứ hai Trần Thắng Phúc đã đưa kỹ thuật sân khấu hiện đại vào hát hí kịch dân gian, đưa loại hình này lên tầm sân khấu quốc gia. Tám đoàn con Thiên, Địa, Huyền, Hoàng, Nhật, Nguyệt, Tinh, Thần đã thực hiện chuyến lưu diễn lần thứ tư vở 《Tán Kịch》 trong năm 2024 để kỷ niệm 95 năm thành lập.'
+title: 'Minh Hoa Viên: Thành lập tại Tainan năm 1929, đế chế Kinh kịch Đài Loan của bốn thế hệ họ Trần'
+description: 'Gánh hát Kinh kịch khởi nguồn từ sân đình ở Tainan, được thành lập vào năm 1929 bởi Trần Minh Cát và chuyển đến Triều Châu, Bình Đông vào năm 1962. Trước sự tác động của truyền hình và điện ảnh, thế hệ thứ hai là Trần Thắng Phúc đã thực hiện chiến lược ngược dòng khi kiên trì với biểu diễn trực tiếp, đưa vào các kỹ thuật ánh sáng, cơ chế sân khấu, nghệ thuật đu dây trên không và trình chiếu màn nước. Với loạt vở diễn về "Tế Công Hoạt Phật", đoàn đã tạo nên quy mô sân khấu thu hút hàng vạn khán giả, lần đầu tiên biểu diễn tại Nhà tưởng niệm Tôn Trung Sơn vào năm 1982 và tiến vào Nhà hát Quốc gia vào năm 1990. Tám đoàn con gồm Thiên, Địa, Huyền, Hoàng, Nhật, Nguyệt, Tinh, Thần do bốn thế hệ trong gia đình cùng điều hành. Năm 2024, chuyến lưu diễn lần thứ tư của vở "Tán Hí" sẽ được tổ chức nhằm chào mừng kỷ niệm 95 năm thành lập đoàn.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Nghệ thuật và thiết kế',
-    'Hát hí kịch dân gian',
+    'Nghệ thuật và Thiết kế',
+    'Kinh kịch Đài Loan',
     'Nghệ thuật truyền thống',
     'Nghệ thuật biểu diễn',
-    'Truyền thừa bốn thế hệ',
+    'Sự kế thừa bốn thế hệ',
   ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md'
@@ -18,10 +18,10 @@ lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
 translatedFrom: 'People/明華園.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: 'a9322956ed'
 sourceContentHash: 'sha256:ebe4d277504f2738'
 sourceBodyHash: 'sha256:ad65be5d0003de06'
-translatedAt: '2026-09-10T03:36:16+08:00'
+translatedAt: '2026-11-27T02:41:08.037022+00:00'
 ---
 
 # Minh Hoa Viên: Đế chế Hát hí kịch dân gian của dòng họ Trần qua bốn thế hệ, sáng lập năm 1929 tại Đài Nam

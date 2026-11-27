@@ -1,6 +1,6 @@
 ---
-title: 'Lại Hòa: "Mẫu Thượng" vùng Chương Hóa trong bộ y phục bản đảo, và chiếc cân không bao giờ thỏa hiệp'
-description: 'Trước đêm giao thừa năm 1943, danh y Chương Hóa Lại Hòa (Lai He) đã đốt đi các hóa đơn nợ của bệnh nhân nghèo. Vị bác sĩ được mệnh danh là "Cha đẻ của văn học mới Đài Loan" này đã dùng dao mổ cứu người và dùng ngòi bút làm kiếm để phê phán bất công dưới ách thống trị thực dân.'
+title: 'Lại Hòa: "Mẫu Tổ Chương Hóa" trong bộ áo bản đảo, cùng chiếc cân không bao giờ thỏa hiệp'
+description: 'Người cha của văn học mới Đài Loan, người dùng dao mổ cứu người và dùng ngòi bút phê phán bất công. Trong thời kỳ Nhật trị, ông luôn mặc trang phục bản đảo để đứng về phía tầng lớp nhân dân thấp kém, được người dân Chương Hóa tôn kính gọi là "Mẫu Tổ Chương Hóa". Mỗi dịp đêm giao thừa, ông đều đốt bỏ các hóa đơn nợ của những bệnh nhân nghèo khó. Từ sự kiện nông dân trồng mía Nhị Lâm, ông đã viết nên bài thơ mới đầu tiên mang tên 〈Một chiếc cân〉 để phê phán bạo lực pháp luật thực dân, và 〈Nam quốc ai ca〉 để tưởng niệm sự kiện Vụ án Wushe. Cả cuộc đời ông là chứng nhân cho nửa thế kỷ khổ đau dưới ách thống trị, và các tác phẩm của ông cho đến nay vẫn là biểu tượng văn hóa của Đài Loan trong việc chống lại bạo lực quyền lực.'
 date: 2026-04-28
 category: 'People'
 tags:
@@ -9,7 +9,7 @@ tags:
     'Văn học Đài Loan',
     'Chương Hóa',
     'Thời kỳ Nhật trị',
-    'Lịch sử y khoa',
+    'Lịch sử y tế',
     'Phong trào xã hội',
   ]
 subcategory: '文學'
@@ -21,10 +21,10 @@ readingTime: 12
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/賴和.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '2556505034'
 sourceContentHash: 'sha256:3c703a9a3c1bb21e'
 sourceBodyHash: 'sha256:12da8a5e75f1d767'
-translatedAt: '2026-10-24T09:47:28+08:00'
+translatedAt: '2026-11-27T02:33:22.110159+00:00'
 ---
 
 > **Tóm tắt trong 30 giây:** Lại Hòa (1894–1943) là bác sĩ kiêm nhà văn có tầm ảnh hưởng nhất thời kỳ Nhật trị. Một tay ông cầm dao mổ cứu giúp dân nghèo, được tôn kính là "Mẫu Thượng vùng Chương Hóa" và "Hòa Tử Tiên"; tay kia ông cầm bút khai phá nền văn học bạch thoại Đài Loan, phê phán sự bất công của chính quyền thực dân. Cuộc đời ông là hình ảnh thu nhỏ cho sự đấu tranh và lòng tự trọng của người dân Đài Loan dưới ách thống trị của Nhật Bản; đặc biệt là nghĩa cử cao đẹp đốt bỏ giấy nợ của bệnh nhân vào mỗi dịp giao thừa, cùng những dòng chữ viết trong ngục tối, cho đến nay vẫn là tấm gương sáng về y đức và tinh thần nhân văn của Đài Loan.

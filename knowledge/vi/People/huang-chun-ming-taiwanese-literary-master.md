@@ -1,16 +1,16 @@
 ---
-title: 'Hoàng Xuân Minh: Lào Động 1935, người viết tiểu thuyết nhỏ từ "Những ngày biển" đến "Con quà lớn của con trai"'
-description: 'Sinh ngày 13 tháng 2 năm 1935 tại Lào Động, Yên Bái. "Những ngày biển" xuất bản khoảng năm 1967, "Con quà lớn của con trai" năm 1969, tập trung vào những nhân vật nhỏ lẻ trong văn học miền quê Đài Loan. Năm 1977, tranh cãi văn học miền quê bùng phát. Được giải Văn nghệ ba năm mươi (Wu San-Lien) và giải Văn nghệ Quốc gia. Con trai út Hoàng Quốc Tuấn (nhà văn) tự sát vào ngày 20 tháng 6 năm 2003. Năm 1983, Hồ Tiêu Hiên (Hou Hsiao-hsien) chuyển tác lên màn ảnh. Năm 2026, Hoàng Xuân Minh vẫn còn sống khỏe.'
+title: 'Huỳnh Xuân Minh: Lô Đông 1935, từ «Nhìn biển những ngày» đến «Cái búp bê lớn của con trai» — người viết về những con người nhỏ bé'
+description: 'Nhà văn văn học quê hương sâu rễ tại Giâm Lan, lấy những con người nhỏ bé ở tầng dưới xã hội làm cốt lõi sáng tác, sau khi tốt nghiệp Trường Sư phạm Đài Bắc, ông làm giáo viên tiểu học lâu năm, biến nhật ký nông thôn thành nguyên liệu tiểu thuyết. «Nhìn biển những ngày» viết về phụ nữ bị đẩy ra lề đường với góc nhìn không phán xét, «Cái búp bê lớn của con trai» viết về người cha làm mùi cười để nuôi gia đình, năm 1983 được Hầu Hiếu Hiên chuyển thể lên màn ảnh bạc. Trong cuộc tranh luận văn học quê hương năm 1977, ông là một trong những nhà văn được thảo luận trọng điểm, từng đoạt Giải Văn nghệ Ngô Tam Liên và Giải Văn nghệ Quốc gia, cuối đời tiếp tục quan tâm đến người yếu thế thông qua Nhóm kịch trẻ em Hoàng Đại Ngư.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Văn học',
-    'văn học miền quê',
-    'Yên Bái',
-    'nhân vật nhỏ lẻ',
-    'Con quà lớn của con trai',
-    'Những ngày biển',
+    'Văn học quê hương',
+    'Giâm Lan',
+    'Tiểu nhân vật',
+    'Cái búp bê lớn của con trai',
+    'Nhìn biển những ngày',
   ]
 subcategory: '文學'
 author: 'Taiwan.md'
@@ -21,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/黃春明.md'
-sourceCommitSha: '22286539e'
-sourceContentHash: 'sha256:fa94afa39f837939'
-sourceBodyHash: 'sha256:59fc287ce8c0baeb'
-translatedAt: '2026-11-06T15:18:57.232810+00:00'
+sourceCommitSha: '2556505034'
+sourceContentHash: 'sha256:fb400d56624fcb69'
+sourceBodyHash: 'sha256:be81edf9c205405a'
+translatedAt: '2026-11-27T02:45:50.097688+00:00'
 ---
 
 # Hoàng Xuân Minh: Lào Động 1935, người viết tiểu thuyết nhỏ từ "Những ngày biển" đến "Con quà lớn của con trai"
@@ -53,11 +53,11 @@ Vấn đề cốt lõi của "Con quà lớn của con trai" nằm ở nhân ph�
 
 Hoàng Xuân Minh không bao giờ viết về những nhân vật nhỏ lẻ bằng cảm xúc đồng cảm, mà là bằng cách tiếp cận gần gũi như thể đang nói chuyện; cách "nói chuyện" này khiến tiểu thuyết của anh vẫn còn hiệu lực ngay cả vài chục năm sau này.
 
-## Vị trí của Hoàng Xuân Minh trong tranh cãi văn học miền quê năm 1977
+## Vị trí trong tranh cãi văn học miền quê năm 1977
 
-Năm 1977, "Tranh cãi văn học miền quê" bùng phát, các nhà phê bình hoài nghi về quan điểm chính trị của văn học miền quê. Hoàng Xuân Minh là một trong những nhà văn được thảo luận nhiều nhất trong cuộc tranh cãi. [^2] Anh không đầu hàng hay thu hẹp quan điểm, mà tiếp tục kiên trì theo dõi cuộc sống của tầng lớp dân thường.
+Năm 1977, [tranh cãi văn học miền quê](/vi/history/nativist-literature-debate/) bùng nổ, phe phê bình chỉ trích lập trường chính trị của văn học miền quê. Hoàng Xuân Minh trở thành một trong những nhà văn bị thảo luận tập trung nhất trong cuộc tranh cãi này[^2]. Ông không nhượng bộ lùi bước, kiên định duy trì hướng sáng tác chú trọng đến cuộc sống của người dân cơ tầng.
 
-Tác động của tranh cãi văn học miền quê đến Hoàng Xuân Minh nằm ở chỗ tác phẩm của anh buộc phải bước vào một khung chính trị mà anh không hề định hướng. Anh viết về những nhân vật nhỏ lẻ, bởi vì những người ấy tồn tại thật, cần được nhìn thấy; quan điểm chính trị là khung giải thích do người khác áp đặt. Sau khi tranh cãi kết thúc, quan điểm của anh không thay đổi: lựa chọn tiếp tục sử dụng văn học để làm những gì anh luôn đang làm — để những người ấy được nhìn thấy.
+Tác động của tranh cãi văn học miền quê đối với Hoàng Xuân Minh nằm ở chỗ tác phẩm của ông bị kéo vào một khung chính trị mà ông không hề dự định bước vào. Ông viết về những người nhỏ bé, vì những người ấy thực sự tồn tại, cần được nhìn thấy; những luận điểm chính trị chỉ là khuôn khổ giải thích mà người khác áp đặt lên. Sau cuộc tranh cãi, lập trường của ông không hề thay đổi: chọn tiếp tục dùng văn học để làm điều ông luôn theo đuổi — để những người ấy được nhìn thấy.
 
 ## Giải thưởng văn học
 

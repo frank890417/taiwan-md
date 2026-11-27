@@ -1,15 +1,15 @@
 ---
-title: 'Hứa Phương Nghi: Giê Lan 1971, từ vũ công chính Đoàn nhảy Martha Graham đến vũ công thiết kế hình ảnh chính Liên hoan phim Kim Mã 2024'
-description: 'Sinh năm 1971 tại Giê Lan. Tốt nghiệp hệ Nhảy Đại học Nghệ thuật Đài Bắc, năm 1995 sang Mỹ, gia nhập Đoàn nhảy Martha Graham, năm 1999 thăng cấp vũ công chính. Năm 2007 về Đài Loan thành lập LAFA (kết thúc 2010). Phim tài liệu "Ta tâm ta hành" (2020). Năm 2024 thiết kế vũ đạo hình ảnh chính cho Liên hoan phim Kim Mã. Năm 2025 nhận phỏng vấn bàn về vấn đề lão hóa cơ thể.'
+title: 'Hứa Phương Nghi: Sinh năm 1971 tại Nghi Lan, từ vũ công chính của Đoàn múa Graham đến vũ công thiết kế hình ảnh chủ đạo cho Kim Mã 2024'
+description: 'Vũ công múa hiện đại Đài Loan, sinh ra tại Nghi Lan. Sau khi tốt nghiệp khoa Vũ đạo tại Đại học Nghệ thuật Đài Bắc, bà sang Mỹ và vượt qua vòng thử vai để gia nhập Đoàn múa Martha Graham vào năm 1995. Bốn năm sau, bà được thăng chức lên vị trí vũ công chính (principal dancer), trở thành một trong số ít người Đài Loan đứng ở vị trí chủ chốt tại các đoàn múa hiện đại hàng đầu thế giới. Năm 2007, bà trở về Đài Loan thành lập La Fang nhằm thúc đẩy giáo dục vũ đạo và hợp tác liên ngành. Năm 2020, bộ phim tài liệu "Ngã tâm ngã hành" được công chiếu; năm 2024, bà thiết kế vũ đạo cho hình ảnh chủ đạo của Giải thưởng Điện ảnh Golden Horse. Những năm gần đây, bà liên tục chia sẻ công khai về sự lão hóa của cơ thể và quá trình chuyển đổi nghề nghiệp của một vũ công.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Nghệ thuật với Thiết kế',
-    'Nhảy',
+    'Nghệ thuật và Thiết kế',
+    'Vũ đạo',
     'Nghệ thuật biểu diễn',
-    'Nhảy hiện đại',
-    'Đoàn nhảy Martha Graham',
+    'Múa hiện đại',
+    'Đoàn múa Graham',
   ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md'
@@ -20,10 +20,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/許芳宜.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '630afb2b66'
 sourceContentHash: 'sha256:a31b5339a894147e'
 sourceBodyHash: 'sha256:e2e71f85bef4ed48'
-translatedAt: '2026-11-04T21:19:51.029751+00:00'
+translatedAt: '2026-11-27T02:44:47.062330+00:00'
 ---
 
 # Hứa Phương Nghi: Giê Lan 1971, từ vũ công chính Đoàn nhảy Martha Graham đến vũ công thiết kế hình ảnh chính Liên hoan phim Kim Mã 2024

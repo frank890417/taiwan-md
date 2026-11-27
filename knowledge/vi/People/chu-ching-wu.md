@@ -1,14 +1,14 @@
 ---
-title: 'Chu Tĩnh Vũ: Nghiên cứu thành công siêu dẫn 93K năm 1987, người phát hiện chung'
-description: 'Sinh năm 1941 tại Hương Khê, là nhà vật lý người Mỹ gốc Đài Loan. Năm 1987, cùng với Lý Hoạt Khôn, phát hiện ra hợp chất YBCO có Tc bằng 93K, vượt qua ngưỡng nhiệt độ nitơ lỏng, khai mở kỷ nguyên siêu dẫn cao nhiệt độ. Từ 2001 đến 2009, giữ chức Hiệu trưởng Đại học Khoa học và Công nghệ Hồng Kông. Năm 2026, công bố kết quả Tc đạt 151K trên PNAS, vẫn đang nghiên cứu tích cực ở độ tuổi 85.'
+title: 'Chu Kinh Vũ: Năm 1987 đột phá nhiệt độ nitơ lỏng, đồng khám phá ra siêu dẫn nhiệt độ cao Tc=93K'
+description: 'Đồng khám phá ra siêu dẫn nhiệt độ cao. Sinh tại Hồ Nam, lớn lên tại Đài Loan, tốt nghiệp Khoa Vật lý Đại học Thành Công sau đó sang Mỹ lấy bằng tiến sĩ. Từ năm 1979, tại Đại học Houston, ông thành lập nhóm nghiên cứu siêu dẫn. Tháng 1 năm 1987, phát hiện oxit yttrium barium đồng với nhiệt độ 임계 đạt 93K, lần đầu tiên vượt qua ngưỡng nhiệt độ nitơ lỏng, đưa siêu dẫn nhiệt độ cao từ các phòng thí nghiệm hàng đầu đi vào khả thi công nghiệp. Từ 2001 đến 2009 đảm nhiệm hiệu trưởng Đại học Khoa học và Công nghệ Hồng Kông. Năm 2026, 85 tuổi, ông vẫn công bố trên Tạp chí Viện Hàn lâm Khoa học Quốc gia Mỹ đột phá mới Tc=151K, chưa bao giờ rời xa đường cong nhiệt độ liên tục tăng lên.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Khoa học và học thuật',
-    'Nhà vật lý',
-    'Siêu dẫn',
-    'Đại học Hồng Kông',
+    'Khoa học và Học thuật',
+    'Nhà vật lý học',
+    'Chất siêu dẫn',
+    'Đại học Khoa học và Công nghệ Hồng Kông',
     'Đại học Houston',
   ]
 subcategory: '科學與學術'
@@ -20,10 +20,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/朱經武.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'a9322956ed'
 sourceContentHash: 'sha256:79c87fb84a11dd9d'
 sourceBodyHash: 'sha256:619ef92c56c46024'
-translatedAt: '2026-11-04T21:49:13.672146+00:00'
+translatedAt: '2026-11-27T02:37:29.374608+00:00'
 ---
 
 # Chu Tĩnh Vũ: Nghiên cứu thành công siêu dẫn 93K năm 1987, người phát hiện chung

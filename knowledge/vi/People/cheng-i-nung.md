@@ -1,25 +1,25 @@
 ---
-title: 'Zheng Yilong: Viết Những Bài Hát Chân Thành Bằng Ngôn Ngữ Lạnh Lẽo — Từ Khi Công Bố Tự Sự Tới Năm 2023 Nhận Hai Giải Nhạc Kinh Mạc'
-description: 'Zheng Yilong (sinh ngày 19 tháng 3 năm 1987 tại Yilan), con gái của đạo diễn phim mới Zheng Wenhao. Năm 2007, cô xuất hiện với vai chính và đóng góp phần mềm và nhạc nền trong bộ phim "Mùa Hè Của Đuôi". Cô được đề cử hạng mục diễn xuất mới tại Lễ hội Hạt rơn vàng 44. Năm 2016, cô công bố quan hệ tình cảm và cùng vợ Zheng Yangzheng (nhạc sĩ của ban nhạc Fire Extinguisher) ký ly hôn trong cùng tháng. Năm 2022, cô phát hành album nhạc dành riêng ngày ngày Yilan đầu tiên "Tình Ngược" (Mercury Retrograde), và vào năm 2023 nhận được hai giải thưởng ca sĩ nữ ngày Yilan và album ngày Yilan tại Lễ hội Nhạc Kinh Mạc 34. Cô từng nói: "Vì vậy tôi đã sử dụng một ngôn ngữ mà tôi chưa quen thuộc, để tự thân trở nên khó khăn hơn."'
+title: 'Trịnh Nghi Nông: Dùng ngôn ngữ xa lạ nhất để viết những bài hát chân thành nhất — Bảy năm từ khi công khai bản thân năm 2016 đến khi giành đôi giải Golden Melody tiếng Đài năm 2023'
+description: "Người sáng tạo đa lĩnh vực sinh năm 1987 tại Yilan, cha là đạo diễn Trịnh Văn Đường, mẹ là nhạc sĩ dày dạn kinh nghiệm từng hát thường trực. Năm 2007 ra mắt với vai nữ chính, biên kịch và nhạc phim 'Duôi mùa hè', nhập cố giải Cương Mã thưởng nhân vật mới xuất sắc nhất; năm 2011 phát hành album đầu tay 'Hải Vương Tinh' toàn bộ sáng tác bằng tiếng Quốc ngữ; năm 2016 công khai xuất tủ trên Facebook, cùng tháng ly hôn với Dương Đại Chính; năm 2022 phát hành album tiếng Đài đầu tiên 'Thủy Nghịch', năm 2023 giành đôi giải Golden Melody nữ ca sĩ tiếng Đài xuất sắc nhất và album tiếng Đài xuất sắc nhất, để lại lời cảm ơn khi nhận giải: 'Tiếng Đài dạy tôi cúi đầu'."
 date: 2026-04-18
 category: 'People'
 tags:
   [
-    'con người',
-    'Zheng Yilong',
+    'Nhân vật',
+    'Trịnh Nghi Nông',
     'Enno Cheng',
-    'âm nhạc ngày Yilan',
-    'giải thưởng Nhạc Kinh Mạc',
-    'Tình Ngược',
+    'Nhạc tiếng Đài',
+    'Giải Golden Melody',
+    'Thủy Nghịch',
     'Mercury Retrograde',
-    'Zheng Wenhao',
-    'Tiger Chocolate',
-    'Gửi Sao Thái Bảo',
-    'Sao Thái Bảo',
-    'Yang Zhengzheng',
-    'Bình Chữa Cháy',
-    'kể chuyện cá nhân',
-    'nhạc độc lập',
+    'Trịnh Văn Đường',
+    'Mạnh Hổ Sô-cô-la',
+    'Tặng Thiên Vương Tinh',
+    'Hải Vương Tinh',
+    'Dương Đại Chính',
+    'Diệt Hoả Khí',
+    'Kể chuyện nhận diện bản thân',
+    'Nhạc độc lập',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
@@ -29,10 +29,10 @@ lastHumanReview: true
 researchReport: 'reports/research/2026-04/鄭宜農.md'
 readingTime: 18
 translatedFrom: 'People/鄭宜農.md'
-sourceCommitSha: 'ac1d187af'
+sourceCommitSha: 'fc0798f30d'
 sourceContentHash: 'sha256:9978590a40b2bfce'
 sourceBodyHash: 'sha256:2eaa36629936ca3c'
-translatedAt: '2026-07-28T08:51:46+08:00'
+translatedAt: '2026-11-27T03:19:51.191945+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Zheng Yilong sinh ngày 19 tháng 3 năm 1987 tại Yilan. Con gái của đạo diễn Zheng Wenhao (sinh năm 1958 tại Yilan) — vào năm 1984, ông gia nhập "Nhóm màu xanh lá" để quay các tài liệu chính trị xã hội, sau đó chuyển sang sáng tác phim, với đề tài chính "Đảo rẽ" giành giải phim tốt nhất nhà nghệ sĩ quốc tế tuần hội Kinh Mạc, vàng 44.
