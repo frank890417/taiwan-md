@@ -1,6 +1,6 @@
 ---
-title: 'Fang-Yi Sheu: Yilan 1971, de principal del Martha Graham Dance Company a bailarina del diseño visual del Festival de Cine Golden Horse 2024'
-description: 'Nacida en Yilan en 1971. Licenciada en Danza por la Universidad Nacional de las Artes de Taipéi. Viajó a Estados Unidos en 1995 y se incorporó al Martha Graham Dance Company, donde fue ascendida a bailarina principal en 1999. En 2007 regresó a Taiwán y fundó LAFA (concluido en 2010). Documental *Salto al vacío* (2020). En 2024 diseñó la coreografía del diseño visual del Festival de Cine Golden Horse. En 2025 concedió entrevistas sobre el envejecimiento del cuerpo.'
+title: 'Hsu Fang-yi: Nacida en Yilan en 1971, de bailarina principal de la Compañía Martha Graham a bailarina del visual principal de los Golden Horse Awards 2024'
+description: 'Bailarina de danza moderna taiwanesa, nacida en Yilan. Tras graduarse en el Departamento de Danza de la Universidad de Artes de Taipéi, se trasladó a Estados Unidos, donde en 1995 superó las audiciones para unirse a la Compañía de Danza Martha Graham, ascendiendo a bailarina principal cuatro años después, siendo una de las pocas taiwanesas en alcanzar el puesto de principal en una compañía internacional de danza moderna de primer nivel. En 2007 regresó a Taiwán para fundar La Fang, promoviendo la educación de la danza y la colaboración interdisciplinaria. En 2020 se estrenó su documental "I Dance, I Move", y en 2024 diseñó la danza del visual principal para los Golden Horse Film Festival. En años recientes, ha hablado públicamente sobre el envejecimiento corporal y la transición profesional de los bailarines.'
 date: 2026-03-19
 category: 'People'
 tags:
@@ -8,8 +8,8 @@ tags:
     'Arte y diseño',
     'Danza',
     'Artes escénicas',
-    'Danza contemporánea',
-    'Martha Graham Dance Company',
+    'Danza moderna',
+    'Compañía de Danza Martha Graham',
   ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md'
@@ -20,10 +20,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/許芳宜.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '630afb2b66'
 sourceContentHash: 'sha256:a31b5339a894147e'
 sourceBodyHash: 'sha256:e2e71f85bef4ed48'
-translatedAt: '2026-11-04T21:39:15.072840+00:00'
+translatedAt: '2026-11-27T02:29:46.978896+00:00'
 ---
 
 # Fang-Yi Sheu: Yilan 1971, de principal del Martha Graham Dance Company a bailarina del diseño visual del Festival de Cine Golden Horse 2024

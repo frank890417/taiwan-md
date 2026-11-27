@@ -1,15 +1,15 @@
 ---
-title: 'Ming Hua Yuan: fundado en 1929 en Tainan, el imperio de la ópera taiwanesa de cuatro generaciones de la familia Chen'
-description: 'Fundado por Chen Mingji en Tainan en 1929, se trasladó a Chaozhou, Pingtung, en 1962. La segunda generación, Chen Shengfu, introdujo tecnología teatral moderna, llevando la ópera taiwanesa al Teatro Nacional. Con ocho subcompañías —Tian, Di, Xuan, Huang, Ri, Yue, Xing, Chen—, en 2024 la obra *Sanxi* realizó su cuarta gira conmemorando el 95.º aniversario.'
+title: 'Ming Hua Yuan: Fundada en Tainan en 1929, el imperio de la ópera Geza de cuatro generaciones de la familia Chen'
+description: "Una compañía de ópera Geza que comenzó en los templos de Tainan, fundada por Chen Ming-ji en 1929 y trasladada a Chaozhou, Pingtung en 1962. Ante el impacto de la televisión y el cine, la segunda generación liderada por Chen Sheng-fu optó por una estrategia inversa, manteniendo las actuaciones en vivo e introduciendo iluminación, maquinaria escénica, acrobacias aéreas y proyecciones sobre cortinas de agua, creando espectáculos multitudinarios con la serie 'Ji Gong'. En 1982 se presentó por primera vez en el Salón Conmemorativo de Sun Yat-sen y en 1990 en el Teatro Nacional. Sus ocho subgrupos (Tian, Di, Xuan, Huang, Ri, Yue, Xing, Chen) son gestionados conjuntamente por cuatro generaciones de la familia; en 2024, la gira 'San Xi' celebra su cuarta presentación para conmemorar el 95.º aniversario de su fundación."
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Arte y diseño',
-    'Ópera taiwanesa',
+    'Ópera Geza',
     'Arte tradicional',
     'Artes escénicas',
-    'Herencia de cuatro generaciones',
+    'Legado de cuatro generaciones',
   ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md'
@@ -17,15 +17,11 @@ featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
-# design_rationale:
-#   why_this_hook: "從創立地的精確度切入——不是屏東潮州，是台南。這個細節代表整篇文章的可信度，也讓讀者理解明華園的真實起點。"
-#   whats_excluded: "各劇目完整演出場次與票房數字；各子團歷年負責人名單；政府補助金額"
-#   where_it_hedges: "亞維儂藝術節（P0⚠️待確認）；2009小巨蛋演出（P0無法確認，已移除）"
 translatedFrom: 'People/明華園.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: 'a9322956ed'
 sourceContentHash: 'sha256:ebe4d277504f2738'
 sourceBodyHash: 'sha256:ad65be5d0003de06'
-translatedAt: '2026-05-20T05:08:32+08:00'
+translatedAt: '2026-11-27T02:24:37.524546+00:00'
 ---
 
 # Ming Hua Yuan: fundado en 1929 en Tainan, el imperio de la ópera taiwanesa de cuatro generaciones de la familia Chen

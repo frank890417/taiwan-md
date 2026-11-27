@@ -1,16 +1,16 @@
 ---
-title: 'Huang Chun-ming: Luodong 1935, de «Días mirando el mar» a «El gran muñeco del hijo», cronista de la gente común'
-description: 'Nacido el 13 de febrero de 1935 en Luodong, Yilan. «Días mirando el mar» (1967), «El gran muñeco del hijo» (1969), representan la preocupación central de la literatura nativista taiwanesa por la gente común. Debate sobre literatura nativista de 1977. Ganador del Premio Literario Wu San-lien y del Premio Nacional de Literatura. Su segundo hijo, Huang Kuo-chun (escritor), se suicidó el 20 de junio de 2003. Hou Hsiao-hsien llevó su obra a la pantalla en 1983. Sigue vivo en 2026.'
+title: 'Huang Chun-ming: De Luodong 1935, de «Los días de mirar el mar» a «El gran muñeco del hijo», cronista de la gente común'
+description: 'Escritor de literatura regionalista profundamente arraigado en Yilan, cuyo núcleo creativo son las personas comunes de estratos sociales bajos. Tras graduarse en la Escuela Normal de Taipei, trabajó durante mucho tiempo como maestro de primaria, transformando la vida cotidiana rural en materia prima para sus novelas. «Los días de mirar el mar» retrata a mujeres marginadas desde una perspectiva libre de juicios; «El gran muñeco del hijo» narra la historia de un padre que trabaja como payaso para mantener a su familia, obra que fue adaptada al cine por Hou Hsiao-hsien en 1983. Fue uno de los autores clave discutidos durante el debate de la literatura regionalista de 1977 y ha sido galardonado con el Premio Literario Wu San-lien y el Premio Nacional de las Artes. En su vejez, continúa su atención hacia los más vulnerables a través del Grupo de Teatro Infantil Huang Da-yu.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Literatura',
-    'Literatura nativista',
+    'Literatura regionalista',
     'Yilan',
     'Gente común',
     'El gran muñeco del hijo',
-    'Días mirando el mar',
+    'Los días de mirar el mar',
   ]
 subcategory: '文學'
 author: 'Taiwan.md'
@@ -21,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/黃春明.md'
-sourceCommitSha: '22286539e'
-sourceContentHash: 'sha256:fa94afa39f837939'
-sourceBodyHash: 'sha256:59fc287ce8c0baeb'
-translatedAt: '2026-11-04T23:49:12.072162+00:00'
+sourceCommitSha: '2556505034'
+sourceContentHash: 'sha256:fb400d56624fcb69'
+sourceBodyHash: 'sha256:be81edf9c205405a'
+translatedAt: '2026-11-27T02:33:09.331625+00:00'
 ---
 
 # Huang Chun-ming: Luodong 1935, cronista de los pequeños personajes de "Un día para ver el mar" a "El gran muñeco del hijo"
@@ -57,9 +57,9 @@ La escritura de Huang Chun-ming sobre los pequeños personajes nunca es lastimer
 
 ## Su posición en el debate de la literatura nativista de 1977
 
-En 1977 estalló el "debate de la literatura nativista", en el que los críticos cuestionaron la postura política de esta corriente. Huang Chun-ming fue uno de los escritores más debatidos en dicho enfrentamiento.[^2] No cedió ni se retractó, y continuó firme en su dirección creativa de dar voz a las clases populares.
+En 1977, estalló el [debate de la literatura nativista](/es/history/nativist-literature-debate/), en el que los críticos cuestionaron la postura política de este movimiento. Huang Chun-ming fue uno de los escritores objeto de un intenso debate durante esta controversia[^2]. Sin embargo, no cedió ni retrocedió, manteniendo su enfoque creativo centrado en la vida de las clases populares.
 
-El impacto del debate de la literatura nativista sobre Huang Chun-ming radicó en que su obra fue forzada a encajar en un marco político que él no había buscado. Él escribía sobre pequeños personajes porque existían de verdad y necesitaban ser vistos; la dimensión política fue un marco interpretativo impuesto por otros. Tras el debate, su postura no cambió: eligió seguir haciendo con la literatura lo que siempre había hecho — hacer visibles a esas personas.
+El impacto del debate de la literatura nativista sobre Huang Chun-ming radicó en que sus obras se vieron forzadas a entrar en un marco político que él no pretendía adoptar. Él escribía sobre la gente común porque esas personas existían realmente y necesitaban ser vistas; las declaraciones políticas eran marcos de interpretación impuestos por otros. Tras el debate, su postura no cambió: eligió seguir utilizando la literatura para hacer lo que siempre ha hecho: lograr que esas personas sean vistas.
 
 ## Premios literarios
 

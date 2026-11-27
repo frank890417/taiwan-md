@@ -1,16 +1,16 @@
 ---
-title: 'Li Ang: Lukang 1952, la pionera que abrió el camino de la literatura feminista en Taiwán con «Matar al marido»'
-description: 'Nacida en Lukang, Changhua, en 1952, su nombre real es Shih Shu-tun. En 1983, su obra «Matar al marido», serializada en United Daily News, conmocionó el mundo literario taiwanés con su temática sobre la violencia doméstica. En 1991 publicó «El jardín de las delicias». En 2004 recibió la Orden de las Artes y las Letras de Francia en la distinción de Caballero. Sus obras han sido traducidas al inglés, francés, alemán y japonés, siendo una de las escritoras taiwanesas con mayor atención internacional.'
+title: 'Li Ang: Lukang 1952, la pionera que abrió el camino de la literatura feminista en Taiwán con "Matar al marido"'
+description: 'Escritora de literatura feminista taiwanesa, nacida en Lukang, Changhua, en 1952. Su nombre real es Shi Shu-tun y se graduó en el Departamento de Filosofía de la Universidad de la Cultura China. En 1983, su obra "Matar al marido" fue serializada en United Daily News, impactando el mundo literario con su temática sobre la violencia doméstica y siendo considerada la precursora de la literatura feminista en Taiwán; en 1991 publicó "El jardín de las delicias", explorando la presión de la cultura tradicional y la subjetividad femenina. En 2004 recibió la Orden de las Artes y las Letras de Francia en la distinción de Caballero. Sus obras han sido traducidas al inglés, francés, alemán y japonés, siendo una de las escritoras taiwanesas con mayor reconocimiento internacional.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'literatura',
-    'literatura feminista',
+    'Literatura',
+    'Literatura feminista',
     'Matar al marido',
     'El jardín de las delicias',
     'Lukang',
-    'temas de género',
+    'Temas de género',
   ]
 subcategory: '文學'
 author: 'Taiwan.md'
@@ -21,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/李昂.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '3f269cde5e'
 sourceContentHash: 'sha256:047f29e16ec14ac9'
 sourceBodyHash: 'sha256:0a0f9bd1ab3db88b'
-translatedAt: '2026-11-04T20:41:12.623737+00:00'
+translatedAt: '2026-11-27T02:36:50.900256+00:00'
 ---
 
 # Li-ang: Lukang 1952, la pionera de la literatura feminista taiwanesa con _La mujer del verdugo_

@@ -1,14 +1,14 @@
 ---
-title: 'Chu Ching-wu: co-descubridor de superconductividad a alta temperatura con Tc=93K, superando el umbral del nitrógeno líquido en 1987'
-description: 'Nacido en Hunan en 1941, físico taiwanés-estadounidense. En enero de 1987 descubrió jun Wu Maw-kun el óxido de itrio-bario-cobre (YBCO) con Tc=93K, superando por primera vez el umbral de temperatura del nitrógeno líquido e inaugurando la era de la superconductividad a alta temperatura. Fue rector de la Universidad de Ciencia y Tecnología de Hong Kong entre 2001 y 2009. En marzo de 2026 publicó en PNAS un nuevo hito con Tc=151K, manteniéndose activo en investigación a los 85 años.'
+title: 'Chu Ching-wu: Co-descubridor de la superconductividad de alta temperatura con Tc=93K que superó la temperatura del nitrógeno líquido en 1987'
+description: 'Co-descubridor en el campo de la superconductividad de alta temperatura. Nacido en Hunan y criado en Taiwán, se graduó en Física por la Universidad Nacional Sun Yat-sen antes de obtener su doctorado en Estados Unidos. Desde 1979, lideró un equipo de investigación en superconductividad en la Universidad de Houston. En enero de 1987, descubrió el óxido de itrio, bario y cobre con una temperatura crítica de 93K, superando por primera vez el umbral de la temperatura del nitrógeno líquido y permitiendo que la superconductividad de alta temperatura pasara de los laboratorios de élite a la viabilidad industrial. Fue rector de la Universidad de Ciencia y Tecnología de Hong Kong entre 2001 y 2009. A los 85 años, en agosto de 2026, publicó un nuevo avance de Tc=151K en el PNAS, sin haber abandonado nunca esa curva de temperaturas en constante ascenso.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Ciencia y Academia',
+    'Ciencia y academia',
     'Físico',
     'Superconductor',
-    'Universidad de Ciencia y Tecnología de Hong Kong',
+    'HKUST',
     'Universidad de Houston',
   ]
 subcategory: '科學與學術'
@@ -20,10 +20,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/朱經武.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'a9322956ed'
 sourceContentHash: 'sha256:79c87fb84a11dd9d'
 sourceBodyHash: 'sha256:619ef92c56c46024'
-translatedAt: '2026-11-04T22:53:27.239720+00:00'
+translatedAt: '2026-11-27T02:22:17.299803+00:00'
 ---
 
 # Chu Ching-wu: co-descubridor de superconductividad a alta temperatura con Tc=93K, superando el umbral del nitrógeno líquido en 1987

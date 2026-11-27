@@ -1,16 +1,16 @@
 ---
-title: 'Zhong Lihe: Meinong 1915, el cultivador de la pluma caído en un charco de sangre'
-description: 'Nació el 15 de diciembre de 1915 en una familia hakka de Meinong, Kaohsiung. En 1938 viajó al noreste de China, regresó a Taiwán en 1946. Obras representativas: "La granja de Lisan" (novela), "El hombre de la tierra natal" (cuento, escrito en 1959), "Esposos pobres". Llamado "el cultivador de la pluma caído en un charco de sangre", a menudo venerado como "padre de la literatura nativista taiwanesa" (título disputado). Falleció el 4 de agosto de 1960 tosiendo sangre, a los 44 años.'
+title: 'Chung Li-ho: Meinong 1915, el escritor que cayó en un charco de sangre'
+description: 'Escritor de literatura regionalista que utilizó las zonas rurales Hakka como escenario de sus obras. Nacido en una familia campesina Hakka en Meinong, Kaohsiung, vivió ocho años errante en el noreste de China a partir de 1938 antes de regresar a Taiwán en 1946. Su novela "Granja de Lishan" registra con honestidad y desde una perspectiva interna las dificultades de supervivencia de los campesinos, mientras que su relato "Gente de la tierra natal" cuestiona la pertenencia espiritual. A menudo es venerado como el "Padre de la literatura regionalista de Taiwán", aunque este título es objeto de debate. A pesar de sufrir tuberculosis, persistió en su labor literaria y falleció a los 44 años en 1960 mientras corregía un manuscrito tras toser sangre, siendo conocido como "el escritor que cayó en un charco de sangre".'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Literatura',
-    'literatura nativista',
-    'El hombre de la tierra natal',
-    'La granja de Lisan',
+    'Literatura regionalista',
+    'Gente de la tierra natal',
+    'Granja de Lishan',
     'Meinong',
-    'hakka',
+    'Hakka',
   ]
 subcategory: '文學'
 author: 'Taiwan.md'
@@ -21,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/鍾理和.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '2556505034'
 sourceContentHash: 'sha256:cddbfe1c856d1966'
 sourceBodyHash: 'sha256:59814996cd0ea2c6'
-translatedAt: '2026-11-05T05:47:59+08:00'
+translatedAt: '2026-11-27T02:34:53.043407+00:00'
 ---
 
 # Zhong Lihe: Meinong 1915, el cultivador de la pluma caído en un charco de sangre

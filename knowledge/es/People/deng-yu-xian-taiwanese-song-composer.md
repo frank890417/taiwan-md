@@ -1,14 +1,14 @@
 ---
-title: 'Deng Yuxian: Hakka 1906, las Cuatro Canciones de la Lluvia de Abril — Los treinta y nueve años del padre de la canción taiwanesa'
-description: 'Nacido el 21 de julio de 1906 en una familia hakka de Longtan, Taoyuan, con el nombre original Deng Bingyan. Graduado de la escuela normal, fue contratado por Columbia Records en 1933. Sus cuatro obras maestras, conocidas colectivamente como "Cuatro Canciones de la Lluvia de Abril" (Canción de las Cuatro Estaciones / Melancolía de la Noche de Luna / Esperando el Viento de Primavera / Flores en la Noche de Lluvia), siguen interpretándose hasta hoy. En 1939 se trasladó a la escuela pública de Qionglin, Hsinchu, para ejercer como maestro. Falleció el 11 de junio de 1944 en el Hospital de Zhudong, a los 39 años de edad.'
+title: 'Deng Yuxian: Hakka 1906, lluvia de abril — Los treinta y nueve años del padre de las canciones taiwanesas'
+description: 'Compositor que sentó las bases de la canción popular en taiwanés mediante el uso de armonías occidentales. Proveniente de una familia intelectual hakka en Longtan, Taoyuan, su nombre real era Deng Bingyan; tras graduarse en la escuela normal, trabajó como maestro de primaria. En 1933, fue contratado por Columbia Records como compositor exclusivo y, en menos de dos años, compuso sus cuatro obras maestras: "Sijihong", "Yeyechou", "Wangchunfeng" y "Yuye Hua", conocidas colectivamente como "Lluvia de abril". Bajo el control de la guerra, regresó para enseñar en la Escuela Primaria de Qionglin, Hsinchu, y falleció en 1944 en el Hospital de Zhudong a los 39 años. Sus cuatro melodías han sido versionadas por múltiples generaciones de cantantes y siguen siendo populares hasta hoy.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Música',
-    'Canción en taiwanés',
-    'Compositor',
-    'Período colonial japonés',
+    'música',
+    'canciones en taiwanés',
+    'compositor',
+    'período de dominio japonés',
     'Taoyuan',
     'Hakka',
   ]
@@ -21,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/鄧雨賢.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '2556505034'
 sourceContentHash: 'sha256:03f4c1611aa95a6c'
 sourceBodyHash: 'sha256:0d86dfd69dceab10'
-translatedAt: '2026-11-04T23:14:05.502794+00:00'
+translatedAt: '2026-11-27T02:28:06.832413+00:00'
 ---
 
 # Deng Yuxian: Hakka 1906, las Cuatro Canciones de la Lluvia de Abril — Los treinta y nueve años del padre de la canción taiwanesa

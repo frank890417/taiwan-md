@@ -1,12 +1,12 @@
 ---
-title: 'Xu Wenlong: Tainan 1928, Chi Mei Corporation 1959, fundador del museo con más violines del mundo'
-description: 'Nació en Tainan el 25 de febrero de 1928, falleció el 18 de noviembre de 2023 (95 años). Fundó Chi Mei Corporation en octubre de 1959 (capital NT$2 millones). Desde 1990 adquirió violines, totalizando 1.362 (la mayor colección del mundo). El Museo Chi Mei abrió oficialmente el 1 de enero de 2015 (Parque Metropolitano de Tainan). Amante del violín, el Museo Chi Mei tiene entrada gratuita (política actual P0⚠️ pendiente de confirmación).'
+title: 'Shi Wen-long: Tainan 1928, Chimei Industrial 1959, fundador del museo con la mayor colección de violines del mundo'
+description: 'Padre del acrílico en Taiwán, en 1959 fundó Chimei Industrial con un capital de NT$2 millones; a los 63 años llevó el plástico de ingeniería ABS al primer puesto mundial. Creía que la empresa es un medio para buscar la felicidad, por lo que en 1984 ya instauró la semana laboral de cinco días. Desde 1990 comenzó a adquirir violines antiguos, acumulando 1.362 unidades, la mayor colección privada del mundo; en 2015 el Museo Chimei abrió en el Parque Metropolitano de Tainan, permitiendo que niños de cualquier rincón pudieran contemplar arte occidental de primer nivel. Una vida de 95 años que dejó un hito tanto en los negocios como en la cultura.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Tecnología y empresa',
-    'Grupo Chi Mei',
+    'Grupo Chimei',
     'Empresario',
     'Arte musical',
     'Museo',
@@ -22,10 +22,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/許文龍.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'a9322956ed'
 sourceContentHash: 'sha256:720cd768af91d1c3'
 sourceBodyHash: 'sha256:7ec1f1d13ec2e4d4'
-translatedAt: '2026-11-05T01:46:52.048979+00:00'
+translatedAt: '2026-11-27T02:15:46.209939+00:00'
 ---
 
 # Xu Wenlong: Tainan 1928, fundador de Chi Mei Industry (1959) y del museo con la mayor colección de violines del mundo

@@ -1,14 +1,14 @@
 ---
-title: 'Pai Hsien-yung: *Los viejos de Taipéi* (1971) y veinte años de la gira de la versión juvenil de *El pabellón de las peonías*'
-description: 'Nacido en 1937 en Guilin, Guangxi, hijo de Bai Chongxi. Ingresó en el Departamento de Lenguas Extranjeras de la Universidad Nacional de Taiwán en 1956, donde fundó la revista *Literatura Moderna* junto con Wang Wenxing y otros. En 1971 publicó *Los viejos de Taipéi*, colección de 14 relatos. En 1983, *Los hijos del pecado*. En 2003 inició la planificación de la versión juvenil de *El pabellón de las peonías*, con estreno en abril de 2004; en 2024 se celebró su vigésimo aniversario. Recibió el Premio Nacional de Artes en 2003.'
+title: 'Bai Xianyong: «La gente de Taipei» (1971) y veinte años de gira con la versión juvenil de «El pabellón de las peonías»'
+description: 'Autor de «La gente de Taipei» y «Hijo ilegítimo», nació en Guilin, Guangxi; su padre fue el general del Kuomintang, Bai Chongxi. En 1956 ingresó en el Departamento de Lenguas Modernas de la Universidad Nacional de Taiwán, donde fundó junto a Wang Wenxing y Chen Ruoxi la revista «Literatura Moderna», introduciendo el modernismo occidental en el ámbito literario de Taiwán. En 1971 publicó su colección de catorce relatos cortos «La gente de Taipei» y en 1983 publicó «Hijo ilegítimo». En su vejez se dedicó a la preservación de la ópera Kunqu; en 2003 recibió el Premio Nacional de las Artes e inició la versión juvenil de «El pabellón de las peonías», que tuvo su estreno en Taipei en abril de 2004 y ha realizado más de trescientas funciones en gira.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Literatura',
     'Literatura moderna',
-    'Los viejos de Taipéi',
-    'Los hijos del pecado',
+    'La gente de Taipei',
+    'Hijo ilegítimo',
     'Ópera Kunqu',
     'Bai Chongxi',
   ]
@@ -21,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/白先勇.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '630afb2b66'
 sourceContentHash: 'sha256:d675a47ee18feb3d'
 sourceBodyHash: 'sha256:44085a78b193e440'
-translatedAt: '2026-11-04T21:20:37.604394+00:00'
+translatedAt: '2026-11-27T02:40:24.048925+00:00'
 ---
 
 # Pai Hsien-yung: _Los viejos de Taipéi_ (1971) y veinte años de la gira de la versión juvenil de _El pabellón de las peonías_
