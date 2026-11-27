@@ -332,6 +332,33 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-11-28 twmd-feedback-triage — dry-run-cannot-exercise-the-dedupe-layer-it-is-asked-to-approve：核准 `--commit` 的那道 dry-run，看不到兩層去重裡的一層
+
+- **pattern**: `dry-run-cannot-exercise-the-dedupe-layer-it-is-asked-to-approve`
+- **原則**：`triage.mjs` 的既有 issue 去重只在實跑時載入（`const existing = args.commit ? listOpenIssues() : []`），所以 dry-run 的 `file=N` 結構性地把「會被既有 issue 擋下的那幾筆」算進要開的數字。而薄殼 skill 寫的是「先 dry-run 看分類（HG2 無 email／HG5 spam／**HG6 dedupe** 自己核一遍）」——HG6 有兩層，batch 內那層 dry-run 看得到，既有 issue 那層看不到，被要求核的動作有一半做不到。
+- **觸發**：2026-11-28 本輪 dry-run 印 `file=83`，實跑是 `file=1 reject=0 skip=1 exclude=81`。第 82 筆 `e2e8b1cc` 被判 `duplicate-existing-issue`（lawrenceho306 在 2026-11-26 19:04Z 同一分鐘送的孿生，前一筆昨天已開成 [#2083](https://github.com/frank890417/taiwan-md/issues/2083) 且仍 open，兩筆 body 逐字相同）。今天這個方向是安全的：dry-run 多報，當班因此多讀一筆全文，HG13 反而更保險。**不安全的是反方向**——既有 issue 去重哪天壞了（`gh issue list` 失敗只印一行 warn 就回 `[]`），dry-run 的輸出一字不差，當班看不出今天的核准是在核准一份看不到那層的報表。
+- **instances**：
+  - 2026-11-28 twmd-feedback-triage：見觸發（首例）
+- **可能層級**：操作規則（pipeline §Stage 1 dry-run 那段加一句但書）＋候選機械化
+- **相關**：[REFLEXES #100](REFLEXES.md)（驗證對象要等於落地對象：dry-run 是實跑的替身，兩者差一層元件）／[#82](REFLEXES.md)（`file=N` 是「會開幾個 issue」的替身）／2026-11-05 `dry-run-gate-catches-the-pipelines-own-edit` 是同一道閘門的正面戰績，本條記的是它的射程邊界／2026-08-28 `dedupe-key-is-exact-match-on-normalized-text` 管的是 batch 內那層的判準，本條管的是另一層在 dry-run 裡不存在
+- **候選機械化**（純讀取面，不碰判準不碰閾值）：dry-run 也載入 open issue 清單（只讀 `gh issue list`，不開任何 issue），或在 dry-run 的收官行印一句「本次未載入既有 issue 去重，`file` 是上限不是預測」。前者讓兩種跑法的分類結果一致、代價是 dry-run 多一次 `gh` 呼叫；後者零呼叫但只是把但書說出口。
+- **verification_count**: 1
+- **severity**: minor（今天的失真方向保守；反方向失真無人會知道）
+
+### 2026-11-28 twmd-feedback-triage — canonical-gate-table-grows-but-the-two-operational-layers-are-only-compared-to-each-other：canonical 長出新的一道閘門，兩個操作層都沒跟上，而對賬器比的是那兩層彼此
+
+- **pattern**: `canonical-gate-table-grows-but-the-two-operational-layers-are-only-compared-to-each-other`
+- **原則**：這條線有三層文字——pipeline canonical 的 Hard gate 總表、repo 內薄殼 skill、cron mirror。`routine-sync.py` 對賬的是薄殼與 mirror（「19/19 一致」），canonical 不在它的比較範圍裡。所以 canonical 新增一列 gate 而兩個操作層都沒抄到時，三層對賬是綠的、漂移是零——兩份一樣的不完整，在一把只比彼此的尺底下逐字等於一致。
+- **觸發**：2026-11-28 本輪 grep：`HG14`（11-22 落地，窗口外還有人時收官行印 `⛔ 未完成`）在 pipeline 3 命中、薄殼 skill 0 命中、cron mirror 0 命中；而 `routine-sync` 連十一天報零漂移。今天閘門照樣響，是因為它住在 `triage.mjs` 的程式碼裡而不是住在 prompt 裡——如果某道新 gate 只是一句紀律（像 HG13 的「讀完全文才准判」），兩個操作層沒抄到就等於沒有人會做。
+- **instances**：
+  - 2026-08-09 twmd-self-evolve-weekly：HG9（tilde fence）／HG10（injection 偵測）兩行從 2026-07-05 落進 canonical 起，**從未真正進過 cron mirror**；v1.3 changelog 曾聲稱修好、實地 grep 才發現沒有，期間 8/8 routine-sync 與 8/9 distill 兩班各自碰到縫都留給下一輪（FEEDBACK-TRIAGE v1.5）
+  - 2026-11-28 twmd-feedback-triage：HG14 同型，見觸發
+- **可能層級**：通用反射候選（[REFLEXES #83](REFLEXES.md) 兩把尺 divergence 的變體：對賬器的比較集合漏掉 SSOT 那一邊）；本線操作層先補 HG14 兩行
+- **相關**：[#83](REFLEXES.md)（檢查器對自己與對外部標準不同調）／[#91](REFLEXES.md)（建造與登記是兩個不同步的代謝）／[#69](REFLEXES.md)（每層自評都需要外部尺——兩個操作層互比就是 same-DNA 尺）
+- **候選機械化**：`routine-sync.py` 或一支小檢查器把 pipeline §Hard gate 總表的 `HG\d+[a-z]?` 列抽出來，比對薄殼 skill 與 cron mirror 的 HARD gate 清單，少列就印出來（只警告不擋，判斷哪些 gate 該出現在操作層仍是人的事）
+- **verification_count**: 2
+- **severity**: structural（漂移在一把綠燈的尺底下累積）
+
 ### 2026-11-27 twmd-maintainer-daily — the-string-i-searched-for-has-two-spellings-in-one-repo：搜不到它，是因為它在那個檔裡長成另一個樣子
 
 - **pattern**: `the-string-i-searched-for-has-two-spellings-in-one-repo`
