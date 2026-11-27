@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-28T02:34:41+08:00",
-    "zhCommitHead": "68d756877c",
+    "lastUpdated": "2026-11-28T02:38:44+08:00",
+    "zhCommitHead": "4d617fbbeb",
     "totalZh": 1194,
     "activeLanguages": [
       "en",
@@ -20,9 +20,9 @@
     "summary": {
       "en": {
         "total_zh": 1194,
-        "fresh": 1185,
+        "fresh": 1186,
         "stale": 4,
-        "metadata_stale": 5,
+        "metadata_stale": 4,
         "missing": 0,
         "orphan": 0
       },
@@ -137660,20 +137660,18 @@
         "en": {
           "path": "en/People/muyao4.md",
           "translatedFrom": "People/木曜4超玩.md",
-          "sourceCommitSha": "4f3974f86",
+          "sourceCommitSha": "8fc70bd881",
           "sourceContentHash": "sha256:c545680e99f6d0ab",
           "sourceBodyHash": "sha256:809502b72dc5c3f5",
-          "translatedAt": "2026-09-21T14:34:18.532907+00:00",
+          "translatedAt": "2026-11-27T18:35:02.560510+00:00",
           "translationLastCommit": "cc99c69d",
           "translationLastModified": "2026-09-21T23:57:28+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "bytes": 27026,
+          "bytes": 27331,
           "armorResidue": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/People/muyao4.md",
@@ -213092,8 +213090,8 @@
           "sourceContentHash": "sha256:3c26fdbf6ae8c1e1",
           "sourceBodyHash": "sha256:de7eeb7836899ba7",
           "translatedAt": "2026-11-27T16:51:49.266216+00:00",
-          "translationLastCommit": "2101a31b",
-          "translationLastModified": "2026-11-19T01:20:34+08:00",
+          "translationLastCommit": "4d617fbb",
+          "translationLastModified": "2026-11-28T02:34:42+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "bytes": 50772,
