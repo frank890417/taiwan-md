@@ -1,15 +1,15 @@
 ---
-title: 'Cai Heipi: Anak Laki-laki yang Tumbuh Sambil Menghafal Nama Stasiun MRT, Memasukkan Taiwan ke dalam 260 Ribu Langganan'
-description: 'Lahir pada 2002, Cai Jin-an memulai dari SMA dengan belajar sendiri membuat video "Trivia MRT", dan dua belas tahun kemudian berdiri di panggung Penghargaan Jinlu yang dijuluki "Oscar Bidang Transportasi". Ia mengganti nama, berhenti posting, lalu memulai lagi — mengurus sendiri riset, peta, dan editing — menjadi teladan jangka panjang bagi kreator berbasis pengetahuan di Taiwan.'
+title: 'Cai Heipi: Anak Laki-laki yang Tumbuh Sambil Menghafal Nama Stasiun MRT, Memasukkan Taiwan ke dalam 260.000 Pelanggan'
+description: 'YouTuber pengetahuan asal Taiwan, lahir pada 2002, mulai membuat video saat SMA karena merasa tidak ada yang membuat konten bertema transportasi, karyanya yang pertama adalah trivia MRT Taipei. Ia mengerjakan sendiri riset, peta, naskah, dan penyuntingan, melalui seri "Railway Bar" mengumpulkan ratusan video pembangunan transportasi. Awal 2025 berhenti posting selama sembilan bulan lalu kembali dengan nama baru pada ulang tahun ke-12 saluran, meluncurkan seri nusantara "Taiwan 360", tahun yang sama memperoleh Penghargaan Khusus Golden Road Award ke-26, videonya bahkan dimasukkan ke dalam buku teks geografi SMA.'
 date: 2026-08-19
 category: 'People'
 tags:
   [
     'YouTuber',
     'Transportasi',
-    'Kreator Pengetahuan',
-    'Cai Jin-an',
-    'Penghargaan Jinlu',
+    'Pencipta Konten Pengetahuan',
+    "Cai Jin'an",
+    'Golden Road Award',
     'Geografi Taiwan',
     'Kereta Api',
   ]
@@ -25,10 +25,10 @@ imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:2017-10-23_MRT_train_at_Platform,_Tamsui_Line.jpg'
 curation: 'incubating'
 translatedFrom: 'People/蔡黑皮.md'
-sourceCommitSha: 'e75b621d2'
+sourceCommitSha: '3f269cde5e'
 sourceContentHash: 'sha256:e43b16ae63cbdb17'
 sourceBodyHash: 'sha256:1cde30bd00a46d49'
-translatedAt: '2026-09-12T19:57:13+08:00'
+translatedAt: '2026-11-26T23:32:58.031639+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Cai Jin-an (nama saluran "Cai Heipi", nama pengguna awal "Heipi") lahir 2002, mulai membuat video saat SMA karena merasa "tidak ada yang membuat konten transportasi", karya pertamanya adalah 《10 Hal tentang MRT Taipei yang Tidak Kamu Ketahui》。Dua belas tahun kemudian, ia berdiri di panggung Penghargaan Jinlu ke-26 yang dijuluki "Oscar Bidang Transportasi", meraih Penghargaan Kontribusi Khusus. Inti ketegangan cerita ini: awal 2025 ia mengumumkan berhenti posting, saluran sunyi setengah tahun, semua mengira ia akan hilang, tapi kembali dengan seri "Taiwan 360" berfokus nusantara justru meledak dengan kekuatan lebih dalam. Khusus Uqiu naik ke halaman depan saluran, tontonan tembus seratus ribu. Seorang anak laki-laki yang tumbuh dengan nama stasiun MRT, akhirnya mengarahkan kamera ke sudut paling terlupakan di peta. Tulisan ini bukan kisah kenaikan seorang selebritas internet, tapi bagaimana seorang kreator menemukan alasan non-negotiable-nya di tengah kontradiksi "update tidak dilihat, berhenti ditunggu".

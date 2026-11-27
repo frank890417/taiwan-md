@@ -1,6 +1,6 @@
 ---
-title: 'Du Pan Fang-ge: Tiga Bahasa, Satu Pertunjukan "Ping''an Xi"'
-description: "Penyair wanita Hakka generasi lintas bahasa, keluarga korban kasus Zhang Qilang dalam Peristiwa 228. Karya 〈Ping'an Xi〉 mengubah upacara syukur dewa rakyat menjadi catatan bersama mencuri hidup di bawah Terreur Blanche — orang yang bahasanya dirampas oleh rezim, kalimat paling kejam dalam bahasa ibunya ditulis untuk sesamanya sendiri."
+title: "Du Pan Fang-ge: Tiga Bahasa, Satu Pertunjukan Ping'an"
+description: 'Penyair wanita Hakka dari generasi lintas bahasa, belajar bahasa Jepang pada masa penjajahan Jepang, terpaksa menulis kembali dalam bahasa Tionghoa setelah perang, dan sebelum serta sesudah berakhirnya hukum darurat dia kembali menulis puisi dalam bahasa Hakka. Paman ipar ibunya, dokter Hualien Zhang Qilang dan putranya, tewas dalam Peristiwa 228; sejarah keluarga ini menjadi negatif etis bagi puisi satira politiknya. Pada tahun 1977, "Pertunjukan Ping''an" mengubah panggung pertunjukan musim dingin Hakka untuk menyembah dewa menjadi catatan bersama perjuangan hidup di bawah Teror Putih. Di akhir hayatnya, ia menerima Penghargaan Kontribusi Luar Biasa dari Komisi Hakka; setelah wafat, keluarganya mendonasikan 340 naskah dalam tiga bahasa: Jepang, Tionghoa, dan Hakka.'
 date: 2026-07-12
 category: 'People'
 tags:
@@ -9,11 +9,11 @@ tags:
     'Du Pan Fang-ge',
     'Hakka',
     'Penyair',
-    'Li Shi She',
+    'Komunitas Puisi Li',
     'Generasi Lintas Bahasa',
-    '228',
+    'Peristiwa 228',
     'Puisi Bahasa Hakka',
-    "Ping'an Xi",
+    "Pertunjukan Ping'an",
     'Sastra Wanita',
   ]
 subcategory: '文學與詩人 / 客家文化人'
@@ -31,10 +31,10 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:新埔潘屋全景.jpg'
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/杜潘芳格.md'
-sourceCommitSha: 'be13f045'
-sourceContentHash: 'sha256:d405136a29d9431e'
-sourceBodyHash: 'sha256:b0195c9685eb2443'
-translatedAt: '2026-09-20T00:52:42+08:00'
+sourceCommitSha: '630afb2b66'
+sourceContentHash: 'sha256:8e17d8aaa786cb83'
+sourceBodyHash: 'sha256:95dcdf29fa593f4b'
+translatedAt: '2026-11-27T00:51:25.682878+00:00'
 ---
 
 # Du Pan Fang-ge: Tiga Bahasa, Satu Pertunjukan "Ping'an Xi"
@@ -114,14 +114,14 @@ Etika yang sama, ganti satu set otot mulut. Bagi penyair lintas bahasa, ini buka
 
 Etika yang sama bisa diletakkan era manapun dibaca ulang: diam di internal perusahaan, penonton di kampus, "dulu cari aman sendiri" di media sosial. Ini bukan merelativisasi Terreur Blanche, tapi mengakui Du Pan Fang-ge mengubah pengalaman sejarah khusus jadi **kalimat etika yang bisa ditanam pindah**——inilah kenapa lagu pop 2021 masih bisa menyambung bait puisi 1977. [^2]
 
-## Babi Jantan Mengunyah "Sukarela": Cermin Lain 〈Zhongyuan Jie〉
+## Babi Jantan Menyandang "Sukarela": Cermin Sisi Lain 〈中元節〉
 
-Kalau 〈Ping'an Xi〉 lihat penonton, 〈Zhongyuan Jie〉 lihat babi di atas meja persembahan. Versi Hakka tulis: babi jantan besar mulutnya mengunyah sebuah buah yang dinamakan "Sukarela", dan yang menyematkan "Sukarela" itu, **"adalah aku, bukan kamu"**. [^10] Di keramaian Pudu, ada orang di tengah kerumunan **"ingat kamu sendiri siapa"**. Ada orang semakin jelas dirinya **"orang hati sendirian"**. [^10]
+Jika 〈平安戲〉 menatap penonton, 〈中元節〉 menatap babi di atas meja persembahan. Versi bahasa Hakka menuliskan: babi jantan besar di mulutnya mengandung sebuah buah yang disebut "Sukarela", dan yang menyodorkan "Sukarela" itu ke dalam, "adalah aku, ataupun engkau".[^10] Di tengah keramaian Pudu, ada orang di tengah kerumunan yang "tidak ingat dirimu sendiri siapa". Ada orang yang semakin jelas bahwa dirinya adalah "orang 'hati pisang' yang kesepian".[^10]
 
-Ini dijadikan bersebelahan dengan kosakata kepercayaan 〈Zhi Ren〉 terasa menusuk: orang kertas angin gugur bergetar, dia tulis "badan ku adalah wadah hatiku adalah kuil", mau di dunia penuh orang kertas cari "manusia asli". [^11] Penyair wanita Kristen membongkar hari raya rakyat, bukan untuk titik panas perang budaya, tapi untuk tanya: **Siapa yang diminta sukarela, siapa yang berhak nonton.**
+Ini terasa sangat mencolok ketika dijuxposisikan dengan kosakata kepercayaan 〈紙人〉: orang kertas goyah sekali tiup angin musim gugur, dia menulis "tubuhku adalah wadah, hatiku adalah kuil", ingin menemukan "manusia sejati" di dunia yang dipenuhi orang kertas.[^11] Penyair wanita Kristen mengurai festival rakyat, bukan demi titik panas perang budaya, melainkan untuk bertanya: **siapa yang dituntut sukarela, siapa yang berhak menonton pertunjukan.**
 
-![Bangunan合院 tradisional Hakka sekitar Tongluo Miaoli. Dunia material puisi bahasa Hakka bukan hanya "simbol nusantara", tapi tempat hidup yang tumbuh bersama pemukiman, ibadah, panggung, dan bahasa sehari-hari. ](/article-images/people/dupan-hakka-compound-tongluo.webp)
-_Rumah合院 tradisional Hakka (Tongluo Miaoli) — Memahami latar adat 〈Ping'an Xi〉〈Zhongyuan Jie〉, butuh dulu kembalikan panggung dan ruang publik dari simbol wisata jadi tempat etika hidup. Foto via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hakka_Compound,_Tongluo,_Miaoli_(Taiwan).jpg).\_
+![Arsitektur rumah adat Hakka tradisional di sekitar Miaoli Tongluo. Dunia material puisi Hakka bukan sekadar "simbol lokal", melainkan ruang hidup yang tumbuh bersama dari pemukiman, ritual, panggung pertunjukan, dan tutur harian.](/article-images/people/dupan-hakka-compound-tongluo.webp)
+_Rumah adat Hakka tradisional (Miaoli Tongluo) — Memahami lanskap budaya 〈平安戲〉〈中元節〉 memerlukan mengembalikan panggung pertunjukan dan balai utama dari simbol pariwisata menjadi ruang etika kehidupan. Photo via [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Hakka_Compound,_Tongluo,_Miaoli_(Taiwan).jpg>).\_
 
 ## Pasca Pembebasan, Bahasa Ibu Baru Dari "Di Rumah Bicara" Jadi "Di Kertas Tulis"
 

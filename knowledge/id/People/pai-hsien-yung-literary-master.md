@@ -1,6 +1,6 @@
 ---
-title: 'Pai Hsien-yung: "Taipei People" 1971, ke Tur 20 Tahun "The Peony Pavilion" Edisi Muda'
-description: 'Lahir 1937 di Guilin, Guangxi, putra Pai Chung-hsi. 1956 masuk Jurusan Sastra Inggris Universitas Taiwan, mendirikan majalah "Modern Literature" bersama Wang Wen-hsing dkk. 1971 "Taipei People" 14 cerpen. 1983 "Crystal Boys". 2003 memulai perencanaan "The Peony Pavilion" Edisi Muda, perdana April 2004, 2024 menyambut 20 tahun. 2003 menerima Penghargaan Seni Nasional.'
+title: 'Bai Xianyong: "Taipei People" 1971, hingga Tur Dua Dekade Versi Pemuda Peony Pavilion'
+description: 'Penulis "Taipei People" dan "The Unfilial Son", lahir di Guilin, Guangxi, dengan ayah seorang jenderal Kuomintang, Bai Chongxi. Pada tahun 1956, ia masuk ke Departemen Sastra Asing Universitas Nasional Taiwan, mendirikan majalah Sastra Modern bersama Wang Wenxing, Chen Ruoxi, dan lainnya, serta memperkenalkan modernisme Barat ke dunia sastra Taiwan. Pada tahun 1971, ia menerbitkan kumpulan empat belas cerita pendek "Taipei People", dan pada tahun 1983 menerbitkan "The Unfilial Son". Di masa tuanya, ia mendedikasikan diri pada pelestarian Kunqu, menerima Penghargaan Seni Nasional pada tahun 2003, dan memulai proyek versi pemuda Peony Pavilion yang tayang perdana di Taipei pada April 2004 dengan lebih dari tiga ratus pertunjukan tur.'
 date: 2026-03-19
 category: 'People'
 tags:
@@ -8,9 +8,9 @@ tags:
     'Sastra',
     'Sastra Modern',
     'Taipei People',
-    'Crystal Boys',
+    'The Unfilial Son',
     'Kunqu',
-    'Pai Chung-hsi',
+    'Bai Chongxi',
   ]
 subcategory: '文學'
 author: 'Taiwan.md'
@@ -21,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/白先勇.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '630afb2b66'
 sourceContentHash: 'sha256:d675a47ee18feb3d'
 sourceBodyHash: 'sha256:44085a78b193e440'
-translatedAt: '2026-11-04T20:25:35.996145+00:00'
+translatedAt: '2026-11-26T23:57:25.851646+00:00'
 ---
 
 # Pai Hsien-yung: "Taipei People" 1971, ke Tur 20 Tahun "The Peony Pavilion" Edisi Muda

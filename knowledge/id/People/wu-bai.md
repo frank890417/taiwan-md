@@ -1,6 +1,6 @@
 ---
-title: 'Wu Bai: Dari Desa Suantou, Kecamatan Lioujiao, Rock Bahasa Taiwan Tiga Dekade Tanpa Kompromi'
-description: 'Nama aslinya Wu Chun-lin, lahir 1968 di Desa Suantou, Kecamatan Lioujiao, Kabupaten Chiayi. 1992 membentuk "Wu Bai & China Blue", 1995 "Norwegian Forest" menegaskan jalur rock bahasa Taiwan. 2016 menerbitkan "Nail Flower", 2017 meraih Anugerah Golden Melody Album Bahasa Taiwan Terbaik. 2025 menerbitkan album baru "Pure White Starting Point", tur ROCK STAR 2 melintasi kedua sisi selat.'
+title: 'Wu Bai: Berangkat dari Desa Suantou, Kecamatan Lioujiao, 30 Tahun Rock Bahasa Taiwan Tanpa Kompromi'
+description: "Penyanyi rock bahasa Taiwan yang berasal dari Desa Suantou, Kecamatan Lioujiao, Kabupaten Chiayi, pada tahun 1992 membentuk Wu Bai & China Blue, pada tahun 1995 dengan 'Norwegian Wood' menegaskan jalannya rock bahasa Taiwan, bahasa Taiwan baginya bukan strategi positioning, melainkan cara berbicara yang paling alami. Selama lebih dari 30 tahun menolak diformatkan oleh pasar, album 'Ting Tzu Hua' tahun 2016 tahun berikutnya memenangkan Golden Melody Award untuk Album Bahasa Taiwan Terbaik, tahun 2025 menerbitkan 'Pure White Starting Point' dan memulai turné ROCK STAR 2, masih menyanyikan lagu dengan tata bahasa yang sama di atas panggung."
 date: 2026-03-19
 category: 'People'
 tags: ['Musik', 'Rock', 'Lagu Bahasa Taiwan', 'Chiayi', 'Rock Lokal', 'Gitar']
@@ -13,10 +13,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/伍佰.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '2a5b98d9cd'
 sourceContentHash: 'sha256:2dda34fc81c78056'
 sourceBodyHash: 'sha256:fb05d9869b96635c'
-translatedAt: '2026-11-04T21:24:38.532138+00:00'
+translatedAt: '2026-11-27T00:15:32.209558+00:00'
 ---
 
 # Wu Bai: Dari Desa Suantou, Kecamatan Lioujiao, Rock Bahasa Taiwan Tiga Dekade Tanpa Kompromi

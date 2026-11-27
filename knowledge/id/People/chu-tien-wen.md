@@ -1,6 +1,6 @@
 ---
-title: 'Chu Tien-wen: 1956 Taipei, dari "San San Jikan" ke "Beiqing Chengshi" Golden Lion Venice'
-description: 'Lahir di Taipei 1956, ayah Chu Hsi-ning. 1977 mendirikan "San San Jikan" bersama Hu Lan-cheng dkk. Lama menjadi penulis skenario Hou Hsiao-hsien, representasi "Beiqing Chengshi" mendapat Golden Lion Venice 1989. 1994 "Huangren Shouji" mendapat hadiah utama Times Literary Award. Karya skenario termasuk "Haonan Haonu" dan "Nanguo Zai Jian Nanguo".'
+title: 'Chu Tien-wen: Taipei 1956, dari Jurnal San San hingga Golden Lion di Venesia untuk A City of Sadness'
+description: 'Seorang novelis dan penulis skenario film yang tumbuh dalam keluarga sastra di Taipei; ayahnya adalah novelis Chu Hsi-ning. Pada tahun 1977, ia mendirikan jurnal San San bersama Hu Lan-cheng dan tokoh lainnya, dan sejak era 1980-an menjalin hubungan kolaborasi penulis selama empat puluh tahun dengan Hou Hsiao-hsien. Skenario filmnya, A City of Sadness, menggunakan bahasa puitis untuk mengolah sejarah keluarga Taiwan dan memenangkan penghargaan Golden Lion di Festival Film Venesia pada tahun 1989; pada tahun 1994, novel panjangnya, Notes of a Wild Man, meraih penghargaan utama Literary Times Award, menunjukkan kemampuannya dalam menopang dua bentuk karya, yakni film dan novel.'
 date: 2026-03-19
 category: 'People'
 tags:
@@ -10,7 +10,7 @@ tags:
     'Hou Hsiao-hsien',
     'Chu Hsi-ning',
     'Sastra San San',
-    'Huangren Shouji',
+    'Notes of a Wild Man',
   ]
 subcategory: '文學'
 author: 'Taiwan.md'
@@ -21,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/朱天文.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '2a5b98d9cd'
 sourceContentHash: 'sha256:13c80c1f151f5c3e'
 sourceBodyHash: 'sha256:bf6107b943cdb54e'
-translatedAt: '2026-11-04T20:38:43.137249+00:00'
+translatedAt: '2026-11-26T23:59:52.776888+00:00'
 ---
 
 # Chu Tien-wen: 1956 Taipei, dari "San San Jikan" ke "Beiqing Chengshi" Golden Lion Venice

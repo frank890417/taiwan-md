@@ -1,15 +1,15 @@
 ---
-title: 'Resun: Catatan Dewasa dari Kamar Siswa SMP Hingga Dua Saluran Jutaan'
-description: 'Resun mulai merekam siaran permainan video sejak kelas dua SMP, menjadi YouTuber termuda di Taiwan dengan 1 juta pelanggan pada usia 19 tahun, dan kemudian membawa saluran sampingnya juga melampaui angka tersebut. Data yang melintasi empat belas tahun kalender mencatat prosesnya tumbuh dewasa saat menghadapi beban kreatif, badai keluarga, dan kesalahan iklan afiliasi.'
+title: 'Zun: Dari Kamar Kelas 2 SMP hingga Jutaan Subscriber Dua Saluran, Catatan Kedewasaan Seorang YouTuber'
+description: 'Seorang kreator Taiwan yang mulai mengunggah siaran langsung gim ke YouTube sejak kelas 2 SMP, menjadi YouTuber termuda di Taiwan saat itu dengan 1,2 juta subscriber pada usia sembilan belas tahun. Melalui catatan publik selama empat belas tahun kalender, ia bertransformasi dari konten gim ke eksperimen, unboxing, dan keseharian; ia pernah mengungkapkan bahwa jumlah subscriber yang tinggi membawa beban tersendiri, melewati badai kasus kakaknya Xiaoyu serta kesalahan sponsor Pocket Qi Bing, hingga saluran sekundernya melampaui satu juta subscriber pada akhir 2024, sementara video rumah barunya mulai mengalihkan lensa ke kehidupan dewasanya.'
 date: 2026-07-15
 category: 'People'
 tags:
   [
     'YouTuber',
-    'Resun',
+    'Zun',
     'Budaya Taiwan',
-    'Kreator Web',
-    'Orang Malas Digital',
+    'Kreator Internet',
+    'Kehidupan Otaku',
     'Budaya Digital',
   ]
 subcategory: '數位與媒體'
@@ -25,10 +25,10 @@ relatedDiary: ['2026-07-15-191335-manual']
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/尊.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '2a5b98d9cd'
 sourceContentHash: 'sha256:741e9553e6d863d3'
 sourceBodyHash: 'sha256:e3564c2899c65b1e'
-translatedAt: '2026-10-15T03:32:33.571743+00:00'
+translatedAt: '2026-11-27T00:58:34.355696+00:00'
 ---
 
 > **Ringkasan 30 Detik:**
