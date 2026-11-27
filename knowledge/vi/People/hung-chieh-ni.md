@@ -1,19 +1,19 @@
 ---
-title: 'Hồng Ni: Từ thư viện Phương Uyển đến đường phố HahaTai, ba cái tên chung một cây bút'
-description: 'Hồng Tiệp Ni (洪婕倪), sinh năm 1996 tại Hải tuyến Chương Hóa và lớn lên ở Phương Uyển, thường hoạt động với cái tên "Jeani" (傑尼) trong các cuộc phỏng vấn đường phố tại HahaTai; khi viết lách, cô dùng bút danh "Hồng Ni" để sắp xếp về gia đình, cuộc sống người trẻ rời quê, nghề học bánh và những cảm xúc không muốn công khai. Từ 〈Dưa Hấu Ngọt Hay Không〉 đến 《Người Bán Dưa》, ba cái tên này hé lộ cách một nhà sáng tạo đặt công việc công chúng và văn chương riêng tư trên cùng một bản đồ cuộc đời.'
+title: 'Hồng Nghê: Từ thư viện Phương Uyển đến đường phố Haha Tai, ba cái tên dùng chung một cây bút'
+description: 'Với tư cách là “Kiệt Ni” thực hiện kế hoạch chương trình và dẫn dắt các cuộc phỏng vấn đường phố tại Haha Tai, hay với danh xưng “Hồng Nghê” viết nên những tản văn về mẹ, về những năm tháng bôn ba tại Bắc Kinh và thời làm học việc tại tiệm bánh — cô gái sinh năm 1996 tại Phương Uyển, Chương Hóa, tốt nghiệp khoa Truyền thông Đại học Thế Tân, sau vài năm làm chương trình truyền hình đã chuyển hướng sang video trực tuyến. Cô đã giành giải Tiểu phẩm văn tại Giải thưởng Văn học Lâm Vinh Tam với tác phẩm 〈Dưa hấu có ngọt không〉, và đạt giải Khuyến khích thể loại Tản văn với tác phẩm 〈Siêu nhân Bánh mì〉 được ấp ủ suốt bảy năm. Ngay cả biệt danh “Hồng Ma Nghê” do lỗi viết sai chữ hồi tiểu học cũng được đưa vào tập tản văn đầu tay mang tên 《Người bán dưa》.'
 date: 2026-08-27
 category: 'People'
 tags:
   [
-    'Hồng Ni',
-    'Hồng Tiệp Ni',
-    'Jeani',
-    'Hồng Mã Ni',
-    'HahaTai',
-    'tản văn',
-    'Hải tuyến Chương Hóa',
+    'Hồng Nghê',
+    'Hồng Tiệp Nghê',
+    'Kiệt Ni',
+    'Hồng Ma Nghê',
+    'Haha Tai',
+    'Tản văn',
+    'Duyên hải Chương Hóa',
     'Giải thưởng Văn học Lâm Vinh Tam',
-    'xuất bản và truyền thông',
+    'Xuất bản và Truyền thông',
   ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
@@ -27,10 +27,10 @@ imageCredit: 'Steve Evans / Wikimedia Commons'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Watermelons.jpg'
 translatedFrom: 'People/洪婕倪.md'
-sourceCommitSha: 'e974b4c9e'
+sourceCommitSha: '72ef874049'
 sourceContentHash: 'sha256:8351d05a79dba790'
 sourceBodyHash: 'sha256:f76990887dfd2b78'
-translatedAt: '2026-09-08T15:54:44+08:00'
+translatedAt: '2026-11-27T09:02:57.711180+00:00'
 ---
 
 # Hồng Ni: Từ thư viện Phương Uyển đến đường phố HahaTai, ba cái tên chung một cây bút

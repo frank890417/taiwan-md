@@ -1,16 +1,16 @@
 ---
-title: 'Trương Chu Diễm Nữ: Từ Bàn Ăn Miễn Phí Của Người Lao Động Tàu Đến Bữa Ăn Mười Xuất Đều Bán Bởi Bảy Ngôi Nhà'
-description: 'Năm 1951, Trương Chu Diễm Nữ (1920–2015) đã dựng lò nướng trên bờ kè Kaohsiung Port, cung cấp bữa ăn miễn phí cho công nhân tàu nghèo khó. Được ca ngợi là "Thần Bảo Hộ Của Người Nghèo", bà nộ trong năm trăm năm sau đó vẫn giữ mức giá mười Xuất Đều không tính lãi, dù không ít bàn ghép tài sản để duy trì chi phí, niêm yết niềm niềm "cho người ăn đủ" như niềm tin cuộc đời.'
+title: 'Trang Chu Ngọc Nữ: Từ bữa ăn miễn phí cho công nhân bến cảng đến những hộp cơm mười tệ bán hết bảy căn nhà'
+description: 'Người bà với những bữa cơm tự chọn giá mười tệ bên cảng Cao Hùng, từ năm 1951 đã dựng bếp cạnh kho nhà mình để cung cấp bữa ăn miễn phí cho những công nhân bến cảng đến từ Bành Hồ tìm kế sinh nhai. Sau đó do chi phí tăng cao, bà chuyển sang thu mức giá mười tệ nhưng vẫn duy trì thực đơn buffet hàng ngày với cá tươi, thịt kho tàu, rau xanh và canh nóng. Bà đã bán đi bảy căn nhà để duy trì công việc kinh doanh thua lỗ này. Sạp hàng sau đó được chuyển đến cạnh cầu vượt Công viên Diêm Chinh, khi bà qua đời ở tuổi 96 vào năm 2015, đã có hơn ba nghìn người đến tiễn biệt. Quê hương của bà tại đảo Cát Bối, Bành Hồ sau này đã dựng tượng và thành lập khu tưởng niệm để vinh danh bà.'
 date: 2026-04-29
 category: 'People'
 tags:
   [
-    'Tình nguyện viên',
-    'Kaohsiung',
-    'Bữa ăn mười',
-    'Trương Chu Diễm Nữ',
+    'Nhà từ thiện',
+    'Cao Hùng',
+    'Cơm hộp mười tệ',
+    'Trang Chu Ngọc Nữ',
     'Công ích xã hội',
-    'Phú Quốc',
+    'Bành Hồ',
   ]
 subcategory: '社會與公益'
 author: 'Taiwan.md Contributors'
@@ -21,10 +21,10 @@ readingTime: 10
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/莊朱玉女.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '72ef874049'
 sourceContentHash: 'sha256:877ba646499c2433'
 sourceBodyHash: 'sha256:59833698754e5cb0'
-translatedAt: '2026-11-05T00:01:51.388187+00:00'
+translatedAt: '2026-11-27T08:17:13.938629+00:00'
 ---
 
 > **30 giây tóm tắt:** Trương Chu Diễm Nữ (1920–2015) là người hào hạo nổi tiếng của Đài Loan, suốt nhiều năm kinh doanh "bữa ăn tự phục vụ mười" dưới cầu công cộng ở Kaohsiung. Bà ban đầu miễn phí cho người bạn đồng hành là công nhân tàu, sau đó vì chi phí tăng lên đổi lại mười Xuất Đều, nhưng vẫn kiên trì "cho ăn đủ" không tính lãi. Bữa ra đi của bà thu hút hơn ba nghìn người, tinh thần của bà cho đến nay vẫn là biểu tượng của sự ấm áp xã hội ở Đài Loan.

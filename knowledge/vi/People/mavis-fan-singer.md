@@ -1,13 +1,13 @@
 ---
-title: 'Mavis Fan: Từ cô phù thủy nhỏ của bài hát "Tập thể dục vui vẻ" đến ca sĩ chính của ban nhạc 100%, từ chối bị định nghĩa bởi một thời kỳ trong ba mươi năm'
-description: 'Năm 1996, Mavis Fan 19 tuổi vì một bài hát "Tập thể dục vui vẻ" trở thành cô phù thủy nhỏ được yêu thích trên khắp Đài Loan. Năm 1998 cô cắt tóc đầu, phát hành album "Darling" tuyên bố "làm nhạc của riêng mình"; năm 2001 chuyển sang jazz với "Nữ diễn viên tuyệt thế"; năm 2007 thành lập ban nhạc 100%. Năm 2025 cô 48 tuổi, "Khách qua đường" là tác phẩm mới sau 16 năm tách biệt với ban nhạc – ba mươi năm, cô từng khúc tháo gỡ "giấc mơ mà người khác tặng cho cô".'
+title: 'Phạm Hiểu Huyền: Từ "tiêu ma nữ" trong 〈Bài hát Sức khỏe〉 đến ca sĩ chính ban nhạc 100%, ba mươi năm từ chối bị định hình bởi một thời đại'
+description: 'Từ "tiêu ma nữ búi đuôi ngựa" trong 〈Bài hát Sức khỏe〉, đến cạo đầu trọc tuyên bố làm nhạc của riêng mình. Năm 1995 ra mắt, năm 1999 album 《Tôi muốn chúng ta ở cùng nhau》 giành Giải Quả Cầu Vàng, năm 2001 chuyển sang jazz với 《Diva tuyệt thế》, trải qua gần ba năm trầm cảm, năm 2007 thành lập ban nhạc 100% cùng ba thành viên, năm 2010 với 〈Chủ nhân〉 giành giải Nhà sản xuất đơn ca hay nhất Giải Quả Cầu Vàng; năm 2025 phát hành tác phẩm mới 《Khách qua đường》 sau mười sáu năm. Xuất đạo ba mươi năm, cô liên tục từ chối bị định hình bởi diện mạo của một thời đại.'
 date: 2026-04-20
 category: 'People'
 tags:
   [
     'Âm nhạc',
     'Ca sĩ sáng tác',
-    'Giải thưởng Âm nhạc Đài Loan',
+    'Giải Quả Cầu Vàng',
     'Ban nhạc 100%',
     'Nhạc pop Hoa ngữ',
   ]
@@ -20,10 +20,10 @@ researchReport: 'reports/research/2026-04/范曉萱.md'
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/范曉萱.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '8fc70bd881'
 sourceContentHash: 'sha256:752a0e7cddd9b38d'
 sourceBodyHash: 'sha256:7cceb716a616fa6b'
-translatedAt: '2026-09-07T20:24:56.474874+00:00'
+translatedAt: '2026-11-27T09:05:59.866726+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Mavis Fan (1977-), ca sĩ sáng tác Đài Loan. Năm 1995 khi 18 tuổi phát hành album "Rain" ra mắt, năm 1996 bài hát "Tập thể dục vui vẻ" trở thành "cô phù thủy nhỏ" nổi tiếng nhất toàn Đài Loan. Năm 1998 album "Darling" cắt tóc đầu tuyên bố chuyển hướng, năm 1999 album "Tôi muốn chúng ta ở bên nhau" giành Giải thưởng Âm nhạc Đài Loan lần thứ 11 cho Album nhạc pop tuyệt vời nhất, năm 2001 album "Nữ diễn viên tuyệt thế" theo hướng jazz, năm 2007 thành lập ban nhạc Mavis Fan & 100%, năm 2010 với bài hát "Chủ nhân" giành Giải thưởng Âm nhạc Đài Loan lần thứ 21 cho Nhà sản xuất ca khúc tuyệt vời nhất. Năm 2025 tháng 12 album "Khách qua đường" – cách album trước đó 16 năm. Trong ba mươi năm cô đã liên tục từ chối bị định nghĩa bởi vẻ mặt của một thời kỳ.

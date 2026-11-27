@@ -1,17 +1,17 @@
 ---
-title: 'Vương Đại Hành: Mang tinh thần Bauhaus đến Đài Loan, dùng kiến trúc hiện đại ngắm nhìn linh hồn phương Đông của nhà thơ kiến trúc'
-description: 'Năm 1965, Vương Đại Hành — học trò của thầy đẳng Bauhaus Walter Gropius — thắng cuộc thi thiết kế Nhà tưởng niệm Quốc phụ. Ông dành cả cuộc đời tại Đài Loan để giải đáp sự căng thẳng giữa truyền thống và hiện đại: kiến trúc của ông cực kỳ tối giản và tự giác, nhưng trong những mái nhà cong vút và tường đen ngói trắng, ông đã khắc dấu cho Đài Loan sau chiến tranh những bài thơ hiện đại chủ nghĩa trang trọng nhất.'
+title: 'Vương Đại Hoằng: Nhà thơ kiến trúc mang tinh thần Bauhaus đến Đài Loan, dùng kiến trúc hiện đại chiêm nghiệm linh hồn phương Đông'
+description: 'Người kế thừa tinh thần Bauhaus từ Walter Gropius, tốt nghiệp Cambridge và Harvard, dành cả đời để giải quyết sự căng thẳng giữa truyền thống và hiện đại. Năm 1965, ông nổi bật trong cuộc thi thiết kế Nhà tưởng niệm Quốc phụ với những đường mái cong tính toán theo hình học nghiêm ngặt; năm 1953, ông tự tay thiết kế dinh thự tại đường Kiến Quốc Nam, sau này được tái lập cạnh Bảo tàng Mỹ thuật Đài Bắc. Tác phẩm của ông trải dài từ tòa nhà Bộ Ngoại giao đến Hồng Lư, cuối đời còn viết tiểu thuyết khoa học viễn tưởng tiếng Anh "Phantasmagoria", hưởng thọ 101 tuổi.'
 date: 2026-08-18
 category: 'People'
 tags:
   [
-    'Vương Đại Hành',
+    'Vương Đại Hoằng',
     'Kiến trúc Đài Loan',
     'Chủ nghĩa hiện đại',
     'Nhà tưởng niệm Quốc phụ',
     'Nhà thơ kiến trúc',
     'Bauhaus',
-    'Nhà tự thiết kế đường Kiến Quốc Nam',
+    'Dinh thự đường Kiến Quốc Nam',
   ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
@@ -21,101 +21,100 @@ lastHumanReview: false
 revision: 2
 curation: 'incubating'
 translatedFrom: 'People/王大閎.md'
-sourceCommitSha: 'ad1003d60'
+sourceCommitSha: '2556505034'
 sourceContentHash: 'sha256:efe79d1571f630fc'
 sourceBodyHash: 'sha256:c9962896cf42e163'
-translatedAt: '2026-10-15T04:02:54.802907+00:00'
+translatedAt: '2026-11-27T15:03:13+08:00'
 ---
 
-## Tóm tắt 30 giây:
+> **Tóm tắt trong 30 giây:**
+> Vương Đại Hoằng (Wong Tai-hung) (1917–2018) được tôn vinh là "Cha đẻ của kiến trúc hiện đại Đài Loan" và là một "Nhà thơ kiến trúc" [^1] [^2]. Là con trai của Bộ trưởng Ngoại giao Trung Hoa Dân Quốc Vương Trọng Huệ (Wang Chung-hui) [^3], ông từng theo học ngành Kỹ thuật tại Đại học Cambridge và ngành Kiến trúc tại Đại học Harvard, là học trò của người sáng lập Bauhaus - Walter Gropius. Mang theo những tinh hoa huấn luyện chủ nghĩa hiện đại tiên phong nhất phương Tây trở về Đài Loan, ông lại chọn dành cả cuộc đời để đấu tranh với "sự xung đột giữa truyền thống và hiện đại". Từ Nhà tưởng niệm Quốc phụ đầy tranh cãi và sửa đổi, đến dinh thự đường Kiến Quốc Nam từng biến mất rồi tái hiện, Vương Đại Hoằng đã dùng những đường nét hình học tối giản và tĩnh lặng để ẩn giấu nỗi cô độc kiểu văn nhân phương Đông giữa bê tông và kính.
 
-Vương Đại Hồng (1917–2018) được mệnh danh là「cha đẻ của kiến trúc hiện đại Đài Loan」与「nhà thơ kiến trúc」 [^1] [^2]。Người là con trai của Bộ trưởng Ngoại giao thời Dân Quốc Vương Sủng Huệ [^3], từng học kỹ thuật tại Đại học Cambridge, kiến trúc tại Đại học Harvard, và là đệ tử của Walter Gropius – người sáng lập Bauhaus。Mang theo nền tảng hiện đại tiên phong nhất phương Tây trở về Đài Loan, ông lại chọn dành cả đời đấu tranh với「xung đột giữa truyền thống và hiện代」. Từ Đài tưởng niệm Quốc phụ đầy tranh cãi và bị sửa đổi, đến ngôi nhà riêng trên đường Kiến Quốc Nam biến mất rồi tái hiện, Vương Đại Hồng dùng những đường nét hình học tối giản, lạnh lùng, giấu kín sự cô đơn phương Đông phong cách văn nhân giữa bê tông và kính.
+Tháng 9 năm 1965, giới kiến trúc tại Đài Bắc đón nhận một cuộc thi thiết kế với quy mô chưa từng có: Chính phủ nhằm kỷ niệm Quốc phụ Tôn Trung Sơn đã công khai mời 12 kiến trúc sư danh tiếng tham gia thiết kế Nhà tưởng niệm [^4] [^5]. Trong thời đại đang khao khát chứng minh tính chính thống và sự hùng vĩ trước thế giới cũng như nội bộ, đa số các bản thiết kế đều đưa ra những mái cung điện đồ sộ, hệ thống phi檐 (mái hiên bay) dày đặc và ngói lưu ly vàng rực rỡ. Tuy nhiên, tác phẩm cuối cùng giành chiến thắng lại tĩnh lặng đến mức gây kinh ngạc — đó là một công trình kiến trúc hiện đại thấp tầng, trải dài theo chiều ngang với phần mái hơi cong lên một cách tinh tế, do kiến trúc sư Vương Đại Hoằng khi đó mới 48 tuổi thiết kế [^4] [^6].
 
-Tháng 9 năm 1965, giới kiến trúc Đài Bắc đón nhận một cuộc thi thiết kế quy mô chưa từng có: chính phủ công khai mời mười hai kiến trúc sư nổi tiếng trình bày bản thiết kế Đài tưởng niệm để tưởng niệm Quốc phụ Tôn Trung Sơn [^4] [^5]。Trong kỷ nguyên cấp cần phải chứng minh chính thống và khí phách hùng vĩ trước thế giới và nội bộ, đa số bản thiết kế trình lên đều là những cung điện đồ sộ với mái nhà lớn, hệ mái nhô dày đặc và ngói liêu vàng rực rỡ。Tuy nhiên, tác phẩm chiến thắng cuối cùng lại khiến người ta bất ngờ vì sự tĩnh lặng của nó — đó là một công trình hiện đại chủ nghĩa thấp tầng, kéo dài theo chiều ngang, mái nhà cong vút tinh tế, do Vương Đại Hồng, lúc bấy giờ mới 48 tuổi, thiết kế [^4] [^6]。
+Chiến thắng trong cuộc thi này không mang lại những tràng pháo tay hay sự thuận lợi hiển nhiên, mà ngược lại, nó đã mở ra chương đầu của nhiều thập kỷ cô độc khi thẩm mỹ của ông lạc lõng với thời đại.
 
-Chiến thắng trong cuộc thi này không mang lại tiếng vỗ tay và sự thuận lợi đương nhiên, ngược lại nó kéo mở màn cho sự cô đơn kéo dài hàng chục năm của ông — sự cô đơn của người không hợp nhịp với thẩm chí của thời đại。
+## Người kế thừa Bauhaus bước ra từ Cambridge và Harvard
 
-## Từ Cambridge và Harvard ra đời của người truyền thừa Bauhaus
+Ngày 6 tháng 7 năm 1917, Vương Đại Hoằng sinh ra tại Bắc Kinh. Cha ông, ông Vương Trọng Huệ, từng giữ chức Bộ trưởng Ngoại giao và Viện trưởng Viện Tư pháp của Trung Hoa Dân Quốc [^3] [^7]. Bối cảnh gia thế đặc biệt đã giúp ông có cơ hội du ngoạn châu Âu từ thời thiếu niên, chứng kiến sự trỗi dậy của các trào lưu nghệ thuật và kiến trúc hiện đại phương Tây. Ông bắt đầu học chuyên ngành Kỹ thuật Cơ khí tại Đại học Cambridge (Anh), sau đó vượt đại dương sang Mỹ, theo học tại Viện Thiết kế Harvard (GSD), trở thành đồng môn với I. M. Pei (Bối Duật Minh) [^7].
 
-Ngày 6 tháng 7 năm 1917, Vương Đại Hồng sinh ra tại Bắc Kinh, cha là Vương Sủng Huệ từng giữ chức Bộ trưởng Ngoại giao và Viện trưởng Viện Tư pháp của Trung Hoa Dân Quốc (Đài Loan) [^3] [^7]. Bối cảnh gia đình đặc biệt này cho phép ông du lịch châu Âu từ khi còn trẻ, chứng kiến sự trỗi dậy của các trào lưu nghệ thuật và kiến trúc hiện đại phương Tây. Ông trước tiên vào Đại học Cambridge (Anh) chuyên ngành cơ khí, sau đó vượt biển sang Mỹ, nhập học Viện Thiết kế Đại học Harvard (GSD) học kiến trúc, trở thành đồng môn của Bạch Cốt Minh [^7].
+Tại Harvard, người thầy của họ chính là Walter Gropius, người sáng lập Bauhaus — cái nôi của phong trào thiết kế chủ nghĩa hiện đại. Gropius dạy học trò rằng kiến trúc không phải là sự phô trương quyền lực hay sự chắp vá các phong cách lịch sử, mà là sự phản hồi trung thực đối với vật liệu đương đại, cấu trúc và nhu cầu sống thực tế của con người. Sự huấn luyện này đã khắc sâu vào cốt tủy Vương Đại Hoằng: các bản vẽ của ông luôn là những đường nét tối giản, tỷ lệ chính xác, những mảng tường trắng thuần khiết và diện tích kính lớn.
 
-Tại Harvard, vị thầy của họ chính là người sáng lập Bauhaus — cái nôi của phong trào thiết kế hiện đại — Walter Gropius. Gropius dạy học sinh rằng kiến trúc không phải là sự khoe khoang quyền lực hay sự ghép nối các phong cách lịch sử, mà là sự phản hồi trung thực đối với vật liệu, cấu trúc và nhu cầu sống thực của con người thời đại. Loại đào tạo này đúc đắc vào cốt tuỷ của Vương Đại Hồng: bản vẽ của ông luôn là những đường nét tối giản, tỷ lệ chính xác, tường trắng thuần khiết và những mặt kính rộng lớn.
+Tuy nhiên, khi mang theo lý tưởng chủ nghĩa hiện đại thuần túy trở về Đài Loan thời hậu chiến, thứ chờ đợi ông lại là một xã hội đang vội vã tìm kiếm các biểu tượng dân tộc và tính chính thống chính trị thông qua thị giác. Triết lý "Less is More" (Ít hơn là nhiều hơn) và sự lý tính không trang trí của chủ nghĩa hiện đại khi đó tỏ ra quá tiên phong trên đường phố Đài Bắc, thậm chí bị một số nhà hoạch định xem là "không đủ chất Trung Hoa".
 
-Tuy nhiên, khi mang theo lý tưởng hiện đại thuần túy trở lại Đài Loan sau chiến tranh, chờ đón ông là một xã hội nóng vội tìm kiếm các biểu tượng dân tộc và chính thống chính trị trên mặt bằng thị giác. Chủ trương "ít hơn là nhiều hơn" (Less is More) của chủ nghĩa hiện đại và sự lý tính không trang trí, trên phố xá Đài Bắc lúc bấy giờ显得 quá tiên phong, thậm chí bị một số quyết định者 coi là "không đủ Trung Hoa" (不够中國).
+## Sự thỏa hiệp và kiên trì tại Nhà tưởng niệm Quốc phụ: Khi chủ nghĩa hiện đại gặp gỡ cung điện truyền thống
 
-## Sự thỏa hiệp và kiên trì của Đài tưởng niệm Quốc phụ: Khi chủ nghĩa hiện đại gặp cung điện truyền thống
+Trong sự nghiệp của Vương Đại Hoằng, thiết kế Nhà tưởng niệm Quốc phụ chắc chắn là thử thách sáng tạo lớn nhất và cũng đau đớn nhất [^8].
 
-Trong sự nghiệp của Vương Đại Hồng, thiết kế Đài tưởng niệm Quốc phụ chắc chắn là công trình lớn nhất, cũng là bài kiểm tra sáng tạo khổ đau nhất [^8].
+"Nhà tưởng niệm Quốc phụ là thiết kế khó khăn nhất của tôi... Quốc phụ là một nhà cách mạng, vì vậy kiến trúc kỷ niệm ông phải mang tính đổi mới; nhưng con người và phong cách sống của ông lại nằm ở sự giản dị và mộc mạc, nên công trình này không nên sa đà vào sự xa hoa và tầm thường." Vương Đại Hoằng đã tự thuật như vậy trong một cuộc phỏng vấn vào những năm cuối đời [^5]. Ban đầu, ông đưa ra một phương án chủ nghĩa hiện đại thuần túy, loại bỏ hoàn toàn các biểu tượng truyền thống và mang đậm tính điêu khắc đương đại, nhưng đã bị cấp cao bác bỏ.
 
-> «Đài tưởng niệm Quốc phụ là thiết kế khó khăn nhất của tôi…… Quốc phụ là một nhà cách mạng, vì vậy kiến trúc tưởng niệm ông phải đổi mới, mà nhân cách và phong cách sống của ông nằm ở sự giản dị, đơn sơ, nên công trình này không nên rơi vào xa hoa và tục tĩ.» Vương Đại Hồng từng tự thuật như vậy trong phỏng vấn cuối đời [^5]. Ban đầu, ông nộp một phương án hoàn toàn loại bỏ các biểu tượng truyền thống, mang đậm cảm giác điêu khắc đương đại, thuần túy chủ nghĩa hiện đại, nhưng bị cấp trên 퇴件 (trả lại/yêu cầu sửa đổi).
+Để công trình có thể được xây dựng, ông đã thêm vào khung cấu trúc hiện đại những đường mái hiên cong lên mang tính biểu tượng truyền thống [^6] [^8]. Nhưng đó không phải là sự sao chép kiểu thợ thủ công, mà là một hình thái trừu tượng hóa hiện đại đã qua tính toán hình học nghiêm ngặt: phần mái hiên hơi vểnh lên, vừa có ý niệm truyền thống nhưng lại không mang vẻ nặng nề và phức tạp của kiến trúc cung điện. Mặc dù khi hoàn thành, dư luận có nhiều tranh cãi về phương án thỏa hiệp này, thậm chí có người chỉ trích phần mái cong không phù hợp với truyền thống, nhưng nhiều năm sau, các học giả kiến trúc nhìn lại mới kinh ngạc nhận ra rằng, trong số ít các công trình công cộng hiếm hoi, đây là một hình mẫu thành công trong việc hòa quyện ý chí cá nhân với cấu trúc hiện đại [^6] [^8] [^9].
 
-Để cho công trình có thể落成 (khởi công/hoàn thành), ông đã thêm vào khung cấu trúc hiện đại những đường cong mái nhà mang ý nghĩa truyền thống [^6] [^8]. Nhưng đó không phải là sự sao chép theo kiểu thủ công, mà là hình thức trừu tượng hiện đại trải qua tính toán hình học nghiêm ngặt: mái hiên nhẹ nhàng nhô lên, vừa có ý tượng truyền thống, lại không mang sự trầm trọng và phức tạp của kiến trúc cung điện. Dù khi落成 (hoàn thành) phương án dung hòa này gây nhiều tranh cãi, thậm chí bị chỉ trích mái hiên nhô lên không hợp với truyền thống, nhưng các học giả kiến trúc nhìn lại nhiều năm sau mới giật mình nhận ra đó là ví dụ hiếm hoi trong số ít công trình công cộng thành công dung hòa ý chí cá nhân với cấu trúc hiện đại thành một thể thống nhất [^6] [^8] [^9].
+### Cuộc đối thoại giữa chủ nghĩa hiện đại và truyền thống bản địa
 
-### Đối thoại giữa chủ nghĩa hiện đại và truyền thống bản địa
-
-Trong triết lý thiết kế của Vương Đại Hồng, «truyền thống» từ chưa bao giờ là một bộ biểu tượng cần chép lại hay sao chép, mà là linh hồn và cảm giác tỷ lệ của không gian.
+Trong triết lý thiết kế của Vương Đại Hoằng, "truyền thống" chưa bao giờ là một tập hợp các biểu tượng cần được sao chép hay mô phỏng, mà là linh hồn của không gian và cảm quan về tỷ lệ.
 
 ```tw-versus
-Thực tiễn chủ nghĩa hiện đại của Vương Đại Hồng | Kỳ vọng chủ lưu xã hội lúc bấy giờ
-Đường nét hình học thuần túy, tường trắng, kính cửa sổ toàn thân lớn | Cung điện tráng lệ, mái nhà lớn kiểu cung điện, ngói li琉璃瓦 và trang trí long phượng
-Kiến trúc là dung器 phản ánh cuộc sống thực tế đương đại | Kiến trúc là bia tưởng niệm thể hiện chính quyền chính thống và biểu tượng lịch sử
-Không gian nội bộ lưu động, đối thoại trực tiếp với ánh sáng tự nhiên | Khép kín, đối xứng, nhấn mạnh trục quyền uy và giai cấp
-Nguồn: Bản vẽ thi đấu, hồ sơ退件 và tranh cãi落成 của Đài tưởng niệm Quốc phụ, phỏng vấn trực tiếp và nghiên cứu sử học kiến trúc (xem chú thích phần trước)[^4][^5][^6][^8]
+Thực hành chủ nghĩa hiện đại của Vương Đại Hoằng | Kỳ vọng chủ lưu của xã hội thời bấy giờ
+Đường nét hình học thuần túy, tường trắng, mảng kính lớn | Mái cung điện đồ sộ, ngói lưu ly và trang trí long phụng
+Kiến trúc là vật chứa phản ánh đời sống thực tại đương đại | Kiến trúc là đài kỷ niệm phô diễn tính chính thống và biểu tượng lịch sử
+Không gian nội thất lưu chuyển, đối thoại trực tiếp với ánh sáng tự nhiên | Khép kín, đối xứng, nhấn mạnh trục quyền lực và giai cấp
+Nguồn: Trích dẫn từ các cuộc phỏng vấn trực tiếp và nghiên cứu lịch sử kiến trúc về cuộc thi thiết kế, sự bác bỏ và tranh cãi khi hoàn thành Nhà tưởng niệm Quốc phụ (xem chú thích trước đó) [^4][^5][^6][^8]
 ```
 
-📝 **Ghi chú người bảo tàng:**
-Bi kịch và vĩ đại của Vương Đại Hồng nằm ở chỗ ông luôn cố gắng, trong một thời đại «yêu cầu chính trị đúng đắn và biểu tượng tượng trưng», kiên持 «sự trung thực và phẩm giá của chính không gian». Ông dùng dao chủ nghĩa hiện đại để cắt xén chiếc áo dài truyền thống của Trung Quốc, đau đớn là không thể tránh khỏi, nhưng cũng chính nhờ đó mà để lại một lát cắt thời đại không thể thay thế.
+📝 **Ghi chú của giám tuyển:**
+Bi kịch và sự vĩ đại của Vương Đại Hoằng nằm ở chỗ ông luôn cố gắng duy trì "sự trung thực và tôn nghiêm của chính không gian" trong một thời đại "đòi hỏi sự đúng đắn về chính trị và biểu tượng". Ông dùng con dao của chủ nghĩa hiện đại để gọt giũa chiếc áo dài truyền thống Trung Hoa; nỗi đau là điều khó tránh khỏi, nhưng cũng chính vì thế mà ông đã để lại những lát cắt thời đại không thể thay thế.
 
-## Ngôi nhà riêng đường Kiến Quốc Nam: Sự trung thực tối thượng của một kiến trúc sư đối với chính mình
+## Dinh thự đường Kiến Quốc Nam: Sự trung thực tuyệt đối của một kiến trúc sư với chính mình
 
-Khác với những sự thỏa hiệp khắp nơi trong kiến trúc công cộng, Vương Đại Hồng trong sáng tác nhà ở riêng đã thể hiện nên vẻ đẹp kiến trúc tinh khiết nhất, thuần粹 nhất, không chút tạp chất. Năm 1953, ông tự thiết kế và xây dựng ngôi nhà riêng của mình trên đường Kiến Quốc Nam tại Đài Bắc [^10].
+Trái ngược với những thỏa hiệp trong các công trình công cộng, Vương Đại Hoằng đã thể hiện thẩm mỹ kiến trúc thuần khiết và không tạp chất nhất trong các sáng tác nhà ở tư nhân. Năm 1953, ông tự tay thiết kế và xây dựng dinh thự của mình tại đường Kiến Quốc Nam, thành phố Đài Bắc [^10].
 
-Ngôi nhà một tầng này diện tích không lớn, nhưng lại là huyền thoại trong lịch sử kiến trúc nhà ở hiện đại Đài Loan. Tường ngoài trắng, ngói đen, cửa nguyệt động tròn trịa, tiểu trung庭 mang đậm ý cảnh vườn tược phương Đông, cùng nội thất tối giản được may đo hoàn hảo cho mọi chức năng sống nội bộ [^10] [^11]. Vương Đại Hồng không coi đây là biệt thự khoe của cải, mà là một Đào Hoa Nguyên hiện đại nơi có thể an頓 linh hồn văn nhân.
+Ngôi nhà cấp bốn này có diện tích không lớn nhưng lại là một huyền thoại trong lịch sử kiến trúc nhà ở hiện đại Đài Loan. Những bức tường trắng, mái ngói đen, cửa nguyệt môn tròn, sân trong nhỏ mang đậm ý cảnh vườn tản bộ phương Đông, cùng với nội thất tối giản được thiết kế riêng cho công năng sinh hoạt bên trong [^10] [^11]. Vương Đại Hoằng không coi đó là một dinh thự xa hoa để phô trương địa vị, mà xem nó như một "đào nguyên hiện đại" để gửi gắm linh hồn văn nhân.
 
-Tuy nhiên, cùng với quá trình đô thị hóa cấp tốc của Đài Bắc, ngôi nhà riêng đường Kiến Quốc Nam này đối mặt với nguy cơ bị tháo dỡ vào những năm 2010. May mắn là, nhờ sự vận động của Hội Nghiên cứu và Bảo tồn Kiến trúc Vương Đại Hồng cùng các chuyên gia, Bảo tàng Mỹ thuật Thành phố Đài Bắc đã tái hiện công trình này năm 2017 tại Công viên Mỹ thuật bên cạnh bảo tàng [^10] [^11].
+Tuy nhiên, cùng với quá trình đô thị hóa nhanh chóng của Đài Bắc, dinh thự đường Kiến Quốc Nam này đã đối mặt với số phận bị dỡ bỏ vào những năm 2010. May mắn thay, nhờ sự nỗ lực của Hiệp hội Nghiên cứu và Bảo tồn Kiến trúc Vương Đại Hoằng cùng các chuyên gia, công trình này đã được tái lập vào năm 2017 tại Công viên Mỹ thuật cạnh Bảo tàng Mỹ thuật Đài Bắc [^10] [^11].
 
-Khi bước vào ngôi nhà riêng đường Kiến Quốc Nam sau khi tái thiết, du khách bị chấn động bởi sự tĩnh lặng tối thượng. Ánh nắng lọt qua cửa nguyệt động rơi trên sàn đá rửa, mỗi góc ngoặt trong nhà, mỗi tỷ lệ bàn ghế đều toát ra sự kỷ luật nghiêm ngặt của chủ nhân đối với cuộc sống. Đó không chỉ là một ngôi nhà, mà là một bài thơ mười bốn hàng được viết bằng bê tông và ánh bóng.
+Khi bước vào dinh thự đường Kiến Quốc Nam sau khi được tái dựng, người ta sẽ bị choáng ngợp bởi sự tĩnh lặng cực hạn. Ánh nắng xuyên qua cửa nguyệt môn đổ xuống sàn đá mài, mỗi góc chuyển tiếp trong nhà, tỷ lệ của mỗi chiếc bàn chiếc ghế đều tiết lộ kỷ luật nghiêm ngặt của chủ nhân đối với cuộc sống. Đó không chỉ là một ngôi nhà, mà là một bài thơ sonnet được viết bằng bê tông và ánh sáng.
 
-## Khát vọng chưa hoàn và thế giới văn học: Từ碑 tưởng niệm đăng nguyệt đến «Phantasmagoria»
+## Chí hướng chưa thành và thế giới văn học: Từ đài tưởng niệm lên mặt trăng đến "Phantasmagoria"
 
-Ngoài thiết kế kiến trúc, tài năng của Vương Đại Hồng không chỉ giới hạn trong thép và bê tông. Ông từng tham gia cuộc thi thiết kế quốc tế sau chương trình Apollo đăng nguyệt của Mỹ năm 1969, thiết kế một座 «Bí tưởng niệm Đăng Nguyệt»极具 tiền瞻性 và cảm giác vũ trụ, thể hiện trí tưởng tượng thơ mộng của ông về khoa học nhân loại và vĩ mô vũ trụ.
+Ngoài thiết kế kiến trúc, tài năng của Vương Đại Hoằng không chỉ giới hạn trong sắt thép và xi măng. Ông từng tham gia cuộc thi thiết kế quốc tế sau chương trình Apollo lên mặt trăng của Mỹ năm 1969, thiết kế một "Đài tưởng niệm đổ bộ mặt trăng" đầy tính tiên phong và cảm quan vũ trụ, thể hiện trí tưởng tượng đầy chất thơ của ông về công nghệ nhân loại và sự vĩ đại của vũ trụ.
 
-Cuối đời, ông lại bút soạn tiểu thuyết khoa học viễn tưởng bằng tiếng Anh «Phantasmagoria» (《幻城》), với bút pháp tiếng Anh tinh tế trôi chảy, xây dựng một thế giới Utopia dung hợp triết học phương Đông và công nghệ tương lai. Cuốn sách không chỉ phản ánh nền học thức uyên bác sâu厚 của ông, còn tiết lộ deep trong nội tâm ông luôn giữ vững sự trong sáng và tò mò như trẻ thơ đối với thế giới chưa biết.
+Những năm cuối đời, ông còn chấp bút viết tiểu thuyết khoa học viễn tưởng tiếng Anh mang tên _Phantasmagoria_ (Huyễn Thành), với văn phong tiếng Anh tinh tế và lưu loát, xây dựng nên một thế giới không tưởng hòa quyện giữa triết học phương Đông và công nghệ tương lai. Cuốn sách này không chỉ phản ánh nền tảng học vấn sâu rộng mà còn tiết lộ sự ngây thơ và lòng hiếu kỳ đối với thế giới chưa biết luôn hiện hữu trong thâm tâm ông.
 
-## Sự cô độc của nhà thơ kiến trúc và tiếng vang của thời đại
+## Nỗi cô độc của nhà thơ kiến trúc và dư âm thời đại
 
-Ngày 28 tháng 5 năm 2018, Vương Đại Hồng an nhiên qua đời, hưởng thọ 101 tuổi [^2]. Trong cuộc đời dài của ông, ông đã thiết kế Tòa nhà văn phòng Bộ Ngoại giao, ký túc xá Đại học Quốc gia Đài Loan, Hồng Lâu, Tòa nhà Taiwan Cement và vô số tác phẩm có ảnh hưởng sâu rộng [^12] [^13]. Ông luôn mặc những bộ vest chỉnh chu, nói chuyện ôn nhu mà kiên định, như vị quân tử khiêm nhường cuối cùng bước ra từ thời kỳ đầu Dân Quốc.
+Ngày 28 tháng 5 năm 2018, Vương Đại Hoằng qua đời một cách thanh thản, hưởng thọ 101 tuổi [^2]. Trong cuộc đời dài đằng đẵng, ông đã thiết kế vô số tác phẩm có ảnh hưởng sâu rộng như tòa nhà Bộ Ngoại giao, ký túc xá Đại học Quốc gia Đài Loan, Hồng Lư, tòa nhà TCC (Đài Ni), v.v. [^12] [^13]. Ông luôn mặc những bộ vest chỉnh tề, nói năng ôn hòa mà kiên định, giống như một vị quân tử cuối cùng bước ra từ thời kỳ đầu Dân quốc.
 
-Trong một thời gian rất dài, xã hội Đài Loan chưa hiểu thấu ông. Đại chúng theo đuổi những tòa nhà thương mại to lớn hơn, những trang trí hoa lệ hơn, trong khi ông chỉ thầm lặng ngồi trên chiếc ghế do chính mình thiết kế, hút thuốc, nhìn ánh sáng và bóng tối di chuyển trên bức tường trắng.
+Trong một thời gian dài, xã hội Đài Loan đã không hoàn toàn thấu hiểu ông. Công chúng mải mê theo đuổi những tòa nhà thương mại khổng lồ hơn, những trang trí lộng lẫy hơn, còn ông chỉ lặng lẽ ngồi trên chiếc ghế do chính mình thiết kế, hút thuốc và ngắm nhìn ánh sáng di chuyển trên những bức tường trắng.
 
-Cho đến cuối đời và sau khi qua đời, khi cảnh quan thành phố Đài Loan trở nên lộn xộn do trang trí quá độ, mọi người mới bỗng quay lại, giật mình nhận ra vị nhà thơ kiến trúc này đã từ nửa thế kỷ trước đưa ra câu trả lời: kiến trúc không cần phải hét lớn, nó chỉ cần chân thành, an tĩnh, và để lại khoảng trống.
+Mãi đến những năm cuối đời và sau khi ông qua đời, khi cảnh quan đô thị của Đài Loan trở nên hỗn loạn vì trang trí quá mức, người ta mới chợt quay đầu lại và kinh ngạc nhận ra rằng vị nhà thơ kiến trúc này đã đưa ra câu trả lời từ nửa thế kỷ trước: Kiến trúc không cần phải gào thét, nó chỉ cần trung thực, tĩnh lặng và biết để lại những khoảng trắng.
 
 ---
 
 ## Tài liệu tham khảo
 
-[^1]: [Trang web nghệ thuật Phi Trí Trung: Kiến trúc sư Đài tưởng niệm Quốc phụ Vương Đại Hồng qua đời hôm qua ở tuổi 101](https://artemperor.tw/focus/2104) — Báo đạo về cuộc đời và thành tựu kiến trúc của Vương Đại Hồng.
+[^1]: [Mạng nghệ thuật Phi Trì Trung: Kiến trúc sư Nhà tưởng niệm Quốc phụ Vương Đại Hoằng hưởng thọ 101 tuổi qua đời ngày hôm qua](https://artemperor.tw/focus/2104) — Báo cáo về cuộc đời và thành tựu kiến trúc của Vương Đại Hoằng.
 
-[^2]: [Wikipedia: Vương Đại Hồng](https://zh.wikipedia.org/zh-hant/%E7%8E%8B%E5%A4%A7%E9%96%8E) — Ghi chép năm sinh, năm mất và các tác phẩm đại diện chính của ông.
+[^2]: [Wikipedia: Vương Đại Hoằng](https://zh.wikipedia.org/zh-hant/%E7%8E%8B%E5%A4%A7%E9%96%8E) — Ghi chép về năm sinh, năm mất và các tác phẩm tiêu biểu.
 
-[^3]: [Tạp chí Điển Tàng ARTouch: Không chỉ tái bản đồ nội thất: Nhìn thấy trật tự cuộc sống của Vương Đại Hồng trong 'cuộc sống hàng ngày hoàn hảo'](https://artouch.com/art-views/art-exhibition/content-192005.html) — Thảo luận về bối cảnh gia đình và thiết kế đồ nội thất của ông.
+[^3]: [ARTouch: Thứ được phục dựng không chỉ là nội thất: Nhìn thấy trật tự cuộc sống của Vương Đại Hoằng trong "Sự thường nhật hoàn hảo"](https://artouch.com/art-views/art-exhibition/content-192005.html) — Thảo luận về bối cảnh gia thế và thiết kế nội thất của ông.
 
-[^4]: [Bảo tàng Mở: Kiến trúc sư Vương Đại Hồng \_ Mô hình án dự thi Đài tưởng niệm Quốc phụ](https://openmuseum.tw/muse/digi_object/70a904a8bf2b5916e8b6ea2ef2492922) — Quá trình xây dựng và thi đấu thiết kế Đài tưởng niệm Quốc phụ năm 1965.
+[^4]: [Bảo tàng Mở: Kiến trúc sư Vương Đại Hoằng \_ Mô hình dự án thi thiết kế Nhà tưởng niệm Quốc phụ](https://openmuseum.tw/muse/digi_object/70a904a8bf2b5916e8b6ea2ef2492922) — Quá trình chuẩn bị và thi thiết kế Nhà tưởng niệm Quốc phụ năm 1965.
 
-[^5]: [Cơ sở dữ liệu ghi âm hình ảnh hành động công dân: Những sự thỏa hiệp và gian khổ không được kể vào ngày sinh Quốc phụ: Thi đấu thiết kế Đài tưởng niệm Quốc phụ năm 1965](https://www.facebook.com/cipas.tw/posts/) — Ghi lại sự căng thẳng chính trị và thẩm mỹ đằng sau cuộc thi đấu.
+[^5]: [Cơ sở dữ liệu tư liệu video Hành động Công dân: Những thỏa hiệp và gian truân không nói cho bạn biết về ngày sinh của Quốc phụ: Cuộc thi thiết kế Nhà tưởng niệm Quốc phụ năm 1965](https://www.facebook.com/cipas.tw/posts/) — Ghi lại sự căng thẳng chính trị và thẩm mỹ đằng sau cuộc thi.
 
-[^6]: [Yahoo Tin tức: Kiến trúc Taiwan trong biến động 3: Thiết kế Đài tưởng niệm Quốc phụ quá đau đớn, 'nhà thơ kiến trúc' Vương Đại Hồng dùng phương pháp này để giải tỏa](https://tw.news.yahoo.com/%E6%B5%81%E8%AE%8A%E4%B8%AD%E7%9A%84%E5%8F%B0%E7%81%A3%E5%BB%BA%E7%AF%893-%E8%A8%AD%E8%A8%88%E5%9C%8B%E7%88%B6%E7%B4%80%E5%BF%B5%E9%A4%A8%E5%A4%AA%E7%97%9B%E8%8B%A6-%E5%BB%BA%E7%AF%89%E8%A9%A9%E4%BA%BA-%E7%8E%8B%E5%A4%A7%E9%96%8E%E9%9D%A0%E9%80%99%E6%96%B9%E6%B3%95%E6%8A%92%E5%A3%93-023000317.html) — Phân tích sự thỏa hiệp và đấu tranh của Vương Đại Hồng trong thiết kế Đài tưởng niệm Quốc phụ.
+[^6]: [Yahoo News: Kiến trúc Đài Loan trong dòng biến đổi 3: Thiết kế Nhà tưởng niệm Quốc phụ quá đau đớn, "Nhà thơ kiến trúc" Vương Đại Hoằng dựa vào cách này để giải tỏa](https://tw.news.yahoo.com/%E6%B5%81%E8%AE%8A%E4%B8%AD%E7%9A%84%E5%8F%B0%E7%81%A3%E5%BB%BA%E7%AF%893-%E8%A8%AD%E8%A8%88%E5%9C%8B%E7%88%B6%E7%B4%80%E5%BF%B5%E9%A4%A8%E5%A4%AA%E7%97%9B%E8%8B%A6-%E5%BB%BA%E7%AF%89%E8%A9%A9%E4%BA%BA-%E7%8E%8B%E5%A4%A7%E9%96%8E%E9%9D%A0%E9%80%99%E6%96%B9%E6%B3%95%E6%8A%92%E5%A3%93-023000317.html) — Phân tích sự thỏa hiệp và đấu tranh của Vương Đại Hoằng trong thiết kế Nhà tưởng niệm Quốc phụ.
 
-[^7]: [Bộ Văn hóa Taiwan tại Anh: Wang Da-hong Vương Đại Hồng](https://www.taiwanculture-uk.org/design/blog-post-title-one-9wjgl) — Giới thiệu nguồn gốc học thuật của ông tại Cambridge, Harvard và Bauhaus.
+[^7]: [Văn hóa Đài Loan tại Anh - Bộ Văn hóa: Wang Da-hong Vương Đại Hoằng](https://www.taiwanculture-uk.org/design/blog-post-title-one-9wjgl) — Giới thiệu về nguồn gốc học thuật tại Cambridge, Harvard và Bauhaus của ông.
 
-[^8]: [Đài tưởng niệm Quốc phụ Quốc gia: Dạo bước Đài tưởng niệm Quốc phụ hé lộ vẻ đẹp kiến trúc của Vương Đại Hồng](https://www.yatsen.gov.tw/News_Content.aspx?n=6519&s=159793) — Giải thích chính thức về tư tưởng kiến trúc và thiết kế hồ phản chiếu của ông.
+[^8]: [Nhà tưởng niệm Quốc phụ Quốc gia: Đi bộ qua Nhà tưởng niệm Quốc phụ để khám phá vẻ đẹp kiến trúc của Vương Đại Hoằng](https://www.yatsen.gov.tw/News_Content.aspx?n=6519&s=159793) — Giải thích chính thức về triết lý kiến trúc và thiết kế hồ Ánh Trì.
 
-[^9]: [Trang web bình luận Then chốt: 'Vương Đại Hồng: Nhà thơ kiến trúc vĩnh cửu': Có người phê phán mái hiên Đài tưởng niệm Quốc phụ cong vút](https://www.thenewslens.com/article/254094) — Thảo luận 26 tác phẩm quan trọng và ý nghĩa lịch sử kiến trúc của thiết kế mái hiên.
+[^9]: [Komap: "Vương Đại Hoằng: Nhà thơ kiến trúc vĩnh cửu": Có người chỉ trích phần mái hiên của Nhà tưởng niệm Quốc phụ](https://www.thenewslens.com/article/254094) — Thảo luận về ý nghĩa lịch sử kiến trúc của 26 tác phẩm quan trọng và thiết kế mái hiên.
 
-[^10]: [Bảo tàng Mỹ thuật Thành phố Cao Hưng: Cuộc sống hàng ngày hoàn hảo: Triển lãm tái bản đồ nội thất chủ đề và nhà riêng của Vương Đại Hồng](https://www.kmfa.gov.tw/exhibitiondetailc001100.aspx?Cond) — Hệ thống ba ngôi nhà riêng và quá trình tái thiết nhà riêng đường Kiến Quốc Nam.
+[^10]: [Bảo tàng Mỹ thuật Thành phố Cao Hùng: Sự thường nhật hoàn hảo: Triển lãm phục dựng nội thất và chủ đề Vương Đại Hoằng](https://www.kmfa.gov.tw/exhibitiondetailc001100.aspx?Cond) — Hệ thống hóa quá trình tái lập ba dinh thự và dinh thự đường Kiến Quốc Nam.
 
-[^11]: [Bảo tàng Mỹ thuật Thành phố Đài Bắc: Nhà hát kiến trúc Vương Đại Hồng](https://www.tfam.museum/Common/editor.aspx?f=sys&id=235&ddlLang=zh-tw) — Giới thiệu việc tái thiết và bảo tàng hóa nhà riêng đường Kiến Quốc Nam phía nam Bảo tàng Mỹ thuật Bắc.
+[^11]: [Bảo tàng Mỹ thuật Đài Bắc: Nhà hát kiến trúc Vương Đại Hoằng](https://www.tfam.museum/Common/editor.aspx?f=sys&id=235&ddlLang=zh-tw) — Giới thiệu về việc tái lập và bảo tàng hóa dinh thự đường Kiến Quốc Nam ở phía nam Bảo tàng Mỹ thuật Đài Bắc.
 
-[^12]: [Trang web du lịch Đài Bắc / Blog: Hành trình tham quan kiến trúc của Vương Đại Hồng](https://taiwantravelforever.blogspot.com/2026/02/wdh.html) — Tổng hợp các tác phẩm đại diện quan trọng như Tòa nhà văn phòng Bộ Ngoại giao, Hồng Lâu, v.v.
+[^12]: [Trang du lịch/Blog Đài Bắc: Hành trình tham quan kiến trúc Vương Đại Hoằng](https://taiwantravelforever.blogspot.com/2026/02/wdh.html) — Điểm lại các tác phẩm tiêu biểu như tòa nhà Bộ Ngoại giao, Hồng Lư, v.v.
 
-[^13]: [Hệ thống Ký ức Taiwan Thư viện Quốc gia: Niên biểu cuộc đời và tác phẩm kiến trúc của Vương Đại Hồng](https://tm.ncl.edu.tw/) — Ghi chép việc ông tham gia thi đấu thiết kế bí tích kỷ niệm lần hạ cánh lên Mặt Trăng và sáng tác tiểu thuyết tiếng Anh 'Ảo Thành'.
+[^13]: [Hệ thống Ký ức Đài Loan - Thư viện Quốc gia: Niên biểu cuộc đời và tác phẩm kiến trúc của Vương Đại Hoằng](https://tm.ncl.edu.tw/) — Ghi chép về việc ông tham gia thi thiết kế đài tưởng niệm lên mặt trăng và sáng tác tiểu thuyết tiếng Anh "Phantasmagoria".
