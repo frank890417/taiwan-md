@@ -1,24 +1,24 @@
 ---
-title: 'Lư Quang Châu: Vị vua ba vì phong sau khi bị xe buýt ném'
-description: 'Năm 2003, cậu bé 15 tuổi ở Thây Nhơn đang đi xe máy mua đồ ăn vặt thì bị xe buýt ném chân, gây vỡ não và gãy xương. Trong lúc ở bệnh viện, cậu bắt đầu học đàn guitar. 22 năm sau, Lư Quang Châu trở thành người giành ba vì phong (Nhạc vàng, Đồng hồ vàng, Rùa vàng) nhanh nhất lịch sử Đài Loan: một chiếc guitar và hai chiếc chân gãy xương đã đưa cậu trên con đường thành công.'
+title: 'Lư Quảng Trọng: "Ông hoàng ba giải thưởng" từng bị xe buýt cán qua'
+description: 'Năm 2003, chàng trai đến từ Tainan khi đang đạp xe đi mua đồ ăn đêm đã bị xe buýt cán gãy chân. Trong thời gian nằm viện, anh đã tự học guitar và từ đó bước chân vào làng nhạc với cây đàn trên tay. Ra mắt vào năm 2008 và giành giải Tân binh xuất sắc nhất tại Giải Kim Khúc ngay năm sau đó, anh từng trải qua 8 năm không được đề cử và thậm chí đã đi bộ từ Đài Bắc về lại Tainan để tìm lại chính mình; năm 2017, anh giành cú đúp giải Kim Chung với phân cảnh đọc văn tế quay một cú máy duy nhất trong phim "Chàng trai Hoa Giáp trưởng thành"; năm 2020, anh đạt giải Kim Mã với tác phẩm "Hồi ức khắc sâu trong tim". Ở tuổi 35, anh đã trở thành người trẻ nhất Đài Loan đạt được danh hiệu "Tam Kim đại mãn quán".'
 date: 2026-04-07
 category: 'People'
 tags:
   [
     'Nhân vật',
-    'Lư Quang Châu',
+    'Lư Quảng Trọng',
     'Ca sĩ',
     'Diễn viên',
-    'Giải thưởng Nhạc vàng',
-    'Giải thưởng Đồng hồ vàng',
-    'Giải thưởng Rùa vàng',
-    'Ba vì phong',
-    'Thây Nhơn',
-    'Thân thiên niên',
-    'Cái cá',
-    'Thổ ngôn',
+    'Giải Kim Khúc',
+    'Giải Kim Chung',
+    'Giải Kim Mã',
+    'Tam Kim',
+    'Tainan',
+    'Chàng trai Hoa Giáp',
+    'Ngư Tử',
+    'Tiếng Đài Loan',
     'Nhạc độc lập',
-    'Dân tộc nguyên thủy',
+    'Thổ dân',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
@@ -27,10 +27,10 @@ lastVerified: 2026-04-07
 lastHumanReview: true
 readingTime: 12
 translatedFrom: 'People/盧廣仲.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '8fc70bd881'
 sourceContentHash: 'sha256:a21c857b64fd8e71'
 sourceBodyHash: 'sha256:090ff0c53b31ba5d'
-translatedAt: '2026-07-26T14:17:51+08:00'
+translatedAt: '2026-11-27T02:02:26.025956+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Lư Quang Châu, sinh năm 1985 ở Thây Nhơn, bị xe buýt ném chân khi đi mua đồ ăn vặt vào năm 2003, dẫn đến gãy xương. Khi ở bệnh viện, cậu tự học đàn guitar. Năm 2008, ra mắt với Giải thưởng Nhạc vàng mới xuất sắc nhất năm 2009, sau đó là chuỗi 8 năm không xuất hiện trong danh sách dự thi. Năm 2017, ca tác "Thân thiên niên chuyển thành người trưởng" một kỷ 7 phút kính trên truyền hình khiến ngành công nghiệp trầm cảm, đưa cậu giành cặp đôi Giải thưởng Đồng hồ vàng; năm 2020, ca khúc "Tên ghi trong trái tim" đưa cậu giành Giải thưởng Rùa vàng ca nhạc phim nguyên tác – Lư Quang Châu chính thức trở thành người giành ba vì phong nhanh nhất lịch sử Đài Loan với 35 tuổi. Năm 2026, vé hội nhạc bán chạy trong vòng 1 phút, giá đỡ lên đến 60.000 USD.

@@ -1,13 +1,13 @@
 ---
-title: 'Thạch Thánh Bác'
-description: 'Chuyên ngành khoa học máy tính, nhưng đã mang lại ngôn ngữ lập trình vào không gian nghệ thuật hiện đại của Đài Loan. Tính đến năm 2014, đời sống ngắn ngủi của Thạch Thánh Bác chỉ là 34 năm, để lại không chỉ các tác phẩm nghệ thuật kỹ thuật số mà còn là tinh thần thí nghiệm đặt lập trình vào cuộc sống, xem phần mềm tự do như một đạo đức sáng tạo.'
+title: 'Thẩm Thánh Bác'
+description: 'Nghệ sĩ số và kỹ sư nghệ thuật của Đài Loan, sinh năm 1980 tại Tràng Hoa, chuyên ngành khoa học máy tính nhưng chuyển hướng sang nghệ thuật công nghệ, chủ trương "chương trình chính là cuộc sống", coi các quy tắc số và logic thuật toán là cốt lõi sáng tạo. Ông quảng bá FLOSS+ART, khai giảng khóa học Processing, xây dựng diễn đàn giảng dạy, cũng là thành viên của OpenLab.Taipei, năm 2011 tại Trung Trung thành lập không gian "Hữu Vị", tạo nơi cho các thí nghiệm diễn ra. Sau khi mắc ung thư đại tràng năm 2009 vẫn tiếp tục sáng tạo, năm 2014 qua đời ở tuổi 34, các tác phẩm như "pin shadow", "texture" cho đến nay vẫn được khôi phục và tái trình diễn.'
 date: 2026-03-23
 category: 'People'
 tags:
   [
-    'nhân vật',
-    'nghệ thuật kỹ thuật số',
-    'nghệ thuật truyền thông mới',
+    'Nhân vật',
+    'Nghệ thuật số',
+    'Nghệ thuật phương tiện mới',
     'FLOSS+ART',
     'OpenLab.Taipei',
     'Đài Loan',
@@ -21,10 +21,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/沈聖博.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '3f269cde5e'
 sourceContentHash: 'sha256:36208e14ce1c380c'
 sourceBodyHash: 'sha256:5eb269f5e4d722c4'
-translatedAt: '2026-11-04T21:34:53.734554+00:00'
+translatedAt: '2026-11-27T02:05:47.661346+00:00'
 ---
 
 # Thạch Thánh Bác

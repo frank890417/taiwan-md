@@ -1,17 +1,17 @@
 ---
-title: 'Robert Swinhoe: Khi nhà ngoại giao trở thành nhà tự nhiên học'
-description: 'Năm 1856, một thông dịch viên người Anh 19 tuổi đã ghi chép lại loài chim đầu tiên ông nhìn thấy tại bờ biển phía Tây Formosa. Bốn năm sau, với 52 bài luận văn, ông đã lần đầu giới thiệu thế giới về các sinh vật cư ngụ trên đảo này. Ông qua đời tại London ở tuổi 41, nhưng những loài vật do ông đặt tên vẫn đang tiếp tục sự sống trong những cánh rừng tại Đài Loan.'
+title: 'Sử Văn Hầu: Khi nhà ngoại giao trở thành nhà sử học'
+description: 'Nhà ngoại giao và nhà sử học người Anh, 19 tuổi với tư cách viên dịch vụ lần đầu đặt chân lên Phổ Mô Sa, năm 1860 được bổ nhiệm làm Phó lãnh sự đầu tiên của Anh tại Phổ Mô Sa, năm 1865 thăng chức làm Lãnh sự. Trong khoảng bốn năm ở Đài Loan, ông công bố 52 bài báo học thuật, ghi chép 227 loài chim, gần 40 loài thú có vú và 246 loài thực vật, giúp thế giới lần đầu tiên biết đến sinh vật của đảo này, được các nhà nghiên cứu chim cùng thời khen ngợi là "một trong những nhà thám hiểm sử học thành công nhất trong lịch sử". Bốn loài thú có vú và mười lăm loài chim được đặt tên theo ông, bao gồm chim cúc mạ bụng xanh và rùa vằn; năm 1877 qua đời tại London, mới 41 tuổi.'
 date: 2026-04-12
 category: 'People'
 tags:
   [
-    'tự nhiên học',
-    'lãnh sự Anh',
-    'lịch sử tự nhiên',
-    'chim học',
-    '[loài đặc hữu](/vi/nature/endemic-species/)',
-    'mở cảng thông thương',
-    'thế kỷ 19',
+    'Sử học',
+    'Lãnh sự Anh',
+    'Sử học tự nhiên',
+    'Chim',
+    'Loài đặc hữu Đài Loan',
+    'Mở cảng thương mại',
+    'Thế kỷ 19',
   ]
 subcategory: '歷史人物'
 author: 'Taiwan.md'
@@ -22,10 +22,10 @@ image: ''
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/史溫侯.md'
-sourceCommitSha: 'b1a5fea00'
+sourceCommitSha: '3f269cde5e'
 sourceContentHash: 'sha256:50b13c3a31e0a1c0'
 sourceBodyHash: 'sha256:e6b263814c7b1995'
-translatedAt: '2026-11-18T20:58:41+08:00'
+translatedAt: '2026-11-27T01:44:01.844158+00:00'
 ---
 
 # Robert Swinhoe: Khi nhà ngoại giao trở thành nhà tự nhiên học

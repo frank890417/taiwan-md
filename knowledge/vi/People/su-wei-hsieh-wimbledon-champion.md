@@ -1,10 +1,17 @@
 ---
-title: 'Hsieh Su-wei: Nhân sinh 1986 tại Hsinchu, nhà vô địch Grand Slam đầu tiên của Đài Loan và bảy tấm cúp vàng đôi nữ'
-description: 'Sinh năm 1986 tại Hsinchu, cha là Hsieh Tzu-lung (tài xế xe buýt của Taiwan Bus, mất vào tháng 10 năm 2023). Thứ hạng cao nhất trên WTA đơn nữ là hạng 23 (2013). Bảy lần vô địch Grand Slam đôi nữ (2013 Wimbledon / 2014 French Open / 2019 Wimbledon / 2021 Wimbledon / 2023 French Open / 2023 Wimbledon / 2024 Australian Open). Năm 2021, Australian Open, lần đầu tiên một cầu thủ nữ Đài Loan vào tới bán kết Grand Slam đơn. Năm 2025 tháng 7, Wimbledon đôi nữ, á quân.'
+title: 'Hsieh Su-wei: Cô gái Hsinchu năm 1986, nhà vô địch Grand Slam đầu tiên của Đài Loan với 7 danh hiệu đôi nữ'
+description: 'Sinh ra tại Hsinchu và trưởng thành dưới sự hỗ trợ hết mình từ người cha là tài xế xe buýt của đội Taiwan Beer, cô là vận động viên quần vợt chuyên nghiệp đã cùng Peng Shuai giành chức vô địch đôi nữ Wimbledon vào năm 2013, trở thành người Đài Loan đầu tiên đạt danh hiệu Grand Slam, đồng thời xếp hạng đơn thứ 23 thế giới trong cùng năm đó. Trong suốt 11 năm, cô đã tích lũy được 7 danh hiệu Grand Slam ở nội dung đôi nữ với các đối tác khác nhau. Năm 2021, ở tuổi 35, cô là phụ nữ Đài Loan đầu tiên lọt vào bán kết đơn nữ Australian Open, và đến năm 2025, cô tiếp tục tiến vào trận chung kết đôi nữ Wimbledon và giành ngôi Á quân.'
 date: 2026-03-19
 category: 'People'
 tags:
-  ['Thể thao', 'Tennis', 'Wimbledon', 'Grand Slam', 'Đôi nữ', 'Chuyên nghiệp']
+  [
+    'Thể thao',
+    'Quần vợt',
+    'Wimbledon',
+    'Grand Slam',
+    'Đôi nữ',
+    'Quần vợt chuyên nghiệp',
+  ]
 subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
@@ -12,10 +19,10 @@ lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
 translatedFrom: 'People/謝淑薇.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '2a5b98d9cd'
 sourceContentHash: 'sha256:e699feede1257135'
 sourceBodyHash: 'sha256:86d8a4b7771c32c4'
-translatedAt: '2026-09-10T18:19:12+08:00'
+translatedAt: '2026-11-27T02:30:13.074492+00:00'
 ---
 
 # Hsieh Su-wei: Nhân sinh 1986 tại Hsinchu, nhà vô địch Grand Slam đầu tiên của Đài Loan và bảy tấm cúp vàng đôi nữ

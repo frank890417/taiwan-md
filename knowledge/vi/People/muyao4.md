@@ -1,16 +1,16 @@
 ---
-title: 'Thứ Năm 4 Siêu Chơi：Biến Những Chuyên Nghiệp Không Thấy Được Của Công Việc Bình Thường Thành Trò Truyền Hình Mạng'
-description: 'Năm 2015, 《木曜4超玩》 khởi động từ truyền hình mạng McCabe; năm 2016 xuất hiện tập đầu tiên "Một ngày", năm 2017 thành lập kênh YouTube. Điều thú vị nhất không phải là gửi ngôi sao đi làm một ngày công việc, mà là đưa những người công nhân, nhân viên hành chính và những người làm việc sau hậu trường thường không được chụp làm chính thành nhân vật vào một không gian mà toàn quốc có thể cùng xem. Bề ngoài như thể biến người nổi tiếng thành người bình thường, nhưng thực ra đang biến những chuyên nghiệp không thấy được của công việc bình thường thành một chương trình giải trí đại chúng.'
+title: 'Mộc Diệu 4 Siêu Ngoạn: Biến những chuyên môn thầm lặng của các công việc bình thường thành chương trình giải trí trực tuyến'
+description: 'Bắt đầu từ việc tìm tòi qua các buổi livestream trên Makabé, chương trình giải trí trực tuyến này lên sóng vào năm 2015, định hình khung nội dung cho "Series Một Ngày" vào năm 2016 và thiết lập kênh YouTube vào năm 2017. Những nghệ sĩ như Thai Trí Nguyên đã trực tiếp trải nghiệm công việc của kỹ thuật viên Taipower, nhân viên sửa chữa đèn đường và hậu trường các buổi biểu diễn; chính những sợi dây thép chằng chịt đã giúp phác họa nên chân dung của những chuyên môn vốn bị che lấp. Năm 2018, tập "Trợ lý Thị trưởng Một Ngày" đã vượt mốc 3 triệu lượt xem chỉ trong bốn ngày. Chương trình biến các ngôi sao thành những người học việc, đồng thời giúp khán giả nhìn thấy sự chuyên nghiệp không được chú ý đằng sau những công việc bình thường.'
 date: 2026-08-16
 category: 'People'
 tags:
   [
-    'Thứ Năm 4 Siêu Chơi',
+    'Mộc Diệu 4 Siêu Ngoạn',
     'Thai Trí Nguyên',
-    'Một Ngày',
-    'Truyền Hình Mạng',
+    'Series Một Ngày',
+    'Chương trình giải trí trực tuyến',
     'YouTube',
-    'Phương Tiện Truyền Thông Đài Loan',
+    'Truyền thông Đài Loan',
   ]
 subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
@@ -20,10 +20,10 @@ lastHumanReview: false
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'People/木曜4超玩.md'
-sourceCommitSha: '4f3974f86'
+sourceCommitSha: '8fc70bd881'
 sourceContentHash: 'sha256:c545680e99f6d0ab'
 sourceBodyHash: 'sha256:809502b72dc5c3f5'
-translatedAt: '2026-09-28T08:43:09+08:00'
+translatedAt: '2026-11-27T01:30:45.903312+00:00'
 ---
 
 > **30 giây tóm tắt:** Năm 2015, 《木曜4超玩》 phát sóng trên nền tảng truyền hình mạng McCabe; năm 2016 mới xuất hiện tập đầu tiên của "Một ngày", năm 2017 lập thêm kênh YouTube. Điều thú vị nhất của chương trình không phải là đưa Thai Trí Nguyên, KID hay những ngôi sao khác đi làm một ngày, mà là đưa những người công nhân, nhân viên hành chính và những người làm sau hậu trường thường không được chụp làm nhân vật chính đến một không gian có thể được toàn quốc cùng xem. 《木曜4超玩》 trông có vẻ đang biến ngôi sao thành người bình thường, thực ra đang biến những chuyên môn vô hình của công việc thường ngày thành một chương trình truyền hình đại chúng.

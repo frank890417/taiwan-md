@@ -1,11 +1,11 @@
 ---
-title: 'Liêu Quỳnh Chi: Từ "Đứa trẻ bị trói" đến phương pháp lưu giữ ký ức của Hát Chèo (Ca Tử Kịch)'
-description: 'Liêu Quỳnh Chi, sinh năm 1935 tại Cơ Long, từ khi 15 tuổi bị đưa vào đoàn hát Kim Sơn, trải qua nội đài, ngoại đài, phát thanh và truyền hình. Công việc nửa đời sau của bà là biến một loại hình nghệ thuật vốn chỉ được ghi nhớ bằng cơ thể thành một loại hình mà học sinh có thể học, kịch bản có thể đọc, và hình ảnh có thể lưu giữ.'
+title: 'Liêu Quỳnh Chi: Từ một “đứa trẻ học hát kịch” đến phương pháp lưu giữ ký ức cho nghệ thuật Ca tử hí'
+description: 'Nghệ sĩ Ca tử hí, sinh ra tại Cơ Long, năm mười lăm tuổi được đưa vào nhạc xã Kim Sơn để theo học nghề. Từ một “đứa trẻ học hát kịch”, bà đã hát xuyên suốt từ các sân khấu nội đài, ngoại đài đến radio và truyền hình, được mệnh danh là "Khổ đán" số một Đài Loan. Trong nửa sau cuộc đời, bà đã phân tách các loại hình kịch nghệ vốn chỉ dựa vào trí nhớ cơ thể thành các giai điệu, bộ tịch, kịch bản và giáo trình; thành lập đoàn kịch Ca tử hí Tinh Truyền cùng quỹ văn hóa giáo dục, ghi chép lại khoảng hai trăm làn điệu quan trọng, giúp học sinh có thể học tập, kịch bản có thể đọc được và hình ảnh có thể lưu trữ, tạo ra một phương pháp lưu giữ ký ức cho Ca tử hí mà không chỉ phụ thuộc vào trí nhớ của những người cao tuổi.'
 date: 2026-08-17
-subcategory: '音樂與表演'
 category: 'People'
 tags:
-  ['Liêu Quỳnh Chi', 'Ca Tử Kịch', 'Nghệ thuật truyền thống', 'Tài sản văn hóa']
+  ['Liêu Quỳnh Chi', 'Ca tử hí', 'Nghệ thuật truyền thống', 'Di sản văn hóa']
+subcategory: '音樂與表演'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-17
@@ -13,10 +13,10 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/廖瓊枝.md'
-sourceCommitSha: 'a15e6712c'
-sourceContentHash: 'sha256:bf5e1c54c68b6eaa'
+sourceCommitSha: '630afb2b66'
+sourceContentHash: 'sha256:f186f3081f703176'
 sourceBodyHash: 'sha256:169c56cb9e4f77d3'
-translatedAt: '2026-09-15T06:51:28+08:00'
+translatedAt: '2026-11-27T01:47:50.790993+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Liêu Quỳnh Chi sinh năm 1935 tại Cơ Long, vào đoàn hát Kim Sơn năm 15 tuổi, và đã ca diễn qua nội đài, ngoại đài, phát thanh và truyền hình. Tác phẩm quan trọng nhất của bà không phải là một vở diễn cụ thể nào, mà là việc mổ xẻ Ca Tử Kịch vốn đã mất sân khấu thành lối ca, vũ đạo, kịch bản và giáo trình để trao lại cho thế hệ kế tiếp sử dụng. Điều bà để lại không chỉ là truyền thuyết về một khổ đán (khuê đán) mà còn là một phương pháp giúp ký ức không chỉ nằm trong người già.
@@ -101,34 +101,34 @@ Việc bảo tồn một loại hình nghệ thuật cuối cùng vẫn phải q
 
 Những lối vào này cũng thay đổi nhận thức về đẳng cấp của nghệ thuật. Loại hình kịch vốn biểu diễn ở bãi cỏ và sân đình, giờ có thể bước vào trường học, nhà hát quốc gia và các nơi trình diễn quốc tế. Nó vẫn giữ được lời ca bằng tiếng Đài ngữ và tình cảm dân gian, nhưng không cần phải chấp nhận sự phán xét "chỉ thô tục".[^5][^8]
 
-## Sau khi đóng hộp, vở kịch vẫn tiếp diễn
+## Sau khi đóng rèm, vở diễn vẫn tiếp diễn
 
-Vật phẩm đáng nhớ nhất trong nửa đời sau của Liêu Quỳnh Chi, thay vì là một chiếc cúp, lại giống như một chồng kịch bản mà học sinh sẽ mở ra, một đoạn ca có thể được nghe lặp đi lặp lại, và một bộ giáo trình chỉ dẫn cử chỉ và bước chân. Bà đã biến những thứ vốn chỉ lưu thông trong rạp hát thành vật liệu có thể được bảo tồn, phê bình và sắp xếp lại.[^2][^4]
+Vật phẩm đáng nhớ nhất trong nửa đời sau của Liêu Quỳnh Chi (Liao Chiung-chih), thay vì nói là một chiếc cúp giải thưởng, thì đúng hơn nên là một xấp kịch bản sẽ được học trò mở ra, một đoạn xướng âm có thể nghe đi nghe lại, và một bộ giáo trình chỉ dẫn các cử chỉ tay chân cùng bước đi. Bà đã biến những thứ vốn chỉ lưu chuyển trong rạp hát thành những tư liệu có thể được lưu giữ, phê bình và dàn dựng lại. [^2][^4]
 
-Tập _Các Tác Phẩm Kinh Điển Ca Tử Kịch Liêu Quỳnh Chi II_ hoàn thành vào năm 2024 đã thu thập 7 tác phẩm chuyển soạn hoặc sáng tác mới, quá trình sản xuất bao gồm hai năm chỉnh lý bản thảo, phỏng vấn truyền miệng và thẩm định bằng tiếng Đài ngữ. Công việc này không biến sự sáng tạo của Liêu Quỳnh Chi thành một cái kết. Ngược lại, nó trao kịch bản cho thế hệ diễn viên tiếp theo, để đoàn kịch Truyền thụ năm 2025 tiếp tục ra mắt các vở mới.[^7]
+Bộ "Tác phẩm kinh điển của Liêu Quỳnh Chi thuộc loại hình kịch hát Gezaixi II" hoàn thành vào năm 2024 bao gồm 7 tác phẩm được cải biên hoặc soạn mới; quá trình sản xuất bao gồm hai năm chỉnh lý bản thảo, phỏng vấn truyền khẩu và thẩm định văn bản tiếng Đài Loan. Công việc này không biến sự sáng tạo của Liêu Quỳnh Chi trở thành một điểm kết thúc. Ngược lại, nó trao kịch bản cho thế hệ diễn viên tiếp theo, để Đoàn kịch Tân Truyền (Xin Chuan) vào năm 2025 có thể tiếp tục ra mắt những vở diễn mới. [^7]
 
-Vì vậy, tầm quan trọng của Liêu Quỳnh Chi không chỉ nằm ở số lượng khán giả bà đã khiến khóc, cũng không chỉ nằm ở số danh hiệu tài sản văn hóa mà bà nhận được. Bà cho chúng ta thấy rằng để một loại hình nghệ thuật tồn tại, nó cần giữ ba điều cùng lúc, chứ không thể nói là vĩnh viễn bất biến: chi tiết của cơ thể, dấu vết của văn bản, và không gian để học sinh có thể tiếp tục viết lại.
+Vì vậy, tầm quan trọng của Liêu Quỳnh Chi không chỉ nằm ở việc bà đã khiến bao nhiêu khán giả phải rơi lệ khi nghe hát, cũng không chỉ ở việc bà nhận được bao nhiêu danh hiệu di sản văn hóa. Bà cho chúng ta thấy rằng, để một loại hình nghệ thuật có thể tồn tại, nó cần dựa vào việc đồng thời bảo tồn ba điều, thay vì tuyên bố rằng nó là bất biến: những chi tiết của thân thể, dấu vết của văn bản, và không gian để học trò có thể tiếp tục viết lại.
 
-Bà đi từ "đứa trẻ bị trói" đến người lưu giữ, vẫn mang ký ức về thế giới đoàn hát khắc nghiệt đó. Bà đã chuyển từng thứ mà trước đây chỉ những thầy trò mới hiểu đến nơi mọi người đều có thể tiếp cận. Ca Tử Kịch vì thế không chỉ dừng lại trong giọng hát của Liêu Quỳnh Chi, mà vẫn có thể nghe thấy bà dạy cách mở lời.[^9]
+Từ một người "trói buộc tuổi thơ với kịch nghệ" trở thành người bảo tồn, bà vẫn mang theo ký ức về thế giới gánh hát gian khổ năm xưa. Bà đã đưa từng thứ vốn dĩ chỉ có giữa thầy và trò mới hiểu được, đến những nơi mà tất cả mọi người đều có thể tiếp cận. Nhờ đó, Gezaixi không nhất thiết phải dừng lại ở giọng hát của Liêu Quỳnh Chi, nhưng vẫn có thể nghe thấy cách bà dạy người khác mở lời.
 
-Kết thúc này cũng đặt ra câu hỏi: liệu việc lưu trữ bản nhạc, kịch bản và hình ảnh có đồng nghĩa với việc bảo tồn Ca Tử Kịch? Chưa chắc. Tài liệu có thể giúp hậu thế tìm lại giai điệu, nhưng không thể thay thế hơi thở trong quá trình tập luyện, sự ăn ý giữa diễn viên và nhạc công, cũng không đảm bảo sẽ có ai sẵn lòng mua vé và ngồi nghe hết một vở kịch. Giới thiệu của Bộ Văn hóa vì vậy đã đề cập đồng thời đến giá trị của các tác phẩm truyền thống và sự phát triển của kịch mới. Điểm cuối cùng của sự bảo tồn vẫn là khán giả.[^3][^6]
+Kết thúc này cũng để lại một câu hỏi: Liệu bảo tồn được nhạc phổ, kịch bản và hình ảnh thì có đồng nghĩa với việc bảo tồn được Gezaixi? Không hẳn vậy. Tư liệu có thể giúp hậu thế tìm lại giai điệu, nhưng không thể thay thế hơi thở khi tập luyện, sự ăn ý giữa diễn viên và nhạc công, cũng như không thể đảm bảo rằng sẽ có người sẵn lòng mua vé để ngồi xuống nghe trọn vẹn một vở diễn. Do đó, phần giới thiệu của Bộ Văn hóa đã đồng thời đề cập đến giá trị của các kịch mục truyền thống và sự phát triển của các vở diễn mới. Điểm cuối của sự bảo tồn vẫn chính là khán giả. [^3][^6]
 
-Công việc của Liêu Quỳnh Chi không giải quyết được mọi vấn đề cho Ca Tử Kịch, nhưng nó đưa ra một câu trả lời khả thi: trước tiên hãy lưu lại những gì cơ thể biết, sau đó cho học sinh cơ hội diễn sai, làm sống lại, và biến nó thành phiên bản của riêng họ. Sự kế thừa của loại hình nghệ thuật dựa trên việc tạo ra một cuộc gặp gỡ cụ thể với quá khứ ngày nay, chứ không phải là sao chép một quá khứ nguyên vẹn.
+Công việc của Liêu Quỳnh Chi không giải quyết hết mọi vấn đề cho Gezaixi, nhưng đã đưa ra một câu trả lời khả thi: trước tiên hãy lưu giữ lại những gì cơ thể đã ghi nhớ, sau đó để học trò có cơ hội diễn sai, diễn sống, và diễn thành phiên bản của chính mình. Sự tiếp nối của một loại hình kịch nghệ dựa vào việc tạo ra một cuộc gặp gỡ cụ thể giữa hiện tại và quá khứ, chứ không phải là sao chép nguyên vẹn một quá khứ đã qua.
 
-[^1]: [Liêu Quỳnh Chi](https://musiciantw.ncfta.gov.tw/people?uid=2&pid=79) — Trang thông tin nhân vật trong cơ sở dữ liệu nhóm nhạc Đài Loan của Trung tâm Nghệ thuật Truyền thống Quốc lập, tổng hợp tiểu sử, đoàn kịch và tư cách người lưu giữ tài sản văn hóa của Liêu Quỳnh Chi.
+[^1]: [Liêu Quỳnh Chi](https://musiciantw.ncfta.gov.tw/people?uid=2&pid=79) — Trang chi tiết nhân vật trong Cơ sở dữ liệu nhóm nhạc Đài Loan thuộc Trung tâm Nghệ thuật Truyền thống Quốc gia, tổng hợp về cuộc đời, đoàn kịch và thân phận người bảo tồn di sản văn hóa của Liêu Quỳnh Chi.
 
-[^2]: [Liêu Quỳnh Chi thuộc thể loại kịch](https://www.ncafroc.org.tw/artsaward/winnerDetail@1221) — Trang chi tiết người đoạt giải của Quỹ Văn hóa Nghệ thuật Quốc gia, ghi lại lời tự sự và niên biểu về việc học diễn, giảng dạy, biên soạn kịch bản và công tác truyền thụ của Liêu Quỳnh Chi.
+[^2]: [Nghệ sĩ kịch nghệ Liêu Quỳnh Chi](https://www.ncafroc.org.tw/artsaward/winnerDetail@1221) — Trang chi tiết những người đoạt giải của Quỹ Nghệ thuật và Văn hóa Quốc gia, bao gồm lời tự thuật và niên biểu của Liêu Quỳnh Chi về việc học diễn, giảng dạy, chỉnh lý kịch bản và công tác truyền thừa.
 
-[^3]: [Nghệ sĩ Opera | Liêu Quỳnh Chi](https://www.moc.gov.tw/en/News_Content2.aspx?n=480&s=17446) — Bài viết nhân vật của Bộ Văn hóa, giải thích quá trình rèn luyện thời trẻ, giai đoạn hoàng kim của Ca Tử Kịch, sự va chạm với phát thanh và truyền hình, và quan điểm bảo tồn.
+[^3]: [Nghệ sĩ Opera | Liao Chiung-chih](https://www.moc.gov.tw/en/News_Content2.aspx?n=480&s=17446) — Bài viết về nhân vật của Bộ Văn hóa, trình bày về quá trình đào tạo thời trẻ, thời kỳ hoàng kim của Gezaixi, sự tác động của phát thanh truyền hình và quan điểm bảo tồn của Liêu Quỳnh Chi.
 
-[^4]: [Dự án lưu giữ Ca Tử Kịch Nghệ thuật Dân tộc Liêu Quỳnh Chi](https://collections.ncfta.gov.tw/pages/list/proj_items.aspx?id=12199914) — Trang chi tiết dự án lưu trữ của Trung tâm Nghệ thuật Truyền thống Quốc lập, liệt kê quá trình đoàn hát, phát thanh, truyền hình và thành quả bảo tồn các tác phẩm kinh điển, làn điệu và âm thanh/hình ảnh.
+[^4]: [Dự án lưu giữ ghi chép kịch nghệ dân tộc của nghệ sĩ Liêu Quỳnh Chi](https://collections.ncfta.gov.tw/pages/list/proj_items.aspx?id=12199914) — Trang chi tiết dự án lưu trữ của Trung tâm Nghệ thuật Truyền thống Quốc gia, liệt kê kinh nghiệm gánh hát, phát thanh, truyền hình cùng các thành tựu bảo tồn kịch mục kinh điển, khúc điệu và âm thanh hình ảnh.
 
-[^5]: [“Đông Thủy Mẫu Đan” lay động lòng người: Cuộc đời Liêu Quỳnh Chi tạo nên sinh mệnh nghệ thuật](https://magazine.ncfta.gov.tw/News_Content2.aspx?n=1932&s=82249) — Bài viết _Truyền Nghệ_ của Trung tâm Nghệ thuật Truyền thống Quốc lập, thông qua vở _Đông Thủy Mẫu Đan_ và buổi diễn truyền thụ, nói về màn trình diễn Khổ đán của Liêu Quỳnh Chi và sự cùng sân khấu giữa thầy trò.
+[^5]: ["Đông Thủy Mẫu Đan" chạm đến trái tim: Thân thế của Liêu Quỳnh Chi tạo nên sức sống nghệ thuật](https://magazine.ncfta.gov.tw/News_Content2.aspx?n=1932&s=82249) — Bài viết trên tạp chí "Truyền Nghệ" của Trung tâm Nghệ thuật Truyền thống Quốc gia, giải thích về lối diễn khổ đán (vai phụ nữ đau khổ) và sự cùng đứng trên sân khấu của thầy trò thông qua tác phẩm "Đông Thủy Mẫu Đan" và các buổi biểu diễn truyền dạy.
 
-[^6]: [Giải thưởng Đặc biệt Ca khúc Truyền thụ: Dạy cái gì thì nghĩ cái đó – Liêu Quỳnh Chi](https://magazine.ncfta.gov.tw/News_Content2.aspx?n=3135&s=103465&psn=103470) — Bài viết nhân vật _Truyền Nghệ_ của Trung tâm Nghệ thuật Truyền thống Quốc lập, ghi lại quá trình bà từ nội đài, ngoại đài, phát thanh đến giảng dạy, biên soạn kịch bản và đoàn kịch truyền thụ.
+[^6]: [Giải thưởng đặc biệt Giải Vàng Truyền Nghệ: Dạy gì nghĩ nấy, nghiên cứu gì nấy — Liêu Quỳnh Chi](https://magazine.ncfta.gov.tw/News_Content2.aspx?n=3135&s=103465&psn=103470) — Bài viết về nhân vật trên tạp chí "Truyền Nghệ" của Trung tâm Nghệ thuật Truyền thống Quốc gia, ghi lại hành trình từ sân khấu nội đài, ngoại đài, phát thanh đến giảng dạy, chỉnh lý kịch bản và đoàn kịch truyền thừa của bà.
 
-[^7]: [Tuyển tập Kịch bản Liêu Quỳnh Chi chứng kiến sự kế thừa Ca Tử Kịch: Thông báo vở diễn chủ lực năm 2025](https://www.cna.com.tw/news/acul/202412260241.aspx) — Bài viết của Báo Trung ương, đưa tin về việc chỉnh lý tuyển tập kịch bản trong hai năm, thu thập bảy tác phẩm, và chi tiết bà học cách sắp xếp văn bản để kế thừa.
+[^7]: [Tập kịch bản của Liêu Quỳnh Chi minh chứng cho sự kế thừa Gezaixi, dự báo vở đại kịch trọng điểm năm 2025](https://www.cna.com.tw/news/acul/202412260241.aspx) — Bài viết từ Trung ương Xã (CNA), đưa tin về việc chỉnh lý tập kịch bản trong hai năm với bảy tác phẩm, cũng như chi tiết về việc Liêu Quỳnh Chi học cách chỉnh lý văn bản vì mục đích truyền thừa.
 
-[^8]: [Đoàn Kịch Ca Tử Kịch Truyền thụ: 2018 tri ân vị đại sư – Hoạt động chuỗi sự kiện “Ca khúc rực rỡ của Mẫu Đan”](https://museums.moc.gov.tw/MocEntrance/Detail?activityId=d22e9361-d327-4e32-b47f-a2c74842dbd0) — Trang chi tiết hoạt động Đảo Bảo tàng của Bộ Văn hóa, tổng hợp quá trình nghệ thuật và dự án bảo tồn của Liêu Quỳnh Chi qua nội đài, ngoại đài, phát thanh, truyền hình và sân khấu.
+[^8]: [Đoàn kịch Gezaixi Tân Truyền: 2018 Tri ân bậc thầy — Chuỗi hoạt động về tình quê hương Mẫu Đan "Buổi hòa nhạc Mẫu Đan rực rỡ"](https://museums.moc.gov.tw/MocEntrance/Detail?activityId=d22e9361-d327-4e32-b47f-a2c74842dbd0) — Trang chi tiết hoạt động "Đảo Bảo Vật" của Bộ Văn hóa, tổng hợp hành trình nghệ thuật xuyên suốt nội đài, ngoại đài, phát thanh, truyền hình, sân khấu và các dự án bảo tồn của Liêu Quỳnh Chi.
 
-[^9]: [Khổ Đán số một Đài Loan Liêu Quỳnh Chi kể chuyện trên sân khấu: Diễn giải kinh điển Ca Tử Kịch “Lịch Miêu Hoán Thái Tử”](https://www.moc.gov.tw/News_Content.aspx?n=105&s=49295) — Bài viết của Bộ Văn hóa, ghi lại trường hợp bà hệ thống hóa ký ức kịch nội đài, làm người kể chuyện và các nghệ sĩ truyền thụ tham gia biểu diễn.
+[^9]: [Nữ khổ đán số một Đài Loan Liêu Quỳnh Chi kể chuyện trên sân khấu: Diễn xướng kinh điển Gezaixi đoạn trích "Mèo lười đổi Thái tử"](https://www.moc.gov.tw/News_Content.aspx?n=105&s=49295) — Bài viết của Bộ Văn hóa, ghi lại trường hợp biểu diễn khi Liêu Quỳnh Chi chỉnh lý ký ức diễn kịch nội đài, đảm nhận vai trò người kể chuyện và sự tham gia biểu diễn của các học trò truyền dạy.

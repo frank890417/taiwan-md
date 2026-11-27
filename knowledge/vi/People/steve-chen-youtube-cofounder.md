@@ -1,6 +1,6 @@
 ---
-title: 'Trần Sĩ Tuấn: Từ rời Đài Loan năm tám tuổi đến bán YouTube với giá 1,65 tỷ USD và trở về sau cơn u não'
-description: 'Ông rời Đài Loan lúc tám tuổi, xây dựng một nền tảng cho phép mọi người tải video lên tại Mỹ khi hai mươi bảy tuổi, bán nó trong vòng hai mươi tháng với giá 1,65 tỷ USD, rồi mang vợ con trở về sau khi bị khối u não.'
+title: 'Trần Sĩ Tuấn'
+description: 'Một trong những nhà sáng lập gốc Đài nổi tiếng nhất tại Thung lũng Silicon, di cư sang Mỹ từ năm tám tuổi và gia nhập PayPal khi chưa tốt nghiệp đại học. Năm 2005, ông cùng hai đồng nghiệp cũ đã thành lập YouTube trong một gara, và chỉ sau 20 tháng đã bán lại cho Google với giá 1,65 tỷ USD. Sau thương vụ thâu tóm, ông được chẩn đoán mắc chứng phình động mạch não, trải qua hai lần phẫu thuật mở hộp sọ và 15 cơn co giật động kinh. Năm 2019, ông cùng vợ con trở về Đài Loan định cư và là người đầu tiên được cấp Thẻ Vàng Việc làm của Đài Loan, kể từ đó không ngừng đưa các startup của Đài Loan vươn ra đấu trường thế giới.'
 date: 2026-04-06
 category: 'People'
 tags:
@@ -9,7 +9,7 @@ tags:
     'YouTube',
     'Thung lũng Silicon',
     'Khởi nghiệp',
-    'Thẻ xanh lao động',
+    'Thẻ Vàng Việc làm',
     'U não',
   ]
 subcategory: '科技與創業'
@@ -21,10 +21,10 @@ readingTime: 8
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/陳士駿.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '630afb2b66'
 sourceContentHash: 'sha256:ba95870558368ba6'
 sourceBodyHash: 'sha256:10a502d58bab93f7'
-translatedAt: '2026-11-06T07:55:38.941639+00:00'
+translatedAt: '2026-11-27T02:12:26.948427+00:00'
 ---
 
 # Trần Sĩ Tuấn

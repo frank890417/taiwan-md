@@ -1,13 +1,13 @@
 ---
-title: 'Đồng Tử Hiền: Xuất phát từ Cao Đẳng Kỹ thuật Đài Bắc, Pegatron thành nhà cung cấp lắp ráp lớn nhất của Apple'
-description: 'Sinh ngày 25 tháng 6 năm 1960, Đồng Tử Hiền tốt nghiệp Cao Đẳng Kỹ thuật Đài Bắc (nay là Đại học Khoa học và Công nghệ Quốc lập Đài Bắc) chuyên ngành Điện tử, không phải ĐH Quốc gia Đài Loan chuyên ngành Điện tử viễn thông. Năm 1988 gia nhập ASUS, ngày 1 tháng 1 năm 2008 dẫn đầu việc tách tư nhân hóa, thành lập Pegatron, trở thành nhà cung cấp lắp ráp cho Apple, Sony, Nintendo. Năm 2019 đầu tư vào Eslite. Năm 2025 vẫn đưa ra chủ trương chính sách năng lượng "lõi xanh cùng tồn tại".'
+title: 'Đồng Tử Hiền: Xuất thân từ Trường Công nghiệp Kỹ thuật Đài Bắc, đưa Pegatron trở thành đối tác gia công lớn nhất của Apple'
+description: 'Doanh nhân ngành điện tử Đài Loan, tốt nghiệp khoa Điện tử trường Công nghiệp Kỹ thuật Đài Bắc thay vì khoa Điện kỹ thuật Đại học Quốc gia Đài Loan. Năm 1988, ông gia nhập ASUS; vào ngày đầu năm 2008, ông đã chủ đạo việc tách rời mảng thương hiệu và mảng gia công để thành lập Pegatron Corporation, trở thành nhà máy gia công cho các thương hiệu như Apple, Sony và Nintendo. Năm 2019, ông đầu tư vào Eslite Bookstore với quan điểm rằng "một xã hội cần có hiệu sách cũng giống như cần có bệnh viện"; ông cũng là một trong những doanh nhân bày tỏ quan điểm công khai nhất về chính sách năng lượng trong ngành công nghệ, với lập trường ủng hộ lâu dài cho việc "cùng tồn tại giữa hạt nhân và năng lượng xanh".'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Công nghệ và Doanh nghiệp',
     'Pegatron',
-    'Sản xuất ODM',
+    'Gia công điện tử',
     'ODM',
     'Chính sách năng lượng',
   ]
@@ -18,10 +18,10 @@ lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
 translatedFrom: 'People/童子賢.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '3f269cde5e'
 sourceContentHash: 'sha256:741173e056926b2c'
 sourceBodyHash: 'sha256:7f6ff2dde21c6686'
-translatedAt: '2026-08-09T12:06:28+08:00'
+translatedAt: '2026-11-27T02:28:19.248598+00:00'
 ---
 
 # Đồng Tử Hiền: Xuất phát từ Cao Đẳng Kỹ thuật Đài Bắc, Pegatron thành nhà cung cấp lắp ráp lớn nhất của Apple

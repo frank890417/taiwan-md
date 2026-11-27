@@ -1,16 +1,16 @@
 ---
-title: 'Tôn: Từ căn phòng năm lớp 8 đến hai kênh triệu người đăng ký — biên niên trưởng thành của một YouTuber'
-description: 'Từ những video phát trực tiếp trò chơi khi còn học lớp 8, Tôn trở thành YouTuber triệu người đăng ký trẻ nhất Đài Loan lúc bấy giờ ở tuổi 19, rồi tiếp tục đưa kênh phụ vượt mốc một triệu. Tư liệu trải dài 14 năm dương lịch ghi lại quá trình anh đối diện với áp lực sáng tạo, biến cố gia đình và sai sót quảng cáo, để rồi từng bước trưởng thành.'
+title: 'Zun: Từ căn phòng năm lớp 8 đến cột mốc triệu sub hai kênh, nhật ký trưởng thành của một YouTuber'
+description: 'Là nhà sáng tạo nội dung Đài Loan bắt đầu đăng tải video chơi game lên YouTube từ năm lớp 8, anh đã trở thành YouTuber trẻ nhất Đài Loan thời điểm đó với 1,2 triệu lượt đăng ký ở tuổi 19. Qua hồ sơ công khai kéo dài suốt 14 năm, anh đã chuyển hướng từ nội dung chơi game sang thực nghiệm, đập hộp và đời thường; từng chia sẻ rằng việc có lượng đăng ký cao cũng đi kèm những áp lực nhất định, đồng thời cũng trải qua sóng gió từ vụ án của anh trai Tiểu Ngọc và sai sót quảng cáo của Pocket Wonder. Đến cuối năm 2024, kênh phụ đã vượt mốc một triệu lượt đăng ký, còn các video về nhà mới đã đưa ống kính vào cuộc sống trưởng thành của anh.'
 date: 2026-07-15
 category: 'People'
 tags:
   [
     'YouTuber',
-    'Tôn',
-    'văn hóa Đài Loan',
-    'nhà sáng tạo nội dung trực tuyến',
-    'Nhân Sinh Phì Trạch',
-    'văn hóa số',
+    'Zun',
+    'Văn hóa Đài Loan',
+    'Nhà sáng tạo nội dung mạng',
+    'Cuộc đời của một otaku',
+    'Văn hóa kỹ thuật số',
   ]
 subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
@@ -25,10 +25,10 @@ relatedDiary: ['2026-07-15-191335-manual']
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/尊.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '2a5b98d9cd'
 sourceContentHash: 'sha256:741e9553e6d863d3'
 sourceBodyHash: 'sha256:e3564c2899c65b1e'
-translatedAt: '2026-10-15T03:11:44.352985+00:00'
+translatedAt: '2026-11-27T01:25:42.129246+00:00'
 ---
 
 > **30 giây tóm tắt:**
