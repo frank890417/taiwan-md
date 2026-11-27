@@ -1,10 +1,10 @@
 ---
-title: 'Yang Chuan-kwang: Desa Taitung, Perak Roma, Rekor Dunia 9121 Poin, Besi Asia'
-description: 'Lahir 10 Juli 1933 di desa Amis Maran Taitung, Yang Chuan-kwang adalah pemenang medali Olimpiade pertama Taiwan. Di Olimpiade Roma 1960, ia meraih perak decathlon dengan 8334 poin; 1963 mencetak rekor dunia 9121 poin dan lompat bambu 4,83 meter memaksa IAAF merevisi standar penilaian. Meninggal 27 Januari 2007 di California AS akibat stroke, usia 73 tahun. April 2025, Kementerian Kebudayaan tetapkan sebagai harta warisan nasional.'
+title: 'Yang Chuan-kwang: Suku Taitung, Medali Perak di Roma, Rekor Dunia 9.121 Poin, Pria Baja Asia'
+description: 'Pemenang medali Olimpiade pertama Taiwan, lahir pada 1933 di suku Amis Maran di Taitung, bersekolah di Sekolah Normal Taitung dan Kolej Normal Taiwan, pada 1957 pergi ke AS untuk berlatih di UCLA. Di Olimpiade Roma 1960, ia meraih medali perak dalam desathlon dengan 8.334 poin, hanya 58 poin di bawah medali emas Rafer Johnson; pada 1963, ia mencetak rekor dunia dengan 9.121 poin, dan prestasinya dalam lompat tongkat 4,83 meter memaksa IAAF mengubah standar penilaian. Setelah pensiun, ia kembali ke Taiwan dan mengabdikan diri pada pendidikan olahraga, meninggal dunia pada 2007 di California, AS, karena stroke, berusia 73 tahun; pada 2025, Kementerian Kebudayaan menetapkan medali perak Roma sebagai warisan budaya olahraga pertama Taiwan.'
 date: 2026-03-19
 category: 'People'
 tags:
-  ['Olahraga', 'Atletik', 'Olimpiade', 'Decathlon', 'Masyarakat Adat', 'Amis']
+  ['Olahraga', 'Atletik', 'Olimpiade', 'Desathlon', 'Orang Asli', 'Suku Amis']
 subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
@@ -12,10 +12,10 @@ lastVerified: 2026-09-05
 lastHumanReview: true
 readingTime: 7
 translatedFrom: 'People/楊傳廣.md'
-sourceCommitSha: '8d0c4a70d'
+sourceCommitSha: 'fc0798f30d'
 sourceContentHash: 'sha256:3f102f565e503ad8'
 sourceBodyHash: 'sha256:b14c332dbd93a4eb'
-translatedAt: '2026-09-09T15:32:31+08:00'
+translatedAt: '2026-11-27T06:58:29.333970+00:00'
 ---
 
 # Yang Chuan-kwang: Desa Taitung, Perak Roma, Rekor Dunia 9121 Poin, Besi Asia

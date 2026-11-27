@@ -1,18 +1,18 @@
 ---
-title: 'Lin Vi: Dari "Tingkat Dansa yang Harus Dimiliki oleh Seorang Girl Group" hingga Solo EP dalam Enam Tahun'
-description: 'Pada 2020, seorang gadis berusia dua puluh satu dari Taichung di atas panggung seleksi menyatakan kepada Pan Wei-bo: "Aku ingin semua orang tahu, tingkat dansa yang harus dimiliki oleh seorang girl group." Enam tahun kemudian, ia merilis solo EP, penggemar menggalang dana untuk mengadakan panggung ulang tahun di Dadaocheng, dan iklan dukungan disiarkan secara bersamaan di tiga negara. Ia sedang memenuhi janjinya.'
+title: 'Lien Ying: Enam Tahun dari "Tingkat Tarian yang Seharusnya Dimiliki Sebuah Girl Group" hingga EP Solo'
+description: 'Penyanyi sekaligus penari yang berasal dari girl group Taiwan, ia telah mempelajari balet, tari rakyat, dan tari Tiongkok sejak kelas dua SD, lalu beralih ke street dance saat SMA. Pada tahun 2020, dalam acara kompetisi "Diamond Generation DD52", ia mengatakan kepada mentor Pan Weibo, "Saya ingin membuat semua orang tahu tingkat tarian yang seharusnya dimiliki sebuah girl group". Setelah itu, ia debut sebagai penari utama dalam grup HUR+ melalui tim Storm Spade yang menjadi juara kedua. Pada tahun 2025, di tengah aktivitas grup yang berkelanjutan, ia merilis EP solo berjudul "EZ" dengan aliran hip-hop dan R&B yang menyertakan elemen bahasa Taiwan, menjadikannya anggota girl group pertama di Taiwan yang menjalankan aktivitas grup dan solo secara bersamaan.'
 date: 2026-04-23
 category: 'People'
 tags:
   [
-    'Lin Vi',
+    'Lien Ying',
     'ERIN',
     'HUR+',
     'DD52',
     'girl group',
     'idola',
     'musik Taiwan',
-    'dansa',
+    'tarian',
     'hip-hop',
     'solo',
   ]
@@ -25,10 +25,10 @@ readingTime: 10
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/連穎.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'c7e3d69aad'
 sourceContentHash: 'sha256:5f1555ccc3c4f606'
 sourceBodyHash: 'sha256:3765efbdda716be7'
-translatedAt: '2026-09-21T00:58:31+08:00'
+translatedAt: '2026-11-27T06:51:40.803615+00:00'
 ---
 
 > **30 detik ringkasan:** Lin Vi (Erin), lahir di Taichung pada 1999, mulai belajar ballet, tari rakyat, dan tari Cina sejak kelas dua SD. Pada SMA ia beralih ke tari breakdance. Pada 2020 ia mengikuti DD52 "Generasi Link", dan pada episode kedua di atas panggung pertarungan, ia berkata kepada pelatih utama Pan Wei-bo: "Aku ingin semua orang tahu, tingkat dansa yang harus dimiliki oleh seorang girl group" — pernyataan ini pun menjadi labelnya. Grup juara dua Storm Black Spade debut di bawah nama [HUR+](/id/people/hur-plus-band), dan ia adalah penari utamanya. Pada 2025 ia merilis EP solo pertamanya berjudul EZ, dengan gaya hip-hop/R&B, menggabungkan elemen bahasa Taiwan, sengaja menghindari jalur yang aman dan emosional. Pada hari ulang tahunnya di 2026, penggemar menggalang dana untuk mengadakan panggung di Dadaocheng, dan ia menyanyikan lagu barunya "Terlambat Satu Detik". Ia tetap aktif dengan grup sekaligus merilis EP solo. Di Taiwan, ia adalah anggota girl group pertama yang melakukan hal ini.

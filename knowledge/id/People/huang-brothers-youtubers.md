@@ -1,14 +1,14 @@
 ---
-title: 'Bersaudara Huang: Di Balik Label "Segar", Kisah Keaslian dan Kelembutan yang Terpaksa Terbuka'
-description: 'Bermula dari video pegadahan 2017, Bersaudara Huang menembus lingkaran YouTube dengan citra "segar, positif". Namun laporan paksa coming out 2020 memaksa saudara ini di puncak jutaan pelanggan untuk membongkar privasi di depan kamera, yang tak terduga justru menggambarkan respons kolektif paling lembut masyarakat Taiwan terhadap kesetaraan gender.'
+title: 'Bersaudara Huang: Di Balik Label Segar, Kebenaran dan Kelembutan yang Dipaksa Terungkap'
+description: 'Duo berlangganan jutaan dari Taiwan yang dibentuk oleh kakak Zhe Zhe dan adik Wei Wei, memulai pada 2017 dengan sebuah video ramen konbini Jepang, pernah membuat rekor 20 bulan tanpa libur. Pada 2020, adik dipaksa coming out oleh media, video dia menangis tak bisa berkata-kata senelepon ibu di depan kamera memicu dukungan se-Taiwan, juga mengangkat diskusi tentang etika media dan privasi digital. Sejak itu mereka melangkah ke musik, amal, dan kampus, dari remaja prankster tumbuh menjadi kreator yang menanggung tanggung jawab sosial.'
 date: 2026-06-01
 category: 'People'
 tags:
   [
     'YouTuber',
     'Bersaudara Huang',
-    'Weiwei',
-    'Zhezhe',
+    'Wei Wei',
+    'Zhe Zhe',
     'kesetaraan gender',
     'budaya Taiwan',
   ]
@@ -21,10 +21,10 @@ readingTime: 12
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/黃氏兄弟.md'
-sourceCommitSha: '7d41e6f686'
+sourceCommitSha: 'fd2854dbad'
 sourceContentHash: 'sha256:1016352970b6d5c8'
 sourceBodyHash: 'sha256:68b9398b0dec02a8'
-translatedAt: '2026-11-21T10:48:04+08:00'
+translatedAt: '2026-11-27T07:01:53.214094+00:00'
 ---
 
 > **Ringkasan 30 Detik:**

@@ -1,10 +1,10 @@
 ---
-title: 'Guru Kucing Hitam: Dari Satu Kartu Grafis yang Panas hingga Dua Puluh Tahun Mengembalikan Lalu Lintas kepada Pembaca'
-description: 'Di musim libur 2015, sebuah kartu grafis yang panas dan mati menghentikan siaran game Guru Kucing Hitam, namun tak terduga menyisakan satu halaman penggemab. Dari hiburan kucing, cerita sejarah, hingga Podcast dan "Laporan Kreatif Kucing Hitam", ia melintasi platform dari situs anonim, Facebook, YouTube, hingga newsletter, sambil bertanya: apakah seorang kreator sedang melayani pembaca, atau hanya memenuhi algoritma?'
+title: 'Guru Black Cat: Dari Kartu Grafis yang Kepanasan, Hingga Dua Puluh Tahun Mengembalikan Trafik kepada Pembaca'
+description: 'Seorang kreator media mandiri asal Taiwan yang memulai perjalanannya dari halaman penggemar sisa kegagalan siaran langsung gim pada tahun 2015. Ia awalnya membangun interaksi melalui konten kucing, lalu beralih ke penceritaan sejarah lewat ringkasan materi Perang Dunia II dan Nazi Jerman, hingga menerbitkan buku "Sejarah adalah Perang". Akibat sindrom mata kering, ia meninggalkan siaran langsung dan beralih ke Podcast. Sejak tahun 2024, melalui "Black Cat Creative Report", ia membagikan pengalaman mengenai trafik, platform, dan monetisasi secara terbuka, sambil terus mempertanyakan apakah kreator sebenarnya melayani pembaca atau sekadar memberi makan algoritma, serta mampu menyajikan materi kompleks hingga dapat dipahami oleh pendengar.'
 date: 2026-08-16
 category: 'People'
+tags: ['Guru Black Cat', 'Media Mandiri', 'Pencerita Sejarah']
 subcategory: '數位與媒體'
-tags: ['Guru Kucing Hitam', 'media sosial', 'cerita sejarah']
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16
@@ -12,10 +12,10 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/黑貓老師.md'
-sourceCommitSha: '9d93b1d90'
+sourceCommitSha: 'fd2854dbad'
 sourceContentHash: 'sha256:098b16931924e6a4'
 sourceBodyHash: 'sha256:d62613e467add761'
-translatedAt: '2026-09-13T00:44:03+08:00'
+translatedAt: '2026-11-27T06:42:35.845884+00:00'
 ---
 
 # Guru Kucing Hitam: Dari Satu Kartu Grafis yang Panas hingga Dua Puluh Tahun Mengembalikan Lalu Lintas kepada Pembaca
