@@ -1,16 +1,16 @@
 ---
-title: 'Huang Brothers: Por trás dos rótulos refrescantes, a verdade e a ternura forçadas à luz'
-description: 'De um vídeo de pegadinha em 2017 ao impacto de uma exposição não consensual em 2020, conheça a trajetória dos Huang Brothers e sua influência na igualdade de gênero em Taiwan.'
+title: 'Irmãos Huang: por trás do rótulo refrescante, a verdade e a ternura forçadas a se revelar'
+description: 'Formado pelo irmão mais velho Zhe Zhe e pelo irmão mais novo Wei Wei, o duo taiwanês com um milhão de inscritos começou em 2017 com um vídeo de macarrão instantâneo de uma loja de conveniência japonesa, chegando a registrar 20 meses sem férias. Em 2020, o irmão mais novo foi forçado a sair do armário pela mídia; o vídeo em que ele, em lágrimas e sem conseguir falar, liga para a mãe diante das câmeras gerou apoio em toda Taiwan e trouxe à tona discussões sobre ética midiática e privacidade digital. Desde então, eles se aventuraram na música, no trabalho social e nas escolas, crescendo de garotos que faziam pegadinhas para criadores que assumem responsabilidade social.'
 date: 2026-06-01
 category: 'People'
 tags:
   [
     'YouTuber',
-    'Huang Brothers',
-    'Wei-wei',
-    'Zhe-zhe',
-    'igualdade de gênero',
-    'cultura de Taiwan',
+    'Irmãos Huang',
+    'Wei Wei',
+    'Zhe Zhe',
+    'Igualdade de gênero',
+    'Cultura taiwanesa',
   ]
 subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
@@ -21,10 +21,10 @@ readingTime: 12
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/黃氏兄弟.md'
-sourceCommitSha: '7d41e6f686'
+sourceCommitSha: 'fd2854dbad'
 sourceContentHash: 'sha256:1016352970b6d5c8'
 sourceBodyHash: 'sha256:68b9398b0dec02a8'
-translatedAt: '2026-11-21T10:48:05+08:00'
+translatedAt: '2026-11-27T05:06:55.250975+00:00'
 ---
 
 > **Resumo de 30 segundos:**

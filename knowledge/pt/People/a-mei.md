@@ -1,9 +1,9 @@
 ---
-title: 'A-mei: cantora puyuma, de «Irmãs» (1996) ao Taipei Dome com cinco noites (2024)'
-description: 'Nascida a 9 de agosto de 1972 no município de Beinan, condado de Taitung, A-mei é uma cantora puyuma de Taiwan e uma das vocalistas femininas de maior sucesso na história da música pop mandarim. O álbum de estreia «Irmãs» (1996) vendeu 1,21 milhão de cópias em Taiwan e 4 milhões na Ásia. Em 2015, a turnê «Utopia» fez 10 noites consecutivas na Taipei Arena. Em dezembro de 2024, cinco noites no Taipei Dome com a ASMeiR MAXXX, orçamento de 200 milhões de novos dólares taiwaneses e balões de ar quente soltos no local. Vendas acumuladas na carreira superam 50 milhões de cópias.'
+title: 'A-Mei: cantora puyuma, do álbum "Sisters" de 1996 a cinco shows no Taipei Dome em 2024'
+description: 'Cantora puyuma, nascida em 1972 na aldeia de Dabalu, no município de Beinan, Taitung. Na juventude, cantava com a família em restaurantes para ajudar nas despesas domésticas. Seu álbum de estreia de 1996, "Sisters", produzido por Chang Yu-sheng, vendeu 1,21 milhão de cópias em Taiwan, incorporando vozes tradicionais puyuma; as vendas acumuladas na carreira ultrapassam 50 milhões de cópias. Em 2000, foi banida na China por cerca de quatro anos por ter cantado o hino nacional na cerimônia de posse presidencial. Em 2015, realizou dez shows consecutivos no Taipei Arena com a turnê "Utopia"; em 2024, fez cinco shows consecutivos no Taipei Dome, e apoia publicamente os direitos LGBT há muito tempo.'
 date: 2026-03-19
 category: 'People'
-tags: ['Música', 'Povos Indígenas', 'Puyuma', 'Diva', 'Direitos LGBTQ+', 'Pop']
+tags: ['Música', 'Povos indígenas', 'Puyuma', 'Diva', 'Direitos LGBT', 'Pop']
 subcategory: '音樂'
 author: 'Taiwan.md'
 featured: false
@@ -13,10 +13,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/張惠妹.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'fc0798f30d'
 sourceContentHash: 'sha256:aebfe56ef8181ee0'
 sourceBodyHash: 'sha256:2548692a01191648'
-translatedAt: '2026-11-04T21:47:03.936714+00:00'
+translatedAt: '2026-11-27T05:13:48.226082+00:00'
 ---
 
 # A-mei: a diva puyuma, de «Irmãs» (1996) ao Taipei Dome com cinco noites (2024)

@@ -1,34 +1,37 @@
 ---
-title: 'Lala Hsu: de enfermeira a rainha do Golden Melody, transformando o título de campeã de concurso em tema de criação'
-description: "Em 2008, Lala Hsu pediu demissão do trabalho de enfermeira, inscreveu-se às escondidas da família na terceira edição do 'One Million Star', por pouco não comprou a passagem de volta para Taichung. 'Montando um Cavalo Branco' levou a ópera taiwanesa para o palco do concurso; em 2018, 'The Inner Me' rendeu-lhe o Golden Melody de Melhor Cantora Mandarim e Melhor Álbum Mandarim; até 'Give' e 'Não Estar Juntos Significa Não Separar', ela foi transformando a vida que era avaliada, aos poucos, no seu próprio tema."
+title: 'LaLa Hsu: de enfermeira a rainha do Golden Melody, quem transformou o título de campeã de programa de talentos em tema de criação'
+description: 'Cantora-compositora que se transformou a partir de enfermeira, em 2008 pediu demissão do hospital, inscreveu-se às escondidas da família na terceira temporada do Super Star, quase comprou passagem de volta para Taichung durante a audição, mas acabou vencendo o campeonato. Riding a White Horse trouxe o estilo de canto de ópera taiwanesa para o palco do programa de talentos; em 2018, com The Inner Me, ganhou o Golden Melody de Melhor Cantora Mandarim e Melhor Álbum Mandarim; em 2022 e 2023, conquistou novamente Melhor Produtor de Single e Melhor Compositor, transformando lentamente a vida que era avaliada em seus próprios temas.'
 date: 2026-04-26
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '音樂與表演'
 tags:
-  - 'Figuras'
-  - 'Lala Hsu'
-  - 'Lala Hsu'
-  - 'One Million Star'
-  - 'Mandopop'
-  - 'Golden Melody Awards'
-  - 'Montando um Cavalo Branco'
-  - 'Ilha Perdida'
-  - 'The Inner Me'
-  - 'Give'
-  - 'Chen Chien-chi'
-  - 'Chen Jun-hao'
-  - 'Ópera taiwanesa'
+  [
+    'Figuras',
+    'LaLa Hsu',
+    'LaLa Hsu',
+    'Super Star',
+    'Mandopop',
+    'Golden Melody Awards',
+    'Riding a White Horse',
+    'Lost Desert',
+    'The Inner Me',
+    'Give',
+    'Chen Chien-chi',
+    'Chen Jun-hao',
+    'Ópera taiwanesa',
+  ]
+subcategory: '音樂與表演'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
-featured: false
+researchReport: 'reports/research/2026-04/徐佳瑩.md'
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/徐佳瑩.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'fc0798f30d'
 sourceContentHash: 'sha256:f9f02c4b8eb59a3c'
 sourceBodyHash: 'sha256:08e93141b3775e8d'
-translatedAt: '2026-07-25T06:34:18+08:00'
+translatedAt: '2026-11-27T04:51:48.068884+00:00'
 ---
 
 > **Visão geral de 30 segundos:** Lala Hsu é a campeã da terceira edição do _One Million Star_ (2008) e uma das poucas cantoras vindas de concursos de TV em Taiwan a chegar ao núcleo criativo do Golden Melody Awards. Antes de estrear, era enfermeira; 'Montando um Cavalo Branco' transpôs o canto da ópera taiwanesa _Xue Pinggui e Wang Baochuan_ (薛平貴與王寶釧) para o pop mandarim; o álbum de estreia de 2009 levou várias composições próprias da fase do concurso para o mercado fonográfico. Em 2018, _The Inner Me_ valeu-lhe simultaneamente o 29.º Golden Melody de Melhor Cantora Mandarim e Melhor Álbum Mandarim; em 2022, 'Acima de Tudo, Não' ganhou Melhor Produtor de Single; em 2023, 'Não Estar Juntos Significa Não Separar' ganhou Melhor Compositor. Partindo do título de campeã de concurso, ela foi transformando a vida que era avaliada, aos poucos, no seu próprio tema.

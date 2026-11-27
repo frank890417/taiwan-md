@@ -1,6 +1,6 @@
 ---
-title: 'Lian Ying: "O nível de dança que um girl group deve ter" aos seis anos do solo EP'
-description: 'Em 2020, uma garota de 21 anos de Taichung disse a Pan Wei-bo no palco de um reality show: "Quero que todos saibam qual é o nível de dança que um girl group deve ter." Seis anos depois, ela lançou um EP solo, os fãs organizaram um palco de aniversário em Dadaocheng com financiamento coletivo e anúncios de apoio foram veiculados simultaneamente em três países. Ela está cumprindo essa promessa.'
+title: 'Lian Ying: "O nível de dança que um girl group deve ter" ao EP solo — seis anos'
+description: 'Cantora e dançarina originária de um girl group taiwanês, começou a aprender balé, dança folclórica e dança chinesa no segundo ano do ensino fundamental, e no ensino médio mudou para dança de rua. Em 2020, no programa de sobrevivência "DD52", disse ao mentor Will Pan: "Quero que todos saibam o nível de dança que um girl group deve ter". Posteriormente, como integrante da equipe vice-campeã Storm Spades, debutou no HUR+ como dançarina principal. Em 2025, enquanto continuava as atividades em grupo, lançou seu EP solo "EZ", seguindo uma linha de hip-hop e R&B e incorporando elementos em taiwanês, tornando-se a primeira integrante de um girl group taiwanês a atuar simultaneamente em grupo e solo.'
 date: 2026-04-23
 category: 'People'
 tags:
@@ -10,10 +10,10 @@ tags:
     'HUR+',
     'DD52',
     'girl group',
-    'ídolo',
-    'música de Taiwan',
+    'idol',
+    'música taiwanesa',
     'dança',
-    'hip hop',
+    'hip-hop',
     'solo',
   ]
 subcategory: '音樂與表演'
@@ -25,10 +25,10 @@ readingTime: 10
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/連穎.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'c7e3d69aad'
 sourceContentHash: 'sha256:5f1555ccc3c4f606'
 sourceBodyHash: 'sha256:3765efbdda716be7'
-translatedAt: '2026-07-26T11:16:46+08:00'
+translatedAt: '2026-11-27T04:42:26.845533+00:00'
 ---
 
 > **Resumo em 30 segundos:** Lian Ying (Erin), nascida em 1999 em Taichung, começou balé, dança folclórica e dança chinesa no segundo ano do primário, migrou para a dança de rua no ensino médio. Em 2020, participou do _DD52_ e, no palco de batalha do segundo episódio, disse ao mentor Pan Wei-bo: "Quero que todos saibam qual é o nível de dança que um girl group deve ter" — frase que virou sua marca. O grupo Tempestade de Espadas (Storm Spades) estreou como [HUR+](/pt/people/hur-plus-band) com ela como main dancer. Em 2025, lançou o primeiro EP solo _EZ_, trilha hip hop/R&B com elementos de taiwanês, evitando deliberadamente a rota segura da balada. No aniversário de 2026, fãs financiaram coletivamente um palco em Dadaocheng onde ela estreou a nova música "Um Segundo Mais Lenta". Ela lança álbum com o grupo e EP solo em paralelo — em Taiwan, é a primeira integrante de girl group a fazer isso.

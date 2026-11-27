@@ -1,10 +1,10 @@
 ---
-title: 'Chen San-huo: Entregar o vaso quebrado ao destino, deixar o jiannian dos telhados dos templos viver'
-description: 'Após o terremoto de 921 em 2002, o artesão de Madou, Tainan, Chen San-huo recolheu um vaso quebrado no Templo Ciji de Fengyuan, transformando-se de aprendiz de restauração de templos no "artista dos telhados" que cria com cerâmica descartada. Ele não fez o jiannian mais parecido com o original, mas deixou que a quebra, o acaso e os materiais reciclados redesenhassem a tradição.'
+title: 'Chen San-huo: Entregando o vaso quebrado ao destino para preservar a arte de colagem de cerâmica nos telhados dos templos'
+description: "Detentor do título de preservador de uma importante técnica artesanal tradicional nacional. Nascido em Madou, Tainan, em 1949, começou a aprender a arte da colagem de cerâmica (Jiannian) para templos com seu irmão após concluir o ensino fundamental, viajando por toda Taiwan para restaurações de templos. Em 2002, durante a restauração do Templo Ciji em Fengyuan após o terremoto de 921, ele recolheu fragmentos de vasos descartados pelo templo e montou uma estátua de Bodhidharma, desenvolvendo o método de 'substituir a colagem pela composição livre', permitindo que os cacos de porcelana definissem sua própria forma. Em 2020, foi reconhecido pelo Ministério da Cultura como o primeiro preservador da técnica Jiannian e, em 2021, recebeu o Prêmio Nacional de Conquista Artesanal, fundando a 'Família Jiannian' para ensinar discípulos e participar de programas de transmissão cultural em escolas."
 date: 2026-08-19
-subcategory: '藝術與設計'
 category: 'People'
-tags: ['jiannian', 'artesanato tradicional', 'Chen San-huo', 'arte de templos']
+tags: ['Jiannian', 'Artesanato tradicional', 'Chen San-huo', 'Arte de templos']
+subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20
@@ -12,10 +12,10 @@ lastHumanReview: false
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'People/陳三火.md'
-sourceCommitSha: '8cc323782'
+sourceCommitSha: 'c7e3d69aad'
 sourceContentHash: 'sha256:eedc983e2ea9d824'
 sourceBodyHash: 'sha256:7efe5656906a3904'
-translatedAt: '2026-09-12T02:30:18+08:00'
+translatedAt: '2026-11-27T04:47:05.019124+00:00'
 ---
 
 > **Visão geral em 30 segundos:** Chen San-huo era originalmente aprendiz de jiannian que seguia o irmão mais velho pelos templos, dormindo nos canteiros de obra. Em 2002, durante a restauração do Templo Ciji de Fengyuan após o terremoto de 921, ele recolheu um vaso quebrado que havia sido descartado e, por acaso, criou um Bodhidharma. Mais tarde, transformou o "quebrar para depois encontrar a forma" no seu próprio método. Essa virada se assemelha a um paradoxo do artesanato: para preservar o jiannian, não se pode apenas copiar o passado inalterado; às vezes é preciso deixá-lo perder primeiro a sua forma original.

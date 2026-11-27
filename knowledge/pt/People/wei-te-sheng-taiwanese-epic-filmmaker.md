@@ -1,16 +1,16 @@
 ---
-title: 'Wei Te-sheng: Yongkang 1969, de "Cape No. 7" bilheteria recorde à competição principal de Veneza, o diretor épico de Taiwan'
-description: 'Nasceu em 16/8/1969 em Yongkang, Condado de Tainan (hoje Distrito de Yongkang, Tainan). Formado em Engenharia Elétrica no Far East Junior College of Technology. Em 2008, "Cape No. 7" arrecadou 530 milhões (recorde do cinema taiwanês). Em 2011, "Warriors of the Rainbow: Seediq Bale" competiu na mostra principal do 68º Festival de Veneza pelo Leão de Ouro e venceu o 48º Golden Horse de Melhor Filme. Atualmente prepara o projeto épico "Trilogia de Taiwan".'
+title: "Wei Te-sheng: De Yongkang 1969, o diretor de épicos taiwaneses que levou 'Cape No. 7' ao sucesso de bilheteria e a Veneza"
+description: "Diretor de cinema taiwanês, nascido em 1969 em Yongkang, Tainan. Após se formar em Engenharia Elétrica no Far Eastern University of Technology, ingressou na indústria cinematográfica como assistente de direção. Em 2008, seu filme dirigido e financiado por ele mesmo, 'Cape No. 7', arrecadou cerca de NT$ 530 milhões, reacendendo a confiança do público em histórias taiwanesas; em 2011, 'Seediq Bale', baseado no Incidente de Wushe, foi selecionado para a Competição Principal do 68º Festival de Cinema de Veneza e venceu o prêmio de Melhor Filme no 48º Golden Horse Awards. Atualmente, prepara o projeto épico 'Trilogia de Taiwan', com um orçamento total estimado em mais de NT$ 4,5 bilhões."
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Cinema e Teatro',
+    'Cinema e Drama',
     'Diretor',
-    'Cinema de Taiwan',
-    'Cultura Indígena',
+    'Cinema Taiwanês',
+    'Cultura Aborígene',
     'Cape No. 7',
-    'Warriors of the Rainbow: Seediq Bale',
+    'Seediq Bale',
     'Tainan',
   ]
 subcategory: '電影與戲劇'
@@ -20,10 +20,10 @@ lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
 translatedFrom: 'People/魏德聖.md'
-sourceCommitSha: '8f070a887'
+sourceCommitSha: 'c7e3d69aad'
 sourceContentHash: 'sha256:c53d9ecd803bd8cd'
 sourceBodyHash: 'sha256:9fd756dd61905363'
-translatedAt: '2026-07-29T17:42:47+08:00'
+translatedAt: '2026-11-27T05:03:19.769930+00:00'
 ---
 
 # Wei Te-sheng: Yongkang 1969, de "Cape No. 7" bilheteria recorde à competição principal de Veneza, o diretor épico de Taiwan

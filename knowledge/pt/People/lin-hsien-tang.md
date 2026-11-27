@@ -1,15 +1,15 @@
 ---
-title: 'Lin Hsien-tang: transformar um escritório na entrada pública dos taiwaneses'
-description: 'Lin Hsien-tang, nascido em 1881 na família Lin de Wufeng, seguiu o conselho de Liang Qichao para a resistência não armada ao Japão, liderou o movimento de petição pela criação de um parlamento taiwanês e transformou sua viagem ao redor do mundo em uma lição mundial para os taiwaneses. O que este notável local deixou não foi apenas o nome da família, mas um método para conectar educação, cultura e autogoverno.'
+title: 'Lin Hsientang: Transformando um Estudo em uma Porta de Entrada Pública para os Taiwaneses'
+description: 'Líder do movimento antijaponês não armado durante o período de ocupação japonesa, nasceu em 1881 na Família Lin de Wufeng. Após um intercâmbio intelectual com Liang Qichao em Nara, no Japão, em 1907, envolveu-se em movimentos culturais e políticos. A partir de 1921, liderou o Movimento de Petição para a Instituição do Parlamento de Taiwan, apresentando 15 petições ao longo de 14 anos, e foi indicado como presidente da Associação Cultural de Taiwan. Em 1927, realizou uma viagem ao redor do mundo que durou 378 dias, passando por 16 países e 60 cidades, transformando suas experiências no exterior em reflexões sobre a autonomia de Taiwan; ele também convocou arrecadações de fundos para estabelecer a Escola Secundária de Taichung, convertendo gradualmente os recursos de sua família em instalações públicas.'
 date: 2026-08-15
 category: 'People'
 tags:
   [
-    'Lin Hsien-tang',
-    'família Lin de Wufeng',
-    'movimento de petição pela criação do parlamento taiwanês',
+    'Lin Hsientang',
+    'Família Lin de Wufeng',
+    'Movimento de Petição para a Instituição do Parlamento de Taiwan',
     'Associação Cultural de Taiwan',
-    'resistência não armada ao Japão',
+    'Resistência antijaponesa não armada',
   ]
 subcategory: '政治與民主'
 author: 'Taiwan.md Contributors'
@@ -19,17 +19,17 @@ lastHumanReview: false
 readingTime: 10
 curation: 'incubating'
 translatedFrom: 'People/林獻堂.md'
-sourceCommitSha: '7fa2d9630'
-sourceContentHash: 'sha256:b3b7816f9ed81e72'
+sourceCommitSha: 'c7e3d69aad'
+sourceContentHash: 'sha256:bbd1e8150a03bde0'
 sourceBodyHash: 'sha256:fd90a845acbf3ca4'
-translatedAt: '2026-09-12T11:18:08+08:00'
+translatedAt: '2026-11-27T04:37:07.091316+00:00'
 ---
 
-> **Visão geral em 30 segundos:** Lin Hsien-tang, nascido em 1881, originário da família Lin de Wufeng, não manteve os recursos da família apenas dentro dela. Em 1907, conheceu Liang Qichao; depois, dedicou-se a movimentos culturais, educacionais e políticos. A partir de 1921, liderou o movimento de petição pela criação de um parlamento taiwanês, apresentando 15 petições ao longo de 14 anos. Em 1927, passou 378 dias visitando 16 países e 60 cidades; o que ele queria ver nunca foi apenas a paisagem estrangeira, mas como os taiwaneses poderiam obter a possibilidade de autogoverno.[^1] [^2] [^3]
+> **Resumo em 30 segundos:** Nascido em 1881, Lin Hsien-tang era originário da família Lin de Wufeng, mas não restringiu os recursos de seu clã apenas ao próprio núcleo familiar. Após encontrar Liang Qichao em 1907, ele se dedicou a movimentos culturais, educacionais e políticos; a partir de 1921, liderou o movimento de petição pela criação do parlamento taiwanês, apresentando 15 petições ao longo de 14 anos. Em 1927, ele viajou por 16 países e 60 cidades durante 378 dias; o que ele sempre buscou ver não eram apenas as paisagens estrangeiras, mas sim como os taiwaneses poderiam alcançar a possibilidade de autonomia. [^1] [^2] [^3]
 
 ![Retrato de Lin Hsien-tang](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/%E8%87%BA%E7%81%A3%E6%96%87%E5%8C%96%E8%88%87%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E9%A0%98%E8%A2%96%E6%9E%97%E7%8D%BB%E5%A0%82_Lin_Hsien-tang%2C_Leader_of_Taiwanese_Culture_and_Democracy_Movement.jpg/500px-%E8%87%BA%E7%81%A3%E6%96%87%E5%8C%96%E8%88%87%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E9%A0%98%E8%A2%96%E6%9E%97%E7%8D%BB%E5%A0%82_Lin_Hsien-tang%2C_Leader_of_Taiwanese_Culture_and_Democracy_Movement.jpg)
 
-_Imagem: Retrato de Lin Hsien-tang; Domínio público, arquivo original e informações de licença em [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E8%87%BA%E7%81%A3%E6%96%87%E5%8C%96%E8%88%87%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E9%A0%98%E8%A2%96%E6%9E%97%E7%8D%BB%E5%A0%82_Lin_Hsien-tang,_Leader_of_Taiwanese_Culture_and_Democracy_Movement.jpg).[^11]_
+_Imagem: Retrato de Lin Hsien-tang; Domínio público, para arquivos originais e informações de licenciamento, consulte o [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E8%87%BA%E7%81%A3%E6%96%87%E5%8C%96%E8%88%87%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E9%A0%98%E8%A2%96%E6%9E%97%E7%8D%BB%E5%A0%82_Lin_Hsien-tang,_Leader_of_Taiwanese_Culture_and_Democracy_Movement.jpg). [^11]_
 
 ## 1907, uma conversa por escrito em Nara
 
@@ -133,34 +133,34 @@ Esse final importa porque impede que Lin Hsien-tang fique reduzido a "pai do par
 
 ## Referências
 
-[^1]: [Presidente participa do "Almoço Comemorativo Cultural do 60º Aniversário do Falecimento do Sr. Lin Hsien-tang"](https://www.president.gov.tw/NEWS/19865) — Comunicado de imprensa da Presidência de 2015, resumo oficial sobre Lin Hsien-tang e Liang Qichao, Associação Cultural de Taiwan, empreendimentos educacionais, movimento de petição pelo parlamento taiwanês e atividades pós-guerra.
+[^1]: [Presidente comparece ao "Almoço do Concerto Comemorativo Cultural do 60º Aniversário do Falecimento do Sr. Lin Hsien-tang"](https://www.president.gov.tw/NEWS/19865) — Comunicado de imprensa oficial da Presidência de 2015, que organiza a narrativa oficial sobre Lin Hsien-tang e Liang Qichao, a Associação Cultural de Taiwan, suas atividades educacionais, o movimento de petição para a criação de um parlamento em Taiwan e suas atividades no pós-guerra.
 
-[^2]: [Exposição especial Sr. Lin Hsien-tang e a família Lin de Wufeng](https://wwwacc.ntl.edu.tw/fp.asp?fpage=cp&xItem=56548&ctNode=1540&mp=5) — Página da exposição da Biblioteca Nacional de Taiwan, fornece resumo curatorial sobre origem familiar, educação particular, negócios da família, atividades políticas, culturais, educacionais e de caridade social de Lin Hsien-tang.
+[^2]: [Exposição Especial: O Sr. Lin Hsien-tang e a Família Lin de Wufeng](https://wwwacc.ntl.edu.tw/fp.asp?fpage=cp&xItem=56548&ctNode=1540&mp=5) — Página da exposição especial da Biblioteca Nacional de Taiwan, fornecendo um resumo curatorial sobre a linhagem familiar, educação privada, negócios familiares, política, cultura, educação e atividades de caridade social de Lin Hsien-tang.
 
-[^3]: [2 de setembro de 1934: Interrupção do movimento de petição pela criação do parlamento taiwanês](https://tncmmm.gov.taipei/Content_List.aspx?n=2A7801BEF42FD19F) — Cronologia do Memorial do Movimento da Nova Cultura de Taiwan da Cidade de Taipé, detalha a escolha de rota, pressões políticas, número de rodadas e reunião de encerramento do movimento de petição de 1921 a 1934.
+[^3]: [2 de setembro de 1934: Interrupção do Movimento de Petição para a Criação de um Parlamento em Taiwan](https://tncmmm.gov.taipei/Content_List.aspx?n=2A7801BEF42FD19F) — Cronologia do Museu Memorial do Movimento de Nova Cultura de Taiwan, na Cidade de Taipei, detalhando as escolhas de estratégia, pressões políticas, frequência e o encerramento das reuniões do movimento de petição entre 1921 e 1934.
 
-[^4]: [Presidente participa do "Almoço Comemorativo Cultural do 60º Aniversário do Falecimento do Sr. Lin Hsien-tang"](https://www.president.gov.tw/NEWS/19865) — Texto integral do discurso oficial, registra as duas influências de Liang Qichao, escala da associação cultural, fundação de escolas, delegação de homenagem pós-guerra e atividades durante o 228.
+[^4]: [Presidente comparece ao "Almoço do Concerto Comemorativo Cultural do 60º Aniversário do Falecimento do Sr. Lin Hsien-tang"](https://www.president.gov.tw/NEWS/19865) — Transcrição completa do discurso oficial, registrando as duas vezes em que Liang Qichao influenciou Lin Hsien-tang, a escala da Associação Cultural, a fundação de escolas, o grupo de homenagem no pós-guerra e as atividades durante o Incidente 228.
 
-[^5]: [Taiwan in Time: A political activist's journey to the West](https://www.taipeitimes.com/News/feat/archives/2018/12/09/2003705767) — Reportagem histórica em inglês do _Taipei Times_, baseada em diário, relato de viagem e pesquisas, resume a viagem de 378 dias de Lin Hsien-tang em 1927-1928 e suas observações políticas.
+[^5]: [Taiwan in Time: A political activist’s journey to the West](https://www.taipeitimes.com/News/feat/archives/2018/12/09/2003705767) — Série histórica especial em inglês do Taipei Times, organizando a viagem de volta ao mundo de 378 dias de Lin Hsien-tang entre 1927 e 1928, baseada em seus diários, relatos de viagem e pesquisas.
 
-[^6]: [Lin Hsien-tang and resistance and adaptation in 20th century Taiwan](https://figshare.utas.edu.au/articles/thesis/Lin_Hsien-tang_and_resistance_and_adaptation_in_20th_century_Taiwan/23252669) — Resumo de tese de doutorado pública da Universidade da Tasmânia, analisa a mudança histórica de Taiwan a partir da experiência de vida de Lin Hsien-tang atravessando Qing, domínio japonês e governo nacionalista.
+[^6]: [Lin Hsien-tang and resistance and adaptation in 20th century Taiwan](https://figshare.utas.edu.au/articles/thesis/Lin_Hsien-tang_and_resistance_and_adaptation_in_20th_century_Taiwan/23252669) — Resumo de tese de doutorado pública da Universidade da Tasmânia, Austrália, que analisa as mudanças históricas de Taiwan através das experiências de vida de Lin Hsien-tang sob os governos da Dinastia Qing, do Japão e do Governo Nacionalista.
 
-[^7]: [Narrativa, recriação, iluminação — O significado cultural do diário de 1927 e do _Relato de Viagem ao Redor do Mundo_ de Lin Hsien-tang](https://scholar.lib.ntnu.edu.tw/zh/publications/%E6%95%98%E4%BA%8B%E5%86%8D%E7%8F%BE%E5%95%9F%E8%92%99%E6%9E%97%E7%8D%BB%E5%A0%82%E4%B8%80%E4%B9%9D%E4%BA%8C%E4%B8%83%E5%B9%B4%E6%97%A5%E8%A8%98%E5%8F%8A%E7%92%B0%E7%90%83%E9%81%8A%E8%A8%98%E7%9A%84%E6%96%87%E5%8C%96%E6%84%8F%E7%BE%A9/) — Página de produção acadêmica da Universidade Normal Nacional de Taiwan, fornece resumo da pesquisa sobre auto-narrativa, memória mundial e iluminação cultural no diário e no relato de viagem de Lin Hsien-tang.
+[^7]: [Narrativa, Representação e Iluminismo — O significado cultural do diário de 1927 de Lin Hsien-tang e de "Relatos de Viagem pelo Mundo"](https://scholar.lib.ntnu.edu.tw/zh/publications/%E6%95%98%E4%BA%8B%E5%86%8D%E7%8F%BE%E5%95%9F%E8%92%99%E6%9E%97%E7%8D%BB%E5%A0%82%E4%B8%80%E4%B9%9D%E4%BA%8C%E4%B8%83%E5%B9%B4%E6%97%A5%E8%A8%98%E5%8F%8A%E7%92%B0%E7%90%83%E9%81%8A%E8%A8%98%E7%9A%84%E6%96%87%E5%8C%96%E6%84%8F%E7%BE%A9/) — Página de resultados acadêmicos da Universidade Nacional de Taiwan Normal, fornecendo um resumo da pesquisa sobre o diário de Lin Hsien-tang e seu livro de viagens no que diz respeito à narrativa do eu, memória mundial e iluminação cultural.
 
-[^8]: [Narrativa, recriação, iluminação — O significado cultural do diário de 1927 e do _Relato de Viagem ao Redor do Mundo_ de Lin Hsien-tang](https://www.airitilibrary.com/Article/Detail/16081692-200812-201206060006-201206060006-65-91) — Página de detalhes do artigo da _Revista de Literatura de Taiwan_ nº 13, fornece título, autor, páginas da revista e contexto acadêmico da escrita de viagem de Lin Hsien-tang.
+[^8]: [Narrativa, Representação e Iluminismo — O significado cultural do diário de 1927 de Lin Hsien-tang e de "Relatos de Viagem pelo Mundo"](https://www.airitilibrary.com/Article/Detail/16081692-200812-201206060006-201206060006-65-91) — Página de detalhes do artigo da 13ª edição do Journal of Taiwan Literature, fornecendo o título da pesquisa, autor, paginação do periódico e o contexto acadêmico dos escritos de viagem de Lin Hsien-tang.
 
-[^9]: [Lin Hsien-Tang's Taiwanese Home Rule Movement as Inspired by the Irish Model](https://eprints.lse.ac.uk/124781/2/14816169_Taiwan_Culture_Research_Programme_Taiwan_in_Comparative_Perspective_vol_4.pdf) — Publicação de pesquisa da London School of Economics, compara a experiência de autogoverno irlandesa com o movimento de autogoverno taiwanês de Lin Hsien-tang, complementando perspectiva acadêmica em inglês e fundo de pensamento político.
+[^9]: [Lin Hsien-Tang’s Taiwanese Home Rule Movement as Inspired by the Irish Model](https://eprints.lse.ac.uk/124781/2/14816169_Taiwan_Culture_Research_Programme_Taiwan_in_Comparative_Perspective_vol_4.pdf) — Publicação de pesquisa da London School of Economics, comparando o movimento de autogoverno de Taiwan de Lin Hsien-tang com a experiência de autonomia da Irlanda, complementando a perspectiva acadêmica em inglês e o contexto do pensamento político.
 
-[^10]: [Movimento de petição pela criação do parlamento taiwanês 1921-1934](https://daap.ly.gov.tw/tw/daap/125-3993.html) — Página de pequena história do Parque da Democracia Parlamentar do Yuan Legislativo, resume líderes principais, dissolução do Partido Popular de Taiwan e contexto de história institucional do encerramento em 1934.
+[^10]: [Movimento de Petição para a Criação de um Parlamento em Taiwan (1921-1934)](https://daap.ly.gov.tw/tw/daap/125-3993.html) — Página de histórias históricas do Parque de Gestão Democrática do Legislativo, organizando os principais líderes do movimento de petição, o contexto da história institucional sobre a dissolução do Partido do Povo de Taiwan e a interrupção do movimento em 1934.
 
-[^11]: [File: Líder da cultura e movimento democrático de Taiwan Lin Hsien-tang](https://commons.wikimedia.org/wiki/File:%E8%87%BA%E7%81%A3%E6%96%87%E5%8C%96%E8%88%87%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E9%A0%98%E8%A2%96%E6%9E%97%E7%8D%BB%E5%A0%82_Lin_Hsien-tang,_Leader_of_Taiwanese_Culture_and_Democracy_Movement.jpg) — Página de arquivo do Wikimedia Commons; conforme indicado na página, Domínio público, fonte da imagem indicada como Museu de Artefatos de Lin Hsien-tang.
+[^11]: [Arquivo: Lin Hsien-tang, líder dos movimentos culturais e democráticos de Taiwan](https://commons.wikimedia.org/wiki/File:%E8%87%BA%E7%81%A3%E6%96%87%E5%8C%96%E8%88%87%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E9%A0%98%E8%A2%96%E6%9E%97%E7%8D%BB%E5%A0%82_Lin_Hsien-tang,_Leader_of_Taiwanese_Culture_and_Democracy_Movement.jpg) — Página de arquivo do Wikimedia Commons; indicado como domínio público na página, com a fonte da imagem atribuída ao Museu de Relíquias de Lin Hsien-tang.
 
-[^12]: [File: Diary of Lin Hsien-tang 1933-07-28](https://commons.wikimedia.org/wiki/File:Diary_of_Lin_Hsien-tang_1933-07-28.jpg) — Página de arquivo do Wikimedia Commons; _Diário do Sr. Kuan-yuan_ de 28 de julho de 1933, conforme indicado na página, Domínio público.
+[^12]: [File:Diary of Lin Hsien-tang 1933-07-28](https://commons.wikimedia.org/wiki/File:Diary_of_Lin_Hsien-tang_1933-07-28.jpg) — Página de arquivo do Wikimedia Commons; "Diário de Guanyuan" de 28 de julho de 1933, indicado como domínio público na página.
 
-[^13]: [File: Lin Panlong, Lin Hsien-tang, and Lin Youlong, at London](https://commons.wikimedia.org/wiki/File:Lin_Panlong,_Lin_Hsien-tang,_and_Lin_Youlong,_at_London.jpg) — Página de arquivo do Wikimedia Commons; foto conjunta em Londres, 1927, conforme indicado na página, Domínio público.
+[^13]: [File:Lin Panlong, Lin Hsien-tang, and Lin Youlong, at London](https://commons.wikimedia.org/wiki/File:Lin_Panlong,_Lin_Hsien-tang,_and_Lin_Youlong,_at_London.jpg) — Página de arquivo do Wikimedia Commons; fotografia em grupo em Londres em 1927, indicada como domínio público na página.
 
-[^14]: [File: Residência da família Lin de Wufeng](https://commons.wikimedia.org/wiki/File:%E9%9C%A7%E5%B3%B0%E6%9E%97%E5%AE%B6_The_Lin_Family_House_at_Wufeng_-_panoramio.jpg) — Página de arquivo do Wikimedia Commons; foto de lienyuan lee, conforme indicado na página, Creative Commons Attribution 3.0 Unported (CC BY 3.0).
+[^14]: [File: The Lin Family House at Wufeng](https://commons.wikimedia.org/wiki/File:%E9%9C%A7%E5%B3%B0%E6%9E%97%E5%AE%B6_The_Lin_Family_House_at_Wufeng_-_panoramio.jpg) — Página de arquivo do Wikimedia Commons; foto por lienyuan lee, indicada como Creative Commons Attribution 3.0 Unported (CC BY 3.0) na página.
 
-[^15]: [Destacando-se — A participação social das mulheres taiwanesas na Associação Yixin de Wufeng](https://ascdc.digitalarchives.tw/subject_1679.html) — Artigo temático do Arquivo Digital da Academia Sinica, registra propósito de fundação, departamentos organizacionais, atividades culturais locais, dirigentes mulheres e trabalho social e de higiene da Yixin.
+[^15]: [Surgindo no Cenário — A participação social das mulheres taiwanesas na Associação Yixin de Wufeng](https://ascdc.digitalarchives.tw/subject_1679.html) — Artigo temático do acervo digital da Academia Sinica, registrando os propósitos de fundação, departamentos organizacionais, atividades culturais locais, quadros femininos e trabalhos de saúde social da Associação Yixin.
 
-[^16]: [Lin Hsien-tang e a educação feminina — tomando a Associação Yixin de Wufeng como exemplo](https://www.ntl.edu.tw/public/Attachment/281415581732.pdf) — Artigo de pesquisa coletado pela Biblioteca Nacional de Taiwan, discute a visão de mulheres de Lin Hsien-tang e sua prática cultural pública a partir da educação feminina e da Yixin de Wufeng.
+[^16]: [Lin Hsien-tang e a educação feminina — O caso da Associação Yixin de Wufeng](https://www.ntl.edu.tw/public/Attachment/281415581732.pdf) — Artigo de pesquisa incluído pela Biblioteca Nacional de Taiwan, discutindo as visões de Lin Hsien-tang sobre as mulheres e suas práticas culturais públicas a partir da educação feminina e da Associação Yixin de Wufeng.

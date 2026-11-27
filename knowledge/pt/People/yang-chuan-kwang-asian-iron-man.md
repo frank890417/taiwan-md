@@ -1,10 +1,17 @@
 ---
-title: 'Yang Chuan-kwang: da aldeia de Taitung, prata em Roma, 9121 pontos recorde mundial do homem de ferro asiático'
-description: 'Nascido em 10 de julho de 1933 na aldeia Amis de Malan, em Taitung, Yang Chuan-kwang foi o primeiro medalhista olímpico de Taiwan. Nos Jogos Olímpicos de Roma de 1960, conquistou a prata no decatlo com 8334 pontos; em 1963, estabeleceu o recorde mundial com 9121 pontos e salto com vara de 4,83 m, forçando a IAAF a rever a tabela de pontuação. Faleceu em 27 de janeiro de 2007 na Califórnia, EUA, vítima de AVC, aos 73 anos. Em abril de 2025, o Ministério da Cultura designou-o tesouro nacional.'
+title: 'Yang Chuan-kwang: O Ásia de Ferro da Tribo de Taitung, Medalha de Prata em Roma e Recordista Mundial com 9121 Pontos'
+description: 'O primeiro medalhista olímpico de Taiwan. Nascido em 1933 na tribo Amis de Malan, em Taitung, estudou no Colégio Normal de Taitung e na Faculdade Normal de Taiwan, partindo para os EUA em 1957 para treinar na UCLA. Nas Olimpíadas de Roma em 1960, conquistou a medalha de prata no decatlo com 8334 pontos, ficando apenas 58 pontos atrás do ouro de Rafer Johnson; em 1963, estabeleceu um novo recorde mundial com 9121 pontos, e seu salto com vara de 4,83 metros forçou a IAAF a revisar os padrões de pontuação. Após a aposentadoria, retornou a Taiwan para se dedicar à educação esportiva. Faleceu em 2007 na Califórnia, EUA, devido a um derrame, aos 73 anos; em 2025, o Ministério da Cultura designou sua medalha de prata de Roma como o primeiro tesouro nacional de categoria esportiva de Taiwan.'
 date: 2026-03-19
 category: 'People'
 tags:
-  ['Esportes', 'Atletismo', 'Olimpíadas', 'Decatlo', 'Povos Indígenas', 'Amis']
+  [
+    'Esportes',
+    'Atletismo',
+    'Olimpíadas',
+    'Decatlo',
+    'Povos Indígenas',
+    'Povo Amis',
+  ]
 subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
@@ -12,10 +19,10 @@ lastVerified: 2026-09-05
 lastHumanReview: true
 readingTime: 7
 translatedFrom: 'People/楊傳廣.md'
-sourceCommitSha: '8d0c4a70d'
+sourceCommitSha: 'fc0798f30d'
 sourceContentHash: 'sha256:3f102f565e503ad8'
 sourceBodyHash: 'sha256:b14c332dbd93a4eb'
-translatedAt: '2026-09-07T21:38:31.013875+00:00'
+translatedAt: '2026-11-27T04:56:18.607841+00:00'
 ---
 
 # Yang Chuan-kwang: da aldeia de Taitung, prata em Roma, 9121 pontos recorde mundial do homem de ferro asiático

@@ -1,30 +1,33 @@
 ---
-title: 'VH (Vast & Hazy): A calibração de direção de quinze anos da "banda de escape"'
-description: 'Formados no Prémio Golden Melody de Tamkang em 2011, entraram em hiato em 2014, regressaram como duo em 2017, com três nomeações para Melhor Grupo Vocal nos Golden Melody Awards. Na era em que o circuito independente de Taiwan se habituou ao ruído, os Vast & Hazy escolheram ser o refúgio da ansiedade sem nome — os fãs batizaram-nos espontaneamente de "banda de escape". Em 2026, Yi Chi anuncia a transição para os bastidores, e Kaka leva este nome adiante.'
+title: 'VH (Vast & Hazy): O ajuste de direção de quinze anos da "banda de escape"'
+description: 'Duo independente taiwanês formado em 2011 no Tan Chiang Golden Music Awards, composto por KaKa e Yi Qi. Após um hiato em 2014, retornaram como uma dupla em 2017 e foram indicados três vezes ao Golden Melody Awards na categoria de Melhor Grupo Vocal. Com vozes suaves que carregam ansiedade e desorientação, eles evitam definições rígidas nas letras, permitindo que cada canção seja um receptáculo de emoções — o que levou os fãs a apelidá-los espontaneamente de "banda de escape". Em 2026, Yi Qi anunciou sua transição para os bastidores, levando a banda a uma nova fase centrada em KaKa e focada no contínuo ajuste de sua direção musical.'
 date: 2026-04-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '音樂與表演'
 tags:
-  - 'VH'
-  - 'Vast & Hazy'
-  - 'Música independente'
-  - 'Kaka'
-  - 'Yen Ching-hsuan'
-  - 'Yi Chi'
-  - 'Lin Yi-chi'
-  - 'Golden Melody Awards'
-  - 'Banda de escape'
-  - 'Rock emocional'
-readingTime: 12
+  [
+    'VH',
+    'Vast & Hazy',
+    'música independente',
+    'KaKa',
+    'Yan Jingxuan',
+    'Yi Qi',
+    'Lin Yi Qi',
+    'Golden Melody Awards',
+    'banda de escape',
+    'emo rock',
+  ]
+subcategory: '音樂與表演'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-19
 lastHumanReview: true
-featured: false
+researchReport: 'reports/research/2026-04/VH.md'
+readingTime: 12
 translatedFrom: 'People/VH.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'fd2854dbad'
 sourceContentHash: 'sha256:12627c86b39f3cf2'
 sourceBodyHash: 'sha256:cac852a1ab84bcac'
-translatedAt: '2026-07-25T05:00:10+08:00'
+translatedAt: '2026-11-27T05:08:59.917543+00:00'
 ---
 
 > **Visão geral em 30 segundos:** VH (Vast & Hazy) é um duo independente de Taiwan, formado por Kaka (Yen Ching-hsuan) e Yi Chi (Lin Yi-chi) a partir do Prémio Golden Melody de Tamkang em 2011, com três nomeações para Melhor Grupo Vocal nos Golden Melody Awards (2019, 2022, 2025). Com uma filosofia criativa que embrulha observações da natureza humana em vozes suaves, emergiram contra a corrente no circuito independente dos anos 2010, dominado pelo rock político, e os fãs batizaram-nos espontaneamente de "banda de escape". Após o espetáculo anual 《邁行》 em abril de 2026, Yi Chi anunciou a transição para um papel nos bastidores, e a banda entra numa nova fase centrada em Kaka.
