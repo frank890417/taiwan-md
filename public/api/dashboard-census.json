@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-27",
+  "generated": "2026-11-28",
   "generator": "scripts/tools/article-census.py",
-  "head": "25fb1a56a",
+  "head": "b81b5616f",
   "scope": "knowledge/{Category}/*.md（中文 SSOT；不含 knowledge/{lang}/ 譯文與 _ hub）",
   "n": 1192,
   "thresholds": {
@@ -24,8 +24,8 @@
   "traffic_sources": {
     "ga": {
       "file": "public/api/dashboard-analytics.json:ga.topArticles7d",
-      "start": "2026-10-30",
-      "end": "2026-11-27",
+      "start": "2026-10-31",
+      "end": "2026-11-28",
       "days": 28,
       "rows": 20,
       "metric": "views",
@@ -80,7 +80,7 @@
         "p75": 6082,
         "p90": 7355,
         "n": 408,
-        "mean": 4791.0
+        "mean": 4791.2
       },
       "fn_defs": {
         "p5": 5,
@@ -145,28 +145,28 @@
       }
     },
     "recent_45d": {
-      "n": 64,
+      "n": 62,
       "cjk": {
         "p5": 999,
         "p10": 1091,
-        "p25": 1297,
-        "p33": 1499,
-        "p50": 1832,
-        "p75": 2392,
+        "p25": 1288,
+        "p33": 1486,
+        "p50": 1816,
+        "p75": 2414,
         "p90": 3140,
-        "n": 64,
-        "mean": 2315.0
+        "n": 62,
+        "mean": 2328.9
       },
       "fn_defs": {
         "p5": 1,
         "p10": 1,
-        "p25": 2,
+        "p25": 1,
         "p33": 2,
         "p50": 3,
-        "p75": 9,
+        "p75": 10,
         "p90": 21,
-        "n": 64,
-        "mean": 11.7
+        "n": 62,
+        "mean": 11.9
       }
     }
   },
@@ -285,17 +285,6 @@
         "cover": "none",
         "cjk": 1322,
         "fn": 5
-      },
-      {
-        "path": "knowledge/Culture/菜市場名.md",
-        "title": "菜市場名",
-        "category": "Culture",
-        "curation": "incubating",
-        "curationReason": "thin",
-        "reason": "3 軸弱：字數 1261、零媒體、段落 17 段／中位 52 字",
-        "cover": "none",
-        "cjk": 1261,
-        "fn": 8
       },
       {
         "path": "knowledge/Art/EEWH綠建築標章.md",
@@ -571,6 +560,17 @@
         "cover": "none",
         "cjk": 1535,
         "fn": 2
+      },
+      {
+        "path": "knowledge/Culture/菜市場名.md",
+        "title": "菜市場名",
+        "category": "Culture",
+        "curation": "incubating",
+        "curationReason": "thin",
+        "reason": "3 軸弱：字數 1261、零媒體、段落 17 段／中位 52 字",
+        "cover": "none",
+        "cjk": 1261,
+        "fn": 8
       },
       {
         "path": "knowledge/Culture/語言多樣性與母語文化.md",
@@ -2962,13 +2962,12 @@
     ]
   },
   "tier_C_paths": [
+    "knowledge/People/張峻.md",
     "knowledge/Geography/彰化縣.md",
     "knowledge/History/1935新竹臺中地震.md",
-    "knowledge/People/張峻.md",
     "knowledge/People/李宗盛.md",
     "knowledge/Politics/歡樂無法黨.md",
     "knowledge/Society/電網韌性.md",
-    "knowledge/People/吳季剛.md",
     "knowledge/Art/歌仔戲.md",
     "knowledge/Art/總統府.md",
     "knowledge/Culture/原住民織布.md",
@@ -3064,6 +3063,7 @@
     "knowledge/People/八炯.md",
     "knowledge/People/六指淵.md",
     "knowledge/People/千千進食中.md",
+    "knowledge/People/吳季剛.md",
     "knowledge/People/啾啾鞋.md",
     "knowledge/People/囧星人.md",
     "knowledge/People/廖添丁.md",
@@ -3102,16 +3102,16 @@
     "knowledge/Technology/地震預警系統.md",
     "knowledge/Technology/報禁解除.md",
     "knowledge/Society/台灣的道德課去哪了.md",
-    "knowledge/Technology/數位身分證與數位政府.md",
     "knowledge/Society/太陽花學運.md",
+    "knowledge/Technology/數位身分證與數位政府.md",
     "knowledge/People/徐巧芯.md",
     "knowledge/People/三毛.md",
     "knowledge/People/陳樹菊.md",
-    "knowledge/People/凹與山.md",
     "knowledge/People/魏哲家.md",
-    "knowledge/Nature/Palakaw.md",
+    "knowledge/People/凹與山.md",
+    "knowledge/People/陳映真.md",
+    "knowledge/People/傅崐萁.md",
     "knowledge/Lifestyle/夜生活與KTV文化.md",
-    "knowledge/Culture/菜市場名.md",
     "knowledge/About/台灣官方網站資源.md",
     "knowledge/About/台灣官方網站資源重寫.md",
     "knowledge/About/文章如何誕生.md",
@@ -3220,6 +3220,7 @@
     "knowledge/Culture/神豬.md",
     "knowledge/Culture/紙傘.md",
     "knowledge/Culture/茄芷袋.md",
+    "knowledge/Culture/菜市場名.md",
     "knowledge/Culture/語言多樣性與母語文化.md",
     "knowledge/Culture/誠品書店.md",
     "knowledge/Culture/農曆七月.md",
@@ -3503,6 +3504,7 @@
     "knowledge/Music/茄子蛋.md",
     "knowledge/Music/農村武裝青年.md",
     "knowledge/Music/陳嫺靜.md",
+    "knowledge/Nature/Palakaw.md",
     "knowledge/Nature/台灣原住民生態智慧與環境保育.md",
     "knowledge/Nature/台灣國家公園.md",
     "knowledge/Nature/台灣山岳與登山文化.md",
@@ -3542,7 +3544,6 @@
     "knowledge/People/何飛鵬.md",
     "knowledge/People/侯孝賢.md",
     "knowledge/People/傅兆玄.md",
-    "knowledge/People/傅崐萁.md",
     "knowledge/People/八田與一.md",
     "knowledge/People/劉安婷.md",
     "knowledge/People/劉德音.md",
@@ -3712,7 +3713,6 @@
     "knowledge/People/陳建仁.md",
     "knowledge/People/陳建騏.md",
     "knowledge/People/陳昇.md",
-    "knowledge/People/陳映真.md",
     "knowledge/People/陳水扁.md",
     "knowledge/People/陳澄波.md",
     "knowledge/People/陳玉勳.md",

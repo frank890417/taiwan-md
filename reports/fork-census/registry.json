@@ -2,16 +2,16 @@
   "_meta": {
     "created": "2026-06-25",
     "ga_id": "G-JGC5W00N7T",
-    "last_census": "2026-11-26",
+    "last_census": "2026-11-27",
     "note": "子代名冊 SSOT。GA-derived 欄位(ga/title_ga/last_seen/hostnames/title_brands)由 fork-census.py 每次跑自動更新;investigation-derived 欄位(github/credits/type/cognitive_layer/health/notes)sticky,只有人/agent 填,probe 永不覆寫。每個 entry 同時帶 hostnames + title_brands,讓 probe 下次跑能把同一 fork 的多個指紋 re-consolidate 而非 re-split。",
     "ga_window": "365daysAgo",
     "self_traffic": {
-      "views": 1042606,
-      "users": 717291
+      "views": 1051861,
+      "users": 726154
     },
     "dev_noise": {
-      "views": 12813,
-      "users": 188
+      "views": 13832,
+      "users": 706
     },
     "verified_by": "background agent 2026-06-25 (VERIFIED/INFERRED 標記),GA data 主 session 驗",
     "ephemeral_tail_note": "見 forks[] 末尾 id='(ephemeral-experiments)' — demo/在地化測試品牌,低信心,部署短暫"
@@ -36,8 +36,8 @@
       "notes": "auto-detected via GA leak — needs investigation",
       "ga": {
         "window": "365daysAgo",
-        "views": 4486,
-        "users": 10719
+        "views": 4509,
+        "users": 10750
       },
       "title_ga": {
         "window": "365daysAgo",
@@ -165,8 +165,8 @@
       "notes": "auto-detected via GA leak — needs investigation",
       "ga": {
         "window": "365daysAgo",
-        "views": 235,
-        "users": 177
+        "views": 236,
+        "users": 178
       },
       "title_ga": {
         "window": "365daysAgo",
@@ -200,8 +200,8 @@
       },
       "title_ga": {
         "window": "365daysAgo",
-        "views": 231,
-        "users": 174
+        "views": 232,
+        "users": 175
       },
       "last_seen": "2026-11",
       "first_seen": "2026-07"

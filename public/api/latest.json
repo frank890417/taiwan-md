@@ -1,8 +1,242 @@
 {
-  "_generated": "2026-11-26T22:05:50.108Z",
+  "_generated": "2026-11-27T22:06:47.444Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
+      {
+        "title": "嘉義市：被皇帝賜名嘉義，卻成了最容易被略過的省轄市",
+        "desc": "清乾隆 52 年詔書下「諸羅」改名「嘉義」，全台唯一一座皇帝親賜名字的城。1908 年日本人在這座城西南 3.3 公里的稻田裡，立下全球第一座北回歸線標塔。1931 年嘉義農林的三族雜牌軍打進甲子園準優勝。1947 年 3 月 25 日，畫家陳澄波被綁在火車站前槍決，遺體在街上放了三天。今天嘉義市 26 萬人、60 平方公里，沒有高鐵站、被嘉義縣完整包圍，是台灣中型城市的標本。",
+        "category": "geography",
+        "href": "/geography/%E5%98%89%E7%BE%A9%E5%B8%82",
+        "date": "2026-11-28T00:49:57+08:00",
+        "readingTime": 16,
+        "image": "/article-images/geography/chiayi-city-hero.webp"
+      },
+      {
+        "title": "盧彥勳：溫布頓八強到五屆奧運，台灣網球走最遠的人",
+        "desc": "台灣男子網球史上最傑出的選手，1983年生，6歲開始打球，17歲決定全職投入。2010年溫布頓從資格賽挺進主賽，第四輪三比二擊敗第7種子羅迪克，成為台灣第一位闖進大滿貫男單八強的選手，他說第一次踏上那片草地是替爸爸來的。從2004年雅典到2021年東京連續五屆出征奧運，退役後在長榮大學成立國際網球學院，讓下一個台灣人走他走過的路時已經有一張地圖。",
+        "category": "people",
+        "href": "/people/%E7%9B%A7%E5%BD%A5%E5%8B%B3",
+        "date": "2026-11-27T08:44:03+08:00",
+        "readingTime": 7,
+        "image": ""
+      },
+      {
+        "title": "莫那能：兩種盲，一本詩集",
+        "desc": "排灣族詩人，1956年生於台東達仁鄉阿魯威部落，是台灣第一位出版漢語現代詩集的原住民詩人。1979年貨運行車禍腦震盪後全盲，詩最早於1984年在飲酒吟唱中口傳、由李疾筆錄刊出。1989年晨星出版《美麗的稻穗》，陳映真作序稱他「台灣內部的殖民地詩人」。他拄著拐杖走過救援雛妓與還我土地的街頭，讀他的詩有兩種困難：物理上他看不見，政治上許多讀者也不願意看見。",
+        "category": "people",
+        "href": "/people/%E8%8E%AB%E9%82%A3%E8%83%BD",
+        "date": "2026-11-27T08:44:03+08:00",
+        "readingTime": null,
+        "image": "/article-images/people/monaneng-daren-township-2011.webp"
+      },
+      {
+        "title": "蔡瑞月：從綠島牢房到一座燒不掉的舞蹈社",
+        "desc": "臺南出生的現代舞者，16歲赴日學舞，1946年返臺時在船上編出《印度之歌》。1949年因丈夫雷石榆遭政治迫害被牽連入獄，送往綠島三年；1953年出獄後重新教舞，舞蹈社落腳中山北路二段的日式宿舍，全盛時期學生三四百人。1994年因捷運工程面臨拆除，靠文化界搶救留下，1999年指定為市定古蹟後卻遭火災焚毀，她站在焦黑建物前說：「我好像失去了一個女兒。」",
+        "category": "people",
+        "href": "/people/%E8%94%A1%E7%91%9E%E6%9C%88",
+        "date": "2026-11-27T08:44:03+08:00",
+        "readingTime": 9,
+        "image": ""
+      },
+      {
+        "title": "許淑淨：崙背1991，台灣首位奧運雙金的53公斤舉重選手",
+        "desc": "雲林崙背客家家庭出身的女子舉重選手，沿台灣基層體育體系一關一關靠成績往上走。2012年倫敦奧運53公斤級以總計219kg獲銀牌，因金牌得主藥檢未過，2020年12月才正式遞補為金牌；2016年里約奧運抓舉三把全成功、總計212kg直接奪金，成為台灣首位奧運雙金得主。2018年因膝傷退役後轉任教練，第一面金牌等了八年才到手，是國際體育禁藥問題留給她的特殊位置。",
+        "category": "people",
+        "href": "/people/%E8%A8%B1%E6%B7%91%E6%B7%A8",
+        "date": "2026-11-27T08:44:03+08:00",
+        "readingTime": 7,
+        "image": ""
+      },
+      {
+        "title": "鍾肇政：一個沒有完成大學學位的人，寫完了台灣人的長河",
+        "desc": "桃園龍潭九座寮出生的作家，日治時期受日語教育，1948年進臺大中文系卻因語言隔閡與健康中途離校，從國小教師走成小說家、編輯與客家運動者。他寫出《魯冰花》與《濁流三部曲》《臺灣人三部曲》，把客家庄、原住民族群與二二八放進大河小說，也替鍾理和等作家保存作品、以《文友通訊》串起被主流出版排除的寫作者。他的文學不只在書架上，還留在龍潭的生活園區裡。",
+        "category": "people",
+        "href": "/people/%E9%8D%BE%E8%82%87%E6%94%BF",
+        "date": "2026-11-27T08:44:03+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "嚴長壽：郵件室小弟到觀光教父，然後他把一切都丟了",
+        "desc": "從美國運通郵件室小弟做到亞都麗緻總裁，只有高中學歷的他發明「客人還沒下車就叫出名字」的服務系統，創下65%回客率，寫出暢銷超過60萬本的《總裁獅子心》。62歲從飯店業巔峰辭職赴台東，創辦公益平台文化基金會、接手均一中小學推動偏鄉教育，切除一顆腎後仍深耕花東，78歲再推動江賢二藝術園區在台東金樽海岸開幕。",
+        "category": "people",
+        "href": "/people/%E5%9A%B4%E9%95%B7%E5%A3%BD",
+        "date": "2026-11-26T19:03:58+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "洪倪：從芳苑圖書館到哈哈台街頭，三個名字共用一支筆",
+        "desc": "以「傑尼」在哈哈台做節目企劃、主持街訪向陌生人提問，以「洪倪」把母親、北漂與麵包學徒歲月寫成散文——1996年生於彰化芳苑、世新公廣系畢業、拍過幾年電視節目後轉向網路影像的她，以〈西瓜甜不甜〉獲林榮三文學獎小品文獎，又以醞釀七年的〈麵包超人〉獲散文獎佳作，小學錯字留下的綽號「洪媽倪」也被寫進首部散文集《賣瓜的人》。",
+        "category": "people",
+        "href": "/people/%E6%B4%AA%E5%A9%95%E5%80%AA",
+        "date": "2026-11-26T19:03:58+08:00",
+        "readingTime": 10,
+        "image": "/article-images/people/watermelons-still-life.webp"
+      },
+      {
+        "title": "聖凱師：從蒸蛋短片到冷凍年菜，料理網紅的信任成本",
+        "desc": "從十六歲離校端盤子的餐飲學徒，到憑一支約一百秒蒸蛋短片爆紅的料理網紅，聖凱師先在永和開出十六個座位的錵鑶日本料理，再把家用料理教學、冷凍食品與電商接成同一個品牌。2020年年菜爭議中，消費者反映收到的商品與宣傳影片有落差，他向代工廠提告求償，也讓流量轉成商品之後的信任成本被公開檢驗。",
+        "category": "people",
+        "href": "/people/%E8%81%96%E5%87%B1%E5%B8%AB",
+        "date": "2026-11-26T19:03:58+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "莊朱玉女：從碼頭工人的免費餐桌到賣掉七棟房的十元便當",
+        "desc": "高雄港邊的十元自助餐阿嬤，1951年起在自家倉庫旁架爐灶，為從澎湖來討生活的碼頭工人提供免費餐點，後因開銷改收十元，仍天天供應鮮魚、爌肉、蔬菜與熱湯吃到飽。她賣掉七棟房產支撐這樁賠錢生意，攤位搬到鹽埕公園陸橋旁，2015年以96歲辭世時超過三千人到場送別，故鄉澎湖吉貝島後來為她立像、成立紀念園區。",
+        "category": "people",
+        "href": "/people/%E8%8E%8A%E6%9C%B1%E7%8E%89%E5%A5%B3",
+        "date": "2026-11-26T19:03:58+08:00",
+        "readingTime": 10,
+        "image": ""
+      },
+      {
+        "title": "蕭上農：從遊戲 PM 到 INSIDE 創辦人，台灣網路圈的里長伯",
+        "desc": "從松崗科技的遊戲產品經理到網路觀察家，蕭上農2009年與五位朋友以共筆部落格創辦INSIDE硬塞的網路趨勢觀察，2011年再共同推出台灣最大食譜平台愛料理；兩間公司相隔四年先後賣給關鍵評論網媒體集團，其中INSIDE被記錄為台灣第一起網路媒體正式併購。被網路圈稱作「里長伯」的他，如今主持Podcast「塞掐」，持續為科技圈翻譯趨勢。",
+        "category": "people",
+        "href": "/people/%E8%95%AD%E4%B8%8A%E8%BE%B2",
+        "date": "2026-11-26T19:03:58+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "張惠妹：卑南族歌手，1996《姊妹》到2024大巨蛋五場",
+        "desc": "卑南族歌手，1972 年生於台東卑南鄉大巴六九部落，少年時與家人在餐廳駐唱貼補家計。1996 年由張雨生操刀的首張專輯《姊妹》在台灣賣出 121 萬張、融入卑南族傳統人聲，生涯累計銷量逾 5000 萬張；2000 年因在總統就職典禮演唱國歌遭中國封殺約四年。2015 年「烏托邦」小巨蛋連辦十場，2024 年大巨蛋演唱會連唱五場，並長年公開支持同志平權。",
+        "category": "people",
+        "href": "/people/%E5%BC%B5%E6%83%A0%E5%A6%B9",
+        "date": "2026-11-26T18:38:15+08:00",
+        "readingTime": 7,
+        "image": ""
+      },
+      {
+        "title": "張雨生：從偶像到預言家，一場跨越時代的音樂實驗",
+        "desc": "創作歌手與製作人，父親是天馬藝工隊隊長、母親是泰雅族人。大妹張玉仙 15 歲溺水身亡後，他為完成妹妹的音樂夢走進樂壇，1989 年以《天天想你》賣出 35 萬張成為偶像；1994 年推出 73 分鐘樂團現場錄音專輯《卡拉OK Live‧台北‧我》，銷量慘澹卻自稱「慘的經典」。他製作的《姊妹》《Bad Boy》把張惠妹推上天后之位，1997 年《口是心非》發行四天後在淡水車禍辭世，享年 31 歲，2017 年金曲獎追頒特別貢獻獎。",
+        "category": "people",
+        "href": "/people/%E5%BC%B5%E9%9B%A8%E7%94%9F",
+        "date": "2026-11-26T18:38:15+08:00",
+        "readingTime": 14,
+        "image": ""
+      },
+      {
+        "title": "徐佳瑩：從護理師到金曲歌后，把選秀冠軍寫成創作題的人",
+        "desc": "從護理師轉身的創作歌手，2008 年辭去醫院工作、瞞著家人報名《超級星光大道》第三屆，試鏡時差點買票回台中，最終拿下冠軍。〈身騎白馬〉把歌仔戲唱腔唱進選秀舞台；2018 年以《心裡學》獲金曲獎最佳國語女歌手與最佳國語專輯，2022、2023 年再拿下最佳單曲製作人與最佳作曲人，把被評分的人生慢慢寫成自己的題目。",
+        "category": "people",
+        "href": "/people/%E5%BE%90%E4%BD%B3%E7%91%A9",
+        "date": "2026-11-26T18:38:15+08:00",
+        "readingTime": null,
+        "image": ""
+      },
+      {
+        "title": "楊傳廣：台東部落、羅馬銀牌，9121分世界紀錄的亞洲鐵人",
+        "desc": "台灣第一位奧運獎牌得主，1933 年生於台東馬蘭阿美族部落，就讀台東師專與台灣師範學院，1957 年赴美進入 UCLA 訓練。1960 年羅馬奧運十項全能以 8334 分拿下銀牌，與 Rafer Johnson 的金牌僅差 58 分；1963 年以 9121 分刷新世界紀錄，撐竿跳 4.83 米的成績迫使國際田聯修改計分標準。退役後返台投入體育教育，2007 年在美國加州中風過世，享壽 73 歲；2025 年文化部將羅馬銀牌指定為台灣第一個體育類國寶。",
+        "category": "people",
+        "href": "/people/%E6%A5%8A%E5%82%B3%E5%BB%A3",
+        "date": "2026-11-26T18:38:15+08:00",
+        "readingTime": 7,
+        "image": ""
+      },
+      {
+        "title": "鄭宜農：用最陌生的語言寫最誠實的歌——從 2016 身份公開到 2023 金曲台語雙獎的七年",
+        "desc": "1987 年生於宜蘭的跨領域創作者，父親是導演鄭文堂、母親是曾駐唱的資深音樂人。2007 年以《夏天的尾巴》女主角兼編劇、配樂出道，入圍金馬獎最佳新演員；2011 年首張專輯《海王星》全為國語創作；2016 年在 Facebook 公開出櫃、同月與楊大正離婚；2022 年發行首張全台語專輯《水逆》，2023 年拿下金曲獎最佳台語女歌手與最佳台語專輯雙獎，留下「台語教我低頭」的得獎感言。",
+        "category": "people",
+        "href": "/people/%E9%84%AD%E5%AE%9C%E8%BE%B2",
+        "date": "2026-11-26T18:38:15+08:00",
+        "readingTime": 18,
+        "image": ""
+      },
+      {
+        "title": "VH（Vast & Hazy）：「出口系樂團」的十五年方向校準",
+        "desc": "2011 年在淡江金韶獎成軍的台灣獨立雙人組合，由咖咖與易祺組成，2014 年一度休團，2017 年以雙人型態回歸，三度入圍金曲獎最佳演唱組合。他們以溫柔人聲承載焦慮與迷失，拒絕把歌詞說死，讓每首歌成為情緒容器，被樂迷自發命名為「出口系樂團」。2026 年易祺宣布轉幕後，樂團進入以咖咖為核心、持續校準方向的新階段。",
+        "category": "people",
+        "href": "/people/VH",
+        "date": "2026-11-26T18:05:11+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "啾啾鞋：刪掉最紅的翻譯影片，才開始成為自己的知識創作者",
+        "desc": "中央大學化學系出身的知識型創作者，大學宿舍裡從翻譯外國迷因起步，後來為了以創作者身分站立，刪掉最能帶來流量的翻譯作品，面對長達 20 個月的轉型期。他靠一支談牛排肌紅蛋白的影片走紅，把查資料、寫腳本與自學整理成頻道的工作方法，長期扎根台中，從一個人拍片逐步走向工作室與《啾讀》說書節目。",
+        "category": "people",
+        "href": "/people/%E5%95%BE%E5%95%BE%E9%9E%8B",
+        "date": "2026-11-26T18:05:11+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "白癡公主：從馬賽克到製作人，笑聲不是她的全部",
+        "desc": "臺灣藝術大學廣播電視系出身的配音創作者，從大學配音作業、惡搞配音與馬賽克起步，因版權限制轉向原創節目，一步步走到鏡頭前。她從企劃、拍攝到剪輯一人包辦，後來組建團隊、製作益智節目《多理多知》、在社子島開設咖啡廳並跨足電影演出，始終在「賣傻」與專業之間，尋找讓自己能長期做下去的位置。",
+        "category": "people",
+        "href": "/people/%E7%99%BD%E7%99%A1%E5%85%AC%E4%B8%BB",
+        "date": "2026-11-26T18:05:11+08:00",
+        "readingTime": 15,
+        "image": ""
+      },
+      {
+        "title": "黃氏兄弟：在清新的標籤背後，那場被強制攤開的真實與溫柔",
+        "desc": "由哥哥哲哲與弟弟瑋瑋組成的台灣百萬訂閱組合，2017 年以一支日本超商泡麵影片起步，曾創下 20 個月無休假的紀錄。2020 年弟弟遭媒體強迫出櫃，他在鏡頭前泣不成聲致電母親的影片引發全台聲援，也帶出媒體倫理與數位隱私的討論。此後他們跨足音樂、公益與校園，從整人少年成長為承擔社會責任的創作者。",
+        "category": "people",
+        "href": "/people/%E9%BB%83%E6%B0%8F%E5%85%84%E5%BC%9F",
+        "date": "2026-11-26T18:05:11+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "黑貓老師：從一台過熱的顯示卡，到把流量還給讀者的二十年",
+        "desc": "從 2015 年一次開台失敗的遊戲實況留下的粉絲專頁出發的台灣自媒體創作者，先靠曬貓累積互動，再因二戰與納粹德國懶人包走向歷史說書，出版《歷史，就是戰》。乾眼症讓他離開直播轉向 Podcast，2024 年起以《黑貓創作報》公開流量、平台與變現的經驗，一路追問創作者究竟在服務讀者還是餵養演算法，並把複雜材料講到有人願意聽懂。",
+        "category": "people",
+        "href": "/people/%E9%BB%91%E8%B2%93%E8%80%81%E5%B8%AB",
+        "date": "2026-11-26T18:05:11+08:00",
+        "readingTime": 8,
+        "image": ""
+      },
+      {
+        "title": "林獻堂：把一座書房變成台灣人的公共入口",
+        "desc": "日治時期非武裝抗日運動領袖，1881 年出生於霧峰林家。1907 年在日本奈良與梁啟超筆談後投入文化與政治運動，1921 年起領導台灣議會設置請願運動，14 年間提出 15 回請願，並被推為台灣文化協會總理。1927 年展開 378 天、走過 16 國 60 座城市的環球旅行，把海外見聞轉成對台灣自治的思考；他也號召募款成立台中中學校，把家族資源一步步轉成公共設施。",
+        "category": "people",
+        "href": "/people/%E6%9E%97%E7%8D%BB%E5%A0%82",
+        "date": "2026-11-26T14:25:35+08:00",
+        "readingTime": 10,
+        "image": ""
+      },
+      {
+        "title": "葉國一：士林高商起家，打造半世紀代工帝國",
+        "desc": "士林高商出身的電子代工業創辦人，沒有大學學歷。1975 年在台北士林創立英業達，從電子計算機起步，帶領公司從 OEM 升級為 ODM，歷經 PC 與筆電浪潮後轉向企業級伺服器，成為 Facebook、微軟、Google 雲端資料中心的核心供應商，並率先投入 AI 伺服器。2023 年將董事長職位交棒次子葉力誠，自己退為集團會長，用五十年在代工產業每一個關鍵轉折點上都選對方向。",
+        "category": "people",
+        "href": "/people/%E8%91%89%E5%9C%8B%E4%B8%80",
+        "date": "2026-11-26T14:25:35+08:00",
+        "readingTime": 7,
+        "image": ""
+      },
+      {
+        "title": "連穎：「一個女團該有的舞蹈水平」到 solo EP 的六年",
+        "desc": "台灣女團出身的唱跳歌手，從小學二年級學芭蕾、民俗與中國舞，高中轉向街舞。2020 年在選秀節目《菱格世代 DD52》對導師潘瑋柏說出「我要讓所有人知道，一個女團該有的舞蹈水平」，其後以亞軍隊伍風暴黑桃成員身分組成 HUR+ 出道，擔任主舞者。2025 年在團體持續活動的同時發行個人 EP《EZ》，走嘻哈與 R&B 路線並融入台語元素，成為台灣第一個團體與 solo 並行的女團成員。",
+        "category": "people",
+        "href": "/people/%E9%80%A3%E7%A9%8E",
+        "date": "2026-11-26T14:25:35+08:00",
+        "readingTime": 10,
+        "image": ""
+      },
+      {
+        "title": "陳三火：把破掉的花瓶交給命運，讓廟頂的剪黏活下來",
+        "desc": "國家重要傳統工藝剪黏保存者，1949 年生於台南麻豆，國中畢業後跟隨兄長學習寺廟剪黏，全台跑廟宇修復。2002 年在九二一震後修復豐原慈濟宮時，撿起廟方棄置的碎花瓶拼出一尊達摩，發展出「以摃代剪」的方法，讓破碎瓷片自己決定形狀。2020 年獲文化部認定為剪黏工藝首位保存者，2021 年獲國家工藝成就獎，並成立「剪黏家族」授徒，參與校園傳藝。",
+        "category": "people",
+        "href": "/people/%E9%99%B3%E4%B8%89%E7%81%AB",
+        "date": "2026-11-26T14:25:35+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "魏德聖：永康1969，《海角七號》破億票房到威尼斯主競賽的台灣史詩導演",
+        "desc": "台灣電影導演，1969 年生於台南永康，遠東工專電機科畢業後進入電影圈擔任副導演。2008 年自導自籌的《海角七號》創下約 5.3 億新台幣票房，重新喚起觀眾對台灣故事的信心；2011 年《賽德克·巴萊》以霧社事件為題材，入圍第 68 屆威尼斯影展主競賽單元，並獲第 48 屆金馬獎最佳劇情片。目前籌備整體預算估計超過 45 億新台幣的《台灣三部曲》史詩計畫。",
+        "category": "people",
+        "href": "/people/%E9%AD%8F%E5%BE%B7%E8%81%96",
+        "date": "2026-11-26T14:25:35+08:00",
+        "readingTime": 7,
+        "image": ""
+      },
       {
         "title": "王大閎：把包浩斯精神帶進台灣，用現代建築凝視東方靈魂的建築詩人",
         "desc": "師從包浩斯創辦人葛羅培斯的建築詩人，畢業於劍橋大學與哈佛大學，回台後用一生解答傳統與現代的張力。1965年國父紀念館競圖脫穎而出，在現代結構上加入經嚴格幾何計算的屋檐起翹；1953年親手設計的建國南路自宅，日後於台北市立美術館旁重建。作品遍布外交部辦公大樓與虹廬，晚年更執筆英文科幻小說《幻城》，享嵩壽101歲。",
@@ -38,240 +272,6 @@
         "date": "2026-11-25T19:56:07+08:00",
         "readingTime": 7,
         "image": ""
-      },
-      {
-        "title": "黃春明：羅東1935，《看海的日子》到《兒子的大玩偶》的小人物書寫者",
-        "desc": "深根宜蘭、以底層小人物為創作核心的鄉土文學作家，台北師範學院畢業後長期擔任國小教師，把農村日常化為小說原料。〈看海的日子〉以不判斷的視角寫邊緣女性，〈兒子的大玩偶〉寫扮小丑養家的父親，1983年由侯孝賢搬上銀幕。1977年鄉土文學論戰中他是被重點討論的作家之一，曾獲吳三連文藝獎與國家文藝獎，晚年以黃大魚兒童劇團延續對弱小者的關注。",
-        "category": "people",
-        "href": "/people/%E9%BB%83%E6%98%A5%E6%98%8E",
-        "date": "2026-11-25T19:56:07+08:00",
-        "readingTime": 7,
-        "image": ""
-      },
-      {
-        "title": "史溫侯：當外交官變成博物學家",
-        "desc": "英國外交官與博物學家，19 歲以翻譯官身分首次踏上福爾摩沙，1860 年出任英國駐福爾摩沙首任副領事，1865 年升任領事。他在台約四年間發表 52 篇學術論文，記錄 227 種鳥類、近 40 種哺乳動物與 246 種植物，讓世界第一次認識這座島的生物，被同時代鳥類學家譽為「史上最成功的博物探險家之一」。四種哺乳動物與十五種鳥類以他命名，包括藍腹鷴與斑鱉；1877 年病逝倫敦，年僅 41 歲。",
-        "category": "people",
-        "href": "/people/%E5%8F%B2%E6%BA%AB%E4%BE%AF",
-        "date": "2026-11-25T17:48:39+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "李昂：鹿港1952，《殺夫》打開台灣女性主義文學的開路者",
-        "desc": "台灣女性主義文學作家，1952 年生於彰化鹿港，本名施淑端，中國文化大學哲學系畢業。1983 年《殺夫》在聯合報連載，以家庭暴力題材震撼文壇，被視為台灣女性主義文學先聲；1991 年出版《迷園》，探討傳統文化壓力與女性主體性。2004 年獲法國藝術與文學勳章騎士勳位，作品譯成英、法、德、日等語言，是台灣最受國際關注的女性作家之一。",
-        "category": "people",
-        "href": "/people/%E6%9D%8E%E6%98%82",
-        "date": "2026-11-25T17:48:39+08:00",
-        "readingTime": 7,
-        "image": ""
-      },
-      {
-        "title": "沈聖博",
-        "desc": "台灣數位藝術家與藝術工程師，1980 年生於彰化，主修電腦科學卻轉向科技藝術，主張「程式即生活」，把數位規則與演算法邏輯視為創作核心。他推廣 FLOSS+ART，開設 Processing 課程、架設教學論壇，也是 OpenLab.Taipei 成員，2011 年在台中創辦有為空間，讓實驗有地方發生。2009 年罹患大腸癌後仍持續創作，2014 年病逝，年僅 34 歲，《pin shadow》《texture》等作品至今仍被修復與再展演。",
-        "category": "people",
-        "href": "/people/%E6%B2%88%E8%81%96%E5%8D%9A",
-        "date": "2026-11-25T17:48:39+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "童子賢：台北工專出發，和碩成為蘋果最大代工夥伴",
-        "desc": "台灣電子業企業家，台北工專電子科畢業，並非台大電機出身。1988 年加入華碩電腦，2008 年元旦主導品牌與代工分拆，創立和碩聯合科技，成為蘋果、索尼、任天堂等品牌的代工廠。2019 年入股誠品書店，認為「一個社會需要書店，就像需要醫院一樣」；他也是科技業界對能源政策最公開表態的企業家之一，長期主張「核綠共存」。",
-        "category": "people",
-        "href": "/people/%E7%AB%A5%E5%AD%90%E8%B3%A2",
-        "date": "2026-11-25T17:48:39+08:00",
-        "readingTime": 7,
-        "image": ""
-      },
-      {
-        "title": "蔡黑皮：那個背著捷運站名長大的男孩，把台灣裝進了 26 萬人的訂閱",
-        "desc": "台灣知識型 YouTuber，2002 年出生，高中時因覺得沒人做交通主題而開始拍片，第一支作品是台北捷運冷知識。他一人包辦資料、地圖、腳本與剪輯，以「鐵道吧」系列累積百部交通建設影片。2025 年初停更九個月後於頻道十二週年改名回歸，推出「臺灣三六零」鄉土系列，同年獲第 26 屆金路獎特殊貢獻獎，影片更被收進高中地理教科書。",
-        "category": "people",
-        "href": "/people/%E8%94%A1%E9%BB%91%E7%9A%AE",
-        "date": "2026-11-25T17:48:39+08:00",
-        "readingTime": 13,
-        "image": "/article-images/people/mrt-tamsui-line-train-2017.webp"
-      },
-      {
-        "title": "吳季剛：從芭比衣櫥到教室裡誰可以喜歡什麼",
-        "desc": "台灣出生的服裝設計師，五歲開始替洋娃娃做衣服，九歲隨家人移居加拿大，十八歲出任玩具公司藝術總監，2007 年推出個人成衣系列。2009 年蜜雪兒．歐巴馬在總統就職舞會穿上他的白色禮服，2013 年出任 BOSS 女裝藝術總監；他的童年故事如今走進台灣性別平等課堂，引導孩子思考誰可以喜歡什麼——孩子不必先成功，才有資格自在地喜歡洋娃娃。",
-        "category": "people",
-        "href": "/people/%E5%90%B3%E5%AD%A3%E5%89%9B",
-        "date": "2026-11-25T17:19:00+08:00",
-        "readingTime": 16,
-        "image": ""
-      },
-      {
-        "title": "木曜4超玩：把普通工作的不可見專業拍成網路綜藝",
-        "desc": "從麥卡貝直播摸索起步的網路綜藝，2015 年開播，2016 年找到「一日系列」的節目骨架，2017 年建立 YouTube 頻道。邰智源等人走進台電技術員、路燈維修員與演唱會幕後的現場，剪不斷的鐵線讓被遮住的專業有了輪廓；2018 年〈一日市長幕僚〉四天突破三百萬觀看。它把明星變成學徒，也讓觀眾看見普通工作背後不被注意的專業。",
-        "category": "people",
-        "href": "/people/%E6%9C%A8%E6%9B%9C4%E8%B6%85%E7%8E%A9",
-        "date": "2026-11-25T17:19:00+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "盧廣仲：被公車輾過的三金天王",
-        "desc": "2003 年，台南男孩騎車買宵夜被公車輾斷腿，住院期間自學吉他，從此以一把吉他走進歌壇。2008 年出道、翌年拿下金曲最佳新人，之後八年未入圍，曾從台北徒步走回台南找回自己；2017 年以《花甲男孩轉大人》一鏡到底的祭文戲拿下金鐘雙料，2020 年憑〈刻在我心底的名字〉獲金馬，三十五歲成為台灣最年輕的三金大滿貫得主。",
-        "category": "people",
-        "href": "/people/%E7%9B%A7%E5%BB%A3%E4%BB%B2",
-        "date": "2026-11-25T17:19:00+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "范曉萱：從〈健康歌〉的小魔女到 100% 樂團主唱，拒絕被一個年代定義的三十年",
-        "desc": "從〈健康歌〉紮馬尾的小魔女，到剃平頭宣告做自己音樂的創作歌手。1995 年出道，1999 年《我要我們在一起》拿下金曲獎，2001 年轉走爵士《絕世名伶》，走過近三年的憂鬱低谷，2007 年與三位團員組成 100% 樂團，2010 年以〈主人〉拿下金曲最佳單曲製作人；2025 年發行睽違十六年的新作《過客》。出道三十年，她一次次拒絕被一個年代的模樣定義。",
-        "category": "people",
-        "href": "/people/%E8%8C%83%E6%9B%89%E8%90%B1",
-        "date": "2026-11-25T17:19:00+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "阿滴：從排斥英文的小留學生到台灣YouTube界的「里長伯」",
-        "desc": "從排斥英文的新加坡小留學生，到台灣知識型 YouTuber 代表。他為買一張遊戲王卡鼓起勇氣學英文，2015 年與妹妹滴妹創立英文教學頻道；2020 年發起集資，以近一千九百萬元在《紐約時報》刊登全版廣告，向世界說出「Taiwan Can Help」；2021 年公開罹患憂鬱症的歷程，並創辦台灣新媒體影音創作者協會擔任理事長，被粉絲稱為「YouTube 界里長伯」。",
-        "category": "people",
-        "href": "/people/%E9%98%BF%E6%BB%B4",
-        "date": "2026-11-25T17:19:00+08:00",
-        "readingTime": 9,
-        "image": ""
-      },
-      {
-        "title": "伍佰：六腳鄉蒜頭村出發，台語搖滾三十年不折扣",
-        "desc": "從嘉義縣六腳鄉蒜頭村出發的台語搖滾歌手，一九九二年組成伍佰與 China Blue，一九九五年以挪威的森林確立台語搖滾路線，台語對他不是定位策略，是說話最自然的方式。三十多年來拒絕被市場格式化，二〇一六年的釘子花隔年奪下金曲獎最佳台語專輯，二〇二五年發行純白的起點並展開 ROCK STAR 2 巡演，還在台上唱著同一個語法的歌。",
-        "category": "people",
-        "href": "/people/%E4%BC%8D%E4%BD%B0",
-        "date": "2026-11-25T17:11:18+08:00",
-        "readingTime": 7,
-        "image": ""
-      },
-      {
-        "title": "尊：從國二房間到雙頻道百萬，一位 YouTuber 的成年紀錄",
-        "desc": "從國二開始把遊戲實況上傳到 YouTube 的台灣創作者，十九歲就以一百二十萬訂閱成為當時台灣最年輕的百萬訂閱 YouTuber。橫跨十四個曆年的公開紀錄裡，他從遊戲轉向實驗、開箱與日常，說過訂閱高會有一定的包袱，也走過哥哥小玉的案件風波與口袋奇兵業配失誤，副頻道在二〇二四年底越過百萬，新家影片則把鏡頭移進成年生活。",
-        "category": "people",
-        "href": "/people/%E5%B0%8A",
-        "date": "2026-11-25T17:11:18+08:00",
-        "readingTime": 11,
-        "image": "/article-images/people/zun-new-home-2025.webp"
-      },
-      {
-        "title": "朱天文：1956台北，《三三集刊》到《悲情城市》威尼斯金獅",
-        "desc": "在台北文學世家長大的小說家與電影編劇，父親是小說家朱西甯，一九七七年與胡蘭成等人創辦三三集刊，一九八〇年代起與侯孝賢建立長達四十年的共同作者關係。她編劇的悲情城市以詩意語言處理台灣家族史，一九八九年摘下威尼斯影展金獅獎；一九九四年長篇小說荒人手記獲時報文學獎首獎，文字同時撐起電影與小說兩種形式。",
-        "category": "people",
-        "href": "/people/%E6%9C%B1%E5%A4%A9%E6%96%87",
-        "date": "2026-11-25T17:11:18+08:00",
-        "readingTime": 7,
-        "image": ""
-      },
-      {
-        "title": "謝淑薇：新竹1986，台灣首位大滿貫冠軍與七座女雙金盃",
-        "desc": "出生於新竹、在台汽巴士司機父親全力投入下成長的職業網球選手，二〇一三年與彭帥搭檔拿下溫布頓女雙冠軍，成為台灣史上首位大滿貫冠軍得主，單打排名同年登上世界第二十三。十一年間她與不同搭檔累積七座大滿貫女雙金盃，二〇二一年三十五歲打進澳網單打四強是台灣女性首例，二〇二五年溫布頓再闖女雙決賽收下亞軍。",
-        "category": "people",
-        "href": "/people/%E8%AC%9D%E6%B7%91%E8%96%87",
-        "date": "2026-11-25T17:11:18+08:00",
-        "readingTime": 7,
-        "image": ""
-      },
-      {
-        "title": "阿神：十一年日更之後，「永久停更」為何仍有新片",
-        "desc": "建立頻道十多年、自述十一年間每天日更從未中斷的遊戲實況創作者，二〇二一年停止日更、放下 YouTube 正職改為佛系上傳，二〇二三年又宣告主頻道永久停止更新，只保留直播與和馬田共同製作的搞神馬。三年後主頻道重新出現 Minecraft 合作長片，頻道簡介仍寫著退休我爽才拍片，退休二字撤回的，是觀眾曾握有的固定下集日。",
-        "category": "people",
-        "href": "/people/%E9%98%BF%E7%A5%9E",
-        "date": "2026-11-25T17:11:18+08:00",
-        "readingTime": 18,
-        "image": "/article-images/people/ashan-2026-return-minecraft.webp"
-      },
-      {
-        "title": "廖瓊枝：從「縛戲囝仔」到替歌仔戲留下記憶的方法",
-        "desc": "歌仔戲藝師，生於基隆，十五歲被典押進金山樂社學戲，從「縛戲囝仔」一路唱過內臺、外臺、廣播與電視，被稱為臺灣第一苦旦。後半生她把靠身體記住的劇種拆成唱腔、身段、劇本與教材，成立薪傳歌仔戲劇團與文教基金會，記錄約兩百首重要曲調，讓學生能學、劇本能讀、影像能保存，替歌仔戲留下不必只寄放在老人身上的記憶方法。",
-        "category": "people",
-        "href": "/people/%E5%BB%96%E7%93%8A%E6%9E%9D",
-        "date": "2026-11-25T17:03:34+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "杜潘芳格：三種語言，一場平安戲",
-        "desc": "跨語一代的客家女詩人，日治時期學日文，戰後被迫改寫中文，解嚴前後再把詩寫回客語。母親的姑丈、花蓮醫師張七郎父子於二二八遇害，這段家史成為她政治諷喻詩的倫理底片。一九七七年〈平安戲〉把客家冬季謝神戲台寫成白色恐怖下的求生共犯錄，晚年獲客委會傑出貢獻獎，辭世後家屬捐出三百四十份日、中、客三語手稿。",
-        "category": "people",
-        "href": "/people/%E6%9D%9C%E6%BD%98%E8%8A%B3%E6%A0%BC",
-        "date": "2026-11-25T17:03:34+08:00",
-        "readingTime": null,
-        "image": "/article-images/people/dupan-xinpu-pan-house.webp"
-      },
-      {
-        "title": "白先勇：《台北人》1971，到青春版牡丹亭二十年巡演",
-        "desc": "《台北人》與《孽子》的作者，生於廣西桂林，父親是國民黨將領白崇禧。一九五六年入台大外文系，與王文興、陳若曦等人創辦《現代文學》，把西方現代主義引入台灣文壇。一九七一年出版十四篇短篇小說集《台北人》，一九八三年出版《孽子》。晚年投入崑曲保存，二〇〇三年獲國家文藝獎並啟動青春版《牡丹亭》，二〇〇四年四月台北首演，巡演超過三百場。",
-        "category": "people",
-        "href": "/people/%E7%99%BD%E5%85%88%E5%8B%87",
-        "date": "2026-11-25T17:03:34+08:00",
-        "readingTime": 7,
-        "image": ""
-      },
-      {
-        "title": "許芳宜：宜蘭1971，葛蘭姆舞團首席到2024金馬主視覺舞者",
-        "desc": "台灣現代舞者，生於宜蘭，台北藝術大學舞蹈系畢業後赴美，一九九五年通過試鏡加入瑪莎·葛蘭姆舞蹈團，四年後升任首席，是少數站上國際頂尖現代舞團首席位置的台灣人。二〇〇七年回台創立拉芳，推動舞蹈教育與跨界合作。二〇二〇年紀錄片《我心我行》上映，二〇二四年為金馬影展設計主視覺舞蹈，近年持續公開談身體老化與舞者生涯轉型。",
-        "category": "people",
-        "href": "/people/%E8%A8%B1%E8%8A%B3%E5%AE%9C",
-        "date": "2026-11-25T17:03:34+08:00",
-        "readingTime": 7,
-        "image": ""
-      },
-      {
-        "title": "陳士駿",
-        "desc": "矽谷最著名的台裔創業者之一，八歲移民美國，大學未畢業就加入 PayPal。二〇〇五年與兩位前同事在車庫創辦 YouTube，二十個月後以十六點五億美元賣給 Google。收購後確診腦部動脈瘤，歷經兩次開顱手術與十五次癲癇發作，二〇一九年帶著妻小回台定居，並獲頒台灣第一張就業金卡，此後持續把台灣新創帶到世界舞台前面。",
-        "category": "people",
-        "href": "/people/%E9%99%B3%E5%A3%AB%E9%A7%BF",
-        "date": "2026-11-25T17:03:34+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "明華園：1929台南創立，四代陳家的歌仔戲帝國",
-        "desc": "台南廟埕出發的歌仔戲班，1929年由陳明吉創立，1962年遷至屏東潮州。第二代陳勝福在電視與電影的衝擊下反向操作，堅持現場演出，引進燈光、舞台機關、空中飛人與水幕投影，以《濟公活佛》系列創造萬人劇場規格，1982年首登國父紀念館，1990年進入國家劇院。旗下天、地、玄、黃、日、月、星、辰八個子團由家族四代共同經營，2024年《散戲》第四度巡演，迎接創團95周年。",
-        "category": "people",
-        "href": "/people/%E6%98%8E%E8%8F%AF%E5%9C%92",
-        "date": "2026-11-25T16:57:04+08:00",
-        "readingTime": 7,
-        "image": ""
-      },
-      {
-        "title": "朱經武：1987突破液氮溫度，高溫超導Tc=93K的共同發現者",
-        "desc": "高溫超導領域的共同發現者。湖南出生、台灣長大，成功大學物理系畢業後赴美取得博士學位，1979年起在休士頓大學組建超導研究團隊。1987年1月發現釔鋇銅氧化物，臨界溫度達93K，首次突破液氮溫度門檻，讓高溫超導從頂尖實驗室走向工業可行。2001至2009年出任香港科技大學校長，2026年85歲仍在美國國家科學院院刊發表Tc=151K的新突破，從未離開那條溫度持續上升的曲線。",
-        "category": "people",
-        "href": "/people/%E6%9C%B1%E7%B6%93%E6%AD%A6",
-        "date": "2026-11-25T16:57:04+08:00",
-        "readingTime": 7,
-        "image": ""
-      },
-      {
-        "title": "許文龍：台南1928，奇美實業1959到全球最多提琴的博物館創辦人",
-        "desc": "台灣壓克力之父，1959年以資本200萬元創立奇美實業，63歲時把ABS工程塑膠做到世界第一。他相信企業是追求幸福的手段，1984年便實施週休二日。1990年起收購古董提琴，累計1362把為全球個人收藏之最；2015年奇美博物館在台南都會公園開館，讓任何角落的孩子都能看見頂級的西方藝術。95年人生，在商業與文化各留下一座地標。",
-        "category": "people",
-        "href": "/people/%E8%A8%B1%E6%96%87%E9%BE%8D",
-        "date": "2026-11-25T16:57:04+08:00",
-        "readingTime": 7,
-        "image": ""
-      },
-      {
-        "title": "金城武：從不被認出的「民眾」，到只想被世界遺忘的亞洲洲草",
-        "desc": "橫跨台、日、港影壇的亞洲男神，17歲為了買機車接拍汽水廣告入行，從錄音室裡掃廁所的助理，到王家衛鏡頭裡吃著過期鳳梨罐頭的警察223，再到《鬼武者》首位走進虛擬世界的亞洲巨星。一支長榮航空廣告，讓台東池上的茄苳樹成為國際景點。他卻始終練習「消失」，以隱居與沉默，換取被世界遺忘的自由。",
-        "category": "people",
-        "href": "/people/%E9%87%91%E5%9F%8E%E6%AD%A6",
-        "date": "2026-11-25T16:57:04+08:00",
-        "readingTime": 15,
-        "image": ""
-      },
-      {
-        "title": "阿翰：那個一個人演完整條巷子，又被巷子的人罵回來的花蓮男孩",
-        "desc": "北藝大動畫系畢業的花蓮男孩，2015年起經營「阿翰po影片」，一個人演完整條台灣巷子：算命阿姨廖麗芳、越南媳婦阮月嬌、房東阿姨廖麗珠、自助餐阿姨。代表作九天玄女累積超過1300萬次觀看，2022年登上金鐘獎戲劇類開場；同年的中元節廣告卻因阮月嬌一角遭越裔總會抗議下架。模仿巷子與住在巷子裡，從來不是同一件事。",
-        "category": "people",
-        "href": "/people/%E9%98%BF%E7%BF%B0",
-        "date": "2026-11-25T16:57:04+08:00",
-        "readingTime": 12,
-        "image": ""
       }
     ],
     "en": [
@@ -285,8 +285,8 @@
         "image": ""
       },
       {
-        "title": "Lai He: The \"Mazu of Changhua\" in Local Attire, and His Uncompromising Scales",
-        "desc": "Before New Year's Eve in 1943, the renowned Changhua physician Lai He habitually burned the debt records of his poor patients. Known as the \"Father of Taiwan New Literature,\" he used his scalpel to save lives and his pen as a sword against injustice under colonial rule; his work \"A Pair of Scales\" remains a cultural symbol of Taiwan's resistance against systemic violence.",
+        "title": "Lai He: The \"Changhua Mazu\" in Local Attire, and His Uncompromising Scales",
+        "desc": "The Father of New Taiwanese Literature, who saved lives with a scalpel and criticized injustice with his pen. During the Japanese colonial period, he long stood by the grassroots people dressed in local island attire, earning him the respect of Changhua citizens as the \"Changhua Mazu.\" Every Lunar New Year's Eve, he burned the debt records of poor patients. From writing the first modern poem through the Erlin Cane Farmers Incident to using \"The Scales\" to criticize colonial legal violence and \"Elegy of the Southern Lands\" to mourn the Wushe Incident, he witnessed half a century of colonial suffering. His works remain cultural symbols of Taiwan's resistance against power and violence.",
         "category": "people",
         "href": "/en/people/lai-ho-father-of-taiwanese-literature",
         "date": "2026-11-17T10:27:32+08:00",
@@ -809,8 +809,8 @@
         "image": ""
       },
       {
-        "title": "阿神：十一年日更の後、「永久停更」のはずがなぜ新作があるのか",
-        "desc": "2026年7月、阿神のメインチャンネルには「引退は俺が納得したら動画を出す」と書かれながら、前日に公開されたMinecraftの新作動画が並んでいる。十一年間の日更（毎日投稿）が個人チャンネルを毎日次の回がある番組表に変えていたが、三年前の「永久停更」はなぜ永久的な引退にならなかったのか。",
+        "title": "阿神：11年間の毎日投稿の後、「永久停止更新」なのになぜ新作があるのか",
+        "desc": "チャンネルを開設して10年以上、自ら語るところでは11年間毎日投稿を欠かさなかったゲーム実況クリエイターが、2021年に毎日投稿をやめ、YouTubeを本業から離れて気ままな投稿スタイルに変え、2023年にはメインチャンネルの永久的な更新停止を宣言し、ライブ配信と馬田と共同制作する「搞神馬」のみを残した。3年後、メインチャンネルにMinecraftのコラボ長編動画が再び現れ、チャンネル概要には「退職したから気分で動画を作る」と書かれている。「退職」の二文字を撤回したのは、視聴者がかつて握っていた「決まった次の回」の日常だ。",
         "category": "people",
         "href": "/ja/people/red-shin-minecraft-youtuber",
         "date": "2026-10-10T23:46:16+08:00",
@@ -1200,8 +1200,8 @@
         "image": ""
       },
       {
-        "title": "Mavis Fan: de la pequeña bruja de «Canción de la salud» a vocalista de 100% Band, treinta años negándose a ser definida por una sola época",
-        "desc": "En 1996, a los 19 años, Mavis Fan se convirtió en la pequeña bruja de todo Taiwán gracias a «Canción de la salud». En 1998 se rapó la cabeza y lanzó *Darling* declarando que haría «su propia música»; en 2001 viró al jazz con *Divine Singing Star*; en 2007 formó 100% Band. En 2025, a los 48 años, *Passerby* es el primer álbum nuevo con la banda en 16 años: treinta años desmontando pieza a pieza «el sueño que otros le impusieron».",
+        "title": "Fan Xiaoxuan: De la pequeña bruja de 'Canción de la Salud' a vocalista de 100%, treinta años rechazando ser definida por una época",
+        "desc": "De la pequeña bruja con coleta de 'Canción de la Salud', a la cantautora que se rapó el pelo para anunciar su propia música. Debutó en 1995, ganó el Golden Melody Awards en 1999 con 'Quiero que estemos juntos', y en 2001 se volcó hacia el jazz con 'Diva Incomparable'. Tras atravesar casi tres años de un periodo depresivo, en 2007 formó la banda 100% con tres miembros, y en 2010 ganó el Golden Melody al Mejor Productor de una Canción por 'Dueño'. En 2025 lanza su nuevo trabajo 'Pasajero', tras dieciséis años de espera. Tras treinta años de carrera, ella ha rechazado una y otra vez ser definida por la imagen de una sola época.",
         "category": "people",
         "href": "/es/people/mavis-fan-singer",
         "date": "2026-11-17T10:10:33+08:00",
@@ -1209,8 +1209,8 @@
         "image": ""
       },
       {
-        "title": "Hsiao Shang-nung: de PM de videojuegos a cofundador de INSIDE, el \"jefe de barrio\" del círculo de internet de Taiwán",
-        "desc": "En 2009, seis personas de internet lanzaron un blog colaborativo y así nació INSIDE Hard-Sell Network Trend Watch. Hsiao Shang-nung (fOx) también cofundó iCook; las dos plataformas de internet más conocidas de Taiwán se convirtieron en sus obras —y ambas fueron vendidas a la misma empresa. Ahora sigue como observador diciendo a Taiwán: no se preocupen demasiado por la tecnología.",
+        "title": "Hsiao Shang-nung: De gestor de productos de videojuegos a fundador de INSIDE, el líder comunitario del sector tecnológico taiwanés",
+        "desc": "De ser gestor de productos de videojuegos en Songgang Technology a convertirse en un observador digital, Hsiao Shang-nung fundó en 2009 junto a cinco amigos el blog colaborativo INSIDE para observar las tendencias de internet. En 2011, lanzaron juntos iCook, la plataforma de recetas más grande de Taiwán. Ambas empresas fueron adquiridas cuatro años después por el grupo mediático The News Lens; la adquisición de INSIDE quedó registrada como la primera fusión y adquisición formal de un medio digital en Taiwán. Conocido en el sector como el líder comunitario, actualmente presenta el podcast Se-Cha, traduciendo continuamente las tendencias para el mundo tecnológico.",
         "category": "people",
         "href": "/es/people/tony-hsiao-inside-founder",
         "date": "2026-11-17T10:10:33+08:00",
@@ -1908,8 +1908,8 @@
     ],
     "id": [
       {
-        "title": "Hsiao Shang-nung: Dari PM Game ke Pendiri INSIDE, 'Pak RT' Komunitas Internet Taiwan",
-        "desc": "Pada 2009, enam orang internet memulai sebuah blog kolaboratif, dan INSIDE Hard-se Network Trend Observation lahir begitu saja. Hsiao Shang-nung (fOx) juga mendirikan iCook bersama; dua platform internet paling terkenal Taiwan keduanya menjadi karyanya—dan keduanya dijual ke perusahaan yang sama. Saat ini ia terus berperan sebagai pengamat yang memberitahu Taiwan: jangan terlalu cemas soal teknologi.",
+        "title": "Xiao Shangnong: Dari Manajer Produk Game Menjadi Pendiri INSIDE, Sosok Tokoh Masyarakat di Lingkaran Internet Taiwan",
+        "desc": "Dari manajer produk game di Songgang Technology menjadi pengamat internet, Xiao Shangnong bersama lima temannya mendirikan blog kolaboratif INSIDE pada tahun 2009 untuk mengamati tren internet; kemudian pada tahun 2011, mereka meluncurkan iCook, platform resep terbesar di Taiwan. Kedua perusahaan tersebut dijual kepada grup media The News Lens dalam rentang waktu empat tahun, di mana akuisisi INSIDE tercatat sebagai merger resmi media internet pertama di Taiwan. Dikenal oleh komunitas internet sebagai sosok tokoh masyarakat, ia kini membawakan podcast Saiqia dan terus menerjemahkan tren bagi dunia teknologi.",
         "category": "people",
         "href": "/id/people/tony-hsiao-inside-founder",
         "date": "2026-11-17T10:17:48+08:00",
@@ -2198,8 +2198,8 @@
         "image": ""
       },
       {
-        "title": "Lai Ho: A \"Mazu de Changhua\" que vestia trajes locais e sua balança que nunca se curvou",
-        "desc": "Antes da véspera de Ano Novo de 1943, o renomado médico de Changhua, Lai Ho, queimava as dívidas de seus pacientes pobres. Conhecido como o \"Pai da Nova Literatura de Taiwan\", ele usou seu bisturi para salvar vidas e sua caneta para combater a injustiça sob a opressão colonial.",
+        "title": "Lai He: O \"Mazu de Changhua\" vestido com trajes locais e sua balança irreconciliável",
+        "desc": "O pai da Nova Literatura de Taiwan, que salvava vidas com o bisturi e criticava injustiças com a caneta. Durante o período do domínio japonês, vestia-se com roupas tradicionais da ilha para apoiar as classes desfavorecidas, sendo reverenciado pelo povo de Changhua como o \"Mazu de Changhua\". Todos os anos, na véspera do Ano Novo Lunar, ele queimava as dívidas de pacientes pobres. Escreveu o primeiro poema moderno a partir do Incidente dos Trabalhadores de Cana de Erlin, utilizou \"Uma Balança\" para criticar a violência das leis coloniais e \"Elegia do País do Sul\" para lamentar o Incidente de Wushe. Testemunha de meio século de sofrimento colonial, suas obras permanecem como símbolos culturais da resistência de Taiwan contra a violência do poder.",
         "category": "people",
         "href": "/pt/people/lai-ho-father-of-taiwanese-literature",
         "date": "2026-11-17T10:27:32+08:00",
@@ -2369,8 +2369,8 @@
         "image": ""
       },
       {
-        "title": "Li Ang: Lukang 1952, \"The Butcher's Wife\" Abre Caminho para a Literatura Feminista de Taiwan",
-        "desc": "Nascida em 1952 em Lukang, Changhua, com o nome de batismo Shih Shu-tuan. Em 1983, \"The Butcher's Wife\" foi serializado no United Daily News, abalando o meio literário taiwanês com o tema da violência doméstica. Em 1991, \"The Lost Garden\". Em 2004, recebeu a Ordem das Artes e das Letras da França no grau de Cavaleiro. Obras traduzidas para inglês, francês, alemão, japonês e outras línguas, tornando-a uma das escritoras taiwanesas mais proeminentes no cenário internacional.",
+        "title": "Li Ang: Lukang 1952, a pioneira que abriu caminho para a literatura feminista de Taiwan com \"Matar o Marido\"",
+        "desc": "Escritora da literatura feminista de Taiwan, nascida em 1952 em Lukang, Changhua. Seu nome real é Shi Shu-tun e graduou-se no Departamento de Filosofia da Universidade Chinese Culture. Em 1983, a serialização de \"Matar o Marido\" no United Daily News chocou o mundo literário com sua temática sobre violência doméstica, sendo considerada o precursor da literatura feminista em Taiwan; em 1991, publicou \"O Jardim de Delícias\", explorando a pressão da cultura tradicional e a subjetividade feminina. Em 2004, recebeu a Ordem de Cavaleiro da Legião de Honra da França. Suas obras foram traduzidas para inglês, francês, alemão, japonês, entre outros idiomas, sendo uma das escritoras taiwanesas com maior reconhecimento internacional.",
         "category": "people",
         "href": "/pt/people/li-ang",
         "date": "2026-10-31T08:40:59+08:00",

@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-11-26T22:05:20Z",
+  "timestamp": "2026-11-27T22:06:12Z",
   "total": 1194,
-  "flagged": 743,
+  "flagged": 744,
   "files": [
     {
       "file": "music/台灣KTV文化.md",
@@ -3263,6 +3263,11 @@
       "file": "geography/台中捷運.md",
       "score": 5,
       "reasons": "空洞詞7個; 未人工審核; 塑膠句8個"
+    },
+    {
+      "file": "geography/嘉義市.md",
+      "score": 4,
+      "reasons": "未人工審核; 分號9個; 英式短句開場4處"
     },
     {
       "file": "geography/安坑輕軌.md",

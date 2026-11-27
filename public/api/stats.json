@@ -2,7 +2,7 @@
   "totalArticles": 15522,
   "totalCategories": 15,
   "estimatedContributors": 81,
-  "totalTags": 9166,
+  "totalTags": 9150,
   "categories": [
     {
       "name": "people",
@@ -80,11 +80,11 @@
     },
     {
       "name": "YouTuber",
-      "count": 49
+      "count": 47
     },
     {
       "name": "ODM",
-      "count": 38
+      "count": 33
     },
     {
       "name": "民主化",
@@ -96,7 +96,7 @@
     },
     {
       "name": "原住民族",
-      "count": 27
+      "count": 26
     },
     {
       "name": "AI",
@@ -131,10 +131,6 @@
       "count": 22
     },
     {
-      "name": "科技與企業",
-      "count": 22
-    },
-    {
       "name": "기업",
       "count": 22
     },
@@ -145,13 +141,17 @@
     {
       "name": "高雄",
       "count": 20
+    },
+    {
+      "name": "原住民",
+      "count": 19
     }
   ],
   "languageDistribution": {
     "vi": 1194,
     "es": 1194,
-    "ko": 1194,
     "hi": 1194,
+    "ko": 1194,
     "en": 1194,
     "ja": 1194,
     "de": 1194,
@@ -162,8 +162,8 @@
     "ar": 1194,
     "pt": 1194
   },
-  "lastUpdated": "2026-11-26T22:05:07.206Z",
-  "stars": 1253,
+  "lastUpdated": "2026-11-27T22:06:00.213Z",
+  "stars": 1255,
   "forks": 191,
   "zhPages": 1192,
   "languagePages": {
