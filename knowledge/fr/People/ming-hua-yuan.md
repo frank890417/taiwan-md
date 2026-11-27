@@ -1,33 +1,36 @@
 ---
-title: "Ming Hua Yuan : fondé à Tainan en 1929, l'empire de l'opéra taïwanais sur quatre générations de la famille Chen"
-description: "Fondé par Chen Mingji à Tainan en 1929, le groupe s'installe à Chaozhou, Pingtung, en 1962. La deuxième génération, Chen Shengfu, introduit les techniques du théâtre moderne, portant l'opéra taïwanais sur la scène du Théâtre national. Huit sous-troupes — Tian, Di, Xuan, Huang, Ri, Yue, Xing, Chen — opèrent sous l'égide du groupe. En 2024, la quatrième tournée de *Sanxi* célèbre le 95ᵉ anniversaire de la troupe."
+title: "Ming Hua Yuan : Fondé à Tainan en 1929, l'empire de l'opéra géza de la famille Chen sur quatre générations"
+description: "Cette troupe d'opéra géza, originaire des places de temples de Tainan, a été fondée par Chen Ming-ji en 1929 avant de s'installer à Chaozhou, Pingtung, en 1962. Face à l'impact de la télévision et du cinéma, la deuxième génération, menée par Chen Sheng-fu, a choisi une approche inverse en misant sur le spectacle vivant. Il a introduit des éclairages modernes, des mécanismes de scène, des cascades aériennes et des projections sur rideau d'eau, créant avec la série « Ji Gong le Bouddha Vivant » des spectacles d'une ampleur de dix mille spectateurs. La troupe s'est produite pour la première fois au Mémorial Sun Yat-sen en 1982, puis au Théâtre National en 1990. Ses huit sous-groupes (Tian, Di, Xuan, Huang, Ri, Yue, Xing, Chen) sont gérés conjointement par quatre générations de la famille. En 2024, la tournée « San Xi » marque sa quatrième reprise pour célébrer le 95e anniversaire de la troupe."
 date: 2026-03-19
 category: 'People'
-tags: ['Art et design', 'Opéra taïwanais', 'Art traditionnel', 'Arts du spectacle', 'Transmission sur quatre générations']
+tags:
+  [
+    'Art et design',
+    'Opéra géza',
+    'Art traditionnel',
+    'Arts du spectacle',
+    'Héritage sur quatre générations',
+  ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
-# design_rationale:
-#   why_this_hook: "從創立地的精確度切入——不是屏東潮州，是台南。這個細節代表整篇文章的可信度，也讓讀者理解明華園的真實起點。"
-#   whats_excluded: "各劇目完整演出場次與票房數字；各子團歷年負責人名單；政府補助金額"
-#   where_it_hedges: "亞維儂藝術節（P0⚠️待確認）；2009小巨蛋演出（P0無法確認，已移除）"
 translatedFrom: 'People/明華園.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: 'a9322956ed'
 sourceContentHash: 'sha256:ebe4d277504f2738'
 sourceBodyHash: 'sha256:ad65be5d0003de06'
-translatedAt: '2026-05-20T05:08:34+08:00'
+translatedAt: '2026-11-27T02:30:00.401768+00:00'
 ---
 
 # Ming Hua Yuan : fondé à Tainan en 1929, l'empire de l'opéra taïwanais sur quatre générations de la famille Chen
 
-> **En 30 secondes :** Ming Hua Yuan est fondé par Chen Mingji à Tainan en 1929, puis s'installe à Chaozhou, Pingtung, en 1962.[^1] La deuxième génération, Chen Shengfu, introduit les techniques du théâtre moderne (mécanismes scéniques, projections sur rideau d'eau, voltige aérienne) ; sa série emblématique *Le Moine Ji Gong* amène l'opéra taïwanais dans des salles de plusieurs milliers de places.[^2] En 1982, la troupe se produit pour la première fois au Mémorial Sun Yat-sen, puis accède au Théâtre national en 1990.[^2] Huit sous-troupes opèrent sous son égide : Tian, Di, Xuan, Huang, Ri, Yue, Xing et Chen.[^3] En 2024, la quatrième tournée de *Sanxi* (*La Fin du spectacle*) se déroule au Taichung National Theater et au Weiwuying National Kaohsiung Center for the Arts, célébrant le 95ᵉ anniversaire de la fondation.[^4]
+> **En 30 secondes :** Ming Hua Yuan est fondé par Chen Mingji à Tainan en 1929, puis s'installe à Chaozhou, Pingtung, en 1962.[^1] La deuxième génération, Chen Shengfu, introduit les techniques du théâtre moderne (mécanismes scéniques, projections sur rideau d'eau, voltige aérienne) ; sa série emblématique _Le Moine Ji Gong_ amène l'opéra taïwanais dans des salles de plusieurs milliers de places.[^2] En 1982, la troupe se produit pour la première fois au Mémorial Sun Yat-sen, puis accède au Théâtre national en 1990.[^2] Huit sous-troupes opèrent sous son égide : Tian, Di, Xuan, Huang, Ri, Yue, Xing et Chen.[^3] En 2024, la quatrième tournée de _Sanxi_ (_La Fin du spectacle_) se déroule au Taichung National Theater et au Weiwuying National Kaohsiung Center for the Arts, célébrant le 95ᵉ anniversaire de la fondation.[^4]
 
 ## 1929, à Tainan
 
-L'histoire de Ming Hua Yuan commence en 1929. Chen Mingji fonde cette troupe d'opéra taïwanais (*gezaixi*) à Tainan, jouant initialement sur des scènes en plein air (*yetai*) lors des processions de temples — une troupe itinérante liée aux célébrations religieuses.[^1]
+L'histoire de Ming Hua Yuan commence en 1929. Chen Mingji fonde cette troupe d'opéra taïwanais (_gezaixi_) à Tainan, jouant initialement sur des scènes en plein air (_yetai_) lors des processions de temples — une troupe itinérante liée aux célébrations religieuses.[^1]
 
 En 1962, la troupe s'installe à Chaozhou, dans le comté de Pingtung, s'enracinant dans le sud de Taïwan. Certaines sources mentionnt à tort Chaozhou comme lieu de fondation ; la date et le lieu exacts sont 1929, Tainan.
 
@@ -41,7 +44,7 @@ Quand Chen Shengfu reprend la direction, l'opéra taïwanais subit la concurrenc
 
 Ce choix est en réalité un pari contre la logique du marché. L'opéra télévisé touche plus de spectateurs, coûte moins cher et comporte moins de risques. Mais Chen Shengfu mise sur « l'irremplaçable intensité du direct ». Il ne voit pas dans la télévision une menace qui réduit l'opéra taïwanais, mais une opportunité de différenciation : quand tout le monde se tourne vers le petit écran, le théâtre devient rare.
 
-Il introduit éclairage, sonorisation, mécanismes scéniques, voltige aérienne et projections sur rideau d'eau, faisant de chaque représentation de Ming Hua Yuan un spectacle visuel. La série *Le Moine Ji Gong* met en scène des envols sur scène, attirant un public qui n'avait jamais assisté à un opéra taïwanais. *L'Ultra-Spectaculaire Légende du Serpent Blanc* et *Le Grand Immortel de Penglai* mêlent également chant traditionnel et dramaturgie contemporaine.[^2]
+Il introduit éclairage, sonorisation, mécanismes scéniques, voltige aérienne et projections sur rideau d'eau, faisant de chaque représentation de Ming Hua Yuan un spectacle visuel. La série _Le Moine Ji Gong_ met en scène des envols sur scène, attirant un public qui n'avait jamais assisté à un opéra taïwanais. _L'Ultra-Spectaculaire Légende du Serpent Blanc_ et _Le Grand Immortel de Penglai_ mêlent également chant traditionnel et dramaturgie contemporaine.[^2]
 
 La modernisation est aussi une reconstruction du public : les spectateurs habituels des temples, habitués aux scènes de plein air, sont retenus par le spectacle visuel ; simultanément, un nouveau public urbain franchit pour la première fois les portes d'un spectacle d'opéra taïwanais, attiré par la « grandeur scénique ». La superposition de ces deux publics est la structurelle de la capacité de Ming Hua Yuan à remplir ses salles à l'ère de la télévision.
 
@@ -59,13 +62,13 @@ Ming Hua Yuan compte actuellement huit sous-troupes : Tian (Ciel), Di (Terre), X
 
 La structure en huit sous-troupes permet à Ming Hua Yuan d'être simultanément présente dans différentes régions et sur des scènes de tailles variées : les troupes Tian et Di se chargent des grands théâtres, tandis que les autres sous-troupes assurent les représentations de plus petite envergure dans les temples et les écoles. Cette flexibilité de déploiement est la base organisationnelle qui permet à Ming Hua Yuan de maintenir une fréquence de représentations élevée à travers tout Taïwan. Les troisième et quatrième générations de la famille gèrent chacune des sous-troupes, répartissant la structure de transmission sans la concentrer sur un seul héritier, selon un modèle de gestion en réseau.
 
-## La quatrième tournée de *Sanxi* et le 95ᵉ anniversaire
+## La quatrième tournée de _Sanxi_ et le 95ᵉ anniversaire
 
-En 2024, *Sanxi* (*La Fin du spectacle*) entame sa quatrième tournée, avec des représentations au Taichung National Theater et au Weiwuying National Kaohsiung Center for the Arts.[^4] Cette année marque également le 95ᵉ anniversaire de la fondation de Ming Hua Yuan.
+En 2024, _Sanxi_ (_La Fin du spectacle_) entame sa quatrième tournée, avec des représentations au Taichung National Theater et au Weiwuying National Kaohsiung Center for the Arts.[^4] Cette année marque également le 95ᵉ anniversaire de la fondation de Ming Hua Yuan.
 
-La quatrième reprise de *Sanxi* est en soi un signal structurel : une œuvre qui peut être rejouée dans différentes époques et différents théâtres touche à un thème qui dépasse un moment donné. En choisissant de jouer *Sanxi* au moment du 95ᵉ anniversaire, Ming Hua Yuan opère un geste temporel délibéré : raconter une histoire de « fin » pour affirmer qu'elle est encore là.
+La quatrième reprise de _Sanxi_ est en soi un signal structurel : une œuvre qui peut être rejouée dans différentes époques et différents théâtres touche à un thème qui dépasse un moment donné. En choisissant de jouer _Sanxi_ au moment du 95ᵉ anniversaire, Ming Hua Yuan opère un geste temporel délibéré : raconter une histoire de « fin » pour affirmer qu'elle est encore là.
 
-L'intrigue de *Sanxi* est elle-même une métaphore de la situation de Ming Hua Yuan : une vieille troupe confrontée à la menace de la dissolution face aux changements d'époque, qui résiste à la disparition par le spectacle lui-même. Ce thème, replacé dans le cadre du 95ᵉ anniversaire, acquiert une force d'autoconfrontation. Ce qu'ils jouent et ce qu'ils sont ne font qu'un.
+L'intrigue de _Sanxi_ est elle-même une métaphore de la situation de Ming Hua Yuan : une vieille troupe confrontée à la menace de la dissolution face aux changements d'époque, qui résiste à la disparition par le spectacle lui-même. Ce thème, replacé dans le cadre du 95ᵉ anniversaire, acquiert une force d'autoconfrontation. Ce qu'ils jouent et ce qu'ils sont ne font qu'un.
 
 D'une troupe de plein air sur le parvis d'un temple de Tainan à un réseau de huit sous-troupes et une présence au Weiwuying, près d'un siècle a passé, et cette famille d'opéra taïwanais est arrivée jusqu'ici.
 
@@ -89,10 +92,10 @@ La troupe de plein air n'est pas devenue un musée, et la modernisation du thé�
 
 [^1]: [Site officiel de Ming Hua Yuan : histoire de la troupe](https://twopera.com/) — Confirme la fondation à Tainan en 1929 (et non à Chaozhou, Pingtung), l'installation à Chaozhou en 1962, et le fondateur Chen Mingji.
 
-[^2]: [Wikipédia : Ming Hua Yuan](https://zh.wikipedia.org/wiki/明華園) — Contient les informations sur l'introduction des techniques de théâtre moderne par Chen Shengfu (deuxième génération), les œuvres emblématiques comme *Le Moine Ji Gong*, ainsi que les représentations au Mémorial Sun Yat-sen en 1982 et au Théâtre national en 1990.
+[^2]: [Wikipédia : Ming Hua Yuan](https://zh.wikipedia.org/wiki/明華園) — Contient les informations sur l'introduction des techniques de théâtre moderne par Chen Shengfu (deuxième génération), les œuvres emblématiques comme _Le Moine Ji Gong_, ainsi que les représentations au Mémorial Sun Yat-sen en 1982 et au Théâtre national en 1990.
 
 [^3]: [Base de données culturelle nationale : Ming Hua Yuan](https://nrch.culture.tw/) — Confirme la mise en place des huit sous-troupes Tian, Di, Xuan, Huang, Ri, Yue, Xing et Chen, ainsi que la structure de transmission familiale.
 
-[^4]: [Revue PAR Arts du spectacle : tournée 2024 de *Sanxi* par Ming Hua Yuan](https://par.npac-ntch.org/) — Contient des informations sur la quatrième tournée de *Sanxi* en 2024 (Taichung National Theater, Weiwuying de Kaohsiung) et les reportages liés au 95ᵉ anniversaire de la troupe.
+[^4]: [Revue PAR Arts du spectacle : tournée 2024 de _Sanxi_ par Ming Hua Yuan](https://par.npac-ntch.org/) — Contient des informations sur la quatrième tournée de _Sanxi_ en 2024 (Taichung National Theater, Weiwuying de Kaohsiung) et les reportages liés au 95ᵉ anniversaire de la troupe.
 
 [^5]: [Ministère de la Culture : registres des représentations internationales des arts traditionnels taïwanais](https://www.moc.gov.tw/) — Données sur les représentations à l'étranger de Ming Hua Yuan (Festival d'Avignon en attente de confirmation supplémentaire).

@@ -1,16 +1,16 @@
 ---
-title: "Huang Chun-ming : Luodong 1935, de Jours à regarder la mer à La grande poupée de son fils, l'écrivain des petites gens"
-description: "Né le 13 février 1935 à Luodong, Yilan. Jours à regarder la mer en 1967 et La grande poupée de son fils en 1969 incarnent l'attention portée aux petites gens au coeur de la littérature nativiste taïwanaise. Débat sur la littérature nativiste en 1977. Lauréat du prix littéraire Wu San-lien et du Prix national des arts. Son deuxième fils Huang Kuo-chun (écrivain) se suicide le 20 juin 2003. Hou Hsiao-hsien porte son oeuvre à l'écran en 1983. Toujours en vie en 2026."
+title: "Huang Chun-ming : de Luyuan 1935, « Les jours où l'on regarde la mer » à « La grande poupée de mon fils », le chroniqueur des petites gens"
+description: "Écrivain de la littérature de terroir profondément enraciné à Yilan, dont le cœur de création repose sur les personnages issus des classes populaires. Diplômé de l'Institut normal de Taipei, il a longtemps exercé comme instituteur primaire, transformant le quotidien rural en matière romanesque. « Les jours où l'on regarde la mer » dépeint des femmes marginalisées avec un regard sans jugement, tandis que « La grande poupée de mon fils » raconte l'histoire d'un père se faisant clown pour subvenir aux besoins de sa famille, œuvre adaptée au cinéma par Hou Hsiao-hsien en 1983. Lors de la controverse sur la littérature de terroir en 1977, il fut l'un des auteurs les plus discutés. Lauréat du prix littéraire Wu San-lien et du Prix national des arts, il a consacré ses dernières années à porter attention aux plus vulnérables à travers la troupe de théâtre pour enfants Huang Da-yu."
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'littérature',
-    'littérature nativiste',
+    'littérature de terroir',
     'Yilan',
     'petites gens',
-    'La grande poupée de son fils',
-    'Jours à regarder la mer',
+    'La grande poupée de mon fils',
+    "Les jours où l'on regarde la mer",
   ]
 subcategory: '文學'
 author: 'Taiwan.md'
@@ -21,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/黃春明.md'
-sourceCommitSha: '22286539e'
-sourceContentHash: 'sha256:fa94afa39f837939'
-sourceBodyHash: 'sha256:59fc287ce8c0baeb'
-translatedAt: '2026-11-05T01:46:57.603288+00:00'
+sourceCommitSha: '2556505034'
+sourceContentHash: 'sha256:fb400d56624fcb69'
+sourceBodyHash: 'sha256:be81edf9c205405a'
+translatedAt: '2026-11-27T02:37:34.205530+00:00'
 ---
 
 # Huang Chun-ming : Luodong 1935, de Jours à regarder la mer à La grande poupée de son fils, l'écrivain des petites gens
@@ -55,11 +55,11 @@ Le problème central de La grande poupée de son fils est la dignité, et non se
 
 L'écriture des petites gens chez Huang Chun-ming ne relève jamais de la pitié sentimentale ; elle parle au plus près des êtres. C'est cette « manière de parler » qui rend encore sa fiction opérante plusieurs décennies plus tard.
 
-## Sa place dans le débat sur la littérature nativiste de 1977
+## Sa place dans la controverse de la littérature nativiste de 1977
 
-En 1977 éclate le « débat sur la littérature nativiste », au cours duquel des critiques mettent en question la position politique de cette littérature. Huang Chun-ming est l'un des écrivains au centre des discussions[^2]. Il ne transige pas et ne recule pas, poursuivant sa ligne créatrice centrée sur la vie des classes populaires.
+En 1977, la [controverse sur la littérature nativiste](/fr/history/nativist-literature-debate/) éclate, les critiques remettant en question la position politique de ce mouvement. Huang Chun-ming est l'un des écrivains au cœur des débats lors de cette controverse[^2]. Loin de céder ou de reculer, il a continué à maintenir sa direction créative, centrée sur le quotidien des classes populaires.
 
-L'impact du débat sur Huang Chun-ming tient au fait que son oeuvre fut contrainte d'entrer dans un cadre politique où il n'avait pas l'intention de se placer. S'il écrivait les petites gens, c'est parce que ces personnes existaient réellement et avaient besoin d'être vues ; l'énoncé politique était un cadre interprétatif imposé par d'autres. Après le débat, sa position ne change pas : il choisit de continuer à faire par la littérature ce qu'il avait toujours fait, c'est-à-dire rendre visibles ces personnes.
+L'impact de la controverse sur Huang Chun-ming réside dans le fait que ses œuvres ont été contraintes d'entrer dans un cadre politique qu'il n'avait pas l'intention d'intégrer. S'il écrit sur les « petites gens », c'est parce que ces individus existent réellement et qu'ils méritent d'être vus ; la déclaration politique n'est qu'un cadre d'interprétation imposé par autrui. Après la controverse, sa position est restée inchangée : il a choisi de continuer à utiliser la littérature pour faire ce qu'il a toujours fait — permettre à ces personnes d'être vues.
 
 ## Prix littéraires
 

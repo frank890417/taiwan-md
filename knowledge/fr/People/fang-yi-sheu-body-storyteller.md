@@ -1,15 +1,15 @@
 ---
-title: "Fang-Yi Sheu : Yilan 1971, de la troupe Martha Graham à la chorégraphie de l'identité visuelle du Festival Golden Horse 2024"
-description: "Née en 1971 à Yilan. Diplômée du département de danse de l'Université nationale des arts de Taipei, elle part aux États-Unis en 1995 et rejoint la Martha Graham Dance Company, dont elle devient danseuse principale en 1999. De retour à Taïwan en 2007, elle fonde LAFA (dissous en 2010). Documentaire *Salute* (2020). En 2024, elle conçoit la chorégraphie de l'identité visuelle du Festival Golden Horse. En 2025, elle accorde des entretiens sur le vieillissement du corps."
+title: "Hsu Fang-yi : née à Yilan en 1971, première danseuse de la Martha Graham Dance Company, danseuse de l'affiche principale du Festival du Cheval d'Or 2024"
+description: "Danseuse moderne taïwanaise, née à Yilan, diplômée du département de danse de l'Université nationale des arts de Taipei, elle part aux États-Unis. En 1995, elle réussit l'audition et rejoint la Martha Graham Dance Company, et quatre ans plus tard, elle est promue première danseuse, devenant l'une des rares Taïwanaises à accéder au poste de première danseuse dans une compagnie de danse moderne de premier plan international. En 2007, elle revient à Taïwan et fonde La Fang, promouvant l'éducation à la danse et les collaborations interdisciplinaires. En 2020, le documentaire « Mon cœur, ma voie » sort en salles. En 2024, elle conçoit la danse pour l'affiche principale du Festival du Cheval d'Or. Ces dernières années, elle continue de parler publiquement du vieillissement du corps et de la reconversion des danseurs."
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Art et design',
     'Danse',
-    'Arts du spectacle',
-    'Danse contemporaine',
-    'Martha Graham Dance Company',
+    'Arts de la scène',
+    'Danse moderne',
+    'Compagnie de danse Martha Graham',
   ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md'
@@ -20,10 +20,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/許芳宜.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '630afb2b66'
 sourceContentHash: 'sha256:a31b5339a894147e'
 sourceBodyHash: 'sha256:e2e71f85bef4ed48'
-translatedAt: '2026-11-04T21:39:20.918191+00:00'
+translatedAt: '2026-11-27T02:35:23.520010+00:00'
 ---
 
 # Fang-Yi Sheu : Yilan 1971, de la troupe Martha Graham à la chorégraphie de l'identité visuelle du Festival Golden Horse 2024

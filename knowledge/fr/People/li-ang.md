@@ -1,14 +1,14 @@
 ---
-title: "Li Ang : Lukang 1952, celle qui a ouvert la voie de la littérature féministe taïwanaise avec *L'Assassinat du mari'"
-description: "Née en avril 1952 à Lukang, dans le comté de Changhua, de son vrai nom Shi Shuduan. En 1983, *L'Assassinat du mari* paraît en feuilleton dans le *United Daily News*, bouleversant le monde littéraire taïwanais par son traitement de la violence domestique. En 1991, *Le Jardin des illusions*. En 2004, elle est faite Chevalier de l'Ordre des Arts et des Lettres par la France. Ses œuvres ont été traduites en anglais, français, allemand, japonais et d'autres langues, faisant d'elle l'une des écrivaines taïwanaises les plus reconnues à l'international."
+title: 'Li Ang : Lukang 1952, « La Femme du boucher » ouvre la voie à la littérature féministe taïwanaise'
+description: "Écrivaine taïwanaise de littérature féministe, née en 1952 à Lukang, Changhua, de son vrai nom Shi Shu-duan, diplômée du département de philosophie de l'Université chinoise de culture. En 1983, « La Femme du boucher » est publié en feuilleton dans l'United Daily News, choquant le monde littéraire par son thème de la violence domestique, considérée comme la pionnière de la littérature féministe taïwanaise ; en 1991, elle publie « Le Jardin perdu », explorant la pression de la culture traditionnelle et la subjectivité féminine. En 2004, elle reçoit le grade de chevalier de l'Ordre des Arts et des Lettres français, ses œuvres sont traduites en anglais, français, allemand, japonais et autres langues, faisant d'elle l'une des femmes écrivaines taïwanaises les plus reconnues sur la scène internationale."
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Littérature',
     'Littérature féministe',
-    "L'Assassinat du mari",
-    'Le Jardin des illusions',
+    'La Femme du boucher',
+    'Le Jardin perdu',
     'Lukang',
     'Questions de genre',
   ]
@@ -21,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/李昂.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '3f269cde5e'
 sourceContentHash: 'sha256:047f29e16ec14ac9'
 sourceBodyHash: 'sha256:0a0f9bd1ab3db88b'
-translatedAt: '2026-11-04T20:41:18.435982+00:00'
+translatedAt: '2026-11-27T02:43:25.593522+00:00'
 ---
 
 # Li Ang : Lukang 1952, celle qui a ouvert la voie de la littérature féministe taïwanaise avec _L'Assassinat du mari_

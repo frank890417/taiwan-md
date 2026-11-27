@@ -1,16 +1,16 @@
 ---
-title: 'Chung Li-ho : Meinong 1915, le laboureur de plume tombé dans une mare de sang'
-description: "Né le 15 décembre 1915 dans une famille hakka de Meinong, Kaohsiung. Part pour le Nord-Est de la Chine en 1938, revient à Taïwan en 1946. Œuvres principales : « La Ferme de Lishan » (roman), « Les Gens de la terre natale » (nouvelle, 1959), « Le Couple pauvre ». Surnommé « le laboureur de plume tombé dans une mare de sang », souvent honoré comme « le père de la littérature nativiste taïwanaise » (titre controversé). Décède le 4 août 1960 en crachant le sang, à l'âge de 44 ans."
+title: 'Chung Li-ho : Meinong 1915, le laboureur de la plume tombé dans une mare de sang'
+description: "Écrivain de littérature nativiste dont le terrain d'écriture est le village hakka, né dans une famille paysanne hakka de Meinong à Kaohsiung, il part en 1938 pour le nord-est de la Chine où il erre pendant huit ans, et revient à Taïwan en 1946. Son roman « La Ferme de Lishan » enregistre honnêtement les difficultés de survie des paysans sous un angle interne, sa nouvelle « Les Gens du pays natal » interroge l'appartenance spirituelle. Il est souvent honoré comme le « père de la littérature nativiste de Taïwan », mais ce titre est controversé ; atteint de tuberculose pulmonaire, il persiste à écrire, et meurt en 1960 en crachant le sang alors qu'il corrigeait ses manuscrits, à l'âge de 44 ans, surnommé « le laboureur de la plume tombé dans une mare de sang »."
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'littérature',
-    'littérature nativiste',
-    'Les Gens de la terre natale',
+    'Littérature',
+    'Littérature nativiste',
+    'Les Gens du pays natal',
     'La Ferme de Lishan',
     'Meinong',
-    'hakka',
+    'Hakka',
   ]
 subcategory: '文學'
 author: 'Taiwan.md'
@@ -21,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/鍾理和.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '2556505034'
 sourceContentHash: 'sha256:cddbfe1c856d1966'
 sourceBodyHash: 'sha256:59814996cd0ea2c6'
-translatedAt: '2026-11-05T05:48:03+08:00'
+translatedAt: '2026-11-27T02:41:39.410851+00:00'
 ---
 
 # Chung Li-ho : Meinong 1915, le laboureur de plume tombé dans une mare de sang

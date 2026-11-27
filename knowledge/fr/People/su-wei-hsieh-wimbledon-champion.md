@@ -1,24 +1,28 @@
 ---
-title: 'Hsieh Su-wei : Hsinchu 1986, première championne en Grand Slam de Taïwan et sept titres en double dames'
-description: "Née le 4 janvier 1986 à Hsinchu. Son père, Hsieh Tzu-lung (chauffeur de bus de la Taiwan Motor Transport Company), est décédé en octobre 2023. Meilleure classement WTA en simple : 23ᵉ mondiale (2013). Sept titres en double dames en Grand Slam (Wimbledon 2013 / Roland-Garros 2014 / Wimbledon 2019 / Wimbledon 2021 / Roland-Garros 2023 / Wimbledon 2023 / Open d'Australie 2024). En 2021, première Taïwanaise à atteindre les demi-finales de simple en Grand Slam (Open d'Australie). Finaliste en double dames à Wimbledon en juillet 2025."
+title: 'Hsieh Su-wei : Hsinchu 1986, première championne de Grand Chelem de Taïwan et sept trophées en double dames'
+description: "Née à Hsinchu, devenue joueuse de tennis professionnelle grâce à l'investissement total de son père, chauffeur de bus à Taïwan, elle remporte en 2013 le titre de double dames à Wimbledon aux côtés de Peng Shuai, devenant la première championne de Grand Chelem de l'histoire de Taïwan ; son classement en simple atteint la 23e place mondiale la même année. En onze ans, elle accumule sept titres de double dames en Grand Chelem avec différentes partenaires. En 2021, à 35 ans, elle atteint les demi-finales en simple à l'Open d'Australie, une première pour une femme taïwanaise. En 2025, elle atteint à nouveau la finale du double dames à Wimbledon et termine finaliste."
 date: 2026-03-19
 category: 'People'
-tags: ['體育', '網球', '溫布頓', '大滿貫', '女雙', '職業網球']
+tags:
+  [
+    'Sport',
+    'Tennis',
+    'Wimbledon',
+    'Grand Chelem',
+    'Double dames',
+    'Tennis professionnel',
+  ]
 subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
-# design_rationale:
-#   why_this_hook: "「台灣首位大滿貫冠軍」是2013的一次性事件；「七座金盃」才是她整個職業生涯的重量。兩個並列，才能說完她。"
-#   whats_excluded: "各場決賽逐球技術分析；2016奧運教練事件爭議細節；WTA女雙世界第一達成的確切日期"
-#   where_it_hedges: "2014法網、2019溫布頓、2023溫布頓的搭檔姓名P0無提供，TODO補確認；2025溫布頓成績來源Focus Taiwan"
 translatedFrom: 'People/謝淑薇.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '2a5b98d9cd'
 sourceContentHash: 'sha256:e699feede1257135'
 sourceBodyHash: 'sha256:86d8a4b7771c32c4'
-translatedAt: '2026-05-20T05:08:34+08:00'
+translatedAt: '2026-11-27T02:16:39.145078+00:00'
 ---
 
 # Hsieh Su-wei : Hsinchu 1986, première championne en Grand Slam de Taïwan et sept titres en double dames

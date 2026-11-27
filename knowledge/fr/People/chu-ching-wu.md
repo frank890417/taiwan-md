@@ -1,14 +1,14 @@
 ---
-title: "Chu Ching-wu : co-découvreur en 1987 de la supraconductivité à haute température critique Tc = 93 K, franchissant le seuil de l'azote liquide"
-description: "Né en 1941 au Hunan, physicien taïwanais naturalisé américain. En janvier 1987, avec Wu Maw-kun, il découvre l'oxyde de yttrium, baryum et cuivre (YBCO) à Tc = 93 K, franchissant le seuil de la température de l'azote liquide et ouvrant l'ère de la supraconductivité à haute température. Président de l'Université des sciences et technologies de Hong Kong (HKUST) de 2001 à 2009. En mars 2026, publication dans PNAS d'une nouvelle percée à Tc = 151 K, toujours actif en recherche à 85 ans."
+title: "Paul Chu : percée de la température de l'azote liquide en 1987, co-découvreur du supraconducteur à haute température Tc=93 K"
+description: "Co-découvreur dans le domaine de la supraconductivité à haute température. Né dans le Hunan, grandi à Taïwan, diplômé du département de physique de l'Université nationale Cheng Kung, il part aux États-Unis pour obtenir un doctorat. À partir de 1979, il constitue une équipe de recherche sur la supraconductivité à l'Université de Houston. En janvier 1987, il découvre l'oxyde d'yttrium-baryum-cuivre, avec une température critique de 93 K, franchissant pour la première fois le seuil de la température de l'azote liquide, ce qui fait passer la supraconductivité à haute température des laboratoires de pointe à la faisabilité industrielle. De 2001 à 2009, il occupe le poste de président de l'Université des sciences et technologies de Hong Kong. En 2026, à 85 ans, il publie encore une nouvelle percée avec Tc=151 K dans les Annales de l'Académie nationale des sciences des États-Unis, sans jamais s'éloigner de cette courbe de température en constante augmentation."
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Science et Académie',
+    'Science et milieu académique',
     'Physicien',
     'Supraconducteur',
-    'HKUST',
+    'Université des sciences et technologies de Hong Kong',
     'Université de Houston',
   ]
 subcategory: '科學與學術'
@@ -20,10 +20,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/朱經武.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'a9322956ed'
 sourceContentHash: 'sha256:79c87fb84a11dd9d'
 sourceBodyHash: 'sha256:619ef92c56c46024'
-translatedAt: '2026-11-04T23:14:09.677029+00:00'
+translatedAt: '2026-11-27T02:28:52.126595+00:00'
 ---
 
 # Chu Ching-wu : co-découvreur en 1987 de la supraconductivité à haute température critique Tc = 93 K, franchissant le seuil de l'azote liquide

@@ -1,16 +1,16 @@
 ---
-title: 'Lai He : la « Mazu de Changhua » en tenue locale, et sa balance qui ne céda jamais'
-description: "Avant le réveillon de 1943, le célèbre médecin de Changhua, Lai He, brûlait les dettes de ses patients pauvres. Père de la nouvelle littérature taïwanaise, il soignait par le scalpel et critiquait l'injustice par la plume sous la pression coloniale."
+title: 'Lai He : le « Mazu de Changhua » vêtu de vêtements locaux, et sa balance qui ne fait jamais de compromis'
+description: "Père de la nouvelle littérature taïwanaise, il sauvait des vies avec son scalpel et dénonçait les injustices avec sa plume. Durant l'époque coloniale japonaise, il portait fidèlement les vêtements traditionnels de l'île et se tenait aux côtés du peuple, ce qui lui valut d'être vénéré par les habitants de Changhua comme le « Mazu de Changhua ». Chaque année, à la veille du Nouvel An lunaire, il brûlait les factures de dettes des patients démunis. Il a écrit le premier poème moderne suite à l'incident des planteurs de canne à sucre de Erlin, a utilisé « Une balance » pour critiquer la violence des lois coloniales et « Élégie du pays du Sud » pour pleurer l'incident de Wushe. Témoin d'un demi-siècle de souffrances coloniales, ses œuvres demeurent aujourd'hui des symboles culturels de la résistance taïwanaise contre la violence du pouvoir."
 date: 2026-04-28
 category: 'People'
 tags:
   [
     'Lai He',
-    'Littérature taïwanaise',
+    'littérature taïwanaise',
     'Changhua',
-    'Époque coloniale japonaise',
-    'Histoire de la médecine',
-    'Mouvement social',
+    'époque coloniale japonaise',
+    'histoire de la médecine',
+    'mouvements sociaux',
   ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
@@ -21,10 +21,10 @@ readingTime: 12
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/賴和.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '2556505034'
 sourceContentHash: 'sha256:3c703a9a3c1bb21e'
 sourceBodyHash: 'sha256:12da8a5e75f1d767'
-translatedAt: '2026-10-24T09:47:27+08:00'
+translatedAt: '2026-11-27T02:22:29.873890+00:00'
 ---
 
 > **Aperçu en 30 secondes :** Lai He (1894-1943) était l'un des médecins et écrivains les plus influents de l'époque coloniale japonaise. D'une main, il utilisait son scalpel pour soigner les nécessiteux, gagnant les titres de « Mazu de Changhua » et de « He-zai Xian » ; de l'autre, il maniait la plume pour fonder la littérature taïwanaise en langue vernaculaire et dénoncer les injustices du régime colonial. Sa vie incarne la lutte et la dignité des Taïwanais sous domination japonaise, notamment à travers son geste de compassion consistant à brûler chaque année les dettes de ses patients avant le Nouvel An, ainsi que ses écrits de prison, qui demeurent des modèles d'éthique médicale et d'humanisme à Taïwan.

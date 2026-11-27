@@ -1,30 +1,30 @@
 ---
-title: "Deng Yu-xian : Hakka 1906, les Quatre Chansons des Pluies d'Avril — Les trente-neuf ans du père de la chanson taïwanaise"
-description: "Né le 21 juillet 1906 dans une famille hakka de Longtan, Taoyuan, sous le nom de Deng Bingyan. Diplômé d'une école normale, il est recruté en 1933 par la maison de disques Columbia. Ses quatre chefs-d'œuvre, les « Quatre Chansons des Pluies d'Avril » (Quatre Saisons Rouges / Nuit Lunaire Mélancolique / Attente du Vent de Printemps / Fleurs sous la Pluie Nocturne), sont encore chantés aujourd'hui. En 1939, il rejoint l'école publique de Qionglin, Hsinchu, comme enseignant. Il meurt le 11 juin 1944 à l'hôpital de Zhudong, à l'âge de 39 ans."
+title: "Deng Yuxian : Hakka 1906, avril l'attente de la pluie — Le père de la chanson taïwanaise, trente-neuf ans"
+description: "Compositeur qui a fondé la chanson populaire taïwanaise sur l'harmonie occidentale, né dans une famille lettrée hakka de Longtan, Taoyuan, sous le nom de Deng Bingyan, il a été instituteur après son diplôme de l'école normale. En 1933, il est engagé comme compositeur exclusif par Columbia Records et compose en moins de deux ans ses quatre chefs-d'œuvre : « Les Quatre Saisons rouges », « Chagrin d'une nuit de lune », « Attendant le vent du printemps », « Fleur de la nuit de pluie », connus collectivement sous le nom « Avril, l'attente de la pluie ». Sous le joug de la guerre, il retourne enseigner à l'école publique de Qionglin à Hsinchu, et meurt en 1944 à l'hôpital de Zhudong à l'âge de 39 ans, mais ses quatre mélodies continuent d'être reprises et transmises par des générations de chanteurs jusqu'à aujourd'hui."
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '音樂'
 tags:
   [
-    '音樂',
+    'Musique',
     'Chanson taïwanaise',
     'Compositeur',
     'Période coloniale japonaise',
     'Taoyuan',
     'Hakka',
   ]
-readingTime: 7
+subcategory: '音樂'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: false
+readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/鄧雨賢.md'
-sourceCommitSha: '22286539'
+sourceCommitSha: '2556505034'
 sourceContentHash: 'sha256:03f4c1611aa95a6c'
 sourceBodyHash: 'sha256:0d86dfd69dceab10'
-translatedAt: '2026-05-20T05:08:34+08:00'
+translatedAt: '2026-11-27T02:33:48.218933+00:00'
 ---
 
 # Deng Yu-xian : Hakka 1906, les Quatre Chansons des Pluies d'Avril — Les trente-neuf ans du père de la chanson taïwanaise
