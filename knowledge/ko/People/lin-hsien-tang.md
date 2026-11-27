@@ -1,14 +1,14 @@
 ---
-title: '린셴탕: 서고를 타이완인의 공공적인 입구로 전환하다'
-description: '1881년 우펑 린가(霧峰林家)에서 태어난 린셴탕은 량치차오의 조언에 따라 비무장 항일 운동을 전개하고, 타이완 의회 설치 청원 운동을 주도했으며, 세계 일주를 타이완인의 세계 수업으로 기록한 인물이다. 그가 진정한 유산으로 남긴 것은 가문 이름뿐만 아니라 교육, 문화, 자치가 서로 연결될 수 있는 방법이다.'
+title: '린시엔탕: 서재를 대만인을 위한 공공의 입구로 만들다'
+description: '일제강점기 비무장 항일 운동의 지도자로, 1881년 우펑 임가(霧峰林家)에서 태어났다. 1907년 일본 나라에서 양치차오와 필담을 나눈 후 문화 및 정치 운동에 투신하였으며, 1921년부터 대만 의회 설립 청원 운동을 이끌며 14년 동안 15차례의 청원을 제기했고 대만문화협회 총리로 추대되었다. 1927년에는 16개국 60개 도시를 여행하는 378일간의 세계 일주를 통해 해외에서의 견문을 대만의 자치에 대한 사유로 승화시켰다. 또한 그는 모금을 호소하여 타이중 중학교 설립을 이끌어내는 등 가문의 자원을 단계적으로 공공 시설로 전환했다.'
 date: 2026-08-15
 category: 'People'
 tags:
   [
-    '린셴탕',
-    '우펑 린가',
-    '타이완 의회 설치 청원 운동',
-    '타이완 문화 협회',
+    '린시엔탕',
+    '우펑 임가',
+    '대만 의회 설립 청원 운동',
+    '대만문화협회',
     '비무장 항일',
   ]
 subcategory: '政治與民主'
@@ -19,17 +19,17 @@ lastHumanReview: false
 readingTime: 10
 curation: 'incubating'
 translatedFrom: 'People/林獻堂.md'
-sourceCommitSha: '7fa2d9630'
-sourceContentHash: 'sha256:b3b7816f9ed81e72'
+sourceCommitSha: 'c7e3d69aad'
+sourceContentHash: 'sha256:bbd1e8150a03bde0'
 sourceBodyHash: 'sha256:fd90a845acbf3ca4'
-translatedAt: '2026-09-13T01:17:27+08:00'
+translatedAt: '2026-11-27T04:31:38.644598+00:00'
 ---
 
-> **30초 요약:** 1881년 출생으로 우펑 린가(霧峰林家) 출신인 린셴탕은 가문의 자원을 가문 내부에만 머물게 두지 않았다. 그는 1907년 량치차오를 만나 문화, 교육, 정치 운동에 참여했으며, 1921년부터 14년간 15회에 걸쳐 타이완 의회 설치 청원 운동을 주도했다. 1927년에는 378일 동안 16개국 60개 도시를 여행했다. 그가 보고자 했던 것은 단순한 외국 풍경이 아니라, 타이완인이 어떻게 자치를 얻을 수 있는지의 가능성이었다. [^1] [^2] [^3]
+> **30초 요약:** 1881년에 태어난 린셴탕은 우펑 린가 출신이었으나, 가문의 자원을 오로지 가문만을 위해 사용하지 않았다. 그는 1907년 량치차오를 만난 것을 시작으로 문화, 교육 및 정치 운동에 투신하였으며, 1921년부터 타이완 의회 설치 청원 운동을 이끌며 14년 동안 15차례의 청원을 제기했다. 1927년에는 378일 동안 16개국 60개 도시를 여행하기도 했다. 그가 보고자 했던 것은 단순한 외국의 풍경이 아니라, 타이완인이 어떻게 자치를 쟁취할 수 있을지에 대한 가능성이었다.[^1] [^2] [^3]
 
-![린셴탕 초상화](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/%E8%87%BA%E7%81%A3%E6%96%87%E5%8C%96%E8%88%87%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E9%A0%98%E8%A2%96%E6%9E%97%E7%8D%BB%E5%A0%82_Lin_Hsien-tang%2C_Leader_of_Taiwanese_Culture_and_Democracy_Movement.jpg/500px-%E8%87%BA%E7%81%A3%E6%96%87%E5%8C%96%E8%88%87%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E9%A0%98%E8%A2%96%E6%9E%97%E7%8D%BB%E5%A0%82_Lin_Hsien-tang%2C_Leader_of_Taiwanese_Culture_and_Democracy_Movement.jpg)
+![린셴탕 초상](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/%E8%87%BA%E7%81%A3%E6%96%87%E5%8C%96%E8%88%87%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E9%A0%98%E8%A2%96%E6%9E%97%E7%8D%BB%E5%A0%82_Lin_Hsien-tang%2C_Leader_of_Taiwanese_Culture_and_Democracy_Movement.jpg/500px-%E8%87%BA%E7%81%A3%E6%96%87%E5%8C%96%E8%88%87%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E9%A0%98%E8%A2%96%E6%9E%97%E7%8D%BB%E5%A0%82_Lin_Hsien-tang%2C_Leader_of_Taiwanese_Culture_and_Democracy_Movement.jpg)
 
-_그림: 린셴탕 초상화; 퍼블릭 도메인, 원본 파일 및 라이선스 설명은 [위키미디어 코먼즈](https://commons.wikimedia.org/wiki/File:%E8%87%BA%E7%81%A3%E6%96%87%E5%8C%96%E8%88%87%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E9%A0%98%E8%A2%96%E6%9E%97%E7%8D%BB%E5%A0%82_Lin_Hsien-tang,_Leader_of_Taiwanese_Culture_and_Democracy_Movement.jpg)를 참조. [^11]_
+_그림: 린셴탕 초상; Public domain, 원본 파일 및 라이선스 설명은 [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E8%87%BA%E7%81%A3%E6%96%87%E5%8C%96%E8%88%87%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E9%A0%98%E8%A2%96%E6%9E%97%E7%8D%BB%E5%A0%82_Lin_Hsien-tang,_Leader_of_Taiwanese_Culture_and_Democracy_Movement.jpg) 참조.[^11]_
 
 ## 1907년, 나라에서의 필담
 
@@ -131,36 +131,36 @@ _그림: 《관원 선생 일기》 1933년 7월 28일; 퍼블릭 도메인, 원
 
 [린셴탕과 우펑 린가 특별전](https://wwwacc.ntl.edu.tw/fp.asp?fpage=cp&xItem=56548&ctNode=1540&mp=5); [타이완 신문화 운동 기념관 연표](https://tncmmm.gov.taipei/Content_List.aspx?n=2A7801BEF42FD19F); [린셴탕 1927년 세계 일주](https://www.taipeitimes.com/News/feat/archives/2018/12/09/2003705767).
 
-## 참고 자료
+## 참고 문헌
 
-[^1]: [총통, "린셴탕 선생 서거 60주년 문화 기념 음악회 오찬" 참석](https://www.president.gov.tw/NEWS/19865) — 총통부 2015년 활동 뉴스 릴리즈, 린셴탕과 량치차오, 타이완 문화 협회, 교육 사업, 타이완 의회 설치 청원 운동 및 전후 활동의 공식 서술을 정리.
+[^1]: [대통령, '임헌당 선생 서거 60주년 문화 기념 음악회 오찬' 참석](https://www.president.gov.tw/NEWS/19865) — 총통부 2015년 활동 뉴스 보도자료로, 임헌당과 양계초, 대만문화협회, 교육 사업, 대만 의회 설치 청원 운동 및 전후 활동에 관한 공식 서술을 정리함.
 
-[^2]: [린셴탕 선생과 우펑 린가 특별전](https://wwwacc.ntl.edu.tw/fp.asp?fpage=cp&xItem=56548&ctNode=1540&mp=5) — 국립 타이완 도서관 특별전 페이지, 린셴탕의 가문, 서당 교육, 가업, 정치, 문화, 교육, 사회 자선 활동의 큐레이션 초록 제공.
+[^2]: [임헌당 선생과 우펑 린가(霧峯林家) 특별전](https://wwwacc.ntl.edu.tw/fp.asp?fpage=cp&xItem=56548&ctNode=1540&mp=5) — 국립대만도서관 특별전 페이지로, 임헌당의 가문 내력, 사塾 교육, 가업, 정치, 문화, 교육 및 사회 자선 활동에 관한 큐레이션 요약을 제공함.
 
-[^3]: [1934년 9월 2일 타이완 의회 설치 청원 운동 중단](https://tncmmm.gov.taipei/Content_List.aspx?n=2A7801BEF42FD19F) — 타이베이시 타이완 신문화 운동 기념관 연표, 1921년부터 1934년까지 청원 운동의 노선 선택, 정치적 압력, 회수 및 중단 회의 상세 설명.
+[^3]: [1934년 9월 2일 대만 의회 설치 청원 운동 중단](https://tncmmm.gov.taipei/Content_List.aspx?n=2A7801BEF42FD19F) — 타이베이시립 대만 신문화운동 기념관 연표로, 1921년부터 1934년까지의 청원 운동 노선 선택, 정치적 압박, 회수 및 회의 중단 과정을 상세히 기술함.
 
-[^4]: [총통, "린셴탕 선생 서거 60주년 문화 기념 음악회 오찬" 참석](https://www.president.gov.tw/NEWS/19865) — 공식 연설 전체, 량치차오가 린셴탕에 미친 두 번의 영향, 문화 협회 규모, 학교 설립, 전후 경의단 및 2·28 기간 활동 기록.
+[^4]: [대통령, '임헌당 선생 서거 60주년 문화 기념 음악회 오찬' 참석](https://www.president.gov.tw/NEWS/19865) — 공식 축사 전문으로, 양계초가 두 차례 임헌당에게 미친 영향, 문화협회의 규모, 학교 설립, 전후 경의 단체 및 2·28 사건 기간의 활동을 기록함.
 
-[^5]: [Taiwan in Time: A political activist’s journey to the West](https://www.taipeitimes.com/News/feat/archives/2018/12/09/2003705767) — 《타이베이 타임스》 영어권 역사 특집, 일기, 여행기, 연구를 바탕으로 린셴탕의 1927년부터 1928년까지 378일간의 세계 일주 및 정치적 관찰 정리.
+[^5]: [Taiwan in Time: A political activist’s journey to the West](https://www.taipeitimes.com/News/feat/archives/2018/12/09/2003705767) — 《Taipei Times》 영문 역사 특집으로, 일기, 여행기 및 연구를 바탕으로 임헌당의 1927년부터 1928년까지 378일간의 세계 여행과 그 정치적 관찰을 정리함.
 
-[^6]: [Lin Hsien-tang and resistance and adaptation in 20th century Taiwan](https://figshare.utas.edu.au/articles/thesis/Lin_Hsien-tang_and_resistance_and_adaptation_in_20th_century_Taiwan/23252669) — 오스트레일리아 태즈매니아 대학교 공개 박사 논문 초록, 린셴탕이 청조, 일본, 국민정부 통치를 넘나든 생명 경험을 통해 타이완 역사의 변화를 분석.
+[^6]: [Lin Hsien-tang and resistance and adaptation in 20th century Taiwan](https://figshare.utas.edu.au/articles/thesis/Lin_Hsien-tang_and_resistance_and_adaptation_in_20th_century_Taiwan/23252669) — 호주 태즈메이니아 대학교 공개 박사 학위 논문 요약으로, 청나라, 일본 및 국민정부 통치를 거친 임헌당의 생애 경험을 통해 대만 역사의 변화를 분석함.
 
-[^7]: [서사, 재현, 계몽─린셴탕 1927년 일기 및 《환구 유기》의 문화적 의미](https://scholar.lib.ntnu.edu.tw/zh/publications/%E6%95%98%E4%BA%8B%E5%86%8D%E7%8F%BE%E5%95%9F%E8%92%99%E6%9E%97%E7%8D%BB%E5%A0%82%E4%B8%80%E4%B9%9D%E4%BA%8C%E4%B8%83%E5%B9%B4%E6%97%A5%E8%A8%98%E5%8F%8A%E7%92%B0%E7%90%83%E9%81%8A%E8%A8%98%E7%9A%84%E6%96%87%E5%8C%96%E6%84%8F%E7%BE%A9/) — 국립 타이완 사범대학 학술 성과 페이지, 린셴탕 일기와 《환구 유기》의 자서사적 서술, 세계 기억, 문화 계몽 연구 초록 제공.
+[^7]: [서사, 재현, 계몽─임헌당 1927년 일기 및 《환구유기》의 문화적 의미](https://scholar.lib.ntnu.edu.tw/zh/publications/%E6%95%98%E4%BA%8B%E5%86%8D%E7%8F%BE%E5%95%9F%E8%92%99%E6%9E%97%E7%8D%BB%E5%A0%82%E4%B8%80%E4%B9%9D%E4%BA%8C%E4%B8%83%E5%B9%B4%E6%97%A5%E8%A8%98%E5%8F%8A%E7%92%B0%E7%90%83%E9%81%8A%E8%A8%98%E7%9A%84%E6%96%87%E5%8C%96%E6%84%8F%E7%BE%A9/) — 국립대만사범대학교 학술 성과 페이지로, 임헌당의 일기와 《환구유기》가 자기 서사, 세계의 기억 및 문화 계몽에 미친 연구 요약을 제공함.
 
-[^8]: [서사, 재현, 계몽─린셴탕 1927년 일기 및 《환구 유기》의 문화적 의미](https://www.airitilibrary.com/Article/Detail/16081692-200812-201206060006-201206060006-65-91) — 《타이완 문학 학보》 제13호 기사 상세 페이지, 연구 편명, 저자, 학술지 페이지 번호 및 린셴탕 여행 서술의 학술적 맥락 제공.
+[^8]: [서사, 재현, 계몽─임헌당 1927년 일기 및 《환구유기》의 문화적 의미](https://www.airitilibrary.com/Article/Detail/16081692-200812-201206060006-201206060006-65-91) — 《대만문학학보》 제13호 논문 상세 페이지로, 연구 제목, 저자, 학술지 페이지 및 임헌당의 여행 기록에 관한 학술적 맥락을 제공함.
 
-[^9]: [Lin Hsien-Tang’s Taiwanese Home Rule Movement as Inspired by the Irish Model](https://eprints.lse.ac.uk/124781/2/14816169_Taiwan_Culture_Research_Programme_Taiwan_in_Comparative_Perspective_vol_4.pdf) — 런던 정치경제대학교 연구 출판물, 아일랜드 자치 경험과 비교하여 린셴탕의 타이완 자치 운동을 분석, 영어권 학술적 시각과 정치적 사상 배경 보완.
+[^9]: [Lin Hsien-Tang’s Taiwanese Home Rule Movement as Inspired by the Irish Model](https://eprints.lse.ac.uk/124781/2/14816169_Taiwan_Culture_Research_Programme_Taiwan_in_Comparative_Perspective_vol_4.pdf) — 런던 정치경제대학교(LSE) 연구 출판물로, 아일랜드 자치 경험과 임헌당의 대만 자치 운동을 비교하여 영문 학술적 시각과 정치 사상적 배경을 보완함.
 
-[^10]: [타이완 의회 설치 청원 운동 1921-1934년](https://daap.ly.gov.tw/tw/daap/125-3993.html) — 입법원 민주 의정 공원의 역사 스토리 페이지, 청원 운동의 주요 지도자, 타이완 민중당 해산 및 1934년 운동 중단 제도사적 맥락 정리.
+[^10]: [대만 의회 설치 청원 운동 1921-1934년](https://daap.ly.gov.tw/tw/daap/125-3993.html) — 입법원 민주 의정 구역의 역사 이야기 페이지로, 청원 운동의 주요 지도자, 대만민중당 해산 및 1934년 운동 중단에 관한 제도사적 맥락을 정리함.
 
-[^11]: [파일: 타이완 문화와 민주 운동 지도자 린셴탕](https://commons.wikimedia.org/wiki/File:%E8%87%BA%E7%81%A3%E6%96%87%E5%8C%96%E8%88%87%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E9%A0%98%E8%A2%96%E6%9E%97%E7%8D%BB%E5%A0%82_Lin_Hsien-tang,_Leader_of_Taiwanese_Culture_and_Democracy_Movement.jpg) — 위키미디어 코먼즈 파일 페이지; 페이지 표시에 따라 퍼블릭 도메인, 이미지 출처는 린셴탕 문물관.
+[^11]: [File：대만의 문화와 민주 운동 지도자 임헌당](https://commons.wikimedia.org/wiki/File:%E8%87%BA%E7%81%A3%E6%96%87%E5%8C%96%E8%88%87%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E9%A0%98%E8%A2%96%E6%9E%97%E7%8D%BB%E5%A0%82_Lin_Hsien-tang,_Leader_of_Taiwanese_Culture_and_Democracy_Movement.jpg) — Wikimedia Commons 파일 페이지; 페이지 표시에 따라 퍼블릭 도메인(Public domain)이며, 이미지 출처는 임헌당 문물관으로 명시됨.
 
-[^12]: [파일: 린셴탕 일기 1933-07-28](https://commons.wikimedia.org/wiki/File:Diary_of_Lin_Hsien-tang_1933-07-28.jpg) — 위키미디어 코먼즈 파일 페이지; 1933년 7월 28일 《관원 선생 일기》, 페이지 표시에 따라 퍼블릭 도메인.
+[^12]: [File:Diary of Lin Hsien-tang 1933-07-28](https://commons.wikimedia.org/wiki/File:Diary_of_Lin_Hsien-tang_1933-07-28.jpg) — Wikimedia Commons 파일 페이지; 1933년 7월 28일 《관원 선생 일기》, 페이지 표시에 따라 퍼블릭 도메인(Public domain)임.
 
-[^13]: [파일: 린판룽, 린셴탕, 린유룽, 런던에서](https://commons.wikimedia.org/wiki/File:Lin_Panlong,_Lin_Hsien-tang,_and_Lin_Youlong,_at_London.jpg) — 위키미디어 코먼즈 파일 페이지; 1927년 런던 사진, 페이지 표시에 따라 퍼블릭 도메인.
+[^13]: [File:Lin Panlong, Lin Hsien-tang, and Lin Youlong, at London](https://commons.wikimedia.org/wiki/File:Lin_Panlong,_Lin_Hsien-tang,_and_Lin_Youlong,_at_London.jpg) — Wikimedia Commons 파일 페이지; 1927년 런던 단체 사진, 페이지 표시에 따라 퍼블릭 도메인(Public domain)임.
 
-[^14]: [파일: 우펑 린가 우펑 린가 The Lin Family House at Wufeng](https://commons.wikimedia.org/wiki/File:%E9%9C%A7%E5%B3%B0%E6%9E%97%E5%AE%B6_The_Lin_Family_House_at_Wufeng_-_panoramio.jpg) — 위키미디어 코먼즈 파일 페이지; lienyuan lee 촬영, 페이지 표시에 따라 크리에이티브 커먼즈 저작자 표시 3.0 비부속 (CC BY 3.0).
+[^14]: [File：우펑 린가 The Lin Family House at Wufeng](https://commons.wikimedia.org/wiki/File:%E9%9C%A7%E5%B3%B0%E6%9E%97%E5%AE%B6_The_Lin_Family_House_at_Wufeng_-_panoramio.jpg) — Wikimedia Commons 파일 페이지; lienyuan lee 촬영, 페이지 표시에 따라 Creative Commons Attribution 3.0 Unported (CC BY 3.0)임.
 
-[^15]: [머리 내밀기--우펑 신일회 중 타이완 여성 사회 참여](https://ascdc.digitalarchives.tw/subject_1679.html) — 중앙연구원 디지털 컬렉션 특별 기사, 신일회 설립 취지, 조직 부서, 지역 문화 활동, 여성 간부 및 사회 위생 작업 기록.
+[^15]: [두각을 나타내다－－우펑 일신회(一新會) 내 대만 여성의 사회 참여](https://ascdc.digitalarchives.tw/subject_1679.html) — 중앙연구원 디지털 아카이브 특집 기사로, 일신회의 설립 취지, 조직 부문, 지역 문화 활동, 여성 간부 및 사회 위생 사업을 기록함.
 
-[^16]: [린셴탕과 여성 교육--우펑 신일회를 예로 들다](https://www.ntl.edu.tw/public/Attachment/281415581732.pdf) — 국립 타이완 도서관에 수록된 연구 기사, 여성 교육과 우펑 신일회를 통해 린셴탕의 여성관 및 공공 문화 실천 논의.
+[^16]: [임헌당과 여성 교육—우펑 일신회를 중심으로](https://www.ntl.edu.tw/public/Attachment/281415581732.pdf) — 국립대만도서관 수록 연구 논문으로, 여성 교육과 우펑 일신회를 통해 임헌당의 여성관 및 그의 공공 문화 실천을 논함.
