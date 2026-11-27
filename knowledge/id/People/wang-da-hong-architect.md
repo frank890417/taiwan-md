@@ -1,6 +1,6 @@
 ---
-title: 'Wang Da-hong: Penyair Arsitektur yang Membawa Semangat Bauhaus ke Taiwan dan Menatap Jiwa Timur melalui Arsitektur Modern'
-description: 'Pemenang kompetisi desain Memorial Hall Dr. Sun Yat-sen tahun 1965, Wang Da-hong adalah murid maestro Bauhaus Walter Gropius yang menghabiskan hidupnya menjawab ketegangan antara tradisi dan modernitas di Taiwan: arsitekturnya minimalis dan disiplin, namun melalui lengkungan atap dan dinding hitam genteng putih, ia mengukir puisi modernisme paling elegan bagi Taiwan pascaperang.'
+title: 'Wang Da-hong: Membawa Semangat Bauhaus ke Taiwan, Penyair Arsitektur yang Menatap Jiwa Timur dengan Arsitektur Modern'
+description: 'Seorang penyair arsitektur yang belajar dari pendiri Bauhaus, Walter Gropius, lulusan Universitas Cambridge dan Universitas Harvard, yang mendedikasikan hidupnya untuk menjawab ketegangan antara tradisi dan modernitas setelah kembali ke Taiwan. Pada tahun 1965, ia memenangkan kompetisi desain Monumen Sun Yat-sen dengan menambahkan lengkungan atap yang dihitung secara geometris ketat pada struktur modern; rumah pribadinya di Jalan Jianguo Selatan yang dirancang sendiri pada tahun 1953 kemudian dibangun kembali di dekat Museum Seni Taipei. Karyanya tersebar mulai dari gedung kantor Kementerian Luar Negeri hingga Honglu, dan di masa tuanya ia menulis novel fiksi ilmiah berbahasa Inggris berjudul "Phantom City", wafat dalam usia 101 tahun.'
 date: 2026-08-18
 category: 'People'
 tags:
@@ -8,7 +8,7 @@ tags:
     'Wang Da-hong',
     'Arsitektur Taiwan',
     'Modernisme',
-    'Memorial Hall Dr. Sun Yat-sen',
+    'Monumen Sun Yat-sen',
     'Penyair Arsitektur',
     'Bauhaus',
     'Rumah Pribadi Jalan Jianguo Selatan',
@@ -21,10 +21,10 @@ lastHumanReview: false
 revision: 2
 curation: 'incubating'
 translatedFrom: 'People/王大閎.md'
-sourceCommitSha: 'ad1003d60'
+sourceCommitSha: '2556505034'
 sourceContentHash: 'sha256:efe79d1571f630fc'
 sourceBodyHash: 'sha256:c9962896cf42e163'
-translatedAt: '2026-10-15T01:07:22+08:00'
+translatedAt: '2026-11-27T02:00:17.302804+00:00'
 ---
 
 > **Ringkasan 30 Detik:**

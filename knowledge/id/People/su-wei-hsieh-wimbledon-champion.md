@@ -1,6 +1,6 @@
 ---
-title: 'Hsieh Su-wei: Hsinchu 1986, Juara Grand Slam Pertama Taiwan dan Tujuh Gelar Ganda Putri'
-description: 'Lahir di Hsinchu, 4 Januari 1986. Ayahnya, Hsieh Tzu-lung (supir bus Taiwan Motor Transport), meninggal Oktober 2023. Peringkat tertinggi WTA single nomor 23 (2013). Juara ganda putri Grand Slam tujuh kali (Wimbledon 2013/French Open 2014/Wimbledon 2019/Wimbledon 2021/French Open 2023/Wimbledon 2023/Australian Open 2024). Wanita Taiwan pertama yang lolos ke semifinal single Grand Slam di Australian Open 2021. Runner-up ganda putri Wimbledon Juli 2025.'
+title: 'Hsieh Su-wei: Hsinchu 1986, Juara Grand Slam Pertama Taiwan dengan Tujuh Gelar Ganda Putri'
+description: 'Pemain tenis profesional yang lahir di Hsinchu dan tumbuh besar berkat dukungan penuh ayahnya yang bekerja sebagai sopir bus Taiwan Formosa Plastics. Pada tahun 2013, ia berpasangan dengan Peng Shuai untuk memenangkan gelar ganda putri Wimbledon, menjadikannya pemenang Grand Slam pertama dalam sejarah Taiwan, sementara peringkat tunggalnya naik ke posisi ke-23 dunia pada tahun yang sama. Selama sebelas tahun, ia mengumpulkan tujuh trofi Grand Slam ganda putri bersama berbagai pasangan berbeda. Pada tahun 2021, di usia 35 tahun, ia menjadi wanita Taiwan pertama yang mencapai semifinal tunggal di Australian Open, dan pada tahun 2025, ia kembali mencapai final ganda putri di Wimbledon dan meraih posisi runner-up.'
 date: 2026-03-19
 category: 'People'
 tags:
@@ -19,10 +19,10 @@ lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
 translatedFrom: 'People/謝淑薇.md'
-sourceCommitSha: '0f8fae0ae'
-sourceContentHash: 'sha256:8bead15b6529d1be'
+sourceCommitSha: '2a5b98d9cd'
+sourceContentHash: 'sha256:e699feede1257135'
 sourceBodyHash: 'sha256:86d8a4b7771c32c4'
-translatedAt: '2026-08-03T21:00:12.305406+00:00'
+translatedAt: '2026-11-27T02:17:21.991444+00:00'
 ---
 
 # Hsieh Su-wei: Hsinchu 1986, Taiwan's First Grand Slam Champion with Seven Women's Doubles Trophies

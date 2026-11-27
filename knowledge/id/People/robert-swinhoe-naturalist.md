@@ -1,17 +1,17 @@
 ---
-title: 'Robert Swinhoe: Sang Diplomat yang Menjadi Ahli Biologi'
-description: 'Pada tahun 1856, seorang pejabat penerjemah Inggris berusia 19 tahun mencatat burung pertama yang dilihatnya di pantai barat Formosa. Empat tahun kemudian, ia melalui 52 makalah ilmiah memperkenalkan kepada dunia makhluk-makhluk yang mendiami pulau ini. Ia meninggal di London pada usia 41 tahun, namun spesies-spesies yang ia namakan hingga kini masih hidup di hutan-hutan Taiwan.'
+title: 'Swinhoe: Ketika Diplomat Menjadi Naturalis'
+description: 'Diplomat dan naturalis Inggris yang pertama kali menginjakkan kaki di Formosa pada usia 19 tahun sebagai penerjemah. Ia menjabat sebagai wakil konsul Inggris pertama di Formosa pada tahun 1860, dan naik jabatan menjadi konsul pada tahun 1865. Selama sekitar empat tahun di Taiwan, ia menerbitkan 52 makalah akademis, mencatat 227 spesies burung, hampir 40 spesies mamalia, dan 246 spesies tumbuhan, yang memperkenalkan keanekaragaman hayati pulau ini kepada dunia untuk pertama kalinya. Ia dijuluki oleh para ahli ornitologi sezamannya sebagai "salah satu penjelajah alam paling sukses dalam sejarah". Empat spesies mamalia dan lima belas spesies burung dinamai menurut namanya, termasuk Kingfisher Perut Biru dan kura-kura bercak; ia meninggal dunia di London pada tahun 1877 dalam usia 41 tahun.'
 date: 2026-04-12
 category: 'People'
 tags:
   [
-    'biologi alam',
-    'konsul Inggris',
-    'sejarah alam',
-    'burung',
-    'spesies endemik Taiwan',
-    'pembukaan pelabuhan perdagangan',
-    'abad ke-19',
+    'Naturalisme',
+    'Konsul Inggris',
+    'Sejarah Alam',
+    'Burung',
+    'Spesies Endemik Taiwan',
+    'Pembukaan Pelabuhan dan Perdagangan',
+    'Abad ke-19',
   ]
 subcategory: '歷史人物'
 author: 'Taiwan.md'
@@ -22,10 +22,10 @@ image: ''
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/史溫侯.md'
-sourceCommitSha: 'b1a5fea00'
+sourceCommitSha: '3f269cde5e'
 sourceContentHash: 'sha256:50b13c3a31e0a1c0'
 sourceBodyHash: 'sha256:e6b263814c7b1995'
-translatedAt: '2026-11-17T17:56:57.931039+00:00'
+translatedAt: '2026-11-27T01:20:38.483866+00:00'
 ---
 
 # Robert Swinhoe: Sang Diplomat yang Menjadi Ahli Biologi

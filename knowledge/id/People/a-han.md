@@ -1,20 +1,20 @@
 ---
-title: 'Ah Han: Bocah Hualien yang Bermain Seluruh Jalur Sendirian, Lalu Dimarahi Kembali oleh Penduduk Jalur'
-description: 'Zeng Wenhan, bocah Hualien yang lulus dari Departemen Animasi National Taipei University of Arts, memerankan seluruh karakter di jalur Taiwan—Ruan Yuejiao, Liao Lifang, Liao Lizhu—sendirian. Iklan Festival Uga (Zhongyuan) tahun 2022-nya ditarik setelah istri-istri Vietnam yang sesungguhnya memprotes peran menantu Vietnam yang ia bawakan.'
+title: 'A-Han: Pria Hualien yang Memerankan Seluruh Penghuni Gang Sendirian, Lalu Dikritik Kembali oleh Warga Gangnya'
+description: 'Pria Hualien lulusan Jurusan Animasi TNUA, sejak 2015 mengelola "A-Han po Video", memerankan seluruh penghuni gang Taiwan sendirian: dukun Liao Li-fang, menantu Vietnam Nguyễn Nguyệt Kiều, pemilik kos Liao Li-zhu, ibu kosong nasi campur. Karya andalannya Jiutian Xuannü mengumpulkan lebih dari 13 juta tayangan, 2022 membuka pesta Penghargaan Golden Bell kategori drama; iklan Hari Moyang tahun yang sama justru dicabut karena peran Nguyễn Nguyệt Kiều diprotes oleh Kongres Keturunan Vietnam. Meniru gang dan tinggal di gang, dari dulu bukan hal yang sama.'
 date: 2026-05-11
 category: 'People'
 tags:
   [
-    'Ah Han',
-    'Video Ah Han',
+    'A-Han',
+    'A-Han po Video',
     'YouTuber',
-    'Parodi',
-    'Ruan Yuejiao',
-    'Liao Lifang',
-    'Penduduk Baru',
+    'Meniru',
+    'Nguyễn Nguyệt Kiều',
+    'Liao Li-fang',
+    'Pendatang Baru',
     'Hualien',
-    'National Taipei University of Arts',
-    'Golden Bell Awards',
+    'TNUA',
+    'Penghargaan Golden Bell',
   ]
 subcategory: 'Internet'
 author: 'Taiwan.md Contributors'
@@ -25,10 +25,10 @@ readingTime: 12
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/阿翰.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'a9322956ed'
 sourceContentHash: 'sha256:657a4770554a59cc'
 sourceBodyHash: 'sha256:7dbe663cdddeba6e'
-translatedAt: '2026-11-04T19:25:47.237903+00:00'
+translatedAt: '2026-11-27T02:02:30.516425+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Zeng Wenhan yang lahir di Hualien pada 1994, lulus dari Jurusan Animasi Universitas Seni Nasional Taipei setelah belajar di Kelas Seni SMA Perempuan Hualien, mulai mengelola saluran YouTube "Ah Han Po Video" pada 2015[^1]. Ia memerankan Liao Lifang, Ruan Yuejiao, Liao Lizhu, Bibi Bufet—seluruh karakter di lorong Taiwan—sendirian. Karyanya yang mewakili, 〈Bibi Peramal Dewi Xuan Tian 9: Dewi Langit Menyebar Bunga〉, telah mengumpulkan lebih dari 13 juta penayangan[^2]. Namun pada iklan Festival Tengah Bulan 2022, perannya sebagai menantu Vietnam ditarik turun setelah protes dari menantu Vietnam asli—seorang anak laki-laki Hualien yang membangun lorong Taiwan dengan tiranannya, ditanya oleh orang-orang di lorong itu: "Mengapa posisi ini bukan aku?"

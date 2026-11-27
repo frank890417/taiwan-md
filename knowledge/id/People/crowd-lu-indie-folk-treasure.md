@@ -1,6 +1,6 @@
 ---
-title: 'Crowd Lu: Raja Tiga Emas yang Kakinya Dilanggar Bus'
-description: 'Pada 2003, seorang pemuda Tainan bersepeda membeli makanan malam, kakinya dilanggar bus, patah hancur. Selama dirawat karena bosan, dia memetik gitar hadiah sepupunya. 22 tahun kemudian, dia menjadi pemenang Grand Slam Tiga Emas termuda dalam sejarah Taiwan: Golden Melody, Golden Bell, Golden Horse, menempuh jalan dengan satu gitar dan sepasang kaki yang pernah patah.'
+title: 'Crowd Lu: Sang Pemenang Tiga Penghargaan Besar yang Pernah Terlindas Bus'
+description: 'Pada tahun 2003, seorang pemuda asal Tainan mengalami patah kaki akibat terlindas bus saat sedang berkendara untuk membeli camilan malam. Selama masa perawatan di rumah sakit, ia belajar gitar secara otodidak, dan sejak saat itu ia mulai menapaki dunia musik hanya dengan sebuah gitar. Debut pada tahun 2008 dan memenangkan Penghargaan Pendatang Baru Terbaik Golden Melody Awards pada tahun berikutnya, ia sempat tidak masuk nominasi selama delapan tahun berikutnya, bahkan pernah berjalan kaki dari Taipei kembali ke Tainan untuk menemukan jati dirinya; pada tahun 2017, ia meraih penghargaan ganda Golden Bell Awards melalui adegan ritual pemakaman dengan teknik one-shot dalam film "A Sun", dan pada tahun 2020 memenangkan Golden Horse Awards lewat lagu "Your Name Engraved Herein". Di usia tiga puluh lima tahun, ia menjadi pemenang Grand Slam Tiga Penghargaan Besar termuda di Taiwan.'
 date: 2026-04-07
 category: 'People'
 tags:
@@ -9,16 +9,16 @@ tags:
     'Crowd Lu',
     'Penyanyi',
     'Aktor',
-    'Anugerah Golden Melody',
-    'Anugerah Golden Bell',
-    'Anugerah Golden Horse',
-    'Tiga Emas',
+    'Golden Melody Awards',
+    'Golden Bell Awards',
+    'Golden Horse Awards',
+    'Tiga Penghargaan Besar',
     'Tainan',
-    'Flower Jia Boys',
-    'Fish',
+    'A Sun',
+    'Yu Zai',
     'Bahasa Taiwan',
-    'Musik Indie',
-    'Masyarakat Adat',
+    'Musik Independen',
+    'Suku Asli',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
@@ -27,10 +27,10 @@ lastVerified: 2026-04-07
 lastHumanReview: true
 readingTime: 12
 translatedFrom: 'People/盧廣仲.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '8fc70bd881'
 sourceContentHash: 'sha256:a21c857b64fd8e71'
 sourceBodyHash: 'sha256:090ff0c53b31ba5d'
-translatedAt: '2026-07-25T09:23:05+08:00'
+translatedAt: '2026-11-27T01:43:20.023418+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Crowd Lu, lahir 1985 di Rende, Tainan, saat kuliah tahun pertama kakinya dilanggar bus saat beli makanan malam, patah hancur. Selama dirawat belajar gitar otodidak. 2008 debut, 2009 juara Anugerah Golden Melody Penyanyi Baru Terbaik, diikuti gurun delapan tahun tanpa nominasi. 2017 lewat _Flower Jia Boys_ monolog doa 7 menit satu take mengejutkan industri, juara ganda Anugerah Golden Bell; 2020 "Your Name Engraved Herein" meraih Anugerah Golden Horse Lagu Film Original Terbaik—usia 35 tahun menjadi pemenang Grand Slam Tiga Emas termuda sejarah Taiwan. 2026 tiket konser habis dalam satu menit, scalper membuka harga 60.000 TWD.

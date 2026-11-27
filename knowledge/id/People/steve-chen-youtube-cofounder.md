@@ -1,16 +1,16 @@
 ---
-title: 'Chen Shih-chun: Dari Amerika ke Taiwan, Kisah Pendiri YouTube yang Berjuang Melawan Tumor Otak'
-description: 'Ia meninggalkan Taiwan pada usia delapan tahun, membangun tempat unggah video di AS pada usia dua puluh tujuh tahun, menjualnya seharga 1,65 miliar dolar dalam dua puluh bulan, lalu kembali bersama istri dan anak setelah didiagnosis tumor otak.'
+title: 'Chen Shijun'
+description: 'Salah satu pendiri berketurunan Taiwan paling terkenal di Silicon Valley, berimigrasi ke Amerika Serikat pada usia delapan tahun, bergabung dengan PayPal sebelum lulus kuliah. Pada tahun 2005, mendirikan YouTube di garasi bersama dua mantan rekan kerja, dan menjualnya ke Google seharga 1,65 miliar dolar AS dua puluh bulan kemudian. Setelah akuisisi, didiagnosis menderita aneurisma otak, menjalani dua kali operasi pembukaan tengkorak dan lima belas kali kejang epilepsy. Pada tahun 2019, kembali ke Taiwan bersama istri dan anak-anak untuk menetap, dan menerima Kartu Emas Ketenagakerjaan pertama di Taiwan; sejak saat itu terus membawa startup Taiwan ke panggung dunia.'
 date: 2026-04-06
 category: 'People'
 tags:
   [
-    'Chen Shih-chun',
+    'Chen Shijun',
     'YouTube',
     'Silicon Valley',
-    'Startup',
-    'Golden Visa',
-    'Tumor Otak',
+    'startup',
+    'Kartu Emas Ketenagakerjaan',
+    'tumor otak',
   ]
 subcategory: '科技與創業'
 author: 'Taiwan.md Contributors'
@@ -21,10 +21,10 @@ readingTime: 8
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/陳士駿.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '630afb2b66'
 sourceContentHash: 'sha256:ba95870558368ba6'
 sourceBodyHash: 'sha256:10a502d58bab93f7'
-translatedAt: '2026-11-04T21:18:23.976472+00:00'
+translatedAt: '2026-11-27T01:54:53.737302+00:00'
 ---
 
 # Chen Shih-chun

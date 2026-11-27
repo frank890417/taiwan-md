@@ -1,13 +1,13 @@
 ---
-title: 'Shen Sheng-po'
-description: 'Memajurkan ilmu komputer, namun membawa bahasa pemrograman ke ranah seni kontemporer Taiwan. Dalam hidupnya yang singkat berusia tiga puluh empat tahun, Shen Sheng-po meninggalkan tidak hanya karya seni digital, melainkan semangat eksperimen yang memandang pemrograman sebagai kehidupan dan perangkat lunak bebas sebagai etika kreatif.'
+title: 'Shen Sheng-bo'
+description: 'Seniman digital dan insinyur seni Taiwan, lahir pada 1980 di Changhua, kuliah ilmu komputer namun beralih ke seni teknologi, menganjurkan "program adalah kehidupan", menganggap aturan digital dan logika algoritma sebagai inti kreatif. Ia mempromosikan FLOSS+ART, membuka kursus Processing, mendirikan forum pembelajaran, juga anggota OpenLab.Taipei, pada 2011 mendirikan Ruang Youwei di Taichung, memberi ruang bagi eksperimen. Setelah menderita kanker usus besar pada 2009 tetap menciptakan, meninggal dunia pada 2014, berusia baru 34 tahun, karyanya seperti "pin shadow" dan "texture" hingga kini masih direstorsi dan dipentaskan kembali.'
 date: 2026-03-23
 category: 'People'
 tags:
   [
-    'tokoh',
-    'seni digital',
-    'seni media baru',
+    'Tokoh',
+    'Seni Digital',
+    'Seni Media Baru',
     'FLOSS+ART',
     'OpenLab.Taipei',
     'Taiwan',
@@ -21,10 +21,10 @@ lastHumanReview: false
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/沈聖博.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '3f269cde5e'
 sourceContentHash: 'sha256:36208e14ce1c380c'
 sourceBodyHash: 'sha256:5eb269f5e4d722c4'
-translatedAt: '2026-11-04T20:49:52.695569+00:00'
+translatedAt: '2026-11-27T01:47:40.103516+00:00'
 ---
 
 # Shen Sheng-po

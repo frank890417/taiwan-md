@@ -1,13 +1,13 @@
 ---
-title: 'Tung Tzu-hsien (童子賢): Dari Institut Teknologi Taipei, Pegatron Menjadi Mitrakode Apple Terbesar'
-description: 'Lahir 25 Juni 1960, Tung Tzu-hsien (童子賢) lulus Jurusan Elektronika Institut Teknologi Taipei (kini Universitas Teknologi Nasional Taipei), bukan Teknik Elektro Universitas Taiwan. Bergabung Asus 1988, memimpin pemisahan 1 Januari 2008, mendirikan Pegatron, jadi pabrik ODM Apple, Sony, Nintendo. Investasi Eslite Bookstore 2019. 2025 masih mengemukakan kebijakan energi "nuklir-hijau berdampingan".'
+title: 'Tong Zixian: Dari Institut Teknologi Taipei, Pegatron Menjadi Mitra Manufaktur Terbesar Apple'
+description: 'Pengusaha industri elektronik Taiwan, lulus jurusan Elektronika di Institut Teknologi Taipei, bukan lulusan Teknik Elektro Universitas Taiwan. Bergabung dengan ASUS Computer pada 1988, memimpin pemisahan brand dan manufaktur kontrak pada 1 Januari 2008, mendirikan Pegatron Corporation, menjadi pabrik manufaktur kontrak untuk brand seperti Apple, Sony, Nintendo. Pada 2019 membeli saham Eslite Bookstore, berpendapat "suatu masyarakat butuh toko buku, layaknya butuh rumah sakit"; ia juga salah satu pengusaha di industri teknologi yang paling terbuka menyikapi kebijakan energi, lama mengadvokasi "keseimbangan nuklir dan hijau".'
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    'Teknologi & Bisnis',
+    'Teknologi dan Bisnis',
     'Pegatron',
-    'Elektronik ODM',
+    'Manufaktur Kontrak Elektronik',
     'ODM',
     'Kebijakan Energi',
   ]
@@ -18,10 +18,10 @@ lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
 translatedFrom: 'People/童子賢.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '3f269cde5e'
 sourceContentHash: 'sha256:741173e056926b2c'
 sourceBodyHash: 'sha256:7f6ff2dde21c6686'
-translatedAt: '2026-08-04T06:18:07+08:00'
+translatedAt: '2026-11-27T02:12:58.440793+00:00'
 ---
 
 # Tung Tzu-hsien (童子賢): Dari Institut Teknologi Taipei, Pegatron Menjadi Mitrakode Apple Terbesar

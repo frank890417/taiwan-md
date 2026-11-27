@@ -1,15 +1,15 @@
 ---
-title: 'Mavis Fan: Dari "Gadis Kecil Penyihir" 〈Lagu Kesehatan〉 ke Vokalis Band 100%, Tiga Dekade Menolak Didefinisikan oleh Satu Era'
-description: 'Pada 1996, Mavis Fan berusia 19 tahun menjadi "gadis kecil penyihir" seluruh Taiwan berkat satu lagu 〈Lagu Kesehatan〉. Pada 1998 ia mencukur rambut botak, merilis 《Darling》 mengisytiharkan "membuat musik milik sendiri"; 2001 beralih ke jazz 《Diva Legendaris》; 2007 mendirikan band 100%. Pada 2025 ia berusia 48 tahun, 《Passerby》 adalah karya baru band setelah 16 tahun——tiga dekade, ia mengurai satu per satu "mimpi yang diberikan orang lain".'
+title: 'Fan Xiaoxuan: Dari si Penyihir Kecil dalam 〈Lagu Kesehatan〉 hingga Vokalis Band 100%, Tiga Dekade Menolak Didefinisikan oleh Satu Era'
+description: 'Dari sosok penyihir kecil berkuncir kuda dalam 〈Lagu Kesehatan〉, menjadi penyanyi penulis lagu yang memangkas rambutnya sebagai pernyataan untuk membuat musik sendiri. Debut pada tahun 1995, meraih Golden Melody Awards melalui 《Aku Ingin Kita Bersama》 pada tahun 1999, beralih ke genre jazz dengan 《Diva Tak Tertandingi》 pada tahun 2001, melewati masa depresi selama hampir tiga tahun, membentuk band 100% bersama tiga anggota lainnya pada tahun 2007, dan memenangkan Penghargaan Produser Rekaman Terbaik Golden Melody Awards melalui 〈Tuan Rumah〉 pada tahun 2010; serta merilis karya terbaru 《Pengembara》 pada tahun 2025 setelah enam belas tahun. Selama tiga puluh tahun berkarier, ia berulang kali menolak untuk didefinisikan oleh gaya satu era saja.'
 date: 2026-04-20
 category: 'People'
 tags:
   [
     'Musik',
-    'Penyanyi Ciptaan',
-    'Anugerah Golden Melody',
+    'Penyanyi Penulis Lagu',
+    'Golden Melody Awards',
     'Band 100%',
-    'Pop Mandarin',
+    'Musik Pop Mandarin',
   ]
 subcategory: '音樂人'
 author: 'Taiwan.md'
@@ -20,10 +20,10 @@ researchReport: 'reports/research/2026-04/范曉萱.md'
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/范曉萱.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '8fc70bd881'
 sourceContentHash: 'sha256:752a0e7cddd9b38d'
 sourceBodyHash: 'sha256:7cceb716a616fa6b'
-translatedAt: '2026-09-07T20:24:46.058231+00:00'
+translatedAt: '2026-11-27T01:30:59.493142+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Mavis Fan (范曉萱, lahir tahun 1977), penyanyi kreatif dari Taiwan. Ia debut pada usia 18 tahun dengan lagu 《Rain》 pada tahun 1995, dan pada tahun 1996 ia menjadi idola anak-anak yang paling populer di seluruh Taiwan dengan 〈Lagu Sehat〉 (健康歌). Pada tahun 1998, ia melakukan transformasi dengan mencukur rambutnya untuk album _Darling_, dan pada tahun 1999, ia memenangkan Penghargaan Album Lagu Pop Terbaik ke-11 [Golden Melody Award](/id/music/pop-music-and-golden-melody-awards/) dengan 《Aku Ingin Kita Bersama》 (我要我們在一起). Pada tahun 2001, ia mengambil jalur jazz dengan 《Diva yang Tak Tertandingi》 (絕世名伶), pada tahun 2007 ia membentuk grup Mavis Fan & 100%, dan pada tahun 2010 ia memenangkan Penghargaan Produser Lagu Terbaik ke-21 Golden Melody Award dengan 〈Tuan〉 (主人). Pada Desember 2025, ia merilis 《Pengembara》 (過客)—16 tahun setelah album sebelumnya. Selama tiga dekade, ia berulang kali menolak untuk didefinisikan oleh satu era.
