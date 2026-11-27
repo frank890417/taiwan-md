@@ -1,15 +1,15 @@
 ---
-title: 'Mohanaw: Dua Macam Buta, Satu Antologi Puisi'
-description: 'Mohanaw (Mulaneng), penyair adat asli pertama yang menerbitkan antologi puisi modern berbahasa Tionghoa, kehilangan penglihatannya pada 1979 dan buku puisi "Padi yang Indah" diterbitkan oleh Morning Star pada 1989. Baris " slogan yang ditentukan oleh 18,5 juta orang / tidak mendengar desis kami" menuliskan pertanyaan "siapa yang seharusnya dianggap sebagai orang Taiwan" dalam 30 puisi — 37 tahun kemudian, pertanyaan itu masih belum terjawab.'
+title: 'Monaneng: Dua Jenis Kebutaan, Satu Kumpulan Puisi'
+description: 'Penyair suku Paiwan, lahir 1956 di Desa Aluwei, Kecamatan Daren, Taitung, adalah penyair asli pertama di Taiwan yang menerbitkan kumpulan puisi modern dalam bahasa Tionghoa. Pada 1979 ia menjadi buta total setelah kecelakaan truk barang yang menyebabkan konvulsio otak. Puisi-puisinya pertama kali dicatat secara lisan pada 1984 saat minum-minum dan bernyanyi, ditulis oleh Li Ji dan diterbitkan. Pada 1989 Morning Star menerbitkan "Biji Padi yang Indah", dengan kata pengantar Chen Yingzhen menyebutnya "penyair koloni di dalam Taiwan". Ia berjalan dengan tongkat melewati jalanan untuk menyelamatkan anak-anak perempuan dan menuntut kembali tanah mereka. Membaca puisi-puisinya memiliki dua kesulitan: secara fisik ia tidak bisa melihat, secara politik banyak pembaca juga tidak mau melihat.'
 date: 2026-06-03
 category: 'People'
 tags:
   [
-    'adat asli',
-    'puisi',
-    'sastra',
-    'suku Pawon',
-    'gerakan adat asli',
+    'Orang Asli',
+    'Puisi',
+    'Sastra',
+    'Suku Paiwan',
+    'Gerakan Orang Asli',
     'Taitung',
     '1980-an',
   ]
@@ -28,10 +28,10 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Daren_Township,_Taiwan.jpg
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/莫那能.md'
-sourceCommitSha: 'be13f045'
-sourceContentHash: 'sha256:f5aebb543340d143'
-sourceBodyHash: 'sha256:2f3617098391a7c1'
-translatedAt: '2026-09-16T11:57:33+08:00'
+sourceCommitSha: 'e7e1bb5735'
+sourceContentHash: 'sha256:a095996d9797f69b'
+sourceBodyHash: 'sha256:e51dd9f7a0df41eb'
+translatedAt: '2026-11-27T04:26:28.866794+00:00'
 ---
 
 # Mohanaw: Dua Macam Buta, Satu Antologi Puisi
@@ -51,20 +51,20 @@ Detail-detail ini penting karena banyak dokumen literatur koleksi pemerintah men
 
 > 📝 **Catatan kurator:** Mohanaw bukanlah seseorang yang baru mengenal isu sosial setelah mulai menulis puisi. Ia adalah saksi dari lintasan ini, kemudian pada usia tiga puluh tahun ia menuliskannya dalam puisi. Urutan "pengalaman dulu, kemudian puisi" penting untuk memahami ia.
 
-## Sebuah Kecelakaan Mencuri Cahaya
+## Sebuah Kecelakaan Mobil Mencuri Cahaya
 
-Pada saat pemeriksaan kesehatan di sekolah menengah, ia mendapatkan kabar: matanya memiliki **retinokoroidopati** (penyakit retina genetik yang menurun secara progresif). Akhirnya buta, hanya soal waktu[^6].
+Saat pemeriksaan kesehatan di sekolah menengah, ia diberitahu satu hal: matanya menderita **retinitis pigmentosa**, yaitu suatu penyakit degenerasi retina yang bersifat keturunan dan berangsur-angsur memburuk. Akhirnya akan buta, hanya soal waktu[^6].
 
-Setelah lulus SMP, ia masuk **Akademi Teknik Udara**. Namun saat pendaftaran, pemeriksaan kesehatan gagal karena retinokoroidopati. Mimpi di angkasa udara pupus. Kemudian ia juga mempertimbangkan Taitung Norml, Akademi Kepolisian — semuanya gagal karena masalah penglihatannya. Bagi seorang remaja pegunungan pada 1970-an, jalur mobilitas terbatas ini satu per satu tersumbat[^6].
+Setelah lulus SMP, ia diterima di **Sekolah Mekanik Angkatan Udara**. Saat melapor, pemeriksaan kesehatan tidak lulus karena retinitis pigmentosa. Mimpi angkatan udara berakhir. Kemudian ia juga mempertimbangkan Akademi Guru Taitung dan Akademi Kepolisian — keduanya tidak bisa dilanjutkan karena masalah penglihatan. Satu demi satu, saluran mobilitas sosial ke atas yang sudah tidak banyak bagi seorang remaja pegunungan pada tahun 1970-an, tertutup[^6].
 
-Kemudian pada 1972, ia ditipu oleh pedagang budak. Pada 1977, adiknya dijual oleh sepupu kepada seorang pekerja pengganti sebagai gadis kenari; ia mencari uang di banyak tempat, berdiri di depan rumah tempat penggunaan keras, dan menyelamatkan adiknya; dalam prosesnya ia dipukul, sehingga penglihatannya semakin buruk[^7].
+Kemudian pada 1972 terjadi penculikan oleh pedagang manusia. Pada 1977, adik perempuannya dijual oleh suami sepupu ke lupanar sebagai pelacur kecil; ia meminjam uang ke sana-sini, menunggu di depan pintu lupanar tengah malam, dan berhasil menyelamatkan adiknya; dalam proses itu ia dipukuli, dan penglihatannya semakin memburuk[^7].
 
-Kejadian yang menentukan adalah **1979**. Ia sedang bekerja di perusahaan angkutan, terlibat kecelakaan, mengalami guncangan otak, dan di rumah sakit dalam koma hampir dua bulan. Setelah bangun, matanya kanan buta total, matanya kiri hanya 0.2[^8]. Wikipedia mencatat ia berusia 23 tahun; Kamus Sastra Nasional Taiwan menuliskan 24 tahun; wawancara majalah "Observasi" dan "Original Sight" menuliskan 26 dan 27 tahun[^9]. Berbagai versi beredar, namun pernyataan langsung dari Mohanaw pada 2022 jelas menyatakan "1979, saat bekerja di perusahaan angkutan"[^10].
+Kecelakaan yang menentukan terjadi pada **1979**. Ia bekerja mengangkut barang, mengalami kecelakaan mobil, commotio cerebri, dan koma di rumah sakit selama hampir dua bulan. Saat bangun, mata kananya buta total, mata kiri penglihatan 0,2[^8]. Wikipedia mencatat usianya 23 tahun; Kamus Museum Sastra Nasional Taiwan menulis 24 tahun; wawancara majalah _Original Sight_ dan _Observation_ menulis 26, 27 tahun[^9]. Berbagai versi beredar, tapi kesaksian lisan Mohanaw sendiri pada 2022 jelas menyatakan "1979, saat bekerja mengangkut barang"[^10].
 
-Kemudian ia belajar pijat di **Rumah Pemulihan Buta Taiwan**, belajar menulis Braille. Kemudian ia membuka sebuah tempat pijat kecil di Taipei, bernama "Pijat Mohanaw"[^11]. Ia bukanlah "penyaji pijat jalanan" (sering disebut di internet, sebenarnya tidak akurat), ia memiliki tempat usaha fisik, di sana ia menulis puisi dengan Braille — **tetapi puisi tidak dimulai dari Braille**.
+Kemudian ia pergi ke **Lembaga Rehabilitasi Buta Taiwan** belajar pijat dan Braille. Kemudian di Taipei ia mengelola sebuah klinik pijat kecil, bernama "Klinik Pijat A-neng"[^11]. Ia bukan "tukang pijat jalanan" (sering ditulis begitu di internet, sebenarnya tidak tepat), ia memiliki toko fisik, dan di toko itu ia menulis puisi dengan Braille — **tapi puisi tidak bermula dari Braille**.
 
-![Pertunjukan tari dan lagu tradisional suku Pawon, tiga orang mengenakan pakaian tradisional dan tampil bersama. Puisi Mohanaw pada 1984 awalnya juga seperti ini, lahir dari minum, lisan, dan bernyanyikan dalam suaranya, kemudian dituliskan oleh orang lain.](/article-images/people/monaneng-paiwan-song-dance-2018.webp)
-_ Pertunjukan tari dan lagu suku Pawon (Festival Budaya Suku Asli Riddu Riđđu, Nordik, 2018) — mencerminkan skenario asal-usul 1984 saat Mohanaw bernyanyikan puisi sambil minum di rumah Yang Du. Foto: Riddu Riđđu Festival via Flickr. [Lisensi melalui Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Familieforestilling_-_Paiwan_sang_og_dans_(41534824410).jpg) CC BY-SA 2.0.\_
+![Pertunjukan tarian dan lagu tradisional suku Paiwan, tiga orang suku berpakaian adat berdampingan. Puisi Mohanaw pada 1984 awalnya juga demikian, dalam bentuk minum-minum, lisan, dinyanyikan keluar dari mulutnya, lalu dicatat orang lain.](/article-images/people/monaneng-paiwan-song-dance-2018.webp)
+_Pertunjukan tarian dan lagu tradisional suku Paiwan (Festival Budaya Suku Asli Riddu Riđđu Eropa Utara, 2018) — sesuai dengan konteks asal 1984 Mohanaw di rumah Yang Du minum-minum sambil mengucapkan puisi. Foto: Riddu Riđđu Festival via Flickr. [Lisensi via Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Familieforestilling_-_Paiwan_sang_og_dans_(41534824410).jpg>) CC BY-SA 2.0.\_
 
 ## Minum di Rumah Yang Du, Menyanyikan Puisi
 

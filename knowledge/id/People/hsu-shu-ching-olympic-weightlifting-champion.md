@@ -1,15 +1,15 @@
 ---
-title: 'Hsu Shu-ching: Atlet Angkat Berat 53kg Pertama Taiwan Peraih Ganda Emas Olimpiade dari Lunpei 1991'
-description: 'Lahir 9 Mei 1991 di Desa Lunpei, Kabupaten Yunlin, keluarga Hakka, tinggi 159cm. Olimpiade London 2012 kategori 53kg putri, 219kg (96+123) peraih perak; setelah atlet pemenang emas Zhao Changling (Kazakhstan) gagal uji laboratorium, Hsu pada Desember 2020 direskualifikasi menjadi pemenang emas. Olimpiade Rio 2016 menguasai 212kg (100+112) langsung meraih emas. Pemenang emas ganda Olimpiade pertama Taiwan. Pensiun 3 Juni 2018. Pada 2019 dilarang tiga tahun karena pengujian laboratorium November 2017 (tidak mempengaruhi medali emas Olimpiade).'
+title: 'Hsu Shu-ching: Lahir di Lunbei 1991, Atlet Angkat Besi Taiwan Pertama dengan Dua Medali Emas Olimpiade di Kelas 53kg'
+description: 'Atlet angkat besi wanita yang berasal dari keluarga Hakka di Lunbei, Yunlin, ini meniti karier melalui sistem olahraga akar rumput Taiwan selangkah demi selangkah berdasarkan prestasinya. Pada Olimpiade London 2012, ia meraih medali perak di kelas 53kg dengan total angkatan 219kg, namun karena pemenang medali emas dinyatakan gagal dalam tes doping, ia baru resmi menerima medali emas tersebut pada Desember 2020; pada Olimpiade Rio 2016, ia berhasil memenangkan medali emas secara langsung dengan total angkatan 212kg setelah sukses melakukan tiga kali percobaan snatch, menjadikannya peraih dua medali emas Olimpiade pertama dari Taiwan. Setelah pensiun pada tahun 2018 karena cedera lutut, ia beralih profesi menjadi pelatih; butuh waktu delapan tahun baginya untuk mendapatkan medali emas pertamanya, sebuah posisi istimewa yang ditinggalkan oleh masalah doping dalam olahraga internasional.'
 date: 2026-03-19
 category: 'People'
 tags:
   [
     'Olahraga',
-    'Angkat Berat',
+    'Angkat Besi',
     'Olimpiade',
     'Medali Emas',
-    'Kategori 53kg',
+    'Kelas 53kg',
     'Yunlin',
   ]
 subcategory: '體育'
@@ -21,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/許淑淨.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'e7e1bb5735'
 sourceContentHash: 'sha256:81d60bf0143f4da3'
 sourceBodyHash: 'sha256:a8a07476ede69bdb'
-translatedAt: '2026-11-04T20:13:41.723897+00:00'
+translatedAt: '2026-11-27T04:12:56.113130+00:00'
 ---
 
 # Hsu Shu-ching: Atlet Angkat Berat 53kg Pertama Taiwan Peraih Ganda Emas Olimpiade dari Lunpei 1991

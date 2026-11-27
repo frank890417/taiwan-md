@@ -1,6 +1,6 @@
 ---
-title: 'Lu Yen-hsun: Dari Kuarter Final Wimbledon ke Lima Kali Olimpiade, Pebulu Tangkis Terjauh Taiwan'
-description: 'Di Wimbledon 2010, Lu Yen-hsun mengalahkan Andy Roddick juara ke-7, menjadi pemain pria Taiwan pertama yang lolos ke perempat final Grand Slam. Dari Olimpiade Athena 2004 hingga Tokyo 2021, ia hadir di lima Olimpiade berturut-turut, menjadikannya pebulu tangkis terjauh dalam sejarah tenis modern Taiwan. Pasca pensiun, ia mendirikan akademi tenis, menunggu seorang pemuda Taiwan yang mampu melampaui rekor Wimble-nya.'
+title: 'Lu Yen-hsun: Dari Perempat Final Wimbledon ke Lima Olimpiade, Orang yang Paling Jauh dalam Tenis Taiwan'
+description: 'Pemain tenis putra paling luar biasa dalam sejarah Taiwan, lahir 1983, mulai bermain tenis usia 6 tahun, memutuskan menjadi profesional penuh usia 17 tahun. Di Wimbledon 2010, ia lolos dari kualifikasi ke main draw, di babak keempat mengalahkan seed ke-7 Roddick 3-2, menjadi pemain Taiwan pertama yang lolos ke perempat final Grand Slam tunggal putra; ia bilang pertama kali menginjak rumput itu untuk ayahnya. Dari Athena 2004 ke Tokyo 2021 berturut-turut lima kali ke Olimpiade. Setelah pensiun, ia mendirikan Akademi Tenis Internasional di Universitas Chang Jung, sehingga orang Taiwan berikutnya yang menjejaki langkahnya sudah memiliki peta.'
 date: 2026-03-19
 category: 'People'
 tags: ['Olahraga', 'Tenis', 'Olimpiade', 'Wimbledon', 'Tenis Profesional']
@@ -13,10 +13,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/盧彥勳.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'e7e1bb5735'
 sourceContentHash: 'sha256:b7bcedce34261377'
 sourceBodyHash: 'sha256:a95f42aeb707e55c'
-translatedAt: '2026-07-25T09:23:05+08:00'
+translatedAt: '2026-11-27T03:46:46.422747+00:00'
 ---
 
 # Lu Yen-hsun: Dari Kuarter Final Wimbledon ke Lima Kali Olimpiade, Pebulu Tangkis Terjauh Taiwan

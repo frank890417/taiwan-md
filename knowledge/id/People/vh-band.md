@@ -1,20 +1,20 @@
 ---
-title: 'VH (Vast & Hazy): "Kelompok Musik Tipe Keluar" Calibrasi Arah Lima Belas Tahun'
-description: 'Terbentuk pada 2011 di Penghargaan Jin Chao Tamkang, istirahat pada 2014, kembali sebagai duo pada 2017, tiga kali nominasi Golden Melody Best Vocal Group. Di era kebisingan lingkar independen Taiwan, Vast & Hazy memilih jadi wadah kecemasan tak bernama—penikmat musik secara spontan menamai mereka "Kelompok Musik Tipe Keluar". 2026 Yi-chi mengumumkan pindah ke belakang layar, Kaka membawa nama ini terus melangkah.'
+title: 'VH (Vast & Hazy): Kalibrasi Arah Lima Belas Tahun bagi "Band Tipe Katarsis"'
+description: 'Duet indie Taiwan yang terbentuk pada tahun 2011 di Tamkang Golden Melody Awards, terdiri dari KaKa dan Yi Qi. Sempat hiatus pada tahun 2014, mereka kembali sebagai duo pada tahun 2017 dan telah tiga kali masuk nominasi Best Vocal Group di Golden Melody Awards. Mereka menggunakan vokal yang lembut untuk menampung kecemasan dan rasa tersesat, menolak memberikan makna kaku pada lirik lagu agar setiap lagu menjadi wadah emosi, sehingga penggemar secara spontan menjuluki mereka sebagai "Band Tipe Katarsis". Pada tahun 2026, Yi Qi mengumumkan transisinya ke balik layar, membawa band ini memasuki fase baru yang berpusat pada KaKa untuk terus mengalibrasi arah musik mereka.'
 date: 2026-04-19
 category: 'People'
 tags:
   [
     'VH',
     'Vast & Hazy',
-    'musik independen',
-    'Kaka',
-    'Yen Ching-hsuan',
-    'Yi-chi',
-    'Lin Yi-chi',
+    'Musik Indie',
+    'KaKa',
+    'Yan Jingxuan',
+    'Yi Qi',
+    'Lin Yi Qi',
     'Golden Melody Awards',
-    'Kelompok Musik Tipe Keluar',
-    'emotional rock',
+    'Band Tipe Katarsis',
+    'Emotive Rock',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
@@ -24,10 +24,10 @@ lastHumanReview: true
 researchReport: 'reports/research/2026-04/VH.md'
 readingTime: 12
 translatedFrom: 'People/VH.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'fd2854dbad'
 sourceContentHash: 'sha256:12627c86b39f3cf2'
 sourceBodyHash: 'sha256:cac852a1ab84bcac'
-translatedAt: '2026-09-13T15:49:24+08:00'
+translatedAt: '2026-11-27T04:03:31.505969+00:00'
 ---
 
 > **Ringkasan 30 Detik:** VH (Vast & Hazy) adalah duo independen Taiwan, anggotanya Kaka (Yen Ching-hsuan) dan Yi-chi (Lin Yi-chi) terbentuk pada 2011 di Penghargaan Jin Chao Tamkang, tiga kali nominasi Golden Melody Best Vocal Group (2019, 2022, 2025). Mereka dengan vokal lembut membungkus falsafah kreasi observasi kemanusiaan, bangkit secara terbalik di lingkar independen era 2010-an yang didominasi rock politik, penikmat musik secara spontan menamai mereka "Kelompok Musik Tipe Keluar". Setelah pertunjukan tahunan "Mai Xing" (邁行) April 2026, Yi-chi mengumumkan penyesuaian peran ke belakang layar sebagai utama, kelompok memasuki fase baru berpusat pada Kaka.

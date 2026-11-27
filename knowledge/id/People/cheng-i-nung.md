@@ -1,37 +1,38 @@
 ---
-title: 'Enno Cheng: Menulis Lagu Paling Jujur dalam Bahasa yang Paling Asing — Dari Pengakuan Identitas 2016 hingga Penghargaan Ganda Taiwan Music Awards 2023 dalam Tujuh Tahun'
-description: 'Enno Cheng (鄭宜農) lahir 1987, ayahnya Cheng Wen-tang adalah sutradara Sinema Baru Taiwan. Memulai karir sebagai aktris 2007 dengan nominasi Golden Horse, datang out di Facebook 2016 bersamaan perceraian, album pertama sepenuhnya berbahasa Taiwanese 2022 berjudul Mercury Retrograde, memenangkan penghargaan ganda Taiwan Music Awards 34 2023 untuk Best Taiwanese Language Female Singer + Best Taiwanese Language Album. Dia berkata: "Jadi saya langsung menggunakan bahasa yang tidak saya familiar, membuat diri saya sendiri kesulitan."'
+title: 'Enno Cheng: Menulis Lagu Paling Jujur dengan Bahasa Paling Asing — Tujuh Tahun dari Coming Out 2016 hingga Dua Anugerah Golden Melody Bahasa Taiwan 2023'
+description: "Pelaku kreatif lintas disiplin yang lahir pada 1987 di Yilan, ayahnya adalah sutradara Cheng Wen-tang, ibunya adalah musisi senior yang pernah menjadi penyanyi tamu. Tahun 2007 debut sebagai pemain utama, penulis skenario, dan penyusun musik film 'Summer's Tail', nominasi Golden Horse Award untuk Pemeran Baru Terbaik; 2011 merilis album pertama 'Neptune' sepenuhnya dalam komposisi Mandarin; 2016 coming out di Facebook, bulan yang sama bercerai dengan Yang Cheng-tang; 2022 merilis album pertama penuh bahasa Taiwan 'Mercury Retrograde', 2023 memenangkan Golden Melody Award untuk Penyanyi Wanita Terbaik Bahasa Taiwan dan Album Terbaik Bahasa Taiwan, meninggalkan pidato penerimaan 'Bahasa Taiwan mengajarkanku untuk menunduk'."
 date: 2026-04-18
 category: 'People'
 tags:
   [
-    tokoh,
-    Enno Cheng,
-    鄭宜農,
-    musik Taiwanese,
-    Taiwan Music Awards,
-    Mercury Retrograde,
-    Cheng Wen-tang,
-    猛虎巧克力,
-    Dear Uranus,
-    Neptune,
-    楊大正,
-    滅火器,
-    narasi identitas,
-    musik independen,
+    'Tokoh',
+    'Enno Cheng',
+    'Enno Cheng',
+    'Musik Bahasa Taiwan',
+    'Anugerah Golden Melody',
+    'Mercury Retrograde',
+    'Mercury Retrograde',
+    'Cheng Wen-tang',
+    'Mighty Tiger Chocolate',
+    'Untuk Uranus',
+    'Neptunus',
+    'Yang Cheng-tang',
+    'Fire EX.',
+    'Narasi Identitas',
+    'Musik Independen',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-18
 lastHumanReview: true
-researchReport: reports/research/2026-04/鄭宜農.md
+researchReport: 'reports/research/2026-04/鄭宜農.md'
 readingTime: 18
-translatedFrom: People/鄭宜農.md
-sourceCommitSha: ac1d187af
-sourceContentHash: sha256:9978590a40b2bfce
-sourceBodyHash: sha256:2eaa36629936ca3c
-translatedAt: 2026-09-09T15:32:33+08:00
+translatedFrom: 'People/鄭宜農.md'
+sourceCommitSha: 'fc0798f30d'
+sourceContentHash: 'sha256:9978590a40b2bfce'
+sourceBodyHash: 'sha256:2eaa36629936ca3c'
+translatedAt: '2026-11-27T04:36:06.790770+00:00'
 ---
 
 > **Rangkuman 30 detik:** Enno Cheng lahir 19 Maret 1987 di Yilan, ayahnya adalah sutradara Sinema Baru Taiwan Cheng Wen-tang. Debut tahun 2007 sebagai aktris utama _The Tail of Summer_ yang disutradarai ayahnya + penulis naskah + komposer musik, dinominasikan Golden Horse Award 44 untuk Best New Performer; album musik pribadi pertama _Neptune_ 2011; 3 Januari 2016 mengumumkan identitas lesbian di Facebook, bulan yang sama menandatangani perceraian dengan mantan suami Yang Da-zheng (vokalis Firefighters); merilis album pertama sepenuhnya berbahasa Taiwanese _Mercury Retrograde_ 2022; 1 Juli 2023 di acara Taiwan Music Awards 34 memenangkan penghargaan ganda Best Taiwanese Language Female Singer + Best Taiwanese Language Album. Dalam wawancara album dia mengatakan: "Jadi saya langsung menggunakan bahasa yang tidak saya familiar, membuat diri saya sendiri kesulitan." — mengubah kesulitan kreatif menjadi metode mengungkapkan kejujuran.

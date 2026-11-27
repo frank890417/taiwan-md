@@ -1,9 +1,17 @@
 ---
-title: "A-Mei: Penyanyi Suku Puyuma, dari Album Perdana 1996 'Jie Mei' hingga Lima Konser di Taipei Dome 2024"
-description: "Lahir pada 9 Agustus 1972 di Kecamatan Beinan, Kabupaten Taitung, A-Mei adalah penyanyi suku Puyuma dari Taiwan, salah satu penyanyi wanita paling sukses dalam sejarah musik pop Mandarin. Album pertamanya pada 1996 'Jie Mei' terjual 1,21 juta kopi di Taiwan dan 4 juta kopi di Asia. Pada 2015, tur 'Utopia' di Taipei Arena berlangsung 10 kali berturut-turut. Pada Desember 2024, lima konser ASMeiR MAXXX di Taipei Dome, dengan biaya produksi NT$200 juta, dan peluncuran balon udara panas di lokasi. Total penjualan karirnya melebihi 50 juta kopi."
+title: 'A-Mei: Penyanyi Suku Puyuma, dari Album "Sister" 1996 hingga Lima Konser di Taipei Dome 2024'
+description: 'Penyanyi suku Puyuma, lahir pada tahun 1972 di Desa Dabaliujiu, Kota Taitung. Pada masa mudanya, ia bernyanyi di restoran bersama keluarganya untuk membantu ekonomi rumah tangga. Album pertamanya, "Sister", yang dirilis pada tahun 1996 di bawah arahan Chang Yu-sheng, terjual sebanyak 1,21 juta kopi di Taiwan dengan memadukan vokal tradisional suku Puyuma, dan total penjualan sepanjang kariernya telah melampaui 50 juta kopi. Pada tahun 2000, ia sempat diblokir di Tiongkok selama sekitar empat tahun karena menyanyikan lagu kebangsaan pada upacara pelantikan presiden. Pada tahun 2015, ia mengadakan sepuluh konser berturut-turut di Taipei Arena "Utopia", dan pada tahun 2024 mengadakan lima konser berturut-turut di Taipei Dome, serta secara konsisten mendukung kesetaraan hak LGBTQ+.'
 date: 2026-03-19
 category: 'People'
-tags: ['Musik', 'Orang Asli', 'Puyuma', 'Diva', 'Kesetaraan LGBT', 'Musik Pop']
+tags:
+  [
+    'Musik',
+    'Penduduk Asli',
+    'Suku Puyuma',
+    'Diva',
+    'Kesetaraan Hak LGBTQ+',
+    'Musik Pop',
+  ]
 subcategory: '音樂'
 author: 'Taiwan.md'
 featured: false
@@ -13,10 +21,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/張惠妹.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'fc0798f30d'
 sourceContentHash: 'sha256:aebfe56ef8181ee0'
 sourceBodyHash: 'sha256:2548692a01191648'
-translatedAt: '2026-11-04T21:13:29.372694+00:00'
+translatedAt: '2026-11-27T04:11:01.642128+00:00'
 ---
 
 # A-mei: Diva Suku Puyuma, dari《姊妹》1996 hingga Lima Konser di Dome 2024

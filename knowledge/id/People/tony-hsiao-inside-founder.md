@@ -1,6 +1,6 @@
 ---
-title: "Hsiao Shang-nung: Dari PM Game ke Pendiri INSIDE, 'Pak RT' Komunitas Internet Taiwan"
-description: 'Pada 2009, enam orang internet memulai sebuah blog kolaboratif, dan INSIDE Hard-se Network Trend Observation lahir begitu saja. Hsiao Shang-nung (fOx) juga mendirikan iCook bersama; dua platform internet paling terkenal Taiwan keduanya menjadi karyanya—dan keduanya dijual ke perusahaan yang sama. Saat ini ia terus berperan sebagai pengamat yang memberitahu Taiwan: jangan terlalu cemas soal teknologi.'
+title: 'Xiao Shangnong: Dari Manajer Produk Game Menjadi Pendiri INSIDE, Sosok Tokoh Masyarakat di Lingkaran Internet Taiwan'
+description: 'Dari manajer produk game di Songgang Technology menjadi pengamat internet, Xiao Shangnong bersama lima temannya mendirikan blog kolaboratif INSIDE pada tahun 2009 untuk mengamati tren internet; kemudian pada tahun 2011, mereka meluncurkan iCook, platform resep terbesar di Taiwan. Kedua perusahaan tersebut dijual kepada grup media The News Lens dalam rentang waktu empat tahun, di mana akuisisi INSIDE tercatat sebagai merger resmi media internet pertama di Taiwan. Dikenal oleh komunitas internet sebagai sosok tokoh masyarakat, ia kini membawakan podcast Saiqia dan terus menerjemahkan tren bagi dunia teknologi.'
 date: 2026-04-27
 category: 'People'
 tags:
@@ -9,7 +9,7 @@ tags:
     'iCook',
     'iCook',
     'Media Internet',
-    'Startup Teknologi',
+    'Kewirausahaan Teknologi',
     'Internet Taiwan',
     'fOx',
   ]
@@ -21,10 +21,10 @@ lastHumanReview: true
 researchReport: 'reports/research/2026-04/蕭上農.md'
 harvestSession: '9882eaf3-d117-4be5-aaf4-02a6a2ba3a7b'
 translatedFrom: 'People/蕭上農.md'
-sourceCommitSha: '160f6cb59'
+sourceCommitSha: '72ef874049'
 sourceContentHash: 'sha256:cf3dd21873bec862'
 sourceBodyHash: 'sha256:ba8d5bb97d38e74d'
-translatedAt: '2026-11-02T01:12:12.843012+00:00'
+translatedAt: '2026-11-27T03:56:34.621085+00:00'
 ---
 
 > **Ringkasan 30 Detik:** Hsiao Shang-nung (nama panggilan internet fOx) adalah pendiri bersama INSIDE Hard-se Network Trend Observation dan iCook. Pada 2009 ia bersama lima teman meluncurkan salah satu media teknologi berpendapat paling awal di Taiwan, 2011 secara bersamaan meluncurkan platform resep terbesar Taiwan. Kedua perusahaan masing-masing diakuisisi pada 2018 dan 2022 oleh pembeli yang sama: TNL Media Group (關鍵評論網媒體集團). Saat ini ia aktif sebagai pengamat internet di berbagai podcast dan acara media, menjadi salah satu suara paling sering diundang membahas tren di komunitas teknologi Taiwan.

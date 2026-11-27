@@ -1,17 +1,17 @@
 ---
-title: 'Yan Chang-shou: Dari Office Boy Ruang Surat ke Bapak Pariwisata, Lalu Dia Melepaskan Segalanya'
-description: 'Lulusan SMA, usia 23 tahun jadi office boy di American Express. Lima tahun kemudian jadi General Manager. Lagi lima tahun jadi Presiden hotel mewah tertinggi Asia, menciptakan sistem layanan "menyebut nama tamu sebelum mereka turun dari mobil". Buku laris 600 ribu eksemplar. Lalu dia 62 tahun mundur ke pedalaman Taitung mendirikan sekolah, tahun berikutnya bedah buang satu ginjal. Usia 78 tahun membangun taman seni di tepi Pasifik.'
+title: 'Yan Changshou: Dari Anak Kecil Ruang Surat ke Bapak Pariwisata, Lalu Dia Melepaskan Segalanya'
+description: 'Dari anak kecil ruang surat American Express menjadi presiden The Landis, ia yang hanya berpendidikan SMA menciptakan sistem layanan "memanggil nama tamu sebelum mereka turun dari mobil", mencapai tingkat pengembalian 65%, dan menulis bestseller "Hati Singa Presiden" yang terjual lebih dari 600.000 eksemplar. Pada usia 62 tahun, ia mundur dari puncak industri perhotelan ke Taitung, mendirikan Yayasan Budaya Platform Kemanusiaan, mengambil alih Sekolah Menengah dan Dasar Junyi untuk mendorong pendidikan pedalaman, setelah mengangkat satu ginjalnya ia tetap mendalami wilayah Hualien-Taitung, dan pada usia 78 tahun ia mendorong pembukaan Taman Seni Jiang Xian''er di Pantai Jinzun, Taitung.'
 date: 2026-04-06
 category: 'People'
 tags:
   [
-    'Yan Chang-shou',
-    'The Regent Taipei',
-    'industri pariwisata',
+    'Yan Changshou',
+    'The Landis',
+    'pariwisata',
     'pendidikan pedalaman',
-    'platform amal',
+    'platform kemanusiaan',
     'Sekolah Junyi',
-    'Taman Seni Jiang Xian-er',
+    "Taman Seni Jiang Xian'er",
   ]
 subcategory: '教育與社會'
 author: 'Taiwan.md Contributors'
@@ -29,10 +29,10 @@ sporeLinks:
     date: '2026-04-06'
     url: 'https://x.com/taiwandotmd/status/2041143084583469498'
 translatedFrom: 'People/嚴長壽.md'
-sourceCommitSha: '9cef725ce'
+sourceCommitSha: '72ef874049'
 sourceContentHash: 'sha256:f03fe4356a8b034b'
 sourceBodyHash: 'sha256:0511dd3ec1c7896e'
-translatedAt: '2026-09-22T21:40:35.033853+00:00'
+translatedAt: '2026-11-27T03:20:26.927276+00:00'
 ---
 
 # Yan Chang-shou: Dari Office Boy Ruang Surat ke Bapak Pariwisata, Lalu Dia Melepaskan Segalanya
