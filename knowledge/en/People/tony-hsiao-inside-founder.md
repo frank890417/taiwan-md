@@ -1,6 +1,6 @@
 ---
-title: 'Hsiao Shang-nung: From Game PM to INSIDE Co-founder, the "Lizhang Bo" (Village Chief) of Taiwan''s Internet Circle'
-description: "In 2009, six internet professionals launched a collaborative blog, giving birth to INSIDE Hard-Stuffed Internet Trend Observation. Hsiao Shang-nung (fOx) also co-founded iCook (愛料理); both of Taiwan's most prominent internet platforms became his work—and both were sold to the same company. He now continues as an observer telling Taiwan: don't over-anxious about technology."
+title: 'Hsiao Shang-nung: From Game PM to INSIDE Founder, the "Village Chief" of Taiwan''s Internet Circle'
+description: 'From game product manager at Songgang Technology to internet observer, Hsiao Shang-nung founded INSIDE in 2009 with five friends as a collaborative blog for in-depth internet trend observation. In 2011, he co-launched iCook, Taiwan''s largest recipe platform. The two companies were sold four years apart to The News Lens media group, with INSIDE recorded as Taiwan''s first formal acquisition of an internet media outlet. Dubbed the "village chief" by the internet community, he now hosts the podcast "Seqa," continuing to interpret trends for the tech industry.'
 date: 2026-04-27
 category: 'People'
 tags:
@@ -8,9 +8,9 @@ tags:
     'INSIDE',
     'iCook',
     'iCook',
-    'Online Media',
-    'Tech Startup',
-    'Taiwan Internet',
+    'internet media',
+    'tech entrepreneurship',
+    'Taiwan internet',
     'fOx',
   ]
 subcategory: '科技與企業'
@@ -21,10 +21,10 @@ lastHumanReview: true
 researchReport: 'reports/research/2026-04/蕭上農.md'
 harvestSession: '9882eaf3-d117-4be5-aaf4-02a6a2ba3a7b'
 translatedFrom: 'People/蕭上農.md'
-sourceCommitSha: '160f6cb590'
+sourceCommitSha: '72ef874049'
 sourceContentHash: 'sha256:cf3dd21873bec862'
 sourceBodyHash: 'sha256:ba8d5bb97d38e74d'
-translatedAt: '2026-11-20T16:47:01+08:00'
+translatedAt: '2026-11-27T06:38:36.557411+00:00'
 ---
 
 > **30-Second Overview:** Hsiao Shang-nung (online handle fOx) is the co-founder of INSIDE Hard-Stuffed Internet Trend Observation and iCook (愛料理). In 2009, he and five friends launched one of Taiwan's earliest opinion-driven tech media outlets; in 2011, they launched Taiwan's largest recipe platform. Both companies were sold to the same buyer—TNL Media Group (The News Lens Media Group)—in 2018 and 2022 respectively. He now serves as an internet observer, active on major podcasts and media programs, and is one of the most frequently invited voices to discuss trends in Taiwan's tech circle.

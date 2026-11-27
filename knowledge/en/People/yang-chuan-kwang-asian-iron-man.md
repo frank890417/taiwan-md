@@ -1,9 +1,17 @@
 ---
-title: 'Yang Chuan-kwang: Indigenous Hero from Taitung, Rome Silver Medalist, and the Asian Ironman Who Set a 9121-Point World Record'
-description: "Born July 10, 1933, in Taitung's Maran Amis village, Yang Chuan-kwang was Taiwan's first Olympic medalist. He won silver in the 1960 Rome decathlon with 8334 points and in 1963 broke the world record with 9121 points, his 4.83-meter pole vault performance forcing the IAAF to revise its scoring system. He died of a stroke in California on January 27, 2007, aged 73. In April 2025, the Ministry of Culture designated him a national treasure."
+title: 'Yang Chuan-kwang: Taitung Tribal Village, Rome Silver Medal, 9,121-Point World Record Asian Ironman'
+description: "Taiwan's first Olympic medalist, born in 1933 in the Malan Amis tribal village in Taitung, attended Taitung Normal School and Taiwan Provincial Normal College, went to the U.S. in 1957 to train at UCLA. At the 1960 Rome Olympics decathlon, he won silver with 8,334 points, just 58 points behind Rafer Johnson's gold; in 1963 he set a world record with 9,121 points, his pole vault of 4.83 meters forcing the IAAF to revise its scoring standards. After retirement, he returned to Taiwan to devote himself to physical education; he died of a stroke in California, USA in 2007 at age 73; in 2025 the Ministry of Culture designated the Rome silver medal as Taiwan's first sports-related national treasure."
 date: 2026-03-19
 category: 'People'
-tags: ['Sports', 'Athletics', 'Olympics', 'Decathlon', 'Indigenous', 'Amis']
+tags:
+  [
+    'Sports',
+    'Track and Field',
+    'Olympics',
+    'Decathlon',
+    'Indigenous Peoples',
+    'Amis',
+  ]
 subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
@@ -11,10 +19,10 @@ lastVerified: 2026-09-05
 lastHumanReview: true
 readingTime: 7
 translatedFrom: 'People/楊傳廣.md'
-sourceCommitSha: '8d0c4a70d'
+sourceCommitSha: 'fc0798f30d'
 sourceContentHash: 'sha256:3f102f565e503ad8'
 sourceBodyHash: 'sha256:b14c332dbd93a4eb'
-translatedAt: '2026-09-22T02:06:12+08:00'
+translatedAt: '2026-11-27T06:22:03.530350+00:00'
 ---
 
 # Yang Chuan-kwang: Indigenous Hero from Taitung, Rome Silver Medalist, and the Asian Ironman Who Set a 9121-Point World Record
