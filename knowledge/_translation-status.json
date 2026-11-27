@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-28T04:10:52+08:00",
-    "zhCommitHead": "fac3d0408a",
+    "lastUpdated": "2026-11-28T04:20:08+08:00",
+    "zhCommitHead": "ea9154a0a2",
     "totalZh": 1194,
     "activeLanguages": [
       "en",
@@ -20,8 +20,8 @@
     "summary": {
       "en": {
         "total_zh": 1194,
-        "fresh": 1186,
-        "stale": 4,
+        "fresh": 1187,
+        "stale": 3,
         "metadata_stale": 4,
         "missing": 0,
         "orphan": 0
@@ -137756,8 +137756,8 @@
           "sourceContentHash": "sha256:c545680e99f6d0ab",
           "sourceBodyHash": "sha256:809502b72dc5c3f5",
           "translatedAt": "2026-11-27T18:39:07.653494+00:00",
-          "translationLastCommit": "ead5db3b",
-          "translationLastModified": "2026-09-26T02:35:13+08:00",
+          "translationLastCommit": "ea9154a0",
+          "translationLastModified": "2026-11-28T04:10:52+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "bytes": 25212,
@@ -213062,18 +213062,18 @@
         "en": {
           "path": "en/Geography/chiayi-city.md",
           "translatedFrom": "Geography/嘉義市.md",
-          "sourceCommitSha": "be13f045",
-          "sourceContentHash": "sha256:fe4751f1e66665bd",
-          "sourceBodyHash": "sha256:7f19df1b99a37241",
-          "translatedAt": "2026-09-18T09:45:54.457552+00:00",
+          "sourceCommitSha": "cb9b03dad5",
+          "sourceContentHash": "sha256:3c26fdbf6ae8c1e1",
+          "sourceBodyHash": "sha256:de7eeb7836899ba7",
+          "translatedAt": "2026-11-27T20:06:51.186264+00:00",
           "translationLastCommit": "b0337d93",
           "translationLastModified": "2026-11-19T01:15:49+08:00",
           "inferred": false,
-          "footnoteDefs": 32,
-          "bytes": 52083,
+          "footnoteDefs": 33,
+          "bytes": 50553,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (33→32)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Geography/chiayi-city.md",

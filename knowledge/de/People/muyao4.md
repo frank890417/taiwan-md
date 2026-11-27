@@ -1,16 +1,16 @@
 ---
-title: 'Mokuyo 4 Superplay: Die unsichtbare Professionalität gewöhnlicher Arbeit als Online-Unterhaltung inszeniert'
-description: 'Die seit 2015 laufende Sendung „Mokuyo 4 Superplay“ entwickelte sich von Makabelis Livestream zu YouTube; eine 58-minütige Folge des „Tagestags-Assistenz“-Formats erreichte in vier Tagen über 3 Millionen Zuschauer. Was sie oberflächlich als Arbeit für Stars darstellt, verändert tatsächlich die Sicht der Zuschauer auf Techniker, Berater und Veranstaltungsmitarbeiter in Taiwan.'
+title: 'Thursday 4 Super Play: Die unsichtbare Professionalität gewöhnlicher Berufe in eine Internet-Varieté-Show verwandelt'
+description: 'Die Internet-Varieté-Show, die ihre Anfänge beim Experimentieren mit McCabe-Livestreams nahm, ging 2015 auf Sendung, fand 2016 mit der „One-Day-Serie“ ihr Formatgerüst und etablierte 2017 einen YouTube-Kanal. Te Zhiyuan und Kollegen begaben sich an die Arbeitsplätze von Taipower-Technikern, Straßenlaternen-Wartungskräften und hinter die Kulissen von Konzerten; ununterbrochen zu schneidende Drähte gaben der verdeckten Professionalität Konturen. 2018 erreichte die Folge „One-Day Mayor’s Aide“ binnen vier Tagen über drei Millionen Aufrufe. Die Sendung macht Stars zu Lehrlingen und lässt das Publikum die unbeachtete Professionalität hinter gewöhnlicher Arbeit erkennen.'
 date: 2026-08-16
 category: 'People'
 tags:
   [
-    'Mokuyo 4 Superplay',
-    'Tai Tzu-yuan',
-    'Tagestagsformat',
-    'Online-Unterhaltung',
+    'Thursday 4 Super Play',
+    'Te Zhiyuan',
+    'One-Day-Serie',
+    'Internet-Varieté',
     'YouTube',
-    'taiwanische Medien',
+    'Taiwanesische Medien',
   ]
 subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
@@ -20,10 +20,10 @@ lastHumanReview: false
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'People/木曜4超玩.md'
-sourceCommitSha: '4f3974f86'
+sourceCommitSha: '8fc70bd881'
 sourceContentHash: 'sha256:c545680e99f6d0ab'
 sourceBodyHash: 'sha256:809502b72dc5c3f5'
-translatedAt: '2026-09-21T14:33:47.358919+00:00'
+translatedAt: '2026-11-27T18:43:17.264236+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Im Jahr 2015 startete „Mokuyo 4 Superplay“ auf Makabelis Internetfernsehen; erst im Jahr 2016 erschien die erste Folge des „Tagestags“-Formats, und 2017 wurde ein separates YouTube-Kanal eingerichtet. Das Faszinierendste an der Sendung ist nicht, dass Tai Tzu-yuan, KID oder Winnie einen Tag lang arbeiten, sondern dass Handwerker, Berater und Hintergrundpersonal – deren Arbeit normalerweise nie im Rampenlicht steht – in eine Szene gerückt werden, die von Zuschauern in ganz Taiwan gemeinsam gesehen werden kann. Mokuyo scheint Stars zu normalisieren, aber es verwandelt die unsichtbare Professionalität gewöhnlicher Tätigkeiten in ein Massenmedium.
