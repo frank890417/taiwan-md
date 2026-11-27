@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-11-28T06:04:24+08:00",
-    "zhCommitHead": "783e3f2111",
+    "lastUpdated": "2026-11-28T07:52:35+08:00",
+    "zhCommitHead": "8cd9b54170",
     "totalZh": 1194,
     "activeLanguages": [
       "en",
@@ -60,16 +60,16 @@
       },
       "vi": {
         "total_zh": 1194,
-        "fresh": 1184,
-        "stale": 10,
+        "fresh": 1185,
+        "stale": 9,
         "metadata_stale": 0,
         "missing": 0,
         "orphan": 0
       },
       "id": {
         "total_zh": 1194,
-        "fresh": 1184,
-        "stale": 6,
+        "fresh": 1185,
+        "stale": 5,
         "metadata_stale": 4,
         "missing": 0,
         "orphan": 0
@@ -213066,8 +213066,8 @@
           "sourceContentHash": "sha256:3c26fdbf6ae8c1e1",
           "sourceBodyHash": "sha256:de7eeb7836899ba7",
           "translatedAt": "2026-11-27T20:06:51.186264+00:00",
-          "translationLastCommit": "b0337d93",
-          "translationLastModified": "2026-11-19T01:15:49+08:00",
+          "translationLastCommit": "b81b5616",
+          "translationLastModified": "2026-11-28T06:04:24+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "bytes": 50553,
@@ -213142,34 +213142,34 @@
         "vi": {
           "path": "vi/Geography/chiayi-city.md",
           "translatedFrom": "Geography/嘉義市.md",
-          "sourceCommitSha": "be13f045",
-          "sourceContentHash": "sha256:fe4751f1e66665bd",
-          "sourceBodyHash": "sha256:7f19df1b99a37241",
-          "translatedAt": "2026-09-27T00:57:33+08:00",
+          "sourceCommitSha": "cb9b03dad5",
+          "sourceContentHash": "sha256:3c26fdbf6ae8c1e1",
+          "sourceBodyHash": "sha256:de7eeb7836899ba7",
+          "translatedAt": "2026-11-27T22:04:44.962889+00:00",
           "translationLastCommit": "ba7c8ab4",
           "translationLastModified": "2026-11-19T01:24:48+08:00",
           "inferred": false,
-          "footnoteDefs": 32,
-          "bytes": 60792,
+          "footnoteDefs": 33,
+          "bytes": 68149,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (33→32)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Geography/chiayi-city.md",
           "translatedFrom": "Geography/嘉義市.md",
-          "sourceCommitSha": "be13f045",
-          "sourceContentHash": "sha256:fe4751f1e66665bd",
-          "sourceBodyHash": "sha256:7f19df1b99a37241",
-          "translatedAt": "2026-09-24T07:17:01.947791+00:00",
+          "sourceCommitSha": "cb9b03dad5",
+          "sourceContentHash": "sha256:3c26fdbf6ae8c1e1",
+          "sourceBodyHash": "sha256:de7eeb7836899ba7",
+          "translatedAt": "2026-11-27T22:47:23.296135+00:00",
           "translationLastCommit": "d72e19d8",
           "translationLastModified": "2026-11-19T01:19:26+08:00",
           "inferred": false,
-          "footnoteDefs": 32,
-          "bytes": 51838,
+          "footnoteDefs": 33,
+          "bytes": 50741,
           "armorResidue": 0,
-          "status": "stale",
-          "reason": "footnote-loss (33→32)"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/chiayi-city.md",
