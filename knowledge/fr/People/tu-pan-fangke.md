@@ -1,20 +1,22 @@
 ---
-title: 'Du Pan Fang‑ge : trois langues, une pièce de paix'
-description: 'Poétesse Hakka d’une génération transculturelle, descendante d’une famille victime du massacre du 28 février 1947. « Pi‑an‑hsi » transforme le rituel de remerciement en un témoignage de survie sous la terreur blanche — pour ceux dont le régime a volé la langue, la phrase la plus cruelle en langue maternelle est écrite pour leurs proches.'
+title: 'Du Pan Fang-ge : trois langues, une pièce de paix'
+description: "Poétesse hakka de la génération translingue, elle apprend le japonais sous la colonisation, est forcée de passer au chinois après-guerre, puis réécrit sa poésie en hakka autour de la levée de la loi martiale ; l'assassinat de son grand-oncle maternel Zhang Qilang et de ses fils lors du 228 devient le négatif éthique de ses poèmes satiriques ; son « Pièce de paix » de 1977 transforme la scène rituelle hivernale en témoignage de survie sous la Terreur blanche ; décorée par le Conseil des affaires hakka, sa famille a légué 340 manuscrits trilingues."
 date: 2026-07-12
 category: 'People'
-subcategory: '文學與詩人 / 客家文化人'
 tags:
-  - 'personnage'
-  - 'Du Pan Fang‑ge'
-  - 'Hakka'
-  - 'poète'
-  - 'Société Li Poésie'
-  - 'génération transculturelle'
-  - '28 février 1947'
-  - 'poésie en Hakka'
-  - 'Pi‑an‑hsi'
-  - 'littérature féminine'
+  [
+    'Personnalité',
+    'Du Pan Fang-ge',
+    'Hakka',
+    'Poétesse',
+    'Li Poetry Society',
+    'Génération translingue',
+    '228',
+    'Poésie hakka',
+    'Pièce de paix',
+    'Littérature féminine',
+  ]
+subcategory: '文學與詩人 / 客家文化人'
 author: 'Taiwan.md'
 featured: false
 canonical-order: 120
@@ -29,200 +31,215 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:新埔潘屋全景.jpg'
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/杜潘芳格.md'
-sourceCommitSha: 'be13f045'
-sourceContentHash: 'sha256:d405136a29d9431e'
-sourceBodyHash: 'sha256:b0195c9685eb2443'
-translatedAt: '2026-07-14T00:51:45+08:00'
+sourceCommitSha: '630afb2b66'
+sourceContentHash: 'sha256:8e17d8aaa786cb83'
+sourceBodyHash: 'sha256:95dcdf29fa593f4b'
+translatedAt: '2026-11-27T15:03:12+08:00'
 ---
 
-# Du Pan Fang‑ge : trois langues, une pièce de paix
+# Du Pan Fang-ge : trois langues, une pièce de paix
 
-![Le complexe résidentiel Pan à Xinpu, Hsinchu, brique rouge et mur de montagne sous la lumière du jour. Du Pan Fang‑ge est née en 1927 dans une famille Hakka de Xinpu ; ce paysage familial constitue l’ancre matérielle de son enfance et de sa mémoire générationnelle transculturelle.](/article-images/people/dupan-xinpu-pan-house.webp)
-_Nouveau‑Xinpu, Hsinchu — le domaine familial Hakka de Du Pan Fang‑ge. Photo via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E6%96%B0%E5%9F%94%E6%BD%98%E5%B1%8B%E5%85%A8%E6%99%AF.jpg)._
+![L'ensemble architectural de la demeure Pan à Xinpu, Hsinchu, briques rouges et pignons en selle de cheval s'étendant sous la lumière du ciel. Du Pan Fang-ge naît en 1927 dans ce clan hakka de Xinpu ; ce paysage familial est l'ancre matérielle de sa mémoire d'enfance et transgénérationnelle.](/article-images/people/dupan-xinpu-pan-house.webp)
+_La demeure Pan de Xinpu, Hsinchu — le paysage du clan hakka dont est issue Du Pan Fang-ge. Photo via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E6%96%B0%E5%9F%94%E6%BD%98%E5%B1%8B%E5%85%A8%E6%99%AF.jpg)._
 
-> **30 secondes d’aperçu :** Du Pan Fang‑ge (1927–2016, orthographe Hakka « Tu Pan Fong‑Gied », parfois « Fangge Dupan » en anglais) est l’une des rares poétesses Hakka largement étudiées parmi la **génération transculturelle** de Taïwan : l’éducation coloniale japonaise lui a imposé le japonais, la politique linguistique post‑Seconde Guerre mondiale l’a contrainte au mandarin, et après la levée de la loi martiale elle a ré‑adopté le Hakka. Elle ne se limite pas à la nostalgie folklorique ; en 1977, la version mandarine de **« Pi‑an‑hsi »** transpose le rituel de remerciement hivernal Hakka en un témoignage de survie sous la terreur blanche, rappelant le massacre de 1947 dont son oncle, le Dr Zhang Chi‑lang, a été victime. [^1][^2][^3]
+> **Aperçu en 30 secondes :** Du Pan Fang-ge (1927–2016, romanisation hakka Hailu souvent Tu Pan Fong-Gied ; la littérature anglophone aussi Fangge Dupan) est l'une des rares poétesses hakka de la **génération translingue** de Taïwan à être largement étudiée : l'éducation coloniale lui donne le japonais, la politique de la « langue nationale » d'après-guerre l'oblige à passer au chinois, la levée de la loi martiale la ramène à écrire en **hakka**. Elle n'est pas une simple poétesse folklorique nostalgique — en 1977, la version en chinois de **« Pièce de paix »** utilise la scène du rituel hivernal d'action de grâce hakka pour décrire comment les « gens de paix qui ne savent qu'obéir » rongent de la canne à sucre sous le chapiteau, **ne conservant que leur unique vie** ; le poids éthique de ce poème rejoint l'histoire familiale de 1947, lorsque son grand-oncle maternel, le docteur **Zhang Qilang** de Hualien, et ses fils sont tués lors du 228. [^1][^2][^3]
 
-## Ce qui a été enlevé n’est pas seulement une langue
+## Ce qu'on a pris, ce n'est pas qu'une langue
 
-Le poète Lin Heng‑tai a introduit en 1967 le concept de **« génération transculturelle »** : ceux qui ont grandi en japonais sous la domination coloniale et qui, après la guerre, ont dû réapprendre le mandarin. [^4] Du Pan Fang‑ge se situe exactement au cœur de ce groupe : née en 1927 à Xinpu, Hsinchu, elle a voyagé au Japon avec son père avant de revenir à l’âge de six ou sept ans et d’intégrer une école primaire réservée aux enfants japonais. [^1]
+Le poète Lin Heng-tai propose en 1967 le concept de **« génération translingue »** : ceux qui ont grandi en japonais sous la colonisation et doivent réapprendre à écrire en chinois après-guerre. [^4] Du Pan Fang-ge tombe pile dans le cœur d'âge de ce _cohort_ : née en 1927 à Xinpu, préfecture de Shinchiku, elle part au Japon toute petite avec son père Pan Jin-huai, revient vers six-sept ans et entre dans une « école primaire » (小學校) alors réservée aux enfants de Japonais. [^1]
 
-Ce n’était pas une enfance bilingue idéalisée. Les biographies en mandarin et en anglais mentionnent les brimades subies à l’école, puis son écriture en japonais de poèmes, nouvelles et essais, où elle a d’abord consigné la douleur coloniale comme « sortie d’imagination autorisée ». [^1][^5] Au lycée pour filles de Hsinchu et à l’Institut des hautes études féminines de Taipei, le programme comprenait la cérémonie du thé, la couture et, surtout, la formation à la « vertu de la femme » : c’est là que s’est semé son questionnement sur le rôle féminin. [^1]
+Ce n'est pas une enfance bilingue romantique. Les biographies chinoise et anglaise rapportent qu'elle y est harcelée ; plus tard, elle écrit poèmes, nouvelles, essais en japonais, y logeant d'abord sa douleur coloniale comme « une issue qui permet le fantasme ». [^1][^5] L'emploi du temps du Lycée de filles de Shinchiku puis du Collège supérieur de filles de Taihoku comprend ikebana, cérémonie du thé, couture, et aussi la formation aux « vertus féminines » pour « assister son mari et éduquer ses enfants » : la question de la place des femmes, qu'elle reprendra sans cesse, germe là. [^1]
 
-En 1946, écrire en japonais à Taïwan devient dangereux. La politique linguistique ne se limite pas à changer les manuels ; elle remplace tout l’appareil d’expression publique. Le Musée national de la littérature taïwanaise décrit cela ainsi : **vocabulaire, grammaire et capacité à exprimer des idées complexes sont arrachés** ; certains ont cessé d’écrire, d’autres ont dû ré‑apprendre pendant des années avant de pouvoir publier à nouveau. [^4] Du Pan Fang‑ge a interrompu ses publications pendant plus de dix ans, se consacrant à son mariage, à l’aide de son mari dans son cabinet et à l’éducation de ses enfants. Ce n’est qu’au milieu des années 1960 qu’elle ré‑apparait sur la scène poétique en mandarin. [^1][^4]
+1946 : écrire en japonais devient dangereux à Taïwan. La politique de la langue nationale ne change pas seulement les manuels, elle remplace tout l'organe de la parole publique. Le Musée national de la littérature de Taïwan le dit sobrement : **vocabulaire, grammaire, capacité d'exprimer la pensée complexe sont arrachés d'un coup**. Certains arrêtent d'écrire, d'autres réapprennent des années avant de republier. [^4] Du Pan Fang-ge cesse de publier pendant une dizaine d'années ; elle se marie, aide son mari à la clinique, élève ses enfants : ce n'est qu'au milieu des années 1960 qu'elle réapparaît sur la scène poétique en chinois. [^1][^4]
 
-Dans une interview, elle décrit les trois langues comme trois entrepôts : le japonais, « le plus complet, le plus profond », le mandarin, « équivalent à la 3ᵉ ou 4ᵉ année d’école primaire », souvent jugé insuffisamment raffiné, et le Hakka, langue maternelle parlée à la maison mais qui devait être ré‑inventée à l’écrit. [^12] Song Ze‑lai lui a conseillé d’écrire uniquement en japonais et de faire traduire, mais elle a insisté pour « utiliser sa langue maternelle ». Cette hésitation n’est pas une faiblesse personnelle ; elle reflète le quotidien des générations transculturelles. [^12]
+Elle décrira plus tard ses trois langues comme trois entrepôts : le japonais est celui où l'entraînement est le plus complet, qui peut contenir les émotions les plus profondes. Le chinois reste longtemps au niveau « CM1-CM2 », ses poèmes sont souvent jugés pas assez ciselés. Le hakka est la langue parlée à la maison, mais qu'il faut réinventer sur le papier. [^12] Song Ze-lai lui conseille d'écrire en japonais et de faire traduire. Elle revient pourtant à « je devrais utiliser ma propre langue maternelle ». Cette hésitation _est_ le chantier quotidien de la génération translingue, pas un défaut de caractère. [^12]
 
-> 📝 **Note du curateur** : la génération transculturelle est souvent présentée comme une « tragédie biographique ». Pour Du Pan Fang‑ge, il est plus précis de dire qu’elle a fait **trois choix linguistiques** : le japonais imposé, le mandarin imposé, puis, à la fin de sa vie, le **retour volontaire au Hakka**. Ce troisième choix constitue sa réponse à la souveraineté linguistique.
+> 📝 **Note de la commissaire** : La génération translingue est souvent réduite à une « biographie tragique ». Pour Du Pan Fang-ge, plus juste est de dire qu'elle a fait **au moins trois** choix de langue dans sa vie : le japonais imposé, le chinois imposé, et tardivement le **repris volontaire** du hakka. Le troisième seul est sa réponse sur la souveraineté.
 
-## La fusillade de Hualien, un traumatisme qui hante toutes les « années de paix »
+## Ce coup de feu à Hualien, inscrit dans tous les « ans de paix » qui suivent
 
-En 1947, pendant le massacre du 28 février 1947, la mère de Du Pan Fang‑ge voit son oncle, le Dr Zhang Chi‑lang, médecin de renom à Hualien, capturé puis assassiné avec ses fils. [^1][^6] Zhang, originaire de Hakka de Hukou, Hsinchu, diplômé de l’École de médecine du gouvernement colonial, était député et président du conseil du comté de Hualien après la guerre ; il aurait été le candidat le plus populaire pour le poste de magistrat lorsque la répression a entraîné sa disparition avec ses enfants. [^3][^6]
+1947, le 228. Le grand-oncle maternel de Du Pan Fang-ge à Hualien : le docteur **Zhang Qilang**, médecin à l'hôpital Renshou de Fenglin, figure locale très respectée, est arrêté avec ses fils puis exécuté. [^1][^6] Zhang Qilang, hakka de Hubei (Xinpu), diplômé de l'école de médecine du gouvernement-général, exerce en zone rurale ; après-guerre il devient conseiller puis président du conseil de comté de Hualien, et délégué à l'Assemblée nationale avec un score élevé. Pendant le 228, il arrive en tête pour le poste de magistrat de comté proposé par les locaux, mais disparaît avec sa descendance dans l'épuration qui suit. [^3][^6]
 
-Ce drame familial devient le fondement éthique de ses poèmes satiriques : alors que le discours officiel proclame « année après année, la paix », sa famille sait que la « paix » a été obtenue au prix de disparitions. Les travaux en mandarin et les études sur la culture Hakka soulignent que cette histoire familiale a nourri une critique politique persistante, non pas un simple slogan, mais une allergie collective à l’idée de « paix ». [^1]
+Ce n'est pas une rumeur lointaine, c'est le négatif éthique de toute sa poésie satirique ultérieure : quand le récit officiel dit « année après année la paix », la famille sait que la paix a été payée par des disparitions. Wikipédia en chinois et les ouvrages sur la culture hakka soulignent que cette histoire familiale donne à sa création une critique et une ironie politiques : pas un alignement slogan, mais l'allergie durable d'une famille de survivants aux mots « paix » et « sécurité ». [^1]
 
-En 1948, malgré l’opposition familiale, elle épouse le médecin Du Ching‑shou et s’installe à Zhongli, Taoyuan, où elle travaille dans le cabinet tout en enseignant l’arrangement floral. Zhongli, loin du cadre aristocratique de Xinpu, représente la vie quotidienne d’un médecin‑père et d’une mère ; son premier recueil, **« Ching‑shou »** (1977), mêle le prénom de son mari (« Ching ») et le souhait de longévité pour son père (« shou »). D’autres titres de ses recueils intègrent les noms de proches : « Huai‑shan Wan‑hai », « Zhao‑qing », « Yuan‑qian‑hu ». Ainsi, les titres de ses recueils fonctionnent comme des cartes de relations familiales, non comme des slogans marketing. [^1]
+1948, contre l'avis des siens, elle épouse le docteur **Du Qing-shou**, s'installe à Zhongli (Taoyuan), écrit en marge de la clinique et enseigne l'ikebana. [^1] Zhongli n'est pas la salle des ancêtres du clan de Xinpu, c'est le quotidien médical et parental du marché. Son premier recueil s'appelle justement **《 Qing-shou 》** (1977) : « Qing » pour le nom de l'époux, « Shou » pour la longévité du père : l'éthique privée directement cousue dans le titre. [^1] Le nommage familial reviendra : 《 Huai-shan Wan-hai 》 incorpore « Huai » et « Wan » des noms des parents, 《 Zhao-qing 》 prend le nom des petits-enfants, 《 Yuan-qian-hu 》 celui d'amis (« Qian » relie à Chen Qian-wu de la Li Poetry Society). [^1] Pour elle, le titre d'un recueil est souvent une carte des liens humains, pas un slogan marketing.
 
-![Maison de Wu Zhuoliu à Xinpu. Wu, également Hakka, a traduit les premiers poèmes japonais de Du Pan Fang‑ge en mandarin, illustrant le soutien mutuel des membres de la génération transculturelle.](/article-images/people/dupan-xinpu-wuzhuoliu-house.webp)
-_Nouvelle‑Xinpu — trace matérielle du réseau d’écrivains Hakka. Photo via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E6%96%B0%E5%9F%94%E5%90%B3%E6%BF%81%E6%B5%81%E6%95%85%E5%B1%85.jpg)._
+![Extérieur de l'ancienne demeure de Wu Zhuo-liu à Xinpu. Wu Zhuo-liu, même origine hakka de Xinpu, a traduit en chinois les premiers poèmes japonais de Du Pan Fang-ge, exemple concret de l'entraide expressive de la génération translingue.](/article-images/people/dupan-xinpu-wuzhuoliu-house.webp)
+_L'ancienne demeure de Wu Zhuo-liu à Xinpu — trace matérielle du réseau d'écrivains compatriotes. Le premier poème publié de Du Pan Fang-ge en 1966 est attesté comme traduit du japonais par Wu Zhuo-liu. Photo via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E6%96%B0%E5%9F%94%E5%90%B3%E6%BF%81%E6%B5%81%E6%95%85%E5%B1%85.jpg)._
 
-## La voix féminine sous le chapeau du Liège
+## La voix féminine sous le chapeau de paille, la voix féminine sous la plume du traducteur
 
-En 1965, elle rejoint la [Société Li Poésie](/fr/art/li-poetry-society/) — créée en 1964 comme un collectif poétique à conscience locale. [^1][^7] Elle n’est pas l’une des douze fondatrices, mais la première femme à intégrer le groupe l’année suivante, soutenue par Li Yuan‑chen, Li Min‑yong et d’autres. [^5]
+1965, elle rejoint la **Li Poetry Society** (/fr/art/li-poetry-society/) : fondée en 1964, vaisseau amiral des poètes nativistes. [^1][^7] Elle n'est pas parmi les douze fondateurs, c'est « la deuxième année de Li » qu'elle entre comme poétesse. Li Yuan-zhen, Li Min-yong et d'autres défendront plusieurs fois sa pensée poétique. [^5]
 
-En juillet 1966, le magazine _Taiwan Literature_ publie son poème « Printemps ». Un article anglais précise qu’il s’agit d’un manuscrit japonais traduit en mandarin par Wu Zhuoliu. Ce processus, typique de la génération transculturelle, consiste à écrire d’abord en japonais, puis à faire « transférer » le texte dans le mandarin. Li Yuan‑chen note que les premières versions mandarin étaient souvent traduites par des hommes, ce qui atténuait les nuances féminines et a contribué à sous‑estimer l’influence de Du Pan Fang‑ge. [^4]
+Juillet 1966, _Taiwan Literature_ publie son « Printemps ». La presse anglophone note : c'est un manuscrit japonais, traduit en chinois par **Wu Zhuo-liu**. [^4] Le mode de production typique de la génération translingue apparaît ici : le poème mûrit d'abord dans la tête japonaise, puis une autre main le transporte sur la page en langue nationale. Li Yuan-zhen pointera plus tard : les premiers manuscrits chinois passent souvent par des **traducteurs masculins**, les nuances du regard féminin s'en trouvent aplaties, ce qui est l'une des raisons de sa sous-estimation. [^4]
 
-En septembre 1967, après un grave accident de voiture de son mari, elle interprète la convalescence comme une prière exaucée, s’engageant plus profondément dans le christianisme et le travail missionnaire. Sa foi ne la transforme pas en une « grand‑mère » douce célébrant le folklore ; au contraire, ses poèmes les plus célèbres déconstruisent le rituel du _Pi‑an‑hsi_ et du _Zhongyuan_ de façon radicale.
+17 septembre 1967, son mari survit grièvement blessé à un accident de voiture ; elle lit ce tournant comme une prière exaucée, s'engage plus avant dans la foi chrétienne et l'évangélisation. [^1] La foi ne l'a pas transformée en douce grand-mère qui chante le folklore : au contraire, ses poèmes les plus connus **démontent** précisément l'évidence du Pudu (fête des fantômes) et de la Pièce de paix.
 
-## « Pi‑an‑hsi » : la canne à sucre sous la scène, un dieu plus honnête que le dieu du théâtre
+## « Pièce de paix » : la canne à sucre sous la scène, plus honnête que les dieux dessus
 
-Le rituel Hakka d’hiver, le _Pi‑an‑hsi_, remercie les divinités pour une année de paix. En 1977, Du Pan Fang‑ge publie la version mandarine dans *Ching‑shou* ; elle déplace le regard du dieu vers le public :
+Le rituel hivernal d'action de grâce hakka met souvent en scène la « Pièce de paix ». Prétexte : remercier pour une année de paix. Du Pan Fang-ge, dans la version chinoise de 1977 incluse dans 《 Qing-shou 》, déplace la caméra des dieux vers les gradins : [^2]
 
-> Année après année, c’est toujours une année de paix  
-> Année après année, on joue le _Pi‑an‑hsi_
+> Année après année, des années de paix  
+> Année après année, on joue la Pièce de paix
 >
-> On ne connaît que le peuple « paisible » qui se soumet  
-> On ne connaît que le peuple « patient » qui endure
+> Gens de paix qui ne savent qu'obéir  
+> Gens de paix qui ne savent qu'endurer
 >
-> Autour de la scène, on applaudit, on regarde  
-> C’est ce que vous avez permis de jouer
+> Entourant la scène  
+> Applaudissant, regardant la pièce
 >
-> Tant de gens paisibles  
-> Préférant, sous la scène,  
-> Mâcher la canne à sucre, croquer le pruneau salé.
+> C'est toi qui permets qu'il la joue
 >
-> **Conserver la seule vie qui reste**  
-> Voir  
-> _Pi‑an‑hsi_.
+> Tant, tant de gens de paix  
+> Préfèrent sous la scène  
+> Ronger la canne, sucer les prunes salées.
+>
+> **Ne conserver que leur unique vie**  
+> Regarde  
+> La Pièce de paix.
 
-Le vers « Conserver la seule vie qui reste » constitue le nœud du poème. Une analyse de _Key Opinion Review_ (2021) explique que le public sait qu’il y a la mort sur scène, mais que sortir de la scène peut signifier la disparition ; ainsi, la soumission devient endurance, le spectateur devient « paix ». [^2] Hong Su‑ling, professeure à l’Université nationale de Taïwan, propose trois niveaux de lecture : critique moderne du folklore, satire politique sous le régime autoritaire, et éthique universelle du « survivre à tout prix ». [^8]
+« Ne conserver que leur unique vie » est le verrou du poème. Le _Critical Review Network_ en 2021 note en lecture croisée : les gens ne savent pas qu'il y a la mort sur la scène, ils savent qu'en sortir peut valoir la disparition, alors ils appellent obéissance l'endurance, et spectature la paix. [^2] La lecture guidée de Hong Shu-ling (Département de chinois de NTU) déploie trois strates — critique moderne de l'irrationnel folklorique, ironie politique sous l'autoritarisme, et l'éthique universelle « tous ne cherchent qu'à se sauver et finissent asservis ». [^8]
 
-Du Pan Fang‑ge a ensuite réécrit le poème en Hakka. Le Musée national de la littérature taïwanaise conserve le manuscrit Hakka de 1995. Le _Taipei Times_ signale que la version Hakka n’est pas une traduction littérale ; elle introduit des figures de style propres au Hakka. Le texte final en Hakka se lit ainsi :
+Elle réécrira ensuite ce poème en **hakka**. Le Musée national de la littérature de Taïwan conserve le manuscrit hakka de 1995. [^9] Le _Taipei Times_ en anglais précise : la version hakka n'est pas une traduction mot à mot, elle y injecte des figures de style hakka absentes de la version chinoise. [^4] La fin en hakka citée par VERSE a l'oralité de qui mâche la racine de radis séché :
 
-> 多多个平安人  
-> 情愿囓菜餔根  
-> K甘蔗含李仔鹼  
-> 保持一條佢个老命  
-> 看，平安戲。
+> Tant, tant de gens de paix  
+> Veulent bien ronger la racine de _cai-bu_  
+> K ronger la canne, sucer les prunes salées  
+> Ne conserver qu'une seule de leurs vieilles vies  
+> Regarde, la Pièce de paix. [^8]
 
-Le même sens, mais avec une musculature vocale différente. Pour une poétesse transculturelle, il ne s’agit pas d’un jeu de style, mais d’une question de **qui a le droit d’utiliser quelle voix pour témoigner d’une complicité**.
+Même éthique, autre musculature buccale. Pour la poétesse translingue, ce n'est pas un jeu de style, c'est la question de **qui a le droit d'utiliser quelle voix pour dire la complicité**.
 
-⚠️ **Point de vue controversé** : lire _Pi‑an‑hsi_ uniquement comme une critique du Kuomintang ou comme une dénonciation de la lâcheté Hakka réduit l’œuvre. Le poème vise simultanément le pouvoir, le spectateur et la tendance à « glorifier la soumission ». L’histoire familiale de Zhang Chi‑lang donne au poème un poids sanguin, mais ne le cantonne pas à une vengeance personnelle.
+⚠️ **Point de controverse** : Lire « Pièce de paix » comme « seulement anti-KMT » ou « seulement critique de la lâcheté hakka », c'est le rétrécir. La lame vise à la fois le système, les spectateurs, et l'auto-illusion qui sublime l'obéissance en vertu. L'histoire familiale Zhang Qilang donne du poids sanguin à cette lame, mais ne réduit pas le poème à un journal de vengeance familiale.
 
-## Le cochon « Gān‑yuàn » : le miroir du _Zhongyuan_ inversé
+Cette même éthique se relit à toute époque : silence en entreprise, spectature sur les campus, « d'abord se protéger » sur les réseaux sociaux. Ce n'est pas relativiser la Terreur blanche, c'est reconnaître que Du Pan Fang-ge a forgé son expérience historique particulière en **formule éthique transplantable** — c'est pourquoi une chanson pop de 2021 peut encore se brancher sur les vers de 1977. [^2]
 
-Dans la version Hakka du _Zhongyuan_ (fête des morts), le cochon porte le fruit « Gān‑yuàn » (volonté). Le texte indique : « C’est moi qui mets la « volonté » dans le cochon, ou c’est toi. » Le chaos du rite révèle des individus qui ne se reconnaissent plus dans la communauté, se déclarant « solitaire ». Cette juxtaposition avec le poème _Paper Man_ accentue la recherche d’une authenticité corporelle au sein d’un univers de figures religieuses.
+## Le cochon de sacrifice qui tient le « consentement » : l'autre miroir de « Fête des fantômes »
 
-![Compounds Hakka traditionnels à Tongluo, Miaoli. Les espaces matériels (maisons, autels, scènes) sont essentiels à la compréhension du *Pi‑an‑hsi* et du *Zhongyuan*.](/article-images/people/dupan-hakka-compound-tongluo.webp)
-_Compounds Hakka à Tongluo, Miaoli — le décor vivant du rituel, non un simple symbole touristique. Photo via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hakka_Compound,_Tongluo,_Miaoli_(Taiwan).jpg).\_
+Si « Pièce de paix » regarde les gradins, « Fête des fantômes » regarde le cochon sur l'autel. La version hakka écrit : le grand cochon a dans la gueule un fruit qu'on appelle « consentement », et celui qui fourre le « consentement » dedans, « c'est nous, pas toi ». [^10] Dans la ferveur du Pudu, quelqu'un dans la foule « ne se souvient plus que tu es de la même espèce ». Quelqu'un d'autre prend conscience d'être un « homme bananier au cœur solitaire ». [^10]
 
-## Après la levée de la loi martiale, la langue maternelle passe du « chez nous » à l’« écrit »
+Cela frappe d'autant plus mis à côté du vocabulaire de foi de « L'homme de papier » : l'homme de papier tremble au vent d'automne, elle écrit « mon corps est le vase, mon cœur est le temple », cherchant « l'homme vrai » dans un monde bourré d'hommes de papier. [^11] La poétesse chrétienne dissèque la fête populaire, pas pour un buzz de guerre culturelle, mais pour demander : **qui est sommé de consentir, qui a le droit de regarder la pièce.**
 
-En 1987, la loi martiale est levée. Le 28 décembre 1988, le mouvement « Rendez‑nous notre langue maternelle » défile dans les rues. Du Pan Fang‑ge, alors dans la soixantaine, n’a jamais été à l’aise avec l’écriture en mandarin ; le japonais restait la langue la plus fluide pour la pensée créative. Un jour, elle réalise que certaines phrases se forment directement en Hakka. « I picked the words up and wove them into Hakka poems, » raconte‑t‑elle, admettant les limites du vocabulaire littéraire et la douleur d’une langue « sans caractères ». [^4]
+![Architecture traditionnelle de cour hakka vers Tongluo, Miaoli. Le monde matériel de la poésie hakka n'est pas des « symboles terroirs », mais le lieu de vie où s'entrelacent agglomérations, rites, chapiteaux et oralité quotidienne.](/article-images/people/dupan-hakka-compound-tongluo.webp)
+_La cour traditionnelle hakka (Tongluo, Miaoli) — comprendre les scènes folkloriques de « Pièce de paix » et « Fête des fantômes », il faut d'abord remettre le chapiteau et la salle publique du statut de symboles touristiques à celui de lieux d'éthique vivante. Photo via [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Hakka_Compound,_Tongluo,_Miaoli_(Taiwan).jpg>).\_
 
-Vers 1989, elle publie activement en Hakka ; les années 1990 voient la sortie de _Zhao‑qing_, _Yuan‑qian‑hu_, _Qing‑feng‑lan‑bo_ et _Fu‑rong‑hua de jié jié_. En 1992, son recueil _Yuan‑qian‑hu_ (en mandarin, anglais et japonais) remporte le premier prix du **Prix de poésie Chen Xiu‑xi**. Certains critiques, comme Bai Chi, jugent son mandarin insuffisamment raffiné ; d’autres, comme Li Yuan‑chen et Li Min‑yong, soulignent la brillance des éclats rustiques. [^12]
+## Après la levée de la loi martiale, la langue maternelle passe du « parlé à la maison » à « écrit sur le papier »
 
-Elle s’inspire de Dante (en italien) pour affirmer que la langue doit être élevée par l’œuvre, non attendue par l’État. Elle avertit également que, lorsque le public réclame le « taiwanese », il ne faut pas réduire le taiwanese à un seul accent : « *Aboriginal languages and Hakka are also Taiwanese.* » [^4]
+1987, levée de la loi martiale. 28 décembre 1988, la marche hakka **« Rendez-nous notre langue maternelle »** descend dans la rue. [^4] Du Pan Fang-ge a alors la soixantaine passée. Elle n'a jamais été vraiment à l'aise en écriture chinoise — le japonais reste sa langue de pensée la plus fluide ; un jour, elle découvre que certaines phrases **viennent directement formées en hakka**. « I picked the words up and wove them into Hakka poems », décrira-t-elle ainsi, avouant en même temps la douleur du vocabulaire littéraire insuffisant, des sons sans caractères. [^4]
 
-Après une courte période aux États‑Unis (début 1980) et l’obtention de la citoyenneté américaine en mai 1982, elle revient à Zhongli. Cette expérience transatlantique ajoute une pression linguistique supplémentaire (l’anglais) et transforme les questionnements sur l’« île », le « réfugié » et la « nation » en un poids de bagage. Son écriture en Hakka après son retour constitue ainsi un **troisième pacte** : un engagement volontaire à réaffirmer la souveraineté de la langue maternelle.
+Vers 1989, elle commence à publier activement en hakka ; années 1990 paraissent 《 Zhao-qing 》《 Yuan-qian-hu 》《 Qing-feng Lan-bo 》《 Saison des fleurs d'hibiscus 》, la langue naviguant entre chinois, hakka, japonais, anglais. [^1] 1992, 《 Yuan-qian-hu 》 écrit en chinois, anglais, japonais reçoit le premier **Prix de poésie Chen Xiu-xi**. [^1] Bai Qiu avait critiqué son chinois pas assez ciselé ; Li Yuan-zhen, Li Min-yong insistaient que la rusticité recèle des écailles de lumière — le prix est arraché dans la controverse, pas applaudi par tous. [^12]
+
+Elle prend Dante écrivant _La Divine Comédie_ en italien comme référence : la langue se hisse par l'œuvre, on n'attend pas que l'officiel la déclare élégante. [^4] Elle met aussi en garde : après la levée, tous se ruent sur le « taïwanais » — ne le réduisez pas à un seul accent — « Les langues autochtones et le hakka sont aussi du taïwanais. » [^4]
+
+Pour elle, le japonais et la langue nationale furent « forced to learn by authorities », « represent our enslavement » ; l'outil de communication peut s'emprunter, **la souveraineté de la langue maternelle ne peut plus être traitée comme chose empruntée.** [^4]
+
+Années 1980, elle vit quelques années aux États-Unis, obtient la nationalité américaine en mai 1982, puis rentre s'installer à Zhongli. [^1][^13] L'expérience transocéanique ajoute une couche de pression linguistique (l'anglais), et transforme la question « île / réfugié / nation » de l'abstrait au poids des bagages. L'écriture hakka d'après son retour n'est donc pas nostalgie, c'est la **troisième alliance** après changement forcé de langue, départ volontaire, retour au pays.
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin:1.5rem 0;">
-  <iframe src="https://www.youtube.com/embed/OibAtswHQwQ" title="Poète Hakka Du Pan Fang‑ge et le quartier littéraire de Zhongli" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/OibAtswHQwQ" title="Introduction à la poétesse hakka Du Pan Fang-ge et au quartier littéraire de Zhongli" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Audio‑visuel : présentation culturelle publique de Du Pan Fang‑ge et du quartier littéraire de Zhongli (YouTube). Les installations poétiques dans la rue traduisent le passage du texte à la vie quotidienne._
+_Audiovisuel : reportage culturel public sur Du Pan Fang-ge et le quartier littéraire de Zhongli à Taoyuan (YouTube). Les installations de vers dans la rue sont la forme contemporaine du passage du poème de la page au chemin quotidien._
 
-## Un arbre‑femme, pas une fleur à chérir
+## Un arbre-femme, pas une fleur qu'on veut chérir
 
-Hong Su‑ling met en avant le poème *Arbre d’amour* :
+Hong Shu-ling relève tout particulièrement l'auto-nommage de « L'arbre de la relative-pensée » :
 
 > Je suis aussi  
-> née sur l’île,  
-> un **arbre‑femme**.
+> Née sur l'île  
+> Un arbre-femme. [^8]
 
-La métaphore florale tend à présenter les femmes comme objets de regard, de coupe ou de don. L’arbre, lui, requiert racines, vent et temps. L’image publique de Du Pan Fang‑ge — « tante », « grand‑mère » — masque la dureté de ses poèmes, qui abordent la citoyenneté, le rituel, le _Pi‑an‑hsi_ et le _Paper Man_. Le Musée national d’histoire de Taïwan, dans la rubrique « Femmes taïwanaises », cite son poème *Voix* : « Quand on ne peut plus entendre que son propre souffle, la langue se retrouve enfermée, attendant une nouvelle voix chaque jour. » [^5] La tristesse transculturelle n’est pas une simple rhétorique ; c’est une aphasie physiologique, et la poésie Hakka devient la sortie que l’auteur a attendue.
+La métaphore de la fleur enferme trop souvent la femme dans l'être-regardée, cueillie, offerte. L'arbre veut des racines, du vent, du temps. L'image publique de Du Pan Fang-ge se laisse facilement ramasser en « Tante Du Pan / Grand-mère » bienveillante — quartier littéraire de Zhongli, activités culturels hakka, couvertures d'anthologies — mais l'arbre du poème a aussi un bord dur rationnel : citoyenne, Pudu, Pièce de paix, homme de papier. Hong Shu-ling note que sa vision de l'histoire compte comme citoyens de Taïwan les habitants du passé, du présent, du futur, y compris ceux déjà devenus engrais dans la boue. [^8]
 
-Le commentaire de VERSE souligne le poème *Parents’ House* : la mère, dans la chapelle, ressemble à une rose fière, tandis que le père, ombre imposante, plane parfois au-dessus. Cette dynamique familiale n’est pas un décor, mais le premier laboratoire où la poétesse explore comment l’oppression structurelle s’enracine dans les relations les plus intimes. Ses multiples identités (assistante de cabinet, professeure d’arrangement floral, mère, poétesse, chrétienne) se superposent, donnant à son œuvre son poids ; réduire son identité à « poétesse » en appauvrirait la portée.
+L'entrée « Femmes de Taïwan » du Musée national d'histoire de Taïwan cite « La voix » : on ne sait quand le seul son infime qu'on s'écoutait soi-même a été mis sous clef, la langue a perdu sa sortie, on ne peut que jour après jour attendre gravement, endurer, une nouvelle voix. [^5] La peine translingue n'est pas là rhétorique, c'est une aphasie physiologique ; la poésie hakka est la sortie qu'elle a attendue, et qu'elle a elle-même fait pousser.
 
-> 📝 **Note du curateur** : ne limitez pas Du Pan Fang‑ge à « représentante Hakka » ou à « descendante du 28 février 1947 ». Les quatre axes—transculturalité, 28 février, femme Hakka, _Pi‑an‑hsi_—sont indispensables pour saisir la totalité de son apport.
+La lecture de VERSE apporte aussi « La demeure des parents » : la mère à la chapelle comme rose superbe, l'ombre grande du père pourtant qui voile par moments ; le poème écrit « et il y a la mère qui habite dans la croix / le père qui habite dans la mère / tous deux qui habitent dans une épine de la rose superbe. » [^8] La famille n'est pas décor, c'est son premier terrain d'entraînement à « comment l'oppression structurelle loge dans la relation la plus intime ». Assistante de clinique, professeure d'ikebana, mère éducatrice, poétesse, chrétienne : ces identités simultanées donnent du poids au poème ; les séparer en étiquette « poétesse femme », c'est l'alléger.
 
-## Prix, manuscrits et seconde vague de lecture après _Kola‑Qi_
+> 📝 **Note de la commissaire** : Lire Du Pan Fang-ge seulement comme « représentante hakka » ou seulement comme « famille de victime du 228 », c'en perdre la moitié. Quatre axes doivent tourner ensemble — translingue, 228, femme hakka, dénonciation sociale — pour qu'elle ne soit pas un panneau unique dans un musée commémoratif.
 
-Les institutions publiques et académiques ont finalement reconnu son œuvre : le Conseil des affaires Hakka lui a décerné le **Prix de contribution exceptionnelle** (2007) et le **Prix de contribution à la nouvelle littérature taïwanaise** (2007) ; l’Université de Truth a attribué le **Prix Oxford de la littérature taïwanaise** (2008). Du Pan Fang‑ge décède le 10 mars 2016, à 89 ans, dans son domicile, après une veillée funèbre où le Conseil Hakka lui a remis une reconnaissance présidentielle. [^1][^13]
+## Prix, manuscrits, et la deuxième lecture après Koala Liu
 
-En mars 2017, la famille a offert **340 manuscrits** (japonais, mandarin, Hakka) à la Bibliothèque centrale nationale, constituant un véritable champ de bataille linguistique. Le _Taipei Times_ cite ses propos de 2004 : « If you ask me why I write, you might as well ask me why I live. » [^4]
+Les institutions publiques et académiques rattrapent les couronnes en retard : 2007, « Prix de contribution exceptionnelle » et « Prix de contribution à la nouvelle littérature de Taïwan » du Conseil des affaires hakka, 2008 « Prix du littérateur de Taïwan à Oxford » de l'Université Aletheia. [^1] 10 mars 2016, elle s'éteint dans son sommeil à son domicile, à 89 ans ; la cérémonie de commémoration voit le Conseil des affaires hakka remettre la citation présidentielle. [^1][^13]
 
-En 2021, le groupe indie **Kola‑Qi** a popularisé le poème _Mille fleurs maternelles_, rappelant les images de la terreur blanche. La critique de _Key Opinion Review_ juxtapose la chanson et *Pi‑an‑hsi* : les deux œuvres utilisent la scène et la canne à sucre comme métaphores d’une incapacité à affronter directement le traumatisme. [^2] L’importance réside moins dans la validation officielle que dans la façon dont une nouvelle génération réactive les lignes éthiques de 1977.
+Mars 2017, la famille donne **340** manuscrits à la Bibliothèque nationale centrale — japonais, chinois, hakka côte à côte, comme si on avait plié en feuillets tournables le champ de bataille linguistique d'une vie. [^4] Le _Taipei Times_ cite sa parole à _Ink_ en 2004 : « If you ask me why I write, you might as well ask me why I live. » [^4]
 
-![Festival Hakka du Tung‑hua à Tongluo. La visibilité publique du Hakka après la fin du mouvement « Rendez‑nous notre langue maternelle » se reflète dans la culture populaire ; la poésie de Du Pan Fang‑ge constitue l’un des premiers piliers littéraires de cette revitalisation.](/article-images/people/dupan-hakka-tung-festival.webp)
-_Festival Hakka du Tung‑hua (2014) — la visibilité du Hakka dans la culture publique, parallèle à la continuité littéraire de Du Pan Fang‑ge. Photo via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2014%E5%AE%A2%E5%AE%B6%E6%A1%90%E8%8A%B1%E8%88%9E%E8%B9%88%E5%A4%A7%E8%B3%BD_Hakka_Tung_Blossom_Festival_-_panoramio.jpg)._
+Vers 2021, le groupe indie **Koala Liu** (珂拉琪) explose avec « Dix mille cœurs de fleurs, chagrin de la mère compatissante », la ligne « des gens de chair et de sang, disparus sans trace » massivement lue comme évocation de la Terreur blanche. Le _Critical Review Network_ met la chanson en parallèle avec « Pièce de paix » : l'une hurle au bodhisattva, l'autre regarde la canne sous le chapiteau — toutes deux **écritures indirectes quand on ne peut regarder le traumatisme en face**. [^2] Que Koala Liu soit ou non « certifié officiel » création sur la Terreur blanche importe peu ; l'essentiel est que les oreilles d'une nouvelle génération rebranchent le circuit éthique déjà posé en 1977.
 
-## Pourquoi lire Du Pan Fang‑ge en 2026 ?
+![Danse et foule de la Fête des fleurs de paulownia hakka. La langue maternelle du foyer vers la scène publique culturelle, c'est le long chantier d'après le mouvement « Rendez-nous notre langue » des années 1980 ; la poésie hakka de Du Pan Fang-ge en est l'un des premiers murs porteurs côté littérature.](/article-images/people/dupan-hakka-tung-festival.webp)
+_Activité de la Fête des fleurs de paulownia hakka (2014) — la visibilité hakka dans la culture publique et l'écriture en hakka dans la littérature sont deux bras du même long fleuve de revitalisation. Photo via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2014%E5%AE%A2%E5%AE%B6%E6%A1%90%E8%8A%B1%E8%88%9E%E8%B9%88%E5%A4%A7%E8%B3%BD_Hakka_Tung_Blossom_Festival_-_panoramio.jpg)._
 
-Dans la cartographie de Taiwan.md, Du Pan Fang‑ge occupe quatre points d’intersection :
+## Pourquoi la lire encore en 2026
 
-1. **Génération transculturelle** – aux côtés de Chen Qian‑wu, Lin Heng‑tai, Jin Lian.
-2. **Descendante d’une victime du 28 février 1947** – la lignée Zhang Chi‑lang, au‑delà d’une simple donnée statistique.
-3. **Poétesse Hakka** – tension entre le rôle de « bonne épouse » et celui de créatrice autonome.
-4. **« Pi‑an‑hsi »** – transformation du vœu de paix en une problématique éthique politique.
+Dans les coordonnées de Taiwan.md, Du Pan Fang-ge occupe au moins quatre carrefours :
 
-Ajoutons la **« tour de Babel souveraine »** : la poésie Hakka est l’un des rares modèles linguistiques de Taïwan que les grands corpus internationaux négligent, modifient ou laissent vide. En insistant sur le Hakka à l’écrit, elle ne pratique pas seulement une esthétique locale ; elle affirme la présence d’une voix qui pourrait autrement être censurée. Sa persistance constitue une forme de défense : inscrire ses poèmes dans une base de connaissances ouverte, c’est ancrer une première‑personne taïwanaise avant que les filtres de données ne l’effacent.
+1. **Génération translingue** — voix féminine sur la même table d'opération historique que Chen Qian-wu, Lin Heng-tai, Jin Lian
+2. **Famille de victime du 228** — la ligne Zhang Qilang prolongée en littérature, pas une note de bas de page chiffrée
+3. **Poétesse hakka** — tension à vie entre rôle de « femme vertueuse » et sujet poétique
+4. **« Pièce de paix »** — qui réécrit « paix » de bénédiction en problème d'éthique politique
 
-Son parcours littéraire peut se résumer ainsi : _Ching‑shou_ (1977) → _Huai‑shan Wan‑hai_ (1986) → _Zhao‑qing_, _Yuan‑qian‑hu_ (vers 1990) → _Qing‑feng‑lan‑bo_ (1993) → _Fu‑rong‑hua de jié jié_ (1997). Entre ces titres se mêlent les années aux États‑Unis, les expérimentations en Hakka, les fonctions administratives du groupe poétique et les débats sur les prix. Se concentrer uniquement sur _Pi‑an‑hsi_ comme œuvre phare ferait l’impasse sur _Voix_, _Zhongyuan_ et _Arbre d’amour_, ainsi que sur la façon dont elle écrit sur le quotidien familial tout en abordant les enjeux sociopolitiques.
+Si l'on ajoute « la tour de Babel de la souveraineté » : la poésie hakka est l'une des langues taïwanaises que les grands modèles internationaux refusent le plus souvent de répondre, réécrivent ou laissent vides. Qu'elle tienne le hakka sur le papier, ce n'est pas seulement esthétique terroir, c'est faire **exister d'abord une voix qu'on fait taire**. L'existence elle-même est défense. Mettre ses poèmes dans une base de connaissances ouverte, c'est planter un pieu de première personne taïwanaise avant que le corpus d'entraînement ne soit filtré.
 
-À Zhongli, son nom orne désormais le quartier littéraire et les itinéraires culturels : des citations poétiques sur les murs, des panneaux d’interprétation, permettant même aux passants qui n’achètent pas de recueils de croiser « l’arbre‑femme ». Cette visibilité publique peut réduire la poétesse à une figure douce, mais si les guides s’attardent sur le vers « Conserver la seule vie qui reste », la scène garde son tranchant. L’enseignement du Hakka, la radio, les rééditions de ses recueils assurent une continuité discrète : il ne s’agit pas d’une popularité virale, mais d’une présence récurrente dans les salles de classe où la langue maternelle se réapprend.
+Ses principaux recueils forment une chronologie très courte : 《 Qing-shou 》(1977) → 《 Huai-shan Wan-hai 》(1986) → 《 Zhao-qing 》《 Yuan-qian-hu 》(vers 1990) → 《 Qing-feng Lan-bo 》(1993) → 《 Saison des fleurs d'hibiscus 》(1997). [^1] Entre-deux : années américaines, expériences hakka, administration de la société de poésie, controverses des prix. Si l'on ne pioche dans l'anthologie que « Pièce de paix » comme poème-représentant, on rate « La voix » et son aphasie, « Fête des fantômes » et son consentement, « L'arbre de la relative-pensée » et son arbre-femme, et ces poèmes en apparence sur le riz du matin d'automne qui disent en fait les enfants qui quittent le nid. [^8]
 
-Le théâtre peut être démoli, la canne à sucre ramassée, mais chaque fois que l’on entend « Ne cherchez pas les ennuis, cherchez la paix », le vers « C’est ce que vous avez permis de jouer » résonne simultanément en Hakka et en mandarin.
+À Zhongli, son nom est désormais inscrit dans le quartier littéraire et les circuits culturels locaux — vers sur les murs, guidage en ligne, pour que le passant qui n'achètera pas le recueil puisse quand même, au coin d'une arcade, heurter « l'arbre-femme ». [^14] Double tranchant : la commémoration publique adoucit facilement le poète en repère bienveillant, mais si le guide accepte de s'arrêter sur « Ne conserver que leur unique vie » de « Pièce de paix », la rue garde son tranchant. L'éducation en langue hakka, les lectures radiophoniques, les rééditions d'anthologies, c'est l'autre ligne, plus silencieuse : pas le buzz viral, mais la voix qu'on relit en classe de langue maternelle. Pour l'histoire de la littérature taïwanaise, ce qu'elle comble n'est pas « une poétesse de plus », mais la voix hakka féminine peu entendue sur la table d'opération translingue, et ce coup de lame qui transforme la fête folklorique en papier test d'éthique politique.
 
-Du Pan Fang‑ge s’est éteinte en 2016. En 2017, ses manuscrits ont été déposés à la Bibliothèque nationale. En 2021, une chanson populaire a ramené les jeunes vers la scène du _Pi‑an‑hsi_. Avant de refermer cette page, posez‑vous une petite question :
+Le chapiteau est peut-être démonté, les bagasses de canne peut-être balayées. Mais chaque fois que quelqu'un dit « ne cherchez pas d'ennuis, demandez juste la paix », cette phrase de « Pièce de paix » — « C'est toi qui permets qu'il la joue » — résonne encore des deux côtés, hakka et chinois.
 
-**Êtes‑vous maintenant sur la scène, ou sous la scène, en train de mâcher la canne à sucre ?**
+2016, elle part dans son sommeil. 2017, les manuscrits entrent à la bibliothèque. 2021, une chanson pop ramène les jeunes sous le chapiteau.  
+Avant de tourner cette page, le lecteur peut se poser une toute petite question —
+
+**Vous, maintenant, êtes-vous sur la scène, ou sous la scène à ronger la canne ?**
 
 ---
 
 **Lectures complémentaires** :
 
-- [Société Li Poésie](/fr/art/li-poetry-society) — Le collectif poétique local auquel elle a adhéré en 1965
-- [Événement du 28 février 1947](/fr/history/228-incident) — Contexte du massacre qui a touché la famille Zhang
-- [Terreur blanche à Taïwan](/fr/history/taiwan-white-terror) — Cadre politique du _Pi‑an‑hsi_
-- [Histoire de la littérature taïwanaise](/fr/art/history-of-taiwanese-literature) — Position de la génération transculturelle et de la littérature en langue maternelle
-- [Monah‑Neng](/fr/people/monaneng) — Autre figure qui a utilisé une langue non maternelle pour s’exprimer
-- [Poésie moderne taïwanaise](/fr/art/taiwanese-modern-poetry) — Cartographie des réseaux poétiques d’après‑guerre
+- [Li Poetry Society](/fr/art/li-poetry-society) — le réseau de la société de poésie nativiste qu'elle rejoint en 1965
+- [Incident du 228](/fr/history/228-incident) — la structure traumatique insulaire où s'inscrit l'affaire Zhang Qilang
+- [Terreur blanche à Taïwan](/fr/history/taiwan-white-terror) — le contexte institutionnel de la lecture politique de « Pièce de paix »
+- [Histoire de la littérature taïwanaise](/fr/art/history-of-taiwanese-literature) — la place de long terme de la génération translingue et de la littérature en langue maternelle
+- [Mona Rudao](/fr/people/monaneng) — un autre parcours « parler pour son groupe en langue non maternelle / sinogrammes »
+- [Poésie moderne taïwanaise](/fr/art/taiwanese-modern-poetry) — la carte plus large de l'écosystème des sociétés de poésie d'après-guerre
 
-## Sources d’images
+## Sources des images
 
-- [Pan House à Xinpu] (https://commons.wikimedia.org/wiki/File:%E6%96%B0%E5%9F%94%E6%BD%98%E5%B1%8B%E5%85%A8%E6%99%AF.jpg) — image principale, paysage familial
-- [Maison de Wu Zhuoliu] (https://commons.wikimedia.org/wiki/File:%E6%96%B0%E5%9F%94%E5%90%B3%E6%BF%81%E6%B5%81%E6%95%85%E5%B1%85.jpg) — réseau littéraire transculturel
-- [Hakka Compound, Tongluo, Miaoli] (https://commons.wikimedia.org/wiki/File:Hakka_Compound,_Tongluo,_Miaoli_(Taiwan).jpg) — décor du rituel
-- [Festival Hakka du Tung‑hua 2014] (https://commons.wikimedia.org/wiki/File:2014%E5%AE%A2%E5%AE%B6%E6%A1%90%E8%8A%B1%E8%88%9E%E8%B9%88%E5%A4%A7%E8%B3%BD_Hakka_Tung_Blossom_Festival_-_panoramio.jpg) — visibilité culturelle du Hakka
+Cet article utilise des **images de paysage et de contexte culturel** faute de portrait CC réutilisable stable (vérification Wikimedia / entrée Wikipédia au 12-07-2026 sans portrait stable) :
 
-**Sources**
+- [Panorama de la demeure Pan de Xinpu](https://commons.wikimedia.org/wiki/File:%E6%96%B0%E5%9F%94%E6%BD%98%E5%B1%8B%E5%85%A8%E6%99%AF.jpg) — image d'ouverture, paysage familial
+- [Ancienne demeure de Wu Zhuo-liu à Xinpu](https://commons.wikimedia.org/wiki/File:%E6%96%B0%E5%9F%94%E5%90%B3%E6%BF%81%E6%B5%81%E6%95%85%E5%B1%85.jpg) — réseau littéraire translingue compatriote
+- [Cour hakka, Tongluo, Miaoli](<https://commons.wikimedia.org/wiki/File:Hakka_Compound,_Tongluo,_Miaoli_(Taiwan).jpg>) — scène de vie hakka
+- [Concours de danse de la Fête des fleurs de paulownia 2014](https://commons.wikimedia.org/wiki/File:2014%E5%AE%A2%E5%AE%B6%E6%A1%90%E8%8A%B1%E8%88%9E%E8%B9%88%E5%A4%A7%E8%B3%BD_Hakka_Tung_Blossom_Festival_-_panoramio.jpg) — visibilité publique de la langue maternelle
 
-[^1]: [Wikipedia — Du Pan Fang‑ge](https://zh.wikipedia.org/zh-hant/%E6%9D%9C%E6%BD%98%E8%8A%B3%E6%A0%BC) — biographie, affiliation à la Société Li Poésie, chronologie des recueils, histoire familiale Zhang, prix et décès 2016.
+Audiovisuel optionnel : Hakka TV / reportages culturels « Quartier littéraire Du Pan Fang-ge » etc. programmes publics (YouTube), en extension non indispensable au texte.
 
-[^2]: [Key Opinion Review — Kola‑Qi et Du Pan Fang‑ge « Pi‑an‑hsi »](https://www.thenewslens.com/article/148153) — texte complet du _Pi‑an‑hsi_ mandarin 1977, lecture de la terreur blanche.
+## Références
 
-[^3]: [Fondation du 28 février 1947 — Zhang Chi‑lang](https://www.228.org.tw/228heroes/6359bf2c-bd93-4b7c-9821-503e26939c46) — faits du massacre de Zhang Chi‑lang et contexte politique à Hualien.
+[^1]: [Wikipédia — Du Pan Fang-ge](https://zh.wikipedia.org/zh-hant/%E6%9D%9C%E6%BD%98%E8%8A%B3%E6%A0%BC) — Naissance/décès, origine Xinpu, Li Poetry Society 1965, chronologie recueils, histoire familiale Zhang Qilang, prix et décès 2016.
 
-[^4]: [Taipei Times — The sweet sound of the mother tongue](https://www.taipeitimes.com/News/feat/archives/2017/03/05/2003666154) — article 2017 : 340 manuscrits, définition de la génération transculturelle, transition vers le Hakka.
+[^2]: [Critical Review Network — Koala Liu et Du Pan Fang-ge « Pièce de paix »](https://www.thenewslens.com/article/148153) — Reprise 2021 du texte intégral de la version chinoise 1977 de « Pièce de paix » dans 《 Qing-shou 》, lecture croisée écriture cachée Terreur blanche.
 
-[^5]: [Taïwan Women — Du Pan Fang‑ge, poétesse Hakka transversale](https://women.nmth.gov.tw/?p=2062) — entrée du Musée national d’histoire de Taïwan, citations de _Voix_ et contexte de la Société Li Poésie.
+[^3]: [Fondation commémorative du 228 — Zhang Qilang](https://www.228.org.tw/228heroes/6359bf2c-bd93-4b7c-9821-503e26939c46) — Faits de l'assassinat du docteur Zhang Qilang et ses fils à Fenglin Hualien lors du 228, et contexte politique local.
 
-[^6]: [Wikipedia — Zhang Chi‑lang](https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E4%B8%83%E9%83%8E) — biographie de Zhang Chi‑lang et son sort pendant le 28 février.
+[^4]: [Taipei Times — The sweet sound of the mother tongue](https://www.taipeitimes.com/News/feat/archives/2017/03/05/2003666154) — Reportage 2017 : 340 manuscrits, définition translingue, tournant hakka et discours sur la langue forcée.
 
-[^7]: [Wikipedia — Société Li Poésie](https://zh.wikipedia.org/zh-hant/%E7%AC%A0%E8%A9%A9%E7%A4%BE) — création en 1964, adhésion de Du Pan Fang‑ge en 1965.
+[^5]: [Femmes de Taïwan — La poétesse hakka transfrontière Du Pan Fang-ge](https://women.nmth.gov.tw/?p=2062) — Entrée du Musée national d'histoire de Taïwan, avec citation de « La voix » et contexte Li Poetry Society.
 
-[^8]: [VERSE — Analyse de Du Pan Fang‑ge](https://www.verse.com.tw/article/hakka-du-pan-fang-ge) — étude 2023 : arbre‑femme, lecture du _Pi‑an‑hsi_ en Hakka, perspective citoyenne.
+[^6]: [Wikipédia — Zhang Qilang](https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E4%B8%83%E9%83%8E) — Biographie de Zhang Qilang et assassinat 228 ; recoupement avec le récit « grand-oncle » de Du Pan Fang-ge.
 
-[^9]: [Musée national de la littérature taïwanaise — _Pi‑an‑hsi_ (manuscrit Hakka)](https://collections.culture.tw/nmtl_collectionsweb/GalData.aspx?GID=M1MHMAMAMXMD) — date du manuscrit 1995, auteur Pan Fang‑ge (Du Pan Fang‑ge).
+[^7]: [Wikipédia — Li Poetry Society](https://zh.wikipedia.org/zh-hant/%E7%AC%A0%E8%A9%A9%E7%A4%BE) — Société de poésie nativiste fondée 1964 ; Du Pan Fang-ge y entre 1965, non fondatrice.
 
-[^10]: [Lecture quotidienne — _Zhongyuan_ de Du Pan Fang‑ge](https://cendalirit.blogspot.com/2016/05/20160525.html) — texte complet en Hakka et annotations lexicales.
+[^8]: [VERSE — Lecture guidée Du Pan Fang-ge](https://www.verse.com.tw/article/hakka-du-pan-fang-ge) — Lecture guidée 2023 de Hong Shu-ling : arbre-femme, fin hakka de Pièce de paix, vision civique du poème.
 
-[^11]: [Merit Times — _Paper Man_ de Du Pan Fang‑ge](https://www.merit-times.com.tw/NewsPage.aspx?unid=241341) — vers clés et dimension spirituelle.
+[^9]: [Collections du Musée national de la littérature de Taïwan — Pièce de paix (poème hakka)](https://collections.culture.tw/nmtl_collectionsweb/GalData.aspx?GID=M1MHMAMAMXMD) — Manuscrit daté 1995, auteure Pan Fang-ge (Du Pan Fang-ge).
 
-[^12]: [Taiwan New Culture — Douleur du salut : religion et littérature](https://www.twcenter.org.tw/thematic_series/character_series/taiwan_litterateur_interview/b01_7101/b01_7101_1) — interview 1997 : entrepôt japonais, hésitation Hakka, débat du prix Chen Xiu‑xi.
+[^10]: [Un poème par jour pour vous — Fête des fantômes ◎ Du Pan Fang-ge](https://cendalirit.blogspot.com/2016/05/20160525.html) — Extrait de 《 Qing-feng Lan-bo 》 texte intégral hakka et notes lexiques.
 
-[^13]: [English Wikipedia — Fangge Dupan](https://en.wikipedia.org/wiki/Fangge_Dupan) — résumé biographique international, décès 2016, honneurs.
+[^11]: [Merit Times — Le « Homme de papier » de Du Pan Fang-ge](https://www.merit-times.com.tw/NewsPage.aspx?unid=241341) — Phrases clés de « L'homme de papier » et lecture de sa dimension de foi.
 
-[^14]: [Wenhsun — Du Pan Fang‑ge](https://www.wenhsun.com.tw/authorsite/detail/15) — mise à jour biographique et validation de la « génération transculturelle ».
+[^12]: [Nouvelle culture de Taïwan — La douloureuse rédemption : religion et littérature](https://www.twcenter.org.tw/thematic_series/character_series/taiwan_litterateur_interview/b01_7101/b01_7101_1) — Entretien 1997 de Zhuang Zi-rong avec Du Pan Fang-ge : entrepôt japonais, hésitation hakka, controverse prix Chen Xiu-xi.
 
-[^15]: [Hakka Commission — Du Pan Fang‑ge (anglais)](https://english.hakka.gov.tw/Content/Content?NodeID=670&PageID=39821&LanguageType=ENG) — présentation officielle du gouvernement Hakka : japonais, mandarin, Hakka.
+[^13]: [Wikipédia en anglais — Fangge Dupan](https://en.wikipedia.org/wiki/Fangge_Dupan) — Résumé international lisible : naissance/décès, positionnement translingue, citation présidentielle 2016.
+
+[^14]: [Page écrivain Wen-hsun — Du Pan Fang-ge](https://www.wenhsun.com.tw/authorsite/detail/15) — Compléments biographiques et recoupement du positionnement « génération translingue ».
+
+[^15]: [Guide anglais du Conseil des affaires hakka — Du Pan Fang-ge](https://english.hakka.gov.tw/Content/Content?NodeID=670&PageID=39821&LanguageType=ENG) — Présentation anglaise du Conseil des affaires hakka : écriture japonais / chinois / hakka et thème oppression coloniale.

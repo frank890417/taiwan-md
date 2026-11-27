@@ -1,16 +1,10 @@
 ---
-title: 'Chen San-huo : Laisser le destin briser le vase, faire vivre le jian-nian sur le toit du temple'
-description: "En 2002, après le séisme du 921, l'artiste de Madou (Tainan) Chen San-huo a récupéré un vase brisé abandonné au temple Ciji de Fengyuan. Passant d'apprenti en restauration de temples à « artiste du toit » utilisant des céramiques recyclées, il ne cherche pas à reproduire l'original, mais laisse la fragmentation, le hasard et les matériaux de récupération redéfinir la forme de la tradition."
+title: 'Chen San-huo : confier les vases brisés au destin pour faire revivre le Jiannian des temples'
+description: "Détenteur d'un titre de conservateur pour l'art traditionnel important du Jiannian, Chen San-huo est né en 1949 à Madou, Tainan. Après avoir terminé son collège, il a appris l'art du Jiannian (mosaïque de céramique) auprès de son frère et a parcouru les temples de Taïwan pour des restaurations. En 2002, lors de la restauration du temple Fengyuan Ciji après le séisme de 921, il a utilisé des fragments de vases jetés par le temple pour assembler un Bodhidharma, développant ainsi la méthode du « Gàn dài jiǎn » (remplacer la découpe par l'assemblage), laissant les éclats de porcelaine brisée déterminer leur propre forme. En 2020, il a été reconnu par le ministère de la Culture comme premier conservateur de l'artisanat Jiannian, et en 2021, il a reçu le Prix national pour l'accomplissement artisanal, tout en fondant la « Famille Jiannian » pour former des apprentis et participer à la transmission culturelle dans les écoles."
 date: 2026-08-19
-subcategory: '藝術與設計'
 category: 'People'
-tags:
-  [
-    'Jian-nian (collage de céramique)',
-    'Artisanat traditionnel',
-    'Chen San-huo',
-    'Art des temples',
-  ]
+tags: ['Jiannian', 'artisanat traditionnel', 'Chen San-huo', 'art des temples']
+subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20
@@ -18,10 +12,10 @@ lastHumanReview: false
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'People/陳三火.md'
-sourceCommitSha: '8cc323782'
+sourceCommitSha: 'c7e3d69aad'
 sourceContentHash: 'sha256:eedc983e2ea9d824'
 sourceBodyHash: 'sha256:7efe5656906a3904'
-translatedAt: '2026-09-11T18:32:07+08:00'
+translatedAt: '2026-11-27T06:48:32.030108+00:00'
 ---
 
 > **En 30 secondes :** Chen San-huo était à l'origine un apprenti en _jian-nian_ (collage de céramique et de verre) qui suivait son aîné dans les temples et dormait sur les chantiers. En 2002, lors de la restauration du temple Ciji de Fengyuan après le séisme du 921, il ramasse un vase brisé jeté par l'administration du temple et réalise par hasard une statue de Bodhidharma (Damuo). Il transforme ensuite la méthode du « frapper puis chercher la forme » en sa propre signature. Ce tournant ressemble à un paradoxe de l'artisanat : pour préserver le _jian-nian_, il ne suffit pas de copier fidèlement le passé ; il faut parfois laisser perdre sa forme d'origine.
