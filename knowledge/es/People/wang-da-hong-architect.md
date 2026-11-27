@@ -1,17 +1,17 @@
 ---
-title: 'Wang Da-hong: El poeta de la arquitectura que trajo el espíritu de la Bauhaus a Taiwán y contempló el alma oriental con modernismo'
-description: 'Destacado en el concurso del Monumento a Sun Yat-sen en 1965, Wang Da-hong fue discípulo del maestro de la Bauhaus Walter Gropius; dedicó su vida a resolver la tensión entre tradición y modernidad en Taiwán.'
+title: 'Wang Da-hong: El poeta de la arquitectura que llevó el espíritu de la Bauhaus a Taiwán y usó la arquitectura moderna para contemplar el alma oriental'
+description: 'Poeta de la arquitectura que fue discípulo de Walter Gropius, fundador de la Bauhaus, graduado en las universidades de Cambridge y Harvard. Tras regresar a Taiwán, dedicó su vida a resolver la tensión entre lo tradicional y lo moderno. En 1965, destacó en el concurso para el Monumento a Sun Yat-sen al incorporar voladizos con curvaturas calculadas mediante geometría rigurosa sobre estructuras modernas; en 1953 diseñó personalmente su residencia en la calle Jianguo South, que posteriormente fue reconstruida junto al Museo de Bellas Artes de Taipéi. Sus obras incluyen el edificio de la oficina del Ministerio de Relaciones Exteriores y la Casa Honglu. En su vejez, escribió la novela de ciencia ficción en inglés "Phantom City", falleciendo a la edad de 101 años.'
 date: 2026-08-18
 category: 'People'
 tags:
   [
     'Wang Da-hong',
-    'arquitectura de Taiwán',
-    'modernismo',
+    'Arquitectura de Taiwán',
+    'Modernismo',
     'Monumento a Sun Yat-sen',
-    'poeta de la arquitectura',
+    'Poeta de la arquitectura',
     'Bauhaus',
-    'residencia de Jianguo South Road',
+    'Residencia en la calle Jianguo South',
   ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
@@ -21,10 +21,10 @@ lastHumanReview: false
 revision: 2
 curation: 'incubating'
 translatedFrom: 'People/王大閎.md'
-sourceCommitSha: 'ad1003d60'
+sourceCommitSha: '2556505034'
 sourceContentHash: 'sha256:efe79d1571f630fc'
 sourceBodyHash: 'sha256:c9962896cf42e163'
-translatedAt: '2026-10-15T01:07:15+08:00'
+translatedAt: '2026-11-27T01:46:21.686223+00:00'
 ---
 
 > **Resumen en 30 segundos:**

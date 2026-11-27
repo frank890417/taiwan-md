@@ -1,14 +1,14 @@
 ---
 title: 'Steve Chen'
-description: 'Dejó Taiwán a los ocho años, a los veintisiete construyó en Estados Unidos un lugar donde cualquiera podía subir vídeos, veinte meses después lo vendió por 16.500 millones de dólares, luego le creció un tumor en el cerebro y entonces regresó con su esposa e hijos.'
+description: 'Uno de los fundadores de origen taiwanés más famosos de Silicon Valley. Emigró a los Estados Unidos a los ocho años y se unió a PayPal antes de graduarse de la universidad. En 2005, fundó YouTube en un garaje junto a dos excompañeros de trabajo y, veinte meses después, lo vendió a Google por NT$1.65 mil millones. Tras la adquisición, fue diagnosticado con un aneurisma cerebral, superando dos cirugías de cráneo abierto y quince episodios de epilepsia. En 2019, regresó a Taiwán para establecerse con su esposa e hijos, convirtiéndose en el primer beneficiario de la Tarjeta Dorada de Empleo (Employment Gold Card) de Taiwán, y desde entonces continúa impulsando las startups taiwanesas hacia el escenario mundial.'
 date: 2026-04-06
 category: 'People'
 tags:
   [
     'Steve Chen',
     'YouTube',
-    'Valle del Silicio',
-    'startups',
+    'Silicon Valley',
+    'Startup',
     'Tarjeta Dorada de Empleo',
     'Tumor cerebral',
   ]
@@ -21,10 +21,10 @@ readingTime: 8
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/陳士駿.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '630afb2b66'
 sourceContentHash: 'sha256:ba95870558368ba6'
 sourceBodyHash: 'sha256:10a502d58bab93f7'
-translatedAt: '2026-11-06T16:00:27.055468+00:00'
+translatedAt: '2026-11-27T01:42:50.794609+00:00'
 ---
 
 # Steve Chen (陳士駿)

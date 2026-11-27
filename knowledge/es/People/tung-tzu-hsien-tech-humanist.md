@@ -1,20 +1,27 @@
 ---
-title: 'Tung Tzu-hsien: de la Taipei Tech a Pegatron, el mayor socio de manufactura de Apple'
-description: 'Nacido el 25 de junio de 1960, Tung Tzu-hsien se graduó en electrónica en la Taipei Tech (hoy Universidad Nacional de Tecnología de Taipei), no en Ingeniería Eléctrica de la NTU. Se unió a ASUS en 1988 y lideró la escisión el 1 de enero de 2008, fundando Pegatron, que se convirtió en fabricante bajo contrato de Apple, Sony y Nintendo. En 2019 invirtió en la librería Eslite. En 2025 seguía publicando su postura de política energética de "coexistencia nuclear-verde".'
+title: 'Tung-Jen (T.J.) Kuo: De la Escuela Técnica de Taipéi a convertir a Pegatron en el mayor socio de fabricación de Apple'
+description: 'Empresario del sector electrónico taiwanés, graduado en Ingeniería Electrónica de la Escuela Técnica de Taipéi, no de la Universidad Nacional de Taiwán. Se unió a ASUS en 1988 y, el día de Año Nuevo de 2008, lideró la separación entre las divisiones de marca y fabricación para fundar Pegatron Corporation, convirtiéndola en fabricante para marcas como Apple, Sony y Nintendo. En 2019 adquirió acciones de Eslite Bookstore, bajo la premisa de que «una sociedad necesita librerías tanto como necesita hospitales»; también es uno de los empresarios con posturas más públicas sobre la política energética, defendiendo a largo plazo la «coexistencia de energía nuclear y renovable».'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
+tags:
+  [
+    'Tecnología y empresas',
+    'Pegatron',
+    'Fabricación electrónica',
+    'ODM',
+    'Política energética',
+  ]
 subcategory: '科技與企業'
-tags: ['科技與企業', '和碩聯合', '電子代工', 'ODM', '能源政策']
-readingTime: 7
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: false
+readingTime: 7
 translatedFrom: 'People/童子賢.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: '3f269cde5e'
 sourceContentHash: 'sha256:741173e056926b2c'
 sourceBodyHash: 'sha256:7f6ff2dde21c6686'
-translatedAt: '2026-05-24T05:06:33+08:00'
+translatedAt: '2026-11-27T02:01:57.496450+00:00'
 ---
 
 # Tung Tzu-hsien: de la Taipei Tech a Pegatron, el mayor socio de manufactura de Apple

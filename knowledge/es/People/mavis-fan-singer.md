@@ -1,10 +1,16 @@
 ---
-title: 'Mavis Fan: de la pequeña bruja de «Canción de la salud» a vocalista de 100% Band, treinta años negándose a ser definida por una sola época'
-description: 'En 1996, a los 19 años, Mavis Fan se convirtió en la pequeña bruja de todo Taiwán gracias a «Canción de la salud». En 1998 se rapó la cabeza y lanzó *Darling* declarando que haría «su propia música»; en 2001 viró al jazz con *Divine Singing Star*; en 2007 formó 100% Band. En 2025, a los 48 años, *Passerby* es el primer álbum nuevo con la banda en 16 años: treinta años desmontando pieza a pieza «el sueño que otros le impusieron».'
+title: "Fan Xiaoxuan: De la pequeña bruja de 'Canción de la Salud' a vocalista de 100%, treinta años rechazando ser definida por una época"
+description: "De la pequeña bruja con coleta de 'Canción de la Salud', a la cantautora que se rapó el pelo para anunciar su propia música. Debutó en 1995, ganó el Golden Melody Awards en 1999 con 'Quiero que estemos juntos', y en 2001 se volcó hacia el jazz con 'Diva Incomparable'. Tras atravesar casi tres años de un periodo depresivo, en 2007 formó la banda 100% con tres miembros, y en 2010 ganó el Golden Melody al Mejor Productor de una Canción por 'Dueño'. En 2025 lanza su nuevo trabajo 'Pasajero', tras dieciséis años de espera. Tras treinta años de carrera, ella ha rechazado una y otra vez ser definida por la imagen de una sola época."
 date: 2026-04-20
 category: 'People'
 tags:
-  ['Música', 'Cantautora', 'Premios Golden Melody', '100% Band', 'Pop mandarín']
+  [
+    'música',
+    'cantautora',
+    'Golden Melody Awards',
+    'banda 100%',
+    'música pop en chino',
+  ]
 subcategory: '音樂人'
 author: 'Taiwan.md'
 featured: false
@@ -14,10 +20,10 @@ researchReport: 'reports/research/2026-04/范曉萱.md'
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/范曉萱.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: '8fc70bd881'
 sourceContentHash: 'sha256:752a0e7cddd9b38d'
 sourceBodyHash: 'sha256:7cceb716a616fa6b'
-translatedAt: '2026-09-07T20:33:31.970936+00:00'
+translatedAt: '2026-11-27T01:18:54.589934+00:00'
 ---
 
 > **30 segundos en resumidas cuentas:** Fan Hsiaohsuan (Mavis Fan, 1977–), cantante y compositora taiwanesa. Debutó a los 18 años en 1995 con 《Rain》; en 1996, con 〈健康歌〉, se convirtió en la “pequeña bruja” estrella adolescente más famosa de Taiwán. En 1998, 《Darling》 marcó su transformación con un peinado raso; en 1999, 《我要我們在一起》 ganó el premio a Mejor álbum de música pop en los 11.º premios [金曲獎](/es/music/pop-music-and-golden-melody-awards/); en 2001, 《絕世名伶》 exploró la línea de jazz; en 2007 formó la banda Fan Hsiaohsuan & 100%; en 2010, con 〈主人〉, ganó el premio a Mejor productor de sencillo en los 21.º premios 金曲獎. En diciembre de 2025, 《過客》 —su primer álbum en 16 años. En tres décadas, una y otra vez se ha negado a dejar que una sola etiqueta la defina.

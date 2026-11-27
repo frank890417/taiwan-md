@@ -1,17 +1,17 @@
 ---
-title: 'A-Han: el chico de Hualien que interpreta él solo todo un callejón y luego recibe las críticas de quienes viven en él'
-description: 'Tseng Wen-han, un chico de Hualien graduado del Departamento de Animación de la Universidad Nacional de las Artes de Taipéi, interpreta él solo, con Nguyễn Nguyệt Kiều, Liao Lifang y Liao Lizhu, todo un callejón taiwanés. Hasta que en 2022 un anuncio del Festival Zhongyuan fue retirado: el personaje de nuera vietnamita que interpretaba fue protestado por verdaderas nueras vietnamitas.'
+title: 'A-Han: el chico de Hualien que interpreta solo un callejón entero y al que la gente del callejón le echa la bronca'
+description: "Graduado en Animación por la Universidad Nacional de las Artes de Taipéi, este joven de Hualien gestiona desde 2015 el canal 'A-Han po videos', interpretando solo un callejón taiwanés completo: la adivina Liao Li-fang, la nuera vietnamita Nguyen Nguyet Kieu, la casera Liao Li-zhu y la señora del bufé. Su obra representativa 'Jiutian Xuannü' ha acumulado más de 13 millones de visualizaciones; en 2022 actuó en la apertura de la categoría de drama de los Premios Golden Bell. Ese mismo año, su anuncio del Festival de los Fantasmas fue retirado tras las protestas de la Asociación Vietnamita por su papel de Nguyen Nguyet Kieu. Imitar un callejón y vivir en uno nunca son la misma cosa."
 date: 2026-05-11
 category: 'People'
 tags:
   [
     'A-Han',
-    'A-Han publica videos',
+    'A-Han po videos',
     'YouTuber',
-    'imitación',
-    'Nguyễn Nguyệt Kiều',
-    'Liao Lifang',
-    'nuevos residentes',
+    'Imitación',
+    'Nguyen Nguyet Kieu',
+    'Liao Li-fang',
+    'Nuevos residentes',
     'Hualien',
     'Universidad Nacional de las Artes de Taipéi',
     'Premios Golden Bell',
@@ -25,10 +25,10 @@ readingTime: 12
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/阿翰.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'a9322956ed'
 sourceContentHash: 'sha256:657a4770554a59cc'
 sourceBodyHash: 'sha256:7dbe663cdddeba6e'
-translatedAt: '2026-11-04T20:49:14.843471+00:00'
+translatedAt: '2026-11-27T01:53:04.065141+00:00'
 ---
 
 **Resumen en 30 segundos:** Tseng Wen-han, nacido en Hualien en 1994, estudió en la clase de bellas artes del Colegio Secundario Femenino de Hualien y se graduó en el Departamento de Animación de la Universidad Nacional de Artes de Taipéi. En 2015, comenzó a gestionar su canal de YouTube 「阿翰po影片」[^1]. Él solo interpreta a Liao Lifang, Ngu Nguyet Kieu, Liao Li-chu, la tía del buffet... prácticamente todos los personajes de un callejón taiwanés. Su obra representativa, 〈La tía adivina: la Diosa Misteriosa de los Nueve Cielos esparce flores celestiales〉, ha acumulado más de 13 millones de visualizaciones[^2]. Sin embargo, en un anuncio para el Festival de los Fantasmas Hambrientos en 2022, el personaje de la nuera vietnamita que interpretaba fue retirado tras las protestas de mujeres vietnamitas reales: un chico de Hualien que sostenía un callejón taiwanés mediante la imitación, se encontró con que la gente de ese callejón le preguntaba: «¿Por qué este lugar no es mío?».

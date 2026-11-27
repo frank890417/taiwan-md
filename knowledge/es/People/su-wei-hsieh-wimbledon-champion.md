@@ -1,24 +1,28 @@
 ---
-title: 'Su-wei Hsieh: Hsinchu 1986, primera campeona de Grand Slam de Taiwán y siete títulos de dobles femeninos'
-description: 'Nacida el 4 de enero de 1986 en Hsinchu. Su padre, Xie Zilong (conductor de autobuses de Taiwan Motor Transport), falleció en octubre de 2023. Ranking individual WTA más alto: n.º 23 (2013). Siete títulos de dobles femeninos en Grand Slams: Wimbledon 2013 / Roland Garros 2014 / Wimbledon 2019 / Wimbledon 2021 / Roland Garros 2023 / Wimbledon 2023 / Abierto de Australia 2024. En el Abierto de Australia 2024, primera taiwanesa en alcanzar semifinales individuales de un Grand Slam. Subcampeona de dobles femeninos en Wimbledon, julio de 2025.'
+title: 'Hsieh Su-wei: Hsinchu 1986, primera campeona de Grand Slam de Taiwán y siete títulos de dobles femeninos'
+description: 'Nacida en Hsinchu, creció como tenista profesional bajo la dedicación total de su padre, conductor de autobús de Taiwán Bus. En 2013, junto a Peng Shuai, ganó el campeonato de dobles femeninos de Wimbledon, convirtiéndose en la primera campeona de Grand Slam en la historia de Taiwán; su ranking individual alcanzó el puesto 23 del mundo ese mismo año. En once años acumuló siete títulos de Grand Slam en dobles femeninos con diferentes compañeras. En 2021, a los 35 años, alcanzó las semifinales individuales del Abierto de Australia, siendo la primera mujer taiwanesa en lograrlo. En 2025, volvió a la final de dobles de Wimbledon, obteniendo el subcampeonato.'
 date: 2026-03-19
 category: 'People'
-tags: ['Deportes', 'Tenis', 'Wimbledon', 'Grand Slam', 'Dobles femeninos', 'Tenis profesional']
+tags:
+  [
+    'Deportes',
+    'Tenis',
+    'Wimbledon',
+    'Grand Slam',
+    'Dobles femeninos',
+    'Tenis profesional',
+  ]
 subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
-# design_rationale:
-#   why_this_hook: "「台灣首位大滿貫冠軍」是2013的一次性事件；「七座金盃」才是她整個職業生涯的重量。兩個並列，才能說完她。"
-#   whats_excluded: "各場決賽逐球技術分析；2016奧運教練事件爭議細節；WTA女雙世界第一達成的確切日期"
-#   where_it_hedges: "2014法網、2019溫布頓、2023溫布頓的搭檔姓名P0無提供，TODO補確認；2025溫布頓成績來源Focus Taiwan"
-translatedFrom: People/謝淑薇.md
-sourceCommitSha: 0f8fae0ae
-sourceContentHash: sha256:e699feede1257135
-sourceBodyHash: sha256:86d8a4b7771c32c4
-translatedAt: 2026-05-20T05:08:32+08:00
+translatedFrom: 'People/謝淑薇.md'
+sourceCommitSha: '2a5b98d9cd'
+sourceContentHash: 'sha256:e699feede1257135'
+sourceBodyHash: 'sha256:86d8a4b7771c32c4'
+translatedAt: '2026-11-27T02:04:56.972659+00:00'
 ---
 
 # Su-wei Hsieh: Hsinchu 1986, primera campeona de Grand Slam de Taiwán y siete títulos de dobles femeninos

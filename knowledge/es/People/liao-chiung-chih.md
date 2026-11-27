@@ -1,16 +1,16 @@
 ---
-title: 'Liao Chiung-chih: De «niña atada al teatro» a quien dejó un método para preservar la memoria del ópera de Tsai'
-description: 'Nacida en Keelung en 1935, Liao Chiung-chih pasó de ser «vendida» a los 15 años al Grupo Musical Jinshan a recorrer el teatro interno, el externo, la radio y la televisión del ópera de Tsai; en la segunda mitad de su vida, transformó una disciplina teatral basada en la memoria corporal en un arte que los estudiantes pueden aprender, los guiones pueden leerse y las imágenes pueden preservar.'
+title: 'Liao Qiong-zhi: de "aprendiz atado" a dejar un método de memoria para la ópera taiwanesa'
+description: 'Artista de ópera taiwanesa, nacida en Keelung, a los 15 años fue entregada en prenda a la troupe Jin Shan Yue She para aprender ópera; desde "aprendiz atado" cantó en escenarios interiores y exteriores, radio y televisión, siendo llamada la primera "ku dan" (actriz de papeles trágicos) de Taiwán. En la segunda mitad de su vida desglosó el género teatral que había memorizado con su cuerpo en arias, movimientos, guiones y materiales didácticos, fundó la Compañía de Ópera Taiwanesa Xin Chuan y la Fundación Cultural y Educativa, registró alrededor de doscientas melodías importantes, para que los estudiantes puedan aprender, los guiones puedan leerse y las imágenes puedan conservarse, dejando un método de memoria para la ópera taiwanesa que no depende solo de los mayores.'
 date: 2026-08-17
-subcategory: '音樂與表演'
 category: 'People'
 tags:
   [
-    'Liao Chiung-chih',
-    'ópera de Tsai',
-    'arte tradicional',
-    'patrimonio cultural',
+    'Liao Qiong-zhi',
+    'Ópera taiwanesa',
+    'Arte tradicional',
+    'Patrimonio cultural',
   ]
+subcategory: '音樂與表演'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-17
@@ -18,10 +18,10 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/廖瓊枝.md'
-sourceCommitSha: 'a15e6712c'
-sourceContentHash: 'sha256:bf5e1c54c68b6eaa'
+sourceCommitSha: '630afb2b66'
+sourceContentHash: 'sha256:f186f3081f703176'
 sourceBodyHash: 'sha256:169c56cb9e4f77d3'
-translatedAt: '2026-09-11T07:53:44+08:00'
+translatedAt: '2026-11-27T01:09:16.116520+00:00'
 ---
 
 > **Resumen en 30 segundos:** Nacida en Keelung en 1935, Liao Chiung-chih ingresó al Grupo Musical Jinshan a los 15 años y cantó desde la condición de «niña atada al teatro» hasta el teatro interno, el externo, la radio y la televisión. Su obra más importante no es necesariamente una obra de teatro específica, sino que desmontó el ópera de Tsai, al que se le estaban perdiendo los escenarios, en cantos, gestos corporales, guiones y enseñanza, para que la siguiente generación pudiera reutilizarlo. Lo que dejó no es la leyenda de una protagonista trágica, sino un método para que la memoria no dependiera únicamente de los ancianos.
@@ -106,34 +106,34 @@ Esta es la distancia entre ella y la idea de que «el arte tradicional solo depe
 
 Estas entradas también cambiaron la imaginación de clase del arte. Las obras que originalmente se representaban en hierbas y patios de templos podían entrar a escuelas, teatros nacionales y escenarios de demostración en el extranjero. Conservaba el canto y la recitación en taiwanés y la emoción popular, pero ya no necesitaba aceptar el veredicto de «solo vulgar». [^5][^8]
 
-## Después del cierre de caja, la obra sigue caminando
+## Después de cerrar la caja, el drama sigue en marcha
 
-El objeto más memorable de la segunda mitad de la vida de Liao Chiung-chi no es tanto una copa, sino una pila de guiones que los estudiantes abrirán, una melodía que se puede escuchar repetidamente y un material didáctico que apunta a gestos y pasos. Transformó lo que originalmente fluía solo en las carpas teatrales en materiales que podían ser preservados, criticados y reensayados. [^2][^4]
+Los objetos más memorables de la segunda mitad de la vida de Liao Chiung-chih no son tanto un trofeo, sino una pila de guiones que los estudiantes abren, una aria que se puede escuchar repetidamente y un conjunto de materiales didácticos que señalan gestos y pasos. Ella transformó lo que antes solo fluía dentro del teatro en materiales que pueden ser preservados, criticados y repuestos.[^2][^4]
 
-_Clásicos del Ópera de Tsai Liao Chiung-chi II_, completado en 2024, incluye siete obras adaptadas o nuevas. El proceso de producción incluyó dos años de organización de manuscritos, entrevistas orales y revisión de textos en taiwanés. Este trabajo no convirtió la creación de Liao Chiung-chi en un final. Al contrario, entregó los guiones a la siguiente tanda de actores, permitiendo que el Grupo Chuanxin de 2025 continuara presentando nuevas obras. [^7]
+La "Colección de obras clásicas de ópera taiwanesa de Liao Chiung-chih II", completada en 2024, incluye 7 obras adaptadas o recién creadas. El proceso de producción incluyó dos años de organización de manuscritos, entrevistas orales y revisión de textos en taiwanés. Este trabajo no convirtió la creación de Liao Chiung-chih en un final. Por el contrario, entregó los guiones a la próxima generación de actores, permitiendo que la Compañía de Transmisión continúe estrenando nuevas obras en 2025.[^7]
 
-Por lo tanto, la importancia de Liao Chiung-chi no radica solo en cuántos espectadores hizo llorar, ni en cuántos títulos de patrimonio cultural obtuvo. Nos muestra que para que un arte sobreviva, depende de preservar simultáneamente tres cosas, en lugar de presentarlo como algo inmutable: los detalles corporales, las huellas textuales y el espacio que los estudiantes pueden continuar reescribiendo.
+Por lo tanto, la importancia de Liao Chiung-chih no radica solo en cuántos espectadores hizo llorar con su canto, ni en cuántos títulos de patrimonio cultural obtuvo. Ella nos muestra que para que un arte sobreviva, se requiere preservar simultáneamente tres cosas, en lugar de presentarlo como inmutable: los detalles corporales, los rastros textuales y el espacio para que los estudiantes continúen reescribiendo.
 
-De «niña atada al teatro» a conservadora, aún lleva la memoria del duro mundo de los grupos teatrales. Llevó lo que originalmente solo entendían maestro y discípulo, pieza por pieza, a lugares accesibles para todos. El ópera de Tsai ya no necesita detenerse solo en la voz de Liao Chiung-chi, pero aún podemos escuchar cómo enseñó a abrir la boca.
+Ella pasó de ser una "niña atada a la ópera" a convertirse en preservadora, sin dejar de llevar la memoria de ese mundo de compañías teatrales difíciles. Ella trasladó, una por una, las cosas que antes solo entendían maestro y discípulo, a un lugar accesible para todos. Así, la ópera taiwanesa no tiene por qué quedarse solo en la voz de Liao Chiung-chih, pero aún se puede oír cómo ella enseña a abrir la boca.
 
-Este final también deja una pregunta: ¿preservar partituras, guiones e imágenes equivale a preservar el ópera de Tsai? No necesariamente. Los datos pueden permitir que las generaciones posteriores reencontraran la melodía, pero no pueden reemplazar la respiración durante los ensayos, la complicidad entre actores y músicos, ni garantizar que alguien esté dispuesto a comprar una entrada y sentarse a escuchar una obra completa. La introducción del Ministerio de Cultura habla por lo tanto simultáneamente del valor de las obras tradicionales y el desarrollo de las nuevas. El punto final de la preservación sigue siendo la audiencia. [^3][^6]
+Este final también deja una pregunta: ¿preservar partituras, guiones e imágenes equivale a preservar la ópera taiwanesa? No necesariamente. Los materiales pueden permitir que las generaciones futuras redescubran la melodía, pero no pueden sustituir la respiración durante los ensayos, la complicidad entre actores y músicos, ni garantizar que alguien esté dispuesto a comprar una entrada y sentarse a escuchar una obra completa. Por eso, la introducción del Ministerio de Cultura habla al mismo tiempo del valor de las obras tradicionales y del desarrollo de nuevas obras. El objetivo final de la preservación sigue siendo el público.[^3][^6]
 
-El trabajo de Liao Chiung-chi no resolvió todos los problemas del ópera de Tsai, pero ofreció una respuesta viable: primero dejar lo que el cuerpo sabe, y luego permitir que los estudiantes tengan la oportunidad de equivocarlo, animarlo o convertirlo en su propia versión. La continuidad de la disciplina depende de permitir que el presente tenga un encuentro concreto con el pasado, en lugar de copiar un pasado intacto.
+El trabajo de Liao Chiung-chih no resolvió todos los problemas de la ópera taiwanesa, pero ofreció una respuesta viable: primero, dejar constancia de lo que el cuerpo sabe; luego, dar a los estudiantes la oportunidad de representarlo mal, de darle vida, de convertirlo en su propia versión. La continuidad del género teatral depende de permitir que el presente tenga un encuentro concreto con el pasado, no de replicar un pasado inalterado.
 
-[^1]: [Liao Chiung-chi](https://musiciantw.ncfta.gov.tw/people?uid=2&pid=79) — Página de detalles de la figura del Banco de Imágenes de la Música de Taiwán del Centro Nacional de Artes Tradicionales, que organiza la biografía de Liao Chiung-chi, su grupo teatral y su identidad como conservadora del patrimonio cultural.
+[^1]: [Liao Chiung-chih](https://musiciantw.ncfta.gov.tw/people?uid=2&pid=79) — Página de detalles del personaje en la base de datos de retratos musicales de Taiwán del Centro Nacional de Artes Tradicionales, que resume la vida de Liao Chiung-chih, su compañía teatral y su identidad como preservadora de patrimonio cultural.
 
-[^2]: [Ópera Liao Chiung-chi](https://www.ncafroc.org.tw/artsaward/winnerDetail@1221) — Página de detalles de los ganadores de la Fundación Nacional de Cultura y Artes, que incluye la autoexplicación y la cronología de Liao Chiung-chi sobre aprender teatro, enseñanza, organización de guiones y trabajo de transmisión.
+[^2]: [Liao Chiung-chih en la categoría de teatro](https://www.ncafroc.org.tw/artsaward/winnerDetail@1221) — Página de detalles del premiado de la Fundación Nacional de Cultura y Artes, que incluye la autobiografía y la cronología de Liao Chiung-chih sobre su aprendizaje de la ópera, enseñanza, organización de guiones y trabajo de transmisión.
 
-[^3]: [Opera Artist | Liao Chiung-chih](https://www.moc.gov.tw/en/News_Content2.aspx?n=480&s=17446) — Artículo de figura del Ministerio de Cultura, que explica la formación temprana de Liao Chiung-chi, la época dorada del ópera de Tsai, el impacto de la radio y la televisión y su perspectiva de preservación.
+[^3]: [Opera Artist | Liao Chiung-chih](https://www.moc.gov.tw/en/News_Content2.aspx?n=480&s=17446) — Artículo de人物 del Ministerio de Cultura, que explica el entrenamiento temprano de Liao Chiung-chih, la época dorada de la ópera taiwanesa, el impacto de la radio y la televisión, y sus puntos de vista sobre la preservación.
 
-[^4]: [Proyecto de Registro y Preservación del Ópera de Tsai del Maestro de Arte Nacional Liao Chiung-chi](https://collections.ncfta.gov.tw/pages/list/proj_items.aspx?id=12199914) — Página de detalles del proyecto de colección del Centro Nacional de Artes Tradicionales, que lista su experiencia en grupos teatrales, radio, televisión, así como los resultados de preservación de obras clásicas, melodías y audio/video.
+[^4]: [Plan de preservación de registros de ópera taiwanesa del maestro de arte étnico Liao Chiung-chih](https://collections.ncfta.gov.tw/pages/list/proj_items.aspx?id=12199914) — Página de detalles del plan de colección del Centro Nacional de Artes Tradicionales, que enumera su experiencia en compañías teatrales, radio, televisión, obras clásicas, melodías y resultados de preservación audiovisual.
 
-[^5]: [«Dongshui Mudan» toca el corazón directamente: la vida artística de Liao Chiung-chi forjada por su origen](https://magazine.ncfta.gov.tw/News_Content2.aspx?n=1932&s=82249) — Artículo de _Chuan Yi_ del Centro Nacional de Artes Tradicionales, que explica la actuación de protagonista trágica y la actuación compartida maestro-estudiante de Liao Chiung-chi desde _Dongshui Mudan_ y la transmisión.
+[^5]: ["Peonía de agua helada" conmueve profundamente: la vida de Liao Chiung-chih forja su vida artística](https://magazine.ncfta.gov.tw/News_Content2.aspx?n=1932&s=82249) — Artículo de la revista 'Artes Tradicionales' del Centro Nacional de Artes Tradicionales, que a partir de 'Peonía de agua helada' y las actuaciones de transmisión explica la interpretación de Liao Chiung-chih como 'dan' sufriente y la actuación conjunta de maestro y discípulo.
 
-[^6]: [Premio Especial al Disco Ganador de Chuan Yi: Dónde Enseñas, Dónde Quieres, Dónde Investigas — Liao Chiung-chi](https://magazine.ncfta.gov.tw/News_Content2.aspx?n=3135&s=103465&psn=103470) — Artículo de figura de _Chuan Yi_ del Centro Nacional de Artes Tradicionales, que registra su trayectoria desde el teatro interno, externo, radio hasta la enseñanza, organización de guiones y el grupo teatral Chuanxin.
+[^6]: [Premio Especial de los Premios de la Música de Artes Tradicionales: 'Enseñar lo que se piensa, investigar lo que se enseña' — Liao Chiung-chih](https://magazine.ncfta.gov.tw/News_Content2.aspx?n=3135&s=103465&psn=103470) — Artículo de人物 de la revista 'Artes Tradicionales' del Centro Nacional de Artes Tradicionales, que registra su trayectoria desde la ópera de interior, ópera de exterior, radio, hasta la enseñanza, organización de guiones y la compañía de transmisión.
 
-[^7]: [Colección de Guiones de Liao Chiung-chi Testimonia la Transmisión del Ópera de Tsai; Anuncia la Gran Obra Bandera de 2025](https://www.cna.com.tw/news/acul/202412260241.aspx) — Artículo de la Agencia Central de Noticias (CNA), que reporta la organización de dos años de la colección de guiones, la inclusión de siete obras, y los detalles de Liao Chiung-chi aprendiendo a organizar textos para la transmisión.
+[^7]: [La colección de guiones de Liao Chiung-chih testifica la transmisión de la ópera taiwanesa; avanza el estreno insignia de 2025](https://www.cna.com.tw/news/acul/202412260241.aspx) — Artículo de la Agencia Central de Noticias, que informa sobre la organización de la colección de guiones durante dos años, la inclusión de siete obras y los detalles de cómo Liao Chiung-chih aprendió a organizar textos para la transmisión.
 
-[^8]: [Grupo de Ópera de Tsai Chuanxin: 2018 Homenaje a los Maestros — Serie de Actividades de Emoción del Peonía en el Pueblo de Mudan «Concierto de Peonía Brillante»](https://museums.moc.gov.tw/MocEntrance/Detail?activityId=d22e9361-d327-4e32-b47f-a2c74842dbd0) — Página de detalles de actividades de la isla museística del Ministerio de Cultura, que organiza la trayectoria artística de Liao Chiung-chi cruzando el teatro interno, externo, radio, televisión y escenario, así como el proyecto de preservación.
+[^8]: [Compañía de Transmisión de Ópera Taiwanesa: 2018 Homenaje al maestro — Serie 'Emociones de Peonía' 'Concierto de Peonía Resplandeciente'](https://museums.moc.gov.tw/MocEntrance/Detail?activityId=d22e9361-d327-4e32-b47f-a2c74842dbd0) — Página de detalles del evento 'Museo de la Isla' del Ministerio de Cultura, que resume la trayectoria artística de Liao Chiung-chih a través de la ópera de interior, ópera de exterior, radio, televisión y escenario, así como su plan de preservación.
 
-[^9]: [La Primera Protagonista Trágica de Taiwán, Liao Chiung-chi, Narradora en el Escenario: Interpretación Clásica del Ópera de Tsai «El Zorro Sustituye al Príncipe»](https://www.moc.gov.tw/News_Content.aspx?n=105&s=49295) — Artículo del Ministerio de Cultura, que registra el caso de actuación donde Liao Chiung-chi organizó la memoria de actuación interna, actuó como narradora y los estudiantes de transmisión participaron en la actuación.
+[^9]: [La primera 'dan' sufriente de Taiwán, Liao Chiung-chih, narra en el escenario; fragmento de la ópera clásica 'El gato civeta cambia al príncipe'](https://www.moc.gov.tw/News_Content.aspx?n=105&s=49295) — Artículo del Ministerio de Cultura, que registra el caso de actuación en el que Liao Chiung-chih organiza la memoria de la ópera de interior, actúa como narradora y participan los estudiantes de transmisión.

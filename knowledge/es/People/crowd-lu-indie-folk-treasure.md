@@ -1,36 +1,36 @@
 ---
-title: 'Crowd Lu: El rey de los tres premios dorados, atropellado por un autobús'
-description: 'En 2003, un chico de Tainan salió en moto a comprar el cena nocturna y un autobús le pasó por encima las piernas, fractura múltiple. Aburrido en el hospital, recogió la guitarra que su primo le había regalado. 22 años después, es el ganador más joven del gran slam de los tres premios dorados en la historia de Taiwán: Golden Melody, Golden Bell y Golden Horse, un camino recorrido con una guitarra y unas piernas que alguna vez se rompieron.'
+title: 'Crowd Lu: El rey de los tres premios que fue atropellado por un autobús'
+description: 'En 2003, este chico de Tainan sufrió una fractura de pierna al ser atropellado por un autobús mientras iba en bicicleta a comprar algo de cenar; durante su hospitalización, aprendió a tocar la guitarra por su cuenta, iniciando así su camino musical con solo ese instrumento. Debutó en 2008 y al año siguiente ganó el premio al Mejor Artista Nuevo en los Golden Melody Awards, tras lo cual pasó ocho años sin ser nominado e incluso tuvo que caminar de Taipei a Tainan para reencontrarse consigo mismo; en 2017, ganó doblemente en los Golden Bell Awards gracias a su actuación en un plano secuencia en la película "A Boy from Kaohsiung"; en 2020, obtuvo el premio en los Golden Horse Awards por "Your Name Engraved Herein", convirtiéndose a los treinta y cinco años en el galardonado más joven de Taiwán en completar el gran triplete de los tres premios principales.'
 date: 2026-04-07
+category: 'People'
 tags:
   [
-    persona,
-    Crowd Lu,
-    cantante,
-    actor,
-    Premios Golden Melody,
-    Premios Golden Bell,
-    Premios Golden Horse,
-    tres premios dorados,
-    Tainan,
-    El chico Hua Jia,
-    Pequeño pez,
-    taiwanés,
-    música indígena,
-    pueblos indígenas,
+    'Personaje',
+    'Crowd Lu',
+    'Cantante',
+    'Actor',
+    'Golden Melody Awards',
+    'Golden Bell Awards',
+    'Golden Horse Awards',
+    'Triple corona',
+    'Tainan',
+    'A Boy from Kaohsiung',
+    'Yu Zai',
+    'Taiwanés',
+    'Música independiente',
+    'Pueblos indígenas',
   ]
-category: 'People'
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
-readingTime: 12
 lastVerified: 2026-04-07
 lastHumanReview: true
+readingTime: 12
 translatedFrom: 'People/盧廣仲.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '8fc70bd881'
 sourceContentHash: 'sha256:a21c857b64fd8e71'
 sourceBodyHash: 'sha256:090ff0c53b31ba5d'
-translatedAt: '2026-05-16T22:20:03Z'
+translatedAt: '2026-11-27T01:24:11.314095+00:00'
 ---
 
 > **Resumen en 30 segundos:** Crowd Lu, nacido en 1985 en Rende, Tainan, sufrió un accidente de tráfico en su primer año de universidad cuando un autobús le pasó por encima las piernas mientras compraba la cena nocturna. Durante la hospitalización aprendió a tocar la guitarra por su cuenta. Debutó en 2008, ganó el premio al Mejor Artista Nuevo en los Golden Melody de 2009, seguido de un desierto de ocho años sin nominaciones. En 2017, su actuación de siete minutos en un solo plano en _El chico Hua Jia crece_ (花甲男孩轉大人) (zh) conmovió a toda la industria, ganando dos premios Golden Bell; en 2020, _Tu nombre grabado en mi corazón_ (刻在我心底的名字) se llevó la Mejor Canción Original de Película en los Golden Horse — a los 35 años se convirtió en el ganador más joven del gran slam de los tres premios dorados en la historia de Taiwán. En 2026, las entradas de su concierto se agotaron en un minuto, con revendedores pidiendo sesenta mil dólares taiwaneses.
