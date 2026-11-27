@@ -1,17 +1,17 @@
 ---
-title: 'Takeshi Kaneshiro: Từ không được công nhân ra là "một người dân thường", đến khát được thế giới quên lãng làm "cỏ dại Châu Á"'
-description: 'Một tin street interview năm 2025 đã gắn nhãn ông là "một người dân thường", có lẽ đây là khoảnh khắc mà Takeshi Kaneshiro khao khát nhất. Từ lúc 17 tuổi quay quảng cáo để mua xe máy, đến trở thành ngôi sao quốc tế vượt qua Đài Loan, Nhật Bản, Hong Kong, anh luôn thực hành "biến mất" ở đỉnh cao của ngành giải trí.'
+title: 'Takeshi Kaneshiro: Từ một "người qua đường" không ai nhận ra, đến "cỏ xanh châu Á" chỉ muốn bị thế giới lãng quên'
+description: 'Nam thần châu Á lừng lẫy tại Đài Loan, Nhật Bản và Hong Kong; từ cậu thiếu niên đóng quảng cáo nước ngọt năm 17 tuổi để mua xe máy, đến trợ lý quét dọn phòng thu, rồi trở thành cảnh sát 223 ăn đồ hộp hết hạn trong phim của Vương Gia Vệ, và là siêu sao châu Á đầu tiên bước vào thế giới ảo với "Onimusha". Một quảng cáo của EVA Air đã biến cây bàng tại Đài Đông thành điểm đến quốc tế. Thế nhưng, anh vẫn luôn thực hành việc "biến mất", dùng sự ẩn dật và tĩnh lặng để đổi lấy tự do khi được thế giới lãng quên.'
 date: 2026-06-19
 category: 'People'
 tags:
   [
     'Takeshi Kaneshiro',
     'Điện ảnh Đài Loan',
-    'Eva Air',
+    'EVA Air',
     'Vương Gia Vệ',
     'Ẩn dật',
     'Onimusha',
-    'The Crossing',
+    'The Silent War',
   ]
 subcategory: '電影與戲劇'
 author: 'Taiwan.md Contributors'
@@ -22,91 +22,91 @@ readingTime: 15
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/金城武.md'
-sourceCommitSha: 'be13f0452'
-sourceContentHash: 'sha256:6eed6bfbb091aeed'
+sourceCommitSha: 'a9322956ed'
+sourceContentHash: 'sha256:55178af9281f4694'
 sourceBodyHash: 'sha256:17690ed615ebe1ca'
-translatedAt: '2026-11-18T22:34:25.162879+00:00'
+translatedAt: '2026-11-28T00:51:26+08:00'
 ---
 
-> **Ba mươi giây tổng quan:**
-> Đầu năm 2025, một tin street interview trên truyền hình Đài Loan vô tình đã gắn nhãn Takeshi Kaneshiro (金城武) là "một người dân thường", khi vị ngôi sao này lướt qua trước máy quay mà không ai nhận ra. Đây không phải dấu hiệu lỗi thời, mà là kết quả của "bài tập biến mất" kéo dài ba mươi năm của anh. Từ lúc 17 tuổi quay quảng cáo để mua xe máy, cho tới hợp tác với những đạo diễn tên tuổi như Vương Gia Vệ, Trần Khả Tín, Ngô Vũ Tăng, Takeshi Kaneshiro luôn lang thang giữa ánh hào quang của một ngôi sao lớn và cuộc sống tầm thường của riêng anh. Anh là một "mèo nhà" đã chọn ẩn dật ở đỉnh cao của sự nổi tiếng, đắm mình trong điện tử trò chơi và trồng trọt, cũng là người đàn ông duy nhất ở Đài Loan có khả năng biến một cây chè thành điểm du lịch quốc tế chỉ bằng sức mạnh cá nhân. Sự tồn tại của anh chính là một cách giải cấu trúc "nổi tiếng", thể hiện những cách tao nhã cực độ trong việc bảo vệ sự cô đơn giữa ánh mắt của toàn bộ thế giới.
+> **Tóm tắt trong 30 giây:**
+> Đầu năm 2025, một bản tin phỏng vấn đường phố tại Đài Loan đã vô tình gắn nhãn Takeshi Kaneshiro (Kim Thành Vũ) là "người qua đường". Vị siêu sao từng được mệnh danh là "cỏ xanh châu Á" lướt qua ống kính mà không ai nhận ra. Đây không phải là sự hết thời, mà là thành quả của "bài tập biến mất" mà anh đã thực hiện suốt 30 năm qua. Từ việc đóng quảng cáo nước ngọt năm 17 tuổi để mua xe máy, đến việc hợp tác với các đạo diễn lừng danh như Vương Gia Vệ (Wong Kar-wai), Trần Khả Tín (Peter Chan), Ngô Vũ Sâm (John Woo), Takeshi Kaneshiro luôn dao động giữa hào quang siêu sao và đời tư cực kỳ bình dị. Anh là một "otaku" chọn cách ẩn dật, đắm mình vào trò chơi điện tử và làm nông khi đang ở đỉnh cao sự nghiệp, đồng thời cũng là người đàn ông duy nhất trong văn hóa Đài Loan có thể biến một cây bàng thành điểm đến quốc tế chỉ bằng sức mạnh cá nhân. Sự hiện diện của anh chính là một sự giải cấu trúc về "sự nổi tiếng", thể hiện vẻ thanh tao tột cùng khi bảo vệ sự cô độc giữa muôn vàn ánh nhìn.
 
-### Khi không ai nhận ra tôi nữa, đó là phần thưởng tốt nhất
+### Vì không ai nhận ra, đó mới là phần thưởng lớn nhất
 
-Vào tháng 2 năm 2025, một tin street interview trên truyền hình Đài Loan đưa một người đàn ông đội mũ, thần sắc thoải mái, lướt qua trước máy quay trong tích tắc, với dòng chữ chỉ ghi là "một người dân thường". Chỉ sau khi khán giả phát hiện lại nhiều lần mới nhận ra, đó chính là Takeshi Kaneshiro, người từng lâm vào quên lãng khỏi mắt công chúng. Đối với vị đạo diễn từng ngang bằng giữa các bộ phim của Đài Loan, Nhật Bản, Hong Kong, khoảnh khắc "không được nhận ra" này có lẽ là phần biểu diễn thành công nhất trong sự nghiệp của anh.
+Tháng 2 năm 2025, trong một bản tin phỏng vấn đường phố của truyền thông Đài Loan, một người đàn ông đội mũ với vẻ mặt thư thái lướt qua ống kính, phụ đề chỉ ghi vỏn vẹn là "người qua đường". Mãi đến khi cư dân mạng xem đi xem lại mới bàng hoàng nhận ra đó chính là Takeshi Kaneshiro, người đã biến mất khỏi tầm mắt công chúng từ lâu. Đối với nam thần từng lừng lẫy tại Đài Loan, Nhật Bản và Hong Kong này, khoảnh khắc "không bị nhận ra" có lẽ là màn trình diễn thành công nhất trong sự nghiệp của anh.
 
-"Chỉ cần không ai chú ý tới tôi nữa, đó là phần thưởng tốt nhất rồi." Takeshi Kaneshiro từng tiết lộ nhiều lần trong các cuộc phỏng vấn về thái độ của anh với danh tiếng [^1]. Anh rất tiêu cực trong việc quản lý cái tên "Takeshi Kaneshiro", thậm chí còn xem nó như một "sự hiểu lầm". Khi toàn thế giới đang rượt đuổi hình ảnh bên hông của anh, anh đang trốn sau màn hình máy tính chơi trò chơi điện tử, hoặc sống một cuộc sống gần như ẩn dật ở một thị trấn nhỏ của Nhật Bản.
+"Chỉ cần không còn ai chú ý đến tôi nữa, đó chính là phần thưởng lớn nhất." Takeshi Kaneshiro đã nhiều lần tiết lộ sự xa cách đối với danh tiếng trong các cuộc phỏng vấn [^1]. Anh cực kỳ thụ động trong việc xây dựng thương hiệu mang tên "Takeshi Kaneshiro", thậm chí coi đó là một loại "hiểu lầm". Khi cả thế giới đang theo đuổi góc nghiêng khuôn mặt anh, thì anh đang trốn sau màn hình máy tính để chơi game, hoặc sống một cuộc đời gần như ẩn dật tại một thị trấn nhỏ ở Nhật Bản.
 
-"Bên ngoài mọi người luôn gọi 'Takeshi Kaneshiro! Takeshi Kaneshiro!', nhưng khi về nhà cũng chỉ là tôi một mình thôi." Anh từng nói trong cuộc phỏng vấn với tạp chí ELLE, với một nụ cười nhẹ ở khóe miệng, đó là nơi ẩn giấu cô đơn trong tâm hồn anh [^2].
+"Ở bên ngoài, mọi người luôn gọi tôi là 'Takeshi Kaneshiro! Takeshi Kaneshiro!', nhưng thực ra khi về nhà cũng chỉ có một mình." Anh đã thong thả chia sẻ như vậy trong một cuộc phỏng vấn với tạp chí _ELLE_, khóe miệng hơi nhếch lên một nụ cười nhạt, che giấu sự cô độc trong lòng [^2].
 
-📝 Ghi chú của nhà quản lý: Sự quyến rũ của Takeshi Kaneshiro không nằm ở "anh ấy ở đó", mà nằm ở "anh ấy không ở đó". Trong một thời đại mạng xã hội buộc tất cả mọi người phải chụp ảnh, sự biến mất của anh đã trở thành một cách kháng cự xa xỉ nhất.
+📝 Ghi chú của người giám tuyển: Sức hút của Takeshi Kaneshiro không nằm ở chỗ anh "ở đó", mà nằm ở chỗ anh "không ở đó". Trong thời đại mà mạng xã hội ép buộc mọi người phải "check-in", sự biến mất của anh lại trở thành một sự kháng cự xa xỉ nhất.
 
-### Ngôi sao được sinh ra vì một chiếc xe máy
+### Nam thần ra đời vì một chiếc xe máy
 
-Sự nghiệp diễn xuất của Takeshi Kaneshiro bắt đầu từ một vật thể cụ thể: một chiếc xe máy. Năm 1990, một thiếu niên 17 tuổi đang học tại Trường Mỹ Đài Bắc, để kiếm tiền tiêu vặt mua xe máy, đã chấp nhận lời mời của mẹ một bạn cùng lớp đi quay quảng cáo đầu tiên trong cuộc đời — quảng cáo nước soda Bảo Giai Hương Tân của hãng Black Pine [^3].
+Sự nghiệp diễn xuất của Takeshi Kaneshiro bắt đầu từ một vật hữu hình cực kỳ cụ thể: một chiếc xe máy. Năm 1990, cậu thiếu niên 17 tuổi đang theo học tại Trường Quốc tế Mỹ ở Đài Bắc, để dành tiền mua xe máy, đã đồng ý lời giới thiệu của mẹ một người bạn để đóng quảng cáo đầu tiên trong đời — nước ngọt Heicha Champagne [^3].
 
-Trong đoạn quảng cáo ngắn vài giây đó, anh trông rất đen và gầy, mặc quần yếm và nhảy điệu nhảy đường phố tơ ngây, tuy nhiên đã bị "mẹ giải trí" Cách Phúc Hồng nhận ra ngay [^4]. Sau đó anh được gửi tới studio ghi âm của nhạc sĩ Trần Thăng làm trợ lý, cùng với Lưu Nhược Anh chịu trách nhiệm quét nhà vệ sinh, rửa ảnh, mua trầu. Trong những ngày đó, bên cạnh nhạc sĩ Trần Thăng, anh học được cách "không nghiêm túc" và "tự do" trong ngành giải trí. Trần Thăng từng nói đùa rằng trước khi phát hành đĩa nhạc, điều Takeshi Kaneshiro giỏi nhất là quét nhà vệ sinh, và những kinh nghiệm ở mức độ cơ sở này đã khiến anh, ngay cả khi đặt chân lên sàn đỏ Oscar, vẫn giữ được một cái gì đó "thạo việc" [^5].
+Trong đoạn quảng cáo ngắn ngủi vài giây đó, anh trông vừa đen vừa gầy, mặc quần yếm nhảy những điệu hip-hop còn non nớt, nhưng đã lọt vào mắt xanh của "mẹ đẻ giới giải trí" Cát Phúc Hồng (Ge Fu-hung) ngay lập tức [^4]. Sau đó, anh được đưa đến phòng thu của Trần Thăng (Chen Sheng) làm trợ lý, cùng với Lưu Nhược Anh (Rene Liu) chịu trách nhiệm quét dọn nhà vệ sinh, rửa ảnh và mua trầu cau. Trong những ngày tháng đó, bên cạnh nhạc sĩ Trần Thăng, anh đã học được sự "không chính thống" và "tự tại" đối với giới giải trí. Trần Thăng từng nói đùa rằng việc giỏi nhất của Takeshi Kaneshiro trước khi ra album là cọ bồn cầu, và chính sự rèn luyện ở tầng lớp thấp kém này đã giúp anh dù sau này có đứng trên thảm đỏ Oscar vẫn giữ được vẻ chất phác của một "người làm thuê" [^5].
 
-"Bộ phim truyền hình đầu tiên tôi quay ở Đài Loan là 'Cỏ Đất Nhân Tài', lúc đó tôi hoàn toàn không biết diễn xuất. Ngày quay đầu tiên tôi bị đạo diễn mắng rất nặng, những diễn viên nổi tiếng trong cùng một bộ phim cũng lo rằng vì tôi mà kéo dài thời gian quay phim." Nhắc lại những ngày tơ ngây, Takeshi Kaneshiro thành thật rằng lúc đó anh buồn đến mức muốn quay về nhà [^2].
+"Bộ phim truyền hình đầu tiên tôi đóng tại Đài Loan là _Thảo Địa Trạng Nguyên_, lúc đó tôi hoàn toàn là một tân binh không biết diễn xuất. Ngày đầu tiên quay phim đã bị đạo diễn mắng cho một trận, các diễn viên lớn trong đoàn cũng lo lắng vì tôi mà kéo dài thời gian quay." Hồi tưởng về những năm tháng non nớt, Takeshi Kaneshiro thẳng thắn thừa nhận lúc đó anh buồn đến mức chỉ muốn về nhà [^2].
 
-### Lưới Pineapple của Vương Gia Vệ và Mất Mát Nhân Dạng
+### Lon dứa của Vương Gia Vệ và sự lạc lõng về bản sắc
 
-Nếu nói Trần Thăng đã cho Takeshi Kaneshiro xương sống, thì Vương Gia Vệ đã cho anh tâm hồn. Năm 1994, cảnh sát 223 trong phim "Trùng Khánh Rừng Lâm" (Chungking Express) khiến toàn thế giới nhớ tới vị thiếu niên không ngừng ăn những hộp dứa hết hạn sử dụng. Vương Gia Vệ từng nhận xét: "Đôi mắt của Trương Quốc Vinh có câu chuyện, đôi mắt của Lương Triều Vỹ có một lỗ đen, đôi mắt của Takeshi Kaneshiro có cuộc sống." [^6]
+Nếu nói Trần Thăng cho Takeshi Kaneshiro khung xương, thì Vương Gia Vệ đã trao cho anh linh hồn. Năm 1994, nhân vật cảnh sát 223 trong _Chungking Express_ (Trùng Khánh Sâm Lâm) đã khiến cả thế giới ghi nhớ chàng trai không ngừng ăn những lon dứa hết hạn. Vương Gia Vệ từng nhận xét: "Trong mắt Trương Quốc Vinh có câu chuyện, trong mắt Lương Triều Vỹ có hố đen, còn trong mắt Takeshi Kaneshiro có nhân sinh." [^6]
 
-Tuy nhiên, vị "thần tượng Châu Á" này, ngay từ khi mới nổi tiếng, đã sa vào cuộc vật lộn với bản dạng. Là con lai Nhật-Đài Loan (cha là người Okinawa Nhật Bản, mẹ là người Đài Loan), anh đã thành thật trong cuộc phỏng vấn với CNN: "Khi ở Đài Loan, người Đài Loan nói tôi là người Nhật Bản. Khi đi học ở Nhật Bản, bạn cùng lớp nói tôi là người Đài Loan. Tôi từng cảm thấy rất khó khăn trong việc phân biệt mình thực sự là người nước nào." [^7] Đặc tính ở bên lề này, lại khiến anh có khả năng xử lý các vai trò như nhân vật lai giữa bóng tối trong phim "Sleepless Night" (Bất Dạ Thành), hoặc Nghiêm Trạch Khôn vượt qua bản dạng Đài-Nhật trong phim "The Crossing" (Thái Bình Luân), với sức thuyết phục vô địch.
+Tuy nhiên, vị "nam thần châu Á" này khi mới nổi tiếng đã rơi vào cuộc đấu tranh về bản sắc. Là người lai Trung - Nhật (cha là người Okinawa, Nhật Bản; mẹ là người Đài Loan), anh đã thú nhận trong một cuộc phỏng vấn với CNN: "Khi còn nhỏ ở Đài Loan, người Đài Loan nói tôi là người Nhật. Khi sang Nhật du học, bạn học lại nói tôi là người Đài Loan. Tôi từng cảm thấy rất khó khăn để phân biệt mình rốt cuộc là người nước nào." [^7] Đặc điểm của một người đứng bên lề này trái lại đã giúp anh có được sức thuyết phục vô song khi đảm nhận các vai diễn lai trong _Chungking Express_ (với nhân vật lẩn khuất nơi ranh giới xã hội đen), hay vai Nghiêm Trạch Khôn (Yan Ze-kun) vượt qua ranh giới bản sắc Đài - Nhật trong _The Silent War_ (Thái Bình Luân).
 
-"Trong 'The Crossing' (Thái Bình Luân), tôi có thể tập trung sức mạnh vào phần cảm xúc, bởi vì tôi không có gánh nặng ngôn ngữ; tôi nói tất cả các ngôn ngữ: Quốc ngữ, tiếng Đài, và tiếng Nhật." Takeshi Kaneshiro đã đề cập trong cuộc phỏng vấn với Tạp chí Thiên Hạ, rằng nền tảng xuyên văn hóa này cuối cùng đã trở thành chất dưỡng cho diễn xuất của anh [^8].
+"Trong _The Silent War_, tôi có thể tập trung toàn lực để thử thách phần cảm xúc, vì tôi không có gánh nặng ngôn ngữ; tôi nói tất cả các thứ tiếng: Quốc ngữ, tiếng Đài và tiếng Nhật." Takeshi Kaneshiro đã đề cập trong cuộc phỏng vấn với tạp chí _CommonWealth_ rằng nền tảng đa văn hóa này cuối cùng đã trở thành dưỡng chất cho diễn xuất của anh [^8].
 
-### Onimusha: Ngôi Sao Châu Á Đầu Tiên Bước Vào Thế Giới Ảo
+### Onimusha: Siêu sao đầu tiên bước vào thế giới ảo
 
-Tình yêu của Takeshi Kaneshiro với các trò chơi điện tử không phải là tin tức mới, nhưng anh là vị ngôi sao Châu Á đầu tiên trên toàn cầu kết hợp sâu sắc hình ảnh cá nhân với công nghệ bắt chuyển động vào một trò chơi cấp độ 3A. Năm 2001, khi hợp tác với Capcom phát hành "Onimusha" (Quỷ Vũ Sĩ), anh đã trở thành mẫu prototyp cho nhân vật chính Akira Samanosuke Akechi [^9].
+Niềm đam mê trò chơi điện tử của Takeshi Kaneshiro không phải là tin mới, nhưng anh là siêu sao châu Á đầu tiên trên thế giới kết hợp sâu sắc hình ảnh cá nhân với công nghệ bắt chuyển động (motion capture) vào một trò chơi cấp độ AAA. Năm 2001, anh hợp tác với Capcom ra mắt tựa game _Onimusha_ (Quỷ Võ Giả), lấy nguyên mẫu từ chính anh để tạo nên nhân vật chính Akechi Samanai [^9].
 
-Theo lời đồn, anh từng từ chối lời mời ăn cơm của Trần Khả Tín, với lý do "đã hẹn với một người bạn trực tuyến, cần phải lên mạng trò chuyện". Đây không phải cách đối xử kiêu ngạo, mà là đam mê thực sự của anh đối với thế giới trò chơi. Trong phần hậu trường sản xuất "Onimusha", chúng ta có thể thấy anh mặc trang phục bắt chuyển động nặng, lặp lại hành động vung kiếm, chỉ để làm cho hình ảnh ảo của mình trong thế giới trò chơi thêm chân thực. Đối với anh, thế giới trò chơi là một nơi trú ẩn khác để thoát khỏi ánh kỳ lân thực tế.
+Có tin đồn rằng anh từng từ chối lời mời ăn tối của Trần Khả Tín với lý do "đã hẹn với bạn trên mạng để lên game trò chuyện". Đây không phải là thái độ ngôi sao, mà là sự đầu tư thực sự của anh vào thế giới trò chơi. Trong các thước phim hậu trường của _Onimusha_, có thể thấy anh mặc thiết bị bắt chuyển động nặng nề, lặp đi lặp lại các động tác vung kiếm chỉ để bản thân trong thế giới ảo trở nên chân thực hơn. Đối với anh, thế giới trò chơi là một nơi trú ẩn khác để tránh né ánh đèn sân khấu của hiện thực.
 
-### I See You: Một Người Đàn Ông Và Một Cây Chè Của Trọng Lượng
+### I See You: Sức nặng của một người đàn ông và một cái cây
 
-Năm 2013, một quảng cáo của Eva Air tên "I See You" (Tôi Nhìn Thấy Bạn), hoàn toàn thay đổi số phận của Chí Thượng Trương Phồn. Takeshi Kaneshiro ngồi uống trà dưới một cây chè trên con đường Bảo Long, với vài câu thoại đơn giản "nhìn thấy sự nhớ nhung, nhìn thấy hy vọng, nhìn thấy câu trả lời", khiến cây chè này từ đó được đặt tên là "Cây Takeshi Kaneshiro" [^10].
+Năm 2013, một quảng cáo của EVA Air mang tên _I See You_ đã thay đổi hoàn toàn số phận của vùng đất Trì Thượng (Chihshang), Đài Đông. Takeski Kaneshiro ngồi uống trà dưới một cây bàng trên Đại lộ Bách Lang, với vài câu thoại đơn giản "Nhìn thấy nỗi nhớ, nhìn thấy hy vọng, nhìn thấy câu trả lời", đã khiến cái cây đó từ đó được đặt tên là "Cây Takeshi Kaneshiro" [^10].
 
-Quảng cáo này đã gây hiệu ứng trên các nền tảng mạng xã hội, tạo ra 4,67 triệu lượt tiếp xúc trong vòng một ngày [^11]. Đây không chỉ là hiệu ứng ngôi sao lớn, mà còn vì "khí chất du khách" của Takeshi Kaneshiro hoàn toàn phù hợp với khát vọng tập thể của người Đài Loan về "cuộc sống chậm". Sự thanh lịch và bình yên mà anh thể hiện trong quảng cáo đã khiến một cây chè bình thường trở thành bộ sưu tập của toàn bộ Đài Loan về "nơi xa xôi".
+Quảng cáo này đã tạo nên một hiện tượng bùng nổ trên mạng xã hội, tạo ra 4,67 triệu lượt tiếp cận chỉ trong một ngày [^11]. Đây không chỉ đơn thuần là hiệu ứng siêu sao, mà còn bởi khí chất "lữ khách" của Takeshi Kaneshiro hoàn toàn phù hợp với khao khát tập thể của người Đài Loan về một "lối sống chậm". Sự thanh tao và bình lặng anh thể hiện trong quảng cáo đã khiến một cái cây vốn dĩ bình thường trở thành nơi mang theo sự tưởng tượng về "phương xa" của cả Đài Loan.
 
-📝 Ghi chú của nhà quản lý: Sự nổi tiếng của cây Takeshi Kaneshiro, về bản chất, là một phép lạ trong lịch sử du lịch Đài Loan. Nó chứng minh rằng khi một người đại diện có "chất lượng văn hóa" cao kết hợp với đất đai, năng lượng tạo ra đủ để quay vòng thế giới.
+📝 Ghi chú của người giám tuyển: Sự bùng nổ của Cây Takeshi Kaneshiro về bản chất là một kỳ tích trong lịch sử du lịch Đài Loan. Nó chứng minh rằng khi một người đại diện có "chất lượng văn hóa" cao kết hợp với vùng đất, năng lượng tạo ra đủ để xoay chuyển cả thế giới.
 
-### Những Người Ẩn Dật Thời Kỳ Đỉnh Cao: Tôi Không Bí Ẩn, Là Các Bạn Tò Mò
+### Người ẩn dật thời đỉnh cao: Tôi không bí ẩn, là các bạn tò mò
 
-Giờ đây Takeshi Kaneshiro có vẻ giống như một huyền thoại. Tác phẩm gần đây nhất của anh, "Phong Lâm Hỏa Sơn" (The Wrath of the Titans), kể từ năm 2017 khi bắt đầu quay, ngày phát hành đã bị hoãn lại nhiều lần, hiện dự kiến sẽ ra mắt vào năm 2025 [^12]. Trong những năm chờ đợi phim ra mắt, tin tức về anh hầu hết đến từ những gặp gỡ tình cờ: mua rau ở siêu thị, trồng trọt ở nông trại, hoặc là một người chơi cao cấp trong thế giới trò chơi.
+Takeshi Kaneshiro của hiện tại giống như một huyền thoại hơn. Tác phẩm gần đây nhất của anh là _The Silent War_ (Phong Lâm Hỏa Sơn) kể từ khi khởi quay năm 2017 đã liên tục bị hoãn ngày công chiếu, hiện dự kiến sẽ ra mắt vào năm 2025 [^12]. Trong những năm chờ đợi phim lên sóng, tin tức về anh đa phần đến từ những cuộc tình cờ gặp gỡ của người qua đường: đi mua thức ăn ở siêu thị, làm nông trên đồng ruộng, hoặc là một game thủ cấp cao trong thế giới ảo.
 
-"Tôi không bí ẩn, là các bạn tò mò." Câu nói được lan truyền rộng rãi của anh trên mạng xã hội, đã nói lên sự vô phương của anh đối với sự chú ý của công chúng [^13]. Anh từ chối được định nghĩa là "chàng trai mơ ước", cũng từ chối tham gia các chương trình thực tế. Ở một thời đại ưu tiên lưu lượng truy cập, Takeshi Kaneshiro chọn sử dụng "im lặng" để bảo vệ những gì thực sự là của anh.
+"Tôi không bí ẩn, là các bạn tò mò." Câu nói nổi tiếng được lan truyền rộng rãi trên mạng xã hội đã nói lên hết nỗi bất lực của anh trước sự chú ý của công chúng [^13]. Anh từ chối bị định nghĩa là "người tình trong mộng", cũng từ chối tham gia các chương trình thực tế. Trong một thời đại coi trọng lưu lượng (traffic), Takeski Kaneshiro chọn dùng "sự im lặng" để bảo vệ sự chân thật của mình.
 
-"Diễn xuất đối với tôi, đó là giả vờ (Pretending)." Takeshi Kaneshiro đã nói thẳng thắn trong cuộc phỏng vấn với Vogue [^14]. Anh không có loại sự chấp nhận "phải trở thành một bậc thầy" đối với diễn xuất, mà giống như một người quan sát may mắn hơn, lơ lửng theo dòng nước của số phận.
+"Diễn xuất đối với tôi chính là giả vờ (Pretending)." Takeshi Kaneshiro đã thẳng thắn nói như vậy trong cuộc phỏng vấn với tạp chí _Vogue_ [^14]. Anh không có nỗi ám ảnh "nhất định phải trở thành bậc thầy" trong diễn xuất, mà giống như một người quan sát may mắn, trôi theo dòng chảy của định mệnh.
 
-Khi chúng ta lại thấy người đàn ông được gắn nhãn "một người dân thường" trong tin street interview, chúng ta có lẽ không nên cảm thấy tiếc nuối, mà nên cảm thấy vui vì anh. Bởi vì anh cuối cùng đã giành chiến thắng phần thưởng tốt nhất: tự do được thế giới quên lãng.
+Khi chúng ta một lần nữa nhìn thấy người đàn ông bị gắn nhãn là "người qua đường" trong bản tin phỏng vấn đường phố, có lẽ chúng ta không nên cảm thấy tiếc nuối, mà nên cảm thấy mừng cho anh. Bởi vì cuối cùng anh đã giành được phần thưởng tốt nhất: sự tự do khi được thế giới lãng quên.
 
-## Tài Liệu Tham Khảo
+## Tài liệu tham khảo
 
-[^1]: [Instagram: 我曾經想分享一些「金城武」的名言佳句](https://www.instagram.com/p/DQ0rYtkk8fQ/) — Xem chi tiết trong liên kết gốc để có thêm thông tin bổ sung
+[^1]: [Instagram: Tôi từng muốn chia sẻ một số câu nói hay của "Takeshi Kaneshiro"](https://www.instagram.com/p/DQ0rYtkk8fQ/) — Xem thêm thông tin bổ sung trong nội dung liên kết gốc
 
-[^2]: [ELLE Hong Kong: 【ELLE 30周年回顧】情迷金城武！美男子的真情剖白](https://www.elle.com.hk/celebrity/elle30th-takeshi-kaneshiro) — Xem chi tiết trong liên kết gốc để có thêm thông tin bổ sung
+[^2]: [ELLE Hong Kong: 【Hồi tưởng 30 năm ELLE】Say mê Takeshi Kaneshiro! Lời bộc bạch chân thành của mỹ nam](https://www.elle.com.hk/celebrity/elle30th-takeshi-kaneshiro) — Xem thêm thông tin bổ sung trong nội dung liên kết gốc
 
-[^3]: [NOWnews: 金城武第一支廣告灌3天汽水 17歲長這樣](https://www.nownews.com/news/6603580) — NOWnews Tin Ngày Hôm Nay
+[^3]: [NOWnews: Quảng cáo đầu tiên của Takeshi Kaneshiro uống nước ngọt suốt 3 ngày, năm 17 tuổi trông như thế này](https://www.nownews.com/news/6603580) — Tin tức NOWnews
 
-[^4]: [Facebook: 娛樂人物誌 - 亞洲洲草金城武](https://www.facebook.com/photo.php?fbid=1017411277561608) — Bài đăng công khai trên Facebook
+[^4]: [Facebook: Nhật ký nhân vật giải trí - Cỏ xanh châu Á Takeshi Kaneshiro](https://www.facebook.com/photo.php?fbid=1017411277561608) — Bài đăng công khai trên Facebook
 
-[^5]: [NOWnews: 金城武發片前先刷馬桶！這首KTV悲歌竟是他寫的](https://www.nownews.com/news/6597012) — NOWnews Tin Ngày Hôm Nay
+[^5]: [NOWnews: Trước khi ra album, Takeshi Kaneshiro đi cọ bồn cầu trước! Bài hát bi thương trong KTV này hóa ra là do anh viết](https://www.nownews.com/news/6597012) — Tin tức NOWnews
 
-[^6]: [YouTube: 金城武專訪！亞洲第一男神罕見談感情觀](https://www.youtube.com/watch?v=CEKv71BzBcg) — Bản ghi video YouTube
+[^6]: [YouTube: Phỏng vấn Takeshi Kaneshiro! Nam thần số một châu Á hiếm khi nói về quan điểm tình cảm](https://www.youtube.com/watch?v=CEKv71BzBcg) — Bản ghi video YouTube
 
-[^7]: [大紀元: CNN二度專訪 金城武不嚮往好萊塢](https://www.epochtimes.com/b5/6/2/5/n1212364.htm) — Báo cáo Epoch Times
+[^7]: [The Epoch Times: CNN phỏng vấn lần thứ hai, Takeski Kaneshiro không hướng tới Hollywood](https://www.epochtimes.com/b5/6/2/5/n1212364.htm) — Báo cáo của Đại Kỷ Nguyên
 
-[^8]: [CommonWealth Magazine: I Am not a 'Dream Guy' - Takeshi Kaneshiro Interview](https://english.cw.com.tw/article/article.action?id=298) — Xem chi tiết trong liên kết gốc để có thêm thông tin bổ sung
+[^8]: [CommonWealth Magazine: I Am not a 'Dream Guy' - Takeshi Kaneshiro Interview](https://english.cw.com.tw/article/article.action?id=298) — Xem thêm thông tin bổ sung trong nội dung liên kết gốc
 
-[^9]: [Threads: 金城武配合製作《鬼武者》遊戲花絮](https://www.threads.com/@freshcl0uds/post/DYADHMLlmXv/) — Xem chi tiết trong liên kết gốc để có thêm thông tin bổ sung
+[^9]: [Threads: Hậu trường sản xuất trò chơi "Onimusha" của Takeshi Kaneshiro](https://www.threads.com/@freshcl0uds/post/DYADHMLlmXv/) — Xem thêm thông tin bổ sung trong nội dung liên kết gốc
 
-[^10]: [Inside: 當社群眼球轉動廣告世界時，質感加內容產生共鳴～I see you‧長榮航空](https://www.inside.com.tw/article/2576-i-see-you) — Xem chi tiết trong liên kết gốc để có thêm thông tin bổ sung
+[^10]: [Inside: Khi ánh nhìn mạng xã hội xoay chuyển thế giới quảng cáo, chất lượng cộng với nội dung tạo nên sự đồng cảm ~ I see you · EVA Air](https://www.inside.com.tw/article/2576-i-see-you) — Xem thêm thông tin bổ sung trong nội dung liên kết gốc
 
-[^11]: [Inside: 從長榮「I SEE YOU」廣告看見 Facebook 操作的秘密](https://www.inside.com.tw/article/3554-i-see-you-on-facebook) — Xem chi tiết trong liên kết gốc để có thêm thông tin bổ sung
+[^11]: [Inside: Nhìn từ quảng cáo "I SEE YOU" của EVA Air để thấy bí mật vận hành Facebook](https://www.inside.com.tw/article/3554-i-see-you-on-facebook) — Xem thêm thông tin bổ sung trong nội dung liên kết gốc
 
-[^12]: [YouTube: 《風林火山》金城武專訪](https://www.youtube.com/watch?v=AGNk5O4-3PA) — Bản ghi video YouTube
+[^12]: [YouTube: Phỏng vấn Takeshi Kaneshiro về phim 《Phong Lâm Hỏa Sơn》](https://www.youtube.com/watch?v=AGNk5O4-3PA) — Bản ghi video YouTube
 
-[^13]: [Facebook: 金城武粉絲專頁 - 我不神祕，是你們好奇](https://www.facebook.com/takeshikaneshirofanspage/photos/a.2506664599593329/2506664599593329/) — Bài đăng công khai trên Facebook
+[^13]: [Facebook: Fanpage Takeshi Kaneshiro - Tôi không bí ẩn, là các bạn tò mò](https://www.facebook.com/takeshikaneshirofanspage/photos/a.2506664599593329/2506664599593329/) — Bài đăng công khai trên Facebook
 
-[^14]: [Vogue Taiwan: 金城武的眼淚](https://www.vogue.com.tw/feature/content-17151) — Xem chi tiết trong liên kết gốc để có thêm thông tin bổ sung
+[^14]: [Vogue Taiwan: Nước mắt của Takeshi Kaneshiro](https://www.vogue.com.tw/feature/content-17151) — Xem thêm thông tin bổ sung trong nội dung liên kết gốc
