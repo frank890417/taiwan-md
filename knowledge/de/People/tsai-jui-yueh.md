@@ -1,9 +1,16 @@
 ---
-title: 'Tsai Jui-yueh: Vom Gefängnis auf Grüninsel zu einem unzerstörbaren Tanzhaus'
-description: 'Tsai Jui-yueh, geboren 1921 in Tainan, lernte mit 16 Jahren in Japan tanzen. Nach politischer Verfolgung durch ihren Ehemann im Jahr 1949 wurde sie verhaftet und nach Grüninsel deportiert. Nach ihrer Entlassung lehrte sie weiterhin an der Zhongshan North Road. Sie hinterließ nicht nur eine Tanztechnik, sondern auch ein Tanzhaus, das gerettet, niedergebrannt und bis heute geprobt wird – und die Herausforderung, wie Taiwan Gedenken an Leiden bewahrt.'
+title: 'Tsai Jui-yue: Von den Gefängnissen der Green Island zu einer unzerstörbaren Tanzschule'
+description: 'Die in Tainan geborene zeitgenössische Tänzerin ging im Alter von 16 Jahren nach Japan, um Tanz zu studieren, und choreografierte auf der Rückreise nach Taiwan im Jahr 1946 das Werk „Lied Indiens“. Im Jahr 1949 wurde sie aufgrund der politischen Verfolgung ihres Ehemanns Lei Shih-yu inhaftiert und verbrachte drei Jahre auf der Green Island. Nach ihrer Entlassung im Jahr 1953 nahm sie den Tanzunterricht wieder auf; ihre Tanzschule war in einem japanischen Wohnhaus in der Zhongshan North Road Section 2 untergebracht und hatte auf ihrem Höhepunkt drei bis vier hundert Schüler. Im Jahr 1994 drohte ihr wegen des Baus der MRT der Abriss, doch die Kulturwelt rettete sie. Nachdem sie 1999 als städtisches Denkmal ausgewiesen worden war, wurde sie durch ein Feuer zerstört. Vor den verkohlten Ruinen sagte sie: „Es ist, als hätte ich eine Tochter verloren.“'
 date: 2026-08-19
 category: 'People'
-tags: ['Tsai Jui-yueh', 'Modern Dance', 'Weiße Terror', 'Frau', 'Rose-Denkmal']
+tags:
+  [
+    'Tsai Jui-yue',
+    'Zeitgenössischer Tanz',
+    'Weiße Terror',
+    'Frauen',
+    'Rose Historic Site',
+  ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
 featured: false
@@ -17,25 +24,25 @@ rationale:
 readingTime: 9
 curation: 'incubating'
 translatedFrom: 'People/蔡瑞月.md'
-sourceCommitSha: 'c462122e6'
-sourceContentHash: 'sha256:f91b55938ef411f1'
-sourceBodyHash: 'sha256:6b90253634145c2e'
-translatedAt: '2026-09-14T14:50:08+08:00'
+sourceCommitSha: 'e7e1bb5735'
+sourceContentHash: 'sha256:2a7899aa5fbe66f0'
+sourceBodyHash: 'sha256:7f9bd688d1a76989'
+translatedAt: '2026-11-27T03:41:31.608074+00:00'
 ---
 
-# Tsai Jui-yueh: Vom Gefängnis auf Grüninsel zu einem unzerstörbaren Tanzhaus
+# Tsai Jui-yueh: Von der Gefängniszelle auf Green Island zu einer unzerstörbaren Tanzschule
 
-> **30-Sekunden-Zusammenfassung**: Tsai Jui-yueh lernte in Japan tanzen, wurde nach ihrer Rückkehr nach Taiwan während des Weißen Terrors verhaftet und diente. Nach der Entlassung lehrte sie weiterhin an der Zhongshan North Road. Ihr Tanzhaus erlebte eine Abrisskrise und einen Brand; heute ist es sowohl ein Ort für Modern Dance als auch ein Schauplatz, wie Taiwan politisches Leid bewahrt.
+> **30-Sekunden-Überblick**: Tsai Jui-yueh reiste von Tainan nach Japan, um Tanz zu studieren. Nach ihrer Rückkehr nach Taiwan wurde sie während der Weißen Terror-Ära inhaftiert; nach ihrer Entlassung unterrichtete sie weiterhin Tanz in der Zhongshan North Road. Ihre Tanzschule überstand die Gefahr der Abrissplanung sowie einen Brand und dient heute sowohl als Ort des modernen Tanzes als auch als Gedenkstätte für das politische Leid in Taiwan.
 
-Im Jahr 1946 kehrte die 25-jährige Tsai Jui-yueh mit einem Schiff aus Japan nach Taiwan zurück, wo sie „Indiens Gesang“ an Bord komponierte. Im Jahr 1949 wurde ihr Ehemann Lei Shi-yu vom Staat verhaftet und ausgewiesen; Monate später wurde auch sie zu einer politischen Gefangenen und nach Grüninsel deportiert. Nach ihrer Entlassung im Jahr 1953 eröffnete sie eine Tanzschule, deren Klassenzimmer schließlich in einem japanischen Holzhaus an der Zhongshan North Road in Taipeh untergebracht wurden.[^1] [^2] [^3]
+Im Jahr 1946 kehrte die damals 25-jährige Tsai Jui-yueh mit dem Schiff aus Japan nach Taiwan zurück und choreografierte während der Überfahrt „Lied Indiens“. Im Jahr 1949 wurde ihr Ehemann Lei Shih-yu von der Regierung verhaftet und ausgewiesen. Wenige Monate später wurde auch sie zur politischen Gefangenen und nach Green Island deportiert. Nach ihrer Entlassung im Jahr 1953 eröffnete sie erneut eine Tanzschule und ließ ihre Unterrichtsräume schließlich in einem japanischen Holzgebäude in der Zhongshan North Road in Taipeh nieder. [^1] [^2] [^3]
 
-![Eingang des Tsai Jui-yueh Dance Institute, aufgenommen im Jahr 2013](https://upload.wikimedia.org/wikipedia/commons/3/36/Tsai_Jui-yueh_Dance_Institute_20130925.jpg)[^12]
+![Eingang der Tsai Jui-yueh Dance Research Institute, aufgenommen im Jahr 2013](https://upload.wikimedia.org/wikipedia/commons/3/36/Tsai_Jui-yueh_Dance_Institute_20130925.jpg)[^12]
 
-_Abbildung 1: Eingang des Tsai Jui-yueh Dance Institute. Foto: lienyuan lee, lizenziert unter CC BY 3.0. Originalbild-URL: [Originaldatei auf Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/3/36/Tsai_Jui-yueh_Dance_Institute_20130925.jpg). Lizenz und Dateibeschreibung: [Dateisegite auf Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tsai_Jui-yueh_Dance_Institute_20130925.jpg). Unverändert._
+_Abb. 1: Eingang der Tsai Jui-yueh Dance Research Institute. Fotografie: lienyuan lee, lizenziert unter CC BY 3.0. Originalbild-URL: [Wikimedia Commons Originaldatei](https://upload.wikimedia.org/wikipedia/commons/3/36/Tsai_Jui-yueh_Dance_Institute_20130925.jpg). Lizenz- und Archivinformationen: [Wikimedia Commons Dateiseite](https://commons.wikimedia.org/wiki/File:Tsai_Jui-yueh_Dance_Institute_20130925.jpg). Keine Änderungen vorgenommen._
 
-Dieser Lebenslauf gleicht nicht dem einer Tänzerin. Er trennt Bühne, Gefängnis, Überwachung und Brand nicht voneinander, sondern legt sie wiederholt auf einen einzigen Körper. Die Kernfrage, die Tsai Jui-yueh hinterließ, ist daher nicht: „War sie die Mutter des Modern Dance in Taiwan?“, sondern: **Kann der Körper seinen eigenen Rhythmus bewahren, wenn der Staat die Bewegung, Arbeit und Familie einer Person einschränken kann?**
+Dieser Lebensweg gleicht kaum der Biografie, die man von einer Tänzerin erwarten würde. Er trennt Bühne, Gefängniszelle, Überwachung und Brand nicht voneinander, sondern lässt sie immer wieder auf demselben Körper aufeinandertreffen. Die Kernfrage, die Tsai Jui-yueh hinterlässt, ist daher nicht „War sie die Mutter des modernen Tanzes in Taiwan?“, sondern: **Wenn der Staat die Bewegungsfreiheit, die Arbeit und die Familie eines Menschen einschränken kann, kann der Körper dann noch seinen eigenen Rhythmus bewahren?**
 
-📝 Kuratorentipp: Die Geschichte von Tsai Jui-yueh ist keine Verherrlichung des Leidens durch Kunst, sondern die Suche der Kunst nach einem Atemzug, der nicht vom Machtapparat geliehen werden muss.
+📝 Notiz des Kurators: Die Geschichte von Tsai Jui-yueh ist nicht ein Fall davon, dass Leid der Kunst eine Krone aufsetzt, sondern dass die Kunst inmitten des Leids einen Atemweg findet, den sie nicht von der Macht leihen muss.
 
 ## Ein Brief ohne Adresse
 
@@ -55,21 +62,21 @@ Sie wusste nicht, wie andere sie sehen würden. Sie hatte einfach entschieden, z
 
 Die chinesische Übersetzung lautet: „Ich konnte es kaum erwarten, nach Hause zurückzukehren, um aufzutreten, zu choreografieren, zu lehren.“ Das „Zuhause“ hier ist kein ruhiger Endpunkt, sondern ein Ort, der noch keine Bühne hat und den sie selbst bauen musste.
 
-## Sie kehrte nicht in eine leere Landschaft zurück
+## Sie kehrte nicht in ein leeres Land zurück
 
-Kurz nach ihrer Rückkehr nach Tainan im Jahr 1946 führte Tsai Jui-yueh Tanzaufführungen in der Taipingjing Kirche durch und begann dort zu lehren. Im Jahr 1947 heiratete sie den Dichter Lei Shi-yu, und später lebten und arbeiteten sie in einem Lehrerwohnhaus der National Taiwan University in Taipeh.[^4] [^9]
+Nach ihrer Rückkehr nach Tainan im Jahr 1946 trat Tsai Jui-yueh kurz darauf in der Taipingjing-Kirche auf. Sie begann ebenfalls, Tanzunterricht in Tainan zu geben. Im Jahr 1947 heiratete sie den Dichter Lei Shi-yu; später zogen die beiden nach Taipeh, wo sie in den Wohnheimen für Lehrkräfte der National Taiwan University lebten und arbeiteten. Das japanische Gebäude in der Zhongshan North Road Section 2, Lane 48, wurde allmählich zu einem Tanzstudio, einem Zuhause und einem Treffpunkt für Freunde aus dem Kunst- und Kultursektor. [^4] [^9]
 
-Der Wert dieses Gebäudes stammt nicht nur davon, wer darin gelebt hat. Akten und Ortsmaterial zeigen, dass das Gebäude ursprünglich ein Beamtenwohnhaus aus der japanischen Ära war, das etwa um 1925 gebaut wurde und später für den Tanzunterricht erweitert oder umgebaut wurde. Diese unvollständigen zeitlichen Spuren deuten vielmehr darauf hin, dass das Tanzhaus kein konserviertes Ausstellungsstück war, sondern ein Arbeitsraum, der sich ständig an die Bedürfnisse seiner Nutzer anpasste.[^8] [^9]
+Der Wert dieses Gebäudes ergibt sich nicht allein daraus, wer dort einst wohnte. Archivunterlagen und Standortdaten weisen darauf hin, dass das Gebäude ursprünglich als Dienstwohnung für Beamte während der japanischen Kolonialzeit errichtet wurde (etwa um 1925) und später aufgrund des Bedarfs am Tanzunterricht erweitert oder umgebaut wurde. Diese nicht ganz einheitlichen Spuren verschiedener Epochen verdeutlichen vielmehr, dass die Tanzgruppe kein konserviertes Ausstellungsstück war, sondern ein Arbeitsraum, der sich stetig an die Bedürfnisse der Nutzer anpasste. [^8] [^9]
 
-![Außenansicht des Tsai Jui-yueh Dance Institute](https://upload.wikimedia.org/wikipedia/commons/f/f3/%E8%94%A1%E7%91%9E%E6%9C%88%28%E8%88%9E%E8%B9%88%E7%A0%94%E7%A9%B6%E7%A4%BE%29_0432.jpg)[^13]
+![Äußeres des Gebäudes der Tsai Jui-yueh Dance Research Society](https://upload.wikimedia.org/wikipedia/commons/f/f3/%E8%94%A1%E7%91%9E%E6%9C%88%28%E8%88%9E%E8%B9%88%E7%A0%94%E7%A9%B6%E7%A4%BE%29_0432.jpg)[^13]
 
-_Abbildung 2: Außenansicht des Tsai Jui-yueh Dance Institute. Foto: 林高志, lizenziert unter CC BY-SA 4.0. Originalbild-URL: [Originaldatei auf Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/f/f3/%E8%94%A1%E7%91%9E%E6%9C%88%28%E8%88%9E%E8%B9%88%E7%A0%94%E7%A9%B6%E7%A4%BE%29_0432.jpg). Lizenz und Dateibeschreibung: Dateisegite von Wikimedia Commons. Unverändert._
+_Bild 2: Äußeres des Gebäudes der Tsai Jui-yueh Dance Research Society. Fotografie: Lin Gao-zhi, lizenziert unter CC BY-SA 4.0. Originalbild-URL: [Wikimedia Commons Originaldatei](https://upload.wikimedia.org/wikipedia/commons/f/f3/%E8%94%A1%E7%91%9E%E6%9C%88%28%E8%88%9E%E8%B9%88%E7%A0%94%E7%A9%B6%E7%A4%BE%29_0432.jpg). Lizenz- und Archivangaben: Wikimedia Commons Dateiseite. Keine Änderungen vorgenommen._
 
-[Dateisegite von Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E8%94%A1%E7%91%9E%E6%9C%88%28%E8%88%9E%E8%B9%88%E7%A0%94%E7%A9%B6%E7%A4%BE%29_0432.jpg)
+[Wikimedia Commons Dateiseite](https://commons.wikimedia.org/wiki/File:%E8%94%A1%E7%91%9E%E6%9C%88%28%E8%88%9E%E8%B9%88%E7%A0%94%E7%A9%B6%E7%A4%BE%29_0432.jpg)
 
-Die Dokumente, die im National Archives aufbewahrt wurden, machten diesen Klassenraum zu mehr als nur einem warmen kulturellen Salon. Künstler wie Huang Rong-tsan, Tan Tzu-hao und Lan Yin-ding kamen hier zusammen und diskutierten über das Wachstum von Literatur, Sprache und Tanz in Taiwan.[^4] Doch derselbe Kontext der Akten zeigt auch, dass die künstlerische Tätigkeit ständig unter dem Blickwinkel polizeilicher Behörden stand. Im Jahr 1949 wurde Tsais Tanzgruppe aufgrund ihres Inhalts als „verdächtige Person“ registriert. Polizeiakten interpretierten sogar Bühnenpassagen als mögliche Anzeichen von „Heimweh und Kriegsvermeidung“ oder „Verdacht auf Propaganda für Banditen".[^5]
+Die im National Archives aufbewahrten Unterlagen zeigen, dass dieses Klassenzimmer mehr war als nur ein warmer literarischer Salon. Kulturarbeitende wie Huang Rong-can, Qin Zi-hao und Lan Yin-ding verkehrten hier und diskutierten darüber, wie Literatur, Sprache und Tanz in Taiwan wachsen können. [^4] Doch derselbe Archivkontext zeigt auch, dass kulturelle Aktivitäten stets im Visier der Polizeibehörden standen. Im Jahr 1949 wurde die Tsai Jui-yueh Dance Troupe aufgrund ihres Performance-Inhalts als Gruppe „verdächtiger Personen unter polizeilicher Beobachtung“ eingestuft. Dokumente der Polizeibehörde interpretierten Bühnensequenzen sogar als potenziell „Heimweh und Kriegsmüdigkeit verursachend“ oder als „Verdacht auf Propaganda für Rebellen“. [^5]
 
-Dies ist keine nachträgliche Projektion des Weißen Terrors auf die Kunstgeschichte, sondern spiegelt wider, wie der Staat Tanz wahrnahm. Der Körper der Tänzerin wurde nicht nur als Kunst betrachtet, sondern auch als Träger von Gedanken. Für die Macht war Tanz gefährlich, selbst wenn er keinen klaren Slogan hatte. Die bloße Bewegung des Körpers konnte als Ungehorsam interpretiert werden.
+Dies ist kein Versuch späterer Generationen, die „Weiße Terror“-Ära nachträglich auf die Kunstgeschichte zu projizieren; vielmehr hinterließen die Archive tatsächlich Aufzeichnungen darüber, wie der Staat Tanz betrachtete. Der Körper der Tänzer wurde nicht nur als Kunst wahrgenommen, sondern auch als Träger von Ideen. Für die Macht musste Tanz keine expliziten Slogans enthalten, um gefährlich zu sein. Die Bewegung des Körpers an sich konnte bereits als Ungehorsam interpretiert werden.
 
 ## 15 Gefangene und der Rhythmus des Bodens
 
@@ -117,21 +124,21 @@ Tsai Jui-yueh sagte vor dem verbrannten Tanzhaus:
 
 Dieser Satz stammt aus einem Artikel über das Tsai Jui-yueh Dance Institute in der _Minbao Culture Magazine_ von 2015. Es ist weder ein Gerichtsurteil noch ein Brandgutachten, sondern eine lokale Erinnerung, die von einer Befragten bewahrt wurde. Ihn zu zitieren, bedeutet dem Leser zu zeigen, dass dieser Brand kein abstraktes Kulturerbe-Ereignis war, sondern dass jemand sah, wie der vertraute Holzboden, die Wände und die Spuren des Alltags verbrannt wurden.
 
-## Nach dem Feuer: Nicht nur Wiedergeburt sagen
+## Nach dem Feuer: Mehr als nur eine Wiedergeburt
 
-Im Jahr 2006 eröffnete das Tsai Jui-yueh Dance Institute wieder. Die Pressemitteilung des Präsidentenamtes nannte es als das erste städtische Denkmal in Taiwan mit Tanzthematik und positionierte es als Eingang zu taiwanischem Tanz und internationalem Austausch.[^6] Die aktuelle Beschreibung der Kulturbehörde von Taipeh erklärt jedoch, dass der Ort zur Präsentation von Tanzarchiven und Bildern dient, um Forschung, Bildung und internationalen Austausch zu fördern.[^8]
+Im Jahr 2006 wurde das Tsai Jui-yueh Dance Institute wiedereröffnet. Eine damalige Pressemitteilung des Präsidialamtes bezeichnete es als das erste städtische Kulturdenkmal Taiwans, das dem Thema Tanz gewidmet ist, und positionierte es als Tor für den Tanz Taiwans und den internationalen Austausch. [^6] Die aktuelle Beschreibung des Kulturamtes der Stadt Taipeh besagt, dass am jetzigen Standort Tanz-Historienmaterialien und Bildmaterial ausgestellt werden, um Forschung, Bildung und internationalen Austausch zu fördern. [^8]
 
-Diese Positionierung macht das Rose-Denkmal nicht nur zum „Haus, in dem Tsai Jui-yueh gelebt hat“. Es ist auch ein Archivzugangspunkt für die Bewahrung von Tanzarchiven, ein Bildungsraum für die körperliche Ausbildung der Öffentlichkeit und ein kultureller Knotenpunkt, der den taiwanischen Tanz in den internationalen Diskurs einbettet. Diese drei Funktionen sind nicht immer natürlich konsistent. Die Erhaltung erfordert die Kontrolle der Umgebung und der Spuren; das Lehren benötigt wiederholte Nutzung des Bodens; der internationale Austausch erfordert die Übersetzung lokaler Geschichten in eine Sprache, die für externe Zuschauer verständlich ist. Die langfristige Herausforderung des Tanzhauses bestand darin, diese drei Funktionen gegenseitig zu stützen und nicht sich gegenseitig aufzuzehren.[^6] [^8]
+Diese Positionierung macht das Rose-Denkmal zu mehr als nur dem „Haus, in dem Tsai Jui-yueh lebte“. Es ist zugleich ein Archivtor zur Bewahrung der Tanzgeschichte, ein Bildungsraum, der der Öffentlichkeit den Zugang zum körperlichen Training ermöglicht, und ein kultureller Knotenpunkt, der den Tanz Taiwans in den internationalen Dialog einbindet. Diese drei Funktionen sind nicht immer von Natur aus vereinbar. Die Konservierung erfordert die Kontrolle über die Umgebung und Spuren, der Unterricht benötigt eine intensive Nutzung des Bodens, und der internationale Austausch verlangt danach, lokale Geschichten in eine Sprache zu übersetzen, die für ein externes Publikum verständlich ist. Die langfristige Herausforderung für das Institut besteht darin, diese drei Funktionen so aufeinander abzustimmen, dass sie sich gegenseitig stützen, anstatt sich gegenseitig zu erschöpfen. [^6] [^8]
 
-„Wiedergeburt aus der Flamme“ ist ein nützliches Wort, kann aber auch spätere Probleme verschleiern. Ein Protokoll der Restaurierung vom November 1999, das von der Stiftung aufbewahrt wurde, zeigt, dass die Stiftung, Wissenschaftler und relevante Stellen der Stadt Taipeh nach dem Brand zusammenkamen, um die Restaurierung zu diskutieren.[^10] Aber eine Restaurierung endet nicht damit, dass Wände wieder aufgebaut werden. Welche Materialien ersetzt werden können, welche Spuren erhalten bleiben sollen, wer entscheidet, wie ein von der Kulturszene geschaffener Ort funktioniert – all das ist Teil der Bewahrungsarbeit.
+„Aus der Asche auferstehen“ ist ein hilfreicher Begriff, doch er könnte auch die nachfolgenden Probleme überdecken. Die von der Stiftung aufbewahrten Protokolle der Restaurierungsbesichtigung vom November 1999 zeigen, dass nach dem Brand gemeinsame Sitzungen der Stiftung, von Wissenschaftlern und den zuständigen Stellen der Stadtverwaltung Taipeh stattfanden, um die Wiederherstellung zu diskutieren. [^10] Doch eine Restaurierung endet nicht damit, dass man die Wände einfach neu aufbaut. Welche Materialien ersetzt werden können, welche Spuren erhalten bleiben sollten und wer das Recht hat zu entscheiden, wie ein von einer Kulturgemeinschaft geschaffener Ort funktioniert – all dies ist Teil der Erhaltungsarbeit.
 
-Daher liegt der Wert des Rose-Denkmals nicht nur darin, dass das Holzhaus steht. Sein Wert liegt auch darin, dass es eine Geschichte des Tanzes, eine Geschichte weiblichen Leidens, eine Geschichte der Stadtentwicklung und einen noch nicht vollständig geklärten Streit um Kulturerbe an einer einzigen Adresse vereint. Die Kulturbehörde von Taipeh nannte den Ort einst „Wiege des taiwanesischen Tanzes“; dieser Titel muss zusammen mit der Überwachung, der Abrisskrise, dem Brand und dem Restaurierungsstreit erinnert werden, damit er nicht zu einem Touristen-Slogan verkommt.[^8]
+Der Wert des Rose-Denkmals liegt daher nicht nur darin, dass das Holzgebäude noch steht. Sein Wert liegt auch darin, dass es ein Stück Tanzgeschichte, ein Stück der Geschichte des Leidens von Frauen, ein Stück Stadtentwicklungsgeschichte und eine noch nicht vollständig geklärte Debatte über Kulturgüter an derselben Adresse vereint. Das Kulturamt der Stadt Taipeh bezeichnete diesen Ort einst als die „Wiege des Tanzes in Taiwan“. Damit diese Bezeichnung nicht zu einem bloßen Tourismus-Slogan verkommt, muss sie zusammen mit den Krisen der Überwachung, des Abrisses, des Brandes und der Streitigkeiten um die Restaurierung erinnert werden. [^8]
 
-Die Beschilderung vor Ort erinnert die Leser auch daran, dass die „Restaurierung des ursprünglichen Zustands“ hier nicht bedeutet, das Erscheinungsbild der 1920er Jahre einfach zu replizieren, sondern eine Wahl zwischen den Schichten von Brand, Unterricht, Erweiterung und Alltagsgebrauch darstellt. Ein Schild zu sehen, bedeutet nicht, die Geschichte gelesen zu haben, aber es lässt Besucher wissen: Die Bewahrung des Kulturerbes ist auch ein Akt der Geschichtsschreibung; wer hineingeschrieben wird und welche Spuren bleiben, beeinflusst, wie zukünftige Generationen Tsai Jui-yueh verstehen. [^13] [^14]
+Die Informationstafeln an der Baustelle erinnern die Leser auch daran, dass die „Wiederherstellung des Originalzustands“ hier nicht bedeutet, das Erscheinungsbild der 1920er Jahre einfach eins zu eins zu kopieren, sondern eine Auswahl zwischen den Schichten von Brand, Unterricht, Anbauten und alltäglicher Nutzung zu treffen. Eine Informationstafel zu lesen bedeutet nicht, die gesamte Geschichte verstanden zu haben, aber sie lässt die Besucher wissen: Die Erhaltung von Kulturgütern ist gleichzeitig eine Form der Geschichtsschreibung – wer hineingeschrieben wird und welche Spuren zurückbleiben, beeinflusst, wie spätere Generationen Tsai Jui-yueh verstehen werden. [^13] [^14]
 
-![Beschilderung des Tsai Jui-yueh Dance Institute](https://upload.wikimedia.org/wikipedia/commons/8/8f/Tsai_Jui-yueh_Dance_Institute_plaque_20190706.jpg)[^14]
+![Informationstafel des Tsai Jui-yueh Dance Institute](https://upload.wikimedia.org/wikipedia/commons/8/8f/Tsai_Jui-yueh_Dance_Institute_plaque_20190706.jpg)[^14]
 
-_Abbildung 3: Beschilderung des Tsai Jui-yueh Dance Institute. Foto: Solomon203, lizenziert unter CC BY-SA 4.0. Originalbild-URL: [Originaldatei auf Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/8/8f/Tsai_Jui-yueh_Dance_Institute_plaque_20190706.jpg). Lizenz und Dateibeschreibung: [Dateisegite auf Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tsai_Jui-yueh_Dance_Institute_plaque_20190706.jpg). Unverändert._
+_Bild 3: Informationstafel des Tsai Jui-yueh Dance Institute. Fotografie: Solomon203, lizenziert unter CC BY-SA 4.0. Originalbild-URL: [Wikimedia Commons Originaldatei](https://upload.wikimedia.org/wikipedia/commons/8/8f/Tsai_Jui-yueh_Dance_Institute_plaque_20190706.jpg). Lizenz- und Archivinformationen: [Wikimedia Commons Dateiseite](https://commons.wikimedia.org/wiki/File:Tsai_Jui-yueh_Dance_Institute_plaque_20190706.jpg). Unverändert._
 
 ## Der Boden wartet noch auf eine Bewegung
 

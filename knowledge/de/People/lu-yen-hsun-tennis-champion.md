@@ -1,9 +1,9 @@
 ---
-title: 'Lu Yen-hsun: Vom Wimbledon-Viertelfinale zu fünf Olympischen Spielen – der Taiwaner, der im Tennis am weitesten kam'
-description: 'Bei Wimbledon 2010 besiegte Lu Yen-hsun den an Nummer 7 gesetzten Andy Roddick und wurde zum ersten taiwanesischen Herrenspieler, der ein Grand-Slam-Viertelfinale erreichte. Von Athen 2004 bis Tokio 2021 nahm er an fünf Olympischen Spielen in Folge teil – der erfolgreichste Spieler in der modernen taiwanesischen Tennisgeschichte. Nach seinem Rücktritt gründete er eine Tennisakademie und wartet weiter auf einen taiwanesischen Jugendlichen, der seinen Wimbledon-Rekord übertrifft.'
+title: 'Lu Yen-hsun: Vom Wimbledon-Viertelfinale zu fünf Olympischen Spielen – der Mann, der im taiwanesischen Tennis am weitesten kam'
+description: 'Der herausragendste Spieler in der Geschichte des taiwanesischen Herrentennis, geboren 1983, begann mit sechs Jahren Tennis zu spielen, entschied sich mit 17 für den Profiweg. Bei Wimbledon 2010 qualifizierte er sich für das Hauptfeld, besiegte in der vierten Runde den an Nummer 7 gesetzten Roddick mit 3:2 und wurde damit der erste Taiwanese, der ein Grand-Slam-Herreneinzel-Viertelfinale erreichte – er sagte, das erste Betreten jenes Rasens sei für seinen Vater gewesen. Von Athen 2004 bis Tokio 2021 trat er bei fünf aufeinanderfolgenden Olympischen Spielen an. Nach seinem Rückzug gründete er an der Chang-Jung-Christlichen-Universität eine internationale Tennisakademie, damit der nächste Taiwanese, der seinen Weg geht, bereits eine Landkarte hat.'
 date: 2026-03-19
 category: 'People'
-tags: ['Sport', 'Tennis', 'Olympische Spiele', 'Wimbledon', 'Profi-Tennis']
+tags: ['Sport', 'Tennis', 'Olympische Spiele', 'Wimbledon', 'Profitennis']
 subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
@@ -13,10 +13,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/盧彥勳.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'e7e1bb5735'
 sourceContentHash: 'sha256:b7bcedce34261377'
 sourceBodyHash: 'sha256:a95f42aeb707e55c'
-translatedAt: '2026-09-11T07:09:36+08:00'
+translatedAt: '2026-11-27T04:05:57.451622+00:00'
 ---
 
 # Lu Yen-hsun: Vom Wimbledon-Viertelfinale zu fünf Olympischen Spielen – der Taiwaner, der im Tennis am weitesten kam

@@ -1,15 +1,16 @@
 ---
-title: 'Hsiao Shang-nung: Vom Game PM zum INSIDE-Gründer, der „Vorsteher“ der taiwanesischen Online-Szene'
-description: '2009 starteten sechs Internet-Pioniere einen kollaborativen Blog; so entstand die Trendbeobachtung von INSIDE. Hsiao Shang-nung (fOx) ist zudem Mitgründer von iCook. Beide bekannten Plattformen wurden an dasselbe Unternehmen verkauft. Heute mahnt er als Beobachter: Keine Angst vor der Technologie.'
+title: 'Xiao Shangnong: Vom Game-PM zum INSIDE-Gründer, der „Dorfvorsteher“ der taiwanesischen Internet-Szene'
+description: 'Vom Game-Produktmanager bei Songgang Technology zum Internet-Beobachter: Xiao Shangnong gründete 2009 gemeinsam mit fünf Freunden über einen kollaborativen Blog INSIDE, eine Plattform für hart gedrängte Internet-Trendbeobachtungen; 2011 brachten sie gemeinsam Taiwans größte Rezeptplattform iCook heraus. Die beiden Unternehmen wurden im Abstand von vier Jahren nacheinander an die Critical Review Network Media Group verkauft, wobei INSIDE als Taiwans erste formale Übernahme eines Internet-Mediums verzeichnet wurde. Der von der Internet-Szene als „Dorfvorsteher“ bezeichnete Mann moderiert heute den Podcast „Saiqia“ und übersetzt weiterhin Trends für die Tech-Szene.'
 date: 2026-04-27
 category: 'People'
 tags:
   [
     'INSIDE',
     'iCook',
-    'Online-Medien',
-    'Tech-Entrepreneurship',
-    'Taiwan Internet',
+    'iCook',
+    'Internetmedien',
+    'Tech-Startups',
+    'taiwanesisches Internet',
     'fOx',
   ]
 subcategory: '科技與企業'
@@ -20,10 +21,10 @@ lastHumanReview: true
 researchReport: 'reports/research/2026-04/蕭上農.md'
 harvestSession: '9882eaf3-d117-4be5-aaf4-02a6a2ba3a7b'
 translatedFrom: 'People/蕭上農.md'
-sourceCommitSha: '160f6cb59'
+sourceCommitSha: '72ef874049'
 sourceContentHash: 'sha256:cf3dd21873bec862'
 sourceBodyHash: 'sha256:ba8d5bb97d38e74d'
-translatedAt: '2026-11-02T05:46:08+08:00'
+translatedAt: '2026-11-27T04:09:30.659250+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Hsiao Shang-nung (Internet-Nickname fOx) ist Mitgründer von INSIDE (Trendbeobachtung im Internet) und iCook. Im Jahr 2009 startete er mit fünf Freunden eines der frühesten kommentierenden Tech-Medien Taiwans; 2011 brachte er die größte Rezeptplattform des Landes auf den Markt. Beide Unternehmen wurden 2018 bzw. 2022 an denselben Käufer verkauft: die TNL Media Group. Heute ist er als Internet-Beobachter in zahlreichen Podcasts und Medienprogrammen aktiv und gehört zu den am häufigsten eingeladenen Stimmen, wenn es um technologische Trends in Taiwan geht.

@@ -1,15 +1,15 @@
 ---
-title: 'Chung Chao-cheng: Ein Mensch ohne abgeschlossenen Universitätsabschluss, der den langen Fluss der Taiwaner schrieb'
-description: 'Chung Chao-cheng, 1925 in Longtan, Taoyuan geboren, musste sein Studium an der Nationalen Taiwan-Universität wegen Sprachbarrieren und Krankheit abbrechen, wurde aber vom Grundschullehrer zum Romancier, Herausgeber und Hakka-Aktivisten; mit „Lǔbīnghuā“ schrieb er über ländliche Gebiete, mit zwei Trilogien bewahrte er das historische Gedächtnis der Taiwaner – sein literarisches Erbe lebt nicht nur in Büchern, sondern in einem Lebenspark in Longtan weiter.'
+title: 'Chung Chao-cheng: Ein Mann ohne Universitätsabschluss, der die Geschichte der Taiwaner niederschrieb'
+description: 'Der in Jiuziaoliao, Longtan (Taoyuan) geborene Schriftsteller erhielt während der japanischen Kolonialzeit eine japanische Ausbildung. Obwohl er 1948 das Institut für Chinesische Literatur an der National Taiwan University aufnahm, musste er die Universität aufgrund von Sprachbarrieren und gesundheitlichen Problemen vorzeitig verlassen. Er entwickelte sich vom Grundschullehrer zum Romanautor, Herausgeber und Aktivisten der Hakka-Bewegung. Mit Werken wie „Lubi-Blüte“ (Lubi Hua), der „Trübe Strömung-Trilogie“ und der „Taiwaner-Trilogie“ integrierte er Hakka-Dörfer, indigene Völker und das 228-Zwischenfall-Ereignis in seine historischen Romane. Zudem bewahrte er die Werke von Autoren wie Chung Li-ho und vernetzte durch die Publikation „Wenyou Tongxun“ Schriftsteller, die vom Mainstream-Verlagswesen ausgeschlossen wurden. Seine Literatur steht nicht nur im Bücherregal, sondern lebt auch im Lebensraum von Longtan weiter.'
 date: 2026-08-18
 category: 'People'
 tags:
   [
     'Chung Chao-cheng',
-    'Taiwan-Literatur',
+    'Taiwanische Literatur',
     'Hakka-Literatur',
     'Longtan',
-    'Flussroman',
+    'Historischer Roman',
   ]
 subcategory: '文學'
 author: 'Taiwan.md Contributors'
@@ -19,13 +19,13 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/鍾肇政.md'
-sourceCommitSha: '82038b29f'
-sourceContentHash: 'sha256:e30095af8a74328f'
+sourceCommitSha: 'e7e1bb5735'
+sourceContentHash: 'sha256:aa3ae97d0723ffdb'
 sourceBodyHash: 'sha256:9240eda59faf09e3'
-translatedAt: '2026-09-13T17:52:07+08:00'
+translatedAt: '2026-11-27T03:34:02.182356+00:00'
 ---
 
-> **30-Sekunden-Überblick:** Chung Chao-cheng betrat die Literaturszene nicht über einen geradlinigen akademischen Weg. Er erhielt in der japanischen Kolonialzeit japanischsprachige Bildung, lernte nach dem Krieg Chinesisch neu; 1948 trat er in die Chinese-Literatur-Abteilung der Nationalen Taiwan-Universität ein, brach aber wegen Sprachbarrieren und Gesundheitsproblemen ab, schrieb später dennoch „Lǔbīnghuā“, die „Trübe-Fluss-Trilogie“ und die „Taiwaner-Trilogie“, die Hakka-Dörfer, indigene Völker und Taiwans neuere Geschichte in Romanen vereinten. [^1] [^2] [^3]
+> **30-Sekunden-Überblick:** Chung Chao-cheng war kein Autor, der einen reibungslosen akademischen Weg in die Literaturwelt einschlug. Während der japanischen Kolonialzeit erhielt er eine japanische Ausbildung und lernte erst nach dem Krieg wieder Chinesisch; 1948 trat er in das Institut für Chinesische Literatur an der National Taiwan University ein, musste das Studium jedoch aufgrund von Sprachbarrieren und gesundheitlichen Problemen vorzeitig abbrechen. Später schrieb er dennoch Werke wie 《Lǔbīnghuā》, die 〈Zhuóliú-Trilogie〉 und die 《Taiwaner-Trilogie》, in denen er Hakka-Dörfer, indigene Völker und die moderne Geschichte Taiwans in seine Romane einwebte. [^1] [^2] [^3]
 
 ## Vorwort: Zuerst fragen, wer für Taiwan Erinnerung bewahren kann
 

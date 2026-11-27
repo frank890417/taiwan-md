@@ -1,15 +1,15 @@
 ---
-title: 'Mona Neng: Zwei Arten von Blindheit, ein Gedichtband'
-description: 'Mona Neng, der erste veröffentlichte indigene Dichter Taiwans, wurde 1979 blind, 1989 veröffentlicht Chenxing das Buch „Die schöne Reiskolonne“. Der Satz „18 Millionen Menschen, die sich selbst bestimmen wollen / unsere Seufzer hören nicht“ bringt die Frage „wer ist Taiwankind“ in 30 Gedichten auf – 37 Jahre später bleibt die Frage unbeantwortet.'
+title: 'Monaneng: Zwei Arten von Blindheit, ein Gedichtband'
+description: 'Paiwan-Dichter, 1956 in dem Dorf Aluwei im Landkreis Daren in Taitung geboren, ist der erste indigene Dichter Taiwans, der einen modernen Gedichtband auf Chinesisch veröffentlichte. Nach einem LKW-Unfall 1979 erlitt er eine Gehirnerschütterung und erblindete vollständig. Seine Gedichte wurden erstmals 1984 mündlich bei Trinkgelagen weitergegeben und von Li Ji aufgezeichnet und veröffentlicht. 1989 veröffentlichte Morning Star den Band „Schöne Reissämlinge“, mit einem Vorwort von Chen Yingzhen, der ihn als „Dichter der inneren Kolonie Taiwans“ bezeichnete. Er ging mit einem Stock durch die Straßen, um Kinderprostituierte zu retten und Land zurückzufordern. Das Lesen seiner Gedichte birgt zwei Schwierigkeiten: physisch kann er nicht sehen, politisch wollen viele Leser nicht sehen.'
 date: 2026-06-03
 category: 'People'
 tags:
   [
-    'Indigen',
-    'Gedicht',
+    'Indigene',
+    'Gedichte',
     'Literatur',
     'Paiwan',
-    'Unterdrückung',
+    'Indigenenbewegung',
     'Taitung',
     '1980er',
   ]
@@ -28,10 +28,10 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Daren_Township,_Taiwan.jpg
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/莫那能.md'
-sourceCommitSha: 'be13f045'
-sourceContentHash: 'sha256:f5aebb543340d143'
-sourceBodyHash: 'sha256:2f3617098391a7c1'
-translatedAt: '2026-09-12T00:32:25+08:00'
+sourceCommitSha: 'e7e1bb5735'
+sourceContentHash: 'sha256:a095996d9797f69b'
+sourceBodyHash: 'sha256:e51dd9f7a0df41eb'
+translatedAt: '2026-11-27T03:11:04.439039+00:00'
 ---
 
 # Mona Neng: Zwei Arten von Blindheit, ein Gedichtband
@@ -51,20 +51,20 @@ Diese Details sind wichtig, weil viele staatliche Literaturarchive ihn als „de
 
 > 📝 **Hinweis des Kuratoriums:** Mona Neng war nicht jemand, der erst Gedichte schrieb und dann von gesellschaftlichen Themen erfuhr. Er war zuerst selbst betroffen von diesen Erfahrungen, und erst dann, im 30. Lebensjahr, schrieb er sie in Gedichten nieder. Die Reihenfolge „zuerst Erfahrung, dann Gedicht“ ist entscheidend für das Verständnis seiner Arbeit.
 
-## Ein Autounfall nimmt das Licht
+## Ein Autounfall stiehlt das Licht
 
-Bei einer Gesundheitsuntersuchung in der Schule wurde ihm eine Tatsache bekannt: Seine Augen litten unter **Netzhautpigmentdegeneration**, einer genetischen, schrittweise fortschreitenden Degeneration der Netzhaut. Die Erblindung war also nur eine Frage der Zeit [^6].
+Bei der Gesundheitsuntersuchung in der Mittelschule wurde ihm mitgeteilt, dass er an **Retinitis pigmentosa** leide, einer erblichen, fortschreitenden Netzhautdegeneration. Er würde erblinden, nur eine Frage der Zeit[^6].
 
-Nach der Sekundarschule trat er in die **Luftwaffenmechanikerschule** ein. Bei der Einschreibeprüfung fiel er jedoch durch, wegen seiner Netzhautpigmentdegeneration. Der Traum von der Luftwaffe endete. Später erwog er auch die Taitung Lehrerfakultät und die Polizeiakademie – beides wegen seiner Sehschwäche nicht möglich. Für einen jungen Bergbewohner in den 1970er-Jahren waren diese wenigen Aufstiegschancen eine nach der anderen zugeschlagen.
+Nach dem Abschluss der Junior High School bestand er die Aufnahmeprüfung für die **Luftwaffen-Mechanikerschule**. Bei der Einstellungsuntersuchung fiel er jedoch wegen der Retinitis pigmentosa durch. Der Traum von der Luftwaffe war aus. Später zog er auch die Taitung Normal College und die Polizeiakademie in Betracht — beide scheiterten an den Sehtests. Die ohnehin wenigen Aufstiegsmöglichkeiten für einen Bergjungen in den 1970er Jahren wurden einer nach dem anderen versperrt[^6].
 
-Dann kam 1972 der Fall, in dem er von Menschenhändlern getäuscht wurde. 1977 wurde seine Schwester von einem Onkel zum Muttermädchen verkauft; er ließ sich Geld leihen, stand nachts vor dem Bordell und rettete seine Schwester – dabei wurde er körperlich verletzt und seine Sehkraft verschlechterte sich weiter [^7].
+Dann kam 1972 der Fall, dass er von Menschenhändlern entführt wurde. 1977 wurde seine jüngere Schwester vom Ehemann seiner Cousine in ein Bordell verkauft und als Kinderprostituierte gezwungen; er lieh sich überall Geld, lauerte nachts vor dem Bordell und holte sie heraus; dabei wurde er verprügelt, sein Sehvermögen verschlechterte sich weiter[^7].
 
-Der entscheidende Unfall geschah **1979**. Er arbeitete im Gütertransport, als er einen Autounfall mit Hirnverletzung erlitt und im Krankenhaus fast zwei Monate im Koma lag. Als er aufwachte, war sein rechtes Auge völlig blind, das linke hatte nur noch eine Sehschärfe von 0,2 [^8]. Wikipedia vermerkt, dass er zum Unfallzeitpunkt 23 Jahre alt war; das Lexikon der Nationalbibliothek für taiwanesische Literatur schreibt 24 Jahre; Interviews in den Zeitschriften „Guanzhu“ und „Observatorium“ nennen 26 bzw. 27 Jahre [^9]. Verschiedene Quellen existieren, doch Mona Neng selbst sagte in einem Interview im Jahr 2022 eindeutig: „1979, während ich bei der Arbeit im Gütertransport war“ [^10].
+Der entscheidende Unfall ereignete sich **1979**. Er arbeitete im Frachttransport, hatte einen Autounfall, erlitt eine Gehirnerschütterung und lag fast zwei Monate im Koma. Als er aufwachte, war das rechte Auge vollständig blind, das linke hatte noch eine Sehkraft von 0,2[^8]. Wikipedia gibt sein Alter damals mit 23 an; das Wörterbuch des Nationalen Taiwanesischen Literaturmuseums schreibt 24; die Interviews in _Original Vision_ und dem _Observatorium_-Magazin nennen 26 bzw. 27 Jahre[^9]. Verschiedene Versionen kursieren, aber Mona Nengs eigene mündliche Aussage von 2022 nennt eindeutig „1979, während der Frachttransportarbeit“[^10].
 
-Danach lernte er im **Taiwanischen Institut für Blinde** Massage und Brailleschrift. Später eröffnete er in Taipeh eine kleine Massagepraxis mit dem Namen „Mona‘s Massage“ [^11]. Er war kein „Straßenmassörer“ (wie oft im Internet falsch geschrieben), sondern hatte eine echte Geschäftstelle, in der er Gedichte in Braille schrieb – **doch die Gedichte begannen nicht mit der Braille-Schreibweise**.
+Danach ging er ins **Taiwan Blind Rehabilitation Center**, um Massage und Braille zu lernen. Später betrieb er in Taipeh eine kleine Massagepraxis namens „Aneng-Massagepraxis“[^11]. Er war kein „Straßenmassageur“ (wie oft im Netz steht, eigentlich ungenau), er hatte ein festes Ladenlokal, und in diesem Laden schrieb er Gedichte in Braille — **doch die Gedichte begannen nicht mit Braille**.
 
-![Ein traditionelles paiwanisches Tanz- und Musikalperformances, drei Menschen in traditionellen Kostümen tanzen nebeneinander. Mona Nengs Gedichte begannen 1984 zunächst in Form von Gesang, Trinken und mündlicher Überlieferung von seinem Mund, die dann von anderen niedergeschrieben wurden.](/article-images/people/monaneng-paiwan-song-dance-2018.webp)
-_ Paiwanischer Gesang und Tanz (Nordische Riddu Riđđu-Festival für indigene Kultur, 2018) – entspricht der Situation, in der Mona Neng 1984 im Haus von Yang Du sang und mündlich Gedichte vortrug. Foto: Riddu Riđđu Festival via Flickr. [Lizenz via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Familieforestilling_-_Paiwan_sang_og_dans_(41534824410).jpg) CC BY-SA 2.0.\_
+![Aufführung traditioneller Paiwan-Gesänge und -Tänze, drei Stammesmitglieder in traditioneller Tracht treten nebeneinander auf. Mona Nengs Gedichte kamen 1984 ebenfalls so zustande: in Form von Trinken, mündlicher Überlieferung und Gesang aus seinem Mund, dann von anderen niedergeschrieben.](/article-images/people/monaneng-paiwan-song-dance-2018.webp)
+_Paiwan-Gesang und -Tanz (Riddu Riđđu Festival der Ureinwohner Nordeuropas, 2018) — entspricht der Ursprungssituation 1984, als Mona Neng im Haus von Yang Du beim Trinken seine Gedichte mündlich vortrug. Foto: Riddu Riđđu Festival via Flickr. [Lizenz via Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Familieforestilling_-_Paiwan_sang_og_dans_(41534824410).jpg>) CC BY-SA 2.0.\_
 
 ## Im Haus von Yang Du trinken und die Gedichte vortragen
 

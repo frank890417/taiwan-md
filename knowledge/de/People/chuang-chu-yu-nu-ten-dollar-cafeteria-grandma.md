@@ -1,15 +1,15 @@
 ---
-title: 'Zhuang Zhu-yu: Von der kostenlosen Mahlzeit für Hafenarbeiter bis zum Zehn-Dollar-Mittagessen, das sieben Häuser verkaufte'
-description: 'Im Jahr 1951 kochte Zhuang Zhu-yu in Kaohsiung am Hafen und versorgte die armen Arbeiter mit kostenloser Nahrung. Die Großmutter, die als „Schutzheilige der Armen“ bekannt wurde, bestand über fünfzig Jahre darauf, unbegrenzte Speisen für zehn Dollar anzubieten, selbst wenn sie sieben Häuser verkaufen musste, was zu einem Lebenswerk des „Sättigens“ wurde.'
+title: 'Zhuang Zhu Yünü: Vom kostenlosen Mittagstisch der Hafenarbeiter zum NT$10-Bento, für den sie sieben Häuser verkaufte'
+description: 'Die NT$10-Buffet-Oma am Kaohsiung-Hafen stellte ab 1951 neben ihrem Lagerhaus einen Herd auf und bot Hafenarbeitern aus Penghu kostenlose Mahlzeiten an. Später verlangte sie aufgrund der Kosten NT$10, servierte aber weiterhin täglich frischen Fisch, Schmorbraten, Gemüse und heiße Suppe zum All-you-can-eat. Sie verkaufte sieben Immobilien, um dieses verlustreiche Geschäft am Laufen zu halten. Der Stand zog neben die Überführung des Yancheng-Parks. Als sie 2015 im Alter von 96 Jahren starb, kamen mehr als 3000 Menschen, um Abschied zu nehmen. Ihre Heimatinsel Jibei in Penghu errichtete später eine Statue für sie und richtete einen Gedenkpark ein.'
 date: 2026-04-29
 category: 'People'
 tags:
   [
-    'Philanthropie',
+    'Philanthropin',
     'Kaohsiung',
-    'Zehn-Dollar-Mittagessen',
-    'Zhuang Zhu-yu',
-    'Soziale Fürsorge',
+    'NT$10-Bento',
+    'Zhuang Zhu Yünü',
+    'Soziale Wohltätigkeit',
     'Penghu',
   ]
 subcategory: '社會與公益'
@@ -21,10 +21,10 @@ readingTime: 10
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/莊朱玉女.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: '72ef874049'
 sourceContentHash: 'sha256:877ba646499c2433'
 sourceBodyHash: 'sha256:59833698754e5cb0'
-translatedAt: '2026-11-04T21:11:04.819947+00:00'
+translatedAt: '2026-11-27T04:14:58.660260+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Zhuang Zhu-yu (1920–2015) war eine berühmte Philanthropin in Taiwan, die lange Zeit unter der Landbrücke im Kaohsiung Park „Zehn-Dollar-Mittagessen“ betrieb. Sie begann zunächst mit kostenloser Verpflegung für ihre Landsleute, die Hafenarbeiter, und wechselte später zu zehn Dollar aufgrund hoher Kosten, bestand aber stets auf dem Prinzip „All-you-can-eat“ ohne Berücksichtigung der Kosten. Ihr Lebenswerk war das Verkaufen von sieben Häusern zur Unterstützung ihrer Wohltätigkeit; ihr Abschied nahm über dreitausend Trauernde wahr, und ihr Geist ist bis heute ein Symbol für die Wärme in der taiwanesischen Gesellschaft.

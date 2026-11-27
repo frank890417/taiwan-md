@@ -1,18 +1,18 @@
 ---
-title: 'Shengkai Shi: Vom Steamed-Egg-Video zum gefrorenen Neujahrsmenü – der Vertrauenskosten eines Koch-Influencers'
-description: 'Huang Sheng-kai stieg mit sechzehn als Kellner ein, gründete mit vierundzwanzig per Erspartem und Kredit sein erstes Restaurant und erreichte mit einem einzigen Steamed-Egg-Video Millionen Handys. Die Geschichte von Shengkai Shi handelt nicht nur davon, wie Gastronomie-Gründung durch Content skaliert wird, sondern auch davon, wie sich das Vertrauen der Zuschauer in Qualitätsverantwortung der Marke verwandelt, wenn Gerichte aus der Küche zu Tiefkühlprodukten werden.'
+title: 'Sheng Kai-shi: Von einem Video über gedämpftes Ei zu Tiefkühl-Neujahrsmenüs – Die Vertrauenskosten von Food-Influencern'
+description: 'Vom 16-jährigen Lehrling zum viralen Koch-Influencer: Sheng Kai-shi baute eine Marke auf, die von japanischer Küche bis hin zu E-Commerce reicht, sah sich jedoch nach Qualitätsmängeln bei Neujahrsmenüs mit hohen Vertrauenskosten konfrontiert.'
 date: 2026-08-21
 category: 'People'
 tags:
   [
-    'Shengkai Shi',
+    'Sheng Kai-shi',
     'Huang Sheng-kai',
-    'Kan',
-    'Koch-Influencer',
+    'Swatow',
+    'Food-Influencer',
     'YouTuber',
-    'Gastronomie-Gründung',
+    'Gastronomie-Unternehmertum',
     'Lebensmittelmarke',
-    'Neujahrsgerichte',
+    'Neujahrsmenüs',
   ]
 subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
@@ -27,128 +27,123 @@ rationale:
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/聖凱師.md'
-sourceCommitSha: '2e227925f'
-sourceContentHash: 'sha256:f3c744060676c5c3'
-sourceBodyHash: 'sha256:c6156a33a327be28'
-translatedAt: '2026-09-15T19:45:39+08:00'
+sourceCommitSha: '72ef874049'
+sourceContentHash: 'sha256:5acc04186bb1a528'
+sourceBodyHash: 'sha256:784aa01194d0dc58'
+translatedAt: '2026-11-27T10:45:36+08:00'
 ---
 
-# Shengkai Shi: Vom Steamed-Egg-Video zum gefrorenen Neujahrsmenü – der Vertrauenskosten eines Koch-Influencers
+# Sheng Kai-shi: Von einem Video über gedämpftes Ei zu Tiefkühl-Neujahrsmenüs – Die Vertrauenskosten von Food-Influencern
 
-> **30-Sekunden-Überblick:** Huang Sheng-kai verließ mit sechzehn die Schule für die Gastronomie, gründete mit vierundzwanzig mithilfe von Ersparnissen und Kredit in Yonghe sein erstes Kan-Japanisches-Restaurant. Später verwandelte ein rund hundertsekündiges Steamed-Egg-Tutorial ihn vom Restaurantbesitzer zum Koch-Influencer, der Hausmannskost-Videos, Restaurant, Tiefkühlprodukte und E-Commerce zu einer Marke verknüpfte. Das eigentliche Merkwürdige ist nicht der Motivations-Titel „vom Küchenjungen zum Vorstandsvorsitzenden“, sondern dass Vertrauen mitwächst, wenn Handwerk zur Ware skaliert wird.[^1] [^2] [^3]
+> **30-Sekunden-Überblick:** Huang Sheng-kai (黃聖凱) verließ mit sechzehn Jahren die Schule, um in der Gastronomie zu arbeiten. Mit vierundzwanzig Jahren eröffnete er mithilfe von Ersparnissen und Krediten sein erstes japanisches Restaurant „Swatow“ (錵鑶) in Yonghe. Später machte ihn ein etwa einminütiges Video über die Zubereitung von gedämpftem Ei vom Restaurantbesitzer zum Koch-Influencer und ermöglichte es ihm, Heimkochvideos, sein Restaurant, Tiefkühlkost und E-Commerce zu einer einzigen Marke zu vereinen. Was man sich wirklich merken sollte, ist nicht der inspirierende Titel „Vom kleinen Koch zum Vorstandsvorsitzenden“, sondern dass, wenn das handwerkliche Geschick in der Küche zu einem kommerziellen Produkt aufgeblasen wird, auch das Vertrauen mitwächst. [^1] [^2] [^3]
 
-![Offene Küche eines Restaurants im Songshan-Distrikt, Taipeh](https://upload.wikimedia.org/wikipedia/commons/0/07/Open_Kitchen_of_Swatow_Restaurant_in_Songshan_District%2C_Taipei_20180427.jpg)
+![Offene Küche eines Restaurants im Bezirk Songshan, Taipeh](https://upload.wikimedia.org/wikipedia/commons/0/07/Open_Kitchen_of_Swatow_Restaurant_in_Songshan_District%2C_Taipei_20180427.jpg)
 
-_Bild: Xuan Shisheng, „Open Kitchen of Swatow Restaurant in Songshan District, Taipei 20180427“, CC0. Originaldetailseite: Wikimedia Commons. Das Bild zeigt die Situation einer offenen Restaurantküche in Taiwan, nicht Shengkai Shi persönlich oder die Kan-Filiale._
+_Bild: Xuan Shisheng, 〈Open Kitchen of Swatow Restaurant in Songshan District, Taipei 20180427〉, CC0. Originale Detailseite: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Open_Kitchen_of_Swatow_Restaurant_in_Songshan_District,_Taipei_20180427.jpg). Das Bild zeigt die Situation einer offenen Küche in einem taiwanesischen Restaurant, nicht Sheng Kai-shi selbst oder das Swatow-Restaurant._
 
-## Erst Teller tragen lernen, dann Vertrauen gewinnen
+## Erst das Servieren lernen, dann das Vertrauen gewinnen
 
-Shengkai Shis Geschichte beginnt nicht im Netz. Ein Wochenmagazin-Porträt dokumentiert: Während seiner Zeit an der Songshan-Gewerbeschule mochte er das Lernen nicht, stieg mit sechzehn in einen chinesischen Bankettsaal ein, um Teller zu tragen. In Stoßzeiten arbeitete er bis zu sechzehn Stunden am Tag, tauschte Zeit gegen Erfahrung und wechselte später unter seinem Meister in die japanische Küche. Diese Episode ist nicht nur „Leiden“-Hintergrund; sie erklärt auch, warum er später bei Koch-Content nicht nur Gerichte vor der Kamera vorführte, sondern aus dem Gastronomie-Alltag heraus Zutaten, Abläufe, Anrichten und Gästewünsche verstand.[^2]
+Sheng Kai-shis Geschichte begann nicht im Internet. Ein Interview mit _Weekly Magazine_ (周刊王) dokumentiert, dass er während seiner Zeit an der Songshan Vocational High School nicht gerne lernte und bereits mit sechzehn Jahren die Schule verließ, um in einem chinesischen Bankettsaal zu servieren. In Zeiten hohen Betriebsdrucks arbeitete er bis zu sechzehn Stunden am Tag; er tauschte Zeit gegen Erfahrung und wechselte später unter Anleitung eines Meisters zur japanischen Küche. Diese Erfahrung war nicht nur eine bloße „Härteprüfung“, sondern legte den Grundstein dafür, dass er bei seinen späteren Kochvideos nicht nur Gerichte vor der Kamera demonstrierte, sondern Zutaten, Prozesse, das Anrichten und die Erwartungen der Gäste aus der Praxis verstand. [^2]
 
-Mit vierundzwanzig legte er Erspartes und Kredit zusammen – rund zwei Millionen New Taiwan Dollar – und eröffnete in Yonghe, New Taipei City, sein erstes Kan. Berichten zufolge hatte der Laden nur sechzehn Sitze, der Monatsumsatz lag anfangs bei etwa vierhunderttausend, der Gewinn bei rund zehn Prozent. Um den Küchenstil festzulegen, analysierte er die Demografie der Nachbarschaft und entschied sich für kreativeres Omakase-Sushi statt der Nachahmung des umliegenden traditionellen taiwanesisch-japanischen Stils.[^2]
+Mit vierundzwanzig Jahren sammelte er durch Ersparnisse und Kredite etwa zwei Millionen NT$ zusammen, um das erste Swatow in Yonghe, New Taipei City, zu eröffnen. Berichte besagen, dass das Lokal nur sechzehn Sitzplätze hatte; in der Anfangsphase belief sich der monatliche Umsatz auf etwa 400.000 NT$ bei einer Gewinnmarge von etwa zehn Prozent. Um seinen Kochstil zu bestimmen, beobachtete er die lokale Bevölkerung und entschied sich für kreative Omakase-Sushi-Varianten anstelle der traditionellen taiwanesisch-japanischen Küche, wie sie in der Umgebung üblich war. [^2]
 
-Ein Detail dieser Gründungsgeschichte wird leicht übersehen: Shengkai Shi hatte nicht erst Follower und dann das Restaurant, sondern zuerst in der realen Gastronomie ein Gespür für Kosten, Zielgruppen und Produkt aufgebaut. Der spätere Video-Traffic dockte nicht bei Null an, sondern an eine bereits existierende Gastronomiemarke an.[^1] [^2]
+Ein oft übersehenes Detail dieser Gründungsgeschichte ist: Sheng Kai-shi eröffnete nicht erst, nachdem er Fans hatte, sondern er baute zuerst im physischen Gastronomiebereich ein Gespür für Kosten, Zielgruppen und Produkte auf. Später brachte das Video Traffic – doch dieser Traffic startete nicht bei Null, sondern wurde an eine bereits existierende gastronomische Marke angehängt. [^1] [^2]
 
-📝 **Kuratorennotiz:** „Vom Kellnerjungen zum Jahresumsatz-400-Millionen-Vorstand“ ist eine griffige Schlagzeile, aber keine vollständige Personenzeichnung. Erfolg auf „Leiden“ zu reduzieren, verdeckt die eigentlichen Fähigkeiten: Zielgruppen erkennen, Produkte testen, Prozesse steuern – und wissen, wann Restaurant-Erfahrung für die Haushaltsküche übersetzt werden muss.
+📝 **Anmerkung der Kuratoren:** „Vom Kellner zum Vorstandsvorsitzenden mit 400 Millionen NT$ Jahresumsatz“ ist eine eingängige Schlagzeile, aber kein vollständiges Bild der Person. Erfolg allein auf „Härte“ zurückzuführen, verschleiert die tatsächlichen Fähigkeiten: die Identifizierung von Zielgruppen, das Testen von Produkten, die Prozesskontrolle und das Wissen, wann man Restauranterfahrung in die heimische Küche übersetzen muss.
 
-## Ein Steamed-Egg-Video – und sich die Art zu schauen ändert
+## Ein Video über gedämpftes Ei verändert die Art des Zuschauens
 
-Shengkai Shi begann mit Videos nicht aufgrund eines ausgereiften Medienplans. Ein Freund fragte, warum er, da er kochen könne, nur japanisch koche. Das ließ ihn seine Restaurant-Professionalität in für Haushalte verständliche Demonstrationen übersetzen. Ein Interview mit „World Gourmet Trends“ zufolge nutzte er bewusst alltägliche Töpfe und Herdleistungen, vereinfachte Abläufe, damit Zuschauer zu Hause tatsächlich nachkochen können.[^1]
+Sheng Kai-shis Einstieg in die Videoproduktion war kein durchdachter Mediaplan. Auf die Frage eines Freundes, warum er – da er doch kochen könne – nur japanische Küche zeige, begann er, sein professionelles Wissen aus dem Restaurant in Demonstrationen zu übersetzen, die für normale Haushalte verständlich waren. Ein Interview mit _World Catering Trends_ (世界餐飲趨勢) weist darauf hin, dass er bewusst gewöhnliche Haushaltsgeräte und Herdleistungen verwendete und Prozesse vereinfachte, um den Zuschauern die Möglichkeit zu geben, Gerichte tatsächlich zu Hause nachzukochen. [^1]
 
-Der eigentliche Durchbruch war das rund hundertsekündige „Verändere dein hässliches Steamed Egg“. Sowohl das Wochenmagazin als auch Mirror Media behandeln dieses Video als Wendepunkt. Nach dem Viral-Erfolg las Shengkai Shi in den Kommentaren, dass Profis für selbstverständlich gehaltene Grundtechniken vielen Haushalten fremd sind – woraufhin er die „Kan-Hausmannskost-Kleinklasse“ startete.[^2] [^3]
+Der eigentliche Durchbruch für seinen Kanal war das etwa einminütige Video „Verändere dein hässliches gedämpftes Ei“. Berichte von _Weekly Magazine_ und _Mirror Media_ (鏡週刊) betrachten dieses Video als Wendepunkt. Nach dem viralen Erfolg stellte Sheng Kai-shi durch die Kommentare seiner Fans fest, dass grundlegende Techniken, die für Profiköche selbstverständlich sind, vielen Haushalten nicht vertraut waren. Daraufhin lancierte er die „Swatow Heimkoch-Klasse“. [^2] [^3]
 
-![Taiwanesisches Bahnbento und alltägliche Esskultur](https://upload.wikimedia.org/wikipedia/commons/e/ea/%E5%8F%B0%E9%90%B5%E4%BE%BF%E7%95%B6_%286560220121%29.jpg)
+![Taiwan Railway Bento und der taiwanesische Alltag](https://upload.wikimedia.org/wikipedia/commons/e/ea/%E5%8F%B0%E9%90%B5%E4%BE%BF%E7%95%B6_%286560220121%29.jpg)
 
-\_Bild: Cheng-en Cheng, „Taiwan Railway Bento (6560220121)“, CC BY-SA 2.0. Originaldetailseite: Wikimedia Commons.jpg>). Das Bild zeigt taiwanesische Alltagsesskultur und Bento-Kultur, nicht von Shengkai Shi aufgenommene oder verkaufte Produkte.\_
+_Bild: Cheng-en Cheng, 〈Taiwan Railway Bento (6560220121)〉, CC BY-SA 2.0. Originale Detailseite: [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:%E5%8F%B0%E9%90%B5%E4%BE%BF%E7%95%B6_(6560220121).jpg>). Das Bild zeigt die taiwanesische Alltagskost und die Bento-Kultur, nicht Produkte, die von Sheng Kai-shi gefilmt oder verkauft wurden.\_
 
-Das Format dieses Kanals ähnelt einer verkleinerten Haushaltsküche. Zutaten gibt es auf dem Markt oder im Convenience Store, Töpfe müssen nicht Restaurant-Niveau haben, Videos sind meist kurz, Demonstrationen tun nicht so, als hätte das Publikum Profi-Equipment. Der Wert des Koch-Contents verschiebt sich damit von „nach dem Anschauen beeindruckt sein“ zu „nach dem Anschauen trauen, selbst Hand anzulegen“.[^1] [^2]
+Das Format des Kanals ähnelte einer Miniaturversion einer heimischen Küche. Zutaten konnten auf dem Markt oder im Convenience Store gekauft werden, das Kochgeschirr musste kein Profi-Niveau haben, und die Videos waren meist kurz gehalten, ohne vorzuspiegeln, dass die Zuschauer über professionelles Equipment verfügen. Der Wert des Inhalts verlagerte sich von „das sieht toll aus“ zu „das traue ich mir selbst zu“. [^1] [^2]
 
-Shengkai Shi macht Authentizität zum Wiedererkennungsmerkmal. In Interviews sagt er: Wenn beim Braten Reiskörner herspringen, beim Anrichten etwas herunterfällt – das sind Dinge, die in häuslichen Küchen passieren; man muss sie nicht für perfekte Bilder herausschneiden. Diese Wahl lässt ihn nicht wie einen Koch wirken, der nur fertige Gerichte zeigt, sondern wie jemanden, der Restaurant-Technik in häusliche Bedingungen zurückholt.[^1]
+Sheng Kai-shi nutzte zudem Authentizität als Erkennungsmerkmal. In Interviews erklärte er, dass Dinge wie herumspritzender Reis beim Braten oder herunterfallendes Essen beim Anrichten typische Ereignisse in einer normalen Küche seien und nicht für ein perfektes Bild weggeschnitten werden müssten. Diese Entscheidung ließ ihn weniger wie einen Chefkoch wirken, der nur das Endprodukt präsentiert, sondern eher wie jemanden, der Restauranttechniken in die häuslichen Bedingungen überträgt. [^1]
 
-| Wendepunkt               | Content-Form                                                          | Wirkung auf die Marke                                                           |
-| ------------------------ | --------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| Gastronomie-Einstieg     | Arbeit in chinesischem Bankettsaal und japanischer Küche              | Aufbau von Ablauf-, Zielgruppen- und Betriebs-Erfahrung[^2]                     |
-| ca. 2010                 | Eröffnung von Kan in Yonghe                                           | Aufbau der ersten physischen Marke und Kundenbeziehung[^2]                      |
-| ca. 2016                 | Steamed-Egg-Kurzvideos verbreiten sich in Social Media                | Vom Restaurantkoch zur teilbaren Content-Person[^2] [^3]                        |
-| Kanalausbau              | Haushaltstöpfe, Alltagszutaten, kurze Schritt-für-Schritt-Anleitungen | Zuschauer vom Zuschauen zum Selbermachen führen[^1]                             |
-| Produktwerdung           | Tiefkühlprodukte, Gewürze bei Raumtemperatur, Töpfe                   | Restaurant-Erfahrung in E-Commerce- und Einzelhandelskanäle verlängern[^2] [^4] |
-| Neujahrsmenü-Kontroverse | Qualität, Werbung und OEM-Verantwortung werden öffentlich geprüft     | Zeigt die Vertrauenskosten, wenn Traffic zur Ware wird[^5] [^6] [^4]            |
+| Wendepunkt               | Inhaltsformat                                                   | Auswirkungen auf die Marke                                                           |
+| :----------------------- | :-------------------------------------------------------------- | :----------------------------------------------------------------------------------- |
+| Einstieg Gastronomie     | Arbeit in Bankettsaal und japanischer Küche                     | Aufbau von Prozess-, Kunden- und Betriebserfahrung [^2]                              |
+| Um 2010                  | Eröffnung von Swatow Japanische Küche in Yonghe                 | Aufbau der ersten physischen Marke und Kundenbeziehungen [^2]                        |
+| Um 2016                  | Verbreitung von Kurzvideos (z. B. gedämpftes Ei)                | Wandel vom Restaurantkoch zum teilbaren Content-Creator [^2] [^3]                    |
+| Kanal-Expansion          | Haushaltsgeräte, Alltagzutaten und kurze Tutorials              | Zuschauer wandeln sich vom reinen Zuschauen zum aktiven Nachkochen [^1]              |
+| Kommerzialisierung       | Tiefkühlkost, verpackte Gewürze und Kochgeschirr                | Ausweitung der Restauranterfahrung auf E-Commerce und Einzelhandel [^2] [^4]         |
+| Neujahrsmenü-Kontroverse | Öffentliche Prüfung von Qualität, Werbung und Auftragsfertigung | Aufzeigen der Vertrauenskosten beim Übergang von Traffic zu Produkten [^5] [^6] [^4] |
 
-## Vom Kochvideo zur Lebensmittelmarke
+## Von Kochvideos zur Lebensmittelmarke
 
-Als „Kan-Hausmannskost-Kleinklasse“ große Reichweite angesammelt hatte, beließ Shengkai Shi es nicht bei einer Werbetafel, sondern verlängerte die im Content gezeigten Kochtechniken zu Produkten. Das Wochenmagazin berichtet: Er integrierte Tiefkühl- und Raumtemperatur-Lebensmittel, Töpfe und E-Commerce-Kanäle in die Unternehmensstruktur und plante zeitweise den Markteintritt in Hongkong und Macau.[^2]
+Als die „Swatow Heimkoch-Klasse“ eine große Fangemeinde gewann, nutzte Sheng Kai-shi sie nicht nur als Werbefläche, sondern entwickelte die gezeigten Techniken zu Produkten weiter. _Weekly Magazine_ berichtete, dass er Tiefkühl- und lang haltbare Lebensmittel, Kochgeschirr und E-Commerce-Kanäle in seine Geschäftsstrategie integrierte und sogar plante, seine Produkte auf den Markt in Hongkong und Macau zu bringen. [^2]
 
-Das Interview mit „World Gourmet Trends“ beschreibt diesen Wandel präziser: Restaurants sind durch Sitzplätze, Standort und Vor-Ort-Personal begrenzt; eine Lebensmittelmarke kann über Tiefkühlung, Raumtemperatur, Einzelhandel und Lieferung das, was bisher nur im Laden stattfand, in die Haushalte der Konsumenten bringen. Das ist ein Wechsel vom „Eine-Tafel-kochen“ zum „Ein-wiederholbar-produzierbares-Produkt-designen“.[^1]
+Das Interview mit _World Catering Trends_ beschreibt diesen Wandel deutlicher: Ein Restaurant ist durch Sitzplätze, Standort und Personal vor Ort begrenzt; eine Lebensmittelmarke hingegen kann durch Tiefkühlung, Lagerung bei Raumtemperatur, Einzelhandel und Lieferdienste die kulinarische Erfahrung, die sonst nur im Restaurant stattfindet, direkt in die Häuser der Konsumenten bringen. Es ist ein Wandel vom „Zubereiten eines Menüs“ zum „Design eines reproduzierbaren Produkts“. [^1]
 
-![Kochklasse der Xinpu-Mittelschule](https://upload.wikimedia.org/wikipedia/commons/f/f9/%E6%96%B0%E5%9F%94%E5%9C%8B%E4%B8%AD%E7%83%B9%E9%A3%AA%E6%95%99%E5%AE%A4.JPG)
+![Kochraum einer Xinpu Mittelschule](https://upload.wikimedia.org/wikipedia/commons/f/f9/%E6%96%B0%E5%9F%94%E5%9C%8B%E4%B8%AD%E7%83%B9%E9%A3%AA%E6%95%99%E5%AE%A4.JPG)
 
-_Bild: Shi Yamin, „Xinpu Junior High School Cooking Class“, CC BY-SA 3.0. Originaldetailseite: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E6%96%B0%E5%9F%94%E5%9C%8B%E4%B8%AD%E7%83%B9%E9%A3%AA%E6%95%99%E5%AE%A4.JPG). Das Bild zeigt eine Kochlehr-Situation, nicht die Kan-Fabrik oder Shengkai Shis Drehort._
+_Bild: Shih Ya-min, 〈Xinpu Junior High School Cooking Classroom〉, CC BY-SA 3.0. Originale Detailseite: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E6%96%B0%E5%9F%94%E5%9C%8B%E4%B8%AD%E7%83%B9%E9%A3%AA%E6%95%99%E5%AE%A4.JPG). Das Bild zeigt eine Kochunterrichtsumgebung, nicht die Fabrik von Swatow oder den Drehort von Sheng Kai-shi._
 
-Hier liegt auch der Unterschied zwischen Koch-Influencern und herkömmlichen Gastronomie-Prominenten. Der Einfluss eines Starkochs kann bei Restaurantreservierungen und Medienpräsenz enden; ein Koch-Influencer kann Demonstration, Kommentare, Produkte und Lieferung zu einem Konsumpfad verketten. Das Publikum lernt erst ein Gericht, kauft dann einen Topf oder ein Kochset und nimmt „Shengkai Shi sagt, dieses Gericht geht“ als erste Qualitätsgarantie. Content ist damit nicht mehr nur Content, sondern Vordertür des Produktvertrauens.[^1] [^2]
+Hier liegt der Unterschied zwischen einem Food-Influencer und einem klassischen Gastronomie-Prominenten. Der Einfluss eines Sternekochs kann auf Restaurantreservierungen und Medienpräsenz beschränkt bleiben; ein Food-Influencer hingegen kann Demonstrationen, Kommentare, Produkte und Lieferdienste zu einem geschlossenen Konsumweg verknüpfen. Die Zuschauer lernen erst ein Gericht, kaufen dann ein Kochgeschirr oder ein Fertiggericht und nutzen schließlich das „Sheng Kai-shi sagt, das schmeckt“ als erste Qualitätsgarantie. Der Inhalt ist somit nicht mehr nur Content, sondern das Tor zum Vertrauen in das Produkt. [^1] [^2]
 
-📝 **Kuratorennotiz:** Traffic ist kein Qualitätsbeweis. Er lässt ein neues Produkt schneller gesehen werden, ersetzt aber nicht Rezept, Kennzeichnung, Lagerung, Logistik und Qualitätskontrolle. Kochvideos bauen Erwartung auf; die Lebensmittelmarke muss sie mit realem Produkt einlösen.
+📝 **Anmerkung der Kuratoren:** Traffic ist kein Beweis für Produktqualität. Er kann ein neues Produkt schneller sichtbar machen, aber er kann Rezeptur, Kennzeichnung, Haltbarkeit, Logistik und Qualitätskontrolle nicht ersetzen. Kochvideos schaffen Erwartungen; eine Lebensmittelmarke muss diese Erwartungen durch das physische Produkt erfüllen.
 
-## Neujahrsmenü-Vorfall: Wenn Videodemonstration auf gelieferte Box trifft
+## Der Neujahrsmenü-Vorfall: Wenn Videodemonstration auf gelieferte Boxen trifft
 
-Die Neujahrsmenü-Kontroverse 2020 ist das wichtigste Material, um Shengkai Shi zu verstehen, weil sie die Lücke zwischen Content-Marke und Produktverantwortung konkret sichtbar machte. Mirror Media berichtete: Konsumenten monierten, die gelieferten Neujahrsgerichte wichen von Werbung und Videodemonstration ab; es gab Rückerstattungsforderungen. Kan entschuldigte sich später, Shengkai Shi verklagte den OEM-Hersteller auf Schadenersatz.[^5]
+Die Kontroverse um die Neujahrsmenüs im Jahr 2020 ist ein entscheidendes Element zum Verständnis von Sheng Kai-shi, da sie die Diskrepanz zwischen Content-Marke und Lebensmittelverantwortung sichtbar machte. _Mirror Media_ berichtete, dass Konsumenten beanstandeten, dass die gelieferten Menüs von den Werbevideos abwichen; einige forderten Rückerstattungen. Swatow entschuldigte sich nachträglich, während Sheng Kai-shi gegen die Auftragsfabrik klagte, um Schadensersatz zu fordern. [^5]
 
-Ein weiterer Mirror-Media-Bericht dokumentiert: Kan behauptete, die Rückerstattungssumme der Konsumenten übersteige zehn Millionen New Taiwan Dollar; der OEM-Hersteller entgegnete, Rezept und Kosten der Neujahrsgerichte seien gemeinsames Verständnis der Kooperation gewesen, und verwies auf Werbeverpackung als Ursache für Konsumentenerwartungen. Das Gerichtsurteil wurde als Feststellung teilweiser Mängel durch die Fabrik berichtet, woraufhin die Fabrik Kan 660.000 New Taiwan Dollar für Konsumentenrückerstattungen zahlte. Hier müssen verschiedene Ebenen getrennt werden: Konsumentenbeschwerden, die prozessualen Ansprüche beider Seiten und der vom Gericht bestätigte Verantwortungsbereich sind nicht dieselbe Sache.[^6]
+Ein weiterer Bericht von _Mirror Media_ hielt fest, dass Swatow behauptete, die Forderungen der Kunden überstiegen 10 Millionen NT$. Die Auftragsfabrik hingegen argumentierte, dass Rezeptur und Kosten der Menüs gemeinsam mit dem Partner verstanden werden müssten, und warf der Werbung vor, die Erwartungen der Kunden künstlich aufgeblasen zu haben. Das Gericht urteilte laut Berichten so, dass die Fabrik für Teile der Mängel verantwortlich sei und letztlich 660.000 NT$ an Swatow zahlte, um die Rückerstattungen an die Kunden zu decken. Hier muss man zwischen verschiedenen Ebenen unterscheiden: die Beschwerden der Kunden, die Argumente der Parteien im Rechtsstreit und der durch das Gericht bestätigte Haftungsumfang sind nicht dasselbe. [^6]
 
-ETtoday veröffentlichte eine Stellungnahme, in der Shengkai Shi sich erneut für das damalige Neujahrsmenü-Versäumnis entschuldigte und anmerkte, die im Urteil aufgeführten Kosten seien nicht die gesamten Produktionskosten; der Fall werde weiter anwaltlich begleitet. NOWnews interviewte Neujahrsmenü-Juroren und Zulieferer, diskutierte Gerichte, Portionen, Logistik, Tiefkühllagerung und Marketingkosten und wies darauf hin, dass Preisangemessenheit nicht an einer einzelnen Kostenkennziffer gemessen werden kann.[^4] [^7]
+In einer Stellungnahme von _ETTV News_ (東森新聞) entschuldigte sich Sheng Kai-shi erneut für die Versäumnisse bei den Neujahrsmenüs und gab an, dass die im Urteil aufgeführten Kosten nicht die gesamten Produktionskosten darstellten; der Fall werde weiterhin durch Anwälte bearbeitet. _NOWnews_ interviewte zudem Jury-Mitglieder und Lieferanten, um über Gerichte, Portionen, Logistik, Tiefkühl-Lagerung und Marketingkosten zu diskutieren, und wies darauf hin, dass die Angemessenheit eines Preises nicht allein anhand einer einzigen Kostenkennzahl beurteilt werden könne. [^4] [^7]
 
-Das Wesentliche an diesem Vorfall ist nicht das am leichtesten teilbare Label „Influencer verkauft Wucher-Neujahrsmenü“, sondern dass Markenverantwortung in mehrere konkrete Fragen zerfällt: Stimmt das beworbene Gericht mit dem gelieferten Produkt überein? Wie prüfen OEM und Marke die Abnahme? Wie erhalten Konsumenten Rückerstattung? Wer überwacht Logistik und Lagerung? Und führt das Gesicht und die Stimme des Creators zu höherem Vertrauen als bei herkömmlichen Produkten?[^5] [^6] [^4] [^7]
+Das Wichtigste an diesem Vorfall ist nicht das leicht verbreitbare Label „Influencer verkauft überteuerte Neujahrsmenüs“, sondern dass die Markenverantwortung in mehrere reale Fragen zerlegt wurde: Stimmt das beworbene Gericht mit dem gelieferten Produkt überein? Wie erfolgt die Abnahme zwischen Auftragsfertiger und Marke? Wie werden Rückerstattungen abgewickelt? Wer kontrolliert Logistik und Lagerung? Und erzeugen das Gesicht und die Stimme des Schöpfers beim Konsumenten ein höheres Vertrauen als bei gewöhnlichen Produkten? [^5] [^6] [^4] [^7]
 
-## Die Echtheit eines Koch-Influencers ist nicht nur Kamerastil
+## Die Realität von Food-Influencern ist mehr als nur ein Kamerastil
 
-Shengkai Shis Content betont Unverstelltheit; diese „Echtheit“ ist in der Kochvermittlung nützlich. Sie zeigt die Grenzen der Haushaltsküche und senkt die Scheu von Anfängern vor dem Scheitern. Doch wenn dieselbe Person anfängt, Tiefkühlprodukte zu verkaufen, darf Echtheit nicht bei Reiskörnern und Pfannenklappern im Video bleiben, sondern muss in Produktspezifikation, Lagerung und After-Sales-Prozess eintreten.
+Sheng Kai-shis Inhalte betonen eine gewisse Unverfälschtheit, was in Kochvideos sehr nützlich ist. Es zeigt den Zuschauern die Grenzen einer heimischen Küche und nimmt Anfängern die Angst vor dem Scheitern. Doch wenn dieselbe Person beginnt, Tiefkühlkost zu verkaufen, darf sich die „Realität“ nicht nur auf herumfliegende Reiskörner und das Geräusch eines Pfannenwender in einem Video beschränken, sondern muss in die Spezifikationen, Haltbarkeit und den After-Sales-Prozess des Produkts übergehen.
 
-Das ist der am leichtesten übersehene Bruch bei Koch-Content. Zuschauer verzeihen ein Missgeschick im Tutorial, akzeptieren aber nicht unbedingt Qualitätsprobleme beim bezahlten Produkt. Ersteres ist Nähe im Zuschauen, zweites Verantwortung im Tausch. Ersteres lässt den Creator wie einen selbst wirken; zweites verlangt der Marke den Beweis ab, die Lebensmittel besser kontrollieren zu können als ein durchschnittlicher Haushalt.[^1] [^5] [^6]
+Dies ist der am leichtesten zu übersehende Wendepunkt im Food-Content. Zuschauer können einen Fehler in einem Tutorial akzeptieren, aber nicht unbedingt ein Qualitätsproblem bei einem bezahlten Produkt. Ersteres ist eine Form von Nähe während des Zuschauens; zweiteres ist Verantwortung während einer Transaktion. Ersteres lässt den Schöpfer wie einen Bekannten wirken; zweiteres verlangt von der Marke zu beweisen, dass sie die Kontrolle über Lebensmittel besser beherrscht als ein normaler Haushalt. [^1] [^5] [^6]
 
-Mirror Media berichtete auch, dass Shengkai Shi nach der Neujahrsmenü-Kontroverse weiterhin Tiefkühl- und Raumtemperatur-Produkte, Töpfe und Gastronomiemarken auf den Markt brachte. Das bedeutet nicht, dass der Vorfall nicht stattfand, noch dass die Marke allen verziehen wurde. Es sagt nur: Die Erholung einer Influencer-Marke endet nicht mit einer Entschuldigung, sondern muss im nächsten Produkt, in der nächsten Erklärung, in der nächsten Konsumentenerfahrung fortlaufend geprüft werden.[^3]
+_Mirror Media_ berichtete zudem, dass Sheng Kai-shi nach der Kontroverse weiterhin Tiefkühlkost, verpackte Lebensmittel, Kochgeschirr und Gastronomie-Marken anbietet. Das bedeutet nicht, dass die Kontroverse nicht stattgefunden hat, und es bedeutet auch nicht, dass die Marke allen vergeben wurde. Es zeigt lediglich, dass die Wiederherstellung einer Influencer-Marke nicht mit einer Entschuldigung endet, sondern in jedem neuen Produkt, jeder neuen Erklärung und jeder neuen Kundenerfahrung kontinuierlich überprüft werden muss. [^3]
 
-📝 **Kuratorennotiz:** Shengkai Shis Fall taugt nicht für eine reine Erfolgs- oder Misserfolgsgeschichte. Sehenswerter ist, wie dieselbe „bodenständige“ Sprache einerseits Vertrauen aufbaut, andererseits das Maß erhöht, in dem die Marke erwartet, befragt und in Verantwortung genommen wird.
+📝 **Anmerkung der Kuratoren:** Der Fall Sheng Kai-shi eignet sich nicht für eine einfache Erzählung von Erfolg oder Misserfolg. Interessanter ist zu beobachten, wie dieselbe „bodenständige“ Sprache einerseits Vertrauen aufbaut und andererseits das Maß an Erwartung, Nachfragen und Verantwortungsforderungen gegenüber der Marke erhöht.
 
-## Er machte die Küche zum Medium und brachte das Medium zurück auf den Tisch
+## Er machte die Küche zum Medium und brachte das Medium zurück auf den Esstisch
 
-Shengkai Shis Platz in der taiwanesischen Influencer-Geschichte beruht nicht nur auf Follower-Zahlen oder Gastronomie-Umsatz. Er macht einen sehr konkreten Wandel sichtbar: Restaurant-Professionalität, durch Kurzvideos übersetzt, kann in die Haushaltsküche gelangen und über Produktwerdung zurück auf den Esstisch der Konsumenten.
+Sheng Kai-shis Position in der Geschichte der taiwanesischen Influencer beruht nicht nur auf Followerzahlen oder dem Umfang seines Gastronomiegeschäfts. Er hat eine sehr konkrete Transformation sichtbar gemacht: Das Fachwissen aus dem Restaurant wird durch Kurzvideos übersetzt, gelangt in die heimische Küche und kehrt dann durch Kommerzialisierung auf den Esstisch der Konsumenten zurück.
 
-Der Pfad wirkt natürlich, doch jeder Schritt verschiebt Verantwortung. Der Restaurantkoch richtet sich primär an anwesende Gäste, der Koch-Content-Creator an Zuschauer, die Lebensmittelmarke an zahlende, lagernde, liefernde und retournierende Konsumenten. Shengkai Shi ging von der Küche auf die Plattform und von der Plattform zur Lebensmittelmarke – er stellte sich damit in drei verschiedene Bewertungssysteme gleichzeitig.[^1] [^2] [^6]
+Dieser Pfad scheint natürlich, doch jeder Schritt verändert die Verantwortung. Ein Restaurantkoch steht priman vor den Gästen im Lokal; ein Koch-Content-Creator steht vor den Zuschauern; eine Lebensmittelmarke steht vor Konsumenten, die bezahlen, lagern, empfangen und eventuell reklamieren. Sheng Kai-shi ist vom Koch zum Plattform-Nutzer und vom Plattform-Nutzer zur Lebensmittelmarke gegangen – er hat sich damit in drei verschiedene Bewertungssysteme begeben. [^1] [^2] [^6]
 
-Deshalb kann man über Shengkai Shi nicht nur „gut essen“ oder „gut verkaufen“ schreiben. Sein eigentlicher Interessenspunkt liegt darin, dass er Gastronomie-Handwerk, Social-Media-Nähe und Skalierbarkeit von Lebensmittelprodukten auf denselben Tisch legt. Dieser Tisch kann sehr lebhaft sein – und plötzlich sehr still, wenn Qualität kippt. Je erfolgreicher die Marke, desto weniger darf sie nur auf die Persönlichkeit des Creators vertrauen, sondern muss dem Publikum zeigen, wie Produkt hergestellt, geprüft und korrigiert wird.
+Daher kann man über Sheng Kai-shi nicht nur schreiben, dass er „gut essen“ oder „gut verkaufen“ kann. Das eigentlich Interessante ist, dass er das Handwerk der Gastronomie, die Nähe von Social-Media-Videos und die Skalierbarkeit von Lebensmittelprodukten an denselben Tisch bringt. Dieser Tisch kann sehr belebt sein, aber er kann auch plötzlich sehr still werden, wenn die Qualitätsprobleme auftreten. Je erfolgreicher eine Marke ist, desto weniger darf sie sich auf die persönliche Ausstrahlung des Schöpfers verlassen; sie muss den Zuschauern zeigen, wie Produkte hergestellt, geprüft und korrigiert werden.
 
-## Schlusswort: Nach einem Steamed-Egg-Video folgt eine ganze Verantwortungskette
+## Fazit: Nach einem Video über gedämpftes Ei folgt eine ganze Kette von Verantwortlichkeiten
 
-Shengkai Shis Geschichte beginnt mit einem Steamed-Egg-Video, sollte aber nicht beim „über Nacht berühmt“ stehenbleiben. Er nutzte erst Gastronomie-Praxis für Handwerk, dann Hausmannskost-Videos für niedrigere Einstiegshürden, dann wandelte er Zuschauen in Restaurant-, Lebensmittel- und E-Commerce-Marke um. Das ist ein sehr taiwanesisch geprägter Influencer-Pfad, weil er Nachbarschaftsgastronomie, Haushaltsküche, Social-Plattform und Festtagskonsum in einen kommerziellen Kreislauf stellt.
+Sheng Kai-shis Geschichte beginnt mit einem Video über gedämpftes Ei, sollte aber nicht bei „über Nacht berühmt werden“ enden. Er baute zuerst sein Handwerk vor Ort auf, senkte dann durch Heimkochvideos die Hürden und wandelte das Zuschauen schließlich in eine Marke für Restaurants, Lebensmittel und E-Commerce um. Dies ist ein sehr typischer taiwanesischer Influencer-Pfad, da er lokale Gastronomie, die heimische Küche, Social-Media-Plattformen und den Konsum zu Feiertagen in denselben geschäftlichen Kreislauf integriert.
 
-Doch wenn Content zur Ware wird, ist die Stimme des Creators nicht mehr nur Empfehlung. Sie speist sich in die Vorstellungen der Konsumenten zu Portion, Qualität und fairem Preis ein. Der Neujahrsmenü-Vorfall erinnert daran: Das Schwierigste bei Influencer-Marken ist nicht Sichtbarkeit, sondern die Distanz zwischen Versprechen und realem Produkt. Shengkai Shi verdient Dokumentation nicht, weil er ein für alle kopierbares Reichtums-Template liefert, sondern weil sein Fall die Frage klar stellt: **Wenn Zuschauer dem Handwerk eines Menschen vertrauen – womit beweist die Marke, dass dieses Vertrauen nicht vergeudet wurde?**[^5] [^6] [^4]
+Doch wenn Content zum Produkt wird, ist die Stimme des Schöpfers nicht mehr nur eine Empfehlung. Sie beeinflusst die Vorstellung der Konsumenten über Portionen, Qualität und faire Preise. Der Vorfall um die Neujahrsmenüs erinnert uns daran, dass es für Influencer-Marken am schwierigsten ist, nicht die Reichweite aufrechtzuerhalten, sondern die Distanz zwischen dem Versprechen und dem physischen Produkt zu überbrücken. Sheng Kai-shi ist es wert, dokumentiert zu werden – nicht weil er eine Vorlage für Reichtum bietet, die jeder kopieren kann, sondern weil sein Fall eine klare Frage aufwirft: **Wenn die Zuschauer dem Handwerk einer Person vertrauen, womit muss die Marke beweisen, dass dieses Vertrauen nicht verschwendet wurde?** [^5] [^6] [^4]
 
-## Weiterführende Links
+## Weiterführende Literatur
 
-- [【Influencer verkauft verdorbenes Neujahrsmenü】 Bekannter Kan-Neujahrsmenü-Fehler verklagt OEM-Fabrik – Fünf Gerichte zwei Suppen: überraschender Gewinn unerwartet offengelegt](https://www.mirrormedia.mg/story/20220124inv001) – Vorfallshintergrund, Produktdifferenz und Prozesshintergrund.
-- [【Influencer verkauft verdorbenes Neujahrsmenü 1】 Große Fliegen, Plastikstücke im Essen – Konsumenten wüten mit Negativbewertungen, Shengkai Shi Rückerstattung übersteigt zehn Millionen](https://www.mirrormedia.mg/story/20220124inv002) – Konsumentenreaktionen, Rückerstattungsforderungen und Gerichtsurteilsbericht.
-- [Shengkai Shi verkauft „Wucher-Neujahrsmenü“? Ist es fair? Experten decken Innenansicht auf und rechnen vor](https://www.nownews.com/news/5698614) – Ergänzung zur Preiskontroverse aus Sicht Lebensmittelkosten, Logistik und Vertriebskanäle.
+- [【Influencer verkauft verdorbene Neujahrsmenüs】Bekannte Swatow-Menüs verursachen Probleme; Klage gegen Auftragsfabrik legt enorme Gewinne von fünf Gerichten und zwei Suppen offen](https://www.mirrormedia.mg/story/20220124inv001) — Ursprung des Vorfalls, Produktabweichungen und rechtlicher Hintergrund.
+- [【Influencer verkauft verdorbene Neujahrsmenüs 1】Insekten und Plastikstücke im Essen; wütende Verbraucher geben negative Bewertungen ab, Sheng Kai-shi muss über 10 Millionen NT$ erstatten](https://www.mirrormedia.mg/story/20220124inv002) — Verbraucherberichte, Rückerstattungsforderungen und Gerichtsentscheidung.
+- [Verkauft Sheng Kai-shi „überteuerte Neujahrsmenüs“? Experten enthüllen die Hintergründe der Preisgestaltung](https://www.nownews.com/news/5698614) — Ergänzungen zu Lebensmittelkosten, Logistik und Vertriebswegen.
 
-## Quellen
+## Referenzen
 
-[^1]: [Interview Shengkai Shi: Von japanischer Gastronomie-Gründung zum Millionen-YouTuber – Markenwandel](https://www.worldpop.com.tw/blogs/%E9%A4%90%E9%A3%B2%E8%B6%A8%E5%8B%A2%E8%88%87%E6%96%B0%E7%9F%A5/no16) — – „Food Vision“-Interview, ergänzt Gastronomie-Start, Content-Methode und Lebensmittelmarken-Wandel
+[^1]: [Interview mit Sheng Kai-shi: Der Weg von der japanischen Gastronomie zur Markenentwicklung eines Millionen-YouTubers](https://www.worldpop.com.tw/blogs/%E9%A4%90%E9%A3%B2%E8%B6%A8%E5%8B%A2%E8%88%87%E6%96%B0%E7%9F%A5/no16) — Interview mit _Food Image_, ergänzt den gastronomischen Ursprung, die Methodik der Videoinhalte und die Transformation zur Lebensmittelmarke.
 
-[^2]: [Influencer-Starkoch Shengkai Shi: Tiefkühlprodukte greifen nach Macaus Casinos](https://reader.turnnewsapp.com/king/284/g106978/s0lor18yodrfmdi3xze1/share) — – „Wochenkönig“-Personenporträt, ergänzt Lehrjahre, Eröffnung, Steamed-Egg-Video und Lebensmittel-Geschäftsstruktur
+[^2]: [Influencer-Chefkoch Sheng Kai-shi erobert Macao-Casinos mit Tiefkühlkost](https://reader.turnnewsapp.com/king/284/g106978/s0lor18yodrfmdi3xze1/share) — Personenporträt von _Weekly Magazine_, ergänzt Details zu Lehrlingszeit, Eröffnung, dem Video über gedämpftes Ei und der Geschäftsstrategie.
 
-[^3]: [【Influencer verkauft verdorbenes Neujahrsmenü 3】 Mit einem Steamed-Egg-Video zum Millionen-Influencer – kleiner Koch wird Vorstand milliardenschwerer Gruppe](https://www.mirrormedia.mg/story/20220124inv004) — – Mirror-Media-Bericht zu Kanalstart, Gastronomie- und Lebensmittelmarken-Ausbau und Nachgang
+[^3]: [【Influencer verkauft verdorbene Neujahrsmenüs 3】Vom kleinen Koch zum Millionen-Influencer durch ein Video über gedämpftes Ei; Aufstieg zum milliardenschweren Konzern](https://www.mirrormedia.mg/story/20220124inv004) — Bericht von _Mirror Media_ über den Start des Kanals, die Expansion in Gastronomie und Lebensmittelmarken sowie die Folgen des Vorfalls.
 
-[^4]: [Influencer-Koch verkauft verdorbenes Neujahrsmenü – Sechs Gerichte eine Suppe: überraschender Wucher unerwartet offengelegt](https://news.ebc.net.tw/news/society/299309) — – ETtoday-Bericht zur Neujahrsmenü-Kontroverse und Shengkai Shis öffentlicher Stellungnahme
+[^4]: [Influencer-Koch verkauft verdorbene Neujahrsmenüs; enorme Gewinne bei sechs Gerichten und einer Suppe enthüllt](https://news.ebc.net.tw/news/society/299309) — Bericht von _ETTV News_ über die Kontroverse und Sheng Kai-shis öffentliche Stellungnahme.
 
-[^5]: [【Influencer verkauft verdorbenes Neujahrsmenü】 Bekannter Kan-Neujahrsmenü-Fehler verklagt OEM-Fabrik – Fünf Gerichte zwei Suppen: überraschender Gewinn unerwartet offengelegt](https://www.mirrormedia.mg/story/20220124inv001) — – Mirror-Media-Bericht zu Werbung vs. geliefertem Produkt, Rückerstattung und Prozesshintergrund
+[^5]: [【Influencer verkauft verdorbene Neujahrsmenüs】Bekannte Swatow-Menüs verursachen Probleme; Klage gegen Auftragsfabrik legt enorme Gewinne von fünf Gerichten und zwei Suppen offen](https://www.mirrormedia.mg/story/20220124inv001) — Bericht von _Mirror Media_ über die Diskrepanz zwischen Werbung und geliefertem Produkt sowie den rechtlichen Hintergrund.
 
-[^6]: [【Influencer verkauft verdorbenes Neujahrsmenü 1】 Große Fliegen, Plastikstücke im Essen – Konsumenten wüten mit Negativbewertungen, Shengkai Shi Rückerstattung übersteigt zehn Millionen](https://www.mirrormedia.mg/story/20220124inv002) — – Mirror-Media-Bericht zu Konsumentenreaktionen, prozessualen Ansprüchen und Yunlin-Bezirksgerichtsurteil zur Rückerstattungsverantwortung
+[^6]: [【Influencer verkauft verdorbene Neujahrsmenüs 1】Insekten und Plastikstücke im Essen; wütende Verbraucher geben negative Bewertungen ab, Sheng Kai-shi muss über 10 Millionen NT$ erstatten](https://www.mirrormedia.mg/story/20220124inv002) — Bericht von _Mirror Media_ über Kundenbeschwerden, die Argumente der Parteien und die Haftung laut Urteil des Bezirksgerichts Yunlin.
 
-[^7]: [Shengkai Shi verkauft „Wucher-Neujahrsmenü“? Ist es fair? Experten decken Innenansicht auf und rechnen vor](https://www.nownews.com/news/5698614) — – NOWnews interviewt Neujahrsmenü-Juroren und Zulieferer, ergänzt unterschiedliche Sichtweisen zu Preis, Portion, Tiefkühllogistik und Vertriebskosten
+[^7]: [Verkauft Sheng Kai-shi „überteuerte Neujahrsmenüs“? Experten enthüllen die Hintergründe der Preisgestaltung](https://www.nownews.com/news/5698614) — _NOWnews_ interviewt Jury-Mitglieder und Lieferanten; ergänzt verschiedene Perspektiven zu Preisen, Portionen, Tiefkühl-Logistik und Vertriebskosten.
 
-[^8]: [【Influencer verkauft verdorbenes Neujahrsmenü 2】 Kan klagt Rufschädigung, hoher Verlust – Richter konfrontiert mit Finanzamtsdaten](https://www.mirrormedia.mg/story/20220124inv003) — – Mirror-Media-Serienbericht Prozessnachgang, zur Gegenprüfung von OEM, Marke und Gerichtsdaten
+[^8]: [【Influencer verkauft verdorbene Neujahrsmenüs 2】Swatow behauptet massiven Rufschaden; Richter kontert mit Daten des Finanzamtes](https://www.mirrormedia.mg/story/20220124inv003) — Detailseite der Fortsetzung der _Mirror Media_-Serie über den Rechtsstreit zum Abgleich von Auftragsfertigung, Marke und Gerichtsdokumenten.
 
-[^9]: [Fliegen, Plastikstücke alles im Essen! „Verdorbenes Neujahrsmenü“ bringt Millionen-Influencer zur Stellungnahme](https://star.setn.com/news/1062448) — – SETN-Bericht zu Produktqualitätsstreit und Shengkai Shis Reaktion
-
-## Image sources
-
-- <https://commons.wikimedia.org/wiki/File:Open_Kitchen_of_Swatow_Restaurant_in_Songshan_District,_Taipei_20180427.jpg>
-- <https://commons.wikimedia.org/wiki/File:%E5%8F%B0%E9%90%B5%E4%BE%BF%E7%95%B6_(6560220121>
+[^9]: [Insekten und Plastik im Essen! „Verdorbenes Neujahrsmenü“ bringt Millionen-Influencer in Bedrängnis](https://star.setn.com/news/1062448) — Bericht von _Sanli News_ über die Qualitätskontroverse und Sheng Kai-shis Reaktion.

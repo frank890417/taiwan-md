@@ -1,16 +1,16 @@
 ---
-title: 'Huang-Brüder: Hinter dem frischen Label die erzwungene Entfaltung von Wahrheit und Zärtlichkeit'
-description: 'Ausgehend von einem Prank-Video 2017 durchbrachen die Huang-Brüder mit „frisch, positiv“ die YouTube-Szene. Doch ein 2020er Bericht, der einen von ihnen zwangsoutete, zwang das Brüderpaar auf dem Höhepunkt ihrer Millionen-Abonnenten, ihre Privatsphäre vor der Kamera offenzulegen – und skizzierte unerwartet die zärtlichste kollektive Reaktion der taiwanischen Gesellschaft auf Geschlechtergerechtigkeit.'
+title: 'Die Huang-Brüder: Hinter den frischen Etiketten liegt eine erzwungene Wahrheit und Sanftheit'
+description: 'Das aus den Brüdern Zhe Zhe und Wei Wei bestehende taiwanesische YouTube-Duo mit Millionen von Abonnenten begann 2017 mit einem Video über japanische Instant-Nudeln aus einem Convenience Store und stellte einmal den Rekord auf, 20 Monate lang ohne Urlaub durchzuarbeiten. Als der jüngere Bruder 2020 von den Medien zum Coming-out gezwungen wurde, löste ein Video, in dem er vor der Kamera unter Tränen seine Mutter anrief, landesweite Solidarität aus und entfachte eine Debatte über Medienethik und digitale Privatsphäre. Seither haben sie die Bereiche Musik, Wohltätigkeit und Bildung erschlossen und sich von Prank-YouTubern zu verantwortungsbewussten Content-Erstellern entwickelt.'
 date: 2026-06-01
 category: 'People'
 tags:
   [
     'YouTuber',
     'Huang-Brüder',
-    'Weiwei',
-    'Zhezhe',
+    'Wei Wei',
+    'Zhe Zhe',
     'Geschlechtergerechtigkeit',
-    'Taiwan-Kultur',
+    'Taiwanische Kultur',
   ]
 subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
@@ -21,10 +21,10 @@ readingTime: 12
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/黃氏兄弟.md'
-sourceCommitSha: '7d41e6f686'
+sourceCommitSha: 'fd2854dbad'
 sourceContentHash: 'sha256:1016352970b6d5c8'
 sourceBodyHash: 'sha256:68b9398b0dec02a8'
-translatedAt: '2026-11-21T10:48:09+08:00'
+translatedAt: '2026-11-27T04:11:53.542249+00:00'
 ---
 
 > **30-Sekunden-Überblick:**

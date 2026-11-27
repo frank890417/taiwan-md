@@ -1,24 +1,25 @@
 ---
-title: 'Enno Cheng: Mit der fremdesten Sprache die ehrlichsten Lieder geschrieben – Von der 2016-Identity-Offenbarung bis zum 2023-Goldton-Preis in Zweierpackung'
-description: 'Enno Cheng (1987), Tochter des neuen Filmregisseurs James Cheng. 2007 Schauspiel-Debüt, 2016 Facebook-Ausschweifung und gleichzeitigliche Scheidung, 2022 erstes völlig taiwanesisches Album „Wassertropfen“ (Mercury Retrograde), 2023 Goldton-Preis 34 mit Bester taiwanesischer Sängerin + Bestes taiwanesisches Album in doppelter Auszeichnung. Sie sagte: „Also habe ich direkt mit einer Sprache, die ich nicht so gut kann, angefangen, mir selbst schwieriger zu machen.“'
+title: 'Enno Cheng: Die ehrlichsten Lieder in der fremdesten Sprache schreiben – sieben Jahre vom Coming-out 2016 bis zu den doppelten Golden Melody Awards für taiwanesische Musik 2023'
+description: 'Die 1987 in Yilan geborene interdisziplinäre Künstlerin ist die Tochter des Regisseurs Cheng Wen-tang und einer ehemaligen Residenz-Sängerin und erfahrenen Musikerin. 2007 debütierte sie als Hauptdarstellerin, Drehbuchautorin und Komponistin von „Summer’s Tail“ und wurde für den Golden Horse Award als beste Nachwuchsdarstellerin nominiert. 2011 erschien ihr erstes Album „Neptune“, das ausschließlich Mandarin-Kompositionen enthielt. 2016 outete sie sich auf Facebook und ließ sich im selben Monat von Yang Cheng-tse scheiden. 2022 veröffentlichte sie ihr erstes rein taiwanesischsprachiges Album „Mercury Retrograde“ und gewann 2023 die Golden Melody Awards für die beste taiwanesische Sängerin und das beste taiwanesische Album – eine doppelte Auszeichnung –, wobei sie in ihrer Dankesrede sagte: „Taiwanesisch hat mich gelehrt, den Kopf zu senken.“'
 date: 2026-04-18
 category: 'People'
 tags:
   [
     'Person',
     'Enno Cheng',
-    'taiwanesische Musik',
-    'Goldton-Preis',
-    'Wassertropfen',
+    'Enno Cheng',
+    'Taiwanesische Musik',
+    'Golden Melody Awards',
     'Mercury Retrograde',
-    'James Cheng',
-    'Mädchen-Schokolade',
-    'Dear Uranus',
-    'Neptun',
-    'Yang Da-Zhong',
-    'Feuerlöscher',
-    'Identitätsgeschichte',
-    'unabhängige Musik',
+    'Mercury Retrograde',
+    'Cheng Wen-tang',
+    'Mighty Tiger Chocolate',
+    'To Uranus',
+    'Neptune',
+    'Yang Cheng-tse',
+    'Fire EX.',
+    'Identitätsnarrativ',
+    'Indie-Musik',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
@@ -28,10 +29,10 @@ lastHumanReview: true
 researchReport: 'reports/research/2026-04/鄭宜農.md'
 readingTime: 18
 translatedFrom: 'People/鄭宜農.md'
-sourceCommitSha: 'ac1d187af'
+sourceCommitSha: 'fc0798f30d'
 sourceContentHash: 'sha256:9978590a40b2bfce'
 sourceBodyHash: 'sha256:2eaa36629936ca3c'
-translatedAt: '2026-09-23T01:05:24+08:00'
+translatedAt: '2026-11-27T04:38:48.779124+00:00'
 ---
 
 > **30-Sekunden-Überblick:** Enno Cheng wurde am 19. März 1987 in Ilan geboren. Ihr Vater ist der taiwanesische Neofilm-Regisseur James Cheng. 2007 debütierte sie als Schauspielerin, Drehbuchautorin und Komponistin im Film „Ende des Sommers“ des Vaters, wurde für den 44. Goldenen Lorbeer nominiert; 2011 veröffentlichte sie ihr erstes Solo-Album „Neptun“ (Neptune); am 3. Januar 2016 kam sie auf Facebook mit ihrer sexuellen Orientierung heraus, im selben Monat schrieb sie sich mit dem Sänger des Feuerlöscher-Bands Yang Da-Zhong scheiden lassen; 2022 veröffentlichte sie ihr erstes völlig taiwanesisches Album „Wassertropfen“ (Mercury Retrograde); am 1. Juli 2023 gewann sie beim 34. Goldton-Preis in zwei Kategorien: Beste taiwanesische Sängerin und Bestes taiwanesisches Album. In einem Album-Interview sagte sie: „Also habe ich direkt mit einer Sprache, die ich nicht so gut kann, angefangen, mir selbst schwieriger zu machen.“ — Die Kreativschwierigkeit als Methode der Ehrlichkeit.
