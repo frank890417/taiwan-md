@@ -1,36 +1,37 @@
 ---
-title: 'LaLa Hsu: Dari Perawat ke Ratu Golden Melody, Menulis Hidup yang Dinilai Jadi Karya Cipta'
-description: "Pada 2008, LaLa Hsu mengundurkan diri dari pekerjaan perawat, diam-diam mendaftar musim ketiga 'Super Star Avenue', hampir membeli tiket kembali ke Taichung. 'Shen Qi Bai Ma' membawa aliran lagu opera tradisional ke panggung audisi; 2018 'Xin Li Xue' meraih Ratu Golden Melody dan Album Mandarin Terbaik; hingga 'Gei' dan 'Bu Zai Yi Qi Jiu Bu Hui Fen Kai', dia perlahan menulis hidup yang dinilai orang lain jadi topiknya sendiri."
+title: 'LaLa Hsu: Dari Perawat Menjadi Ratu Lagu Golden Melody, Mengubah Kemenangan Kompetisi Menjadi Karya Kreatif'
+description: 'Seorang penyanyi kreatif yang beralih profesi dari perawat. Pada tahun 2008, ia mengundurkan diri dari pekerjaannya di rumah sakit dan mendaftar ke kompetisi Superstar Avenue musim ketiga tanpa sepengetahuan keluarganya; ia hampir saja membeli tiket pulang ke Taichung saat audisi, namun akhirnya berhasil meraih juara pertama. Melalui lagu Shen Ji Bai Ma, ia membawa gaya bernyanyi Opera Taiwan ke panggung kompetisi. Pada tahun 2018, ia memenangkan Penghargaan Golden Melody untuk Penyanyi Wanita Mandarin Terbaik dan Album Mandarin Terbaik melalui album Psychology. Pada tahun 2022 dan 2023, ia kembali meraih penghargaan Produser Single Terbaik dan Komposer Terbaik, perlahan mengubah hidup yang penuh penilaian menjadi narasi miliknya sendiri.'
 date: 2026-04-26
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '音樂與表演'
 tags:
   [
     'Tokoh',
     'LaLa Hsu',
     'LaLa Hsu',
-    'Super Star Avenue',
-    'Pop Mandarin',
+    'Superstar Avenue',
+    'Musik Pop Mandarin',
     'Golden Melody Awards',
-    'Shen Qi Bai Ma',
-    'Shi Luo Sha Zhou',
-    'Xin Li Xue',
+    'Shen Ji Bai Ma',
+    'Lost Sandbar',
+    'Psychology',
     'Gei',
-    'Chen Chien-chi',
-    'Chen Jun-hao',
-    'Koa-á-hì',
+    'Chen Jianqi',
+    'Chen Junhao',
+    'Opera Taiwan',
   ]
+subcategory: '音樂與表演'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
-featured: false
+researchReport: 'reports/research/2026-04/徐佳瑩.md'
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/徐佳瑩.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'fc0798f30d'
 sourceContentHash: 'sha256:f9f02c4b8eb59a3c'
 sourceBodyHash: 'sha256:08e93141b3775e8d'
-translatedAt: '2026-07-25T12:49:29+08:00'
+translatedAt: '2026-11-27T08:10:06.698283+00:00'
 ---
 
 > **Ringkasan 30 Detik:** LaLa Hsu adalah juara musim ketiga _Super Star Avenue_ 2008, juga salah satu penyanyi langka yang dari acara pilih bakat TV Taiwan melangkah ke posisi inti kreasi Golden Melody Awards. Sebelum debut dia adalah perawat, "Shen Qi Bai Ma" mengubah nada Koa-á-hì _Xue Pinggui Yu Wang Baochuan_ jadi pop Mandarin, 2009 album perdana membawa beberapa lagu ciptaan sendiri saat kompetisi ke pasar rekaman. 2018 _Xin Li Xue_ membuatnya meraih Penyanyi Wanita Mandarin Terbaik dan Album Mandarin Terbaik Golden Melody Awards ke-29 sekaligus; 2022 "Yi Shang Jie Fei" meraih Produser Single Terbaik, 2023 "Bu Zai Yi Qi Jiu Bu Hui Fen Kai" meraih Komposer Terbaik. Dia bermula dari juara pilih bakat, kemudian hidup yang dinilai orang lain, perlahan ditulis jadi topiknya sendiri.
