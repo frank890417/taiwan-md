@@ -1,10 +1,10 @@
 ---
-title: 'Teacher Black Cat: From an Overheating Graphics Card to Returning Traffic to Readers Over Twenty Years'
-description: 'In the summer of 2015, an overheating graphics card forced Teacher Black Cat to abandon game streaming, yet unexpectedly left behind a Facebook fan page. From posting photos of cats and narrating history to producing podcasts and the *Black Cat Creative Newsletter*, he has traversed platforms ranging from PTT and Facebook to YouTube and email newsletters, constantly asking: Are creators serving readers, or feeding algorithms?'
+title: 'Teacher Black Cat: From an Overheating Graphics Card to Twenty Years of Returning Traffic to Readers'
+description: 'A Taiwanese self-media creator who started from a fan page left behind after a failed gaming livestream in 2015. After building engagement by sharing cat photos, they transitioned into historical storytelling through easy-to-digest summaries of WWII and Nazi Germany, eventually publishing "History is War." Dry eye syndrome led them to leave livestreaming for podcasts. Since 2024, through "Black Cat Creative Report," they have shared transparent experiences regarding traffic, platforms, and monetization, constantly questioning whether creators are serving readers or feeding algorithms, while making complex materials easy for people to understand.'
 date: 2026-08-16
 category: 'People'
+tags: ['Teacher Black Cat', 'Self-media', 'Historical storytelling']
 subcategory: '數位與媒體'
-tags: ['Teacher Black Cat', 'Social Media Creators', 'Historical Storytelling']
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16
@@ -12,10 +12,10 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/黑貓老師.md'
-sourceCommitSha: '9d93b1d90'
+sourceCommitSha: 'fd2854dbad'
 sourceContentHash: 'sha256:098b16931924e6a4'
 sourceBodyHash: 'sha256:d62613e467add761'
-translatedAt: '2026-09-13T04:15:16+08:00'
+translatedAt: '2026-11-27T05:14:56.479961+00:00'
 ---
 
 # Teacher Black Cat: From an Overheating Graphics Card to Returning Traffic to Readers Over Twenty Years

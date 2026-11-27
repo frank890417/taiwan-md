@@ -1,16 +1,16 @@
 ---
 title: 'Huang Brothers: Behind the Fresh Labels, a Forced Exposure of Truth and Tenderness'
-description: 'Starting from a 2017 prank video, the Huang Brothers rose to fame with a "fresh and positive" image on YouTube, only to face a forced outing in 2020 that tested media ethics and revealed Taiwan''s collective compassion.'
+description: 'Composed of older brother Zhe Zhe and younger brother Wei Wei, this Taiwanese YouTube duo with millions of subscribers started in 2017 with a video about Japanese convenience store instant noodles and once held a record of 20 months without a vacation. In 2020, after the younger brother was forced out of the closet by the media, a video of him weeping on camera while calling his mother drew widespread support across Taiwan, sparking discussions on media ethics and digital privacy. Since then, they have expanded into music, charity, and campus life, evolving from prankster youths into creators who embrace social responsibility.'
 date: 2026-06-01
 category: 'People'
 tags:
   [
     'YouTuber',
     'Huang Brothers',
-    'Wei-wei',
-    'Zhe-zhe',
-    'gender equality',
-    'Taiwan culture',
+    'Wei Wei',
+    'Zhe Zhe',
+    'Gender Equality',
+    'Taiwanese Culture',
   ]
 subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
@@ -21,10 +21,10 @@ readingTime: 12
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/黃氏兄弟.md'
-sourceCommitSha: '7d41e6f686'
+sourceCommitSha: 'fd2854dbad'
 sourceContentHash: 'sha256:1016352970b6d5c8'
 sourceBodyHash: 'sha256:68b9398b0dec02a8'
-translatedAt: '2026-11-21T10:47:58+08:00'
+translatedAt: '2026-11-27T05:04:14.903983+00:00'
 ---
 
 > **30-Second Overview:**

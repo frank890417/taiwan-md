@@ -1,15 +1,15 @@
 ---
-title: 'JiuJiu Shoe: Deleting the Most Popular Translation Videos Marked the Start of Becoming an Independent Knowledge Creator'
-description: 'In 2013, Hsieh Jen-chieh, then in a National Central University dorm, translated foreign memes before deleting his most viral old works to rebuild his channel from scratch. He gradually synthesized his chemistry training, literature review skills, script design, and Taichung lifestyle into a sustainable method for Taiwanese knowledge creation.'
+title: 'Chiu Chiu Shoes: Deleting the Most Popular Translation Videos to Finally Become an Independent Knowledge Creator'
+description: 'A knowledge-based creator with a background in Chemistry from National Central University. He started by translating foreign memes in his college dormitory, but later deleted his most high-traffic translation works to establish himself as an original creator, facing a 20-month transition period. He gained popularity through a video discussing myoglobin in steak, turning research, scriptwriting, and self-taught organization into a systematic workflow for his channel. Based in Taichung, he has evolved from a solo videographer into running a studio and the "Chiu Read" audiobook program.'
 date: 2026-08-17
 category: 'People'
 tags:
   [
-    'JiuJiu Shoe',
+    'Chiu Chiu Shoes',
     'Hsieh Jen-chieh',
     'YouTuber',
     'Science Popularization',
-    'Independent Media',
+    'Self-Media',
   ]
 subcategory: '網路文化'
 author: 'Taiwan.md Contributors'
@@ -24,10 +24,10 @@ rationale:
   where_it_hedges: '對訂閱數、收入門檻與工作室條件均標明報導年份，避免把時點資料寫成現在狀態。'
   whos_pushing_back: '保留業配、家庭曝光與內容品質的外部討論，不把人物寫成沒有矛盾的成功模板。'
 translatedFrom: 'People/啾啾鞋.md'
-sourceCommitSha: '9c63d8227'
+sourceCommitSha: 'fd2854dbad'
 sourceContentHash: 'sha256:4ae6e15b4e3eea8f'
 sourceBodyHash: 'sha256:09d31f29d2008420'
-translatedAt: '2026-09-11T08:29:08+08:00'
+translatedAt: '2026-11-27T04:29:30.875325+00:00'
 ---
 
 > **30-Second Overview**: JiuJiu Shoe first gained attention by translating foreign memes, then deleted his most popular old works to transform his chemistry background into a knowledge channel focused on research, explanation, and continuous self-learning. This is a story of stepping back from traffic metrics to reclaim creative agency.

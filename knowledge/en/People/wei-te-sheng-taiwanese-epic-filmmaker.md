@@ -1,17 +1,17 @@
 ---
-title: "Wei Te-sheng: Yongkang 1969, the Taiwanese Epic Filmmaker from Cape No. 7's Record-Breaking Box Office to the Venice Main Competition"
-description: 'Born August 16, 1969, in Yongkang Township, Tainan County (now Yongkang District, Tainan City). Graduated from the Department of Electrical Engineering at Far East Junior College (now Far East University of Science and Technology). In 2008, Cape No. 7 grossed approximately NT$530 million (a Taiwanese box office record). In 2011, Seediq Bala was selected for the main competition of the 68th Venice International Film Festival, competing for the Golden Lion, and won Best Feature Film at the 48th Golden Horse Awards. Currently preparing the Taiwan Trilogy epic project.'
+title: "Wei Te-sheng: Born 1969 in Yongkang, From Cape No. 7's Box Office Breakthrough to Venice Main Competition Taiwanese Epic Director"
+description: "Taiwanese film director, born in 1969 in Yongkang, Tainan. After graduating from the Department of Electrical Engineering at Far East Junior College of Technology, he entered the film industry as an assistant director. In 2008, his self-directed and self-financed 'Cape No. 7' grossed approximately NT$530 million, rekindling audience confidence in Taiwanese stories. In 2011, 'Seediq Bale', based on the Wushe Incident, was selected for the main competition at the 68th Venice Film Festival and won Best Narrative Feature at the 48th Golden Horse Awards. He is currently preparing the epic 'Taiwan Trilogy' project with an estimated total budget exceeding NT$4.5 billion."
 date: 2026-03-19
 category: 'People'
 tags:
   [
-    '電影與戲劇',
-    '導演',
-    '台灣電影',
-    '原住民文化',
-    '海角七號',
-    '賽德克巴萊',
-    '台南',
+    'Film and Theater',
+    'Director',
+    'Taiwanese Cinema',
+    'Indigenous Culture',
+    'Cape No. 7',
+    'Seediq Bale',
+    'Tainan',
   ]
 subcategory: '電影與戲劇'
 author: 'Taiwan.md'
@@ -20,10 +20,10 @@ lastVerified: 2026-05-07
 lastHumanReview: true
 readingTime: 7
 translatedFrom: 'People/魏德聖.md'
-sourceCommitSha: '8f070a88'
+sourceCommitSha: 'c7e3d69aad'
 sourceContentHash: 'sha256:c53d9ecd803bd8cd'
 sourceBodyHash: 'sha256:9fd756dd61905363'
-translatedAt: '2026-06-11T16:38:12Z'
+translatedAt: '2026-11-27T04:57:40.325203+00:00'
 ---
 
 # Wei Te-sheng: Yongkang 1969, the Taiwanese Epic Filmmaker from Cape No. 7's Record-Breaking Box Office to the Venice Main Competition

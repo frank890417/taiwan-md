@@ -1,27 +1,27 @@
 ---
-title: 'Yeh Kuo-yi: From Shilin Commercial High School to Building a Half-Century Manufacturing Empire'
-description: "Born on April 21, 1941, Yeh Kuo-yi had no university degree. Starting from Shilin Commercial High School, he founded Inventec in Shilin in 1975. Beginning with electronic calculators, he led the company to become one of the world's leading server ODM manufacturers, supplying cloud computing capacity to Facebook, Microsoft, and Google. In 2023, he handed the chairmanship to his second son, Yeh Li-cheng, and stepped back as group chairman."
+title: 'Yeh Kuo-yi: Starting from Shilin Commercial High School to Building a Half-Century OEM/ODM Empire'
+description: "An electronics manufacturing founder who graduated from Shilin Commercial High School without a university degree. In 1975, he founded Inventec in Shilin, Taipei, starting with electronic calculators and leading the company from OEM to ODM. After navigating the PC and laptop waves, he pivoted toward enterprise-grade servers, becoming a core supplier for Facebook, Microsoft, and Google's cloud data centers, and was among the first to invest in AI servers. In 2023, he handed over the chairmanship to his second son, Yeh Li-cheng, stepping down to become the Group Chairman, having spent fifty years choosing the right direction at every critical turning point in the manufacturing industry."
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '科技與企業'
 tags:
   [
-    'Technology and Business',
+    'Technology & Business',
     'Inventec',
     'Electronics Manufacturing',
     'ODM',
     'Servers',
   ]
-readingTime: 7
+subcategory: '科技與企業'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: false
+readingTime: 7
 translatedFrom: 'People/葉國一.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: 'c7e3d69aad'
 sourceContentHash: 'sha256:736f2b6cf89c9093'
 sourceBodyHash: 'sha256:728aa85d9d44e89a'
-translatedAt: '2026-05-24T05:06:32+08:00'
+translatedAt: '2026-11-27T04:54:57.328352+00:00'
 ---
 
 # Yeh Kuo-yi: From Shilin Commercial High School to Building a Half-Century Manufacturing Empire

@@ -1,10 +1,11 @@
 ---
-title: "Chen San-huo: Handing Broken Vases to Fate, Keeping the Temple Roof's Jian-nian Alive"
-description: 'After the 921 Earthquake, Tainan artist Chen San-huo picked up a shattered vase in Fengyuan, transforming from a temple restoration apprentice into a "rooftop artist" who creates with broken ceramics. Instead of making Jian-nian look like the original, he let fragmentation, chance, and recycled materials redefine its shape.'
+title: 'Chen San-huo: Entrusting Broken Vases to Fate, Letting Temple Roof Ceramic Shard Mosaics Live On'
+description: 'Preserver of the nationally important traditional craft of ceramic shard mosaic, born in 1949 in Madou, Tainan. After graduating from junior high school, he followed his elder brother to learn temple ceramic shard mosaic, traveling across Taiwan to restore temples. In 2002, while restoring the Ciji Palace in Fengyuan after the 921 earthquake, he picked up discarded broken vases from the temple and assembled a Bodhidharma figure, developing the "using shards instead of cutting" method, letting the broken porcelain pieces determine their own shapes. In 2020, he was recognized by the Ministry of Culture as the first preserver of the ceramic shard mosaic craft; in 2021, he received the National Crafts Achievement Award. He also established the "Ceramic Shard Mosaic Family" to take on apprentices and participated in campus heritage education.'
 date: 2026-08-19
-subcategory: '藝術與設計'
 category: 'People'
-tags: ['Jian-nian', 'Traditional Craft', 'Chen San-huo', 'Temple Art']
+tags:
+  ['Ceramic shard mosaic', 'Traditional craft', 'Chen San-huo', 'Temple art']
+subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20
@@ -12,10 +13,10 @@ lastHumanReview: false
 readingTime: 12
 curation: 'incubating'
 translatedFrom: 'People/陳三火.md'
-sourceCommitSha: '8cc323782'
+sourceCommitSha: 'c7e3d69aad'
 sourceContentHash: 'sha256:eedc983e2ea9d824'
 sourceBodyHash: 'sha256:7efe5656906a3904'
-translatedAt: '2026-09-11T08:54:03+08:00'
+translatedAt: '2026-11-27T04:45:14.632350+00:00'
 ---
 
 > **30-Second Overview:** Chen San-huo was originally an apprentice in _Jian-nian_ (ceramic mosaic), following his brother to temples and sleeping on construction sites. In 2002, while restoring Fengyuan Ciji Temple after the 921 Earthquake, he picked up a discarded broken vase and accidentally created a statue of Bodhidharma. He later turned "shattering first, then finding the shape" into his signature method. This turning point resembles a craft paradox: to preserve _Jian-nian_, one cannot simply copy the past intact; sometimes, it must first lose its original form.

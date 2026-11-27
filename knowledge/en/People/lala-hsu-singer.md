@@ -1,7 +1,8 @@
 ---
-title: 'LaLa Hsu: From Nurse to Golden Melody Queen, the Singer Who Rewrote the Talent Show Script'
-description: "In 2008, LaLa Hsu quit her nursing job and secretly entered the third season of Super Star Avenue, nearly buying a bus ticket back to Taichung. 'Riding the White Horse' brought Taiwanese opera singing onto the talent show stage, and 2018's Psychologist won her Best Mandarin Female Vocalist and Best Mandarin Album at the Golden Melody Awards. From Giving to 'We Cannot Be Together Without Breaking Up,' she gradually transformed a life of being graded into her own subject."
+title: 'LaLa Hsu: From Nurse to Golden Melody Queen, Turning a Talent Show Victory into Creative Inspiration'
+description: 'A singer-songwriter who transitioned from nursing; in 2008, she left her hospital job and secretly applied for the third season of "Super Star Avenue," nearly buying a ticket back to Taichung during the audition before ultimately winning the championship. With "Riding a White Horse," she brought Taiwanese Opera vocal styles to the talent show stage. In 2018, she won Best Mandarin Female Singer and Best Mandarin Album at the Golden Melody Awards for "Psychology." In 2022 and 2023, she secured Best Single Producer and Best Composer, gradually turning a life once defined by scores into her own narrative.'
 date: 2026-04-26
+category: 'People'
 tags:
   [
     'People',
@@ -10,16 +11,15 @@ tags:
     'Super Star Avenue',
     'Mandopop',
     'Golden Melody Awards',
-    'Riding the White Horse',
-    'Drifting Island',
-    'Psychologist',
-    'Giving',
+    'Riding a White Horse',
+    'Lost Sandbar',
+    'Psychology',
+    'Give',
     'Chen Chien-chi',
     'Chen Chun-hao',
-    'Taiwanese opera',
+    'Taiwanese Opera',
   ]
-category: People
-subcategory: 音樂與表演
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-26
@@ -28,10 +28,10 @@ researchReport: 'reports/research/2026-04/徐佳瑩.md'
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/徐佳瑩.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'fc0798f30d'
 sourceContentHash: 'sha256:f9f02c4b8eb59a3c'
 sourceBodyHash: 'sha256:08e93141b3775e8d'
-translatedAt: '2026-05-01T08:56:11+08:00'
+translatedAt: '2026-11-27T04:48:02.580551+00:00'
 ---
 
 > **30-second overview:** LaLa Hsu is the winner of the third season of _Super Star Avenue_ in 2008, and one of the rare artists to journey from a Taiwanese television talent contest all the way to the creative core of the Golden Melody Awards. Before debuting she was a nurse. "Riding the White Horse" translated the vocal style of Taiwanese opera (_gezai xi_) — specifically the _Xue Ping-gui and Wang Pao-chuan_ opera — into Mandopop, and her debut album brought multiple self-composed contest songs into the record market. The 2018 album _Psychologist_ earned her both Best Mandarin Female Vocalist and Best Mandarin Album at the 29th Golden Melody Awards. In 2022 "None of the Above" won her Best Single Producer, and in 2023 "We Cannot Be Together Without Breaking Up" won Best Composer. She set out as a talent show champion and gradually transformed the life of being evaluated into her own creative subject.

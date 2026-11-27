@@ -1,22 +1,30 @@
 ---
-title: "A-mei: Puyuma Singer, from 1996's *Sisters* to 2024 Taipei Dome Five Shows"
-description: "Born August 9, 1972, in Taitung County's Beinan Township, A-mei is a Taiwanese Puyuma singer and one of the most successful female artists in Mandopop history. Her 1996 debut album *Sisters* sold 1.21 million copies in Taiwan and 4 million across Asia. In 2015, her 'Utopia' tour ran 10 consecutive shows at Taipei Arena. In December 2024, ASMeiR MAXXX at Taipei Dome spanned 5 shows with a production budget of NT$200 million and live hot-air balloon releases. Career cumulative sales exceed 50 million."
+title: 'A-Mei: Amis Singer, from 1996''s "Sister" to Five Shows at the Taipei Dome in 2024'
+description: 'An Amis singer born in 1972 in Dabaliuqiu Village, Beinan Township, Taitung. During her youth, she performed at restaurants with her family to help support their livelihood. Her debut album "Sister," produced by Chang Yu-sheng in 1996, sold 1.21 million copies in Taiwan and incorporated traditional Amis vocals; her career sales have exceeded 50 million copies. In 2000, she was banned in China for approximately four years after performing the national anthem at a presidential inauguration. In 2015, she held ten consecutive shows at the "Utopia" Taipei Arena concert series, and in 2024, she performed five consecutive shows at the Taipei Dome. She has long been a public supporter of LGBTQ+ rights.'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
+tags:
+  [
+    'Music',
+    'Indigenous Peoples',
+    'Amis',
+    'Diva',
+    'LGBTQ+ Equality',
+    'Pop Music',
+  ]
 subcategory: '音樂'
-tags: ['音樂', '原住民', '卑南族', '天后', '同志平權', '流行音樂']
-readingTime: 7
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-08
 lastHumanReview: true
-featured: false
+readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/張惠妹.md'
-sourceCommitSha: '22286539'
+sourceCommitSha: 'fc0798f30d'
 sourceContentHash: 'sha256:aebfe56ef8181ee0'
 sourceBodyHash: 'sha256:2548692a01191648'
-translatedAt: '2026-05-25T21:06:51Z'
+translatedAt: '2026-11-27T05:09:55.028174+00:00'
 ---
 
 # A-mei: Puyuma Diva, from 1996's _Sisters_ to 2024 Taipei Dome Five Shows
