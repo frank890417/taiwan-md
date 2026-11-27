@@ -113,6 +113,34 @@ Issue 面：**三條 fresh**（#2081-#2083，今晨 07:13 由 feedback-triage �
 | 有 fresh issue 的 cycle 至少修一件       | ✅ 三條 fresh：#2082 修掉六處（`248b97a9e5`），#2081／#2083 寫明判斷與下一步 |
 | 本機與 origin 無真分岔                   | ✅ 開場 `0 0`；班中 `0 1` 純落後（別班的心跳 commit），非分岔                |
 
+## 班末追加兩件（寫在收官之後，因為它們發生在收官之後）
+
+### 第二十一批（#2084）也合併了 — `97cd1f245f`
+
+收官 push 完才出現的 PR（建立於 00:45Z）。五篇是盧彥勳、莫那能、蔡瑞月、許淑淨、鍾肇政，全部不在當代黨派光譜上；照同一套閘門重跑（ARMED、十條紅旗零命中、120-160 帶內 136-147 字），合併。
+
+**這批是整個系列最好的一批**，而且好在同一個地方：收尾句回來了。〈莫那能〉收在「讀他的詩有兩種困難：物理上他看不見，政治上許多讀者也不願意看見」、〈蔡瑞月〉收在她自己那句「我好像失去了一個女兒。」、〈許淑淨〉把原本的數據流（`1991年5月9日生`、`身高159cm`、一串 kg）換成句子並收在禁藥問題留給她的位置。按時間看這批在我寫 #2080 那則建議之前就送出了，所以不是回應我，是投稿者自己走到的。
+
+### babel 的推送從 03:37 起卡住五個半小時，本班順手解開 — `3131b133cd`
+
+查 origin 與本機的 babel commit 落差時撞到的：origin 最新 babel commit 停在 00:01，而本機已經commit 到 09:03——**九小時的譯文產出沒有推上去**，而 `babel-push-every --watch` 的 process 一直活著（REFLEXES #38 (f) 存活 ≠ 生產的又一例）。
+
+根因在 `/tmp/babel-launchd.err`：
+
+```
+Auto-merging docs/semiont/MEMORY.md
+CONFLICT (content): Merge conflict in docs/semiont/MEMORY.md
+2026-11-27 03:37:44 🔴 sync：合併被擋，擋路的不是譯文孤兒，不動工作樹——需要人看
+```
+
+就是 LESSONS `push-loop-blocked-by-dirty-shared-file-waits-for-nobody` 逐字復發：它印了「需要人看」，然後五個半小時沒有人看。擋路的是 MEMORY.md 的錨點衝突（兩個 session 在同一個位置各插一列），不是譯文。
+
+**而本班的 `2a814c66dc`（把本機索引對齊 origin）已經順手把那個擋路的東西清掉了**——那個 commit 當時的動機只是「別讓 babel 下一次合併撞上我自己造的衝突」，結果清掉的是它從凌晨就卡在那裡的那一個。確認方式：`git merge-tree --write-tree main origin/main` 回 exit 0 零衝突。
+
+動手前先量了一次：incoming 92 檔 vs babel 當下 dirty 48 檔，**交集 0**，所以 merge 不會碰到它正在寫的任何檔（DNA #35／#46）。merge 後 `12 0` 純領先，push 過全站 article-health、UI 字串與模板層三道閘門，九小時的譯文與本班工作一起上 origin。
+
+**判準紀錄**：開場 `0 0`、班中一度 `3 9`／`9 14` 兩邊都 > 0。照交接那條零判斷動作先跑 `merge-tree` 而不是憑兩個數字啟動 Step 1.1b 十二步——回 exit 0，所以這不是 09-09 那種跨日真分岔，是在途狀態加一個卡住的錨點衝突，十二步會是錯的工具（還會為此凍結 babel）。**兩個數字都 > 0 是必要條件不是充分條件，merge-tree 才是判準。**
+
 ## Handoff 三態
 
 繼承 `2026-11-27-071316-twmd-feedback-triage.md` 與 `2026-11-26-084332-twmd-maintainer-daily.md`：
@@ -133,4 +161,7 @@ Issue 面：**三條 fresh**（#2081-#2083，今晨 07:13 由 feedback-triage �
 - ⏳ blocked（延續，席位：哲宇或營運機）本機飛輪 11-07～11-17 沉默十天的根因（已定位兩場整機停電，`#124` 重開機仍未做）。
 - [ ] pending（延續，席位：下一輪任何讀 divergence 的班，零判斷動作）先跑 `git merge-tree` 再決定要不要啟動 12 步，不要憑 `A B` 兩個數字直接進分岔修復。**本班讀數**：開場 `0 0`、班中 `0 1` 純落後，未觸發。
 
-本 session 新 handoff：五條新增（火雞肉飯三源查證、嘉義市剩四件、清治 claim 改寫、死連結報告印兩種拼法、OBSERVER-QUEUE #132），一條 retire（黃少雍死連結源頭已追到並修）。
+- [x] ~~retired by 本班 — babel 推送從 03:37 卡在 MEMORY.md 錨點衝突五個半小時（LESSONS `push-loop-blocked-by-dirty-shared-file-waits-for-nobody` 逐字復發）：本班的索引對齊 commit 已清掉擋路的衝突，merge-tree 驗 0 衝突、incoming 與 dirty 交集 0 後 merge + push，九小時譯文產出上 origin（`3131b133cd`）~~
+- [ ] pending（**本輪新增**，席位 `twmd-self-evolve-weekly`，參照 LESSONS `push-loop-blocked-by-dirty-shared-file-waits-for-nobody` 第 N 次）那句「🔴 需要人看」寫進 `/tmp/babel-launchd.err` 就結束了，沒有任何 routine 會讀它。本班是查 origin 與本機 babel commit 落差時偶然撞到的，不是任何儀器叫的。候選：`routine-status.sh` 或甦醒 groundtruth 多一行「本機最新 babel commit 與 origin 最新 babel commit 的時間差」——差超過一個夜班長度就亮燈。這個讀數不需要讀 log，兩個 `git log` 就算得出來。
+
+本 session 新 handoff：六條新增（火雞肉飯三源查證、嘉義市剩四件、清治 claim 改寫、死連結報告印兩種拼法、OBSERVER-QUEUE #132），一條 retire（黃少雍死連結源頭已追到並修）。
