@@ -1,16 +1,16 @@
 ---
-title: "Les Huang Brothers : derrière l'étiquette de la fraîcheur, une vérité et une tendresse imposées"
-description: "D'une vidéo de canular en 2017 à un coming-out forcé en 2020, découvrez le parcours des Huang Brothers, entre éthique médiatique et égalité des genres à Taïwan."
+title: "Les frères Huang : derrière l'étiquette de la fraîcheur, une vérité et une douceur imposées"
+description: "Composé du frère aîné Zhe Zhe et du cadet Wei Wei, ce duo taïwanais aux millions d'abonnés a débuté en 2017 avec une vidéo sur les nouilles instantanées des supérettes japonaises, établissant un record de 20 mois sans vacances. En 2020, suite au coming-out forcé du cadet par les médias, sa vidéo où il appelle sa mère en larmes devant la caméra a suscité un immense soutien à travers Taïwan, tout en ouvrant un débat sur l'éthique médiatique et la vie privée numérique. Depuis, ils ont exploré la musique, le bénévolat et le milieu scolaire, passant de jeunes farceurs à des créateurs assumant une responsabilité sociale."
 date: 2026-06-01
 category: 'People'
 tags:
   [
     'YouTuber',
-    'Huang Brothers',
-    'Wei-wei',
-    'Zhe-zhe',
-    'égalité des genres',
-    'culture taïwanaise',
+    'Les frères Huang',
+    'Wei Wei',
+    'Zhe Zhe',
+    'Égalité des genres',
+    'Culture taïwanaise',
   ]
 subcategory: '數位與媒體'
 author: 'Taiwan.md Contributors'
@@ -21,10 +21,10 @@ readingTime: 12
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/黃氏兄弟.md'
-sourceCommitSha: '7d41e6f686'
+sourceCommitSha: 'fd2854dbad'
 sourceContentHash: 'sha256:1016352970b6d5c8'
 sourceBodyHash: 'sha256:68b9398b0dec02a8'
-translatedAt: '2026-11-21T10:48:02+08:00'
+translatedAt: '2026-11-27T05:04:48.060101+00:00'
 ---
 
 > **Résumé en 30 secondes :**

@@ -1,10 +1,10 @@
 ---
-title: 'Professeur Hei Mao : De la carte graphique surchauffée à la restitution du trafic aux lecteurs, vingt ans après'
-description: "En été 2015, une carte graphique en surchauffe a conduit Professeur Hei Mao à abandonner les lives de jeux vidéo, laissant par accident une page de fans. De l'exposition de chats à la narration historique, en passant par le podcast et le « Journal de la création de Hei Mao », il a traversé Wuming, Facebook, YouTube et les newsletters, tout en se demandant : les créateurs servent-ils les lecteurs ou nourrissent-ils les algorithmes ?"
+title: "Professeur Chat Noir : d'une carte graphique surchauffée à vingt ans à rendre le trafic aux lecteurs"
+description: "Un créateur de médias indépendants taïwanais parti d'une page fan laissée par une diffusion de jeu ratée en 2015, qui a d'abord accumulé de l'interaction en partageant des photos de son chat, puis s'est tourné vers la narration historique grâce à des résumés sur la Seconde Guerre mondiale et l'Allemagne nazie, publiant « L'histoire, c'est la guerre ». La sécheresse oculaire l'a poussé à quitter le streaming pour le podcast, et depuis 2024, il partage via « Le Rapport de création du Chat Noir » ses expériences sur le trafic, les plateformes et la monétisation, interrogeant sans cesse si les créateurs servent les lecteurs ou nourrissent les algorithmes, et rendant des sujets complexes compréhensibles pour ceux qui veulent les écouter."
 date: 2026-08-16
 category: 'People'
+tags: ['Professeur Chat Noir', 'médias indépendants', 'narration historique']
 subcategory: '數位與媒體'
-tags: ['Professeur Hei Mao', 'médias indépendants', 'narration historique']
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16
@@ -12,10 +12,10 @@ lastHumanReview: false
 readingTime: 8
 curation: 'incubating'
 translatedFrom: 'People/黑貓老師.md'
-sourceCommitSha: '9d93b1d90'
+sourceCommitSha: 'fd2854dbad'
 sourceContentHash: 'sha256:098b16931924e6a4'
 sourceBodyHash: 'sha256:d62613e467add761'
-translatedAt: '2026-09-11T02:20:28+08:00'
+translatedAt: '2026-11-27T04:41:36.009134+00:00'
 ---
 
 # Professeur Hei Mao : De la carte graphique surchauffée à la restitution du trafic aux lecteurs, vingt ans après

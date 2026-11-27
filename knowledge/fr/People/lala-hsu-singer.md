@@ -1,36 +1,37 @@
 ---
-title: 'Lala Hsu : de soignante à reine des Golden Melody, celle qui a transformé un concours de chant en œuvre personnelle'
-description: "En 2008, Lala Hsu démissionne de son poste d'infirmière et s'inscrit en secret à la troisième saison de *Super Star Avenue*, faillissant acheter un billet de retour pour Taichung. *Riding a White Horse* introduit l'opéra taïwanais sur une scène de télé-crochet ; en 2018, *The Inner Me* lui vaut le titre de meilleure chanteureuse mandarine et meilleur album mandarine aux Golden Melody Awards ; avec *Gei* et *If We're Not Together, We Won't Part*, elle a peu à peu réécrit sa vie notée par les autres en ses propres partitions."
+title: 'LaLa Hsu : de infirmière à lauréate des Golden Melody Awards, celle qui a fait de sa victoire à un télé-crochet un sujet de création'
+description: "Chanteuse-autrice reconvertie d'infirmière, elle a quitté son travail à l'hôpital en 2008 et s'est inscrite en cachette à la troisième saison de « Super Star ». Lors de l'audition, elle a failli acheter un billet pour rentrer à Taichung, mais a fini par remporter le titre. « Riding a White Horse » a introduit le style chanté de l'opéra taïwanais sur la scène du télé-crochet ; en 2018, elle a remporté les Golden Melody Awards de la meilleure chanteuse mandarine et du meilleur album mandarin avec « The Inner Me », puis en 2022 et 2023 ceux du meilleur producteur de single et du meilleur compositeur, transformant peu à peu une vie notée en son propre sujet."
 date: 2026-04-26
+category: 'People'
 tags:
   [
-    'personnalité',
-    'Lala Hsu',
-    'Lala Hsu',
-    'Super Star Avenue',
-    'pop mandarine',
+    'Personnalité',
+    'LaLa Hsu',
+    'LaLa Hsu',
+    'Super Star',
+    'Mandopop',
     'Golden Melody Awards',
     'Riding a White Horse',
-    'Lost Desert Oasis',
+    'Lost Desert',
     'The Inner Me',
-    'Gei',
+    'Give',
     'Chen Chien-chi',
     'Chen Jun-hao',
-    'opéra taïwanais',
+    'Taiwanese opera',
   ]
-category: People
-subcategory: 音樂與表演
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-04-26
 lastHumanReview: false
+researchReport: 'reports/research/2026-04/徐佳瑩.md'
 curation: 'incubating'
 curationReason: 'unverified'
-translatedFrom: People/徐佳瑩.md
-sourceCommitSha: 'be13f045'
+translatedFrom: 'People/徐佳瑩.md'
+sourceCommitSha: 'fc0798f30d'
 sourceContentHash: 'sha256:f9f02c4b8eb59a3c'
 sourceBodyHash: 'sha256:08e93141b3775e8d'
-translatedAt: 2026-05-01T20:54:17+08:00
+translatedAt: '2026-11-27T04:51:23.447813+00:00'
 ---
 
 > **En 30 secondes :** Lala Hsu est la championne de la troisième saison de _Super Star Avenue_ (超級星光大道) en 2008, et l'une des rares chanteureuses issues de la télé-crochet taïwanaise à s'être imposée comme figure centrale de la création musicale aux Golden Melody Awards. Avant ses débuts, elle était infirmière. _Riding a White Horse_ transpose l'opéra taïwanais _Xue Pinggui et Wang Baochuan_ en chanson pop mandarine ; son premier album en 2009 reprend plusieurs compositions originales nées pendant le concours. En 2018, _The Inner Me_ lui vaut simultanément le prix de meilleure chanteureuse mandarine et meilleur album mandarine lors de la 29ᵉ cérémonie des Golden Melody Awards ; en 2022, _None of the Above_ remporte le prix de meilleur producteur de single, et en 2023, _If We're Not Together, We Won't Part_ celui de meilleur compositeur. Partie d'un concours de chant, elle a peu à peu réécrit sa vie notée par les autres en ses propres partitions.

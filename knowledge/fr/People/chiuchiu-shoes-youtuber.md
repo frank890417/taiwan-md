@@ -1,15 +1,15 @@
 ---
-title: 'Chiu-chiu Shoe : Supprimer les vidéos de traduction les plus populaires pour devenir un créateur de connaissances à part entière'
-description: "En 2013, Hsieh Jen-chieh, dans un dortoir de l'Université Centrale, a d'abord traduit des mèmes étrangers avant de supprimer ses anciennes œuvres les plus virales pour réapprendre à construire sa propre chaîne. Il a progressivement transformé sa formation en chimie, la lecture d'articles scientifiques, la conception de scripts et la vie à Taichung en une méthode taïwanaise de création de connaissances fonctionnant sur le long terme."
+title: 'Jiu Jiu Shoes : supprimer sa vidéo de traduction la plus virale pour enfin devenir son propre créateur de connaissances'
+description: "Créateur de connaissances diplômé du département de chimie de l'Université centrale, il a débuté dans son dortoir universitaire en traduisant des mèmes étrangers. Plus tard, pour se tenir debout en tant que créateur, il a supprimé ses œuvres de traduction qui généraient le plus de trafic, affrontant une période de transition de 20 mois. Il est devenu viral grâce à une vidéo sur la myoglobine du steak, transformant sa recherche, l'écriture de scénarios et son auto-apprentissage en méthodes de travail pour sa chaîne. Ancré depuis longtemps à Taichung, il est passé du tournage en solo à un studio et à l'émission de contes « Jiu Du »."
 date: 2026-08-17
 category: 'People'
 tags:
   [
-    'Chiu-chiu Shoe',
-    'Hsieh Jen-chieh',
-    'YouTuber',
-    'vulgarisation scientifique',
-    'médias indépendants',
+    'Jiu Jiu Shoes',
+    'Xie Renjie',
+    'YouTubeur',
+    'Vulgarisation scientifique',
+    'Médias indépendants',
   ]
 subcategory: '網路文化'
 author: 'Taiwan.md Contributors'
@@ -24,10 +24,10 @@ rationale:
   where_it_hedges: '對訂閱數、收入門檻與工作室條件均標明報導年份，避免把時點資料寫成現在狀態。'
   whos_pushing_back: '保留業配、家庭曝光與內容品質的外部討論，不把人物寫成沒有矛盾的成功模板。'
 translatedFrom: 'People/啾啾鞋.md'
-sourceCommitSha: '9c63d8227'
+sourceCommitSha: 'fd2854dbad'
 sourceContentHash: 'sha256:4ae6e15b4e3eea8f'
 sourceBodyHash: 'sha256:09d31f29d2008420'
-translatedAt: '2026-09-11T18:15:11+08:00'
+translatedAt: '2026-11-27T04:33:53.776651+00:00'
 ---
 
 > **Aperçu en 30 secondes** : Chiu-chiu Shoe a d'abord capté l'attention en traduisant des mèmes étrangers, puis a supprimé ses anciennes œuvres les plus populaires, transformant sa formation en chimie en une chaîne de connaissances dédiée à la recherche de données, à l'explication et à l'auto-apprentissage continu. C'est l'histoire d'un auteur qui a reculé face au trafic pour reprendre le contrôle de son sujet créatif.

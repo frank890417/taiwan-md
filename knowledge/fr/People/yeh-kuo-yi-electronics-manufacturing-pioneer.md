@@ -1,20 +1,27 @@
 ---
-title: "Yeh Kuo-yi : des origines à la Shihlin Commercial High School à la construction d'un empire de sous-traitance semi-centenaire"
-description: "Né le 21 avril 1941, Yeh Kuo-yi n'a pas fait d'études universitaires. Parti de la Shihlin Commercial High School, il a fondé Inventec à Shihlin en 1975. Démarrant avec les calculatrices électroniques, il a conduit l'entreprise au rang de fabricant de serveurs parmi les plus importants au monde, fournissant la puissance de calcul cloud de Facebook, Microsoft et Google. En 2023, il a cédé la présidence du conseil d'administration à son deuxième fils, Yeh Li-cheng, et est devenu président du groupe."
+title: "Yeh Kuo-yi : Des débuts au lycée commercial de Shilin à la création d'un empire de la sous-traitance sur un demi-siècle"
+description: "Fondateur d'une entreprise de sous-traitance électronique diplômé du lycée commercial de Shilin, sans cursus universitaire. En 1975, il fonde Inventec à Shilin, Taipei, en commençant par les calculatrices électroniques. Il a mené l'entreprise de l'OEM vers l'ODM, puis s'est tourné vers les serveurs d'entreprise après les vagues du PC et de l'ordinateur portable, devenant un fournisseur clé des centres de données cloud de Facebook, Microsoft et Google, tout en étant l'un des premiers à investir dans les serveurs IA. En 2023, il a transmis la présidence à son fils cadet, Yeh Li-cheng, pour devenir président du groupe, après cinquante ans passés à choisir la bonne direction à chaque tournant décisif de l'industrie de la sous-traitance."
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
+tags:
+  [
+    'Technologie et entreprise',
+    'Inventec',
+    'Sous-traitance électronique',
+    'ODM',
+    'Serveur',
+  ]
 subcategory: '科技與企業'
-tags: ['科技與企業', '英業達', '電子代工', 'ODM', '伺服器']
-readingTime: 7
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: false
+readingTime: 7
 translatedFrom: 'People/葉國一.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: 'c7e3d69aad'
 sourceContentHash: 'sha256:736f2b6cf89c9093'
 sourceBodyHash: 'sha256:728aa85d9d44e89a'
-translatedAt: '2026-05-24T05:06:33+08:00'
+translatedAt: '2026-11-27T04:55:38.510095+00:00'
 ---
 
 # Yeh Kuo-yi : des origines à la Shihlin Commercial High School à la construction d'un empire de sous-traitance semi-centenaire

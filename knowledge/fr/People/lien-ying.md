@@ -1,32 +1,34 @@
 ---
-title: "Lien Ying : six ans, de « le niveau de danse qu'un girl group devrait avoir » à un EP solo"
-description: "En 2020, une jeune femme de Taichung, âgée de vingt et un ans, déclare à Pan Weibo sur la scène d'une émission de télé-crochet : « Je veux que tout le monde sache quel est le niveau de danse qu'un girl group devrait avoir. » Six ans plus tard, elle sort un EP solo, ses fans financent collectivement un spectacle pour son anniversaire à Dadaocheng, et des publicités de soutien sont diffusées simultanément dans trois pays. Elle est en train de tenir cette promesse."
+title: "Erin : Six ans, de « l'exigence de danse d'un girl group » à son EP solo"
+description: "Chanteuse et danseuse issue de la scène des girl groups taïwanais, elle a étudié le ballet, les danses folkloriques et les danses chinoises dès la deuxième année de primaire, avant de se tourner vers le hip-hop en lycée. En 2020, lors de l'émission de télé-réalité DD52, elle a déclaré au mentor Will Pan : « Je veux que tout le monde voie le niveau de danse qu'un girl group doit avoir ». Elle a ensuite débuté en tant que danseuse principale au sein du groupe HUR+, après avoir fait partie de l'équipe finaliste Storm Spades. En 2025, tout en poursuivant ses activités de groupe, elle sort son EP solo « EZ », explorant des styles hip-hop et R&B avec des éléments en taïwanais, devenant ainsi la première membre d'un girl group taïwanais à mener de front une carrière de groupe et de soliste."
 date: 2026-04-23
+category: 'People'
 tags:
-  - Lien Ying
-  - ERIN
-  - HUR+
-  - DD52
-  - girl group
-  - idole
-  - musique taïwanaise
-  - danse
-  - hip-hop
-  - solo
+  [
+    'Erin',
+    'ERIN',
+    'HUR+',
+    'DD52',
+    'girl group',
+    'idole',
+    'musique taïwanaise',
+    'danse',
+    'hip-hop',
+    'solo',
+  ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
-readingTime: 10
+featured: false
 lastVerified: 2026-04-23
 lastHumanReview: false
-category: People
-featured: false
+readingTime: 10
 curation: 'incubating'
 curationReason: 'unverified'
-translatedFrom: People/連穎.md
-sourceCommitSha: 'be13f045'
+translatedFrom: 'People/連穎.md'
+sourceCommitSha: 'c7e3d69aad'
 sourceContentHash: 'sha256:5f1555ccc3c4f606'
 sourceBodyHash: 'sha256:3765efbdda716be7'
-translatedAt: 2026-05-01T20:54:17+08:00
+translatedAt: '2026-11-27T04:46:11.534873+00:00'
 ---
 
 > **En 30 secondes :** Lien Ying (Erin), née en 1999 à Taichung, commence le ballet, la danse folklorique et la danse chinoise dès le CE2, puis passe au hip-hop au lycée. En 2020, elle participe à _Diamond Girls 52_ (DD52) et affronte son mentor Pan Weibo lors du deuxième épisode : « Je veux que tout le monde sache quel est le niveau de danse qu'un girl group devrait avoir. » Cette phrase devient sa signature. Son équipe, les Storm Spades, termine deuxième du concours et débute sous le nom de [HUR+](/fr/people/hur-plus-band), dont elle est la danseuse principale. En 2025, elle sort son premier EP solo, _EZ_, aux sonorités hip-hop / R&B avec des éléments en taïwanais, délibérément loin du registre pop ballade consensuel. Le jour de son anniversaire en 2026, ses fans financent collectivement un spectacle à Dadaocheng où elle interprète en avant-première son nouveau titre _Une seconde de retard_. Elle mène de front les activités de groupe et sa carrière solo. À Taïwan, elle est la première membre d'un girl group à procéder ainsi.

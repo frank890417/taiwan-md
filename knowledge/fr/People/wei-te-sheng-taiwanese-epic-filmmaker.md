@@ -1,29 +1,29 @@
 ---
-title: 'Wei Te-sheng : né à Yongkang en 1969, du succès au box-office de *Cape No. 7* à la compétition officielle de Venise'
-description: "Né le 16 août 1969 dans le canton de Yongkang, comté de Tainan (aujourd'hui district de Yongkang, ville de Tainan). Diplômé en génie électrique du Far East Junior College (aujourd'hui Far East University of Science and Technology). En 2008, *Cape No. 7* réalise un box-office d'environ 530 millions de dollars taïwanais (record du cinéma taïwanais). En 2011, *Seediq Bala* est sélectionné en compétition officielle à la 68ᵉ Mostra de Venise pour le Lion d'or, et remporte le prix du meilleur long métrage narratif à la 48ᵉ cérémonie des Golden Horse Awards. Prépare actuellement le projet épique *Trilogie de Taïwan*."
+title: "Wei Te-sheng : de Yongkang 1969 et du succès au box-office de « Café au lait » à la compétition principale de Venise, l'épopée d'un réalisateur taïwanais"
+description: "Réalisateur de cinéma taïwanais, né en 1969 à Yongkang, Tainan. Après avoir obtenu un diplôme en génie électrique au Far Eastern University of Technology, il a fait ses débuts dans le milieu du cinéma en tant qu'assistant réalisateur. En 2008, son film auto-produit et réalisé « Café au lait » (Cape No. 7) a atteint environ NT$ 530 millions au box-office, redonnant ainsi confiance au public envers les récits taïwanais. En 2011, son film « Seediq Bale », inspiré de l'incident de Wushe, a été sélectionné en compétition officielle à la 68e Mostra de Venise et a remporté le prix du meilleur film de fiction au 48e Golden Horse Awards. Il prépare actuellement un projet épique intitulé « Trilogie taïwanaise », dont le budget total est estimé à plus de NT$ 4,5 milliards."
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '電影與戲劇'
 tags:
   [
-    '電影與戲劇',
-    '導演',
-    '台灣電影',
-    '原住民文化',
-    '海角七號',
-    '賽德克巴萊',
-    '台南',
+    'Cinéma et théâtre',
+    'Réalisateur',
+    'Cinéma taïwanais',
+    'Culture autochtone',
+    'Café au lait',
+    'Seediq Bale',
+    'Tainan',
   ]
-readingTime: 7
+subcategory: '電影與戲劇'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: false
+readingTime: 7
 translatedFrom: 'People/魏德聖.md'
-sourceCommitSha: '8f070a88'
+sourceCommitSha: 'c7e3d69aad'
 sourceContentHash: 'sha256:c53d9ecd803bd8cd'
 sourceBodyHash: 'sha256:9fd756dd61905363'
-translatedAt: '2026-06-11T16:39:06Z'
+translatedAt: '2026-11-27T05:02:52.742561+00:00'
 ---
 
 # Wei Te-sheng : né à Yongkang en 1969, du succès au box-office de _Cape No. 7_ à la compétition officienne de Venise

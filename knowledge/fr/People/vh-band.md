@@ -1,32 +1,33 @@
 ---
-title: 'VH (Vast & Hazy) : quinze ans de recalibrages pour le « groupe-exutoire »'
-description: "Formés en 2011 lors du concours Jinshao de l''université Tamkang, mis en pause en 2017, revenus en duo en 2017, trois fois nommés pour le meilleur duo vocal aux Golden Melody Awards. À une époque où la scène indépendante taiwanaise privilégiait le bruit, Vast & Hazy ont choisi d''être un refuge pour l''anxiété sans nom — les fans les ont spontanément baptisés « groupe-exutoire ». En 2026, Yiqi annonce son passage derrière la scène ; Kaka porte désormais ce nom vers l''avant."
+title: "VH (Vast & Hazy) : Réajustement de la direction après quinze ans en tant que « groupe d'exutoire »"
+description: "Duo indépendant taïwanais formé en 2011 lors du Golden Sound Awards à l'Université Tamkang, composé de KaKa et Yi Qi. Après une pause en 2014, le groupe est revenu sous forme de duo en 2017 et a été nommé à trois reprises pour le Golden Melody Award du meilleur groupe vocal. Leurs voix douces portent l'anxiété et la perte, refusant de figer le sens des paroles pour laisser chaque chanson devenir un réceptacle d'émotions, ce qui leur vaut le surnom spontané de « groupe d'exutoire » par leurs fans. En 2026, Yi Qi a annoncé son passage en coulisses, marquant l'entrée du groupe dans une nouvelle phase centrée sur KaKa pour continuer à ajuster sa trajectoire."
 date: 2026-04-19
-author: 'Taiwan.md'
-category: People
-subcategory: 音樂與表演
+category: 'People'
 tags:
   [
     'VH',
     'Vast & Hazy',
     'musique indépendante',
-    'Kaka',
+    'KaKa',
     'Yan Jingxuan',
-    'Yiqi',
-    'Lin Yiqi',
+    'Yi Qi',
+    'Lin Yi Qi',
     'Golden Melody Awards',
-    'groupe-exutoire',
+    "groupe d'exutoire",
     'emo rock',
   ]
-readingTime: 12
+subcategory: '音樂與表演'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-19
 lastHumanReview: true
-featured: false
-translatedFrom: People/VH.md
-sourceCommitSha: '4b6d28c5'
+researchReport: 'reports/research/2026-04/VH.md'
+readingTime: 12
+translatedFrom: 'People/VH.md'
+sourceCommitSha: 'fd2854dbad'
 sourceContentHash: 'sha256:12627c86b39f3cf2'
 sourceBodyHash: 'sha256:cac852a1ab84bcac'
-translatedAt: 2026-05-01T22:19:06+08:00
+translatedAt: '2026-11-27T05:08:23.265312+00:00'
 ---
 
 > **En 30 secondes :** VH (Vast & Hazy) est un duo indépendant taiwanais formé de Kaka (Yan Jingxuan) et Yiqi (Lin Yiqi), constitué en 2011 lors du concours Jinshao de l''université Tamkang, et trois fois nommé pour le meilleur duo vocal aux Golden Melody Awards (2019, 2022, 2025). Leur philosophie créative enveloppe des observations sur la condition humaine dans des voix douces, émergeant à contre-courant de la scène indépendante dominée par le rock politique des années 2010. Les fans les ont spontanément baptisés « groupe-exutoire ». En avril 2026, après le concert annuel « Mai Xing » au Taipei SUB LIVE, Yiqi a annoncé un recentrage de son rôle vers la production en coulisses, ouvrant une nouvelle phase centrée sur Kaka.
