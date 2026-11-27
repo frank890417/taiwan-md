@@ -1,15 +1,15 @@
 ---
-title: 'Lin Hiến Đường: Biến một căn phòng sách thành cửa ngõ công cộng của người Đài Loan'
-description: '1881 — 1956, sinh ra trong gia đình Lâm (Lin) tại Sương Phượng (Misty Peak, Wufeng), từng dưới sự đề xuất của Liang Quanqiu (Liang Qichao) chuyển sang chống Nhật không vũ khí, lãnh đạo phong trào xin thành lập Hội đồng Đài Loan, đồng thời biến hành trình du thế thành bài giảng thế giới cho người Đài Loan. Đây không chỉ là di sản của một gia tộc, mà là cách mà giáo dục, văn hóa và tự trị được kết nối lại với nhau.'
+title: 'Lâm Hiến Đường: Biến một thư phòng thành cửa ngõ công cộng của người Đài Loan'
+description: 'Lãnh tụ phong trào kháng Nhật phi vũ trang thời kỳ Nhật trị, sinh năm 1881 tại gia đình Lâm Vũ Phong. Năm 1907, sau khi đàm thoại bằng văn thư với Lương Khải Siêu tại Nara, Nhật Bản, ông đầu mình vào các hoạt động văn hóa và chính trị. Từ năm 1921, ông lãnh đạo phong trào kiến nghị thành lập Nghị viện Đài Loan, trong 14 năm đã trình lên 15 lần kiến nghị, và được bầu làm Tổng lý Hội Văn hóa Đài Loan. Năm 1927, ông bắt đầu chuyến đi quanh thế giới kéo dài 378 ngày, đặt chân đến 60 thành phố của 16 quốc gia, biến những thấy nghe ở nước ngoài thành tư duy về tự trị cho Đài Loan; ông cũng kêu gọi quyên góp thành lập Trường Trung học Taichung, biến nguồn lực của gia đình từng bước thành các công trình công cộng.'
 date: 2026-08-15
 category: 'People'
 tags:
   [
-    'Lin Hiến Đường',
-    'Gia đình Lâm tại Sương Phượng',
-    'Phong trào xin thành lập Hội đồng Đài Loan',
+    'Lâm Hiến Đường',
+    'Gia đình Lâm Vũ Phong',
+    'Phong trào kiến nghị thành lập Nghị viện Đài Loan',
     'Hội Văn hóa Đài Loan',
-    'Chống Nhật không vũ khí',
+    'Kháng Nhật phi vũ trang',
   ]
 subcategory: '政治與民主'
 author: 'Taiwan.md Contributors'
@@ -19,17 +19,17 @@ lastHumanReview: false
 readingTime: 10
 curation: 'incubating'
 translatedFrom: 'People/林獻堂.md'
-sourceCommitSha: '7fa2d9630'
-sourceContentHash: 'sha256:b3b7816f9ed81e72'
+sourceCommitSha: 'c7e3d69aad'
+sourceContentHash: 'sha256:bbd1e8150a03bde0'
 sourceBodyHash: 'sha256:fd90a845acbf3ca4'
-translatedAt: '2026-09-17T06:43:40+08:00'
+translatedAt: '2026-11-27T06:29:49.590128+00:00'
 ---
 
-> **30 giây tóm tắt:** Lin Hiến Đường sinh năm 1881, thuộc dòng dõi gia đình Lâm tại Sương Phượng, nhưng không giới hạn tài sản gia đình chỉ trong nội bộ gia tộc. Năm 1907, ông gặp Liang Quanqiu (Liang Qichao), sau đó tham gia các phong trào văn hóa, giáo dục và chính trị. Từ năm 1921, ông lãnh đạo phong trào xin thành lập Hội đồng Đài Loan, trong vòng 14 năm nộp 15 lần đơn xin. Năm 1927, ông dành 378 ngày đi qua 16 quốc gia và 60 thành phố. Điều ông tìm kiếm không chỉ là cảnh quan nước ngoài, mà là cách mà người Đài Loan có thể đạt được khả năng tự trị. [^1] [^2] [^3]
+> **Tóm tắt 30 giây:** Lâm Hiến Đường, sinh năm 1881, xuất thân gia đình Lâm Vụ Phong, nhưng không giữ nguồn lực gia đình chỉ trong nội bộ gia đình. Ông đầu tiên gặp Lương Khải Siêu vào năm 1907, sau đó đầu mình vào các phong trào văn hóa, giáo dục và chính trị, từ năm 1921 lãnh đạo phong trào kiến nghị thành lập Hội đồng Đài Loan, trong 14 năm提出 15 lần kiến nghị. Năm 1927, ông lại dành 378 ngày đi qua 16 quốc gia, 60 thành phố; những gì ông muốn nhìn chưa bao giờ chỉ là phong cảnh nước ngoài, mà là khả năng người Đài Loan làm sao đạt được tự trị.[^1] [^2] [^3]
 
-![Portrait of Lin Hsien-tang](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/%E8%87%BA%E7%81%A3%E6%96%87%E5%8C%96%E8%88%87%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E9%A0%98%E8%A2%96%E6%9E%97%E7%8D%BB%E5%A0%82_Lin_Hsien-tang%2C_Leader_of_Taiwanese_Culture_and_Democracy_Movement.jpg/500px-%E8%87%BA%E7%81%A3%E6%96%87%E5%8C%96%E8%88%87%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E9%A0%98%E8%A2%96%E6%9E%97%E7%8D%BB%E5%A0%82_Lin_Hsien-tang%2C_Leader_of_Taiwanese_Culture_and_Democracy_Movement.jpg)
+![Chân dung Lâm Hiến Đường](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/%E8%87%BA%E7%81%A3%E6%96%87%E5%8C%96%E8%88%87%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E9%A0%98%E8%A2%96%E6%9E%97%E7%8D%BB%E5%A0%82_Lin_Hsien-tang%2C_Leader_of_Taiwanese_Culture_and_Democracy_Movement.jpg/500px-%E8%87%BA%E7%81%A3%E6%96%87%E5%8C%96%E8%88%87%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E9%A0%98%E8%A2%96%E6%9E%97%E7%8D%BB%E5%A0%82_Lin_Hsien-tang%2C_Leader_of_Taiwanese_Culture_and_Democracy_Movement.jpg)
 
-_Ảnh: Portrait của Lin Hsien-tang; Public domain, tệp gốc và thông tin cấp phép tại [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E8%87%BA%E7%81%A3%E6%96%87%E5%8C%96%E8%88%87%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E9%A0%98%E8%A2%96%E6%9E%97%E7%8D%BB%E5%A0%82_Lin_Hsien-tang,_Leader_of_Taiwanese_Culture_and_Democracy_Movement.jpg). [^11]_
+_Ảnh: Chân dung Lâm Hiến Đường; Miền công cộng, tệp gốc và giải thích cấp phép xem tại [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E8%87%BA%E7%81%A3%E6%96%87%E5%8C%96%E8%88%87%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E9%A0%98%E8%A2%96%E6%9E%97%E7%8D%BB%E5%A0%82_Lin_Hsien-tang,_Leader_of_Taiwanese_Culture_and_Democracy_Movement.jpg).[^11]_
 
 ## Năm 1907, một cuộc trao đổi bằng bút tại Nara
 
@@ -133,34 +133,34 @@ Kết thúc này quan trọng vì nó giúp Lin Hsien-tang không chỉ là "cha
 
 ## Tài liệu tham khảo
 
-[^1]: [Tổng thống tham dự buổi trà kỷ niệm 60 năm ký ức văn hóa của Lin Hsien-tang](https://www.president.gov.tw/NEWS/19865) — Tài liệu tin tức hoạt động năm 2015 của Tổng thống phủ, tổng hợp cách trình bày chính thức của Lin Hsien-tang với Liang Quanqiu, Hội Văn hóa Đài Loan, các dự án giáo dục và phong trào xin thành lập Hội đồng cũng như hoạt động sau chiến tranh.
+[^1]: [Tổng thống tham dự 「Buổi trưa nhạc hội kỷ niệm văn hóa 60 năm ngày mất của ông Lâm Hiến Đường」](https://www.president.gov.tw/NEWS/19865) — Bản tin hoạt động năm 2015 của Phủ Tổng thống, tổng hợp lời kể chính thức về Lâm Hiến Đường với Lương Khởi Siêu, Hội Văn hóa Đài Loan, sự nghiệp giáo dục, phong trào kiến nghị thành lập Nghị viện Đài Loan và hoạt động sau chiến tranh.
 
-[^2]: [Triển lãm Lin Hsien-tang và gia đình Lâm tại Sương Phượng](https://wwwacc.ntl.edu.tw/fp.asp?fpage=cp&xItem=56548&ctNode=1540&mp=5) — Trang triển lãm của Thư viện Quốc gia Đài Loan, cung cấp tóm tắt về gia đình, giáo dục tư nhân, kinh doanh, chính trị, văn hóa, giáo dục và hoạt động từ thiện xã hội của Lin Hsien-tang.
+[^2]: [Triển lãm đặc biệt về ông Lâm Hiến Đường và gia đình Lâm Vụ Phong](https://wwwacc.ntl.edu.tw/fp.asp?fpage=cp&xItem=56548&ctNode=1540&mp=5) — Trang triển lãm đặc biệt của Thư viện Quốc gia Đài Loan, cung cấp tóm tắt triển lãm về gia thế, giáo dục tư thục, gia nghiệp, chính trị, văn hóa, giáo dục và hoạt động từ thiện xã hội của Lâm Hiến Đường.
 
-[^3]: [Sự kiện kết thúc phong trào xin thành lập Hội đồng Đài Loan vào ngày 2 tháng 9 năm 1934](https://tncmmm.gov.taipei/Content_List.aspx?n=2A7801BEF42FD19F) — Lịch sử lớn của Nhà hát Văn hóa Đài Loan, chi tiết lộ các lựa chọn đường đi, áp lực chính trị, số lần nộp đơn và cuộc họp kết thúc của phong trào xin từ năm 1921 đến năm 1934.
+[^3]: [Ngày 2 tháng 9 năm 1934 phong trào kiến nghị thành lập Nghị viện Đài Loan chấm dứt](https://tncmmm.gov.taipei/Content_List.aspx?n=2A7801BEF42FD19F) — Ni niên biểu của Bảo tàng Kỷ niệm phong trào Văn hóa mới Đài Loan tại thành phố Đài Bắc, chi tiết lựa chọn lộ trình, áp lực chính trị, số lần và hội nghị chấm dứt của phong trào kiến nghị từ 1921 đến 1934.
 
-[^4]: [Tổng thống tham dự buổi trà kỷ niệm 60 năm ký ức văn hóa của Lin Hsien-tang](https://www.president.gov.tw/NEWS/19865) — Bản ghi âm đầy đủ của lời nói chính thức, ghi nhận ảnh hưởng hai lần của Liang Quanqiu tới Lin Hsien-tang, quy mô Hội Văn hóa, các trường học, đoàn tưởng nhớ và hoạt động trong thời gian Hai Tám.
+[^4]: [Tổng thống tham dự 「Buổi trưa nhạc hội kỷ niệm văn hóa 60 năm ngày mất của ông Lâm Hiến Đường」](https://www.president.gov.tw/NEWS/19865) — Toàn văn phát biểu chính thức, ghi lại Lương Khởi Siêu tác động hai lần đến Lâm Hiến Đường, quy mô Hội Văn hóa, thành lập trường học, đoàn kính trọng sau chiến tranh và hoạt động trong sự kiện 228.
 
-[^5]: [Taiwan in Time: A political activist’s journey to the West](https://www.taipeitimes.com/News/feat/archives/2018/12/09/2003705767) — Chủ đề lịch sử bằng tiếng Anh của Taipei Times, dựa trên nhật ký, nhật ký hành trình và nghiên cứu, tổng hợp hành trình du thế giới 378 ngày của Lin Hsien-tang từ năm 1927 đến năm 1928 và các quan sát chính trị của ông.
+[^5]: [Taiwan in Time: Hành trình phương Tây của một nhà hoạt động chính trị](https://www.taipeitimes.com/News/feat/archives/2018/12/09/2003705767) — Chuyên đề lịch sử tiếng Anh của «Taipei Times», dựa trên nhật ký, ký hành trình và nghiên cứu tổng hợp hành trình quanh thế giới 378 ngày năm 1927-1928 của Lâm Hiến Đường và quan sát chính trị của ông.
 
-[^6]: [Lin Hsien-tang and resistance and adaptation in 20th century Taiwan](https://figshare.utas.edu.au/articles/thesis/Lin_Hsien-tang_and_resistance_and_adaptation_in_20th_century_Taiwan/23252669) — Tóm tắt luận án tiến sĩ công khai tại Đại học Tasmanian, Úc, phân tích sự thay đổi của Đài Loan dưới sự cai trị của Hoàng quyền Thanh, Nhật và Chính phủ Quốc dân thông qua kinh nghiệm sống và hoạt động của Lin Hsien-tang.
+[^6]: [Lâm Hiến Đường và sự kháng cự cùng thích ứng tại Đài Loan thế kỷ 20](https://figshare.utas.edu.au/articles/thesis/Lin_Hsien-tang_and_resistance_and_adaptation_in_20th_century_Taiwan/23252669) — Tóm tắt luận án tiến sĩ công khai của Đại học Tasmania Úc, phân tích biến đổi lịch sử Đài Loan qua trải nghiệm cuộc đời Lâm Hiến Đường trải qua triều Thanh, Nhật Bản và Chính phủ Quốc dân.
 
-[^7]: [Narrative, Representation, Enlightenment — Cultural Significance of Lin Hsien-tang’s 1927 Diary and "Travels Around the World"](https://scholar.lib.ntnu.edu.tw/zh/publications/%E6%95%98%E4%BA%8B%E5%86%8D%E7%8F%BE%E5%95%9F%E8%92%99%E6%9E%97%E7%8D%BB%E5%A0%82%E4%B8%80%E4%B9%9D%E4%BA%8C%E4%B8%83%E5%B9%B4%E6%97%A5%E8%A8%98%E5%8F%8A%E7%92%B0%E7%90%83%E9%81%8A%E8%A8%98%E7%9A%84%E6%96%87%E5%8C%96%E6%84%8F%E7%BE%A9/) — Trang kết quả học thuật của Đại học Quốc gia Đài Loan, cung cấp tóm tắt nghiên cứu về nhật ký và "Hành trình du thế giới" của Lin Hsien-tang trong các khía cạnh tự kể, ký ức thế giới và khơi mở văn hóa.
+[^7]: [Sự kể chuyện, tái hiện, khai蒙─Ý nghĩa văn hóa của nhật ký năm 1927 và «Ký hành trình quanh thế giới» của Lâm Hiến Đường](https://scholar.lib.ntnu.edu.tw/zh/publications/%E6%95%98%E4%BA%8B%E5%86%8D%E7%8F%BE%E5%95%9F%E8%92%99%E6%9E%97%E7%8D%BB%E5%A0%82%E4%B8%80%E4%B9%9D%E4%BA%8C%E4%B8%83%E5%B9%B4%E6%97%A5%E8%A8%98%E5%8F%8A%E7%92%B0%E7%90%83%E9%81%8A%E8%A8%98%E7%9A%84%E6%96%87%E5%8C%96%E6%84%8F%E7%BE%A9/) — Trang thành quả học thuật của Đại học Sư phạm Quốc gia Đài Loan, cung cấp tóm tắt nghiên cứu về nhật ký và «Ký hành trình quanh thế giới» của Lâm Hiến Đường trong tự sự kiện, ký ức thế giới và khai蒙 văn hóa.
 
-[^8]: [Narrative, Representation, Enlightenment — Cultural Significance of Lin Hsien-tang’s 1927 Diary and "Travels Around the World"](https://www.airitilibrary.com/Article/Detail/16081692-200812-201206060006-201206060006-65-91) — Trang chi tiết bài viết trong "Tạp chí Văn hóa Đài Loan" số 13, cung cấp tiêu đề nghiên cứu, tác giả, trang số tạp chí và bối cảnh học thuật về văn viết hành trình của Lin Hsien-tang.
+[^8]: [Sự kể chuyện, tái hiện, khai蒙─Ý nghĩa văn hóa của nhật ký năm 1927 và «Ký hành trình quanh thế giới» của Lâm Hiến Đường](https://www.airitilibrary.com/Article/Detail/16081692-200812-201206060006-201206060006-65-91) — Trang chi tiết bài báo kỳ 13 của «Tạp chí Văn học Đài Loan», cung cấp tiêu đề nghiên cứu, tác giả, trang tạp chí và bối cảnh học thuật về viết hành trình của Lâm Hiến Đường.
 
-[^9]: [Lin Hsien-Tang’s Taiwanese Home Rule Movement as Inspired by the Irish Model](https://eprints.lse.ac.uk/124781/2/14816169_Taiwan_Culture_Research_Programme_Taiwan_in_Comparative_Perspective_vol_4.pdf) — Các ấn phẩm nghiên cứu tại Trường Luật Kinh tế London, so sánh phong trào tự trị Đài Loan của Lin Hsien-tang với kinh nghiệm tự trị của Ireland, bổ sung góc nhìn học thuật bằng tiếng Anh và nền tảng tư tưởng chính trị.
+[^9]: [Phong trào tự trị Đài Loan của Lâm Hiến Đường lấy cảm hứng từ mô hình Ireland](https://eprints.lse.ac.uk/124781/2/14816169_Taiwan_Culture_Research_Programme_Taiwan_in_Comparative_Perspective_vol_4.pdf) — Xuất bản nghiên cứu của Viện Chính trị Kinh tế London, so sánh phong trào tự trị Đài Loan của Lâm Hiến Đường với kinh nghiệm tự trị Ireland, bổ sung góc nhìn học thuật tiếng Anh và bối cảnh tư tưởng chính trị.
 
-[^10]: [Phong trào xin thành lập Hội đồng Đài Loan 1921-1934](https://daap.ly.gov.tw/tw/daap/125-3993.html) — Trang câu chuyện lịch sử của Khu vườn đối thoại dân chủ của Hội đồng lập pháp, tổng hợp những nhà lãnh đạo chính của phong trào xin, sự giải thể của Đả Nhân Dân Đài Loan và bối cảnh lịch sử của sự ngừng hoạt động vào năm 1934.
+[^10]: [Phong trào kiến nghị thành lập Nghị viện Đài Loan 1921-1934](https://daap.ly.gov.tw/tw/daap/125-3993.html) — Trang truyện nhỏ lịch sử của Khu vực Dân chủ Nghị chính Viện Lập pháp, tổng hợp các lãnh đạo chính của phong trào kiến nghị, sự giải thể Đảng Dân chúng Đài Loan và bối cảnh lịch sử thể chế của việc dừng phong trào năm 1934.
 
-[^11]: [Tệp: Nhà lãnh đạo văn hóa và dân chủ Đài Loan — Lin Hsien-tang](https://commons.wikimedia.org/wiki/File:%E8%87%BA%E7%81%A3%E6%96%87%E5%8C%96%E8%88%87%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E9%A0%98%E8%A2%96%E6%9E%97%E7%8D%BB%E5%A0%82_Lin_Hsien-tang,_Leader_of_Taiwanese_Culture_and_Democracy_Movement.jpg) — Trang tệp của Wikimedia Commons; theo trang, Public domain, nguồn ảnh ghi nhận là Bảo tàng Lin Hsien-tang.
+[^11]: [Tệp: Lãnh bag phong trào văn hóa và dân chủ Đài Loan Lâm Hiến Đường](https://commons.wikimedia.org/wiki/File:%E8%87%BA%E7%81%A3%E6%96%87%E5%8C%96%E8%88%87%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E9%A0%98%E8%A2%96%E6%9E%97%E7%8D%BB%E5%A0%82_Lin_Hsien-tang,_Leader_of_Taiwanese_Culture_and_Democracy_Movement.jpg) — Trang tệp Wikimedia Commons; theo chỉ dẫn trang là Miền công cộng, nguồn hình ảnh ghi nhận là Bảo tàng văn vật Lâm Hiến Đường.
 
-[^12]: [Tệp: Nhật ký của Lin Hsien-tang ngày 28 tháng 7 năm 1933](https://commons.wikimedia.org/wiki/File:Diary_of_Lin_Hsien-tang_1933-07-28.jpg) — Trang tệp của Wikimedia Commons; nhật ký "Ông Quế Viên" ngày 28 tháng 7 năm 1933, theo trang, Public domain.
+[^12]: [Tệp: Nhật ký Lâm Hiến Đường 1933-07-28](https://commons.wikimedia.org/wiki/File:Diary_of_Lin_Hsien-tang_1933-07-28.jpg) — Trang tệp Wikimedia Commons; nhật ký ngày 28 tháng 7 năm 1933 «Nhật ký ông Quán Viên», theo chỉ dẫn trang là Miền công cộng.
 
-[^13]: [Tệp: Lin Bình Long, Lin Hsien-tang, và Lin Ngư Long tại London](https://commons.wikimedia.org/wiki/File:Lin_Panlong,_Lin_Hsien-tang,_and_Lin_Youlong,_at_London.jpg) — Trang tệp của Wikimedia Commons; ảnh chụp ở London năm 1927, theo trang, Public domain.
+[^13]: [Tệp: Lâm Bàn Long, Lâm Hiến Đường, và Lâm Nhược Long tại London](https://commons.wikimedia.org/wiki/File:Lin_Panlong,_Lin_Hsien-tang,_and_Lin_Youlong,_at_London.jpg) — Trang tệp Wikimedia Commons; ảnh chụp nhóm năm 1927 tại London, theo chỉ dẫn trang là Miền công cộng.
 
-[^14]: [Tệp: Tài sản gia đình Lâm tại Sương Phượng — Nhà Lâm](https://commons.wikimedia.org/wiki/File:%E9%9C%A7%E5%B3%B0%E6%9E%97%E5%AE%B6_The_Lin_Family_House_at_Wufeng_-_panoramio.jpg) — Trang tệp của Wikimedia Commons; chụp bởi lienyuan lee, theo trang, Creative Commons Attribution 3.0 Unported (CC BY 3.0).
+[^14]: [Tệp: Gia đình Lâm Vụ Phong The Lin Family House at Wufeng](https://commons.wikimedia.org/wiki/File:%E9%9C%A7%E5%B3%B0%E6%9E%97%E5%AE%B6_The_Lin_Family_House_at_Wufeng_-_panoramio.jpg) — Trang tệp Wikimedia Commons; chụp bởi lienyuan lee, theo chỉ dẫn trang là Creative Commons Attribution 3.0 Unported (CC BY 3.0).
 
-[^15]: [Xuất hiện — Các nhà lãnh đạo phụ nữ trong Hội Hữu Nghị Sương Phượng](https://ascdc.digitalarchives.tw/subject_1679.html) — Bài viết chuyên đề của Viện Nghiên cứu Trung tâm, ghi nhận mục tiêu thành lập, cấu trúc bộ phận, hoạt động văn hóa địa phương, lãnh đạo nữ và công tác y tế xã hội của Hội.
+[^15]: [Lộ diện――Tham gia xã hội của phụ nữ Đài Loan trong Hội Nhất Tân Vụ Phong](https://ascdc.digitalarchives.tw/subject_1679.html) — Bài viết chuyên đề lưu trữ số của Viện Nghiên cứu Trung ương, ghi lại mục đích thành lập, bộ phận tổ chức, hoạt động văn hóa địa phương, nữ cán bộ và công tác vệ sinh xã hội của Hội Nhất Tân.
 
-[^16]: [Lin Hsien-tang và giáo dục phụ nữ — Từ góc độ Hội Hữu Nghị Sương Phượng](https://www.ntl.edu.tw/public/Attachment/281415581732.pdf) — Bài nghiên cứu được thu thập bởi Thư viện Quốc gia Đài Loan, thảo luận quan điểm phụ nữ của Lin Hsien-tang và thực hành văn hóa công cộng thông qua Hội Hữu Nghị Sương Phượng.
+[^16]: [Lâm Hiến Đường và giáo dục phụ nữ――Ví dụ Hội Nhất Tân Vụ Phong](https://www.ntl.edu.tw/public/Attachment/281415581732.pdf) — Bài viết nghiên cứu được thu thập bởi Thư viện Quốc gia Đài Loan, thảo luận quan điểm về phụ nữ và thực hành văn hóa công cộng của Lâm Hiến Đường từ góc độ giáo dục phụ nữ và Hội Nhất Tân Vụ Phong.

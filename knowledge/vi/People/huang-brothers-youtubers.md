@@ -1,14 +1,14 @@
 ---
-title: 'Anh em nhà Huang: Đằng sau những nhãn dán tươi mới là sự thật và lòng trắc ẩn bị cưỡng ép phơi bày'
-description: 'Bắt đầu từ một video troll vào năm 2017, anh em nhà Huang đã bứt phá trong giới YouTube với phong cách "tươi mới và tích cực". Tuy nhiên, một bản tin cưỡng ép công khai xu hướng tính dục vào năm 2020 đã buộc cặp anh em này phải phơi bày sự riêng tư trước ống kính ngay tại đỉnh cao triệu lượt đăng ký, nhưng cũng vô tình vẽ nên một phản ứng tập thể dịu dàng nhất của xã hội Đài Loan đối với bình đẳng giới.'
+title: 'Anh em Huỳnh: Đằng sau nhãn dán trong trẻo, sự thật và sự nhẹ nhàng bị ép buộc phơi bày'
+description: 'Được hình thành bởi anh trai Triết Triết và em trai Vĩ Vĩ, cặp đôi triệu người đăng ký theo dõi của Đài Loan, năm 2017 khởi đầu bằng một video ăn mì gói siêu thị Nhật Bản, từng lập kỷ lục 20 tháng không nghỉ phép. Năm 2020, em trai bị truyền thông ép buộc công khai xu hướng tính dục, video anh ta khóc không thành tiếng gọi điện cho mẹ trước ống kính đã gây ra làn sóng ủng hộ toàn Đài Loan, đồng thời đưa ra thảo luận về đạo đức truyền thông và quyền riêng tư số. Sau đó, họ mở rộng sang âm nhạc, từ thiện và trường học, từ những chàng trai thích trêu đùa trưởng thành thành những người sáng tạo chịu trách nhiệm xã hội.'
 date: 2026-06-01
 category: 'People'
 tags:
   [
     'YouTuber',
-    'Anh em nhà Huang',
-    'Wei-wei',
-    'Zhe-zhe',
+    'Anh em Huỳnh',
+    'Vĩ Vĩ',
+    'Triết Triết',
     'Bình đẳng giới',
     'Văn hóa Đài Loan',
   ]
@@ -21,10 +21,10 @@ readingTime: 12
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/黃氏兄弟.md'
-sourceCommitSha: '7d41e6f686'
+sourceCommitSha: 'fd2854dbad'
 sourceContentHash: 'sha256:1016352970b6d5c8'
 sourceBodyHash: 'sha256:68b9398b0dec02a8'
-translatedAt: '2026-11-21T14:31:16+08:00'
+translatedAt: '2026-11-27T07:01:23.726445+00:00'
 ---
 
 > **Tóm tắt trong 30 giây:**
