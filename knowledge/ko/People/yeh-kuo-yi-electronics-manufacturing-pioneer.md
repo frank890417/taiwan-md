@@ -1,20 +1,20 @@
 ---
-title: '예국일: 사림고상에서 출발해 반세기 주조 제국을 건설하다'
-description: '1941년 4월 21일생. 예국일은 대학 학위 없이 사림고상(士林高商)을 거쳐 1975년 사림에서 잉예다(英業達)를 창립했다. 전자계산기에서 출발하여 회사를 글로벌 최고의 서버 주조 기업으로 이끌었으며, 페이스북, 마이크로소프트, 구글의 클라우드 컴퓨팅 파워를 공급했다. 2023년 회장직을 차남 예력성에게 넘기고 그룹 회장으로 물러났다.'
+title: '예궈이: 스린 상업고등학교에서 시작해 반세기 대만 제조 제국을 건설하다'
+description: '스린 상업고등학교 출신의 전자 제조 기업 창업자로, 대학 학위는 없다. 1975년 타이베이 스린에서 인벤텍(Inventec)을 설립하고 전자계산기로 사업을 시작하여, 회사를 OEM에서 ODM으로 업그레이드했다. PC와 노트북 열풍을 거쳐 기업용 서버 분야로 전환하며 Facebook, 마이크로소프트, Google 클라우드 데이터 센터의 핵심 공급업체가 되었고, AI 서버 분야에도 선제적으로 투입되었다. 2023년에는 이사장 직을 차남 예리청에게 승계하고 자신은 그룹 회장으로 물러났으며, 50년 동안 제조 산업의 모든 결정적인 전환점에서 올바른 방향을 선택해 왔다.'
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'People'
+tags: ['기술과 기업', '인벤텍', '전자 제조', 'ODM', '서버']
 subcategory: '科技與企業'
-tags: ['科技與企業', '英業達', '電子代工', 'ODM', '伺服器']
-readingTime: 7
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: false
+readingTime: 7
 translatedFrom: 'People/葉國一.md'
-sourceCommitSha: '0f8fae0ae'
+sourceCommitSha: 'c7e3d69aad'
 sourceContentHash: 'sha256:736f2b6cf89c9093'
 sourceBodyHash: 'sha256:728aa85d9d44e89a'
-translatedAt: '2026-05-24T05:06:32+08:00'
+translatedAt: '2026-11-27T06:48:04.725943+00:00'
 ---
 
 # 예국일: 사림고상에서 출발해 반세기 주조 제국을 건설하다
