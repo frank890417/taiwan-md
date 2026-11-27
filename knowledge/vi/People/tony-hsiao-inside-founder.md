@@ -1,15 +1,16 @@
 ---
-title: 'Tiêu Thượng Nông (fOx): Từ quản lý sản phẩm game đến đồng sáng lập INSIDE và iCook, tiếng nói quan sát của Đài Loan'
-description: 'Năm 2009, sáu người bạn trong giới công nghệ mạng bắt đầu một dự án blog chung, từ đó INSIDE Những điều quan sát xu hướng mạng xã hội ra đời. Tiêu Thượng Nông (fOx) đồng sáng lập cả INSIDE và iCook, đồng thời là tác giả của hai nền tảng mạng nổi tiếng nhất của Đài Loan — cả hai sau đó đều bị bán cho cùng một công ty. Hiện tại, ông tiếp tục đóng vai trò người quan sát, khuyên mọi người không cần quá lo lắng trước công nghệ.'
+title: "Tiêu Thượng Nông: Từ Quản lý sản phẩm trò chơi đến Nhà sáng lập INSIDE, vị 'Trưởng thôn' của giới Internet Đài Loan"
+description: 'Từ quản lý sản phẩm trò chơi tại Songgang Technology trở thành nhà quan sát mạng, vào năm 2009, Tiêu Thượng Nông cùng năm người bạn đã thành lập INSIDE thông qua một blog cộng tác. Năm 2011, ông tiếp tục cùng ra mắt iCook (Ái Liệu Lý), nền tảng công thức nấu ăn lớn nhất Đài Loan. Hai công ty này đã lần lượt được bán cho tập đoàn truyền thông The News Lens sau bốn năm; trong đó INSIDE được ghi nhận là thương vụ mua lại chính thức đầu tiên của một phương tiện truyền thông trực tuyến tại Đài Loan. Được giới Internet gọi là "Trưởng thôn", hiện ông đang dẫn chương trình Podcast "Sai Cha", tiếp tục chuyển ngữ các xu hướng cho giới công nghệ.'
 date: 2026-04-27
 category: 'People'
 tags:
   [
     'INSIDE',
     'iCook',
-    'Truyền thông mạng',
+    'Ái Liệu Lý',
+    'Truyền thông trực tuyến',
     'Khởi nghiệp công nghệ',
-    'Mạng xã hội Đài Loan',
+    'Internet Đài Loan',
     'fOx',
   ]
 subcategory: '科技與企業'
@@ -20,10 +21,10 @@ lastHumanReview: true
 researchReport: 'reports/research/2026-04/蕭上農.md'
 harvestSession: '9882eaf3-d117-4be5-aaf4-02a6a2ba3a7b'
 translatedFrom: 'People/蕭上農.md'
-sourceCommitSha: '160f6cb59'
+sourceCommitSha: '72ef874049'
 sourceContentHash: 'sha256:cf3dd21873bec862'
 sourceBodyHash: 'sha256:ba8d5bb97d38e74d'
-translatedAt: '2026-11-02T01:11:37.264861+00:00'
+translatedAt: '2026-11-27T04:07:26.457336+00:00'
 ---
 
 > **30 giây tóm tắt:** Tiêu Thượng Nông (fOx) là đồng sáng lập INSIDE Những điều quan sát xu hướng mạng xã hội và iCook (gọi tắt iCook). Năm 2009, ông cùng năm người bạn bắt đầu một trong những trang báo công nghệ đầu tiên mang góc nhìn phân tích tại Đài Loan, năm 2011 cùng ra mắt nền tảng công thức nấu ăn lớn nhất. Hai công ty này đều bị tập đoàn truyền thông TNL Media Group mua vào năm 2018 và 2022.

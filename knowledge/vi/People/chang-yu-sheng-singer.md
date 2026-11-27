@@ -1,29 +1,29 @@
 ---
-title: 'Chang Vũ Sinh: Từ Thần tượng tới Nhà tiên tri, Một thí nghiệm âm nhạc vượt thời đại'
-description: 'Năm 1989, con trai của trưởng đoàn Thiên Mã lên sóng với Ca khúc "Ngày ngày nhớ bạn" và bán được 350.000 bản, trở thành thần tượng; năm 1994, anh dùng 73 phút ghi âm live ban nhạc để trả lời thị trường, nhưng album bán chậm và được gọi là "lời tiên đoán". Chang Vũ Sinh dành 9 năm mài giũa giữa danh tính thần tượng và lương tâm sáng tác. Bốn ngày sau khi "Miệng giấu lòng" phát hành, anh tông xe ở Đàn Thủy lúc rạng sáng và không bao giờ tỉnh dậy."'
+title: 'Trương Vũ Sinh: Từ thần tượng đến nhà tiên tri, một cuộc thử nghiệm âm nhạc vượt thời đại'
+description: "Ca sĩ sáng tác và nhà sản xuất, cha là đội trưởng đoàn Nghệ công Thiên Mã, mẹ là người dân tộc Atayal. Sau khi chị gái Trương Ngọc Tiên qua đời đuối nước ở tuổi 15, anh bước vào làng nhạc để hiện thực hóa ước mơ âm nhạc của chị gái, năm 1989 với bài 'Mỗi ngày nghĩ em' bán được 350.000 bản và trở thành thần tượng; năm 1994 phát hành album ghi âm trực tiếp 73 phút 'Karaoke Live‧Taipei‧Me', dù doanh số kém nhưng tự gọi là 'cổ điển bi thảm'. Anh sản xuất các bài 'Chị em' và 'Bad Boy' đưa Trương Huệ Mị lên ngôi nữ hoàng nhạc pop, năm 1997 sau 4 ngày phát hành bài 'Lời nói dối' qua đời trong tai nạn giao thông ở Đàn Thủy, hưởng thọ 31 tuổi, năm 2017 được trao tặng Giải thưởng Đặc biệt Cống hiến tại Giải Kim Khúc."
 date: 2026-04-18
 category: 'People'
 tags:
   [
-    'Chang Vũ Sinh',
-    'Ca nhạc Đài Loan',
+    'Trương Vũ Sinh',
+    'Nhạc pop Đài Loan',
     'Ca sĩ sáng tác',
-    'Karaoke Live‧Đài Bắc‧Tôi',
-    'Hôn tôi đi nana',
-    'Trương Huệ Mỹ',
+    'Karaoke Live‧Taipei‧Me',
+    'Hôn em đi Nana',
+    'Trương Huệ Mị',
   ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-19
 lastHumanReview: true
-researchReport: reports/research/2026-04/張雨生.md
+researchReport: 'reports/research/2026-04/張雨生.md'
 readingTime: 14
 translatedFrom: 'People/張雨生.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: 'fc0798f30d'
 sourceContentHash: 'sha256:f4eb416f9486c9fa'
 sourceBodyHash: 'sha256:fa4f2d152a7b850d'
-translatedAt: '2026-08-09T11:16:34+08:00'
+translatedAt: '2026-11-27T03:57:01.993609+00:00'
 ---
 
 > **Tổng quan 30 giây:** Cha của Chang Vũ Sinh là Chang Kiến Dân, trưởng đoàn Thiên Mã, mẹ là người Thái Á. Anh sinh ra giữa mưa liên tục ở Phú Quốc, vì vậy được đặt tên "Vũ Sinh". Năm 1989, anh ra mắt bằng album cá nhân đầu tiên "Ngày ngày nhớ bạn", bán được 350.000 bản; năm 1994, anh phản hồi thị trường bằng một album thí nghiệm kéo dài 73 phút với ghi âm live của cả ban nhạc, doanh số thấp thảm, anh gọi đó là "kinh điển bi thương". Năm 1997, anh tay kéo một cô gái người dân tộc bản địa hát ở quán bar lên vị trí nữ hoàng. Ngày 16 tháng 10, "Miệng giấu lòng" được phát hành — đó là lần đầu tiên anh làm từ tác, sáng tác và biểu diễn tất cả; bốn ngày sau, anh tông xe ở Đàn Thủy lúc rạng sáng và không bao giờ tỉnh dậy.

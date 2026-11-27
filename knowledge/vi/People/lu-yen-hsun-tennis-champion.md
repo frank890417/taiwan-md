@@ -1,9 +1,10 @@
 ---
-title: 'Lư Thành Phận: Từ vòng Tứ Wimbledon đến năm Olympic, cầu thủ tennis của Đài Loan đi xa nhất'
-description: 'Vào năm 2010 tại Wimbledon, Lư Thành Phận đã đánh bại Andy Roddick, người là số 7 trong kỳ thi, trở thành cầu thủ tennis nam đầu tiên của Đài Loan chạm tới vòng Tứ trong các giải đấu Grand Slam. Từ năm 2004 tại Thế vận hội Atên đến năm 2021 tại Thế vận hội Tokyo, ông đã tham dự năm Olympic liên tiếp, là cầu thủ tennis của Đài Loan đi xa nhất trong lịch sử thể thao hiện đại. Sau khi hưu trường, ông thành lập học viện tennis, hy vọng Đài Loan có nhiều nguồn lực hơn để sao chép lại con đường ông đã đi qua.'
+title: 'Lô Ngạn Huân: Từ tứ kết Wimbledon đến năm kỳ Thế vận hội, người đưa quần vợt Đài Loan đi xa nhất'
+description: 'Vận động viên quần vợt nam xuất sắc nhất trong lịch sử Đài Loan, sinh năm 1983, bắt đầu chơi bóng từ năm 6 tuổi và quyết định theo đuổi chuyên nghiệp ở tuổi 17. Năm 2010, tại giải Wimbledon, anh đã vượt qua vòng loại để tiến vào vòng chính, sau đó đánh bại hạt giống số 7 Roddick với tỷ số 3-2 ở vòng thứ tư, trở thành tay vợt Đài Loan đầu tiên lọt vào tứ kết đơn nam Grand Slam. Anh chia sẻ rằng lần đầu tiên bước chân lên thảm cỏ ấy là để thay mặt cha mình. Từ Thế vận hội Athens 2004 đến Tokyo 2021, anh đã liên tiếp tham dự năm kỳ Thế vận hội. Sau khi giải nghệ, anh thành lập Học viện Quần vợt Quốc tế tại Đại học Chang Jung, nhằm giúp những người Đài Loan kế cận có sẵn một lộ trình khi bước đi trên con đường mà anh đã từng đi qua.'
 date: 2026-03-19
 category: 'People'
-tags: ['Thể thao', 'Tennis', 'Olympic', 'Wimbledon', 'Tennis chuyên nghiệp']
+tags:
+  ['Thể thao', 'Quần vợt', 'Thế vận hội', 'Wimbledon', 'Quần vợt chuyên nghiệp']
 subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
@@ -13,10 +14,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/盧彥勳.md'
-sourceCommitSha: 'be13f045'
+sourceCommitSha: 'e7e1bb5735'
 sourceContentHash: 'sha256:b7bcedce34261377'
 sourceBodyHash: 'sha256:a95f42aeb707e55c'
-translatedAt: '2026-07-26T17:05:18+08:00'
+translatedAt: '2026-11-27T04:03:19.367257+00:00'
 ---
 
 # Lư Thành Phận: Từ vòng Tứ Wimbledon đến năm Olympic, cầu thủ tennis của Đài Loan đi xa nhất

@@ -1,9 +1,10 @@
 ---
-title: 'Hứa Thục Tĩnh: Lâm Bồ 1991, cầu thủ nâng 53kg đầu tiên của Đài Loan giành hai huy chương vàng Olympic'
-description: 'Sinh ngày 9 tháng 5 năm 1991 tại huyện Lâm Bồ, tỉnh Đông Dương, gia đình Hoa Kiều, chiều cao 159cm. Năm 2012, Olympic London 53kg nữ, 219kg (96+123) huy chương bạc; sau đó do huy chương vàng của Zhao Changlin (Kazakhstan) không qua kiểm tra chất thải, tháng 12 năm 2020 chính thức thay thế làm huy chương vàng. Năm 2016, Olympic Rio 212kg (100+112) trực tiếp giành huy chương vàng. Đài Loan nữ cầu thủ nâng đầu tiên giành hai huy chương vàng Olympic. Ngày 3 tháng 6 năm 2018 chính thức giải nghệ. Năm 2019, do kiểm tra chất thải năm 2017 cấm thi đấu ba năm (không ảnh hưởng tới huy chương vàng Olympic).'
+title: 'Hứa Thục Tịnh: Luân Bối 1991, vận động viên cử tạ cấp 53 kg đầu tiên của Đài Loan giành đôi huy chương vàng Olympic'
+description: 'Vận động viên cử tạ nữ xuất thân từ gia đình Khách Gia tại Luân Bối, Vân Lâm. Cô đã từng bước vươn lên nhờ thành tích qua từng cấp bậc của hệ thống thể dục thể thao cơ sở tại Đài Loan. Tại Olympic Luân Đôn 2012, cấp 53 kg, cô giành huy chương bạc với tổng thành tích 219 kg, do người đoạt huy chương vàng không qua kiểm tra doping, cho đến tháng 12 năm 2020 mới chính thức được trao huy chương vàng; tại Olympic Ri O 2016, cô thành công cả ba lần gác tạ, tổng thành tích 212 kg, trực tiếp giành huy chương vàng, trở thành vận động viên đầu tiên của Đài Loan giành đôi huy chương vàng Olympic. Năm 2018, sau khi nghỉ hưu do chấn thương gối, cô chuyển sang làm huấn luyện viên, huy chương vàng đầu tiên phải chờ tám năm mới về tay, là vị trí đặc biệt mà vấn đề cấm chất kích thích trong thể thao quốc tế để lại cho cô.'
 date: 2026-03-19
 category: 'People'
-tags: ['Thể thao', 'Cử tạ', 'Olympic', 'Huy chương vàng', '53kg', 'Đông Dương']
+tags:
+  ['Thể thao', 'Cử tạ', 'Olympic', 'Huy chương vàng', 'Cấp 53 kg', 'Vân Lâm']
 subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
@@ -13,10 +14,10 @@ readingTime: 7
 curation: 'incubating'
 curationReason: 'thin'
 translatedFrom: 'People/許淑淨.md'
-sourceCommitSha: '22286539e'
+sourceCommitSha: 'e7e1bb5735'
 sourceContentHash: 'sha256:81d60bf0143f4da3'
 sourceBodyHash: 'sha256:a8a07476ede69bdb'
-translatedAt: '2026-11-04T21:10:10.643300+00:00'
+translatedAt: '2026-11-27T04:13:20.407506+00:00'
 ---
 
 # Hứa Thục Tĩnh: Lâm Bồ 1991, cầu thủ nâng 53kg đầu tiên của Đài Loan giành hai huy chương vàng Olympic

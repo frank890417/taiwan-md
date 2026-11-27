@@ -1,17 +1,17 @@
 ---
-title: 'Yên Trường Thọ: Từ cậu bé trong phòng thư đến cha đẻ du lịch, rồi anh ấy bỏ mất tất cả'
-description: 'Chỉ có bằng cấp trung học. 23 tuổi lên cơm thư tín tại American Express. Năm năm sau thành tổng giám đốc. Năm năm nữa trở thành tổng chủ tịch khách sạn hàng đầu châu Á, phát minh hệ thống dịch vụ "gọi được tên khách trước khi họ xuống xe". 60 vạn cuốn sách bán chạy. Rồi ở tuổi 62 anh ta từ chức đi dạy học ở vùng sâu Đài Đông, năm sau cắt bỏ một quả thận. 78 tuổi anh ta xây dựng một khu vườn nghệ thuật bên bờ Thái Bình Dương.'
+title: 'Nghiêm Trường Thọ: Từ nhân viên phòng thư đến cha đẻ ngành du lịch, rồi đánh mất tất cả'
+description: 'Từ một nhân viên phòng thư tại American Express trở thành Chủ tịch Regent Taipei, dù chỉ có bằng tốt nghiệp trung học, ông đã sáng tạo ra hệ thống dịch vụ "gọi tên khách hàng ngay khi họ chưa kịp xuống xe", đạt tỷ lệ khách quay lại lên tới 65% và viết nên cuốn sách bán chạy với hơn 600.000 bản mang tên "Trái tim sư tử của Tổng giám đốc". Ở tuổi 62, ông từ bỏ đỉnh cao ngành khách sạn để đến Đài Đông, thành lập Quỹ Văn hóa Nền tảng Công ích, tiếp quản Trường học Junyi để thúc đẩy giáo dục vùng sâu vùng xa; dù phải cắt bỏ một quả thận nhưng vẫn tiếp tục cống hiến tại khu vực Hoa Đông, và ở tuổi 78, ông tiếp tục thúc đẩy việc khai trương Khu nghệ thuật Giang Hiền Nhị tại bờ biển Kim Tôn, Đài Đông.'
 date: 2026-04-06
 category: 'People'
 tags:
   [
-    'Yên Trường Thọ',
-    'Ấu Đô',
+    'Nghiêm Trường Thọ',
+    'Regent Taipei',
     'Ngành du lịch',
-    'Giáo dục vùng sâu',
-    'Quỹ Công ích Văn hóa',
-    'Trường Quân Nhất',
-    'Khu vườn nghệ thuật Giang Hiền Nhị',
+    'Giáo dục vùng sâu vùng xa',
+    'Nền tảng Công ích',
+    'Trường học Junyi',
+    'Khu nghệ thuật Giang Hiền Nhị',
   ]
 subcategory: '教育與社會'
 author: 'Taiwan.md Contributors'
@@ -20,15 +20,19 @@ featured: false
 lastVerified: 2026-04-06
 lastHumanReview: true
 sporeLinks:
-  [
-    "{'id': 8, 'platform': 'threads', 'date': '2026-04-06', 'url': 'https://www.threads.com/@taiwandotmd/post/DWyqKShE4a8'}",
-    "{'id': 9, 'platform': 'x', 'date': '2026-04-06', 'url': 'https://x.com/taiwandotmd/status/2041143084583469498'}",
-  ]
+  - id: 8
+    platform: 'threads'
+    date: '2026-04-06'
+    url: 'https://www.threads.com/@taiwandotmd/post/DWyqKShE4a8'
+  - id: 9
+    platform: 'x'
+    date: '2026-04-06'
+    url: 'https://x.com/taiwandotmd/status/2041143084583469498'
 translatedFrom: 'People/嚴長壽.md'
-sourceCommitSha: '9cef725ce'
+sourceCommitSha: '72ef874049'
 sourceContentHash: 'sha256:f03fe4356a8b034b'
 sourceBodyHash: 'sha256:0511dd3ec1c7896e'
-translatedAt: '2026-09-17T20:38:30.713064+00:00'
+translatedAt: '2026-11-27T03:46:46.270194+00:00'
 ---
 
 # Yên Trường Thọ: Từ cậu bé trong phòng thư đến cha đẻ du lịch, rồi anh ấy bỏ mất tất cả

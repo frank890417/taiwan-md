@@ -1,27 +1,27 @@
 ---
-title: 'Trần Tam Hỏa: Giao chiếc bình hoa vỡ cho số phận, để cho nghệ thuật dán gạch trên mái chùa sống sót'
-description: 'Năm 2002, sau động đất 921, nghệ sĩ Trần Tam Hỏa từ Đài Nam đã tìm thấy một chiếc bình hoa vỡ ở chùa Phong Nguyên Từ Tế, biến từ học sinh sửa chữa chùa thành "nghệ sĩ mái nhà" với tác phẩm tái chế. Ông không cố gắng nhân lại để giống như ban đầu, mà để cho sự vỡ vụn, ngẫu nhiên và vật liệu tái chế quyết định lại hình dáng của truyền thống.'
+title: 'Trần Tam Hỏa: Giao chiếc bình hoa vỡ cho số phận, để nghệ thuật cắt dán trên mái đình được hồi sinh'
+description: 'Người lưu giữ di sản quan trọng quốc gia về kỹ thuật cắt dán (jian nian), sinh năm 1949 tại Madou, Tainan. Sau khi tốt nghiệp trung học cơ sở, ông theo anh trai học nghề cắt dán đền chùa và đi khắp Đài Loan để tu bổ các ngôi miếu. Năm 2002, trong quá trình tu bổ cung Từ Tế tại Phong Nguyên sau trận động đất 921, ông đã nhặt những mảnh bình hoa vỡ bị đền chùa vứt bỏ để ghép thành một bức tượng Đạt Ma, từ đó phát triển phương pháp "lấy gậy thay kéo", để các mảnh sứ vỡ tự quyết định hình dáng của chúng. Năm 2020, ông được Bộ Văn hóa công nhận là người lưu giữ đầu tiên của nghệ thuật cắt dán, năm 2021 nhận Giải thưởng Thành tựu Thủ công Mỹ nghệ Quốc gia, đồng thời thành lập "Gia tộc Cắt dán" để truyền nghề và tham gia các hoạt động truyền bá di sản tại học đường.'
 date: 2026-08-19
-subcategory: '藝術與設計'
 category: 'People'
 tags:
   [
-    'nghệ thuật dán gạch',
-    'nghệ thuật truyền thống',
+    'Cắt dán (jian nian)',
+    'Thủ công truyền thống',
     'Trần Tam Hỏa',
-    'nghệ thuật chùa',
+    'Nghệ thuật đền chùa',
   ]
+subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-20
 lastHumanReview: false
 readingTime: 12
-curation: incubating
+curation: 'incubating'
 translatedFrom: 'People/陳三火.md'
-sourceCommitSha: '8cc323782'
+sourceCommitSha: 'c7e3d69aad'
 sourceContentHash: 'sha256:eedc983e2ea9d824'
 sourceBodyHash: 'sha256:7efe5656906a3904'
-translatedAt: '2026-09-28T08:43:09+08:00'
+translatedAt: '2026-11-27T04:46:25.673307+00:00'
 ---
 
 > **30 giây tổng quan:** Trần Tam Hỏa từng là học sinh dán gạch theo anh trai, sống tại công trình chùa. Năm 2002, trong quá trình sửa chữa chùa Phong Nguyên Từ Tế sau động đất 921, ông tìm thấy một chiếc bình hoa vỡ bỏ đi, vô tình tạo ra tượng Đạt Ma, sau đó biến "tạo hình sau khi đập vỡ" thành phương pháp riêng. Sự chuyển đổi này giống như một phép nghịch lý nghệ thuật: để bảo quản dán gạch, không thể chỉ sao chép nguyên bản quá khứ; đôi khi cần để nó mất đi hình dáng ban đầu.

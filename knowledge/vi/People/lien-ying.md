@@ -1,13 +1,6 @@
 ---
-title: 'Liên Anh: Từ "mức vũ đạo của một nhóm nhạc nữ" đến EP solo sau sáu năm'
-description: 'Năm 2020, một cô gái Đài Trung hai mươi lăm tuổi trên sân khấu chọn người nói với Phan Vệ Bá: "Tôi muốn cho mọi người biết mức vũ đạo của một nhóm nhạc nữ." Sáu năm sau cô có EP solo của riêng mình, các fan tập hợp vốn ở Đại Tào Đình để tổ chức sân khấu sinh nhật, đồng thời quảng cáo hỗ trợ được phát hành ở ba quốc gia. Cô đang hiện thực hóa lời nói đó.'
-curation: 'incubating'
-curationReason: 'unverified'
-translatedFrom: 'People/連穎.md'
-sourceCommitSha: 'be13f045'
-sourceContentHash: 'sha256:5f1555ccc3c4f606'
-sourceBodyHash: 'sha256:3765efbdda716be7'
-translatedAt: '2026-08-09T11:16:34+08:00'
+title: 'Liên Anh: Từ «mức độ vũ đạo mà một nữ nhóm nên có» đến EP solo sau sáu năm'
+description: 'Ca sĩ hát và nhảy đến từ nữ nhóm Đài Loan, từ lớp hai tiểu học học ballet, dân tộc và vũ đạo Trung Hoa, trung học chuyển sang nhảy đường phố. Năm 2020 trong chương trình thi đấu «Ling Ge Shi Dai DD52» nói với huấn luyện viên Phan Vĩ Bách: «Tôi muốn để mọi người biết, mức độ vũ đạo mà một nữ nhóm nên có», sau đó với tư cách thành viên đội á quân Bão Tố Hắc Đào thành lập HUR+ ra mắt, đảm nhận vai trò vũ công chính. Năm 2025 trong khi nhóm vẫn hoạt động, phát hành EP cá nhân «EZ», theo hướng hip-hop và R&B kết hợp yếu tố tiếng Đài Loan, trở thành thành viên nữ nhóm đầu tiên tại Đài Loan đồng thời phát triển cả hoạt động nhóm và solo.'
 date: 2026-04-23
 category: 'People'
 tags:
@@ -16,7 +9,7 @@ tags:
     'ERIN',
     'HUR+',
     'DD52',
-    'nhóm nhạc nữ',
+    'nữ nhóm',
     'thần tượng',
     'âm nhạc Đài Loan',
     'vũ đạo',
@@ -29,6 +22,13 @@ featured: false
 lastVerified: 2026-04-23
 lastHumanReview: false
 readingTime: 10
+curation: 'incubating'
+curationReason: 'unverified'
+translatedFrom: 'People/連穎.md'
+sourceCommitSha: 'c7e3d69aad'
+sourceContentHash: 'sha256:5f1555ccc3c4f606'
+sourceBodyHash: 'sha256:3765efbdda716be7'
+translatedAt: '2026-11-27T04:41:57.273905+00:00'
 ---
 
 > **Tóm tắt 30 giây:** Liên Anh (Erin), sinh năm 1999 tại Đài Trung, bắt đầu học ba lê từ lớp hai tiểu học, múa dân gian, múa Trung Quốc, rồi chuyển sang street dance ở cấp trung học. Năm 2020 tham gia chương trình《菱格世代 DD52 (Thế hệ Hình thoi DD52)》, trên sân khấu đối đầu ở tập hai, cô nói với huấn luyện viên Phan Vệ Bá: "Tôi muốn cho mọi người biết mức vũ đạo của một nhóm nhạc nữ" — câu nói này từ đó trở thành nhãn hiệu của cô. Các vị quân nhân Bão Đen Nhị Lô (quân anh ba Quân DD52) debut với tên [HUR+](/vi/people/hur-plus-band), cô là vũ công chính. Năm 2025 phát hành EP đầu tiên 《EZ》, theo hướng hip-hop/R&B, với âm thanh đường phố mang âu yếm Đài ngữ, cố tình tránh lối hát tình cảm an toàn. Ngày sinh năm 2026, các fan tập hợp tại Đại Tào Đình để tổ chức sân khấu, cô lần đầu tiên ca hát bài mới 〈Chậm một giây〉. Cô vừa cùng nhóm phát hành album, vừa phát hành EP cá nhân, vừa phát triển nhóm vừa phát triển solo. Ở Đài Loan, cô là nữ thành viên nhóm đầu tiên làm điều này.

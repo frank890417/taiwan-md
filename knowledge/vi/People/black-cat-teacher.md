@@ -1,21 +1,21 @@
 ---
-title: 'Hắc Miêu Lão Sư: Từ một card đồ họa quá nóng, tới việc trả lại lưu lượng cho độc giả trong hai mươi năm'
-description: 'Mùa hè 2015, một card đồ họa quá nóng làm Hắc Miêu Lão Sư từ bỏ phát sóng game, nhưng vô tình để lại một trang fan. Từ việc đăng ảnh mèo, kể chuyện lịch sử đến Podcast và《Báo Tạo tác Hắc Miêu》, anh đã vượt qua Wanarpa, Facebook, YouTube và newsletter, đồng thời tự hỏi: người sáng tạo nội dung có phải đang phục vụ độc giả, hay là đang nuôi dưỡng giải thuật?'
+title: 'Thầy Mèo Đen: Từ một chiếc card màn hình bị quá nhiệt, đến việc trả lại lưu lượng cho người đọc trong hai mươi năm'
+description: 'Khởi đầu từ một trang fanpage còn lại sau một lần phát trực tiếp game thất bại vào năm 2015 của một nhà sáng tạo tự truyền thông tại Đài Loan, người này trước đây nhờ đăng ảnh mèo tích lũy tương tác, sau đó nhờ các tóm tắt về Chiến tranh thế giới thứ hai và Đức Quốc xã mà chuyển sang kể chuyện lịch sử, xuất bản tác phẩm 《Lịch sử, chính là chiến tranh》。Bệnh khô mắt khiến ông rời bỏ phát trực tiếp chuyển sang Podcast, từ năm 2024 qua 《Báo cáo sáng tạo của Mèo Đen》 công khai kinh nghiệm về lưu lượng, nền tảng và biến hiện, một đường truy hỏi xem người sáng tạo có đang phục vụ người đọc hay đang nuôi dưỡng thuật toán, và giải thích các tài liệu phức tạp đến mức người nghe sẵn sàng hiểu.'
 date: 2026-08-16
 category: 'People'
+tags: ['Thầy Mèo Đen', 'Tự truyền thông', 'Kể chuyện lịch sử']
 subcategory: '數位與媒體'
-tags: ['Hắc Miêu Lão Sư', 'tự chế tạo nội dung', 'kể chuyện lịch sử']
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-08-16
 lastHumanReview: false
 readingTime: 8
-curation: incubating
-translatedFrom: People/黑貓老師.md
-sourceCommitSha: 9d93b1d90
+curation: 'incubating'
+translatedFrom: 'People/黑貓老師.md'
+sourceCommitSha: 'fd2854dbad'
 sourceContentHash: 'sha256:098b16931924e6a4'
 sourceBodyHash: 'sha256:d62613e467add761'
-translatedAt: '2026-09-09T15:01:50+08:00'
+translatedAt: '2026-11-27T04:34:56.042682+00:00'
 ---
 
 # Hắc Miêu Lão Sư: Từ một card đồ họa quá nóng, tới việc trả lại lưu lượng cho độc giả trong hai mươi năm

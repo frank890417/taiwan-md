@@ -1,15 +1,15 @@
 ---
-title: 'Thái Thụy Nguyệt: Từ nhà tù Đảo Xanh đến một đoàn múa không thể bị thiêu rụi'
-description: 'Thái Thụy Nguyệt, sinh năm 1921 tại Đài Nam, đi học múa ở Nhật Bản năm 16 tuổi. Năm 1949, bà bị giam vì chồng là Lôi Thạch Du chịu đàn áp chính trị; sau khi ra tù, bà vẫn dạy múa trên phố Trung Sơn Bắc. Bà để lại không chỉ một bộ vũ đạo mà còn là một đoàn múa từng bị phá hủy và đốt cháy nhưng vẫn đang tập luyện cho đến ngày nay, cùng với vấn đề về cách Đài Loan lưu giữ ký ức đau thương.'
+title: 'Thái Thụy Nguyệt: Từ phòng giam đảo Lục Đảo đến một câu lạc bộ khiêu vũ không thể bị thiêu rụi'
+description: 'Vũ công múa hiện đại sinh tại Đài Nam, năm 16 tuổi sang Nhật học múa, khi trở về Đài Loan vào năm 1946 đã biên soạn tác phẩm "Bài ca Ấn Độ" ngay trên tàu. Năm 1949, bà bị liên lụy và phải ngồi tù ba năm tại đảo Lục Đảo do chồng là Lôi Thạch Du chịu sự đàn áp chính trị; sau khi ra tù vào năm 1953, bà bắt đầu giảng dạy múa trở lại, câu lạc bộ khiêu vũ đã đặt trụ sở tại một khu nhà ở kiểu Nhật trên đường Trung Sơn Bắc đoạn 2, thời kỳ hoàng kim có từ ba đến bốn trăm học viên. Năm 1994, do dự án xây dựng tàu điện ngầm mà câu lạc bộ đứng trước nguy cơ bị dỡ bỏ, nhờ sự cứu trợ của giới văn hóa nên đã được giữ lại; sau khi được chỉ định là di tích lịch sử cấp thành phố vào năm 1999 thì lại bị hỏa hoạn thiêu rụi, bà đứng trước công trình đen kịt vì cháy và nói: "Tôi cảm thấy như vừa mất đi một người con gái vậy."'
 date: 2026-08-19
 category: 'People'
 tags:
   [
     'Thái Thụy Nguyệt',
-    'múa đương đại',
-    'khủng bố trắng',
-    'phụ nữ',
-    'di tích Hồng Môn',
+    'Múa hiện đại',
+    'Khủng bố trắng',
+    'Phụ nữ',
+    'Di tích Hoa Hồng',
   ]
 subcategory: '藝術與設計'
 author: 'Taiwan.md Contributors'
@@ -24,25 +24,25 @@ rationale:
 readingTime: 9
 curation: 'incubating'
 translatedFrom: 'People/蔡瑞月.md'
-sourceCommitSha: 'c462122e6'
-sourceContentHash: 'sha256:f91b55938ef411f1'
-sourceBodyHash: 'sha256:6b90253634145c2e'
-translatedAt: '2026-09-14T14:50:01+08:00'
+sourceCommitSha: 'e7e1bb5735'
+sourceContentHash: 'sha256:2a7899aa5fbe66f0'
+sourceBodyHash: 'sha256:7f9bd688d1a76989'
+translatedAt: '2026-11-27T03:38:46.928199+00:00'
 ---
 
-# Thái Thụy Nguyệt: Từ nhà tù Đảo Xanh đến một đoàn múa không thể bị thiêu rụi
+# Thái Thụy Nguyệt: Từ phòng giam đảo Lục đảo đến một học viện múa không thể bị thiêu rụi
 
-> **Tóm tắt 30 giây**: Thái Thụy Nguyệt đi học múa từ Đài Nam sang Nhật Bản, sau đó bị giam trong thời kỳ khủng bố trắng khi trở về Đài Loan và tiếp tục dạy múa trên phố Trung Sơn Bắc. Đoàn múa của bà đã trải qua nguy cơ phá dỡ và hỏa hoạn; ngày nay, nơi này vừa là địa điểm của một phòng múa đương đại, vừa là hiện trường lưu giữ ký ức đau thương chính trị của Đài Loan.
+> **Tóm tắt trong 30 giây**: Thái Thụy Nguyệt (Tsai Jui-yueh) từ Đài Nam sang Nhật Bản học múa, sau khi trở về Đài Loan đã phải ngồi tù trong thời kỳ Khủng bố Trắng, và sau khi ra tù vẫn tiếp tục dạy múa tại đường Trung Sơn Bắc. Học viện múa của bà từng trải qua nguy cơ bị dỡ bỏ và hỏa hoạn; ngày nay, nơi đây vừa là địa điểm của múa đương đại, vừa là hiện trường lưu giữ ký ức về những nạn nhân chính trị tại Đài Loan.
 
-Năm 1946, Thái Thụy Nguyệt, khi mới 25 tuổi, đã đi tàu từ Nhật Bản trở về Đài Loan và sáng tác vở 《Bài ca Ấn Độ》 trên biển. Năm 1949, chồng bà là Lôi Thạch Du bị chính phủ bắt giữ và trục xuất; vài tháng sau, bà cũng trở thành tù nhân chính trị và bị đưa đến Đảo Xanh. Sau khi ra tù vào năm 1953, bà mở lại trường múa, cuối cùng đặt phòng học trong một khu nhà gỗ kiểu Nhật trên phố Trung Sơn Bắc của Đài Bắc. [^1] [^2] [^3]
+Năm 1946, Thái Thụy Nguyệt ở tuổi 25 đã đi tàu từ Nhật Bản trở về Đài Loan và biên đạo nên tác phẩm 《Khúc ca Ấn Độ》 ngay trên tàu. Năm 1949, chồng bà là Lôi Thạch Du (Lei Shi-yu) bị chính quyền bắt giữ và trục xuất; vài tháng sau, bà cũng trở thành tù nhân chính trị và bị đưa đến đảo Lục đảo (Green Island). Sau khi ra tù vào năm 1953, bà mở lại trường dạy múa, cuối cùng đặt lớp học tại một dãy nhà gỗ kiểu Nhật trên đường Trung Sơn Bắc, Đài Bắc. [^1] [^2] [^3]
 
-![Mặt tiền Đoàn nghiên cứu múa Thái Thụy Nguyệt, chụp năm 2013](https://upload.wikimedia.org/wikipedia/commons/3/36/Tsai_Jui-yueh_Dance_Institute_20130925.jpg)[^12]
+![Cổng chính của Đoàn nghiên cứu múa Thái Thụy Nguyệt, chụp năm 2013](https://upload.wikimedia.org/wikipedia/commons/3/36/Tsai_Jui-yueh_Dance_Institute_20130925.jpg)[^12]
 
-_Hình 1: Mặt tiền Đoàn nghiên cứu múa Thái Thụy Nguyệt. Nhiếp ảnh: lienyuan lee, cấp phép CC BY 3.0. Liên kết gốc của hình ảnh: [Tệp gốc Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/3/36/Tsai_Jui-yueh_Dance_Institute_20130925.jpg). Trang tệp và mô tả cấp phép: [Trang tệp Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tsai_Jui-yueh_Dance_Institute_20130925.jpg). Không chỉnh sửa lần này._
+_Hình 1: Cổng chính của Đoàn nghiên cứu múa Thái Thụy Nguyệt. Nhiếp ảnh: lienyuan lee, bản quyền CC BY 3.0. Liên kết gốc của ảnh: [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/3/36/Tsai_Jui-yueh_Dance_Institute_20130925.jpg). Thông tin bản quyền và tệp: [Trang tệp Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tsai_Jui-yueh_Dance_Institute_20130925.jpg). Không có chỉnh sửa trong bài này._
 
-Con đường này không giống với một lý lịch của một vũ công. Nó không tách biệt sân khấu, nhà tù, sự giám sát và hỏa hoạn, mà lại chồng chất chúng lên cùng một cơ thể hết lần này đến lần khác. Do đó, vấn đề cốt lõi mà Thái Thụy Nguyệt để lại không phải là "bà có phải là mẹ của múa đương đại Đài Loan hay không", mà là: **Khi quốc gia có thể hạn chế sự di chuyển, công việc và gia đình của một người, liệu cơ thể còn giữ được nhịp điệu của riêng mình không?**
+Cuộc đời này dường như không giống với lý lịch mà một vũ công nên có. Nó không tách biệt sân khấu, phòng giam, sự giám sát và hỏa hoạn thành những phần riêng rẽ, mà để chúng chồng lấp lên nhau trên cùng một cơ thể. Câu hỏi cốt lõi mà Thái Thụy Nguyệt để lại vì thế không phải là "bà có phải là mẹ đẻ của múa đương đại Đài Loan hay không", mà là: **Khi quốc gia có thể hạn chế sự di chuyển, công việc và gia đình của một con người, liệu cơ thể còn có thể giữ được nhịp điệu của riêng mình?**
 
-📝 Ghi chú biên tập viên: Câu chuyện của Thái Thụy Nguyệt không phải là sự tôn vinh nghệ thuật bằng nỗi thống khổ, mà là nghệ thuật tìm thấy hơi thở không cần mượn từ quyền lực giữa nỗi đau.
+📝 Ghi chú của giám tuyển: Câu chuyện của Thái Thụy Nguyệt không phải là dùng khổ đau để vinh danh nghệ thuật, mà là cách nghệ thuật tìm thấy một hơi thở không cần phải vay mượn từ quyền lực ngay trong chính nghịch cảnh.
 
 ## Một bức thư không địa chỉ
 
@@ -62,21 +62,21 @@ Bà không phải là người không biết người khác sẽ nghĩ gì. Bà 
 
 Dịch tiếng Trung là "Tôi không thể chờ để về nhà biểu diễn, biên đạo, dạy múa." Ở đây, "nhà" không phải là một điểm kết thúc yên tĩnh, mà là nơi chưa có sân khấu và cần tự mình dựng lên.
 
-## Bà trở về không phải vùng đất trống rỗng
+## Nơi bà trở về không phải là vùng đất trống
 
-Không lâu sau khi Thái Thụy Nguyệt trở về Đài Nam vào năm 1946, bà đã biểu diễn múa tại Nhà thờ Thái Bình Cảnh. Bà cũng bắt đầu dạy múa ở Đài Nam. Năm 1947, bà kết hôn với nhà thơ Lôi Thạch Du, và sau đó hai người chuyển đến Đài Bắc, sống và làm việc trong ký túc xá giáo viên của Đại học Đài Loan. Tòa nhà kiểu Nhật tại ngõ 48, đoạn 2, Trung Sơn Bắc dần trở thành phòng múa, nơi ở gia đình và nơi gặp gỡ bạn bè nghệ thuật. [^4] [^9]
+Năm 1946, không lâu sau khi Thái Thụy Nguyệt (Tsai Jui-yueh) trở về Đài Nam, bà đã biểu diễn múa tại Nhà thờ Thái Bình Cảnh. Bà cũng bắt đầu dạy múa tại Đài Nam. Năm 1947, bà kết hôn với nhà thơ Lôi Thạch Du (Lei Shih-yu), sau đó hai người chuyển đến Đài Bắc, sinh sống và làm việc tại khu ký túc xá dành cho giảng viên của Đại học Quốc gia Đài Loan. Tòa kiến trúc kiểu Nhật nằm tại ngõ 48, đoạn 2 đường Trung Sơn Bắc này dần trở thành phòng học múa, nơi ở của gia đình và là điểm tụ họp của những người bạn văn nghệ. [^4] [^9]
 
-Giá trị của tòa nhà này không chỉ đến từ việc ai đã từng sống ở đó. Hồ sơ và tài liệu địa điểm cho thấy tòa nhà ban đầu là ký túc xá quan chức thời Nhật Bản, được xây dựng khoảng năm 1925, sau đó được mở rộng hoặc cải tạo để phục vụ việc dạy múa. Những dấu vết về niên đại chưa hoàn toàn nhất quán này, ngược lại, chứng minh rằng đoàn múa không phải là một hiện vật bị niêm phong mà là một không gian làm việc liên tục được điều chỉnh bởi người sử dụng. [^8] [^9]
+Giá trị của tòa nhà này không chỉ đến từ việc ai đã từng sống ở đó. Các tài liệu lưu trữ và dữ liệu về địa điểm cho thấy, công trình vốn là ký túc xá dành cho quan chức thời kỳ Nhật thuộc, được xây dựng vào khoảng năm 1925, sau đó được xây thêm hoặc cải tạo để đáp ứng nhu cầu giảng dạy múa. Những dấu vết không hoàn toàn đồng nhất về các thời kỳ này trái lại đã chứng minh rằng câu lạc bộ múa không phải là một hiện vật trưng bày bị đóng băng, mà là một không gian làm việc liên tục được điều chỉnh theo người sử dụng. [^8] [^9]
 
-![Ngoại cảnh tòa nhà Đoàn nghiên cứu múa Thái Thụy Nguyệt](https://upload.wikimedia.org/wikipedia/commons/f/f3/%E8%94%A1%E7%91%9E%E6%9C%88%28%E8%88%9E%E8%B9%88%E7%A0%94%E7%A9%B6%E7%A4%BE%29_0432.jpg)[^13]
+![Ngoại thất tòa nhà Đoàn nghiên cứu múa Thái Thụy Nguyệt](https://upload.wikimedia.org/wikipedia/commons/f/f3/%E8%94%A1%E7%91%9E%E6%9C%88%28%E8%88%9E%E8%B9%88%E7%A0%94%E7%A9%B6%E7%A4%BE%29_0432.jpg)[^13]
 
-_Hình 2: Ngoại cảnh tòa nhà Đoàn nghiên cứu múa Thái Thụy Nguyệt. Nhiếp ảnh: Lâm Cao Chí, cấp phép CC BY-SA 4.0. Liên kết gốc của hình ảnh: [Tệp gốc Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/f/f3/%E8%94%A1%E7%91%9E%E6%9C%88%28%E8%88%9E%E8%B9%88%E7%A0%94%E7%A9%B6%E7%A4%BE%29_0432.jpg). Trang tệp và mô tả cấp phép: Trang tệp Wikimedia Commons. Không chỉnh sửa lần này._
+_Hình 2: Ngoại thất tòa nhà Đoàn nghiên cứu múa Thái Thụy Nguyệt. Ảnh: Lâm Cao Chí (Lin Gao-zhi), được cấp phép theo CC BY-SA 4.0. Link ảnh gốc: [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/f/f3/%E8%94%A1%E7%91%9E%E6%9C%88%28%E8%88%9E%E8%B9%88%E7%A0%94%E7%A9%B6%E7%A4%BE%29_0432.jpg). Chú thích bản quyền và tài liệu: Trang tệp Wikimedia Commons. Không có thay đổi trong lần này._
 
 [Trang tệp Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E8%94%A1%E7%91%9E%E6%9C%88%28%E8%88%9E%E8%B9%88%E7%A0%94%E7%A9%B6%E7%A4%BE%29_0432.jpg)
 
-Các tài liệu được lưu giữ tại Lưu trữ Quốc gia cho thấy phòng học này không chỉ là một salon văn nghệ ấm cúng. Các nhà hoạt động văn hóa như Hoàng Vinh Xán, Đàm Tử Hào, Lam Ân Đỉnh đã qua lại ở đây, thảo luận về cách văn học, ngôn ngữ và múa phát triển ở Đài Loan. [^4] Nhưng cùng mạch hồ sơ cũng cho thấy các hoạt động nghệ thuật luôn nằm dưới sự giám sát của cơ quan cảnh sát. Năm 1949, đoàn ca vũ Thái Thụy Nguyệt bị liệt vào danh sách "Đối tượng quản lý nghi vấn" do nội dung biểu diễn. Tài liệu của Cảnh sát thậm chí còn giải thích các đoạn trên sân khấu là có khả năng gây ra "sự hoài niệm quê hương và chống chiến tranh" và "nghi ngờ tuyên truyền cho kẻ phản động". [^5]
+Các tư liệu được lưu giữ tại Cục Lưu trữ Quốc gia cho thấy phòng học này không chỉ đơn thuần là một salon văn nghệ ấm cúng. Những người làm công tác văn nghệ như Hoàng Vinh Xán (Huang Rong-can), Đàm Tử Hào (Tan Tzu-hao), Lam Âm Đỉnh (Lan Yin-ding) đã từng qua lại nơi đây, cùng nhau thảo luận về cách văn học, ngôn ngữ và múa nảy nở tại Đài Loan. [^4] Tuy nhiên, cùng một mạch tài liệu đó cũng cho thấy các hoạt động văn nghệ luôn nằm trong tầm mắt của cơ quan cảnh sát. Năm 1949, đoàn ca múa của Thái Thụy Nguyệt đã bị liệt vào đối tượng "quản chế nghi vấn" do nội dung biểu diễn. Các văn bản của Sở Cảnh vụ thậm chí còn diễn giải các phân đoạn trên sân khấu là có khả năng gây ra tâm lý "nhớ quê chán chiến" và "nghi vấn tuyên truyền cho phiến quân". [^5]
 
-Đây không phải là hậu thế áp đặt khủng bố trắng lên lịch sử nghệ thuật, mà là cách thức quốc gia nhìn nhận múa đã được lưu lại trong hồ sơ. Cơ thể của vũ công không chỉ bị xem như nghệ thuật, mà còn có thể bị coi là vật mang tư tưởng. Đối với quyền lực, múa không cần khẩu hiệu rõ ràng mới nguy hiểm. Bản thân sự chuyển động cơ thể cũng có thể bị giải thích là sự bất phục tùng.
+Đây không phải là việc hậu thế áp đặt khái niệm Khủng bố Trắng vào lịch sử nghệ thuật, mà thực sự những hồ sơ lưu trữ đã để lại cách thức mà nhà nước quan sát múa. Cơ thể của vũ công không chỉ được xem là nghệ thuật, mà còn có thể bị xem là vật mang tư tưởng. Đối với quyền lực, múa không nhất thiết phải có khẩu hiệu rõ ràng mới trở nên nguy hiểm. Bản thân sự chuyển động của cơ thể cũng có thể bị diễn giải là một sự không phục tùng.
 
 ## Tù nhân số 15 và nhịp điệu của sàn nhà
 
@@ -124,21 +124,21 @@ Thái Thụy Nguyệt nói trước đoàn múa bị cháy:
 
 Câu này đến từ bài báo của Đoàn nghiên cứu múa Thái Thụy Nguyệt do tạp chí 《Min Bao Văn hóa》 chuyển ngữ năm 2015. Nó không phải là bản án tòa án, cũng không phải báo cáo điều tra hỏa hoạn, mà là ký ức hiện trường được một người được phỏng vấn lưu giữ. Việc trích dẫn nó là để độc giả biết rằng vụ cháy này không phải là một sự kiện văn hóa trừu tượng, mà là ai đó đã nhìn thấy sàn gỗ quen thuộc, bức tường và dấu vết sinh hoạt bị đốt cháy.
 
-## Sau ngọn lửa, đừng chỉ nói tái sinh
+## Sau khi bước ra từ lửa đỏ, đừng chỉ nói về sự tái sinh
 
-Năm 2006, Đoàn nghiên cứu múa Thái Thụy Nguyệt mở cửa trở lại. Bản thông cáo báo chí của Phủ Tổng thống lúc đó cho biết đây là di tích cố định đầu tiên ở Đài Loan với chủ đề múa, và định vị nó như một cổng giao lưu văn hóa và quốc tế của Đài Loan. [^6] Giới thiệu hiện tại của Văn phòng Văn hóa Đài Bắc giải thích rằng địa điểm này sẽ trưng bày tư liệu và hình ảnh lịch sử múa, thúc đẩy nghiên cứu, giáo dục và giao lưu quốc tế. [^8]
+Năm 2006, Đoàn nghiên cứu múa Thái Thụy Nguyệt (Tsai Jui-yueh Dance Institute) đã mở cửa trở lại. Thông cáo báo chí về lễ khai trương của Phủ Tổng thống thời điểm đó cho biết, đây là di tích cấp thành phố đầu tiên tại Đài Loan lấy khiêu vũ làm chủ đề, đồng thời định vị nơi này là cửa ngõ giao lưu quốc tế và vũ đạo của Đài Loan. [^6] Theo giới thiệu hiện tại của Cục Văn hóa Thành phố Đài Bắc, địa điểm này sẽ trưng bày các tư liệu lịch sử và hình ảnh về vũ đạo, nhằm thúc đẩy nghiên cứu, giáo dục và giao lưu quốc tế. [^8]
 
-Sự định vị này khiến di tích Hồng Môn không chỉ là "ngôi nhà Thái Thụy Nguyệt từng ở". Nó đồng thời là cổng lưu trữ tài liệu lịch sử múa, không gian giáo dục cho người dân tiếp cận huấn luyện cơ thể, và là trung tâm văn hóa đưa múa Đài Loan vào đối thoại quốc tế. Ba mục đích này không phải lúc nào cũng tự nhiên nhất quán. Việc bảo tồn đòi hỏi kiểm soát môi trường và dấu vết, việc giảng dạy cần sử dụng sàn nhà lặp đi lặp lại, còn giao lưu quốc tế thì cần dịch câu chuyện địa phương thành ngôn ngữ mà khán giả bên ngoài có thể hiểu được. Vấn đề lâu dài của đoàn múa chính là làm sao để ba mục đích này hỗ trợ lẫn nhau chứ không tiêu hao lẫn nhau. [^6] [^8]
+Định vị này giúp Di tích Hoa Hồng (Rose Mansion) không chỉ đơn thuần là "ngôi nhà từng ở của Thái Thụy Nguyệt". Nó đồng thời là kho lưu trữ tư liệu lịch sử vũ đạo, là không gian giáo dục để công chúng tiếp cận với việc rèn luyện thân thể, và cũng là điểm văn hóa đưa vũ đạo Đài Loan vào cuộc đối thoại quốc tế. Ba mục đích này không phải lúc nào cũng nhất quán một cách tự nhiên. Việc bảo tồn đòi hỏi kiểm soát môi trường và các dấu vết, việc giảng dạy cần sử dụng sàn nhà lặp đi lặp lại, còn giao lưu quốc tế lại cần chuyển ngữ những câu chuyện địa phương sang ngôn ngữ mà khán giả bên ngoài có thể hiểu được. Thách thức lâu dài của đoàn múa chính là làm sao để ba mục đích này hỗ trợ lẫn nhau thay vì tiêu hao lẫn nhau. [^6] [^8]
 
-"Tái sinh sau lửa cháy" là một từ dễ dùng, nhưng nó cũng có thể che lấp các vấn đề tiếp theo. Biên bản cuộc họp trùng tu tháng 11 năm 1999 do quỹ lưu giữ cho thấy, sau hỏa hoạn, quỹ đã cùng các học giả và các đơn vị liên quan của chính quyền Đài Bắc tổ chức cuộc họp để thảo luận về việc trùng tu. [^10] Nhưng trùng tu không phải là kết thúc khi tường được xây lại. Những vật liệu nào có thể thay thế, những dấu vết nào nên được giữ lại, ai có quyền quyết định một nơi do cộng đồng văn hóa tạo ra sẽ vận hành như thế nào, tất cả đều là một phần của công việc bảo tồn.
+"Tái sinh từ lửa đỏ" là một cụm từ hay, nhưng nó cũng có thể che lấp đi những vấn đề nảy sinh sau đó. Biên bản khảo sát tu bổ vào tháng 11 năm 1999 do quỹ lưu giữ cho thấy, sau vụ hỏa hoạn, các cuộc họp thảo luận về việc phục hồi đã được tổ chức bởi quỹ, các học giả và các đơn vị liên quan của chính quyền Thành phố Đài Bắc. [^10] Tuy nhiên, việc tu bổ không kết thúc chỉ bằng việc xây lại những bức tường. Những vật liệu nào có thể thay thế, những dấu vết nào nên được giữ lại, và ai có quyền quyết định cách thức vận hành của một địa điểm do cộng đồng văn hóa tạo ra — tất cả đều là một phần của công tác bảo tồn.
 
-Vì vậy, giá trị của di tích Hồng Môn không chỉ nằm ở chỗ tòa nhà gỗ vẫn đứng vững. Giá trị của nó còn nằm ở chỗ nó đặt một đoạn lịch sử múa, một đoạn lịch sử đau khổ của phụ nữ, một đoạn lịch sử phát triển đô thị và một cuộc tranh chấp tài sản văn hóa chưa được làm rõ vào cùng một địa chỉ. Văn phòng Văn hóa Đài Bắc nói nơi đây từng là "cái nôi múa Đài Loan", nếu muốn danh xưng này không trở thành khẩu hiệu du lịch, thì nó phải được ghi nhớ cùng với sự giám sát, nguy cơ phá dỡ, hỏa hoạn và tranh chấp trùng tu. [^8]
+Do đó, giá trị của Di tích Hoa Hồng không chỉ nằm ở việc kiến trúc gỗ vẫn còn đứng vững. Giá trị của nó còn nằm ở chỗ, nó đặt một đoạn lịch sử vũ đạo, một đoạn lịch sử về những nỗi đau của người phụ nữ, một đoạn lịch sử phát triển đô thị và một cuộc tranh chấp tài sản văn hóa chưa được làm rõ hoàn toàn vào cùng một địa chỉ. Cục Văn hóa Thành phố Đài Bắc gọi nơi đây từng là "cái nôi của vũ đạo Đài Loan"; để danh xưng này không trở thành một khẩu hiệu du lịch sáo rỗng, nó phải được ghi nhớ cùng với những cuộc khủng hoảng về giám sát, phá dỡ, hỏa hoạn và các tranh chấp tu bổ. [^8]
 
-Bảng giải thích tại hiện trường cũng nhắc nhở độc giả rằng "khôi phục nguyên trạng" ở đây không đơn thuần là sao chép lại vẻ ngoài của những năm 1920, mà là sự lựa chọn giữa việc bảo tồn các tầng lớp hỏa hoạn, giảng dạy, xây dựng và sử dụng hàng ngày. Nhìn thấy một bảng giải thích không có nghĩa là đã đọc hết lịch sử, nhưng nó cho người tham quan biết: bảo tồn di sản văn hóa cũng là một công việc biên soạn lịch sử, ai được viết vào, những dấu vết nào được giữ lại, tất cả đều ảnh hưởng đến cách hậu thế hiểu về Thái Thụy Nguyệt. [^13] [^14]
+Bảng thuyết minh tại công trình kiến trúc cũng nhắc nhở độc giả rằng, việc "phục hồi nguyên trạng" ở đây không đơn thuần là sao chép lại diện mạo của những năm 1920, mà là sự lựa chọn giữa các tầng lớp lịch sử: hỏa hoạn, giảng dạy, xây dựng thêm và sử dụng hàng ngày. Nhìn thấy một tấm bảng thuyết minh không đồng nghĩa với việc đã hiểu hết đoạn lịch sử này, nhưng nó giúp khách tham quan nhận ra rằng: bảo tồn di sản văn hóa đồng thời cũng là một công tác biên soạn lịch sử — ai được viết vào, những dấu vết nào được để lại, tất cả đều sẽ ảnh hưởng đến cách thế hệ mai sau thấu hiểu về Thái Thụy Nguyệt. [^13] [^14]
 
-![Bảng giải thích Đoàn nghiên cứu múa Thái Thụy Nguyệt](https://upload.wikimedia.org/wikipedia/commons/8/8f/Tsai_Jui-yueh_Dance_Institute_plaque_20190706.jpg)[^14]
+![Bảng thuyết minh Đoàn nghiên cứu múa Thái Thụy Nguyệt](https://upload.wikimedia.org/wikipedia/commons/8/8f/Tsai_Jui-yueh_Dance_Institute_plaque_20190706.jpg)[^14]
 
-_Hình 3: Bảng giải thích Đoàn nghiên cứu múa Thái Thụy Nguyệt. Nhiếp ảnh: Solomon203, cấp phép CC BY-SA 4.0. Liên kết gốc của hình ảnh: [Tệp gốc Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/8/8f/Tsai_Jui-yueh_Dance_Institute_plaque_20190706.jpg). Trang tệp và mô tả cấp phép: [Trang tệp Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tsai_Jui-yueh_Dance_Institute_plaque_20190706.jpg). Không chỉnh sửa lần này._
+_Hình 3: Bảng thuyết minh Đoàn nghiên cứu múa Thái Thụy Nguyệt. Ảnh: Solomon203, được cấp phép theo CC BY-SA 4.0. Liên kết gốc của ảnh: [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/8/8f/Tsai_Jui-yueh_Dance_Institute_plaque_20190706.jpg). Thông tin cấp phép và tệp lưu trữ: [Trang tệp Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tsai_Jui-yueh_Dance_Institute_plaque_20190706.jpg). Không có thay đổi trong bản này._
 
 ## Sàn nhà vẫn đang chờ động tác tiếp theo
 
