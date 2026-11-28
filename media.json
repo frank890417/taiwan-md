@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "fetchedAt": "2026-11-28T18:30:51+08:00",
+ "fetchedAt": "2026-11-28T18:31:49+08:00",
  "sourceName": "Yahoo新聞",
  "sourceUrl": "https://tw.news.yahoo.com/topic/2026-election/",
  "note": "媒體自行計票，非中選會官方數字",
@@ -23,18 +23,18 @@
    ]
   },
   "新北市": {
-   "updatedAt": "2026-11-28T18:26:00+08:00",
+   "updatedAt": "2026-11-28T18:31:31+08:00",
    "candidates": [
     {
      "name": "蘇巧慧",
-     "votes": 540995,
-     "pct": 48.7,
+     "votes": 541304,
+     "pct": 48.69,
      "elected": false
     },
     {
      "name": "李四川",
-     "votes": 569968,
-     "pct": 51.3,
+     "votes": 570486,
+     "pct": 51.31,
      "elected": false
     }
    ]
@@ -74,18 +74,18 @@
    ]
   },
   "宜蘭縣": {
-   "updatedAt": "2026-11-28T18:23:34+08:00",
+   "updatedAt": "2026-11-28T18:31:06+08:00",
    "candidates": [
     {
      "name": "林國漳",
-     "votes": 50994,
-     "pct": 54.66,
+     "votes": 54887,
+     "pct": 54.93,
      "elected": false
     },
     {
      "name": "吳宗憲",
-     "votes": 42303,
-     "pct": 45.34,
+     "votes": 45028,
+     "pct": 45.07,
      "elected": false
     }
    ]
@@ -188,24 +188,24 @@
    ]
   },
   "澎湖縣": {
-   "updatedAt": "2026-11-28T18:07:11+08:00",
+   "updatedAt": "2026-11-28T18:31:25+08:00",
    "candidates": [
     {
      "name": "葉竹林",
-     "votes": 922,
-     "pct": 16.76,
+     "votes": 1769,
+     "pct": 17.08,
      "elected": false
     },
     {
      "name": "吳淑瑾",
-     "votes": 1852,
-     "pct": 33.67,
+     "votes": 3205,
+     "pct": 30.94,
      "elected": false
     },
     {
      "name": "陳振中",
-     "votes": 2345,
-     "pct": 42.63,
+     "votes": 3980,
+     "pct": 38.42,
      "elected": false
     }
    ]
@@ -228,18 +228,18 @@
    ]
   },
   "嘉義市": {
-   "updatedAt": "2026-11-28T18:20:52+08:00",
+   "updatedAt": "2026-11-28T18:31:41+08:00",
    "candidates": [
     {
      "name": "張啓楷",
-     "votes": 27764,
-     "pct": 44.11,
+     "votes": 29991,
+     "pct": 44.27,
      "elected": false
     },
     {
      "name": "王美惠",
-     "votes": 35182,
-     "pct": 55.89,
+     "votes": 37753,
+     "pct": 55.73,
      "elected": false
     }
    ]
