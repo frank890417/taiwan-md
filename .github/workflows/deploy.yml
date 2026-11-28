@@ -236,7 +236,17 @@ jobs:
           # Without it, the stats fetch was rate-limited and stars went None → about
           # hero showed "0+" (2026-06-13 regression root-cause fix).
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: npm run build
+        # 2026-11-28 分片建置：astro 產頁幾乎只用一顆核心（同款 runner 實測 CPU 143%），
+        # 把 13 個語言切成 4 份同時跑，241 秒 → 116 秒（run 46142747996）。
+        # `npm run build` 會自動帶 prebuild 與 postbuild；這裡拆開寫，中間換成
+        # build:sharded（scripts/core/build-sharded.mjs），前後兩步照舊。
+        # 產物跟單次建置比對過：頁面內容相同、sitemap 逐位元組相同、
+        # 瀏覽器算出來的樣式相同（scripts/tools/compare-build-styles.mjs）。
+        # 還原：把下面三行換回一行 `npm run build`。
+        run: |
+          npm run prebuild
+          npm run build:sharded
+          npm run postbuild
       # 2026-11-17 CI 加速：upload-pages-artifact@v5 是「tar 打包＋upload-artifact」
       # 兩步的組合，但不開放壓縮等級，內部固定用 6。站體 tar 是 6.1GB，等級 6
       # 壓成 1.96GB 要 100–107 秒；等級 1 壓成 2.13GB 只要 63 秒（同 commit 實測，
