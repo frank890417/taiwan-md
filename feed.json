@@ -5,6 +5,19 @@
  "overviewAt": null,
  "items": [
   {
+   "id": "r1-cec-resumed",
+   "time": "2026-11-28T16:02:00+08:00",
+   "kind": "analysis",
+   "title": "本頁票數轉錄已恢復（16:02 起）",
+   "body": "上一則提醒的轉錄已在 16:02 開始運作，全國 18,248 個投開票所目前回報 0 個，各縣市都還沒有票數。之後每幾分鐘更新一次，數字以中選會網站為準。",
+   "sources": [
+    {
+     "name": "中選會計票資訊查詢網站",
+     "url": "https://vote.cec.gov.tw/2026-local/zh-TW/indexP.html"
+    }
+   ]
+  },
+  {
    "id": "r1-cec-direct",
    "time": "2026-11-28T16:02:00+08:00",
    "kind": "analysis",
