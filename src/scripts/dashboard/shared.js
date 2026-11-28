@@ -16,6 +16,7 @@ const categoryLabels = {
   music: isEn ? 'Music' : '音樂',
   nature: isEn ? 'Nature' : '自然',
   people: isEn ? 'People' : '人物',
+  politics: isEn ? 'Politics' : '政治',
   society: isEn ? 'Society' : '社會',
   technology: isEn ? 'Technology' : '科技',
 };

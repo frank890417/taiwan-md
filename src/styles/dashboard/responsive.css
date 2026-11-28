@@ -21,6 +21,9 @@
   .registry-controls {
     flex-direction: column;
   }
+  .registry-media-stats {
+    grid-template-columns: 1fr;
+  }
   .registry-filters {
     flex-wrap: wrap;
   }
@@ -40,6 +43,12 @@
 }
 
 @media (max-width: 480px) {
+  .media-stat-value {
+    font-size: 1.3rem;
+  }
+  .media-cat-row {
+    grid-template-columns: 3.6rem minmax(0, 1fr) 5.6rem;
+  }
   .vitals-grid {
     grid-template-columns: repeat(2, 1fr);
     gap: 0.6rem;

@@ -8,6 +8,7 @@
 
 import fs from 'fs';
 import { keyCoverage, coverage } from './lib/dashboard-coverage.mjs';
+import { loadCensusMedia, mediaFields } from './lib/dashboard-media.mjs';
 import path from 'path';
 import https from 'https';
 import { fileURLToPath } from 'url';
@@ -620,6 +621,17 @@ async function main() {
   // Load quality scores cache
   const qualityScores = loadQualityScores();
 
+  // 封面／圖片／資訊模組讀數：join 普查儀器（prebuild 鏈裡排在本腳本前面）的
+  // dashboard-census.json media。讀不到就全部填 null（未知），不落成 none / 0。
+  const censusMedia = loadCensusMedia(
+    path.join(OUTPUT_DIR, 'dashboard-census.json'),
+  );
+  if (!censusMedia) {
+    console.warn(
+      '⚠️  dashboard-census.json 不存在或沒有 media，文章的封面／圖片／模組欄位全部填 null（未知）',
+    );
+  }
+
   // Get all zh-TW articles
   const rawArticles = getZhTwArticles();
 
@@ -735,9 +747,19 @@ async function main() {
         fnCount,
         bodyInternalLinks: bodyInternalLinks.count,
         bodyInternalLinksZero: bodyInternalLinks.zero,
+        ...mediaFields(censusMedia, raw.relativePath),
       });
     } catch (err) {
       console.error(`Error processing ${raw.filePath}: ${err.message}`);
+    }
+  }
+
+  if (censusMedia) {
+    const unknown = articles.filter((a) => a.cover === null).length;
+    if (unknown > 0) {
+      console.warn(
+        `⚠️  ${unknown} 篇文章在 dashboard-census.json media 裡查不到，媒體欄位填 null（未知）`,
+      );
     }
   }
 
