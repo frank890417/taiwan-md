@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "fetchedAt": "2026-11-28T21:14:51+08:00",
+ "fetchedAt": "2026-11-28T21:15:50+08:00",
  "sourceName": "Yahoo新聞",
  "sourceUrl": "https://tw.news.yahoo.com/topic/2026-election/",
  "note": "媒體自行計票，非中選會官方數字",
@@ -74,18 +74,18 @@
    ]
   },
   "宜蘭縣": {
-   "updatedAt": "2026-11-28T21:04:32+08:00",
+   "updatedAt": "2026-11-28T21:15:11+08:00",
    "candidates": [
     {
      "name": "林國漳",
-     "votes": 120086,
-     "pct": 53.73,
+     "votes": 125295,
+     "pct": 53.67,
      "elected": true
     },
     {
      "name": "吳宗憲",
-     "votes": 99078,
-     "pct": 44.33,
+     "votes": 103618,
+     "pct": 44.39,
      "elected": false
     }
    ]
@@ -114,41 +114,41 @@
    ]
   },
   "連江縣": {
-   "updatedAt": "2026-11-28T21:09:39+08:00",
+   "updatedAt": "2026-11-28T21:14:57+08:00",
    "candidates": [
     {
      "name": "王忠銘",
-     "votes": 4040,
-     "pct": 58.5,
+     "votes": 4494,
+     "pct": 58.33,
      "elected": true
     },
     {
      "name": "曹爾元",
-     "votes": 2866,
-     "pct": 41.5,
+     "votes": 3211,
+     "pct": 41.67,
      "elected": false
     }
    ]
   },
   "彰化縣": {
-   "updatedAt": "2026-11-28T21:05:02+08:00",
+   "updatedAt": "2026-11-28T21:15:00+08:00",
    "candidates": [
     {
      "name": "陳素月",
-     "votes": 255134,
-     "pct": 46.69,
+     "votes": 264228,
+     "pct": 46.59,
      "elected": true
     },
     {
      "name": "魏平政",
-     "votes": 225253,
-     "pct": 41.22,
+     "votes": 233813,
+     "pct": 41.23,
      "elected": false
     },
     {
      "name": "邱建富",
-     "votes": 58533,
-     "pct": 10.71,
+     "votes": 61210,
+     "pct": 10.79,
      "elected": false
     }
    ]
@@ -188,24 +188,24 @@
    ]
   },
   "澎湖縣": {
-   "updatedAt": "2026-11-28T21:09:52+08:00",
+   "updatedAt": "2026-11-28T21:14:22+08:00",
    "candidates": [
     {
      "name": "葉竹林",
-     "votes": 9588,
-     "pct": 19.98,
+     "votes": 9794,
+     "pct": 20.03,
      "elected": false
     },
     {
      "name": "吳淑瑾",
-     "votes": 15235,
-     "pct": 31.75,
+     "votes": 15476,
+     "pct": 31.65,
      "elected": false
     },
     {
      "name": "陳振中",
-     "votes": 20083,
-     "pct": 41.85,
+     "votes": 20496,
+     "pct": 41.91,
      "elected": true
     }
    ]
