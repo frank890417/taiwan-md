@@ -3,7 +3,7 @@ title: '把部署從 GitHub Pages 搬到 Cloudflare 的規劃'
 date: 2026-11-28
 session: '2026-11-28-191052-cicd-speed-eval'
 type: 'migration-plan'
-status: '第 0、1 階段完成，第 2 階段等 API 權杖；正式網域還沒有動'
+status: '已切換：2026-11-29 01:03 起正式站由 Cloudflare 送出；GitHub Pages 留作冷備份'
 related:
   - 'reports/cicd-speed-evaluation-2026-11-28.md（§十一：為什麼要搬）'
   - 'reports/site-health-2026-11-04.md'
@@ -152,4 +152,21 @@ GitHub Pages 預設幫忙做、Cloudflare 要自己確認的事，逐項拿預�
 - 2026-11-29 00:20　第 2 階段的程式開成 PR #2097；repo secrets 已設帳號 ID、預覽 Worker 名稱、noindex 旗標。**等哲宇建 API 權杖**，CI 上才會真的跑。
 - 2026-11-29 00:08　哲宇建好 API 權杖並放進 repo secrets（權杖範圍：這個帳號的 Workers 相關編輯權，網域只給 `taiwan.md`）。PR #2097 合併。
 - 2026-11-29 00:22　CI 上第一次並行部署（run 46163561283）成功。Cloudflare 那一步補傳了 24,694 個檔、408 秒：本機先前上傳的那份跟 CI 建的不是同一個 commit、也不是同一台機器建的，所以大部分 HTML 的雜湊不同。這一次因此把 GitHub Pages 拖慢約五分鐘（push 到上線 807 秒）。預覽站與正式站的 `stats.json`、sitemap 清單相同。
-- 還沒做：看第二次以後的部署，確認 Cloudflare 那一步回到幾十秒；第 1 階段的大量抽樣比對與對預覽網址跑樣式比對工具。
+- 2026-11-29 00:36　CI 第二次並行部署：Cloudflare 那一步補傳 253 個檔、70 秒，跟上傳 GitHub Pages 同時跑。
+- 2026-11-29 00:40　抽 300 個網址比正式站與預覽站：狀態碼全同；內容唯一差異是 Cloudflare 在正式站自動插入的分析信標。
+- 2026-11-29 00:45　哲宇：「切換啊，一次做到完」。不等並行期，直接進第 3 階段。
+- 2026-11-29 00:55　拿掉「不收錄」旗標、設定正式網域後的那次部署：新版本上線了，但掛網域失敗，因為 `taiwan.md` 還有指向 GitHub Pages 的四筆 A 紀錄，Cloudflare 要求先刪。
+- **2026-11-29 01:03　切換完成。** 刪掉四筆 A 紀錄、把 `taiwan.md` 掛到 Worker，前後 7 秒，01:03:12 起正式站由 Cloudflare 送出。切換前的 DNS 紀錄存在本機，退回時照著建回去。
+- 2026-11-29 01:04　驗證：20 種網址的狀態碼、型別、快取標頭、404、轉址都對；字型閘門 3/3 通過；MCP 子網域不受影響。
+- 2026-11-29 01:05　補兩件原本由 GitHub Pages 代勞的事：打開「一律使用 HTTPS」（`http://` 之前切換後會直接回 200）；`www.taiwan.md` 改由 Cloudflare 的轉址規則轉回主網域，不再經過 GitHub。
+- 2026-11-29 01:10　`deploy.yml` 改成正式站的規矩：建置一完成就開始部署、先確認 validate job 通過、Cloudflare 部署失敗就是這次部署失敗。
+
+### 切換後還沒做的
+
+- Cloudflare 的分析信標不會自動插入掛在 Worker 上的網域，切換後消失了。要的話得把信標那一行寫進版面（GA 不受影響）。
+- Worker 的名字還叫「preview」，純粹是名字，之後可以改。
+- GitHub Pages 目前仍然每次 push 都部署（當冷備份）。照規劃第 4 階段要改成每天一次，那之後 CI 才不必每次都打包上傳 2GB。
+- 字型閘門還掛在 GitHub Pages 那個 job 後面，應該改掛在 Cloudflare 部署之後。
+- `dashboard-build-perf` 讀的是 Build 步驟的時間，不受影響；但「push 到上線」的定義變了，報表要跟著改。
+- 還沒量切換後第一次部署的時間與「部署後多久看得到」。
+- 既有的快取規則（HTML 與 JSON 在邊緣快取、時間照來源）還開著。來源現在送的是「每次都要確認」，所以不應該再有十分鐘的舊版，但還沒用一次真實的改動驗證。
