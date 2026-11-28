@@ -886,7 +886,7 @@ const boot = {
         const rows = top
           .map(
             (c: Cand) =>
-              `<span class="lb-dc-row${head && c === head ? ' is-head' : ''}" data-party="${partyKey(c.party)}" data-row="${esc(v.race.area + '|' + c.name)}" style="--w:${v.hasVotes ? Math.min(100, c.pct || 0).toFixed(1) : 0}%">${avatarHtml(c)}<span class="lb-dc-n">${esc(c.name)}</span><span class="lb-dc-p"${v.hasVotes ? ` data-n="${(c.pct || 0).toFixed(1)}" data-f="pct" data-k="${esc('p|' + v.race.area + '|' + c.name)}"` : ''}>${v.hasVotes ? (c.pct || 0).toFixed(1) + '%' : ''}</span><span class="lb-dc-v"${v.hasVotes ? ` data-n="${c.votes || 0}" data-f="int" data-k="${esc('v|' + v.race.area + '|' + c.name)}"` : ''}>${v.hasVotes ? num(c.votes) : esc(c.partyLabel || c.party)}</span></span>`,
+              `<span class="lb-dc-row${head && c === head ? ' is-head' : ''}" data-party="${partyKey(c.party)}" data-row="${esc(v.race.area + '|' + c.name)}" style="--w:${v.hasVotes ? Math.min(100, c.pct || 0).toFixed(1) : 0}%">${avatarHtml(c)}<span class="lb-dc-n${Array.from(c.name).length > 4 ? ' is-long' : ''}">${esc(c.name)}</span><span class="lb-dc-p"${v.hasVotes ? ` data-n="${(c.pct || 0).toFixed(1)}" data-f="pct" data-k="${esc('p|' + v.race.area + '|' + c.name)}"` : ''}>${v.hasVotes ? (c.pct || 0).toFixed(1) + '%' : ''}</span><span class="lb-dc-v"${v.hasVotes ? ` data-n="${c.votes || 0}" data-f="int" data-k="${esc('v|' + v.race.area + '|' + c.name)}"` : ''}>${v.hasVotes ? num(c.votes) : esc(c.partyLabel || c.party)}</span></span>`,
           )
           .join('');
         const bar = v.hasVotes
@@ -3825,5 +3825,111 @@ const boot = {
   }
   .lb-prog-fill {
     background: var(--el-ink-2);
+  }
+
+  /* ══ 姓名不縮寫（哲宇 19:36）：每一格是一個容器，字級、頭像跟著格子寬度縮放，
+     姓名永遠完整顯示；超過四個字的姓名改成較小字並允許換行。══ */
+  .lb .lb-dc {
+    container-type: inline-size;
+  }
+  .lb .lb-dc .lb-dc-row {
+    grid-template-columns: auto auto minmax(0, 1fr);
+    column-gap: clamp(4px, 3cqw, 8px);
+    padding: 2px clamp(4px, 3.5cqw, 9px) 2px clamp(3px, 2cqw, 5px);
+  }
+  .lb .lb-dc .lb-av {
+    width: clamp(20px, 15cqw, 34px);
+    height: clamp(20px, 15cqw, 34px);
+    font-size: clamp(10px, 6.5cqw, 14px);
+  }
+  .lb .lb-dc .lb-dc-n,
+  .lb .lb-dc .lb-dc-row.is-head .lb-dc-n {
+    font-size: clamp(12px, 8cqw, 17px);
+    white-space: nowrap;
+    overflow: visible;
+    text-overflow: clip;
+  }
+  .lb .lb-dc .lb-dc-n.is-long {
+    font-size: clamp(10px, 5.6cqw, 13px);
+    white-space: normal;
+    overflow-wrap: anywhere;
+    line-height: 1.1;
+    max-width: 7.2em;
+  }
+  .lb .lb-dc .lb-dc-p,
+  .lb .lb-dc .lb-dc-row.is-head .lb-dc-p,
+  .lb .lb-dc .lb-dc-row:not(.is-head) .lb-dc-p {
+    font-size: clamp(13px, 9.2cqw, 20px);
+    text-align: end;
+    min-width: 0;
+    white-space: nowrap;
+  }
+  .lb .lb-dc .lb-dc-v {
+    grid-column: 2 / span 2;
+    font-size: clamp(10px, 5.8cqw, 12.5px);
+    overflow: visible;
+  }
+  .lb .lb-dc .lb-dc-h b {
+    font-size: clamp(13px, 8cqw, 17px);
+  }
+  /* 半螢幕寬：一行四欄，位置寫死（頭像｜姓名｜票數｜得票率），不靠自動排位 */
+  @media (min-width: 760px) and (max-width: 1099px) and (min-height: 660px) {
+    .lb .lb-dc .lb-dc-row {
+      grid-template-columns: auto auto minmax(0, 1fr) auto;
+      grid-template-rows: auto;
+    }
+    .lb .lb-dc .lb-av {
+      grid-column: 1;
+      grid-row: 1;
+    }
+    .lb .lb-dc .lb-dc-n,
+    .lb .lb-dc .lb-dc-row.is-head .lb-dc-n {
+      grid-column: 2;
+      grid-row: 1;
+    }
+    .lb .lb-dc .lb-dc-v {
+      grid-column: 3;
+      grid-row: 1;
+      text-align: end;
+      overflow: hidden;
+      text-overflow: clip;
+    }
+    .lb .lb-dc .lb-dc-p,
+    .lb .lb-dc .lb-dc-row.is-head .lb-dc-p,
+    .lb .lb-dc .lb-dc-row:not(.is-head) .lb-dc-p {
+      grid-column: 4;
+      grid-row: 1;
+      min-width: 3em;
+    }
+    .lb-dc-thresh {
+      display: none;
+    }
+    .lb .lb-dc-ref {
+      padding-inline-end: 0;
+    }
+    /* 這個寬度一行要放四樣東西：字級固定小一點，票數才放得下、不會被切掉 */
+    .lb .lb-dc .lb-av {
+      width: 22px;
+      height: 22px;
+      font-size: 11px;
+    }
+    .lb .lb-dc .lb-dc-n,
+    .lb .lb-dc .lb-dc-row.is-head .lb-dc-n {
+      font-size: clamp(11px, 7cqw, 13px);
+    }
+    .lb .lb-dc .lb-dc-p,
+    .lb .lb-dc .lb-dc-row.is-head .lb-dc-p,
+    .lb .lb-dc .lb-dc-row:not(.is-head) .lb-dc-p {
+      font-size: clamp(12px, 7.6cqw, 14px);
+      min-width: 0;
+    }
+    .lb .lb-dc .lb-dc-v {
+      font-size: clamp(9px, 5.4cqw, 10.5px);
+      overflow: visible;
+    }
+    .lb .lb-dc .lb-dc-row {
+      column-gap: 4px;
+      padding: 1px 5px 1px 3px;
+    }
   }
 </style>
