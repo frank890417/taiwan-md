@@ -22,15 +22,15 @@ image: ''
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/史溫侯.md'
-sourceCommitSha: '3f269cde5e'
-sourceContentHash: 'sha256:50b13c3a31e0a1c0'
-sourceBodyHash: 'sha256:e6b263814c7b1995'
-translatedAt: '2026-11-27T01:17:06.350624+00:00'
+sourceCommitSha: 'fce3f18534'
+sourceContentHash: 'sha256:38dbb4ed46592a20'
+sourceBodyHash: 'sha256:6175f72a885c5908'
+translatedAt: '2026-11-28T01:24:12.679097+00:00'
 ---
 
 # Robert Swinhoe: When a Diplomat Became a Naturalist
 
-> **30-second overview:** Robert Swinhoe (1836–1877) was Britain's first consul at Formosa. In roughly four years spent on the island, he published 52 academic papers documenting 227 bird species, 40 mammal species, and 246 plant species. The ornithologist P. L. Sclater of his era called him "one of the most successful natural history explorers of all time." He died of illness at 41, but the species he named — from Swinhoe's Pheasant, one of Taiwan's most emblematic endemic birds, to the world's most critically endangered softshell turtle — live on today, both on this island and within their scientific names.
+> **30-Second Overview:** Robert Swinhoe (1836–1877) was the first British consul to Formosa. During his approximately four years spent in and around Taiwan, he published 52 academic papers regarding the island, documenting 227 bird species, 40 mammal species, and 246 plant species. His contemporary, ornithologist P. L. Sclater, called him "one of the most successful naturalist explorers in history." Though he died of illness at the age of 41, the species he named—ranging from Taiwan's iconic endemic _blue-bellied kingfisher_ to the world's most endangered _spotted turtle_—live on today on this island (and within their scientific names).
 
 ---
 
