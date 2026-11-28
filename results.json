@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "phase": "counting",
- "updatedAt": "2026-11-28T23:30:51+08:00",
+ "updatedAt": "2026-11-28T23:32:00+08:00",
  "sourceName": "中央選舉委員會計票資訊查詢網站",
  "sourceUrl": "https://vote.cec.gov.tw/2026-local/zh-TW/indexP.html",
  "stations": {
-  "reported": 18241,
+  "reported": 18242,
   "total": 18248
  },
  "mayors": {
@@ -336,30 +336,30 @@
    ]
   },
   "新竹縣": {
-   "reported": 486,
+   "reported": 487,
    "total": 492,
    "candidates": [
     {
      "number": 1,
      "name": "鄭朝方",
      "party": "民主進步黨",
-     "votes": 171276,
-     "pct": 57.19,
+     "votes": 171785,
+     "pct": 57.21,
      "elected": false
     },
     {
      "number": 2,
      "name": "徐欣瑩",
      "party": "中國國民黨",
-     "votes": 121422,
-     "pct": 40.54,
+     "votes": 121684,
+     "pct": 40.52,
      "elected": false
     },
     {
      "number": 3,
      "name": "朱定瑀",
      "party": "無黨籍",
-     "votes": 6787,
+     "votes": 6803,
      "pct": 2.27,
      "elected": false
     }
