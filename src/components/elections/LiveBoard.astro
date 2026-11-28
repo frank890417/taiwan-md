@@ -310,6 +310,7 @@ const boot = {
       <p class="lb-status-hint" data-lb-hint>{copy.statusPreHint}</p>
       <p class="lb-status-hint lb-elected-note" data-lb-elected-note hidden>
         {copy.electedNote}
+        {copy.recountNote}
       </p>
       <div class="lb-dbody">
         <figure class="lb-map">
@@ -896,6 +897,22 @@ const boot = {
           typeof v.total === 'number' &&
           v.total > 0 &&
           v.reported >= v.total;
+        // 選罷法第 69 條：最高與次高票差距在有效票千分之三以內，次高票可聲請重新計票。
+        // 這種縣市即使開完、標了當選，也另外標出來，免得讀者把它當成定論。
+        const totalVotes = v.cands.reduce(
+          (acc: number, c: Cand) => acc + (c.votes || 0),
+          0,
+        );
+        const tight =
+          v.hasVotes &&
+          v.cands.length > 1 &&
+          totalVotes > 0 &&
+          ((v.cands[0].votes || 0) - (v.cands[1].votes || 0)) / totalVotes <=
+            0.003;
+        const tightTag =
+          tight && (done || !v.early)
+            ? `<span class="lb-tag lb-tag-tight" title="${esc(C.recountNote)}">${esc(C.recountTag)}</span>`
+            : '';
         const tag = v.winner
           ? `<span class="lb-tag lb-tag-win">${esc(C.elected)}</span>`
           : done
@@ -903,7 +920,7 @@ const boot = {
             : v.early
               ? `<span class="lb-tag lb-tag-early">${esc(C.early)}</span>`
               : '';
-        return `<li><a class="lb-dc${v.early ? ' is-early' : ''}${v.winner ? ' is-won' : ''}" href="#lb-race-${esc(v.race.area)}" data-cell="${esc(v.race.area)}" data-lead="${esc(v.hasVotes && top[0] ? top[0].name : '')}" data-party="${head && !v.early ? partyKey(head.party) : 'none'}"><span class="lb-dc-h"><b>${esc(v.race.label)}</b>${tag}<span class="lb-dc-r">${pctOpen === null ? '' : esc(fill(C.openedPct, { p: pctOpen.toFixed(pctOpen < 10 ? 1 : 0) }))}</span></span>${rows}${bar}</a></li>`;
+        return `<li><a class="lb-dc${v.early ? ' is-early' : ''}${v.winner ? ' is-won' : ''}" href="#lb-race-${esc(v.race.area)}" data-cell="${esc(v.race.area)}" data-lead="${esc(v.hasVotes && top[0] ? top[0].name : '')}" data-party="${head && !v.early ? partyKey(head.party) : 'none'}"><span class="lb-dc-h"><b>${esc(v.race.label)}</b>${tag}${tightTag}<span class="lb-dc-r">${pctOpen === null ? '' : esc(fill(C.openedPct, { p: pctOpen.toFixed(pctOpen < 10 ? 1 : 0) }))}</span></span>${rows}${bar}</a></li>`;
       });
       // 公投一格
       const r = results?.referendum;
@@ -4202,5 +4219,9 @@ const boot = {
   .lb-tag-done {
     border-color: rgba(245, 240, 230, 0.5);
     color: var(--el-ink);
+  }
+  .lb-tag-tight {
+    border-color: var(--el-accent);
+    color: var(--el-accent);
   }
 </style>

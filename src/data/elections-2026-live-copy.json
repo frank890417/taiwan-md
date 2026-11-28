@@ -108,7 +108,9 @@
     "allCards": "所有候選人得票（22 縣市）",
     "showAll": "顯示全部 {n} 則",
     "showLess": "只顯示最新幾則",
-    "gapPts": "差 {n} 點"
+    "gapPts": "差 {n} 點",
+    "recountTag": "差距在千分之三內",
+    "recountNote": "差距在有效票千分之三以內的縣市，次高票可在投票日後七日內聲請重新計票。"
   },
   "en": {
     "eyebrow": "Taiwan 2026 Local Elections · Live Count",
@@ -218,7 +220,9 @@
     "allCards": "All candidates’ votes (22 races)",
     "showAll": "Show all {n}",
     "showLess": "Show latest only",
-    "gapPts": "{n} pts"
+    "gapPts": "{n} pts",
+    "recountTag": "Within 0.3%",
+    "recountNote": "Where the gap is within 0.3% of valid votes, the runner-up may request a recount within seven days of polling day."
   },
   "ja": {
     "eyebrow": "台湾 2026年統一地方選挙 · 開票速報",
@@ -328,7 +332,9 @@
     "allCards": "全候補者の得票（22県・市）",
     "showAll": "全 {n} 件を表示",
     "showLess": "最新のみ表示",
-    "gapPts": "{n} ポイント差"
+    "gapPts": "{n} ポイント差",
+    "recountTag": "差は0.3%以内",
+    "recountNote": "差が有効票の0.3%以内の県・市では、次点者は投票日から7日以内に再集計を請求できます。"
   },
   "ko": {
     "eyebrow": "대만 2026 지방선거 · 개표 현황",
@@ -438,7 +444,9 @@
     "allCards": "모든 후보 득표(22개 지역)",
     "showAll": "{n}건 모두 보기",
     "showLess": "최신만 보기",
-    "gapPts": "{n}%p 차"
+    "gapPts": "{n}%p 차",
+    "recountTag": "격차 0.3% 이내",
+    "recountNote": "격차가 유효표의 0.3% 이내인 지역에서는 차점자가 투표일로부터 7일 안에 재검표를 청구할 수 있습니다."
   },
   "es": {
     "eyebrow": "Elecciones locales de Taiwán 2026 · Escrutinio en vivo",
@@ -548,7 +556,9 @@
     "allCards": "Votos de todos los candidatos (22 circunscripciones)",
     "showAll": "Ver las {n}",
     "showLess": "Ver solo las últimas",
-    "gapPts": "{n} pts"
+    "gapPts": "{n} pts",
+    "recountTag": "Diferencia inferior al 0,3 %",
+    "recountNote": "Donde la diferencia es inferior al 0,3 % de los votos válidos, el segundo puede pedir un recuento en los siete días siguientes a la votación."
   },
   "fr": {
     "eyebrow": "Élections locales de Taïwan 2026 · Dépouillement en direct",
@@ -658,7 +668,9 @@
     "allCards": "Voix de tous les candidats (22 circonscriptions)",
     "showAll": "Tout afficher ({n})",
     "showLess": "Afficher les dernières",
-    "gapPts": "{n} pts"
+    "gapPts": "{n} pts",
+    "recountTag": "Écart inférieur à 0,3 %",
+    "recountNote": "Lorsque l’écart est inférieur à 0,3 % des suffrages valides, le candidat arrivé deuxième peut demander un recomptage dans les sept jours suivant le scrutin."
   },
   "de": {
     "eyebrow": "Kommunalwahlen in Taiwan 2026 · Live-Auszählung",
@@ -768,7 +780,9 @@
     "allCards": "Stimmen aller Kandidierenden (22 Wahlkreise)",
     "showAll": "Alle {n} anzeigen",
     "showLess": "Nur neueste anzeigen",
-    "gapPts": "{n} Pkt."
+    "gapPts": "{n} Pkt.",
+    "recountTag": "Abstand unter 0,3 %",
+    "recountNote": "Liegt der Abstand unter 0,3 % der gültigen Stimmen, kann die zweitplatzierte Person binnen sieben Tagen nach dem Wahltag eine Neuauszählung beantragen."
   },
   "pt": {
     "eyebrow": "Eleições locais de Taiwan 2026 · Apuração ao vivo",
@@ -878,7 +892,9 @@
     "allCards": "Votos de todos os candidatos (22 disputas)",
     "showAll": "Mostrar todas ({n})",
     "showLess": "Mostrar só as últimas",
-    "gapPts": "{n} pts"
+    "gapPts": "{n} pts",
+    "recountTag": "Diferença abaixo de 0,3%",
+    "recountNote": "Onde a diferença é inferior a 0,3% dos votos válidos, o segundo colocado pode pedir recontagem em até sete dias após a votação."
   },
   "ru": {
     "eyebrow": "Местные выборы на Тайване 2026 · Подсчёт голосов онлайн",
@@ -988,7 +1004,9 @@
     "allCards": "Голоса всех кандидатов (22 округа)",
     "showAll": "Показать все ({n})",
     "showLess": "Только последние",
-    "gapPts": "{n} п."
+    "gapPts": "{n} п.",
+    "recountTag": "Разрыв менее 0,3 %",
+    "recountNote": "Если разрыв менее 0,3 % действительных голосов, занявший второе место может в течение семи дней после дня голосования потребовать пересчёта."
   },
   "vi": {
     "eyebrow": "Bầu cử địa phương Đài Loan 2026 · Kiểm phiếu trực tiếp",
@@ -1098,7 +1116,9 @@
     "allCards": "Số phiếu của tất cả ứng viên (22 nơi)",
     "showAll": "Hiện tất cả {n} tin",
     "showLess": "Chỉ hiện tin mới nhất",
-    "gapPts": "{n} điểm"
+    "gapPts": "{n} điểm",
+    "recountTag": "Chênh lệch dưới 0,3%",
+    "recountNote": "Nơi nào chênh lệch dưới 0,3% số phiếu hợp lệ, người về nhì có thể yêu cầu kiểm phiếu lại trong vòng bảy ngày sau ngày bỏ phiếu."
   },
   "id": {
     "eyebrow": "Pemilu Daerah Taiwan 2026 · Penghitungan Langsung",
@@ -1208,7 +1228,9 @@
     "allCards": "Suara semua kandidat (22 daerah)",
     "showAll": "Tampilkan semua {n}",
     "showLess": "Tampilkan yang terbaru saja",
-    "gapPts": "{n} poin"
+    "gapPts": "{n} poin",
+    "recountTag": "Selisih di bawah 0,3%",
+    "recountNote": "Jika selisihnya di bawah 0,3% suara sah, peraih suara kedua dapat meminta penghitungan ulang dalam tujuh hari setelah hari pemungutan suara."
   },
   "hi": {
     "eyebrow": "ताइवान स्थानीय चुनाव 2026 · मतगणना लाइव",
@@ -1318,7 +1340,9 @@
     "allCards": "सभी उम्मीदवारों के वोट (22 क्षेत्र)",
     "showAll": "सभी {n} दिखाएँ",
     "showLess": "केवल ताज़ा दिखाएँ",
-    "gapPts": "{n} अंक"
+    "gapPts": "{n} अंक",
+    "recountTag": "अंतर 0.3% के भीतर",
+    "recountNote": "जहाँ अंतर वैध मतों के 0.3% के भीतर है, वहाँ दूसरे स्थान का उम्मीदवार मतदान के सात दिन के भीतर पुनर्गणना माँग सकता है।"
   },
   "ar": {
     "eyebrow": "الانتخابات المحلية في تايوان 2026 · الفرز المباشر",
@@ -1428,6 +1452,8 @@
     "allCards": "أصوات جميع المرشحين (22 دائرة)",
     "showAll": "عرض الكل ({n})",
     "showLess": "عرض الأحدث فقط",
-    "gapPts": "{n} نقطة"
+    "gapPts": "{n} نقطة",
+    "recountTag": "الفارق أقل من 0.3%",
+    "recountNote": "حيث يقل الفارق عن 0.3% من الأصوات الصحيحة، يحق لصاحب المركز الثاني طلب إعادة الفرز خلال سبعة أيام من يوم الاقتراع."
   }
 }
