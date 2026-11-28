@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "phase": "counting",
- "updatedAt": "2026-11-28T23:22:18+08:00",
+ "updatedAt": "2026-11-28T23:23:27+08:00",
  "sourceName": "中央選舉委員會計票資訊查詢網站",
  "sourceUrl": "https://vote.cec.gov.tw/2026-local/zh-TW/indexP.html",
  "stations": {
@@ -343,24 +343,24 @@
      "number": 1,
      "name": "鄭朝方",
      "party": "民主進步黨",
-     "votes": 169467,
-     "pct": 57.05,
+     "votes": 169540,
+     "pct": 57.06,
      "elected": false
     },
     {
      "number": 2,
      "name": "徐欣瑩",
      "party": "中國國民黨",
-     "votes": 120879,
-     "pct": 40.69,
+     "votes": 120842,
+     "pct": 40.67,
      "elected": false
     },
     {
      "number": 3,
      "name": "朱定瑀",
      "party": "無黨籍",
-     "votes": 6723,
-     "pct": 2.26,
+     "votes": 6734,
+     "pct": 2.27,
      "elected": false
     }
    ]
@@ -791,14 +791,14 @@
   }
  },
  "referendum": {
-  "agree": 7429714,
-  "disagree": 4554908,
-  "valid": 11984622,
-  "invalid": 567102,
+  "agree": 7430837,
+  "disagree": 4555556,
+  "valid": 11986393,
+  "invalid": 567153,
   "eligible": 20003835,
-  "reported": 18238,
+  "reported": 18240,
   "total": 18248,
-  "completedEligible": 19991382
+  "completedEligible": 19994188
  },
  "coverage": {
   "mayorsWithData": 22,
