@@ -22,15 +22,15 @@ image: ''
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/史溫侯.md'
-sourceCommitSha: '3f269cde5e'
-sourceContentHash: 'sha256:50b13c3a31e0a1c0'
-sourceBodyHash: 'sha256:e6b263814c7b1995'
-translatedAt: '2026-11-27T00:41:21.144012+00:00'
+sourceCommitSha: 'fce3f18534'
+sourceContentHash: 'sha256:38dbb4ed46592a20'
+sourceBodyHash: 'sha256:6175f72a885c5908'
+translatedAt: '2026-11-28T01:13:00.532032+00:00'
 ---
 
-# Robert Swinhoe: Wenn ein Diplomat zum Naturforscher wird
+# Robert Swinhoe: Vom Diplomaten zum Naturforscher
 
-> **30-Sekunden-Überblick:** Robert Swinhoe (1836–1877), britischer Konsul in Fujing. Während seiner etwa vierjährigen Zeit in Taiwan veröffentlichte er 52 wissenschaftliche Aufsätze über die Insel, dokumentierte 227 Vogelarten, 40 Säugetiere und 246 Pflanzen. Der zeitgenössische Ornithologe P. L. Sclater bezeichnete ihn als „einen der erfolgreichsten natürlichen Forschungsreisenden aller Zeiten“. Er starb mit 41 Jahren, doch die Arten, die er benannte – von der Blausteißtukanen- bis zur seltensten Schildkröte der Welt – leben bis heute auf dieser Insel (und in ihren wissenschaftlichen Namen).
+> **30-Sekunden-Überblick:** Robert Swinhoe (1836–1877), erster britischer Konsul in Formosa. Er hielt sich insgesamt etwa vier Jahre auf Taiwan auf, veröffentlichte 52 wissenschaftliche Arbeiten über die Insel und dokumentierte 227 Vogelarten, 40 Säugetierarten und 246 Pflanzenarten. Der zeitgenössische Ornithologe P. L. Sclater bezeichnete ihn als „einen der erfolgreichsten naturkundlichen Entdecker der Geschichte“. Er starb mit 41 Jahren an einer Krankheit, doch die von ihm benannten Arten – vom taiwanischen Endemiten Blaubauchfasan bis zur weltweit am stärksten gefährdeten Chinesischen Weichschildkröte – leben bis heute auf dieser Insel (und in ihren wissenschaftlichen Namen) weiter.
 
 ---
 
