@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "phase": "final",
- "updatedAt": "2026-11-29T00:28:15+08:00",
+ "updatedAt": "2026-11-29T00:29:13+08:00",
  "sourceName": "中央選舉委員會計票資訊查詢網站",
  "sourceUrl": "https://vote.cec.gov.tw/2026-local/zh-TW/indexP.html",
  "stations": {
@@ -51,7 +51,7 @@
      "party": "中國國民黨",
      "votes": 781312,
      "pct": 53.72,
-     "elected": false
+     "elected": true
     },
     {
      "number": 6,
@@ -89,7 +89,7 @@
      "party": "中國國民黨",
      "votes": 1120555,
      "pct": 51.21,
-     "elected": false
+     "elected": true
     }
    ]
   },
@@ -111,7 +111,7 @@
      "party": "中國國民黨",
      "votes": 647498,
      "pct": 55.68,
-     "elected": false
+     "elected": true
     }
    ]
   },
@@ -125,7 +125,7 @@
      "party": "民主進步黨",
      "votes": 776310,
      "pct": 50.68,
-     "elected": false
+     "elected": true
     },
     {
      "number": 2,
@@ -171,7 +171,7 @@
      "party": "民主進步黨",
      "votes": 521419,
      "pct": 52.49,
-     "elected": false
+     "elected": true
     },
     {
      "number": 4,
@@ -225,7 +225,7 @@
      "party": "民主進步黨",
      "votes": 774882,
      "pct": 52.9,
-     "elected": false
+     "elected": true
     }
    ]
   },
@@ -255,7 +255,7 @@
      "party": "中國國民黨",
      "votes": 99915,
      "pct": 51.26,
-     "elected": false
+     "elected": true
     }
    ]
   },
@@ -269,7 +269,7 @@
      "party": "無黨籍",
      "votes": 129159,
      "pct": 57.44,
-     "elected": false
+     "elected": true
     },
     {
      "number": 2,
@@ -323,7 +323,7 @@
      "party": "民主進步黨",
      "votes": 69815,
      "pct": 53.28,
-     "elected": false
+     "elected": true
     },
     {
      "number": 5,
@@ -345,7 +345,7 @@
      "party": "民主進步黨",
      "votes": 174384,
      "pct": 57.35,
-     "elected": false
+     "elected": true
     },
     {
      "number": 2,
@@ -383,7 +383,7 @@
      "party": "中國國民黨",
      "votes": 176917,
      "pct": 62.21,
-     "elected": false
+     "elected": true
     }
    ]
   },
@@ -397,7 +397,7 @@
      "party": "民主進步黨",
      "votes": 300929,
      "pct": 46.24,
-     "elected": false
+     "elected": true
     },
     {
      "number": 2,
@@ -435,7 +435,7 @@
      "party": "中國國民黨",
      "votes": 169905,
      "pct": 62.5,
-     "elected": false
+     "elected": true
     },
     {
      "number": 2,
@@ -473,7 +473,7 @@
      "party": "民主進步黨",
      "votes": 178357,
      "pct": 49.21,
-     "elected": false
+     "elected": true
     },
     {
      "number": 4,
@@ -503,7 +503,7 @@
      "party": "民主進步黨",
      "votes": 149040,
      "pct": 55.87,
-     "elected": false
+     "elected": true
     }
    ]
   },
@@ -525,7 +525,7 @@
      "party": "民主進步黨",
      "votes": 271019,
      "pct": 61.46,
-     "elected": false
+     "elected": true
     }
    ]
   },
@@ -539,7 +539,7 @@
      "party": "民主進步黨",
      "votes": 131828,
      "pct": 53.74,
-     "elected": false
+     "elected": true
     },
     {
      "number": 2,
@@ -601,7 +601,7 @@
      "party": "中國國民黨",
      "votes": 63013,
      "pct": 37.66,
-     "elected": false
+     "elected": true
     },
     {
      "number": 4,
@@ -647,7 +647,7 @@
      "party": "中國國民黨",
      "votes": 68845,
      "pct": 61.35,
-     "elected": false
+     "elected": true
     }
    ]
   },
@@ -693,7 +693,7 @@
      "party": "中國國民黨",
      "votes": 21832,
      "pct": 42.24,
-     "elected": false
+     "elected": true
     },
     {
      "number": 6,
@@ -747,7 +747,7 @@
      "party": "中國國民黨",
      "votes": 28750,
      "pct": 63.5,
-     "elected": false
+     "elected": true
     },
     {
      "number": 6,
@@ -777,7 +777,7 @@
      "party": "中國國民黨",
      "votes": 4494,
      "pct": 58.33,
-     "elected": false
+     "elected": true
     },
     {
      "number": 2,
