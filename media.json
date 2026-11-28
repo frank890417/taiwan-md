@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "fetchedAt": "2026-11-28T20:09:17+08:00",
+ "fetchedAt": "2026-11-28T20:10:27+08:00",
  "sourceName": "Yahoo新聞",
  "sourceUrl": "https://tw.news.yahoo.com/topic/2026-election/",
  "note": "媒體自行計票，非中選會官方數字",
@@ -171,18 +171,18 @@
    ]
   },
   "南投縣": {
-   "updatedAt": "2026-11-28T19:56:31+08:00",
+   "updatedAt": "2026-11-28T20:09:45+08:00",
    "candidates": [
     {
      "name": "許淑華",
-     "votes": 91280,
-     "pct": 63.43,
+     "votes": 98732,
+     "pct": 58.54,
      "elected": true
     },
     {
      "name": "温世政",
-     "votes": 52638,
-     "pct": 36.57,
+     "votes": 56819,
+     "pct": 33.69,
      "elected": false
     }
    ]
@@ -228,18 +228,18 @@
    ]
   },
   "嘉義市": {
-   "updatedAt": "2026-11-28T19:58:18+08:00",
+   "updatedAt": "2026-11-28T20:09:46+08:00",
    "candidates": [
     {
      "name": "張啓楷",
-     "votes": 51998,
-     "pct": 42.35,
+     "votes": 53305,
+     "pct": 42.21,
      "elected": false
     },
     {
      "name": "王美惠",
-     "votes": 65282,
-     "pct": 53.17,
+     "votes": 67356,
+     "pct": 53.33,
      "elected": false
     }
    ]
@@ -308,7 +308,7 @@
    ]
   },
   "嘉義縣": {
-   "updatedAt": "2026-11-28T19:33:45+08:00",
+   "updatedAt": "2026-11-28T20:09:06+08:00",
    "candidates": [
     {
      "name": "吳品叡",
@@ -320,7 +320,7 @@
      "name": "蔡易餘",
      "votes": 120818,
      "pct": 55.88,
-     "elected": false
+     "elected": true
     }
    ]
   },
