@@ -11,3 +11,8 @@ knowledge/_translations.json merge=union
 # fails on the first `\r`, so every commit and push dies inside the hook.
 .husky/* text eol=lf
 
+
+# Usage ledger is append-only, one JSON row per line, written by sessions on
+# several machines. Without union, one uncommitted or diverging row blocks every
+# merge with origin (2026-11-28: babel pushes stalled 14 hours on a single row).
+data/compute/claude-usage-ledger.jsonl merge=union
