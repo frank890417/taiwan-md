@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "fetchedAt": "2026-11-28T17:39:33+08:00",
+ "fetchedAt": "2026-11-28T17:40:32+08:00",
  "sourceName": "Yahoo新聞",
  "sourceUrl": "https://tw.news.yahoo.com/topic/2026-election/",
  "note": "媒體自行計票，非中選會官方數字",
@@ -57,18 +57,18 @@
    ]
   },
   "苗栗縣": {
-   "updatedAt": "2026-11-28T17:35:23+08:00",
+   "updatedAt": "2026-11-28T17:39:26+08:00",
    "candidates": [
     {
      "name": "陳品安",
-     "votes": 68037,
-     "pct": 38.39,
+     "votes": 74097,
+     "pct": 38.27,
      "elected": false
     },
     {
      "name": "鍾東錦",
-     "votes": 109177,
-     "pct": 61.61,
+     "votes": 119498,
+     "pct": 61.73,
      "elected": false
     }
    ]
@@ -211,18 +211,18 @@
    ]
   },
   "臺中市": {
-   "updatedAt": "2026-11-28T17:30:31+08:00",
+   "updatedAt": "2026-11-28T17:39:51+08:00",
    "candidates": [
     {
      "name": "何欣純",
-     "votes": 366507,
-     "pct": 51.93,
+     "votes": 374645,
+     "pct": 51.83,
      "elected": false
     },
     {
      "name": "江啟臣",
-     "votes": 339298,
-     "pct": 48.07,
+     "votes": 348141,
+     "pct": 48.17,
      "elected": false
     }
    ]
@@ -393,17 +393,17 @@
    ]
   },
   "高雄市": {
-   "updatedAt": "2026-11-28T17:32:57+08:00",
+   "updatedAt": "2026-11-28T17:39:35+08:00",
    "candidates": [
     {
      "name": "柯志恩",
-     "votes": 290635,
+     "votes": 292838,
      "pct": 46.21,
      "elected": false
     },
     {
      "name": "賴瑞隆",
-     "votes": 338304,
+     "votes": 340910,
      "pct": 53.79,
      "elected": false
     }
