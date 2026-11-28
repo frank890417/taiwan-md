@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "phase": "counting",
- "updatedAt": "2026-11-28T22:36:05+08:00",
+ "updatedAt": "2026-11-28T22:37:04+08:00",
  "sourceName": "中央選舉委員會計票資訊查詢網站",
  "sourceUrl": "https://vote.cec.gov.tw/2026-local/zh-TW/indexP.html",
  "stations": {
-  "reported": 18216,
+  "reported": 18217,
   "total": 18248
  },
  "mayors": {
@@ -614,14 +614,14 @@
    ]
   },
   "臺東縣": {
-   "reported": 235,
+   "reported": 236,
    "total": 236,
    "candidates": [
     {
      "number": 1,
      "name": "李吳穎智",
      "party": "無黨籍",
-     "votes": 1357,
+     "votes": 1374,
      "pct": 1.22,
      "elected": false
     },
@@ -629,24 +629,24 @@
      "number": 2,
      "name": "陳瑩",
      "party": "民主進步黨",
-     "votes": 40506,
-     "pct": 36.37,
+     "votes": 40832,
+     "pct": 36.39,
      "elected": false
     },
     {
      "number": 3,
      "name": "王志偉",
      "party": "無黨籍",
-     "votes": 1142,
-     "pct": 1.03,
+     "votes": 1162,
+     "pct": 1.04,
      "elected": false
     },
     {
      "number": 4,
      "name": "吳秀華",
      "party": "中國國民黨",
-     "votes": 68370,
-     "pct": 61.39,
+     "votes": 68845,
+     "pct": 61.35,
      "elected": false
     }
    ]
