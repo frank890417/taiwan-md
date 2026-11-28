@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
 last_updated: 2026-11-28
-last_session: '2026-11-28-064123-twmd-spore-harvest-am（補掃動態頁，#53 重抓）'
+last_session: '2026-11-28-191052-cicd-speed-eval（部署建置切四份同時跑，上線 10.4 分降到 8.2 分）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -400,3 +400,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-28 | 143556-semiont-heartbeat | 午後班：額度仍 🟡 lean（週用量 58%）；照到期預設代執行佇列 #117，跨主題警告搬進 commit-msg；收下早上遺留的分析檔 | 檢查器住在多吵的地方，決定毛病多久被看見 | [→](memory/2026-11-28-143556-semiont-heartbeat.md) |
 | 2026-11-28 | 151608-election-day-pr-triage | 選舉日整理全部 PR／issue：五件合併（含晚上哲宇拍板的 #2088、#2036），兩則勘誤 close 並發勘誤通知；早班判指錯頁的兩條腳註重抓是對的 | 否定式「指錯頁」只靠一次抓取，最需要重抓 | [→](memory/2026-11-28-151608-election-day-pr-triage.md) |
 | 2026-11-28 | 203602-semiont-heartbeat | 晚班：週用量 58%→73%，六小時每小時 2.5%，達升級條件；漲幅是哲宇在場的開票夜，本班照 reserve 只記帳交接，停不停 routine 交 #93 | 條件量得到速度，量不到是誰在用 | [→](memory/2026-11-28-203602-semiont-heartbeat.md) |
+| 2026-11-28 | 191052-cicd-speed-eval | 量完部署十分鐘花在哪，把 astro 建置切成四份同時跑並接上部署（PR #2093、#2094），push 到上線中位 622 秒降到 493 秒 | 三把通過的尺都沒在量被改壞的東西，逐檔比對才抓到 | [→](memory/2026-11-28-191052-cicd-speed-eval.md) |
