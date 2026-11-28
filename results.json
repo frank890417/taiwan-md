@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "phase": "counting",
- "updatedAt": "2026-11-28T17:04:36+08:00",
+ "updatedAt": "2026-11-28T17:07:19+08:00",
  "sourceName": "中央選舉委員會計票資訊查詢網站",
  "sourceUrl": "https://vote.cec.gov.tw/2026-local/zh-TW/indexP.html",
  "stations": {
-  "reported": 29,
+  "reported": 37,
   "total": 18248
  },
  "mayors": {
@@ -64,15 +64,15 @@
    ]
   },
   "新北市": {
-   "reported": 6,
+   "reported": 9,
    "total": 2728,
    "candidates": [
     {
      "number": 1,
      "name": "蘇巧慧",
      "party": "民主進步黨",
-     "votes": 611,
-     "pct": 47.33,
+     "votes": 859,
+     "pct": 48.34,
      "elected": false
     },
     {
@@ -80,15 +80,15 @@
      "name": "蘇輝湟",
      "party": "無黨籍",
      "votes": 11,
-     "pct": 0.85,
+     "pct": 0.62,
      "elected": false
     },
     {
      "number": 3,
      "name": "李四川",
      "party": "中國國民黨",
-     "votes": 669,
-     "pct": 51.82,
+     "votes": 907,
+     "pct": 51.04,
      "elected": false
     }
    ]
@@ -146,85 +146,85 @@
    ]
   },
   "臺南市": {
-   "reported": 11,
+   "reported": 13,
    "total": 1563,
    "candidates": [
     {
      "number": 1,
      "name": "蕭燐洪",
      "party": "臺灣SoR無法黨",
-     "votes": 8,
-     "pct": 0.47,
+     "votes": 10,
+     "pct": 0.48,
      "elected": false
     },
     {
      "number": 2,
      "name": "謝龍介",
      "party": "中國國民黨",
-     "votes": 701,
-     "pct": 40.85,
+     "votes": 848,
+     "pct": 40.93,
      "elected": false
     },
     {
      "number": 3,
      "name": "陳亭妃",
      "party": "民主進步黨",
-     "votes": 977,
-     "pct": 56.93,
+     "votes": 1179,
+     "pct": 56.9,
      "elected": false
     },
     {
      "number": 4,
      "name": "葉人文",
      "party": "無黨籍",
-     "votes": 30,
-     "pct": 1.75,
+     "votes": 35,
+     "pct": 1.69,
      "elected": false
     }
    ]
   },
   "高雄市": {
-   "reported": 2,
+   "reported": 4,
    "total": 2089,
    "candidates": [
     {
      "number": 1,
      "name": "張靜",
      "party": "司法改革黨",
-     "votes": 4,
-     "pct": 1.48,
+     "votes": 14,
+     "pct": 1.01,
      "elected": false
     },
     {
      "number": 2,
      "name": "王肇民",
      "party": "無黨籍",
-     "votes": 4,
-     "pct": 1.48,
+     "votes": 7,
+     "pct": 0.5,
      "elected": false
     },
     {
      "number": 3,
      "name": "柯志恩",
      "party": "中國國民黨",
-     "votes": 169,
-     "pct": 62.36,
+     "votes": 658,
+     "pct": 47.41,
      "elected": false
     },
     {
      "number": 4,
      "name": "洪方隆",
      "party": "無黨籍",
-     "votes": 1,
-     "pct": 0.37,
+     "votes": 5,
+     "pct": 0.36,
      "elected": false
     },
     {
      "number": 5,
      "name": "賴瑞隆",
      "party": "民主進步黨",
-     "votes": 93,
-     "pct": 34.32,
+     "votes": 704,
+     "pct": 50.72,
      "elected": false
     }
    ]
@@ -652,15 +652,15 @@
    ]
   },
   "澎湖縣": {
-   "reported": 4,
+   "reported": 5,
    "total": 121,
    "candidates": [
     {
      "number": 1,
      "name": "許智富",
      "party": "無黨籍",
-     "votes": 6,
-     "pct": 1.91,
+     "votes": 8,
+     "pct": 2.13,
      "elected": false
     },
     {
@@ -668,31 +668,31 @@
      "name": "周倪安",
      "party": "台聯黨",
      "votes": 5,
-     "pct": 1.59,
+     "pct": 1.33,
      "elected": false
     },
     {
      "number": 3,
      "name": "葉竹林",
      "party": "無黨籍",
-     "votes": 49,
-     "pct": 15.61,
+     "votes": 61,
+     "pct": 16.22,
      "elected": false
     },
     {
      "number": 4,
      "name": "吳淑瑾",
      "party": "民主進步黨",
-     "votes": 89,
-     "pct": 28.34,
+     "votes": 115,
+     "pct": 30.59,
      "elected": false
     },
     {
      "number": 5,
      "name": "陳振中",
      "party": "中國國民黨",
-     "votes": 163,
-     "pct": 51.91,
+     "votes": 185,
+     "pct": 49.2,
      "elected": false
     },
     {
@@ -700,7 +700,7 @@
      "name": "陳盡川",
      "party": "無黨籍",
      "votes": 2,
-     "pct": 0.64,
+     "pct": 0.53,
      "elected": false
     }
    ]
@@ -791,14 +791,14 @@
   }
  },
  "referendum": {
-  "agree": 2859,
-  "disagree": 1961,
-  "valid": 4820,
-  "invalid": 401,
+  "agree": 3994,
+  "disagree": 2921,
+  "valid": 6915,
+  "invalid": 532,
   "eligible": 20003835,
-  "reported": 34,
+  "reported": 41,
   "total": 18248,
-  "completedEligible": 8655
+  "completedEligible": 12990
  },
  "coverage": {
   "mayorsWithData": 22,
