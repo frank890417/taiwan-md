@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "fetchedAt": "2026-11-28T22:54:46+08:00",
+ "fetchedAt": "2026-11-28T22:55:57+08:00",
  "sourceName": "Yahoo新聞",
  "sourceUrl": "https://tw.news.yahoo.com/topic/2026-election/",
  "note": "媒體自行計票，非中選會官方數字",
@@ -211,17 +211,17 @@
    ]
   },
   "臺中市": {
-   "updatedAt": "2026-11-28T21:36:03+08:00",
+   "updatedAt": "2026-11-28T22:54:36+08:00",
    "candidates": [
     {
      "name": "何欣純",
-     "votes": 775832,
-     "pct": 50.69,
+     "votes": 776310,
+     "pct": 50.68,
      "elected": true
     },
     {
      "name": "江啟臣",
-     "votes": 740729,
+     "votes": 741231,
      "pct": 48.39,
      "elected": false
     }
