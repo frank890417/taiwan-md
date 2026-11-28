@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "fetchedAt": "2026-11-28T22:15:52+08:00",
+ "fetchedAt": "2026-11-28T22:17:02+08:00",
  "sourceName": "Yahoo新聞",
  "sourceUrl": "https://tw.news.yahoo.com/topic/2026-election/",
  "note": "媒體自行計票，非中選會官方數字",
@@ -154,18 +154,18 @@
    ]
   },
   "雲林縣": {
-   "updatedAt": "2026-11-28T22:11:13+08:00",
+   "updatedAt": "2026-11-28T22:16:10+08:00",
    "candidates": [
     {
      "name": "張嘉郡",
-     "votes": 176571,
-     "pct": 49.19,
-     "elected": false
+     "votes": 176975,
+     "pct": 49.18,
+     "elected": true
     },
     {
      "name": "劉建國",
-     "votes": 176511,
-     "pct": 49.17,
+     "votes": 176965,
+     "pct": 49.18,
      "elected": false
     }
    ]
