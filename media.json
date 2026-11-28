@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "fetchedAt": "2026-11-28T19:22:06+08:00",
+ "fetchedAt": "2026-11-28T19:23:16+08:00",
  "sourceName": "Yahoo新聞",
  "sourceUrl": "https://tw.news.yahoo.com/topic/2026-election/",
  "note": "媒體自行計票，非中選會官方數字",
@@ -91,24 +91,24 @@
    ]
   },
   "金門縣": {
-   "updatedAt": "2026-11-28T19:20:25+08:00",
+   "updatedAt": "2026-11-28T19:22:30+08:00",
    "candidates": [
     {
      "name": "李文良",
-     "votes": 10112,
-     "pct": 28.63,
+     "votes": 10272,
+     "pct": 28.72,
      "elected": false
     },
     {
      "name": "陳玉珍",
-     "votes": 22678,
-     "pct": 64.2,
+     "votes": 22927,
+     "pct": 64.11,
      "elected": true
     },
     {
      "name": "梁文韜",
-     "votes": 591,
-     "pct": 1.67,
+     "votes": 601,
+     "pct": 1.68,
      "elected": false
     }
    ]
@@ -211,35 +211,35 @@
    ]
   },
   "臺中市": {
-   "updatedAt": "2026-11-28T19:19:55+08:00",
+   "updatedAt": "2026-11-28T19:22:43+08:00",
    "candidates": [
     {
      "name": "何欣純",
-     "votes": 476590,
-     "pct": 50.82,
+     "votes": 498244,
+     "pct": 50.37,
      "elected": false
     },
     {
      "name": "江啟臣",
-     "votes": 461188,
-     "pct": 49.18,
+     "votes": 481761,
+     "pct": 48.7,
      "elected": false
     }
    ]
   },
   "嘉義市": {
-   "updatedAt": "2026-11-28T19:17:29+08:00",
+   "updatedAt": "2026-11-28T19:22:15+08:00",
    "candidates": [
     {
      "name": "張啓楷",
-     "votes": 36637,
-     "pct": 42.99,
+     "votes": 39216,
+     "pct": 43.03,
      "elected": false
     },
     {
      "name": "王美惠",
-     "votes": 48588,
-     "pct": 57.01,
+     "votes": 49026,
+     "pct": 53.8,
      "elected": false
     }
    ]
@@ -359,18 +359,18 @@
    ]
   },
   "桃園市": {
-   "updatedAt": "2026-11-28T19:19:15+08:00",
+   "updatedAt": "2026-11-28T19:21:55+08:00",
    "candidates": [
     {
      "name": "黃世杰",
-     "votes": 280328,
-     "pct": 44.27,
+     "votes": 294560,
+     "pct": 43.88,
      "elected": false
     },
     {
      "name": "張善政",
-     "votes": 352832,
-     "pct": 55.73,
+     "votes": 369904,
+     "pct": 55.11,
      "elected": false
     }
    ]
