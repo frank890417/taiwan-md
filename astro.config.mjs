@@ -320,6 +320,10 @@ export default defineConfig({
     sitemap({
       changefreq: 'weekly',
       priority: 0.7,
+      // 2026-11-28：一份 sitemap 檔最多一萬筆。原本全站一萬九千多筆擠在一個
+      // 25MB 的 sitemap-0.xml 裡，Cloudflare Workers 靜態資產的單檔上限是 25MiB，
+      // 傳不上去；拆開之後每份約 13MB。sitemap-index.xml 會自動列出每一份。
+      entryLimit: 10000,
       // 2026-06-07: global `lastmod: new Date()` REMOVED — it made every page
       // claim "modified today" on every build, the exact anti-pattern Google
       // names (→ distrusts our lastmod site-wide). lastmod is now set per-URL in
