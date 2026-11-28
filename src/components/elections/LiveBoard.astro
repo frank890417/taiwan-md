@@ -3742,4 +3742,88 @@ const boot = {
       text-align: center;
     }
   }
+
+  /* ══ 儀表板以下的區塊跟著同一套語言：不用框線，用底色分區，長條加粗 ══ */
+  .lb-score,
+  .lb-ref,
+  .lb-feed,
+  .lb-fact,
+  .lb-cdetail,
+  .lb-card,
+  .lb-card[data-party='none'],
+  .lb-card.is-early,
+  .lb-cd {
+    border: 0;
+    background: #171412;
+    border-radius: 12px;
+  }
+  .lb-media {
+    border: 0;
+  }
+  .lb-overview {
+    border: 0;
+    border-inline-start: 4px solid var(--el-accent);
+    background: #171412;
+  }
+  .lb-card {
+    padding: 16px;
+  }
+  .lb-card-title {
+    font-size: 21px;
+  }
+  .lb-bar {
+    height: 12px;
+    border-radius: 4px;
+    background: rgba(245, 240, 230, 0.07);
+  }
+  .lb-bar > span {
+    border-radius: 4px;
+  }
+  .lb-row:not(.is-head) .lb-bar > span {
+    opacity: 0.5;
+  }
+  .lb-score-bar {
+    gap: 3px;
+    border-radius: 6px;
+    background: none;
+  }
+  .lb-seg {
+    color: #fff;
+    border-radius: 3px;
+  }
+  .lb-seg[data-party='none'],
+  .lb-seg[data-party='early'] {
+    background: rgba(245, 240, 230, 0.09);
+    color: var(--el-ink-2);
+  }
+  .lb-ref-split {
+    height: 24px;
+    border-radius: 6px;
+  }
+  .lb-rules li,
+  .lb-item,
+  .lb-jump,
+  .lb-ml {
+    border-color: rgba(245, 240, 230, 0.1);
+  }
+  .lb .lb-chip-link,
+  .lb .lb-mcell,
+  .lb .lb-mcell.is-media {
+    border: 0;
+    background: rgba(245, 240, 230, 0.06);
+    border-radius: 8px;
+  }
+  .lb .lb-mcell {
+    border-inline-start: 4px solid var(--p);
+  }
+  .lb-tag {
+    border-color: rgba(245, 240, 230, 0.28);
+  }
+  .lb-fold > summary {
+    border: 0;
+    background: #171412;
+  }
+  .lb-prog-fill {
+    background: var(--el-ink-2);
+  }
 </style>
