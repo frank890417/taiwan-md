@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "fetchedAt": "2026-11-28T22:30:54+08:00",
+ "fetchedAt": "2026-11-28T22:32:03+08:00",
  "sourceName": "Yahoo新聞",
  "sourceUrl": "https://tw.news.yahoo.com/topic/2026-election/",
  "note": "媒體自行計票，非中選會官方數字",
@@ -268,24 +268,24 @@
    ]
   },
   "花蓮縣": {
-   "updatedAt": "2026-11-28T22:23:23+08:00",
+   "updatedAt": "2026-11-28T22:31:24+08:00",
    "candidates": [
     {
      "name": "魏嘉賢",
-     "votes": 40804,
-     "pct": 24.5,
+     "votes": 41013,
+     "pct": 24.51,
      "elected": false
     },
     {
      "name": "張峻",
-     "votes": 62435,
-     "pct": 37.48,
+     "votes": 62656,
+     "pct": 37.45,
      "elected": false
     },
     {
      "name": "游淑貞",
-     "votes": 62724,
-     "pct": 37.65,
+     "votes": 63013,
+     "pct": 37.66,
      "elected": true
     }
    ]
