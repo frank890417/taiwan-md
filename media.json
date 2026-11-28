@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "fetchedAt": "2026-11-28T20:34:54+08:00",
+ "fetchedAt": "2026-11-28T20:36:03+08:00",
  "sourceName": "Yahoo新聞",
  "sourceUrl": "https://tw.news.yahoo.com/topic/2026-election/",
  "note": "媒體自行計票，非中選會官方數字",
@@ -188,24 +188,24 @@
    ]
   },
   "澎湖縣": {
-   "updatedAt": "2026-11-28T20:33:56+08:00",
+   "updatedAt": "2026-11-28T20:35:12+08:00",
    "candidates": [
     {
      "name": "葉竹林",
-     "votes": 8702,
-     "pct": 19.79,
+     "votes": 8944,
+     "pct": 19.92,
      "elected": false
     },
     {
      "name": "吳淑瑾",
-     "votes": 14132,
-     "pct": 32.15,
+     "votes": 14389,
+     "pct": 32.05,
      "elected": false
     },
     {
      "name": "陳振中",
-     "votes": 18270,
-     "pct": 41.56,
+     "votes": 18652,
+     "pct": 41.54,
      "elected": true
     }
    ]
