@@ -3932,4 +3932,73 @@ const boot = {
       padding: 1px 5px 1px 3px;
     }
   }
+
+  /* ══ 視窗縮小時的排版（哲宇 19:40）══ */
+  /* 半螢幕寬：票數緊跟在姓名後面（淡色小字），得票率靠右對齊成一欄 */
+  @media (min-width: 760px) and (max-width: 1099px) and (min-height: 660px) {
+    .lb-dbody {
+      grid-template-columns: minmax(190px, 0.36fr) minmax(0, 1fr);
+    }
+    .lb .lb-dc .lb-dc-row {
+      grid-template-columns: auto auto minmax(0, 1fr) auto;
+      column-gap: 6px;
+      padding: 1px 7px 1px 3px;
+    }
+    .lb .lb-dc .lb-dc-v {
+      text-align: start;
+      color: rgba(255, 255, 255, 0.7);
+      font-size: clamp(9.5px, 5.6cqw, 11px);
+    }
+    .lb .lb-dc .lb-dc-p,
+    .lb .lb-dc .lb-dc-row.is-head .lb-dc-p,
+    .lb .lb-dc .lb-dc-row:not(.is-head) .lb-dc-p {
+      font-size: clamp(12.5px, 8cqw, 15px);
+      min-width: 3.1em;
+    }
+    .lb-dgrid {
+      gap: 5px 12px;
+    }
+    .lb-dc-h {
+      padding-bottom: 0;
+    }
+    .lb-dtop .lb-title {
+      font-size: 24px;
+    }
+    .lb-dtally b {
+      font-size: 22px;
+    }
+  }
+  /* 寬但很矮的視窗（放不進一個畫面）：地圖固定在左邊跟著捲，右邊格子往下排 */
+  @media (min-width: 760px) and (max-height: 659px) {
+    .lb-dbody {
+      grid-template-columns: minmax(200px, 0.38fr) minmax(0, 1fr);
+      align-items: start;
+    }
+    .lb-dbody .lb-map {
+      position: sticky;
+      top: 76px;
+    }
+    .lb-dbody .lb-svg {
+      max-height: calc(100dvh - 130px);
+      max-width: none;
+      width: 100%;
+    }
+    .lb-dgrid {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+  }
+  @media (min-width: 1100px) and (max-height: 659px) {
+    .lb-dgrid {
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
+  }
+  /* 介於手機與半螢幕之間（560–759px）：地圖縮小靠上，格子三欄 */
+  @media (min-width: 560px) and (max-width: 759px) {
+    .lb-dgrid {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+    .lb-dbody .lb-svg {
+      max-height: 38vh;
+    }
+  }
 </style>
