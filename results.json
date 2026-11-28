@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "phase": "counting",
- "updatedAt": "2026-11-28T22:52:21+08:00",
+ "updatedAt": "2026-11-28T22:53:32+08:00",
  "sourceName": "中央選舉委員會計票資訊查詢網站",
  "sourceUrl": "https://vote.cec.gov.tw/2026-local/zh-TW/indexP.html",
  "stations": {
-  "reported": 18231,
+  "reported": 18232,
   "total": 18248
  },
  "mayors": {
@@ -388,38 +388,38 @@
    ]
   },
   "彰化縣": {
-   "reported": 1083,
+   "reported": 1084,
    "total": 1087,
    "candidates": [
     {
      "number": 1,
      "name": "陳素月",
      "party": "民主進步黨",
-     "votes": 300015,
-     "pct": 46.28,
+     "votes": 300212,
+     "pct": 46.26,
      "elected": false
     },
     {
      "number": 2,
      "name": "魏平政",
      "party": "中國國民黨",
-     "votes": 264469,
-     "pct": 40.79,
+     "votes": 264742,
+     "pct": 40.8,
      "elected": false
     },
     {
      "number": 3,
      "name": "邱建富",
      "party": "無黨籍",
-     "votes": 75085,
-     "pct": 11.58,
+     "votes": 75204,
+     "pct": 11.59,
      "elected": false
     },
     {
      "number": 4,
      "name": "陳重嘉",
      "party": "無黨籍",
-     "votes": 8760,
+     "votes": 8770,
      "pct": 1.35,
      "elected": false
     }
