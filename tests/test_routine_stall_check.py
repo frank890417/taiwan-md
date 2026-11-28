@@ -648,6 +648,7 @@ def test_cli_json_smoke_against_real_repo():
         cwd=REPO_ROOT_REAL,
         capture_output=True,
         text=True,
+        encoding="utf-8",
         check=False,
     )
     assert r.returncode in (0, 1, 2), r.stderr

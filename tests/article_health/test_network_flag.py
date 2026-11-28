@@ -20,7 +20,7 @@ def _run(args, env_extra=None):
     env.update(env_extra or {})
     return subprocess.run(
         [sys.executable, str(CLI), *args],
-        capture_output=True, text=True, cwd=ROOT, env=env, timeout=120,
+        capture_output=True, text=True, encoding="utf-8", cwd=ROOT, env=env, timeout=120,
     )
 
 
