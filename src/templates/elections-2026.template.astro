@@ -2,6 +2,7 @@
 import Layout from '../layouts/Layout.astro';
 import '../styles/elections.css';
 import CountyMap from '../components/elections/CountyMap.astro';
+import LiveBoard from '../components/elections/LiveBoard.astro';
 import { getLangFromUrl } from '../i18n/utils';
 import electionsDataRaw from '../data/elections-2026.json';
 import timelineDataRaw from '../data/elections-2026-timeline.json';
@@ -4610,6 +4611,19 @@ const mapCounties = electionsData.races.map((r, i) => ({
   href: `#race-${i}`,
 }));
 
+// 開票專區（LiveBoard）：名冊在建置時寫進殼，票數由瀏覽器端抓 election-live 分支
+const liveRaces = electionsData.races.map((r) => ({
+  area: r.area,
+  label: areaLabel(r.area),
+  group: r.group,
+  candidates: r.candidates.map((c) => ({
+    number: c.number ?? null,
+    name: c.name,
+    party: c.party,
+    partyLabel: partyLabel(c.party),
+  })),
+}));
+
 // 句子裡的連結先組成 HTML 再 set:html（同 sourceLinks 的理由：JSX 換行會在
 // 中文句子裡變成空格）
 const dayCountHtml =
@@ -4638,6 +4652,14 @@ const reportHref = `https://github.com/frank890417/taiwan-md/issues/new?template
   readerSettings
 >
   <div class="elections-2026 el-surface" data-phase={phase}>
+    <!-- 開票專區：開票夜的主版面（票數由瀏覽器端更新，不走整站部署） -->
+    <LiveBoard
+      lang={lang}
+      races={liveRaces}
+      referendumQuestion={referendum.question}
+      referendumHref="#referendum"
+    />
+
     <!-- 00 開場：標題＋依台北日期切換的狀態列＋三扇門 -->
     <section class="el-hero" aria-labelledby="el-title">
       <div class="el-wrap el-hero-grid">

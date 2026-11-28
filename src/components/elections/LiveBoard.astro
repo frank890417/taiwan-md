@@ -1,0 +1,1510 @@
+---
+/**
+ * LiveBoard.astro — 2026 選舉主頁的開票專區（2026-11-28 開票夜）。
+ *
+ * 架構（reports/election-night-live-plan-2026-11-28.md）：
+ *   - 這個元件只部署一次，是「殼」：地圖形狀、候選人名冊、字串在建置時寫進 HTML。
+ *   - 票數不走整站部署。瀏覽器每兩分鐘去抓 `election-live` 分支上的兩份 JSON：
+ *       results.json  票數（只有 scripts/tools/election-live/ 的程式寫，LLM 不碰）
+ *       feed.json     消息、全貌摘要、事實查核（每則附來源）
+ *   - 16:00 前沒有任何票數；狀態依瀏覽器當下的台北時間與 results.phase 切換。
+ *   - 「當選」只在中選會標註後顯示；其餘一律寫「領先」。公投兩個門檻分開顯示，不自行宣布。
+ *   - 資料超過 STALE_MIN 分鐘沒更新，頁面自己亮警示（轉錄迴圈停掉時不能看起來正常）。
+ *
+ * 地圖形狀來自 public/assets/geo/taiwan-country.topo.json（同 CountyMap.astro，
+ * 不手繪台灣形狀，REFLEXES #61）。投影程式與 CountyMap 重複一份，是開票夜的時間取捨，
+ * 選後可抽成共用 util。
+ *
+ * 顏色：開票結果需要辨識政黨，這個元件用政黨色（--lb-kmt 等），是 elections.css
+ * 「圖表不用政黨色」的明確例外；每個色塊旁都有文字，不讓顏色成為唯一資訊。
+ */
+import { readFileSync } from 'node:fs';
+import { join } from 'node:path';
+import { geoArea, geoMercator, geoPath } from 'd3';
+import copyRaw from '../../data/elections-2026-live-copy.json';
+
+interface Race {
+  area: string;
+  label: string;
+  group: string;
+  candidates: Array<{
+    number: number | null;
+    name: string;
+    party: string;
+    partyLabel: string;
+  }>;
+}
+interface Props {
+  lang: string;
+  races: Race[];
+  referendumQuestion: string;
+  referendumHref: string;
+}
+const { lang, races, referendumQuestion, referendumHref } = Astro.props;
+const allCopy = copyRaw as unknown as Record<string, Record<string, unknown>>;
+const copy = (allCopy[lang] ?? allCopy.en) as Record<string, any>;
+
+const DATA_BASE =
+  'https://raw.githubusercontent.com/frank890417/taiwan-md/election-live/';
+const CEC_LOCAL = 'https://vote.cec.gov.tw/2026-local/zh-TW/indexP.html';
+const CEC_REF = 'https://vote.cec.gov.tw/2026-ref/zh-TW/indexP.html';
+
+// ── TopoJSON → SVG path（與 CountyMap.astro 同一套解法）──
+type Topo = {
+  transform: { scale: [number, number]; translate: [number, number] };
+  arcs: Array<Array<[number, number]>>;
+  objects: {
+    map: {
+      geometries: Array<{
+        type: 'Polygon' | 'MultiPolygon';
+        arcs: number[][] | number[][][];
+        properties: { id: string; name: string };
+      }>;
+    };
+  };
+};
+const topo: Topo = JSON.parse(
+  readFileSync(
+    join(process.cwd(), 'public/assets/geo/taiwan-country.topo.json'),
+    'utf8',
+  ),
+);
+const {
+  scale: [sx, sy],
+  translate: [tx, ty],
+} = topo.transform;
+const arcs = topo.arcs.map((arc) => {
+  let x = 0;
+  let y = 0;
+  return arc.map(([dx, dy]) => {
+    x += dx;
+    y += dy;
+    return [x * sx + tx, y * sy + ty] as [number, number];
+  });
+});
+const arcPoints = (i: number) => (i >= 0 ? arcs[i] : [...arcs[~i]].reverse());
+const ring = (ids: number[]) =>
+  ids.flatMap((i, k) => (k === 0 ? arcPoints(i) : arcPoints(i).slice(1)));
+type Feature = {
+  type: 'Feature';
+  properties: { name: string };
+  geometry:
+    | { type: 'Polygon'; coordinates: [number, number][][] }
+    | { type: 'MultiPolygon'; coordinates: [number, number][][][] };
+};
+const features = new Map<string, Feature>();
+for (const g of topo.objects.map.geometries) {
+  const feature: Feature =
+    g.type === 'Polygon'
+      ? {
+          type: 'Feature',
+          properties: { name: g.properties.name },
+          geometry: {
+            type: 'Polygon',
+            coordinates: (g.arcs as number[][]).map(ring),
+          },
+        }
+      : {
+          type: 'Feature',
+          properties: { name: g.properties.name },
+          geometry: {
+            type: 'MultiPolygon',
+            coordinates: (g.arcs as number[][][]).map((p) => p.map(ring)),
+          },
+        };
+  if (geoArea(feature as never) > 2 * Math.PI) {
+    const reverse = (r: [number, number][]) => r.reverse();
+    if (feature.geometry.type === 'Polygon')
+      feature.geometry.coordinates.forEach(reverse);
+    else feature.geometry.coordinates.forEach((p) => p.forEach(reverse));
+  }
+  features.set(g.properties.name, feature);
+}
+const missing = races.filter((r) => !features.has(r.area));
+if (missing.length > 0) {
+  throw new Error(
+    `LiveBoard: 縣市名稱對不上 TopoJSON（${missing.map((c) => c.area).join('、')}）`,
+  );
+}
+const W = 560;
+const H = 480;
+const insetW = 132;
+const insets = [
+  { area: '連江縣', box: [8, 8, insetW, 140] as const },
+  { area: '金門縣', box: [8, 158, insetW, 110] as const },
+];
+const insetAreas = new Set(insets.map((i) => i.area));
+const mainProjection = geoMercator().fitExtent(
+  [
+    [insetW + 22, 8],
+    [W - 8, H - 8],
+  ],
+  {
+    type: 'FeatureCollection',
+    features: races
+      .filter((r) => !insetAreas.has(r.area))
+      .map((r) => features.get(r.area)!),
+  } as never,
+);
+const mainPath = geoPath(mainProjection).digits(1);
+const insetPaths = new Map(
+  insets.map(({ area, box: [x, y, w, h] }) => {
+    const f = features.get(area)!;
+    const projection = geoMercator().fitExtent(
+      [
+        [x + 10, y + 22],
+        [x + w - 10, y + h - 8],
+      ],
+      f as never,
+    );
+    return [area, geoPath(projection).digits(1)(f as never) ?? ''];
+  }),
+);
+const shapes = races.map((r) => ({
+  area: r.area,
+  label: r.label,
+  inset: insetAreas.has(r.area),
+  d: insetAreas.has(r.area)
+    ? insetPaths.get(r.area)!
+    : (mainPath(features.get(r.area)! as never) ?? ''),
+}));
+
+const boot = {
+  lang,
+  copy,
+  races,
+  dataBase: DATA_BASE,
+  cecLocal: CEC_LOCAL,
+  cecRef: CEC_REF,
+  closeAt: '2026-11-28T16:00:00+08:00',
+  staleMin: 25,
+  pollMs: 120000,
+};
+---
+
+<section
+  class="lb"
+  id="live"
+  aria-labelledby="lb-title"
+  data-lb
+  data-lb-state="pre"
+>
+  <div class="el-wrap lb-wrap">
+    <header class="lb-head">
+      <div class="lb-head-main">
+        <p class="lb-eyebrow">{copy.eyebrow}</p>
+        <h2 id="lb-title" class="lb-title">{copy.title}</h2>
+        <p class="lb-lead">{copy.lead}</p>
+      </div>
+      <div class="lb-status" role="status" aria-live="polite">
+        <p class="lb-status-line">
+          <span class="lb-dot" aria-hidden="true"></span>
+          <span class="lb-status-text" data-lb-status>{copy.statusPre}</span>
+        </p>
+        <p class="lb-status-hint" data-lb-hint>{copy.statusPreHint}</p>
+        <dl class="lb-meta" data-lb-meta hidden>
+          <div>
+            <dt>{copy.updatedAt}</dt>
+            <dd data-lb-updated>—</dd>
+          </div>
+          <div data-lb-stations-wrap hidden>
+            <dt>{copy.stations}</dt>
+            <dd data-lb-stations>—</dd>
+          </div>
+        </dl>
+        <p class="lb-links">
+          <a href={CEC_LOCAL} target="_blank" rel="noopener noreferrer"
+            >{copy.cecLink} ↗</a
+          >
+        </p>
+      </div>
+    </header>
+
+    <p class="lb-alert" data-lb-alert hidden></p>
+    <noscript><p class="lb-alert">{copy.noscript}</p></noscript>
+
+    <!-- 各黨領先縣市數 -->
+    <div class="lb-score" data-lb-score-wrap>
+      <h3 class="lb-h3">{copy.scoreTitle}</h3>
+      <div
+        class="lb-score-bar"
+        data-lb-score-bar
+        role="img"
+        aria-label={copy.scoreTitle}
+      >
+      </div>
+      <ul class="lb-score-legend el-reset" data-lb-score-legend></ul>
+      <p class="lb-note">{copy.scoreNote}</p>
+    </div>
+
+    <div class="lb-grid">
+      <!-- 地圖 -->
+      <figure class="lb-map">
+        <svg
+          viewBox={`0 0 ${W} ${H}`}
+          role="group"
+          aria-label={copy.mapTitle}
+          class="lb-svg"
+        >
+          {
+            insets.map(({ area, box: [x, y, w, h] }) => (
+              <g aria-hidden="true">
+                <rect
+                  class="lb-inset"
+                  x={x}
+                  y={y}
+                  width={w}
+                  height={h}
+                  rx="6"
+                />
+                <text class="lb-inset-label" x={x + 8} y={y + 15}>
+                  {races.find((r) => r.area === area)?.label}
+                </text>
+              </g>
+            ))
+          }
+          {
+            shapes.map((s) => (
+              <a
+                href={`#lb-race-${s.area}`}
+                class="lb-map-link"
+                data-lb-map={s.area}
+                aria-label={s.label}
+              >
+                <path
+                  d={s.d}
+                  class={`lb-c${s.inset ? ' lb-c-small' : ''}`}
+                  data-party="none"
+                />
+                <title>{s.label}</title>
+              </a>
+            ))
+          }
+        </svg>
+        <figcaption class="lb-map-cap">{copy.mapTitle}</figcaption>
+      </figure>
+
+      <!-- 六都 -->
+      <div class="lb-major">
+        <h3 class="lb-h3">{copy.municipal}</h3>
+        <div class="lb-cards lb-cards-major" data-lb-cards="municipal"></div>
+      </div>
+    </div>
+
+    <div class="lb-minor">
+      <h3 class="lb-h3">{copy.county}</h3>
+      <div class="lb-cards lb-cards-minor" data-lb-cards="county"></div>
+    </div>
+
+    <!-- 公投 -->
+    <div class="lb-ref" data-lb-ref>
+      <div class="lb-ref-head">
+        <h3 class="lb-h3">{copy.refTitle}</h3>
+        <p class="lb-ref-q">
+          <a href={referendumHref}>{referendumQuestion}</a>
+        </p>
+      </div>
+      <div class="lb-ref-body" data-lb-ref-body></div>
+      <p class="lb-note">
+        {copy.refRuleNote}
+        <a href={CEC_REF} target="_blank" rel="noopener noreferrer"
+          >{copy.cecRefLink} ↗</a
+        >
+      </p>
+    </div>
+
+    <!-- 全貌＋消息＋查核 -->
+    <div class="lb-feed-grid">
+      <div class="lb-feed">
+        <div class="lb-overview" data-lb-overview hidden>
+          <h3 class="lb-h3">{copy.overviewTitle}</h3>
+          <div class="lb-overview-body" data-lb-overview-body></div>
+        </div>
+        <h3 class="lb-h3">{copy.feedTitle}</h3>
+        <p class="lb-note">{copy.feedLead}</p>
+        <ol class="lb-items el-reset" data-lb-items>
+          <li class="lb-empty">{copy.feedEmpty}</li>
+        </ol>
+      </div>
+      <div class="lb-fact">
+        <h3 class="lb-h3">{copy.factTitle}</h3>
+        <p class="lb-note">{copy.factLead}</p>
+        <ol class="lb-items el-reset" data-lb-facts>
+          <li class="lb-empty">{copy.factEmpty}</li>
+        </ol>
+      </div>
+    </div>
+
+    <details class="lb-method">
+      <summary>{copy.methodTitle}</summary>
+      <p>{copy.method}</p>
+    </details>
+  </div>
+
+  <script
+    type="application/json"
+    data-lb-boot
+    set:html={JSON.stringify(boot)}
+  />
+</section>
+
+<script>
+  type Cand = {
+    number: number | null;
+    name: string;
+    party: string;
+    partyLabel?: string;
+    votes?: number;
+    pct?: number;
+    elected?: boolean;
+  };
+  const root = document.querySelector<HTMLElement>('[data-lb]');
+  const bootEl = root?.querySelector('[data-lb-boot]');
+  if (root && bootEl) {
+    const B = JSON.parse(bootEl.textContent || '{}');
+    const C = B.copy;
+    const $ = <T extends Element = HTMLElement>(s: string) =>
+      root.querySelector<T>(s);
+    const esc = (s: unknown) =>
+      String(s ?? '').replace(
+        /[&<>"']/g,
+        (c) =>
+          ({
+            '&': '&amp;',
+            '<': '&lt;',
+            '>': '&gt;',
+            '"': '&quot;',
+            "'": '&#39;',
+          })[c]!,
+      );
+    const fill = (tpl: string, v: Record<string, string | number>) =>
+      tpl.replace(/\{(\w+)\}/g, (_, k) => String(v[k] ?? ''));
+    const nf = new Intl.NumberFormat(B.lang === 'zh-TW' ? 'zh-TW' : B.lang);
+    const num = (n: unknown) =>
+      typeof n === 'number' && isFinite(n) ? nf.format(n) : '—';
+    const norm = (s: string) =>
+      String(s || '')
+        .replace(/\s+/g, '')
+        .replace(/温/g, '溫')
+        .replace(/啓/g, '啟')
+        .replace(/台/g, '臺');
+    const partyKey = (p: string) => {
+      const s = String(p || '');
+      if (s.includes('國民黨')) return 'kmt';
+      if (s.includes('民主進步黨') || s.includes('民進黨')) return 'dpp';
+      if (s.includes('民眾黨')) return 'tpp';
+      if (s.includes('無黨') || s === '無' || s === '') return 'ind';
+      return 'other';
+    };
+    const SEP = B.lang === 'zh-TW' || B.lang === 'ja' ? '、' : ', ';
+    const safeUrl = (u: unknown) =>
+      typeof u === 'string' && /^https?:\/\//.test(u) ? u : '';
+    const timeFmt = (iso: string) => {
+      const d = new Date(iso);
+      if (isNaN(d.getTime())) return '';
+      return new Intl.DateTimeFormat(B.lang === 'zh-TW' ? 'zh-TW' : B.lang, {
+        timeZone: 'Asia/Taipei',
+        hour: '2-digit',
+        minute: '2-digit',
+        hour12: false,
+      }).format(d);
+    };
+
+    // 本機預覽專用：?lbbase=/lbmock/ 改讀假資料並略過 16:00 的時間閘（正式站不生效）
+    if (location.hostname === 'localhost') {
+      const q = new URLSearchParams(location.search).get('lbbase');
+      if (q && q.startsWith('/')) {
+        B.dataBase = q;
+        B.closeAt = '2000-01-01T00:00:00+08:00';
+      }
+    }
+    let results: any = null;
+    let feed: any = null;
+    let resultsFailed = false;
+
+    /** 把名冊跟票數合起來；票數檔沒有的縣市就只有名冊。 */
+    function raceView(race: any) {
+      const r = results?.mayors?.[race.area];
+      const base: Cand[] = race.candidates.map((c: Cand) => ({ ...c }));
+      let cands: Cand[] = base;
+      let hasVotes = false;
+      if (r && Array.isArray(r.candidates) && r.candidates.length) {
+        const byName = new Map(base.map((c) => [norm(c.name), c]));
+        cands = r.candidates.map((c: Cand) => {
+          const b = byName.get(norm(c.name));
+          return {
+            number: c.number ?? b?.number ?? null,
+            name: b?.name ?? c.name,
+            party: b?.party ?? c.party ?? '',
+            partyLabel: b?.partyLabel ?? c.party ?? '',
+            votes: typeof c.votes === 'number' ? c.votes : 0,
+            pct: typeof c.pct === 'number' ? c.pct : undefined,
+            elected: c.elected === true,
+          };
+        });
+        const total = cands.reduce((a, c) => a + (c.votes || 0), 0);
+        hasVotes = total > 0;
+        if (hasVotes) {
+          cands.forEach((c) => {
+            if (c.pct === undefined) c.pct = ((c.votes || 0) / total) * 100;
+          });
+          cands.sort((a, b) => (b.votes || 0) - (a.votes || 0));
+        }
+      }
+      const leader = hasVotes ? cands[0] : null;
+      const second = hasVotes && cands.length > 1 ? cands[1] : null;
+      const winner = cands.find((c) => c.elected) || null;
+      return {
+        race,
+        cands,
+        hasVotes,
+        leader,
+        second,
+        winner,
+        reported: r?.reported,
+        total: r?.total,
+      };
+    }
+
+    function cardHtml(v: ReturnType<typeof raceView>) {
+      const head = v.winner || v.leader;
+      const tag = v.winner
+        ? `<span class="lb-tag lb-tag-win" title="${esc(C.electedNote)}">${esc(C.elected)}</span>`
+        : v.leader
+          ? `<span class="lb-tag">${esc(C.leading)}</span>`
+          : '';
+      const prog =
+        typeof v.reported === 'number' &&
+        typeof v.total === 'number' &&
+        v.total > 0
+          ? `<p class="lb-card-prog"><span class="lb-prog-track"><span class="lb-prog-fill" style="width:${Math.min(100, (v.reported / v.total) * 100).toFixed(1)}%"></span></span><span class="lb-prog-text">${esc(fill(C.reported, { a: num(v.reported), b: num(v.total) }))}</span></p>`
+          : '';
+      const margin =
+        v.leader && v.second
+          ? `<span class="lb-margin">${esc(fill(C.margin, { n: num((v.leader.votes || 0) - (v.second.votes || 0)) }))}</span>`
+          : '';
+      const rows = v.cands
+        .map((c) => {
+          const k = partyKey(c.party);
+          const isHead = head && c === head;
+          const pct = v.hasVotes ? (c.pct || 0).toFixed(2) + '%' : '';
+          const no =
+            c.number != null
+              ? `<span class="lb-no">${esc(C.numberPrefix)}${c.number}${esc(C.numberSuffix)}</span>`
+              : '';
+          return `<li class="lb-row${isHead ? ' is-head' : ''}" data-party="${k}">
+            <div class="lb-row-top">
+              <span class="lb-name">${esc(c.name)}${c.elected ? ` <span class="lb-tag lb-tag-win">${esc(C.elected)}</span>` : ''}</span>
+              <span class="lb-pct">${pct}</span>
+            </div>
+            <div class="lb-row-sub">
+              <span class="lb-party"><span class="lb-chip" aria-hidden="true"></span>${esc(c.partyLabel || c.party)}</span>${no}
+              <span class="lb-votes">${v.hasVotes ? num(c.votes) + ' ' + esc(C.votes) : ''}</span>
+            </div>
+            <div class="lb-bar" aria-hidden="true"><span style="width:${v.hasVotes ? Math.min(100, c.pct || 0).toFixed(2) : 0}%"></span></div>
+          </li>`;
+        })
+        .join('');
+      return `<article class="lb-card" id="lb-race-${esc(v.race.area)}" data-party="${head ? partyKey(head.party) : 'none'}">
+        <header class="lb-card-head">
+          <h4 class="lb-card-title">${esc(v.race.label)}</h4>
+          <span class="lb-card-tags">${tag}${margin}</span>
+        </header>
+        <ol class="lb-rows el-reset">${rows}</ol>
+        ${prog}
+      </article>`;
+    }
+
+    function renderRaces() {
+      const views = B.races.map(raceView);
+      for (const group of ['municipal', 'county']) {
+        const box = $(`[data-lb-cards="${group}"]`);
+        if (!box) continue;
+        box.innerHTML = views
+          .filter((v: any) =>
+            group === 'municipal'
+              ? v.race.group === 'municipal'
+              : v.race.group !== 'municipal',
+          )
+          .map(cardHtml)
+          .join('');
+      }
+      // 地圖
+      views.forEach((v: any) => {
+        const a = root!.querySelector(
+          `[data-lb-map="${CSS.escape(v.race.area)}"]`,
+        );
+        const path = a?.querySelector('path');
+        const head = v.winner || v.leader;
+        if (!a || !path) return;
+        path.setAttribute('data-party', head ? partyKey(head.party) : 'none');
+        const text = head
+          ? `${v.winner ? C.elected : C.leading} ${head.name} · ${head.partyLabel || head.party} · ${(head.pct || 0).toFixed(1)}%`
+          : C.noData;
+        a.setAttribute(
+          'aria-label',
+          fill(C.mapAria, { area: v.race.label, text }),
+        );
+        const t = a.querySelector('title');
+        if (t) t.textContent = fill(C.mapAria, { area: v.race.label, text });
+      });
+      // 各黨領先縣市數
+      const order = ['kmt', 'dpp', 'tpp', 'ind', 'other'];
+      const count: Record<
+        string,
+        { lead: number; won: number; areas: string[] }
+      > = {};
+      order.forEach((k) => (count[k] = { lead: 0, won: 0, areas: [] }));
+      let none = 0;
+      views.forEach((v: any) => {
+        const head = v.winner || v.leader;
+        if (!head) return void none++;
+        const k = partyKey(head.party);
+        count[k].lead++;
+        if (v.winner) count[k].won++;
+        count[k].areas.push(v.race.label);
+      });
+      const bar = $('[data-lb-score-bar]');
+      const legend = $('[data-lb-score-legend]');
+      if (bar && legend) {
+        const segs = order
+          .filter((k) => count[k].lead > 0)
+          .map(
+            (k) =>
+              `<span class="lb-seg" data-party="${k}" style="flex:${count[k].lead}"><b>${count[k].lead}</b></span>`,
+          );
+        if (none > 0)
+          segs.push(
+            `<span class="lb-seg" data-party="none" style="flex:${none}"><b>${none === views.length ? '' : none}</b></span>`,
+          );
+        bar.innerHTML = segs.join('');
+        legend.innerHTML =
+          none === views.length
+            ? `<li class="lb-empty">${esc(C.scoreEmpty)}</li>`
+            : order
+                .filter((k) => count[k].lead > 0)
+                .map(
+                  (k) =>
+                    `<li data-party="${k}"><span class="lb-chip" aria-hidden="true"></span><span class="lb-leg-name">${esc(C.party[k])}</span><span class="lb-leg-n">${count[k].lead}</span>${count[k].won ? `<span class="lb-leg-won">${esc(C.elected)} ${count[k].won}</span>` : ''}<span class="lb-leg-areas">${esc(count[k].areas.join(SEP))}</span></li>`,
+                )
+                .join('') +
+              (none > 0
+                ? `<li data-party="none"><span class="lb-chip" aria-hidden="true"></span><span class="lb-leg-name">${esc(C.noData)}</span><span class="lb-leg-n">${none}</span></li>`
+                : '');
+      }
+    }
+
+    function renderRef() {
+      const box = $('[data-lb-ref-body]');
+      if (!box) return;
+      const r = results?.referendum;
+      const agree = typeof r?.agree === 'number' ? r.agree : null;
+      const dis = typeof r?.disagree === 'number' ? r.disagree : null;
+      const has = agree !== null && dis !== null && agree + dis > 0;
+      const tot = has ? agree! + dis! : 0;
+      const pa = has ? (agree! / tot) * 100 : 0;
+      const pd = has ? (dis! / tot) * 100 : 0;
+      const eligible =
+        typeof r?.eligible === 'number' && r.eligible > 0 ? r.eligible : null;
+      const need = eligible ? Math.ceil(eligible / 4) : null;
+      const st = (ok: boolean | null) =>
+        ok === null
+          ? `<span class="lb-rule-st is-pending">${esc(C.pending)}</span>`
+          : ok
+            ? `<span class="lb-rule-st is-met">${esc(C.met)}</span>`
+            : `<span class="lb-rule-st is-not">${esc(C.notMet)}</span>`;
+      const prog =
+        typeof r?.reported === 'number' &&
+        typeof r?.total === 'number' &&
+        r.total > 0
+          ? `<p class="lb-card-prog"><span class="lb-prog-track"><span class="lb-prog-fill" style="width:${Math.min(100, (r.reported / r.total) * 100).toFixed(1)}%"></span></span><span class="lb-prog-text">${esc(fill(C.reported, { a: num(r.reported), b: num(r.total) }))}</span></p>`
+          : '';
+      box.innerHTML = `
+        <div class="lb-ref-bars">
+          <div class="lb-ref-side is-agree"><span class="lb-ref-label">${esc(C.refAgree)}</span><span class="lb-ref-pct">${has ? pa.toFixed(2) + '%' : '—'}</span><span class="lb-ref-votes">${has ? num(agree) + ' ' + esc(C.votes) : ''}</span></div>
+          <div class="lb-ref-side is-dis"><span class="lb-ref-label">${esc(C.refDisagree)}</span><span class="lb-ref-pct">${has ? pd.toFixed(2) + '%' : '—'}</span><span class="lb-ref-votes">${has ? num(dis) + ' ' + esc(C.votes) : ''}</span></div>
+        </div>
+        <div class="lb-ref-split" aria-hidden="true"><span class="is-agree" style="width:${has ? pa.toFixed(2) : 50}%"></span><span class="is-dis" style="width:${has ? pd.toFixed(2) : 50}%"></span></div>
+        <ul class="lb-rules el-reset">
+          <li><span class="lb-rule-text">${esc(C.refRule1)}</span>${st(has ? agree! > dis! : null)}</li>
+          <li><span class="lb-rule-text">${esc(C.refRule2)}${need && has ? `<span class="lb-rule-sub">${esc(fill(C.refRule2Progress, { a: num(agree), b: num(need) }))}</span>` : ''}
+            ${need ? `<span class="lb-thresh" aria-hidden="true"><span style="width:${has ? Math.min(100, (agree! / need) * 100).toFixed(1) : 0}%"></span></span>` : ''}</span>${st(has && need ? agree! >= need : null)}</li>
+        </ul>
+        ${eligible ? `<p class="lb-ref-elig">${esc(C.refEligible)} ${num(eligible)}</p>` : ''}
+        ${prog}`;
+    }
+
+    function itemHtml(it: any, isFact: boolean) {
+      const srcs = (Array.isArray(it.sources) ? it.sources : [])
+        .map((s: any) => {
+          const u = safeUrl(s?.url);
+          return u
+            ? `<a href="${esc(u)}" target="_blank" rel="noopener noreferrer">${esc(s.name || u)}</a>`
+            : esc(s?.name || '');
+        })
+        .filter(Boolean)
+        .join(SEP);
+      const badge = isFact
+        ? `<span class="lb-badge" data-verdict="${esc(it.verdict)}">${esc(C.verdict[it.verdict] || it.verdict || '')}</span>`
+        : `<span class="lb-badge" data-kind="${esc(it.kind)}">${esc(C.kind[it.kind] || it.kind || '')}</span>`;
+      return `<li class="lb-item">
+        <p class="lb-item-meta"><time datetime="${esc(it.time)}">${esc(timeFmt(it.time))}</time>${badge}</p>
+        <p class="lb-item-title">${esc(isFact ? it.claim : it.title)}</p>
+        ${it.body ? `<p class="lb-item-body">${esc(it.body)}</p>` : ''}
+        ${srcs ? `<p class="lb-item-src">${esc(C.source)} ${srcs}</p>` : ''}
+      </li>`;
+    }
+
+    function renderFeed() {
+      const items = $('[data-lb-items]');
+      const facts = $('[data-lb-facts]');
+      const ov = $('[data-lb-overview]');
+      const ovb = $('[data-lb-overview-body]');
+      const list = Array.isArray(feed?.items) ? feed.items.slice() : [];
+      list.sort((a: any, b: any) =>
+        String(b.time).localeCompare(String(a.time)),
+      );
+      if (items)
+        items.innerHTML = list.length
+          ? list.map((i: any) => itemHtml(i, false)).join('')
+          : `<li class="lb-empty">${esc(C.feedEmpty)}</li>`;
+      const fl = Array.isArray(feed?.factchecks) ? feed.factchecks.slice() : [];
+      fl.sort((a: any, b: any) => String(b.time).localeCompare(String(a.time)));
+      if (facts)
+        facts.innerHTML = fl.length
+          ? fl.map((i: any) => itemHtml(i, true)).join('')
+          : `<li class="lb-empty">${esc(C.factEmpty)}</li>`;
+      if (ov && ovb) {
+        const paras = Array.isArray(feed?.overview) ? feed.overview : [];
+        ov.hidden = paras.length === 0;
+        ovb.innerHTML =
+          paras.map((p: string) => `<p>${esc(p)}</p>`).join('') +
+          (feed?.overviewAt
+            ? `<p class="lb-note">${esc(C.updatedAt)} ${esc(timeFmt(feed.overviewAt))}</p>`
+            : '');
+      }
+    }
+
+    function renderStatus() {
+      const now = Date.now();
+      const closed = now >= Date.parse(B.closeAt);
+      const phase = results?.phase;
+      let state = 'pre';
+      if (phase === 'final') state = 'final';
+      else if (phase === 'counting') state = 'counting';
+      else if (closed) state = 'waiting';
+      root!.setAttribute('data-lb-state', state);
+      const status = $('[data-lb-status]');
+      const hint = $('[data-lb-hint]');
+      const meta = $('[data-lb-meta]');
+      const alertEl = $('[data-lb-alert]');
+      if (status)
+        status.textContent =
+          state === 'pre'
+            ? C.statusPre
+            : state === 'waiting'
+              ? C.statusWaiting
+              : state === 'counting'
+                ? C.statusCounting
+                : C.statusFinal;
+      if (hint) {
+        const t =
+          state === 'pre'
+            ? C.statusPreHint
+            : state === 'waiting'
+              ? C.statusWaitingHint
+              : state === 'final'
+                ? C.statusFinalHint
+                : '';
+        hint.textContent = t;
+        hint.hidden = !t;
+      }
+      const showMeta = state === 'counting' || state === 'final';
+      if (meta) meta.hidden = !showMeta;
+      if (showMeta) {
+        const u = $('[data-lb-updated]');
+        if (u) u.textContent = timeFmt(results.updatedAt) || '—';
+        const sw = $('[data-lb-stations-wrap]');
+        const s = $('[data-lb-stations]');
+        const st = results.stations;
+        const ok =
+          st &&
+          typeof st.reported === 'number' &&
+          typeof st.total === 'number' &&
+          st.total > 0;
+        if (sw) sw.hidden = !ok;
+        if (s && ok)
+          s.textContent = `${num(st.reported)} / ${num(st.total)}（${((st.reported / st.total) * 100).toFixed(1)}%）`;
+      }
+      if (alertEl) {
+        let msg = '';
+        if (state === 'counting') {
+          const age = (now - Date.parse(results.updatedAt)) / 60000;
+          if (isFinite(age) && age > B.staleMin)
+            msg = fill(C.stale, { n: Math.floor(age) });
+        } else if (state === 'waiting' && resultsFailed) msg = C.unavailable;
+        if (
+          !msg &&
+          results?.notice &&
+          (state === 'counting' || state === 'final')
+        )
+          msg = String(results.notice);
+        alertEl.textContent = msg;
+        alertEl.hidden = !msg;
+      }
+    }
+
+    function renderAll() {
+      renderStatus();
+      renderRaces();
+      renderRef();
+      renderFeed();
+    }
+
+    async function getJson(name: string) {
+      const res = await fetch(
+        `${B.dataBase}${name}?t=${Math.floor(Date.now() / 60000)}`,
+        {
+          cache: 'no-store',
+        },
+      );
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      return res.json();
+    }
+    async function refresh() {
+      // 16:00 前不抓票數檔，殼上不會出現任何數字
+      const closed = Date.now() >= Date.parse(B.closeAt);
+      const jobs: Promise<void>[] = [
+        getJson('feed.json')
+          .then((j) => void (feed = j))
+          .catch(() => {}),
+      ];
+      if (closed)
+        jobs.push(
+          getJson('results.json')
+            .then((j) => {
+              results = j;
+              resultsFailed = false;
+            })
+            .catch(() => {
+              resultsFailed = true;
+            }),
+        );
+      await Promise.all(jobs);
+      renderAll();
+    }
+    renderAll();
+    refresh();
+    setInterval(refresh, B.pollMs);
+    setInterval(renderStatus, 30000);
+    document.addEventListener('visibilitychange', () => {
+      if (!document.hidden) refresh();
+    });
+  }
+</script>
+
+<style is:global>
+  .el-surface .lb {
+    --lb-kmt: #1d4e9e;
+    --lb-dpp: #1b8a3a;
+    --lb-tpp: #1aa6a6;
+    --lb-ind: #6b6560;
+    --lb-other: #a8620e;
+    --lb-none: var(--el-map-0);
+    --lb-agree: #0f766e;
+    --lb-dis: #9f1239;
+    padding: 28px 0 40px;
+    background: var(--el-cream);
+    border-top: 1px solid var(--el-border);
+    border-bottom: 1px solid var(--el-border);
+    font-family: var(--el-sans);
+    color: var(--el-ink);
+  }
+  /* 模板的 .el-wrap／.el-reset 是 scoped，這個元件的節點吃不到，自己定義一份 */
+  .lb .lb-wrap {
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  .lb ol,
+  .lb ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  :root[data-theme='dark'] .el-surface .lb {
+    --lb-kmt: #6ea0ea;
+    --lb-dpp: #52c476;
+    --lb-tpp: #4fd1d1;
+    --lb-ind: #a8a29e;
+    --lb-other: #e0a04a;
+    --lb-agree: #2dd4bf;
+    --lb-dis: #fb7185;
+  }
+  .lb [data-party='kmt'] {
+    --p: var(--lb-kmt);
+  }
+  .lb [data-party='dpp'] {
+    --p: var(--lb-dpp);
+  }
+  .lb [data-party='tpp'] {
+    --p: var(--lb-tpp);
+  }
+  .lb [data-party='ind'] {
+    --p: var(--lb-ind);
+  }
+  .lb [data-party='other'] {
+    --p: var(--lb-other);
+  }
+  .lb [data-party='none'] {
+    --p: var(--lb-none);
+  }
+  .lb-head {
+    display: grid;
+    gap: 18px;
+    margin-bottom: 20px;
+  }
+  @media (min-width: 860px) {
+    .lb-head {
+      grid-template-columns: minmax(0, 1.5fr) minmax(280px, 1fr);
+      align-items: start;
+    }
+  }
+  .lb-eyebrow {
+    margin: 0 0 6px;
+    font-size: 13px;
+    letter-spacing: 0.08em;
+    color: var(--el-accent);
+    font-weight: 600;
+  }
+  .lb-title {
+    margin: 0 0 8px;
+    font-family: var(--el-serif);
+    font-size: clamp(30px, 5vw, 46px);
+    line-height: 1.1;
+  }
+  .lb-lead {
+    margin: 0;
+    max-width: 44em;
+    font-size: 15px;
+    line-height: 1.7;
+    color: var(--el-ink-2);
+  }
+  .lb-status {
+    padding: 16px 18px;
+    background: var(--el-card);
+    border: 1px solid var(--el-border-strong);
+    border-radius: 14px;
+  }
+  .lb-status-line {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 0;
+    font-size: 20px;
+    font-weight: 700;
+  }
+  .lb-dot {
+    width: 11px;
+    height: 11px;
+    border-radius: 50%;
+    background: var(--el-ink-3);
+    flex: none;
+  }
+  .lb[data-lb-state='counting'] .lb-dot {
+    background: #dc2626;
+    animation: lb-pulse 1.6s ease-in-out infinite;
+  }
+  .lb[data-lb-state='waiting'] .lb-dot {
+    background: #d97706;
+  }
+  .lb[data-lb-state='final'] .lb-dot {
+    background: var(--el-positive);
+  }
+  @keyframes lb-pulse {
+    50% {
+      opacity: 0.35;
+    }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .lb[data-lb-state='counting'] .lb-dot {
+      animation: none;
+    }
+  }
+  .lb-status-hint {
+    margin: 8px 0 0;
+    font-size: 14px;
+    line-height: 1.6;
+    color: var(--el-ink-2);
+  }
+  .lb-meta {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 10px 18px;
+    margin: 12px 0 0;
+  }
+  .lb-meta dt {
+    font-size: 12px;
+    color: var(--el-ink-3);
+  }
+  .lb-meta dd {
+    margin: 2px 0 0;
+    font-size: 17px;
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+  }
+  .lb-links {
+    margin: 12px 0 0;
+    font-size: 14px;
+  }
+  .lb a {
+    color: var(--el-accent);
+  }
+  .lb-alert {
+    margin: 0 0 18px;
+    padding: 12px 16px;
+    background: var(--el-warn-soft);
+    border: 1px solid var(--el-border-strong);
+    border-radius: 10px;
+    font-size: 15px;
+    line-height: 1.6;
+    color: var(--el-ink);
+  }
+  .lb-h3 {
+    margin: 0 0 10px;
+    font-family: var(--el-serif);
+    font-size: 20px;
+    line-height: 1.3;
+  }
+  .lb-note {
+    margin: 8px 0 0;
+    font-size: 13px;
+    line-height: 1.6;
+    color: var(--el-ink-3);
+  }
+  .lb-empty {
+    font-size: 14px;
+    color: var(--el-ink-3);
+  }
+  /* 各黨領先縣市數 */
+  .lb-score {
+    margin-bottom: 24px;
+    padding: 18px;
+    background: var(--el-card);
+    border: 1px solid var(--el-border);
+    border-radius: 14px;
+  }
+  .lb-score-bar {
+    display: flex;
+    height: 44px;
+    border-radius: 8px;
+    overflow: hidden;
+    gap: 2px;
+    background: var(--el-rule);
+  }
+  .lb-seg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 28px;
+    background: var(--p);
+    color: #fff;
+    font-size: 19px;
+    font-variant-numeric: tabular-nums;
+    transition: flex 0.5s ease;
+  }
+  .lb-seg[data-party='none'] {
+    color: var(--el-ink-3);
+  }
+  :root[data-theme='dark'] .lb-seg {
+    color: #0e0d0b;
+  }
+  .lb-score-legend {
+    display: grid;
+    gap: 6px;
+    margin-top: 12px;
+    font-size: 14px;
+  }
+  .lb-score-legend li {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 4px 8px;
+  }
+  .lb-chip {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 2px;
+    background: var(--p);
+    flex: none;
+  }
+  .lb [data-party='none'] > .lb-chip {
+    border: 1px solid var(--el-border-strong);
+  }
+  .lb-leg-name {
+    font-weight: 700;
+  }
+  .lb-leg-n {
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+  }
+  .lb-leg-won {
+    padding: 0 6px;
+    border-radius: 4px;
+    background: var(--el-positive-soft);
+    color: var(--el-positive);
+    font-size: 12px;
+    font-weight: 700;
+  }
+  .lb-leg-areas {
+    color: var(--el-ink-2);
+    font-size: 13px;
+  }
+  /* 地圖＋六都 */
+  .lb-grid {
+    display: grid;
+    gap: 24px;
+    margin-bottom: 24px;
+  }
+  @media (min-width: 960px) {
+    .lb-grid {
+      grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.3fr);
+      align-items: start;
+    }
+    .lb-map {
+      position: sticky;
+      top: 120px;
+    }
+  }
+  .lb-map {
+    margin: 0;
+    padding: 14px;
+    background: var(--el-card);
+    border: 1px solid var(--el-border);
+    border-radius: 14px;
+  }
+  .lb-svg {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-width: 520px;
+    margin: 0 auto;
+  }
+  .lb-inset {
+    fill: none;
+    stroke: var(--el-border-strong);
+  }
+  .lb-inset-label {
+    font-size: 12px;
+    fill: var(--el-ink-2);
+  }
+  .lb-c {
+    fill: var(--p);
+    stroke: var(--el-card);
+    stroke-width: 0.8;
+    stroke-linejoin: round;
+    transition: fill 0.4s;
+  }
+  .lb-c-small,
+  .lb-c[data-party='none'] {
+    stroke: var(--el-ink-3);
+    stroke-width: 0.6;
+  }
+  .lb-map-link:hover .lb-c,
+  .lb-map-link:focus-visible .lb-c {
+    stroke: var(--el-map-hover);
+    stroke-width: 2.2;
+  }
+  .lb-map-link:focus {
+    outline: none;
+  }
+  .lb-map-cap {
+    margin-top: 8px;
+    font-size: 13px;
+    color: var(--el-ink-3);
+    text-align: center;
+  }
+  .lb-cards {
+    display: grid;
+    gap: 12px;
+  }
+  .lb-cards-major {
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  }
+  .lb-cards-minor {
+    grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  }
+  .lb-minor {
+    margin-bottom: 28px;
+  }
+  .lb-card {
+    padding: 14px 14px 12px;
+    background: var(--el-card);
+    border: 1px solid var(--el-border);
+    border-top: 4px solid var(--p);
+    border-radius: 12px;
+    scroll-margin-top: 130px;
+  }
+  .lb-card[data-party='none'] {
+    border-top-color: var(--el-border-strong);
+  }
+  .lb-card:target {
+    outline: 2px solid var(--el-accent);
+    outline-offset: 2px;
+  }
+  .lb-card-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 8px;
+    margin-bottom: 8px;
+  }
+  .lb-card-title {
+    margin: 0;
+    font-family: var(--el-serif);
+    font-size: 19px;
+  }
+  .lb-card-tags {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    gap: 6px;
+    font-size: 12px;
+    color: var(--el-ink-3);
+  }
+  .lb-tag {
+    padding: 1px 7px;
+    border: 1px solid var(--el-border-strong);
+    border-radius: 999px;
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--el-ink-2);
+    white-space: nowrap;
+  }
+  .lb-tag-win {
+    border-color: var(--el-positive);
+    background: var(--el-positive-soft);
+    color: var(--el-positive);
+  }
+  .lb-rows {
+    display: grid;
+    gap: 9px;
+  }
+  .lb-row-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 8px;
+  }
+  .lb-name {
+    font-size: 16px;
+    font-weight: 600;
+    overflow-wrap: anywhere;
+  }
+  .lb-row.is-head .lb-name {
+    font-size: 18px;
+    font-weight: 800;
+  }
+  .lb-pct {
+    font-size: 16px;
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+  }
+  .lb-row.is-head .lb-pct {
+    font-size: 20px;
+  }
+  .lb-row-sub {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 2px 8px;
+    font-size: 12.5px;
+    color: var(--el-ink-2);
+  }
+  .lb-party {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+  }
+  .lb-no {
+    color: var(--el-ink-3);
+  }
+  .lb-votes {
+    margin-left: auto;
+    font-variant-numeric: tabular-nums;
+  }
+  .lb-bar {
+    height: 6px;
+    margin-top: 4px;
+    border-radius: 3px;
+    background: var(--el-rule);
+    overflow: hidden;
+  }
+  .lb-bar > span {
+    display: block;
+    height: 100%;
+    background: var(--p);
+    border-radius: 3px;
+    transition: width 0.6s ease;
+  }
+  .lb-row:not(.is-head) .lb-bar > span {
+    opacity: 0.7;
+  }
+  .lb-card-prog {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin: 12px 0 0;
+    font-size: 12px;
+    color: var(--el-ink-3);
+  }
+  .lb-prog-track {
+    flex: 1;
+    height: 4px;
+    border-radius: 2px;
+    background: var(--el-rule);
+    overflow: hidden;
+  }
+  .lb-prog-fill {
+    display: block;
+    height: 100%;
+    background: var(--el-ink-3);
+  }
+  .lb-prog-text {
+    white-space: nowrap;
+    font-variant-numeric: tabular-nums;
+  }
+  /* 公投 */
+  .lb-ref {
+    margin-bottom: 28px;
+    padding: 18px;
+    background: var(--el-card);
+    border: 1px solid var(--el-border);
+    border-radius: 14px;
+  }
+  .lb-ref-q {
+    margin: 0 0 14px;
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  .lb-ref-bars {
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+  }
+  .lb-ref-side {
+    display: grid;
+    gap: 2px;
+  }
+  .lb-ref-side.is-dis {
+    text-align: right;
+  }
+  .lb-ref-label {
+    font-size: 14px;
+    font-weight: 700;
+  }
+  .lb-ref-side.is-agree .lb-ref-label,
+  .lb-ref-side.is-agree .lb-ref-pct {
+    color: var(--lb-agree);
+  }
+  .lb-ref-side.is-dis .lb-ref-label,
+  .lb-ref-side.is-dis .lb-ref-pct {
+    color: var(--lb-dis);
+  }
+  .lb-ref-pct {
+    font-size: clamp(26px, 5vw, 38px);
+    font-weight: 800;
+    font-variant-numeric: tabular-nums;
+    line-height: 1.1;
+  }
+  .lb-ref-votes {
+    font-size: 13px;
+    color: var(--el-ink-2);
+    font-variant-numeric: tabular-nums;
+  }
+  .lb-ref-split {
+    display: flex;
+    height: 14px;
+    margin: 10px 0 14px;
+    border-radius: 7px;
+    overflow: hidden;
+    background: var(--el-rule);
+  }
+  .lb-ref-split .is-agree {
+    background: var(--lb-agree);
+  }
+  .lb-ref-split .is-dis {
+    background: var(--lb-dis);
+  }
+  .lb-ref-split span {
+    transition: width 0.6s ease;
+  }
+  .lb[data-lb-state='pre'] .lb-ref-split span,
+  .lb[data-lb-state='waiting'] .lb-ref-split span {
+    background: var(--el-rule);
+  }
+  .lb-rules {
+    display: grid;
+    gap: 10px;
+  }
+  .lb-rules li {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 12px;
+    padding-top: 10px;
+    border-top: 1px solid var(--el-rule);
+    font-size: 14.5px;
+    line-height: 1.5;
+  }
+  .lb-rule-text {
+    flex: 1;
+  }
+  .lb-rule-sub {
+    display: block;
+    font-size: 13px;
+    color: var(--el-ink-2);
+    font-variant-numeric: tabular-nums;
+  }
+  .lb-thresh {
+    display: block;
+    height: 6px;
+    margin-top: 6px;
+    border-radius: 3px;
+    background: var(--el-rule);
+    overflow: hidden;
+  }
+  .lb-thresh > span {
+    display: block;
+    height: 100%;
+    background: var(--lb-agree);
+  }
+  .lb-rule-st {
+    padding: 2px 9px;
+    border-radius: 999px;
+    font-size: 12.5px;
+    font-weight: 700;
+    white-space: nowrap;
+    border: 1px solid var(--el-border-strong);
+    color: var(--el-ink-2);
+  }
+  .lb-rule-st.is-met {
+    border-color: var(--el-positive);
+    color: var(--el-positive);
+    background: var(--el-positive-soft);
+  }
+  .lb-rule-st.is-not {
+    border-color: var(--lb-dis);
+    color: var(--lb-dis);
+  }
+  .lb-ref-elig {
+    margin: 10px 0 0;
+    font-size: 13px;
+    color: var(--el-ink-2);
+  }
+  /* 消息與查核 */
+  .lb-feed-grid {
+    display: grid;
+    gap: 24px;
+    margin-bottom: 20px;
+  }
+  @media (min-width: 900px) {
+    .lb-feed-grid {
+      grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr);
+      align-items: start;
+    }
+  }
+  .lb-feed,
+  .lb-fact {
+    padding: 18px;
+    background: var(--el-card);
+    border: 1px solid var(--el-border);
+    border-radius: 14px;
+  }
+  .lb-overview {
+    margin-bottom: 18px;
+    padding-bottom: 14px;
+    border-bottom: 1px solid var(--el-rule);
+  }
+  .lb-overview-body p {
+    margin: 0 0 8px;
+    font-size: 15.5px;
+    line-height: 1.75;
+  }
+  .lb-items {
+    display: grid;
+    gap: 0;
+    margin-top: 12px;
+  }
+  .lb-item {
+    padding: 12px 0;
+    border-top: 1px solid var(--el-rule);
+  }
+  .lb-item-meta {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin: 0 0 4px;
+    font-size: 12.5px;
+    color: var(--el-ink-3);
+    font-variant-numeric: tabular-nums;
+  }
+  .lb-badge {
+    padding: 1px 7px;
+    border-radius: 4px;
+    background: var(--el-slate);
+    color: var(--el-slate-ink);
+    font-size: 12px;
+    font-weight: 700;
+  }
+  .lb-badge[data-kind='official'],
+  .lb-badge[data-verdict='true'] {
+    background: var(--el-positive-soft);
+    color: var(--el-positive);
+  }
+  .lb-badge[data-kind='camp'],
+  .lb-badge[data-verdict='unverified'],
+  .lb-badge[data-verdict='context'],
+  .lb-badge[data-verdict='partly'] {
+    background: var(--el-warn-soft);
+    color: var(--el-accent-2);
+  }
+  .lb-badge[data-verdict='false'],
+  .lb-badge[data-kind='correction'] {
+    background: var(--el-accent-soft);
+    color: var(--el-accent);
+  }
+  .lb-item-title {
+    margin: 0;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 1.5;
+  }
+  .lb-item-body {
+    margin: 4px 0 0;
+    font-size: 14.5px;
+    line-height: 1.7;
+    color: var(--el-ink-2);
+  }
+  .lb-item-src {
+    margin: 4px 0 0;
+    font-size: 12.5px;
+    color: var(--el-ink-3);
+    overflow-wrap: anywhere;
+  }
+  .lb-method {
+    font-size: 13.5px;
+    color: var(--el-ink-2);
+  }
+  .lb-method summary {
+    cursor: pointer;
+    font-weight: 600;
+  }
+  .lb-method p {
+    margin: 8px 0 0;
+    max-width: 52em;
+    line-height: 1.7;
+  }
+</style>
