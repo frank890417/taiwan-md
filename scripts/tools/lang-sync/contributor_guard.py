@@ -108,7 +108,7 @@ class Decision:
 
 
 def _run_git(repo: Path, args: list[str]) -> str:
-    r = subprocess.run(["git", *args], cwd=repo, capture_output=True, text=True)
+    r = subprocess.run(["git", *args], cwd=repo, capture_output=True, text=True, encoding="utf-8", errors="replace")
     return r.stdout if r.returncode == 0 else ""
 
 
@@ -157,7 +157,7 @@ class OpenPRIndex:
         r = subprocess.run(
             ["gh", "pr", "list", "--repo", self.repo_slug, "--state", "open",
              "--json", "number,files", "--limit", "200"],
-            capture_output=True, text=True, timeout=GH_TIMEOUT_S,
+            capture_output=True, text=True, encoding="utf-8", errors="replace", timeout=GH_TIMEOUT_S,
         )
         if r.returncode != 0:
             raise RuntimeError((r.stderr or r.stdout).strip()[-300:] or f"exit={r.returncode}")

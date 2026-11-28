@@ -44,7 +44,7 @@ def test_selftest_passes():
     """檢查器自帶的正控制必須全過（尺先驗再用）。"""
     r = subprocess.run(
         [sys.executable, str(CHECKER), "--selftest"],
-        cwd=REPO, capture_output=True, text=True,
+        cwd=REPO, capture_output=True, text=True, encoding="utf-8",
     )
     assert r.returncode == 0, f"正控制沒過：\n{r.stdout}\n{r.returncode}"
     assert "❌" not in r.stdout, f"有正控制失敗：\n{r.stdout}"
@@ -54,7 +54,7 @@ def test_empty_input_is_not_reported_as_clean():
     """掃到 0 檔要回 2 不回 0——量不到東西時不可以回答「乾淨」（REFLEXES #85）。"""
     r = subprocess.run(
         [sys.executable, str(CHECKER)],
-        cwd=REPO, capture_output=True, text=True,
+        cwd=REPO, capture_output=True, text=True, encoding="utf-8",
     )
     assert r.returncode == 2, f"掃 0 檔應回 2，實回 {r.returncode}：{r.stdout}"
 
@@ -77,7 +77,7 @@ def test_unreadable_file_is_not_billed_as_degeneration(tmp_path):
     missing = tmp_path / "does-not-exist.md"
     r = subprocess.run(
         [sys.executable, str(CHECKER), "--files", str(missing), "--quiet"],
-        cwd=REPO, capture_output=True, text=True,
+        cwd=REPO, capture_output=True, text=True, encoding="utf-8",
     )
     assert r.returncode == 2, (
         f"讀不到的檔應回 2（尺量不到），實回 {r.returncode}；"
@@ -97,14 +97,15 @@ def test_degeneration_still_wins_when_mixed_with_unreadable(tmp_path):
     r = subprocess.run(
         [sys.executable, str(CHECKER), "--files",
          str(bad), str(tmp_path / "nope.md"), "--quiet"],
-        cwd=REPO, capture_output=True, text=True,
+        cwd=REPO, capture_output=True, text=True, encoding="utf-8",
     )
     assert r.returncode == 1, f"真退化應回 1，實回 {r.returncode}：\n{r.stdout}"
 
 
 def _git_show(rev: str, path: str) -> str:
     r = subprocess.run(
-        ["git", "show", f"{rev}:{path}"], cwd=REPO, capture_output=True, text=True
+        ["git", "show", f"{rev}:{path}"], cwd=REPO, capture_output=True, text=True,
+        encoding="utf-8", errors="replace",
     )
     return r.stdout
 
@@ -125,7 +126,7 @@ def test_real_defect_is_rejected(tmp_path):
     f.write_text(content, encoding="utf-8")
     r = subprocess.run(
         [sys.executable, str(CHECKER), "--files", str(f)],
-        cwd=REPO, capture_output=True, text=True,
+        cwd=REPO, capture_output=True, text=True, encoding="utf-8",
     )
     assert r.returncode == 1, f"真實缺陷沒被擋下：{r.stdout}"
     assert "tên" in r.stdout
@@ -135,7 +136,7 @@ def test_current_version_is_clean():
     """修好的那一版要是乾淨的（否則下面那條全庫掃描永遠紅）。"""
     r = subprocess.run(
         [sys.executable, str(CHECKER), "--files", DEFECT_PATH],
-        cwd=REPO, capture_output=True, text=True,
+        cwd=REPO, capture_output=True, text=True, encoding="utf-8",
     )
     assert r.returncode == 0, f"現行版本仍有退化重複：{r.stdout}"
 
