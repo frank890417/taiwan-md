@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "fetchedAt": "2026-11-28T18:38:36+08:00",
+ "fetchedAt": "2026-11-28T18:39:34+08:00",
  "sourceName": "Yahoo新聞",
  "sourceUrl": "https://tw.news.yahoo.com/topic/2026-election/",
  "note": "媒體自行計票，非中選會官方數字",
@@ -308,18 +308,18 @@
    ]
   },
   "嘉義縣": {
-   "updatedAt": "2026-11-28T18:22:14+08:00",
+   "updatedAt": "2026-11-28T18:39:07+08:00",
    "candidates": [
     {
      "name": "吳品叡",
-     "votes": 64108,
-     "pct": 43.84,
+     "votes": 72605,
+     "pct": 43.96,
      "elected": false
     },
     {
      "name": "蔡易餘",
-     "votes": 82138,
-     "pct": 56.16,
+     "votes": 92544,
+     "pct": 56.04,
      "elected": false
     }
    ]
