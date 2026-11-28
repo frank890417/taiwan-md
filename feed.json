@@ -1,9 +1,60 @@
 {
  "schema": 1,
- "updatedAt": "2026-11-28T15:10:00+08:00",
+ "updatedAt": "2026-11-28T15:17:00+08:00",
  "overview": [],
  "overviewAt": null,
  "items": [
+  {
+   "id": "pre-ref22",
+   "time": "2026-11-28T15:17:00+08:00",
+   "kind": "official",
+   "title": "公投第 22 案通過門檻：同意票至少 5,000,959 票",
+   "body": "主文：你是否支持政府使用『核電』振興經濟，以廢除『非核家園』的能源政策？由立法院提出。同意票須多於不同意票，且達投票權人 2,000 萬 3,835 人的四分之一，依此換算至少 5,000,959 票。",
+   "sources": [
+    {
+     "name": "中選會公告第 22 案主文（PDF）",
+     "url": "https://web.cec.gov.tw/api/file/3ea9497f-7945-49a2-bd4b-375e3d6f1ddf.pdf"
+    },
+    {
+     "name": "公民投票法第 29 條",
+     "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020050&flno=29"
+    },
+    {
+     "name": "中選會：投票權人人數",
+     "url": "https://web.cec.gov.tw/central/article/66267"
+    }
+   ]
+  },
+  {
+   "id": "pre-voters",
+   "time": "2026-11-28T15:17:00+08:00",
+   "kind": "official",
+   "title": "縣市長選舉人 1,957 萬 6,028 人",
+   "body": "中選會 11/24 彙整：直轄市與縣市長選舉人 1,957 萬 6,028 人，議員選舉人 1,948 萬 6,352 人，村里長選舉人 1,943 萬 8,918 人。公投第 22 案投票權人 2,000 萬 3,835 人。公投投票權年齡為 18 歲（公投法第 7 條）。",
+   "sources": [
+    {
+     "name": "中選會新聞稿 11/24",
+     "url": "https://web.cec.gov.tw/central/article/66267"
+    },
+    {
+     "name": "公民投票法第 7 條（18 歲有公投權）",
+     "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020050&flno=7"
+    }
+   ]
+  },
+  {
+   "id": "pre-wuqiu",
+   "time": "2026-11-28T15:17:00+08:00",
+   "kind": "official",
+   "title": "烏坵投票專船因海象停開，當地照常投開票",
+   "body": "中選會 11/27 說明，國防部支援的烏坵返鄉投票專船，因預報浪高 4 公尺、陣風 10 級超過安全上限而停開。大坵、小坵兩處投開票所人員與選票已就位，今天照常投開票，不符合改期要件。",
+   "sources": [
+    {
+     "name": "中選會新聞稿 11/27",
+     "url": "https://web.cec.gov.tw/central/article/66394"
+    }
+   ]
+  },
   {
    "id": "open-1",
    "time": "2026-11-28T15:10:00+08:00",
@@ -11,8 +62,18 @@
    "title": "今天 08:00–16:00 投票，16:00 截止後開始開票",
    "body": "22 縣市首長、議員、鄉鎮市長到村里長共九種公職，加上全國性公投第 22 案同日投票。投票截止前，依法不得發布或引述民調，也不會有任何票數。",
    "sources": [
-    {"name": "中選會選舉公告", "url": "https://web.cec.gov.tw/central/article/63625"},
-    {"name": "公職人員選舉罷免法第 53 條", "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010"}
+    {
+     "name": "中選會選舉公告",
+     "url": "https://web.cec.gov.tw/central/article/63625"
+    },
+    {
+     "name": "公職人員選舉罷免法第 53 條",
+     "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010"
+    },
+    {
+     "name": "中選會：各類選舉選舉人人數",
+     "url": "https://web.cec.gov.tw/central/article/66267"
+    }
    ]
   }
  ],
