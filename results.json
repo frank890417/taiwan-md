@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "phase": "counting",
- "updatedAt": "2026-11-28T16:40:16+08:00",
+ "updatedAt": "2026-11-28T16:42:59+08:00",
  "sourceName": "中央選舉委員會計票資訊查詢網站",
  "sourceUrl": "https://vote.cec.gov.tw/2026-local/zh-TW/indexP.html",
  "stations": {
-  "reported": 0,
+  "reported": 1,
   "total": 18248
  },
  "mayors": {
@@ -146,31 +146,31 @@
    ]
   },
   "臺南市": {
-   "reported": 0,
+   "reported": 1,
    "total": 1563,
    "candidates": [
     {
      "number": 1,
      "name": "蕭燐洪",
      "party": "臺灣SoR無法黨",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 2,
+     "pct": 1.71,
      "elected": false
     },
     {
      "number": 2,
      "name": "謝龍介",
      "party": "中國國民黨",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 43,
+     "pct": 36.75,
      "elected": false
     },
     {
      "number": 3,
      "name": "陳亭妃",
      "party": "民主進步黨",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 72,
+     "pct": 61.54,
      "elected": false
     },
     {
