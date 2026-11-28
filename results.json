@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "phase": "counting",
- "updatedAt": "2026-11-28T22:25:21+08:00",
+ "updatedAt": "2026-11-28T22:26:20+08:00",
  "sourceName": "中央選舉委員會計票資訊查詢網站",
  "sourceUrl": "https://vote.cec.gov.tw/2026-local/zh-TW/indexP.html",
  "stations": {
-  "reported": 18197,
+  "reported": 18200,
   "total": 18248
  },
  "mayors": {
@@ -336,30 +336,30 @@
    ]
   },
   "新竹縣": {
-   "reported": 467,
+   "reported": 469,
    "total": 492,
    "candidates": [
     {
      "number": 1,
      "name": "鄭朝方",
      "party": "民主進步黨",
-     "votes": 162597,
-     "pct": 56.85,
+     "votes": 163509,
+     "pct": 56.87,
      "elected": false
     },
     {
      "number": 2,
      "name": "徐欣瑩",
      "party": "中國國民黨",
-     "votes": 116928,
-     "pct": 40.89,
+     "votes": 117491,
+     "pct": 40.87,
      "elected": false
     },
     {
      "number": 3,
      "name": "朱定瑀",
      "party": "無黨籍",
-     "votes": 6466,
+     "votes": 6505,
      "pct": 2.26,
      "elected": false
     }
@@ -388,14 +388,14 @@
    ]
   },
   "彰化縣": {
-   "reported": 1072,
+   "reported": 1073,
    "total": 1087,
    "candidates": [
     {
      "number": 1,
      "name": "陳素月",
      "party": "民主進步黨",
-     "votes": 296970,
+     "votes": 297280,
      "pct": 46.34,
      "elected": false
     },
@@ -403,15 +403,15 @@
      "number": 2,
      "name": "魏平政",
      "party": "中國國民黨",
-     "votes": 261768,
-     "pct": 40.85,
+     "votes": 261998,
+     "pct": 40.84,
      "elected": false
     },
     {
      "number": 3,
      "name": "邱建富",
      "party": "無黨籍",
-     "votes": 73412,
+     "votes": 73525,
      "pct": 11.46,
      "elected": false
     },
@@ -419,8 +419,8 @@
      "number": 4,
      "name": "陳重嘉",
      "party": "無黨籍",
-     "votes": 8684,
-     "pct": 1.36,
+     "votes": 8686,
+     "pct": 1.35,
      "elected": false
     }
    ]
@@ -791,14 +791,14 @@
   }
  },
  "referendum": {
-  "agree": 7416157,
-  "disagree": 4548399,
-  "valid": 11964556,
-  "invalid": 566299,
+  "agree": 7417024,
+  "disagree": 4548793,
+  "valid": 11965817,
+  "invalid": 566358,
   "eligible": 20003835,
-  "reported": 18209,
+  "reported": 18211,
   "total": 18248,
-  "completedEligible": 19957953
+  "completedEligible": 19960014
  },
  "coverage": {
   "mayorsWithData": 22,
