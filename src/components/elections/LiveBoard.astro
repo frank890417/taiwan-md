@@ -4270,17 +4270,35 @@ const boot = {
     background: currentColor;
     vertical-align: 1px;
   }
-  @media (max-width: 640px) {
-    .lb-elected-note:not(.is-open) {
-      display: -webkit-box;
-      -webkit-line-clamp: 2;
-      line-clamp: 2;
-      -webkit-box-orient: vertical;
-      overflow: hidden;
-      cursor: pointer;
-    }
-    .lb-elected-note[hidden] {
-      display: none;
-    }
+  /* 判定說明是備註：小字、淡色、收成一行，點一下展開 */
+  .lb .lb-elected-note {
+    margin: 2px 0 6px;
+    font-size: 11px;
+    line-height: 1.5;
+    color: var(--el-ink-3);
+    opacity: 0.8;
+    cursor: pointer;
+  }
+  .lb .lb-elected-note:not(.is-open) {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .lb .lb-elected-note[hidden] {
+    display: none;
+  }
+  /* 差幾票：不加圓點、不截字；空間不夠時讓「已開」先縮 */
+  .lb-gap {
+    flex: 0 0 auto;
+    overflow: visible;
+    font-size: 11px;
+  }
+  .lb-gap::before {
+    content: none;
+  }
+  .lb-dc-h .lb-dc-r {
+    min-width: 0;
+    overflow: hidden;
+    text-overflow: clip;
   }
 </style>
