@@ -18,7 +18,7 @@
  * 顏色：開票結果需要辨識政黨，這個元件用政黨色（--lb-kmt 等），是 elections.css
  * 「圖表不用政黨色」的明確例外；每個色塊旁都有文字，不讓顏色成為唯一資訊。
  */
-import { readFileSync } from 'node:fs';
+import { existsSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { geoArea, geoMercator, geoPath } from 'd3';
 import copyRaw from '../../data/elections-2026-live-copy.json';
@@ -234,16 +234,23 @@ const shapes = races.map((r) => ({
     : (mainPath(features.get(r.area)! as never) ?? ''),
 }));
 
+// 開票結束後的定案資料：把資料分支最後一版複製到 public/data/election-2026-final/，
+// 這裡偵測到就改讀站上自己的檔案，不再問 GitHub、不再輪詢、也不亮「資料過期」警示。
+const FINAL_BASE = '/data/election-2026-final/';
+const hasFinal = existsSync(
+  join(process.cwd(), 'public', 'data', 'election-2026-final', 'results.json'),
+);
 const boot = {
   lang,
   copy,
   races,
-  dataBase: DATA_BASE,
+  dataBase: hasFinal ? FINAL_BASE : DATA_BASE,
+  frozen: hasFinal,
   cecLocal: CEC_LOCAL,
   cecRef: CEC_REF,
   closeAt: '2026-11-28T16:00:00+08:00',
   staleMin: 25,
-  pollMs: 75000,
+  pollMs: hasFinal ? 0 : 75000,
 };
 ---
 
@@ -1673,7 +1680,7 @@ const boot = {
       }
       if (alertEl) {
         let msg = '';
-        if (state === 'counting') {
+        if (state === 'counting' && !B.frozen) {
           const age = (now - Date.parse(results.updatedAt)) / 60000;
           if (isFinite(age) && age > B.staleMin)
             msg = fill(C.stale, { n: Math.floor(age) });
@@ -1794,7 +1801,7 @@ const boot = {
       };
     renderAll();
     refresh();
-    setInterval(refresh, B.pollMs);
+    if (B.pollMs > 0) setInterval(refresh, B.pollMs);
     setInterval(renderStatus, 30000);
     document.addEventListener('visibilitychange', () => {
       if (!document.hidden) refresh();
