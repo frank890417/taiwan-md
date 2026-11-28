@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "phase": "counting",
- "updatedAt": "2026-11-28T16:45:42+08:00",
+ "updatedAt": "2026-11-28T16:48:24+08:00",
  "sourceName": "中央選舉委員會計票資訊查詢網站",
  "sourceUrl": "https://vote.cec.gov.tw/2026-local/zh-TW/indexP.html",
  "stations": {
-  "reported": 1,
+  "reported": 2,
   "total": 18248
  },
  "mayors": {
@@ -64,15 +64,15 @@
    ]
   },
   "新北市": {
-   "reported": 0,
+   "reported": 1,
    "total": 2728,
    "candidates": [
     {
      "number": 1,
      "name": "蘇巧慧",
      "party": "民主進步黨",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 89,
+     "pct": 39.91,
      "elected": false
     },
     {
@@ -87,8 +87,8 @@
      "number": 3,
      "name": "李四川",
      "party": "中國國民黨",
-     "votes": 0,
-     "pct": 0.0,
+     "votes": 134,
+     "pct": 60.09,
      "elected": false
     }
    ]
@@ -791,14 +791,14 @@
   }
  },
  "referendum": {
-  "agree": 220,
-  "disagree": 83,
-  "valid": 303,
-  "invalid": 19,
+  "agree": 446,
+  "disagree": 209,
+  "valid": 655,
+  "invalid": 48,
   "eligible": 20003835,
-  "reported": 3,
+  "reported": 5,
   "total": 18248,
-  "completedEligible": 461
+  "completedEligible": 1147
  },
  "coverage": {
   "mayorsWithData": 22,
