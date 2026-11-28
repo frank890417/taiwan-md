@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "fetchedAt": "2026-11-28T18:32:47+08:00",
+ "fetchedAt": "2026-11-28T18:33:46+08:00",
  "sourceName": "Yahoo新聞",
  "sourceUrl": "https://tw.news.yahoo.com/topic/2026-election/",
  "note": "媒體自行計票，非中選會官方數字",
@@ -91,24 +91,24 @@
    ]
   },
   "金門縣": {
-   "updatedAt": "2026-11-28T17:05:40+08:00",
+   "updatedAt": "2026-11-28T18:32:10+08:00",
    "candidates": [
     {
      "name": "李文良",
-     "votes": 753,
-     "pct": 14.97,
+     "votes": 4180,
+     "pct": 28.22,
      "elected": false
     },
     {
      "name": "陳玉珍",
-     "votes": 4263,
-     "pct": 84.77,
+     "votes": 9600,
+     "pct": 64.82,
      "elected": true
     },
     {
      "name": "梁文韜",
-     "votes": 13,
-     "pct": 0.26,
+     "votes": 231,
+     "pct": 1.56,
      "elected": false
     }
    ]
@@ -131,24 +131,24 @@
    ]
   },
   "彰化縣": {
-   "updatedAt": "2026-11-28T18:26:22+08:00",
+   "updatedAt": "2026-11-28T18:32:48+08:00",
    "candidates": [
     {
      "name": "陳素月",
      "votes": 226041,
-     "pct": 53.04,
+     "pct": 52.97,
      "elected": false
     },
     {
      "name": "魏平政",
      "votes": 198527,
-     "pct": 46.58,
+     "pct": 46.52,
      "elected": false
     },
     {
      "name": "邱建富",
-     "votes": 1610,
-     "pct": 0.38,
+     "votes": 2194,
+     "pct": 0.51,
      "elected": false
     }
    ]
@@ -376,18 +376,18 @@
    ]
   },
   "臺北市": {
-   "updatedAt": "2026-11-28T18:24:58+08:00",
+   "updatedAt": "2026-11-28T18:33:34+08:00",
    "candidates": [
     {
      "name": "沈伯洋",
-     "votes": 332638,
-     "pct": 46.47,
+     "votes": 332833,
+     "pct": 46.48,
      "elected": false
     },
     {
      "name": "蔣萬安",
-     "votes": 383135,
-     "pct": 53.53,
+     "votes": 383267,
+     "pct": 53.52,
      "elected": false
     }
    ]
