@@ -237,7 +237,7 @@ const boot = {
       >
       </div>
       <ul class="lb-score-legend el-reset" data-lb-score-legend></ul>
-      <p class="lb-note">{copy.scoreNote}</p>
+      <p class="lb-note">{copy.scoreNote} {copy.earlyNote}</p>
       <nav class="lb-jump" aria-label={copy.jump}>
         <p class="lb-jump-label">{copy.jump}</p>
         <ul class="lb-chips" data-lb-chips>
@@ -481,7 +481,16 @@ const boot = {
       const leader = hasVotes ? cands[0] : null;
       const second = hasVotes && cands.length > 1 ? cands[1] : null;
       const winner = cands.find((c) => c.elected) || null;
+      // 回報不到 5% 投開票所：只開了幾所，領先者還不能代表這個縣市
+      const early =
+        !winner &&
+        hasVotes &&
+        typeof r?.reported === 'number' &&
+        typeof r?.total === 'number' &&
+        r.total > 0 &&
+        r.reported / r.total < 0.05;
       return {
+        early,
         race,
         cands,
         hasVotes,
@@ -498,7 +507,7 @@ const boot = {
       const tag = v.winner
         ? `<span class="lb-tag lb-tag-win" title="${esc(C.electedNote)}">${esc(C.elected)}</span>`
         : v.leader
-          ? `<span class="lb-tag">${esc(C.leading)}</span>`
+          ? `<span class="lb-tag${v.early ? ' lb-tag-early' : ''}">${esc(v.early ? C.early : C.leading)}</span>`
           : '';
       const prog =
         typeof v.reported === 'number' &&
@@ -538,7 +547,7 @@ const boot = {
         (rest.length
           ? `<details class="lb-more"><summary>${esc(fill(C.more, { n: rest.length }))}</summary><ol class="lb-rows">${rest.map(rowHtml).join('')}</ol></details>`
           : '');
-      return `<article class="lb-card" id="lb-race-${esc(v.race.area)}" data-party="${head ? partyKey(head.party) : 'none'}">
+      return `<article class="lb-card${v.early ? ' is-early' : ''}" id="lb-race-${esc(v.race.area)}" data-party="${head ? partyKey(head.party) : 'none'}">
         <header class="lb-card-head">
           <h4 class="lb-card-title">${esc(v.race.label)}</h4>
           <span class="lb-card-tags">${tag}${margin}</span>
@@ -571,11 +580,12 @@ const boot = {
         const head = v.winner || v.leader;
         if (!a || !path) return;
         path.setAttribute('data-party', head ? partyKey(head.party) : 'none');
+        path.toggleAttribute('data-early', !!v.early);
         root!
           .querySelector(`[data-lb-chip="${CSS.escape(v.race.area)}"]`)
           ?.setAttribute('data-party', head ? partyKey(head.party) : 'none');
         const text = head
-          ? `${v.winner ? C.elected : C.leading} ${head.name} · ${head.partyLabel || head.party} · ${(head.pct || 0).toFixed(1)}%`
+          ? `${v.winner ? C.elected : v.early ? C.early : C.leading} ${head.name} · ${head.partyLabel || head.party} · ${(head.pct || 0).toFixed(1)}%`
           : C.noData;
         a.setAttribute(
           'aria-label',
@@ -592,9 +602,16 @@ const boot = {
       > = {};
       order.forEach((k) => (count[k] = { lead: 0, won: 0, areas: [] }));
       let none = 0;
+      let earlyN = 0;
+      const earlyAreas: string[] = [];
       views.forEach((v: any) => {
         const head = v.winner || v.leader;
         if (!head) return void none++;
+        if (v.early) {
+          earlyN++;
+          earlyAreas.push(v.race.label);
+          return;
+        }
         const k = partyKey(head.party);
         count[k].lead++;
         if (v.winner) count[k].won++;
@@ -613,6 +630,10 @@ const boot = {
             (k) =>
               `<span class="lb-seg" data-party="${k}" style="flex:${count[k].lead}"><b>${count[k].lead}</b></span>`,
           );
+        if (earlyN > 0)
+          segs.push(
+            `<span class="lb-seg" data-party="early" style="flex:${earlyN}"><b>${earlyN}</b></span>`,
+          );
         if (none > 0)
           segs.push(
             `<span class="lb-seg" data-party="none" style="flex:${none}"><b>${none === views.length ? '' : none}</b></span>`,
@@ -628,6 +649,9 @@ const boot = {
                     `<li data-party="${k}"><span class="lb-chip" aria-hidden="true"></span><span class="lb-leg-name">${esc(C.party[k])}</span><span class="lb-leg-n">${count[k].lead}</span>${count[k].won ? `<span class="lb-leg-won">${esc(C.elected)} ${count[k].won}</span>` : ''}<span class="lb-leg-areas">${esc(count[k].areas.join(SEP))}</span></li>`,
                 )
                 .join('') +
+              (earlyN > 0
+                ? `<li data-party="early"><span class="lb-chip" aria-hidden="true"></span><span class="lb-leg-name">${esc(C.early)}</span><span class="lb-leg-n">${earlyN}</span><span class="lb-leg-areas">${esc(earlyAreas.join(SEP))}</span></li>`
+                : '') +
               (none > 0
                 ? `<li data-party="none"><span class="lb-chip" aria-hidden="true"></span><span class="lb-leg-name">${esc(C.noData)}</span><span class="lb-leg-n">${none}</span></li>`
                 : '');
@@ -647,12 +671,20 @@ const boot = {
       const eligible =
         typeof r?.eligible === 'number' && r.eligible > 0 ? r.eligible : null;
       const need = eligible ? Math.ceil(eligible / 4) : null;
+      const refEarly =
+        has &&
+        typeof r?.reported === 'number' &&
+        typeof r?.total === 'number' &&
+        r.total > 0 &&
+        r.reported / r.total < 0.05;
       const st = (ok: boolean | null) =>
-        ok === null
-          ? `<span class="lb-rule-st is-pending">${esc(C.pending)}</span>`
-          : ok
-            ? `<span class="lb-rule-st is-met">${esc(C.met)}</span>`
-            : `<span class="lb-rule-st is-not">${esc(C.notMet)}</span>`;
+        refEarly
+          ? `<span class="lb-rule-st is-pending lb-tag-early">${esc(C.early)}</span>`
+          : ok === null
+            ? `<span class="lb-rule-st is-pending">${esc(C.pending)}</span>`
+            : ok
+              ? `<span class="lb-rule-st is-met">${esc(C.met)}</span>`
+              : `<span class="lb-rule-st is-not">${esc(C.notMet)}</span>`;
       const prog =
         typeof r?.reported === 'number' &&
         typeof r?.total === 'number' &&
@@ -776,7 +808,7 @@ const boot = {
           st.total > 0;
         if (sw) sw.hidden = !ok;
         if (s && ok)
-          s.textContent = `${num(st.reported)} / ${num(st.total)}（${((st.reported / st.total) * 100).toFixed(1)}%）`;
+          s.textContent = `${num(st.reported)} / ${num(st.total)}（${((st.reported / st.total) * 100).toFixed(st.reported / st.total < 0.01 ? 2 : 1)}%）`;
       }
       if (alertEl) {
         let msg = '';
@@ -916,6 +948,21 @@ const boot = {
   }
   .lb [data-party='none'] {
     --p: var(--lb-none);
+  }
+  .lb [data-party='early'] {
+    --p: repeating-linear-gradient(135deg, #3a352f 0 6px, #2b2723 6px 12px);
+  }
+  .lb-seg[data-party='early'] {
+    color: var(--el-ink-2);
+  }
+  .lb-c[data-early] {
+    fill-opacity: 0.38;
+  }
+  .lb-card.is-early {
+    border-top-style: dashed;
+  }
+  .lb-tag-early {
+    border-style: dashed;
   }
   .lb-head {
     display: grid;

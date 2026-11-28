@@ -78,7 +78,9 @@
       "other": "其他政黨"
     },
     "more": "其他 {n} 位候選人",
-    "jump": "跳到你的縣市"
+    "jump": "跳到你的縣市",
+    "early": "開票初期",
+    "earlyNote": "回報不到 5% 投開票所的縣市先列為「開票初期」，不計入各黨領先數。"
   },
   "en": {
     "eyebrow": "Taiwan 2026 Local Elections · Live Count",
@@ -158,7 +160,9 @@
       "other": "Other parties"
     },
     "more": "{n} more candidates",
-    "jump": "Jump to your city or county"
+    "jump": "Jump to your city or county",
+    "early": "Early count",
+    "earlyNote": "Races with under 5% of polling stations reported are shown as \"Early count\" and not counted toward any party yet."
   },
   "ja": {
     "eyebrow": "台湾 2026年統一地方選挙 · 開票速報",
@@ -238,7 +242,9 @@
       "other": "その他の政党"
     },
     "more": "ほか{n}人の候補者",
-    "jump": "お住まいの県・市へ"
+    "jump": "お住まいの県・市へ",
+    "early": "開票序盤",
+    "earlyNote": "投開票所の報告が5%未満の県・市は「開票序盤」とし、各党のリード数には含めません。"
   },
   "ko": {
     "eyebrow": "대만 2026 지방선거 · 개표 현황",
@@ -318,7 +324,9 @@
       "other": "기타 정당"
     },
     "more": "후보 {n}명 더",
-    "jump": "내 지역으로 이동"
+    "jump": "내 지역으로 이동",
+    "early": "개표 초반",
+    "earlyNote": "투개표소 보고가 5% 미만인 지역은 「개표 초반」으로 표시하며 정당별 선두 수에 넣지 않습니다."
   },
   "es": {
     "eyebrow": "Elecciones locales de Taiwán 2026 · Escrutinio en vivo",
@@ -398,7 +406,9 @@
       "other": "Otros partidos"
     },
     "more": "{n} candidatos más",
-    "jump": "Ir a tu ciudad o condado"
+    "jump": "Ir a tu ciudad o condado",
+    "early": "Recuento inicial",
+    "earlyNote": "Las circunscripciones con menos del 5 % de los colegios escrutados figuran como «Recuento inicial» y aún no se cuentan para ningún partido."
   },
   "fr": {
     "eyebrow": "Élections locales de Taïwan 2026 · Dépouillement en direct",
@@ -478,7 +488,9 @@
       "other": "Autres partis"
     },
     "more": "{n} autres candidats",
-    "jump": "Aller à votre ville ou comté"
+    "jump": "Aller à votre ville ou comté",
+    "early": "Début du dépouillement",
+    "earlyNote": "Les circonscriptions où moins de 5 % des bureaux ont été dépouillés sont indiquées « Début du dépouillement » et ne sont pas encore comptées pour un parti."
   },
   "de": {
     "eyebrow": "Kommunalwahlen in Taiwan 2026 · Live-Auszählung",
@@ -558,7 +570,9 @@
       "other": "Sonstige Parteien"
     },
     "more": "{n} weitere Kandidaten",
-    "jump": "Zu Ihrer Stadt oder Ihrem Landkreis"
+    "jump": "Zu Ihrer Stadt oder Ihrem Landkreis",
+    "early": "Frühe Auszählung",
+    "earlyNote": "Wahlkreise, in denen weniger als 5 % der Wahllokale gemeldet haben, gelten als „Frühe Auszählung“ und werden noch keiner Partei zugerechnet."
   },
   "pt": {
     "eyebrow": "Eleições locais de Taiwan 2026 · Apuração ao vivo",
@@ -638,7 +652,9 @@
       "other": "Outros partidos"
     },
     "more": "mais {n} candidatos",
-    "jump": "Ir para a sua cidade ou condado"
+    "jump": "Ir para a sua cidade ou condado",
+    "early": "Início da apuração",
+    "earlyNote": "Disputas com menos de 5% das seções apuradas aparecem como «Início da apuração» e ainda não contam para nenhum partido."
   },
   "ru": {
     "eyebrow": "Местные выборы на Тайване 2026 · Подсчёт голосов онлайн",
@@ -718,7 +734,9 @@
       "other": "Другие партии"
     },
     "more": "Ещё кандидатов: {n}",
-    "jump": "Перейти к своему городу или уезду"
+    "jump": "Перейти к своему городу или уезду",
+    "early": "Начало подсчёта",
+    "earlyNote": "Округа, где отчитались менее 5 % участков, отмечены как «Начало подсчёта» и пока не засчитываются ни одной партии."
   },
   "vi": {
     "eyebrow": "Bầu cử địa phương Đài Loan 2026 · Kiểm phiếu trực tiếp",
@@ -798,7 +816,9 @@
       "other": "Các đảng khác"
     },
     "more": "{n} ứng viên khác",
-    "jump": "Đến thành phố hoặc huyện của bạn"
+    "jump": "Đến thành phố hoặc huyện của bạn",
+    "early": "Mới bắt đầu kiểm phiếu",
+    "earlyNote": "Những nơi có dưới 5% điểm bỏ phiếu đã báo cáo được ghi là “Mới bắt đầu kiểm phiếu” và chưa tính cho đảng nào."
   },
   "id": {
     "eyebrow": "Pemilu Daerah Taiwan 2026 · Penghitungan Langsung",
@@ -878,7 +898,9 @@
       "other": "Partai lain"
     },
     "more": "{n} kandidat lainnya",
-    "jump": "Lompat ke kota atau kabupaten Anda"
+    "jump": "Lompat ke kota atau kabupaten Anda",
+    "early": "Awal penghitungan",
+    "earlyNote": "Daerah dengan kurang dari 5% TPS yang melapor ditandai “Awal penghitungan” dan belum dihitung untuk partai mana pun."
   },
   "hi": {
     "eyebrow": "ताइवान स्थानीय चुनाव 2026 · मतगणना लाइव",
@@ -958,7 +980,9 @@
       "other": "अन्य दल"
     },
     "more": "{n} और उम्मीदवार",
-    "jump": "अपने शहर या काउंटी पर जाएँ"
+    "jump": "अपने शहर या काउंटी पर जाएँ",
+    "early": "शुरुआती गिनती",
+    "earlyNote": "जिन क्षेत्रों में 5% से कम मतदान केंद्रों की रिपोर्ट आई है, उन्हें “शुरुआती गिनती” दिखाया गया है और अभी किसी दल में नहीं गिना गया है।"
   },
   "ar": {
     "eyebrow": "الانتخابات المحلية في تايوان 2026 · الفرز المباشر",
@@ -1038,6 +1062,8 @@
       "other": "أحزاب أخرى"
     },
     "more": "مرشحون آخرون: {n}",
-    "jump": "انتقل إلى مدينتك أو مقاطعتك"
+    "jump": "انتقل إلى مدينتك أو مقاطعتك",
+    "early": "بداية الفرز",
+    "earlyNote": "الدوائر التي أبلغ فيها أقل من 5% من مراكز الاقتراع تظهر بوصفها «بداية الفرز» ولا تُحتسب بعد لأي حزب."
   }
 }
