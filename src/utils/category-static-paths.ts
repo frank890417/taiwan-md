@@ -15,6 +15,7 @@
  * order），template 消費邏輯留給後續任務遷移。
  */
 
+import { defineGroup, depsProp, recordDep, untracked } from './build-deps';
 import { readdir, readFile } from 'node:fs/promises';
 import { resolve, join, basename } from 'node:path';
 import matter from 'gray-matter';
@@ -94,10 +95,10 @@ function safeMatter(fileContent: string): {
 
 let _contentDates: Promise<Record<string, string>> | null = null;
 function loadContentDates(): Promise<Record<string, string>> {
+  recordDep('src/data/content-dates.json'); // 頁面輸入帳：整份（用法是整張表排序／查詢）
   if (!_contentDates) {
-    _contentDates = readFile(
-      resolve(process.cwd(), 'src/data/content-dates.json'),
-      'utf-8',
+    _contentDates = untracked('content-dates', () =>
+      readFile(resolve(process.cwd(), 'src/data/content-dates.json'), 'utf-8'),
     )
       .then((raw) => {
         try {
@@ -364,6 +365,23 @@ export async function getCategoryHubStaticPaths(lang: string) {
       }
     }
 
+    // 頁面輸入帳：這個分類總覽頁讀了資料夾清單、每篇文章（整份，卡片欄位比索引多）、
+    // 每篇的上站日期、Hub 檔。檔很多，記成一個群組。
+    const hubDepTokens: string[] = [`@dir:${folderPath}`];
+    try {
+      for (const f of await readdir(folderPath)) {
+        if (f.endsWith('.md') && !f.startsWith('_')) {
+          hubDepTokens.push(join(folderPath, f));
+          hubDepTokens.push(
+            `src/data/content-dates.json#${JSON.stringify(['dates', contentDatesUrlKey(lang, category, basename(f, '.md'))])}`,
+          );
+        } else if (f.startsWith('_') && f.includes('Hub')) {
+          hubDepTokens.push(join(folderPath, f));
+        }
+      }
+    } catch {}
+    defineGroup(`category-hub:${lang}:${category}`, hubDepTokens);
+
     let hubContent = '';
     try {
       const hubFiles = await readdir(folderPath);
@@ -386,6 +404,7 @@ export async function getCategoryHubStaticPaths(lang: string) {
     paths.push({
       params: { category },
       props: {
+        ...depsProp(`@group:category-hub:${lang}:${category}`),
         category,
         hubContent,
         topPicks,

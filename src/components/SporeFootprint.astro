@@ -10,6 +10,7 @@
  */
 import type { Lang } from '../config/languages';
 import sporesData from '../data/spores.json';
+import { recordJsonKey } from '../utils/build-deps';
 
 interface SporeLink {
   id?: number;
@@ -47,6 +48,10 @@ const byUrl = new Map<string, SporeRecord>(
 // Join: spores.json record (by id, then url) wins; inline frontmatter values
 // are the fallback so the component degrades gracefully without the data file.
 const enriched = sporeLinks.map((s) => {
+  // 頁面輸入帳：只依賴 spores.json 裡 id 或 url 對得上的那幾筆（{p,v}＝陣列元素 p 欄位等於 v）
+  if (s.id != null)
+    recordJsonKey('src/data/spores.json', 'spores', { p: 'id', v: s.id });
+  recordJsonKey('src/data/spores.json', 'spores', { p: 'url', v: s.url });
   const rec = (s.id != null ? byId.get(s.id) : undefined) ?? byUrl.get(s.url);
   const m = rec?.metrics ?? {};
   return {

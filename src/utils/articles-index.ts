@@ -15,7 +15,16 @@
 
 import { readdir, readFile } from 'node:fs/promises';
 import { resolve, join, basename } from 'node:path';
-import matter from 'gray-matter';
+import { cardFields } from './article-summary-core.mjs';
+import {
+  DEPS_ENABLED,
+  recordDep,
+  recordDirDep,
+  recordGroup,
+  recordInput,
+  recordJsonKey,
+  untracked,
+} from './build-deps';
 
 export interface ArticleSummary {
   title: string;
@@ -42,20 +51,6 @@ export interface ArticleSummary {
   translatedFrom?: string;
 }
 
-/** 只接受顯式 'incubating' / 'verified' 字串；其他任何值（含 true/false/其他
- * 字串）一律視為未設定，避免舊資料的雜訊被誤讀成查證狀態。 */
-function normalizeCurationReason(
-  value: unknown,
-): 'unverified' | 'thin' | undefined {
-  return value === 'unverified' || value === 'thin' ? value : undefined;
-}
-
-function normalizeCuration(
-  value: unknown,
-): 'incubating' | 'verified' | undefined {
-  return value === 'incubating' || value === 'verified' ? value : undefined;
-}
-
 const CATEGORY_MAPPING: Record<string, string> = {
   about: 'About',
   history: 'History',
@@ -73,16 +68,20 @@ const CATEGORY_MAPPING: Record<string, string> = {
   politics: 'Politics',
 };
 
-function safeMatter(fileContent: string): {
-  data: Record<string, any>;
-  content: string;
-} {
-  try {
-    return matter(fileContent) as any;
-  } catch {
-    const stripped = fileContent.replace(/^---\s*\n[\s\S]*?\n---\s*\n/, '');
-    return { data: {}, content: stripped };
-  }
+// ── 頁面輸入帳（build-deps.ts）──────────────────────────────────────────────
+// 每筆 ArticleSummary 是從哪些檔算出來的：自己的 .md，加上（非 zh 語言）它的
+// translatedFrom 指的 zh 來源檔（curation 繼承會讀）。用 WeakMap 掛，不動
+// ArticleSummary 本身，所以不會被序列化進任何頁面。DEPS_ENABLED 關著時完全不用。
+const _summaryDeps = new WeakMap<ArticleSummary, string[]>();
+function touchSummary(a: ArticleSummary | undefined | null) {
+  if (!DEPS_ENABLED || !a) return;
+  for (const d of _summaryDeps.get(a) ?? []) recordDep(d);
+}
+/** `knowledge/<lang?>/<Folder>/<slug>.md` 的 repo 相對路徑 */
+function articleRel(lang: string, folder: string, slug: string): string {
+  return lang === 'zh-TW'
+    ? `knowledge/${folder}/${slug}.md`
+    : `knowledge/${lang}/${folder}/${slug}.md`;
 }
 
 // Per-lang cache. 'zh-TW' reads knowledge/{Cat}/, others read knowledge/{lang}/{Cat}/
@@ -101,7 +100,7 @@ async function buildIndex(
   let zhCurationMap: Map<string, 'incubating' | 'verified'> | null = null;
   let zhReasonMap: Map<string, 'unverified' | 'thin'> | null = null;
   if (lang !== 'zh-TW') {
-    const zhIndex = await getArticlesIndex('zh-TW');
+    const zhIndex = await getArticlesIndex('zh-TW'); // 記進群組：譯文索引依賴 zh 索引
     zhCurationMap = new Map();
     zhReasonMap = new Map();
     for (const [catSlug, zhArticles] of zhIndex) {
@@ -130,40 +129,44 @@ async function buildIndex(
         const filePath = join(folderPath, file);
         try {
           const fileContent = await readFile(filePath, 'utf-8');
-          const { data: fm } = safeMatter(fileContent);
-          // Footnote definitions ([^n]:) — citation-depth signal, same count
-          // explore.template uses for its featured deep-dive cards.
-          const footnotes = (fileContent.match(/^\[\^\d+\]:/gm) || []).length;
-          let curation = normalizeCuration(fm.curation);
-          let curationReason = normalizeCurationReason(fm.curationReason);
-          if (
-            !curation &&
-            zhCurationMap &&
-            typeof fm.translatedFrom === 'string'
-          ) {
-            const zhKey = fm.translatedFrom.replace(/\.md$/, '');
+          const card = cardFields(fileContent);
+          // card.footnotes：Footnote definitions ([^n]:) — citation-depth signal,
+          // same count explore.template uses for its featured deep-dive cards.
+          let curation = card.curation;
+          let curationReason = card.curationReason;
+          if (!curation && zhCurationMap && card.translatedFrom) {
+            const zhKey = card.translatedFrom.replace(/\.md$/, '');
             curation = zhCurationMap.get(zhKey);
             if (curation === 'incubating' && !curationReason)
               curationReason = zhReasonMap?.get(zhKey);
           }
           if (curation !== 'incubating') curationReason = undefined;
-          articles.push({
-            title: fm.title || articleSlug,
+          const summary: ArticleSummary = {
+            title: card.title || articleSlug,
             slug: articleSlug,
-            description: fm.description || '',
-            image: fm.image || '',
+            description: card.description,
+            image: card.image,
             category: catSlug,
-            readingTime:
-              typeof fm.readingTime === 'number' ? fm.readingTime : undefined,
-            tags: Array.isArray(fm.tags) ? fm.tags : undefined,
-            footnotes,
+            readingTime: card.readingTime,
+            tags: card.tags,
+            footnotes: card.footnotes,
             curation,
             curationReason,
-            translatedFrom:
-              typeof fm.translatedFrom === 'string'
-                ? fm.translatedFrom
-                : undefined,
-          });
+            translatedFrom: card.translatedFrom,
+          };
+          if (DEPS_ENABLED) {
+            // 卡片只用 frontmatter 與腳註數：記 `#summary`（見 article-summary-core.mjs），
+            // 正文改動不會讓別頁上的這張卡片被判成受影響。
+            _summaryDeps.set(summary, [
+              `${articleRel(lang, folderName, articleSlug)}#summary`,
+              ...(lang !== 'zh-TW' && card.translatedFrom
+                ? [`knowledge/${card.translatedFrom}#summary`]
+                : []),
+            ]);
+            // 建索引這一段讀的檔，群組裡也記 `#summary`（fs 攔截的整檔記號在這裡靜音）
+            for (const d of _summaryDeps.get(summary)!) recordDep(d);
+          }
+          articles.push(summary);
         } catch {
           // unreadable file — skip silently
         }
@@ -176,20 +179,68 @@ async function buildIndex(
   return result;
 }
 
+/** 不記帳版：內部用，呼叫端自己負責記它實際用到的那幾筆。 */
+function getIndexQuiet(lang: string): Promise<Map<string, ArticleSummary[]>> {
+  let entry = _cache.get(lang);
+  if (!entry) {
+    // 建索引這一段讀的檔記到群組 articles-index:<lang>，不記到第一個觸發的頁。
+    entry = untracked(`articles-index:${lang}`, () => buildIndex(lang), {
+      silentFileReads: true,
+    });
+    _cache.set(lang, entry);
+  }
+  return entry;
+}
+
 /**
  * Get articles index for a language (zh-TW / en / ja / ko / es / fr).
  * First call: builds the index by reading all knowledge files; subsequent
  * calls within the same process return the cached Map.
+ *
+ * 記帳：回傳整份索引，呼叫端想怎麼用不知道，所以記成整語言的粗粒度群組
+ * `articles-index:<lang>`（群組展開＝該語言所有文章檔＋它們的 zh 來源）。
+ * 只要單篇或幾篇的呼叫端請改用 getArticleSummary / getRelatedArticles。
  */
 export function getArticlesIndex(
   lang: string,
 ): Promise<Map<string, ArticleSummary[]>> {
-  let entry = _cache.get(lang);
-  if (!entry) {
-    entry = buildIndex(lang);
-    _cache.set(lang, entry);
+  recordGroup(`articles-index:${lang}`);
+  return getIndexQuiet(lang);
+}
+
+/** 單篇摘要（精準記帳：只記這一篇＋它的 zh 來源）。找不到回 undefined，檔案不存在也要記。 */
+export async function getArticleSummary(
+  lang: string,
+  catSlug: string,
+  slug: string,
+): Promise<ArticleSummary | undefined> {
+  const folder = CATEGORY_MAPPING[catSlug];
+  if (folder) recordDep(`${articleRel(lang, folder, slug)}#summary`);
+  const hit = (await getBySlugIndex(lang)).get(`${catSlug}/${slug}`);
+  touchSummary(hit);
+  return hit;
+}
+
+/**
+ * 「除了 excludeCategory，這一語言還有沒有文章」。只回布林，所以只記各分類資料夾
+ * 「有沒有至少一篇可用的 .md」（@nonempty-md），不記內容。
+ */
+export async function hasArticlesOutside(
+  lang: string,
+  excludeCategory?: string,
+): Promise<boolean> {
+  const index = await getIndexQuiet(lang);
+  for (const cat of Object.keys(CATEGORY_MAPPING)) {
+    if (cat === excludeCategory) continue;
+    const folder = CATEGORY_MAPPING[cat];
+    recordInput(
+      `nonempty-md:${lang === 'zh-TW' ? `knowledge/${folder}` : `knowledge/${lang}/${folder}`}`,
+    );
   }
-  return entry;
+  for (const [cat, articles] of index) {
+    if (cat !== excludeCategory && articles.length > 0) return true;
+  }
+  return false;
 }
 
 /* ───────────────────────────────────────────────────────────────────────────
@@ -212,9 +263,11 @@ const _semanticRelated = new Map<string, Promise<Record<string, string[]>>>();
 function loadSemanticRelated(lang: string): Promise<Record<string, string[]>> {
   let entry = _semanticRelated.get(lang);
   if (!entry) {
-    entry = readFile(
-      resolve(process.cwd(), 'src/data/related', `${lang}.json`),
-      'utf-8',
+    entry = untracked(`related-json:${lang}`, () =>
+      readFile(
+        resolve(process.cwd(), 'src/data/related', `${lang}.json`),
+        'utf-8',
+      ),
     )
       .then((raw) => {
         try {
@@ -235,7 +288,7 @@ const _bySlug = new Map<string, Promise<Map<string, ArticleSummary>>>();
 function getBySlugIndex(lang: string): Promise<Map<string, ArticleSummary>> {
   let entry = _bySlug.get(lang);
   if (!entry) {
-    entry = getArticlesIndex(lang).then((index) => {
+    entry = getIndexQuiet(lang).then((index) => {
       const flat = new Map<string, ArticleSummary>();
       for (const [cat, articles] of index) {
         for (const a of articles) flat.set(`${cat}/${a.slug}`, a);
@@ -260,16 +313,26 @@ export async function getRelatedArticles(
   excludeSlug: string,
   limit = 3,
 ): Promise<ArticleSummary[]> {
-  const index = await getArticlesIndex(lang);
+  const index = await getIndexQuiet(lang);
 
   // Semantic first.
   const semantic = await loadSemanticRelated(lang);
+  // 記帳：語意鄰居表只記這一頁自己那一筆；缺檔也要記（檔案出現會改變結果）。
+  recordJsonKey(`src/data/related/${lang}.json`, `${category}/${excludeSlug}`);
   const neighbours = semantic[`${category}/${excludeSlug}`];
   if (neighbours && neighbours.length) {
     const bySlug = await getBySlugIndex(lang);
     const out: ArticleSummary[] = [];
     for (const key of neighbours) {
       const art = bySlug.get(key);
+      // 鄰居的檔案存在與否、內容都會改變卡片，所以每個被查的鄰居都記
+      const [nc, ns] = [
+        key.slice(0, key.indexOf('/')),
+        key.slice(key.indexOf('/') + 1),
+      ];
+      if (CATEGORY_MAPPING[nc])
+        recordDep(`${articleRel(lang, CATEGORY_MAPPING[nc], ns)}#summary`);
+      touchSummary(art);
       if (art && art.slug !== excludeSlug) out.push(art);
       if (out.length >= limit) break;
     }
@@ -278,7 +341,17 @@ export async function getRelatedArticles(
 
   // Fallback: same-category proximity (original behaviour).
   const inCategory = index.get(category) ?? [];
-  return inCategory.filter((a) => a.slug !== excludeSlug).slice(0, limit);
+  // 退回同分類時，結果取決於資料夾的檔案清單與排序，所以記整個資料夾的清單。
+  const folder = CATEGORY_MAPPING[category];
+  if (folder)
+    recordDirDep(
+      lang === 'zh-TW' ? `knowledge/${folder}` : `knowledge/${lang}/${folder}`,
+    );
+  const picked = inCategory
+    .filter((a) => a.slug !== excludeSlug)
+    .slice(0, limit);
+  for (const a of picked) touchSummary(a);
+  return picked;
 }
 
 /**
@@ -288,7 +361,7 @@ export async function getAllArticles(
   lang: string,
   excludeCategory?: string,
 ): Promise<ArticleSummary[]> {
-  const index = await getArticlesIndex(lang);
+  const index = await getArticlesIndex(lang); // 已記整語言群組
   const out: ArticleSummary[] = [];
   for (const [cat, articles] of index) {
     if (cat === excludeCategory) continue;
@@ -313,9 +386,8 @@ export interface DatedArticle extends ArticleSummary {
 let _contentDates: Promise<Record<string, string>> | null = null;
 function loadContentDates(): Promise<Record<string, string>> {
   if (!_contentDates) {
-    _contentDates = readFile(
-      resolve(process.cwd(), 'src/data/content-dates.json'),
-      'utf-8',
+    _contentDates = untracked('content-dates', () =>
+      readFile(resolve(process.cwd(), 'src/data/content-dates.json'), 'utf-8'),
     )
       .then((raw) => {
         try {
@@ -345,6 +417,7 @@ export async function getLatestArticles(
   limit = 12,
   excludeSlug?: string,
 ): Promise<DatedArticle[]> {
+  recordDep('src/data/content-dates.json'); // 整份：「最新」排序用到全部日期
   const [all, dates] = await Promise.all([
     getAllArticles(lang),
     loadContentDates(),
@@ -389,7 +462,7 @@ function getByTranslatedFromIndex(
 ): Promise<Map<string, ArticleSummary>> {
   let entry = _byTranslatedFrom.get(lang);
   if (!entry) {
-    entry = getArticlesIndex(lang).then((index) => {
+    entry = getIndexQuiet(lang).then((index) => {
       const flat = new Map<string, ArticleSummary>();
       for (const [, articles] of index) {
         for (const a of articles) {
@@ -410,7 +483,12 @@ export async function getArticleByZhPath(
 ): Promise<ResolvedArticleRef | null> {
   const cat = catSlug.toLowerCase();
   const zh = (await getBySlugIndex('zh-TW')).get(`${cat}/${zhSlug}`);
+  if (CATEGORY_MAPPING[cat])
+    recordDep(`${articleRel('zh-TW', CATEGORY_MAPPING[cat], zhSlug)}#summary`);
+  touchSummary(zh);
   if (lang === 'zh-TW') return zh ? { article: zh, lang: 'zh-TW' } : null;
+  // 譯文用 translatedFrom 反查：要掃過該語所有譯文，無法逐筆記，記整語言群組。
+  recordGroup(`articles-index:${lang}`);
   const folder = CATEGORY_MAPPING[cat];
   if (folder) {
     const hit = (await getByTranslatedFromIndex(lang)).get(
@@ -428,5 +506,10 @@ export async function getArticleShipDate(
   slug: string,
 ): Promise<string> {
   const dates = await loadContentDates();
+  recordJsonKey(
+    'src/data/content-dates.json',
+    'dates',
+    latestUrlKey(lang, catSlug, slug),
+  );
   return dates[latestUrlKey(lang, catSlug, slug)] ?? '';
 }

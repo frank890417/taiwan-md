@@ -1,6 +1,7 @@
 ---
 import SemiontDiaryEntryTemplate from '../../../templates/semiont-diary-entry.template.astro';
 import { getAllDiaryEntries } from '../../../lib/semiont-diary';
+import { depsProp, recordPropDeps } from '../../../utils/build-deps';
 
 export async function getStaticPaths() {
   const entries = await getAllDiaryEntries();
@@ -28,12 +29,28 @@ export async function getStaticPaths() {
 
     return {
       params: { slug: entry.slug },
-      props: { entry, prev, next },
+      // 頁面輸入帳：自己那篇日記、前後兩篇（標題在導覽裡）、目錄清單（前後順序）
+      props: {
+        entry,
+        prev,
+        next,
+        ...depsProp(
+          `docs/semiont/diary/${entry.filename}`,
+          ...(index > 0
+            ? [`docs/semiont/diary/${entries[index - 1].filename}`]
+            : []),
+          ...(index < entries.length - 1
+            ? [`docs/semiont/diary/${entries[index + 1].filename}`]
+            : []),
+          '@dir:docs/semiont/diary',
+        ),
+      },
     };
   });
 }
 
 const { entry, prev, next } = Astro.props;
+recordPropDeps(Astro.props);
 ---
 
 <SemiontDiaryEntryTemplate entry={entry} prev={prev} next={next} />

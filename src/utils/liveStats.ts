@@ -9,11 +9,18 @@
  */
 import { readFileSync } from 'node:fs';
 import { resolve } from 'node:path';
+import { recordJsonKey, untracked } from './build-deps';
 
 let _cached: number | null = null;
 
 export function getLiveArticleCount(fallback = 752): number {
+  // 頁面輸入帳：每頁都用到，但只用 totalArticles 這一個欄位，不是整份 vitals。
+  recordJsonKey('public/api/dashboard-vitals.json', 'totalArticles');
   if (_cached !== null) return _cached;
+  return untracked('live-stats', () => loadLiveArticleCount(fallback));
+}
+
+function loadLiveArticleCount(fallback: number): number {
   try {
     const vitalsPath = resolve(
       process.cwd(),

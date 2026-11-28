@@ -17,6 +17,7 @@
  * frontmatter 是 per-render scope，cache 不能放那裡，見 MEMORY §神經迴路）。
  */
 
+import { recordGroup, untracked } from './build-deps';
 import { readdir, readFile } from 'node:fs/promises';
 import { resolve, join, basename } from 'node:path';
 import matter from 'gray-matter';
@@ -193,9 +194,11 @@ async function build(lang: string): Promise<CorpusChart[]> {
 
 /** 某語言全站文章裡的量化圖表（build 期間每語言只掃一次） */
 export function getCorpusCharts(lang: string): Promise<CorpusChart[]> {
+  // 頁面輸入帳：整語言文章掃一遍的結果，記成粗粒度群組（群組展開＝掃過的檔）
+  recordGroup(`corpus-charts:${lang}`);
   let entry = _cache.get(lang);
   if (!entry) {
-    entry = build(lang);
+    entry = untracked(`corpus-charts:${lang}`, () => build(lang));
     _cache.set(lang, entry);
   }
   return entry;

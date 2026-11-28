@@ -8,6 +8,7 @@ import { resolve, join, basename } from 'path';
 import matter from 'gray-matter';
 import Layout from '../../layouts/Layout.astro';
 import LifeTree from '../../components/LifeTree.astro';
+import { depsProp, recordPropDeps } from '../../utils/build-deps';
 
 const safeMatter = (fileContent: string) => {
   try {
@@ -103,6 +104,7 @@ export async function getStaticPaths() {
         paths.push({
           params: { slug },
           props: {
+            ...depsProp(filePath), // 頁面輸入帳：自己的來源 .md（getStaticPaths 讀的）
             frontmatter,
             articleCategory:
               _FOLDER_TO_CATEGORY[folder] || folder.toLowerCase(),
@@ -119,6 +121,7 @@ export async function getStaticPaths() {
 }
 
 const { frontmatter, articleCategory, articleTitle, articleSlug } = Astro.props;
+recordPropDeps(Astro.props);
 const tree = frontmatter.lifeTree;
 
 const pageTitle = `${tree.protagonist} 的人生分支樹 | Taiwan.md`;

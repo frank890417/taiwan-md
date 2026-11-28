@@ -290,6 +290,110 @@ try {
 //   2. 快取目錄各份分開，避免同時寫同一個目錄。
 //   3. public/ 只由第 0 份複製，其餘各份給空目錄。
 const IS_SHARD = process.env.TWMD_SHARD !== undefined;
+/**
+ * 頁面輸入帳（src/utils/build-deps.ts）。只有環境變數 TWMD_DEPS_OUT 有設才加進
+ * integrations；沒設時這個整合不存在，build 行為不變。帳本在 prerender 打包後的
+ * 程式裡累積（同一個行程、不同模組實例），所以走 globalThis.__twmdDeps。
+ * 分片建置時每份各寫 <TWMD_DEPS_OUT>.shard<N>，由 build-sharded.mjs 併成一份。
+ */
+/** @type {import('astro').AstroIntegration} */
+const depsLedgerWriter = {
+  name: 'twmd-deps-ledger',
+  hooks: {
+    'astro:build:done': () => {
+      const out = process.env.TWMD_DEPS_OUT;
+      if (!out) return;
+      const snap = /** @type {any} */ (globalThis).__twmdDeps?.snapshot?.();
+      if (!snap) {
+        throw new Error(
+          '[deps-ledger] TWMD_DEPS_OUT 有設，但帳本是空的（prerender 沒載入 build-deps？）',
+        );
+      }
+      // 靜態 import 的資料檔：絕對路徑轉 repo 相對（分片時要去掉 .shards/sN 這一層）
+      const root = process.cwd().replace(/[\\/]\.shards[\\/]s\d+$/, '');
+      const staticStore = /** @type {Record<string, Set<string>>} */ (
+        /** @type {any} */ (globalThis).__twmdDepsStatic ?? {}
+      );
+      for (const [pattern, files] of Object.entries(staticStore)) {
+        snap[`@group:static:${pattern}`] = [...files]
+          .map((f) =>
+            f
+              .replace(/[\\/]\.shards[\\/]s\d+(?=[\\/])/, '')
+              .replace(root + '/', ''),
+          )
+          .filter(
+            (f) =>
+              !f.startsWith('/') && !/(^|\/)(\.astro|dist|\.shards)\//.test(f),
+          )
+          .sort();
+      }
+      const file =
+        process.env.TWMD_SHARD !== undefined
+          ? `${out}.shard${process.env.TWMD_SHARD}`
+          : out;
+      writeFileSync(file, JSON.stringify(snap));
+    },
+  },
+};
+
+/**
+ * 靜態 import（import x from '*.json'、import.meta.glob）進了打包，渲染時沒有 fs 呼叫，
+ * 攔不到。所以用 Vite 外掛在打包結束時，對每個路由檔（src/pages/** 的 .astro / .ts）
+ * 算它「靜態 import 到的資料檔」（非程式碼、非樣式、不在 node_modules），
+ * 存成群組 `static:<路由樣式>`；每頁渲染時由 middleware 記下自己屬於哪個路由。
+ * 這是路由層級的粗粒度（同一個路由的所有頁共用），已在程式裡逐筆記帳的檔
+ * （帳裡有 `檔#鍵`）由驗證工具排除，不會讓整檔變動拖累整個路由。
+ */
+const CODE_EXT = /\.(astro|[cm]?[jt]sx?|css|scss|sass|less|vue|svelte)$/;
+/** @param {string} file */
+function routePatternOf(file) {
+  let p = file
+    .replace(/^.*?src\/pages/, '')
+    .replace(/\.(astro|ts|js|mjs)$/, '')
+    .replace(/\/index$/, '');
+  return p === '' ? '/' : p;
+}
+function depsStaticImportsPlugin() {
+  const g = /** @type {any} */ (globalThis);
+  /** @type {Record<string, Set<string>>} */
+  const store = (g.__twmdDepsStatic ??= {});
+  return {
+    name: 'twmd-deps-static-imports',
+    buildEnd() {
+      const ctx = /** @type {any} */ (this);
+      /** @param {string} id */
+      const clean = (id) => id.replace(/\?.*$/, '');
+      const ids = [...ctx.getModuleIds()];
+      const entries = ids.filter(
+        (id) =>
+          /\/src\/pages\/.+\.(astro|ts|js|mjs)(\?.*)?$/.test(id) &&
+          !id.includes('\0'),
+      );
+      for (const entry of entries) {
+        const pattern = routePatternOf(clean(entry));
+        const seen = new Set();
+        const stack = [entry];
+        while (stack.length) {
+          const id = stack.pop();
+          if (seen.has(id)) continue;
+          seen.add(id);
+          const info = ctx.getModuleInfo(id);
+          if (!info) continue;
+          for (const n of [...info.importedIds, ...info.dynamicallyImportedIds])
+            if (!seen.has(n)) stack.push(n);
+        }
+        const files = (store[pattern] ??= new Set());
+        for (const id of seen) {
+          const f = clean(id);
+          if (f.includes('\0') || f.includes('node_modules')) continue;
+          if (!f.startsWith('/') || CODE_EXT.test(f)) continue;
+          files.add(f);
+        }
+      }
+    },
+  };
+}
+
 /** @type {import('astro').AstroIntegration} */
 const shardPagesRecorder = {
   name: 'twmd-shard-pages',
@@ -317,6 +421,7 @@ export default defineConfig({
   integrations: [
     // 要排在 sitemap 前面：sitemap 會就地改寫 pages 裡的 pathname
     ...(IS_SHARD ? [shardPagesRecorder] : []),
+    ...(process.env.TWMD_DEPS_OUT ? [depsLedgerWriter] : []),
     sitemap({
       changefreq: 'weekly',
       priority: 0.7,
@@ -700,7 +805,10 @@ export default defineConfig({
     }),
   },
   vite: {
-    plugins: [tailwindcss()],
+    plugins: [
+      tailwindcss(),
+      ...(process.env.TWMD_DEPS_OUT ? [depsStaticImportsPlugin()] : []),
+    ],
     // 分片的影子根目錄全是符號連結；不保留的話 Vite 會把路徑解回真實位置，
     // 跟 Astro 掃到的路由路徑對不上。
     ...(IS_SHARD

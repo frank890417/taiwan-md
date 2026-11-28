@@ -3,6 +3,7 @@ import { resolve } from 'path';
 import type { Lang } from '../config/languages';
 import { LANGUAGES } from '../config/languages';
 import { staticPageExists, getCategorySlugs } from './staticRoutes';
+import { recordJsonKey, untracked } from './build-deps';
 
 // 2026-04-25 β7 Phase 1：路由疊加 fix（i18n-evolution-roadmap audit B1）
 // 從 LANGUAGES_REGISTRY 動態 derive 非預設啟用語言清單，
@@ -123,7 +124,10 @@ async function loadPrebuiltRegistry(): Promise<LangMapRegistry | null> {
 
 function getCachedRegistry(): Promise<LangMapRegistry> {
   if (!_registryCache) {
-    _registryCache = loadPrebuiltRegistry().then((prebuilt) => {
+    // 建 registry 讀的檔記到群組，頁面查表時逐筆記（見 getLangSwitchPath）
+    _registryCache = untracked('lang-switch-registry', () =>
+      loadPrebuiltRegistry(),
+    ).then((prebuilt) => {
       if (prebuilt) return prebuilt;
       // Fall back: dev mode without prebuild
       return buildLangMapRegistryUncached();
@@ -244,6 +248,9 @@ function isArticlePagePath(basePath: string): boolean {
 // ── Main entry ─────────────────────────────────────────────────────────────
 export async function getLangSwitchPath(currentPath: string) {
   const registry = await getCachedRegistry();
+  // 沒有預先產好的 lang-switch-map.json 時會退回從 _translations.json 現算，
+  // 所以「這份檔存不存在」本身也是輸入（檔案出現／消失會改變結果）。
+  recordJsonKey('public/api/lang-switch-map.json', 'languages');
 
   const normalizedPath = normalizePath(currentPath);
   const decodedPath = normalizePath(decodeURIComponent(normalizedPath));
@@ -281,6 +288,15 @@ export async function getLangSwitchPath(currentPath: string) {
   } else {
     const m = registry.get(currentLang);
     if (m) {
+      // 頁面輸入帳：查表的那一刻記「lang-switch-map.json 裡這幾筆」
+      for (const k of new Set([normalizedPath, decodedPath]))
+        recordJsonKey(
+          'public/api/lang-switch-map.json',
+          'registry',
+          currentLang,
+          'toZh',
+          k,
+        );
       zhUrl = m.toZh.get(normalizedPath) ?? m.toZh.get(decodedPath) ?? null;
     }
   }
@@ -319,6 +335,14 @@ export async function getLangSwitchPath(currentPath: string) {
     }
 
     if (zhUrl && m) {
+      for (const k of new Set([zhUrl, decodeURIComponent(zhUrl)]))
+        recordJsonKey(
+          'public/api/lang-switch-map.json',
+          'registry',
+          lang,
+          'fromZh',
+          k,
+        );
       const explicit =
         m.fromZh.get(zhUrl) ?? m.fromZh.get(decodeURIComponent(zhUrl)) ?? null;
       if (explicit) {

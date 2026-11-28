@@ -16,6 +16,7 @@
  *
  * 2026-05-03 sleepy-colden P1 follow-up unification（在 article.template.astro 之後）。
  */
+import { recordPropDeps } from '../utils/build-deps';
 import { marked } from '../utils/marked-cjk.mjs';
 import Layout from '../layouts/Layout.astro';
 import ArticleCard from '../components/ArticleCard.astro';
@@ -73,6 +74,7 @@ const {
   essayMinutes,
   lang,
 } = Astro.props;
+recordPropDeps(Astro.props); // 頁面輸入帳（沒設 TWMD_DEPS_OUT 時是空操作）
 
 // ── Lang-derived URL prefix (for cross-page links) ────────────────────────────
 // zh-TW: '' (root URL convention)

@@ -1,6 +1,7 @@
 ---
 import SemiontWeeklyEntryTemplate from '../../../templates/semiont-weekly-entry.template.astro';
 import { getAllWeeklyReports } from '../../../lib/semiont-weekly';
+import { depsProp, recordPropDeps } from '../../../utils/build-deps';
 
 export async function getStaticPaths() {
   const reports = await getAllWeeklyReports();
@@ -28,12 +29,28 @@ export async function getStaticPaths() {
 
     return {
       params: { slug: report.slug },
-      props: { report, prev, next },
+      // 頁面輸入帳：自己那份週報、前後兩份（導覽）、目錄清單
+      props: {
+        report,
+        prev,
+        next,
+        ...depsProp(
+          `reports/weekly/${report.filename}`,
+          ...(index > 0
+            ? [`reports/weekly/${reports[index - 1].filename}`]
+            : []),
+          ...(index < reports.length - 1
+            ? [`reports/weekly/${reports[index + 1].filename}`]
+            : []),
+          '@dir:reports/weekly',
+        ),
+      },
     };
   });
 }
 
 const { report, prev, next } = Astro.props;
+recordPropDeps(Astro.props);
 ---
 
 <SemiontWeeklyEntryTemplate report={report} prev={prev} next={next} />

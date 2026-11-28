@@ -5,6 +5,7 @@
 // cache 放那裡每頁重建——2026-06-13 refactor-article 教訓）。
 import { readFileSync } from 'node:fs';
 import { resolve } from 'node:path';
+import { recordJsonKey, untracked } from '../utils/build-deps';
 
 // Runtime 讀檔＋容錯（2026-07-16 hotfix）：這個 JSON 是 prebuild:dashboard 生成的
 // gitignored 產物，`npm run dev` 不一定跑過生成器——靜態 ESM import 會讓「缺檔」
@@ -22,7 +23,7 @@ function loadBoard(): { articles: NewsroomRecord[] } {
     return { articles: [] };
   }
 }
-const board = loadBoard();
+const board = untracked('newsroom-board', loadBoard);
 
 export interface NewsroomStage {
   status?: string;
@@ -58,6 +59,16 @@ export function findNewsroomRecord(
   category: string,
   slug: string,
 ): NewsroomRecord | null {
+  // 頁面輸入帳：這一頁只依賴 board 裡「ship 產物＝這篇」與「slug＝這篇」的紀錄，
+  // 不是整份 dashboard-newsroom.json（路徑元素 {p, v} 表示「陣列裡 p 欄位等於 v 的元素」）。
+  recordJsonKey('public/api/dashboard-newsroom.json', 'articles', {
+    p: 'stages.ship.artifact',
+    v: `knowledge/${category}/${slug}.md`,
+  });
+  recordJsonKey('public/api/dashboard-newsroom.json', 'articles', {
+    p: 'slug',
+    v: slug,
+  });
   if (!_byKnowledgePath) build();
   return (
     _byKnowledgePath!.get(`knowledge/${category}/${slug}.md`) ??

@@ -1,4 +1,5 @@
 import { readFileSync } from 'node:fs';
+import { recordJsonKey, untracked } from './build-deps';
 import { resolve } from 'node:path';
 import { useTranslations } from '../i18n/utils';
 
@@ -103,6 +104,9 @@ let _fromZhCache: FromZhRegistry | null = null;
 
 function getFromZhRegistry(): FromZhRegistry {
   if (_fromZhCache) return _fromZhCache;
+  return untracked('from-zh-registry', loadFromZhRegistry);
+}
+function loadFromZhRegistry(): FromZhRegistry {
   let registry: FromZhRegistry = {};
   try {
     const raw = readFileSync(
@@ -142,6 +146,15 @@ export function localizeArticlePath(
   // 設定檔裡有的寫尾斜線有的沒寫，對照表的 key 一律沒有 —— 兩種都試，
   // 免得同一份對照表因為一個斜線而對半失效。
   const bare = path.endsWith('/') ? path.slice(0, -1) : path;
+  // 頁面輸入帳：只依賴對照表裡這個語言、這個網址的那一筆
+  for (const k of new Set([bare, path]))
+    recordJsonKey(
+      'public/api/lang-switch-map.json',
+      'registry',
+      lang,
+      'fromZh',
+      k,
+    );
   return fromZh[bare] ?? fromZh[path];
 }
 

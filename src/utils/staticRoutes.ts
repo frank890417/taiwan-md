@@ -15,6 +15,7 @@ import { readdirSync, statSync } from 'fs';
 import { resolve, join } from 'path';
 import type { Lang } from '../config/languages';
 import { LANGUAGES } from '../config/languages';
+import { recordDirDep, recordGroup, untracked } from './build-deps';
 
 const NON_DEFAULT_LANGS = LANGUAGES.filter(
   (l) => l.enabled && !('isDefault' in l && l.isDefault),
@@ -37,6 +38,7 @@ interface PageNode {
 // 2026-07-24 起 export 給 getLangSwitchPath 判斷「兩段路徑是不是文章頁」共用。
 let _categorySlugs: Set<string> | null = null;
 export function getCategorySlugs(): Set<string> {
+  recordDirDep('knowledge'); // 頁面輸入帳：分類清單＝knowledge/ 第一層的目錄
   if (_categorySlugs) return _categorySlugs;
   const set = new Set<string>();
   try {
@@ -60,6 +62,7 @@ let _categoryDirMap: Record<string, string> | null = null;
  * 修功能頁 /explore /latest /timeline… 全家族斷鏈）。
  */
 export function getCategoryDirMap(): Record<string, string> {
+  recordDirDep('knowledge');
   if (_categoryDirMap) return _categoryDirMap;
   const map: Record<string, string> = {};
   try {
@@ -82,7 +85,13 @@ let _hubPresence: Record<string, string[]> | null = null;
  * module-level cache：一個 build 進程只掃一次（.astro frontmatter 是 per-render scope）。
  */
 export function getTranslatedHubPresence(): Record<string, string[]> {
+  // 頁面輸入帳：每個語言 × 分類各一個 Hub 檔的有無，合成一個群組（不逐筆記 180 條）
+  recordGroup('hub-presence');
+  recordDirDep('knowledge');
   if (_hubPresence) return _hubPresence;
+  return untracked('hub-presence', buildHubPresence);
+}
+function buildHubPresence(): Record<string, string[]> {
   const map: Record<string, string[]> = {};
   const dirMap = getCategoryDirMap();
   for (const lang of NON_DEFAULT_LANGS) {
@@ -145,11 +154,15 @@ function buildTree(dir: string): PageNode {
 // Module-level cache：一個 build process 走一次 src/pages 樹。
 let _root: PageNode | null = null;
 function getRoot(): PageNode {
+  // 頁面輸入帳：整棵 src/pages 樹是一個群組（看整個目錄型的讀取）。
+  recordGroup('static-routes');
   // 分片建置（scripts/core/build-sharded.mjs）時，每個行程的 cwd 底下只有
   // 自己那一份的頁；要看全站有哪些頁，得看腳本用 TWMD_PAGES_ROOT 指的真目錄。
   if (!_root)
-    _root = buildTree(
-      process.env.TWMD_PAGES_ROOT ?? resolve(process.cwd(), 'src/pages'),
+    _root = untracked('static-routes', () =>
+      buildTree(
+        process.env.TWMD_PAGES_ROOT ?? resolve(process.cwd(), 'src/pages'),
+      ),
     );
   return _root;
 }

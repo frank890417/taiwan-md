@@ -23,6 +23,7 @@
  *   - the body does only cheap string work on a single already-parsed entry.
  *   Keep it that way — do not add per-page fs reads or O(N) scans here.
  */
+import { defineGroup, depsProp, recordPropDeps } from '../../utils/build-deps';
 import Layout from '../../layouts/Layout.astro';
 import PageHero from '../../components/PageHero.astro';
 // 「算不算中國用語」四層說法 + 佐證判定住在 src/utils/terminology-wording.ts，
@@ -183,6 +184,7 @@ export async function getStaticPaths() {
   }
   const entries: Parsed[] = [];
   const seenId = new Set<string>();
+  const fileOfId = new Map<string, string>(); // 頁面輸入帳：詞條 id → 來源 yaml 檔名
 
   for (const file of files.sort()) {
     if (!file.endsWith('.yaml') || file.startsWith('_')) continue;
@@ -206,6 +208,7 @@ export async function getStaticPaths() {
     if (RESERVED.has(id)) continue; // never shadow /terminology/{converter,index}
     if (seenId.has(id)) continue; // first-wins dedup (matches converter rule order)
     seenId.add(id);
+    fileOfId.set(id, file);
 
     entries.push({
       id,
@@ -282,12 +285,32 @@ export async function getStaticPaths() {
       updated: e.updated,
       related,
     };
-    return { params: { id: e.id }, props };
+    // 頁面輸入帳：自己的 yaml；同分類全部詞條是一個群組（相關詞條的挑法取決於同分類
+    // 每一筆的 taiwan 與排序）；詞條清單（新增／刪除）看目錄清單。
+    const catKey = e.category || '_uncategorized';
+    defineGroup(
+      `terminology-category:${catKey}`,
+      (byCategory.get(catKey) || []).map(
+        (s) => `data/terminology/${fileOfId.get(s.id)}`,
+      ),
+    );
+    return {
+      params: { id: e.id },
+      props: {
+        ...props,
+        ...depsProp(
+          `data/terminology/${fileOfId.get(e.id)}`,
+          `@group:terminology-category:${catKey}`,
+          '@dir:data/terminology',
+        ),
+      },
+    };
   });
 }
 
 // ── Body: single entry, cheap string work only ───────────────────────────────
 const p = Astro.props as TermProps;
+recordPropDeps(Astro.props);
 
 // taiwan may carry " / " alternatives (e.g. "影片 / 影音"); primary = first.
 const taiwanPrimary = p.taiwan.split(/\s*\/\s*/)[0];

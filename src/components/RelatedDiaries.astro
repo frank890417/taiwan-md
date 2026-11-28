@@ -18,6 +18,7 @@
 import type { Lang } from '../config/languages';
 import { getAllDiaryEntries, type DiaryEntry } from '../lib/semiont-diary';
 import { useTranslations } from '../i18n/utils';
+import { recordDep, recordDirDep, untracked } from '../utils/build-deps';
 
 type DiaryRef = string | { slug: string; excerpt?: string };
 
@@ -36,7 +37,10 @@ if (!relatedDiary || relatedDiary.length === 0) return;
 const g = globalThis as unknown as {
   __twmdDiaryEntries?: Promise<DiaryEntry[]>;
 };
-const allEntries = await (g.__twmdDiaryEntries ??= getAllDiaryEntries());
+const allEntries = await (g.__twmdDiaryEntries ??= untracked(
+  'semiont-diary',
+  () => getAllDiaryEntries(),
+));
 const bySlug = new Map(allEntries.map((e) => [e.slug, e]));
 
 const normalize = (d: DiaryRef) => {
@@ -50,6 +54,9 @@ const resolved = relatedDiary
   .map(normalize)
   .map(({ slug, excerpt }) => {
     const entry = bySlug.get(slug);
+    // 頁面輸入帳：找到→只依賴那一篇日記檔；找不到→依賴日記資料夾的清單
+    if (entry) recordDep(`docs/semiont/diary/${entry.filename}`);
+    else recordDirDep('docs/semiont/diary');
     if (!entry) return null;
     return {
       slug,

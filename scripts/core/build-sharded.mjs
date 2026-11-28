@@ -210,6 +210,41 @@ if (conflicts.length > 0) {
   process.exit(1);
 }
 
+// ── 4.5 併各份的頁面輸入帳（只在 TWMD_DEPS_OUT 有設時）──
+// 每份行程在 astro:build:done 寫自己的 <TWMD_DEPS_OUT>.shard<N>（astro.config.mjs 的
+// twmd-deps-ledger）。頁面路徑各份不重疊，直接合；群組（模組層快取讀到的檔）與
+// @init 各份都有一份，取聯集／加總。
+if (process.env.TWMD_DEPS_OUT) {
+  const merged = {};
+  const init = {};
+  for (const s of shards) {
+    const f = `${process.env.TWMD_DEPS_OUT}.shard${s.id}`;
+    if (!existsSync(f)) {
+      console.error(`[build-sharded] ⛔ 第 ${s.id} 份沒寫出頁面輸入帳：${f}`);
+      process.exit(1);
+    }
+    const part = JSON.parse(readFileSync(f, 'utf8'));
+    for (const [k, v] of Object.entries(part)) {
+      if (k === '@init') {
+        for (const [d, n] of Object.entries(v)) init[d] = (init[d] ?? 0) + n;
+      } else if (k.startsWith('@group:')) {
+        merged[k] = [...new Set([...(merged[k] ?? []), ...v])].sort();
+      } else if (merged[k]) {
+        console.error(`[build-sharded] ⛔ 頁面 ${k} 在兩份裡都有帳`);
+        process.exit(1);
+      } else {
+        merged[k] = v;
+      }
+    }
+    rmSync(f);
+  }
+  merged['@init'] = init;
+  writeFileSync(process.env.TWMD_DEPS_OUT, JSON.stringify(merged));
+  log(
+    `頁面輸入帳：${Object.keys(merged).filter((k) => k.startsWith('/')).length} 頁 → ${process.env.TWMD_DEPS_OUT}`,
+  );
+}
+
 // ── 5. 對全站的頁產一次 sitemap（用 astro.config.mjs 裡同一份設定）──
 const allPages = [];
 const seen = new Set();

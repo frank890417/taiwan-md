@@ -40,7 +40,12 @@ import {
   emptyGitInfo,
   type GitInfo,
 } from '../utils/contributors';
-import { getRelatedArticles, getAllArticles } from '../utils/articles-index';
+import {
+  getRelatedArticles,
+  getArticleSummary,
+  hasArticlesOutside,
+} from '../utils/articles-index';
+import { recordDep, recordJsonKey } from '../utils/build-deps';
 import { resolve, join } from 'path';
 import type { Lang } from '../config/languages';
 import contentDatesData from '../data/content-dates.json';
@@ -80,6 +85,7 @@ const _seoUrlPath =
 const _toISO = (v: unknown): string | undefined =>
   v instanceof Date ? v.toISOString() : typeof v === 'string' ? v : undefined;
 const seoDatePublished = _toISO(frontmatter.date);
+recordJsonKey('src/data/content-dates.json', 'dates', _seoUrlPath);
 const seoDateModified =
   _toISO(frontmatter.modified) ||
   ((contentDatesData as { dates?: Record<string, string> }).dates || {})[
@@ -147,6 +153,18 @@ const _renderFilePath = (() => {
       : resolve(process.cwd(), 'knowledge', lang, folderName);
   return join(knowledgeRoot, slug + '.md').normalize('NFC');
 })();
+// 頁面輸入帳：這一頁的正文來源檔（getStaticPaths 讀的，渲染時 fs 攔截看不到），
+// 加上 git-info.json 裡這一篇那一筆（貢獻者、最後修改）。
+if (_renderFilePath) {
+  recordDep(_renderFilePath);
+  recordJsonKey(
+    'src/data/git-info.json',
+    'files',
+    `knowledge/${langPath}${categoryMapping[category as string]}/${slug}.md`.normalize(
+      'NFC',
+    ),
+  );
+}
 const _renderGitInfo = _renderFilePath
   ? getGitInfoForLang(lang, _renderFilePath)
   : { contributors: [], lastModified: '', commitHash: '', revisionCount: 0 };
@@ -183,9 +201,7 @@ if (
   )?.[0];
   const zhSlug = (zhFile || '').replace(/\.md$/, '');
   if (zhCat && zhSlug) {
-    const zhHit = (await getAllArticles('zh-TW')).find(
-      (a) => a.category === zhCat && a.slug === zhSlug,
-    );
+    const zhHit = await getArticleSummary('zh-TW', zhCat, zhSlug);
     pageCuration = zhHit?.curation;
     if (!pageCurationReason) pageCurationReason = zhHit?.curationReason;
   }
@@ -219,7 +235,7 @@ try {
 // 跳轉漏 /en 前綴的 latent bug）。
 let hasRandomPool = false;
 try {
-  hasRandomPool = (await getAllArticles(lang, category as string)).length > 0;
+  hasRandomPool = await hasArticlesOutside(lang, category as string);
 } catch {}
 const randomIndexUrl = `/api/random-index-${lang}.json`;
 

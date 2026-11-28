@@ -2,6 +2,7 @@
  * page.ts — /names 兩個模板共用的建置期小工具：語言選欄、來源編號、文案轉 HTML、
  * 建置時用字音表把名字轉成拼音（英文頁在漢字旁邊標威妥瑪）。
  */
+import { recordDep, untracked } from '../build-deps';
 import { readFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 import { SOURCES, type L3 } from '../../data/names/story';
@@ -90,9 +91,14 @@ export const fmtInt = (n: number): string =>
 // ── 建置期字音 ───────────────────────────────────────────────────────
 let _dict: Record<string, string> | null = null;
 function dict(): Record<string, string> {
+  // 頁面輸入帳：每頁查字音都用到這份表（整份；逐字記帳要改 zhuyinOf 的呼叫端）
+  recordDep('public/data/names/readings.json');
   if (!_dict) {
     const p = resolve(process.cwd(), 'public/data/names/readings.json');
-    _dict = JSON.parse(readFileSync(p, 'utf8')).r as Record<string, string>;
+    _dict = untracked(
+      'names-readings',
+      () => JSON.parse(readFileSync(p, 'utf8')).r as Record<string, string>,
+    );
   }
   return _dict;
 }

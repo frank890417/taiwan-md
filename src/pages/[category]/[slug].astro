@@ -29,6 +29,7 @@ import { readdir, readFile } from 'fs/promises';
 import { resolve, join, basename } from 'path';
 import matter from 'gray-matter';
 import ArticleTemplate from '../../templates/article.template.astro';
+import { recordDep, recordJsonKey } from '../../utils/build-deps';
 import {
   buildGitInfoCache,
   emptyGitInfo,
@@ -189,6 +190,14 @@ const aliasTo: string | undefined = props.aliasTo;
 // SEO.astro 的 canonical 對 CJK slug 也是 encodeURI + trailing slash，這裡跟它
 // 對齊；兩邊算出不同形式的話，Google 眼中就是兩個 URL。
 const aliasTarget = aliasTo ? encodeURI(aliasTo) : '';
+// 頁面輸入帳：別名頁只依賴別名登記檔裡自己那一筆，以及它指向的中文文章檔還在不在。
+if (aliasTo) {
+  recordJsonKey('config/article-aliases.json', `${category}/${slug}`);
+  const [, tCat, tSlug] = decodeURIComponent(aliasTo).split('/');
+  recordDep(
+    `knowledge/${tCat.charAt(0).toUpperCase()}${tCat.slice(1)}/${tSlug}.md`,
+  );
+}
 ---
 
 {
