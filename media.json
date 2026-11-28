@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "fetchedAt": "2026-11-28T18:16:11+08:00",
+ "fetchedAt": "2026-11-28T18:17:10+08:00",
  "sourceName": "Yahoo新聞",
  "sourceUrl": "https://tw.news.yahoo.com/topic/2026-election/",
  "note": "媒體自行計票，非中選會官方數字",
@@ -291,7 +291,7 @@
    ]
   },
   "基隆市": {
-   "updatedAt": "2026-11-28T17:32:43+08:00",
+   "updatedAt": "2026-11-28T18:16:48+08:00",
    "candidates": [
     {
      "name": "童子瑋",
@@ -303,7 +303,7 @@
      "name": "謝國樑",
      "votes": 35734,
      "pct": 51.03,
-     "elected": false
+     "elected": true
     }
    ]
   },
