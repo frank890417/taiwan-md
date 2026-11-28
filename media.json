@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "fetchedAt": "2026-11-28T21:27:44+08:00",
+ "fetchedAt": "2026-11-28T21:28:42+08:00",
  "sourceName": "Yahoo新聞",
  "sourceUrl": "https://tw.news.yahoo.com/topic/2026-election/",
  "note": "媒體自行計票，非中選會官方數字",
@@ -40,18 +40,18 @@
    ]
   },
   "屏東縣": {
-   "updatedAt": "2026-11-28T21:19:02+08:00",
+   "updatedAt": "2026-11-28T21:28:17+08:00",
    "candidates": [
     {
      "name": "蘇清泉",
-     "votes": 162189,
-     "pct": 38.49,
+     "votes": 164542,
+     "pct": 38.42,
      "elected": false
     },
     {
      "name": "周春米",
-     "votes": 259167,
-     "pct": 61.51,
+     "votes": 263766,
+     "pct": 61.58,
      "elected": true
     }
    ]
