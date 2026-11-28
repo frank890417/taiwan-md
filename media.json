@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "fetchedAt": "2026-11-28T20:14:43+08:00",
+ "fetchedAt": "2026-11-28T20:15:41+08:00",
  "sourceName": "Yahoo新聞",
  "sourceUrl": "https://tw.news.yahoo.com/topic/2026-election/",
  "note": "媒體自行計票，非中選會官方數字",
@@ -171,18 +171,18 @@
    ]
   },
   "南投縣": {
-   "updatedAt": "2026-11-28T20:09:45+08:00",
+   "updatedAt": "2026-11-28T20:14:41+08:00",
    "candidates": [
     {
      "name": "許淑華",
-     "votes": 98732,
-     "pct": 58.54,
+     "votes": 111259,
+     "pct": 62.23,
      "elected": true
     },
     {
      "name": "温世政",
-     "votes": 56819,
-     "pct": 33.69,
+     "votes": 65149,
+     "pct": 36.44,
      "elected": false
     }
    ]
@@ -228,18 +228,18 @@
    ]
   },
   "嘉義市": {
-   "updatedAt": "2026-11-28T20:12:28+08:00",
+   "updatedAt": "2026-11-28T20:14:35+08:00",
    "candidates": [
     {
      "name": "張啓楷",
-     "votes": 53572,
-     "pct": 42.18,
+     "votes": 53820,
+     "pct": 42.16,
      "elected": false
     },
     {
      "name": "王美惠",
-     "votes": 67784,
-     "pct": 53.36,
+     "votes": 68138,
+     "pct": 53.37,
      "elected": true
     }
    ]
