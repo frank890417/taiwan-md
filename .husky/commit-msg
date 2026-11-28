@@ -47,7 +47,7 @@ SCOPE_EOF
 
   # 排除 build-output 後算 domain 數
   non_auto=$(echo "$domains_touched" | tr ' ' '\n' | grep -v '^$' | grep -v '^build-output$' | sort -u)
-  domain_count=$(printf '%s\n' "$non_auto" | grep -c . 2>/dev/null || echo 0)
+  domain_count=$(printf '%s\n' "$non_auto" | grep -c . 2>/dev/null || true)
 
   if [ "$domain_count" -ge 2 ]; then
     # 檢查 commit message 是否已聲明 multi-narrative
