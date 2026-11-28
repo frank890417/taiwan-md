@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "phase": "counting",
- "updatedAt": "2026-11-28T22:01:42+08:00",
+ "updatedAt": "2026-11-28T22:02:40+08:00",
  "sourceName": "中央選舉委員會計票資訊查詢網站",
  "sourceUrl": "https://vote.cec.gov.tw/2026-local/zh-TW/indexP.html",
  "stations": {
-  "reported": 18129,
+  "reported": 18131,
   "total": 18248
  },
  "mayors": {
@@ -614,14 +614,14 @@
    ]
   },
   "臺東縣": {
-   "reported": 229,
+   "reported": 231,
    "total": 236,
    "candidates": [
     {
      "number": 1,
      "name": "李吳穎智",
      "party": "無黨籍",
-     "votes": 1296,
+     "votes": 1312,
      "pct": 1.21,
      "elected": false
     },
@@ -629,23 +629,23 @@
      "number": 2,
      "name": "陳瑩",
      "party": "民主進步黨",
-     "votes": 38825,
-     "pct": 36.28,
+     "votes": 39338,
+     "pct": 36.29,
      "elected": false
     },
     {
      "number": 3,
      "name": "王志偉",
      "party": "無黨籍",
-     "votes": 1100,
-     "pct": 1.03,
+     "votes": 1109,
+     "pct": 1.02,
      "elected": false
     },
     {
      "number": 4,
      "name": "吳秀華",
      "party": "中國國民黨",
-     "votes": 65803,
+     "votes": 66642,
      "pct": 61.48,
      "elected": false
     }
@@ -791,14 +791,14 @@
   }
  },
  "referendum": {
-  "agree": 7386658,
-  "disagree": 4532923,
-  "valid": 11919581,
-  "invalid": 564328,
+  "agree": 7390400,
+  "disagree": 4534923,
+  "valid": 11925323,
+  "invalid": 564609,
   "eligible": 20003835,
-  "reported": 18144,
+  "reported": 18153,
   "total": 18248,
-  "completedEligible": 19884156
+  "completedEligible": 19893893
  },
  "coverage": {
   "mayorsWithData": 22,
