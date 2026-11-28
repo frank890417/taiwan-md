@@ -876,11 +876,20 @@ const boot = {
         const bar = v.hasVotes
           ? `<span class="lb-dc-bar" aria-hidden="true">${top.map((c: Cand) => `<i data-party="${partyKey(c.party)}" style="width:${Math.min(100, c.pct || 0).toFixed(2)}%"></i>`).join('')}</span>`
           : `<span class="lb-dc-bar" aria-hidden="true"></span>`;
+        // 中選會的計票頁在 101/101 開完後也沒有當選欄（2026-11-28 20:20 金門縣實測），
+        // 所以票所全數回報的縣市標「開票完成」，不寫當選；當選仍只在中選會標註時顯示。
+        const done =
+          typeof v.reported === 'number' &&
+          typeof v.total === 'number' &&
+          v.total > 0 &&
+          v.reported >= v.total;
         const tag = v.winner
           ? `<span class="lb-tag lb-tag-win">${esc(C.elected)}</span>`
-          : v.early
-            ? `<span class="lb-tag lb-tag-early">${esc(C.early)}</span>`
-            : '';
+          : done
+            ? `<span class="lb-tag lb-tag-done">${esc(C.statusFinal)}</span>`
+            : v.early
+              ? `<span class="lb-tag lb-tag-early">${esc(C.early)}</span>`
+              : '';
         return `<li><a class="lb-dc${v.early ? ' is-early' : ''}${v.winner ? ' is-won' : ''}" href="#lb-race-${esc(v.race.area)}" data-cell="${esc(v.race.area)}" data-lead="${esc(v.hasVotes && top[0] ? top[0].name : '')}" data-party="${head && !v.early ? partyKey(head.party) : 'none'}"><span class="lb-dc-h"><b>${esc(v.race.label)}</b>${tag}<span class="lb-dc-r">${pctOpen === null ? '' : esc(fill(C.openedPct, { p: pctOpen.toFixed(pctOpen < 10 ? 1 : 0) }))}</span></span>${rows}${bar}</a></li>`;
       });
       // 公投一格
@@ -4174,5 +4183,9 @@ const boot = {
   .elections-2026:has(.lb:not([data-lb-state='pre']))
     [data-nav-id='how-to-vote'] {
     display: none;
+  }
+  .lb-tag-done {
+    border-color: rgba(245, 240, 230, 0.5);
+    color: var(--el-ink);
   }
 </style>
