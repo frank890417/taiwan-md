@@ -1,23 +1,23 @@
 {
  "schema": 1,
- "fetchedAt": "2026-11-28T17:40:32+08:00",
+ "fetchedAt": "2026-11-28T17:41:30+08:00",
  "sourceName": "Yahoo新聞",
  "sourceUrl": "https://tw.news.yahoo.com/topic/2026-election/",
  "note": "媒體自行計票，非中選會官方數字",
  "races": {
   "新竹縣": {
-   "updatedAt": "2026-11-28T17:34:34+08:00",
+   "updatedAt": "2026-11-28T17:40:42+08:00",
    "candidates": [
     {
      "name": "鄭朝方",
-     "votes": 86061,
-     "pct": 61.75,
+     "votes": 87694,
+     "pct": 61.44,
      "elected": false
     },
     {
      "name": "徐欣瑩",
-     "votes": 53316,
-     "pct": 38.25,
+     "votes": 55046,
+     "pct": 38.56,
      "elected": false
     }
    ]
@@ -308,35 +308,35 @@
    ]
   },
   "嘉義縣": {
-   "updatedAt": "2026-11-28T17:35:39+08:00",
+   "updatedAt": "2026-11-28T17:40:09+08:00",
    "candidates": [
     {
      "name": "吳品叡",
-     "votes": 39736,
-     "pct": 43.95,
+     "votes": 40241,
+     "pct": 43.98,
      "elected": false
     },
     {
      "name": "蔡易餘",
-     "votes": 50681,
-     "pct": 56.05,
+     "votes": 51260,
+     "pct": 56.02,
      "elected": false
     }
    ]
   },
   "臺南市": {
-   "updatedAt": "2026-11-28T17:32:41+08:00",
+   "updatedAt": "2026-11-28T17:40:08+08:00",
    "candidates": [
     {
      "name": "謝龍介",
-     "votes": 181629,
-     "pct": 46.79,
+     "votes": 182343,
+     "pct": 46.89,
      "elected": false
     },
     {
      "name": "陳亭妃",
      "votes": 206551,
-     "pct": 53.21,
+     "pct": 53.11,
      "elected": false
     }
    ]
@@ -359,18 +359,18 @@
    ]
   },
   "桃園市": {
-   "updatedAt": "2026-11-28T17:30:06+08:00",
+   "updatedAt": "2026-11-28T17:40:24+08:00",
    "candidates": [
     {
      "name": "黃世杰",
-     "votes": 218004,
-     "pct": 44.44,
+     "votes": 221974,
+     "pct": 44.47,
      "elected": false
     },
     {
      "name": "張善政",
-     "votes": 272521,
-     "pct": 55.56,
+     "votes": 277187,
+     "pct": 55.53,
      "elected": false
     }
    ]
