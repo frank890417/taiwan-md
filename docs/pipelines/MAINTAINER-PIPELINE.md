@@ -680,6 +680,8 @@ git checkout pr/N && python3 scripts/tools/....
 
 誕生案例：〈蔣萬安〉（PR #1829，2026-10-14，投稿者 idlccp1984 自述草稿、請維護者照站上格式改）。草稿骨架是一份爭議清單，含一節選戰攻防與政黨粉專來源，照本判準走 REWRITE 重寫後才合併。
 
+**判例：候選人把對另一名具名候選人的指控寫進法定姓名（哲宇 2026-11-28 拍板，[OBSERVER-QUEUE](../semiont/OBSERVER-QUEUE.md) #133 選 A）**：照上面五條收，不因脊椎牽涉對手就改題或拒收。條件是文章把當事人自述、檢方指控、法院判決分層寫，姓名裡的指控明寫「不等於司法認定」。另一方當事人有司法案件還在進行時，照同樣的分層寫法收，不另等結案；上面「司法進行中的人物 → 暫緩」那條管的是以該人為主角的獨立人物頁。誕生案例：〈王妃天崩開局穿越整頓霸凌者佀廣洋〉（PR #2088，2026-11-28）。
+
 ### Step 2.1.1: [Content] issue digest sub-flow（v2.3 新增 canonical）
 
 > **觸發**：issue title 含 `[Content]` prefix **或** body 含「此 issue 由 cron 研究 scan 產生」標記 **或** label 含 `content-gap` / `content`。
