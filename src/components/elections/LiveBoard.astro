@@ -363,12 +363,11 @@ const boot = {
             }
           </svg>
           <figcaption class="lb-map-cap">
-            {copy.mapTitle}
-            <span class="lb-map-src" data-lb-map-src hidden>
-              <span class="lb-map-swatch" aria-hidden="true"></span>
-              {copy.media}
-              <span class="lb-tag lb-tag-unofficial">{copy.unofficial}</span>
-            </span>
+            <span class="lb-map-ramp" aria-hidden="true"
+              ><i></i><i></i><i></i><i></i></span
+            >
+            <span class="lb-map-leg-mayor">{copy.mapLegend}</span>
+            <span class="lb-map-leg-council">{copy.mapLegendCouncil}</span>
           </figcaption>
         </figure>
         <ol class="lb-dgrid" data-lb-dgrid></ol>
@@ -887,7 +886,7 @@ const boot = {
         const rows = top
           .map(
             (c: Cand) =>
-              `<span class="lb-dc-row${head && c === head ? ' is-head' : ''}" data-party="${partyKey(c.party)}" data-row="${esc(v.race.area + '|' + c.name)}">${avatarHtml(c)}<span class="lb-dc-n">${esc(c.name)}</span><span class="lb-dc-p"${v.hasVotes ? ` data-n="${(c.pct || 0).toFixed(1)}" data-f="pct" data-k="${esc('p|' + v.race.area + '|' + c.name)}"` : ''}>${v.hasVotes ? (c.pct || 0).toFixed(1) + '%' : ''}</span><span class="lb-dc-v"${v.hasVotes ? ` data-n="${c.votes || 0}" data-f="int" data-k="${esc('v|' + v.race.area + '|' + c.name)}"` : ''}>${v.hasVotes ? num(c.votes) : esc(c.partyLabel || c.party)}</span></span>`,
+              `<span class="lb-dc-row${head && c === head ? ' is-head' : ''}" data-party="${partyKey(c.party)}" data-row="${esc(v.race.area + '|' + c.name)}" style="--w:${v.hasVotes ? Math.min(100, c.pct || 0).toFixed(1) : 0}%">${avatarHtml(c)}<span class="lb-dc-n">${esc(c.name)}</span><span class="lb-dc-p"${v.hasVotes ? ` data-n="${(c.pct || 0).toFixed(1)}" data-f="pct" data-k="${esc('p|' + v.race.area + '|' + c.name)}"` : ''}>${v.hasVotes ? (c.pct || 0).toFixed(1) + '%' : ''}</span><span class="lb-dc-v"${v.hasVotes ? ` data-n="${c.votes || 0}" data-f="int" data-k="${esc('v|' + v.race.area + '|' + c.name)}"` : ''}>${v.hasVotes ? num(c.votes) : esc(c.partyLabel || c.party)}</span></span>`,
           )
           .join('');
         const bar = v.hasVotes
@@ -1003,6 +1002,17 @@ const boot = {
           `[data-lb-map="${CSS.escape(race.area)}"] path`,
         );
         path?.setAttribute('data-party', top && !early ? top : 'none');
+        (path as SVGElement | null)?.style.setProperty(
+          '--k',
+          String(
+            top && !early && seats
+              ? Math.min(
+                  1,
+                  Math.max(0.5, 0.5 + ((lead[top] / seats - 0.3) / 0.35) * 0.5),
+                )
+              : 0,
+          ),
+        );
         path?.toggleAttribute('data-early', false);
         path?.toggleAttribute('data-media', false);
         const lab = root!.querySelector(
@@ -1297,9 +1307,19 @@ const boot = {
         const lab = root!.querySelector(
           `[data-lb-map-pct="${CSS.escape(v.race.area)}"]`,
         );
+        const second2 = v.cands.find((c: Cand) => c !== head);
+        const gap =
+          head && v.hasVotes ? (head.pct || 0) - (second2?.pct || 0) : 0;
+        // 顏色深淺＝領先幅度：差 0 點最淺、差 25 點以上最深；開票初期一律最淺
+        (path as SVGElement).style.setProperty(
+          '--k',
+          String(
+            !head ? 0 : v.early ? 0.3 : Math.min(1, 0.5 + (gap / 22) * 0.5),
+          ),
+        );
         if (lab)
           lab.textContent =
-            head && v.hasVotes ? `${Math.round(head.pct || 0)}%` : '';
+            head && v.hasVotes ? `+${gap.toFixed(gap < 10 ? 1 : 0)}` : '';
         if (mv) usedMedia = true;
         const chip = root!.querySelector(
           `[data-lb-chip="${CSS.escape(v.race.area)}"]`,
@@ -3415,6 +3435,311 @@ const boot = {
     }
     .lb-cdistricts {
       grid-template-columns: minmax(0, 1fr);
+    }
+  }
+
+  /* ══ 2026-11-28 19:00 重新設計（哲宇：太多框線、看不出政黨色、地圖沒有深淺）══
+     原則：拿掉框線，用色塊說話。每位候選人一條實心長條（長度＝得票率、顏色＝政黨），
+     地圖深淺＝領先幅度。這一段放在最後，蓋過前面的框線樣式。 */
+  .el-surface .lb {
+    --lb-kmt: #2e6fe0;
+    --lb-dpp: #1c9c50;
+    --lb-tpp: #19b6c9;
+    --lb-ind: #8b8379;
+    --lb-other: #cf8a1f;
+    --lb-none: #26221e;
+    --el-accent: #ff6b4a;
+    background: #0e0c0b;
+  }
+  .lb-dstatus {
+    padding: 0;
+    border: 0;
+    background: none;
+    gap: 4px 14px;
+  }
+  .lb-dstatus .lb-total > span {
+    background: var(--el-ink-2);
+  }
+  .lb-dtally {
+    gap: 4px 22px;
+  }
+  .lb-dtally li {
+    padding: 0;
+    border: 0;
+    gap: 7px;
+    font-size: 14px;
+    color: var(--el-ink-2);
+  }
+  .lb-dtally li.is-won,
+  .lb-dtally li[data-party='early'] {
+    border: 0;
+  }
+  .lb-dtally b {
+    font-size: 28px;
+    line-height: 1;
+    color: var(--el-ink);
+  }
+  .lb-dtally .lb-chip {
+    width: 12px;
+    height: 12px;
+    border-radius: 3px;
+  }
+  .lb-tabs {
+    padding: 0;
+    border: 0;
+    background: none;
+    gap: 18px;
+  }
+  .lb .lb-tab {
+    padding: 4px 0;
+    border-radius: 0;
+    border-bottom: 3px solid transparent;
+    font-size: 17px;
+    color: var(--el-ink-3);
+  }
+  .lb .lb-tab.is-on {
+    background: none;
+    color: var(--el-ink);
+    border-bottom-color: var(--el-ink);
+  }
+  /* 地圖：沒有框，深淺看領先幅度 */
+  .lb-dbody .lb-map {
+    padding: 0;
+    border: 0;
+    background: none;
+  }
+  .lb-inset {
+    stroke: rgba(245, 240, 230, 0.16);
+  }
+  .lb-c,
+  .lb-c[data-early],
+  .lb-c[data-media] {
+    fill: color-mix(in srgb, var(--p) calc(var(--k, 1) * 100%), #322d28);
+    fill-opacity: 1;
+    stroke: #0e0c0b;
+    stroke-width: 1.2;
+    stroke-dasharray: none;
+  }
+  .lb-c[data-party='none'] {
+    fill: #26221e;
+    stroke: #0e0c0b;
+    stroke-width: 1.2;
+  }
+  .lb-c-small {
+    stroke: #0e0c0b;
+  }
+  .lb-map-pct {
+    font-size: 12.5px;
+    font-weight: 700;
+    stroke: rgba(14, 12, 11, 0.85);
+    stroke-width: 2.6px;
+  }
+  .lb-dbody .lb-map-cap {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    order: -1;
+    gap: 8px;
+    margin-top: 4px;
+    font-size: 12px;
+    color: var(--el-ink-3);
+    text-align: start;
+  }
+  .lb-map-ramp {
+    display: inline-flex;
+    flex: none;
+  }
+  .lb-map-ramp i {
+    width: 14px;
+    height: 9px;
+    background: var(--el-ink);
+  }
+  .lb-map-ramp i:nth-child(1) {
+    opacity: 0.22;
+  }
+  .lb-map-ramp i:nth-child(2) {
+    opacity: 0.45;
+  }
+  .lb-map-ramp i:nth-child(3) {
+    opacity: 0.7;
+  }
+  .lb-map-leg-council,
+  .lb[data-lb-tab-on='council'] .lb-map-leg-mayor {
+    display: none;
+  }
+  .lb[data-lb-tab-on='council'] .lb-map-leg-council {
+    display: inline;
+  }
+  /* 縣市格：沒有框，兩條實心長條 */
+  .lb-dgrid {
+    gap: 10px 14px;
+  }
+  .lb .lb-dc,
+  .lb .lb-dc[data-party='none'],
+  .lb .lb-dc.is-early {
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    background: none;
+    gap: 3px;
+    justify-content: flex-start;
+  }
+  .lb .lb-dc:hover .lb-dc-h b,
+  .lb .lb-dc:focus-visible .lb-dc-h b {
+    text-decoration: underline;
+  }
+  .lb-dc-h {
+    padding-bottom: 1px;
+  }
+  .lb-dc-h b {
+    font-size: 15.5px;
+    letter-spacing: 0.02em;
+  }
+  .lb-dc-bar {
+    display: none;
+  }
+  .lb-dc-row {
+    position: relative;
+    isolation: isolate;
+    flex: 1;
+    min-height: 0;
+    padding: 2px 8px 2px 4px;
+    border-radius: 5px;
+    background: rgba(245, 240, 230, 0.055);
+    overflow: hidden;
+  }
+  .lb-dc-row::before {
+    content: '';
+    position: absolute;
+    inset: 0 auto 0 0;
+    width: var(--w, 0%);
+    background: var(--p);
+    opacity: 0.42;
+    z-index: -1;
+    transition: width 0.7s ease;
+  }
+  .lb-dc-row.is-head::before {
+    opacity: 1;
+  }
+  .lb-dc.is-early .lb-dc-row::before {
+    opacity: 0.3;
+  }
+  .lb-av {
+    width: 28px;
+    height: 28px;
+    border: 0;
+    background: rgba(14, 12, 11, 0.42) center / cover no-repeat;
+    color: #fff;
+    font-size: 13px;
+  }
+  .lb-av.has-photo {
+    box-shadow: 0 0 0 1.5px rgba(255, 255, 255, 0.85);
+  }
+  .lb-dc-n,
+  .lb-dc-row.is-head .lb-dc-n {
+    font-size: 14.5px;
+    font-weight: 700;
+    color: #fff;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.35);
+  }
+  .lb-dc-p,
+  .lb-dc-row.is-head .lb-dc-p,
+  .lb-dc-row:not(.is-head) .lb-dc-p {
+    font-size: 17px;
+    font-weight: 800;
+    color: #fff;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.35);
+  }
+  .lb-dc-row:not(.is-head) .lb-dc-p,
+  .lb-dc-row:not(.is-head) .lb-dc-n {
+    font-weight: 600;
+    color: rgba(255, 255, 255, 0.86);
+  }
+  .lb-dc-v {
+    font-size: 11.5px;
+    color: rgba(255, 255, 255, 0.78);
+  }
+  .lb .lb-dc.is-flip {
+    border-radius: 6px;
+  }
+  /* 議員格：一條粗色條 */
+  .lb-cbar {
+    height: 22px;
+    border-radius: 5px;
+    gap: 2px;
+    background: rgba(245, 240, 230, 0.055);
+  }
+  .lb .lb-dc.is-sel .lb-dc-h b {
+    text-decoration: underline;
+  }
+  /* 公投格 */
+  .lb .lb-dc-ref {
+    justify-content: center;
+    gap: 4px;
+  }
+  .lb-dc-ref .lb-ref-split {
+    height: 22px;
+    border-radius: 5px;
+    background: none;
+  }
+  .lb-dc-refrow b {
+    font-size: 20px;
+  }
+  /* 新聞輪播：一條線，不要框 */
+  .lb .lb-ticker {
+    padding: 8px 0 0;
+    border: 0;
+    border-top: 1px solid rgba(245, 240, 230, 0.14);
+    border-radius: 0;
+    background: none;
+  }
+  .lb-ticker-tag {
+    border-radius: 3px;
+  }
+  @media (min-width: 760px) and (max-width: 1099px) and (min-height: 660px) {
+    .lb-dgrid {
+      gap: 6px 10px;
+    }
+    .lb-av {
+      width: 22px;
+      height: 22px;
+    }
+    .lb-dc-n,
+    .lb-dc-row.is-head .lb-dc-n {
+      font-size: 13px;
+    }
+    .lb-dc-p,
+    .lb-dc-row.is-head .lb-dc-p,
+    .lb-dc-row:not(.is-head) .lb-dc-p {
+      font-size: 14px;
+    }
+    .lb-dc-v {
+      font-size: 10.5px;
+    }
+  }
+  @media (max-width: 759px) {
+    .lb .lb-ticker {
+      padding: 0 0 8px;
+      border-top: 0;
+      border-bottom: 1px solid rgba(245, 240, 230, 0.14);
+    }
+    .lb-dgrid {
+      gap: 10px 10px;
+    }
+    .lb-av {
+      width: 24px;
+      height: 24px;
+    }
+    .lb-dc-p,
+    .lb-dc-row.is-head .lb-dc-p,
+    .lb-dc-row:not(.is-head) .lb-dc-p {
+      font-size: 15px;
+    }
+    .lb-tabs {
+      gap: 0;
+    }
+    .lb .lb-tab {
+      text-align: center;
     }
   }
 </style>
