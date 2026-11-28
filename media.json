@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "fetchedAt": "2026-11-28T20:59:41+08:00",
+ "fetchedAt": "2026-11-28T21:00:39+08:00",
  "sourceName": "Yahoo新聞",
  "sourceUrl": "https://tw.news.yahoo.com/topic/2026-election/",
  "note": "媒體自行計票，非中選會官方數字",
@@ -171,18 +171,18 @@
    ]
   },
   "南投縣": {
-   "updatedAt": "2026-11-28T20:55:08+08:00",
+   "updatedAt": "2026-11-28T20:59:34+08:00",
    "candidates": [
     {
      "name": "許淑華",
      "votes": 145233,
-     "pct": 62.65,
+     "pct": 60.79,
      "elected": true
     },
     {
      "name": "温世政",
      "votes": 86592,
-     "pct": 37.35,
+     "pct": 36.24,
      "elected": false
     }
    ]
@@ -211,18 +211,18 @@
    ]
   },
   "臺中市": {
-   "updatedAt": "2026-11-28T20:40:16+08:00",
+   "updatedAt": "2026-11-28T20:58:57+08:00",
    "candidates": [
     {
      "name": "何欣純",
-     "votes": 752294,
-     "pct": 50.64,
+     "votes": 765695,
+     "pct": 50.67,
      "elected": true
     },
     {
      "name": "江啟臣",
-     "votes": 719632,
-     "pct": 48.44,
+     "votes": 731621,
+     "pct": 48.41,
      "elected": false
     }
    ]
@@ -308,18 +308,18 @@
    ]
   },
   "嘉義縣": {
-   "updatedAt": "2026-11-28T20:55:13+08:00",
+   "updatedAt": "2026-11-28T20:59:32+08:00",
    "candidates": [
     {
      "name": "吳品叡",
      "votes": 107170,
-     "pct": 44.0,
+     "pct": 43.89,
      "elected": false
     },
     {
      "name": "蔡易餘",
      "votes": 136372,
-     "pct": 56.0,
+     "pct": 55.85,
      "elected": true
     }
    ]
@@ -359,35 +359,35 @@
    ]
   },
   "桃園市": {
-   "updatedAt": "2026-11-28T20:36:14+08:00",
+   "updatedAt": "2026-11-28T20:59:15+08:00",
    "candidates": [
     {
      "name": "黃世杰",
-     "votes": 493614,
-     "pct": 44.33,
+     "votes": 507349,
+     "pct": 44.11,
      "elected": false
     },
     {
      "name": "張善政",
-     "votes": 619878,
-     "pct": 55.67,
+     "votes": 637148,
+     "pct": 55.39,
      "elected": true
     }
    ]
   },
   "臺北市": {
-   "updatedAt": "2026-11-28T20:26:39+08:00",
+   "updatedAt": "2026-11-28T20:59:55+08:00",
    "candidates": [
     {
      "name": "沈伯洋",
-     "votes": 615845,
-     "pct": 45.49,
+     "votes": 649529,
+     "pct": 45.66,
      "elected": false
     },
     {
      "name": "蔣萬安",
-     "votes": 726425,
-     "pct": 53.66,
+     "votes": 764598,
+     "pct": 53.75,
      "elected": true
     }
    ]
