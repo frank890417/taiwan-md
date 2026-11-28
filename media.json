@@ -1,23 +1,23 @@
 {
  "schema": 1,
- "fetchedAt": "2026-11-28T21:19:09+08:00",
+ "fetchedAt": "2026-11-28T21:20:07+08:00",
  "sourceName": "Yahoo新聞",
  "sourceUrl": "https://tw.news.yahoo.com/topic/2026-election/",
  "note": "媒體自行計票，非中選會官方數字",
  "races": {
   "新竹縣": {
-   "updatedAt": "2026-11-28T21:12:28+08:00",
+   "updatedAt": "2026-11-28T21:19:28+08:00",
    "candidates": [
     {
      "name": "鄭朝方",
-     "votes": 119479,
-     "pct": 53.18,
+     "votes": 128738,
+     "pct": 55.83,
      "elected": true
     },
     {
      "name": "徐欣瑩",
-     "votes": 90686,
-     "pct": 40.36,
+     "votes": 96661,
+     "pct": 41.92,
      "elected": false
     }
    ]
@@ -40,18 +40,18 @@
    ]
   },
   "屏東縣": {
-   "updatedAt": "2026-11-28T21:12:10+08:00",
+   "updatedAt": "2026-11-28T21:19:02+08:00",
    "candidates": [
     {
      "name": "蘇清泉",
-     "votes": 158284,
-     "pct": 38.16,
+     "votes": 162189,
+     "pct": 38.49,
      "elected": false
     },
     {
      "name": "周春米",
-     "votes": 252134,
-     "pct": 60.79,
+     "votes": 259167,
+     "pct": 61.51,
      "elected": true
     }
    ]
@@ -342,18 +342,18 @@
    ]
   },
   "臺東縣": {
-   "updatedAt": "2026-11-28T21:08:37+08:00",
+   "updatedAt": "2026-11-28T21:19:21+08:00",
    "candidates": [
     {
      "name": "陳瑩",
-     "votes": 33473,
-     "pct": 36.2,
+     "votes": 36231,
+     "pct": 36.28,
      "elected": false
     },
     {
      "name": "吳秀華",
-     "votes": 56937,
-     "pct": 61.58,
+     "votes": 61393,
+     "pct": 61.48,
      "elected": true
     }
    ]
