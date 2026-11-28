@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "fetchedAt": "2026-11-28T21:38:25+08:00",
+ "fetchedAt": "2026-11-28T21:39:24+08:00",
  "sourceName": "Yahoo新聞",
  "sourceUrl": "https://tw.news.yahoo.com/topic/2026-election/",
  "note": "媒體自行計票，非中選會官方數字",
@@ -23,18 +23,18 @@
    ]
   },
   "新北市": {
-   "updatedAt": "2026-11-28T21:26:07+08:00",
+   "updatedAt": "2026-11-28T21:38:20+08:00",
    "candidates": [
     {
      "name": "蘇巧慧",
-     "votes": 1039552,
-     "pct": 48.15,
+     "votes": 1046584,
+     "pct": 48.25,
      "elected": false
     },
     {
      "name": "李四川",
-     "votes": 1102854,
-     "pct": 51.08,
+     "votes": 1110795,
+     "pct": 51.21,
      "elected": true
     }
    ]
@@ -74,18 +74,18 @@
    ]
   },
   "宜蘭縣": {
-   "updatedAt": "2026-11-28T21:28:22+08:00",
+   "updatedAt": "2026-11-28T21:39:00+08:00",
    "candidates": [
     {
      "name": "林國漳",
-     "votes": 127622,
-     "pct": 53.64,
+     "votes": 128895,
+     "pct": 53.23,
      "elected": true
     },
     {
      "name": "吳宗憲",
-     "votes": 105706,
-     "pct": 44.43,
+     "votes": 106570,
+     "pct": 44.01,
      "elected": false
     }
    ]
@@ -188,24 +188,24 @@
    ]
   },
   "澎湖縣": {
-   "updatedAt": "2026-11-28T21:14:22+08:00",
+   "updatedAt": "2026-11-28T21:39:11+08:00",
    "candidates": [
     {
      "name": "葉竹林",
-     "votes": 9794,
-     "pct": 20.03,
+     "votes": 10113,
+     "pct": 19.57,
      "elected": false
     },
     {
      "name": "吳淑瑾",
-     "votes": 15476,
-     "pct": 31.65,
+     "votes": 15992,
+     "pct": 30.94,
      "elected": false
     },
     {
      "name": "陳振中",
-     "votes": 20496,
-     "pct": 41.91,
+     "votes": 21440,
+     "pct": 41.48,
      "elected": true
     }
    ]
@@ -376,18 +376,18 @@
    ]
   },
   "臺北市": {
-   "updatedAt": "2026-11-28T21:26:21+08:00",
+   "updatedAt": "2026-11-28T21:38:40+08:00",
    "candidates": [
     {
      "name": "沈伯洋",
-     "votes": 660210,
-     "pct": 45.68,
+     "votes": 662324,
+     "pct": 45.69,
      "elected": false
     },
     {
      "name": "蔣萬安",
-     "votes": 776736,
-     "pct": 53.74,
+     "votes": 778956,
+     "pct": 53.73,
      "elected": true
     }
    ]
