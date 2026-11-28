@@ -703,9 +703,16 @@ const boot = {
         cands.length > 1 &&
         (cands[0].votes || 0) - (cands[1].votes || 0) >
           (r.total - r.reported) * (sumVotes / r.reported) * 4;
+      // 2026-11-28 22:17：雲林開到 99.5% 只差 10 票。差距在有效票千分之三以內的縣市，
+      // 次高票可以聲請重新計票，本頁就算開完也不標當選，只標開票完成與差幾票。
+      const tightRace =
+        hasVotes &&
+        cands.length > 1 &&
+        sumVotes > 0 &&
+        ((cands[0].votes || 0) - (cands[1].votes || 0)) / sumVotes <= 0.003;
       const winner =
         cands.find((c) => c.elected) ||
-        (complete || clinched ? cands[0] : null);
+        ((complete || clinched) && !tightRace ? cands[0] : null);
       if (winner) winner.elected = true;
       // 回報不到 5% 投開票所：只開了幾所，領先者還不能代表這個縣市
       const early =

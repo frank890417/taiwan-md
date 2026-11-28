@@ -111,7 +111,7 @@
     "gapPts": "差 {n} 點",
     "recountTag": "差距在千分之三內",
     "gapShort": "差 {n} 票",
-    "recountNote": "差距在有效票千分之三以內的縣市，次高票可在投票日後七日內聲請重新計票。",
+    "recountNote": "差距在有效票千分之三以內的縣市，次高票可在投票日後七日內聲請重新計票。這類縣市本頁不標當選。",
     "clinchNote": "還沒開完但已標當選的縣市，是領先票數已超過剩下票所可能開出的票：假設剩下每一所的票數是已開票所平均的四倍，而且全部投給第二名，也追不上。"
   },
   "en": {
@@ -225,7 +225,7 @@
     "gapPts": "{n} pts",
     "recountTag": "Within 0.3%",
     "gapShort": "{n}-vote gap",
-    "recountNote": "Where the gap is within 0.3% of valid votes, the runner-up may request a recount within seven days of polling day.",
+    "recountNote": "Where the gap is within 0.3% of valid votes, the runner-up may request a recount within seven days of polling day. This page does not call a winner in such races.",
     "clinchNote": "Races marked elected before the count is complete are those where the lead already exceeds what the remaining stations could produce: even if each remaining station had four times the average votes so far and all went to the runner-up, the gap could not be closed."
   },
   "ja": {
@@ -339,7 +339,7 @@
     "gapPts": "{n} ポイント差",
     "recountTag": "差は0.3%以内",
     "gapShort": "{n}票差",
-    "recountNote": "差が有効票の0.3%以内の県・市では、次点者は投票日から7日以内に再集計を請求できます。",
+    "recountNote": "差が有効票の0.3%以内の県・市では、次点者は投票日から7日以内に再集計を請求できます。 こうした県市では本ページは当選を表示しません。",
     "clinchNote": "開票途中で当選とした県・市は、リードが残りの投開票所で出うる票を上回っている場合です。残りの各所がこれまでの平均の4倍の票で、すべて次点に入っても追いつけません。"
   },
   "ko": {
@@ -453,7 +453,7 @@
     "gapPts": "{n}%p 차",
     "recountTag": "격차 0.3% 이내",
     "gapShort": "{n}표 차",
-    "recountNote": "격차가 유효표의 0.3% 이내인 지역에서는 차점자가 투표일로부터 7일 안에 재검표를 청구할 수 있습니다.",
+    "recountNote": "격차가 유효표의 0.3% 이내인 지역에서는 차점자가 투표일로부터 7일 안에 재검표를 청구할 수 있습니다. 이런 지역은 이 페이지에서 당선으로 표시하지 않습니다.",
     "clinchNote": "개표가 끝나기 전에 당선으로 표시한 지역은 격차가 남은 투개표소에서 나올 수 있는 표를 이미 넘은 경우입니다. 남은 곳마다 지금까지 평균의 4배 표가 모두 2위에게 가도 따라잡지 못합니다."
   },
   "es": {
@@ -567,7 +567,7 @@
     "gapPts": "{n} pts",
     "recountTag": "Diferencia inferior al 0,3 %",
     "gapShort": "{n} votos de diferencia",
-    "recountNote": "Donde la diferencia es inferior al 0,3 % de los votos válidos, el segundo puede pedir un recuento en los siete días siguientes a la votación.",
+    "recountNote": "Donde la diferencia es inferior al 0,3 % de los votos válidos, el segundo puede pedir un recuento en los siete días siguientes a la votación. En esos casos esta página no declara ganador.",
     "clinchNote": "Las circunscripciones marcadas como electas antes de terminar el recuento son aquellas en que la ventaja ya supera lo que pueden aportar los colegios restantes: aunque cada uno tuviera cuatro veces la media de votos y todos fueran al segundo, no alcanzaría."
   },
   "fr": {
@@ -681,7 +681,7 @@
     "gapPts": "{n} pts",
     "recountTag": "Écart inférieur à 0,3 %",
     "gapShort": "{n} voix d’écart",
-    "recountNote": "Lorsque l’écart est inférieur à 0,3 % des suffrages valides, le candidat arrivé deuxième peut demander un recomptage dans les sept jours suivant le scrutin.",
+    "recountNote": "Lorsque l’écart est inférieur à 0,3 % des suffrages valides, le candidat arrivé deuxième peut demander un recomptage dans les sept jours suivant le scrutin. Dans ces cas, cette page ne désigne pas de vainqueur.",
     "clinchNote": "Les circonscriptions déclarées avant la fin du dépouillement sont celles où l’avance dépasse déjà ce que les bureaux restants peuvent apporter : même avec quatre fois la moyenne des voix par bureau, toutes pour le deuxième, l’écart ne serait pas comblé."
   },
   "de": {
@@ -795,7 +795,7 @@
     "gapPts": "{n} Pkt.",
     "recountTag": "Abstand unter 0,3 %",
     "gapShort": "{n} Stimmen Abstand",
-    "recountNote": "Liegt der Abstand unter 0,3 % der gültigen Stimmen, kann die zweitplatzierte Person binnen sieben Tagen nach dem Wahltag eine Neuauszählung beantragen.",
+    "recountNote": "Liegt der Abstand unter 0,3 % der gültigen Stimmen, kann die zweitplatzierte Person binnen sieben Tagen nach dem Wahltag eine Neuauszählung beantragen. In solchen Fällen nennt diese Seite keinen Sieger.",
     "clinchNote": "Vor Ende der Auszählung als gewählt markiert sind Wahlkreise, in denen der Vorsprung schon größer ist als alles, was die übrigen Wahllokale liefern können: selbst das Vierfache des bisherigen Durchschnitts, komplett für die zweitplatzierte Person, würde nicht reichen."
   },
   "pt": {
@@ -909,7 +909,7 @@
     "gapPts": "{n} pts",
     "recountTag": "Diferença abaixo de 0,3%",
     "gapShort": "{n} votos de diferença",
-    "recountNote": "Onde a diferença é inferior a 0,3% dos votos válidos, o segundo colocado pode pedir recontagem em até sete dias após a votação.",
+    "recountNote": "Onde a diferença é inferior a 0,3% dos votos válidos, o segundo colocado pode pedir recontagem em até sete dias após a votação. Nesses casos, esta página não declara vencedor.",
     "clinchNote": "As disputas marcadas como eleitas antes do fim da apuração são aquelas em que a vantagem já supera o que as seções restantes podem trazer: mesmo com quatro vezes a média de votos por seção, todos para o segundo colocado, não daria para alcançar."
   },
   "ru": {
@@ -1023,7 +1023,7 @@
     "gapPts": "{n} п.",
     "recountTag": "Разрыв менее 0,3 %",
     "gapShort": "разрыв {n}",
-    "recountNote": "Если разрыв менее 0,3 % действительных голосов, занявший второе место может в течение семи дней после дня голосования потребовать пересчёта.",
+    "recountNote": "Если разрыв менее 0,3 % действительных голосов, занявший второе место может в течение семи дней после дня голосования потребовать пересчёта. В таких случаях страница не называет победителя.",
     "clinchNote": "Округа, отмеченные как решённые до конца подсчёта, — те, где отрыв уже больше, чем могут дать оставшиеся участки: даже если на каждом будет вчетверо больше среднего числа голосов и все они уйдут второму, разрыв не сократить."
   },
   "vi": {
@@ -1137,7 +1137,7 @@
     "gapPts": "{n} điểm",
     "recountTag": "Chênh lệch dưới 0,3%",
     "gapShort": "cách {n} phiếu",
-    "recountNote": "Nơi nào chênh lệch dưới 0,3% số phiếu hợp lệ, người về nhì có thể yêu cầu kiểm phiếu lại trong vòng bảy ngày sau ngày bỏ phiếu.",
+    "recountNote": "Nơi nào chênh lệch dưới 0,3% số phiếu hợp lệ, người về nhì có thể yêu cầu kiểm phiếu lại trong vòng bảy ngày sau ngày bỏ phiếu. Với các nơi này, trang không ghi đắc cử.",
     "clinchNote": "Những nơi được ghi trúng cử khi chưa kiểm xong là nơi khoảng cách đã lớn hơn số phiếu các điểm còn lại có thể mang về: dù mỗi điểm có gấp bốn lần mức trung bình và tất cả dồn cho người về nhì cũng không đuổi kịp."
   },
   "id": {
@@ -1251,7 +1251,7 @@
     "gapPts": "{n} poin",
     "recountTag": "Selisih di bawah 0,3%",
     "gapShort": "selisih {n} suara",
-    "recountNote": "Jika selisihnya di bawah 0,3% suara sah, peraih suara kedua dapat meminta penghitungan ulang dalam tujuh hari setelah hari pemungutan suara.",
+    "recountNote": "Jika selisihnya di bawah 0,3% suara sah, peraih suara kedua dapat meminta penghitungan ulang dalam tujuh hari setelah hari pemungutan suara. Untuk daerah seperti ini, halaman ini tidak menyatakan pemenang.",
     "clinchNote": "Daerah yang ditandai terpilih sebelum penghitungan selesai adalah yang selisihnya sudah melebihi suara yang mungkin datang dari TPS tersisa: sekalipun tiap TPS punya empat kali rata-rata suara dan semuanya untuk peringkat kedua, tetap tidak terkejar."
   },
   "hi": {
@@ -1365,7 +1365,7 @@
     "gapPts": "{n} अंक",
     "recountTag": "अंतर 0.3% के भीतर",
     "gapShort": "{n} वोट का अंतर",
-    "recountNote": "जहाँ अंतर वैध मतों के 0.3% के भीतर है, वहाँ दूसरे स्थान का उम्मीदवार मतदान के सात दिन के भीतर पुनर्गणना माँग सकता है।",
+    "recountNote": "जहाँ अंतर वैध मतों के 0.3% के भीतर है, वहाँ दूसरे स्थान का उम्मीदवार मतदान के सात दिन के भीतर पुनर्गणना माँग सकता है। ऐसे मामलों में यह पृष्ठ विजेता घोषित नहीं करता।",
     "clinchNote": "गिनती पूरी होने से पहले निर्वाचित दिखाए गए क्षेत्र वे हैं जहाँ बढ़त बचे हुए केंद्रों से आ सकने वाले वोटों से ज़्यादा है: हर बचे केंद्र पर औसत के चार गुना वोट हों और सब दूसरे स्थान को मिलें, तब भी अंतर नहीं पटेगा।"
   },
   "ar": {
@@ -1479,7 +1479,7 @@
     "gapPts": "{n} نقطة",
     "recountTag": "الفارق أقل من 0.3%",
     "gapShort": "الفارق {n}",
-    "recountNote": "حيث يقل الفارق عن 0.3% من الأصوات الصحيحة، يحق لصاحب المركز الثاني طلب إعادة الفرز خلال سبعة أيام من يوم الاقتراع.",
+    "recountNote": "حيث يقل الفارق عن 0.3% من الأصوات الصحيحة، يحق لصاحب المركز الثاني طلب إعادة الفرز خلال سبعة أيام من يوم الاقتراع. في هذه الحالات لا تعلن الصفحة فائزًا.",
     "clinchNote": "الدوائر التي عُدّ فيها فائز قبل اكتمال الفرز هي التي تجاوز فيها الفارق ما يمكن أن تأتي به المراكز المتبقية: حتى لو كان في كل مركز أربعة أضعاف متوسط الأصوات وذهبت كلها للثاني فلن يُسدّ الفارق."
   }
 }
