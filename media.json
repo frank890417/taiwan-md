@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "fetchedAt": "2026-11-28T17:45:27+08:00",
+ "fetchedAt": "2026-11-28T17:46:28+08:00",
  "sourceName": "Yahoo新聞",
  "sourceUrl": "https://tw.news.yahoo.com/topic/2026-election/",
  "note": "媒體自行計票，非中選會官方數字",
@@ -23,18 +23,18 @@
    ]
   },
   "新北市": {
-   "updatedAt": "2026-11-28T17:41:06+08:00",
+   "updatedAt": "2026-11-28T17:45:09+08:00",
    "candidates": [
     {
      "name": "蘇巧慧",
-     "votes": 532266,
-     "pct": 48.76,
+     "votes": 534429,
+     "pct": 48.74,
      "elected": false
     },
     {
      "name": "李四川",
-     "votes": 559322,
-     "pct": 51.24,
+     "votes": 562016,
+     "pct": 51.26,
      "elected": false
     }
    ]
@@ -74,18 +74,18 @@
    ]
   },
   "宜蘭縣": {
-   "updatedAt": "2026-11-28T17:33:39+08:00",
+   "updatedAt": "2026-11-28T17:45:11+08:00",
    "candidates": [
     {
      "name": "林國漳",
-     "votes": 30665,
-     "pct": 53.47,
+     "votes": 39329,
+     "pct": 56.45,
      "elected": false
     },
     {
      "name": "吳宗憲",
-     "votes": 26680,
-     "pct": 46.53,
+     "votes": 30342,
+     "pct": 43.55,
      "elected": false
     }
    ]
@@ -171,18 +171,18 @@
    ]
   },
   "南投縣": {
-   "updatedAt": "2026-11-28T17:35:27+08:00",
+   "updatedAt": "2026-11-28T17:46:05+08:00",
    "candidates": [
     {
      "name": "許淑華",
-     "votes": 56867,
-     "pct": 64.48,
+     "votes": 63718,
+     "pct": 64.21,
      "elected": false
     },
     {
      "name": "温世政",
-     "votes": 31329,
-     "pct": 35.52,
+     "votes": 35512,
+     "pct": 35.79,
      "elected": false
     }
    ]
