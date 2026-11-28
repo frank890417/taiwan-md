@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "phase": "counting",
- "updatedAt": "2026-11-28T23:18:04+08:00",
+ "updatedAt": "2026-11-28T23:19:13+08:00",
  "sourceName": "中央選舉委員會計票資訊查詢網站",
  "sourceUrl": "https://vote.cec.gov.tw/2026-local/zh-TW/indexP.html",
  "stations": {
-  "reported": 18238,
+  "reported": 18239,
   "total": 18248
  },
  "mayors": {
@@ -448,14 +448,14 @@
    ]
   },
   "雲林縣": {
-   "reported": 637,
+   "reported": 638,
    "total": 638,
    "candidates": [
     {
      "number": 1,
      "name": "吳炳輝",
      "party": "無黨籍",
-     "votes": 3092,
+     "votes": 3103,
      "pct": 0.86,
      "elected": false
     },
@@ -463,7 +463,7 @@
      "number": 2,
      "name": "張嘉郡",
      "party": "中國國民黨",
-     "votes": 177741,
+     "votes": 178184,
      "pct": 49.16,
      "elected": false
     },
@@ -471,7 +471,7 @@
      "number": 3,
      "name": "劉建國",
      "party": "民主進步黨",
-     "votes": 177928,
+     "votes": 178357,
      "pct": 49.21,
      "elected": false
     },
@@ -479,7 +479,7 @@
      "number": 4,
      "name": "林佳瑜",
      "party": "無黨籍",
-     "votes": 2823,
+     "votes": 2829,
      "pct": 0.78,
      "elected": false
     }
