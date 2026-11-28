@@ -4456,6 +4456,90 @@ const lookups = electionsData.lookups;
 // 預覽別的日期：ELECTIONS_TODAY=2026-11-28 npm run dev（只在建置時讀，正式站不設）
 const today = resolveToday(process.env.ELECTIONS_TODAY);
 const phase = electionPhase(today);
+// 選後的分頁標題與摘要：投票日過後不再寫「11/28 投票、投票所查詢」，改寫開票結果。
+const postMeta: Record<string, { title: string; description: string }> = {
+  'zh-TW': {
+    title:
+      '台灣 2026 九合一選舉開票結果：22 縣市長得票、議員席次、公投第 22 案',
+    description:
+      '2026 年 11 月 28 日九合一選舉開票結果：22 縣市長各候選人得票與差距、議員各黨席次、全國性公民投票第 22 案同意與不同意票數。票數取自中選會計票，當選名單以中選會 12 月 4 日公告為準。',
+  },
+  en: {
+    title:
+      'Taiwan 2026 Local Election Results: 22 Mayoral Races, Council Seats, Referendum No. 22',
+    description:
+      'Results of Taiwan’s 28 November 2026 local elections: vote counts and margins in all 22 mayoral and magistrate races, council seats by party, and the national Referendum No. 22. Figures come from the Central Election Commission count; the official list of winners is the CEC announcement on 4 December.',
+  },
+  ja: {
+    title:
+      '台湾 2026 統一地方選挙 開票結果：22 県市長選、議員議席、国民投票第 22 案',
+    description:
+      '2026 年 11 月 28 日の台湾統一地方選挙の開票結果。22 県市長選の得票と票差、政党別の議員議席、全国国民投票第 22 案の賛否票数。数値は中央選挙委員会の集計によるもので、当選者は 12 月 4 日の同委員会公告で確定します。',
+  },
+  ko: {
+    title:
+      '대만 2026 지방선거 개표 결과: 22개 현·시장, 의원 의석, 국민투표 제22안',
+    description:
+      '2026년 11월 28일 대만 지방선거 개표 결과. 22개 현·시장 선거의 득표와 표차, 정당별 의원 의석, 전국 국민투표 제22안의 찬반 표수를 정리했습니다. 수치는 중앙선거위원회 집계이며, 당선자는 12월 4일 위원회 공고로 확정됩니다.',
+  },
+  es: {
+    title:
+      'Resultados de las elecciones locales de Taiwán 2026: 22 alcaldías, escaños y referéndum n.º 22',
+    description:
+      'Resultados de las elecciones locales de Taiwán del 28 de noviembre de 2026: votos y diferencias en las 22 alcaldías y condados, escaños por partido y el referéndum nacional n.º 22. Las cifras proceden del recuento de la Comisión Electoral Central; la lista oficial de ganadores se anuncia el 4 de diciembre.',
+  },
+  fr: {
+    title:
+      'Résultats des élections locales de Taïwan 2026 : 22 mairies, sièges et référendum n° 22',
+    description:
+      'Résultats des élections locales taïwanaises du 28 novembre 2026 : voix et écarts dans les 22 scrutins de maires et de chefs de comté, sièges par parti et référendum national n° 22. Les chiffres viennent du décompte de la Commission électorale centrale ; la liste officielle des élus sera publiée le 4 décembre.',
+  },
+  de: {
+    title:
+      'Ergebnisse der Kommunalwahlen in Taiwan 2026: 22 Bürgermeisterwahlen, Ratssitze, Referendum Nr. 22',
+    description:
+      'Ergebnisse der taiwanischen Kommunalwahlen vom 28. November 2026: Stimmen und Abstände in allen 22 Bürgermeister- und Landratswahlen, Ratssitze nach Parteien und das landesweite Referendum Nr. 22. Die Zahlen stammen aus der Auszählung der Zentralen Wahlkommission; die amtliche Liste der Gewählten folgt am 4. Dezember.',
+  },
+  pt: {
+    title:
+      'Resultados das eleições locais de Taiwan 2026: 22 prefeituras, assentos e referendo n.º 22',
+    description:
+      'Resultados das eleições locais de Taiwan de 28 de novembro de 2026: votos e diferenças nas 22 disputas de prefeitos e chefes de condado, assentos por partido e o referendo nacional n.º 22. Os números vêm da apuração da Comissão Eleitoral Central; a lista oficial de eleitos sai em 4 de dezembro.',
+  },
+  ru: {
+    title:
+      'Итоги местных выборов на Тайване 2026: 22 мэра и главы уездов, места в советах, референдум № 22',
+    description:
+      'Итоги местных выборов на Тайване 28 ноября 2026 года: голоса и разрывы во всех 22 кампаниях мэров и глав уездов, места в советах по партиям и общенациональный референдум № 22. Данные взяты из подсчёта Центральной избирательной комиссии; официальный список избранных будет объявлен 4 декабря.',
+  },
+  vi: {
+    title:
+      'Kết quả bầu cử địa phương Đài Loan 2026: 22 thị trưởng và huyện trưởng, ghế nghị viên, trưng cầu số 22',
+    description:
+      'Kết quả bầu cử địa phương Đài Loan ngày 28 tháng 11 năm 2026: số phiếu và khoảng cách ở cả 22 cuộc bầu thị trưởng, huyện trưởng, số ghế nghị viên theo đảng và cuộc trưng cầu dân ý toàn quốc số 22. Số liệu lấy từ kết quả kiểm phiếu của Ủy ban Bầu cử Trung ương; danh sách đắc cử chính thức sẽ được công bố ngày 4 tháng 12.',
+  },
+  id: {
+    title:
+      'Hasil Pemilu Lokal Taiwan 2026: 22 Wali Kota dan Bupati, Kursi Dewan, Referendum No. 22',
+    description:
+      'Hasil pemilu lokal Taiwan 28 November 2026: perolehan suara dan selisih di 22 pemilihan wali kota dan bupati, kursi dewan per partai, serta referendum nasional No. 22. Angka berasal dari penghitungan Komisi Pemilihan Pusat; daftar resmi pemenang diumumkan pada 4 Desember.',
+  },
+  hi: {
+    title:
+      'ताइवान 2026 स्थानीय चुनाव परिणाम: 22 मेयर और काउंटी प्रमुख, परिषद सीटें, जनमत संग्रह संख्या 22',
+    description:
+      '28 नवंबर 2026 के ताइवान स्थानीय चुनावों के परिणाम: सभी 22 मेयर और काउंटी प्रमुख चुनावों में मत और अंतर, दलवार परिषद सीटें और राष्ट्रीय जनमत संग्रह संख्या 22। आँकड़े केंद्रीय चुनाव आयोग की मतगणना से हैं; विजेताओं की आधिकारिक सूची 4 दिसंबर को घोषित होगी।',
+  },
+  ar: {
+    title:
+      'نتائج الانتخابات المحلية في تايوان 2026: 22 منصب عمدة ورئيس مقاطعة، مقاعد المجالس، الاستفتاء رقم 22',
+    description:
+      'نتائج الانتخابات المحلية في تايوان بتاريخ 28 نوفمبر 2026: الأصوات والفوارق في جميع انتخابات العمد ورؤساء المقاطعات الاثنتين والعشرين، ومقاعد المجالس بحسب الأحزاب، والاستفتاء الوطني رقم 22. الأرقام من فرز لجنة الانتخابات المركزية، وتُعلن القائمة الرسمية للفائزين في 4 ديسمبر.',
+  },
+};
+const metaNow = phase === 'post' ? (postMeta[lang] ?? postMeta.en) : null;
+const metaTitle = metaNow?.title ?? pageTitle;
+const metaDescription = metaNow?.description ?? pageDescription;
 const daysLeft = daysUntilElection(today);
 
 const dateLocale: Record<UpLang, string> = {
@@ -4905,8 +4989,8 @@ const reportHref = `https://github.com/frank890417/taiwan-md/issues/new?template
 
 <Layout
   lang={lang}
-  title={pageTitle}
-  description={pageDescription}
+  title={metaTitle}
+  description={metaDescription}
   readerSettings
 >
   <div class="elections-2026 el-surface" data-phase={phase}>
