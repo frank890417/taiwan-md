@@ -242,3 +242,7 @@ knowledge/**/*.bak
 .babel-quarantine/
 docs/brand/source/terrain/.tiles/
 docs/brand/source/.cache/
+
+# 分片建置的暫存（scripts/core/build-sharded.mjs）
+.shards/
+.shards-summary.json

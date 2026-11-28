@@ -10,7 +10,13 @@ import {
   ENABLED_LANGUAGE_CODES,
   DEFAULT_LANGUAGE,
 } from './src/config/languages.mjs';
-import { readdirSync, statSync, existsSync, readFileSync } from 'node:fs';
+import {
+  readdirSync,
+  statSync,
+  existsSync,
+  readFileSync,
+  writeFileSync,
+} from 'node:fs';
 import { join } from 'node:path';
 import { resolveRedirectTargets } from './scripts/core/resolve-redirect-targets.mjs';
 
@@ -277,9 +283,40 @@ try {
   // not yet generated → omit lastmod entirely (safe; never fake-fresh)
 }
 
+// ── 分片建置（scripts/core/build-sharded.mjs）──
+// 那支腳本把 astro build 切成幾個行程同時跑，每個行程帶 TWMD_SHARD。
+// 沒有這個環境變數時，下面三處都不生效，一般的 `astro build` 行為不變。
+//   1. 各份把自己產了哪些頁寫成一份清單，併完之後對全站產一次 sitemap。
+//   2. 快取目錄各份分開，避免同時寫同一個目錄。
+//   3. public/ 只由第 0 份複製，其餘各份給空目錄。
+const IS_SHARD = process.env.TWMD_SHARD !== undefined;
+/** @type {import('astro').AstroIntegration} */
+const shardPagesRecorder = {
+  name: 'twmd-shard-pages',
+  hooks: {
+    'astro:build:done': ({ pages }) => {
+      if (!process.env.TWMD_SHARD_PAGES_OUT) return;
+      writeFileSync(
+        process.env.TWMD_SHARD_PAGES_OUT,
+        JSON.stringify(pages.map((p) => p.pathname)),
+      );
+    },
+  },
+};
+
 export default defineConfig({
   site: 'https://taiwan.md',
+  ...(IS_SHARD
+    ? {
+        cacheDir: './.astro-cache',
+        ...(process.env.TWMD_SHARD_EMPTY_PUBLIC
+          ? { publicDir: './.empty-public' }
+          : {}),
+      }
+    : {}),
   integrations: [
+    // 要排在 sitemap 前面：sitemap 會就地改寫 pages 裡的 pathname
+    ...(IS_SHARD ? [shardPagesRecorder] : []),
     sitemap({
       changefreq: 'weekly',
       priority: 0.7,
@@ -664,6 +701,16 @@ export default defineConfig({
   },
   vite: {
     plugins: [tailwindcss()],
+    // 分片的影子根目錄全是符號連結；不保留的話 Vite 會把路徑解回真實位置，
+    // 跟 Astro 掃到的路由路徑對不上。
+    ...(IS_SHARD
+      ? {
+          resolve: { preserveSymlinks: true },
+          // node_modules 是共用的符號連結，Vite 預設把快取放在 node_modules/.vite，
+          // 幾個行程同時寫會互撞
+          cacheDir: './.vite-cache',
+        }
+      : {}),
     build: {
       target: 'es2022',
       minify: 'oxc',

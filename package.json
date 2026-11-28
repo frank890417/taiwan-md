@@ -36,6 +36,7 @@
     "prebuild:llms": "python3 scripts/tools/refresh-llms-txt.py || true",
     "prebuild:stats": "bash scripts/tools/update-stats.sh || true",
     "build": "astro build",
+    "build:sharded": "node scripts/core/build-sharded.mjs",
     "test": "npm run test:markdown && npm run test:heading-id && node scripts/core/test-frontmatter.mjs",
     "test:ci": "npm run test:markdown && npm run test:heading-id && node scripts/core/test-frontmatter.mjs --ci",
     "test:markdown": "node --test tests/markdown-cjk.test.mjs tests/category-hub-links.test.mjs",
