@@ -749,6 +749,76 @@ const boot = {
       return `<p class="lb-ml"><span class="lb-ml-head">${esc(C.media)} <span class="lb-tag lb-tag-unofficial">${esc(C.unofficial)}</span> <time>${esc(timeFmt(mv.updatedAt))}</time></span>${items}</p>`;
     }
 
+    // ── 動畫：數字更新時跑動，領先與落後互換時兩列交換位置並亮一下 ──
+    // 使用者設定「減少動態效果」時全部關掉。
+    const REDUCE =
+      typeof matchMedia === 'function' &&
+      matchMedia('(prefers-reduced-motion: reduce)').matches;
+    const lastNum = new Map<string, number>();
+    function tweenNumbers(scope: Element) {
+      scope.querySelectorAll<HTMLElement>('[data-n][data-k]').forEach((el) => {
+        const key = el.dataset.k!;
+        const to = Number(el.dataset.n);
+        const from = lastNum.has(key) ? lastNum.get(key)! : 0;
+        lastNum.set(key, to);
+        if (REDUCE || !isFinite(to) || from === to) return;
+        const isPct = el.dataset.f === 'pct';
+        const fmt = (x: number) =>
+          isPct ? x.toFixed(1) + '%' : nf.format(Math.round(x));
+        const t0 = performance.now();
+        const dur = 900;
+        el.classList.add('is-tick');
+        const step = (now: number) => {
+          if (!el.isConnected) return;
+          const k = Math.min(1, (now - t0) / dur);
+          const e = 1 - Math.pow(1 - k, 3);
+          el.textContent = fmt(from + (to - from) * e);
+          if (k < 1) requestAnimationFrame(step);
+          else {
+            el.textContent = fmt(to);
+            el.classList.remove('is-tick');
+          }
+        };
+        requestAnimationFrame(step);
+      });
+    }
+    function animateDash(
+      grid: Element,
+      before: Map<string, number>,
+      prevLead: Map<string, string>,
+    ) {
+      tweenNumbers(grid);
+      if (REDUCE) return;
+      // 兩列交換位置：從舊位置滑到新位置
+      grid.querySelectorAll<HTMLElement>('[data-row]').forEach((el) => {
+        const old = before.get(el.dataset.row!);
+        if (old === undefined) return;
+        // 第一次拿到票數時（原本照號次排）不滑動，只有票數之間的名次互換才滑
+        const area = el.closest<HTMLElement>('[data-cell]')?.dataset.cell;
+        if (!area || !prevLead.get(area)) return;
+        const dy = old - el.getBoundingClientRect().top;
+        if (Math.abs(dy) > 2)
+          el.animate(
+            [{ transform: `translateY(${dy}px)` }, { transform: 'none' }],
+            { duration: 650, easing: 'cubic-bezier(0.2, 0.8, 0.2, 1)' },
+          );
+      });
+      // 領先者換人：整格亮一下，新的第一名旁邊短暫出現箭頭，地圖上那個縣市也閃一下
+      grid.querySelectorAll<HTMLElement>('[data-cell]').forEach((el) => {
+        const area = el.dataset.cell!;
+        const was = prevLead.get(area);
+        const now = el.dataset.lead || '';
+        if (!was || !now || was === now) return;
+        el.classList.add('is-flip');
+        setTimeout(() => el.classList.remove('is-flip'), 2600);
+        const path = root!.querySelector<SVGElement>(
+          `[data-lb-map="${CSS.escape(area)}"] path`,
+        );
+        path?.classList.add('is-flip');
+        setTimeout(() => path?.classList.remove('is-flip'), 2600);
+      });
+    }
+
     /** 候選人頭像：有授權清楚的照片就用照片，沒有就用姓氏加政黨色。 */
     function avatarHtml(c: Cand) {
       const k = partyKey(c.party);
@@ -779,7 +849,7 @@ const boot = {
         const rows = top
           .map(
             (c: Cand) =>
-              `<span class="lb-dc-row${head && c === head ? ' is-head' : ''}" data-party="${partyKey(c.party)}">${avatarHtml(c)}<span class="lb-dc-n">${esc(c.name)}</span><span class="lb-dc-p">${v.hasVotes ? (c.pct || 0).toFixed(1) + '%' : ''}</span><span class="lb-dc-v">${v.hasVotes ? num(c.votes) : esc(c.partyLabel || c.party)}</span></span>`,
+              `<span class="lb-dc-row${head && c === head ? ' is-head' : ''}" data-party="${partyKey(c.party)}" data-row="${esc(v.race.area + '|' + c.name)}">${avatarHtml(c)}<span class="lb-dc-n">${esc(c.name)}</span><span class="lb-dc-p"${v.hasVotes ? ` data-n="${(c.pct || 0).toFixed(1)}" data-f="pct" data-k="${esc('p|' + v.race.area + '|' + c.name)}"` : ''}>${v.hasVotes ? (c.pct || 0).toFixed(1) + '%' : ''}</span><span class="lb-dc-v"${v.hasVotes ? ` data-n="${c.votes || 0}" data-f="int" data-k="${esc('v|' + v.race.area + '|' + c.name)}"` : ''}>${v.hasVotes ? num(c.votes) : esc(c.partyLabel || c.party)}</span></span>`,
           )
           .join('');
         const bar = v.hasVotes
@@ -790,7 +860,7 @@ const boot = {
           : v.early
             ? `<span class="lb-tag lb-tag-early">${esc(C.early)}</span>`
             : '';
-        return `<li><a class="lb-dc${v.early ? ' is-early' : ''}${v.winner ? ' is-won' : ''}" href="#lb-race-${esc(v.race.area)}" data-party="${head && !v.early ? partyKey(head.party) : 'none'}"><span class="lb-dc-h"><b>${esc(v.race.label)}</b>${tag}<span class="lb-dc-r">${pctOpen === null ? '' : esc(fill(C.openedPct, { p: pctOpen.toFixed(pctOpen < 10 ? 1 : 0) }))}</span></span>${rows}${bar}</a></li>`;
+        return `<li><a class="lb-dc${v.early ? ' is-early' : ''}${v.winner ? ' is-won' : ''}" href="#lb-race-${esc(v.race.area)}" data-cell="${esc(v.race.area)}" data-lead="${esc(v.hasVotes && top[0] ? top[0].name : '')}" data-party="${head && !v.early ? partyKey(head.party) : 'none'}"><span class="lb-dc-h"><b>${esc(v.race.label)}</b>${tag}<span class="lb-dc-r">${pctOpen === null ? '' : esc(fill(C.openedPct, { p: pctOpen.toFixed(pctOpen < 10 ? 1 : 0) }))}</span></span>${rows}${bar}</a></li>`;
       });
       // 公投一格
       const r = results?.referendum;
@@ -809,9 +879,21 @@ const boot = {
           ? Math.ceil(r.eligible / 4)
           : null;
       cells.push(
-        `<li class="lb-dc-wide"><a class="lb-dc lb-dc-ref" href="#lb-ref"><span class="lb-dc-h"><b>${esc(C.refTitle)}</b><span class="lb-dc-r">${refOpen === null ? '' : esc(fill(C.openedPct, { p: refOpen.toFixed(refOpen < 10 ? 1 : 0) }))}</span></span><span class="lb-dc-refrow"><span class="is-agree">${esc(C.refAgree)} <b>${has ? pa.toFixed(1) + '%' : '—'}</b> <i>${has ? num(agree) : ''}</i></span><span class="is-dis">${esc(C.refDisagree)} <b>${has ? (100 - pa).toFixed(1) + '%' : '—'}</b> <i>${has ? num(dis) : ''}</i></span></span><span class="lb-ref-split" aria-hidden="true"><span class="is-agree" style="width:${has ? pa.toFixed(2) : 50}%"></span><span class="is-dis" style="width:${has ? (100 - pa).toFixed(2) : 50}%"></span></span>${need && has ? `<span class="lb-dc-thresh">${esc(fill(C.refRule2Progress, { a: num(agree), b: num(need) }))}</span>` : ''}</a></li>`,
+        `<li class="lb-dc-wide"><a class="lb-dc lb-dc-ref" href="#lb-ref"><span class="lb-dc-h"><b>${esc(C.refTitle)}</b><span class="lb-dc-r">${refOpen === null ? '' : esc(fill(C.openedPct, { p: refOpen.toFixed(refOpen < 10 ? 1 : 0) }))}</span></span><span class="lb-dc-refrow"><span class="is-agree">${esc(C.refAgree)} <b${has ? ` data-n="${pa.toFixed(1)}" data-f="pct" data-k="ref|pa"` : ''}>${has ? pa.toFixed(1) + '%' : '—'}</b> <i${has ? ` data-n="${agree}" data-f="int" data-k="ref|a"` : ''}>${has ? num(agree) : ''}</i></span><span class="is-dis">${esc(C.refDisagree)} <b${has ? ` data-n="${(100 - pa).toFixed(1)}" data-f="pct" data-k="ref|pd"` : ''}>${has ? (100 - pa).toFixed(1) + '%' : '—'}</b> <i${has ? ` data-n="${dis}" data-f="int" data-k="ref|d"` : ''}>${has ? num(dis) : ''}</i></span></span><span class="lb-ref-split" aria-hidden="true"><span class="is-agree" style="width:${has ? pa.toFixed(2) : 50}%"></span><span class="is-dis" style="width:${has ? (100 - pa).toFixed(2) : 50}%"></span></span>${need && has ? `<span class="lb-dc-thresh">${esc(fill(C.refRule2Progress, { a: num(agree), b: num(need) }))}</span>` : ''}</a></li>`,
       );
+      // 動畫第一步：換內容前，記下每一列現在在畫面上的位置，以及每個縣市目前誰排第一
+      const before = new Map<string, number>();
+      const prevLead = new Map<string, string>();
+      if (!REDUCE) {
+        grid.querySelectorAll<HTMLElement>('[data-row]').forEach((el) => {
+          before.set(el.dataset.row!, el.getBoundingClientRect().top);
+        });
+        grid.querySelectorAll<HTMLElement>('[data-cell]').forEach((el) => {
+          prevLead.set(el.dataset.cell!, el.dataset.lead || '');
+        });
+      }
       grid.innerHTML = cells.join('');
+      animateDash(grid, before, prevLead);
       // 各黨領先數（開票初期不算）
       const order = ['kmt', 'dpp', 'tpp', 'ind', 'other'];
       const n: Record<string, number> = {};
@@ -1219,7 +1301,8 @@ const boot = {
         if (tf && ok)
           tf.style.width = `${Math.max(0.6, (st.reported / st.total) * 100).toFixed(2)}%`;
         if (s && ok)
-          s.textContent = `${num(st.reported)} / ${num(st.total)}（${((st.reported / st.total) * 100).toFixed(st.reported / st.total < 0.01 ? 2 : 1)}%）`;
+          s.innerHTML = `<span data-n="${st.reported}" data-f="int" data-k="st|rep">${num(st.reported)}</span> / ${num(st.total)}（${((st.reported / st.total) * 100).toFixed(st.reported / st.total < 0.01 ? 2 : 1)}%）`;
+        if (s && ok) tweenNumbers(s);
       }
       if (alertEl) {
         let msg = '';
@@ -1325,6 +1408,14 @@ const boot = {
       await Promise.all(jobs);
       renderAll();
     }
+    // 本機預覽專用：window.__lb.patch(fn) 可以改票數後重畫，用來看動畫（正式站不生效）
+    if (location.hostname === 'localhost')
+      (window as any).__lb = {
+        patch(fn: (r: any) => void) {
+          fn(results);
+          renderAll();
+        },
+      };
     renderAll();
     refresh();
     setInterval(refresh, B.pollMs);
@@ -2526,6 +2617,48 @@ const boot = {
   }
   .lb-dc.is-early .lb-dc-bar i {
     opacity: 0.45;
+  }
+  .lb .is-tick {
+    color: var(--el-accent-2);
+  }
+  .lb-dc-row {
+    will-change: transform;
+  }
+  .lb .lb-dc.is-flip {
+    animation: lb-flip 2.6s ease-out;
+  }
+  .lb .lb-dc.is-flip .lb-dc-row.is-head .lb-dc-n::after {
+    content: ' ▲';
+    color: var(--el-accent-2);
+    font-size: 0.8em;
+  }
+  @keyframes lb-flip {
+    0% {
+      box-shadow:
+        0 0 0 3px var(--el-accent-2),
+        0 0 26px 4px var(--p);
+      background: color-mix(in srgb, var(--p) 26%, var(--el-card));
+    }
+    100% {
+      box-shadow: 0 0 0 0 transparent;
+      background: var(--el-card);
+    }
+  }
+  .lb-c.is-flip {
+    animation: lb-map-flip 0.65s ease-in-out 4;
+  }
+  @keyframes lb-map-flip {
+    50% {
+      fill-opacity: 0.35;
+      stroke: #fff;
+      stroke-width: 2.4;
+    }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .lb .lb-dc.is-flip,
+    .lb-c.is-flip {
+      animation: none;
+    }
   }
   .lb-dc-refrow {
     display: flex;
