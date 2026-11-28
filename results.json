@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "phase": "counting",
- "updatedAt": "2026-11-28T21:42:26+08:00",
+ "updatedAt": "2026-11-28T21:43:27+08:00",
  "sourceName": "中央選舉委員會計票資訊查詢網站",
  "sourceUrl": "https://vote.cec.gov.tw/2026-local/zh-TW/indexP.html",
  "stations": {
-  "reported": 18040,
+  "reported": 18045,
   "total": 18248
  },
  "mayors": {
@@ -336,53 +336,53 @@
    ]
   },
   "新竹縣": {
-   "reported": 426,
+   "reported": 428,
    "total": 492,
    "candidates": [
     {
      "number": 1,
      "name": "鄭朝方",
      "party": "民主進步黨",
-     "votes": 143059,
-     "pct": 56.13,
+     "votes": 143930,
+     "pct": 56.16,
      "elected": false
     },
     {
      "number": 2,
      "name": "徐欣瑩",
      "party": "中國國民黨",
-     "votes": 106020,
-     "pct": 41.6,
+     "votes": 106559,
+     "pct": 41.58,
      "elected": false
     },
     {
      "number": 3,
      "name": "朱定瑀",
      "party": "無黨籍",
-     "votes": 5777,
+     "votes": 5809,
      "pct": 2.27,
      "elected": false
     }
    ]
   },
   "苗栗縣": {
-   "reported": 505,
+   "reported": 506,
    "total": 508,
    "candidates": [
     {
      "number": 1,
      "name": "陳品安",
      "party": "民主進步黨",
-     "votes": 106695,
-     "pct": 37.75,
+     "votes": 106878,
+     "pct": 37.76,
      "elected": false
     },
     {
      "number": 2,
      "name": "鍾東錦",
      "party": "中國國民黨",
-     "votes": 175921,
-     "pct": 62.25,
+     "votes": 176150,
+     "pct": 62.24,
      "elected": false
     }
    ]
@@ -426,14 +426,14 @@
    ]
   },
   "南投縣": {
-   "reported": 483,
+   "reported": 485,
    "total": 496,
    "candidates": [
     {
      "number": 1,
      "name": "許淑華",
      "party": "中國國民黨",
-     "votes": 163868,
+     "votes": 164603,
      "pct": 62.54,
      "elected": false
     },
@@ -441,7 +441,7 @@
      "number": 2,
      "name": "温世政",
      "party": "民主進步黨",
-     "votes": 98141,
+     "votes": 98580,
      "pct": 37.46,
      "elected": false
     }
@@ -791,14 +791,14 @@
   }
  },
  "referendum": {
-  "agree": 7343012,
-  "disagree": 4508280,
-  "valid": 11851292,
-  "invalid": 561159,
+  "agree": 7348659,
+  "disagree": 4511341,
+  "valid": 11860000,
+  "invalid": 561507,
   "eligible": 20003835,
-  "reported": 18052,
+  "reported": 18064,
   "total": 18248,
-  "completedEligible": 19772269
+  "completedEligible": 19786794
  },
  "coverage": {
   "mayorsWithData": 22,
