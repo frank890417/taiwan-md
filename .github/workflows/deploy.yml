@@ -262,6 +262,22 @@ jobs:
           tar --dereference --hard-dereference --directory ./dist \
             -cf "$RUNNER_TEMP/artifact.tar" --exclude=.git --exclude=.github .
           ls -l "$RUNNER_TEMP/artifact.tar"
+      # 2026-11-28 Cloudflare 搬遷第 2 階段（兩邊並行）：同一份 dist 也部署到 Cloudflare
+      # Workers 靜態資產。Cloudflare 只收內容有變的檔，實測改 350 個檔約 35 秒。
+      # 放在打包之後、跟下面的 Upload artifact 同時跑，所以不拖慢 GitHub Pages 這條。
+      # secrets 沒設時腳本自己跳過（fork 不受影響）。這個階段 Cloudflare 那邊失敗
+      # 不擋 GitHub Pages 的部署，結果在最後一步印出來。
+      # 規劃：reports/cloudflare-migration-plan-2026-11-28.md
+      - name: Deploy to Cloudflare (background)
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          TWMD_CF_WORKER_NAME: ${{ secrets.TWMD_CF_WORKER_NAME }}
+          TWMD_CF_CUSTOM_DOMAIN: ${{ secrets.TWMD_CF_CUSTOM_DOMAIN }}
+          TWMD_CF_NOINDEX: ${{ secrets.TWMD_CF_NOINDEX }}
+        run: |
+          nohup node scripts/ci/deploy-cloudflare.mjs dist > "$RUNNER_TEMP/cloudflare-deploy.log" 2>&1 &
+          echo $! > "$RUNNER_TEMP/cloudflare-deploy.pid"
       - name: Upload artifact
         uses: actions/upload-artifact@bbbca2ddaa5d8feaa63e36b76fdaad77386f024f # v7.0.0
         with:
@@ -270,6 +286,17 @@ jobs:
           retention-days: 1
           if-no-files-found: error
           compression-level: 1
+      - name: Deploy to Cloudflare (result)
+        if: always()
+        continue-on-error: true
+        run: |
+          pid_file="$RUNNER_TEMP/cloudflare-deploy.pid"
+          [ -f "$pid_file" ] || { echo "Cloudflare 部署沒有啟動"; exit 0; }
+          pid=$(cat "$pid_file")
+          # 背景行程不是這一步的子行程，不能用 wait，只能等它消失
+          for _ in $(seq 1 180); do kill -0 "$pid" 2>/dev/null || break; sleep 2; done
+          cat "$RUNNER_TEMP/cloudflare-deploy.log"
+          grep -q "完成\|跳過" "$RUNNER_TEMP/cloudflare-deploy.log"
 
   # 2026-11-17 CI 加速：這三道驗證原本排在 build job 的最前面、依序跑（約 33 秒），
   # 它們不讀 build 的任何產物，build 也不讀它們的。搬成同時跑的 job，
