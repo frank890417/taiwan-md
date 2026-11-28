@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "fetchedAt": "2026-11-28T21:23:28+08:00",
+ "fetchedAt": "2026-11-28T21:24:26+08:00",
  "sourceName": "Yahoo新聞",
  "sourceUrl": "https://tw.news.yahoo.com/topic/2026-election/",
  "note": "媒體自行計票，非中選會官方數字",
@@ -74,18 +74,18 @@
    ]
   },
   "宜蘭縣": {
-   "updatedAt": "2026-11-28T21:15:11+08:00",
+   "updatedAt": "2026-11-28T21:23:39+08:00",
    "candidates": [
     {
      "name": "林國漳",
-     "votes": 125295,
-     "pct": 53.67,
+     "votes": 127135,
+     "pct": 53.64,
      "elected": true
     },
     {
      "name": "吳宗憲",
-     "votes": 103618,
-     "pct": 44.39,
+     "votes": 105306,
+     "pct": 44.43,
      "elected": false
     }
    ]
@@ -131,24 +131,24 @@
    ]
   },
   "彰化縣": {
-   "updatedAt": "2026-11-28T21:18:17+08:00",
+   "updatedAt": "2026-11-28T21:23:48+08:00",
    "candidates": [
     {
      "name": "陳素月",
-     "votes": 269240,
-     "pct": 46.6,
+     "votes": 273472,
+     "pct": 46.59,
      "elected": true
     },
     {
      "name": "魏平政",
-     "votes": 237876,
-     "pct": 41.17,
+     "votes": 241448,
+     "pct": 41.14,
      "elected": false
     },
     {
      "name": "邱建富",
-     "votes": 62693,
-     "pct": 10.85,
+     "votes": 63930,
+     "pct": 10.89,
      "elected": false
     }
    ]
@@ -268,25 +268,25 @@
    ]
   },
   "花蓮縣": {
-   "updatedAt": "2026-11-28T19:32:39+08:00",
+   "updatedAt": "2026-11-28T21:23:54+08:00",
    "candidates": [
     {
      "name": "魏嘉賢",
      "votes": 38727,
-     "pct": 24.76,
+     "pct": 24.7,
      "elected": false
     },
     {
      "name": "張峻",
-     "votes": 58550,
-     "pct": 37.44,
+     "votes": 58788,
+     "pct": 37.5,
      "elected": false
     },
     {
      "name": "游淑貞",
      "votes": 59114,
-     "pct": 37.8,
-     "elected": false
+     "pct": 37.7,
+     "elected": true
     }
    ]
   },
