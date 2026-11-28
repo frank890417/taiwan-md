@@ -178,7 +178,7 @@ const boot = {
   cecRef: CEC_REF,
   closeAt: '2026-11-28T16:00:00+08:00',
   staleMin: 25,
-  pollMs: 120000,
+  pollMs: 75000,
 };
 ---
 
@@ -212,6 +212,9 @@ const boot = {
             <dd data-lb-stations>—</dd>
           </div>
         </dl>
+        <div class="lb-total" data-lb-total hidden aria-hidden="true">
+          <span data-lb-total-fill></span>
+        </div>
         <p class="lb-links">
           <a
             href={CEC_LOCAL}
@@ -516,7 +519,7 @@ const boot = {
           ? `<p class="lb-card-prog"><span class="lb-prog-track"><span class="lb-prog-fill" style="width:${Math.min(100, (v.reported / v.total) * 100).toFixed(1)}%"></span></span><span class="lb-prog-text">${esc(fill(C.reported, { a: num(v.reported), b: num(v.total) }))}</span></p>`
           : '';
       const margin =
-        v.leader && v.second
+        v.leader && v.second && !v.early
           ? `<span class="lb-margin">${esc(fill(C.margin, { n: num((v.leader.votes || 0) - (v.second.votes || 0)) }))}</span>`
           : '';
       const rowHtml = (c: Cand) => {
@@ -581,9 +584,11 @@ const boot = {
         if (!a || !path) return;
         path.setAttribute('data-party', head ? partyKey(head.party) : 'none');
         path.toggleAttribute('data-early', !!v.early);
-        root!
-          .querySelector(`[data-lb-chip="${CSS.escape(v.race.area)}"]`)
-          ?.setAttribute('data-party', head ? partyKey(head.party) : 'none');
+        const chip = root!.querySelector(
+          `[data-lb-chip="${CSS.escape(v.race.area)}"]`,
+        );
+        chip?.setAttribute('data-party', head ? partyKey(head.party) : 'none');
+        chip?.toggleAttribute('data-early', !!v.early);
         const text = head
           ? `${v.winner ? C.elected : v.early ? C.early : C.leading} ${head.name} · ${head.partyLabel || head.party} · ${(head.pct || 0).toFixed(1)}%`
           : C.noData;
@@ -807,6 +812,11 @@ const boot = {
           typeof st.total === 'number' &&
           st.total > 0;
         if (sw) sw.hidden = !ok;
+        const tb = $('[data-lb-total]');
+        const tf = $('[data-lb-total-fill]');
+        if (tb) tb.hidden = !ok;
+        if (tf && ok)
+          tf.style.width = `${Math.max(0.6, (st.reported / st.total) * 100).toFixed(2)}%`;
         if (s && ok)
           s.textContent = `${num(st.reported)} / ${num(st.total)}（${((st.reported / st.total) * 100).toFixed(st.reported / st.total < 0.01 ? 2 : 1)}%）`;
       }
@@ -835,12 +845,40 @@ const boot = {
       renderFeed();
     }
 
-    async function getJson(name: string) {
-      const res = await fetch(
-        `${B.dataBase}${name}?t=${Math.floor(Date.now() / 60000)}`,
-        {
+    // 資料分支的檔案走 raw.githubusercontent.com，分支網址固定快取五分鐘，查詢字串也繞不過。
+    // 所以先問 GitHub API 目前最新的提交碼（快取一分鐘、允許跨網域），再用「提交碼網址」取檔：
+    // 提交碼網址的內容不會變，沒有舊快取的問題。API 匿名額度是每個 IP 每小時 60 次，
+    // 這裡最多每 70 秒問一次；問不到（超過額度、斷線）就退回分支網址，只是會慢幾分鐘。
+    const SHA_API =
+      'https://api.github.com/repos/frank890417/taiwan-md/commits/election-live';
+    const RAW_ROOT = 'https://raw.githubusercontent.com/frank890417/taiwan-md/';
+    let shaBase = '';
+    let shaAskedAt = 0;
+    async function dataBase() {
+      if (!B.dataBase.startsWith('https://raw.githubusercontent.com/'))
+        return B.dataBase; // 本機假資料
+      const now = Date.now();
+      if (now - shaAskedAt < 70000) return shaBase || B.dataBase;
+      shaAskedAt = now;
+      try {
+        const r = await fetch(SHA_API, {
+          headers: { Accept: 'application/vnd.github.sha' },
           cache: 'no-store',
-        },
+        });
+        const t = r.ok ? (await r.text()).trim() : '';
+        shaBase = /^[0-9a-f]{40}$/.test(t) ? `${RAW_ROOT}${t}/` : '';
+      } catch {
+        shaBase = '';
+      }
+      return shaBase || B.dataBase;
+    }
+    async function getJson(name: string, base: string) {
+      const pinned = base !== B.dataBase;
+      const res = await fetch(
+        pinned
+          ? `${base}${name}`
+          : `${base}${name}?t=${Math.floor(Date.now() / 60000)}`,
+        pinned ? {} : { cache: 'no-store' },
       );
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       return res.json();
@@ -848,14 +886,15 @@ const boot = {
     async function refresh() {
       // 16:00 前不抓票數檔，殼上不會出現任何數字
       const closed = Date.now() >= Date.parse(B.closeAt);
+      const base = await dataBase();
       const jobs: Promise<void>[] = [
-        getJson('feed.json')
+        getJson('feed.json', base)
           .then((j) => void (feed = j))
           .catch(() => {}),
       ];
       if (closed)
         jobs.push(
-          getJson('results.json')
+          getJson('results.json', base)
             .then((j) => {
               results = j;
               resultsFailed = false;
@@ -1058,6 +1097,23 @@ const boot = {
     font-size: 17px;
     font-weight: 700;
     font-variant-numeric: tabular-nums;
+  }
+  .lb-total {
+    height: 6px;
+    margin-top: 10px;
+    border-radius: 3px;
+    background: var(--el-rule);
+    overflow: hidden;
+  }
+  .lb-total > span {
+    display: block;
+    height: 100%;
+    border-radius: 3px;
+    background: var(--el-accent);
+    transition: width 0.6s ease;
+  }
+  .lb-chip-link[data-early] .lb-chip {
+    opacity: 0.4;
   }
   .lb-links {
     margin: 12px 0 0;

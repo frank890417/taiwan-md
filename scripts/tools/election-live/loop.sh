@@ -11,7 +11,7 @@
 set -u
 HERE="$(cd "$(dirname "$0")" && pwd)"
 LIVE_DIR="${LIVE_DIR:-$HOME/.taiwanmd-election-live}"
-INTERVAL="${INTERVAL:-180}"
+INTERVAL="${INTERVAL:-60}"
 PY="${PY:-python3}"
 cd "$LIVE_DIR" || { echo "no $LIVE_DIR"; exit 1; }
 while [ ! -f "$LIVE_DIR/.stop" ]; do
