@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "fetchedAt": "2026-11-28T20:52:03+08:00",
+ "fetchedAt": "2026-11-28T20:53:17+08:00",
  "sourceName": "Yahoo新聞",
  "sourceUrl": "https://tw.news.yahoo.com/topic/2026-election/",
  "note": "媒體自行計票，非中選會官方數字",
@@ -57,35 +57,35 @@
    ]
   },
   "苗栗縣": {
-   "updatedAt": "2026-11-28T18:27:01+08:00",
+   "updatedAt": "2026-11-28T20:52:12+08:00",
    "candidates": [
     {
      "name": "陳品安",
-     "votes": 92603,
-     "pct": 37.73,
+     "votes": 93992,
+     "pct": 37.47,
      "elected": false
     },
     {
      "name": "鍾東錦",
-     "votes": 152808,
-     "pct": 62.27,
+     "votes": 156301,
+     "pct": 62.31,
      "elected": true
     }
    ]
   },
   "宜蘭縣": {
-   "updatedAt": "2026-11-28T20:42:33+08:00",
+   "updatedAt": "2026-11-28T20:52:23+08:00",
    "candidates": [
     {
      "name": "林國漳",
-     "votes": 107694,
-     "pct": 53.68,
+     "votes": 113418,
+     "pct": 53.76,
      "elected": true
     },
     {
      "name": "吳宗憲",
-     "votes": 88960,
-     "pct": 44.34,
+     "votes": 93420,
+     "pct": 44.28,
      "elected": false
     }
    ]
@@ -154,35 +154,35 @@
    ]
   },
   "雲林縣": {
-   "updatedAt": "2026-11-28T20:47:18+08:00",
+   "updatedAt": "2026-11-28T20:52:01+08:00",
    "candidates": [
     {
      "name": "張嘉郡",
-     "votes": 152530,
-     "pct": 49.37,
+     "votes": 155108,
+     "pct": 49.31,
      "elected": false
     },
     {
      "name": "劉建國",
-     "votes": 151356,
-     "pct": 48.99,
+     "votes": 154311,
+     "pct": 49.06,
      "elected": false
     }
    ]
   },
   "南投縣": {
-   "updatedAt": "2026-11-28T20:25:39+08:00",
+   "updatedAt": "2026-11-28T20:51:47+08:00",
    "candidates": [
     {
      "name": "許淑華",
-     "votes": 124214,
-     "pct": 62.96,
+     "votes": 142768,
+     "pct": 62.66,
      "elected": true
     },
     {
      "name": "温世政",
-     "votes": 73083,
-     "pct": 37.04,
+     "votes": 85072,
+     "pct": 37.34,
      "elected": false
     }
    ]
@@ -228,41 +228,41 @@
    ]
   },
   "嘉義市": {
-   "updatedAt": "2026-11-28T20:25:28+08:00",
+   "updatedAt": "2026-11-28T20:51:40+08:00",
    "candidates": [
     {
      "name": "張啓楷",
-     "votes": 55050,
-     "pct": 42.22,
+     "votes": 55364,
+     "pct": 42.25,
      "elected": false
     },
     {
      "name": "王美惠",
-     "votes": 69520,
-     "pct": 53.31,
+     "votes": 69815,
+     "pct": 53.28,
      "elected": true
     }
    ]
   },
   "新竹市": {
-   "updatedAt": "2026-11-28T20:36:11+08:00",
+   "updatedAt": "2026-11-28T20:51:47+08:00",
    "candidates": [
     {
      "name": "高虹安",
-     "votes": 125270,
-     "pct": 57.34,
+     "votes": 126794,
+     "pct": 57.39,
      "elected": true
     },
     {
      "name": "何志勇",
-     "votes": 6251,
+     "votes": 6309,
      "pct": 2.86,
      "elected": false
     },
     {
      "name": "莊競程",
-     "votes": 86966,
-     "pct": 39.8,
+     "votes": 87820,
+     "pct": 39.75,
      "elected": false
     }
    ]
@@ -308,18 +308,18 @@
    ]
   },
   "嘉義縣": {
-   "updatedAt": "2026-11-28T20:09:06+08:00",
+   "updatedAt": "2026-11-28T20:51:59+08:00",
    "candidates": [
     {
      "name": "吳品叡",
-     "votes": 95386,
-     "pct": 44.12,
+     "votes": 105751,
+     "pct": 44.03,
      "elected": false
     },
     {
      "name": "蔡易餘",
-     "votes": 120818,
-     "pct": 55.88,
+     "votes": 134435,
+     "pct": 55.97,
      "elected": true
     }
    ]
