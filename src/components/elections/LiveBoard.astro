@@ -936,7 +936,7 @@ const boot = {
             : v.early
               ? `<span class="lb-tag lb-tag-early">${esc(C.early)}</span>`
               : '';
-        return `<li><a class="lb-dc${v.early ? ' is-early' : ''}${v.winner ? ' is-won' : ''}" href="#lb-race-${esc(v.race.area)}" data-cell="${esc(v.race.area)}" data-lead="${esc(v.hasVotes && top[0] ? top[0].name : '')}" data-party="${head && !v.early ? partyKey(head.party) : 'none'}"><span class="lb-dc-h"><b>${esc(v.race.label)}</b>${tag}${tightTag}<span class="lb-dc-r">${pctOpen === null ? '' : esc(fill(C.openedPct, { p: pctOpen.toFixed(pctOpen < 10 ? 1 : 0) }))}</span></span>${rows}${bar}</a></li>`;
+        return `<li><a class="lb-dc${v.early ? ' is-early' : ''}${v.winner ? ' is-won' : ''}" href="#lb-race-${esc(v.race.area)}" data-cell="${esc(v.race.area)}" data-lead="${esc(v.hasVotes && top[0] ? top[0].name : '')}" data-party="${head && !v.early ? partyKey(head.party) : 'none'}"><span class="lb-dc-h"><b>${esc(v.race.label)}</b>${tag}${tightTag}<span class="lb-dc-r">${pctOpen === null ? '' : esc(fill(C.openedPct, { p: openPct(pctOpen) }))}</span></span>${rows}${bar}</a></li>`;
       });
       // 公投一格
       const r = results?.referendum;
@@ -955,7 +955,7 @@ const boot = {
           ? Math.ceil(r.eligible / 4)
           : null;
       cells.push(
-        `<li class="lb-dc-wide"><a class="lb-dc lb-dc-ref" href="#lb-ref"><span class="lb-dc-h"><b>${esc(C.refTitle)}</b><span class="lb-dc-r">${refOpen === null ? '' : esc(fill(C.openedPct, { p: refOpen.toFixed(refOpen < 10 ? 1 : 0) }))}</span></span><span class="lb-dc-refrow"><span class="is-agree">${esc(C.refAgree)} <b${has ? ` data-n="${pa.toFixed(1)}" data-f="pct" data-k="ref|pa"` : ''}>${has ? pa.toFixed(1) + '%' : '—'}</b> <i${has ? ` data-n="${agree}" data-f="int" data-k="ref|a"` : ''}>${has ? num(agree) : ''}</i></span><span class="is-dis">${esc(C.refDisagree)} <b${has ? ` data-n="${(100 - pa).toFixed(1)}" data-f="pct" data-k="ref|pd"` : ''}>${has ? (100 - pa).toFixed(1) + '%' : '—'}</b> <i${has ? ` data-n="${dis}" data-f="int" data-k="ref|d"` : ''}>${has ? num(dis) : ''}</i></span></span><span class="lb-ref-split" aria-hidden="true"><span class="is-agree" style="width:${has ? pa.toFixed(2) : 50}%"></span><span class="is-dis" style="width:${has ? (100 - pa).toFixed(2) : 50}%"></span></span>${need && has ? `<span class="lb-dc-thresh">${esc(fill(C.refRule2Progress, { a: num(agree), b: num(need) }))}</span>` : ''}</a></li>`,
+        `<li class="lb-dc-wide"><a class="lb-dc lb-dc-ref" href="#lb-ref"><span class="lb-dc-h"><b>${esc(C.refTitle)}</b><span class="lb-dc-r">${refOpen === null ? '' : esc(fill(C.openedPct, { p: openPct(refOpen) }))}</span></span><span class="lb-dc-refrow"><span class="is-agree">${esc(C.refAgree)} <b${has ? ` data-n="${pa.toFixed(1)}" data-f="pct" data-k="ref|pa"` : ''}>${has ? pa.toFixed(1) + '%' : '—'}</b> <i${has ? ` data-n="${agree}" data-f="int" data-k="ref|a"` : ''}>${has ? num(agree) : ''}</i></span><span class="is-dis">${esc(C.refDisagree)} <b${has ? ` data-n="${(100 - pa).toFixed(1)}" data-f="pct" data-k="ref|pd"` : ''}>${has ? (100 - pa).toFixed(1) + '%' : '—'}</b> <i${has ? ` data-n="${dis}" data-f="int" data-k="ref|d"` : ''}>${has ? num(dis) : ''}</i></span></span><span class="lb-ref-split" aria-hidden="true"><span class="is-agree" style="width:${has ? pa.toFixed(2) : 50}%"></span><span class="is-dis" style="width:${has ? (100 - pa).toFixed(2) : 50}%"></span></span>${need && has ? `<span class="lb-dc-thresh">${esc(fill(C.refRule2Progress, { a: num(agree), b: num(need) }))}</span>` : ''}</a></li>`,
       );
       // 動畫第一步：換內容前，記下每一列現在在畫面上的位置，以及每個縣市目前誰排第一
       const before = new Map<string, number>();
@@ -1006,6 +1006,14 @@ const boot = {
         en.dataset.bound = '1';
         en.addEventListener('click', () => en.classList.toggle('is-open'));
       }
+    }
+
+    /** 開票百分比的寫法：還沒開完時最多寫到 99.9，避免四捨五入成 100 讓人以為開完了。 */
+    function openPct(p: number): string {
+      if (p >= 100) return '100';
+      if (p < 10) return p.toFixed(1);
+      if (p >= 99.5) return (Math.floor(p * 10) / 10).toFixed(1);
+      return p.toFixed(0);
     }
 
     /** 議員儀表板：22 縣市各一格，政黨暫時席次的色條與數字；點縣市在下面列出各選舉區。 */
@@ -1074,7 +1082,7 @@ const boot = {
               `<span class="lb-cc" data-party="${k}"><span class="lb-chip" aria-hidden="true"></span>${esc(C.party[k])} <b data-n="${lead[k]}" data-f="int" data-k="${esc('c|' + race.area + '|' + k)}">${lead[k]}</b></span>`,
           )
           .join('');
-        return `<li><a class="lb-dc lb-dc-council${early ? ' is-early' : ''}${councilArea === race.area ? ' is-sel' : ''}" href="#lb-council-detail" data-council="${esc(race.area)}" data-party="${top && !early ? top : 'none'}"><span class="lb-dc-h"><b>${esc(race.label)}</b><span class="lb-dc-seats">${esc(fill(C.seatsN, { n: seats || '—' }))}</span>${won ? `<span class="lb-tag lb-tag-win">${esc(C.elected)} ${won}</span>` : ''}<span class="lb-dc-r">${open === null ? '' : esc(fill(C.openedPct, { p: open.toFixed(open < 10 ? 1 : 0) }))}</span></span><span class="lb-cbar" aria-hidden="true">${bar}</span><span class="lb-ccs">${chips || esc(C.noData)}</span></a></li>`;
+        return `<li><a class="lb-dc lb-dc-council${early ? ' is-early' : ''}${councilArea === race.area ? ' is-sel' : ''}" href="#lb-council-detail" data-council="${esc(race.area)}" data-party="${top && !early ? top : 'none'}"><span class="lb-dc-h"><b>${esc(race.label)}</b><span class="lb-dc-seats">${esc(fill(C.seatsN, { n: seats || '—' }))}</span>${won ? `<span class="lb-tag lb-tag-win">${esc(C.elected)} ${won}</span>` : ''}<span class="lb-dc-r">${open === null ? '' : esc(fill(C.openedPct, { p: openPct(open) }))}</span></span><span class="lb-cbar" aria-hidden="true">${bar}</span><span class="lb-ccs">${chips || esc(C.noData)}</span></a></li>`;
       });
       grid.innerHTML = cells.join('');
       tweenNumbers(grid);
