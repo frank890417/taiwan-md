@@ -1,7 +1,7 @@
 # 2026-11-28-151608-election-day-pr-triage — 選舉日下午整理全部 PR 與 issue：早班判的兩條「指錯頁」其實是對的，黃宏成條目真正錯的是名次
 
 > session election-day-pr-triage — 主 session（開票專區規劃）指派的側 session；哲宇授權「能收就收，候選人條目 16:00 投票結束後才合」
-> Session span: 14:58 → 16:16 +0800（約 78 分鐘；本班 9 個 commit／合併，含兩筆推進投稿者分支的修補）
+> Session span: 14:58 → 16:16，18:29 → 18:48 +0800（兩段；本班 9 個 commit／合併，含兩筆推進投稿者分支的修補）
 > 資料來源：`git log %ai`
 
 ✅ BECOME ack: mode=Review→**升 Full**（ready PR 6 ≥ 5）/ 甦醒檔整份讀到 `wake:END`（11 段，selftest 全綠）/ 8 organ 最低=🛡️免疫 59 / Q13 anti-bias=PASS / Q14 continuity=PASS。補載：MAINTAINER-PIPELINE 全檔、早班 maintainer memory 全檔、OBSERVER-QUEUE #129／#132／#133、MEMORY-PIPELINE 全檔。ANATOMY／DNA／LONGINGS／UNKNOWNS／HEARTBEAT 沒補載，時間壓在 16:00 前，而這幾份跟本班的 PR 判斷不相交，照實記在這裡。
@@ -26,6 +26,18 @@
 
 15:11–15:15 四筆推送（#2083 heal、#2085 合併、#2033 合併、佇列 #129）都落在主 session 15:10 推開票專區之後，各觸發一次 deploy，主 session 回報開票專區部署被取消三次。主 session 隨即要求 15:58 前完全不推、之後一次連續合完、批次之間隔 15 分鐘。brief 只寫了不要碰選舉檔，沒寫部署窗口。我也沒有在第一次 push 前問「main 上有沒有一次不能被取消的部署正在跑」。全站 deploy 閘門只允許一個進行中的部署，所以任何 push 都在跟別人搶同一條產線。
 
+## 晚上 18:29 哲宇拍板後的第二段
+
+哲宇回來看完留給他的清單，選了三個 A，並把讀者勘誤通知交給我發。
+
+佇列 #133 選 A：#2088〈王妃天崩開局穿越整頓霸凌者佀廣洋〉照 #104 五條收。合併前把 12 條腳註全部重抓，全部活著且切題；佀廣洋 7 月致歉與 10 月 29 日搜索交保兩段，對中央社與 NOWnews 原頁逐字對上。只補了 `curation: incubating`（`f6e364d591`，推進投稿者分支）。拍板的判準一起寫進 MAINTAINER-PIPELINE 人物門檻：當事人有司法案件還在進行時，照「自述／檢方指控／法院判決」分層寫法收，不另等結案。佇列 #132 選 A：#2078 維持保留，政治人物 description 由哲宇逐篇定調。兩條都移進 §已決（`05414c94c1`）。
+
+#2036 選 A，只收中文 33 篇加圖。原 PR 的歷史分得乾淨，在新分支上照原順序 cherry-pick，跳過十二語同步的 `b908892bad`、`55e4f6f603`；報告那筆已隨 #2033 進 main，是空 pick。`package.json` 的 `test:contracts` 兩邊各加一支測試，取聯集。472 檔縮成 78 檔、零譯文。這批會動到文章模板的封面去重，所以先跑兩支自帶測試（node 4 過、pytest 5 過）、33 篇 ci-deploy 全部 hard=0、`npm run sync:build` 20,554 頁零錯誤，並確認〈台灣手語〉的封面在頁面上只出現一次。分支用 `--force-with-lease` 推回 PR head，讓這個 PR 仍以 MERGED 收尾。譯文的封面欄位交給巴別塔 Tier 0b 同步。
+
+勘誤通知：站上回報只存 display_name，沒有寄回讀者的管道，所以照 CORRECTION-PIPELINE §4.1 的【勘誤通知】格式，分別貼在 #2092（史溫侯）、#2082（嘉義市）、#2083（清治時期，英文）。讀者本人會不會看到，取決於他們回不回來看 issue。
+
+合併窗口這次先問了。第一次把訊息送錯 session（開票夜消息台只推 `election-live`，不碰 main），再改問主 session，拿到 18:48–19:05 的窗口才動。
+
 ## 收官 checklist
 
 | 檢查項                             | 狀態                                                 |
@@ -46,13 +58,15 @@ Quality gate（MAINTAINER Step 4.1）：open issue 都有 label 或 assignee ✅
 - [x] ~~pending（席位 maintainer 下一輪）PR #2087 等投稿者補票數出處~~ retired by 本班：中選會資料檔與公視逐字對過，名次與 2016 得票率改正後合併。
 - [x] ~~pending（席位 maintainer 下一輪）PR #2085 等投稿者修三處指錯頁腳註~~ retired by 本班：41 條全讀，兩條是早班抓錯頁，一條改句後合併。
 - [x] ~~pending（席位 maintainer 下一輪）issue #2082 兩處未修、#2083 defer~~ retired by 本班：兩則都修掉並 close。
-- ⏳ blocked（席位：哲宇）`OBSERVER-QUEUE #133（待決）` PR #2088、`#132（待決）` PR #2078、`#130（待決）` issue #2011、`#95（待決，發佈已拍板但 workflow PUT 404 未解）` issue #1789、`#116（待決）` issue #1861、issue #2091（mouhouse 12-02 前重新登入）。延續，本班沒碰。
+- [x] ~~#2088／#2078 等佇列 #133／#132~~ retired：哲宇 11-28 晚兩題都選 A（#133 已決→合併；#132 已決→維持保留）。
+- ⏳ blocked（席位：哲宇）`#130（待決）` issue #2011、`#95（待決，發佈已拍板但 workflow PUT 404 未解）` issue #1789、`#116（待決）` issue #1861、issue #2091（mouhouse 12-02 前重新登入）。延續，本班沒碰。
 - [ ] pending（席位：主 session 或下一個能動選舉檔的班）`src/data/elections-2026.json` 黃宏成補 `article` 欄（#104 第 4 條），本班不碰選舉檔。
 - [ ] pending（席位 `twmd-maintainer-daily` 或 Full mode，16:00 後才可做）#2086〈唐新民〉封面圖從國家文化記憶庫原條目補回（早班交接，延續）。
 
 本 session 新 handoff：
 
-- [ ] pending（席位：哲宇）PR #2036 封面第一批 472 檔、CONFLICTING，選項與推薦寫在回報。
+- [x] ~~pending（席位：哲宇）PR #2036 封面第一批~~ retired：哲宇 11-28 晚選 A，只收中文 33 篇加圖後合併。
+- [ ] pending（席位 `twmd-babel-nightly`）#2036 的 33 篇中文封面欄要同步到十二語譯文（Tier 0b passthrough），同步後抽看一兩語的文章卡片圖。
 - [ ] pending（席位 `twmd-babel-nightly`）〈清治時期〉〈嘉義市〉〈黃宏成〉zh 改動後十二語轉 stale，重譯後抽驗 en 以外語言的那幾句。
 
 ## Beat 5 — 反芻
