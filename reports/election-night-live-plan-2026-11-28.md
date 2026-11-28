@@ -320,3 +320,7 @@ scripts/tools/election-live/loop.sh            每 180 秒跑一輪並 push 到 
 - 已上線到 `42565d5e49`（自己判定當選）；本輪的「千分之三」標籤已提交並推送（見 git log）。
 - **進行中**：一個設計用子代理正在重新設計下半部四節（名冊、讀懂選舉、查證工具、時程），它只改 `src/templates/elections-2026.template.astro` 與 `src/styles/elections.css` 的工作區、不提交。它回報後要做的事：用瀏覽器看桌機與手機、zh-TW／en／ar、淺色與深色；跑 `node scripts/tools/check-template-language.mjs`、`bash scripts/tools/check-rtl-safe-css.sh --ci`、選舉兩支測試；確認開票專區沒被動到、`#how-to-vote`／`.el-state`／`.el-doors` 若改名要同步改 `LiveBoard.astro` 檔尾的 `:has()` 規則；都過了才 `git add` 那兩個檔、提交、推送。**在那之前，主 session 提交時只 add 自己的檔。**
 - 收尾清單見本檔最上面「還沒做完的事」第 3、4 點；第 1 點（當選標記）已有答案：中選會計票頁不標，改由本頁判定。
+
+### 20:58 哲宇：數學上已經贏的也標當選
+
+中選會的縣市長頁只有票所數，沒有剩下票所的選舉人數，沒辦法算出嚴格的上限。用一個保守、講得清楚的算法：某縣市已開過半，而且領先票數大於「剩下票所數 × 已開票所平均票數 × 4」（假設剩下每一所的票是平均的四倍、全部投給第二名），就標當選。說明寫在儀表板上方那行（十三語）。這個門檻很保守：21:00 本機實測，除了四個已開完的縣市，只有桃園（99%）與新竹市（99%）符合；臺北開到九成多、領先八個百分點仍不算。要放寬就改 `LiveBoard.astro` 的 `* 4`，並同步改十三語 `clinchNote` 裡的「四倍」。

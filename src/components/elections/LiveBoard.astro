@@ -311,6 +311,7 @@ const boot = {
       <p class="lb-status-hint lb-elected-note" data-lb-elected-note hidden>
         {copy.electedNote}
         {copy.recountNote}
+        {copy.clinchNote}
       </p>
       <div class="lb-dbody">
         <figure class="lb-map">
@@ -688,8 +689,23 @@ const boot = {
         typeof r?.total === 'number' &&
         r.total > 0 &&
         r.reported >= r.total;
+      // 2026-11-28 20:58 哲宇：數學上已經贏的也標當選。中選會這一頁只有票所數、沒有剩下票所的選舉人數，
+      // 所以用保守的上限：剩下每一所的票數算成已開票所平均的四倍，全部投給第二名，仍追不上才算。
+      const sumVotes = cands.reduce((acc, c) => acc + (c.votes || 0), 0);
+      const clinched =
+        hasVotes &&
+        !complete &&
+        typeof r?.reported === 'number' &&
+        typeof r?.total === 'number' &&
+        r.reported > 0 &&
+        r.total > r.reported &&
+        r.reported / r.total >= 0.5 &&
+        cands.length > 1 &&
+        (cands[0].votes || 0) - (cands[1].votes || 0) >
+          (r.total - r.reported) * (sumVotes / r.reported) * 4;
       const winner =
-        cands.find((c) => c.elected) || (complete ? cands[0] : null);
+        cands.find((c) => c.elected) ||
+        (complete || clinched ? cands[0] : null);
       if (winner) winner.elected = true;
       // 回報不到 5% 投開票所：只開了幾所，領先者還不能代表這個縣市
       const early =
