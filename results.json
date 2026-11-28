@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "phase": "counting",
- "updatedAt": "2026-11-28T22:34:54+08:00",
+ "updatedAt": "2026-11-28T22:36:05+08:00",
  "sourceName": "中央選舉委員會計票資訊查詢網站",
  "sourceUrl": "https://vote.cec.gov.tw/2026-local/zh-TW/indexP.html",
  "stations": {
-  "reported": 18214,
+  "reported": 18216,
   "total": 18248
  },
  "mayors": {
@@ -336,31 +336,31 @@
    ]
   },
   "新竹縣": {
-   "reported": 472,
+   "reported": 473,
    "total": 492,
    "candidates": [
     {
      "number": 1,
      "name": "鄭朝方",
      "party": "民主進步黨",
-     "votes": 164860,
-     "pct": 56.9,
+     "votes": 165442,
+     "pct": 56.94,
      "elected": false
     },
     {
      "number": 2,
      "name": "徐欣瑩",
      "party": "中國國民黨",
-     "votes": 118307,
-     "pct": 40.83,
+     "votes": 118549,
+     "pct": 40.8,
      "elected": false
     },
     {
      "number": 3,
      "name": "朱定瑀",
      "party": "無黨籍",
-     "votes": 6563,
-     "pct": 2.27,
+     "votes": 6580,
+     "pct": 2.26,
      "elected": false
     }
    ]
@@ -388,22 +388,22 @@
    ]
   },
   "彰化縣": {
-   "reported": 1077,
+   "reported": 1078,
    "total": 1087,
    "candidates": [
     {
      "number": 1,
      "name": "陳素月",
      "party": "民主進步黨",
-     "votes": 298417,
-     "pct": 46.32,
+     "votes": 298721,
+     "pct": 46.31,
      "elected": false
     },
     {
      "number": 2,
      "name": "魏平政",
      "party": "中國國民黨",
-     "votes": 263020,
+     "votes": 263301,
      "pct": 40.82,
      "elected": false
     },
@@ -411,15 +411,15 @@
      "number": 3,
      "name": "邱建富",
      "party": "無黨籍",
-     "votes": 74163,
-     "pct": 11.51,
+     "votes": 74321,
+     "pct": 11.52,
      "elected": false
     },
     {
      "number": 4,
      "name": "陳重嘉",
      "party": "無黨籍",
-     "votes": 8711,
+     "votes": 8721,
      "pct": 1.35,
      "elected": false
     }
