@@ -281,6 +281,22 @@ const boot = {
             <span data-lb-total-fill></span>
           </div>
         </div>
+        <div class="lb-tabs" role="tablist" data-lb-tabs>
+          <button
+            type="button"
+            role="tab"
+            class="lb-tab is-on"
+            data-lb-tab="mayor"
+            aria-selected="true">{copy.tabMayor}</button
+          >
+          <button
+            type="button"
+            role="tab"
+            class="lb-tab"
+            data-lb-tab="council"
+            aria-selected="false">{copy.tabCouncil}</button
+          >
+        </div>
         <ul class="lb-dtally" data-lb-dtally aria-label={copy.scoreTitle}></ul>
         <p class="lb-links">
           <a
@@ -357,6 +373,18 @@ const boot = {
         </figure>
         <ol class="lb-dgrid" data-lb-dgrid></ol>
       </div>
+      <!-- 新聞輪播列：一次一則，每六秒換一則；有新消息時跳到那一則並亮一下 -->
+      <a class="lb-ticker" data-lb-ticker href="#lb-feed" hidden>
+        <span class="lb-ticker-tag">{copy.latest}</span>
+        <span class="lb-ticker-body" data-lb-ticker-body aria-live="off"></span>
+      </a>
+    </div>
+
+    <!-- 議員：選了縣市之後，這裡列出各選舉區 -->
+    <div class="lb-cdetail" id="lb-council-detail" data-lb-cdetail hidden>
+      <h3 class="lb-h3" data-lb-cdetail-title></h3>
+      <p class="lb-note">{copy.councilNote}</p>
+      <div class="lb-cdistricts" data-lb-cdistricts></div>
     </div>
 
     <p class="lb-alert" data-lb-alert hidden></p>
@@ -464,7 +492,7 @@ const boot = {
     </div>
 
     <!-- 消息＋查核 -->
-    <div class="lb-feed-grid">
+    <div class="lb-feed-grid" id="lb-feed">
       <div class="lb-feed">
         <h3 class="lb-h3">{copy.feedTitle}</h3>
         <p class="lb-note">{copy.feedLead}</p>
@@ -484,6 +512,10 @@ const boot = {
     <details class="lb-method">
       <summary>{copy.methodTitle}</summary>
       <p>{copy.method}</p>
+      <p class="lb-credits-title" data-lb-credits-title hidden>
+        {copy.photoCredit}
+      </p>
+      <ul class="lb-credits" data-lb-credits></ul>
     </details>
   </div>
 
@@ -567,6 +599,9 @@ const boot = {
     let results: any = null;
     let feed: any = null;
     let media: any = null;
+    let council: any = null;
+    let tab: 'mayor' | 'council' = 'mayor';
+    let councilArea = '';
     let avatars: any = null;
     let avatarBase = '';
     /**
@@ -834,6 +869,9 @@ const boot = {
 
     /** 儀表板：22 縣市各一格（前兩名）＋公投一格＋各黨領先數。只用中選會官方數字。 */
     function renderDash() {
+      if (tab === 'council') return renderCouncil();
+      const cd = $('[data-lb-cdetail]');
+      if (cd) cd.hidden = true;
       const grid = $('[data-lb-dgrid]');
       if (!grid) return;
       const views = B.races.map(raceView);
@@ -924,6 +962,205 @@ const boot = {
             ? `<li class="is-won">${esc(C.elected)} <b>${won}</b></li>`
             : '');
     }
+
+    /** 議員儀表板：22 縣市各一格，政黨暫時席次的色條與數字；點縣市在下面列出各選舉區。 */
+    const ORDER = ['kmt', 'dpp', 'tpp', 'ind', 'other'];
+    function seatsByKey(obj: any) {
+      const n: Record<string, number> = {};
+      Object.entries(obj || {}).forEach(([p, v]) => {
+        const k = partyKey(p);
+        n[k] = (n[k] || 0) + (Number(v) || 0);
+      });
+      return n;
+    }
+    function renderCouncil() {
+      const grid = $('[data-lb-dgrid]');
+      if (!grid) return;
+      const nat: Record<string, number> = {};
+      let natWon = 0;
+      const cells = B.races.map((race: any) => {
+        const c = council?.counties?.[race.area];
+        const seats = c?.seats || 0;
+        const lead = seatsByKey(c?.leading);
+        const won = Object.values(c?.elected || {}).reduce(
+          (a: number, v: any) => a + (Number(v) || 0),
+          0,
+        ) as number;
+        natWon += won;
+        ORDER.forEach((k) => (nat[k] = (nat[k] || 0) + (lead[k] || 0)));
+        const top = ORDER.filter((k) => lead[k]).sort(
+          (a, b) => lead[b] - lead[a],
+        )[0];
+        const open =
+          typeof c?.reported === 'number' &&
+          typeof c?.total === 'number' &&
+          c.total > 0
+            ? (c.reported / c.total) * 100
+            : null;
+        const early = open !== null && open < 5;
+        // 地圖
+        const path = root!.querySelector(
+          `[data-lb-map="${CSS.escape(race.area)}"] path`,
+        );
+        path?.setAttribute('data-party', top && !early ? top : 'none');
+        path?.toggleAttribute('data-early', false);
+        path?.toggleAttribute('data-media', false);
+        const lab = root!.querySelector(
+          `[data-lb-map-pct="${CSS.escape(race.area)}"]`,
+        );
+        if (lab) lab.textContent = top ? String(lead[top]) : '';
+        const bar = ORDER.filter((k) => lead[k])
+          .map((k) => `<i data-party="${k}" style="flex:${lead[k]}"></i>`)
+          .join('');
+        const chips = ORDER.filter((k) => lead[k])
+          .map(
+            (k) =>
+              `<span class="lb-cc" data-party="${k}"><span class="lb-chip" aria-hidden="true"></span>${esc(C.party[k])} <b data-n="${lead[k]}" data-f="int" data-k="${esc('c|' + race.area + '|' + k)}">${lead[k]}</b></span>`,
+          )
+          .join('');
+        return `<li><a class="lb-dc lb-dc-council${early ? ' is-early' : ''}${councilArea === race.area ? ' is-sel' : ''}" href="#lb-council-detail" data-council="${esc(race.area)}" data-party="${top && !early ? top : 'none'}"><span class="lb-dc-h"><b>${esc(race.label)}</b><span class="lb-dc-seats">${esc(fill(C.seatsN, { n: seats || '—' }))}</span>${won ? `<span class="lb-tag lb-tag-win">${esc(C.elected)} ${won}</span>` : ''}<span class="lb-dc-r">${open === null ? '' : esc(fill(C.openedPct, { p: open.toFixed(open < 10 ? 1 : 0) }))}</span></span><span class="lb-cbar" aria-hidden="true">${bar}</span><span class="lb-ccs">${chips || esc(C.noData)}</span></a></li>`;
+      });
+      grid.innerHTML = cells.join('');
+      tweenNumbers(grid);
+      const tally = $('[data-lb-dtally]');
+      if (tally)
+        tally.innerHTML =
+          ORDER.filter((k) => nat[k])
+            .map(
+              (k) =>
+                `<li data-party="${k}"><span class="lb-chip" aria-hidden="true"></span>${esc(C.party[k])} <b data-n="${nat[k]}" data-f="int" data-k="cn|${k}">${nat[k]}</b></li>`,
+            )
+            .join('') +
+          `<li class="lb-dtally-of">/ ${num(council?.totalSeats || 919)}</li>` +
+          (natWon
+            ? `<li class="is-won">${esc(C.elected)} <b>${natWon}</b></li>`
+            : '');
+      if (tally) tweenNumbers(tally);
+      renderCouncilDetail();
+    }
+    function renderCouncilDetail() {
+      const box = $('[data-lb-cdetail]');
+      const list = $('[data-lb-cdistricts]');
+      const title = $('[data-lb-cdetail-title]');
+      if (!box || !list || !title) return;
+      const race = B.races.find((r: any) => r.area === councilArea);
+      const c = council?.counties?.[councilArea];
+      box.hidden = tab !== 'council' || !race || !c;
+      if (box.hidden) return;
+      title.textContent = fill(C.districtTitle, { area: race.label });
+      list.innerHTML = (c.districts || [])
+        .map((d: any) => {
+          const rows = (d.candidates || [])
+            .filter((x: any) => x.inTop || x.elected)
+            .map(
+              (x: any) =>
+                `<li data-party="${partyKey(x.party)}"><span class="lb-chip" aria-hidden="true"></span><span class="lb-cd-n">${esc(x.name)}${x.elected ? ` <span class="lb-tag lb-tag-win">${esc(C.elected)}</span>` : ''}</span><span class="lb-cd-p">${esc(x.party)}</span><span class="lb-cd-v">${num(x.votes)}</span></li>`,
+            )
+            .join('');
+          const rest = (d.candidates || []).filter(
+            (x: any) => !x.inTop && !x.elected,
+          );
+          const restRows = rest
+            .map(
+              (x: any) =>
+                `<li data-party="${partyKey(x.party)}"><span class="lb-chip" aria-hidden="true"></span><span class="lb-cd-n">${esc(x.name)}</span><span class="lb-cd-p">${esc(x.party)}</span><span class="lb-cd-v">${num(x.votes)}</span></li>`,
+            )
+            .join('');
+          const prog =
+            typeof d.reported === 'number' &&
+            typeof d.total === 'number' &&
+            d.total > 0
+              ? esc(fill(C.reported, { a: num(d.reported), b: num(d.total) }))
+              : '';
+          return `<section class="lb-cd"><h4>${esc(d.name)} <span>${esc(fill(C.seatsShort, { n: d.seats }))}</span><span class="lb-cd-prog">${prog}</span></h4><ol>${rows}</ol>${rest.length ? `<details class="lb-more"><summary>${esc(fill(C.more, { n: rest.length }))}</summary><ol>${restRows}</ol></details>` : ''}</section>`;
+        })
+        .join('');
+    }
+
+    function renderCredits() {
+      const ul = $('[data-lb-credits]');
+      const tt = $('[data-lb-credits-title]');
+      const ppl = avatars?.people || {};
+      const names = Object.keys(ppl);
+      if (!ul || !tt) return;
+      tt.hidden = names.length === 0;
+      ul.innerHTML = names
+        .map((n) => {
+          const a = ppl[n] || {};
+          const u = safeUrl(a.source);
+          const who = String(a.author || '')
+            .replace(/<[^>]*>/g, '')
+            .slice(0, 60);
+          return `<li>${esc(n)} · ${esc(a.license || '')}${who ? ' · ' + esc(who) : ''}${u ? ` · <a href="${esc(u)}" class="no-external-icon" target="_blank" rel="noopener noreferrer">${esc(C.source)} ↗</a>` : ''}</li>`;
+        })
+        .join('');
+    }
+
+    // ── 新聞輪播列 ──
+    let tickIdx = 0;
+    let tickIds: string[] = [];
+    function tickerItems() {
+      const list = Array.isArray(feed?.items) ? feed.items.slice() : [];
+      list.sort((a: any, b: any) =>
+        String(b.time).localeCompare(String(a.time)),
+      );
+      return list.slice(0, 12);
+    }
+    function showTick(flash = false) {
+      const el = $('[data-lb-ticker]');
+      const body = $('[data-lb-ticker-body]');
+      const list = tickerItems();
+      if (!el || !body) return;
+      el.hidden = list.length === 0;
+      if (!list.length) return;
+      const it = list[tickIdx % list.length];
+      body.innerHTML = `<time>${esc(timeFmt(it.time))}</time><span class="lb-badge" data-kind="${esc(it.kind)}">${esc(C.kind[it.kind] || '')}</span><span class="lb-ticker-title">${esc(it.title)}</span>`;
+      if (!REDUCE) {
+        body.classList.remove('is-in');
+        void (body as HTMLElement).offsetWidth;
+        body.classList.add('is-in');
+        if (flash) {
+          el.classList.add('is-new');
+          setTimeout(() => el.classList.remove('is-new'), 2400);
+        }
+      }
+    }
+    function syncTicker() {
+      const ids = tickerItems().map((i: any) => String(i.id));
+      const fresh =
+        tickIds.length > 0 && ids.length > 0 && !tickIds.includes(ids[0]);
+      tickIds = ids;
+      if (fresh) tickIdx = 0;
+      showTick(fresh);
+    }
+    setInterval(() => {
+      if (document.hidden) return;
+      tickIdx++;
+      showTick();
+    }, 6000);
+
+    // ── 分頁與議員縣市選擇 ──
+    root.querySelector('[data-lb-tabs]')?.addEventListener('click', (e) => {
+      const b = (e.target as HTMLElement).closest<HTMLElement>('[data-lb-tab]');
+      if (!b) return;
+      tab = b.dataset.lbTab === 'council' ? 'council' : 'mayor';
+      root.setAttribute('data-lb-tab-on', tab);
+      root.querySelectorAll<HTMLElement>('[data-lb-tab]').forEach((x) => {
+        const on = x === b;
+        x.classList.toggle('is-on', on);
+        x.setAttribute('aria-selected', String(on));
+      });
+      renderAll();
+      if (tab === 'council' && !council) refresh(true);
+    });
+    root.querySelector('[data-lb-dgrid]')?.addEventListener('click', (e) => {
+      const a = (e.target as HTMLElement).closest<HTMLElement>(
+        '[data-council]',
+      );
+      if (!a) return;
+      councilArea = a.dataset.council || '';
+      renderCouncil();
+    });
 
     /** 每個縣市取「目前最好的來源」：官方追上了用官方，否則用媒體計票；都沒有就是空。 */
     function bestView(race: any) {
@@ -1035,6 +1272,7 @@ const boot = {
           .map(cardHtml)
           .join('');
       }
+      if (tab === 'council') return;
       // 地圖：中選會還在開票初期（或沒資料）的縣市，先用媒體計票上色並在圖說標明
       let usedMedia = false;
       views.forEach((v: any) => {
@@ -1329,6 +1567,8 @@ const boot = {
       renderRaces();
       renderRef();
       renderFeed();
+      renderCredits();
+      syncTicker();
     }
 
     // 資料分支的檔案走 raw.githubusercontent.com，分支網址固定快取五分鐘，查詢字串也繞不過。
@@ -1369,9 +1609,9 @@ const boot = {
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       return res.json();
     }
-    async function refresh() {
+    async function refresh(force?: unknown) {
       // 背景分頁不抓：掛著不看的分頁會吃掉同一個 IP 的 API 額度；回到前景時 visibilitychange 會補抓
-      if (document.hidden) return;
+      if (document.hidden && force !== true) return;
       // 16:00 前不抓票數檔，殼上不會出現任何數字
       const closed = Date.now() >= Date.parse(B.closeAt);
       const base = await dataBase();
@@ -1388,6 +1628,12 @@ const boot = {
           })
           .catch(() => {}),
       );
+      if (closed && tab === 'council')
+        jobs.push(
+          getJson('council.json', base)
+            .then((j) => void (council = j))
+            .catch(() => {}),
+        );
       if (closed)
         jobs.push(
           getJson('media.json', base)
@@ -2857,5 +3103,318 @@ const boot = {
   }
   .lb-grid-solo {
     grid-template-columns: minmax(0, 1fr) !important;
+  }
+
+  /* ── 分頁 ── */
+  .lb-tabs {
+    display: inline-flex;
+    padding: 3px;
+    border: 1px solid var(--el-border-strong);
+    border-radius: 999px;
+    background: var(--el-card);
+  }
+  .lb .lb-tab {
+    padding: 5px 16px;
+    border: 0;
+    border-radius: 999px;
+    background: none;
+    color: var(--el-ink-2);
+    font: inherit;
+    font-size: 14.5px;
+    font-weight: 700;
+    cursor: pointer;
+  }
+  .lb .lb-tab.is-on {
+    background: var(--el-ink);
+    color: #100e0c;
+  }
+  .lb-dtally-of {
+    border: 0 !important;
+    padding-inline: 2px !important;
+    color: var(--el-ink-3);
+  }
+  /* ── 議員格 ── */
+  .lb-dc-seats {
+    font-size: 12px;
+    color: var(--el-ink-2);
+    white-space: nowrap;
+  }
+  .lb-cbar {
+    display: flex;
+    gap: 1px;
+    height: 12px;
+    border-radius: 4px;
+    overflow: hidden;
+    background: var(--el-rule);
+  }
+  .lb-cbar i {
+    display: block;
+    background: var(--p);
+    min-width: 2px;
+    transition: flex 0.6s ease;
+  }
+  .lb-ccs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2px 9px;
+    font-size: 12.5px;
+    color: var(--el-ink-2);
+    line-height: 1.25;
+  }
+  .lb-cc {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    white-space: nowrap;
+  }
+  .lb-cc b {
+    color: var(--el-ink);
+    font-size: 14.5px;
+    font-variant-numeric: tabular-nums;
+  }
+  .lb .lb-dc.is-sel {
+    border-color: var(--el-ink);
+    border-top-color: var(--p);
+  }
+  .lb[data-lb-tab-on='council'] .lb-map-pct {
+    font-size: 15px;
+  }
+  .lb-cdetail {
+    margin-bottom: 28px;
+    padding: 18px;
+    background: var(--el-card);
+    border: 1px solid var(--el-border);
+    border-radius: 14px;
+    scroll-margin-top: 110px;
+  }
+  .lb-cdistricts {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 12px;
+    margin-top: 12px;
+  }
+  .lb-cd {
+    padding: 10px 12px;
+    border: 1px solid var(--el-border);
+    border-radius: 10px;
+  }
+  .lb-cd h4 {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 6px;
+    margin: 0 0 8px;
+    font-family: var(--el-serif);
+    font-size: 15.5px;
+  }
+  .lb-cd h4 span {
+    font-family: var(--el-sans);
+    font-size: 12px;
+    font-weight: 400;
+    color: var(--el-ink-3);
+  }
+  .lb-cd-prog {
+    margin-inline-start: auto;
+  }
+  .lb-cd li {
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr) auto auto;
+    align-items: center;
+    gap: 6px;
+    padding: 2px 0;
+    font-size: 13.5px;
+  }
+  .lb-cd-n {
+    font-weight: 600;
+    overflow-wrap: anywhere;
+  }
+  .lb-cd-p {
+    font-size: 11.5px;
+    color: var(--el-ink-3);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 7em;
+  }
+  .lb-cd-v {
+    font-variant-numeric: tabular-nums;
+    color: var(--el-ink-2);
+  }
+  .lb-cd .lb-more li {
+    opacity: 0.72;
+  }
+  /* ── 新聞輪播列 ── */
+  .lb .lb-ticker {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 8px;
+    padding: 7px 12px;
+    min-height: 36px;
+    background: var(--el-card);
+    border: 1px solid var(--el-border-strong);
+    border-radius: 10px;
+    color: var(--el-ink);
+    text-decoration: none;
+    overflow: hidden;
+  }
+  .lb .lb-ticker[hidden] {
+    display: none;
+  }
+  .lb .lb-ticker.is-new {
+    animation: lb-ticker-new 2.4s ease-out;
+  }
+  @keyframes lb-ticker-new {
+    0% {
+      box-shadow: 0 0 0 2px var(--el-accent);
+      background: var(--el-accent-soft);
+    }
+    100% {
+      box-shadow: 0 0 0 0 transparent;
+    }
+  }
+  .lb-ticker-tag {
+    flex: none;
+    padding: 1px 8px;
+    border-radius: 4px;
+    background: var(--el-accent);
+    color: #100e0c;
+    font-size: 12px;
+    font-weight: 800;
+  }
+  .lb-ticker-body {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    min-width: 0;
+    font-size: 14.5px;
+  }
+  .lb-ticker-body.is-in {
+    animation: lb-tick-in 0.45s ease-out;
+  }
+  @keyframes lb-tick-in {
+    from {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+  }
+  .lb-ticker-body time {
+    flex: none;
+    font-size: 12.5px;
+    color: var(--el-ink-3);
+    font-variant-numeric: tabular-nums;
+  }
+  .lb-ticker-body .lb-badge {
+    flex: none;
+  }
+  .lb-ticker-title {
+    min-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-weight: 600;
+  }
+  .lb-credits-title {
+    margin: 14px 0 4px;
+    font-weight: 700;
+  }
+  .lb-credits {
+    columns: 2 260px;
+    font-size: 12px;
+    color: var(--el-ink-3);
+    line-height: 1.6;
+  }
+  /* ── 手機版 ── */
+  @media (max-width: 759px) {
+    .el-surface .lb {
+      padding-top: 14px;
+    }
+    .lb .lb-wrap {
+      padding: 0 12px;
+    }
+    .lb-dtop {
+      gap: 8px;
+    }
+    .lb-dtitle {
+      width: 100%;
+      justify-content: space-between;
+    }
+    .lb-dtop .lb-title {
+      font-size: 28px;
+    }
+    .lb-dstatus {
+      width: 100%;
+      padding: 8px 10px;
+      gap: 4px 12px;
+    }
+    .lb-dstatus .lb-meta {
+      flex: 1;
+      justify-content: flex-end;
+      gap: 12px;
+    }
+    .lb-dstatus .lb-meta dt {
+      display: none;
+    }
+    .lb-tabs {
+      width: 100%;
+    }
+    .lb .lb-tab {
+      flex: 1;
+      padding: 8px 0;
+    }
+    .lb-dtally {
+      flex-wrap: nowrap;
+      overflow-x: auto;
+      width: 100%;
+      padding-bottom: 2px;
+      scrollbar-width: none;
+    }
+    .lb-dtop .lb-links {
+      display: none;
+    }
+    .lb .lb-ticker {
+      order: -1;
+      margin: 0 0 8px;
+    }
+    .lb-dash {
+      display: flex;
+      flex-direction: column;
+    }
+    .lb-dbody .lb-map {
+      padding: 4px;
+    }
+    .lb-dbody .lb-svg {
+      max-height: 42vh;
+    }
+    .lb-map-cap {
+      display: none;
+    }
+    .lb-dgrid {
+      gap: 5px;
+    }
+    .lb .lb-dc {
+      padding: 6px 7px 7px;
+    }
+    .lb-av {
+      width: 26px;
+      height: 26px;
+      font-size: 12px;
+    }
+    .lb-dc-n {
+      font-size: 13.5px;
+    }
+    .lb-dc-p,
+    .lb-dc-row.is-head .lb-dc-p {
+      font-size: 14.5px;
+    }
+    .lb-dc-v {
+      font-size: 11.5px;
+    }
+    .lb-dc-r {
+      font-size: 10.5px;
+    }
+    .lb-cdistricts {
+      grid-template-columns: minmax(0, 1fr);
+    }
   }
 </style>
