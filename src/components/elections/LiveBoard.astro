@@ -1001,6 +1001,11 @@ const boot = {
             : '');
       const en = $('[data-lb-elected-note]');
       if (en) en.hidden = won === 0;
+      if (en && !en.dataset.bound) {
+        // 手機上說明先收成兩行，點一下展開
+        en.dataset.bound = '1';
+        en.addEventListener('click', () => en.classList.toggle('is-open'));
+      }
     }
 
     /** 議員儀表板：22 縣市各一格，政黨暫時席次的色條與數字；點縣市在下面列出各選舉區。 */
@@ -4264,5 +4269,18 @@ const boot = {
     border-radius: 50%;
     background: currentColor;
     vertical-align: 1px;
+  }
+  @media (max-width: 640px) {
+    .lb-elected-note:not(.is-open) {
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      cursor: pointer;
+    }
+    .lb-elected-note[hidden] {
+      display: none;
+    }
   }
 </style>
