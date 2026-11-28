@@ -177,6 +177,11 @@ def find_progress(parsed, html):
 
     開票前無法驗證實際欄位；開票後第一件事：存 raw HTML 對欄位，再修這裡。
     """
+    # 0) 2026-11-28 16:01 實測：頁首寫「已送投票所數/總投票所數: 0/1790」
+    flat = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", html))
+    m0 = re.search(r"已送投票所數\s*/\s*總投票所數\s*[:：]\s*(\d[\d,]*)\s*/\s*(\d[\d,]*)", flat)
+    if m0:
+        return num(m0.group(1)), num(m0.group(2)), "header-line"
     # 1) 任何 key/value 表頭含「票所」且不含「人數/率」
     kv = kv_pairs(parsed)
     rep = tot = None
@@ -236,6 +241,11 @@ def parse_mayor(html):
         if not name or name in ("合計", "總計"):
             continue
         mark = g(i_elect).strip()
+        # 當選記號若寫在姓名格前後（例：◎某某、某某＊），拆出來並視為當選註記
+        m_name = re.match(r"^([◎○●＊*✓✔]+)?\s*(.*?)\s*([◎○●＊*✓✔]+)?$", name)
+        if m_name and (m_name.group(1) or m_name.group(3)):
+            name = m_name.group(2)
+            mark = mark or (m_name.group(1) or m_name.group(3))
         cands.append({
             "number": num(g(i_no)),
             "name": name,
@@ -247,7 +257,7 @@ def parse_mayor(html):
     rep, tot, how = find_progress(p, html)
     return {
         "reported": rep, "total": tot, "candidates": cands,
-        "_progressSource": how, "_dataTime": re.sub(r"^.*?資料時間:?\s*", "", p.footer) if "資料時間" in p.footer else None,
+        "_progressSource": how, "_dataTime": re.sub(r"^.*?資料時間:?\s*", "", p.footer) if "資料時間" in p.footer else (re.search(r"資料更新時間[:：]?\s*(?:&nbsp;)?\s*([0-9/]+ [0-9:]+)", html).group(1) if re.search(r"資料更新時間[:：]?\s*(?:&nbsp;)?\s*([0-9/]+ [0-9:]+)", html) else None),
         "_title": p.title,
     }
 
@@ -274,7 +284,7 @@ def parse_ref(html):
         "completedTurnoutPct": next((num(v) for h, v in kv.items() if "已完成投票所投票率" in h), None),
         "reported": rep, "total": tot,
         "_progressSource": how,
-        "_dataTime": re.sub(r"^.*?資料時間:?\s*", "", p.footer) if "資料時間" in p.footer else None,
+        "_dataTime": re.sub(r"^.*?資料時間:?\s*", "", p.footer) if "資料時間" in p.footer else (re.search(r"資料更新時間[:：]?\s*(?:&nbsp;)?\s*([0-9/]+ [0-9:]+)", html).group(1) if re.search(r"資料更新時間[:：]?\s*(?:&nbsp;)?\s*([0-9/]+ [0-9:]+)", html) else None),
         "_title": p.title,
     }
 
