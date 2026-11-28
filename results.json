@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "phase": "counting",
- "updatedAt": "2026-11-28T22:23:11+08:00",
+ "updatedAt": "2026-11-28T22:24:09+08:00",
  "sourceName": "中央選舉委員會計票資訊查詢網站",
  "sourceUrl": "https://vote.cec.gov.tw/2026-local/zh-TW/indexP.html",
  "stations": {
-  "reported": 18194,
+  "reported": 18195,
   "total": 18248
  },
  "mayors": {
@@ -426,14 +426,14 @@
    ]
   },
   "南投縣": {
-   "reported": 492,
+   "reported": 493,
    "total": 496,
    "candidates": [
     {
      "number": 1,
      "name": "許淑華",
      "party": "中國國民黨",
-     "votes": 167806,
+     "votes": 168344,
      "pct": 62.51,
      "elected": false
     },
@@ -441,7 +441,7 @@
      "number": 2,
      "name": "温世政",
      "party": "民主進步黨",
-     "votes": 100635,
+     "votes": 100947,
      "pct": 37.49,
      "elected": false
     }
@@ -791,14 +791,14 @@
   }
  },
  "referendum": {
-  "agree": 7414771,
-  "disagree": 4547709,
-  "valid": 11962480,
-  "invalid": 566213,
+  "agree": 7416157,
+  "disagree": 4548399,
+  "valid": 11964556,
+  "invalid": 566299,
   "eligible": 20003835,
-  "reported": 18206,
+  "reported": 18209,
   "total": 18248,
-  "completedEligible": 19954536
+  "completedEligible": 19957953
  },
  "coverage": {
   "mayorsWithData": 22,
