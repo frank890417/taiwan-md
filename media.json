@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "fetchedAt": "2026-11-28T19:52:08+08:00",
+ "fetchedAt": "2026-11-28T19:53:18+08:00",
  "sourceName": "Yahoo新聞",
  "sourceUrl": "https://tw.news.yahoo.com/topic/2026-election/",
  "note": "媒體自行計票，非中選會官方數字",
@@ -114,18 +114,18 @@
    ]
   },
   "連江縣": {
-   "updatedAt": "2026-11-28T17:36:46+08:00",
+   "updatedAt": "2026-11-28T19:52:41+08:00",
    "candidates": [
     {
      "name": "王忠銘",
-     "votes": 660,
-     "pct": 54.82,
+     "votes": 965,
+     "pct": 57.07,
      "elected": true
     },
     {
      "name": "曹爾元",
-     "votes": 544,
-     "pct": 45.18,
+     "votes": 726,
+     "pct": 42.93,
      "elected": false
     }
    ]
@@ -228,41 +228,41 @@
    ]
   },
   "嘉義市": {
-   "updatedAt": "2026-11-28T19:49:27+08:00",
+   "updatedAt": "2026-11-28T19:52:06+08:00",
    "candidates": [
     {
      "name": "張啓楷",
-     "votes": 49929,
-     "pct": 43.4,
+     "votes": 50679,
+     "pct": 42.43,
      "elected": false
     },
     {
      "name": "王美惠",
-     "votes": 62361,
-     "pct": 54.2,
+     "votes": 63399,
+     "pct": 53.07,
      "elected": false
     }
    ]
   },
   "新竹市": {
-   "updatedAt": "2026-11-28T19:45:40+08:00",
+   "updatedAt": "2026-11-28T19:52:35+08:00",
    "candidates": [
     {
      "name": "高虹安",
      "votes": 92020,
-     "pct": 57.15,
+     "pct": 57.05,
      "elected": true
     },
     {
      "name": "何志勇",
-     "votes": 4218,
-     "pct": 2.62,
+     "votes": 4517,
+     "pct": 2.8,
      "elected": false
     },
     {
      "name": "莊競程",
      "votes": 64770,
-     "pct": 40.23,
+     "pct": 40.15,
      "elected": false
     }
    ]
@@ -325,18 +325,18 @@
    ]
   },
   "臺南市": {
-   "updatedAt": "2026-11-28T19:29:00+08:00",
+   "updatedAt": "2026-11-28T19:51:52+08:00",
    "candidates": [
     {
      "name": "謝龍介",
-     "votes": 399799,
-     "pct": 46.17,
+     "votes": 404754,
+     "pct": 44.57,
      "elected": false
     },
     {
      "name": "陳亭妃",
-     "votes": 466044,
-     "pct": 53.83,
+     "votes": 475019,
+     "pct": 52.3,
      "elected": true
     }
    ]
