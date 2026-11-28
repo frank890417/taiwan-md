@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "phase": "counting",
- "updatedAt": "2026-11-28T23:58:22+08:00",
+ "updatedAt": "2026-11-28T23:59:20+08:00",
  "sourceName": "中央選舉委員會計票資訊查詢網站",
  "sourceUrl": "https://vote.cec.gov.tw/2026-local/zh-TW/indexP.html",
  "stations": {
@@ -791,14 +791,14 @@
   }
  },
  "referendum": {
-  "agree": 7434246,
-  "disagree": 4557533,
-  "valid": 11991779,
-  "invalid": 567316,
+  "agree": 7434677,
+  "disagree": 4557768,
+  "valid": 11992445,
+  "invalid": 567352,
   "eligible": 20003835,
-  "reported": 18247,
+  "reported": 18248,
   "total": 18248,
-  "completedEligible": 20002768
+  "completedEligible": 20003835
  },
  "coverage": {
   "mayorsWithData": 22,
