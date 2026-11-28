@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "fetchedAt": "2026-11-28T18:11:12+08:00",
+ "fetchedAt": "2026-11-28T18:12:11+08:00",
  "sourceName": "Yahoo新聞",
  "sourceUrl": "https://tw.news.yahoo.com/topic/2026-election/",
  "note": "媒體自行計票，非中選會官方數字",
@@ -57,7 +57,7 @@
    ]
   },
   "苗栗縣": {
-   "updatedAt": "2026-11-28T18:10:03+08:00",
+   "updatedAt": "2026-11-28T18:11:50+08:00",
    "candidates": [
     {
      "name": "陳品安",
@@ -69,7 +69,7 @@
      "name": "鍾東錦",
      "votes": 144018,
      "pct": 62.22,
-     "elected": false
+     "elected": true
     }
    ]
   },
@@ -342,18 +342,18 @@
    ]
   },
   "臺東縣": {
-   "updatedAt": "2026-11-28T18:03:37+08:00",
+   "updatedAt": "2026-11-28T18:11:27+08:00",
    "candidates": [
     {
      "name": "陳瑩",
-     "votes": 13051,
-     "pct": 41.82,
+     "votes": 13087,
+     "pct": 41.77,
      "elected": false
     },
     {
      "name": "吳秀華",
-     "votes": 18156,
-     "pct": 58.18,
+     "votes": 18244,
+     "pct": 58.23,
      "elected": false
     }
    ]
