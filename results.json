@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "phase": "pre",
+ "updatedAt": "2026-11-28T15:06:21+08:00",
+ "sourceName": "中央選舉委員會計票資訊查詢網站",
+ "sourceUrl": "https://vote.cec.gov.tw/2026-local/zh-TW/indexP.html",
+ "stations": null,
+ "mayors": {},
+ "referendum": {
+  "agree": 0,
+  "disagree": 0,
+  "valid": 0,
+  "invalid": 0,
+  "eligible": 20003835,
+  "reported": null,
+  "total": null,
+  "completedEligible": 0
+ },
+ "coverage": {
+  "mayorsWithData": 0,
+  "mayorsTotal": 22
+ },
+ "unmatched": [],
+ "errors": [
+  "https://vote.cec.gov.tw/2026-local/zh-TW/TC/63000000000000000.html: RuntimeError: HTTP 404（開票前尚未產生，或 16:00 後規則有變）",
+  "https://vote.cec.gov.tw/2026-local/zh-TW/TC/65000000000000000.html: RuntimeError: HTTP 404（開票前尚未產生，或 16:00 後規則有變）",
+  "https://vote.cec.gov.tw/2026-local/zh-TW/TC/68000000000000000.html: RuntimeError: HTTP 404（開票前尚未產生，或 16:00 後規則有變）",
+  "https://vote.cec.gov.tw/2026-local/zh-TW/TC/66000000000000000.html: RuntimeError: HTTP 404（開票前尚未產生，或 16:00 後規則有變）",
+  "https://vote.cec.gov.tw/2026-local/zh-TW/TC/67000000000000000.html: RuntimeError: HTTP 404（開票前尚未產生，或 16:00 後規則有變）",
+  "https://vote.cec.gov.tw/2026-local/zh-TW/TC/64000000000000000.html: RuntimeError: HTTP 404（開票前尚未產生，或 16:00 後規則有變）",
+  "https://vote.cec.gov.tw/2026-local/zh-TW/TC/10004000000000000.html: RuntimeError: HTTP 404（開票前尚未產生，或 16:00 後規則有變）",
+  "https://vote.cec.gov.tw/2026-local/zh-TW/TC/10005000000000000.html: RuntimeError: HTTP 404（開票前尚未產生，或 16:00 後規則有變）",
+  "https://vote.cec.gov.tw/2026-local/zh-TW/TC/10007000000000000.html: RuntimeError: HTTP 404（開票前尚未產生，或 16:00 後規則有變）",
+  "https://vote.cec.gov.tw/2026-local/zh-TW/TC/10008000000000000.html: RuntimeError: HTTP 404（開票前尚未產生，或 16:00 後規則有變）",
+  "https://vote.cec.gov.tw/2026-local/zh-TW/TC/10009000000000000.html: RuntimeError: HTTP 404（開票前尚未產生，或 16:00 後規則有變）",
+  "https://vote.cec.gov.tw/2026-local/zh-TW/TC/10010000000000000.html: RuntimeError: HTTP 404（開票前尚未產生，或 16:00 後規則有變）",
+  "https://vote.cec.gov.tw/2026-local/zh-TW/TC/10013000000000000.html: RuntimeError: HTTP 404（開票前尚未產生，或 16:00 後規則有變）",
+  "https://vote.cec.gov.tw/2026-local/zh-TW/TC/10002000000000000.html: RuntimeError: HTTP 404（開票前尚未產生，或 16:00 後規則有變）",
+  "https://vote.cec.gov.tw/2026-local/zh-TW/TC/10015000000000000.html: RuntimeError: HTTP 404（開票前尚未產生，或 16:00 後規則有變）",
+  "https://vote.cec.gov.tw/2026-local/zh-TW/TC/10014000000000000.html: RuntimeError: HTTP 404（開票前尚未產生，或 16:00 後規則有變）",
+  "https://vote.cec.gov.tw/2026-local/zh-TW/TC/10016000000000000.html: RuntimeError: HTTP 404（開票前尚未產生，或 16:00 後規則有變）",
+  "https://vote.cec.gov.tw/2026-local/zh-TW/TC/09020000000000000.html: RuntimeError: HTTP 404（開票前尚未產生，或 16:00 後規則有變）",
+  "https://vote.cec.gov.tw/2026-local/zh-TW/TC/09007000000000000.html: RuntimeError: HTTP 404（開票前尚未產生，或 16:00 後規則有變）",
+  "https://vote.cec.gov.tw/2026-local/zh-TW/TC/10017000000000000.html: RuntimeError: HTTP 404（開票前尚未產生，或 16:00 後規則有變）",
+  "https://vote.cec.gov.tw/2026-local/zh-TW/TC/10018000000000000.html: RuntimeError: HTTP 404（開票前尚未產生，或 16:00 後規則有變）",
+  "https://vote.cec.gov.tw/2026-local/zh-TW/TC/10020000000000000.html: RuntimeError: HTTP 404（開票前尚未產生，或 16:00 後規則有變）"
+ ]
+}

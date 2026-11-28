@@ -1,0 +1,20 @@
+{
+ "schema": 1,
+ "updatedAt": "2026-11-28T15:10:00+08:00",
+ "overview": [],
+ "overviewAt": null,
+ "items": [
+  {
+   "id": "open-1",
+   "time": "2026-11-28T15:10:00+08:00",
+   "kind": "official",
+   "title": "今天 08:00–16:00 投票，16:00 截止後開始開票",
+   "body": "22 縣市首長、議員、鄉鎮市長到村里長共九種公職，加上全國性公投第 22 案同日投票。投票截止前，依法不得發布或引述民調，也不會有任何票數。",
+   "sources": [
+    {"name": "中選會選舉公告", "url": "https://web.cec.gov.tw/central/article/63625"},
+    {"name": "公職人員選舉罷免法第 53 條", "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020010"}
+   ]
+  }
+ ],
+ "factchecks": []
+}
