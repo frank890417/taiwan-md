@@ -20,7 +20,10 @@ while [ ! -f "$LIVE_DIR/.stop" ]; do
     git -C "$LIVE_DIR" pull -q --rebase origin election-live >/dev/null 2>&1 || true
     OUT="$("$PY" "$HERE/publish_results.py" --cec "$LIVE_DIR/.cec.json" --prev "$LIVE_DIR/results.json" --out "$LIVE_DIR/results.json" 2>&1)"; RC=$?
     if [ $RC -eq 0 ]; then
+      # 媒體自行計票（非官方，另一個檔）：失敗不影響中選會那份
+      "$PY" "$HERE/fetch_media.py" --out "$LIVE_DIR/media.json" >"$LIVE_DIR/.media.out" 2>&1 || true
       git -C "$LIVE_DIR" add results.json
+      [ -f "$LIVE_DIR/media.json" ] && git -C "$LIVE_DIR" add media.json
       if git -C "$LIVE_DIR" diff --cached --quiet; then
         echo "$TS ok nochange $OUT" >>"$LIVE_DIR/.loop.log"
       else

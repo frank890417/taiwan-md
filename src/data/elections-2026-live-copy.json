@@ -80,7 +80,13 @@
     "more": "其他 {n} 位候選人",
     "jump": "跳到你的縣市",
     "early": "開票初期",
-    "earlyNote": "回報不到 5% 投開票所的縣市先列為「開票初期」，不計入各黨領先數。"
+    "earlyNote": "回報不到 5% 投開票所的縣市先列為「開票初期」，不計入各黨領先數。",
+    "mediaTitle": "媒體計票：目前領先的縣市數",
+    "media": "媒體計票",
+    "unofficial": "非官方",
+    "mediaNote": "電視台與新聞網站派人在投開票所自行計票，比中選會快很多，但不是官方數字，也可能有誤差。這一排數字轉錄自 {src}；正式結果看上面的中選會數字。",
+    "mediaWhy": "為什麼兩個數字差這麼多？中選會要等投開票所完成並回報才計入，通常比媒體慢一到兩小時。",
+    "officialTitle": "中選會官方計票"
   },
   "en": {
     "eyebrow": "Taiwan 2026 Local Elections · Live Count",
@@ -162,7 +168,13 @@
     "more": "{n} more candidates",
     "jump": "Jump to your city or county",
     "early": "Early count",
-    "earlyNote": "Races with under 5% of polling stations reported are shown as \"Early count\" and not counted toward any party yet."
+    "earlyNote": "Races with under 5% of polling stations reported are shown as \"Early count\" and not counted toward any party yet.",
+    "mediaTitle": "Media count: races currently led",
+    "media": "Media count",
+    "unofficial": "Unofficial",
+    "mediaNote": "TV stations and news sites count on their own at polling stations. It is much faster than the CEC but not official and may contain errors. These figures are relayed from {src}; for official results see the CEC figures.",
+    "mediaWhy": "Why are the two sets so different? The CEC only counts a station once it has finished and reported, which usually runs one to two hours behind the media.",
+    "officialTitle": "Official CEC count"
   },
   "ja": {
     "eyebrow": "台湾 2026年統一地方選挙 · 開票速報",
@@ -244,7 +256,13 @@
     "more": "ほか{n}人の候補者",
     "jump": "お住まいの県・市へ",
     "early": "開票序盤",
-    "earlyNote": "投開票所の報告が5%未満の県・市は「開票序盤」とし、各党のリード数には含めません。"
+    "earlyNote": "投開票所の報告が5%未満の県・市は「開票序盤」とし、各党のリード数には含めません。",
+    "mediaTitle": "メディア集計：現在リードしている県・市の数",
+    "media": "メディア集計",
+    "unofficial": "非公式",
+    "mediaNote": "テレビ局やニュースサイトが投開票所で独自に集計した数字です。中央選挙委員会よりずっと速い一方、公式の数字ではなく誤差もあり得ます。この数字は {src} からの転載で、正式な結果は中央選挙委員会の数字をご覧ください。",
+    "mediaWhy": "なぜ二つの数字はこれほど違うのか。中央選挙委員会は投開票所の作業と報告が終わってから計上するため、通常メディアより1〜2時間遅れます。",
+    "officialTitle": "中央選挙委員会の公式集計"
   },
   "ko": {
     "eyebrow": "대만 2026 지방선거 · 개표 현황",
@@ -326,7 +344,13 @@
     "more": "후보 {n}명 더",
     "jump": "내 지역으로 이동",
     "early": "개표 초반",
-    "earlyNote": "투개표소 보고가 5% 미만인 지역은 「개표 초반」으로 표시하며 정당별 선두 수에 넣지 않습니다."
+    "earlyNote": "투개표소 보고가 5% 미만인 지역은 「개표 초반」으로 표시하며 정당별 선두 수에 넣지 않습니다.",
+    "mediaTitle": "언론 집계: 현재 앞서는 지역 수",
+    "media": "언론 집계",
+    "unofficial": "비공식",
+    "mediaNote": "방송사와 뉴스 사이트가 투개표소에서 자체 집계한 수치입니다. 중앙선거관리위원회보다 훨씬 빠르지만 공식 수치가 아니며 오차가 있을 수 있습니다. 이 수치는 {src}에서 옮겨 실은 것이며, 공식 결과는 중앙선거관리위원회 수치를 보십시오.",
+    "mediaWhy": "두 수치가 왜 이렇게 다를까요? 중앙선거관리위원회는 투개표소가 작업을 마치고 보고한 뒤에야 집계하므로 보통 언론보다 한두 시간 늦습니다.",
+    "officialTitle": "중앙선거관리위원회 공식 집계"
   },
   "es": {
     "eyebrow": "Elecciones locales de Taiwán 2026 · Escrutinio en vivo",
@@ -408,7 +432,13 @@
     "more": "{n} candidatos más",
     "jump": "Ir a tu ciudad o condado",
     "early": "Recuento inicial",
-    "earlyNote": "Las circunscripciones con menos del 5 % de los colegios escrutados figuran como «Recuento inicial» y aún no se cuentan para ningún partido."
+    "earlyNote": "Las circunscripciones con menos del 5 % de los colegios escrutados figuran como «Recuento inicial» y aún no se cuentan para ningún partido.",
+    "mediaTitle": "Recuento de los medios: circunscripciones en cabeza",
+    "media": "Recuento de los medios",
+    "unofficial": "No oficial",
+    "mediaNote": "Las televisiones y los medios digitales cuentan por su cuenta en los colegios. Es mucho más rápido que la CEC, pero no es oficial y puede contener errores. Estas cifras proceden de {src}; para los resultados oficiales, consulte las cifras de la CEC.",
+    "mediaWhy": "¿Por qué difieren tanto? La CEC solo contabiliza un colegio cuando ha terminado e informado, lo que suele ir una o dos horas por detrás de los medios.",
+    "officialTitle": "Recuento oficial de la CEC"
   },
   "fr": {
     "eyebrow": "Élections locales de Taïwan 2026 · Dépouillement en direct",
@@ -490,7 +520,13 @@
     "more": "{n} autres candidats",
     "jump": "Aller à votre ville ou comté",
     "early": "Début du dépouillement",
-    "earlyNote": "Les circonscriptions où moins de 5 % des bureaux ont été dépouillés sont indiquées « Début du dépouillement » et ne sont pas encore comptées pour un parti."
+    "earlyNote": "Les circonscriptions où moins de 5 % des bureaux ont été dépouillés sont indiquées « Début du dépouillement » et ne sont pas encore comptées pour un parti.",
+    "mediaTitle": "Décompte des médias : circonscriptions en tête",
+    "media": "Décompte des médias",
+    "unofficial": "Non officiel",
+    "mediaNote": "Les chaînes de télévision et les sites d’information comptent eux-mêmes dans les bureaux de vote. C’est bien plus rapide que la CEC, mais ce n’est pas officiel et des erreurs sont possibles. Ces chiffres sont repris de {src} ; pour les résultats officiels, voir les chiffres de la CEC.",
+    "mediaWhy": "Pourquoi un tel écart ? La CEC ne comptabilise un bureau qu’une fois le dépouillement terminé et transmis, ce qui accuse en général une à deux heures de retard sur les médias.",
+    "officialTitle": "Décompte officiel de la CEC"
   },
   "de": {
     "eyebrow": "Kommunalwahlen in Taiwan 2026 · Live-Auszählung",
@@ -572,7 +608,13 @@
     "more": "{n} weitere Kandidaten",
     "jump": "Zu Ihrer Stadt oder Ihrem Landkreis",
     "early": "Frühe Auszählung",
-    "earlyNote": "Wahlkreise, in denen weniger als 5 % der Wahllokale gemeldet haben, gelten als „Frühe Auszählung“ und werden noch keiner Partei zugerechnet."
+    "earlyNote": "Wahlkreise, in denen weniger als 5 % der Wahllokale gemeldet haben, gelten als „Frühe Auszählung“ und werden noch keiner Partei zugerechnet.",
+    "mediaTitle": "Medienzählung: Wahlkreise in Führung",
+    "media": "Medienzählung",
+    "unofficial": "Inoffiziell",
+    "mediaNote": "Fernsehsender und Nachrichtenseiten zählen in den Wahllokalen selbst mit. Das ist viel schneller als die CEC, aber nicht amtlich und kann Fehler enthalten. Diese Zahlen stammen von {src}; die amtlichen Ergebnisse stehen bei den CEC-Zahlen.",
+    "mediaWhy": "Warum weichen die Zahlen so stark ab? Die CEC zählt ein Wahllokal erst, wenn es fertig ausgezählt und gemeldet hat, meist ein bis zwei Stunden hinter den Medien.",
+    "officialTitle": "Amtliche CEC-Zählung"
   },
   "pt": {
     "eyebrow": "Eleições locais de Taiwan 2026 · Apuração ao vivo",
@@ -654,7 +696,13 @@
     "more": "mais {n} candidatos",
     "jump": "Ir para a sua cidade ou condado",
     "early": "Início da apuração",
-    "earlyNote": "Disputas com menos de 5% das seções apuradas aparecem como «Início da apuração» e ainda não contam para nenhum partido."
+    "earlyNote": "Disputas com menos de 5% das seções apuradas aparecem como «Início da apuração» e ainda não contam para nenhum partido.",
+    "mediaTitle": "Contagem da imprensa: disputas na liderança",
+    "media": "Contagem da imprensa",
+    "unofficial": "Não oficial",
+    "mediaNote": "Emissoras e sites de notícias contam por conta própria nas seções. É muito mais rápido que a CEC, mas não é oficial e pode conter erros. Estes números são reproduzidos de {src}; para os resultados oficiais, veja os números da CEC.",
+    "mediaWhy": "Por que os números diferem tanto? A CEC só contabiliza uma seção depois de concluída e informada, o que costuma ficar uma a duas horas atrás da imprensa.",
+    "officialTitle": "Contagem oficial da CEC"
   },
   "ru": {
     "eyebrow": "Местные выборы на Тайване 2026 · Подсчёт голосов онлайн",
@@ -736,7 +784,13 @@
     "more": "Ещё кандидатов: {n}",
     "jump": "Перейти к своему городу или уезду",
     "early": "Начало подсчёта",
-    "earlyNote": "Округа, где отчитались менее 5 % участков, отмечены как «Начало подсчёта» и пока не засчитываются ни одной партии."
+    "earlyNote": "Округа, где отчитались менее 5 % участков, отмечены как «Начало подсчёта» и пока не засчитываются ни одной партии.",
+    "mediaTitle": "Подсчёт СМИ: округа, где лидируют",
+    "media": "Подсчёт СМИ",
+    "unofficial": "Неофициально",
+    "mediaNote": "Телеканалы и новостные сайты ведут собственный подсчёт на участках. Он намного быстрее, чем у ЦИК, но не является официальным и может содержать ошибки. Эти цифры взяты у {src}; официальные результаты смотрите в данных ЦИК.",
+    "mediaWhy": "Почему цифры так расходятся? ЦИК учитывает участок только после завершения подсчёта и отчёта, обычно на один-два часа позже СМИ.",
+    "officialTitle": "Официальный подсчёт ЦИК"
   },
   "vi": {
     "eyebrow": "Bầu cử địa phương Đài Loan 2026 · Kiểm phiếu trực tiếp",
@@ -818,7 +872,13 @@
     "more": "{n} ứng viên khác",
     "jump": "Đến thành phố hoặc huyện của bạn",
     "early": "Mới bắt đầu kiểm phiếu",
-    "earlyNote": "Những nơi có dưới 5% điểm bỏ phiếu đã báo cáo được ghi là “Mới bắt đầu kiểm phiếu” và chưa tính cho đảng nào."
+    "earlyNote": "Những nơi có dưới 5% điểm bỏ phiếu đã báo cáo được ghi là “Mới bắt đầu kiểm phiếu” và chưa tính cho đảng nào.",
+    "mediaTitle": "Kiểm phiếu của truyền thông: số nơi đang dẫn đầu",
+    "media": "Kiểm phiếu của truyền thông",
+    "unofficial": "Không chính thức",
+    "mediaNote": "Các đài truyền hình và trang tin tự kiểm phiếu tại điểm bỏ phiếu. Cách này nhanh hơn CEC nhiều nhưng không phải số liệu chính thức và có thể sai lệch. Các con số này được chuyển lại từ {src}; kết quả chính thức xem ở số liệu của CEC.",
+    "mediaWhy": "Vì sao hai bộ số liệu chênh nhau nhiều? CEC chỉ tính khi điểm bỏ phiếu đã kiểm xong và báo cáo, thường chậm hơn truyền thông một đến hai giờ.",
+    "officialTitle": "Kiểm phiếu chính thức của CEC"
   },
   "id": {
     "eyebrow": "Pemilu Daerah Taiwan 2026 · Penghitungan Langsung",
@@ -900,7 +960,13 @@
     "more": "{n} kandidat lainnya",
     "jump": "Lompat ke kota atau kabupaten Anda",
     "early": "Awal penghitungan",
-    "earlyNote": "Daerah dengan kurang dari 5% TPS yang melapor ditandai “Awal penghitungan” dan belum dihitung untuk partai mana pun."
+    "earlyNote": "Daerah dengan kurang dari 5% TPS yang melapor ditandai “Awal penghitungan” dan belum dihitung untuk partai mana pun.",
+    "mediaTitle": "Hitungan media: daerah yang sedang dipimpin",
+    "media": "Hitungan media",
+    "unofficial": "Tidak resmi",
+    "mediaNote": "Stasiun TV dan situs berita menghitung sendiri di TPS. Jauh lebih cepat daripada CEC, tetapi bukan angka resmi dan bisa mengandung kesalahan. Angka ini disalin dari {src}; untuk hasil resmi lihat angka CEC.",
+    "mediaWhy": "Mengapa kedua angka sangat berbeda? CEC baru menghitung sebuah TPS setelah selesai dan melapor, biasanya satu sampai dua jam di belakang media.",
+    "officialTitle": "Hitungan resmi CEC"
   },
   "hi": {
     "eyebrow": "ताइवान स्थानीय चुनाव 2026 · मतगणना लाइव",
@@ -982,7 +1048,13 @@
     "more": "{n} और उम्मीदवार",
     "jump": "अपने शहर या काउंटी पर जाएँ",
     "early": "शुरुआती गिनती",
-    "earlyNote": "जिन क्षेत्रों में 5% से कम मतदान केंद्रों की रिपोर्ट आई है, उन्हें “शुरुआती गिनती” दिखाया गया है और अभी किसी दल में नहीं गिना गया है।"
+    "earlyNote": "जिन क्षेत्रों में 5% से कम मतदान केंद्रों की रिपोर्ट आई है, उन्हें “शुरुआती गिनती” दिखाया गया है और अभी किसी दल में नहीं गिना गया है।",
+    "mediaTitle": "मीडिया गिनती: जहाँ अभी बढ़त है",
+    "media": "मीडिया गिनती",
+    "unofficial": "अनौपचारिक",
+    "mediaNote": "टीवी चैनल और समाचार साइटें मतदान केंद्रों पर अपनी गिनती करती हैं। यह CEC से कहीं तेज़ है, पर आधिकारिक नहीं है और इसमें गलती हो सकती है। ये आँकड़े {src} से लिए गए हैं; आधिकारिक नतीजों के लिए CEC के आँकड़े देखें।",
+    "mediaWhy": "दोनों आँकड़ों में इतना फ़र्क क्यों? CEC किसी केंद्र को तभी गिनता है जब वहाँ गिनती पूरी होकर रिपोर्ट आ जाए, जो आम तौर पर मीडिया से एक-दो घंटे पीछे रहता है।",
+    "officialTitle": "CEC की आधिकारिक गिनती"
   },
   "ar": {
     "eyebrow": "الانتخابات المحلية في تايوان 2026 · الفرز المباشر",
@@ -1064,6 +1136,12 @@
     "more": "مرشحون آخرون: {n}",
     "jump": "انتقل إلى مدينتك أو مقاطعتك",
     "early": "بداية الفرز",
-    "earlyNote": "الدوائر التي أبلغ فيها أقل من 5% من مراكز الاقتراع تظهر بوصفها «بداية الفرز» ولا تُحتسب بعد لأي حزب."
+    "earlyNote": "الدوائر التي أبلغ فيها أقل من 5% من مراكز الاقتراع تظهر بوصفها «بداية الفرز» ولا تُحتسب بعد لأي حزب.",
+    "mediaTitle": "فرز وسائل الإعلام: الدوائر المتصدَّرة حاليًا",
+    "media": "فرز وسائل الإعلام",
+    "unofficial": "غير رسمي",
+    "mediaNote": "تُجري القنوات التلفزيونية والمواقع الإخبارية فرزًا خاصًا بها في مراكز الاقتراع. هو أسرع كثيرًا من اللجنة لكنه غير رسمي وقد يتضمن أخطاء. هذه الأرقام منقولة عن {src}، وللنتائج الرسمية راجع أرقام اللجنة.",
+    "mediaWhy": "لماذا يختلف الرقمان كثيرًا؟ لا تحتسب اللجنة المركز إلا بعد انتهاء الفرز فيه وإبلاغها، وهو ما يتأخر عادة ساعة أو ساعتين عن وسائل الإعلام.",
+    "officialTitle": "الفرز الرسمي للجنة"
   }
 }

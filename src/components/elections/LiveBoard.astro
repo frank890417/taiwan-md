@@ -229,8 +229,28 @@ const boot = {
     <p class="lb-alert" data-lb-alert hidden></p>
     <noscript><p class="lb-alert">{copy.noscript}</p></noscript>
 
-    <!-- 各黨領先縣市數 -->
+    <!-- 媒體自行計票（非官方，比中選會快）：有資料才顯示 -->
+    <div class="lb-score lb-media" data-lb-media hidden>
+      <h3 class="lb-h3">
+        {copy.mediaTitle}
+        <span class="lb-tag lb-tag-unofficial">{copy.unofficial}</span>
+        <span class="lb-media-time" data-lb-media-time></span>
+      </h3>
+      <div
+        class="lb-score-bar"
+        data-lb-media-bar
+        role="img"
+        aria-label={copy.mediaTitle}
+      >
+      </div>
+      <ul class="lb-score-legend el-reset" data-lb-media-legend></ul>
+      <p class="lb-note" data-lb-media-note></p>
+      <p class="lb-note">{copy.mediaWhy}</p>
+    </div>
+
+    <!-- 各黨領先縣市數（中選會官方） -->
     <div class="lb-score" data-lb-score-wrap>
+      <p class="lb-kicker">{copy.officialTitle}</p>
       <h3 class="lb-h3">{copy.scoreTitle}</h3>
       <div
         class="lb-score-bar"
@@ -450,6 +470,34 @@ const boot = {
     }
     let results: any = null;
     let feed: any = null;
+    let media: any = null;
+    /** 媒體計票超過 40 分鐘沒更新就不顯示（來源停更時不留舊數字） */
+    const mediaFresh = () =>
+      !!media?.fetchedAt &&
+      Date.now() - Date.parse(media.fetchedAt) < 40 * 60000;
+    /** 某縣市的媒體計票：依票數排序，政黨從名冊對回來；不採用媒體標的「當選」 */
+    function mediaView(race: any) {
+      const m = mediaFresh() ? media?.races?.[race.area] : null;
+      if (!m || !Array.isArray(m.candidates)) return null;
+      const byName = new Map(
+        race.candidates.map((c: Cand) => [norm(c.name), c] as const),
+      );
+      const list = m.candidates
+        .map((c: any) => {
+          const b: any = byName.get(norm(c.name));
+          return b && typeof c.votes === 'number' && c.votes > 0
+            ? {
+                name: b.name,
+                party: b.party,
+                partyLabel: b.partyLabel,
+                votes: c.votes,
+              }
+            : null;
+        })
+        .filter(Boolean)
+        .sort((x: any, y: any) => y.votes - x.votes);
+      return list.length ? { list, updatedAt: m.updatedAt } : null;
+    }
     let resultsFailed = false;
 
     /** 把名冊跟票數合起來；票數檔沒有的縣市就只有名冊。 */
@@ -557,7 +605,74 @@ const boot = {
         </header>
         ${rows}
         ${prog}
+        ${mediaLine(v.race)}
       </article>`;
+    }
+
+    function mediaLine(race: any) {
+      const mv = mediaView(race);
+      if (!mv) return '';
+      const total = mv.list.reduce((a: number, c: any) => a + c.votes, 0);
+      const items = mv.list
+        .slice(0, 2)
+        .map(
+          (c: any) =>
+            `<span class="lb-ml-c" data-party="${partyKey(c.party)}"><span class="lb-chip" aria-hidden="true"></span>${esc(c.name)} <b>${num(c.votes)}</b> <i>${((c.votes / total) * 100).toFixed(1)}%</i></span>`,
+        )
+        .join('');
+      return `<p class="lb-ml"><span class="lb-ml-head">${esc(C.media)} <span class="lb-tag lb-tag-unofficial">${esc(C.unofficial)}</span> <time>${esc(timeFmt(mv.updatedAt))}</time></span>${items}</p>`;
+    }
+
+    function renderMedia() {
+      const box = $('[data-lb-media]');
+      if (!box) return;
+      const views = B.races
+        .map((r: any) => ({ race: r, mv: mediaView(r) }))
+        .filter((x: any) => x.mv);
+      box.hidden = views.length === 0;
+      if (!views.length) return;
+      const order = ['kmt', 'dpp', 'tpp', 'ind', 'other'];
+      const count: Record<string, string[]> = {};
+      order.forEach((k) => (count[k] = []));
+      let latest = '';
+      views.forEach((x: any) => {
+        count[partyKey(x.mv.list[0].party)].push(x.race.label);
+        if (String(x.mv.updatedAt) > latest) latest = String(x.mv.updatedAt);
+      });
+      const bar = $('[data-lb-media-bar]');
+      const legend = $('[data-lb-media-legend]');
+      const none = B.races.length - views.length;
+      if (bar)
+        bar.innerHTML =
+          order
+            .filter((k) => count[k].length)
+            .map(
+              (k) =>
+                `<span class="lb-seg" data-party="${k}" style="flex:${count[k].length}"><b>${count[k].length}</b></span>`,
+            )
+            .join('') +
+          (none > 0
+            ? `<span class="lb-seg" data-party="none" style="flex:${none}"><b>${none}</b></span>`
+            : '');
+      if (legend)
+        legend.innerHTML = order
+          .filter((k) => count[k].length)
+          .map(
+            (k) =>
+              `<li data-party="${k}"><span class="lb-chip" aria-hidden="true"></span><span class="lb-leg-name">${esc(C.party[k])}</span><span class="lb-leg-n">${count[k].length}</span><span class="lb-leg-areas">${esc(count[k].join(SEP))}</span></li>`,
+          )
+          .join('');
+      const t = $('[data-lb-media-time]');
+      if (t) t.textContent = timeFmt(latest);
+      const note = $('[data-lb-media-note]');
+      const u = safeUrl(media?.sourceUrl);
+      if (note)
+        note.innerHTML = esc(C.mediaNote).replace(
+          '{src}',
+          u
+            ? `<a href="${esc(u)}" class="no-external-icon" target="_blank" rel="noopener noreferrer">${esc(media.sourceName || u)} ↗</a>`
+            : esc(media?.sourceName || ''),
+        );
     }
 
     function renderRaces() {
@@ -840,6 +955,7 @@ const boot = {
 
     function renderAll() {
       renderStatus();
+      renderMedia();
       renderRaces();
       renderRef();
       renderFeed();
@@ -892,6 +1008,12 @@ const boot = {
           .then((j) => void (feed = j))
           .catch(() => {}),
       ];
+      if (closed)
+        jobs.push(
+          getJson('media.json', base)
+            .then((j) => void (media = j))
+            .catch(() => {}),
+        );
       if (closed)
         jobs.push(
           getJson('results.json', base)
@@ -1214,6 +1336,68 @@ const boot = {
   }
   .lb-chip-link[data-party='none'] .lb-chip {
     border: 1px solid var(--el-border-strong);
+  }
+  .lb-kicker {
+    margin: 0 0 4px;
+    font-size: 12.5px;
+    letter-spacing: 0.08em;
+    color: var(--el-ink-3);
+  }
+  .lb-media {
+    border-style: dashed;
+    border-color: var(--el-border-strong);
+  }
+  .lb-media .lb-h3 {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px;
+  }
+  .lb-media .lb-score-bar {
+    height: 56px;
+  }
+  .lb-media-time {
+    font-family: var(--el-sans);
+    font-size: 13px;
+    font-weight: 400;
+    color: var(--el-ink-3);
+    font-variant-numeric: tabular-nums;
+  }
+  .lb-tag-unofficial {
+    border-color: var(--el-accent-2);
+    color: var(--el-accent-2);
+    font-family: var(--el-sans);
+  }
+  .lb-ml {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px 12px;
+    margin: 12px 0 0;
+    padding-top: 10px;
+    border-top: 1px dashed var(--el-border-strong);
+    font-size: 13px;
+    color: var(--el-ink-2);
+  }
+  .lb-ml-head {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    width: 100%;
+    font-size: 12px;
+    color: var(--el-ink-3);
+  }
+  .lb-ml-c {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    font-variant-numeric: tabular-nums;
+  }
+  .lb-ml-c b {
+    color: var(--el-ink);
+  }
+  .lb-ml-c i {
+    font-style: normal;
+    color: var(--el-ink-3);
   }
   .lb-score-legend {
     display: grid;
