@@ -22,15 +22,15 @@ image: ''
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/史溫侯.md'
-sourceCommitSha: '3f269cde5e'
-sourceContentHash: 'sha256:50b13c3a31e0a1c0'
-sourceBodyHash: 'sha256:e6b263814c7b1995'
-translatedAt: '2026-11-27T00:57:55.196574+00:00'
+sourceCommitSha: 'fce3f18534'
+sourceContentHash: 'sha256:38dbb4ed46592a20'
+sourceBodyHash: 'sha256:6175f72a885c5908'
+translatedAt: '2026-11-28T01:09:06.124364+00:00'
 ---
 
-# Robert Swinhoe: cuando un diplomático se convirtió en naturalista
+# Swinhoe: cuando un diplomático se convierte en naturalista
 
-> **Resumen en 30 segundos:** Robert Swinhoe (1836-1877), primer cónsul británico en Formosa. Permaneció en Taiwán aproximadamente cuatro años en total, durante los cuales publicó 52 artículos académicos sobre la isla, documentando 227 especies de aves, 40 de mamíferos y 246 de plantas. El ornitólogo contemporáneo P. L. Sclater lo calificó como «uno de los exploradores naturalistas más exitosos de la historia». Murió enfermo a los 41 años, pero las especies que nombró —desde el faisán de Swinhoe del reverso del billete de mil dólares hasta la tortuga de caparazón blando de Swinhoe, una de las más amenazadas del planeta— siguen vivas en la isla (y en sus nombres científicos).
+> **Resumen en 30 segundos:** Robert Swinhoe (1836-1877), primer cónsul británico en Formosa. Estuvo en Taiwán unos cuatro años en total, publicó 52 artículos académicos sobre esta isla, registró 227 especies de aves, 40 de mamíferos y 246 de plantas. El ornitólogo contemporáneo P. L. Sclater lo calificó como «uno de los exploradores naturalistas más exitosos de la historia». Falleció a los 41 años a causa de una enfermedad, pero las especies que nombró —desde el faisán de Swinhoe, la especie endémica más representativa de Taiwán, hasta la tortuga de caparazón blando de Swinhoe, la más amenazada del planeta— siguen vivas hoy en esta isla (y en sus nombres científicos).
 
 ---
 
