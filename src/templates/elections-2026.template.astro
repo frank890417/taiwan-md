@@ -2,7 +2,10 @@
 import Layout from '../layouts/Layout.astro';
 import '../styles/elections.css';
 import LiveBoard from '../components/elections/LiveBoard.astro';
-import { getLangFromUrl } from '../i18n/utils';
+import ArticleCard from '../components/ArticleCard.astro';
+import { getLangFromUrl, useTranslations } from '../i18n/utils';
+import { getArticlesIndex } from '../utils/articles-index';
+import { getCategoryConfigs, type CategoryKey } from '../utils/categoryConfig';
 import electionsDataRaw from '../data/elections-2026.json';
 import timelineDataRaw from '../data/elections-2026-timeline.json';
 import {
@@ -4161,6 +4164,49 @@ const lang = getLangFromUrl(Astro.url);
 const langPrefix = lang === 'zh-TW' ? '' : `/${lang}`;
 const roadmapSlugs = ['timeline', 'candidates', 'donations', 'perspectives'];
 const copy = electionCopy[lang as keyof typeof electionCopy] ?? electionCopy.en;
+// 延伸閱讀改用站上共用的文章卡：依連結找到那一語的文章，帶出封面、分類與摘要。
+// 找不到的（例如分類總入口）仍出一張卡，用分類色的底與本頁寫的標題、說明。
+const tCard = useTranslations(lang);
+const cardCategories = getCategoryConfigs(tCard);
+const furtherCards = await Promise.all(
+  copy.related.articles.map(async (a) => {
+    const segs = a.href.split('/').filter(Boolean);
+    const hrefLang =
+      segs[0] && /^[a-z]{2}(-[A-Za-z]{2,4})?$/.test(segs[0]) && segs.length > 1
+        ? segs.shift()!
+        : 'zh-TW';
+    const cat = (segs[0] || '').toLowerCase();
+    let slug = segs[1] || '';
+    try {
+      slug = decodeURIComponent(slug);
+    } catch {
+      /* 保留原字串 */
+    }
+    const cfg = cardCategories[cat as CategoryKey];
+    const hit = slug
+      ? (await getArticlesIndex(hrefLang))
+          .get(cat)
+          ?.find((x) => x.slug === slug)
+      : undefined;
+    return {
+      isArticle: Boolean(hit),
+      href: a.href,
+      title: hit?.title || a.title,
+      desc: a.desc || hit?.description || '',
+      image: hit?.image || undefined,
+      // 卡片右下角的字：有閱讀時間就寫時間；沒有就寫分類名，避免元件預設的中文出現在外語頁
+      cta: hit?.readingTime
+        ? tCard('category.essayMinutes').replace('{n}', String(hit.readingTime))
+        : cfg?.name,
+      footnotes: hit?.footnotes,
+      curation: hit?.curation ?? null,
+      curationReason: hit?.curationReason ?? null,
+      label: cfg?.name,
+      color: cfg?.color,
+      icon: cfg?.icon,
+    };
+  }),
+);
 const pageTitle = copy.meta.title;
 const pageDescription = copy.meta.description;
 
@@ -5473,12 +5519,25 @@ const reportHref = `https://github.com/frank890417/taiwan-md/issues/new?template
           <p class="el-further-desc">{copy.related.intro}</p>
           <ul class="el-reads el-reset">
             {
-              copy.related.articles.map((a) => (
+              furtherCards.map((a) => (
                 <li>
-                  <a href={a.href} class="el-read">
-                    <span class="el-read-title">{a.title}</span>
-                    <span class="el-read-desc">{a.desc}</span>
-                  </a>
+                  <ArticleCard
+                    density="premium"
+                    titleTag="h4"
+                    href={a.href}
+                    title={a.title}
+                    description={a.desc}
+                    categoryLabel={a.label}
+                    categoryColor={a.color}
+                    categoryIcon={a.icon}
+                    coverImage={a.image}
+                    readingTime={a.cta}
+                    stageBadge={a.isArticle}
+                    curation={a.curation}
+                    curationReason={a.curationReason}
+                    openIn="same-tab"
+                    dataAttrs={{ 'data-ga-section': 'elections_further' }}
+                  />
                 </li>
               ))
             }
@@ -7063,7 +7122,54 @@ const reportHref = `https://github.com/frank890417/taiwan-md/issues/new?template
   }
   .el-reads {
     display: grid;
-    gap: 0 40px;
+    gap: 20px;
+    margin-top: 18px;
+  }
+  .el-reads {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  @media (max-width: 639px) {
+    .el-reads {
+      gap: 12px;
+    }
+    .el-reads :global(.article-card.is-premium .article-card-hero) {
+      height: 84px;
+    }
+    .el-reads :global(.article-card.is-premium .article-card-body) {
+      padding: 12px 12px 14px;
+    }
+  }
+  .el-reads > li {
+    display: flex;
+    min-width: 0;
+  }
+  .el-reads :global(.article-card) {
+    min-width: 0;
+    width: 100%;
+  }
+  .el-reads :global(.article-card-premrow) {
+    flex-wrap: wrap;
+  }
+  .el-reads :global(.article-card-badge) {
+    white-space: nowrap;
+  }
+  .el-reads :global(.article-card-stage) {
+    max-width: 100%;
+    white-space: normal;
+  }
+  .el-reads :global(.article-card.is-premium .article-card-hero) {
+    height: 120px;
+  }
+  .el-reads :global(.article-card.is-premium .article-card-body) {
+    padding: 14px 16px 16px;
+  }
+  @media (min-width: 1024px) {
+    .elections-2026 .el-reads {
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
+  }
+  .el-reads > li > :global(.article-card) {
+    flex: 1;
   }
   .el-read {
     display: block;
