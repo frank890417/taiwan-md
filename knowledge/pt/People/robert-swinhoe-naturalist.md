@@ -22,15 +22,15 @@ image: ''
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/史溫侯.md'
-sourceCommitSha: '3f269cde5e'
-sourceContentHash: 'sha256:50b13c3a31e0a1c0'
-sourceBodyHash: 'sha256:e6b263814c7b1995'
-translatedAt: '2026-11-27T01:20:51.185646+00:00'
+sourceCommitSha: 'fce3f18534'
+sourceContentHash: 'sha256:38dbb4ed46592a20'
+sourceBodyHash: 'sha256:6175f72a885c5908'
+translatedAt: '2026-11-28T01:11:18.154792+00:00'
 ---
 
-# Robert Swinhoe: Quando o Diplomata Tornou-se Naturalista
+# Robert Swinhoe: Quando um diplomata se torna naturalista
 
-> **30 segundos de visão geral:** Robert Swinhoe (Robert Swinhoe, 1836-1877), primeiro embaixador britânico em Formosa. Em Taiwan, ele passou cerca de quatro anos, publicou 52 artigos acadêmicos sobre a ilha, registrou 227 espécies de aves, 40 de mamíferos e 246 de plantas. Enquanto o ornitólogo P. L. Sclater o chamou de "um dos maiores exploradores científicos da história", Swinhoe faleceu em Londres aos 41 anos. Mas as espécies que ele descreveu — desde a águia-bicicleta na capa do dinheiro de Taiwan até a tartaruga mais ameaçada do planeta — ainda sobrevivem nas montanhas da ilha (e seus nomes científicos permanecem registrados).
+> **Resumo em 30 segundos:** Robert Swinhoe (1836-1877), primeiro cônsul britânico em Formosa. Esteve em Taiwan por cerca de quatro anos no total, publicou 52 artigos académicos sobre esta ilha, registrou 227 espécies de aves, 40 de mamíferos e 246 de plantas. O ornitólogo contemporâneo P. L. Sclater chamou-o de «um dos mais bem-sucedidos exploradores naturalistas da história». Faleceu aos 41 anos vítima de doença, mas as espécies que nomeou — desde a mais representativa endêmica de Taiwan, o faisão-de-swinhoe, até a tartaruga mais ameaçada do planeta, a tartaruga-gigante-de-casca-mole-de-swinhoe — continuam vivas nesta ilha (e nos nomes científicos) até hoje.
 
 ---
 
