@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "phase": "counting",
- "updatedAt": "2026-11-28T23:35:05+08:00",
+ "updatedAt": "2026-11-28T23:36:14+08:00",
  "sourceName": "中央選舉委員會計票資訊查詢網站",
  "sourceUrl": "https://vote.cec.gov.tw/2026-local/zh-TW/indexP.html",
  "stations": {
-  "reported": 18242,
+  "reported": 18244,
   "total": 18248
  },
  "mayors": {
@@ -94,14 +94,14 @@
    ]
   },
   "桃園市": {
-   "reported": 1478,
+   "reported": 1479,
    "total": 1479,
    "candidates": [
     {
      "number": 1,
      "name": "黃世杰",
      "party": "民主進步黨",
-     "votes": 514845,
+     "votes": 515453,
      "pct": 44.32,
      "elected": false
     },
@@ -109,7 +109,7 @@
      "number": 2,
      "name": "張善政",
      "party": "中國國民黨",
-     "votes": 646772,
+     "votes": 647498,
      "pct": 55.68,
      "elected": false
     }
@@ -336,30 +336,30 @@
    ]
   },
   "新竹縣": {
-   "reported": 487,
+   "reported": 488,
    "total": 492,
    "candidates": [
     {
      "number": 1,
      "name": "鄭朝方",
      "party": "民主進步黨",
-     "votes": 171785,
-     "pct": 57.21,
+     "votes": 172277,
+     "pct": 57.22,
      "elected": false
     },
     {
      "number": 2,
      "name": "徐欣瑩",
      "party": "中國國民黨",
-     "votes": 121684,
-     "pct": 40.52,
+     "votes": 121948,
+     "pct": 40.51,
      "elected": false
     },
     {
      "number": 3,
      "name": "朱定瑀",
      "party": "無黨籍",
-     "votes": 6803,
+     "votes": 6827,
      "pct": 2.27,
      "elected": false
     }
