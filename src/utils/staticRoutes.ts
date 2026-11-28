@@ -145,7 +145,12 @@ function buildTree(dir: string): PageNode {
 // Module-level cache：一個 build process 走一次 src/pages 樹。
 let _root: PageNode | null = null;
 function getRoot(): PageNode {
-  if (!_root) _root = buildTree(resolve(process.cwd(), 'src/pages'));
+  // 分片建置（scripts/core/build-sharded.mjs）時，每個行程的 cwd 底下只有
+  // 自己那一份的頁；要看全站有哪些頁，得看腳本用 TWMD_PAGES_ROOT 指的真目錄。
+  if (!_root)
+    _root = buildTree(
+      process.env.TWMD_PAGES_ROOT ?? resolve(process.cwd(), 'src/pages'),
+    );
   return _root;
 }
 
