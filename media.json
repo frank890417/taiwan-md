@@ -1,40 +1,40 @@
 {
  "schema": 1,
- "fetchedAt": "2026-11-28T17:34:39+08:00",
+ "fetchedAt": "2026-11-28T17:35:37+08:00",
  "sourceName": "Yahoo新聞",
  "sourceUrl": "https://tw.news.yahoo.com/topic/2026-election/",
  "note": "媒體自行計票，非中選會官方數字",
  "races": {
   "新竹縣": {
-   "updatedAt": "2026-11-28T17:27:41+08:00",
+   "updatedAt": "2026-11-28T17:34:34+08:00",
    "candidates": [
     {
      "name": "鄭朝方",
-     "votes": 84271,
-     "pct": 61.82,
+     "votes": 86061,
+     "pct": 61.75,
      "elected": false
     },
     {
      "name": "徐欣瑩",
-     "votes": 52054,
-     "pct": 38.18,
+     "votes": 53316,
+     "pct": 38.25,
      "elected": false
     }
    ]
   },
   "新北市": {
-   "updatedAt": "2026-11-28T17:29:35+08:00",
+   "updatedAt": "2026-11-28T17:34:02+08:00",
    "candidates": [
     {
      "name": "蘇巧慧",
-     "votes": 526275,
-     "pct": 48.79,
+     "votes": 529877,
+     "pct": 48.78,
      "elected": false
     },
     {
      "name": "李四川",
-     "votes": 552349,
-     "pct": 51.21,
+     "votes": 556320,
+     "pct": 51.22,
      "elected": false
     }
    ]
