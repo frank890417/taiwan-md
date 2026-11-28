@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "fetchedAt": "2026-11-28T21:08:14+08:00",
+ "fetchedAt": "2026-11-28T21:09:13+08:00",
  "sourceName": "Yahoo新聞",
  "sourceUrl": "https://tw.news.yahoo.com/topic/2026-election/",
  "note": "媒體自行計票，非中選會官方數字",
@@ -342,18 +342,18 @@
    ]
   },
   "臺東縣": {
-   "updatedAt": "2026-11-28T21:07:40+08:00",
+   "updatedAt": "2026-11-28T21:08:37+08:00",
    "candidates": [
     {
      "name": "陳瑩",
-     "votes": 32662,
-     "pct": 36.33,
+     "votes": 33473,
+     "pct": 36.2,
      "elected": false
     },
     {
      "name": "吳秀華",
-     "votes": 55217,
-     "pct": 61.42,
+     "votes": 56937,
+     "pct": 61.58,
      "elected": true
     }
    ]
