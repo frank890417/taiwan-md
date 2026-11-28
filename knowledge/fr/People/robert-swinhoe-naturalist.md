@@ -22,15 +22,15 @@ image: ''
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/史溫侯.md'
-sourceCommitSha: '3f269cde5e'
-sourceContentHash: 'sha256:50b13c3a31e0a1c0'
-sourceBodyHash: 'sha256:e6b263814c7b1995'
-translatedAt: '2026-11-27T01:19:06.755779+00:00'
+sourceCommitSha: 'fce3f18534'
+sourceContentHash: 'sha256:38dbb4ed46592a20'
+sourceBodyHash: 'sha256:6175f72a885c5908'
+translatedAt: '2026-11-28T01:09:41.764211+00:00'
 ---
 
-# Robert Swinhoe : quand le diplomate devient naturaliste
+# Robert Swinhoe : quand un diplomate devient naturaliste
 
-> **Aperçu en 30 secondes :** Robert Swinhoe (1836-1877), premier consul britannique accrédité à Formose. Durant ses quatre années passées à Taïwan, il a publié 52 articles académiques sur l'île, recensant 227 espèces d'oiseaux, 40 de mammifères et 246 de plantes. L'ornithologue contemporain P. L. Sclater le qualifiait de « l'un des explorateurs naturalistes les plus fructueux de l'histoire ». Décédé à l'âge de 41 ans à Londres, les espèces qu'il a nommées — du faisan bleu sur les billets de mille dollars au plus rare des tortues du monde — vivent encore aujourd'hui sur cette île (et dans leurs noms scientifiques).
+> **Aperçu en 30 secondes :** Robert Swinhoe (1836-1877), premier consul britannique à Formose. Il séjourne au total environ quatre ans à Taïwan, publie 52 articles scientifiques sur l'île et y recense 227 espèces d'oiseaux, 40 espèces de mammifères et 246 espèces de plantes. L'ornithologue contemporain P. L. Sclater le qualifie de « l'un des explorateurs naturalistes les plus accomplis de l'histoire ». Il meurt à 41 ans des suites d'une maladie, mais les espèces qu'il a nommées — du faisan de Swinhoe, espèce endémique emblématique de Taïwan, à la tortue à carapace molle de Swinhoe, la plus menacée au monde — vivent encore aujourd'hui sur cette île (et dans leurs noms scientifiques).
 
 ---
 
