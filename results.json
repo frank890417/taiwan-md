@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "phase": "counting",
- "updatedAt": "2026-11-28T22:06:58+08:00",
+ "updatedAt": "2026-11-28T22:08:08+08:00",
  "sourceName": "中央選舉委員會計票資訊查詢網站",
  "sourceUrl": "https://vote.cec.gov.tw/2026-local/zh-TW/indexP.html",
  "stations": {
-  "reported": 18146,
+  "reported": 18150,
   "total": 18248
  },
  "mayors": {
@@ -388,61 +388,61 @@
    ]
   },
   "彰化縣": {
-   "reported": 1054,
+   "reported": 1056,
    "total": 1087,
    "candidates": [
     {
      "number": 1,
      "name": "陳素月",
      "party": "民主進步黨",
-     "votes": 292274,
-     "pct": 46.47,
+     "votes": 292834,
+     "pct": 46.45,
      "elected": false
     },
     {
      "number": 2,
      "name": "魏平政",
      "party": "中國國民黨",
-     "votes": 257380,
-     "pct": 40.92,
+     "votes": 257851,
+     "pct": 40.9,
      "elected": false
     },
     {
      "number": 3,
      "name": "邱建富",
      "party": "無黨籍",
-     "votes": 70807,
-     "pct": 11.26,
+     "votes": 71145,
+     "pct": 11.29,
      "elected": false
     },
     {
      "number": 4,
      "name": "陳重嘉",
      "party": "無黨籍",
-     "votes": 8548,
+     "votes": 8567,
      "pct": 1.36,
      "elected": false
     }
    ]
   },
   "南投縣": {
-   "reported": 489,
+   "reported": 490,
    "total": 496,
    "candidates": [
     {
      "number": 1,
      "name": "許淑華",
      "party": "中國國民黨",
-     "votes": 166399,
-     "pct": 62.44,
+     "votes": 166928,
+     "pct": 62.48,
      "elected": false
     },
     {
      "number": 2,
      "name": "温世政",
      "party": "民主進步黨",
-     "votes": 100084,
-     "pct": 37.56,
+     "votes": 100241,
+     "pct": 37.52,
      "elected": false
     }
    ]
@@ -486,23 +486,23 @@
    ]
   },
   "嘉義縣": {
-   "reported": 538,
+   "reported": 539,
    "total": 540,
    "candidates": [
     {
      "number": 1,
      "name": "吳品叡",
      "party": "無黨籍",
-     "votes": 117065,
-     "pct": 44.13,
+     "votes": 117463,
+     "pct": 44.12,
      "elected": false
     },
     {
      "number": 2,
      "name": "蔡易餘",
      "party": "民主進步黨",
-     "votes": 148211,
-     "pct": 55.87,
+     "votes": 148764,
+     "pct": 55.88,
      "elected": false
     }
    ]
@@ -791,14 +791,14 @@
   }
  },
  "referendum": {
-  "agree": 7396235,
-  "disagree": 4538025,
-  "valid": 11934260,
-  "invalid": 565013,
+  "agree": 7399311,
+  "disagree": 4539930,
+  "valid": 11939241,
+  "invalid": 565174,
   "eligible": 20003835,
-  "reported": 18166,
+  "reported": 18172,
   "total": 18248,
-  "completedEligible": 19908800
+  "completedEligible": 19916682
  },
  "coverage": {
   "mayorsWithData": 22,
