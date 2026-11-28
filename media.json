@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "fetchedAt": "2026-11-28T19:21:07+08:00",
+ "fetchedAt": "2026-11-28T19:22:06+08:00",
  "sourceName": "Yahoo新聞",
  "sourceUrl": "https://tw.news.yahoo.com/topic/2026-election/",
  "note": "媒體自行計票，非中選會官方數字",
@@ -376,35 +376,35 @@
    ]
   },
   "臺北市": {
-   "updatedAt": "2026-11-28T19:18:30+08:00",
+   "updatedAt": "2026-11-28T19:21:00+08:00",
    "candidates": [
     {
      "name": "沈伯洋",
-     "votes": 390457,
+     "votes": 398582,
      "pct": 45.57,
      "elected": false
     },
     {
      "name": "蔣萬安",
-     "votes": 461312,
+     "votes": 470863,
      "pct": 53.84,
      "elected": false
     }
    ]
   },
   "高雄市": {
-   "updatedAt": "2026-11-28T19:06:27+08:00",
+   "updatedAt": "2026-11-28T19:21:05+08:00",
    "candidates": [
     {
      "name": "柯志恩",
-     "votes": 437029,
-     "pct": 45.42,
+     "votes": 506226,
+     "pct": 44.77,
      "elected": false
     },
     {
      "name": "賴瑞隆",
-     "votes": 512532,
-     "pct": 53.26,
+     "votes": 589466,
+     "pct": 52.14,
      "elected": false
     }
    ]
