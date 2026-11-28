@@ -244,6 +244,8 @@ const boot = {
       >
       </div>
       <ul class="lb-score-legend el-reset" data-lb-media-legend></ul>
+      <ul class="lb-mgrid" data-lb-media-grid></ul>
+      <p class="lb-note">{copy.mediaGridNote}</p>
       <p class="lb-note" data-lb-media-note></p>
       <p class="lb-note">{copy.mediaWhy}</p>
     </div>
@@ -332,7 +334,14 @@ const boot = {
             ))
           }
         </svg>
-        <figcaption class="lb-map-cap">{copy.mapTitle}</figcaption>
+        <figcaption class="lb-map-cap">
+          {copy.mapTitle}
+          <span class="lb-map-src" data-lb-map-src hidden>
+            <span class="lb-map-swatch" aria-hidden="true"></span>
+            {copy.media}
+            <span class="lb-tag lb-tag-unofficial">{copy.unofficial}</span>
+          </span>
+        </figcaption>
       </figure>
 
       <!-- 六都 -->
@@ -662,6 +671,17 @@ const boot = {
               `<li data-party="${k}"><span class="lb-chip" aria-hidden="true"></span><span class="lb-leg-name">${esc(C.party[k])}</span><span class="lb-leg-n">${count[k].length}</span><span class="lb-leg-areas">${esc(count[k].join(SEP))}</span></li>`,
           )
           .join('');
+      const grid = $('[data-lb-media-grid]');
+      if (grid)
+        grid.innerHTML = views
+          .map((x: any) => {
+            const l = x.mv.list;
+            const total = l.reduce((a: number, c: any) => a + c.votes, 0);
+            const gap =
+              total > 0 ? ((l[0].votes - (l[1]?.votes || 0)) / total) * 100 : 0;
+            return `<li><a class="lb-mcell${gap < 5 ? ' is-close' : ''}" href="#lb-race-${esc(x.race.area)}" data-party="${partyKey(l[0].party)}"><span class="lb-mcell-area">${esc(x.race.label)}</span><span class="lb-mcell-name"><span class="lb-chip" aria-hidden="true"></span>${esc(l[0].name)}</span><span class="lb-mcell-gap">+${gap.toFixed(1)}</span></a></li>`;
+          })
+          .join('');
       const t = $('[data-lb-media-time]');
       if (t) t.textContent = timeFmt(latest);
       const note = $('[data-lb-media-note]');
@@ -689,7 +709,8 @@ const boot = {
           .map(cardHtml)
           .join('');
       }
-      // 地圖
+      // 地圖：中選會還在開票初期（或沒資料）的縣市，先用媒體計票上色並在圖說標明
+      let usedMedia = false;
       views.forEach((v: any) => {
         const a = root!.querySelector(
           `[data-lb-map="${CSS.escape(v.race.area)}"]`,
@@ -697,16 +718,28 @@ const boot = {
         const path = a?.querySelector('path');
         const head = v.winner || v.leader;
         if (!a || !path) return;
-        path.setAttribute('data-party', head ? partyKey(head.party) : 'none');
-        path.toggleAttribute('data-early', !!v.early);
+        const mv = !head || v.early ? mediaView(v.race) : null;
+        path.setAttribute(
+          'data-party',
+          mv
+            ? partyKey(mv.list[0].party)
+            : head
+              ? partyKey(head.party)
+              : 'none',
+        );
+        path.toggleAttribute('data-early', !!v.early && !mv);
+        path.toggleAttribute('data-media', !!mv);
+        if (mv) usedMedia = true;
         const chip = root!.querySelector(
           `[data-lb-chip="${CSS.escape(v.race.area)}"]`,
         );
         chip?.setAttribute('data-party', head ? partyKey(head.party) : 'none');
         chip?.toggleAttribute('data-early', !!v.early);
-        const text = head
-          ? `${v.winner ? C.elected : v.early ? C.early : C.leading} ${head.name} · ${head.partyLabel || head.party} · ${(head.pct || 0).toFixed(1)}%`
-          : C.noData;
+        const text = mv
+          ? `${C.media} · ${C.unofficial} · ${mv.list[0].name} · ${mv.list[0].partyLabel || mv.list[0].party}`
+          : head
+            ? `${v.winner ? C.elected : v.early ? C.early : C.leading} ${head.name} · ${head.partyLabel || head.party} · ${(head.pct || 0).toFixed(1)}%`
+            : C.noData;
         a.setAttribute(
           'aria-label',
           fill(C.mapAria, { area: v.race.label, text }),
@@ -714,6 +747,8 @@ const boot = {
         const t = a.querySelector('title');
         if (t) t.textContent = fill(C.mapAria, { area: v.race.label, text });
       });
+      const ms = $('[data-lb-map-src]');
+      if (ms) ms.hidden = !usedMedia;
       // 各黨領先縣市數
       const order = ['kmt', 'dpp', 'tpp', 'ind', 'other'];
       const count: Record<
@@ -1498,6 +1533,69 @@ const boot = {
   }
   .lb-map-link:focus {
     outline: none;
+  }
+  .lb-c[data-media] {
+    fill-opacity: 0.8;
+    stroke: var(--el-ink-3);
+    stroke-width: 0.9;
+    stroke-dasharray: 3 2;
+  }
+  .lb-map-src {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    margin-inline-start: 8px;
+  }
+  .lb-map-swatch {
+    width: 14px;
+    height: 10px;
+    border: 1px dashed var(--el-ink-2);
+    border-radius: 2px;
+    background: var(--el-border-strong);
+  }
+  .lb-mgrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 6px;
+    margin-top: 14px;
+  }
+  .lb .lb-mcell {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 0 6px;
+    padding: 7px 10px;
+    border: 1px solid var(--el-border);
+    border-inline-start: 3px solid var(--p);
+    border-radius: 8px;
+    color: var(--el-ink);
+    text-decoration: none;
+    font-size: 13px;
+  }
+  .lb .lb-mcell.is-close {
+    border-style: dashed;
+    border-inline-start-style: solid;
+    border-color: var(--el-border-strong);
+    border-inline-start-color: var(--p);
+  }
+  .lb .lb-mcell:hover,
+  .lb .lb-mcell:focus-visible {
+    border-color: var(--el-ink);
+  }
+  .lb-mcell-area {
+    grid-column: 1 / -1;
+    font-size: 12px;
+    color: var(--el-ink-3);
+  }
+  .lb-mcell-name {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    font-weight: 700;
+    overflow-wrap: anywhere;
+  }
+  .lb-mcell-gap {
+    font-variant-numeric: tabular-nums;
+    color: var(--el-ink-2);
   }
   .lb-map-cap {
     margin-top: 8px;

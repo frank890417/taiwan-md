@@ -86,7 +86,8 @@
     "unofficial": "非官方",
     "mediaNote": "電視台與新聞網站派人在投開票所自行計票，比中選會快很多，但不是官方數字，也可能有誤差。這一排數字轉錄自 {src}；正式結果看上面的中選會數字。",
     "mediaWhy": "為什麼兩個數字差這麼多？中選會要等投開票所完成並回報才計入，通常比媒體慢一到兩小時。",
-    "officialTitle": "中選會官方計票"
+    "officialTitle": "中選會官方計票",
+    "mediaGridNote": "各縣市媒體計票領先者與領先幅度（百分點）。虛線框是差距在 5 個百分點內。"
   },
   "en": {
     "eyebrow": "Taiwan 2026 Local Elections · Live Count",
@@ -174,7 +175,8 @@
     "unofficial": "Unofficial",
     "mediaNote": "TV stations and news sites count on their own at polling stations. It is much faster than the CEC but not official and may contain errors. These figures are relayed from {src}; for official results see the CEC figures.",
     "mediaWhy": "Why are the two sets so different? The CEC only counts a station once it has finished and reported, which usually runs one to two hours behind the media.",
-    "officialTitle": "Official CEC count"
+    "officialTitle": "Official CEC count",
+    "mediaGridNote": "Media-count leader in each race and the lead in percentage points. Dashed boxes are within 5 points."
   },
   "ja": {
     "eyebrow": "台湾 2026年統一地方選挙 · 開票速報",
@@ -262,7 +264,8 @@
     "unofficial": "非公式",
     "mediaNote": "テレビ局やニュースサイトが投開票所で独自に集計した数字です。中央選挙委員会よりずっと速い一方、公式の数字ではなく誤差もあり得ます。この数字は {src} からの転載で、正式な結果は中央選挙委員会の数字をご覧ください。",
     "mediaWhy": "なぜ二つの数字はこれほど違うのか。中央選挙委員会は投開票所の作業と報告が終わってから計上するため、通常メディアより1〜2時間遅れます。",
-    "officialTitle": "中央選挙委員会の公式集計"
+    "officialTitle": "中央選挙委員会の公式集計",
+    "mediaGridNote": "各県・市のメディア集計での首位と差（ポイント）。破線の枠は差が5ポイント以内です。"
   },
   "ko": {
     "eyebrow": "대만 2026 지방선거 · 개표 현황",
@@ -350,7 +353,8 @@
     "unofficial": "비공식",
     "mediaNote": "방송사와 뉴스 사이트가 투개표소에서 자체 집계한 수치입니다. 중앙선거관리위원회보다 훨씬 빠르지만 공식 수치가 아니며 오차가 있을 수 있습니다. 이 수치는 {src}에서 옮겨 실은 것이며, 공식 결과는 중앙선거관리위원회 수치를 보십시오.",
     "mediaWhy": "두 수치가 왜 이렇게 다를까요? 중앙선거관리위원회는 투개표소가 작업을 마치고 보고한 뒤에야 집계하므로 보통 언론보다 한두 시간 늦습니다.",
-    "officialTitle": "중앙선거관리위원회 공식 집계"
+    "officialTitle": "중앙선거관리위원회 공식 집계",
+    "mediaGridNote": "지역별 언론 집계 선두와 격차(%포인트). 점선 상자는 격차 5%포인트 이내입니다."
   },
   "es": {
     "eyebrow": "Elecciones locales de Taiwán 2026 · Escrutinio en vivo",
@@ -438,7 +442,8 @@
     "unofficial": "No oficial",
     "mediaNote": "Las televisiones y los medios digitales cuentan por su cuenta en los colegios. Es mucho más rápido que la CEC, pero no es oficial y puede contener errores. Estas cifras proceden de {src}; para los resultados oficiales, consulte las cifras de la CEC.",
     "mediaWhy": "¿Por qué difieren tanto? La CEC solo contabiliza un colegio cuando ha terminado e informado, lo que suele ir una o dos horas por detrás de los medios.",
-    "officialTitle": "Recuento oficial de la CEC"
+    "officialTitle": "Recuento oficial de la CEC",
+    "mediaGridNote": "Líder según el recuento de los medios en cada circunscripción y ventaja en puntos porcentuales. Los recuadros discontinuos están a menos de 5 puntos."
   },
   "fr": {
     "eyebrow": "Élections locales de Taïwan 2026 · Dépouillement en direct",
@@ -526,7 +531,8 @@
     "unofficial": "Non officiel",
     "mediaNote": "Les chaînes de télévision et les sites d’information comptent eux-mêmes dans les bureaux de vote. C’est bien plus rapide que la CEC, mais ce n’est pas officiel et des erreurs sont possibles. Ces chiffres sont repris de {src} ; pour les résultats officiels, voir les chiffres de la CEC.",
     "mediaWhy": "Pourquoi un tel écart ? La CEC ne comptabilise un bureau qu’une fois le dépouillement terminé et transmis, ce qui accuse en général une à deux heures de retard sur les médias.",
-    "officialTitle": "Décompte officiel de la CEC"
+    "officialTitle": "Décompte officiel de la CEC",
+    "mediaGridNote": "En tête selon le décompte des médias dans chaque circonscription, avec l’avance en points. Les cadres en pointillés sont à moins de 5 points."
   },
   "de": {
     "eyebrow": "Kommunalwahlen in Taiwan 2026 · Live-Auszählung",
@@ -614,7 +620,8 @@
     "unofficial": "Inoffiziell",
     "mediaNote": "Fernsehsender und Nachrichtenseiten zählen in den Wahllokalen selbst mit. Das ist viel schneller als die CEC, aber nicht amtlich und kann Fehler enthalten. Diese Zahlen stammen von {src}; die amtlichen Ergebnisse stehen bei den CEC-Zahlen.",
     "mediaWhy": "Warum weichen die Zahlen so stark ab? Die CEC zählt ein Wahllokal erst, wenn es fertig ausgezählt und gemeldet hat, meist ein bis zwei Stunden hinter den Medien.",
-    "officialTitle": "Amtliche CEC-Zählung"
+    "officialTitle": "Amtliche CEC-Zählung",
+    "mediaGridNote": "Führende laut Medienzählung je Wahlkreis und Vorsprung in Prozentpunkten. Gestrichelte Felder liegen innerhalb von 5 Punkten."
   },
   "pt": {
     "eyebrow": "Eleições locais de Taiwan 2026 · Apuração ao vivo",
@@ -702,7 +709,8 @@
     "unofficial": "Não oficial",
     "mediaNote": "Emissoras e sites de notícias contam por conta própria nas seções. É muito mais rápido que a CEC, mas não é oficial e pode conter erros. Estes números são reproduzidos de {src}; para os resultados oficiais, veja os números da CEC.",
     "mediaWhy": "Por que os números diferem tanto? A CEC só contabiliza uma seção depois de concluída e informada, o que costuma ficar uma a duas horas atrás da imprensa.",
-    "officialTitle": "Contagem oficial da CEC"
+    "officialTitle": "Contagem oficial da CEC",
+    "mediaGridNote": "Líder na contagem da imprensa em cada disputa e vantagem em pontos percentuais. Os quadros tracejados estão a menos de 5 pontos."
   },
   "ru": {
     "eyebrow": "Местные выборы на Тайване 2026 · Подсчёт голосов онлайн",
@@ -790,7 +798,8 @@
     "unofficial": "Неофициально",
     "mediaNote": "Телеканалы и новостные сайты ведут собственный подсчёт на участках. Он намного быстрее, чем у ЦИК, но не является официальным и может содержать ошибки. Эти цифры взяты у {src}; официальные результаты смотрите в данных ЦИК.",
     "mediaWhy": "Почему цифры так расходятся? ЦИК учитывает участок только после завершения подсчёта и отчёта, обычно на один-два часа позже СМИ.",
-    "officialTitle": "Официальный подсчёт ЦИК"
+    "officialTitle": "Официальный подсчёт ЦИК",
+    "mediaGridNote": "Лидер по подсчёту СМИ в каждом округе и отрыв в процентных пунктах. Пунктирные рамки — отрыв менее 5 пунктов."
   },
   "vi": {
     "eyebrow": "Bầu cử địa phương Đài Loan 2026 · Kiểm phiếu trực tiếp",
@@ -878,7 +887,8 @@
     "unofficial": "Không chính thức",
     "mediaNote": "Các đài truyền hình và trang tin tự kiểm phiếu tại điểm bỏ phiếu. Cách này nhanh hơn CEC nhiều nhưng không phải số liệu chính thức và có thể sai lệch. Các con số này được chuyển lại từ {src}; kết quả chính thức xem ở số liệu của CEC.",
     "mediaWhy": "Vì sao hai bộ số liệu chênh nhau nhiều? CEC chỉ tính khi điểm bỏ phiếu đã kiểm xong và báo cáo, thường chậm hơn truyền thông một đến hai giờ.",
-    "officialTitle": "Kiểm phiếu chính thức của CEC"
+    "officialTitle": "Kiểm phiếu chính thức của CEC",
+    "mediaGridNote": "Người dẫn đầu theo kiểm phiếu của truyền thông ở từng nơi và khoảng cách tính bằng điểm phần trăm. Ô viền nét đứt là cách nhau dưới 5 điểm."
   },
   "id": {
     "eyebrow": "Pemilu Daerah Taiwan 2026 · Penghitungan Langsung",
@@ -966,7 +976,8 @@
     "unofficial": "Tidak resmi",
     "mediaNote": "Stasiun TV dan situs berita menghitung sendiri di TPS. Jauh lebih cepat daripada CEC, tetapi bukan angka resmi dan bisa mengandung kesalahan. Angka ini disalin dari {src}; untuk hasil resmi lihat angka CEC.",
     "mediaWhy": "Mengapa kedua angka sangat berbeda? CEC baru menghitung sebuah TPS setelah selesai dan melapor, biasanya satu sampai dua jam di belakang media.",
-    "officialTitle": "Hitungan resmi CEC"
+    "officialTitle": "Hitungan resmi CEC",
+    "mediaGridNote": "Pemimpin menurut hitungan media di tiap daerah dan selisihnya dalam poin persentase. Kotak bergaris putus-putus berselisih kurang dari 5 poin."
   },
   "hi": {
     "eyebrow": "ताइवान स्थानीय चुनाव 2026 · मतगणना लाइव",
@@ -1054,7 +1065,8 @@
     "unofficial": "अनौपचारिक",
     "mediaNote": "टीवी चैनल और समाचार साइटें मतदान केंद्रों पर अपनी गिनती करती हैं। यह CEC से कहीं तेज़ है, पर आधिकारिक नहीं है और इसमें गलती हो सकती है। ये आँकड़े {src} से लिए गए हैं; आधिकारिक नतीजों के लिए CEC के आँकड़े देखें।",
     "mediaWhy": "दोनों आँकड़ों में इतना फ़र्क क्यों? CEC किसी केंद्र को तभी गिनता है जब वहाँ गिनती पूरी होकर रिपोर्ट आ जाए, जो आम तौर पर मीडिया से एक-दो घंटे पीछे रहता है।",
-    "officialTitle": "CEC की आधिकारिक गिनती"
+    "officialTitle": "CEC की आधिकारिक गिनती",
+    "mediaGridNote": "हर क्षेत्र में मीडिया गिनती के अनुसार आगे चल रहा उम्मीदवार और बढ़त (प्रतिशत अंक)। टूटी रेखा वाले खाने 5 अंक के भीतर हैं।"
   },
   "ar": {
     "eyebrow": "الانتخابات المحلية في تايوان 2026 · الفرز المباشر",
@@ -1142,6 +1154,7 @@
     "unofficial": "غير رسمي",
     "mediaNote": "تُجري القنوات التلفزيونية والمواقع الإخبارية فرزًا خاصًا بها في مراكز الاقتراع. هو أسرع كثيرًا من اللجنة لكنه غير رسمي وقد يتضمن أخطاء. هذه الأرقام منقولة عن {src}، وللنتائج الرسمية راجع أرقام اللجنة.",
     "mediaWhy": "لماذا يختلف الرقمان كثيرًا؟ لا تحتسب اللجنة المركز إلا بعد انتهاء الفرز فيه وإبلاغها، وهو ما يتأخر عادة ساعة أو ساعتين عن وسائل الإعلام.",
-    "officialTitle": "الفرز الرسمي للجنة"
+    "officialTitle": "الفرز الرسمي للجنة",
+    "mediaGridNote": "المتصدّر بحسب فرز وسائل الإعلام في كل دائرة والفارق بالنقاط المئوية. الإطارات المتقطعة يقل فيها الفارق عن 5 نقاط."
   }
 }
