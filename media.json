@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "fetchedAt": "2026-11-28T19:37:03+08:00",
+ "fetchedAt": "2026-11-28T19:38:15+08:00",
  "sourceName": "Yahoo新聞",
  "sourceUrl": "https://tw.news.yahoo.com/topic/2026-election/",
  "note": "媒體自行計票，非中選會官方數字",
@@ -393,18 +393,18 @@
    ]
   },
   "高雄市": {
-   "updatedAt": "2026-11-28T19:21:05+08:00",
+   "updatedAt": "2026-11-28T19:37:10+08:00",
    "candidates": [
     {
      "name": "柯志恩",
-     "votes": 506226,
-     "pct": 44.77,
+     "votes": 553513,
+     "pct": 44.35,
      "elected": false
     },
     {
      "name": "賴瑞隆",
-     "votes": 589466,
-     "pct": 52.14,
+     "votes": 643405,
+     "pct": 51.55,
      "elected": false
     }
    ]
