@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "phase": "counting",
- "updatedAt": "2026-11-28T21:29:36+08:00",
+ "updatedAt": "2026-11-28T21:30:34+08:00",
  "sourceName": "中央選舉委員會計票資訊查詢網站",
  "sourceUrl": "https://vote.cec.gov.tw/2026-local/zh-TW/indexP.html",
  "stations": {
-  "reported": 17945,
+  "reported": 17955,
   "total": 18248
  },
  "mayors": {
@@ -64,14 +64,14 @@
    ]
   },
   "新北市": {
-   "reported": 2705,
+   "reported": 2706,
    "total": 2728,
    "candidates": [
     {
      "number": 1,
      "name": "蘇巧慧",
      "party": "民主進步黨",
-     "votes": 1043957,
+     "votes": 1044429,
      "pct": 48.25,
      "elected": false
     },
@@ -79,7 +79,7 @@
      "number": 2,
      "name": "蘇輝湟",
      "party": "無黨籍",
-     "votes": 11695,
+     "votes": 11703,
      "pct": 0.54,
      "elected": false
     },
@@ -87,7 +87,7 @@
      "number": 3,
      "name": "李四川",
      "party": "中國國民黨",
-     "votes": 1107866,
+     "votes": 1108591,
      "pct": 51.21,
      "elected": false
     }
@@ -336,113 +336,113 @@
    ]
   },
   "新竹縣": {
-   "reported": 407,
+   "reported": 409,
    "total": 492,
    "candidates": [
     {
      "number": 1,
      "name": "鄭朝方",
      "party": "民主進步黨",
-     "votes": 134716,
-     "pct": 55.88,
+     "votes": 135508,
+     "pct": 55.9,
      "elected": false
     },
     {
      "number": 2,
      "name": "徐欣瑩",
      "party": "中國國民黨",
-     "votes": 100912,
-     "pct": 41.86,
+     "votes": 101422,
+     "pct": 41.84,
      "elected": false
     },
     {
      "number": 3,
      "name": "朱定瑀",
      "party": "無黨籍",
-     "votes": 5452,
-     "pct": 2.26,
+     "votes": 5492,
+     "pct": 2.27,
      "elected": false
     }
    ]
   },
   "苗栗縣": {
-   "reported": 500,
+   "reported": 502,
    "total": 508,
    "candidates": [
     {
      "number": 1,
      "name": "陳品安",
      "party": "民主進步黨",
-     "votes": 105259,
-     "pct": 37.75,
+     "votes": 105870,
+     "pct": 37.76,
      "elected": false
     },
     {
      "number": 2,
      "name": "鍾東錦",
      "party": "中國國民黨",
-     "votes": 173574,
-     "pct": 62.25,
+     "votes": 174487,
+     "pct": 62.24,
      "elected": false
     }
    ]
   },
   "彰化縣": {
-   "reported": 1011,
+   "reported": 1013,
    "total": 1087,
    "candidates": [
     {
      "number": 1,
      "name": "陳素月",
      "party": "民主進步黨",
-     "votes": 279557,
-     "pct": 46.61,
+     "votes": 280142,
+     "pct": 46.6,
      "elected": false
     },
     {
      "number": 2,
      "name": "魏平政",
      "party": "中國國民黨",
-     "votes": 246414,
-     "pct": 41.09,
+     "votes": 246943,
+     "pct": 41.08,
      "elected": false
     },
     {
      "number": 3,
      "name": "邱建富",
      "party": "無黨籍",
-     "votes": 65514,
-     "pct": 10.92,
+     "votes": 65800,
+     "pct": 10.95,
      "elected": false
     },
     {
      "number": 4,
      "name": "陳重嘉",
      "party": "無黨籍",
-     "votes": 8261,
+     "votes": 8271,
      "pct": 1.38,
      "elected": false
     }
    ]
   },
   "南投縣": {
-   "reported": 474,
+   "reported": 476,
    "total": 496,
    "candidates": [
     {
      "number": 1,
      "name": "許淑華",
      "party": "中國國民黨",
-     "votes": 159632,
-     "pct": 62.48,
+     "votes": 160633,
+     "pct": 62.51,
      "elected": false
     },
     {
      "number": 2,
      "name": "温世政",
      "party": "民主進步黨",
-     "votes": 95873,
-     "pct": 37.52,
+     "votes": 96330,
+     "pct": 37.49,
      "elected": false
     }
    ]
@@ -508,14 +508,14 @@
    ]
   },
   "屏東縣": {
-   "reported": 727,
+   "reported": 728,
    "total": 740,
    "candidates": [
     {
      "number": 1,
      "name": "蘇清泉",
      "party": "中國國民黨",
-     "votes": 165723,
+     "votes": 165974,
      "pct": 38.46,
      "elected": false
     },
@@ -523,7 +523,7 @@
      "number": 2,
      "name": "周春米",
      "party": "民主進步黨",
-     "votes": 265181,
+     "votes": 265536,
      "pct": 61.54,
      "elected": false
     }
@@ -791,21 +791,19 @@
   }
  },
  "referendum": {
-  "agree": 7299710,
-  "disagree": 4483517,
-  "valid": 11783227,
-  "invalid": 558135,
+  "agree": 7303043,
+  "disagree": 4485547,
+  "valid": 11788590,
+  "invalid": 558420,
   "eligible": 20003835,
-  "reported": 17960,
+  "reported": 17967,
   "total": 18248,
-  "completedEligible": 19660370
+  "completedEligible": 19669215
  },
  "coverage": {
   "mayorsWithData": 22,
   "mayorsTotal": 22
  },
  "unmatched": [],
- "errors": [
-  "臺南市: 新票數 992902 少於上一版 993441，保留上一版"
- ]
+ "errors": []
 }
