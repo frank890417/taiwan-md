@@ -332,6 +332,16 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-11-29 election-night — guard-assumes-a-property-the-official-source-never-promised：替官方資料寫的保護規則，擋下了官方自己的更正
+
+- **pattern**: guard-assumes-a-property-the-official-source-never-promised
+- **原則**：替外部即時資料寫保護規則時，規則裡假設的性質（只增不減、開完不再變、百分之百就是結束）要先對著來源實際的行為驗過；來源沒有承諾過的性質，規則擋下的會是來源自己的更正。
+- **觸發**：2026-11-28 開票夜。`publish_results.py` 的防倒退規則「新票數少於上一版就保留上一版」，21:44 擋下中選會把高雄從 2089/2089 退回 2087 的更正，頁面停在舊數字五分鐘，靠十五分鐘一次的對帳看到 `errors=1` 才發現（修在 `049385e4c9`，改成掉不到百分之二照官方走）。同一晚同族兩例：開票百分比 1788/1790 被四捨五入顯示成「已開 100%」（`4004b913ac`）；「票所全數回報就判定」遇上臺中、桃園開完又退回，定案改成等數字連續十多輪不動。→ memory/2026-11-28-145500-election-night.md
+- **instances**：
+- **可能層級**：通用反射
+- **相關**：最接近 #65（儀器自身要對 ground truth 驗證）與 #38（查不到混兩種根因）。差異在方向：那兩條講的是儀器量錯，這條是保護規則把正確的新資料當成錯的擋掉，而且擋下時頁面看起來一切正常。
+- **verification_count**: 1
+
 ### 2026-11-28 twmd-feedback-triage — dry-run-cannot-exercise-the-dedupe-layer-it-is-asked-to-approve：核准 `--commit` 的那道 dry-run，看不到兩層去重裡的一層
 
 - **pattern**: `dry-run-cannot-exercise-the-dedupe-layer-it-is-asked-to-approve`
