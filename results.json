@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "phase": "counting",
- "updatedAt": "2026-11-28T23:20:11+08:00",
+ "updatedAt": "2026-11-28T23:21:20+08:00",
  "sourceName": "中央選舉委員會計票資訊查詢網站",
  "sourceUrl": "https://vote.cec.gov.tw/2026-local/zh-TW/indexP.html",
  "stations": {
-  "reported": 18239,
+  "reported": 18238,
   "total": 18248
  },
  "mayors": {
@@ -94,14 +94,14 @@
    ]
   },
   "桃園市": {
-   "reported": 1479,
+   "reported": 1478,
    "total": 1479,
    "candidates": [
     {
      "number": 1,
      "name": "黃世杰",
      "party": "民主進步黨",
-     "votes": 515453,
+     "votes": 514845,
      "pct": 44.32,
      "elected": false
     },
@@ -109,7 +109,7 @@
      "number": 2,
      "name": "張善政",
      "party": "中國國民黨",
-     "votes": 647498,
+     "votes": 646772,
      "pct": 55.68,
      "elected": false
     }
