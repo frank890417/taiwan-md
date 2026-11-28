@@ -290,6 +290,7 @@ try {
 //   2. 快取目錄各份分開，避免同時寫同一個目錄。
 //   3. public/ 只由第 0 份複製，其餘各份給空目錄。
 const IS_SHARD = process.env.TWMD_SHARD !== undefined;
+/** @type {import('astro').AstroIntegration} */
 const shardPagesRecorder = {
   name: 'twmd-shard-pages',
   hooks: {
