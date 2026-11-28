@@ -76,7 +76,8 @@
       "tpp": "民眾黨",
       "ind": "無黨籍",
       "other": "其他政黨"
-    }
+    },
+    "more": "其他 {n} 位候選人"
   },
   "en": {
     "eyebrow": "Taiwan 2026 Local Elections · Live Count",
@@ -154,6 +155,7 @@
       "tpp": "TPP",
       "ind": "Independent",
       "other": "Other parties"
-    }
+    },
+    "more": "{n} more candidates"
   }
 }

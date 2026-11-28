@@ -237,6 +237,11 @@ const boot = {
       <p class="lb-note">{copy.scoreNote}</p>
     </div>
 
+    <div class="lb-overview" data-lb-overview hidden>
+      <h3 class="lb-h3">{copy.overviewTitle}</h3>
+      <div class="lb-overview-body" data-lb-overview-body></div>
+    </div>
+
     <div class="lb-grid">
       <!-- 地圖 -->
       <figure class="lb-map">
@@ -291,11 +296,6 @@ const boot = {
       </div>
     </div>
 
-    <div class="lb-minor">
-      <h3 class="lb-h3">{copy.county}</h3>
-      <div class="lb-cards lb-cards-minor" data-lb-cards="county"></div>
-    </div>
-
     <!-- 公投 -->
     <div class="lb-ref" data-lb-ref>
       <div class="lb-ref-head">
@@ -313,13 +313,14 @@ const boot = {
       </p>
     </div>
 
-    <!-- 全貌＋消息＋查核 -->
+    <div class="lb-minor">
+      <h3 class="lb-h3">{copy.county}</h3>
+      <div class="lb-cards lb-cards-minor" data-lb-cards="county"></div>
+    </div>
+
+    <!-- 消息＋查核 -->
     <div class="lb-feed-grid">
       <div class="lb-feed">
-        <div class="lb-overview" data-lb-overview hidden>
-          <h3 class="lb-h3">{copy.overviewTitle}</h3>
-          <div class="lb-overview-body" data-lb-overview-body></div>
-        </div>
         <h3 class="lb-h3">{copy.feedTitle}</h3>
         <p class="lb-note">{copy.feedLead}</p>
         <ol class="lb-items el-reset" data-lb-items>
@@ -483,16 +484,15 @@ const boot = {
         v.leader && v.second
           ? `<span class="lb-margin">${esc(fill(C.margin, { n: num((v.leader.votes || 0) - (v.second.votes || 0)) }))}</span>`
           : '';
-      const rows = v.cands
-        .map((c) => {
-          const k = partyKey(c.party);
-          const isHead = head && c === head;
-          const pct = v.hasVotes ? (c.pct || 0).toFixed(2) + '%' : '';
-          const no =
-            c.number != null
-              ? `<span class="lb-no">${esc(C.numberPrefix)}${c.number}${esc(C.numberSuffix)}</span>`
-              : '';
-          return `<li class="lb-row${isHead ? ' is-head' : ''}" data-party="${k}">
+      const rowHtml = (c: Cand) => {
+        const k = partyKey(c.party);
+        const isHead = head && c === head;
+        const pct = v.hasVotes ? (c.pct || 0).toFixed(2) + '%' : '';
+        const no =
+          c.number != null
+            ? `<span class="lb-no">${esc(C.numberPrefix)}${c.number}${esc(C.numberSuffix)}</span>`
+            : '';
+        return `<li class="lb-row${isHead ? ' is-head' : ''}" data-party="${k}">
             <div class="lb-row-top">
               <span class="lb-name">${esc(c.name)}${c.elected ? ` <span class="lb-tag lb-tag-win">${esc(C.elected)}</span>` : ''}</span>
               <span class="lb-pct">${pct}</span>
@@ -503,14 +503,21 @@ const boot = {
             </div>
             <div class="lb-bar" aria-hidden="true"><span style="width:${v.hasVotes ? Math.min(100, c.pct || 0).toFixed(2) : 0}%"></span></div>
           </li>`;
-        })
-        .join('');
+      };
+      const KEEP = 3;
+      const top = v.cands.slice(0, KEEP).map(rowHtml).join('');
+      const rest = v.cands.slice(KEEP);
+      const rows =
+        `<ol class="lb-rows">${top}</ol>` +
+        (rest.length
+          ? `<details class="lb-more"><summary>${esc(fill(C.more, { n: rest.length }))}</summary><ol class="lb-rows">${rest.map(rowHtml).join('')}</ol></details>`
+          : '');
       return `<article class="lb-card" id="lb-race-${esc(v.race.area)}" data-party="${head ? partyKey(head.party) : 'none'}">
         <header class="lb-card-head">
           <h4 class="lb-card-title">${esc(v.race.label)}</h4>
           <span class="lb-card-tags">${tag}${margin}</span>
         </header>
-        <ol class="lb-rows el-reset">${rows}</ol>
+        ${rows}
         ${prog}
       </article>`;
     }
@@ -804,21 +811,46 @@ const boot = {
 </script>
 
 <style is:global>
+  /* 開票專區固定用夜色版面（淺色／深色主題都一樣）：選舉夜的現場感，
+     政黨色在深底上最好辨識。這裡把 --el-* 換成夜色值，底下的規則照常用 token。 */
   .el-surface .lb {
-    --lb-kmt: #1d4e9e;
-    --lb-dpp: #1b8a3a;
-    --lb-tpp: #1aa6a6;
-    --lb-ind: #6b6560;
-    --lb-other: #a8620e;
-    --lb-none: var(--el-map-0);
-    --lb-agree: #0f766e;
-    --lb-dis: #9f1239;
-    padding: 28px 0 40px;
-    background: var(--el-cream);
-    border-top: 1px solid var(--el-border);
-    border-bottom: 1px solid var(--el-border);
+    --el-bg: #100e0c;
+    --el-card: #1a1714;
+    --el-cream: #100e0c;
+    --el-slate: #24272c;
+    --el-border: rgba(245, 240, 230, 0.13);
+    --el-border-strong: rgba(245, 240, 230, 0.26);
+    --el-rule: rgba(245, 240, 230, 0.1);
+    --el-ink: #f6f2ea;
+    --el-ink-2: #cfc8bd;
+    --el-ink-3: #a09889;
+    --el-accent: #ff8a70;
+    --el-accent-2: #ffc38a;
+    --el-accent-soft: rgba(255, 138, 112, 0.16);
+    --el-positive: #6ee7a0;
+    --el-positive-soft: rgba(110, 231, 160, 0.14);
+    --el-warn-soft: rgba(250, 204, 21, 0.14);
+    --el-slate-ink: #d5dce6;
+    --el-map-hover: #fff;
+    --lb-kmt: #5b93ee;
+    --lb-dpp: #3fbf6c;
+    --lb-tpp: #3fd0cf;
+    --lb-ind: #a8a096;
+    --lb-other: #e6a445;
+    --lb-none: #2b2723;
+    --lb-agree: #2dd4bf;
+    --lb-dis: #fb7185;
+    padding: 36px 0 48px;
+    background:
+      radial-gradient(
+        1200px 420px at 12% -10%,
+        rgba(255, 138, 112, 0.1),
+        transparent 60%
+      ),
+      #100e0c;
     font-family: var(--el-sans);
     color: var(--el-ink);
+    color-scheme: dark;
   }
   /* 模板的 .el-wrap／.el-reset 是 scoped，這個元件的節點吃不到，自己定義一份 */
   .lb .lb-wrap {
@@ -831,15 +863,6 @@ const boot = {
     list-style: none;
     margin: 0;
     padding: 0;
-  }
-  :root[data-theme='dark'] .el-surface .lb {
-    --lb-kmt: #6ea0ea;
-    --lb-dpp: #52c476;
-    --lb-tpp: #4fd1d1;
-    --lb-ind: #a8a29e;
-    --lb-other: #e0a04a;
-    --lb-agree: #2dd4bf;
-    --lb-dis: #fb7185;
   }
   .lb [data-party='kmt'] {
     --p: var(--lb-kmt);
@@ -871,17 +894,18 @@ const boot = {
     }
   }
   .lb-eyebrow {
-    margin: 0 0 6px;
+    margin: 0 0 10px;
     font-size: 13px;
-    letter-spacing: 0.08em;
+    letter-spacing: 0.14em;
     color: var(--el-accent);
     font-weight: 600;
   }
   .lb-title {
     margin: 0 0 8px;
     font-family: var(--el-serif);
-    font-size: clamp(30px, 5vw, 46px);
-    line-height: 1.1;
+    font-size: clamp(40px, 7vw, 72px);
+    line-height: 1.02;
+    letter-spacing: 0.01em;
   }
   .lb-lead {
     margin: 0;
@@ -996,7 +1020,7 @@ const boot = {
   }
   .lb-score-bar {
     display: flex;
-    height: 44px;
+    height: 64px;
     border-radius: 8px;
     overflow: hidden;
     gap: 2px;
@@ -1008,16 +1032,14 @@ const boot = {
     justify-content: center;
     min-width: 28px;
     background: var(--p);
-    color: #fff;
-    font-size: 19px;
+    color: #0d0b09;
+    font-size: 30px;
+    font-weight: 800;
     font-variant-numeric: tabular-nums;
     transition: flex 0.5s ease;
   }
   .lb-seg[data-party='none'] {
     color: var(--el-ink-3);
-  }
-  :root[data-theme='dark'] .lb-seg {
-    color: #0e0d0b;
   }
   .lb-score-legend {
     display: grid;
@@ -1101,8 +1123,8 @@ const boot = {
   }
   .lb-c {
     fill: var(--p);
-    stroke: var(--el-card);
-    stroke-width: 0.8;
+    stroke: #100e0c;
+    stroke-width: 0.9;
     stroke-linejoin: round;
     transition: fill 0.4s;
   }
@@ -1424,13 +1446,27 @@ const boot = {
     border-radius: 14px;
   }
   .lb-overview {
-    margin-bottom: 18px;
-    padding-bottom: 14px;
-    border-bottom: 1px solid var(--el-rule);
+    margin-bottom: 24px;
+    padding: 18px 20px;
+    border-left: 3px solid var(--el-accent);
+    background: var(--el-card);
+    border-radius: 0 14px 14px 0;
+  }
+  .lb-more {
+    margin-top: 9px;
+  }
+  .lb-more summary {
+    cursor: pointer;
+    font-size: 12.5px;
+    color: var(--el-ink-3);
+  }
+  .lb-more[open] summary {
+    margin-bottom: 9px;
   }
   .lb-overview-body p {
     margin: 0 0 8px;
-    font-size: 15.5px;
+    max-width: 46em;
+    font-size: 17px;
     line-height: 1.75;
   }
   .lb-items {

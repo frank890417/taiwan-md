@@ -10,39 +10,39 @@
  * ═══════════════════════════════════════════════════════════════════════ */
 
 .el-surface {
-  /* 底與面 */
-  --el-bg: #faf7f0;
+  /* 底與面（2026-11-28 改版：紙白＋墨黑＋圈選章朱紅，去掉偏黃的米色與鐵鏽棕） */
+  --el-bg: #f7f6f2;
   --el-card: #fff;
-  --el-about: #f3ecdc; /* 米色區塊（關於、說明框） */
-  --el-cream: #fdfaf2; /* 子頁的淺米底 */
+  --el-about: #efede6; /* 區塊底（關於、說明框） */
+  --el-cream: #fbfaf8; /* 子頁的淺底 */
   --el-slate: #f1f2f4; /* 中性灰底 */
   /* 線 */
-  --el-border: #e7dfcc;
-  --el-border-strong: #d4c5a0;
-  --el-rule: #efe8d8;
+  --el-border: #e3e0d8;
+  --el-border-strong: #c7c2b6;
+  --el-rule: #ebe8e0;
   /* 字 */
-  --el-ink: #1c1917;
-  --el-ink-2: #57534e;
-  --el-ink-3: #716a65; /* 規格 #78716c 在 #faf7f0 只有 4.48:1，微調到 4.97:1 */
-  /* 強調 */
-  --el-accent: #7c2d12;
-  --el-accent-2: #92400e;
-  --el-accent-soft: #fbefe6;
+  --el-ink: #15120f;
+  --el-ink-2: #4a453f;
+  --el-ink-3: #6b655e;
+  /* 強調：圈選章的朱紅（與各政黨代表色都不同；白底對比 6.0:1） */
+  --el-accent: #b52d1a;
+  --el-accent-2: #8c2212;
+  --el-accent-soft: #fbebe7;
   --el-done: #3f6212;
   --el-positive: #15803d;
   --el-positive-soft: #f0fdf4;
   --el-warn-soft: #fef3c7;
   /* 圖表（計數用，與政黨無關） */
-  --el-chart-bar: #7c2d12;
-  --el-chart-track: #efe8d8;
-  --el-chart-label: #57534e;
-  --el-map-0: #f3ecdc;
-  --el-map-1: #e7c9a8;
-  --el-map-2: #d39a6e;
-  --el-map-3: #b0653d;
-  --el-map-4: #7c2d12;
-  --el-map-stroke: #faf7f0;
-  --el-map-hover: #1c1917;
+  --el-chart-bar: #15120f;
+  --el-chart-track: #ebe8e0;
+  --el-chart-label: #4a453f;
+  --el-map-0: #efede6;
+  --el-map-1: #d9d4c8;
+  --el-map-2: #b3ac9d;
+  --el-map-3: #7d7567;
+  --el-map-4: #2e2924;
+  --el-map-stroke: #f7f6f2;
+  --el-map-hover: #b52d1a;
   /* 石板灰（主頁公投卡「另一張票」的冷灰字與線） */
   --el-slate-ink: #334155;
   --el-slate-ink-2: #475569;
@@ -66,21 +66,21 @@
   --el-ink: #f3efe7;
   --el-ink-2: #d2cbc0;
   --el-ink-3: #aaa298;
-  --el-accent: #f2a77f;
-  --el-accent-2: #f6bf91;
-  --el-accent-soft: rgba(242, 167, 127, 0.14);
+  --el-accent: #ff8a70;
+  --el-accent-2: #ffb09c;
+  --el-accent-soft: rgba(255, 138, 112, 0.14);
   --el-done: #b4d382;
   --el-positive: #86d39a;
   --el-positive-soft: rgba(134, 211, 154, 0.12);
   --el-warn-soft: rgba(250, 204, 21, 0.12);
-  --el-chart-bar: #f2a77f;
+  --el-chart-bar: #f3efe7;
   --el-chart-track: rgba(243, 236, 222, 0.1);
   --el-chart-label: #d2cbc0;
   --el-map-0: #2a241d;
-  --el-map-1: #5a3b28;
-  --el-map-2: #8e5536;
-  --el-map-3: #c27449;
-  --el-map-4: #f2a77f;
+  --el-map-1: #4a443c;
+  --el-map-2: #6f675c;
+  --el-map-3: #a39a8c;
+  --el-map-4: #e6dfd2;
   --el-map-stroke: #0e0d0b;
   --el-map-hover: #f3efe7;
   --el-slate-ink: #d5dce6;
