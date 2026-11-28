@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "fetchedAt": "2026-11-28T21:00:39+08:00",
+ "fetchedAt": "2026-11-28T21:01:49+08:00",
  "sourceName": "Yahoo新聞",
  "sourceUrl": "https://tw.news.yahoo.com/topic/2026-election/",
  "note": "媒體自行計票，非中選會官方數字",
@@ -131,24 +131,24 @@
    ]
   },
   "彰化縣": {
-   "updatedAt": "2026-11-28T20:55:57+08:00",
+   "updatedAt": "2026-11-28T21:00:30+08:00",
    "candidates": [
     {
      "name": "陳素月",
-     "votes": 241314,
-     "pct": 46.78,
+     "votes": 248528,
+     "pct": 46.77,
      "elected": true
     },
     {
      "name": "魏平政",
-     "votes": 212684,
-     "pct": 41.23,
+     "votes": 218982,
+     "pct": 41.21,
      "elected": false
     },
     {
      "name": "邱建富",
-     "votes": 54722,
-     "pct": 10.61,
+     "votes": 56537,
+     "pct": 10.64,
      "elected": false
     }
    ]
@@ -245,24 +245,24 @@
    ]
   },
   "新竹市": {
-   "updatedAt": "2026-11-28T20:51:47+08:00",
+   "updatedAt": "2026-11-28T21:00:20+08:00",
    "candidates": [
     {
      "name": "高虹安",
-     "votes": 126794,
-     "pct": 57.39,
+     "votes": 127255,
+     "pct": 57.41,
      "elected": true
     },
     {
      "name": "何志勇",
-     "votes": 6309,
-     "pct": 2.86,
+     "votes": 6324,
+     "pct": 2.85,
      "elected": false
     },
     {
      "name": "莊競程",
-     "votes": 87820,
-     "pct": 39.75,
+     "votes": 88070,
+     "pct": 39.73,
      "elected": false
     }
    ]
@@ -342,18 +342,18 @@
    ]
   },
   "臺東縣": {
-   "updatedAt": "2026-11-28T20:56:09+08:00",
+   "updatedAt": "2026-11-28T21:00:46+08:00",
    "candidates": [
     {
      "name": "陳瑩",
-     "votes": 30306,
-     "pct": 36.34,
+     "votes": 31786,
+     "pct": 36.23,
      "elected": false
     },
     {
      "name": "吳秀華",
-     "votes": 51247,
-     "pct": 61.44,
+     "votes": 53987,
+     "pct": 61.53,
      "elected": true
     }
    ]
@@ -393,18 +393,18 @@
    ]
   },
   "高雄市": {
-   "updatedAt": "2026-11-28T20:39:11+08:00",
+   "updatedAt": "2026-11-28T21:00:21+08:00",
    "candidates": [
     {
      "name": "柯志恩",
-     "votes": 665697,
-     "pct": 45.69,
+     "votes": 670728,
+     "pct": 45.79,
      "elected": false
     },
     {
      "name": "賴瑞隆",
-     "votes": 771221,
-     "pct": 52.93,
+     "votes": 774882,
+     "pct": 52.9,
      "elected": true
     }
    ]
