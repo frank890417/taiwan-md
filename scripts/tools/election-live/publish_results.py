@@ -82,7 +82,9 @@ def main():
             unmatched.append(f"{area}: 名冊有但中選會沒有 {missing}")
         new_total = sum(c['votes'] for c in cands)
         old_total = sum(int(c.get('votes') or 0) for c in (prev_area or {}).get('candidates', []))
-        if new_total < old_total:
+        # 票數倒退分兩種：掉很多是抓到壞頁，保留上一版；掉不到百分之二是中選會
+        # 自己更正（2026-11-28 21:44 高雄 2089/2089 退回 2088/2089，少 942 票），照官方走。
+        if new_total < old_total and new_total < old_total * 0.98:
             errors.append(f'{area}: 新票數 {new_total} 少於上一版 {old_total}，保留上一版')
             mayors[area] = prev_area
             continue
@@ -99,7 +101,7 @@ def main():
     ref = cec.get('referendum') or {}
     ref_votes = int(ref.get('agree') or 0) + int(ref.get('disagree') or 0)
     prev_ref = prev.get('referendum') or {}
-    if ref_votes < int(prev_ref.get('agree') or 0) + int(prev_ref.get('disagree') or 0):
+    if ref_votes < (int(prev_ref.get('agree') or 0) + int(prev_ref.get('disagree') or 0)) * 0.98:
         errors.append('公投: 新票數少於上一版，保留上一版')
         ref = prev_ref
         ref_votes = int(ref.get('agree') or 0) + int(ref.get('disagree') or 0)
