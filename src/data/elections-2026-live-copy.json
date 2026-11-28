@@ -101,7 +101,14 @@
     "latest": "最新",
     "seatsShort": "應選 {n}",
     "mapLegend": "數字是領先幾個百分點；顏色越深，領先越多",
-    "mapLegendCouncil": "數字是席次最多的政黨目前的暫時席次"
+    "mapLegendCouncil": "數字是席次最多的政黨目前的暫時席次",
+    "analysisTitle": "分析",
+    "ladderTitle": "各縣市領先幅度",
+    "ladderNote": "由上到下，從最膠著排到差距最大。長條往左是第二名、往右是第一名的得票率；開票初期的縣市排在最後。",
+    "allCards": "所有候選人得票（22 縣市）",
+    "showAll": "顯示全部 {n} 則",
+    "showLess": "只顯示最新幾則",
+    "gapPts": "差 {n} 點"
   },
   "en": {
     "eyebrow": "Taiwan 2026 Local Elections · Live Count",
@@ -204,7 +211,14 @@
     "latest": "Latest",
     "seatsShort": "{n} seats",
     "mapLegend": "Numbers show the lead in points; darker means a bigger lead",
-    "mapLegendCouncil": "Numbers show the provisional seats of the largest party"
+    "mapLegendCouncil": "Numbers show the provisional seats of the largest party",
+    "analysisTitle": "Analysis",
+    "ladderTitle": "Lead in each race",
+    "ladderNote": "From closest at the top to widest at the bottom. The bar runs left for the runner-up and right for the leader; races still in early count come last.",
+    "allCards": "All candidates’ votes (22 races)",
+    "showAll": "Show all {n}",
+    "showLess": "Show latest only",
+    "gapPts": "{n} pts"
   },
   "ja": {
     "eyebrow": "台湾 2026年統一地方選挙 · 開票速報",
@@ -307,7 +321,14 @@
     "latest": "最新",
     "seatsShort": "定数 {n}",
     "mapLegend": "数字はリード幅（ポイント）。色が濃いほど差が大きい",
-    "mapLegendCouncil": "数字は最多議席の政党の暫定議席数"
+    "mapLegendCouncil": "数字は最多議席の政党の暫定議席数",
+    "analysisTitle": "分析",
+    "ladderTitle": "各県・市のリード幅",
+    "ladderNote": "上ほど接戦、下ほど差が大きい順です。棒は左が2位、右が1位の得票率で、開票序盤の県・市は最後に並びます。",
+    "allCards": "全候補者の得票（22県・市）",
+    "showAll": "全 {n} 件を表示",
+    "showLess": "最新のみ表示",
+    "gapPts": "{n} ポイント差"
   },
   "ko": {
     "eyebrow": "대만 2026 지방선거 · 개표 현황",
@@ -410,7 +431,14 @@
     "latest": "최신",
     "seatsShort": "정수 {n}",
     "mapLegend": "숫자는 격차(%포인트), 색이 진할수록 격차가 큽니다",
-    "mapLegendCouncil": "숫자는 최다 의석 정당의 잠정 의석"
+    "mapLegendCouncil": "숫자는 최다 의석 정당의 잠정 의석",
+    "analysisTitle": "분석",
+    "ladderTitle": "지역별 격차",
+    "ladderNote": "위쪽일수록 접전, 아래쪽일수록 격차가 큽니다. 막대는 왼쪽이 2위, 오른쪽이 1위 득표율이며 개표 초반 지역은 맨 뒤에 둡니다.",
+    "allCards": "모든 후보 득표(22개 지역)",
+    "showAll": "{n}건 모두 보기",
+    "showLess": "최신만 보기",
+    "gapPts": "{n}%p 차"
   },
   "es": {
     "eyebrow": "Elecciones locales de Taiwán 2026 · Escrutinio en vivo",
@@ -513,7 +541,14 @@
     "latest": "Última hora",
     "seatsShort": "{n} escaños",
     "mapLegend": "La cifra es la ventaja en puntos; más oscuro, mayor ventaja",
-    "mapLegendCouncil": "La cifra son los escaños provisionales del partido con más escaños"
+    "mapLegendCouncil": "La cifra son los escaños provisionales del partido con más escaños",
+    "analysisTitle": "Análisis",
+    "ladderTitle": "Ventaja en cada circunscripción",
+    "ladderNote": "De la más reñida arriba a la más holgada abajo. La barra va a la izquierda para el segundo y a la derecha para el primero; las que están en recuento inicial van al final.",
+    "allCards": "Votos de todos los candidatos (22 circunscripciones)",
+    "showAll": "Ver las {n}",
+    "showLess": "Ver solo las últimas",
+    "gapPts": "{n} pts"
   },
   "fr": {
     "eyebrow": "Élections locales de Taïwan 2026 · Dépouillement en direct",
@@ -616,7 +651,14 @@
     "latest": "Dernières infos",
     "seatsShort": "{n} sièges",
     "mapLegend": "Le chiffre est l’avance en points ; plus c’est foncé, plus l’avance est grande",
-    "mapLegendCouncil": "Le chiffre indique les sièges provisoires du premier parti"
+    "mapLegendCouncil": "Le chiffre indique les sièges provisoires du premier parti",
+    "analysisTitle": "Analyse",
+    "ladderTitle": "Avance dans chaque circonscription",
+    "ladderNote": "De la plus serrée en haut à la plus large en bas. La barre part à gauche pour le deuxième et à droite pour le premier ; les circonscriptions en début de dépouillement sont à la fin.",
+    "allCards": "Voix de tous les candidats (22 circonscriptions)",
+    "showAll": "Tout afficher ({n})",
+    "showLess": "Afficher les dernières",
+    "gapPts": "{n} pts"
   },
   "de": {
     "eyebrow": "Kommunalwahlen in Taiwan 2026 · Live-Auszählung",
@@ -719,7 +761,14 @@
     "latest": "Aktuell",
     "seatsShort": "{n} Sitze",
     "mapLegend": "Die Zahl ist der Vorsprung in Punkten; je dunkler, desto größer",
-    "mapLegendCouncil": "Die Zahl zeigt die vorläufigen Sitze der stärksten Partei"
+    "mapLegendCouncil": "Die Zahl zeigt die vorläufigen Sitze der stärksten Partei",
+    "analysisTitle": "Analyse",
+    "ladderTitle": "Vorsprung in jedem Wahlkreis",
+    "ladderNote": "Oben die knappsten, unten die deutlichsten. Der Balken zeigt links den Zweiten, rechts den Ersten; Wahlkreise in früher Auszählung stehen am Ende.",
+    "allCards": "Stimmen aller Kandidierenden (22 Wahlkreise)",
+    "showAll": "Alle {n} anzeigen",
+    "showLess": "Nur neueste anzeigen",
+    "gapPts": "{n} Pkt."
   },
   "pt": {
     "eyebrow": "Eleições locais de Taiwan 2026 · Apuração ao vivo",
@@ -822,7 +871,14 @@
     "latest": "Últimas",
     "seatsShort": "{n} cadeiras",
     "mapLegend": "O número é a vantagem em pontos; quanto mais escuro, maior a vantagem",
-    "mapLegendCouncil": "O número são as cadeiras provisórias do partido com mais cadeiras"
+    "mapLegendCouncil": "O número são as cadeiras provisórias do partido com mais cadeiras",
+    "analysisTitle": "Análise",
+    "ladderTitle": "Vantagem em cada disputa",
+    "ladderNote": "Da mais apertada no topo à mais folgada embaixo. A barra vai à esquerda para o segundo e à direita para o primeiro; as que estão no início da apuração ficam por último.",
+    "allCards": "Votos de todos os candidatos (22 disputas)",
+    "showAll": "Mostrar todas ({n})",
+    "showLess": "Mostrar só as últimas",
+    "gapPts": "{n} pts"
   },
   "ru": {
     "eyebrow": "Местные выборы на Тайване 2026 · Подсчёт голосов онлайн",
@@ -925,7 +981,14 @@
     "latest": "Последнее",
     "seatsShort": "{n} мест",
     "mapLegend": "Число — отрыв в пунктах; чем темнее, тем больше отрыв",
-    "mapLegendCouncil": "Число — предварительные места партии-лидера"
+    "mapLegendCouncil": "Число — предварительные места партии-лидера",
+    "analysisTitle": "Анализ",
+    "ladderTitle": "Отрыв в каждом округе",
+    "ladderNote": "Сверху самые близкие гонки, снизу самые уверенные. Полоса влево — второй, вправо — первый; округа в начале подсчёта стоят в конце.",
+    "allCards": "Голоса всех кандидатов (22 округа)",
+    "showAll": "Показать все ({n})",
+    "showLess": "Только последние",
+    "gapPts": "{n} п."
   },
   "vi": {
     "eyebrow": "Bầu cử địa phương Đài Loan 2026 · Kiểm phiếu trực tiếp",
@@ -1028,7 +1091,14 @@
     "latest": "Mới nhất",
     "seatsShort": "{n} ghế",
     "mapLegend": "Con số là khoảng cách (điểm %); càng đậm, dẫn càng xa",
-    "mapLegendCouncil": "Con số là số ghế tạm thời của đảng nhiều ghế nhất"
+    "mapLegendCouncil": "Con số là số ghế tạm thời của đảng nhiều ghế nhất",
+    "analysisTitle": "Phân tích",
+    "ladderTitle": "Khoảng cách ở từng nơi",
+    "ladderNote": "Từ sít sao nhất ở trên đến cách biệt nhất ở dưới. Thanh bên trái là người thứ hai, bên phải là người dẫn đầu; nơi mới bắt đầu kiểm phiếu xếp cuối.",
+    "allCards": "Số phiếu của tất cả ứng viên (22 nơi)",
+    "showAll": "Hiện tất cả {n} tin",
+    "showLess": "Chỉ hiện tin mới nhất",
+    "gapPts": "{n} điểm"
   },
   "id": {
     "eyebrow": "Pemilu Daerah Taiwan 2026 · Penghitungan Langsung",
@@ -1131,7 +1201,14 @@
     "latest": "Terbaru",
     "seatsShort": "{n} kursi",
     "mapLegend": "Angka adalah selisih poin; makin gelap, makin jauh unggul",
-    "mapLegendCouncil": "Angka adalah kursi sementara partai dengan kursi terbanyak"
+    "mapLegendCouncil": "Angka adalah kursi sementara partai dengan kursi terbanyak",
+    "analysisTitle": "Analisis",
+    "ladderTitle": "Selisih di tiap daerah",
+    "ladderNote": "Dari yang paling ketat di atas sampai yang paling lebar di bawah. Batang ke kiri untuk peringkat kedua, ke kanan untuk pemimpin; daerah di awal penghitungan ada di akhir.",
+    "allCards": "Suara semua kandidat (22 daerah)",
+    "showAll": "Tampilkan semua {n}",
+    "showLess": "Tampilkan yang terbaru saja",
+    "gapPts": "{n} poin"
   },
   "hi": {
     "eyebrow": "ताइवान स्थानीय चुनाव 2026 · मतगणना लाइव",
@@ -1234,7 +1311,14 @@
     "latest": "ताज़ा",
     "seatsShort": "{n} सीटें",
     "mapLegend": "संख्या बढ़त (अंकों में) है; रंग जितना गहरा, बढ़त उतनी ज़्यादा",
-    "mapLegendCouncil": "संख्या सबसे अधिक सीटों वाले दल की अस्थायी सीटें हैं"
+    "mapLegendCouncil": "संख्या सबसे अधिक सीटों वाले दल की अस्थायी सीटें हैं",
+    "analysisTitle": "विश्लेषण",
+    "ladderTitle": "हर क्षेत्र में बढ़त",
+    "ladderNote": "ऊपर सबसे कड़ा मुकाबला, नीचे सबसे बड़ी बढ़त। पट्टी बाईं ओर दूसरे और दाईं ओर पहले स्थान की है; शुरुआती गिनती वाले क्षेत्र अंत में हैं।",
+    "allCards": "सभी उम्मीदवारों के वोट (22 क्षेत्र)",
+    "showAll": "सभी {n} दिखाएँ",
+    "showLess": "केवल ताज़ा दिखाएँ",
+    "gapPts": "{n} अंक"
   },
   "ar": {
     "eyebrow": "الانتخابات المحلية في تايوان 2026 · الفرز المباشر",
@@ -1337,6 +1421,13 @@
     "latest": "الأحدث",
     "seatsShort": "{n} مقاعد",
     "mapLegend": "الرقم هو الفارق بالنقاط؛ كلما كان اللون أغمق كان الفارق أكبر",
-    "mapLegendCouncil": "الرقم هو المقاعد المؤقتة للحزب الأكثر مقاعد"
+    "mapLegendCouncil": "الرقم هو المقاعد المؤقتة للحزب الأكثر مقاعد",
+    "analysisTitle": "تحليل",
+    "ladderTitle": "الفارق في كل دائرة",
+    "ladderNote": "من الأشد تقاربًا في الأعلى إلى الأوسع فارقًا في الأسفل. الشريط يمتد يسارًا للثاني ويمينًا للأول، والدوائر في بداية الفرز تأتي في النهاية.",
+    "allCards": "أصوات جميع المرشحين (22 دائرة)",
+    "showAll": "عرض الكل ({n})",
+    "showLess": "عرض الأحدث فقط",
+    "gapPts": "{n} نقطة"
   }
 }

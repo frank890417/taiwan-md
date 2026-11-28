@@ -389,6 +389,80 @@ const boot = {
     <p class="lb-alert" data-lb-alert hidden></p>
     <noscript><p class="lb-alert">{copy.noscript}</p></noscript>
 
+    <!-- 分析：全貌摘要（消息台寫）＋各縣市領先幅度排行（程式算，只用中選會數字） -->
+    <div class="lb-analysis" id="lb-analysis">
+      <h3 class="lb-h2">{copy.analysisTitle}</h3>
+      <div class="lb-analysis-grid">
+        <div class="lb-ladder-wrap">
+          <h4 class="lb-h4">{copy.ladderTitle}</h4>
+          <ol class="lb-ladder" data-lb-ladder></ol>
+          <p class="lb-note">{copy.ladderNote}</p>
+        </div>
+        <div class="lb-analysis-side">
+          <div class="lb-overview" data-lb-overview hidden>
+            <h3 class="lb-h3">{copy.overviewTitle}</h3>
+            <div class="lb-overview-body" data-lb-overview-body></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 公投 -->
+    <div class="lb-ref" id="lb-ref" data-lb-ref>
+      <div class="lb-ref-head">
+        <h3 class="lb-h3">{copy.refTitle}</h3>
+        <p class="lb-ref-q">
+          <a href={referendumHref}>{referendumQuestion}</a>
+        </p>
+      </div>
+      <div class="lb-ref-body" data-lb-ref-body></div>
+      <p class="lb-note">
+        {copy.refRuleNote}
+        <a
+          href={CEC_REF}
+          class="no-external-icon"
+          target="_blank"
+          rel="noopener noreferrer">{copy.cecRefLink} ↗</a
+        >
+      </p>
+    </div>
+
+    <!-- 消息＋查核 -->
+    <div class="lb-feed-grid" id="lb-feed">
+      <div class="lb-feed">
+        <h3 class="lb-h3">{copy.feedTitle}</h3>
+        <p class="lb-note">{copy.feedLead}</p>
+        <ol class="lb-items el-reset" data-lb-items>
+          <li class="lb-empty">{copy.feedEmpty}</li>
+        </ol>
+        <button type="button" class="lb-morebtn" data-lb-feedmore hidden
+        ></button>
+      </div>
+      <div class="lb-fact">
+        <h3 class="lb-h3">{copy.factTitle}</h3>
+        <p class="lb-note">{copy.factLead}</p>
+        <ol class="lb-items el-reset" data-lb-facts>
+          <li class="lb-empty">{copy.factEmpty}</li>
+        </ol>
+      </div>
+    </div>
+
+    <!-- 所有候選人的得票：儀表板只列前兩名，完整名單收在這裡；點儀表板的縣市會自動展開 -->
+    <details class="lb-fold" data-lb-allcards>
+      <summary>{copy.allCards}</summary>
+      <div class="lb-grid lb-grid-solo">
+        <!-- 六都 -->
+        <div class="lb-major">
+          <h3 class="lb-h3">{copy.municipal}</h3>
+          <div class="lb-cards lb-cards-major" data-lb-cards="municipal"></div>
+        </div>
+      </div>
+      <div class="lb-minor">
+        <h3 class="lb-h3">{copy.county}</h3>
+        <div class="lb-cards lb-cards-minor" data-lb-cards="county"></div>
+      </div>
+    </details>
+
     <!-- 22 縣市目前領先者：官方票數追上媒體計票的縣市用官方，其餘先用媒體計票（非官方）。
          全部追上後這塊自動收掉，不需要再部署。 -->
     <details class="lb-fold" data-lb-media hidden>
@@ -416,97 +490,6 @@ const boot = {
         <p class="lb-note">{copy.mediaWhy}</p>
       </div>
     </details>
-
-    <!-- 各黨領先縣市數（中選會官方） -->
-    <div class="lb-score" data-lb-score-wrap>
-      <p class="lb-kicker">{copy.officialTitle}</p>
-      <h3 class="lb-h3">{copy.scoreTitle}</h3>
-      <div
-        class="lb-score-bar"
-        data-lb-score-bar
-        role="img"
-        aria-label={copy.scoreTitle}
-      >
-      </div>
-      <ul class="lb-score-legend el-reset" data-lb-score-legend></ul>
-      <p class="lb-note">{copy.scoreNote} {copy.earlyNote}</p>
-      <nav class="lb-jump" aria-label={copy.jump}>
-        <p class="lb-jump-label">{copy.jump}</p>
-        <ul class="lb-chips" data-lb-chips>
-          {
-            races.map((r) => (
-              <li>
-                <a
-                  href={`#lb-race-${r.area}`}
-                  class="lb-chip-link"
-                  data-lb-chip={r.area}
-                  data-party="none"
-                >
-                  <span class="lb-chip" aria-hidden="true" />
-                  {r.label}
-                </a>
-              </li>
-            ))
-          }
-        </ul>
-      </nav>
-    </div>
-
-    <div class="lb-overview" data-lb-overview hidden>
-      <h3 class="lb-h3">{copy.overviewTitle}</h3>
-      <div class="lb-overview-body" data-lb-overview-body></div>
-    </div>
-
-    <div class="lb-grid lb-grid-solo">
-      <!-- 六都 -->
-      <div class="lb-major">
-        <h3 class="lb-h3">{copy.municipal}</h3>
-        <div class="lb-cards lb-cards-major" data-lb-cards="municipal"></div>
-      </div>
-    </div>
-
-    <!-- 公投 -->
-    <div class="lb-ref" id="lb-ref" data-lb-ref>
-      <div class="lb-ref-head">
-        <h3 class="lb-h3">{copy.refTitle}</h3>
-        <p class="lb-ref-q">
-          <a href={referendumHref}>{referendumQuestion}</a>
-        </p>
-      </div>
-      <div class="lb-ref-body" data-lb-ref-body></div>
-      <p class="lb-note">
-        {copy.refRuleNote}
-        <a
-          href={CEC_REF}
-          class="no-external-icon"
-          target="_blank"
-          rel="noopener noreferrer">{copy.cecRefLink} ↗</a
-        >
-      </p>
-    </div>
-
-    <div class="lb-minor">
-      <h3 class="lb-h3">{copy.county}</h3>
-      <div class="lb-cards lb-cards-minor" data-lb-cards="county"></div>
-    </div>
-
-    <!-- 消息＋查核 -->
-    <div class="lb-feed-grid" id="lb-feed">
-      <div class="lb-feed">
-        <h3 class="lb-h3">{copy.feedTitle}</h3>
-        <p class="lb-note">{copy.feedLead}</p>
-        <ol class="lb-items el-reset" data-lb-items>
-          <li class="lb-empty">{copy.feedEmpty}</li>
-        </ol>
-      </div>
-      <div class="lb-fact">
-        <h3 class="lb-h3">{copy.factTitle}</h3>
-        <p class="lb-note">{copy.factLead}</p>
-        <ol class="lb-items el-reset" data-lb-facts>
-          <li class="lb-empty">{copy.factEmpty}</li>
-        </ol>
-      </div>
-    </div>
 
     <details class="lb-method">
       <summary>{copy.methodTitle}</summary>
@@ -598,6 +581,7 @@ const boot = {
     let results: any = null;
     let feed: any = null;
     let media: any = null;
+    let feedOpen = false;
     let council: any = null;
     let tab: 'mayor' | 'council' = 'mayor';
     let councilArea = '';
@@ -1106,6 +1090,32 @@ const boot = {
         .join('');
     }
 
+    /** 分析：各縣市領先幅度排行（只用中選會數字）。最膠著的排最上面，開票初期排最後。 */
+    function renderLadder() {
+      const ol = $('[data-lb-ladder]');
+      if (!ol) return;
+      const rows = B.races
+        .map(raceView)
+        .filter((v: any) => v.hasVotes && v.cands.length > 1)
+        .map((v: any) => ({
+          v,
+          a: v.cands[0],
+          b: v.cands[1],
+          gap: (v.cands[0].pct || 0) - (v.cands[1].pct || 0),
+        }))
+        .sort((x: any, y: any) =>
+          x.v.early === y.v.early ? x.gap - y.gap : x.v.early ? 1 : -1,
+        );
+      const side = (c: Cand, cls: string) =>
+        `<span class="lb-ld-side ${cls}" data-party="${partyKey(c.party)}" style="--w:${Math.min(100, ((c.pct || 0) / 70) * 100).toFixed(1)}%"><span class="lb-ld-name">${esc(c.name)}</span><span class="lb-ld-pct">${(c.pct || 0).toFixed(1)}%</span></span>`;
+      ol.innerHTML = rows
+        .map(
+          (r: any) =>
+            `<li class="${r.v.early ? 'is-early' : ''}${r.gap < 5 && !r.v.early ? ' is-close' : ''}"><a href="#lb-race-${esc(r.v.race.area)}"><span class="lb-ld-area">${esc(r.v.race.label)}</span>${side(r.b, 'is-b')}<span class="lb-ld-gap">${r.v.early ? esc(C.early) : esc(fill(C.gapPts, { n: r.gap.toFixed(1) }))}</span>${side(r.a, 'is-a')}</a></li>`,
+        )
+        .join('');
+    }
+
     // ── 新聞輪播列 ──
     let tickIdx = 0;
     let tickIds: string[] = [];
@@ -1148,6 +1158,19 @@ const boot = {
       tickIdx++;
       showTick();
     }, 6000);
+
+    root.querySelector('[data-lb-feedmore]')?.addEventListener('click', () => {
+      feedOpen = !feedOpen;
+      renderFeed();
+    });
+    root.addEventListener('click', (e) => {
+      const a = (e.target as HTMLElement).closest<HTMLAnchorElement>(
+        'a[href^="#lb-race-"]',
+      );
+      if (!a) return;
+      const d = root.querySelector<HTMLDetailsElement>('[data-lb-allcards]');
+      if (d) d.open = true;
+    });
 
     // ── 分頁與議員縣市選擇 ──
     root.querySelector('[data-lb-tabs]')?.addEventListener('click', (e) => {
@@ -1482,10 +1505,19 @@ const boot = {
       list.sort((a: any, b: any) =>
         String(b.time).localeCompare(String(a.time)),
       );
+      const FEED_KEEP = 6;
+      const shown = feedOpen ? list : list.slice(0, FEED_KEEP);
       if (items)
         items.innerHTML = list.length
-          ? list.map((i: any) => itemHtml(i, false)).join('')
+          ? shown.map((i: any) => itemHtml(i, false)).join('')
           : `<li class="lb-empty">${esc(C.feedEmpty)}</li>`;
+      const more = $('[data-lb-feedmore]');
+      if (more) {
+        more.hidden = list.length <= FEED_KEEP;
+        more.textContent = feedOpen
+          ? C.showLess
+          : fill(C.showAll, { n: list.length });
+      }
       const fl = Array.isArray(feed?.factchecks) ? feed.factchecks.slice() : [];
       fl.sort((a: any, b: any) => String(b.time).localeCompare(String(a.time)));
       if (facts)
@@ -1587,6 +1619,7 @@ const boot = {
       renderRaces();
       renderRef();
       renderFeed();
+      renderLadder();
       renderCredits();
       syncTicker();
     }
@@ -4000,5 +4033,146 @@ const boot = {
     .lb-dbody .lb-svg {
       max-height: 38vh;
     }
+  }
+
+  /* ══ 儀表板以下的資訊架構（哲宇 19:45）：分析 → 公投 → 消息與查核 → 收合的完整名單 ══ */
+  .lb-h2 {
+    margin: 8px 0 14px;
+    font-family: var(--el-serif);
+    font-size: clamp(24px, 3vw, 32px);
+    line-height: 1.15;
+  }
+  .lb-h4 {
+    margin: 0 0 10px;
+    font-size: 15px;
+    font-weight: 700;
+    color: var(--el-ink-2);
+  }
+  .lb-analysis {
+    margin-bottom: 30px;
+  }
+  .lb-analysis-grid {
+    display: grid;
+    gap: 22px;
+  }
+  @media (min-width: 980px) {
+    .lb-analysis-grid {
+      grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr);
+      align-items: start;
+    }
+  }
+  .lb-analysis .lb-overview {
+    margin: 0;
+    padding: 0 0 0 16px;
+    border: 0;
+    border-inline-start: 3px solid var(--el-accent);
+    border-radius: 0;
+    background: none;
+  }
+  .lb-ladder {
+    display: grid;
+    gap: 3px;
+  }
+  .lb .lb-ladder a {
+    display: grid;
+    grid-template-columns: 4.6em minmax(0, 1fr) 5.4em minmax(0, 1fr);
+    align-items: center;
+    gap: 6px;
+    color: var(--el-ink);
+    text-decoration: none;
+    font-size: 13.5px;
+  }
+  .lb-ld-area {
+    font-family: var(--el-serif);
+    font-weight: 700;
+    white-space: nowrap;
+  }
+  .lb-ld-side {
+    position: relative;
+    isolation: isolate;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    min-height: 24px;
+    padding: 0 7px;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+  .lb-ld-side::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: var(--w, 0%);
+    background: var(--p);
+    z-index: -1;
+    border-radius: 3px;
+    transition: width 0.7s ease;
+  }
+  .lb-ld-side.is-b {
+    flex-direction: row-reverse;
+  }
+  .lb-ld-side.is-b::before {
+    inset-inline-end: 0;
+    opacity: 0.45;
+  }
+  .lb-ld-side.is-a::before {
+    inset-inline-start: 0;
+  }
+  .lb-ld-name {
+    font-weight: 700;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.45);
+  }
+  .lb-ld-pct {
+    font-variant-numeric: tabular-nums;
+    color: rgba(255, 255, 255, 0.85);
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.45);
+  }
+  .lb-ld-gap {
+    text-align: center;
+    font-size: 12px;
+    font-variant-numeric: tabular-nums;
+    color: var(--el-ink-2);
+    white-space: nowrap;
+  }
+  .lb-ladder li.is-close .lb-ld-gap {
+    color: var(--el-accent);
+    font-weight: 800;
+  }
+  .lb-ladder li.is-early {
+    opacity: 0.55;
+  }
+  .lb .lb-morebtn {
+    margin-top: 10px;
+    padding: 7px 14px;
+    border: 0;
+    border-radius: 8px;
+    background: rgba(245, 240, 230, 0.08);
+    color: var(--el-ink);
+    font: inherit;
+    font-size: 13.5px;
+    cursor: pointer;
+  }
+  .lb-fold[data-lb-allcards] .lb-grid,
+  .lb-fold[data-lb-allcards] .lb-minor {
+    margin-bottom: 16px;
+  }
+  @media (max-width: 559px) {
+    .lb .lb-ladder a {
+      grid-template-columns: 3.6em minmax(0, 1fr) 4.4em minmax(0, 1fr);
+      gap: 3px;
+      font-size: 12px;
+    }
+    .lb-ld-pct {
+      display: none;
+    }
+  }
+  /* 投票截止後，頁面下方選前才用得到的東西收起來（今天投票的狀態卡、三扇門、怎麼投） */
+  .elections-2026:has(.lb:not([data-lb-state='pre'])) .el-state,
+  .elections-2026:has(.lb:not([data-lb-state='pre'])) .el-doors,
+  .elections-2026:has(.lb:not([data-lb-state='pre'])) #how-to-vote,
+  .elections-2026:has(.lb:not([data-lb-state='pre']))
+    [data-nav-id='how-to-vote'] {
+    display: none;
   }
 </style>
