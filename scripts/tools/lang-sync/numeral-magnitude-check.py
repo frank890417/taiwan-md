@@ -220,6 +220,9 @@ def _group_sep(out_text: str, lang: str) -> str:
     return FALLBACK_SEP.get(lang, ",")
 
 
+_CHAIN_HEAD = re.compile(r"(?<![0-9.,])(\d{1,4})[ \u00a0]?("
+                         + "|".join(sorted(map(re.escape, SPLIT_SCALE), key=len, reverse=True))
+                         + r")[ \u00a0]+$")
 CHAIN_LEFT = re.compile(r"\d[\d.,]*\s?(?:" + "|".join(sorted(map(re.escape, SPLIT_SCALE), key=len, reverse=True))
                         + r"|अरब|करोड़|लाख|tỷ|miliar|milliard|миллиард|bilhão|bilhões|mil millones)\s*$", re.I)
 
@@ -237,6 +240,32 @@ def split_scan(zh_text: str, out_text: str, lang: str):
         # 10億6198萬1295）。只改右半段會變成 `1 बिलियन 61,981,295`，看起來修好了其實
         # 仍錯——上線第一版就這樣改壞一處。鏈一律交給人。
         if CHAIN_LEFT.search(out_text[max(0, m.start() - 40):m.start()]):
+            # 三段鏈裡最單純的一種算得出來：左邊恰好是「整數＋更大的量級詞」
+            # （`4 tỷ 708 triệu 24.465` = 4,708,024,465）。算出來在中文裡就整條改寫成
+            # 一個數；不在就把算出的值印出來。2026-11-29 之前鏈一律報「交給人」，
+            # 寫對的鏈也過不了閘，vi〈台灣新冠疫情與疫苗〉因此同一處連敗八次、每次
+            # 25 分鐘，而訊息看不出那次其實是 802 萬被寫成 780 triệu。
+            # 其餘形狀（左邊帶小數、印度數詞、四段以上）照舊交給人。
+            win_start = max(0, m.start() - 40)
+            lm = _CHAIN_HEAD.search(out_text[win_start:m.start()])
+            a = _num(head, lang)
+            rem_digits = re.sub(r"[^\d]", "", rem)
+            if lm and a is not None and a == int(a):
+                gap = SPLIT_SCALE[lm.group(2)] - SPLIT_SCALE[word]
+                if (gap > 0 and int(a) < 10 ** gap
+                        and len(rem_digits) <= SPLIT_SCALE[word] and int(rem_digits) > 0):
+                    v = (int(lm.group(1)) * 10 ** SPLIT_SCALE[lm.group(2)]
+                         + int(a) * 10 ** SPLIT_SCALE[word] + int(rem_digits))
+                    chain_start = win_start + lm.start()
+                    whole = out_text[chain_start:m.end()]
+                    if v in zh_ints and chain_start >= last:
+                        pieces.append(out_text[last:chain_start])
+                        pieces.append(f"{v:,}".replace(",", sep))
+                        last = m.end()
+                        fixed.append(f"「{whole}」→「{v:,}」")
+                    else:
+                        unresolved.append(f"「{whole}」= {v:,}，中文原文找不到這個數")
+                    continue
             unresolved.append(f"「{m.group(0)}」左邊還接著量級詞，是更長的鏈")
             continue
         a = _num(head, lang)

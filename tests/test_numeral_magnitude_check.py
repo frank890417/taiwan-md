@@ -111,3 +111,26 @@ def test_without_the_idiom_the_miss_is_still_caught(tmp_path):
     out = "The video reached 100 million views in ten days."
     assert len(run(tmp_path, zh, out, "en")) == 1
 
+
+ZH_CHAIN = "總發送量為 47 億 802 萬 4,465 則。"
+
+
+def test_three_part_chain_that_adds_up_is_rewritten_not_handed_to_a_human(tmp_path):
+    # 寫對的鏈以前一律報「更長的鏈」，永遠過不了閘
+    out = "Tổng cộng 4 tỷ 708 triệu 24.465 tin nhắn."
+    new, fixed, unresolved = MODULE.split_scan(ZH_CHAIN, out, "vi")
+    assert unresolved == []
+    assert len(fixed) == 1
+    assert "4.708.024.465" in new and "tỷ" not in new
+
+
+def test_three_part_chain_with_a_wrong_middle_reports_the_value_it_adds_up_to(tmp_path):
+    # 802 萬被寫成 780 triệu：仍然要擋，而且訊息要看得出算出來是多少
+    hits = run(tmp_path, ZH_CHAIN, "Tổng cộng 4 tỷ 780 triệu 24.465 tin nhắn.", "vi")
+    assert len(hits) == 1
+    assert "4,780,024,465" in hits[0] and "找不到" in hits[0]
+
+
+def test_chain_with_a_decimal_head_is_still_left_to_a_human(tmp_path):
+    hits = run(tmp_path, ZH_CHAIN, "Tổng cộng 4,5 tỷ 708 triệu 24.465 tin nhắn.", "vi")
+    assert any("更長的鏈" in h for h in hits)
