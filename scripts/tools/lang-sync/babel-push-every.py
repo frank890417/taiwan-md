@@ -162,6 +162,36 @@ def blocking_orphans(output: str) -> list[str]:
     return files
 
 
+# 各機器各自往後加一行的帳本。當班在最後一個 commit 之後才寫收班那一行，就會留下
+# 一行沒 commit 的改動；origin 只要也動過同一個檔，之後每一輪合併都被它擋下。
+# 11-27 卡五個半小時、11-28 卡十四小時（12 個譯文 commit 推不出去）都是這一行。
+# .gitattributes 的 merge=union 只管兩邊都 commit 了的情形，管不到工作樹髒。
+APPEND_ONLY_LEDGERS = {"data/compute/claude-usage-ledger.jsonl"}
+
+
+def blocking_files(output: str) -> list[str]:
+    """合併訊息「would be overwritten by merge」列出的全部檔案，不分種類。"""
+    files, inside = [], False
+    for line in output.splitlines():
+        if "would be overwritten by merge" in line:
+            inside = True
+            continue
+        if inside:
+            if not line.startswith("\t"):
+                inside = False
+                continue
+            files.append(line.strip())
+    return files
+
+
+def ledger_only_blockers(output: str) -> list[str]:
+    """擋路的檔全部是只增帳本時回傳它們；混了別的檔就回空（那要人看）。"""
+    files = blocking_files(output)
+    if files and all(f in APPEND_ONLY_LEDGERS for f in files):
+        return files
+    return []
+
+
 def dispatcher_alive() -> bool:
     return subprocess.run(["pgrep", "-f", "babel-dispatch.py"], capture_output=True).returncode == 0
 
@@ -179,6 +209,16 @@ def merge_origin() -> bool:
         return False
     try:
         r = git("merge", "--no-edit", "origin/main", timeout=300)
+        if r.returncode != 0 and not (REPO / ".git" / "MERGE_HEAD").exists():
+            ledgers = ledger_only_blockers(r.stdout + r.stderr)
+            if ledgers:
+                c = git("commit", "--only", *ledgers, "-m",
+                        "🧬 [semiont] memory: 補 commit 當班收班後才寫的用量紀錄，讓合併 origin 不被它擋住")
+                if c.returncode == 0:
+                    log(f"🧾 擋住合併的只有帳本（{', '.join(ledgers)}），已補 commit，重試合併")
+                    r = git("merge", "--no-edit", "origin/main", timeout=300)
+                else:
+                    log("⚠️ 帳本補 commit 失敗：" + (c.stdout + c.stderr)[-400:])
         if r.returncode != 0:
             if (REPO / ".git" / "MERGE_HEAD").exists():
                 git("merge", "--abort")
