@@ -229,23 +229,24 @@ const boot = {
     <p class="lb-alert" data-lb-alert hidden></p>
     <noscript><p class="lb-alert">{copy.noscript}</p></noscript>
 
-    <!-- 媒體自行計票（非官方，比中選會快）：有資料才顯示 -->
+    <!-- 22 縣市目前領先者：官方票數追上媒體計票的縣市用官方，其餘先用媒體計票（非官方）。
+         全部追上後這塊自動收掉，不需要再部署。 -->
     <div class="lb-score lb-media" data-lb-media hidden>
       <h3 class="lb-h3">
-        {copy.mediaTitle}
-        <span class="lb-tag lb-tag-unofficial">{copy.unofficial}</span>
+        {copy.bestTitle}
+        <span class="lb-best-tags" data-lb-best-tags></span>
         <span class="lb-media-time" data-lb-media-time></span>
       </h3>
       <div
         class="lb-score-bar"
         data-lb-media-bar
         role="img"
-        aria-label={copy.mediaTitle}
+        aria-label={copy.bestTitle}
       >
       </div>
       <ul class="lb-score-legend el-reset" data-lb-media-legend></ul>
       <ul class="lb-mgrid" data-lb-media-grid></ul>
-      <p class="lb-note">{copy.mediaGridNote}</p>
+      <p class="lb-note">{copy.bestNote}</p>
       <p class="lb-note" data-lb-media-note></p>
       <p class="lb-note">{copy.mediaWhy}</p>
     </div>
@@ -480,14 +481,43 @@ const boot = {
     let results: any = null;
     let feed: any = null;
     let media: any = null;
-    /** 媒體計票超過 40 分鐘沒更新就不顯示（來源停更時不留舊數字） */
-    const mediaFresh = () =>
-      !!media?.fetchedAt &&
-      Date.now() - Date.parse(media.fetchedAt) < 40 * 60000;
-    /** 某縣市的媒體計票：依票數排序，政黨從名冊對回來；不採用媒體標的「當選」 */
+    /**
+     * 某縣市的媒體計票（依票數排序，政黨從名冊對回來；不採用媒體標的「當選」）。
+     * 回傳 null 表示這個縣市「不用媒體計票」，三種情況：
+     *   1. 來源那張圖表超過 40 分鐘沒更新（逐縣市看來源的更新時間，不看我們抓取的時間：
+     *      來源停更時我們每分鐘照抓，抓取時間永遠是新的）；
+     *   2. 中選會的票數已經追上媒體計票（官方不再落後，就用官方）；
+     *   3. 中選會已標當選，或全部開完。
+     */
+    const MEDIA_MAX_AGE = 40 * 60000;
     function mediaView(race: any) {
-      const m = mediaFresh() ? media?.races?.[race.area] : null;
+      const m = media?.races?.[race.area];
       if (!m || !Array.isArray(m.candidates)) return null;
+      // 整個來源停更：22 張圖表裡最新的一張也超過 40 分鐘 → 全部不用。
+      // 單一縣市：小縣市媒體很早就計完、不再更新，所以單張放寬到 120 分鐘。
+      const stamps = Object.values(media?.races || {})
+        .map((r: any) => Date.parse(r?.updatedAt || ''))
+        .filter((n) => isFinite(n));
+      const newest = stamps.length ? Math.max(...stamps) : NaN;
+      if (!isFinite(newest) || Date.now() - newest > MEDIA_MAX_AGE) return null;
+      const stamp = Date.parse(m.updatedAt || '');
+      if (!isFinite(stamp) || Date.now() - stamp > 3 * MEDIA_MAX_AGE)
+        return null;
+      const off = results?.mayors?.[race.area];
+      const offCands: any[] = Array.isArray(off?.candidates)
+        ? off.candidates
+        : [];
+      const offTotal = offCands.reduce((a, c) => a + (c.votes || 0), 0);
+      const medTotal = m.candidates.reduce(
+        (a: number, c: any) => a + (typeof c.votes === 'number' ? c.votes : 0),
+        0,
+      );
+      if (
+        results?.phase === 'final' ||
+        offCands.some((c) => c.elected === true) ||
+        (medTotal > 0 && offTotal >= medTotal)
+      )
+        return null;
       const byName = new Map(
         race.candidates.map((c: Cand) => [norm(c.name), c] as const),
       );
@@ -621,36 +651,66 @@ const boot = {
     function mediaLine(race: any) {
       const mv = mediaView(race);
       if (!mv) return '';
-      const total = mv.list.reduce((a: number, c: any) => a + c.votes, 0);
       const items = mv.list
         .slice(0, 2)
         .map(
           (c: any) =>
-            `<span class="lb-ml-c" data-party="${partyKey(c.party)}"><span class="lb-chip" aria-hidden="true"></span>${esc(c.name)} <b>${num(c.votes)}</b> <i>${((c.votes / total) * 100).toFixed(1)}%</i></span>`,
+            `<span class="lb-ml-c" data-party="${partyKey(c.party)}"><span class="lb-chip" aria-hidden="true"></span>${esc(c.name)} <b>${num(c.votes)}</b></span>`,
         )
         .join('');
       return `<p class="lb-ml"><span class="lb-ml-head">${esc(C.media)} <span class="lb-tag lb-tag-unofficial">${esc(C.unofficial)}</span> <time>${esc(timeFmt(mv.updatedAt))}</time></span>${items}</p>`;
     }
 
+    /** 每個縣市取「目前最好的來源」：官方追上了用官方，否則用媒體計票；都沒有就是空。 */
+    function bestView(race: any) {
+      const mv = mediaView(race);
+      if (mv) {
+        const total = mv.list.reduce((a: number, c: any) => a + c.votes, 0);
+        return {
+          race,
+          src: 'media',
+          leader: mv.list[0],
+          gap:
+            total > 0
+              ? ((mv.list[0].votes - (mv.list[1]?.votes || 0)) / total) * 100
+              : 0,
+          at: String(mv.updatedAt || ''),
+        };
+      }
+      const v = raceView(race);
+      const head = v.winner || (!v.early ? v.leader : null);
+      if (!head) return { race, src: 'none', leader: null, gap: 0, at: '' };
+      const second = v.cands.find((c: Cand) => c !== head);
+      return {
+        race,
+        src: 'cec',
+        leader: head,
+        gap: (head.pct || 0) - (second?.pct || 0),
+        won: !!v.winner,
+        at: '',
+      };
+    }
+
     function renderMedia() {
       const box = $('[data-lb-media]');
       if (!box) return;
-      const views = B.races
-        .map((r: any) => ({ race: r, mv: mediaView(r) }))
-        .filter((x: any) => x.mv);
-      box.hidden = views.length === 0;
-      if (!views.length) return;
+      const views = B.races.map(bestView);
+      const nMedia = views.filter((x: any) => x.src === 'media').length;
+      const nCec = views.filter((x: any) => x.src === 'cec').length;
+      // 沒有任何縣市還在用媒體計票時，這塊收掉（下面的官方計票就是全部）
+      box.hidden = nMedia === 0;
+      if (nMedia === 0) return;
       const order = ['kmt', 'dpp', 'tpp', 'ind', 'other'];
       const count: Record<string, string[]> = {};
       order.forEach((k) => (count[k] = []));
       let latest = '';
       views.forEach((x: any) => {
-        count[partyKey(x.mv.list[0].party)].push(x.race.label);
-        if (String(x.mv.updatedAt) > latest) latest = String(x.mv.updatedAt);
+        if (!x.leader) return;
+        count[partyKey(x.leader.party)].push(x.race.label);
+        if (x.at > latest) latest = x.at;
       });
+      const none = views.filter((x: any) => x.src === 'none').length;
       const bar = $('[data-lb-media-bar]');
-      const legend = $('[data-lb-media-legend]');
-      const none = B.races.length - views.length;
       if (bar)
         bar.innerHTML =
           order
@@ -663,6 +723,7 @@ const boot = {
           (none > 0
             ? `<span class="lb-seg" data-party="none" style="flex:${none}"><b>${none}</b></span>`
             : '');
+      const legend = $('[data-lb-media-legend]');
       if (legend)
         legend.innerHTML = order
           .filter((k) => count[k].length)
@@ -674,14 +735,15 @@ const boot = {
       const grid = $('[data-lb-media-grid]');
       if (grid)
         grid.innerHTML = views
-          .map((x: any) => {
-            const l = x.mv.list;
-            const total = l.reduce((a: number, c: any) => a + c.votes, 0);
-            const gap =
-              total > 0 ? ((l[0].votes - (l[1]?.votes || 0)) / total) * 100 : 0;
-            return `<li><a class="lb-mcell${gap < 5 ? ' is-close' : ''}" href="#lb-race-${esc(x.race.area)}" data-party="${partyKey(l[0].party)}"><span class="lb-mcell-area">${esc(x.race.label)}</span><span class="lb-mcell-name"><span class="lb-chip" aria-hidden="true"></span>${esc(l[0].name)}</span><span class="lb-mcell-gap">+${gap.toFixed(1)}</span></a></li>`;
-          })
+          .map((x: any) =>
+            x.leader
+              ? `<li><a class="lb-mcell${x.src === 'media' ? ' is-media' : ''}${x.gap < 5 ? ' is-close' : ''}" href="#lb-race-${esc(x.race.area)}" data-party="${partyKey(x.leader.party)}"><span class="lb-mcell-area">${esc(x.race.label)}<span class="lb-mcell-src">${esc(x.src === 'media' ? C.media : x.won ? C.elected : C.officialShort)}</span></span><span class="lb-mcell-name"><span class="lb-chip" aria-hidden="true"></span>${esc(x.leader.name)}</span><span class="lb-mcell-gap">+${x.gap.toFixed(1)}</span></a></li>`
+              : `<li><a class="lb-mcell is-none" href="#lb-race-${esc(x.race.area)}" data-party="none"><span class="lb-mcell-area">${esc(x.race.label)}</span><span class="lb-mcell-name">${esc(C.noData)}</span></a></li>`,
+          )
           .join('');
+      const tags = $('[data-lb-best-tags]');
+      if (tags)
+        tags.innerHTML = `<span class="lb-tag">${esc(C.officialShort)} ${nCec}</span><span class="lb-tag lb-tag-unofficial">${esc(C.media)} ${nMedia} · ${esc(C.unofficial)}</span>`;
       const t = $('[data-lb-media-time]');
       if (t) t.textContent = timeFmt(latest);
       const note = $('[data-lb-media-note]');
@@ -718,7 +780,7 @@ const boot = {
         const path = a?.querySelector('path');
         const head = v.winner || v.leader;
         if (!a || !path) return;
-        const mv = !head || v.early ? mediaView(v.race) : null;
+        const mv = v.winner ? null : mediaView(v.race);
         path.setAttribute(
           'data-party',
           mv
@@ -1035,6 +1097,8 @@ const boot = {
       return res.json();
     }
     async function refresh() {
+      // 背景分頁不抓：掛著不看的分頁會吃掉同一個 IP 的 API 額度；回到前景時 visibilitychange 會補抓
+      if (document.hidden) return;
       // 16:00 前不抓票數檔，殼上不會出現任何數字
       const closed = Date.now() >= Date.parse(B.closeAt);
       const base = await dataBase();
@@ -1571,11 +1635,30 @@ const boot = {
     text-decoration: none;
     font-size: 13px;
   }
-  .lb .lb-mcell.is-close {
+  .lb .lb-mcell.is-media {
     border-style: dashed;
     border-inline-start-style: solid;
     border-color: var(--el-border-strong);
     border-inline-start-color: var(--p);
+  }
+  .lb-mcell.is-close .lb-mcell-gap {
+    color: var(--el-accent);
+    font-weight: 700;
+  }
+  .lb-mcell.is-none {
+    color: var(--el-ink-3);
+  }
+  .lb-mcell-src {
+    float: inline-end;
+    font-size: 11px;
+  }
+  .lb-best-tags {
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .lb-best-tags .lb-tag {
+    font-family: var(--el-sans);
   }
   .lb .lb-mcell:hover,
   .lb .lb-mcell:focus-visible {

@@ -221,6 +221,10 @@ def parse_mayor(html):
     if cand_tbl is None:
         raise ValueError("找不到含「姓名」與「得票」欄的候選人表（欄位可能改版，請存 raw 對欄位）；title=" + p.title)
     hs = cand_tbl["headers"]
+    # 絆線：2026-11-28 16:01 實測的表頭是這六欄（沒有當選欄）。表頭一變（例如開完後多出當選註記）
+    # 就把新表頭寫進輸出，讓值班檢查看得到，回頭確認 elected 的解析有沒有接上。
+    KNOWN = ["號次", "姓名", "性別", "得票數", "得票率%", "推薦之政黨"]
+    header_changed = [h.strip() for h in hs] != KNOWN
 
     def col(*keys):
         for i, h in enumerate(hs):
@@ -257,6 +261,7 @@ def parse_mayor(html):
     rep, tot, how = find_progress(p, html)
     return {
         "reported": rep, "total": tot, "candidates": cands,
+        "_headers": [h.strip() for h in hs] if header_changed else None,
         "_progressSource": how, "_dataTime": re.sub(r"^.*?資料時間:?\s*", "", p.footer) if "資料時間" in p.footer else (re.search(r"資料更新時間[:：]?\s*(?:&nbsp;)?\s*([0-9/]+ [0-9:]+)", html).group(1) if re.search(r"資料更新時間[:：]?\s*(?:&nbsp;)?\s*([0-9/]+ [0-9:]+)", html) else None),
         "_title": p.title,
     }

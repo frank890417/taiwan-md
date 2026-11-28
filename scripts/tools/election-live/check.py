@@ -33,3 +33,19 @@ f = json.load(open(L + '/feed.json'))
 print('feed ', f['updatedAt'][11:16], len(f['items']), '則', len(f['factchecks']), '查核', 'overview', len(f.get('overview') or []))
 x = json.load(urllib.request.urlopen('https://raw.githubusercontent.com/frank890417/taiwan-md/election-live/results.json', timeout=15))
 print('raw  ', x['updatedAt'][11:16], x['phase'])
+# 絆線：中選會表頭有沒有變（多出當選欄時要回頭確認 elected 解析）、有沒有縣市開完、媒體計票各縣市的來源時間
+try:
+    raw = json.load(open(L + '/.cec.json'))
+    ch = {a: m.get('_headers') for a, m in raw['mayors'].items() if m.get('_headers')}
+    print('表頭 ', '!! 變了，去看 .raw/ 確認當選欄：' + json.dumps(ch, ensure_ascii=False)[:300] if ch else '未變（六欄，無當選欄）')
+except Exception as e:
+    print('表頭  讀不到 .cec.json', e)
+done = [a for a, m in d['mayors'].items() if m.get('total') and m.get('reported') == m.get('total')]
+print('已開完的縣市', done or '無', '｜已標當選', [c['name'] for m in d['mayors'].values() for c in m['candidates'] if c['elected']] or '無')
+try:
+    md = json.load(open(L + '/media.json'))
+    old = sorted((r.get('updatedAt') or '')[11:16] + ' ' + a for a, r in md['races'].items())
+    caught = [a for a, r in md['races'].items() if sum(c['votes'] for c in d['mayors'].get(a, {}).get('candidates', [])) >= sum(c['votes'] for c in r['candidates']) > 0]
+    print('media', md['fetchedAt'][11:16], len(md['races']), '縣市｜最舊', old[0], '｜官方已追上', caught or '無')
+except Exception as e:
+    print('media 讀不到', e)
