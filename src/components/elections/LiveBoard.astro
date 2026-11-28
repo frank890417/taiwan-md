@@ -267,7 +267,7 @@ const boot = {
       <header class="lb-dtop">
         <div class="lb-dtitle">
           <h2 id="lb-title" class="lb-title">{copy.title}</h2>
-          <p class="lb-dsub">{copy.dashSub}</p>
+          <p class="lb-dsub">{hasFinal ? copy.dashSubFinal : copy.dashSub}</p>
         </div>
         <div class="lb-dstatus" role="status" aria-live="polite">
           <p class="lb-status-line">
@@ -1771,7 +1771,7 @@ const boot = {
             .then((j) => void (council = j))
             .catch(() => {}),
         );
-      if (closed)
+      if (closed && !B.frozen)
         jobs.push(
           getJson('media.json', base)
             .then((j) => void (media = j))
