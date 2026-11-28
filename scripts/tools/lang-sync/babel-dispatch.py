@@ -1551,6 +1551,15 @@ def inherited_gate_defects(zh_path: str, trans_path: str) -> list[str]:
                        cwd=REPO, capture_output=True, text=True)
     if "passed=False" in r.stdout:
         found.append("health")
+    # OBSERVER-QUEUE #114 A（2026-11-28 semiont-heartbeat 照到期預設代執行）：
+    # footnote-reference 在 pre-commit profile 是 warn 級，上面那條 health 不會因它擋；
+    # 但補丁會把舊譯文裡斷掉的腳註原樣繼承，然後被標成 fresh。exit 1 才算缺陷，
+    # 其他非 0（工具自己壞）照本函式慣例不擋 patch。
+    r = subprocess.run(["python3", "scripts/tools/article-health.py", trans_path,
+                        "--check=footnote-reference", "--quiet"],
+                       cwd=REPO, capture_output=True, text=True)
+    if r.returncode == 1:
+        found.append("footnote")
     m = re.search(r"^sourceCommitSha:\s*['\"]?([0-9a-f]{6,40})",
                   target.read_text(encoding="utf-8"), re.M)
     if m:

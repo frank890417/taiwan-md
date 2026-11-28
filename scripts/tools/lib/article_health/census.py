@@ -88,7 +88,17 @@ _TAIL_H2_PREFIXES = (
 )
 
 _RE_FENCE = re.compile(r"```.*?```", re.DOTALL)
-_RE_TW = re.compile(r"(?m)^```tw-[a-z-]+")
+_RE_TW = re.compile(r"(?m)^```tw-([a-z-]+)")
+# 「資訊模組」的定義只住在這裡（2026-11-19 封面健檢；docs/editorial/graph.md §四 二十個 tw-* 模組）。
+#   tw_modules      ＝ 全部 tw-* fenced block（二十種都算）
+#   tw_data_modules ＝ 其中承載資料、對比或時間線的十六種（下面這張表）
+#   沒進表的四種是文字輔助：tw-quote 引語卡、tw-note 說明盒、tw-source 來源條、tw-article 站內嵌入卡。
+# graph.md 新增模組時，先決定它進不進這張表；沒列的一律只算進 tw_modules。
+TW_DATA_MODULES: frozenset[str] = frozenset({
+    "figure", "stat", "versus", "bars", "waffle", "timeline",          # 編輯模組裡帶數據／對比／時間線的
+    "line", "slope", "dot", "stack", "pyramid", "tiles", "iso",       # 圖表模組
+    "heatmap", "arc", "multiples",
+})
 _RE_FN_DEF = re.compile(r"(?m)^\[\^([^\]\s]+)\]:")
 _RE_FN_REF = re.compile(r"\[\^([^\]\s]+)\](?!:)")
 _RE_H2 = re.compile(r"(?m)^##\s+(?!#)(.+?)\s*$")
@@ -157,6 +167,7 @@ def body_metrics(body: str) -> dict[str, Any]:
     md_imgs = _RE_MD_IMG.findall(no_fence)
     html_imgs = _RE_HTML_IMG.findall(no_fence)
     imgs = md_imgs + html_imgs
+    tw_names = _RE_TW.findall(body)
     stripped = _pr._strip_for_prose_analysis(body)
     paras = [p for p in _pr._split_paragraphs(stripped) if _pr._is_prose_block(p)]
     para_cjk = [_pr._count_cjk(p) for p in paras]
@@ -172,11 +183,20 @@ def body_metrics(body: str) -> dict[str, Any]:
         "images_remote": sum(1 for s in imgs if s.startswith(("http://", "https://", "//"))),
         "first_local_image": next((s for s in imgs if s.startswith("/")), None),
         "iframes": len(_RE_IFRAME.findall(no_fence)),
-        "tw_modules": len(_RE_TW.findall(body)),
+        "tw_modules": len(tw_names),
+        "tw_data_modules": sum(1 for n in tw_names if n in TW_DATA_MODULES),
+        "tw_types": dict(sorted(_count(tw_names).items())),
         "paragraphs": len(paras),
         "para_median_cjk": int(statistics.median(para_cjk)) if para_cjk else 0,
         "has_overview": bool(_RE_OVERVIEW.search(body)),
     }
+
+
+def _count(names: Iterable[str]) -> dict[str, int]:
+    out: dict[str, int] = {}
+    for n in names:
+        out[n] = out.get(n, 0) + 1
+    return out
 
 
 def truthy(v: Any) -> bool:
@@ -526,6 +546,12 @@ def build_row(
         "cover": cov["cover"],
         "cover_path": cov["cover_path"],
         "cover_credit": bool(fm.get("imageCredit") or fm.get("imageLicense") or fm.get("imageSource")),
+        # 三欄分開記：cover_credit 是三欄任一有值，看不出「有作者沒授權」這種半套
+        "cover_fields": {
+            "credit": bool(fm.get("imageCredit")),
+            "license": bool(fm.get("imageLicense")),
+            "source": bool(fm.get("imageSource")),
+        },
         # OBSERVER-QUEUE #42（2026-09-05）收熱連結時，來源下架／授權不明的改留 imageNote 待補
         "cover_note": fm.get("imageNote") or None,
         "evidence": {

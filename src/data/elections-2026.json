@@ -532,7 +532,11 @@
           "number": 5,
           "registeredOn": "2026-08-31",
           "source": "https://web.cec.gov.tw/api/file/370f3bbf-6408-4fdc-b8d8-9b9214913f74.pdf",
-          "numberSource": "https://www.cec.gov.tw/cyec/article/65350"
+          "numberSource": "https://www.cec.gov.tw/cyec/article/65350",
+          "article": {
+            "zh": "黃宏成台灣阿成世界偉人財神總統",
+            "slug": "huang-hung-cheng"
+          }
         }
       ]
     },

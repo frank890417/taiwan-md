@@ -177,6 +177,20 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 ## 📥 Pending（待開發）
 
+### 嘉義市 EVOLVE — 北門到嘉義車站的木業軸帶與窄長型房舍
+
+- **Type**: `EVOLVE`
+- **Category**: Geography
+- **Path**: knowledge/Geography/嘉義市.md
+- **Priority**: `P3`
+- **Status**: `pending`
+- **Requested**: 2026-11-28 by 讀者 J.H. Wang（issue #2082 第 2 處，session election-day-pr-triage）
+- **Angle-expires**: `evergreen`
+- **Notes**:
+  - 讀者補充：從北門車站到嘉義車站的鐵道兩側形成木業軸帶，房舍窄長型，多為存放木材所致
+  - 本文 §阿里山把這座城變成木都 有木都脈絡，沒有這個空間細節；要補需一筆可引用的都市史或文資來源（例：嘉義市文化局木都相關出版、林業文化園區），找不到就不寫
+  - 非勘誤，是補充；issue #2082 已 close
+
 ### 黃仁勳 EVOLVE — 條目還寫著現任執行長（需哲宇裁定）
 
 - **Type**: `EVOLVE`

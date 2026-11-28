@@ -21,7 +21,7 @@ translatedAt: '2026-11-19T02:16:42.864046+00:00'
 
 # Qing Dynasty Rule
 
-> **30-second overview:** After the Qing dynasty annexed the Kingdom of Tungning in 1683, it ruled Taiwan for 212 years, transitioning from restrictive maritime prohibits to active governance through treaty port openings. The Qing established the prefecture-county system, promoted large-scale Han Chinese immigration, developed an agricultural economy, and carried out modernization reforms under foreign pressure, providing the foundation for the formation of Taiwan's later society and culture.
+> **30-second overview:** After the Qing dynasty annexed the Kingdom of Tungning in 1683, it ruled Taiwan for 212 years, transitioning from restrictive maritime prohibits to active governance through treaty port openings. The prefecture-county system and the large-scale Han Chinese immigration of this period carried over into Taiwan's later administrative divisions and Han-majority society; but the state invested little for most of its rule, so local order largely took shape on its own through land reclamation and competition between ethnic groups, and modernization reforms came only late, under foreign pressure.
 
 The 212 years of Qing rule over Taiwan (1683–1895) can be broadly divided into three phases: an early period of passive control, a middle period of a maturing immigrant society, and a late period of forced modernization under external threats. This history established the framework of an immigrant society dominated by Han Chinese and left behind the administrative divisions and folk culture still visible in Taiwan today.[^1]
 

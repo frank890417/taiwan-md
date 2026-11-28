@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.1'
 last_updated: 2026-11-28
-last_session: '2026-11-28-064123-twmd-spore-harvest-am（補掃動態頁，#53 重抓）'
+last_session: '2026-11-28-191052-cicd-speed-eval（部署建置切四份同時跑，上線 10.4 分降到 8.2 分）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -396,3 +396,9 @@ _需要的時候，我知道去哪裡找。_
 | 2026-11-28 | 064123-twmd-spore-harvest-am | Chrome 恢復連線，補掃兩個動態頁零新留言；#53 黑冠麻鷺被引用，重抓到 11 萬次瀏覽寫一筆；E 桶引用貼文照 SOP 不回 | 重抓條件靠動靜，安靜長大的孢子量不到 | [→](memory/2026-11-28-064123-twmd-spore-harvest-am.md) |
 | 2026-11-28 | 071352-twmd-feedback-triage | 第十八輪：今天唯一的真實讀者排在預設窗口外，由 ⛔ 那行撈進來；千元鈔帝雉勘誤開成 #2092，孿生重複判 skip；兩道對賬全綠 | dry-run 核不到既有 issue 去重那一層 | [→](memory/2026-11-28-071352-twmd-feedback-triage.md) |
 | 2026-11-28 | 083327-twmd-maintainer-daily | 選舉日早班：三篇候選人條目分成合併／退回／保留（#2086 合、#2087 等票數出處、#2088 進佇列 #133）；讀者抓到千元鈔帝雉錯誤，zh+en 手修、十二語轉 stale；#2085 三處腳註指錯頁退回 | 卡住 #2088 的是 #104 自己的第 3 條 | [→](memory/2026-11-28-083327-twmd-maintainer-daily.md) |
+| 2026-11-28 | 083512-semiont-heartbeat | 早班：額度仍 🟡 lean（週用量 53%）；照到期預設代執行 OBSERVER-QUEUE #114，補丁前預檢多認斷腳註，7 測全過；PR 交 maintainer | lean 縮小的是扇出，不是到期的小項 | [→](memory/2026-11-28-083512-semiont-heartbeat.md) |
+| 2026-11-28 | 143556-semiont-heartbeat | 午後班：額度仍 🟡 lean（週用量 58%）；照到期預設代執行佇列 #117，跨主題警告搬進 commit-msg；收下早上遺留的分析檔 | 檢查器住在多吵的地方，決定毛病多久被看見 | [→](memory/2026-11-28-143556-semiont-heartbeat.md) |
+| 2026-11-28 | 151608-election-day-pr-triage | 選舉日整理全部 PR／issue：五件合併（含晚上哲宇拍板的 #2088、#2036），兩則勘誤 close 並發勘誤通知；早班判指錯頁的兩條腳註重抓是對的 | 否定式「指錯頁」只靠一次抓取，最需要重抓 | [→](memory/2026-11-28-151608-election-day-pr-triage.md) |
+| 2026-11-28 | 203602-semiont-heartbeat | 晚班：週用量 58%→73%，六小時每小時 2.5%，達升級條件；漲幅是哲宇在場的開票夜，本班照 reserve 只記帳交接，停不停 routine 交 #93 | 條件量得到速度，量不到是誰在用 | [→](memory/2026-11-28-203602-semiont-heartbeat.md) |
+| 2026-11-28 | 191052-cicd-speed-eval | 量完部署十分鐘花在哪，把 astro 建置切成四份同時跑並接上部署（PR #2093、#2094），push 到上線中位 622 秒降到 493 秒 | 三把通過的尺都沒在量被改壞的東西，逐檔比對才抓到 | [→](memory/2026-11-28-191052-cicd-speed-eval.md) |
+| 2026-11-28 | 145500-election-night | 開票夜：選舉專頁做成即時開票專區，票數走獨立資料分支，顧到 18,248 所全數回報後定案；雲林、花蓮差距在千分之三內不標當選 | 官方數字會倒退，保護規則要對著來源實際行為寫 | [→](memory/2026-11-28-145500-election-night.md) |

@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-labelledby="ttl dsc">
+  <title id="ttl">聯絡簿上的「估計」被紅筆圈住，同一個詞在教育部辭典裡有兩個義項</title>
+  <desc id="dsc">左邊是聯絡簿的格線頁面，最後一句寫著「所以不換估計是不行的了」，「估計」兩個字被紅色橢圓圈起來，旁邊有紅筆批註「別用中國用語比較好」，前面幾行以淺灰線條示意，未復原原文字跡。右邊是《重編國語辭典修訂本》的詞條卡，詞目「估計」，兩個義項分別是估量物品的數量或價值、推算情勢或狀態，底下標示古典書證從《舊唐書》到白話小說。</desc>
+
+  <rect width="1200" height="630" fill="#f4f1ea"/>
+
+  <!-- 左：聯絡簿 -->
+  <g>
+    <rect x="64" y="96" width="520" height="438" rx="6" fill="#fffdf7" stroke="#d9d2c4" stroke-width="2"/>
+    <rect x="64" y="96" width="14" height="438" fill="#e8e2d4"/>
+    <circle cx="71" cy="160" r="4" fill="#c9c0ae"/>
+    <circle cx="71" cy="265" r="4" fill="#c9c0ae"/>
+    <circle cx="71" cy="370" r="4" fill="#c9c0ae"/>
+    <circle cx="71" cy="470" r="4" fill="#c9c0ae"/>
+    <g stroke="#dfe6ef" stroke-width="1.5">
+      <line x1="104" y1="186" x2="552" y2="186"/>
+      <line x1="104" y1="246" x2="552" y2="246"/>
+      <line x1="104" y1="306" x2="552" y2="306"/>
+      <line x1="104" y1="366" x2="552" y2="366"/>
+      <line x1="104" y1="426" x2="552" y2="426"/>
+      <line x1="104" y1="486" x2="552" y2="486"/>
+    </g>
+    <text x="104" y="146" font-family="'Noto Sans TC','Microsoft JhengHei','PingFang TC','Heiti TC',sans-serif" font-size="19" fill="#9a9283" letter-spacing="2">聯絡簿</text>
+
+    <!-- 前面幾行只以筆跡線條示意，不復原原文字跡 -->
+    <g stroke="#bdb5a5" stroke-width="3.4" stroke-linecap="round" fill="none" opacity="0.8">
+      <path d="M112 176 q22 -9 44 0 t44 0 t44 0 t44 0 t44 0 t44 0 t44 0"/>
+      <path d="M112 236 q22 -9 44 0 t44 0 t44 0 t44 0 t44 0 t44 0 t44 0 t44 0 t44 0"/>
+      <path d="M112 296 q22 -9 44 0 t44 0 t44 0 t44 0 t44 0 t44 0"/>
+    </g>
+
+    <!-- 最後一句：逐字引語 -->
+    <g font-family="'Noto Serif TC','Source Han Serif TC','Songti TC','MingLiU',serif" font-size="30" fill="#2f2a22">
+      <text x="112" y="416">所以不換</text>
+      <text x="268" y="416">估計</text>
+      <text x="112" y="476">是不行的了</text>
+    </g>
+
+    <!-- 紅筆圈字 -->
+    <ellipse cx="298" cy="406" rx="50" ry="30" fill="none" stroke="#c8352b" stroke-width="3.5" transform="rotate(-4 298 406)"/>
+    <ellipse cx="298" cy="406" rx="55" ry="34" fill="none" stroke="#c8352b" stroke-width="1.6" opacity="0.5" transform="rotate(3 298 406)"/>
+
+    <!-- 紅筆批註 -->
+    <path d="M398 348 L344 388" stroke="#c8352b" stroke-width="2.4" fill="none"/>
+    <path d="M344 388 l14 -3 l-5 -9 z" fill="#c8352b"/>
+    <g font-family="'Noto Sans TC','Microsoft JhengHei','PingFang TC','Heiti TC',sans-serif" font-size="23" fill="#c8352b">
+      <text x="366" y="292">別用中國用語</text>
+      <text x="366" y="322">比較好</text>
+    </g>
+  </g>
+
+  <!-- 右：辭典詞條卡 -->
+  <g>
+    <rect x="640" y="96" width="496" height="438" rx="6" fill="#ffffff" stroke="#cfd8e3" stroke-width="2"/>
+    <rect x="640" y="96" width="496" height="58" rx="6" fill="#2d4a6b"/>
+    <rect x="640" y="140" width="496" height="14" fill="#2d4a6b"/>
+    <text x="664" y="134" font-family="'Noto Sans TC','Microsoft JhengHei','PingFang TC','Heiti TC',sans-serif" font-size="20" fill="#ffffff">教育部《重編國語辭典修訂本》</text>
+
+    <text x="664" y="228" font-family="'Noto Serif TC','Source Han Serif TC','Songti TC','MingLiU',serif" font-size="48" fill="#1d2b3a">估計</text>
+
+    <g font-family="'Noto Sans TC','Microsoft JhengHei','PingFang TC','Heiti TC',sans-serif" font-size="22" fill="#2a3542">
+      <text x="664" y="316"><tspan fill="#2d4a6b" font-size="20">一、</tspan>估量物品的數量或價值。</text>
+      <text x="664" y="372"><tspan fill="#2d4a6b" font-size="20">二、</tspan>推算情勢或狀態。</text>
+    </g>
+    <line x1="664" y1="420" x2="1112" y2="420" stroke="#e3e9f0" stroke-width="1.5"/>
+    <text x="664" y="462" font-family="'Noto Sans TC','Microsoft JhengHei','PingFang TC','Heiti TC',sans-serif" font-size="19" fill="#6b7a8c">古典書證：《舊唐書》到白話小說</text>
+  </g>
+
+  <text x="64" y="580" font-family="'Noto Sans TC','Microsoft JhengHei','PingFang TC','Heiti TC',sans-serif" font-size="21" fill="#7a7266">同樣兩個字，紅筆圈起來，辭典收進去。</text>
+</svg>

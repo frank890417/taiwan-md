@@ -52,6 +52,24 @@ export const dashboardUI = {
     'dashboard.registry.showing': 'Showing',
     'dashboard.registry.of': 'of',
     'dashboard.registry.articles': 'articles',
+    'dashboard.registry.col.cover': 'Cover',
+    'dashboard.registry.col.images': 'Images',
+    'dashboard.registry.col.modules': 'Modules',
+    'dashboard.registry.filter.media': 'Media',
+    'dashboard.registry.filter.media.no-cover': 'No cover',
+    'dashboard.registry.filter.media.no-image': 'No images at all',
+    'dashboard.registry.filter.media.credit-gap': 'Cover credit incomplete',
+    'dashboard.registry.cover.yes': 'Has cover',
+    'dashboard.registry.cover.no': 'None',
+    'dashboard.registry.cover.unknown': 'Unknown',
+    'dashboard.registry.cover.credit-gap': 'Cover credit fields incomplete',
+    'dashboard.registry.cover.file-missing': 'Cover file is missing',
+    'dashboard.registry.modules.total': 'All modules',
+    'dashboard.registry.stats.cover': 'Cover coverage',
+    'dashboard.registry.stats.images': 'With body images',
+    'dashboard.registry.stats.data-modules': 'With data modules',
+    'dashboard.registry.stats.by-category': 'Cover coverage by category',
+    'dashboard.registry.stats.unknown-note': '{n} unknown, excluded',
 
     // Organism Anatomy
     'dashboard.organism.title': 'Organism Anatomy',
@@ -242,6 +260,24 @@ export const dashboardUI = {
     'dashboard.registry.showing': '表示',
     'dashboard.registry.of': '/',
     'dashboard.registry.articles': '件の記事',
+    'dashboard.registry.col.cover': 'カバー',
+    'dashboard.registry.col.images': '画像',
+    'dashboard.registry.col.modules': 'モジュール',
+    'dashboard.registry.filter.media': 'メディア',
+    'dashboard.registry.filter.media.no-cover': 'カバーなし',
+    'dashboard.registry.filter.media.no-image': '画像が一枚もない',
+    'dashboard.registry.filter.media.credit-gap': 'カバーのクレジット不備',
+    'dashboard.registry.cover.yes': 'あり',
+    'dashboard.registry.cover.no': 'なし',
+    'dashboard.registry.cover.unknown': '不明',
+    'dashboard.registry.cover.credit-gap': 'カバーのクレジット欄が不足',
+    'dashboard.registry.cover.file-missing': 'カバーのファイルが見つからない',
+    'dashboard.registry.modules.total': '全モジュール',
+    'dashboard.registry.stats.cover': 'カバー率',
+    'dashboard.registry.stats.images': '本文に画像あり',
+    'dashboard.registry.stats.data-modules': 'データ系モジュールあり',
+    'dashboard.registry.stats.by-category': 'カテゴリ別カバー率',
+    'dashboard.registry.stats.unknown-note': '{n} 件は不明のため除外',
 
     // Organism Anatomy
     'dashboard.organism.title': '器官解剖',
@@ -425,6 +461,24 @@ export const dashboardUI = {
     'dashboard.registry.showing': '표시',
     'dashboard.registry.of': '/',
     'dashboard.registry.articles': '개 문서',
+    'dashboard.registry.col.cover': '표지',
+    'dashboard.registry.col.images': '이미지',
+    'dashboard.registry.col.modules': '모듈',
+    'dashboard.registry.filter.media': '미디어',
+    'dashboard.registry.filter.media.no-cover': '표지 없음',
+    'dashboard.registry.filter.media.no-image': '이미지가 전혀 없음',
+    'dashboard.registry.filter.media.credit-gap': '표지 출처 정보 미비',
+    'dashboard.registry.cover.yes': '있음',
+    'dashboard.registry.cover.no': '없음',
+    'dashboard.registry.cover.unknown': '알 수 없음',
+    'dashboard.registry.cover.credit-gap': '표지 출처 항목이 비어 있음',
+    'dashboard.registry.cover.file-missing': '표지 파일이 없음',
+    'dashboard.registry.modules.total': '전체 모듈',
+    'dashboard.registry.stats.cover': '표지 보유율',
+    'dashboard.registry.stats.images': '본문에 이미지 있음',
+    'dashboard.registry.stats.data-modules': '데이터 모듈 있음',
+    'dashboard.registry.stats.by-category': '분류별 표지 보유율',
+    'dashboard.registry.stats.unknown-note': '{n}개는 알 수 없어 제외',
 
     // Organism Anatomy
     'dashboard.organism.title': '기관 해부',
@@ -611,6 +665,26 @@ export const dashboardUI = {
     'dashboard.registry.showing': 'Hiển thị',
     'dashboard.registry.of': '/',
     'dashboard.registry.articles': 'bài viết',
+    'dashboard.registry.col.cover': 'Ảnh bìa',
+    'dashboard.registry.col.images': 'Ảnh',
+    'dashboard.registry.col.modules': 'Mô-đun',
+    'dashboard.registry.filter.media': 'Media',
+    'dashboard.registry.filter.media.no-cover': 'Chưa có ảnh bìa',
+    'dashboard.registry.filter.media.no-image': 'Không có ảnh nào',
+    'dashboard.registry.filter.media.credit-gap':
+      'Thiếu thông tin ghi nguồn ảnh bìa',
+    'dashboard.registry.cover.yes': 'Có',
+    'dashboard.registry.cover.no': 'Không',
+    'dashboard.registry.cover.unknown': 'Chưa rõ',
+    'dashboard.registry.cover.credit-gap':
+      'Các trường ghi nguồn ảnh bìa chưa đủ',
+    'dashboard.registry.cover.file-missing': 'Không tìm thấy tệp ảnh bìa',
+    'dashboard.registry.modules.total': 'Tất cả mô-đun',
+    'dashboard.registry.stats.cover': 'Tỷ lệ có ảnh bìa',
+    'dashboard.registry.stats.images': 'Có ảnh trong bài',
+    'dashboard.registry.stats.data-modules': 'Có mô-đun dữ liệu',
+    'dashboard.registry.stats.by-category': 'Tỷ lệ ảnh bìa theo chuyên mục',
+    'dashboard.registry.stats.unknown-note': '{n} bài chưa rõ, không tính',
 
     // Organism Anatomy
     'dashboard.organism.title': 'Giải phẫu cơ quan',
@@ -811,6 +885,25 @@ export const dashboardUI = {
     'dashboard.registry.showing': 'Menampilkan',
     'dashboard.registry.of': '/',
     'dashboard.registry.articles': 'artikel',
+    'dashboard.registry.col.cover': 'Sampul',
+    'dashboard.registry.col.images': 'Gambar',
+    'dashboard.registry.col.modules': 'Modul',
+    'dashboard.registry.filter.media': 'Media',
+    'dashboard.registry.filter.media.no-cover': 'Tanpa sampul',
+    'dashboard.registry.filter.media.no-image': 'Tidak ada gambar sama sekali',
+    'dashboard.registry.filter.media.credit-gap': 'Kredit sampul belum lengkap',
+    'dashboard.registry.cover.yes': 'Ada',
+    'dashboard.registry.cover.no': 'Tidak ada',
+    'dashboard.registry.cover.unknown': 'Tidak diketahui',
+    'dashboard.registry.cover.credit-gap': 'Kolom kredit sampul belum lengkap',
+    'dashboard.registry.cover.file-missing': 'File sampul tidak ditemukan',
+    'dashboard.registry.modules.total': 'Semua modul',
+    'dashboard.registry.stats.cover': 'Cakupan sampul',
+    'dashboard.registry.stats.images': 'Ada gambar di isi',
+    'dashboard.registry.stats.data-modules': 'Ada modul data',
+    'dashboard.registry.stats.by-category': 'Cakupan sampul per kategori',
+    'dashboard.registry.stats.unknown-note':
+      '{n} tidak diketahui, tidak dihitung',
 
     // Organism Anatomy
     'dashboard.organism.title': 'Anatomi Organ',
@@ -1011,6 +1104,25 @@ export const dashboardUI = {
     'dashboard.registry.showing': 'Exibindo',
     'dashboard.registry.of': '/',
     'dashboard.registry.articles': 'artigos',
+    'dashboard.registry.col.cover': 'Capa',
+    'dashboard.registry.col.images': 'Imagens',
+    'dashboard.registry.col.modules': 'Módulos',
+    'dashboard.registry.filter.media': 'Mídia',
+    'dashboard.registry.filter.media.no-cover': 'Sem capa',
+    'dashboard.registry.filter.media.no-image': 'Nenhuma imagem',
+    'dashboard.registry.filter.media.credit-gap': 'Crédito da capa incompleto',
+    'dashboard.registry.cover.yes': 'Tem',
+    'dashboard.registry.cover.no': 'Não tem',
+    'dashboard.registry.cover.unknown': 'Desconhecido',
+    'dashboard.registry.cover.credit-gap':
+      'Campos de crédito da capa incompletos',
+    'dashboard.registry.cover.file-missing': 'Arquivo da capa não encontrado',
+    'dashboard.registry.modules.total': 'Todos os módulos',
+    'dashboard.registry.stats.cover': 'Cobertura de capa',
+    'dashboard.registry.stats.images': 'Com imagens no texto',
+    'dashboard.registry.stats.data-modules': 'Com módulos de dados',
+    'dashboard.registry.stats.by-category': 'Cobertura de capa por categoria',
+    'dashboard.registry.stats.unknown-note': '{n} desconhecidos, excluídos',
 
     // Organism Anatomy
     'dashboard.organism.title': 'Anatomia dos órgãos',
@@ -1208,6 +1320,24 @@ export const dashboardUI = {
     'dashboard.registry.showing': 'दिखाए जा रहे हैं',
     'dashboard.registry.of': '/',
     'dashboard.registry.articles': 'लेख',
+    'dashboard.registry.col.cover': 'कवर',
+    'dashboard.registry.col.images': 'चित्र',
+    'dashboard.registry.col.modules': 'मॉड्यूल',
+    'dashboard.registry.filter.media': 'मीडिया',
+    'dashboard.registry.filter.media.no-cover': 'कवर नहीं',
+    'dashboard.registry.filter.media.no-image': 'कोई चित्र नहीं',
+    'dashboard.registry.filter.media.credit-gap': 'कवर क्रेडिट अधूरा',
+    'dashboard.registry.cover.yes': 'है',
+    'dashboard.registry.cover.no': 'नहीं',
+    'dashboard.registry.cover.unknown': 'अज्ञात',
+    'dashboard.registry.cover.credit-gap': 'कवर क्रेडिट फ़ील्ड अधूरे हैं',
+    'dashboard.registry.cover.file-missing': 'कवर फ़ाइल नहीं मिली',
+    'dashboard.registry.modules.total': 'सभी मॉड्यूल',
+    'dashboard.registry.stats.cover': 'कवर कवरेज',
+    'dashboard.registry.stats.images': 'लेख में चित्र हैं',
+    'dashboard.registry.stats.data-modules': 'डेटा मॉड्यूल हैं',
+    'dashboard.registry.stats.by-category': 'श्रेणी अनुसार कवर कवरेज',
+    'dashboard.registry.stats.unknown-note': '{n} अज्ञात, गणना से बाहर',
 
     // Organism Anatomy
     'dashboard.organism.title': 'अंगों की संरचना',
@@ -1399,6 +1529,24 @@ export const dashboardUI = {
     'dashboard.registry.showing': 'عرض',
     'dashboard.registry.of': '/',
     'dashboard.registry.articles': 'مقال',
+    'dashboard.registry.col.cover': 'الغلاف',
+    'dashboard.registry.col.images': 'الصور',
+    'dashboard.registry.col.modules': 'الوحدات',
+    'dashboard.registry.filter.media': 'الوسائط',
+    'dashboard.registry.filter.media.no-cover': 'بلا غلاف',
+    'dashboard.registry.filter.media.no-image': 'بلا أي صورة',
+    'dashboard.registry.filter.media.credit-gap': 'بيانات نسب الغلاف ناقصة',
+    'dashboard.registry.cover.yes': 'لديه',
+    'dashboard.registry.cover.no': 'لا يوجد',
+    'dashboard.registry.cover.unknown': 'غير معروف',
+    'dashboard.registry.cover.credit-gap': 'حقول نسب صورة الغلاف ناقصة',
+    'dashboard.registry.cover.file-missing': 'ملف الغلاف مفقود',
+    'dashboard.registry.modules.total': 'كل الوحدات',
+    'dashboard.registry.stats.cover': 'تغطية الأغلفة',
+    'dashboard.registry.stats.images': 'فيه صور في النص',
+    'dashboard.registry.stats.data-modules': 'فيه وحدات بيانات',
+    'dashboard.registry.stats.by-category': 'تغطية الأغلفة حسب التصنيف',
+    'dashboard.registry.stats.unknown-note': '{n} غير معروف، مستبعد',
 
     // Organism Anatomy
     'dashboard.organism.title': 'تشريح الأعضاء',
@@ -1587,6 +1735,26 @@ export const dashboardUI = {
     'dashboard.registry.showing': 'Показано',
     'dashboard.registry.of': '/',
     'dashboard.registry.articles': 'статей',
+    'dashboard.registry.col.cover': 'Обложка',
+    'dashboard.registry.col.images': 'Картинки',
+    'dashboard.registry.col.modules': 'Модули',
+    'dashboard.registry.filter.media': 'Медиа',
+    'dashboard.registry.filter.media.no-cover': 'Без обложки',
+    'dashboard.registry.filter.media.no-image': 'Совсем без картинок',
+    'dashboard.registry.filter.media.credit-gap':
+      'Неполные данные об авторстве обложки',
+    'dashboard.registry.cover.yes': 'Есть',
+    'dashboard.registry.cover.no': 'Нет',
+    'dashboard.registry.cover.unknown': 'Неизвестно',
+    'dashboard.registry.cover.credit-gap':
+      'Поля авторства обложки заполнены не полностью',
+    'dashboard.registry.cover.file-missing': 'Файл обложки не найден',
+    'dashboard.registry.modules.total': 'Все модули',
+    'dashboard.registry.stats.cover': 'Доля с обложкой',
+    'dashboard.registry.stats.images': 'С картинками в тексте',
+    'dashboard.registry.stats.data-modules': 'С модулями данных',
+    'dashboard.registry.stats.by-category': 'Доля обложек по разделам',
+    'dashboard.registry.stats.unknown-note': '{n} неизвестно, не учтено',
 
     // Organism Anatomy
     'dashboard.organism.title': 'Анатомия органов',
@@ -1729,7 +1897,8 @@ export const dashboardUI = {
   },
   de: {
     // Meta
-    'dashboard.meta.title': 'Dashboard — Echtzeitüberwachung des digitalen Organismus',
+    'dashboard.meta.title':
+      'Dashboard — Echtzeitüberwachung des digitalen Organismus',
     'dashboard.meta.description':
       'Echtzeitüberwachung des digitalen Organismus Taiwan.md — Artikelübersicht, Organgesundheit, Übersetzungsabdeckung, Wachstumskennzahlen',
 
@@ -1742,7 +1911,8 @@ export const dashboardUI = {
     // Vital Signs
     'dashboard.vitals.title': 'Vitalzeichen',
     'dashboard.vitals.heartbeat': 'Herzschlag',
-    'dashboard.vitals.heartbeat.desc': 'In den letzten 7 Tagen hinzugefügte/aktualisierte Artikel',
+    'dashboard.vitals.heartbeat.desc':
+      'In den letzten 7 Tagen hinzugefügte/aktualisierte Artikel',
     'dashboard.vitals.cells': 'Gesamtzahl der Zellen',
     'dashboard.vitals.cells.desc': 'Chinesische Artikel (SSOT)',
     'dashboard.vitals.immunity': 'Immunität',
@@ -1750,13 +1920,15 @@ export const dashboardUI = {
     'dashboard.vitals.dna': 'DNA-Vielfalt',
     'dashboard.vitals.dna.desc': 'Sprachabdeckung',
     'dashboard.vitals.revision': 'Überarbeitungstiefe',
-    'dashboard.vitals.revision.desc': 'Durchschnittliche Überarbeitungen pro Artikel',
+    'dashboard.vitals.revision.desc':
+      'Durchschnittliche Überarbeitungen pro Artikel',
     'dashboard.vitals.featured': 'Ausgewählt',
     'dashboard.vitals.featured.desc': 'Artikel im Rampenlicht',
 
     // Article Registry
     'dashboard.registry.title': 'Artikelübersicht',
-    'dashboard.registry.subtitle': 'Vollständige Liste aller Zellen des Organismus',
+    'dashboard.registry.subtitle':
+      'Vollständige Liste aller Zellen des Organismus',
     'dashboard.registry.search': 'Artikel suchen...',
     'dashboard.registry.filter.category': 'Kategorie',
     'dashboard.registry.filter.all': 'Alle',
@@ -1779,10 +1951,32 @@ export const dashboardUI = {
     'dashboard.registry.showing': 'Angezeigt',
     'dashboard.registry.of': '/',
     'dashboard.registry.articles': 'Artikel',
+    'dashboard.registry.col.cover': 'Titelbild',
+    'dashboard.registry.col.images': 'Bilder',
+    'dashboard.registry.col.modules': 'Module',
+    'dashboard.registry.filter.media': 'Medien',
+    'dashboard.registry.filter.media.no-cover': 'Kein Titelbild',
+    'dashboard.registry.filter.media.no-image': 'Gar keine Bilder',
+    'dashboard.registry.filter.media.credit-gap':
+      'Titelbild-Nachweis unvollständig',
+    'dashboard.registry.cover.yes': 'Ja',
+    'dashboard.registry.cover.no': 'Nein',
+    'dashboard.registry.cover.unknown': 'Unbekannt',
+    'dashboard.registry.cover.credit-gap':
+      'Nachweisfelder des Titelbilds unvollständig',
+    'dashboard.registry.cover.file-missing': 'Titelbild-Datei fehlt',
+    'dashboard.registry.modules.total': 'Alle Module',
+    'dashboard.registry.stats.cover': 'Titelbild-Abdeckung',
+    'dashboard.registry.stats.images': 'Mit Bildern im Text',
+    'dashboard.registry.stats.data-modules': 'Mit Datenmodulen',
+    'dashboard.registry.stats.by-category':
+      'Titelbild-Abdeckung nach Kategorie',
+    'dashboard.registry.stats.unknown-note': '{n} unbekannt, nicht gezählt',
 
     // Organism Anatomy
     'dashboard.organism.title': 'Anatomie der Organe',
-    'dashboard.organism.subtitle': 'Gesundheitszustand der einzelnen Organsysteme',
+    'dashboard.organism.subtitle':
+      'Gesundheitszustand der einzelnen Organsysteme',
     'dashboard.organism.score': 'Gesundheitswert',
     'dashboard.organism.trend.up': 'Steigend',
     'dashboard.organism.trend.down': 'Fallend',
@@ -1790,34 +1984,43 @@ export const dashboardUI = {
 
     // Translation Coverage
     'dashboard.translation.title': 'Übersetzungsabdeckung',
-    'dashboard.translation.subtitle': 'Wie viele Zellen bereits in verschiedenen Sprachen repliziert wurden',
+    'dashboard.translation.subtitle':
+      'Wie viele Zellen bereits in verschiedenen Sprachen repliziert wurden',
     'dashboard.translation.ssot': 'Einzige maßgebliche Quelle',
     'dashboard.translation.full': 'Vollständig abgedeckt',
     'dashboard.translation.growing': 'Im Wachstum',
     'dashboard.translation.seedling': 'Keimphase',
     'dashboard.translation.legend.aria': 'Legende zum Übersetzungsstatus',
-    'dashboard.translation.legend.fresh': 'Aktuell — mit dem chinesischen Original synchronisiert',
-    'dashboard.translation.legend.stale': 'Veraltet — das chinesische Original wurde aktualisiert, die Übersetzung noch nicht',
-    'dashboard.translation.legend.missing': 'Nicht übersetzt — Übersetzung steht noch aus',
-    'dashboard.translation.legend.format': 'Übersetzt / nicht übersetzt·veraltet (nach Kategorie)',
+    'dashboard.translation.legend.fresh':
+      'Aktuell — mit dem chinesischen Original synchronisiert',
+    'dashboard.translation.legend.stale':
+      'Veraltet — das chinesische Original wurde aktualisiert, die Übersetzung noch nicht',
+    'dashboard.translation.legend.missing':
+      'Nicht übersetzt — Übersetzung steht noch aus',
+    'dashboard.translation.legend.format':
+      'Übersetzt / nicht übersetzt·veraltet (nach Kategorie)',
 
     // Immune System
     'dashboard.immune.title': 'Immunsystem',
-    'dashboard.immune.subtitle': 'Status der Qualitätssicherung und ausstehende Aufgaben',
+    'dashboard.immune.subtitle':
+      'Status der Qualitätssicherung und ausstehende Aufgaben',
     'dashboard.immune.reviewed': 'Manuell geprüft',
     'dashboard.immune.featured': 'Ausgewählte Artikel',
     'dashboard.immune.verified': 'Zuletzt verifiziert',
     'dashboard.immune.defense.title': 'Verteidigungslinien',
     'dashboard.immune.defense.line1': 'quality-scan.sh',
-    'dashboard.immune.defense.line1.desc': 'Automatischer Scan, Sperre bei >4 Punkten',
+    'dashboard.immune.defense.line1.desc':
+      'Automatischer Scan, Sperre bei >4 Punkten',
     'dashboard.immune.defense.line2': 'PR Review',
     'dashboard.immune.defense.line2.desc': 'Standard EDITORIAL v4',
     'dashboard.immune.defense.line3': 'Qualitätsüberarbeitung',
     'dashboard.immune.defense.line3.desc': 'Manuell ausgelöste Überarbeitung',
     'dashboard.immune.defense.line4': 'EDITORIAL-Aktualisierung',
-    'dashboard.immune.defense.line4.desc': 'Weiterentwicklung der Qualitätsgene',
+    'dashboard.immune.defense.line4.desc':
+      'Weiterentwicklung der Qualitätsgene',
     'dashboard.immune.queue.title': 'Ausstehende Immunprüfung',
-    'dashboard.immune.queue.desc': 'Artikel mit dem größten Bedarf an manueller Prüfung (älteste zuerst)',
+    'dashboard.immune.queue.desc':
+      'Artikel mit dem größten Bedarf an manueller Prüfung (älteste zuerst)',
 
     // Growth
     'dashboard.growth.title': 'Wachstumsverlauf',
@@ -1829,7 +2032,8 @@ export const dashboardUI = {
     // DashboardQuickNav, SectionActivity/Analytics/ContentAnalysis/
     // Contributors/HealthDistribution/I18nCoverage/Immune/NextSteps/
     // OpsStatus/Registry/Spores isEn-ternary → t() migration.
-    'dashboard.hero.cognitiveLayer': '→ Zur kognitiven Ebene (System zur Selbstwahrnehmung)',
+    'dashboard.hero.cognitiveLayer':
+      '→ Zur kognitiven Ebene (System zur Selbstwahrnehmung)',
     'dashboard.hero.stat.articles': 'Artikel',
     'dashboard.hero.stat.languages': 'Sprachen',
     'dashboard.hero.stat.contributors': 'Mitwirkende',
@@ -1847,9 +2051,11 @@ export const dashboardUI = {
     'dashboard.nav.heading': 'Schnellnavigation',
     'dashboard.activity.title': '🔔 Letzte Aktivitäten',
     'dashboard.analytics.title': '📡 Echtzeitpuls',
-    'dashboard.analytics.subtitle': 'GA-Verhalten + Suchintention + Cloudflare-Edge-Signale',
+    'dashboard.analytics.subtitle':
+      'GA-Verhalten + Suchintention + Cloudflare-Edge-Signale',
     'dashboard.contentAnalysis.title': '📊 Analyse des Inhaltswachstums',
-    'dashboard.contentAnalysis.subtitle': 'Artikelverteilung und Wachstumspfad nach Kategorie',
+    'dashboard.contentAnalysis.subtitle':
+      'Artikelverteilung und Wachstumspfad nach Kategorie',
     'dashboard.contributors.title': '👥 Rangliste der Mitwirkenden',
     'dashboard.contributors.subtitle':
       'Die nach Anzahl der Commits sortierten Top 20 der Mitwirkenden sowie ihre wichtigsten Beitragsbereiche (Inhalte / System / Übersetzung)',
@@ -1859,8 +2065,10 @@ export const dashboardUI = {
     'dashboard.contributors.recentlyJoined.desc':
       'Clownfische, die in den vergangenen 30 Tagen erstmals beigetragen haben',
     'dashboard.healthDistribution.title': '📊 Zustandsverteilung',
-    'dashboard.healthDistribution.subtitle': 'Verteilung der Zustandsbewertungen der Artikel',
-    'dashboard.i18nCoverage.title': '🔤 Übersetzungsabdeckung der Benutzeroberfläche',
+    'dashboard.healthDistribution.subtitle':
+      'Verteilung der Zustandsbewertungen der Artikel',
+    'dashboard.i18nCoverage.title':
+      '🔤 Übersetzungsabdeckung der Benutzeroberfläche',
     'dashboard.i18nCoverage.subtitle':
       'Übersetzungsabdeckung der Benutzeroberfläche je Sprache in 12 Modulen unter src/i18n/. Unterscheidet sich von der Artikelübersetzung oben.',
     'dashboard.immune.citationHealth.title': '📋 Zustand der Quellenangaben',
@@ -1879,7 +2087,8 @@ export const dashboardUI = {
     'dashboard.ops.title': '🩺 Betriebsstatus',
     'dashboard.ops.subtitle':
       'Sind die automatisierten Organe dieses Lebewesens derzeit aktiv — Routine-Kreisläufe, Babel-Übersetzungsinfrastruktur und jüngste Ereignisse.',
-    'dashboard.ops.staleNote': '⚠️ Zeitplan-Snapshot ist {n}h alt — data-refresh rider wurde nicht ausgeführt',
+    'dashboard.ops.staleNote':
+      '⚠️ Zeitplan-Snapshot ist {n}h alt — data-refresh rider wurde nicht ausgeführt',
     'dashboard.ops.routineFlywheel': '🔁 Routine-Kreislauf',
     'dashboard.ops.disabledPrefix': 'Deaktiviert:',
     'dashboard.ops.disabledSeparator': '、',
@@ -1897,7 +2106,8 @@ export const dashboardUI = {
     'dashboard.registry.col.quality': 'Qualität',
     'dashboard.registry.col.format': 'Format',
     'dashboard.spores.title': '🌱 Verbreitungssystem — Sporen und Wirkung',
-    'dashboard.spores.subtitle': 'Wie Sporen die Inhalte von Taiwan.md verbreiten',
+    'dashboard.spores.subtitle':
+      'Wie Sporen die Inhalte von Taiwan.md verbreiten',
     'dashboard.spores.topPerformers': '🔥 Leistungsrangliste',
     'dashboard.spores.gaAmplification': '📈 GA-Verstärkungsfaktor',
     'dashboard.spores.gaAmplification.desc':
@@ -1960,6 +2170,24 @@ export const dashboardUI = {
     'dashboard.registry.showing': '顯示',
     'dashboard.registry.of': '/',
     'dashboard.registry.articles': '篇文章',
+    'dashboard.registry.col.cover': '封面',
+    'dashboard.registry.col.images': '圖',
+    'dashboard.registry.col.modules': '模組',
+    'dashboard.registry.filter.media': '媒體',
+    'dashboard.registry.filter.media.no-cover': '沒有封面',
+    'dashboard.registry.filter.media.no-image': '沒有任何圖',
+    'dashboard.registry.filter.media.credit-gap': '封面授權不齊',
+    'dashboard.registry.cover.yes': '有',
+    'dashboard.registry.cover.no': '沒有',
+    'dashboard.registry.cover.unknown': '未知',
+    'dashboard.registry.cover.credit-gap': '授權欄位不齊',
+    'dashboard.registry.cover.file-missing': '封面檔案遺失',
+    'dashboard.registry.modules.total': '全部模組',
+    'dashboard.registry.stats.cover': '封面覆蓋率',
+    'dashboard.registry.stats.images': '內文有圖',
+    'dashboard.registry.stats.data-modules': '有資料類模組',
+    'dashboard.registry.stats.by-category': '各分類封面覆蓋率',
+    'dashboard.registry.stats.unknown-note': '{n} 篇未知，不計入',
 
     // Organism Anatomy
     'dashboard.organism.title': '器官解剖',
@@ -2136,6 +2364,27 @@ export const dashboardUI = {
     'dashboard.registry.showing': 'Affichage de',
     'dashboard.registry.of': 'sur',
     'dashboard.registry.articles': 'articles',
+    'dashboard.registry.col.cover': 'Couverture',
+    'dashboard.registry.col.images': 'Images',
+    'dashboard.registry.col.modules': 'Modules',
+    'dashboard.registry.filter.media': 'Médias',
+    'dashboard.registry.filter.media.no-cover': 'Sans couverture',
+    'dashboard.registry.filter.media.no-image': 'Aucune image',
+    'dashboard.registry.filter.media.credit-gap':
+      'Crédit de couverture incomplet',
+    'dashboard.registry.cover.yes': 'Oui',
+    'dashboard.registry.cover.no': 'Non',
+    'dashboard.registry.cover.unknown': 'Inconnu',
+    'dashboard.registry.cover.credit-gap':
+      'Champs de crédit de la couverture incomplets',
+    'dashboard.registry.cover.file-missing':
+      'Fichier de couverture introuvable',
+    'dashboard.registry.modules.total': 'Tous les modules',
+    'dashboard.registry.stats.cover': 'Couverture avec image',
+    'dashboard.registry.stats.images': 'Images dans le texte',
+    'dashboard.registry.stats.data-modules': 'Modules de données',
+    'dashboard.registry.stats.by-category': 'Couverture par catégorie',
+    'dashboard.registry.stats.unknown-note': '{n} inconnus, exclus',
     'dashboard.organism.title': "Anatomie de l'organisme",
     'dashboard.organism.subtitle': "État de santé de chaque système d'organes",
     'dashboard.organism.score': 'Score de santé',
@@ -2319,6 +2568,27 @@ export const dashboardUI = {
     'dashboard.registry.showing': 'Mostrando',
     'dashboard.registry.of': 'de',
     'dashboard.registry.articles': 'artículos',
+    'dashboard.registry.col.cover': 'Portada',
+    'dashboard.registry.col.images': 'Imágenes',
+    'dashboard.registry.col.modules': 'Módulos',
+    'dashboard.registry.filter.media': 'Medios',
+    'dashboard.registry.filter.media.no-cover': 'Sin portada',
+    'dashboard.registry.filter.media.no-image': 'Ninguna imagen',
+    'dashboard.registry.filter.media.credit-gap':
+      'Crédito de portada incompleto',
+    'dashboard.registry.cover.yes': 'Sí',
+    'dashboard.registry.cover.no': 'No',
+    'dashboard.registry.cover.unknown': 'Desconocido',
+    'dashboard.registry.cover.credit-gap':
+      'Campos de crédito de la portada incompletos',
+    'dashboard.registry.cover.file-missing': 'Falta el archivo de la portada',
+    'dashboard.registry.modules.total': 'Todos los módulos',
+    'dashboard.registry.stats.cover': 'Cobertura de portadas',
+    'dashboard.registry.stats.images': 'Con imágenes en el texto',
+    'dashboard.registry.stats.data-modules': 'Con módulos de datos',
+    'dashboard.registry.stats.by-category':
+      'Cobertura de portadas por categoría',
+    'dashboard.registry.stats.unknown-note': '{n} desconocidos, excluidos',
     'dashboard.organism.title': 'Anatomía del organismo',
     'dashboard.organism.subtitle': 'Estado de salud de cada sistema de órganos',
     'dashboard.organism.score': 'Puntuación de salud',
