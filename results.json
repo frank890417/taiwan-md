@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "phase": "counting",
- "updatedAt": "2026-11-28T17:18:17+08:00",
+ "updatedAt": "2026-11-28T17:19:00+08:00",
  "sourceName": "中央選舉委員會計票資訊查詢網站",
  "sourceUrl": "https://vote.cec.gov.tw/2026-local/zh-TW/indexP.html",
  "stations": {
-  "reported": 86,
+  "reported": 88,
   "total": 18248
  },
  "mayors": {
@@ -94,23 +94,23 @@
    ]
   },
   "桃園市": {
-   "reported": 1,
+   "reported": 2,
    "total": 1479,
    "candidates": [
     {
      "number": 1,
      "name": "黃世杰",
      "party": "民主進步黨",
-     "votes": 343,
-     "pct": 39.02,
+     "votes": 601,
+     "pct": 40.01,
      "elected": false
     },
     {
      "number": 2,
      "name": "張善政",
      "party": "中國國民黨",
-     "votes": 536,
-     "pct": 60.98,
+     "votes": 901,
+     "pct": 59.99,
      "elected": false
     }
    ]
@@ -426,23 +426,23 @@
    ]
   },
   "南投縣": {
-   "reported": 2,
+   "reported": 3,
    "total": 496,
    "candidates": [
     {
      "number": 1,
      "name": "許淑華",
      "party": "中國國民黨",
-     "votes": 188,
-     "pct": 70.94,
+     "votes": 243,
+     "pct": 71.47,
      "elected": false
     },
     {
      "number": 2,
      "name": "温世政",
      "party": "民主進步黨",
-     "votes": 77,
-     "pct": 29.06,
+     "votes": 97,
+     "pct": 28.53,
      "elected": false
     }
    ]
@@ -791,14 +791,14 @@
   }
  },
  "referendum": {
-  "agree": 12203,
-  "disagree": 8807,
-  "valid": 21010,
-  "invalid": 1594,
+  "agree": 13734,
+  "disagree": 9846,
+  "valid": 23580,
+  "invalid": 1759,
   "eligible": 20003835,
-  "reported": 96,
+  "reported": 104,
   "total": 18248,
-  "completedEligible": 39032
+  "completedEligible": 43065
  },
  "coverage": {
   "mayorsWithData": 22,
