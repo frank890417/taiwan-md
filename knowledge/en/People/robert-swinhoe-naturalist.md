@@ -30,7 +30,7 @@ translatedAt: '2026-11-27T01:17:06.350624+00:00'
 
 # Robert Swinhoe: When a Diplomat Became a Naturalist
 
-> **30-second overview:** Robert Swinhoe (1836–1877) was Britain's first consul at Formosa. In roughly four years spent on the island, he published 52 academic papers documenting 227 bird species, 40 mammal species, and 246 plant species. The ornithologist P. L. Sclater of his era called him "one of the most successful natural history explorers of all time." He died of illness at 41, but the species he named — from the Swinhoe's Pheasant on the back of the NT$1,000 banknote to the world's most critically endangered softshell turtle — live on today, both on this island and within their scientific names.
+> **30-second overview:** Robert Swinhoe (1836–1877) was Britain's first consul at Formosa. In roughly four years spent on the island, he published 52 academic papers documenting 227 bird species, 40 mammal species, and 246 plant species. The ornithologist P. L. Sclater of his era called him "one of the most successful natural history explorers of all time." He died of illness at 41, but the species he named — from Swinhoe's Pheasant, one of Taiwan's most emblematic endemic birds, to the world's most critically endangered softshell turtle — live on today, both on this island and within their scientific names.
 
 ---
 
