@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "fetchedAt": "2026-11-28T17:42:30+08:00",
+ "fetchedAt": "2026-11-28T17:43:29+08:00",
  "sourceName": "Yahoo新聞",
  "sourceUrl": "https://tw.news.yahoo.com/topic/2026-election/",
  "note": "媒體自行計票，非中選會官方數字",
@@ -245,24 +245,24 @@
    ]
   },
   "新竹市": {
-   "updatedAt": "2026-11-28T17:38:23+08:00",
+   "updatedAt": "2026-11-28T17:42:11+08:00",
    "candidates": [
     {
      "name": "高虹安",
-     "votes": 24114,
-     "pct": 58.07,
+     "votes": 58311,
+     "pct": 58.83,
      "elected": false
     },
     {
      "name": "何志勇",
-     "votes": 43,
-     "pct": 0.1,
+     "votes": 75,
+     "pct": 0.08,
      "elected": false
     },
     {
      "name": "莊競程",
-     "votes": 17366,
-     "pct": 41.82,
+     "votes": 40728,
+     "pct": 41.09,
      "elected": false
     }
    ]
