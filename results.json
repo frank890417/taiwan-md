@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "phase": "counting",
- "updatedAt": "2026-11-28T22:06:00+08:00",
+ "updatedAt": "2026-11-28T22:06:58+08:00",
  "sourceName": "中央選舉委員會計票資訊查詢網站",
  "sourceUrl": "https://vote.cec.gov.tw/2026-local/zh-TW/indexP.html",
  "stations": {
-  "reported": 18145,
+  "reported": 18146,
   "total": 18248
  },
  "mayors": {
@@ -388,14 +388,14 @@
    ]
   },
   "彰化縣": {
-   "reported": 1053,
+   "reported": 1054,
    "total": 1087,
    "candidates": [
     {
      "number": 1,
      "name": "陳素月",
      "party": "民主進步黨",
-     "votes": 292060,
+     "votes": 292274,
      "pct": 46.47,
      "elected": false
     },
@@ -403,7 +403,7 @@
      "number": 2,
      "name": "魏平政",
      "party": "中國國民黨",
-     "votes": 257176,
+     "votes": 257380,
      "pct": 40.92,
      "elected": false
     },
@@ -411,15 +411,15 @@
      "number": 3,
      "name": "邱建富",
      "party": "無黨籍",
-     "votes": 70714,
-     "pct": 11.25,
+     "votes": 70807,
+     "pct": 11.26,
      "elected": false
     },
     {
      "number": 4,
      "name": "陳重嘉",
      "party": "無黨籍",
-     "votes": 8545,
+     "votes": 8548,
      "pct": 1.36,
      "elected": false
     }
@@ -791,14 +791,14 @@
   }
  },
  "referendum": {
-  "agree": 7394854,
-  "disagree": 4537308,
-  "valid": 11932162,
-  "invalid": 564945,
+  "agree": 7396235,
+  "disagree": 4538025,
+  "valid": 11934260,
+  "invalid": 565013,
   "eligible": 20003835,
-  "reported": 18163,
+  "reported": 18166,
   "total": 18248,
-  "completedEligible": 19905332
+  "completedEligible": 19908800
  },
  "coverage": {
   "mayorsWithData": 22,
