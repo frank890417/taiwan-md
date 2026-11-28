@@ -27,7 +27,8 @@ while [ ! -f "$LIVE_DIR/.stop" ]; do
       if git -C "$LIVE_DIR" diff --cached --quiet; then
         echo "$TS ok nochange $OUT" >>"$LIVE_DIR/.loop.log"
       else
-        git -C "$LIVE_DIR" commit -q -m "開票資料 $TS" && git -C "$LIVE_DIR" push -q origin HEAD:election-live \
+        # 消息台也在推同一個分支：push 前再對齊一次，被搶先就重試一次
+        git -C "$LIVE_DIR" commit -q -m "開票資料 $TS" && { git -C "$LIVE_DIR" pull -q --rebase origin election-live >/dev/null 2>&1; git -C "$LIVE_DIR" push -q origin HEAD:election-live || { git -C "$LIVE_DIR" pull -q --rebase origin election-live >/dev/null 2>&1; git -C "$LIVE_DIR" push -q origin HEAD:election-live; }; } \
           && echo "$TS ok pushed $OUT" >>"$LIVE_DIR/.loop.log" \
           || echo "$TS PUSH-FAIL $OUT" >>"$LIVE_DIR/.loop.log"
       fi
