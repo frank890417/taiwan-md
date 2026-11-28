@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "fetchedAt": "2026-11-28T19:15:40+08:00",
+ "fetchedAt": "2026-11-28T19:16:51+08:00",
  "sourceName": "Yahoo新聞",
  "sourceUrl": "https://tw.news.yahoo.com/topic/2026-election/",
  "note": "媒體自行計票，非中選會官方數字",
@@ -74,18 +74,18 @@
    ]
   },
   "宜蘭縣": {
-   "updatedAt": "2026-11-28T19:01:48+08:00",
+   "updatedAt": "2026-11-28T19:16:08+08:00",
    "candidates": [
     {
      "name": "林國漳",
-     "votes": 81481,
-     "pct": 55.25,
+     "votes": 94528,
+     "pct": 54.96,
      "elected": false
     },
     {
      "name": "吳宗憲",
-     "votes": 65997,
-     "pct": 44.75,
+     "votes": 77460,
+     "pct": 45.04,
      "elected": false
     }
    ]
@@ -291,18 +291,18 @@
    ]
   },
   "基隆市": {
-   "updatedAt": "2026-11-28T18:23:03+08:00",
+   "updatedAt": "2026-11-28T19:15:30+08:00",
    "candidates": [
     {
      "name": "童子瑋",
-     "votes": 63100,
-     "pct": 48.9,
+     "votes": 90910,
+     "pct": 48.78,
      "elected": false
     },
     {
      "name": "謝國樑",
-     "votes": 65947,
-     "pct": 51.1,
+     "votes": 95446,
+     "pct": 51.22,
      "elected": true
     }
    ]
@@ -376,18 +376,18 @@
    ]
   },
   "臺北市": {
-   "updatedAt": "2026-11-28T19:13:20+08:00",
+   "updatedAt": "2026-11-28T19:16:01+08:00",
    "candidates": [
     {
      "name": "沈伯洋",
-     "votes": 368257,
-     "pct": 45.87,
+     "votes": 375761,
+     "pct": 44.91,
      "elected": false
     },
     {
      "name": "蔣萬安",
-     "votes": 434574,
-     "pct": 54.13,
+     "votes": 443743,
+     "pct": 53.04,
      "elected": false
     }
    ]
