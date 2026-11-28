@@ -1,9 +1,22 @@
 {
  "schema": 1,
- "updatedAt": "2026-11-28T15:17:00+08:00",
+ "updatedAt": "2026-11-28T15:19:00+08:00",
  "overview": [],
  "overviewAt": null,
  "items": [
+  {
+   "id": "pre-violations",
+   "time": "2026-11-28T15:19:00+08:00",
+   "kind": "media",
+   "title": "警政署：投票上半天受理 65 件違反選罷法",
+   "body": "中央社報導，警政署統計截至中午，全國警察機關受理涉嫌違反選罷法案件 65 件、65 人，以攜帶手機等攝影器材進入投票所最多，均依法函送選委會裁罰。",
+   "sources": [
+    {
+     "name": "中央社",
+     "url": "https://www.cna.com.tw/news/asoc/202611280066.aspx"
+    }
+   ]
+  },
   {
    "id": "pre-ref22",
    "time": "2026-11-28T15:17:00+08:00",
@@ -77,5 +90,32 @@
    ]
   }
  ],
- "factchecks": []
+ "factchecks": [
+  {
+   "id": "fc-hack",
+   "time": "2026-11-28T15:19:00+08:00",
+   "claim": "中共駭客能入侵中選會計票系統、改變選舉結果",
+   "verdict": "false",
+   "body": "台灣事實查核中心 11/27 查核：計票系統是封閉網路，內部電腦禁止連外；開票採人工計票，投開票報告表一式三份，一份貼在開票所門外，民眾可對照網站數字。查核中心判定為錯誤訊息。",
+   "sources": [
+    {
+     "name": "台灣事實查核中心",
+     "url": "https://tfc-taiwan.org.tw/fact-check-reports/taiwan-election-counting-system-security-manual-vote-counting/"
+    }
+   ]
+  },
+  {
+   "id": "fc-wrongbox",
+   "time": "2026-11-28T15:19:00+08:00",
+   "claim": "議員選票和公投票都是白色，投錯票匭就會變廢票",
+   "verdict": "false",
+   "body": "高雄市選委會說明，依投開票所工作人員手冊，誤投票匭的選舉票或公投票仍算有效投票、計入投票數，之後再依法認定有效或無效，不會因為投錯票匭就不計票。",
+   "sources": [
+    {
+     "name": "聯合報（引高雄市選委會）",
+     "url": "https://udn.com/vote2026/story/125076/9907372"
+    }
+   ]
+  }
+ ]
 }
