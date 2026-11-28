@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "phase": "counting",
- "updatedAt": "2026-11-28T22:11:16+08:00",
+ "updatedAt": "2026-11-28T22:12:27+08:00",
  "sourceName": "中央選舉委員會計票資訊查詢網站",
  "sourceUrl": "https://vote.cec.gov.tw/2026-local/zh-TW/indexP.html",
  "stations": {
-  "reported": 18160,
+  "reported": 18163,
   "total": 18248
  },
  "mayors": {
@@ -336,22 +336,22 @@
    ]
   },
   "新竹縣": {
-   "reported": 460,
+   "reported": 461,
    "total": 492,
    "candidates": [
     {
      "number": 1,
      "name": "鄭朝方",
      "party": "民主進步黨",
-     "votes": 159107,
-     "pct": 56.73,
+     "votes": 159607,
+     "pct": 56.74,
      "elected": false
     },
     {
      "number": 2,
      "name": "徐欣瑩",
      "party": "中國國民黨",
-     "votes": 115033,
+     "votes": 115358,
      "pct": 41.01,
      "elected": false
     },
@@ -359,30 +359,30 @@
      "number": 3,
      "name": "朱定瑀",
      "party": "無黨籍",
-     "votes": 6334,
+     "votes": 6351,
      "pct": 2.26,
      "elected": false
     }
    ]
   },
   "苗栗縣": {
-   "reported": 507,
+   "reported": 508,
    "total": 508,
    "candidates": [
     {
      "number": 1,
      "name": "陳品安",
      "party": "民主進步黨",
-     "votes": 107174,
-     "pct": 37.78,
+     "votes": 107461,
+     "pct": 37.79,
      "elected": false
     },
     {
      "number": 2,
      "name": "鍾東錦",
      "party": "中國國民黨",
-     "votes": 176539,
-     "pct": 62.22,
+     "votes": 176917,
+     "pct": 62.21,
      "elected": false
     }
    ]
@@ -508,23 +508,23 @@
    ]
   },
   "屏東縣": {
-   "reported": 736,
+   "reported": 737,
    "total": 740,
    "candidates": [
     {
      "number": 1,
      "name": "蘇清泉",
      "party": "中國國民黨",
-     "votes": 168559,
-     "pct": 38.53,
+     "votes": 168771,
+     "pct": 38.52,
      "elected": false
     },
     {
      "number": 2,
      "name": "周春米",
      "party": "民主進步黨",
-     "votes": 268953,
-     "pct": 61.47,
+     "votes": 269354,
+     "pct": 61.48,
      "elected": false
     }
    ]
@@ -791,14 +791,14 @@
   }
  },
  "referendum": {
-  "agree": 7401227,
-  "disagree": 4540767,
-  "valid": 11941994,
-  "invalid": 565298,
+  "agree": 7402650,
+  "disagree": 4541479,
+  "valid": 11944129,
+  "invalid": 565372,
   "eligible": 20003835,
-  "reported": 18176,
+  "reported": 18179,
   "total": 18248,
-  "completedEligible": 19921437
+  "completedEligible": 19924960
  },
  "coverage": {
   "mayorsWithData": 22,
