@@ -213,8 +213,11 @@ const boot = {
           </div>
         </dl>
         <p class="lb-links">
-          <a href={CEC_LOCAL} target="_blank" rel="noopener noreferrer"
-            >{copy.cecLink} ↗</a
+          <a
+            href={CEC_LOCAL}
+            class="no-external-icon"
+            target="_blank"
+            rel="noopener noreferrer">{copy.cecLink} ↗</a
           >
         </p>
       </div>
@@ -235,6 +238,26 @@ const boot = {
       </div>
       <ul class="lb-score-legend el-reset" data-lb-score-legend></ul>
       <p class="lb-note">{copy.scoreNote}</p>
+      <nav class="lb-jump" aria-label={copy.jump}>
+        <p class="lb-jump-label">{copy.jump}</p>
+        <ul class="lb-chips" data-lb-chips>
+          {
+            races.map((r) => (
+              <li>
+                <a
+                  href={`#lb-race-${r.area}`}
+                  class="lb-chip-link"
+                  data-lb-chip={r.area}
+                  data-party="none"
+                >
+                  <span class="lb-chip" aria-hidden="true" />
+                  {r.label}
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </nav>
     </div>
 
     <div class="lb-overview" data-lb-overview hidden>
@@ -307,8 +330,11 @@ const boot = {
       <div class="lb-ref-body" data-lb-ref-body></div>
       <p class="lb-note">
         {copy.refRuleNote}
-        <a href={CEC_REF} target="_blank" rel="noopener noreferrer"
-          >{copy.cecRefLink} ↗</a
+        <a
+          href={CEC_REF}
+          class="no-external-icon"
+          target="_blank"
+          rel="noopener noreferrer">{copy.cecRefLink} ↗</a
         >
       </p>
     </div>
@@ -545,6 +571,9 @@ const boot = {
         const head = v.winner || v.leader;
         if (!a || !path) return;
         path.setAttribute('data-party', head ? partyKey(head.party) : 'none');
+        root!
+          .querySelector(`[data-lb-chip="${CSS.escape(v.race.area)}"]`)
+          ?.setAttribute('data-party', head ? partyKey(head.party) : 'none');
         const text = head
           ? `${v.winner ? C.elected : C.leading} ${head.name} · ${head.partyLabel || head.party} · ${(head.pct || 0).toFixed(1)}%`
           : C.noData;
@@ -571,6 +600,10 @@ const boot = {
         if (v.winner) count[k].won++;
         count[k].areas.push(v.race.label);
       });
+      $('[data-lb-score-wrap]')?.classList.toggle(
+        'is-empty',
+        none === views.length,
+      );
       const bar = $('[data-lb-score-bar]');
       const legend = $('[data-lb-score-legend]');
       if (bar && legend) {
@@ -646,7 +679,7 @@ const boot = {
         .map((s: any) => {
           const u = safeUrl(s?.url);
           return u
-            ? `<a href="${esc(u)}" target="_blank" rel="noopener noreferrer">${esc(s.name || u)}</a>`
+            ? `<a href="${esc(u)}" class="no-external-icon" target="_blank" rel="noopener noreferrer">${esc(s.name || u)} ↗</a>`
             : esc(s?.name || '');
         })
         .filter(Boolean)
@@ -726,7 +759,9 @@ const boot = {
         hint.textContent = t;
         hint.hidden = !t;
       }
-      const showMeta = state === 'counting' || state === 'final';
+      const showMeta =
+        !!results?.updatedAt &&
+        (state === 'counting' || state === 'final' || state === 'waiting');
       if (meta) meta.hidden = !showMeta;
       if (showMeta) {
         const u = $('[data-lb-updated]');
@@ -1040,6 +1075,42 @@ const boot = {
   }
   .lb-seg[data-party='none'] {
     color: var(--el-ink-3);
+  }
+  .lb-score.is-empty .lb-score-bar {
+    display: none;
+  }
+  .lb-jump {
+    margin-top: 16px;
+    padding-top: 14px;
+    border-top: 1px solid var(--el-rule);
+  }
+  .lb-jump-label {
+    margin: 0 0 8px;
+    font-size: 12.5px;
+    color: var(--el-ink-3);
+  }
+  .lb-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .lb .lb-chip-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 4px 10px;
+    border: 1px solid var(--el-border-strong);
+    border-radius: 999px;
+    font-size: 13.5px;
+    color: var(--el-ink);
+    text-decoration: none;
+  }
+  .lb .lb-chip-link:hover,
+  .lb .lb-chip-link:focus-visible {
+    border-color: var(--el-ink);
+  }
+  .lb-chip-link[data-party='none'] .lb-chip {
+    border: 1px solid var(--el-border-strong);
   }
   .lb-score-legend {
     display: grid;
