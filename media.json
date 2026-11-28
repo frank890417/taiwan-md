@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "fetchedAt": "2026-11-28T21:53:22+08:00",
+ "fetchedAt": "2026-11-28T21:54:21+08:00",
  "sourceName": "Yahoo新聞",
  "sourceUrl": "https://tw.news.yahoo.com/topic/2026-election/",
  "note": "媒體自行計票，非中選會官方數字",
@@ -74,18 +74,18 @@
    ]
   },
   "宜蘭縣": {
-   "updatedAt": "2026-11-28T21:47:02+08:00",
+   "updatedAt": "2026-11-28T21:53:21+08:00",
    "candidates": [
     {
      "name": "林國漳",
-     "votes": 130895,
-     "pct": 53.81,
+     "votes": 131471,
+     "pct": 53.72,
      "elected": true
     },
     {
      "name": "吳宗憲",
      "votes": 107851,
-     "pct": 44.34,
+     "pct": 44.07,
      "elected": false
     }
    ]
@@ -342,18 +342,18 @@
    ]
   },
   "臺東縣": {
-   "updatedAt": "2026-11-28T21:41:09+08:00",
+   "updatedAt": "2026-11-28T21:53:59+08:00",
    "candidates": [
     {
      "name": "陳瑩",
-     "votes": 37335,
-     "pct": 36.35,
+     "votes": 38572,
+     "pct": 36.29,
      "elected": false
     },
     {
      "name": "吳秀華",
-     "votes": 63070,
-     "pct": 61.4,
+     "votes": 65341,
+     "pct": 61.48,
      "elected": true
     }
    ]
