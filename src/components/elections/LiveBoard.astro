@@ -927,7 +927,7 @@ const boot = {
             0.003;
         const tightTag =
           tight && (done || !v.early)
-            ? `<span class="lb-tag lb-tag-tight" title="${esc(C.recountNote)}">${esc(C.recountTag)}</span>`
+            ? `<span class="lb-gap" title="${esc(C.recountTag + '｜' + C.recountNote)}">${esc(fill(C.gapShort, { n: num((v.cands[0].votes || 0) - (v.cands[1].votes || 0)) }))}</span>`
             : '';
         const tag = v.winner
           ? `<span class="lb-tag lb-tag-win">${esc(C.elected)}</span>`
@@ -4239,5 +4239,30 @@ const boot = {
   .lb-tag-tight {
     border-color: var(--el-accent);
     color: var(--el-accent);
+  }
+  /* 千分之三內：不用框，直接寫差幾票；縣市名不折行 */
+  .lb-dc-h b {
+    white-space: nowrap;
+    flex: 0 0 auto;
+  }
+  .lb-gap {
+    min-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-size: 11.5px;
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+    color: #ff8f7a;
+  }
+  .lb-gap::before {
+    content: '';
+    display: inline-block;
+    width: 6px;
+    height: 6px;
+    margin-inline-end: 4px;
+    border-radius: 50%;
+    background: currentColor;
+    vertical-align: 1px;
   }
 </style>
