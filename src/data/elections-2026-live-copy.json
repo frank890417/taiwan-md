@@ -89,7 +89,10 @@
     "officialTitle": "中選會官方計票",
     "bestTitle": "22 縣市目前領先者",
     "bestNote": "中選會票數已追上媒體計票的縣市用官方數字（實線框）；還沒追上的先用媒體計票（虛線框，非官方）。數字是領先幾個百分點，紅字表示差距在 5 點內。",
-    "officialShort": "官方"
+    "officialShort": "官方",
+    "openedPct": "已開 {p}%",
+    "photoCredit": "頭像來源",
+    "dashSub": "中選會官方計票，約每分鐘更新"
   },
   "en": {
     "eyebrow": "Taiwan 2026 Local Elections · Live Count",
@@ -180,7 +183,10 @@
     "officialTitle": "Official CEC count",
     "bestTitle": "Current leaders in the 22 races",
     "bestNote": "Where the CEC count has caught up with the media count, official figures are used (solid box); elsewhere the media count is shown for now (dashed box, unofficial). The number is the lead in percentage points; red means within 5 points.",
-    "officialShort": "Official"
+    "officialShort": "Official",
+    "openedPct": "{p}% in",
+    "photoCredit": "Photo credits",
+    "dashSub": "Official CEC count, updated about every minute"
   },
   "ja": {
     "eyebrow": "台湾 2026年統一地方選挙 · 開票速報",
@@ -271,7 +277,10 @@
     "officialTitle": "中央選挙委員会の公式集計",
     "bestTitle": "22県・市の現在の首位",
     "bestNote": "中央選挙委員会の票数がメディア集計に追いついた県・市は公式の数字（実線の枠）、まだの県・市はメディア集計（破線の枠、非公式）を使います。数字は差（ポイント）で、赤は5ポイント以内です。",
-    "officialShort": "公式"
+    "officialShort": "公式",
+    "openedPct": "開票 {p}%",
+    "photoCredit": "写真の出典",
+    "dashSub": "中央選挙委員会の公式集計、約1分ごとに更新"
   },
   "ko": {
     "eyebrow": "대만 2026 지방선거 · 개표 현황",
@@ -362,7 +371,10 @@
     "officialTitle": "중앙선거관리위원회 공식 집계",
     "bestTitle": "22개 지역 현재 선두",
     "bestNote": "중앙선거관리위원회 집계가 언론 집계를 따라잡은 지역은 공식 수치(실선 상자), 아직인 지역은 언론 집계(점선 상자, 비공식)를 씁니다. 숫자는 격차(%포인트)이며 빨간색은 5포인트 이내입니다.",
-    "officialShort": "공식"
+    "officialShort": "공식",
+    "openedPct": "개표 {p}%",
+    "photoCredit": "사진 출처",
+    "dashSub": "중앙선거관리위원회 공식 집계, 약 1분마다 갱신"
   },
   "es": {
     "eyebrow": "Elecciones locales de Taiwán 2026 · Escrutinio en vivo",
@@ -453,7 +465,10 @@
     "officialTitle": "Recuento oficial de la CEC",
     "bestTitle": "Quién va en cabeza en las 22 circunscripciones",
     "bestNote": "Donde el recuento de la CEC ya ha alcanzado al de los medios se usan cifras oficiales (recuadro continuo); en el resto se muestra por ahora el recuento de los medios (recuadro discontinuo, no oficial). La cifra es la ventaja en puntos porcentuales; en rojo, menos de 5 puntos.",
-    "officialShort": "Oficial"
+    "officialShort": "Oficial",
+    "openedPct": "{p} % escrutado",
+    "photoCredit": "Créditos de las fotos",
+    "dashSub": "Recuento oficial de la CEC, actualizado cada minuto aproximadamente"
   },
   "fr": {
     "eyebrow": "Élections locales de Taïwan 2026 · Dépouillement en direct",
@@ -544,7 +559,10 @@
     "officialTitle": "Décompte officiel de la CEC",
     "bestTitle": "Qui est en tête dans les 22 circonscriptions",
     "bestNote": "Là où le décompte de la CEC a rattrapé celui des médias, les chiffres officiels sont utilisés (cadre plein) ; ailleurs, le décompte des médias est affiché pour l’instant (cadre en pointillés, non officiel). Le nombre est l’avance en points ; en rouge, moins de 5 points.",
-    "officialShort": "Officiel"
+    "officialShort": "Officiel",
+    "openedPct": "{p} % dépouillé",
+    "photoCredit": "Crédits photo",
+    "dashSub": "Décompte officiel de la CEC, mis à jour environ chaque minute"
   },
   "de": {
     "eyebrow": "Kommunalwahlen in Taiwan 2026 · Live-Auszählung",
@@ -635,7 +653,10 @@
     "officialTitle": "Amtliche CEC-Zählung",
     "bestTitle": "Wer in den 22 Wahlkreisen führt",
     "bestNote": "Wo die CEC-Zählung die Medienzählung eingeholt hat, gelten die amtlichen Zahlen (durchgezogener Rahmen); sonst wird vorerst die Medienzählung gezeigt (gestrichelter Rahmen, inoffiziell). Die Zahl ist der Vorsprung in Prozentpunkten; Rot bedeutet weniger als 5 Punkte.",
-    "officialShort": "Amtlich"
+    "officialShort": "Amtlich",
+    "openedPct": "{p} % ausgezählt",
+    "photoCredit": "Bildnachweise",
+    "dashSub": "Amtliche CEC-Zählung, etwa minütlich aktualisiert"
   },
   "pt": {
     "eyebrow": "Eleições locais de Taiwan 2026 · Apuração ao vivo",
@@ -726,7 +747,10 @@
     "officialTitle": "Contagem oficial da CEC",
     "bestTitle": "Quem lidera nas 22 disputas",
     "bestNote": "Onde a contagem da CEC já alcançou a da imprensa, usam-se os números oficiais (quadro contínuo); nas demais, mostra-se por enquanto a contagem da imprensa (quadro tracejado, não oficial). O número é a vantagem em pontos percentuais; em vermelho, menos de 5 pontos.",
-    "officialShort": "Oficial"
+    "officialShort": "Oficial",
+    "openedPct": "{p}% apurado",
+    "photoCredit": "Créditos das fotos",
+    "dashSub": "Contagem oficial da CEC, atualizada a cada minuto, aproximadamente"
   },
   "ru": {
     "eyebrow": "Местные выборы на Тайване 2026 · Подсчёт голосов онлайн",
@@ -817,7 +841,10 @@
     "officialTitle": "Официальный подсчёт ЦИК",
     "bestTitle": "Кто лидирует в 22 округах",
     "bestNote": "Там, где подсчёт ЦИК догнал подсчёт СМИ, используются официальные данные (сплошная рамка); в остальных пока показан подсчёт СМИ (пунктирная рамка, неофициально). Число — отрыв в процентных пунктах; красным — менее 5 пунктов.",
-    "officialShort": "Официально"
+    "officialShort": "Официально",
+    "openedPct": "Подсчитано {p}%",
+    "photoCredit": "Источники фото",
+    "dashSub": "Официальный подсчёт ЦИК, обновляется примерно раз в минуту"
   },
   "vi": {
     "eyebrow": "Bầu cử địa phương Đài Loan 2026 · Kiểm phiếu trực tiếp",
@@ -908,7 +935,10 @@
     "officialTitle": "Kiểm phiếu chính thức của CEC",
     "bestTitle": "Ai đang dẫn đầu ở 22 nơi",
     "bestNote": "Nơi nào số phiếu của CEC đã bắt kịp kiểm phiếu của truyền thông thì dùng số liệu chính thức (khung liền); nơi chưa kịp thì tạm dùng kiểm phiếu của truyền thông (khung nét đứt, không chính thức). Con số là khoảng cách tính bằng điểm phần trăm; màu đỏ là dưới 5 điểm.",
-    "officialShort": "Chính thức"
+    "officialShort": "Chính thức",
+    "openedPct": "Đã kiểm {p}%",
+    "photoCredit": "Nguồn ảnh",
+    "dashSub": "Kiểm phiếu chính thức của CEC, cập nhật khoảng mỗi phút"
   },
   "id": {
     "eyebrow": "Pemilu Daerah Taiwan 2026 · Penghitungan Langsung",
@@ -999,7 +1029,10 @@
     "officialTitle": "Hitungan resmi CEC",
     "bestTitle": "Siapa yang memimpin di 22 daerah",
     "bestNote": "Di daerah yang hitungan CEC-nya sudah menyusul hitungan media dipakai angka resmi (kotak garis penuh); di daerah lain untuk sementara dipakai hitungan media (kotak garis putus-putus, tidak resmi). Angkanya adalah selisih dalam poin persentase; merah berarti kurang dari 5 poin.",
-    "officialShort": "Resmi"
+    "officialShort": "Resmi",
+    "openedPct": "{p}% dihitung",
+    "photoCredit": "Sumber foto",
+    "dashSub": "Hitungan resmi CEC, diperbarui sekitar tiap menit"
   },
   "hi": {
     "eyebrow": "ताइवान स्थानीय चुनाव 2026 · मतगणना लाइव",
@@ -1090,7 +1123,10 @@
     "officialTitle": "CEC की आधिकारिक गिनती",
     "bestTitle": "22 क्षेत्रों में अभी कौन आगे",
     "bestNote": "जहाँ CEC की गिनती मीडिया गिनती के बराबर पहुँच गई है, वहाँ आधिकारिक आँकड़े हैं (ठोस खाना); बाकी जगह फ़िलहाल मीडिया गिनती है (टूटी रेखा वाला खाना, अनौपचारिक)। संख्या प्रतिशत अंकों में बढ़त है; लाल का मतलब 5 अंक के भीतर।",
-    "officialShort": "आधिकारिक"
+    "officialShort": "आधिकारिक",
+    "openedPct": "{p}% गिनती",
+    "photoCredit": "तस्वीरों के स्रोत",
+    "dashSub": "CEC की आधिकारिक गिनती, लगभग हर मिनट अपडेट"
   },
   "ar": {
     "eyebrow": "الانتخابات المحلية في تايوان 2026 · الفرز المباشر",
@@ -1181,6 +1217,9 @@
     "officialTitle": "الفرز الرسمي للجنة",
     "bestTitle": "من يتصدّر في الدوائر الـ22",
     "bestNote": "حيثما لحق فرز اللجنة بفرز وسائل الإعلام تُستخدم الأرقام الرسمية (إطار متصل)، وفي غيرها يُعرض مؤقتًا فرز وسائل الإعلام (إطار متقطع، غير رسمي). الرقم هو الفارق بالنقاط المئوية، والأحمر يعني أقل من 5 نقاط.",
-    "officialShort": "رسمي"
+    "officialShort": "رسمي",
+    "openedPct": "فُرز {p}%",
+    "photoCredit": "مصادر الصور",
+    "dashSub": "الفرز الرسمي للجنة، يُحدَّث كل دقيقة تقريبًا"
   }
 }

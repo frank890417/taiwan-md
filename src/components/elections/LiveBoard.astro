@@ -126,24 +126,43 @@ if (missing.length > 0) {
     `LiveBoard: 縣市名稱對不上 TopoJSON（${missing.map((c) => c.area).join('、')}）`,
   );
 }
-const W = 560;
-const H = 480;
-const insetW = 132;
+// 版面（2026-11-28 哲宇：本島大一點、離島小一點）：直式畫布，本島撐滿高度；
+// 金門、連江縮成左上角兩個小框。投影只對「每個縣市面積最大的那一塊」取範圍，
+// 遠方的小島（宜蘭縣的釣魚臺列嶼等）照畫，但不再把本島擠小，落在畫布外就不顯示。
+const W = 400;
+const H = 540;
 const insets = [
-  { area: '連江縣', box: [8, 8, insetW, 140] as const },
-  { area: '金門縣', box: [8, 158, insetW, 110] as const },
+  { area: '連江縣', box: [6, 6, 84, 78] as const },
+  { area: '金門縣', box: [6, 90, 84, 66] as const },
 ];
 const insetAreas = new Set(insets.map((i) => i.area));
+const largestPart = (f: Feature) => {
+  if (f.geometry.type === 'Polygon') return f;
+  let best = f.geometry.coordinates[0];
+  let bestA = -1;
+  for (const poly of f.geometry.coordinates) {
+    const a = geoArea({ type: 'Polygon', coordinates: poly } as never);
+    if (a > bestA) {
+      bestA = a;
+      best = poly;
+    }
+  }
+  return {
+    type: 'Feature',
+    properties: f.properties,
+    geometry: { type: 'Polygon', coordinates: best },
+  } as Feature;
+};
 const mainProjection = geoMercator().fitExtent(
   [
-    [insetW + 22, 8],
-    [W - 8, H - 8],
+    [10, 10],
+    [W - 10, H - 10],
   ],
   {
     type: 'FeatureCollection',
     features: races
       .filter((r) => !insetAreas.has(r.area))
-      .map((r) => features.get(r.area)!),
+      .map((r) => largestPart(features.get(r.area)!)),
   } as never,
 );
 const mainPath = geoPath(mainProjection).digits(1);
@@ -152,15 +171,61 @@ const insetPaths = new Map(
     const f = features.get(area)!;
     const projection = geoMercator().fitExtent(
       [
-        [x + 10, y + 22],
-        [x + w - 10, y + h - 8],
+        [x + 6, y + 18],
+        [x + w - 6, y + h - 5],
       ],
       f as never,
     );
     return [area, geoPath(projection).digits(1)(f as never) ?? ''];
   }),
 );
+const insetProj = new Map(
+  insets.map(({ area, box: [x, y, w, h] }) => [
+    area,
+    geoMercator().fitExtent(
+      [
+        [x + 6, y + 18],
+        [x + w - 6, y + h - 5],
+      ],
+      features.get(area)! as never,
+    ),
+  ]),
+);
+// 北部幾個縣市擠在一起，標籤手動挪開（單位是 viewBox 座標）
+const NUDGE: Record<string, [number, number]> = {
+  基隆市: [20, -10],
+  臺北市: [-2, -6],
+  新北市: [16, 14],
+  新竹市: [-20, -2],
+  嘉義市: [-20, 2],
+  桃園市: [-10, -2],
+};
+const labelAt = (area: string): [number, number] => {
+  const f = features.get(area)!;
+  const proj = insetAreas.has(area) ? insetProj.get(area)! : mainProjection;
+  // MultiPolygon 取面積最大的那一塊，免得被離島拉走
+  let geom: unknown = f;
+  if (f.geometry.type === 'MultiPolygon') {
+    let best = f.geometry.coordinates[0];
+    let bestA = -1;
+    for (const poly of f.geometry.coordinates) {
+      const a = geoArea({ type: 'Polygon', coordinates: poly } as never);
+      if (a > bestA) {
+        bestA = a;
+        best = poly;
+      }
+    }
+    geom = {
+      type: 'Feature',
+      geometry: { type: 'Polygon', coordinates: best },
+    };
+  }
+  const [cx, cy] = geoPath(proj).centroid(geom as never);
+  const [dx, dy] = NUDGE[area] ?? [0, 0];
+  return [Math.round(cx + dx), Math.round(cy + dy)];
+};
 const shapes = races.map((r) => ({
+  at: labelAt(r.area),
   area: r.area,
   label: r.label,
   inset: insetAreas.has(r.area),
@@ -190,31 +255,33 @@ const boot = {
   data-lb-state="pre"
 >
   <div class="el-wrap lb-wrap">
-    <header class="lb-head">
-      <div class="lb-head-main">
-        <p class="lb-eyebrow">{copy.eyebrow}</p>
-        <h2 id="lb-title" class="lb-title">{copy.title}</h2>
-        <p class="lb-lead">{copy.lead}</p>
-      </div>
-      <div class="lb-status" role="status" aria-live="polite">
-        <p class="lb-status-line">
-          <span class="lb-dot" aria-hidden="true"></span>
-          <span class="lb-status-text" data-lb-status>{copy.statusPre}</span>
-        </p>
-        <p class="lb-status-hint" data-lb-hint>{copy.statusPreHint}</p>
-        <dl class="lb-meta" data-lb-meta hidden>
-          <div>
-            <dt>{copy.updatedAt}</dt>
-            <dd data-lb-updated>—</dd>
-          </div>
-          <div data-lb-stations-wrap hidden>
-            <dt>{copy.stations}</dt>
-            <dd data-lb-stations>—</dd>
-          </div>
-        </dl>
-        <div class="lb-total" data-lb-total hidden aria-hidden="true">
-          <span data-lb-total-fill></span>
+    <!-- 儀表板：電腦版一個畫面看完（左地圖、右 22 縣市＋公投），票數只用中選會官方數字 -->
+    <div class="lb-dash">
+      <header class="lb-dtop">
+        <div class="lb-dtitle">
+          <h2 id="lb-title" class="lb-title">{copy.title}</h2>
+          <p class="lb-dsub">{copy.dashSub}</p>
         </div>
+        <div class="lb-dstatus" role="status" aria-live="polite">
+          <p class="lb-status-line">
+            <span class="lb-dot" aria-hidden="true"></span>
+            <span class="lb-status-text" data-lb-status>{copy.statusPre}</span>
+          </p>
+          <dl class="lb-meta" data-lb-meta hidden>
+            <div>
+              <dt>{copy.updatedAt}</dt>
+              <dd data-lb-updated>—</dd>
+            </div>
+            <div data-lb-stations-wrap hidden>
+              <dt>{copy.stations}</dt>
+              <dd data-lb-stations>—</dd>
+            </div>
+          </dl>
+          <div class="lb-total" data-lb-total hidden aria-hidden="true">
+            <span data-lb-total-fill></span>
+          </div>
+        </div>
+        <ul class="lb-dtally" data-lb-dtally aria-label={copy.scoreTitle}></ul>
         <p class="lb-links">
           <a
             href={CEC_LOCAL}
@@ -223,33 +290,105 @@ const boot = {
             rel="noopener noreferrer">{copy.cecLink} ↗</a
           >
         </p>
+      </header>
+      <p class="lb-status-hint" data-lb-hint>{copy.statusPreHint}</p>
+      <div class="lb-dbody">
+        <figure class="lb-map">
+          <svg
+            viewBox={`0 0 ${W} ${H}`}
+            role="group"
+            aria-label={copy.mapTitle}
+            class="lb-svg"
+          >
+            {
+              insets.map(({ area, box: [x, y, w, h] }) => (
+                <g aria-hidden="true">
+                  <rect
+                    class="lb-inset"
+                    x={x}
+                    y={y}
+                    width={w}
+                    height={h}
+                    rx="6"
+                  />
+                  <text class="lb-inset-label" x={x + 8} y={y + 15}>
+                    {races.find((r) => r.area === area)?.label}
+                  </text>
+                </g>
+              ))
+            }
+            {
+              shapes.map((s) => (
+                <a
+                  href={`#lb-race-${s.area}`}
+                  class="lb-map-link"
+                  data-lb-map={s.area}
+                  aria-label={s.label}
+                >
+                  <path
+                    d={s.d}
+                    class={`lb-c${s.inset ? ' lb-c-small' : ''}`}
+                    data-party="none"
+                  />
+                  <title>{s.label}</title>
+                </a>
+              ))
+            }
+            {
+              shapes.map((s) => (
+                <text
+                  class="lb-map-pct"
+                  x={s.at[0]}
+                  y={s.at[1]}
+                  data-lb-map-pct={s.area}
+                  aria-hidden="true"
+                />
+              ))
+            }
+          </svg>
+          <figcaption class="lb-map-cap">
+            {copy.mapTitle}
+            <span class="lb-map-src" data-lb-map-src hidden>
+              <span class="lb-map-swatch" aria-hidden="true"></span>
+              {copy.media}
+              <span class="lb-tag lb-tag-unofficial">{copy.unofficial}</span>
+            </span>
+          </figcaption>
+        </figure>
+        <ol class="lb-dgrid" data-lb-dgrid></ol>
       </div>
-    </header>
+    </div>
 
     <p class="lb-alert" data-lb-alert hidden></p>
     <noscript><p class="lb-alert">{copy.noscript}</p></noscript>
 
     <!-- 22 縣市目前領先者：官方票數追上媒體計票的縣市用官方，其餘先用媒體計票（非官方）。
          全部追上後這塊自動收掉，不需要再部署。 -->
-    <div class="lb-score lb-media" data-lb-media hidden>
-      <h3 class="lb-h3">
-        {copy.bestTitle}
-        <span class="lb-best-tags" data-lb-best-tags></span>
-        <span class="lb-media-time" data-lb-media-time></span>
-      </h3>
-      <div
-        class="lb-score-bar"
-        data-lb-media-bar
-        role="img"
-        aria-label={copy.bestTitle}
-      >
+    <details class="lb-fold" data-lb-media hidden>
+      <summary>
+        {copy.media}
+        <span class="lb-tag lb-tag-unofficial">{copy.unofficial}</span>
+      </summary>
+      <div class="lb-score lb-media">
+        <h3 class="lb-h3">
+          {copy.bestTitle}
+          <span class="lb-best-tags" data-lb-best-tags></span>
+          <span class="lb-media-time" data-lb-media-time></span>
+        </h3>
+        <div
+          class="lb-score-bar"
+          data-lb-media-bar
+          role="img"
+          aria-label={copy.bestTitle}
+        >
+        </div>
+        <ul class="lb-score-legend el-reset" data-lb-media-legend></ul>
+        <ul class="lb-mgrid" data-lb-media-grid></ul>
+        <p class="lb-note">{copy.bestNote}</p>
+        <p class="lb-note" data-lb-media-note></p>
+        <p class="lb-note">{copy.mediaWhy}</p>
       </div>
-      <ul class="lb-score-legend el-reset" data-lb-media-legend></ul>
-      <ul class="lb-mgrid" data-lb-media-grid></ul>
-      <p class="lb-note">{copy.bestNote}</p>
-      <p class="lb-note" data-lb-media-note></p>
-      <p class="lb-note">{copy.mediaWhy}</p>
-    </div>
+    </details>
 
     <!-- 各黨領先縣市數（中選會官方） -->
     <div class="lb-score" data-lb-score-wrap>
@@ -291,60 +430,7 @@ const boot = {
       <div class="lb-overview-body" data-lb-overview-body></div>
     </div>
 
-    <div class="lb-grid">
-      <!-- 地圖 -->
-      <figure class="lb-map">
-        <svg
-          viewBox={`0 0 ${W} ${H}`}
-          role="group"
-          aria-label={copy.mapTitle}
-          class="lb-svg"
-        >
-          {
-            insets.map(({ area, box: [x, y, w, h] }) => (
-              <g aria-hidden="true">
-                <rect
-                  class="lb-inset"
-                  x={x}
-                  y={y}
-                  width={w}
-                  height={h}
-                  rx="6"
-                />
-                <text class="lb-inset-label" x={x + 8} y={y + 15}>
-                  {races.find((r) => r.area === area)?.label}
-                </text>
-              </g>
-            ))
-          }
-          {
-            shapes.map((s) => (
-              <a
-                href={`#lb-race-${s.area}`}
-                class="lb-map-link"
-                data-lb-map={s.area}
-                aria-label={s.label}
-              >
-                <path
-                  d={s.d}
-                  class={`lb-c${s.inset ? ' lb-c-small' : ''}`}
-                  data-party="none"
-                />
-                <title>{s.label}</title>
-              </a>
-            ))
-          }
-        </svg>
-        <figcaption class="lb-map-cap">
-          {copy.mapTitle}
-          <span class="lb-map-src" data-lb-map-src hidden>
-            <span class="lb-map-swatch" aria-hidden="true"></span>
-            {copy.media}
-            <span class="lb-tag lb-tag-unofficial">{copy.unofficial}</span>
-          </span>
-        </figcaption>
-      </figure>
-
+    <div class="lb-grid lb-grid-solo">
       <!-- 六都 -->
       <div class="lb-major">
         <h3 class="lb-h3">{copy.municipal}</h3>
@@ -353,7 +439,7 @@ const boot = {
     </div>
 
     <!-- 公投 -->
-    <div class="lb-ref" data-lb-ref>
+    <div class="lb-ref" id="lb-ref" data-lb-ref>
       <div class="lb-ref-head">
         <h3 class="lb-h3">{copy.refTitle}</h3>
         <p class="lb-ref-q">
@@ -481,6 +567,8 @@ const boot = {
     let results: any = null;
     let feed: any = null;
     let media: any = null;
+    let avatars: any = null;
+    let avatarBase = '';
     /**
      * 某縣市的媒體計票（依票數排序，政黨從名冊對回來；不採用媒體標的「當選」）。
      * 回傳 null 表示這個縣市「不用媒體計票」，三種情況：
@@ -661,6 +749,100 @@ const boot = {
       return `<p class="lb-ml"><span class="lb-ml-head">${esc(C.media)} <span class="lb-tag lb-tag-unofficial">${esc(C.unofficial)}</span> <time>${esc(timeFmt(mv.updatedAt))}</time></span>${items}</p>`;
     }
 
+    /** 候選人頭像：有授權清楚的照片就用照片，沒有就用姓氏加政黨色。 */
+    function avatarHtml(c: Cand) {
+      const k = partyKey(c.party);
+      const a = avatars?.people?.[c.name];
+      const file =
+        typeof a?.file === 'string' && /^avatars\/[\w.-]+$/.test(a.file)
+          ? a.file
+          : '';
+      return file && avatarBase
+        ? `<span class="lb-av has-photo" data-party="${k}" style="background-image:url('${esc(avatarBase + file)}')" aria-hidden="true"></span>`
+        : `<span class="lb-av" data-party="${k}" aria-hidden="true">${esc(Array.from(c.name)[0] || '')}</span>`;
+    }
+
+    /** 儀表板：22 縣市各一格（前兩名）＋公投一格＋各黨領先數。只用中選會官方數字。 */
+    function renderDash() {
+      const grid = $('[data-lb-dgrid]');
+      if (!grid) return;
+      const views = B.races.map(raceView);
+      const cells = views.map((v: any) => {
+        const head = v.winner || v.leader;
+        const pctOpen =
+          typeof v.reported === 'number' &&
+          typeof v.total === 'number' &&
+          v.total > 0
+            ? (v.reported / v.total) * 100
+            : null;
+        const top = v.cands.slice(0, 2);
+        const rows = top
+          .map(
+            (c: Cand) =>
+              `<span class="lb-dc-row${head && c === head ? ' is-head' : ''}" data-party="${partyKey(c.party)}">${avatarHtml(c)}<span class="lb-dc-n">${esc(c.name)}</span><span class="lb-dc-p">${v.hasVotes ? (c.pct || 0).toFixed(1) + '%' : ''}</span><span class="lb-dc-v">${v.hasVotes ? num(c.votes) : esc(c.partyLabel || c.party)}</span></span>`,
+          )
+          .join('');
+        const bar = v.hasVotes
+          ? `<span class="lb-dc-bar" aria-hidden="true">${top.map((c: Cand) => `<i data-party="${partyKey(c.party)}" style="width:${Math.min(100, c.pct || 0).toFixed(2)}%"></i>`).join('')}</span>`
+          : `<span class="lb-dc-bar" aria-hidden="true"></span>`;
+        const tag = v.winner
+          ? `<span class="lb-tag lb-tag-win">${esc(C.elected)}</span>`
+          : v.early
+            ? `<span class="lb-tag lb-tag-early">${esc(C.early)}</span>`
+            : '';
+        return `<li><a class="lb-dc${v.early ? ' is-early' : ''}${v.winner ? ' is-won' : ''}" href="#lb-race-${esc(v.race.area)}" data-party="${head && !v.early ? partyKey(head.party) : 'none'}"><span class="lb-dc-h"><b>${esc(v.race.label)}</b>${tag}<span class="lb-dc-r">${pctOpen === null ? '' : esc(fill(C.openedPct, { p: pctOpen.toFixed(pctOpen < 10 ? 1 : 0) }))}</span></span>${rows}${bar}</a></li>`;
+      });
+      // 公投一格
+      const r = results?.referendum;
+      const agree = typeof r?.agree === 'number' ? r.agree : 0;
+      const dis = typeof r?.disagree === 'number' ? r.disagree : 0;
+      const has = agree + dis > 0;
+      const pa = has ? (agree / (agree + dis)) * 100 : 0;
+      const refOpen =
+        typeof r?.reported === 'number' &&
+        typeof r?.total === 'number' &&
+        r.total > 0
+          ? (r.reported / r.total) * 100
+          : null;
+      const need =
+        typeof r?.eligible === 'number' && r.eligible > 0
+          ? Math.ceil(r.eligible / 4)
+          : null;
+      cells.push(
+        `<li class="lb-dc-wide"><a class="lb-dc lb-dc-ref" href="#lb-ref"><span class="lb-dc-h"><b>${esc(C.refTitle)}</b><span class="lb-dc-r">${refOpen === null ? '' : esc(fill(C.openedPct, { p: refOpen.toFixed(refOpen < 10 ? 1 : 0) }))}</span></span><span class="lb-dc-refrow"><span class="is-agree">${esc(C.refAgree)} <b>${has ? pa.toFixed(1) + '%' : '—'}</b> <i>${has ? num(agree) : ''}</i></span><span class="is-dis">${esc(C.refDisagree)} <b>${has ? (100 - pa).toFixed(1) + '%' : '—'}</b> <i>${has ? num(dis) : ''}</i></span></span><span class="lb-ref-split" aria-hidden="true"><span class="is-agree" style="width:${has ? pa.toFixed(2) : 50}%"></span><span class="is-dis" style="width:${has ? (100 - pa).toFixed(2) : 50}%"></span></span>${need && has ? `<span class="lb-dc-thresh">${esc(fill(C.refRule2Progress, { a: num(agree), b: num(need) }))}</span>` : ''}</a></li>`,
+      );
+      grid.innerHTML = cells.join('');
+      // 各黨領先數（開票初期不算）
+      const order = ['kmt', 'dpp', 'tpp', 'ind', 'other'];
+      const n: Record<string, number> = {};
+      let early = 0;
+      let won = 0;
+      views.forEach((v: any) => {
+        const head = v.winner || v.leader;
+        if (!head) return;
+        if (v.early) return void early++;
+        if (v.winner) won++;
+        const k = partyKey(head.party);
+        n[k] = (n[k] || 0) + 1;
+      });
+      const tally = $('[data-lb-dtally]');
+      if (tally)
+        tally.innerHTML =
+          order
+            .filter((k) => n[k])
+            .map(
+              (k) =>
+                `<li data-party="${k}"><span class="lb-chip" aria-hidden="true"></span>${esc(C.party[k])} <b>${n[k]}</b></li>`,
+            )
+            .join('') +
+          (early
+            ? `<li data-party="early">${esc(C.early)} <b>${early}</b></li>`
+            : '') +
+          (won
+            ? `<li class="is-won">${esc(C.elected)} <b>${won}</b></li>`
+            : '');
+    }
+
     /** 每個縣市取「目前最好的來源」：官方追上了用官方，否則用媒體計票；都沒有就是空。 */
     function bestView(race: any) {
       const mv = mediaView(race);
@@ -780,7 +962,8 @@ const boot = {
         const path = a?.querySelector('path');
         const head = v.winner || v.leader;
         if (!a || !path) return;
-        const mv = v.winner ? null : mediaView(v.race);
+        // 2026-11-28 18:25 哲宇：票數以中選會為主 → 地圖只用官方數字，媒體計票收在下面的摺疊區
+        const mv: any = null;
         path.setAttribute(
           'data-party',
           mv
@@ -791,6 +974,12 @@ const boot = {
         );
         path.toggleAttribute('data-early', !!v.early && !mv);
         path.toggleAttribute('data-media', !!mv);
+        const lab = root!.querySelector(
+          `[data-lb-map-pct="${CSS.escape(v.race.area)}"]`,
+        );
+        if (lab)
+          lab.textContent =
+            head && v.hasVotes ? `${Math.round(head.pct || 0)}%` : '';
         if (mv) usedMedia = true;
         const chip = root!.querySelector(
           `[data-lb-chip="${CSS.escape(v.race.area)}"]`,
@@ -1052,6 +1241,7 @@ const boot = {
 
     function renderAll() {
       renderStatus();
+      renderDash();
       renderMedia();
       renderRaces();
       renderRef();
@@ -1107,6 +1297,14 @@ const boot = {
           .then((j) => void (feed = j))
           .catch(() => {}),
       ];
+      jobs.push(
+        getJson('avatars.json', base)
+          .then((j) => {
+            avatars = j;
+            avatarBase = base;
+          })
+          .catch(() => {}),
+      );
       if (closed)
         jobs.push(
           getJson('media.json', base)
@@ -1680,6 +1878,19 @@ const boot = {
     font-variant-numeric: tabular-nums;
     color: var(--el-ink-2);
   }
+  .lb-map-pct {
+    font-family: var(--el-sans);
+    font-size: 13px;
+    font-weight: 800;
+    fill: #fff;
+    stroke: #100e0c;
+    stroke-width: 3px;
+    paint-order: stroke;
+    text-anchor: middle;
+    dominant-baseline: middle;
+    pointer-events: none;
+    font-variant-numeric: tabular-nums;
+  }
   .lb-map-cap {
     margin-top: 8px;
     font-size: 13px;
@@ -2082,5 +2293,436 @@ const boot = {
     margin: 8px 0 0;
     max-width: 52em;
     line-height: 1.7;
+  }
+
+  /* ── 儀表板：電腦版一個畫面看完 ───────────────────────────── */
+  .lb-dash {
+    margin-bottom: 28px;
+  }
+  .lb-dtop {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10px 22px;
+    margin-bottom: 10px;
+  }
+  .lb-dtitle {
+    display: flex;
+    align-items: baseline;
+    gap: 12px;
+  }
+  .lb-dtop .lb-title {
+    margin: 0;
+    font-size: clamp(26px, 3vw, 38px);
+    line-height: 1;
+  }
+  .lb-dsub {
+    margin: 0;
+    font-size: 12.5px;
+    color: var(--el-ink-3);
+  }
+  .lb-dstatus {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 6px 16px;
+    padding: 6px 12px;
+    background: var(--el-card);
+    border: 1px solid var(--el-border-strong);
+    border-radius: 10px;
+  }
+  .lb-dstatus .lb-status-line {
+    font-size: 15px;
+  }
+  .lb-dstatus .lb-meta {
+    display: flex;
+    gap: 16px;
+    margin: 0;
+  }
+  .lb-dstatus .lb-meta > div {
+    display: flex;
+    align-items: baseline;
+    gap: 6px;
+  }
+  .lb-dstatus .lb-meta dd {
+    margin: 0;
+    font-size: 15px;
+  }
+  .lb-dstatus .lb-total {
+    flex: 1 1 100%;
+    margin-top: 0;
+    height: 4px;
+  }
+  .lb-dtally {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .lb-dtally li {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 4px 10px;
+    border: 1px solid var(--el-border-strong);
+    border-radius: 999px;
+    font-size: 13.5px;
+    white-space: nowrap;
+  }
+  .lb-dtally b {
+    font-size: 17px;
+    font-variant-numeric: tabular-nums;
+  }
+  .lb-dtally li[data-party='early'] {
+    border-style: dashed;
+    color: var(--el-ink-2);
+    background: none;
+  }
+  .lb-dtally li.is-won {
+    border-color: var(--el-positive);
+    color: var(--el-positive);
+  }
+  .lb-dtop .lb-links {
+    margin: 0 0 0 auto;
+    font-size: 13px;
+  }
+  .lb-dash > .lb-status-hint {
+    margin: 0 0 10px;
+  }
+  .lb-dbody {
+    display: grid;
+    gap: 12px;
+  }
+  .lb-dbody .lb-map {
+    padding: 8px;
+    position: static;
+  }
+  .lb-dgrid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 6px;
+  }
+  .lb-dgrid > li {
+    min-width: 0;
+    display: flex;
+  }
+  .lb-dgrid > li.lb-dc-wide {
+    grid-column: span 2;
+  }
+  .lb .lb-dc {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 3px;
+    width: 100%;
+    min-width: 0;
+    padding: 6px 9px 7px;
+    background: var(--el-card);
+    border: 1px solid var(--el-border);
+    border-top: 3px solid var(--p);
+    border-radius: 9px;
+    color: var(--el-ink);
+    text-decoration: none;
+  }
+  .lb .lb-dc[data-party='none'] {
+    border-top-color: var(--el-border-strong);
+  }
+  .lb .lb-dc.is-early {
+    border-top-style: dashed;
+  }
+  .lb .lb-dc:hover,
+  .lb .lb-dc:focus-visible {
+    border-color: var(--el-ink-2);
+    border-top-color: var(--p);
+  }
+  .lb-dc-h {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 13.5px;
+    line-height: 1.2;
+  }
+  .lb-dc-h b {
+    font-family: var(--el-serif);
+    font-size: 15px;
+  }
+  .lb-dc-h .lb-tag {
+    padding: 0 6px;
+    font-size: 11px;
+  }
+  .lb-dc-r {
+    margin-inline-start: auto;
+    font-size: 11.5px;
+    color: var(--el-ink-3);
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+  }
+  .lb-dc-row {
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr) auto;
+    grid-template-rows: auto auto;
+    column-gap: 7px;
+    align-items: center;
+    line-height: 1.15;
+  }
+  .lb-av {
+    grid-row: 1 / span 2;
+    display: inline-grid;
+    place-items: center;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 2px solid var(--p);
+    background: color-mix(in srgb, var(--p) 22%, #1a1714) center / cover
+      no-repeat;
+    color: var(--el-ink);
+    font-family: var(--el-serif);
+    font-size: 14px;
+    font-weight: 700;
+    flex: none;
+  }
+  .lb-dc-n {
+    font-size: 14px;
+    font-weight: 600;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .lb-dc-row.is-head .lb-dc-n {
+    font-weight: 800;
+  }
+  .lb-dc-p {
+    font-size: 15px;
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+    text-align: end;
+  }
+  .lb-dc-row.is-head .lb-dc-p {
+    font-size: 16.5px;
+  }
+  .lb-dc-row:not(.is-head) .lb-dc-p {
+    color: var(--el-ink-2);
+  }
+  .lb-dc-v {
+    grid-column: 2 / span 2;
+    font-size: 12.5px;
+    color: var(--el-ink-2);
+    font-variant-numeric: tabular-nums;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .lb-dc-bar {
+    display: flex;
+    height: 5px;
+    border-radius: 3px;
+    background: var(--el-rule);
+    overflow: hidden;
+  }
+  .lb-dc-bar i {
+    display: block;
+    height: 100%;
+    background: var(--p);
+    transition: width 0.6s ease;
+  }
+  .lb-dc.is-early .lb-dc-bar i {
+    opacity: 0.45;
+  }
+  .lb-dc-refrow {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    font-size: 13px;
+  }
+  .lb-dc-refrow b {
+    font-size: 18px;
+    font-variant-numeric: tabular-nums;
+  }
+  .lb-dc-refrow i {
+    font-style: normal;
+    font-size: 11.5px;
+    color: var(--el-ink-3);
+    font-variant-numeric: tabular-nums;
+  }
+  .lb-dc-refrow .is-agree b,
+  .lb-dc-refrow .is-agree {
+    color: var(--lb-agree);
+  }
+  .lb-dc-refrow .is-dis b,
+  .lb-dc-refrow .is-dis {
+    color: var(--lb-dis);
+  }
+  .lb-dc-ref .lb-ref-split {
+    height: 7px;
+    margin: 0;
+  }
+  .lb-dc-thresh {
+    font-size: 11.5px;
+    color: var(--el-ink-3);
+    font-variant-numeric: tabular-nums;
+  }
+  @media (min-width: 720px) {
+    .lb-dgrid {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+  }
+  /* 電腦版：整個儀表板剛好一個畫面（扣掉站台表頭），左地圖、右四欄六列 */
+  @media (min-width: 1100px) and (min-height: 660px) {
+    .el-surface .lb {
+      padding-top: 12px;
+    }
+    .lb .lb-wrap {
+      max-width: 1680px;
+    }
+    .lb-dash {
+      display: flex;
+      flex-direction: column;
+      height: calc(100dvh - 92px);
+      min-height: 560px;
+    }
+    .lb-dbody {
+      flex: 1;
+      min-height: 0;
+      grid-template-columns: minmax(300px, 0.5fr) minmax(0, 1fr);
+    }
+    .lb-dbody .lb-map {
+      display: flex;
+      flex-direction: column;
+      min-height: 0;
+    }
+    .lb-dbody .lb-svg {
+      flex: 1;
+      min-height: 0;
+      max-width: none;
+      width: 100%;
+      height: 100%;
+    }
+    .lb-dgrid {
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      grid-auto-rows: minmax(0, 1fr);
+      min-height: 0;
+    }
+    .lb .lb-dc {
+      overflow: hidden;
+    }
+    /* 右下角有站台的浮動按鈕（字級、.md），公投那格右邊留白避開 */
+    .lb .lb-dc-ref {
+      padding-inline-end: 132px;
+    }
+  }
+  /* 半個螢幕寬（視窗靠左放）：一樣一個畫面看完，格子改成單行、三欄八列 */
+  @media (min-width: 760px) and (max-width: 1099px) and (min-height: 660px) {
+    .el-surface .lb {
+      padding-top: 10px;
+    }
+    .lb-dash {
+      display: flex;
+      flex-direction: column;
+      height: calc(100dvh - 86px);
+      min-height: 560px;
+    }
+    .lb-dtop {
+      gap: 6px 12px;
+      margin-bottom: 6px;
+    }
+    .lb-dsub,
+    .lb-dtop .lb-links {
+      display: none;
+    }
+    .lb-dbody {
+      flex: 1;
+      min-height: 0;
+      grid-template-columns: minmax(200px, 0.42fr) minmax(0, 1fr);
+      gap: 8px;
+    }
+    .lb-dbody .lb-map {
+      display: flex;
+      flex-direction: column;
+      min-height: 0;
+      padding: 4px;
+    }
+    .lb-dbody .lb-svg {
+      flex: 1;
+      min-height: 0;
+      max-width: none;
+      width: 100%;
+      height: 100%;
+    }
+    .lb-dgrid {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      grid-auto-rows: minmax(0, 1fr);
+      min-height: 0;
+      gap: 4px;
+    }
+    .lb .lb-dc {
+      overflow: hidden;
+      padding: 4px 6px;
+      gap: 1px;
+    }
+    .lb-dc-bar {
+      display: none;
+    }
+    .lb-dc-row {
+      grid-template-columns: auto minmax(0, 1fr) auto auto;
+      grid-template-rows: auto;
+      column-gap: 5px;
+    }
+    .lb-av {
+      grid-row: auto;
+      width: 22px;
+      height: 22px;
+      font-size: 11px;
+      border-width: 1.5px;
+    }
+    .lb-dc-n {
+      font-size: 13px;
+    }
+    .lb-dc-v {
+      grid-column: auto;
+      grid-row: 1;
+      order: 2;
+      font-size: 11px;
+    }
+    .lb-dc-p,
+    .lb-dc-row.is-head .lb-dc-p {
+      order: 3;
+      font-size: 13.5px;
+      min-width: 3.2em;
+    }
+    .lb-dc-h b {
+      font-size: 13.5px;
+    }
+    .lb-map-cap {
+      display: none;
+    }
+  }
+  @media (max-width: 759px) {
+    .lb-dbody .lb-svg {
+      max-height: 46vh;
+    }
+  }
+  @media (min-width: 1500px) and (min-height: 660px) {
+    .lb-dgrid {
+      grid-template-columns: repeat(6, minmax(0, 1fr));
+    }
+  }
+  .lb-fold {
+    margin-bottom: 24px;
+  }
+  .lb-fold > summary {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    padding: 8px 12px;
+    border: 1px dashed var(--el-border-strong);
+    border-radius: 10px;
+    font-size: 14px;
+    color: var(--el-ink-2);
+  }
+  .lb-fold[open] > summary {
+    margin-bottom: 12px;
+  }
+  .lb-grid-solo {
+    grid-template-columns: minmax(0, 1fr) !important;
   }
 </style>
