@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "fetchedAt": "2026-11-28T17:50:24+08:00",
+ "fetchedAt": "2026-11-28T17:51:23+08:00",
  "sourceName": "Yahoo新聞",
  "sourceUrl": "https://tw.news.yahoo.com/topic/2026-election/",
  "note": "媒體自行計票，非中選會官方數字",
@@ -131,24 +131,24 @@
    ]
   },
   "彰化縣": {
-   "updatedAt": "2026-11-28T17:49:16+08:00",
+   "updatedAt": "2026-11-28T17:50:45+08:00",
    "candidates": [
     {
      "name": "陳素月",
-     "votes": 59590,
-     "pct": 57.7,
+     "votes": 226041,
+     "pct": 53.23,
      "elected": false
     },
     {
      "name": "魏平政",
-     "votes": 43636,
-     "pct": 42.25,
+     "votes": 198527,
+     "pct": 46.75,
      "elected": false
     },
     {
      "name": "邱建富",
      "votes": 46,
-     "pct": 0.04,
+     "pct": 0.01,
      "elected": false
     }
    ]
@@ -268,24 +268,24 @@
    ]
   },
   "花蓮縣": {
-   "updatedAt": "2026-11-28T17:41:59+08:00",
+   "updatedAt": "2026-11-28T17:50:27+08:00",
    "candidates": [
     {
      "name": "魏嘉賢",
-     "votes": 13047,
-     "pct": 29.42,
+     "votes": 14122,
+     "pct": 29.9,
      "elected": false
     },
     {
      "name": "張峻",
-     "votes": 16126,
-     "pct": 36.36,
+     "votes": 17018,
+     "pct": 36.04,
      "elected": false
     },
     {
      "name": "游淑貞",
-     "votes": 15172,
-     "pct": 34.21,
+     "votes": 16086,
+     "pct": 34.06,
      "elected": false
     }
    ]
@@ -325,18 +325,18 @@
    ]
   },
   "臺南市": {
-   "updatedAt": "2026-11-28T17:40:08+08:00",
+   "updatedAt": "2026-11-28T17:50:35+08:00",
    "candidates": [
     {
      "name": "謝龍介",
-     "votes": 182343,
-     "pct": 46.89,
+     "votes": 182449,
+     "pct": 46.85,
      "elected": false
     },
     {
      "name": "陳亭妃",
-     "votes": 206551,
-     "pct": 53.11,
+     "votes": 206963,
+     "pct": 53.15,
      "elected": false
     }
    ]
@@ -393,17 +393,17 @@
    ]
   },
   "高雄市": {
-   "updatedAt": "2026-11-28T17:39:35+08:00",
+   "updatedAt": "2026-11-28T17:51:10+08:00",
    "candidates": [
     {
      "name": "柯志恩",
-     "votes": 292838,
+     "votes": 293800,
      "pct": 46.21,
      "elected": false
     },
     {
      "name": "賴瑞隆",
-     "votes": 340910,
+     "votes": 342055,
      "pct": 53.79,
      "elected": false
     }
