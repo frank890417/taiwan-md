@@ -1,31 +1,31 @@
 {
  "schema": 1,
  "phase": "counting",
- "updatedAt": "2026-11-28T17:51:07+08:00",
+ "updatedAt": "2026-11-28T17:52:06+08:00",
  "sourceName": "中央選舉委員會計票資訊查詢網站",
  "sourceUrl": "https://vote.cec.gov.tw/2026-local/zh-TW/indexP.html",
  "stations": {
-  "reported": 693,
+  "reported": 725,
   "total": 18248
  },
  "mayors": {
   "臺北市": {
-   "reported": 33,
+   "reported": 35,
    "total": 1790,
    "candidates": [
     {
      "number": 1,
      "name": "郭璽",
      "party": "台灣麻將最大黨",
-     "votes": 47,
-     "pct": 0.22,
+     "votes": 51,
+     "pct": 0.23,
      "elected": false
     },
     {
      "number": 2,
      "name": "林志成",
      "party": "無黨籍",
-     "votes": 13,
+     "votes": 14,
      "pct": 0.06,
      "elected": false
     },
@@ -33,114 +33,114 @@
      "number": 3,
      "name": "沈伯洋",
      "party": "民主進步黨",
-     "votes": 10026,
-     "pct": 47.63,
+     "votes": 10634,
+     "pct": 46.97,
      "elected": false
     },
     {
      "number": 4,
      "name": "蕭文乾",
      "party": "臺灣SoR無法黨",
-     "votes": 22,
-     "pct": 0.1,
+     "votes": 24,
+     "pct": 0.11,
      "elected": false
     },
     {
      "number": 5,
      "name": "蔣萬安",
      "party": "中國國民黨",
-     "votes": 10900,
-     "pct": 51.79,
+     "votes": 11873,
+     "pct": 52.44,
      "elected": false
     },
     {
      "number": 6,
      "name": "唐新民",
      "party": "三勢團結促進聯盟",
-     "votes": 40,
-     "pct": 0.19,
+     "votes": 45,
+     "pct": 0.2,
      "elected": false
     }
    ]
   },
   "新北市": {
-   "reported": 105,
+   "reported": 113,
    "total": 2728,
    "candidates": [
     {
      "number": 1,
      "name": "蘇巧慧",
      "party": "民主進步黨",
-     "votes": 18822,
-     "pct": 50.16,
+     "votes": 21030,
+     "pct": 49.99,
      "elected": false
     },
     {
      "number": 2,
      "name": "蘇輝湟",
      "party": "無黨籍",
-     "votes": 256,
-     "pct": 0.68,
+     "votes": 281,
+     "pct": 0.67,
      "elected": false
     },
     {
      "number": 3,
      "name": "李四川",
      "party": "中國國民黨",
-     "votes": 18448,
-     "pct": 49.16,
+     "votes": 20754,
+     "pct": 49.34,
      "elected": false
     }
    ]
   },
   "桃園市": {
-   "reported": 37,
+   "reported": 47,
    "total": 1479,
    "candidates": [
     {
      "number": 1,
      "name": "黃世杰",
      "party": "民主進步黨",
-     "votes": 11300,
-     "pct": 44.7,
+     "votes": 14274,
+     "pct": 44.54,
      "elected": false
     },
     {
      "number": 2,
      "name": "張善政",
      "party": "中國國民黨",
-     "votes": 13980,
-     "pct": 55.3,
+     "votes": 17771,
+     "pct": 55.46,
      "elected": false
     }
    ]
   },
   "臺中市": {
-   "reported": 55,
+   "reported": 60,
    "total": 1980,
    "candidates": [
     {
      "number": 1,
      "name": "何欣純",
      "party": "民主進步黨",
-     "votes": 13167,
-     "pct": 48.62,
+     "votes": 14426,
+     "pct": 48.34,
      "elected": false
     },
     {
      "number": 2,
      "name": "洪麗華",
      "party": "司法正義黨",
-     "votes": 314,
-     "pct": 1.16,
+     "votes": 350,
+     "pct": 1.17,
      "elected": false
     },
     {
      "number": 3,
      "name": "江啟臣",
      "party": "中國國民黨",
-     "votes": 13603,
-     "pct": 50.23,
+     "votes": 15064,
+     "pct": 50.48,
      "elected": false
     }
    ]
@@ -230,31 +230,31 @@
    ]
   },
   "基隆市": {
-   "reported": 8,
+   "reported": 9,
    "total": 288,
    "candidates": [
     {
      "number": 1,
      "name": "童子瑋",
      "party": "民主進步黨",
-     "votes": 1682,
-     "pct": 52.35,
+     "votes": 1917,
+     "pct": 52.11,
      "elected": false
     },
     {
      "number": 2,
      "name": "魏造文",
      "party": "無黨籍",
-     "votes": 33,
-     "pct": 1.03,
+     "votes": 37,
+     "pct": 1.01,
      "elected": false
     },
     {
      "number": 3,
      "name": "謝國樑",
      "party": "中國國民黨",
-     "votes": 1498,
-     "pct": 46.62,
+     "votes": 1725,
+     "pct": 46.89,
      "elected": false
     }
    ]
@@ -366,23 +366,23 @@
    ]
   },
   "苗栗縣": {
-   "reported": 7,
+   "reported": 9,
    "total": 508,
    "candidates": [
     {
      "number": 1,
      "name": "陳品安",
      "party": "民主進步黨",
-     "votes": 590,
-     "pct": 34.6,
+     "votes": 723,
+     "pct": 34.44,
      "elected": false
     },
     {
      "number": 2,
      "name": "鍾東錦",
      "party": "中國國民黨",
-     "votes": 1115,
-     "pct": 65.4,
+     "votes": 1376,
+     "pct": 65.56,
      "elected": false
     }
    ]
@@ -426,23 +426,23 @@
    ]
   },
   "南投縣": {
-   "reported": 13,
+   "reported": 14,
    "total": 496,
    "candidates": [
     {
      "number": 1,
      "name": "許淑華",
      "party": "中國國民黨",
-     "votes": 1381,
-     "pct": 64.81,
+     "votes": 1817,
+     "pct": 65.22,
      "elected": false
     },
     {
      "number": 2,
      "name": "温世政",
      "party": "民主進步黨",
-     "votes": 750,
-     "pct": 35.19,
+     "votes": 969,
+     "pct": 34.78,
      "elected": false
     }
    ]
@@ -508,23 +508,23 @@
    ]
   },
   "屏東縣": {
-   "reported": 3,
+   "reported": 4,
    "total": 740,
    "candidates": [
     {
      "number": 1,
      "name": "蘇清泉",
      "party": "中國國民黨",
-     "votes": 419,
-     "pct": 37.92,
+     "votes": 570,
+     "pct": 35.36,
      "elected": false
     },
     {
      "number": 2,
      "name": "周春米",
      "party": "民主進步黨",
-     "votes": 686,
-     "pct": 62.08,
+     "votes": 1042,
+     "pct": 64.64,
      "elected": false
     }
    ]
@@ -576,31 +576,31 @@
    ]
   },
   "花蓮縣": {
-   "reported": 6,
+   "reported": 7,
    "total": 344,
    "candidates": [
     {
      "number": 1,
      "name": "魏嘉賢",
      "party": "無黨籍",
-     "votes": 214,
-     "pct": 22.99,
+     "votes": 222,
+     "pct": 22.42,
      "elected": false
     },
     {
      "number": 2,
      "name": "張峻",
      "party": "無黨籍",
-     "votes": 264,
-     "pct": 28.36,
+     "votes": 301,
+     "pct": 30.4,
      "elected": false
     },
     {
      "number": 3,
      "name": "游淑貞",
      "party": "中國國民黨",
-     "votes": 446,
-     "pct": 47.91,
+     "votes": 460,
+     "pct": 46.46,
      "elected": false
     },
     {
@@ -608,7 +608,7 @@
      "name": "羅佩秦",
      "party": "台灣工黨",
      "votes": 7,
-     "pct": 0.75,
+     "pct": 0.71,
      "elected": false
     }
    ]
@@ -706,31 +706,31 @@
    ]
   },
   "金門縣": {
-   "reported": 4,
+   "reported": 5,
    "total": 101,
    "candidates": [
     {
      "number": 1,
      "name": "張國威",
      "party": "無黨籍",
-     "votes": 23,
-     "pct": 3.65,
+     "votes": 32,
+     "pct": 3.35,
      "elected": false
     },
     {
      "number": 2,
      "name": "李文良",
      "party": "無黨籍",
-     "votes": 150,
-     "pct": 23.77,
+     "votes": 251,
+     "pct": 26.26,
      "elected": false
     },
     {
      "number": 3,
      "name": "洪和成",
      "party": "無黨籍",
-     "votes": 7,
-     "pct": 1.11,
+     "votes": 8,
+     "pct": 0.84,
      "elected": false
     },
     {
@@ -738,31 +738,31 @@
      "name": "張火木",
      "party": "無黨籍",
      "votes": 1,
-     "pct": 0.16,
+     "pct": 0.1,
      "elected": false
     },
     {
      "number": 5,
      "name": "陳玉珍",
      "party": "中國國民黨",
-     "votes": 435,
-     "pct": 68.94,
+     "votes": 626,
+     "pct": 65.48,
      "elected": false
     },
     {
      "number": 6,
      "name": "梁文韜",
      "party": "無黨籍",
-     "votes": 2,
-     "pct": 0.32,
+     "votes": 23,
+     "pct": 2.41,
      "elected": false
     },
     {
      "number": 7,
      "name": "黃世團",
      "party": "無黨籍",
-     "votes": 13,
-     "pct": 2.06,
+     "votes": 15,
+     "pct": 1.57,
      "elected": false
     }
    ]
@@ -791,14 +791,14 @@
   }
  },
  "referendum": {
-  "agree": 192113,
-  "disagree": 131498,
-  "valid": 323611,
-  "invalid": 19162,
+  "agree": 204593,
+  "disagree": 139092,
+  "valid": 343685,
+  "invalid": 20105,
   "eligible": 20003835,
-  "reported": 797,
+  "reported": 838,
   "total": 18248,
-  "completedEligible": 562608
+  "completedEligible": 596158
  },
  "coverage": {
   "mayorsWithData": 22,
