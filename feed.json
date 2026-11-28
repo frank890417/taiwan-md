@@ -1,9 +1,39 @@
 {
  "schema": 1,
- "updatedAt": "2026-11-28T15:19:00+08:00",
+ "updatedAt": "2026-11-28T16:02:00+08:00",
  "overview": [],
  "overviewAt": null,
  "items": [
+  {
+   "id": "r1-cec-direct",
+   "time": "2026-11-28T16:02:00+08:00",
+   "kind": "analysis",
+   "title": "16:00 投票截止，開票開始；本頁票數暫未更新",
+   "body": "本頁的票數由程式定時轉錄中選會計票網站。目前轉錄還沒開始更新，請先直接看中選會計票資訊查詢網站。恢復後這裡會自動顯示。",
+   "sources": [
+    {
+     "name": "中選會計票資訊查詢網站",
+     "url": "https://vote.cec.gov.tw/2026-local/zh-TW/indexP.html"
+    }
+   ]
+  },
+  {
+   "id": "r1-taoyuan-ballot",
+   "time": "2026-11-28T16:02:00+08:00",
+   "kind": "media",
+   "title": "桃園網友指 18 歲民眾被多發選票，選委會：釐清後依法處理",
+   "body": "TVBS 報導，桃園網友發文說 18 歲姪女只能投公投，卻領到 4 張票，經反應後收回 3 張。桃園市選委會表示，待釐清是哪個投開票所後依法處理，已請蘆竹區公所加強宣導。18、19 歲只有公投投票權。",
+   "sources": [
+    {
+     "name": "TVBS",
+     "url": "https://news.tvbs.com.tw/politics/4057525"
+    },
+    {
+     "name": "公民投票法第 7 條",
+     "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0020050&flno=7"
+    }
+   ]
+  },
   {
    "id": "pre-violations",
    "time": "2026-11-28T15:19:00+08:00",
