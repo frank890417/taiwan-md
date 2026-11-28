@@ -12,14 +12,22 @@ owner: 'Taiwan.md（主 session，Fable）'
 
 這份檔同時是值班手冊：主 session 的上下文被壓縮後，照這份檔接手。
 
-> **現況（18:55 更新，以這段為準；下面 §一–§六 有幾處已經過時）**
+> **現況（19:50 更新，以這段為準；下面 §一–§六 有幾處已經過時）**
 >
-> - 轉錄迴圈：`INTERVAL=40 bash scripts/tools/election-live/loop.sh`，約每分鐘一輪，推到 `election-live` 分支。**重啟前先 `pgrep -fl election-live/loop.sh`，確認只有一支在跑**；改了 `loop.sh` 要停掉舊的再開新的。
-> - 資料分支上的檔（本機 clone 在 `~/.taiwanmd-election-live/`）：`results.json`（中選會縣市長＋公投）、`council.json`（中選會議員 221 選舉區，每兩輪一次）、`media.json`（Yahoo 媒體計票，非官方）、`avatars.json`＋`avatars/`（42 位候選人的授權頭像）都只有程式寫；`feed.json` 由消息台 session 寫。
-> - 頁面用哪個數字：儀表板、地圖、各黨領先數、當選，一律只看中選會。媒體計票只在下面的摺疊區，中選會票數追上的縣市會自動從那裡消失。
-> - 值班檢查：`python3 scripts/tools/election-live/check.py <縣市碼>`，會印迴圈心跳、抽查一個縣市、表頭有沒有變、有沒有縣市開完。
-> - 推 `main` 前先看 PR 整理 session 有沒有正在合併；每次 push 是一次約 12 分鐘的部署，會取消進行中的那次。
-> - 還沒驗過的：中選會怎麼標「當選」（至今沒有縣市開完）。
+> - 工作樹：`/Users/cheyuwu/Projects/taiwan-md/.worktrees/20261128-20261128-election-night`（在這裡改、`git push origin HEAD:main`）。本機預覽 `http://localhost:4399/elections/2026/`（astro dev 已在跑；`window.__lb.patch(fn)` 可改票數看動畫）。
+> - 轉錄迴圈：`INTERVAL=40 bash scripts/tools/election-live/loop.sh`（背景工作），約每一到兩分鐘一輪，推到 `election-live` 分支。**重啟前先 `pgrep -fl election-live/loop.sh`，確認只有一支在跑**；改了 `loop.sh` 要停掉舊的再開新的。
+> - 資料分支的檔（本機 clone 在 `~/.taiwanmd-election-live/`）：`results.json`（中選會縣市長＋公投）、`council.json`（中選會議員 221 選舉區）、`media.json`（Yahoo 媒體計票，非官方）、`avatars.json`＋`avatars/`（42 位候選人授權頭像）只有程式寫；`feed.json` 由消息台 session（`local_6d4c56eb-e30d-448a-8188-11edd1e5452c`）寫。
+> - 頁面（`src/components/elections/LiveBoard.astro`）由上到下：儀表板（縣市長／議員分頁、地圖、22 格、公投、新聞輪播）→ 分析（領先幅度排行＋全貌）→ 公投 → 消息與查核 → 收合的完整得票 → 收合的媒體計票 → 資料來源。票數、地圖、當選一律只看中選會。樣式是「不用框線、實心政黨色長條」；最後面幾段 CSS 是覆蓋用的，新的覆蓋加在檔尾。
+> - 值班檢查：`python3 scripts/tools/election-live/check.py <縣市碼>`。排程（session 內）：每 15 分鐘檢查、每 30 分鐘自我檢查；App 重啟就沒了。
+> - 推 `main`：每次 push 是一次約 12 分鐘的部署並取消進行中的那次；部署完成後主網址還會被 Cloudflare 快取最多 10 分鐘（加 `?v=數字` 可繞過）。PR 整理 session 今晚不再動 `main`。
+> - 其他 session：PR 整理已收工（#2078 等留給哲宇）；CI/CD 評估報告在分支 `claude/20261128-cicd-speed-eval-062810` 的 `reports/cicd-speed-evaluation-2026-11-28.md`，三個推薦等哲宇決定。
+>
+> **還沒做完的事（照順序）**
+>
+> 1. 第一個官方開完的縣市出現時（`check.py` 會印「已開完的縣市」或「表頭變了」）：打開 `~/.taiwanmd-election-live/.raw/` 的原始檔，確認中選會怎麼標當選，對一次 `elected`。至今沒驗過。
+> 2. 哲宇 19:45 的要求還剩一半：儀表板以下再往下的舊頁面（名冊、讀懂選舉、工具、時程、關於）只收掉了選前的三塊，還沒重新設計；名冊跟「所有候選人得票」有重疊。
+> 3. 全部開完後：`phase` 要到 `final`（公投要另外確認開完）；把最終結果落回 `main` 的 `src/data`（明天重建頁面會變選後狀態，不能只靠資料分支）；停迴圈（`touch ~/.taiwanmd-election-live/.stop`）；`CronDelete` 排程；停 `caffeinate` 與 astro dev；照 `docs/pipelines/MEMORY-PIPELINE.md` 寫 memory（session id 用 `bash scripts/tools/session-id.sh election-night`）。
+> 4. 選後要還的債：瀏覽器取檔用 GitHub API 提交碼那段只為今晚；地圖投影與 `CountyMap.astro` 重複；`LiveBoard.astro` 的 CSS 疊了多層覆蓋，該整併。
 
 ## 一、目標與不做的事
 
