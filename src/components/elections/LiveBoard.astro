@@ -938,7 +938,7 @@ const boot = {
             : '';
         const tag = v.winner
           ? `<span class="lb-tag lb-tag-win">${esc(C.elected)}</span>`
-          : done
+          : done && !tightTag
             ? `<span class="lb-tag lb-tag-done">${esc(C.statusFinal)}</span>`
             : v.early
               ? `<span class="lb-tag lb-tag-early">${esc(C.early)}</span>`
