@@ -22,15 +22,15 @@ image: ''
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/史溫侯.md'
-sourceCommitSha: '3f269cde5e'
-sourceContentHash: 'sha256:50b13c3a31e0a1c0'
-sourceBodyHash: 'sha256:e6b263814c7b1995'
-translatedAt: '2026-11-27T01:44:01.844158+00:00'
+sourceCommitSha: 'fce3f18534'
+sourceContentHash: 'sha256:38dbb4ed46592a20'
+sourceBodyHash: 'sha256:6175f72a885c5908'
+translatedAt: '2026-11-28T01:10:12.585748+00:00'
 ---
 
-# Robert Swinhoe: Khi nhà ngoại giao trở thành nhà tự nhiên học
+# Sử Văn Hầu: Khi ngoại giao gia hóa thành nhà sử học tự nhiên
 
-> **Tóm tắt trong 30 giây:** Robert Swinhoe (1836-1877), vị Lãnh sự đầu tiên của Anh tại Formosa. Trong khoảng bốn năm lưu trú tại Đài Loan, ông đã công bố 52 bài luận văn học thuật về hòn đảo này, ghi chép lại 227 loài chim, 40 loài động vật có vú và 246 loài thực vật. Nhà điểu học cùng thời P. L. Sclater đã gọi ông là "một trong những nhà thám hiểm tự nhiên thành công nhất trong lịch sử". Ông qua đời vì bệnh tật ở tuổi 41, nhưng những loài sinh vật do ông đặt tên — từ loài chim bói cá bụng xanh trên tờ tiền NT$1.000 đến loài ba ba đốm đang cực kỳ nguy cấp trên Trái Đất — cho đến nay vẫn đang tồn tại trên hòn đảo này (và trong cả danh pháp khoa học).
+> **Tóm tắt 30 giây:** Robert Swinhoe (Sử Văn Hầu, 1836-1877), Lãnh sự đầu tiên của Anh tại Formosa. Ông lưu lại Đài Loan trước sau khoảng bốn năm, công bố 52 bài báo học thuật về đảo này, ghi chép 227 loài chim, 40 loài thú và 246 loài thực vật. Nhà cầm sinh học đồng thời P. L. Sclater gọi ông là «một trong những nhà thám hiểm sử học tự nhiên thành công nhất trong lịch sử». Ông qua đời ở tuổi 41 vì bệnh tật, nhưng những loài do ông đặt tên — từ loài đặc hữu đại diện nhất của Đài Loan là Gà lôi Swinhoe (Swinhoe's Pheasant) đến loài rùa hiếm nhất trên Trái Đất là Rùa Rafetus (Swinhoe's softshell turtle) — vẫn còn sống trên đảo này (và trong tên học) cho đến ngày nay.
 
 ---
 
