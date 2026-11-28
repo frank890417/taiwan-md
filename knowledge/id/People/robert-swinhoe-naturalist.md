@@ -22,17 +22,15 @@ image: ''
 curation: 'incubating'
 curationReason: 'unverified'
 translatedFrom: 'People/史溫侯.md'
-sourceCommitSha: '3f269cde5e'
-sourceContentHash: 'sha256:50b13c3a31e0a1c0'
-sourceBodyHash: 'sha256:e6b263814c7b1995'
-translatedAt: '2026-11-27T01:20:38.483866+00:00'
+sourceCommitSha: 'fce3f18534'
+sourceContentHash: 'sha256:38dbb4ed46592a20'
+sourceBodyHash: 'sha256:6175f72a885c5908'
+translatedAt: '2026-11-28T01:10:58.535404+00:00'
 ---
 
-# Robert Swinhoe: Sang Diplomat yang Menjadi Ahli Biologi
+# Swinhoe: Ketika Diplomat Menjadi Ahli Sejarah Alam
 
-> **Ringkasan 30 Detik:** Robert Swinhoe (1836-1877), konsul Inggris pertama di Formosa. Selama sekitar empat tahun di Taiwan, ia menerbitkan 52 makalah akademis tentang pulau ini, mencatat 227 spesies burung, 40 spesies mamalia, 246 spesies tumbuhan. Ahli ornitologi kontemporernya P. L. Sclater menyebutnya "salah satu penjelajah biologi paling sukses dalam sejarah". Ia meninggal pada usia 41 tahun karena penyakit, namun spesies-spesies yang ia namakan — dari Elang Biru Taiwan yang menghiasi uang seribu yuan hingga kura-kura lunak paling terancam punah di dunia — hingga kini masih hidup di pulau ini (dan dalam nama ilmiahnya).
-
----
+> **Ringkasan 30 Detik:** Robert Swinhoe (1836-1877), konsul pertama Inggris di Formosa. Ia tinggal di Taiwan sekitar empat tahun, menerbitkan 52 makalah akademis tentang pulau ini, mencatat 227 spesies burung, 40 spesies mamalia, dan 246 spesies tumbuhan. Ornitolog kontemporer P. L. Sclater menyebutnya "salah satu penjelajah sejarah alam paling sukses dalam sejarah." Ia meninggal dunia pada usia 41 tahun karena sakit, namun spesies yang ia namai — dari spesies endemik paling representatif Taiwan, Ayam Hutan Swinhoe, hingga kura-kura paling terancam punah di dunia, Kura-kura Lunak Raksasa Yangtze — tetap hidup di pulau ini (dan dalam nama ilmiah) hingga hari ini.
 
 ## Sembilan Belas Tahun, Pantai Xiangshan
 
