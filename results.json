@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "phase": "counting",
- "updatedAt": "2026-11-28T22:27:30+08:00",
+ "updatedAt": "2026-11-28T22:28:30+08:00",
  "sourceName": "中央選舉委員會計票資訊查詢網站",
  "sourceUrl": "https://vote.cec.gov.tw/2026-local/zh-TW/indexP.html",
  "stations": {
-  "reported": 18205,
+  "reported": 18206,
   "total": 18248
  },
  "mayors": {
@@ -576,38 +576,38 @@
    ]
   },
   "花蓮縣": {
-   "reported": 343,
+   "reported": 344,
    "total": 344,
    "candidates": [
     {
      "number": 1,
      "name": "魏嘉賢",
      "party": "無黨籍",
-     "votes": 40804,
-     "pct": 24.5,
+     "votes": 41013,
+     "pct": 24.51,
      "elected": false
     },
     {
      "number": 2,
      "name": "張峻",
      "party": "無黨籍",
-     "votes": 62435,
-     "pct": 37.48,
+     "votes": 62656,
+     "pct": 37.45,
      "elected": false
     },
     {
      "number": 3,
      "name": "游淑貞",
      "party": "中國國民黨",
-     "votes": 62724,
-     "pct": 37.65,
+     "votes": 63013,
+     "pct": 37.66,
      "elected": false
     },
     {
      "number": 4,
      "name": "羅佩秦",
      "party": "台灣工黨",
-     "votes": 617,
+     "votes": 620,
      "pct": 0.37,
      "elected": false
     }
@@ -791,14 +791,14 @@
   }
  },
  "referendum": {
-  "agree": 7418055,
-  "disagree": 4549254,
-  "valid": 11967309,
-  "invalid": 566398,
+  "agree": 7418819,
+  "disagree": 4549618,
+  "valid": 11968437,
+  "invalid": 566455,
   "eligible": 20003835,
-  "reported": 18213,
+  "reported": 18215,
   "total": 18248,
-  "completedEligible": 19962412
+  "completedEligible": 19964303
  },
  "coverage": {
   "mayorsWithData": 22,
