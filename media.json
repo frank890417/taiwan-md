@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "fetchedAt": "2026-11-28T20:08:19+08:00",
+ "fetchedAt": "2026-11-28T20:09:17+08:00",
  "sourceName": "Yahoo新聞",
  "sourceUrl": "https://tw.news.yahoo.com/topic/2026-election/",
  "note": "媒體自行計票，非中選會官方數字",
@@ -131,24 +131,24 @@
    ]
   },
   "彰化縣": {
-   "updatedAt": "2026-11-28T20:04:52+08:00",
+   "updatedAt": "2026-11-28T20:07:59+08:00",
    "candidates": [
     {
      "name": "陳素月",
      "votes": 226041,
-     "pct": 49.38,
+     "pct": 49.09,
      "elected": true
     },
     {
      "name": "魏平政",
      "votes": 198527,
-     "pct": 43.37,
+     "pct": 43.12,
      "elected": false
     },
     {
      "name": "邱建富",
-     "votes": 33225,
-     "pct": 7.26,
+     "votes": 35848,
+     "pct": 7.79,
      "elected": false
     }
    ]
@@ -342,18 +342,18 @@
    ]
   },
   "臺東縣": {
-   "updatedAt": "2026-11-28T20:03:14+08:00",
+   "updatedAt": "2026-11-28T20:08:21+08:00",
    "candidates": [
     {
      "name": "陳瑩",
-     "votes": 17006,
-     "pct": 35.23,
+     "votes": 18480,
+     "pct": 35.26,
      "elected": false
     },
     {
      "name": "吳秀華",
-     "votes": 30288,
-     "pct": 62.74,
+     "votes": 32861,
+     "pct": 62.7,
      "elected": true
     }
    ]
