@@ -308,6 +308,9 @@ const boot = {
         </p>
       </header>
       <p class="lb-status-hint" data-lb-hint>{copy.statusPreHint}</p>
+      <p class="lb-status-hint lb-elected-note" data-lb-elected-note hidden>
+        {copy.electedNote}
+      </p>
       <div class="lb-dbody">
         <figure class="lb-map">
           <svg
@@ -676,7 +679,17 @@ const boot = {
       }
       const leader = hasVotes ? cands[0] : null;
       const second = hasVotes && cands.length > 1 ? cands[1] : null;
-      const winner = cands.find((c) => c.elected) || null;
+      // 2026-11-28 20:34 哲宇：自己下判斷。中選會的計票頁開完也不標當選，
+      // 所以票所全數回報時，由本頁依中選會票數把得票最高的人標為當選（頁面上寫明這是本頁的判定）。
+      const complete =
+        hasVotes &&
+        typeof r?.reported === 'number' &&
+        typeof r?.total === 'number' &&
+        r.total > 0 &&
+        r.reported >= r.total;
+      const winner =
+        cands.find((c) => c.elected) || (complete ? cands[0] : null);
+      if (winner) winner.elected = true;
       // 回報不到 5% 投開票所：只開了幾所，領先者還不能代表這個縣市
       const early =
         !winner &&
@@ -953,6 +966,8 @@ const boot = {
           (won
             ? `<li class="is-won">${esc(C.elected)} <b>${won}</b></li>`
             : '');
+      const en = $('[data-lb-elected-note]');
+      if (en) en.hidden = won === 0;
     }
 
     /** 議員儀表板：22 縣市各一格，政黨暫時席次的色條與數字；點縣市在下面列出各選舉區。 */
