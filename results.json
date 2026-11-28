@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "phase": "counting",
- "updatedAt": "2026-11-28T21:43:27+08:00",
+ "updatedAt": "2026-11-28T21:44:37+08:00",
  "sourceName": "中央選舉委員會計票資訊查詢網站",
  "sourceUrl": "https://vote.cec.gov.tw/2026-local/zh-TW/indexP.html",
  "stations": {
-  "reported": 18045,
+  "reported": 18049,
   "total": 18248
  },
  "mayors": {
@@ -64,22 +64,22 @@
    ]
   },
   "新北市": {
-   "reported": 2716,
+   "reported": 2717,
    "total": 2728,
    "candidates": [
     {
      "number": 1,
      "name": "蘇巧慧",
      "party": "民主進步黨",
-     "votes": 1049643,
-     "pct": 48.25,
+     "votes": 1050699,
+     "pct": 48.26,
      "elected": false
     },
     {
      "number": 2,
      "name": "蘇輝湟",
      "party": "無黨籍",
-     "votes": 11760,
+     "votes": 11772,
      "pct": 0.54,
      "elected": false
     },
@@ -87,8 +87,8 @@
      "number": 3,
      "name": "李四川",
      "party": "中國國民黨",
-     "votes": 1113980,
-     "pct": 51.21,
+     "votes": 1114752,
+     "pct": 51.2,
      "elected": false
     }
    ]
@@ -336,31 +336,31 @@
    ]
   },
   "新竹縣": {
-   "reported": 428,
+   "reported": 429,
    "total": 492,
    "candidates": [
     {
      "number": 1,
      "name": "鄭朝方",
      "party": "民主進步黨",
-     "votes": 143930,
-     "pct": 56.16,
+     "votes": 144307,
+     "pct": 56.15,
      "elected": false
     },
     {
      "number": 2,
      "name": "徐欣瑩",
      "party": "中國國民黨",
-     "votes": 106559,
-     "pct": 41.58,
+     "votes": 106888,
+     "pct": 41.59,
      "elected": false
     },
     {
      "number": 3,
      "name": "朱定瑀",
      "party": "無黨籍",
-     "votes": 5809,
-     "pct": 2.27,
+     "votes": 5821,
+     "pct": 2.26,
      "elected": false
     }
    ]
@@ -448,14 +448,14 @@
    ]
   },
   "雲林縣": {
-   "reported": 624,
+   "reported": 626,
    "total": 638,
    "candidates": [
     {
      "number": 1,
      "name": "吳炳輝",
      "party": "無黨籍",
-     "votes": 3018,
+     "votes": 3024,
      "pct": 0.86,
      "elected": false
     },
@@ -463,23 +463,23 @@
      "number": 2,
      "name": "張嘉郡",
      "party": "中國國民黨",
-     "votes": 172731,
-     "pct": 49.19,
+     "votes": 173296,
+     "pct": 49.18,
      "elected": false
     },
     {
      "number": 3,
      "name": "劉建國",
      "party": "民主進步黨",
-     "votes": 172681,
-     "pct": 49.17,
+     "votes": 173319,
+     "pct": 49.18,
      "elected": false
     },
     {
      "number": 4,
      "name": "林佳瑜",
      "party": "無黨籍",
-     "votes": 2739,
+     "votes": 2750,
      "pct": 0.78,
      "elected": false
     }
@@ -791,19 +791,21 @@
   }
  },
  "referendum": {
-  "agree": 7348659,
-  "disagree": 4511341,
-  "valid": 11860000,
-  "invalid": 561507,
+  "agree": 7352038,
+  "disagree": 4513157,
+  "valid": 11865195,
+  "invalid": 561746,
   "eligible": 20003835,
-  "reported": 18064,
+  "reported": 18071,
   "total": 18248,
-  "completedEligible": 19786794
+  "completedEligible": 19795401
  },
  "coverage": {
   "mayorsWithData": 22,
   "mayorsTotal": 22
  },
  "unmatched": [],
- "errors": []
+ "errors": [
+  "宜蘭縣: 新票數 242525 少於上一版 243096，保留上一版"
+ ]
 }
