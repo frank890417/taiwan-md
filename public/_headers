@@ -1,0 +1,32 @@
+# 回應標頭規則（Cloudflare Workers 靜態資產會讀這個檔；GitHub Pages 不讀，放著無害）。
+# 目的是讓 Cloudflare 上的行為跟原本在 GitHub Pages 上一致。
+# 背景：reports/cloudflare-migration-plan-2026-11-28.md
+
+# 這是公開的靜態站，所有檔案都允許別的網站讀（GitHub Pages 原本就是這樣）。
+# MCP、CLI、別人的網頁會跨網域讀 /api/ 的 JSON 與 raw 的 Markdown。
+/*
+  Access-Control-Allow-Origin: *
+
+# 檔名帶內容雜湊，內容變了檔名就變，可以放心長期快取
+/_astro/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# 文字類的檔要明講是 UTF-8，不然中文在某些瀏覽器與工具裡會變亂碼
+/raw/*
+  Content-Type: text/markdown; charset=utf-8
+
+/api/*
+  Content-Type: application/json; charset=utf-8
+
+/llms.txt
+  Content-Type: text/plain; charset=utf-8
+
+/llms-full.txt
+  Content-Type: text/plain; charset=utf-8
+
+/robots.txt
+  Content-Type: text/plain; charset=utf-8
+
+# iOS 通用連結要求這個檔以 JSON 送出
+/.well-known/apple-app-site-association
+  Content-Type: application/json
