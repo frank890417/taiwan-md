@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "fetchedAt": "2026-11-29T00:22:05+08:00",
+ "fetchedAt": "2026-11-29T00:23:03+08:00",
  "sourceName": "Yahoo新聞",
  "sourceUrl": "https://tw.news.yahoo.com/topic/2026-election/",
  "note": "媒體自行計票，非中選會官方數字",
@@ -91,7 +91,7 @@
    ]
   },
   "金門縣": {
-   "updatedAt": "2026-11-28T20:22:12+08:00",
+   "updatedAt": "2026-11-28T20:36:50+08:00",
    "candidates": [
     {
      "name": "李文良",
