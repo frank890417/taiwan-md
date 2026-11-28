@@ -1254,7 +1254,7 @@ const boot = {
     color: var(--el-ink-3);
   }
   .lb-votes {
-    margin-left: auto;
+    margin-inline-start: auto;
     font-variant-numeric: tabular-nums;
   }
   .lb-bar {
@@ -1321,7 +1321,7 @@ const boot = {
     gap: 2px;
   }
   .lb-ref-side.is-dis {
-    text-align: right;
+    text-align: end;
   }
   .lb-ref-label {
     font-size: 14px;
@@ -1448,9 +1448,10 @@ const boot = {
   .lb-overview {
     margin-bottom: 24px;
     padding: 18px 20px;
-    border-left: 3px solid var(--el-accent);
+    border-inline-start: 3px solid var(--el-accent);
     background: var(--el-card);
-    border-radius: 0 14px 14px 0;
+    border-start-end-radius: 14px;
+    border-end-end-radius: 14px;
   }
   .lb-more {
     margin-top: 9px;
